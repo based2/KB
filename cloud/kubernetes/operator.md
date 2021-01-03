@@ -1,0 +1,1 @@
+https://github.com/prometheus-operator/prometheus-operator/blob/master/bundle.yaml

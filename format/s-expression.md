@@ -1,0 +1,1 @@
+https://hg.sr.ht/~evhan/sq

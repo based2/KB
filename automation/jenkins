@@ -1,0 +1,9 @@
+
+# Notes
+
+https://www.jenkins.io/doc/pipeline/steps/ansible/#stepclass-ansibleadhoccommandbuilder-invoke-ansible-ad-hoc-command
+https://www.reddit.com/r/devops/comments/5lu6jv/jenkins_ansible_how_do_you_use_the_two_together/
+https://devops.stackexchange.com/questions/5203/passing-variables-between-scripts-in-a-jenkins-pipeline
+https://ifritltd.com/2018/03/18/advanced-jenkins-setup-creating-jenkins-configuration-as-code-and-applying-changes-without-downtime-with-java-groovy-docker-vault-consul-template-and-jenkins-job/
+https://www.oracle.com/java/technologies/java-se-support-roadmap.html
+https://dzone.com/articles/jenkins-convert-excel-data-to-tabular-format-and-s
