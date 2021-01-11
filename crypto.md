@@ -1,0 +1,1 @@
+https://www.governmentattic.org/39docs/NSAmilitaryCryptalyticsPt3_1977.pdf
