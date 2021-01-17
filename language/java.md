@@ -6,6 +6,13 @@ https://www.oracle.com/java/technologies/java-se-support-roadmap.html
 # Non JEE
 Netty
 
+# Lang
+http://www.javapractices.com/topic/TopicAction.do?Id=278
+https://stackoverflow.com/questions/1573901/concurrenthashmap-constructor-parameters
+
+# API
+## Stream
+https://codecooks.com/java8-stream-operations/
 
 # JEE
 
@@ -77,6 +84,9 @@ https://openjdk.java.net/groups/net/httpclient/intro.html
 https://seanjmullan.org/blog/2019/08/05/jdk13 JDK 13 Security Enhancements
 https://mail.openjdk.java.net/pipermail/jdk-dev/2019-August/003257.html
 
+# JVM
+https://news.ycombinator.com/item?id=23390914
+
 # Libraries
 https://www.reddit.com/r/java/comments/ct7p77/linkerparser_define_your_own_grammar_as_java/ Linker-parser: define your own grammar as java clases
 https://www.reddit.com/r/programming/comments/cr8hsw/java_an_optional_implementation_of_optional/
@@ -103,9 +113,12 @@ https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to
 
 # Tests
 https://github.com/rohanpadhye/jqf Coverage-guided semantic fuzzing
+https://www.reddit.com/r/java/comments/jcryn9/logcaptor_library_to_easily_capture_and_test_log/
 
 # Sec
 https://github.com/SE-Stuttgart/XSTAMPP
+https://www.reddit.com/r/java/comments/imheky/java_cryptography_uses_in_the_wild/
+https://www.pixelstech.net/article/1603539831-Generate-signed-certificate-from-CSR-in-Java
 
 # Scala
 https://blog.7mind.io/lightweight-reflection.html
