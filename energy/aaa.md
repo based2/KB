@@ -1,0 +1,1 @@
+https://linuxfr.org/news/mesurer-la-consommation-d-energie-des-projets-informatique-depuis-les-serveurs-avec-scaphandre
