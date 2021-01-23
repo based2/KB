@@ -20,4 +20,5 @@ https://github.com/ssh-mitm/ssh-mitm
 https://blog.dijit.sh//gpg-ssh-notes-for-current-best-practices
 
 # EOL
+https://blog.g3rt.nl/upgrade-your-ssh-keys.html
 https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHAndSHA1Deprecation

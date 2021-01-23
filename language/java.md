@@ -112,7 +112,7 @@ http://www.kyleblaney.com/maven-best-practices
 
 # Quarkus
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
-
+https://quarkus.io/blog/magic-control/ vertx
 
 # Tests
 https://github.com/rohanpadhye/jqf Coverage-guided semantic fuzzing
@@ -123,9 +123,6 @@ https://github.com/SE-Stuttgart/XSTAMPP
 https://www.reddit.com/r/java/comments/imheky/java_cryptography_uses_in_the_wild/
 https://www.pixelstech.net/article/1603539831-Generate-signed-certificate-from-CSR-in-Java
 
-# Scala
-https://blog.7mind.io/lightweight-reflection.html
-http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html
 
 # GraalVM
 https://medium.com/graalvm/graalvm-19-2-new-tools-b78a70f54b06
