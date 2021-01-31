@@ -1,0 +1,1 @@
+https://cacm.acm.org/magazines/2021/2/250085-a-review-of-the-semantic-web-field/fulltext

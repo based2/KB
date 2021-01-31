@@ -1,0 +1,1 @@
+https://www.reddit.com/r/java/comments/l5a9mf/json_and_jakarta_persistence_how_to_solve/
