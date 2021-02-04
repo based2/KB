@@ -14,6 +14,7 @@ Proxy it with a local registry:
 
 * https://goharbor.io/ CNCF VMware OSS
 
+
 * https://help.sonatype.com/repomanager3/formats/docker-registry Nexus OSS/PROD
   https://support.sonatype.com/hc/en-us/sections/203012668-Security-Advisories
   https://shiro.apache.org/security-reports.html
