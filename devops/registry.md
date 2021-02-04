@@ -1,16 +1,24 @@
 Proxy it with a local registry:
 
-    https://www.redhat.com/en/technologies/cloud-computing/quay Try & Buy
+* https://www.redhat.com/en/technologies/cloud-computing/quay Try & Buy
 
-        https://docs.okd.io/1.5/install_config/registry/extended_registry_configuration.html
+  https://docs.okd.io/1.5/install_config/registry/extended_registry_configuration.html
+  
+  Red Hat Quay v3.4.0 security update
+  
+* https://docs.docker.com/registry
 
-    https://docs.docker.com/registry
+  https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/
+  
+    https://github.com/distribution/distribution
 
-    https://goharbor.io/ CNCF VMware OSS
+* https://goharbor.io/ CNCF VMware OSS
 
-    https://help.sonatype.com/repomanager3/formats/docker-registry Nexus OSS/PROD
+* https://help.sonatype.com/repomanager3/formats/docker-registry Nexus OSS/PROD
+  https://support.sonatype.com/hc/en-us/sections/203012668-Security-Advisories
+  https://shiro.apache.org/security-reports.html
 
-    https://www.jfrog.com/confluence/display/JFROG/Docker+Registry JFrog Artifactory.
+* https://www.jfrog.com/confluence/display/JFROG/Docker+Registry JFrog Artifactory.
 
     http://port.us.org/ SUSE
 
@@ -43,6 +51,26 @@ https://github.com/google/go-containerregistry
 
 https://github.com/deislabs/oras
 
+https://github.com/theupdateframework/notary Publish and verify content
+https://github.com/cnabio/cnab-spec/blob/cnab-security-1.0.0-ga/300-CNAB-security.md
+
+https://github.com/google/crfs CRFS: Container Registry Filesystem
+https://github.com/containerd/stargz-snapshotter`
+https://pkg.go.dev/github.com/google/crfs/stargz
+
+https://github.com/opencontainers/artifacts/blob/master/artifact-authors.md
+https://github.com/opencontainers/umoci
+https://github.com/opencontainers/runtime-spec/blob/master/runtime.md
+status (string, REQUIRED) is the runtime state of the container. The value MAY be one of:
+
+    creating: the container is being created (step 2 in the lifecycle)
+    created: the runtime has finished the create operation (after step 2 in the lifecycle), and the container process has neither exited nor executed the user-specified program
+    running: the container process has executed the user-specified program but has not exited (after step 5 in the lifecycle)
+    stopped: the container process has exited (step 7 in the lifecycle)
+    Additional values MAY be defined by the runtime, however, they MUST be used to represent new runtime states not defined above.
+
+https://github.com/opencontainers/runtime-tools
+https://www.projectatomic.io/blog/2016/08/ocitools-libgen/
 
 https://github.com/enseadaio/enseada
 
