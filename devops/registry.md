@@ -21,12 +21,14 @@ Proxy it with a local registry:
 
 * https://www.jfrog.com/confluence/display/JFROG/Docker+Registry JFrog Artifactory.
 
-    http://port.us.org/ SUSE
+* http://port.us.org/ SUSE
 
-    https://docs.gitlab.com/ee/user/packages/container_registry/
+* https://docs.gitlab.com/ee/user/packages/container_registry/
 
         https://www.digitalocean.com/community/tutorials/how-to-set-up-a-private-docker-registry-on-top-of-digitalocean-spaces-and-use-it-with-digitalocean-kubernetes
 
+* https://pulpproject.org/content-plugins/ container
+  
     https://github.com/verdaccio/verdaccio
 
 
@@ -69,6 +71,10 @@ status (string, REQUIRED) is the runtime state of the container. The value MAY b
     running: the container process has executed the user-specified program but has not exited (after step 5 in the lifecycle)
     stopped: the container process has exited (step 7 in the lifecycle)
     Additional values MAY be defined by the runtime, however, they MUST be used to represent new runtime states not defined above.
+
+https://github.com/awslabs/tough
+* tough is a Rust client library for The Update Framework (TUF) repositories.
+* tuftool is a Rust command-line utility for generating and signing TUF repositories.
 
 https://github.com/opencontainers/runtime-tools
 https://www.projectatomic.io/blog/2016/08/ocitools-libgen/

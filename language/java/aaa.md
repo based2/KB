@@ -110,18 +110,13 @@ https://leobenkel.com/2019/10/open-source-to-maven-with-sonatype/
 
 http://www.kyleblaney.com/maven-best-practices
 
-# Quarkus
-https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
-https://quarkus.io/blog/magic-control/ vertx
+
 
 # Tests
 https://github.com/rohanpadhye/jqf Coverage-guided semantic fuzzing
 https://www.reddit.com/r/java/comments/jcryn9/logcaptor_library_to_easily_capture_and_test_log/
 
 # Sec
-https://github.com/SE-Stuttgart/XSTAMPP
-https://www.reddit.com/r/java/comments/imheky/java_cryptography_uses_in_the_wild/
-https://www.pixelstech.net/article/1603539831-Generate-signed-certificate-from-CSR-in-Java
 
 
 # GraalVM

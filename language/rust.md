@@ -1,3 +1,4 @@
+https://github.com/EmbarkStudios/rust-ecosystem
 
 https://rust-unofficial.github.io/patterns/
 https://news.ycombinator.com/item?id=25620110

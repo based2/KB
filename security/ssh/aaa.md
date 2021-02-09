@@ -10,6 +10,13 @@ https://alexandre.alapetite.fr/doc-alex/ssh-tunnel-http/index.fr.html
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_ca_certificate_signing-keys
 https://smallstep.com/blog/use-ssh-certificates/
 
+# MFA
+https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-with-Yubikeys.html
+  * https://news.ycombinator.com/item?id=26075386
+
+# SSH tunnels
+https://robotmoon.com/ssh-tunnels/
+
 # Blue
 https://www.tronyxworld.be/2020/hardening_ssh/
 

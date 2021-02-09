@@ -1,4 +1,0 @@
-registries
-
-harbour
-nexus

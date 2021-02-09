@@ -1,0 +1,1 @@
+https://news.ycombinator.com/item?id=26054014 	RFC 1178: Choosing a name for your computer (1990)
