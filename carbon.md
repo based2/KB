@@ -1,0 +1,1 @@
+https://www.airminers.org/ HTTPS cert issue

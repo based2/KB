@@ -1,5 +1,10 @@
 https://www.scala-lang.org/
 
+https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html
+ * https://news.ycombinator.com/item?id=26101435
+
+https://github.com/zio/zio
+
 https://eed3si9n.com/sbt-1.4.6
 
 https://blog.7mind.io/lightweight-reflection.html
