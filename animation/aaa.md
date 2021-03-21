@@ -5,3 +5,8 @@ https://www.joshwcomeau.com/animation/css-transitions/
 
 https://libresprite.github.io/
   * https://news.ycombinator.com/item?id=26062818
+
+https://learningsynths.ableton.com/en/playground
+
+https://joshdata.me/iceberger.html
+* 

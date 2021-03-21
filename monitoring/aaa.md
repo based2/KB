@@ -16,3 +16,7 @@ RFC 2064 - 2020-03-17 - Event-driven Observability
 
 https://thenewstack.io/sysdig-hands-off-ebpf-falco-core-to-the-cloud-native-computing-foundation/
 
+https://github.com/centreon/centreon GPLv2 PHP C++
+
+# New entrant
+https://www.kartar.net/2020/05/a-bit-of-a-vector/

@@ -11,3 +11,14 @@ https://softwareengineering.stackexchange.com/questions/145315/does-git-have-a-s
    git config --system receive.denyDeletes true
 
 https://wiki.phantomnet.org/wiki/everything-you-need-to-unlearn-about-git
+
+https://github.com/lyndseypadget/semflow A Git Workflow for Version Management: RESTful APIs and beyond
+
+# Security
+https://github.blog/2021-03-09-git-clone-vulnerability-announced/
+https://www.reddit.com/r/programming/comments/m7mdab/security_implications_of_stolen_gitobjects_files/
+
+# Monorepo
+https://news.ycombinator.com/item?id=26479127
+
+https://news.ycombinator.com/item?id=26164790

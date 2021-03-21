@@ -1,0 +1,13 @@
+https://www.governmentattic.org/39docs/NSAmilitaryCryptalyticsPt3_1977.pdf
+
+http://cdn.getlynx.io/2019-03-17_Lynx_Whitepaper_v1.1.pdf
+
+https://news.ycombinator.com/item?id=26526108 Cryptography behind the top cryptocurrencies 
+
+# Experiments
+https://clickclickclick.click/
+
+
+# News
+https://fstoppers.com/opinion/nfts-are-pyramid-scheme-and-people-are-already-losing-money-554869
+* https://news.ycombinator.com/item?id=26530024

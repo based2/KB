@@ -1,0 +1,1 @@
+https://www.oreilly.com/radar/the-end-of-silicon-valley-as-we-know-it/
