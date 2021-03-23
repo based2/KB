@@ -1,6 +1,6 @@
 https://news.ycombinator.com/item?id=25701053
 
-susam 23 minutes ago [–]
+susam [–]
 
 Note that closing </p> tags are optional†, so one can be an HTML purist and still write a decent HTML document with a relatively clean markup like this:
 
@@ -29,3 +29,5 @@ Similarly, the markup for lists and tables can be cleaned up too because the clo
 Note that the opening <html> tag is optional† too but I retained it in the above example to specify the lang attribute otherwise the W3 markup validator warns, "Consider adding a lang attribute to the html start tag to declare the language of this document."
 
 † These tags are optional provided certain conditions are met. See the spec for full details. In practice, one almost never has to worry about these conditions. 
+
+https://paulkinchla.com/blog/javascript-is-a-ghost/

@@ -11,3 +11,5 @@ https://clickclickclick.click/
 # News
 https://fstoppers.com/opinion/nfts-are-pyramid-scheme-and-people-are-already-losing-money-554869
 * https://news.ycombinator.com/item?id=26530024
+
+https://blog.erratasec.com/2021/03/deconstructing-that-69million-nft.html

@@ -1,0 +1,1 @@
+https://www.industrialempathy.com/posts/image-optimizations/

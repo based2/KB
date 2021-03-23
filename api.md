@@ -1,0 +1,1 @@
+https://stripe.com/blog/api-versioning

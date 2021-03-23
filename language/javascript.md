@@ -1,4 +1,5 @@
 # Svelt
+https://news.ycombinator.com/item?id=26557886
 
 # VueJS
 

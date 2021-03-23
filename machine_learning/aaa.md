@@ -5,3 +5,9 @@ https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-S
 
 
 https://tvm.apache.org/vta
+
+
+https://dataflowr.github.io/website/
+
+# GPT
+https://news.ycombinator.com/item?id=26534000

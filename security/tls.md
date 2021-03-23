@@ -26,3 +26,6 @@ https://www.bleepingcomputer.com/news/security/dutch-govt-explains-the-risks-beh
 
 # Post Quantum
 https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/
+
+# News
+https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html 25th March 2021 - 1.1.1k is a security-fix release HIGH

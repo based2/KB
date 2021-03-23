@@ -27,3 +27,7 @@ https://yolkorbit.com/introduction-to-actor-supervision-akka-typed-with-scala-fo
 
 # Lib
 https://indigoengine.io/
+
+https://mungingdata.com/scala/maintenance-nightmare-upgrade/
+
+https://indigoengine.io/

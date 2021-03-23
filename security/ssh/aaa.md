@@ -6,6 +6,8 @@ https://keyper.dbsentry.com/post/anatomy-of-openssh-krl/
 
 https://alexandre.alapetite.fr/doc-alex/ssh-tunnel-http/index.fr.html
 
+https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54
+
 # Certificates
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_ca_certificate_signing-keys
 https://smallstep.com/blog/use-ssh-certificates/
