@@ -9,5 +9,7 @@ https://tvm.apache.org/vta
 
 https://dataflowr.github.io/website/
 
+https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/
+
 # GPT
 https://news.ycombinator.com/item?id=26534000

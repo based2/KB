@@ -2,6 +2,8 @@ https://foundation.rust-lang.org/posts/2021-02-08-hello-world/
 
 https://github.com/EmbarkStudios/rust-ecosystem
 
+https://blog.mgattozzi.dev/rusts-runtime/
+
 https://rust-lang-nursery.github.io/rust-cookbook/intro.html
   * https://news.ycombinator.com/item?id=26101066
 
@@ -27,5 +29,13 @@ https://github.com/Xudong-Huang/may concurrency
 
 https://github.com/bastion-rs/bastion Highly-available Distributed Fault-tolerant Runtime - Alpha
 
+https://www.collabora.com/news-and-blog/blog/2021/03/24/rust-integrating-llvm-source-base-code-coverage-with-gitlab/
+
+https://blog.urth.org/2021/03/21/writing-a-postgres-sql-pretty-printer-in-rust-part-1-5/
+
+# Interop
+https://news.ycombinator.com/item?id=26565444 CXX C++
+
 # News
+https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html 1.51
 https://news.ycombinator.com/item?id=26101922 rust 1.59

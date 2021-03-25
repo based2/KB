@@ -12,5 +12,9 @@ https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 ###
 https://age.apache.org/#
 
+# Migration
+https://github.com/sastraxi/pgsh
+
+
 # News
 https://www.postgresql.org/about/news/1960/ PostgreSQL 11.5, 10.10, 9.6.15, 9.5.19, 9.4.24, and 12 Beta 3 Released! Sec Fixes

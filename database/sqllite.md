@@ -9,4 +9,9 @@ ShareAlike 4.0 International License (CC BY - SA 4.0)
 https://doi.org/10.46386/ijcfati.v1i1 Making  the  Invisible  Visible
 – Techniques  for Recovering Deleted SQLite Data Records
 
+https://news.ycombinator.com/item?id=26580614
+
 https://fossil-scm.org/home/doc/trunk/www/index.wiki
+https://www.fossil-scm.org/home/doc/trunk/www/chat.md
+* https://news.ycombinator.com/item?id=26578581
+

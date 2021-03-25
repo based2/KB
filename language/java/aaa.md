@@ -75,18 +75,6 @@ https://www.infoq.com/presentations/java-futures-2019/
 
 https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink
 
-
-# 11
-https://simply-how.com/custom-java-runtime
-https://openjdk.java.net/groups/net/httpclient/intro.html
-
-# 13
-https://seanjmullan.org/blog/2019/08/05/jdk13 JDK 13 Security Enhancements
-https://mail.openjdk.java.net/pipermail/jdk-dev/2019-August/003257.html
-
-# 17
-https://jdk.java.net/loom/
-
 # JVM
 https://news.ycombinator.com/item?id=23390914
 
