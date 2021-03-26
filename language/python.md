@@ -28,6 +28,9 @@ https://news.ycombinator.com/item?id=26076721
 https://github.com/wang0618/PyWebIO
 * https://news.ycombinator.com/item?id=26554451
 
+https://github.com/isman7/gimp-python-development
+* https://news.ycombinator.com/item?id=26589782
+
 # Pypi
 https://news.ycombinator.com/item?id=26565970
 

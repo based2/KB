@@ -6,6 +6,8 @@ https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 
 https://postgres.cz/wiki/PostgreSQL_SQL_Tricks_III
 
+https://blog.crunchydata.com/blog/get-started-with-explain-analyze
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 

@@ -1,0 +1,4 @@
+https://pdfbox.apache.org/
+
+https://wkhtmltopdf.org/ HTML2PDF
+* https://news.ycombinator.com/item?id=26578826

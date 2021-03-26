@@ -45,6 +45,8 @@ https://github.com/warmuuh/milkman Milkman - An Extensible Request/Response Work
 JEE
 https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
 
+https://arjan-tijms.omnifaces.org/2021/03/the-cn4j-profile-as-common-ee-and-mp.html
+
 # OracleDramaUpdate
 https://www.reddit.com/r/java/comments/c65c9l/aleksey_shipil%C3%ABv_about_jdk_updates/
 https://en.wikipedia.org/wiki/Java_version_history
@@ -111,5 +113,8 @@ https://www.reddit.com/r/java/comments/jcryn9/logcaptor_library_to_easily_captur
 https://medium.com/graalvm/graalvm-19-2-new-tools-b78a70f54b06
 
 https://www.reddit.com/r/java/comments/cqaiy1/jvmls_2019_tornadovm_with_juan_fumero/
+
+# News
+https://www.theserverside.com/news/252498427/AdoptOpenJDK-moves-to-Eclipse-Foundation-as-Adoptium
 
 

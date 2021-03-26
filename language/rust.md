@@ -33,6 +33,8 @@ https://www.collabora.com/news-and-blog/blog/2021/03/24/rust-integrating-llvm-so
 
 https://blog.urth.org/2021/03/21/writing-a-postgres-sql-pretty-printer-in-rust-part-1-5/
 
+https://pwy.io/en/posts/learning-to-fly-pt3/
+
 # Interop
 https://news.ycombinator.com/item?id=26565444 CXX C++
 
