@@ -16,8 +16,8 @@ https://news.ycombinator.com/item?id=20477212 The JSON Meta Application Protocol
 https://github.com/corelight/community-id-spec ID Flow Hashing processing flow data from monitoring app
 https://daffodil.apache.org/docs/dfdl/#_Toc398030797 Data Format Description Language (DFDL) 
 
-
-
+https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315
+* https://news.ycombinator.com/item?id=26602156
 # Examples
 https://archive.org/details/jonah-edwards-presentation
 

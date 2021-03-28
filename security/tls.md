@@ -18,6 +18,10 @@ https://support.cloudbees.com/hc/en-us/articles/203821254-How-to-install-a-new-S
 
 https://www.pixelstech.net/article/1445603357-A-HTTPS-client-and-HTTPS-server-demo-in-Java
 
+https://blog.cloudflare.com/private-key-compromises/ Heartbleed Revisited (OSCP)
+
+https://istlsfastyet.com/
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 https://news.ycombinator.com/item?id=20988584 https://news.ycombinator.com/item?id=21308939

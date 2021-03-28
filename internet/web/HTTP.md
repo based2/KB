@@ -1,0 +1,10 @@
+https://www.reddit.com/r/programming/comments/m9hbdv/http_compression_boost_your_servers_speed/
+
+https://news.ycombinator.com/item?id=26343577
+
+https://news.ycombinator.com/item?id=26271117 RedBean
+
+https://lists.w3.org/Archives/Public/ietf-http-wg/2020OctDec/0134.html TCP and UDP over HTTP
+
+https://httptoolkit.tech/blog/http-wtf/
+* https://news.ycombinator.com/item?id=26343577

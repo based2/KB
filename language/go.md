@@ -22,3 +22,7 @@ https://news.ycombinator.com/item?id=25805158 https://eli.thegreenplace.net/2021
 # Sec
 
 https://www.bleepingcomputer.com/news/security/google-fixes-severe-golang-windows-rce-vulnerability/
+
+# Book
+* https://www.practical-go-lessons.com/  https://www.practical-go-lessons.com/buy-digital-or-hard-copy
+ * https://news.ycombinator.com/item?id=26568014

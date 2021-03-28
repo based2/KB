@@ -35,6 +35,12 @@ https://blog.urth.org/2021/03/21/writing-a-postgres-sql-pretty-printer-in-rust-p
 
 https://pwy.io/en/posts/learning-to-fly-pt3/
 
+https://github.com/mcorbin/meuse Free crate registry
+
+# Book
+https://rust-unofficial.github.io/patterns/
+* https://news.ycombinator.com/item?id=25620110
+
 # Interop
 https://news.ycombinator.com/item?id=26565444 CXX C++
 
