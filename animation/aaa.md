@@ -12,3 +12,7 @@ https://joshdata.me/iceberger.html
 *
 
 https://deep-fold.itch.io/pixel-planet-generator
+
+
+# Fluid
+https://softologyblog.wordpress.com/2017/03/28/more-fun-with-lattice-boltzman-method-lbm-fluid-simulations/

@@ -12,3 +12,12 @@ kubelet
 https://github.com/virtual-kubelet/systemk Systemk: virtual kubelet for systemd
 
 https://docs.kubecost.com/allocation-api
+
+https://github.com/kubernetes-sigs/krew kubectl plugins
+
+https://github.com/kubernetes-sigs/image-builder
+
+https://kubespray.io/#/
+
+# Infra
+https://google.github.io/kctf/

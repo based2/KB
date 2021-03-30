@@ -1,3 +1,15 @@
 https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/
 
 https://tcpreplay.appneta.com/
+
+https://copyconstruct.medium.com/socat-29453e9fc8a6
+
+https://computer.rip/2021-03-27-the-actual-osi-model.html
+
+
+https://blog.tonari.no/introducing-innernet
+  * innernet network, peers are added or disabled by the creator of the network/
+  * https://news.ycombinator.com/item?id=26628285
+
+
+

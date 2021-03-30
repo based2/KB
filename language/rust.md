@@ -37,6 +37,12 @@ https://pwy.io/en/posts/learning-to-fly-pt3/
 
 https://github.com/mcorbin/meuse Free crate registry
 
+https://news.ycombinator.com/item?id=26620372
+
+# Async
+https://fasterthanli.me/articles/pin-and-suffering
+* https://lobste.rs/s/f98dpj/pin_suffering
+
 # Book
 https://rust-unofficial.github.io/patterns/
 * https://news.ycombinator.com/item?id=25620110

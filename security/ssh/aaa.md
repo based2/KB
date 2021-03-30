@@ -1,4 +1,5 @@
-
+https://www.openssh.com/
+https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
 https://goteleport.com/blog/ssh-config/
 https://news.ycombinator.com/item?id=24599837

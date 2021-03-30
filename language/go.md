@@ -13,6 +13,10 @@ https://news.ycombinator.com/item?id=26540121
 
 https://rytisbiel.com/2021/03/06/darker-corners-of-go/
 
+http://jeremymikkola.com/posts/2017_03_29_know_your_nil.html
+https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
+* https://news.ycombinator.com/item?id=26630932
+
 
 # Links
 https://news.ycombinator.com/item?id=25881212`

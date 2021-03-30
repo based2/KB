@@ -9,5 +9,28 @@
 * https://librearts.org/
 
 
+https://arxiv.org/abs/2103.00352 Underproduction: An Approach for Measuring Risk in Open Source Software
+* https://news.ycombinator.com/item?id=26630385
+
 # Funding
 https://news.ycombinator.com/item?id=26578898
+
+# Apps
+## LibreOffice
+https://www.libreoffice.org/
+
+https://www.collaboraoffice.com/solutions/collabora-office/
+* https://news.ycombinator.com/item?id=26614654
+
+## Draw
+https://krita.org/
+https://www.gimp.org/
+https://inkscape.org/
+https://www.freecadweb.org/
+https://www.blender.org/
+
+https://www.opensymbols.org/
+
+
+## Notepad++
+https://notepad-plus-plus.org/
