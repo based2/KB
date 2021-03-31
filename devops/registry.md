@@ -84,3 +84,7 @@ https://github.com/enseadaio/enseada
 https://github.com/ContainerSolutions/trow
 
 https://archive.fosdem.org/2020/schedule/event/containers_lazy_image_distribution/attachments/slides/3759/export/events/attachments/containers_lazy_image_distribution/slides/3759/stargz_snapshotter.pdf
+
+https://www.fasten-project.eu/#
+* https://linuxfr.org/news/presentation-du-projet-fasten-et-de-son-atelier-le-8-avril-2021
+ * https://github.com/tern-tools/tern

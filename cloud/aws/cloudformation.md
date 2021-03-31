@@ -1,0 +1,1 @@
+https://www.stackery.io/blog/aws-cloudformation-templates-best-practices/

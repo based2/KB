@@ -34,6 +34,9 @@ https://news.ycombinator.com/item?id=26076721
 # Gplot
 https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/
 
+# Build
+https://venthur.de/2021-03-31-python-makefiles.html
+
 # App
 https://github.com/wang0618/PyWebIO
 * https://news.ycombinator.com/item?id=26554451

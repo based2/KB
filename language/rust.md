@@ -51,5 +51,7 @@ https://rust-unofficial.github.io/patterns/
 https://news.ycombinator.com/item?id=26565444 CXX C++
 
 # News
+* https://android.googlesource.com/platform/system/bt/+/master/gd/rust/
+  *  https://news.ycombinator.com/item?id=26647981
 https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html 1.51
 https://news.ycombinator.com/item?id=26101922 rust 1.59

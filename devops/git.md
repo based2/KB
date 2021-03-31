@@ -29,6 +29,10 @@ https://github.com/git/git/blob/master/banned.h Git's list of banned C functions
 https://twitter.com/ryancdotorg/status/1375484757916672000
 * https://news.ycombinator.com/item?id=26615938
 
+## Signature
+https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove
+* https://news.ycombinator.com/item?id=26640915
+
 # Monorepo
 https://news.ycombinator.com/item?id=26479127
 
