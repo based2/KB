@@ -1,6 +1,10 @@
 # Tests
 https://testssl.sh/
 
+https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/
+
+https://utcc.utoronto.ca/~cks/space/blog/web/OCSPStaplingAndErrors
+
 # 1.3
 
 Compact TLS 1.3 https://tools.ietf.org/html/draft-rescorla-tls-ctls-02 https://news.ycombinator.com/item?id=20676408

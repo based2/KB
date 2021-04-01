@@ -21,3 +21,6 @@ https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actio
 # Examples
 https://archive.org/details/jonah-edwards-presentation
 
+https://patents.google.com/patent/US9300552
+
+

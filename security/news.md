@@ -1,3 +1,6 @@
+https://www.bleepingcomputer.com/news/security/vmware-fixes-authentication-bypass-in-data-center-security-software/
+https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c
+
 https://dorper.me/articles/unileak.aspx
 * https://news.ycombinator.com/item?id=26656759
 

@@ -12,6 +12,8 @@ https://news.ycombinator.com/item?id=23516947
 
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 
+https://pgmodeler.io/
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 

@@ -43,11 +43,17 @@ https://github.com/christian-blades-cb/proquint-rs
 
 https://ferrous-systems.com/blog/test-embedded-app/
 
+https://github.com/RustSec/advisory-db
+
+https://ferrous-systems.com/blog/defmt/
+
 # Async
 https://fasterthanli.me/articles/pin-and-suffering
 * https://lobste.rs/s/f98dpj/pin_suffering
 
 # Book
+https://github.com/ANSSI-FR/rust-guide
+
 https://rust-unofficial.github.io/patterns/
 * https://news.ycombinator.com/item?id=25620110
 

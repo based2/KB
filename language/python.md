@@ -51,6 +51,9 @@ https://news.ycombinator.com/item?id=26565970
 # Interops
 https://hpyproject.org/blog/posts/2021/03/hello-hpy/
 
+# Infra
+https://bluebanquise.com/
+
 # News
 https://medium.com/opentelemetry/announcing-opentelemetry-python-1-0-4e097562b8e0
 https://realpython.com/interview-dane-hillard/

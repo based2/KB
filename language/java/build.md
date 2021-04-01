@@ -1,4 +1,9 @@
 # Maven
+https://maven.apache.org/
+
+https://medium.com/geekculture/how-to-publish-artifacts-on-maven-central-24342fd286cd
+
+https://github.com/mvndaemon/mvnd
 
 
 # Gradle

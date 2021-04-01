@@ -3,3 +3,8 @@ https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-crypto
 https://github.com/deptofdefense
 
 https://attack.mitre.org/matrices/enterprise/
+
+https://www.openvas.org/
+
+
+https://en.wikipedia.org/wiki/Claims-based_identity

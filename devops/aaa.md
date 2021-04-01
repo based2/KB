@@ -9,4 +9,6 @@ https://devops.stackexchange.com/questions/2731/downloading-docker-images-from-d
 
 http://devopsku.be/
 
+https://github.com/mozilla/sops
+
 

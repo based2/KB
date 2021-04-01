@@ -17,3 +17,5 @@ https://news.ycombinator.com/item?id=26534000
 # Limits
 https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do
 * https://news.ycombinator.com/item?id=26646541
+
+https://hal.archives-ouvertes.fr/hal-01918271/file/Why_is_the_transference_theory_of_causat.pdf

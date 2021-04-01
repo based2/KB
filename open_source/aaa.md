@@ -18,6 +18,8 @@ https://openeveryone.substack.com/p/on-the-spectrum-of-openness
 # Funding
 https://news.ycombinator.com/item?id=26578898
 
+https://ec.europa.eu/info/departments/informatics/open-source-software-strategy_en
+
 # Apps
 ## Analytics
 https://inthegood.co/taking-on-google/
@@ -32,6 +34,7 @@ https://www.blender.org/
 
 https://www.opensymbols.org/
 
+http://www.openboard.ch/index.en.html
 
 ## Text
 

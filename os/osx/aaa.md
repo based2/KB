@@ -6,5 +6,9 @@ brew deps --tree --installed
 
 https://news.ycombinator.com/item?id=26435783 .DS_Store
 
+# VM
+https://github.com/foxlet/macOS-Simple-KVM
+
+
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web

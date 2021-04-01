@@ -3,3 +3,11 @@
 
 * https://learn.adacore.com/pdf_books/courses/Ada_For_The_CPP_Java_Developer.pdf
  * https://news.ycombinator.com/item?id=26609060
+
+https://en.wikipedia.org/wiki/GNAT
+
+# Ada++
+http://www.adapplang.com/
+
+# Spark
+https://www.adacore.com/about-spark

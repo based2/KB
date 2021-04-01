@@ -1,4 +1,6 @@
-https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/ 
+https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
+
+https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/
 
 https://blog.dave.tf/post/new-kubernetes/ A better Kubernetes, from the ground up
 
@@ -19,5 +21,10 @@ https://github.com/kubernetes-sigs/image-builder
 
 https://kubespray.io/#/
 
+https://www.infoq.com/news/2020/02/wksctl-kubernetes-gitops/
+
 # Infra
 https://google.github.io/kctf/
+
+# News
+https://www.theregister.com/2020/12/04/aws_eks_anywhere/

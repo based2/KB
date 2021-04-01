@@ -1,3 +1,6 @@
+https://binjr.eu/
+
+https://stackoverflow.com/questions/3523442/difference-between-clock-realtime-and-clock-monotonic
 
 # Duration
 Building a command-line time tracker in shell script
@@ -9,3 +12,6 @@ https://github.com/oz/tz
 
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
+
+#
+https://en.wikipedia.org/wiki/Time_crystal

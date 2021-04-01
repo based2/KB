@@ -2,19 +2,18 @@ https://projects.eclipse.org/projects/ee4j.jaxrs
 
 https://en.wikipedia.org/wiki/Jakarta_RESTful_Web_Services
 
-http://cxf.apache.org/
+https://cxf.apache.org/
+
+https://juneau.apache.org/#about.html
+https://mail-archives.apache.org/mod_mbox/www-announce/201912.mbox/%3CCAJb-xDJ-4s3nue4YmMA4MT%3DcWuQYfVgw8%3DeZTfFxnWpZw_3K0w%40mail.gmail.com%3E
+
 
 https://www.oracle.com/technical-resources/articles/java/json.html
 
 https://www.tomitribe.com/blog/5-minutes-or-less-json-b-with-apache-johnzon/
 
-https://github.com/google/gson
-
-Libraries
-Java/Jackson
-https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062
-
-https://news.ycombinator.com/item?id=20736393 How to Create JDBC Driver over Rest APIs
+# WS
+https://www.igorkromin.net/index.php/2018/12/06/setting-jax-ws-webservice-client-timeout-values-correctly-within-a-weblogic-12c-container/
 
 
 Auth/JWT
@@ -31,11 +30,7 @@ https://stackoverflow.com/questions/26777083/best-practice-for-rest-token-based-
 https://news.ycombinator.com/item?id=20929051 Common REST API mistakes and how to avoid them
 
 Tests
-
-
-JSON
-https://en.wikipedia.org/wiki/JSON
-https://news.ycombinator.com/item?id=20245913 Catj – A new way to display JSON files
+https://rest-assured.io/
 
 GraphQL
 https://apisyouwonthate.com/blog/representing-state-in-rest-and-graphql

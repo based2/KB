@@ -1,6 +1,7 @@
 # Spring
 https://www.sivalabs.in/2020/09/all-the-resources-you-ever-need-as-a-java-spring-application-developer/
 
+https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/
 
 # Quarkus
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/

@@ -30,6 +30,8 @@ https://devblogs.microsoft.com/devops/release-flow-how-we-do-branching-on-the-vs
 http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/concepts/phase_milestones_5678231E.html
 
 # Security
+https://github.com/bitnami-labs/sealed-secrets
+
 https://github.blog/2021-03-09-git-clone-vulnerability-announced/
 https://www.reddit.com/r/programming/comments/m7mdab/security_implications_of_stolen_gitobjects_files/
 
@@ -38,6 +40,10 @@ https://github.com/git/git/blob/master/banned.h Git's list of banned C functions
 
 https://twitter.com/ryancdotorg/status/1375484757916672000
 * https://news.ycombinator.com/item?id=26615938
+
+https://release-monitoring.org/
+
+https://blog.frankel.ch/inserting-new-commit-git-history/
 
 ## Signature
 https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove

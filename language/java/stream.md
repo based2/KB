@@ -7,3 +7,5 @@ https://blog.krecan.net/2014/03/18/how-to-specify-thread-pool-for-java-8-paralle
 
 https://isank.dev/posts/java-streams-real-life-approach/
 * https://news.ycombinator.com/item?id=23053029
+
+https://nipafx.dev/java-16-stream-mapmulti/

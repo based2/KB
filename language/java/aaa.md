@@ -3,6 +3,7 @@ Versions: 8 GA, 11 GA, 17 Early access
 https://www.oracle.com/java/technologies/java-se-support-roadmap.html
 
 https://blog.jetbrains.com/idea/2020/05/25-things-we-love-about-java/
+https://dzone.com/articles/introduction-to-reflectionless-know-what-the-new-t
 
 # Servers
 # Non JEE
@@ -60,13 +61,6 @@ https://adoptopenjdk.net/
 https://www.scala-lang.org/news/2.13.0
 https://medium.com/97-things/rediscover-the-jvm-through-clojure-fa2ac5e29cbb
 
-# SecChecks
-https://spotbugs.github.io/
-https://find-sec-bugs.github.io/
-https://github.com/google/error-prone
-https://www.owasp.org/index.php/OWASP_Dependency_Check
-https://blog.developer.atlassian.com/how-we-stopped-vulnerable-code-from-landing-in-production/
-
 # Data
 http://adambien.blog/roller/abien/entry/combining_jsonobjects_with_jsonmerge_and
 
@@ -90,8 +84,6 @@ https://www.threeten.org/threeten-extra/
 
 https://javaee.github.io/jsonp/
 
-# WS
-https://www.igorkromin.net/index.php/2018/12/06/setting-jax-ws-webservice-client-timeout-values-correctly-within-a-weblogic-12c-container/
 
 # JDBC
 https://github.com/blynkkk/clickhouse4j

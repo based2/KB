@@ -6,3 +6,7 @@ https://news.ycombinator.com/item?id=26165629
 https://en.wikipedia.org/wiki/Zooko%27s_triangle
 
 http://boringtechnology.club/
+
+https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
+
+

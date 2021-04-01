@@ -18,5 +18,8 @@ https://thenewstack.io/sysdig-hands-off-ebpf-falco-core-to-the-cloud-native-comp
 
 https://github.com/centreon/centreon GPLv2 PHP C++
 
+https://flume.apache.org/
+https://skywalking.apache.org/
+
 # New entrant
 https://www.kartar.net/2020/05/a-bit-of-a-vector/
