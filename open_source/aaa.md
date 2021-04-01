@@ -19,11 +19,9 @@ https://openeveryone.substack.com/p/on-the-spectrum-of-openness
 https://news.ycombinator.com/item?id=26578898
 
 # Apps
-## LibreOffice
-https://www.libreoffice.org/
-
-https://www.collaboraoffice.com/solutions/collabora-office/
-* https://news.ycombinator.com/item?id=26614654
+## Analytics
+https://inthegood.co/taking-on-google/
+* https://news.ycombinator.com/item?id=26648031
 
 ## Draw
 https://krita.org/
@@ -37,7 +35,13 @@ https://www.opensymbols.org/
 
 ## Text
 
-Notepad++
+### LibreOffice
+https://www.libreoffice.org/
+
+https://www.collaboraoffice.com/solutions/collabora-office/
+* https://news.ycombinator.com/item?id=26614654
+
+### Notepad++
 https://notepad-plus-plus.org/
 
 ## Video

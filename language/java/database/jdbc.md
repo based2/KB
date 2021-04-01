@@ -1,0 +1,1 @@
+https://github.com/marschall/jfr-jdbc A JDBC driver that wraps an other JDBC driver and generates JFR events.

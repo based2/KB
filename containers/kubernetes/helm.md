@@ -237,3 +237,5 @@ What to read next
     Using Helm in a Codefresh pipeline
     Helm Dashboard
     Helm Promotion boards
+
+https://github.com/karuppiah7890/helm-schema-gen generate JSON Schema for values yaml

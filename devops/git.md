@@ -14,10 +14,20 @@ https://wiki.phantomnet.org/wiki/everything-you-need-to-unlearn-about-git
 
 https://github.com/lyndseypadget/semflow A Git Workflow for Version Management: RESTful APIs and beyond
 
+https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
+https://muhammadraza.me/2019/Exploring-Git/
+
 # Flow
+https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow
+
+https://trunkbaseddevelopment.com/
 
 https://blog.brixit.nl/git-email-flow-versus-github-flow/
 * https://news.ycombinator.com/item?id=26629765
+
+https://devblogs.microsoft.com/devops/release-flow-how-we-do-branching-on-the-vsts-team/
+
+http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/concepts/phase_milestones_5678231E.html
 
 # Security
 https://github.blog/2021-03-09-git-clone-vulnerability-announced/

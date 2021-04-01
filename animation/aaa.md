@@ -13,6 +13,12 @@ https://joshdata.me/iceberger.html
 
 https://deep-fold.itch.io/pixel-planet-generator
 
+# Transition
+https://css-tricks.com/nailing-that-cool-dissolve-transition/
+
+# Torus
+https://codepen.io/rthavi/pen/RevVzY
+
 
 # Fluid
 https://softologyblog.wordpress.com/2017/03/28/more-fun-with-lattice-boltzman-method-lbm-fluid-simulations/

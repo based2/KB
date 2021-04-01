@@ -1,3 +1,6 @@
+https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/
+* https://news.ycombinator.com/item?id=26662297
+
 # 17
 https://jdk.java.net/loom/
 

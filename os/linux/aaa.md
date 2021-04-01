@@ -10,6 +10,9 @@ https://systemd.io/
 https://raw.githubusercontent.com/systemd/systemd/main/NEWS
 * https://news.ycombinator.com/item?id=26642780
 
+https://www.redhat.com/sysadmin/mastering-systemd
+
+
 #
 
 https://selinuxproject.org/page/Main_Page

@@ -1,0 +1,1 @@
+https://benjiweber.co.uk/blog/2020/09/19/fun-with-java-records/

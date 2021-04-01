@@ -13,3 +13,7 @@ https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-dee
 
 # GPT
 https://news.ycombinator.com/item?id=26534000
+
+# Limits
+https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do
+* https://news.ycombinator.com/item?id=26646541

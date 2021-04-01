@@ -1,0 +1,1 @@
+https://arxiv.org/pdf/2005.06444.pdf Pika parsing: reformulating packrat parsing as a dynamic programmingalgorithm solves the left recursion and error recovery problems
