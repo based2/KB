@@ -18,3 +18,6 @@ https://giansegato.com/essays/how-i-beat-the-berlin-rental-market-with-a-python-
 * https://news.ycombinator.com/item?id=26644624
 
 https://www.maptiler.com/server/
+
+https://github.com/maplibre/maplibre-gl-js
+* https://news.ycombinator.com/item?id=26670495

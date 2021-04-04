@@ -17,8 +17,13 @@ https://pgmodeler.io/
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
-###
+
+### Extensions
 https://age.apache.org/#
+
+# Security
+https://goteleport.com/blog/securing-postgres-postgresql/
+* https://news.ycombinator.com/item?id=26674756
 
 # Migration
 https://github.com/sastraxi/pgsh

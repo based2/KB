@@ -15,3 +15,9 @@ https://fossil-scm.org/home/doc/trunk/www/index.wiki
 https://www.fossil-scm.org/home/doc/trunk/www/chat.md
 * https://news.ycombinator.com/item?id=26578581
 
+https://github.com/liuliu/dflat
+* https://news.ycombinator.com/item?id=26687871
+
+https://www.gaia-gis.it/fossil/libspatialite/index
+* https://news.ycombinator.com/item?id=26685156
+

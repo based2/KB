@@ -9,6 +9,8 @@ http://www.csszengarden.com/
 https://www.joshwcomeau.com/animation/css-transitions/
 * https://news.ycombinator.com/item?id=26274516
 
+https://markodenic.com/css-tips/
+
 # Tailwind
 https://www.tailwind-tools.com/
 

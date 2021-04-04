@@ -1,3 +1,10 @@
+https://www.bleepingcomputer.com/news/security/most-loved-programming-language-rust-sparks-privacy-concerns/
+
+https://haveibeenpwned.com/PwnedWebsites#Facebook
+
+https://kn100.me/terramaster-nas-exposing-itself-over-upnp/
+* https://news.ycombinator.com/item?id=26681984
+
 https://www.bleepingcomputer.com/news/security/vmware-fixes-authentication-bypass-in-data-center-security-software/
 https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c
 

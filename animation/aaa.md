@@ -16,6 +16,8 @@ https://deep-fold.itch.io/pixel-planet-generator
 # Transition
 https://css-tricks.com/nailing-that-cool-dissolve-transition/
 
+https://github.com/mxgmn/WaveFunctionCollapse
+
 # Torus
 https://codepen.io/rthavi/pen/RevVzY
 

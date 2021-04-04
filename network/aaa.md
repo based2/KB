@@ -15,5 +15,8 @@ https://blog.tonari.no/introducing-innernet
 https://www.gkbrk.com/2016/05/hotel-music/
 *  https://news.ycombinator.com/item?id=26633792
 
+# Viso
+https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
+
 
 
