@@ -1,5 +1,5 @@
 # LTS
-Versions: 8 GA, 11 GA, 17 Early access
+Versions: 8 GA, 11 GA, 17 Early Access
 https://www.oracle.com/java/technologies/java-se-support-roadmap.html
 
 https://blog.jetbrains.com/idea/2020/05/25-things-we-love-about-java/
@@ -97,8 +97,7 @@ http://www.kyleblaney.com/maven-best-practices
 # Books
 https://handwiki.org/wiki/Book:ThinkJava
 
-# News
-https://www.theserverside.com/news/252498427/AdoptOpenJDK-moves-to-Eclipse-Foundation-as-Adoptium
+
 
 https://ijnspector.wordpress.com/ Practical examples for IntelliJ's Structural Search and Replace Templates
 https://www.banterly.net/2019/07/28/one-of-the-more-underrated-features-of-java/
@@ -138,33 +137,14 @@ https://adoptopenjdk.net/
 https://www.scala-lang.org/news/2.13.0
 https://medium.com/97-things/rediscover-the-jvm-through-clojure-fa2ac5e29cbb
 
-# SecChecks
-https://spotbugs.github.io/
-https://find-sec-bugs.github.io/
-https://github.com/google/error-prone
-https://www.owasp.org/index.php/OWASP_Dependency_Check
-https://blog.developer.atlassian.com/how-we-stopped-vulnerable-code-from-landing-in-production/
-
 # Data
 http://adambien.blog/roller/abien/entry/combining_jsonobjects_with_jsonmerge_and
-
 
 https://news.ycombinator.com/item?id=20755974 AdoptOpenJDK: Open-source, prebuilt OpenJDK binaries
 
 https://veekaybee.github.io/2019/05/10/java8/
 
 https://www.infoq.com/presentations/java-futures-2019/
-
-https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink
-
-
-# 11
-https://simply-how.com/custom-java-runtime
-https://openjdk.java.net/groups/net/httpclient/intro.html
-
-# 13
-https://seanjmullan.org/blog/2019/08/05/jdk13 JDK 13 Security Enhancements
-https://mail.openjdk.java.net/pipermail/jdk-dev/2019-August/003257.html
 
 # Libraries
 https://www.reddit.com/r/java/comments/ct7p77/linkerparser_define_your_own_grammar_as_java/ Linker-parser: define your own grammar as java clases
@@ -177,32 +157,7 @@ https://javaee.github.io/jsonp/
 # WS
 https://www.igorkromin.net/index.php/2018/12/06/setting-jax-ws-webservice-client-timeout-values-correctly-within-a-weblogic-12c-container/
 
-# JDBC
-https://github.com/blynkkk/clickhouse4j
-
-# Maven
-https://www.reddit.com/r/java/comments/beytye/writing_a_full_featured_maven_pom/
-https://leobenkel.com/2019/10/open-source-to-maven-with-sonatype/
-
-http://www.kyleblaney.com/maven-best-practices
-
-# Quarkus
-https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
-
-
-# Tests
-https://github.com/rohanpadhye/jqf Coverage-guided semantic fuzzing
-
-# Sec
-https://github.com/SE-Stuttgart/XSTAMPP
-
-# Scala
-https://blog.7mind.io/lightweight-reflection.html
-http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html
-
-# GraalVM
-https://medium.com/graalvm/graalvm-19-2-new-tools-b78a70f54b06
-
-https://www.reddit.com/r/java/comments/cqaiy1/jvmls_2019_tornadovm_with_juan_fumero/
+# News
+https://www.theserverside.com/news/252498427/AdoptOpenJDK-moves-to-Eclipse-Foundation-as-Adoptium
 
 

@@ -1,3 +1,5 @@
+https://getbootstrap.com/
+
 https://tympanus.net/codrops/css_reference/
 
 https://www.joshwcomeau.com/css/styled-components/
@@ -28,3 +30,10 @@ https://flukeout.github.io/
 https://flexboxfroggy.com/
 https://cssgridgarden.com/
 http://www.flexboxdefense.com/
+
+# 
+http://www.juusohaavisto.com/post/blocking-html-links-with-pure-css\
+
+# Demo
+https://codepen.io/jakealbaugh/full/PwLXXP/
+http://asvd.github.io/intence/ distinct and beautiful scrolling indicator  scroll summary

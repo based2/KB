@@ -5,6 +5,11 @@ https://medium.com/geekculture/how-to-publish-artifacts-on-maven-central-24342fd
 
 https://github.com/mvndaemon/mvnd
 
+https://www.reddit.com/r/java/comments/beytye/writing_a_full_featured_maven_pom/
+https://leobenkel.com/2019/10/open-source-to-maven-with-sonatype/
+
+http://www.kyleblaney.com/maven-best-practices
+
 
 # Gradle
 
@@ -13,4 +18,4 @@ https://github.com/mvndaemon/mvnd
 # Java
 ## JLink
 https://tentackle.org/static-content/sitedocs/tentackle/latest/tentackle-jlink-maven-plugin/jlink-mojo.html
-
+https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink

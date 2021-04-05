@@ -21,3 +21,6 @@ https://github.com/liuliu/dflat
 https://www.gaia-gis.it/fossil/libspatialite/index
 * https://news.ycombinator.com/item?id=26685156
 
+# News
+https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202103-04-sqlite-remote-code-execution-10-22-05?rss
+

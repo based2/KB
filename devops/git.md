@@ -53,3 +53,6 @@ https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit
 https://news.ycombinator.com/item?id=26479127
 
 https://news.ycombinator.com/item?id=26164790
+
+# Interal
+https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/

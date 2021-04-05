@@ -21,9 +21,12 @@ https://vmlens.com/articles/ct/new_way_to_test/
 # UI tests
 https://www.selenium.dev/documentation/en/
 
-# BDD
+# TDD
 https://cucumber.io/
 https://cucumber.io/docs/gherkin/
+
+https://github.com/intuit/karate
+https://blog.ineat-group.com/2020/06/ceinture-noire-en-test-api-passez-au-dan-superieur-avec-karate/
 
 # Coverage
 

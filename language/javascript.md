@@ -18,6 +18,9 @@ http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/
 # JSON
 https://github.com/aykutkardas/Json-Function
 
+# Style
+https://github.com/airbnb/javascript/blob/master/README.md
+
 # Dynajs
 
 # Web
@@ -26,3 +29,6 @@ https://web.dev/streams/
 # Nodejs
 https://deno.com/blog/the-deno-company
 * https://news.ycombinator.com/item?id=26620116
+
+#
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript

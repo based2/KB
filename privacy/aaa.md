@@ -8,3 +8,6 @@ https://news.ycombinator.com/item?id=26518290
 
 https://permission.site/
 * https://news.ycombinator.com/item?id=26588480
+
+# UI
+http://panzi.github.io/SocialSharePrivacy/

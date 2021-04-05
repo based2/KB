@@ -26,6 +26,12 @@ https://blog.cloudflare.com/private-key-compromises/ Heartbleed Revisited (OSCP)
 
 https://istlsfastyet.com/
 
+http://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html
+* https://news.ycombinator.com/item?id=9277269
+
+https://tls.so/
+https://news.ycombinator.com/item?id=9271946
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 https://news.ycombinator.com/item?id=20988584 https://news.ycombinator.com/item?id=21308939
