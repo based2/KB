@@ -7,6 +7,7 @@ https://derickbailey.com/2016/03/28/dealing-with-dead-letters-and-poison-message
 # Kafka
 https://github.com/kattlo/kattlo-cli
 https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/
+https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/
 
 https://pulsar.apache.org/
 

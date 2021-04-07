@@ -9,6 +9,9 @@ https://clickclickclick.click/
 
 
 # News
+https://www.wsj.com/articles/china-creates-its-own-digital-currency-a-first-for-major-economy-11617634118
+* https://news.ycombinator.com/item?id=26725749 Expirable money
+
 https://fstoppers.com/opinion/nfts-are-pyramid-scheme-and-people-are-already-losing-money-554869
 * https://news.ycombinator.com/item?id=26530024
 

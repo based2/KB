@@ -55,6 +55,8 @@ https://hpyproject.org/blog/posts/2021/03/hello-hpy/
 https://bluebanquise.com/
 
 # News
+https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/
+* https://news.ycombinator.com/item?id=26710013
 https://medium.com/opentelemetry/announcing-opentelemetry-python-1-0-4e097562b8e0
 https://realpython.com/interview-dane-hillard/
 https://www.man.com/why-we-rewrote-our-platform-in-python

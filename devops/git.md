@@ -44,6 +44,9 @@ https://twitter.com/ryancdotorg/status/1375484757916672000
 https://release-monitoring.org/
 
 https://blog.frankel.ch/inserting-new-commit-git-history/
+https://medium.com/@sauvik_dolui/a-few-git-tricks-tips-b680c3968a9b
+https://ohshitgit.com/
+https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
 
 ## Signature
 https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove

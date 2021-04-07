@@ -8,3 +8,6 @@ https://lists.w3.org/Archives/Public/ietf-http-wg/2020OctDec/0134.html TCP and U
 
 https://httptoolkit.tech/blog/http-wtf/
 * https://news.ycombinator.com/item?id=26343577
+
+# Security
+http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015

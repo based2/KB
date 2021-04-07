@@ -17,6 +17,9 @@ https://stackoverflow.com/questions/1573901/concurrenthashmap-constructor-parame
 ## Stream
 https://codecooks.com/java8-stream-operations/
 
+# Google Guava
+https://www.javacodegeeks.com/2015/03/google-guava-5-things-you-never-knew-it-could-do.html
+
 # JEE
 
 # Notes
@@ -158,6 +161,7 @@ https://javaee.github.io/jsonp/
 https://www.igorkromin.net/index.php/2018/12/06/setting-jax-ws-webservice-client-timeout-values-correctly-within-a-weblogic-12c-container/
 
 # News
+https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/
 https://www.theserverside.com/news/252498427/AdoptOpenJDK-moves-to-Eclipse-Foundation-as-Adoptium
 
 

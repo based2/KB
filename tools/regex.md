@@ -15,6 +15,8 @@ https://regexr.com/ https://news.ycombinator.com/item?id=20614847
 
 https://www.janmeppe.com/blog/regex-for-noobs/
 
+https://github.com/pemistahl/grex#what-does-tool-do
+
 # Grep
 
 https://littlemaninmyhead.wordpress.com/2019/08/04/dont-underestimate-grep-based-code-scanning/

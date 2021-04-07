@@ -18,6 +18,9 @@ https://pgmodeler.io/
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
 
+# Index
+http://leopard.in.ua/2015/04/13/postgresql-indexes/
+
 ### Extensions
 https://age.apache.org/#
 
@@ -29,5 +32,9 @@ https://goteleport.com/blog/securing-postgres-postgresql/
 https://github.com/sastraxi/pgsh
 
 
+
+
 # News
+https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791
+* https://news.ycombinator.com/item?id=26709019
 https://www.postgresql.org/about/news/1960/ PostgreSQL 11.5, 10.10, 9.6.15, 9.5.19, 9.4.24, and 12 Beta 3 Released! Sec Fixes

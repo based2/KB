@@ -12,5 +12,8 @@ https://gogs.io/
 
 https://utcc.utoronto.ca/~cks/space/blog/programming/GitUpstreamLimitedTracking
 
+https://kallithea-scm.org/ And Mercurial, python-ldap
+* https://news.ycombinator.com/item?id=26710013
+
 # Visualiser
 https://github.com/ssdong/git-command-visualizer Scala

@@ -26,5 +26,8 @@ https://www.infoq.com/news/2020/02/wksctl-kubernetes-gitops/
 # Infra
 https://google.github.io/kctf/
 
+# Database
+https://thenewstack.io/a-case-for-databases-on-kubernetes-from-a-former-skeptic/
+
 # News
 https://www.theregister.com/2020/12/04/aws_eks_anywhere/

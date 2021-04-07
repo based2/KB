@@ -31,3 +31,16 @@ Note that the opening <html> tag is optional† too but I retained it in the abo
 † These tags are optional provided certain conditions are met. See the spec for full details. In practice, one almost never has to worry about these conditions. 
 
 https://paulkinchla.com/blog/javascript-is-a-ghost/
+
+# WYSIWYG
+https://codemirror.net/
+
+https://github.com/tinymce/tinymce
+
+https://editorjs.io/
+
+http://john.ankarstrom.se/html/
+* https://news.ycombinator.com/item?id=26723408
+
+https://en.wikipedia.org/wiki/Markdown
+

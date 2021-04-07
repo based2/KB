@@ -1,3 +1,12 @@
+https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
+* https://news.ycombinator.com/item?id=26726902
+
+https://signal.org/blog/help-us-test-payments-in-signal/
+ * https://github.com/mobilecoinfoundation/mobilecoin
+  * https://www.stephendiehl.com/blog/signal.html
+    * https://news.ycombinator.com/item?id=26724237
+ * https://news.ycombinator.com/item?id=26725915   
+
 https://www.bleepingcomputer.com/news/security/most-loved-programming-language-rust-sparks-privacy-concerns/
 
 https://haveibeenpwned.com/PwnedWebsites#Facebook
