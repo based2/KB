@@ -1,0 +1,1 @@
+https://httptoolkit.tech/blog/cors-proxies/

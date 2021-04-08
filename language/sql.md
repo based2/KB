@@ -1,4 +1,4 @@
-
+https://begriffs.com/posts/2018-03-20-user-defined-order.html
 
 https://blog.seekwell.io/gpt3
 

@@ -11,6 +11,10 @@ https://dataflowr.github.io/website/
 
 https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/
 
+# Neural network
+https://github.com/elixir-nx/axon Elixir
+
+
 # GPT
 https://news.ycombinator.com/item?id=26534000
 

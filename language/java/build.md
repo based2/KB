@@ -10,6 +10,7 @@ https://leobenkel.com/2019/10/open-source-to-maven-with-sonatype/
 
 http://www.kyleblaney.com/maven-best-practices
 
+https://mestachs.wordpress.com/2012/05/17/maven-best-practices/
 
 # Gradle
 

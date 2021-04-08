@@ -3,7 +3,11 @@
 
 http://thatjdanisso.cool/a11y/focus-vs-hover/
 
+https://alistapart.com/article/the-illusion-of-control-in-web-design/
+
 # Forms
+https://www.the-art-of-web.com/html/html5-form-validation/
+
 ## Button
 https://www.joshwcomeau.com/animation/3d-button/
 * https://news.ycombinator.com/item?id=26635300

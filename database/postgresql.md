@@ -31,6 +31,9 @@ https://goteleport.com/blog/securing-postgres-postgresql/
 # Migration
 https://github.com/sastraxi/pgsh
 
+https://github.com/djrobstep/migra
+* https://news.ycombinator.com/item?id=16673526
+
 
 
 

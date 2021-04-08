@@ -18,3 +18,6 @@ https://tools.ietf.org/html/draft-bortzmeyer-dns-qname-minimisation-02 DNS query
 
 # Metadata
 https://news.ycombinator.com/item?id=9600400 exif location
+
+# News
+https://support.google.com/googleplay/android-developer/answer/10158779#zippy=%2Cinvalid-uses%2Cpermitted-uses-of-the-query-all-packages-permission

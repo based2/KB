@@ -15,3 +15,6 @@ https://musescore.org/en/node/60666
 
 https://windowsreport.com/automatically-transcribe-music/
 
+https://99percentinvisible.org/episode/the-real-book/
+* https://news.ycombinator.com/item?id=26737142
+

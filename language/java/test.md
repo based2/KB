@@ -11,6 +11,8 @@ https://blogs.oracle.com/javamagazine/how-to-test-java-microservices-with-pact
 https://github.com/intuit/karate
 * https://news.ycombinator.com/item?id=24176433
 
+https://stefanbirkner.github.io/system-rules/
+
 # Integration tests - End2end
 https://maven.apache.org/surefire/maven-failsafe-plugin/
 

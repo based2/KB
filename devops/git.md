@@ -1,3 +1,7 @@
+https://git-scm.com/
+
+https://www.netguru.com/codestories/5-git-commands-i-wish-i-knew-about-when-i-started-coding
+
 https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
 
 https://www.reddit.com/r/git/comments/bs3g0h/master_repositories_and_immutability_from_the/
@@ -28,6 +32,13 @@ https://blog.brixit.nl/git-email-flow-versus-github-flow/
 https://devblogs.microsoft.com/devops/release-flow-how-we-do-branching-on-the-vsts-team/
 
 http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/concepts/phase_milestones_5678231E.html
+
+# Cleanup
+https://blog.frankel.ch/git-cleanup/
+
+# Logs
+https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/
+* https://news.ycombinator.com/item?id=16677308
 
 # Security
 https://github.com/bitnami-labs/sealed-secrets

@@ -8,6 +8,7 @@
 * https://cd.foundation/ Continuous Delivery F.
 
 * https://librearts.org/
+* https://theopenroadproject.org/
 
 
 https://arxiv.org/abs/2103.00352 Underproduction: An Approach for Measuring Risk in Open Source Software
@@ -50,3 +51,9 @@ https://notepad-plus-plus.org/
 ## Video
 https://www.phoronix.com/scan.php?page=news_item&px=OBS-Studio-Wayland-Ready
 * https://news.ycombinator.com/item?id=26645312
+
+# News
+https://www.wikimedia.fr/site-du-musee-du-louvre-refonte-entravee-par-la-politique-du-ministere/
+
+https://ma.tt/2021/04/wix-dirty-tricks/
+* https://news.ycombinator.com/item?id=26728471

@@ -1,0 +1,1 @@
+https://blog.revolve.team/2021/04/08/cloud-souverain-partie-2-gaia-x/

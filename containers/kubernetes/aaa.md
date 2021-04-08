@@ -23,6 +23,8 @@ https://kubespray.io/#/
 
 https://www.infoq.com/news/2020/02/wksctl-kubernetes-gitops/
 
+https://engineering.opsgenie.com/advanced-kubernetes-objects-53f5e9bc0c28
+
 # Infra
 https://google.github.io/kctf/
 

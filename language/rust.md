@@ -60,6 +60,10 @@ https://rust-unofficial.github.io/patterns/
 # Interop
 https://news.ycombinator.com/item?id=26565444 CXX C++
 
+# Security
+https://github.com/crev-dev/cargo-crev
+* https://news.ycombinator.com/item?id=26735470
+
 # News
 * https://android.googlesource.com/platform/system/bt/+/master/gd/rust/
   *  https://news.ycombinator.com/item?id=26647981

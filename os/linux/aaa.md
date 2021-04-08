@@ -26,3 +26,6 @@ https://nakryiko.com/posts/libbpf-bootstrap/
 
 # Tux
 https://github.com/Nautalis/Tux3D
+
+# News
+https://news.ycombinator.com/item?id=26739220 Why is the Linux community struggling to implement hibernation?

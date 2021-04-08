@@ -13,8 +13,14 @@ https://www.joshwcomeau.com/animation/css-transitions/
 
 https://markodenic.com/css-tips/
 
+https://scout-app.io/
+
+https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/
+https://www.sitepoint.com/css-3d-transformation-functions/
+https://yuanchuan.dev/2018/05/06/unicode-patterns.html
 # Tailwind
 https://www.tailwind-tools.com/
+https://tailwindcss.com/docs/just-in-time-mode
 
 # Generator
 https://denic.hashnode.dev/css-generators
@@ -24,6 +30,9 @@ https://flexbox.help/
 https://css-tricks.com/tools-for-auditing-css/
 
 https://split.js.org/#/split-grid
+
+https://grid.layoutit.com/
+* https://news.ycombinator.com/item?id=17618059
 
 # Games
 https://flukeout.github.io/
@@ -40,3 +49,4 @@ https://joshondesign.com/2015/05/23/csstable Scroll
 # Demo
 https://codepen.io/jakealbaugh/full/PwLXXP/
 http://asvd.github.io/intence/ distinct and beautiful scrolling indicator  scroll summary
+https://codepen.io/miocene/pen/WJRXVg

@@ -11,4 +11,15 @@ http://devopsku.be/
 
 https://github.com/mozilla/sops
 
+https://docs.google.com/document/d/e/2PACX-1vRBi4WWgHBN_w59HbKhleBLL_cI_gJhIAWEKBdw9SR7EB2ApmTCrXof6zkx_Ljfx3TaZCdsjqy3p4dw/pub
+
+https://blog.goldfiglabs.com/2021/04/07/cloud-infrastructure-linting.html
+
+# CI
+
+https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/
+* https://news.ycombinator.com/item?id=26727790
+
+# CD
+
 

@@ -15,5 +15,11 @@ https://www.moesif.com/blog/technical/timestamp/manage-datetime-timestamp-timezo
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 
+# Calendar
+https://dzone.com/articles/java-holiday-calendar-2016-day-16-hacking-the-exis
+
+
+https://github.com/clulab/timenorm
+
 #
 https://en.wikipedia.org/wiki/Time_crystal

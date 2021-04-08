@@ -1,0 +1,1 @@
+https://www.hedonisticlearning.com/posts/understanding-typing-judgments.html
