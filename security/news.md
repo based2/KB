@@ -1,3 +1,5 @@
+https://www.schneier.com/blog/archives/2021/04/backdoor-added-but-found-in-php.html
+
 https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
 * https://news.ycombinator.com/item?id=26726902
 

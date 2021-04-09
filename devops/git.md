@@ -70,3 +70,6 @@ https://news.ycombinator.com/item?id=26164790
 
 # Interal
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
+
+https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
+* https://news.ycombinator.com/item?id=26741829

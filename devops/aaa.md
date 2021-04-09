@@ -15,6 +15,8 @@ https://docs.google.com/document/d/e/2PACX-1vRBi4WWgHBN_w59HbKhleBLL_cI_gJhIAWEK
 
 https://blog.goldfiglabs.com/2021/04/07/cloud-infrastructure-linting.html
 
+http://muratbuffalo.blogspot.com/2016/02/holistic-configuration-management-at.html
+
 # CI
 
 https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/

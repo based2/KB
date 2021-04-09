@@ -65,6 +65,10 @@ https://github.com/crev-dev/cargo-crev
 * https://news.ycombinator.com/item?id=26735470
 
 # News
+https://www.zdnet.com/article/awss-shane-miller-to-head-the-newly-created-rust-foundation/
+http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/
+https://github.com/tokio-rs/tokio-uring/pull/1
+* https://news.ycombinator.com/item?id=26743488
 * https://android.googlesource.com/platform/system/bt/+/master/gd/rust/
   *  https://news.ycombinator.com/item?id=26647981
 https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html 1.51

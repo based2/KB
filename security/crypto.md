@@ -8,3 +8,6 @@ https://blog.elcomsoft.com/2021/04/breaking-rar5-and-7zip-passwords/
 
 #
 https://eprint.iacr.org/2021/442
+
+https://crypto.stanford.edu/ore/
+* https://news.ycombinator.com/item?id=11903356

@@ -21,9 +21,17 @@ https://medium.com/techtofreedom/six-debugging-techniques-for-python-programmers
 * https://github.com/gruns/icecream
   https://news.ycombinator.com/item?id=26631467
 
+https://github.com/morefigs/printstack
+* https://news.ycombinator.com/item?id=26747743
+
+https://github.com/breuleux/jurigged
 
 # Testing
 https://news.ycombinator.com/item?id=26565785
+
+# Package
+https://antonz.org/python-packaging/
+* https://news.ycombinator.com/item?id=26733423
 
 # Types
 https://news.ycombinator.com/item?id=26529998
@@ -55,6 +63,8 @@ https://hpyproject.org/blog/posts/2021/03/hello-hpy/
 https://bluebanquise.com/
 
 # News
+https://isc.sans.edu/forums/diary/No+Python+Interpreter+This+Simple+RAT+Installs+Its+Own+Copy/27292/
+* https://news.ycombinator.com/item?id=26748731
 https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/
 * https://news.ycombinator.com/item?id=26710013
 https://medium.com/opentelemetry/announcing-opentelemetry-python-1-0-4e097562b8e0

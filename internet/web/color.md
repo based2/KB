@@ -11,3 +11,6 @@ https://github.com/grgrdvrt/poulette
 http://www.profil-couleur.com/
 
 http://jamie-wong.com/post/color/
+
+https://martinanderson.substack.com/p/relighting-and-color-grading-with
+* https://news.ycombinator.com/item?id=26696557

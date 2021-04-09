@@ -21,6 +21,14 @@ https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actio
 # Examples
 https://archive.org/details/jonah-edwards-presentation
 
+
+https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/
+* https://news.ycombinator.com/item?id=26738417
+
 https://patents.google.com/patent/US9300552
+
+
+https://martinfowler.com/articles/bitemporal-history.html
+*
 
 

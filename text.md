@@ -8,3 +8,13 @@ https://blog.floydhub.com/language-translator/
 http://jalammar.github.io/illustrated-transformer/
 
 https://explained.ai/decision-tree-viz/index.html
+
+
+# UTF-8
+
+# Unicode
+
+http://tapiov.net/unicodetiles.js/
+
+# ASCII
+http://www.figlet.org/fontdb.cgi

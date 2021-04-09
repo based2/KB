@@ -32,4 +32,5 @@ https://google.github.io/kctf/
 https://thenewstack.io/a-case-for-databases-on-kubernetes-from-a-former-skeptic/
 
 # News
+https://kubernetes.io/blog/2021/04/08/kubernetes-1-21-release-announcement/
 https://www.theregister.com/2020/12/04/aws_eks_anywhere/

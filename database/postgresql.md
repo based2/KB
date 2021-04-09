@@ -14,6 +14,11 @@ https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 
 https://pgmodeler.io/
 
+http://coussej.github.io/2016/01/14/Replacing-EAV-with-JSONB-in-PostgreSQL/
+https://hashrocket.com/blog/posts/custom-aggregates-in-postgresql
+
+ttps://github.com/dhamaniasad/awesome-postgres
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 

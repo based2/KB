@@ -9,3 +9,8 @@ https://github.com/marschall/jfr-jdbc A JDBC driver that wraps an other JDBC dri
 https://spring.io/blog/2019/12/06/spring-data-r2dbc-goes-ga
 
 https://github.com/blynkkk/clickhouse4j
+
+# Editors
+https://dbeaver.com/docs/wiki/ER-Diagrams/
+
+http://executequery.org/features
