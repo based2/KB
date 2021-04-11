@@ -23,6 +23,11 @@ https://www.gaia-gis.it/fossil/libspatialite/index
 
 https://github.com/ttogola/sqlite-timeseries-dashboard
 
+https://squirrelbyte.com/ poc
+https://h3rald.com/litestore/ A tiny NoSQL database for rapid prototyping
+* https://news.ycombinator.com/item?id=26766557
+
+
 # News
 https://github.com/joaoh82/rust_sqlite
 https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202103-04-sqlite-remote-code-execution-10-22-05?rss

@@ -63,6 +63,12 @@ https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
 https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove
 * https://news.ycombinator.com/item?id=26640915
 
+https://stackoverflow.com/questions/15790120/what-is-the-first-line-of-git-format-patch-output/27005870#27005870
+
+# Tools
+https://github.com/svandragt/repoman
+
+
 # Monorepo
 https://news.ycombinator.com/item?id=26479127
 

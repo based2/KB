@@ -12,3 +12,5 @@ https://jsonapi.org/
 
 https://github.com/aykutkardas/Json-Function
 
+https://jsonlogic.com/
+

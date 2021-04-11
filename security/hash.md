@@ -1,0 +1,1 @@
+https://suricrasia.online/unfiction/basilisk/ Partial hash inversions of the SHA-256 cryptographic hash function.

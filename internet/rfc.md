@@ -8,3 +8,5 @@ https://www.bortzmeyer.org/rfcs.html`
 
 https://tools.ietf.org/html/rfc1
 * https://news.ycombinator.com/item?id=26721377
+
+https://mailarchive.ietf.org/arch/msg/cfrg/bgtU9USX4iPGsryrCayfQle4gZ8/

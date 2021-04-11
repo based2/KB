@@ -12,6 +12,8 @@ https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times
 
 # `
+https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors
+
 https://www.go350.com/posts/exfiltrate-files-using-the-dns/
 * https://news.ycombinator.com/item?id=26660623`
 

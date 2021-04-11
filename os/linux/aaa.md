@@ -14,6 +14,7 @@ https://www.redhat.com/sysadmin/mastering-systemd
 
 https://people.redhat.com/bbreard/presos/Demystifying_systemd_Summit_2020.pdf
 
+https://trstringer.com/systemd-inhibitor-locks/
 
 #
 

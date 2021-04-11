@@ -23,6 +23,8 @@ https://vmlens.com/articles/ct/new_way_to_test/
 # UI tests
 https://www.selenium.dev/documentation/en/
 
+https://htmlunit.sourceforge.io/
+
 # TDD
 https://cucumber.io/
 https://cucumber.io/docs/gherkin/

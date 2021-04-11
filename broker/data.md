@@ -1,0 +1,1 @@
+https://www.techdirt.com/articles/20210404/18245546550/oracles-projection-as-it-accuses-google-snooping-you-it-has-built-huge-data-operation-that-it-doesnt-want-regulated.shtml

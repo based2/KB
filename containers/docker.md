@@ -8,10 +8,16 @@ https://medium.com/@ls12styler/docker-as-an-integrated-development-environment-9
 https://fly.io/blog/docker-without-docker/
 * https://news.ycombinator.com/item?id=26746280
   https://chimeracoder.github.io/docker-without-docker/#8
-  
+
+https://blog.alexellis.io/get-a-tls-enabled-docker-registry-in-5-minutes/
+https://www.docker.com/blog/changing-how-updates-work-with-docker-desktop-3-3/  
+
 # Bet pratices
 https://github.com/radial
 radial/busyboxplus
 
 # Linter
 https://github.com/hadolint/hadolint Haskell
+
+#
+https://github.com/iximiuz/docker-to-linux

@@ -8,12 +8,16 @@ https://copyconstruct.medium.com/socat-29453e9fc8a6
 
 https://computer.rip/2021-03-27-the-actual-osi-model.html
 
+https://man7.org/linux/man-pages/man8/iptables-apply.8.html
+
 
 https://blog.tonari.no/introducing-innernet
   * innernet network, peers are added or disabled by the creator of the network/
   * https://news.ycombinator.com/item?id=26628285
 
 # Investigations
+https://www.fing.com/products/fing-app
+
 https://www.gkbrk.com/2016/05/hotel-music/
 *  https://news.ycombinator.com/item?id=26633792
 

@@ -1,3 +1,18 @@
+https://www.forbes.com/sites/zakdoffman/2021/04/10/shock-new-warning-for-millions-of-whatsapp-users-on-apple-iphone-and-google-android-phones/?sh=66ebf4d27585
+https://news.ycombinator.com/item?id=26769537
+
+https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/
+* https://news.ycombinator.com/item?id=26768299
+
+https://twitter.com/the_secret_club/status/1380868759129296900 Valve
+* https://news.ycombinator.com/item?id=26762170
+
+https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/
+* https://news.ycombinator.com/item?id=26749350
+
+https://www.openwall.com/lists/oss-security/2021/04/08/1 linux ebpf
+* https://news.ycombinator.com/item?id=26757760
+
 https://www.schneier.com/blog/archives/2021/04/backdoor-added-but-found-in-php.html
 
 https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html

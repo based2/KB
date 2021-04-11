@@ -11,3 +11,6 @@ https://eprint.iacr.org/2021/442
 
 https://crypto.stanford.edu/ore/
 * https://news.ycombinator.com/item?id=11903356
+
+# Tools
+https://github.com/FiloSottile/age

@@ -24,6 +24,9 @@ https://css-tricks.com/comparing-the-new-generation-of-build-tools/
 # Style
 https://github.com/airbnb/javascript/blob/master/README.md
 
+# Class
+https://devblog.qcobjects.org/simplifying-javascript-objects-inheritance-in-qcobjects-framework-ckn6ycet00ta2lcs19luagpua
+
 # Dynajs
 
 # Web

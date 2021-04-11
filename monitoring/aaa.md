@@ -21,5 +21,9 @@ https://github.com/centreon/centreon GPLv2 PHP C++
 https://flume.apache.org/
 https://skywalking.apache.org/
 
+
+https://ef.gy/secure-prometheus-ssh-hidden-service
+https://github.com/geerlingguy/internet-monitoring
+
 # New entrant
 https://www.kartar.net/2020/05/a-bit-of-a-vector/

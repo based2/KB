@@ -22,6 +22,9 @@ https://www.javacodegeeks.com/2015/03/google-guava-5-things-you-never-knew-it-co
 
 # JEE
 
+# Valdation
+https://github.com/mvallim/java-fluent-validator
+
 # Notes
 
 https://ijnspector.wordpress.com/ Practical examples for IntelliJ's Structural Search and Replace Templates

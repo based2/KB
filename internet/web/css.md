@@ -23,6 +23,9 @@ https://www.tailwind-tools.com/
 https://tailwindcss.com/docs/just-in-time-mode
 
 # Generator
+https://www.virtuosoft.eu/tools/css-gradient-generator/
+https://www.bootstrap-live-customizer.com/
+
 https://denic.hashnode.dev/css-generators
 
 https://flexbox.help/
@@ -33,6 +36,9 @@ https://split.js.org/#/split-grid
 
 https://grid.layoutit.com/
 * https://news.ycombinator.com/item?id=17618059
+
+# Tools
+https://github.com/krishdevdb/reseter.css
 
 # Games
 https://flukeout.github.io/
@@ -50,3 +56,8 @@ https://joshondesign.com/2015/05/23/csstable Scroll
 https://codepen.io/jakealbaugh/full/PwLXXP/
 http://asvd.github.io/intence/ distinct and beautiful scrolling indicator  scroll summary
 https://codepen.io/miocene/pen/WJRXVg
+
+# old school
+https://jdan.github.io/98.css/
+* https://news.ycombinator.com/item?id=22940564
+* https://news.ycombinator.com/item?id=26662617

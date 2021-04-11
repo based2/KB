@@ -18,6 +18,8 @@ https://news.ycombinator.com/item?id=26620738
 # Calendar
 https://dzone.com/articles/java-holiday-calendar-2016-day-16-hacking-the-exis
 
+https://news.ycombinator.com/item?id=26758205 Why 11 days disappeared in 1752
+
 
 https://github.com/clulab/timenorm
 

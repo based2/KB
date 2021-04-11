@@ -1,0 +1,1 @@
+https://aws.amazon.com/fr/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/

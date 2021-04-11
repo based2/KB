@@ -47,6 +47,8 @@ https://github.com/RustSec/advisory-db
 
 https://ferrous-systems.com/blog/defmt/
 
+https://users.rust-lang.org/t/an-essay-of-checked-exceptions-in-rust/57769
+
 # Async
 https://fasterthanli.me/articles/pin-and-suffering
 * https://lobste.rs/s/f98dpj/pin_suffering

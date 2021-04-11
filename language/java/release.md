@@ -3,6 +3,7 @@ https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk
 
 # 17 LTS
 https://jdk.java.net/loom/
+https://github.com/openjdk/jdk/pull/3427 Stream API skip() and limit() allocation optimization on openjdk 17
 
 # 16
 https://www.azul.com/67-new-features-in-jdk-16/

@@ -4,6 +4,8 @@ https://github.com/cemerick/clojure-type-selection-flowchart
 
 https://github.com/plumatic/schema
 
+https://www.metosin.fi/blog/malli-regex-schemas/
+
 # Testing
 https://fctorial.github.io/posts/tst.html
 

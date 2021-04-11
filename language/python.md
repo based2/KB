@@ -38,6 +38,9 @@ https://news.ycombinator.com/item?id=26529998
 
 # Books
 https://news.ycombinator.com/item?id=26076721
+https://github.com/pamoroso/free-python-books
+* https://news.ycombinator.com/item?id=26759677
+
 
 # Gplot
 https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/
