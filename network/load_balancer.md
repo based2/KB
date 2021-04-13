@@ -8,3 +8,6 @@ https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-pro
 
 https://news.ycombinator.com/item?id=25917988
 
+# Security
+https://mux.com/blog/network-virtualization-cloud-load-balancing-and-long-lived-tcp-streams/
+

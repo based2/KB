@@ -14,3 +14,5 @@ http://jamie-wong.com/post/color/
 
 https://martinanderson.substack.com/p/relighting-and-color-grading-with
 * https://news.ycombinator.com/item?id=26696557
+
+https://lvjr.bitbucket.io/contrast.html#fg=1E5A1E,bg=DCDCF5 WCAG Color Contrast Tool 

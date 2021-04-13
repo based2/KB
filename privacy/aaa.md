@@ -25,6 +25,9 @@ http://panzi.github.io/SocialSharePrivacy/
 
 https://tools.ietf.org/html/draft-bortzmeyer-dns-qname-minimisation-02 DNS query name minimisation to improve privacy
 
+TLS
+https://news.ycombinator.com/item?id=26791186
+
 # Metadata
 https://news.ycombinator.com/item?id=9600400 exif location
 

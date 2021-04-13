@@ -1,3 +1,10 @@
+https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160
+* https://news.ycombinator.com/item?id=26786326
+
+https://techcommunity.microsoft.com/t5/exchange-team-blog/released-april-2021-exchange-server-security-updates/ba-p/2254617
+
+https://deno.com/blog/02-03-2021-outage-post-mortem
+
 https://www.forbes.com/sites/zakdoffman/2021/04/10/shock-new-warning-for-millions-of-whatsapp-users-on-apple-iphone-and-google-android-phones/?sh=66ebf4d27585
 https://news.ycombinator.com/item?id=26769537
 

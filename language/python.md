@@ -29,6 +29,8 @@ https://github.com/breuleux/jurigged
 # Testing
 https://news.ycombinator.com/item?id=26565785
 
+https://realpython.com/brython-python-in-browser/
+
 # Package
 https://antonz.org/python-packaging/
 * https://news.ycombinator.com/item?id=26733423
@@ -66,6 +68,8 @@ https://hpyproject.org/blog/posts/2021/03/hello-hpy/
 https://bluebanquise.com/
 
 # News
+https://twitter.com/nedbat/status/1382027078816653319
+* https://news.ycombinator.com/item?id=26796504
 https://isc.sans.edu/forums/diary/No+Python+Interpreter+This+Simple+RAT+Installs+Its+Own+Copy/27292/
 * https://news.ycombinator.com/item?id=26748731
 https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/

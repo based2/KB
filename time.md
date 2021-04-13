@@ -23,5 +23,11 @@ https://news.ycombinator.com/item?id=26758205 Why 11 days disappeared in 1752
 
 https://github.com/clulab/timenorm
 
+# NTP
+
+
+# Distributed
+https://www.siddharthsarda.com/p/time-in-distributed-systems
+
 #
 https://en.wikipedia.org/wiki/Time_crystal

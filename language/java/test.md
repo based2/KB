@@ -13,6 +13,9 @@ https://github.com/intuit/karate
 
 https://stefanbirkner.github.io/system-rules/
 
+## Mock
+https://maxxedev.github.io/2021/03/07/mocking-static-methods-and-constructors-with-mockito.html
+
 # Integration tests - End2end
 https://maven.apache.org/surefire/maven-failsafe-plugin/
 

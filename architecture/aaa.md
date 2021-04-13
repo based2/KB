@@ -31,4 +31,9 @@ https://patents.google.com/patent/US9300552
 https://martinfowler.com/articles/bitemporal-history.html
 *
 
+http://www.arolla.fr/blog/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf
+
+# News
+https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf
+
 

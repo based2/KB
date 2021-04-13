@@ -8,6 +8,8 @@ https://github.com/jhspetersson/fselect Find files with SQL-like queries
 https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices
 * https://news.ycombinator.com/item?id=26762206
 
+https://www.sqlshack.com/different-ways-to-sql-delete-duplicate-rows-from-a-sql-table/
+
 # Indexes
 https://use-the-index-luke.com/
 

@@ -27,7 +27,13 @@ https://github.com/airbnb/javascript/blob/master/README.md
 # Class
 https://devblog.qcobjects.org/simplifying-javascript-objects-inheritance-in-qcobjects-framework-ckn6ycet00ta2lcs19luagpua
 
-# Dynajs
+# String
+https://www.baseclass.io/guides/string-handling-modern-js
+* https://news.ycombinator.com/item?id=26789525
+
+# Debug
+https://markodenic.com/use-console-log-like-a-pro/
+* https://news.ycombinator.com/item?id=26779800
 
 # Web
 https://web.dev/streams/
@@ -39,3 +45,9 @@ https://deno.com/blog/the-deno-company
 #
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 https://kaboomjs.com/
+
+# Discussions
+https://seanbarry.dev/posts/switch-true-pattern
+* https://news.ycombinator.com/item?id=26777090
+
+# Dynajs

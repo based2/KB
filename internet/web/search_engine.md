@@ -26,3 +26,12 @@ https://www.meta-press.es/fr/
 ## Binary search
 https://algorithmica.org/en/eytzinger
 * https://algorithmica.org/en/eytzinger
+
+# HN
+https://hn.algolia.com/
+https://deephn.org/
+
+# News
+https://aws.amazon.com/en/blogs/opensource/introducing-opensearch/
+* https://opensearch.org/
+* https://news.ycombinator.com/item?id=26780848

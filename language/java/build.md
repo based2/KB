@@ -15,12 +15,17 @@ https://mestachs.wordpress.com/2012/05/17/maven-best-practices/
 https://hantsy.medium.com/building-your-own-maven-archetype-fa7b9d646efd
 
 # Gradle
-
 https://docs.gradle.org/7.0/release-notes.html
 
+https://andresalmiray.com/jreleaser-says-hello/
+
 # Ant
+https://ant.apache.org/
 
 # Java
+## jpackage
+https://docs.oracle.com/en/java/javase/15/docs/specs/man/jpackage.html
+
 ## JLink
 https://tentackle.org/static-content/sitedocs/tentackle/latest/tentackle-jlink-maven-plugin/jlink-mojo.html
 https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink

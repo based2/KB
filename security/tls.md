@@ -1,3 +1,29 @@
+# OpenSSL
+https://www.openssl.org/news/newslog.html
+
+List TLS versions supported:
+
+    openssl s_client -help 2>&1 | awk '/-ssl[0-9]|-tls[0-9]/{print $1}'
+
+# Others
+- Amazon: https://aws.amazon.com/fr/blogs/security/introducing-s2n-a-new-open-source-tls-implementation/
+- Microsoft: SChannel
+- Google: https://boringssl.googlesource.com/boringssl/
+
+https://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
+
+https://github.com/ctz/rustls
+https://github.com/mirleft/ocaml-tls
+https://comp.lang.ada.narkive.com/QWxEmEME/transport-layer-security-for-ada
+
+https://eli.thegreenplace.net/2021/go-https-servers-with-tls/
+* https://news.ycombinator.com/item?id=26767252
+
+https://en.wikipedia.org/wiki/Forward_secrecy
+
+# SNI
+https://nanxiao.me/en/why-does-ssl-client-report-googles-certificate-self-signed/
+
 # Tests
 https://testssl.sh/
 

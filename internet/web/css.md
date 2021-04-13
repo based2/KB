@@ -18,6 +18,9 @@ https://scout-app.io/
 https://css-tricks.com/the-difference-between-nth-child-and-nth-of-type/
 https://www.sitepoint.com/css-3d-transformation-functions/
 https://yuanchuan.dev/2018/05/06/unicode-patterns.html
+
+https://ishadeed.com/article/say-hello-to-css-container-queries/
+
 # Tailwind
 https://www.tailwind-tools.com/
 https://tailwindcss.com/docs/just-in-time-mode

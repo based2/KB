@@ -13,3 +13,9 @@ https://news.ycombinator.com/item?id=24688751 5G
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
 * https://news.ycombinator.com/item?id=26625356
+
+# Radio
+https://www.americanscientist.org/article/random-paths-to-frequency-hopping
+
+## Security
+https://news.ycombinator.com/item?id=26778236

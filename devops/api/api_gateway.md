@@ -10,3 +10,13 @@
 * https://www.solo.io/products/gloo-edge
 * https://www.krakend.io/  
 * https://github.com/eolinker/goku-api-gateway
+* https://3scale.github.io/
+  https://gateway-api.sigs.k8s.io/
+  * https://developers.redhat.com/products/rhoam/overview
+    * https://www.youtube.com/watch?v=QkaP8Mb5aCc
+      * https://github.com/danehans/contour-operator/blob/v1.14_ocp4.8_gw_api/OCP_GATEWAY_QUICKSTART.md
+        * https://projectcontour.io/
+          * https://www.envoyproxy.io/docs/envoy/latest/
+          * https://grpc.io/
+          * https://github.com/open-policy-agent/gatekeeper
+          * https://prometheus.io/

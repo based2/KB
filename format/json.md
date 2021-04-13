@@ -14,3 +14,6 @@ https://github.com/aykutkardas/Json-Function
 
 https://jsonlogic.com/
 
+https://github.com/josevalim/nested-data-structure-traversal
+* https://news.ycombinator.com/item?id=26776786
+

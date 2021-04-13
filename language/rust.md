@@ -49,6 +49,15 @@ https://ferrous-systems.com/blog/defmt/
 
 https://users.rust-lang.org/t/an-essay-of-checked-exceptions-in-rust/57769
 
+https://loige.co/rust-shenanigans-return-type-polymorphism/
+
+https://aloso.github.io/2021/04/12/linked-list.html#alternatives
+
+https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/
+* https://news.ycombinator.com/item?id=26793471
+
+https://gitlab.com/tangram-vision-oss/realsense-rust
+
 # Async
 https://fasterthanli.me/articles/pin-and-suffering
 * https://lobste.rs/s/f98dpj/pin_suffering

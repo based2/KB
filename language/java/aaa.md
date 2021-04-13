@@ -21,9 +21,13 @@ https://codecooks.com/java8-stream-operations/
 https://www.javacodegeeks.com/2015/03/google-guava-5-things-you-never-knew-it-could-do.html
 
 # JEE
+https://www.reddit.com/r/java/comments/mpwwdp/less_is_more_evolving_the_servlet_api/
 
-# Valdation
+# Validation
 https://github.com/mvallim/java-fluent-validator
+
+# SPI
+https://reflectoring.io/service-provider-interface/
 
 # Notes
 

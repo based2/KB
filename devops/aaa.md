@@ -35,8 +35,14 @@ The informed definition of DevOps is = "DevOps is the union of people, process, 
 
 # CI
 
+https://www.jenkins.io/
+
+https://tekton.dev/
+
 https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/
 * https://news.ycombinator.com/item?id=26727790
+
+https://guix.gnu.org/en/cuirass/
 
 # CD
 
