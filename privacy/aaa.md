@@ -17,6 +17,8 @@ https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox
 
 https://github.com/MoralCode/pihole-antitelemetry
 
+https://pi-hole.net/2021/04/14/pi-hole-ftl-v5-8-web-v5-5-and-core-v5-3-released/#page-content
+
 
 # UI
 http://panzi.github.io/SocialSharePrivacy/
@@ -36,5 +38,6 @@ https://github.com/brave/brave-core/pull/8468
 * https://news.ycombinator.com/item?id=26765084
 https://daringfireball.net/2021/04/et_tu_procter_gamble
 * https://news.ycombinator.com/item?id=26760520
-https://amifloced.org/
+https://amifloced.org/ -> https://github.com/WICG/floc/issues/100 * https://news.ycombinator.com/item?id=26819540
+
 https://support.google.com/googleplay/android-developer/answer/10158779#zippy=%2Cinvalid-uses%2Cpermitted-uses-of-the-query-all-packages-permission

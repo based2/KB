@@ -1,3 +1,5 @@
+https://blog.spinnaker.io/managed-delivery-evolving-continuous-delivery-at-netflix-eb74877fb33c
+
 https://worklifenotes.com/2020/06/04/7-best-practices-modern-cicd/
 
 https://blog.container-solutions.com/fluxcd-argocd-or-jenkins-x-which-is-the-right-gitops-tool-for-you
@@ -32,6 +34,8 @@ Take a look at how Microsoft does DevOps: https://www.youtube.com/watch?v=X4uziB
 Engineering has to build that REPEATABLE DevOps automation @ scale.
 
 The informed definition of DevOps is = "DevOps is the union of people, process, and products to enable continuous delivery of value to your end users." From Microsoft's Donovan Brown - https://www.youtube.com/watch?v=WW6x0jIPpr0
+
+https://github.com/jghoman/awesome-apache-airflow
 
 # CI
 

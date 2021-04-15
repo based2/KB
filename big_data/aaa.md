@@ -1,4 +1,5 @@
 
+https://gradientflow.com/what-is-dataops/
 
 # Datalake
 

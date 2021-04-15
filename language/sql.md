@@ -15,3 +15,9 @@ https://use-the-index-luke.com/
 
 # Security - Injection
 https://patchthenet.medium.com/introduction-to-sql-injection-sql-injection-for-beginners-579c00431d40
+
+#
+https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146
+* https://news.ycombinator.com/item?id=26822884
+https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html
+* https://news.ycombinator.com/item?id=26805121

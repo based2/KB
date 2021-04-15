@@ -4,6 +4,10 @@ https://blog.apnic.net/2020/09/11/dns-query-privacy-revisited/
 
 https://news.ycombinator.com/item?id=26620730 ttl
 
+https://tailscale.com/blog/sisyphean-dns-client-linux/
+* https://news.ycombinator.com/item?id=26821298
+  * https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
+
 # DNSSEC
 https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
 

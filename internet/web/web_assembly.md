@@ -5,3 +5,6 @@ https://news.ycombinator.com/item?id=26293347 Svgasm – SVG animation from sing
 https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/
 
 https://webassembly.studio/
+
+
+https://news.ycombinator.com/item?id=26803155

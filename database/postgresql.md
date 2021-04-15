@@ -49,7 +49,9 @@ https://github.com/djrobstep/migra
 https://blog.discourse.org/2021/04/standing-on-the-shoulders-of-a-giant-elephant/
 
 
-
+# Container
+https://www.kubegres.io/
+* https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/
 
 # News
 https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=1e55e7d1755cefbb44982fbacc7da461fa8684e6

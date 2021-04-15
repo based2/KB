@@ -58,6 +58,9 @@ https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/
 
 https://gitlab.com/tangram-vision-oss/realsense-rust
 
+https://www.brandons.me/blog/why-rust-strings-seem-hard
+* https://news.ycombinator.com/item?id=26811879
+
 # Async
 https://fasterthanli.me/articles/pin-and-suffering
 * https://lobste.rs/s/f98dpj/pin_suffering
@@ -76,6 +79,7 @@ https://github.com/crev-dev/cargo-crev
 * https://news.ycombinator.com/item?id=26735470
 
 # News
+https://gregoryszorc.com/blog/2021/04/14/pure-rust-implementation-of-apple-code-signing/
 https://www.zdnet.com/article/awss-shane-miller-to-head-the-newly-created-rust-foundation/
 http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/
 https://github.com/tokio-rs/tokio-uring/pull/1

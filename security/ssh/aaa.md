@@ -11,6 +11,8 @@ https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54
 
 https://github.com/arthepsy/ssh-audit
 
+https://www.electricmonk.nl/docs/ssh_tips_tricks/ssh_tips_tricks.html
+
 # Certificates
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_ca_certificate_signing-keys
 https://smallstep.com/blog/use-ssh-certificates/

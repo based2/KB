@@ -9,3 +9,6 @@ https://www.vexflow.com/
 https://css-tvricks.com/making-an-audio-waveform-visualizer-with-vanilla-javascript/
 
 https://github.com/cifkao/html-midi-player
+
+https://webamp.org/
+* https://news.ycombinator.com/item?id=26811696

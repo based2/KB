@@ -1,3 +1,10 @@
+https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/
+
+https://security.googleblog.com/2021/04/a-new-standard-for-mobile-app-security.html
+* https://news.ycombinator.com/item?id=26819989
+
+https://securelist.com/zero-day-vulnerability-in-desktop-window-manager-cve-2021-28310-used-in-the-wild/101898/
+
 https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160
 * https://news.ycombinator.com/item?id=26786326
 

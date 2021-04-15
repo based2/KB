@@ -6,6 +6,8 @@ brew deps --tree --installed
 
 https://news.ycombinator.com/item?id=26435783 .DS_Store
 
+https://github.com/serhii-londar/open-source-mac-os-apps
+
 # Config
 http://apple.stackexchange.com/questions/98782/i-cant-find-a-setting-to-disable-wins-in-network-settings
 sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.netbiosd.plist

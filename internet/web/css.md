@@ -26,6 +26,8 @@ https://www.tailwind-tools.com/
 https://tailwindcss.com/docs/just-in-time-mode
 
 # Generator
+https://cssgradient.io/
+
 https://www.virtuosoft.eu/tools/css-gradient-generator/
 https://www.bootstrap-live-customizer.com/
 

@@ -27,5 +27,8 @@ https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-b
 # Protocol
 http://www.byteparadigm.com/applications/introduction-to-i2c-and-spi-protocols/
 
+# VLAN
+https://www.kernel.org/doc/html/latest/networking/vxlan.html
+
 
 

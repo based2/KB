@@ -83,7 +83,15 @@ https://rufus.ie/ USB booter builder
 https://glogg.bonnefon.org/
 https://alerta.io/
 
+# Experiments
+https://github.com/everestpipkin/tools-list
+* https://news.ycombinator.com/item?id=26821306
+
 # News
+https://github.com/GorvGoyl/clone-wars
+*
+https://arxiv.org/pdf/2103.11518.pdf OSS Fuzz
+
 https://www.wikimedia.fr/site-du-musee-du-louvre-refonte-entravee-par-la-politique-du-ministere/
 
 https://ma.tt/2021/04/wix-dirty-tricks/

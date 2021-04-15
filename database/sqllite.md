@@ -27,6 +27,8 @@ https://squirrelbyte.com/ poc
 https://h3rald.com/litestore/ A tiny NoSQL database for rapid prototyping
 * https://news.ycombinator.com/item?id=26766557
 
+https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html
+* https://news.ycombinator.com/item?id=26816954
 
 # News
 https://github.com/joaoh82/rust_sqlite

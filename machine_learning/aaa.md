@@ -11,6 +11,11 @@ https://dataflowr.github.io/website/
 
 https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/
 
+https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html
+
+# Store
+https://feast.dev/
+
 # Neural network
 https://github.com/elixir-nx/axon Elixir
 

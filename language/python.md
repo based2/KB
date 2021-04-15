@@ -43,6 +43,8 @@ https://news.ycombinator.com/item?id=26076721
 https://github.com/pamoroso/free-python-books
 * https://news.ycombinator.com/item?id=26759677
 
+https://yasoob.me/posts/understanding-and-generating-upc-a-barcode-using-python/
+
 
 # Gplot
 https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/

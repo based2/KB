@@ -1,3 +1,5 @@
+https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/Secure_Blockchain.pdf?__blob=publicationFile&v=2
+
 # Proof of Stake
 https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake
 

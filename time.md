@@ -29,5 +29,9 @@ https://github.com/clulab/timenorm
 # Distributed
 https://www.siddharthsarda.com/p/time-in-distributed-systems
 
+# Timelapse
+https://blog.google/products/earth/timelapse-in-google-earth/
+* https://news.ycombinator.com/item?id=26821356
+
 #
 https://en.wikipedia.org/wiki/Time_crystal

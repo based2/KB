@@ -21,6 +21,7 @@ https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
 https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf
 * https://news.ycombinator.com/item?id=26633685
 
+https://stonecode.ca/idiomatic-panics/
 
 # Links
 https://news.ycombinator.com/item?id=25881212`

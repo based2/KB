@@ -1,3 +1,6 @@
+http://webdam.inria.fr/Alice/
+* https://news.ycombinator.com/item?id=26809253
+
 https://www.youtube.com/watch?v=5ZjhNTM8XU8 "Transactions: myths, surprises and opportunities" by Martin Kleppmann 2015
 
 
