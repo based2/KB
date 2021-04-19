@@ -5,6 +5,8 @@ https://www.oracle.com/java/technologies/java-se-support-roadmap.html
 https://blog.jetbrains.com/idea/2020/05/25-things-we-love-about-java/
 https://dzone.com/articles/introduction-to-reflectionless-know-what-the-new-t
 
+https://cheatsheets.tutorials24x7.com/programming/java
+
 # Servers
 # Non JEE
 Netty
@@ -28,6 +30,11 @@ https://github.com/mvallim/java-fluent-validator
 
 # SPI
 https://reflectoring.io/service-provider-interface/
+
+# Refactor
+http://errorprone.info/docs/refaster
+https://netbeans.apache.org/jackpot/HintsFileFormat.html
+https://medium.com/engineering-at-alfa/introducing-astra-a-tool-for-refactoring-java-programs-at-scale-edf7c4314f7d
 
 # Notes
 
@@ -81,11 +88,6 @@ https://veekaybee.github.io/2019/05/10/java8/
 
 https://www.infoq.com/presentations/java-futures-2019/
 
-https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink
-
-# JVM
-https://news.ycombinator.com/item?id=23390914
-
 # Libraries
 https://www.reddit.com/r/java/comments/ct7p77/linkerparser_define_your_own_grammar_as_java/ Linker-parser: define your own grammar as java clases
 https://www.reddit.com/r/programming/comments/cr8hsw/java_an_optional_implementation_of_optional/
@@ -93,16 +95,6 @@ https://www.reddit.com/r/programming/comments/cr8hsw/java_an_optional_implementa
 https://www.threeten.org/threeten-extra/
 
 https://javaee.github.io/jsonp/
-
-
-# JDBC
-https://github.com/blynkkk/clickhouse4j
-
-# Maven
-https://www.reddit.com/r/java/comments/beytye/writing_a_full_featured_maven_pom/
-https://leobenkel.com/2019/10/open-source-to-maven-with-sonatype/
-
-http://www.kyleblaney.com/maven-best-practices
 
 # Books
 https://handwiki.org/wiki/Book:ThinkJava
@@ -133,10 +125,19 @@ https://github.com/google/error-prone
 
 https://github.com/warmuuh/milkman Milkman - An Extensible Request/Response Workbench (JavaFX)
 
+https://www.reddit.com/r/java/comments/b2izd9/i_dont_often_explain_a_single_method_in_jdk_but/
+
 JEE
 https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
 
-# OracleDramaUpdate
+# Hot Reload
+https://hotswapagent.org/
+https://tapestry.apache.org/class-reloading.html
+https://dzone.com/articles/spring-boot-application-live-reload-hot-swap-with
+https://github.com/quarkusio/quarkus/issues/10298
+https://www.jrebel.com/products/jrebel $
+
+# Oracle license change
 https://www.reddit.com/r/java/comments/c65c9l/aleksey_shipil%C3%ABv_about_jdk_updates/
 https://en.wikipedia.org/wiki/Java_version_history
 https://medium.com/@javachampions/java-is-still-free-c02aef8c9e04
@@ -144,7 +145,7 @@ https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244
 RH openjdk:JRE openjdk-devel:JDK
 https://adoptopenjdk.net/
 
-https://www.scala-lang.org/news/2.13.0
+
 https://medium.com/97-things/rediscover-the-jvm-through-clojure-fa2ac5e29cbb
 
 # Data

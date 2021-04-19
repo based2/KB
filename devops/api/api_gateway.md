@@ -20,3 +20,4 @@
           * https://grpc.io/
           * https://github.com/open-policy-agent/gatekeeper
           * https://prometheus.io/
+https://github.com/dromara/soul

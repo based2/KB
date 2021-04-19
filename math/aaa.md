@@ -1,5 +1,8 @@
 https://www.wolframalpha.com/
 
+https://oeis.org/ INteger sequences
+* https://news.ycombinator.com/item?id=26848517
+
 https://fungrim.org/
 * https://news.ycombinator.com/item?id=26635289
 
@@ -10,6 +13,7 @@ https://en.m.wikipedia.org/wiki/Information_geometry
 https://en.wikipedia.org/wiki/Kolmogorov_complexity
 
 # News
+https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323
 
 https://www.abelprize.no/nyheter/vis.html?tid=76397 LLL

@@ -1,6 +1,3 @@
-# Svelt
-https://news.ycombinator.com/item?id=26557886
-
 # VueJS
 
 # ReactJS
@@ -10,6 +7,10 @@ https://wattenberger.com/blog/react-and-d3
 * https://news.ycombinator.com/item?id=26628679
 
 # AngularJS
+
+# Svelt
+https://news.ycombinator.com/item?id=26557886
+https://geoffrich.net/posts/svelte-tower-of-hanoi/
 
 # JQuery $
 http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/

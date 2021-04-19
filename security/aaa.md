@@ -21,4 +21,9 @@ https://suricrasia.online/iceberg/ The Cursed Computer Iceberg Meme
 https://rev.ng/blog/pagebuster/post.html
 https://www.errno.fr/BloodhoundForLinux.html
 
+# Analysis
+https://github.com/geohot/qira
+* https://news.ycombinator.com/item?id=26845775
+
+
 

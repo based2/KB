@@ -11,7 +11,7 @@
 
 * https://github.com/k3s-io/k3s
 
-* Suse rancher 
+* Suse Rancher 
   * https://kubic.opensuse.org/
   
 # Articles

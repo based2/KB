@@ -19,10 +19,14 @@ https://deep-fold.itch.io/pixel-planet-generator
 https://spiritapp.io/
 * https://news.ycombinator.com/item?id=11090049
 
+https://react-spring.io/
+
 # Transition
 https://css-tricks.com/nailing-that-cool-dissolve-transition/
 
 https://github.com/mxgmn/WaveFunctionCollapse
+
+https://harshil.net/blog/recreating-the-mac-genie-effect
 
 # Torus
 https://codepen.io/rthavi/pen/RevVzY

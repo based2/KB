@@ -13,6 +13,8 @@ https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-dee
 
 https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approximate.html
 
+https://tribuo.org/ Java
+
 # Store
 https://feast.dev/
 

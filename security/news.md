@@ -1,3 +1,20 @@
+https://arstechnica.com/gadgets/2021/04/backdoored-developer-tool-that-stole-credentials-escaped-notice-for-3-months/ Codecov bash uploader
+
+https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf
+* https://news.ycombinator.com/item?id=26860150
+
+https://www.bleepingcomputer.com/news/security/major-bgp-leak-disrupts-thousands-of-networks-globally/
+
+https://github.com/sickcodes/no-sandbox
+
+https://threatpost.com/security-bug-brick-kubernetes-clusters/165413/
+https://sysdig.com/blog/cve-2021-20291-cri-o-podman/
+
+https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/
+
+https://shenaniganslabs.io/2021/04/13/Airstrike.html
+* https://www.reddit.com/r/netsec/comments/ms0k9t/airstrike_attack_fde_bypass_and_eop_on_domain/
+
 https://census-labs.com/news/2021/04/14/whatsapp-mitd-remote-exploitation-CVE-2021-24027/
 
 https://security.googleblog.com/2021/04/a-new-standard-for-mobile-app-security.html
@@ -54,3 +71,7 @@ https://dorper.me/articles/unileak.aspx
 http://mail-archives.apache.org/mod_mbox/www-announce/202101.mbox/%3Cd5413dee-205a-40b6-b9bc-5919c5800e67%40www.fastmail.com%3E
 
 https://www.sudo.ws/alerts/unescape_overflow.html
+
+https://samy.pl/slipstream/
+
+https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/#tldr

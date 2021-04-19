@@ -47,3 +47,5 @@ http://john.ankarstrom.se/html/
 
 https://en.wikipedia.org/wiki/Markdown
 
+# Security
+https://korben.info/exploit-fichier-texte-txt-macos.html

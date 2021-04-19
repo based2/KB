@@ -21,9 +21,13 @@ https://github.com/lyndseypadget/semflow A Git Workflow for Version Management: 
 https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
 https://muhammadraza.me/2019/Exploring-Git/
 
-# Flow
+# Flows
+## Git Flow
 https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow
 
+https://github.com/gitflow-incremental-builder/gitflow-incremental-builder
+
+##
 https://trunkbaseddevelopment.com/
 
 https://blog.brixit.nl/git-email-flow-versus-github-flow/
@@ -68,6 +72,9 @@ https://stackoverflow.com/questions/15790120/what-is-the-first-line-of-git-forma
 # Tools
 https://github.com/svandragt/repoman
 
+https://github.com/foriequal0/git-trim
+
+https://githistory.xyz/
 
 # Monorepo
 https://news.ycombinator.com/item?id=26479127

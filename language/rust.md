@@ -78,7 +78,23 @@ https://news.ycombinator.com/item?id=26565444 CXX C++
 https://github.com/crev-dev/cargo-crev
 * https://news.ycombinator.com/item?id=26735470
 
+# OS
+
+## Linux kernel
+
+https://christine.website/blog/dev-printerfact-2021-04-17
+
+https://lkml.org/lkml/2021/4/14/1023
+* https://news.ycombinator.com/item?id=26812047
+
+# Osx
+https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/
+* https://news.ycombinator.com/item?id=26850682
+
 # News
+https://arewefastyet.rs/
+https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
+* https://news.ycombinator.com/item?id=26851425
 https://gregoryszorc.com/blog/2021/04/14/pure-rust-implementation-of-apple-code-signing/
 https://www.zdnet.com/article/awss-shane-miller-to-head-the-newly-created-rust-foundation/
 http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/

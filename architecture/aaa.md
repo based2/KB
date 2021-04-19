@@ -16,6 +16,8 @@ https://news.ycombinator.com/item?id=20477212 The JSON Meta Application Protocol
 https://github.com/corelight/community-id-spec ID Flow Hashing processing flow data from monitoring app
 https://daffodil.apache.org/docs/dfdl/#_Toc398030797 Data Format Description Language (DFDL) 
 
+https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/adr_template_by_michael_nygard.md
+
 https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315
 * https://news.ycombinator.com/item?id=26602156
 # Examples
@@ -32,6 +34,14 @@ https://martinfowler.com/articles/bitemporal-history.html
 *
 
 http://www.arolla.fr/blog/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf
+
+# End of life
+https://endoflife.date/
+
+https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/
+
+# Performance
+http://www.brendangregg.com/usemethod.html
 
 # News
 https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf

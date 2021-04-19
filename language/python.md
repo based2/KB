@@ -70,6 +70,8 @@ https://hpyproject.org/blog/posts/2021/03/hello-hpy/
 https://bluebanquise.com/
 
 # News
+https://github.com/samuelcolvin/pydantic/issues/2678 fastapi pep
+* https://news.ycombinator.com/item?id=26826158
 https://twitter.com/nedbat/status/1382027078816653319
 * https://news.ycombinator.com/item?id=26796504
 https://isc.sans.edu/forums/diary/No+Python+Interpreter+This+Simple+RAT+Installs+Its+Own+Copy/27292/

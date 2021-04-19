@@ -37,6 +37,11 @@ The informed definition of DevOps is = "DevOps is the union of people, process, 
 
 https://github.com/jghoman/awesome-apache-airflow
 
+# Version
+https://semver.org/lang/
+
+https://csemver.org/
+
 # CI
 
 https://www.jenkins.io/

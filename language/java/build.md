@@ -14,9 +14,14 @@ https://mestachs.wordpress.com/2012/05/17/maven-best-practices/
 
 https://hantsy.medium.com/building-your-own-maven-archetype-fa7b9d646efd
 
+## Public repositories
 https://search.maven.org/classic/#
 
 https://mvnrepository.com/
+
+## Tools
+https://github.com/diffplug/spotless
+
 
 # Gradle
 https://docs.gradle.org/7.0/release-notes.html

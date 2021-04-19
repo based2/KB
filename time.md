@@ -23,6 +23,16 @@ https://news.ycombinator.com/item?id=26758205 Why 11 days disappeared in 1752
 
 https://github.com/clulab/timenorm
 
+https://prabros.com/readings-on-time Alan Key
+
+#
+
+https://www.baeldung.com/java-temporal-adjuster
+
+https://dzone.com/articles/a-look-at-stampedlock
+
+https://www.javaspecialists.eu/talks/jfokus13/PhaserAndStampedLock.pdf
+
 # NTP
 
 

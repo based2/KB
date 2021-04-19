@@ -25,6 +25,9 @@ https://news.ycombinator.com/item?id=20876248 	Google’s GDPR Workaround
 https://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/
 * https://news.ycombinator.com/item?id=16825783
 
+
+https://amnesia.openaire.eu/
+
 # Bpok
 https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
 

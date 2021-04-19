@@ -9,5 +9,8 @@ https://www.gnu.org/software/lightning/
 https://secret.club/2021/04/09/std-clamp.html
 
 # News
+https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html
+* https://news.ycombinator.com/item?id=26832505
+* https://lobste.rs/s/8olgw6/llvm_12_0_0
 https://www.nytimes.com/2021/03/31/technology/turing-award-aho-ullman.html
 * https://news.ycombinator.com/item?id=26646497

@@ -24,3 +24,7 @@ https://github.com/foxlet/macOS-Simple-KVM
 
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
+
+# M1
+https://authzed.com/blog/onboarding-with-an-m1/
+* https://news.ycombinator.com/item?id=26843228
