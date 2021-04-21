@@ -10,6 +10,10 @@ https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practic
 
 https://www.sqlshack.com/different-ways-to-sql-delete-duplicate-rows-from-a-sql-table/
 
+
+https://cra.mr/2010/05/30/scaling-threaded-comments-on-django-at-disqus/
+* 
+
 # Indexes
 https://use-the-index-luke.com/
 

@@ -25,3 +25,5 @@ https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vuln
 https://news.ycombinator.com/item?id=20988584 https://news.ycombinator.com/item?id=21308939
 
 https://www.bleepingcomputer.com/news/security/dutch-govt-explains-the-risks-behind-dns-over-https-move/
+
+https://coredns.io/

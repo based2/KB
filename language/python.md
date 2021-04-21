@@ -52,6 +52,14 @@ https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/
 # Build
 https://venthur.de/2021-03-31-python-makefiles.html
 
+# Packaging
+https://monadical.com/posts/how-to-package-python-for-apt-deb.html#
+
+# Data
+
+https://github.com/Pytlicek/sheet2dict MsExcel to dict
+* https://news.ycombinator.com/item?id=26887162
+
 # App
 https://github.com/wang0618/PyWebIO
 * https://news.ycombinator.com/item?id=26554451

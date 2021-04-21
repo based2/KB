@@ -3,3 +3,6 @@ https://www.inceptivemind.com/powerpaste-high-density-safe-easily-transportable-
 * https://news.ycombinator.com/item?id=26056649
 
 https://news.ycombinator.com/item?id=24572066
+
+https://newatlas.com/aircraft/airbus-liquid-hydrogen-cryogenic-superconductivity/
+* https://news.ycombinator.com/item?id=26888904

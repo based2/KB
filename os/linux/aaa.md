@@ -37,6 +37,12 @@ https://github.com/Nautalis/Tux3D
 https://barebox.org/
 
 # News
+https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/
+* https://news.ycombinator.com/item?id=26889677
+ * https://github.com/QiushiWu/qiushiwu.github.io/blob/main/papers/OpenSourceInsecurity.pdf
+  * https://news.ycombinator.com/item?id=26889719
+
+https://www.linux.com/featured/in-the-trenches-with-thomas-gleixner-real-time-linux-kernel-patch-set/
 https://lwn.net/Articles/851184/
 * https://news.ycombinator.com/item?id=26858752
 

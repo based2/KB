@@ -92,6 +92,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 * https://news.ycombinator.com/item?id=26850682
 
 # News
+https://github.com/rusticstuff/simdutf8
+* https://news.ycombinator.com/item?id=26887438
 https://arewefastyet.rs/
 https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 * https://news.ycombinator.com/item?id=26851425

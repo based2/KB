@@ -4,6 +4,9 @@ https://www.sivalabs.in/2020/09/all-the-resources-you-ever-need-as-a-java-spring
 https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/
 https://github.com/helpermethod/spring-boot-style-guide
 
+https://foojay.io/today/better-error-handling-for-your-spring-boot-rest-apis/
+* https://www.reddit.com/r/java/comments/mul95u/better_error_handling_for_your_spring_boot_rest/
+
 # Quarkus
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
 https://quarkus.io/blog/magic-control/ vertx

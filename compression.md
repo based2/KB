@@ -7,3 +7,8 @@ https://mzucker.github.io/2016/09/20/noteshrink.html
 
 https://bilalonureskili.com/files/LTC_en.pdf
 * https://news.ycombinator.com/item?id=26722960
+
+## Tools
+https://www.7-zip.org/download.html
+
+https://www.lzop.org/

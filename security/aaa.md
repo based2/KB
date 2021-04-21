@@ -6,7 +6,8 @@ https://attack.mitre.org/matrices/enterprise/
 
 https://www.openvas.org/
 
-
+https://github.com/SocketDev/wormhole-crypto
+* https://news.ycombinator.com/item?id=26869963
 
 # Identity
 https://en.wikipedia.org/wiki/Claims-based_identity

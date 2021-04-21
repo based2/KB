@@ -1,3 +1,6 @@
+https://justi.cz/security/2021/04/20/cocoapods-rce.html
+* https://news.ycombinator.com/item?id=26874726
+
 https://arstechnica.com/gadgets/2021/04/backdoored-developer-tool-that-stole-credentials-escaped-notice-for-3-months/ Codecov bash uploader
 
 https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1C-3_23159_paper.pdf

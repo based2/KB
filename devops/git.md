@@ -21,6 +21,12 @@ https://github.com/lyndseypadget/semflow A Git Workflow for Version Management: 
 https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
 https://muhammadraza.me/2019/Exploring-Git/
 
+# Books
+https://git-scm.com/book/en/v2
+
+https://jwiegley.github.io/git-from-the-bottom-up/
+* https://news.ycombinator.com/item?id=26884318
+
 # Flows
 ## Git Flow
 https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow

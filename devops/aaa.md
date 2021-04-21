@@ -55,4 +55,6 @@ https://guix.gnu.org/en/cuirass/
 
 # CD
 
+https://news.ycombinator.com/item?id=26872904
+
 

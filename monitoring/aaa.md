@@ -10,6 +10,8 @@ https://landscape.cncf.io/card-mode?category=streaming-messaging&grouping=catego
 
 https://www.elastichq.org/
 
+https://seomis.cc/blog/kibana-surrounding-bash
+
 https://news.ycombinator.com/item?id=20334779
 https://github.com/timberio/vector/blob/master/rfcs/2020-03-17-2064-event-driven-observability.md
 RFC 2064 - 2020-03-17 - Event-driven Observability
@@ -25,5 +27,15 @@ https://skywalking.apache.org/
 https://ef.gy/secure-prometheus-ssh-hidden-service
 https://github.com/geerlingguy/internet-monitoring
 
+https://munin-monitoring.org/
+* https://news.ycombinator.com/item?id=26873260
+
+https://github.com/netdata/netdata - C
+* https://news.ycombinator.com/item?id=26886792
+
 # New entrant
 https://www.kartar.net/2020/05/a-bit-of-a-vector/
+
+# News
+https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/
+* https://news.ycombinator.com/item?id=26877528

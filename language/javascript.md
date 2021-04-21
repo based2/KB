@@ -1,22 +1,28 @@
-# VueJS
+# Framewoks
+## VueJS
 
-# ReactJS
+## ReactJS
 https://overreacted.io/before-you-memo/
 
 https://wattenberger.com/blog/react-and-d3
 * https://news.ycombinator.com/item?id=26628679
 
-# AngularJS
+## AngularJS
 
-# Svelt
+## Svelt
 https://news.ycombinator.com/item?id=26557886
 https://geoffrich.net/posts/svelte-tower-of-hanoi/
 
-# JQuery $
+## Hyperscript (applescript)
+https://hyperscript.org/comparison/
+* https://news.ycombinator.com/item?id=26873682
+
+## JQuery $
 http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/
 * https://news.ycombinator.com/item?id=26318872
 
-# JSON
+# Format
+## JSON
 https://github.com/aykutkardas/Json-Function
 
 # Build
@@ -35,6 +41,10 @@ https://www.baseclass.io/guides/string-handling-modern-js
 # Debug
 https://markodenic.com/use-console-log-like-a-pro/
 * https://news.ycombinator.com/item?id=26779800
+
+# Tools
+https://github.com/RobinCsl/awesome-js-tooling-not-in-js
+* https://news.ycombinator.com/item?id=26872457
 
 # Web
 https://web.dev/streams/

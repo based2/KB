@@ -9,3 +9,8 @@ https://apps.ankiweb.net/
 https://projecteuler.net/
 
 https://projectlovelace.net/problems/
+
+# Manuals
+
+https://manuzoid.com/
+* https://news.ycombinator.com/item?id=26872808

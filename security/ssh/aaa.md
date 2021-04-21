@@ -1,3 +1,7 @@
+https://www.ssh.com/academy/ssh/ssh-key-basics
+
+https://blog.rebased.pl/2021/03/23/ssh-keygen-2021.html
+
 https://www.openssh.com/
 https://www.chiark.greenend.org.uk/~sgtatham/putty/
 

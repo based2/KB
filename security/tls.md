@@ -13,6 +13,9 @@ List TLS versions supported:
 https://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
 
 https://github.com/ctz/rustls
+https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/
+* https://news.ycombinator.com/item?id=26875551
+
 https://github.com/mirleft/ocaml-tls
 https://comp.lang.ada.narkive.com/QWxEmEME/transport-layer-security-for-ada
 

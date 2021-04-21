@@ -4,6 +4,10 @@ https://harrisonsand.com/gsm-security/
 
 https://alpercinar.com/open-cell-id/
 
+# BGP
+https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window
+* https://news.ycombinator.com/item?id=26887658
+
 # 5G
 * https://therecord.media/new-5g-protocol-vulnerabilities-allow-location-tracking/
  * https://news.ycombinator.com/item?id=26610705

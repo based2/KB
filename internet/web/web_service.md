@@ -10,3 +10,5 @@ https://qvault.io/cryptography/hmac-and-macs-in-jwts/
 # REST
 https://restfulapi.net/
 https://www.rest.guide/README.html
+
+https://engineering.3ap.ch/post/using-hateoas-with-rest/

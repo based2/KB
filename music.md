@@ -22,3 +22,7 @@ https://99percentinvisible.org/episode/the-real-book/
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 * https://news.ycombinator.com/item?id=26859907
 
+# Electronic
+https://www.vitling.xyz/toys/acid-banger/
+* https://news.ycombinator.com/item?id=26870666
+

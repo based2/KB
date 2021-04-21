@@ -28,6 +28,16 @@ https://tailwindcss.com/docs/just-in-time-mode
 # Generator
 https://cssgradient.io/
 
+http://larsenwork.com/easing-gradients/
+
+https://neumorphism.io
+
+https://shadows.brumm.af/ Shadow
+
+https://9elements.github.io/fancy-border-radius/#
+
+
+
 https://www.virtuosoft.eu/tools/css-gradient-generator/
 https://www.bootstrap-live-customizer.com/
 
@@ -41,6 +51,14 @@ https://split.js.org/#/split-grid
 
 https://grid.layoutit.com/
 * https://news.ycombinator.com/item?id=17618059
+
+https://cssgrid-generator.netlify.app/
+
+https://accordionslider.com/
+
+https://getwaves.io/
+
+https://learnui.design/tools/data-color-picker.html
 
 # Tools
 https://github.com/krishdevdb/reseter.css

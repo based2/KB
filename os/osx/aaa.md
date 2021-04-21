@@ -17,6 +17,7 @@ http://recomhub.com/blog/how-to-disable-or-enable-spotlight-in-mac-os-x-yosemite
 sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plists
 
 http://developingandmac.blogspot.com.es/2015/02/no-mouse.html
+https://apple.stackexchange.com/questions/259093/can-touch-id-for-the-mac-touch-bar-authenticate-sudo-users-and-admin-privileges/306324#306324
 
 # VM
 https://github.com/foxlet/macOS-Simple-KVM
@@ -26,5 +27,7 @@ https://github.com/foxlet/macOS-Simple-KVM
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 
 # M1
+https://www.apple.com/newsroom/2021/04/imac-features-all-new-design-in-vibrant-colors-m1-chip-and-45k-retina-display/
+* https://news.ycombinator.com/item?id=26877806
 https://authzed.com/blog/onboarding-with-an-m1/
 * https://news.ycombinator.com/item?id=26843228

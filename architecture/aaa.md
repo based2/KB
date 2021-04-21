@@ -35,6 +35,9 @@ https://martinfowler.com/articles/bitemporal-history.html
 
 http://www.arolla.fr/blog/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf
 
+https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems
+* https://news.ycombinator.com/item?id=26860636
+
 # End of life
 https://endoflife.date/
 

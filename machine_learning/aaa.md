@@ -21,9 +21,18 @@ https://feast.dev/
 # Neural network
 https://github.com/elixir-nx/axon Elixir
 
+# Image
+https://www.mattkeeter.com/research/mpr/
+* https://news.ycombinator.com/item?id=26873691
+
 
 # GPT
 https://news.ycombinator.com/item?id=26534000
+
+# Books & Papers
+## Papers
+https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c
+* https://news.ycombinator.com/item?id=26891227
 
 # Limits
 https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do
