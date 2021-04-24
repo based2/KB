@@ -9,12 +9,22 @@ http://jalammar.github.io/illustrated-transformer/
 
 https://explained.ai/decision-tree-viz/index.html
 
+# Search
+## Boyer-Moore Fast String Searching Algorithm
+https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/
+* https://news.ycombinator.com/item?id=26910982
+
+
+
 
 # UTF-8
 
 # Unicode
 
 http://tapiov.net/unicodetiles.js/
+
+https://github.com/Crissov/unicode-proposals/issues/410
+* https://news.ycombinator.com/item?id=26900749
 
 # ASCII
 http://www.figlet.org/fontdb.cgi

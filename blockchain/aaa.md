@@ -13,6 +13,10 @@ https://docs.google.com/document/d/1tmRIb7lgi4QfKkNaxuKOBHRmwbVlGL4f7EsBDr_5xZE/
 
 https://tools.ietf.org/id/draft-pouwelse-trustchain-01.html
 
+# Smart contrat
+https://iosiro.com/blog/smart-contract-security-pentesters
+* https://news.ycombinator.com/item?id=26888421
+
 # Visu
 https://symphony.iohk.io/en/
 https://txstreet.com/v/btc-eth

@@ -1,3 +1,8 @@
+# Google
+https://markodenic.com/use-google-like-a-pro/
+* https://news.ycombinator.com/item?id=26911629
+
+
 https://www.gwern.net/Search
 
 # Open source

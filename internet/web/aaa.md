@@ -8,3 +8,7 @@ https://web.dev/compat2021/
 # SEO
 ## robot.txt
 https://news.ycombinator.com/item?id=26807738
+
+# Video
+https://darekkay.com/blog/avif-images/
+* https://news.ycombinator.com/item?id=26901801

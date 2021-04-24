@@ -35,3 +35,7 @@ http://www.clonespy.com/
 
 # Network
 https://www.nirsoft.net/utils/cports.html#DownloadLinks
+
+# Excel
+https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/
+* https://news.ycombinator.com/item?id=26900419

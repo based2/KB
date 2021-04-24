@@ -1,3 +1,25 @@
+https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/
+
+https://www.eejournal.com/article/clever-hack-finds-mystery-cpu-instructions/
+* https://news.ycombinator.com/item?id=26922353
+
+https://blog.ryotak.me/post/homebrew-security-incident-en/
+* https://news.ycombinator.com/item?id=26922448
+
+https://spectrum.ieee.org/tech-talk/computing/hardware/chaos-programmable-chips-secure
+* https://news.ycombinator.com/item?id=26900486
+
+https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313
+* https://news.ycombinator.com/item?id=26909692
+
+https://www.bleepingcomputer.com/news/security/qnap-removes-backdoor-account-in-nas-backup-disaster-recovery-app/
+* https://news.ycombinator.com/item?id=26914895
+
+https://gizmodo.com/signals-ceo-just-hacked-the-cops-favorite-phone-crackin-1846733412
+* https://news.ycombinator.com/item?id=26903092
+ * https://signal.org/blog/cellebrite-vulnerabilities/
+  * https://news.ycombinator.com/item?id=26891811
+
 https://justi.cz/security/2021/04/20/cocoapods-rce.html
 * https://news.ycombinator.com/item?id=26874726
 
@@ -78,3 +100,6 @@ https://www.sudo.ws/alerts/unescape_overflow.html
 https://samy.pl/slipstream/
 
 https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-of-a-packet-of-the-death-cve-2021-24086/#tldr
+
+https://randomoracle.wordpress.com/2019/12/04/off-by-one-the-curious-case-of-2047-bit-rsa-keys/
+* https://news.ycombinator.com/item?id=26913334

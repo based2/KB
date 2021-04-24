@@ -1,5 +1,7 @@
 https://regex101.com/
 
+https://regex-generator.olafneumann.org/
+
 https://compiler.org/reason-re-nfa/src/index.html
 * https://news.ycombinator.com/item?id=26537734
 
@@ -16,6 +18,9 @@ https://regexr.com/ https://news.ycombinator.com/item?id=20614847
 https://www.janmeppe.com/blog/regex-for-noobs/
 
 https://github.com/pemistahl/grex#what-does-tool-do
+
+https://lemire.me/blog/2021/04/22/some-useful-regular-expressions-for-programmers/
+* https://news.ycombinator.com/item?id=26910717
 
 # Grep
 

@@ -24,3 +24,7 @@ https://news.ycombinator.com/item?id=26002251 https://www.gobolinux.org/
  the filesystem is the database: each program resides in its own directory
 
 https://news.ycombinator.com/item?id=26001738 https://garudalinux.org/
+
+# News
+https://ubuntu.com//blog/ubuntu-21-04-is-here
+* https://news.ycombinator.com/item?id=26902795

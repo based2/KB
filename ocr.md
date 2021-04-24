@@ -10,3 +10,6 @@ https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detecto
 https://www.opcito.com/blogs/extracting-text-from-images-with-tesseract-ocr-opencv-and-python/
 
 https://github.com/awslabs/autogluon
+
+https://www.crosstab.io/product-comparisons/document-form-extraction
+* https://news.ycombinator.com/item?id=26906397

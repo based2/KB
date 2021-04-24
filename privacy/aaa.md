@@ -43,6 +43,13 @@ https://news.ycombinator.com/item?id=26791186
 https://news.ycombinator.com/item?id=9600400 exif location
 
 # News
+https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/
+* https://news.ycombinator.com/item?id=26926008
+https://blog.amplitude.com/keepsafes-data-driven-approach-to-pricing
+https://twitter.com/Linkletter/status/1385004344903290883
+* https://news.ycombinator.com/item?id=26900217
+  * https://www.eff.org/press/releases/eff-sues-proctorio-behalf-student-it-falsely-accused-copyright-infringement-get
+    * https://news.ycombinator.com/item?id=26898651
 https://www.accc.gov.au/media-release/google-misled-consumers-about-the-collection-and-use-of-location-data
 * https://news.ycombinator.com/item?id=26832123
 https://www.ccc.de/en/updates/2021/luca-app-ccc-fordert-bundesnotbremse

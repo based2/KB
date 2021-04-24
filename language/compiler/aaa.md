@@ -8,6 +8,9 @@ https://www.gnu.org/software/lightning/
 
 https://secret.club/2021/04/09/std-clamp.html
 
+https://c9x.me/compile/bib/
+* https://news.ycombinator.com/item?id=26925314
+
 # News
 https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html
 * https://news.ycombinator.com/item?id=26832505

@@ -16,6 +16,9 @@ https://blog.tonari.no/introducing-innernet
   * https://news.ycombinator.com/item?id=26628285
 
 # Investigations
+https://mysteries.wizardzines.com/connection-timeout.html
+* https://news.ycombinator.com/item?id=26900678
+
 https://www.fing.com/products/fing-app
 
 https://www.gkbrk.com/2016/05/hotel-music/
@@ -29,6 +32,10 @@ http://www.byteparadigm.com/applications/introduction-to-i2c-and-spi-protocols/
 
 # VLAN
 https://www.kernel.org/doc/html/latest/networking/vxlan.html
+
+# Mesh
+https://irde.st/
+* https://news.ycombinator.com/item?id=26925584
 
 
 

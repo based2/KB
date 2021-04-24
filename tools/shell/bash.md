@@ -1,5 +1,8 @@
 https://www.gnu.org/software/bash/
 
+https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html
+* https://news.ycombinator.com/item?id=26899531 ###
+
 https://news.ycombinator.com/item?id=22961321
 
 https://stackoverflow.com/questions/7131670/make-a-bash-alias-that-takes-a-parameter

@@ -20,6 +20,11 @@ https://use-the-index-luke.com/
 # Security - Injection
 https://patchthenet.medium.com/introduction-to-sql-injection-sql-injection-for-beginners-579c00431d40
 
+
+# Client
+https://dbgate.org/ Open-source, cross-platform SQL+noSQL database client - Typescript,Svelte
+* https://news.ycombinator.com/item?id=26899100
+
 #
 https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146
 * https://news.ycombinator.com/item?id=26822884

@@ -27,3 +27,9 @@ https://www.maptiler.com/server/
 
 https://github.com/maplibre/maplibre-gl-js
 * https://news.ycombinator.com/item?id=26670495
+
+# News
+https://news.ycombinator.com/item?id=26918259
+* https://protomaps.com/blog/new-way-to-make-maps/
+https://blogs.ucl.ac.uk/survey-of-london/2020/04/06/colouring-london-2/
+* https://news.ycombinator.com/item?id=26894765

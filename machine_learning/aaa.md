@@ -29,6 +29,9 @@ https://www.mattkeeter.com/research/mpr/
 # GPT
 https://news.ycombinator.com/item?id=26534000
 
+# IML - Interpretable machine learning
+https://blog.ml.cmu.edu/2021/04/23/a-learning-theoretic-perspective-on-local-explainability/
+
 # Books & Papers
 ## Papers
 https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c

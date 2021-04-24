@@ -15,6 +15,8 @@ https://www.bbc.com/news/science-environment-56749105
 * https://news.ycombinator.com/item?id=26832589
  * https://www.sciencedaily.com/releases/2020/10/201021112358.htm
 
+https://carbonplan.org/research/cdr-database
+
 # News
 https://charmindustrial.com/blog/2021/4/19/charm-announces-ahead-of-schedule-delivery-of-stripes-carbon-removal-purchase
 * https://news.ycombinator.com/item?id=26874619

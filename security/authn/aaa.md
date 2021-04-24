@@ -8,3 +8,7 @@ https://github.com/OpenIdentityPlatform/OpenAM
 https://www.openiam.com
 
 https://apereo.github.io/cas/
+
+# Diffie-Hellman
+https://borisreitman.com/privacy.html
+* https://news.ycombinator.com/item?id=26898147

@@ -38,6 +38,9 @@ http://www.arolla.fr/blog/wp-content/uploads/2018/10/DomainModelingwithMonoids.p
 https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-streaming-systems
 * https://news.ycombinator.com/item?id=26860636
 
+https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf
+* https://news.ycombinator.com/item?id=26901070
+
 # End of life
 https://endoflife.date/
 

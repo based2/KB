@@ -36,6 +36,9 @@ https://github.com/netdata/netdata - C
 # New entrant
 https://www.kartar.net/2020/05/a-bit-of-a-vector/
 
+https://kizniche.github.io/Mycodo/About/
+* https://news.ycombinator.com/item?id=26861471
+
 # News
 https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/
 * https://news.ycombinator.com/item?id=26877528

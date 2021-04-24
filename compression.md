@@ -8,6 +8,8 @@ https://mzucker.github.io/2016/09/20/noteshrink.html
 https://bilalonureskili.com/files/LTC_en.pdf
 * https://news.ycombinator.com/item?id=26722960
 
+https://spectrum.ieee.org/geek-life/profiles/from-winzips-to-cat-gifs-jacob-zivs-algorithms-have-powered-decades-of-compression
+
 ## Tools
 https://www.7-zip.org/download.html
 

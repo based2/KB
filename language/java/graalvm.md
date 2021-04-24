@@ -7,3 +7,6 @@ https://www.reddit.com/r/java/comments/cqaiy1/jvmls_2019_tornadovm_with_juan_fum
 https://medium.com/helidon/data-persistence-with-helidon-and-native-image-e5a74897ec6d
 
 https://medium.com/graalvm/multi-tier-compilation-in-graalvm-5fbc65f92402
+
+https://www.blog.akhil.cc/static-jni
+* 

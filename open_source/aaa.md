@@ -88,6 +88,11 @@ https://github.com/everestpipkin/tools-list
 * https://news.ycombinator.com/item?id=26821306
 
 # News
+https://github.com/minio/minio/issues/12143 Sudden, Silent License change?
+https://github.com/djyde/cusdis
+https://kde.org/announcements/gear/21.04/
+https://godotengine.org/article/godot-3-3-has-arrived
+https://www.gimp.org/news/2021/03/29/gimp-2-10-24-released/
 https://github.com/GorvGoyl/clone-wars
 *
 https://arxiv.org/pdf/2103.11518.pdf OSS Fuzz

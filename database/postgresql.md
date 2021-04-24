@@ -21,6 +21,9 @@ ttps://github.com/dhamaniasad/awesome-postgres
 
 https://www.migops.com/blog/2021/04/09/pgbackrest-the-best-postgres-backup-tool-with-a-very-active-community/#Conclusion
 
+https://github.com/ankane/pgvector vector similarity search
+* https://news.ycombinator.com/item?id=26903105
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 

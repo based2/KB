@@ -9,3 +9,6 @@ https://en.wikipedia.org/wiki/H-Store
 
 
 https://blog.acolyer.org/2020/11/30/seeing-is-believing/
+
+# Spreadsheet
+https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989

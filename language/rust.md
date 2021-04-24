@@ -21,11 +21,7 @@ https://brson.github.io/2021/01/17/rust-unconditional-loops
 
 https://github.com/microsoft/windows-rs
 
-http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/
-
 https://msirringhaus.github.io/Where-everything-went-wrong/
-
-https://github.com/Xudong-Huang/may concurrency
 
 https://github.com/bastion-rs/bastion Highly-available Distributed Fault-tolerant Runtime - Alpha
 
@@ -40,10 +36,6 @@ https://github.com/mcorbin/meuse Free crate registry
 https://news.ycombinator.com/item?id=26620372
 
 https://github.com/christian-blades-cb/proquint-rs
-
-https://ferrous-systems.com/blog/test-embedded-app/
-
-https://github.com/RustSec/advisory-db
 
 https://ferrous-systems.com/blog/defmt/
 
@@ -65,6 +57,23 @@ https://www.brandons.me/blog/why-rust-strings-seem-hard
 https://fasterthanli.me/articles/pin-and-suffering
 * https://lobste.rs/s/f98dpj/pin_suffering
 
+https://github.com/Xudong-Huang/may concurrency
+
+http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/
+
+# Test
+
+https://ferrous-systems.com/blog/test-embedded-app/
+
+# Tools
+## Terminal
+https://zellij.dev/news/beta/
+* https://news.ycombinator.com/item?id=26902430
+
+https://github.com/fdehau/tui-rs
+
+https://github.com/alacritty/alacritty
+
 # Book
 https://github.com/ANSSI-FR/rust-guide
 
@@ -75,8 +84,13 @@ https://rust-unofficial.github.io/patterns/
 https://news.ycombinator.com/item?id=26565444 CXX C++
 
 # Security
+
 https://github.com/crev-dev/cargo-crev
 * https://news.ycombinator.com/item?id=26735470
+
+https://rustsec.org/
+* https://github.com/RustSec/advisory-db
+* https://github.com/RustSec/cargo-audit
 
 # OS
 

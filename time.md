@@ -2,6 +2,10 @@ https://binjr.eu/
 
 https://stackoverflow.com/questions/3523442/difference-between-clock-realtime-and-clock-monotonic
 
+# Timestamp
+https://changelog.com/posts/you-might-as-well-timestamp-it
+* https://news.ycombinator.com/item?id=26922759
+
 # Duration
 Building a command-line time tracker in shell script
 https://news.ycombinator.com/item?id=26545976
