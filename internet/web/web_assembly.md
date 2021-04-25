@@ -8,3 +8,7 @@ https://webassembly.studio/
 
 
 https://news.ycombinator.com/item?id=26803155
+
+# News
+https://twitter.com/wasm3_engine/status/1384288567627640839
+* https://news.ycombinator.com/item?id=26916866

@@ -47,6 +47,8 @@ https://endoflife.date/
 https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/
 
 # Performance
+https://en.wikipedia.org/wiki/Amdahl%27s_law
+
 http://www.brendangregg.com/usemethod.html
 
 # News

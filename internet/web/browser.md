@@ -7,6 +7,7 @@ https://bellard.org/jslinux/
 https://vivek9patel.github.io/ Ubuntu
 
 # News
+https://news.ycombinator.com/item?id=26929240
 https://github.com/danoon2/Boxedwine
 * https://news.ycombinator.com/item?id=26919360
 https://www.mozilla.org/en-US/firefox/88.0/releasenotes/

@@ -14,6 +14,7 @@ PeerJS https://news.ycombinator.com/item?id=25658704
 
 http://ffmpeg.org/index.html#pr4.4
 * https://news.ycombinator.com/item?id=26746537
+https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730
 
 DaVinci resolve - https://www.blackmagicdesign.com/fr/products/davinciresolve/
 

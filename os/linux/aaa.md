@@ -9,26 +9,13 @@ https://ubuntu.com/blog/private-home-directories-for-ubuntu-21-04
 
 https://linuxzoo.net/
 
-# Systemd
-https://systemd.io/
+https://people.kernel.org/kuba/common-interface-for-nic-statistics
 
-https://raw.githubusercontent.com/systemd/systemd/main/NEWS
-* https://news.ycombinator.com/item?id=26642780
-
-https://www.redhat.com/sysadmin/mastering-systemd
-
-https://people.redhat.com/bbreard/presos/Demystifying_systemd_Summit_2020.pdf
-
-https://trstringer.com/systemd-inhibitor-locks/
-
-#
+# Selinux
 
 https://selinuxproject.org/page/Main_Page
 
 https://muhammadraza.me/2021/Linux-FS/
-
-# bpf
-https://nakryiko.com/posts/libbpf-bootstrap/
 
 # Tux
 https://github.com/Nautalis/Tux3D
@@ -41,6 +28,8 @@ https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy
 * https://news.ycombinator.com/item?id=26889677
  * https://github.com/QiushiWu/qiushiwu.github.io/blob/main/papers/OpenSourceInsecurity.pdf
   * https://news.ycombinator.com/item?id=26889719
+   * https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u
+    * https://news.ycombinator.com/item?id=26929470
 
 https://www.linux.com/featured/in-the-trenches-with-thomas-gleixner-real-time-linux-kernel-patch-set/
 https://lwn.net/Articles/851184/

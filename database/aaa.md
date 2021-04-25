@@ -10,5 +10,9 @@ https://en.wikipedia.org/wiki/H-Store
 
 https://blog.acolyer.org/2020/11/30/seeing-is-believing/
 
+# Column
+https://emilyriederer.netlify.app/post/column-name-contracts/
+
 # Spreadsheet
 https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
+* https://news.ycombinator.com/item?id=26926225 panda

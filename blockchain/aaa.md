@@ -25,4 +25,5 @@ https://txstreet.com/v/btc-eth
 https://www.zeroknowledgeblog.com/index.php/zk-snarks
 
 # News
+https://www.theblockcrypto.com/linked/102813/wyoming-dao-law-to-go-into-effect-in-july-after-receiving-final-approval
 https://www.forbes.com/sites/jonathanponciano/2021/04/18/crypto-flash-crash-wiped-out-300-billion-in-less-than-24-hours-spurring-massive-bitcoin-liquidations/?sh=6e9404cf2c89

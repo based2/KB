@@ -18,6 +18,9 @@ https://windowsreport.com/automatically-transcribe-music/
 https://99percentinvisible.org/episode/the-real-book/
 * https://news.ycombinator.com/item?id=26737142
 
+https://www.lowvolumedrumming.org/descending-toms/ drum
+* https://news.ycombinator.com/item?id=26930361
+
 # Western Theory
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 * https://news.ycombinator.com/item?id=26859907

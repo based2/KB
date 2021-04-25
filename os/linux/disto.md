@@ -2,6 +2,8 @@
 https://en.wikipedia.org/wiki/Mozilla_software_rebranded_by_Debian
 https://www.mail-archive.com/debian-ctte@lists.debian.org/msg08586.html
 
+https://github.com/RidiculousJim/nftables-firewall-gen
+
 # ArchLinux
 https://manjaro.org/
 https://forum.manjaro.org/t/manjaro-21-0-ornara-released/59399

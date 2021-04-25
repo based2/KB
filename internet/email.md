@@ -24,5 +24,8 @@ https://www.migadu.com/procon/
 
 # Migration
 
+# Client
+https://github.com/soywod/himalaya
+
 # Alt
 https://mnmnotmail.org/

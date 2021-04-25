@@ -31,5 +31,8 @@ https://amnesia.openaire.eu/
 # Bpok
 https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
 
+# News
+https://www.qurium.org/forensics/dark-ops-undercovered-episode-i-eliminalia/
+
 
 

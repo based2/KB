@@ -32,6 +32,10 @@ Note that the opening <html> tag is optional† too but I retained it in the abo
 
 https://paulkinchla.com/blog/javascript-is-a-ghost/
 
+https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/
+* https://news.ycombinator.com/item?id=26915706
+
+
 # WYSIWYG
 https://codemirror.net/
 * https://prosemirror.net/

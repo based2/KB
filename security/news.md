@@ -1,4 +1,7 @@
 https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/
+* https://news.ycombinator.com/item?id=26928067
+
+https://privatedrop.github.io/
 
 https://www.eejournal.com/article/clever-hack-finds-mystery-cpu-instructions/
 * https://news.ycombinator.com/item?id=26922353
