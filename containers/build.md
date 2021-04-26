@@ -5,6 +5,7 @@ https://www.giantswarm.io/blog/building-container-images-with-img
 # Signature
 https://blog.sigstore.dev/sigstore-project-update-april-2021-f01d7ea5c60e
 
+https://www.unicoda.com/?p=4311
 
 # Scanning
 https://opensource.com/article/18/8/tools-container-security

@@ -2,6 +2,8 @@ https://nedbatchelder.com/text/names.html
 
 https://fastapi.tiangolo.com/
 
+https://medium.com/techtofreedom/for-else-a-weird-but-useful-feature-in-python-2076d8dafad1
+
 # Functional
 https://github.com/pytoolz/toolz
 

@@ -43,3 +43,5 @@ https://blog.acolyer.org/2017/05/30/mosaic-processing-a-trillion-edge-graph-on-a
 
 https://app.litmaps.co/maps/4EC66E97-84C5-4230-B059-288D340B44B8
 * https://news.ycombinator.com/item?id=26900366
+
+https://www.diagrams.net/

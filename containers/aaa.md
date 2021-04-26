@@ -10,6 +10,10 @@ https://containerssh.io/
 https://searchservervirtualization.techtarget.com/tip/5-open-source-software-applications-for-virtualization
 * https://cockpit-project.org/
 
+https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/
+* https://news.ycombinator.com/item?id=26935725
+  * https://github.com/piku
+
 # News
 https://devopsdirective.com/posts/2021/04/tiny-container-image/
 * https://news.ycombinator.com/item?id=26899292

@@ -21,4 +21,6 @@ https://marp.app/
 https://mark.show/#
 * https://news.ycombinator.com/item?id=26931098
 
+https://susam.github.io/texme/examples/demo.html
+
 https://houdini.how/about/

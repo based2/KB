@@ -62,6 +62,9 @@ https://learnui.design/tools/data-color-picker.html
 
 https://houdini.how/
 
+https://markodenic.com/css-tips/
+* https://news.ycombinator.com/item?id=26945263
+
 # Tools
 https://github.com/krishdevdb/reseter.css
 

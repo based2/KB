@@ -13,9 +13,8 @@ https://explained.ai/decision-tree-viz/index.html
 ## Boyer-Moore Fast String Searching Algorithm
 https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/
 * https://news.ycombinator.com/item?id=26910982
-
-
-
+https://yurichev.com/news/20210421_boyer_moore/
+* https://news.ycombinator.com/item?id=26900640
 
 # UTF-8
 

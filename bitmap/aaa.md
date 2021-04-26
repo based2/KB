@@ -10,3 +10,5 @@ https://www.youtube.com/watch?v=rpB6zQNsbQU
 
 https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/
 * https://news.ycombinator.com/item?id=26839692
+
+https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf

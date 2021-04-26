@@ -127,6 +127,7 @@ https://github.com/warmuuh/milkman Milkman - An Extensible Request/Response Work
 
 https://www.reddit.com/r/java/comments/b2izd9/i_dont_often_explain_a_single_method_in_jdk_but/
 
+https://candrews.integralblue.com/2021/04/fixing-a-bug-in-java/
 JEE
 https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
 

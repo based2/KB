@@ -24,6 +24,8 @@ https://www.migops.com/blog/2021/04/09/pgbackrest-the-best-postgres-backup-tool-
 https://github.com/ankane/pgvector vector similarity search
 * https://news.ycombinator.com/item?id=26903105
 
+http://eradman.com/ephemeralpg/
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
