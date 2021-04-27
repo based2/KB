@@ -28,5 +28,8 @@ https://news.ycombinator.com/item?id=26002251 https://www.gobolinux.org/
 https://news.ycombinator.com/item?id=26001738 https://garudalinux.org/
 
 # News
+https://fedoramagazine.org/announcing-fedora-34/
+* https://news.ycombinator.com/item?id=26954694
+https://thenewstack.io/ubuntu-21-04-shrinks-kubernetes-footprint-for-pis-gpus/
 https://ubuntu.com//blog/ubuntu-21-04-is-here
 * https://news.ycombinator.com/item?id=26902795

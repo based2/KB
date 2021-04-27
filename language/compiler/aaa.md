@@ -12,6 +12,8 @@ https://c9x.me/compile/bib/
 * https://news.ycombinator.com/item?id=26925314
 
 # News
+https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html
+* https://news.ycombinator.com/item?id=26955474
 https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html
 * https://news.ycombinator.com/item?id=26832505
 * https://lobste.rs/s/8olgw6/llvm_12_0_0

@@ -1,4 +1,4 @@
-https://nodes.io/?source=korben.info
+https://nodes.io/
 
 https://excalidraw.com/
 
@@ -45,3 +45,18 @@ https://app.litmaps.co/maps/4EC66E97-84C5-4230-B059-288D340B44B8
 * https://news.ycombinator.com/item?id=26900366
 
 https://www.diagrams.net/
+
+# UML
+https://www.plantuml.com - Graphviz
+
+
+## Sequence
+
+https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000
+
+https://swimlanes.io/
+* https://news.ycombinator.com/item?id=26956728
+
+https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0NocmlzdG1hc10gLS0-fEdldCBtb25leXwgQihHbyBzaG9wcGluZylcbiAgICBCIC0tPiBDe0xldCBtZSB0aGlua31cbiAgICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICAgIEMgLS0-fFR3b3wgRVtpUGhvbmVdXG4gICAgQyAtLT58VGhyZWV8IEZbZmE6ZmEtY2FyIENhcl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ
+
+# BPMN

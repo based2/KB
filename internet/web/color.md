@@ -19,6 +19,9 @@ https://github.com/grgrdvrt/poulette
 https://martinanderson.substack.com/p/relighting-and-color-grading-with
 * https://news.ycombinator.com/item?id=26696557
 
+https://www.paletter.app/
+* https://news.ycombinator.com/item?id=26956105
+
 # Monochrome
 https://news.ycombinator.com/item?id=26934352
 

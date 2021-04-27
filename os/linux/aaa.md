@@ -24,6 +24,8 @@ https://github.com/Nautalis/Tux3D
 https://barebox.org/
 
 # News
+https://skarnet.com/projects/service-manager.html
+* https://news.ycombinator.com/item?id=26955586
 https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/
 * https://news.ycombinator.com/item?id=26889677
  * https://github.com/QiushiWu/qiushiwu.github.io/blob/main/papers/OpenSourceInsecurity.pdf

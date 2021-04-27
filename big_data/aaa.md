@@ -19,6 +19,9 @@ https://github.com/jupyter/notebook
 https://fiftysevendegreesofrad.github.io/JupyterNotes/piano.html
 * https://news.ycombinator.com/item?id=26860627
 
+https://getfedora.org/en/coreos?stream=stable
+* https://news.ycombinator.com/item?id=26953352
+
 ## Pluto - Julia
 https://plutojl.org/plutocon2021
 https://news.ycombinator.com/item?id=26745795

@@ -35,6 +35,9 @@ https://paulkinchla.com/blog/javascript-is-a-ghost/
 https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/
 * https://news.ycombinator.com/item?id=26915706
 
+https://www.matuzo.at/blog/html-boilerplate/
+* https://news.ycombinator.com/item?id=26952557
+
 
 # WYSIWYG
 https://codemirror.net/

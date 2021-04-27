@@ -1,4 +1,4 @@
-https://www.qgis.org/fr/site/
+https://www.qgis.org/en/site/
 
 https://postgis.net/
 
@@ -14,6 +14,13 @@ https://eng.uber.com/nebulagl/
 
 # Data
 https://www.nirsoft.net/utils/cports.html#DownloadLinks
+
+https://www.ltonetwork.com/use-cases/un-land-registry/
+* https://news.ycombinator.com/item?id=26958524
+
+## Geocode
+https://www.gisgraphy.com/index.php
+* https://news.ycombinator.com/item?id=26938945
 
 # 3d
 https://cesium.com/blog/2021/03/30/cesium-for-unreal-now-available/
