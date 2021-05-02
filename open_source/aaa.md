@@ -79,6 +79,15 @@ https://www.bleachbit.org/
 https://jdownloader.org/home/index
 https://rufus.ie/ USB booter builder
 
+# Web
+https://httpd.apache.org/
+
+https://www.nginx.com/
+https://www.freecodecamp.org/news/the-nginx-handbook/
+
+https://justine.lol/redbean/
+* https://news.ycombinator.com/item?id=27001961
+
 # Logs
 https://glogg.bonnefon.org/
 https://alerta.io/
@@ -88,6 +97,12 @@ https://github.com/everestpipkin/tools-list
 * https://news.ycombinator.com/item?id=26821306
 
 # News
+https://www.scoringnotes.com/news/muse-group-formed-to-support-musescore-ultimate-guitar-acquires-audacity/
+* https://news.ycombinator.com/item?id=27004688
+https://pointieststick.com/2021/04/30/this-week-in-kde-support-for-gpu-hot-plug-and-freesync-and-so-much-more/
+https://techcrunch.com/2021/04/27/amazon-announces-its-open-sourcing-deep-racer-device-software/
+https://blog.gitguardian.com/safely-open-source-software-best-practices/
+https://lobste.rs/s/sp3l8n/open_sourcing_code_generated_works
 https://github.com/minio/minio/issues/12143 Sudden, Silent License change?
 https://github.com/djyde/cusdis
 https://kde.org/announcements/gear/21.04/
@@ -101,3 +116,8 @@ https://www.wikimedia.fr/site-du-musee-du-louvre-refonte-entravee-par-la-politiq
 
 https://ma.tt/2021/04/wix-dirty-tricks/
 * https://news.ycombinator.com/item?id=26728471
+
+# Fediverse
+https://fediverse.party/en/miscellaneous
+* https://news.ycombinator.com/item?id=27009468
+

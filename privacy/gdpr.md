@@ -32,6 +32,7 @@ https://amnesia.openaire.eu/
 https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
 
 # News
+https://edpb.europa.eu/news/national-news/2021/easy-privacy-information-icons-yes-you-can-italian-dpa-launches-contest_en
 https://www.qurium.org/forensics/dark-ops-undercovered-episode-i-eliminalia/
 
 

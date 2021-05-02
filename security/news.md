@@ -1,3 +1,26 @@
+https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html
+* https://news.ycombinator.com/item?id=27010463
+
+https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/
+
+https://www.sciencedaily.com/releases/2021/04/210430165903.htm
+* https://news.ycombinator.com/item?id=27000570
+
+https://oxide.computer/blog/lpc55/
+
+https://www.pentagrid.ch/en/blog/password-reset-code-brute-force-vulnerability-in-AWS-Cognito/
+
+https://forum.qnap.com/viewtopic.php?f=45&t=160849&start=450#p788325
+* https://news.ycombinator.com/item?id=26986272
+
+https://www.bleepingcomputer.com/news/security/digitalocean-data-breach-exposes-customer-billing-information/
+
+https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/
+* https://news.ycombinator.com/item?id=26981886
+  * https://linux-audit.com/determine-file-and-related-package/
+
+https://secure-cookie.io/attacks/ssti/ Remote Code Execution on Jinja
+
 https://objective-see.com/blog/blog_0x64.html
 * https://news.ycombinator.com/item?id=26945680
 
@@ -25,6 +48,9 @@ https://gizmodo.com/signals-ceo-just-hacked-the-cops-favorite-phone-crackin-1846
 * https://news.ycombinator.com/item?id=26903092
  * https://signal.org/blog/cellebrite-vulnerabilities/
   * https://news.ycombinator.com/item?id=26891811
+    * https://www.schneier.com/blog/archives/2021/04/security-vulnerabilities-in-cellebrite.html
+
+https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations
 
 https://justi.cz/security/2021/04/20/cocoapods-rce.html
 * https://news.ycombinator.com/item?id=26874726

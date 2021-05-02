@@ -170,6 +170,7 @@ https://javaee.github.io/jsonp/
 https://www.igorkromin.net/index.php/2018/12/06/setting-jax-ws-webservice-client-timeout-values-correctly-within-a-weblogic-12c-container/
 
 # News
+https://news.ycombinator.com/item?id=27004728
 https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/
 https://www.theserverside.com/news/252498427/AdoptOpenJDK-moves-to-Eclipse-Foundation-as-Adoptium
 

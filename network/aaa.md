@@ -24,11 +24,18 @@ https://www.fing.com/products/fing-app
 https://www.gkbrk.com/2016/05/hotel-music/
 *  https://news.ycombinator.com/item?id=26633792
 
+https://en.wikipedia.org/wiki/Internet_background_noise
+
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
 
 # Protocol
 http://www.byteparadigm.com/applications/introduction-to-i2c-and-spi-protocols/
+
+https://packetlife.net/library/cheat-sheets/
+
+http://www.luismg.com/protocol/
+* https://news.ycombinator.com/item?id=26965186
 
 # VLAN
 https://www.kernel.org/doc/html/latest/networking/vxlan.html

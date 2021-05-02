@@ -12,10 +12,15 @@ https://cacm.acm.org/blogs/blog-cacm/249304-time-to-exhume-psp/fulltext
 http://bawiki.com/wiki/Waterfall.html
 
 # Agile
+https://www.pmi.org/learning/library/modern-agile-approach-initiate-contract-6541
+https://agilemanifesto.org/
 
 # Estimation
 * https://en.wikipedia.org/wiki/Delphi_method
  * https://news.ycombinator.com/item?id=26368011
+
+https://blog.pragmaticengineer.com/yes-you-should-estimate/
+* https://news.ycombinator.com/item?id=27006853
 
 # Decision
 https://jacobian.org/2021/jan/30/soccr/

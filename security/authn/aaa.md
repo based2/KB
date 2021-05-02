@@ -12,3 +12,12 @@ https://apereo.github.io/cas/
 # Diffie-Hellman
 https://borisreitman.com/privacy.html
 * https://news.ycombinator.com/item?id=26898147
+
+https://borisreitman.medium.com/diffie-hellman-for-the-layman-7df6095011d9
+
+#
+https://gomakethings.com/api-authentication-with-vanilla-js/
+
+# Google Znazibar
+https://research.google/pubs/pub48190/
+* https://news.ycombinator.com/item?id=26980254

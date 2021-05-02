@@ -1,5 +1,7 @@
 https://systemd.io/
 
+https://www.redhat.com/sysadmin/mastering-systemd
+
 https://raw.githubusercontent.com/systemd/systemd/main/NEWS
 * https://news.ycombinator.com/item?id=26642780
 

@@ -1,4 +1,5 @@
-https://www.redhat.com/sysadmin/mastering-systemd
+https://tldp.org/docs.html#howto
+* https://news.ycombinator.com/item?id=26991660
 
 https://news.ycombinator.com/item?id=25506763 	Print RAM Usage of process including children
 
@@ -22,8 +23,13 @@ https://github.com/Nautalis/Tux3D
 
 # Embedded
 https://barebox.org/
+https://librecmc.org/
 
 # News
+https://lkml.org/lkml/2021/4/27/1208
+* https://news.ycombinator.com/item?id=26968680
+https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git
+* https://news.ycombinator.com/item?id=26969595
 https://skarnet.com/projects/service-manager.html
 * https://news.ycombinator.com/item?id=26955586
 https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/

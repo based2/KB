@@ -36,6 +36,7 @@ Engineering has to build that REPEATABLE DevOps automation @ scale.
 The informed definition of DevOps is = "DevOps is the union of people, process, and products to enable continuous delivery of value to your end users." From Microsoft's Donovan Brown - https://www.youtube.com/watch?v=WW6x0jIPpr0
 
 https://github.com/jghoman/awesome-apache-airflow
+https://eatcodeplay.com/upgrading-to-airflow-2-0-massive-performance-wins-and-lessons-learned-8c6a15cec8e7
 
 https://drewdevault.com/2019/10/12/how-to-fuck-up-releases.html
 * https://news.ycombinator.com/item?id=26902422
@@ -45,6 +46,8 @@ https://timothyandrew.dev/blog/git-stack/
 
 https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/
 * https://news.ycombinator.com/item?id=18119570
+
+https://www.usenix.org/publications/loginonline/low-context-devops
 
 # Version
 https://semver.org/lang/

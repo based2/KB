@@ -48,7 +48,16 @@ https://www.diagrams.net/
 
 # UML
 https://www.plantuml.com - Graphviz
+* https://news.ycombinator.com/item?id=26976520
+* https://news.ycombinator.com/item?id=23648957
+  * https://real-world-plantuml.com/
+  * https://crashedmind.github.io/PlantUMLHitchhikersGuide/about/AboutPlantUML.html
+  * https://github.com/plantuml-stdlib/C4-PlantUML
 
+https://news.ycombinator.com/item?id=26974977
+
+https://github.com/achiku/planter for PostreSQL
+* https://news.ycombinator.com/item?id=26979874
 
 ## Sequence
 

@@ -22,6 +22,8 @@ https://github.com/pemistahl/grex#what-does-tool-do
 https://lemire.me/blog/2021/04/22/some-useful-regular-expressions-for-programmers/
 * https://news.ycombinator.com/item?id=26910717
 
+https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24
+
 # Grep
 
 https://littlemaninmyhead.wordpress.com/2019/08/04/dont-underestimate-grep-based-code-scanning/
@@ -33,3 +35,5 @@ https://news.ycombinator.com/item?id=20609199 	fd: A simple, fast, user-friendly
 https://blog.doyensec.com/2021/03/11/regexploit.html
 
 https://github.com/google/re2
+
+https://github.com/google/re2j

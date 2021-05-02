@@ -24,6 +24,8 @@ https://chocolatey.org/
 https://www.nuget.org/packages/manage/upload
 https://ruckzuck.tools/
 
+https://www.tranquil.it/en/manage-it-equipment/discover-wapt/
+
 # Disk
 https://windirstat.net/
 https://wiztreefree.com/
@@ -39,3 +41,7 @@ https://www.nirsoft.net/utils/cports.html#DownloadLinks
 # Excel
 https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/
 * https://news.ycombinator.com/item?id=26900419
+
+# Terminal
+https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
+* https://news.ycombinator.com/item?id=26991887

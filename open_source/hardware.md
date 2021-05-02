@@ -1,4 +1,4 @@
-
+https://www.opencompute.org/
 
 https://www.powerpc-notebook.org/
 
@@ -20,6 +20,9 @@ https://j-core.org/
 
 https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/
 * https://news.ycombinator.com/item?id=26946993
+
+http://guillaume.baierouge.fr/2021/04/23/simulating-digital-circuits-in-racket/a-risc-v-core-in-racket/index.html
+* https://news.ycombinator.com/item?id=26990615
 
 # Mechanism
 https://openastrotech.com/

@@ -1,4 +1,4 @@
-# Cebian
+# Debian
 https://en.wikipedia.org/wiki/Mozilla_software_rebranded_by_Debian
 https://www.mail-archive.com/debian-ctte@lists.debian.org/msg08586.html
 
@@ -19,6 +19,10 @@ https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-ea
 https://www.gentoo.org/
 https://wiki.gentoo.org/wiki/Hardened_Gentoo
 
+# Slackware
+https://docs.slackware.com/slackware:philosophy
+* https://news.ycombinator.com/item?id=26990734
+
 # Exotic
 https://news.ycombinator.com/item?id=26002251 https://www.gobolinux.org/
  redefines the entire filesystem hierarchy.
@@ -28,6 +32,9 @@ https://news.ycombinator.com/item?id=26002251 https://www.gobolinux.org/
 https://news.ycombinator.com/item?id=26001738 https://garudalinux.org/
 
 # News
+https://rockylinux.org/news/rocky-linux-8-3-rc1-release/
+https://blog.elementary.io/elementary-os-6-odin-beta/
+* https://news.ycombinator.com/item?id=27001736
 https://fedoramagazine.org/announcing-fedora-34/
 * https://news.ycombinator.com/item?id=26954694
 https://thenewstack.io/ubuntu-21-04-shrinks-kubernetes-footprint-for-pis-gpus/

@@ -42,7 +42,15 @@ https://news.ycombinator.com/item?id=26791186
 # Metadata
 https://news.ycombinator.com/item?id=9600400 exif location
 
+# Dev - telemetry
+https://news.ycombinator.com/item?id=26970105
+
+#
+https://aws.amazon.com/en/blogs/awsmarketplace/using-the-xor-secret-computing-platform-for-machine-learning-on-private-data-sources/
+
 # News
+https://themarkup.org/privacy/2021/04/27/google-promised-its-contact-tracing-app-was-completely-private-but-it-wasnt
+* https://news.ycombinator.com/item?id=26954980
 https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/
 * https://news.ycombinator.com/item?id=26926008
 https://blog.amplitude.com/keepsafes-data-driven-approach-to-pricing

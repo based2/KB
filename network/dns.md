@@ -8,8 +8,15 @@ https://tailscale.com/blog/sisyphean-dns-client-linux/
 * https://news.ycombinator.com/item?id=26821298
   * https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
 
+https://zestedesavoir.com/billets/3908/avoir-son-dns-local-securite-controle-et-performance/ unbound
+
+https://blog.replit.com/dns
+* https://news.ycombinator.com/item?id=26987939
+
 # DNSSEC
 https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
+
+https://forums.aws.amazon.com/thread.jspa?messageID=598211 SSHFP records
 
 # DNS over TLS
 
@@ -27,3 +34,5 @@ https://news.ycombinator.com/item?id=20988584 https://news.ycombinator.com/item?
 https://www.bleepingcomputer.com/news/security/dutch-govt-explains-the-risks-behind-dns-over-https-move/
 
 https://coredns.io/
+
+https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations

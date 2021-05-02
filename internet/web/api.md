@@ -2,6 +2,7 @@ https://restfulapi.net/
 
 https://www.asyncapi.com/
 https://www.asyncapi.com/docs/getting-started/coming-from-openapi
+https://thenewstack.io/asyncapi-2-0-enabling-the-event-driven-world/
 
 https://swagger.io/
 

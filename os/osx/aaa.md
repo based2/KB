@@ -27,9 +27,15 @@ https://github.com/foxlet/macOS-Simple-KVM
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 
 # M1
+https://blogs.vmware.com/teamfusion/2021/04/fusion-on-apple-silicon-progress-update.html
+* https://news.ycombinator.com/item?id=27011197
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13
 * https://news.ycombinator.com/item?id=26952433
 https://www.apple.com/newsroom/2021/04/imac-features-all-new-design-in-vibrant-colors-m1-chip-and-45k-retina-display/
 * https://news.ycombinator.com/item?id=26877806
 https://authzed.com/blog/onboarding-with-an-m1/
 * https://news.ycombinator.com/item?id=26843228
+
+# Dev
+https://www.cdfinder.de/guide/blog/apple_hell.html
+* https://news.ycombinator.com/item?id=26993857

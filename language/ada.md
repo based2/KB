@@ -6,6 +6,8 @@
 
 https://en.wikipedia.org/wiki/GNAT
 
+https://blog.adacore.com/on-the-benefits-of-families
+
 # Ada++
 http://www.adapplang.com/
 

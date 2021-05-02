@@ -30,6 +30,13 @@ https://h3rald.com/litestore/ A tiny NoSQL database for rapid prototyping
 https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html
 * https://news.ycombinator.com/item?id=26816954
 
+https://mtlynch.io/litestream/
+* https://news.ycombinator.com/item?id=26981239
+
+# HA
+https://dqlite.io/ Canonical
+https://github.com/rqlite/rqlite/
+
 # News
 https://github.com/joaoh82/rust_sqlite
 https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202103-04-sqlite-remote-code-execution-10-22-05?rss

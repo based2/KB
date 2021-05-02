@@ -56,6 +56,11 @@ https://gitlab.com/tangram-vision-oss/realsense-rust
 https://www.brandons.me/blog/why-rust-strings-seem-hard
 * https://news.ycombinator.com/item?id=26811879
 
+https://kentiklabs.com/blog/2021/04/21/open-sourcing-our-netdiag-crate/
+
+https://blog.abor.dev/p/making-generative-art-with-rust
+* https://news.ycombinator.com/item?id=27000436
+
 # Async
 https://fasterthanli.me/articles/pin-and-suffering
 * https://lobste.rs/s/f98dpj/pin_suffering
@@ -109,6 +114,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 * https://news.ycombinator.com/item?id=26850682
 
 # News
+https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/
+* https://news.ycombinator.com/item?id=26982890
 https://github.com/rusticstuff/simdutf8
 * https://news.ycombinator.com/item?id=26887438
 https://arewefastyet.rs/

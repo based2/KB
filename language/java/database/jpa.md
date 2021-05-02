@@ -7,6 +7,8 @@ https://www.reddit.com/r/java/comments/i5fipv/jpas_attributeconverter/
 https://www.jpa-buddy.com/
 * 
 
+https://blog.ght1pc9kc.fr/2021/les-crit%C3%A8res-de-recherche-avec-juery.html
+
 # cons
 https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 * https://news.ycombinator.com/item?id=26772550

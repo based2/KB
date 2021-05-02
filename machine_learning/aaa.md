@@ -20,6 +20,13 @@ https://feast.dev/
 
 # Neural network
 https://github.com/elixir-nx/axon Elixir
+https://sidsite.com/posts/fourier-nets/
+* https://news.ycombinator.com/item?id=26980169
+
+https://www.quantamagazine.org/new-neural-networks-solve-hardest-equations-faster-than-ever-20210419/
+
+https://ml-jku.github.io/hopfield-layers/
+* https://news.ycombinator.com/item?id=26990000
 
 # Image
 https://www.mattkeeter.com/research/mpr/
@@ -31,6 +38,9 @@ https://news.ycombinator.com/item?id=26534000
 
 # IML - Interpretable machine learning
 https://blog.ml.cmu.edu/2021/04/23/a-learning-theoretic-perspective-on-local-explainability/
+
+https://statmodeling.stat.columbia.edu/2021/04/12/is-explainability-the-new-uncertainty/
+* https://news.ycombinator.com/item?id=26970477
 
 # Books & Papers
 ## Papers
@@ -45,3 +55,7 @@ https://hal.archives-ouvertes.fr/hal-01918271/file/Why_is_the_transference_theor
 
 
 https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html
+
+# News
+https://github.com/kevin-wayne/algs4
+* https://news.ycombinator.com/item?id=27004677

@@ -11,6 +11,9 @@ https://secret.club/2021/04/09/std-clamp.html
 https://c9x.me/compile/bib/
 * https://news.ycombinator.com/item?id=26925314
 
+https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/
+* https://news.ycombinator.com/item?id=27010965
+
 # News
 https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html
 * https://news.ycombinator.com/item?id=26955474

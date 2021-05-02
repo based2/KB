@@ -19,3 +19,5 @@ https://unix.stackexchange.com/questions/20826/which-stream-does-bash-write-its-
 https://github.com/pindexis/marker
 
 https://github.com/glamp/bashplotlib
+
+https://seb.jambor.dev/posts/cd-is-not-a-program/

@@ -20,8 +20,12 @@ https://berthub.eu/articles/posts/5g-elephant-in-the-room/
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
 * https://news.ycombinator.com/item?id=26625356
 
-# Radio
+# Radio SDE
+https://fosdem.org/2021/schedule/event/fsr_pysdr_guide_to_sdr_and_dsp_using_python/
+* https://news.ycombinator.com/item?id=26990671
+
 https://www.americanscientist.org/article/random-paths-to-frequency-hopping
+
 
 ## Security
 https://news.ycombinator.com/item?id=26778236

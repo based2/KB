@@ -12,3 +12,6 @@ https://gnucobol.sourceforge.io/
 * https://news.ycombinator.com/item?id=26734721
 
 https://haxe.org/
+
+# EL
+https://news.ycombinator.com/item?id=26983530

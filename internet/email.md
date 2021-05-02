@@ -22,6 +22,10 @@ https://www.netmeister.org/blog/email.html
 # Solutions
 https://www.migadu.com/procon/
 
+## Cloud
+https://github.com/0x4447/0x4447_product_s3_email AWS S3 SES
+* https://news.ycombinator.com/item?id=26992737
+
 # Migration
 
 # Client

@@ -16,3 +16,6 @@ https://engineering.3ap.ch/post/using-hateoas-with-rest/
 
 https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack
 * https://news.ycombinator.com/item?id=26930477
+
+https://etherealbits.com/2012/12/debunking-the-myths-of-rpc-rest/
+https://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/

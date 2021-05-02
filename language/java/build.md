@@ -14,6 +14,8 @@ https://mestachs.wordpress.com/2012/05/17/maven-best-practices/
 
 https://hantsy.medium.com/building-your-own-maven-archetype-fa7b9d646efd
 
+https://reflectoring.io/maven-bom/
+
 ## Public repositories
 https://search.maven.org/classic/#
 

@@ -35,6 +35,8 @@ https://www.meta-press.es/fr/
 https://algorithmica.org/en/eytzinger
 * https://algorithmica.org/en/eytzinger
 
+https://eugeneyan.com/writing/search-query-matching/
+
 # HN
 https://hn.algolia.com/
 https://deephn.org/

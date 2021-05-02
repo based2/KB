@@ -64,12 +64,18 @@ https://github.com/git/git/blob/master/banned.h Git's list of banned C functions
 https://twitter.com/ryancdotorg/status/1375484757916672000
 * https://news.ycombinator.com/item?id=26615938
 
+https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/
+* https://gitless.com/
+
 https://release-monitoring.org/
 
 https://blog.frankel.ch/inserting-new-commit-git-history/
 https://medium.com/@sauvik_dolui/a-few-git-tricks-tips-b680c3968a9b
 https://ohshitgit.com/
 https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
+
+
+https://goiabada.blog/git-tricks-avoid-solving-the-same-rebase-conflict-multiple-times-9a3afbcf1d22
 
 ## Signature
 https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove
@@ -88,6 +94,8 @@ https://githistory.xyz/
 https://news.ycombinator.com/item?id=26479127
 
 https://news.ycombinator.com/item?id=26164790
+
+https://github.blog/2021-04-29-scaling-monorepo-maintenance/
 
 # Interal
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/

@@ -44,6 +44,10 @@ https://github.com/nearform/temporal_tables
 https://goteleport.com/blog/securing-postgres-postgresql/
 * https://news.ycombinator.com/item?id=26674756
 https://www.cisecurity.org/benchmark/postgresql/
+  
+# Realtime
+https://github.com/supabase/realtime Listen to your to PostgreSQL database in realtime via WebSockets (Erlang/Elixir)
+* https://news.ycombinator.com/item?id=26968449
 
 # Migration
 https://github.com/sastraxi/pgsh

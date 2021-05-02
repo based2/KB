@@ -27,4 +27,8 @@ https://github.com/geohot/qira
 * https://news.ycombinator.com/item?id=26845775
 
 
+# Random
+https://www.johndcook.com/blog/2021/04/29/reinventing-rng/
+
+
 

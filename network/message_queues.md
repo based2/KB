@@ -22,6 +22,9 @@ https://docs.nats.io/nats-streaming-concepts/intro
 
 https://zeromq.org/
 
+https://nng.nanomsg.org/
+* https://news.ycombinator.com/item?id=26977574
+
 https://github.com/OpenHFT/Chronicle-Queue
 
 https://www.tedinski.com/2019/03/05/backpressure.html

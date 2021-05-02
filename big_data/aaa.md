@@ -26,6 +26,7 @@ https://getfedora.org/en/coreos?stream=stable
 https://plutojl.org/plutocon2021
 https://news.ycombinator.com/item?id=26745795
 https://github.com/fonsp/Pluto.jl
+https://www.juliafordatascience.com/first-steps-5-pluto/
 
 ## Livebook - Elixir
 https://dashbit.co/blog/announcing-livebook?new=1

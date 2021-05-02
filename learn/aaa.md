@@ -10,6 +10,8 @@ https://projecteuler.net/
 
 https://projectlovelace.net/problems/
 
+https://cognicull.com/en
+
 # Manuals
 
 https://manuzoid.com/

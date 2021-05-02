@@ -14,6 +14,9 @@ https://martinheinz.dev/blog/39
 https://news.ycombinator.com/item?id=26533270
 -> New pattern matching
 
+# Async
+https://github.com/klen/py-frameworks-bench
+
 # Debug
 3.8+
 > print(f"{d['key'][1]=}")
@@ -80,6 +83,7 @@ https://hpyproject.org/blog/posts/2021/03/hello-hpy/
 https://bluebanquise.com/
 
 # News
+https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/
 https://github.com/samuelcolvin/pydantic/issues/2678 fastapi pep
 * https://news.ycombinator.com/item?id=26826158
 https://twitter.com/nedbat/status/1382027078816653319
