@@ -14,6 +14,12 @@ https://c9x.me/compile/bib/
 https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/
 * https://news.ycombinator.com/item?id=27010965
 
+#
+http://www.lighterra.com/papers/modernmicroprocessors/
+
+https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5
+* https://news.ycombinator.com/item?id=27025289
+
 # News
 https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html
 * https://news.ycombinator.com/item?id=26955474

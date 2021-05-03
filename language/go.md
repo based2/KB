@@ -23,6 +23,8 @@ https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf
 
 https://stonecode.ca/idiomatic-panics/
 
+https://qvault.io/golang/json-golang/
+
 # UI
 https://www.vugu.org/
 * https://news.ycombinator.com/item?id=26836366

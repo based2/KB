@@ -43,3 +43,5 @@ https://www.reddit.com/r/java/comments/jcryn9/logcaptor_library_to_easily_captur
 
 # Profiling
 https://github.com/jvm-profiling-tools/async-profiler
+
+https://github.com/billybong/JavaFlames

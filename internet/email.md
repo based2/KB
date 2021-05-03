@@ -33,3 +33,7 @@ https://github.com/soywod/himalaya
 
 # Alt
 https://mnmnotmail.org/
+
+# News
+https://www.reddit.com/r/Office365/comments/n3qky1/office_365_leaking_bcc_domain_name/
+* https://news.ycombinator.com/item?id=27022600

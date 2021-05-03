@@ -12,8 +12,12 @@ https://en.m.wikipedia.org/wiki/Information_geometry
 
 https://en.wikipedia.org/wiki/Kolmogorov_complexity
 
+https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/
+
 # News
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323
 
 https://www.abelprize.no/nyheter/vis.html?tid=76397 LLL
+
+https://www.youtube.com/watch?v=lUqqQXFTHUY John Baez: "Mathematics in the 21st century" Topos Institute

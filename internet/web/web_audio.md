@@ -12,3 +12,6 @@ https://github.com/cifkao/html-midi-player
 
 https://webamp.org/
 * https://news.ycombinator.com/item?id=26811696
+
+https://mastershot.app/tools/audio-extractor
+* https://news.ycombinator.com/item?id=27014071

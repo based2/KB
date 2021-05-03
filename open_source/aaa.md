@@ -78,6 +78,7 @@ https://www.cgsecurity.org/wiki/PhotoRec
 https://www.bleachbit.org/
 https://jdownloader.org/home/index
 https://rufus.ie/ USB booter builder
+https://osboot.org/
 
 # Web
 https://httpd.apache.org/
@@ -97,6 +98,7 @@ https://github.com/everestpipkin/tools-list
 * https://news.ycombinator.com/item?id=26821306
 
 # News
+https://justpaste.it/39hat WhatFreeWords
 https://www.scoringnotes.com/news/muse-group-formed-to-support-musescore-ultimate-guitar-acquires-audacity/
 * https://news.ycombinator.com/item?id=27004688
 https://pointieststick.com/2021/04/30/this-week-in-kde-support-for-gpu-hot-plug-and-freesync-and-so-much-more/
@@ -120,4 +122,6 @@ https://ma.tt/2021/04/wix-dirty-tricks/
 # Fediverse
 https://fediverse.party/en/miscellaneous
 * https://news.ycombinator.com/item?id=27009468
+
+https://joinmobilizon.org/en/
 

@@ -21,6 +21,11 @@ https://spiritapp.io/
 
 https://react-spring.io/
 
+https://itsfoss.com/enve-2d-animation/
+
+https://ciechanow.ski/internal-combustion-engine/
+* https://news.ycombinator.com/item?id=26991300
+
 # Transition
 https://css-tricks.com/nailing-that-cool-dissolve-transition/
 

@@ -24,6 +24,8 @@ https://eli.thegreenplace.net/2021/go-https-servers-with-tls/
 
 https://en.wikipedia.org/wiki/Forward_secrecy
 
+https://blog.eban.bzh/today-i-learned/dane.html
+
 # SNI
 https://nanxiao.me/en/why-does-ssl-client-report-googles-certificate-self-signed/
 
@@ -35,6 +37,8 @@ https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/
 https://utcc.utoronto.ca/~cks/space/blog/web/OCSPStaplingAndErrors
 
 # 1.3
+https://blog.devgenius.io/added-security-measures-and-changes-in-tls-1-3-fd93bbfecb8f
+* 
 
 Compact TLS 1.3 https://tools.ietf.org/html/draft-rescorla-tls-ctls-02 https://news.ycombinator.com/item?id=20676408
 https://marc.info/?l=openbsd-announce&m=156500965928485&w=2 LibreSSL 3.0.0 Released

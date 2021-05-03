@@ -42,6 +42,8 @@ https://blog.ml.cmu.edu/2021/04/23/a-learning-theoretic-perspective-on-local-exp
 https://statmodeling.stat.columbia.edu/2021/04/12/is-explainability-the-new-uncertainty/
 * https://news.ycombinator.com/item?id=26970477
 
+https://automatingsociety.algorithmwatch.org/
+
 # Books & Papers
 ## Papers
 https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c
@@ -53,6 +55,7 @@ https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do
 
 https://hal.archives-ouvertes.fr/hal-01918271/file/Why_is_the_transference_theory_of_causat.pdf
 
+https://www.thenewatlantis.com/publications/correlation-causation-and-confusion
 
 https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html
 

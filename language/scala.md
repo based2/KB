@@ -10,6 +10,9 @@ https://eed3si9n.com/sbt-1.4.6
 https://blog.7mind.io/lightweight-reflection.html
 http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html
 
+https://www.opal-project.de/ Analyzing and engineering Java bytecode
+* https://github.com/opalj/opal
+
 # Frameworks
 https://www.playframework.com/
 

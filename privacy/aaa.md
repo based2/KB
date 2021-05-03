@@ -48,6 +48,10 @@ https://news.ycombinator.com/item?id=26970105
 #
 https://aws.amazon.com/en/blogs/awsmarketplace/using-the-xor-secret-computing-platform-for-machine-learning-on-private-data-sources/
 
+# Tools
+https://github.com/Scille/parsec-cloud/
+* https://parsec.cloud/en/
+
 # News
 https://themarkup.org/privacy/2021/04/27/google-promised-its-contact-tracing-app-was-completely-private-but-it-wasnt
 * https://news.ycombinator.com/item?id=26954980

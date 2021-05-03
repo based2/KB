@@ -15,3 +15,7 @@ https://haxe.org/
 
 # EL
 https://news.ycombinator.com/item?id=26983530
+
+# Exotic
+https://github.com/iAmGio/pikt
+https://www.dangermouse.net/esoteric/piet.html

@@ -33,11 +33,17 @@ https://munin-monitoring.org/
 https://github.com/netdata/netdata - C
 * https://news.ycombinator.com/item?id=26886792
 
+https://expediadotcom.github.io/haystack/
+
 # New entrant
 https://www.kartar.net/2020/05/a-bit-of-a-vector/
 
 https://kizniche.github.io/Mycodo/About/
 * https://news.ycombinator.com/item?id=26861471
+
+https://github.com/SigNoz/signoz
+* https://www.reddit.com/r/programming/comments/n0ofac/signoz_open_source_alternative_to_datadog_newrelic/
+ * https://signoz.io/docs/faq/#how-is-signoz-different-from-prometheus
 
 # News
 https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/

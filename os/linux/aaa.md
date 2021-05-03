@@ -26,6 +26,7 @@ https://barebox.org/
 https://librecmc.org/
 
 # News
+https://lore.kernel.org/lkml/11a1adfd-d2e8-2181-81a-529792e4b6e5@namei.org/ new LSM called Landlock, from Mickaël Salaün
 https://lkml.org/lkml/2021/4/27/1208
 * https://news.ycombinator.com/item?id=26968680
 https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git

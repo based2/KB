@@ -23,3 +23,5 @@ https://handbrake.fr/
 https://obsproject.com
 
 https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs
+
+https://kdenlive.org/en/2021/04/kdenlive-21-04-released/

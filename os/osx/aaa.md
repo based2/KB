@@ -27,6 +27,8 @@ https://github.com/foxlet/macOS-Simple-KVM
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 
 # M1
+https://rosenzweig.io/blog/asahi-gpu-part-4.html
+* https://news.ycombinator.com/item?id=27019249
 https://blogs.vmware.com/teamfusion/2021/04/fusion-on-apple-silicon-progress-update.html
 * https://news.ycombinator.com/item?id=27011197
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13

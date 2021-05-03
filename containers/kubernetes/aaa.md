@@ -42,6 +42,7 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 * https://news.ycombinator.com/item?id=26951940
 
 # News
+https://tilt.dev/
 https://github.com/idgenchev/namespace-node-affinity
 https://kubernetes.io/blog/2021/04/08/kubernetes-1-21-release-announcement/
 https://www.theregister.com/2020/12/04/aws_eks_anywhere/

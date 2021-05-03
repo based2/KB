@@ -4,3 +4,6 @@ https://www.networkworld.com/article/3190407/nine-ways-to-compare-files-on-unix.
 
 https://github.com/google/diff-match-patch
 
+https://github.com/banga/git-split-diffs
+* https://news.ycombinator.com/item?id=27007844
+

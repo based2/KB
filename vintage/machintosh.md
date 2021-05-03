@@ -22,5 +22,7 @@ https://www.macintoshrepository.org/1317-resedit-2-1-3
 https://en.wikipedia.org/wiki/MacsBug
 https://512pixels.net/2021/04/mac-chimes-of-death/
 
+http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/27_TMON.html
+
 #
 https://midrange.tedium.co/issues/the-lone-coder-505212

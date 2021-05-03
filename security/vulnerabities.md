@@ -17,8 +17,10 @@ https://www.phrack.org/
 https://proxylogon.com/ Windows
 https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt
 * https://github.com/sudo-project/sudo/commit/8255ed69 2011 
+* https://www.kb.cert.org/vuls/id/589825/ Blurtooth
 
 # 2020
+* https://lwn.net/Articles/834297/ BleedingTooth
 
 # 2019
 * https://en.wikipedia.org/wiki/Kr00k WPA2
@@ -40,7 +42,8 @@ https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflo
 * https://en.wikipedia.org/wiki/Intel_Active_Management_Technology#Silent_Bob_is_Silent
 * https://en.wikipedia.org/wiki/DoublePulsar
 * https://en.wikipedia.org/wiki/EternalBlue
-* https://en.wikipedia.org/wiki/Broadcom_Corporation#soc-wifi-vulns   
+* https://en.wikipedia.org/wiki/Broadcom_Corporation#soc-wifi-vulns
+* https://en.wikipedia.org/wiki/BlueBorne_(security_vulnerability) https://www.armis.com/blueborne/  
 * https://www.krackattacks.com/ WPA2
 
 ## 2016
@@ -70,16 +73,24 @@ https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflo
 
 ## 2012
 * https://en.wikipedia.org/wiki/CRIME
+* https://www.cwi.nl/news/2012/cwi-cryptanalist-discovers-new-cryptographic-attack-variant-in-flame-spy-malware SHA-1
 
 ## 2011
 * https://en.wikipedia.org/wiki/Transport_Layer_Security#BEAST_attack
 
 # 2010
+https://en.wikipedia.org/wiki/Stuxnet
 WPA2 Hole196
 https://en.wikipedia.org/wiki/Evercookie
 
 # 2009
 https://en.wikipedia.org/wiki/Moxie_Marlinspike#SSL_stripping
+
+# 2008
+https://www.win.tue.nl/hashclash/rogue-ca/ MD5
+
+# 2004
+https://en.wikipedia.org/wiki/Bluesnarfing
 
 # 2002
 https://en.wikipedia.org/wiki/Shatter_attack Windows
@@ -89,6 +100,9 @@ https://en.wikipedia.org/wiki/Fluhrer,_Mantin_and_Shamir_attack RC4 WEP
 
 # 2000
 https://en.wikipedia.org/wiki/ILOVEYOU Windows VB
+
+# 1999
+https://www.linux.gr/DeCSS/decss.html
 
 # 1997
 https://en.wikipedia.org/wiki/WinNuke

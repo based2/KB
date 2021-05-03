@@ -78,6 +78,9 @@ https://adoptopenjdk.net/
 https://www.scala-lang.org/news/2.13.0
 https://medium.com/97-things/rediscover-the-jvm-through-clojure-fa2ac5e29cbb
 
+https://faculty.washington.edu/ajko/books/foundations-of-information/#/
+* https://news.ycombinator.com/item?id=26937201
+
 # Data
 http://adambien.blog/roller/abien/entry/combining_jsonobjects_with_jsonmerge_and
 

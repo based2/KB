@@ -30,6 +30,9 @@ https://h3rald.com/litestore/ A tiny NoSQL database for rapid prototyping
 https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html
 * https://news.ycombinator.com/item?id=26816954
 
+https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
+* https://news.ycombinator.com/item?id=27016630
+
 https://mtlynch.io/litestream/
 * https://news.ycombinator.com/item?id=26981239
 

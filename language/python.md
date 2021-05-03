@@ -43,6 +43,8 @@ https://antonz.org/python-packaging/
 # Types
 https://news.ycombinator.com/item?id=26529998
 
+https://realpython.com/python-metaclasses/
+
 # Books
 https://news.ycombinator.com/item?id=26076721
 https://github.com/pamoroso/free-python-books

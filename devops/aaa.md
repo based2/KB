@@ -54,6 +54,8 @@ https://semver.org/lang/
 
 https://csemver.org/
 
+https://calver.org/
+
 # CI
 
 https://www.jenkins.io/
