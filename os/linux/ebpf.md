@@ -6,3 +6,6 @@ https://www.openwall.com/lists/oss-security/2021/04/08/1
 * https://news.ycombinator.com/item?id=26757760
 
 https://nakryiko.com/posts/libbpf-bootstrap/
+
+https://newrelic.com/blog/nerd-life/open-source-observability-pixie
+* https://news.ycombinator.com/item?id=27037102

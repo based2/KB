@@ -13,6 +13,9 @@ https://gnucobol.sourceforge.io/
 
 https://haxe.org/
 
+https://plzoo.andrej.com/
+* https://news.ycombinator.com/item?id=27024804
+
 # EL
 https://news.ycombinator.com/item?id=26983530
 

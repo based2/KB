@@ -23,6 +23,10 @@ http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/
 
 https://github.com/i5ik/vanillaview
 
+https://replpad.com/
+* https://news.ycombinator.com/item?id=27031198
+* https://jsconsole.com/
+
 # Format
 ## JSON
 https://github.com/aykutkardas/Json-Function

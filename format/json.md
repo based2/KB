@@ -17,3 +17,7 @@ https://jsonlogic.com/
 https://github.com/josevalim/nested-data-structure-traversal
 * https://news.ycombinator.com/item?id=26776786
 
+https://tools.ietf.org/html//rfc7493 i-json
+* https://lobste.rs/s/w7jlq2/rfc_7493_i_json_message_format
+* https://amzn.github.io/ion-docs/
+

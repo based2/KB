@@ -14,3 +14,6 @@ https://www.vidarholen.net/contents/blog/?p=1035
 * https://news.ycombinator.com/item?id=26776956
 
 https://github.com/ibraheemdev/modern-unix
+
+https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf
+* https://news.ycombinator.com/item?id=27037583

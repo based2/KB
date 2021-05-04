@@ -24,3 +24,9 @@ https://mark.show/#
 https://susam.github.io/texme/examples/demo.html
 
 https://houdini.how/about/
+
+# News
+https://www.smashingmagazine.com/2021/05/evolution-jamstack/
+* https://news.ycombinator.com/item?id=27023309
+https://www.regulations.gov/document/FTC-2021-0019-0001/comment
+*

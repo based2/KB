@@ -4,6 +4,9 @@ https://fastapi.tiangolo.com/
 
 https://medium.com/techtofreedom/for-else-a-weird-but-useful-feature-in-python-2076d8dafad1
 
+https://docs.python.org/3/library/collections.html#collections.defaultdict
+* https://news.ycombinator.com/item?id=27036745
+
 # Functional
 https://github.com/pytoolz/toolz
 

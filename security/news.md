@@ -1,8 +1,11 @@
+https://therecord.media/dell-patches-12-year-old-driver-vulnerability-impacting-millions-of-pcs/
+* https://news.ycombinator.com/item?id=27038441
+
 https://engineering.virginia.edu/news/2021/04/defenseless
 https://www.cs.virginia.edu/~av6ds/papers/isca2021a.pdf
 
 https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html
-* https://news.ycombinator.com/item?id=27010463
+* https://therecord.media/dell-patches-12-year-old-driver-vulnerability-impacting-millions-of-pcs/https://news.ycombinator.com/item?id=27010463
 
 https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/
 

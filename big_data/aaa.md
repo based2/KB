@@ -14,6 +14,10 @@ https://setosa.io/ev/principal-component-analysis/
 https://hakibenita.com/sql-for-data-analysis
 * https://news.ycombinator.com/item?id=27025829
 
+# Stats
+https://ggcarvalho.dev/posts/montecarlo/
+* https://news.ycombinator.com/item?id=27023930
+
 # Datalake
 
 #
@@ -57,6 +61,10 @@ https://github.com/gzuidhof/starboard-notebook
 https://trino.io/
 
 https://questdb.io/
+
+# Visu
+https://vega.github.io/vega-lite/
+https://observablehq.com/@observablehq/plot-vega-lite
 
 #
 https://js4ds.org/

@@ -17,6 +17,9 @@ https://www.bbc.com/news/science-environment-56749105
 
 https://carbonplan.org/research/cdr-database
 
+https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/
+* https://news.ycombinator.com/item?id=27034988
+
 # News
 https://charmindustrial.com/blog/2021/4/19/charm-announces-ahead-of-schedule-delivery-of-stripes-carbon-removal-purchase
 * https://news.ycombinator.com/item?id=26874619

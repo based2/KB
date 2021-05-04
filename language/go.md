@@ -29,6 +29,9 @@ https://qvault.io/golang/json-golang/
 https://www.vugu.org/
 * https://news.ycombinator.com/item?id=26836366
 
+https://encore.dev/guide/go.mod
+* https://news.ycombinator.com/item?id=27025462
+
 # Links
 https://news.ycombinator.com/item?id=25881212`
 

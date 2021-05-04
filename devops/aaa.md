@@ -71,4 +71,9 @@ https://guix.gnu.org/en/cuirass/
 
 https://news.ycombinator.com/item?id=26872904
 
+# News
+https://about.gitlab.com/blog/2021/05/04/gitlabs-2021-survey-uncovers-a-new-devops-maturity-model/
+https://about.gitlab.com/developer-survey/
+* https://news.ycombinator.com/item?id=27039376
+
 

@@ -49,5 +49,9 @@ https://www.siddharthsarda.com/p/time-in-distributed-systems
 https://blog.google/products/earth/timelapse-in-google-earth/
 * https://news.ycombinator.com/item?id=26821356
 
+# 
+https://wickstrom.tech/programming/2021/05/03/specifying-state-machines-with-temporal-logic.html
+* https://news.ycombinator.com/item?id=27022953
+
 #
 https://en.wikipedia.org/wiki/Time_crystal
