@@ -60,5 +60,7 @@ https://www.thenewatlantis.com/publications/correlation-causation-and-confusion
 https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html
 
 # News
+https://www.ai.gov/
+* https://news.ycombinator.com/item?id=27048048
 https://github.com/kevin-wayne/algs4
 * https://news.ycombinator.com/item?id=27004677

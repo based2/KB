@@ -61,6 +61,8 @@ https://kentiklabs.com/blog/2021/04/21/open-sourcing-our-netdiag-crate/
 https://blog.abor.dev/p/making-generative-art-with-rust
 * https://news.ycombinator.com/item?id=27000436
 
+https://doc.rust-lang.org/nomicon/
+
 # Async
 https://fasterthanli.me/articles/pin-and-suffering
 * https://lobste.rs/s/f98dpj/pin_suffering
@@ -114,6 +116,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 * https://news.ycombinator.com/item?id=26850682
 
 # News
+https://blog.rust-lang.org/2021/05/06/Rust-1.52.0.html
+* https://news.ycombinator.com/item?id=27065171
 https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/
 * https://news.ycombinator.com/item?id=26982890
 https://github.com/rusticstuff/simdutf8

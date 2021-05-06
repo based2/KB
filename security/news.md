@@ -1,3 +1,9 @@
+https://about.codecov.io/security-update/
+* https://www.reuters.com/technology/us-investigators-probing-breach-san-francisco-code-testing-company-firm-2021-04-16/
+* https://news.ycombinator.com/item?id=26848232
+
+https://blog.qualys.com/vulnerabilities-research/2021/05/04/21nails-multiple-vulnerabilities-in-exim-mail-server
+
 https://therecord.media/dell-patches-12-year-old-driver-vulnerability-impacting-millions-of-pcs/
 * https://news.ycombinator.com/item?id=27038441
 
@@ -141,3 +147,5 @@ https://doar-e.github.io/blog/2021/04/15/reverse-engineering-tcpipsys-mechanics-
 
 https://randomoracle.wordpress.com/2019/12/04/off-by-one-the-curious-case-of-2047-bit-rsa-keys/
 * https://news.ycombinator.com/item?id=26913334
+
+https://www.johndcook.com/blog/2021/04/29/reinventing-rng/

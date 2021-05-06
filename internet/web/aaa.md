@@ -25,6 +25,8 @@ https://susam.github.io/texme/examples/demo.html
 
 https://houdini.how/about/
 
+https://github.com/slidevjs/slidev
+
 # News
 https://www.smashingmagazine.com/2021/05/evolution-jamstack/
 * https://news.ycombinator.com/item?id=27023309

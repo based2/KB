@@ -38,6 +38,9 @@ https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-ide
 https://www.matuzo.at/blog/html-boilerplate/
 * https://news.ycombinator.com/item?id=26952557
 
+https://markodenic.com/html-tips/
+* https://news.ycombinator.com/item?id=27054348
+
 
 # WYSIWYG
 https://codemirror.net/
@@ -55,5 +58,10 @@ http://john.ankarstrom.se/html/
 
 https://en.wikipedia.org/wiki/Markdown
 
+
+
 # Security
 https://korben.info/exploit-fichier-texte-txt-macos.html
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API
+* https://news.ycombinator.com/item?id=27061020

@@ -19,6 +19,9 @@ https://web.dev/asyncify/
 
 https://suborbital.dev/
 
+https://spidermonkey.dev/
+* https://news.ycombinator.com/item?id=27060252
+
 # Security
 https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 * https://news.ycombinator.com/item?id=26994741

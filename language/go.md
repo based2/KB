@@ -44,3 +44,7 @@ https://www.bleepingcomputer.com/news/security/google-fixes-severe-golang-window
 # Book
 * https://www.practical-go-lessons.com/  https://www.practical-go-lessons.com/buy-digital-or-hard-copy
  * https://news.ycombinator.com/item?id=26568014
+
+# News
+https://github.com/golang/go/issues/45955
+* https://news.ycombinator.com/item?id=27048531

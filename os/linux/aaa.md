@@ -12,6 +12,9 @@ https://linuxzoo.net/
 
 https://people.kernel.org/kuba/common-interface-for-nic-statistics
 
+https://man7.org/tlpi/api_changes/index.html
+* https://news.ycombinator.com/item?id=27052992
+
 # Selinux
 
 https://selinuxproject.org/page/Main_Page
@@ -25,7 +28,13 @@ https://github.com/Nautalis/Tux3D
 https://barebox.org/
 https://librecmc.org/
 
+# Kernel modules
+https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
+
 # News
+https://www.susecon.com/
+https://indico.cern.ch/event/995485/contributions/4256466/attachments/2207964/3736640/hepix21-linuxatcern.pdf CentOS ->
+https://www.trinitydesktop.org/about.php
 https://lore.kernel.org/lkml/11a1adfd-d2e8-2181-81a-529792e4b6e5@namei.org/ new LSM called Landlock, from Mickaël Salaün
 https://lkml.org/lkml/2021/4/27/1208
 * https://news.ycombinator.com/item?id=26968680

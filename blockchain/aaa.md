@@ -31,6 +31,7 @@ https://txstreet.com/v/btc-eth
 https://www.zeroknowledgeblog.com/index.php/zk-snarks
 
 # News
+https://github.com/algorand/go-algorand/blob/master/data/transactions/logic/README.md
 https://www.mdpi.com/1424-8220/20/18/5281/htm CoNTe: A Core Network Temporal Blockchain for 5G
 https://timdaub.github.io/2021/04/22/nft-sleepminting-beeple-provenance/
 https://techcrunch.com/2021/04/28/alchemy-raises-80m-at-a-505m-valuation-to-be-the-aws-for-blockchain/

@@ -33,3 +33,8 @@ https://www.americanscientist.org/article/random-paths-to-frequency-hopping
 
 ## Security
 https://news.ycombinator.com/item?id=26778236
+
+# Legacy
+## ISDN
+https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing/
+* https://news.ycombinator.com/item?id=27051670

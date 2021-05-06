@@ -7,6 +7,8 @@ https://overreacted.io/before-you-memo/
 https://wattenberger.com/blog/react-and-d3
 * https://news.ycombinator.com/item?id=26628679
 
+https://medium.com/uncountable-engineering/why-did-my-react-component-re-render-71b5acecbbd1
+
 ## AngularJS
 
 ## Svelt

@@ -24,6 +24,9 @@ https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/
 http://guillaume.baierouge.fr/2021/04/23/simulating-digital-circuits-in-racket/a-risc-v-core-in-racket/index.html
 * https://news.ycombinator.com/item?id=26990615
 
+https://erik-engheim.medium.com/arm-vs-risc-v-vector-extensions-992f201f402f
+* https://news.ycombinator.com/item?id=27063748
+
 # Mechanism
 https://openastrotech.com/
 

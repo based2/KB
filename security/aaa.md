@@ -36,4 +36,8 @@ https://github.com/geohot/qira
 https://www.johndcook.com/blog/2021/04/29/reinventing-rng/
 
 
+#
+https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
+
+
 

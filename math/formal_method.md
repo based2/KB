@@ -13,6 +13,10 @@ https://www.hillelwayne.com/post/action-properties/
 
 https://github.com/afonsonf/tlaplus-graph-explorer
 
+# Z3 Microsoft
+https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb
+* https://news.ycombinator.com/item?id=27045771
+
 # 
 * http://www.cs.utoronto.ca/~hehner/FMSD/
   * https://news.ycombinator.com/item?id=26610221

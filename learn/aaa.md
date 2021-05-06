@@ -5,6 +5,8 @@ https://www.duolingo.com/
 https://www.vocbit.com/ Improve your vocabulary by Quiz
 
 https://apps.ankiweb.net/
+https://github.com/andymatuschak/orbit
+* https://news.ycombinator.com/item?id=27051468
 
 https://projecteuler.net/
 
@@ -18,3 +20,7 @@ https://www.npr.org/sections/health-shots/2012/09/18/161159263/teachers-expectat
 
 https://manuzoid.com/
 * https://news.ycombinator.com/item?id=26872808
+
+# QA
+https://stackoverflow.com/
+https://musing.io/

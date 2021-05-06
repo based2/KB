@@ -16,3 +16,6 @@ https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches
 
 # Tools
 https://github.com/FiloSottile/age
+
+## PGP
+https://sequoia-pgp.org/blog/2021/05/06/202105-thunderbird-rnp-and-the-importance-of-a-good-api/

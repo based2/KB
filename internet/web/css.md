@@ -58,6 +58,9 @@ https://accordionslider.com/
 
 https://getwaves.io/
 
+https://split.js.org/#/split-grid
+* https://news.ycombinator.com/item?id=27048269
+
 https://learnui.design/tools/data-color-picker.html
 
 https://houdini.how/

@@ -8,3 +8,7 @@ https://input.djr.com/preview/?size=14&language=python&theme=solarized-dark&fami
 
 #
 https://uxtools.co/challenges/
+
+# Gesture
+http://depts.washington.edu/acelab/proj/dollar/index.html
+* https://news.ycombinator.com/item?id=27046822

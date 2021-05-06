@@ -13,3 +13,5 @@ http://www.adapplang.com/
 
 # Spark
 https://www.adacore.com/about-spark
+https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
+* https://news.ycombinator.com/item?id=27060180

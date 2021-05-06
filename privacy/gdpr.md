@@ -32,6 +32,8 @@ https://amnesia.openaire.eu/
 https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
 
 # News
+https://www.datatilsynet.no/en/news/2021/intent-to-issue--25-million-fine-to-disqus-inc/
+* https://news.ycombinator.com/item?id=27060609
 https://edpb.europa.eu/news/national-news/2021/easy-privacy-information-icons-yes-you-can-italian-dpa-launches-contest_en
 https://www.qurium.org/forensics/dark-ops-undercovered-episode-i-eliminalia/
 

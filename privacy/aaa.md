@@ -25,6 +25,8 @@ https://thenewoil.xyz/
 
 https://news.ycombinator.com/item?id=26850913
 
+https://en.wikipedia.org/wiki/Third-party_doctrine
+
 # Fingerprinting
 https://jonatron.github.io/webgl-fingerprinting/
 * https://news.ycombinator.com/item?id=26844928
@@ -49,10 +51,21 @@ https://news.ycombinator.com/item?id=26970105
 https://aws.amazon.com/en/blogs/awsmarketplace/using-the-xor-secret-computing-platform-for-machine-learning-on-private-data-sources/
 
 # Tools
+https://addons.mozilla.org/fr/firefox/addon/ublock-origin/
+
 https://github.com/Scille/parsec-cloud/
 * https://parsec.cloud/en/
 
+https://github.com/ClearURLs/Addon/
+* https://news.ycombinator.com/item?id=27047243
+
+https://github.com/nickmvincent/DataLeverageRoundup
+
 # News
+https://techcrunch.com/2021/05/05/peloton-bug-account-data-leak/
+* https://news.ycombinator.com/item?id=27050865
+https://theintercept.com/2021/05/03/car-surveillance-berla-msab-cbp/
+* https://news.ycombinator.com/item?id=27039540
 https://themarkup.org/privacy/2021/04/27/google-promised-its-contact-tracing-app-was-completely-private-but-it-wasnt
 * https://news.ycombinator.com/item?id=26954980
 https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/

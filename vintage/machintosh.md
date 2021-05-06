@@ -15,6 +15,9 @@ https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate
 https://github.com/felixrieseberg/macintosh.js MacOS 8 in Electron
 * https://news.ycombinator.com/item?id=26967750
 
+http://www.macflim.com/
+* https://news.ycombinator.com/item?id=27053655
+
 # ResEdit
 https://www.macintoshrepository.org/1317-resedit-2-1-3
 

@@ -34,6 +34,10 @@ https://www.maptiler.com/server/
 https://github.com/maplibre/maplibre-gl-js
 * https://news.ycombinator.com/item?id=26670495
 
+# ASCII
+https://github.com/rastapasta/mapscii
+* https://news.ycombinator.com/item?id=27042629
+
 # News
 https://news.ycombinator.com/item?id=26918259
 * https://protomaps.com/blog/new-way-to-make-maps/

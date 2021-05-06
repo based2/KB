@@ -66,7 +66,11 @@ https://venthur.de/2021-03-31-python-makefiles.html
 https://monadical.com/posts/how-to-package-python-for-apt-deb.html#
 
 # Data
+## Validation
+https://blog.drewolson.org/declarative-validation
+* https://news.ycombinator.com/item?id=27043574
 
+#
 https://github.com/Pytlicek/sheet2dict MsExcel to dict
 * https://news.ycombinator.com/item?id=26887162
 
@@ -86,6 +90,10 @@ https://hpyproject.org/blog/posts/2021/03/hello-hpy/
 
 # Infra
 https://bluebanquise.com/
+
+# CPython
+https://github.com/facebookincubator/cinder
+* https://news.ycombinator.com/item?id=27043217
 
 # News
 https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/
