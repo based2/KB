@@ -1,6 +1,8 @@
 https://news.ycombinator.com/item?id=26053498 Architectural Decision Records (ADRs)
 
 https://github.com/awslabs/smithy
+*
+* https://news.ycombinator.com/item?id=27081084
 
 https://www.archimatetool.com/ http://archi-contribs.github.io/ https://www.archimatetool.com/beta/
 http://plantuml.com/

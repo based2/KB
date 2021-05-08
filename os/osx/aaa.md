@@ -26,6 +26,9 @@ https://github.com/foxlet/macOS-Simple-KVM
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 
+https://blog.bejarano.io/hardening-macos/
+* https://news.ycombinator.com/item?id=27067755
+
 # M1
 https://blog.svenpeter.dev/posts/m1_sprr_gxf/
 

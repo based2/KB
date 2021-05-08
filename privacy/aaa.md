@@ -62,6 +62,9 @@ https://github.com/ClearURLs/Addon/
 https://github.com/nickmvincent/DataLeverageRoundup
 
 # News
+https://themarkup.org/citizen-browser/2021/05/06/how-big-pharma-finds-sick-users-on-facebook
+* https://news.ycombinator.com/item?id=27073033
+https://github.com/audacity/audacity/pull/835
 https://techcrunch.com/2021/05/05/peloton-bug-account-data-leak/
 * https://news.ycombinator.com/item?id=27050865
 https://theintercept.com/2021/05/03/car-surveillance-berla-msab-cbp/

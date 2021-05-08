@@ -27,5 +27,7 @@ https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 * https://news.ycombinator.com/item?id=26994741
 
 # News
+https://www.infoq.com/news/2021/05/grain-web-assembly-first/
+* https://news.ycombinator.com/item?id=27071060
 https://twitter.com/wasm3_engine/status/1384288567627640839
 * https://news.ycombinator.com/item?id=26916866

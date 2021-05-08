@@ -35,9 +35,17 @@ https://github.com/geohot/qira
 # Random
 https://www.johndcook.com/blog/2021/04/29/reinventing-rng/
 
+https://www.brainonfire.net/blog/2021/05/06/cryptographic-shuffle/
+* https://news.ycombinator.com/item?id=27074850
+
 
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
+
+
+#
+https://download.vusec.net/papers/constantine_ccs21.pdf
+* https://news.ycombinator.com/item?id=27078207
 
 
 

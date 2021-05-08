@@ -1,6 +1,9 @@
-# Hypercarcd
+# HyperCard
 https://hypercard.org/
 https://news.ycombinator.com/item?id=26507454 Mac SE/30 logicboard recreation 
+
+https://archive.org/details/The_Complete_HyperCard_Handbook/
+* https://news.ycombinator.com/item?id=27079239
 
 http://www.loper-os.org/?p=568 Why Hypercard Had to Die
 * https://news.ycombinator.com/item?id=26749425

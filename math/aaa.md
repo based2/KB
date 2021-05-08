@@ -14,6 +14,8 @@ https://en.wikipedia.org/wiki/Kolmogorov_complexity
 
 https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/
 
+https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/
+
 # News
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323

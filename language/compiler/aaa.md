@@ -23,6 +23,9 @@ https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compile
 https://github.com/fosslinux/live-bootstrap
 * https://news.ycombinator.com/item?id=27023088
 
+https://blog.cloudflare.com/branch-predictor/
+* https://news.ycombinator.com/item?id=27062650
+
 # News
 https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html
 * https://news.ycombinator.com/item?id=26955474

@@ -28,6 +28,10 @@ https://jacobian.org/2021/jan/30/soccr/
 https://truemped.github.io/posts/mgmt/limiting-wip/
 * https://news.ycombinator.com/item?id=26759903
 
+# Analysis
+https://xyproblem.info/
+* https://news.ycombinator.com/item?id=27061704
+
 # Remote
 https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-software-engineering/fulltext
 * https://news.ycombinator.com/item?id=26944628

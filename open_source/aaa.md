@@ -41,6 +41,7 @@ https://inthegood.co/taking-on-google/
 
 # Audio
 https://www.audacityteam.org/
+* https://github.com/audacity/audacity/pull/835
 
 ## Draw
 https://krita.org/

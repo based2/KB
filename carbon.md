@@ -21,6 +21,7 @@ https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capt
 * https://news.ycombinator.com/item?id=27034988
 
 # News
+https://newatlas.com/environment/high-hopes-carbon-capture-balloons/
 https://www.reuters.com/business/sustainable-business/white-house-eyes-subsidies-nuclear-plants-help-meet-climate-targets-sources-2021-05-05/
 * https://news.ycombinator.com/item?id=27049415
 https://charmindustrial.com/blog/2021/4/19/charm-announces-ahead-of-schedule-delivery-of-stripes-carbon-removal-purchase

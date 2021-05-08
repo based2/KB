@@ -15,6 +15,8 @@ https://techxplore.com/news/2021-04-deeponet-deep-neural-network-based-approxima
 
 https://tribuo.org/ Java
 
+https://deepmind.com/blog/article/EigenGame
+
 # Store
 https://feast.dev/
 

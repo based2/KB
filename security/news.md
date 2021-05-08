@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/cisco-bugs-allow-creating-admin-accounts-executing-commands-as-root/
+
 https://about.codecov.io/security-update/
 * https://www.reuters.com/technology/us-investigators-probing-breach-san-francisco-code-testing-company-firm-2021-04-16/
 * https://news.ycombinator.com/item?id=26848232

@@ -32,6 +32,8 @@ https://librecmc.org/
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # News
+https://tedium.co/2021/05/07/linux-live-cd-history/
+* https://news.ycombinator.com/item?id=27081369
 https://www.susecon.com/
 https://indico.cern.ch/event/995485/contributions/4256466/attachments/2207964/3736640/hepix21-linuxatcern.pdf CentOS ->
 https://www.trinitydesktop.org/about.php

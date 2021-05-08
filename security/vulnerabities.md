@@ -14,6 +14,7 @@ https://www.phrack.org/
 
 # Events
 # 2021
+https://tsuname.io/ dns
 https://proxylogon.com/ Windows
 https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt
 * https://github.com/sudo-project/sudo/commit/8255ed69 2011 

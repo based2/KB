@@ -63,6 +63,8 @@ https://blog.abor.dev/p/making-generative-art-with-rust
 
 https://doc.rust-lang.org/nomicon/
 
+https://ricardomartins.cc/2016/06/08/interior-mutability
+
 # Async
 https://fasterthanli.me/articles/pin-and-suffering
 * https://lobste.rs/s/f98dpj/pin_suffering
@@ -83,6 +85,7 @@ https://zellij.dev/news/beta/
 https://github.com/fdehau/tui-rs
 
 https://github.com/alacritty/alacritty
+* https://news.ycombinator.com/item?id=27075304
 
 # Book
 https://github.com/ANSSI-FR/rust-guide
@@ -92,6 +95,13 @@ https://rust-unofficial.github.io/patterns/
 
 # Interop
 https://news.ycombinator.com/item?id=26565444 CXX C++
+
+https://www.fluvio.io/blog/2021/05/java-client/
+* https://www.reddit.com/r/java/comments/n4wf6h/embedding_rust_code_in_java_jar_for_distribution/
+
+## Windows API
+https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/
+* https://news.ycombinator.com/item?id=27085032
 
 # Security
 
@@ -116,6 +126,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 * https://news.ycombinator.com/item?id=26850682
 
 # News
+https://aws.amazon.com/fr/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/
+* https://news.ycombinator.com/item?id=27080859
 https://blog.rust-lang.org/2021/05/06/Rust-1.52.0.html
 * https://news.ycombinator.com/item?id=27065171
 https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/

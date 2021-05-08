@@ -18,7 +18,11 @@ https://hakibenita.com/sql-for-data-analysis
 https://ggcarvalho.dev/posts/montecarlo/
 * https://news.ycombinator.com/item?id=27023930
 
-# Datalake
+# Data
+https://datasetsearch.research.google.com/
+* https://news.ycombinator.com/item?id=27068551
+
+## Datalake
 
 #
 https://github.com/Netflix/metaflow

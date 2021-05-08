@@ -7,6 +7,8 @@ https://bellard.org/jslinux/
 https://vivek9patel.github.io/ Ubuntu
 
 # News
+https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/
+* https://news.ycombinator.com/item?id=27072981
 https://infrequently.org/2021/04/progress-delayed/
 https://news.ycombinator.com/item?id=26929240
 https://github.com/danoon2/Boxedwine
