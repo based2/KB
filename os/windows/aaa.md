@@ -45,3 +45,6 @@ https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-workshe
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 * https://news.ycombinator.com/item?id=26991887
+
+# WSL
+https://devblogs.microsoft.com/commandline/wslg-architecture/

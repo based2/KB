@@ -10,6 +10,8 @@ https://bilalonureskili.com/files/LTC_en.pdf
 
 https://spectrum.ieee.org/geek-life/profiles/from-winzips-to-cat-gifs-jacob-zivs-algorithms-have-powered-decades-of-compression
 
+http://matt.might.net/articles/why-infinite-or-guaranteed-file-compression-is-impossible/
+
 ## Tools
 https://www.7-zip.org/download.html
 

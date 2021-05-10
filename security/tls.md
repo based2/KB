@@ -65,6 +65,8 @@ http://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html
 https://tls.so/
 https://news.ycombinator.com/item?id=9271946
 
+https://github.com/Hakky54/sslcontext-kickstart High-Level SSLFactory class for configuring a http client to communicate over SSL/TLS for one way authentication or two-way authentication
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 https://news.ycombinator.com/item?id=20988584 https://news.ycombinator.com/item?id=21308939

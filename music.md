@@ -39,3 +39,6 @@ https://www.beyondmusic.org/
 https://www.reaper.fm/
 * https://news.ycombinator.com/item?id=26984906
 
+https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/
+* https://news.ycombinator.com/item?id=27085922
+

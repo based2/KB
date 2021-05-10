@@ -23,6 +23,8 @@ https://rest-assured.io/
 
 https://vmlens.com/articles/ct/new_way_to_test/
 
+https://citrusframework.org/projects/
+
 # UI tests
 https://www.selenium.dev/documentation/en/
 

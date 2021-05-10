@@ -5,6 +5,9 @@ https://www.morganclaypool.com/doi/pdf/10.2200/S00962ED2V01Y201910CAC049 A Prime
 https://yihui.org/en/2018/06/cache-invalidation/
 * https://news.ycombinator.com/item?id=26686770
 
+https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html
+* https://news.ycombinator.com/item?id=27086209
+
 https://www.apollographql.com/blog/demystifying-cache-normalization/
 
 https://utcc.utoronto.ca/~cks/space/blog/unix/NFSServerReplyCacheWhy

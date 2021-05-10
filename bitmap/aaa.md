@@ -17,6 +17,8 @@ https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf
 https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/
 * https://news.ycombinator.com/item?id=27047352
 
+https://augmentedperception.github.io/total_relighting/
+
 # Restore
 https://github.com/msxie92/MangaRestoration
 * https://news.ycombinator.com/item?id=27061421

@@ -11,3 +11,8 @@ https://isank.dev/posts/java-streams-real-life-approach/
 https://nipafx.dev/java-16-stream-mapmulti/
 
 https://blog.frankel.ch/real-world-stream-collector/
+
+https://codecooks.com/java8-stream-operations/
+
+https://blog.frankel.ch/teeing-java-api/
+* https://news.ycombinator.com/item?id=27103033

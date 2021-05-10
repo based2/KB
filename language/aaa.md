@@ -19,6 +19,10 @@ https://plzoo.andrej.com/
 # EL
 https://news.ycombinator.com/item?id=26983530
 
+#
+https://lambda-the-ultimate.org/
+https://gist.github.com/cristianoc/7d9552c5644f26282568af7a34cf9f02
+
 # Exotic
 https://github.com/iAmGio/pikt
 https://www.dangermouse.net/esoteric/piet.html

@@ -1,3 +1,7 @@
+https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf
+
+http://axelp.io/MouseTrap
+
 https://www.bleepingcomputer.com/news/security/cisco-bugs-allow-creating-admin-accounts-executing-commands-as-root/
 
 https://about.codecov.io/security-update/

@@ -17,3 +17,6 @@ https://github.com/ibraheemdev/modern-unix
 
 https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf
 * https://news.ycombinator.com/item?id=27037583
+
+https://github.com/google/zx
+* https://www.reddit.com/r/programming/comments/n9559t/googlezx_a_tool_for_writing_better_scripts/

@@ -15,3 +15,6 @@ https://tools.ietf.org/html/rfc7807
 # Security
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015
 https://en.wikipedia.org/wiki/HTTP_response_splitting
+
+# HTTP/3
+https://blog.cloudflare.com/http3-the-past-present-and-future/

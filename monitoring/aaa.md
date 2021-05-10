@@ -35,6 +35,10 @@ https://github.com/netdata/netdata - C
 
 https://expediadotcom.github.io/haystack/
 
+# Syslog
+https://techblog.bozho.net/the-syslog-hell/
+* https://news.ycombinator.com/item?id=27104469
+
 # New entrant
 https://www.kartar.net/2020/05/a-bit-of-a-vector/
 

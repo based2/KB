@@ -48,6 +48,10 @@ https://news.ycombinator.com/item?id=26529998
 
 https://realpython.com/python-metaclasses/
 
+https://pyre-check.org/
+* https://news.ycombinator.com/item?id=27107647
+* https://news.ycombinator.com/item?id=17048446
+
 # Books
 https://news.ycombinator.com/item?id=26076721
 https://github.com/pamoroso/free-python-books

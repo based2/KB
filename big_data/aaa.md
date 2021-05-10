@@ -22,6 +22,12 @@ https://ggcarvalho.dev/posts/montecarlo/
 https://datasetsearch.research.google.com/
 * https://news.ycombinator.com/item?id=27068551
 
+## Unstructured
+https://github.com/capitalone/DataProfiler
+* https://news.ycombinator.com/item?id=27106335
+
+https://uima.apache.org/
+
 ## Datalake
 
 #
@@ -29,6 +35,8 @@ https://github.com/Netflix/metaflow
 
 # Books
 https://github.com/pablo14/data-science-live-book
+
+https://epirhandbook.com/
 
 # Notebook
 ## Jupyter - Python
@@ -40,6 +48,9 @@ https://fiftysevendegreesofrad.github.io/JupyterNotes/piano.html
 
 https://getfedora.org/en/coreos?stream=stable
 * https://news.ycombinator.com/item?id=26953352
+
+https://github.com/joouha/euporie
+* https://news.ycombinator.com/item?id=27091167
 
 ## Mito - Python  Panda
 https://towardsdatascience.com/introducing-mito-how-to-generate-pandas-code-while-editing-a-spreadsheet-96cf874b70c2

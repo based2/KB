@@ -53,6 +53,7 @@ https://zwischenzugs.com/2018/03/26/git-log-the-good-parts/
 * https://news.ycombinator.com/item?id=16677308
 
 # Security
+## Secret
 https://github.com/bitnami-labs/sealed-secrets
 
 https://github.blog/2021-03-09-git-clone-vulnerability-announced/
@@ -82,6 +83,9 @@ https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit
 * https://news.ycombinator.com/item?id=26640915
 
 https://stackoverflow.com/questions/15790120/what-is-the-first-line-of-git-format-patch-output/27005870#27005870
+
+## Check
+https://github.com/Orange-Cyberdefense/versionshaker
 
 # Tools
 https://github.com/svandragt/repoman

@@ -8,12 +8,16 @@ https://alpercinar.com/open-cell-id/
 https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window
 * https://news.ycombinator.com/item?id=26887658
 
+https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure
+
 # 5G
 * https://therecord.media/new-5g-protocol-vulnerabilities-allow-location-tracking/
  * https://news.ycombinator.com/item?id=26610705
 https://news.ycombinator.com/item?id=24688751 5G
 https://berthub.eu/articles/posts/5g-elephant-in-the-room/
 * https://news.ycombinator.com/item?id=26843068
+
+https://research.checkpoint.com/2021/security-probe-of-qualcomm-msm/
    
 # Interference
 

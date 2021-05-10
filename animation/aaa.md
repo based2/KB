@@ -46,6 +46,7 @@ https://ivanludvig.github.io/blog/2021/04/09/sph-dropping-stl-model.html
 # JS
 https://ptsjs.org/
 *
+https://dynamicsjs.com/
 
 # News
 https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html

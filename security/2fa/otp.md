@@ -5,3 +5,5 @@ http://slackhq.com/post/114696167740/march-2015-security-incident-and-launch-of-
 https://news.ycombinator.com/item?id=9277370
 
 https://news.ycombinator.com/item?id=9279689
+
+https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/

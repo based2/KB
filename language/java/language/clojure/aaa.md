@@ -17,5 +17,9 @@ http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Cloj
 # Testing
 https://fctorial.github.io/posts/tst.html
 
+# ClosureScript
+https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/
+* https://news.ycombinator.com/item?id=27089576
+
 #
 https://stopa.io/post/258 Simulating RAM

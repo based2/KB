@@ -16,10 +16,8 @@ http://www.javapractices.com/topic/TopicAction.do?Id=278
 https://stackoverflow.com/questions/1573901/concurrenthashmap-constructor-parameters
 
 # API
-## Stream
-https://codecooks.com/java8-stream-operations/
 
-# Google Guava
+# Google Guava (betas)
 https://www.javacodegeeks.com/2015/03/google-guava-5-things-you-never-knew-it-could-do.html
 
 # JEE

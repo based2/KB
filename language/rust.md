@@ -126,6 +126,7 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 * https://news.ycombinator.com/item?id=26850682
 
 # News
+https://deepu.tech/my-second-impression-of-rust/
 https://aws.amazon.com/fr/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/
 * https://news.ycombinator.com/item?id=27080859
 https://blog.rust-lang.org/2021/05/06/Rust-1.52.0.html

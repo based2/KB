@@ -26,7 +26,11 @@ https://github.com/fosslinux/live-bootstrap
 https://blog.cloudflare.com/branch-predictor/
 * https://news.ycombinator.com/item?id=27062650
 
+# ABI
+https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
+
 # News
+https://www.i-programmer.info/news/99-professional/14539-acm-breakthrough-award-for-jit-compilation.html
 https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html
 * https://news.ycombinator.com/item?id=26955474
 https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html

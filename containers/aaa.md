@@ -18,5 +18,7 @@ https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/
 * https://news.ycombinator.com/item?id=27006354
 
 # News
+https://github.com/cncf/foundation/blob/master/agpl-recommendations.md
+* https://news.ycombinator.com/item?id=27107384
 https://devopsdirective.com/posts/2021/04/tiny-container-image/
 * https://news.ycombinator.com/item?id=26899292

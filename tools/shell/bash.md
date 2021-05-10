@@ -21,3 +21,5 @@ https://github.com/pindexis/marker
 https://github.com/glamp/bashplotlib
 
 https://seb.jambor.dev/posts/cd-is-not-a-program/
+
+https://www.shellcheck.net/

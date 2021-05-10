@@ -32,6 +32,10 @@ https://librecmc.org/
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # News
+https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html
+* https://news.ycombinator.com/item?id=27086209
+https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/
+* https://news.ycombinator.com/item?id=27086701
 https://tedium.co/2021/05/07/linux-live-cd-history/
 * https://news.ycombinator.com/item?id=27081369
 https://www.susecon.com/

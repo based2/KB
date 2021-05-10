@@ -12,3 +12,9 @@ https://uxtools.co/challenges/
 # Gesture
 http://depts.washington.edu/acelab/proj/dollar/index.html
 * https://news.ycombinator.com/item?id=27046822
+
+# Demos
+# osx
+https://portfolio.zxh.io/
+* https://news.ycombinator.com/item?id=27084995
+  * ttps://github.com/Renovamen/playground-macos

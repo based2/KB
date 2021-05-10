@@ -1,3 +1,5 @@
+https://www.oshwa.org/sharing-best-practices/
+
 https://www.opencompute.org/
 
 https://www.powerpc-notebook.org/
@@ -9,7 +11,10 @@ https://www.forwardcom.info/ An open forward-compatible instruction set architec
 https://www.businesswire.com/news/home/20210408005158/en/Open-Source-FPGA-Launches-Foundation-to-Accelerate-Widespread-Adoption-of-Programmable-Logic
 * https://news.ycombinator.com/item?id=26925167
 
-# FPGO
+https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/
+* https://news.ycombinator.com/item?id=27105813
+
+# FPGA
 https://github.com/MiSTer-devel/Main_MiSTer/wiki
 * https://news.ycombinator.com/item?id=26772151
 

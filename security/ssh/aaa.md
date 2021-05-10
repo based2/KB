@@ -32,6 +32,8 @@ https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-wit
 # SSH tunnels
 https://robotmoon.com/ssh-tunnels/
 
+https://vadosware.io/post/stuffing-both-ssh-and-https-on-port-443-with-stunnel-ssh-and-traefik/
+
 # Blue
 https://www.tronyxworld.be/2020/hardening_ssh/
 
@@ -44,3 +46,6 @@ https://blog.dijit.sh//gpg-ssh-notes-for-current-best-practices
 # EOL
 https://blog.g3rt.nl/upgrade-your-ssh-keys.html
 https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHAndSHA1Deprecation
+
+# News
+https://lists.tartarus.org/pipermail/putty-announce/2021/000031.html

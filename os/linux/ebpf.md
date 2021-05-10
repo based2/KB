@@ -9,3 +9,7 @@ https://nakryiko.com/posts/libbpf-bootstrap/
 
 https://newrelic.com/blog/nerd-life/open-source-observability-pixie
 * https://news.ycombinator.com/item?id=27037102
+
+
+https://github.com/microsoft/ebpf-for-windows
+* https://news.ycombinator.com/item?id=27108593

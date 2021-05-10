@@ -1,6 +1,11 @@
+https://explained-from-first-principles.com/email/
+* https://news.ycombinator.com/item?id=27086608
+
 http://www.courier-mta.org/
 
 https://wiki.mozilla.org/Thunderbird:OpenPGP:Migration-From-Enigmail
+
+https://jschumacher.info/2021/05/running-a-private-mail-server-for-six-years-easy-peasy/
 
 # Security
 

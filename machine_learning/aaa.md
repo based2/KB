@@ -17,6 +17,10 @@ https://tribuo.org/ Java
 
 https://deepmind.com/blog/article/EigenGame
 
+https://github.com/SimonBlanke/Hyperactive
+
+https://github.com/getkeops/keops gpu
+
 # Store
 https://feast.dev/
 

@@ -16,6 +16,8 @@ https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-
 
 https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/
 
+https://tauday.com/tau-manifesto
+
 # News
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323
