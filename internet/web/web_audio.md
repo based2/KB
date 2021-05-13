@@ -15,3 +15,7 @@ https://webamp.org/
 
 https://mastershot.app/tools/audio-extractor
 * https://news.ycombinator.com/item?id=27014071
+
+https://www.sequencer64.com/sequencer/session
+* https://news.ycombinator.com/item?id=27112573
+* https://github.com/drumnickydrum/sequencer64

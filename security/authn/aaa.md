@@ -9,6 +9,10 @@ https://www.openiam.com
 
 https://apereo.github.io/cas/
 
+
+https://evertpot.com/jwt-is-a-bad-default/
+* https://news.ycombinator.com/item?id=27136539
+
 # Diffie-Hellman
 https://borisreitman.com/privacy.html
 * https://news.ycombinator.com/item?id=26898147

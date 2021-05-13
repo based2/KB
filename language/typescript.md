@@ -11,3 +11,5 @@ https://11sigma.com/blog/2021/03/04/typescript-cheat-sheet/
 
 https://engineering.tableau.com/really-advanced-typescript-types-c590eee59a12
 * https://www.reddit.com/r/programming/comments/n0mt2g/really_advanced_typescript_types/
+
+https://voltrevo.medium.com/how-to-speak-binary-in-typescript-950437e7c0df

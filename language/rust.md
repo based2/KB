@@ -66,12 +66,18 @@ https://doc.rust-lang.org/nomicon/
 https://ricardomartins.cc/2016/06/08/interior-mutability
 
 # Async
+https://tokio.rs/
+
 https://fasterthanli.me/articles/pin-and-suffering
 * https://lobste.rs/s/f98dpj/pin_suffering
 
 https://github.com/Xudong-Huang/may concurrency
 
 http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/
+
+# Debug
+https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
+* https://news.ycombinator.com/item?id=27135591
 
 # Test
 
@@ -126,6 +132,7 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 * https://news.ycombinator.com/item?id=26850682
 
 # News
+https://www.theregister.com/2021/05/13/rust_2021_edition/
 https://deepu.tech/my-second-impression-of-rust/
 https://aws.amazon.com/fr/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/
 * https://news.ycombinator.com/item?id=27080859

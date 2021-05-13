@@ -62,6 +62,10 @@ https://github.com/ClearURLs/Addon/
 https://github.com/nickmvincent/DataLeverageRoundup
 
 # News
+https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/
+* https://news.ycombinator.com/item?id=27121461
+https://mobiledevmemo.com/apple-robbed-the-mobs-bank/
+* https://mobiledevmemo.com/apple-robbed-the-mobs-bank/
 https://themarkup.org/citizen-browser/2021/05/06/how-big-pharma-finds-sick-users-on-facebook
 * https://news.ycombinator.com/item?id=27073033
 https://github.com/audacity/audacity/pull/835

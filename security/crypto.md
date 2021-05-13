@@ -19,3 +19,9 @@ https://github.com/FiloSottile/age
 
 ## PGP
 https://sequoia-pgp.org/blog/2021/05/06/202105-thunderbird-rnp-and-the-importance-of-a-good-api/
+https://sequoia-pgp.org/blog/2021/05/12/202105-hello-openpgp-ca/
+* https://news.ycombinator.com/item?id=27129349
+
+# News
+https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html
+* https://news.ycombinator.com/item?id=27127887

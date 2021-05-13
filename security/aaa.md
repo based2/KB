@@ -11,6 +11,7 @@ https://github.com/SocketDev/wormhole-crypto
 
 https://docs.microsoft.com/en-us/security/compass/compass
 https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks
+https://www.microsoft.com/en-us/itshowcase/implementing-a-zero-trust-security-model-at-microsoft
 
 # Identity
 https://en.wikipedia.org/wiki/Claims-based_identity

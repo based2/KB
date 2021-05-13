@@ -22,6 +22,7 @@ https://www.javacodegeeks.com/2015/03/google-guava-5-things-you-never-knew-it-co
 
 # JEE
 https://www.reddit.com/r/java/comments/mpwwdp/less_is_more_evolving_the_servlet_api/
+http://mail-archives.apache.org/mod_mbox/www-announce/202105.mbox/%3C531a27a2-b4c4-40a8-dba1-3bdd1124101f%40apache.org%3E
 
 # Validation
 https://github.com/mvallim/java-fluent-validator

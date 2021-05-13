@@ -13,3 +13,6 @@ https://github.com/awslabs/autogluon
 
 https://www.crosstab.io/product-comparisons/document-form-extraction
 * https://news.ycombinator.com/item?id=26906397
+
+https://openvisionapi.com/
+* https://news.ycombinator.com/item?id=27127694

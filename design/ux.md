@@ -1,5 +1,7 @@
 https://uxmovement.com/
 
+https://developer.apple.com/design/resources/
+* https://news.ycombinator.com/item?id=27139170
 
 # Font
 

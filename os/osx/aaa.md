@@ -30,8 +30,9 @@ https://blog.bejarano.io/hardening-macos/
 * https://news.ycombinator.com/item?id=27067755
 
 # M1
+https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
+* https://news.ycombinator.com/item?id=27133804
 https://blog.svenpeter.dev/posts/m1_sprr_gxf/
-
 https://rosenzweig.io/blog/asahi-gpu-part-4.html
 * https://news.ycombinator.com/item?id=27019249
 https://blogs.vmware.com/teamfusion/2021/04/fusion-on-apple-silicon-progress-update.html

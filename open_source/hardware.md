@@ -32,6 +32,10 @@ http://guillaume.baierouge.fr/2021/04/23/simulating-digital-circuits-in-racket/a
 https://erik-engheim.medium.com/arm-vs-risc-v-vector-extensions-992f201f402f
 * https://news.ycombinator.com/item?id=27063748
 
+# Product
+https://www.numworks.com/
+* https://news.ycombinator.com/item?id=27126926
+
 # Mechanism
 https://openastrotech.com/
 

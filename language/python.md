@@ -69,6 +69,14 @@ https://venthur.de/2021-03-31-python-makefiles.html
 # Packaging
 https://monadical.com/posts/how-to-package-python-for-apt-deb.html#
 
+
+# IDE
+
+https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/
+* https://news.ycombinator.com/item?id=27127387
+* https://notebook.basthon.fr/
+* https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
+
 # Data
 ## Validation
 https://blog.drewolson.org/declarative-validation
@@ -100,6 +108,9 @@ https://github.com/facebookincubator/cinder
 * https://news.ycombinator.com/item?id=27043217
 
 # News
+https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0
+* https://news.ycombinator.com/item?id=27132999
+* https://news.ycombinator.com/item?id=27125200
 https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/
 https://github.com/samuelcolvin/pydantic/issues/2678 fastapi pep
 * https://news.ycombinator.com/item?id=26826158

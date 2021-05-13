@@ -12,4 +12,6 @@ https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/
 
 https://github.com/kubernetes/kubernetes/issues/101493
 
+https://sysdig.com/blog/lateral-movement-cloud-containers/
+
 

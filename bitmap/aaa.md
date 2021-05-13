@@ -19,9 +19,16 @@ https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/
 
 https://augmentedperception.github.io/total_relighting/
 
+
+https://intel-isl.github.io/PhotorealismEnhancement/
+* https://news.ycombinator.com/item?id=27126092
+
 # Restore
 https://github.com/msxie92/MangaRestoration
 * https://news.ycombinator.com/item?id=27061421
+
+https://intel-isl.github.io/PhotorealismEnhancement/
+* https://news.ycombinator.com/item?id=27126092
 
 # Extract
 https://github.com/Mukosame/Anime2Sketch

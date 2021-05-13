@@ -1,3 +1,10 @@
+https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
+* https://news.ycombinator.com/item?id=27136746
+
+https://threatpost.com/wormable-windows-bug-dos-rce/166057/
+
+https://www.databreachtoday.co.uk/microsoft-patches-4-more-exchange-flaws-a-16566
+
 https://www.usenix.org/system/files/sec21fall-chen-kaixiang.pdf
 
 http://axelp.io/MouseTrap

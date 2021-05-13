@@ -14,6 +14,8 @@ https://www.phrack.org/
 
 # Events
 # 2021
+https://www.fragattacks.com/ Wifi (http)
+* https://news.ycombinator.com/item?id=27121918
 https://tsuname.io/ dns
 https://proxylogon.com/ Windows
 https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt

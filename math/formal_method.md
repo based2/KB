@@ -20,3 +20,6 @@ https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%2
 # 
 * http://www.cs.utoronto.ca/~hehner/FMSD/
   * https://news.ycombinator.com/item?id=26610221
+
+https://blog.compiler.ai/2021/05/06/verification-is-tcbpb-reduction/
+* https://news.ycombinator.com/item?id=27115009

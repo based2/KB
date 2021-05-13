@@ -19,6 +19,8 @@ https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730
 https://github.com/svt/encore Scalable video transcoding tool, built on Open Source giants like FFmpeg and Redisson.
 * https://news.ycombinator.com/item?id=27084958
 
+https://github.com/leandromoreira/ffmpeg-libav-tutorial
+
 DaVinci resolve - https://www.blackmagicdesign.com/fr/products/davinciresolve/
 
 https://handbrake.fr/

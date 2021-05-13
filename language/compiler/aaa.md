@@ -29,6 +29,10 @@ https://blog.cloudflare.com/branch-predictor/
 # ABI
 https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
 
+# LLVM
+https://www.cambus.net/speedbuilding-llvm-clang-in-2-minutes-on-arm/
+* https://news.ycombinator.com/item?id=27135924
+
 # News
 https://www.i-programmer.info/news/99-professional/14539-acm-breakthrough-award-for-jit-compilation.html
 https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html

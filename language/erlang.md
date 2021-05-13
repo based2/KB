@@ -1,5 +1,10 @@
 https://erlang.org/doc/man/persistent_term.html
 
+
+# OTP
+https://blog.erlang.org/My-OTP-24-Highlights/
+* https://news.ycombinator.com/item?id=27128994
+
 # BEAM VM
 https://beam-wisdoms.clau.se/en/latest/
 * https://news.ycombinator.com/item?id=26889048

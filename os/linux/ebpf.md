@@ -13,3 +13,5 @@ https://newrelic.com/blog/nerd-life/open-source-observability-pixie
 
 https://github.com/microsoft/ebpf-for-windows
 * https://news.ycombinator.com/item?id=27108593
+
+https://pchaigno.github.io/ebpf/2021/04/12/bmc-accelerating-memcached-using-bpf-and-xdp.html

@@ -34,6 +34,8 @@ https://www.quantamagazine.org/new-neural-networks-solve-hardest-equations-faste
 https://ml-jku.github.io/hopfield-layers/
 * https://news.ycombinator.com/item?id=26990000
 
+https://gradientscience.org/glm_saga/
+
 # Image
 https://www.mattkeeter.com/research/mpr/
 * https://news.ycombinator.com/item?id=26873691
@@ -49,6 +51,9 @@ https://statmodeling.stat.columbia.edu/2021/04/12/is-explainability-the-new-unce
 * https://news.ycombinator.com/item?id=26970477
 
 https://automatingsociety.algorithmwatch.org/
+
+https://kobra.dev/
+* https://news.ycombinator.com/item?id=27135573
 
 # Books & Papers
 ## Papers
