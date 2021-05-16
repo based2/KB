@@ -52,6 +52,10 @@ https://getfedora.org/en/coreos?stream=stable
 https://github.com/joouha/euporie
 * https://news.ycombinator.com/item?id=27091167
 
+## Dataflow, a self-hosted Observable Notebook Editor
+https://observablehq.com/@asg017/introducing-dataflow
+* https://news.ycombinator.com/item?id=27145515
+
 ## Mito - Python  Panda
 https://towardsdatascience.com/introducing-mito-how-to-generate-pandas-code-while-editing-a-spreadsheet-96cf874b70c2
 

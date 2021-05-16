@@ -34,3 +34,10 @@ https://indigoengine.io/
 https://mungingdata.com/scala/maintenance-nightmare-upgrade/
 
 https://indigoengine.io/
+
+# News
+https://github.com/lampepfl/dotty/releases/tag/3.0.0
+  * https://news.ycombinator.com/item?id=27151732
+    * https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html
+    * https://docs.scala-lang.org/scala3/new-in-scala3.html
+    * https://docs.scala-lang.org/scala3/book/introduction.html

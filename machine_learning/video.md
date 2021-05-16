@@ -1,0 +1,1 @@
+https://www.unite.ai/nerf-facebook-co-research-develops-mixed-static-dynamic-video-synthesis/

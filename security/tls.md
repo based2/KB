@@ -45,6 +45,10 @@ https://marc.info/?l=openbsd-announce&m=156500965928485&w=2 LibreSSL 3.0.0 Relea
 
 https://www.linkedin.com/pulse/goodbye-tls-rest-pieces-stefan-h-farr/
 
+# Let's encrypt
+https://gethttpsforfree.com/
+* https://news.ycombinator.com/item?id=11002635
+
 # Other
 
 https://textslashplain.com/2019/08/11/spying-on-https/ https://news.ycombinator.com/item?id=20673409
@@ -79,6 +83,10 @@ https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/
 # Book
 https://mwl.io/archives/10445
 * https://news.ycombinator.com/item?id=26760032
+
+# HSTS
+
+https://github.com/diracdeltas/sniffly
 
 # News
 https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html 25th March 2021 - 1.1.1k is a security-fix release HIGH

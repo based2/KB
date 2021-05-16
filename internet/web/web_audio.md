@@ -19,3 +19,5 @@ https://mastershot.app/tools/audio-extractor
 https://www.sequencer64.com/sequencer/session
 * https://news.ycombinator.com/item?id=27112573
 * https://github.com/drumnickydrum/sequencer64
+
+https://github.com/bignimbus/trombone.js

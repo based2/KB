@@ -31,6 +31,9 @@ https://txstreet.com/v/btc-eth
 https://www.zeroknowledgeblog.com/index.php/zk-snarks
 
 # News
+https://blockcrunch.co/2021/05/14/unstoppable-domains-crypto-names-are-now-available-on-brave-browser/
+https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/
+* https://news.ycombinator.com/item?id=27140292
 https://github.com/algorand/go-algorand/blob/master/data/transactions/logic/README.md
 https://www.mdpi.com/1424-8220/20/18/5281/htm CoNTe: A Core Network Temporal Blockchain for 5G
 https://timdaub.github.io/2021/04/22/nft-sleepminting-beeple-provenance/

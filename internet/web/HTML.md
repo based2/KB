@@ -65,3 +65,11 @@ https://korben.info/exploit-fichier-texte-txt-macos.html
 
 https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API
 * https://news.ycombinator.com/item?id=27061020
+
+
+# Tools
+https://en.wikipedia.org/wiki/Dynamic_HTML
+
+https://remaketheweb.com/
+* https://news.ycombinator.com/item?id=27148097
+* https://github.com/remake/remake-framework

@@ -13,6 +13,8 @@ https://docs.microsoft.com/en-us/security/compass/compass
 https://docs.microsoft.com/en-us/security/compass/incident-response-playbooks
 https://www.microsoft.com/en-us/itshowcase/implementing-a-zero-trust-security-model-at-microsoft
 
+http://www.ietf.org/rfc/rfc2350.txt  Expectations for Computer Security Incident Response
+
 # Identity
 https://en.wikipedia.org/wiki/Claims-based_identity
 
@@ -50,6 +52,11 @@ https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 #
 https://download.vusec.net/papers/constantine_ccs21.pdf
 * https://news.ycombinator.com/item?id=27078207
+
+https://isc.sans.edu/
+https://www.bitcoinabuse.com/
+
+https://throughascreendarkly.com/2021/05/16/port-knocking-better/
 
 
 

@@ -26,6 +26,7 @@ https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflo
 * https://lwn.net/Articles/834297/ BleedingTooth
 
 # 2019
+* https://www.secpod.com/blog/openbsd-authentication-bypass-and-local-privilege-escalation-vulnerabilities/
 * https://en.wikipedia.org/wiki/Kr00k WPA2
 * https://en.wikipedia.org/wiki/BlueKeep Windows RDP
 * https://en.wikipedia.org/wiki/Microarchitectural_Data_Sampling Intel hyper-threading

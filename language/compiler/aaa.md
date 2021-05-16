@@ -14,6 +14,10 @@ https://c9x.me/compile/bib/
 https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/
 * https://news.ycombinator.com/item?id=27010965
 
+https://gcc.gnu.org/wiki/DontUseInlineAsm
+
+https://en.wikipedia.org/wiki/SIMD
+
 #
 http://www.lighterra.com/papers/modernmicroprocessors/
 
@@ -32,6 +36,9 @@ https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
 # LLVM
 https://www.cambus.net/speedbuilding-llvm-clang-in-2-minutes-on-arm/
 * https://news.ycombinator.com/item?id=27135924
+
+# Bug report
+https://news.ycombinator.com/item?id=26620048
 
 # News
 https://www.i-programmer.info/news/99-professional/14539-acm-breakthrough-award-for-jit-compilation.html

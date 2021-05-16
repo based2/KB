@@ -108,6 +108,9 @@ https://github.com/facebookincubator/cinder
 * https://news.ycombinator.com/item?id=27043217
 
 # News
+https://github.com/tiangolo/fastapi/issues/2518 FastAPI default configuration leaks traffic information to multiple third parties
+https://github.com/faster-cpython/ideas
+* https://github.com/faster-cpython/ideas
 https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0
 * https://news.ycombinator.com/item?id=27132999
 * https://news.ycombinator.com/item?id=27125200

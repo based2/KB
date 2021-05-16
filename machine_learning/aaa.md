@@ -43,6 +43,8 @@ https://www.mattkeeter.com/research/mpr/
 
 # GPT
 https://news.ycombinator.com/item?id=26534000
+https://stefanzukin.com/enigma/
+* https://news.ycombinator.com/item?id=27144764
 
 # IML - Interpretable machine learning
 https://blog.ml.cmu.edu/2021/04/23/a-learning-theoretic-perspective-on-local-explainability/
@@ -71,6 +73,7 @@ https://www.thenewatlantis.com/publications/correlation-causation-and-confusion
 https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html
 
 # News
+https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making
 https://www.ai.gov/
 * https://news.ycombinator.com/item?id=27048048
 https://github.com/kevin-wayne/algs4

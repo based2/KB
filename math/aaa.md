@@ -18,6 +18,8 @@ https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150
 
 https://tauday.com/tau-manifesto
 
+http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf
+
 # News
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323

@@ -36,3 +36,5 @@ https://www.bleepingcomputer.com/news/security/dutch-govt-explains-the-risks-beh
 https://coredns.io/
 
 https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-implementations
+
+https://arxiv.org/abs/2104.13785 Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest

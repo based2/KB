@@ -30,6 +30,10 @@ https://www.selenium.dev/documentation/en/
 
 https://htmlunit.sourceforge.io/
 
+https://www.wetator.org/
+
+https://www.bingobongotesting.org/
+
 # TDD
 https://cucumber.io/
 https://cucumber.io/docs/gherkin/

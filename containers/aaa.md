@@ -17,6 +17,9 @@ https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/
 https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/
 * https://news.ycombinator.com/item?id=27006354
 
+https://fly.io/blog/measuring-fly/
+* https://news.ycombinator.com/item?id=27147482
+
 # News
 https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/
 https://github.com/cncf/foundation/blob/master/agpl-recommendations.md

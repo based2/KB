@@ -32,6 +32,9 @@ https://librecmc.org/
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # News
+https://alpinelinux.org/conf/
+https://gitlab.gnome.org/GNOME/mutter/-/issues/1606
+* https://news.ycombinator.com/item?id=27152069
 https://lwn.net/SubscriberLink/855226/72737207b5650d33/
 * https://news.ycombinator.com/item?id=27137674
 https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html

@@ -62,6 +62,7 @@ https://calibre-ebook.com
 
 ### LibreOffice
 https://www.libreoffice.org/
+https://wiki.documentfoundation.org/LibreOffice_Migrations
 
 https://www.collaboraoffice.com/solutions/collabora-office/
 * https://news.ycombinator.com/item?id=26614654
@@ -125,4 +126,9 @@ https://fediverse.party/en/miscellaneous
 * https://news.ycombinator.com/item?id=27009468
 
 https://joinmobilizon.org/en/
+
+# News
+https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/
+* https://news.ycombinator.com/item?id=27163388
+https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/
 

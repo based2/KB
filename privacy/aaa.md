@@ -62,6 +62,8 @@ https://github.com/ClearURLs/Addon/
 https://github.com/nickmvincent/DataLeverageRoundup
 
 # News
+https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13
+* https://news.ycombinator.com/item?id=27148593
 https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/
 * https://news.ycombinator.com/item?id=27121461
 https://mobiledevmemo.com/apple-robbed-the-mobs-bank/

@@ -17,8 +17,15 @@ https://stackoverflow.com/questions/1573901/concurrenthashmap-constructor-parame
 
 # API
 
-# Google Guava (betas)
+## Google Guava (betas)
 https://www.javacodegeeks.com/2015/03/google-guava-5-things-you-never-knew-it-could-do.html
+
+# HTTP Client
+https://openjdk.java.net/groups/net/httpclient/intro.html
+https://hc.apache.org/
+https://mizosoft.github.io/methanol/
+* https://www.reddit.com/r/java/comments/nctvb6/response_caching_with_javas_http_client_methanol/
+
 
 # JEE
 https://www.reddit.com/r/java/comments/mpwwdp/less_is_more_evolving_the_servlet_api/
@@ -34,6 +41,9 @@ https://reflectoring.io/service-provider-interface/
 http://errorprone.info/docs/refaster
 https://netbeans.apache.org/jackpot/HintsFileFormat.html
 https://medium.com/engineering-at-alfa/introducing-astra-a-tool-for-refactoring-java-programs-at-scale-edf7c4314f7d
+
+# Generator
+https://corner.squareup.com/2015/01/javapoet.html
 
 # Notes
 
@@ -170,6 +180,11 @@ https://javaee.github.io/jsonp/
 
 # WS
 https://www.igorkromin.net/index.php/2018/12/06/setting-jax-ws-webservice-client-timeout-values-correctly-within-a-weblogic-12c-container/
+
+# History
+https://github.com/ufuu/JDK10 1.0
+* https://news.ycombinator.com/item?id=27163964
+* https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
 https://news.ycombinator.com/item?id=27004728

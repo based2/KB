@@ -23,3 +23,6 @@ https://github.com/glamp/bashplotlib
 https://seb.jambor.dev/posts/cd-is-not-a-program/
 
 https://www.shellcheck.net/
+
+https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars
+* https://news.ycombinator.com/item?id=27163494

@@ -1,3 +1,6 @@
+alias psg='ps -ef | grep -i $1'
+alias nsg='netstat -natp | grep -i $1'
+
 https://www.davidc.net/sites/default/subnets/subnets.html
 
 https://cilium.io/blog/2020/11/10/ebpf-future-of-networking/

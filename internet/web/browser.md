@@ -2,9 +2,15 @@
 https://worldwideweb.cern.ch/worldwideweb/?
 * https://news.ycombinator.com/item?id=26680839
 
+# Tabs
+https://www.scs.cmu.edu/news/overcoming-tab-overload
+
 # In
 https://bellard.org/jslinux/
 https://vivek9patel.github.io/ Ubuntu
+
+# Dev
+https://mykzilla.org/2017/03/15/introducing-qbrt/
 
 # News
 https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/

@@ -65,6 +65,15 @@ https://doc.rust-lang.org/nomicon/
 
 https://ricardomartins.cc/2016/06/08/interior-mutability
 
+https://github.com/rust-lang/rust/blob/master/src/test/ui/weird-exprs.rs
+* https://news.ycombinator.com/item?id=27152920
+
+https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
+* https://news.ycombinator.com/item?id=27164000
+
+https://swilmet.be/blog/2021-05-15-ramblings-gnome-dev.html
+* https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html#shadowing
+
 # Async
 https://tokio.rs/
 
@@ -111,12 +120,20 @@ https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-window
 
 # Security
 
+https://iximiuz.com/en/posts/rust-privacy-and-visibility/
+
 https://github.com/crev-dev/cargo-crev
 * https://news.ycombinator.com/item?id=26735470
 
 https://rustsec.org/
 * https://github.com/RustSec/advisory-db
 * https://github.com/RustSec/cargo-audit
+
+https://github.com/lucky/bad_actor_poc
+* https://news.ycombinator.com/item?id=27154534
+
+# Migration
+https://blog.waleedkhan.name/port-python-to-rust/
 
 # OS
 
@@ -131,7 +148,15 @@ https://lkml.org/lkml/2021/4/14/1023
 https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/
 * https://news.ycombinator.com/item?id=26850682
 
+
+# Quiz
+https://dtolnay.github.io/rust-quiz/33
+
 # News
+https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html
+* https://news.ycombinator.com/item?id=27171978
+https://arxiv.org/abs/1903.00982 Oxide: The Essence of Rust
+https://www.tectalk.co/rust-programming-language-here-are-the-changes-planned-for-this-year/
 https://www.theregister.com/2021/05/13/rust_2021_edition/
 https://deepu.tech/my-second-impression-of-rust/
 https://aws.amazon.com/fr/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/

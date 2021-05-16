@@ -29,6 +29,9 @@ http://eradman.com/ephemeralpg/
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
+# Debug
+https://iamsafts.com/posts/postgres-gin-performance/
+* https://news.ycombinator.com/item?id=27152507
 
 # Index
 http://leopard.in.ua/2015/04/13/postgresql-indexes/

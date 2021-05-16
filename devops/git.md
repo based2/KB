@@ -78,6 +78,8 @@ https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
 
 https://goiabada.blog/git-tricks-avoid-solving-the-same-rebase-conflict-multiple-times-9a3afbcf1d22
 
+https://hal.inria.fr/hal-01112795/document HAL Id: hal-01112795https://hal.inria.fr/hal-01112795Submitted on 3 Feb 2015HALis a multi-disciplinary open accessarchive for the deposit and dissemination of sci-entific research documents, whether they are pub-lished or not. The documents may come fromteaching and research institutions in France orabroad, or from public or private research centers.L’archive ouverte pluridisciplinaireHAL, estdestinée au dépôt et à la diffusion de documentsscientifiques de niveau recherche, publiés ou non,émanant des établissements d’enseignement et derecherche français ou étrangers, des laboratoirespublics ou privés.An Effective Git And Org-Mode Based Workflow ForReproducible Research
+
 ## Signature
 https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove
 * https://news.ycombinator.com/item?id=26640915

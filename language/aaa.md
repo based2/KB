@@ -21,8 +21,17 @@ https://news.ycombinator.com/item?id=26983530
 
 #
 https://lambda-the-ultimate.org/
-https://gist.github.com/cristianoc/7d9552c5644f26282568af7a34cf9f02
+
+https://counterexamples.org/intro.html
+
+https://gist.github.com/cristianoc/7d9552c5644f26282568af7a34cf9f02 Pragmatic Termination Analysis
+
+https://probprog.github.io/anglican/index.html A Probabilistic Programming System
+
+https://github.com/IBM/Project_CodeNet
 
 # Exotic
 https://github.com/iAmGio/pikt
 https://www.dangermouse.net/esoteric/piet.html
+
+https://codegolf.stackexchange.com/questions/607/find-the-factorial/629#629

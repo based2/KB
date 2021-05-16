@@ -53,5 +53,7 @@ https://github.com/Sysinternals/ProcMon-for-Linux/
 * https://news.ycombinator.com/item?id=27058914
 
 # News
+https://prometheus.io/blog/2021/05/03/introducing-prometheus-conformance-program/
+https://opstrace.com/blog/a-new-ui-to-improve-observability-ux/
 https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/
 * https://news.ycombinator.com/item?id=26877528

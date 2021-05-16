@@ -16,3 +16,7 @@ http://matt.might.net/articles/why-infinite-or-guaranteed-file-compression-is-im
 https://www.7-zip.org/download.html
 
 https://www.lzop.org/
+
+# News
+https://github.com/facebook/zstd/releases/tag/v1.5.0
+* https://news.ycombinator.com/item?id=27155857

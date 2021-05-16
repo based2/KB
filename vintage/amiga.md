@@ -4,3 +4,6 @@ https://www.amibian.org/
 
 https://www.rvalles.net/bootstrapping-an-amiga-without-a-bootable-amiga-floppy.html
 * https://news.ycombinator.com/item?id=27021469
+
+https://www.hyperion-entertainment.com/
+* https://news.ycombinator.com/item?id=27158277

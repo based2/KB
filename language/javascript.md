@@ -1,4 +1,4 @@
-# Framewoks
+# Frameworks
 ## VueJS
 
 ## ReactJS
@@ -15,6 +15,9 @@ https://medium.com/uncountable-engineering/why-did-my-react-component-re-render-
 https://news.ycombinator.com/item?id=26557886
 https://geoffrich.net/posts/svelte-tower-of-hanoi/
 
+https://elderguide.com/tech/elderjs/
+* https://news.ycombinator.com/item?id=27152785
+
 ## Hyperscript (applescript)
 https://hyperscript.org/comparison/
 * https://news.ycombinator.com/item?id=26873682
@@ -28,6 +31,9 @@ https://github.com/i5ik/vanillaview
 https://replpad.com/
 * https://news.ycombinator.com/item?id=27031198
 * https://jsconsole.com/
+
+# Oracle Jet
+https://www.oracle.com/webfolder/technetwork/jet/index.html
 
 # Format
 ## JSON
@@ -46,17 +52,26 @@ https://devblog.qcobjects.org/simplifying-javascript-objects-inheritance-in-qcob
 https://www.baseclass.io/guides/string-handling-modern-js
 * https://news.ycombinator.com/item?id=26789525
 
-# Debug
-https://markodenic.com/use-console-log-like-a-pro/
-* https://news.ycombinator.com/item?id=26779800
+
 
 # Tools
+https://javascript-minifier.com/
+* https://github.com/webdev-sh/javascript-minifier.com
+
 https://github.com/RobinCsl/awesome-js-tooling-not-in-js
 * https://news.ycombinator.com/item?id=26872457
+
+## Debug
+https://markodenic.com/use-console-log-like-a-pro/
+* https://news.ycombinator.com/item?id=26779800
 
 ## Build
 https://volta.sh/
 * https://news.ycombinator.com/item?id=27023453
+
+## Test
+https://www.spearmintjs.com/
+* https://news.ycombinator.com/item?id=27141624
 
 # Web
 https://web.dev/streams/
@@ -73,7 +88,8 @@ https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 https://kaboomjs.com/
 
 # Discussions
+https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years
 https://seanbarry.dev/posts/switch-true-pattern
 * https://news.ycombinator.com/item?id=26777090
 
-# Dynajs
+# Dynamic.js libjs

@@ -1,3 +1,12 @@
+https://alex.kaskaso.li/post/terraform-plan-rce
+* https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
+
+https://github.com/nrb547/kernel-exploitation/blob/main/cve-2021-32606/cve-2021-32606.md CAN ISOTP local privilege escalation
+
+https://isthisacyberattack.com/
+
+https://helpx.adobe.com/security/products/acrobat/apsb21-29.html
+
 https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/
 * https://news.ycombinator.com/item?id=27136746
 

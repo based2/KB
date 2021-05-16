@@ -28,6 +28,11 @@ https://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/
 
 https://amnesia.openaire.eu/
 
+# Users
+https://privacybot.io/
+* https://news.ycombinator.com/item?id=27146828
+  * https://github.com/privacybot-berkeley/privacybot
+
 # Bpok
 https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
 

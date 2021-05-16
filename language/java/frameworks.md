@@ -9,6 +9,8 @@ https://foojay.io/today/better-error-handling-for-your-spring-boot-rest-apis/
 
 https://boudhayan-dev.medium.com/demystifying-spring-security-setup-e0491acc7df7
 
+https://itnext.io/secures-rest-apis-with-spring-security-5-and-auth0-41d579ca1e27
+
 # Quarkus
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
 https://quarkus.io/blog/magic-control/ vertx

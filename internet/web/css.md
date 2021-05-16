@@ -93,12 +93,21 @@ http://www.juusohaavisto.com/post/blocking-html-links-with-pure-css
 # Table
 https://joshondesign.com/2015/05/23/csstable Scroll
 
+# Font
+https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/
+
 # Demo
 https://codepen.io/jakealbaugh/full/PwLXXP/
 http://asvd.github.io/intence/ distinct and beautiful scrolling indicator  scroll summary
 https://codepen.io/miocene/pen/WJRXVg
 
+# Errors
+https://wiki.csswg.org/ideas/mistakes
+
 # old school
 https://jdan.github.io/98.css/
 * https://news.ycombinator.com/item?id=22940564
 * https://news.ycombinator.com/item?id=26662617
+
+# News
+https://bkardell.com/blog/canihas.html

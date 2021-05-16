@@ -36,6 +36,11 @@ https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
 https://mtlynch.io/litestream/
 * https://news.ycombinator.com/item?id=26981239
 
+https://github.com/lana-k/sqliteviz
+
+https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite
+* https://news.ycombinator.com/item?id=27175284
+
 # HA
 https://dqlite.io/ Canonical
 https://github.com/rqlite/rqlite/
