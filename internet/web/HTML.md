@@ -56,7 +56,14 @@ https://editorjs.io/
 http://john.ankarstrom.se/html/
 * https://news.ycombinator.com/item?id=26723408
 
+https://docs.slatejs.org/
+
+
 https://en.wikipedia.org/wiki/Markdown
+
+# DOM
+https://en.wikipedia.org/wiki/Document_Object_Model
+https://domevents.dev/
 
 
 

@@ -7,9 +7,20 @@ https://wiki.mozilla.org/Thunderbird:OpenPGP:Migration-From-Enigmail
 
 https://jschumacher.info/2021/05/running-a-private-mail-server-for-six-years-easy-peasy/
 
+https://bsdly.blogspot.com/2017/08/twenty-plus-years-on-smtp-callbacks-are.html
+
+# Spam
+https://spa.mnesty.com/
+* https://news.ycombinator.com/item?id=16036121
+
+https://arnaque-telephone.com/
+
 # Security
 
 https://blog.filippo.io/the-sad-state-of-smtp-encryption/ 2015
+
+https://autocrypt.org/
+* https://news.ycombinator.com/item?id=16088036
 
 ## STARTTLS
 https://sendgrid.com/blog/what-is-starttls/
@@ -38,6 +49,9 @@ https://github.com/soywod/himalaya
 
 # Alt
 https://mnmnotmail.org/
+
+https://jmap.io/
+* https://news.ycombinator.com/item?id=14734091
 
 # News
 https://www.reddit.com/r/Office365/comments/n3qky1/office_365_leaking_bcc_domain_name/

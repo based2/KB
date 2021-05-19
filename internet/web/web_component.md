@@ -5,6 +5,10 @@ https://github.com/justinfagnani/stampino-element
 https://github.blog/2021-05-04-how-we-use-web-components-at-github/
 * https://news.ycombinator.com/item?id=27045450
 
-
 https://mxb.dev/blog/container-queries-web-components/
 * https://news.ycombinator.com/item?id=27173010
+
+https://github.com/lit/lit
+https://www.youtube.com/watch?v=Io6JjgckHbg
+
+alt: https://viperhtml.js.org/ comparison: https://gist.github.com/WebReflection/fadcc419f5ccaae92bc167d8ff5c611b

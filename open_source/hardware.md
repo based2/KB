@@ -21,6 +21,8 @@ https://github.com/MiSTer-devel/Main_MiSTer/wiki
 https://j-core.org/
 * https://news.ycombinator.com/item?id=26866065
 
+https://fires.im/
+
 # RISC-V
 
 https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/
@@ -31,6 +33,10 @@ http://guillaume.baierouge.fr/2021/04/23/simulating-digital-circuits-in-racket/a
 
 https://erik-engheim.medium.com/arm-vs-risc-v-vector-extensions-992f201f402f
 * https://news.ycombinator.com/item?id=27063748
+
+# Video
+https://github.com/schlae/graphics-gremlin ISA
+* https://news.ycombinator.com/item?id=27171100
 
 # Product
 https://www.numworks.com/

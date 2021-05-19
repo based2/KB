@@ -24,3 +24,8 @@ https://smallrye.io/smallrye-mutiny/guides/completion-stages
 https://stackoverflow.com/questions/47571117/what-is-the-difference-between-completionstage-and-completablefuture
 https://wiki.openjdk.java.net/display/loom/Main
 
+https://mnlipp.github.io/jgrapes/
+
+# Test
+https://github.com/awaitility/awaitility
+

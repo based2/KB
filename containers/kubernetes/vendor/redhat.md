@@ -1,4 +1,4 @@
-https://www.openshift.com
+https://www.openshift.com https://fabric8.io/
 
 https://www.okd.io/
 https://github.com/openshift/okd/

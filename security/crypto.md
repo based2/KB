@@ -22,6 +22,17 @@ https://sequoia-pgp.org/blog/2021/05/06/202105-thunderbird-rnp-and-the-importanc
 https://sequoia-pgp.org/blog/2021/05/12/202105-hello-openpgp-ca/
 * https://news.ycombinator.com/item?id=27129349
 
+https://articles.59.ca/doku.php?id=pgpfan:tpp
+* https://news.ycombinator.com/item?id=20455780
+* https://news.ycombinator.com/item?id=27181576
+
+#
+https://media.ccc.de/v/34c3-9075-latticehacks
+
+https://fr.wikipedia.org/wiki/LUC_(cryptographie)
+https://en.wikipedia.org/wiki/Lucas_number
+https://en.wikipedia.org/wiki/Jacques_Philippe_Marie_Binet
+
 # News
 https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html
 * https://news.ycombinator.com/item?id=27127887

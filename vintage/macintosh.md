@@ -1,3 +1,19 @@
+# Emulation
+https://jamesfriend.com.au/pce-js/
+https://jamesfriend.com.au/pce-js/pce-js-apps/
+https://jamesfriend.com.au/pce-js/macplus-darkcastle/
+https://www.alessioatzeni.com/mac-osx-lion-css3/
+
+https://www.mac-emu.net/
+
+http://www.emu-france.com/emulateurs/10-ordinateurs/104-apple-macintosh/
+
+https://www.emaculation.com/doku.php
+
+https://rbelmont.mameworld.info/?p=1436 https://www.mamedev.org/
+* https://news.ycombinator.com/item?id=27171852 cdrom
+
+
 # HyperCard
 https://hypercard.org/
 https://news.ycombinator.com/item?id=26507454 Mac SE/30 logicboard recreation 

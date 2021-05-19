@@ -26,6 +26,8 @@ https://github.com/ankane/pgvector vector similarity search
 
 http://eradman.com/ephemeralpg/
 
+https://elephant-shed.io/
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
@@ -66,6 +68,7 @@ https://www.kubegres.io/
 * https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/
 
 # News
+https://www.postgresql.org/about/news/postgresql-133-127-1112-1017-and-9622-released-2210/
 https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=1e55e7d1755cefbb44982fbacc7da461fa8684e6
 * https://news.ycombinator.com/item?id=26756568
 https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791

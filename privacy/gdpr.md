@@ -28,6 +28,10 @@ https://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/
 
 https://amnesia.openaire.eu/
 
+https://blog.grakn.ai/grakn-ai-to-manage-gdpr-f10cd36539b9
+
+https://community.spiceworks.com/topic/2007530-how-the-eu-can-fine-us-companies-for-violating-gdpr
+
 # Users
 https://privacybot.io/
 * https://news.ycombinator.com/item?id=27146828

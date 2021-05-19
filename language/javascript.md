@@ -1,15 +1,22 @@
 # Frameworks
 ## VueJS
+https://vuejs.org/
+https://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/
 
-## ReactJS
+## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 
 https://wattenberger.com/blog/react-and-d3
 * https://news.ycombinator.com/item?id=26628679
 
 https://medium.com/uncountable-engineering/why-did-my-react-component-re-render-71b5acecbbd1
+https://medium.com/hash-tech/migrating-from-angular-js-to-react-with-web-components-98d043cc4ea3
 
-## AngularJS
+## AngularJS - Google
+https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
+ 'now defaults to production' ?
+
+http://bessemhmidi.github.io/AngularBeans/
 
 ## Svelt
 https://news.ycombinator.com/item?id=26557886
@@ -61,6 +68,8 @@ https://javascript-minifier.com/
 https://github.com/RobinCsl/awesome-js-tooling-not-in-js
 * https://news.ycombinator.com/item?id=26872457
 
+https://www.mockoon.com
+
 ## Debug
 https://markodenic.com/use-console-log-like-a-pro/
 * https://news.ycombinator.com/item?id=26779800
@@ -76,14 +85,15 @@ https://www.spearmintjs.com/
 # Web
 https://web.dev/streams/
 
+https://grapesjs.com/
+
 # Server
 ## Nodejs
 https://deno.com/blog/the-deno-company
 * https://news.ycombinator.com/item?id=26620116
 
-
-
 #
+https://github.com/mechaniac/Map-of-Javascript
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 https://kaboomjs.com/
 

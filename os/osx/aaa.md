@@ -53,3 +53,7 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 * https://news.ycombinator.com/item?id=27151993
   * https://code.visualstudio.com/docs/remote/remote-overview
   * https://www.maconlinux.net/
+
+# News
+https://9to5mac.com/2021/05/18/40-core-mac-pro-high-end-mac-mini-in-development/
+* https://news.ycombinator.com/item?id=27194476

@@ -21,6 +21,7 @@ https://proxylogon.com/ Windows
 https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt
 * https://github.com/sudo-project/sudo/commit/8255ed69 2011 
 * https://www.kb.cert.org/vuls/id/589825/ Blurtooth
+* https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit
 
 # 2020
 * https://lwn.net/Articles/834297/ BleedingTooth
@@ -38,6 +39,7 @@ https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflo
 * https://en.wikipedia.org/wiki/Lazy_FP_state_restore
 
 ## 2017
+* https://robotattack.org/
 * https://en.wikipedia.org/wiki/EFAIL Email encryption
 * https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)
 * https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)
@@ -49,6 +51,7 @@ https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflo
 * https://en.wikipedia.org/wiki/Broadcom_Corporation#soc-wifi-vulns
 * https://en.wikipedia.org/wiki/BlueBorne_(security_vulnerability) https://www.armis.com/blueborne/  
 * https://www.krackattacks.com/ WPA2
+* https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/
 
 ## 2016
 * https://en.wikipedia.org/wiki/Dirty_COW Linux
@@ -112,6 +115,7 @@ https://www.linux.gr/DeCSS/decss.html
 https://en.wikipedia.org/wiki/WinNuke
 
 # 1988
+* https://en.wikipedia.org/wiki/Daniel_Bleichenbacher
 * https://en.wikipedia.org/wiki/Morris_worm
 
 # 1957

@@ -21,3 +21,7 @@ https://scala3party.sphere.it/
 # Doc
 https://www.coursera.org/specializations/scala
 https://rockthejvm.com/
+
+# Akka
+https://blog.softwaremill.com/akka-streams-pitfalls-to-avoid-part-2-f93e60746c58
+https://www.oreilly.com/content/implementing-the-pipes-and-filters-pattern-using-actors-in-akka-for-java/

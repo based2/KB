@@ -6,3 +6,7 @@ https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/
 * https://news.ycombinator.com/item?id=26848827
 
 https://wikitech.wikimedia.org/wiki/Provenance
+
+https://github.com/mikecao/umami
+
+https://news.ycombinator.com/item?id=27186249

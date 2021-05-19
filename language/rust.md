@@ -74,6 +74,8 @@ https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
 https://swilmet.be/blog/2021-05-15-ramblings-gnome-dev.html
 * https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html#shadowing
 
+https://fulmicoton.com/posts/behold-tantivy-part2/
+
 # Async
 https://tokio.rs/
 
@@ -91,6 +93,11 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 # Test
 
 https://ferrous-systems.com/blog/test-embedded-app/
+
+
+# APIs
+https://github.com/briansmith/ring Safe, fast, small crypto using Rust with BoringSSL's cryptography primitives
+* https://briansmith.org/rustdoc/ring/ 
 
 # Tools
 ## Terminal

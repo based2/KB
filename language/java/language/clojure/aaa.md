@@ -23,3 +23,6 @@ https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescrip
 
 #
 https://stopa.io/post/258 Simulating RAM
+
+# Diagram
+https://github.com/jebberjeb/specviz

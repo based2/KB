@@ -9,10 +9,15 @@ https://blog.erlang.org/My-OTP-24-Highlights/
 https://beam-wisdoms.clau.se/en/latest/
 * https://news.ycombinator.com/item?id=26889048
 
+#
+https://github.com/geocar/inet_ssh_dist
+
 # Elixir
 
 https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/
 * https://news.ycombinator.com/item?id=26989577
+
+https://elixir-lang.org/blog/2017/10/31/stream-data-property-based-testing-and-data-generation-for-elixir/
 
 # Gleam
 https://gleam.run/

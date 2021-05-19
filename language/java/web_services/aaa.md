@@ -36,3 +36,6 @@ https://rest-assured.io/
 
 GraphQL
 https://apisyouwonthate.com/blog/representing-state-in-rest-and-graphql
+
+OSGI
+http://karaf.apache.org/

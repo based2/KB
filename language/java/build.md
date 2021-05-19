@@ -16,6 +16,8 @@ https://hantsy.medium.com/building-your-own-maven-archetype-fa7b9d646efd
 
 https://reflectoring.io/maven-bom/
 
+https://central.sonatype.org/news/20210510_new-security-capabilities/
+
 ## Public repositories
 https://search.maven.org/classic/#
 

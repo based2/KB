@@ -12,6 +12,13 @@ https://vivek9patel.github.io/ Ubuntu
 # Dev
 https://mykzilla.org/2017/03/15/introducing-qbrt/
 
+#
+https://robert.ocallahan.org/2017/12/maintaining-independent-browser-is.html
+* https://news.ycombinator.com/item?id=15836027
+
+# Test
+https://intoli.com/blog/firefox-extensions-with-selenium/
+
 # News
 https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/
 * https://news.ycombinator.com/item?id=27072981

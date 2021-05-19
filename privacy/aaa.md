@@ -61,7 +61,17 @@ https://github.com/ClearURLs/Addon/
 
 https://github.com/nickmvincent/DataLeverageRoundup
 
+https://termsandconditions.game/
+* https://news.ycombinator.com/item?id=27191795
+
+https://www.lexology.com/library/detail.aspx?g=b123dfbf-1615-45e8-b1f7-2b94c8834c99
+
+https://www.caliopen.org/en/
+* https://docs.google.com/presentation/d/1LNtmkA8xZlK6zizthkr6Msp8SfEZnP1X4lNyLvJRBzo/edit#slide=id.g20bcfe0c0d_0_32
+
 # News
+https://ysamm.com/?p=691
+* https://news.ycombinator.com/item?id=27188188
 https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13
 * https://news.ycombinator.com/item?id=27148593
 https://www.intego.com/mac-security-blog/i-mailed-an-airtag-and-tracked-its-progress-heres-what-happened/

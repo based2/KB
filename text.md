@@ -25,5 +25,8 @@ http://tapiov.net/unicodetiles.js/
 https://github.com/Crissov/unicode-proposals/issues/410
 * https://news.ycombinator.com/item?id=26900749
 
+https://github.com/qntm/base65536
+* https://news.ycombinator.com/item?id=14468818
+
 # ASCII
 http://www.figlet.org/fontdb.cgi

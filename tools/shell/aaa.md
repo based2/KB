@@ -1,3 +1,7 @@
+https://github.com/alebcay/awesome-shell
+
+http://fishshell.com/
+* https://news.ycombinator.com/item?id=27180420
 
 https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/
 * https://news.ycombinator.com/item?id=26634419
@@ -20,3 +24,5 @@ https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf
 
 https://github.com/google/zx
 * https://www.reddit.com/r/programming/comments/n9559t/googlezx_a_tool_for_writing_better_scripts/
+
+https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf

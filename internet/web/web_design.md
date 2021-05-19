@@ -1,4 +1,8 @@
-* https://figma-to-react.vercel.app/
+https://www.nngroup.com/articles/top-10-mistakes-web-design/
+
+https://webdesign.tutsplus.com/articles/employing-aida-principles-in-web-design--webdesign-6997
+
+https://figma-to-react.vercel.app/
  * https://news.ycombinator.com/item?id=26603097
 
 http://thatjdanisso.cool/a11y/focus-vs-hover/

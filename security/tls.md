@@ -49,7 +49,13 @@ https://www.linkedin.com/pulse/goodbye-tls-rest-pieces-stefan-h-farr/
 https://gethttpsforfree.com/
 * https://news.ycombinator.com/item?id=11002635
 
+https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/
+* https://news.ycombinator.com/item?id=27181374
+
+https://github.com/icing/mod_md
+
 # Other
+https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
 
 https://textslashplain.com/2019/08/11/spying-on-https/ https://news.ycombinator.com/item?id=20673409
 https://www.reddit.com/r/programming/comments/cpcuaj/spying_on_https/
@@ -87,6 +93,12 @@ https://mwl.io/archives/10445
 # HSTS
 
 https://github.com/diracdeltas/sniffly
+
+#
+https://netdevconf.info/1.2/papers/ktls.pdf
+* https://lwn.net/Articles/666509/
+* https://github.com/torvalds/linux/blob/master/Documentation/networking/tls.txt
+* https://news.ycombinator.com/item?id=15164568
 
 # News
 https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html 25th March 2021 - 1.1.1k is a security-fix release HIGH

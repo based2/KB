@@ -13,3 +13,9 @@ https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argu
 # Language
 https://arxiv.org/abs/2103.03198 Catala
 * https://news.ycombinator.com/item?id=27059899
+
+# Open data
+https://data.finlex.fi/en/main Semantic Finlex – Finnish Law and Justice as Linked Open Data
+* https://news.ycombinator.com/item?id=27189362
+
+https://github.com/etalab/codes-juridiques-francais/tree/master/codes-en-vigueur/code-de-la-route

@@ -7,6 +7,7 @@ https://web.dev/compat2021/
 
 # SEO
 ## robot.txt
+https://www.robotstxt.org/
 https://news.ycombinator.com/item?id=26807738
 
 # Video

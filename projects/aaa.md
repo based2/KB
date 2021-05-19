@@ -15,6 +15,15 @@ http://bawiki.com/wiki/Waterfall.html
 https://www.pmi.org/learning/library/modern-agile-approach-initiate-contract-6541
 https://agilemanifesto.org/
 
+
+## Scrum
+https://scrumguides.org/
+
+https://www.mountaingoatsoftware.com/blog/tag/presentations
+
+https://www.mountaingoatsoftware.com/uploads/presentations/User-Stories-for-Agile-Requirements-Norwegian-Developers-Conference-2014.pdf
+
+
 # Estimation
 * https://en.wikipedia.org/wiki/Delphi_method
  * https://news.ycombinator.com/item?id=26368011
@@ -38,3 +47,7 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 
 # POC
 https://github.com/tuvtran/project-based-learning
+
+#
+https://garbagecollected.org/2017/10/24/the-carmack-plan/
+*

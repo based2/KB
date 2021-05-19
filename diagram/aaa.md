@@ -20,6 +20,10 @@ https://swimlanes.io/
 
 https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0NocmlzdG1hc10gLS0-fEdldCBtb25leXwgQihHbyBzaG9wcGluZylcbiAgICBCIC0tPiBDe0xldCBtZSB0aGlua31cbiAgICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICAgIEMgLS0-fFR3b3wgRVtpUGhvbmVdXG4gICAgQyAtLT58VGhyZWV8IEZbZmE6ZmEtY2FyIENhcl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ
 
+# ERR
+http://resurgencewebdesign.com/jschema/
+*
+
 # BPMN
 
 # Grammar
@@ -74,3 +78,9 @@ https://app.litmaps.co/maps/4EC66E97-84C5-4230-B059-288D340B44B8
 https://www.diagrams.net/
 
 https://icepanel.io
+
+https://github.com/yishn/tikzcd-editor
+* https://news.ycombinator.com/item?id=15620632
+
+# Code
+https://jgrasp.org/tutorials187/05_CSD.pdf The Control Structure Diagram (CSD)

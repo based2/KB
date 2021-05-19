@@ -31,6 +31,9 @@ https://littlemaninmyhead.wordpress.com/2019/08/04/dont-underestimate-grep-based
 # Find
 https://news.ycombinator.com/item?id=20609199 	fd: A simple, fast, user-friendly alternative to 'find'
 
+# Perf
+https://www.reddit.com/r/rust/comments/7i0p3e/rust_regex_engine_on_jvm_via_webassembly_example/
+
 # Security
 https://blog.doyensec.com/2021/03/11/regexploit.html
 

@@ -21,6 +21,14 @@ https://selinuxproject.org/page/Main_Page
 
 https://muhammadraza.me/2021/Linux-FS/
 
+# Libc
+https://en.wikipedia.org/wiki/GNU_C_Library
+* https://sourceware.org/git/glibc.git
+
+https://www.musl-libc.org/intro.html
+
+https://justine.lol/cosmopolitan/index.html
+
 # Tux
 https://github.com/Nautalis/Tux3D
 
@@ -32,6 +40,8 @@ https://librecmc.org/
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # News
+https://github.com/jart/cosmopolitan/releases/tag/1.0
+* https://news.ycombinator.com/item?id=27180182
 https://alpinelinux.org/conf/
 https://gitlab.gnome.org/GNOME/mutter/-/issues/1606
 * https://news.ycombinator.com/item?id=27152069

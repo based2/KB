@@ -13,6 +13,7 @@
 * https://librearts.org/
 * https://theopenroadproject.org/
 
+https://joinup.ec.europa.eu/collection/eu-fossa-2
 
 https://arxiv.org/abs/2103.00352 Underproduction: An Approach for Measuring Risk in Open Source Software
 * https://news.ycombinator.com/item?id=26630385
@@ -64,6 +65,8 @@ https://calibre-ebook.com
 https://www.libreoffice.org/
 https://wiki.documentfoundation.org/LibreOffice_Migrations
 
+https://grammalecte.net/
+
 https://www.collaboraoffice.com/solutions/collabora-office/
 * https://news.ycombinator.com/item?id=26614654
 
@@ -90,6 +93,9 @@ https://www.freecodecamp.org/news/the-nginx-handbook/
 
 https://justine.lol/redbean/
 * https://news.ycombinator.com/item?id=27001961
+
+# IM
+https://framapiaf.org/about
 
 # Logs
 https://glogg.bonnefon.org/
@@ -128,6 +134,7 @@ https://fediverse.party/en/miscellaneous
 https://joinmobilizon.org/en/
 
 # News
+https://schleiss.io/plotting-source-code-todos-for-open-source-projects
 https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/
 * https://news.ycombinator.com/item?id=27163388
 https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/

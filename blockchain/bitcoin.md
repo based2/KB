@@ -8,3 +8,5 @@ https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain
 https://bitcoincore.org/en/2021/05/01/release-0.21.1/
 * https://news.ycombinator.com/item?id=27020002
 * https://river.com/learn/what-is-taproot/
+
+https://www.truthcoin.info/blog/pow-cheapest/

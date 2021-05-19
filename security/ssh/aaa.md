@@ -17,6 +17,11 @@ https://github.com/arthepsy/ssh-audit
 
 https://www.electricmonk.nl/docs/ssh_tips_tricks/ssh_tips_tricks.html
 
+https://www.reddit.com/r/netsec/comments/7a45e2/lets_talk_about_ssh_configuration_hardening/
+
+https://lonesysadmin.net/2011/11/08/ssh-escape-sequences-aka-kill-dead-ssh-sessions/amp/
+* https://news.ycombinator.com/item?id=15538744
+
 # Certificates
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_ca_certificate_signing-keys
 https://smallstep.com/blog/use-ssh-certificates/
@@ -36,6 +41,9 @@ https://vadosware.io/post/stuffing-both-ssh-and-https-on-port-443-with-stunnel-s
 
 # Blue
 https://www.tronyxworld.be/2020/hardening_ssh/
+
+https://medium.com/@dmrickert/what-ssh-hacking-attempts-look-like-8f698e70a4f5
+* https://news.ycombinator.com/item?id=17000489
 
 # Red
 https://github.com/ssh-mitm/ssh-mitm

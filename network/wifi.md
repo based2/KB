@@ -7,3 +7,9 @@ https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio
 https://www.nzyme.org/ Defend your Wireless Networks
 https://www.krackattacks.com/#tools From 2017
 
+#
+http://biosrhythm.com/?page_id=1453
+* https://news.ycombinator.com/item?id=14677297
+
+
+

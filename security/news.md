@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=27192997
+
+https://www.sciencedirect.com/science/article/pii/S266628172100007X android
+
+https://www.openwall.com/lists/oss-security/2021/05/17/1
+
 https://alex.kaskaso.li/post/terraform-plan-rce
 * https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
@@ -11,6 +17,8 @@ https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executi
 * https://news.ycombinator.com/item?id=27136746
 
 https://threatpost.com/wormable-windows-bug-dos-rce/166057/
+
+https://www.postgresql.org/about/news/postgresql-133-127-1112-1017-and-9622-released-2210/
 
 https://www.databreachtoday.co.uk/microsoft-patches-4-more-exchange-flaws-a-16566
 

@@ -44,6 +44,9 @@ https://www.johndcook.com/blog/2021/04/29/reinventing-rng/
 https://www.brainonfire.net/blog/2021/05/06/cryptographic-shuffle/
 * https://news.ycombinator.com/item?id=27074850
 
+https://aws.amazon.com/fr/blogs/opensource/better-random-number-generation-for-openssl-libc-and-linux-mainline/
+* https://www.reddit.com/r/crypto/comments/7ffc9h/better_random_number_generation_for_openssl_libc/
+
 
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility

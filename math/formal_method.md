@@ -3,6 +3,8 @@
 
 https://uds-psl.github.io/tm-verification-framework/
 * https://news.ycombinator.com/item?id=26860503
+
+https://github.com/jwiegley/category-theory
   
 # TLA
 * https://learntla.com/introduction/
@@ -12,6 +14,9 @@ https://www.hillelwayne.com/post/action-properties/
   * https://github.com/Viasat/salt
 
 https://github.com/afonsonf/tlaplus-graph-explorer
+
+https://medium.com/@jparreira/solving-the-wolf-sheep-and-cabbage-problem-using-tla-and-the-tlc-model-checker-28271a5afdfc
+* http://nchammas.com/writing/how-not-to-die-hard-with-hypothesis
 
 # Z3 Microsoft
 https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb

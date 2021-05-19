@@ -12,6 +12,12 @@ https://spectrum.ieee.org/geek-life/profiles/from-winzips-to-cat-gifs-jacob-zivs
 
 http://matt.might.net/articles/why-infinite-or-guaranteed-file-compression-is-impossible/
 
+http://www.oldskool.org/pc/lz4_8088
+* https://news.ycombinator.com/item?id=14381669
+
+https://arxiv.org/abs/1607.04346
+* https://news.ycombinator.com/item?id=14333882
+
 ## Tools
 https://www.7-zip.org/download.html
 

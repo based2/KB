@@ -1,16 +1,32 @@
-https://www.qgis.org/en/site/
+https://www.qgis.org/
 
-https://postgis.net/
+http://www.openjump.org/
 
 http://geoserver.org/
 
 https://www.openstreetmap.com/
 -> cert issue
 
+https://github.com/ptabriz/FOSS4G_workshop
 
-https://minecraft.geoportail.lu/
+https://tilemill-project.github.io/tilemill/
+* https://news.ycombinator.com/item?id=14734589
 
-https://eng.uber.com/nebulagl/
+https://www.opendronemap.org/
+
+https://github.com/SNCFdevelopers/Pypixgrid
+
+# Tiles cache
+https://nzjrs.github.io/osm-gps-map/
+
+
+# Database
+https://postgis.net/
+http://blog.cleverelephant.ca/2017/09/postgis-operators.html
+
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+https://github.com/simonepri/geo-maps
 
 # Data
 https://www.nirsoft.net/utils/cports.html#DownloadLinks
@@ -18,12 +34,20 @@ https://www.nirsoft.net/utils/cports.html#DownloadLinks
 https://www.ltonetwork.com/use-cases/un-land-registry/
 * https://news.ycombinator.com/item?id=26958524
 
+https://aws.amazon.com/en/earth/
+* https://news.ycombinator.com/item?id=15629308
+
 ## Space
 https://mars26.com/
 * https://news.ycombinator.com/item?id=26965583
 
 # 3d
 https://cesium.com/blog/2021/03/30/cesium-for-unreal-now-available/
+
+# view
+openstreetcam.org/map/
+* https://github.com/openstreetcam/android/
+* https://play.google.com/store/apps/details?id=com.telenav.streetview
 
 # Tools
 https://giansegato.com/essays/how-i-beat-the-berlin-rental-market-with-a-python-script/
@@ -37,6 +61,15 @@ https://github.com/maplibre/maplibre-gl-js
 # ASCII
 https://github.com/rastapasta/mapscii
 * https://news.ycombinator.com/item?id=27042629
+
+
+#
+https://minecraft.geoportail.lu/
+
+https://eng.uber.com/nebulagl/
+
+# Maps
+https://www.openrailwaymap.org/
 
 # News
 https://news.ycombinator.com/item?id=26918259

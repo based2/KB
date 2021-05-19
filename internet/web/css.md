@@ -21,6 +21,10 @@ https://yuanchuan.dev/2018/05/06/unicode-patterns.html
 
 https://ishadeed.com/article/say-hello-to-css-container-queries/
 
+https://maxbittker.com/user-styles
+
+https://csstriggers.com/
+
 # Tailwind
 https://www.tailwind-tools.com/
 https://tailwindcss.com/docs/just-in-time-mode
@@ -35,7 +39,9 @@ http://larsenwork.com/easing-gradients/
 
 https://www.virtuosoft.eu/tools/css-gradient-generator/
 
-## Grid
+https://webkul.github.io/coolhue/
+
+## Grid Layout
 
 https://grid.layoutit.com/
 * https://news.ycombinator.com/item?id=17618059
@@ -48,8 +54,16 @@ https://split.js.org/#/split-grid
 
 https://flexbox.help/
 
+http://vudav.github.io/flexbox-cheatsheet/
+* https://news.ycombinator.com/item?id=14483429
+
 https://split.js.org/#/split-grid
 * https://news.ycombinator.com/item?id=27048269
+
+https://grid.malven.co/
+
+https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4
+* https://news.ycombinator.com/item?id=16029987
 
 #
 
@@ -104,10 +118,17 @@ https://codepen.io/miocene/pen/WJRXVg
 # Errors
 https://wiki.csswg.org/ideas/mistakes
 
-# old school
+# Old School
 https://jdan.github.io/98.css/
 * https://news.ycombinator.com/item?id=22940564
 * https://news.ycombinator.com/item?id=26662617
 
+# History
+## Flex layout
+https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
+* https://news.ycombinator.com/item?id=27180183
+
 # News
+https://css-tricks.com/say-hello-to-css-container-queries/
+* https://github.com/marcj/css-element-queries
 https://bkardell.com/blog/canihas.html

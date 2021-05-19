@@ -16,5 +16,12 @@ https://tools.ietf.org/html/rfc7807
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015
 https://en.wikipedia.org/wiki/HTTP_response_splitting
 
+https://datatracker.ietf.org/doc/html/rfc8188
+
+# HTTP/2
+
+https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt
+* https://news.ycombinator.com/item?id=27174348
+
 # HTTP/3
 https://blog.cloudflare.com/http3-the-past-present-and-future/

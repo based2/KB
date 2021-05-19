@@ -16,6 +16,9 @@ https://tools.ietf.org/id/draft-pouwelse-trustchain-01.html
 https://www.tomshardware.com/news/chia-500-percent-increase-adata-high-capacity-ssd-sales
 * https://news.ycombinator.com/item?id=27009843
 
+https://blog.ethereum.org/2021/05/18/country-power-no-more/
+* https://news.ycombinator.com/item?id=27194586
+
 # Ledger
 https://www.hyperledger.org/
 
@@ -31,6 +34,8 @@ https://txstreet.com/v/btc-eth
 https://www.zeroknowledgeblog.com/index.php/zk-snarks
 
 # News
+https://github.com/firmalabs/zmsg
+* https://news.ycombinator.com/item?id=27191568
 https://blockcrunch.co/2021/05/14/unstoppable-domains-crypto-names-are-now-available-on-brave-browser/
 https://www.zdnet.com/article/microsoft-is-shutting-down-its-azure-blockchain-service/
 * https://news.ycombinator.com/item?id=27140292

@@ -3,6 +3,8 @@ https://sudhir.io/the-big-little-guide-to-message-queues/
 
 # RabbitMQ
 https://derickbailey.com/2016/03/28/dealing-with-dead-letters-and-poison-messages-in-rabbitmq/
+https://www.erlang-solutions.com/blog/how-to-use-rabbitmq-in-service-integration/
+* https://news.ycombinator.com/item?id=27182060
 
 # Kafka
 https://github.com/kattlo/kattlo-cli
@@ -10,6 +12,8 @@ https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/
 https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/
 
 https://github.com/obsidiandynamics/kafdrop
+
+https://www.morling.dev/blog/exploring-zookeeper-less-kafka/
 
 ## Zookeeper
 https://github.com/vran-dev/PrettyZoo

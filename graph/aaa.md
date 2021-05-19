@@ -1,17 +1,35 @@
-https://gephi.org/
-
-https://age.apache.org/#
-
 https://egraphs-good.github.io/
 * https://news.ycombinator.com/item?id=26587209
-
-https://github.com/nidi3/graphviz-java
 
 https://www.researchgate.net/publication/221150620_Dag_Realizations_of_Directed_Degree_Sequences
 http://patshaughnessy.net/2017/12/12/installing-the-postgres-ltree-extension
 
 https://www.linkedin.com/pulse/postgresql-oracle-graph-query-language-standards-adoption-green
 
-http://janusgraph.org/
+https://bl.ocks.org/colbenkharrl/21b3808492b93a21de841bc5ceac4e47
+
+https://vaibhavsagar.com/blog/2017/06/10/dag-toolkit/
+
+# Draw
+https://github.com/nidi3/graphviz-java
 
 https://github.com/Netflix/vizceral
+
+https://mikedombo.github.io/graphPlayground/
+* https://news.ycombinator.com/item?id=15835999
+
+http://www.graphviz.org/Documentation/TSE93.pdf
+
+# Visu
+https://gephi.org/
+https://ssw.jku.at/General/Staff/TW/igv.html
+
+# Database
+https://age.apache.org/# Postgresql
+
+http://janusgraph.org/
+
+
+
+
+# Language

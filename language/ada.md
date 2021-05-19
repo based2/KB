@@ -8,6 +8,8 @@ https://en.wikipedia.org/wiki/GNAT
 
 https://blog.adacore.com/on-the-benefits-of-families
 
+https://blog.vacs.fr/vacs/blogs/post.html?post=2017/10/08/Generating-a-REST-Ada-client-with-OpenAPI-and-Swagger-Codegen
+
 # Ada++
 http://www.adapplang.com/
 

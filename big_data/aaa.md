@@ -33,6 +33,19 @@ https://uima.apache.org/
 #
 https://github.com/Netflix/metaflow
 
+# ENgine
+https://www.verizonmedia.com/press/open-sourcing-vespa-yahoo-s-big-data-processing-and-serving-eng/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAD_IuG3k-hjEefXlwFdfvIbvlzSxEI0-ro5FXcg1NZQgPPkRI0XV7oLdNdyTaq0JU_ph8QNbAPjwJgujZE930UqcjBLtHQDVrTgsE9wLgd6dVM5bRZdhzFG5ADo0IJnytNlfgvHMMTew6KtR18vLFzXTTb735TZjhBTGOuJ0CGwF vespa yahoo
+
+# Language
+https://github.com/grailbio/reflow incremental data processing in the cloud
+* https://news.ycombinator.com/item?id=27191360
+
+# Format
+https://daffodil.apache.org/docs/dfdl/
+
+#
+https://github.com/diachron
+
 # Books
 https://github.com/pablo14/data-science-live-book
 

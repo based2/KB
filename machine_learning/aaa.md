@@ -62,6 +62,8 @@ https://kobra.dev/
 https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c
 * https://news.ycombinator.com/item?id=26891227
 
+https://en.wikipedia.org/wiki/Temporal_difference_learning
+
 # Limits
 https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do
 * https://news.ycombinator.com/item?id=26646541
@@ -71,6 +73,9 @@ https://hal.archives-ouvertes.fr/hal-01918271/file/Why_is_the_transference_theor
 https://www.thenewatlantis.com/publications/correlation-causation-and-confusion
 
 https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html
+
+https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
+* https://news.ycombinator.com/item?id=27188854
 
 # News
 https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making

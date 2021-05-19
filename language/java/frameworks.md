@@ -11,6 +11,8 @@ https://boudhayan-dev.medium.com/demystifying-spring-security-setup-e0491acc7df7
 
 https://itnext.io/secures-rest-apis-with-spring-security-5-and-auth0-41d579ca1e27
 
+https://www.toptal.com/java/spring-boot-rest-api-error-handling
+
 # Quarkus
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
 https://quarkus.io/blog/magic-control/ vertx
@@ -31,10 +33,13 @@ https://stackoverflow.com/questions/49775238/vertx-web-server-uses-only-one-even
 
 # Tapestry
 https://tapestry.apache.org/
+https://github.com/anjlab/anjlab-tapestry-commons/tree/master/anjlab-tapestry-config
 
 
 https://github.com/vadimv/rsp Reactive Server Pages project enables a Java developer to create real-time single-page applications and UI components with server-side HTML rendering.
 
 # 
+https://www.jolie-lang.org/ The service-oriented programming language (Java 8+, GPLv2)
+
 https://jodd.org/
 * https://news.ycombinator.com/item?id=9278704

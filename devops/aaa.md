@@ -1,3 +1,5 @@
+https://zwischenzugs.com/2020/11/30/gitops-decisions/
+
 https://blog.spinnaker.io/managed-delivery-evolving-continuous-delivery-at-netflix-eb74877fb33c
 
 https://worklifenotes.com/2020/06/04/7-best-practices-modern-cicd/
@@ -70,6 +72,9 @@ https://guix.gnu.org/en/cuirass/
 # CD
 
 https://news.ycombinator.com/item?id=26872904
+
+https://github.com/lesfurets/git-octopus
+
 
 # News
 https://about.gitlab.com/blog/2021/05/04/gitlabs-2021-survey-uncovers-a-new-devops-maturity-model/

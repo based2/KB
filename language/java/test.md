@@ -1,6 +1,7 @@
 # Unit tests
 https://junit.org/junit5/
 https://joel-costigliola.github.io/assertj/
+https://joel-costigliola.github.io/assertj/assertj-assertions-generator.html#philosophy
 
 https://maven.apache.org/surefire/maven-surefire-plugin/
 
@@ -12,6 +13,8 @@ https://github.com/intuit/karate
 * https://news.ycombinator.com/item?id=24176433
 
 https://stefanbirkner.github.io/system-rules/
+
+https://github.com/goldmansachs/tablasco Adds table verification to your unit tests
 
 ## Mock
 https://maxxedev.github.io/2021/03/07/mocking-static-methods-and-constructors-with-mockito.html
@@ -27,6 +30,9 @@ https://citrusframework.org/projects/
 
 # UI tests
 https://www.selenium.dev/documentation/en/
+
+https://github.com/machinepublishers/jbrowserdriver
+* https://news.ycombinator.com/item?id=14771595
 
 https://htmlunit.sourceforge.io/
 

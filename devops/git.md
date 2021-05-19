@@ -35,8 +35,11 @@ https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow
 
 https://github.com/gitflow-incremental-builder/gitflow-incremental-builder
 
-##
+## Trunk based
 https://trunkbaseddevelopment.com/
+
+https://commonflow.org/spec/1.0.0-rc.5.html
+* https://news.ycombinator.com/item?id=13925213
 
 https://blog.brixit.nl/git-email-flow-versus-github-flow/
 * https://news.ycombinator.com/item?id=26629765
@@ -44,6 +47,9 @@ https://blog.brixit.nl/git-email-flow-versus-github-flow/
 https://devblogs.microsoft.com/devops/release-flow-how-we-do-branching-on-the-vsts-team/
 
 http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/concepts/phase_milestones_5678231E.html
+
+https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/
+* https://lobste.rs/s/moamfx/branching_strategy_simpler_than_gitflow
 
 # Cleanup
 https://blog.frankel.ch/git-cleanup/
@@ -79,6 +85,12 @@ https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
 https://goiabada.blog/git-tricks-avoid-solving-the-same-rebase-conflict-multiple-times-9a3afbcf1d22
 
 https://hal.inria.fr/hal-01112795/document HAL Id: hal-01112795https://hal.inria.fr/hal-01112795Submitted on 3 Feb 2015HALis a multi-disciplinary open accessarchive for the deposit and dissemination of sci-entific research documents, whether they are pub-lished or not. The documents may come fromteaching and research institutions in France orabroad, or from public or private research centers.L’archive ouverte pluridisciplinaireHAL, estdestinée au dépôt et à la diffusion de documentsscientifiques de niveau recherche, publiés ou non,émanant des établissements d’enseignement et derecherche français ou étrangers, des laboratoirespublics ou privés.An Effective Git And Org-Mode Based Workflow ForReproducible Research
+
+https://github.blog/2017-10-13-stretching-spokes/
+
+# Hash ID
+https://blog.plover.com/prog/git-rev-parse.html
+* https://www.reddit.com/r/git/comments/7gzk3b/git_psa_gitrevparse/
 
 ## Signature
 https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit-prove

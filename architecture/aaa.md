@@ -53,6 +53,10 @@ https://en.wikipedia.org/wiki/Amdahl%27s_law
 
 http://www.brendangregg.com/usemethod.html
 
+# Microservice
+https://microservices.io/patterns/
+* https://news.ycombinator.com/item?id=16014278
+
 # News
 https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf
 

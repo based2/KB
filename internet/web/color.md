@@ -23,6 +23,8 @@ https://martinanderson.substack.com/p/relighting-and-color-grading-with
 https://www.paletter.app/
 * https://news.ycombinator.com/item?id=26956105
 
+https://medium.com/game-dev-daily/the-srgb-learning-curve-773b7f68cf7a
+
 # Monochrome
 https://news.ycombinator.com/item?id=26934352
 

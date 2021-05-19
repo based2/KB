@@ -8,3 +8,10 @@ https://www.flightgear.org/
 https://www.widelands.org/
 
 https://www.beyondallreason.info/ RTS
+
+https://osgameclones.com/
+* https://news.ycombinator.com/item?id=15468487
+
+# Emulator
+https://www.scummvm.org/
+

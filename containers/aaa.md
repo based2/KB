@@ -20,6 +20,12 @@ https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/
 https://fly.io/blog/measuring-fly/
 * https://news.ycombinator.com/item?id=27147482
 
+https://katacontainers.io/
+* https://news.ycombinator.com/item?id=15867822
+
+# Perf
+https://github.com/google/cadvisor
+
 # News
 https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/
 https://github.com/cncf/foundation/blob/master/agpl-recommendations.md

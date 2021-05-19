@@ -30,8 +30,14 @@ https://probprog.github.io/anglican/index.html A Probabilistic Programming Syste
 
 https://github.com/IBM/Project_CodeNet
 
+https://syndicate-lang.org/ Syndicated Actor model
+
+https://eng.uber.com/pyro/
+* https://news.ycombinator.com/item?id=15637329
+
 # Exotic
 https://github.com/iAmGio/pikt
 https://www.dangermouse.net/esoteric/piet.html
+https://hexagony.net/about.html
 
 https://codegolf.stackexchange.com/questions/607/find-the-factorial/629#629

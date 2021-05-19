@@ -24,6 +24,12 @@ https://docs.slackware.com/slackware:philosophy
 * https://news.ycombinator.com/item?id=26990734
 
 # Exotic
+http://www.popcornlinux.org/
+* https://news.ycombinator.com/item?id=14605882
+
+http://gittup.org/gittup/
+* https://news.ycombinator.com/item?id=16015105
+
 https://news.ycombinator.com/item?id=26002251 https://www.gobolinux.org/
  redefines the entire filesystem hierarchy.
  In GoboLinux you don't need a package database because

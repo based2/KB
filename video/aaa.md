@@ -34,6 +34,8 @@ https://kdenlive.org/en/2021/04/kdenlive-21-04-released/
 https://extemporelang.github.io/
 * https://news.ycombinator.com/item?id=27022636
 
+https://www.openshot.org/
+
 # Archive
 https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-free-online-thanks-to-the-korean-film-archive.html
 * https://news.ycombinator.com/item?id=27055866

@@ -23,3 +23,18 @@ https://tools.ietf.org/html//rfc7493 i-json
 
 https://golb.hplar.ch/2019/01/js-bigint-json.html
 
+https://programminghistorian.org/en/lessons/json-and-jq
+
+https://github.com/owasp/json-sanitizer
+
+https://jsonapi.org/
+
+https://github.com/seagreen/Son#son
+* r/programming/comments/5zdqag/rfc_son_a_subset_of_json_for_machinetomachine/
+* https://news.ycombinator.com/item?id=15890904
+
+https://johnzon.apache.org/
+
+https://jsonfeed.micro.blog/2017/05/17/announcing-json-feed.html
+* https://news.ycombinator.com/item?id=14360729
+

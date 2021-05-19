@@ -13,6 +13,8 @@ http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html
 https://www.opal-project.de/ Analyzing and engineering Java bytecode
 * https://github.com/opalj/opal
 
+http://scala-graph.org/
+
 # Frameworks
 https://www.playframework.com/
 
