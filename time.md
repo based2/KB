@@ -43,6 +43,8 @@ https://www.javaspecialists.eu/talks/jfokus13/PhaserAndStampedLock.pdf
 
 # NTP
 
+# Sync
+https://muratbuffalo.blogspot.com/2021/03/sundial-fault-tolerant-clock.html
 
 # Distributed
 https://www.siddharthsarda.com/p/time-in-distributed-systems

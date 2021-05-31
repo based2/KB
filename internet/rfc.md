@@ -10,3 +10,9 @@ https://tools.ietf.org/html/rfc1
 * https://news.ycombinator.com/item?id=26721377
 
 https://mailarchive.ietf.org/arch/msg/cfrg/bgtU9USX4iPGsryrCayfQle4gZ8/
+
+https://rfc.fyi/
+* https://news.ycombinator.com/item?id=27336584
+
+https://www.fastly.com/blog/quic-is-now-rfc-9000
+* https://news.ycombinator.com/item?id=27310349

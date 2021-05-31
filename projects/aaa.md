@@ -15,6 +15,8 @@ http://bawiki.com/wiki/Waterfall.html
 https://www.pmi.org/learning/library/modern-agile-approach-initiate-contract-6541
 https://agilemanifesto.org/
 
+https://codingsans.com/blog/self-managed-teams
+* https://news.ycombinator.com/item?id=27207107
 
 ## Scrum
 https://scrumguides.org/

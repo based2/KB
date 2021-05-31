@@ -9,6 +9,8 @@ https://shipilev.net/jvm/anatomy-quarks/15-just-in-time-constants/
 
 https://github.com/deephacks/awesome-jvm
 
+https://kstefanj.github.io/2021/05/19/large-pages-and-java.html
+
 # GC
 https://inside.java/2020/06/25/compact-forwarding/
 * https://news.ycombinator.com/item?id=23700451

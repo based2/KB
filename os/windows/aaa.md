@@ -48,3 +48,9 @@ https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20M
 
 # WSL
 https://devblogs.microsoft.com/commandline/wslg-architecture/
+https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10
+
+# News
+https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed
+* https://news.ycombinator.com/item?id=27198085
+  * https://techcommunity.microsoft.com/t5/networking-blog/algorithmic-improvements-boost-tcp-performance-on-the-internet/ba-p/2347061

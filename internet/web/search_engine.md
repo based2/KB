@@ -42,6 +42,8 @@ https://hn.algolia.com/
 https://deephn.org/
 
 # News
+https://ninfex.com/hello
+* https://news.ycombinator.com/item?id=27316752
 https://aws.amazon.com/en/blogs/opensource/introducing-opensearch/
 * https://opensearch.org/
 * https://news.ycombinator.com/item?id=26780848

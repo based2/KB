@@ -25,6 +25,7 @@ https://news.ycombinator.com/item?id=20876248 	Google’s GDPR Workaround
 https://danlebrero.com/2018/04/11/kafka-gdpr-event-sourcing/
 * https://news.ycombinator.com/item?id=16825783
 
+https://blog.ostraca.fr/quest-ce-quune-donnee-personnelle-et-quelles-sont-les-exigences-qui-lentoure/
 
 https://amnesia.openaire.eu/
 
@@ -32,15 +33,19 @@ https://blog.grakn.ai/grakn-ai-to-manage-gdpr-f10cd36539b9
 
 https://community.spiceworks.com/topic/2007530-how-the-eu-can-fine-us-companies-for-violating-gdpr
 
+https://noyb.eu/en/noyb-aims-end-cookie-banner-terror-and-issues-more-500-gdpr-complaints
+* https://news.ycombinator.com/item?id=27340769
+
 # Users
 https://privacybot.io/
 * https://news.ycombinator.com/item?id=27146828
   * https://github.com/privacybot-berkeley/privacybot
 
-# Bpok
-https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
+https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.avg.com/en-us/products-policy#antivirus0
+* https://news.ycombinator.com/item?id=27334548
 https://www.datatilsynet.no/en/news/2021/intent-to-issue--25-million-fine-to-disqus-inc/
 * https://news.ycombinator.com/item?id=27060609
 https://edpb.europa.eu/news/national-news/2021/easy-privacy-information-icons-yes-you-can-italian-dpa-launches-contest_en

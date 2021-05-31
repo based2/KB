@@ -18,6 +18,8 @@ https://www.npr.org/sections/health-shots/2012/09/18/161159263/teachers-expectat
 
 https://www.wikibooks.org/
 
+https://learn.circuitverse.org/
+
 # Manuals
 
 https://manuzoid.com/

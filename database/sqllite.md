@@ -41,9 +41,15 @@ https://github.com/lana-k/sqliteviz
 https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite
 * https://news.ycombinator.com/item?id=27175284
 
+# Dataset
+http://2016.padjo.org/tutorials/sqlite-data-starterpacks/
+* https://news.ycombinator.com/item?id=27324669
+
 # HA
 https://dqlite.io/ Canonical
 https://github.com/rqlite/rqlite/
+
+https://github.com/tezc/resql Java
 
 # News
 https://github.com/joaoh82/rust_sqlite

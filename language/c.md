@@ -8,3 +8,6 @@ https://github.com/git/git/blob/master/banned.h
 https://www.kernel.org/doc/html/v4.10/process/coding-style.html
 
 https://compcert.org/
+
+https://github.com/Battelle/movfuscator
+* https://news.ycombinator.com/item?id=27202801

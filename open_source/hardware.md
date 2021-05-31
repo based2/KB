@@ -23,22 +23,17 @@ https://j-core.org/
 
 https://fires.im/
 
-# RISC-V
-
-https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/
-* https://news.ycombinator.com/item?id=26946993
-
-http://guillaume.baierouge.fr/2021/04/23/simulating-digital-circuits-in-racket/a-risc-v-core-in-racket/index.html
-* https://news.ycombinator.com/item?id=26990615
-
-https://erik-engheim.medium.com/arm-vs-risc-v-vector-extensions-992f201f402f
-* https://news.ycombinator.com/item?id=27063748
+# ASIC
+https://github.com/olofk/fusesoc
 
 # Video
 https://github.com/schlae/graphics-gremlin ISA
 * https://news.ycombinator.com/item?id=27171100
 
 # Product
+https://openflexure.org/projects/microscope/
+* https://news.ycombinator.com/item?id=27216452
+
 https://www.numworks.com/
 * https://news.ycombinator.com/item?id=27126926
 

@@ -20,6 +20,14 @@ https://robert.ocallahan.org/2017/12/maintaining-independent-browser-is.html
 https://intoli.com/blog/firefox-extensions-with-selenium/
 
 # News
+https://github.com/livewire-ui/spotlight/issues/25
+* https://news.ycombinator.com/item?id=27313284
+https://nyxt.atlas.engineer/article/release-2.0.0.org
+* https://news.ycombinator.com/item?id=27219646
+https://bugs.chromium.org/p/chromium/issues/detail?id=914451#c139 autofill
+https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/
+* https://news.ycombinator.com/item?id=27196526
+ * https://hacks.mozilla.org/2021/05/introducing-firefox-new-site-isolation-security-architecture/
 https://blog.linuxserver.io/2021/05/05/meet-webtops-a-linux-desktop-environment-in-your-browser/
 * https://news.ycombinator.com/item?id=27072981
 https://infrequently.org/2021/04/progress-delayed/

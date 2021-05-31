@@ -1,3 +1,14 @@
+https://swordbytes.com/blog/security-advisory-overwolf-1-click-remote-code-execution-cve-2021-33501/
+
+M1RACLES
+https://go.reg.cx/twdml/52107/60d910ff/8c7802e7/3ZQr
+* https://www.theregister.com/2021/05/27/apple_m1_chip_bug/
+  * ttps://developer.arm.com/documentation/102412/0100/Privilege-and-Exception-levels
+
+https://the-deniss.github.io/posts/2021/05/17/discovering-and-exploiting-mcafee-com-objects.html
+
+https://unparalleled.eu/blog/2021/20210518-using-xterm-to-navigate-the-huge-color-space/
+
 https://news.ycombinator.com/item?id=27192997
 
 https://www.sciencedirect.com/science/article/pii/S266628172100007X android

@@ -6,6 +6,8 @@ https://infrequently.org/2020/06/platform-adjacency-theory/
 https://web.dev/compat2021/
 
 # SEO
+https://news.ycombinator.com/item?id=27315208
+
 ## robot.txt
 https://www.robotstxt.org/
 https://news.ycombinator.com/item?id=26807738

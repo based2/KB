@@ -40,3 +40,18 @@ https://web.dev/vitals/
 # Theme
 https://www.nordtheme.com/
 * https://news.ycombinator.com/item?id=26693410
+
+https://material.io/blog/announcing-material-you
+* https://news.ycombinator.com/item?id=27204720
+
+#  UX
+https://uxmovement.com/
+
+https://yifaneye.github.io/react-gallery-carousel/
+* https://github.com/yifaneye/react-gallery-carousel#what-problems-do-other-carousels-have
+
+# Test
+https://storybook.js.org/blog/how-to-actually-test-uis/
+
+https://cantunsee.space/
+* https://news.ycombinator.com/item?id=27188989

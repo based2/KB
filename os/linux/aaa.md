@@ -40,6 +40,10 @@ https://librecmc.org/
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # News
+https://landlock.io/
+* https://news.ycombinator.com/item?id=27215563
+http://0pointer.net/blog/file-descriptor-limits.html
+* https://news.ycombinator.com/item?id=27215690
 https://github.com/jart/cosmopolitan/releases/tag/1.0
 * https://news.ycombinator.com/item?id=27180182
 https://alpinelinux.org/conf/

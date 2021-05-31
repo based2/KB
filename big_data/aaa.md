@@ -33,8 +33,10 @@ https://uima.apache.org/
 #
 https://github.com/Netflix/metaflow
 
-# ENgine
+# Engine
 https://www.verizonmedia.com/press/open-sourcing-vespa-yahoo-s-big-data-processing-and-serving-eng/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAD_IuG3k-hjEefXlwFdfvIbvlzSxEI0-ro5FXcg1NZQgPPkRI0XV7oLdNdyTaq0JU_ph8QNbAPjwJgujZE930UqcjBLtHQDVrTgsE9wLgd6dVM5bRZdhzFG5ADo0IJnytNlfgvHMMTew6KtR18vLFzXTTb735TZjhBTGOuJ0CGwF vespa yahoo
+
+http://parquet.apache.org/documentation/latest/
 
 # Language
 https://github.com/grailbio/reflow incremental data processing in the cloud
@@ -45,6 +47,10 @@ https://daffodil.apache.org/docs/dfdl/
 
 #
 https://github.com/diachron
+
+https://griffin.apache.org/ Big Data Quality Solution For Batch and Streaming
+
+https://apifriends.com/api-streaming/open-source-apache-big-data-projects/
 
 # Books
 https://github.com/pablo14/data-science-live-book
@@ -65,9 +71,16 @@ https://getfedora.org/en/coreos?stream=stable
 https://github.com/joouha/euporie
 * https://news.ycombinator.com/item?id=27091167
 
+https://github.com/jtpio/jupyterlite JupyterLite – WASM-powered Jupyter running in the browser
+* https://news.ycombinator.com/item?id=27323548
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 * https://news.ycombinator.com/item?id=27145515
+
+##
+http://zeppelin.apache.org/
+
 
 ## Mito - Python  Panda
 https://towardsdatascience.com/introducing-mito-how-to-generate-pandas-code-while-editing-a-spreadsheet-96cf874b70c2

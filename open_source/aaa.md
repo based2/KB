@@ -105,7 +105,24 @@ https://alerta.io/
 https://github.com/everestpipkin/tools-list
 * https://news.ycombinator.com/item?id=26821306
 
+# UI
+https://pointieststick.com/2021/05/28/this-week-in-kde-performance-improvements-galore/
+
+# Fediverse
+https://fediverse.party/en/miscellaneous
+* https://news.ycombinator.com/item?id=27009468
+
+https://joinmobilizon.org/en/
+
 # News
+https://librefoodpantry.org/
+* https://news.ycombinator.com/item?id=27317709
+https://foss-north.se/2021/
+* https://news.ycombinator.com/item?id=27341518
+https://schleiss.io/plotting-source-code-todos-for-open-source-projects
+https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/
+* https://news.ycombinator.com/item?id=27163388
+https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/
 https://justpaste.it/39hat WhatFreeWords
 https://www.scoringnotes.com/news/muse-group-formed-to-support-musescore-ultimate-guitar-acquires-audacity/
 * https://news.ycombinator.com/item?id=27004688
@@ -126,16 +143,4 @@ https://www.wikimedia.fr/site-du-musee-du-louvre-refonte-entravee-par-la-politiq
 
 https://ma.tt/2021/04/wix-dirty-tricks/
 * https://news.ycombinator.com/item?id=26728471
-
-# Fediverse
-https://fediverse.party/en/miscellaneous
-* https://news.ycombinator.com/item?id=27009468
-
-https://joinmobilizon.org/en/
-
-# News
-https://schleiss.io/plotting-source-code-todos-for-open-source-projects
-https://www.paulox.net/2021/05/12/floss-and-linguistic-diversity/
-* https://news.ycombinator.com/item?id=27163388
-https://www.baldurbjarnason.com/2021/the-oss-bubble-and-the-blogging-bubble/
 

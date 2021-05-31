@@ -16,6 +16,11 @@ http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 #
 https://incolumitas.com/2021/03/13/tcp-ip-fingerprinting-for-vpn-and-proxy-detection/
 
+
+# Voice over IP
+https://www.cse.wustl.edu/~jain/cis788-99/ftp/voip_protocols/
+* https://news.ycombinator.com/item?id=27323442
+
 # News
 https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/
 * https://news.ycombinator.com/item?id=26924883

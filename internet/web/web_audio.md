@@ -21,3 +21,5 @@ https://www.sequencer64.com/sequencer/session
 * https://github.com/drumnickydrum/sequencer64
 
 https://github.com/bignimbus/trombone.js
+* https://news.ycombinator.com/item?id=27207250
+  * https://dood.al/pinktrombone/

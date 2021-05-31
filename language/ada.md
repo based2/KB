@@ -10,6 +10,10 @@ https://blog.adacore.com/on-the-benefits-of-families
 
 https://blog.vacs.fr/vacs/blogs/post.html?post=2017/10/08/Generating-a-REST-Ada-client-with-OpenAPI-and-Swagger-Codegen
 
+# GNAT
+https://www.adacore.com/download
+* https://news.ycombinator.com/item?id=27313294
+
 # Ada++
 http://www.adapplang.com/
 

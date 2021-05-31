@@ -58,6 +58,7 @@ http://john.ankarstrom.se/html/
 
 https://docs.slatejs.org/
 
+https://github.com/michelson/dante
 
 https://en.wikipedia.org/wiki/Markdown
 
@@ -80,3 +81,7 @@ https://en.wikipedia.org/wiki/Dynamic_HTML
 https://remaketheweb.com/
 * https://news.ycombinator.com/item?id=27148097
 * https://github.com/remake/remake-framework
+
+# Parser
+https://htmlparser.info/
+* https://news.ycombinator.com/item?id=27311627

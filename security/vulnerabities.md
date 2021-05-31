@@ -24,6 +24,10 @@ https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflo
 * https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit
 
 # 2020
+* https://www.fragattacks.com/ wifi
+  * https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/
+    * https://news.ycombinator.com/item?id=27329678
+    * https://wiki.mozilla.org/Trusted_Recursive_Resolver
 * https://lwn.net/Articles/834297/ BleedingTooth
 
 # 2019
@@ -37,6 +41,7 @@ https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflo
 * https://en.wikipedia.org/wiki/SigSpoof GPG
 * https://en.wikipedia.org/wiki/TLBleed speculative execution
 * https://en.wikipedia.org/wiki/Lazy_FP_state_restore
+* https://github.com/xoreaxeaxeax/rosenbridge https://en.wikipedia.org/wiki/Alternate_Instruction_Set
 
 ## 2017
 * https://robotattack.org/

@@ -3,6 +3,9 @@ https://removebackground.app/
 
 https://www.photopea.com/ Ads
 
+# Crop
+
+
 # Resize
 ## Seam carving
 https://www.youtube.com/watch?v=rpB6zQNsbQU

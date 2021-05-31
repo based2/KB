@@ -28,12 +28,18 @@ http://eradman.com/ephemeralpg/
 
 https://elephant-shed.io/
 
+https://www.cybertec-postgresql.com/en/postgresql-detecting-slow-queries-quickly/
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
 # Debug
 https://iamsafts.com/posts/postgres-gin-performance/
 * https://news.ycombinator.com/item?id=27152507
+
+https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/
+
+https://dev.to/jbranchaud/beware-the-missing-foreign-key-index-a-postgres-performance-gotcha-3d5i
 
 # Index
 http://leopard.in.ua/2015/04/13/postgresql-indexes/
@@ -62,12 +68,15 @@ https://github.com/djrobstep/migra
 
 https://blog.discourse.org/2021/04/standing-on-the-shoulders-of-a-giant-elephant/
 
+https://www.paulox.net/2021/05/28/upgrading-postgresql-from-version-12-to-13-on-ubuntu-21-04-focal-fossa/
 
 # Container
 https://www.kubegres.io/
 * https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/
 
 # News
+https://www.postgresql.org/about/news/postgresql-14-beta-1-released-2213/
+* https://news.ycombinator.com/item?id=27220725
 https://www.postgresql.org/about/news/postgresql-133-127-1112-1017-and-9622-released-2210/
 https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=1e55e7d1755cefbb44982fbacc7da461fa8684e6
 * https://news.ycombinator.com/item?id=26756568

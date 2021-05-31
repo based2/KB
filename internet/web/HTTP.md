@@ -25,3 +25,4 @@ https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt
 
 # HTTP/3
 https://blog.cloudflare.com/http3-the-past-present-and-future/
+https://blog.eban.bzh/misc/http3.html

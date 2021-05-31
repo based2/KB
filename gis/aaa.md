@@ -23,6 +23,8 @@ https://nzjrs.github.io/osm-gps-map/
 # Database
 https://postgis.net/
 http://blog.cleverelephant.ca/2017/09/postgis-operators.html
+http://blog.cleverelephant.ca/2021/05/postgis-20-years.html
+* https://news.ycombinator.com/item?id=27344639
 
 https://www.gaia-gis.it/fossil/libspatialite/index
 

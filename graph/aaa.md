@@ -24,6 +24,9 @@ http://www.graphviz.org/Documentation/TSE93.pdf
 https://gephi.org/
 https://ssw.jku.at/General/Staff/TW/igv.html
 
+# Analysis
+https://github.com/cassinius/graphinius Generic graph (analysis) library in Typescript
+
 # Database
 https://age.apache.org/# Postgresql
 
@@ -33,3 +36,7 @@ http://janusgraph.org/
 
 
 # Language
+
+# Algo
+https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
+* https://news.ycombinator.com/item?id=27294401

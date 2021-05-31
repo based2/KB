@@ -12,7 +12,10 @@ https://fly.io/blog/docker-without-docker/
 https://blog.alexellis.io/get-a-tls-enabled-docker-registry-in-5-minutes/
 https://www.docker.com/blog/changing-how-updates-work-with-docker-desktop-3-3/  
 
-# Bet pratices
+https://vsupalov.com/rebuilding-docker-image-development/
+* https://news.ycombinator.com/item?id=27343933
+
+# Best practices
 https://github.com/radial
 radial/busyboxplus
 

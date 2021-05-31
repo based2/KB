@@ -19,6 +19,9 @@ https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/
 
 https://elixir-lang.org/blog/2017/10/31/stream-data-property-based-testing-and-data-generation-for-elixir/
 
+https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/
+* https://news.ycombinator.com/item?id=27206656
+
 # Gleam
 https://gleam.run/
 https://gleam.run/news/gleam-v0.15-released/

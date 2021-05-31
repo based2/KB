@@ -16,3 +16,7 @@ https://www.youtube.com/watch?v=wBXabz6q_L4 Carl Meadows - PPM AWS
 * https://punchplatform.com/ Thales
   * https://doc.punchplatform.com/
   * https://doc.punchplatform.com/Contribution_Guide/Contributing.html
+
+
+https://www.reddit.com/r/aws/comments/nn95aq/elastic_has_broken_filebeat_as_of_713_it_no/
+* https://news.ycombinator.com/item?id=27322331

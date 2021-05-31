@@ -30,6 +30,7 @@ https://blog.bejarano.io/hardening-macos/
 * https://news.ycombinator.com/item?id=27067755
 
 # M1
+https://blogs.blackberry.com/en/2021/05/strong-arming-with-macos-adventures-in-cross-platform-emulation
 https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
 * https://news.ycombinator.com/item?id=27133804
 https://blog.svenpeter.dev/posts/m1_sprr_gxf/
@@ -55,5 +56,6 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://appleinsider.com/articles/21/05/24/apples-moves-point-to-a-future-with-no-bootable-backups-says-developer
 https://9to5mac.com/2021/05/18/40-core-mac-pro-high-end-mac-mini-in-development/
 * https://news.ycombinator.com/item?id=27194476

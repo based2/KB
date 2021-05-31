@@ -21,6 +21,9 @@ https://github.com/SimonBlanke/Hyperactive
 
 https://github.com/getkeops/keops gpu
 
+https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
+* https://news.ycombinator.com/item?id=27318942
+
 # Store
 https://feast.dev/
 
@@ -40,6 +43,9 @@ https://gradientscience.org/glm_saga/
 https://www.mattkeeter.com/research/mpr/
 * https://news.ycombinator.com/item?id=26873691
 
+https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html
+* https://news.ycombinator.com/item?id=27212270
+
 
 # GPT
 https://news.ycombinator.com/item?id=26534000
@@ -57,12 +63,26 @@ https://automatingsociety.algorithmwatch.org/
 https://kobra.dev/
 * https://news.ycombinator.com/item?id=27135573
 
+
+https://www.mdpi.com/1424-8220/21/9/2984/htm Quantization and Deployment of Deep Neural Networks on Microcontrollers
+* https://news.ycombinator.com/item?id=27324844
+
 # Books & Papers
 ## Papers
 https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c
 * https://news.ycombinator.com/item?id=26891227
 
 https://en.wikipedia.org/wiki/Temporal_difference_learning
+
+The Elements of Statistical Learning: Data Mining, Inference, and
+Prediction, Second Edition (Springer Series in Statistics)
+
+Deep Learning (Adaptive Computation and Machine Learning series)
+
+Modelling Extremal Events: for Insurance and Finance (Stochastic Modelling and Applied Probability (33))
+
+https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_dp_mb_gw_tr?ie=UTF8
+
 
 # Limits
 https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do
@@ -78,6 +98,9 @@ https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understa
 * https://news.ycombinator.com/item?id=27188854
 
 # News
+https://blog.google/products/search/introducing-mum/
+* https://news.ycombinator.com/item?id=27215653
+  * https://news.ycombinator.com/item?id=27207404
 https://www.gov.uk/government/publications/ethics-transparency-and-accountability-framework-for-automated-decision-making/ethics-transparency-and-accountability-framework-for-automated-decision-making
 https://www.ai.gov/
 * https://news.ycombinator.com/item?id=27048048

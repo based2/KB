@@ -27,6 +27,7 @@ https://katacontainers.io/
 https://github.com/google/cadvisor
 
 # News
+https://www.theregister.com/2021/05/19/aws_introduces_app_runner_google/
 https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/
 https://github.com/cncf/foundation/blob/master/agpl-recommendations.md
 * https://news.ycombinator.com/item?id=27107384

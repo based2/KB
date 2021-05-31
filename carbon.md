@@ -23,6 +23,8 @@ https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capt
 * https://news.ycombinator.com/item?id=27034988
 
 # News
+https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560
+* https://news.ycombinator.com/item?id=27318588
 https://newatlas.com/environment/high-hopes-carbon-capture-balloons/
 https://www.reuters.com/business/sustainable-business/white-house-eyes-subsidies-nuclear-plants-help-meet-climate-targets-sources-2021-05-05/
 * https://news.ycombinator.com/item?id=27049415

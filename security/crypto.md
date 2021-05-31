@@ -1,3 +1,6 @@
+https://en.wikipedia.org/wiki/Known-plaintext_attack
+* https://news.ycombinator.com/item?id=27327659
+
 https://falcon-sign.info/
 
 # AES
@@ -5,6 +8,9 @@ https://falcon-sign.info/
 https://keymaterial.net/2020/09/07/invisible-salamanders-in-aes-gcm-siv/
 https://github.com/MantechUser/aes-finder
 https://blog.elcomsoft.com/2021/04/breaking-rar5-and-7zip-passwords/
+
+## AES-GCM
+https://news.ycombinator.com/item?id=27338479
 
 #
 https://eprint.iacr.org/2021/442

@@ -15,6 +15,9 @@ https://github.com/obsidiandynamics/kafdrop
 
 https://www.morling.dev/blog/exploring-zookeeper-less-kafka/
 
+## Bpok
+https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
+
 ## Zookeeper
 https://github.com/vran-dev/PrettyZoo
 * https://news.ycombinator.com/item?id=26767035

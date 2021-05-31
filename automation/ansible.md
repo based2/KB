@@ -15,3 +15,9 @@ https://alta3.com/blog/throttling-ansibles-localaction-module Throttling Ansible
 https://www.edureka.co/blog/interview-questions/ansible-interview-questions/
 https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-playbook-ansible.html/
 https://blog.quarkslab.com/ansible-security-assessment.html
+
+# News
+https://steampunk.si/blog/ansible-role-argument-specification/
+https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8 Ansible 4
+* https://news.ycombinator.com/item?id=27215477
+  * https://docs.ansible.com/ansible/devel/porting_guides/porting_guide_4.html Python 3.8

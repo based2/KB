@@ -15,7 +15,7 @@ https://man7.org/linux/man-pages/man8/iptables-apply.8.html
 
 
 https://blog.tonari.no/introducing-innernet
-  * innernet network, peers are added or disabled by the creator of the network/
+  * internet network, peers are added or disabled by the creator of the network/
   * https://news.ycombinator.com/item?id=26628285
 
 # Investigations

@@ -25,5 +25,7 @@ https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 https://www.grouparoo.com/blog/varchar-191
 * https://news.ycombinator.com/item?id=27186385
 
+https://en.wikipedia.org/wiki/Object%E2%80%93relational_impedance_mismatch
+
 # Migration
 https://samsaffron.com/archive/2018/03/22/managing-db-schema-changes-without-downtime

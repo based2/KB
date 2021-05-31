@@ -1,6 +1,9 @@
 https://www.wolframalpha.com/
 
-https://oeis.org/ INteger sequences
+https://kalk.strct.net/ Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers
+* https://news.ycombinator.com/item?id=27333772
+
+https://oeis.org/ Integer sequences
 * https://news.ycombinator.com/item?id=26848517
 
 https://fungrim.org/
@@ -19,6 +22,8 @@ https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150
 https://tauday.com/tau-manifesto
 
 http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_fourier_transforms_paper.pdf
+
+https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus/
 
 # News
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code

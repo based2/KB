@@ -56,4 +56,6 @@ https://blog.g3rt.nl/upgrade-your-ssh-keys.html
 https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHAndSHA1Deprecation
 
 # News
+https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/
+* https://news.ycombinator.com/item?id=27204695
 https://lists.tartarus.org/pipermail/putty-announce/2021/000031.html

@@ -12,11 +12,19 @@ https://wattenberger.com/blog/react-and-d3
 https://medium.com/uncountable-engineering/why-did-my-react-component-re-render-71b5acecbbd1
 https://medium.com/hash-tech/migrating-from-angular-js-to-react-with-web-components-98d043cc4ea3
 
+https://blog.logrocket.com/modern-guide-react-state-patterns/
+* https://swr.vercel.app/
+
+https://boringavatars.com/
+* https://news.ycombinator.com/item?id=27311964
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
 
 http://bessemhmidi.github.io/AngularBeans/
+
+https://blog.angular.io/introducing-angular-devtools-2d59ff4cf62f
 
 ## Svelt
 https://news.ycombinator.com/item?id=26557886
@@ -59,7 +67,12 @@ https://devblog.qcobjects.org/simplifying-javascript-objects-inheritance-in-qcob
 https://www.baseclass.io/guides/string-handling-modern-js
 * https://news.ycombinator.com/item?id=26789525
 
+# Async
+https://dmitripavlutin.com/javascript-fetch-async-await/
 
+## Promise
+https://stackoverflow.com/questions/31299715/cant-put-prototype-functions-in-promise-resolve
+https://stackoverflow.com/questions/26056188/elegant-callback-binding-when-using-promises-and-prototypes-in-javascript
 
 # Tools
 https://javascript-minifier.com/
@@ -103,3 +116,7 @@ https://seanbarry.dev/posts/switch-true-pattern
 * https://news.ycombinator.com/item?id=26777090
 
 # Dynamic.js libjs
+
+# News
+https://github.com/lume/autolayout
+* https://news.ycombinator.com/item?id=27322427

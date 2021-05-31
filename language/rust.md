@@ -76,6 +76,8 @@ https://swilmet.be/blog/2021-05-15-ramblings-gnome-dev.html
 
 https://fulmicoton.com/posts/behold-tantivy-part2/
 
+https://blog.yoshuawuyts.com/optimizing-hashmaps-even-more/
+
 # Async
 https://tokio.rs/
 
@@ -89,6 +91,8 @@ http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 * https://news.ycombinator.com/item?id=27135591
+
+https://ferrous-systems.com/blog/21st-century-embedded-tooling/
 
 # Test
 
@@ -108,6 +112,10 @@ https://github.com/fdehau/tui-rs
 
 https://github.com/alacritty/alacritty
 * https://news.ycombinator.com/item?id=27075304
+
+#
+https://github.com/TaKO8Ki/awesome-alternatives-in-rust
+* https://news.ycombinator.com/item?id=27312564
 
 # Book
 https://github.com/ANSSI-FR/rust-guide
@@ -136,6 +144,8 @@ https://rustsec.org/
 * https://github.com/RustSec/advisory-db
 * https://github.com/RustSec/cargo-audit
 
+https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust
+
 https://github.com/lucky/bad_actor_poc
 * https://news.ycombinator.com/item?id=27154534
 
@@ -160,6 +170,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://thephilbert.io/2021/05/31/gcc-rust-monthly-report-6-may-2021/
+* https://news.ycombinator.com/item?id=27343913
 https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html
 * https://news.ycombinator.com/item?id=27171978
 https://arxiv.org/abs/1903.00982 Oxide: The Essence of Rust
