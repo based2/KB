@@ -30,6 +30,10 @@ https://blog.bejarano.io/hardening-macos/
 * https://news.ycombinator.com/item?id=27067755
 
 # M1
+https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9
+*
+https://www.willusher.io/graphics/2020/12/20/rt-dive-m1
+* https://news.ycombinator.com/item?id=27340555
 https://blogs.blackberry.com/en/2021/05/strong-arming-with-macos-adventures-in-cross-platform-emulation
 https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html
 * https://news.ycombinator.com/item?id=27133804

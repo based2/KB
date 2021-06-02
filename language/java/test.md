@@ -57,3 +57,6 @@ https://www.reddit.com/r/java/comments/jcryn9/logcaptor_library_to_easily_captur
 https://github.com/jvm-profiling-tools/async-profiler
 
 https://github.com/billybong/JavaFlames
+
+# News
+https://www.reddit.com/r/java/comments/np59b3/testng_vs_junit_which_testing_framework_should/

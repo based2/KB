@@ -74,6 +74,9 @@ https://korben.info/exploit-fichier-texte-txt-macos.html
 https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API
 * https://news.ycombinator.com/item?id=27061020
 
+# Link
+https://www.jefftk.com/p/why-prefetch-is-broken
+* https://news.ycombinator.com/item?id=27365608
 
 # Tools
 https://en.wikipedia.org/wiki/Dynamic_HTML

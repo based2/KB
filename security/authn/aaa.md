@@ -28,3 +28,6 @@ https://gomakethings.com/api-authentication-with-vanilla-js/
 # Google Znazibar
 https://research.google/pubs/pub48190/
 * https://news.ycombinator.com/item?id=26980254
+
+# eID
+https://news.ycombinator.com/item?id=27351769

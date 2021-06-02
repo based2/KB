@@ -32,6 +32,8 @@ https://github.com/harporoeder/ebpfsnitch
 https://suricata-ids.org/
 http://virustotal.github.io/yara/
 
+https://relaypro-open.github.io/dog/ Firewall management system
+
 # News
 https://samy.pl/slipstream/
 https://news.ycombinator.com/item?id=26620943

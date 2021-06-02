@@ -13,6 +13,8 @@ https://bsdly.blogspot.com/2017/08/twenty-plus-years-on-smtp-callbacks-are.html
 https://spa.mnesty.com/
 * https://news.ycombinator.com/item?id=16036121
 
+http://www.cm.org/faq.html
+
 https://arnaque-telephone.com/
 
 # Security

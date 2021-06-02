@@ -69,6 +69,9 @@ https://www.lexology.com/library/detail.aspx?g=b123dfbf-1615-45e8-b1f7-2b94c8834
 https://www.caliopen.org/en/
 * https://docs.google.com/presentation/d/1LNtmkA8xZlK6zizthkr6Msp8SfEZnP1X4lNyLvJRBzo/edit#slide=id.g20bcfe0c0d_0_32
 
+https://gist.github.com/alirobe/7f3b34ad89a159e6daa1 reclaimWindows10.ps1
+* https://news.ycombinator.com/item?id=27353810
+
 # News
 https://ysamm.com/?p=691
 * https://news.ycombinator.com/item?id=27188188

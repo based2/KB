@@ -115,6 +115,13 @@ https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-ye
 https://seanbarry.dev/posts/switch-true-pattern
 * https://news.ycombinator.com/item?id=26777090
 
+# compiler
+https://www.purescript.org/
+https://github.com/easafe/purescript-flame
+* https://flame.asafe.dev/ https://pursuit.purescript.org/packages/purescript-flame/1.0.0
+* https://news.ycombinator.com/item?id=27364833
+  * https://github.com/purescript-concur/purescript-concur-react.
+
 # Dynamic.js libjs
 
 # News

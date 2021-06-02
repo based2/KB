@@ -31,6 +31,9 @@ https://github.com/schlae/graphics-gremlin ISA
 * https://news.ycombinator.com/item?id=27171100
 
 # Product
+https://www.diybookscanner.org/
+* https://news.ycombinator.com/item?id=27361815
+
 https://openflexure.org/projects/microscope/
 * https://news.ycombinator.com/item?id=27216452
 

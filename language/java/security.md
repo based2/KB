@@ -20,6 +20,11 @@ https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against
 
 https://techblog.mediaservice.net/2020/04/java-deserialization-scanner-0-6-is-out/
 
+#
+https://bruce.mirkocaserta.com/ Bruce
+https://www.bouncycastle.org/
+
+
 # TLS
 https://www.infoq.com/fr/news/2020/04/tls-alpn-java8/
 

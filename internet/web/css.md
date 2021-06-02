@@ -129,6 +129,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/
+* https://news.ycombinator.com/item?id=27366056
 https://css-tricks.com/say-hello-to-css-container-queries/
 * https://github.com/marcj/css-element-queries
 https://bkardell.com/blog/canihas.html

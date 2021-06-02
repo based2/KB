@@ -1,3 +1,8 @@
+# LTS
+https://docs.microsoft.com/en-us/windows/whats-new/ltsc/
+* https://news.ycombinator.com/item?id=27369828
+
+
 https://keepass.info/download.html
 https://apps.ankiweb.net/
 

@@ -7,3 +7,5 @@ https://releasehub.com/
 
 https://gitlab.com/dbsystel/gitlab-ci-python-library
 * https://news.ycombinator.com/item?id=26986493
+
+https://kapitan.dev/

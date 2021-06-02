@@ -39,6 +39,9 @@ https://news.ycombinator.com/item?id=26565785
 
 https://realpython.com/brython-python-in-browser/
 
+https://github.com/se2p/pynguin
+* https://news.ycombinator.com/item?id=27350264
+
 # Package
 https://antonz.org/python-packaging/
 * https://news.ycombinator.com/item?id=26733423

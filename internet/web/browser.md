@@ -20,6 +20,9 @@ https://robert.ocallahan.org/2017/12/maintaining-independent-browser-is.html
 https://intoli.com/blog/firefox-extensions-with-selenium/
 
 # News
+https://blog.mozilla.org/en/mozilla/news/modern-clean-new-firefox-clears-the-way-to-all-you-need-online/
+* https://news.ycombinator.com/item?id=27365446
+https://hacks.mozilla.org/2021/06/looking-fine-with-firefox-89/
 https://github.com/livewire-ui/spotlight/issues/25
 * https://news.ycombinator.com/item?id=27313284
 https://nyxt.atlas.engineer/article/release-2.0.0.org

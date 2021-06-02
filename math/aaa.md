@@ -25,6 +25,9 @@ http://www.cs.rug.nl/~ando/pdfs/Ando_Emerencia_multiplying_huge_integers_using_f
 
 https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus/
 
+https://imadr.github.io/rotations-with-quaternions/
+* https://news.ycombinator.com/item?id=27353263
+
 # News
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323

@@ -57,5 +57,11 @@ https://blog.google/products/earth/timelapse-in-google-earth/
 https://wickstrom.tech/programming/2021/05/03/specifying-state-machines-with-temporal-logic.html
 * https://news.ycombinator.com/item?id=27022953
 
+# Clock
+https://en.wikipedia.org/wiki/Corpus_Clock
+* https://news.ycombinator.com/item?id=27370030
+
 #
 https://en.wikipedia.org/wiki/Time_crystal
+
+

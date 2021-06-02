@@ -32,6 +32,8 @@ https://articles.59.ca/doku.php?id=pgpfan:tpp
 * https://news.ycombinator.com/item?id=20455780
 * https://news.ycombinator.com/item?id=27181576
 
+https://blog.jabberhead.tk/2021/06/02/pgpainless-0-2-released/
+
 #
 https://media.ccc.de/v/34c3-9075-latticehacks
 
@@ -40,5 +42,6 @@ https://en.wikipedia.org/wiki/Lucas_number
 https://en.wikipedia.org/wiki/Jacques_Philippe_Marie_Binet
 
 # News
+https://hardenedvault.net/2021/06/02/vault1317-thesis.html
 https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html
 * https://news.ycombinator.com/item?id=27127887

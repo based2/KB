@@ -11,5 +11,8 @@ https://www.krackattacks.com/#tools From 2017
 http://biosrhythm.com/?page_id=1453
 * https://news.ycombinator.com/item?id=14677297
 
+https://sagacioussuricata.com/posts/openwrt-serial-bridge/
+* https://news.ycombinator.com/item?id=27350523
+
 
 

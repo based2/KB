@@ -100,6 +100,9 @@ https://github.com/elixir-nx/livebook
 https://starboard.gg/gz/open-source-observablehq-nfwK2VA
 https://github.com/gzuidhof/starboard-notebook
 
+## https://www.evidence.dev/
+* https://news.ycombinator.com/item?id=27357140
+
 # Database
 
 

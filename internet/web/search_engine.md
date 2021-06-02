@@ -41,6 +41,9 @@ https://eugeneyan.com/writing/search-query-matching/
 https://hn.algolia.com/
 https://deephn.org/
 
+# Recommendations
+https://arxiv.org/abs/2105.14134 Netflix
+
 # News
 https://ninfex.com/hello
 * https://news.ycombinator.com/item?id=27316752

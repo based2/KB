@@ -75,6 +75,8 @@ https://www.kubegres.io/
 * https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/
 
 # News
+https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14
+* https://news.ycombinator.com/item?id=27358977
 https://www.postgresql.org/about/news/postgresql-14-beta-1-released-2213/
 * https://news.ycombinator.com/item?id=27220725
 https://www.postgresql.org/about/news/postgresql-133-127-1112-1017-and-9622-released-2210/

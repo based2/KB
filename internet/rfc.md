@@ -16,3 +16,7 @@ https://rfc.fyi/
 
 https://www.fastly.com/blog/quic-is-now-rfc-9000
 * https://news.ycombinator.com/item?id=27310349
+
+https://datatracker.ietf.org/doc/html/rfc8905 The 'payto' URI Scheme for Payments
+* https://news.ycombinator.com/item?id=27355302
+  * https://en.wikipedia.org/wiki/EPC_QR_code

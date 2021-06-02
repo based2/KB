@@ -22,6 +22,8 @@ https://www.reddit.com/r/netsec/comments/7a45e2/lets_talk_about_ssh_configuratio
 https://lonesysadmin.net/2011/11/08/ssh-escape-sequences-aka-kill-dead-ssh-sessions/amp/
 * https://news.ycombinator.com/item?id=15538744
 
+https://blog.zsec.uk/locking-down-ssh-the-right-way/
+
 # Certificates
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_ca_certificate_signing-keys
 https://smallstep.com/blog/use-ssh-certificates/

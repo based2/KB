@@ -149,6 +149,10 @@ https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust
 https://github.com/lucky/bad_actor_poc
 * https://news.ycombinator.com/item?id=27154534
 
+# Editor
+https://helix-editor.com/
+* https://news.ycombinator.com/item?id=27358479
+
 # Migration
 https://blog.waleedkhan.name/port-python-to-rust/
 

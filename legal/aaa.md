@@ -15,6 +15,8 @@ https://arxiv.org/abs/2103.03198 Catala
 * https://news.ycombinator.com/item?id=27059899
 
 # Open data
+https://www.lumendatabase.org/ Collects and analyzes legal complaints and requests for removal of online materials
+
 https://data.finlex.fi/en/main Semantic Finlex – Finnish Law and Justice as Linked Open Data
 * https://news.ycombinator.com/item?id=27189362
 

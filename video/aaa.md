@@ -26,6 +26,8 @@ DaVinci resolve - https://www.blackmagicdesign.com/fr/products/davinciresolve/
 https://handbrake.fr/
 
 https://obsproject.com
+https://github.com/obsproject/obs-studio/releases/tag/27.0.0
+* https://news.ycombinator.com/item?id=27360141
 
 https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs
 

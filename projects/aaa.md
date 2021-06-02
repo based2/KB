@@ -26,12 +26,14 @@ https://www.mountaingoatsoftware.com/blog/tag/presentations
 https://www.mountaingoatsoftware.com/uploads/presentations/User-Stories-for-Agile-Requirements-Norwegian-Developers-Conference-2014.pdf
 
 
-# Estimation
-* https://en.wikipedia.org/wiki/Delphi_method
+# Estimate
+https://en.wikipedia.org/wiki/Delphi_method
  * https://news.ycombinator.com/item?id=26368011
 
 https://blog.pragmaticengineer.com/yes-you-should-estimate/
 * https://news.ycombinator.com/item?id=27006853
+
+https://josephmate.github.io/PowersOf2/ Complexity Estimator
 
 # Decision
 https://jacobian.org/2021/jan/30/soccr/

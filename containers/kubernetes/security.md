@@ -14,4 +14,9 @@ https://github.com/kubernetes/kubernetes/issues/101493
 
 https://sysdig.com/blog/lateral-movement-cloud-containers/
 
+https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-2
+
+# News
+https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/
+
 

@@ -38,6 +38,8 @@ https://news.ycombinator.com/item?id=26002251 https://www.gobolinux.org/
 https://news.ycombinator.com/item?id=26001738 https://garudalinux.org/
 
 # News
+https://news.opensuse.org/2021/06/02/opensuse-leap-bridges-path-to-enterprise/
+* https://news.ycombinator.com/item?id=27369344
 https://rockylinux.org/news/rocky-linux-8-3-rc1-release/
 https://blog.elementary.io/elementary-os-6-odin-beta/
 * https://news.ycombinator.com/item?id=27001736

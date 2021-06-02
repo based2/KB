@@ -27,6 +27,7 @@ https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 * https://news.ycombinator.com/item?id=26994741
 
 # News
+https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/ safari
 https://www.infoq.com/news/2021/05/grain-web-assembly-first/
 * https://news.ycombinator.com/item?id=27071060
 https://twitter.com/wasm3_engine/status/1384288567627640839

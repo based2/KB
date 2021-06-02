@@ -124,3 +124,8 @@ https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
 # LFS
 https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
 * https://news.ycombinator.com/item?id=27134972
+
+# Live
+https://www.producthunt.com/posts/gitlive
+* https://www.reddit.com/r/programming/comments/nqmnyl/extend_git_with_realtime_collaborative_superpowers/
+https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens

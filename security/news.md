@@ -1,3 +1,9 @@
+https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
+
+https://www.vdoo.com/blog/realtek-wifi-vulnerabilities-zero-day
+
+https://www.fireeye.com/blog/threat-research/2021/05/updates-on-chinese-apt-compromising-pulse-secure-vpn-devices.html
+
 https://swordbytes.com/blog/security-advisory-overwolf-1-click-remote-code-execution-cve-2021-33501/
 
 M1RACLES

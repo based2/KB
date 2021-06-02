@@ -46,6 +46,8 @@ https://www.mattkeeter.com/research/mpr/
 https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html
 * https://news.ycombinator.com/item?id=27212270
 
+https://www.louisbouchard.ai/4k-image-translation-in-real-time/
+* https://news.ycombinator.com/item?id=27343670
 
 # GPT
 https://news.ycombinator.com/item?id=26534000
@@ -96,6 +98,9 @@ https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html
 
 https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand
 * https://news.ycombinator.com/item?id=27188854
+
+http://www.norvig.com/Lisp-retro.html
+* https://news.ycombinator.com/item?id=27353083
 
 # News
 https://blog.google/products/search/introducing-mum/

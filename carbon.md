@@ -22,6 +22,9 @@ https://carbonplan.org/research/cdr-database
 https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capture-company/
 * https://news.ycombinator.com/item?id=27034988
 
+https://changeit.app/
+* https://news.ycombinator.com/item?id=27367244
+
 # News
 https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560
 * https://news.ycombinator.com/item?id=27318588

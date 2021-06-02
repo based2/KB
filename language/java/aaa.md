@@ -28,6 +28,8 @@ https://mizosoft.github.io/methanol/
 
 
 # JEE
+https://newsroom.eclipse.org/eclipse-newsletter/2021/may/jakarta-ee-10-and-enterprise-beans-options-future
+https://www.agilejava.eu/2021/05/23/hashtag-jakarta-ee-73/
 https://www.reddit.com/r/java/comments/mpwwdp/less_is_more_evolving_the_servlet_api/
 http://mail-archives.apache.org/mod_mbox/www-announce/202105.mbox/%3C531a27a2-b4c4-40a8-dba1-3bdd1124101f%40apache.org%3E
 
@@ -187,6 +189,10 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/Randgalt/record-builder
+* https://www.reddit.com/r/java/comments/nnza26/new_feature_for_recordbuilder_generate_records/
+https://kommradhomer.medium.com/java-16-is-out-and-youre-stuck-with-java6-here-is-what-you-re-missing-out-f3b61f81d167
+https://www.reddit.com/r/java/comments/npnecb/the_best_reason_to_switch_to_a_recent_version_of/
 https://news.ycombinator.com/item?id=27004728
 https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/
 https://www.theserverside.com/news/252498427/AdoptOpenJDK-moves-to-Eclipse-Foundation-as-Adoptium

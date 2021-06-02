@@ -115,6 +115,8 @@ https://fediverse.party/en/miscellaneous
 https://joinmobilizon.org/en/
 
 # News
+https://lwn.net/Articles/857791/ GCC drops its copyright-assignment requirement
+* https://news.ycombinator.com/item?id=27355269
 https://librefoodpantry.org/
 * https://news.ycombinator.com/item?id=27317709
 https://foss-north.se/2021/

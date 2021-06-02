@@ -13,6 +13,9 @@ https://zestedesavoir.com/billets/3908/avoir-son-dns-local-securite-controle-et-
 https://blog.replit.com/dns
 * https://news.ycombinator.com/item?id=26987939
 
+https://blog.apnic.net/2018/03/29/the-dns-camel/
+* https://news.ycombinator.com/item?id=27354049
+
 # DNSSEC
 https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
 

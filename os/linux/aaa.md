@@ -15,6 +15,9 @@ https://people.kernel.org/kuba/common-interface-for-nic-statistics
 https://man7.org/tlpi/api_changes/index.html
 * https://news.ycombinator.com/item?id=27052992
 
+https://mjg59.dreamwidth.org/57199.html Producing a trustworthy x86-based Linux appliance
+* https://news.ycombinator.com/item?id=27365057
+
 # Selinux
 
 https://selinuxproject.org/page/Main_Page
@@ -35,6 +38,9 @@ https://github.com/Nautalis/Tux3D
 # Embedded
 https://barebox.org/
 https://librecmc.org/
+
+https://www.rauc.io/ Updates
+* https://news.ycombinator.com/item?id=27354223
 
 # Kernel modules
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/

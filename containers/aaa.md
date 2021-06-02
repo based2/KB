@@ -26,6 +26,11 @@ https://katacontainers.io/
 # Perf
 https://github.com/google/cadvisor
 
+# Hypervisors
+## KVM
+http://nieh.net/pubs/ieeesp2021_kvm.pdf
+* https://news.ycombinator.com/item?id=27360600
+
 # News
 https://www.theregister.com/2021/05/19/aws_introduces_app_runner_google/
 https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/
