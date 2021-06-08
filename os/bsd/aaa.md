@@ -19,3 +19,6 @@ https://www.dragonflybsd.org/release60/
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 * https://news.ycombinator.com/item?id=27191908
+
+# News
+https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/

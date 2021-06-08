@@ -28,6 +28,8 @@ https://writings.stephenwolfram.com/2021/05/the-problem-of-distributed-consensus
 https://imadr.github.io/rotations-with-quaternions/
 * https://news.ycombinator.com/item?id=27353263
 
+https://tympanus.net/codrops/2021/06/02/trigonometry-in-css-and-javascript-getting-creative-with-trigonometric-functions/
+
 # News
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323

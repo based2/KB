@@ -25,6 +25,10 @@ https://www.mountaingoatsoftware.com/blog/tag/presentations
 
 https://www.mountaingoatsoftware.com/uploads/presentations/User-Stories-for-Agile-Requirements-Norwegian-Developers-Conference-2014.pdf
 
+https://cdsmithus.medium.com/gibbards-theorem-vs-stable-matching-22b55732ee5e
+
+https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/
+* https://news.ycombinator.com/item?id=27390457
 
 # Estimate
 https://en.wikipedia.org/wiki/Delphi_method

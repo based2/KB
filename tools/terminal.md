@@ -1,4 +1,5 @@
 https://github.com/martanne/dvtm
+* https://www.brain-dump.org/projects/dvtm/
 
 https://github.com/borisfaure/terminology
 
@@ -10,3 +11,7 @@ https://sw.kovidgoyal.net/kitty/keyboard-protocol.html
 https://github.com/sorenisanerd/gotty
 * https://news.ycombinator.com/item?id=27324873
   * https://github.com/tsl0922/ttyd
+
+
+https://github.com/kovidgoyal/kitty/issues/391
+

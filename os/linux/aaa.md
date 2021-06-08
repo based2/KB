@@ -46,6 +46,10 @@ https://www.rauc.io/ Updates
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=No-O3-For-Linux-Kernel
+* https://news.ycombinator.com/item?id=27409140
+https://lwn.net/SubscriberLink/858023/1caabaef50d4946b/ Auditing io_uring
+https://www.collabora.com/news-and-blog/news-and-events/a-libweston-based-compositor-for-automotive-grade-linux.html
 https://landlock.io/
 * https://news.ycombinator.com/item?id=27215563
 http://0pointer.net/blog/file-descriptor-limits.html

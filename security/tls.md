@@ -101,5 +101,7 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/tech/TLSTimeRepresentations
+* https://news.ycombinator.com/item?id=27421121
 https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html 25th March 2021 - 1.1.1k is a security-fix release HIGH
 https://datatracker.ietf.org/doc/rfc8996/

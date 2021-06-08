@@ -23,6 +23,9 @@ https://muhammadraza.me/2019/Exploring-Git/
 
 https://upte.ch/blog/how-we-should-be-using-git/
 
+https://bakkenbaeck.github.io/a-random-walk-through-git/
+* 
+
 # Books
 https://git-scm.com/book/en/v2
 

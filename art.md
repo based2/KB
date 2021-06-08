@@ -18,6 +18,8 @@ https://www.centrepompidou.fr/fr/offre-aux-professionnels/enseignants/ressources
 
 http://i.imgur.com/NEp3u2Q.jpg Stone age jottings
 
+https://www.thisiscolossal.com/2021/06/utagawa-hiroshige-shadow-puppets/
+
 # Architecture
 https://rodencrater.com/spaces/all/
 

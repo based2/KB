@@ -1,3 +1,21 @@
+https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au
+* https://news.ycombinator.com/item?id=27432750
+
+https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-code-walkthrough/
+
+https://objective-see.com/blog/blog_0x65.html
+* https://news.ycombinator.com/item?id=27410149
+
+https://arstechnica.com/gadgets/2021/06/under-exploit-vmware-vulnerability-with-severity-rating-of-9-8-out-of-10/
+* https://news.ycombinator.com/item?id=27398785
+
+https://medium.com/tenable-techblog/more-macos-installer-flaws-c868d9067eb3
+
+https://www.kevinloughlin.org/hammertime.pdf
+
+https://blog.elcomsoft.com/2021/06/breaking-veracrypt-obtaining-and-extracting-on-the-fly-encryption-keys/
+* https://news.ycombinator.com/item?id=27383918
+
 https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
 
 https://www.vdoo.com/blog/realtek-wifi-vulnerabilities-zero-day

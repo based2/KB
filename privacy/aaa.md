@@ -27,6 +27,8 @@ https://news.ycombinator.com/item?id=26850913
 
 https://en.wikipedia.org/wiki/Third-party_doctrine
 
+https://www.ecomply.io/blog-en/measuring-privacy-how-to-compute-the-dpia-threshold
+
 # Fingerprinting
 https://jonatron.github.io/webgl-fingerprinting/
 * https://news.ycombinator.com/item?id=26844928
@@ -73,6 +75,8 @@ https://gist.github.com/alirobe/7f3b34ad89a159e6daa1 reclaimWindows10.ps1
 * https://news.ycombinator.com/item?id=27353810
 
 # News
+https://403forbiddenblog.blogspot.com/2021/06/signal-safety-numbers.html?m=1
+* https://news.ycombinator.com/item?id=27406497
 https://ysamm.com/?p=691
 * https://news.ycombinator.com/item?id=27188188
 https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13

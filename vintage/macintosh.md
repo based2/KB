@@ -1,3 +1,6 @@
+# Web
+https://beyondloom.com/tools/ditherpaint.html
+
 # Emulation
 https://jamesfriend.com.au/pce-js/
 https://jamesfriend.com.au/pce-js/pce-js-apps/
@@ -45,6 +48,9 @@ https://en.wikipedia.org/wiki/MacsBug
 https://512pixels.net/2021/04/mac-chimes-of-death/
 
 http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/27_TMON.html
+
+# Icons
+https://news.ycombinator.com/item?id=27409410
 
 #
 https://midrange.tedium.co/issues/the-lone-coder-505212

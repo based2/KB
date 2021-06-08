@@ -3,6 +3,9 @@ https://en.wikipedia.org/wiki/Known-plaintext_attack
 
 https://falcon-sign.info/
 
+https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html
+* https://news.ycombinator.com/item?id=27406888
+
 # AES
 
 https://keymaterial.net/2020/09/07/invisible-salamanders-in-aes-gcm-siv/
@@ -20,10 +23,17 @@ https://crypto.stanford.edu/ore/
 
 https://buttondown.email/cryptography-dispatches/archive/cryptography-dispatches-re-deriving-the/
 
+https://en.wikipedia.org/wiki/Key_encapsulation
+
 # Tools
 https://github.com/FiloSottile/age
 
 ## PGP
+https://philzimmermann.com/EN/essays/PGP_30th/
+* https://news.ycombinator.com/item?id=27430050
+
+https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/
+* https://news.ycombinator.com/item?id=27432666
 https://sequoia-pgp.org/blog/2021/05/06/202105-thunderbird-rnp-and-the-importance-of-a-good-api/
 https://sequoia-pgp.org/blog/2021/05/12/202105-hello-openpgp-ca/
 * https://news.ycombinator.com/item?id=27129349
@@ -34,6 +44,8 @@ https://articles.59.ca/doku.php?id=pgpfan:tpp
 
 https://blog.jabberhead.tk/2021/06/02/pgpainless-0-2-released/
 
+https://www.theregister.com/2021/06/02/openpgp_rnp_library/
+
 #
 https://media.ccc.de/v/34c3-9075-latticehacks
 
@@ -42,6 +54,8 @@ https://en.wikipedia.org/wiki/Lucas_number
 https://en.wikipedia.org/wiki/Jacques_Philippe_Marie_Binet
 
 # News
+https://keygen.sh/blog/how-to-generate-license-keys-in-2021/
+* https://news.ycombinator.com/item?id=27380887
 https://hardenedvault.net/2021/06/02/vault1317-thesis.html
 https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html
 * https://news.ycombinator.com/item?id=27127887

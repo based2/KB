@@ -37,3 +37,7 @@ https://intel-isl.github.io/PhotorealismEnhancement/
 https://github.com/Mukosame/Anime2Sketch
 * https://news.ycombinator.com/item?id=27070838
 
+#
+https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/
+* https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering
+

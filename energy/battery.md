@@ -3,3 +3,5 @@ https://www.sciencemag.org/news/2021/04/gravity-based-batteries-try-beat-their-c
 
 https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-solid-state-lithium-battery/
 * https://news.ycombinator.com/item?id=27137108
+
+https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/

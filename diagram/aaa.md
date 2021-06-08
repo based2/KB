@@ -82,5 +82,8 @@ https://icepanel.io
 https://github.com/yishn/tikzcd-editor
 * https://news.ycombinator.com/item?id=15620632
 
+https://fosdem.org/2021/schedule/event/realtime_netlisting/
+* https://news.ycombinator.com/item?id=27367414
+
 # Code
 https://jgrasp.org/tutorials187/05_CSD.pdf The Control Structure Diagram (CSD)

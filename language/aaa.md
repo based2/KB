@@ -35,9 +35,13 @@ https://syndicate-lang.org/ Syndicated Actor model
 https://eng.uber.com/pyro/
 * https://news.ycombinator.com/item?id=15637329
 
+https://loup-vaillant.fr/articles/deaths-of-oop
+
 # Exotic
 https://github.com/iAmGio/pikt
 https://www.dangermouse.net/esoteric/piet.html
 https://hexagony.net/about.html
 
 https://codegolf.stackexchange.com/questions/607/find-the-factorial/629#629
+
+https://github.com/TartanLlama/vizh

@@ -23,12 +23,17 @@ https://openeveryone.substack.com/p/on-the-spectrum-of-openness
 https://framasoft.org/
 https://libreops.cc/
 
+https://www.osci.io/
+* https://www.spice-space.org/index.html
+
 # Licences
 https://opensource.org/licenses
 https://resources.whitesourcesoftware.com/blog-whitesource/open-source-licenses-explained
 https://en.wikipedia.org/wiki/Copyleft
 https://oss.oracle.com/licenses/upl/
 * https://lobste.rs/s/u0illx/universal_permissive_license
+
+https://google.github.io/opencasebook/patents/
 
 # Funding
 https://news.ycombinator.com/item?id=26578898
@@ -96,6 +101,7 @@ https://justine.lol/redbean/
 
 # IM
 https://framapiaf.org/about
+https://jami.net/maloya-a-new-version-of-jami/
 
 # Logs
 https://glogg.bonnefon.org/
@@ -114,7 +120,27 @@ https://fediverse.party/en/miscellaneous
 
 https://joinmobilizon.org/en/
 
+# Collaboration
+https://github.com/fmeringdal/nettu-meet Dashboard
+* https://news.ycombinator.com/item?id=27434254
+
 # News
+https://notepad-plus-plus.org/downloads/v8/ https://notepad-plus-plus.org/news/v8-dark-mode/
+* https://news.ycombinator.com/item?id=27420726
+https://solnic.codes/2021/06/04/10-years-of-open-source/
+* https://news.ycombinator.com/item?id=27420282
+https://intuitiveexplanations.com/tech/replit/#how-did-replit-respond-to-this-blog-post
+* https://news.ycombinator.com/item?id=27415537
+https://intuitiveexplanations.com/tech/replit/
+* https://news.ycombinator.com/item?id=27424195
+
+https://kde.org/announcements/plasma/5/5.22.0/
+* https://news.ycombinator.com/item?id=27433781
+https://git.sr.ht/~gregkh/presentation-non-tech-security
+* https://news.ycombinator.com/item?id=27390672
+https://www.ow2con.org/view/2021/Program?year=2021&event=OW2con21
+https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html
+* https://news.ycombinator.com/item?id=27390512
 https://lwn.net/Articles/857791/ GCC drops its copyright-assignment requirement
 * https://news.ycombinator.com/item?id=27355269
 https://librefoodpantry.org/

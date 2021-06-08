@@ -29,6 +29,13 @@ https://www.gkbrk.com/2016/05/hotel-music/
 
 https://en.wikipedia.org/wiki/Internet_background_noise
 
+https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-code-walkthrough/
+* https://news.ycombinator.com/item?id=27435081
+
+# Tests
+https://major.io/2021/06/06/a-new-future-for-icanhazip/
+* https://news.ycombinator.com/item?id=27415537
+
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
 

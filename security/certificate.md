@@ -12,6 +12,8 @@ https://certstream.calidog.io/
 https://github.com/FiloSottile/mkcert
 * https://www.reddit.com/r/netsec/comments/njp0zu/mkcert_is_a_simple_tool_for_making_locallytrusted/
 
+https://certificate.transparency.dev/
+
 # Health
 https://github.com/admin-ch/CovidCertificate-Documents
 * https://news.ycombinator.com/item?id=27351970

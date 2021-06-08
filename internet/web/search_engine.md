@@ -45,6 +45,8 @@ https://deephn.org/
 https://arxiv.org/abs/2105.14134 Netflix
 
 # News
+https://casparwre.de/blog/seo-scam/
+* https://news.ycombinator.com/item?id=27427330
 https://ninfex.com/hello
 * https://news.ycombinator.com/item?id=27316752
 https://aws.amazon.com/en/blogs/opensource/introducing-opensearch/

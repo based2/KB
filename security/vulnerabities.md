@@ -13,6 +13,8 @@ https://www.cvedetails.com/
 https://hardening-security.com/vulnerabilities
 Detailed gathered insights about cyber security vulnerabilities and their real world influences including economic impacts and black market trading.
 
+https://deps.dev/ Google
+
 https://www.phrack.org/
 
 # Events

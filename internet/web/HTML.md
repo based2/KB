@@ -41,6 +41,10 @@ https://www.matuzo.at/blog/html-boilerplate/
 https://markodenic.com/html-tips/
 * https://news.ycombinator.com/item?id=27054348
 
+https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/
+* https://news.ycombinator.com/item?id=27414183
+
+https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
 
 # WYSIWYG
 https://codemirror.net/
@@ -61,6 +65,9 @@ https://docs.slatejs.org/
 https://github.com/michelson/dante
 
 https://en.wikipedia.org/wiki/Markdown
+
+
+
 
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model

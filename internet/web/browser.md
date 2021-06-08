@@ -20,6 +20,12 @@ https://robert.ocallahan.org/2017/12/maintaining-independent-browser-is.html
 https://intoli.com/blog/firefox-extensions-with-selenium/
 
 # News
+https://stopa.io/post/279 Web Applications from the Future: A Database in the Browser
+* https://news.ycombinator.com/item?id=27424496
+https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins
+* https://news.ycombinator.com/item?id=27404017
+https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html
+* https://news.ycombinator.com/item?id=27392685
 https://blog.mozilla.org/en/mozilla/news/modern-clean-new-firefox-clears-the-way-to-all-you-need-online/
 * https://news.ycombinator.com/item?id=27365446
 https://hacks.mozilla.org/2021/06/looking-fine-with-firefox-89/

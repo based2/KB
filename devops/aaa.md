@@ -61,6 +61,7 @@ https://calver.org/
 # CI
 
 https://www.jenkins.io/
+https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
 
 https://tekton.dev/
 

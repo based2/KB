@@ -39,6 +39,9 @@ https://ml-jku.github.io/hopfield-layers/
 
 https://gradientscience.org/glm_saga/
 
+https://arxiv.org/abs/2009.08378 Event-Based Backpropagation can compute Exact Gradients for Spiking Neural Networks
+* https://news.ycombinator.com/item?id=27364777
+
 # Image
 https://www.mattkeeter.com/research/mpr/
 * https://news.ycombinator.com/item?id=26873691
@@ -103,6 +106,9 @@ http://www.norvig.com/Lisp-retro.html
 * https://news.ycombinator.com/item?id=27353083
 
 # News
+https://atcold.github.io/NYU-DLSP21/ Yann LeCun Deep Learning Course 2021
+* https://news.ycombinator.com/item?id=27387154
+https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html
 https://blog.google/products/search/introducing-mum/
 * https://news.ycombinator.com/item?id=27215653
   * https://news.ycombinator.com/item?id=27207404

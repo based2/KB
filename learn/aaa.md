@@ -28,3 +28,8 @@ https://manuzoid.com/
 # QA
 https://stackoverflow.com/
 https://musing.io/
+
+# Language
+duolingo
+https://languagelearningwithnetflix.com/
+* https://news.ycombinator.com/item?id=27420959

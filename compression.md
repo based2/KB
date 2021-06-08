@@ -18,6 +18,8 @@ http://www.oldskool.org/pc/lz4_8088
 https://arxiv.org/abs/1607.04346
 * https://news.ycombinator.com/item?id=14333882
 
+https://yupferris.github.io/blog/2021/06/07/pulsejet-sample-compression-codec-for-64k.html
+
 ## Tools
 https://www.7-zip.org/download.html
 

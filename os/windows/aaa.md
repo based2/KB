@@ -56,6 +56,8 @@ https://devblogs.microsoft.com/commandline/wslg-architecture/
 https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10
 
 # News
+https://www.theverge.com/2021/6/3/22466394/microsoft-windows-11-launch-teaser-rumors
+* https://news.ycombinator.com/item?id=27410244
 https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed
 * https://news.ycombinator.com/item?id=27198085
   * https://techcommunity.microsoft.com/t5/networking-blog/algorithmic-improvements-boost-tcp-performance-on-the-internet/ba-p/2347061

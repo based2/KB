@@ -103,6 +103,15 @@ https://github.com/gzuidhof/starboard-notebook
 ## https://www.evidence.dev/
 * https://news.ycombinator.com/item?id=27357140
 
+# http://fizzygum.org/
+https://news.ycombinator.com/item?id=27421401
+
+https://github.com/ToolJet/ToolJet/
+* https://news.ycombinator.com/item?id=27421408
+
+https://community.plotly.com/t/announcing-plotly-js-2-0/53675
+
+
 # Database
 
 

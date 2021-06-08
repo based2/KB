@@ -1,3 +1,8 @@
+https://en.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer
+* https://datatracker.ietf.org/doc/html/rfc2595
+
+https://sayfer.io/blog/security-considerations-during-authentication/
+
 https://link.springer.com/article/10.1007/s11071-020-05463-3
 
 https://github.com/ory/keto alpha
@@ -28,6 +33,9 @@ https://gomakethings.com/api-authentication-with-vanilla-js/
 # Google Znazibar
 https://research.google/pubs/pub48190/
 * https://news.ycombinator.com/item?id=26980254
+
+https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-authorization-at-airbnb-341664924574
+* https://news.ycombinator.com/item?id=27412329
 
 # eID
 https://news.ycombinator.com/item?id=27351769

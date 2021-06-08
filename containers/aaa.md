@@ -32,6 +32,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://kinvolk.io/blog/2021/04/microsoft-acquires-kinvolk/
+https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws/
 https://www.theregister.com/2021/05/19/aws_introduces_app_runner_google/
 https://www.p3r.one/portainer-vs-mirantis-my-experience-in-2021/
 https://github.com/cncf/foundation/blob/master/agpl-recommendations.md

@@ -50,6 +50,12 @@ https://ptsjs.org/
 *
 https://dynamicsjs.com/
 
+
+# Shader
+https://www.youtube.com/watch?v=DZRn_jNZjbw
+* https://news.ycombinator.com/item?id=27396634
+
+
 # News
 https://observablehq.com/@rreusser/the-double-pendulum-fractal
 https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html

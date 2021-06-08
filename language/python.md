@@ -20,6 +20,9 @@ https://news.ycombinator.com/item?id=26533270
 # Async
 https://github.com/klen/py-frameworks-bench
 
+https://mnemic.readthedocs.io/en/main/index.html
+* https://news.ycombinator.com/item?id=27409661
+
 # Debug
 3.8+
 > print(f"{d['key'][1]=}")

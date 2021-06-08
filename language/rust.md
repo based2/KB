@@ -78,6 +78,8 @@ https://fulmicoton.com/posts/behold-tantivy-part2/
 
 https://blog.yoshuawuyts.com/optimizing-hashmaps-even-more/
 
+https://www.lpalmieri.com/posts/error-handling-rust/
+
 # Async
 https://tokio.rs/
 
@@ -153,8 +155,13 @@ https://github.com/lucky/bad_actor_poc
 https://helix-editor.com/
 * https://news.ycombinator.com/item?id=27358479
 
+https://github.com/ekzhang/rustpad
+* https://news.ycombinator.com/item?id=27408326
+
 # Migration
 https://blog.waleedkhan.name/port-python-to-rust/
+
+https://immunant.com/blog/2020/01/quake3/
 
 # OS
 
@@ -169,11 +176,11 @@ https://lkml.org/lkml/2021/4/14/1023
 https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/
 * https://news.ycombinator.com/item?id=26850682
 
-
 # Quiz
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3
 https://thephilbert.io/2021/05/31/gcc-rust-monthly-report-6-may-2021/
 * https://news.ycombinator.com/item?id=27343913
 https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html

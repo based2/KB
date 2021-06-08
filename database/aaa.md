@@ -27,5 +27,7 @@ https://www.grouparoo.com/blog/varchar-191
 
 https://en.wikipedia.org/wiki/Object%E2%80%93relational_impedance_mismatch
 
+https://www.confluent.io/blog/ksqldb-streaming-sql-the-query-your-database-cant-answer/
+
 # Migration
 https://samsaffron.com/archive/2018/03/22/managing-db-schema-changes-without-downtime

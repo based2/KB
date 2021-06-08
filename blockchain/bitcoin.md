@@ -10,3 +10,9 @@ https://bitcoincore.org/en/2021/05/01/release-0.21.1/
 * https://river.com/learn/what-is-taproot/
 
 https://www.truthcoin.info/blog/pow-cheapest/
+
+https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
+
+# News
+https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html
+* https://news.ycombinator.com/item?id=27408683

@@ -18,6 +18,9 @@ https://blog.logrocket.com/modern-guide-react-state-patterns/
 https://boringavatars.com/
 * https://news.ycombinator.com/item?id=27311964
 
+https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html
+* https://news.ycombinator.com/item?id=27438400
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -104,6 +107,9 @@ https://grapesjs.com/
 ## Nodejs
 https://deno.com/blog/the-deno-company
 * https://news.ycombinator.com/item?id=26620116
+
+http://changelog.com/podcast/443
+* https://news.ycombinator.com/item?id=27438478
 
 #
 https://github.com/mechaniac/Map-of-Javascript

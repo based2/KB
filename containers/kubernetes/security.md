@@ -16,6 +16,11 @@ https://sysdig.com/blog/lateral-movement-cloud-containers/
 
 https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-2
 
+# Scanner
+https://github.com/quay/clair Red Hat
+
+https://iximiuz.com/en/posts/thick-container-vulnerabilities/
+
 # News
 https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/
 

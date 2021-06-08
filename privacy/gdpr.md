@@ -36,6 +36,9 @@ https://community.spiceworks.com/topic/2007530-how-the-eu-can-fine-us-companies-
 https://noyb.eu/en/noyb-aims-end-cookie-banner-terror-and-issues-more-500-gdpr-complaints
 * https://news.ycombinator.com/item?id=27340769
 
+https://gdpr.eu/companies-outside-of-europe/
+* https://news.ycombinator.com/item?id=27395121
+
 # Users
 https://privacybot.io/
 * https://news.ycombinator.com/item?id=27146828

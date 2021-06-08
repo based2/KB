@@ -6,6 +6,13 @@ https://github.com/255kb/stack-on-a-budget
 https://www.schneier.com/blog/archives/2021/05/the-misaligned-incentives-for-cloud-security.html
 
 # News
+https://www.zdnet.com/article/apple-shut-down-my-icloud-account-for-four-days-no-warning-no-explanation-no-excuse/
+* https://news.ycombinator.com/item?id=27423611
+https://www.theregister.com/2021/06/04/google_chip_flaws/
+* https://news.ycombinator.com/item?id=27408398
+https://blog.nelhage.com/post/distributed-builds-for-everyone/
+* https://news.ycombinator.com/item?id=27385796
+https://www.usenix.org/conference/atc13/technical-sessions/presentation/cidon  Copysets: Reducing the Frequency of Data Loss in Cloud Storage
 https://edps.europa.eu/press-publications/press-news/press-releases/2021/edps-opens-two-investigations-following-schrems_en
 https://www.wsj.com/articles/amazon-faced-75-000-arbitration-demands-now-it-says-fine-sue-us-11622547000
 * https://news.ycombinator.com/item?id=27356550

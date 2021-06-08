@@ -22,6 +22,14 @@ https://elixir-lang.org/blog/2017/10/31/stream-data-property-based-testing-and-d
 https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/
 * https://news.ycombinator.com/item?id=27206656
 
+https://engineering.ramp.com/elixir-at-ramp/
+* https://news.ycombinator.com/item?id=27388134
+
+https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/
+
+https://github.com/bake-bake-bake/bakeware
+* https://news.ycombinator.com/item?id=27430806
+
 # Gleam
 https://gleam.run/
 https://gleam.run/news/gleam-v0.15-released/

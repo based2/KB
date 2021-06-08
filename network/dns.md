@@ -1,3 +1,6 @@
+https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
+* https://news.ycombinator.com/item?id=27396208
+
 https://www.bortzmeyer.org/6762.html
 
 https://blog.apnic.net/2020/09/11/dns-query-privacy-revisited/

@@ -20,6 +20,14 @@ https://en.wikipedia.org/wiki/HTTP_response_splitting
 
 https://datatracker.ietf.org/doc/html/rfc8188
 
+# Status
+https://httpstatusdogs.com/
+* https://news.ycombinator.com/item?id=27420667
+
+# Test client
+https://prestigemad.com/#!/doc/browser/master
+* https://news.ycombinator.com/item?id=27412445
+
 # HTTP/2
 
 https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt

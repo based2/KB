@@ -92,6 +92,10 @@ https://developer.mozilla.org/en-US/docs/Web/Houdini
 https://markodenic.com/css-tips/
 * https://news.ycombinator.com/item?id=26945263
 
+# Perf
+https://calendar.perfplanet.com/2020/html-and-css-techniques-to-reduce-your-javascript/
+* https://news.ycombinator.com/item?id=27388691
+
 # Tools
 https://github.com/krishdevdb/reseter.css
 
@@ -129,6 +133,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://pustelto.com/blog/css-vs-css-in-js-perf/
+https://et-jekyll.netlify.app/
+* https://news.ycombinator.com/item?id=27407264
 https://meyerweb.com/eric/thoughts/2021/05/25/25-years-of-css/
 * https://news.ycombinator.com/item?id=27366056
 https://css-tricks.com/say-hello-to-css-container-queries/

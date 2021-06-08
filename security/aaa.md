@@ -61,5 +61,7 @@ https://www.bitcoinabuse.com/
 
 https://throughascreendarkly.com/2021/05/16/port-knocking-better/
 
+https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html
+
 
 

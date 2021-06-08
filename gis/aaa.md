@@ -16,6 +16,8 @@ https://www.opendronemap.org/
 
 https://github.com/SNCFdevelopers/Pypixgrid
 
+
+
 # Tiles cache
 https://nzjrs.github.io/osm-gps-map/
 
@@ -64,6 +66,8 @@ https://github.com/maplibre/maplibre-gl-js
 https://github.com/rastapasta/mapscii
 * https://news.ycombinator.com/item?id=27042629
 
+https://github.com/rastapasta/mapscii
+* https://news.ycombinator.com/item?id=27387585
 
 #
 https://minecraft.geoportail.lu/
@@ -72,6 +76,17 @@ https://eng.uber.com/nebulagl/
 
 # Maps
 https://www.openrailwaymap.org/
+
+https://submarine-cable-map-2021.telegeography.com/
+* https://news.ycombinator.com/item?id=27410133
+
+https://anvaka.github.io/city-roads/
+
+https://shademap.app/#45.06576,-118.41064,6z,1623209753240t
+
+# georoutage
+https://pncnmnp.github.io/blogs/distance-oracles.html
+* https://news.ycombinator.com/item?id=27420155
 
 # News
 https://news.ycombinator.com/item?id=26918259

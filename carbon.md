@@ -25,7 +25,17 @@ https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capt
 https://changeit.app/
 * https://news.ycombinator.com/item?id=27367244
 
+# Sea
+## Transport
+https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-shipping-tankers/
+* http://inflatedwingsails.com/concept/
+
 # News
+https://syntheticmessenger.labr.io/#about
+* https://news.ycombinator.com/item?id=27438318
+https://gizmodo.com/frozen-in-siberian-permafrost-for-24-000-years-microsc-1847045211
+* https://news.ycombinator.com/item?id=27424086
+https://www.prnewswire.com/news-releases/cotap-becomes-the-first-carbon-offset-provider-to-enable-funding-offsets-with-cryptocurrency-301306295.html
 https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560
 * https://news.ycombinator.com/item?id=27318588
 https://newatlas.com/environment/high-hopes-carbon-capture-balloons/
