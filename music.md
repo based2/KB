@@ -44,3 +44,10 @@ https://www.reaper.fm/
 https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/
 * https://news.ycombinator.com/item?id=27085922
 
+
+# Noise
+https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
+* https://news.ycombinator.com/item?id=27447766
+
+https://www.aalto.fi/en/news/anyone-can-get-super-hearing
+* https://news.ycombinator.com/item?id=27431429

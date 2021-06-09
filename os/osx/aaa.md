@@ -29,7 +29,17 @@ https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 https://blog.bejarano.io/hardening-macos/
 * https://news.ycombinator.com/item?id=27067755
 
+https://objective-see.com/products/knockknock.html
+
+# Dev
+https://thescottkrause.com/emerging_tech/new_macbook_setup_for_dev/
+
+https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
+* https://news.ycombinator.com/item?id=27451413
+
 # M1
+https://developer.apple.com/metal/tensorflow-plugin/
+* https://news.ycombinator.com/item?id=27442475
 https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9
 *
 https://www.willusher.io/graphics/2020/12/20/rt-dive-m1

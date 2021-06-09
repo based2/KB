@@ -75,6 +75,9 @@ https://gist.github.com/alirobe/7f3b34ad89a159e6daa1 reclaimWindows10.ps1
 * https://news.ycombinator.com/item?id=27353810
 
 # News
+https://wiki.mozilla.org/Project_Fission
+https://www.adexchanger.com/privacy/wwdc-2021-apple-calls-open-season-on-ip-address-tracking-and-targeting/
+https://developer.apple.com/documentation/safariservices/safari_web_extensions/blocking_content_with_your_safari_web_extension
 https://403forbiddenblog.blogspot.com/2021/06/signal-safety-numbers.html?m=1
 * https://news.ycombinator.com/item?id=27406497
 https://ysamm.com/?p=691

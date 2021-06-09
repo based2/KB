@@ -34,6 +34,7 @@ https://txstreet.com/v/btc-eth
 https://www.zeroknowledgeblog.com/index.php/zk-snarks
 
 # News
+https://github.com/vmware/concord-bft/blob/master/docs/design.md
 https://github.com/firmalabs/zmsg
 * https://news.ycombinator.com/item?id=27191568
 https://blockcrunch.co/2021/05/14/unstoppable-domains-crypto-names-are-now-available-on-brave-browser/

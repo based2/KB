@@ -1,3 +1,6 @@
+
+https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
+
 # Frameworks
 ## VueJS
 https://vuejs.org/
@@ -21,6 +24,8 @@ https://boringavatars.com/
 https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html
 * https://news.ycombinator.com/item?id=27438400
 
+https://blog.placemark.io/2021/06/08/react-aria.html
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -28,6 +33,9 @@ https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
 http://bessemhmidi.github.io/AngularBeans/
 
 https://blog.angular.io/introducing-angular-devtools-2d59ff4cf62f
+
+https://www.ngxs.io/
+
 
 ## Svelt
 https://news.ycombinator.com/item?id=26557886

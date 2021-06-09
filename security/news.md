@@ -1,3 +1,10 @@
+https://www.vusec.net/projects/fpvi-scsb/
+
+https://arstechnica.com/gadgets/2021/06/hackers-can-mess-with-https-connections-by-sending-data-to-your-email-server/
+* https://alpaca-attack.com/ 
+
+https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
+
 https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au
 * https://news.ycombinator.com/item?id=27432750
 

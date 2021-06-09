@@ -40,6 +40,13 @@ https://www.cambus.net/speedbuilding-llvm-clang-in-2-minutes-on-arm/
 # Bug report
 https://news.ycombinator.com/item?id=26620048
 
+# Linker
+https://lwn.net/Articles/276782/
+* https://news.ycombinator.com/item?id=27445981
+
+https://briancallahan.net/blog/20210609.html
+* https://news.ycombinator.com/item?id=27444647
+
 # News
 https://www.i-programmer.info/news/99-professional/14539-acm-breakthrough-award-for-jit-compilation.html
 https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html

@@ -19,6 +19,8 @@ https://blog.replit.com/dns
 https://blog.apnic.net/2018/03/29/the-dns-camel/
 * https://news.ycombinator.com/item?id=27354049
 
+https://techcrunch.com/2020/12/08/cloudflare-and-apple-design-a-new-privacy-friendly-internet-protocol/
+
 # DNSSEC
 https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
 

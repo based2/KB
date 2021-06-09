@@ -31,6 +31,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 * http://inflatedwingsails.com/concept/
 
 # News
+https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide
+* https://news.ycombinator.com/item?id=27440143
 https://syntheticmessenger.labr.io/#about
 * https://news.ycombinator.com/item?id=27438318
 https://gizmodo.com/frozen-in-siberian-permafrost-for-24-000-years-microsc-1847045211

@@ -5,6 +5,8 @@ https://varun.ca/clip-path/
 
 https://deep-fold.itch.io/pixel-planet-generator
 
+https://gist.github.com/RobertAKARobin/476be5c619345f814c863e63fbd5c993 Understand what web developers can and can't animate
+
 https://css-tricks.com/re-creating-the-porky-pig-animation-from-looney-tunes-in-css/
 https://www.joshwcomeau.com/animation/css-transitions/
 

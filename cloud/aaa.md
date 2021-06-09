@@ -6,6 +6,8 @@ https://github.com/255kb/stack-on-a-budget
 https://www.schneier.com/blog/archives/2021/05/the-misaligned-incentives-for-cloud-security.html
 
 # News
+https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
+* https://news.ycombinator.com/item?id=27443519
 https://www.zdnet.com/article/apple-shut-down-my-icloud-account-for-four-days-no-warning-no-explanation-no-excuse/
 * https://news.ycombinator.com/item?id=27423611
 https://www.theregister.com/2021/06/04/google_chip_flaws/

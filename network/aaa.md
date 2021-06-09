@@ -36,6 +36,8 @@ https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attack
 https://major.io/2021/06/06/a-new-future-for-icanhazip/
 * https://news.ycombinator.com/item?id=27415537
 
+http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html
+
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
 

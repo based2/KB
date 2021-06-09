@@ -30,6 +30,8 @@ https://elephant-shed.io/
 
 https://www.cybertec-postgresql.com/en/postgresql-detecting-slow-queries-quickly/
 
+https://github.com/plv8/plv8
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 

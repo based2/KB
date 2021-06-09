@@ -30,6 +30,8 @@ https://imadr.github.io/rotations-with-quaternions/
 
 https://tympanus.net/codrops/2021/06/02/trigonometry-in-css-and-javascript-getting-creative-with-trigonometric-functions/
 
+http://blog.pkh.me/p/29-the-most-useful-math-formulas.html
+
 # News
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323

@@ -33,3 +33,8 @@ https://github.com/qntm/base65536
 
 # ASCII
 http://www.figlet.org/fontdb.cgi
+
+# Generator
+https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
+* https://news.ycombinator.com/item?id=27443528
+  * https://github.com/google/jax

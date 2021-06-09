@@ -19,6 +19,7 @@ https://www.phrack.org/
 
 # Events
 # 2021
+https://alpaca-attack.com/ 
 https://francozappa.github.io/about-bias/publication/antonioli-20-bias/antonioli-20-bias.pdf blootooth
 * https://github.com/espressif/esp-idf/commit/d73ebb570bcc2d529b0ff64d97804b70723fbb99
 https://www.fragattacks.com/ Wifi (http)

@@ -9,6 +9,9 @@ https://jschumacher.info/2021/05/running-a-private-mail-server-for-six-years-eas
 
 https://bsdly.blogspot.com/2017/08/twenty-plus-years-on-smtp-callbacks-are.html
 
+https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/
+* https://news.ycombinator.com/item?id=27446907
+
 # Spam
 https://spa.mnesty.com/
 * https://news.ycombinator.com/item?id=16036121

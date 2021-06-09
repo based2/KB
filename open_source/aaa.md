@@ -125,6 +125,8 @@ https://github.com/fmeringdal/nettu-meet Dashboard
 * https://news.ycombinator.com/item?id=27434254
 
 # News
+https://github.com/readme/unseen-oss
+* https://news.ycombinator.com/item?id=27452151
 https://notepad-plus-plus.org/downloads/v8/ https://notepad-plus-plus.org/news/v8-dark-mode/
 * https://news.ycombinator.com/item?id=27420726
 https://solnic.codes/2021/06/04/10-years-of-open-source/

@@ -58,6 +58,9 @@ https://pyre-check.org/
 * https://news.ycombinator.com/item?id=27107647
 * https://news.ycombinator.com/item?id=17048446
 
+# Analysis
+https://linuxfr.org/news/python-partie-10-formateur-de-code-analyse-statique
+
 # Books
 https://news.ycombinator.com/item?id=26076721
 https://github.com/pamoroso/free-python-books
