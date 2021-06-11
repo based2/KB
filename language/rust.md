@@ -131,6 +131,10 @@ https://news.ycombinator.com/item?id=26565444 CXX C++
 https://www.fluvio.io/blog/2021/05/java-client/
 * https://www.reddit.com/r/java/comments/n4wf6h/embedding_rust_code_in_java_jar_for_distribution/
 
+# MacOs
+https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
+* https://news.ycombinator.com/item?id=27467453
+
 ## Windows API
 https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/
 * https://news.ycombinator.com/item?id=27085032

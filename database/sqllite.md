@@ -48,6 +48,8 @@ http://2016.padjo.org/tutorials/sqlite-data-starterpacks/
 # HA
 https://dqlite.io/ Canonical
 https://github.com/rqlite/rqlite/
+https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
+* https://news.ycombinator.com/item?id=27460022
 
 https://github.com/tezc/resql Java
 

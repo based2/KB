@@ -18,6 +18,8 @@ https://blog.tonari.no/introducing-innernet
   * internet network, peers are added or disabled by the creator of the network/
   * https://news.ycombinator.com/item?id=26628285
 
+https://blog.cloudflare.com/private-networking/
+
 # Investigations
 https://mysteries.wizardzines.com/connection-timeout.html
 * https://news.ycombinator.com/item?id=26900678

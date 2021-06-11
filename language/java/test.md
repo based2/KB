@@ -18,15 +18,31 @@ https://github.com/goldmansachs/tablasco Adds table verification to your unit te
 
 ## Mock
 https://maxxedev.github.io/2021/03/07/mocking-static-methods-and-constructors-with-mockito.html
+https://site.mockito.org/
 
 # Integration tests - End2end
 https://maven.apache.org/surefire/maven-failsafe-plugin/
 
 https://rest-assured.io/
+https://hazelcast.com/blog/contract-first-development-using-restassured-and-openapi/
 
 https://vmlens.com/articles/ct/new_way_to_test/
 
 https://citrusframework.org/projects/
+
+## Async
+https://github.com/awaitility/awaitility
+
+https://vertx.io/docs/vertx-unit/java/
+
+# Load
+https://www.javacodegeeks.com/2013/10/write-effective-load-tests-using-junit-and-repeat-annotation.html
+
+https://jmeter.apache.org/
+
+https://www.loadtest4j.org/
+
+https://github.com/gatling/gatling
 
 # UI tests
 https://www.selenium.dev/documentation/en/

@@ -117,6 +117,7 @@ https://github.com/facebookincubator/cinder
 * https://news.ycombinator.com/item?id=27043217
 
 # News
+https://semaphoreci.com/blog/building-python-projects-with-pants
 https://github.com/tiangolo/fastapi/issues/2518 FastAPI default configuration leaks traffic information to multiple third parties
 https://github.com/faster-cpython/ideas
 * https://github.com/faster-cpython/ideas

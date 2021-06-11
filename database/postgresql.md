@@ -72,6 +72,8 @@ https://blog.discourse.org/2021/04/standing-on-the-shoulders-of-a-giant-elephant
 
 https://www.paulox.net/2021/05/28/upgrading-postgresql-from-version-12-to-13-on-ubuntu-21-04-focal-fossa/
 
+https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/
+
 # Container
 https://www.kubegres.io/
 * https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/

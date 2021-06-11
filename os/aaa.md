@@ -8,3 +8,7 @@ https://genode.org/about/index
 # ELF
 https://github.com/NixOS/patchelf
 * https://news.ycombinator.com/item?id=27079565
+
+
+#
+https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue

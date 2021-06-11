@@ -5,3 +5,6 @@ https://www.cs.huji.ac.il/~springer/DigitalNeedle/index.html
 
 
 https://www.youtube.com/watch?v=VGWgqR_BH-M Resurrecting Scratched CDs & DVDs
+
+https://soggi.org/
+* https://news.ycombinator.com/item?id=27468594

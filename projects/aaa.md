@@ -39,6 +39,9 @@ https://blog.pragmaticengineer.com/yes-you-should-estimate/
 
 https://josephmate.github.io/PowersOf2/ Complexity Estimator
 
+https://earthly.dev/blog/thought-leaders/
+* https://news.ycombinator.com/item?id=27467999
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

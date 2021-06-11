@@ -84,6 +84,9 @@ https://anvaka.github.io/city-roads/
 
 https://shademap.app/#45.06576,-118.41064,6z,1623209753240t
 
+https://www.openhistoricalmap.org/
+* https://news.ycombinator.com/item?id=27469715
+
 # georoutage
 https://pncnmnp.github.io/blogs/distance-oracles.html
 * https://news.ycombinator.com/item?id=27420155

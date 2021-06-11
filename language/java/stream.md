@@ -16,3 +16,7 @@ https://codecooks.com/java8-stream-operations/
 
 https://blog.frankel.ch/teeing-java-api/
 * https://news.ycombinator.com/item?id=27103033
+
+https://www.reddit.com/r/java/comments/nuuhdz/streamtolist_is_weird/
+
+https://medium.com/geekculture/pitfalls-of-java-parallel-streams-731fe0c1eb5f

@@ -124,7 +124,14 @@ https://joinmobilizon.org/en/
 https://github.com/fmeringdal/nettu-meet Dashboard
 * https://news.ycombinator.com/item?id=27434254
 
+# Media center
+https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse
+* https://jellyfin.org/
+* https://news.ycombinator.com/item?id=27462767
+
 # News
+https://www.gnu.org/prep/standards/standards.html#Semantics
+* https://news.ycombinator.com/item?id=27459169
 https://github.com/readme/unseen-oss
 * https://news.ycombinator.com/item?id=27452151
 https://notepad-plus-plus.org/downloads/v8/ https://notepad-plus-plus.org/news/v8-dark-mode/

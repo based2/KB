@@ -10,6 +10,10 @@ https://bl.ocks.org/colbenkharrl/21b3808492b93a21de841bc5ceac4e47
 
 https://vaibhavsagar.com/blog/2017/06/10/dag-toolkit/
 
+https://dev.to/crinklesio/creating-an-auto-layout-algorithm-for-graphs-436k
+
+https://github.com/yamafaktory/hypergraph
+
 # Draw
 https://github.com/nidi3/graphviz-java
 

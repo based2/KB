@@ -1,3 +1,5 @@
+https://exploringjs.com/deep-js/toc.html
+* https://news.ycombinator.com/item?id=27433999
 
 https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
 

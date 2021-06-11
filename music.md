@@ -42,8 +42,11 @@ https://www.reaper.fm/
 * https://news.ycombinator.com/item?id=26984906
 
 https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/
-* https://news.ycombinator.com/item?id=27085922
+* https://news.ycombinator.com/item?id=
 
+# Instrument
+https://www.pianobook.co.uk/
+* https://news.ycombinator.com/item?id=27454717
 
 # Noise
 https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html

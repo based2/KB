@@ -24,6 +24,10 @@ https://github.com/getkeops/keops gpu
 https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
 * https://news.ycombinator.com/item?id=27318942
 
+# Tools
+## TensorFlow
+https://ai.googleblog.com/2021/06/frill-on-device-speech-representations.html
+
 # Store
 https://feast.dev/
 
@@ -41,6 +45,10 @@ https://gradientscience.org/glm_saga/
 
 https://arxiv.org/abs/2009.08378 Event-Based Backpropagation can compute Exact Gradients for Spiking Neural Networks
 * https://news.ycombinator.com/item?id=27364777
+
+## Perf
+https://arxiv.org/abs/2005.04305
+* https://news.ycombinator.com/item?id=27458975
 
 # Image
 https://www.mattkeeter.com/research/mpr/

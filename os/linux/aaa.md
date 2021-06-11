@@ -46,6 +46,10 @@ https://www.rauc.io/ Updates
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # News
+https://lwn.net/Articles/857148/ printk() indexing
+* https://news.ycombinator.com/item?id=27471141
+https://lore.kernel.org/lkml/20210608115254.11930-1-sj38.park@gmail.com/
+* https://news.ycombinator.com/item?id=27459675
 https://www.phoronix.com/scan.php?page=news_item&px=No-O3-For-Linux-Kernel
 * https://news.ycombinator.com/item?id=27409140
 https://lwn.net/SubscriberLink/858023/1caabaef50d4946b/ Auditing io_uring

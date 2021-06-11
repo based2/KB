@@ -1,7 +1,15 @@
+https://vuls.cert.org/confluence/display/Wiki/Finding+Privilege+Escalation+Vulnerabilities+in+Windows+using+Process+Monitor
+* https://news.ycombinator.com/item?id=27456731
+
+https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
+* https://news.ycombinator.com/item?id=27462247
+
 https://www.vusec.net/projects/fpvi-scsb/
 
 https://arstechnica.com/gadgets/2021/06/hackers-can-mess-with-https-connections-by-sending-data-to-your-email-server/
 * https://alpaca-attack.com/ 
+
+https://makosecblog.com/malware-dev/dll-unhooking-csharp/
 
 https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
 

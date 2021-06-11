@@ -30,6 +30,9 @@ https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-moz
 https://github.com/bake-bake-bake/bakeware
 * https://news.ycombinator.com/item?id=27430806
 
+https://keathley.io/blog/good-and-bad-elixir.html
+* https://news.ycombinator.com/item?id=27463725
+
 # Gleam
 https://gleam.run/
 https://gleam.run/news/gleam-v0.15-released/

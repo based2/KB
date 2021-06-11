@@ -34,5 +34,8 @@ duolingo
 https://languagelearningwithnetflix.com/
 * https://news.ycombinator.com/item?id=27420959
 
+https://www.fluent.co/
+* https://news.ycombinator.com/item?id=27464539
+
 # Memory
 https://github.com/ContextLab/human-memory

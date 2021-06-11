@@ -1,3 +1,5 @@
+https://github.com/noraj/haiti CLI tool (and library) to identify the hash type of a given hash
+
 https://ferd.ca/simhashing-hopefully-made-simple.html
 
 https://reveng.sourceforge.io/crc-catalogue/

@@ -75,6 +75,16 @@ https://gist.github.com/alirobe/7f3b34ad89a159e6daa1 reclaimWindows10.ps1
 * https://news.ycombinator.com/item?id=27353810
 
 # News
+https://github.com/NationalSecurityAgency/fractalrabbit
+* https://news.ycombinator.com/item?id=27446524
+https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/
+* https://news.ycombinator.com/item?id=27463794
+https://www.platformer.news/p/will-apple-mail-end-the-newsletter
+* https://news.ycombinator.com/item?id=27448240
+https://digiday.com/marketing/as-ad-tech-firms-test-ways-to-connect-googles-floc-to-other-data-privacy-watchers-see-fears-coming-true/
+* https://news.ycombinator.com/item?id=27459247
+https://potential.app/ios-15-humane
+* https://news.ycombinator.com/item?id=27456500
 https://wiki.mozilla.org/Project_Fission
 https://www.adexchanger.com/privacy/wwdc-2021-apple-calls-open-season-on-ip-address-tracking-and-targeting/
 https://developer.apple.com/documentation/safariservices/safari_web_extensions/blocking_content_with_your_safari_web_extension

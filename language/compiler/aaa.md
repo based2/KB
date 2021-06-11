@@ -30,6 +30,10 @@ https://github.com/fosslinux/live-bootstrap
 https://blog.cloudflare.com/branch-predictor/
 * https://news.ycombinator.com/item?id=27062650
 
+https://vaibhavsagar.com/blog/2019/09/08/popcount/
+* https://news.ycombinator.com/item?id=27470529
+* https://news.ycombinator.com/item?id=27351906 empty?
+
 # ABI
 https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
 

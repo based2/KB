@@ -1,5 +1,8 @@
 https://www.wolframalpha.com/
 
+https://ourway.keybase.pub/mathematics_cheat_sheet.pdf
+* https://news.ycombinator.com/item?id=27468908
+
 https://kalk.strct.net/ Command line calculator that supports math-like syntax with user-defined variables, functions, derivation, integration, and complex numbers
 * https://news.ycombinator.com/item?id=27333772
 
@@ -32,7 +35,10 @@ https://tympanus.net/codrops/2021/06/02/trigonometry-in-css-and-javascript-getti
 
 http://blog.pkh.me/p/29-the-most-useful-math-formulas.html
 
+
+
 # News
+https://writings.stephenwolfram.com/2021/06/1920-2020-and-a-20000-prize-announcing-the-s-combinator-challenge/
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323
 

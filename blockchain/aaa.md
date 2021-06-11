@@ -34,6 +34,8 @@ https://txstreet.com/v/btc-eth
 https://www.zeroknowledgeblog.com/index.php/zk-snarks
 
 # News
+https://wildland.io/
+* https://news.ycombinator.com/item?id=27473180
 https://github.com/vmware/concord-bft/blob/master/docs/design.md
 https://github.com/firmalabs/zmsg
 * https://news.ycombinator.com/item?id=27191568

@@ -1,4 +1,5 @@
 https://hibernate.org/
+https://vladmihalcea.com/hibernate-statementinspector/
 
 https://en.wikipedia.org/wiki/Jakarta_Persistence
 

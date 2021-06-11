@@ -111,6 +111,7 @@ https://github.com/ToolJet/ToolJet/
 
 https://community.plotly.com/t/announcing-plotly-js-2-0/53675
 
+https://xcorr.net/2021/06/02/dynamic-scientific-visualizations-in-the-browser-for-python-users/
 
 # Database
 

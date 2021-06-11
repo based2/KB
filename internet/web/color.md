@@ -32,6 +32,9 @@ https://news.ycombinator.com/item?id=26934352
 https://www.wired.com/story/how-pixar-uses-hyper-colors-to-hack-your-brain/
 * https://news.ycombinator.com/item?id=27006692
   * https://prolost.com/blog/edr
-  * https://en.m.wikipedia.org/wiki/Impossible_color  
+  * https://en.m.wikipedia.org/wiki/Impossible_color 
+
+https://openrgb.org/ RGB lighting control that doesn't depend on manufacturer software
+* https://news.ycombinator.com/item?id=27457696
 
 

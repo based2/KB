@@ -1,4 +1,8 @@
+https://webassembly.org/
+
 https://bytecodealliance.org/
+
+
 
 https://blog.mozilla.org/blog/2021/04/28/growing-the-bytecode-alliance/
 * https://news.ycombinator.com/item?id=26973260

@@ -7,12 +7,15 @@ https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio
 https://www.nzyme.org/ Defend your Wireless Networks
 https://www.krackattacks.com/#tools From 2017
 
-#
-http://biosrhythm.com/?page_id=1453
-* https://news.ycombinator.com/item?id=14677297
+# Bridge
+https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
+* https://news.ycombinator.com/item?id=27464907
 
 https://sagacioussuricata.com/posts/openwrt-serial-bridge/
 * https://news.ycombinator.com/item?id=27350523
+
+http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your Retro Computer
+* https://news.ycombinator.com/item?id=14677297
 
 
 

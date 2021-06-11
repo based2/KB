@@ -37,6 +37,16 @@ https://eng.uber.com/pyro/
 
 https://loup-vaillant.fr/articles/deaths-of-oop
 
+http://canonical.org/~kragen/memory-models/
+* https://news.ycombinator.com/item?id=27455509
+
+https://functional-programming-in-elm.netlify.app/recursion/tail-call-elimination.html
+
+https://if50.substack.com/p/1993-curses
+* https://news.ycombinator.com/item?id=27459698
+
+https://en.wikipedia.org/wiki/Abstraction_inversion
+
 # Exotic
 https://github.com/iAmGio/pikt
 https://www.dangermouse.net/esoteric/piet.html
@@ -45,3 +55,10 @@ https://hexagony.net/about.html
 https://codegolf.stackexchange.com/questions/607/find-the-factorial/629#629
 
 https://github.com/TartanLlama/vizh
+
+# Hackaton
+https://www.juricho.me/posts/online-hackathon/
+
+#
+https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
+* https://news.ycombinator.com/item?id=27458721
