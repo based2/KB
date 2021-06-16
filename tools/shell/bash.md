@@ -26,3 +26,6 @@ https://www.shellcheck.net/
 
 https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars
 * https://news.ycombinator.com/item?id=27163494
+
+https://blog.dnmfarrell.com/post/modulinos-in-bash/ function
+* https://news.ycombinator.com/item?id=27524749

@@ -91,6 +91,13 @@ https://www.openhistoricalmap.org/
 https://pncnmnp.github.io/blogs/distance-oracles.html
 * https://news.ycombinator.com/item?id=27420155
 
+# Geohash
+https://mro.name/g/about GPL
+* https://mro.name/g/u154
+
+# GPS
+https://arstechnica.com/gadgets/2020/03/why-are-u-2-jet-pilots-wearing-garmin-satellite-navigation-smartwatches/
+
 # News
 https://news.ycombinator.com/item?id=26918259
 * https://protomaps.com/blog/new-way-to-make-maps/

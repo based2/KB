@@ -6,6 +6,10 @@ https://www.powerpc-notebook.org/
 
 http://openocd.org/
 
+https://openthread.io/
+* https://lab5e.com/blog/2021/6/14/otbr/
+* 
+
 https://www.forwardcom.info/ An open forward-compatible instruction set architecture
 
 https://www.businesswire.com/news/home/20210408005158/en/Open-Source-FPGA-Launches-Foundation-to-Accelerate-Widespread-Adoption-of-Programmable-Logic

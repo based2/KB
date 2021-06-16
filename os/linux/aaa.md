@@ -46,6 +46,13 @@ https://www.rauc.io/ Updates
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # News
+https://foundation.kernelci.org/blog/
+https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf
+* https://news.ycombinator.com/item?id=27513149
+https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/
+* https://news.ycombinator.com/item?id=27509944
+https://blogs.gnome.org/tbernard/2021/06/11/community-power-1/
+https://lists.debian.org/debian-devel-announce/2021/06/msg00000.html bullseye
 https://lwn.net/Articles/857148/ printk() indexing
 * https://news.ycombinator.com/item?id=27471141
 https://lore.kernel.org/lkml/20210608115254.11930-1-sj38.park@gmail.com/

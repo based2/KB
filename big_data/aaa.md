@@ -128,3 +128,6 @@ https://observablehq.com/@observablehq/plot-vega-lite
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
 
+# CI
+https://hypervector.io/
+

@@ -62,3 +62,7 @@ https://www.juricho.me/posts/online-hackathon/
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 * https://news.ycombinator.com/item?id=27458721
+
+# API
+https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
+* https://news.ycombinator.com/item?id=27510647

@@ -8,3 +8,9 @@ https://erc.europa.eu/
 
 
 https://hirund.in/blog/coding-qualitative-data-current-and-future-practices
+
+https://www.sprind.org/en
+
+# Biology
+https://adamashwal.com/fruit
+* https://news.ycombinator.com/item?id=27507675

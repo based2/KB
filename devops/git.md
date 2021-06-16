@@ -1,5 +1,7 @@
 https://git-scm.com/
 
+https://www.weave.works/blog/the-gitops-maturity-model
+
 https://www.netguru.com/codestories/5-git-commands-i-wish-i-knew-about-when-i-started-coding
 
 https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf

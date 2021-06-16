@@ -2,7 +2,15 @@ https://webassembly.org/
 
 https://bytecodealliance.org/
 
+# Cpmpile
 
+https://github.com/appcypher/awesome-wasm-langs
+
+https://github.com/AssemblyScript/assemblyscript
+
+https://emscripten.org/index.html C
+
+https://rustwasm.github.io/docs/book/
 
 https://blog.mozilla.org/blog/2021/04/28/growing-the-bytecode-alliance/
 * https://news.ycombinator.com/item?id=26973260
@@ -34,6 +42,8 @@ https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 * https://news.ycombinator.com/item?id=26994741
 
 # News
+https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/
+https://www.bitcraze.io/2021/06/rust-wasm-and-the-crazyflie/
 https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/ safari
 https://www.infoq.com/news/2021/05/grain-web-assembly-first/
 * https://news.ycombinator.com/item?id=27071060

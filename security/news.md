@@ -1,10 +1,36 @@
+https://www.tenable.com/security/tns-2021-11?tns_redirect=true
+
+https://apnews.com/article/europe-technology-business-3bddc473856a9af259feb511f58a51d3
+
+https://9to5google.com/2021/06/15/google-messages-encryption/
+* https://news.ycombinator.com/item?id=27525894
+
+https://rog3rsm1th.github.io/posts/sigreturn-oriented-programming/
+
+https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
+
+https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-microsoft-teams-through-malicious-tabs-a7e5ff07b138
+
+https://blog.chichou.me/mistune/
+
+https://www.bleepingcomputer.com/news/security/codecov-ditches-bash-uploader-for-a-nodejs-executable/
+
+https://gccybermonks.com/posts/popups/
+
+https://about.fb.com/news/2021/06/may-2021-coordinated-inauthentic-behavior-report/
+* https://news.ycombinator.com/item?id=27485580
+
 https://vuls.cert.org/confluence/display/Wiki/Finding+Privilege+Escalation+Vulnerabilities+in+Windows+using+Process+Monitor
 * https://news.ycombinator.com/item?id=27456731
 
 https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 * https://news.ycombinator.com/item?id=27462247
+* https://www.bleepingcomputer.com/news/security/linux-system-service-bug-lets-you-get-root-on-most-modern-distros/
 
 https://www.vusec.net/projects/fpvi-scsb/
+
+https://blog.grimm-co.com/2021/06/the-walls-have-ears.html
+* https://www.reddit.com/r/netsec/comments/nvp71f/the_walls_have_ears_compromising_a_conference/
 
 https://arstechnica.com/gadgets/2021/06/hackers-can-mess-with-https-connections-by-sending-data-to-your-email-server/
 * https://alpaca-attack.com/ 

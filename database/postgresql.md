@@ -53,6 +53,10 @@ https://github.com/arkhipov/temporal_tables Table that records the period of tim
 https://github.com/nearform/temporal_tables
 * https://news.ycombinator.com/item?id=26748096
 
+# Queue
+https://spin.atomicobject.com/2021/02/04/redis-postgresql/
+* https://news.ycombinator.com/item?id=27482243
+
 # Security
 https://goteleport.com/blog/securing-postgres-postgresql/
 * https://news.ycombinator.com/item?id=26674756

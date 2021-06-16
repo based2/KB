@@ -7,6 +7,10 @@ https://news.ycombinator.com/item?id=26526108 Cryptography behind the top crypto
 # Experiments
 https://clickclickclick.click/
 
+# History
+https://cryptosec.info/exchange-hacks/
+* 
+
 
 # News
 https://www.wsj.com/articles/china-creates-its-own-digital-currency-a-first-for-major-economy-11617634118

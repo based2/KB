@@ -10,3 +10,6 @@ https://rootsofprogress.org/nuclear-physics
 
 https://www.feynmanlectures.caltech.edu/flptapes.html
 * https://news.ycombinator.com/item?id=27322636
+
+https://home.cern/news/news/physics/lhcb-measures-tiny-mass-difference-between-particles
+* https://news.ycombinator.com/item?id=27483949

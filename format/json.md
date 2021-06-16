@@ -38,3 +38,5 @@ https://johnzon.apache.org/
 https://jsonfeed.micro.blog/2017/05/17/announcing-json-feed.html
 * https://news.ycombinator.com/item?id=14360729
 
+https://2ality.com/2021/06/json-modules.html
+

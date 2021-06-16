@@ -101,6 +101,7 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/
 https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426
 * https://bugzilla.mozilla.org/show_bug.cgi?id=1715455 Let's Encrypt: certificate lifetimes 90 days plus one second
 * https://news.ycombinator.com/item?id=27450364

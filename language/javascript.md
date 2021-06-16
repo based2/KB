@@ -3,6 +3,9 @@ https://exploringjs.com/deep-js/toc.html
 
 https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
 
+https://medium.com/nmc-techblog/advanced-console-log-tips-tricks-fa3762930bca
+* https://news.ycombinator.com/item?id=27499335
+
 # Frameworks
 ## VueJS
 https://vuejs.org/
@@ -27,6 +30,9 @@ https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html
 * https://news.ycombinator.com/item?id=27438400
 
 https://blog.placemark.io/2021/06/08/react-aria.html
+
+https://utopia.app/
+* https://news.ycombinator.com/item?id=27516212
 
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49

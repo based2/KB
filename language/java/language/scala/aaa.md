@@ -8,6 +8,9 @@ https://akka.io/
 
 https://www.scala-js.org/
 
+https://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html
+* https://news.ycombinator.com/item?id=27491105
+
 # DI
 https://github.com/yakivy/jam
 

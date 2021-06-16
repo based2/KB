@@ -19,6 +19,10 @@ sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.pl
 http://developingandmac.blogspot.com.es/2015/02/no-mouse.html
 https://apple.stackexchange.com/questions/259093/can-touch-id-for-the-mac-touch-bar-authenticate-sudo-users-and-admin-privileges/306324#306324
 
+
+https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/
+* https://news.ycombinator.com/item?id=27492268
+
 # VM
 https://github.com/foxlet/macOS-Simple-KVM
 
@@ -38,6 +42,7 @@ https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
 * https://news.ycombinator.com/item?id=27451413
 
 # M1
+https://eclecticlight.co/2021/04/22/can-you-trust-floating-point-arithmetic-on-apple-silicon/?utm_source=bengtan.com
 https://developer.apple.com/metal/tensorflow-plugin/
 * https://news.ycombinator.com/item?id=27442475
 https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9
@@ -70,6 +75,7 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://taoofmac.com/space/blog/2021/06/05/1100 The Big Sur kernel_task Troubleshooting Saga
 https://appleinsider.com/articles/21/05/24/apples-moves-point-to-a-future-with-no-bootable-backups-says-developer
 https://9to5mac.com/2021/05/18/40-core-mac-pro-high-end-mac-mini-in-development/
 * https://news.ycombinator.com/item?id=27194476

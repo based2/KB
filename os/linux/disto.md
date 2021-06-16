@@ -38,6 +38,8 @@ https://news.ycombinator.com/item?id=26002251 https://www.gobolinux.org/
 https://news.ycombinator.com/item?id=26001738 https://garudalinux.org/
 
 # News
+https://alpinelinux.org/posts/Alpine-3.14.0-released.html
+* https://news.ycombinator.com/item?id=27521410
 https://gitea.redalder.org/Magic_RB/NixNG
 https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraRPMSpecsAndRHEL
 * https://news.ycombinator.com/item?id=27377398

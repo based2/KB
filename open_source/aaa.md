@@ -120,6 +120,10 @@ https://fediverse.party/en/miscellaneous
 
 https://joinmobilizon.org/en/
 
+# Notes
+https://joplinapp.org/
+* https://news.ycombinator.com/item?id=27520906
+
 # Collaboration
 https://github.com/fmeringdal/nettu-meet Dashboard
 * https://news.ycombinator.com/item?id=27434254
@@ -130,6 +134,16 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 * https://news.ycombinator.com/item?id=27462767
 
 # News
+https://github.com/NixOS/nixpkgs/pull/126326
+* https://news.ycombinator.com/item?id=27505277
+https://daniel.haxx.se/blog/2021/06/14/bye-bye-travis-ci/
+https://abhas.io/libretechshop/
+* https://news.ycombinator.com/item?id=27490049
+https://up-for-grabs.net/#/
+* https://news.ycombinator.com/item?id=27498602
+https://useful-forks.github.io/
+https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2
+* https://news.ycombinator.com/item?id=27490892
 https://www.gnu.org/prep/standards/standards.html#Semantics
 * https://news.ycombinator.com/item?id=27459169
 https://github.com/readme/unseen-oss

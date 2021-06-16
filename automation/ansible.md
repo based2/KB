@@ -4,6 +4,9 @@ Company: IBM/Red Hat
 License: GPL
 Language: Python
 
+https://www.jeffgeerling.com/blog/2021/allowing-ansible-playbooks-work-new-user-groups-on-first-run
+* https://lobste.rs/s/j9amxd/allowing_ansible_playbooks_work_with_new
+
 # Ansible Vault
 
 # Notes

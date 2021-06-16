@@ -80,6 +80,8 @@ https://blog.yoshuawuyts.com/optimizing-hashmaps-even-more/
 
 https://www.lpalmieri.com/posts/error-handling-rust/
 
+https://blogs.harvard.edu/kapolos/rust-from-a-javascript-perspective/
+
 # Async
 https://tokio.rs/
 
@@ -119,6 +121,9 @@ https://github.com/alacritty/alacritty
 https://github.com/TaKO8Ki/awesome-alternatives-in-rust
 * https://news.ycombinator.com/item?id=27312564
 
+# Type
+https://www.jakobmeier.ch/blogging/Untapped-Rust.html
+
 # Book
 https://github.com/ANSSI-FR/rust-guide
 
@@ -130,6 +135,8 @@ https://news.ycombinator.com/item?id=26565444 CXX C++
 
 https://www.fluvio.io/blog/2021/05/java-client/
 * https://www.reddit.com/r/java/comments/n4wf6h/embedding_rust_code_in_java_jar_for_distribution/
+
+https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html
 
 # MacOs
 https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/

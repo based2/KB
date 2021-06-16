@@ -6,6 +6,8 @@ https://madada.fr/
 
 
 # open gov
+https://www.gov.uk/government/publications/open-standards-for-government/sharing-or-collaborating-with-government-documents
+
 https://open.canada.ca/en/open-data
 * https://news.ycombinator.com/item?id=16018000
 

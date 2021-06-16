@@ -29,6 +29,9 @@ https://heipei.io/2015/02/26/SSH-Agent-Forwarding-considered-harmful/
 https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-openssh-private-keys/
 * https://www.reddit.com/r/crypto/comments/nriggg/public_key_cryptography_openssh_private_keys/
 
+https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html
+* https://news.ycombinator.com/item?id=27483077
+
 # Certificates
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_ca_certificate_signing-keys
 https://smallstep.com/blog/use-ssh-certificates/
@@ -57,6 +60,9 @@ https://github.com/ssh-mitm/ssh-mitm
 
 # GPG SSH
 https://blog.dijit.sh//gpg-ssh-notes-for-current-best-practices
+
+#
+https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-openssh-private-keys/
 
 # EOL
 https://blog.g3rt.nl/upgrade-your-ssh-keys.html

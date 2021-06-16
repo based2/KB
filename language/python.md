@@ -7,6 +7,9 @@ https://medium.com/techtofreedom/for-else-a-weird-but-useful-feature-in-python-2
 https://docs.python.org/3/library/collections.html#collections.defaultdict
 * https://news.ycombinator.com/item?id=27036745
 
+https://arrow.apache.org/blog/2019/02/05/python-string-memory-0.12/
+* https://news.ycombinator.com/item?id=27468692
+
 # Functional
 https://github.com/pytoolz/toolz
 
@@ -117,6 +120,8 @@ https://github.com/facebookincubator/cinder
 * https://news.ycombinator.com/item?id=27043217
 
 # News
+https://filesystem-spec.readthedocs.io/en/latest/index.html
+* https://news.ycombinator.com/item?id=27523377
 https://semaphoreci.com/blog/building-python-projects-with-pants
 https://github.com/tiangolo/fastapi/issues/2518 FastAPI default configuration leaks traffic information to multiple third parties
 https://github.com/faster-cpython/ideas

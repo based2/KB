@@ -17,6 +17,11 @@ http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Cloj
 https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/
 * https://news.ycombinator.com/item?id=27385208
 
+https://github.com/kloimhardt/babashka-scittle-guestbook
+
+https://danielgregoire.dev/posts/2021-06-13-code-observation-clojure-destructuring/
+* https://news.ycombinator.com/item?id=27501254
+
 # Testing
 https://fctorial.github.io/posts/tst.html
 
@@ -32,3 +37,6 @@ https://stopa.io/post/258 Simulating RAM
 
 # Diagram
 https://github.com/jebberjeb/specviz
+
+# Clojurescript
+https://shaunlebron.github.io/t3tr0s-slides/#0

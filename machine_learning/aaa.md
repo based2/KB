@@ -46,6 +46,13 @@ https://gradientscience.org/glm_saga/
 https://arxiv.org/abs/2009.08378 Event-Based Backpropagation can compute Exact Gradients for Spiking Neural Networks
 * https://news.ycombinator.com/item?id=27364777
 
+https://github.com/neuronika/neuronika rust
+
+### Transfomer
+https://arxiv.org/abs/2106.06981 Thinking Like Transformers
+* https://news.ycombinator.com/item?id=27528004
+ * https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html
+
 ## Perf
 https://arxiv.org/abs/2005.04305
 * https://news.ycombinator.com/item?id=27458975

@@ -1,5 +1,7 @@
 https://erlang.org/doc/man/persistent_term.html
 
+http://www.erlang-factory.com/upload/presentations/467/Halfword_EUC_2011.pdf
+* https://news.ycombinator.com/item?id=27499282
 
 # OTP
 https://blog.erlang.org/My-OTP-24-Highlights/

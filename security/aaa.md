@@ -15,6 +15,12 @@ https://www.microsoft.com/en-us/itshowcase/implementing-a-zero-trust-security-mo
 
 http://www.ietf.org/rfc/rfc2350.txt  Expectations for Computer Security Incident Response
 
+https://smallstep.com/blog/command-line-secrets/
+* https://news.ycombinator.com/item?id=27490885
+
+https://www.netmeister.org/blog/infosec-competencies.html
+* https://news.ycombinator.com/item?id=27491443
+
 # Identity
 https://en.wikipedia.org/wiki/Claims-based_identity
 
@@ -51,6 +57,9 @@ https://aws.amazon.com/fr/blogs/opensource/better-random-number-generation-for-o
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 
+# Antivirus
+https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
+* https://news.ycombinator.com/item?id=27509888
 
 #
 https://download.vusec.net/papers/constantine_ccs21.pdf

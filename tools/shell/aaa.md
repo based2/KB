@@ -26,3 +26,6 @@ https://github.com/google/zx
 * https://www.reddit.com/r/programming/comments/n9559t/googlezx_a_tool_for_writing_better_scripts/
 
 https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf
+
+https://github.com/nushell/nushell
+* https://news.ycombinator.com/item?id=27525031

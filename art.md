@@ -20,6 +20,9 @@ http://i.imgur.com/NEp3u2Q.jpg Stone age jottings
 
 https://www.thisiscolossal.com/2021/06/utagawa-hiroshige-shadow-puppets/
 
+https://tylerxhobbs.com/fidenza
+* https://news.ycombinator.com/item?id=27494863
+
 # Architecture
 https://rodencrater.com/spaces/all/
 

@@ -8,3 +8,6 @@ https://andregarzia.com/2021/04/writing-a-technical-book.html
 
 https://github.com/vkbo/novelWriter
 * https://news.ycombinator.com/item?id=27432022
+
+https://frundis.tuxfamily.org/
+* https://linuxfr.org/news/projet-kaosfantasy-et-liberation-de-trois-series-de-fantasy-plus-de-5000-pages

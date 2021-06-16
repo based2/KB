@@ -17,3 +17,7 @@ https://github.com/microsoft/ebpf-for-windows
 * https://news.ycombinator.com/item?id=27108593
 
 https://pchaigno.github.io/ebpf/2021/04/12/bmc-accelerating-memcached-using-bpf-and-xdp.html
+
+http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html
+
+https://confused.ai/posts/announcing-aya rust

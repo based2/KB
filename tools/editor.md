@@ -1,6 +1,7 @@
 # Vi
 ## Vim
 https://vim-bootstrap.com/
+https://spacevim.org/SpaceVim-release-v1.7.0/
 
 # Nano
 

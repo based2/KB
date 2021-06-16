@@ -58,10 +58,13 @@ https://csemver.org/
 
 https://calver.org/
 
+https://lumosql.org/src/not-forking/doc/trunk/README.md
+
 # CI
 
 https://www.jenkins.io/
 https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
+https://itnext.io/git-notes-your-ci-process-46b2fd5ac52
 
 https://tekton.dev/
 

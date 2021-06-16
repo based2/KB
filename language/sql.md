@@ -16,6 +16,8 @@ https://www.sqlshack.com/different-ways-to-sql-delete-duplicate-rows-from-a-sql-
 https://cra.mr/2010/05/30/scaling-threaded-comments-on-django-at-disqus/
 * 
 
+https://excessivelyadequate.com/posts/rule30.html
+
 # Indexes
 https://use-the-index-luke.com/
 

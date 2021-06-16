@@ -74,7 +74,23 @@ https://www.caliopen.org/en/
 https://gist.github.com/alirobe/7f3b34ad89a159e6daa1 reclaimWindows10.ps1
 * https://news.ycombinator.com/item?id=27353810
 
+https://firstpartysimulator.org/ EFF
+* https://news.ycombinator.com/item?id=27523834
+
 # News
+https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html
+* https://news.ycombinator.com/item?id=27527559
+https://www.schneier.com/blog/archives/2021/06/tiktok-can-now-collect-biometric-data.html
+https://digiday.com/media/amazon-is-blocking-googles-floc-and-that-could-seriously-weaken-the-fledgling-tracking-system/
+* https://news.ycombinator.com/item?id=27515230
+https://www.dataprotectioncontrol.org/ ADPC
+* https://www.dataprotectioncontrol.org/spec/
+ * https://news.ycombinator.com/item?id=27526063
+https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/
+* https://news.ycombinator.com/item?id=27510103
+https://mobiledevmemo.com/its-apples-internet-now/
+* https://news.ycombinator.com/item?id=27504214
+https://theintercept.com/2021/06/12/iphone-ipad-erase-power-drill/
 https://github.com/NationalSecurityAgency/fractalrabbit
 * https://news.ycombinator.com/item?id=27446524
 https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/

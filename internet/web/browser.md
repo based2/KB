@@ -20,6 +20,8 @@ https://robert.ocallahan.org/2017/12/maintaining-independent-browser-is.html
 https://intoli.com/blog/firefox-extensions-with-selenium/
 
 # News
+https://web.dev/file-handling/
+* https://news.ycombinator.com/item?id=27501732
 https://stopa.io/post/279 Web Applications from the Future: A Database in the Browser
 * https://news.ycombinator.com/item?id=27424496
 https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins

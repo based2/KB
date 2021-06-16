@@ -39,6 +39,10 @@ https://noyb.eu/en/noyb-aims-end-cookie-banner-terror-and-issues-more-500-gdpr-c
 https://gdpr.eu/companies-outside-of-europe/
 * https://news.ycombinator.com/item?id=27395121
 
+https://www.dataprotectioncontrol.org/spec/
+
+https://www.pixeldetracking.com/fr/comment-les-editeurs-se-moquent-de-la-cnil
+
 # Users
 https://privacybot.io/
 * https://news.ycombinator.com/item?id=27146828
@@ -47,6 +51,7 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://noyb.eu/en/irish-dpc-handles-9993-gdpr-complaints-without-decision
 https://www.avg.com/en-us/products-policy#antivirus0
 * https://news.ycombinator.com/item?id=27334548
 https://www.datatilsynet.no/en/news/2021/intent-to-issue--25-million-fine-to-disqus-inc/

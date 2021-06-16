@@ -12,3 +12,9 @@ https://kapitan.dev/
 
 https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 * https://news.ycombinator.com/item?id=27433863
+
+https://github.com/ToolJet/ToolJet
+
+# Validation
+https://cuelang.org/docs/about/
+* https://news.ycombinator.com/item?id=27510919

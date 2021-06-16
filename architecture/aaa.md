@@ -57,6 +57,9 @@ http://www.brendangregg.com/usemethod.html
 https://microservices.io/patterns/
 * https://news.ycombinator.com/item?id=16014278
 
+https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9137a51
+* https://news.ycombinator.com/item?id=27492594
+
 # News
 https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf
 

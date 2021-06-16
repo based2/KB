@@ -15,12 +15,17 @@ https://www.docker.com/blog/changing-how-updates-work-with-docker-desktop-3-3/
 https://vsupalov.com/rebuilding-docker-image-development/
 * https://news.ycombinator.com/item?id=27343933
 
+https://grahamc.com/blog/nix-and-layered-docker-images
+
 # Best practices
 https://github.com/radial
 radial/busyboxplus
 
 # Linter
 https://github.com/hadolint/hadolint Haskell
+
+https://github.com/cr0hn/dockerfile-security
+* https://www.reddit.com/r/netsec/comments/nv0xq7/dockerfilesec_is_a_simple_but_powerful_rulesbased/
 
 # Compose
 https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-with-docker-compose

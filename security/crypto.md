@@ -12,6 +12,8 @@ https://keymaterial.net/2020/09/07/invisible-salamanders-in-aes-gcm-siv/
 https://github.com/MantechUser/aes-finder
 https://blog.elcomsoft.com/2021/04/breaking-rar5-and-7zip-passwords/
 
+https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/
+
 ## AES-GCM
 https://news.ycombinator.com/item?id=27338479
 
@@ -53,7 +55,13 @@ https://fr.wikipedia.org/wiki/LUC_(cryptographie)
 https://en.wikipedia.org/wiki/Lucas_number
 https://en.wikipedia.org/wiki/Jacques_Philippe_Marie_Binet
 
+# Homomorphic
+https://github.com/google/fully-homomorphic-encryption
+* https://news.ycombinator.com/item?id=27510902
+
 # News
+https://eprint.iacr.org/2021/819 Cryptanalysis of the GPRS Encryption Algorithms GEA-1 and GEA-2
+* https://news.ycombinator.com/item?id=27529768
 https://keygen.sh/blog/how-to-generate-license-keys-in-2021/
 * https://news.ycombinator.com/item?id=27380887
 https://hardenedvault.net/2021/06/02/vault1317-thesis.html

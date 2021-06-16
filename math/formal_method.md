@@ -1,5 +1,6 @@
 * https://coq.inria.fr/
   * https://www.lri.fr/~paulin/LASER/course-notes.pdf
+    https://www.theregister.com/2021/06/15/coq_programming_language_change/ coc
 
 https://uds-psl.github.io/tm-verification-framework/
 * https://news.ycombinator.com/item?id=26860503
