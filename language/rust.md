@@ -92,6 +92,9 @@ https://github.com/Xudong-Huang/may concurrency
 
 http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/
 
+https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
+* https://news.ycombinator.com/item?id=27542504
+
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 * https://news.ycombinator.com/item?id=27135591
@@ -192,6 +195,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/
+https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html
 https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3
 https://thephilbert.io/2021/05/31/gcc-rust-monthly-report-6-may-2021/
 * https://news.ycombinator.com/item?id=27343913

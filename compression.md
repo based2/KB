@@ -26,5 +26,7 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://ayende.com/blog/193955-A/sorted-integer-compression
+* https://arxiv.org/pdf/1209.2137.pdf
 https://github.com/facebook/zstd/releases/tag/v1.5.0
 * https://news.ycombinator.com/item?id=27155857

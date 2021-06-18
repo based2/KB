@@ -8,6 +8,10 @@ https://www.focalboard.com/contribute/getting-started/
 
 https://cacm.acm.org/blogs/blog-cacm/249304-time-to-exhume-psp/fulltext
 
+# Meeting
+https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/
+* https://news.ycombinator.com/item?id=27545331
+
 # Waterfall
 http://bawiki.com/wiki/Waterfall.html
 

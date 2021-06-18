@@ -1,3 +1,6 @@
+https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html
+* https://news.ycombinator.com/item?id=27536974
+
 https://www.wolframalpha.com/
 
 https://ourway.keybase.pub/mathematics_cheat_sheet.pdf

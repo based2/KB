@@ -4,6 +4,9 @@ https://harrisonsand.com/gsm-security/
 
 https://alpercinar.com/open-cell-id/
 
+https://startyourownisp.com/
+* https://news.ycombinator.com/item?id=27539165
+
 # BGP
 https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window
 * https://news.ycombinator.com/item?id=26887658
@@ -40,7 +43,15 @@ https://news.ycombinator.com/item?id=26778236
 
 https://en.wikipedia.org/wiki/Project_Sanguine
 
+# RADIO SDR
+https://github.com/cariboulabs/cariboulite
+* https://news.ycombinator.com/item?id=27539834
+
 # Legacy
 ## ISDN
 https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing/
 * https://news.ycombinator.com/item?id=27051670
+
+
+# News
+https://freedomfi.com/

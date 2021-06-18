@@ -27,6 +27,9 @@ https://www.veracode.com/blog/research/message-digests-aka-hashing-functions
 
 https://en.wikipedia.org/wiki/SipHash
 
+https://github.com/bee-san/pyWhat
+* https://news.ycombinator.com/item?id=27526017
+
 # UID
 https://github.com/kpdemetriou/fuuid
 * https://news.ycombinator.com/item?id=27030088
@@ -37,4 +40,7 @@ https://cybergibbons.com/security-2/what3words-the-algorithm/
 
 # Tools
 https://github.com/Clivern/Bucket Consistent Hashing Package for Scalable Data Distribution.
+
+https://francoisbest.com/posts/2021/hashvatars
+* https://news.ycombinator.com/item?id=27534379
 

@@ -4,7 +4,10 @@ https://www.networkworld.com/article/3190407/nine-ways-to-compare-files-on-unix.
 
 https://github.com/google/diff-match-patch
 
-https://javers.org/
+https://javers.org/http://www.pixelbeat.org/programming/diffs/#mergely
+* 
+
+
 
 # Git
 https://github.com/banga/git-split-diffs

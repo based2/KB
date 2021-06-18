@@ -11,6 +11,8 @@ https://github.com/deephacks/awesome-jvm
 
 https://kstefanj.github.io/2021/05/19/large-pages-and-java.html
 
+https://richardstartin.github.io/posts/4k-aliasing
+
 # GC
 https://inside.java/2020/06/25/compact-forwarding/
 * https://news.ycombinator.com/item?id=23700451

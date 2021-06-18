@@ -28,6 +28,9 @@ https://upte.ch/blog/how-we-should-be-using-git/
 https://bakkenbaeck.github.io/a-random-walk-through-git/
 * 
 
+https://stackoverflow.com/questions/11401155/git-how-to-protect-the-branch-from-being-removed-by-other-developers
+https://stackoverflow.com/questions/2471340/is-there-a-way-to-lock-a-branch-in-git?noredirect=1&lq=1
+
 # Books
 https://git-scm.com/book/en/v2
 
@@ -39,6 +42,8 @@ https://jwiegley.github.io/git-from-the-bottom-up/
 https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow
 
 https://github.com/gitflow-incremental-builder/gitflow-incremental-builder
+
+https://nvie.com/posts/a-successful-git-branching-model/
 
 ## Trunk based
 https://trunkbaseddevelopment.com/

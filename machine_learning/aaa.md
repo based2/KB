@@ -87,6 +87,8 @@ https://kobra.dev/
 https://www.mdpi.com/1424-8220/21/9/2984/htm Quantization and Deployment of Deep Neural Networks on Microcontrollers
 * https://news.ycombinator.com/item?id=27324844
 
+https://github.com/facebookresearch/AugLy
+
 # Books & Papers
 ## Papers
 https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c

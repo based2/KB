@@ -1,4 +1,6 @@
 
+https://sonomotors.com/ solar
+https://lightyear.one/
 
 # CAN
 

@@ -9,5 +9,7 @@ https://blog.cloudflare.com/doom-multiplayer-workers/
 
 https://github.com/susam/lab/tree/master/web/sockets
 * https://news.ycombinator.com/item?id=27419154
+
+https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/
     
 SSE

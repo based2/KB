@@ -48,3 +48,6 @@ https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-im
 https://arxiv.org/abs/2104.13785 Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest
 
 https://news.ycombinator.com/item?id=16024879
+
+# News
+https://gitlab.isc.org/isc-projects/bind9/-/issues/2779

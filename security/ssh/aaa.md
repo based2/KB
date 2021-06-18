@@ -32,6 +32,8 @@ https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-open
 https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html
 * https://news.ycombinator.com/item?id=27483077
 
+https://jpmens.net/2021/06/16/ssh-with-a-smartcard-hsm/
+
 # Certificates
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_ca_certificate_signing-keys
 https://smallstep.com/blog/use-ssh-certificates/

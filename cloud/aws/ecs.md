@@ -8,3 +8,5 @@ https://forums.aws.amazon.com/thread.jspa?threadID=84461 (2012)
 
 http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html
 * https://news.ycombinator.com/item?id=27524106
+
+https://aws.amazon.com/ecs/anywhere/

@@ -42,6 +42,8 @@ https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
 * https://news.ycombinator.com/item?id=27451413
 
 # M1
+https://blog.jae.fi/apple-m1-three-months-later/
+* https://lobste.rs/s/vqny0j/apple_m1_three_months_later
 https://eclecticlight.co/2021/04/22/can-you-trust-floating-point-arithmetic-on-apple-silicon/?utm_source=bengtan.com
 https://developer.apple.com/metal/tensorflow-plugin/
 * https://news.ycombinator.com/item?id=27442475
@@ -75,6 +77,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://developer.apple.com/forums/thread/681907 PHP has been removed in macOS Monterey
+* https://news.ycombinator.com/item?id=27537040
 https://taoofmac.com/space/blog/2021/06/05/1100 The Big Sur kernel_task Troubleshooting Saga
 https://appleinsider.com/articles/21/05/24/apples-moves-point-to-a-future-with-no-bootable-backups-says-developer
 https://9to5mac.com/2021/05/18/40-core-mac-pro-high-end-mac-mini-in-development/

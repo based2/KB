@@ -25,12 +25,15 @@ https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capt
 https://changeit.app/
 * https://news.ycombinator.com/item?id=27367244
 
+https://thedetechtor.com/carbo-culture-biochar-carbon-sequestration/
+
 # Sea
 ## Transport
 https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-shipping-tankers/
 * http://inflatedwingsails.com/concept/
 
 # News
+https://branch.climateaction.tech/issues/issue-2/solar-protocol/
 https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide
 * https://news.ycombinator.com/item?id=27440143
 https://syntheticmessenger.labr.io/#about

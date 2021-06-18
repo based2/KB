@@ -49,7 +49,6 @@ https://medium.com/engineering-at-alfa/introducing-astra-a-tool-for-refactoring-
 https://corner.squareup.com/2015/01/javapoet.html
 
 # Notes
-
 https://ijnspector.wordpress.com/ Practical examples for IntelliJ's Structural Search and Replace Templates
 https://www.banterly.net/2019/07/28/one-of-the-more-underrated-features-of-java/
 https://maven.apache.org/plugins/maven-war-plugin/overlays.html

@@ -56,6 +56,8 @@ https://www.wetator.org/
 
 https://www.bingobongotesting.org/
 
+https://eng.uber.com/handling-flaky-tests-java/
+
 # TDD
 https://cucumber.io/
 https://cucumber.io/docs/gherkin/

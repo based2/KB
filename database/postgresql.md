@@ -78,9 +78,16 @@ https://www.paulox.net/2021/05/28/upgrading-postgresql-from-version-12-to-13-on-
 
 https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/
 
+https://fabianlindfors.se/blog/schema-migrations-in-postgres/
+* https://news.ycombinator.com/item?id=27531934
+ * https://dba.stackexchange.com/questions/195104/postgres-group-by-id-works-on-table-directly-but-not-on-identical-view
+
 # Container
 https://www.kubegres.io/
 * https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/
+
+# HA
+https://github.com/zalando/patroni
 
 # News
 https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14

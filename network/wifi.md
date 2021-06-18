@@ -17,5 +17,9 @@ https://sagacioussuricata.com/posts/openwrt-serial-bridge/
 http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your Retro Computer
 * https://news.ycombinator.com/item?id=14677297
 
+# News
+https://www.improv-wifi.com/ Open standard for setting up Wi-Fi via Bluetooth LE
+* https://news.ycombinator.com/item?id=27534448
+
 
 

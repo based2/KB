@@ -2,6 +2,8 @@ https://webassembly.org/
 
 https://bytecodealliance.org/
 
+https://wasmer.io/posts/wasmer-2.0
+
 # Cpmpile
 
 https://github.com/appcypher/awesome-wasm-langs
@@ -42,6 +44,8 @@ https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 * https://news.ycombinator.com/item?id=26994741
 
 # News
+https://github.com/lastmjs/wasm-metal
+* https://news.ycombinator.com/item?id=27534572
 https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/
 https://www.bitcraze.io/2021/06/rust-wasm-and-the-crazyflie/
 https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/ safari

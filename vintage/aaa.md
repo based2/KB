@@ -16,3 +16,10 @@ https://fr.wikipedia.org/wiki/Plan_informatique_pour_tous
 
 https://liam-on-linux.livejournal.com/80768.html
 * https://news.ycombinator.com/item?id=27509629
+
+# DEC
+https://madned.substack.com/p/the-enemy-within
+* https://news.ycombinator.com/item?id=27534145
+
+https://www.realworldtech.com/vax-cpu-economics/
+* https://news.ycombinator.com/item?id=27527140

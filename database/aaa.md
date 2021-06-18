@@ -29,5 +29,8 @@ https://en.wikipedia.org/wiki/Object%E2%80%93relational_impedance_mismatch
 
 https://www.confluent.io/blog/ksqldb-streaming-sql-the-query-your-database-cant-answer/
 
+https://www.cargocultcode.com/what-does-first-normal-form-mean/
+
+
 # Migration
 https://samsaffron.com/archive/2018/03/22/managing-db-schema-changes-without-downtime

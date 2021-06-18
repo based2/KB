@@ -14,6 +14,8 @@ https://tools.ietf.org/html/rfc7807
 
 https://mailwip.com/blog/posts/tracing-http-requests-by-using-response-header-from-the-application/
 
+https://brunoluiz.net/blog/2021/jun/redirect-users-client-side-only/
+
 # Security
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015
 https://en.wikipedia.org/wiki/HTTP_response_splitting

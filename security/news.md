@@ -1,3 +1,16 @@
+https://www.memorysafety.org/about/
+
+https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/
+
+https://access.redhat.com/security/cve/cve-2021-28041
+
+https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html
+* https://github.com/slsa-framework/slsa SLSA: Supply-chain Levels for Software Artifacts
+  * https://cloud.google.com/security/binary-authorization-for-borg
+
+https://eprint.iacr.org/2021/819 Cryptanalysis of the GPRS Encryption Algorithms GEA-1 and GEA-2
+* https://news.ycombinator.com/item?id=27529768 2G
+
 https://www.tenable.com/security/tns-2021-11?tns_redirect=true
 
 https://apnews.com/article/europe-technology-business-3bddc473856a9af259feb511f58a51d3

@@ -17,6 +17,9 @@ https://vsupalov.com/rebuilding-docker-image-development/
 
 https://grahamc.com/blog/nix-and-layered-docker-images
 
+https://mergeboard.com/blog/2-qemu-microvm-docker/
+* https://news.ycombinator.com/item?id=27530074
+
 # Best practices
 https://github.com/radial
 radial/busyboxplus

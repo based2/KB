@@ -134,6 +134,15 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 * https://news.ycombinator.com/item?id=27462767
 
 # News
+https://news.ycombinator.com/item?id=27536661
+* https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html
+* https://lobste.rs/s/6rnyn9/why_i_no_longer_contribute_racket
+ * https://felleisen.org/matthias/Thoughts/Apology.html
+   * https://news.ycombinator.com/item?id=27544797
+https://programming.guide/worlds-most-copied-so-snippet.html
+* https://news.ycombinator.com/item?id=27533684
+https://blog.liw.fi/posts/2021/05/26/sponsored-by/
+* https://news.ycombinator.com/item?id=27531628 git
 https://github.com/NixOS/nixpkgs/pull/126326
 * https://news.ycombinator.com/item?id=27505277
 https://daniel.haxx.se/blog/2021/06/14/bye-bye-travis-ci/

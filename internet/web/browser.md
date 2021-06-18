@@ -20,6 +20,8 @@ https://robert.ocallahan.org/2017/12/maintaining-independent-browser-is.html
 https://intoli.com/blog/firefox-extensions-with-selenium/
 
 # News
+http://ebin.city/%7Ewerwolf/posts/brave-is-shit/
+* https://news.ycombinator.com/item?id=27549604
 https://web.dev/file-handling/
 * https://news.ycombinator.com/item?id=27501732
 https://stopa.io/post/279 Web Applications from the Future: A Database in the Browser

@@ -27,6 +27,10 @@ https://github.com/LingDong-/legumes A sheet music to polylines renderer
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 * https://news.ycombinator.com/item?id=26859907
 
+# Jazz
+https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/
+* https://news.ycombinator.com/item?id=27525047
+
 # Electronic
 
 https://www.vitling.xyz/toys/acid-banger/
@@ -54,3 +58,7 @@ https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
 
 https://www.aalto.fi/en/news/anyone-can-get-super-hearing
 * https://news.ycombinator.com/item?id=27431429
+
+#
+https://lelele.io/bliss.html
+* https://lobste.rs/s/b4lrmb/bliss_v2_library_for_making_audio

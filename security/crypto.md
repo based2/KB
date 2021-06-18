@@ -60,8 +60,6 @@ https://github.com/google/fully-homomorphic-encryption
 * https://news.ycombinator.com/item?id=27510902
 
 # News
-https://eprint.iacr.org/2021/819 Cryptanalysis of the GPRS Encryption Algorithms GEA-1 and GEA-2
-* https://news.ycombinator.com/item?id=27529768
 https://keygen.sh/blog/how-to-generate-license-keys-in-2021/
 * https://news.ycombinator.com/item?id=27380887
 https://hardenedvault.net/2021/06/02/vault1317-thesis.html

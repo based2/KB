@@ -18,6 +18,11 @@ https://man7.org/tlpi/api_changes/index.html
 https://mjg59.dreamwidth.org/57199.html Producing a trustworthy x86-based Linux appliance
 * https://news.ycombinator.com/item?id=27365057
 
+https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/
+* https://news.ycombinator.com/item?id=27540248
+
+https://linuxguidehq.com/linux-commands-cheat-sheet/
+
 # Selinux
 
 https://selinuxproject.org/page/Main_Page
@@ -46,6 +51,12 @@ https://www.rauc.io/ Updates
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
 # News
+https://www.pixelbeat.org/docs/coreutils-gotchas.html
+* https://www.reddit.com/r/programming/comments/3uogjv/gnu_coreutils_gotchas/
+* https://news.ycombinator.com/item?id=27549863
+https://lwn.net/Articles/857599/ Rewriting the GNU Coreutils in Rust
+https://www.phoronix.com/scan.php?page=news_item&px=Google-Wants-Rust-In-Kernel
+https://www.phoronix.com/scan.php?page=news_item&px=LVFS-100k-Firmware-Day https://fwupd.org/
 https://foundation.kernelci.org/blog/
 https://github.com/ossf/wg-securing-critical-projects/blob/main/presentations/The_state_of_the_Linux_kernel_security.pdf
 * https://news.ycombinator.com/item?id=27513149

@@ -29,3 +29,7 @@ https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars
 
 https://blog.dnmfarrell.com/post/modulinos-in-bash/ function
 * https://news.ycombinator.com/item?id=27524749
+
+https://petermalmgren.com/bash-things-i-learned/
+* https://ohmybash.nntoan.com/
+ * https://github.com/ohmybash/oh-my-bash

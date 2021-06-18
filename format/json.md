@@ -40,3 +40,7 @@ https://jsonfeed.micro.blog/2017/05/17/announcing-json-feed.html
 
 https://2ality.com/2021/06/json-modules.html
 
+https://github.com/tomnomnom/gron Make JSON greppable
+* https://lobste.rs/s/xdvu8i/tomnomnom_gron_make_json_greppable
+
+
