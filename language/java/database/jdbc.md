@@ -21,3 +21,6 @@ https://github.com/blynkkk/clickhouse4j
 https://dbeaver.com/docs/wiki/ER-Diagrams/
 
 http://executequery.org/features
+
+# Perf
+https://github.com/eXsio/querydsl-entityql#-query-execution

@@ -11,6 +11,9 @@ https://hirund.in/blog/coding-qualitative-data-current-and-future-practices
 
 https://www.sprind.org/en
 
+https://www.openaire.eu/
+
 # Biology
 https://adamashwal.com/fruit
 * https://news.ycombinator.com/item?id=27507675
+

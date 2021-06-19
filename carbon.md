@@ -33,6 +33,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 * http://inflatedwingsails.com/concept/
 
 # News
+https://www.theguardian.com/us-news/2021/jun/18/us-heatwave-west-climate-crisis-drought
+* https://news.ycombinator.com/item?id=27562050
 https://branch.climateaction.tech/issues/issue-2/solar-protocol/
 https://research.noaa.gov/article/ArtMID/587/ArticleID/2764/Coronavirus-response-barely-slows-rising-carbon-dioxide
 * https://news.ycombinator.com/item?id=27440143

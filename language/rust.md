@@ -195,6 +195,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://news.ycombinator.com/item?id=27559239
+* https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/
 https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html
 https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3

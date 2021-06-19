@@ -89,3 +89,7 @@ https://fosdem.org/2021/schedule/event/realtime_netlisting/
 
 # Code
 https://jgrasp.org/tutorials187/05_CSD.pdf The Control Structure Diagram (CSD)
+
+# ASCII
+https://asciiflow.com/#/
+* https://news.ycombinator.com/item?id=27536253

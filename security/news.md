@@ -1,6 +1,24 @@
+https://posts.specterops.io/certified-pre-owned-d95910965cd2
+* https://www.reddit.com/r/netsec/comments/o21mwu/certified_preowned_abusing_active_directory/
+https://www.riskinsight-wavestone.com/en/2021/06/microsoft-adcs-abusing-pki-in-active-directory-environment/
+* https://www.reddit.com/r/netsec/comments/o153x4/microsoft_adcs_abusing_pki_in_active_directory/  
+
+https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/
+* https://www.reddit.com/r/netsec/comments/o2kerq/bypassing_2fa_using_openid_misconfiguration/
+
+https://thezerohack.com/apple-vulnerability-bug-bounty
+
+https://apnews.com/article/technology-business-government-and-politics-d8c1e9958ad1e89eab83f44e6ca70a94 Hit by a ransomware attack? Your payment may be deductible
+
+https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html
+* https://news.ycombinator.com/item?id=27559795
+
+https://jacobian.org/2021/may/18/2021-dbir-highlights/
+
 https://www.memorysafety.org/about/
 
 https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/
+* https://news.ycombinator.com/item?id=27559290
 
 https://access.redhat.com/security/cve/cve-2021-28041
 

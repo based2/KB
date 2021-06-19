@@ -15,6 +15,7 @@ https://cryptosec.info/exchange-hacks/
 # News
 https://www.youtube.com/watch?v=-whuXHSL1Pg teher
 * https://news.ycombinator.com/item?id=27549524
+* https://news.ycombinator.com/item?id=26236739
 https://irony-97882.medium.com/the-melting-of-iron-89469b01e083
 * https://news.ycombinator.com/item?id=27539368
 https://www.wsj.com/articles/china-creates-its-own-digital-currency-a-first-for-major-economy-11617634118

@@ -109,6 +109,9 @@ https://en.wikipedia.org/wiki/Moxie_Marlinspike#SSL_stripping
 # 2008
 https://www.win.tue.nl/hashclash/rogue-ca/ MD5
 
+# 2007
+* https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia
+
 # 2004
 https://en.wikipedia.org/wiki/Bluesnarfing
 

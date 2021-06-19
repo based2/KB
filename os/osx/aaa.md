@@ -77,6 +77,7 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+http://karolis.koncevicius.lt/posts/cleaning_home_on_macos/
 https://developer.apple.com/forums/thread/681907 PHP has been removed in macOS Monterey
 * https://news.ycombinator.com/item?id=27537040
 https://taoofmac.com/space/blog/2021/06/05/1100 The Big Sur kernel_task Troubleshooting Saga

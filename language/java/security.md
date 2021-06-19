@@ -21,6 +21,9 @@ https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against
 https://techblog.mediaservice.net/2020/04/java-deserialization-scanner-0-6-is-out/
 
 #
+https://wiki.sei.cmu.edu/confluence/display/java
+
+#
 https://bruce.mirkocaserta.com/ Bruce
 https://www.bouncycastle.org/
 

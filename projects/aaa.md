@@ -66,3 +66,6 @@ https://github.com/tuvtran/project-based-learning
 #
 https://garbagecollected.org/2017/10/24/the-carmack-plan/
 *
+
+https://github.com/ixaxaar/awesome-engineering-management
+* https://news.ycombinator.com/item?id=27563259

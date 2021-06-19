@@ -122,7 +122,11 @@ https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understa
 http://www.norvig.com/Lisp-retro.html
 * https://news.ycombinator.com/item?id=27353083
 
+https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/
+* https://news.ycombinator.com/item?id=27559017
+
 # News
+https://github.com/tensorflow/tensorflow/tree/master/tensorflow/security
 https://atcold.github.io/NYU-DLSP21/ Yann LeCun Deep Learning Course 2021
 * https://news.ycombinator.com/item?id=27387154
 https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html

@@ -78,6 +78,8 @@ https://firstpartysimulator.org/ EFF
 * https://news.ycombinator.com/item?id=27523834
 
 # News
+https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true
+* https://news.ycombinator.com/item?id=27558500
 https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html
 * https://news.ycombinator.com/item?id=27527559
 https://www.schneier.com/blog/archives/2021/06/tiktok-can-now-collect-biometric-data.html

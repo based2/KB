@@ -12,6 +12,9 @@ https://bsdly.blogspot.com/2017/08/twenty-plus-years-on-smtp-callbacks-are.html
 https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/
 * https://news.ycombinator.com/item?id=27446907
 
+https://maddy.email/
+* https://news.ycombinator.com/item?id=27557542
+
 # Spam
 https://spa.mnesty.com/
 * https://news.ycombinator.com/item?id=16036121

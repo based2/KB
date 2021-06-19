@@ -11,3 +11,6 @@ https://compcert.org/
 
 https://github.com/Battelle/movfuscator
 * https://news.ycombinator.com/item?id=27202801
+
+https://saagarjha.com/blog/2020/04/12/designing-a-better-strcpy/
+* https://news.ycombinator.com/item?id=27537900
