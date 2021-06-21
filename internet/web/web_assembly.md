@@ -43,6 +43,8 @@ https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
 https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 * https://news.ycombinator.com/item?id=26994741
 
+https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
+
 # News
 https://github.com/lastmjs/wasm-metal
 * https://news.ycombinator.com/item?id=27534572

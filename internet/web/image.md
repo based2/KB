@@ -8,3 +8,5 @@ https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/
 
 https://web.dev/fast/#optimize-your-images
 * https://news.ycombinator.com/item?id=15930326
+
+https://linuxfr.org/news/sortie-de-yoga-image-optimizer-1-0

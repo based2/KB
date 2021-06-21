@@ -5,6 +5,8 @@ https://infrequently.org/2020/06/platform-adjacency-theory/
 
 https://web.dev/compat2021/
 
+
+
 # SEO
 https://news.ycombinator.com/item?id=27315208
 
@@ -31,6 +33,7 @@ https://houdini.how/about/
 https://github.com/slidevjs/slidev
 
 # News
+https://w3c.github.io/webtransport/
 https://www.smashingmagazine.com/2021/05/evolution-jamstack/
 * https://news.ycombinator.com/item?id=27023309
 https://www.regulations.gov/document/FTC-2021-0019-0001/comment

@@ -125,7 +125,17 @@ http://www.norvig.com/Lisp-retro.html
 https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/
 * https://news.ycombinator.com/item?id=27559017
 
+https://github.com/yangxy/GPEN GAN Prior Embedded Network for Blind Face Restoration in the Wild
+* https://news.ycombinator.com/item?id=27571283
+
+# NLP
+https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
+*
+
 # News
+https://github.com/dynamicwebpaige/kaggle-survey-spelunking/blob/main/README.md
+https://rltheorybook.github.io/
+* https://news.ycombinator.com/item?id=27565421
 https://github.com/tensorflow/tensorflow/tree/master/tensorflow/security
 https://atcold.github.io/NYU-DLSP21/ Yann LeCun Deep Learning Course 2021
 * https://news.ycombinator.com/item?id=27387154

@@ -37,7 +37,13 @@ https://news.ycombinator.com/item?id=26002251 https://www.gobolinux.org/
 
 https://news.ycombinator.com/item?id=26001738 https://garudalinux.org/
 
+https://en.wikipedia.org/wiki/Azure_Sphere
+
 # News
+https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723
+* https://news.ycombinator.com/item?id=27573393
+https://rockylinux.org/news/rocky-linux-8-4-rc1-release/
+* https://news.ycombinator.com/item?id=27568087
 https://www.debian.org/News/2021/20210619
 https://alpinelinux.org/posts/Alpine-3.14.0-released.html
 * https://news.ycombinator.com/item?id=27521410

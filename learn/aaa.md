@@ -39,3 +39,13 @@ https://www.fluent.co/
 
 # Memory
 https://github.com/ContextLab/human-memory
+
+# Game
+https://news.ycombinator.com/item?id=27549463
+
+# Light board
+https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/
+* https://news.ycombinator.com/item?id=27575635
+
+# IT system
+https://news.ycombinator.com/item?id=27577514

@@ -31,6 +31,9 @@ https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/
 * https://news.ycombinator.com/item?id=27525047
 
+https://www.researchgate.net/publication/319392963_A_Swingogram_Representation_for_Tracking_Micro-Rhythmic_Variation_in_Jazz_Performances
+* https://news.ycombinator.com/item?id=27538436
+
 # Electronic
 
 https://www.vitling.xyz/toys/acid-banger/
@@ -52,13 +55,4 @@ https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/
 https://www.pianobook.co.uk/
 * https://news.ycombinator.com/item?id=27454717
 
-# Noise
-https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
-* https://news.ycombinator.com/item?id=27447766
 
-https://www.aalto.fi/en/news/anyone-can-get-super-hearing
-* https://news.ycombinator.com/item?id=27431429
-
-#
-https://lelele.io/bliss.html
-* https://lobste.rs/s/b4lrmb/bliss_v2_library_for_making_audio

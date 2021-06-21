@@ -22,6 +22,8 @@ https://agilemanifesto.org/
 https://codingsans.com/blog/self-managed-teams
 * https://news.ycombinator.com/item?id=27207107
 
+https://modelthinkers.com/mental-model/scarf-model
+
 ## Scrum
 https://scrumguides.org/
 

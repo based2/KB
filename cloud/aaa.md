@@ -5,6 +5,10 @@ https://github.com/255kb/stack-on-a-budget
 
 https://www.schneier.com/blog/archives/2021/05/the-misaligned-incentives-for-cloud-security.html
 
+https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html
+
+https://thenewstack.io/an-architects-guide-to-multicloud/
+
 # News
 https://news.ycombinator.com/item?id=27466678 AWS EU-CENTRAL-1 PDT/UTC
 https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront

@@ -89,6 +89,11 @@ https://www.kubegres.io/
 # HA
 https://github.com/zalando/patroni
 
+# Generator
+https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enums
+* https://news.ycombinator.com/item?id=27570058
+
+
 # News
 https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14
 * https://news.ycombinator.com/item?id=27358977

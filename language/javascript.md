@@ -34,6 +34,11 @@ https://blog.placemark.io/2021/06/08/react-aria.html
 https://utopia.app/
 * https://news.ycombinator.com/item?id=27516212
 
+https://www.joshwcomeau.com/react/demystifying-styled-components/
+
+https://medium.com/building-productive/react-ruined-web-development-dd65342a833f
+* https://news.ycombinator.com/item?id=27577523
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -147,5 +152,6 @@ https://github.com/easafe/purescript-flame
 # Dynamic.js libjs
 
 # News
+https://datastation.multiprocess.io/blog/2021-06-16-languages-you-can-run-in-the-browser.html
 https://github.com/lume/autolayout
 * https://news.ycombinator.com/item?id=27322427

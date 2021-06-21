@@ -14,3 +14,6 @@ http://olofkindgren.blogspot.com/2021/02/fossi-fever-2020.html
 https://github.com/stnolting/neorv32 Full-scale RISC-V soft-core microcontroller SoC with on-chip debugger compatible to openocd and GNU gdb
 * https://news.ycombinator.com/item?id=27343948
 
+https://github.com/sylefeb/Silice/tree/draft/projects/ice-v
+* https://news.ycombinator.com/item?id=27575174
+

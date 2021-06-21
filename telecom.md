@@ -54,4 +54,7 @@ https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing
 
 
 # News
+http://www.koreaherald.com/view.php?ud=20210617000953  	
+Korea revokes approvals for 1,700 communication equipment, devices
+* https://news.ycombinator.com/item?id=27565097
 https://freedomfi.com/

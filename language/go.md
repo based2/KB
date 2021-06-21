@@ -25,6 +25,8 @@ https://stonecode.ca/idiomatic-panics/
 
 https://qvault.io/golang/json-golang/
 
+https://github.com/SaiNageswarS/go-api-boot
+
 # UI
 https://www.vugu.org/
 * https://news.ycombinator.com/item?id=26836366

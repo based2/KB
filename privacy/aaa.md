@@ -78,6 +78,7 @@ https://firstpartysimulator.org/ EFF
 * https://news.ycombinator.com/item?id=27523834
 
 # News
+https://reclaimthenet.org/eu-court-rules-private-details-of-users-can-be-handed-over-to-those-who-make-copyright-claims/
 https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true
 * https://news.ycombinator.com/item?id=27558500
 https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html

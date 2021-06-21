@@ -44,3 +44,7 @@ http://janusgraph.org/
 # Algo
 https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 * https://news.ycombinator.com/item?id=27294401
+
+## Cayley - groups
+http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  OF  CAYLEY  GRAPHS
+https://en.wikipedia.org/wiki/Cayley_graph

@@ -21,6 +21,10 @@ https://incolumitas.com/2021/03/13/tcp-ip-fingerprinting-for-vpn-and-proxy-detec
 https://www.cse.wustl.edu/~jain/cis788-99/ftp/voip_protocols/
 * https://news.ycombinator.com/item?id=27323442
 
+# Security
+https://github.com/yggdrasil-network/yggdrasil-go Early-stage implementation of an end-to-end encrypted IPv6 network
+* https://news.ycombinator.com/item?id=27577201
+
 # News
 https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/
 * https://news.ycombinator.com/item?id=26924883

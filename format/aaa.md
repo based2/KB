@@ -3,3 +3,9 @@ https://andymatuschak.org/files/papers/Nelson1965.pdf A File Structure forthe Co
 
 https://github.com/google/iconvg
 * https://news.ycombinator.com/item?id=27404301
+
+# images
+https://jpegxl.info/
+* https://news.ycombinator.com/item?id=27577328
+https://dbohdan.com/wiki/jpeg-xl?
+* https://news.ycombinator.com/item?id=27559748

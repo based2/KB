@@ -54,6 +54,8 @@ https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
 https://github.com/tezc/resql Java
 
 # News
+https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/
+* https://news.ycombinator.com/item?id=27565482
 https://github.com/joaoh82/rust_sqlite
 https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202103-04-sqlite-remote-code-execution-10-22-05?rss
 

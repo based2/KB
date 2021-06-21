@@ -31,6 +31,9 @@ https://bakkenbaeck.github.io/a-random-walk-through-git/
 https://stackoverflow.com/questions/11401155/git-how-to-protect-the-branch-from-being-removed-by-other-developers
 https://stackoverflow.com/questions/2471340/is-there-a-way-to-lock-a-branch-in-git?noredirect=1&lq=1
 
+https://blog.waleedkhan.name/git-undo/
+* https://news.ycombinator.com/item?id=27579701
+
 # Books
 https://git-scm.com/book/en/v2
 

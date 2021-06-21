@@ -1,3 +1,18 @@
+https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
+https://www.hitachi.eu/en/case-studies/hitachi-finger-vein-technology-pbs-bank-poland
+
+https://github.com/laramies/theHarvester
+* https://news.ycombinator.com/item?id=27536332
+
+https://twitter.com/vm_call/status/1405937492642123782
+* https://news.ycombinator.com/item?id=27560438
+* https://news.ycombinator.com/item?id=27569068
+  * https://blog.chichou.me/2021/06/20/quick-analysis-wifid/ ssid wifi apple
+* https://lobste.rs/s/pxbgpu/p_s_s_s_s_n_breaks_wi_fi_on_iphones
+
+https://twitter.com/GossiTheDog/status/1405805536403243009
+* https://news.ycombinator.com/item?id=27568608
+
 https://posts.specterops.io/certified-pre-owned-d95910965cd2
 * https://www.reddit.com/r/netsec/comments/o21mwu/certified_preowned_abusing_active_directory/
 https://www.riskinsight-wavestone.com/en/2021/06/microsoft-adcs-abusing-pki-in-active-directory-environment/
@@ -9,6 +24,7 @@ https://youst.in/posts/bypassing-2fa-using-openid-misconfiguration/
 https://thezerohack.com/apple-vulnerability-bug-bounty
 
 https://apnews.com/article/technology-business-government-and-politics-d8c1e9958ad1e89eab83f44e6ca70a94 Hit by a ransomware attack? Your payment may be deductible
+* https://news.ycombinator.com/item?id=27568154
 
 https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html
 * https://news.ycombinator.com/item?id=27559795
@@ -25,6 +41,7 @@ https://access.redhat.com/security/cve/cve-2021-28041
 https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html
 * https://github.com/slsa-framework/slsa SLSA: Supply-chain Levels for Software Artifacts
   * https://cloud.google.com/security/binary-authorization-for-borg
+* https://news.ycombinator.com/item?id=27573618    
 
 https://eprint.iacr.org/2021/819 Cryptanalysis of the GPRS Encryption Algorithms GEA-1 and GEA-2
 * https://news.ycombinator.com/item?id=27529768 2G

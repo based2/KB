@@ -12,3 +12,6 @@ https://github.com/NixOS/patchelf
 
 #
 https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
+
+# News
+https://gemini.spam.works/~/emery/sigil-report.gmi

@@ -5,3 +5,5 @@ https://pijul.org/posts/2021-06-03-on-fires/
 
 https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1
 * https://news.ycombinator.com/item?id=27524641
+
+https://rootly.io/blog/practical-guide-to-sre-incident-severity-levels

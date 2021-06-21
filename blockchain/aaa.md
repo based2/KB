@@ -33,6 +33,9 @@ https://txstreet.com/v/btc-eth
 #
 https://www.zeroknowledgeblog.com/index.php/zk-snarks
 
+https://zkp.science/
+* https://news.ycombinator.com/item?id=27573910
+
 # News
 https://wildland.io/
 * https://news.ycombinator.com/item?id=27473180

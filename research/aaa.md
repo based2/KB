@@ -13,6 +13,11 @@ https://www.sprind.org/en
 
 https://www.openaire.eu/
 
+https://chemrxiv.org/engage/chemrxiv/public-dashboard
+
+https://scite.ai/
+* https://news.ycombinator.com/item?id=27567051
+
 # Biology
 https://adamashwal.com/fruit
 * https://news.ycombinator.com/item?id=27507675

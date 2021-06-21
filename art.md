@@ -29,3 +29,9 @@ https://rodencrater.com/spaces/all/
 # Digital
 https://www.youtube.com/watch?v=iKBs9l8jS6Q Top 100 3D Renders from the Internet's Largest CG Challenge | Alternate Realities
 
+https://www.instructables.com/Easily-Build-a-MACHINE-THAT-DESTROYS-WHAT-IT-CREAT/
+
+## Tools
+https://david.li/paint/
+* https://news.ycombinator.com/item?id=27577460
+

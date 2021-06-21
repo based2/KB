@@ -54,6 +54,8 @@ https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/
 
 https://github.com/icing/mod_md
 
+https://github.com/mmorak/acme-hooked
+
 # Other
 https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
 

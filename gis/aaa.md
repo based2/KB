@@ -41,6 +41,8 @@ https://www.ltonetwork.com/use-cases/un-land-registry/
 https://aws.amazon.com/en/earth/
 * https://news.ycombinator.com/item?id=15629308
 
+https://labs.os.uk/public/os-data-hub-tutorials/web-development/automated-open-data-download
+
 ## Space
 https://mars26.com/
 * https://news.ycombinator.com/item?id=26965583

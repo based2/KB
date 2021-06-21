@@ -66,3 +66,7 @@ https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 # API
 https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 * https://news.ycombinator.com/item?id=27510647
+
+# History
+http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
+* https://news.ycombinator.com/item?id=27559618

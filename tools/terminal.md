@@ -15,3 +15,5 @@ https://github.com/sorenisanerd/gotty
 
 https://github.com/kovidgoyal/kitty/issues/391
 
+https://github.com/kovidgoyal/kitty/issues/391
+

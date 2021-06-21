@@ -32,6 +32,9 @@ https://thedetechtor.com/carbo-culture-biochar-carbon-sequestration/
 https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-shipping-tankers/
 * http://inflatedwingsails.com/concept/
 
+# Simulator
+https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
+
 # News
 https://www.theguardian.com/us-news/2021/jun/18/us-heatwave-west-climate-crisis-drought
 * https://news.ycombinator.com/item?id=27562050
