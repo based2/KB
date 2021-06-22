@@ -1,5 +1,7 @@
 https://www.qgis.org/
 
+http://www.zoo-project.org/
+
 http://www.openjump.org/
 
 http://geoserver.org/
@@ -42,6 +44,8 @@ https://aws.amazon.com/en/earth/
 * https://news.ycombinator.com/item?id=15629308
 
 https://labs.os.uk/public/os-data-hub-tutorials/web-development/automated-open-data-download
+
+http://app.dumpark.com/sunlight/learn.html
 
 ## Space
 https://mars26.com/

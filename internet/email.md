@@ -61,6 +61,8 @@ https://mnmnotmail.org/
 https://jmap.io/
 * https://news.ycombinator.com/item?id=14734091
 
+https://www.mailoo.org/
+
 # News
 https://www.reddit.com/r/Office365/comments/n3qky1/office_365_leaking_bcc_domain_name/
 * https://news.ycombinator.com/item?id=27022600

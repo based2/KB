@@ -20,3 +20,8 @@ https://www.fastly.com/blog/quic-is-now-rfc-9000
 https://datatracker.ietf.org/doc/html/rfc8905 The 'payto' URI Scheme for Payments
 * https://news.ycombinator.com/item?id=27355302
   * https://en.wikipedia.org/wiki/EPC_QR_code
+
+https://www.mnot.net/blog/2021/06/21/standards-competition-governance
+* https://news.ycombinator.com/item?id=27586081
+
+https://datatracker.ietf.org/doc/html/rfc6919 Further Key Words for Use in RFCs to Indicate Requirement Levels

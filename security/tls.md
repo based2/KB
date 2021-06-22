@@ -56,6 +56,9 @@ https://github.com/icing/mod_md
 
 https://github.com/mmorak/acme-hooked
 
+https://letsencrypt.org/2015/06/04/isrg-ca-certs.html
+* https://news.ycombinator.com/item?id=9662338
+
 # Other
 https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
 

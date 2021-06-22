@@ -50,11 +50,18 @@ https://www.rauc.io/ Updates
 # Kernel modules
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
+# Elf
+https://github.com/ruslashev/elfcat
+* https://news.ycombinator.com/item?id=27590508
+
 # News
+https://wiki.debian.org/Teams/Apt/Spec/AptSign
+* https://news.ycombinator.com/item?id=27586146
 https://www.pixelbeat.org/docs/coreutils-gotchas.html
 * https://www.reddit.com/r/programming/comments/3uogjv/gnu_coreutils_gotchas/
 * https://news.ycombinator.com/item?id=27549863
 https://lwn.net/Articles/857599/ Rewriting the GNU Coreutils in Rust
+* https://lobste.rs/s/m0npll/rewriting_gnu_coreutils_rust
 https://www.phoronix.com/scan.php?page=news_item&px=Google-Wants-Rust-In-Kernel
 https://www.phoronix.com/scan.php?page=news_item&px=LVFS-100k-Firmware-Day https://fwupd.org/
 https://foundation.kernelci.org/blog/

@@ -14,6 +14,8 @@ https://beam-wisdoms.clau.se/en/latest/
 #
 https://github.com/geocar/inet_ssh_dist
 
+https://medium.com/erlang-battleground/spot-the-difference-733a5c2fce77
+
 # Elixir
 
 https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/
@@ -34,6 +36,9 @@ https://github.com/bake-bake-bake/bakeware
 
 https://keathley.io/blog/good-and-bad-elixir.html
 * https://news.ycombinator.com/item?id=27463725
+
+https://underjord.io/onboarding-to-elixir.html
+* https://news.ycombinator.com/item?id=27591079
 
 # Gleam
 https://gleam.run/

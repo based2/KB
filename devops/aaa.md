@@ -75,12 +75,17 @@ https://guix.gnu.org/en/cuirass/
 
 # CD
 
+argocd
+
 https://news.ycombinator.com/item?id=26872904
 
 https://github.com/lesfurets/git-octopus
 
+# History
+https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 https://about.gitlab.com/blog/2021/05/04/gitlabs-2021-survey-uncovers-a-new-devops-maturity-model/
 https://about.gitlab.com/developer-survey/
 * https://news.ycombinator.com/item?id=27039376

@@ -9,3 +9,5 @@ https://groups.io/g/mpml/topic/83645454#36493
 
 https://www.mindat.org/
 * https://news.ycombinator.com/item?id=27575453
+
+https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021

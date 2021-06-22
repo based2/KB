@@ -42,6 +42,7 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 * https://news.ycombinator.com/item?id=26951940
 
 # News
+https://kubernetes.io/blog/2021/06/21/writing-a-controller-for-pod-labels/
 https://tilt.dev/
 https://github.com/idgenchev/namespace-node-affinity
 https://kubernetes.io/blog/2021/04/08/kubernetes-1-21-release-announcement/

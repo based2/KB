@@ -88,3 +88,7 @@ https://archive.fosdem.org/2020/schedule/event/containers_lazy_image_distributio
 https://www.fasten-project.eu/#
 * https://linuxfr.org/news/presentation-du-projet-fasten-et-de-son-atelier-le-8-avril-2021
  * https://github.com/tern-tools/tern
+
+https://github.com/features/packages#pricing
+https://github.blog/2021-06-21-github-packages-container-registry-generally-available/
+https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry

@@ -31,6 +31,10 @@ https://tailwindcss.com/docs/just-in-time-mode
 
 https://mikerogers.io/2021/05/12/moving-from-tailwind-to-css-variables
 
+# Bootstrap
+http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
+* https://news.ycombinator.com/item?id=9670916
+
 # Generator
 ## Gradient
 https://cssgradient.io/

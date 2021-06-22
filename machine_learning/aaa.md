@@ -133,6 +133,9 @@ https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
 *
 
 # News
+https://www.inference.vc/untitled/ ML Beyond Curve Fitting: An Intro to Causal Inference and Do-Calculus (2018)
+* https://news.ycombinator.com/item?id=27577467
+https://ai.googleblog.com/2021/06/google-at-cvpr-2021.html
 https://github.com/dynamicwebpaige/kaggle-survey-spelunking/blob/main/README.md
 https://rltheorybook.github.io/
 * https://news.ycombinator.com/item?id=27565421

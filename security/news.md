@@ -1,3 +1,18 @@
+https://portswigger.net/daily-swig/csp-bypass-how-one-chrome-xss-bug-took-2-5-years-and-an-html-spec-change-to-fix
+* https://news.ycombinator.com/item?id=27591657
+
+https://wiki.debian.org/Teams/Apt/Spec/AptSign
+* https://news.ycombinator.com/item?id=27586146
+
+https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a
+* https://news.ycombinator.com/item?id=27582396
+
+https://lude.rs/h4ck1ng/rootless_sniffing.html 
+* https://news.ycombinator.com/item?id=27588199
+
+https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html
+* https://news.ycombinator.com/item?id=27588258
+
 https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
 https://www.hitachi.eu/en/case-studies/hitachi-finger-vein-technology-pbs-bank-poland
 

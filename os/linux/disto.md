@@ -40,6 +40,7 @@ https://news.ycombinator.com/item?id=26001738 https://garudalinux.org/
 https://en.wikipedia.org/wiki/Azure_Sphere
 
 # News
+https://www.geeklan.co.uk/?p=2774 https://www.viewpointlinux.org/
 https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723
 * https://news.ycombinator.com/item?id=27573393
 https://rockylinux.org/news/rocky-linux-8-4-rc1-release/

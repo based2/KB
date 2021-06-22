@@ -134,6 +134,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 * https://news.ycombinator.com/item?id=27462767
 
 # News
+https://sambhav.saggis.com/en/blog/2021-06-21-free-software-and-freakonomics
+* https://news.ycombinator.com/item?id=27586970
 https://news.ycombinator.com/item?id=27536661
 * https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html
 * https://lobste.rs/s/6rnyn9/why_i_no_longer_contribute_racket

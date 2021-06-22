@@ -41,3 +41,6 @@ http://www.figlet.org/fontdb.cgi
 https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
 * https://news.ycombinator.com/item?id=27443528
   * https://github.com/google/jax
+  
+#
+http://transcultura.org/?q=node%2F8

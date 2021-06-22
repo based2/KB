@@ -51,6 +51,9 @@ https://www.reaper.fm/
 https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/
 * https://news.ycombinator.com/item?id=
 
+https://whatmusicreallyis.com/research/harmonicomb/
+* https://news.ycombinator.com/item?id=27588673
+
 # Instrument
 https://www.pianobook.co.uk/
 * https://news.ycombinator.com/item?id=27454717

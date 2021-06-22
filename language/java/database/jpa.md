@@ -18,6 +18,11 @@ https://javers.org/
 
 https://thorben-janssen.com/hibernate-filter/
 
+https://attacomsian.com/blog/spring-data-jpa-auditing
+* https://www.reddit.com/r/java/comments/o5hjku/spring_data_jpa_auditing/
+
+http://www.jdev.it/custom-boolean-user-type-with-hibernate-jpa/
+
 # cons
 https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 * https://news.ycombinator.com/item?id=26772550

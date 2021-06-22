@@ -49,3 +49,7 @@ https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/
 
 # IT system
 https://news.ycombinator.com/item?id=27577514
+
+http://play.elevatorsaga.com/
+http://web.eecs.umich.edu/~baveja/RLMasses/node2.html
+

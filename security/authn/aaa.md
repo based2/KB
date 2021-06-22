@@ -41,3 +41,7 @@ https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-syste
 
 # eID
 https://news.ycombinator.com/item?id=27351769
+
+# Greenpass
+https://gir.st/blog/greenpass.html
+* https://news.ycombinator.com/item?id=27589913

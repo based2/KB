@@ -38,6 +38,10 @@ https://www.verizonmedia.com/press/open-sourcing-vespa-yahoo-s-big-data-processi
 
 http://parquet.apache.org/documentation/latest/
 
+## Spark
+https://heap.io/blog/accidentally-exponential-behavior-in-spark
+* https://news.ycombinator.com/item?id=27582645
+
 # Language
 https://github.com/grailbio/reflow incremental data processing in the cloud
 * https://news.ycombinator.com/item?id=27191360
@@ -112,6 +116,9 @@ https://github.com/ToolJet/ToolJet/
 https://community.plotly.com/t/announcing-plotly-js-2-0/53675
 
 https://xcorr.net/2021/06/02/dynamic-scientific-visualizations-in-the-browser-for-python-users/
+
+https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyter-extension-icicle-charts-and-bar-chart-patterns/54039
+* https://news.ycombinator.com/item?id=27581336
 
 # Database
 

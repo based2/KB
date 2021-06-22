@@ -27,7 +27,12 @@ https://en.wikipedia.org/wiki/Claims-based_identity
 https://news.ycombinator.com/item?id=27004098
 * https://w3c-ccg.github.io/did-primer/
 
+http://www.simplecloud.info/ SCIM - System for Cross-domain Identity Management
+
 https://digital-strategy.ec.europa.eu/en/policies/e-identification
+
+https://www.w3.org/TR/did-core/
+* https://news.ycombinator.com/item?id=27593406
 
 Estonian Electronic Identity Card and Its Security Challenges [pdf] :
 https://dspace.ut.ee/bitstream/handle/10062/71481/parsovs_arnis.pdf?sequence=1&isAllowed=y

@@ -34,6 +34,7 @@ https://blog.bejarano.io/hardening-macos/
 * https://news.ycombinator.com/item?id=27067755
 
 https://objective-see.com/products/knockknock.html
+https://objective-see.com/products/lulu.html little snitch alt
 
 # Dev
 https://thescottkrause.com/emerging_tech/new_macbook_setup_for_dev/

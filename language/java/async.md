@@ -9,6 +9,7 @@ http://reactivex.io/
 
 http://trane.io/ Twitter + interop for Scala (2018)
 
+https://blog.frankel.ch/blockhound-how-it-works/
 
 https://kotlinlang.org/spec/asynchronous-programming-with-coroutines.html
 

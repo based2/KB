@@ -12,6 +12,7 @@ https://keyper.dbsentry.com/post/anatomy-of-openssh-krl/
 https://alexandre.alapetite.fr/doc-alex/ssh-tunnel-http/index.fr.html
 
 https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54
+* https://news.ycombinator.com/item?id=27588819
 
 https://github.com/arthepsy/ssh-audit
 
@@ -44,7 +45,9 @@ https://fly.io/blog/ssh-and-user-mode-ip-wireguard/
 
 # MFA
 https://www.dzombak.com/blog/2021/02/Securing-my-personal-SSH-infrastructure-with-Yubikeys.html
-  * https://news.ycombinator.com/item?id=26075386
+* https://news.ycombinator.com/item?id=26075386
+
+https://www.starwindsoftware.com/blog/how-to-setup-multi-factor-authentication-for-ssh-in-linux
 
 # SSH tunnels
 https://robotmoon.com/ssh-tunnels/
