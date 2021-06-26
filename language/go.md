@@ -54,6 +54,8 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
+* https://news.ycombinator.com/item?id=27630625
 https://golang.org/pkg/net/url/#URL
 https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/
 https://github.com/golang/go/issues/45955

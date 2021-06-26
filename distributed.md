@@ -9,3 +9,7 @@ https://www.notion.so/blog/data-model-behind-notion
   * https://github.com/djyde/plastic-editor
 
 # OT
+
+# Lamport Clock
+https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
+* https://news.ycombinator.com/item?id=27628553

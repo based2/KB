@@ -46,6 +46,9 @@ https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-sema
 
 https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
 
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
+* https://news.ycombinator.com/item?id=27602699
+
 # WYSIWYG
 https://codemirror.net/
 * https://prosemirror.net/
@@ -66,8 +69,7 @@ https://github.com/michelson/dante
 
 https://en.wikipedia.org/wiki/Markdown
 
-
-
+https://www.w3.org/Amaya/
 
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model

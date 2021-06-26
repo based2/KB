@@ -34,13 +34,24 @@ https://github.com/Crissov/unicode-proposals/issues/410
 https://github.com/qntm/base65536
 * https://news.ycombinator.com/item?id=14468818
 
+https://rolisz.com/the-best-text-classification-library-for-a-quick-baseline/
+* https://news.ycombinator.com/item?id=27583185
+
 # ASCII
 http://www.figlet.org/fontdb.cgi
+
+# Encoding
+https://datatracker.ietf.org/doc/draft-faltstrom-base45/
+* https://news.ycombinator.com/item?id=27603173
 
 # Generator
 https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
 * https://news.ycombinator.com/item?id=27443528
   * https://github.com/google/jax
+  
+# Summary
+https://github.com/gregdurrett/berkeley-doc-summarizer
+* https://news.ycombinator.com/item?id=27637902
   
 #
 http://transcultura.org/?q=node%2F8

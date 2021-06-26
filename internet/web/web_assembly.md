@@ -2,7 +2,11 @@ https://webassembly.org/
 
 https://bytecodealliance.org/
 
+https://wasi.dev/
+
 https://wasmer.io/posts/wasmer-2.0
+
+https://nanovms.com/dev/tutorials/running-wasm-unikernels
 
 # Cpmpile
 
@@ -44,6 +48,11 @@ https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 * https://news.ycombinator.com/item?id=26994741
 
 https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
+
+# History
+https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
+* https://news.ycombinator.com/item?id=27616656
+  * https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
 https://github.com/lastmjs/wasm-metal

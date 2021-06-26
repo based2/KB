@@ -30,6 +30,9 @@ https://en.wikipedia.org/wiki/SipHash
 https://github.com/bee-san/pyWhat
 * https://news.ycombinator.com/item?id=27526017
 
+http://tylerneylon.com/a/lsh1/ Locality-Sensitive Hashing
+* https://news.ycombinator.com/item?id=27614381
+
 # UID
 https://github.com/kpdemetriou/fuuid
 * https://news.ycombinator.com/item?id=27030088

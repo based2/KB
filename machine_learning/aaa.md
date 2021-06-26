@@ -128,11 +128,29 @@ https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-underst
 https://github.com/yangxy/GPEN GAN Prior Embedded Network for Blind Face Restoration in the Wild
 * https://news.ycombinator.com/item?id=27571283
 
+https://thegradient.pub/how-to-do-multi-task-learning-intelligently/
+
+## Bias
+https://queue.acm.org/detail.cfm?id=3466134
+* https://news.ycombinator.com/item?id=27589582
+
 # NLP
 https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
-*
+
+* Inference
+https://github.com/fabsig/GPBoost
+* https://news.ycombinator.com/item?id=27603613
+
+# Compare
+https://eval.ai/
+* https://news.ycombinator.com/item?id=27625511
 
 # News
+https://www.reddit.com/r/MachineLearning/comments/o6vj1p/r_revisiting_deep_learning_models_for_tabular_data/
+https://nvlabs.github.io/alias-free-gan/
+*
+https://arxiv.org/abs/2106.11189 Regularization is all you Need: Simple Neural Nets can Excel on Tabular Data
+* https://news.ycombinator.com/item?id=27595309
 https://www.inference.vc/untitled/ ML Beyond Curve Fitting: An Intro to Causal Inference and Do-Calculus (2018)
 * https://news.ycombinator.com/item?id=27577467
 https://ai.googleblog.com/2021/06/google-at-cvpr-2021.html

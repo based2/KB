@@ -47,6 +47,8 @@ https://if50.substack.com/p/1993-curses
 
 https://en.wikipedia.org/wiki/Abstraction_inversion
 
+http://canonical.org/~kragen/sw/dev3/paperalgo
+
 # Exotic
 https://github.com/iAmGio/pikt
 https://www.dangermouse.net/esoteric/piet.html

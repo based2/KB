@@ -77,7 +77,17 @@ https://gist.github.com/alirobe/7f3b34ad89a159e6daa1 reclaimWindows10.ps1
 https://firstpartysimulator.org/ EFF
 * https://news.ycombinator.com/item?id=27523834
 
+# Alt
+https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives
+* https://news.ycombinator.com/item?id=27630397
+
 # News
+https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/
+* https://news.ycombinator.com/item?id=27629188
+https://spreadprivacy.com/duckduckgrowing/
+* https://news.ycombinator.com/item?id=27629089
+https://www.forbrukerradet.no/side/new-report-details-threats-to-consumers-from-surveillance-based-advertising/
+* https://news.ycombinator.com/item?id=27619030
 https://reclaimthenet.org/eu-court-rules-private-details-of-users-can-be-handed-over-to-those-who-make-copyright-claims/
 https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true
 * https://news.ycombinator.com/item?id=27558500

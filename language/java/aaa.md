@@ -189,6 +189,7 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://snyk.io/jvm-ecosystem-report-2021/
 https://thenewstack.io/microsoft-openjdk-goes-ga-at-build/
 https://github.com/Randgalt/record-builder
 * https://www.reddit.com/r/java/comments/nnza26/new_feature_for_recordbuilder_generate_records/

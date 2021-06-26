@@ -34,6 +34,9 @@ https://www.gaia-gis.it/fossil/libspatialite/index
 
 https://github.com/simonepri/geo-maps
 
+https://maplibre.org/
+* https://news.ycombinator.com/item?id=27605656
+
 # Data
 https://www.nirsoft.net/utils/cports.html#DownloadLinks
 
@@ -97,6 +100,8 @@ https://app.shadowmap.org/
 
 https://github.com/organicmaps/organicmaps
 * https://news.ycombinator.com/item?id=27543012
+
+https://groundtrack.space/
 
 # georoutage
 https://pncnmnp.github.io/blogs/distance-oracles.html

@@ -10,6 +10,9 @@ https://docs.python.org/3/library/collections.html#collections.defaultdict
 https://arrow.apache.org/blog/2019/02/05/python-string-memory-0.12/
 * https://news.ycombinator.com/item?id=27468692
 
+https://hynek.me/articles/python-subclassing-redux/
+* 
+
 # Functional
 https://github.com/pytoolz/toolz
 
@@ -120,6 +123,7 @@ https://github.com/facebookincubator/cinder
 * https://news.ycombinator.com/item?id=27043217
 
 # News
+https://venthur.de/2021-06-26-python-packaging.html
 https://filesystem-spec.readthedocs.io/en/latest/index.html
 * https://news.ycombinator.com/item?id=27523377
 https://semaphoreci.com/blog/building-python-projects-with-pants

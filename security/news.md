@@ -1,3 +1,17 @@
+https://seclists.org/oss-sec/2021/q2/226 CVE-2021-33624 Linux kernel BPF protection against speculative execution attacks can be bypassed to read arbitrary kernel memory
+
+https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/
+* https://news.ycombinator.com/item?id=27640553
+
+https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/
+* https://news.ycombinator.com/item?id=27624735
+
+https://labs.bishopfox.com/tech-blog/lexss-bypassing-lexical-parsing-security-controls
+
+https://docs.conclave.net/index.html
+
+https://www.usenix.org/system/files/sec21summer_wickman.pdf Preventing Use-After-Free Attacks with Fast Forward Allocation
+
 https://portswigger.net/daily-swig/csp-bypass-how-one-chrome-xss-bug-took-2-5-years-and-an-html-spec-change-to-fix
 * https://news.ycombinator.com/item?id=27591657
 

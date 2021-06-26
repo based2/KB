@@ -54,7 +54,14 @@ https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kern
 https://github.com/ruslashev/elfcat
 * https://news.ycombinator.com/item?id=27590508
 
+https://github.com/NixOS/patchelf
+* https://news.ycombinator.com/item?id=27079565
+
 # News
+https://lkml.org/lkml/2021/6/18/153 trivial patches KPI
+* https://news.ycombinator.com/item?id=27629366
+  * https://public-001.gitsense.com/insights/github/repos?q=commit-churn%3A1%2Bfile-churn%3A1%2Bwindow%3A90&r=github%3Atorvalds%2Flinux&v=repo
+  * https://public-001.gitsense.com/insights/github/repos?p=commits&q=commit-churn%3A1%2Bfile-churn%3A1%2Bwindow%3A90&r=github%3Atorvalds%2Flinux&v=repo
 https://wiki.debian.org/Teams/Apt/Spec/AptSign
 * https://news.ycombinator.com/item?id=27586146
 https://www.pixelbeat.org/docs/coreutils-gotchas.html

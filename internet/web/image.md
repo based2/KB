@@ -10,3 +10,5 @@ https://web.dev/fast/#optimize-your-images
 * https://news.ycombinator.com/item?id=15930326
 
 https://linuxfr.org/news/sortie-de-yoga-image-optimizer-1-0
+
+https://bien.ee/image-decoding-differences-between-browsers/

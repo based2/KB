@@ -165,6 +165,10 @@ https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust
 https://github.com/lucky/bad_actor_poc
 * https://news.ycombinator.com/item?id=27154534
 
+## Crypto
+https://github.com/facebookresearch/Cupcake
+* https://news.ycombinator.com/item?id=27589010
+
 # Editor
 https://helix-editor.com/
 * https://news.ycombinator.com/item?id=27358479
@@ -195,8 +199,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
-https://news.ycombinator.com/item?id=27559239
-* https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
+https://ferrous-systems.com/blog/ferrocene-update-three-the-road/
+https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
+* https://news.ycombinator.com/item?id=27559239
 https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/
 https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html
 https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3

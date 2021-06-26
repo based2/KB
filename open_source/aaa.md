@@ -134,6 +134,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 * https://news.ycombinator.com/item?id=27462767
 
 # News
+https://www.blender.org/press/canonical-offering-blender-support/
+* https://news.ycombinator.com/item?id=27617670
 https://sambhav.saggis.com/en/blog/2021-06-21-free-software-and-freakonomics
 * https://news.ycombinator.com/item?id=27586970
 https://news.ycombinator.com/item?id=27536661

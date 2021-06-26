@@ -5,13 +5,12 @@ https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_20
 
 https://genode.org/about/index
 
-# ELF
-https://github.com/NixOS/patchelf
-* https://news.ycombinator.com/item?id=27079565
-
+http://unikernel.org/
 
 #
 https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 
 # News
+https://figbert.com/posts/wrong-way-to-switch-server-os/
+* https://news.ycombinator.com/item?id=27562613
 https://gemini.spam.works/~/emery/sigil-report.gmi

@@ -19,7 +19,13 @@ https://robert.ocallahan.org/2017/12/maintaining-independent-browser-is.html
 # Test
 https://intoli.com/blog/firefox-extensions-with-selenium/
 
+#
+https://en.wikipedia.org/wiki/Amazon_Silk
+https://docs.aws.amazon.com/silk/
+
 # News
+https://digiday.com/marketing/cheat-sheet-google-extends-cookie-execution-deadline-until-late-2023-will-pause-floc-testing-in-july/
+* https://news.ycombinator.com/item?id=27617620
 https://developer.chrome.com/blog/tablesng/
 http://ebin.city/%7Ewerwolf/posts/brave-is-shit/
 * https://news.ycombinator.com/item?id=27549604

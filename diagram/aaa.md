@@ -87,6 +87,9 @@ https://github.com/yishn/tikzcd-editor
 https://fosdem.org/2021/schedule/event/realtime_netlisting/
 * https://news.ycombinator.com/item?id=27367414
 
+# Howto
+https://research.protocol.ai/blog/2021/designing-a-dataflow-editor-with-typescript-and-react/
+
 # Code
 https://jgrasp.org/tutorials187/05_CSD.pdf The Control Structure Diagram (CSD)
 

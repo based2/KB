@@ -32,6 +32,9 @@ https://houdini.how/about/
 
 https://github.com/slidevjs/slidev
 
+https://eng.snap.com/quic-at-snap QUIC
+* https://news.ycombinator.com/item?id=27626394
+
 # News
 https://w3c.github.io/webtransport/
 https://www.smashingmagazine.com/2021/05/evolution-jamstack/

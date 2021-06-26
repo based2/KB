@@ -18,6 +18,9 @@ https://medium.com/flock-community/contract-first-strictly-typed-endpoints-in-ty
 
 https://github.com/parsix/parsix 
 * https://news.ycombinator.com/item?id=27166162
-* https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/  
+* https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/ 
+  * https://news.ycombinator.com/item?id=27639890
 
 https://fnune.com/typescript/2020/07/31/typescript-series-4-poor-mans-async-await-in-typescript-using-generators/
+
+https://github.com/storybookjs/storybook/

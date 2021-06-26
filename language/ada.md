@@ -12,6 +12,8 @@ https://blog.vacs.fr/vacs/blogs/post.html?post=2017/10/08/Generating-a-REST-Ada-
 
 https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexible-language
 
+https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates
+
 # GNAT
 https://www.adacore.com/download
 * https://news.ycombinator.com/item?id=27313294

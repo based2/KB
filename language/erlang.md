@@ -40,6 +40,10 @@ https://keathley.io/blog/good-and-bad-elixir.html
 https://underjord.io/onboarding-to-elixir.html
 * https://news.ycombinator.com/item?id=27591079
 
+## Phoenix
+https://www.poeticoding.com/how-phoenix-liveview-works/
+* https://news.ycombinator.com/item?id=27629016
+
 # Gleam
 https://gleam.run/
 https://gleam.run/news/gleam-v0.15-released/

@@ -16,6 +16,8 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://karpathy.github.io/2021/06/21/blockchain/
+* https://news.ycombinator.com/item?id=27593772
 https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html
 * https://news.ycombinator.com/item?id=27408683
 * https://www.reuters.com/article/el-salvador-bitcoin-imf-idUSL2N2NS1PB

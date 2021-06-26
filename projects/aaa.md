@@ -1,6 +1,7 @@
 https://productcrunch.substack.com/p/escaping-the-roadmap-trap
   https://news.ycombinator.com/item?id=25899773
 
+https://en.m.wikipedia.org/wiki/Goodhart%27s_law
 
 https://philippe.kruchten.com/2013/11/24/friction/
 

@@ -11,3 +11,8 @@ https://www.mindat.org/
 * https://news.ycombinator.com/item?id=27575453
 
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
+
+# News
+https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco
+* https://news.ycombinator.com/item?id=27617256
+ * https://nepp.nasa.gov/WHISKER/background/index.htm

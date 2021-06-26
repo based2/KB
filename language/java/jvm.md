@@ -13,6 +13,8 @@ https://kstefanj.github.io/2021/05/19/large-pages-and-java.html
 
 https://richardstartin.github.io/posts/4k-aliasing
 
+https://developers.redhat.com/articles/2021/06/23/how-jit-compiler-boosts-java-performance-openjdk#deoptimization_and_speculation
+
 # GC
 https://inside.java/2020/06/25/compact-forwarding/
 * https://news.ycombinator.com/item?id=23700451

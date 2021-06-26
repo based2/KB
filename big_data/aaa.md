@@ -10,6 +10,8 @@ https://setosa.io/ev/principal-component-analysis/
 * https://news.ycombinator.com/item?id=27017675
 * https://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues/140579#140579
 
+https://duckdb.org/2021/06/25/querying-parquet.html
+
 # SQL
 https://hakibenita.com/sql-for-data-analysis
 * https://news.ycombinator.com/item?id=27025829

@@ -23,6 +23,9 @@ https://attacomsian.com/blog/spring-data-jpa-auditing
 
 http://www.jdev.it/custom-boolean-user-type-with-hibernate-jpa/
 
+https://www.reddit.com/r/java/comments/o6c8by/9_highperformance_tips_when_using_oracle_with_jpa/
+* https://vladmihalcea.com/tips-oracle-jpa-hibernate/
+
 # cons
 https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 * https://news.ycombinator.com/item?id=26772550

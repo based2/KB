@@ -27,6 +27,9 @@ https://j-core.org/
 
 https://fires.im/
 
+https://github.com/sylefeb/Silice
+* https://news.ycombinator.com/item?id=27589298
+
 # ASIC
 https://github.com/olofk/fusesoc
 
@@ -43,6 +46,10 @@ https://openflexure.org/projects/microscope/
 
 https://www.numworks.com/
 * https://news.ycombinator.com/item?id=27126926
+
+## Farm
+https://farm.bot/pages/open-source -> Dataset?
+* https://news.ycombinator.com/item?id=27628101
 
 # Mechanism
 https://openastrotech.com/

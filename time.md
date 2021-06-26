@@ -66,6 +66,9 @@ https://en.wikipedia.org/wiki/Corpus_Clock
 
 https://github.com/Neeveshs/Pomodoro-Timer
 
+https://www.tindie.com/products/nsayer/crazy-clock/
+* https://news.ycombinator.com/item?id=27622789
+
 #
 https://en.wikipedia.org/wiki/Time_crystal
 

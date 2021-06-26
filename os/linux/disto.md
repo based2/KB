@@ -4,6 +4,12 @@ https://www.mail-archive.com/debian-ctte@lists.debian.org/msg08586.html
 
 https://github.com/RidiculousJim/nftables-firewall-gen
 
+https://dur.hunterwittenborn.com/
+* https://news.ycombinator.com/item?id=27638107
+
+https://github.com/hwittenborn/makedeb
+* https://news.ycombinator.com/item?id=27638107
+
 # ArchLinux
 https://manjaro.org/
 https://forum.manjaro.org/t/manjaro-21-0-ornara-released/59399

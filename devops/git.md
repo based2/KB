@@ -64,6 +64,9 @@ http://www.utm.mx/~caff/doc/OpenUPWeb/openup/guidances/concepts/phase_milestones
 https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/
 * https://lobste.rs/s/moamfx/branching_strategy_simpler_than_gitflow
 
+https://brennan.io/2021/06/15/git-less-is-more/
+* https://news.ycombinator.com/item?id=27643057
+
 # Cleanup
 https://blog.frankel.ch/git-cleanup/
 

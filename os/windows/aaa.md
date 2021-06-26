@@ -56,6 +56,11 @@ https://devblogs.microsoft.com/commandline/wslg-architecture/
 https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10
 
 # News
+https://www.cnx-software.com/2021/06/26/tpm-2-0-modules-quadruple-in-price-out-of-stock-windows-11/
+https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/
+* https://news.ycombinator.com/item?id=27619354
+https://www.zdnet.com/article/microsoft-to-require-microsoft-account-and-network-connection-to-set-up-windows-11-home/
+
 https://www.theverge.com/2021/6/3/22466394/microsoft-windows-11-launch-teaser-rumors
 * https://news.ycombinator.com/item?id=27410244
 https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed

@@ -14,8 +14,15 @@ https://hardening-security.com/vulnerabilities
 Detailed gathered insights about cyber security vulnerabilities and their real world influences including economic impacts and black market trading.
 
 https://deps.dev/ Google
+https://opensource.googleblog.com/2021/02/launching-osv-better-vulnerability.html
+https://github.com/google/oss-fuzz
+
+https://open-source-security-software.net/
 
 https://www.phrack.org/
+
+# News
+https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-schema-for-open-source-software/
 
 # Events
 # 2021
@@ -104,6 +111,7 @@ WPA2 Hole196
 https://en.wikipedia.org/wiki/Evercookie
 
 # 2009
+https://en.wikipedia.org/wiki/Bitcoin
 https://en.wikipedia.org/wiki/Moxie_Marlinspike#SSL_stripping
 
 # 2008
@@ -133,6 +141,9 @@ https://en.wikipedia.org/wiki/WinNuke
 # 1988
 * https://en.wikipedia.org/wiki/Daniel_Bleichenbacher
 * https://en.wikipedia.org/wiki/Morris_worm
+
+# 1986
+https://en.wikipedia.org/wiki/Brain_(computer_virus)
 
 # 1957
 phreaking 2600 hertz

@@ -1,3 +1,6 @@
+https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article
+* https://news.ycombinator.com/item?id=27634549
+
 https://www.bbc.com/news/56643677
 * https://news.ycombinator.com/item?id=26726269
 
@@ -15,3 +18,5 @@ https://home.cern/news/news/physics/lhcb-measures-tiny-mass-difference-between-p
 * https://news.ycombinator.com/item?id=27483949
 
 https://www.wired.com/story/researchers-levitated-a-small-tray-using-nothing-but-light/
+
+https://www.quantamagazine.org/how-blue-animals-color-themselves-with-nanostructures-20210616/

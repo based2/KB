@@ -39,6 +39,8 @@ https://www.joshwcomeau.com/react/demystifying-styled-components/
 https://medium.com/building-productive/react-ruined-web-development-dd65342a833f
 * https://news.ycombinator.com/item?id=27577523
 
+https://www.taniarascia.com/react-architecture-directory-structure/
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
