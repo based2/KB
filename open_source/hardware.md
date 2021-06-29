@@ -52,7 +52,12 @@ https://farm.bot/pages/open-source -> Dataset?
 * https://news.ycombinator.com/item?id=27628101
 
 # Mechanism
+https://open-smartwatch.github.io/
+
 https://openastrotech.com/
 
 https://github.com/scottbez1/splitflap
 * https://news.ycombinator.com/item?id=26858741
+
+https://github.com/casspop/ohd OverHeadDoor Garage Door Monitor
+* https://news.ycombinator.com/item?id=27639537

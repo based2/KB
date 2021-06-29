@@ -74,6 +74,7 @@ https://github.com/pamoroso/free-python-books
 
 https://yasoob.me/posts/understanding-and-generating-upc-a-barcode-using-python/
 
+https://news.ycombinator.com/item?id=27675305
 
 # Gplot
 https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/

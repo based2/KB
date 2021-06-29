@@ -11,6 +11,8 @@ http://unikernel.org/
 https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 
 # News
+https://github.com/halfer53/winix
+* https://news.ycombinator.com/item?id=27647079
 https://figbert.com/posts/wrong-way-to-switch-server-os/
 * https://news.ycombinator.com/item?id=27562613
 https://gemini.spam.works/~/emery/sigil-report.gmi

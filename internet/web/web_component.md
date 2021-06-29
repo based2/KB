@@ -11,4 +11,7 @@ https://mxb.dev/blog/container-queries-web-components/
 https://github.com/lit/lit
 https://www.youtube.com/watch?v=Io6JjgckHbg
 
+https://jesseduffield.com/Compound-Components/
+* https://news.ycombinator.com/item?id=27649880
+
 alt: https://viperhtml.js.org/ comparison: https://gist.github.com/WebReflection/fadcc419f5ccaae92bc167d8ff5c611b

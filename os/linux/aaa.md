@@ -57,7 +57,19 @@ https://github.com/ruslashev/elfcat
 https://github.com/NixOS/patchelf
 * https://news.ycombinator.com/item?id=27079565
 
+# Window manager
+https://www.freedesktop.org/wiki/
+
+https://wayland.freedesktop.org/
+
+https://wiki.gnome.org/Projects/Mutter
+
+https://www.enlightenment.org/
+
 # News
+https://edw.elementary.io/
+https://www.theregister.com/2021/06/27/linux_kernel_5_13_released/
+https://lwn.net/SubscriberLink/860262/29e92db3e7272504/ A stable bug fix bites proprietary modules
 https://lkml.org/lkml/2021/6/18/153 trivial patches KPI
 * https://news.ycombinator.com/item?id=27629366
   * https://public-001.gitsense.com/insights/github/repos?q=commit-churn%3A1%2Bfile-churn%3A1%2Bwindow%3A90&r=github%3Atorvalds%2Flinux&v=repo

@@ -21,6 +21,11 @@ https://smallstep.com/blog/command-line-secrets/
 https://www.netmeister.org/blog/infosec-competencies.html
 * https://news.ycombinator.com/item?id=27491443
 
+https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
+* https://lobste.rs/s/3vyuwa/typed_programs_don_t_leak_data
+* https://news.ycombinator.com/item?id=27654807
+  * https://codahale.com/a-lesson-in-timing-attacks/
+
 # Identity
 https://en.wikipedia.org/wiki/Claims-based_identity
 
@@ -81,6 +86,9 @@ https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html
 
 # differential privacy
 https://desfontain.es/privacy/more-useful-results-dp.html
+
+# Book
+https://people.scs.carleton.ca/~paulv/toolsjewels.html
 
 
 

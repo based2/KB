@@ -49,6 +49,8 @@ https://learn-the-web.algonquindesign.ca/topics/html-semantics-cheat-sheet/
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
 * https://news.ycombinator.com/item?id=27602699
 
+https://www.nayuki.io/page/practical-guide-to-xhtml
+
 # WYSIWYG
 https://codemirror.net/
 * https://prosemirror.net/

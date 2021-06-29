@@ -16,6 +16,15 @@ https://mailwip.com/blog/posts/tracing-http-requests-by-using-response-header-fr
 
 https://brunoluiz.net/blog/2021/jun/redirect-users-client-side-only/
 
+# Server
+## Apache HTTPD
+https://httpd.apache.org/
+
+## Nginx
+https://www.nginx.com/pricing/
+
+https://alex.dzyoba.com/blog/nginx-features-for-operators/
+
 # Security
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015
 https://en.wikipedia.org/wiki/HTTP_response_splitting

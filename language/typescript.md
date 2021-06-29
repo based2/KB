@@ -24,3 +24,9 @@ https://github.com/parsix/parsix
 https://fnune.com/typescript/2020/07/31/typescript-series-4-poor-mans-async-await-in-typescript-using-generators/
 
 https://github.com/storybookjs/storybook/
+
+# Lint
+https://www.sonarlint.org/
+https://lift.sonatype.com/
+https://eslint.org/
+https://snyk.io/blog/snyk-code-now-available-free-sast/

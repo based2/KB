@@ -37,8 +37,13 @@ https://github.com/qntm/base65536
 https://rolisz.com/the-best-text-classification-library-for-a-quick-baseline/
 * https://news.ycombinator.com/item?id=27583185
 
+https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching
+
 # ASCII
 http://www.figlet.org/fontdb.cgi
+
+https://queue.acm.org/detail.cfm?id=1871406 To move forward with programming languages we need to break free from the tyranny of ASCII.
+* https://news.ycombinator.com/item?id=27649431
 
 # Encoding
 https://datatracker.ietf.org/doc/draft-faltstrom-base45/

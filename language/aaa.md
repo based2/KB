@@ -1,4 +1,8 @@
 
+# OOP to Functional
+https://bitgloss.ro/dr-software.pdf
+* https://news.ycombinator.com/item?id=27658689
+
 # Interop
 https://github.com/google/cel-spec
 
@@ -49,6 +53,11 @@ https://en.wikipedia.org/wiki/Abstraction_inversion
 
 http://canonical.org/~kragen/sw/dev3/paperalgo
 
+https://www.unisonweb.org/ Distributed, functional, hash_signature - transmogrify - Haskell
+* https://news.ycombinator.com/item?id=27652677
+  * https://www.youtube.com/watch?v=gCWtkvDQ2ZI
+* https://github.com/unisonweb/unison/
+
 # Exotic
 https://github.com/iAmGio/pikt
 https://www.dangermouse.net/esoteric/piet.html
@@ -72,3 +81,7 @@ https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 # History
 http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
+
+# News
+
+

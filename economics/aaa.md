@@ -11,6 +11,9 @@ https://jlelliotton.blogspot.com/p/the-economic-value-of-rapid-response.html
 
 https://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/toc
 
+http://matt-clancy.com/economics-of-innovation-detailed-reading-list/
+* https://news.ycombinator.com/item?id=27659956
+
 # Bank
 https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf
 * https://news.ycombinator.com/item?id=27419984
@@ -22,6 +25,9 @@ https://www.dirk.org/wp-content/uploads/2021/06/DAX-Study-2020-Investoren-der-De
 * https://news.ycombinator.com/item?id=27589155
 
 https://github.com/Tyruiop/syncretism open source options search engine
+
+https://www.politico.eu/article/europe-eats-trumps-lunch/
+* https://news.ycombinator.com/item?id=27649937
 
 # News
 https://www.bbc.com/news/world-57368247 G7: Rich nations back deal to tax multinationals

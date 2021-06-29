@@ -82,6 +82,7 @@ https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternative
 * https://news.ycombinator.com/item?id=27630397
 
 # News
+https://www.developpez.com/actu/316232/Doctolib-la-plateforme-de-reservation-de-medecins-a-envoye-des-donnees-a-Facebook-et-Outbrain-violant-ainsi-le-secret-medical/
 https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/
 * https://news.ycombinator.com/item?id=27629188
 https://spreadprivacy.com/duckduckgrowing/

@@ -16,6 +16,11 @@ http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 #
 https://incolumitas.com/2021/03/13/tcp-ip-fingerprinting-for-vpn-and-proxy-detection/
 
+# RCP/IP
+https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
+* https://news.ycombinator.com/item?id=27654182
+  * https://github.com/virtualsquare/picotcp
+
 
 # Voice over IP
 https://www.cse.wustl.edu/~jain/cis788-99/ftp/voip_protocols/
@@ -24,6 +29,10 @@ https://www.cse.wustl.edu/~jain/cis788-99/ftp/voip_protocols/
 # Security
 https://github.com/yggdrasil-network/yggdrasil-go Early-stage implementation of an end-to-end encrypted IPv6 network
 * https://news.ycombinator.com/item?id=27577201
+
+# History
+https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
+* https://news.ycombinator.com/item?id=27673945
 
 # News
 https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/

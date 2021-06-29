@@ -1,3 +1,5 @@
+https://camhashemi.com/posts/focus-vs-coordination/
+
 https://productcrunch.substack.com/p/escaping-the-roadmap-trap
   https://news.ycombinator.com/item?id=25899773
 
@@ -72,3 +74,5 @@ https://garbagecollected.org/2017/10/24/the-carmack-plan/
 
 https://github.com/ixaxaar/awesome-engineering-management
 * https://news.ycombinator.com/item?id=27563259
+
+https://www.karllhughes.com/posts/prioritization-relative

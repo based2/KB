@@ -41,6 +41,7 @@ http://blog.pkh.me/p/29-the-most-useful-math-formulas.html
 
 
 # News
+https://ianopolous.peergos.me/maths/surreal
 https://writings.stephenwolfram.com/2021/06/1920-2020-and-a-20000-prize-announcing-the-s-combinator-challenge/
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323

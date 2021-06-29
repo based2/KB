@@ -1,5 +1,6 @@
 http://ipfs.io/ Kademlia + BitTorrent
 * https://news.ycombinator.com/item?id=27155603
+* https://news.ycombinator.com/item?id=27660253 subdomain
 
 https://speakerdeck.com/feross/adventures-in-p2p-javascript
 https://github.com/feross/webtorrent

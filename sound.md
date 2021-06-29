@@ -16,3 +16,6 @@ https://lelele.io/bliss.html
 * https://lobste.rs/s/b4lrmb/bliss_v2_library_for_making_audio
 
 https://aes67.app/
+
+https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.html
+* https://news.ycombinator.com/item?id=27648809

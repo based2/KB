@@ -1,3 +1,7 @@
+https://www.esa.int/
+
+http://www.astronautix.com/
+
 https://www.kerbalspaceprogram.com/dev-diaries/6509/ Developer Insights #9 – Orbit Tessellation
 
 https://www.nasa.gov/feature/goddard/2021/mystery-of-the-galaxys-missing-dark-matter-deepens
@@ -13,6 +17,8 @@ https://www.mindat.org/
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 
 # News
+https://spacedotbiz.substack.com/p/the-launch-landscape-small-rockets usa
+* https://news.ycombinator.com/item?id=27648763
 https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco
 * https://news.ycombinator.com/item?id=27617256
  * https://nepp.nasa.gov/WHISKER/background/index.htm

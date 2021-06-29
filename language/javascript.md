@@ -6,6 +6,12 @@ https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
 https://medium.com/nmc-techblog/advanced-console-log-tips-tricks-fa3762930bca
 * https://news.ycombinator.com/item?id=27499335
 
+https://jsisweird.com/
+* https://news.ycombinator.com/item?id=27659590
+
+https://2ality.com/2021/06/temporal-api.html
+* https://news.ycombinator.com/item?id=27661667
+
 # Frameworks
 ## VueJS
 https://vuejs.org/
@@ -40,6 +46,7 @@ https://medium.com/building-productive/react-ruined-web-development-dd65342a833f
 * https://news.ycombinator.com/item?id=27577523
 
 https://www.taniarascia.com/react-architecture-directory-structure/
+* https://lobste.rs/s/xmpidf/how_structure_organize_react
 
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
@@ -100,7 +107,7 @@ https://dmitripavlutin.com/javascript-fetch-async-await/
 https://stackoverflow.com/questions/31299715/cant-put-prototype-functions-in-promise-resolve
 https://stackoverflow.com/questions/26056188/elegant-callback-binding-when-using-promises-and-prototypes-in-javascript
 
-# Componants
+# Components
 
 https://github.com/zzarcon/focusable
 
@@ -158,6 +165,7 @@ https://github.com/easafe/purescript-flame
 # Dynamic.js libjs
 
 # News
+https://swizec.com/blog/a-surprising-feature-of-javascript-optional-chaining/
 https://datastation.multiprocess.io/blog/2021-06-16-languages-you-can-run-in-the-browser.html
 https://github.com/lume/autolayout
 * https://news.ycombinator.com/item?id=27322427

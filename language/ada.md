@@ -14,6 +14,8 @@ https://devblog.blackberry.com/en/2021/05/learning-to-love-a-rigid-and-inflexibl
 
 https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates
 
+https://blog.adacore.com/announcing-the-first-ada-spark-crate-of-the-year-award
+
 # GNAT
 https://www.adacore.com/download
 * https://news.ycombinator.com/item?id=27313294

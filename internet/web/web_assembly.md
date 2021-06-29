@@ -15,6 +15,7 @@ https://github.com/appcypher/awesome-wasm-langs
 https://github.com/AssemblyScript/assemblyscript
 
 https://emscripten.org/index.html C
+https://v.trp.gr/posts/c-to-wasm-for-lazy-people/
 
 https://rustwasm.github.io/docs/book/
 

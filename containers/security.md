@@ -1,3 +1,5 @@
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf
+
 https://github.com/arminc/clair-scanner
 
 https://github.com/wsargent/docker-cheat-sheet#security-tips

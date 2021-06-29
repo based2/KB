@@ -42,6 +42,8 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 `
 # News
+https://blog.newsblur.com/2021/06/28/story-of-a-hacking/
+* https://news.ycombinator.com/item?id=27670058
 https://dev.betterdoc.org/docker/linux/container/signals/pid1/2021/06/18/how-docker-forced-me-to-learn-more-about-linux.html
 https://www.reddit.com/r/docker/comments/nwirb2/why_does_it_feel_like_docker_is_moving_backwards/
 https://blog.atomist.com/keeping-up-with-docker-official-images/

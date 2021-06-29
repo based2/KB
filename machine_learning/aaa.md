@@ -24,6 +24,8 @@ https://github.com/getkeops/keops gpu
 https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
 * https://news.ycombinator.com/item?id=27318942
 
+https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/
+
 # Tools
 ## TensorFlow
 https://ai.googleblog.com/2021/06/frill-on-device-speech-representations.html
@@ -66,6 +68,27 @@ https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learning
 
 https://www.louisbouchard.ai/4k-image-translation-in-real-time/
 * https://news.ycombinator.com/item?id=27343670
+
+
+
+
+# Code assistant
+https://copilot.github.com/
+* https://news.ycombinator.com/item?id=27676266
+
+https://visualstudio.microsoft.com/fr/services/intellicode/
+
+https://research.ibm.com/blog/codenet-ai-for-code
+
+https://blog.jetbrains.com/platform/2021/03/codota-ai-and-boosting-productivity/
+
+https://www.kite.com/
+
+https://www.diffblue.com/
+
+https://www.tabnine.com/
+
+
 
 # GPT
 https://news.ycombinator.com/item?id=26534000

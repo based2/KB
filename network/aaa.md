@@ -20,6 +20,8 @@ https://blog.tonari.no/introducing-innernet
 
 https://blog.cloudflare.com/private-networking/
 
+https://www.rdoproject.org/networking/networking-in-too-much-detail/ openstack centOS
+
 # Investigations
 https://mysteries.wizardzines.com/connection-timeout.html
 * https://news.ycombinator.com/item?id=26900678
@@ -59,6 +61,9 @@ https://github.com/MatteoGuadrini/vmam
 # Mesh
 https://irde.st/
 * https://news.ycombinator.com/item?id=26925584
+
+# Learn
+https://news.ycombinator.com/item?id=27650775
 
 
 

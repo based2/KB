@@ -14,4 +14,10 @@ https://trstringer.com/systemd-inhibitor-locks/
 https://christine.website/talks/systemd-the-good-parts-2021-05-16
 * https://news.ycombinator.com/item?id=27175960
 
-https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/
+https://fedoramagazine.org/systemd-timers-for-scheduling-tasks/`
+
+https://mgdm.net/weblog/systemd/
+* https://news.ycombinator.com/item?id=27649342
+* https://lobste.rs/s/xxyjxl/avoiding_complexity_with_systemd
+
+https://cedwards.xyz/protecting-systemd-service-secrets/

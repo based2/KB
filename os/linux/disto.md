@@ -45,7 +45,10 @@ https://news.ycombinator.com/item?id=26001738 https://garudalinux.org/
 
 https://en.wikipedia.org/wiki/Azure_Sphere
 
+https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
+
 # News
+https://linux.slashdot.org/story/21/06/27/0133212/rocky-linux-84-achieves-first-general-availability-release-proves-popular centOS
 https://www.geeklan.co.uk/?p=2774 https://www.viewpointlinux.org/
 https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723
 * https://news.ycombinator.com/item?id=27573393

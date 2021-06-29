@@ -103,6 +103,12 @@ https://justine.lol/redbean/
 https://framapiaf.org/about
 https://jami.net/maloya-a-new-version-of-jami/
 
+https://www.mumble.info/
+* https://news.ycombinator.com/item?id=27648915
+
+https://briarproject.org/
+* https://news.ycombinator.com/item?id=27649123
+
 # Logs
 https://glogg.bonnefon.org/
 https://alerta.io/

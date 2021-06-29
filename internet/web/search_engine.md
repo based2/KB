@@ -45,6 +45,7 @@ https://deephn.org/
 https://arxiv.org/abs/2105.14134 Netflix
 
 # News
+https://reclaimthenet.org/google-starts-adding-no-reliable-sources-tag-to-some-search-engine-results/
 https://casparwre.de/blog/seo-scam/
 * https://news.ycombinator.com/item?id=27427330
 https://ninfex.com/hello

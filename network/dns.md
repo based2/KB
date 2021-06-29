@@ -49,5 +49,9 @@ https://arxiv.org/abs/2104.13785 Mutualized oblivious DNS (μODNS): Hiding a tre
 
 https://news.ycombinator.com/item?id=16024879
 
+# Distributed
+https://blog.cloudflare.com/cloudflare-distributed-web-resolver/
+* https://news.ycombinator.com/item?id=27641323
+
 # News
 https://gitlab.isc.org/isc-projects/bind9/-/issues/2779

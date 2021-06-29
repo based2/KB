@@ -1,3 +1,6 @@
+https://ptable.com/#Propri%C3%A9t%C3%A9s
+*
+
 https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article
 * https://news.ycombinator.com/item?id=27634549
 

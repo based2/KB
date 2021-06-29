@@ -1,3 +1,14 @@
+https://restoreprivacy.com/linkedin-data-leak-700-million-users/
+* https://news.ycombinator.com/item?id=27674393
+
+https://github.com/irsl/gcp-dhcp-takeover-code-exec
+* https://news.ycombinator.com/item?id=27673933
+
+https://ibm.github.io/system-security-research-updates/2021/06/18/spear-attacks-ssp-usecase
+
+https://www.veracode.com/blog/research/announcing-state-software-security-v11-open-source-edition
+* https://news.ycombinator.com/item?id=27650548
+
 https://seclists.org/oss-sec/2021/q2/226 CVE-2021-33624 Linux kernel BPF protection against speculative execution attacks can be bypassed to read arbitrary kernel memory
 
 https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/
@@ -5,6 +16,8 @@ https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootk
 
 https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/
 * https://news.ycombinator.com/item?id=27624735
+  * https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices/
+    * https://news.ycombinator.com/item?id=27674871
 
 https://labs.bishopfox.com/tech-blog/lexss-bypassing-lexical-parsing-security-controls
 

@@ -15,6 +15,10 @@ https://penpot.app/?source=korben.info
 # Forms
 https://www.the-art-of-web.com/html/html5-form-validation/
 
+## Login
+https://learnui.design/blog/tips-signup-login-ux.html
+* https://news.ycombinator.com/item?id=27655328
+
 ## Button
 https://www.joshwcomeau.com/animation/3d-button/
 * https://news.ycombinator.com/item?id=26635300

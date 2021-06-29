@@ -104,6 +104,10 @@ https://hal.inria.fr/hal-01112795/document HAL Id: hal-01112795https://hal.inria
 
 https://github.blog/2017-10-13-stretching-spokes/
 
+https://jonas.github.io/tig/
+* https://github.com/jonas/tig c
+* https://www.pofilo.fr/post/20210627-outil-tig/
+
 # Hash ID
 https://blog.plover.com/prog/git-rev-parse.html
 * https://www.reddit.com/r/git/comments/7gzk3b/git_psa_gitrevparse/
@@ -131,7 +135,7 @@ https://news.ycombinator.com/item?id=26164790
 
 https://github.blog/2021-04-29-scaling-monorepo-maintenance/
 
-# Interal
+# Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
 https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/

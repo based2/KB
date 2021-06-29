@@ -8,6 +8,9 @@ https://apps.ankiweb.net/
 https://github.com/andymatuschak/orbit
 * https://news.ycombinator.com/item?id=27051468
 
+https://get21stnight.com/
+* https://news.ycombinator.com/item?id=27662266
+
 https://projecteuler.net/
 
 https://projectlovelace.net/problems/
