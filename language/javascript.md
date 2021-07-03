@@ -16,6 +16,8 @@ https://2ality.com/2021/06/temporal-api.html
 ## VueJS
 https://vuejs.org/
 https://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/
+https://github.com/vuejs/petite-vue
+* https://news.ycombinator.com/item?id=27719290
 
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
@@ -66,6 +68,9 @@ https://geoffrich.net/posts/svelte-tower-of-hanoi/
 https://elderguide.com/tech/elderjs/
 * https://news.ycombinator.com/item?id=27152785
 
+#
+https://www.solidjs.com/
+
 ## Hyperscript (applescript)
 https://hyperscript.org/comparison/
 * https://news.ycombinator.com/item?id=26873682
@@ -79,6 +84,9 @@ https://github.com/i5ik/vanillaview
 https://replpad.com/
 * https://news.ycombinator.com/item?id=27031198
 * https://jsconsole.com/
+
+https://withblue.ink/2019/04/12/i-loved-jquery-and-still-do.html
+* https://news.ycombinator.com/item?id=27676550
 
 # Oracle Jet
 https://www.oracle.com/webfolder/technetwork/jet/index.html

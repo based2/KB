@@ -24,6 +24,8 @@ https://en.wikipedia.org/wiki/Amazon_Silk
 https://docs.aws.amazon.com/silk/
 
 # News
+https://otter-browser.org/
+* https://news.ycombinator.com/item?id=27695463
 https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html
 * https://lobste.rs/s/vawi9i/firefox_89_proton_ui_tab_styling
 https://digiday.com/marketing/cheat-sheet-google-extends-cookie-execution-deadline-until-late-2023-will-pause-floc-testing-in-july/

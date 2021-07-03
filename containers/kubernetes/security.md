@@ -22,6 +22,7 @@ https://github.com/quay/clair Red Hat
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
 # News
+https://sysdig.com/blog/crypto-mining-kubeflow-tensorflow-falco/
 https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/
 
 

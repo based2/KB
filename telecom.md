@@ -11,7 +11,10 @@ https://startyourownisp.com/
 https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window
 * https://news.ycombinator.com/item?id=26887658
 
-https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure
+https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure``
+
+https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning
+* https://news.ycombinator.com/item?id=27696267`
 
 # 5G
 * https://therecord.media/new-5g-protocol-vulnerabilities-allow-location-tracking/
@@ -54,6 +57,8 @@ https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing
 
 
 # News
+http://ndt.instedd.org/2010/05/it-without-software.html?m=1
+* https://news.ycombinator.com/item?id=27701009
 https://shufflingbytes.com/posts/wardialing-finnish-freephones/
 * https://news.ycombinator.com/item?id=27602383
 http://www.koreaherald.com/view.php?ud=20210617000953  	

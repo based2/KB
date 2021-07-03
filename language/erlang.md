@@ -40,6 +40,10 @@ https://keathley.io/blog/good-and-bad-elixir.html
 https://underjord.io/onboarding-to-elixir.html
 * https://news.ycombinator.com/item?id=27591079
 
+https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
+* https://news.ycombinator.com/item?id=27682432
+  *
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 * https://news.ycombinator.com/item?id=27629016

@@ -2,6 +2,7 @@ https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/Secure_Blockchain.pdf
 
 # Proof of Stake
 https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake
+https://en.wikipedia.org/wiki/Proof_of_stake
 
 # Proof of Work
 https://www.eea.europa.eu/publications/blockchain-and-the-environment
@@ -37,6 +38,8 @@ https://zkp.science/
 * https://news.ycombinator.com/item?id=27573910
 
 # News
+https://xtz.news/latest-tezos-news/e-voting-solution-electis-app-built-on-tezos-adopted-by-students-from-more-than-80-global-universities-including-kings-college-london/
+* https://en.wikipedia.org/wiki/Tezos OCaml
 https://wildland.io/
 * https://news.ycombinator.com/item?id=27473180
 https://github.com/vmware/concord-bft/blob/master/docs/design.md

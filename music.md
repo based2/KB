@@ -23,6 +23,9 @@ https://www.lowvolumedrumming.org/descending-toms/ drum
 
 https://github.com/LingDong-/legumes A sheet music to polylines renderer
 
+https://ianring.com/musictheory/scales/
+* https://news.ycombinator.com/item?id=27694827
+
 # Western Theory
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 * https://news.ycombinator.com/item?id=26859907

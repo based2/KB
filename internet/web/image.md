@@ -12,3 +12,8 @@ https://web.dev/fast/#optimize-your-images
 https://linuxfr.org/news/sortie-de-yoga-image-optimizer-1-0
 
 https://bien.ee/image-decoding-differences-between-browsers/
+
+https://andersource.dev/2021/06/12/image-color-replacement.html
+
+# Photography
+https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/

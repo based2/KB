@@ -33,6 +33,11 @@ https://github.com/bee-san/pyWhat
 http://tylerneylon.com/a/lsh1/ Locality-Sensitive Hashing
 * https://news.ycombinator.com/item?id=27614381
 
+https://peter.website/meow-hash-cryptanalysis
+
+https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a
+* https://news.ycombinator.com/item?id=27698059
+
 # UID
 https://github.com/kpdemetriou/fuuid
 * https://news.ycombinator.com/item?id=27030088

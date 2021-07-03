@@ -133,6 +133,10 @@ https://questdb.io/
 https://vega.github.io/vega-lite/
 https://observablehq.com/@observablehq/plot-vega-lite
 
+http://nicolas.kruchten.com/content/2018/02/seriation/ heatmap r
+* https://news.ycombinator.com/item?id=27720042
+
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/

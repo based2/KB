@@ -78,6 +78,10 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/
+* https://news.ycombinator.com/item?id=27707770
+https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/
+* https://news.ycombinator.com/item?id=27686069
 http://karolis.koncevicius.lt/posts/cleaning_home_on_macos/
 https://developer.apple.com/forums/thread/681907 PHP has been removed in macOS Monterey
 * https://news.ycombinator.com/item?id=27537040

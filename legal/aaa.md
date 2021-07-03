@@ -6,6 +6,10 @@ https://reasonablypolymorphic.com/blog/exploring-case-law/
 # US
 https://en.wikipedia.org/wiki/American_Service-Members%27_Protection_Act
 
+# Brexit - data rights
+https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations
+* https://news.ycombinator.com/item?id=27685629
+
 #
 https://github.com/steeve/france.code-civil
 

@@ -22,6 +22,8 @@ https://yurichev.com/news/20210421_boyer_moore/
 # UTF-8
 https://blog.pgdp.net/2021/06/01/cha%e1%b9%9b%e1%be%80%cf%82t%ce%adr-%e2%99%ad%e1%bf%a7ilding-character-building/
 
+https://nullprogram.com/blog/2017/10/06/
+
 # Unicode
 
 http://cldr.unicode.org/

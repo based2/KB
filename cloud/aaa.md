@@ -9,6 +9,9 @@ https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-fo
 
 https://thenewstack.io/an-architects-guide-to-multicloud/
 
+https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling
+* https://news.ycombinator.com/item?id=27719071
+
 # News
 https://news.ycombinator.com/item?id=27466678 AWS EU-CENTRAL-1 PDT/UTC
 https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront

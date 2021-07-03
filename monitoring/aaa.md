@@ -53,6 +53,8 @@ https://github.com/Sysinternals/ProcMon-for-Linux/
 * https://news.ycombinator.com/item?id=27058914
 
 # News
+http://gs.com./
+* https://news.ycombinator.com/item?id=27688272
 https://www.honeycomb.io/blog/metrics-beta-announcement/
 https://www.bunniestudios.com/blog/?p=6097
 https://luizrojo.medium.com/prometheus-but-bigger-b678d8d6b29d

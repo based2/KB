@@ -41,6 +41,8 @@ https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
 https://www.cambus.net/speedbuilding-llvm-clang-in-2-minutes-on-arm/
 * https://news.ycombinator.com/item?id=27135924
 
+https://lists.llvm.org/pipermail/llvm-dev/2021-June/151321.html LLVM Busybox Proposal
+
 # Bug report
 https://news.ycombinator.com/item?id=26620048
 

@@ -1,3 +1,6 @@
+https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/
+* https://news.ycombinator.com/item?id=27719222
+
 http://ipfs.io/ Kademlia + BitTorrent
 * https://news.ycombinator.com/item?id=27155603
 * https://news.ycombinator.com/item?id=27660253 subdomain

@@ -12,6 +12,9 @@ https://www.beyondallreason.info/ RTS
 https://osgameclones.com/
 * https://news.ycombinator.com/item?id=15468487
 
+https://en.wikipedia.org/wiki/Bob%27s_Game#
+* https://news.ycombinator.com/item?id=27682733
+
 # Emulator
 https://www.scummvm.org/
 

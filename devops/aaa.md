@@ -85,6 +85,10 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://about.gitlab.com/blog/2021/06/22/gitlab-14-modern-devops/
+* https://news.ycombinator.com/item?id=27714296
+https://news.ycombinator.com/item?id=27711403
+https://pijul.org/posts/2021-06-28-two-changes/
 https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 https://about.gitlab.com/blog/2021/05/04/gitlabs-2021-survey-uncovers-a-new-devops-maturity-model/

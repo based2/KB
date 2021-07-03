@@ -2,6 +2,9 @@
 https://github.com/Overv/vramfs
 * https://news.ycombinator.com/item?id=8747057
 
+https://arstechnica.com/gadgets/2021/07/a-deep-dive-into-openzfs-2-1s-new-distributed-raid-topology/
+* https://news.ycombinator.com/item?id=27718345
+
 # Distributed
 https://www.lustre.org/
 

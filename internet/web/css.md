@@ -45,6 +45,8 @@ https://www.virtuosoft.eu/tools/css-gradient-generator/
 
 https://webkul.github.io/coolhue/
 
+https://ui.glass/generator/
+
 ## Grid Layout
 
 https://grid.layoutit.com/
@@ -140,6 +142,7 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://drafts.csswg.org/css-nesting/
 https://pustelto.com/blog/css-vs-css-in-js-perf/
 https://et-jekyll.netlify.app/
 * https://news.ycombinator.com/item?id=27407264

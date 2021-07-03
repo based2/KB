@@ -23,6 +23,8 @@ https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/
 
 https://linuxguidehq.com/linux-commands-cheat-sheet/
 
+https://www.redhat.com/sysadmin/7-linux-namespaces
+
 # Selinux
 
 https://selinuxproject.org/page/Main_Page
@@ -67,6 +69,10 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/
+* https://news.ycombinator.com/item?id=27705340
+https://fancl20.github.io/contents/00-posts/2021-06-30-io_uring-is-not-only-a-generic-asynchronous-syscall-facility.html
+* https://news.ycombinator.com/item?id=27684608
 https://edw.elementary.io/
 https://www.theregister.com/2021/06/27/linux_kernel_5_13_released/
 https://lwn.net/SubscriberLink/860262/29e92db3e7272504/ A stable bug fix bites proprietary modules

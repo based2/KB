@@ -43,4 +43,9 @@ https://2ality.com/2021/06/json-modules.html
 https://github.com/tomnomnom/gron Make JSON greppable
 * https://lobste.rs/s/xdvu8i/tomnomnom_gron_make_json_greppable
 
+https://mgree.github.io/ffs/
+ffs: the file fileystem
+mount semi-structured data (like JSON) as a Unix filesystem
+
+
 

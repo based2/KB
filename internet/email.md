@@ -15,6 +15,10 @@ https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/
 https://maddy.email/
 * https://news.ycombinator.com/item?id=27557542
 
+# Test
+https://github.com/reacherhq/check-if-email-exists
+* https://news.ycombinator.com/item?id=27705742
+
 # Spam
 https://spa.mnesty.com/
 * https://news.ycombinator.com/item?id=16036121
@@ -64,5 +68,11 @@ https://jmap.io/
 https://www.mailoo.org/
 
 # News
+https://purelymail.com/
+* https://news.ycombinator.com/item?id=27707857
+https://www.migadu.com/
+* https://news.ycombinator.com/item?id=27708580
+https://sequoia-pgp.org/blog/2021/06/29/202106-yes-we-want-cryptographic-protection-for-email/
+* https://news.ycombinator.com/item?id=27678220
 https://www.reddit.com/r/Office365/comments/n3qky1/office_365_leaking_bcc_domain_name/
 * https://news.ycombinator.com/item?id=27022600

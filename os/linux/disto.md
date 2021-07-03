@@ -48,6 +48,8 @@ https://en.wikipedia.org/wiki/Azure_Sphere
 https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 
 # News
+https://blog.system76.com/post/655369428109869056/popos-2104-a-release-of-cosmic-proportions
+* https://news.ycombinator.com/item?id=27683738
 https://linux.slashdot.org/story/21/06/27/0133212/rocky-linux-84-achieves-first-general-availability-release-proves-popular centOS
 https://www.geeklan.co.uk/?p=2774 https://www.viewpointlinux.org/
 https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723

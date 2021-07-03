@@ -32,6 +32,9 @@ https://www.cybertec-postgresql.com/en/postgresql-detecting-slow-queries-quickly
 
 https://github.com/plv8/plv8
 
+https://fly.io/blog/globally-distributed-postgres/
+* https://news.ycombinator.com/item?id=27690950
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
@@ -95,6 +98,8 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 
 
 # News
+https://supabase.io/blog/2021/07/01/roles-postgres-hooks
+* https://news.ycombinator.com/item?id=27712800
 https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14
 * https://news.ycombinator.com/item?id=27358977
 https://www.postgresql.org/about/news/postgresql-14-beta-1-released-2213/

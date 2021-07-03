@@ -6,7 +6,6 @@ https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-S
 
 https://tvm.apache.org/vta
 
-
 https://dataflowr.github.io/website/
 
 https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/
@@ -50,6 +49,10 @@ https://arxiv.org/abs/2009.08378 Event-Based Backpropagation can compute Exact G
 
 https://github.com/neuronika/neuronika rust
 
+# RL
+https://mchromiak.github.io/articles/2021/Jun/01/Decision-Transformer-Reinforcement-Learning-via-Sequence-Modeling-RL-as-sequence/
+* https://news.ycombinator.com/item?id=27659122
+
 ### Transfomer
 https://arxiv.org/abs/2106.06981 Thinking Like Transformers
 * https://news.ycombinator.com/item?id=27528004
@@ -75,6 +78,13 @@ https://www.louisbouchard.ai/4k-image-translation-in-real-time/
 # Code assistant
 https://copilot.github.com/
 * https://news.ycombinator.com/item?id=27676266
+* https://blog.metaobject.com/2021/06/don-generate-glueexterminate.html
+* https://twitter.com/eevee/status/1410037309848752128 GPL license
+  * https://news.ycombinator.com/item?id=27687450
+* https://twitter.com/mitsuhiko/status/1410886329924194309
+  * https://news.ycombinator.com/item?id=27710287
+* https://jessmart.in/articles/copilot
+  * https://news.ycombinator.com/item?id=27712626
 
 https://visualstudio.microsoft.com/fr/services/intellicode/
 
@@ -88,12 +98,17 @@ https://www.diffblue.com/
 
 https://www.tabnine.com/
 
-
+# Art
+https://ml.berkeley.edu/blog/posts/clip-art/
+* https://news.ycombinator.com/item?id=27696369
 
 # GPT
 https://news.ycombinator.com/item?id=26534000
 https://stefanzukin.com/enigma/
 * https://news.ycombinator.com/item?id=27144764
+
+https://github.com/semiosis/pen.el/
+* https://news.ycombinator.com/item?id=27709659
 
 # IML - Interpretable machine learning
 https://blog.ml.cmu.edu/2021/04/23/a-learning-theoretic-perspective-on-local-explainability/
@@ -128,6 +143,10 @@ Modelling Extremal Events: for Insurance and Finance (Stochastic Modelling and A
 
 https://www.amazon.com/gp/profile/amzn1.account.AHMHNR4MRTDLMBOOT6Q7LX2WP5YA/ref=cm_cr_dp_mb_gw_tr?ie=UTF8
 
+https://github.com/microsoft/ML-For-Beginners
+
+https://umap-learn.readthedocs.io/en/latest/basic_usage.html
+*
 
 # Limits
 https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do
@@ -169,6 +188,11 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+https://arxiv.org/abs/2105.10430
+* https://news.ycombinator.com/item?id=27711165
+https://fossandcrafts.org/episodes/2-machine-learning-impact.html
+https://tilde.town/~fessus/reward_is_unnecessary.pdf
+* https://news.ycombinator.com/item?id=27659526
 https://www.reddit.com/r/MachineLearning/comments/o6vj1p/r_revisiting_deep_learning_models_for_tabular_data/
 https://nvlabs.github.io/alias-free-gan/
 *

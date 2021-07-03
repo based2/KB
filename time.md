@@ -4,6 +4,9 @@ https://stackoverflow.com/questions/3523442/difference-between-clock-realtime-an
 
 https://blog.vnaik.com/posts/time.html
 
+https://arxiv.org/ftp/arxiv/papers/1807/1807.01370.pdf
+Timekeeping infrastructure for the Catalina Sky Survey
+
 # Timestamp
 https://changelog.com/posts/you-might-as-well-timestamp-it
 * https://news.ycombinator.com/item?id=26922759
@@ -68,6 +71,9 @@ https://github.com/Neeveshs/Pomodoro-Timer
 
 https://www.tindie.com/products/nsayer/crazy-clock/
 * https://news.ycombinator.com/item?id=27622789
+
+https://en.wikipedia.org/wiki/DCF77
+* https://news.ycombinator.com/item?id=27689214
 
 #
 https://en.wikipedia.org/wiki/Time_crystal

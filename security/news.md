@@ -1,3 +1,32 @@
+https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-200-companies-in-msp-supply-chain-attack/
+* https://news.ycombinator.com/item?id=27716686
+
+https://matrix.org/blog/2021/06/30/security-update-synapse-1-37-1-released
+* https://news.ycombinator.com/item?id=27699613
+
+https://imgur.com/a/woqf6ZZ
+* https://news.ycombinator.com/item?id=27719218
+
+https://lastweekasavciso.substack.com/p/how-ea-hack-happened-how-to-prevent-it
+
+https://palant.info/2021/06/28/having-fun-with-css-injection-in-a-browser-extension/
+
+https://adversarial-attacks.net/
+
+https://github.com/afwu/PrintNightmare CVE-2021-1675: Remote code execution in Windows Spooler Service
+
+https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html
+* https://news.ycombinator.com/item?id=27678535
+
+https://ddosecrets.substack.com/p/exclusive-nato-classified-cloud-platform
+* https://news.ycombinator.com/item?id=27682657
+  * https://news.ycombinator.com/item?id=27685778
+
+https://kleinbottle.com/#AMAZON%20BRAND%20HIJACKING amvoom amazon
+* https://news.ycombinator.com/item?id=27684807
+
+http://mail-archives.apache.org/mod_mbox/www-announce/202106.mbox/browser airflow
+
 https://restoreprivacy.com/linkedin-data-leak-700-million-users/
 * https://news.ycombinator.com/item?id=27674393
 
@@ -18,6 +47,8 @@ https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompt
 * https://news.ycombinator.com/item?id=27624735
   * https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices/
     * https://news.ycombinator.com/item?id=27674871
+  * https://krebsonsecurity.com/2021/07/another-0-day-looms-for-many-western-digital-users/
+     * https://news.ycombinator.com/item?id=27713415
 
 https://labs.bishopfox.com/tech-blog/lexss-bypassing-lexical-parsing-security-controls
 

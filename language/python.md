@@ -124,6 +124,7 @@ https://github.com/facebookincubator/cinder
 * https://news.ycombinator.com/item?id=27043217
 
 # News
+https://death.andgravity.com/stdlib
 https://venthur.de/2021-06-26-python-packaging.html
 https://filesystem-spec.readthedocs.io/en/latest/index.html
 * https://news.ycombinator.com/item?id=27523377

@@ -1,3 +1,6 @@
+https://darker.ink/writings/Towards-richer-colors-on-the-Web
+* https://news.ycombinator.com/item?id=27709788
+
 https://lvjr.bitbucket.io/contrast.html#fg=1E5A1E,bg=DCDCF5 WCAG Color Contrast Tool
 https://cssgradient.io/
 
@@ -26,6 +29,9 @@ https://www.paletter.app/
 https://medium.com/game-dev-daily/the-srgb-learning-curve-773b7f68cf7a
 
 https://web.dev/building-a-color-scheme/
+
+https://raw.githubusercontent.com/djoshea/matlab-utils/master/libs/perceptuallyImprovedColormaps/Rainbow%20Color%20Map%20-Still-%20Considered%20Harmful.pdf
+* https://news.ycombinator.com/item?id=27658923
 
 # Monochrome
 https://news.ycombinator.com/item?id=26934352

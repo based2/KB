@@ -47,6 +47,8 @@ https://www.nirsoft.net/utils/cports.html#DownloadLinks
 https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/
 * https://news.ycombinator.com/item?id=26900419
 
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/excel.pdf
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 * https://news.ycombinator.com/item?id=26991887
@@ -56,6 +58,12 @@ https://devblogs.microsoft.com/commandline/wslg-architecture/
 https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10
 
 # News
+https://www.pcworld.com/article/3623830/only-windows-11-pro-will-let-you-install-windows-11-with-a-local-account.html
+* https://news.ycombinator.com/item?id=27720588
+https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/
+* https://news.ycombinator.com/item?id=27672711
+https://www.theverge.com/2021/6/29/22555371/microsoft-windows-11-cpu-support-hardware-requirements-tpm-response
+* https://news.ycombinator.com/item?id=27681892
 https://www.cnx-software.com/2021/06/26/tpm-2-0-modules-quadruple-in-price-out-of-stock-windows-11/
 https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/
 * https://news.ycombinator.com/item?id=27619354

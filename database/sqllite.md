@@ -41,6 +41,8 @@ https://github.com/lana-k/sqliteviz
 https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite
 * https://news.ycombinator.com/item?id=27175284
 
+https://epilys.github.io/bibliothecula/notekeeping.html
+
 # Dataset
 http://2016.padjo.org/tutorials/sqlite-data-starterpacks/
 * https://news.ycombinator.com/item?id=27324669
@@ -53,7 +55,12 @@ https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
 
 https://github.com/tezc/resql Java
 
+# History
+https://corecursive.com/066-sqlite-with-richard-hipp/
+* https://news.ycombinator.com/item?id=27718701
+
 # News
+https://epilys.github.io/bibliothecula/notekeeping.html
 https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/
 * https://news.ycombinator.com/item?id=27565482
 https://github.com/joaoh82/rust_sqlite

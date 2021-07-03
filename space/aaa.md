@@ -17,6 +17,7 @@ https://www.mindat.org/
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 
 # News
+https://spacenews.com/chinas-super-heavy-rocket-to-construct-space-based-solar-power-station/
 https://spacedotbiz.substack.com/p/the-launch-landscape-small-rockets usa
 * https://news.ycombinator.com/item?id=27648763
 https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco

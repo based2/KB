@@ -22,6 +22,8 @@ https://github.com/kloimhardt/babashka-scittle-guestbook
 https://danielgregoire.dev/posts/2021-06-13-code-observation-clojure-destructuring/
 * https://news.ycombinator.com/item?id=27501254
 
+https://ostash.dev/posts/2021-06-24-edn-data-notation/
+
 # Testing
 https://fctorial.github.io/posts/tst.html
 
@@ -40,3 +42,6 @@ https://github.com/jebberjeb/specviz
 
 # Clojurescript
 https://shaunlebron.github.io/t3tr0s-slides/#0
+
+# News
+https://github.com/babashka/babashka/discussions/907 Babashka + org-mode literate programming example

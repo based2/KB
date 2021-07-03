@@ -29,3 +29,6 @@ https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf
 
 https://github.com/nushell/nushell
 * https://news.ycombinator.com/item?id=27525031
+
+# News
+https://github.com/fish-shell/fish-shell/releases/tag/3.3.0

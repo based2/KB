@@ -89,9 +89,14 @@ https://fosdem.org/2021/schedule/event/realtime_netlisting/
 
 # Howto
 https://research.protocol.ai/blog/2021/designing-a-dataflow-editor-with-typescript-and-react/
+* https://news.ycombinator.com/item?id=27706626
 
 # Code
 https://jgrasp.org/tutorials187/05_CSD.pdf The Control Structure Diagram (CSD)
+
+https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming/
+* https://news.ycombinator.com/item?id=27705631
+  * https://en.wikipedia.org/wiki/Ladder_logic
 
 # ASCII
 https://asciiflow.com/#/

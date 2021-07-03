@@ -25,6 +25,9 @@ https://www.infoq.com/news/2020/02/wksctl-kubernetes-gitops/
 
 https://engineering.opsgenie.com/advanced-kubernetes-objects-53f5e9bc0c28
 
+https://zitadel.ch/blog/treat-clusters-as-cattle/
+* https://news.ycombinator.com/item?id=27688203
+
 
 
 # Infra
@@ -42,6 +45,10 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 * https://news.ycombinator.com/item?id=26951940
 
 # News
+https://juju.is/cloud-native-kubernetes-usage-report-2021
+https://medium.com/pinterest-engineering/scaling-kubernetes-with-assurance-at-pinterest-a23f821168da
+https://www.theregister.com/2021/06/29/kubernetes_spend_report/
+* https://news.ycombinator.com/item?id=27678324
 https://kubernetes.io/blog/2021/06/21/writing-a-controller-for-pod-labels/
 https://tilt.dev/
 https://github.com/idgenchev/namespace-node-affinity

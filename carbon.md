@@ -1,3 +1,7 @@
+https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System
+
+https://ember-climate.org/data/carbon-price-viewer/
+
 https://www.climeworks.com/
 
 https://www.airminers.org/ HTTPS cert issue
@@ -36,6 +40,7 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.esa.int/ESA_Multimedia/Images/2021/02/CO2M
 https://www.theguardian.com/us-news/2021/jun/18/us-heatwave-west-climate-crisis-drought
 * https://news.ycombinator.com/item?id=27562050
 https://branch.climateaction.tech/issues/issue-2/solar-protocol/

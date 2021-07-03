@@ -68,6 +68,7 @@ https://blog.dijit.sh//gpg-ssh-notes-for-current-best-practices
 
 #
 https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-openssh-private-keys/
+https://en.wikipedia.org/wiki/SSHFP_record
 
 # EOL
 https://blog.g3rt.nl/upgrade-your-ssh-keys.html

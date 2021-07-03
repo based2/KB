@@ -24,6 +24,8 @@ https://lemire.me/blog/2021/04/22/some-useful-regular-expressions-for-programmer
 
 https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24
 
+https://regex-generator.olafneumann.org/
+
 # Grep
 
 https://littlemaninmyhead.wordpress.com/2019/08/04/dont-underestimate-grep-based-code-scanning/

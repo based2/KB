@@ -10,6 +10,12 @@ https://www.notion.so/blog/data-model-behind-notion
 
 # OT
 
-# Lamport Clock
+https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/
+* https://news.ycombinator.com/item?id=27714251
+
+# Concurrent updates
+https://martinfowler.com/articles/patterns-of-distributed-systems/version-vector.html
+
+## Lamport Clock
 https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
 * https://news.ycombinator.com/item?id=27628553

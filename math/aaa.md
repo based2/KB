@@ -38,7 +38,10 @@ https://tympanus.net/codrops/2021/06/02/trigonometry-in-css-and-javascript-getti
 
 http://blog.pkh.me/p/29-the-most-useful-math-formulas.html
 
+https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math/
+* https://news.ycombinator.com/item?id=27682015
 
+http://www.tricki.org/tricki/map
 
 # News
 https://ianopolous.peergos.me/maths/surreal

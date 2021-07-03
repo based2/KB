@@ -51,6 +51,9 @@ https://josephmate.github.io/PowersOf2/ Complexity Estimator
 https://earthly.dev/blog/thought-leaders/
 * https://news.ycombinator.com/item?id=27467999
 
+https://jacobian.org/2021/may/20/estimation/
+* https://news.ycombinator.com/item?id=27687265
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -76,3 +79,12 @@ https://github.com/ixaxaar/awesome-engineering-management
 * https://news.ycombinator.com/item?id=27563259
 
 https://www.karllhughes.com/posts/prioritization-relative
+
+https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs
+* https://news.ycombinator.com/item?id=27673181
+
+https://principles.dev/
+* https://news.ycombinator.com/item?id=27688612
+
+https://fortelabs.co/blog/mise-en-place-for-knowledge-workers/
+* https://news.ycombinator.com/item?id=27708708

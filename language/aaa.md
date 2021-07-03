@@ -58,6 +58,10 @@ https://www.unisonweb.org/ Distributed, functional, hash_signature - transmogrif
   * https://www.youtube.com/watch?v=gCWtkvDQ2ZI
 * https://github.com/unisonweb/unison/
 
+# Fortran
+https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
+* https://news.ycombinator.com/item?id=27702168
+
 # Exotic
 https://github.com/iAmGio/pikt
 https://www.dangermouse.net/esoteric/piet.html
@@ -73,6 +77,10 @@ https://www.juricho.me/posts/online-hackathon/
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 * https://news.ycombinator.com/item?id=27458721
+
+# Code review
+https://itnext.io/im-changing-how-i-review-code-dbf212507e5f
+* https://news.ycombinator.com/item?id=27682002
 
 # API
 https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility

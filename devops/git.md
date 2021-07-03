@@ -34,6 +34,9 @@ https://stackoverflow.com/questions/2471340/is-there-a-way-to-lock-a-branch-in-g
 https://blog.waleedkhan.name/git-undo/
 * https://news.ycombinator.com/item?id=27579701
 
+https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
+* https://news.ycombinator.com/item?id=27683059
+
 # Books
 https://git-scm.com/book/en/v2
 
@@ -107,6 +110,9 @@ https://github.blog/2017-10-13-stretching-spokes/
 https://jonas.github.io/tig/
 * https://github.com/jonas/tig c
 * https://www.pofilo.fr/post/20210627-outil-tig/
+
+https://jpalmer.dev/2021/05/interactive-git-history/
+* https://news.ycombinator.com/item?id=27689664
 
 # Hash ID
 https://blog.plover.com/prog/git-rev-parse.html
