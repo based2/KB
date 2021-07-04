@@ -33,3 +33,6 @@ https://blog.dnmfarrell.com/post/modulinos-in-bash/ function
 https://petermalmgren.com/bash-things-i-learned/
 * https://ohmybash.nntoan.com/
  * https://github.com/ohmybash/oh-my-bash
+
+https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/
+* https://news.ycombinator.com/item?id=27726699

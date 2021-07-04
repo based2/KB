@@ -1,5 +1,12 @@
+https://sayfer.io/blog/idor-insecure-direct-object-reference/
+* https://www.reddit.com/r/netsec/comments/o9iovc/idor_insecure_direct_object_reference/
+
+https://secret.club/2021/06/28/windows11-tpms.html
+* https://www.reddit.com/r/netsec/comments/ocum28/windows_11_tpms_and_digital_sovereignty/
+
 https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-200-companies-in-msp-supply-chain-attack/
 * https://news.ycombinator.com/item?id=27716686
+* https://github.com/cado-security/DFIR_Resources_REvil_Kaseya/
 
 https://matrix.org/blog/2021/06/30/security-update-synapse-1-37-1-released
 * https://news.ycombinator.com/item?id=27699613
@@ -14,6 +21,9 @@ https://palant.info/2021/06/28/having-fun-with-css-injection-in-a-browser-extens
 https://adversarial-attacks.net/
 
 https://github.com/afwu/PrintNightmare CVE-2021-1675: Remote code execution in Windows Spooler Service
+* https://www.reddit.com/r/netsec/comments/oadasi/printnightmare_cve20211675_remote_code_execution/
+https://blog.0patch.com/2021/07/free-micropatches-for-printnightmare.html
+* https://www.reddit.com/r/netsec/comments/ocau2t/free_micropatches_for_printnightmare/
 
 https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html
 * https://news.ycombinator.com/item?id=27678535

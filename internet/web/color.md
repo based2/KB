@@ -33,6 +33,9 @@ https://web.dev/building-a-color-scheme/
 https://raw.githubusercontent.com/djoshea/matlab-utils/master/libs/perceptuallyImprovedColormaps/Rainbow%20Color%20Map%20-Still-%20Considered%20Harmful.pdf
 * https://news.ycombinator.com/item?id=27658923
 
+http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
+* https://news.ycombinator.com/item?id=27721094
+
 # Monochrome
 https://news.ycombinator.com/item?id=26934352
 

@@ -173,6 +173,8 @@ https://github.com/easafe/purescript-flame
 # Dynamic.js libjs
 
 # News
+https://jakearchibald.com/2021/last-return-wins/
+* https://news.ycombinator.com/item?id=27721432
 https://swizec.com/blog/a-surprising-feature-of-javascript-optional-chaining/
 https://datastation.multiprocess.io/blog/2021-06-16-languages-you-can-run-in-the-browser.html
 https://github.com/lume/autolayout

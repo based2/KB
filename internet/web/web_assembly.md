@@ -56,6 +56,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   * https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/no-defun-allowed/wasm2ps
+* https://news.ycombinator.com/item?id=27709002
 https://github.com/lastmjs/wasm-metal
 * https://news.ycombinator.com/item?id=27534572
 https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/

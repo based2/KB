@@ -82,6 +82,8 @@ https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternative
 * https://news.ycombinator.com/item?id=27630397
 
 # News
+https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/
+* https://news.ycombinator.com/item?id=27727150
 https://voxeu.org/article/data-privacy-paradox-and-digital-demand
 * https://news.ycombinator.com/item?id=27669265
 https://www.developpez.com/actu/316232/Doctolib-la-plateforme-de-reservation-de-medecins-a-envoye-des-donnees-a-Facebook-et-Outbrain-violant-ainsi-le-secret-medical/

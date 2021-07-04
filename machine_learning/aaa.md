@@ -85,6 +85,10 @@ https://copilot.github.com/
   * https://news.ycombinator.com/item?id=27710287
 * https://jessmart.in/articles/copilot
   * https://news.ycombinator.com/item?id=27712626
+* https://thelig.ht/abandoning-github/
+  * https://news.ycombinator.com/item?id=27724042
+* https://docs.github.com/en/github/copilot/research-recitation
+  * https://news.ycombinator.com/item?id=27723710
 
 https://visualstudio.microsoft.com/fr/services/intellicode/
 
@@ -109,6 +113,9 @@ https://stefanzukin.com/enigma/
 
 https://github.com/semiosis/pen.el/
 * https://news.ycombinator.com/item?id=27709659
+
+https://github.com/kingoflolz/mesh-transformer-jax GPT-J opensource
+* https://news.ycombinator.com/item?id=27727009
 
 # IML - Interpretable machine learning
 https://blog.ml.cmu.edu/2021/04/23/a-learning-theoretic-perspective-on-local-explainability/
@@ -147,6 +154,10 @@ https://github.com/microsoft/ML-For-Beginners
 
 https://umap-learn.readthedocs.io/en/latest/basic_usage.html
 *
+
+# Speed
+https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
+* https://news.ycombinator.com/item?id=27722333
 
 # Limits
 https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do

@@ -50,6 +50,9 @@ https://en.wikipedia.org/wiki/Project_Sanguine
 https://github.com/cariboulabs/cariboulite
 * https://news.ycombinator.com/item?id=27539834
 
+https://analogist.net/post/decoding-radio-ph-capsules-with-rtl_433/
+* https://news.ycombinator.com/item?id=27720640
+
 # Legacy
 ## ISDN
 https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing/

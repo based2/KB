@@ -108,7 +108,7 @@ https://ferrous-systems.com/blog/test-embedded-app/
 
 # APIs
 https://github.com/briansmith/ring Safe, fast, small crypto using Rust with BoringSSL's cryptography primitives
-* https://briansmith.org/rustdoc/ring/ 
+* https://briansmith.org/rustdoc/ring/
 
 # Tools
 ## Terminal

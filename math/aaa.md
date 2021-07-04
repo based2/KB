@@ -44,6 +44,8 @@ https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math/
 http://www.tricki.org/tricki/map
 
 # News
+http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
+* https://news.ycombinator.com/item?id=27724067
 https://ianopolous.peergos.me/maths/surreal
 https://writings.stephenwolfram.com/2021/06/1920-2020-and-a-20000-prize-announcing-the-s-combinator-challenge/
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code

@@ -63,6 +63,10 @@ https://world.hey.com/joaoqalves/disasters-i-ve-seen-in-a-microservices-world-a9
 https://martinfowler.com/articles/patterns-of-distributed-systems/gossip-dissemination.html
 * https://news.ycombinator.com/item?id=27548878
 
+# API
+https://google.aip.dev/
+* https://news.ycombinator.com/item?id=27716756
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 * https://news.ycombinator.com/item?id=27683966

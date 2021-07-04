@@ -24,6 +24,8 @@ https://en.wikipedia.org/wiki/Amazon_Silk
 https://docs.aws.amazon.com/silk/
 
 # News
+https://jamesl.me/atto/
+* https://news.ycombinator.com/item?id=27724236
 https://otter-browser.org/
 * https://news.ycombinator.com/item?id=27695463
 https://raymii.org/s/blog/Firefox-89-proton-ui-tab-styling.html

@@ -29,3 +29,6 @@ https://pchaigno.github.io/ebpf/2021/04/12/bmc-accelerating-memcached-using-bpf-
 http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html
 
 https://confused.ai/posts/announcing-aya rust
+
+https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
+* https://news.ycombinator.com/item?id=27722947

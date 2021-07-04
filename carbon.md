@@ -1,3 +1,6 @@
+https://scrippso2.ucsd.edu/index.html o2
+* https://news.ycombinator.com/item?id=27720014
+
 https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System
 
 https://ember-climate.org/data/carbon-price-viewer/

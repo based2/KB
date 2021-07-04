@@ -189,6 +189,8 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/m-vokhm/Quadruple 128-bit floating-point arithmetic for Java
+* https://www.reddit.com/r/java/comments/ocaj6j/128bit_floatingpoint_arithmetic_for_java/
 https://snyk.io/jvm-ecosystem-report-2021/
 https://thenewstack.io/microsoft-openjdk-goes-ga-at-build/
 https://github.com/Randgalt/record-builder

@@ -70,6 +70,12 @@ https://www.nomachetejuggling.com/2017/04/09/a-different-branching-strategy/
 https://brennan.io/2021/06/15/git-less-is-more/
 * https://news.ycombinator.com/item?id=27643057
 
+https://sethrobertson.github.io/GitBestPractices/
+* https://news.ycombinator.com/item?id=27727501
+
+http://blog.danieljanus.pl/2021/07/01/commit-groups/
+* https://news.ycombinator.com/item?id=27722221
+
 # Cleanup
 https://blog.frankel.ch/git-cleanup/
 

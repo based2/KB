@@ -58,6 +58,10 @@ https://www.unisonweb.org/ Distributed, functional, hash_signature - transmogrif
   * https://www.youtube.com/watch?v=gCWtkvDQ2ZI
 * https://github.com/unisonweb/unison/
 
+# Haskell
+https://typeclasses.com/phrasebook
+* https://news.ycombinator.com/item?id=27715023
+
 # Fortran
 https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
 * https://news.ycombinator.com/item?id=27702168

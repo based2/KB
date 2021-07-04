@@ -22,5 +22,7 @@ https://dbeaver.com/docs/wiki/ER-Diagrams/
 
 http://executequery.org/features
 
+https://github.com/Wisser/Jailer
+
 # Perf
 https://github.com/eXsio/querydsl-entityql#-query-execution

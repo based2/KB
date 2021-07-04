@@ -134,12 +134,17 @@ https://joplinapp.org/
 https://github.com/fmeringdal/nettu-meet Dashboard
 * https://news.ycombinator.com/item?id=27434254
 
+https://fosscord.com/ alpha
+* https://news.ycombinator.com/item?id=27720391
+
 # Media center
 https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse
 * https://jellyfin.org/
 * https://news.ycombinator.com/item?id=27462767
 
 # News
+https://github.com/darktable-org/darktable/releases/tag/release-3.6.0
+* https://news.ycombinator.com/item?id=27720908
 https://www.blender.org/press/canonical-offering-blender-support/
 * https://news.ycombinator.com/item?id=27617670
 https://sambhav.saggis.com/en/blog/2021-06-21-free-software-and-freakonomics

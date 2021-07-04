@@ -53,6 +53,10 @@ https://github.com/Sysinternals/ProcMon-for-Linux/
 * https://news.ycombinator.com/item?id=27058914
 
 # News
+https://blog.qrator.net/en/measuring-traffic-rate-by-means-of-u-models_134/
+https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378 What should the CPU usage be of a fully-loaded CPU that has been throttled?
+* https://news.ycombinator.com/item?id=27725286
+
 http://gs.com./
 * https://news.ycombinator.com/item?id=27688272
 https://www.honeycomb.io/blog/metrics-beta-announcement/

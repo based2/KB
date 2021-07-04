@@ -69,6 +69,8 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://01.org/powertop/ Power management
+* https://news.ycombinator.com/item?id=27727120
 https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/
 * https://news.ycombinator.com/item?id=27705340
 https://fancl20.github.io/contents/00-posts/2021-06-30-io_uring-is-not-only-a-generic-asynchronous-syscall-facility.html
