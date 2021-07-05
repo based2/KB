@@ -10,3 +10,6 @@ http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html
 * https://news.ycombinator.com/item?id=27524106
 
 https://aws.amazon.com/ecs/anywhere/
+
+https://databasearchitects.blogspot.com/2021/07/aws-ec2-hardware-trends-2015-2021.html
+* https://news.ycombinator.com/item?id=27730947

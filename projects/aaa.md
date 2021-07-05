@@ -88,3 +88,7 @@ https://principles.dev/
 
 https://fortelabs.co/blog/mise-en-place-for-knowledge-workers/
 * https://news.ycombinator.com/item?id=27708708
+
+# Musics fro programming
+https://www.musicforprogramming.net/
+* https://news.ycombinator.com/item?id=27737887

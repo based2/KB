@@ -6,6 +6,9 @@ https://falcon-sign.info/
 https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html
 * https://news.ycombinator.com/item?id=27406888
 
+https://people.csail.mit.edu/rivest/pubs/SRA81.pdf
+* https://news.ycombinator.com/item?id=27734693
+
 # AES
 
 https://keymaterial.net/2020/09/07/invisible-salamanders-in-aes-gcm-siv/

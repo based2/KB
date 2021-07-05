@@ -1,3 +1,6 @@
+https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
+* https://news.ycombinator.com/item?id=27737064
+
 https://faun.pub/be-fast-with-kubectl-1-18-ckad-cka-31be00acc443
 
 https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/

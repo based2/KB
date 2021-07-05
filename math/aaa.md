@@ -43,6 +43,10 @@ https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math/
 
 http://www.tricki.org/tricki/map
 
+# Fractal
+https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
+* https://news.ycombinator.com/item?id=27737705
+
 # News
 http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
 * https://news.ycombinator.com/item?id=27724067

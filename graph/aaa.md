@@ -24,6 +24,9 @@ https://mikedombo.github.io/graphPlayground/
 
 http://www.graphviz.org/Documentation/TSE93.pdf
 
+https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/
+* https://news.ycombinator.com/item?id=27732136
+
 # Visu
 https://gephi.org/
 https://ssw.jku.at/General/Staff/TW/igv.html

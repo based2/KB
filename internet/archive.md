@@ -20,3 +20,7 @@ http://cyber.dabamos.de/88x31/
 * https://news.ycombinator.com/item?id=27500624
  * https://www.cameronsworld.net/
 
+# History
+https://groups.csail.mit.edu/ana/A%20brief%20history%20of%20the%20internet%20-%20p22-leiner.pdf
+* https://news.ycombinator.com/item?id=27719937
+

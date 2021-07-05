@@ -35,6 +35,12 @@ https://github.com/plv8/plv8
 https://fly.io/blog/globally-distributed-postgres/
 * https://news.ycombinator.com/item?id=27690950
 
+https://brandur.org/idempotency-keys
+
+https://www.narrator.ai/blog/postgres-missing-datediff-function/
+* https://lobste.rs/s/mxhevf/postgresql_s_missing_datediff_function
+  * select justify_interval('2021-06-04'::timestamp with time zone - '2020-04-06 23:53:45');
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 

@@ -60,6 +60,8 @@ https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing
 
 
 # News
+https://ristovski.github.io/posts/moto-sensorhub/
+* https://news.ycombinator.com/item?id=27726097
 http://ndt.instedd.org/2010/05/it-without-software.html?m=1
 * https://news.ycombinator.com/item?id=27701009
 https://shufflingbytes.com/posts/wardialing-finnish-freephones/

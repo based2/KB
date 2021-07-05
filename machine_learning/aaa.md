@@ -29,6 +29,10 @@ https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/
 ## TensorFlow
 https://ai.googleblog.com/2021/06/frill-on-device-speech-representations.html
 
+## Ray
+https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html
+* https://news.ycombinator.com/item?id=27730807
+
 # Store
 https://feast.dev/
 
@@ -89,6 +93,8 @@ https://copilot.github.com/
   * https://news.ycombinator.com/item?id=27724042
 * https://docs.github.com/en/github/copilot/research-recitation
   * https://news.ycombinator.com/item?id=27723710
+* https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html
+  * https://news.ycombinator.com/item?id=27729209
 
 https://visualstudio.microsoft.com/fr/services/intellicode/
 
@@ -114,6 +120,8 @@ https://stefanzukin.com/enigma/
 https://github.com/semiosis/pen.el/
 * https://news.ycombinator.com/item?id=27709659
 
+https://www.p3r.one/gpt-j/
+* https://news.ycombinator.com/item?id=27731266
 https://github.com/kingoflolz/mesh-transformer-jax GPT-J opensource
 * https://news.ycombinator.com/item?id=27727009
 
@@ -154,6 +162,9 @@ https://github.com/microsoft/ML-For-Beginners
 
 https://umap-learn.readthedocs.io/en/latest/basic_usage.html
 *
+
+https://pair.withgoogle.com/explorables/
+* https://news.ycombinator.com/item?id=27739694
 
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition

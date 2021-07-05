@@ -82,6 +82,8 @@ https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternative
 * https://news.ycombinator.com/item?id=27630397
 
 # News
+https://www.wired.com/story/amazon-echo-dots-store-user-data-even-after-reset/
+* https://news.ycombinator.com/item?id=27738584
 https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/
 * https://news.ycombinator.com/item?id=27727150
 https://voxeu.org/article/data-privacy-paradox-and-digital-demand

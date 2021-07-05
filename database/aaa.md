@@ -31,6 +31,13 @@ https://www.confluent.io/blog/ksqldb-streaming-sql-the-query-your-database-cant-
 
 https://www.cargocultcode.com/what-does-first-normal-form-mean/
 
+# Tumeserie
+https://nakabonne.dev/posts/write-tsdb-from-scratch/
+* https://news.ycombinator.com/item?id=27730854
 
 # Migration
 https://samsaffron.com/archive/2018/03/22/managing-db-schema-changes-without-downtime
+
+# OLAP
+https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
+* https://news.ycombinator.com/item?id=27736713

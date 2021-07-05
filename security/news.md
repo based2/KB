@@ -1,3 +1,6 @@
+https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/
+* https://news.ycombinator.com/item?id=27731684
+
 https://sayfer.io/blog/idor-insecure-direct-object-reference/
 * https://www.reddit.com/r/netsec/comments/o9iovc/idor_insecure_direct_object_reference/
 

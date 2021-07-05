@@ -1,6 +1,9 @@
 https://exploringjs.com/deep-js/toc.html
 * https://news.ycombinator.com/item?id=27433999
 
+https://github.com/leonardomso/33-js-concepts
+* 
+
 https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/
 
 https://medium.com/nmc-techblog/advanced-console-log-tips-tricks-fa3762930bca

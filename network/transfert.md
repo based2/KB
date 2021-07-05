@@ -12,3 +12,6 @@ http://zsync.moria.org.uk/
 Zsync: Differential file downloading over HTTP using the rsync algorithm (2010)
 * https://news.ycombinator.com/item?id=27569146
 
+https://transfer.sh/
+* https://news.ycombinator.com/item?id=27739991
+

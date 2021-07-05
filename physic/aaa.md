@@ -23,3 +23,5 @@ https://home.cern/news/news/physics/lhcb-measures-tiny-mass-difference-between-p
 https://www.wired.com/story/researchers-levitated-a-small-tray-using-nothing-but-light/
 
 https://www.quantamagazine.org/how-blue-animals-color-themselves-with-nanostructures-20210616/
+
+https://github.com/ECSIM/opem#overview Modeling and simulation of proton-exchange membrane fuel cells

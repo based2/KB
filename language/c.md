@@ -16,3 +16,6 @@ https://saagarjha.com/blog/2020/04/12/designing-a-better-strcpy/
 * https://news.ycombinator.com/item?id=27537900
 
 https://www.digitalmars.com/articles/C-biggest-mistake.html
+
+https://mazzo.li/posts/c-performance-anecdote.html
+* https://news.ycombinator.com/item?id=27729377

@@ -8,6 +8,9 @@ https://www.gnu.org/software/lightning/
 
 https://secret.club/2021/04/09/std-clamp.html
 
+https://www.chisel-lang.org/
+* https://news.ycombinator.com/item?id=27738281
+
 https://c9x.me/compile/bib/
 * https://news.ycombinator.com/item?id=26925314
 
@@ -54,6 +57,8 @@ https://briancallahan.net/blog/20210609.html
 * https://news.ycombinator.com/item?id=27444647
 
 https://www.mca-ltd.com/martin/Ten15/introduction.html
+
+https://begriffs.com/posts/2021-07-04-shared-libraries.html
 
 # News
 https://www.i-programmer.info/news/99-professional/14539-acm-breakthrough-award-for-jit-compilation.html

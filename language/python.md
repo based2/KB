@@ -67,6 +67,10 @@ https://pyre-check.org/
 # Analysis
 https://linuxfr.org/news/python-partie-10-formateur-de-code-analyse-statique
 
+## Memory
+https://pythonspeed.com/articles/measuring-memory-python/
+* https://news.ycombinator.com/item?id=27738566
+
 # Books
 https://news.ycombinator.com/item?id=26076721
 https://github.com/pamoroso/free-python-books
@@ -108,6 +112,8 @@ https://github.com/wang0618/PyWebIO
 
 https://github.com/isman7/gimp-python-development
 * https://news.ycombinator.com/item?id=26589782
+
+https://pythonextensionpatterns.readthedocs.io/en/latest/index.html
 
 # Pypi
 https://github.blog/changelog/2021-03-22-the-python-package-index-is-now-a-github-secret-scanning-integrator/

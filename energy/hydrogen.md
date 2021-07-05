@@ -6,3 +6,9 @@ https://news.ycombinator.com/item?id=24572066
 
 https://newatlas.com/aircraft/airbus-liquid-hydrogen-cryogenic-superconductivity/
 * https://news.ycombinator.com/item?id=26888904
+
+https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/
+* https://news.ycombinator.com/item?id=27736733
+
+https://www.bmw.com/en/innovation/how-hydrogen-fuel-cell-cars-work.html
+* https://news.ycombinator.com/item?id=27736231

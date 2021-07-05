@@ -16,6 +16,11 @@ https://mailwip.com/blog/posts/tracing-http-requests-by-using-response-header-fr
 
 https://brunoluiz.net/blog/2021/jun/redirect-users-client-side-only/
 
+https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00
+* https://news.ycombinator.com/item?id=27729610
+  * https://brandur.org/fragments/idempotency-key-draft
+    * https://news.ycombinator.com/item?id=27736082
+
 # Server
 ## Apache HTTPD
 https://httpd.apache.org/

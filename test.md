@@ -4,6 +4,9 @@ https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-
 
 https://openreplay.com/
 
+https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/
+* https://news.ycombinator.com/item?id=27729189
+
 # Load testing
 https://slack.engineering/load-testing-with-koi-pond/
 * https://news.ycombinator.com/item?id=27458909

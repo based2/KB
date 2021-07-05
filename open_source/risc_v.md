@@ -20,3 +20,8 @@ https://github.com/sylefeb/Silice/tree/draft/projects/ice-v
 https://danielmangum.com/posts/risc-v-bytes-passing-on-the-stack/
 * https://news.ycombinator.com/item?id=27709912
 
+https://github.com/geohot/twitchcore
+* https://news.ycombinator.com/item?id=27728749
+
+https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/
+* https://news.ycombinator.com/item?id=27737718
