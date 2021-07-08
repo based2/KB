@@ -82,6 +82,9 @@ https://www.lpalmieri.com/posts/error-handling-rust/
 
 https://blogs.harvard.edu/kapolos/rust-from-a-javascript-perspective/
 
+https://github.com/rustviz/rustviz
+* https://news.ycombinator.com/item?id=27741963
+
 # Async
 https://tokio.rs/
 
@@ -141,6 +144,9 @@ https://www.fluvio.io/blog/2021/05/java-client/
 
 https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html
 
+https://github.com/antoyo/rustc_codegen_gcc
+* https://news.ycombinator.com/item?id=27746877
+
 # MacOs
 https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
 * https://news.ycombinator.com/item?id=27467453
@@ -164,6 +170,11 @@ https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=rust
 
 https://github.com/lucky/bad_actor_poc
 * https://news.ycombinator.com/item?id=27154534
+
+https://arxiv.org/abs/2103.15420 SafeDrop: Detecting Memory Deallocation Bugs of Rust Programs via Static Data-Flow Analysis
+* 
+
+https://arxiv.org/abs/2104.12064
 
 ## Crypto
 https://github.com/facebookresearch/Cupcake
@@ -199,6 +210,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://niedzejkob.p4.team/rust-np/
+* https://news.ycombinator.com/item?id=27769718
 https://ferrous-systems.com/blog/ferrocene-update-three-the-road/
 https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 * https://news.ycombinator.com/item?id=27559239

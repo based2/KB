@@ -53,6 +53,15 @@ https://medium.com/building-productive/react-ruined-web-development-dd65342a833f
 https://www.taniarascia.com/react-architecture-directory-structure/
 * https://lobste.rs/s/xmpidf/how_structure_organize_react
 
+https://acko.net/blog/live-headless-react/
+* https://gitlab.com/unconed/use.gpu
+* https://news.ycombinator.com/item?id=27750864
+    * https://www.youtube.com/watch?v=G6a5G5i4gQU Seven Implementations of Incremental
+        * https://github.com/janestreet/incremental oCaml
+            * https://blog.janestreet.com/introducing-incremental/
+* https://github.com/facebook/react/tree/master/packages/react-reconciler     
+* https://github.com/pmndrs/react-three-fiber
+ * https://reactjs.org/docs/codebase-overview.html#renderers
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -150,11 +159,22 @@ https://grapesjs.com/
 
 # Server
 ## Nodejs
+https://github.com/nvm-sh/nvm#about
+
+https://nodejs.org/en/
+
 https://deno.com/blog/the-deno-company
 * https://news.ycombinator.com/item?id=26620116
 
 http://changelog.com/podcast/443
 * https://news.ycombinator.com/item?id=27438478
+
+https://2ality.com/2021/06/typescript-esm-nodejs.html
+
+## NPM
+
+https://overreacted.io/npm-audit-broken-by-design/
+* https://news.ycombinator.com/item?id=27761334
 
 #
 https://github.com/mechaniac/Map-of-Javascript

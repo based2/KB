@@ -42,7 +42,9 @@ https://nickb.dev/blog/replacing-elasticsearch-with-rust-and-sqlite
 * https://news.ycombinator.com/item?id=27175284
 
 https://epilys.github.io/bibliothecula/notekeeping.html
-* https://news.ycombinator.com/item?id=27702084
+* https://news.ycombinator.com/item?id=27702084`
+
+https://news.ycombinator.com/item?id=27762201 SQLite query inside a Bash function
 
 # Dataset
 http://2016.padjo.org/tutorials/sqlite-data-starterpacks/

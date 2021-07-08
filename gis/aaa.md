@@ -121,6 +121,7 @@ https://en.wikipedia.org/wiki/Peirce_quincuncial_projection
 * https://news.ycombinator.com/item?id=27697756
 
 # News
+https://arxiv.org/abs/2107.01002 WiCluster: Passive Indoor 2D/3D Positioning using WiFi without Precise Labels
 https://news.ycombinator.com/item?id=26918259
 * https://protomaps.com/blog/new-way-to-make-maps/
 https://blogs.ucl.ac.uk/survey-of-london/2020/04/06/colouring-london-2/

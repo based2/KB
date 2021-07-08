@@ -21,3 +21,7 @@ https://patchthenet.medium.com/using-john-the-ripper-to-crack-password-hashes-fd
 # OTP
 https://zserge.com/posts/one-time-passwords/
 * https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
+
+# News
+https://donjon.ledger.com/kaspersky-password-manager/
+* https://news.ycombinator.com/item?id=27746494

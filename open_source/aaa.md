@@ -142,7 +142,11 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 * https://jellyfin.org/
 * https://news.ycombinator.com/item?id=27462767
 
+# Archive
+https://libregraphicsmag.com/index.html
+
 # News
+https://github.com/tenacityteam/tenacity
 https://github.com/darktable-org/darktable/releases/tag/release-3.6.0
 * https://news.ycombinator.com/item?id=27720908
 https://www.blender.org/press/canonical-offering-blender-support/

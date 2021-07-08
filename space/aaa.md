@@ -17,6 +17,9 @@ https://www.mindat.org/
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 
 # News
+https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/
+*
+https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html
 https://spacenews.com/chinas-super-heavy-rocket-to-construct-space-based-solar-power-station/
 https://spacedotbiz.substack.com/p/the-launch-landscape-small-rockets usa
 * https://news.ycombinator.com/item?id=27648763

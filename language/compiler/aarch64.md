@@ -8,3 +8,6 @@ https://developer.arm.com/architectures/architecture-security-features/confident
 
 https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms
 * https://news.ycombinator.com/item?id=27616018
+
+https://eclecticlight.co/2021/07/06/code-in-arm-assembly-flow-pipelines-and-performance/
+* 

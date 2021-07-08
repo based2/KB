@@ -53,6 +53,9 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/excel.pdf
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 * https://news.ycombinator.com/item?id=26991887
 
+## Find file
+       where /r .\ file_to_find.md
+
 # WSL
 https://devblogs.microsoft.com/commandline/wslg-architecture/
 https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10

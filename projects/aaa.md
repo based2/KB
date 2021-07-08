@@ -89,6 +89,9 @@ https://principles.dev/
 https://fortelabs.co/blog/mise-en-place-for-knowledge-workers/
 * https://news.ycombinator.com/item?id=27708708
 
-# Musics fro programming
+https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45
+* https://news.ycombinator.com/item?id=27771219
+
+# Musics for programming
 https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887

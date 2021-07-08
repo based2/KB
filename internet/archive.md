@@ -9,6 +9,9 @@ https://archivebox.io/
 
 https://www.ipingthereforeiam.com/bbs/msgs/ Usenet
 
+http://classics.mit.edu/index.html
+* https://news.ycombinator.com/item?id=27729062
+
 # Vintage
 https://www.webdesignmuseum.org/web-design-history/timeline-1990-1994
 

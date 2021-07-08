@@ -104,6 +104,8 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 
 
 # News
+https://www.channable.com/tech/dbcritic-constructively-criticizing-your-postgres-schema
+* https://news.ycombinator.com/item?id=27760073
 https://supabase.io/blog/2021/07/01/roles-postgres-hooks
 * https://news.ycombinator.com/item?id=27712800
 https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14

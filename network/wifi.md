@@ -7,6 +7,9 @@ https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio
 https://www.nzyme.org/ Defend your Wireless Networks
 https://www.krackattacks.com/#tools From 2017
 
+# Portal
+https://news.ycombinator.com/item?id=27771846
+
 # Bridge
 https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
 * https://news.ycombinator.com/item?id=27464907

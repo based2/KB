@@ -43,6 +43,13 @@ https://digitstodollars.com/2021/05/28/lets-build-a-chip-with-math/
 
 http://www.tricki.org/tricki/map
 
+https://mattferraro.dev/posts/poissons-equation
+* https://news.ycombinator.com/item?id=27748967
+
+# Geometry
+http://xperimex.com/blog/steiners-porism/
+* https://news.ycombinator.com/item?id=27741940
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705

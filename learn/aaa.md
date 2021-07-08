@@ -23,6 +23,9 @@ https://www.wikibooks.org/
 
 https://learn.circuitverse.org/
 
+https://github.com/ossu/computer-science
+* https://news.ycombinator.com/item?id=27744255
+
 # Manuals
 
 https://manuzoid.com/

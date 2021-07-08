@@ -161,3 +161,8 @@ https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
 https://www.producthunt.com/posts/gitlive
 * https://www.reddit.com/r/programming/comments/nqmnyl/extend_git_with_realtime_collaborative_superpowers/
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+  
+# News
+https://felipec.wordpress.com/2021/07/05/git-update/
+* https://news.ycombinator.com/item?id=27741204
+  * https://github.com/felipec/git

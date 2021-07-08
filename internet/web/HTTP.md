@@ -1,3 +1,7 @@
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
+https://httpstatuses.com/205 restore to previous client state
+https://github.com/for-GET/http-decision-diagram
+
 https://www.reddit.com/r/programming/comments/m9hbdv/http_compression_boost_your_servers_speed/
 
 https://news.ycombinator.com/item?id=26343577

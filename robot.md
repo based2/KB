@@ -3,3 +3,5 @@ https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robo
 
 https://techxplore.com/news/2021-07-insect-sized-robot-mazes-agility-cheetah.html
 * https://news.ycombinator.com/item?id=27720085
+
+https://www.youtube.com/watch?v=ssZ_8cqfBlE How many robots does it take to run a grocery store? ocado

@@ -84,6 +84,9 @@ https://github.com/jtpio/jupyterlite JupyterLite – WASM-powered Jupyter runnin
 https://observablehq.com/@asg017/introducing-dataflow
 * https://news.ycombinator.com/item?id=27145515
 
+https://blog.jetbrains.com/datalore/2021/06/30/announcing-datalore-enterprise-the-smart-and-secure-jupyter-environment-for-data-science-teams/
+* https://news.ycombinator.com/item?id=27746604
+
 ##
 http://zeppelin.apache.org/
 
@@ -136,10 +139,15 @@ https://observablehq.com/@observablehq/plot-vega-lite
 http://nicolas.kruchten.com/content/2018/02/seriation/ heatmap r
 * https://news.ycombinator.com/item?id=27720042
 
+https://graphica.app/
+* https://news.ycombinator.com/item?id=27747038
 
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
+
+https://dirtydatagirl.moogle.cc/rf7put/i-might-have-gone-a-little-bit-overboard
+* https://news.ycombinator.com/item?id=27738828
 
 # CI
 https://hypervector.io/

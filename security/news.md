@@ -1,3 +1,13 @@
+https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf
+* https://news.ycombinator.com/item?id=27764806
+
+https://www.bleepingcomputer.com/news/security/microsoft-365-to-let-secops-lock-hacked-active-directory-accounts/
+
+https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html
+* https://news.ycombinator.com/item?id=27740295
+
+https://mickens.seas.harvard.edu/files/mickens/files/memory_cartography.pdf
+
 https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/
 * https://news.ycombinator.com/item?id=27731684
 
@@ -10,6 +20,10 @@ https://secret.club/2021/06/28/windows11-tpms.html
 https://www.bleepingcomputer.com/news/security/revil-ransomware-hits-200-companies-in-msp-supply-chain-attack/
 * https://news.ycombinator.com/item?id=27716686
 * https://github.com/cado-security/DFIR_Resources_REvil_Kaseya/
+ * https://www.reuters.com/technology/hackers-demand-70-million-liberate-data-held-by-companies-hit-mass-cyberattack-2021-07-05/
+   * https://news.ycombinator.com/item?id=27750040
+     * https://unit42.paloaltonetworks.com/revil-threat-actors/
+       * https://news.ycombinator.com/item?id=27769285
 
 https://matrix.org/blog/2021/06/30/security-update-synapse-1-37-1-released
 * https://news.ycombinator.com/item?id=27699613
@@ -27,6 +41,10 @@ https://github.com/afwu/PrintNightmare CVE-2021-1675: Remote code execution in W
 * https://www.reddit.com/r/netsec/comments/oadasi/printnightmare_cve20211675_remote_code_execution/
 https://blog.0patch.com/2021/07/free-micropatches-for-printnightmare.html
 * https://www.reddit.com/r/netsec/comments/ocau2t/free_micropatches_for_printnightmare/
+  * https://arstechnica.com/gadgets/2021/07/microsofts-emergency-patch-fails-to-fix-critical-printnightmare-vulnerability/
+* https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/
+  * https://news.ycombinator.com/item?id=27761601
+* https://github.com/byt3bl33d3r/ItWasAllADream
 
 https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html
 * https://news.ycombinator.com/item?id=27678535

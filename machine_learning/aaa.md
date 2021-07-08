@@ -95,6 +95,7 @@ https://copilot.github.com/
   * https://news.ycombinator.com/item?id=27723710
 * https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html
   * https://news.ycombinator.com/item?id=27729209
+* https://news.ycombinator.com/item?id=27769440
 
 https://visualstudio.microsoft.com/fr/services/intellicode/
 
@@ -143,6 +144,8 @@ https://www.mdpi.com/1424-8220/21/9/2984/htm Quantization and Deployment of Deep
 https://github.com/facebookresearch/AugLy
 
 # Books & Papers
+https://github.com/xialeiliu/Awesome-Incremental-Learning
+
 ## Papers
 https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c
 * https://news.ycombinator.com/item?id=26891227
@@ -210,6 +213,7 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+https://blog.eleuther.ai/year-one/
 https://arxiv.org/abs/2105.10430
 * https://news.ycombinator.com/item?id=27711165
 https://fossandcrafts.org/episodes/2-machine-learning-impact.html

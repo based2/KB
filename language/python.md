@@ -102,6 +102,10 @@ https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/
 https://blog.drewolson.org/declarative-validation
 * https://news.ycombinator.com/item?id=27043574
 
+## Linter
+https://github.com/guilatrova/tryceratops
+* https://news.ycombinator.com/item?id=27770750
+
 #
 https://github.com/Pytlicek/sheet2dict MsExcel to dict
 * https://news.ycombinator.com/item?id=26887162
@@ -114,6 +118,9 @@ https://github.com/isman7/gimp-python-development
 * https://news.ycombinator.com/item?id=26589782
 
 https://pythonextensionpatterns.readthedocs.io/en/latest/index.html
+
+https://github.com/bsdz/calcengine
+* https://news.ycombinator.com/item?id=27768826
 
 # Pypi
 https://github.blog/changelog/2021-03-22-the-python-package-index-is-now-a-github-secret-scanning-integrator/
@@ -128,6 +135,10 @@ https://bluebanquise.com/
 # CPython
 https://github.com/facebookincubator/cinder
 * https://news.ycombinator.com/item?id=27043217
+
+# Django
+https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
+* https://news.ycombinator.com/item?id=27744870
 
 # News
 https://death.andgravity.com/stdlib

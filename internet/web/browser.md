@@ -23,7 +23,14 @@ https://intoli.com/blog/firefox-extensions-with-selenium/
 https://en.wikipedia.org/wiki/Amazon_Silk
 https://docs.aws.amazon.com/silk/
 
+# Web extensions
+https://lwn.net/Articles/846272/ Malware in open-source web extensions
+
 # News
+https://www.ctrl.blog/entry/chrome-google-dse-preconnect.html
+* https://news.ycombinator.com/item?id=27763208
+https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/
+* https://news.ycombinator.com/item?id=27772440
 https://jamesl.me/atto/
 * https://news.ycombinator.com/item?id=27724236
 https://otter-browser.org/

@@ -15,6 +15,9 @@ https://richardstartin.github.io/posts/4k-aliasing
 
 https://developers.redhat.com/articles/2021/06/23/how-jit-compiler-boosts-java-performance-openjdk#deoptimization_and_speculation
 
+https://inside.java/2021/05/10/networking-io-with-virtual-threads/
+* https://news.ycombinator.com/item?id=27744826
+
 # GC
 https://inside.java/2020/06/25/compact-forwarding/
 * https://news.ycombinator.com/item?id=23700451

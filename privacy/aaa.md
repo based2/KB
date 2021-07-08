@@ -82,6 +82,17 @@ https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternative
 * https://news.ycombinator.com/item?id=27630397
 
 # News
+https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-
+* https://news.ycombinator.com/item?id=27755853
+https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram
+* https://news.ycombinator.com/item?id=27762500
+https://www.reuters.com/investigates/special-report/health-china-bgi-dna/
+* https://news.ycombinator.com/item?id=27769406
+https://petsymposium.org/2021/files/papers/issue3/popets-2021-0053.pdf
+https://code.visualstudio.com/blogs/2021/07/06/workspace-trust
+* https://news.ycombinator.com/item?id=27750837
+https://consoledonottrack.com/
+* https://news.ycombinator.com/item?id=27746587
 https://www.wired.com/story/amazon-echo-dots-store-user-data-even-after-reset/
 * https://news.ycombinator.com/item?id=27738584
 https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/

@@ -47,3 +47,7 @@ https://news.ycombinator.com/item?id=27536525
 http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring/
 *
 
+# Font
+https://github.com/robhagemans/hoard-of-bitfonts
+* https://news.ycombinator.com/item?id=27773601
+

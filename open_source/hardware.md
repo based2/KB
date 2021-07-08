@@ -33,6 +33,8 @@ https://github.com/sylefeb/Silice
 # ASIC
 https://github.com/olofk/fusesoc
 
+https://openpowerfoundation.org/libre-soc-180nm-power-isa-asic-submitted-to-imec-for-fabrication/
+
 # Video
 https://github.com/schlae/graphics-gremlin ISA
 * https://news.ycombinator.com/item?id=27171100
@@ -61,3 +63,7 @@ https://github.com/scottbez1/splitflap
 
 https://github.com/casspop/ohd OverHeadDoor Garage Door Monitor
 * https://news.ycombinator.com/item?id=27639537
+
+# News
+https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/
+* https://news.ycombinator.com/item?id=27766066

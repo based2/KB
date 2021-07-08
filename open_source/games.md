@@ -18,3 +18,9 @@ https://en.wikipedia.org/wiki/Bob%27s_Game#
 # Emulator
 https://www.scummvm.org/
 
+# Dev
+https://o3de.org/
+* https://news.ycombinator.com/item?id=27751358
+* https://www.phoronix.com/scan.php?page=article&item=open-3d-engine&num=1
+  * https://news.ycombinator.com/item?id=27752426
+

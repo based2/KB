@@ -44,6 +44,9 @@ https://loup-vaillant.fr/articles/deaths-of-oop
 http://canonical.org/~kragen/memory-models/
 * https://news.ycombinator.com/item?id=27455509
 
+https://research.swtch.com/plmm Programming Language Memory Models
+* https://news.ycombinator.com/item?id=27750610
+
 https://functional-programming-in-elm.netlify.app/recursion/tail-call-elimination.html
 
 https://if50.substack.com/p/1993-curses
@@ -57,6 +60,8 @@ https://www.unisonweb.org/ Distributed, functional, hash_signature - transmogrif
 * https://news.ycombinator.com/item?id=27652677
   * https://www.youtube.com/watch?v=gCWtkvDQ2ZI
 * https://github.com/unisonweb/unison/
+
+https://news.ycombinator.com/item?id=27750153 Why is the byte order little-endian, but the bit order is big-endian?
 
 # Haskell
 https://typeclasses.com/phrasebook
@@ -78,6 +83,8 @@ https://github.com/TartanLlama/vizh
 # Hackaton
 https://www.juricho.me/posts/online-hackathon/
 
+
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 * https://news.ycombinator.com/item?id=27458721
@@ -95,5 +102,7 @@ http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
 
 # News
+https://jackson.sh/posts/2021-04-java-underrated/
+* https://www.reddit.com/r/java/comments/ofzsoh/java_is_criminally_underhyped/
 
 

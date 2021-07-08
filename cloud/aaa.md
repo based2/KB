@@ -13,6 +13,8 @@ https://cloud.google.com/blog/products/compute/introducing-compute-engine-predic
 * https://news.ycombinator.com/item?id=27719071
 
 # News
+https://github.com/mrbbot/miniflare test
+* https://news.ycombinator.com/item?id=27736706
 https://news.ycombinator.com/item?id=27466678 AWS EU-CENTRAL-1 PDT/UTC
 https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 * https://news.ycombinator.com/item?id=27443519

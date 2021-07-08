@@ -69,6 +69,8 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/
+* https://news.ycombinator.com/item?id=27746130
 https://01.org/powertop/ Power management
 * https://news.ycombinator.com/item?id=27727120
 https://befinitiv.wordpress.com/2021/06/30/installing-linux-into-a-286-laptop-from-the-year-1989/

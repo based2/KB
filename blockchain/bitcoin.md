@@ -16,6 +16,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.nbcnews.com/science/environment/some-locals-say-bitcoin-mining-operation-ruining-one-finger-lakes-n1272938
+* https://news.ycombinator.com/item?id=27749247
+  * https://arstechnica.com/tech-policy/2021/05/private-equity-firm-revives-zombie-fossil-fuel-power-plant-to-mine-bitcoin/
 https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin
 * https://news.ycombinator.com/item?id=27670281
 https://karpathy.github.io/2021/06/21/blockchain/

@@ -54,12 +54,19 @@ https://analogist.net/post/decoding-radio-ph-capsules-with-rtl_433/
 * https://news.ycombinator.com/item?id=27720640
 
 # Legacy
+https://medium.com/geekculture/howto-running-the-1g-analog-phone-from-1997-3caec77a9df9
+* https://news.ycombinator.com/item?id=27736912
+
 ## ISDN
 https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing/
 * https://news.ycombinator.com/item?id=27051670
 
 
 # News
+https://arstechnica.com/gadgets/2021/07/oneplus-admits-to-throttling-phones-after-launch-to-improve-battery-life/
+* 
+https://gizmodo.com/qualcomm-just-released-a-smartphone-for-some-reason-1847247102
+* https://news.ycombinator.com/item?id=27773779
 https://ristovski.github.io/posts/moto-sensorhub/
 * https://news.ycombinator.com/item?id=27726097
 http://ndt.instedd.org/2010/05/it-without-software.html?m=1

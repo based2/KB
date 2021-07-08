@@ -19,3 +19,9 @@ https://www.digitalmars.com/articles/C-biggest-mistake.html
 
 https://mazzo.li/posts/c-performance-anecdote.html
 * https://news.ycombinator.com/item?id=27729377
+
+https://blog.joren.ga/programming/vla-bad
+* https://news.ycombinator.com/item?id=27734676
+
+https://gopiandcode.uk/logs/log-certified-synthesis.html
+* https://news.ycombinator.com/item?id=27743740

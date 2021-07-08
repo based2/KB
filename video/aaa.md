@@ -54,4 +54,6 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 * https://news.ycombinator.com/item?id=27055866
 
 # News
+https://runwayml.com/
+* https://news.ycombinator.com/item?id=27766655
 https://www.collabora.com/news-and-blog/blog/2021/06/23/adding-vp9-and-mpeg2-stateless-support-in-v4l2codecs-for-gstreamer/

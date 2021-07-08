@@ -32,6 +32,10 @@ https://github.com/Tyruiop/syncretism open source options search engine
 https://www.politico.eu/article/europe-eats-trumps-lunch/
 * https://news.ycombinator.com/item?id=27649937
 
+## Trading
+https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
+* https://news.ycombinator.com/item?id=27763965
+
 # News
 https://www.bbc.com/news/world-57368247 G7: Rich nations back deal to tax multinationals
 * https://news.ycombinator.com/item?id=27404018

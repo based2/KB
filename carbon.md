@@ -43,6 +43,10 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.argusmedia.com/en/news/2231434-eu-draft-exempts-private-jets-cargo-from-jet-fuel-tax
+* https://news.ycombinator.com/item?id=27775620
+https://www.salon.com/2021/07/04/the-humble-water-heater-could-be-the-savior-of-our-energy-infrastructure-woes/
+* https://news.ycombinator.com/item?id=27755425
 https://www.esa.int/ESA_Multimedia/Images/2021/02/CO2M
 https://www.theguardian.com/us-news/2021/jun/18/us-heatwave-west-climate-crisis-drought
 * https://news.ycombinator.com/item?id=27562050

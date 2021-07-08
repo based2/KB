@@ -14,3 +14,7 @@ https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/
 https://github.com/michelp/pgfsm
 https://ef.gy/fsm-recursive-sql
 
+# Data Structure
+https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+* https://news.ycombinator.com/item?id=27745184
+

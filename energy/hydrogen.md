@@ -12,3 +12,6 @@ https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500m
 
 https://www.bmw.com/en/innovation/how-hydrogen-fuel-cell-cars-work.html
 * https://news.ycombinator.com/item?id=27736231
+
+https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article
+* https://news.ycombinator.com/item?id=27767656

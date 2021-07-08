@@ -85,6 +85,8 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform
+* https://news.ycombinator.com/item?id=27774987
 https://about.gitlab.com/blog/2021/06/22/gitlab-14-modern-devops/
 * https://news.ycombinator.com/item?id=27714296
 https://news.ycombinator.com/item?id=27711403

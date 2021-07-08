@@ -26,6 +26,9 @@ https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24
 
 https://regex-generator.olafneumann.org/
 
+http://rexegg.com/regex-best-trick.html
+* https://news.ycombinator.com/item?id=27774584
+
 # Grep
 
 https://littlemaninmyhead.wordpress.com/2019/08/04/dont-underestimate-grep-based-code-scanning/

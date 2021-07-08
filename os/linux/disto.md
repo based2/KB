@@ -48,6 +48,7 @@ https://en.wikipedia.org/wiki/Azure_Sphere
 https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 
 # News
+https://www.jeremymorgan.com/blog/linux/pop-os-21-04-first-impressions/
 https://www.linuxserver.io/blog/2021-05-05-meet-webtops-a-linux-desktop-environment-in-your-browser
 https://chimera-linux.org/
 * https://news.ycombinator.com/item?id=27721283

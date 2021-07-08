@@ -7,6 +7,8 @@ https://github.com/google/diff-match-patch
 https://javers.org/http://www.pixelbeat.org/programming/diffs/#mergely
 * 
 
+https://github.com/wilfred/difftastic
+* https://news.ycombinator.com/item?id=27768861
 
 
 # Git

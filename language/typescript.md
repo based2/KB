@@ -25,6 +25,9 @@ https://fnune.com/typescript/2020/07/31/typescript-series-4-poor-mans-async-awai
 
 https://github.com/storybookjs/storybook/
 
+http://neugierig.org/software/blog/2018/09/typescript-at-google.html
+* https://news.ycombinator.com/item?id=27756190
+
 # Lint
 https://www.sonarlint.org/
 https://lift.sonatype.com/

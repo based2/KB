@@ -1,3 +1,5 @@
+https://buttondown.email/hillelwayne/archive/10-misconceptions-about-formal-methods/
+
 * https://coq.inria.fr/
   * https://www.lri.fr/~paulin/LASER/course-notes.pdf
     https://www.theregister.com/2021/06/15/coq_programming_language_change/ coc

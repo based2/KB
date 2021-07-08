@@ -37,5 +37,7 @@ https://relaypro-open.github.io/dog/ Firewall management system
 https://docs.vyos.io/en/latest/configexamples/index.html
 
 # News
+https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/
+* https://news.ycombinator.com/item?id=27768934
 https://samy.pl/slipstream/
 https://news.ycombinator.com/item?id=26620943

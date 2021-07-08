@@ -64,6 +64,10 @@ https://github.com/MatteoGuadrini/vmam
 https://irde.st/
 * https://news.ycombinator.com/item?id=26925584
 
+# BGP
+https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
+* https://news.ycombinator.com/item?id=27768778
+
 # Learn
 https://news.ycombinator.com/item?id=27650775
 
