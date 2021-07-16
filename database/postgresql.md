@@ -41,6 +41,12 @@ https://www.narrator.ai/blog/postgres-missing-datediff-function/
 * https://lobste.rs/s/mxhevf/postgresql_s_missing_datediff_function
   * select justify_interval('2021-06-04'::timestamp with time zone - '2020-04-06 23:53:45');
 
+https://blog.crunchydata.com/blog/generating-json-directly-from-postgres
+* https://news.ycombinator.com/item?id=27848085
+
+https://www.cybertec-postgresql.com/en/postgresql-limit-vs-fetch-first-rows-with-ties/
+* https://news.ycombinator.com/item?id=27845360
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
@@ -54,6 +60,9 @@ https://dev.to/jbranchaud/beware-the-missing-foreign-key-index-a-postgres-perfor
 
 # Index
 http://leopard.in.ua/2015/04/13/postgresql-indexes/
+
+# Analysis
+https://github.com/marklit/datafluent_pg
 
 ### Extensions
 https://age.apache.org/# Graph

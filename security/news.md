@@ -1,3 +1,23 @@
+https://www.notebookcheck.net/Lenovo-laptops-silently-stripped-of-important-feature-in-BIOS-updates.550673.0.html
+* https://news.ycombinator.com/item?id=27842517
+
+https://www.software.ac.uk/blog/2018-07-13-javacard-execution-environment-you-didnt-know-you-were-using
+
+https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-steal-google-and-microsoft-credentials/
+* https://news.ycombinator.com/item?id=27837941
+
+https://mtpsym.github.io/ im telegram
+* https://news.ycombinator.com/item?id=27854411
+
+https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
+* https://news.ycombinator.com/item?id=27853434
+
+https://google.github.io/security-research/pocs/linux/cve-2021-22555/writeup.html linux netfilter
+* https://news.ycombinator.com/item?id=27842018
+
+https://blog.dshr.org/2021/07/a-modest-proposal-about-ransomware.html
+* https://news.ycombinator.com/item?id=27847226
+
 https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf
 * https://news.ycombinator.com/item?id=27764806
 

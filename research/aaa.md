@@ -22,6 +22,9 @@ https://scite.ai/
 https://adamashwal.com/fruit
 * https://news.ycombinator.com/item?id=27507675
 
+# Meta
+https://en.wikipedia.org/wiki/TRIZ
+
 # News
 https://shkspr.mobi/blog/2021/06/where-is-the-original-overview-of-shard-paper/
 

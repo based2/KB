@@ -16,6 +16,9 @@ https://www.emaculation.com/doku.php
 https://rbelmont.mameworld.info/?p=1436 https://www.mamedev.org/
 * https://news.ycombinator.com/item?id=27171852 cdrom
 
+www.byrdsight.com/apple-macintosh/
+* https://news.ycombinator.com/item?id=27843189
+
 
 # HyperCard
 https://hypercard.org/

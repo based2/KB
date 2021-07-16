@@ -63,6 +63,8 @@ https://github.com/google/fully-homomorphic-encryption
 * https://news.ycombinator.com/item?id=27510902
 
 # News
+https://www.bunniestudios.com/blog/?p=6140 Building a Curve25519 Hardware Accelerator
+* https://news.ycombinator.com/item?id=27845274
 https://eprint.iacr.org/2021/870 SoK: Gröbner Basis Algorithms for Arithmetization Oriented Ciphers
 * https://news.ycombinator.com/item?id=27686008
 https://keygen.sh/blog/how-to-generate-license-keys-in-2021/

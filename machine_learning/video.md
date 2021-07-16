@@ -6,3 +6,7 @@ https://depthoraclenerf.github.io/
 
 https://kvfrans.com/clipdraw-exploring-text-to-drawing-synthesis/
 * https://news.ycombinator.com/item?id=27685941
+
+https://eulerian.cs.washington.edu/
+
+https://zpdesu.github.io/Barbershop/

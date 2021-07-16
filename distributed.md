@@ -1,3 +1,6 @@
+http://charap.co/reading-group-paxos-vs-raft-have-we-reached-consensus-on-distributed-consensus/
+* https://news.ycombinator.com/item?id=27831576
+
 https://ably.com/blog/8-fallacies-of-distributed-computing
 
 # CRDT

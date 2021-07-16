@@ -25,6 +25,9 @@ https://maxbittker.com/user-styles
 
 https://csstriggers.com/
 
+https://wattenberger.com/blog/css-percents
+* https://news.ycombinator.com/item?id=27769291
+
 # Tailwind
 https://www.tailwind-tools.com/
 https://tailwindcss.com/docs/just-in-time-mode

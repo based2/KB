@@ -21,6 +21,12 @@ https://blog.apnic.net/2018/03/29/the-dns-camel/
 
 https://techcrunch.com/2020/12/08/cloudflare-and-apple-design-a-new-privacy-friendly-internet-protocol/
 
+https://www.netmeister.org/blog/dns-rrs.html
+* https://news.ycombinator.com/item?id=27852601
+
+https://publicsuffix.org/
+* https://news.ycombinator.com/item?id=27835197
+
 # DNSSEC
 https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
 
@@ -48,6 +54,9 @@ https://www.forescout.com/company/resources/namewreck-breaking-and-fixing-dns-im
 https://arxiv.org/abs/2104.13785 Mutualized oblivious DNS (μODNS): Hiding a tree in the wild forest
 
 https://news.ycombinator.com/item?id=16024879
+
+https://github.com/unfrl/dug/
+* https://news.ycombinator.com/item?id=27852483
 
 # Distributed
 https://blog.cloudflare.com/cloudflare-distributed-web-resolver/

@@ -120,6 +120,11 @@ https://www.redhat.com/architect/architects-guide-gps-and-gps-data-formats
 https://en.wikipedia.org/wiki/Peirce_quincuncial_projection
 * https://news.ycombinator.com/item?id=27697756
 
+# Algo
+## Visu
+https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
+* https://news.ycombinator.com/item?id=27849366
+
 # News
 https://arxiv.org/abs/2107.01002 WiCluster: Passive Indoor 2D/3D Positioning using WiFi without Precise Labels
 https://news.ycombinator.com/item?id=26918259

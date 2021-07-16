@@ -29,6 +29,8 @@ https://en.wikipedia.org/wiki/Third-party_doctrine
 
 https://www.ecomply.io/blog-en/measuring-privacy-how-to-compute-the-dpia-threshold
 
+https://core.ac.uk/download/pdf/267979739.pdf
+
 # Fingerprinting
 https://jonatron.github.io/webgl-fingerprinting/
 * https://news.ycombinator.com/item?id=26844928
@@ -82,6 +84,8 @@ https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternative
 * https://news.ycombinator.com/item?id=27630397
 
 # News
+https://www.theregister.com/2021/07/15/privacy_costs_money/
+* https://www.theregister.com/2021/07/15/privacy_costs_money/
 https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-
 * https://news.ycombinator.com/item?id=27755853
 https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram

@@ -5,3 +5,7 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 * https://news.ycombinator.com/item?id=27137108
 
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
+
+# News
+https://pv-magazine-usa.com/2021/07/15/california-breaks-1-gw-energy-storage-milestone-and-looks-to-a-future-1-21-gw-moment/
+* 

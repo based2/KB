@@ -15,5 +15,8 @@ https://bien.ee/image-decoding-differences-between-browsers/
 
 https://andersource.dev/2021/06/12/image-color-replacement.html
 
+https://yoga.flozz.org/
+* https://linuxfr.org/news/sortie-de-yoga-image-optimizer-1-0
+
 # Photography
 https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/

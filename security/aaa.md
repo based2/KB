@@ -26,6 +26,8 @@ https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
 * https://news.ycombinator.com/item?id=27654807
   * https://codahale.com/a-lesson-in-timing-attacks/
 
+https://hardenedvault.net/2021/07/16/ciso-seceng_csme.html
+
 # Identity
 https://en.wikipedia.org/wiki/Claims-based_identity
 

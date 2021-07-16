@@ -176,6 +176,11 @@ https://arxiv.org/abs/2103.15420 SafeDrop: Detecting Memory Deallocation Bugs of
 
 https://arxiv.org/abs/2104.12064
 
+https://arxiv.org/abs/2007.00752 Is Rust Used Safely by Software Developers?
+* https://news.ycombinator.com/item?id=27860162
+
+https://lang-team.rust-lang.org/initiatives.html
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 * https://news.ycombinator.com/item?id=27589010

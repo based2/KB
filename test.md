@@ -7,6 +7,10 @@ https://openreplay.com/
 https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/
 * https://news.ycombinator.com/item?id=27729189
 
+# REST
+https://github.com/apideck-libraries/portman
+* https://news.ycombinator.com/item?id=27845768
+
 # Load testing
 https://slack.engineering/load-testing-with-koi-pond/
 * https://news.ycombinator.com/item?id=27458909

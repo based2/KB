@@ -96,6 +96,8 @@ https://copilot.github.com/
 * https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html
   * https://news.ycombinator.com/item?id=27729209
 * https://news.ycombinator.com/item?id=27769440
+  * https://fossa.com/blog/analyzing-legal-implications-github-copilot/
+    * https://news.ycombinator.com/item?id=27846324
 
 https://visualstudio.microsoft.com/fr/services/intellicode/
 
@@ -213,6 +215,7 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+https://www.heise.de/news/Machine-Learning-spaCy-3-1-gibt-Vorhersagen-in-der-Pipeline-weiter-6131762.html
 https://blog.eleuther.ai/year-one/
 https://arxiv.org/abs/2105.10430
 * https://news.ycombinator.com/item?id=27711165

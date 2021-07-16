@@ -4,6 +4,8 @@ https://vertx.io/ Reactor pattern, Eclipse
 * https://slinkydeveloper.com/Assertions-With-Vertx-Futures-And-JUnit5/
 * https://slinkydeveloper.com/Vert-x-Container-images-with-jlink/
 
+https://itnext.io/building-restful-apis-with-eclipse-vertx-4ce89d8eeb74
+
 https://github.com/ReactiveX/RxJava Erik Meijer@microsoft 
 http://reactivex.io/
 

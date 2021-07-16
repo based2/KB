@@ -16,7 +16,14 @@ https://www.mindat.org/
 
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 
+# History
+## Apollo
+http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
+* https://news.ycombinator.com/item?id=27775089
+
 # News
+https://news.ti.com/blog/2021/06/24/developing-first-ics-to-orbit-earth
+* https://news.ycombinator.com/item?id=27842767
 https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/
 *
 https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html

@@ -12,3 +12,6 @@ https://www.uihut.com/
 * https://news.ycombinator.com/item?id=27739100
 
 https://blog.jgc.org/2010/06/elevator-button-problem.html
+
+https://jamiemill.com/blog/elements-of-product-design/
+* https://news.ycombinator.com/item?id=27843207

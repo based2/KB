@@ -63,6 +63,8 @@ https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing
 
 
 # News
+https://arstechnica.com/tech-policy/2021/07/california-passes-historic-plan-for-statewide-open-access-fiber-network/
+* https://news.ycombinator.com/item?id=27860176
 https://arstechnica.com/gadgets/2021/07/oneplus-admits-to-throttling-phones-after-launch-to-improve-battery-life/
 * 
 https://gizmodo.com/qualcomm-just-released-a-smartphone-for-some-reason-1847247102

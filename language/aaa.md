@@ -72,6 +72,10 @@ https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
 * https://news.ycombinator.com/item?id=27702168
 
 # Exotic
+## APL
+## K
+https://news.ycombinator.com/item?id=27842541
+
 https://github.com/iAmGio/pikt
 https://www.dangermouse.net/esoteric/piet.html
 https://hexagony.net/about.html
@@ -92,6 +96,10 @@ https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 # Code review
 https://itnext.io/im-changing-how-i-review-code-dbf212507e5f
 * https://news.ycombinator.com/item?id=27682002
+
+https://lp.jetbrains.com/qodana/
+
+sonar
 
 # API
 https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility

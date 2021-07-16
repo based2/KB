@@ -196,6 +196,7 @@ https://github.com/easafe/purescript-flame
 # Dynamic.js libjs
 
 # News
+https://fjolt.com/article/javascript-new-file-system-api
 https://jakearchibald.com/2021/last-return-wins/
 * https://news.ycombinator.com/item?id=27721432
 https://swizec.com/blog/a-surprising-feature-of-javascript-optional-chaining/

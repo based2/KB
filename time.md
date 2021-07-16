@@ -75,7 +75,13 @@ https://www.tindie.com/products/nsayer/crazy-clock/
 https://en.wikipedia.org/wiki/DCF77
 * https://news.ycombinator.com/item?id=27689214
 
+https://blog.jgc.org/2021/07/receiving-wwvb-time-signal-in-portugal.html
+
 #
 https://en.wikipedia.org/wiki/Time_crystal
+
+# Investigation
+https://memgraph.com/blog/overflowing-timeout
+* https://news.ycombinator.com/item?id=27832690
 
 

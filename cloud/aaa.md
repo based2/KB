@@ -13,6 +13,11 @@ https://cloud.google.com/blog/products/compute/introducing-compute-engine-predic
 * https://news.ycombinator.com/item?id=27719071
 
 # News
+https://www.itnews.com.au/news/bank-of-england-to-crack-down-on-secretive-cloud-computing-services-567310
+* https://news.ycombinator.com/item?id=27830423
+http://blogs.harvard.edu/doc/2021/06/24/a-storage-crisis/
+* https://news.ycombinator.com/item?id=27837570
+https://fly.io/blog/last-mile-redis/
 https://github.com/mrbbot/miniflare test
 * https://news.ycombinator.com/item?id=27736706
 https://news.ycombinator.com/item?id=27466678 AWS EU-CENTRAL-1 PDT/UTC

@@ -146,6 +146,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://openinsulin.org/
+* https://news.ycombinator.com/item?id=27853739
 https://github.com/tenacityteam/tenacity
 https://github.com/darktable-org/darktable/releases/tag/release-3.6.0
 * https://news.ycombinator.com/item?id=27720908

@@ -51,6 +51,10 @@ https://github.com/gitflow-incremental-builder/gitflow-incremental-builder
 
 https://nvie.com/posts/a-successful-git-branching-model/
 
+### Cons.
+https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html
+* https://news.ycombinator.com/item?id=27850385
+
 ## Trunk based
 https://trunkbaseddevelopment.com/
 
@@ -146,6 +150,9 @@ https://news.ycombinator.com/item?id=26479127
 https://news.ycombinator.com/item?id=26164790
 
 https://github.blog/2021-04-29-scaling-monorepo-maintenance/
+
+https://github.com/esrlabs/josh
+* https://news.ycombinator.com/item?id=27844363
 
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/

@@ -8,6 +8,9 @@ https://www.mipmip.org/tidbits/pasa.pdf Pessimal Algorithms and Simplexity Analy
 https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf Prefix Sums and Their Applications
 * https://news.ycombinator.com/item?id=27650259
 
+https://lemire.me/blog/2021/07/14/faster-sorted-array-unions-by-reducing-branches/
+* https://news.ycombinator.com/item?id=27841844
+
 # State machine
 https://barrgroup.com/embedded-systems/how-to/introduction-hierarchical-state-machines
 https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/

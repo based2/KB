@@ -29,6 +29,8 @@ https://regex-generator.olafneumann.org/
 http://rexegg.com/regex-best-trick.html
 * https://news.ycombinator.com/item?id=27774584
 
+https://github.com/hyperpape/needle java
+
 # Grep
 
 https://littlemaninmyhead.wordpress.com/2019/08/04/dont-underestimate-grep-based-code-scanning/
