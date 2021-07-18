@@ -55,6 +55,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://jaydaigle.net/blog/what-is-the-axiom-of-choice/
+* https://news.ycombinator.com/item?id=27836406
 http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
 * https://news.ycombinator.com/item?id=27724067
 https://ianopolous.peergos.me/maths/surreal

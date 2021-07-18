@@ -27,3 +27,7 @@ http://cyber.dabamos.de/88x31/
 https://groups.csail.mit.edu/ana/A%20brief%20history%20of%20the%20internet%20-%20p22-leiner.pdf
 * https://news.ycombinator.com/item?id=27719937
 
+# News
+https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet
+* https://news.ycombinator.com/item?id=27863114
+

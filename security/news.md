@@ -1,3 +1,14 @@
+https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus
+* https://news.ycombinator.com/item?id=27874027
+  * https://news.ycombinator.com/item?id=27874100
+* https://twitter.com/billmarczak/status/1416801514685796352
+  * https://news.ycombinator.com/item?id=27875976
+
+https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
+* https://news.ycombinator.com/item?id=27868487
+
+https://research.nccgroup.com/2021/07/15/cve-2021-31956-exploiting-the-windows-kernel-ntfs-with-wnf-part-1/
+
 https://www.notebookcheck.net/Lenovo-laptops-silently-stripped-of-important-feature-in-BIOS-updates.550673.0.html
 * https://news.ycombinator.com/item?id=27842517
 
@@ -8,6 +19,8 @@ https://arstechnica.com/gadgets/2021/07/solarwinds-hackers-used-an-ios-0-day-to-
 
 https://mtpsym.github.io/ im telegram
 * https://news.ycombinator.com/item?id=27854411
+  * https://www.cyberscoop.com/telegram-app-security-encryption/
+    * https://news.ycombinator.com/item?id=27866934
 
 https://blog.ryotak.me/post/cdnjs-remote-code-execution-en/
 * https://news.ycombinator.com/item?id=27853434

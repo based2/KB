@@ -43,6 +43,8 @@ https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
 * https://news.ycombinator.com/item?id=27451413
 
 # M1
+https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/
+* https://news.ycombinator.com/item?id=27874600
 https://blog.jae.fi/apple-m1-three-months-later/
 * https://lobste.rs/s/vqny0j/apple_m1_three_months_later
 https://eclecticlight.co/2021/04/22/can-you-trust-floating-point-arithmetic-on-apple-silicon/?utm_source=bengtan.com

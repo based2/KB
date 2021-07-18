@@ -15,3 +15,5 @@ https://blog.jgc.org/2010/06/elevator-button-problem.html
 
 https://jamiemill.com/blog/elements-of-product-design/
 * https://news.ycombinator.com/item?id=27843207
+
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/

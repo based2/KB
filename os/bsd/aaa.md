@@ -23,5 +23,7 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 * https://news.ycombinator.com/item?id=27191908
 
 # News
+https://undeadly.org/cgi?action=article;sid=20210717141912
+* https://news.ycombinator.com/item?id=27868741
 https://openbsdjumpstart.org/bonus/Full-OpenBSD-Startup-Described.pdf
 https://ariadne.space/2021/06/06/actually-bsd-kqueue-is-a-mountain-of-technical-debt/

@@ -10,6 +10,8 @@ https://javers.org/http://www.pixelbeat.org/programming/diffs/#mergely
 https://github.com/wilfred/difftastic
 * https://news.ycombinator.com/item?id=27768861
 
+https://github.com/afnanenayet/diffsitter
+* https://news.ycombinator.com/item?id=27875333
 
 # Git
 https://github.com/banga/git-split-diffs

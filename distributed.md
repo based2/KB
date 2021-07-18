@@ -22,3 +22,8 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/version-vector
 ## Lamport Clock
 https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
 * https://news.ycombinator.com/item?id=27628553
+
+
+# Database
+https://github.com/erikgrinaker/toydb
+* https://news.ycombinator.com/item?id=27874992

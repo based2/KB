@@ -32,6 +32,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.talhoffman.com/2021/07/18/firecracker-internals/
+https://looking-glass.io/ Windows VM on Linux
++ https://news.ycombinator.com/item?id=27870399
 https://kinvolk.io/blog/2021/04/microsoft-acquires-kinvolk/
 https://www.lastweekinaws.com/blog/the-17-ways-to-run-containers-on-aws/
 https://www.theregister.com/2021/05/19/aws_introduces_app_runner_google/

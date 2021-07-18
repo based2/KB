@@ -69,6 +69,7 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://github.com/mupuf/libwsm Wayland Security Modules
 https://www.phoronix.com/scan.php?page=news_item&px=le9-Linux-Low-RAM
 * https://news.ycombinator.com/item?id=27844116
 https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/

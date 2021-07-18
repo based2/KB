@@ -61,6 +61,9 @@ https://medium.com/geekculture/howto-running-the-1g-analog-phone-from-1997-3caec
 https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing/
 * https://news.ycombinator.com/item?id=27051670
 
+# Mesh
+https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
+* https://news.ycombinator.com/item?id=27872243
 
 # News
 https://arstechnica.com/tech-policy/2021/07/california-passes-historic-plan-for-statewide-open-access-fiber-network/

@@ -46,6 +46,11 @@ https://epilys.github.io/bibliothecula/notekeeping.html
 
 https://news.ycombinator.com/item?id=27762201 SQLite query inside a Bash function
 
+https://avi.im/blag/2021/fast-sqlite-inserts/
+* https://news.ycombinator.com/item?id=27872575
+
+https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2021-07-17-liblattutil/article.md
+
 # Dataset
 http://2016.padjo.org/tutorials/sqlite-data-starterpacks/
 * https://news.ycombinator.com/item?id=27324669

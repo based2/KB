@@ -44,6 +44,9 @@ https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
 * https://news.ycombinator.com/item?id=27682432
   *
 
+https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/
+* https://news.ycombinator.com/item?id=27865143
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 * https://news.ycombinator.com/item?id=27629016

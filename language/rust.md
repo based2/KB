@@ -181,6 +181,9 @@ https://arxiv.org/abs/2007.00752 Is Rust Used Safely by Software Developers?
 
 https://lang-team.rust-lang.org/initiatives.html
 
+https://www.eurekalert.org/pub_releases/2021-07/su-cs071521.php
+* https://news.ycombinator.com/item?id=27869717
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 * https://news.ycombinator.com/item?id=27589010

@@ -113,6 +113,8 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 
 
 # News
+https://incident.io/blog/one-two-skip-a-few Postgres sequences can skip 32 unexpectedly
+* https://news.ycombinator.com/item?id=27843084
 https://www.channable.com/tech/dbcritic-constructively-criticizing-your-postgres-schema
 * https://news.ycombinator.com/item?id=27760073
 https://supabase.io/blog/2021/07/01/roles-postgres-hooks

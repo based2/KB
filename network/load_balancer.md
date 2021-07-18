@@ -7,6 +7,9 @@ https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-pro
 
 https://news.ycombinator.com/item?id=25917988
 
+https://bparli.medium.com/adventures-in-rust-and-load-balancers-73a0bc61a192
+* https://news.ycombinator.com/item?id=27871505
+
 # K8s
 https://www.k8gb.io/
 
