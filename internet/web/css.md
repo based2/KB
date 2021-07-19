@@ -145,6 +145,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://blog.jim-nielsen.com/2021/things-i-learned-reading-webkits-ua-stylesheet/
+* https://news.ycombinator.com/item?id=27883675
 https://drafts.csswg.org/css-nesting/
 https://pustelto.com/blog/css-vs-css-in-js-perf/
 https://et-jekyll.netlify.app/

@@ -1,9 +1,26 @@
+https://github.com/robertguetzkow/ets5-password-recovery
+
+https://github.com/mvt-project/mvt
+* https://github.com/mvt-project/mvt/blob/master/LICENSE
+
+https://github.com/sh1yo/request_smuggler
+
+https://github.com/stryngs/edgedressing
+
+https://news.ycombinator.com/item?id=27881219
+
 https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abuse-of-cyber-surveillance-weapon-nso-group-pegasus
 * https://news.ycombinator.com/item?id=27874027
   * https://news.ycombinator.com/item?id=27874100
 * https://twitter.com/billmarczak/status/1416801514685796352
   * https://news.ycombinator.com/item?id=27875976
-
+  * https://www.vice.com/en/article/xgx5bw/amazon-aws-shuts-down-nso-group-infrastructure
+    * https://news.ycombinator.com/item?id=27882619
+  * https://appleinsider.com/articles/21/07/19/imessage-apple-music-used-by-pegasus-to-attack-journalist-iphones
+    * https://news.ycombinator.com/item?id=27882992
+  * https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations
+  * https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
+  
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 * https://news.ycombinator.com/item?id=27868487
 

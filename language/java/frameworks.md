@@ -16,6 +16,8 @@ https://www.toptal.com/java/spring-boot-rest-api-error-handling
 https://dzone.com/articles/How-To-Change-Certificate-Without-Downtime
 * https://www.reddit.com/r/java/comments/ob5667/changing_certificates_at_runtime_of_a_spring_boot/
 
+https://spring.io/blog/2021/07/15/state-of-spring-survey-is-back
+
 https://odrotbohm.de/2021/07/moduliths-1.1-released/
 
 # Quarkus

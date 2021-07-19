@@ -37,6 +37,10 @@ https://blogs.oracle.com/javamagazine/jakarta-application-server-helidon-piranha
 # Validation
 https://github.com/mvallim/java-fluent-validator
 
+# Scheduler
+http://www.quartz-scheduler.org/
+https://github.com/lukas-krecan/ShedLock#running-without-spring
+
 # SPI
 https://reflectoring.io/service-provider-interface/
 

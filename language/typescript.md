@@ -28,6 +28,8 @@ https://github.com/storybookjs/storybook/
 http://neugierig.org/software/blog/2018/09/typescript-at-google.html
 * https://news.ycombinator.com/item?id=27756190
 
+https://captain-yossarian.medium.com/typescript-object-oriented-typings-4fd42ce14c75
+
 # Lint
 https://www.sonarlint.org/
 https://lift.sonatype.com/

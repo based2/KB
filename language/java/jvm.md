@@ -24,3 +24,10 @@ https://inside.java/2020/06/25/compact-forwarding/
 
 # Test
 https://github.com/ota4j-team/opentest4j
+
+# Thread
+https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c
+* https://news.ycombinator.com/item?id=27883847
+
+# Hash
+https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/

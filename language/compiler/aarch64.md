@@ -11,3 +11,6 @@ https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-pla
 
 https://eclecticlight.co/2021/07/06/code-in-arm-assembly-flow-pipelines-and-performance/
 * 
+
+https://eclecticlight.co/2021/07/19/are-there-flaws-in-some-arm64-instructions/
+* https://news.ycombinator.com/item?id=27880461

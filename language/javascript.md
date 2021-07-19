@@ -72,6 +72,9 @@ https://blog.angular.io/introducing-angular-devtools-2d59ff4cf62f
 
 https://www.ngxs.io/
 
+https://javascript.plainenglish.io/angular-12-in-depth-7741e759c72?gi=22d9a899822e
+
+
 
 ## Svelt
 https://news.ycombinator.com/item?id=26557886

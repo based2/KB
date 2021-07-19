@@ -68,6 +68,9 @@ https://aws.amazon.com/fr/blogs/opensource/better-random-number-generation-for-o
 https://www.bunniestudios.com/blog/?p=6094 Upgrading Precursor’s TRNG
 * https://news.ycombinator.com/item?id=27576305
 
+https://www.bit-101.com/blog/2021/07/perlin-vs-simplex/
+* https://news.ycombinator.com/item?id=27871078
+
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 

@@ -34,3 +34,5 @@ https://blog.compiler.ai/2021/05/06/verification-is-tcbpb-reduction/
 
 https://github.com/stateright/stateright
 * https://news.ycombinator.com/item?id=27413084
+
+http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties

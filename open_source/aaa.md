@@ -134,6 +134,10 @@ https://joplinapp.org/
 https://github.com/fmeringdal/nettu-meet Dashboard
 * https://news.ycombinator.com/item?id=27434254
 
+https://livekit.io/
+* https://news.ycombinator.com/item?id=27882059
+ * https://github.com/pion/ion-sfu
+
 https://fosscord.com/ alpha
 * https://news.ycombinator.com/item?id=27720391
 
