@@ -69,6 +69,8 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://lwn.net/Articles/863459/ A GPIO driver in Rust
+* https://news.ycombinator.com/item?id=27886458
 https://lore.kernel.org/lkml/CAHk-=whfeq9gyPWK3yao6cCj7LKeU3vQEDGJ3rKDdcaPNVMQzQ@mail.gmail.com/
 * https://news.ycombinator.com/item?id=27880657
 https://www.cnx-software.com/2021/07/18/linux-5-0-esp32-processor/

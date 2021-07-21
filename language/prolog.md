@@ -3,3 +3,6 @@ https://www.coursera.org/projects/prolog-for-beginners-fhqrd
 
 https://drops.dagstuhl.de/opus/volltexte/2018/8453/
 * https://news.ycombinator.com/item?id=26913859
+
+http://dstrohmaier.com/sudoku-prolog/
+* https://news.ycombinator.com/item?id=27886733

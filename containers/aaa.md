@@ -32,6 +32,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://ably.com/blog/no-we-dont-use-kubernetes
+* https://news.ycombinator.com/item?id=27893482
 https://www.talhoffman.com/2021/07/18/firecracker-internals/
 https://looking-glass.io/ Windows VM on Linux
 + https://news.ycombinator.com/item?id=27870399

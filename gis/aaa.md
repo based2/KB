@@ -116,6 +116,9 @@ https://arstechnica.com/gadgets/2020/03/why-are-u-2-jet-pilots-wearing-garmin-sa
 
 https://www.redhat.com/architect/architects-guide-gps-and-gps-data-formats
 
+https://barbeau.medium.com/measuring-gnss-accuracy-on-android-devices-6824492a1389
+* https://news.ycombinator.com/item?id=27880452
+
 # Sphere
 https://en.wikipedia.org/wiki/Peirce_quincuncial_projection
 * https://news.ycombinator.com/item?id=27697756

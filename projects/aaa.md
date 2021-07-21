@@ -54,6 +54,9 @@ https://earthly.dev/blog/thought-leaders/
 https://jacobian.org/2021/may/20/estimation/
 * https://news.ycombinator.com/item?id=27687265
 
+https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html
+* https://news.ycombinator.com/item?id=27906886
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

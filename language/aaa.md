@@ -110,6 +110,9 @@ http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
 
 # News
+https://buttondown.email/hillelwayne/archive/i-ing-hate-science/
+* https://news.ycombinator.com/item?id=27892615
+https://news.ycombinator.com/item?id=27883047 julia
 https://jackson.sh/posts/2021-04-java-underrated/
 * https://www.reddit.com/r/java/comments/ofzsoh/java_is_criminally_underhyped/
 

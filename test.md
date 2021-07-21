@@ -11,6 +11,10 @@ https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/
 https://github.com/apideck-libraries/portman
 * https://news.ycombinator.com/item?id=27845768
 
+#
+https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda
+* https://news.ycombinator.com/item?id=27897291
+
 # Load testing
 https://slack.engineering/load-testing-with-koi-pond/
 * https://news.ycombinator.com/item?id=27458909

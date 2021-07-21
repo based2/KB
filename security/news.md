@@ -1,3 +1,12 @@
+https://therecord.media/windows-hello-bypassed-using-infrared-image/
+* https://news.ycombinator.com/item?id=27879662
+
+https://krebsonsecurity.com/2021/07/dont-wanna-pay-ransom-gangs-test-your-backups/
+* https://news.ycombinator.com/item?id=27887329
+
+https://www.openwall.com/lists/oss-security/2021/07/20/1
+* https://news.ycombinator.com/item?id=27893181
+
 https://github.com/robertguetzkow/ets5-password-recovery
 
 https://github.com/mvt-project/mvt
@@ -20,6 +29,12 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
     * https://news.ycombinator.com/item?id=27882992
   * https://www.theguardian.com/news/2021/jul/19/edward-snowden-calls-spyware-trade-ban-pegasus-revelations
   * https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
+    * https://www.nsogroup.com/Newses/enough-is-enough/
+      * https://news.ycombinator.com/item?id=27909209
+    * https://www.theguardian.com/news/2021/jul/21/telegram-founder-pavel-durov-listed-spyware-targets-nso-leak-pegasus
+      * https://news.ycombinator.com/item?id=27906667
+    * https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html
+      * https://news.ycombinator.com/item?id=27902544
   
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 * https://news.ycombinator.com/item?id=27868487

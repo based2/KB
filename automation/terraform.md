@@ -11,3 +11,5 @@ https://hyperscience.com/tech-blog/running-scheduled-jobs-in-aws/
 
 https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html
 * https://news.ycombinator.com/item?id=27776829
+
+https://news.ycombinator.com/item?id=27905922

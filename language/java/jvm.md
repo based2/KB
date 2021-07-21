@@ -31,3 +31,4 @@ https://gist.github.com/djspiewak/46b543800958cf61af6efa8e072bfd5c
 
 # Hash
 https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/
+* https://news.ycombinator.com/item?id=27880357

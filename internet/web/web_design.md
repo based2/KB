@@ -12,6 +12,9 @@ https://alistapart.com/article/the-illusion-of-control-in-web-design/
 https://penpot.app/?source=korben.info
 * https://github.com/penpot/penpot?source=korben.info
 
+https://www.nngroup.com/articles/marginalia-of-web-design/
+* https://news.ycombinator.com/item?id=27891669
+
 # Forms
 https://www.the-art-of-web.com/html/html5-form-validation/
 
@@ -59,3 +62,8 @@ https://storybook.js.org/blog/how-to-actually-test-uis/
 
 https://cantunsee.space/
 * https://news.ycombinator.com/item?id=27188989
+
+
+# News
+https://straw.page/start
+* https://news.ycombinator.com/item?id=27904656

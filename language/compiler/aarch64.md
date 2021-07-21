@@ -14,3 +14,6 @@ https://eclecticlight.co/2021/07/06/code-in-arm-assembly-flow-pipelines-and-perf
 
 https://eclecticlight.co/2021/07/19/are-there-flaws-in-some-arm64-instructions/
 * https://news.ycombinator.com/item?id=27880461
+
+https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html
+* https://news.ycombinator.com/item?id=27898187

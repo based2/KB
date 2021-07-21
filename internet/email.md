@@ -34,6 +34,9 @@ https://blog.filippo.io/the-sad-state-of-smtp-encryption/ 2015
 https://autocrypt.org/
 * https://news.ycombinator.com/item?id=16088036
 
+https://www.praetorian.com/blog/email-security/
+* https://www.reddit.com/r/netsec/comments/ok2hl7/email_security_spf_dkim_and_dmarc/
+
 ## STARTTLS
 https://sendgrid.com/blog/what-is-starttls/
 

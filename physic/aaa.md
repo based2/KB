@@ -25,3 +25,8 @@ https://www.wired.com/story/researchers-levitated-a-small-tray-using-nothing-but
 https://www.quantamagazine.org/how-blue-animals-color-themselves-with-nanostructures-20210616/
 
 https://github.com/ECSIM/opem#overview Modeling and simulation of proton-exchange membrane fuel cells
+
+https://phys.org/news/2021-07-microbially-fibers-stronger-steel-tougher.html
+* https://news.ycombinator.com/item?id=27904479
+
+https://en.wikipedia.org/wiki/Muon-catalyzed_fusion

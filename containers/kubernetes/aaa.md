@@ -48,6 +48,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 * https://news.ycombinator.com/item?id=26951940
 
 # News
+http://www.oilshell.org/blog/2021/07/blog-backlog-2.html
+* https://news.ycombinator.com/item?id=27903720
 https://juju.is/cloud-native-kubernetes-usage-report-2021
 https://medium.com/pinterest-engineering/scaling-kubernetes-with-assurance-at-pinterest-a23f821168da
 https://www.theregister.com/2021/06/29/kubernetes_spend_report/

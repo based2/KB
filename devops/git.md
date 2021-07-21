@@ -154,6 +154,9 @@ https://github.blog/2021-04-29-scaling-monorepo-maintenance/
 https://github.com/esrlabs/josh
 * https://news.ycombinator.com/item?id=27844363
 
+https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/
+*https://news.ycombinator.com/item?id=27903282
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 

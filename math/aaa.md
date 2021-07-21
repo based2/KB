@@ -55,6 +55,10 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+http://www.catb.org/~esr/writings/utility-of-math/
+* https://news.ycombinator.com/item?id=27879984
+https://news.ycombinator.com/item?id=27896817
+
 https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf
 * https://news.ycombinator.com/item?id=27884973
 https://jaydaigle.net/blog/what-is-the-axiom-of-choice/

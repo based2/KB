@@ -80,6 +80,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://www.barebones.com/products/bbedit/bbedit14.html
+*https://news.ycombinator.com/item?id=27905644
 https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/
 * https://news.ycombinator.com/item?id=27707770
 https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/

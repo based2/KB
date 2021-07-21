@@ -22,6 +22,10 @@ https://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/
 https://github.com/vuejs/petite-vue
 * https://news.ycombinator.com/item?id=27719290
 
+
+https://www.naiveui.com/en-US/os-theme
+* https://news.ycombinator.com/item?id=27903639
+
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 
@@ -199,6 +203,10 @@ https://github.com/easafe/purescript-flame
 # Dynamic.js libjs
 
 # News
+https://nodered.org/blog/2021/07/20/version-2-0-released
+* https://news.ycombinator.com/item?id=27892226
+https://editor.sunflower.industries/?loadExample=basicExample
+* https://news.ycombinator.com/item?id=27900992
 https://fjolt.com/article/javascript-new-file-system-api
 https://jakearchibald.com/2021/last-return-wins/
 * https://news.ycombinator.com/item?id=27721432
