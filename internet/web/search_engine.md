@@ -45,6 +45,8 @@ https://deephn.org/
 https://arxiv.org/abs/2105.14134 Netflix
 
 # News
+https://searchengineland.com/google-now-shows-why-it-ranked-a-specific-search-result-350659
+* https://news.ycombinator.com/item?id=27928200
 https://reclaimthenet.org/google-starts-adding-no-reliable-sources-tag-to-some-search-engine-results/
 https://casparwre.de/blog/seo-scam/
 * https://news.ycombinator.com/item?id=27427330

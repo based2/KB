@@ -144,6 +144,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://epicpython.com/
+* https://news.ycombinator.com/item?id=27931195
 https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html#gs.6zmlr0
 * https://news.ycombinator.com/item?id=27902969
 https://dev.to/martinheinz/functools-the-power-of-higher-order-functions-in-python-3dg0

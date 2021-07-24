@@ -16,6 +16,8 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://b10c.me/blog/007-spending-p2tr-pre-activation/ segwit
+* https://news.ycombinator.com/item?id=27933494
 https://www.bbc.com/news/technology-57901113
 * https://news.ycombinator.com/item?id=27897314
 https://www.nbcnews.com/science/environment/some-locals-say-bitcoin-mining-operation-ruining-one-finger-lakes-n1272938

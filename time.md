@@ -64,6 +64,9 @@ http://messymatters.com/tagtime/
 * https://github.com/tagtime/TagTime
 
 # Clock
+https://www.world-archaeology.com/features/the-antikythera-mechanism/
+* https://news.ycombinator.com/item?id=27934684
+
 https://en.wikipedia.org/wiki/Corpus_Clock
 * https://news.ycombinator.com/item?id=27370030
 

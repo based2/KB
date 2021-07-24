@@ -53,6 +53,8 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/excel.pdf
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 * https://news.ycombinator.com/item?id=26991887
 
+https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation
+
 ## Find file
        where /r .\ file_to_find.md
 
@@ -61,6 +63,12 @@ https://devblogs.microsoft.com/commandline/wslg-architecture/
 https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10
 
 # News
+https://www.arch13.com/ms-windows-defender-decss/
+* https://news.ycombinator.com/item?id=27914752
+https://devblogs.microsoft.com/oldnewthing/20210720-41/?p=105457
+*
+https://winaero.com/microsoft-confirms-taskbar-in-windows-11-no-longer-supports-drag-and-drop/
+* https://news.ycombinator.com/item?id=27923562
 https://www.pcworld.com/article/3623830/only-windows-11-pro-will-let-you-install-windows-11-with-a-local-account.html
 * https://news.ycombinator.com/item?id=27720588
 https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/

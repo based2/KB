@@ -69,6 +69,9 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://pointieststick.com/2021/07/23/this-week-in-kde-power-profiles-and-a-more-polished-kickoff/
+https://lwn.net/Articles/862018/ Rust for Linux redux
+* https://news.ycombinator.com/item?id=27939498
 https://lwn.net/Articles/863459/ A GPIO driver in Rust
 * https://news.ycombinator.com/item?id=27886458
 https://lore.kernel.org/lkml/CAHk-=whfeq9gyPWK3yao6cCj7LKeU3vQEDGJ3rKDdcaPNVMQzQ@mail.gmail.com/

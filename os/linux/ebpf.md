@@ -32,3 +32,5 @@ https://confused.ai/posts/announcing-aya rust
 
 https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
 * https://news.ycombinator.com/item?id=27722947
+
+https://nigeltao.github.io/blog/2021/custom-ebpf-helpers.html

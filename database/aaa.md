@@ -41,3 +41,9 @@ https://samsaffron.com/archive/2018/03/22/managing-db-schema-changes-without-dow
 # OLAP
 https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 * https://news.ycombinator.com/item?id=27736713
+
+# News
+https://timharford.com/2021/07/the-tyranny-of-spreadsheets/
+* https://news.ycombinator.com/item?id=27923998
+https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/
+* https://news.ycombinator.com/item?id=27922097 modicum

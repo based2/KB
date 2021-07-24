@@ -25,3 +25,8 @@ https://blog.joren.ga/programming/vla-bad
 
 https://gopiandcode.uk/logs/log-certified-synthesis.html
 * https://news.ycombinator.com/item?id=27743740
+
+https://github.com/graphitemaster/fpinspect
+
+https://arxiv.org/abs/2107.10533 CGuard: Efficient Spatial Safety for C
+* https://news.ycombinator.com/item?id=27932779

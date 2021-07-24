@@ -80,6 +80,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+http://blog.ret2.io/2021/07/21/wtf-snapshot-fuzzing/
+* https://news.ycombinator.com/item?id=27914379
+https://9to5mac.com/2021/07/23/exclusive-apple-testing-new-external-display-with-a-dedicated-a13-chip-and-neural-engine/
 https://www.barebones.com/products/bbedit/bbedit14.html
 *https://news.ycombinator.com/item?id=27905644
 https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/

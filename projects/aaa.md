@@ -63,6 +63,9 @@ https://jacobian.org/2021/jan/30/soccr/
 https://truemped.github.io/posts/mgmt/limiting-wip/
 * https://news.ycombinator.com/item?id=26759903
 
+https://web.stanford.edu/~ouster/cgi-bin/decisions.php
+* https://news.ycombinator.com/item?id=27937815
+
 # Analysis
 https://xyproblem.info/
 * https://news.ycombinator.com/item?id=27061704
@@ -94,6 +97,8 @@ https://fortelabs.co/blog/mise-en-place-for-knowledge-workers/
 
 https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45
 * https://news.ycombinator.com/item?id=27771219
+
+https://dominikbraun.io/blog/5-properties-of-a-healthy-software-project/
 
 # Musics for programming
 https://www.musicforprogramming.net/

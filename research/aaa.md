@@ -22,6 +22,9 @@ https://scite.ai/
 https://adamashwal.com/fruit
 * https://news.ycombinator.com/item?id=27507675
 
+https://birdnet.cornell.edu/
+* https://news.ycombinator.com/item?id=27929150
+
 # Meta
 https://en.wikipedia.org/wiki/TRIZ
 

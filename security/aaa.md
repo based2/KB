@@ -92,6 +92,10 @@ https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html
 # differential privacy
 https://desfontain.es/privacy/more-useful-results-dp.html
 
+#
+https://trevorklee.com/how-to-spot-a-good-fake-id/
+* https://news.ycombinator.com/item?id=27925327
+
 # Book
 https://people.scs.carleton.ca/~paulv/toolsjewels.html
 

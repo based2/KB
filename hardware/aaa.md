@@ -21,6 +21,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 * https://news.ycombinator.com/item?id=27507723
 
 # News
+https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews
+* https://news.ycombinator.com/item?id=27926425
 https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/
 * https://news.ycombinator.com/item?id=27695661
 

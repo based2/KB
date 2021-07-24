@@ -31,7 +31,8 @@ https://engineering.opsgenie.com/advanced-kubernetes-objects-53f5e9bc0c28
 https://zitadel.ch/blog/treat-clusters-as-cattle/
 * https://news.ycombinator.com/item?id=27688203
 
-
+https://microk8s.io/
+* https://news.ycombinator.com/item?id=27916178
 
 # Infra
 https://google.github.io/kctf/

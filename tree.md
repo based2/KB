@@ -10,6 +10,8 @@ https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyr
 * https://news.ycombinator.com/item?id=27903576
 
 # Real tree
+https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/
+* https://news.ycombinator.com/item?id=27934824
 https://blog.opencagedata.com/post/opentrees
 * https://github.com/stevage/opentrees
 * https://news.ycombinator.com/item?id=27626467

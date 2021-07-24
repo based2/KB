@@ -150,6 +150,10 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.btw.so/open-source-alternatives
+* https://news.ycombinator.com/item?id=27915370
+https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/
+*
 https://sourceware.org/pipermail/binutils/2021-July/117384.html
 * https://news.ycombinator.com/item?id=27875405
 https://openinsulin.org/

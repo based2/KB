@@ -48,6 +48,9 @@ https://en.wikipedia.org/wiki/Azure_Sphere
 https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 
 # News
+https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html
+* https://news.ycombinator.com/item?id=27938765
+https://www.techrepublic.com/article/microsoft-linux-is-not-what-you-think-or-hoped-it-would-be/
 https://lists.debian.org/debian-devel-announce/2021/07/msg00002.html
 https://alien.slackbook.org/blog/kernel-5-13-went-into-slackware-current-new-live-isos-to-celebrate/
 https://www.jeremymorgan.com/blog/linux/pop-os-21-04-first-impressions/

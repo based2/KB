@@ -13,3 +13,7 @@ https://itnext.io/direct-i-o-writes-the-best-way-to-improve-your-credit-score-bd
 # NAS
 https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 * https://news.ycombinator.com/item?id=27460885
+
+# News
+https://sourceforge.net/p/squashfs/mailman/message/37324506/
+* https://news.ycombinator.com/item?id=27929360

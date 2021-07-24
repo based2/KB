@@ -59,6 +59,10 @@ https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
 # Summary
 https://github.com/gregdurrett/berkeley-doc-summarizer
 * https://news.ycombinator.com/item?id=27637902
+
+# Editor
+https://twitter.com/dm_0ney/status/1414742742530498566
+* https://news.ycombinator.com/item?id=27926758
   
 #
 http://transcultura.org/?q=node%2F8

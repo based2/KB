@@ -21,3 +21,10 @@ https://ef.gy/fsm-recursive-sql
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 * https://news.ycombinator.com/item?id=27745184
 
+#
+http://pvk.ca/Blog/LowLevel/software-reciprocal.html 0x7FDE623822FC16E6: A magic constant for double float reciprocal (2011)
+* https://news.ycombinator.com/item?id=27905105
+
+http://algorithmicbotany.org/virtual_laboratory/
+* https://news.ycombinator.com/item?id=27917432
+

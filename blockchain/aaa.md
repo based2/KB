@@ -38,6 +38,8 @@ https://zkp.science/
 * https://news.ycombinator.com/item?id=27573910
 
 # News
+https://protos.com/griffith-virgil-coinbase-account-ethereum-jail-north-korea-arrest/
+* https://news.ycombinator.com/item?id=27928094
 https://xtz.news/latest-tezos-news/e-voting-solution-electis-app-built-on-tezos-adopted-by-students-from-more-than-80-global-universities-including-kings-college-london/
 * https://en.wikipedia.org/wiki/Tezos OCaml
 https://wildland.io/

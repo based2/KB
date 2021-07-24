@@ -8,3 +8,6 @@ https://emilyriederer.netlify.app/post/column-name-contracts/
 
 https://kevlinhenney.medium.com/exceptional-naming-6e3c8f5bffac
 * 
+
+https://stepan.wtf/cloud-naming-convention/
+* https://news.ycombinator.com/item?id=27938390

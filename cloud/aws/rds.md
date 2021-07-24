@@ -1,0 +1,1 @@
+https://www.revenuecat.com/blog/replicating-a-postgresql-cluster-to-redshift

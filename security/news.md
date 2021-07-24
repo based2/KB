@@ -1,3 +1,28 @@
+https://github.com/quentinhardy/odat
+
+https://redhuntlabs.com/blog/top-organizations-on-github-vulnerable-to-dependency-confusion-attack.html
+
+https://sec-consult.com/blog/detail/forgot-password-taking-over-user-accounts-kaminsky-style/
+
+https://www.bleepingcomputer.com/news/microsoft/new-petitpotam-attack-allows-take-over-of-windows-domains/
+
+https://www.bleepingcomputer.com/news/security/google-patches-8th-chrome-zero-day-exploited-in-the-wild-this-year/
+
+https://blog.cloudflare.com/cloudflares-handling-of-an-rce-vulnerability-in-cdnjs/
+
+https://twitter.com/mruef/status/1418693478574346242
+* https://news.ycombinator.com/item?id=27939815
+  * https://zerforschung.org/posts/clubhouse-telefonnummern-en/
+
+https://doublepulsar.com/hivenightmare-aka-serioussam-anybody-can-read-the-registry-in-windows-10-7a871c465fa5
+* https://news.ycombinator.com/item?id=27939728
+
+https://support.apple.com/en-us/HT212601
+
+https://labs.sentinelone.com/cve-2021-3438-16-years-in-hiding-millions-of-printers-worldwide-vulnerable/
+
+https://blog.qualys.com/vulnerabilities-threat-research/2021/07/20/cve-2021-33910-denial-of-service-stack-exhaustion-in-systemd-pid-1
+
 https://therecord.media/windows-hello-bypassed-using-infrared-image/
 * https://news.ycombinator.com/item?id=27879662
 
@@ -35,6 +60,7 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
       * https://news.ycombinator.com/item?id=27906667
     * https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html
       * https://news.ycombinator.com/item?id=27902544
+  * https://github.com/mvt-project/mvt
   
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 * https://news.ycombinator.com/item?id=27868487

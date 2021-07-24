@@ -7,3 +7,7 @@ https://techxplore.com/news/2021-07-insect-sized-robot-mazes-agility-cheetah.htm
 https://www.youtube.com/watch?v=ssZ_8cqfBlE How many robots does it take to run a grocery store? ocado
 
 https://foxglove.dev/
+
+# News
+https://blog.x.company/introducing-intrinsic-1cf35b87651
+* https://news.ycombinator.com/item?id=27931562

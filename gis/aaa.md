@@ -50,6 +50,9 @@ https://labs.os.uk/public/os-data-hub-tutorials/web-development/automated-open-d
 
 http://app.dumpark.com/sunlight/learn.html
 
+https://www.trekview.org/blog/2021/getting-started-with-kartaview/
+*
+
 ## Space
 https://mars26.com/
 * https://news.ycombinator.com/item?id=26965583
@@ -129,6 +132,7 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
 # News
+https://osmand.net/blog/osmand-ios-4-0-released
 https://arxiv.org/abs/2107.01002 WiCluster: Passive Indoor 2D/3D Positioning using WiFi without Precise Labels
 https://news.ycombinator.com/item?id=26918259
 * https://protomaps.com/blog/new-way-to-make-maps/

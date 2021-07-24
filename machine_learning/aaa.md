@@ -215,6 +215,8 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+https://www.stochasticlifestyle.com/useful-algorithms-that-are-not-optimized-by-jax-pytorch-or-tensorflow/
+* https://news.ycombinator.com/item?id=27904729
 https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/
 * https://news.ycombinator.com/item?id=27891532
 https://www.heise.de/news/Machine-Learning-spaCy-3-1-gibt-Vorhersagen-in-der-Pipeline-weiter-6131762.html

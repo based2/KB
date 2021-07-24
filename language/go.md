@@ -54,6 +54,10 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://boyter.org/posts/interesting-go-memory-issue/
+https://blog.edgeless.systems/how-we-built-ego-c02220360503
+https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/
+* https://news.ycombinator.com/item?id=27928464
 https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
 * https://news.ycombinator.com/item?id=27630625
 https://golang.org/pkg/net/url/#URL

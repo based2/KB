@@ -84,6 +84,8 @@ https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternative
 * https://news.ycombinator.com/item?id=27630397
 
 # News
+https://stackoverflow.blog/2021/07/19/privacy-is-an-afterthought-in-the-software-lifecycle-that-needs-to-change/
+* https://news.ycombinator.com/item?id=27929233
 https://www.theregister.com/2021/07/15/privacy_costs_money/
 * https://www.theregister.com/2021/07/15/privacy_costs_money/
 https://www.sixthtone.com/news/1007915/tencent-deploys-facial-recognition-to-detect-minors-gaming-at-night-

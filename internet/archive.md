@@ -30,7 +30,12 @@ https://groups.csail.mit.edu/ana/A%20brief%20history%20of%20the%20internet%20-%2
 https://joshelman.medium.com/the-history-of-the-dot-com-era-c370828ea32a
 * https://news.ycombinator.com/item?id=27879843
 
+https://thehistoryoftheweb.com/timeline/?date_from=1989&date_to=1994
+* https://news.ycombinator.com/item?id=27928020
+
 # News
+https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/
+* https://news.ycombinator.com/item?id=27914848
 https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet
 * https://news.ycombinator.com/item?id=27863114
 

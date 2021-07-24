@@ -99,3 +99,7 @@ https://remaketheweb.com/
 # Parser
 https://htmlparser.info/
 * https://news.ycombinator.com/item?id=27311627
+
+https://bien.ee/a-contenteditable-pasted-garbage-and-caret-placement-walk-into-a-pub/
+* https://news.ycombinator.com/item?id=27924970
+

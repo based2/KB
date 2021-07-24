@@ -7,3 +7,6 @@ https://www.rvalles.net/bootstrapping-an-amiga-without-a-bootable-amiga-floppy.h
 
 https://www.hyperion-entertainment.com/
 * https://news.ycombinator.com/item?id=27158277
+
+https://github.com/jasonsbeer/Amiga-2000-ATX
+* https://news.ycombinator.com/item?id=27939525

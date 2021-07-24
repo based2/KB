@@ -47,6 +47,9 @@ https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
 https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/
 * https://news.ycombinator.com/item?id=27865143
 
+https://functional.works-hub.com/learn/elixir-practical-concurrency-3794f
+* https://news.ycombinator.com/item?id=27938693
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 * https://news.ycombinator.com/item?id=27629016

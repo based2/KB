@@ -22,6 +22,11 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://www.theregister.com/2021/07/23/exoplanet_ring_telescope/
+* https://news.ycombinator.com/item?id=27930778
+ * https://www.eso.org/public/archives/releases/sciencepapers/eso2111/eso2111a.pdf
+https://projects.iq.harvard.edu/galileo/activities
+* https://news.ycombinator.com/item?id=27939254
 https://news.ti.com/blog/2021/06/24/developing-first-ics-to-orbit-earth
 * https://news.ycombinator.com/item?id=27842767
 https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/

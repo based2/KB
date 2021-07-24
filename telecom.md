@@ -24,6 +24,9 @@ https://berthub.eu/articles/posts/5g-elephant-in-the-room/
 * https://news.ycombinator.com/item?id=26843068
 
 https://research.checkpoint.com/2021/security-probe-of-qualcomm-msm/
+
+https://podcastgameconsultant.com/gaming-news/5g-smartphones-2021/
+* https://news.ycombinator.com/item?id=27928571
    
 # Interference
 
@@ -66,6 +69,8 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 * https://news.ycombinator.com/item?id=27872243
 
 # News
+https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months
+* https://news.ycombinator.com/item?id=27919015
 https://arstechnica.com/tech-policy/2021/07/california-passes-historic-plan-for-statewide-open-access-fiber-network/
 * https://news.ycombinator.com/item?id=27860176
 https://arstechnica.com/gadgets/2021/07/oneplus-admits-to-throttling-phones-after-launch-to-improve-battery-life/

@@ -203,6 +203,8 @@ https://github.com/easafe/purescript-flame
 # Dynamic.js libjs
 
 # News
+https://developers.google.com/blockly
+* https://news.ycombinator.com/item?id=27928772
 https://nodered.org/blog/2021/07/20/version-2-0-released
 * https://news.ycombinator.com/item?id=27892226
 https://editor.sunflower.industries/?loadExample=basicExample

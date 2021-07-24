@@ -18,6 +18,9 @@ https://developers.redhat.com/articles/2021/06/23/how-jit-compiler-boosts-java-p
 https://inside.java/2021/05/10/networking-io-with-virtual-threads/
 * https://news.ycombinator.com/item?id=27744826
 
+https://shipilev.net/jvm/anatomy-quarks/30-conditional-moves/
+* https://www.reddit.com/r/java/comments/opydg2/jvm_anatomy_quark_30_conditional_moves/
+
 # GC
 https://inside.java/2020/06/25/compact-forwarding/
 * https://news.ycombinator.com/item?id=23700451

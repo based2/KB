@@ -33,3 +33,10 @@ https://factorio.com/blog/post/fff-366
 # A/B
 https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests-60ce8f93fa15
 * https://news.ycombinator.com/item?id=27642296
+
+#
+https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
+* https://news.ycombinator.com/item?id=27923631
+
+# Distributed
+https://github.com/tylertreat/comcast

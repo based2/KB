@@ -23,6 +23,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 * https://news.ycombinator.com/item?id=27191908
 
 # News
+https://cgit.freebsd.org/src/commit/?id=a40cf4175c90142442d0c6515f6c83956336699b
+* https://news.ycombinator.com/item?id=27917230
 https://jcs.org/2021/07/19/desktop
 *
 https://undeadly.org/cgi?action=article;sid=20210717141912

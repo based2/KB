@@ -27,3 +27,10 @@ https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-proc
 * https://news.ycombinator.com/item?id=27737718
 
 https://www.cnx-software.com/2021/07/19/warp-v-a-risc-v-cpu-core-generator-supporting-mips-isa/
+
+https://github.com/lekkit/rvvm
+* https://news.ycombinator.com/item?id=27918744
+
+# News
+https://www.notebookcheck.net/Computer-scientist-showcases-world-s-first-RISC-V-based-Linux-PC-coupled-with-an-AMD-RX-6700-XT-GPU.552002.0.html
+* 
