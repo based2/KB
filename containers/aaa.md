@@ -32,6 +32,7 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.vagrantup.com/docs/providers/vmware/faq#q-do-i-need-a-license-for-the-vagrant-vmware-plugin
 https://github.com/flouthoc/wiser
 * https://news.ycombinator.com/item?id=27917522
 https://ably.com/blog/no-we-dont-use-kubernetes

@@ -132,6 +132,8 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
 # News
+https://github.com/DHI-GRAS/terracotta
+* https://news.ycombinator.com/item?id=27955790
 https://osmand.net/blog/osmand-ios-4-0-released
 https://arxiv.org/abs/2107.01002 WiCluster: Passive Indoor 2D/3D Positioning using WiFi without Precise Labels
 https://news.ycombinator.com/item?id=26918259

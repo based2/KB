@@ -11,11 +11,18 @@ https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf Prefix Sums and Their Applications
 https://lemire.me/blog/2021/07/14/faster-sorted-array-unions-by-reducing-branches/
 * https://news.ycombinator.com/item?id=27841844
 
+https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/math/binary-floating-point
+* https://news.ycombinator.com/item?id=27939495
+
 # State machine
 https://barrgroup.com/embedded-systems/how-to/introduction-hierarchical-state-machines
 https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/
 https://github.com/michelp/pgfsm
 https://ef.gy/fsm-recursive-sql
+
+# Sort
+https://github.com/scandum/fluxsort
+* https://news.ycombinator.com/item?id=27948535
 
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html

@@ -7,3 +7,6 @@ https://www.bbc.com/news/science-environment-57512229
 
 https://www.eetimes.com/helion-energy-achieves-key-fusion-milestone/
 * https://news.ycombinator.com/item?id=27915833
+
+https://asiatimes.com/2020/04/hydrogen-boron-fusion-could-be-a-dream-come-true/
+* https://news.ycombinator.com/item?id=27955219

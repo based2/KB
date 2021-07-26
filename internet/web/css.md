@@ -145,6 +145,10 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://engineering.kablamo.com.au/posts/2021/my-first-css
+* https://news.ycombinator.com/item?id=27955576
+https://3fx.ch/blog/2021/07/25/css-avoid-horizontal-scrolling/
+* https://lobste.rs/s/rsj8wg/css_avoid_horizontal_scrolling
 https://blog.jim-nielsen.com/2021/things-i-learned-reading-webkits-ua-stylesheet/
 * https://news.ycombinator.com/item?id=27883675
 https://drafts.csswg.org/css-nesting/

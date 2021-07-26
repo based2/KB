@@ -14,6 +14,8 @@ https://users.rust-lang.org/t/exploring-rustffts-simd-architecture/53780
 https://cheats.rs/
 * https://news.ycombinator.com/item?id=26930908
 
+https://dev.to/cthutu/rust-5-naming-conventions-3cjf
+
 https://blog.waleedkhan.name/rust-modules-for-python-users/
 
 https://willcrichton.net/notes/gats-are-hofs/
@@ -84,6 +86,9 @@ https://blogs.harvard.edu/kapolos/rust-from-a-javascript-perspective/
 
 https://github.com/rustviz/rustviz
 * https://news.ycombinator.com/item?id=27741963
+
+https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep
+* https://news.ycombinator.com/item?id=27956313
 
 # Async
 https://tokio.rs/

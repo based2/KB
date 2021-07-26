@@ -7,5 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.rechargenews.com/energy-transition/worlds-cheapest-energy-storage-will-be-an-iron-air-battery-says-jeff-bezos-backed-start-up/2-1-1044174
+* https://news.ycombinator.com/item?id=27944600
+  
 https://pv-magazine-usa.com/2021/07/15/california-breaks-1-gw-energy-storage-milestone-and-looks-to-a-future-1-21-gw-moment/
 * 
+* https://pv-magazine-usa.com/2021/07/23/multi-day-iron-air-batteries-reach-commercialization-at-one-tenth-of-the-cost-of-lithium/

@@ -65,6 +65,7 @@ https://cvw.cac.cornell.edu/vector/default
 * https://news.ycombinator.com/item?id=27900592
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Loongson-3A5000-Benchmark LoongArch ISA
 https://www.i-programmer.info/news/99-professional/14539-acm-breakthrough-award-for-jit-compilation.html
 https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html
 * https://news.ycombinator.com/item?id=26955474

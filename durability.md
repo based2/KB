@@ -19,5 +19,6 @@ https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alter
 * https://news.ycombinator.com/item?id=27614580
 
 # News
+https://pedestrianobservations.com/2021/07/23/the-leakage-problem/
 https://anaellebeignon.fr/design-for-obsolete-devices.html
 * https://news.ycombinator.com/item?id=27927339

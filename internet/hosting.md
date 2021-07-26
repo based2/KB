@@ -5,3 +5,6 @@ https://www.markozivanovic.com/screw-it-ill-host-it-myself/
 * https://news.ycombinator.com/item?id=26725185
 
 https://freedombox.org/
+
+https://dataswamp.org/~solene/2021-07-23-why-selfhosting-is-important.html
+* https://news.ycombinator.com/item?id=27939039

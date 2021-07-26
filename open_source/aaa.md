@@ -82,6 +82,10 @@ https://notepad-plus-plus.org/
 https://www.phoronix.com/scan.php?page=news_item&px=OBS-Studio-Wayland-Ready
 * https://news.ycombinator.com/item?id=26645312
 
+https://ampache.org/
+* https://news.ycombinator.com/item?id=27952725
+  * https://github.com/epoupon/lms
+
 ## System
 https://www.7-zip.org/download.html
 https://www.cgsecurity.org/wiki/PhotoRec

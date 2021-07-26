@@ -14,3 +14,6 @@ https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html
 https://lwn.net/Articles/414618/ Ghosts of Unix past, part 3: Unfixable designs
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704965 Evolution of the Unix System Architecture:An Exploratory Case Study
+
+https://simonwillison.net/2021/Jul/13/unix-domain-sockets/
+* https://news.ycombinator.com/item?id=27941108

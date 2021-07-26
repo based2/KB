@@ -18,7 +18,11 @@ https://dzone.com/articles/How-To-Change-Certificate-Without-Downtime
 
 https://spring.io/blog/2021/07/15/state-of-spring-survey-is-back
 
+https://www.reddit.com/r/java/comments/orapzz/adding_headers_to_every_spring_boot_response/
+
 https://odrotbohm.de/2021/07/moduliths-1.1-released/
+
+
 
 # Quarkus
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/

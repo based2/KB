@@ -49,6 +49,9 @@ https://news.ycombinator.com/item?id=27762201 SQLite query inside a Bash functio
 https://avi.im/blag/2021/fast-sqlite-inserts/
 * https://news.ycombinator.com/item?id=27872575
 
+https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html
+* https://news.ycombinator.com/item?id=27944065
+
 https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2021-07-17-liblattutil/article.md
 
 # Dataset

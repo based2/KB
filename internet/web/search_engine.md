@@ -14,6 +14,9 @@ https://www.gwern.net/Search
 
 * https://github.com/searx/searx
 
+https://github.com/amirgamil/apollo
+* https://news.ycombinator.com/item?id=27961185
+
 # Dev
 https://news.ycombinator.com/item?id=26582109
 

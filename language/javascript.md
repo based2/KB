@@ -66,6 +66,9 @@ https://acko.net/blog/live-headless-react/
 * https://github.com/facebook/react/tree/master/packages/react-reconciler     
 * https://github.com/pmndrs/react-three-fiber
  * https://reactjs.org/docs/codebase-overview.html#renderers
+   
+https://www.julian.io/articles/react-tracked.html
+   
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -200,9 +203,13 @@ https://github.com/easafe/purescript-flame
 * https://news.ycombinator.com/item?id=27364833
   * https://github.com/purescript-concur/purescript-concur-react.
 
+https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
+* https://news.ycombinator.com/item?id=27941208
+
 # Dynamic.js libjs
 
 # News
+http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D
 https://developers.google.com/blockly
 * https://news.ycombinator.com/item?id=27928772
 https://nodered.org/blog/2021/07/20/version-2-0-released

@@ -10,6 +10,11 @@ https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/
 # REST
 https://github.com/apideck-libraries/portman
 * https://news.ycombinator.com/item?id=27845768
+* https://blog.apideck.com/announcing-portman
+
+https://mockoon.com/
+* https://mockoon.com/docs/latest/import-export-data/
+* https://github.com/mockoon/mockoon
 
 #
 https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda

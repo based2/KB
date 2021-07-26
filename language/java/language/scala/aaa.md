@@ -27,7 +27,10 @@ https://docs.scala-lang.org/scala3/guides/migration/plugin-kind-projector.html
 https://www.coursera.org/specializations/scala
 https://rockthejvm.com/
 
-https://theintelligentbook.com/willscala/#/decks/typeclasses/0
+https://theintelligentbook.com/willscala/#/decks/typeclasses/0`
+
+# Coverage
+https://github.com/scoverage/scalac-scoverage-plugin
 
 
 
@@ -50,6 +53,7 @@ https://github.com/typelevel/fs2
 #
 
 #
+https://news.ycombinator.com/item?id=27947107
 https://nschejtman.medium.com/understanding-partial-unification-in-scala-317614c5dac7
 https://medium.com/disney-streaming/this-week-in-scala-may-17-2021-5672b4a9bad
 https://blog.oyanglul.us/scala/dotty/en/gadt

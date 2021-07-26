@@ -27,6 +27,9 @@ https://codingsans.com/blog/self-managed-teams
 
 https://modelthinkers.com/mental-model/scarf-model
 
+https://www.simplethread.com/agile-at-20-the-failed-rebellion/
+* https://news.ycombinator.com/item?id=27946382
+
 ## Scrum
 https://scrumguides.org/
 
@@ -99,6 +102,12 @@ https://iism.org/article/you-need-software-developers-to-believe-in-your-project
 * https://news.ycombinator.com/item?id=27771219
 
 https://dominikbraun.io/blog/5-properties-of-a-healthy-software-project/
+
+https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/
+* https://lobste.rs/s/0yjenq/wetware_crisis_dead_sea_effect
+
+https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/
+* https://news.ycombinator.com/item?id=27955766
 
 # Musics for programming
 https://www.musicforprogramming.net/

@@ -1,3 +1,16 @@
+https://stsewd.dev/posts/securing-your-dev-environment/
+
+https://www.cyber-economics.com/2021/07/26/cyber-insurance-incident-response-market-tends-towards-commoditization-with-competitive-prices-increasing-vc-and-m-cyber-insurance-has-built-an-overall-effective-system-to-help-especial/
+* https://news.ycombinator.com/item?id=27957814
+
+https://randomascii.wordpress.com/2021/07/25/finding-windows-handle-leaks-in-chromium-and-others/
+* https://news.ycombinator.com/item?id=27956720
+
+https://support.apple.com/en-us/HT212623
+* https://news.ycombinator.com/item?id=27962761
+
+https://waritschlager.de/sqlinjections-in-google-results.html
+
 https://github.com/quentinhardy/odat
 
 https://redhuntlabs.com/blog/top-organizations-on-github-vulnerable-to-dependency-confusion-attack.html
@@ -61,6 +74,7 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
     * https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html
       * https://news.ycombinator.com/item?id=27902544
   * https://github.com/mvt-project/mvt
+  * https://www.theguardian.com/technology/2021/jul/24/officials-who-are-us-allies-among-targets-of-nso-malware-says-whatsapp-chief
   
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 * https://news.ycombinator.com/item?id=27868487

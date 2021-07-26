@@ -84,6 +84,8 @@ https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternative
 * https://news.ycombinator.com/item?id=27630397
 
 # News
+https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/
+* https://news.ycombinator.com/item?id=27943730
 https://stackoverflow.blog/2021/07/19/privacy-is-an-afterthought-in-the-software-lifecycle-that-needs-to-change/
 * https://news.ycombinator.com/item?id=27929233
 https://www.theregister.com/2021/07/15/privacy_costs_money/

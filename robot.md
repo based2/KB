@@ -8,6 +8,10 @@ https://www.youtube.com/watch?v=ssZ_8cqfBlE How many robots does it take to run 
 
 https://foxglove.dev/
 
+# Drone
+https://dronedj.com/2021/07/22/ai-beats-human-drone-racing-pilot/
+* https://news.ycombinator.com/item?id=27940997
+
 # News
 https://blog.x.company/introducing-intrinsic-1cf35b87651
 * https://news.ycombinator.com/item?id=27931562

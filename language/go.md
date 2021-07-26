@@ -54,6 +54,8 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://bitfieldconsulting.com/golang/map-string-interface
+* https://news.ycombinator.com/item?id=27948162
 https://boyter.org/posts/interesting-go-memory-issue/
 https://blog.edgeless.systems/how-we-built-ego-c02220360503
 https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/

@@ -1,7 +1,8 @@
+https://docs.microsoft.com/en-us/sysinternals/
+
 # LTS
 https://docs.microsoft.com/en-us/windows/whats-new/ltsc/
 * https://news.ycombinator.com/item?id=27369828
-
 
 https://keepass.info/download.html
 https://apps.ankiweb.net/
@@ -63,6 +64,10 @@ https://devblogs.microsoft.com/commandline/wslg-architecture/
 https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10
 
 # News
+https://www.theregister.com/2021/07/26/windows_11_comes_bearing_thaas/
+* https://news.ycombinator.com/item?id=27957724
+https://github.com/zodiacon/RegExp
+* https://news.ycombinator.com/item?id=27944743
 https://www.arch13.com/ms-windows-defender-decss/
 * https://news.ycombinator.com/item?id=27914752
 https://devblogs.microsoft.com/oldnewthing/20210720-41/?p=105457

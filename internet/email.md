@@ -71,6 +71,8 @@ https://jmap.io/
 https://www.mailoo.org/
 
 # News
+https://k9mail.app/2021/07/24/K-9-Mail-is-back
+* https://news.ycombinator.com/item?id=27941264
 https://purelymail.com/
 * https://news.ycombinator.com/item?id=27707857
 https://www.migadu.com/

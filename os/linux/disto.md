@@ -47,7 +47,11 @@ https://en.wikipedia.org/wiki/Azure_Sphere
 
 https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 
+https://manjaro.org/ (https://archlinux.org/)
+
 # News
+https://kisslinux.org/
+* https://news.ycombinator.com/item?id=27945792
 https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html
 * https://news.ycombinator.com/item?id=27938765
 https://www.techrepublic.com/article/microsoft-linux-is-not-what-you-think-or-hoped-it-would-be/

@@ -17,3 +17,5 @@ https://eclecticlight.co/2021/07/19/are-there-flaws-in-some-arm64-instructions/
 
 https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-mali-g78.html
 * https://news.ycombinator.com/item?id=27898187
+
+https://www.nature.com/articles/s41586-021-03625-w PlasticARM system architecture

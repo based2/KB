@@ -36,3 +36,6 @@ https://petermalmgren.com/bash-things-i-learned/
 
 https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/
 * https://news.ycombinator.com/item?id=27726699
+
+https://github.com/dylanaraps/neofetch
+* https://news.ycombinator.com/item?id=27941616

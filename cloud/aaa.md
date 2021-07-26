@@ -13,7 +13,9 @@ https://cloud.google.com/blog/products/compute/introducing-compute-engine-predic
 * https://news.ycombinator.com/item?id=27719071
 
 # News
-https://news.ycombinator.com/item?id=27904254 Neverinstall – A platform to bring desktop applications to the browser
+https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html
+https://www.euclidia.eu/
+* https://news.ycombinator.com/item?id=27904254 Neverinstall – A platform to bring desktop applications to the browser
 https://blog.cloudflare.com/aws-egregious-egress/
 * https://news.ycombinator.com/item?id=27930151
 https://www.itnews.com.au/news/bank-of-england-to-crack-down-on-secretive-cloud-computing-services-567310

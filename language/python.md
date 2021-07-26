@@ -144,6 +144,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
+* https://news.ycombinator.com/item?id=27941208
 https://epicpython.com/
 * https://news.ycombinator.com/item?id=27931195
 https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html#gs.6zmlr0

@@ -9,6 +9,9 @@ https://www.unitedbsd.com/d/438-pkgsrc-security-practices
 
 https://begriffs.com/posts/2017-05-17-openbsd-workstation-guide.html
 
+https://doc.huc.fr.eu.org/en/sys/openbsd/vmd-host-guest-on-same-network/
+* https://news.ycombinator.com/item?id=27940798
+
 # FreeBSD
 https://www.freebsd.org/status/report-2021-01-2021-03/
 * https://news.ycombinator.com/item?id=27060326

@@ -69,6 +69,10 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/
+https://twitter.com/alyssarzg/status/1419469011734073347 M1
+* https://news.ycombinator.com/item?id=27957813
+https://www.phoronix.com/scan.php?page=news_item&px=IMA-Target-Measurements-DM
 https://pointieststick.com/2021/07/23/this-week-in-kde-power-profiles-and-a-more-polished-kickoff/
 https://lwn.net/Articles/862018/ Rust for Linux redux
 * https://news.ycombinator.com/item?id=27939498

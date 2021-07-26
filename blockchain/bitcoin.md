@@ -16,6 +16,10 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://bombthrower.com/articles/what-effect-would-tether-being-a-complete-fraud-have-on-cryptos/
+https://www.cnbc.com/2021/07/25/tax-loophole-wash-sale-rules-dont-apply-to-bitcoin-ethereum-dogecoin.html
+https://statmodeling.stat.columbia.edu/2021/07/15/using-benfords-law-to-detect-bitcoin-manipulation/
+* https://news.ycombinator.com/item?id=27947734
 https://b10c.me/blog/007-spending-p2tr-pre-activation/ segwit
 * https://news.ycombinator.com/item?id=27933494
 https://www.bbc.com/news/technology-57901113

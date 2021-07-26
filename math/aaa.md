@@ -55,6 +55,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://twitter.com/benskuhn/status/1419281153983500290
+* https://news.ycombinator.com/item?id=27955372
 https://www.math3ma.com/blog/entropy-algebra-topology
 * https://news.ycombinator.com/item?id=27917098
 http://www.catb.org/~esr/writings/utility-of-math/

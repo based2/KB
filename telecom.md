@@ -27,6 +27,9 @@ https://research.checkpoint.com/2021/security-probe-of-qualcomm-msm/
 
 https://podcastgameconsultant.com/gaming-news/5g-smartphones-2021/
 * https://news.ycombinator.com/item?id=27928571
+
+https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
+* https://news.ycombinator.com/item?id=27946947
    
 # Interference
 

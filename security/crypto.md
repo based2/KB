@@ -9,6 +9,9 @@ https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysi
 https://people.csail.mit.edu/rivest/pubs/SRA81.pdf
 * https://news.ycombinator.com/item?id=27734693
 
+https://arxiv.org/abs/2107.04940 You Really Shouldn't Roll Your Own Crypto: An Empirical Study of Vulnerabilities in Cryptographic Libraries
+* https://news.ycombinator.com/item?id=27947661
+
 # AES
 
 https://keymaterial.net/2020/09/07/invisible-salamanders-in-aes-gcm-siv/
@@ -66,6 +69,8 @@ https://github.com/google/fully-homomorphic-encryption
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 
 # News
+https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.0.0
+* https://news.ycombinator.com/item?id=27959029
 https://www.bunniestudios.com/blog/?p=6140 Building a Curve25519 Hardware Accelerator
 * https://news.ycombinator.com/item?id=27845274
 https://eprint.iacr.org/2021/870 SoK: Gröbner Basis Algorithms for Arithmetization Oriented Ciphers
