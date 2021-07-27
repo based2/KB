@@ -17,6 +17,9 @@ https://www.gwern.net/Search
 https://github.com/amirgamil/apollo
 * https://news.ycombinator.com/item?id=27961185
 
+https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database
+* https://news.ycombinator.com/item?id=27973497
+
 # Dev
 https://news.ycombinator.com/item?id=26582109
 

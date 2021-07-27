@@ -36,6 +36,9 @@ https://github.com/clulab/timenorm
 
 https://prabros.com/readings-on-time Alan Key
 
+https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a
+* 
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster
@@ -79,6 +82,9 @@ https://en.wikipedia.org/wiki/DCF77
 * https://news.ycombinator.com/item?id=27689214
 
 https://blog.jgc.org/2021/07/receiving-wwvb-time-signal-in-portugal.html
+
+https://www.pa3fwm.nl/projects/neonclock/
+* https://news.ycombinator.com/item?id=27956488
 
 #
 https://en.wikipedia.org/wiki/Time_crystal

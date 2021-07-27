@@ -1,3 +1,13 @@
+https://borncity.com/win/2021/07/25/microsoft-liefert-workaround-fr-windows-petitpotam-ntlm-relay-angriffe/
+
+https://labs.f-secure.com/advisories/op-tee-trustzone-bypass-on-multiple-nxp-i-mx-models/
+
+https://eclecticlight.co/2021/07/26/a-short-history-of-malware-protection-in-macos/
+* https://news.ycombinator.com/item?id=27972900
+
+https://security.googleblog.com/2021/07/a-new-chapter-for-googles-vulnerability.html
+* https://news.ycombinator.com/item?id=27971921
+
 https://stsewd.dev/posts/securing-your-dev-environment/
 
 https://www.cyber-economics.com/2021/07/26/cyber-insurance-incident-response-market-tends-towards-commoditization-with-competitive-prices-increasing-vc-and-m-cyber-insurance-has-built-an-overall-effective-system-to-help-especial/

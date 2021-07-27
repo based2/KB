@@ -52,3 +52,6 @@ https://py.checkio.org/blog/empire-code-space-strategy-game-checkio/
 http://www.reddit.com/r/truegaming/comments/38fyzc/why_do_territories_in_turnbased_strategy_games/
 
 https://code.google.com/archive/p/aor-javasim/wikis/ExamplesEconomics.wiki
+
+https://nicole.express/2021/remember-alf.html
+* https://news.ycombinator.com/item?id=27968292

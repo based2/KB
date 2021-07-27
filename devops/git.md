@@ -37,6 +37,9 @@ https://blog.waleedkhan.name/git-undo/
 https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
 * https://news.ycombinator.com/item?id=27683059
 
+https://github.com/jayphelps/git-blame-someone-else
+* https://news.ycombinator.com/item?id=27963868
+
 # Books
 https://git-scm.com/book/en/v2
 

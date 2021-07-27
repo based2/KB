@@ -215,6 +215,10 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+https://ai.googleblog.com/2021/07/advances-in-tf-ranking.html
+*
+https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play
+* https://news.ycombinator.com/item?id=27972950
 https://www.stochasticlifestyle.com/useful-algorithms-that-are-not-optimized-by-jax-pytorch-or-tensorflow/
 * https://news.ycombinator.com/item?id=27904729
 https://www.blopig.com/blog/2021/07/alphafold-2-is-here-whats-behind-the-structure-prediction-miracle/

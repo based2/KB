@@ -47,6 +47,7 @@ https://github.com/jebberjeb/specviz
 https://shaunlebron.github.io/t3tr0s-slides/#0
 
 # News
+https://github.com/learnuidev/patu
 http://blog.fogus.me/2021/07/20/clojure-builds-as-an-amalgamation-of-orthogonal-parts/
 * https://news.ycombinator.com/item?id=27894735
 https://github.com/babashka/babashka/discussions/907 Babashka + org-mode literate programming example

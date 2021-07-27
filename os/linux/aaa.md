@@ -69,6 +69,10 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://mobian-project.org/
+* https://news.ycombinator.com/item?id=27965416
+https://www.arsouyes.org/en/blog/2021/2021-07-05_Numerisation_DV
+* https://news.ycombinator.com/item?id=27956874
 https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/
 https://twitter.com/alyssarzg/status/1419469011734073347 M1
 * https://news.ycombinator.com/item?id=27957813

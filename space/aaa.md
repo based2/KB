@@ -16,12 +16,17 @@ https://www.mindat.org/
 
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 
+# Satellite
+https://satellitemap.space/
+
 # History
 ## Apollo
 http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2327&context=ilj The Prospector’s Guide to the Galaxy
+* https://news.ycombinator.com/item?id=27972516
 https://www.theregister.com/2021/07/23/exoplanet_ring_telescope/
 * https://news.ycombinator.com/item?id=27930778
  * https://www.eso.org/public/archives/releases/sciencepapers/eso2111/eso2111a.pdf

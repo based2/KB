@@ -33,3 +33,7 @@ https://en.wikipedia.org/wiki/Muon-catalyzed_fusion
 
 https://arxiv.org/abs/hep-th/9702027 What is Quantum Field Theory, and What Did We Think It Is?
 * https://news.ycombinator.com/item?id=27958401
+
+https://ciechanow.ski/naval-architecture/
+* https://news.ycombinator.com/item?id=27973295
+

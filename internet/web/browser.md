@@ -29,6 +29,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/
+* https://news.ycombinator.com/item?id=27968394
+* https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap
 https://edition.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
 * https://news.ycombinator.com/item?id=27945280
 https://infrequently.org/2021/07/hobsons-browser/

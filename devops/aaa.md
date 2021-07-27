@@ -85,6 +85,10 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/VersionHistory/explainer.md
+* https://news.ycombinator.com/item?id=27971502
+https://www.sleuth.io/
+* https://news.ycombinator.com/item?id=27974573
 https://www.jetbrains.com/lp/devecosystem-2021/
 * https://news.ycombinator.com/item?id=27856283
 https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform

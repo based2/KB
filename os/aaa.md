@@ -14,6 +14,8 @@ https://andrewharvey4.wordpress.com/2010/07/31/operating-systems-notes/
 https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 
 # News
+https://newsroom.ibm.com/2021-07-27-Announcing-IBM-z-OS-V2-5,-Next-Gen-Operating-System-Designed-for-Hybrid-Cloud-and-AI
+* https://news.ycombinator.com/item?id=27971688
 https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/
 * https://news.ycombinator.com/item?id=27955755
 https://games.greggman.com/game/secure-desktop-oses-when/
