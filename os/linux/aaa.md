@@ -69,6 +69,11 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://lwn.net/Articles/863071/ Descriptorless Files for Io_uring
+* https://news.ycombinator.com/item?id=28003697
+https://pointieststick.com/2021/07/30/this-week-in-kde-better-hidpi-on-x11/
+https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/ Strict memcpy() bounds checking for the kernel
+* https://news.ycombinator.com/item?id=28015263
 https://mobian-project.org/
 * https://news.ycombinator.com/item?id=27965416
 https://www.arsouyes.org/en/blog/2021/2021-07-05_Numerisation_DV

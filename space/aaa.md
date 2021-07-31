@@ -19,12 +19,28 @@ https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 # Satellite
 https://satellitemap.space/
 
+## ISS
+https://twitter.com/SciGuySpace/status/1420795248205312000
+* https://news.ycombinator.com/item?id=27999112
+* https://gizmodo.com/russian-module-unexpectedly-fires-thrusters-after-docki-1847387773
+
+## Tianhe
+https://www.globaltimes.cn/page/202107/1227953.shtml
+
+# Physic
+## Astronomy
+### Black hole
+https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/
+* https://news.ycombinator.com/item?id=27989875
+
 # History
 ## Apollo
 http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://www.orbiter-forum.com/threads/orbiter-is-now-open-source.40023/
+* https://news.ycombinator.com/item?id=27982671
 https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2327&context=ilj The Prospector’s Guide to the Galaxy
 * https://news.ycombinator.com/item?id=27972516
 https://www.theregister.com/2021/07/23/exoplanet_ring_telescope/

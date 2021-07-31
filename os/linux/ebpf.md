@@ -34,3 +34,5 @@ https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
 * https://news.ycombinator.com/item?id=27722947
 
 https://nigeltao.github.io/blog/2021/custom-ebpf-helpers.html
+
+https://bitcoind.observer/d/IAeYpfWnz/home?orgId=1&refresh=30s&sr=hn

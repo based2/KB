@@ -13,6 +13,10 @@ https://cloud.google.com/blog/products/compute/introducing-compute-engine-predic
 * https://news.ycombinator.com/item?id=27719071
 
 # News
+https://cloud.google.com/vpc/docs/release-notes#July_20_2021
+* https://news.ycombinator.com/item?id=27982431
+https://www.theregister.com/2021/07/27/stolen_scaleway_ssd_recovered/
+* https://news.ycombinator.com/item?id=27982769
 https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html
 https://www.euclidia.eu/
 * https://news.ycombinator.com/item?id=27904254 Neverinstall – A platform to bring desktop applications to the browser

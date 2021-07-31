@@ -46,6 +46,9 @@ http://www.tricki.org/tricki/map
 https://mattferraro.dev/posts/poissons-equation
 * https://news.ycombinator.com/item?id=27748967
 
+http://math.andrej.com/2008/02/06/representations-of-uncomputable-and-uncountable-sets/
+*
+
 # Geometry
 http://xperimex.com/blog/steiners-porism/
 * https://news.ycombinator.com/item?id=27741940

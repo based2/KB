@@ -16,6 +16,11 @@ https://pikchr.org/home/doc/trunk/homepage.md
 https://github.com/ivanceras/svgbob
 * https://news.ycombinator.com/item?id=27831789
 
+https://gaphor.org/
+
+https://web.cs.upb.de/archive/fujaba/
+* https://github.com/fujaba/SDMLib
+
 ## Sequence
 
 https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000

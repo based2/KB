@@ -25,6 +25,10 @@ https://www.rdoproject.org/networking/networking-in-too-much-detail/ openstack c
 https://github.com/Nudin/iptable_vis
 
 # Investigations
+
+https://blog.ikuamike.io/posts/2021/netcat/
+* https://news.ycombinator.com/item?id=27973020
+
 https://mysteries.wizardzines.com/connection-timeout.html
 * https://news.ycombinator.com/item?id=26900678
 
@@ -70,6 +74,11 @@ https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
 
 # Learn
 https://news.ycombinator.com/item?id=27650775
+
+# News
+https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/
+* https://news.ycombinator.com/item?id=28001746
+  * https://tmuxp.git-pull.com/
 
 
 

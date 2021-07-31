@@ -77,7 +77,8 @@ https://www.w3.org/Amaya/
 https://en.wikipedia.org/wiki/Document_Object_Model
 https://domevents.dev/
 
-
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby Represents small annotations that are rendered above,
+* https://news.ycombinator.com/item?id=27999898
 
 # Security
 https://korben.info/exploit-fichier-texte-txt-macos.html

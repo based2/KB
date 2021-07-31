@@ -152,3 +152,7 @@ https://dirtydatagirl.moogle.cc/rf7put/i-might-have-gone-a-little-bit-overboard
 # CI
 https://hypervector.io/
 
+# Data Mesh
+https://cnr.sh/essays/what-the-heck-data-mesh
+* https://news.ycombinator.com/item?id=27999348
+

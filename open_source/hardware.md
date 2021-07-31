@@ -49,6 +49,9 @@ https://openflexure.org/projects/microscope/
 https://www.numworks.com/
 * https://news.ycombinator.com/item?id=27126926
 
+https://www.crowdsupply.com/neuroidss/freeeeg32
+* https://news.ycombinator.com/item?id=28003654
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 * https://news.ycombinator.com/item?id=27628101

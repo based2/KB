@@ -51,6 +51,12 @@ https://deephn.org/
 https://arxiv.org/abs/2105.14134 Netflix
 
 # News
+https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAALmyVqo21pZI2E1ggA5awKKUInzQLrUMCEge6rY7I44rTMhV88sw_4YtuJkot6VePt4CkXWhazMyQZ9eAeMzLqhzOdsXi2eUCcpK-qPkgHGsVWLanqA6_39EvPdNABTBzoIk2GpGM_sZOGcUqEeamkSz8-Lj7kaU6wPc73x83atX
+* https://news.ycombinator.com/item?id=27990163
+https://math.stackexchange.com/questions/4207222/why-does-turn-turn-turn-equal-241217-524881
+* https://news.ycombinator.com/item?id=28006053
+https://alexskra.com/blog/the-mermaid-is-taking-over-google-search-in-norway/
+* https://news.ycombinator.com/item?id=27991322
 https://searchengineland.com/google-now-shows-why-it-ranked-a-specific-search-result-350659
 * https://news.ycombinator.com/item?id=27928200
 https://reclaimthenet.org/google-starts-adding-no-reliable-sources-tag-to-some-search-engine-results/

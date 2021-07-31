@@ -6,6 +6,9 @@ https://derickbailey.com/2016/03/28/dealing-with-dead-letters-and-poison-message
 https://www.erlang-solutions.com/blog/how-to-use-rabbitmq-in-service-integration/
 * https://news.ycombinator.com/item?id=27182060
 
+https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-message-deduplication
+* https://news.ycombinator.com/item?id=28008088
+
 # Kafka
 https://github.com/kattlo/kattlo-cli
 https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/

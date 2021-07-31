@@ -89,6 +89,8 @@ https://www.pa3fwm.nl/projects/neonclock/
 #
 https://en.wikipedia.org/wiki/Time_crystal
 
+https://longtermist.substack.com/p/microcenturies-methuselahs-and-musks
+
 # Investigation
 https://memgraph.com/blog/overflowing-timeout
 * https://news.ycombinator.com/item?id=27832690

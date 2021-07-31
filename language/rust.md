@@ -189,6 +189,8 @@ https://lang-team.rust-lang.org/initiatives.html
 https://www.eurekalert.org/pub_releases/2021-07/su-cs071521.php
 * https://news.ycombinator.com/item?id=27869717
 
+https://github.com/crev-dev/
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 * https://news.ycombinator.com/item?id=27589010
@@ -223,6 +225,10 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html
+* https://news.ycombinator.com/item?id=27996859
+https://rust-audio.discourse.group/
+* https://news.ycombinator.com/item?id=27998489
 https://niedzejkob.p4.team/rust-np/
 * https://news.ycombinator.com/item?id=27769718
 https://ferrous-systems.com/blog/ferrocene-update-three-the-road/

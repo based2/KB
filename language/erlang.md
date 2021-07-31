@@ -16,6 +16,9 @@ https://github.com/geocar/inet_ssh_dist
 
 https://medium.com/erlang-battleground/spot-the-difference-733a5c2fce77
 
+https://github.com/lumen/lumen Lumen - A new compiler and runtime for BEAM languages in rust
+* https://news.ycombinator.com/item?id=28015838
+
 # Elixir
 
 https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/

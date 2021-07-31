@@ -56,6 +56,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   * https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://birchlabs.co.uk/liquidfun-wasm/
+* https://news.ycombinator.com/item?id=27996703
 https://github.com/diekmann/wasm-fizzbuzz
 * https://news.ycombinator.com/item?id=27832115
 https://github.com/no-defun-allowed/wasm2ps

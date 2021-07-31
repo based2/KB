@@ -98,6 +98,8 @@ https://copilot.github.com/
 * https://news.ycombinator.com/item?id=27769440
   * https://fossa.com/blog/analyzing-legal-implications-github-copilot/
     * https://news.ycombinator.com/item?id=27846324
+* https://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-on-philosophical-and-legal-questions-around-copilot
+  * https://news.ycombinator.com/item?id=27998109
 
 https://visualstudio.microsoft.com/fr/services/intellicode/
 
@@ -215,6 +217,10 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+https://news.cornell.edu/stories/2021/07/platform-teaches-nonexperts-use-machine-learning
+* https://news.ycombinator.com/item?id=28008369
+https://www.openai.com/blog/triton/
+* https://news.ycombinator.com/item?id=27985594
 https://ai.googleblog.com/2021/07/advances-in-tf-ranking.html
 *
 https://deepmind.com/blog/article/generally-capable-agents-emerge-from-open-ended-play

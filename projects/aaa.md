@@ -109,6 +109,9 @@ https://brucefwebster.com/2008/04/11/the-wetware-crisis-the-dead-sea-effect/
 https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/
 * https://news.ycombinator.com/item?id=27955766
 
+https://github.com/syncfast/clockwise
+* https://www.reddit.com/r/programming/comments/ot9j79/clockwise_a_meeting_cost_calculator_designed_to/
+
 # Musics for programming
 https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887

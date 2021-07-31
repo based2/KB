@@ -38,6 +38,9 @@ https://peter.website/meow-hash-cryptanalysis
 https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a
 * https://news.ycombinator.com/item?id=27698059
 
+https://peter.website/meow-hash-cryptanalysis
+* https://news.ycombinator.com/item?id=27978878
+
 # UID
 https://github.com/kpdemetriou/fuuid
 * https://news.ycombinator.com/item?id=27030088

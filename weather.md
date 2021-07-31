@@ -4,5 +4,8 @@ https://pirateweather.net/
 https://www.google.com/welltemperedtraveler/
 * https://news.ycombinator.com/item?id=27841209
 
+https://leisurepurpose.wordpress.com/2020/03/24/weather/
+* https://news.ycombinator.com/item?id=28000628
+
 # history
 weatherspark .no

@@ -20,6 +20,9 @@ https://grahamc.com/blog/nix-and-layered-docker-images
 https://mergeboard.com/blog/2-qemu-microvm-docker/
 * https://news.ycombinator.com/item?id=27530074
 
+https://www.artifakt.com/blog/cloud/documenting-our-migration-to-docker/
+* https://news.ycombinator.com/item?id=28006894
+
 # Best practices
 https://github.com/radial
 radial/busyboxplus
@@ -42,6 +45,7 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 `
 # News
+https://jedevc.com/blog/dockerfile-heredocs-intro/
 https://thehftguy.com/2016/11/01/docker-in-production-an-history-of-failure/
 * https://news.ycombinator.com/item?id=27973512
 https://blog.newsblur.com/2021/06/28/story-of-a-hacking/

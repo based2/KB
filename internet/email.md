@@ -71,6 +71,8 @@ https://jmap.io/
 https://www.mailoo.org/
 
 # News
+https://www.nerd-quickies.net/2020/10/20/microsoft-silently-dropping-emails-a-sad-but-true-story/
+* https://news.ycombinator.com/item?id=27980192
 https://k9mail.app/2021/07/24/K-9-Mail-is-back
 * https://news.ycombinator.com/item?id=27941264
 https://purelymail.com/

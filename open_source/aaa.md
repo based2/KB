@@ -154,6 +154,13 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://en.wikipedia.org/wiki/Patentleft
+* https://news.ycombinator.com/item?id=28005106
+https://www.opentermsarchive.org
+* https://news.ycombinator.com/item?id=28006249
+https://sourceware.org/pipermail/libc-alpha/2021-July/129577.html
+https://www.gimp.org/news/2021/07/27/support-gimp-developers-sustainable-development/
+* https://news.ycombinator.com/item?id=27981246
 https://www.btw.so/open-source-alternatives
 * https://news.ycombinator.com/item?id=27915370
 https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/

@@ -43,6 +43,14 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab079/6325731
+* https://news.ycombinator.com/item?id=27993949
+https://www.chrbutler.com/we-only-have-eight-years-left
+* https://news.ycombinator.com/item?id=28011900
+https://www.reuters.com/business/sustainable-business/investors-overseeing-14-trln-call-vote-company-climate-plans-2021-07-30/
+* https://news.ycombinator.com/item?id=28009716
+https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab079/6325731
+* 
 https://www.quantamagazine.org/a-soil-science-revolution-upends-plans-to-fight-climate-change-20210727/
 * https://news.ycombinator.com/item?id=27974448
 https://iopscience.iop.org/article/10.1088/1748-9326/ac13f1

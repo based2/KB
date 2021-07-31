@@ -5,6 +5,8 @@ https://joel-costigliola.github.io/assertj/assertj-assertions-generator.html#phi
 
 https://maven.apache.org/surefire/maven-surefire-plugin/
 
+https://assertj.github.io/doc/
+
 https://testng.org/doc/book.html
 
 https://blogs.oracle.com/javamagazine/how-to-test-java-microservices-with-pact
@@ -75,6 +77,9 @@ https://www.reddit.com/r/java/comments/jcryn9/logcaptor_library_to_easily_captur
 https://github.com/jvm-profiling-tools/async-profiler
 
 https://github.com/billybong/JavaFlames
+
+https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
+* https://www.reddit.com/r/java/comments/osht20/towards_continuous_performance_regression_testing/
 
 # News
 https://www.reddit.com/r/java/comments/np59b3/testng_vs_junit_which_testing_framework_should/

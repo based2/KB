@@ -34,6 +34,9 @@ https://tailwindcss.com/docs/just-in-time-mode
 
 https://mikerogers.io/2021/05/12/moving-from-tailwind-to-css-variables
 
+https://daisyui.com/
+* https://news.ycombinator.com/item?id=28004515
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 * https://news.ycombinator.com/item?id=9670916
@@ -147,6 +150,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.bryanbraun.com/after-dark-css/
+* https://news.ycombinator.com/item?id=28006679
 https://engineering.kablamo.com.au/posts/2021/my-first-css
 * https://news.ycombinator.com/item?id=27955576
 https://3fx.ch/blog/2021/07/25/css-avoid-horizontal-scrolling/

@@ -72,6 +72,8 @@ https://github.com/mhadidg/software-architecture-books
 * https://news.ycombinator.com/item?id=27683966
 
 # News
+https://simonwillison.net/2021/Jul/28/baked-data/
+* https://news.ycombinator.com/item?id=27994393
 https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf
 
 

@@ -50,6 +50,7 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://grahamc.com/blog/nixos-on-framework
 https://kisslinux.org/
 * https://news.ycombinator.com/item?id=27945792
 https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html

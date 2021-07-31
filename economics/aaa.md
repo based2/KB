@@ -17,6 +17,9 @@ http://matt-clancy.com/economics-of-innovation-detailed-reading-list/
 https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany
 * https://news.ycombinator.com/item?id=27730682
 
+https://vitalik.ca/general/2021/07/29/gini.html
+* https://news.ycombinator.com/item?id=28003453
+
 # Bank
 https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf
 * https://news.ycombinator.com/item?id=27419984
@@ -38,6 +41,8 @@ https://gieskes.nl/instruments/files/insolventunclesam/insolventunclesam/manual/
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 * https://news.ycombinator.com/item?id=27763965
+
+https://en.wikipedia.org/wiki/Onion_Futures_Act
 
 # News
 https://www.bbc.com/news/world-57368247 G7: Rich nations back deal to tax multinationals

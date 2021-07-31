@@ -15,3 +15,6 @@ https://utcc.utoronto.ca/~cks/space/blog/unix/NFSServerReplyCacheWhy
 
 https://www.usenix.org/system/files/nsdi21-yang.pdf segcache
 * https://news.ycombinator.com/item?id=26784201
+
+https://actualbudget.com/blog/new-caching
+* https://news.ycombinator.com/item?id=27974323

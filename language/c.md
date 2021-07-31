@@ -30,3 +30,6 @@ https://github.com/graphitemaster/fpinspect
 
 https://arxiv.org/abs/2107.10533 CGuard: Efficient Spatial Safety for C
 * https://news.ycombinator.com/item?id=27932779
+
+https://nullprogram.com/blog/2021/07/30/ strcpy: a niche function you don't need
+* https://news.ycombinator.com/item?id=28011825

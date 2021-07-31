@@ -63,6 +63,9 @@ https://storybook.js.org/blog/how-to-actually-test-uis/
 https://cantunsee.space/
 * https://news.ycombinator.com/item?id=27188989
 
+# Mistake
+https://twitter.com/vponamariov/status/1421014957110579203
+* https://news.ycombinator.com/item?id=28006728
 
 # News
 https://straw.page/start

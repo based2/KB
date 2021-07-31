@@ -35,3 +35,7 @@ http://pvk.ca/Blog/LowLevel/software-reciprocal.html 0x7FDE623822FC16E6: A magic
 http://algorithmicbotany.org/virtual_laboratory/
 * https://news.ycombinator.com/item?id=27917432
 
+# News
+https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge
+* https://news.ycombinator.com/item?id=28010077
+

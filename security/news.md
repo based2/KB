@@ -1,3 +1,32 @@
+https://nakedsecurity.sophos.com/2021/07/29/microsoft-researcher-found-apple-0-day-in-march-didnt-report-it/
+
+https://www.zdnet.com/article/hackers-used-never-before-seen-wiper-in-recent-attack-on-iranian-train-system-report/
+
+https://www.forbes.com/sites/thomasbrewster/2021/07/29/paragon-is-an-nso-competitor-and-an-american-funded-israeli-surveillance-startup-that-hacks-encrypted-apps-like-whatsapp-and-signal/?sh=33bbd077153b
+
+https://us-cert.cisa.gov/ncas/alerts/aa21-209a Top Routinely Exploited Vulnerabilities
+* https://news.ycombinator.com/item?id=28001884
+
+https://github.com/paseto-standard/paserk PASERK: Platform-Agnostic Serialized Keys (PASETO)
+* https://news.ycombinator.com/item?id=27995502
+
+https://www.schneier.com/blog/archives/2021/07/i-am-parting-with-my-crypto-library.html
+* https://news.ycombinator.com/item?id=28012158
+
+https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network
+* https://news.ycombinator.com/item?id=27986316
+
+https://github.com/keycastr/keycastr
+* https://news.ycombinator.com/item?id=27979319
+
+https://kiwidog.me/2021/07/analysis-of-large-binaries-and-games-in-ghidra-sre/
+* https://news.ycombinator.com/item?id=27972308
+
+https://www.documentcloud.org/documents/21018353-nsa-mobile-device-best-practices
+* https://news.ycombinator.com/item?id=27983835
+
+https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/
+
 https://borncity.com/win/2021/07/25/microsoft-liefert-workaround-fr-windows-petitpotam-ntlm-relay-angriffe/
 
 https://labs.f-secure.com/advisories/op-tee-trustzone-bypass-on-multiple-nxp-i-mx-models/

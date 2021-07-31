@@ -36,6 +36,9 @@ https://eng.snap.com/quic-at-snap QUIC
 * https://news.ycombinator.com/item?id=27626394
 
 # News
+https://maximevaillancourt.com/blog/moving-away-from-google-services-8-years-in
+* https://news.ycombinator.com/item?id=27986001
+https://news.ycombinator.com/item?id=28005638 Why is YouTube adding “&pp=sAQA” to video URLs?
 https://w3c.github.io/webtransport/
 https://www.smashingmagazine.com/2021/05/evolution-jamstack/
 * https://news.ycombinator.com/item?id=27023309

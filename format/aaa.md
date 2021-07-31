@@ -9,3 +9,6 @@ https://jpegxl.info/
 * https://news.ycombinator.com/item?id=27577328
 https://dbohdan.com/wiki/jpeg-xl?
 * https://news.ycombinator.com/item?id=27559748
+
+https://www.kenrockwell.com/tech/raw.htm photo
+* https://news.ycombinator.com/item?id=27990984

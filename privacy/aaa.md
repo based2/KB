@@ -83,7 +83,14 @@ https://firstpartysimulator.org/ EFF
 https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives
 * https://news.ycombinator.com/item?id=27630397
 
+# DNS
+https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
+* https://news.ycombinator.com/item?id=28007367
+  * https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
+
 # News
+https://blog.privacytools.io/the-future-of-privacytools/
+* https://news.ycombinator.com/item?id=28007416
 https://www.cpomagazine.com/data-privacy/is-it-possible-to-make-iot-devices-private-amazon-echo-dot-does-not-wipe-personal-content-after-factory-reset/
 * https://news.ycombinator.com/item?id=27943730
 https://stackoverflow.blog/2021/07/19/privacy-is-an-afterthought-in-the-software-lifecycle-that-needs-to-change/

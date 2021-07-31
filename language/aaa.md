@@ -110,6 +110,8 @@ http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
 
 # News
+https://github.com/morloc-project/morloc
+* https://news.ycombinator.com/item?id=27994866
 https://buttondown.email/hillelwayne/archive/i-ing-hate-science/
 * https://news.ycombinator.com/item?id=27892615
 https://news.ycombinator.com/item?id=27883047 julia

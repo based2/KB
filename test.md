@@ -1,3 +1,5 @@
+https://github.com/intuit/karate
+
 https://martinfowler.com/articles/2021-test-shapes.html
 
 https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/

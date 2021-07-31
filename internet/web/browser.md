@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/
 * https://news.ycombinator.com/item?id=27968394
 * https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap
+* https://www.reddit.com/r/programming/comments/osj2i8/for_developers_apples_safari_is_crap_and_outdated/
+ * https://httptoolkit.tech/blog/safari-is-killing-the-web/
+   * https://news.ycombinator.com/item?id=27985783
 https://edition.cnn.com/2021/07/23/tech/idme-unemployment-facial-recognition/index.html
 * https://news.ycombinator.com/item?id=27945280
 https://infrequently.org/2021/07/hobsons-browser/

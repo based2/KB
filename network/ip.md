@@ -35,5 +35,7 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 * https://news.ycombinator.com/item?id=27673945
 
 # News
+https://docs.hetzner.com/general/others/ipv4-pricing/
+* https://news.ycombinator.com/item?id=27982968
 https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/
 * https://news.ycombinator.com/item?id=26924883

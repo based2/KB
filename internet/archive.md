@@ -33,6 +33,8 @@ https://joshelman.medium.com/the-history-of-the-dot-com-era-c370828ea32a
 https://thehistoryoftheweb.com/timeline/?date_from=1989&date_to=1994
 * https://news.ycombinator.com/item?id=27928020
 
+https://news.ycombinator.com/item?id=28008606 Why didn't the early web support more client side languages?
+
 # News
 https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/
 * https://news.ycombinator.com/item?id=27914848

@@ -136,6 +136,8 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
 # News
+https://ai.googleblog.com/2021/07/mapping-africas-buildings-with.html
+* https://news.ycombinator.com/item?id=27993946
 https://github.com/DHI-GRAS/terracotta
 * https://news.ycombinator.com/item?id=27955790
 https://osmand.net/blog/osmand-ios-4-0-released
