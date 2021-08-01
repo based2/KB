@@ -69,6 +69,8 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://github.com/vrmiguel/bustd Available memory or bust!
+https://bootlin.com/blog/how-we-found-that-the-linux-nios2-memset-implementation-had-a-bug/
 https://lwn.net/Articles/863071/ Descriptorless Files for Io_uring
 * https://news.ycombinator.com/item?id=28003697
 https://pointieststick.com/2021/07/30/this-week-in-kde-better-hidpi-on-x11/

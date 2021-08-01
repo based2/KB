@@ -7,5 +7,7 @@ https://www.google.com/welltemperedtraveler/
 https://leisurepurpose.wordpress.com/2020/03/24/weather/
 * https://news.ycombinator.com/item?id=28000628
 
+https://en.wikipedia.org/wiki/Solar_cycle
+
 # history
 weatherspark .no

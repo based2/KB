@@ -16,6 +16,12 @@ https://www.notion.so/blog/data-model-behind-notion
 https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/
 * https://news.ycombinator.com/item?id=27714251
 
+https://josephg.com/blog/crdts-go-brrr/
+* https://news.ycombinator.com/item?id=28017204
+
+https://arxiv.org/abs/2002.09511 Chronofold: a data structure for versioned text
+
+
 # Concurrent updates
 https://martinfowler.com/articles/patterns-of-distributed-systems/version-vector.html
 

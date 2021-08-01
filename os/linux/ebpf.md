@@ -35,4 +35,8 @@ https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
 
 https://nigeltao.github.io/blog/2021/custom-ebpf-helpers.html
 
-https://bitcoind.observer/d/IAeYpfWnz/home?orgId=1&refresh=30s&sr=hn
+https://bitcoind.observer/d/IAeYpfWnz/home?orgId=1&refresh=30s&sr=hn`
+
+https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
+
+https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/

@@ -217,6 +217,8 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+https://github.com/mlfoundations/open_clip
+https://recsysml.substack.com/p/a-common-mistake-when-using-embeddings
 https://news.cornell.edu/stories/2021/07/platform-teaches-nonexperts-use-machine-learning
 * https://news.ycombinator.com/item?id=28008369
 https://www.openai.com/blog/triton/

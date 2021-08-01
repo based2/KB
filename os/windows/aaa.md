@@ -44,7 +44,11 @@ http://www.clonespy.com/
 # Network
 https://www.nirsoft.net/utils/cports.html#DownloadLinks
 
-# Excel
+# Office
+https://borncity.com/win/2021/07/29/microsoft-office-2010-keine-aktivierung-mehr/
+* https://news.ycombinator.com/item?id=28025827
+
+## Excel
 https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/
 * https://news.ycombinator.com/item?id=26900419
 

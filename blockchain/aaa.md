@@ -4,6 +4,8 @@ https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/Secure_Blockchain.pdf
 https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake
 https://en.wikipedia.org/wiki/Proof_of_stake
 
+proof of energy wasted
+
 # Proof of Work
 https://www.eea.europa.eu/publications/blockchain-and-the-environment
 

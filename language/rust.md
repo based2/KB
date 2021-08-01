@@ -90,6 +90,9 @@ https://github.com/rustviz/rustviz
 https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep
 * https://news.ycombinator.com/item?id=27956313
 
+https://lazy.codes/posts/awesome-unstable-rust-features/
+* https://lobste.rs/s/do5ozt/awesome_unstable_rust_features
+
 # Async
 https://tokio.rs/
 
@@ -225,6 +228,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-2
+https://www.parsonsmatt.org/2021/07/29/stealing_impl_from_rust.html
 https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html
 * https://news.ycombinator.com/item?id=27996859
 https://rust-audio.discourse.group/

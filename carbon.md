@@ -43,6 +43,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+http://berkeleyearth.org/june-2021-temperature-update/
+* https://news.slashdot.org/story/21/07/30/2121220/june-heatwave-was-the-most-extreme-on-record-for-north-america
+https://www.nature.com/articles/s41467-021-24487-w
+* https://news.slashdot.org/story/21/07/30/1946203/three-americans-create-enough-carbon-emissions-to-kill-one-person-study-finds 
+https://climatestrike.software/
+* https://lobste.rs/s/cxphgv/climate_strike_software
 https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab079/6325731
 * https://news.ycombinator.com/item?id=27993949
 https://www.chrbutler.com/we-only-have-eight-years-left

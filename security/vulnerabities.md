@@ -26,6 +26,7 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 # 2021
+PrintNightmare
 https://alpaca-attack.com/ 
 https://francozappa.github.io/about-bias/publication/antonioli-20-bias/antonioli-20-bias.pdf blootooth
 * https://github.com/espressif/esp-idf/commit/d73ebb570bcc2d529b0ff64d97804b70723fbb99

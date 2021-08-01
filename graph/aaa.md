@@ -51,3 +51,6 @@ https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-pla
 ## Cayley - groups
 http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  OF  CAYLEY  GRAPHS
 https://en.wikipedia.org/wiki/Cayley_graph
+
+# News
+https://www.datanami.com/2021/07/30/why-young-developers-dont-get-knowledge-graphs/

@@ -196,6 +196,9 @@ https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-ye
 https://seanbarry.dev/posts/switch-true-pattern
 * https://news.ycombinator.com/item?id=26777090
 
+https://en.wikipedia.org/wiki/Tree_shaking
+* 
+
 # compiler
 https://www.purescript.org/
 https://github.com/easafe/purescript-flame
@@ -209,6 +212,7 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/FinalizationRegistry
 https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyKki3VQgtKM&gl=FR&m=0&pc=yt&uxe=23983172&hl=fr&src=1
 * https://news.ycombinator.com/item?id=27987309
 http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D

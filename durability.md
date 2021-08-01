@@ -18,6 +18,10 @@ https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup
 https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alternative-to-single-use-plastics
 * https://news.ycombinator.com/item?id=27614580
 
+# Recycling
+https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/
+* https://news.ycombinator.com/item?id=28018057
+
 # News
 https://pedestrianobservations.com/2021/07/23/the-leakage-problem/
 https://anaellebeignon.fr/design-for-obsolete-devices.html

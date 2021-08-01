@@ -40,6 +40,9 @@ https://www.moxio.com/blog/43/ignoring-bulk-change-commits-with-git-blame
 https://github.com/jayphelps/git-blame-someone-else
 * https://news.ycombinator.com/item?id=27963868
 
+https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/
+* https://news.ycombinator.com/item?id=28024972
+
 # Books
 https://git-scm.com/book/en/v2
 

@@ -64,6 +64,8 @@ http://leopard.in.ua/2015/04/13/postgresql-indexes/
 # Analysis
 https://github.com/marklit/datafluent_pg
 
+https://www.percona.com/blog/improve-postgresql-query-performance-insights-with-pg_stat_monitor/
+
 ### Extensions
 https://age.apache.org/# Graph
 
@@ -111,6 +113,8 @@ https://github.com/zalando/patroni
 https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enums
 * https://news.ycombinator.com/item?id=27570058
 
+# Extensions
+https://github.com/jie123108/imgsmlr-server
 
 # News
 https://incident.io/blog/one-two-skip-a-few Postgres sequences can skip 32 unexpectedly

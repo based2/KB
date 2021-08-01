@@ -156,3 +156,8 @@ https://hypervector.io/
 https://cnr.sh/essays/what-the-heck-data-mesh
 * https://news.ycombinator.com/item?id=27999348
 
+# Data tests
+https://frictionlessdata.io/
+
+https://github.com/ExpediaGroup/quibble
+

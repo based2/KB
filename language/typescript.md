@@ -30,7 +30,9 @@ http://neugierig.org/software/blog/2018/09/typescript-at-google.html
 
 https://captain-yossarian.medium.com/typescript-object-oriented-typings-4fd42ce14c75
 
-# Lint
+https://github.com/gvergnaud/ts-pattern
+
+# Check
 https://www.sonarlint.org/
 https://lift.sonatype.com/
 https://eslint.org/

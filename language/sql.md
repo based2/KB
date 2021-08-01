@@ -20,6 +20,8 @@ https://cra.mr/2010/05/30/scaling-threaded-comments-on-django-at-disqus/
 
 https://excessivelyadequate.com/posts/rule30.html
 
+https://medium.com/swlh/recursion-in-sql-explained-graphically-679f6a0f143b
+
 # Indexes
 https://use-the-index-luke.com/
 

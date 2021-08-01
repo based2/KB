@@ -52,6 +52,9 @@ https://github.com/SigNoz/signoz
 https://github.com/Sysinternals/ProcMon-for-Linux/
 * https://news.ycombinator.com/item?id=27058914
 
+https://goaccess.io/
+* https://news.ycombinator.com/item?id=28012307
+
 # News
 https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html
 * https://news.ycombinator.com/item?id=27738312

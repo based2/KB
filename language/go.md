@@ -54,6 +54,8 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/cosmtrek/air Live reload when developing
+* https://news.ycombinator.com/item?id=28015798
 https://bitfieldconsulting.com/golang/map-string-interface
 * https://news.ycombinator.com/item?id=27948162
 https://boyter.org/posts/interesting-go-memory-issue/

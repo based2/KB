@@ -1,3 +1,20 @@
+https://www.cyren.com/f-prot-eol-announcement
+
+https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/
+
+https://www.bleepingcomputer.com/news/microsoft/public-print-server-gives-anyone-windows-admin-privileges/
+
+https://arstechnica.com/gadgets/2021/07/with-help-from-google-impersonated-brave-com-website-pushes-malware/
+
+https://matklad.github.io//2021/07/30/shell-injection.html
+* https://lobste.rs/s/v0zrtr/echo_shell_injection
+
+https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html
+
+https://github.com/cfalta/MicrosoftWontFixList/blob/main/README.md
+
+https://github.com/risinek/esp32-wifi-penetration-tool
+
 https://nakedsecurity.sophos.com/2021/07/29/microsoft-researcher-found-apple-0-day-in-march-didnt-report-it/
 
 https://www.zdnet.com/article/hackers-used-never-before-seen-wiper-in-recent-attack-on-iranian-train-system-report/

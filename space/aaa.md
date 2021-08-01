@@ -17,6 +17,10 @@ https://www.mindat.org/
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 
 # Satellite
+
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Reprogrammable_satellite_launched
+* https://news.ycombinator.com/item?id=28016744
+
 https://satellitemap.space/
 
 ## ISS

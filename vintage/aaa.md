@@ -19,6 +19,9 @@ https://liam-on-linux.livejournal.com/80768.html
 http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html
 * https://news.ycombinator.com/item?id=27690504
 
+http://www.retroarchive.org/
+* https://news.ycombinator.com/item?id=28019713
+
 # DEC
 https://madned.substack.com/p/the-enemy-within
 * https://news.ycombinator.com/item?id=27534145

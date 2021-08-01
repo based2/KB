@@ -29,6 +29,8 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/
+https://news.ycombinator.com/item?id=28015335
 https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/
 * https://news.ycombinator.com/item?id=27968394
 * https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap

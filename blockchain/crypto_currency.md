@@ -13,6 +13,7 @@ https://cryptosec.info/exchange-hacks/
 
 
 # News
+https://securehoney.net/blog/cryptojacking-a-tale-of-riches-deceit-and-theft.html
 https://news.ycombinator.com/item?id=27841947
 https://www.latribune.fr/entreprises-finance/banques-finance/bitcoins-au-bureau-de-tabac-ce-qu-il-faut-savoir-798223.html
 https://www.youtube.com/watch?v=-whuXHSL1Pg teher

@@ -75,6 +75,8 @@ https://blog.g3rt.nl/upgrade-your-ssh-keys.html
 https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHAndSHA1Deprecation
 
 # News
+https://github.com/cy384/ssheven SSH client for Mac OS 7/8/9.
+* https://news.ycombinator.com/item?id=28021434
 https://people.eecs.berkeley.edu/~daw/papers/ssh-use01.pdf Timing Analysis of Keystrokes and Timing Attacks on SSH
 https://security.humanativaspa.it/openssh-ssh-agent-shielded-private-key-extraction-x86_64-linux/
 https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/

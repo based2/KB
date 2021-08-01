@@ -26,6 +26,7 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+http://mail-archives.apache.org/mod_mbox/www-announce/202107.mbox/%3Cdf4d3899-4b91-df70-4d02-6583ea48309c%40apache.org%3E CVE-2021-36090: Apache Commons Compress 1.0 to 1.20 denial of service vulnerability
 https://devlog.hexops.com/2021/unicode-data-file-compression
 https://ayende.com/blog/193955-A/sorted-integer-compression
 * https://arxiv.org/pdf/1209.2137.pdf

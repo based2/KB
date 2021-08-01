@@ -12,3 +12,6 @@ https://dbohdan.com/wiki/jpeg-xl?
 
 https://www.kenrockwell.com/tech/raw.htm photo
 * https://news.ycombinator.com/item?id=27990984
+
+# News
+https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg/edit#heading=h.8crpi5305nr Flutter vector
