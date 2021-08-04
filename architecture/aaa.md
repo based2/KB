@@ -71,6 +71,11 @@ https://google.aip.dev/
 https://github.com/mhadidg/software-architecture-books
 * https://news.ycombinator.com/item?id=27683966
 
+# Photo23D
+    Website: https://boofcv.org
+    Example code for scene recognition/image retrieval. https://boofcv.org/index.php?title=Example_Scene_Recognition
+    Example code for 3D Reconstruction to create point clouds https://boofcv.org/index.php?title=Example_Multiview_Reconstruction_Dense
+
 # News
 https://simonwillison.net/2021/Jul/28/baked-data/
 * https://news.ycombinator.com/item?id=27994393

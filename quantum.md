@@ -3,3 +3,5 @@ https://arstechnica.com/science/2021/07/google-tries-out-error-correction-on-its
 
 https://www.quantamagazine.org/first-time-crystal-built-using-googles-quantum-computer-20210730/
 * https://news.ycombinator.com/item?id=28008202
+
+https://soundcloud.com/xavieruniversitylibrary/sets/conference-on-the-foundations

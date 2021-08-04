@@ -157,6 +157,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://openby.design/?0
+* https://news.ycombinator.com/item?id=28037113
 https://en.wikipedia.org/wiki/Patentleft
 * https://news.ycombinator.com/item?id=28005106
 https://www.opentermsarchive.org

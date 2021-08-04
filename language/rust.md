@@ -194,6 +194,8 @@ https://www.eurekalert.org/pub_releases/2021-07/su-cs071521.php
 
 https://github.com/crev-dev/
 
+https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 * https://news.ycombinator.com/item?id=27589010
@@ -228,6 +230,7 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html
 https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-2
 https://www.parsonsmatt.org/2021/07/29/stealing_impl_from_rust.html
 https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html

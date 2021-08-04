@@ -15,6 +15,9 @@ https://jsisweird.com/
 https://2ality.com/2021/06/temporal-api.html
 * https://news.ycombinator.com/item?id=27661667
 
+https://www.smashingmagazine.com/2021/08/build-resilient-javascript-ui/
+* https://news.ycombinator.com/item?id=28060029
+
 # Frameworks
 ## VueJS
 https://vuejs.org/
@@ -25,6 +28,9 @@ https://github.com/vuejs/petite-vue
 
 https://www.naiveui.com/en-US/os-theme
 * https://news.ycombinator.com/item?id=27903639
+
+https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/
+* https://news.ycombinator.com/item?id=28042766
 
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
@@ -68,6 +74,8 @@ https://acko.net/blog/live-headless-react/
  * https://reactjs.org/docs/codebase-overview.html#renderers
    
 https://www.julian.io/articles/react-tracked.html
+
+https://mmazzarolo.com/blog/2021-07-31-react-native-responsive-scaling-on-the-web/
    
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
@@ -89,6 +97,10 @@ https://geoffrich.net/posts/svelte-tower-of-hanoi/
 
 https://elderguide.com/tech/elderjs/
 * https://news.ycombinator.com/item?id=27152785
+
+# Elm
+https://elm-pages.com/blog/introducing-v2/
+* https://news.ycombinator.com/item?id=28057494
 
 #
 https://www.solidjs.com/

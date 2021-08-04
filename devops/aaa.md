@@ -85,6 +85,8 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://five9sclub.substack.com/p/how-to-explain-devops-to-non-tech
+* https://news.ycombinator.com/item?id=28059162
 https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/VersionHistory/explainer.md
 * https://news.ycombinator.com/item?id=27971502
 https://www.sleuth.io/

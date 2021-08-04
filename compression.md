@@ -20,6 +20,8 @@ https://arxiv.org/abs/1607.04346
 
 https://yupferris.github.io/blog/2021/06/07/pulsejet-sample-compression-codec-for-64k.html
 
+https://developers.google.com/speed/webp/docs/compression
+
 ## Tools
 https://www.7-zip.org/download.html
 

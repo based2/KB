@@ -39,3 +39,6 @@ https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/
 
 https://github.com/dylanaraps/neofetch
 * https://news.ycombinator.com/item?id=27941616
+
+https://www.datagubbe.se/bestofbash/
+* https://news.ycombinator.com/item?id=28033158

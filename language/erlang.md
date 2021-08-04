@@ -57,6 +57,9 @@ https://functional.works-hub.com/learn/elixir-practical-concurrency-3794f
 https://www.poeticoding.com/how-phoenix-liveview-works/
 * https://news.ycombinator.com/item?id=27629016
 
+https://info.codecast.io/blog/how-to-use-phoenix-channels
+* https://news.ycombinator.com/item?id=28061247
+
 # Gleam
 https://gleam.run/
 https://gleam.run/news/gleam-v0.15-released/

@@ -58,6 +58,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://brunodias.dev/2021/03/19/functions-for-system-designers.html
+* https://news.ycombinator.com/item?id=28046130
 https://twitter.com/benskuhn/status/1419281153983500290
 * https://news.ycombinator.com/item?id=27955372
 https://www.math3ma.com/blog/entropy-algebra-topology

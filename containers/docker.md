@@ -27,6 +27,9 @@ https://www.artifakt.com/blog/cloud/documenting-our-migration-to-docker/
 https://github.com/radial
 radial/busyboxplus
 
+https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/
+* https://news.ycombinator.com/item?id=28043198
+
 # Linter
 https://github.com/hadolint/hadolint Haskell
 

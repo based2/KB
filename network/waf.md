@@ -36,6 +36,9 @@ https://relaypro-open.github.io/dog/ Firewall management system
 
 https://docs.vyos.io/en/latest/configexamples/index.html
 
+https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html
+* https://news.ycombinator.com/item?id=28039956
+
 # News
 https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/
 * https://news.ycombinator.com/item?id=27768934

@@ -37,6 +37,8 @@ https://www.globaltimes.cn/page/202107/1227953.shtml
 https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/
 * https://news.ycombinator.com/item?id=27989875
 
+https://www.wired.com/story/a-bizarre-form-of-water-may-exist-all-over-the-universe/
+
 # History
 ## Apollo
 http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html

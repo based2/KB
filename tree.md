@@ -21,3 +21,6 @@ https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-n
 https://blog.opencagedata.com/post/opentrees
 * https://github.com/stevage/opentrees
 * https://news.ycombinator.com/item?id=27626467
+
+## Wood
+https://www.core77.com/posts/36044/The-Kanna-Finish-How-to-Get-Glass-Smooth-Surfaces-in-Wood-Without-Sandpaper-or-Varnish

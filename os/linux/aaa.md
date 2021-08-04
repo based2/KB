@@ -69,6 +69,8 @@ https://wiki.gnome.org/Projects/Mutter
 https://www.enlightenment.org/
 
 # News
+https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html
+* https://news.ycombinator.com/item?id=28053078
 https://github.com/vrmiguel/bustd Available memory or bust!
 https://bootlin.com/blog/how-we-found-that-the-linux-nios2-memset-implementation-had-a-bug/
 https://lwn.net/Articles/863071/ Descriptorless Files for Io_uring

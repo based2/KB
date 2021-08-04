@@ -24,6 +24,8 @@ https://www.rdoproject.org/networking/networking-in-too-much-detail/ openstack c
 
 https://github.com/Nudin/iptable_vis
 
+https://www.nsnam.org/ Discrete-event network simulator for Internet systems
+
 # Investigations
 
 https://blog.ikuamike.io/posts/2021/netcat/

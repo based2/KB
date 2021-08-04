@@ -18,6 +18,9 @@ https://jamiemill.com/blog/elements-of-product-design/
 
 https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/
 
+https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-honest-names/
+* https://news.ycombinator.com/item?id=28063617
+
 # Icon
 https://blog.thenounproject.com/mastering-the-basics-of-icon-design-with-adrien-coquet-9c3802093e30
 * https://news.ycombinator.com/item?id=27903808

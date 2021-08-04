@@ -23,6 +23,8 @@ https://apple.stackexchange.com/questions/259093/can-touch-id-for-the-mac-touch-
 https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/
 * https://news.ycombinator.com/item?id=27492268
 
+https://bryce.co/xcode-vim-map/
+
 # VM
 https://github.com/foxlet/macOS-Simple-KVM
 

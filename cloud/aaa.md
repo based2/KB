@@ -13,6 +13,8 @@ https://cloud.google.com/blog/products/compute/introducing-compute-engine-predic
 * https://news.ycombinator.com/item?id=27719071
 
 # News
+https://www.theverge.com/2021/8/4/22609090/microsoft-365-free-trials-cloud-pcs-demand-trials
+* https://news.ycombinator.com/item?id=28062772
 https://cloud.google.com/vpc/docs/release-notes#July_20_2021
 * https://news.ycombinator.com/item?id=27982431
 https://www.theregister.com/2021/07/27/stolen_scaleway_ssd_recovered/

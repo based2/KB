@@ -36,6 +36,11 @@ https://raw.githubusercontent.com/djoshea/matlab-utils/master/libs/perceptuallyI
 http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
 * https://news.ycombinator.com/item?id=27721094
 
+https://www.colorfonts.wtf/
+
+https://n8d.at/the-numeric-colour-palettes-in-modern-web-frameworks-explained
+* 
+
 # Monochrome
 https://news.ycombinator.com/item?id=26934352
 

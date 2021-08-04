@@ -1,3 +1,16 @@
+https://security.googleblog.com/2021/08/linux-kernel-security-done-right.html
+* https://news.ycombinator.com/item?id=28050846
+
+https://joonas.fi/2021/08/saml-is-insecure-by-design/
+
+https://www.bloomberg.com/news/articles/2021-08-03/chinese-hackers-compromised-telecom-companies-researchers-say
+
+https://arstechnica.com/gadgets/2021/08/how-to-go-from-stolen-pc-to-network-intrusion-in-30-minutes/
+* https://news.ycombinator.com/item?id=28049389
+
+https://github.com/Satsuoni/widevine-l3-guesser
+* https://news.ycombinator.com/item?id=28025758
+
 https://www.cyren.com/f-prot-eol-announcement
 
 https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/
@@ -131,7 +144,10 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
       * https://news.ycombinator.com/item?id=27902544
   * https://github.com/mvt-project/mvt
   * https://www.theguardian.com/technology/2021/jul/24/officials-who-are-us-allies-among-targets-of-nso-malware-says-whatsapp-chief
-  
+  * https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware/
+    * https://news.ycombinator.com/item?id=28026867
+  * https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/
+
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 * https://news.ycombinator.com/item?id=27868487
 

@@ -149,6 +149,9 @@ http://pixelastic.github.io/pokemonorbigdata/
 https://dirtydatagirl.moogle.cc/rf7put/i-might-have-gone-a-little-bit-overboard
 * https://news.ycombinator.com/item?id=27738828
 
+# BI
+https://github.com/mlcraft-io/mlcraft
+
 # CI
 https://hypervector.io/
 
@@ -160,4 +163,6 @@ https://cnr.sh/essays/what-the-heck-data-mesh
 https://frictionlessdata.io/
 
 https://github.com/ExpediaGroup/quibble
+
+https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf
 

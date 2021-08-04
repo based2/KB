@@ -3,3 +3,6 @@ https://ncase.me/rss/
 
 https://feed-me-up-scotty.vincenttunru.com/ css selector
 * https://news.ycombinator.com/item?id=27739568
+
+https://mattmower.com/2021/08/02/what-we-lost/
+* https://news.ycombinator.com/item?id=28036235

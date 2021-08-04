@@ -50,6 +50,10 @@ https://deephn.org/
 # Recommendations
 https://arxiv.org/abs/2105.14134 Netflix
 
+# Autocomplete
+https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/
+* https://news.ycombinator.com/item?id=28051562
+
 # News
 https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAALmyVqo21pZI2E1ggA5awKKUInzQLrUMCEge6rY7I44rTMhV88sw_4YtuJkot6VePt4CkXWhazMyQZ9eAeMzLqhzOdsXi2eUCcpK-qPkgHGsVWLanqA6_39EvPdNABTBzoIk2GpGM_sZOGcUqEeamkSz8-Lj7kaU6wPc73x83atX
 * https://news.ycombinator.com/item?id=27990163

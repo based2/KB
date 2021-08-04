@@ -18,5 +18,7 @@ https://andersource.dev/2021/06/12/image-color-replacement.html
 https://yoga.flozz.org/
 * https://linuxfr.org/news/sortie-de-yoga-image-optimizer-1-0
 
+https://www.w3.org/WAI/tutorials/images/decision-tree/
+
 # Photography
 https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/

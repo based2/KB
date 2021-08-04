@@ -24,6 +24,8 @@ https://tools.ietf.org/html//rfc7493 i-json
 https://golb.hplar.ch/2019/01/js-bigint-json.html
 
 https://programminghistorian.org/en/lessons/json-and-jq
+https://til.simonwillison.net/jq/extracting-objects-recursively
+* https://news.ycombinator.com/item?id=28026712
 
 https://github.com/owasp/json-sanitizer
 
@@ -46,6 +48,10 @@ https://github.com/tomnomnom/gron Make JSON greppable
 https://mgree.github.io/ffs/
 ffs: the file fileystem
 mount semi-structured data (like JSON) as a Unix filesystem
+
+https://gitlab.com/jacob.brazeal/ksonpy KSON: JSON with SQL and Networking
+* https://news.ycombinator.com/item?id=28058096
+
 
 
 

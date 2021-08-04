@@ -73,6 +73,9 @@ https://en.wikipedia.org/wiki/Markdown
 
 https://www.w3.org/Amaya/
 
+https://web.archive.org/web/20140310190221/http://www.sewingandembroiderywarehouse.com/embtrb.htm
+* https://news.ycombinator.com/item?id=28052190
+
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model
 https://domevents.dev/
@@ -103,4 +106,7 @@ https://htmlparser.info/
 
 https://bien.ee/a-contenteditable-pasted-garbage-and-caret-placement-walk-into-a-pub/
 * https://news.ycombinator.com/item?id=27924970
+
+# News
+https://news.ycombinator.com/item?id=28055160
 

@@ -19,3 +19,5 @@ https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/
 * https://easylist.to/easylist/easylist.txt
 * https://easylist.to/easylist/easyprivacy.txt
 * https://github.com/brave/ad-block/blob/master/lists/default.h
+
+https://webkit.org/blog/11940/pcm-click-fraud-prevention-and-attribution-sent-to-advertiser/

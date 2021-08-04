@@ -86,6 +86,9 @@ https://blog.jgc.org/2021/07/receiving-wwvb-time-signal-in-portugal.html
 https://www.pa3fwm.nl/projects/neonclock/
 * https://news.ycombinator.com/item?id=27956488
 
+http://naggum.no/lugm-time.html
+* https://news.ycombinator.com/item?id=28048258
+
 #
 https://en.wikipedia.org/wiki/Time_crystal
 
@@ -94,5 +97,9 @@ https://longtermist.substack.com/p/microcenturies-methuselahs-and-musks
 # Investigation
 https://memgraph.com/blog/overflowing-timeout
 * https://news.ycombinator.com/item?id=27832690
+
+# News
+https://gitlab.com/gpsd/gpsd/-/issues/144 GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)
+* https://news.ycombinator.com/item?id=28041062
 
 

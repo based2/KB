@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1EUw4yMXy2FKYRxdUvh4Rh2Vm2OKWeVut/view
+* https://news.ycombinator.com/item?id=28055554
 
 https://digesttime.com/2021/04/16/nassim-taleb-bitcoin-failed-as-a-currency-and-became-a-speculative-ponzi-scheme/
 * https://news.ycombinator.com/item?id=26840006
