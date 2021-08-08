@@ -42,6 +42,9 @@ https://cdsmithus.medium.com/gibbards-theorem-vs-stable-matching-22b55732ee5e
 https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement/
 * https://news.ycombinator.com/item?id=27390457
 
+https://betterprogramming.pub/10-mistakes-to-avoid-as-a-software-development-manager-84bdf645ed7c
+*
+
 # Estimate
 https://en.wikipedia.org/wiki/Delphi_method
  * https://news.ycombinator.com/item?id=26368011
@@ -59,6 +62,11 @@ https://jacobian.org/2021/may/20/estimation/
 
 https://tomrussell.co.uk/writing/2021/07/19/estimating-large-scale-software-projects.html
 * https://news.ycombinator.com/item?id=27906886
+
+https://www.scalablepath.com/blog/software-project-estimation/
+
+https://estinator.dk/
+* https://news.ycombinator.com/item?id=28104934
 
 # Decision
 https://jacobian.org/2021/jan/30/soccr/

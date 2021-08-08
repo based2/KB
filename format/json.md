@@ -52,6 +52,9 @@ mount semi-structured data (like JSON) as a Unix filesystem
 https://gitlab.com/jacob.brazeal/ksonpy KSON: JSON with SQL and Networking
 * https://news.ycombinator.com/item?id=28058096
 
+https://kristiandupont.medium.com/testing-3rd-party-api-access-b2808494ccd
+* https://news.ycombinator.com/item?id=28104901
+
 
 
 

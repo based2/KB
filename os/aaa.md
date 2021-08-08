@@ -13,6 +13,9 @@ https://andrewharvey4.wordpress.com/2010/07/31/operating-systems-notes/
 #
 https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 
+
+https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
+
 # News
 https://newsroom.ibm.com/2021-07-27-Announcing-IBM-z-OS-V2-5,-Next-Gen-Operating-System-Designed-for-Hybrid-Cloud-and-AI
 * https://news.ycombinator.com/item?id=27971688

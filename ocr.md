@@ -7,6 +7,9 @@ https://github.com/JaidedAI/EasyOCR
   * https://tesseract.projectnaptha.com/
   * https://news.ycombinator.com/item?id=27876383
 
+https://tesseract.projectnaptha.com/
+* https://news.ycombinator.com/item?id=28105850
+
 https://ian-nai.github.io/In-Browser-OCR/
 * https://news.ycombinator.com/item?id=28015442
 

@@ -45,6 +45,9 @@ https://peter.website/meow-hash-cryptanalysis
 https://github.com/kpdemetriou/fuuid
 * https://news.ycombinator.com/item?id=27030088
 
+https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format
+* https://news.ycombinator.com/item?id=28088213
+
 #
 https://cybergibbons.com/security-2/what3words-the-algorithm/
 * https://news.ycombinator.com/item?id=27015046
@@ -54,4 +57,8 @@ https://github.com/Clivern/Bucket Consistent Hashing Package for Scalable Data D
 
 https://francoisbest.com/posts/2021/hashvatars
 * https://news.ycombinator.com/item?id=27534379
+
+# News
+https://rentafounder.com/the-problem-with-perceptual-hashes/
+* https://news.ycombinator.com/item?id=28091750
 

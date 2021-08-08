@@ -53,6 +53,8 @@ https://prestigemad.com/#!/doc/browser/master
 https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt
 * https://news.ycombinator.com/item?id=27174348
 
+https://portswigger.net/research/http2
+
 # HTTP/3
 https://blog.cloudflare.com/http3-the-past-present-and-future/
 https://blog.eban.bzh/misc/http3.html

@@ -76,6 +76,9 @@ https://www.w3.org/Amaya/
 https://web.archive.org/web/20140310190221/http://www.sewingandembroiderywarehouse.com/embtrb.htm
 * https://news.ycombinator.com/item?id=28052190
 
+https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/
+* https://news.ycombinator.com/item?id=28107364
+
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model
 https://domevents.dev/

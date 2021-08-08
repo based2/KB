@@ -148,6 +148,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://martinheinz.dev/blog/54
+* https://news.ycombinator.com/item?id=28104674
+https://linuxfr.org/news/python-3-10-est-disponible
 https://www.dallasnews.com/business/local-companies/2021/07/29/texas-instruments-new-calculator-incorporates-popular-python-programming-language/
 * https://news.ycombinator.com/item?id=28014229
 https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/

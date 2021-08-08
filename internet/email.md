@@ -15,6 +15,9 @@ https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/
 https://maddy.email/
 * https://news.ycombinator.com/item?id=27557542
 
+https://jessicastokes.net/blog/2021/06/10/unlocking-pinkrabbit/
+* https://news.ycombinator.com/item?id=28104590
+
 # Test
 https://github.com/reacherhq/check-if-email-exists
 * https://news.ycombinator.com/item?id=27705742

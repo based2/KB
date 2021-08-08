@@ -26,6 +26,9 @@ https://github.com/LingDong-/legumes A sheet music to polylines renderer
 https://ianring.com/musictheory/scales/
 * https://news.ycombinator.com/item?id=27694827
 
+https://v5.chriskrycho.com/journal/musicxml-and-percussion-redux/
+* https://news.ycombinator.com/item?id=28106459
+
 # Western Theory
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 * https://news.ycombinator.com/item?id=26859907

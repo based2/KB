@@ -43,6 +43,9 @@ https://github.com/jayphelps/git-blame-someone-else
 https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/
 * https://news.ycombinator.com/item?id=28024972
 
+https://blog.sulami.xyz/posts/cleaning-up-git-history/
+* https://news.ycombinator.com/item?id=28106981
+
 # Books
 https://git-scm.com/book/en/v2
 

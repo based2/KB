@@ -43,6 +43,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.nature.com/articles/s41558-021-01097-4
+* https://news.ycombinator.com/item?id=28078575
 http://berkeleyearth.org/june-2021-temperature-update/
 * https://news.slashdot.org/story/21/07/30/2121220/june-heatwave-was-the-most-extreme-on-record-for-north-america
 https://www.nature.com/articles/s41467-021-24487-w

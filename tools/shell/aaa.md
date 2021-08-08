@@ -30,5 +30,10 @@ https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf
 https://github.com/nushell/nushell
 * https://news.ycombinator.com/item?id=27525031
 
+https://matklad.github.io//2021/07/30/shell-injection.html
+* https://news.ycombinator.com/item?id=28105100
+
 # News
+http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-shell/
+* https://news.ycombinator.com/item?id=28104657
 https://github.com/fish-shell/fish-shell/releases/tag/3.3.0

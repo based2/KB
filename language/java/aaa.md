@@ -196,6 +196,7 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://openjdk.java.net/groups/vulnerability/advisories/2021-07-20
 https://blog.adoptium.net/2021/08/adoptium-celebrates-first-release/
 http://hirt.se/blog/?p=1320 JMC (Java Mission Control) on Maven Central
 https://mail.openjdk.java.net/pipermail/discuss/2021-July/005862.html Coordinated Restore at Checkpoint - state

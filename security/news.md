@@ -1,7 +1,21 @@
+https://www.openwall.com/lists/oss-security/2021/08/07/1 lynx
+* https://news.ycombinator.com/item?id=28099264
+
+https://www.apple.com/child-safety/pdf/Apple_PSI_System_Security_Protocol_and_Analysis.pdf
+* https://news.ycombinator.com/item?id=28097683
+
+https://blogs.juniper.net/en-us/security/freshly-disclosed-vulnerability-cve-2021-20090-exploited-in-the-wild wireless router authentication bypass.
+* https://news.ycombinator.com/item?id=28106346
+
+https://pwning.systems/posts/sequoia-variant-analysis/
+* 
+
 https://security.googleblog.com/2021/08/linux-kernel-security-done-right.html
 * https://news.ycombinator.com/item?id=28050846
 
 https://joonas.fi/2021/08/saml-is-insecure-by-design/
+* https://www.reddit.com/r/netsec/comments/oxo6yb/saml_is_insecure_by_design/
+* https://news.ycombinator.com/item?id=28064835
 
 https://www.bloomberg.com/news/articles/2021-08-03/chinese-hackers-compromised-telecom-companies-researchers-say
 

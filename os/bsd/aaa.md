@@ -29,6 +29,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 * https://news.ycombinator.com/item?id=27191908
 
 # News
+http://airyx.org/
+* https://news.ycombinator.com/item?id=28068542
 https://cgit.freebsd.org/src/commit/?id=a40cf4175c90142442d0c6515f6c83956336699b
 * https://news.ycombinator.com/item?id=27917230
 https://jcs.org/2021/07/19/desktop

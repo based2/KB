@@ -29,6 +29,8 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+http://www.charlespetzold.com/blog/2021/08/Screw-You-Microsoft-Edge.html
+* https://news.ycombinator.com/item?id=28108409
 https://news.ycombinator.com/item?id=28038560
 * 
 https://speedtestdemon.com/the-next-big-thing-mighty-app-the-internet-vip-pass-insane-performance-gains-are-coming/

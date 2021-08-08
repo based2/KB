@@ -26,6 +26,10 @@ https://timeenna.com/
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 
+# Sync
+https://signalsandthreads.com/clock-synchronization/
+* https://news.ycombinator.com/item?id=28108586
+
 # Calendar
 https://dzone.com/articles/java-holiday-calendar-2016-day-16-hacking-the-exis
 
@@ -37,7 +41,10 @@ https://github.com/clulab/timenorm
 https://prabros.com/readings-on-time Alan Key
 
 https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a
-* 
+
+
+https://www.nirsoft.net/utils/run_as_date.html
+* https://news.ycombinator.com/item?id=28106793
 
 #
 

@@ -36,6 +36,8 @@ http://algorithmicbotany.org/virtual_laboratory/
 * https://news.ycombinator.com/item?id=27917432
 
 # News
+https://thedailywtf.com/articles/a-bit-overcomplicated
+* https://news.ycombinator.com/item?id=28072477
 https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge
 * https://news.ycombinator.com/item?id=28010077
 

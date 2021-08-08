@@ -47,6 +47,9 @@ https://blog.crunchydata.com/blog/generating-json-directly-from-postgres
 https://www.cybertec-postgresql.com/en/postgresql-limit-vs-fetch-first-rows-with-ties/
 * https://news.ycombinator.com/item?id=27845360
 
+https://blog.jonudell.net/2021/07/27/working-with-postgres-types/
+* https://news.ycombinator.com/item?id=28095264
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
@@ -117,6 +120,10 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 https://github.com/jie123108/imgsmlr-server
 
 # News
+https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/
+* https://news.ycombinator.com/item?id=28075774
+https://drewdevault.com/2021/08/05/In-praise-of-Postgres.html
+* https://news.ycombinator.com/item?id=28075204
 https://incident.io/blog/one-two-skip-a-few Postgres sequences can skip 32 unexpectedly
 * https://news.ycombinator.com/item?id=27843084
 https://www.channable.com/tech/dbcritic-constructively-criticizing-your-postgres-schema

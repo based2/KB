@@ -39,12 +39,18 @@ https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/
 
 https://www.wired.com/story/a-bizarre-form-of-water-may-exist-all-over-the-universe/
 
+###
+https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/
+*
+
 # History
 ## Apollo
 http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/
+* https://news.ycombinator.com/item?id=28098853
 https://www.orbiter-forum.com/threads/orbiter-is-now-open-source.40023/
 * https://news.ycombinator.com/item?id=27982671
 https://ir.lawnet.fordham.edu/cgi/viewcontent.cgi?article=2327&context=ilj The Prospector’s Guide to the Galaxy

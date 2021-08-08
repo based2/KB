@@ -38,5 +38,6 @@ https://nigeltao.github.io/blog/2021/custom-ebpf-helpers.html
 https://bitcoind.observer/d/IAeYpfWnz/home?orgId=1&refresh=30s&sr=hn`
 
 https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
+* https://news.ycombinator.com/item?id=28106901
 
 https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/

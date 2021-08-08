@@ -68,6 +68,10 @@ https://github.com/google/fully-homomorphic-encryption
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 
+
+https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
+* https://news.ycombinator.com/item?id=28103734
+
 # News
 https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.0.0
 * https://news.ycombinator.com/item?id=27959029

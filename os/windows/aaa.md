@@ -60,6 +60,10 @@ https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20M
 
 https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation
 
+
+https://github.com/VSCodium/vscodium
+* https://github.com/VSCodium/vscodium/issues/418
+
 ## Find file
        where /r .\ file_to_find.md
 

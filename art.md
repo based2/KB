@@ -35,3 +35,6 @@ https://www.instructables.com/Easily-Build-a-MACHINE-THAT-DESTROYS-WHAT-IT-CREAT
 https://david.li/paint/
 * https://news.ycombinator.com/item?id=27577460
 
+# News
+https://www.ai-darobot.com/
+

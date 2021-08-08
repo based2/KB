@@ -12,6 +12,9 @@ https://monadical.com/posts/cobol.html#
 
 https://www.theregister.com/2021/04/07/ibm_cobol_x86_linux/
 
+https://arxiv.org/abs/2105.01830
+* https://news.ycombinator.com/item?id=28071096
+
 https://gnucobol.sourceforge.io/
 * https://news.ycombinator.com/item?id=26734721
 
@@ -110,6 +113,8 @@ http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
 
 # News
+http://craftinginterpreters.com/
+
 https://github.com/morloc-project/morloc
 * https://news.ycombinator.com/item?id=27994866
 https://buttondown.email/hillelwayne/archive/i-ing-hate-science/

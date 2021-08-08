@@ -5,6 +5,9 @@ http://ifconfig.co/
 
 https://daniel.haxx.se/blog/2021/04/19/curl-those-funny-ipv4-addresses/
 
+https://blog.apnic.net/2019/08/23/what-can-you-learn-from-an-ip-address/
+* https://news.ycombinator.com/item?id=28103770
+
 # IPv6
 https://www.potaroo.net/ispcol/2021-04/v6frag.html
 https://news.ycombinator.com/item?id=26913100
