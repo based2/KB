@@ -106,6 +106,9 @@ https://memgraph.com/blog/overflowing-timeout
 * https://news.ycombinator.com/item?id=27832690
 
 # News
+https://techcrunch.com/2021/08/11/facebook-engineers-develop-new-open-source-time-keeping-appliance/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAJZCcV2g32fzPdzYIPrAfElKT87Nfujmr0IsQWU0tF2-KN3pL_ASZDkyBYOzqff0vS4ZIvq_EM3wEKbrk_F_dZ6L5mqg2HsOvjcaTtrxVfzDnkV0Jj9uUKBg2KmBFd7_10EC8sP1JWHTn-65lPJaVd2gSkBao69hEAxFPO36RC7a
+* https://engineering.fb.com/2021/08/11/open-source/time-appliance/
+  * https://news.ycombinator.com/item?id=28140732
 https://gitlab.com/gpsd/gpsd/-/issues/144 GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)
 * https://news.ycombinator.com/item?id=28041062
 

@@ -23,6 +23,9 @@ https://haxe.org/
 https://plzoo.andrej.com/
 * https://news.ycombinator.com/item?id=27024804
 
+https://dockyard.com/blog/2021/08/10/what-if-coboltoelixir
+* https://news.ycombinator.com/item?id=28141289
+
 # EL
 https://news.ycombinator.com/item?id=26983530
 

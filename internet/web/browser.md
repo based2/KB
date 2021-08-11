@@ -29,6 +29,8 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-enhanced-cookie-clearing/
+* https://news.ycombinator.com/item?id=28129032
 http://www.charlespetzold.com/blog/2021/08/Screw-You-Microsoft-Edge.html
 * https://news.ycombinator.com/item?id=28108409
 https://news.ycombinator.com/item?id=28038560

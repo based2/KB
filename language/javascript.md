@@ -32,6 +32,9 @@ https://www.naiveui.com/en-US/os-theme
 https://lists.wikimedia.org/hyperkitty/list/wikitech-l@lists.wikimedia.org/thread/SOZREBYR36PUNFZXMIUBVAIOQI4N7PDU/
 * https://news.ycombinator.com/item?id=28042766
 
+https://blog.vuejs.org/posts/vue-3.2.html
+* https://news.ycombinator.com/item?id=28124676
+
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 

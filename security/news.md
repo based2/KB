@@ -1,3 +1,14 @@
+https://www.sigstore.dev/
+* https://news.ycombinator.com/item?id=28121060
+
+https://www.schneier.com/blog/archives/2019/12/scaring_people_.html
+
+https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/
+* https://news.ycombinator.com/item?id=28127098
+
+https://security.googleblog.com/2021/08/allstar-continuous-security-policy.html
+* https://news.ycombinator.com/item?id=28141500
+
 https://www.openwall.com/lists/oss-security/2021/08/07/1 lynx
 * https://news.ycombinator.com/item?id=28099264
 

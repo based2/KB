@@ -196,6 +196,9 @@ https://github.com/crev-dev/
 
 https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/
 
+https://serokell.io/blog/rust-in-production-qovery
+* https://news.ycombinator.com/item?id=28129159
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 * https://news.ycombinator.com/item?id=27589010

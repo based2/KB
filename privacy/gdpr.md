@@ -51,6 +51,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://noyb.eu/en/noyb-files-422-formal-gdpr-complaints-nerve-wrecking-cookie-banners
+* https://news.ycombinator.com/item?id=28133329
 https://noyb.eu/en/irish-dpc-handles-9993-gdpr-complaints-without-decision
 https://www.avg.com/en-us/products-policy#antivirus0
 * https://news.ycombinator.com/item?id=27334548

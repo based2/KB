@@ -148,6 +148,10 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://lona-web.org/
+* https://news.ycombinator.com/item?id=28128445
+https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch
+* https://news.ycombinator.com/item?id=28142002
 https://martinheinz.dev/blog/54
 * https://news.ycombinator.com/item?id=28104674
 https://linuxfr.org/news/python-3-10-est-disponible

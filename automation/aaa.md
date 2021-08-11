@@ -18,3 +18,6 @@ https://github.com/ToolJet/ToolJet
 # Validation
 https://cuelang.org/docs/about/
 * https://news.ycombinator.com/item?id=27510919
+
+# Neqs
+https://posthog.com/blog/automating-a-software-company-with-github-actions

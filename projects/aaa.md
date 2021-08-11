@@ -120,6 +120,12 @@ https://holub.com/heuristics-for-effective-software-development-a-continuously-e
 https://github.com/syncfast/clockwise
 * https://www.reddit.com/r/programming/comments/ot9j79/clockwise_a_meeting_cost_calculator_designed_to/
 
+https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9
+* https://news.ycombinator.com/item?id=28144163
+
+https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management
+* https://news.ycombinator.com/item?id=28119025
+
 # Musics for programming
 https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887

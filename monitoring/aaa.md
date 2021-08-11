@@ -56,6 +56,7 @@ https://goaccess.io/
 * https://news.ycombinator.com/item?id=28012307
 
 # News
+https://semiengineering.com/who-owns-in-chip-monitoring-data/
 https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html
 * https://news.ycombinator.com/item?id=27738312
 https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/

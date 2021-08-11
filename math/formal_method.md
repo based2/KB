@@ -38,6 +38,8 @@ https://github.com/stateright/stateright
 http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties
 
 # News
+https://github.com/uwu-tech/kind
+* https://news.ycombinator.com/item?id=28141365
 https://arxiv.org/abs/1810.04314 The Fundamental Theorem of Algebra in ACL2
 * https://news.ycombinator.com/item?id=27989162
 https://kookamara.com/jared/dissertation.pdf A Self-Verifying Theorem Prover

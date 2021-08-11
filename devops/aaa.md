@@ -85,6 +85,9 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://blog.cedriccharly.com/post/20210523-how-cue-wins/
+https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/
+* https://news.ycombinator.com/item?id=28137852
 https://five9sclub.substack.com/p/how-to-explain-devops-to-non-tech
 * https://news.ycombinator.com/item?id=28059162
 https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/VersionHistory/explainer.md

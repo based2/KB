@@ -12,7 +12,15 @@ https://thenewstack.io/an-architects-guide-to-multicloud/
 https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling
 * https://news.ycombinator.com/item?id=27719071
 
+
+https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol 2019
+https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
+
 # News
+https://www.bbva.com/en/economics-of-serverless/
+https://tech.marksblogg.com/minio-aws-s3-hdfs.html
+* https://news.ycombinator.com/item?id=28128476
+https://engineering.mixpanel.com/saving-30000-a-month-by-improving-garbage-collection-c5b793bbb07d
 https://www.theverge.com/2021/8/4/22609090/microsoft-365-free-trials-cloud-pcs-demand-trials
 * https://news.ycombinator.com/item?id=28062772
 https://cloud.google.com/vpc/docs/release-notes#July_20_2021

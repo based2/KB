@@ -166,3 +166,10 @@ https://github.com/ExpediaGroup/quibble
 
 https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf
 
+
+https://www.micahlerner.com/2021/08/07/posh-a-data-aware-shell.html
+* https://news.ycombinator.com/item?id=28108347
+
+https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
+* https://news.ycombinator.com/item?id=28128360
+

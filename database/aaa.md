@@ -42,7 +42,13 @@ https://samsaffron.com/archive/2018/03/22/managing-db-schema-changes-without-dow
 https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 * https://news.ycombinator.com/item?id=27736713
 
+# Entity Resolution
+https://blog.acolyer.org/2020/12/14/entity-resolution/
+* https://news.ycombinator.com/item?id=28127650
+
 # News
+https://github.com/jepsen-io/elle
+* https://news.ycombinator.com/item?id=28113901
 https://timharford.com/2021/07/the-tyranny-of-spreadsheets/
 * https://news.ycombinator.com/item?id=27923998
 https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/

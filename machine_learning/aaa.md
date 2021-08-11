@@ -100,6 +100,8 @@ https://copilot.github.com/
     * https://news.ycombinator.com/item?id=27846324
 * https://www.fsf.org/blogs/licensing/fsf-funded-call-for-white-papers-on-philosophical-and-legal-questions-around-copilot
   * https://news.ycombinator.com/item?id=27998109
+  * https://openai.com/blog/openai-codex/
+    * https://news.ycombinator.com/item?id=28131745
 
 https://visualstudio.microsoft.com/fr/services/intellicode/
 

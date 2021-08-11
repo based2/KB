@@ -50,6 +50,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://blog.elementary.io/elementary-os-6-odin-released/
+* https://news.ycombinator.com/item?id=28130560
 https://grahamc.com/blog/nixos-on-framework
 https://kisslinux.org/
 * https://news.ycombinator.com/item?id=27945792
