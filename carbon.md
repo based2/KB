@@ -43,6 +43,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K
+* https://news.ycombinator.com/item?id=28211826
 https://arstechnica.com/science/2021/08/most-of-the-power-sectors-emissions-come-from-a-small-minority-of-plants/
 https://www.nature.com/articles/s41558-021-01097-4
 * https://news.ycombinator.com/item?id=28078575

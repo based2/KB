@@ -15,6 +15,12 @@ https://osgameclones.com/
 https://en.wikipedia.org/wiki/Bob%27s_Game#
 * https://news.ycombinator.com/item?id=27682733
 
+https://endless-sky.github.io/
+* https://news.ycombinator.com/item?id=28203940
+
+https://www.widelands.org/
+* https://news.ycombinator.com/item?id=28196178
+
 # Emulator
 https://www.scummvm.org/
 

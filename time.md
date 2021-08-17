@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=26620738
 https://signalsandthreads.com/clock-synchronization/
 * https://news.ycombinator.com/item?id=28108586
 
+https://www.usenix.org/system/files/osdi20-li_yuliang.pdf
+
 # Calendar
 https://dzone.com/articles/java-holiday-calendar-2016-day-16-hacking-the-exis
 
@@ -73,6 +75,9 @@ https://wickstrom.tech/programming/2021/05/03/specifying-state-machines-with-tem
 http://messymatters.com/tagtime/
 * https://github.com/tagtime/TagTime
 
+https://www.fabiensanglard.net/timer_and_framerate/index.php
+* https://news.ycombinator.com/item?id=28207871
+
 # Clock
 https://www.world-archaeology.com/features/the-antikythera-mechanism/
 * https://news.ycombinator.com/item?id=27934684
@@ -106,6 +111,7 @@ https://memgraph.com/blog/overflowing-timeout
 * https://news.ycombinator.com/item?id=27832690
 
 # News
+https://www.reddit.com/r/scala/comments/p1xps0/scalqa_perfect_time_library/
 https://techcrunch.com/2021/08/11/facebook-engineers-develop-new-open-source-time-keeping-appliance/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAJZCcV2g32fzPdzYIPrAfElKT87Nfujmr0IsQWU0tF2-KN3pL_ASZDkyBYOzqff0vS4ZIvq_EM3wEKbrk_F_dZ6L5mqg2HsOvjcaTtrxVfzDnkV0Jj9uUKBg2KmBFd7_10EC8sP1JWHTn-65lPJaVd2gSkBao69hEAxFPO36RC7a
 * https://engineering.fb.com/2021/08/11/open-source/time-appliance/
   * https://news.ycombinator.com/item?id=28140732

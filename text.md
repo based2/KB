@@ -73,3 +73,7 @@ https://twitter.com/dm_0ney/status/1414742742530498566
   
 #
 http://transcultura.org/?q=node%2F8
+
+
+https://opus.nlpl.eu/
+* https://news.ycombinator.com/item?id=28179877

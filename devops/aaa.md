@@ -51,7 +51,7 @@ https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/
 
 https://www.usenix.org/publications/loginonline/low-context-devops
 
-# Version
+# Versioning
 https://semver.org/lang/
 
 https://csemver.org/
@@ -59,6 +59,9 @@ https://csemver.org/
 https://calver.org/
 
 https://lumosql.org/src/not-forking/doc/trunk/README.md
+
+https://0ver.org/
+* https://news.ycombinator.com/item?id=28154187
 
 # CI
 

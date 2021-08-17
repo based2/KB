@@ -5,3 +5,7 @@ https://www.quantamagazine.org/first-time-crystal-built-using-googles-quantum-co
 * https://news.ycombinator.com/item?id=28008202
 
 https://soundcloud.com/xavieruniversitylibrary/sets/conference-on-the-foundations
+
+https://ai.googleblog.com/2021/08/demonstrating-fundamentals-of-quantum.html
+
+https://en.wikipedia.org/wiki/Toffoli_gate

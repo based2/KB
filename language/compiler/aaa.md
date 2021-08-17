@@ -1,5 +1,8 @@
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
+https://briancallahan.net/blog/20210816.html
+* https://news.ycombinator.com/item?id=28197876
+
 https://paweldziepak.dev/2019/06/21/avoiding-icache-misses/
 
 https://softwareengineering.stackexchange.com/questions/184874/is-ken-thompsons-compiler-hack-still-a-threat
@@ -65,6 +68,8 @@ https://cvw.cac.cornell.edu/vector/default
 * https://news.ycombinator.com/item?id=27900592
 
 # News
+https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html
+* https://news.ycombinator.com/item?id=28140800
 https://www.bitsnbites.eu/mrisc32-stabilizing-the-base-architecture/
 https://www.phoronix.com/scan.php?page=news_item&px=Loongson-3A5000-Benchmark LoongArch ISA
 https://www.i-programmer.info/news/99-professional/14539-acm-breakthrough-award-for-jit-compilation.html

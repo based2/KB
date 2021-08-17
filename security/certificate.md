@@ -14,7 +14,9 @@ https://github.com/FiloSottile/mkcert
 
 https://certificate.transparency.dev/
 * https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/
- * https://news.ycombinator.com/item?id=27728287
+* https://news.ycombinator.com/item?id=27728287
+
+https://medium.com/cali-dog-security/introducing-certstream-3fc13bb98067
 
 # Health
 https://github.com/admin-ch/CovidCertificate-Documents

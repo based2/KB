@@ -1,3 +1,28 @@
+https://techcrunch.com/2021/08/17/stop-using-zoom-hamburgs-dpa-warns-state-government/
+* https://news.ycombinator.com/item?id=28210076
+
+https://github.com/SalusaSecondus/CryptoGotchas
+
+https://www.openwall.com/yescrypt/
+* https://news.ycombinator.com/item?id=28181350
+
+https://www.apple.com/child-safety/pdf/Security_Threat_Model_Review_of_Apple_Child_Safety_Features.pdf
+* https://news.ycombinator.com/item?id=28173134
+
+https://tidbits.com/2021/08/11/apple-ships-mysterious-macos-11-5-2-update/
+
+https://sendgrid.com/blog/dmarc-monitoring/
+
+https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html
+* https://news.ycombinator.com/item?id=28152336
+
+https://threatpost.com/microsoft-unpatched-printnightmare-zero-day/168613/
+
+https://arxiv.org/abs/2108.04575
+* https://news.ycombinator.com/item?id=28153523
+
+http://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html
+
 https://www.sigstore.dev/
 * https://news.ycombinator.com/item?id=28121060
 

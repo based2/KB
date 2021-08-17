@@ -78,6 +78,8 @@ https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
 https://news.ycombinator.com/item?id=27650775
 
 # News
+https://www.micahlerner.com/2021/08/15/a-linux-kernel-implementation-of-the-homa-transport-protocol.html
+* https://news.ycombinator.com/item?id=28204808
 https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/
 * https://news.ycombinator.com/item?id=28001746
   * https://tmuxp.git-pull.com/

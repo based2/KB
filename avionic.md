@@ -9,3 +9,6 @@ https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plas
   
 # Drone
 https://faadronezone.faa.gov/#/
+
+#
+https://en.wikipedia.org/wiki/Coand%C4%83_effect

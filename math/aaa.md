@@ -53,11 +53,17 @@ http://math.andrej.com/2008/02/06/representations-of-uncomputable-and-uncountabl
 http://xperimex.com/blog/steiners-porism/
 * https://news.ycombinator.com/item?id=27741940
 
+https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html
+* https://news.ycombinator.com/item?id=28204040
+https://www.igalia.com/2021/08/09/MathML-Progress.html
+* https://news.ycombinator.com/item?id=28154331
 https://brunodias.dev/2021/03/19/functions-for-system-designers.html
 * https://news.ycombinator.com/item?id=28046130
 https://twitter.com/benskuhn/status/1419281153983500290

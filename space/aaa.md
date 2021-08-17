@@ -35,6 +35,8 @@ https://www.globaltimes.cn/page/202107/1227953.shtml
 ## Astronomy
 ### Asteroid
 https://www.nasa.gov/press-release/nasa-invites-media-to-new-osiris-rex-asteroid-bennu-study-briefing
+* https://www.nasa.gov/feature/nasas-tour-of-asteroid-bennu-selected-for-prestigious-computer-graphics-film-festival
+  * https://news.ycombinator.com/item?id=28127565
 
 ### Black hole
 https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/
@@ -45,6 +47,9 @@ https://www.wired.com/story/a-bizarre-form-of-water-may-exist-all-over-the-unive
 ###
 https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/
 *
+
+https://www.techradar.com/news/supernova-shoots-a-dying-star-made-of-metal-out-of-milky-way-at-2-million-mph
+* https://news.ycombinator.com/item?id=28204986
 
 https://ui.adsabs.harvard.edu/abs/2001Ap%26SS.275..349K/abstract
 * https://news.ycombinator.com/item?id=28131664

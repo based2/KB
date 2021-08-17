@@ -182,6 +182,8 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://github.blog/2021-08-16-highlights-from-git-2-33/ merge-ort: a new merge strategy
+* https://news.ycombinator.com/item?id=28207168
 https://felipec.wordpress.com/2021/07/05/git-update/
 * https://news.ycombinator.com/item?id=27741204
   * https://github.com/felipec/git

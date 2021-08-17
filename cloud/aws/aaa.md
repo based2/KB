@@ -13,3 +13,7 @@ https://aws.amazon.com/fr/about-aws/whats-new/2021/07/aws-allows-customers-pay-t
 
 https://expeditedsecurity.com/aws-in-plain-english/
 * https://news.ycombinator.com/item?id=27948209
+
+
+https://aws.amazon.com/fr/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/
+* https://news.ycombinator.com/item?id=28190608

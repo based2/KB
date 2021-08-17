@@ -59,6 +59,8 @@ https://francoisbest.com/posts/2021/hashvatars
 * https://news.ycombinator.com/item?id=27534379
 
 # News
+http://jonkagstrom.com/bit-mixer-construction/
+* https://news.ycombinator.com/item?id=28178106
 https://rentafounder.com/the-problem-with-perceptual-hashes/
 * https://news.ycombinator.com/item?id=28091750
 

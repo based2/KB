@@ -55,6 +55,12 @@ https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html
 
 https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2021-07-17-liblattutil/article.md
 
+
+https://github.com/jlongster/absurd-sql
+* https://news.ycombinator.com/item?id=28157179
+  * https://jlongster.com/future-sql-web
+    * https://news.ycombinator.com/item?id=28156831 
+
 # Dataset
 http://2016.padjo.org/tutorials/sqlite-data-starterpacks/
 * https://news.ycombinator.com/item?id=27324669

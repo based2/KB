@@ -35,6 +35,8 @@ https://thehistoryoftheweb.com/timeline/?date_from=1989&date_to=1994
 
 https://news.ycombinator.com/item?id=28008606 Why didn't the early web support more client side languages?
 
+https://webdevelopmenthistory.com/1997-netscape-crossware-vs-the-windows-web/
+
 # News
 https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/
 * https://news.ycombinator.com/item?id=27914848

@@ -60,6 +60,9 @@ https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/
 https://whatmusicreallyis.com/research/harmonicomb/
 * https://news.ycombinator.com/item?id=27588673
 
+https://alda.io/tutorial/
+* https://news.ycombinator.com/item?id=28198641
+
 # Instrument
 https://www.pianobook.co.uk/
 * https://news.ycombinator.com/item?id=27454717

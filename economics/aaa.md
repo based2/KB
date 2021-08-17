@@ -20,6 +20,8 @@ https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mulla
 https://vitalik.ca/general/2021/07/29/gini.html
 * https://news.ycombinator.com/item?id=28003453
 
+https://en.wikipedia.org/wiki/Ideal_money
+
 # Bank
 https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf
 * https://news.ycombinator.com/item?id=27419984

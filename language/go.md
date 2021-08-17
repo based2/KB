@@ -27,6 +27,8 @@ https://qvault.io/golang/json-golang/
 
 https://github.com/SaiNageswarS/go-api-boot
 
+https://bitfieldconsulting.com/golang/tao-of-go
+
 # UI
 https://www.vugu.org/
 * https://news.ycombinator.com/item?id=26836366

@@ -39,6 +39,10 @@ http://algorithmicbotany.org/virtual_laboratory/
 * https://news.ycombinator.com/item?id=27917432
 
 # News
+https://mazzo.li/posts/vectorized-atan2.html
+* https://news.ycombinator.com/item?id=28209097
+https://dawn.cs.stanford.edu//2018/01/11/index-baselines/ 
+* https://news.ycombinator.com/item?id=28195439
 https://thedailywtf.com/articles/a-bit-overcomplicated
 * https://news.ycombinator.com/item?id=28072477
 https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge

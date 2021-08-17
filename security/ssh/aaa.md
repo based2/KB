@@ -74,6 +74,10 @@ https://en.wikipedia.org/wiki/SSHFP_record
 https://blog.g3rt.nl/upgrade-your-ssh-keys.html
 https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHAndSHA1Deprecation
 
+# Alt
+https://mosh.org/
+* https://news.ycombinator.com/item?id=28150287
+
 # News
 https://github.com/cy384/ssheven SSH client for Mac OS 7/8/9.
 * https://news.ycombinator.com/item?id=28021434

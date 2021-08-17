@@ -68,6 +68,7 @@ https://twitter.com/vponamariov/status/1421014957110579203
 * https://news.ycombinator.com/item?id=28006728
 
 # News
+https://web.dev/building-a-switch-component/
 https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z2ZAGQBHuJ2u9WrtAQHAEHcCZTtqpsGkAsrD1&stackedNotes=z6UDDkom8Aifg6mLdjT1sPtbMBweCmpyTwmJT&stackedNotes=z3SjnvsB5aR2ddsycyXofbYR7fCxo7RmKW2be&stackedNotes=z6M8kex6kDF2FT6MWqAMDQddsqUr8sphLmyy1&stackedNotes=zg3fYweZpbHeBTpcYke5mF4ZfrJutYcQEtFo&stackedNotes=z6GNVv6RyFDewy11ZgXzce8agWxSLwJ6Ub5Rw&stackedNotes=z7kEFe6NfUSgtaDuUjST1oczKKzQQeQWk4Dbc&stackedNotes=z8V2q398qu89vdJ73N2BEYCgevMqux3yxQUAC
 * https://news.ycombinator.com/item?id=28122979
 https://straw.page/start

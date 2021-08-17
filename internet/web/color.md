@@ -39,7 +39,10 @@ http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/
 https://www.colorfonts.wtf/
 
 https://n8d.at/the-numeric-colour-palettes-in-modern-web-frameworks-explained
-* 
+
+
+https://uwdata.github.io/color-naming-in-different-languages/vis/stacked-spectrum.html
+* https://news.ycombinator.com/item?id=28140980
 
 # Monochrome
 https://news.ycombinator.com/item?id=26934352

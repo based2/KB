@@ -60,6 +60,8 @@ http://play.elevatorsaga.com/
 http://web.eecs.umich.edu/~baveja/RLMasses/node2.html
 
 # Meta
+https://www.wired.com/2008/04/ff-wozniak/
+* https://news.ycombinator.com/item?id=28200913
 https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/
 * https://news.ycombinator.com/item?id=27736304
 

@@ -10,3 +10,6 @@ https://kvfrans.com/clipdraw-exploring-text-to-drawing-synthesis/
 https://eulerian.cs.washington.edu/
 
 https://zpdesu.github.io/Barbershop/
+
+https://www.kelei.site/voin/
+* 

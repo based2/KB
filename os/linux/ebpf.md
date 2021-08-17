@@ -41,3 +41,5 @@ https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
 * https://news.ycombinator.com/item?id=28106901
 
 https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/
+
+https://medium.com/walmartglobaltech/introducing-walmarts-l3af-project-how-do-we-use-ebpf-to-provide-network-visibility-in-a-8b9ae4d26200

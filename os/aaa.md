@@ -17,6 +17,8 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+http://serenityos.org/
+* https://news.ycombinator.com/item?id=28206840
 https://newsroom.ibm.com/2021-07-27-Announcing-IBM-z-OS-V2-5,-Next-Gen-Operating-System-Designed-for-Hybrid-Cloud-and-AI
 * https://news.ycombinator.com/item?id=27971688
 https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/

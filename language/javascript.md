@@ -79,6 +79,12 @@ https://acko.net/blog/live-headless-react/
 https://www.julian.io/articles/react-tracked.html
 
 https://mmazzarolo.com/blog/2021-07-31-react-native-responsive-scaling-on-the-web/
+
+https://kyleshevlin.com/prefer-declarative-state-updaters
+* https://lobste.rs/s/jt2auz/prefer_declarative_state_updaters
+
+https://github.com/pmndrs/react-three-fiber
+* https://news.ycombinator.com/item?id=28189977
    
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
@@ -227,6 +233,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://imba.io/
+* https://news.ycombinator.com/item?id=28207662
+* https://github.com/imba/imba
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/FinalizationRegistry
 https://consent.youtube.com/m?continue=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyKki3VQgtKM&gl=FR&m=0&pc=yt&uxe=23983172&hl=fr&src=1
 * https://news.ycombinator.com/item?id=27987309

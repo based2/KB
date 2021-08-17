@@ -74,6 +74,8 @@ https://jmap.io/
 https://www.mailoo.org/
 
 # News
+https://www.thunderbird.net/en-US/thunderbird/91.0/releasenotes/
+* https://news.ycombinator.com/item?id=28151942
 https://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html
 https://www.nerd-quickies.net/2020/10/20/microsoft-silently-dropping-emails-a-sad-but-true-story/
 * https://news.ycombinator.com/item?id=27980192

@@ -44,6 +44,9 @@ https://thescottkrause.com/emerging_tech/new_macbook_setup_for_dev/
 https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
 * https://news.ycombinator.com/item?id=27451413
 
+https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/
+* https://news.ycombinator.com/item?id=28207810
+
 # M1
 https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/
 * https://lobste.rs/s/2zajeu/journey_controlling_external_monitors

@@ -29,6 +29,8 @@ https://www.reddit.com/r/java/comments/o6c8by/9_highperformance_tips_when_using_
 https://wiringbits.net/java/2021/07/25/from-hibernate-schema-generation-to-flyway-in-existing-applications.html
 * https://www.reddit.com/r/java/comments/orh9bv/from_hibernate_schema_generation_to_flyway_in/
 
+https://vladmihalcea.com/keyset-pagination-jpa-hibernate/
+
 # cons
 https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 * https://news.ycombinator.com/item?id=26772550

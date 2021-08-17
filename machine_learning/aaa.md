@@ -219,6 +219,10 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+https://github.com/will-thompson-k/tldr-transformers
+https://arxiv.org/abs/2108.02497
+https://sebastianraschka.com/blog/2021/dl-course.html
+* https://news.ycombinator.com/item?id=28156380
 https://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html
 https://spectrum.ieee.org/the-future-of-deep-learning-is-photonic
 * https://news.ycombinator.com/item?id=28016713
