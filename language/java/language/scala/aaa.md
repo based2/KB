@@ -11,6 +11,10 @@ https://www.scala-js.org/
 https://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html
 * https://news.ycombinator.com/item?id=27491105
 
+https://blog.oyanglul.us/scala/dotty/en/generic-type-class-derivation
+
+https://typelevel.org/cats-effect/docs/concepts
+
 # DI
 https://github.com/yakivy/jam
 
@@ -42,6 +46,12 @@ https://alvinalexander.com/scala/zio-cheatsheet/
 ## Akka
 https://blog.softwaremill.com/akka-streams-pitfalls-to-avoid-part-2-f93e60746c58
 https://www.oreilly.com/content/implementing-the-pipes-and-filters-pattern-using-actors-in-akka-for-java/
+
+https://medium.com/@canosergio90/akka-streams-getting-started-32b5ebc60604
+
+https://doc.akka.io/docs/alpakka/current/
+
+https://scalqa.org/doc/
 
 ## Monix
 https://monix.io/

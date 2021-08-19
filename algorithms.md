@@ -17,6 +17,10 @@ https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/mat
 https://boyter.org/posts/bloom-filter/
 * https://news.ycombinator.com/item?id=28113100
 
+https://ordep.dev/posts/my-favorite-papers
+
+https://alexgolec.dev/reddit-interview-problems-the-game-of-life/
+
 # State machine
 https://barrgroup.com/embedded-systems/how-to/introduction-hierarchical-state-machines
 https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/
@@ -39,6 +43,10 @@ http://algorithmicbotany.org/virtual_laboratory/
 * https://news.ycombinator.com/item?id=27917432
 
 # News
+https://lemire.me/blog/2016/06/27/a-fast-alternative-to-the-modulo-reduction/
+* https://news.ycombinator.com/item?id=28197029
+https://github.com/ips4o/ips4o sort
+* https://news.ycombinator.com/item?id=28220633
 https://mazzo.li/posts/vectorized-atan2.html
 * https://news.ycombinator.com/item?id=28209097
 https://dawn.cs.stanford.edu//2018/01/11/index-baselines/ 

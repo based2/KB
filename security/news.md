@@ -1,3 +1,14 @@
+https://us-cert.cisa.gov/ncas/alerts/aa21-229a
+
+https://krebsonsecurity.com/2021/08/t-mobile-breach-exposed-ssn-dob-of-40m-people/
+* https://news.ycombinator.com/item?id=28223747
+
+https://cacm.acm.org/news/254865-programmable-trap-can-kill-viruses/fulltext
+* https://news.ycombinator.com/item?id=28220777
+
+https://www.bleepingcomputer.com/news/security/secret-terrorist-watchlist-with-2-million-records-exposed-online/
+* https://news.ycombinator.com/item?id=28200691
+
 https://techcrunch.com/2021/08/17/stop-using-zoom-hamburgs-dpa-warns-state-government/
 * https://news.ycombinator.com/item?id=28210076
 

@@ -52,6 +52,9 @@ https://www.numworks.com/
 https://www.crowdsupply.com/neuroidss/freeeeg32
 * https://news.ycombinator.com/item?id=28003654
 
+https://www.kadirilkimen.com/thepolarbear/
+* https://news.ycombinator.com/item?id=28231187
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 * https://news.ycombinator.com/item?id=27628101

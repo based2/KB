@@ -62,5 +62,8 @@ https://github.com/unfrl/dug/
 https://blog.cloudflare.com/cloudflare-distributed-web-resolver/
 * https://news.ycombinator.com/item?id=27641323
 
+https://jacobkiers.net/hod/
+* https://news.ycombinator.com/item?id=28218406
+
 # News
 https://gitlab.isc.org/isc-projects/bind9/-/issues/2779

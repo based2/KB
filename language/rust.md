@@ -93,6 +93,9 @@ https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-dee
 https://lazy.codes/posts/awesome-unstable-rust-features/
 * https://lobste.rs/s/do5ozt/awesome_unstable_rust_features
 
+https://rust-lang.github.io/api-guidelines/checklist.html
+* https://news.ycombinator.com/item?id=28223738
+
 # Async
 https://tokio.rs/
 

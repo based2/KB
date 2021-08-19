@@ -7,6 +7,9 @@ https://blog.vnaik.com/posts/time.html
 https://arxiv.org/ftp/arxiv/papers/1807/1807.01370.pdf
 Timekeeping infrastructure for the Catalina Sky Survey
 
+https://gunkies.org/wiki/SITS
+* 
+
 # Timestamp
 https://changelog.com/posts/you-might-as-well-timestamp-it
 * https://news.ycombinator.com/item?id=26922759

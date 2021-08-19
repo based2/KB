@@ -40,6 +40,8 @@ https://vaibhavsagar.com/blog/2019/09/08/popcount/
 * https://news.ycombinator.com/item?id=27470529
 * https://news.ycombinator.com/item?id=27351906 empty?
 
+https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/
+
 # ABI
 https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html
 
@@ -48,6 +50,9 @@ https://www.cambus.net/speedbuilding-llvm-clang-in-2-minutes-on-arm/
 * https://news.ycombinator.com/item?id=27135924
 
 https://lists.llvm.org/pipermail/llvm-dev/2021-June/151321.html LLVM Busybox Proposal
+
+https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format
+* https://news.ycombinator.com/item?id=28233735
 
 # Bug report
 https://news.ycombinator.com/item?id=26620048

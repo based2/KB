@@ -10,3 +10,5 @@ https://www.eetimes.com/helion-energy-achieves-key-fusion-milestone/
 
 https://asiatimes.com/2020/04/hydrogen-boron-fusion-could-be-a-dream-come-true/
 * https://news.ycombinator.com/item?id=27955219
+
+https://www.ipp.mpg.de/5125328/05_21

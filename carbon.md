@@ -1,6 +1,9 @@
 https://scrippso2.ucsd.edu/index.html o2
 * https://news.ycombinator.com/item?id=27720014
 
+https://www.electricitymap.org/map
+* https://news.ycombinator.com/item?id=28223366
+
 https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System
 
 https://ember-climate.org/data/carbon-price-viewer/
@@ -43,6 +46,7 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.swissinfo.ch/eng/business/big-swiss-companies-obliged-to-report-climate-risks-from-2024/46878298?utm_campaign=swi-rss&utm_source=multiple&utm_medium=rss&utm_content=o
 https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K
 * https://news.ycombinator.com/item?id=28211826
 https://arstechnica.com/science/2021/08/most-of-the-power-sectors-emissions-come-from-a-small-minority-of-plants/

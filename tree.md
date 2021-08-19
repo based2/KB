@@ -13,6 +13,9 @@ https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyr
 https://github.com/tidwall/btree/blob/master/PATH_HINT.md
 * https://news.ycombinator.com/item?id=28008541
 
+https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/
+* https://news.ycombinator.com/item?id=28221612
+
 
 
 # Real tree

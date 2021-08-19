@@ -111,6 +111,9 @@ https://elderguide.com/tech/elderjs/
 https://elm-pages.com/blog/introducing-v2/
 * https://news.ycombinator.com/item?id=28057494
 
+https://engineering.rakuten.today/post/elm-at-rakuten/
+* https://news.ycombinator.com/item?id=28222060
+
 #
 https://www.solidjs.com/
 
@@ -233,6 +236,7 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24
 https://imba.io/
 * https://news.ycombinator.com/item?id=28207662
 * https://github.com/imba/imba

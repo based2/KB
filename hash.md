@@ -59,6 +59,9 @@ https://francoisbest.com/posts/2021/hashvatars
 * https://news.ycombinator.com/item?id=27534379
 
 # News
+https://dominoweb.draco.res.ibm.com/reports/rc24100.pdf
+https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1
+* https://news.ycombinator.com/item?id=28219068
 http://jonkagstrom.com/bit-mixer-construction/
 * https://news.ycombinator.com/item?id=28178106
 https://rentafounder.com/the-problem-with-perceptual-hashes/

@@ -77,6 +77,9 @@ https://typeclasses.com/phrasebook
 https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
 * https://news.ycombinator.com/item?id=27702168
 
+# Stats
+http://www.ats-lang.org/
+
 # Exotic
 ## APL
 ## K
@@ -116,6 +119,7 @@ http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
 
 # News
+https://cancel.fm/blog/2019-11/language-fragility/
 http://craftinginterpreters.com/
 
 https://github.com/morloc-project/morloc

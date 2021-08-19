@@ -22,6 +22,8 @@ https://yupferris.github.io/blog/2021/06/07/pulsejet-sample-compression-codec-fo
 
 https://developers.google.com/speed/webp/docs/compression
 
+https://www.lodsb.com/reversing-lz91-from-commander-keen
+
 ## Tools
 https://www.7-zip.org/download.html
 

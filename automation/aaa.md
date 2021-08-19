@@ -21,3 +21,4 @@ https://cuelang.org/docs/about/
 
 # Neqs
 https://posthog.com/blog/automating-a-software-company-with-github-actions
+* https://news.ycombinator.com/item?id=28234057
