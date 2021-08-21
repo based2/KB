@@ -39,10 +39,9 @@ https://age.apache.org/# Postgresql
 
 http://janusgraph.org/
 
-
-
-
 # Language
+
+https://jena.apache.org/tutorials/sparql.html
 
 # Algo
 https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly

@@ -12,6 +12,11 @@ https://www.ipingthereforeiam.com/bbs/msgs/ Usenet
 http://classics.mit.edu/index.html
 * https://news.ycombinator.com/item?id=27729062
 
+https://everything2.com/
+
+https://www.urbandictionary.com/define.php?term=hacker%20news
+* https://news.ycombinator.com/item?id=28259153
+
 # Vintage
 https://www.webdesignmuseum.org/web-design-history/timeline-1990-1994
 

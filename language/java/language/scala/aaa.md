@@ -2,6 +2,10 @@ https://www.scala-lang.org/
 
 https://www.scala-sbt.org/
 
+https://index.scala-lang.org/
+
+https://docs.scala-lang.org/style/scaladoc.html
+
 https://zio.dev/
 
 https://akka.io/

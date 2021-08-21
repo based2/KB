@@ -50,6 +50,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://liquorix.net/#features
+https://www.debian.org/News/2021/20210814.en.html Debian 11 "bullseye" released
 https://almalinux.org/blog/almalinux-now-available-on-microsoft-azure-azure-sponsors-almalinux/
 * https://news.ycombinator.com/item?id=28211380
 https://blog.elementary.io/elementary-os-6-odin-released/

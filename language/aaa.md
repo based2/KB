@@ -80,6 +80,11 @@ https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
 # Stats
 http://www.ats-lang.org/
 
+# LISP
+
+https://janet-lang.org/
+*
+
 # Exotic
 ## APL
 ## K

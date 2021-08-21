@@ -92,6 +92,10 @@ https://korben.info/exploit-fichier-texte-txt-macos.html
 https://developer.mozilla.org/en-US/docs/Web/API/HTML_Sanitizer_API
 * https://news.ycombinator.com/item?id=27061020
 
+# Body
+https://atfzl.com/don-t-attach-tooltips-to-document-body
+* https://news.ycombinator.com/item?id=28230977
+
 # Link
 https://www.jefftk.com/p/why-prefetch-is-broken
 * https://news.ycombinator.com/item?id=27365608

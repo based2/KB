@@ -21,6 +21,7 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 * https://news.ycombinator.com/item?id=27507723
 
 # News
+https://lillianli.substack.com/p/china-semiconductors-and-the-push
 https://news.ycombinator.com/item?id=27957171
 https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews
 * https://news.ycombinator.com/item?id=27926425

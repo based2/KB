@@ -3,6 +3,8 @@ http://webdam.inria.fr/Alice/
 
 https://www.youtube.com/watch?v=5ZjhNTM8XU8 "Transactions: myths, surprises and opportunities" by Martin Kleppmann 2015
 
+https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally
+* https://news.ycombinator.com/item?id=28230641
 
 H-Store -> NewSQL
 https://en.wikipedia.org/wiki/H-Store

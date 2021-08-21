@@ -67,6 +67,9 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/gossip-dissemi
 https://google.aip.dev/
 * https://news.ycombinator.com/item?id=27716756
 
+https://github.com/public-apis/public-apis
+* https://news.ycombinator.com/item?id=28232369
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 * https://news.ycombinator.com/item?id=27683966

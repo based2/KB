@@ -55,6 +55,17 @@ https://medium.com/engineering-at-alfa/introducing-astra-a-tool-for-refactoring-
 # Generator
 https://corner.squareup.com/2015/01/javapoet.html
 
+https://github.com/yeagy/jaxrs-client-gen
+
+https://github.com/forge/roaster
+
+https://spoon.gforge.inria.fr/index.html
+
+# Migration
+https://docs.openrewrite.org/tutorials/migrate-from-java-8-to-java-11
+* https://www.reddit.com/r/java/comments/p88rjq/automated_migration_from_java_8_to_11/
+* https://github.com/openrewrite/rewrite
+
 # Notes
 https://ijnspector.wordpress.com/ Practical examples for IntelliJ's Structural Search and Replace Templates
 https://www.banterly.net/2019/07/28/one-of-the-more-underrated-features-of-java/

@@ -4,6 +4,8 @@ https://www.highgo.ca/2021/01/27/avoiding-identifying-and-dealing-with-postgresq
 
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 
+https://www.slony.info/ 
+
 https://postgres.cz/wiki/PostgreSQL_SQL_Tricks_III
 
 https://blog.crunchydata.com/blog/get-started-with-explain-analyze

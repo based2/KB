@@ -32,6 +32,8 @@ https://captain-yossarian.medium.com/typescript-object-oriented-typings-4fd42ce1
 
 https://github.com/gvergnaud/ts-pattern
 
+https://www.brandons.me/blog/casual-parsing-javascript
+
 # Check
 https://www.sonarlint.org/
 https://lift.sonatype.com/

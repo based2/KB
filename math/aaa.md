@@ -60,6 +60,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://github.com/ManimCommunity/manim Animation engine for explanatory math videos 3Blue1Brown
+* https://news.ycombinator.com/item?id=28245277
 https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html
 * https://news.ycombinator.com/item?id=28204040
 https://www.igalia.com/2021/08/09/MathML-Progress.html

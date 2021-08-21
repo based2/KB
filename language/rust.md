@@ -96,6 +96,9 @@ https://lazy.codes/posts/awesome-unstable-rust-features/
 https://rust-lang.github.io/api-guidelines/checklist.html
 * https://news.ycombinator.com/item?id=28223738
 
+# Macro
+https://www.getsynth.com/docs/blog/2021/08/09/macro
+
 # Async
 https://tokio.rs/
 
@@ -123,6 +126,13 @@ https://ferrous-systems.com/blog/test-embedded-app/
 # APIs
 https://github.com/briansmith/ring Safe, fast, small crypto using Rust with BoringSSL's cryptography primitives
 * https://briansmith.org/rustdoc/ring/
+
+## State machine
+https://blog.burntsushi.net/transducers/ immutable ordered set
+* https://en.wikipedia.org/wiki/GADDAG
+* https://github.com/BurntSushi/fst
+* https://news.ycombinator.com/item?id=28243636
+* https://itnext.io/v8-deep-dives-understanding-map-internals-45eb94a183df
 
 # Tools
 ## Terminal

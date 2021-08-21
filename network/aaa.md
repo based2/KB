@@ -78,6 +78,10 @@ https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
 https://news.ycombinator.com/item?id=27650775
 
 # News
+https://research.google/pubs/pub48630/
+* https://news.ycombinator.com/item?id=28257098
+https://www.youtube.com/watch?v=qu5WDcZRveo USENIX ATC '21 - A Linux Kernel Implementation of the Homa Transport Protocol
+* https://github.com/PlatformLab/Homa
 https://www.micahlerner.com/2021/08/15/a-linux-kernel-implementation-of-the-homa-transport-protocol.html
 * https://news.ycombinator.com/item?id=28204808
 https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/

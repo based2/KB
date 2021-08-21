@@ -29,6 +29,7 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.reddit.com/r/firefox/comments/p8g5zd/why_does_disabling_accessibility_services_improve/
 https://adactio.com/journal/18337
 https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html
 * https://news.ycombinator.com/item?id=28156818

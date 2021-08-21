@@ -56,6 +56,11 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://go-review.googlesource.com/c/go/+/343732/
+* https://news.ycombinator.com/item?id=28253692
+https://go.dev/blog/tidy-web
+* https://news.ycombinator.com/item?id=28253245
+ * https://godocs.io/
 https://github.com/cosmtrek/air Live reload when developing
 * https://news.ycombinator.com/item?id=28015798
 https://bitfieldconsulting.com/golang/map-string-interface

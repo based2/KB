@@ -104,6 +104,9 @@ https://www.pa3fwm.nl/projects/neonclock/
 http://naggum.no/lugm-time.html
 * https://news.ycombinator.com/item?id=28048258
 
+https://spectrum.ieee.org/for-precision-the-sapphire-clock-outshines-even-the-best-atomic-clocks#toggle-gdpr
+* https://news.ycombinator.com/item?id=28232645
+
 #
 https://en.wikipedia.org/wiki/Time_crystal
 

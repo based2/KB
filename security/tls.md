@@ -106,6 +106,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://tlsfingerprint.io/
+* https://news.ycombinator.com/item?id=28251700
 https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967
 https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/60f5b56d1c82f805369a7d98
 * https://news.ycombinator.com/item?id=27885615

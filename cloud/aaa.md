@@ -16,6 +16,8 @@ https://cloud.google.com/blog/products/compute/introducing-compute-engine-predic
 https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol 2019
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
+https://lethain.com/physics-of-cloud-expansion/
+
 # News
 https://blog.porter.run/history-of-paas-how-canon-almost-became-a-major-cloud-provider/
 * https://news.ycombinator.com/item?id=28236217

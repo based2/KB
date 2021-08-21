@@ -164,7 +164,10 @@ https://github.com/esrlabs/josh
 * https://news.ycombinator.com/item?id=27844363
 
 https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/
-*https://news.ycombinator.com/item?id=27903282
+* https://news.ycombinator.com/item?id=27903282
+
+https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/
+* https://news.ycombinator.com/item?id=28220113
 
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/

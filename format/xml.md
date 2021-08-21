@@ -10,3 +10,13 @@ https://schematron.com/2021/07/the-goals-of-xml-at-25-and-the-one-change-that-xm
 * https://news.ycombinator.com/item?id=27871666
 
 https://olingo.apache.org/
+
+# XSD
+https://en.wikipedia.org/wiki/XML_schema
+
+https://thorben-janssen.com/generate-your-jaxb-classes-in-second/
+https://www.mojohaus.org/jaxb2-maven-plugin/Documentation/v2.2/example_xjc_basic.html
+
+
+# SOAP
+https://medium.com/helidon/soap-with-helidon-51bb2dc3189e

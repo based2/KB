@@ -50,6 +50,10 @@ https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 
 https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
 
+# Libraries
+https://ffmpegwasm.netlify.app/
+* https://news.ycombinator.com/item?id=28251801
+
 # History
 https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
 * https://news.ycombinator.com/item?id=27616656

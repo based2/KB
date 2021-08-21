@@ -236,6 +236,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.brandons.me/blog/casual-parsing-javascript
+* https://news.ycombinator.com/item?id=28206863
 https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24
 https://imba.io/
 * https://news.ycombinator.com/item?id=28207662

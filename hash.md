@@ -59,6 +59,8 @@ https://francoisbest.com/posts/2021/hashvatars
 * https://news.ycombinator.com/item?id=27534379
 
 # News
+https://www.phash.org/
+* https://news.ycombinator.com/item?id=28256220
 https://dominoweb.draco.res.ibm.com/reports/rc24100.pdf
 https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1
 * https://news.ycombinator.com/item?id=28219068

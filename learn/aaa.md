@@ -66,3 +66,6 @@ https://www.wired.com/2008/04/ff-wozniak/
 https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/
 * https://news.ycombinator.com/item?id=27736304
 
+https://jvns.ca/blog/confusing-explanations/
+* https://news.ycombinator.com/item?id=28254630
+

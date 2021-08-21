@@ -219,6 +219,8 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/
+* https://news.ycombinator.com/item?id=28251396
 https://github.com/will-thompson-k/tldr-transformers
 https://arxiv.org/abs/2108.02497
 https://sebastianraschka.com/blog/2021/dl-course.html

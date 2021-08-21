@@ -157,6 +157,7 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html
 https://beniroquai.github.io/Hi2/
 https://www.fosskers.ca/en/blog/contributing-to-emacs
 https://github.com/EdenBD/MultiModalStory-demo

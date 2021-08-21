@@ -78,6 +78,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 * https://news.ycombinator.com/item?id=27718701
 
 # News
+https://www.sqlite.org/draft/stricttables.html
+* https://news.ycombinator.com/item?id=28259104
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-0646
 https://epilys.github.io/bibliothecula/notekeeping.html
 https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/
 * https://news.ycombinator.com/item?id=27565482

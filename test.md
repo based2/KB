@@ -47,3 +47,7 @@ https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-
 
 # Distributed
 https://github.com/tylertreat/comcast
+
+# Perf
+https://www.uninformativ.de/blog/postings/2021-08-19/0/POSTING-en.html
+* https://news.ycombinator.com/item?id=28232645

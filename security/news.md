@@ -1,4 +1,20 @@
-https://us-cert.cisa.gov/ncas/alerts/aa21-229a
+http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1575378&dswid=-6144
+
+https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/
+* https://www.reddit.com/r/netsec/comments/p4bf40/weaponizing_middleboxes_for_tcp_reflected/
+
+https://www.praetorian.com/blog/introducing-gokart/
+
+https://zolder.io/office-365-audit-logging/
+
+https://www.eicar.org/?page_id=3950
+
+https://jsherman212.github.io/CVE-2021-30656/ ios
+
+https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/ NO_SMT, DEP -> W^X policy - stack is not executable
+* https://news.ycombinator.com/item?id=28250340
+
+https://us-cert.cisa.gov/ncas/alerts/aa21-229a BadAlloc Vulnerability Affecting BlackBerry QNX RTOS
 
 https://krebsonsecurity.com/2021/08/t-mobile-breach-exposed-ssn-dob-of-40m-people/
 * https://news.ycombinator.com/item?id=28223747

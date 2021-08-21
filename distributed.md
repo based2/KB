@@ -31,5 +31,8 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.
 
 
 # Database
+https://github.com/gitsrc/IceFireDB
+* https://news.ycombinator.com/item?id=28257243
+
 https://github.com/erikgrinaker/toydb
 * https://news.ycombinator.com/item?id=27874992

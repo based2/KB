@@ -21,6 +21,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 * https://news.ycombinator.com/item?id=14677297
 
 # News
+https://arstechnica.com/gadgets/2021/08/point-to-point-wi-fi-bridging-between-buildings-the-cheap-and-easy-way/
+* https://news.ycombinator.com/item?id=28250225
 https://www.improv-wifi.com/ Open standard for setting up Wi-Fi via Bluetooth LE
 * https://news.ycombinator.com/item?id=27534448
 

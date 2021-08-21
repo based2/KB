@@ -26,6 +26,8 @@ https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/
 * https://news.ycombinator.com/item?id=27354815
 * https://www.reddit.com/r/programming/comments/npzivt/jwts_done_right_quebecs_proof_of_vaccination/
 
+https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/
+* https://news.ycombinator.com/item?id=28244246
 
 # News
 ## Expiration

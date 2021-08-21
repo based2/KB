@@ -48,6 +48,8 @@ https://en.wikipedia.org/wiki/Onion_Futures_Act
 
 https://www.machow.ski/posts/2021-07-24-positions-profit-and-loss/
 
+https://duedilly.io/
+* https://news.ycombinator.com/item?id=28244744
 
 ## Personal finance
 https://bou.ke/blog/formulas/

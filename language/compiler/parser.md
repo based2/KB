@@ -2,3 +2,6 @@ https://arxiv.org/pdf/2005.06444.pdf Pika parsing: reformulating packrat parsing
 
 https://norswap.com/pubs/thesis.pdf
 * https://news.ycombinator.com/item?id=27143732
+
+https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html
+* https://news.ycombinator.com/item?id=28258945
