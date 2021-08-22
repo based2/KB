@@ -88,6 +88,7 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://decisionops.substack.com/p/decisionops
 * https://news.ycombinator.com/item?id=28234629
 https://blog.cedriccharly.com/post/20210523-how-cue-wins/

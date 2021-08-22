@@ -72,6 +72,7 @@ https://devblogs.microsoft.com/commandline/wslg-architecture/
 https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10
 
 # News
+https://docs.microsoft.com/en-us/lifecycle/products/windows-server-2022
 https://www.theregister.com/2021/07/26/windows_11_comes_bearing_thaas/
 * https://news.ycombinator.com/item?id=27957724
 https://github.com/zodiacon/RegExp

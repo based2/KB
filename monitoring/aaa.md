@@ -55,7 +55,13 @@ https://github.com/Sysinternals/ProcMon-for-Linux/
 https://goaccess.io/
 * https://news.ycombinator.com/item?id=28012307
 
+
+# Meta
+https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
+
 # News
+https://www.honeycomb.io/blog/all-in-on-opentelemetry/
+https://www.betterment.com/resources/service-level-objectives-slo/
 https://semiengineering.com/who-owns-in-chip-monitoring-data/
 https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html
 * https://news.ycombinator.com/item?id=27738312

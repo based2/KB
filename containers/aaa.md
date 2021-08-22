@@ -32,6 +32,10 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://mathiashueber.com/pci-passthrough-ubuntu-2004-virtual-machine/
+https://www.cncf.io/blog/2021/08/18/keda-moves-from-the-cncf-sandbox-to-become-an-incubating-project/
+https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/
+* https://news.ycombinator.com/item?id=28240748
 https://www.vagrantup.com/docs/providers/vmware/faq#q-do-i-need-a-license-for-the-vagrant-vmware-plugin
 https://github.com/flouthoc/wiser
 * https://news.ycombinator.com/item?id=27917522

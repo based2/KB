@@ -219,8 +219,13 @@ https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
 # News
+
+https://github.com/deepmind/open_spiel
 https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/
 * https://news.ycombinator.com/item?id=28251396
+https://cleantechnica.com/2021/08/22/teslas-dojo-supercomputer-breaks-all-established-industry-standards-cleantechnica-deep-dive-part-1/
+* https://news.ycombinator.com/item?id=28266156
+https://cleantechnica.com/2021/08/21/a-comment-on-tesla-ai-day-have-you-ever/
 https://github.com/will-thompson-k/tldr-transformers
 https://arxiv.org/abs/2108.02497
 https://sebastianraschka.com/blog/2021/dl-course.html

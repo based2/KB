@@ -15,3 +15,6 @@ https://www.bmw.com/en/innovation/how-hydrogen-fuel-cell-cars-work.html
 
 https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article
 * https://news.ycombinator.com/item?id=27767656
+
+https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says-it-would-lock-in-fossil-fuel-dependence/
+* https://news.ycombinator.com/item?id=28264714

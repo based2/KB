@@ -7,6 +7,8 @@ https://alpercinar.com/open-cell-id/
 https://startyourownisp.com/
 * https://news.ycombinator.com/item?id=27539165
 
+https://blog.3g4g.co.uk/2015/01/voice-over-wifi-vowifi-technical-details.html
+
 # BGP
 https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window
 * https://news.ycombinator.com/item?id=26887658

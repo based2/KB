@@ -20,3 +20,7 @@ https://mux.com/blog/network-virtualization-cloud-load-balancing-and-long-lived-
 https://majidfn.com/blog/20201222-grpc-load-balancing/
 * https://news.ycombinator.com/item?id=27143960
 
+# Algo
+https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed
+* https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf The Power of Two Random Choices: A Survey of Techniques and Results
+

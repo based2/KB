@@ -2,6 +2,8 @@ https://developer.mozilla.org/fr/docs/Web/API/Web_Audio_API
 
 https://github.com/jimutt/osmd-audio-player
 
+https://zpl.fi/pitch-shifting-in-web-audio-api/
+
 https://opensheetmusicdisplay.org/showcase/community-audio-player/
 https://opensheetmusicdisplay.org/2018/09/11/sheet-music-display-libraries-browsers/
 https://www.vexflow.com/

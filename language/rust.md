@@ -96,6 +96,8 @@ https://lazy.codes/posts/awesome-unstable-rust-features/
 https://rust-lang.github.io/api-guidelines/checklist.html
 * https://news.ycombinator.com/item?id=28223738
 
+https://sixtyfps.io/blog/announcing-sixtyfps-0.1.html
+
 # Macro
 https://www.getsynth.com/docs/blog/2021/08/09/macro
 
@@ -246,6 +248,10 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://www.cmyr.net/blog/rust-gui-infra.html
+https://instantdomainsearch.com/engineering/instant-word-segmentation-with-rust
+* https://github.com/tkaitchuck/ahash
+https://www.warp.dev/
 https://github.com/ivanceras/hackernews-sauron/
 https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html
 https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-2

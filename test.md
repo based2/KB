@@ -51,3 +51,8 @@ https://github.com/tylertreat/comcast
 # Perf
 https://www.uninformativ.de/blog/postings/2021-08-19/0/POSTING-en.html
 * https://news.ycombinator.com/item?id=28232645
+
+# Data generator
+https://www.getsynth.com/ JSON
+
+https://github.com/DiUS/java-faker

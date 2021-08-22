@@ -1,3 +1,5 @@
+https://serhack.me/articles/unpacking-asic-firmware-antminer-exploited/
+
 http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1575378&dswid=-6144
 
 https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/

@@ -11,6 +11,8 @@ https://schematron.com/2021/07/the-goals-of-xml-at-25-and-the-one-change-that-xm
 
 https://olingo.apache.org/
 
+https://cocoon.apache.org/
+
 # XSD
 https://en.wikipedia.org/wiki/XML_schema
 

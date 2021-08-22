@@ -56,6 +56,7 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/dapr/dapr serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices
 https://go-review.googlesource.com/c/go/+/343732/
 * https://news.ycombinator.com/item?id=28253692
 https://go.dev/blog/tidy-web

@@ -1,3 +1,5 @@
+https://www.synfig.org/
+
 https://pivotanimator.net/
 https://opentoonz.github.io/e/
 

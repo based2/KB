@@ -65,6 +65,8 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://mykolav.github.io/coollang-2020-fs/
+* https://scastie.scala-lang.org/
 https://petr-zapletal.medium.com/this-week-in-scala-jul-19-2021-7a833b568e0e
 https://gist.github.com/djspiewak/f4cfc08e0827088f17032e0e9099d292 Understanding Comparative Benchmarks (Cats Effect 3 and ZIO 2)
 * https://www.reddit.com/r/scala/comments/oulgi4/understanding_comparative_benchmarks_cats_effect/

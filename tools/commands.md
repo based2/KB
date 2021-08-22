@@ -8,3 +8,6 @@ https://github.com/Svetlitski/fcp
 
 https://earthly.dev/blog/command-line-tools/
 * https://news.ycombinator.com/item?id=27992073
+
+https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/ jc
+* https://news.ycombinator.com/item?id=28266193

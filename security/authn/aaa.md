@@ -21,6 +21,8 @@ https://evertpot.com/jwt-is-a-bad-default/
 https://goteleport.com/blog/access-controls/
 * https://news.ycombinator.com/item?id=27176145
 
+https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d
+
 # Diffie-Hellman
 https://borisreitman.com/privacy.html
 * https://news.ycombinator.com/item?id=26898147

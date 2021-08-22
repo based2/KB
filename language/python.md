@@ -92,6 +92,8 @@ https://venthur.de/2021-03-31-python-makefiles.html
 # Packaging
 https://monadical.com/posts/how-to-package-python-for-apt-deb.html#
 
+# Doc
+https://www.sphinx-doc.org/en/master/
 
 # IDE
 
@@ -148,6 +150,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://vulns.xyz/2021/08/reproducible-python-bytecode/
+https://github.com/tlocke/facata/ Simplified alternative to DBAPI 2
+* https://news.ycombinator.com/item?id=28258421
 https://lona-web.org/
 * https://news.ycombinator.com/item?id=28128445
 https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch

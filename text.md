@@ -41,6 +41,8 @@ https://rolisz.com/the-best-text-classification-library-for-a-quick-baseline/
 
 https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching
 
+https://baturin.org/blog/life-before-unicode/ ru
+
 # ASCII
 http://www.figlet.org/fontdb.cgi
 

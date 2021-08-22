@@ -152,6 +152,9 @@ https://dirtydatagirl.moogle.cc/rf7put/i-might-have-gone-a-little-bit-overboard
 # BI
 https://github.com/mlcraft-io/mlcraft
 
+https://observablehq.com/@observablehq/data-wrangler
+* https://news.ycombinator.com/item?id=28255467
+
 # CI
 https://hypervector.io/
 
@@ -172,4 +175,7 @@ https://www.micahlerner.com/2021/08/07/posh-a-data-aware-shell.html
 
 https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
+
+# News
+https://blog.cloudera.com/announcing-the-ga-of-cloudera-dataflow-for-the-public-cloud/
 

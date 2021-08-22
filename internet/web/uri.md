@@ -8,3 +8,8 @@ https://news.ycombinator.com/item?id=26991332
 #
 https://george.mand.is/2021/06/idle-javascript-observations/
 * https://news.ycombinator.com/item?id=27923536
+
+https://www.reddit.com/r/Deno/comments/p66fay/deno_http_203/
+
+https://wicg.github.io/urlpattern/
+https://github.com/WICG/urlpattern

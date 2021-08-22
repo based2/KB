@@ -12,3 +12,5 @@ https://news.ycombinator.com/item?id=27613217
 
 http://muratbuffalo.blogspot.com/2021/06/cores-that-dont-count.html
 * https://news.ycombinator.com/item?id=27639837
+
+https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/

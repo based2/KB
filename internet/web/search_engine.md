@@ -55,6 +55,7 @@ https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/
 * https://news.ycombinator.com/item?id=28051562
 
 # News
+https://yurichev.com/news/20210205_rolling_hash/
 https://www.pinecone.io/learn/vector-indexes/
 http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html
 * https://news.ycombinator.com/item?id=28106237

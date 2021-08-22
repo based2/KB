@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://interconnected.blog/is-bytedance-cloud-a-good-idea/
 https://blog.porter.run/history-of-paas-how-canon-almost-became-a-major-cloud-provider/
 * https://news.ycombinator.com/item?id=28236217
 https://uselemon.io/

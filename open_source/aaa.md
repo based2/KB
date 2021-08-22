@@ -157,6 +157,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://blog.documentfoundation.org/blog/2021/08/19/libreoffice-7-2-community/
+* https://news.ycombinator.com/item?id=28232113
+https://github.com/dapr/dapr/issues/3563 Project includes a dependancy that has a license that forbids its use.
 http://trillian.mit.edu/~jc/humor/ATT_Copyright_true.html
 https://beniroquai.github.io/Hi2/
 https://www.fosskers.ca/en/blog/contributing-to-emacs

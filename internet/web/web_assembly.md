@@ -60,6 +60,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   * https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://thenewstack.io/webassembly-aims-to-eliminate-the-file-system/
+* https://wasmcloud.com/
 https://www.tetrate.io/blog/wasm-outside-the-browser/
 * https://news.ycombinator.com/item?id=28107917
 https://birchlabs.co.uk/liquidfun-wasm/

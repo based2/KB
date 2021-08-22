@@ -85,6 +85,10 @@ https://kyleshevlin.com/prefer-declarative-state-updaters
 
 https://github.com/pmndrs/react-three-fiber
 * https://news.ycombinator.com/item?id=28189977
+
+https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1
+
+https://alexsidorenko.com/blog/react-render-always-rerenders/
    
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
@@ -98,7 +102,12 @@ https://www.ngxs.io/
 
 https://javascript.plainenglish.io/angular-12-in-depth-7741e759c72?gi=22d9a899822e
 
+# Elm
+https://elm-pages.com/blog/introducing-v2/
+* https://news.ycombinator.com/item?id=28057494
 
+https://engineering.rakuten.today/post/elm-at-rakuten/
+* https://news.ycombinator.com/item?id=28222060
 
 ## Svelt
 https://news.ycombinator.com/item?id=26557886
@@ -107,12 +116,7 @@ https://geoffrich.net/posts/svelte-tower-of-hanoi/
 https://elderguide.com/tech/elderjs/
 * https://news.ycombinator.com/item?id=27152785
 
-# Elm
-https://elm-pages.com/blog/introducing-v2/
-* https://news.ycombinator.com/item?id=28057494
-
-https://engineering.rakuten.today/post/elm-at-rakuten/
-* https://news.ycombinator.com/item?id=28222060
+https://erock.io/2021/07/18/my-experience-with-svelte-kit.html
 
 #
 https://www.solidjs.com/
@@ -236,6 +240,7 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://typeitjs.com/
 https://www.brandons.me/blog/casual-parsing-javascript
 * https://news.ycombinator.com/item?id=28206863
 https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24

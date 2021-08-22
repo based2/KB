@@ -13,6 +13,7 @@ https://cryptosec.info/exchange-hacks/
 
 
 # News
+https://eprint.iacr.org/2019/1096.pdf Proof-of-Burn
 https://liuliu.me/eyes/the-endgame-for-cryptocurrency/
 https://securehoney.net/blog/cryptojacking-a-tale-of-riches-deceit-and-theft.html
 https://news.ycombinator.com/item?id=27841947

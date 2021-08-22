@@ -26,6 +26,9 @@ https://github.com/Nudin/iptable_vis
 
 https://www.nsnam.org/ Discrete-event network simulator for Internet systems
 
+
+https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html
+
 # Investigations
 
 https://blog.ikuamike.io/posts/2021/netcat/
@@ -76,6 +79,8 @@ https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
 
 # Learn
 https://news.ycombinator.com/item?id=27650775
+
+https://netbox.readthedocs.io/en/stable/
 
 # News
 https://research.google/pubs/pub48630/

@@ -46,6 +46,9 @@ https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/
 https://blog.sulami.xyz/posts/cleaning-up-git-history/
 * https://news.ycombinator.com/item?id=28106981
 
+https://www.presslabs.com/docs/code/gitfs/
+* https://news.ycombinator.com/item?id=28263356
+
 # Books
 https://git-scm.com/book/en/v2
 
@@ -183,6 +186,9 @@ https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
 https://www.producthunt.com/posts/gitlive
 * https://www.reddit.com/r/programming/comments/nqmnyl/extend_git_with_realtime_collaborative_superpowers/
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
+
+# Scanner
+https://github.com/bridgecrewio/checkov
   
 # News
 https://github.blog/2021-08-16-highlights-from-git-2-33/ merge-ort: a new merge strategy

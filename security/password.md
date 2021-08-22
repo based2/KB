@@ -23,6 +23,8 @@ https://zserge.com/posts/one-time-passwords/
 * https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://github.com/nuvious/pam-duress
+* https://news.ycombinator.com/item?id=28267975
 https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/
 * https://news.ycombinator.com/item?id=27922545
 https://donjon.ledger.com/kaspersky-password-manager/
