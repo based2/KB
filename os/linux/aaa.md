@@ -68,6 +68,11 @@ https://wiki.gnome.org/Projects/Mutter
 
 https://www.enlightenment.org/
 
+
+# UEFI
+https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
+* https://news.ycombinator.com/item?id=28273182
+
 # News
 https://simpletools.info/doku.php/osinstallation:debian11runit
 https://lists.lttng.org/pipermail/lttng-dev/2021-August/030046.html

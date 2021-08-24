@@ -1,3 +1,6 @@
+https://www.openssl.org/news/secadv/20210824.txt
+* https://news.ycombinator.com/item?id=28290210
+
 https://serhack.me/articles/unpacking-asic-firmware-antminer-exploited/
 
 http://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A1575378&dswid=-6144

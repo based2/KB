@@ -240,6 +240,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.blog/2021-08-23-npm-registry-deprecating-tls-1-0-tls-1-1/
+* https://news.ycombinator.com/item?id=28290396
 https://typeitjs.com/
 https://www.brandons.me/blog/casual-parsing-javascript
 * https://news.ycombinator.com/item?id=28206863

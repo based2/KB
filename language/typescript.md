@@ -39,3 +39,7 @@ https://www.sonarlint.org/
 https://lift.sonatype.com/
 https://eslint.org/
 https://snyk.io/blog/snyk-code-now-available-free-sast/
+
+# Deno
+https://deno.com/blog/deno-on-mdn
+* https://news.ycombinator.com/item?id=28274168

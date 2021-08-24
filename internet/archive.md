@@ -17,6 +17,9 @@ https://everything2.com/
 https://www.urbandictionary.com/define.php?term=hacker%20news
 * https://news.ycombinator.com/item?id=28259153
 
+https://www.404pagefound.com/
+* https://news.ycombinator.com/item?id=28290169
+
 # Vintage
 https://www.webdesignmuseum.org/web-design-history/timeline-1990-1994
 

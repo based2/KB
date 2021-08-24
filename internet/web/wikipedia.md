@@ -12,6 +12,8 @@ https://meta.wikimedia.org/wiki/Croatian_Wikipedia_Disinformation_Assessment-202
 http://static.wiki/
 * https://news.ycombinator.com/item?id=28012829
 
+https://news.ycombinator.com/item?id=28277749
+
 # Wiki
 https://gitlab.com/moasdawiki/moasdawiki-server/-/tree/master/installer/linux/debian
 * https://news.ycombinator.com/item?id=27746717

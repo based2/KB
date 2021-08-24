@@ -177,5 +177,9 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://www.scylladb.com/
+* https://news.ycombinator.com/item?id=28294501
+https://arrow.apache.org/blog/2021/08/18/datafusion-5.0.0/
+* https://news.ycombinator.com/item?id=28290616
 https://blog.cloudera.com/announcing-the-ga-of-cloudera-dataflow-for-the-public-cloud/
 

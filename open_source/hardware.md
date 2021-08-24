@@ -55,6 +55,9 @@ https://www.crowdsupply.com/neuroidss/freeeeg32
 https://www.kadirilkimen.com/thepolarbear/
 * https://news.ycombinator.com/item?id=28231187
 
+https://ploopy.co/
+* https://news.ycombinator.com/item?id=28285427
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 * https://news.ycombinator.com/item?id=27628101
@@ -69,6 +72,9 @@ https://github.com/scottbez1/splitflap
 
 https://github.com/casspop/ohd OverHeadDoor Garage Door Monitor
 * https://news.ycombinator.com/item?id=27639537
+
+https://piotr.westfalewicz.com/blog/2020/04/the-ultimate-cloud-cat-feeder-overview/
+* https://news.ycombinator.com/item?id=28273082
 
 # News
 https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/

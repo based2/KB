@@ -52,6 +52,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://github.com/yamafaktory/hypergraph
+* https://news.ycombinator.com/item?id=28274366
 https://www.quantamagazine.org/mathematicians-solve-decades-old-classification-problem-20210805/
 * https://news.ycombinator.com/item?id=28074999
 https://www.datanami.com/2021/07/30/why-young-developers-dont-get-knowledge-graphs/

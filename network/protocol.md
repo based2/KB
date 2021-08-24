@@ -14,3 +14,9 @@ https://alex.flounder.online/gemlog/2021-01-08-useless.gmi
 
 https://p4.org/
 * https://news.ycombinator.com/item?id=27612728
+
+https://modern.ircdocs.horse/
+* https://news.ycombinator.com/item?id=28279215
+
+https://docs.modernxmpp.org/
+* https://news.ycombinator.com/item?id=28276266

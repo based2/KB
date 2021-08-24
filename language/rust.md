@@ -114,6 +114,8 @@ http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/
 https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
 * https://news.ycombinator.com/item?id=27542504
 
+https://cfsamson.github.io/book-exploring-async-basics/
+
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 * https://news.ycombinator.com/item?id=27135591
