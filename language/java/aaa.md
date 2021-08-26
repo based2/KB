@@ -207,6 +207,8 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://blogs.oracle.com/javamagazine/hidden-gems-jdk16-jdk17-jep
+* https://news.ycombinator.com/item?id=28302951
 https://habr.com/en/post/574082/ abs
 https://openjdk.java.net/groups/vulnerability/advisories/2021-07-20
 https://blog.adoptium.net/2021/08/adoptium-celebrates-first-release/

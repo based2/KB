@@ -1,3 +1,6 @@
+http://hyperphysics.phy-astr.gsu.edu/hbase/emcon.html#emcon
+* https://news.ycombinator.com/item?id=28285808
+
 https://ptable.com/#Propri%C3%A9t%C3%A9s
 *
 

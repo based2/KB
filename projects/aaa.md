@@ -126,6 +126,14 @@ https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9
 https://bitfieldconsulting.com/blog/got-game-secrets-of-great-incident-management
 * https://news.ycombinator.com/item?id=28119025
 
+
+https://www.2uo.de/deming/
+* https://news.ycombinator.com/item?id=28299333
+
+
+https://iism.org/article/why-are-ceos-failing-software-engineers-56?r=1
+* https://news.ycombinator.com/item?id=28315675
+
 # Musics for programming
 https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887

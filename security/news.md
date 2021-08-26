@@ -1,3 +1,13 @@
+https://linuxfr.org/news/sortie-de-crowdsec-1-1-x-quelles-sont-les-nouveautes
+
+https://twitter.com/josephfcox/status/1430161392364044292
+* https://news.ycombinator.com/item?id=28300115
+* https://www.schneier.com/blog/archives/2021/08/surveillance-of-the-internet-backbone.html
+  * https://www.vice.com/en/article/jg84yy/data-brokers-netflow-data-team-cymru
+
+https://fly.io/blog/api-tokens-a-tedious-survey/
+* https://news.ycombinator.com/item?id=28295348
+
 https://www.openssl.org/news/secadv/20210824.txt
 * https://news.ycombinator.com/item?id=28290210
 

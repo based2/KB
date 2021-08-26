@@ -92,3 +92,6 @@ https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplicati
 https://www.abelprize.no/nyheter/vis.html?tid=76397 LLL
 
 https://www.youtube.com/watch?v=lUqqQXFTHUY John Baez: "Mathematics in the 21st century" Topos Institute
+
+https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/
+* https://news.ycombinator.com/item?id=28318425

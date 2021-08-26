@@ -41,6 +41,9 @@ https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.ht
 
 https://on-systems.tech/114-deriving-data-lineage-from-sql-statements/
 
+https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction
+* https://news.ycombinator.com/item?id=28296877
+
 # Tools
 http://harelba.github.io/q/
 * https://news.ycombinator.com/item?id=27423276

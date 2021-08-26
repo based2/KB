@@ -137,6 +137,10 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
 # News
+https://supertunnel.app/
+* https://news.ycombinator.com/item?id=28313067
+https://github.com/marceloprates/prettymaps Python OSM
+* https://news.ycombinator.com/item?id=28300951
 https://ai.googleblog.com/2021/07/mapping-africas-buildings-with.html
 * https://news.ycombinator.com/item?id=27993946
 https://github.com/DHI-GRAS/terracotta

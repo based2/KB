@@ -24,6 +24,8 @@ https://developers.google.com/speed/webp/docs/compression
 
 https://www.lodsb.com/reversing-lz91-from-commander-keen
 
+https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
+
 ## Tools
 https://www.7-zip.org/download.html
 

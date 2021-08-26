@@ -29,6 +29,10 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://blog.jim-nielsen.com/2021/canistilluse.com/
+* https://news.ycombinator.com/item?id=28309885
+https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/
+* https://news.ycombinator.com/item?id=28286493
 https://blogs.windows.com/msedgedev/2021/08/17/css-module-scripts-import-stylesheets-like-javascript-modules/
 https://discourse.mozilla.org/t/can-anyone-release-extensions-right-now-to-me-it-looks-like-addons-mozilla-org-is-critically-broken/84830
 https://www.reddit.com/r/firefox/comments/p8g5zd/why_does_disabling_accessibility_services_improve/

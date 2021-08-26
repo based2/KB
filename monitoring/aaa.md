@@ -60,6 +60,8 @@ https://goaccess.io/
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://blog.thecloudside.com/raspberry-pi-monitoring-using-telegraf-influxdb-and-grafana-defb63127fe3
+* https://news.ycombinator.com/item?id=28317553
 https://www.honeycomb.io/blog/all-in-on-opentelemetry/
 https://www.betterment.com/resources/service-level-objectives-slo/
 https://semiengineering.com/who-owns-in-chip-monitoring-data/

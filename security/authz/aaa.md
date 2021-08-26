@@ -4,3 +4,6 @@ https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-syste
 
 https://blog.dan.drown.org/kerberos-for-windows-without-ad/
 * https://news.ycombinator.com/item?id=28213846
+
+https://github.com/eclipse-ee4j/exousia/releases/tag/1.0.0-RELEASE
+* https://www.reddit.com/r/java/comments/pb7rho/exousia_100_jakarta_authorization_implementation/

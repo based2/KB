@@ -9,3 +9,8 @@ https://soundcloud.com/xavieruniversitylibrary/sets/conference-on-the-foundation
 https://ai.googleblog.com/2021/08/demonstrating-fundamentals-of-quantum.html
 
 https://en.wikipedia.org/wiki/Toffoli_gate
+
+
+https://www3.nhk.or.jp/nhkworld/en/news/20210826_10/
+* https://news.ycombinator.com/item?id=28311935
+  * https://www.toshiba.eu/pages/eu/Cambridge-Research-Laboratory/toshiba-announces-breakthrough-in-long-distance-quantum-communication 

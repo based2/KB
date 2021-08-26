@@ -15,4 +15,6 @@ https://increment.com/containers/containerization-case-study/
 * https://news.ycombinator.com/item?id=27327849
 
 # News
+https://www.taiuru.maori.nz/maori-data-sovereignty-licences/
+* https://news.ycombinator.com/item?id=28286362
 https://www.bundesregierung.de/resource/blob/975228/1940386/966896784ea4e82e0ffdef2dbc2309b6/2021-07-07-open-data-strategie-data.pdf?download=1

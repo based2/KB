@@ -46,6 +46,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://ember-climate.org/project/global-electricity-review-h1-2021/
+* https://news.ycombinator.com/item?id=28303729
 https://www.nytimes.com/2021/03/09/business/electric-cars-japan.html
 * https://news.ycombinator.com/item?id=28263843
 https://www.bbc.com/future/article/20210603-nitrous-oxide-the-worlds-forgotten-greenhouse-gas

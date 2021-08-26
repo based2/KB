@@ -21,6 +21,8 @@ http://en.wikipedia.org/wiki/Delay_line_memory
 https://github.com/ianpreston/redditfs
 https://github.com/Rossem/RedditStorage
 
+https://taler.net/en/features.html
+
 # History
 https://en.wikipedia.org/wiki/Napster
 

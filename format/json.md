@@ -1,4 +1,8 @@
 https://stedolan.github.io/jq/
+
+https://earthly.dev/blog/jq-select/
+* https://news.ycombinator.com/item?id=28297232
+
 http://jmespath.org/
 
 https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/

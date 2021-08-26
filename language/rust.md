@@ -116,6 +116,9 @@ https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
 
 https://cfsamson.github.io/book-exploring-async-basics/
 
+https://blog.cloudflare.com/pin-and-unpin-in-rust/
+* https://news.ycombinator.com/item?id=28315992
+
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 * https://news.ycombinator.com/item?id=27135591

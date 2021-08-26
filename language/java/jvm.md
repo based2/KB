@@ -38,3 +38,6 @@ https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/
 
 # Fiber
 https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/
+
+# ZGC
+https://www.youtube.com/watch?v=88E86quLmQA&t=1750s ZGC: The Next Generation Low-Latency Garbage Collector

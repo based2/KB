@@ -1,7 +1,7 @@
-https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 
 http://www.haproxy.org/
 https://www.haproxy.com/blog/announcing-haproxy-2-4/
+https://www.haproxy.com/blog/haproxy-apis/
 
 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
 

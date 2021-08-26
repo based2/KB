@@ -27,6 +27,7 @@ https://satellitemap.space/
 https://twitter.com/SciGuySpace/status/1420795248205312000
 * https://news.ycombinator.com/item?id=27999112
 * https://gizmodo.com/russian-module-unexpectedly-fires-thrusters-after-docki-1847387773
+* https://spectrum.ieee.org/naukas-troubled-flight-t
 
 ## Tianhe
 https://www.globaltimes.cn/page/202107/1227953.shtml

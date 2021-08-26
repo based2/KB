@@ -21,6 +21,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 * https://news.ycombinator.com/item?id=27507723
 
 # News
+https://turingpi.com/turing-pi-v2-is-here/
+* https://news.ycombinator.com/item?id=28299204
 https://haydenjames.io/home-lab-beginners-guide-hardware/
 * https://news.ycombinator.com/item?id=28274128
 http://sam.zeloof.xyz/second-ic/

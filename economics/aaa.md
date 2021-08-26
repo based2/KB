@@ -51,6 +51,9 @@ https://www.machow.ski/posts/2021-07-24-positions-profit-and-loss/
 https://duedilly.io/
 * https://news.ycombinator.com/item?id=28244744
 
+https://jamespotter.dev/hacker-news-tech-trends/
+* https://news.ycombinator.com/item?id=28288760
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 * https://news.ycombinator.com/item?id=28037317

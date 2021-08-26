@@ -31,3 +31,8 @@ https://tug.org/FontCatalogue/
 
 https://www.freetype.org/ttfautohint/
 * https://news.ycombinator.com/item?id=27946713
+
+
+#
+https://www.juliendesrosiers.com/2021/08/21/tools-for-thinking.php
+* https://news.ycombinator.com/item?id=28292225
