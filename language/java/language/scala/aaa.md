@@ -12,6 +12,8 @@ https://akka.io/
 
 https://www.scala-js.org/
 
+https://scalablytyped.org/docs/readme.html
+
 https://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html
 * https://news.ycombinator.com/item?id=27491105
 

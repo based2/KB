@@ -119,6 +119,8 @@ https://cfsamson.github.io/book-exploring-async-basics/
 https://blog.cloudflare.com/pin-and-unpin-in-rust/
 * https://news.ycombinator.com/item?id=28315992
 
+https://blog.yoshuawuyts.com/async-overloading/
+
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 * https://news.ycombinator.com/item?id=27135591
@@ -253,6 +255,10 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://github.com/hecrj/iced/ GUI Elm
+* https://news.ycombinator.com/item?id=28326125
+https://github.com/trusch/snakeos
+* https://news.ycombinator.com/item?id=28323275
 https://www.cmyr.net/blog/rust-gui-infra.html
 https://instantdomainsearch.com/engineering/instant-word-segmentation-with-rust
 * https://github.com/tkaitchuck/ahash

@@ -41,6 +41,9 @@ https://medium.com/airbnb-engineering/himeji-a-scalable-centralized-system-for-a
 
 https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-system-782a7f2c840f
 
+https://prezu.ca/post/2021-07-30-totp-1/
+* https://news.ycombinator.com/item?id=28324626
+
 # eID
 https://news.ycombinator.com/item?id=27351769
 

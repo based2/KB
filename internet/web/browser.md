@@ -29,6 +29,7 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://security.googleblog.com/2021/07/protecting-more-with-site-isolation.html
 https://blog.jim-nielsen.com/2021/canistilluse.com/
 * https://news.ycombinator.com/item?id=28309885
 https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/

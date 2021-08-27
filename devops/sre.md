@@ -14,3 +14,8 @@ http://muratbuffalo.blogspot.com/2021/06/cores-that-dont-count.html
 * https://news.ycombinator.com/item?id=27639837
 
 https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/
+
+https://aws.amazon.com/ru/message/41926/ s3 2017
+
+https://danluu.com/why-benchmark/
+* https://news.ycombinator.com/item?id=28326275

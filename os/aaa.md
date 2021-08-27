@@ -17,6 +17,8 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://ramblemaps.com/turning-satellite-imagery-into-wall-art
+* https://news.ycombinator.com/item?id=28325421
 http://serenityos.org/
 * https://news.ycombinator.com/item?id=28206840
 https://newsroom.ibm.com/2021-07-27-Announcing-IBM-z-OS-V2-5,-Next-Gen-Operating-System-Designed-for-Hybrid-Cloud-and-AI

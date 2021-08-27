@@ -155,6 +155,9 @@ https://github.com/mlcraft-io/mlcraft
 https://observablehq.com/@observablehq/data-wrangler
 * https://news.ycombinator.com/item?id=28255467
 
+https://news.ycombinator.com/item?id=28304781
+
+
 # CI
 https://hypervector.io/
 

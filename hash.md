@@ -58,6 +58,9 @@ https://github.com/Clivern/Bucket Consistent Hashing Package for Scalable Data D
 https://francoisbest.com/posts/2021/hashvatars
 * https://news.ycombinator.com/item?id=27534379
 
+https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
+* 
+
 # News
 https://www.phash.org/
 * https://news.ycombinator.com/item?id=28256220

@@ -12,6 +12,9 @@ https://blog.apnic.net/2019/08/23/what-can-you-learn-from-an-ip-address/
 https://www.potaroo.net/ispcol/2021-04/v6frag.html
 https://news.ycombinator.com/item?id=26913100
 
+https://tailscale.com/kb/1134/ipv6-faq/
+* https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 * https://news.ycombinator.com/item?id=26851687 Port zero

@@ -10,6 +10,8 @@ https://github.com/junegunn/vim-plug
 https://v2.onivim.io/ $
 * https://news.ycombinator.com/item?id=27627275
 
+https://thevaluable.dev/vim-expert/
+
 # Nano
 
 

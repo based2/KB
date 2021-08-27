@@ -95,3 +95,6 @@ https://www.youtube.com/watch?v=lUqqQXFTHUY John Baez: "Mathematics in the 21st 
 
 https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/
 * https://news.ycombinator.com/item?id=28318425
+
+https://yurichev.com/news/20210131_IEEE_754/
+* https://news.ycombinator.com/item?id=28326685

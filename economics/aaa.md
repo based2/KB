@@ -54,6 +54,9 @@ https://duedilly.io/
 https://jamespotter.dev/hacker-news-tech-trends/
 * https://news.ycombinator.com/item?id=28288760
 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898940
+* https://news.ycombinator.com/item?id=28331610
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 * https://news.ycombinator.com/item?id=28037317

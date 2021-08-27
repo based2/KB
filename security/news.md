@@ -1,3 +1,8 @@
+https://blog.phylum.io/author-risk-bad-actors-in-github
+
+https://www.wiz.io/blog/chaosdb-how-we-hacked-thousands-of-azure-customers-databases
+* https://news.ycombinator.com/item?id=28323725
+
 https://linuxfr.org/news/sortie-de-crowdsec-1-1-x-quelles-sont-les-nouveautes
 
 https://twitter.com/josephfcox/status/1430161392364044292

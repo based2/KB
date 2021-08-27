@@ -6,6 +6,8 @@ https://www.youtube.com/watch?v=5ZjhNTM8XU8 "Transactions: myths, surprises and 
 https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally
 * https://news.ycombinator.com/item?id=28230641
 
+https://minimalmodeling.substack.com/p/stakeholders-and-their-concerns
+
 H-Store -> NewSQL
 https://en.wikipedia.org/wiki/H-Store
 

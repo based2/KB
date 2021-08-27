@@ -52,6 +52,9 @@ https://www.cybertec-postgresql.com/en/postgresql-limit-vs-fetch-first-rows-with
 https://blog.jonudell.net/2021/07/27/working-with-postgres-types/
 * https://news.ycombinator.com/item?id=28095264
 
+https://github.com/vramework/postgres-typed
+* https://news.ycombinator.com/item?id=28326117
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 

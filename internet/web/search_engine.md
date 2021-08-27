@@ -54,6 +54,10 @@ https://arxiv.org/abs/2105.14134 Netflix
 https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/
 * https://news.ycombinator.com/item?id=28051562
 
+# MetaSearch
+https://github.com/benbusby/whoogle-search
+* https://news.ycombinator.com/item?id=28326180
+
 # News
 https://yurichev.com/news/20210205_rolling_hash/
 https://www.pinecone.io/learn/vector-indexes/

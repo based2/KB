@@ -16,6 +16,9 @@ https://sysdig.com/blog/lateral-movement-cloud-containers/
 
 https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-2
 
+https://buoyant.io/mtls-guide/
+* https://news.ycombinator.com/item?id=28329878
+
 # Scanner
 https://github.com/quay/clair Red Hat
 

@@ -13,6 +13,7 @@ https://cryptosec.info/exchange-hacks/
 
 
 # News
+https://www.theblockcrypto.com/post/115804/ontario-securities-regulator-bars-the-countrys-first-registered-crypto-platforms-from-trading-tether
 https://eprint.iacr.org/2019/1096.pdf Proof-of-Burn
 https://liuliu.me/eyes/the-endgame-for-cryptocurrency/
 https://securehoney.net/blog/cryptojacking-a-tale-of-riches-deceit-and-theft.html

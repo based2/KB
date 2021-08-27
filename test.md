@@ -45,6 +45,8 @@ https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
 * https://news.ycombinator.com/item?id=27923631
 
+https://www.neuraxio.com/blogs/news/how-to-unit-test-machine-learning-code
+
 # Distributed
 https://github.com/tylertreat/comcast
 

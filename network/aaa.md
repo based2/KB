@@ -29,6 +29,8 @@ https://www.nsnam.org/ Discrete-event network simulator for Internet systems
 
 https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html
 
+https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Information-Technology/NCS/CORE/
+
 # Investigations
 
 https://blog.ikuamike.io/posts/2021/netcat/
@@ -52,6 +54,8 @@ https://major.io/2021/06/06/a-new-future-for-icanhazip/
 * https://news.ycombinator.com/item?id=27415537
 
 http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html
+
+https://github.com/urbenlegend/netimpair
 
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f

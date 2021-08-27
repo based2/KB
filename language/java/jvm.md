@@ -21,6 +21,9 @@ https://inside.java/2021/05/10/networking-io-with-virtual-threads/
 https://shipilev.net/jvm/anatomy-quarks/30-conditional-moves/
 * https://www.reddit.com/r/java/comments/opydg2/jvm_anatomy_quark_30_conditional_moves/
 
+https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=D2E23939503D6F7B6D2017CA19A0667F?doi=10.1.1.21.7133&rep=rep1&type=pdf
+* https://lobste.rs/s/zdrqir/efficient_implementation_java
+
 # GC
 https://inside.java/2020/06/25/compact-forwarding/
 * https://news.ycombinator.com/item?id=23700451

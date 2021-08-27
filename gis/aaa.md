@@ -137,6 +137,7 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
 # News
+https://s2geometry.io/
 https://supertunnel.app/
 * https://news.ycombinator.com/item?id=28313067
 https://github.com/marceloprates/prettymaps Python OSM

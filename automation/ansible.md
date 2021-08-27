@@ -11,6 +11,9 @@ http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html
 
 https://www.redhat.com/sysadmin/troubleshoot-ansible-playbooks
 
+https://zwischenzugs.com/2021/08/27/five-ansible-techniques-i-wish-id-known-earlier/
+* https://news.ycombinator.com/item?id=28327694
+
 # Ansible Vault
 
 # Notes
