@@ -59,6 +59,7 @@ https://github.com/benbusby/whoogle-search
 * https://news.ycombinator.com/item?id=28326180
 
 # News
+https://medium.com/ai2-blog/building-a-better-search-engine-for-semantic-scholar-ea23a0b661e7
 https://yurichev.com/news/20210205_rolling_hash/
 https://www.pinecone.io/learn/vector-indexes/
 http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html

@@ -150,6 +150,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://github.com/khang-nd/7.css
+* https://news.ycombinator.com/item?id=28343930
+https://css-tricks.com/the-fixed-background-attachment-hack/
 https://www.joshwcomeau.com/css/transforms/
 * https://news.ycombinator.com/item?id=28116888
 https://www.bryanbraun.com/after-dark-css/

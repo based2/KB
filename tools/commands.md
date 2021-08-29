@@ -11,3 +11,9 @@ https://earthly.dev/blog/command-line-tools/
 
 https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/ jc
 * https://news.ycombinator.com/item?id=28266193
+
+https://github.com/catatsuy/lls
+* https://news.ycombinator.com/item?id=28344386
+
+https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html
+* https://news.ycombinator.com/item?id=28343109

@@ -26,10 +26,7 @@ https://github.com/Nudin/iptable_vis
 
 https://www.nsnam.org/ Discrete-event network simulator for Internet systems
 
-
 https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html
-
-https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Information-Technology/NCS/CORE/
 
 # Investigations
 
@@ -49,6 +46,8 @@ https://en.wikipedia.org/wiki/Internet_background_noise
 https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-code-walkthrough/
 * https://news.ycombinator.com/item?id=27435081
 
+
+
 # Tests
 https://major.io/2021/06/06/a-new-future-for-icanhazip/
 * https://news.ycombinator.com/item?id=27415537
@@ -56,6 +55,11 @@ https://major.io/2021/06/06/a-new-future-for-icanhazip/
 http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html
 
 https://github.com/urbenlegend/netimpair
+
+https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Information-Technology/NCS/CORE/
+
+https://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/
+* https://news.ycombinator.com/item?id=28311288
 
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
@@ -73,13 +77,11 @@ https://www.kernel.org/doc/html/latest/networking/vxlan.html
 
 https://github.com/MatteoGuadrini/vmam
 
+https://www.wasabiroll.com/2019/09/vxlan-fundamentals-of-virtual.html
+
 # Mesh
 https://irde.st/
 * https://news.ycombinator.com/item?id=26925584
-
-# BGP
-https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
-* https://news.ycombinator.com/item?id=27768778
 
 # Learn
 https://news.ycombinator.com/item?id=27650775

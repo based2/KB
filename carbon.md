@@ -46,6 +46,10 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.youtube.com/watch?v=8w64V3R57aE
+https://web.dev/app-history-api/
+https://phys.org/news/2021-08-cities-paris-optimal-urban-greenhouse.html
+https://www.reddit.com/r/space/comments/pasp72/we_are_nasas_co2_conversion_challenge_winners_and/
 https://www.bloomberg.com/news/articles/2021-08-26/swiss-re-signed-a-10-million-carbon-capture-deal
 https://ember-climate.org/project/global-electricity-review-h1-2021/
 * https://news.ycombinator.com/item?id=28303729

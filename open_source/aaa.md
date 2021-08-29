@@ -157,6 +157,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million
+* https://news.ycombinator.com/item?id=28338830
+https://sill.etalab.gouv.fr/fr/software
 https://blog.documentfoundation.org/blog/2021/08/19/libreoffice-7-2-community/
 * https://news.ycombinator.com/item?id=28232113
 https://github.com/dapr/dapr/issues/3563 Project includes a dependancy that has a license that forbids its use.

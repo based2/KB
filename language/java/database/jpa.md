@@ -31,6 +31,8 @@ https://wiringbits.net/java/2021/07/25/from-hibernate-schema-generation-to-flywa
 
 https://vladmihalcea.com/keyset-pagination-jpa-hibernate/
 
+https://www.reddit.com/r/java/comments/oz67sy/springdatajpatemporal_a_lightweight_temporal/
+
 # cons
 https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 * https://news.ycombinator.com/item?id=26772550

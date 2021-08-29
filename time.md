@@ -112,9 +112,15 @@ https://en.wikipedia.org/wiki/Time_crystal
 
 https://longtermist.substack.com/p/microcenturies-methuselahs-and-musks
 
+https://en.wikipedia.org/wiki/Sidereal_time
+
 # Investigation
 https://memgraph.com/blog/overflowing-timeout
 * https://news.ycombinator.com/item?id=27832690
+
+
+# History
+https://japantoday.com/category/features/lifestyle/the-%27wadokei%27-the-old-way-of-measuring-time-in-japan
 
 # News
 https://www.reddit.com/r/scala/comments/p1xps0/scalqa_perfect_time_library/

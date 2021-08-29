@@ -124,6 +124,7 @@ http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
 
 # News
+https://kaitai.io/ Parsers for binary structures.
 https://nelua.io/ lua
 * https://news.ycombinator.com/item?id=28293836
 https://www.liquidsoap.info/ streaming

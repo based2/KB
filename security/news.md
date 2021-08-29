@@ -1,7 +1,22 @@
+https://thenewstack.io/trend-micro-points-out-a-giant-cloud-linux-security-problem/
+
+https://help.backblaze.com/hc/en-us/articles/217664798-Security-Question-Round-up-
+* https://news.ycombinator.com/item?id=28349192
+
+https://old.reddit.com/r/privacy/comments/pcb3ej/a_timely_reminder_that_apple_can_read_your/
+* https://news.ycombinator.com/item?id=28340542
+
+https://sector7.computest.nl/post/2021-08-zoom/
+* https://news.ycombinator.com/item?id=28336109
+
+https://www.reddit.com/r/privacy/comments/pd4y5m/apples_new_private_relay_is_leaking_your_original/
+
 https://blog.phylum.io/author-risk-bad-actors-in-github
 
 https://www.wiz.io/blog/chaosdb-how-we-hacked-thousands-of-azure-customers-databases
 * https://news.ycombinator.com/item?id=28323725
+* https://news.ycombinator.com/item?id=28347141
+  * https://arstechnica.com/information-technology/2021/08/worst-cloud-vulnerability-you-can-imagine-discovered-in-microsoft-azure/
 
 https://linuxfr.org/news/sortie-de-crowdsec-1-1-x-quelles-sont-les-nouveautes
 

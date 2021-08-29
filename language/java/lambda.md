@@ -2,3 +2,6 @@ Design Patterns in the Light of Lambda Expressions (Java 8) -- Venkat Subramania
 https://www.youtube.com/watch?v=gIrKP76iuPs
 
 https://javalin.io/blog/static-methods-within-lambdas
+
+Lambdas in Java: A Peek under the Hood • Brian Goetz • GOTO 2013
+https://www.youtube.com/watch?v=MLksirK9nnE 

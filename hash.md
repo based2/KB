@@ -59,7 +59,8 @@ https://francoisbest.com/posts/2021/hashvatars
 * https://news.ycombinator.com/item?id=27534379
 
 https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
-* 
+
+https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
 https://www.phash.org/

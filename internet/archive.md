@@ -20,6 +20,8 @@ https://www.urbandictionary.com/define.php?term=hacker%20news
 https://www.404pagefound.com/
 * https://news.ycombinator.com/item?id=28290169
 
+https://teamarin.net/2021/08/27/afrinic-and-the-stability-of-the-internet-number-registry-system/
+
 # Vintage
 https://www.webdesignmuseum.org/web-design-history/timeline-1990-1994
 

@@ -110,6 +110,8 @@ https://fabianlindfors.se/blog/schema-migrations-in-postgres/
 * https://news.ycombinator.com/item?id=27531934
  * https://dba.stackexchange.com/questions/195104/postgres-group-by-id-works-on-table-directly-but-not-on-identical-view
 
+https://www.migops.com/blog/2021/08/27/announcing-pg_dbms_job-in-postgresql-for-oracle-dbms_job-compatibility/
+
 # Container
 https://www.kubegres.io/
 * https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/

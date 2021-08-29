@@ -121,6 +121,10 @@ https://blog.cloudflare.com/pin-and-unpin-in-rust/
 
 https://blog.yoshuawuyts.com/async-overloading/
 
+# Type - effect
+https://without.boats/blog/the-problem-of-effects/
+* https://news.ycombinator.com/item?id=28326106
+
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 * https://news.ycombinator.com/item?id=27135591
@@ -255,6 +259,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://vfoley.xyz/reasonable-use-2/
+* https://news.ycombinator.com/item?id=28342478
+https://www.reddit.com/r/netsec/comments/p0d5zk/cve202129922_rust_standard_library_net_improper/
 https://github.com/hecrj/iced/ GUI Elm
 * https://news.ycombinator.com/item?id=28326125
 https://github.com/trusch/snakeos

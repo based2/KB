@@ -17,3 +17,6 @@ https://expeditedsecurity.com/aws-in-plain-english/
 
 https://aws.amazon.com/fr/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/
 * https://news.ycombinator.com/item?id=28190608
+
+
+https://medium.com/@nirdosh.gautam/how-to-cleanup-aws-cloudformation-stacks-efficiently-32e69f9b62f9

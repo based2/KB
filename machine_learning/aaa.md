@@ -218,6 +218,10 @@ https://github.com/fabsig/GPBoost
 https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
+
+# History
+https://news.ycombinator.com/item?id=28343118
+
 # News
 
 https://github.com/deepmind/open_spiel

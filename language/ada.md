@@ -16,9 +16,17 @@ https://www.electronicdesign.com/technologies/embedded-revolution/article/211670
 
 https://blog.adacore.com/announcing-the-first-ada-spark-crate-of-the-year-award
 
-# GNAT
+https://pyjarrett.github.io/programming-with-ada/four-months-summary.html Ada2021 and spark
+* https://news.ycombinator.com/item?id=28344885
+  * http://www.ada-auth.org/standards/rationale12.html Rationale for Ada 2012
+  * http://www.ada-auth.org/arm.html Reference Manual
+  * https://en.wikipedia.org/wiki/Ada_Conformity_Assessment_Test_Suite
+
+# GCC/GNAT
 https://www.adacore.com/download
 * https://news.ycombinator.com/item?id=27313294
+
+https://www.gnu.org/software/gnat/gnat.html
 
 https://blog.adacore.com/going-beyond-ada-2022
 

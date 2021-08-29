@@ -79,7 +79,13 @@ https://github.com/mhadidg/software-architecture-books
     Example code for scene recognition/image retrieval. https://boofcv.org/index.php?title=Example_Scene_Recognition
     Example code for 3D Reconstruction to create point clouds https://boofcv.org/index.php?title=Example_Multiview_Reconstruction_Dense
 
+https://stuvel.eu/articles/spherical-panoramas/
+* https://news.ycombinator.com/item?id=28349246
+
+
 # News
+https://jesseduffield.com/Type-Keys/
+* https://news.ycombinator.com/item?id=28325563
 https://simonwillison.net/2021/Jul/28/baked-data/
 * https://news.ycombinator.com/item?id=27994393
 https://assets.thoughtworks.com/assets/technology-radar-vol-24-en.pdf

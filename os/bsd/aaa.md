@@ -15,6 +15,9 @@ https://doc.huc.fr.eu.org/en/sys/openbsd/vmd-host-guest-on-same-network/
 https://openbsdrouterguide.net/
 * https://news.ycombinator.com/item?id=28033758
 
+https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html
+* https://news.ycombinator.com/item?id=28333608
+
 # FreeBSD
 https://www.freebsd.org/status/report-2021-01-2021-03/
 * https://news.ycombinator.com/item?id=27060326

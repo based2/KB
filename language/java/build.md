@@ -18,6 +18,8 @@ https://reflectoring.io/maven-bom/
 
 https://central.sonatype.org/news/20210510_new-security-capabilities/
 
+https://blogs.oracle.com/javamagazine/how-to-write-your-own-maven-plugins
+
 ## Public repositories
 https://search.maven.org/classic/#
 

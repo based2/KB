@@ -48,6 +48,7 @@ https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/
 * https://news.ycombinator.com/item?id=28207810
 
 # M1
+https://www.anaconda.com/blog/apple-silicon-transition
 https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/
 * https://lobste.rs/s/2zajeu/journey_controlling_external_monitors
 https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownership/

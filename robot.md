@@ -14,6 +14,10 @@ https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers
 https://dronedj.com/2021/07/22/ai-beats-human-drone-racing-pilot/
 * https://news.ycombinator.com/item?id=27940997
 
+# ObjectTracking
+https://blog.roboflow.com/zero-shot-object-tracking/
+* https://news.ycombinator.com/item?id=28310814
+
 # News
 https://blog.x.company/introducing-intrinsic-1cf35b87651
 * https://news.ycombinator.com/item?id=27931562

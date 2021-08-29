@@ -22,5 +22,8 @@ https://arxiv.org/abs/2004.02504
 https://xenodium.com/emacs-smarter-search-and-replace/
 * https://lobste.rs/s/lrpbmh/emacs_smarter_search_replace
 
+http://ergoemacs.org/emacs/modernization.html
+* https://news.ycombinator.com/item?id=28336724
+
 
 

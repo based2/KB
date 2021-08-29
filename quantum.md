@@ -15,3 +15,5 @@ https://strawberryfields.ai/photonics/index.html
 https://www3.nhk.or.jp/nhkworld/en/news/20210826_10/
 * https://news.ycombinator.com/item?id=28311935
   * https://www.toshiba.eu/pages/eu/Cambridge-Research-Laboratory/toshiba-announces-breakthrough-in-long-distance-quantum-communication 
+
+https://en.wikipedia.org/wiki/Time_crystal

@@ -15,10 +15,12 @@ https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 
 https://github.com/ToolJet/ToolJet
 
+https://ballerina.io/
+
 # Validation
 https://cuelang.org/docs/about/
 * https://news.ycombinator.com/item?id=27510919
 
-# Neqs
+# News
 https://posthog.com/blog/automating-a-software-company-with-github-actions
 * https://news.ycombinator.com/item?id=28234057

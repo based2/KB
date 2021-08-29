@@ -20,3 +20,9 @@ https://modern.ircdocs.horse/
 
 https://docs.modernxmpp.org/
 * https://news.ycombinator.com/item?id=28276266
+
+# BGP
+https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
+* https://news.ycombinator.com/item?id=27768778
+
+https://elegantnetwork.github.io/posts/followup-measuring-BGP-stacks/

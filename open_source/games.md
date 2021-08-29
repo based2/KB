@@ -42,3 +42,12 @@ https://o3de.org/
 https://rg3d.rs/general/2021/08/21/0.22-feature-highlights.html
 * https://news.ycombinator.com/item?id=28258545
 
+https://www.vega-strike.org/
+* https://news.ycombinator.com/item?id=28338937
+
+# News
+https://smcameron.github.io/space-nerds-in-space/
+* https://news.ycombinator.com/item?id=28343941
+
+https://daid.github.io/EmptyEpsilon/#tabs=3,station-tabs=0
+
