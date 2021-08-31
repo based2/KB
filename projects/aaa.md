@@ -11,6 +11,12 @@ https://www.focalboard.com/contribute/getting-started/
 
 https://cacm.acm.org/blogs/blog-cacm/249304-time-to-exhume-psp/fulltext
 
+https://javahippie.net/software/business/2021/08/30/enterprise-software-killed-the-developer.html
+* https://news.ycombinator.com/item?id=28355502
+
+https://neverworkintheory.org/2021/08/29/software-development-waste.html
+* https://news.ycombinator.com/item?id=28352075
+
 # Meeting
 https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/
 * https://news.ycombinator.com/item?id=27545331
@@ -137,3 +143,7 @@ https://iism.org/article/why-are-ceos-failing-software-engineers-56?r=1
 # Musics for programming
 https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887
+
+
+# News
+https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/

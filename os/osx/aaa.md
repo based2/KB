@@ -48,6 +48,7 @@ https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/
 * https://news.ycombinator.com/item?id=28207810
 
 # M1
+https://wiki.netbsd.org/ports/evbarm/apple/
 https://www.anaconda.com/blog/apple-silicon-transition
 https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/
 * https://lobste.rs/s/2zajeu/journey_controlling_external_monitors

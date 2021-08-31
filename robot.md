@@ -14,6 +14,9 @@ https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers
 https://dronedj.com/2021/07/22/ai-beats-human-drone-racing-pilot/
 * https://news.ycombinator.com/item?id=27940997
 
+# Trajectory
+https://www.baucomrobotics.com/domino-robot-posts/trajectory-generation
+
 # ObjectTracking
 https://blog.roboflow.com/zero-shot-object-tracking/
 * https://news.ycombinator.com/item?id=28310814

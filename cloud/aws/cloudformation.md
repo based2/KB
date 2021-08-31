@@ -4,3 +4,5 @@ https://aws.amazon.com/fr/blogs/aws/introducing-a-public-registry-for-aws-cloudf
 * https://news.ycombinator.com/item?id=27586160
 
 https://themythicalengineer.com/setup-aws-cloudwatch-monitoring-and-alarms.html
+
+https://www.vantage.sh/blog/using-cloudformation-stacksets-to-onboard-hundreds-of-member-aws-accounts

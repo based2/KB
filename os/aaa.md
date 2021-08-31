@@ -17,6 +17,8 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://github.com/nanochess/bootOS Oscar Toledo
+* https://news.ycombinator.com/item?id=28326311
 https://ramblemaps.com/turning-satellite-imagery-into-wall-art
 * https://news.ycombinator.com/item?id=28325421
 http://serenityos.org/

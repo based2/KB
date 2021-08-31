@@ -7,7 +7,10 @@ https://buttondown.email/hillelwayne/archive/10-misconceptions-about-formal-meth
 https://uds-psl.github.io/tm-verification-framework/
 * https://news.ycombinator.com/item?id=26860503
 
+https://en.wikipedia.org/wiki/B-Method
+
 https://github.com/jwiegley/category-theory
+
   
 # TLA
 * https://learntla.com/introduction/

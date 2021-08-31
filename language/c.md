@@ -36,3 +36,6 @@ https://nullprogram.com/blog/2021/07/30/ strcpy: a niche function you don't need
 
 https://www.sqlite.org/whyc.html
 * https://news.ycombinator.com/item?id=28278859
+
+https://airbus-seclab.github.io/c-compiler-security/
+* https://news.ycombinator.com/item?id=28367101

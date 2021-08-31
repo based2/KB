@@ -153,6 +153,9 @@ https://github.com/facebookresearch/AugLy
 https://github.com/xialeiliu/Awesome-Incremental-Learning
 
 ## Papers
+
+http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf
+
 https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c
 * https://news.ycombinator.com/item?id=26891227
 
@@ -174,6 +177,10 @@ https://umap-learn.readthedocs.io/en/latest/basic_usage.html
 
 https://pair.withgoogle.com/explorables/
 * https://news.ycombinator.com/item?id=27739694
+
+# Data
+https://en.wikipedia.org/wiki/MNIST_database
+
 
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
@@ -223,7 +230,10 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
-
+https://news.ycombinator.com/item?id=28360220
+https://eugeneyan.com/writing/bootstrapping-data-labels/
+https://machinelearningmastery.com/clustering-algorithms-with-python/
+* https://news.ycombinator.com/item?id=28350412
 https://github.com/deepmind/open_spiel
 https://semianalysis.com/tesla-dojo-ai-super-computer-unique-packaging-and-chip-design-allow-an-order-magnitude-advantage-over-competing-ai-hardware/
 * https://news.ycombinator.com/item?id=28251396

@@ -150,6 +150,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://github.com/facebookexperimental/skybison
+* https://news.ycombinator.com/item?id=28365135
 https://github.com/tiangolo/sqlmodel
 https://vulns.xyz/2021/08/reproducible-python-bytecode/
 https://github.com/tlocke/facata/ Simplified alternative to DBAPI 2

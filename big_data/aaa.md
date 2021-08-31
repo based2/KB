@@ -80,6 +80,9 @@ https://github.com/joouha/euporie
 https://github.com/jtpio/jupyterlite JupyterLite – WASM-powered Jupyter running in the browser
 * https://news.ycombinator.com/item?id=27323548
 
+https://voila.readthedocs.io/en/stable/
+* https://news.ycombinator.com/item?id=28364923
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 * https://news.ycombinator.com/item?id=27145515

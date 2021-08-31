@@ -63,6 +63,11 @@ https://whatmusicreallyis.com/research/harmonicomb/
 https://alda.io/tutorial/
 * https://news.ycombinator.com/item?id=28198641
 
+https://arxiv.org/abs/2108.12290 Music Composition with Deep Learning: A Review
+* https://news.ycombinator.com/item?id=28353358
+
+https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues
+
 # Instrument
 https://www.pianobook.co.uk/
 * https://news.ycombinator.com/item?id=27454717

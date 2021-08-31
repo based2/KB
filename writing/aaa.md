@@ -11,3 +11,6 @@ https://github.com/vkbo/novelWriter
 
 https://frundis.tuxfamily.org/
 * https://linuxfr.org/news/projet-kaosfantasy-et-liberation-de-trois-series-de-fantasy-plus-de-5000-pages
+
+https://zeminary.com/
+* https://news.ycombinator.com/item?id=28362172

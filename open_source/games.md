@@ -29,7 +29,10 @@ https://www.scummvm.org/
 https://chezsoi.org/lucas/blog/pages/images-libres-de-droits.html
 
 # Dev
-https://godotengine.org/
+https://godotengine.org/`
+
+https://itch.io/jam/stop-waiting-for-godot
+* https://news.ycombinator.com/item?id=28352397
 
 https://news.ycombinator.com/item?id=28249468
 * https://github.com/freeboardgames/FreeBoardGames.org
@@ -41,6 +44,9 @@ https://o3de.org/
 
 https://rg3d.rs/general/2021/08/21/0.22-feature-highlights.html
 * https://news.ycombinator.com/item?id=28258545
+
+https://daid.github.io/EmptyEpsilon/
+* https://news.ycombinator.com/item?id=28345868
 
 https://www.vega-strike.org/
 * https://news.ycombinator.com/item?id=28338937

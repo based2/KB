@@ -48,3 +48,8 @@ https://physicsworld.com/a/introducing-the-non-radiating-antenna/
 https://phys.org/news/2021-07-exotic-particle-tetraquark.html
 * https://news.ycombinator.com/item?id=28008771
 
+
+# News
+https://www6.slac.stanford.edu/news/2021-07-19-scientists-discover-how-high-energy-electrons-strengthen-magnetic-fields.aspx
+* https://news.ycombinator.com/item?id=28355115
+

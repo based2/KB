@@ -40,6 +40,8 @@ https://dzone.com/articles/java-holiday-calendar-2016-day-16-hacking-the-exis
 
 https://news.ycombinator.com/item?id=26758205 Why 11 days disappeared in 1752
 
+https://dianne.skoll.ca/projects/remind/
+* https://news.ycombinator.com/item?id=28363453
 
 https://github.com/clulab/timenorm
 
@@ -106,6 +108,9 @@ http://naggum.no/lugm-time.html
 
 https://spectrum.ieee.org/for-precision-the-sapphire-clock-outshines-even-the-best-atomic-clocks#toggle-gdpr
 * https://news.ycombinator.com/item?id=28232645
+
+https://www.tigerbeetle.com/post/three-clocks-are-better-than-one
+* https://news.ycombinator.com/item?id=28354096
 
 #
 https://en.wikipedia.org/wiki/Time_crystal

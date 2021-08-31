@@ -259,6 +259,11 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://github.com/lunatic-solutions/lunatic
+* 
+https://thephilbert.io/2021/08/30/gcc-rust-monthly-report-9-august-2021/ traits
+* https://news.ycombinator.com/item?id=28364629
+https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/
 https://vfoley.xyz/reasonable-use-2/
 * https://news.ycombinator.com/item?id=28342478
 https://www.reddit.com/r/netsec/comments/p0d5zk/cve202129922_rust_standard_library_net_improper/

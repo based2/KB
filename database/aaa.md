@@ -8,6 +8,9 @@ https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally
 
 https://minimalmodeling.substack.com/p/stakeholders-and-their-concerns
 
+https://www.connectionstrings.com/
+* https://news.ycombinator.com/item?id=28352454
+
 H-Store -> NewSQL
 https://en.wikipedia.org/wiki/H-Store
 

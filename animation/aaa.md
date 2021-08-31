@@ -27,10 +27,17 @@ https://spiritapp.io/
 
 https://react-spring.io/
 
+https://www.joshwcomeau.com/animation/keyframe-animations/
+
+https://www.bit-101.com/blog/2021/08/chaikins-algorithm-drawing-curves/
+* https://news.ycombinator.com/item?id=28353464
+
 https://itsfoss.com/enve-2d-animation/
 
 https://ciechanow.ski/internal-combustion-engine/
 * https://news.ycombinator.com/item?id=26991300
+
+https://www.onirom.fr/ica.html
 
 # Transition
 https://css-tricks.com/nailing-that-cool-dissolve-transition/

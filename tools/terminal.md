@@ -20,6 +20,9 @@ https://github.com/kovidgoyal/kitty/issues/391
 https://blind.guru/blog/2021-06-25-brick.html
 * https://news.ycombinator.com/item?id=27629063
 
+https://invisible-island.net/ncurses/ncurses-intro.html
+* https://news.ycombinator.com/item?id=28354194
+
 # PLot
 https://github.com/piccolomo/plotext python
 * https://news.ycombinator.com/item?id=27719759

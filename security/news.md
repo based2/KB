@@ -1,4 +1,9 @@
-https://thenewstack.io/trend-micro-points-out-a-giant-cloud-linux-security-problem/
+https://krisives.github.io/posts/elementary-security-reporting/
+
+https://owasp.org/www-project-cornucopia/
+
+https://github.com/HackingIntoYourHeart/Unoriginal-Rice-Patty
+* https://news.ycombinator.com/item?id=28355312
 
 https://help.backblaze.com/hc/en-us/articles/217664798-Security-Question-Round-up-
 * https://news.ycombinator.com/item?id=28349192
@@ -334,6 +339,8 @@ https://blog.0patch.com/2021/07/free-micropatches-for-printnightmare.html
 * https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/
   * https://news.ycombinator.com/item?id=27761601
 * https://github.com/byt3bl33d3r/ItWasAllADream
+* https://blog.cymulate.com/printnightmare-cve/
+ * https://www.reddit.com/r/netsec/comments/pdqmpe/what_you_need_to_know_about_printnightmare/  
 
 https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html
 * https://news.ycombinator.com/item?id=27678535

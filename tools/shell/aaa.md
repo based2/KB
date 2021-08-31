@@ -34,6 +34,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 * https://news.ycombinator.com/item?id=28105100
 
 # News
+https://www.abs-lang.org/
+* https://news.ycombinator.com/item?id=28335315
 https://www.oilshell.org/blog/2021/08/xargs.html
 http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-shell/
 * https://news.ycombinator.com/item?id=28104657

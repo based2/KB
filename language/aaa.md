@@ -1,3 +1,4 @@
+https://snap.berkeley.edu/snap/snap.html
 
 # OOP to Functional
 https://bitgloss.ro/dr-software.pdf
@@ -124,6 +125,9 @@ http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
 
 # News
+https://news.ycombinator.com/item?id=28359625 Optional Value Handling in Nim
+https://mlochbaum.github.io/BQN/implementation/kclaims.html
+* https://news.ycombinator.com/item?id=28365645
 https://kaitai.io/ Parsers for binary structures.
 https://nelua.io/ lua
 * https://news.ycombinator.com/item?id=28293836

@@ -79,3 +79,5 @@ http://transcultura.org/?q=node%2F8
 
 https://opus.nlpl.eu/
 * https://news.ycombinator.com/item?id=28179877
+
+https://www.carolemieux.com/arvada_ase21.pdf Learning Highly Recursive Input Grammars

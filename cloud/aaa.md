@@ -19,6 +19,11 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://news.ycombinator.com/item?id=28371769 AWS Reporting AWS Internet Connectivity Issues in US-West-2
+https://catalyst.zoho.com/
+* https://news.ycombinator.com/item?id=28367406
+https://www.gkogan.co/blog/big-cloud/
+* https://news.ycombinator.com/item?id=28351951
 https://cloud.gov/
 https://hippobase.io/
 * https://news.ycombinator.com/item?id=28311919

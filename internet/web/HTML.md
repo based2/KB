@@ -115,5 +115,7 @@ https://bien.ee/a-contenteditable-pasted-garbage-and-caret-placement-walk-into-a
 * https://news.ycombinator.com/item?id=27924970
 
 # News
+https://github.com/WebKit/explainers/tree/main/model
+* https://news.ycombinator.com/item?id=28353997
 https://news.ycombinator.com/item?id=28055160
 

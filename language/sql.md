@@ -48,6 +48,8 @@ https://on-systems.tech/114-deriving-data-lineage-from-sql-statements/
 https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction
 * https://news.ycombinator.com/item?id=28296877
 
+https://planetscale.com/blog/optimizing-sql-with-query-statistics
+
 # Tools
 http://harelba.github.io/q/
 * https://news.ycombinator.com/item?id=27423276

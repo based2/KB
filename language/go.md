@@ -29,6 +29,9 @@ https://github.com/SaiNageswarS/go-api-boot
 
 https://bitfieldconsulting.com/golang/tao-of-go
 
+https://utcc.utoronto.ca/~cks/space/blog/programming/GoSlicesVsPointers
+* https://news.ycombinator.com/item?id=28344938
+
 # UI
 https://www.vugu.org/
 * https://news.ycombinator.com/item?id=26836366

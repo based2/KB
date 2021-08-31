@@ -76,6 +76,7 @@ https://cvw.cac.cornell.edu/vector/default
 * https://news.ycombinator.com/item?id=27900592
 
 # News
+https://c9x.me/compile/ QBE
 https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html
 * https://news.ycombinator.com/item?id=28140800
 https://www.bitsnbites.eu/mrisc32-stabilizing-the-base-architecture/

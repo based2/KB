@@ -86,6 +86,10 @@ https://ampache.org/
 * https://news.ycombinator.com/item?id=27952725
   * https://github.com/epoupon/lms
 
+# Data
+https://illlustrations.co/
+* https://news.ycombinator.com/item?id=28349738
+
 ## System
 https://www.7-zip.org/download.html
 https://www.cgsecurity.org/wiki/PhotoRec
@@ -157,6 +161,11 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.fsf.org/blogs/licensing/FSF-copyright-handling
+https://susam.in/cafe/non-commercial-licenses-are-non-free-licenses.html
+* https://news.ycombinator.com/item?id=28366305
+https://thehftguy.com/2021/08/30/french-appeal-court-affirms-decision-that-copyright-claims-on-gpl-are-invalid-must-be-enforced-via-contractual-dispute/
+* https://news.ycombinator.com/item?id=28354564
 https://news.slashdot.org/story/21/08/28/0237243/after-18-years-scos-ibm-litigation-may-be-settled-for-145-million
 * https://news.ycombinator.com/item?id=28338830
 https://sill.etalab.gouv.fr/fr/software
