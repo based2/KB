@@ -259,6 +259,7 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://dev.to/davidedelpapa/rust-for-data-science-tutorial-1-4g5j
 https://github.com/lunatic-solutions/lunatic
 * 
 https://thephilbert.io/2021/08/30/gcc-rust-monthly-report-9-august-2021/ traits

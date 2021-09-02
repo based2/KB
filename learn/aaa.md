@@ -26,6 +26,9 @@ https://learn.circuitverse.org/
 https://github.com/ossu/computer-science
 * https://news.ycombinator.com/item?id=27744255
 
+https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively
+* https://news.ycombinator.com/item?id=28382821
+
 # Manuals
 
 https://manuzoid.com/

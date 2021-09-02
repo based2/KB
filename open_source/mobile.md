@@ -11,6 +11,10 @@ https://f-droid.org/
 https://guardianproject.info/
 
 
+https://www.nitrokey.com/news/2021/nitrophone-most-secure-android-planet
+* https://news.ycombinator.com/item?id=28390230
+
+
 https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/
 * https://news.ycombinator.com/item?id=26770486
 

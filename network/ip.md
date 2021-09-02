@@ -1,4 +1,5 @@
-
+https://datatracker.ietf.org/doc/html/rfc791
+* https://news.ycombinator.com/item?id=28389173
 
 http://ifconfig.co/
 * https://news.ycombinator.com/item?id=26632178
@@ -41,6 +42,8 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 * https://news.ycombinator.com/item?id=27673945
 
 # News
+https://dl.acm.org/doi/pdf/10.1145/3452296.3472922 The Ties that un-Bind: Decoupling IP from web services and sockets for robust addressing agility at CDN-scale
+* https://news.ycombinator.com/item?id=28371156
 https://docs.hetzner.com/general/others/ipv4-pricing/
 * https://news.ycombinator.com/item?id=27982968
 https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/

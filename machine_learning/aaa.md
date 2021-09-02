@@ -230,6 +230,11 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://explosion.ai/blog/weve-sold-5-percent-of-explosion
+*
+https://blog.scottlogic.com/2021/08/31/a-primer-on-the-openai-api-1.html
+https://www.youtube.com/watch?v=OBusUGlnmWI A House Built on Sand: Engineering Stable and Reliable AI
+http://mitchgordon.me/ml/2021/08/31/sota.html
 https://news.ycombinator.com/item?id=28360220
 https://eugeneyan.com/writing/bootstrapping-data-labels/
 https://machinelearningmastery.com/clustering-algorithms-with-python/

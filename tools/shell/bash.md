@@ -42,3 +42,6 @@ https://github.com/dylanaraps/neofetch
 
 https://www.datagubbe.se/bestofbash/
 * https://news.ycombinator.com/item?id=28033158
+
+https://podcast.curiefense.io/22 Thoughts on Bash Becoming Interplanetary and More with Brian J. Fox
+* https://news.ycombinator.com/item?id=28393556

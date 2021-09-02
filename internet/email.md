@@ -73,7 +73,13 @@ https://jmap.io/
 
 https://www.mailoo.org/
 
+# Mailinglist
+https://github.com/knadh/listmonk
+* https://news.ycombinator.com/item?id=28389346
+
 # News
+https://medium.com/schibsted-engineering/building-a-serverless-email-delivery-service-on-aws-9269f55533a0
+* https://news.ycombinator.com/item?id=28378453
 https://www.thunderbird.net/en-US/thunderbird/91.0/releasenotes/
 * https://news.ycombinator.com/item?id=28151942
 https://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html

@@ -32,6 +32,12 @@ https://github.com/klen/py-frameworks-bench
 https://mnemic.readthedocs.io/en/main/index.html
 * https://news.ycombinator.com/item?id=27409661
 
+# Vuild
+https://github.com/mesonbuild/meson
+
+https://gms.tf/the-rise-of-meson.html
+* https://news.ycombinator.com/item?id=28372545
+
 # Debug
 3.8+
 > print(f"{d['key'][1]=}")
@@ -150,6 +156,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://nuitka.net/pages/overview.html
+* https://news.ycombinator.com/item?id=28377541
 https://github.com/facebookexperimental/skybison
 * https://news.ycombinator.com/item?id=28365135
 https://github.com/tiangolo/sqlmodel

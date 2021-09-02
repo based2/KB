@@ -124,7 +124,12 @@ https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
 
+https://www.fredrikholmqvist.com/posts/brooks-wirth-go/
+* https://news.ycombinator.com/item?id=28365138
+
 # News
+https://mass.handmade.network/
+*
 https://news.ycombinator.com/item?id=28359625 Optional Value Handling in Nim
 https://mlochbaum.github.io/BQN/implementation/kclaims.html
 * https://news.ycombinator.com/item?id=28365645

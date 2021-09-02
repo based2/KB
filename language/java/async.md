@@ -29,6 +29,8 @@ https://wiki.openjdk.java.net/display/loom/Main
 
 https://mnlipp.github.io/jgrapes/
 
+https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
+
 # Test
 https://github.com/awaitility/awaitility
 

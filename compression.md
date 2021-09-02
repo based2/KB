@@ -32,6 +32,10 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://www.sligocki.com/2021/07/17/bb-collatz.html
+* https://news.ycombinator.com/item?id=28384344
+https://www.pinecone.io/learn/product-quantization/
+* https://news.ycombinator.com/item?id=28394068
 http://mail-archives.apache.org/mod_mbox/www-announce/202107.mbox/%3Cdf4d3899-4b91-df70-4d02-6583ea48309c%40apache.org%3E CVE-2021-36090: Apache Commons Compress 1.0 to 1.20 denial of service vulnerability
 https://devlog.hexops.com/2021/unicode-data-file-compression
 https://ayende.com/blog/193955-A/sorted-integer-compression

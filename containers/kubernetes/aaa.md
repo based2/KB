@@ -12,7 +12,9 @@ https://twitter.com/__brennerm/status/1332368840013955074 Overview of built-in #
 https://microconfig.io/server.html  Microconfig Server Beta
 https://lambda.grofers.com/learnings-from-two-years-of-kubernetes-in-production-b0ec21aa2814
 
-kubelet
+# Kubelet
+
+https://prodfiler.com/blog/the-mystery-of-kubelet-eating-cpu-and-iops/
 
 https://github.com/virtual-kubelet/systemk Systemk: virtual kubelet for systemd
 
@@ -33,6 +35,9 @@ https://zitadel.ch/blog/treat-clusters-as-cattle/
 
 https://microk8s.io/
 * https://news.ycombinator.com/item?id=27916178
+
+https://blog.kubecost.com/blog/kubernetes-labels/
+* https://news.ycombinator.com/item?id=28384121
 
 # Infra
 https://google.github.io/kctf/

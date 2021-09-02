@@ -191,6 +191,11 @@ https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 https://github.com/bridgecrewio/checkov
   
 # News
+https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/
+* https://news.ycombinator.com/item?id=28392566
+* 
+https://github.blog/2021-09-01-improving-git-protocol-security-github/
+* https://news.ycombinator.com/item?id=28382496
 https://blog.andrewray.me/a-better-git-blame/
 https://github.com/mirage/irmin DB Database Ocaml
 https://github.blog/2021-08-16-highlights-from-git-2-33/ merge-ort: a new merge strategy

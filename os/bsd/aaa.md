@@ -18,6 +18,10 @@ https://openbsdrouterguide.net/
 https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html
 * https://news.ycombinator.com/item?id=28333608
 
+https://www.undeadly.org/cgi?action=article;sid=20210831050932
+
+https://kernelpanic.life/software/high-availability-with-openbgpd-on-openbsd.html
+
 # FreeBSD
 https://www.freebsd.org/status/report-2021-01-2021-03/
 * https://news.ycombinator.com/item?id=27060326

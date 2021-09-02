@@ -150,6 +150,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://daverupert.com/2021/08/css-modules-in-css-modules/
+https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/
+* https://news.ycombinator.com/item?id=28375596
 https://github.com/khang-nd/7.css
 * https://news.ycombinator.com/item?id=28343930
 https://css-tricks.com/the-fixed-background-attachment-hack/

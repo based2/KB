@@ -87,6 +87,8 @@ https://stuvel.eu/articles/spherical-panoramas/
 
 
 # News
+https://www.judo.app/blog/server-driven-ui/
+* https://news.ycombinator.com/item?id=28381168
 https://jesseduffield.com/Type-Keys/
 * https://news.ycombinator.com/item?id=28325563
 https://simonwillison.net/2021/Jul/28/baked-data/

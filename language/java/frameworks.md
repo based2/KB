@@ -22,7 +22,7 @@ https://www.reddit.com/r/java/comments/orapzz/adding_headers_to_every_spring_boo
 
 https://odrotbohm.de/2021/07/moduliths-1.1-released/
 
-
+https://www.infoworld.com/article/3630107/how-to-secure-rest-with-spring-security.html
 
 # Quarkus
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/

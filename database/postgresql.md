@@ -127,6 +127,8 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 https://github.com/jie123108/imgsmlr-server
 
 # News
+https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful
+* https://news.ycombinator.com/item?id=28374333
 https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/
 * https://news.ycombinator.com/item?id=28075774
 https://drewdevault.com/2021/08/05/In-praise-of-Postgres.html

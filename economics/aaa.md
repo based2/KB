@@ -40,6 +40,9 @@ https://www.politico.eu/article/europe-eats-trumps-lunch/
 https://gieskes.nl/instruments/files/insolventunclesam/insolventunclesam/manual/
 * https://news.ycombinator.com/item?id=27929239
 
+https://www.epicompany.eu/
+* https://news.ycombinator.com/item?id=28392389
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 * https://news.ycombinator.com/item?id=27763965

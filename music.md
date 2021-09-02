@@ -29,6 +29,13 @@ https://ianring.com/musictheory/scales/
 https://v5.chriskrycho.com/journal/musicxml-and-percussion-redux/
 * https://news.ycombinator.com/item?id=28106459
 
+https://musictheory.pugetsound.edu/mt21c/MusicTheory.html
+* https://news.ycombinator.com/item?id=28373944
+
+https://helio.fm/
+
+https://jpreston.xyz/a-catalogue-of-chords-example.html
+
 # Western Theory
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 * https://news.ycombinator.com/item?id=26859907

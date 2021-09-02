@@ -153,6 +153,8 @@ https://dirtydatagirl.moogle.cc/rf7put/i-might-have-gone-a-little-bit-overboard
 * https://news.ycombinator.com/item?id=27738828
 
 # BI
+https://superset.apache.org/ modern data exploration and visualization platform - Python, JS
+
 https://github.com/mlcraft-io/mlcraft
 
 https://observablehq.com/@observablehq/data-wrangler
@@ -160,6 +162,8 @@ https://observablehq.com/@observablehq/data-wrangler
 
 https://news.ycombinator.com/item?id=28304781
 
+https://github.com/chartbrew/chartbrew
+* https://news.ycombinator.com/item?id=28379738
 
 # CI
 https://hypervector.io/

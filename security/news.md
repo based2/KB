@@ -1,3 +1,14 @@
+https://adalogics.com/blog/fuzzing-100-open-source-projects-with-oss-fuzz
+* https://news.ycombinator.com/item?id=28391620
+
+https://github.com/riscv/riscv-crypto/releases/tag/v1.0.0-rc2-scalar
+
+https://spectrum.ieee.org/the-scandalous-history-of-the-last-rotor-cipher-machine
+* https://news.ycombinator.com/item?id=28378734
+
+https://www.usenix.org/system/files/sec21-krachenfels.pdf
+* https://news.ycombinator.com/item?id=28376580
+
 https://krisives.github.io/posts/elementary-security-reporting/
 
 https://owasp.org/www-project-cornucopia/

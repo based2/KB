@@ -14,3 +14,6 @@ https://frundis.tuxfamily.org/
 
 https://zeminary.com/
 * https://news.ycombinator.com/item?id=28362172
+
+https://signalsandthreads.com/writing-technically/
+* https://news.ycombinator.com/item?id=28382737

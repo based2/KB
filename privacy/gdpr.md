@@ -51,6 +51,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.rte.ie/news/business/2021/0902/1244293-whatsapp-gdpr-ruling/
+* https://news.ycombinator.com/item?id=28390308
 https://www.grcworldforums.com/gdpr/is-zoom-illegal-in-the-eu-unpacking-the-hamburg-dpas-decision/2384.article
 * https://news.ycombinator.com/item?id=28345589
 https://noyb.eu/en/noyb-files-422-formal-gdpr-complaints-nerve-wrecking-cookie-banners

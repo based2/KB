@@ -74,6 +74,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://frame.work/blog/linux-on-the-framework-laptop
+* https://news.ycombinator.com/item?id=28380959
 http://lkml.iu.edu/hypermail/linux/kernel/2108.3/05470.html
 * https://news.ycombinator.com/item?id=28355754
 https://simpletools.info/doku.php/osinstallation:debian11runit

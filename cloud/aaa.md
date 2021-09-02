@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://www.opendesktop.org/
+* https://news.ycombinator.com/item?id=28388104
+https://hoytech.com/vmtouch/
 https://news.ycombinator.com/item?id=28371769 AWS Reporting AWS Internet Connectivity Issues in US-West-2
 https://catalyst.zoho.com/
 * https://news.ycombinator.com/item?id=28367406

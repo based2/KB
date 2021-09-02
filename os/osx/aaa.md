@@ -48,6 +48,10 @@ https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/
 * https://news.ycombinator.com/item?id=28207810
 
 # M1
+https://twitter.com/alyssarzg/status/1432927311058194436
+* https://news.ycombinator.com/item?id=28377561
+https://eclecticlight.co/2021/09/01/m1-icestorm-cores-can-still-perform-very-well/
+* https://news.ycombinator.com/item?id=28377401
 https://wiki.netbsd.org/ports/evbarm/apple/
 https://www.anaconda.com/blog/apple-silicon-transition
 https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/

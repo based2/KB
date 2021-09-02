@@ -51,6 +51,8 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 `
 # News
+https://matt-rickard.com/docker-desktop-alternatives/
+* https://news.ycombinator.com/item?id=28379556
 https://www.theregister.com/2021/08/31/docker_desktop_no_longer_free/
 * https://news.ycombinator.com/item?id=28369570
 https://jedevc.com/blog/dockerfile-heredocs-intro/
