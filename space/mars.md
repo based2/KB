@@ -10,3 +10,5 @@ https://www.reuters.com/business/aerospace-defense/china-plans-its-first-crewed-
 
 https://spectrum.ieee.org/the-next-mars-helicopter
 * https://news.ycombinator.com/item?id=28132330
+
+https://en.wikipedia.org/wiki/Johannes_Kepler#Prague_(1600%E2%80%931612)

@@ -187,6 +187,10 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://www.jetbrains.com/dataspell/
+* https://news.ycombinator.com/item?id=28474075
+https://substrait.io/ Cross-Language Serialization for Relational Algebra
+https://dagster.io/blog/dagster-airflow
 https://www.scylladb.com/
 * https://news.ycombinator.com/item?id=28294501
 https://arrow.apache.org/blog/2021/08/18/datafusion-5.0.0/

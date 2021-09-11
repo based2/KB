@@ -153,6 +153,9 @@ https://fosscord.com/ alpha
 * https://news.ycombinator.com/item?id=27720391
 
 # Media center
+https://kodi.tv/
+https://news.ycombinator.com/item?id=28488668
+
 https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse
 * https://jellyfin.org/
 * https://news.ycombinator.com/item?id=27462767
@@ -161,6 +164,10 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://tidelift.com/
+* https://news.ycombinator.com/item?id=28487153
+https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon
+* https://news.ycombinator.com/item?id=28493823
 https://www.fsf.org/blogs/licensing/FSF-copyright-handling
 https://susam.in/cafe/non-commercial-licenses-are-non-free-licenses.html
 * https://news.ycombinator.com/item?id=28366305

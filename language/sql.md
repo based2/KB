@@ -26,6 +26,9 @@ https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader
 * https://news.ycombinator.com/item?id=28348524
 * https://dl.acm.org/doi/pdf/10.1145/3446871.3469759 (pdf)
 
+https://codingtofreedom.com/oracle-sql-is-the-devil/
+* https://news.ycombinator.com/item?id=28483317
+
 # Indexes
 https://use-the-index-luke.com/
 

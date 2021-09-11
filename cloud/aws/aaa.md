@@ -22,3 +22,6 @@ https://aws.amazon.com/fr/blogs/aws/happy-10th-birthday-aws-identity-and-access-
 https://medium.com/@nirdosh.gautam/how-to-cleanup-aws-cloudformation-stacks-efficiently-32e69f9b62f9
 
 https://dev.to/tinystacks/service-discovery-with-aws-cloud-map-1mmg
+
+https://laravel-news.com/aws-mistakes Missed optimization opportunities in EC2
+* https://news.ycombinator.com/item?id=28490278

@@ -1,3 +1,49 @@
+https://news.ycombinator.com/item?id=28462369
+
+https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
+
+https://about.gitlab.com/blog/2021/09/07/why-are-developers-vulnerable-to-driveby-attacks/
+
+https://borncity.com/win/2021/09/09/ghostscript-0-day-schwachstelle-ermglicht-server-bernahme/
+
+https://picoctf.org
+
+https://owasp.org/Top10/
+* https://news.ycombinator.com/item?id=28467397
+
+https://github.com/justinsteven/advisories/blob/master/2021_github_actions_checkspelling_token_leak_via_advice_symlink.md
+* https://news.ycombinator.com/item?id=28467250
+
+https://github.com/zorggish/FractalCryptGUI
+* https://news.ycombinator.com/item?id=28468790
+
+https://portswigger.net/daily-swig/haproxy-vulnerability-enables-http-request-smuggling-attacks
+* https://news.ycombinator.com/item?id=28470984
+
+https://www.cisa.gov/publication/zero-trust-maturity-model
+* https://news.ycombinator.com/item?id=28481603
+
+https://git.sequentialread.com/forest/pow-captcha
+* https://news.ycombinator.com/item?id=28486918
+
+https://krebsonsecurity.com/2021/09/krebsonsecurity-hit-by-huge-new-iot-botnet-meris/
+* https://news.ycombinator.com/item?id=28485277
+* https://blog.qrator.net/en/meris-botnet-climbing-to-the-record_142/
+* https://news.ycombinator.com/item?id=28468305 
+
+https://matrix.org/blog/2021/09/10/pre-disclosure-upcoming-critical-fix-for-several-popular-matrix-clients
+
+https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/
+* https://news.ycombinator.com/item?id=28487665
+
+https://www.makeuseof.com/a-look-at-evil-corp/
+
+https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/
+* https://news.ycombinator.com/item?id=28481925
+
+https://threatpost.com/air-gap-attack-turns-memory-wifi/162358/
+* https://news.ycombinator.com/item?id=28378288
+
 https://adalogics.com/blog/fuzzing-100-open-source-projects-with-oss-fuzz
 * https://news.ycombinator.com/item?id=28391620
 

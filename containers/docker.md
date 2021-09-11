@@ -51,6 +51,10 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 `
 # News
+https://www.redhat.com/sysadmin/replace-docker-podman-macos
+* https://news.ycombinator.com/item?id=28462495
+https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html
+* https://news.ycombinator.com/item?id=28459145
 https://matt-rickard.com/docker-desktop-alternatives/
 * https://news.ycombinator.com/item?id=28379556
 https://www.theregister.com/2021/08/31/docker_desktop_no_longer_free/

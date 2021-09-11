@@ -1,2 +1,4 @@
 https://github.com/robinhouston/image-unshredding
 * https://news.ycombinator.com/item?id=27713441
+
+https://opensource.googleblog.com/2021/09/using-saliency-in-progressive-jpeg-xl-images.html

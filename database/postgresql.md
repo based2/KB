@@ -69,6 +69,8 @@ https://dev.to/jbranchaud/beware-the-missing-foreign-key-index-a-postgres-perfor
 # Index
 http://leopard.in.ua/2015/04/13/postgresql-indexes/
 
+https://www.i-programmer.info/news/84-database/14855-a-deep-dive-into-postgresql-indexes.html
+
 # Analysis
 https://github.com/marklit/datafluent_pg
 
@@ -127,6 +129,10 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 https://github.com/jie123108/imgsmlr-server
 
 # News
+https://brandur.org/text
+* https://news.ycombinator.com/item?id=28484312
+https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/
+* https://news.ycombinator.com/item?id=28486623
 https://postgres.ai/blog/20210831-postgresql-subtransactions-considered-harmful
 * https://news.ycombinator.com/item?id=28374333
 https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-inspired-our-hyperfunctions-design-2/

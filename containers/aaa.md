@@ -32,6 +32,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://blog.deref.io/containers-dont-solve-everything/
+* https://news.ycombinator.com/item?id=28483529
 https://mathiashueber.com/pci-passthrough-ubuntu-2004-virtual-machine/
 https://www.cncf.io/blog/2021/08/18/keda-moves-from-the-cncf-sandbox-to-become-an-incubating-project/
 https://thewagner.net/blog/2021/02/25/building-container-images-with-nix/

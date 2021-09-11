@@ -46,6 +46,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.reuters.com/business/environment/worlds-largest-plant-capturing-carbon-air-starts-iceland-2021-09-08/
+* https://news.ycombinator.com/item?id=28463037
+https://qz.com/2043894/what-does-the-ipcc-say-about-climate-change/
+https://www.hakaimagazine.com/features/mangrove-restoration-frustration/
+* https://news.ycombinator.com/item?id=28451164
 https://www.youtube.com/watch?v=8w64V3R57aE
 https://web.dev/app-history-api/
 https://phys.org/news/2021-08-cities-paris-optimal-urban-greenhouse.html

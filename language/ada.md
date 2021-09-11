@@ -22,6 +22,9 @@ https://pyjarrett.github.io/programming-with-ada/four-months-summary.html Ada202
   * http://www.ada-auth.org/arm.html Reference Manual
   * https://en.wikipedia.org/wiki/Ada_Conformity_Assessment_Test_Suite
 
+https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html
+* https://news.ycombinator.com/item?id=28477046
+
 # GCC/GNAT
 https://www.adacore.com/download
 * https://news.ycombinator.com/item?id=27313294

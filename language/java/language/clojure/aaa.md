@@ -27,6 +27,9 @@ https://ostash.dev/posts/2021-06-24-edn-data-notation/
 https://blog.davemartin.me/posts/debugging-in-clojure/
 * https://news.ycombinator.com/item?id=27751128
 
+https://tonsky.me/blog/clojure-ui/
+* https://news.ycombinator.com/item?id=28469498
+
 # Testing
 https://fctorial.github.io/posts/tst.html
 

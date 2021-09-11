@@ -66,6 +66,8 @@ https://jacobkiers.net/hod/
 * https://news.ycombinator.com/item?id=28218406
 
 # News
+https://www.coywolf.news/webmaster/network-solutions-dark-patterns-domain-registration-transfers/
+* https://news.ycombinator.com/item?id=28461704
 https://leshow.github.io/post/nailgun/
 * https://news.ycombinator.com/item?id=28277674
 https://gitlab.isc.org/isc-projects/bind9/-/issues/2779

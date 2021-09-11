@@ -9,6 +9,9 @@ https://arstechnica.com/gadgets/2021/07/a-deep-dive-into-openzfs-2-1s-new-distri
 https://klarasystems.com/articles/lets-talk-openzfs-snapshots/
 * https://news.ycombinator.com/item?id=27994369
 
+https://klarasystems.com/articles/understanding-zfs-channel-programs/
+* https://news.ycombinator.com/item?id=28467049
+
 # Distributed
 https://www.lustre.org/
 

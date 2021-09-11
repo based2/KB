@@ -55,7 +55,11 @@ https://git-scm.com/book/en/v2
 https://jwiegley.github.io/git-from-the-bottom-up/
 * https://news.ycombinator.com/item?id=26884318
 
-# Flows
+# Branch Flows
+## Ship / Show / Ask
+https://martinfowler.com/articles/ship-show-ask.html
+* https://news.ycombinator.com/item?id=28457071
+
 ## Git Flow
 https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow
 

@@ -16,12 +16,20 @@ https://www.mindat.org/
 
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 
+# Probe
+## Voyager
+https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/
+
+
 # Satellite
 
 https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Reprogrammable_satellite_launched
 * https://news.ycombinator.com/item?id=28016744
 
 https://satellitemap.space/
+
+https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf
+* https://news.ycombinator.com/item?id=28450566
 
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000

@@ -48,6 +48,8 @@ https://news.ycombinator.com/item?id=28008606 Why didn't the early web support m
 https://webdevelopmenthistory.com/1997-netscape-crossware-vs-the-windows-web/
 
 # News
+https://blog.archive.today/post/660719734341386240/is-there-any-structure-in-place-to-assure-the
+* https://news.ycombinator.com/item?id=28457655
 https://arxiv.org/abs/2108.05939
 * https://news.ycombinator.com/item?id=28218304
 https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/

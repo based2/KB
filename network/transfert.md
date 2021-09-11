@@ -15,3 +15,6 @@ Zsync: Differential file downloading over HTTP using the rsync algorithm (2010)
 https://transfer.sh/
 * https://news.ycombinator.com/item?id=27739991
 
+https://www.ozzillate.com/ sound
+* https://news.ycombinator.com/item?id=28475502
+

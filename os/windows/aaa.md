@@ -71,6 +71,9 @@ https://github.com/VSCodium/vscodium
 https://devblogs.microsoft.com/commandline/wslg-architecture/
 https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10
 
+https://github.com/microsoft/wslg
+* https://news.ycombinator.com/item?id=28486133
+
 # News
 https://docs.microsoft.com/en-us/lifecycle/products/windows-server-2022
 https://www.theregister.com/2021/07/26/windows_11_comes_bearing_thaas/

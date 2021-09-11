@@ -45,7 +45,16 @@ http://pvk.ca/Blog/LowLevel/software-reciprocal.html 0x7FDE623822FC16E6: A magic
 http://algorithmicbotany.org/virtual_laboratory/
 * https://news.ycombinator.com/item?id=27917432
 
+# Intersection
+https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/
+* https://news.ycombinator.com/item?id=28485396
+
+https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088
+* 
+
 # News
+http://palms.princeton.edu/system/files/IEEE_TC09_NewBasisForShifters.pdf
+* https://news.ycombinator.com/item?id=28451339
 https://lemire.me/blog/2016/06/27/a-fast-alternative-to-the-modulo-reduction/
 * https://news.ycombinator.com/item?id=28197029
 https://github.com/ips4o/ips4o sort

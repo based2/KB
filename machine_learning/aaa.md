@@ -230,6 +230,13 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://github.com/neuml/txtai
+https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/
+* https://news.ycombinator.com/item?id=28449182
+https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/
+* https://news.ycombinator.com/item?id=28484373
+https://arxiv.org/abs/2106.11417 Interpretable Model-based Hierarchical Reinforcement Learning using Inductive Logic Programming
+* https://news.ycombinator.com/item?id=28492644
 https://explosion.ai/blog/weve-sold-5-percent-of-explosion
 *
 https://blog.scottlogic.com/2021/08/31/a-primer-on-the-openai-api-1.html

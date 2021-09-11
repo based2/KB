@@ -102,3 +102,9 @@ https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libr
 
 https://yurichev.com/news/20210131_IEEE_754/
 * https://news.ycombinator.com/item?id=28326685
+
+https://github.com/Jam3/math-as-code
+* https://news.ycombinator.com/item?id=28493031
+
+https://math.stackexchange.com/questions/733754/visually-stunning-math-concepts-which-are-easy-to-explain
+* https://news.ycombinator.com/item?id=28489582

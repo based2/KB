@@ -17,3 +17,6 @@ https://www3.nhk.or.jp/nhkworld/en/news/20210826_10/
   * https://www.toshiba.eu/pages/eu/Cambridge-Research-Laboratory/toshiba-announces-breakthrough-in-long-distance-quantum-communication 
 
 https://en.wikipedia.org/wiki/Time_crystal
+
+https://iai.tv/articles/quantum-mechanics-and-our-part-in-creating-reality-auid-1881
+* https://news.ycombinator.com/item?id=28459242

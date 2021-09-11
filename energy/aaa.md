@@ -9,7 +9,12 @@ https://scitechdaily.com/mit-engineers-have-discovered-a-completely-new-way-of-g
 
 https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks-the-code-of-simulating-low-inertia-power-systems.html
 
+https://en.wikipedia.org/wiki/Duck_curve
+
 # News
+https://news.ycombinator.com/item?id=28484888
+https://www.power-technology.com/features/when-lightning-strikes-managing-impacts-on-wind-turbines/
+* https://news.ycombinator.com/item?id=28466581
 https://www.bbc.com/news/av/uk-scotland-57991442 Tidal turbine in Orkney starts generating power
 * https://news.ycombinator.com/item?id=27989940
 https://www.economist.com/science-and-technology/2021/07/21/floating-wind-turbines-could-rise-to-great-heights

@@ -74,6 +74,10 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://www.phoronix.com/scan.php?page=article&item=windows-11-september&num=1
+* https://news.ycombinator.com/item?id=28489289
+https://eighty-twenty.org/2021/09/09/perf-addr2line-speed-improvement
+* https://news.ycombinator.com/item?id=28468751
 https://frame.work/blog/linux-on-the-framework-laptop
 * https://news.ycombinator.com/item?id=28380959
 http://lkml.iu.edu/hypermail/linux/kernel/2108.3/05470.html

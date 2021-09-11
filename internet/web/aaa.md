@@ -5,7 +5,7 @@ https://infrequently.org/2020/06/platform-adjacency-theory/
 
 https://web.dev/compat2021/
 
-
+https://github.com/fikrikarim/companies-with-successful-pivot
 
 # SEO
 https://news.ycombinator.com/item?id=27315208
@@ -36,6 +36,8 @@ https://eng.snap.com/quic-at-snap QUIC
 * https://news.ycombinator.com/item?id=27626394
 
 # News
+https://timdaub.github.io/2020/09/08/web3/
+* https://news.ycombinator.com/item?id=28457762
 https://maximevaillancourt.com/blog/moving-away-from-google-services-8-years-in
 * https://news.ycombinator.com/item?id=27986001
 https://news.ycombinator.com/item?id=28005638 Why is YouTube adding “&pp=sAQA” to video URLs?

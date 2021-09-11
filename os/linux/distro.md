@@ -50,6 +50,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://ariadne.space/2021/09/09/introducing-witchery-tools-for-building-distroless-images-with-alpine/
+* https://news.ycombinator.com/item?id=28469542
 https://www.jelmer.uk/fresh-builds.html
 * https://news.ycombinator.com/item?id=28308082
 https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/

@@ -243,6 +243,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://blog.sessionstack.com/how-javascript-works-class-static-blocks-6-proposed-semantics-3487d3821b45
+* https://news.ycombinator.com/item?id=28467745
 https://htmx.org/essays/locality-of-behaviour/
 https://searchvoidstar.tumblr.com/post/659634228574715904/an-amazing-error-message-if-you-put-more-than-2-24
 * https://news.ycombinator.com/item?id=28332962

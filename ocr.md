@@ -23,3 +23,6 @@ https://www.crosstab.io/product-comparisons/document-form-extraction
 
 https://openvisionapi.com/
 * https://news.ycombinator.com/item?id=27127694
+
+https://huggingface.co/spaces/akhaliq/PaddleOCR
+* https://news.ycombinator.com/item?id=28473496

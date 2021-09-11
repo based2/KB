@@ -102,7 +102,9 @@ https://github.com/TartanLlama/vizh
 # Hackaton
 https://www.juricho.me/posts/online-hackathon/
 
-
+# Functional
+https://sambernheim.com/#/blog/monads-are-monoids-in-the-category-of-endofunctors
+* https://news.ycombinator.com/item?id=28466676
 
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
@@ -128,6 +130,8 @@ https://www.fredrikholmqvist.com/posts/brooks-wirth-go/
 * https://news.ycombinator.com/item?id=28365138
 
 # News
+https://kparc.com/
+* https://news.ycombinator.com/item?id=28493283
 https://mass.handmade.network/
 *
 https://news.ycombinator.com/item?id=28359625 Optional Value Handling in Nim

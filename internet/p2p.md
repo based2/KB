@@ -23,6 +23,9 @@ https://github.com/Rossem/RedditStorage
 
 https://taler.net/en/features.html
 
+http://www.loper-os.org/?p=3926
+* https://news.ycombinator.com/item?id=28467940
+
 # History
 https://en.wikipedia.org/wiki/Napster
 

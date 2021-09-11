@@ -60,6 +60,7 @@ https://goaccess.io/
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://github.com/hauxir/errorpush
 https://www.honeycomb.io/blog/why-observability-requires-distributed-column-store/
 * https://news.ycombinator.com/item?id=28324776
 https://blog.thecloudside.com/raspberry-pi-monitoring-using-telegraf-influxdb-and-grafana-defb63127fe3

@@ -50,6 +50,8 @@ https://phys.org/news/2021-07-exotic-particle-tetraquark.html
 
 
 # News
+https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic
+* https://news.ycombinator.com/item?id=28474162
 https://www6.slac.stanford.edu/news/2021-07-19-scientists-discover-how-high-energy-electrons-strengthen-magnetic-fields.aspx
 * https://news.ycombinator.com/item?id=28355115
 

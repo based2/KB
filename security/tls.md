@@ -106,6 +106,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://www.openssl.org/blog/blog/2021/09/07/OpenSSL3.Final/
+* https://news.ycombinator.com/item?id=28451875
 https://tlsfingerprint.io/
 * https://news.ycombinator.com/item?id=28251700
 https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967

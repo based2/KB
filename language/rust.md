@@ -259,6 +259,12 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html
+* https://news.ycombinator.com/item?id=28469997
+https://blog.sunfishcode.online/rust-programs-entirely-in-rust/
+* https://news.ycombinator.com/item?id=28451149
+https://github.com/bnjbvr/rouille Rust in french
+* https://news.ycombinator.com/item?id=28490935
 https://dev.to/davidedelpapa/rust-for-data-science-tutorial-1-4g5j
 https://github.com/lunatic-solutions/lunatic
 * 

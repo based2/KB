@@ -39,3 +39,6 @@ https://www.sqlite.org/whyc.html
 
 https://airbus-seclab.github.io/c-compiler-security/
 * https://news.ycombinator.com/item?id=28367101
+
+https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
+* 

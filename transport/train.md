@@ -8,3 +8,6 @@ https://www.reuters.com/world/china/china-unveils-600-kph-maglev-train-state-med
 * https://news.ycombinator.com/item?id=27893051
 
 https://en.wikipedia.org/wiki/Positive_train_control
+
+https://www.npmjs.com/package/amtrak
+* https://news.ycombinator.com/item?id=28477797

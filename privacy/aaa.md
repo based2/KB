@@ -89,6 +89,8 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
   * https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://www.schneier.com/blog/archives/2021/09/protonmail-now-keeps-ip-logs.html
+* https://news.ycombinator.com/item?id=28484872
 https://vytal.io/
 * https://www.reddit.com/r/javascript/comments/pbenma/i_made_a_website_that_shows_you_what_traces_your/
 https://www.theguardian.com/technology/2021/aug/26/uk-to-overhaul-privacy-rules-in-post-brexit-departure-from-gdpr
@@ -96,6 +98,8 @@ https://www.theguardian.com/technology/2021/aug/26/uk-to-overhaul-privacy-rules-
 https://zenodo.org/record/5157830#.YRtkc4gzaUk
 * https://news.ycombinator.com/item?id=28207145
 https://exodus-privacy.eu.org/en/ android
+https://trackercontrol.org/
+* https://news.ycombinator.com/item?id=28477757
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=998565
 * https://news.ycombinator.com/item?id=28111606
 https://arstechnica.com/gadgets/2021/07/the-privacy-battle-apple-isnt-fighting/
