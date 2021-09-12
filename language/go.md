@@ -32,6 +32,8 @@ https://bitfieldconsulting.com/golang/tao-of-go
 https://utcc.utoronto.ca/~cks/space/blog/programming/GoSlicesVsPointers
 * https://news.ycombinator.com/item?id=28344938
 
+https://www.alexedwards.net/blog/i18n-managing-translations
+
 # UI
 https://www.vugu.org/
 * https://news.ycombinator.com/item?id=26836366

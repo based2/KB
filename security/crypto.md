@@ -72,6 +72,9 @@ https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functio
 https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 * https://news.ycombinator.com/item?id=28103734
 
+#
+https://en.wikipedia.org/wiki/Forward_secrecy
+
 # News
 https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.0.0
 * https://news.ycombinator.com/item?id=27959029

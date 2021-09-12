@@ -108,6 +108,9 @@ https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/
 * https://notebook.basthon.fr/
 * https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
 
+# Test
+https://docs.locust.io/en/stable/what-is-locust.html Load
+
 # Data
 ## Validation
 https://blog.drewolson.org/declarative-validation
@@ -156,6 +159,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://python-build-standalone.readthedocs.io/en/latest/index.html
+* https://lobste.rs/s/efwa7y/python_standalone_builds
 https://nuitka.net/pages/overview.html
 * https://news.ycombinator.com/item?id=28377541
 https://github.com/facebookexperimental/skybison

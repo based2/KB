@@ -75,6 +75,8 @@ https://grammalecte.net/
 https://www.collaboraoffice.com/solutions/collabora-office/
 * https://news.ycombinator.com/item?id=26614654
 
+https://mengshukeji.github.io/LuckysheetDocs/guide/#introduction
+
 ### Editor
 https://notepad-plus-plus.org/
 
@@ -164,6 +166,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://useful-forks.github.io/
+https://github.com/commaai/openpilot#what-is-openpilot
 https://tidelift.com/
 * https://news.ycombinator.com/item?id=28487153
 https://changelog.complete.org/archives/10285-facebook-censored-me-for-mentioning-open-source-social-network-mastodon

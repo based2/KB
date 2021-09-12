@@ -56,3 +56,6 @@ https://planetscale.com/blog/optimizing-sql-with-query-statistics
 # Tools
 http://harelba.github.io/q/
 * https://news.ycombinator.com/item?id=27423276
+
+# News
+https://arctype.com/

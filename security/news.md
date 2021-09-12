@@ -1,3 +1,8 @@
+https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/
+* https://lobste.rs/s/bxwgtv/analysis_on_developer_security
+
+https://blog.thinkst.com/2021/09/a-mysql-canarytoken.html
+
 https://news.ycombinator.com/item?id=28462369
 
 https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
@@ -321,6 +326,9 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
   * https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware/
     * https://news.ycombinator.com/item?id=28026867
   * https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/
+  * https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html
+  * https://github.com/mvt-project/mvt Mobile Verification Toolkit
+  * https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/pegasus.stix2?source=korben.info
 
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 * https://news.ycombinator.com/item?id=27868487

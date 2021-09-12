@@ -230,6 +230,10 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://physicsbaseddeeplearning.org/intro.html
+* https://news.ycombinator.com/item?id=28500577
+https://gadgets.ndtv.com/internet/news/openai-chatbot-gpt-3-samantha-shut-down-dilute-jason-rohrer-possible-misuse-2537388
+* https://news.ycombinator.com/item?id=28501740
 https://github.com/neuml/txtai
 https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/
 * https://news.ycombinator.com/item?id=28449182

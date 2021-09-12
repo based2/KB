@@ -1,5 +1,8 @@
 https://en.wikipedia.org/wiki/The_C_Programming_Language
 
+http://c-faq.com/
+* https://news.ycombinator.com/item?id=28502484
+
 https://gustedt.wordpress.com/2021/01/12/improve-type-generic-programming/
 
 https://github.com/git/git/blob/master/banned.h

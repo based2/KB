@@ -6,3 +6,5 @@ https://feed-me-up-scotty.vincenttunru.com/ css selector
 
 https://mattmower.com/2021/08/02/what-we-lost/
 * https://news.ycombinator.com/item?id=28036235
+
+https://feed-me-up-scotty.vincenttunru.com/?source=korben.info

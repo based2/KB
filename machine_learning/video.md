@@ -12,4 +12,9 @@ https://eulerian.cs.washington.edu/
 https://zpdesu.github.io/Barbershop/
 
 https://www.kelei.site/voin/
-* 
+
+
+https://github.com/lllyasviel/style2paints
+* https://news.ycombinator.com/item?id=28500528
+
+https://eulerian.cs.washington.edu/ Animating Pictures with Eulerian Motion Fields

@@ -55,6 +55,8 @@ https://github.com/Sysinternals/ProcMon-for-Linux/
 https://goaccess.io/
 * https://news.ycombinator.com/item?id=28012307
 
+https://thanos.io/ Open source, highly available Prometheus setup with long term storage capabilities.
+
 
 # Meta
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring

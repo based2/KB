@@ -150,6 +150,7 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://goalsmashers.github.io/css-minification-benchmark/
 https://daverupert.com/2021/08/css-modules-in-css-modules/
 https://css-tricks.com/you-want-enabling-css-selectors-not-disabling-ones/
 * https://news.ycombinator.com/item?id=28375596

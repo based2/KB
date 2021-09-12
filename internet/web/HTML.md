@@ -114,6 +114,11 @@ https://htmlparser.info/
 https://bien.ee/a-contenteditable-pasted-garbage-and-caret-placement-walk-into-a-pub/
 * https://news.ycombinator.com/item?id=27924970
 
+# Checkbox
+https://www.bryanbraun.com/checkboxland/
+* https://news.ycombinator.com/item?id=28489791
+* https://www.bryanbraun.com/2020/06/06/checkboxland/
+
 # News
 https://github.com/WebKit/explainers/tree/main/model
 * https://news.ycombinator.com/item?id=28353997

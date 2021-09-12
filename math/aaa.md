@@ -57,6 +57,8 @@ https://nmwsharp.com/media/papers/int-tri-course/int_tri_course.pdf
 
 http://extremelearning.com.au/how-to-evenly-distribute-points-on-a-sphere-more-effectively-than-the-canonical-fibonacci-lattice/
 
+http://vihart.com/scutoids/
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705

@@ -101,6 +101,9 @@ https://sixtyfps.io/blog/announcing-sixtyfps-0.1.html
 # Macro
 https://www.getsynth.com/docs/blog/2021/08/09/macro
 
+https://blog.lanesawyer.dev/27848/the-why-and-how-of-rust-declarative-macros
+* https://lobste.rs/s/z0e4ni/why_how_rust_declarative_macros
+
 # Async
 https://tokio.rs/
 
@@ -224,6 +227,8 @@ https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/
 
 https://serokell.io/blog/rust-in-production-qovery
 * https://news.ycombinator.com/item?id=28129159
+
+https://blog.sunfishcode.online/broken-encapsulation/
 
 ## Crypto
 https://github.com/facebookresearch/Cupcake

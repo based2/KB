@@ -44,3 +44,7 @@ https://docs.oracle.com/en/java/javase/15/docs/specs/man/jpackage.html
 ## JLink
 https://tentackle.org/static-content/sitedocs/tentackle/latest/tentackle-jlink-maven-plugin/jlink-mojo.html
 https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink
+
+## Modules
+https://inside.java/2021/09/10/what-are-modules-about/
+* https://news.ycombinator.com/item?id=28489881

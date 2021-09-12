@@ -18,6 +18,7 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://getumbrel.com/
 https://lsat.tech/
 * https://news.ycombinator.com/item?id=28459713
 https://bombthrower.com/articles/what-effect-would-tether-being-a-complete-fraud-have-on-cryptos/

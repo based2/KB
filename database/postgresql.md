@@ -83,6 +83,8 @@ https://github.com/arkhipov/temporal_tables Table that records the period of tim
 https://github.com/nearform/temporal_tables
 * https://news.ycombinator.com/item?id=26748096
 
+https://depth-first.com/articles/2021/09/07/a-rust-postgresql-extension-for-cas-numbers/
+
 # Queue
 https://spin.atomicobject.com/2021/02/04/redis-postgresql/
 * https://news.ycombinator.com/item?id=27482243

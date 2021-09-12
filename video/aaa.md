@@ -46,7 +46,8 @@ https://www.openshot.org/
 https://blog.pizzabox.computer/random/videolines/
 * https://news.ycombinator.com/item?id=27428380
 
-
+https://pipewire.org/
+* https://news.ycombinator.com/item?id=28490078
 
 # Movie
 https://www.playphrase.me/#/search

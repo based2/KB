@@ -27,6 +27,7 @@ https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-
 https://blog.quarkslab.com/ansible-security-assessment.html
 
 # News
+https://blog.stephane-robert.info/post/ansible-4.0/
 https://steampunk.si/blog/ansible-role-argument-specification/
 https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8 Ansible 4
 * https://news.ycombinator.com/item?id=27215477

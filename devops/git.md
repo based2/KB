@@ -193,6 +193,8 @@ https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 
 # Scanner
 https://github.com/bridgecrewio/checkov
+
+https://github.com/ossf/scorecard#goals github
   
 # News
 https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/

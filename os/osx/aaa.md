@@ -93,6 +93,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://git.sr.ht/~habibalamin/Commandeer
+* https://lobste.rs/s/vspo8i/commandeer_remap_command_escape_when
 http://blog.ret2.io/2021/07/21/wtf-snapshot-fuzzing/
 * https://news.ycombinator.com/item?id=27914379
 https://9to5mac.com/2021/07/23/exclusive-apple-testing-new-external-display-with-a-dedicated-a13-chip-and-neural-engine/
