@@ -23,6 +23,7 @@ http://imakewebthings.com/deck.js/
 https://revealjs.com/
 https://github.com/impress/impress.js
 https://marp.app/
+* https://blog.zwindler.fr/2021/09/13/marp-presentations-rapides-et-jolies-avec-markdown/
 https://mark.show/#
 * https://news.ycombinator.com/item?id=26931098
 

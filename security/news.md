@@ -1,3 +1,8 @@
+https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing
+* https://news.ycombinator.com/item?id=28512941
+
+https://arxiv.org/pdf/2105.12266.pdf Wireless Charging Power Side-Channel Attacks
+
 https://github.blog/2021-09-09-analysis-developer-security-researcher-interactions-vulnerability-disclosure/
 * https://lobste.rs/s/bxwgtv/analysis_on_developer_security
 
@@ -329,7 +334,9 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
   * https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html
   * https://github.com/mvt-project/mvt Mobile Verification Toolkit
   * https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/pegasus.stix2?source=korben.info
-
+  * https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/
+    * https://news.ycombinator.com/item?id=28516095
+ 
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 * https://news.ycombinator.com/item?id=27868487
 

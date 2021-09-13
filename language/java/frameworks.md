@@ -24,6 +24,12 @@ https://odrotbohm.de/2021/07/moduliths-1.1-released/
 
 https://www.infoworld.com/article/3630107/how-to-secure-rest-with-spring-security.html
 
+https://blog.frankel.ch/annotation-free-spring/
+* https://www.reddit.com/r/java/comments/pmuqk8/annotationfree_spring/
+
+Spring native
+https://www.youtube.com/watch?v=TXyg6Nm4ZpQ
+
 # Quarkus
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
 https://quarkus.io/blog/magic-control/ vertx

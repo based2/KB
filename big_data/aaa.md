@@ -187,6 +187,8 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://github.com/roapi/roapi/tree/main/columnq-cli
+https://github.com/gjthompson1/glue-public Data pipeline and automation tool
 https://www.jetbrains.com/dataspell/
 * https://news.ycombinator.com/item?id=28474075
 https://substrait.io/ Cross-Language Serialization for Relational Algebra

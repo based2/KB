@@ -78,6 +78,9 @@ https://typeclasses.com/phrasebook
 https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
 * https://news.ycombinator.com/item?id=27702168
 
+https://fortran.io/
+* https://news.ycombinator.com/item?id=28509333
+
 # Stats
 http://www.ats-lang.org/
 
@@ -105,6 +108,8 @@ https://www.juricho.me/posts/online-hackathon/
 # Functional
 https://sambernheim.com/#/blog/monads-are-monoids-in-the-category-of-endofunctors
 * https://news.ycombinator.com/item?id=28466676
+
+http://patryshev.com/monad/m-intro.html
 
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf

@@ -22,3 +22,6 @@ https://simonwillison.net/2021/Jul/13/unix-domain-sockets/
 http://www.team.net/mjb/hawg.html
 * https://news.ycombinator.com/item?id=28015229
 
+https://pupngo.dk/xwinflpy/xwoaf_rebuild.html
+* https://news.ycombinator.com/item?id=28515025
+

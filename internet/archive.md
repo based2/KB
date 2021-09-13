@@ -22,6 +22,9 @@ https://www.404pagefound.com/
 
 https://teamarin.net/2021/08/27/afrinic-and-the-stability-of-the-internet-number-registry-system/
 
+https://yarchive.net/ Usenet Archives Collected by Norman Yarvin
+* https://news.ycombinator.com/item?id=28493489
+
 # Vintage
 https://www.webdesignmuseum.org/web-design-history/timeline-1990-1994
 

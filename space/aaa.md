@@ -47,6 +47,9 @@ https://destevez.net/2021/08/an-update-about-change-5-whereabouts/
 # Physic
 ## Astronomy
 
+
+https://craffic.co.in/astronomers-simulate-virtual-universe-download-free/
+
 ### Asteroid
 https://www.nasa.gov/press-release/nasa-invites-media-to-new-osiris-rex-asteroid-bennu-study-briefing
 * https://www.nasa.gov/feature/nasas-tour-of-asteroid-bennu-selected-for-prestigious-computer-graphics-film-festival

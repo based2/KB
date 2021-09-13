@@ -51,6 +51,9 @@ https://daid.github.io/EmptyEpsilon/
 https://www.vega-strike.org/
 * https://news.ycombinator.com/item?id=28338937
 
+https://www.openra.net/
+* https://news.ycombinator.com/item?id=28511076
+
 # News
 https://smcameron.github.io/space-nerds-in-space/
 * https://news.ycombinator.com/item?id=28343941

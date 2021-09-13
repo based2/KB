@@ -26,4 +26,6 @@ https://datatracker.ietf.org/doc/html/rfc8905 The 'payto' URI Scheme for Payment
 https://www.mnot.net/blog/2021/06/21/standards-competition-governance
 * https://news.ycombinator.com/item?id=27586081
 
-https://datatracker.ietf.org/doc/html/rfc6919 Further Key Words for Use in RFCs to Indicate Requirement Levels
+https://www.bortzmeyer.org/9109.html RFC 9109: Network Time Protocol Version 4: Port Randomization
+
+https://datatracker.ietf.org/doc/html/rfc6919 Further Keywords for Use in RFCs to Indicate Requirement Levels

@@ -60,6 +60,8 @@ https://jamespotter.dev/hacker-news-tech-trends/
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898940
 * https://news.ycombinator.com/item?id=28331610
 
+https://www.currentmarketvaluation.com/models/buffett-indicator.php
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 * https://news.ycombinator.com/item?id=28037317

@@ -13,6 +13,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 * https://news.ycombinator.com/item?id=28138161
 
 # News
+https://consensys.net/blog/ethereum-2-0/20039/
+* https://news.ycombinator.com/item?id=28494885
 https://rekt.news/polynetwork-rekt/
 * https://slowmist.medium.com/the-root-cause-of-poly-network-being-hacked-ec2ee1b0c68f
   * https://news.ycombinator.com/item?id=28138837

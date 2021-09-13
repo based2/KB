@@ -1,5 +1,8 @@
 https://www.wiktionary.org/
 
+https://produpedia.org/
+* https://news.ycombinator.com/item?id=28501100
+
 https://github.com/zverok/wikipedia_ql
 * https://news.ycombinator.com/item?id=27738969
 

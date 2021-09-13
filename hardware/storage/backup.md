@@ -7,3 +7,8 @@ https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-s
 https://github.com/openzfs/zfs/pull/12225 zfs raid-z
 https://arstechnica.com/gadgets/2021/06/raidz-expansion-code-lands-in-openzfs-master/
 * https://news.ycombinator.com/item?id=27537045
+
+https://korben.info/quel-nas-synology-choisir.html
+
+https://github.com/leahneukirchen/hrmpf
+* https://news.ycombinator.com/item?id=28508125

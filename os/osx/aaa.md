@@ -93,6 +93,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://fmentzer.github.io/posts/2020/dictionary/
+* https://news.ycombinator.com/item?id=28505406
 https://git.sr.ht/~habibalamin/Commandeer
 * https://lobste.rs/s/vspo8i/commandeer_remap_command_escape_when
 http://blog.ret2.io/2021/07/21/wtf-snapshot-fuzzing/

@@ -230,6 +230,8 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://www.nature.com/articles/s41467-021-25477-8 Understanding the onset of hot streaks across artistic, cultural, and scientific careers
+* https://news.ycombinator.com/item?id=28511813
 https://physicsbaseddeeplearning.org/intro.html
 * https://news.ycombinator.com/item?id=28500577
 https://gadgets.ndtv.com/internet/news/openai-chatbot-gpt-3-samantha-shut-down-dilute-jason-rohrer-possible-misuse-2537388

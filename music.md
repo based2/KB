@@ -75,6 +75,9 @@ https://arxiv.org/abs/2108.12290 Music Composition with Deep Learning: A Review
 
 https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues
 
+https://rave.dj/
+* https://news.ycombinator.com/item?id=28514159
+
 # Instrument
 https://www.pianobook.co.uk/
 * https://news.ycombinator.com/item?id=27454717

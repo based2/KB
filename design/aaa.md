@@ -1,5 +1,6 @@
 https://principles.design/
 * https://news.ycombinator.com/item?id=15894400
+* https://news.ycombinator.com/item?id=28494225
 
 http://colah.github.io/posts/2015-09-Visual-Information/
 

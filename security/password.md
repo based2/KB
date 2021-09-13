@@ -24,6 +24,18 @@ https://www.useapassphrase.com/
 https://zserge.com/posts/one-time-passwords/
 * https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
+# Vault
+
+https://www.vaultproject.io/
+* https://blog.wescale.fr/2019/09/11/vault-cookbook/
+
+https://domopi.eu/bitwarden_rs-devient-vaultwarden/
+
+https://www.mozilla.org/en-US/firefox/lockwise/
+* https://github.com/mozilla-lockwise
+
+
+
 # News
 https://github.com/nuvious/pam-duress
 * https://news.ycombinator.com/item?id=28267975
