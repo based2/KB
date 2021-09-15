@@ -25,6 +25,8 @@ https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-
   * https://brandur.org/fragments/idempotency-key-draft
     * https://news.ycombinator.com/item?id=27736082
 
+https://pokeinthe.io/2021/09/13/cache-control-recommendations/
+
 # Server
 ## Apache HTTPD
 https://httpd.apache.org/

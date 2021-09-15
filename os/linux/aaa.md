@@ -68,12 +68,15 @@ https://wiki.gnome.org/Projects/Mutter
 
 https://www.enlightenment.org/
 
-
 # UEFI
 https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+http://lkml.iu.edu/hypermail/linux/kernel/2109.1/07229.html
+* https://news.ycombinator.com/item?id=28524826
+https://spectrum-os.org/
+* https://news.ycombinator.com/item?id=28530861
 https://blogs.gnome.org/alexm/2021/09/10/cleaning-up-header-bars/
 https://www.phoronix.com/scan.php?page=article&item=windows-11-september&num=1
 * https://news.ycombinator.com/item?id=28489289

@@ -7,18 +7,6 @@ https://bitgloss.ro/dr-software.pdf
 # Interop
 https://github.com/google/cel-spec
 
-# COBOL
-https://monadical.com/posts/cobol.html#
-* https://news.ycombinator.com/item?id=26726100
-
-https://www.theregister.com/2021/04/07/ibm_cobol_x86_linux/
-
-https://arxiv.org/abs/2105.01830
-* https://news.ycombinator.com/item?id=28071096
-
-https://gnucobol.sourceforge.io/
-* https://news.ycombinator.com/item?id=26734721
-
 https://haxe.org/
 
 https://plzoo.andrej.com/
@@ -74,20 +62,13 @@ https://news.ycombinator.com/item?id=27750153 Why is the byte order little-endia
 https://typeclasses.com/phrasebook
 * https://news.ycombinator.com/item?id=27715023
 
-# Fortran
-https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
-* https://news.ycombinator.com/item?id=27702168
-
-https://fortran.io/
-* https://news.ycombinator.com/item?id=28509333
-
 # Stats
 http://www.ats-lang.org/
 
-# LISP
+# Biology
 
-https://janet-lang.org/
-*
+https://github.com/seq-lang/seq
+* https://news.ycombinator.com/item?id=28537179
 
 # Exotic
 ## APL
@@ -128,13 +109,46 @@ https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 * https://news.ycombinator.com/item?id=27510647
 
 # History
+https://people.idsia.ch//~juergen/turing-oversold.html
+* https://news.ycombinator.com/item?id=28522761
+
 http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 * https://news.ycombinator.com/item?id=27559618
 
 https://www.fredrikholmqvist.com/posts/brooks-wirth-go/
 * https://news.ycombinator.com/item?id=28365138
 
+## Fortran
+https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
+* https://news.ycombinator.com/item?id=27702168
+
+https://fortran.io/
+* https://news.ycombinator.com/item?id=28509333
+
+## COBOL
+https://monadical.com/posts/cobol.html#
+* https://news.ycombinator.com/item?id=26726100
+
+https://blog.microfocus.com/cobol-still-standing-the-test-of-time/
+* https://news.ycombinator.com/item?id=28539391
+
+https://www.theregister.com/2021/04/07/ibm_cobol_x86_linux/
+
+https://arxiv.org/abs/2105.01830
+* https://news.ycombinator.com/item?id=28071096
+
+https://gnucobol.sourceforge.io/
+* https://news.ycombinator.com/item?id=26734721
+
+## LISP
+
+https://janet-lang.org/
+*
+
 # News
+https://kdl.dev/ The KDL Document Language
+* https://news.ycombinator.com/item?id=28510031
+  * https://github.com/hkolbeck/kdl4j
 https://kparc.com/
 * https://news.ycombinator.com/item?id=28493283
 https://mass.handmade.network/

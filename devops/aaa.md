@@ -88,6 +88,10 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://travis-ci.community/t/security-bulletin/12081
+* https://news.ycombinator.com/item?id=28523350
+https://gitlab.com/gitlab-org/gitlab/-/issues/335278
+* https://news.ycombinator.com/item?id=28535298
 https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://decisionops.substack.com/p/decisionops
 * https://news.ycombinator.com/item?id=28234629

@@ -142,6 +142,9 @@ https://www.2uo.de/deming/
 https://iism.org/article/why-are-ceos-failing-software-engineers-56?r=1
 * https://news.ycombinator.com/item?id=28315675
 
+https://patrickjuchli.com/en/posts/learning-experience/
+* https://news.ycombinator.com/item?id=28511881
+
 # Musics for programming
 https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887

@@ -89,6 +89,8 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
   * https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://mullvad.net/en/blog/2021/4/22/lawful-interception/
+* https://news.ycombinator.com/item?id=28520568
 https://support.google.com/drive/thread/121013958/disable-google-drive-drive-letter
 * https://news.ycombinator.com/item?id=28499231
 https://twitter.com/pixelscript/status/1436664488913215490 Starbucks and TrustArc add fake cookie processing delay if you don't click agree

@@ -1,3 +1,11 @@
+https://ariadne.space/2021/09/13/efficient-service-isolation-on-alpine-with-vrfs/
+* https://news.ycombinator.com/item?id=28526543
+
+https://www.garykessler.net/library/fsc_stego.html
+
+https://www.wiz.io/blog/secret-agent-exposes-azure-customers-to-unauthorized-code-execution
+* https://news.ycombinator.com/item?id=28532531
+
 https://matrix.org/blog/2021/09/13/vulnerability-disclosure-key-sharing
 * https://news.ycombinator.com/item?id=28512941
 

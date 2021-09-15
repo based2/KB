@@ -64,6 +64,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://sigkill.dk/writings/par/lhomo.html
+* https://news.ycombinator.com/item?id=28520476
 https://arxiv.org/abs/2106.10860 Multiplying Matrices Without Multiplying
 * https://news.ycombinator.com/item?id=28375096
 https://jax.readthedocs.io/en/latest/notebooks/quickstart.html

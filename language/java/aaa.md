@@ -113,7 +113,6 @@ https://faculty.washington.edu/ajko/books/foundations-of-information/#/
 # Data
 http://adambien.blog/roller/abien/entry/combining_jsonobjects_with_jsonmerge_and
 
-
 https://news.ycombinator.com/item?id=20755974 AdoptOpenJDK: Open-source, prebuilt OpenJDK binaries
 
 https://veekaybee.github.io/2019/05/10/java8/
@@ -130,8 +129,6 @@ https://javaee.github.io/jsonp/
 
 # Books
 https://handwiki.org/wiki/Book:ThinkJava
-
-
 
 https://ijnspector.wordpress.com/ Practical examples for IntelliJ's Structural Search and Replace Templates
 https://www.banterly.net/2019/07/28/one-of-the-more-underrated-features-of-java/
@@ -207,6 +204,16 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://blogs.oracle.com/java/post/moving-the-jdk-to-a-two-year-lts-cadence
+* https://www.reddit.com/r/java/comments/po3yu2/moving_the_jdk_to_a_two_year_lts_cadence/
+https://blogs.oracle.com/java/post/free-java-license
+* https://www.reddit.com/r/java/comments/po3y1z/introducing_the_free_java_license/
+https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html
+* https://news.ycombinator.com/item?id=28540099
+https://seanjmullan.org/blog/2021/09/14/jdk17 https://dev.java/
+* https://www.reddit.com/r/java/comments/poixk4/jdk_17_security_enhancements/
+https://mail.openjdk.java.net/pipermail/jdk-dev/2021-September/006037.html
+* https://news.ycombinator.com/item?id=28525378
 https://medium.com/sahibinden-technology/deep-dive-into-hello-world-in-java-d05d60332984
 https://blogs.oracle.com/javamagazine/migrate-to-java-17
 https://blogs.oracle.com/javamagazine/the-unsafe-class-unsafe-at-any-speed

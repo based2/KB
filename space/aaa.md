@@ -77,6 +77,8 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://www.independent.co.uk/life-style/gadgets-and-tech/apple-founder-wozniak-space-debris-company-b1919747.html
+* https://news.ycombinator.com/item?id=28523946
 https://github.com/thomasantony/msl-apollo-entry-guidance
 https://caseyhandmer.wordpress.com/2021/04/25/powering-the-lunar-base/
 * https://news.ycombinator.com/item?id=28098853

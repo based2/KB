@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://twitter.com/gossithedog/status/1437896101756030982
+* https://news.ycombinator.com/item?id=28536085
 https://blog.scaleway.com/meet-fr-par-3/
 * https://news.ycombinator.com/item?id=28514297
 https://www.opendesktop.org/

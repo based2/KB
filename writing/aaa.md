@@ -17,3 +17,11 @@ https://zeminary.com/
 
 https://signalsandthreads.com/writing-technically/
 * https://news.ycombinator.com/item?id=28382737
+
+
+https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/
+* https://news.ycombinator.com/item?id=28536672
+
+
+https://en.wikipedia.org/wiki/Chiastic_structure
+* https://news.ycombinator.com/item?id=28509859

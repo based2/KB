@@ -3,3 +3,6 @@ https://rastergrid.com/blog/gpu-tech/2021/07/gpu-architecture-types-explained/
 
 https://github.com/DualCoder/vgpu_unlock
 * https://news.ycombinator.com/item?id=26754351
+
+https://tellusim.com/compute-raster/
+* https://news.ycombinator.com/item?id=28520340

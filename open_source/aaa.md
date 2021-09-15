@@ -166,6 +166,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://httptoolkit.tech/blog/developer-tools-decentralized-web/
+* https://news.ycombinator.com/item?id=28537841
 https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and
 * https://news.ycombinator.com/item?id=28514384
 https://www.postgresql.org/about/news/trademark-actions-against-the-postgresql-community-2302/

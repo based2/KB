@@ -56,6 +56,11 @@ http://www.brendangregg.com/usemethod.html
 https://blog.mikeswanson.com/post/661008854541271040/achieving-25gbps-with-the-udm-pro
 * https://news.ycombinator.com/item?id=28364279
 
+https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291
+* https://news.ycombinator.com/item?id=28509073
+
+https://www.usenix.org/conference/nsdi21/presentation/ghigoff BMC: Accelerating Memcached using Safe In-kernel Caching and Pre-stack Processing
+
 # Microservice
 https://microservices.io/patterns/
 * https://news.ycombinator.com/item?id=16014278

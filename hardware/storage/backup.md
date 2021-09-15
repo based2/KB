@@ -12,3 +12,6 @@ https://korben.info/quel-nas-synology-choisir.html
 
 https://github.com/leahneukirchen/hrmpf
 * https://news.ycombinator.com/item?id=28508125
+
+https://github.com/tasket/wyng-backup
+* https://news.ycombinator.com/item?id=28537761

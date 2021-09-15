@@ -55,6 +55,9 @@ https://www.vitling.xyz/toys/acid-banger/
 https://www.beatportal.com/features/beatports-definitive-guide-to-techno/
 * https://news.ycombinator.com/item?id=26977869
 
+https://www.bespokesynth.com/
+* https://news.ycombinator.com/item?id=28529672
+
 #
 https://www.beyondmusic.org/
 

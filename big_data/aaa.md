@@ -168,11 +168,15 @@ https://github.com/chartbrew/chartbrew
 # CI
 https://hypervector.io/
 
+# Data Lake
+https://timeflow.systems/what-is-the-data-lakehouse-pattern/
+* https://news.ycombinator.com/item?id=28531009
+
 # Data Mesh
 https://cnr.sh/essays/what-the-heck-data-mesh
 * https://news.ycombinator.com/item?id=27999348
 
-# Data tests
+# Data Tests
 https://frictionlessdata.io/
 
 https://github.com/ExpediaGroup/quibble
@@ -187,6 +191,10 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://www.argmin.net/2021/09/13/effect-size/
+* https://news.ycombinator.com/item?id=28526909
+https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/
+* https://news.ycombinator.com/item?id=28526966
 https://github.com/roapi/roapi/tree/main/columnq-cli
 https://github.com/gjthompson1/glue-public Data pipeline and automation tool
 https://www.jetbrains.com/dataspell/

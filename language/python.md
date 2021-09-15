@@ -89,6 +89,10 @@ https://yasoob.me/posts/understanding-and-generating-upc-a-barcode-using-python/
 
 https://news.ycombinator.com/item?id=27675305
 
+# Async
+https://snarky.ca/unravelling-async-for-loops/
+* https://news.ycombinator.com/item?id=28509391
+
 # Gplot
 https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/
 
@@ -159,6 +163,10 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://valinsky.me/articles/python-anti-pattern/
+* https://news.ycombinator.com/item?id=28534196
+https://nullprogram.com/blog/2021/09/15/ OpenBSD's pledge and unveil from Python
+* https://news.ycombinator.com/item?id=28535255
 https://python-build-standalone.readthedocs.io/en/latest/index.html
 * https://lobste.rs/s/efwa7y/python_standalone_builds
 https://nuitka.net/pages/overview.html

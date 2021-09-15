@@ -62,6 +62,7 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://github.com/jaegertracing/jaeger-clickhouse/blob/main/blog/post1.md
 https://github.com/hauxir/errorpush
 https://www.honeycomb.io/blog/why-observability-requires-distributed-column-store/
 * https://news.ycombinator.com/item?id=28324776

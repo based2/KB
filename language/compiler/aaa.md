@@ -76,6 +76,8 @@ https://cvw.cac.cornell.edu/vector/default
 * https://news.ycombinator.com/item?id=27900592
 
 # News
+https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/loop-perforation/
+* https://news.ycombinator.com/item?id=28532955
 https://c9x.me/compile/ QBE
 https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html
 * https://news.ycombinator.com/item?id=28140800

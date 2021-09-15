@@ -131,6 +131,8 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 https://github.com/jie123108/imgsmlr-server
 
 # News
+https://www.depesz.com/2021/09/10/waiting-for-postgresql-15-revoke-public-create-from-public-schema-now-owned-by-pg_database_owner/
+* https://news.ycombinator.com/item?id=28537870
 https://brandur.org/text
 * https://news.ycombinator.com/item?id=28484312
 https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/

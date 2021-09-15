@@ -13,6 +13,10 @@ https://olingo.apache.org/
 
 https://cocoon.apache.org/
 
+# Editor
+https://www.eclipse.org/vex/
+* https://news.ycombinator.com/item?id=28533379
+
 # XSD
 https://en.wikipedia.org/wiki/XML_schema
 

@@ -17,3 +17,5 @@ https://medium.com/zencity-engineering/naming-code-conventions-glory-525f129a65d
 
 https://gos.si/blog/the-hidden-skill-and-art-of-naming-things/
 * https://lobste.rs/s/tzcvmi/hidden_skill_art_naming_things
+
+https://nullprogram.com/blog/2021/09/14/

@@ -230,6 +230,12 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/
+* https://news.ycombinator.com/item?id=28522327
+https://scikit-learn.org/dev/whats_new/v1.0.html
+* https://news.ycombinator.com/item?id=28521992
+https://distill.pub/2020/growing-ca/
+* https://news.ycombinator.com/item?id=28509985
 https://www.nature.com/articles/s41467-021-25477-8 Understanding the onset of hot streaks across artistic, cultural, and scientific careers
 * https://news.ycombinator.com/item?id=28511813
 https://physicsbaseddeeplearning.org/intro.html

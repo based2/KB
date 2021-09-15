@@ -86,6 +86,8 @@ https://mosh.org/
 * https://news.ycombinator.com/item?id=28150287
 
 # News
+https://gist.github.com/koobs/e01cf8869484a095605404cd0051eb11 FreeBSD SSH Hardening
+* https://news.ycombinator.com/item?id=28537098
 https://undeadly.org/cgi?action=article;sid=20210830113413 RSA/SHA1 signature type disabled by default in OpenSSH
 https://github.com/cy384/ssheven SSH client for Mac OS 7/8/9.
 * https://news.ycombinator.com/item?id=28021434

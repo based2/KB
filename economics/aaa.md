@@ -62,6 +62,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898940
 
 https://www.currentmarketvaluation.com/models/buffett-indicator.php
 
+https://richardhanania.substack.com/p/futarchy-robin-hanson-on-how-prediction
+* https://news.ycombinator.com/item?id=28538693
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 * https://news.ycombinator.com/item?id=28037317

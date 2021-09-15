@@ -37,6 +37,10 @@ https://github.com/simonepri/geo-maps
 https://maplibre.org/
 * https://news.ycombinator.com/item?id=27605656
 
+# index
+https://h3geo.org/ Hexagonal hierarchical geospatial indexing system
+* https://news.ycombinator.com/item?id=28540393
+
 # Data
 https://www.nirsoft.net/utils/cports.html#DownloadLinks
 

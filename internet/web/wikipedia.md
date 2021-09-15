@@ -20,3 +20,6 @@ https://news.ycombinator.com/item?id=28277749
 # Wiki
 https://gitlab.com/moasdawiki/moasdawiki-server/-/tree/master/installer/linux/debian
 * https://news.ycombinator.com/item?id=27746717
+
+# News
+https://www.theregister.com/2021/09/15/wikimedia_china_bans/

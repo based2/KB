@@ -76,6 +76,10 @@ https://github.com/casspop/ohd OverHeadDoor Garage Door Monitor
 https://piotr.westfalewicz.com/blog/2020/04/the-ultimate-cloud-cat-feeder-overview/
 * https://news.ycombinator.com/item?id=28273082
 
+# Firmware
+https://freshtomato.org/ Broadcom
+* https://news.ycombinator.com/item?id=28520468
+
 # News
 https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/
 * https://news.ycombinator.com/item?id=27766066

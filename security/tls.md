@@ -106,6 +106,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://go.dev/blog/tls-cipher-suites
+* https://news.ycombinator.com/item?id=28540916
 https://news.ycombinator.com/item?id=28504242 Let's Encrypt API v2 Service Disruption (12 Sep 2021)
 https://www.openssl.org/blog/blog/2021/09/07/OpenSSL3.Final/
 * https://news.ycombinator.com/item?id=28451875

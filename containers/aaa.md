@@ -32,6 +32,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://rigtorp.se/virtual-memory/
+* https://news.ycombinator.com/item?id=28533659
 https://blog.deref.io/containers-dont-solve-everything/
 * https://news.ycombinator.com/item?id=28483529
 https://mathiashueber.com/pci-passthrough-ubuntu-2004-virtual-machine/

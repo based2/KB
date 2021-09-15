@@ -55,6 +55,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://writings.stephenwolfram.com/2021/09/even-beyond-physics-introducing-multicomputation-as-a-fourth-general-paradigm-for-theoretical-science/
+* https://news.ycombinator.com/item?id=28522967
 https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html
 * https://news.ycombinator.com/item?id=28499999
 https://github.com/yamafaktory/hypergraph

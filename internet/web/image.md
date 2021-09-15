@@ -20,8 +20,10 @@ https://yoga.flozz.org/
 
 https://www.w3.org/WAI/tutorials/images/decision-tree/
 
-
 https://video2webp.mattj.io/
+
+https://blog.cloudflare.com/optimizing-images/
+* https://news.ycombinator.com/item?id=28538646
 
 # Photography
 https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/
