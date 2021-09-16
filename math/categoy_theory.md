@@ -3,3 +3,6 @@ https://boris-marinov.github.io/category-theory-illustrated/04_order/
 
 http://math.mit.edu/~dspivak/informatics/
 * https://news.ycombinator.com/item?id=26983192
+
+https://www.scientificamerican.com/article/infinity-category-theory-offers-a-birds-eye-view-of-mathematics1/
+* https://news.ycombinator.com/item?id=28536516

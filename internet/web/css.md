@@ -150,6 +150,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://mui.com/blog/mui-core-v5/
+* https://news.ycombinator.com/item?id=28553274
 https://www.joshwcomeau.com/css/designing-shadows/
 * https://news.ycombinator.com/item?id=28533458
 https://goalsmashers.github.io/css-minification-benchmark/

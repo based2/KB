@@ -20,3 +20,7 @@ https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html
 
 # Cron
 https://crontab.guru/
+
+#
+https://eclecticlight.co/2021/09/14/how-to-run-commands-and-scripts-on-efficiency-cores/
+* https://news.ycombinator.com/item?id=28521275

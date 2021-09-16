@@ -43,3 +43,6 @@ https://snyk.io/blog/snyk-code-now-available-free-sast/
 # Deno
 https://deno.com/blog/deno-on-mdn
 * https://news.ycombinator.com/item?id=28274168
+
+https://deno.com/blog/v1.14
+* https://news.ycombinator.com/item?id=28550339

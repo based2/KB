@@ -166,6 +166,7 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://firehydrant.io/blog/a-developers-perspective-lessons-from-open-source/
 https://httptoolkit.tech/blog/developer-tools-decentralized-web/
 * https://news.ycombinator.com/item?id=28537841
 https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and

@@ -21,6 +21,10 @@ https://www.baucomrobotics.com/domino-robot-posts/trajectory-generation
 https://blog.roboflow.com/zero-shot-object-tracking/
 * https://news.ycombinator.com/item?id=28310814
 
+# Gesture
+https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
+
 # News
+https://hackaday.com/2021/09/16/hacking-a-robot-vacuum-to-write-a-replacement-app/
 https://blog.x.company/introducing-intrinsic-1cf35b87651
 * https://news.ycombinator.com/item?id=27931562

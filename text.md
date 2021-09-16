@@ -43,6 +43,8 @@ https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-
 
 https://baturin.org/blog/life-before-unicode/ ru
 
+https://zig.news/dude_the_builder/unicode-string-operations-536e
+
 # ASCII
 http://www.figlet.org/fontdb.cgi
 

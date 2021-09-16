@@ -20,3 +20,10 @@ https://blog.cloudflare.com/announcing-warp-for-linux-and-proxy-mode/
 https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-security-audit-by-cure53/
 * https://news.ycombinator.com/item?id=28382585
 
+# News
+https://mullvad.net/en/blog/2021/9/16/ownership-and-future-mullvad-vpn/
+* https://news.ycombinator.com/item?id=28551960
+https://alternativeto.net/news/2021/9/kape-technologies-buys-expressvpn-for-936-million/
+* https://news.ycombinator.com/item?id=28552731
+
+

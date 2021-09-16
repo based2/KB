@@ -29,6 +29,9 @@ https://www.moesif.com/blog/technical/timestamp/manage-datetime-timestamp-timezo
 
 https://timeenna.com/
 
+https://blog.scottlogic.com/2021/09/14/120-years-timezone.html
+* https://news.ycombinator.com/item?id=28537438
+
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 
@@ -131,6 +134,8 @@ https://memgraph.com/blog/overflowing-timeout
 https://japantoday.com/category/features/lifestyle/the-%27wadokei%27-the-old-way-of-measuring-time-in-japan
 
 # News
+https://github.com/frenkel/timer-for-harvest rust gtk
+* 
 https://www.reddit.com/r/scala/comments/p1xps0/scalqa_perfect_time_library/
 https://techcrunch.com/2021/08/11/facebook-engineers-develop-new-open-source-time-keeping-appliance/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAJZCcV2g32fzPdzYIPrAfElKT87Nfujmr0IsQWU0tF2-KN3pL_ASZDkyBYOzqff0vS4ZIvq_EM3wEKbrk_F_dZ6L5mqg2HsOvjcaTtrxVfzDnkV0Jj9uUKBg2KmBFd7_10EC8sP1JWHTn-65lPJaVd2gSkBao69hEAxFPO36RC7a
 * https://engineering.fb.com/2021/08/11/open-source/time-appliance/

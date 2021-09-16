@@ -61,6 +61,10 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/golang/go/discussions/48287 how to update APIs for generics
+* https://news.ycombinator.com/item?id=28545757
+https://ssceng.codes/ UI
+* https://news.ycombinator.com/item?id=28549972
 https://github.com/open2b/scriggo Template engine and Go embeddable interpreter.
 https://github.com/dapr/dapr serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices
 https://go-review.googlesource.com/c/go/+/343732/

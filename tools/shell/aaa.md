@@ -34,6 +34,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 * https://news.ycombinator.com/item?id=28105100
 
 # News
+https://www.oilshell.org/release/latest/doc/oil-language-tour.html
+* https://news.ycombinator.com/item?id=28545297
 https://www.abs-lang.org/
 * https://news.ycombinator.com/item?id=28335315
 https://www.oilshell.org/blog/2021/08/xargs.html

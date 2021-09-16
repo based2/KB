@@ -45,3 +45,8 @@ https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileg
 https://medium.com/walmartglobaltech/introducing-walmarts-l3af-project-how-do-we-use-ebpf-to-provide-network-visibility-in-a-8b9ae4d26200
 
 https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
+
+# News
+https://linuxplumbersconf.org/event/11/contributions/938/ BPF security auditing at Google
+https://linuxplumbersconf.org/event/11/contributions/954/ Use of eBPF in CPU scheduler
+* https://news.ycombinator.com/item?id=28551568

@@ -151,4 +151,10 @@ https://www.musicforprogramming.net/
 
 
 # News
+https://github.com/stebunovd/blog/blob/master/contents/Is-your-manager-a-router-or-moderator.md
+* https://news.ycombinator.com/item?id=28541396
+https://jpreston.xyz/woprs-organization-model.html
+* https://news.ycombinator.com/item?id=28536432
+https://iism.org/article/is-management-pressuring-you-to-deliver-unfinished-code-59
+* https://news.ycombinator.com/item?id=28548613
 https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/

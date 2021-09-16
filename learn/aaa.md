@@ -1,6 +1,8 @@
 https://www.khanacademy.org/
 
 https://www.duolingo.com/
+https://nibnalin.me/dust-nib/duolingo-the-antithesis-to-the-bazaar.html
+* https://news.ycombinator.com/item?id=28545920
 
 https://www.vocbit.com/ Improve your vocabulary by Quiz
 

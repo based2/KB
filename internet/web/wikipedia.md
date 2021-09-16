@@ -22,4 +22,5 @@ https://gitlab.com/moasdawiki/moasdawiki-server/-/tree/master/installer/linux/de
 * https://news.ycombinator.com/item?id=27746717
 
 # News
+https://lists.wikimedia.org/hyperkitty/list/wikimedia-l@lists.wikimedia.org/message/6ANVSSZWOGH27OXAIN2XMJ2X7NWRVURF/
 https://www.theregister.com/2021/09/15/wikimedia_china_bans/

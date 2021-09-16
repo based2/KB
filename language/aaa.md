@@ -104,6 +104,9 @@ https://lp.jetbrains.com/qodana/
 
 sonar
 
+https://blog.palantir.com/code-review-best-practices-19e02780015f
+* https://news.ycombinator.com/item?id=28554036
+
 # API
 https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 * https://news.ycombinator.com/item?id=27510647
@@ -124,6 +127,8 @@ https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
 
 https://fortran.io/
 * https://news.ycombinator.com/item?id=28509333
+
+https://arxiv.org/abs/2109.07382 Toward Modern Fortran Tooling and a Thriving Developer Community
 
 ## COBOL
 https://monadical.com/posts/cobol.html#

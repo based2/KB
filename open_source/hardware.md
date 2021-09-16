@@ -35,6 +35,8 @@ https://github.com/olofk/fusesoc
 
 https://openpowerfoundation.org/libre-soc-180nm-power-isa-asic-submitted-to-imec-for-fabrication/
 
+https://opensource.googleblog.com/2021/09/open-source-systemverilog-tools-in-asic-design.html
+
 # Video
 https://github.com/schlae/graphics-gremlin ISA
 * https://news.ycombinator.com/item?id=27171100

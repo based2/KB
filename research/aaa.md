@@ -25,6 +25,9 @@ https://adamashwal.com/fruit
 https://birdnet.cornell.edu/
 * https://news.ycombinator.com/item?id=27929150
 
+https://www.quantamagazine.org/biologists-rethink-the-logic-behind-cells-molecular-signals-20210916/
+* https://news.ycombinator.com/item?id=28553158
+
 # Meta
 https://en.wikipedia.org/wiki/TRIZ
 

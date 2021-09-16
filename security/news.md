@@ -1,3 +1,8 @@
+https://www.kali.org/blog/kali-linux-2021-3-release/
+
+https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/
+* https://news.ycombinator.com/item?id=28546125
+
 https://ariadne.space/2021/09/13/efficient-service-isolation-on-alpine-with-vrfs/
 * https://news.ycombinator.com/item?id=28526543
 

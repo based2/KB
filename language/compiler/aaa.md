@@ -76,6 +76,8 @@ https://cvw.cac.cornell.edu/vector/default
 * https://news.ycombinator.com/item?id=27900592
 
 # News
+https://arxiv.org/abs/2011.13127 Copy-and-Patch Compilation: A fast compilation algorithm for high-level languages and bytecode
+* https://news.ycombinator.com/item?id=28547057
 https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/loop-perforation/
 * https://news.ycombinator.com/item?id=28532955
 https://c9x.me/compile/ QBE

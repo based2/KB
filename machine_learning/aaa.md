@@ -230,6 +230,8 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://github.com/featureform/embeddinghub Database built for machine learning embeddings
+* https://news.ycombinator.com/item?id=28552034
 https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/
 * https://news.ycombinator.com/item?id=28522327
 https://scikit-learn.org/dev/whats_new/v1.0.html

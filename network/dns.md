@@ -66,6 +66,8 @@ https://jacobkiers.net/hod/
 * https://news.ycombinator.com/item?id=28218406
 
 # News
+https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/
+* https://news.ycombinator.com/item?id=28554400
 https://www.coywolf.news/webmaster/network-solutions-dark-patterns-domain-registration-transfers/
 * https://news.ycombinator.com/item?id=28461704
 https://leshow.github.io/post/nailgun/

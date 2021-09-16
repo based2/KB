@@ -264,6 +264,7 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://blog.kraken.com/post/7964/oxidizing-kraken-improving-kraken-infrastructure-using-rust/
 https://twitter.com/steveklabnik/status/1437441118745071617
 * https://news.ycombinator.com/item?id=28513130
 https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html

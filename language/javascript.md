@@ -243,6 +243,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://mp2.dk/techblog/chowjs/ AOT JavaScript engine for game consoles
+* https://news.ycombinator.com/item?id=28550603
 https://github.com/sharat87/prestige Text-based, in-browser, HTTP client app
 https://blog.sessionstack.com/how-javascript-works-class-static-blocks-6-proposed-semantics-3487d3821b45
 * https://news.ycombinator.com/item?id=28467745

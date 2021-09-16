@@ -13,6 +13,7 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 * https://news.ycombinator.com/item?id=28138161
 
 # News
+https://eprint.iacr.org/2021/1147 Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts
 https://consensys.net/blog/ethereum-2-0/20039/
 * https://news.ycombinator.com/item?id=28494885
 https://rekt.news/polynetwork-rekt/

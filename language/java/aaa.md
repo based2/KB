@@ -204,6 +204,7 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-17/
 https://blogs.oracle.com/java/post/moving-the-jdk-to-a-two-year-lts-cadence
 * https://www.reddit.com/r/java/comments/po3yu2/moving_the_jdk_to_a_two_year_lts_cadence/
 https://blogs.oracle.com/java/post/free-java-license

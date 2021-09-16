@@ -109,3 +109,8 @@ https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming
 # ASCII
 https://asciiflow.com/#/
 * https://news.ycombinator.com/item?id=27536253
+
+
+# News
+https://blog.ilograph.com/posts/multiperspective-diagramming-guide/
+* https://news.ycombinator.com/item?id=28522616

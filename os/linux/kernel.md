@@ -10,6 +10,9 @@ https://lwn.net/Articles/865256/ memfd_secret() in 5.14
 * https://news.ycombinator.com/item?id=28241033
 
 # News
+https://linuxplumbersconf.org/event/11/contributions/1026/ Compiler Features for Kernel Security
+http://lkml.iu.edu/hypermail/linux/kernel/2109.1/07229.html [PATCH v4 00/10] VP9 codec V4L2 control interface
+* https://news.ycombinator.com/item?id=28524826
 https://ck-hack.blogspot.com/2021/08/514-and-future-of-muqss-and-ck-once.html
 https://www.theregister.com/2021/09/08/compromise_linux_kernel_compiler_warnings/
 * https://news.ycombinator.com/item?id=28462801

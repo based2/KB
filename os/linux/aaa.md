@@ -73,8 +73,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
-http://lkml.iu.edu/hypermail/linux/kernel/2109.1/07229.html
-* https://news.ycombinator.com/item?id=28524826
+https://kde.org/announcements/plasma/5/5.22.90/
+https://www.collabora.com/news-and-blog/news-and-events/generate-mininal-gstreamer-build-tailored-to-your-needs.html
+https://joshuastrobl.com/2021/09/14/building-an-alternative-ecosystem/
 https://spectrum-os.org/
 * https://news.ycombinator.com/item?id=28530861
 https://blogs.gnome.org/alexm/2021/09/10/cleaning-up-header-bars/

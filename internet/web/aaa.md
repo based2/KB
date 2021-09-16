@@ -37,6 +37,8 @@ https://eng.snap.com/quic-at-snap QUIC
 * https://news.ycombinator.com/item?id=27626394
 
 # News
+https://ledger.humanetech.com/
+* https://news.ycombinator.com/item?id=28549009
 https://www.halcyonmaps.com/map-of-the-internet-2021
 https://timdaub.github.io/2020/09/08/web3/
 * https://news.ycombinator.com/item?id=28457762

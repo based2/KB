@@ -61,6 +61,8 @@ https://zig.news/kprotty/resource-efficient-thread-pools-with-zig-3291
 
 https://www.usenix.org/conference/nsdi21/presentation/ghigoff BMC: Accelerating Memcached using Safe In-kernel Caching and Pre-stack Processing
 
+https://dconf.org/2016/talks/sechet.html bitpacking
+
 # Microservice
 https://microservices.io/patterns/
 * https://news.ycombinator.com/item?id=16014278
