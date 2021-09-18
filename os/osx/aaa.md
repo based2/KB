@@ -48,6 +48,8 @@ https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/
 * https://news.ycombinator.com/item?id=28207810
 
 # M1
+https://drive.google.com/file/d/1WrMYCZMnhsGP4o3H33ioAUKL_bjuJSPt/view M1 Exploration - v 0.70
+*
 https://twitter.com/alyssarzg/status/1432927311058194436
 * https://news.ycombinator.com/item?id=28377561
 https://eclecticlight.co/2021/09/01/m1-icestorm-cores-can-still-perform-very-well/

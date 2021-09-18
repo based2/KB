@@ -23,7 +23,10 @@ https://blind.guru/blog/2021-06-25-brick.html
 https://invisible-island.net/ncurses/ncurses-intro.html
 * https://news.ycombinator.com/item?id=28354194
 
-# PLot
+https://hpjansson.org/blag/2021/09/16/chafa-1-8-terminal-graphics-with-a-side-of-everything/
+* https://news.ycombinator.com/item?id=28548120
+
+# Plot
 https://github.com/piccolomo/plotext python
 * https://news.ycombinator.com/item?id=27719759
 

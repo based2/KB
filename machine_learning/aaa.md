@@ -230,6 +230,10 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://blog.sigplan.org/2021/09/14/the-story-of-the-flash-fill-feature-in-excel/
+* https://news.ycombinator.com/item?id=28548165
+https://www.unite.ai/hobbling-computer-vision-datasets-against-unauthorized-use/
+* https://news.ycombinator.com/item?id=28562894
 https://github.com/featureform/embeddinghub Database built for machine learning embeddings
 * https://news.ycombinator.com/item?id=28552034
 https://www.unite.ai/mit-measuring-media-bias-in-major-news-outlets-with-machine-learning/

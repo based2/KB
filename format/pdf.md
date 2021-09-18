@@ -15,6 +15,8 @@ https://observablehq.com/@tomlarkworthy/sign-a-pdf
 * https://news.ycombinator.com/item?id=27344069
 
 #
+https://borbpdf.com/
+* https://news.ycombinator.com/item?id=28574298
 https://sioyek.info/
 * https://news.ycombinator.com/item?id=27893303
 

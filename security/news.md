@@ -1,3 +1,12 @@
+https://arxiv.org/abs/2109.05371 F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version)
+
+https://paragonie.com/blog/2021/09/promoting-misuse-resistance-in-paseto-libraries
+
+https://portswigger.net/research/hunting-nonce-based-csp-bypasses-with-dynamic-analysis
+
+https://blog.lumen.com/no-longer-just-theory-black-lotus-labs-uncovers-linux-executables-deployed-as-stealth-windows-loaders/
+* https://news.ycombinator.com/item?id=28564123
+
 https://www.kali.org/blog/kali-linux-2021-3-release/
 
 https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/

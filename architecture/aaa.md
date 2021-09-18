@@ -94,6 +94,8 @@ https://stuvel.eu/articles/spherical-panoramas/
 
 
 # News
+https://neverworkintheory.org/2021/09/16/exception-handling-practices-and-post-release-defects.html
+* https://news.ycombinator.com/item?id=28555806
 https://www.judo.app/blog/server-driven-ui/
 * https://news.ycombinator.com/item?id=28381168
 https://jesseduffield.com/Type-Keys/

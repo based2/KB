@@ -19,6 +19,9 @@ https://neverworkintheory.org/2021/08/29/software-development-waste.html
 
 https://linuxfoundation.org/press-release/spdx-becomes-internationally-recognized-standard-for-software-bill-of-materials/
 
+https://www.rubick.com/tenets-for-faster-decisionmaking/
+* https://news.ycombinator.com/item?id=28573843
+
 # Meeting
 https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/
 * https://news.ycombinator.com/item?id=27545331

@@ -28,6 +28,9 @@ https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=D2E23939503D6F7B6D2017
 https://inside.java/2020/06/25/compact-forwarding/
 * https://news.ycombinator.com/item?id=23700451
 
+https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses
+* https://news.ycombinator.com/item?id=28562874
+
 # Test
 https://github.com/ota4j-team/opentest4j
 

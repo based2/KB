@@ -21,6 +21,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 * https://news.ycombinator.com/item?id=28382585
 
 # News
+https://github.com/juanfont/headscale
+* https://news.ycombinator.com/item?id=28572013
 https://mullvad.net/en/blog/2021/9/16/ownership-and-future-mullvad-vpn/
 * https://news.ycombinator.com/item?id=28551960
 https://alternativeto.net/news/2021/9/kape-technologies-buys-expressvpn-for-936-million/

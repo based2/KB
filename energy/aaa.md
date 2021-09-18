@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.nature.com/articles/d41586-021-02459-w China prepares to test thorium-fuelled nuclear reactor
+* https://news.ycombinator.com/item?id=28560790
 https://news.ycombinator.com/item?id=28484888
 https://www.power-technology.com/features/when-lightning-strikes-managing-impacts-on-wind-turbines/
 * https://news.ycombinator.com/item?id=28466581

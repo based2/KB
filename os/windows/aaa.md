@@ -74,6 +74,9 @@ https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-wi
 https://github.com/microsoft/wslg
 * https://news.ycombinator.com/item?id=28486133
 
+https://github.com/haileys/doslinux
+* https://news.ycombinator.com/item?id=28572681
+
 # News
 https://docs.microsoft.com/en-us/lifecycle/products/windows-server-2022
 https://www.theregister.com/2021/07/26/windows_11_comes_bearing_thaas/

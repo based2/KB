@@ -163,6 +163,7 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://www.pypy.org/posts/2021/09/jit-auto-generated-code.html
 https://valinsky.me/articles/python-anti-pattern/
 * https://news.ycombinator.com/item?id=28534196
 https://nullprogram.com/blog/2021/09/15/ OpenBSD's pledge and unveil from Python

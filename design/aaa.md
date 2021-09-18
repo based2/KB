@@ -37,3 +37,7 @@ https://www.freetype.org/ttfautohint/
 #
 https://www.juliendesrosiers.com/2021/08/21/tools-for-thinking.php
 * https://news.ycombinator.com/item?id=28292225
+
+
+https://en.wikipedia.org/wiki/Charrette
+* https://news.ycombinator.com/item?id=28549438

@@ -71,6 +71,10 @@ https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
 https://github.com/gregdurrett/berkeley-doc-summarizer
 * https://news.ycombinator.com/item?id=27637902
 
+# Spell corrector
+https://norvig.com/spell-correct.html
+* https://news.ycombinator.com/item?id=28551468
+
 # Editor
 https://twitter.com/dm_0ney/status/1414742742530498566
 * https://news.ycombinator.com/item?id=27926758
@@ -83,3 +87,6 @@ https://opus.nlpl.eu/
 * https://news.ycombinator.com/item?id=28179877
 
 https://www.carolemieux.com/arvada_ase21.pdf Learning Highly Recursive Input Grammars
+
+http://defoe.sourceforge.net/folio/knuth-plass.html
+* https://news.ycombinator.com/item?id=28537923

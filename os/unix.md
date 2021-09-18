@@ -25,3 +25,6 @@ http://www.team.net/mjb/hawg.html
 https://pupngo.dk/xwinflpy/xwoaf_rebuild.html
 * https://news.ycombinator.com/item?id=28515025
 
+https://cs3210.cc.gatech.edu/r/unix6.pdf A COMMENTARY ON THE SIXTH EDITION UNIX OPERATING SYSTEM
+* https://news.ycombinator.com/item?id=28537996
+

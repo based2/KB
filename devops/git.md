@@ -197,9 +197,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://www.jelmer.uk/janitor-webhooks.html
+https://itoshkov.github.io/git-tutorial
+* https://news.ycombinator.com/item?id=28549652
 https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/
 * https://news.ycombinator.com/item?id=28392566
-* 
 https://github.blog/2021-09-01-improving-git-protocol-security-github/
 * https://news.ycombinator.com/item?id=28382496
 https://blog.andrewray.me/a-better-git-blame/

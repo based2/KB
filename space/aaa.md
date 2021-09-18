@@ -71,6 +71,10 @@ https://www.techradar.com/news/supernova-shoots-a-dying-star-made-of-metal-out-o
 https://ui.adsabs.harvard.edu/abs/2001Ap%26SS.275..349K/abstract
 * https://news.ycombinator.com/item?id=28131664
 
+
+https://petapixel.com/2021/09/15/a-closer-look-how-i-created-a-248mp-photo-of-the-sun/
+* https://news.ycombinator.com/item?id=28549643
+
 # History
 ## Apollo
 http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html

@@ -73,6 +73,10 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://www.omgubuntu.co.uk/2021/09/ubuntu-makes-firefox-snap-default
+* https://news.ycombinator.com/item?id=28564600
+https://lunduke.substack.com/p/the-linux-distributions-of-1992
+* https://news.ycombinator.com/item?id=28552922
 https://kde.org/announcements/plasma/5/5.22.90/
 https://www.collabora.com/news-and-blog/news-and-events/generate-mininal-gstreamer-build-tailored-to-your-needs.html
 https://joshuastrobl.com/2021/09/14/building-an-alternative-ecosystem/

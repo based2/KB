@@ -22,3 +22,6 @@ https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.ht
 
 https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-audio-effects-library-for-python/
 * https://news.ycombinator.com/item?id=28458930
+
+https://neal.fun/ambient-chaos/
+* https://news.ycombinator.com/item?id=28566705

@@ -37,6 +37,9 @@ https://mikerogers.io/2021/05/12/moving-from-tailwind-to-css-variables
 https://daisyui.com/
 * https://news.ycombinator.com/item?id=28004515
 
+https://flowbite.com/docs/getting-started/introduction/
+* https://news.ycombinator.com/item?id=28561468
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 * https://news.ycombinator.com/item?id=9670916

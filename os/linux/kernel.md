@@ -1,6 +1,9 @@
 https://github.com/sysprog21/lkmpg/
 * https://news.ycombinator.com/item?id=28036619
 
+https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/
+* https://news.ycombinator.com/item?id=28574624
+
 https://github.com/vvaltchev/tilck
 * https://news.ycombinator.com/item?id=28040210
 

@@ -46,6 +46,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.france24.com/en/science/20210917-world-on-catastrophic-path-to-2-7c-warming-warns-un-chief
+* https://news.ycombinator.com/item?id=28567679
 https://www.reuters.com/business/environment/worlds-largest-plant-capturing-carbon-air-starts-iceland-2021-09-08/
 * https://news.ycombinator.com/item?id=28463037
 https://qz.com/2043894/what-does-the-ipcc-say-about-climate-change/

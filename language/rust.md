@@ -143,6 +143,10 @@ https://ferrous-systems.com/blog/test-embedded-app/
 https://github.com/briansmith/ring Safe, fast, small crypto using Rust with BoringSSL's cryptography primitives
 * https://briansmith.org/rustdoc/ring/
 
+## Web
+https://github.com/seed-rs/seed
+* https://news.ycombinator.com/item?id=28567714
+
 ## State machine
 https://blog.burntsushi.net/transducers/ immutable ordered set
 * https://en.wikipedia.org/wiki/GADDAG
@@ -264,6 +268,7 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://smallcultfollowing.com/babysteps//blog/2021/09/16/rustacean-principles-continued/
 https://blog.kraken.com/post/7964/oxidizing-kraken-improving-kraken-infrastructure-using-rust/
 https://twitter.com/steveklabnik/status/1437441118745071617
 * https://news.ycombinator.com/item?id=28513130

@@ -166,6 +166,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://blog.burntsushi.net/foss/
+* https://news.ycombinator.com/item?id=28564516
 https://firehydrant.io/blog/a-developers-perspective-lessons-from-open-source/
 https://httptoolkit.tech/blog/developer-tools-decentralized-web/
 * https://news.ycombinator.com/item?id=28537841

@@ -11,6 +11,13 @@ https://clickclickclick.click/
 https://cryptosec.info/exchange-hacks/
 * 
 
+# FR
+https://www.impots.gouv.fr/portail/actualite/modalites-de-declaration-des-comptes-dactifs-numeriques-detenus-letranger
+https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037988257/
+
+https://www.impots.gouv.fr/portail/formulaire/3916/declaration-par-un-resident-dun-compte-letranger-ou-dun-contrat-de-capitalisation-ou
+
+ref: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fiscaux-des-cryptomonnaies
 
 # News
 https://www.theblockcrypto.com/post/115804/ontario-securities-regulator-bars-the-countrys-first-registered-crypto-platforms-from-trading-tether

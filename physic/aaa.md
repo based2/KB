@@ -50,6 +50,8 @@ https://phys.org/news/2021-07-exotic-particle-tetraquark.html
 
 
 # News
+https://www.nature.com/articles/s41467-021-25788-w.epdf?sharing_token=C0N6vUZuDrh-atTFQ3tuM9RgN0jAjWel9jnR3ZoTv0Nu9JQij0DyILEs9IwTVb960vV-Y96tFfZ9H44NrZgsY3yXahj6jmJR5SM5gGp-UFNIVdfZLULAmiLWkUJArRVa_KKIW8t4giKy32TXqcTbk9_vUSclVD6s2QR8BqjL648%3D Spatially and optically tailored 3D printing forhighly miniaturized and integrated microfluidics
+* https://news.ycombinator.com/item?id=28574123
 https://www.nist.gov/news-events/news/2021/09/groundbreaking-technique-yields-important-new-details-silicon-subatomic
 * https://news.ycombinator.com/item?id=28474162
 https://www6.slac.stanford.edu/news/2021-07-19-scientists-discover-how-high-energy-electrons-strengthen-magnetic-fields.aspx
