@@ -13,6 +13,8 @@ https://lwn.net/Articles/865256/ memfd_secret() in 5.14
 * https://news.ycombinator.com/item?id=28241033
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=SMB3-File-Server-Security-Fix
+https://lists.freedesktop.org/archives/dri-devel/2021-September/323978.html Add a DRM driver to support AI Processing Unit (APU)
 https://linuxplumbersconf.org/event/11/contributions/1026/ Compiler Features for Kernel Security
 http://lkml.iu.edu/hypermail/linux/kernel/2109.1/07229.html [PATCH v4 00/10] VP9 codec V4L2 control interface
 * https://news.ycombinator.com/item?id=28524826

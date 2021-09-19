@@ -8,6 +8,11 @@ https://wasmer.io/posts/wasmer-2.0
 
 https://nanovms.com/dev/tutorials/running-wasm-unikernels
 
+https://github.com/deislabs/wagi WebAssembly Gateway Interface, Rust
+* https://news.ycombinator.com/item?id=28576090
+
+https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust
+
 # Cpmpile
 
 https://github.com/appcypher/awesome-wasm-langs

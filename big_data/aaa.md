@@ -191,6 +191,8 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://root.cern.ch/
+https://github.com/apache/incubator-kyuubi Distributed multi-tenant Thrift JDBC/ODBC
 https://www.argmin.net/2021/09/13/effect-size/
 * https://news.ycombinator.com/item?id=28526909
 https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/

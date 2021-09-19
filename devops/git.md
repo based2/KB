@@ -1,5 +1,12 @@
 https://git-scm.com/
 
+https://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;
+* https://news.ycombinator.com/item?id=28578896
+* https://github.com/ndp/git-cheatsheet
+
+https://cuddly-octo-palm-tree.com/posts/2021-09-19-git-elements/
+* https://news.ycombinator.com/item?id=28584422
+
 https://www.weave.works/blog/the-gitops-maturity-model
 
 https://www.netguru.com/codestories/5-git-commands-i-wish-i-knew-about-when-i-started-coding

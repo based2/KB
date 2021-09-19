@@ -135,6 +135,7 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
 # News
+https://optimule.com/
 https://a-b-street.github.io/docs/tech/map/geometry/index.html
 * https://news.ycombinator.com/item?id=28568081
 https://s2geometry.io/

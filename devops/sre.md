@@ -19,3 +19,6 @@ https://aws.amazon.com/ru/message/41926/ s3 2017
 
 https://danluu.com/why-benchmark/
 * https://news.ycombinator.com/item?id=28326275
+
+https://www.usenix.org/publications/loginonline/kill-it-fire
+* 

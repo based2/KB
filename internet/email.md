@@ -78,6 +78,8 @@ https://github.com/knadh/listmonk
 * https://news.ycombinator.com/item?id=28389346
 
 # News
+https://modoboa.org/en/
+* https://news.ycombinator.com/item?id=28583099
 https://medium.com/schibsted-engineering/building-a-serverless-email-delivery-service-on-aws-9269f55533a0
 * https://news.ycombinator.com/item?id=28378453
 https://www.thunderbird.net/en-US/thunderbird/91.0/releasenotes/

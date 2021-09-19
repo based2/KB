@@ -1,6 +1,7 @@
 https://www.scala-lang.org/
 
 https://www.scala-sbt.org/
+https://www.reddit.com/r/scala/comments/pmibfe/sbt_can_be_tricky_maybe_this_will_help/
 
 https://index.scala-lang.org/
 

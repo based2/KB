@@ -243,6 +243,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://javascript.info/currying-partials
+* https://news.ycombinator.com/item?id=28583069
+https://openkraken.com/en-US High-performance web rendering engine, built on Flutter
+* https://news.ycombinator.com/item?id=28578791
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
+* https://news.ycombinator.com/item?id=28578395 
 https://javascript.works-hub.com/learn/data-validation-without-objects-78fcc
 https://mp2.dk/techblog/chowjs/ AOT JavaScript engine for game consoles
 * https://news.ycombinator.com/item?id=28550603

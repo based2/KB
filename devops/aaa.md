@@ -88,6 +88,8 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.com/mattbillenstein/salty
+https://cloudogu.com/en/blog/gitops-tools
 https://theforeman.org/2021/09/foreman-30-is-here.html
 * https://news.ycombinator.com/item?id=28569690
 https://travis-ci.community/t/security-bulletin/12081

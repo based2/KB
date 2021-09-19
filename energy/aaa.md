@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.science.org/content/article/forget-oil-or-water-iceland-well-diggers-seek-tap-volcano-s-magma
+https://www.iaea.org/newscenter/news/nuclear-power-supply-chain-eyes-new-avenues-of-success-as-global-markets-shift
 https://www.nature.com/articles/d41586-021-02459-w China prepares to test thorium-fuelled nuclear reactor
 * https://news.ycombinator.com/item?id=28560790
 https://news.ycombinator.com/item?id=28484888

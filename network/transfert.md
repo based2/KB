@@ -18,3 +18,6 @@ https://transfer.sh/
 https://www.ozzillate.com/ sound
 * https://news.ycombinator.com/item?id=28475502
 
+https://goteleport.com/blog/scp-familiar-simple-insecure-slow/
+* https://news.ycombinator.com/item?id=23579107
+

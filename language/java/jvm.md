@@ -31,6 +31,8 @@ https://inside.java/2020/06/25/compact-forwarding/
 https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses
 * https://news.ycombinator.com/item?id=28562874
 
+http://clojure-goes-fast.com/blog/shenandoah-in-production/
+
 # Test
 https://github.com/ota4j-team/opentest4j
 

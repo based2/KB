@@ -32,6 +32,8 @@ https://github.com/klen/py-frameworks-bench
 https://mnemic.readthedocs.io/en/main/index.html
 * https://news.ycombinator.com/item?id=27409661
 
+https://snarky.ca/unravelling-the-async-with-statement/
+
 # Vuild
 https://github.com/mesonbuild/meson
 
@@ -163,6 +165,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://github.com/olzhasar/pytest-watcher
+* 
 https://www.pypy.org/posts/2021/09/jit-auto-generated-code.html
 https://valinsky.me/articles/python-anti-pattern/
 * https://news.ycombinator.com/item?id=28534196

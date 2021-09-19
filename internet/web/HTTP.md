@@ -27,6 +27,13 @@ https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-
 
 https://pokeinthe.io/2021/09/13/cache-control-recommendations/
 
+https://jakearchibald.com/2016/caching-best-practices/
+
+https://stackfull.dev/http-refresher-things-you-should-know-about-http
+
+https://blog.cloudflare.com/early-hints/
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Link
+
 # Server
 ## Apache HTTPD
 https://httpd.apache.org/

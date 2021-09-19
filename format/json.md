@@ -63,9 +63,9 @@ https://kristiandupont.medium.com/testing-3rd-party-api-access-b2808494ccd
 * https://news.ycombinator.com/item?id=28104901
 
 https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
-
-https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 * https://news.ycombinator.com/item?id=28479464
+
+http://argonaut.io/doc/quickstart/ scala
 
 
 

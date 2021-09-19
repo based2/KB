@@ -107,11 +107,16 @@ sonar
 https://blog.palantir.com/code-review-best-practices-19e02780015f
 * https://news.ycombinator.com/item?id=28554036
 
+https://github.com/crev-dev/crev/wiki/Proof-Repository
+* https://news.ycombinator.com/item?id=28564235
+
 # API
 https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 * https://news.ycombinator.com/item?id=27510647
 
 # History
+https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/
+
 https://people.idsia.ch//~juergen/turing-oversold.html
 * https://news.ycombinator.com/item?id=28522761
 
@@ -151,6 +156,9 @@ https://janet-lang.org/
 *
 
 # News
+https://github.com/ShprAlex/SproutLife
+https://pantagruel-language.com/ An Extremely Lightweight Specification Language
+* https://news.ycombinator.com/item?id=28580640
 https://kdl.dev/ The KDL Document Language
 * https://news.ycombinator.com/item?id=28510031
   * https://github.com/hkolbeck/kdl4j

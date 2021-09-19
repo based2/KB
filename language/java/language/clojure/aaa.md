@@ -30,8 +30,29 @@ https://blog.davemartin.me/posts/debugging-in-clojure/
 https://tonsky.me/blog/clojure-ui/
 * https://news.ycombinator.com/item?id=28469498
 
+http://clojure-goes-fast.com/
+
+# EDN
+
+https://github.com/edn-format/edn
+
+https://edn-query-language.org/eql/1.0.0/what-is-eql.html
+https://github.com/wilkerlucio/pathom
+https://github.com/wilkerlucio/pathom3
+
+# REPL
+https://vlaaad.github.io/reveal/#rationale
+
+https://dev.to/hlship/debugging-clojure-at-the-repl-using-tap-2pm5
+* https://www.reddit.com/r/Clojure/comments/pq3hj7/debugging_clojure_at_the_repl_using_tap/
+
+https://github.com/ztellman/virgil
+
 # Testing
 https://fctorial.github.io/posts/tst.html
+
+https://bsless.github.io/stressed-servers/
+* https://github.com/bsless/stress-server
 
 # ClosureScript
 https://jerue.org/blog/lessons-on-writing-javascript-and-react-from-clojurescript/
@@ -48,6 +69,13 @@ https://github.com/jebberjeb/specviz
 
 # Clojurescript
 https://shaunlebron.github.io/t3tr0s-slides/#0
+
+https://tech.toryanderson.com/2021/09/17/clojurescript-reagent-image-previewing-selector/
+
+# Native
+https://babashka.org/ Graalvm
+
+https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
 https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983

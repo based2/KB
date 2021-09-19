@@ -64,6 +64,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://www.rskey.org/~mwsebastian/miscprj/forensics.htm Calculator Forensics
+* https://news.ycombinator.com/item?id=28561298
+https://www.chebfun.org/
 https://num.math.uni-goettingen.de/schaback/teaching/sc.pdf A Practical Guide to Radial Basis Functions
 * https://news.ycombinator.com/item?id=28530371
 https://sigkill.dk/writings/par/lhomo.html

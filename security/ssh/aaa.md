@@ -39,6 +39,9 @@ https://labs.f-secure.com/blog/playing-with-putty/
 
 https://thenewstack.io/ssh-made-easy-with-ssh-agent-and-ssh-config/
 
+https://rabexc.org/posts/pitfalls-of-ssh-agents
+* https://news.ycombinator.com/item?id=28576617
+
 # Certificates
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_ca_certificate_signing-keys
 https://smallstep.com/blog/use-ssh-certificates/
@@ -86,6 +89,7 @@ https://mosh.org/
 * https://news.ycombinator.com/item?id=28150287
 
 # News
+https://goteleport.com/blog/ssh-vs-kubectl/#.XzRIRZyYc6g.hackernews
 https://gist.github.com/koobs/e01cf8869484a095605404cd0051eb11 FreeBSD SSH Hardening
 * https://news.ycombinator.com/item?id=28537098
 https://undeadly.org/cgi?action=article;sid=20210830113413 RSA/SHA1 signature type disabled by default in OpenSSH

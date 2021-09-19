@@ -74,6 +74,7 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 * https://news.ycombinator.com/item?id=27872243
 
 # News
+https://www.reuters.com/article/tech-deutsche-telekom-int-idUSKBN2740PX
 https://www.magmacore.org/
 https://news.ycombinator.com/item?id=28540929
 https://neilbostian.github.io/#/doomphone

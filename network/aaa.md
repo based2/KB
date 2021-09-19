@@ -89,6 +89,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://people.freebsd.org/~gallatin/talks/euro2021.pdf Serving Netflix Video at 400Gb/s
+* https://news.ycombinator.com/item?id=28584738
 https://github.com/garywill/linux-router
 https://atoonk.medium.com/tcp-bbr-exploring-tcp-congestion-control-84c9c11dc3a9
 https://research.google/pubs/pub48630/

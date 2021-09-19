@@ -11,3 +11,6 @@ https://news.ycombinator.com/item?id=27154412 What are the best typography talks
 
 https://catnormoyle.com/2011/02/02/a-look-at-barbara-kruger-and-jenny-holzers-use-of-typographic-art/
 * https://news.ycombinator.com/item?id=28520539
+
+https://www.typography.com/blog/monotype-acquires-hoeflerco
+* https://news.ycombinator.com/item?id=28560639

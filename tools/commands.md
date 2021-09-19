@@ -1,5 +1,7 @@
 https://www.codesnail.com/linux-commands-cheat-sheet/
 
+https://github.com/bootandy/dust Rust du
+
 https://www.tbray.org/ongoing/When/202x/2021/03/27/Topfew-and-Amdahl logs
 * https://news.ycombinator.com/item?id=26624929
 
@@ -18,9 +20,13 @@ https://github.com/catatsuy/lls
 https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html
 * https://news.ycombinator.com/item?id=28343109
 
+https://github.com/joehillen/sysz fzf terminal UI for systemctl
+
 # Cron
 https://crontab.guru/
 
 #
+https://github.com/jart/bestline
+* https://news.ycombinator.com/item?id=28549115
 https://eclecticlight.co/2021/09/14/how-to-run-commands-and-scripts-on-efficiency-cores/
 * https://news.ycombinator.com/item?id=28521275

@@ -70,6 +70,9 @@ https://frogurncitadel.wordpress.com/2021/03/27/how-i-practice-piano/
 https://whatmusicreallyis.com/research/harmonicomb/
 * https://news.ycombinator.com/item?id=27588673
 
+https://chuck.cs.princeton.edu/
+* https://news.ycombinator.com/item?id=28573193
+
 https://alda.io/tutorial/
 * https://news.ycombinator.com/item?id=28198641
 
@@ -77,6 +80,8 @@ https://arxiv.org/abs/2108.12290 Music Composition with Deep Learning: A Review
 * https://news.ycombinator.com/item?id=28353358
 
 https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues
+
+https://github.com/aubio/aubio Library to label music and sounds
 
 https://rave.dj/
 * https://news.ycombinator.com/item?id=28514159

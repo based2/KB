@@ -25,3 +25,6 @@ https://dev.to/tinystacks/service-discovery-with-aws-cloud-map-1mmg
 
 https://laravel-news.com/aws-mistakes Missed optimization opportunities in EC2
 * https://news.ycombinator.com/item?id=28490278
+
+Amazon Redshift Research Project - Auto-Vacuum
+https://www.amazonredshiftresearchproject.org/white_papers/downloads/auto_vacuum.pdf

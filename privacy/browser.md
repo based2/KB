@@ -4,6 +4,9 @@ https://lapcatsoftware.com/articles/closing.html
   * https://news.ycombinator.com/item?id=26539673
 
 https://monitor.firefox.com/
+
+https://github.com/dothq/browser
+* https://news.ycombinator.com/item?id=28584630
   
 # News
 https://news.ycombinator.com/item?id=27145911

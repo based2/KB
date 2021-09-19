@@ -9,8 +9,8 @@ http://thatjdanisso.cool/a11y/focus-vs-hover/
 
 https://alistapart.com/article/the-illusion-of-control-in-web-design/
 
-https://penpot.app/?source=korben.info
-* https://github.com/penpot/penpot?source=korben.info
+https://penpot.app/
+* https://github.com/penpot/penpot
 
 https://www.nngroup.com/articles/marginalia-of-web-design/
 * https://news.ycombinator.com/item?id=27891669

@@ -40,6 +40,10 @@ https://zkp.science/
 * https://news.ycombinator.com/item?id=27573910
 
 # News
+https://github.com/MinaProtocol/mina ocaml
+* https://news.ycombinator.com/item?id=28573083
+https://paulstamatiou.com/how-i-made-50k-in-3-days-with-nfts/
+* https://news.ycombinator.com/item?id=28575284
 https://www.bbc.com/news/technology-58585342
 * https://news.ycombinator.com/item?id=28553506
 https://protos.com/griffith-virgil-coinbase-account-ethereum-jail-north-korea-arrest/

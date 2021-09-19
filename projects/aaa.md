@@ -148,6 +148,8 @@ https://iism.org/article/why-are-ceos-failing-software-engineers-56?r=1
 https://patrickjuchli.com/en/posts/learning-experience/
 * https://news.ycombinator.com/item?id=28511881
 
+https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-code/
+
 # Musics for programming
 https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887

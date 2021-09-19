@@ -59,6 +59,8 @@ https://github.com/benbusby/whoogle-search
 * https://news.ycombinator.com/item?id=28326180
 
 # News
+https://aquila.network/
+* https://news.ycombinator.com/item?id=28582967
 https://search.marginalia.nu/ Favors text-heavy sites and punishes modern web design
 * https://news.ycombinator.com/item?id=28550764
 https://jpreston.xyz/custom-search-engine.html

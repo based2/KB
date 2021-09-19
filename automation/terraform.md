@@ -16,3 +16,7 @@ https://news.ycombinator.com/item?id=27905922
 
 https://macunha.me/en/post/2021/06/terraform-atomic-design/
 * https://www.reddit.com/r/Terraform/comments/pd708z/terraform_modules_atomic_design/
+
+https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/
+* https://news.ycombinator.com/item?id=28583258
+* https://github.com/hashicorp/terraform-cdk

@@ -32,6 +32,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://embeddeduse.com/2021/09/18/setting-up-yocto-projects-with-kas/
+https://medium.com/codex/sidecar-pattern-4db37273398b
+https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/
 https://rigtorp.se/virtual-memory/
 * https://news.ycombinator.com/item?id=28533659
 https://blog.deref.io/containers-dont-solve-everything/

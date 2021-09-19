@@ -95,6 +95,7 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://eclecticlight.co/2021/09/19/last-week-on-my-mac-the-macos-update-problem/
 https://fmentzer.github.io/posts/2020/dictionary/
 * https://news.ycombinator.com/item?id=28505406
 https://git.sr.ht/~habibalamin/Commandeer

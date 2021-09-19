@@ -68,6 +68,7 @@ https://www.youtube.com/watch?v=DZRn_jNZjbw
 
 
 # News
+http://aprt.us/ Apparatus hybrid graphics editor and programming environment for creating interactive diagrams.
 https://observablehq.com/@rreusser/the-double-pendulum-fractal
 https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html
 * https://news.ycombinator.com/item?id=26753851

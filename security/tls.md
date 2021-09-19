@@ -106,6 +106,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://www.kernel.org/doc/html/latest/networking/tls-offload.html
+https://www.smacktls.com/
 https://blog.px.dev/ebpf-openssl-tracing/
 https://go.dev/blog/tls-cipher-suites
 * https://news.ycombinator.com/item?id=28540916

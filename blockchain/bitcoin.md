@@ -18,6 +18,7 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://github.com/JohnLaw2/btc-iids/blob/main/iids13.pdf 
 https://www.sciencedirect.com/science/article/abs/pii/S0921344921005103?dgcid
 * https://news.ycombinator.com/item?id=28563436
 https://getumbrel.com/

@@ -1,3 +1,27 @@
+https://github.com/samuel-lucas6/Cryptography-Guidelines
+
+https://www.bleepingcomputer.com/news/security/ransomware-encrypts-south-africas-entire-dept-of-justice-network/
+
+https://www.bleepingcomputer.com/news/security/researchers-compile-list-of-vulnerabilities-abused-by-ransomware-gangs/
+
+https://issues.edpnet.be/
+* https://news.ycombinator.com/item?id=28578399
+
+https://www.tomshardware.com/news/amd-chipset-vulnerability-leaks-passwords
+
+https://github.com/Ganapati/RsaCtfTool
+
+https://github.com/maurosoria/dirsearch
+
+https://www.accenture.com/us-en/blogs/cyber-defense/discovering-vulnerabilities-avaya-aura
+
+https://unit42.paloaltonetworks.com/azure-container-instances/
+https://www.bleepingcomputer.com/news/security/omigod-microsoft-azure-vms-exploited-to-drop-mirai-miners/
+
+https://zolder.io/public-sharepoint-sites-the-new-open-shares/
+
+https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-under-exploitation/
+
 https://arxiv.org/abs/2109.05371 F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version)
 
 https://paragonie.com/blog/2021/09/promoting-misuse-resistance-in-paseto-libraries
@@ -355,7 +379,7 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
   * https://theintercept.com/2021/07/27/pegasus-nso-spyware-security/
   * https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html
   * https://github.com/mvt-project/mvt Mobile Verification Toolkit
-  * https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/pegasus.stix2?source=korben.info
+  * https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/pegasus.stix2
   * https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/
     * https://news.ycombinator.com/item?id=28516095
  

@@ -73,6 +73,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://linux.slashdot.org/story/21/09/18/0050255/is-2021-the-year-of-the-linux-desktop
+* https://news.ycombinator.com/item?id=28583352
 https://www.omgubuntu.co.uk/2021/09/ubuntu-makes-firefox-snap-default
 * https://news.ycombinator.com/item?id=28564600
 https://lunduke.substack.com/p/the-linux-distributions-of-1992

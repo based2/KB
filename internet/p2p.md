@@ -8,6 +8,9 @@ http://ipfs.io/ Kademlia + BitTorrent
   https://nebulus.dev/
   * https://news.ycombinator.com/item?id=27883329
 
+https://libgen.fun/dweb.html
+* https://news.ycombinator.com/item?id=28585208
+
 https://speakerdeck.com/feross/adventures-in-p2p-javascript
 https://github.com/feross/webtorrent
 

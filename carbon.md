@@ -46,6 +46,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://pubs.acs.org/doi/10.1021/acsami.1c02368 Ultrawhite BaSO4 Paints and Films for Remarkable Daytime Subambient Radiative Cooling
+* https://news.ycombinator.com/item?id=28575410
+https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain
 https://www.france24.com/en/science/20210917-world-on-catastrophic-path-to-2-7c-warming-warns-un-chief
 * https://news.ycombinator.com/item?id=28567679
 https://www.reuters.com/business/environment/worlds-largest-plant-capturing-carbon-air-starts-iceland-2021-09-08/

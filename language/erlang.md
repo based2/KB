@@ -59,6 +59,8 @@ https://functional.works-hub.com/learn/elixir-practical-concurrency-3794f
 https://bartoszgorka.com/dynamic-queries-in-ecto
 * https://news.ycombinator.com/item?id=28535880
 
+https://github.com/oestrich/kalevala
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 * https://news.ycombinator.com/item?id=27629016

@@ -82,6 +82,8 @@ https://piotr.westfalewicz.com/blog/2020/04/the-ultimate-cloud-cat-feeder-overvi
 https://freshtomato.org/ Broadcom
 * https://news.ycombinator.com/item?id=28520468
 
+https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
+
 # News
 https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/
 * https://news.ycombinator.com/item?id=27766066
