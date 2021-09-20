@@ -58,3 +58,6 @@ https://www.uninformativ.de/blog/postings/2021-08-19/0/POSTING-en.html
 https://www.getsynth.com/ JSON
 
 https://github.com/DiUS/java-faker
+
+
+https://hypothesis.works/articles/what-is-property-based-testing/

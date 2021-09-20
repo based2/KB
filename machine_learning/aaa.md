@@ -230,6 +230,7 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://arxiv.org/abs/2109.04448
 https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c
 https://www.rowetel.com/?p=7837
 https://blog.sigplan.org/2021/09/14/the-story-of-the-flash-fill-feature-in-excel/

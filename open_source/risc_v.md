@@ -32,5 +32,6 @@ https://github.com/lekkit/rvvm
 * https://news.ycombinator.com/item?id=27918744
 
 # News
+https://github.com/fwsGonzo/bigassm
 https://www.notebookcheck.net/Computer-scientist-showcases-world-s-first-RISC-V-based-Linux-PC-coupled-with-an-AMD-RX-6700-XT-GPU.552002.0.html
 * 

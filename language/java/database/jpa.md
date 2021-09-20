@@ -33,6 +33,8 @@ https://vladmihalcea.com/keyset-pagination-jpa-hibernate/
 
 https://www.reddit.com/r/java/comments/oz67sy/springdatajpatemporal_a_lightweight_temporal/
 
+https://javahippie.net/java/database/jpa/hibernate/2021/09/18/hibernate-oracle-postgres.html
+
 # cons
 https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 * https://news.ycombinator.com/item?id=26772550

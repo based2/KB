@@ -165,6 +165,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://cedaei.com/posts/python-poetry-pipx/
+https://github.com/Technologicat/pyan
+* https://lobste.rs/s/tejack/technologicat_pyan_static_call_graph
 https://github.com/olzhasar/pytest-watcher
 * 
 https://www.pypy.org/posts/2021/09/jit-auto-generated-code.html

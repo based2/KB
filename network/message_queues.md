@@ -23,6 +23,8 @@ https://www.gentlydownthe.stream/
 
 https://www.confluent.io/blog/okay-store-data-apache-kafka/
 
+https://www.reddit.com/r/scala/comments/pr45zg/optimizing_kafka_performance/
+
 ## Book
 https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
 

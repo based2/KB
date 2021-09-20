@@ -4,6 +4,9 @@ https://hn.algolia.com/
 https://gist.github.com/linkdd/76fd57d02480c3e36a4e3f8ce39322b1 Add a bell emoji to unread comments on HackerNews
 * https://news.ycombinator.com/item?id=28538855
 
+https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0
+* https://news.ycombinator.com/item?id=28595967
+
 # Slashdot
 
 # Reddit

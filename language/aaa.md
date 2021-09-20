@@ -156,6 +156,8 @@ https://janet-lang.org/
 *
 
 # News
+https://docs.oracle.com/en/java/javase/17/docs/api/new-list.html
+http://combos.org/ Combinatorial Object Server
 https://github.com/ShprAlex/SproutLife
 https://pantagruel-language.com/ An Extremely Lightweight Specification Language
 * https://news.ycombinator.com/item?id=28580640

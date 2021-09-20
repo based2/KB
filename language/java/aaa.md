@@ -204,6 +204,7 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://inside.java/2021/09/20/javac-tree-api/
 https://www.avanwyk.com/revisiting-java-in-2021-ii/
 https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html
 https://www.linkedin.com/pulse/oracle-java-release-17-now-free-again-richard-spithoven/

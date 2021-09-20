@@ -16,6 +16,8 @@ https://github.com/tidwall/btree/blob/master/PATH_HINT.md
 https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/
 * https://news.ycombinator.com/item?id=28221612
 
+https://medium.com/@amitdavidson234/all-about-b-trees-and-databases-8c0697856189
+
 # binary index trees (Fenwick trees)
 https://jornhub.dev/articles/fenwick-trees/
 * https://news.ycombinator.com/item?id=28354637

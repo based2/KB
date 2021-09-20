@@ -77,6 +77,11 @@ https://www.mailoo.org/
 https://github.com/knadh/listmonk
 * https://news.ycombinator.com/item?id=28389346
 
+# AntiSpam
+https://spamassassin.apache.org/
+
+https://www.semanticscholar.org/paper/Spamalot%3A-A-Toolkit-for-Consuming-Spammers%27-Nelson-Dallmeyer/97b8c4e291835ca3d11e0e6d924dc436ea31a4c7?p2df
+
 # News
 https://modoboa.org/en/
 * https://news.ycombinator.com/item?id=28583099

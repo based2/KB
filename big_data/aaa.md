@@ -191,6 +191,7 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://datasette.io/
 https://root.cern.ch/
 https://github.com/apache/incubator-kyuubi Distributed multi-tenant Thrift JDBC/ODBC
 https://www.argmin.net/2021/09/13/effect-size/

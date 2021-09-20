@@ -82,4 +82,6 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 * https://www.reddit.com/r/java/comments/osht20/towards_continuous_performance_regression_testing/
 
 # News
+https://blog.frankel.ch/reassessing-testng-junit/
+* https://www.reddit.com/r/java/comments/prayh5/reassessing_testng_vs_junit/
 https://www.reddit.com/r/java/comments/np59b3/testng_vs_junit_which_testing_framework_should/

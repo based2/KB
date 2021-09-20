@@ -1,3 +1,11 @@
+https://bestpractices.coreinfrastructure.org/en/criteria
+
+https://www.countercraftsec.com/blog/post/shellcode-detection-using-realtime-kernel-monitoring/
+
+https://pulsesecurity.co.nz/advisories/Zerotier-Private-Network-Access
+
+https://fedoraproject.org/wiki/Changes/yescrypt_as_default_hashing_method_for_shadow
+
 https://github.com/samuel-lucas6/Cryptography-Guidelines
 
 https://www.bleepingcomputer.com/news/security/ransomware-encrypts-south-africas-entire-dept-of-justice-network/

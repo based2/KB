@@ -9,6 +9,7 @@ https://www.sciencemag.org/news/2021/03/remains-impact-created-moon-may-lie-deep
 
 https://www.nasa.gov/feature/nasa-awards-500000-in-break-the-ice-lunar-challenge
 
+https://www.science.org/content/article/new-fleet-moon-landers-will-set-sail-next-year-backed-private-companies
 
 # History
 https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html

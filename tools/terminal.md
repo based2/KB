@@ -26,6 +26,8 @@ https://invisible-island.net/ncurses/ncurses-intro.html
 https://hpjansson.org/blag/2021/09/16/chafa-1-8-terminal-graphics-with-a-side-of-everything/
 * https://news.ycombinator.com/item?id=28548120
 
+https://github.com/salt-die/nurses Portmanteau of Numpy and Curses
+
 # Plot
 https://github.com/piccolomo/plotext python
 * https://news.ycombinator.com/item?id=27719759

@@ -71,6 +71,8 @@ https://www.mca-ltd.com/martin/Ten15/introduction.html
 
 https://begriffs.com/posts/2021-07-04-shared-libraries.html
 
+https://maskray.me/blog/2021-09-19-all-about-procedure-linkage-table
+
 # Vectorization
 https://cvw.cac.cornell.edu/vector/default
 * https://news.ycombinator.com/item?id=27900592
