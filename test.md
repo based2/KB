@@ -61,3 +61,8 @@ https://github.com/DiUS/java-faker
 
 
 https://hypothesis.works/articles/what-is-property-based-testing/
+
+
+#
+https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/
+* https://news.ycombinator.com/item?id=28642983

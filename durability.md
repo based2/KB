@@ -27,6 +27,7 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 * https://news.ycombinator.com/item?id=28018057
 
 # News
+https://ec.europa.eu/commission/presscorner/detail/en/ip_21_4613
 https://pedestrianobservations.com/2021/07/23/the-leakage-problem/
 https://anaellebeignon.fr/design-for-obsolete-devices.html
 * https://news.ycombinator.com/item?id=27927339

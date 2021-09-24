@@ -13,4 +13,5 @@ https://www.npmjs.com/package/amtrak
 * https://news.ycombinator.com/item?id=28477797
 
 # News
+https://www.theguardian.com/artanddesign/2021/sep/22/british-rail-logo-designer-appalled-by-green-makeover-mess
 https://www.theguardian.com/us-news/2021/sep/16/battery-electric-freight-train-wabtec-rail-transport-emissions

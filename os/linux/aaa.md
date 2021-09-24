@@ -73,6 +73,10 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://cenains.blog/2021/08/31/sudo-in-system/
+* https://news.ycombinator.com/item?id=28594057
+https://マリウス.com/linux-on-the-desktop-part-two/
+* https://news.ycombinator.com/item?id=28585005
 https://linux.slashdot.org/story/21/09/18/0050255/is-2021-the-year-of-the-linux-desktop
 * https://news.ycombinator.com/item?id=28583352
 https://www.omgubuntu.co.uk/2021/09/ubuntu-makes-firefox-snap-default

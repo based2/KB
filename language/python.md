@@ -54,6 +54,8 @@ https://github.com/morefigs/printstack
 
 https://github.com/breuleux/jurigged
 
+https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/
+
 # Testing
 https://news.ycombinator.com/item?id=26565785
 
@@ -165,6 +167,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://github.com/pyccel/pyccel parallel
+https://benhoyt.com/writings/python-pattern-matching/
+* https://news.ycombinator.com/item?id=28600594
 https://cedaei.com/posts/python-poetry-pipx/
 https://github.com/Technologicat/pyan
 * https://lobste.rs/s/tejack/technologicat_pyan_static_call_graph

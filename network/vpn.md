@@ -21,6 +21,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 * https://news.ycombinator.com/item?id=28382585
 
 # News
+https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-top-role-company-2021-09-23/
+* https://news.ycombinator.com/item?id=28642784
 https://github.com/juanfont/headscale
 * https://news.ycombinator.com/item?id=28572013
 https://mullvad.net/en/blog/2021/9/16/ownership-and-future-mullvad-vpn/

@@ -25,6 +25,8 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://blog.evjang.com/2021/09/ephemeralization.html
+* https://news.ycombinator.com/item?id=28605633
 https://hackaday.com/2021/09/16/hacking-a-robot-vacuum-to-write-a-replacement-app/
 https://blog.x.company/introducing-intrinsic-1cf35b87651
 * https://news.ycombinator.com/item?id=27931562

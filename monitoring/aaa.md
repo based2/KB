@@ -62,6 +62,8 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/
+* https://news.ycombinator.com/item?id=28613228
 https://github.com/lightmeterio/ControlCenter Monitoring and automation for email servers, starting with Postfix - alpha
 * https://news.ycombinator.com/item?id=28562904
 https://github.com/jaegertracing/jaeger-clickhouse/blob/main/blog/post1.md

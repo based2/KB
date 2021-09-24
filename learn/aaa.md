@@ -65,6 +65,8 @@ http://play.elevatorsaga.com/
 http://web.eecs.umich.edu/~baveja/RLMasses/node2.html
 
 # Meta
+https://metacognitive.me/memory-palace/
+* https://news.ycombinator.com/item?id=28640429
 https://supermemo.guru/wiki/Algorithm_SM-17#Introduction
 https://www.wired.com/2008/04/ff-wozniak/
 * https://news.ycombinator.com/item?id=28200913

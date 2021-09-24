@@ -68,6 +68,8 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://blog.buildo.io/persistence-layers-31ff66546ca9
+* https://tpolecat.github.io/doobie/
 https://github.com/melvic-ybanez/esena A ray tracer
 https://hmemcpy.com/2021/09/bsp-and-intellij/
 https://mykolav.github.io/coollang-2020-fs/

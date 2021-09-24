@@ -21,4 +21,11 @@ https://danluu.com/why-benchmark/
 * https://news.ycombinator.com/item?id=28326275
 
 https://www.usenix.org/publications/loginonline/kill-it-fire
-* 
+
+https://fauna.com/blog/real-world-database-latency
+* https://news.ycombinator.com/item?id=28594664
+
+https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/
+
+https://principles.green/
+* https://news.ycombinator.com/item?id=28615321

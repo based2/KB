@@ -61,6 +61,8 @@ https://bartoszgorka.com/dynamic-queries-in-ecto
 
 https://github.com/oestrich/kalevala
 
+https://fly.io/blog/how-we-got-to-liveview/
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 * https://news.ycombinator.com/item?id=27629016

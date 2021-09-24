@@ -30,6 +30,8 @@ https://blog.frankel.ch/annotation-free-spring/
 Spring native
 https://www.youtube.com/watch?v=TXyg6Nm4ZpQ
 
+https://www.infoq.com/news/2021/09/spring-6-spring-boot-3-overhaul/
+
 # Quarkus
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
 https://quarkus.io/blog/magic-control/ vertx

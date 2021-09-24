@@ -32,6 +32,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://waydro.id/ android ubuntu
+* https://news.ycombinator.com/item?id=28616985
 https://embeddeduse.com/2021/09/18/setting-up-yocto-projects-with-kas/
 https://medium.com/codex/sidecar-pattern-4db37273398b
 https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/

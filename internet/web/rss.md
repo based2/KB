@@ -10,3 +10,5 @@ https://mattmower.com/2021/08/02/what-we-lost/
 https://feed-me-up-scotty.vincenttunru.com/
 
 https://rssby.email/
+
+https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media

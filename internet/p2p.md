@@ -11,6 +11,9 @@ http://ipfs.io/ Kademlia + BitTorrent
 https://libgen.fun/dweb.html
 * https://news.ycombinator.com/item?id=28585208
 
+https://blog.ipfs.io/decentralizing-the-internet-s-root/
+* https://news.ycombinator.com/item?id=28617496
+
 https://speakerdeck.com/feross/adventures-in-p2p-javascript
 https://github.com/feross/webtorrent
 

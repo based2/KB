@@ -32,6 +32,8 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://engineering.fb.com/2021/09/13/core-data/superpack/
+* https://www.reddit.com/r/programming/comments/pt4nsp/superpack_pushing_the_limits_of_compression_in/
 https://www.sligocki.com/2021/07/17/bb-collatz.html
 * https://news.ycombinator.com/item?id=28384344
 https://www.pinecone.io/learn/product-quantization/

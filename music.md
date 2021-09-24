@@ -79,6 +79,9 @@ https://alda.io/tutorial/
 https://arxiv.org/abs/2108.12290 Music Composition with Deep Learning: A Review
 * https://news.ycombinator.com/item?id=28353358
 
+https://github.com/ekzhang/composing.studio
+* https://news.ycombinator.com/item?id=28615418
+
 https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues
 
 https://github.com/aubio/aubio Library to label music and sounds

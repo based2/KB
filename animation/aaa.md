@@ -68,6 +68,10 @@ https://www.youtube.com/watch?v=DZRn_jNZjbw
 
 
 # News
+https://motion.dev/
+* https://news.ycombinator.com/item?id=28616043
+https://github.com/AriaMinaei/theatre
+* https://news.ycombinator.com/item?id=28601192
 http://aprt.us/ Apparatus hybrid graphics editor and programming environment for creating interactive diagrams.
 https://observablehq.com/@rreusser/the-double-pendulum-fractal
 https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html

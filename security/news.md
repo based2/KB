@@ -1,3 +1,29 @@
+https://threatpost.com/100m-iot-devices-zero-day-bug/174963/ nanomq
+
+https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server
+* https://news.ycombinator.com/item?id=28645266
+
+https://habr.com/en/post/579714/
+* https://news.ycombinator.com/item?id=28637276
+
+https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html
+
+https://www.pcmag.com/news/thanks-to-disney-11-netgear-routers-need-to-be-patched-immediately
+* https://news.ycombinator.com/item?id=28615834
+
+https://www.bleepingcomputer.com/news/apple/new-macos-zero-day-bug-lets-attackers-run-commands-remotely/
+* https://news.ycombinator.com/item?id=28618323
+
+https://www.nksc.lt/doc/en/analysis/2021-08-23_5G-CN-analysis_env3.pdf
+* https://news.ycombinator.com/item?id=28619136
+* https://news.ycombinator.com/item?id=28616683
+
+http://rot8000.com/info
+* https://news.ycombinator.com/item?id=28615855
+
+https://www.spookjs.com/ Attacking Google Chrome's Strict Site Isolation via Speculative Execution and Type Confusion
+* https://news.ycombinator.com/item?id=28618102
+
 https://bestpractices.coreinfrastructure.org/en/criteria
 
 https://www.countercraftsec.com/blog/post/shellcode-detection-using-realtime-kernel-monitoring/

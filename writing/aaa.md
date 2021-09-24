@@ -25,3 +25,7 @@ https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctu
 
 https://en.wikipedia.org/wiki/Chiastic_structure
 * https://news.ycombinator.com/item?id=28509859
+
+
+# Books
+https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?

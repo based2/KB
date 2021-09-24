@@ -204,6 +204,15 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://jetbrains.developpez.com/tutoriel/top-dix-plugins-intellij-idea/#LI
+https://cr.openjdk.java.net/~jrose/jls/FunnyStatic.java
+* https://www.reddit.com/r/java/comments/ps3m2i/as_of_java_16_the_language_allows_statics_inside/
+https://github.com/MaowImpl/rust-panama
+https://inside.java/2021/09/21/devlive-java-language-futures/
+https://failsafe.dev/comparisons/#failsafe-vs-resilience4j
+https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot
+* https://www.reddit.com/r/java/comments/ptxrxt/adoptium_provides_openjdk_17_lts_downloads/
+https://mail.openjdk.java.net/pipermail/porters-dev/2021-September/000688.html Porting Loom to additional architectures
 https://inside.java/2021/09/20/javac-tree-api/
 https://www.avanwyk.com/revisiting-java-in-2021-ii/
 https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html

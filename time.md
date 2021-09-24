@@ -134,6 +134,8 @@ https://memgraph.com/blog/overflowing-timeout
 https://japantoday.com/category/features/lifestyle/the-%27wadokei%27-the-old-way-of-measuring-time-in-japan
 
 # News
+https://mm.icann.org/pipermail/tz/2021-September/030400.html Preparing to fork tzdb
+* https://news.ycombinator.com/item?id=28600442
 https://github.com/frenkel/timer-for-harvest rust gtk
 * 
 https://www.reddit.com/r/scala/comments/p1xps0/scalqa_perfect_time_library/

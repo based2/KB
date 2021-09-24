@@ -28,7 +28,8 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 # Web extensions
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
-# News
+# News`
+https://developer.chrome.com/docs/extensions/mv3/mv2-sunset/
 https://news.ycombinator.com/item?id=28517314
 https://www.theverge.com/2021/9/13/22671182/mozilla-default-browser-windows-protections-firefox
 * https://news.ycombinator.com/item?id=28510490

@@ -230,6 +230,9 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://arxiv.org/abs/2109.10317 Introduction to Neural Network Verification
+* https://news.ycombinator.com/item?id=28626334
+https://veekaybee.github.io/2021/09/23/enlightenment/
 https://arxiv.org/abs/2109.04448
 https://canvatechblog.com/machine-learning-hyperparameter-optimization-with-argo-a60d70b1fc8c
 https://www.rowetel.com/?p=7837

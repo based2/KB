@@ -41,4 +41,9 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 
 # Tutorials
 
-https://www.jmdoudoux.fr/java/dej/chap-jpa.htm 
+https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
+
+
+# News
+https://thorben-janssen.com/spring-data-jpa-state-detection/
+https://in.relation.to/2021/09/14/ready-for-jdk17/

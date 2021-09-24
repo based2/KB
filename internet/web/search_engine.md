@@ -59,6 +59,7 @@ https://github.com/benbusby/whoogle-search
 * https://news.ycombinator.com/item?id=28326180
 
 # News
+https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html
 https://ccc.inaoep.mx/~villasen/bib/AN%20OVERVIEW%20OF%20EVALUATION%20METHODS%20IN%20TREC%20AD%20HOC%20IR%20AND%20TREC%20QA.pdf
 https://aquila.network/
 * https://news.ycombinator.com/item?id=28582967

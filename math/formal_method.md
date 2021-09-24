@@ -44,6 +44,7 @@ https://github.com/stateright/stateright
 http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties
 
 # News
+https://leanprover.github.io/logic_and_proof/
 https://engineering.fb.com/2021/08/04/open-source/winterfell/
 https://github.com/uwu-tech/kind
 * https://news.ycombinator.com/item?id=28141365

@@ -15,3 +15,6 @@ https://github.com/leahneukirchen/hrmpf
 
 https://github.com/tasket/wyng-backup
 * https://news.ycombinator.com/item?id=28537761
+
+https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live
+* https://news.ycombinator.com/item?id=28592881

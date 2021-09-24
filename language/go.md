@@ -61,6 +61,8 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust
+* https://news.ycombinator.com/item?id=28608083
 https://github.com/golang/go/discussions/48287 how to update APIs for generics
 * https://news.ycombinator.com/item?id=28545757
 https://ssceng.codes/ UI

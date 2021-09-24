@@ -166,6 +166,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://voice2json.org/
+https://news.ycombinator.com/item?id=28644525 GNU coreutils 9 is released
+https://www.openssl.org/blog/blog/2021/09/07/OpenSSL3.Final/
 https://cinepaint.bigasterisk.com/TheHistoryOfCinePaint/
 * https://news.ycombinator.com/item?id=28578323
 https://www.gimp.org/news/2021/09/18/gimp-2-10-28-released/

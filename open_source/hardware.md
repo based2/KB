@@ -30,6 +30,9 @@ https://fires.im/
 https://github.com/sylefeb/Silice
 * https://news.ycombinator.com/item?id=27589298
 
+https://antmicro.com/blog/2021/07/zephyr-fpga-controller/
+* https://news.ycombinator.com/item?id=28603301
+
 # ASIC
 https://github.com/olofk/fusesoc
 
@@ -85,5 +88,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://github.com/gregtinkers/carspeed.py
+* 
+https://the-analog-thing.org/
+* https://news.ycombinator.com/item?id=28614840
 https://blog.adafruit.com/2021/07/07/arduino-pro-hardware-is-not-open-source-hardware/
 * https://news.ycombinator.com/item?id=27766066

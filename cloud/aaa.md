@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://github.com/cloudflare/miniflare test
+* https://news.ycombinator.com/item?id=28640618
 https://blog.cloudflare.com/announcing-cloudflare-images/
 * https://news.ycombinator.com/item?id=28562917
 https://codeascraft.com/2020/04/23/cloud-jewels-estimating-kwh-in-the-cloud/

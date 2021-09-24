@@ -74,6 +74,7 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 * https://news.ycombinator.com/item?id=27872243
 
 # News
+https://news.ycombinator.com/item?id=28626958
 https://www.sueddeutsche.de/wirtschaft/internet-satellitengestuetztes-internet-internetkommunikation-china-liechtenstein-1.5414747
 https://www.reuters.com/article/tech-deutsche-telekom-int-idUSKBN2740PX
 https://www.magmacore.org/

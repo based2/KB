@@ -20,6 +20,8 @@ https://central.sonatype.org/news/20210510_new-security-capabilities/
 
 https://blogs.oracle.com/javamagazine/how-to-write-your-own-maven-plugins
 
+https://ppolivka.com/posts/debugging-maven-tests-in-intellij
+
 ## Public repositories
 https://search.maven.org/classic/#
 

@@ -11,6 +11,9 @@ https://www.nasa.gov/feature/nasa-awards-500000-in-break-the-ice-lunar-challenge
 
 https://www.science.org/content/article/new-fleet-moon-landers-will-set-sail-next-year-backed-private-companies
 
+https://masten.aero/blog/mitigating-lunar-dust-masten-completes-fast-landing-pad-study/
+* https://news.ycombinator.com/item?id=28617810
+
 # History
 https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html
 * https://news.ycombinator.com/item?id=28260568

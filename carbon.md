@@ -46,6 +46,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.eurekalert.org/news-releases/929369
+https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html
+* https://news.ycombinator.com/item?id=28644658
+https://www.bbc.com/news/science-environment-58494641
+* https://news.ycombinator.com/item?id=28616941
 https://pubs.acs.org/doi/10.1021/acsami.1c02368 Ultrawhite BaSO4 Paints and Films for Remarkable Daytime Subambient Radiative Cooling
 * https://news.ycombinator.com/item?id=28575410
 https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain

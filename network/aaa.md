@@ -89,6 +89,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+http://www.pocketnix.org/posts/Linux%20Networking:%20MAC%20VLANs%20and%20Virtual%20Ethernets
+* https://news.ycombinator.com/item?id=28591574
 https://people.freebsd.org/~gallatin/talks/euro2021.pdf Serving Netflix Video at 400Gb/s
 * https://news.ycombinator.com/item?id=28584738
 https://github.com/garywill/linux-router

@@ -78,6 +78,8 @@ https://github.com/haileys/doslinux
 * https://news.ycombinator.com/item?id=28572681
 
 # News
+https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448
+* https://news.ycombinator.com/item?id=28639952
 https://docs.microsoft.com/en-us/lifecycle/products/windows-server-2022
 https://www.theregister.com/2021/07/26/windows_11_comes_bearing_thaas/
 * https://news.ycombinator.com/item?id=27957724

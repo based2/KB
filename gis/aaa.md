@@ -57,6 +57,8 @@ http://app.dumpark.com/sunlight/learn.html
 https://www.trekview.org/blog/2021/getting-started-with-kartaview/
 *
 
+https://www.mapsforeurope.org/
+
 ## Space
 https://mars26.com/
 * https://news.ycombinator.com/item?id=26965583
@@ -95,6 +97,9 @@ https://www.openrailwaymap.org/
 
 https://submarine-cable-map-2021.telegeography.com/
 * https://news.ycombinator.com/item?id=27410133
+
+https://globe.gl/example/submarine-cables/
+* https://news.ycombinator.com/item?id=28641463
 
 https://anvaka.github.io/city-roads/
 

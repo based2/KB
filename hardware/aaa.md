@@ -28,6 +28,10 @@ https://www.cnx-software.com/2021/09/07/intel-nuc-p14e-laptop-element-features-i
 # Keyboard
 https://github.com/aru-py/programmer-colemak
 
+# LED
+https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
+* https://news.ycombinator.com/item?id=28615184
+
 # Fake
 https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 * https://news.ycombinator.com/item?id=27507723

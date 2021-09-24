@@ -28,5 +28,7 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://ubports.com/en/blog/ubports-blogs-et-nouvelles-1/post/ubuntu-touch-ota-19-release-3779
+* https://news.ycombinator.com/item?id=28614361
 https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/
 * https://news.ycombinator.com/item?id=28296738

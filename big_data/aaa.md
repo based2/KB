@@ -165,6 +165,9 @@ https://news.ycombinator.com/item?id=28304781
 https://github.com/chartbrew/chartbrew
 * https://news.ycombinator.com/item?id=28379738
 
+https://benn.substack.com/p/is-bi-dead
+* https://news.ycombinator.com/item?id=28580298
+
 # CI
 https://hypervector.io/
 

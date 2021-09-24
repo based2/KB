@@ -45,3 +45,6 @@ https://www.datagubbe.se/bestofbash/
 
 https://podcast.curiefense.io/22 Thoughts on Bash Becoming Interplanetary and More with Brian J. Fox
 * https://news.ycombinator.com/item?id=28393556
+
+https://arstechnica.com/gadgets/2021/09/command-line-wizardry-part-two-variables-and-loops-in-bash/
+* https://news.ycombinator.com/item?id=28603947

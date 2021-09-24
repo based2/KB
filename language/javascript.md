@@ -243,6 +243,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://7guis.bradwoods.io/
+* https://news.ycombinator.com/item?id=28600804
+https://notes.eatonphil.com/javascript-implementations.html
+* https://news.ycombinator.com/item?id=28613673
 https://javascript.info/currying-partials
 * https://news.ycombinator.com/item?id=28583069
 https://openkraken.com/en-US High-performance web rendering engine, built on Flutter

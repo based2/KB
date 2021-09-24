@@ -37,6 +37,7 @@ https://eng.snap.com/quic-at-snap QUIC
 * https://news.ycombinator.com/item?id=27626394
 
 # News
+https://design-tokens.github.io/community-group/format/
 https://ledger.humanetech.com/
 * https://news.ycombinator.com/item?id=28549009
 https://www.halcyonmaps.com/map-of-the-internet-2021

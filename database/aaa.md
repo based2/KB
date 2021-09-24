@@ -54,6 +54,8 @@ https://blog.acolyer.org/2020/12/14/entity-resolution/
 * https://news.ycombinator.com/item?id=28127650
 
 # News
+https://danluu.com/anon-benchmark/
+* https://news.ycombinator.com/item?id=28599349
 https://news.ycombinator.com/item?id=28314623
 https://scattered-thoughts.net/writing/implicit-ordering-in-relational-languages/
 https://github.com/jepsen-io/elle

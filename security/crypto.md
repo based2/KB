@@ -76,6 +76,7 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.sigidwiki.com/wiki/Japanese_Slot_Machine_(XSL)
 https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.0.0
 * https://news.ycombinator.com/item?id=27959029
 https://www.bunniestudios.com/blog/?p=6140 Building a Curve25519 Hardware Accelerator

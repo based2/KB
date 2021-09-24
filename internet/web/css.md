@@ -40,6 +40,8 @@ https://daisyui.com/
 https://flowbite.com/docs/getting-started/introduction/
 * https://news.ycombinator.com/item?id=28561468
 
+https://www.thomasdhondt.be/blog/i-changed-my-mind-about-tailwind-css
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 * https://news.ycombinator.com/item?id=9670916
@@ -153,6 +155,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://javascript.plainenglish.io/improve-rendering-performance-with-the-new-css-content-visibility-property-7e0c9b425b58
+* https://www.reddit.com/r/programming/comments/ptvcqk/improve_rendering_performance_with_the_new_css/
 https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/
 https://mui.com/blog/mui-core-v5/
 * https://news.ycombinator.com/item?id=28553274

@@ -19,5 +19,7 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 # Dmoz
 
 #
+https://www.manyver.se/
+* https://news.ycombinator.com/item?id=28607995
 http://ilpubs.stanford.edu:8090/763/1/2004-10.pdf
 * https://news.ycombinator.com/item?id=28530639
