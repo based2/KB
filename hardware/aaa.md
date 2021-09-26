@@ -36,6 +36,9 @@ https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 * https://news.ycombinator.com/item?id=27507723
 
+# History
+https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
+
 # News
 https://turingpi.com/turing-pi-v2-is-here/
 * https://news.ycombinator.com/item?id=28299204

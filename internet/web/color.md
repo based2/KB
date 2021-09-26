@@ -59,5 +59,11 @@ https://www.wired.com/story/how-pixar-uses-hyper-colors-to-hack-your-brain/
 https://openrgb.org/ RGB lighting control that doesn't depend on manufacturer software
 * https://news.ycombinator.com/item?id=27457696
 
+https://davidnaylor.org/blog/2005/02/all-16777216-rgb-colours/
+* https://news.ycombinator.com/item?id=28654437
+
+https://www.handprint.com/HP/WCL/color2.html
+* https://news.ycombinator.com/item?id=28627333
+
 
 

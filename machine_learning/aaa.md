@@ -230,6 +230,12 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://www.bbc.com/news/technology-58668534 AI cannot be the inventor of a patent, appeals court rules
+* https://news.ycombinator.com/item?id=28640111
+https://github.com/eyadgaran/SimpleML
+* https://news.ycombinator.com/item?id=28654874
+https://predictionlaboratory.com/
+* https://news.ycombinator.com/item?id=28653400
 https://arxiv.org/abs/2109.10317 Introduction to Neural Network Verification
 * https://news.ycombinator.com/item?id=28626334
 https://veekaybee.github.io/2021/09/23/enlightenment/

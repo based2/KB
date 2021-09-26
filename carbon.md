@@ -46,6 +46,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.newyorker.com/news/annals-of-a-warming-planet/the-promise-of-carbon-neutral-steel
+* https://news.ycombinator.com/item?id=28658702
 https://www.eurekalert.org/news-releases/929369
 https://www.uc.edu/news/articles/2021/09/uc-reactor-converts-carbon-dioxide-to-fuel-to-address-climate-change.html
 * https://news.ycombinator.com/item?id=28644658

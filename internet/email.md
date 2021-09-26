@@ -83,6 +83,8 @@ https://spamassassin.apache.org/
 https://www.semanticscholar.org/paper/Spamalot%3A-A-Toolkit-for-Consuming-Spammers%27-Nelson-Dallmeyer/97b8c4e291835ca3d11e0e6d924dc436ea31a4c7?p2df
 
 # News
+https://grommunio.com/ Open source Exchange replacement
+* https://news.ycombinator.com/item?id=28650755
 https://modoboa.org/en/
 * https://news.ycombinator.com/item?id=28583099
 https://medium.com/schibsted-engineering/building-a-serverless-email-delivery-service-on-aws-9269f55533a0

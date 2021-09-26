@@ -78,8 +78,8 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
-https://ppolivka.com/posts/debugging-maven-tests-in-intellij
-* https://news.ycombinator.com/item?id=28630209
+https://whamtet.github.io/ctmx/ https://htmx.org/
+https://tonsky.me/blog/the-web-after-tomorrow/
 https://github.com/FieryCod/holy-lambda
 https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983
 * https://lobste.rs/s/872ohv/6_years_professional_clojure

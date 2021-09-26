@@ -18,3 +18,6 @@ https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-fo
 
 https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says-it-would-lock-in-fossil-fuel-dependence/
 * https://news.ycombinator.com/item?id=28264714
+
+https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production-scale.html
+* https://news.ycombinator.com/item?id=28640247

@@ -20,6 +20,7 @@ https://www.impots.gouv.fr/portail/formulaire/3916/declaration-par-un-resident-d
 ref: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fiscaux-des-cryptomonnaies
 
 # News
+https://www.reddit.com/r/Monero/comments/puqvyr/chinese_central_bank_calls_all_crypto/
 https://www.theblockcrypto.com/post/115804/ontario-securities-regulator-bars-the-countrys-first-registered-crypto-platforms-from-trading-tether
 https://eprint.iacr.org/2019/1096.pdf Proof-of-Burn
 https://liuliu.me/eyes/the-endgame-for-cryptocurrency/

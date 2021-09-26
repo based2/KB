@@ -37,6 +37,10 @@ https://eng.snap.com/quic-at-snap QUIC
 * https://news.ycombinator.com/item?id=27626394
 
 # News
+https://drewdevault.com/2021/09/23/Nitter-and-other-internet-reclamation-projects.html
+* https://news.ycombinator.com/item?id=28660261
+https://pluralistic.net/2021/09/24/comcom-acm/
+* https://news.ycombinator.com/item?id=28651665
 https://design-tokens.github.io/community-group/format/
 https://ledger.humanetech.com/
 * https://news.ycombinator.com/item?id=28549009

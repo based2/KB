@@ -64,6 +64,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://writings.stephenwolfram.com/2021/09/charting-a-course-for-complexity-metamodeling-ruliology-and-more/
+* https://news.ycombinator.com/item?id=28638743
 https://www.rskey.org/~mwsebastian/miscprj/forensics.htm Calculator Forensics
 * https://news.ycombinator.com/item?id=28561298
 https://www.chebfun.org/

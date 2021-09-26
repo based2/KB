@@ -156,6 +156,8 @@ https://janet-lang.org/
 *
 
 # News
+https://loda-lang.org/ Assembly language, a computational model and a tool for mining integer sequences.
+* https://news.ycombinator.com/item?id=28639932
 https://github.com/pen-lang/pen
 * https://news.ycombinator.com/item?id=28590209
 https://docs.oracle.com/en/java/javase/17/docs/api/new-list.html

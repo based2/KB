@@ -73,6 +73,11 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/
+https://github.com/aristocratos/btop
+* https://news.ycombinator.com/item?id=28634898
+https://darkshadow.io/2020/08/01/speech-synthesis-on-linux.html
+* https://news.ycombinator.com/item?id=28651588
 https://cenains.blog/2021/08/31/sudo-in-system/
 * https://news.ycombinator.com/item?id=28594057
 https://マリウス.com/linux-on-the-desktop-part-two/

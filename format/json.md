@@ -67,6 +67,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 
 http://argonaut.io/doc/quickstart/ scala
 
+# News
+https://lemire.me/blog/2021/09/25/new-release-of-the-simdjson-library-version-1-0/
+
 
 
 

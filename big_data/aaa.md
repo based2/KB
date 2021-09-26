@@ -83,6 +83,8 @@ https://github.com/jtpio/jupyterlite JupyterLite – WASM-powered Jupyter runnin
 https://voila.readthedocs.io/en/stable/
 * https://news.ycombinator.com/item?id=28364923
 
+https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 * https://news.ycombinator.com/item?id=27145515

@@ -204,6 +204,7 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/casid/jte/releases/tag/1.12.0
 https://jetbrains.developpez.com/tutoriel/top-dix-plugins-intellij-idea/#LI
 https://cr.openjdk.java.net/~jrose/jls/FunnyStatic.java
 * https://www.reddit.com/r/java/comments/ps3m2i/as_of_java_16_the_language_allows_statics_inside/

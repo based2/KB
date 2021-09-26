@@ -46,4 +46,6 @@ https://airbus-seclab.github.io/c-compiler-security/
 https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
 
 https://i.hsfzxjy.site/2021-09-16-unravelling-mocona-verbosity-or-anti-pattern/
-* 
+
+
+https://github.com/xoreaxeaxeax/movfuscator

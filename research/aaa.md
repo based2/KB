@@ -34,6 +34,8 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://3quarksdaily.com/3quarksdaily/2021/09/the-grandfather-of-modern-self-help.html
+* https://news.ycombinator.com/item?id=28650646
 https://www.nature.com/articles/d41586-021-02211-4
 * https://news.ycombinator.com/item?id=28211445
 https://shkspr.mobi/blog/2021/06/where-is-the-original-overview-of-shard-paper/

@@ -40,6 +40,8 @@ https://zkp.science/
 * https://news.ycombinator.com/item?id=27573910
 
 # News
+https://github.com/paritytech/finality-grandpa GRANDPA, GHOST-based Recursive ANcestor Deriving Prefix Agreement
+http://pmg.csail.mit.edu/papers/osdi99.pdf Practical Byzantine Fault Tolerance 1999
 https://github.com/MinaProtocol/mina ocaml
 * https://news.ycombinator.com/item?id=28573083
 https://paulstamatiou.com/how-i-made-50k-in-3-days-with-nfts/

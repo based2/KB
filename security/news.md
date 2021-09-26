@@ -1,10 +1,17 @@
+https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-018/ Confluence
+
+https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-vmware-vcenter-cve-2021-22005-bug/
+
+https://arstechnica.com/information-technology/2021/09/exchange-outlook-autodiscover-bug-exposed-100000-email-passwords/
+
 https://threatpost.com/100m-iot-devices-zero-day-bug/174963/ nanomq
 
 https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server
 * https://news.ycombinator.com/item?id=28645266
 
-https://habr.com/en/post/579714/
+https://habr.com/en/post/579714/ iOS
 * https://news.ycombinator.com/item?id=28637276
+* https://support.apple.com/en-us/HT212601
 
 https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html
 

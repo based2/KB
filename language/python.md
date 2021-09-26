@@ -167,6 +167,7 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://alex-monahan.github.io/2021/08/22/Python_and_SQL_Better_Together.html
 https://github.com/pyccel/pyccel parallel
 https://benhoyt.com/writings/python-pattern-matching/
 * https://news.ycombinator.com/item?id=28600594

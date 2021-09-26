@@ -34,6 +34,8 @@ https://stackfull.dev/http-refresher-things-you-should-know-about-http
 https://blog.cloudflare.com/early-hints/
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Link
 
+https://lists.gnu.org/archive/html/info-gnu/2021-09/msg00011.html
+
 # Server
 ## Apache HTTPD
 https://httpd.apache.org/
@@ -42,6 +44,8 @@ https://httpd.apache.org/
 https://www.nginx.com/pricing/
 
 https://alex.dzyoba.com/blog/nginx-features-for-operators/
+
+https://cr.yp.to/publicfile.html
 
 # Security
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015

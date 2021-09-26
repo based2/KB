@@ -156,6 +156,8 @@ https://www.musicforprogramming.net/
 
 
 # News
+https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/
+* https://news.ycombinator.com/item?id=28636536
 https://github.com/stebunovd/blog/blob/master/contents/Is-your-manager-a-router-or-moderator.md
 * https://news.ycombinator.com/item?id=28541396
 https://jpreston.xyz/woprs-organization-model.html

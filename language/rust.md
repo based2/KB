@@ -268,6 +268,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://www.youtube.com/watch?v=I3RXottNwk0 Explaining Rust Analyzer: 01 Repository Overview
+https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+* https://news.ycombinator.com/item?id=28660915
 https://dev.to/senyeezus/designing-state-machines-in-rust-252k
 https://smallcultfollowing.com/babysteps//blog/2021/09/16/rustacean-principles-continued/
 https://blog.kraken.com/post/7964/oxidizing-kraken-improving-kraken-infrastructure-using-rust/

@@ -17,6 +17,9 @@ https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/mat
 https://boyter.org/posts/bloom-filter/
 * https://news.ycombinator.com/item?id=28113100
 
+https://lobste.rs/s/gqpcw0/bloom_filter_rules_thumb
+* https://llimllib.github.io/bloomfilter-tutorial/
+
 https://ordep.dev/posts/my-favorite-papers
 
 https://alexgolec.dev/reddit-interview-problems-the-game-of-life/

@@ -34,3 +34,6 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 # Test
 https://github.com/awaitility/awaitility
 
+# News
+https://github.com/preslavmihaylov/booknotes/tree/master/java/programming-concurrency-jvm
+

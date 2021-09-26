@@ -12,6 +12,9 @@ https://explained.ai/decision-tree-viz/index.html
 https://www.zverovich.net/2021/06/16/safe-formatting-api.html
 * https://news.ycombinator.com/item?id=27536447
 
+https://mewo2.com/notes/markov-history/
+* https://news.ycombinator.com/item?id=28658297
+
 # Search
 ## Boyer-Moore Fast String Searching Algorithm
 https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/

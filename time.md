@@ -32,6 +32,9 @@ https://timeenna.com/
 https://blog.scottlogic.com/2021/09/14/120-years-timezone.html
 * https://news.ycombinator.com/item?id=28537438
 
+https://blog.joda.org/2021/09/big-problems-at-timezone-database.html
+* https://www.reddit.com/r/java/comments/puwe13/big_problems_at_the_timezone_database/
+
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 

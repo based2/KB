@@ -9,5 +9,7 @@ https://github.com/dothq/browser
 * https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.reuters.com/technology/google-ceo-sought-keep-incognito-mode-issues-out-spotlight-lawsuit-alleges-2021-09-24/
+* https://news.ycombinator.com/item?id=28653441
 https://news.ycombinator.com/item?id=27145911
 * https://news.ycombinator.com/item?id=27145911
