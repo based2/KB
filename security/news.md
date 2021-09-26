@@ -11,7 +11,7 @@ https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-i
 
 https://habr.com/en/post/579714/ iOS
 * https://news.ycombinator.com/item?id=28637276
-* https://support.apple.com/en-us/HT212601
+* https://support.apple.com/en-us/HT212807 https://support.apple.com/en-us/HT212601
 
 https://watchfulip.github.io/2021/09/18/Hikvision-IP-Camera-Unauthenticated-RCE.html
 
