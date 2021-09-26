@@ -74,6 +74,7 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 * https://news.ycombinator.com/item?id=27872243
 
 # News
+https://www.zdnet.com/article/5g-isnt-quite-there-and-mixcomm-believes-it-has-the-millimeter-wave-fix/
 https://www.theverge.com/2021/9/23/22689903/facebook-fiber-network-broadband-access-gigabeam-appalachia-virginia
 https://news.ycombinator.com/item?id=28626958
 https://www.sueddeutsche.de/wirtschaft/internet-satellitengestuetztes-internet-internetkommunikation-china-liechtenstein-1.5414747

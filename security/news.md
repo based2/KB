@@ -1,3 +1,7 @@
+https://docs.google.com/spreadsheets/d/1oytKuD7UCX6nDXWQMr6ZgYYgap_SH_JVBof5gNrgSxo/edit#gid=0 OSTIF Managed Audit Program (MAP25) List - Public
+
+https://www.darpa.mil/news-events/2021-09-22 Disrupting Exploitable Patterns in Software to Make Systems Safer
+
 https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-018/ Confluence
 
 https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-vmware-vcenter-cve-2021-22005-bug/

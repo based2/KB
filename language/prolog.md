@@ -6,3 +6,6 @@ https://drops.dagstuhl.de/opus/volltexte/2018/8453/
 
 http://dstrohmaier.com/sudoku-prolog/
 * https://news.ycombinator.com/item?id=27886733
+
+https://github.com/aarroyoc/postgresql-prolog
+* https://news.ycombinator.com/item?id=28660202

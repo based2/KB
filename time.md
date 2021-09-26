@@ -9,9 +9,10 @@ Timekeeping infrastructure for the Catalina Sky Survey
 
 https://gunkies.org/wiki/SITS
 
-
 https://www.prc68.com/I/timefreq.shtml
 * https://news.ycombinator.com/item?id=28467927
+
+https://www.brendangregg.com/blog/2021-09-26/the-speed-of-time.html
 
 # Timestamp
 https://changelog.com/posts/you-might-as-well-timestamp-it

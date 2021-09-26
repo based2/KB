@@ -94,6 +94,7 @@ https://stuvel.eu/articles/spherical-panoramas/
 
 
 # News
+https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518
 https://jaredgorski.org/writing/14-practical-frontend-architecture/
 * https://news.ycombinator.com/item?id=28590879
 https://neverworkintheory.org/2021/09/16/exception-handling-practices-and-post-release-defects.html

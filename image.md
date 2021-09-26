@@ -13,3 +13,7 @@ https://resizer.in/
 #
 https://www.remove.bg
 
+
+
+https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319
+

@@ -29,6 +29,7 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://github.com/zbarbuto/tremor Quite often when you're working/programming/gaming you want to quickly google something.
 https://discourse.mozilla.org/t/can-anyone-release-extensions-right-now-to-me-it-looks-like-addons-mozilla-org-is-critically-broken/84830
 * https://news.ycombinator.com/item?id=28653547
 https://web.dev/speculative-prerendering/

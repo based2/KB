@@ -63,6 +63,8 @@ https://jwiegley.github.io/git-from-the-bottom-up/
 * https://news.ycombinator.com/item?id=26884318
 
 # Branch Flows
+https://thinkfoo.wordpress.com/2016/04/17/how-branching-affects-team-culture-talk-at-pipeline-conf-2016/
+
 ## Ship / Show / Ask
 https://martinfowler.com/articles/ship-show-ask.html
 * https://news.ycombinator.com/item?id=28457071
@@ -204,6 +206,7 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://about.gitlab.com/releases/2021/09/22/gitlab-14-3-released/
 https://www.jelmer.uk/janitor-webhooks.html
 https://itoshkov.github.io/git-tutorial
 * https://news.ycombinator.com/item?id=28549652

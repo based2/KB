@@ -68,6 +68,7 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://fabianmurariu.github.io/posts/scala3-typeclassery-graphs/
 https://blog.buildo.io/persistence-layers-31ff66546ca9
 * https://tpolecat.github.io/doobie/
 https://github.com/melvic-ybanez/esena A ray tracer

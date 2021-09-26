@@ -89,6 +89,7 @@ https://mosh.org/
 * https://news.ycombinator.com/item?id=28150287
 
 # News
+https://www.openssh.com/releasenotes.html
 https://encryp.ch/blog/cloudflare-abuses-22-tcp/
 * https://news.ycombinator.com/item?id=28651598
 https://github.com/google/hiba

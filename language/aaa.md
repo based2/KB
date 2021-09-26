@@ -156,6 +156,9 @@ https://janet-lang.org/
 *
 
 # News
+https://github.com/apple/swift/tree/main/lib/Syntax
+* https://news.ycombinator.com/item?id=28660814
+https://people.idsia.ch/~juergen/scientific-integrity-turing-award-deep-learning.html
 https://loda-lang.org/ Assembly language, a computational model and a tool for mining integer sequences.
 * https://news.ycombinator.com/item?id=28639932
 https://github.com/pen-lang/pen

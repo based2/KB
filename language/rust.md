@@ -7,6 +7,8 @@ https://blog.mgattozzi.dev/rusts-runtime/
 https://rust-lang-nursery.github.io/rust-cookbook/intro.html
   * https://news.ycombinator.com/item?id=26101066
 
+https://blog.frankel.ch/start-rust/9/
+
 https://rust-unofficial.github.io/patterns/
 https://news.ycombinator.com/item?id=25620110
 https://users.rust-lang.org/t/exploring-rustffts-simd-architecture/53780

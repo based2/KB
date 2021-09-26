@@ -15,3 +15,5 @@ https://en.wikipedia.org/wiki/Johannes_Kepler#Prague_(1600%E2%80%931612)
 
 https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 * https://news.ycombinator.com/item?id=28531714
+
+https://mashable.com/article/mars-nasa-earthquakes

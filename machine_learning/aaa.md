@@ -230,6 +230,8 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://github.com/janezlapajne/sklearn-project-template
+* https://news.ycombinator.com/item?id=28663825
 https://www.bbc.com/news/technology-58668534 AI cannot be the inventor of a patent, appeals court rules
 * https://news.ycombinator.com/item?id=28640111
 https://github.com/eyadgaran/SimpleML

@@ -79,6 +79,8 @@ https://www.scalablepath.com/blog/software-project-estimation/
 https://estinator.dk/
 * https://news.ycombinator.com/item?id=28104934
 
+https://news.ycombinator.com/item?id=28662856 How do you do estimates in 2021?
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

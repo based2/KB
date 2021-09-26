@@ -1,2 +1,0 @@
-https://itnext.io/how-to-create-a-configsource-for-quarkus-that-knows-about-existing-properties-1d6e95e7385e
-https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
