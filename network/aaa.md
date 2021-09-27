@@ -89,6 +89,10 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://twitter.com/outoutxyz/status/1404411770534572032
+* https://news.ycombinator.com/item?id=28667935
+https://blog.benjojo.co.uk/post/dell-switch-hacking
+* https://news.ycombinator.com/item?id=28670948
 https://www.theregister.com/2021/09/23/verified_networks/
 * https://github.com/batfish/batfish
 http://www.horatiulazu.ca/blog/coop/2020/05/02/rt-calling.html rtc

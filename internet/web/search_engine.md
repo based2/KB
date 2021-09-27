@@ -59,6 +59,14 @@ https://github.com/benbusby/whoogle-search
 * https://news.ycombinator.com/item?id=28326180
 
 # News
+https://boyter.org/posts/abusing-aws-to-make-a-search-engine/
+* https://news.ycombinator.com/item?id=28665395
+https://opensearch.org/blog/releases/2021/09/data-prepper-roadmap/
+https://www.pinecone.io/learn/vector-search-filtering/
+* https://news.ycombinator.com/item?id=28669098
+https://solr.apache.org/news.html#apache-solrtm-890-available
+https://gist.github.com/radiantly/e1c7319214c77fa007f323fc56cd0239 Prevent Google from mangling links on the search results when clicking or copying on Firefox
+* https://news.ycombinator.com/item?id=28672625
 https://engineeringblog.yelp.com/2021/09/nrtsearch-yelps-fast-scalable-and-cost-effective-search-engine.html
 https://ccc.inaoep.mx/~villasen/bib/AN%20OVERVIEW%20OF%20EVALUATION%20METHODS%20IN%20TREC%20AD%20HOC%20IR%20AND%20TREC%20QA.pdf
 https://aquila.network/

@@ -81,6 +81,9 @@ https://estinator.dk/
 
 https://news.ycombinator.com/item?id=28662856 How do you do estimates in 2021?
 
+https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7niyym Always Multiply Your Estimates by π
+* https://news.ycombinator.com/item?id=28667174
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -158,6 +161,8 @@ https://www.musicforprogramming.net/
 
 
 # News
+https://newsletter.pragmaticengineer.com/p/project-management-in-tech
+* https://news.ycombinator.com/item?id=28669514
 https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/
 * https://news.ycombinator.com/item?id=28636536
 https://github.com/stebunovd/blog/blob/master/contents/Is-your-manager-a-router-or-moderator.md

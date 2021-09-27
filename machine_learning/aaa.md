@@ -230,6 +230,8 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html
+* https://news.ycombinator.com/item?id=28657797
 https://github.com/janezlapajne/sklearn-project-template
 * https://news.ycombinator.com/item?id=28663825
 https://www.bbc.com/news/technology-58668534 AI cannot be the inventor of a patent, appeals court rules

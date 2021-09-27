@@ -1,3 +1,7 @@
+https://www.zerodayinitiative.com/advisories/ZDI-21-1115/ Trend Micro ServerProtect Authentication Bypass Vulnerability
+
+https://msrc-blog.microsoft.com/2020/05/13/solving-uninitialized-stack-memory-on-windows/
+
 https://docs.google.com/spreadsheets/d/1oytKuD7UCX6nDXWQMr6ZgYYgap_SH_JVBof5gNrgSxo/edit#gid=0 OSTIF Managed Audit Program (MAP25) List - Public
 
 https://www.darpa.mil/news-events/2021-09-22 Disrupting Exploitable Patterns in Software to Make Systems Safer
@@ -12,6 +16,7 @@ https://threatpost.com/100m-iot-devices-zero-day-bug/174963/ nanomq
 
 https://portswigger.net/daily-swig/developers-fix-multitude-of-vulnerabilities-in-apache-http-server
 * https://news.ycombinator.com/item?id=28645266
+* https://mail-archives.apache.org/mod_mbox/www-announce/202109.mbox/%3C1631792485.QIFJE0WV%40httpd.apache.org%3E
 
 https://habr.com/en/post/579714/ iOS
 * https://news.ycombinator.com/item?id=28637276

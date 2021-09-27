@@ -21,6 +21,7 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 * https://news.ycombinator.com/item?id=28382585
 
 # News
+https://arstechnica.com/information-technology/2021/09/film-studios-sue-liquidvpn-for-10-million-but-is-it-fair/
 https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-top-role-company-2021-09-23/
 * https://news.ycombinator.com/item?id=28642784
 https://github.com/juanfont/headscale

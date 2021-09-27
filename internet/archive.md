@@ -37,6 +37,9 @@ http://cyber.dabamos.de/88x31/
  * https://www.cameronsworld.net/
 
 # History
+https://balticworlds.com/the-cybernetics-scare-and-the-origins-of-the-internet/
+* https://news.ycombinator.com/item?id=28670427
+
 https://groups.csail.mit.edu/ana/A%20brief%20history%20of%20the%20internet%20-%20p22-leiner.pdf
 * https://news.ycombinator.com/item?id=27719937
 

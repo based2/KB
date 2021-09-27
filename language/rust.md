@@ -270,6 +270,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://noncombatant.org/2021/09/26/improving-software-numbers/
+* https://news.ycombinator.com/item?id=28660778
 https://www.youtube.com/watch?v=I3RXottNwk0 Explaining Rust Analyzer: 01 Repository Overview
 https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 * https://news.ycombinator.com/item?id=28660915

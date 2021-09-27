@@ -36,6 +36,8 @@ https://blog.cloudflare.com/early-hints/
 
 https://lists.gnu.org/archive/html/info-gnu/2021-09/msg00011.html
 
+https://daniel.haxx.se/blog/2021/09/27/common-mistakes-when-using-libcurl/
+
 # Server
 ## Apache HTTPD
 https://httpd.apache.org/

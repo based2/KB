@@ -10,3 +10,6 @@ https://ben11kehoe.medium.com/aws-doesnt-know-who-i-am-here-s-why-that-s-a-probl
 
 https://posts.specterops.io/aws-readonlyaccess-not-even-once-ffbceb9fc908
 * https://www.reddit.com/r/netsec/comments/pcphty/aws_readonlyaccess_not_even_once/
+
+https://github.com/aminohealth/wonk Tool for combining a set of AWS policy files into smaller sets 
+* https://news.ycombinator.com/item?id=28672176

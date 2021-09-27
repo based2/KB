@@ -88,6 +88,7 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.com/theonedev/onedev Jetty Shiro Wicket
 https://news.ycombinator.com/item?id=28615329 How do you handle CI pipeline in front end-back end monorepo
 *
 https://github.com/mattbillenstein/salty

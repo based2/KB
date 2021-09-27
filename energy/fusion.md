@@ -17,3 +17,6 @@ https://spectrum.ieee.org/has-fusion-really-had-its-wright-brothers-moment
 
 https://news.mit.edu/2021/MIT-CFS-major-advance-toward-fusion-energy-0908
 * https://news.ycombinator.com/item?id=28462151
+
+
+https://www.youtube.com/watch?v=JurplDfPi3U

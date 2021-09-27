@@ -74,6 +74,10 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 * https://news.ycombinator.com/item?id=27872243
 
 # News
+https://www.zdnet.com/article/at-t-says-it-has-big-problems-a-t-mobile-salesman-showed-me-how-big/
+* https://news.ycombinator.com/item?id=28665845
+https://www.freethink.com/technology/fastest-internet-speed
+* https://news.ycombinator.com/item?id=28673726
 https://www.zdnet.com/article/5g-isnt-quite-there-and-mixcomm-believes-it-has-the-millimeter-wave-fix/
 https://www.theverge.com/2021/9/23/22689903/facebook-fiber-network-broadband-access-gigabeam-appalachia-virginia
 https://news.ycombinator.com/item?id=28626958

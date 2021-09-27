@@ -11,6 +11,8 @@ https://javaalmanac.io/
 https://download.java.net/java/early_access/jdk17/docs/api/new-list.html
 
 # Servers
+https://jelastic.com/blog/glassfish-payara-clustering-automated/
+
 # Non JEE
 Netty
 

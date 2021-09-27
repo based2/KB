@@ -35,6 +35,9 @@ https://obsproject.com
 https://github.com/obsproject/obs-studio/releases/tag/27.0.0
 * https://news.ycombinator.com/item?id=27360141
 
+https://jellyfin.org/
+* https://news.ycombinator.com/item?id=28664802
+
 https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs
 
 https://kdenlive.org/en/2021/04/kdenlive-21-04-released/

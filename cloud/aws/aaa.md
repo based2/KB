@@ -28,3 +28,6 @@ https://laravel-news.com/aws-mistakes Missed optimization opportunities in EC2
 
 Amazon Redshift Research Project - Auto-Vacuum
 https://www.amazonredshiftresearchproject.org/white_papers/downloads/auto_vacuum.pdf
+
+
+

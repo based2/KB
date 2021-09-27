@@ -13,6 +13,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 * https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.theblockcrypto.com/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction
+* https://news.ycombinator.com/item?id=28672247
 https://eprint.iacr.org/2021/1147 Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts
 https://consensys.net/blog/ethereum-2-0/20039/
 * https://news.ycombinator.com/item?id=28494885

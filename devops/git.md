@@ -105,6 +105,12 @@ https://sethrobertson.github.io/GitBestPractices/
 http://blog.danieljanus.pl/2021/07/01/commit-groups/
 * https://news.ycombinator.com/item?id=27722221
 
+# Commit
+https://www.conventionalcommits.org/en/v1.0.0/
+
+https://gist.github.com/joshbuchea/6f47e86d2510bce28f8e7f42ae84c716 Semantic Commit Messages
+* https://news.ycombinator.com/item?id=28669891
+
 # Cleanup
 https://blog.frankel.ch/git-cleanup/
 

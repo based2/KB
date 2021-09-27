@@ -126,6 +126,9 @@ https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 https://pncnmnp.github.io/blogs/distance-oracles.html
 * https://news.ycombinator.com/item?id=27420155
 
+https://github.com/graphhopper/graphhopper
+* https://news.ycombinator.com/item?id=28665564
+
 # Geohash
 https://mro.name/g/about GPL
 * https://mro.name/g/u154

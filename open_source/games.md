@@ -55,6 +55,7 @@ https://www.openra.net/
 * https://news.ycombinator.com/item?id=28511076
 
 # News
+https://hookrace.net/blog/dos-attacks-against-online-game/
 https://smcameron.github.io/space-nerds-in-space/
 * https://news.ycombinator.com/item?id=28343941
 

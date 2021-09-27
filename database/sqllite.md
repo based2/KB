@@ -61,6 +61,9 @@ https://github.com/jlongster/absurd-sql
   * https://jlongster.com/future-sql-web
     * https://news.ycombinator.com/item?id=28156831 
 
+https://www.sqlite.org/sqlar.html SQLite Archive Files
+* https://news.ycombinator.com/item?id=28668615
+
 # Dataset
 http://2016.padjo.org/tutorials/sqlite-data-starterpacks/
 * https://news.ycombinator.com/item?id=27324669

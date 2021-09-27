@@ -153,9 +153,11 @@ https://gnucobol.sourceforge.io/
 ## LISP
 
 https://janet-lang.org/
-*
 
 # News
+https://github.com/JonathanMEdwards/subtext10/blob/master/doc/language.md
+https://www.leoeditor.com/
+* https://news.ycombinator.com/item?id=28658596
 https://github.com/apple/swift/tree/main/lib/Syntax
 * https://news.ycombinator.com/item?id=28660814
 https://people.idsia.ch/~juergen/scientific-integrity-turing-award-deep-learning.html

@@ -21,3 +21,6 @@ https://brave.com/the-mounting-cost-of-stale-ad-blocking-rules/
 * https://github.com/brave/ad-block/blob/master/lists/default.h
 
 https://webkit.org/blog/11940/pcm-click-fraud-prevention-and-attribution-sent-to-advertiser/
+
+https://www.politicalorphans.com/something-weird-is-happening-on-facebook/
+* https://news.ycombinator.com/item?id=28674115

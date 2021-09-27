@@ -94,6 +94,8 @@ https://stuvel.eu/articles/spherical-panoramas/
 
 
 # News
+https://verraes.net/2021/09/what-is-domain-driven-design-ddd/
+* https://news.ycombinator.com/item?id=28667359
 https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518
 https://jaredgorski.org/writing/14-practical-frontend-architecture/
 * https://news.ycombinator.com/item?id=28590879

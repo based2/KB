@@ -71,6 +71,9 @@ https://bou.ke/blog/formulas/
 
 https://news.ycombinator.com/item?id=28584965
 
+https://github.com/Gnucash/gnucash/releases/tag/4.7
+* https://news.ycombinator.com/item?id=28666104
+
 # News
 https://news.ycombinator.com/item?id=28490521 US Treasury Department to monitor all US bank accounts over $600
 https://www.bbc.com/news/world-57368247 G7: Rich nations back deal to tax multinationals

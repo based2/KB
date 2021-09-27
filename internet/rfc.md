@@ -1,5 +1,7 @@
 https://www.ietf.org/
 
+https://datatracker.ietf.org/doc/html/rfc3 Documentation conventions
+
 https://tools.ietf.org/html/rfc2119
 
 https://www.rfc-editor.org/rfc/rfc8962.html
