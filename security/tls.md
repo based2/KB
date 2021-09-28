@@ -106,6 +106,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://nvd.nist.gov/vuln/detail/CVE-2021-39214 mitmproxy
+https://blog.devgenius.io/rhel-centos-7-fix-for-lets-encrypt-change-8af2de587fe4
+* https://news.ycombinator.com/item?id=28680426
 https://www.kernel.org/doc/html/latest/networking/tls-offload.html
 https://www.smacktls.com/
 https://blog.px.dev/ebpf-openssl-tracing/

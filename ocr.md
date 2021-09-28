@@ -26,3 +26,5 @@ https://openvisionapi.com/
 
 https://huggingface.co/spaces/akhaliq/PaddleOCR
 * https://news.ycombinator.com/item?id=28473496
+
+https://extract-table.com/

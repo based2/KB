@@ -33,6 +33,9 @@ https://github.com/sylefeb/Silice
 https://antmicro.com/blog/2021/07/zephyr-fpga-controller/
 * https://news.ycombinator.com/item?id=28603301
 
+http://www.clifford.at/icestorm/
+* https://news.ycombinator.com/item?id=28679187
+
 # ASIC
 https://github.com/olofk/fusesoc
 

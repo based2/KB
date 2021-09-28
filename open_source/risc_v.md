@@ -32,6 +32,10 @@ https://github.com/lekkit/rvvm
 * https://news.ycombinator.com/item?id=27918744
 
 # News
+https://mail.openjdk.java.net/pipermail/discuss/2021-September/005957.html
+* https://www.reddit.com/r/java/comments/pwfc9w/call_for_discussion_new_project_riscv_port/
+https://microkerneldude.wordpress.com/2021/09/28/where-is-sel4-heading/
+* https://news.ycombinator.com/item?id=28680109
 https://github.com/fwsGonzo/bigassm
 https://www.notebookcheck.net/Computer-scientist-showcases-world-s-first-RISC-V-based-Linux-PC-coupled-with-an-AMD-RX-6700-XT-GPU.552002.0.html
 * 

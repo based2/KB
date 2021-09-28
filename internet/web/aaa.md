@@ -36,6 +36,9 @@ https://github.com/slidevjs/slidev
 https://eng.snap.com/quic-at-snap QUIC
 * https://news.ycombinator.com/item?id=27626394
 
+# Scraper
+https://github.com/speakol-ads/scrapy-x
+
 # News
 https://drewdevault.com/2021/09/23/Nitter-and-other-internet-reclamation-projects.html
 * https://news.ycombinator.com/item?id=28660261

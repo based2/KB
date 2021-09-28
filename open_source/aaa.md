@@ -166,6 +166,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://inkscape.org/release/inkscape-1.1.1/
+* https://news.ycombinator.com/item?id=28681447
 https://twitter.com/jorgebucaran/status/1441713235980275718 colorette -> nanocolors copy
   Fork has violated the license of original by stripping the attribution and history.
   https://github.com/ai/nanocolors/commit/5c742d6558a5a7748ae680df9fc528eaf048f5a0

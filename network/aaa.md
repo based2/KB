@@ -89,6 +89,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://github.com/robertdavidgraham/masscan
+* https://news.ycombinator.com/item?id=28682986
 https://twitter.com/outoutxyz/status/1404411770534572032
 * https://news.ycombinator.com/item?id=28667935
 https://blog.benjojo.co.uk/post/dell-switch-hacking

@@ -230,6 +230,10 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://www.exafunction.com/nlp
+* https://news.ycombinator.com/item?id=28685936
+https://explained.ai/decision-tree-viz/index.html
+* https://news.ycombinator.com/item?id=28680769
 https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html
 * https://news.ycombinator.com/item?id=28657797
 https://github.com/janezlapajne/sklearn-project-template

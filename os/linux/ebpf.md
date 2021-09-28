@@ -46,6 +46,8 @@ https://medium.com/walmartglobaltech/introducing-walmarts-l3af-project-how-do-we
 
 https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 
+https://blog.sigterm.se/posts/a-bonding-exercise/
+
 # News
 https://linuxplumbersconf.org/event/11/contributions/938/ BPF security auditing at Google
 https://linuxplumbersconf.org/event/11/contributions/954/ Use of eBPF in CPU scheduler

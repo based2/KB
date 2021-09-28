@@ -20,6 +20,10 @@ https://blog.acolyer.org/2020/11/30/seeing-is-believing/
 http://justinjaffray.com/query-engines-push-vs.-pull/
 * https://news.ycombinator.com/item?id=27006476
 
+#
+https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/
+* https://news.ycombinator.com/item?id=28678647
+
 # Column
 https://emilyriederer.netlify.app/post/column-name-contracts/
 

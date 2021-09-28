@@ -27,6 +27,8 @@ https://www.reddit.com/r/scala/comments/pr45zg/optimizing_kafka_performance/
 
 https://blogs.apache.org/kafka/entry/what-s-new-in-apache6
 
+https://granulate.io/optimizing-kafka-performance/
+
 ## Book
 https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
 

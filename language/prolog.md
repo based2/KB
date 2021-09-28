@@ -9,3 +9,7 @@ http://dstrohmaier.com/sudoku-prolog/
 
 https://github.com/aarroyoc/postgresql-prolog
 * https://news.ycombinator.com/item?id=28660202
+
+https://dtai.cs.kuleuven.be/CHR/files/Elston_SecuritEase.pdf
+
+https://en.wikipedia.org/wiki/XSB

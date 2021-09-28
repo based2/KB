@@ -11,13 +11,21 @@ https://github.com/hwittenborn/makedeb
 * https://news.ycombinator.com/item?id=27638107
 
 # ArchLinux
+
 https://manjaro.org/
 https://forum.manjaro.org/t/manjaro-21-0-ornara-released/59399
 
 # IBM/Red Hat
 
-# Canonical/Ubuntu
+https://developers.redhat.com/products/rhel/download
+
 https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
+
+https://getfedora.org/
+
+# Canonical/Ubuntu
+
+https://en.wikipedia.org/wiki/Ubuntu
 
 # Oracle Oracle
 

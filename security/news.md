@@ -1,3 +1,21 @@
+https://www.cattius.com/images/rapid-prototyping.pdf
+
+https://securelist.com/finspy-unseen-findings/104322/
+
+https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/
+
+https://habr.com/en/post/580272/
+* 
+
+https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216
+* https://news.ycombinator.com/item?id=28684660
+
+https://eclypsium.com/2021/09/20/everyone-gets-a-rootkit/
+* https://news.ycombinator.com/item?id=28681903
+
+https://research.securitum.com/fail2ban-remote-code-execution/
+* https://news.ycombinator.com/item?id=28679761
+
 https://www.zerodayinitiative.com/advisories/ZDI-21-1115/ Trend Micro ServerProtect Authentication Bypass Vulnerability
 
 https://msrc-blog.microsoft.com/2020/05/13/solving-uninitialized-stack-memory-on-windows/

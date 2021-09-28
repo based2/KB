@@ -62,6 +62,8 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://blog.sinkingpoint.com/posts/elasticsearch-logging/
+* https://news.ycombinator.com/item?id=28679490
 https://github.com/tal-tech/go-stash
 * https://news.ycombinator.com/item?id=28671116
 https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/

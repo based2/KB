@@ -81,6 +81,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 * https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlime.org/
+* https://news.ycombinator.com/item?id=28669703
 https://www.sqlite.org/draft/stricttables.html
 * https://news.ycombinator.com/item?id=28259104
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-0646

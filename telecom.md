@@ -74,6 +74,8 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 * https://news.ycombinator.com/item?id=27872243
 
 # News
+https://www.fcc.gov/BroadbandData/MobileMaps/mobile-map
+* https://news.ycombinator.com/item?id=28686579
 https://www.zdnet.com/article/at-t-says-it-has-big-problems-a-t-mobile-salesman-showed-me-how-big/
 * https://news.ycombinator.com/item?id=28665845
 https://www.freethink.com/technology/fastest-internet-speed

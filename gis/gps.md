@@ -8,3 +8,7 @@ https://barbeau.medium.com/measuring-gnss-accuracy-on-android-devices-6824492a13
 https://berthub.eu/articles/posts/galmon-project/
 
 https://news.ycombinator.com/item?id=28343867
+
+
+https://www.gpsdaily.com/reports/SpaceX_satellite_signals_used_like_GPS_to_pinpoint_location_on_Earth_999.html
+* https://news.ycombinator.com/item?id=28680139

@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://blog.cloudflare.com/introducing-r2-object-storage/
+* https://news.ycombinator.com/item?id=28682237
 https://status.heroku.com/incidents/2361
 * https://news.ycombinator.com/item?id=28667293
 https://github.com/cloudflare/miniflare test

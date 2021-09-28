@@ -35,6 +35,8 @@ https://obsproject.com
 https://github.com/obsproject/obs-studio/releases/tag/27.0.0
 * https://news.ycombinator.com/item?id=27360141
 
+https://github.com/obsproject/obs-studio/releases/tag/27.1.1
+
 https://jellyfin.org/
 * https://news.ycombinator.com/item?id=28664802
 

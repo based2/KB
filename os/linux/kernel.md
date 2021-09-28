@@ -13,6 +13,8 @@ https://lwn.net/Articles/865256/ memfd_secret() in 5.14
 * https://news.ycombinator.com/item?id=28241033
 
 # News
+https://lore.kernel.org/all/20210924213157.3584061-2-david.e.box@linux.intel.com/
+* https://news.ycombinator.com/item?id=28682827
 https://www.phoronix.com/scan.php?page=news_item&px=Facebook-BOLTing-The-Kernel
 * 
 https://www.phoronix.com/scan.php?page=news_item&px=SMB3-File-Server-Security-Fix

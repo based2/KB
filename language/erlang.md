@@ -63,6 +63,8 @@ https://github.com/oestrich/kalevala
 
 https://fly.io/blog/how-we-got-to-liveview/
 
+https://github.com/gleam-lang/gleam
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 * https://news.ycombinator.com/item?id=27629016
