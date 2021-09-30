@@ -126,6 +126,8 @@ https://blog.cloudflare.com/pin-and-unpin-in-rust/
 
 https://blog.yoshuawuyts.com/async-overloading/
 
+https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c81a5f350a3
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 * https://news.ycombinator.com/item?id=28326106
@@ -270,6 +272,10 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/intro.html
+* https://news.ycombinator.com/item?id=28704611
+https://twitter.com/ryan_levick/status/1443202538099073027
+* https://news.ycombinator.com/item?id=28696623
 https://github.com/willcrichton/flowistry
 https://noncombatant.org/2021/09/26/improving-software-numbers/
 * https://news.ycombinator.com/item?id=28660778

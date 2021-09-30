@@ -95,6 +95,12 @@ https://stuvel.eu/articles/spherical-panoramas/
 
 
 # News
+https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing
+* https://news.ycombinator.com/item?id=28691728
+https://netflixtechblog.com/netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae
+* https://news.ycombinator.com/item?id=28679748
+https://rxdb.info/offline-first.html
+* https://news.ycombinator.com/item?id=28690427
 https://verraes.net/2021/09/what-is-domain-driven-design-ddd/
 * https://news.ycombinator.com/item?id=28667359
 https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518

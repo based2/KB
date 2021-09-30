@@ -166,6 +166,11 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.numerama.com/tech/742425-pourquoi-les-administrations-ont-elle-tant-de-mal-a-passer-au-logiciel-libre-a-grande-echelle.html
+https://gratipay.news/your-company-should-probably-pay-2000-per-person-for-open-source-9205443e209d
+* https://news.ycombinator.com/item?id=28691676
+https://www.willmcgugan.com/blog/tech/post/doing-open-source-full-time/
+* https://news.ycombinator.com/item?id=28692417
 https://inkscape.org/release/inkscape-1.1.1/
 * https://news.ycombinator.com/item?id=28681447
 https://twitter.com/jorgebucaran/status/1441713235980275718 colorette -> nanocolors copy

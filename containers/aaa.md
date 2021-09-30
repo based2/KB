@@ -32,6 +32,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://diego-pacheco.blogspot.com/2021/09/podmain-in-linux.html
+* https://news.ycombinator.com/item?id=28687229
 https://github.com/containers/youki#status-of-youki rust
 https://blog.frankel.ch/free-docker-registries/
 https://waydro.id/ android ubuntu

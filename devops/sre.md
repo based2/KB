@@ -29,3 +29,7 @@ https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/
 
 https://principles.green/
 * https://news.ycombinator.com/item?id=28615321
+
+# News
+https://danluu.com/in-house/
+* https://news.ycombinator.com/item?id=28691676

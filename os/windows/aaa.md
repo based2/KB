@@ -77,6 +77,9 @@ https://github.com/microsoft/wslg
 https://github.com/haileys/doslinux
 * https://news.ycombinator.com/item?id=28572681
 
+https://www.phoronix.com/scan.php?page=article&item=windows11-wsl2-good&num=1
+* https://news.ycombinator.com/item?id=28693974
+
 # News
 https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448
 * https://news.ycombinator.com/item?id=28639952

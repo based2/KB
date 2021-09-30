@@ -10,6 +10,9 @@ https://github.com/fikrikarim/companies-with-successful-pivot
 # SEO
 https://news.ycombinator.com/item?id=27315208
 
+https://boringseo.org/
+* https://news.ycombinator.com/item?id=28706570
+
 ## robot.txt
 https://www.robotstxt.org/
 https://news.ycombinator.com/item?id=26807738
@@ -40,6 +43,8 @@ https://eng.snap.com/quic-at-snap QUIC
 https://github.com/speakol-ads/scrapy-x
 
 # News
+https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html
+* https://news.ycombinator.com/item?id=28688232
 https://drewdevault.com/2021/09/23/Nitter-and-other-internet-reclamation-projects.html
 * https://news.ycombinator.com/item?id=28660261
 https://pluralistic.net/2021/09/24/comcom-acm/

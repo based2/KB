@@ -75,6 +75,8 @@ https://github.com/Gnucash/gnucash/releases/tag/4.7
 * https://news.ycombinator.com/item?id=28666104
 
 # News
+https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/dude-where-is-my-stuff/
+* https://news.ycombinator.com/item?id=28687992
 https://news.ycombinator.com/item?id=28490521 US Treasury Department to monitor all US bank accounts over $600
 https://www.bbc.com/news/world-57368247 G7: Rich nations back deal to tax multinationals
 * https://news.ycombinator.com/item?id=27404018

@@ -7,3 +7,5 @@ https://shipilev.net/jvm/objects-inside-out/
 https://blog.frankel.ch/changing-field-type-recent-jdks/
 
 http://web.archive.org/web/20130721224442/http:/passion.forco.de/content/emulating-self-types-using-java-generics-simplify-fluent-api-implementation
+
+https://www.youtube.com/watch?v=Xkh5sa3vjTE&t=206s Sealed class

@@ -1,3 +1,15 @@
+https://blog.mozilla.org/attack-and-defense/2021/09/29/fixing-a-security-bug-by-changing-a-function-signature/
+
+https://github.com/RaRe-Technologies/gensim/issues/3240
+
+https://www.birmingham.ac.uk/news/latest/2021/09/visa-and-apple-pay-vulnerabilities-leaves-iphone-users-open-to-payment-fraud.aspx
+
+https://mariana-tren.ch/ Security-Focused Static Analysis for Android and Java Applications
+* https://news.ycombinator.com/item?id=28697758
+
+https://arstechnica.com/information-technology/2021/09/new-azure-active-directory-password-brute-forcing-flaw-has-no-fix/
+* https://news.ycombinator.com/item?id=28693074
+
 https://www.cattius.com/images/rapid-prototyping.pdf
 
 https://securelist.com/finspy-unseen-findings/104322/
@@ -9,6 +21,8 @@ https://habr.com/en/post/580272/
 
 https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216
 * https://news.ycombinator.com/item?id=28684660
+https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/
+* https://news.ycombinator.com/item?id=28690929
 
 https://eclypsium.com/2021/09/20/everyone-gets-a-rootkit/
 * https://news.ycombinator.com/item?id=28681903

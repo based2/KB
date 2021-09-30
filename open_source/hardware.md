@@ -84,6 +84,9 @@ https://github.com/casspop/ohd OverHeadDoor Garage Door Monitor
 https://piotr.westfalewicz.com/blog/2020/04/the-ultimate-cloud-cat-feeder-overview/
 * https://news.ycombinator.com/item?id=28273082
 
+https://www.omgubuntu.co.uk/2021/09/bangle-js-2-is-a-hackable-open-source-smartwatch-that-runs-javascript
+* https://news.ycombinator.com/item?id=28708462
+
 # Firmware
 https://freshtomato.org/ Broadcom
 * https://news.ycombinator.com/item?id=28520468

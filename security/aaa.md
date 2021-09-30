@@ -47,6 +47,12 @@ https://www.w3.org/TR/did-core/
 Estonian Electronic Identity Card and Its Security Challenges [pdf] :
 https://dspace.ut.ee/bitstream/handle/10062/71481/parsovs_arnis.pdf?sequence=1&isAllowed=y
 
+https://gnunet.org/en/news/2021-05-DISSENS.html
+* https://news.ycombinator.com/item?id=28693163
+
+https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html
+* https://news.ycombinator.com/item?id=28691422
+
 #
 https://suricrasia.online/iceberg/ The Cursed Computer Iceberg Meme
 * https://news.ycombinator.com/item?id=26766722

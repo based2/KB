@@ -161,6 +161,8 @@ https://www.musicforprogramming.net/
 
 
 # News
+https://taskjuggler.org/
+* https://news.ycombinator.com/item?id=28706503
 https://newsletter.pragmaticengineer.com/p/project-management-in-tech
 * https://news.ycombinator.com/item?id=28669514
 https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/

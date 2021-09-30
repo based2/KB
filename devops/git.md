@@ -56,6 +56,10 @@ https://blog.sulami.xyz/posts/cleaning-up-git-history/
 https://www.presslabs.com/docs/code/gitfs/
 * https://news.ycombinator.com/item?id=28263356
 
+# Changelog
+https://github.com/orhun/git-cliff Summary
+* https://news.ycombinator.com/item?id=28423843 
+
 # Books
 https://git-scm.com/book/en/v2
 

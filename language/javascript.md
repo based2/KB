@@ -92,6 +92,12 @@ https://github.com/pmndrs/react-three-fiber
 https://dev.to/wojtekmaj/optimizing-react-app-hardcore-edition-2h1
 
 https://alexsidorenko.com/blog/react-render-always-rerenders/
+
+https://yagmurcetintas.com/journal/whats-new-in-react-18
+* https://news.ycombinator.com/item?id=28696748
+
+https://github.com/bootrino/reactoxide
+* https://news.ycombinator.com/item?id=28702006
    
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
@@ -243,6 +249,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://sia.codes/posts/lighthouse-treemap/
+* 
 https://v8.dev/blog/high-performance-cpp-gc
 http://www.jsfuck.com/
 * https://news.ycombinator.com/item?id=28657292

@@ -19,6 +19,11 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://twitter.com/QuinnyPig/status/1443028078196711426
+* https://news.ycombinator.com/item?id=28702997
+https://stratechery.com/2021/cloudflares-disruption/
+* https://news.ycombinator.com/item?id=28707317
+https://www.protocol.com/enterprise/ibm-lost-public-cloud
 https://blog.cloudflare.com/introducing-r2-object-storage/
 * https://news.ycombinator.com/item?id=28682237
 https://status.heroku.com/incidents/2361

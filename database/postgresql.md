@@ -116,6 +116,9 @@ https://fabianlindfors.se/blog/schema-migrations-in-postgres/
 
 https://www.migops.com/blog/2021/08/27/announcing-pg_dbms_job-in-postgresql-for-oracle-dbms_job-compatibility/
 
+https://news.ycombinator.com/item?id=28707577
+* https://vericred.com/how-we-migrated-a-1tb-database-from-heroku-to-aws-aurora-with-almost-no-downtime/
+
 # Container
 https://www.kubegres.io/
 * https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/
@@ -131,6 +134,8 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 https://github.com/jie123108/imgsmlr-server
 
 # News
+https://www.postgresql.org/about/news/postgresql-14-released-2318/
+* https://news.ycombinator.com/item?id=28705699
 https://pgloader.io/ LISP
 * https://news.ycombinator.com/item?id=28659076
 https://blog.crunchydata.com/blog/postgres-14-its-the-little-things

@@ -230,6 +230,13 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://engineering.mutinyhq.com/generating-personalized-website-headlines-using-gpt-3/
+https://arxiv.org/abs/1904.12320 Real numbers, data science and chaos: How to fit any dataset with a single parameter
+* https://news.ycombinator.com/item?id=28698163
+https://arxiv.org/abs/2106.05426 Low-Dimensional Structure in the Space of Language Representations is Reflected in Brain Responses
+* https://news.ycombinator.com/item?id=28688091
+https://justindomke.wordpress.com/2021/09/28/the-human-regression-ensemble/
+* https://news.ycombinator.com/item?id=28685183
 https://www.exafunction.com/nlp
 * https://news.ycombinator.com/item?id=28685936
 https://explained.ai/decision-tree-viz/index.html

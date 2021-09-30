@@ -55,6 +55,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://www.tigergraph.com/blogs/benchmark/truth-behind-neo4js-trillion-relationship-graph/
+* https://news.ycombinator.com/item?id=28707310
 https://www.nounparse.com/
 https://distill.pub/2021/understanding-gnns/
 https://writings.stephenwolfram.com/2021/09/even-beyond-physics-introducing-multicomputation-as-a-fourth-general-paradigm-for-theoretical-science/

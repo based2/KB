@@ -1,4 +1,7 @@
+https://clojure.org/ LISP
 
+https://vlojure.io/
+* https://twitter.com/ella_hoeppner/status/1439717775904284672
 
 https://github.com/cemerick/clojure-type-selection-flowchart
 

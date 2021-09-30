@@ -58,6 +58,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://tuxphones.com/cadmium-linux-for-chromebooks/
+* https://news.ycombinator.com/item?id=28697238
 https://ubuntu.com/blog/ubuntu-14-04-and-16-04-lifecycle-extended-to-ten-years
 * https://news.ycombinator.com/item?id=28605924
 https://nakedeb.arpinux.org/index-en.html Ultra minimal Debian based derivative distribution with fluxbox/i3wm

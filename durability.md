@@ -29,6 +29,8 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 * https://news.ycombinator.com/item?id=28018057
 
 # News
+https://arstechnica.com/gadgets/2021/09/fairphone-4-has-an-incredible-5-year-warranty-aims-for-6-years-of-updates/
+* https://news.ycombinator.com/item?id=28705196
 https://ec.europa.eu/commission/presscorner/detail/en/ip_21_4613
 https://pedestrianobservations.com/2021/07/23/the-leakage-problem/
 https://anaellebeignon.fr/design-for-obsolete-devices.html

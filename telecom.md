@@ -74,6 +74,12 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 * https://news.ycombinator.com/item?id=27872243
 
 # News
+https://podcast.lagerdata.com/episodes/1-tylermincey-building-the-iphone
+* https://news.ycombinator.com/item?id=28685886
+https://techcrunch.com/2021/09/29/lynk-demos-global-satellite-connection-for-ordinary-phones-and-prepares-for-commercial-launch/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAANnlpQj_rngD6YvsNDrsJrniuwtvbHExnrQ1sCmQon8QxbpMnyLtuX8EnhZOGnYypKrCTyNhvG2XFlLgFLNw56vyrG4vK2rzlLM5CEyjMoT17_09qD8RvFRPqrz107VOQS5UASMEom6NdeALblmo3BGAtl7D7X30yRknF4mM7wlF
+* https://news.ycombinator.com/item?id=28707401
+https://ananki.io/
+* https://news.ycombinator.com/item?id=28673340
 https://www.fcc.gov/BroadbandData/MobileMaps/mobile-map
 * https://news.ycombinator.com/item?id=28686579
 https://www.zdnet.com/article/at-t-says-it-has-big-problems-a-t-mobile-salesman-showed-me-how-big/

@@ -196,6 +196,8 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://github.com/nocodb/nocodb
+* https://www.journalduhacker.net/s/2c4ro0/nocodb_lalternative_open_source
 https://www.moderndatastack.xyz/
 https://datasette.io/
 https://root.cern.ch/

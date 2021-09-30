@@ -35,6 +35,9 @@ https://www.reddit.com/r/java/comments/oz67sy/springdatajpatemporal_a_lightweigh
 
 https://javahippie.net/java/database/jpa/hibernate/2021/09/18/hibernate-oracle-postgres.html
 
+https://medium.com/javarevisited/spring-transactional-mistakes-everyone-did-31418e5a6d6b
+* https://www.reddit.com/r/java/comments/pxwy0k/spring_transactional_mistakes_everyone_did/
+
 # cons
 https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 * https://news.ycombinator.com/item?id=26772550
@@ -45,5 +48,8 @@ https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 
 # News
+https://vladmihalcea.com/eight-years-of-blogging/
+* https://www.reddit.com/r/java/comments/pye6q1/my_8_year_journey_of_blogging_about_java_and_sql/
+* https://vladmihalcea.com/hibernate-multiplebagfetchexception/
 https://thorben-janssen.com/spring-data-jpa-state-detection/
 https://in.relation.to/2021/09/14/ready-for-jdk17/

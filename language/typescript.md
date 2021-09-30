@@ -34,6 +34,9 @@ https://github.com/gvergnaud/ts-pattern
 
 https://www.brandons.me/blog/casual-parsing-javascript
 
+https://github.com/alshdavid/TypeScriptBC
+* https://news.ycombinator.com/item?id=28698168
+
 # Check
 https://www.sonarlint.org/
 https://lift.sonatype.com/

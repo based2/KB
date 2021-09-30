@@ -18,14 +18,13 @@ https://zeminary.com/
 https://signalsandthreads.com/writing-technically/
 * https://news.ycombinator.com/item?id=28382737
 
-
 https://www.erichgrunewald.com/posts/the-american-style-of-quotation-mark-punctuation-makes-no-sense/
 * https://news.ycombinator.com/item?id=28536672
-
 
 https://en.wikipedia.org/wiki/Chiastic_structure
 * https://news.ycombinator.com/item?id=28509859
 
+https://forge.medium.com/how-to-write-10-000-words-a-week-a7c63d97ea79
 
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?

@@ -32,6 +32,8 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://github.com/atomicobject/heatshrink Data compression/decompression library for embedded/real-time systems
+* https://news.ycombinator.com/item?id=28687589
 https://engineering.fb.com/2021/09/13/core-data/superpack/
 * https://www.reddit.com/r/programming/comments/pt4nsp/superpack_pushing_the_limits_of_compression_in/
 https://www.sligocki.com/2021/07/17/bb-collatz.html

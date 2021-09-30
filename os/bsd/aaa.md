@@ -4,6 +4,7 @@ https://www.freshports.org/
 https://www.openbsd.org/69.html
 * https://www.openbsd.org/69.html
 
+https://bsdly.blogspot.com/2021/09/what-every-it-person-needs-to-know.html
 
 https://www.unitedbsd.com/d/438-pkgsrc-security-practices
 

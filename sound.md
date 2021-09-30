@@ -25,3 +25,6 @@ https://engineering.atspotify.com/2021/09/07/introducing-pedalboard-spotifys-aud
 
 https://neal.fun/ambient-chaos/
 * https://news.ycombinator.com/item?id=28566705
+
+https://mynoise.net/noiseMachines.php
+* https://news.ycombinator.com/item?id=28696831

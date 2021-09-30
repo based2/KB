@@ -155,6 +155,11 @@ https://gnucobol.sourceforge.io/
 https://janet-lang.org/
 
 # News
+https://madhadron.com/posts/seven_languages.html
+* https://news.ycombinator.com/item?id=28704495
+https://en.wikipedia.org/wiki/Abstraction_inversion
+https://scattered-thoughts.net/writing/things-unlearned/
+* https://news.ycombinator.com/item?id=28708078
 https://github.com/JonathanMEdwards/subtext10/blob/master/doc/language.md
 https://www.leoeditor.com/
 * https://news.ycombinator.com/item?id=28658596

@@ -167,7 +167,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://github.com/thoppe/NansAreNumbers
+* https://news.ycombinator.com/item?id=28691005
+https://tonybaloney.github.io/posts/extending-python-with-assembly.html
+* https://news.ycombinator.com/item?id=28702670
 https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/
+* https://news.ycombinator.com/item?id=28690560
 https://p403n1x87.github.io/spy-on-python-down-to-the-linux-kernel-level.html
 * https://news.ycombinator.com/item?id=28669256
 https://alex-monahan.github.io/2021/08/22/Python_and_SQL_Better_Together.html

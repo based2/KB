@@ -18,3 +18,5 @@ https://github.com/tasket/wyng-backup
 
 https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live
 * https://news.ycombinator.com/item?id=28592881
+
+https://borgbackup.readthedocs.io/en/stable/#what-is-borgbackup

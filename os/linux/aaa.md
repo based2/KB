@@ -73,6 +73,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.1M-IOPS-Per-Core
+* https://news.ycombinator.com/item?id=28706762
 https://who-t.blogspot.com/2021/09/an-xorg-release-without-xwayland.html
 https://arstechnica.com/gadgets/2021/09/android-to-take-an-upstream-first-development-model-for-the-linux-kernel/
 https://github.com/aristocratos/btop

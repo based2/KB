@@ -59,6 +59,9 @@ https://github.com/mmorak/acme-hooked
 https://letsencrypt.org/2015/06/04/isrg-ca-certs.html
 * https://news.ycombinator.com/item?id=9662338
 
+https://twitter.com/letsencrypt/status/1443621997288767491
+* https://news.ycombinator.com/item?id=28708544
+
 # Other
 https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
 
@@ -106,6 +109,7 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://twitter.com/Scott_Helme/status/1443569171581652993
 https://nvd.nist.gov/vuln/detail/CVE-2021-39214 mitmproxy
 https://blog.devgenius.io/rhel-centos-7-fix-for-lets-encrypt-change-8af2de587fe4
 * https://news.ycombinator.com/item?id=28680426

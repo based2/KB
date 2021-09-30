@@ -81,6 +81,9 @@ https://norvig.com/spell-correct.html
 # Editor
 https://twitter.com/dm_0ney/status/1414742742530498566
 * https://news.ycombinator.com/item?id=27926758
+
+https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization
+* https://news.ycombinator.com/item?id=28692470
   
 #
 http://transcultura.org/?q=node%2F8

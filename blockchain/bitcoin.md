@@ -18,6 +18,8 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://blog.kraken.com/post/11263/kraken-security-labs-identifies-vulnerabilities-in-commonly-used-bitcoin-atm/
+* https://news.ycombinator.com/item?id=28694186
 https://news.ycombinator.com/item?id=28644417
 https://github.com/JohnLaw2/btc-iids/blob/main/iids13.pdf 
 https://www.sciencedirect.com/science/article/abs/pii/S0921344921005103?dgcid

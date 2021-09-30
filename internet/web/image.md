@@ -1,3 +1,6 @@
+https://endtimes.dev/why-you-should-dither-images/
+* https://news.ycombinator.com/item?id=28696014
+
 https://www.industrialempathy.com/posts/image-optimizations/
 
 https://squoosh.app/

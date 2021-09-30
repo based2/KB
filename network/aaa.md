@@ -89,6 +89,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
+https://louwrentius.com/raspberry-pi-as-a-router-using-a-single-network-interface.html
+* https://news.ycombinator.com/item?id=28696845
 https://github.com/robertdavidgraham/masscan
 * https://news.ycombinator.com/item?id=28682986
 https://twitter.com/outoutxyz/status/1404411770534572032

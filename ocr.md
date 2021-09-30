@@ -28,3 +28,7 @@ https://huggingface.co/spaces/akhaliq/PaddleOCR
 * https://news.ycombinator.com/item?id=28473496
 
 https://extract-table.com/
+
+# QR
+https://huonw.github.io/blog/2021/09/qr-error-correction/
+* https://news.ycombinator.com/item?id=28677687

@@ -25,7 +25,11 @@ https://github.com/joehillen/sysz fzf terminal UI for systemctl
 # Cron
 https://crontab.guru/
 
-#
+# Awk
+https://earthly.dev/blog/awk-examples/
+* https://news.ycombinator.com/item?id=28707463
+
+# News
 https://github.com/landley/toybox android
 * https://news.ycombinator.com/item?id=28627433
 https://leancrew.com/all-this/2021/08/checking-it-twice/

@@ -9,7 +9,7 @@ https://www.erlang-solutions.com/blog/how-to-use-rabbitmq-in-service-integration
 https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-message-deduplication
 * https://news.ycombinator.com/item?id=28008088
 
-# Kafka
+# Apache Kafka
 https://github.com/kattlo/kattlo-cli
 https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/
 https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/
@@ -28,6 +28,10 @@ https://www.reddit.com/r/scala/comments/pr45zg/optimizing_kafka_performance/
 https://blogs.apache.org/kafka/entry/what-s-new-in-apache6
 
 https://granulate.io/optimizing-kafka-performance/
+
+# MQTT
+https://github.com/eclipse/mosquitto C Python
+* https://news.ycombinator.com/item?id=28695346
 
 ## Book
 https://1900jwatson.medium.com/the-best-books-to-learn-apache-kafka-b808f9be43d9
