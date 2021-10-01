@@ -98,6 +98,8 @@ https://yagmurcetintas.com/journal/whats-new-in-react-18
 
 https://github.com/bootrino/reactoxide
 * https://news.ycombinator.com/item?id=28702006
+
+https://blog.abdulqudus.com/progressive-web-apps-in-react-pwa-guide
    
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49

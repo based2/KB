@@ -30,4 +30,8 @@ Amazon Redshift Research Project - Auto-Vacuum
 https://www.amazonredshiftresearchproject.org/white_papers/downloads/auto_vacuum.pdf
 
 
+https://aws.amazon.com/fr/blogs/aws/announcing-aws-cloud-control-api/
+* https://news.ycombinator.com/item?id=28710179
+
+
 

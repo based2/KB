@@ -46,6 +46,8 @@ https://medium.com/building-carta/authz-cartas-highly-scalable-permissions-syste
 https://prezu.ca/post/2021-07-30-totp-1/
 * https://news.ycombinator.com/item?id=28324626
 
+https://github.com/authzed/spicedb/releases/tag/v1.0.0
+
 # eID
 https://news.ycombinator.com/item?id=27351769
 

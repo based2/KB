@@ -64,6 +64,9 @@ https://www.usenix.org/conference/nsdi21/presentation/ghigoff BMC: Accelerating 
 
 https://dconf.org/2016/talks/sechet.html bitpacking
 
+https://arxiv.org/abs/2109.13498
+*
+
 # Microservice
 https://microservices.io/patterns/
 * https://news.ycombinator.com/item?id=16014278

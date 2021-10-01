@@ -155,6 +155,8 @@ https://gnucobol.sourceforge.io/
 https://janet-lang.org/
 
 # News
+http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/
+* https://news.ycombinator.com/item?id=28702933
 https://madhadron.com/posts/seven_languages.html
 * https://news.ycombinator.com/item?id=28704495
 https://en.wikipedia.org/wiki/Abstraction_inversion

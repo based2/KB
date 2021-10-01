@@ -14,6 +14,8 @@ https://dev.to/crinklesio/creating-an-auto-layout-algorithm-for-graphs-436k
 
 https://github.com/yamafaktory/hypergraph
 
+https://lyonwj.com/blog/graph-visualization-with-graphql-react-force-graph
+
 # Draw
 https://github.com/nidi3/graphviz-java
 

@@ -10,6 +10,8 @@ http://geoloc.foremski.pl/
 https://github.com/eyeseast/geocode-sqlite
 * https://news.ycombinator.com/item?id=27179909
 
+https://ai.googleblog.com/2021/09/efficient-partitioning-of-road-networks.html
+
 # Reverse
 https://github.com/thampiman/reverse-geocoder
 * https://news.ycombinator.com/item?id=9281222

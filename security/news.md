@@ -1,3 +1,23 @@
+https://objective-see.com/blog/blog_0x68.html
+* 
+
+https://security.googleblog.com/2021/10/introducing-secure-open-source-pilot.html
+
+https://krebsonsecurity.com/2021/09/the-rise-of-one-time-password-interception-bots/
+* https://news.ycombinator.com/item?id=28717961
+
+https://www.cnbc.com/2021/10/01/defi-protocol-compound-mistakenly-gives-away-millions-to-users.html
+* https://news.ycombinator.com/item?id=28716979
+
+https://oag.ca.gov/ecrime/databreach/reports/sb24-545815
+* https://news.ycombinator.com/item?id=28719786
+* https://oag.ca.gov/system/files/09-24-2021%20Customer%20Notification.pdf
+
+https://www.rtcsec.com/post/2021/09/massive-ddos-attacks-on-voip-providers-and-simulated-ddos-testing/
+* https://www.reddit.com/r/netsec/comments/puqq8e/massive_ddos_attacks_on_voip_providers_and/
+
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-214.pdf
+
 https://blog.mozilla.org/attack-and-defense/2021/09/29/fixing-a-security-bug-by-changing-a-function-signature/
 
 https://github.com/RaRe-Technologies/gensim/issues/3240
@@ -540,7 +560,9 @@ https://blog.0patch.com/2021/07/free-micropatches-for-printnightmare.html
   * https://news.ycombinator.com/item?id=27761601
 * https://github.com/byt3bl33d3r/ItWasAllADream
 * https://blog.cymulate.com/printnightmare-cve/
- * https://www.reddit.com/r/netsec/comments/pdqmpe/what_you_need_to_know_about_printnightmare/  
+* https://www.reddit.com/r/netsec/comments/pdqmpe/what_you_need_to_know_about_printnightmare/ 
+* https://www.reddit.com/r/sysadmin/comments/pymph2/what_are_you_currently_doing_to_handle_printing/
+* https://www.reddit.com/r/sysadmin/comments/pynmps/i_might_lose_my_job_because_of_microsofts_gross/
 
 https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html
 * https://news.ycombinator.com/item?id=27678535

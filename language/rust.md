@@ -272,6 +272,7 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://diziet.dreamwidth.org/9894.html Tricky compatibility issue - Rust's io::ErrorKind
 https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/intro.html
 * https://news.ycombinator.com/item?id=28704611
 https://twitter.com/ryan_levick/status/1443202538099073027

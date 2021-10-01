@@ -43,6 +43,11 @@ https://eng.snap.com/quic-at-snap QUIC
 https://github.com/speakol-ads/scrapy-x
 
 # News
+https://blog.cloudflare.com/announcing-web3-gateways/
+* https://news.ycombinator.com/item?id=28717926
+https://blog.cloudflare.com/what-is-web3/
+* https://news.ycombinator.com/item?id=28717910
+https://www.protocol.com/china/wuzhen-world-internet-conference-policy-signals
 https://gerikson.com/blog/comm/Gemini-misaligned-incentives.html
 * https://news.ycombinator.com/item?id=28688232
 https://drewdevault.com/2021/09/23/Nitter-and-other-internet-reclamation-projects.html

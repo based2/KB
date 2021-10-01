@@ -54,6 +54,8 @@ https://lists.llvm.org/pipermail/llvm-dev/2021-June/151321.html LLVM Busybox Pro
 https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format
 * https://news.ycombinator.com/item?id=28233735
 
+https://www.collabora.com/news-and-blog/blog/2021/09/30/a-tale-of-two-toolchains-and-glibc/
+
 ## Clang
 https://reviews.llvm.org/D108643
 

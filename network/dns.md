@@ -66,6 +66,9 @@ https://jacobkiers.net/hod/
 * https://news.ycombinator.com/item?id=28218406
 
 # News
+https://www.nslookup.io/learning/dns-record-types/
+* https://news.ycombinator.com/item?id=28714667
+* https://en.wikipedia.org/wiki/List_of_DNS_record_types
 https://www.usenix.org/system/files/sec21-hoang.pdf
 * https://news.ycombinator.com/item?id=28658089
 https://www.spotvirtual.com/blog/the-perils-of-an-xyz-domain/

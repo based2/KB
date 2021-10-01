@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/
+* https://news.ycombinator.com/item?id=28714779
+https://en.wikipedia.org/wiki/CLOUD_Act
 https://twitter.com/QuinnyPig/status/1443028078196711426
 * https://news.ycombinator.com/item?id=28702997
 https://stratechery.com/2021/cloudflares-disruption/

@@ -23,6 +23,10 @@ https://blogs.oracle.com/javamagazine/how-to-write-your-own-maven-plugins
 https://ppolivka.com/posts/debugging-maven-tests-in-intellij
 * https://news.ycombinator.com/item?id=28630209
 
+https://github.com/git-commit-id/git-commit-id-maven-plugin/blob/master/docs/use-cases.md
+
+https://bitbucket.org/mattshelton/maven-branch-extension/src/master/
+
 ## Public repositories
 https://search.maven.org/classic/#
 

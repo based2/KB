@@ -10,8 +10,11 @@ https://github.com/xi-editor/xi-editor/blob/e8065a3993b80af0aadbca0e50602125d60e
 
 https://www.notion.so/blog/data-model-behind-notion
 * https://news.ycombinator.com/item?id=27200177
- * https://github.com/relm-us/svelt-yjs
-  * https://github.com/djyde/plastic-editor
+* https://github.com/relm-us/svelt-yjs
+* https://github.com/djyde/plastic-editor
+
+https://rxdb.info/downsides-of-offline-first.html
+* https://news.ycombinator.com/item?id=28717848
 
 # OT
 

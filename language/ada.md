@@ -43,3 +43,7 @@ https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
 
 # History
 http://archive.adaic.com/projects/atwork/paris.html
+
+# News
+https://www.adacore.com/uploads/techPapers/Masten-case-study.pdf
+* https://news.ycombinator.com/item?id=28711019

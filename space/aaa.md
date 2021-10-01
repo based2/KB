@@ -16,6 +16,9 @@ https://www.mindat.org/
 
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 
+https://www.eso.org/public/archives/releases/sciencepapers/eso2014/eso2014a.pdf
+A triple star system with a misaligned and warped circumstellar disk shaped by disk tearing
+
 # Probe
 ## Voyager
 https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/

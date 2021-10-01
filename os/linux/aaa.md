@@ -73,6 +73,7 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://mauricius.dev/configure-an-infrared-remote-control-with-linux/
 https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.1M-IOPS-Per-Core
 * https://news.ycombinator.com/item?id=28706762
 https://who-t.blogspot.com/2021/09/an-xorg-release-without-xwayland.html

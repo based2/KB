@@ -12,4 +12,7 @@ https://github.com/aarroyoc/postgresql-prolog
 
 https://dtai.cs.kuleuven.be/CHR/files/Elston_SecuritEase.pdf
 
-https://en.wikipedia.org/wiki/XSB
+https://en.wikipedia.org/wiki/XSB`
+
+https://github.com/brunokim/prol
+* https://news.ycombinator.com/item?id=28720000

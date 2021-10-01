@@ -62,11 +62,18 @@ http://extremelearning.com.au/how-to-evenly-distribute-points-on-a-sphere-more-e
 
 http://vihart.com/scutoids/
 
+https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html
+* https://news.ycombinator.com/item?id=28690298
+
+https://github.com/rossant/awesome-math
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://jsxgraph.org/wp/index.html
+* https://news.ycombinator.com/item?id=28702142
 https://observablehq.com/@thepeoplesbourgeois/so-this-whole-collatz-conjecture-thing
 https://writings.stephenwolfram.com/2021/09/charting-a-course-for-complexity-metamodeling-ruliology-and-more/
 * https://news.ycombinator.com/item?id=28638743

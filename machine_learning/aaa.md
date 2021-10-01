@@ -230,6 +230,7 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 https://engineering.mutinyhq.com/generating-personalized-website-headlines-using-gpt-3/
 https://arxiv.org/abs/1904.12320 Real numbers, data science and chaos: How to fit any dataset with a single parameter
 * https://news.ycombinator.com/item?id=28698163

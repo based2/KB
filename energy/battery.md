@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://arstechnica.com/science/2021/09/liquid-metal-encased-in-hydrogel-makes-a-promising-energy-harvesting-device/
+https://twitter.com/ESS_info/status/1443543679826907141
 https://www.vice.com/en/article/wx535y/tesla-wanted-dollar22500-to-replace-a-battery-an-independent-repair-shop-fixed-it-for-dollar5000
 * https://news.ycombinator.com/item?id=28514581
 https://silanano.com/news/one-small-new-battery-one-giant-leap-for-our-energy-future/

@@ -1,3 +1,5 @@
+https://datatracker.ietf.org/doc/html/rfc6455
+
 https://github.com/derhuerst/tcp-over-websockets
 
 https://wamp-proto.org/

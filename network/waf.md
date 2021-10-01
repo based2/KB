@@ -39,6 +39,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html
 * https://news.ycombinator.com/item?id=28039956
 
+https://github.com/Place1/wg-access-server
+
 # News
 https://twitter.com/EdgeSecurity/status/1437402720135270403 WireGuard for Windows has finally switched on WireGuardNT,
 https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/

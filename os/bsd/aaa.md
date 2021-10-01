@@ -23,6 +23,8 @@ https://www.undeadly.org/cgi?action=article;sid=20210831050932
 
 https://kernelpanic.life/software/high-availability-with-openbgpd-on-openbsd.html
 
+https://webzine.puffy.cafe/
+
 # FreeBSD
 https://www.freebsd.org/status/report-2021-01-2021-03/
 * https://news.ycombinator.com/item?id=27060326
