@@ -88,6 +88,8 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://fr.sonatype.com/resources/state-of-the-software-supply-chain-2021
+https://tomhummel.com/posts/ci/cd-quick-reference/
 https://csrc.nist.gov/publications/detail/sp/800-204c/draft
 https://github.com/run-x/opta/
 https://github.com/theonedev/onedev Jetty Shiro Wicket

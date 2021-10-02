@@ -1,6 +1,8 @@
 https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/
 * https://news.ycombinator.com/item?id=26946993
 
+https://danielmangum.com/posts/risc-v-bytes-intro-instruction-formats/
+
 http://guillaume.baierouge.fr/2021/04/23/simulating-digital-circuits-in-racket/a-risc-v-core-in-racket/index.html
 * https://news.ycombinator.com/item?id=26990615
 

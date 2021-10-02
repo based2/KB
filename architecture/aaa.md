@@ -67,6 +67,9 @@ https://dconf.org/2016/talks/sechet.html bitpacking
 https://arxiv.org/abs/2109.13498
 *
 
+https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.16.5910&rep=rep1&type=pdf
+* https://news.ycombinator.com/item?id=28702821
+
 # Microservice
 https://microservices.io/patterns/
 * https://news.ycombinator.com/item?id=16014278

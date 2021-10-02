@@ -65,5 +65,8 @@ https://davidnaylor.org/blog/2005/02/all-16777216-rgb-colours/
 https://www.handprint.com/HP/WCL/color2.html
 * https://news.ycombinator.com/item?id=28627333
 
+https://www.hearingreview.com/inside-hearing/research/color
+* https://news.ycombinator.com/item?id=28730588
+
 
 

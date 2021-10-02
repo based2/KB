@@ -46,6 +46,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.vox.com/platform/amp/down-to-earth/22679378/tree-planting-forest-restoration-climate-solutions
+* https://news.ycombinator.com/item?id=28726340
 https://www.klimaticket.at/en/
 * https://news.ycombinator.com/item?id=28706404
 https://www.globaltimes.cn/page/202109/1235013.shtml Chinese scientists complete starch synthesis from CO2, revolutionary for agricultural production and promoting carbon neutrality

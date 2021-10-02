@@ -56,6 +56,8 @@ https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-f
 * 
 
 # News
+https://pubby.games/factorio.html
+* https://news.ycombinator.com/item?id=28725359
 https://susam.in/maze/squaring-numbers-that-begin-or-end-with-5.html
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/
 * https://news.ycombinator.com/item?id=28582105

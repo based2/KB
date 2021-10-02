@@ -1,5 +1,16 @@
+https://sso.tax/
+
+https://www.zdnet.com/article/these-ransomware-crooks-are-complaining-they-are-getting-ripped-off-by-other-ransomware-crooks/
+
+https://github.com/WebGoat/WebGoat
+* https://news.ycombinator.com/item?id=28725588
+
+https://www.databreachtoday.eu/crypto-exchange-bug-reveals-north-korean-monero-laundering-a-17629
+* https://medium.com/@nbax/tracing-the-wannacry-2-0-monero-transactions-d8c1e5129dc1
+
 https://objective-see.com/blog/blog_0x68.html
-* 
+* https://news.ycombinator.com/item?id=28718368
+* https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=7ca2e331-2209-46a8-9e60-4cb83f9602de&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments
 
 https://security.googleblog.com/2021/10/introducing-secure-open-source-pilot.html
 

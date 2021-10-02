@@ -18,3 +18,5 @@ https://www.usenix.org/system/files/nsdi21-yang.pdf segcache
 
 https://actualbudget.com/blog/new-caching
 * https://news.ycombinator.com/item?id=27974323
+
+https://arxiv.org/abs/2109.14652 Seeds of SEED: A Side-Channel Resilient Cache Skewed by a Linear Function over a Galois Field

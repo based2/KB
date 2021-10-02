@@ -43,3 +43,5 @@ https://en.wikipedia.org/wiki/Charrette
 * https://news.ycombinator.com/item?id=28549438
 
 https://fantasai.inkedblade.net/weblog/2006/about-mozilla/principles
+
+http://joshcarter.com/magic_cap/paradigm_concept_book/

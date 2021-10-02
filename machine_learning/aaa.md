@@ -192,6 +192,8 @@ https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do
 
 https://hal.archives-ouvertes.fr/hal-01918271/file/Why_is_the_transference_theory_of_causat.pdf
 
+https://medium.com/@parassharmaa/beyond-statistics-a0087622cbfc
+
 https://www.thenewatlantis.com/publications/correlation-causation-and-confusion
 
 https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html
@@ -230,6 +232,9 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://www.lesswrong.com/posts/AwMb7C72etphiRvah/unsolved-ml-safety-problems
+https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696
+https://www.ata-chronicle.online/highlights/opus-cat-a-state-of-the-art-neural-machine-translation-engine-on-your-local-computer/
 https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 https://engineering.mutinyhq.com/generating-personalized-website-headlines-using-gpt-3/
 https://arxiv.org/abs/1904.12320 Real numbers, data science and chaos: How to fit any dataset with a single parameter

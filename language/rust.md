@@ -272,6 +272,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://tech.marksblogg.com/rocket-rust-web-framework.html
+https://docs.rs/freqfs/0.4.3/freqfs/ in-memory cache layer over tokio::fs with least-frequently-used eviction.
+* https://news.ycombinator.com/item?id=28721815
 https://diziet.dreamwidth.org/9894.html Tricky compatibility issue - Rust's io::ErrorKind
 https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/intro.html
 * https://news.ycombinator.com/item?id=28704611

@@ -19,6 +19,7 @@ https://rbelmont.mameworld.info/?p=1436 https://www.mamedev.org/
 www.byrdsight.com/apple-macintosh/
 * https://news.ycombinator.com/item?id=27843189
 
+https://axio.ms/blog/2021/10/02/MacSE30.html
 
 # HyperCard
 https://hypercard.org/

@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://planetscale.com/blog/planetscale-vs-aws-rds
+https://www.coinbase.com/cloud
+* https://news.ycombinator.com/item?id=28724734
 https://www.fortressofdoors.com/so-you-want-to-compete-with-roblox/
 * https://news.ycombinator.com/item?id=28714779
 https://en.wikipedia.org/wiki/CLOUD_Act

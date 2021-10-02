@@ -122,6 +122,9 @@ https://spectrum.ieee.org/for-precision-the-sapphire-clock-outshines-even-the-be
 https://www.tigerbeetle.com/post/three-clocks-are-better-than-one
 * https://news.ycombinator.com/item?id=28354096
 
+https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html
+* https://news.ycombinator.com/item?id=28725191
+
 #
 https://en.wikipedia.org/wiki/Time_crystal
 

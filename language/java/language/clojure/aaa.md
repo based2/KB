@@ -81,6 +81,7 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://www.tadam-framework.dev/
 https://whamtet.github.io/ctmx/ https://htmx.org/
 https://tonsky.me/blog/the-web-after-tomorrow/
 https://github.com/FieryCod/holy-lambda

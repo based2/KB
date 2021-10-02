@@ -72,6 +72,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://members.loria.fr/PZimmermann/papers/accuracy.pdf
+https://www.dspguide.com/
 https://jsxgraph.org/wp/index.html
 * https://news.ycombinator.com/item?id=28702142
 https://observablehq.com/@thepeoplesbourgeois/so-this-whole-collatz-conjecture-thing

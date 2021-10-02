@@ -18,6 +18,10 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://coinful.net/biggest-bitcoin-hacks-in-history/
+* https://news.ycombinator.com/item?id=28728567
+https://github.com/davidshares/Lightning-Network
+* https://news.ycombinator.com/item?id=28724648
 https://blog.kraken.com/post/11263/kraken-security-labs-identifies-vulnerabilities-in-commonly-used-bitcoin-atm/
 * https://news.ycombinator.com/item?id=28694186
 https://news.ycombinator.com/item?id=28644417

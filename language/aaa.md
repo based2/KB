@@ -151,10 +151,14 @@ https://gnucobol.sourceforge.io/
 * https://news.ycombinator.com/item?id=26734721
 
 ## LISP
+https://lisp-lang.org/
+* https://news.ycombinator.com/item?id=28725958
 
 https://janet-lang.org/
 
 # News
+https://github.com/caotic123/PomPom-Language A dependently typed language for proofs that you can implement in one day
+* https://news.ycombinator.com/item?id=28725803
 http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/
 * https://news.ycombinator.com/item?id=28702933
 https://madhadron.com/posts/seven_languages.html

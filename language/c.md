@@ -54,3 +54,6 @@ https://utcc.utoronto.ca/~cks/space/blog/programming/CStackSizeInvisible
 * https://news.ycombinator.com/item?id=28682945
 
 https://maxwelldulin.com/BlogPost?post=9715056640
+
+https://rachelbythebay.com/w/2021/09/29/alnum/
+* https://news.ycombinator.com/item?id=28703525

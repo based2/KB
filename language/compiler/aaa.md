@@ -79,6 +79,10 @@ https://maskray.me/blog/2021-09-19-all-about-procedure-linkage-table
 https://cvw.cac.cornell.edu/vector/default
 * https://news.ycombinator.com/item?id=27900592
 
+# GPU
+https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
+* https://news.ycombinator.com/item?id=28728138
+
 # News
 https://www.moritz.systems/blog/improving-gdb-register-model-compatibility-in-lldb/
 * https://news.ycombinator.com/item?id=28626602

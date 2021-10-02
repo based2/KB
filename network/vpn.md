@@ -21,6 +21,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 * https://news.ycombinator.com/item?id=28382585
 
 # News
+https://therecord.media/academics-discover-hidden-layer-in-chinas-great-firewall/
+* https://news.ycombinator.com/item?id=28730263
 https://github.com/firezone/firezone
 * https://news.ycombinator.com/item?id=28683231
 https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF
