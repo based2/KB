@@ -12,4 +12,7 @@ https://research.kudelskisecurity.com/2017/10/04/defeating-eddsa-with-faults/
 * https://www.reddit.com/r/crypto/comments/74ex4q/how_to_defeat_ed25519_and_eddsa_using_faults/
 * https://news.ycombinator.com/item?id=15414760
 
+https://doubleodd.group/front.html
+* https://news.ycombinator.com/item?id=28736958
+
   

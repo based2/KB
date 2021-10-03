@@ -56,6 +56,8 @@ https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-f
 * 
 
 # News
+https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/
+* https://news.ycombinator.com/item?id=28737910
 https://pubby.games/factorio.html
 * https://news.ycombinator.com/item?id=28725359
 https://susam.in/maze/squaring-numbers-that-begin-or-end-with-5.html

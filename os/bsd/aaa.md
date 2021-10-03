@@ -34,6 +34,9 @@ https://alpha.pkgbase.live/
 
 https://www.dragonflybsd.org/release60/
 
+https://hellosystem.github.io/docs/
+* https://news.ycombinator.com/item?id=28733897
+
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 * https://news.ycombinator.com/item?id=27191908

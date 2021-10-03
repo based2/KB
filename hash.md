@@ -63,6 +63,7 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://github.com/hashlookup/hashlookup-forensic-analyser
 https://randorithms.com/2020/12/26/rendezvous-hashing.html
 * https://news.ycombinator.com/item?id=28591031
 * https://dgryski.medium.com/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8

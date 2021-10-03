@@ -27,6 +27,8 @@ https://github.com/git-commit-id/git-commit-id-maven-plugin/blob/master/docs/use
 
 https://bitbucket.org/mattshelton/maven-branch-extension/src/master/
 
+https://blog.frankel.ch/faster-maven-builds/1/
+
 ## Public repositories
 https://search.maven.org/classic/#
 

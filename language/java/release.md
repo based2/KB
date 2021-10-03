@@ -6,6 +6,8 @@ https://jdk.java.net/loom/
 https://github.com/openjdk/jdk/pull/3427 Stream API skip() and limit() allocation optimization on openjdk 17
 https://jdk.java.net/17/
 
+https://simply-how.com/getting-started-with-java-17
+
 # 16
 https://www.azul.com/67-new-features-in-jdk-16/
 https://seanjmullan.org/blog/2021/03/18/jdk16

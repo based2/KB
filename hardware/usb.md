@@ -10,3 +10,7 @@ https://lucumr.pocoo.org/2020/7/6/usb-c-network-hubs/
 https://gbatemp.net/threads/medicat-usb-a-multiboot-linux-usb-for-pc-repair.361577/
 
 https://github.com/t8012/demuxusb Analyze iDevice USB protocols
+
+# News
+https://www.phonearena.com/news/new-logos-announced-for-latest-usb-c-products_id135456
+* https://news.ycombinator.com/item?id=28739051

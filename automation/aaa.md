@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 * https://news.ycombinator.com/item?id=27510919
 
 # News
+https://www.sciencedirect.com/science/article/pii/S1877050921001393
+* https://news.ycombinator.com/item?id=28738024
 https://www.iasql.com/ Infrastructure as SQL
 * https://news.ycombinator.com/item?id=28554089
 https://posthog.com/blog/automating-a-software-company-with-github-actions

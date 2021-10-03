@@ -42,7 +42,7 @@ https://www.confluent.io/blog/ksqldb-streaming-sql-the-query-your-database-cant-
 
 https://www.cargocultcode.com/what-does-first-normal-form-mean/
 
-# Tumeserie
+# Timeserie
 https://nakabonne.dev/posts/write-tsdb-from-scratch/
 * https://news.ycombinator.com/item?id=27730854
 
@@ -58,6 +58,7 @@ https://blog.acolyer.org/2020/12/14/entity-resolution/
 * https://news.ycombinator.com/item?id=28127650
 
 # News
+https://news.ycombinator.com/item?id=28736405 Graph db history
 https://danluu.com/anon-benchmark/
 * https://news.ycombinator.com/item?id=28599349
 https://news.ycombinator.com/item?id=28314623

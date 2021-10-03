@@ -58,6 +58,10 @@ https://www.beatportal.com/features/beatports-definitive-guide-to-techno/
 https://www.bespokesynth.com/
 * https://news.ycombinator.com/item?id=28529672
 
+## MIDI
+https://github.com/dwhinham/mt32-pi
+* https://news.ycombinator.com/item?id=28727084
+
 #
 https://www.beyondmusic.org/
 
@@ -85,6 +89,8 @@ https://github.com/ekzhang/composing.studio
 https://news.uchicago.edu/story/why-cant-we-identify-music-notes-well-colors-perfect-pitch-study-offers-clues
 
 https://github.com/aubio/aubio Library to label music and sounds
+
+https://aikelab.net/tarai/
 
 https://rave.dj/
 * https://news.ycombinator.com/item?id=28514159

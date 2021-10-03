@@ -20,6 +20,10 @@ www.byrdsight.com/apple-macintosh/
 * https://news.ycombinator.com/item?id=27843189
 
 https://axio.ms/blog/2021/10/02/MacSE30.html
+* https://news.ycombinator.com/item?id=28732288
+
+https://systemtalk.org/post/macintosh-history-8510/
+* https://news.ycombinator.com/item?id=28739998
 
 # HyperCard
 https://hypercard.org/

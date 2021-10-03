@@ -18,6 +18,7 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.vice.com/en/article/93yx5y/documents-reveal-miami-mayors-struggle-to-make-the-city-a-bitcoin-utopia
 https://coinful.net/biggest-bitcoin-hacks-in-history/
 * https://news.ycombinator.com/item?id=28728567
 https://github.com/davidshares/Lightning-Network

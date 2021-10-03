@@ -143,6 +143,8 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
 # News
+https://github.com/Ivaneres/BlenderSatAI
+* https://news.ycombinator.com/item?id=28736832
 https://nedbatchelder.com/blog/202109/300_walks.html
 * https://news.ycombinator.com/item?id=28689378
 https://optimule.com/

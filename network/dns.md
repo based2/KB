@@ -66,6 +66,7 @@ https://jacobkiers.net/hod/
 * https://news.ycombinator.com/item?id=28218406
 
 # News
+https://desec.io/
 https://www.nslookup.io/learning/dns-record-types/
 * https://news.ycombinator.com/item?id=28714667
 * https://en.wikipedia.org/wiki/List_of_DNS_record_types

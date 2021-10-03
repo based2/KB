@@ -12,6 +12,8 @@ https://v2.onivim.io/ $
 
 https://thevaluable.dev/vim-expert/
 
+https://news.ycombinator.com/item?id=28737300
+
 # Nano
 
 

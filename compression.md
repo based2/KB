@@ -32,6 +32,8 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://github.com/pornin/paradox-compress
+* https://news.ycombinator.com/item?id=28736949
 https://github.com/atomicobject/heatshrink Data compression/decompression library for embedded/real-time systems
 * https://news.ycombinator.com/item?id=28687589
 https://engineering.fb.com/2021/09/13/core-data/superpack/

@@ -1,3 +1,15 @@
+https://metasecurity.com/cybersecurity-ecosystem/
+
+https://www.techspot.com/news/91322-millions-amd-pcs-affected-new-cpu-flaw-need.html
+
+https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/
+* https://news.ycombinator.com/item?id=28736238
+
+https://jshelter.org/
+* https://news.ycombinator.com/item?id=28736113
+
+https://sequentialread.com/greenhouse-update-4-september/
+
 https://sso.tax/
 
 https://www.zdnet.com/article/these-ransomware-crooks-are-complaining-they-are-getting-ripped-off-by-other-ransomware-crooks/

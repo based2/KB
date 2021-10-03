@@ -109,6 +109,7 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://news.ycombinator.com/item?id=28736553
 https://www.zdnet.com/article/fortinet-shopify-others-report-issues-after-root-ca-certificate-from-lets-encrypt-expires/
 * https://news.ycombinator.com/item?id=28730393
 https://github.com/electron/electron/issues/31212

@@ -23,6 +23,9 @@ https://www.thisiscolossal.com/2021/06/utagawa-hiroshige-shadow-puppets/
 https://tylerxhobbs.com/fidenza
 * https://news.ycombinator.com/item?id=27494863
 
+# Comics
+https://news.ycombinator.com/item?id=28726934 Ligne claire
+
 # Architecture
 https://rodencrater.com/spaces/all/
 

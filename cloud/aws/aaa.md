@@ -34,4 +34,7 @@ https://aws.amazon.com/fr/blogs/aws/announcing-aws-cloud-control-api/
 * https://news.ycombinator.com/item?id=28710179
 
 
+https://www.alexdebrie.com/posts/dynamodb-limits/
+
+
 

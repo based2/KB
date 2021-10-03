@@ -251,6 +251,7 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://aarontgrogg.com/blog/2021/09/29/replacing-jquery-with-vanilla-es6/
 https://sia.codes/posts/lighthouse-treemap/
 * 
 https://v8.dev/blog/high-performance-cpp-gc

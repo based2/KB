@@ -73,6 +73,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://blogs.gnome.org/uraeus/2021/10/01/pipewire-and-fixing-the-linux-video-capture-stack/
+* https://news.ycombinator.com/item?id=28726125
 https://mauricius.dev/configure-an-infrared-remote-control-with-linux/
 https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.1M-IOPS-Per-Core
 * https://news.ycombinator.com/item?id=28706762

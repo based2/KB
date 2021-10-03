@@ -232,6 +232,11 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://wojtekmandrysz.com/blog/ai-infrastructure-1/ Setting up AI Infrastructure with sensitive data (part 1)
+https://www.jyotirmoy.net/posts/2021-10-03-r-mkl-openmp.html
+* https://news.ycombinator.com/item?id=28734875
+https://www.spotml.io/
+* https://news.ycombinator.com/item?id=28738141
 https://www.lesswrong.com/posts/AwMb7C72etphiRvah/unsolved-ml-safety-problems
 https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696
 https://www.ata-chronicle.online/highlights/opus-cat-a-state-of-the-art-neural-machine-translation-engine-on-your-local-computer/

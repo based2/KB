@@ -61,6 +61,10 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/
+* https://news.ycombinator.com/item?id=28732561
+https://golang.org/doc/effective_go
+* https://news.ycombinator.com/item?id=28735620
 https://github.com/eranyanay/1m-go-websockets
 https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust
 * https://news.ycombinator.com/item?id=28608083

@@ -157,6 +157,9 @@ https://lisp-lang.org/
 https://janet-lang.org/
 
 # News
+https://raywang.tech/2017/12/20/Formal-Verification:-The-Gap-between-Perfect-Code-and-Reality/
+https://www.johndcook.com/blog/2021/09/26/monads-and-macros/
+* https://news.ycombinator.com/item?id=28723680
 https://github.com/caotic123/PomPom-Language A dependently typed language for proofs that you can implement in one day
 * https://news.ycombinator.com/item?id=28725803
 http://blog.felipe.rs/2017/07/07/where-do-type-systems-come-from/

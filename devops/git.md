@@ -216,6 +216,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://www.leshenko.net/p/ugit/#
+* https://news.ycombinator.com/item?id=28735425
 https://arxiv.org/abs/2101.06542 ConE: A Concurrent Edit Detection Tool for Large Scale Software Development
 * https://news.ycombinator.com/item?id=28681873
 https://about.gitlab.com/releases/2021/09/22/gitlab-14-3-released/

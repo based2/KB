@@ -94,6 +94,8 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+http://www.orancollins.com:8109/microchip/ WIP
+* https://news.ycombinator.com/item?id=28737777
 https://github.com/gregtinkers/carspeed.py
 * 
 https://the-analog-thing.org/

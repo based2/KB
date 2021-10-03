@@ -54,6 +54,8 @@ http://www.figlet.org/fontdb.cgi
 https://queue.acm.org/detail.cfm?id=1871406 To move forward with programming languages we need to break free from the tyranny of ASCII.
 * https://news.ycombinator.com/item?id=27649431
 
+http://www.network-science.de/ascii/
+* https://news.ycombinator.com/item?id=28736997
 
 #
 https://blogs.oracle.com/mysql/mysql%3a-character-sets%2c-unicode%2c-and-uca-compliant-collations
