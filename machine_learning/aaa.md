@@ -212,6 +212,9 @@ https://github.com/yangxy/GPEN GAN Prior Embedded Network for Blind Face Restora
 
 https://thegradient.pub/how-to-do-multi-task-learning-intelligently/
 
+https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence/
+* https://news.ycombinator.com/item?id=28746694
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 * https://news.ycombinator.com/item?id=27589582
@@ -232,6 +235,8 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/
+* https://news.ycombinator.com/item?id=28744467
 https://wojtekmandrysz.com/blog/ai-infrastructure-1/ Setting up AI Infrastructure with sensitive data (part 1)
 https://www.jyotirmoy.net/posts/2021-10-03-r-mkl-openmp.html
 * https://news.ycombinator.com/item?id=28734875

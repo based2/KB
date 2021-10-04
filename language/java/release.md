@@ -1,6 +1,9 @@
 https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/
 * https://news.ycombinator.com/item?id=26662297
 
+# 18
+https://inside.java/2021/10/04/the-default-charset-jep400/
+
 # 17 LTS
 https://jdk.java.net/loom/
 https://github.com/openjdk/jdk/pull/3427 Stream API skip() and limit() allocation optimization on openjdk 17

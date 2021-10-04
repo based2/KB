@@ -48,6 +48,8 @@ https://github.com/kpdemetriou/fuuid
 https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format
 * https://news.ycombinator.com/item?id=28088213
 
+https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format#section-4.1
+
 #
 https://cybergibbons.com/security-2/what3words-the-algorithm/
 * https://news.ycombinator.com/item?id=27015046

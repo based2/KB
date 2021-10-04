@@ -1,3 +1,20 @@
+https://www.bleepingcomputer.com/news/security/misconfigured-apache-airflow-servers-leak-thousands-of-credentials/
+
+https://crypto.ethz.ch/publications/files/Maurer92b.pdf 
+
+https://blog.polybdenum.com/2021/10/03/implicit-overflow-considered-harmful-and-how-to-fix-it.html
+* https://news.ycombinator.com/item?id=28746549
+
+https://blog.cloudflare.com/introducing-zero-knowledge-proofs-for-private-web-attestation-with-cross-multi-vendor-hardware/
+* https://news.ycombinator.com/item?id=28745951
+
+https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/
+* https://news.ycombinator.com/item?id=28748906
+
+https://news.ycombinator.com/item?id=28748203
+https://techcrunch.com/2021/07/22/a-dns-outage-just-took-down-a-good-chunk-of-the-internet/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAGEasQn238gnDbtkc9OomR6_4rs4OVVvAFFRkTIbmAdTXoF6v3wAlLJWt1Rbpjwu9EO4nEmSVqdhnNhwKVHKgZ6qtbtXx4jTISZUQa-0Fblt6vrZhUUCOVRsoXDstW0zuxnuV_NCsMYZFDUk950fPkEHToz9Ra4oVirf7ykb28Yv
+https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/
+
 https://metasecurity.com/cybersecurity-ecosystem/
 
 https://www.techspot.com/news/91322-millions-amd-pcs-affected-new-cpu-flaw-need.html

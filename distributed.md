@@ -34,6 +34,8 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/version-vector
 https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
 * https://news.ycombinator.com/item?id=27628553
 
+https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf
+* https://news.ycombinator.com/item?id=28750103
 
 # Database
 https://github.com/gitsrc/IceFireDB
@@ -43,7 +45,7 @@ https://github.com/erikgrinaker/toydb
 * https://news.ycombinator.com/item?id=27874992
 
 https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html
-
+* https://news.ycombinator.com/item?id=28740497
 
 # Test
 https://github.com/honzaap/Systemizer system design tool used to create and simulate large scale distributed systems

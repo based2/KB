@@ -84,6 +84,10 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 * https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=LLVM-13.0-Released
+https://www.phoronix.com/scan.php?page=news_item&px=Armv9-GNU-Toolchain-Starting
+https://rsalsamendi.github.io/salsablog/#not--werror-considered-harmful
+* https://news.ycombinator.com/item?id=28745949
 https://www.moritz.systems/blog/improving-gdb-register-model-compatibility-in-lldb/
 * https://news.ycombinator.com/item?id=28626602
 https://arxiv.org/abs/2011.13127 Copy-and-Patch Compilation: A fast compilation algorithm for high-level languages and bytecode

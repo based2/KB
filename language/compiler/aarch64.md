@@ -19,3 +19,5 @@ https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-
 * https://news.ycombinator.com/item?id=27898187
 
 https://www.nature.com/articles/s41586-021-03625-w PlasticARM system architecture
+
+https://kevwe.se/blog/cross-compiling-for-arm-on-debian

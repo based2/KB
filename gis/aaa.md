@@ -143,6 +143,11 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
 # News
+https://ahstat.github.io/Topography/
+* https://news.ycombinator.com/item?id=28736512
+https://github.com/joewdavies/geoblender
+* https://news.ycombinator.com/item?id=28748881
+* https://github.com/domlysz/BlenderGIS
 https://github.com/Ivaneres/BlenderSatAI
 * https://news.ycombinator.com/item?id=28736832
 https://nedbatchelder.com/blog/202109/300_walks.html

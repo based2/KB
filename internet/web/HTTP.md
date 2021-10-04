@@ -52,6 +52,10 @@ https://cr.yp.to/publicfile.html
 https://www.innoq.com/de/blog/nginx-ssi-env/
 * https://news.ycombinator.com/item?id=28703680
 
+##
+https://www.hiawatha-webserver.org/about
+* https://news.ycombinator.com/item?id=28727922
+
 # Security
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015
 https://en.wikipedia.org/wiki/HTTP_response_splitting

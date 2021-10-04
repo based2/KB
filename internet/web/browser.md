@@ -29,6 +29,8 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.ctrl.blog/entry/anti-competitive-browser-edges.html
+* https://news.ycombinator.com/item?id=28748000
 https://www.gitpod.io/blog/openvscode-server-launch
 * https://news.ycombinator.com/item?id=28682477
 https://github.com/zbarbuto/tremor Quite often when you're working/programming/gaming you want to quickly google something.

@@ -157,6 +157,8 @@ https://lisp-lang.org/
 https://janet-lang.org/
 
 # News
+http://deconcentration-of-attention.com/deconcentration-software.html
+* https://news.ycombinator.com/item?id=28736352
 https://raywang.tech/2017/12/20/Formal-Verification:-The-Gap-between-Perfect-Code-and-Reality/
 https://www.johndcook.com/blog/2021/09/26/monads-and-macros/
 * https://news.ycombinator.com/item?id=28723680

@@ -27,6 +27,8 @@ https://github.com/svt/encore Scalable video transcoding tool, built on Open Sou
 
 https://github.com/leandromoreira/ffmpeg-libav-tutorial
 
+https://github.com/savonet/liquidsoap OCaml
+
 DaVinci resolve - https://www.blackmagicdesign.com/fr/products/davinciresolve/
 
 https://handbrake.fr/

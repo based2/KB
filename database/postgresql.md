@@ -134,6 +134,7 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 https://github.com/jie123108/imgsmlr-server
 
 # News
+https://heap.io/blog/the-million-indexes-incident
 https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/
 * https://news.ycombinator.com/item?id=28730225
 https://www.postgresql.org/about/news/postgresql-14-released-2318/

@@ -166,6 +166,7 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and
 https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/
 * https://news.ycombinator.com/item?id=23735962
 https://www.numerama.com/tech/742425-pourquoi-les-administrations-ont-elle-tant-de-mal-a-passer-au-logiciel-libre-a-grande-echelle.html

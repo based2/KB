@@ -25,5 +25,6 @@ https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-opti
 
 
 # News
+https://arstechnica.com/science/2021/09/understanding-neuromorphic-computing-and-why-intels-excited-about-it/
 https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/ topological quantum computing
 * https://news.ycombinator.com/item?id=28706974

@@ -167,6 +167,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://docs.python.org/3.11/whatsnew/changelog.html#changelog
+* https://news.ycombinator.com/item?id=28742061
 https://futurecoder.io/
 * https://news.ycombinator.com/item?id=28737779
 https://github.com/thoppe/NansAreNumbers

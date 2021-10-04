@@ -58,6 +58,8 @@ https://blog.acolyer.org/2020/12/14/entity-resolution/
 * https://news.ycombinator.com/item?id=28127650
 
 # News
+https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf Databases, Types, and the Relational Model: The Third Manifesto
+* https://news.ycombinator.com/item?id=28745033
 https://news.ycombinator.com/item?id=28736405 Graph db history
 https://danluu.com/anon-benchmark/
 * https://news.ycombinator.com/item?id=28599349

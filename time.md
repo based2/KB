@@ -63,6 +63,9 @@ https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a
 https://www.nirsoft.net/utils/run_as_date.html
 * https://news.ycombinator.com/item?id=28106793
 
+https://pmswap.medium.com/imaginary-pm-b4b818625498
+* https://news.ycombinator.com/item?id=28746260
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster

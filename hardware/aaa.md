@@ -8,9 +8,12 @@ http://www.righto.com/2021/06/deep-dive-into-how-teensy.html
 https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html
 * https://news.ycombinator.com/item?id=27656462
 
-# pi
+# Pi
 https://www.tomshardware.com/news/raspberry-pi-floppy-disk-adapter-pcb
 * https://github.com/picosonic/bbc-fdc
+
+# E-Link
+https://news.ycombinator.com/item?id=28740452
 
 # Memory
 https://research.swtch.com/hwmm Hardware Memory Models

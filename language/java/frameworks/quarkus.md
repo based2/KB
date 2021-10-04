@@ -4,6 +4,8 @@ https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to
 https://developers.redhat.com/blog/2019/08/26/10-quarkus-videos-to-get-you-up-to-speed-with-supersonic-subatomic-java/
 https://quarkus.io/blog/magic-control/ vertx
 
+https://foojay.io/today/book-review-quarkus-for-spring-developers/
+
 https://quarkus.io/blog/quarkus-2-0-0-final-released/
 * https://www.reddit.com/r/java/comments/ob3axw/quarkus_200final_released_vertx_4_microprofile_4/
 

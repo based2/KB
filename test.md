@@ -66,3 +66,6 @@ https://hypothesis.works/articles/what-is-property-based-testing/
 #
 https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/
 * https://news.ycombinator.com/item?id=28642983
+
+http://christophermeiklejohn.com/filibuster/2021/10/02/filibuster-1.html
+* https://news.ycombinator.com/item?id=28733341

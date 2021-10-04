@@ -20,3 +20,5 @@ https://actualbudget.com/blog/new-caching
 * https://news.ycombinator.com/item?id=27974323
 
 https://arxiv.org/abs/2109.14652 Seeds of SEED: A Side-Channel Resilient Cache Skewed by a Linear Function over a Galois Field
+
+https://betterprogramming.pub/how-a-cache-stampede-caused-one-of-facebooks-biggest-outages-dbb964ffc8ed
