@@ -46,6 +46,10 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.realcarbonindex.org/
+* https://news.ycombinator.com/item?id=28766747
+https://www.orbuch.com/carbon-removal/
+* https://news.ycombinator.com/item?id=28765742
 https://apnews.com/article/climate-change-business-europe-austria-1b30ccdced4371bc5c7b306fca5e7c6e
 * https://news.ycombinator.com/item?id=28739589
 https://www.vox.com/platform/amp/down-to-earth/22679378/tree-planting-forest-restoration-climate-solutions

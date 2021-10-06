@@ -167,6 +167,11 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://jfrog.com/blog/23andmes-yamale-python-code-injection-and-properly-sanitizing-eval/
+* https://www.reddit.com/r/netsec/comments/q1wxj1/23andmes_yamale_python_code_injection_and/
+https://bugs.python.org/issue40222 "Zero cost" exception handling
+* https://news.ycombinator.com/item?id=28771931
+https://www.python.org/downloads/release/python-3100/
 https://docs.python.org/3.11/whatsnew/changelog.html#changelog
 * https://news.ycombinator.com/item?id=28742061
 https://futurecoder.io/

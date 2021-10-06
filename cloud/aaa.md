@@ -19,6 +19,10 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://www.rowy.io/ gcp airtable
+* https://news.ycombinator.com/item?id=28758598
+https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3
+* https://news.ycombinator.com/item?id=28774782
 https://planetscale.com/blog/planetscale-vs-aws-rds
 https://www.coinbase.com/cloud
 * https://news.ycombinator.com/item?id=28724734

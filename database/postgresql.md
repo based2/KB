@@ -134,6 +134,14 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 https://github.com/jie123108/imgsmlr-server
 
 # News
+https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/
+* https://news.ycombinator.com/item?id=28758162
+https://explain.depesz.com/
+* https://news.ycombinator.com/item?id=28771875
+https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
+* https://news.ycombinator.com/item?id=28767637
+https://www.notion.so/blog/sharding-postgres-at-notion
+* https://news.ycombinator.com/item?id=28776786
 https://heap.io/blog/the-million-indexes-incident
 https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/
 * https://news.ycombinator.com/item?id=28730225

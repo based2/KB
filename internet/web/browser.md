@@ -29,6 +29,10 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.mozilla.org/en-US/firefox/93.0/releasenotes/
+* https://news.ycombinator.com/item?id=28759181
+https://hacks.mozilla.org/2021/10/tab-unloading-in-firefox-93/
+* https://news.ycombinator.com/item?id=28762155
 https://www.ctrl.blog/entry/anti-competitive-browser-edges.html
 * https://news.ycombinator.com/item?id=28748000
 https://www.gitpod.io/blog/openvscode-server-launch

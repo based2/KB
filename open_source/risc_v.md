@@ -34,6 +34,8 @@ https://github.com/lekkit/rvvm
 * https://news.ycombinator.com/item?id=27918744
 
 # News
+https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html
+* https://news.ycombinator.com/item?id=28767046
 https://klarasystems.com/articles/risc-v-the-new-architecture-on-the-block/
 * https://news.ycombinator.com/item?id=28696450
 https://mail.openjdk.java.net/pipermail/discuss/2021-September/005957.html

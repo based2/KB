@@ -57,3 +57,8 @@ https://maxwelldulin.com/BlogPost?post=9715056640
 
 https://rachelbythebay.com/w/2021/09/29/alnum/
 * https://news.ycombinator.com/item?id=28703525
+
+https://devblogs.microsoft.com/oldnewthing/20211006-00/?p=105770
+
+https://www.teamten.com/lawrence/programming/dont-write-bugs.html
+* https://news.ycombinator.com/item?id=28769053

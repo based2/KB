@@ -4,6 +4,9 @@ https://curl.se/
 https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
 * https://news.ycombinator.com/item?id=26632690
 
+https://hurl.dev/index.html
+* https://news.ycombinator.com/item?id=28758226
+
 # JWT
 https://qvault.io/cryptography/hmac-and-macs-in-jwts/
 

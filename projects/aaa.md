@@ -84,6 +84,9 @@ https://news.ycombinator.com/item?id=28662856 How do you do estimates in 2021?
 https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7niyym Always Multiply Your Estimates by π
 * https://news.ycombinator.com/item?id=28667174
 
+https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html
+* https://news.ycombinator.com/item?id=28769331
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -159,8 +162,10 @@ https://somehowmanage.com/2021/09/05/things-to-do-before-and-after-you-write-cod
 https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887
 
-
 # News
+https://medium.com/levelshealth/how-we-work-without-meetings-at-levels-a6a525e21aa5
+https://commoncog.com/blog/org-design-skill/
+* https://news.ycombinator.com/item?id=28772033
 https://taskjuggler.org/
 * https://news.ycombinator.com/item?id=28706503
 https://newsletter.pragmaticengineer.com/p/project-management-in-tech

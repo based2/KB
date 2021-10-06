@@ -196,6 +196,7 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://coiled.io/blog/dask-as-a-spark-replacement/
 https://flink.apache.org/news/2021/09/29/release-1.14.0.html
 https://github.com/nocodb/nocodb
 * https://www.journalduhacker.net/s/2c4ro0/nocodb_lalternative_open_source

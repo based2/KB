@@ -66,6 +66,9 @@ https://www.nirsoft.net/utils/run_as_date.html
 https://pmswap.medium.com/imaginary-pm-b4b818625498
 * https://news.ycombinator.com/item?id=28746260
 
+https://github.com/speedyg0nz/MagInkCal
+* https://news.ycombinator.com/item?id=28740452
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster

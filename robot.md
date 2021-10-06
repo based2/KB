@@ -25,6 +25,7 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://blog.hadabot.com/aws-robomaker-ros2-nav2.html
 https://lorenzopieri.com/cobot/
 * 
 https://www.youtube.com/watch?v=g_qhMVNw7O4 festo 

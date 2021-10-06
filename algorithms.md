@@ -37,6 +37,9 @@ https://github.com/scandum/fluxsort
 https://duckdb.org/2021/08/27/external-sorting.html
 * https://news.ycombinator.com/item?id=28328657
 
+https://arxiv.org/abs/2110.01111
+* https://news.ycombinator.com/item?id=28758106
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 * https://news.ycombinator.com/item?id=27745184

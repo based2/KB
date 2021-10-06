@@ -5,6 +5,8 @@ https://bytecodealliance.org/
 https://wasi.dev/
 
 https://wasmer.io/posts/wasmer-2.0
+https://mnt.io/2021/10/04/i-leave-wasmer/
+* https://news.ycombinator.com/item?id=28772863
 
 https://nanovms.com/dev/tutorials/running-wasm-unikernels
 

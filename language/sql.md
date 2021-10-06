@@ -58,6 +58,8 @@ http://harelba.github.io/q/
 * https://news.ycombinator.com/item?id=27423276
 
 # News
+https://www.sqlfluff.com/
+* https://news.ycombinator.com/item?id=28771656
 https://github.com/muhmud/qsh
 * https://news.ycombinator.com/item?id=28550874
 https://arctype.com/

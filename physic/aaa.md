@@ -51,6 +51,8 @@ https://phys.org/news/2021-07-exotic-particle-tetraquark.html
 https://www.nature.com/articles/d41586-021-02657-6
 
 # News
+https://www.nobelprize.org/prizes/chemistry/2021/press-release/
+* https://news.ycombinator.com/item?id=28771079
 https://phys.org/news/2021-09-desired-linear-digital-processor.html
 * https://news.ycombinator.com/item?id=28659643
 https://www.quantamagazine.org/impossible-particle-discovery-adds-key-piece-to-the-strong-force-puzzle-20210927/

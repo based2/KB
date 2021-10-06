@@ -209,6 +209,13 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+http://phrack.org/issues/70/7.html#article Twenty years of Escaping the Java Sandbox
+https://josephmate.github.io/2021-10-03-my-bug-used-up-100cpu-or-did-it/
+* https://news.ycombinator.com/item?id=28758930
+https://in.relation.to/2021/09/29/hibernate-orm-5323-final-out/
+https://gluonhq.com/scene-builder-17-release/
+https://jreleaser.org/
+https://github.com/jimbethancourt/RefactorFirst
 https://github.com/casid/jte/releases/tag/1.12.0
 https://jetbrains.developpez.com/tutoriel/top-dix-plugins-intellij-idea/#LI
 https://cr.openjdk.java.net/~jrose/jls/FunnyStatic.java

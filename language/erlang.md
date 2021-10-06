@@ -65,6 +65,9 @@ https://fly.io/blog/how-we-got-to-liveview/
 
 https://github.com/gleam-lang/gleam
 
+https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html
+* https://news.ycombinator.com/item?id=28758883
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 * https://news.ycombinator.com/item?id=27629016

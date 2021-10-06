@@ -68,6 +68,8 @@ https://www.youtube.com/watch?v=DZRn_jNZjbw
 
 
 # News
+https://davidtidman.com/
+* https://news.ycombinator.com/item?id=28776527
 https://motion.dev/
 * https://news.ycombinator.com/item?id=28616043
 https://github.com/AriaMinaei/theatre

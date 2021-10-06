@@ -235,6 +235,8 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://chrisbutner.github.io/ChessCoach/
+* https://news.ycombinator.com/item?id=28765183
 https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/
 * https://news.ycombinator.com/item?id=28744467
 https://wojtekmandrysz.com/blog/ai-infrastructure-1/ Setting up AI Infrastructure with sensitive data (part 1)

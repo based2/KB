@@ -58,6 +58,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://asahilinux.org/2021/10/progress-report-september-2021/
+* https://news.ycombinator.com/item?id=28762744
 https://lakka.tv/articles/2021/10/03/lakka-3.5/
 https://tuxphones.com/cadmium-linux-for-chromebooks/
 * https://news.ycombinator.com/item?id=28697238

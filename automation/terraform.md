@@ -25,3 +25,9 @@ https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/
 https://blog.zwindler.fr/2021/09/20/import-manuel-de-records-dns-route53-avec-terraform/
 
 https://github.com/im2nguyen/rover
+
+# News
+https://github.com/im2nguyen/rover
+* https://news.ycombinator.com/item?id=28766080
+https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3
+* https://news.ycombinator.com/item?id=28776287

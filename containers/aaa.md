@@ -32,6 +32,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://dietpi.com/
+* https://news.ycombinator.com/item?id=28764673
 https://matduggan.com/the-hunt-for-a-better-dockerfile/
 https://diego-pacheco.blogspot.com/2021/09/podmain-in-linux.html
 * https://news.ycombinator.com/item?id=28687229

@@ -1,3 +1,26 @@
+https://arstechnica.com/information-technology/2021/10/company-that-routes-sms-for-all-major-us-carriers-was-hacked-for-five-years/
+* https://news.ycombinator.com/item?id=28766797
+
+https://polcak.github.io/jsrestrictor/
+* https://news.ycombinator.com/item?id=28761897
+
+https://www.yubico.com/blog/put-your-finger-on-the-pulse-of-whats-new-with-the-yubikey-bio-series/
+* https://news.ycombinator.com/item?id=28764329
+
+https://www.protocol.com/bulletins/doj-cyber-fraud-initiative
+
+http://phrack.org/issues/70/1.html
+* https://news.ycombinator.com/item?id=28758486
+
+https://kotaku.com/report-twitch-is-hacked-and-its-source-code-is-in-the-1847808252
+* https://news.ycombinator.com/item?id=28774910
+https://www.vice.com/amp/en/article/dyvnjk/twitch-hack-of-135-gb-of-data-includes-how-much-its-biggest-streamers-make
+* https://news.ycombinator.com/item?id=28775637
+https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/
+* https://news.ycombinator.com/item?id=28770590
+
+https://community.marqeta.com/t5/engineering-blogs/security-best-practices-for-fintech-application-development/ba-p/375
+
 https://www.bleepingcomputer.com/news/security/misconfigured-apache-airflow-servers-leak-thousands-of-credentials/
 
 https://crypto.ethz.ch/publications/files/Maurer92b.pdf 
@@ -14,6 +37,13 @@ https://www.privacyaffairs.com/facebook-data-sold-on-hacker-forum/
 https://news.ycombinator.com/item?id=28748203
 https://techcrunch.com/2021/07/22/a-dns-outage-just-took-down-a-good-chunk-of-the-internet/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAGEasQn238gnDbtkc9OomR6_4rs4OVVvAFFRkTIbmAdTXoF6v3wAlLJWt1Rbpjwu9EO4nEmSVqdhnNhwKVHKgZ6qtbtXx4jTISZUQa-0Fblt6vrZhUUCOVRsoXDstW0zuxnuV_NCsMYZFDUk950fPkEHToz9Ra4oVirf7ykb28Yv
 https://krebsonsecurity.com/2021/10/what-happened-to-facebook-instagram-whatsapp/
+* https://news.ycombinator.com/item?id=28750930
+  https://news.ycombinator.com/item?id=28767700
+https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scrutiny-of-social-media-giant?t=1633553203410
+* https://news.ycombinator.com/item?id=28761294
+https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/
+* https://news.ycombinator.com/item?id=28762611
+https://blog.cloudflare.com/october-2021-facebook-outage/
 
 https://metasecurity.com/cybersecurity-ecosystem/
 

@@ -32,3 +32,7 @@ https://github.com/salt-die/nurses Portmanteau of Numpy and Curses
 https://github.com/piccolomo/plotext python
 * https://news.ycombinator.com/item?id=27719759
 
+# News
+https://github.com/csdvrx/sixel-tmux
+* https://news.ycombinator.com/item?id=28756701
+

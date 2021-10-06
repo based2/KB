@@ -88,6 +88,7 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://tech.ovoenergy.com/gitoops-attacking-and-defending-ci-cd-pipelines/
 https://fr.sonatype.com/resources/state-of-the-software-supply-chain-2021
 https://tomhummel.com/posts/ci/cd-quick-reference/
 https://csrc.nist.gov/publications/detail/sp/800-204c/draft

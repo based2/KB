@@ -77,7 +77,15 @@ https://news.ycombinator.com/item?id=28584965
 https://github.com/Gnucash/gnucash/releases/tag/4.7
 * https://news.ycombinator.com/item?id=28666104
 
+https://ctskennerton.github.io/2021/08/30/open-source-tax-software/
+* https://news.ycombinator.com/item?id=28755034
+
+http://opentaxsolver.sourceforge.net/
+* https://news.ycombinator.com/item?id=28760442
+
 # News
+https://www.bloomberg.com/news/articles/2021-10-01/silicon-s-300-surge-throws-another-price-shock-at-the-world
+* https://news.ycombinator.com/item?id=28769555
 https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/dude-where-is-my-stuff/
 * https://news.ycombinator.com/item?id=28687992
 https://news.ycombinator.com/item?id=28490521 US Treasury Department to monitor all US bank accounts over $600

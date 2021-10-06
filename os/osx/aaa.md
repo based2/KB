@@ -86,6 +86,11 @@ https://www.apple.com/newsroom/2021/04/imac-features-all-new-design-in-vibrant-c
 https://authzed.com/blog/onboarding-with-an-m1/
 * https://news.ycombinator.com/item?id=26843228
 
+
+# Apple
+https://developer.apple.com/news/?id=mdkbobfo Account deletion within apps required starting January 31
+* https://news.ycombinator.com/item?id=28776960
+
 # Dev
 https://www.cdfinder.de/guide/blog/apple_hell.html
 * https://news.ycombinator.com/item?id=26993857
