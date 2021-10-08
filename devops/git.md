@@ -216,6 +216,12 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://graphite.dev/blog/post/y6ysWaplagKc8YEFzYfr
+* https://news.ycombinator.com/item?id=28787335
+https://github.com/djanderson/aho
+* https://news.ycombinator.com/item?id=28771841
+https://bronevichok.ru/posts/git-as-a-storage.html
+* https://news.ycombinator.com/item?id=28800229
 https://www.leshenko.net/p/ugit/#
 * https://news.ycombinator.com/item?id=28735425
 https://arxiv.org/abs/2101.06542 ConE: A Concurrent Edit Detection Tool for Large Scale Software Development

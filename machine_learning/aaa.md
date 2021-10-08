@@ -235,6 +235,11 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://deepmind.com/research/publications/2021/protein-complex-prediction-with-alphafold-multimer
+https://mackgrenfell.com/blog/building-2-000-unique-seo-pages-with-gpt-3
+* https://news.ycombinator.com/item?id=28796278
+https://www.assemblyai.com/blog/how-to-train-large-deep-learning-models-as-a-startup/
+* https://news.ycombinator.com/item?id=28786958
 https://chrisbutner.github.io/ChessCoach/
 * https://news.ycombinator.com/item?id=28765183
 https://newatlas.com/computers/deepmind-ai-predicts-incoming-rainfall-high-accuracy/

@@ -66,8 +66,20 @@ https://dynamicsjs.com/
 https://www.youtube.com/watch?v=DZRn_jNZjbw
 * https://news.ycombinator.com/item?id=27396634
 
+https://www.shadertoy.com/
+
+https://blog.tonari.no/shadergarden
+* https://news.ycombinator.com/item?id=28791148
+
+https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/GLSL_Shaders
+
+https://shaderfrog.com/app/
 
 # News
+https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac
+* https://news.ycombinator.com/item?id=28780335
+https://wwwtyro.net/2021/10/01/instanced-lines-part-2.html
+* https://news.ycombinator.com/item?id=28784862
 https://davidtidman.com/
 * https://news.ycombinator.com/item?id=28776527
 https://motion.dev/

@@ -1,3 +1,12 @@
+https://web.mit.edu/Saltzer/www/publications/protection/
+* https://news.ycombinator.com/item?id=28770933
+
+https://github.com/ionescu007/clfs-docs
+* https://news.ycombinator.com/item?id=28771727
+
+https://www.reuters.com/world/us/hackers-solarwinds-breach-stole-data-us-sanctions-policy-intelligence-probes-2021-10-07/
+* https://news.ycombinator.com/item?id=28792085
+
 https://arstechnica.com/information-technology/2021/10/company-that-routes-sms-for-all-major-us-carriers-was-hacked-for-five-years/
 * https://news.ycombinator.com/item?id=28766797
 
@@ -18,6 +27,7 @@ https://www.vice.com/amp/en/article/dyvnjk/twitch-hack-of-135-gb-of-data-include
 * https://news.ycombinator.com/item?id=28775637
 https://www.videogameschronicle.com/news/the-entirety-of-twitch-has-reportedly-been-leaked/
 * https://news.ycombinator.com/item?id=28770590
+* https://news.ycombinator.com/item?id=28779566
 
 https://community.marqeta.com/t5/engineering-blogs/security-best-practices-for-fintech-application-development/ba-p/375
 
@@ -44,6 +54,8 @@ https://www.npr.org/2021/10/04/1042921981/facebook-whistleblower-renewing-scruti
 https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/
 * https://news.ycombinator.com/item?id=28762611
 https://blog.cloudflare.com/october-2021-facebook-outage/
+https://blog.cloudflare.com/during-the-facebook-outage/
+* https://news.ycombinator.com/item?id=28800235
 
 https://metasecurity.com/cybersecurity-ecosystem/
 

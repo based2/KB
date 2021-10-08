@@ -36,5 +36,7 @@ https://aws.amazon.com/fr/blogs/aws/announcing-aws-cloud-control-api/
 
 https://www.alexdebrie.com/posts/dynamodb-limits/
 
+https://santiagoq.medium.com/mlops-in-aws-927e5bc78f6b
+
 
 

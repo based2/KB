@@ -81,6 +81,7 @@ https://www.phoronix.com/scan.php?page=article&item=windows11-wsl2-good&num=1
 * https://news.ycombinator.com/item?id=28693974
 
 # News
+https://arstechnica.com/gadgets/2021/10/the-best-part-of-windows-11-is-a-revamped-windows-subsystem-for-linux/
 https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448
 * https://news.ycombinator.com/item?id=28639952
 https://docs.microsoft.com/en-us/lifecycle/products/windows-server-2022

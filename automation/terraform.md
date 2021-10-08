@@ -27,6 +27,8 @@ https://blog.zwindler.fr/2021/09/20/import-manuel-de-records-dns-route53-avec-te
 https://github.com/im2nguyen/rover
 
 # News
+https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f
+* https://news.ycombinator.com/item?id=28777997
 https://github.com/im2nguyen/rover
 * https://news.ycombinator.com/item?id=28766080
 https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3

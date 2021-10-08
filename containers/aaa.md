@@ -32,6 +32,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/wimpysworld/quickemu Quickly create and run optimised Win-10,11/macOS/Linux on Linux
+* https://news.ycombinator.com/item?id=28797129
 https://dietpi.com/
 * https://news.ycombinator.com/item?id=28764673
 https://matduggan.com/the-hunt-for-a-better-dockerfile/

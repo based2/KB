@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://newatlas.com/automotive/desten-900kw-fastest-ev-charger/
+* https://news.ycombinator.com/item?id=28793950
 https://www.mining.com/super-material-discovered-by-error-could-be-key-for-batteries-fuel-cells/
 https://arstechnica.com/science/2021/09/liquid-metal-encased-in-hydrogel-makes-a-promising-energy-harvesting-device/
 https://twitter.com/ESS_info/status/1443543679826907141

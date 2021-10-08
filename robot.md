@@ -25,6 +25,12 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://spectrum.ieee.org/bipedal-drone-robot-caltech?utm_campaign=post-teaser&utm_content=itc8afe4
+* https://news.ycombinator.com/item?id=28779176
+https://twitter.com/schrep/status/1446143786891943942
+* https://news.ycombinator.com/item?id=28795467
+https://www.media.uzh.ch/en/Press-Releases/2021/Drone-in-the-wild.html
+* https://news.ycombinator.com/item?id=28792613
 https://blog.hadabot.com/aws-robomaker-ros2-nav2.html
 https://lorenzopieri.com/cobot/
 * 

@@ -196,6 +196,8 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://tech.marksblogg.com/roapi-rust-data-api.html
+* https://news.ycombinator.com/item?id=28798360
 https://coiled.io/blog/dask-as-a-spark-replacement/
 https://flink.apache.org/news/2021/09/29/release-1.14.0.html
 https://github.com/nocodb/nocodb

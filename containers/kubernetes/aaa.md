@@ -54,6 +54,7 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 * https://news.ycombinator.com/item?id=26951940
 
 # News
+https://www.cncf.io/blog/2021/10/06/kubernetes-cluster-api-reaches-production-readiness-with-version-1-0/
 https://krustlet.dev/ web assembly
 https://medium.com/codex/configuring-tomcat-logging-for-a-read-only-file-system-in-kubernetes-965556e55045
 https://twitter.com/halvarflake/status/1427662489496526852

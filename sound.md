@@ -28,3 +28,6 @@ https://neal.fun/ambient-chaos/
 
 https://mynoise.net/noiseMachines.php
 * https://news.ycombinator.com/item?id=28696831
+
+https://github.com/jaakkopasanen/AutoEq Automatic headphone equalization from frequency responses
+* https://news.ycombinator.com/item?id=28799910

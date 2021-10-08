@@ -12,6 +12,8 @@ https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html
 https://www.tomshardware.com/news/raspberry-pi-floppy-disk-adapter-pcb
 * https://github.com/picosonic/bbc-fdc
 
+https://news.ycombinator.com/item?id=28772865
+
 # E-Link
 https://news.ycombinator.com/item?id=28740452
 
@@ -46,6 +48,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.imec-int.com/en/articles/mram-technologies-space-applications-unified-cache-memory
+* https://news.ycombinator.com/item?id=28771648
 https://loongson.github.io/LoongArch-Documentation/README-EN.html
 https://turingpi.com/turing-pi-v2-is-here/
 * https://news.ycombinator.com/item?id=28299204

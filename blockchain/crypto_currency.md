@@ -20,6 +20,7 @@ https://www.impots.gouv.fr/portail/formulaire/3916/declaration-par-un-resident-d
 ref: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fiscaux-des-cryptomonnaies
 
 # News
+https://news.ycombinator.com/item?id=28795005
 https://phe.tue.nl/news/ Crypto currency mining using integrated photonics
 * https://news.ycombinator.com/item?id=28715881
 https://www.reddit.com/r/Monero/comments/puqvyr/chinese_central_bank_calls_all_crypto/

@@ -73,6 +73,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 * https://news.ycombinator.com/item?id=27055866
 
 # News
+https://github.com/bootrino/maryjane
+* https://news.ycombinator.com/item?id=28767911
 https://www.ibc.org/news/movielabs-publishes-common-ontology-for-production/7934.article
 * https://news.ycombinator.com/item?id=28703713
 https://wonderunit.com/storyboarder/

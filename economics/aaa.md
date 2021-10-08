@@ -68,6 +68,8 @@ https://www.currentmarketvaluation.com/models/buffett-indicator.php
 https://richardhanania.substack.com/p/futarchy-robin-hanson-on-how-prediction
 * https://news.ycombinator.com/item?id=28538693
 
+https://news.ycombinator.com/item?id=28779729
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 * https://news.ycombinator.com/item?id=28037317
@@ -84,6 +86,9 @@ http://opentaxsolver.sourceforge.net/
 * https://news.ycombinator.com/item?id=28760442
 
 # News
+https://news.ycombinator.com/item?id=28771006
+https://lite.cnn.com/en/article/h_ae2e1cd7c5997036404936c0eacc8356
+* https://news.ycombinator.com/item?id=28801599
 https://www.bloomberg.com/news/articles/2021-10-01/silicon-s-300-surge-throws-another-price-shock-at-the-world
 * https://news.ycombinator.com/item?id=28769555
 https://am.jpmorgan.com/us/en/asset-management/institutional/insights/market-insights/eye-on-the-market/dude-where-is-my-stuff/

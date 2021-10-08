@@ -17,3 +17,6 @@ https://github.com/BurntSushi/ripgrep/releases/tag/13.0.0
 * https://news.ycombinator.com/item?id=27491583
 
 https://bernardoamc.com/semgrep-introduction/
+
+https://noahan.me/posts/effective-code-browsing-part1/
+* https://news.ycombinator.com/item?id=28781583

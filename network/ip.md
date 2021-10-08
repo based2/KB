@@ -42,6 +42,10 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 * https://news.ycombinator.com/item?id=27673945
 
 # News
+https://metebalci.com/blog/hello-ipv6/
+* https://news.ycombinator.com/item?id=28784868
+https://erikbern.com/2015/04/26/ping-the-world.html
+* https://news.ycombinator.com/item?id=28793102
 https://cdn.zappy.app/b8f7a14ea480868c2a7fdf35cdb9b8e5.png ':face:b00c'
 * https://news.ycombinator.com/item?id=28484627
 https://dl.acm.org/doi/pdf/10.1145/3452296.3472922 The Ties that un-Bind: Decoupling IP from web services and sockets for robust addressing agility at CDN-scale

@@ -142,6 +142,7 @@ https://ferrous-systems.com/blog/21st-century-embedded-tooling/
 
 https://ferrous-systems.com/blog/test-embedded-app/
 
+https://dl.acm.org/doi/abs/10.1145/3453483.3454084 SyRust: automatic testing of Rust libraries with semantic-aware program synthesis
 
 # APIs
 https://github.com/briansmith/ring Safe, fast, small crypto using Rust with BoringSSL's cryptography primitives
@@ -175,6 +176,10 @@ https://github.com/TaKO8Ki/awesome-alternatives-in-rust
 # Type
 https://www.jakobmeier.ch/blogging/Untapped-Rust.html
 
+# Errors
+https://fettblog.eu/rust-enums-wrapping-errors/
+* https://news.ycombinator.com/item?id=28799931
+
 # Book
 https://github.com/ANSSI-FR/rust-guide
 
@@ -192,7 +197,7 @@ https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html
 https://github.com/antoyo/rustc_codegen_gcc
 * https://news.ycombinator.com/item?id=27746877
 
-# MacOs
+## MacOs
 https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
 * https://news.ycombinator.com/item?id=27467453
 
@@ -272,6 +277,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://www.youtube.com/watch?v=cuvp-e4ztC0 Rust, Wright's Law, and the Future of Low-Latency Systems
+* https://news.ycombinator.com/item?id=28800154
 https://amethyst.rs/posts/amethyst--starting-fresh
 https://github.com/getzola/zola wstatic
 https://tech.marksblogg.com/rocket-rust-web-framework.html

@@ -40,6 +40,9 @@ The informed definition of DevOps is = "DevOps is the union of people, process, 
 https://github.com/jghoman/awesome-apache-airflow
 https://eatcodeplay.com/upgrading-to-airflow-2-0-massive-performance-wins-and-lessons-learned-8c6a15cec8e7
 
+https://airbyte.io/blog/airflow-etl-pipelines
+* https://news.ycombinator.com/item?id=28799745
+
 https://drewdevault.com/2019/10/12/how-to-fuck-up-releases.html
 * https://news.ycombinator.com/item?id=26902422
 
@@ -62,6 +65,9 @@ https://lumosql.org/src/not-forking/doc/trunk/README.md
 
 https://0ver.org/
 * https://news.ycombinator.com/item?id=28154187
+
+https://alexgaynor.net/2021/oct/07/whats-in-a-version-number/
+* https://news.ycombinator.com/item?id=28785147
 
 # CI
 
@@ -88,6 +94,9 @@ https://github.com/lesfurets/git-octopus
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.com/Flagsmith/flagsmith
+* https://news.ycombinator.com/item?id=28785788
+https://thenewstack.io/sigstore-code-signing-for-software-supply-chain-security/
 https://tech.ovoenergy.com/gitoops-attacking-and-defending-ci-cd-pipelines/
 https://fr.sonatype.com/resources/state-of-the-software-supply-chain-2021
 https://tomhummel.com/posts/ci/cd-quick-reference/

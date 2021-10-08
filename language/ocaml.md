@@ -20,6 +20,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://discuss.ocaml.org/t/the-road-to-ocaml-5-0/8584
+* https://news.ycombinator.com/item?id=28785306
+* https://github.com/melange-re/melange
 https://linuxfr.org/news/ocaml-en-2021#toc-une-explication-des-probl%C3%A8mes-de-r%C3%A9gularit%C3%A9
 https://github.com/ocaml/ocaml/blob/4.13/Changes
 http://www.algo-prog.info/ocapic/web/index.php?id=OCAPIC OCaPIC: Programming PIC microcontrollers in OCaml

@@ -37,6 +37,9 @@ https://www.dragonflybsd.org/release60/
 https://hellosystem.github.io/docs/
 * https://news.ycombinator.com/item?id=28733897
 
+https://2019.eurobsdcon.org/slides/NUMA%20Optimizations%20in%20the%20FreeBSD%20Network%20Stack%20-%20Drew%20Gallatin.pdf
+* https://news.ycombinator.com/item?id=28786674
+
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 * https://news.ycombinator.com/item?id=27191908

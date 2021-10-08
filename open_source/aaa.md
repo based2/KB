@@ -166,6 +166,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.librelogos.org/
+* https://news.ycombinator.com/item?id=28784236
+https://www.workforperformance.com/
+* https://news.ycombinator.com/item?id=28773221
+https://andrewkelley.me/post/why-donating-to-musl-libc-project.html
+* https://news.ycombinator.com/item?id=28789680
 https://digital-strategy.ec.europa.eu/en/library/study-about-impact-open-source-software-and-hardware-technological-independence-competitiveness-and
 https://old.reddit.com/r/Onyx_Boox/comments/hk7d5v/onyx_is_violating_the_linux_kernels_license/
 * https://news.ycombinator.com/item?id=23735962

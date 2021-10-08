@@ -29,6 +29,11 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.theregister.com/2021/10/08/mozilla_adding_sponsored_search_results/
+https://blog.chromium.org/2021/10/renderingng.html
+* https://news.ycombinator.com/item?id=28782493
+https://browser.kagi.com/ new WebKit-based browser for Mac
+* https://news.ycombinator.com/item?id=28799049
 https://www.mozilla.org/en-US/firefox/93.0/releasenotes/
 * https://news.ycombinator.com/item?id=28759181
 https://hacks.mozilla.org/2021/10/tab-unloading-in-firefox-93/

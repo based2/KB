@@ -19,6 +19,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 # Dmoz
 
 #
+https://thebrowser.com/notes/qntm/
+* https://news.ycombinator.com/item?id=28774209
 https://www.facebook.com/help/224562897555674/
 * https://news.ycombinator.com/item?id=28770937
 https://www.manyver.se/

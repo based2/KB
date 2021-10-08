@@ -57,3 +57,7 @@ https://code.google.com/archive/p/aor-javasim/wikis/ExamplesEconomics.wiki
 
 https://nicole.express/2021/remember-alf.html
 * https://news.ycombinator.com/item?id=27968292
+
+
+https://mastery.games/post/board-gaming-in-figma/
+* https://news.ycombinator.com/item?id=28770787

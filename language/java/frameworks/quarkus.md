@@ -10,3 +10,5 @@ https://quarkus.io/blog/quarkus-2-0-0-final-released/
 * https://www.reddit.com/r/java/comments/ob3axw/quarkus_200final_released_vertx_4_microprofile_4/
 
 https://blog.kie.org/2021/09/kogito-api-incubation.html
+
+https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-native-java.html

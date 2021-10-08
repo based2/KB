@@ -163,6 +163,8 @@ https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887
 
 # News
+https://pulseasync.com/operators/remote-team-alignment/
+* https://news.ycombinator.com/item?id=28785080
 https://medium.com/levelshealth/how-we-work-without-meetings-at-levels-a6a525e21aa5
 https://commoncog.com/blog/org-design-skill/
 * https://news.ycombinator.com/item?id=28772033

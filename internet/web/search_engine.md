@@ -59,6 +59,8 @@ https://github.com/benbusby/whoogle-search
 * https://news.ycombinator.com/item?id=28326180
 
 # News
+https://www.pinecone.io/learn/hnsw/
+* https://news.ycombinator.com/item?id=28771768
 https://btao.org/2021/10/03/removing-from-google/
 * https://news.ycombinator.com/item?id=28739081
 https://boyter.org/posts/abusing-aws-to-make-a-search-engine/

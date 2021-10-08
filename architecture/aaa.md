@@ -78,6 +78,9 @@ https://prodfiler.com/blog/optimising-an-ebpf-optimiser/
 
 https://www.markhansen.co.nz/profiler-uis/
 
+https://www.polarsignals.com/blog/posts/2021/10/08/introducing-parca-we-got-funded/
+* https://news.ycombinator.com/item?id=28800758
+
 # Microservice
 https://microservices.io/patterns/
 * https://news.ycombinator.com/item?id=16014278
@@ -109,6 +112,8 @@ https://stuvel.eu/articles/spherical-panoramas/
 
 
 # News
+https://www.roundcrisis.com/2021/09/28/bytesize-architecture-sessions/
+* https://news.ycombinator.com/item?id=28771243
 https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing
 * https://news.ycombinator.com/item?id=28691728
 https://netflixtechblog.com/netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae
