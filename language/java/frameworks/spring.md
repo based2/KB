@@ -26,6 +26,8 @@ https://www.infoworld.com/article/3630107/how-to-secure-rest-with-spring-securit
 https://blog.frankel.ch/annotation-free-spring/
 * https://www.reddit.com/r/java/comments/pmuqk8/annotationfree_spring/
 
+https://auth0.com/blog/spring-boot-logs-aggregation-and-monitoring-using-elk-stack/?utm_source=reddit&utm_medium=sc&utm_campaign=spring
+
 Spring native
 https://www.youtube.com/watch?v=TXyg6Nm4ZpQ
 

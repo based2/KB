@@ -19,6 +19,7 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://www.swyx.io/cloudflare-go/
 https://www.rowy.io/ gcp airtable
 * https://news.ycombinator.com/item?id=28758598
 https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3

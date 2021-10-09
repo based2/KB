@@ -158,6 +158,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.bryanbraun.com/after-dark-css/
+* https://news.ycombinator.com/item?id=28806699
 https://javascript.plainenglish.io/improve-rendering-performance-with-the-new-css-content-visibility-property-7e0c9b425b58
 * https://www.reddit.com/r/programming/comments/ptvcqk/improve_rendering_performance_with_the_new_css/
 https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/

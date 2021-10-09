@@ -62,6 +62,7 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://web.dev/renault/#measuring-the-business-impact-of-core-web-vitals
 https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/
 https://blog.sinkingpoint.com/posts/elasticsearch-logging/
 * https://news.ycombinator.com/item?id=28679490

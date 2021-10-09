@@ -235,6 +235,10 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+http://hayatokobayashi.com/slides/ACL2014_Kobayashi_slides.pdf
+* https://en.wikipedia.org/wiki/Perplexity
+https://www.cs.cmu.edu/Groups/AI/0.html
+https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf
 https://deepmind.com/research/publications/2021/protein-complex-prediction-with-alphafold-multimer
 https://mackgrenfell.com/blog/building-2-000-unique-seo-pages-with-gpt-3
 * https://news.ycombinator.com/item?id=28796278

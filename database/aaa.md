@@ -58,6 +58,7 @@ https://blog.acolyer.org/2020/12/14/entity-resolution/
 * https://news.ycombinator.com/item?id=28127650
 
 # News
+https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/
 https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/
 * https://news.ycombinator.com/item?id=28761453
 https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf Databases, Types, and the Relational Model: The Third Manifesto

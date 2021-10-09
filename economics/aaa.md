@@ -86,6 +86,8 @@ http://opentaxsolver.sourceforge.net/
 * https://news.ycombinator.com/item?id=28760442
 
 # News
+https://edwardsnowden.substack.com/p/cbdcs
+* https://news.ycombinator.com/item?id=28806931
 https://news.ycombinator.com/item?id=28771006
 https://lite.cnn.com/en/article/h_ae2e1cd7c5997036404936c0eacc8356
 * https://news.ycombinator.com/item?id=28801599

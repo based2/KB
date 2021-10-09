@@ -18,6 +18,8 @@ https://chemrxiv.org/engage/chemrxiv/public-dashboard
 https://scite.ai/
 * https://news.ycombinator.com/item?id=27567051
 
+https://www.science.org/news/2019/06/jason-secretive-group-cold-war-science-advisers-fighting-survive-21st-century
+
 # Biology
 https://adamashwal.com/fruit
 * https://news.ycombinator.com/item?id=27507675

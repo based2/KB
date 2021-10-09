@@ -43,6 +43,7 @@ https://eng.snap.com/quic-at-snap QUIC
 https://github.com/speakol-ads/scrapy-x
 
 # News
+https://supchina.com/2021/09/29/government-announces-three-year-plan-to-tame-chinas-algorithms/
 https://blog.cloudflare.com/announcing-web3-gateways/
 * https://news.ycombinator.com/item?id=28717926
 https://blog.cloudflare.com/what-is-web3/

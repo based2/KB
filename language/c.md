@@ -62,3 +62,6 @@ https://devblogs.microsoft.com/oldnewthing/20211006-00/?p=105770
 
 https://www.teamten.com/lawrence/programming/dont-write-bugs.html
 * https://news.ycombinator.com/item?id=28769053
+
+https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyering-Goodbye World
+* https://lobste.rs/s/xlxw3u/goodbye_world_2011

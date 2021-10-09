@@ -70,6 +70,8 @@ https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html
 
 https://felt.com/blog/phoenix-and-webpack-hot-reloading-react
 
+https://medium.com/@toddresudek/hex-power-user-deb608e60935
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 * https://news.ycombinator.com/item?id=27629016

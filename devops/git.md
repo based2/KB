@@ -66,6 +66,8 @@ https://git-scm.com/book/en/v2
 https://jwiegley.github.io/git-from-the-bottom-up/
 * https://news.ycombinator.com/item?id=26884318
 
+https://wildlyinaccurate.com/a-hackers-guide-to-git/
+
 # Branch Flows
 https://thinkfoo.wordpress.com/2016/04/17/how-branching-affects-team-culture-talk-at-pipeline-conf-2016/
 
@@ -216,6 +218,7 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://blog.stephane-robert.info/post/gitlab-pipeline-dynamique/
 https://graphite.dev/blog/post/y6ysWaplagKc8YEFzYfr
 * https://news.ycombinator.com/item?id=28787335
 https://github.com/djanderson/aho

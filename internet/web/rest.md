@@ -36,3 +36,7 @@ https://news.ycombinator.com/item?id=20929051 Common REST API mistakes and how t
 
 # GraphQL
 https://apisyouwonthate.com/blog/representing-state-in-rest-and-graphql
+
+
+#
+https://news.ycombinator.com/item?id=28797627 Is RESTFul Paradigm a Type of FFI (Foreign Function Interface)?

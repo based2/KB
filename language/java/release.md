@@ -11,6 +11,10 @@ https://jdk.java.net/17/
 
 https://simply-how.com/getting-started-with-java-17
 
+https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html
+
+https://orgpad.com/o/AKle2rjO1OaaKyUkGun0kV?token=CLEHJ7_J5NlbuRwsL1FMfR Java Updates: 8 -> 17
+
 # 16
 https://www.azul.com/67-new-features-in-jdk-16/
 https://seanjmullan.org/blog/2021/03/18/jdk16

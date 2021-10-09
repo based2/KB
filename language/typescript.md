@@ -49,3 +49,6 @@ https://deno.com/blog/deno-on-mdn
 
 https://deno.com/blog/v1.14
 * https://news.ycombinator.com/item?id=28550339
+
+#
+https://grafikart.fr/tutoriels/typescript-introduction-1949

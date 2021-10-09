@@ -20,3 +20,5 @@ https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live
 * https://news.ycombinator.com/item?id=28592881
 
 https://borgbackup.readthedocs.io/en/stable/#what-is-borgbackup
+
+https://flathub.org/apps/details/org.gnome.World.PikaBackup

@@ -56,5 +56,6 @@ https://gir.st/blog/greenpass.html
 * https://news.ycombinator.com/item?id=27589913
 
 # News
+https://www.osohq.com/what-is-oso rust
 https://slate.com/news-and-politics/2011/03/when-did-we-start-signing-our-names-to-authenticate-documents.html
 * https://news.ycombinator.com/item?id=28798311

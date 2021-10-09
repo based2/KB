@@ -66,6 +66,7 @@ https://jacobkiers.net/hod/
 * https://news.ycombinator.com/item?id=28218406
 
 # News
+https://www.bortzmeyer.org/panne-godaddy.html
 https://jpmens.net/2021/10/05/dnssec-cds-cdnskey-in-the-real-world/
 https://desec.io/
 https://www.nslookup.io/learning/dns-record-types/

@@ -120,6 +120,8 @@ https://github.com/gzuidhof/starboard-notebook
 # http://fizzygum.org/
 https://news.ycombinator.com/item?id=27421401
 
+https://nextjournal.com/mk/clerk-preview Clojure
+
 https://github.com/ToolJet/ToolJet/
 * https://news.ycombinator.com/item?id=27421408
 
@@ -196,6 +198,7 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
 # News
+https://yolkorbit.com/apache-spark-bucketing-and-partitioning/
 https://tech.marksblogg.com/roapi-rust-data-api.html
 * https://news.ycombinator.com/item?id=28798360
 https://coiled.io/blog/dask-as-a-spark-replacement/

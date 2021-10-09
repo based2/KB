@@ -53,6 +53,8 @@ https://github.com/spaceuptech/space-cloud https://spaceuptech.com/
 https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
 * https://news.ycombinator.com/item?id=26951940
 
+https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
+
 # News
 https://www.cncf.io/blog/2021/10/06/kubernetes-cluster-api-reaches-production-readiness-with-version-1-0/
 https://krustlet.dev/ web assembly

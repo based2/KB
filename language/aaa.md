@@ -157,6 +157,9 @@ https://lisp-lang.org/
 https://janet-lang.org/
 
 # News
+https://www.unisonweb.org/docs/tour/
+https://github.com/pfusik/cito L. which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C
+* https://news.ycombinator.com/item?id=28805825
 https://www.welton.it/articles/programming_language_economics.html
 * https://news.ycombinator.com/item?id=28781046
 http://deconcentration-of-attention.com/deconcentration-software.html

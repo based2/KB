@@ -29,6 +29,7 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.bleepingcomputer.com/news/security/firefox-now-shows-ads-as-sponsored-address-bar-suggestions/
 https://www.theregister.com/2021/10/08/mozilla_adding_sponsored_search_results/
 https://blog.chromium.org/2021/10/renderingng.html
 * https://news.ycombinator.com/item?id=28782493

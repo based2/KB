@@ -167,6 +167,7 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/
 https://jfrog.com/blog/23andmes-yamale-python-code-injection-and-properly-sanitizing-eval/
 * https://www.reddit.com/r/netsec/comments/q1wxj1/23andmes_yamale_python_code_injection_and/
 https://bugs.python.org/issue40222 "Zero cost" exception handling

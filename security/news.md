@@ -1,3 +1,7 @@
+https://www.theregister.com/2021/09/27/microsoft_exchange_autodiscover/
+
+https://www.driverentry.com/article/115 Side Channel Attacks on iPhones with the iTimed Toolkit
+
 https://web.mit.edu/Saltzer/www/publications/protection/
 * https://news.ycombinator.com/item?id=28770933
 
@@ -56,6 +60,7 @@ https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/
 https://blog.cloudflare.com/october-2021-facebook-outage/
 https://blog.cloudflare.com/during-the-facebook-outage/
 * https://news.ycombinator.com/item?id=28800235
+https://thenewstack.io/the-strange-behaviors-of-facebooks-metastable-failures/
 
 https://metasecurity.com/cybersecurity-ecosystem/
 

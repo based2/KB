@@ -13,6 +13,8 @@ https://olingo.apache.org/
 
 https://cocoon.apache.org/
 
+https://github.com/progval/rust-xml-schema
+
 # Editor
 https://www.eclipse.org/vex/
 * https://news.ycombinator.com/item?id=28533379

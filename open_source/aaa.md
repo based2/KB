@@ -166,6 +166,7 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.fdl-lef.org/
 https://www.librelogos.org/
 * https://news.ycombinator.com/item?id=28784236
 https://www.workforperformance.com/

@@ -73,6 +73,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://xtermwm.sourceforge.io/
+* https://news.ycombinator.com/item?id=28808837
+https://github.com/nix-gui/nix-gui
 https://awesomewm.org/
 https://xmonad.org/
 * https://news.ycombinator.com/item?id=28793941

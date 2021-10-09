@@ -37,9 +37,13 @@ https://www.mozilla.org/en-US/firefox/lockwise/
 
 
 # News
+https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en
+* https://lobste.rs/s/lflm6h/gmail_password_first_character_is_case
+* https://news.ycombinator.com/item?id=28808289
 https://github.com/nuvious/pam-duress
 * https://news.ycombinator.com/item?id=28267975
 https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/
 * https://news.ycombinator.com/item?id=27922545
 https://donjon.ledger.com/kaspersky-password-manager/
 * https://news.ycombinator.com/item?id=27746494
+  https://hothardware.com/news/blizzard-bombshell-all-your-passwords-are-caseinsensitive-now-stop-whining-about-it 2012
