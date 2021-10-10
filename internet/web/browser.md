@@ -29,6 +29,10 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.thurrott.com/cloud/web-browsers/mozilla-firefox/258006/is-mozilla-firefox-getting-sketchy#
+* https://news.ycombinator.com/item?id=28812243
+https://www.waterfox.net/ Limited Data Collection / We try and take the bare minimum amount of information to keep things running smoothly.
+* https://news.ycombinator.com/item?id=28815747
 https://www.bleepingcomputer.com/news/security/firefox-now-shows-ads-as-sponsored-address-bar-suggestions/
 https://www.theregister.com/2021/10/08/mozilla_adding_sponsored_search_results/
 https://blog.chromium.org/2021/10/renderingng.html

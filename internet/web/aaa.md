@@ -43,6 +43,8 @@ https://eng.snap.com/quic-at-snap QUIC
 https://github.com/speakol-ads/scrapy-x
 
 # News
+https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/
+* https://news.ycombinator.com/item?id=28800818
 https://supchina.com/2021/09/29/government-announces-three-year-plan-to-tame-chinas-algorithms/
 https://blog.cloudflare.com/announcing-web3-gateways/
 * https://news.ycombinator.com/item?id=28717926

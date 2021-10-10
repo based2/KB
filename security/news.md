@@ -1,3 +1,24 @@
+https://www.bbc.com/news/technology-58843162 Samsung apologises for Russian app download error
+
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773
+* https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42013 Apache HTTP Server 2.4
+* https://mail-archives.apache.org/mod_mbox/www-announce/202110.mbox/%3C7c4d9498-09ce-c4b4-b1c7-d55512fdc0b0%40apache.org%3E
+
+https://dl.acm.org/doi/pdf/10.1145/3133956.3134069 DIFUZE: Interface Aware Fuzzing for Kernel Drivers
+
+https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html
+* https://news.ycombinator.com/item?id=28815502
+
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-214.pdf
+
+https://www.whitehouse.gov/wp-content/uploads/2021/10/National-Strategic-Computing-Reserve-Blueprint-Oct2021.pdf
+
+https://therecord.media/nsa-warns-of-alpaca-tls-attack-use-of-wildcard-tls-certificates/
+* https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/2804293/avoid-dangers-of-wildcard-tls-certificates-the-alpaca-technique/
+ * https://media.defense.gov/2021/Oct/07/2002869955/-1/-1/0/CSI_AVOID%20DANGERS%20OF%20WILDCARD%20TLS%20CERTIFICATES%20AND%20THE%20ALPACA%20TECHNIQUE_211007.PDF
+
+https://wejn.org/2021/09/fixing-grub-verification-requested-nobody-cares/
+
 https://www.theregister.com/2021/09/27/microsoft_exchange_autodiscover/
 
 https://www.driverentry.com/article/115 Side Channel Attacks on iPhones with the iTimed Toolkit

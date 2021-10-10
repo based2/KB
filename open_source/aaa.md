@@ -121,6 +121,8 @@ https://briarproject.org/
 
 # Logs
 https://glogg.bonnefon.org/
+https://www.logswan.org/
+
 https://alerta.io/
 
 # Experiments
@@ -166,6 +168,7 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://github.com/zachflower/awesome-open-source-supporters
 https://www.fdl-lef.org/
 https://www.librelogos.org/
 * https://news.ycombinator.com/item?id=28784236

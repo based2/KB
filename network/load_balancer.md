@@ -10,6 +10,12 @@ https://news.ycombinator.com/item?id=25917988
 https://bparli.medium.com/adventures-in-rust-and-load-balancers-73a0bc61a192
 * https://news.ycombinator.com/item?id=27871505
 
+https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/
+* https://news.ycombinator.com/item?id=28818622
+ * https://en.m.wikipedia.org/wiki/Rolling_blackout
+ * https://en.wikipedia.org/wiki/Apdex
+https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html
+
 # K8s
 https://www.k8gb.io/
 

@@ -59,6 +59,8 @@ https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-f
 * 
 
 # News
+https://github.com/facebookresearch/loop_tool/blob/main/tutorial.ipynb
+https://en.algorithmica.org/hpc/analyzing-performance/gcd/
 https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/
 * https://news.ycombinator.com/item?id=28737910
 https://pubby.games/factorio.html

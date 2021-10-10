@@ -11,6 +11,9 @@ https://gbatemp.net/threads/medicat-usb-a-multiboot-linux-usb-for-pc-repair.3615
 
 https://github.com/t8012/demuxusb Analyze iDevice USB protocols
 
+https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s AVR® microcontrollers
+* https://news.ycombinator.com/item?id=28814566
+
 # News
 https://blog.ktz.me/a-usb-fan-controller-that-now-works-under-linux/
 * https://news.ycombinator.com/item?id=28765113

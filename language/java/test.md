@@ -18,6 +18,8 @@ https://stefanbirkner.github.io/system-rules/
 
 https://github.com/goldmansachs/tablasco Adds table verification to your unit tests
 
+https://github.com/gofabian/junit-fixture-extension
+
 ## Mock
 https://maxxedev.github.io/2021/03/07/mocking-static-methods-and-constructors-with-mockito.html
 https://site.mockito.org/

@@ -13,6 +13,7 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 * https://news.ycombinator.com/item?id=28138161
 
 # News
+https://pumpmygas.xyz/
 https://blog.deversifi.com/23-7-million-dollar-ethereum-transaction-fee-post-mortem/
 * https://news.ycombinator.com/item?id=28686918
 https://www.theblockcrypto.com/post/118753/bitfinex-just-spent-23-7-million-in-fees-to-make-one-ethereum-transaction

@@ -46,34 +46,19 @@ https://github.com/mxgmn/WaveFunctionCollapse
 
 https://harshil.net/blog/recreating-the-mac-genie-effect
 
-# Torus
-https://codepen.io/rthavi/pen/RevVzY
-
 
 # Fluid
 https://softologyblog.wordpress.com/2017/03/28/more-fun-with-lattice-boltzman-method-lbm-fluid-simulations/
 
-
 https://ivanludvig.github.io/blog/2021/04/09/sph-dropping-stl-model.html
+
+#
+https://flam3.com/index.html
 
 # JS
 https://ptsjs.org/
 *
 https://dynamicsjs.com/
-
-
-# Shader
-https://www.youtube.com/watch?v=DZRn_jNZjbw
-* https://news.ycombinator.com/item?id=27396634
-
-https://www.shadertoy.com/
-
-https://blog.tonari.no/shadergarden
-* https://news.ycombinator.com/item?id=28791148
-
-https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/GLSL_Shaders
-
-https://shaderfrog.com/app/
 
 # News
 https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac

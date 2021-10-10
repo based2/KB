@@ -14,12 +14,18 @@ https://thevaluable.dev/vim-expert/
 
 https://news.ycombinator.com/item?id=28737300
 
+https://jdhao.github.io/2021/07/11/from_vim_plug_to_packer/
+
 # Nano
 
 
 # Emacs - Elisp
+https://www.gnu.org/software/emacs/
+
 https://arxiv.org/abs/2004.02504
 * https://news.ycombinator.com/item?id=27011013
+
+https://prelude.emacsredux.com/en/latest/
 
 https://xenodium.com/emacs-smarter-search-and-replace/
 * https://lobste.rs/s/lrpbmh/emacs_smarter_search_replace
@@ -29,5 +35,7 @@ http://ergoemacs.org/emacs/modernization.html
 
 https://orgmode.org/Changes.html
 
+#
+http://acme.cat-v.org/
 
 

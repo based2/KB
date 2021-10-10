@@ -46,6 +46,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://en.wikipedia.org/wiki/Humic_substance
+https://www.noaa.gov/news/us-hit-with-18-billion-dollar-disasters-so-far-year
 https://en.wikipedia.org/wiki/The_Nature_Conservancy
 https://www.geekwire.com/2021/bezos-earth-fund-pledges-1b-conserve-land-sea-critical-areas-world/
 https://www.realcarbonindex.org/

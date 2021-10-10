@@ -84,6 +84,7 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 * https://news.ycombinator.com/item?id=28728138
 
 # News
+https://en.algorithmica.org/hpc/analyzing-performance/compilation/
 https://crypto.stanford.edu/~blynn/compiler/
 * https://news.ycombinator.com/item?id=28794614
 https://lwn.net/Articles/871960/ LLVM 13.0.0 released

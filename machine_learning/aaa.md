@@ -235,6 +235,10 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://sites.ualberta.ca/~szepesva/rlbook.html Algorithms of Reinforcement Learning
+https://medium.com/paypal-tech/using-machine-learning-to-improve-payment-authorization-rates-bc3b2cbf4999
+https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices
+https://nn.labml.ai/diffusion/ddpm/index.html
 http://hayatokobayashi.com/slides/ACL2014_Kobayashi_slides.pdf
 * https://en.wikipedia.org/wiki/Perplexity
 https://www.cs.cmu.edu/Groups/AI/0.html

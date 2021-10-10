@@ -23,7 +23,7 @@ https://www.widelands.org/
 
 # Emulator
 https://www.scummvm.org/
-
+* https://news.ycombinator.com/item?id=28812403
 
 # Images
 https://chezsoi.org/lucas/blog/pages/images-libres-de-droits.html

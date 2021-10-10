@@ -68,6 +68,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 * https://news.ycombinator.com/item?id=28006728
 
 # News
+https://uxdesign.cc/offboarding-saying-goodbye-with-grace-942cf010c223
+* https://news.ycombinator.com/item?id=28784935
 https://press.stripe.com/
 * https://news.ycombinator.com/item?id=28761235
 https://web.dev/building-a-switch-component/

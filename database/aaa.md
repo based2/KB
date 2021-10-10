@@ -58,6 +58,10 @@ https://blog.acolyer.org/2020/12/14/entity-resolution/
 * https://news.ycombinator.com/item?id=28127650
 
 # News
+https://news.ycombinator.com/item?id=28741292
+https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631
+* https://news.ycombinator.com/item?id=28811966
+https://dl.acm.org/doi/10.1145/3428279 Finding bugs in database systems via query partitioning
 https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/
 https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/
 * https://news.ycombinator.com/item?id=28761453

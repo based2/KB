@@ -60,9 +60,11 @@ https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20M
 
 https://www.wietzebeukema.nl/blog/windows-command-line-obfuscation
 
-
+# VS Code
 https://github.com/VSCodium/vscodium
 * https://github.com/VSCodium/vscodium/issues/418
+
+https://news.ycombinator.com/item?id=28812486
 
 ## Find file
        where /r .\ file_to_find.md
@@ -80,8 +82,14 @@ https://github.com/haileys/doslinux
 https://www.phoronix.com/scan.php?page=article&item=windows11-wsl2-good&num=1
 * https://news.ycombinator.com/item?id=28693974
 
+# 11
+https://github.com/valinet/ExplorerPatcher
+
 # News
+https://secret.club/2021/06/28/windows11-tpms.html
+*
 https://arstechnica.com/gadgets/2021/10/the-best-part-of-windows-11-is-a-revamped-windows-subsystem-for-linux/
+* https://news.ycombinator.com/item?id=28791106
 https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448
 * https://news.ycombinator.com/item?id=28639952
 https://docs.microsoft.com/en-us/lifecycle/products/windows-server-2022

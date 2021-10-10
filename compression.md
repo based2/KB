@@ -32,6 +32,7 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://github.com/sstadick/crabz rust
 https://github.com/madler/crcany
 https://github.com/pornin/paradox-compress
 * https://news.ycombinator.com/item?id=28736949

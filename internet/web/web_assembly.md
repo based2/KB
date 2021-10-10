@@ -67,6 +67,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   * https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://medium.com/@raphael.outhier/joys-of-porting-a-kernel-to-webassembly-5f0124e71080
+* https://news.ycombinator.com/item?id=28800915
 https://github.com/slipHQ/run-wasm
 https://medium.com/cyberbotics/porting-a-c-rendering-engine-to-webassembly-9c32d76c31f1
 https://thenewstack.io/webassembly-aims-to-eliminate-the-file-system/

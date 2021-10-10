@@ -20,6 +20,8 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://soupault.app/ Static website management tool
+* https://news.ycombinator.com/item?id=28812863
 https://discuss.ocaml.org/t/the-road-to-ocaml-5-0/8584
 * https://news.ycombinator.com/item?id=28785306
 * https://github.com/melange-re/melange

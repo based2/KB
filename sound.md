@@ -33,3 +33,5 @@ https://github.com/jaakkopasanen/AutoEq Automatic headphone equalization from fr
 * https://news.ycombinator.com/item?id=28799910
 
 https://thonyc.wordpress.com/2021/09/29/musical-mathematical-minim-marin-mersenne/
+
+https://alexcrist.github.io/scaler/

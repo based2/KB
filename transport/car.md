@@ -14,6 +14,10 @@ https://once-for-auto-driving.github.io/index.html
 https://news.ycombinator.com/item?id=27580744
 
 # News
+https://www.autoevolution.com/news/second-generation-toyota-mirai-reaches-845-miles-on-a-single-hydrogen-tank-171317.html
+* https://news.ycombinator.com/item?id=28810449
+https://trekhleb.dev/blog/2021/self-parking-car-evolution/
+* https://news.ycombinator.com/item?id=28811477
 https://github.com/barracuda-fsh/pyobd
 * https://news.ycombinator.com/item?id=28737043
 https://www.reuters.com/business/autos-transportation/san-francisco-raises-tesla-self-driving-safety-concerns-public-test-nears-2021-09-23/

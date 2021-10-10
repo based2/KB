@@ -27,8 +27,16 @@ https://openvisionapi.com/
 https://huggingface.co/spaces/akhaliq/PaddleOCR
 * https://news.ycombinator.com/item?id=28473496
 
+# Tables
 https://extract-table.com/
+
+https://news.ycombinator.com/item?id=28680136
+
+https://github.com/vegarsti/extract-table
 
 # QR
 https://huonw.github.io/blog/2021/09/qr-error-correction/
 * https://news.ycombinator.com/item?id=28677687
+
+# Object labelling
+https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera

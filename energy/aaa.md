@@ -12,6 +12,7 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.eia.gov/outlooks/ieo/
 https://www.primalsurvivor.net/living-off-grid-legal/
 * https://news.ycombinator.com/item?id=28806363
 https://www.wsj.com/articles/canada-embraces-nuclear-energy-expansion-to-lower-carbon-emissions-11614767403

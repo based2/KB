@@ -251,6 +251,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70
+* https://news.ycombinator.com/item?id=28816961 
 https://gpu.rocks/#/
 * https://news.ycombinator.com/item?id=28797182
 https://github.com/bopwerks/omnino

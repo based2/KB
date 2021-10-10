@@ -28,3 +28,5 @@ https://pupngo.dk/xwinflpy/xwoaf_rebuild.html
 https://cs3210.cc.gatech.edu/r/unix6.pdf A COMMENTARY ON THE SIXTH EDITION UNIX OPERATING SYSTEM
 * https://news.ycombinator.com/item?id=28537996
 
+https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen
+

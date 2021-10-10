@@ -277,6 +277,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://gill.net.in/posts/pic32-blink-led-rust/
+https://www.datadoghq.com/blog/engineering/introducing-glommio/
 https://www.youtube.com/watch?v=cuvp-e4ztC0 Rust, Wright's Law, and the Future of Low-Latency Systems
 * https://news.ycombinator.com/item?id=28800154
 https://amethyst.rs/posts/amethyst--starting-fresh

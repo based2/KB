@@ -72,8 +72,10 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://www.mersenne.org/
+https://news.ycombinator.com/item?id=28816143 Poincaré, Heisenberg, Gödel and the limits of scientific knowledge
 https://github.com/LaurentClaessens/mazhe/
-https://news.ycombinator.com/item?id=28804743
+https://news.ycombinator.com/item?id=28804743 Do Not Erase: Mathematicians and Their Chalkboards Photography Collection
 https://news.ycombinator.com/item?id=28785902 Understanding Shannon's Entropy metric for Information [pdf]
 https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/
 https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in

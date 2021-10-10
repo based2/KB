@@ -18,6 +18,10 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/
+* https://news.ycombinator.com/item?id=28813291
+https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10
+* https://news.ycombinator.com/item?id=28814469
 https://www.vice.com/en/article/93yx5y/documents-reveal-miami-mayors-struggle-to-make-the-city-a-bitcoin-utopia
 https://coinful.net/biggest-bitcoin-hacks-in-history/
 * https://news.ycombinator.com/item?id=28728567

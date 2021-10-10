@@ -197,7 +197,13 @@ https://www.micahlerner.com/2021/08/07/posh-a-data-aware-shell.html
 https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 * https://news.ycombinator.com/item?id=28128360
 
+# Terminal
+https://jsvine.github.io/intro-to-visidata/index.html
+* https://news.ycombinator.com/item?id=28802777
+
+
 # News
+
 https://yolkorbit.com/apache-spark-bucketing-and-partitioning/
 https://tech.marksblogg.com/roapi-rust-data-api.html
 * https://news.ycombinator.com/item?id=28798360

@@ -16,6 +16,8 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/
+* https://news.ycombinator.com/item?id=28816876
 https://www.thirtythreeforty.net/posts/2021/10/ti-calculator-innovation/
 * https://news.ycombinator.com/item?id=28779621
 https://github.com/alephsecurity/xnu-qemu-arm64 iOS on QEMU

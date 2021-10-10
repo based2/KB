@@ -7,12 +7,10 @@ https://www.techradar.com/news/openvpn-wireguard-googlevpn
 https://news.ycombinator.com/item?id=27095317
 * https://opnsense.org/
 
-
 https://github.com/sshuttle/sshuttle
 
 https://github.com/expressvpn/lightway-core
 * https://news.ycombinator.com/item?id=28137567
-
 
 https://blog.cloudflare.com/announcing-warp-for-linux-and-proxy-mode/
 * https://news.ycombinator.com/item?id=28276722
@@ -21,6 +19,7 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 * https://news.ycombinator.com/item?id=28382585
 
 # News
+https://mjtsai.com/blog/2021/10/08/the-business-of-vpns/
 https://therecord.media/academics-discover-hidden-layer-in-chinas-great-firewall/
 * https://news.ycombinator.com/item?id=28730263
 https://github.com/firezone/firezone

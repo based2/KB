@@ -45,6 +45,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 * https://news.ycombinator.com/item?id=27191908
 
 # News
+https://dataswamp.org/~solene/2021-10-09-openbsd-wireguard-exit.html
+* https://news.ycombinator.com/item?id=28817312
 https://github.com/InitWare/CGrpFS
 https://lists.freebsd.org/pipermail/freebsd-announce/2021-September/002060.html FreeBSD 11.4 end-of-life
 * https://news.ycombinator.com/item?id=28583034

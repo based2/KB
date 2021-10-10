@@ -9,6 +9,8 @@ https://leisurepurpose.wordpress.com/2020/03/24/weather/
 
 https://en.wikipedia.org/wiki/Solar_cycle
 
+https://openmeteo.substack.com/p/how-to-store-weather-forecast-data
+
 # Temperature
 https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearly-5-c
 

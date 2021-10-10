@@ -5,3 +5,5 @@ https://norswap.com/pubs/thesis.pdf
 
 https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html
 * https://news.ycombinator.com/item?id=28258945
+
+https://scattered-thoughts.net/writing/better-operator-precedence/

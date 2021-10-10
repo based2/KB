@@ -66,6 +66,9 @@ https://www.kadirilkimen.com/thepolarbear/
 https://ploopy.co/
 * https://news.ycombinator.com/item?id=28285427
 
+https://tinyprinter.club/
+* https://news.ycombinator.com/item?id=28815108
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 * https://news.ycombinator.com/item?id=27628101
@@ -94,6 +97,7 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=AMD-Radeon-GPUFORT
 http://www.orancollins.com:8109/microchip/ WIP
 * https://news.ycombinator.com/item?id=28737777
 https://github.com/gregtinkers/carspeed.py

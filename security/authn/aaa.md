@@ -34,6 +34,8 @@ https://borisreitman.medium.com/diffie-hellman-for-the-layman-7df6095011d9
 #
 https://gomakethings.com/api-authentication-with-vanilla-js/
 
+https://prezu.ca/post/2021-08-12-totp-2/ How does Google Authenticator work?
+
 # Google Zanzibar
 https://research.google/pubs/pub48190/
 * https://news.ycombinator.com/item?id=26980254

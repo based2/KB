@@ -86,6 +86,7 @@ http://opentaxsolver.sourceforge.net/
 * https://news.ycombinator.com/item?id=28760442
 
 # News
+https://www.youtube.com/watch?v=9AWeWkNhLnQ La Finance destructrice de démocratie ? Georges Ugeux
 https://edwardsnowden.substack.com/p/cbdcs
 * https://news.ycombinator.com/item?id=28806931
 https://news.ycombinator.com/item?id=28771006

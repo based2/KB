@@ -58,6 +58,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.debian.org/News/2021/20211009
+https://www.lesnumeriques.com/appli-logiciel/la-folle-histoire-de-mandrake-ou-comment-une-version-francaise-de-linux-aurait-pu-devenir-la-plus-populaire-du-monde-a169455.html
 https://asahilinux.org/2021/10/progress-report-september-2021/
 * https://news.ycombinator.com/item?id=28762744
 https://lakka.tv/articles/2021/10/03/lakka-3.5/

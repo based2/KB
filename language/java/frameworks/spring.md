@@ -28,6 +28,8 @@ https://blog.frankel.ch/annotation-free-spring/
 
 https://auth0.com/blog/spring-boot-logs-aggregation-and-monitoring-using-elk-stack/?utm_source=reddit&utm_medium=sc&utm_campaign=spring
 
+https://www.marcobehler.com/guides/spring-framework
+
 Spring native
 https://www.youtube.com/watch?v=TXyg6Nm4ZpQ
 

@@ -85,6 +85,8 @@ https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 
 https://datatracker.ietf.org/doc/html/rfc4086 Randomness Requirements for Security
 
+https://en.wikipedia.org/wiki/Mersenne_Twister
+
 # Antivirus
 https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
 * https://news.ycombinator.com/item?id=27509888

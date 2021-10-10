@@ -157,6 +157,12 @@ https://lisp-lang.org/
 https://janet-lang.org/
 
 # News
+https://sadh.life/post/builtins/
+* https://news.ycombinator.com/item?id=28819030
+https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6413406
+* https://news.ycombinator.com/item?id=28809559
+https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+* https://news.ycombinator.com/item?id=28797485
 https://www.unisonweb.org/docs/tour/
 https://github.com/pfusik/cito L. which can be translated automatically to C, C++, C#, Java, JavaScript, Python, Swift, TypeScript and OpenCL C
 * https://news.ycombinator.com/item?id=28805825

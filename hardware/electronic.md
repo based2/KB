@@ -4,3 +4,6 @@ https://electroagenda.com/en/a-summary-of-electronics/
 https://smd.yooneed.one/code2e4d.html
 
 https://www.instructables.com/Touch-Screen-Cable-Tracer/
+
+
+https://www.electronicdesign.com/technologies/communications/article/21798737/understanding-modern-digital-modulation-techniques

@@ -25,6 +25,8 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.caltech.edu/about/news/leonardo-the-bipedal-robot-can-ride-a-skateboard-and-walk-a-slackline
+* https://news.ycombinator.com/item?id=28802532
 https://spectrum.ieee.org/bipedal-drone-robot-caltech?utm_campaign=post-teaser&utm_content=itc8afe4
 * https://news.ycombinator.com/item?id=28779176
 https://twitter.com/schrep/status/1446143786891943942

@@ -34,7 +34,10 @@ https://domopi.eu/bitwarden_rs-devient-vaultwarden/
 https://www.mozilla.org/en-US/firefox/lockwise/
 * https://github.com/mozilla-lockwise
 
+https://keys.pub/
+* https://news.ycombinator.com/item?id=28815003
 
+https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
 https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en
