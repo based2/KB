@@ -143,8 +143,11 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
 # News
+https://bdon.org/blog/web-map-performance/
+* https://news.ycombinator.com/item?id=28833213
+https://news.ycombinator.com/item?id=28854959
+https://mail-archives.apache.org/mod_mbox/www-announce/202110.mbox/%3Cd00a015f-2b38-446b-df84-f764e118e3dd%40apache.org%3E
 https://storymaps.arcgis.com/stories/f07f6eb7a70c420f854d7f8c6a206253
-*
 https://ahstat.github.io/Topography/
 * https://news.ycombinator.com/item?id=28736512
 https://github.com/joewdavies/geoblender

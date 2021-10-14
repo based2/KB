@@ -100,6 +100,9 @@ https://github.com/bootrino/reactoxide
 * https://news.ycombinator.com/item?id=28702006
 
 https://blog.abdulqudus.com/progressive-web-apps-in-react-pwa-guide
+
+https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/
+* https://news.ycombinator.com/item?id=28836793
    
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
@@ -251,6 +254,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://parceljs.org/blog/v2/
+* https://news.ycombinator.com/item?id=28859083
+https://esbuild.github.io/
+* https://news.ycombinator.com/item?id=28860713
 https://dev.to/jaredcwhite/the-shocking-immaturity-of-javascript-c70
 * https://news.ycombinator.com/item?id=28816961 
 https://gpu.rocks/#/

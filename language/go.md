@@ -61,6 +61,8 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://tumregels.github.io/Network-Programming-with-Go/
+* https://news.ycombinator.com/item?id=28824996
 https://blog.khanacademy.org/where-go-and-graphql-collide-behind-the-curtain-with-genqlient/
 https://www.alexedwards.net/blog/which-go-router-should-i-use
 https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/

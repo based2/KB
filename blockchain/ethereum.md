@@ -13,6 +13,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 * https://news.ycombinator.com/item?id=28138161
 
 # News
+https://michaelgummelt.medium.com/crypto-services-are-neither-decentralized-nor-trustworthy-f43c0a19a400
+* https://news.ycombinator.com/item?id=28843893
 https://pumpmygas.xyz/
 https://blog.deversifi.com/23-7-million-dollar-ethereum-transaction-fee-post-mortem/
 * https://news.ycombinator.com/item?id=28686918

@@ -27,6 +27,9 @@ https://openvisionapi.com/
 https://huggingface.co/spaces/akhaliq/PaddleOCR
 * https://news.ycombinator.com/item?id=28473496
 
+https://huonw.github.io/blog/2021/10/nsw-covid-qr/
+* https://news.ycombinator.com/item?id=28845424
+
 # Tables
 https://extract-table.com/
 

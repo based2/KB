@@ -1,3 +1,19 @@
+https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/
+* https://news.ycombinator.com/item?id=28856203
+
+https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision
+* https://news.ycombinator.com/item?id=28844142
+
+https://gtfobins.github.io/
+* https://news.ycombinator.com/item?id=28849101
+
+https://www.bleepingcomputer.com/news/security/fontonlake-malware-infects-linux-systems-via-trojanized-utilities/
+
+https://www.nature.com/articles/s41467-021-25972-y
+* https://news.ycombinator.com/item?id=28826376
+
+https://github.com/git-artes/gr-tempest
+
 https://www.bbc.com/news/technology-58843162 Samsung apologises for Russian app download error
 
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773
@@ -86,6 +102,7 @@ https://thenewstack.io/the-strange-behaviors-of-facebooks-metastable-failures/
 https://metasecurity.com/cybersecurity-ecosystem/
 
 https://www.techspot.com/news/91322-millions-amd-pcs-affected-new-cpu-flaw-need.html
+* https://mlq.me/download/amdprefetch.pdf
 
 https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/
 * https://news.ycombinator.com/item?id=28736238

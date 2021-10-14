@@ -89,6 +89,14 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
   * https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://www.gerrishlegal.com/legal-blog/2020/4/7/reverse-engineering-when-can-users-lawfully-decompile-software
+https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=10200757
+https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf
+* https://news.ycombinator.com/item?id=28830328
+https://www.theregister.com/2021/10/11/data_guardian_police_bill/
+* https://news.ycombinator.com/item?id=28828348
+https://www.schneier.com/blog/archives/2021/10/the-european-parliament-voted-to-ban-remote-biometric-surveillance.html
+* https://news.ycombinator.com/item?id=28828621
 https://www.oo-software.com/en/shutup10 Free antispy tool for Windows 10 and 11
 * https://news.ycombinator.com/item?id=28809421
 https://themarkup.org/privacy/2021/10/07/help-us-find-the-apps-that-sell-your-location

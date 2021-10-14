@@ -37,6 +37,10 @@ https://www.brandons.me/blog/casual-parsing-javascript
 https://github.com/alshdavid/TypeScriptBC
 * https://news.ycombinator.com/item?id=28698168
 
+https://www.cstrnt.dev/blog/three-typescript-tricks
+* https://news.ycombinator.com/item?id=28837181
+* https://www.typescriptlang.org/docs/handbook/utility-types.html
+
 # Check
 https://www.sonarlint.org/
 https://lift.sonatype.com/

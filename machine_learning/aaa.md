@@ -53,6 +53,9 @@ https://arxiv.org/abs/2009.08378 Event-Based Backpropagation can compute Exact G
 
 https://github.com/neuronika/neuronika rust
 
+https://aegeorge42.github.io/
+* https://news.ycombinator.com/item?id=28806701
+
 # RL
 https://mchromiak.github.io/articles/2021/Jun/01/Decision-Transformer-Reinforcement-Learning-via-Sequence-Modeling-RL-as-sequence/
 * https://news.ycombinator.com/item?id=27659122
@@ -215,6 +218,9 @@ https://thegradient.pub/how-to-do-multi-task-learning-intelligently/
 https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence/
 * https://news.ycombinator.com/item?id=28746694
 
+https://arxiv.org/abs/2109.13916 Unsolved Problems in ML Safety
+* https://news.ycombinator.com/item?id=28809233
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 * https://news.ycombinator.com/item?id=27589582
@@ -230,11 +236,17 @@ https://github.com/fabsig/GPBoost
 https://eval.ai/
 * https://news.ycombinator.com/item?id=27625511
 
-
 # History
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://aclanthology.org/2021.naacl-main.185/
+* https://news.ycombinator.com/item?id=28837959
+https://github.com/NVlabs/stylegan3
+* https://news.ycombinator.com/item?id=28833213
+https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/
+* https://news.ycombinator.com/item?id=28827957
+https://discuss.pytorch.org/t/torch-mlir-bridging-pytorch-and-mlir-ecosystems/133151
 https://sites.ualberta.ca/~szepesva/rlbook.html Algorithms of Reinforcement Learning
 https://medium.com/paypal-tech/using-machine-learning-to-improve-payment-authorization-rates-bc3b2cbf4999
 https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-and-machine-learning-aiml-enabled-medical-devices

@@ -19,6 +19,10 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 * https://news.ycombinator.com/item?id=28382585
 
 # News
+https://restoreprivacy.com/kape-technologies-owns-expressvpn-cyberghost-pia-zenmate-vpn-review-sites/
+* https://news.ycombinator.com/item?id=28856235
+https://dustri.org/b/malwarebytes-privacy-vpn-is-mullvad-in-a-shady-trenchcoat.html
+* https://news.ycombinator.com/item?id=28827051
 https://mjtsai.com/blog/2021/10/08/the-business-of-vpns/
 https://therecord.media/academics-discover-hidden-layer-in-chinas-great-firewall/
 * https://news.ycombinator.com/item?id=28730263

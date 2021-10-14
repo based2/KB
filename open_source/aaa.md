@@ -168,6 +168,11 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://docs.mattermost.com/install/self-managed-changelog.html
+https://openuk.uk/stateofopen/
+* https://news.ycombinator.com/item?id=28854064
+https://github.com/fosscord/fosscord
+* https://news.ycombinator.com/item?id=28830640
 https://github.com/zachflower/awesome-open-source-supporters
 https://www.fdl-lef.org/
 https://www.librelogos.org/

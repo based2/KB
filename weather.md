@@ -11,6 +11,9 @@ https://en.wikipedia.org/wiki/Solar_cycle
 
 https://openmeteo.substack.com/p/how-to-store-weather-forecast-data
 
+https://weatherspark.com/map
+* https://news.ycombinator.com/item?id=28845089
+
 # Temperature
 https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearly-5-c
 

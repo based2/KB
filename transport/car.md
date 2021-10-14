@@ -14,6 +14,10 @@ https://once-for-auto-driving.github.io/index.html
 https://news.ycombinator.com/item?id=27580744
 
 # News
+https://www.michelin.com/innovation/concept-vision/airless/
+* https://news.ycombinator.com/item?id=28864862
+https://www.unite.ai/ai-predicts-accident-hot-spots-from-satellite-imagery-and-gps-data/
+* https://news.ycombinator.com/item?id=28850366
 https://www.autoevolution.com/news/second-generation-toyota-mirai-reaches-845-miles-on-a-single-hydrogen-tank-171317.html
 * https://news.ycombinator.com/item?id=28810449
 https://trekhleb.dev/blog/2021/self-parking-car-evolution/

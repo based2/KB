@@ -18,6 +18,16 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.numerama.com/tech/745612-bitcoin-ether-la-france-pourrait-modifier-la-fiscalite-des-cryptomonnaies.html
+https://www.reuters.com/business/g7-finance-officials-endorse-principles-central-bank-digital-currencies-2021-10-14/
+* https://news.ycombinator.com/item?id=28860808
+https://github.com/coinbase/digital-asset-policy-proposal
+* https://news.ycombinator.com/item?id=28868004
+https://castlecraig.co.uk/treatment/behavioral-addictions/bitcoin-addiction-treatment
+* https://news.ycombinator.com/item?id=28849544
+https://krebsonsecurity.com/2021/10/how-coinbase-phishers-steal-one-time-passwords/
+https://github.com/trottier/original-bitcoin/blob/master/src/uibase.cpp
+* https://news.ycombinator.com/item?id=28830211
 https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/
 * https://news.ycombinator.com/item?id=28813291
 https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10

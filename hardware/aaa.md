@@ -48,6 +48,7 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.youtube.com/watch?v=f0gMdGrVteI The Extreme Physics Pushing Moore’s Law to the Next Level
 https://www.imec-int.com/en/articles/mram-technologies-space-applications-unified-cache-memory
 * https://news.ycombinator.com/item?id=28771648
 https://loongson.github.io/LoongArch-Documentation/README-EN.html

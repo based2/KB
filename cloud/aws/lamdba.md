@@ -9,3 +9,6 @@ https://github.com/doctorray117/minecraft-ondemand
 
 https://aws.amazon.com/fr/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/
 * https://news.ycombinator.com/item?id=28700209
+
+https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1
+* https://news.ycombinator.com/item?id=28838716

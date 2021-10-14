@@ -31,5 +31,7 @@ https://principles.green/
 * https://news.ycombinator.com/item?id=28615321
 
 # News
+https://bravenewgeek.com/sre-doesnt-scale/
+* https://news.ycombinator.com/item?id=28825352
 https://danluu.com/in-house/
 * https://news.ycombinator.com/item?id=28691676

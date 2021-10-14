@@ -32,3 +32,6 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 # News
 ## Expiration
 https://news.ycombinator.com/item?id=27363813
+
+https://scotthelme.co.uk/should-clients-care-about-the-expiration-of-a-root-certificate/
+* https://news.ycombinator.com/item?id=28833309

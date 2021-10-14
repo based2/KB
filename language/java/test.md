@@ -20,6 +20,8 @@ https://github.com/goldmansachs/tablasco Adds table verification to your unit te
 
 https://github.com/gofabian/junit-fixture-extension
 
+https://reflectoring.io/assertj-lists/
+
 ## Mock
 https://maxxedev.github.io/2021/03/07/mocking-static-methods-and-constructors-with-mockito.html
 https://site.mockito.org/
@@ -84,6 +86,7 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 * https://www.reddit.com/r/java/comments/osht20/towards_continuous_performance_regression_testing/
 
 # News
+https://github.com/fuzzdbunit/fuzzdbunit
 https://blog.frankel.ch/reassessing-testng-junit/
 * https://www.reddit.com/r/java/comments/prayh5/reassessing_testng_vs_junit/
 https://www.reddit.com/r/java/comments/np59b3/testng_vs_junit_which_testing_framework_should/

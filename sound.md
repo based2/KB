@@ -35,3 +35,7 @@ https://github.com/jaakkopasanen/AutoEq Automatic headphone equalization from fr
 https://thonyc.wordpress.com/2021/09/29/musical-mathematical-minim-marin-mersenne/
 
 https://alexcrist.github.io/scaler/
+
+# Test
+https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
+* https://news.ycombinator.com/item?id=28855654

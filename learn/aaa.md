@@ -64,6 +64,8 @@ https://news.ycombinator.com/item?id=27577514
 http://play.elevatorsaga.com/
 http://web.eecs.umich.edu/~baveja/RLMasses/node2.html
 
+https://rsdacademy.net/
+
 # Meta
 https://metacognitive.me/memory-palace/
 * https://news.ycombinator.com/item?id=28640429
@@ -77,4 +79,8 @@ https://jvns.ca/blog/confusing-explanations/
 * https://news.ycombinator.com/item?id=28254630
 
 https://www.oecd-ilibrary.org/education/education-at-a-glance-2021_b35a14e5-en
+
+#
+https://adventuron.io/
+* https://news.ycombinator.com/item?id=28857494
 

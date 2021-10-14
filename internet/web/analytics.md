@@ -24,3 +24,7 @@ https://webkit.org/blog/11940/pcm-click-fraud-prevention-and-attribution-sent-to
 
 https://www.politicalorphans.com/something-weird-is-happening-on-facebook/
 * https://news.ycombinator.com/item?id=28674115
+
+# News
+https://sparktoro.com/blog/what-if-performance-advertising-is-just-an-analytics-scam/
+* https://news.ycombinator.com/item?id=28853915

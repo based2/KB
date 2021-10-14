@@ -52,6 +52,11 @@ http://math.andrej.com/2008/02/06/representations-of-uncomputable-and-uncountabl
 https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf
 * https://news.ycombinator.com/item?id=28704164
 
+https://github.com/rossant/awesome-math
+
+https://history-of-mathematics.org/
+* https://news.ycombinator.com/item?id=28846447
+
 # Geometry
 http://xperimex.com/blog/steiners-porism/
 * https://news.ycombinator.com/item?id=27741940
@@ -65,13 +70,16 @@ http://vihart.com/scutoids/
 https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html
 * https://news.ycombinator.com/item?id=28690298
 
-https://github.com/rossant/awesome-math
+https://valdes.cc/articles/ch.html
 
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
 # News
+https://github.com/Chakazul/Lenia
+https://amathr.org/software/
+* https://news.ycombinator.com/item?id=28822886
 https://www.mersenne.org/
 https://news.ycombinator.com/item?id=28816143 Poincaré, Heisenberg, Gödel and the limits of scientific knowledge
 https://github.com/LaurentClaessens/mazhe/

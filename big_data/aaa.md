@@ -203,7 +203,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 
 
 # News
-
+https://justindomke.wordpress.com/2021/10/11/confidence-games-1-2/
+* https://news.ycombinator.com/item?id=28830226
+https://noeldemartin.com/blog/interoperable-serendipity
+* https://news.ycombinator.com/item?id=28851076
+https://fugue-tutorials.readthedocs.io/en/latest/tutorials/fugue_sql/index.html
 https://yolkorbit.com/apache-spark-bucketing-and-partitioning/
 https://tech.marksblogg.com/roapi-rust-data-api.html
 * https://news.ycombinator.com/item?id=28798360

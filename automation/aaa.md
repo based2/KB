@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 * https://news.ycombinator.com/item?id=27510919
 
 # News
+https://macoy.me/blog/programming/InterfaceFriction
+* https://news.ycombinator.com/item?id=28847065
 https://www.sciencedirect.com/science/article/pii/S1877050921001393
 * https://news.ycombinator.com/item?id=28738024
 https://www.iasql.com/ Infrastructure as SQL

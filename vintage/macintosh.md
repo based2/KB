@@ -1,3 +1,5 @@
+https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf
+
 # Web
 https://beyondloom.com/tools/ditherpaint.html
 

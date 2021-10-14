@@ -1,3 +1,6 @@
+https://whichjdk.com/
+* https://news.ycombinator.com/item?id=28820601
+
 https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/
 * https://news.ycombinator.com/item?id=26662297
 
@@ -14,6 +17,11 @@ https://simply-how.com/getting-started-with-java-17
 https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html
 
 https://orgpad.com/o/AKle2rjO1OaaKyUkGun0kV?token=CLEHJ7_J5NlbuRwsL1FMfR Java Updates: 8 -> 17
+
+https://advancedweb.hu/new-language-features-since-java-8-to-17/
+
+https://evacchi.github.io/java/records/jbang/2021/10/12/learn-you-an-actor-system-java-17-switch-expressions.html
+* 
 
 # 16
 https://www.azul.com/67-new-features-in-jdk-16/

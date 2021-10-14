@@ -20,6 +20,8 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://kcsrk.info/ocaml/multicore/2015/05/20/effects-multicore/
+* https://news.ycombinator.com/item?id=28838099
 https://soupault.app/ Static website management tool
 * https://news.ycombinator.com/item?id=28812863
 https://discuss.ocaml.org/t/the-road-to-ocaml-5-0/8584

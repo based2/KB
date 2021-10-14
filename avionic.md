@@ -15,3 +15,8 @@ https://faadronezone.faa.gov/#/
 
 #
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
+
+
+# News
+https://eandt.theiet.org/content/articles/2021/10/solar-powered-aircraft-flown-for-nearly-three-weeks-without-landing/
+* https://news.ycombinator.com/item?id=28829668

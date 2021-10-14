@@ -15,6 +15,9 @@ https://www.zverovich.net/2021/06/16/safe-formatting-api.html
 https://mewo2.com/notes/markov-history/
 * https://news.ycombinator.com/item?id=28658297
 
+https://github.com/apankrat/notes/tree/master/fast-case-conversion
+* https://news.ycombinator.com/item?id=28854808
+
 # Search
 ## Boyer-Moore Fast String Searching Algorithm
 https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/

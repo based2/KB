@@ -197,6 +197,9 @@ https://www.snellman.net/blog/archive/2021-07-21-monorepo-atomic/
 https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-monorepo/
 * https://news.ycombinator.com/item?id=28220113
 
+https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/
+* https://news.ycombinator.com/item?id=28845570
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 

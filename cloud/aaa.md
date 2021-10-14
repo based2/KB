@@ -19,6 +19,12 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://status.jumpcloud.com/
+https://moonhome.io/
+* https://news.ycombinator.com/item?id=28846074
+https://www.serverless.com//cloud
+* https://news.ycombinator.com/item?id=28855484
+https://www.tbray.org/ongoing/When/202x/2021/10/08/The-WOrst-Case
 https://www.swyx.io/cloudflare-go/
 https://www.rowy.io/ gcp airtable
 * https://news.ycombinator.com/item?id=28758598

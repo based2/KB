@@ -87,6 +87,8 @@ https://datatracker.ietf.org/doc/html/rfc4086 Randomness Requirements for Securi
 
 https://en.wikipedia.org/wiki/Mersenne_Twister
 
+https://www.researchgate.net/publication/304258841_Comparison_of_different_entropy_measures
+
 # Antivirus
 https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
 * https://news.ycombinator.com/item?id=27509888

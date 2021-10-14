@@ -17,6 +17,8 @@ https://dither8.xyz/blog/img-future/
 * https://news.ycombinator.com/item?id=28219972
 
 # News
+https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html
+* https://news.ycombinator.com/item?id=28831347
 https://github.com/johnkerl/miller
 * https://news.ycombinator.com/item?id=28298729
 https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg/edit#heading=h.8crpi5305nr Flutter vector

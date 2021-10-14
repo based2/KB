@@ -25,6 +25,13 @@ https://kernelpanic.life/software/high-availability-with-openbgpd-on-openbsd.htm
 
 https://webzine.puffy.cafe/
 
+https://briancallahan.net/blog/20211010.html
+* https://news.ycombinator.com/item?id=28825705
+
+## News
+https://www.openbsd.org/70.html
+* https://news.ycombinator.com/item?id=28862439
+
 # FreeBSD
 https://www.freebsd.org/status/report-2021-01-2021-03/
 * https://news.ycombinator.com/item?id=27060326
@@ -39,6 +46,9 @@ https://hellosystem.github.io/docs/
 
 https://2019.eurobsdcon.org/slides/NUMA%20Optimizations%20in%20the%20FreeBSD%20Network%20Stack%20-%20Drew%20Gallatin.pdf
 * https://news.ycombinator.com/item?id=28786674
+
+https://meka.rs/blog/2021/10/12/freebsd-audio/
+* https://news.ycombinator.com/item?id=28850513
 
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released

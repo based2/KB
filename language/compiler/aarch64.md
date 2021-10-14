@@ -21,3 +21,8 @@ https://www.collabora.com/news-and-blog/news-and-events/reverse-engineering-the-
 https://www.nature.com/articles/s41586-021-03625-w PlasticARM system architecture
 
 https://kevwe.se/blog/cross-compiling-for-arm-on-debian
+
+https://blog.llvm.org/posts/2021-10-01-generating-relocatable-code-for-arm-processors/
+
+https://interrupt.memfault.com/blog/memcpy-newlib-nano
+* https://news.ycombinator.com/item?id=28843047

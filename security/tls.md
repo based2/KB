@@ -109,6 +109,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 * https://news.ycombinator.com/item?id=15164568
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCTLetsUsMeasureCAUsage
+* https://news.ycombinator.com/item?id=28824706
 https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/2804293/avoid-dangers-of-wildcard-tls-certificates-the-alpaca-technique/
 https://scotthelme.co.uk/lets-encrypt-root-expiration-post-mortem/
 https://news.ycombinator.com/item?id=28736553

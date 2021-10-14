@@ -155,8 +155,19 @@ https://lisp-lang.org/
 * https://news.ycombinator.com/item?id=28725958
 
 https://janet-lang.org/
+https://news.ycombinator.com/item?id=28850861
+
+https://github.com/azzamsa/awesome-lisp-companies
+* https://news.ycombinator.com/item?id=28830677
+
+https://github.com/baku89/glisp
+* https://news.ycombinator.com/item?id=28820230
+
+https://news.ycombinator.com/item?id=28845971 macro
 
 # News
+https://github.com/SenegalLang/Senegal
+* https://news.ycombinator.com/item?id=28821750
 https://sadh.life/post/builtins/
 * https://news.ycombinator.com/item?id=28819030
 https://curia.europa.eu/juris/document/document.jsf?text=&docid=247056&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=6413406

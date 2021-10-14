@@ -46,6 +46,10 @@ https://www.epicompany.eu/
 https://som.yale.edu/sites/default/files/files/II__metrick-schmelzing%2C%20body%20-%209-7.pdf
 * https://news.ycombinator.com/item?id=28718703
 
+https://fsi.taxjustice.net/en/
+
+https://www.oecd.org/countries/monaco/list-of-unco-operative-tax-havens.htm
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 * https://news.ycombinator.com/item?id=27763965

@@ -87,6 +87,7 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://www.eso.org/public/news/eso2011/
 https://phys.org/news/2021-08-sights-venus-flyby.html
 https://www.independent.co.uk/life-style/gadgets-and-tech/apple-founder-wozniak-space-debris-company-b1919747.html
 * https://news.ycombinator.com/item?id=28523946

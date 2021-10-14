@@ -167,6 +167,10 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html
+* https://news.ycombinator.com/item?id=28850036
+https://pythonwheels.com/
+* https://news.ycombinator.com/item?id=28828051
 https://rogulski.it/blog/sqlalchemy-14-async-orm-with-fastapi/
 https://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/
 https://jfrog.com/blog/23andmes-yamale-python-code-injection-and-properly-sanitizing-eval/

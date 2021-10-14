@@ -69,6 +69,9 @@ https://ploopy.co/
 https://tinyprinter.club/
 * https://news.ycombinator.com/item?id=28815108
 
+https://opensourceecology.dozuki.com/c/LifeTrac
+* https://news.ycombinator.com/item?id=28827785
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 * https://news.ycombinator.com/item?id=27628101

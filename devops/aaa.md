@@ -90,10 +90,15 @@ https://news.ycombinator.com/item?id=26872904
 
 https://github.com/lesfurets/git-octopus
 
+https://github.com/ovotech/gitoops/blob/main/docs/blog.md
+* 
+
 # History
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://www.cobaltrobotics.com/premortems-and-postmortems/
+* https://news.ycombinator.com/item?id=28854598
 https://github.com/Flagsmith/flagsmith
 * https://news.ycombinator.com/item?id=28785788
 https://thenewstack.io/sigstore-code-signing-for-software-supply-chain-security/

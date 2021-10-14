@@ -134,6 +134,8 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 https://github.com/jie123108/imgsmlr-server
 
 # News
+https://stackgres.io/
+* https://news.ycombinator.com/item?id=28865432
 https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/
 * https://news.ycombinator.com/item?id=28758162
 https://explain.depesz.com/

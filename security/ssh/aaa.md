@@ -76,6 +76,10 @@ https://github.com/ssh-mitm/ssh-mitm
 # GPG SSH
 https://blog.dijit.sh//gpg-ssh-notes-for-current-best-practices
 
+# Management
+https://github.com/maxgoedjen/secretive Storing and managing SSH keys in the Secure Enclave
+* https://news.ycombinator.com/item?id=28853329
+
 #
 https://www.thedigitalcatonline.com/blog/2021/06/03/public-key-cryptography-openssh-private-keys/
 https://en.wikipedia.org/wiki/SSHFP_record

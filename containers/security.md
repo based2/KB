@@ -1,5 +1,8 @@
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf
 
+https://sysdig.com/blog/container-security-best-practices/
+* https://news.ycombinator.com/item?id=28854478
+
 https://github.com/arminc/clair-scanner
 
 https://github.com/wsargent/docker-cheat-sheet#security-tips

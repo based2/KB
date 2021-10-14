@@ -75,6 +75,10 @@ https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics
 https://arxiv.org/abs/2109.14520 Improving DRAM Performance, Security, and Reliability by Understanding and Exploiting DRAM Timing Parameter Margins
 * https://news.ycombinator.com/item?id=28741279
 
+## HPC
+https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
+* https://news.ycombinator.com/item?id=28849854
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 * https://news.ycombinator.com/item?id=28747421
@@ -85,6 +89,8 @@ https://www.markhansen.co.nz/profiler-uis/
 
 https://www.polarsignals.com/blog/posts/2021/10/08/introducing-parca-we-got-funded/
 * https://news.ycombinator.com/item?id=28800758
+
+https://granulate.io/introduction-to-continuous-profiling/
 
 # Microservice
 https://microservices.io/patterns/

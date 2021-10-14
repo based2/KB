@@ -71,6 +71,8 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://seriot.ch/projects/parsing_json.html
+* https://news.ycombinator.com/item?id=28826600
 https://github.com/i5ik/weird-json
 https://lemire.me/blog/2021/09/25/new-release-of-the-simdjson-library-version-1-0/
 * https://www.youtube.com/watch?v=wlvKAT7SZIQ Parsing JSON Really Quickly: Lessons Learned

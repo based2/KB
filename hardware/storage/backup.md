@@ -22,3 +22,8 @@ https://blog.benjojo.co.uk/post/imaging-mounted-disk-volumes-live
 https://borgbackup.readthedocs.io/en/stable/#what-is-borgbackup
 
 https://flathub.org/apps/details/org.gnome.World.PikaBackup
+
+https://syncthing.net/
+* https://news.ycombinator.com/item?id=28859521
+
+https://adminblog.foucry.net/posts/info/sauvegarde-simple/

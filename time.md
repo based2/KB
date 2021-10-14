@@ -59,6 +59,9 @@ https://prabros.com/readings-on-time Alan Key
 
 https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a
 
+https://qwerty.dev/calendar-generator/ md
+* https://news.ycombinator.com/item?id=28854701
+
 
 https://www.nirsoft.net/utils/run_as_date.html
 * https://news.ycombinator.com/item?id=28106793
@@ -148,6 +151,9 @@ https://japantoday.com/category/features/lifestyle/the-%27wadokei%27-the-old-way
 
 https://aransentin.github.io/roman_calendar/
 * https://news.ycombinator.com/item?id=28659873
+
+https://bibliodyssey.blogspot.com/2010/04/time-after-time.html
+* https://news.ycombinator.com/item?id=28848096
 
 # News
 https://mm.icann.org/pipermail/tz/2021-September/030400.html Preparing to fork tzdb
