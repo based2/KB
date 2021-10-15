@@ -103,3 +103,5 @@ http://defoe.sourceforge.net/folio/knuth-plass.html
 * https://news.ycombinator.com/item?id=28537923
 
 https://users.cecs.anu.edu.au/~Peter.Christen/publications/tr-cs-06-02.pdf TR-CS-06-02 A Comparison of Personal Name Matching: Techniques and Practical Issues
+
+https://github.com/minimaxir/big-list-of-naughty-strings

@@ -134,6 +134,10 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 https://github.com/jie123108/imgsmlr-server
 
 # News
+https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/
+* https://news.ycombinator.com/item?id=28873779
+https://www.migops.com/blog/2021/10/14/stored-procedure-out-parameters-in-postgresql-14/
+* https://news.ycombinator.com/item?id=28878918
 https://stackgres.io/
 * https://news.ycombinator.com/item?id=28865432
 https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/

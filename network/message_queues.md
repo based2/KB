@@ -33,6 +33,8 @@ https://granulate.io/optimizing-kafka-performance/
 https://github.com/provectus/kafka-ui
 * https://news.ycombinator.com/item?id=28718066
 
+https://segment.com/blog/topicctl-v1/
+
 # MQTT
 https://github.com/eclipse/mosquitto C Python
 * https://news.ycombinator.com/item?id=28695346

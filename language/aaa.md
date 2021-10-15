@@ -166,6 +166,8 @@ https://github.com/baku89/glisp
 https://news.ycombinator.com/item?id=28845971 macro
 
 # News
+https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf
+* https://news.ycombinator.com/item?id=28859449
 https://github.com/SenegalLang/Senegal
 * https://news.ycombinator.com/item?id=28821750
 https://sadh.life/post/builtins/

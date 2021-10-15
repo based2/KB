@@ -27,6 +27,7 @@ https://blog.zwindler.fr/2021/09/20/import-manuel-de-records-dns-route53-avec-te
 https://github.com/im2nguyen/rover
 
 # News
+https://arivictor.medium.com/5-terraform-project-pattern-progressions-monolithic-to-microservice-ccfe0c5df95a
 https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f
 * https://news.ycombinator.com/item?id=28777997
 https://github.com/im2nguyen/rover

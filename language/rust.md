@@ -280,6 +280,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://serde.rs/
+* https://news.ycombinator.com/item?id=28869970
 https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html
 * https://news.ycombinator.com/item?id=28848858
 https://codeandbitters.com/published-crate-analysis/

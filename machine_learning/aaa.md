@@ -240,6 +240,14 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://github.com/AnotherSamWilson/miceforest
+https://jott.live/markdown/as_strided
+https://theorangeduck.com/page/encoding-events-neural-networks
+https://arxiv.org/abs/2110.06169 Offline Reinforcement Learning with Implicit Q-Learning
+https://www.unite.ai/deepfaked-voice-enabled-35-million-bank-heist-in-2020/
+* https://news.ycombinator.com/item?id=28875636
+https://arxiv.org/abs/2110.07579 Diffusion Normalizing Flow
+* https://news.ycombinator.com/item?id=28877373
 https://aclanthology.org/2021.naacl-main.185/
 * https://news.ycombinator.com/item?id=28837959
 https://github.com/NVlabs/stylegan3

@@ -61,6 +61,8 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://kyoto.codes/ UI
+* https://news.ycombinator.com/item?id=28862611
 https://tumregels.github.io/Network-Programming-with-Go/
 * https://news.ycombinator.com/item?id=28824996
 https://blog.khanacademy.org/where-go-and-graphql-collide-behind-the-curtain-with-genqlient/

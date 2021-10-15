@@ -97,6 +97,7 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://blog.argoproj.io/argo-rollouts-v1-1-fef8611a9034
 https://www.cobaltrobotics.com/premortems-and-postmortems/
 * https://news.ycombinator.com/item?id=28854598
 https://github.com/Flagsmith/flagsmith

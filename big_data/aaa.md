@@ -203,6 +203,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 
 
 # News
+https://github.com/finos/perspective/
+https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/
 https://justindomke.wordpress.com/2021/10/11/confidence-games-1-2/
 * https://news.ycombinator.com/item?id=28830226
 https://noeldemartin.com/blog/interoperable-serendipity

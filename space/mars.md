@@ -18,6 +18,7 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 
 https://mashable.com/article/mars-nasa-earthquakes
 
-
+# News
+https://www.nasa.gov/image-feature/jpl/once-in-a-blue-dune
 https://arstechnica.com/science/2021/10/the-first-arab-mission-to-mars-is-delivering-some-interesting-science/
 * https://news.ycombinator.com/item?id=28828932

@@ -254,6 +254,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html
+https://openjsf.org/blog/2021/10/07/deprecation-of-jquery-mobile/
+https://v8.dev/blog/v8-release-96
+* https://news.ycombinator.com/item?id=28875578
+https://codecrumbs.io/library/most-popular-mistake-webpack
+* 
 https://parceljs.org/blog/v2/
 * https://news.ycombinator.com/item?id=28859083
 https://esbuild.github.io/

@@ -5,3 +5,6 @@ https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
 
 https://abhigamez.hashnode.dev/understanding-cors
 * https://www.reddit.com/r/javascript/comments/p6mbpq/understanding_common_errors_caused_by_cors/
+
+https://jakearchibald.com/2021/cors/
+* https://news.ycombinator.com/item?id=28861944

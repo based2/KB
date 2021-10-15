@@ -34,7 +34,10 @@ https://mnemic.readthedocs.io/en/main/index.html
 
 https://snarky.ca/unravelling-the-async-with-statement/
 
-# Vuild
+https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/
+* 
+
+# Build
 https://github.com/mesonbuild/meson
 
 https://gms.tf/the-rise-of-meson.html
@@ -167,6 +170,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://pythonspeed.com/articles/conda-vs-pip/
+* https://news.ycombinator.com/item?id=28879840
+https://www.psycopg.org/articles/2021/10/13/psycopg-30-released/
 https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html
 * https://news.ycombinator.com/item?id=28850036
 https://pythonwheels.com/

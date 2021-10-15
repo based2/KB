@@ -44,14 +44,14 @@ https://factorio.com/blog/post/fff-366
 https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests-60ce8f93fa15
 * https://news.ycombinator.com/item?id=27642296
 
+https://chanind.github.io/2021/10/11/self-optimizing-ab-tests.html
+* https://news.ycombinator.com/item?id=28829456
+
 #
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
 * https://news.ycombinator.com/item?id=27923631
 
 https://www.neuraxio.com/blogs/news/how-to-unit-test-machine-learning-code
-
-# Distributed
-https://github.com/tylertreat/comcast
 
 # Perf
 https://www.uninformativ.de/blog/postings/2021-08-19/0/POSTING-en.html
@@ -75,5 +75,4 @@ http://christophermeiklejohn.com/filibuster/2021/10/02/filibuster-1.html
 
 https://github.com/GoogleChromeLabs/chromium-bidi
 
-https://chanind.github.io/2021/10/11/self-optimizing-ab-tests.html
-* https://news.ycombinator.com/item?id=28829456
+# UI

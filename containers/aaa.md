@@ -32,6 +32,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.nomadproject.io/docs/nomad-vs-kubernetes
+* https://news.ycombinator.com/item?id=28875764
 https://crlf.link/log/entries/211008-1/
 * https://news.ycombinator.com/item?id=28801119
 https://github.com/wimpysworld/quickemu Quickly create and run optimised Win-10,11/macOS/Linux on Linux

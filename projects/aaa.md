@@ -163,6 +163,8 @@ https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887
 
 # News
+https://doriantaylor.com/agile-as-trauma
+* https://news.ycombinator.com/item?id=28877745
 https://pulseasync.com/operators/remote-team-alignment/
 * https://news.ycombinator.com/item?id=28785080
 https://medium.com/levelshealth/how-we-work-without-meetings-at-levels-a6a525e21aa5

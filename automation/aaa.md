@@ -22,6 +22,7 @@ https://cuelang.org/docs/about/
 * https://news.ycombinator.com/item?id=27510919
 
 # News
+https://www.zdnet.com/article/triggermesh-cloud-native-automation-goes-open-source/
 https://macoy.me/blog/programming/InterfaceFriction
 * https://news.ycombinator.com/item?id=28847065
 https://www.sciencedirect.com/science/article/pii/S1877050921001393

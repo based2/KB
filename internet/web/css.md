@@ -161,6 +161,7 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/
 https://www.bryanbraun.com/after-dark-css/
 * https://news.ycombinator.com/item?id=28806699
 https://javascript.plainenglish.io/improve-rendering-performance-with-the-new-css-content-visibility-property-7e0c9b425b58

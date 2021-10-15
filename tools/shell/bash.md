@@ -51,3 +51,5 @@ https://arstechnica.com/gadgets/2021/09/command-line-wizardry-part-two-variables
 
 https://gitlab.com/slackermedia/bashcrawl
 * https://news.ycombinator.com/item?id=28819387
+
+https://write.as/helpermethod/testing-bash-completions

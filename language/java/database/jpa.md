@@ -48,6 +48,7 @@ https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 
 # News
+https://vladmihalcea.com/jpa-hibernate-second-level-cache/
 https://vladmihalcea.com/eight-years-of-blogging/
 * https://www.reddit.com/r/java/comments/pye6q1/my_8_year_journey_of_blogging_about_java_and_sql/
 * https://vladmihalcea.com/hibernate-multiplebagfetchexception/

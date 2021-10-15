@@ -1,3 +1,11 @@
+https://www.theregister.com/2021/10/14/lantenna_ethernet_cable_rf_emissions/
+* https://news.ycombinator.com/item?id=28862387
+
+https://www.controlglobal.com/blogs/unfettered/do-the-chinese-own-our-electric-grids-and-other-infrastructures/
+
+https://jetpack.com/2021/10/14/multiple-vulnerabilities-in-wp-fastest-cache-plugin/
+* https://news.ycombinator.com/item?id=28873316
+
 https://www.bleepingcomputer.com/news/apple/apple-silently-fixes-ios-zero-day-asks-bug-reporter-to-keep-quiet/
 * https://news.ycombinator.com/item?id=28856203
 

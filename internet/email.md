@@ -43,6 +43,9 @@ https://www.praetorian.com/blog/email-security/
 ## STARTTLS
 https://sendgrid.com/blog/what-is-starttls/
 
+https://www.usenix.org/conference/usenixsecurity21/presentation/poddebniak
+Why TLS is better without STARTTLS: A Security Analysis of STARTTLS in the Email Context
+
 # Interop
 ## .eml attachment - Microsoft Outlook
 https://www.loc.gov/preservation/digital/formats/fdd/fdd000388.shtml#specs

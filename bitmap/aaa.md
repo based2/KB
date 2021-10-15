@@ -55,3 +55,6 @@ https://github.com/robhagemans/hoard-of-bitfonts
 
 # Icon
 
+# DPI
+https://sebastien-gabriel.com/designers-guide-to-dpi/
+

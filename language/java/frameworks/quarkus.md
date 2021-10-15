@@ -12,3 +12,5 @@ https://quarkus.io/blog/quarkus-2-0-0-final-released/
 https://blog.kie.org/2021/09/kogito-api-incubation.html
 
 https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-native-java.html
+
+https://piotrminkowski.com/2021/10/12/quarkus-tips-tricks-and-techniques/

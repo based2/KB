@@ -58,6 +58,7 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.mageialinux-online.org/mlo/
 https://ubuntu.com/blog/ubuntu-21-10-has-landed
 * https://news.ycombinator.com/item?id=28864458
 https://www.qubes-os.org/news/2021/10/08/reproducible-builds-for-debian-a-big-step-forward/
