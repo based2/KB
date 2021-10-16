@@ -280,6 +280,7 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://old.reddit.com/r/metapcj/comments/8uz5hi/self_meta_jerk_in_fact_rust_structs_are_just/
 https://serde.rs/
 * https://news.ycombinator.com/item?id=28869970
 https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html

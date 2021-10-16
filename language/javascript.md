@@ -116,6 +116,8 @@ https://www.ngxs.io/
 
 https://javascript.plainenglish.io/angular-12-in-depth-7741e759c72?gi=22d9a899822e
 
+https://jaxenter.com/angular-elements-tutorial-162932.html
+
 # Elm
 https://elm-pages.com/blog/introducing-v2/
 * https://news.ycombinator.com/item?id=28057494

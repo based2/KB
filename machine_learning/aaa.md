@@ -240,6 +240,8 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://eprint.iacr.org/2021/287 A Deeper Look at Machine Learning-Based Cryptanalysis
+https://thesmartrobot.github.io/2021/08/26/thousand-brains.html
 https://github.com/AnotherSamWilson/miceforest
 https://jott.live/markdown/as_strided
 https://theorangeduck.com/page/encoding-events-neural-networks

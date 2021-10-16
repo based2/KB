@@ -66,6 +66,9 @@ http://web.eecs.umich.edu/~baveja/RLMasses/node2.html
 
 https://rsdacademy.net/
 
+https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/
+* https://news.ycombinator.com/item?id=28885313
+
 # Meta
 https://metacognitive.me/memory-palace/
 * https://news.ycombinator.com/item?id=28640429

@@ -221,6 +221,7 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://gitexplorer.com/
 https://blog.stephane-robert.info/post/gitlab-pipeline-dynamique/
 https://graphite.dev/blog/post/y6ysWaplagKc8YEFzYfr
 * https://news.ycombinator.com/item?id=28787335

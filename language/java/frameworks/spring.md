@@ -36,3 +36,5 @@ https://www.youtube.com/watch?v=TXyg6Nm4ZpQ
 https://www.infoq.com/news/2021/09/spring-6-spring-boot-3-overhaul/
 
 https://blog.frankel.ch/multiple-ways-configure-spring/
+
+https://www.sivalabs.in/2021/08/get-super-productive-with-intellij-file-templates/

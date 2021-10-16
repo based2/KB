@@ -92,6 +92,9 @@ https://sambernheim.com/#/blog/monads-are-monoids-in-the-category-of-endofunctor
 
 http://patryshev.com/monad/m-intro.html
 
+https://functional-algorithms-verified.org/
+* https://news.ycombinator.com/item?id=28884229
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 * https://news.ycombinator.com/item?id=27458721
@@ -165,7 +168,11 @@ https://github.com/baku89/glisp
 
 https://news.ycombinator.com/item?id=28845971 macro
 
+https://github.com/carp-lang/Carp
+* https://github.com/carp-lang/Carp
+
 # News
+https://refactoring.guru/design-patterns
 https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf
 * https://news.ycombinator.com/item?id=28859449
 https://github.com/SenegalLang/Senegal

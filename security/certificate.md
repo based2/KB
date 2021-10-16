@@ -30,7 +30,9 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 * https://news.ycombinator.com/item?id=28244246
 
 # News
+https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f
 ## Expiration
+https://blog.code.horse/posts/2021-10-13-caskading-failures/
 https://news.ycombinator.com/item?id=27363813
 
 https://scotthelme.co.uk/should-clients-care-about-the-expiration-of-a-root-certificate/

@@ -89,6 +89,7 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://en.wikipedia.org/wiki/Recursive_Internetwork_Architecture
 https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking
 https://louwrentius.com/raspberry-pi-as-a-router-using-a-single-network-interface.html
 * https://news.ycombinator.com/item?id=28696845

@@ -1,4 +1,9 @@
 https://www.theregister.com/2021/10/14/lantenna_ethernet_cable_rf_emissions/
+
+https://sandlab.cs.uchicago.edu/jammer/
+* https://news.ycombinator.com/item?id=28885739
+
+https://www.theregister.com/2021/10/14/lantenna_ethernet_cable_rf_emissions/
 * https://news.ycombinator.com/item?id=28862387
 
 https://www.controlglobal.com/blogs/unfettered/do-the-chinese-own-our-electric-grids-and-other-infrastructures/

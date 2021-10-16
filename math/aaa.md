@@ -76,6 +76,8 @@ https://valdes.cc/articles/ch.html
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
 
+https://www.sekinoworld.com/fractal/
+
 # News
 https://github.com/Chakazul/Lenia
 https://amathr.org/software/

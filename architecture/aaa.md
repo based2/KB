@@ -75,6 +75,8 @@ https://stackoverflow.blog/2020/07/08/improving-performance-with-simd-intrinsics
 https://arxiv.org/abs/2109.14520 Improving DRAM Performance, Security, and Reliability by Understanding and Exploiting DRAM Timing Parameter Margins
 * https://news.ycombinator.com/item?id=28741279
 
+https://pkolaczk.github.io/overhead-of-optional/ java rust optional null
+
 ## HPC
 https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 * https://news.ycombinator.com/item?id=28849854

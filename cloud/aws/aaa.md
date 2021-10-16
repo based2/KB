@@ -41,4 +41,7 @@ https://santiagoq.medium.com/mlops-in-aws-927e5bc78f6b
 https://github.com/localstack/localstack
 
 
+https://aws.amazon.com/blogs/developer/how-we-halved-the-publish-size-of-modular-aws-sdk-for-javascript-clients/
+
+
 

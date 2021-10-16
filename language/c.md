@@ -65,3 +65,7 @@ https://www.teamten.com/lawrence/programming/dont-write-bugs.html
 
 https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyering-Goodbye World
 * https://lobste.rs/s/xlxw3u/goodbye_world_2011
+
+# News
+http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2851.pdf
+* https://news.ycombinator.com/item?id=28861672

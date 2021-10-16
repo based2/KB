@@ -85,6 +85,9 @@ https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 
 https://datatracker.ietf.org/doc/html/rfc4086 Randomness Requirements for Security
 
+https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/
+* https://news.ycombinator.com/item?id=28886698
+
 https://en.wikipedia.org/wiki/Mersenne_Twister
 
 https://www.researchgate.net/publication/304258841_Comparison_of_different_entropy_measures

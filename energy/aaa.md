@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://polymerist.substack.com/p/oil-companies-placing-big-bets-on
+* https://news.ycombinator.com/item?id=28884471
 https://www.eia.gov/outlooks/ieo/
 https://www.primalsurvivor.net/living-off-grid-legal/
 * https://news.ycombinator.com/item?id=28806363

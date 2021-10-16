@@ -210,6 +210,8 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://manifold.systems/
+* https://www.reddit.com/r/java/comments/q97el0/manifold_is_a_java_compiler_plugin_its_features/
 https://inside.java/2021/10/12/panama-scope-dependencies/
 https://ge0ffrey.github.io/ge0ffrey-presentations/cornerCaseCheatSheet/cheatSheetJava.html text
 http://phrack.org/issues/70/7.html#article Twenty years of Escaping the Java Sandbox
