@@ -43,5 +43,7 @@ https://github.com/localstack/localstack
 
 https://aws.amazon.com/blogs/developer/how-we-halved-the-publish-size-of-modular-aws-sdk-for-javascript-clients/
 
+https://www.ballpointcarrot.net/posts/rust-arm-lambdas/
+
 
 

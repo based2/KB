@@ -1,0 +1,1 @@
+https://blog.jooq.org/use-joo%ce%bbs-sneaky-throw-to-avoid-checked-exceptions/

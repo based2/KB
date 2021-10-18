@@ -74,6 +74,8 @@ https://richardhanania.substack.com/p/futarchy-robin-hanson-on-how-prediction
 
 https://news.ycombinator.com/item?id=28779729
 
+https://academic.oup.com/qje/article/130/4/1547/1916146
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 * https://news.ycombinator.com/item?id=28037317

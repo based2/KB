@@ -25,6 +25,9 @@ https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-opti
 
 
 # News
+https://phys.org/news/2021-10-quantum-parrondo-random-encryption.html
+https://www.science.org/content/article/physicists-take-key-step-correcting-quantum-computer-errors
+* https://news.ycombinator.com/item?id=28896007
 https://www.rigetti.com/merger-announcement
 * https://news.ycombinator.com/item?id=28772402
 https://arstechnica.com/science/2021/09/understanding-neuromorphic-computing-and-why-intels-excited-about-it/

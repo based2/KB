@@ -20,6 +20,10 @@ https://www.impots.gouv.fr/portail/formulaire/3916/declaration-par-un-resident-d
 ref: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fiscaux-des-cryptomonnaies
 
 # News
+https://ag.ny.gov/press-release/2021/attorney-general-james-directs-unregistered-crypto-lending-platforms-cease
+* https://news.ycombinator.com/item?id=28907648
+https://www.politico.eu/article/west-china-big-tech-finance-facebook-diem/
+https://oeil.secure.europarl.europa.eu/oeil/popups/ficheprocedure.do?reference=2020/0265(COD)&l=en
 https://therecord.media/justice-department-launches-a-national-cryptocurrency-enforcement-team/
 https://news.ycombinator.com/item?id=28795005
 https://phe.tue.nl/news/ Crypto currency mining using integrated photonics

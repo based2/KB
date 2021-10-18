@@ -44,6 +44,7 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 * https://news.ycombinator.com/item?id=27673945
 
 # News
+https://blog.cloudflare.com/addressing-agility/
 https://metebalci.com/blog/hello-ipv6/
 * https://news.ycombinator.com/item?id=28784868
 https://erikbern.com/2015/04/26/ping-the-world.html

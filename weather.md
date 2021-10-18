@@ -14,6 +14,8 @@ https://openmeteo.substack.com/p/how-to-store-weather-forecast-data
 https://weatherspark.com/map
 * https://news.ycombinator.com/item?id=28845089
 
+https://phys.org/news/2021-10-gulf-stream-kuroshio-current-synchronized.html
+
 # Temperature
 https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearly-5-c
 

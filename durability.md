@@ -24,6 +24,8 @@ https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alter
 https://halestrom.net/darksleep/blog/047_x131e_repair/
 * https://news.ycombinator.com/item?id=28254571
 
+https://www.notebookcheck.net/Framework-doubles-down-on-repairability-now-sells-replacement-laptop-parts-directly-to-its-customers.573530.0.html
+
 # Recycling
 https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/
 * https://news.ycombinator.com/item?id=28018057

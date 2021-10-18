@@ -1,3 +1,6 @@
+https://ventoy.net/en/index.html Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files
+* https://news.ycombinator.com/item?id=28889392
+
 https://tomu.im/tomu.html
 * https://news.ycombinator.com/item?id=28395169
 

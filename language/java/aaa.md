@@ -210,6 +210,12 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.morling.dev/blog/executable-javadoc-code-snippets/
+https://cl4es.github.io/2021/10/17/Faster-Charset-Encoding.html
+https://julien.ponge.org/blog/publication-performance-and-costs-of-reactive-programming-libraries-in-java/
+* https://dl.acm.org/doi/10.1145/3486605.3486788
+https://docs.aws.amazon.com/corretto/
+* https://news.ycombinator.com/item?id=28892031
 https://manifold.systems/
 * https://www.reddit.com/r/java/comments/q97el0/manifold_is_a_java_compiler_plugin_its_features/
 https://inside.java/2021/10/12/panama-scope-dependencies/

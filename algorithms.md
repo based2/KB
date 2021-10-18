@@ -59,6 +59,7 @@ https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-f
 * 
 
 # News
+https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/
 https://github.com/facebookresearch/loop_tool/blob/main/tutorial.ipynb
 https://en.algorithmica.org/hpc/analyzing-performance/gcd/
 https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/

@@ -68,6 +68,7 @@ https://twitter.com/vponamariov/status/1421014957110579203
 * https://news.ycombinator.com/item?id=28006728
 
 # News
+https://danilowoz.com/blog/spatial-keyboard-navigation
 https://uxdesign.cc/offboarding-saying-goodbye-with-grace-942cf010c223
 * https://news.ycombinator.com/item?id=28784935
 https://press.stripe.com/

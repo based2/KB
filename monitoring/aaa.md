@@ -57,11 +57,11 @@ https://goaccess.io/
 
 https://thanos.io/ Open source, highly available Prometheus setup with long term storage capabilities.
 
-
 # Meta
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://jfrog.com/blog/dont-let-prometheus-steal-your-fire/
 https://web.dev/renault/#measuring-the-business-impact-of-core-web-vitals
 https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/
 https://blog.sinkingpoint.com/posts/elasticsearch-logging/

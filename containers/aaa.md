@@ -32,6 +32,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://firecracker-microvm.github.io/
+* https://news.ycombinator.com/item?id=28893884
+https://kentiklabs.com/blog/container-visibility/ convis
+https://ariadne.space/2021/09/09/introducing-witchery-tools-for-building-distroless-images-with-alpine/
+* https://github.com/witchery-project/witchery
 https://www.nomadproject.io/docs/nomad-vs-kubernetes
 * https://news.ycombinator.com/item?id=28875764
 https://crlf.link/log/entries/211008-1/

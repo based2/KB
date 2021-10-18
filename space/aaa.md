@@ -41,6 +41,7 @@ https://twitter.com/SciGuySpace/status/1420795248205312000
 * https://spectrum.ieee.org/naukas-troubled-flight-t
  * https://news.ycombinator.com/item?id=28320222
   * https://www.youtube.com/watch?v=dDBt9rZhMb4
+  https://www.space.com/russian-soyuz-thrusters-tilt-space-station-again
 
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
 

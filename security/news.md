@@ -1,4 +1,24 @@
+https://blog.google/technology/safety-security/we-analyzed-80-million-ransomware-samples-heres-what-we-learned/
+* https://news.ycombinator.com/item?id=28898080
+
+https://hothardware.com/news/microsoft-hosting-malware-on-office365-and-onedrive
+
+https://therecord.media/windows-10-ios-15-ubuntu-chrome-fall-at-chinas-tianfu-hacking-contest/
+
+https://github.com/fatedier/frp
+
+https://arxiv.org/abs/2110.04259 A Wireless Intrusion Detection System for 802.11 WPA3 Networks
+
+https://en.wikipedia.org/wiki/Phishing#SMS_phishing
+https://www.bsi.bund.de/DE/Service-Navi/Presse/Alle-Meldungen-News/Meldungen/Smishing_SMS-Phishing_141021.html
+
 https://www.theregister.com/2021/10/14/lantenna_ethernet_cable_rf_emissions/
+https://arxiv.org/pdf/2110.00104.pdf
+* https://www.reddit.com/r/netsec/comments/q7xrjz/lantenna_exfiltrating_data_from_airgapped/
+
+https://securitylab.github.com/advisories/GHSL-2021-1012-keypair/
+
+https://jfrog.com/blog/dont-let-prometheus-steal-your-fire/
 
 https://sandlab.cs.uchicago.edu/jammer/
 * https://news.ycombinator.com/item?id=28885739
@@ -32,6 +52,8 @@ https://www.bbc.com/news/technology-58843162 Samsung apologises for Russian app 
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-41773
 * https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42013 Apache HTTP Server 2.4
 * https://mail-archives.apache.org/mod_mbox/www-announce/202110.mbox/%3C7c4d9498-09ce-c4b4-b1c7-d55512fdc0b0%40apache.org%3E
+* https://firzen.de/building-a-poc-for-cve-2021-40438
+
 
 https://dl.acm.org/doi/pdf/10.1145/3133956.3134069 DIFUZE: Interface Aware Fuzzing for Kernel Drivers
 

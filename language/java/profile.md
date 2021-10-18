@@ -7,3 +7,5 @@ https://blog.acolyer.org/2017/11/06/statistically-rigorous-java-performance-eval
 
 https://bankstatementconverter.com/blog/posts/five-ways-i-handled-outofmemoryerrors/
 * https://news.ycombinator.com/item?id=28670152
+
+https://github.com/jvm-profiling-tools/async-profiler

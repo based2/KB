@@ -29,12 +29,13 @@ https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgop
 https://slack.engineering/load-testing-with-koi-pond/
 * https://news.ycombinator.com/item?id=27458909
 
-
 https://github.com/utkusen/reqstress
 
 https://librecellular.org/
 * https://news.ycombinator.com/item?id=27577525
 
+https://github.com/ddosify/ddosify
+* https://www.reddit.com/r/netsec/comments/q8kbzp/ddosify_highperformance_load_testing_tool_written/
 
 # TDD
 https://factorio.com/blog/post/fff-366
@@ -46,6 +47,8 @@ https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests
 
 https://chanind.github.io/2021/10/11/self-optimizing-ab-tests.html
 * https://news.ycombinator.com/item?id=28829456
+
+https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a
 
 #
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
@@ -74,5 +77,9 @@ http://christophermeiklejohn.com/filibuster/2021/10/02/filibuster-1.html
 * https://news.ycombinator.com/item?id=28733341
 
 https://github.com/GoogleChromeLabs/chromium-bidi
+
+
+# Coverage
+https://arnoldgalovics.com/the-test-coverage-trap/
 
 # UI

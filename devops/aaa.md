@@ -82,6 +82,8 @@ https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirecte
 
 https://guix.gnu.org/en/cuirass/
 
+https://neverworkintheory.org/2021/10/18/bad-practices-in-continuous-integration.html
+
 # CD
 
 argocd
@@ -97,6 +99,7 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c
 https://blog.argoproj.io/argo-rollouts-v1-1-fef8611a9034
 https://www.cobaltrobotics.com/premortems-and-postmortems/
 * https://news.ycombinator.com/item?id=28854598

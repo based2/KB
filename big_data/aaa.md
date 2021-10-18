@@ -203,6 +203,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 
 
 # News
+https://dionhaefner.github.io/2021/09/bayesian-histograms-for-rare-event-classification/
+* https://news.ycombinator.com/item?id=28882461
 https://github.com/finos/perspective/
 https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/
 https://justindomke.wordpress.com/2021/10/11/confidence-games-1-2/

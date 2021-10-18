@@ -240,7 +240,10 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://spectrum.ieee.org/elon-musk-brain-neuralink
+https://storage.googleapis.com/kaggle-media/surveys/Kaggle%27s%20State%20of%20Machine%20Learning%20and%20Data%20Science%202021.pdf
 https://eprint.iacr.org/2021/287 A Deeper Look at Machine Learning-Based Cryptanalysis
+* https://www.reddit.com/r/netsec/comments/q8vbvk/cracking_random_number_generators_using_machine/
 https://thesmartrobot.github.io/2021/08/26/thousand-brains.html
 https://github.com/AnotherSamWilson/miceforest
 https://jott.live/markdown/as_strided

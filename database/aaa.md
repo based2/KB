@@ -58,6 +58,7 @@ https://blog.acolyer.org/2020/12/14/entity-resolution/
 * https://news.ycombinator.com/item?id=28127650
 
 # News
+https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://news.ycombinator.com/item?id=28741292
 https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631
 * https://news.ycombinator.com/item?id=28811966

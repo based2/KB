@@ -21,3 +21,5 @@ https://arstechnica.com/tech-policy/2021/08/ex-lobbyist-slams-blue-hydrogen-says
 
 https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production-scale.html
 * https://news.ycombinator.com/item?id=28640247
+
+https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/

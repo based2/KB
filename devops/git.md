@@ -200,6 +200,8 @@ https://css-tricks.com/from-a-single-repo-to-multi-repos-to-monorepo-to-multi-mo
 https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/
 * https://news.ycombinator.com/item?id=28845570
 
+https://yosefk.com/blog/dont-ask-if-a-monorepo-is-good-for-you-ask-if-youre-good-enough-for-a-monorepo.html
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
@@ -222,6 +224,7 @@ https://github.com/ossf/scorecard#goals github
   
 # News
 https://gitexplorer.com/
+* https://news.ycombinator.com/item?id=28888763
 https://blog.stephane-robert.info/post/gitlab-pipeline-dynamique/
 https://graphite.dev/blog/post/y6ysWaplagKc8YEFzYfr
 * https://news.ycombinator.com/item?id=28787335

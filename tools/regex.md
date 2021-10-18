@@ -33,6 +33,8 @@ https://github.com/hyperpape/needle java
 
 https://github.com/zhong-j-yu/rekex/blob/main/doc/RegExp.md
 
+https://github.com/hexops/zorex
+
 # Grep
 
 https://littlemaninmyhead.wordpress.com/2019/08/04/dont-underestimate-grep-based-code-scanning/

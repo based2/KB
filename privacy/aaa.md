@@ -89,6 +89,9 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
   * https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://www.techradar.com/news/court-rules-that-ring-video-doorbell-invaded-neighbors-privacy
+https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/
+* https://news.ycombinator.com/item?id=28892013
 https://techcrunch.com/2021/10/15/researchers-show-facebooks-ad-tools-can-target-a-single-user/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAADaKiV2dbq5IvJf2fb5D9-_8TErpRQaoh58ePnTfCpLS6QlTn9DK2KzX_ZuR5qtNpx03Rx1DZ_0MgRL71Fq5zMu4RXB-BCEXVfEgjeiIK210bFBmyciNtJXdti4GK72ZfMWpbiZWGv1DYBGbPYegFK-nVZdTm2kiXdDRuEaYy-GC
 * https://news.ycombinator.com/item?id=28888253
 https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/

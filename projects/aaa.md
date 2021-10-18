@@ -163,6 +163,7 @@ https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887
 
 # News
+https://yosefk.com/blog/people-can-read-their-managers-mind.html
 https://doriantaylor.com/agile-as-trauma
 * https://news.ycombinator.com/item?id=28877745
 https://pulseasync.com/operators/remote-team-alignment/

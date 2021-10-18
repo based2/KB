@@ -40,6 +40,7 @@ https://zkp.science/
 * https://news.ycombinator.com/item?id=27573910
 
 # News
+https://www.bleepingcomputer.com/news/security/opensea-nft-platform-bugs-let-hackers-steal-crypto-wallets/
 https://github.com/paritytech/finality-grandpa GRANDPA, GHOST-based Recursive ANcestor Deriving Prefix Agreement
 http://pmg.csail.mit.edu/papers/osdi99.pdf Practical Byzantine Fault Tolerance 1999
 https://github.com/MinaProtocol/mina ocaml

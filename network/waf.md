@@ -2,6 +2,7 @@
 https://www.ipfire.org/
 https://blog.ipfire.org/post/security-announcement-mitigating-nat-slipstreaming
 https://blog.ipfire.org/post/beyond-the-far-side-thoughts-on-secure-and-private-machines-behind-ipfire
+https://blog.ipfire.org/post/feature-spotlight-weaponising-ipfire-location-to-proactively-detect-fast-flux-setups
 
 https://opensource.com/article/18/9/linux-iptables-firewalld
 

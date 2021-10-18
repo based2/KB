@@ -68,3 +68,5 @@ https://midrange.tedium.co/issues/the-lone-coder-505212
 
 https://archive.org/details/mac_The_Dead_Mac_Scrolls_1992/page/n25/mode/2up
 * https://news.ycombinator.com/item?id=28096490
+
+https://en.wikipedia.org/wiki/Xerox_Alto

@@ -38,6 +38,10 @@ https://javahippie.net/java/database/jpa/hibernate/2021/09/18/hibernate-oracle-p
 https://medium.com/javarevisited/spring-transactional-mistakes-everyone-did-31418e5a6d6b
 * https://www.reddit.com/r/java/comments/pxwy0k/spring_transactional_mistakes_everyone_did/
 
+https://thorben-janssen.com/persist-creation-update-timestamps-hibernate/
+
+https://vladmihalcea.com/prepersist-preupdate-embeddable-jpa-hibernate/
+
 # cons
 https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 * https://news.ycombinator.com/item?id=26772550
@@ -46,8 +50,10 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 
 https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
-
 # News
+https://vladmihalcea.com/how-to-map-json-objects-using-generic-hibernate-types/
+https://github.com/vladmihalcea/hibernate-types
+https://thorben-janssen.com/fetching-dtos-with-to-many-association/
 https://vladmihalcea.com/jpa-hibernate-second-level-cache/
 https://vladmihalcea.com/eight-years-of-blogging/
 * https://www.reddit.com/r/java/comments/pye6q1/my_8_year_journey_of_blogging_about_java_and_sql/

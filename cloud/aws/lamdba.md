@@ -12,3 +12,5 @@ https://aws.amazon.com/fr/about-aws/whats-new/2021/09/better-price-performance-a
 
 https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1
 * https://news.ycombinator.com/item?id=28838716
+
+https://www.elastic.co/blog/tracing-aws-lambdas-with-opentelemetry-and-elastic-observability

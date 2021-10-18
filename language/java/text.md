@@ -3,3 +3,8 @@ https://github.com/wrandelshofer/FastDoubleParser 16
 
 # Splitter
 https://richardstartin.github.io/posts/brittle-spliterator-characteristics
+
+# Search
+
+Multiple contains:
+https://github.com/robert-bor/aho-corasick 
