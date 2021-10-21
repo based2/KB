@@ -99,6 +99,8 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://opensource.googleblog.com/2021/10/protect-your-open-source-project-from-supply-chain-attacks.html
+* https://news.ycombinator.com/item?id=28931248
 https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c
 https://blog.argoproj.io/argo-rollouts-v1-1-fef8611a9034
 https://www.cobaltrobotics.com/premortems-and-postmortems/

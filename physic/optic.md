@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=K0teMtLT9XI Zeiss
 
 https://phys.org/news/2021-10-photon-phonon-breakthrough.html
 
+https://spectrum.ieee.org/optical-switch-1000x-faster-transistors
+* https://news.ycombinator.com/item?id=28925148
+

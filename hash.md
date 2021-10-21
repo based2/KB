@@ -50,7 +50,13 @@ https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format
 
 https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format#section-4.1
 
+https://www.honeybadger.io/blog/uuids-and-ulids/
+* https://news.ycombinator.com/item?id=28948815
+
 #
+https://obua.com/publications/cosmo-id/3/
+* https://news.ycombinator.com/item?id=28940334
+
 https://cybergibbons.com/security-2/what3words-the-algorithm/
 * https://news.ycombinator.com/item?id=27015046
 

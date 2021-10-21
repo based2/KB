@@ -170,6 +170,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html
+* 
+https://github.com/ttymck/compatlib
+* https://news.ycombinator.com/item?id=28915017
+https://lukasz.langa.pl/f15a8851-af26-4e94-a4b1-c146c57c9d20/
+* https://news.ycombinator.com/item?id=28919181
 https://pythonspeed.com/articles/conda-vs-pip/
 * https://news.ycombinator.com/item?id=28879840
 https://www.psycopg.org/articles/2021/10/13/psycopg-30-released/

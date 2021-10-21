@@ -223,6 +223,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/
+* https://lobste.rs/s/bavio3/10_tips_for_better_pull_requests_2015
 https://gitexplorer.com/
 * https://news.ycombinator.com/item?id=28888763
 https://blog.stephane-robert.info/post/gitlab-pipeline-dynamique/

@@ -50,6 +50,9 @@ https://github.com/felixrieseberg/macintosh.js MacOS 8 in Electron
 http://www.macflim.com/
 * https://news.ycombinator.com/item?id=27053655
 
+https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/
+* https://news.ycombinator.com/item?id=28914208
+
 # ResEdit
 https://www.macintoshrepository.org/1317-resedit-2-1-3
 

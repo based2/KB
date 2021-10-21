@@ -1,3 +1,27 @@
+
+https://seclists.org/fulldisclosure/2021/Oct/17
+* https://news.ycombinator.com/item?id=28923231
+
+https://toc.cryptobook.us/
+* https://news.ycombinator.com/item?id=28918554
+
+https://ariadne.space/2021/10/19/trustworthy-computing-in-2021/
+* https://news.ycombinator.com/item?id=28929261
+
+https://googleprojectzero.blogspot.com/2021/10/how-simple-linux-kernel-memory.html
+* https://news.ycombinator.com/item?id=28926426
+
+https://public.flourish.studio/visualisation/7574790/
+* https://news.ycombinator.com/item?id=28938504
+
+https://www.theverge.com/2021/10/21/22738747/tesla-driving-data-hack-dutch-investigators-autopilot
+
+https://portswigger.net/daily-swig/node-js-was-vulnerable-to-a-novel-http-request-smuggling-technique
+
+https://alephsecurity.com/2021/10/20/sudump/ kernel
+
+https://securitylab.github.com/research/in_the_wild_chrome_cve_2021_37975/
+
 https://blog.google/technology/safety-security/we-analyzed-80-million-ransomware-samples-heres-what-we-learned/
 * https://news.ycombinator.com/item?id=28898080
 

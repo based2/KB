@@ -86,6 +86,8 @@ https://www.phoronix.com/scan.php?page=article&item=windows11-wsl2-good&num=1
 https://github.com/valinet/ExplorerPatcher
 
 # News
+https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/
+* https://news.ycombinator.com/item?id=28931595
 https://devblogs.microsoft.com/commandline/windows-package-manager-1-1/
 * https://news.ycombinator.com/item?id=28829716
 https://secret.club/2021/06/28/windows11-tpms.html

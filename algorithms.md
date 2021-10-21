@@ -40,6 +40,9 @@ https://duckdb.org/2021/08/27/external-sorting.html
 https://arxiv.org/abs/2110.01111
 * https://news.ycombinator.com/item?id=28758106
 
+https://codingkaiser.blog/2021/10/20/most-bizzare-sorting-algorithms-you-will-ever-see/
+* https://news.ycombinator.com/item?id=28946451
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 * https://news.ycombinator.com/item?id=27745184

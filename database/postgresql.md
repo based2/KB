@@ -119,9 +119,24 @@ https://www.migops.com/blog/2021/08/27/announcing-pg_dbms_job-in-postgresql-for-
 https://news.ycombinator.com/item?id=28707577
 * https://vericred.com/how-we-migrated-a-1tb-database-from-heroku-to-aws-aurora-with-almost-no-downtime/
 
+# Performance
+https://explain.depesz.com/
+* https://news.ycombinator.com/item?id=28771875
+
+https://scalegrid.io/blog/introduction-to-auto-explain-postgres/
+
+https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/
+* https://news.ycombinator.com/item?id=28730225
+
 # Container
 https://www.kubegres.io/
 * https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/
+
+https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/
+* https://news.ycombinator.com/item?id=28758162
+
+https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
+* https://news.ycombinator.com/item?id=28767637
 
 # HA
 https://github.com/zalando/patroni
@@ -133,24 +148,22 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 # Extensions
 https://github.com/jie123108/imgsmlr-server
 
-# News
+# Search
 https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/
 * https://news.ycombinator.com/item?id=28873779
+
+# News
+https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/
+* https://news.ycombinator.com/item?id=28919205
 https://www.migops.com/blog/2021/10/14/stored-procedure-out-parameters-in-postgresql-14/
 * https://news.ycombinator.com/item?id=28878918
 https://stackgres.io/
 * https://news.ycombinator.com/item?id=28865432
-https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/
-* https://news.ycombinator.com/item?id=28758162
-https://explain.depesz.com/
-* https://news.ycombinator.com/item?id=28771875
-https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
-* https://news.ycombinator.com/item?id=28767637
+
 https://www.notion.so/blog/sharding-postgres-at-notion
 * https://news.ycombinator.com/item?id=28776786
 https://heap.io/blog/the-million-indexes-incident
-https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/
-* https://news.ycombinator.com/item?id=28730225
+
 https://www.postgresql.org/about/news/postgresql-14-released-2318/
 * https://news.ycombinator.com/item?id=28705699
 https://pgloader.io/ LISP

@@ -168,6 +168,10 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://sfconservancy.org/copyleft-compliance/vizio.html
+* https://news.ycombinator.com/item?id=28920954
+https://www.gimp.org/news/2021/10/20/gimp-2-99-8-released/
+* https://news.ycombinator.com/item?id=28940705
 https://future.a16z.com/open-source-financial-services/
 * https://news.ycombinator.com/item?id=28879133
 https://docs.mattermost.com/install/self-managed-changelog.html

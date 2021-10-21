@@ -26,7 +26,7 @@ https://news.ycombinator.com/item?id=26545976
 https://github.com/oz/tz
 * https://news.ycombinator.com/item?id=26537559
 
-https://www.moesif.com/blog/technical/timestamp/manage-datetime-timestamp-timezones-in-api/
+https://www.moesif.com/blog/technical/timestamp/manage-datetime-timestamp-timennes-in-api/
 
 https://timeenna.com/
 
@@ -35,6 +35,9 @@ https://blog.scottlogic.com/2021/09/14/120-years-timezone.html
 
 https://blog.joda.org/2021/09/big-problems-at-timezone-database.html
 * https://www.reddit.com/r/java/comments/puwe13/big_problems_at_the_timezone_database/
+
+https://onezero.medium.com/the-largely-untold-story-of-how-one-guy-in-california-keeps-the-worlds-computers-on-the-right-time-a97a5493bf73
+* https://news.ycombinator.com/item?id=28904252
 
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
@@ -133,6 +136,9 @@ https://www.tigerbeetle.com/post/three-clocks-are-better-than-one
 
 https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html
 * https://news.ycombinator.com/item?id=28725191
+
+https://thehtime.com/
+* https://news.ycombinator.com/item?id=28928550
 
 #
 https://en.wikipedia.org/wiki/Time_crystal

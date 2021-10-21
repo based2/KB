@@ -99,6 +99,10 @@ https://functional-algorithms-verified.org/
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 * https://news.ycombinator.com/item?id=27458721
 
+https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+* https://news.ycombinator.com/item?id=28916247
+
+
 # Code review
 https://itnext.io/im-changing-how-i-review-code-dbf212507e5f
 * https://news.ycombinator.com/item?id=27682002
@@ -172,6 +176,11 @@ https://github.com/carp-lang/Carp
 * https://github.com/carp-lang/Carp
 
 # News
+https://www.fredrikholmqvist.com/posts/print-dependency-injection/
+* https://news.ycombinator.com/item?id=28915630
+https://beej.us/guide/bgc/html/split/goto.html
+* https://news.ycombinator.com/item?id=28943153
+https://www.softwareheritage.org/
 https://refactoring.guru/design-patterns
 https://users.monash.edu/~damian/papers/PDF/SevenDeadlySins.pdf
 * https://news.ycombinator.com/item?id=28859449

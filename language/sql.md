@@ -53,11 +53,16 @@ https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction
 
 https://planetscale.com/blog/optimizing-sql-with-query-statistics
 
+# Schema
+https://drawsql.app/templates
+* https://news.ycombinator.com/item?id=28927367
+
 # Tools
 http://harelba.github.io/q/
 * https://news.ycombinator.com/item?id=27423276
 
 # News
+https://blog.crunchydata.com/blog/postgres-queries-for-projecting-monthly-revenue-run-rate
 https://news.ycombinator.com/item?id=28834117
 https://www.sqlfluff.com/
 * https://news.ycombinator.com/item?id=28771656

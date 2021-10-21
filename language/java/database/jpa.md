@@ -51,6 +51,8 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 # News
+https://arnoldgalovics.com/how-to-mess-up-statement-batching-in-hibernate/
+* https://www.reddit.com/r/java/comments/qbvhld/how_to_mess_up_statement_batching_in_hibernate/
 https://vladmihalcea.com/how-to-map-json-objects-using-generic-hibernate-types/
 https://github.com/vladmihalcea/hibernate-types
 https://thorben-janssen.com/fetching-dtos-with-to-many-association/

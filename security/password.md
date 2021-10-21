@@ -40,6 +40,8 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://l0phtcrack.gitlab.io/
+* https://news.ycombinator.com/item?id=28900615
 https://support.google.com/mail/thread/55577729/gmail-password-first-character-is-case-insensitive-on-mobile-device?hl=en
 * https://lobste.rs/s/lflm6h/gmail_password_first_character_is_case
 * https://news.ycombinator.com/item?id=28808289

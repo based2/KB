@@ -29,6 +29,11 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://browser.engineering/
+* https://news.ycombinator.com/item?id=28898157
+https://brave.com/search-and-web-discovery/
+* https://news.ycombinator.com/item?id=28926582
+https://www.imperialviolet.org/2021/10/20/cablev2.html Phones as Security Keys in Chrome
 https://nolanlawson.com/2014/04/26/web-sql-database-in-memoriam/
 * https://news.ycombinator.com/item?id=28828644
 https://www.thurrott.com/cloud/web-browsers/mozilla-firefox/258006/is-mozilla-firefox-getting-sketchy#

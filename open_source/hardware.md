@@ -36,6 +36,9 @@ https://antmicro.com/blog/2021/07/zephyr-fpga-controller/
 http://www.clifford.at/icestorm/
 * https://news.ycombinator.com/item?id=28679187
 
+https://projectf.io/posts/verilog-sim-verilator-sdl/
+* https://news.ycombinator.com/item?id=28929994
+
 # ASIC
 https://github.com/olofk/fusesoc
 

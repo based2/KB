@@ -19,6 +19,8 @@ https://github.com/banga/git-split-diffs
 
 https://blog.engineering.publicissapient.fr/2018/01/10/git-essentials-5-visualiser-les-changements/
 
+https://github.blog/2013-09-17-3d-file-diffs/
+https://news.ycombinator.com/item?id=28922140
 
 # PDF
 https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/

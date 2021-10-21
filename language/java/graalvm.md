@@ -15,3 +15,6 @@ https://chrisseaton.com/truffleruby/jokerconf17/
 * https://news.ycombinator.com/item?id=15624388
 
 https://www.loicmathieu.fr/wordpress/en/informatique/debugger-une-image-native-graalvm-avec-gdb/
+
+# News
+https://medium.com/graalvm/graalvm-21-3-is-here-java-17-native-image-performance-updates-and-more-ac4cbafcfc05

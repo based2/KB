@@ -256,6 +256,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/trekhleb/javascript-algorithms
+https://github.com/tc39/proposal-pipeline-operator
+* 
 https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html
 https://openjsf.org/blog/2021/10/07/deprecation-of-jquery-mobile/
 https://v8.dev/blog/v8-release-96

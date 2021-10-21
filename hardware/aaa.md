@@ -48,6 +48,7 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.copetti.org/writings/consoles/playstation-3/
 https://news.ycombinator.com/item?id=28861949 laptop
 https://github.com/stnolting/captouch Capacitive Buttons for any FPGA
 * https://news.ycombinator.com/item?id=28886670

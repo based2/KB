@@ -64,6 +64,10 @@ https://mastery.games/post/board-gaming-in-figma/
 
 https://github.com/colyseus/colyseus
 
+
+https://thebrowser.com/notes/jon-ingold/
+*
+
 # Text
 https://if50.substack.com/p/2008-violet
 * https://news.ycombinator.com/item?id=28797079

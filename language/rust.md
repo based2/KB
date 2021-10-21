@@ -280,6 +280,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html
+* https://news.ycombinator.com/item?id=28945420
 https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21 
 https://github.com/rust-lang/compiler-team/issues/422 Update the existing musl targets to be dynamically linked.
 https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/

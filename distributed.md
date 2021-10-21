@@ -5,6 +5,8 @@ https://ably.com/blog/8-fallacies-of-distributed-computing
 
 https://queue.acm.org/detail.cfm?id=3480470
 
+https://brooker.co.za/blog/2021/10/20/simulation.html
+
 # CRDT
 https://github.com/xi-editor/xi-editor/blob/e8065a3993b80af0aadbca0e50602125d60e4e38/doc/crdt-details.md
 

@@ -78,6 +78,9 @@ https://github.com/benbjohnson/litestream
 
 https://github.com/tezc/resql Java
 
+# Distributed
+https://github.com/Expensify/Bedrock
+
 # History
 https://corecursive.com/066-sqlite-with-richard-hipp/
 * https://news.ycombinator.com/item?id=27718701

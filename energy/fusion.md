@@ -22,3 +22,5 @@ https://backreaction.blogspot.com/2021/10/how-close-is-nuclear-fusion-power.html
 * https://news.ycombinator.com/item?id=28776131
 
 https://www.youtube.com/watch?v=JurplDfPi3U
+
+https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410

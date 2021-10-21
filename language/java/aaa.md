@@ -210,6 +210,8 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/openjdk/jfx17u/blob/master/doc-files/release-notes-17.0.1.md
+https://github.com/hardikSinghBehl/ngram-search-API spring-boot JPA
 https://www.morling.dev/blog/executable-javadoc-code-snippets/
 https://cl4es.github.io/2021/10/17/Faster-Charset-Encoding.html
 https://julien.ponge.org/blog/publication-performance-and-costs-of-reactive-programming-libraries-in-java/

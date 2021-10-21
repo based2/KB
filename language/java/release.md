@@ -7,6 +7,12 @@ https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk
 # 18
 https://inside.java/2021/10/04/the-default-charset-jep400/
 
+https://mail.openjdk.java.net/pipermail/jdk-dev/2021-October/006166.html
+* https://www.reddit.com/r/java/comments/qclomj/jdk_18_augmented_javac_xlintserial_checks/
+
+https://openjdk.java.net/jeps/416
+* https://www.reddit.com/r/java/comments/qbsqi5/proposed_to_target_jdk_18_jep_416_reimplement/
+
 # 17 LTS
 https://jdk.java.net/loom/
 https://github.com/openjdk/jdk/pull/3427 Stream API skip() and limit() allocation optimization on openjdk 17

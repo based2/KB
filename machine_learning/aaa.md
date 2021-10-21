@@ -240,6 +240,12 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://www.reuters.com/technology/ai-can-see-through-you-ceos-language-under-machine-microscope-2021-10-20/
+* https://news.ycombinator.com/item?id=28927794
+https://ai.googleblog.com/2021/10/predicting-spreadsheet-formulas-from.html
+* https://news.ycombinator.com/item?id=28936364
+https://www.unite.ai/ai-research-envisages-separate-volume-controls-for-dialog-music-and-sound-effects/
+https://medium.com/deep-learning-reviews/every-model-learned-by-gradient-descent-is-approximately-a-kernel-machine-paper-review-11bc11716485
 https://spectrum.ieee.org/elon-musk-brain-neuralink
 https://storage.googleapis.com/kaggle-media/surveys/Kaggle%27s%20State%20of%20Machine%20Learning%20and%20Data%20Science%202021.pdf
 https://eprint.iacr.org/2021/287 A Deeper Look at Machine Learning-Based Cryptanalysis

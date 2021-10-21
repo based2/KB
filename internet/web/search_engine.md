@@ -59,6 +59,8 @@ https://github.com/benbusby/whoogle-search
 * https://news.ycombinator.com/item?id=28326180
 
 # News
+https://duckduckgo.com/tty/
+* https://news.ycombinator.com/item?id=28938265
 http://highscalability.com/blog/2021/10/11/scaling-indexing-and-search-algolia-new-search-architecture.html
 * 
 https://www.engadget.com/google-guitar-tuner-search-113540630.html

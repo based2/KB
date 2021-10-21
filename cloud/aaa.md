@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://www.hetzner.com/dedicated-rootserver/matrix-apple
+* https://news.ycombinator.com/item?id=28916543
 https://www.swyx.io/cloudflare-go/
 * https://news.ycombinator.com/item?id=28903982
 https://github.com/m3o/m3o

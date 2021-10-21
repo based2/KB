@@ -34,6 +34,8 @@ https://github.com/lekkit/rvvm
 * https://news.ycombinator.com/item?id=27918744
 
 # News
+https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/
+* https://news.ycombinator.com/item?id=28939287
 https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html
 * https://news.ycombinator.com/item?id=28767046
 https://klarasystems.com/articles/risc-v-the-new-architecture-on-the-block/
@@ -44,4 +46,3 @@ https://microkerneldude.wordpress.com/2021/09/28/where-is-sel4-heading/
 * https://news.ycombinator.com/item?id=28680109
 https://github.com/fwsGonzo/bigassm
 https://www.notebookcheck.net/Computer-scientist-showcases-world-s-first-RISC-V-based-Linux-PC-coupled-with-an-AMD-RX-6700-XT-GPU.552002.0.html
-* 

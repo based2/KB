@@ -34,6 +34,9 @@ https://satellitemap.space/
 https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf
 * https://news.ycombinator.com/item?id=28450566
 
+https://www.esa.int/Enabling_Support/Operations/Three_hours_to_save_Integral
+* https://news.ycombinator.com/item?id=28916225
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 * https://news.ycombinator.com/item?id=27999112
@@ -88,6 +91,8 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://physics.aps.org/articles/v14/143 MOND
+* https://news.ycombinator.com/item?id=28917700
 https://www.eso.org/public/news/eso2011/
 * https://news.ycombinator.com/item?id=28869482
 https://phys.org/news/2021-08-sights-venus-flyby.html

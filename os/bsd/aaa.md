@@ -28,6 +28,9 @@ https://webzine.puffy.cafe/
 https://briancallahan.net/blog/20211010.html
 * https://news.ycombinator.com/item?id=28825705
 
+https://blog.lambda.cx/posts/how-bsd-authentication-works/
+* https://news.ycombinator.com/item?id=28918208
+
 ## News
 https://www.openbsd.org/70.html
 * https://news.ycombinator.com/item?id=28862439
@@ -49,6 +52,12 @@ https://2019.eurobsdcon.org/slides/NUMA%20Optimizations%20in%20the%20FreeBSD%20N
 
 https://meka.rs/blog/2021/10/12/freebsd-audio/
 * https://news.ycombinator.com/item?id=28850513
+
+https://klarasystems.com/articles/explaining-top1-on-freebsd/
+* https://news.ycombinator.com/item?id=28942249
+
+https://cgit.freebsd.org/src/commit/?id=d410b585b6f00a26c2de7724d6576a3ea7d548b7
+* https://news.ycombinator.com/item?id=28927967
 
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released

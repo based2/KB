@@ -23,6 +23,11 @@ https://fly.io/blog/measuring-fly/
 https://katacontainers.io/
 * https://news.ycombinator.com/item?id=15867822
 
+# Firecraker
+
+https://firecracker-microvm.github.io/
+* https://news.ycombinator.com/item?id=28893884
+
 # Perf
 https://github.com/google/cadvisor
 
@@ -32,8 +37,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
-https://firecracker-microvm.github.io/
-* https://news.ycombinator.com/item?id=28893884
+https://arccompute.com/blog/libvfio-commodity-gpu-multiplexing/
+* https://news.ycombinator.com/item?id=28944426
+
 https://kentiklabs.com/blog/container-visibility/ convis
 https://ariadne.space/2021/09/09/introducing-witchery-tools-for-building-distroless-images-with-alpine/
 * https://github.com/witchery-project/witchery
