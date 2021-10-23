@@ -1,3 +1,10 @@
+https://news.ycombinator.com/item?id=28962168 NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised
+
+https://docs.google.com/document/d/1xOWmMueHHRke9aj3oRqNBgK69Y19hgZ7ehM4H9_Me-Y/edit
+
+https://www.theregister.com/2021/10/20/intel_sgx_httpa/
+* https://news.ycombinator.com/item?id=28930647
+* https://arxiv.org/abs/2110.06657 SmashEx: Smashing SGX Enclaves Using Exceptions
 
 https://seclists.org/fulldisclosure/2021/Oct/17
 * https://news.ycombinator.com/item?id=28923231

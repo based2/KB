@@ -34,6 +34,7 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 * https://news.ycombinator.com/item?id=28105100
 
 # News
+https://github.com/nuta/nsh
 https://github.com/adam-mcdaniel/dune
 * https://news.ycombinator.com/item?id=28727566
 https://www.oilshell.org/release/latest/doc/oil-language-tour.html

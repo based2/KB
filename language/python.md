@@ -170,6 +170,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://blog.chiodini.org/posts/python-global/
+https://www.python.org/dev/peps/pep-0670/
+* https://news.ycombinator.com/item?id=28932123
 https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html
 * 
 https://github.com/ttymck/compatlib

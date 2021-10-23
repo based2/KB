@@ -1,5 +1,12 @@
 # Unit tests
+## Junit
 https://junit.org/junit5/
+
+https://mikemybytes.com/2021/10/19/parameterize-like-a-pro-with-junit-5-csvsource/
+
+https://github.com/gofabian/junit-fixture-extension
+
+## AssertJ
 https://joel-costigliola.github.io/assertj/
 https://joel-costigliola.github.io/assertj/assertj-assertions-generator.html#philosophy
 
@@ -9,6 +16,7 @@ https://assertj.github.io/doc/
 
 https://testng.org/doc/book.html
 
+## 
 https://blogs.oracle.com/javamagazine/how-to-test-java-microservices-with-pact
 
 https://github.com/intuit/karate
@@ -18,7 +26,7 @@ https://stefanbirkner.github.io/system-rules/
 
 https://github.com/goldmansachs/tablasco Adds table verification to your unit tests
 
-https://github.com/gofabian/junit-fixture-extension
+
 
 https://reflectoring.io/assertj-lists/
 

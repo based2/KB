@@ -57,6 +57,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://arxiv.org/abs/2003.02320 Knowledge Graphs
+* https://news.ycombinator.com/item?id=28953155
 http://www.cs.utep.edu/vladik/2019/tr19-75.pdf Why The Obvious Necessary Condition is (Often)Also Sufficient (TONCAS): An Explanation of the Phenomenon
 https://www.tigergraph.com/blogs/benchmark/truth-behind-neo4js-trillion-relationship-graph/
 * https://news.ycombinator.com/item?id=28707310

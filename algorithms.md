@@ -1,6 +1,7 @@
+https://opendsa-server.cs.vt.edu/
+
 http://jeffe.cs.illinois.edu/teaching/algorithms/
 * https://news.ycombinator.com/item?id=26074289
-
 
 https://www.mipmip.org/tidbits/pasa.pdf Pessimal Algorithms and Simplexity Analysis
 * https://news.ycombinator.com/item?id=26777977
@@ -13,6 +14,7 @@ https://lemire.me/blog/2021/07/14/faster-sorted-array-unions-by-reducing-branche
 
 https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/math/binary-floating-point
 * https://news.ycombinator.com/item?id=27939495
+* https://news.ycombinator.com/item?id=28933618
 
 https://boyter.org/posts/bloom-filter/
 * https://news.ycombinator.com/item?id=28113100

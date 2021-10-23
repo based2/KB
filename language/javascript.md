@@ -103,6 +103,9 @@ https://blog.abdulqudus.com/progressive-web-apps-in-react-pwa-guide
 
 https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/
 * https://news.ycombinator.com/item?id=28836793
+
+https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/
+* https://news.ycombinator.com/item?id=28954450
    
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
@@ -256,7 +259,6 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
-https://github.com/trekhleb/javascript-algorithms
 https://github.com/tc39/proposal-pipeline-operator
 * 
 https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html

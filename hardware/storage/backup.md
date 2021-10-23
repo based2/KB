@@ -27,3 +27,7 @@ https://syncthing.net/
 * https://news.ycombinator.com/item?id=28859521
 
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
+
+
+# News
+https://news.ycombinator.com/item?id=28957573 Ask HN: Best way to host a website for 500 years?

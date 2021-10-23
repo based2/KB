@@ -61,6 +61,7 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.simplethread.com/animating-with-gsap-and-svg/
 https://news.ycombinator.com/item?id=28851433
 https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac
 * https://news.ycombinator.com/item?id=28780335

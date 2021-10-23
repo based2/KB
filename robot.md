@@ -25,6 +25,8 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.youtube.com/watch?v=guDIwspRGJ8 Artificial Muscles Robotic Arm Full Range of Motion + Static Strength Test (V11)
+* https://news.ycombinator.com/item?id=28931874
 https://deepmind.com/blog/announcements/mujoco
 * https://news.ycombinator.com/item?id=28906333
 https://www.caltech.edu/about/news/leonardo-the-bipedal-robot-can-ride-a-skateboard-and-walk-a-slackline

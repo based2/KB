@@ -7,6 +7,8 @@
 * https://www.postman.com/
 * https://httpie.io/ Python
 
+https://opensource.com/article/21/10/linux-wget-command
+
 # Libraries
 ## Java/Jackson
 * https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062

@@ -87,6 +87,9 @@ https://web.archive.org/web/20170603123809/http://www.tuicool.com:80/articles/7n
 https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html
 * https://news.ycombinator.com/item?id=28769331
 
+https://tinkeredthinking.com/index.php?id=833
+* https://news.ycombinator.com/item?id=28955154
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

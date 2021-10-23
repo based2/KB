@@ -1,3 +1,6 @@
+https://adoptingerlang.org/
+* https://news.ycombinator.com/item?id=28940337
+
 https://erlang.org/doc/man/persistent_term.html
 
 http://www.erlang-factory.com/upload/presentations/467/Halfword_EUC_2011.pdf

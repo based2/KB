@@ -83,3 +83,8 @@ https://github.com/GoogleChromeLabs/chromium-bidi
 https://arnoldgalovics.com/the-test-coverage-trap/
 
 # UI
+
+
+# News
+https://lemire.me/blog/2021/10/21/converting-binary-floating-point-numbers-to-integers/
+* https://news.ycombinator.com/item?id=28941755

@@ -168,6 +168,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.theregister.com/2021/10/23/software_freedom_conservancy_mastodon/
+https://fosdem.org/2022/news/2021-10-22-fosdem-online-2022/
+* https://news.ycombinator.com/item?id=28954986
 https://sfconservancy.org/copyleft-compliance/vizio.html
 * https://news.ycombinator.com/item?id=28920954
 https://www.gimp.org/news/2021/10/20/gimp-2-99-8-released/

@@ -74,6 +74,8 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 * https://news.ycombinator.com/item?id=27872243
 
 # News
+https://staceyoniot.com/satellite-iot-dreams-are-crashing-into-reality/
+* https://news.ycombinator.com/item?id=28934566
 https://www.co-buildings.com/
 https://storage.googleapis.com/x-prod.appspot.com/files/The%20Loon%20Library.pdf
 https://podcast.lagerdata.com/episodes/1-tylermincey-building-the-iphone

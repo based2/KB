@@ -91,6 +91,8 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://blog.jatan.space/p/space-missions-lost-to-human-errors
+https://interestingengineering.com/south-korea-launched-its-first-domestically-built-rocket-into-space
 https://physics.aps.org/articles/v14/143 MOND
 * https://news.ycombinator.com/item?id=28917700
 https://www.eso.org/public/news/eso2011/

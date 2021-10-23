@@ -18,5 +18,8 @@ https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 
 # News
+http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html
+* https://news.ycombinator.com/item?id=28964460
+https://github.com/szpajder/dumphfdl
 https://eandt.theiet.org/content/articles/2021/10/solar-powered-aircraft-flown-for-nearly-three-weeks-without-landing/
 * https://news.ycombinator.com/item?id=28829668

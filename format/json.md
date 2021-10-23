@@ -71,6 +71,7 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://arxiv.org/abs/1902.08318 Parsing Gigabytes of JSON per Second
 https://seriot.ch/projects/parsing_json.html
 * https://news.ycombinator.com/item?id=28826600
 https://github.com/i5ik/weird-json

@@ -1,3 +1,5 @@
+https://github.com/Kristories/awesome-guidelines
+
 https://zwischenzugs.com/2020/11/30/gitops-decisions/
 
 https://blog.spinnaker.io/managed-delivery-evolving-continuous-delivery-at-netflix-eb74877fb33c
@@ -74,6 +76,7 @@ https://alexgaynor.net/2021/oct/07/whats-in-a-version-number/
 https://www.jenkins.io/
 https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
 https://itnext.io/git-notes-your-ci-process-46b2fd5ac52
+https://axelfontaine.com/blog/final-nail.html
 
 https://tekton.dev/
 

@@ -46,6 +46,10 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.bbc.com/news/uk-england-london-58932313
+https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/
+https://www.cell.com/matter/fulltext/S2590-2385(21)00465-3
+* https://news.ycombinator.com/item?id=28945312
 http://www.sci-news.com/othersciences/chemistry/liquid-gallium-carbon-dioxide-conversion-10164.html
 * https://news.ycombinator.com/item?id=28873458
 http://paris.tribunal-administratif.fr/Actualites-du-Tribunal/Communiques-de-presse/L-Affaire-du-Siecle-l-Etat-devra-reparer-le-prejudice-ecologique-dont-il-est-responsable

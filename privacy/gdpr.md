@@ -1,6 +1,8 @@
 https://gdpr.eu/
 https://en.wikipedia.org/wiki/Secure_by_design
 
+https://ec.europa.eu/newsroom/article29/items/612080/en National Data Protection Authorities
+
 https://gdpr.algolia.com/
 
 https://gdprchecklist.io/

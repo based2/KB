@@ -240,6 +240,9 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://www.lalal.ai/blog/meet-lalal-ai-cassiopeia-a-milestone-in-music-source-separation/
+https://pytorch.org/blog/pytorch-1.10-released/
+* https://news.ycombinator.com/item?id=28955146
 https://www.reuters.com/technology/ai-can-see-through-you-ceos-language-under-machine-microscope-2021-10-20/
 * https://news.ycombinator.com/item?id=28927794
 https://ai.googleblog.com/2021/10/predicting-spreadsheet-formulas-from.html

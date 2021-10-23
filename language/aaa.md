@@ -65,6 +65,8 @@ https://typeclasses.com/phrasebook
 # Stats
 http://www.ats-lang.org/
 
+https://arxiv.org/abs/1809.10756 An Introduction to Probabilistic Programming
+
 # Biology
 
 https://github.com/seq-lang/seq
@@ -176,6 +178,7 @@ https://github.com/carp-lang/Carp
 * https://github.com/carp-lang/Carp
 
 # News
+https://github.com/melsman/apltail
 https://www.fredrikholmqvist.com/posts/print-dependency-injection/
 * https://news.ycombinator.com/item?id=28915630
 https://beej.us/guide/bgc/html/split/goto.html

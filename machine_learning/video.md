@@ -23,5 +23,7 @@ https://eulerian.cs.washington.edu/ Animating Pictures with Eulerian Motion Fiel
 https://www.robots.ox.ac.uk/~vgg/research/pass/ An ImageNet replacement for self-supervised pretraining without human
 * https://news.ycombinator.com/item?id=28691259
 
+https://github.com/darglein/ADOP ADOP: Approximate Differentiable One-Pixel Point Rendering
+
 
 

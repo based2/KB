@@ -19,6 +19,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 # Dmoz
 
 #
+https://knowingless.com/2017/05/02/internet-communities-otters-vs-possums/
+* https://news.ycombinator.com/item?id=28942733
 https://news.ycombinator.com/item?id=28829843
 https://thebrowser.com/notes/qntm/
 * https://news.ycombinator.com/item?id=28774209

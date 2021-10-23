@@ -51,6 +51,7 @@ https://phys.org/news/2021-07-exotic-particle-tetraquark.html
 https://www.nature.com/articles/d41586-021-02657-6
 
 # News
+https://arstechnica.com/science/2021/10/luxo-jr-and-mystique-inspire-novel-approaches-to-shapeshifting-materials/
 https://ai.googleblog.com/2021/10/finding-complex-metal-oxides-for.html
 https://www.nobelprize.org/prizes/chemistry/2021/press-release/
 * https://news.ycombinator.com/item?id=28771079

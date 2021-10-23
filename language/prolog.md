@@ -16,3 +16,6 @@ https://en.wikipedia.org/wiki/XSB`
 
 https://github.com/brunokim/prol
 * https://news.ycombinator.com/item?id=28720000
+
+https://github.com/mthom/scryer-prolog
+* https://news.ycombinator.com/item?id=28966133
