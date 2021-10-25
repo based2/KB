@@ -68,6 +68,8 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://appddeevvmeanderings.blogspot.com/2021/10/scala3-zio-dotty-cps-async-field-report.html
+https://scala-native.readthedocs.io/en/latest/changelog/0.4.1.html
 https://www.lightbend.com/blog/on-the-future-of-play-framework
 https://github.com/JohnSnowLabs/spark-nlp/releases/tag/3.3.0
 * https://www.reddit.com/r/scala/comments/pxxkwj/release_john_snow_labs_sparknlp_330_new_albert/

@@ -86,3 +86,5 @@ https://blog.cloudflare.com/http3-the-past-present-and-future/
 https://blog.eban.bzh/misc/http3.html
 
 https://linuxfr.org/news/le-protocole-quic-desormais-normalise
+
+https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/

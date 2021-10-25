@@ -59,11 +59,14 @@ https://klarasystems.com/articles/explaining-top1-on-freebsd/
 https://cgit.freebsd.org/src/commit/?id=d410b585b6f00a26c2de7724d6576a3ea7d548b7
 * https://news.ycombinator.com/item?id=28927967
 
+https://www.neelc.org/posts/freebsd-speed-shift-laptop/
+
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 * https://news.ycombinator.com/item?id=27191908
 
 # News
+https://docs.freebsd.org/en/articles/bsdl-gpl/#bsd-advantages
 https://dataswamp.org/~solene/2021-10-09-openbsd-wireguard-exit.html
 * https://news.ycombinator.com/item?id=28817312
 https://github.com/InitWare/CGrpFS

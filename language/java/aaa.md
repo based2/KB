@@ -210,6 +210,11 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/google/conscrypt/
+https://netty.io/wiki/forked-tomcat-native.html
+https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java
+https://github.com/iluwatar/java-design-patterns
+https://github.com/BenHerbst/idaesbasic
 https://github.com/openjdk/jfx17u/blob/master/doc-files/release-notes-17.0.1.md
 https://github.com/hardikSinghBehl/ngram-search-API spring-boot JPA
 https://www.morling.dev/blog/executable-javadoc-code-snippets/

@@ -161,6 +161,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 * https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/
+* https://news.ycombinator.com/item?id=28968137
 https://www.w3.org/TR/css-color-adjust-1/
 https://css-tricks.com/the-css-in-react-landscape/
 https://www.smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/

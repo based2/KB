@@ -53,6 +53,7 @@ https://www.audacityteam.org/
 https://krita.org/
 https://www.gimp.org/
 https://inkscape.org/
+  https://github.com/spakin/SimpInkScr
 https://www.freecadweb.org/
 https://www.blender.org/
 * https://www.youtube.com/watch?v=6VjA9EfkFSc Photoscanning
@@ -168,6 +169,11 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.haiku-os.org/blog/mmu_man/2021-10-04_ok_lenovo_we_need_to_talk/
+* https://news.ycombinator.com/item?id=28977175
+https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html
+* https://news.ycombinator.com/item?id=28975659
+https://www.theverge.com/2021/10/22/22740701/microsoft-dotnet-hot-reload-removal-decision-open-source
 https://www.theregister.com/2021/10/23/software_freedom_conservancy_mastodon/
 https://fosdem.org/2022/news/2021-10-22-fosdem-online-2022/
 * https://news.ycombinator.com/item?id=28954986

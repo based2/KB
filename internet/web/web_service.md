@@ -14,6 +14,8 @@ https://github.com/imixs/imixs-jwt
 
 https://news.ycombinator.com/item?id=27727708
 
+https://paseto.io/
+
 # REST
 https://twobithistory.org/2020/06/28/rest.html
 https://restfulapi.net/

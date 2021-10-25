@@ -41,9 +41,11 @@ https://www.sivalabs.in/2021/08/get-super-productive-with-intellij-file-template
 
 https://spring.io/blog/2021/10/13/spring-tips-spring-plugin
 
+https://github.com/codependent/spring-boot-ssl-mutual-authentication
+
 # News
 https://dimitr.im/spring-interface
 https://github.com/hardikSinghBehl/budget-pkce-spring-boot
 https://spring.io/blog/2021/10/07/a-bootiful-podcast-heiko-scherrer-on-openwms-spring-spring-boot-spring-data-workflow-with-activiti-and-more
 https://openwms.github.io/org.openwms/
-
+https://www.quickprogrammingtips.com/spring-boot/history-of-spring-framework-and-spring-boot.html

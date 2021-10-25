@@ -48,6 +48,8 @@ https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/
 * https://news.ycombinator.com/item?id=28207810
 
 # M1
+https://www.anandtech.com/show/17024/apple-m1-max-performance-review
+* https://news.ycombinator.com/item?id=28987276
 https://www.anandtech.com/show/16983/the-apple-a15-soc-performance-review-faster-more-efficient/
 * https://news.ycombinator.com/item?id=28747182
 https://drive.google.com/file/d/1WrMYCZMnhsGP4o3H33ioAUKL_bjuJSPt/view M1 Exploration - v 0.70

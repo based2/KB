@@ -53,6 +53,9 @@ https://news.ycombinator.com/item?id=28008606 Why didn't the early web support m
 
 https://webdevelopmenthistory.com/1997-netscape-crossware-vs-the-windows-web/
 
+https://en.wikipedia.org/wiki/Intelink
+* https://news.ycombinator.com/item?id=28984602
+
 # News
 https://www.archivematica.org/en/
 * https://news.ycombinator.com/item?id=28727207

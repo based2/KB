@@ -12,3 +12,6 @@ https://feed-me-up-scotty.vincenttunru.com/
 https://rssby.email/
 
 https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media
+
+https://quakkels.com/posts/rss-is-wonderful/
+* https://news.ycombinator.com/item?id=28967540

@@ -1,3 +1,6 @@
+https://bestsnip.com/svg_animation/ Online editor to create animated SVG
+* https://news.ycombinator.com/item?id=28983386
+
 https://www.synfig.org/
 
 https://pivotanimator.net/
@@ -61,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html
+* https://news.ycombinator.com/item?id=28963392
 https://www.simplethread.com/animating-with-gsap-and-svg/
 https://news.ycombinator.com/item?id=28851433
 https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac

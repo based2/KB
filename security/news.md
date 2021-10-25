@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=28977313
+
+http://www.noiseprotocol.org/
+
 https://news.ycombinator.com/item?id=28962168 NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised
 
 https://docs.google.com/document/d/1xOWmMueHHRke9aj3oRqNBgK69Y19hgZ7ehM4H9_Me-Y/edit

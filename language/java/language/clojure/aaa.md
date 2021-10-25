@@ -81,6 +81,8 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://bsless.github.io/fast-and-elegant-clojure/ Idiomatic Clojure without sacrificing performance
+* https://news.ycombinator.com/item?id=28956316
 https://cuddly-octo-palm-tree.com/posts/2021-10-03-monads-clojure/
 * https://news.ycombinator.com/item?id=28745059
 https://cljdoc.org/d/metosin/reitit/0.5.15/doc/introduction

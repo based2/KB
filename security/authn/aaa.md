@@ -58,6 +58,7 @@ https://gir.st/blog/greenpass.html
 * https://news.ycombinator.com/item?id=27589913
 
 # News
+https://blog.warrant.dev/implementing-role-based-access-control
 https://github.com/kanidm/kanidm rust
 * https://news.ycombinator.com/item?id=28886636
 https://www.osohq.com/what-is-oso rust

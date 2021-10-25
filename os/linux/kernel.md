@@ -9,10 +9,11 @@ https://github.com/vvaltchev/tilck
 
 https://github.com/a13xp0p0v/linux-kernel-defence-map
 
-https://lwn.net/Articles/865256/ memfd_secret() in 5.14
-* https://news.ycombinator.com/item?id=28241033
+https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/Articles/865256/ memfd_secret() in 5.14
+* https://news.ycombinator.com/item?id=28241033
 https://git.kernel.org/pub/scm/linux/kernel/git/tip/tip.git/log/?h=locking/core
 * https://news.ycombinator.com/item?id=28827251
 https://paulmck.livejournal.com/62436.html

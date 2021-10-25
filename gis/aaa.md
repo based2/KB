@@ -142,7 +142,14 @@ https://en.wikipedia.org/wiki/Peirce_quincuncial_projection
 https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 * https://news.ycombinator.com/item?id=27849366
 
+# History
+https://en.wikipedia.org/wiki/PostGIS
+https://en.wikipedia.org/wiki/Terravision_(computer_program)
+https://en.wikipedia.org/wiki/Esri
+https://www.esri.com/en-us/what-is-gis/history-of-gis
+
 # News
+https://wsdookadr.github.io/posts/p5/ Creating mosaics, clipping and removing overlapping satellite images
 https://bdon.org/blog/web-map-performance/
 * https://news.ycombinator.com/item?id=28833213
 https://news.ycombinator.com/item?id=28854959

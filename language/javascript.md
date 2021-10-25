@@ -106,6 +106,11 @@ https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/
 
 https://stackoverflow.blog/2021/10/20/why-hooks-are-the-best-thing-to-happen-to-react/
 * https://news.ycombinator.com/item?id=28954450
+
+https://beta.reactjs.org/
+* https://news.ycombinator.com/item?id=28969194
+
+https://mantine.dev/
    
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
@@ -259,6 +264,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/olistic/warriorjs
+https://javascript.plainenglish.io/how-to-set-javascript-promise-timeout-7d51c87bc38e?gi=9c421d008be8
 https://github.com/tc39/proposal-pipeline-operator
 * 
 https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html

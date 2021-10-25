@@ -55,6 +55,8 @@ https://blog.jonudell.net/2021/07/27/working-with-postgres-types/
 https://github.com/vramework/postgres-typed
 * https://news.ycombinator.com/item?id=28326117
 
+https://notes.eatonphil.com/exploring-plpgsql.html
+
 ### OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 

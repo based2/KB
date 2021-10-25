@@ -73,6 +73,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://github.com/nuta/kerla
+* https://news.ycombinator.com/item?id=28986229
 https://www.phoronix.com/scan.php?page=news_item&px=8M-IOPS-Per-Core-Linux
 * https://news.ycombinator.com/item?id=28893863
 https://github.com/AdnanHodzic/auto-cpufreq laptop

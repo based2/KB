@@ -79,6 +79,7 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://github.com/dansarie/sboxgates finding low gate count implementations of S-boxes
 https://tobtu.com/blog/2021/10/srp-is-now-deprecated/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584250/
 * https://news.ycombinator.com/item?id=28650946

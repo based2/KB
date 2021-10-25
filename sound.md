@@ -39,6 +39,14 @@ https://alexcrist.github.io/scaler/
 https://github.com/DusteDdk/dstream
 * https://news.ycombinator.com/item?id=28910368
 
+https://sub.live/ Super low-latency jamming over the internet
+* https://news.ycombinator.com/item?id=28968184
+
+https://github.com/projectM-visualizer/projectm
+
+https://www.quantamagazine.org/the-brain-processes-speech-in-parallel-with-other-sounds-20211021/
+* https://news.ycombinator.com/item?id=28966491
+
 # Test
 https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 * https://news.ycombinator.com/item?id=28855654

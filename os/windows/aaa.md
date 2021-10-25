@@ -86,6 +86,9 @@ https://www.phoronix.com/scan.php?page=article&item=windows11-wsl2-good&num=1
 https://github.com/valinet/ExplorerPatcher
 
 # News
+https://borncity.com/win/2021/10/23/microsoft-signiert-windows-treiber-fr-process-hacker-nicht-mehr/
+* https://news.ycombinator.com/item?id=28975856
+https://github.com/lostindark/DriverStoreExplorer
 https://github.com/ChrisTitusTech/win10script
 * https://news.ycombinator.com/item?id=28954032
 https://blogs.windows.com/windows-insider/2021/10/20/introducing-android-apps-on-windows-11-to-windows-insiders/

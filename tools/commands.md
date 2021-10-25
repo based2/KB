@@ -30,6 +30,7 @@ https://earthly.dev/blog/awk-examples/
 * https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/zevv/lsofgraph
 http://orion.feralhosting.com:8888/do-one-thing-with-ls.html
 https://github.com/landley/toybox android
 * https://news.ycombinator.com/item?id=28627433

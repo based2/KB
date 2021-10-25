@@ -58,6 +58,13 @@ https://www.beatportal.com/features/beatports-definitive-guide-to-techno/
 https://www.bespokesynth.com/
 * https://news.ycombinator.com/item?id=28529672
 
+https://notes.ameo.design/fm.html
+
+https://daftpunk.com/
+
+https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown
+* https://news.ycombinator.com/item?id=28975105
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 * https://news.ycombinator.com/item?id=28727084
@@ -98,6 +105,8 @@ https://rave.dj/
 https://www.nature.com/articles/s41598-021-95922-7 Mozart’s Sonata for Two Pianos in D Major (K448)
 
 https://paulrosen.github.io/abcjs/
+
+https://ludotune.com
 
 # Instrument
 https://www.pianobook.co.uk/

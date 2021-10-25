@@ -17,6 +17,8 @@ https://dither8.xyz/blog/img-future/
 * https://news.ycombinator.com/item?id=28219972
 
 # News
+https://internetobject.org/
+* https://news.ycombinator.com/item?id=28977345
 https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html
 * https://news.ycombinator.com/item?id=28831347
 https://github.com/johnkerl/miller

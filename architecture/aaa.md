@@ -6,6 +6,7 @@ https://github.com/awslabs/smithy
 
 https://www.archimatetool.com/ http://archi-contribs.github.io/ https://www.archimatetool.com/beta/
 http://plantuml.com/
+http://plantuml-depend.sourceforge.net/
 https://c4model.com/ https://fundingcircle.github.io/fc4-framework/ https://github.com/structurizr/java
   https://icepanel.io/c4-model/ https://news.ycombinator.com/item?id=28684447
 https://jsonnet.org/
@@ -105,6 +106,9 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/gossip-dissemi
 * https://news.ycombinator.com/item?id=27548878
 
 https://chrisza.me/microservice-start-not-start/
+
+https://www.infoq.com/articles/consistency-coupling-complexity/
+* https://news.ycombinator.com/item?id=28985889
 
 # API
 https://google.aip.dev/

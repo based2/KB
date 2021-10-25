@@ -240,6 +240,8 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://developer.ibm.com/blogs/kserve-and-watson-modelmesh-extreme-scale-model-inferencing-for-trusted-ai/
+https://www.sciencedirect.com/science/article/abs/pii/S0306452221005017
 https://www.lalal.ai/blog/meet-lalal-ai-cassiopeia-a-milestone-in-music-source-separation/
 https://pytorch.org/blog/pytorch-1.10-released/
 * https://news.ycombinator.com/item?id=28955146

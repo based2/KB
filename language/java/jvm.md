@@ -33,6 +33,8 @@ https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-mill
 
 http://clojure-goes-fast.com/blog/shenandoah-in-production/
 
+https://blog.gceasy.io/2021/10/15/interesting-garbage-collection-patterns/
+
 # Test
 https://github.com/ota4j-team/opentest4j
 

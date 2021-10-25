@@ -13,6 +13,8 @@ https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-
 https://www.pc.gov.au/inquiries/current/repair/draft/repair-draft.pdf
 * https://news.ycombinator.com/item?id=27468297
 
+https://frame.work/
+
 #
 https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i
 * https://news.ycombinator.com/item?id=27576120
@@ -31,6 +33,7 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 * https://news.ycombinator.com/item?id=28018057
 
 # News
+https://www.cbc.ca/radio/quirks/oct-23-vikings-in-newfoundland-new-rocks-from-the-moon-making-wood-better-and-more-1.6219865/scientists-have-found-a-way-to-harden-wood-to-make-a-knife-that-rivals-steel-1.6219874
 https://arstechnica.com/gadgets/2021/09/fairphone-4-has-an-incredible-5-year-warranty-aims-for-6-years-of-updates/
 * https://news.ycombinator.com/item?id=28705196
 https://ec.europa.eu/commission/presscorner/detail/en/ip_21_4613

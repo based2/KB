@@ -1,3 +1,5 @@
+http://johannes.tax/Understanding_Java_Lambdas.html
+
 Design Patterns in the Light of Lambda Expressions (Java 8) -- Venkat Subramaniam
 https://www.youtube.com/watch?v=gIrKP76iuPs
 
@@ -8,3 +10,5 @@ https://www.youtube.com/watch?v=MLksirK9nnE
 
 https://www.java67.com/2019/06/top-5-sorting-examples-of-comparator-and-comparable-in-java.html
 * https://www.reddit.com/r/java/comments/popsvy/6_advanced_comparator_and_comparable_examples_in/
+
+https://www.reddit.com/r/java/comments/8i9nd6/a_surprising_feature_of_method_references/

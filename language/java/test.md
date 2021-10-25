@@ -72,6 +72,12 @@ https://www.bingobongotesting.org/
 
 https://eng.uber.com/handling-flaky-tests-java/
 
+http://htmlelements.qatools.ru/
+
+# DB
+
+https://github.com/yandex-qatools/postgresql-embedded
+
 # TDD
 https://cucumber.io/
 https://cucumber.io/docs/gherkin/

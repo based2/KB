@@ -72,6 +72,8 @@ https://lefakkomies.github.io/pynomo-doc/introduction/introduction.html
 
 https://valdes.cc/articles/ch.html
 
+https://polyhedra.tessera.li/
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
@@ -79,6 +81,7 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://www.3blue1brown.com/blog/some1-results
 https://github.com/Chakazul/Lenia
 https://amathr.org/software/
 * https://news.ycombinator.com/item?id=28822886

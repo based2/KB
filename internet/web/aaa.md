@@ -46,6 +46,7 @@ https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
 * https://news.ycombinator.com/item?id=28827509
 
 # News
+https://gemini.circumlunar.space/docs/faq.gmi
 https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/
 * https://news.ycombinator.com/item?id=28800818
 https://supchina.com/2021/09/29/government-announces-three-year-plan-to-tame-chinas-algorithms/

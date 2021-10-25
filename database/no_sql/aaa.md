@@ -8,3 +8,6 @@ https://rxdb.info/why-nosql.html
 
 https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/
 * https://news.ycombinator.com/item?id=28804894
+
+https://www.amazonredshiftresearchproject.org/white_papers/downloads/bytedict_encoding.pdf redshift
+

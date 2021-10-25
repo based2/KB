@@ -159,6 +159,9 @@ https://arxiv.org/abs/2105.01830
 https://gnucobol.sourceforge.io/
 * https://news.ycombinator.com/item?id=26734721
 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928948
+* https://news.ycombinator.com/item?id=28981296
+
 ## LISP
 https://lisp-lang.org/
 * https://news.ycombinator.com/item?id=28725958
@@ -178,6 +181,12 @@ https://github.com/carp-lang/Carp
 * https://github.com/carp-lang/Carp
 
 # News
+http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library
+* https://news.ycombinator.com/item?id=28975453
+https://wren.io/
+https://www.pyret.org/index.html
+* https://blog.brownplt.org/2018/06/11/philogenic-colors.html
+https://queue.acm.org/detail.cfm?id=3487021 Static Analysis: An Introduction
 https://github.com/melsman/apltail
 https://www.fredrikholmqvist.com/posts/print-dependency-injection/
 * https://news.ycombinator.com/item?id=28915630

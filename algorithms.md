@@ -26,6 +26,8 @@ https://ordep.dev/posts/my-favorite-papers
 
 https://alexgolec.dev/reddit-interview-problems-the-game-of-life/
 
+https://jeffe.cs.illinois.edu/teaching/algorithms/#book
+
 # State machine
 https://barrgroup.com/embedded-systems/how-to/introduction-hierarchical-state-machines
 https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/

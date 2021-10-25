@@ -37,6 +37,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 * https://news.ycombinator.com/item?id=27360600
 
 # News
+https://thenewstack.io/how-ebpf-streamlines-the-service-mesh/
+* https://news.ycombinator.com/item?id=28989121
 https://arccompute.com/blog/libvfio-commodity-gpu-multiplexing/
 * https://news.ycombinator.com/item?id=28944426
 

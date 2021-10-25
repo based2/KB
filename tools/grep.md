@@ -1,6 +1,11 @@
 https://www.gnu.org/software/grep/
 
-https://beyondgrep.com/ Ack
+https://github.com/BurntSushi/ripgrep
+
+https://beyondgrep.com/feature-comparison/
+* https://news.ycombinator.com/item?id=28976635
+
+https://beyondgrep.com/ Ack Perl
 
 https://github.com/BurntSushi/ripgrep
 
@@ -22,3 +27,4 @@ https://noahan.me/posts/effective-code-browsing-part1/
 * https://news.ycombinator.com/item?id=28781583
 
 https://news.ycombinator.com/item?id=28959174 Show HN: Semgrep App - OCaml
+https://r2c.dev/blog/2021/taint-mode-is-now-in-beta/

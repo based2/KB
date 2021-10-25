@@ -8,6 +8,8 @@ https://eaftan.github.io/hash-ordering/
 
 https://dl.acm.org/doi/pdf/10.1145/3309206
 
+https://en.wikipedia.org/wiki/Hash_array_mapped_trie
+https://en.wikipedia.org/wiki/Ctrie
 
 https://francoisbest.com/posts/2021/hashvatars
 * https://news.ycombinator.com/item?id=26861728

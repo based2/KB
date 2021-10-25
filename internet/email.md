@@ -86,10 +86,11 @@ https://spamassassin.apache.org/
 https://www.semanticscholar.org/paper/Spamalot%3A-A-Toolkit-for-Consuming-Spammers%27-Nelson-Dallmeyer/97b8c4e291835ca3d11e0e6d924dc436ea31a4c7?p2df
 
 # News
+https://blog.runbox.com/2021/10/runbox-is-under-attack-by-extortionists/
+* https://news.ycombinator.com/item?id=28968046
 https://www.fastmailstatus.com/
 * https://news.ycombinator.com/item?id=28952954
 https://news.ycombinator.com/item?id=28887234
-* 
 https://simianlogic.com/blog/2021/how-not-to-migrate-an-email-domain.html
 * https://news.ycombinator.com/item?id=28835542
 http://www.faqs.org/faqs/internet-services/access-via-email/

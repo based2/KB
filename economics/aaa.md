@@ -50,6 +50,10 @@ https://fsi.taxjustice.net/en/
 
 https://www.oecd.org/countries/monaco/list-of-unco-operative-tax-havens.htm
 
+https://www.bundesbank.de/en/press/speeches/exploring-a-digital-euro-875408
+
+https://en.wikipedia.org/wiki/Wildcat_banking
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 * https://news.ycombinator.com/item?id=27763965

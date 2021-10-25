@@ -46,7 +46,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.bloomberg.com/graphics/2021-china-climate-change-biggest-carbon-polluters/
+* 
+https://www.bloomberg.com/features/top-methane-gas-leak-problem-2021/
 https://www.bbc.com/news/uk-england-london-58932313
+* https://news.ycombinator.com/item?id=28967354
+* https://www.researchsquare.com/article/rs-112257/v1
 https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/
 https://www.cell.com/matter/fulltext/S2590-2385(21)00465-3
 * https://news.ycombinator.com/item?id=28945312

@@ -1,4 +1,6 @@
-althhttps://symas.com/cache-management-lessons-learned/
+hhttps://symas.com/cache-management-lessons-learned/
+
+https://blog.frankel.ch/choose-cache/1/
 
 https://www.morganclaypool.com/doi/pdf/10.2200/S00962ED2V01Y201910CAC049 A Primer onMemory Consistencyand Cache Coherence
 

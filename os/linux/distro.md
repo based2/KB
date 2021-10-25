@@ -58,6 +58,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://blog.sinjakli.co.uk/2021/10/25/waiting-for-apt-locks-without-the-hacky-bash-scripts/
+https://www.devuan.org/os/announce/chimaera-release-announce-2021-10-14
 https://ariadne.space/2021/10/01/bits-related-to-alpine-security-initiatives-in-september/
 https://files.devuan.org/devuan_chimaera/Release_notes.txt
 https://www.mageialinux-online.org/mlo/

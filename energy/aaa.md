@@ -12,6 +12,7 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.thedrive.com/the-war-zone/42818/this-alaskan-air-base-will-host-an-experimental-mini-nuclear-reactor
 https://polymerist.substack.com/p/oil-companies-placing-big-bets-on
 * https://news.ycombinator.com/item?id=28884471
 https://www.eia.gov/outlooks/ieo/

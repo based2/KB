@@ -16,6 +16,8 @@ https://news.ycombinator.com/item?id=28737300
 
 https://jdhao.github.io/2021/07/11/from_vim_plug_to_packer/
 
+https://news.ycombinator.com/item?id=28955115 lua
+
 # Nano
 
 

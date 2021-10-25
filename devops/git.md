@@ -223,6 +223,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/Artawower/blamer.el
+* https://news.ycombinator.com/item?id=28988346
 https://emacsair.me/2017/09/01/the-magical-git-interface/
 * https://news.ycombinator.com/item?id=28954058
 https://blog.ploeh.dk/2015/01/15/10-tips-for-better-pull-requests/

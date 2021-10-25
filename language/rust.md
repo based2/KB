@@ -280,6 +280,12 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://yieldcode.blog/supercharge-nodejs-with-rust/
+* https://news.ycombinator.com/item?id=28976341
+https://cprimozic.net/blog/programming-speed-strategies/
+https://alexis-lozano.com/hexagonal-architecture-in-rust-7/
+https://quickwit.io/blog/search-a-sorted-block/
+* https://news.ycombinator.com/item?id=28955461
 https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html
 * https://news.ycombinator.com/item?id=28945420
 https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21 

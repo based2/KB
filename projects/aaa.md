@@ -41,6 +41,8 @@ https://modelthinkers.com/mental-model/scarf-model
 https://www.simplethread.com/agile-at-20-the-failed-rebellion/
 * https://news.ycombinator.com/item?id=27946382
 
+https://rchaves.app/why-agile-works/
+
 ## Scrum
 https://scrumguides.org/
 
@@ -89,6 +91,9 @@ https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html
 
 https://tinkeredthinking.com/index.php?id=833
 * https://news.ycombinator.com/item?id=28955154
+
+https://blog.abhi.se/on-impact-effort-prioritization
+* https://news.ycombinator.com/item?id=28979210
 
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
@@ -166,6 +171,11 @@ https://www.musicforprogramming.net/
 * https://news.ycombinator.com/item?id=27737887
 
 # News
+https://larahogan.me/blog/my-team-is-going-in-circles/
+*
+https://www.youtube.com/watch?v=ROOiCUfj9pw Elon & Sandy: Design Philosophy Parallels | PART 1
+https://danluu.com/look-stupid/
+* https://news.ycombinator.com/item?id=28942189
 https://stackoverflow.blog/2021/10/18/code-quality-a-concern-for-businesses-bottom-lines-and-empathetic-programmers/
 * https://news.ycombinator.com/item?id=28926825
 https://yosefk.com/blog/people-can-read-their-managers-mind.html

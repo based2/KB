@@ -30,4 +30,5 @@ https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 
 # News
+https://web.archive.org/web/20210122221327/http://www.lbackup.org/synchronizing_disk_images_between_machines osx
 https://news.ycombinator.com/item?id=28957573 Ask HN: Best way to host a website for 500 years?
