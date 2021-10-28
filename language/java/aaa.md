@@ -210,6 +210,8 @@ https://github.com/ufuu/JDK10 1.0
 * https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://inside.java/2021/10/26/why-user-mode-thread-video/
+https://www.manorrock.com/blog/2021/09/22/can_java_cold_start.html
 https://github.com/google/conscrypt/
 https://netty.io/wiki/forked-tomcat-native.html
 https://wiki.sei.cmu.edu/confluence/display/java/SEI+CERT+Oracle+Coding+Standard+for+Java

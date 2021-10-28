@@ -15,3 +15,6 @@ https://github.com/susam/lab/tree/master/web/sockets
 https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/
     
 SSE
+
+https://making.close.com/posts/reliable-websockets/
+* https://news.ycombinator.com/item?id=29026740

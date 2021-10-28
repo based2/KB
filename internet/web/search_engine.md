@@ -59,6 +59,9 @@ https://github.com/benbusby/whoogle-search
 * https://news.ycombinator.com/item?id=28326180
 
 # News
+https://arxiv.org/abs/1509.05053 Array Layouts for Comparison-Based Searching
+* https://news.ycombinator.com/item?id=28989690
+* https://www.youtube.com/watch?v=-1qRcDnbihA
 https://duckduckgo.com/tty/
 * https://news.ycombinator.com/item?id=28938265
 http://highscalability.com/blog/2021/10/11/scaling-indexing-and-search-algolia-new-search-architecture.html

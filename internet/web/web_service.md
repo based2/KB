@@ -40,3 +40,8 @@ https://blog.restcase.com/7-rules-for-rest-api-uri-design/
 
 https://slinkp.com/falsehoods-programmers-believe-about-apis.html
 * https://lobste.rs/s/ocpa9l/falsehoods_programmers_believe_about
+
+https://twobithistory.org/2020/06/28/rest.html
+* https://news.ycombinator.com/item?id=29009729
+
+https://ondro.inginea.eu/index.php/portable-cdi-injection-into-jax-rs-sub-resources/

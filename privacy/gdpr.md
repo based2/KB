@@ -53,6 +53,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/
+* https://news.ycombinator.com/item?id=28986735
 https://www.rte.ie/news/business/2021/0902/1244293-whatsapp-gdpr-ruling/
 * https://news.ycombinator.com/item?id=28390308
 https://www.grcworldforums.com/gdpr/is-zoom-illegal-in-the-eu-unpacking-the-hamburg-dpas-decision/2384.article

@@ -201,8 +201,12 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 https://jsvine.github.io/intro-to-visidata/index.html
 * https://news.ycombinator.com/item?id=28802777
 
-
 # News
+https://hop.apache.org/blog/2021/10/hop-1.0.0/
+https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/
+* https://news.ycombinator.com/item?id=29004757
+https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/
+* https://news.ycombinator.com/item?id=29010103
 https://dionhaefner.github.io/2021/09/bayesian-histograms-for-rare-event-classification/
 * https://news.ycombinator.com/item?id=28882461
 https://github.com/finos/perspective/

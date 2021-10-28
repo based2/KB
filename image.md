@@ -15,7 +15,8 @@ https://www.remove.bg
 
 https://github.com/ORB-HD/deface
 
-
-
 https://www.getrevue.co/profile/shift-happens/issues/moire-no-more-688319
+
+https://onlinegiftools.com/
+* https://news.ycombinator.com/item?id=29020202
 

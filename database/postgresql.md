@@ -155,6 +155,10 @@ https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and
 * https://news.ycombinator.com/item?id=28873779
 
 # News
+https://babelfishpg.org/
+* https://github.com/babelfish-for-postgresql SQL server compatibility layer by AWS
+https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production
+https://stackgres.io/blog/stackgres-1-0-0-open-source-postgres-aas-with-120-extensions/
 https://blog.timescale.com/blog/function-pipelines-building-functional-programming-into-postgresql-using-custom-operators/
 * https://news.ycombinator.com/item?id=28919205
 https://www.migops.com/blog/2021/10/14/stored-procedure-out-parameters-in-postgresql-14/

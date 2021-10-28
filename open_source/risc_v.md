@@ -34,6 +34,9 @@ https://github.com/lekkit/rvvm
 * https://news.ycombinator.com/item?id=27918744
 
 # News
+https://semiengineering.com/high-level-synthesis-for-risc-v/
+https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/
+* https://news.ycombinator.com/item?id=29004551
 https://fuse.wikichip.org/news/6413/alibaba-open-source-xuantie-risc-v-cores-introduces-in-house-armv9-server-chip/
 * https://news.ycombinator.com/item?id=28939287
 https://www.intel.com/content/www/us/en/products/details/fpga/nios-processor/v.html

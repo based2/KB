@@ -74,6 +74,8 @@ https://valdes.cc/articles/ch.html
 
 https://polyhedra.tessera.li/
 
+https://www.quantamagazine.org/how-tadayuki-watanabe-solved-a-topological-mystery-about-spheres-20211026/
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 * https://news.ycombinator.com/item?id=27737705
@@ -81,6 +83,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://www.youtube.com/watch?v=KyUPwfBLjEQ Essential calculus ideas by Paul Lutus
+* https://news.ycombinator.com/item?id=29011549
 https://www.3blue1brown.com/blog/some1-results
 https://github.com/Chakazul/Lenia
 https://amathr.org/software/

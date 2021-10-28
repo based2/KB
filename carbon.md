@@ -46,8 +46,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://news.mongabay.com/2021/10/a-new-100-page-report-raises-alarm-over-chevrons-impact-on-planet/
+https://www.nrel.gov/news/press/2021/new-data-set-quantifies-how-when-energy-used-across-all-major-us-building-types-climate-regions.html
+https://www.wsj.com/articles/payments-company-stripe-is-kick-starting-market-for-carbon-removal-11635274208
+* https://news.ycombinator.com/item?id=29007726
 https://www.bloomberg.com/graphics/2021-china-climate-change-biggest-carbon-polluters/
-* 
 https://www.bloomberg.com/features/top-methane-gas-leak-problem-2021/
 https://www.bbc.com/news/uk-england-london-58932313
 * https://news.ycombinator.com/item?id=28967354

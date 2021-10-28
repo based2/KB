@@ -30,6 +30,10 @@ https://earthly.dev/blog/awk-examples/
 * https://news.ycombinator.com/item?id=28707463
 
 # News
+https://lwn.net/SubscriberLink/874049/bf89a969ed3dde87/ which non-POSIX
+* https://news.ycombinator.com/item?id=29026623
+https://the.exa.website/introduction ls alt
+* https://news.ycombinator.com/item?id=29014279
 https://github.com/zevv/lsofgraph
 http://orion.feralhosting.com:8888/do-one-thing-with-ls.html
 https://github.com/landley/toybox android

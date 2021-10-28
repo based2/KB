@@ -68,6 +68,7 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://github.com/Iltotore/iron type constraint system
 https://appddeevvmeanderings.blogspot.com/2021/10/scala3-zio-dotty-cps-async-field-report.html
 https://scala-native.readthedocs.io/en/latest/changelog/0.4.1.html
 https://www.lightbend.com/blog/on-the-future-of-play-framework

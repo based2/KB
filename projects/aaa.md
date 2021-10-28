@@ -43,6 +43,9 @@ https://www.simplethread.com/agile-at-20-the-failed-rebellion/
 
 https://rchaves.app/why-agile-works/
 
+https://martinfowler.com/articles/art-agile-foreword.html
+* https://news.ycombinator.com/item?id=29000973
+
 ## Scrum
 https://scrumguides.org/
 

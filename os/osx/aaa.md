@@ -53,7 +53,6 @@ https://www.anandtech.com/show/17024/apple-m1-max-performance-review
 https://www.anandtech.com/show/16983/the-apple-a15-soc-performance-review-faster-more-efficient/
 * https://news.ycombinator.com/item?id=28747182
 https://drive.google.com/file/d/1WrMYCZMnhsGP4o3H33ioAUKL_bjuJSPt/view M1 Exploration - v 0.70
-*
 https://twitter.com/alyssarzg/status/1432927311058194436
 * https://news.ycombinator.com/item?id=28377561
 https://eclecticlight.co/2021/09/01/m1-icestorm-cores-can-still-perform-very-well/
@@ -70,7 +69,6 @@ https://eclecticlight.co/2021/04/22/can-you-trust-floating-point-arithmetic-on-a
 https://developer.apple.com/metal/tensorflow-plugin/
 * https://news.ycombinator.com/item?id=27442475
 https://www.jeffgeerling.com/blog/2021/apple-m1-compiles-linux-30-faster-my-intel-i9
-*
 https://www.willusher.io/graphics/2020/12/20/rt-dive-m1
 * https://news.ycombinator.com/item?id=27340555
 https://blogs.blackberry.com/en/2021/05/strong-arming-with-macos-adventures-in-cross-platform-emulation
@@ -104,6 +102,10 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html
+* https://news.ycombinator.com/item?id=28994800
+https://brew.sh/2021/10/25/homebrew-3.3.0/
+https://www.apple.com/newsroom/2021/10/macos-monterey-is-now-available/
 https://eclecticlight.co/2021/09/19/last-week-on-my-mac-the-macos-update-problem/
 https://fmentzer.github.io/posts/2020/dictionary/
 * https://news.ycombinator.com/item?id=28505406

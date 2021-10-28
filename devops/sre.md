@@ -31,6 +31,8 @@ https://principles.green/
 * https://news.ycombinator.com/item?id=28615321
 
 # News
+https://www.ias.ac.in/article/fulltext/sadh/011/01-02/0007-0022 A tutorial on the principles of fault tolerance
+* https://news.ycombinator.com/item?id=29021769
 https://bravenewgeek.com/sre-doesnt-scale/
 * https://news.ycombinator.com/item?id=28825352
 https://danluu.com/in-house/

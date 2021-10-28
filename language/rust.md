@@ -280,6 +280,13 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://mabez.dev/blog/posts/esp-rust-18-10-2021/
+https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
+https://www.osohq.com/post/cross-platform-rust-libraries
+* https://news.ycombinator.com/item?id=29015235
+https://fasterthanli.me/articles/my-ideal-rust-workflow
+* https://news.ycombinator.com/item?id=29010327
+https://softwaremaniacs.org/blog/2021/10/25/debounce/en/
 https://yieldcode.blog/supercharge-nodejs-with-rust/
 * https://news.ycombinator.com/item?id=28976341
 https://cprimozic.net/blog/programming-speed-strategies/

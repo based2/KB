@@ -66,6 +66,9 @@ https://jacobkiers.net/hod/
 * https://news.ycombinator.com/item?id=28218406
 
 # News
+https://blog.cloudflare.com/introducing-1-1-1-1-for-families/
+* https://news.ycombinator.com/item?id=29024195
+https://news.ycombinator.com/item?id=29026870
 https://www.bortzmeyer.org/panne-godaddy.html
 https://jpmens.net/2021/10/05/dnssec-cds-cdnskey-in-the-real-world/
 https://desec.io/

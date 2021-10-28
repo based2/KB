@@ -86,6 +86,11 @@ https://spamassassin.apache.org/
 https://www.semanticscholar.org/paper/Spamalot%3A-A-Toolkit-for-Consuming-Spammers%27-Nelson-Dallmeyer/97b8c4e291835ca3d11e0e6d924dc436ea31a4c7?p2df
 
 # News
+https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs/
+* https://news.ycombinator.com/item?id=29021312
+https://josh.blog/2021/10/block-remote-content-in-macos-12-mail-app
+https://www.bleepingcomputer.com/news/microsoft/microsoft-365-will-get-support-for-custom-arc-configurations/
+* https://datatracker.ietf.org/doc/html/rfc8617
 https://blog.runbox.com/2021/10/runbox-is-under-attack-by-extortionists/
 * https://news.ycombinator.com/item?id=28968046
 https://www.fastmailstatus.com/

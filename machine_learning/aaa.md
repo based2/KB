@@ -106,6 +106,9 @@ https://copilot.github.com/
   * https://openai.com/blog/openai-codex/
     * https://news.ycombinator.com/item?id=28131745
 
+    https://github.com/github/copilot-docs/tree/main/docs
+    * https://news.ycombinator.com/item?id=29016506
+
 https://visualstudio.microsoft.com/fr/services/intellicode/
 
 https://research.ibm.com/blog/codenet-ai-for-code
@@ -240,6 +243,14 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://ai.googleblog.com/2021/10/goemotions-dataset-for-fine-grained.html
+https://arxiv.org/abs/2103.14749 Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks
+* https://news.ycombinator.com/item?id=29026944
+https://pycaret.org/
+https://news.mit.edu/2021/artificial-intelligence-brain-language-1025
+https://studios.disneyresearch.com/2021/06/19/adaptive-convolutions-for-structure-aware-style-transfer/
+https://www.slideshare.net/GaelVaroquaux/dirty-data-science-machine-learning-on-noncurated-data
+* https://news.ycombinator.com/item?id=29013054
 https://developer.ibm.com/blogs/kserve-and-watson-modelmesh-extreme-scale-model-inferencing-for-trusted-ai/
 https://www.sciencedirect.com/science/article/abs/pii/S0306452221005017
 https://www.lalal.ai/blog/meet-lalal-ai-cassiopeia-a-milestone-in-music-source-separation/

@@ -74,6 +74,8 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 * https://news.ycombinator.com/item?id=27872243
 
 # News
+https://www.ericsson.com/en/openness-innovation/open-ran-explained
+* https://news.ycombinator.com/item?id=28987082
 https://staceyoniot.com/satellite-iot-dreams-are-crashing-into-reality/
 * https://news.ycombinator.com/item?id=28934566
 https://www.co-buildings.com/

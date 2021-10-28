@@ -12,3 +12,5 @@ https://www.electronicdesign.com/technologies/communications/article/21798737/un
 https://spectrum.ieee.org/event-based-camera-chips
 
 https://www.nutsvolts.com/magazine/article/calculating_current
+
+https://techexplorations.com/blog/kicad/kicad-6-review-new-and-improved-features/

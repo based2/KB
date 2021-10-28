@@ -3,3 +3,5 @@ https://facebookresearch.github.io/Kats/
   * https://facebook.github.io/prophet/
 
 https://en.wikipedia.org/wiki/Granger_causality
+
+https://www.pinecone.io/learn/time-series-vectors/

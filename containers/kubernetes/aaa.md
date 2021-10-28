@@ -56,6 +56,7 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.useboomerang.io/
 https://kubernetes.io/blog/2021/10/08/capi-clusterclass-and-managed-topologies/
 https://rancherdesktop.io/
 * https://news.ycombinator.com/item?id=28835690

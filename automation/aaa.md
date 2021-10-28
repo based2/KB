@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 * https://news.ycombinator.com/item?id=27510919
 
 # News
+https://ballerina.io/
+* https://news.ycombinator.com/item?id=29011588
 https://danielmangum.com/posts/infrastructure-in-your-software-packages/
 https://www.zdnet.com/article/triggermesh-cloud-native-automation-goes-open-source/
 https://macoy.me/blog/programming/InterfaceFriction

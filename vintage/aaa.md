@@ -39,6 +39,9 @@ https://archives.loomcom.com/contraltojs/ ContrAltoJS Xerox Alto Emulator
 https://vintageapple.org/byte/
 * https://news.ycombinator.com/item?id=28684406
 
+https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/
+* https://news.ycombinator.com/item?id=28986682
+
 
 
 

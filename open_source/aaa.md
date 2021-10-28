@@ -169,6 +169,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://mikemcquaid.com/2021/10/27/open-source-economics/
+* https://news.ycombinator.com/item?id=29018073
+https://astoilkov.com/open-source-contributors-worth-sponsoring
+* https://news.ycombinator.com/item?id=29024804
+https://mikemcquaid.com/2018/03/19/open-source-maintainers-owe-you-nothing/
+https://closember.org/
 https://www.haiku-os.org/blog/mmu_man/2021-10-04_ok_lenovo_we_need_to_talk/
 * https://news.ycombinator.com/item?id=28977175
 https://drewdevault.com/2020/07/27/Anti-AGPL-propaganda.html

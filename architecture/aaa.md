@@ -78,9 +78,7 @@ https://arxiv.org/abs/2109.14520 Improving DRAM Performance, Security, and Relia
 
 https://pkolaczk.github.io/overhead-of-optional/ java rust optional null
 
-## HPC
-https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
-* https://news.ycombinator.com/item?id=28849854
+
 
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
@@ -121,16 +119,17 @@ https://github.com/public-apis/public-apis
 https://github.com/mhadidg/software-architecture-books
 * https://news.ycombinator.com/item?id=27683966
 
-# Photo23D
-    Website: https://boofcv.org
-    Example code for scene recognition/image retrieval. https://boofcv.org/index.php?title=Example_Scene_Recognition
-    Example code for 3D Reconstruction to create point clouds https://boofcv.org/index.php?title=Example_Multiview_Reconstruction_Dense
+## HPC
+https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
+* https://news.ycombinator.com/item?id=28849854
 
-https://stuvel.eu/articles/spherical-panoramas/
-* https://news.ycombinator.com/item?id=28349246
+https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 
 # News
+https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2
+* https://news.ycombinator.com/item?id=29024767
+* https://www.oreilly.com/content/software-architecture-patterns/
 https://www.roundcrisis.com/2021/09/28/bytesize-architecture-sessions/
 * https://news.ycombinator.com/item?id=28771243
 https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing

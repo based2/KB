@@ -18,6 +18,10 @@ https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 
 # News
+https://www.grc.nasa.gov/WWW/k-12/airplane/wrong1.html
+* https://news.ycombinator.com/item?id=29011449
+https://www.flightglobal.com/flight-international/why-aviations-compass-is-shifting-towards-true-navigation/145663.article
+* https://news.ycombinator.com/item?id=28985745
 http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html
 * https://news.ycombinator.com/item?id=28964460
 https://github.com/szpajder/dumphfdl

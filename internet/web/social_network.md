@@ -7,6 +7,9 @@ https://gist.github.com/linkdd/76fd57d02480c3e36a4e3f8ce39322b1 Add a bell emoji
 https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0
 * https://news.ycombinator.com/item?id=28595967
 
+https://bengtan.com/blog/open-secrets-hacker-news/
+* https://news.ycombinator.com/item?id=29024032
+
 # Slashdot
 
 # Reddit
@@ -19,6 +22,12 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 # Dmoz
 
 #
+https://twitter.com/fbnewsroom/status/1453788507630014464 FB -> Meta
+https://about.fb.com/news/2021/10/founders-letter/
+* https://news.ycombinator.com/item?id=29030009
+* https://wiki.secondlife.com/wiki/LSL_Portal
+* https://www.meta.org/
+ * https://news.ycombinator.com/item?id=29030212  
 https://knowingless.com/2017/05/02/internet-communities-otters-vs-possums/
 * https://news.ycombinator.com/item?id=28942733
 https://news.ycombinator.com/item?id=28829843

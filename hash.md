@@ -73,6 +73,8 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://www.franzoni.eu/consistent-hashing-for-dummies/
+* https://news.ycombinator.com/item?id=29025274
 https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1
 * https://news.ycombinator.com/item?id=28889442
 https://pypi.org/project/videohash/

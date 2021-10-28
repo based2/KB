@@ -170,6 +170,11 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/
+* https://news.ycombinator.com/item?id=29005573
+https://programsareproofs.com/articles/functiontrace_glyphslib.html
+https://docs.python.org/3/whatsnew/3.10.html
+* https://news.ycombinator.com/item?id=29014848
 https://nmigen.info/nmigen/latest/intro.html
 https://blog.chiodini.org/posts/python-global/
 https://www.python.org/dev/peps/pep-0670/

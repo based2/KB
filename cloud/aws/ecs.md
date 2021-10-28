@@ -20,3 +20,5 @@ https://www.daemonology.net/blog/2021-08-12-EC2-boot-time-benchmarking.html
 https://omerxx.com/identity-aware-proxy-ecs/
 
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definition_parameters.html#container_definition_environment
+
+https://databasearchitects.blogspot.com/2021/07/aws-ec2-hardware-trends-2015-2021.html

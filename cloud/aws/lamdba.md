@@ -14,3 +14,6 @@ https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for
 * https://news.ycombinator.com/item?id=28838716
 
 https://www.elastic.co/blog/tracing-aws-lambdas-with-opentelemetry-and-elastic-observability
+
+https://www.tbray.org/ongoing/When/202x/2021/10/26/URI-based-Integration
+* https://news.ycombinator.com/item?id=29018762

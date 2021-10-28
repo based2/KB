@@ -57,6 +57,8 @@ https://destevez.net/2021/10/tianwen-1-communications-relay-orbit/
 # Physic
 ## Astronomy
 
+https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html
+* https://news.ycombinator.com/item?id=28991537
 
 https://craffic.co.in/astronomers-simulate-virtual-universe-download-free/
 
@@ -91,6 +93,11 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/
+* https://news.ycombinator.com/item?id=29025020
+https://destevez.net/2021/10/an-update-about-lucys-telemetry/
+https://www.orbitalreef.com/
+* https://news.ycombinator.com/item?id=28989846
 https://blog.jatan.space/p/space-missions-lost-to-human-errors
 https://interestingengineering.com/south-korea-launched-its-first-domestically-built-rocket-into-space
 https://physics.aps.org/articles/v14/143 MOND

@@ -37,6 +37,8 @@ https://librecellular.org/
 https://github.com/ddosify/ddosify
 * https://www.reddit.com/r/netsec/comments/q8kbzp/ddosify_highperformance_load_testing_tool_written/
 
+https://news.ycombinator.com/item?id=29031488
+
 # TDD
 https://factorio.com/blog/post/fff-366
 * https://news.ycombinator.com/item?id=27549143
@@ -86,5 +88,7 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 
 
 # News
+https://www.flakybot.com/
+* https://news.ycombinator.com/item?id=29028681
 https://lemire.me/blog/2021/10/21/converting-binary-floating-point-numbers-to-integers/
 * https://news.ycombinator.com/item?id=28941755

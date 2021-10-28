@@ -120,6 +120,8 @@ https://www.bryanbraun.com/checkboxland/
 * https://www.bryanbraun.com/2020/06/06/checkboxland/
 
 # News
+https://www.ctrl.blog/entry/html-responsive-video.html
+* https://news.ycombinator.com/item?id=29024868
 https://github.com/WebKit/explainers/tree/main/model
 * https://news.ycombinator.com/item?id=28353997
 https://news.ycombinator.com/item?id=28055160

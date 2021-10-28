@@ -96,6 +96,8 @@ https://mosh.org/
 * https://news.ycombinator.com/item?id=28150287
 
 # News
+https://mobaxterm.mobatek.net/
+* https://news.ycombinator.com/item?id=29001665
 https://www.linuxjournal.com/content/putty-scripted-passwords-are-exposed-passwords
 https://github.com/opsdisk/the_cyber_plumbers_handbook
 * https://news.ycombinator.com/item?id=28728494

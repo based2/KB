@@ -61,6 +61,8 @@ https://pipewire.org/
 https://www.playphrase.me/#/search
 * https://news.ycombinator.com/item?id=27434159
 
+https://news.ycombinator.com/item?id=29000175
+
 # Tracking
 https://github.com/midiblocks/handsfree
 * https://news.ycombinator.com/item?id=27404196

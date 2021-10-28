@@ -61,6 +61,11 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://www.doxsey.net/blog/fixing-interface-erasure-in-go/
+https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo/m/7B1jd1I3BQAJ expectations for generics in Go 1.18
+* https://news.ycombinator.com/item?id=29020695
+https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource
+* https://news.ycombinator.com/item?id=29008811
 https://darrenparkinson.uk/posts/2021-10-13-why-network-engineers-should-learn-go/
 * https://news.ycombinator.com/item?id=28962020
 https://github.com/golang/go/issues/48918

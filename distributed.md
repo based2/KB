@@ -7,7 +7,15 @@ https://queue.acm.org/detail.cfm?id=3480470
 
 https://brooker.co.za/blog/2021/10/20/simulation.html
 
+https://news.umich.edu/distributed-protocol-underpinning-cloud-computing-automatically-determined-safe-and-secure/
+
 # CRDT
+https://wiki.nikitavoloboev.xyz/distributed-systems/crdt
+* https://news.ycombinator.com/item?id=28998767
+
+https://ably.com/blog/crdts-distributed-data-consistency-challenges
+* https://news.ycombinator.com/item?id=29025724
+
 https://github.com/xi-editor/xi-editor/blob/e8065a3993b80af0aadbca0e50602125d60e4e38/doc/crdt-details.md
 
 https://www.notion.so/blog/data-model-behind-notion
@@ -17,6 +25,10 @@ https://www.notion.so/blog/data-model-behind-notion
 
 https://rxdb.info/downsides-of-offline-first.html
 * https://news.ycombinator.com/item?id=28717848
+
+https://aosabook.org/en/distsys.html
+
+https://github.com/ipfs/go-ds-crdt
 
 # OT
 

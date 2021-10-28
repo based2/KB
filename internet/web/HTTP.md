@@ -38,6 +38,9 @@ https://lists.gnu.org/archive/html/info-gnu/2021-09/msg00011.html
 
 https://daniel.haxx.se/blog/2021/09/27/common-mistakes-when-using-libcurl/
 
+https://bradgessler.com/articles/419-never-gonna-give-you-up/
+* https://news.ycombinator.com/item?id=29009935
+
 # Cache
 https://httptoolkit.tech/blog/status-targeted-caching-headers/
 * https://news.ycombinator.com/item?id=28930941

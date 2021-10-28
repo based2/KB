@@ -25,6 +25,8 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://news.mit.edu/2021/autonomous-taxi-roboats-1027
+* https://news.ycombinator.com/item?id=29023983
 https://www.youtube.com/watch?v=guDIwspRGJ8 Artificial Muscles Robotic Arm Full Range of Motion + Static Strength Test (V11)
 * https://news.ycombinator.com/item?id=28931874
 https://deepmind.com/blog/announcements/mujoco

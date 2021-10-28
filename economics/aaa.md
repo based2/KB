@@ -54,6 +54,8 @@ https://www.bundesbank.de/en/press/speeches/exploring-a-digital-euro-875408
 
 https://en.wikipedia.org/wiki/Wildcat_banking
 
+https://news.ycombinator.com/item?id=29025699
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 * https://news.ycombinator.com/item?id=27763965

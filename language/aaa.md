@@ -181,6 +181,8 @@ https://github.com/carp-lang/Carp
 * https://github.com/carp-lang/Carp
 
 # News
+https://www.codingfont.com/
+* https://news.ycombinator.com/item?id=29010443
 http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library
 * https://news.ycombinator.com/item?id=28975453
 https://wren.io/

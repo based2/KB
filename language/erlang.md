@@ -51,7 +51,6 @@ https://underjord.io/onboarding-to-elixir.html
 
 https://www.thegreatcodeadventure.com/an-elixir-adoption-success-story/
 * https://news.ycombinator.com/item?id=27682432
-  *
 
 https://mattmower.com/2021/07/17/elixir-protocols-vs-clojure-multimethods/
 * https://news.ycombinator.com/item?id=27865143
@@ -74,6 +73,9 @@ https://blog.appsignal.com/2021/10/05/under-the-hood-of-macros-in-elixir.html
 https://felt.com/blog/phoenix-and-webpack-hot-reloading-react
 
 https://medium.com/@toddresudek/hex-power-user-deb608e60935
+
+https://github.com/mtrudel/bandit
+* https://news.ycombinator.com/item?id=29018845
 
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/

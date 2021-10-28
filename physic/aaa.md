@@ -50,6 +50,9 @@ https://phys.org/news/2021-07-exotic-particle-tetraquark.html
 
 https://www.nature.com/articles/d41586-021-02657-6
 
+https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/
+* https://news.ycombinator.com/item?id=29026673
+
 # News
 https://arstechnica.com/science/2021/10/luxo-jr-and-mystique-inspire-novel-approaches-to-shapeshifting-materials/
 https://ai.googleblog.com/2021/10/finding-complex-metal-oxides-for.html

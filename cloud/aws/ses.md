@@ -1,0 +1,1 @@
+https://cuddly-octo-palm-tree.com/posts/2021-10-24-aws-email-forwarding-tf/

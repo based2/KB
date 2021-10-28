@@ -22,6 +22,10 @@ https://gitlab.com/moasdawiki/moasdawiki-server/-/tree/master/installer/linux/de
 * https://news.ycombinator.com/item?id=27746717
 
 # News
+https://gaganpreet.in/posts/duckduckgo-wikivoyage/
+* https://news.ycombinator.com/item?id=29006789
+https://wikimediafoundation.org/news/2021/10/25/wikimedia-foundation-launches-wikimedia-enterprise-the-new-opt-in-product-for-companies-and-organizations-to-easily-reuse-content-from-wikipedia-and-wikimedia-projects/
+* https://news.ycombinator.com/item?id=29014523
 https://wikimediafoundation.org/news/2021/10/05/china-again-blocks-wikimedia-foundations-accreditation-to-world-intellectual-property-organization/
 https://lists.wikimedia.org/hyperkitty/list/wikimedia-l@lists.wikimedia.org/message/6ANVSSZWOGH27OXAIN2XMJ2X7NWRVURF/
 https://www.theregister.com/2021/09/15/wikimedia_china_bans/

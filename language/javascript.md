@@ -264,6 +264,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://nextjs.org/blog/next-12
+* https://news.ycombinator.com/item?id=29001721
 https://github.com/olistic/warriorjs
 https://javascript.plainenglish.io/how-to-set-javascript-promise-timeout-7d51c87bc38e?gi=9c421d008be8
 https://github.com/tc39/proposal-pipeline-operator

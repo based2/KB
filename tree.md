@@ -9,6 +9,8 @@ https://georgefrancis.dev/writing/generative-grid-layouts-with-quadtrees/
 https://thebinaryrealm.com/trie-data-structure/
 * https://www.reddit.com/r/programming/comments/pt85ox/trie_data_structures/
 
+https://linux.thai.net/~thep/datrie/datrie.html
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 * https://news.ycombinator.com/item?id=27903576

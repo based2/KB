@@ -58,6 +58,8 @@ https://blog.acolyer.org/2020/12/14/entity-resolution/
 * https://news.ycombinator.com/item?id=28127650
 
 # News
+https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/
+* https://news.ycombinator.com/item?id=29001285
 https://www.honeycomb.io/blog/time-series-database/
 * https://news.ycombinator.com/item?id=28901063
 https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html

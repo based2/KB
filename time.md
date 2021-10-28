@@ -41,6 +41,9 @@ https://blog.joda.org/2021/09/big-problems-at-timezone-database.html
 https://onezero.medium.com/the-largely-untold-story-of-how-one-guy-in-california-keeps-the-worlds-computers-on-the-right-time-a97a5493bf73
 * https://news.ycombinator.com/item?id=28904252
 
+https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/
+* https://news.ycombinator.com/item?id=29016740
+
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 
@@ -77,6 +80,9 @@ https://pmswap.medium.com/imaginary-pm-b4b818625498
 https://github.com/speedyg0nz/MagInkCal
 * https://news.ycombinator.com/item?id=28740452
 
+https://leancrew.com/all-this/2021/10/how-many-thursdays/
+* https://news.ycombinator.com/item?id=28986236
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster
@@ -89,6 +95,8 @@ https://www.javaspecialists.eu/talks/jfokus13/PhaserAndStampedLock.pdf
 
 # Sync
 https://muratbuffalo.blogspot.com/2021/03/sundial-fault-tolerant-clock.html
+
+https://www.nist.gov/time-distribution/radio-station-wwv
 
 # Distributed
 https://www.siddharthsarda.com/p/time-in-distributed-systems
@@ -141,6 +149,9 @@ https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most
 
 https://thehtime.com/
 * https://news.ycombinator.com/item?id=28928550
+
+## Animation
+https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 
 #
 https://en.wikipedia.org/wiki/Time_crystal

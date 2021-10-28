@@ -1,3 +1,13 @@
+https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/
+
+https://news.sophos.com/en-us/2021/10/28/the-top-10-ways-ransomware-operators-ramp-up-the-pressure-to-pay/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-is-force-installing-pc-health-check-in-windows-10/
+* https://news.ycombinator.com/item?id=29005602
+
+https://spectrum.ieee.org/hardware-trojan
+* https://news.ycombinator.com/item?id=28993899
+
 https://news.ycombinator.com/item?id=28977313
 
 http://www.noiseprotocol.org/

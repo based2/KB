@@ -45,5 +45,8 @@ https://aws.amazon.com/blogs/developer/how-we-halved-the-publish-size-of-modular
 
 https://www.ballpointcarrot.net/posts/rust-arm-lambdas/
 
+https://github.com/userhas404d/ddant
+* https://news.ycombinator.com/item?id=24168152
+
 
 

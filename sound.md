@@ -4,6 +4,9 @@ https://github.com/lordmulder/DynamicAudioNormalizer
 
 https://news.ycombinator.com/item?id=27565392
 
+https://navat.substack.com/p/diy-acoustic-camera-using-uma-16
+* https://news.ycombinator.com/item?id=29014681
+
 # Noise
 https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
 * https://news.ycombinator.com/item?id=27447766

@@ -149,6 +149,7 @@ https://en.wikipedia.org/wiki/Esri
 https://www.esri.com/en-us/what-is-gis/history-of-gis
 
 # News
+https://seagull-beta.glos.org/map?coords=-84.1312590%2C44.1490000%2C5.5
 https://wsdookadr.github.io/posts/p5/ Creating mosaics, clipping and removing overlapping satellite images
 https://bdon.org/blog/web-map-performance/
 * https://news.ycombinator.com/item?id=28833213

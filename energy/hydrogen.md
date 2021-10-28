@@ -23,3 +23,7 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 * https://news.ycombinator.com/item?id=28640247
 
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
+
+# News
+https://www.autoevolution.com/news/europes-first-hydrogen-fuel-cell-sea-going-ferry-is-powered-purely-by-renewable-energy-172235.html
+* https://news.ycombinator.com/item?id=29026795

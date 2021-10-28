@@ -4,3 +4,11 @@ https://3dlg-hcvc.github.io/plan2scene/
 https://arxiv.org/abs/2110.06635 ADOP: Approximate Differentiable One-Pixel Point Rendering
 * https://news.ycombinator.com/item?id=28886155
 
+# Photo23D
+    Website: https://boofcv.org
+    Example code for scene recognition/image retrieval. https://boofcv.org/index.php?title=Example_Scene_Recognition
+    Example code for 3D Reconstruction to create point clouds https://boofcv.org/index.php?title=Example_Multiview_Reconstruction_Dense
+
+https://stuvel.eu/articles/spherical-panoramas/
+* https://news.ycombinator.com/item?id=28349246
+

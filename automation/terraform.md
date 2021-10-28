@@ -1,8 +1,7 @@
-
-
 Format: HCL2 (JSON)
 Company: HashiCorp
-License:
+
+https://registry.terraform.io/
 
 https://www.runatlantis.io/
 https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support
@@ -29,6 +28,8 @@ https://github.com/im2nguyen/rover
 https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/
 
 # News
+https://terraspace.cloud/
+https://terragrunt.gruntwork.io/
 https://arivictor.medium.com/5-terraform-project-pattern-progressions-monolithic-to-microservice-ccfe0c5df95a
 https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f
 * https://news.ycombinator.com/item?id=28777997

@@ -51,6 +51,9 @@ https://baturin.org/blog/life-before-unicode/ ru
 
 https://zig.news/dude_the_builder/unicode-string-operations-536e
 
+https://heistak.github.io/your-code-displays-japanese-wrong/
+* https://news.ycombinator.com/item?id=29022906
+
 # ASCII
 http://www.figlet.org/fontdb.cgi
 
