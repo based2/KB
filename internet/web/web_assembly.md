@@ -67,6 +67,7 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   * https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://v8.dev/blog/wasm-dynamic-tiering
 https://easylang.online/ide/
 * https://news.ycombinator.com/item?id=28863847
 https://medium.com/@raphael.outhier/joys-of-porting-a-kernel-to-webassembly-5f0124e71080

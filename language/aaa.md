@@ -181,6 +181,7 @@ https://github.com/carp-lang/Carp
 * https://github.com/carp-lang/Carp
 
 # News
+https://www.reddit.com/r/java/comments/qi8yu8/hint_to_myself_and_other_poor_souls_dont_use/ url
 https://www.codingfont.com/
 * https://news.ycombinator.com/item?id=29010443
 http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library

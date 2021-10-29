@@ -14,6 +14,8 @@ https://once-for-auto-driving.github.io/index.html
 https://news.ycombinator.com/item?id=27580744
 
 # News
+https://electrek.co/2021/10/29/toyota-unveils-first-all-electric-car-bz4x-an-electric-suv-packed-cool-features/
+* https://news.ycombinator.com/item?id=29042263
 https://www.michelin.com/innovation/concept-vision/airless/
 * https://news.ycombinator.com/item?id=28864862
 https://www.unite.ai/ai-predicts-accident-hot-spots-from-satellite-imagery-and-gps-data/

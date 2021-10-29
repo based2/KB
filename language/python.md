@@ -170,6 +170,7 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://sqlmodel.tiangolo.com/
 https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/
 * https://news.ycombinator.com/item?id=29005573
 https://programsareproofs.com/articles/functiontrace_glyphslib.html

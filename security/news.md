@@ -1,3 +1,11 @@
+https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/
+
+https://guardyourdomain.com/phishing-site-takedown/
+
+https://queue.acm.org/detail.cfm?id=3494836
+
+https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html
+
 https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/
 
 https://news.sophos.com/en-us/2021/10/28/the-top-10-ways-ransomware-operators-ramp-up-the-pressure-to-pay/

@@ -58,6 +58,7 @@ https://blog.acolyer.org/2020/12/14/entity-resolution/
 * https://news.ycombinator.com/item?id=28127650
 
 # News
+https://blog.mireo.hr/mireo-spacetime-outperforms-geomesa
 https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/
 * https://news.ycombinator.com/item?id=29001285
 https://www.honeycomb.io/blog/time-series-database/

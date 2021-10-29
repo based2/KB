@@ -14,6 +14,7 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 
 # News
 https://therecord.media/hackers-steal-130-million-from-cream-finance-the-companys-3rd-hack-this-year/
+* https://news.ycombinator.com/item?id=29033024
 * https://news.ycombinator.com/item?id=29028737
 https://arxiv.org/abs/2110.10086
 * 

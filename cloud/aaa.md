@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw
 https://lethain.com/physics-of-cloud-expansion/
 
 # News
+https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/
+* https://news.ycombinator.com/item?id=29041782
 https://storj.io/blog/hot-rodding-decentralized-storage
 * https://news.ycombinator.com/item?id=29029646
 https://www.koyeb.com/blog/building-a-multi-region-service-mesh-with-kuma-envoy-anycast-bgp-and-mtls

@@ -202,6 +202,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 * https://news.ycombinator.com/item?id=28802777
 
 # News
+https://duckdb.org/2021/10/29/duckdb-wasm.html
+* https://news.ycombinator.com/item?id=29039235
 https://hop.apache.org/blog/2021/10/hop-1.0.0/
 https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/
 * https://news.ycombinator.com/item?id=29004757

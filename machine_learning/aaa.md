@@ -243,6 +243,9 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://www.arrikto.com/blog/kubeflow-1-4-contributions-summary/
+https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
+* https://news.ycombinator.com/item?id=29037050
 https://ai.googleblog.com/2021/10/goemotions-dataset-for-fine-grained.html
 https://arxiv.org/abs/2103.14749 Pervasive Label Errors in Test Sets Destabilize Machine Learning Benchmarks
 * https://news.ycombinator.com/item?id=29026944

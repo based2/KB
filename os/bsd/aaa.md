@@ -31,6 +31,9 @@ https://briancallahan.net/blog/20211010.html
 https://blog.lambda.cx/posts/how-bsd-authentication-works/
 * https://news.ycombinator.com/item?id=28918208
 
+https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/
+* https://news.ycombinator.com/item?id=29037108
+
 ## News
 https://www.openbsd.org/70.html
 * https://news.ycombinator.com/item?id=28862439

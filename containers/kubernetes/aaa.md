@@ -56,6 +56,7 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://linkerd.io/2021/10/26/how-linkerd-retries-http-requests-with-bodies/
 https://www.useboomerang.io/
 https://kubernetes.io/blog/2021/10/08/capi-clusterclass-and-managed-topologies/
 https://rancherdesktop.io/

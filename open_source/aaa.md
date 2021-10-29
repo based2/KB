@@ -169,6 +169,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.openstenoproject.org/
+* https://news.ycombinator.com/item?id=29035644
 https://mikemcquaid.com/2021/10/27/open-source-economics/
 * https://news.ycombinator.com/item?id=29018073
 https://astoilkov.com/open-source-contributors-worth-sponsoring

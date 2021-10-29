@@ -36,6 +36,7 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://www.cubbit.io/zero-knowledge-cloud-storage
 https://github.com/amule-project/amule/releases/tag/2.3.3
 * https://news.ycombinator.com/item?id=28505050
 https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-18-210912/

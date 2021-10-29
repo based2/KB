@@ -102,6 +102,7 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://blog.kaleidoscope.app/2021/10/25/whats-new-in-the-macos-monterey-command-line/
 https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html
 * https://news.ycombinator.com/item?id=28994800
 https://brew.sh/2021/10/25/homebrew-3.3.0/

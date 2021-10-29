@@ -83,6 +83,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://rjlipton.wpcomstaging.com/2021/10/22/an-annoying-problem/ How efficiently can you determine whether two finite groups are isomorphic
+* https://news.ycombinator.com/item?id=29028324
 https://www.youtube.com/watch?v=KyUPwfBLjEQ Essential calculus ideas by Paul Lutus
 * https://news.ycombinator.com/item?id=29011549
 https://www.3blue1brown.com/blog/some1-results

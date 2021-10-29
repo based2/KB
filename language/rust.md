@@ -280,6 +280,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://tjmaynes.com/posts/implementing-the-health-check-api-pattern-with-rust/
+https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/
+* https://news.ycombinator.com/item?id=29038140
 https://mabez.dev/blog/posts/esp-rust-18-10-2021/
 https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 https://www.osohq.com/post/cross-platform-rust-libraries

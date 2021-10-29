@@ -20,6 +20,7 @@ https://www.impots.gouv.fr/portail/formulaire/3916/declaration-par-un-resident-d
 ref: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fiscaux-des-cryptomonnaies
 
 # News
+https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html
 https://about.facebook.com/technologies/novi/
 https://techcrunch.com/2021/10/25/nigeria-follows-chinas-footsteps-in-piloting-digital-currency/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAANp0X6tSFwte1mfslpRCp5ChC95IEb8JKAeosMSX6RgsgAvWpouCKLVWjV1LsYigHCpGRvohGFJ6kU1Zgn7MnV9HFkR7FSPD2OgTeWMH1Dj4VEHL2X_YbW76_1ZX_gkkzMmagKPZxNvZF0sTG3h-H5XHPRVnWzFp08RS2Rn3FhF7
 https://afridigest.substack.com/p/thought-circle-blockchain-use-cases-africa

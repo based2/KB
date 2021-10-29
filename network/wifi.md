@@ -21,6 +21,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 * https://news.ycombinator.com/item?id=14677297
 
 # News
+https://machinehum.medium.com/im-putting-a-wifi-router-into-a-wall-charger-part-0-2c1e1a80ccde
+* https://news.ycombinator.com/item?id=29011327
 https://arstechnica.com/gadgets/2021/08/point-to-point-wi-fi-bridging-between-buildings-the-cheap-and-easy-way/
 * https://news.ycombinator.com/item?id=28250225
 https://www.improv-wifi.com/ Open standard for setting up Wi-Fi via Bluetooth LE

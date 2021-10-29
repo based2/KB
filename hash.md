@@ -73,6 +73,7 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://nullprogram.com/blog/2018/07/31/
 https://www.franzoni.eu/consistent-hashing-for-dummies/
 * https://news.ycombinator.com/item?id=29025274
 https://www.andreinc.net/2021/10/02/implementing-hash-tables-in-c-part-1
@@ -92,4 +93,7 @@ http://jonkagstrom.com/bit-mixer-construction/
 * https://news.ycombinator.com/item?id=28178106
 https://rentafounder.com/the-problem-with-perceptual-hashes/
 * https://news.ycombinator.com/item?id=28091750
+
+https://mollyrocket.com/meowhash
+* https://news.ycombinator.com/item?id=29038813
 
