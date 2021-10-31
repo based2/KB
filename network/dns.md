@@ -66,6 +66,7 @@ https://jacobkiers.net/hod/
 * https://news.ycombinator.com/item?id=28218406
 
 # News
+https://news.ycombinator.com/item?id=29049350 
 https://blog.cloudflare.com/introducing-1-1-1-1-for-families/
 * https://news.ycombinator.com/item?id=29024195
 https://news.ycombinator.com/item?id=29026870

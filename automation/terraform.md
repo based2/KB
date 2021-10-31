@@ -27,6 +27,18 @@ https://github.com/im2nguyen/rover
 
 https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/
 
+https://deliveroo.engineering/2020/01/02/CloudFormation-To-Terraform.html
+
+https://stackoverflow.com/questions/65502449/conditionally-set-iam-policy-based-on-whether-a-certain-resource-exists-or-not-i
+
+https://learn.hashicorp.com/tutorials/vault/autounseal-aws-kms
+
+https://cloudonaut.io/terraform-can-you-keep-a-secret/
+
+https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1
+
+https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
+
 # News
 https://terraspace.cloud/
 https://terragrunt.gruntwork.io/

@@ -13,3 +13,11 @@ https://posts.specterops.io/aws-readonlyaccess-not-even-once-ffbceb9fc908
 
 https://github.com/aminohealth/wonk Tool for combining a set of AWS policy files into smaller sets 
 * https://news.ycombinator.com/item?id=28672176
+
+https://liatrio.storychief.io/secure-aws-account-structure-with-terraform-and-terragrunt
+
+https://devopssec.fr/article/premiere-infrastructure-aws-terraform
+
+https://aws.amazon.com/en/premiumsupport/knowledge-center/update-key-policy-future/
+
+https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1

@@ -5,6 +5,8 @@ https://www.kdab.com/fun-and-scary-code-from-qt-and-kde/
 ## Gnome
 
 ## 
+https://lumina-desktop.org/
+* https://news.ycombinator.com/item?id=29053850
 
 # Window manager
 https://mxlinux.org/mx-fluxbox/

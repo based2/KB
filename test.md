@@ -51,6 +51,7 @@ https://chanind.github.io/2021/10/11/self-optimizing-ab-tests.html
 * https://news.ycombinator.com/item?id=28829456
 
 https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a
+* https://news.ycombinator.com/item?id=29042562
 
 #
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
@@ -85,9 +86,10 @@ https://github.com/GoogleChromeLabs/chromium-bidi
 https://arnoldgalovics.com/the-test-coverage-trap/
 
 # UI
-
+https://github.com/Mikuu/Micoo
 
 # News
+https://pactflow.io/
 https://www.flakybot.com/
 * https://news.ycombinator.com/item?id=29028681
 https://lemire.me/blog/2021/10/21/converting-binary-floating-point-numbers-to-integers/

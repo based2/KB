@@ -93,6 +93,8 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 * https://news.ycombinator.com/item?id=27775089
 
 # News
+https://harpers.org/archive/2021/11/ad-astra-the-coming-battle-over-space/
+* https://news.ycombinator.com/item?id=29045286
 https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/
 * https://news.ycombinator.com/item?id=29025020
 https://destevez.net/2021/10/an-update-about-lucys-telemetry/
@@ -122,7 +124,6 @@ https://projects.iq.harvard.edu/galileo/activities
 https://news.ti.com/blog/2021/06/24/developing-first-ics-to-orbit-earth
 * https://news.ycombinator.com/item?id=27842767
 https://www.esat.kuleuven.be/cosic/blog/dumping-and-extracting-the-spacex-starlink-user-terminal-firmware/
-*
 https://phys.org/news/2021-07-kepler-telescope-glimpses-population-free-floating.html
 https://spacenews.com/chinas-super-heavy-rocket-to-construct-space-based-solar-power-station/
 https://spacedotbiz.substack.com/p/the-launch-landscape-small-rockets usa

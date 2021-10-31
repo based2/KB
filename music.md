@@ -36,6 +36,15 @@ https://helio.fm/
 
 https://jpreston.xyz/a-catalogue-of-chords-example.html
 
+https://fundamentals-of-piano-practice.readthedocs.io/
+* https://news.ycombinator.com/item?id=29052747
+
+https://github.com/marcomusy/pianoplayer
+* https://news.ycombinator.com/item?id=29054095
+
+https://learningmusic.ableton.com/
+* https://news.ycombinator.com/item?id=29055433
+
 # Western Theory
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 * https://news.ycombinator.com/item?id=26859907

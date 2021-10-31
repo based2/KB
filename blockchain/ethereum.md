@@ -13,11 +13,11 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 * https://news.ycombinator.com/item?id=28138161
 
 # News
+https://gerhard-wagner.medium.com/double-spending-bug-in-polygons-plasma-bridge-2e0954ccadf1
 https://therecord.media/hackers-steal-130-million-from-cream-finance-the-companys-3rd-hack-this-year/
 * https://news.ycombinator.com/item?id=29033024
 * https://news.ycombinator.com/item?id=29028737
 https://arxiv.org/abs/2110.10086
-* 
 https://www.theblockcrypto.com/post/120438/ethereum-user-pays-430000-in-transaction-fees-for-a-failed-payment
 https://michaelgummelt.medium.com/crypto-services-are-neither-decentralized-nor-trustworthy-f43c0a19a400
 * https://news.ycombinator.com/item?id=28843893

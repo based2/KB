@@ -1,6 +1,26 @@
+https://linuxsecurity.com/advisories/fedora/fedora-35-vim-2021-6988830606-19-26-46
+
+https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-adobe-products-could-allow-for-arbitrary-code-execution_2021-138/
+
+https://research.nccgroup.com/2021/10/08/reverse-engineering-and-decrypting-cyberark-vault-credential-files/
+
+https://blog.lightspin.io/nginx-custom-snippets
+
+https://www.theverge.com/2021/10/30/22754107/roblox-down-outage-chipotle-server-issues-status
+* https://news.ycombinator.com/item?id=29058573
+* https://blog.sentry.io/2015/07/23/transaction-id-wraparound-in-postgres
+
+https://www.schneier.com/wp-content/uploads/2016/02/paper-ipsec.pdf
+
+https://www.theregister.com/2021/10/29/2021_dcma_rules/
+
+https://aszepieniec.github.io/stark-anatomy/
+* https://news.ycombinator.com/item?id=29026311
+
 https://research.nccgroup.com/2021/10/28/technical-advisory-apple-xar-arbitrary-file-write-cve-2021-30833/
 
 https://guardyourdomain.com/phishing-site-takedown/
+* https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 https://queue.acm.org/detail.cfm?id=3494836
 

@@ -71,6 +71,8 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://www.mistql.com/
+* https://news.ycombinator.com/item?id=29050685
 https://arxiv.org/abs/1902.08318 Parsing Gigabytes of JSON per Second
 * https://news.ycombinator.com/item?id=28941207
 * https://cbor.io/

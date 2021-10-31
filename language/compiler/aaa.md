@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
+https://godbolt.org
+
 https://briancallahan.net/blog/20210816.html
 * https://news.ycombinator.com/item?id=28197876
 

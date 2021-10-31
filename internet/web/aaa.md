@@ -46,6 +46,10 @@ https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
 * https://news.ycombinator.com/item?id=28827509
 
 # News
+https://blog.cloudflare.com/cloudflare-now-supports-indexnow/
+* https://www.indexnow.org/ MS
+https://github.com/EtherDream/http-server-online
+* https://news.ycombinator.com/item?id=29047269
 https://gemini.circumlunar.space/docs/faq.gmi
 https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/
 * https://news.ycombinator.com/item?id=28800818
@@ -74,4 +78,3 @@ https://w3c.github.io/webtransport/
 https://www.smashingmagazine.com/2021/05/evolution-jamstack/
 * https://news.ycombinator.com/item?id=27023309
 https://www.regulations.gov/document/FTC-2021-0019-0001/comment
-*

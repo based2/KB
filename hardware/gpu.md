@@ -6,3 +6,5 @@ https://github.com/DualCoder/vgpu_unlock
 
 https://tellusim.com/compute-raster/
 * https://news.ycombinator.com/item?id=28520340
+
+https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?

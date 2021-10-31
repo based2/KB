@@ -16,6 +16,8 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://github.com/klange/toaruos
+* https://news.ycombinator.com/item?id=29057055
 https://tuhdo.github.io/os01/
 https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/
 * https://news.ycombinator.com/item?id=28816876

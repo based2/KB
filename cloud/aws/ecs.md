@@ -22,3 +22,7 @@ https://omerxx.com/identity-aware-proxy-ecs/
 https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definition_parameters.html#container_definition_environment
 
 https://databasearchitects.blogspot.com/2021/07/aws-ec2-hardware-trends-2015-2021.html
+
+https://www.reddit.com/r/aws/comments/qiy4k4/amazon_ec2_now_supports_sharing_amazon_machine/
+
+https://aws.amazon.com/getting-started/hands-on/amazon-ec2-backup-and-restore-using-aws-backup/?TRK=gs_card

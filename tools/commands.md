@@ -1,5 +1,9 @@
 https://www.codesnail.com/linux-commands-cheat-sheet/
 
+https://github.com/sharkdp/bat cat
+https://github.com/ogham/exa ls
+https://github.com/BurntSushi/ripgrep#quick-examples-comparing-tools grep -> ack
+
 https://github.com/bootandy/dust Rust du
 
 https://www.tbray.org/ongoing/When/202x/2021/03/27/Topfew-and-Amdahl logs

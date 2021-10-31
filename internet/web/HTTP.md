@@ -41,6 +41,10 @@ https://daniel.haxx.se/blog/2021/09/27/common-mistakes-when-using-libcurl/
 https://bradgessler.com/articles/419-never-gonna-give-you-up/
 * https://news.ycombinator.com/item?id=29009935
 
+https://susam.in/maze/timing-with-curl.html
+* https://news.ycombinator.com/item?id=29054593
+* https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl
+
 # Cache
 https://httptoolkit.tech/blog/status-targeted-caching-headers/
 * https://news.ycombinator.com/item?id=28930941

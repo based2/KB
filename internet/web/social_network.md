@@ -11,7 +11,6 @@ https://bengtan.com/blog/open-secrets-hacker-news/
 * https://news.ycombinator.com/item?id=29024032
 
 # Slashdot
-
 # Reddit
 
 # FB
@@ -22,6 +21,12 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 # Dmoz
 
 #
+https://web.archive.org/web/20200530215533/http://www.opencobalt.net/home
+* https://news.ycombinator.com/item?id=29047638
+https://opensimworld.com/dir
+* https://news.ycombinator.com/item?id=29036506
+https://cziscience.medium.com/meta-transition-5f66b1fae475
+* https://news.ycombinator.com/item?id=29054675
 https://twitter.com/fbnewsroom/status/1453788507630014464 FB -> Meta
 https://about.fb.com/news/2021/10/founders-letter/
 * https://news.ycombinator.com/item?id=29030009

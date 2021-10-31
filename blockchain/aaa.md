@@ -40,6 +40,7 @@ https://zkp.science/
 * https://news.ycombinator.com/item?id=27573910
 
 # News
+https://research.checkpoint.com/2021/check-point-research-prevents-theft-of-crypto-wallets-on-opensea-the-worlds-largest-nft-marketplace/
 https://www.bleepingcomputer.com/news/security/opensea-nft-platform-bugs-let-hackers-steal-crypto-wallets/
 https://github.com/paritytech/finality-grandpa GRANDPA, GHOST-based Recursive ANcestor Deriving Prefix Agreement
 http://pmg.csail.mit.edu/papers/osdi99.pdf Practical Byzantine Fault Tolerance 1999

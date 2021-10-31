@@ -25,8 +25,9 @@ https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-opti
 
 
 # News
+https://news.ku.dk/all_news/2021/10/innovative-chip-built-by-ucph-physicists-resolves-quantum-headache/
+* https://news.ycombinator.com/item?id=29056345
 https://www.eetimes.com/exploring-quantum-technology-qiskit-and-rasqberry/
-* 
 https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/
 * https://news.ycombinator.com/item?id=28988350
 https://phys.org/news/2021-10-quantum-parrondo-random-encryption.html

@@ -1,5 +1,8 @@
 # Vi
 ## Vim
+https://susam.in/maze/vim-sudo-write-trick.html
+* https://news.ycombinator.com/item?id=29047694
+
 https://vim-bootstrap.com/
 https://spacevim.org/SpaceVim-release-v1.7.0/
 

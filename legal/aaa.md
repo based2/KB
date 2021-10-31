@@ -18,8 +18,9 @@ https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argu
 * https://news.ycombinator.com/item?id=26952429
 
 
-https://www.
-.gov
+# US
+https://ffii.org/unified-patent-court-is-100x-more-expensive-and-an-sme-killer-europe-is-commiting-an-economic-suicide/
+* https://news.ycombinator.com/item?id=29056321
 
 # Language
 https://arxiv.org/abs/2103.03198 Catala

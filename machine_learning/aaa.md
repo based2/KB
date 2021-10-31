@@ -243,6 +243,9 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://vowpalwabbit.org/
+https://github.com/facebookresearch/Kats timeseries
+https://github.com/Microsoft/dowhy
 https://www.arrikto.com/blog/kubeflow-1-4-contributions-summary/
 https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
 * https://news.ycombinator.com/item?id=29037050

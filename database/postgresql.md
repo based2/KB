@@ -155,6 +155,7 @@ https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and
 * https://news.ycombinator.com/item?id=28873779
 
 # News
+https://notes.eatonphil.com/exploring-plpgsql-forth-like.html
 https://babelfishpg.org/
 * https://github.com/babelfish-for-postgresql SQL server compatibility layer by AWS
 https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production
@@ -165,7 +166,6 @@ https://www.migops.com/blog/2021/10/14/stored-procedure-out-parameters-in-postgr
 * https://news.ycombinator.com/item?id=28878918
 https://stackgres.io/
 * https://news.ycombinator.com/item?id=28865432
-
 https://www.notion.so/blog/sharding-postgres-at-notion
 * https://news.ycombinator.com/item?id=28776786
 https://heap.io/blog/the-million-indexes-incident

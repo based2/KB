@@ -202,6 +202,8 @@ https://buttondown.email/j2kun/archive/monorepos-and-forced-migrations/
 
 https://yosefk.com/blog/dont-ask-if-a-monorepo-is-good-for-you-ask-if-youre-good-enough-for-a-monorepo.html
 
+https://medium.com/@amir_h/which-version-control-system-should-i-choose-for-a-monorepo-in-2021-13a6ed532108
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
@@ -223,6 +225,7 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/git/git/pull/1041 ssh signing: Add commit & tag signing/verification via SSH keys using ssh-keygen
 https://github.com/Artawower/blamer.el
 * https://news.ycombinator.com/item?id=28988346
 https://emacsair.me/2017/09/01/the-magical-git-interface/

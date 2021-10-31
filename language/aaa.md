@@ -181,6 +181,10 @@ https://github.com/carp-lang/Carp
 * https://github.com/carp-lang/Carp
 
 # News
+https://ithkuil.place/faq
+* https://news.ycombinator.com/item?id=29036441
+https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md
+* https://news.ycombinator.com/item?id=29049627
 https://www.reddit.com/r/java/comments/qi8yu8/hint_to_myself_and_other_poor_souls_dont_use/ url
 https://www.codingfont.com/
 * https://news.ycombinator.com/item?id=29010443

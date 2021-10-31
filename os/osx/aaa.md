@@ -102,6 +102,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   * https://www.maconlinux.net/
 
 # News
+https://nuxx.net/blog/2021/10/29/network-capture-with-process-name-and-pid-on-macos/
+https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/
+* https://news.ycombinator.com/item?id=29052214
 https://blog.kaleidoscope.app/2021/10/25/whats-new-in-the-macos-monterey-command-line/
 https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html
 * https://news.ycombinator.com/item?id=28994800

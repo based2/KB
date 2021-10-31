@@ -9,3 +9,5 @@ https://cloud.google.com/kubernetes-engine/docs/concepts/spot-vms
 
 https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interface-adds-familiarity-and-portability-cloud-spanner
 * https://news.ycombinator.com/item?id=28844770
+
+https://github.com/GoogleCloudPlatform/berglas

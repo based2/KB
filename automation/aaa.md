@@ -22,6 +22,9 @@ https://cuelang.org/docs/about/
 * https://news.ycombinator.com/item?id=27510919
 
 # News
+https://regula.dev/ test
+https://github.com/open-policy-agent/conftest test
+https://news.ycombinator.com/item?id=29020460
 https://ballerina.io/
 * https://news.ycombinator.com/item?id=29011588
 https://danielmangum.com/posts/infrastructure-in-your-software-packages/

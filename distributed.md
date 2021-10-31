@@ -66,3 +66,5 @@ https://github.com/tylertreat/comcast
 
 https://github.com/honzaap/Systemizer system design tool used to create and simulate large scale distributed systems
 
+# News
+https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html

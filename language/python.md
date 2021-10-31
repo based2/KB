@@ -170,6 +170,11 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 * https://news.ycombinator.com/item?id=27744870
 
 # News
+https://lifelines.readthedocs.io/en/latest/
+https://github.com/prefecthq/prefect workflow engine
+https://realpython.com/python310-new-features/
+* https://www.reddit.com/r/programming/comments/qiwq2k/python_310_cool_new_features_for_you_to_try_real/
+https://utcc.utoronto.ca/~cks/space/blog/python/Python3StdinUnicodeForced
 https://sqlmodel.tiangolo.com/
 https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/
 * https://news.ycombinator.com/item?id=29005573

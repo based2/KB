@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://climate.lifeitself.us/without-hot-air/
+* https://news.ycombinator.com/item?id=29056343
+* http://2050-calculator-tool.decc.gov.uk/#/home
 https://www.world-nuclear-news.org/Articles/Chinas-HTR-PM-reactor-achieves-first-criticality
 https://www.thedrive.com/the-war-zone/42818/this-alaskan-air-base-will-host-an-experimental-mini-nuclear-reactor
 https://polymerist.substack.com/p/oil-companies-placing-big-bets-on

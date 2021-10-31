@@ -1,0 +1,1 @@
+https://blog.rapidsec.com/10-tips-to-build-a-content-security-policy-csp-without-breaking-your-site/

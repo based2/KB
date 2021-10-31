@@ -102,6 +102,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
+https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover
+https://megalinter.github.io/
 https://opensource.googleblog.com/2021/10/protect-your-open-source-project-from-supply-chain-attacks.html
 * https://news.ycombinator.com/item?id=28931248
 https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c

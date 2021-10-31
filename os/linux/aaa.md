@@ -73,6 +73,7 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 * https://news.ycombinator.com/item?id=28273182
 
 # News
+https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/
 https://lists.x.org/archives/xorg/2021-October/060799.html
 * https://news.ycombinator.com/item?id=29016318
 https://github.com/nuta/kerla

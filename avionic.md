@@ -18,6 +18,8 @@ https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 
 # News
+https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas
+* 
 https://www.grc.nasa.gov/WWW/k-12/airplane/wrong1.html
 * https://news.ycombinator.com/item?id=29011449
 https://www.flightglobal.com/flight-international/why-aviations-compass-is-shifting-towards-true-navigation/145663.article

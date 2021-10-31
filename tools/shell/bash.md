@@ -53,3 +53,9 @@ https://gitlab.com/slackermedia/bashcrawl
 * https://news.ycombinator.com/item?id=28819387
 
 https://write.as/helpermethod/testing-bash-completions
+
+https://danpker.com/posts/faster-bash-startup/
+* https://news.ycombinator.com/item?id=29046352
+
+https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
+* https://news.ycombinator.com/item?id=29058140

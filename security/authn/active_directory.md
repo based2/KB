@@ -13,3 +13,6 @@ https://github.com/ANSSI-FR/AD-control-paths
 https://github.com/ANSSI-FR/ADTimeline
 
 https://github.com/ANSSI-FR/AD-permissions
+
+https://github.com/ly4k/Certipy
+* https://www.reddit.com/r/netsec/comments/q33dwy/active_directory_certificate_services_to_domain/

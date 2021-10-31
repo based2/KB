@@ -29,6 +29,8 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://github.com/bvolpato/awesome-userscripts
+* https://news.ycombinator.com/item?id=29054673
 https://www.dillo.org/
 https://browser.engineering/
 * https://news.ycombinator.com/item?id=28898157

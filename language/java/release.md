@@ -27,7 +27,8 @@ https://orgpad.com/o/AKle2rjO1OaaKyUkGun0kV?token=CLEHJ7_J5NlbuRwsL1FMfR Java Up
 https://advancedweb.hu/new-language-features-since-java-8-to-17/
 
 https://evacchi.github.io/java/records/jbang/2021/10/12/learn-you-an-actor-system-java-17-switch-expressions.html
-* 
+
+https://www.javaspecialists.eu/archive/Issue294-String.format-3x-faster-in-Java-17.html
 
 # 16
 https://www.azul.com/67-new-features-in-jdk-16/

@@ -68,6 +68,13 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://fs2.io/#/
+https://medium.com/virtuslab/scala-3-and-spark-389f7ecef71b
+https://github.com/lampepfl/dotty/releases/tag/3.1.0
+https://blog.jetbrains.com/scala/2021/10/28/dataflow-analysis-for-scala/
+https://nivox.github.io/posts/akka-stream-materialized-values/
+* https://www.reddit.com/r/scala/comments/qja6m6/demystifying_akka_streams_materialized_values/
+https://www.reddit.com/r/scala/comments/qjjyl0/new_library_for_ordered_sets_and_maps/
 https://github.com/Iltotore/iron type constraint system
 https://appddeevvmeanderings.blogspot.com/2021/10/scala3-zio-dotty-cps-async-field-report.html
 https://scala-native.readthedocs.io/en/latest/changelog/0.4.1.html

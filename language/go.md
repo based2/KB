@@ -61,6 +61,9 @@ https://eng.uber.com/pprof-go-profiler/
  * https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/uber-go/zap
+https://www.dolthub.com/blog/2021-10-29-two-errgroup-patterns/
+* https://news.ycombinator.com/item?id=29030462
 https://www.doxsey.net/blog/fixing-interface-erasure-in-go/
 https://groups.google.com/g/golang-dev/c/iuB22_G9Kbo/m/7B1jd1I3BQAJ expectations for generics in Go 1.18
 * https://news.ycombinator.com/item?id=29020695

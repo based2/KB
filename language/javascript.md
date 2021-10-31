@@ -111,6 +111,12 @@ https://beta.reactjs.org/
 * https://news.ycombinator.com/item?id=28969194
 
 https://mantine.dev/
+
+https://chakra-ui.com/
+
+https://react-query.tanstack.com/
+
+https://docs.swmansion.com/react-native-reanimated/
    
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
@@ -125,6 +131,10 @@ https://www.ngxs.io/
 https://javascript.plainenglish.io/angular-12-in-depth-7741e759c72?gi=22d9a899822e
 
 https://jaxenter.com/angular-elements-tutorial-162932.html
+
+https://ngrx.io/ async
+
+https://ngneat.github.io/transloco/ i18n
 
 # Elm
 https://elm-pages.com/blog/introducing-v2/
@@ -233,6 +243,9 @@ http://changelog.com/podcast/443
 
 https://2ality.com/2021/06/typescript-esm-nodejs.html
 
+https://vramework.io/blog/20211030-service-injection/
+* https://news.ycombinator.com/item?id=29047685
+
 ## NPM
 
 https://overreacted.io/npm-audit-broken-by-design/
@@ -264,12 +277,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://news.ycombinator.com/item?id=29041957
 https://nextjs.org/blog/next-12
 * https://news.ycombinator.com/item?id=29001721
 https://github.com/olistic/warriorjs
 https://javascript.plainenglish.io/how-to-set-javascript-promise-timeout-7d51c87bc38e?gi=9c421d008be8
 https://github.com/tc39/proposal-pipeline-operator
-* 
 https://datastation.multiprocess.io/blog/2021-10-13-notes-on-running-electron.html
 https://openjsf.org/blog/2021/10/07/deprecation-of-jquery-mobile/
 https://v8.dev/blog/v8-release-96
@@ -290,7 +303,6 @@ https://xtermjs.org/
 * https://news.ycombinator.com/item?id=28797535
 https://aarontgrogg.com/blog/2021/09/29/replacing-jquery-with-vanilla-es6/
 https://sia.codes/posts/lighthouse-treemap/
-* 
 https://v8.dev/blog/high-performance-cpp-gc
 http://www.jsfuck.com/
 * https://news.ycombinator.com/item?id=28657292
