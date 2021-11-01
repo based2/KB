@@ -1,5 +1,5 @@
 http://charap.co/reading-group-paxos-vs-raft-have-we-reached-consensus-on-distributed-consensus/
-* https://news.ycombinator.com/item?id=27831576
+> https://news.ycombinator.com/item?id=27831576
 
 https://ably.com/blog/8-fallacies-of-distributed-computing
 
@@ -11,20 +11,20 @@ https://news.umich.edu/distributed-protocol-underpinning-cloud-computing-automat
 
 # CRDT
 https://wiki.nikitavoloboev.xyz/distributed-systems/crdt
-* https://news.ycombinator.com/item?id=28998767
+> https://news.ycombinator.com/item?id=28998767
 
 https://ably.com/blog/crdts-distributed-data-consistency-challenges
-* https://news.ycombinator.com/item?id=29025724
+> https://news.ycombinator.com/item?id=29025724
 
 https://github.com/xi-editor/xi-editor/blob/e8065a3993b80af0aadbca0e50602125d60e4e38/doc/crdt-details.md
 
 https://www.notion.so/blog/data-model-behind-notion
-* https://news.ycombinator.com/item?id=27200177
-* https://github.com/relm-us/svelt-yjs
-* https://github.com/djyde/plastic-editor
+> https://news.ycombinator.com/item?id=27200177
+> https://github.com/relm-us/svelt-yjs
+> https://github.com/djyde/plastic-editor
 
 https://rxdb.info/downsides-of-offline-first.html
-* https://news.ycombinator.com/item?id=28717848
+> https://news.ycombinator.com/item?id=28717848
 
 https://aosabook.org/en/distsys.html
 
@@ -33,10 +33,10 @@ https://github.com/ipfs/go-ds-crdt
 # OT
 
 https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/
-* https://news.ycombinator.com/item?id=27714251
+> https://news.ycombinator.com/item?id=27714251
 
 https://josephg.com/blog/crdts-go-brrr/
-* https://news.ycombinator.com/item?id=28017204
+> https://news.ycombinator.com/item?id=28017204
 
 https://arxiv.org/abs/2002.09511 Chronofold: a data structure for versioned text
 
@@ -46,20 +46,20 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/version-vector
 
 ## Lamport Clock
 https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
-* https://news.ycombinator.com/item?id=27628553
+> https://news.ycombinator.com/item?id=27628553
 
 https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf
-* https://news.ycombinator.com/item?id=28750103
+> https://news.ycombinator.com/item?id=28750103
 
 # Database
 https://github.com/gitsrc/IceFireDB
-* https://news.ycombinator.com/item?id=28257243
+> https://news.ycombinator.com/item?id=28257243
 
 https://github.com/erikgrinaker/toydb
-* https://news.ycombinator.com/item?id=27874992
+> https://news.ycombinator.com/item?id=27874992
 
 https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html
-* https://news.ycombinator.com/item?id=28740497
+> https://news.ycombinator.com/item?id=28740497
 
 # Test
 https://github.com/tylertreat/comcast

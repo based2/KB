@@ -1,8 +1,8 @@
 https://projectreactor.io/
 
 https://vertx.io/ Reactor pattern, Eclipse
-* https://slinkydeveloper.com/Assertions-With-Vertx-Futures-And-JUnit5/
-* https://slinkydeveloper.com/Vert-x-Container-images-with-jlink/
+> https://slinkydeveloper.com/Assertions-With-Vertx-Futures-And-JUnit5/
+> https://slinkydeveloper.com/Vert-x-Container-images-with-jlink/
 
 https://itnext.io/building-restful-apis-with-eclipse-vertx-4ce89d8eeb74
 
@@ -36,6 +36,6 @@ https://github.com/awaitility/awaitility
 
 # News
 https://github.com/centiservice/mats3
-* https://news.ycombinator.com/item?id=28750222
+> https://news.ycombinator.com/item?id=28750222
 https://github.com/preslavmihaylov/booknotes/tree/master/java/programming-concurrency-jvm
 

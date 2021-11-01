@@ -1,7 +1,7 @@
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf
 
 https://sysdig.com/blog/container-security-best-practices/
-* https://news.ycombinator.com/item?id=28854478
+> https://news.ycombinator.com/item?id=28854478
 
 https://github.com/arminc/clair-scanner
 
@@ -14,4 +14,4 @@ https://github.com/aquasecurity/trivy
 https://github.com/anchore/grype
 
 https://github.com/aquasecurity/trivy
-* https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
+> https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/

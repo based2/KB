@@ -4,7 +4,7 @@ https://vole.wtf/
 
 https://mutable.gallery/
 
-* https://news.ycombinator.com/item?id=26599830 Louvre
+> https://news.ycombinator.com/item?id=26599830 Louvre
 
 https://christmasexperiments.com/
 
@@ -21,7 +21,7 @@ http://i.imgur.com/NEp3u2Q.jpg Stone age jottings
 https://www.thisiscolossal.com/2021/06/utagawa-hiroshige-shadow-puppets/
 
 https://tylerxhobbs.com/fidenza
-* https://news.ycombinator.com/item?id=27494863
+> https://news.ycombinator.com/item?id=27494863
 
 # Comics
 https://news.ycombinator.com/item?id=28726934 Ligne claire
@@ -36,9 +36,10 @@ https://www.instructables.com/Easily-Build-a-MACHINE-THAT-DESTROYS-WHAT-IT-CREAT
 
 ## Tools
 https://david.li/paint/
-* https://news.ycombinator.com/item?id=27577460
+> https://news.ycombinator.com/item?id=27577460
 
 # News
 https://artsandculture.google.com/story/the-klimt-color-enigma/SQWxuZfE5ki3mQ?hl=en
+
 https://www.ai-darobot.com/
 

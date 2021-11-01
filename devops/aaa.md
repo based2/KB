@@ -43,16 +43,16 @@ https://github.com/jghoman/awesome-apache-airflow
 https://eatcodeplay.com/upgrading-to-airflow-2-0-massive-performance-wins-and-lessons-learned-8c6a15cec8e7
 
 https://airbyte.io/blog/airflow-etl-pipelines
-* https://news.ycombinator.com/item?id=28799745
+> https://news.ycombinator.com/item?id=28799745
 
 https://drewdevault.com/2019/10/12/how-to-fuck-up-releases.html
-* https://news.ycombinator.com/item?id=26902422
+> https://news.ycombinator.com/item?id=26902422
 
 https://timothyandrew.dev/blog/git-stack/
-* https://news.ycombinator.com/item?id=26913959
+> https://news.ycombinator.com/item?id=26913959
 
 https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/
-* https://news.ycombinator.com/item?id=18119570
+> https://news.ycombinator.com/item?id=18119570
 
 https://www.usenix.org/publications/loginonline/low-context-devops
 
@@ -66,10 +66,10 @@ https://calver.org/
 https://lumosql.org/src/not-forking/doc/trunk/README.md
 
 https://0ver.org/
-* https://news.ycombinator.com/item?id=28154187
+> https://news.ycombinator.com/item?id=28154187
 
 https://alexgaynor.net/2021/oct/07/whats-in-a-version-number/
-* https://news.ycombinator.com/item?id=28785147
+> https://news.ycombinator.com/item?id=28785147
 
 # CI
 
@@ -81,7 +81,7 @@ https://axelfontaine.com/blog/final-nail.html
 https://tekton.dev/
 
 https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/
-* https://news.ycombinator.com/item?id=26727790
+> https://news.ycombinator.com/item?id=26727790
 
 https://guix.gnu.org/en/cuirass/
 
@@ -96,7 +96,7 @@ https://news.ycombinator.com/item?id=26872904
 https://github.com/lesfurets/git-octopus
 
 https://github.com/ovotech/gitoops/blob/main/docs/blog.md
-* 
+>
 
 # History
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
@@ -106,13 +106,13 @@ https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover
 https://megalinter.github.io/
 https://opensource.googleblog.com/2021/10/protect-your-open-source-project-from-supply-chain-attacks.html
-* https://news.ycombinator.com/item?id=28931248
+> https://news.ycombinator.com/item?id=28931248
 https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c
 https://blog.argoproj.io/argo-rollouts-v1-1-fef8611a9034
 https://www.cobaltrobotics.com/premortems-and-postmortems/
-* https://news.ycombinator.com/item?id=28854598
+> https://news.ycombinator.com/item?id=28854598
 https://github.com/Flagsmith/flagsmith
-* https://news.ycombinator.com/item?id=28785788
+> https://news.ycombinator.com/item?id=28785788
 https://thenewstack.io/sigstore-code-signing-for-software-supply-chain-security/
 https://tech.ovoenergy.com/gitoops-attacking-and-defending-ci-cd-pipelines/
 https://fr.sonatype.com/resources/state-of-the-software-supply-chain-2021
@@ -125,35 +125,35 @@ https://news.ycombinator.com/item?id=28615329 How do you handle CI pipeline in f
 https://github.com/mattbillenstein/salty
 https://cloudogu.com/en/blog/gitops-tools
 https://theforeman.org/2021/09/foreman-30-is-here.html
-* https://news.ycombinator.com/item?id=28569690
+> https://news.ycombinator.com/item?id=28569690
 https://travis-ci.community/t/security-bulletin/12081
-* https://news.ycombinator.com/item?id=28523350
+> https://news.ycombinator.com/item?id=28523350
 https://gitlab.com/gitlab-org/gitlab/-/issues/335278
-* https://news.ycombinator.com/item?id=28535298
+> https://news.ycombinator.com/item?id=28535298
 https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://decisionops.substack.com/p/decisionops
-* https://news.ycombinator.com/item?id=28234629
+> https://news.ycombinator.com/item?id=28234629
 https://blog.cedriccharly.com/post/20210523-how-cue-wins/
 https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/
-* https://news.ycombinator.com/item?id=28137852
+> https://news.ycombinator.com/item?id=28137852
 https://five9sclub.substack.com/p/how-to-explain-devops-to-non-tech
-* https://news.ycombinator.com/item?id=28059162
+> https://news.ycombinator.com/item?id=28059162
 https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/VersionHistory/explainer.md
-* https://news.ycombinator.com/item?id=27971502
+> https://news.ycombinator.com/item?id=27971502
 https://www.sleuth.io/
-* https://news.ycombinator.com/item?id=27974573
+> https://news.ycombinator.com/item?id=27974573
 https://www.jetbrains.com/lp/devecosystem-2021/
-* https://news.ycombinator.com/item?id=27856283
+> https://news.ycombinator.com/item?id=27856283
 https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform
-* https://news.ycombinator.com/item?id=27774987
+> https://news.ycombinator.com/item?id=27774987
 https://about.gitlab.com/blog/2021/06/22/gitlab-14-modern-devops/
-* https://news.ycombinator.com/item?id=27714296
+> https://news.ycombinator.com/item?id=27714296
 https://news.ycombinator.com/item?id=27711403
 https://pijul.org/posts/2021-06-28-two-changes/
 https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 https://about.gitlab.com/blog/2021/05/04/gitlabs-2021-survey-uncovers-a-new-devops-maturity-model/
 https://about.gitlab.com/developer-survey/
-* https://news.ycombinator.com/item?id=27039376
+> https://news.ycombinator.com/item?id=27039376
 
 

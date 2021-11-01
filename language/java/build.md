@@ -21,14 +21,14 @@ https://central.sonatype.org/news/20210510_new-security-capabilities/
 https://blogs.oracle.com/javamagazine/how-to-write-your-own-maven-plugins
 
 https://ppolivka.com/posts/debugging-maven-tests-in-intellij
-* https://news.ycombinator.com/item?id=28630209
+> https://news.ycombinator.com/item?id=28630209
 
 https://github.com/git-commit-id/git-commit-id-maven-plugin/blob/master/docs/use-cases.md
 
 https://bitbucket.org/mattshelton/maven-branch-extension/src/master/
 
 https://blog.frankel.ch/faster-maven-builds/1/
-* https://news.ycombinator.com/item?id=28740367
+> https://news.ycombinator.com/item?id=28740367
 
 https://mail-archives.apache.org/mod_mbox/maven-announce/202110.mbox/%3C8bf4d8cb-6a12-4423-f913-24ca2351b325@apache.org%3E
 
@@ -53,10 +53,12 @@ https://ant.apache.org/
 ## jpackage
 https://docs.oracle.com/en/java/javase/15/docs/specs/man/jpackage.html
 
+https://dev.java/learn/jpackage/
+
 ## JLink
 https://tentackle.org/static-content/sitedocs/tentackle/latest/tentackle-jlink-maven-plugin/jlink-mojo.html
 https://blogs.oracle.com/javamagazine/containerizing-apps-with-jlink
 
 ## Modules
 https://inside.java/2021/09/10/what-are-modules-about/
-* https://news.ycombinator.com/item?id=28489881
+> https://news.ycombinator.com/item?id=28489881

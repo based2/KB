@@ -12,14 +12,14 @@ https://www.openstreetmap.com/
 https://github.com/ptabriz/FOSS4G_workshop
 
 https://tilemill-project.github.io/tilemill/
-* https://news.ycombinator.com/item?id=14734589
+> https://news.ycombinator.com/item?id=14734589
 
 https://www.opendronemap.org/
 
 https://github.com/SNCFdevelopers/Pypixgrid
 
 https://leafletjs.com/
-* https://news.ycombinator.com/item?id=28203242
+> https://news.ycombinator.com/item?id=28203242
 
 # Tiles cache
 https://nzjrs.github.io/osm-gps-map/
@@ -28,27 +28,27 @@ https://nzjrs.github.io/osm-gps-map/
 https://postgis.net/
 http://blog.cleverelephant.ca/2017/09/postgis-operators.html
 http://blog.cleverelephant.ca/2021/05/postgis-20-years.html
-* https://news.ycombinator.com/item?id=27344639
+> https://news.ycombinator.com/item?id=27344639
 
 https://www.gaia-gis.it/fossil/libspatialite/index
 
 https://github.com/simonepri/geo-maps
 
 https://maplibre.org/
-* https://news.ycombinator.com/item?id=27605656
+> https://news.ycombinator.com/item?id=27605656
 
 # index
 https://h3geo.org/ Hexagonal hierarchical geospatial indexing system
-* https://news.ycombinator.com/item?id=28540393
+> https://news.ycombinator.com/item?id=28540393
 
 # Data
 https://www.nirsoft.net/utils/cports.html#DownloadLinks
 
 https://www.ltonetwork.com/use-cases/un-land-registry/
-* https://news.ycombinator.com/item?id=26958524
+> https://news.ycombinator.com/item?id=26958524
 
 https://aws.amazon.com/en/earth/
-* https://news.ycombinator.com/item?id=15629308
+> https://news.ycombinator.com/item?id=15629308
 
 https://labs.os.uk/public/os-data-hub-tutorials/web-development/automated-open-data-download
 
@@ -61,31 +61,31 @@ https://www.mapsforeurope.org/
 
 ## Space
 https://mars26.com/
-* https://news.ycombinator.com/item?id=26965583
+> https://news.ycombinator.com/item?id=26965583
 
 # 3d
 https://cesium.com/blog/2021/03/30/cesium-for-unreal-now-available/
 
 # view
 openstreetcam.org/map/
-* https://github.com/openstreetcam/android/
-* https://play.google.com/store/apps/details?id=com.telenav.streetview
+> https://github.com/openstreetcam/android/
+> https://play.google.com/store/apps/details?id=com.telenav.streetview
 
 # Tools
 https://giansegato.com/essays/how-i-beat-the-berlin-rental-market-with-a-python-script/
-* https://news.ycombinator.com/item?id=26644624
+> https://news.ycombinator.com/item?id=26644624
 
 https://www.maptiler.com/server/
 
 https://github.com/maplibre/maplibre-gl-js
-* https://news.ycombinator.com/item?id=26670495
+> https://news.ycombinator.com/item?id=26670495
 
 # ASCII
 https://github.com/rastapasta/mapscii
-* https://news.ycombinator.com/item?id=27042629
+> https://news.ycombinator.com/item?id=27042629
 
 https://github.com/rastapasta/mapscii
-* https://news.ycombinator.com/item?id=27387585
+> https://news.ycombinator.com/item?id=27387585
 
 #
 https://minecraft.geoportail.lu/
@@ -96,27 +96,27 @@ https://eng.uber.com/nebulagl/
 https://www.openrailwaymap.org/
 
 https://submarine-cable-map-2021.telegeography.com/
-* https://news.ycombinator.com/item?id=27410133
+> https://news.ycombinator.com/item?id=27410133
 
 https://globe.gl/example/submarine-cables/
-* https://news.ycombinator.com/item?id=28641463
+> https://news.ycombinator.com/item?id=28641463
 
 https://anvaka.github.io/city-roads/
 
 https://shademap.app/#45.06576,-118.41064,6z,1623209753240t
 
 https://www.openhistoricalmap.org/
-* https://news.ycombinator.com/item?id=27469715
+> https://news.ycombinator.com/item?id=27469715
 
 https://app.shadowmap.org/
 
 https://github.com/organicmaps/organicmaps
-* https://news.ycombinator.com/item?id=27543012
+> https://news.ycombinator.com/item?id=27543012
 
 https://groundtrack.space/
 
 https://peermaps.org/
-* https://news.ycombinator.com/item?id=28499190
+> https://news.ycombinator.com/item?id=28499190
 
 https://minitokyo3d.com/ trains
 
@@ -126,62 +126,85 @@ https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 
 # georoutage
 https://pncnmnp.github.io/blogs/distance-oracles.html
-* https://news.ycombinator.com/item?id=27420155
+> https://news.ycombinator.com/item?id=27420155
 
 https://github.com/graphhopper/graphhopper
-* https://news.ycombinator.com/item?id=28665564
+> https://news.ycombinator.com/item?id=28665564
 
 # Geohash
 https://mro.name/g/about GPL
-* https://mro.name/g/u154
+> https://mro.name/g/u154
 
 # Sphere
 https://en.wikipedia.org/wiki/Peirce_quincuncial_projection
-* https://news.ycombinator.com/item?id=27697756
+> https://news.ycombinator.com/item?id=27697756
 
 # Algo
 ## Visu
 https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
-* https://news.ycombinator.com/item?id=27849366
+> https://news.ycombinator.com/item?id=27849366
 
 # History
 https://en.wikipedia.org/wiki/PostGIS
+
 https://en.wikipedia.org/wiki/Terravision_(computer_program)
+
 https://en.wikipedia.org/wiki/Esri
+
 https://www.esri.com/en-us/what-is-gis/history-of-gis
 
 # News
 https://seagull-beta.glos.org/map?coords=-84.1312590%2C44.1490000%2C5.5
+
 https://wsdookadr.github.io/posts/p5/ Creating mosaics, clipping and removing overlapping satellite images
+
 https://bdon.org/blog/web-map-performance/
-* https://news.ycombinator.com/item?id=28833213
+> https://news.ycombinator.com/item?id=28833213
+
 https://news.ycombinator.com/item?id=28854959
+
 https://mail-archives.apache.org/mod_mbox/www-announce/202110.mbox/%3Cd00a015f-2b38-446b-df84-f764e118e3dd%40apache.org%3E
+
 https://storymaps.arcgis.com/stories/f07f6eb7a70c420f854d7f8c6a206253
+
 https://ahstat.github.io/Topography/
-* https://news.ycombinator.com/item?id=28736512
+> https://news.ycombinator.com/item?id=28736512
+
 https://github.com/joewdavies/geoblender
-* https://news.ycombinator.com/item?id=28748881
-* https://github.com/domlysz/BlenderGIS
+> https://news.ycombinator.com/item?id=28748881
+> https://github.com/domlysz/BlenderGIS
+
 https://github.com/Ivaneres/BlenderSatAI
-* https://news.ycombinator.com/item?id=28736832
+> https://news.ycombinator.com/item?id=28736832
+
 https://nedbatchelder.com/blog/202109/300_walks.html
-* https://news.ycombinator.com/item?id=28689378
+> https://news.ycombinator.com/item?id=28689378
+
 https://optimule.com/
+
 https://a-b-street.github.io/docs/tech/map/geometry/index.html
-* https://news.ycombinator.com/item?id=28568081
+> https://news.ycombinator.com/item?id=28568081
+
 https://s2geometry.io/
+
 https://supertunnel.app/
-* https://news.ycombinator.com/item?id=28313067
+> https://news.ycombinator.com/item?id=28313067
+
 https://github.com/marceloprates/prettymaps Python OSM
-* https://news.ycombinator.com/item?id=28300951
+> https://news.ycombinator.com/item?id=28300951
+
 https://ai.googleblog.com/2021/07/mapping-africas-buildings-with.html
-* https://news.ycombinator.com/item?id=27993946
+> https://news.ycombinator.com/item?id=27993946
+
 https://github.com/DHI-GRAS/terracotta
-* https://news.ycombinator.com/item?id=27955790
+> https://news.ycombinator.com/item?id=27955790
+
 https://osmand.net/blog/osmand-ios-4-0-released
+
 https://arxiv.org/abs/2107.01002 WiCluster: Passive Indoor 2D/3D Positioning using WiFi without Precise Labels
+
 https://news.ycombinator.com/item?id=26918259
-* https://protomaps.com/blog/new-way-to-make-maps/
+> https://protomaps.com/blog/new-way-to-make-maps/
+
 https://blogs.ucl.ac.uk/survey-of-london/2020/04/06/colouring-london-2/
-* https://news.ycombinator.com/item?id=26894765
+> https://news.ycombinator.com/item?id=26894765

@@ -1,5 +1,7 @@
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
+
 https://httpstatuses.com/205 restore to previous client state
+
 https://github.com/for-GET/http-decision-diagram
 
 https://www.reddit.com/r/programming/comments/m9hbdv/http_compression_boost_your_servers_speed/
@@ -11,19 +13,19 @@ https://news.ycombinator.com/item?id=26271117 RedBean
 https://lists.w3.org/Archives/Public/ietf-http-wg/2020OctDec/0134.html TCP and UDP over HTTP
 
 https://httptoolkit.tech/blog/http-wtf/
-* https://news.ycombinator.com/item?id=26343577
+> https://news.ycombinator.com/item?id=26343577
 
 https://tools.ietf.org/html/rfc7807
-* https://news.ycombinator.com/item?id=26771917
+> https://news.ycombinator.com/item?id=26771917
 
 https://mailwip.com/blog/posts/tracing-http-requests-by-using-response-header-from-the-application/
 
 https://brunoluiz.net/blog/2021/jun/redirect-users-client-side-only/
 
 https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00
-* https://news.ycombinator.com/item?id=27729610
-  * https://brandur.org/fragments/idempotency-key-draft
-    * https://news.ycombinator.com/item?id=27736082
+> https://news.ycombinator.com/item?id=27729610
+> > https://brandur.org/fragments/idempotency-key-draft
+> > > https://news.ycombinator.com/item?id=27736082
 
 https://pokeinthe.io/2021/09/13/cache-control-recommendations/
 
@@ -32,22 +34,22 @@ https://jakearchibald.com/2016/caching-best-practices/
 https://stackfull.dev/http-refresher-things-you-should-know-about-http
 
 https://blog.cloudflare.com/early-hints/
-* https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Link
+> https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Link
 
 https://lists.gnu.org/archive/html/info-gnu/2021-09/msg00011.html
 
 https://daniel.haxx.se/blog/2021/09/27/common-mistakes-when-using-libcurl/
 
 https://bradgessler.com/articles/419-never-gonna-give-you-up/
-* https://news.ycombinator.com/item?id=29009935
+> https://news.ycombinator.com/item?id=29009935
 
 https://susam.in/maze/timing-with-curl.html
-* https://news.ycombinator.com/item?id=29054593
-* https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl
+> https://news.ycombinator.com/item?id=29054593
+> https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl
 
 # Cache
 https://httptoolkit.tech/blog/status-targeted-caching-headers/
-* https://news.ycombinator.com/item?id=28930941
+> https://news.ycombinator.com/item?id=28930941
 
 # Server
 ## Apache HTTPD
@@ -61,35 +63,37 @@ https://alex.dzyoba.com/blog/nginx-features-for-operators/
 https://cr.yp.to/publicfile.html
 
 https://www.innoq.com/de/blog/nginx-ssi-env/
-* https://news.ycombinator.com/item?id=28703680
+> https://news.ycombinator.com/item?id=28703680
 
 ##
 https://www.hiawatha-webserver.org/about
-* https://news.ycombinator.com/item?id=28727922
+> https://news.ycombinator.com/item?id=28727922
 
 # Security
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015
+
 https://en.wikipedia.org/wiki/HTTP_response_splitting
 
 https://datatracker.ietf.org/doc/html/rfc8188
 
 # Status
 https://httpstatusdogs.com/
-* https://news.ycombinator.com/item?id=27420667
+> https://news.ycombinator.com/item?id=27420667
 
 # Test client
 https://prestigemad.com/#!/doc/browser/master
-* https://news.ycombinator.com/item?id=27412445
+> https://news.ycombinator.com/item?id=27412445
 
 # HTTP/2
 
 https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt
-* https://news.ycombinator.com/item?id=27174348
+> https://news.ycombinator.com/item?id=27174348
 
 https://portswigger.net/research/http2
 
 # HTTP/3
 https://blog.cloudflare.com/http3-the-past-present-and-future/
+
 https://blog.eban.bzh/misc/http3.html
 
 https://linuxfr.org/news/le-protocole-quic-desormais-normalise

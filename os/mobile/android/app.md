@@ -3,7 +3,7 @@ https://island.oasisfeng.com/ sandbox environment to clone selected apps and iso
 https://phyphox.org/ Phyphox allows you to use the sensors in your phone for your experiments.
 
 https://gpeal.medium.com/the-m1-pro-for-android-engineers-a144093aa1ec
-* https://news.ycombinator.com/item?id=29043885
+> https://news.ycombinator.com/item?id=29043885
 
 https://ariadne.space/2021/10/31/spelunking-through-the-apk-tools-dependency-solver/
 

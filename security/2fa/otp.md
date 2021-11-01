@@ -11,7 +11,7 @@ https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/
 https://freeotp.github.io/
 
 https://www.imperialviolet.org/2017/10/08/securitykeytest.html
-* https://news.ycombinator.com/item?id=15429831
+> https://news.ycombinator.com/item?id=15429831
 
 
 FIDO: U2F -> WebAuthn https://webauthn.io/
@@ -21,7 +21,7 @@ https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
 https://kgizdov.medium.com/the-efficiency-of-microsoft-e50ea81f69f5
-* https://news.ycombinator.com/item?id=28834260
+> https://news.ycombinator.com/item?id=28834260
 https://thedetechtor.com/authenticator-review-one-of-the-best-apps-to-manage-double-factor-codes-2fa/
 https://codewriteplay.com/2021/08/20/a-facebook-hacker-beat-my-2fa-bricked-my-oculus-quest-and-hit-the-company-credit-card/
-* https://news.ycombinator.com/item?id=28249977
+> https://news.ycombinator.com/item?id=28249977

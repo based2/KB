@@ -13,16 +13,16 @@ https://oswalt.dev/2021/01/introduction-to-ebpf/
 https://github.com/polycube-network/polycubeeBPF/XDP network functions framework for bridges, routers, firewalls
 
 https://www.openwall.com/lists/oss-security/2021/04/08/1
-* https://news.ycombinator.com/item?id=26757760
+> https://news.ycombinator.com/item?id=26757760
 
 https://nakryiko.com/posts/libbpf-bootstrap/
 
 https://newrelic.com/blog/nerd-life/open-source-observability-pixie
-* https://news.ycombinator.com/item?id=27037102
+> https://news.ycombinator.com/item?id=27037102
 
 
 https://github.com/microsoft/ebpf-for-windows
-* https://news.ycombinator.com/item?id=27108593
+> https://news.ycombinator.com/item?id=27108593
 
 https://pchaigno.github.io/ebpf/2021/04/12/bmc-accelerating-memcached-using-bpf-and-xdp.html
 
@@ -31,14 +31,14 @@ http://www.brendangregg.com/blog/2021-06-15/bpf-internals.html
 https://confused.ai/posts/announcing-aya rust
 
 https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
-* https://news.ycombinator.com/item?id=27722947
+> https://news.ycombinator.com/item?id=27722947
 
 https://nigeltao.github.io/blog/2021/custom-ebpf-helpers.html
 
 https://bitcoind.observer/d/IAeYpfWnz/home?orgId=1&refresh=30s&sr=hn`
 
 https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
-* https://news.ycombinator.com/item?id=28106901
+> https://news.ycombinator.com/item?id=28106901
 
 https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/
 
@@ -50,8 +50,8 @@ https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
 https://news.ycombinator.com/item?id=28817794
-* https://www.youtube.com/watch?v=xj0PBFjLm1U&t=5730s
-* https://linuxplumbersconf.org/event/11/contributions/947/attachments/831/1574/Watching%20the%20Super%20Powers.pdf
+> https://www.youtube.com/watch?v=xj0PBFjLm1U&t=5730s
+> https://linuxplumbersconf.org/event/11/contributions/947/attachments/831/1574/Watching%20the%20Super%20Powers.pdf
 https://linuxplumbersconf.org/event/11/contributions/938/ BPF security auditing at Google
 https://linuxplumbersconf.org/event/11/contributions/954/ Use of eBPF in CPU scheduler
-* https://news.ycombinator.com/item?id=28551568
+> https://news.ycombinator.com/item?id=28551568

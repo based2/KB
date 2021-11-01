@@ -7,15 +7,14 @@ https://frightanic.com/computers/docker-default-container-names/
 https://emilyriederer.netlify.app/post/column-name-contracts/
 
 https://kevlinhenney.medium.com/exceptional-naming-6e3c8f5bffac
-* 
 
 https://stepan.wtf/cloud-naming-convention/
-* https://news.ycombinator.com/item?id=27938390
+> https://news.ycombinator.com/item?id=27938390
 
 https://medium.com/zencity-engineering/naming-code-conventions-glory-525f129a65db
-* https://www.reddit.com/r/javascript/comments/p44kh6/naming_code_conventions_glory/
+> https://www.reddit.com/r/javascript/comments/p44kh6/naming_code_conventions_glory/
 
 https://gos.si/blog/the-hidden-skill-and-art-of-naming-things/
-* https://lobste.rs/s/tzcvmi/hidden_skill_art_naming_things
+> https://lobste.rs/s/tzcvmi/hidden_skill_art_naming_things
 
 https://nullprogram.com/blog/2021/09/14/

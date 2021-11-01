@@ -9,6 +9,8 @@ Lambdas in Java: A Peek under the Hood • Brian Goetz • GOTO 2013
 https://www.youtube.com/watch?v=MLksirK9nnE 
 
 https://www.java67.com/2019/06/top-5-sorting-examples-of-comparator-and-comparable-in-java.html
-* https://www.reddit.com/r/java/comments/popsvy/6_advanced_comparator_and_comparable_examples_in/
+> https://www.reddit.com/r/java/comments/popsvy/6_advanced_comparator_and_comparable_examples_in/
 
 https://www.reddit.com/r/java/comments/8i9nd6/a_surprising_feature_of_method_references/
+
+https://dev.java/learn/combining-lambda-expressions/

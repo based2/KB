@@ -6,7 +6,6 @@ https://github.com/gregberge/svgr
 
 https://pinout.readthedocs.io/en/latest/
 
-
 https://undraw.co/illustrations
 
 https://cloudfour.com/thinks/svg-icon-stress-test/

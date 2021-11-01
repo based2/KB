@@ -8,11 +8,23 @@ https://www.wavestone.com/fr/insight/securisation-active-directory-azure-a-micro
 
 https://www.ssi.gouv.fr/guide/recommandations-de-securite-relatives-a-active-directory/
 
-https://github.com/ANSSI-FR/AD-control-paths
-
-https://github.com/ANSSI-FR/ADTimeline
+https://www.cert.ssi.gouv.fr/dur/CERTFR-2020-DUR-001/
 
 https://github.com/ANSSI-FR/AD-permissions
 
+https://github.com/ANSSI-FR/ADTimeline
+
+https://github.com/ANSSI-FR/AD-control-paths
+
+https://github.com/ANSSI-FR/ORADAD
+
+https://github.com/ANSSI-FR/OVALI
+
+https://github.com/ANSSI-FR/ADCP-DirectoryCrawler
+
+https://github.com/ANSSI-FR/AD-permissions
+
+https://github.com/ANSSI-FR/SysvolExplorer
+
 https://github.com/ly4k/Certipy
-* https://www.reddit.com/r/netsec/comments/q33dwy/active_directory_certificate_services_to_domain/
+> https://www.reddit.com/r/netsec/comments/q33dwy/active_directory_certificate_services_to_domain/

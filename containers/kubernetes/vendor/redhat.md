@@ -28,19 +28,19 @@ https://luis-javier-arizmendi-alonso.medium.com/deploying-an-openshift-4-lab-in-
 https://ichi.pro/fr/deploiement-d-un-openshift-4-lab-dans-un-noeud-kvm-a-l-aide-de-libvirt-ipi-111252612769957
 
 https://www.naut.ca/blog/2020/08/26/ubuntu-vm-on-macos-with-libvirt-qemu/
-* https://news.ycombinator.com/item?id=24289769
-  * https://multipass.run
+> https://news.ycombinator.com/item?id=24289769
+  > https://multipass.run
 
 # Canonical Multipass - Lightweight VM manager for Linux, Windows and MacOS (C++, GPL)
-* https://multipass.run
+> https://multipass.run
   
-* https://github.com/canonical/multipass
+> https://github.com/canonical/multipass
 
 ## Doc exploration
-* multipass #250 -> #249 Inject custom image: #24
- *  https://cloud-images.ubuntu.com (default)
- *  https://uk.images.linuxcontainers.org LXC & LXD - Debian / Alpine / Devuan / Fedora
- *  https://alt.fedoraproject.org/cloud
+> multipass #250 -> #249 Inject custom image: #24
+ > https://cloud-images.ubuntu.com (default)
+ > https://uk.images.linuxcontainers.org LXC & LXD - Debian / Alpine / Devuan / Fedora
+ > https://alt.fedoraproject.org/cloud
     
 https://github.com/canonical/multipass/issues/1029 Unable to Launch an image using file:// and https:// option outside of Linux
     
@@ -52,14 +52,14 @@ https://blog.ruanbekker.com/blog/2020/11/11/deploy-loki-on-multipass/
 ### Cloud-init
 https://cloud-init.io
 
-* https://cloudinit.readthedocs.io/en/latest
+> https://cloudinit.readthedocs.io/en/latest
 
 https://ubuntu.com/blog/using-cloud-init-with-multipass
   
 https://fedoramagazine.org/setting-up-a-vm-on-fedora-server-using-cloud-images-and-virt-install-version-3/
 
 ### Image config
-* #307
+> #307
 
 https://www.grottedubarbu.fr/introduction-cloud-init
 
@@ -79,9 +79,9 @@ multipass launch -n charlot -d 64G -m 8G https://download.fedoraproject.org/pub/
 
 # Apple 'Big Sur' VZVirtualMachine
 https://developer.apple.com/documentation/virtualization
-* https://news.ycombinator.com/item?id=23922846
+> https://news.ycombinator.com/item?id=23922846
 https://blog.xpnsec.com/bring-your-own-vm-mac-edition/
-* https://github.com/KhaosT/SimpleVM  
+> https://github.com/KhaosT/SimpleVM  
 
 # xhyve - unfinished
 https://github.com/machyve/xhyve

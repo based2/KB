@@ -7,5 +7,4 @@ https://blog.argoproj.io/closing-ci-cd-loop-using-argoproj-a78a50a98fe8
 
 # Flux
 
-
 https://p1.dso.mil/#/ Platform One

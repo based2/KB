@@ -1,3 +1,3 @@
 https://www.shipmap.org/
-* https://news.ycombinator.com/item?id=26679067
+> https://news.ycombinator.com/item?id=26679067
 

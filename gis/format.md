@@ -1,5 +1,5 @@
 https://github.com/jahow/map-of-formats
-* https://news.ycombinator.com/item?id=28792783
+> https://news.ycombinator.com/item?id=28792783
 
 https://gdal.org/
 
@@ -9,7 +9,7 @@ https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotif
 
 # geojson
 https://github.com/yazeed44/gjf
-* https://news.ycombinator.com/item?id=27569646
+> https://news.ycombinator.com/item?id=27569646
 
 #
 https://dragons8mycat.wordpress.com/2014/04/17/mxd-to-qgis/

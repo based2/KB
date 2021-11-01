@@ -9,10 +9,10 @@ https://medium.com/helidon/data-persistence-with-helidon-and-native-image-e5a748
 https://medium.com/graalvm/multi-tier-compilation-in-graalvm-5fbc65f92402
 
 https://www.blog.akhil.cc/static-jni
-* 
+> 
 
 https://chrisseaton.com/truffleruby/jokerconf17/
-* https://news.ycombinator.com/item?id=15624388
+> https://news.ycombinator.com/item?id=15624388
 
 https://www.loicmathieu.fr/wordpress/en/informatique/debugger-une-image-native-graalvm-avec-gdb/
 

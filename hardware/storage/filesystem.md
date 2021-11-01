@@ -1,16 +1,16 @@
 
 https://github.com/Overv/vramfs
-* https://news.ycombinator.com/item?id=8747057
+> https://news.ycombinator.com/item?id=8747057
 
 https://arstechnica.com/gadgets/2021/07/a-deep-dive-into-openzfs-2-1s-new-distributed-raid-topology/
-* https://news.ycombinator.com/item?id=27718345
+> https://news.ycombinator.com/item?id=27718345
 
 # ZFS
 https://klarasystems.com/articles/lets-talk-openzfs-snapshots/
-* https://news.ycombinator.com/item?id=27994369
+> https://news.ycombinator.com/item?id=27994369
 
 https://klarasystems.com/articles/understanding-zfs-channel-programs/
-* https://news.ycombinator.com/item?id=28467049
+> https://news.ycombinator.com/item?id=28467049
 
 # Distributed
 https://www.lustre.org/
@@ -19,8 +19,8 @@ https://itnext.io/direct-i-o-writes-the-best-way-to-improve-your-credit-score-bd
 
 # NAS
 https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
-* https://news.ycombinator.com/item?id=27460885
+> https://news.ycombinator.com/item?id=27460885
 
 # News
 https://sourceforge.net/p/squashfs/mailman/message/37324506/
-* https://news.ycombinator.com/item?id=27929360
+> https://news.ycombinator.com/item?id=27929360

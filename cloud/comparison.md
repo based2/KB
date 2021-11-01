@@ -1,2 +1,2 @@
 https://cloudoptimizer.io/
-* https://news.ycombinator.com/item?id=26846163
+> https://news.ycombinator.com/item?id=26846163

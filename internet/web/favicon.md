@@ -1,2 +1,2 @@
 https://iconmap.io/blog
-* https://news.ycombinator.com/item?id=28933391
+> https://news.ycombinator.com/item?id=28933391

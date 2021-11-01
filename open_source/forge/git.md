@@ -13,7 +13,7 @@ https://gogs.io/
 https://utcc.utoronto.ca/~cks/space/blog/programming/GitUpstreamLimitedTracking
 
 https://kallithea-scm.org/ And Mercurial, python-ldap
-* https://news.ycombinator.com/item?id=26710013
+> https://news.ycombinator.com/item?id=26710013
 
 # Visualiser
 https://github.com/ssdong/git-command-visualizer Scala
@@ -23,4 +23,4 @@ https://sourcehut.org/blog/2021-03-15-whats-cooking-march-2021/
 
 #
 http://gitlet.maryrosecook.com/docs/gitlet.html
-* https://news.ycombinator.com/item?id=26787376
+> https://news.ycombinator.com/item?id=26787376

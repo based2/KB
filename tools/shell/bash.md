@@ -1,7 +1,9 @@
 https://www.gnu.org/software/bash/
 
+https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort Anybody can write good bash (with a little effort)
+
 https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html
-* https://news.ycombinator.com/item?id=26899531 ###
+> https://news.ycombinator.com/item?id=26899531 ###
 
 https://news.ycombinator.com/item?id=22961321
 
@@ -10,7 +12,7 @@ https://stackoverflow.com/questions/7131670/make-a-bash-alias-that-takes-a-param
 https://zwischenzugs.com/2018/10/12/eleven-bash-tips-you-might-want-to-know/
 
 https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial
-* https://news.ycombinator.com/item?id=18060049
+> https://news.ycombinator.com/item?id=18060049
 
 https://github.com/dylanaraps/pure-bash-bible#pure-bash-bible
 
@@ -25,37 +27,37 @@ https://seb.jambor.dev/posts/cd-is-not-a-program/
 https://www.shellcheck.net/
 
 https://utcc.utoronto.ca/~cks/space/blog/programming/BourneIfCanSetVars
-* https://news.ycombinator.com/item?id=27163494
+> https://news.ycombinator.com/item?id=27163494
 
 https://blog.dnmfarrell.com/post/modulinos-in-bash/ function
-* https://news.ycombinator.com/item?id=27524749
+> https://news.ycombinator.com/item?id=27524749
 
 https://petermalmgren.com/bash-things-i-learned/
-* https://ohmybash.nntoan.com/
- * https://github.com/ohmybash/oh-my-bash
+> https://ohmybash.nntoan.com/
+ > https://github.com/ohmybash/oh-my-bash
 
 https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/
-* https://news.ycombinator.com/item?id=27726699
+> https://news.ycombinator.com/item?id=27726699
 
 https://github.com/dylanaraps/neofetch
-* https://news.ycombinator.com/item?id=27941616
+> https://news.ycombinator.com/item?id=27941616
 
 https://www.datagubbe.se/bestofbash/
-* https://news.ycombinator.com/item?id=28033158
+> https://news.ycombinator.com/item?id=28033158
 
 https://podcast.curiefense.io/22 Thoughts on Bash Becoming Interplanetary and More with Brian J. Fox
-* https://news.ycombinator.com/item?id=28393556
+> https://news.ycombinator.com/item?id=28393556
 
 https://arstechnica.com/gadgets/2021/09/command-line-wizardry-part-two-variables-and-loops-in-bash/
-* https://news.ycombinator.com/item?id=28603947
+> https://news.ycombinator.com/item?id=28603947
 
 https://gitlab.com/slackermedia/bashcrawl
-* https://news.ycombinator.com/item?id=28819387
+> https://news.ycombinator.com/item?id=28819387
 
 https://write.as/helpermethod/testing-bash-completions
 
 https://danpker.com/posts/faster-bash-startup/
-* https://news.ycombinator.com/item?id=29046352
+> https://news.ycombinator.com/item?id=29046352
 
 https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
-* https://news.ycombinator.com/item?id=29058140
+> https://news.ycombinator.com/item?id=29058140

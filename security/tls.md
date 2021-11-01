@@ -14,13 +14,13 @@ https://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
 
 https://github.com/ctz/rustls
 https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/
-* https://news.ycombinator.com/item?id=26875551
+> https://news.ycombinator.com/item?id=26875551
 
 https://github.com/mirleft/ocaml-tls
 https://comp.lang.ada.narkive.com/QWxEmEME/transport-layer-security-for-ada
 
 https://eli.thegreenplace.net/2021/go-https-servers-with-tls/
-* https://news.ycombinator.com/item?id=26767252
+> https://news.ycombinator.com/item?id=26767252
 
 https://en.wikipedia.org/wiki/Forward_secrecy
 
@@ -38,7 +38,7 @@ https://utcc.utoronto.ca/~cks/space/blog/web/OCSPStaplingAndErrors
 
 # 1.3
 https://blog.devgenius.io/added-security-measures-and-changes-in-tls-1-3-fd93bbfecb8f
-* 
+> 
 
 Compact TLS 1.3 https://tools.ietf.org/html/draft-rescorla-tls-ctls-02 https://news.ycombinator.com/item?id=20676408
 https://marc.info/?l=openbsd-announce&m=156500965928485&w=2 LibreSSL 3.0.0 Released
@@ -47,20 +47,20 @@ https://www.linkedin.com/pulse/goodbye-tls-rest-pieces-stefan-h-farr/
 
 # Let's encrypt
 https://gethttpsforfree.com/
-* https://news.ycombinator.com/item?id=11002635
+> https://news.ycombinator.com/item?id=11002635
 
 https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/
-* https://news.ycombinator.com/item?id=27181374
+> https://news.ycombinator.com/item?id=27181374
 
 https://github.com/icing/mod_md
 
 https://github.com/mmorak/acme-hooked
 
 https://letsencrypt.org/2015/06/04/isrg-ca-certs.html
-* https://news.ycombinator.com/item?id=9662338
+> https://news.ycombinator.com/item?id=9662338
 
 https://twitter.com/letsencrypt/status/1443621997288767491
-* https://news.ycombinator.com/item?id=28708544
+> https://news.ycombinator.com/item?id=28708544
 
 # Other
 https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
@@ -78,7 +78,7 @@ https://blog.cloudflare.com/private-key-compromises/ Heartbleed Revisited (OSCP)
 https://istlsfastyet.com/
 
 http://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html
-* https://news.ycombinator.com/item?id=9277269
+> https://news.ycombinator.com/item?id=9277269
 
 https://tls.so/
 https://news.ycombinator.com/item?id=9271946
@@ -96,7 +96,7 @@ https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/
 
 # Book
 https://mwl.io/archives/10445
-* https://news.ycombinator.com/item?id=26760032
+> https://news.ycombinator.com/item?id=26760032
 
 # HSTS
 
@@ -104,47 +104,47 @@ https://github.com/diracdeltas/sniffly
 
 #
 https://netdevconf.info/1.2/papers/ktls.pdf
-* https://lwn.net/Articles/666509/
-* https://github.com/torvalds/linux/blob/master/Documentation/networking/tls.txt
-* https://news.ycombinator.com/item?id=15164568
+> https://lwn.net/Articles/666509/
+> https://github.com/torvalds/linux/blob/master/Documentation/networking/tls.txt
+> https://news.ycombinator.com/item?id=15164568
 
 # News
 https://mta.openssl.org/pipermail/openssl-project/2021-October/002777.html quic
-* https://news.ycombinator.com/item?id=29040229
+> https://news.ycombinator.com/item?id=29040229
 https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCTLetsUsMeasureCAUsage
-* https://news.ycombinator.com/item?id=28824706
+> https://news.ycombinator.com/item?id=28824706
 https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/2804293/avoid-dangers-of-wildcard-tls-certificates-the-alpaca-technique/
 https://scotthelme.co.uk/lets-encrypt-root-expiration-post-mortem/
 https://news.ycombinator.com/item?id=28736553
 https://www.zdnet.com/article/fortinet-shopify-others-report-issues-after-root-ca-certificate-from-lets-encrypt-expires/
-* https://news.ycombinator.com/item?id=28730393
+> https://news.ycombinator.com/item?id=28730393
 https://github.com/electron/electron/issues/31212
 https://twitter.com/Scott_Helme/status/1443569171581652993
 https://nvd.nist.gov/vuln/detail/CVE-2021-39214 mitmproxy
 https://blog.devgenius.io/rhel-centos-7-fix-for-lets-encrypt-change-8af2de587fe4
-* https://news.ycombinator.com/item?id=28680426
+> https://news.ycombinator.com/item?id=28680426
 https://www.kernel.org/doc/html/latest/networking/tls-offload.html
 https://www.smacktls.com/
 https://blog.px.dev/ebpf-openssl-tracing/
 https://go.dev/blog/tls-cipher-suites
-* https://news.ycombinator.com/item?id=28540916
+> https://news.ycombinator.com/item?id=28540916
 https://news.ycombinator.com/item?id=28504242 Let's Encrypt API v2 Service Disruption (12 Sep 2021)
 https://www.openssl.org/blog/blog/2021/09/07/OpenSSL3.Final/
-* https://news.ycombinator.com/item?id=28451875
+> https://news.ycombinator.com/item?id=28451875
 https://tlsfingerprint.io/
-* https://news.ycombinator.com/item?id=28251700
+> https://news.ycombinator.com/item?id=28251700
 https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967
 https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/60f5b56d1c82f805369a7d98
-* https://news.ycombinator.com/item?id=27885615
+> https://news.ycombinator.com/item?id=27885615
 https://mitmproxy.org/posts/releases/mitmproxy7/
-* https://news.ycombinator.com/item?id=27855476
+> https://news.ycombinator.com/item?id=27855476
 https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/
 https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426
-* https://bugzilla.mozilla.org/show_bug.cgi?id=1715455 Let's Encrypt: certificate lifetimes 90 days plus one second
-* https://news.ycombinator.com/item?id=27450364
+> https://bugzilla.mozilla.org/show_bug.cgi?id=1715455 Let's Encrypt: certificate lifetimes 90 days plus one second
+> https://news.ycombinator.com/item?id=27450364
 https://alpaca-attack.com/
-* https://news.ycombinator.com/item?id=27447348
+> https://news.ycombinator.com/item?id=27447348
 https://utcc.utoronto.ca/~cks/space/blog/tech/TLSTimeRepresentations
-* https://news.ycombinator.com/item?id=27421121
+> https://news.ycombinator.com/item?id=27421121
 https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html 25th March 2021 - 1.1.1k is a security-fix release HIGH
 https://datatracker.ietf.org/doc/rfc8996/

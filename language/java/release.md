@@ -1,17 +1,17 @@
 https://whichjdk.com/
-* https://news.ycombinator.com/item?id=28820601
+> https://news.ycombinator.com/item?id=28820601
 
 https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/
-* https://news.ycombinator.com/item?id=26662297
+> https://news.ycombinator.com/item?id=26662297
 
 # 18
 https://inside.java/2021/10/04/the-default-charset-jep400/
 
 https://mail.openjdk.java.net/pipermail/jdk-dev/2021-October/006166.html
-* https://www.reddit.com/r/java/comments/qclomj/jdk_18_augmented_javac_xlintserial_checks/
+> https://www.reddit.com/r/java/comments/qclomj/jdk_18_augmented_javac_xlintserial_checks/
 
 https://openjdk.java.net/jeps/416
-* https://www.reddit.com/r/java/comments/qbsqi5/proposed_to_target_jdk_18_jep_416_reimplement/
+> https://www.reddit.com/r/java/comments/qbsqi5/proposed_to_target_jdk_18_jep_416_reimplement/
 
 # 17 LTS
 https://jdk.java.net/loom/
@@ -30,11 +30,19 @@ https://evacchi.github.io/java/records/jbang/2021/10/12/learn-you-an-actor-syste
 
 https://www.javaspecialists.eu/archive/Issue294-String.format-3x-faster-in-Java-17.html
 
+https://dev.java/learn/using-pattern-matching/
+
+https://dev.java/learn/writing-and-combining-comparators/
+
+https://dev.java/learn/launching-single-file-source-code-programs/
+
+https://dev.java/learn/jshell-tool/
+
 # 16
 https://www.azul.com/67-new-features-in-jdk-16/
 https://seanjmullan.org/blog/2021/03/18/jdk16
 https://malloc.se/blog/zgc-jdk16
-* https://news.ycombinator.com/item?id=26555153
+> https://news.ycombinator.com/item?id=26555153
 
 https://www.reddit.com/r/java/comments/m6azik/ann_record_builder_builder_and_withers_for_java/
 

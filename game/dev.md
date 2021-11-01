@@ -5,18 +5,18 @@ https://generalistprogrammer.com/godot/godot-dictionary-tutorial-with-examples/
 https://godotengine.org/article/multiplayer-changes-godot-4-0-report-2
 
 https://www.inklestudios.com/2021/02/22/ink-version-1.html Open-source scripting language for interactive narrative
-* https://news.ycombinator.com/item?id=26761100
+> https://news.ycombinator.com/item?id=26761100
 
 http://cintrest.com/influence/
-* https://news.ycombinator.com/item?id=27520884
+> https://news.ycombinator.com/item?id=27520884
 
 https://www.circusscientist.com/2021/06/19/the-magic-of-open-source/
 
 https://deepnight.itch.io/ldtk A modern and open-source 2D level editor
 
 https://nn.labml.ai/cfr/index.html Regret Minimization in Games with Incomplete Information (CFR)
-* https://news.ycombinator.com/item?id=27589717
- * http://modelai.gettysburg.edu/2013/cfr/cfr.pdf
+> https://news.ycombinator.com/item?id=27589717
+ > http://modelai.gettysburg.edu/2013/cfr/cfr.pdf
 
 http://blog.cityboundsim.com/
 http://blog.cityboundsim.com/developer-diary-7-the-economic-model-a/
@@ -56,11 +56,11 @@ http://www.reddit.com/r/truegaming/comments/38fyzc/why_do_territories_in_turnbas
 https://code.google.com/archive/p/aor-javasim/wikis/ExamplesEconomics.wiki
 
 https://nicole.express/2021/remember-alf.html
-* https://news.ycombinator.com/item?id=27968292
+> https://news.ycombinator.com/item?id=27968292
 
 
 https://mastery.games/post/board-gaming-in-figma/
-* https://news.ycombinator.com/item?id=28770787
+> https://news.ycombinator.com/item?id=28770787
 
 https://github.com/colyseus/colyseus
 
@@ -71,8 +71,8 @@ https://thebrowser.com/notes/jon-ingold/
 https://www.utoronto.ca/news/colour-changing-lizards-buff-birds-u-t-students-create-fun-science-focused-trading-cards
 
 https://www.gabrielgambetta.com/client-server-game-architecture.html
-* https://news.ycombinator.com/item?id=29003727
+> https://news.ycombinator.com/item?id=29003727
 
 # Text
 https://if50.substack.com/p/2008-violet
-* https://news.ycombinator.com/item?id=28797079
+> https://news.ycombinator.com/item?id=28797079

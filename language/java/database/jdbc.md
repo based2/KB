@@ -13,8 +13,6 @@ https://spring.io/blog/2019/12/06/spring-data-r2dbc-goes-ga
 
 https://github.com/jzheng2017/resultset-mapper
 
-
-
 https://github.com/blynkkk/clickhouse4j
 
 # Editors

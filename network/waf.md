@@ -1,36 +1,40 @@
 
 https://www.ipfire.org/
+
 https://blog.ipfire.org/post/security-announcement-mitigating-nat-slipstreaming
+
 https://blog.ipfire.org/post/beyond-the-far-side-thoughts-on-secure-and-private-machines-behind-ipfire
+
 https://blog.ipfire.org/post/feature-spotlight-weaponising-ipfire-location-to-proactively-detect-fast-flux-setups
 
 https://opensource.com/article/18/9/linux-iptables-firewalld
 
 https://www.pfsense.org/
-* https://news.ycombinator.com/item?id=13615424
+> https://news.ycombinator.com/item?id=13615424
 
 https://github.com/evilsocket/opensnitch
-* https://news.ycombinator.com/item?id=22206116
-* https://news.ycombinator.com/item?id=14245270
+> https://news.ycombinator.com/item?id=22206116
+> https://news.ycombinator.com/item?id=14245270
 
 https://objective-see.com/products/lulu.html osx
-* https://news.ycombinator.com/item?id=16188502
-* https://news.ycombinator.com/item?id=25743546
+> https://news.ycombinator.com/item?id=16188502
+> https://news.ycombinator.com/item?id=25743546
 
 https://douaneapp.com/
-* https://news.ycombinator.com/item?id=13450226
+> https://news.ycombinator.com/item?id=13450226
 
 https://firehol.org/
-* https://news.ycombinator.com/item?id=18632950
+> https://news.ycombinator.com/item?id=18632950
 
 http://olivieraj.free.fr/fr/linux/information/firewall/firewall.html
 
 https://github.com/galeksandrp/peerguardian
 
 https://github.com/harporoeder/ebpfsnitch
-* https://news.ycombinator.com/item?id=26455058
+> https://news.ycombinator.com/item?id=26455058
 
 https://suricata-ids.org/
+
 http://virustotal.github.io/yara/
 
 https://relaypro-open.github.io/dog/ Firewall management system
@@ -38,13 +42,16 @@ https://relaypro-open.github.io/dog/ Firewall management system
 https://docs.vyos.io/en/latest/configexamples/index.html
 
 https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html
-* https://news.ycombinator.com/item?id=28039956
+> https://news.ycombinator.com/item?id=28039956
 
 https://github.com/Place1/wg-access-server
 
 # News
 https://twitter.com/EdgeSecurity/status/1437402720135270403 WireGuard for Windows has finally switched on WireGuardNT,
+
 https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/
-* https://news.ycombinator.com/item?id=27768934
+> https://news.ycombinator.com/item?id=27768934
+
 https://samy.pl/slipstream/
+
 https://news.ycombinator.com/item?id=26620943

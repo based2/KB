@@ -10,6 +10,6 @@ http://boringtechnology.club/
 https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 
 https://rootly.io/blog/de-siloing-incident-management-how-to-make-reliability-engineering-everyone-s-job
-* https://news.ycombinator.com/item?id=27948068
+> https://news.ycombinator.com/item?id=27948068
 
 
