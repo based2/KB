@@ -243,6 +243,9 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://intel.github.io/scikit-learn-intelex/
+> https://news.ycombinator.com/item?id=29066712
+
 https://mlops.substack.com/p/differential-privacy-clustering
 
 https://vowpalwabbit.org/

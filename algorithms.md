@@ -67,29 +67,42 @@ https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-f
 
 # News
 https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/
+
 https://github.com/facebookresearch/loop_tool/blob/main/tutorial.ipynb
+
 https://en.algorithmica.org/hpc/analyzing-performance/gcd/
+
 https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/
 > https://news.ycombinator.com/item?id=28737910
+
 https://pubby.games/factorio.html
 > https://news.ycombinator.com/item?id=28725359
+
 https://susam.in/maze/squaring-numbers-that-begin-or-end-with-5.html
+
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/
 > https://news.ycombinator.com/item?id=28582105
+
 https://nhigham.com/2021/09/14/can-we-solve-linear-algebra-problems-at-extreme-scale-and-low-precisions/
 > https://news.ycombinator.com/item?id=28549062
+
 http://palms.princeton.edu/system/files/IEEE_TC09_NewBasisForShifters.pdf
 > https://news.ycombinator.com/item?id=28451339
+
 https://lemire.me/blog/2016/06/27/a-fast-alternative-to-the-modulo-reduction/
 > https://news.ycombinator.com/item?id=28197029
+
 https://github.com/ips4o/ips4o sort
 > https://news.ycombinator.com/item?id=28220633
+
 https://mazzo.li/posts/vectorized-atan2.html
 > https://news.ycombinator.com/item?id=28209097
+
 https://dawn.cs.stanford.edu//2018/01/11/index-baselines/ 
 > https://news.ycombinator.com/item?id=28195439
+
 https://thedailywtf.com/articles/a-bit-overcomplicated
 > https://news.ycombinator.com/item?id=28072477
+
 https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge
 > https://news.ycombinator.com/item?id=28010077
-

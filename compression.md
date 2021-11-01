@@ -33,8 +33,11 @@ https://www.lzop.org/
 
 # News
 https://netflixtechblog.com/cambi-a-banding-artifact-detector-96777ae12fe2 video
+
 https://github.com/sstadick/crabz rust
+
 https://github.com/madler/crcany
+
 https://github.com/pornin/paradox-compress
 > https://news.ycombinator.com/item?id=28736949
 

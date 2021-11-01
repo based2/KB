@@ -41,11 +41,21 @@ https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 
 # News
 https://terraspace.cloud/
+
 https://terragrunt.gruntwork.io/
+
 https://arivictor.medium.com/5-terraform-project-pattern-progressions-monolithic-to-microservice-ccfe0c5df95a
+
 https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f
 > https://news.ycombinator.com/item?id=28777997
+
 https://github.com/im2nguyen/rover
 > https://news.ycombinator.com/item?id=28766080
+
 https://www.tangramvision.com/blog/abusing-terraform-to-upload-static-websites-to-s3
 > https://news.ycombinator.com/item?id=28776287
+
+https://aws.amazon.com/en/blogs/developer/introducing-the-cloud-development-kit-for-terraform-preview/ 16 JUL 2020
+> https://learn.hashicorp.com/tutorials/terraform/cdktf
+> https://dzone.com/articles/aws-cloud-development-kit-cdk-for-terraform-enabli
+> https://github.com/hashicorp/terraform-cdk/blob/main/CHANGELOG.md

@@ -135,6 +135,11 @@ https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-des
 
 
 # News
+https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/
+
+https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/
+> https://news.ycombinator.com/item?id=29064822
+
 https://www.thoughtworks.com/content/dam/thoughtworks/documents/radar/2021/10/tr_technology_radar_vol_25_en.pdf
 
 https://orkhanscience.medium.com/software-architecture-patterns-5-mins-read-e9e3c8eb47d2

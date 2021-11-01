@@ -14,9 +14,7 @@ https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practic
 
 https://www.sqlshack.com/different-ways-to-sql-delete-duplicate-rows-from-a-sql-table/
 
-
 https://cra.mr/2010/05/30/scaling-threaded-comments-on-django-at-disqus/
-> 
 
 https://excessivelyadequate.com/posts/rule30.html
 
@@ -63,9 +61,13 @@ http://harelba.github.io/q/
 
 # News
 https://blog.crunchydata.com/blog/postgres-queries-for-projecting-monthly-revenue-run-rate
+
 https://news.ycombinator.com/item?id=28834117
+
 https://www.sqlfluff.com/
 > https://news.ycombinator.com/item?id=28771656
+
 https://github.com/muhmud/qsh
 > https://news.ycombinator.com/item?id=28550874
+
 https://arctype.com/

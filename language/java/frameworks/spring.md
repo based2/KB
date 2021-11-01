@@ -1,6 +1,7 @@
 https://www.sivalabs.in/2020/09/all-the-resources-you-ever-need-as-a-java-spring-application-developer/
 
 https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/
+
 https://github.com/helpermethod/spring-boot-style-guide
 
 https://foojay.io/today/better-error-handling-for-your-spring-boot-rest-apis/
@@ -45,7 +46,11 @@ https://github.com/codependent/spring-boot-ssl-mutual-authentication
 
 # News
 https://dimitr.im/spring-interface
+
 https://github.com/hardikSinghBehl/budget-pkce-spring-boot
+
 https://spring.io/blog/2021/10/07/a-bootiful-podcast-heiko-scherrer-on-openwms-spring-spring-boot-spring-data-workflow-with-activiti-and-more
+
 https://openwms.github.io/org.openwms/
+
 https://www.quickprogrammingtips.com/spring-boot/history-of-spring-framework-and-spring-boot.html

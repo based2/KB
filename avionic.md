@@ -1,7 +1,6 @@
 https://www.youtube.com/watch?v=241-5DZyons Tour of the server room in the Airbus 350
 > https://news.ycombinator.com/item?id=27588747
 
-
 https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plasma-ufos/
 > https://news.ycombinator.com/item?id=27726588
 > > http://www.burton-jp.com/en/
@@ -15,7 +14,6 @@ https://faadronezone.faa.gov/#/
 
 #
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
-
 
 # News
 https://www.aopa.org/news-and-media/all-news/2021/october/28/faa-approves-hundreds-more-engines-to-use-unleaded-avgas

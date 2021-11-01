@@ -21,3 +21,11 @@ https://devopssec.fr/article/premiere-infrastructure-aws-terraform
 https://aws.amazon.com/en/premiumsupport/knowledge-center/update-key-policy-future/
 
 https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1
+
+https://aws.amazon.com/en/blogs/compute/under-the-hood-task-networking-for-amazon-ecs/`
+
+# Secrets
+https://aws.amazon.com/en/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
+
+# SSO
+https://github.com/synfinatic/aws-sso-cli

@@ -99,6 +99,8 @@ https://www.phoronix.com/scan.php?page=article&item=windows11-wsl2-good&num=1
 https://github.com/valinet/ExplorerPatcher
 
 # News
+https://devblogs.microsoft.com/performance-diagnostics/sizebench-a-new-tool-for-analyzing-windows-binary-size/
+
 https://www.theregister.com/2021/10/26/microsofts_uwp_unwanted_windows_platform/
 
 https://borncity.com/win/2021/10/23/microsoft-signiert-windows-treiber-fr-process-hacker-nicht-mehr/

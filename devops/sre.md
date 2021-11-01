@@ -1,3 +1,5 @@
+https://principlesofchaos.org/
+
 https://cloud.google.com/blog/products/devops-sre/sre-at-google-our-complete-list-of-cre-life-lessons
 
 https://pijul.org/posts/2021-06-03-on-fires/
@@ -31,6 +33,9 @@ https://principles.green/
 > https://news.ycombinator.com/item?id=28615321
 
 # News
+https://blog.roblox.com/2021/10/update-recent-service-outage/
+> https://news.ycombinator.com/item?id=29062557 
+
 https://rachelbythebay.com/w/2021/10/12/break/
 > https://news.ycombinator.com/item?id=29022813
 

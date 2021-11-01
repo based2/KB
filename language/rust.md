@@ -280,124 +280,208 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://www.thecodedmessage.com/posts/hello-rust/
+
+https://thephilbert.io/2021/11/01/gcc-rust-monthly-report-11-october-2021/
+> https://news.ycombinator.com/item?id=29065511
+
 https://tjmaynes.com/posts/implementing-the-health-check-api-pattern-with-rust/
+
 https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/
 > https://news.ycombinator.com/item?id=29038140
+
 https://mabez.dev/blog/posts/esp-rust-18-10-2021/
+
 https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
+
 https://www.osohq.com/post/cross-platform-rust-libraries
 > https://news.ycombinator.com/item?id=29015235
+
 https://fasterthanli.me/articles/my-ideal-rust-workflow
 > https://news.ycombinator.com/item?id=29010327
+
 https://softwaremaniacs.org/blog/2021/10/25/debounce/en/
+
 https://yieldcode.blog/supercharge-nodejs-with-rust/
 > https://news.ycombinator.com/item?id=28976341
+
 https://cprimozic.net/blog/programming-speed-strategies/
+
 https://alexis-lozano.com/hexagonal-architecture-in-rust-7/
+
 https://quickwit.io/blog/search-a-sorted-block/
 > https://news.ycombinator.com/item?id=28955461
+
 https://blog.rust-lang.org/2021/10/21/Rust-1.56.0.html
 > https://news.ycombinator.com/item?id=28945420
+
 https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21 
+
 https://github.com/rust-lang/compiler-team/issues/422 Update the existing musl targets to be dynamically linked.
+
 https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/
 > https://news.ycombinator.com/item?id=28891236
+
 https://old.reddit.com/r/metapcj/comments/8uz5hi/self_meta_jerk_in_fact_rust_structs_are_just/
+
 https://serde.rs/
 > https://news.ycombinator.com/item?id=28869970
+
 https://sixtyfps.io/blog/showing-guis-from-shell-scripts.html
 > https://news.ycombinator.com/item?id=28848858
+
 https://codeandbitters.com/published-crate-analysis/
 > https://news.ycombinator.com/item?id=28827648
+
 https://gill.net.in/posts/pic32-blink-led-rust/
+
 https://www.datadoghq.com/blog/engineering/introducing-glommio/
+
 https://www.youtube.com/watch?v=cuvp-e4ztC0 Rust, Wright's Law, and the Future of Low-Latency Systems
 > https://news.ycombinator.com/item?id=28800154
+
 https://amethyst.rs/posts/amethyst--starting-fresh
+
 https://github.com/getzola/zola wstatic
+
 https://tech.marksblogg.com/rocket-rust-web-framework.html
+
 https://docs.rs/freqfs/0.4.3/freqfs/ in-memory cache layer over tokio::fs with least-frequently-used eviction.
 > https://news.ycombinator.com/item?id=28721815
+
 https://diziet.dreamwidth.org/9894.html Tricky compatibility issue - Rust's io::ErrorKind
+
 https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/intro.html
 > https://news.ycombinator.com/item?id=28704611
+
 https://twitter.com/ryan_levick/status/1443202538099073027
 > https://news.ycombinator.com/item?id=28696623
+
 https://github.com/willcrichton/flowistry
+
 https://noncombatant.org/2021/09/26/improving-software-numbers/
 > https://news.ycombinator.com/item?id=28660778
+
 https://www.youtube.com/watch?v=I3RXottNwk0 Explaining Rust Analyzer: 01 Repository Overview
+
 https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 > https://news.ycombinator.com/item?id=28660915
+
 https://dev.to/senyeezus/designing-state-machines-in-rust-252k
+
 https://smallcultfollowing.com/babysteps//blog/2021/09/16/rustacean-principles-continued/
+
 https://blog.kraken.com/post/7964/oxidizing-kraken-improving-kraken-infrastructure-using-rust/
+
 https://twitter.com/steveklabnik/status/1437441118745071617
 > https://news.ycombinator.com/item?id=28513130
+
 https://blog.rust-lang.org/2021/09/09/Rust-1.55.0.html
 > https://news.ycombinator.com/item?id=28469997
+
 https://blog.sunfishcode.online/rust-programs-entirely-in-rust/
 > https://news.ycombinator.com/item?id=28451149
+
 https://github.com/bnjbvr/rouille Rust in french
 > https://news.ycombinator.com/item?id=28490935
+
 https://dev.to/davidedelpapa/rust-for-data-science-tutorial-1-4g5j
+
 https://github.com/lunatic-solutions/lunatic
-> 
+ 
 https://thephilbert.io/2021/08/30/gcc-rust-monthly-report-9-august-2021/ traits
 > https://news.ycombinator.com/item?id=28364629
+
 https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/
+
 https://vfoley.xyz/reasonable-use-2/
 > https://news.ycombinator.com/item?id=28342478
+
 https://www.reddit.com/r/netsec/comments/p0d5zk/cve202129922_rust_standard_library_net_improper/
+
 https://github.com/hecrj/iced/ GUI Elm
 > https://news.ycombinator.com/item?id=28326125
+
 https://github.com/trusch/snakeos
 > https://news.ycombinator.com/item?id=28323275
+
 https://www.cmyr.net/blog/rust-gui-infra.html
+
 https://instantdomainsearch.com/engineering/instant-word-segmentation-with-rust
 > https://github.com/tkaitchuck/ahash
+
 https://www.warp.dev/
+
 https://github.com/ivanceras/hackernews-sauron/
+
 https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html
+
 https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-2
+
 https://www.parsonsmatt.org/2021/07/29/stealing_impl_from_rust.html
+
 https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html
 > https://news.ycombinator.com/item?id=27996859
+
 https://rust-audio.discourse.group/
 > https://news.ycombinator.com/item?id=27998489
+
 https://niedzejkob.p4.team/rust-np/
 > https://news.ycombinator.com/item?id=27769718
+
 https://ferrous-systems.com/blog/ferrocene-update-three-the-road/
+
 https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 > https://news.ycombinator.com/item?id=27559239
+
 https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/
+
 https://blog.rust-lang.org/2021/06/17/Rust-1.53.0.html
+
 https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3
+
 https://thephilbert.io/2021/05/31/gcc-rust-monthly-report-6-may-2021/
 > https://news.ycombinator.com/item?id=27343913
+
 https://project-oak.github.io/rust-verification-tools/2021/05/15/verifying-vectorized-code2.html
 > https://news.ycombinator.com/item?id=27171978
+
 https://arxiv.org/abs/1903.00982 Oxide: The Essence of Rust
+
 https://www.tectalk.co/rust-programming-language-here-are-the-changes-planned-for-this-year/
+
 https://www.theregister.com/2021/05/13/rust_2021_edition/
+
 https://deepu.tech/my-second-impression-of-rust/
+
 https://aws.amazon.com/fr/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/
 > https://news.ycombinator.com/item?id=27080859
+
 https://blog.rust-lang.org/2021/05/06/Rust-1.52.0.html
 > https://news.ycombinator.com/item?id=27065171
+
 https://developers.facebook.com/blog/post/2021/04/29/facebook-joins-rust-foundation/
 > https://news.ycombinator.com/item?id=26982890
+
 https://github.com/rusticstuff/simdutf8
 > https://news.ycombinator.com/item?id=26887438
+
 https://arewefastyet.rs/
+
 https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 > https://news.ycombinator.com/item?id=26851425
+
 https://gregoryszorc.com/blog/2021/04/14/pure-rust-implementation-of-apple-code-signing/
+
 https://www.zdnet.com/article/awss-shane-miller-to-head-the-newly-created-rust-foundation/
+
 http://dtrace.org/blogs/bmc/2018/09/18/falling-in-love-with-rust/
+
 https://github.com/tokio-rs/tokio-uring/pull/1
 > https://news.ycombinator.com/item?id=26743488
 > https://android.googlesource.com/platform/system/bt/+/master/gd/rust/
-  > https://news.ycombinator.com/item?id=26647981
+> > https://news.ycombinator.com/item?id=26647981
+
 https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html 1.51
+
 https://news.ycombinator.com/item?id=26101922 rust 1.59

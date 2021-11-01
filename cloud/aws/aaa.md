@@ -36,10 +36,15 @@ https://github.com/localstack/localstack
 
 https://aws.amazon.com/blogs/developer/how-we-halved-the-publish-size-of-modular-aws-sdk-for-javascript-clients/
 
-https://www.ballpointcarrot.net/posts/rust-arm-lambdas/
 
 https://github.com/userhas404d/ddant
 > https://news.ycombinator.com/item?id=24168152
 
+# Scheduler
+https://aws.amazon.com/en/blogs/compute/introducing-blox-from-amazon-ec2-container-service/
 
+# WellA
+
+## VPC
+https://aws.amazon.com/en/blogs/compute/update-issue-affecting-hashicorp-terraform-resource-deletions-after-the-vpc-improvements-to-aws-lambda/
 

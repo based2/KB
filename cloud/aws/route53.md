@@ -1,0 +1,1 @@
+https://aws.amazon.com/en/blogs/compute/powering-secondary-dns-in-a-vpc-using-aws-lambda-and-amazon-route-53-private-hosted-zones/

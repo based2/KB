@@ -75,6 +75,9 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
 
 # News
+https://www.bloomberg.com/news/newsletters/2021-11-01/u-s-telecoms-are-going-to-start-physically-removing-huawei-gear
+> https://news.ycombinator.com/item?id=29066579
+
 https://www.ericsson.com/en/openness-innovation/open-ran-explained
 > https://news.ycombinator.com/item?id=28987082
 

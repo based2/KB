@@ -1,0 +1,1 @@
+https://aws.amazon.com/en/blogs/compute/integrating-amazon-api-gateway-private-endpoints-with-on-premises-networks/

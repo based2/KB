@@ -1,4 +1,10 @@
-https://aws.amazon.com/fr/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/`
+https://aws.amazon.com/en/blogs/compute/new-using-amazon-ec2-instance-connect-for-ssh-access-to-your-ec2-instances/
+
+https://aws.amazon.com/en/blogs/compute/refreshing-an-amazon-ecs-container-instance-cluster-with-a-new-ami/
+
+https://aws.amazon.com/en/blogs/compute/introducing-cloud-native-networking-for-ecs-containers/
+
+https://aws.amazon.com/en/blogs/compute/under-the-hood-task-networking-for-amazon-ecs/
 
 http://www.daemonology.net/blog/2012-11-28-broken-EC2-firewall.html
 > https://news.ycombinator.com/item?id=4844862
@@ -26,3 +32,65 @@ https://databasearchitects.blogspot.com/2021/07/aws-ec2-hardware-trends-2015-202
 https://www.reddit.com/r/aws/comments/qiy4k4/amazon_ec2_now_supports_sharing_amazon_machine/
 
 https://aws.amazon.com/getting-started/hands-on/amazon-ec2-backup-and-restore-using-aws-backup/?TRK=gs_card
+
+# AutoScaling
+https://aws.amazon.com/en/blogs/compute/amazon-ec2-auto-scaling-will-no-longer-add-support-for-new-ec2-features-to-launch-configurations/
+> https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchTemplates.html
+
+https://aws.amazon.com/en/blogs/compute/optimize-costs-by-up-to-70-with-new-amazon-t3-dedicated-hosts/
+
+https://aws.amazon.com/en/blogs/compute/enabling-parallel-file-systems-in-the-cloud-with-amazon-ec2-part-i-beegfs/
+
+https://aws.amazon.com/en/about-aws/whats-new/2021/04/amazon-ec2-auto-scaling-introduces-warm-pools-accelerate-scale-out-while-saving-money/`
+
+https://aws.amazon.com/en/blogs/compute/introducing-native-support-for-predictive-scaling-with-amazon-ec2-auto-scaling/
+
+https://aws.amazon.com/en/blogs/compute/scaling-your-applications-faster-with-ec2-auto-scaling-warm-pools/
+
+https://aws.amazon.com/en/blogs/compute/introducing-instance-refresh-for-ec2-auto-scaling/
+
+https://aws.amazon.com/en/blogs/compute/running-web-applications-on-amazon-ec2-spot-instances/
+
+https://aws.amazon.com/en/blogs/compute/preview-vcpu-based-instance-limits/
+
+https://aws.amazon.com/en/blogs/compute/optimizing-nginx-load-balancing-on-amazon-ec2-a1-instances/
+
+https://aws.amazon.com/en/blogs/compute/nginx-reverse-proxy-sidecar-container-on-amazon-ecs/
+
+# Monitoring
+
+https://aws.amazon.com/en/blogs/compute/how-to-monitor-windows-and-linux-servers-and-get-internal-performance-metrics/
+
+https://aws.amazon.com/en/blogs/compute/optimizing-ec2-workloads-with-amazon-cloudwatch/
+
+https://aws.amazon.com/en/blogs/compute/monitor-cluster-state-with-amazon-ecs-event-stream/
+
+# Config
+https://aws.amazon.com/en/blogs/compute/how-to-enable-x11-forwarding-from-red-hat-enterprise-linux-rhel-amazon-linux-suse-linux-ubuntu-server-to-support-gui-based-installations-from-amazon-ec2/
+
+https://aws.amazon.com/en/blogs/compute/continuous-deployment-to-amazon-ecs-using-aws-codepipeline-aws-codebuild-amazon-ecr-and-aws-cloudformation/
+> https://github.com/awslabs/ecs-refarch-continuous-deployment
+
+# AMI
+
+https://aws.amazon.com/en/blogs/compute/tracking-the-latest-server-images-in-amazon-ec2-image-builder-pipelines/
+
+## Builder
+https://aws.amazon.com/en/blogs/compute/executing-ansible-playbooks-in-your-amazon-ec2-image-builder-pipeline/
+
+### Test
+https://aws.amazon.com/en/blogs/compute/testing-ec2-image-builder-pipelines-using-chef-inspec/
+
+# EBS
+https://aws.amazon.com/en/blogs/compute/must-know-best-practices-for-amazon-ebs-encryption/
+
+## BCP
+https://aws.amazon.com/en/blogs/compute/recovering-files-from-an-amazon-ebs-volume-backup/
+
+https://aws.amazon.com/en/blogs/compute/automating-rollback-of-failed-amazon-ecs-deployments/
+
+https://aws.amazon.com/en/blogs/compute/automating-amazon-ebs-snapshot-management-with-aws-step-functions-and-amazon-cloudwatch-events/
+
+https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-amazon-ebs-snapshots-with-amazon-ec2-systems-manager-part-1/
+
+https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-amazon-ebs-snapshots-with-amazon-ec2-systems-manager-part-2/

@@ -61,6 +61,8 @@ https://segment.com/blog/product-manager-engineering-manager-rules-of-engagement
 
 https://betterprogramming.pub/10-mistakes-to-avoid-as-a-software-development-manager-84bdf645ed7c
 
+https://www.brightball.com/articles/reality-driven-development-fixing-project-management-in-software
+
 # Estimate
 https://en.wikipedia.org/wiki/Delphi_method
 > https://news.ycombinator.com/item?id=26368011

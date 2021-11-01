@@ -1,3 +1,7 @@
+https://www.synacktiv.com/en/publications/finding-gadgets-like-its-2015-part-1.html
+
+https://dustri.org/b/ten-years-of-mat.html
+
 https://trojansource.codes/
 > https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/
 > > https://www.trojansource.codes/trojan-source.pdf
@@ -9,6 +13,7 @@ https://trojansource.codes/
 > https://news.ycombinator.com/item?id=29062982
 > https://gitlab.com/gitlab-org/gitlab/-/commit/3fb44197195b5789b99a13f7bf482e9a895dfc58
 > https://github.com/nickboucher/trojan-source/blob/main/JavaScript/stretched-string.js
+> https://www.reddit.com/user/tophalp/
 
 https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
 

@@ -32,6 +32,11 @@ https://arnaque-telephone.com/
 
 # Security
 
+https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/
+
+https://learndmarc.com
+> https://www.reddit.com/r/sysadmin/comments/qkai5m/spf_dkim_dmarc/
+
 https://blog.filippo.io/the-sad-state-of-smtp-encryption/ 2015
 
 https://autocrypt.org/
@@ -76,7 +81,7 @@ https://jmap.io/
 
 https://www.mailoo.org/
 
-# Mailinglist
+# Mailing list
 https://github.com/knadh/listmonk
 > https://news.ycombinator.com/item?id=28389346
 
@@ -86,6 +91,8 @@ https://spamassassin.apache.org/
 https://www.semanticscholar.org/paper/Spamalot%3A-A-Toolkit-for-Consuming-Spammers%27-Nelson-Dallmeyer/97b8c4e291835ca3d11e0e6d924dc436ea31a4c7?p2df
 
 # News
+https://kickbox.com/ Smarter Email Verification for Marketers and Developers
+
 https://blog.boomerangapp.com/2017/01/how-to-end-an-email-email-sign-offs/
 > https://news.ycombinator.com/item?id=29021312
 

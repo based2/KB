@@ -5,3 +5,7 @@ htts://elastisys.com/taking-eks-distro-for-a-spin/
 https://aws.github.io/aws-eks-best-practices/
 
 https://aws.amazon.com/en/about-aws/whats-new/2021/10/amazon-eks-nodes-groups-bottlerocket/
+
+https://aws.amazon.com/en/blogs/compute/enabling-dns-resolution-for-amazon-eks-cluster-endpoints/
+
+https://aws.amazon.com/en/blogs/compute/making-cluster-updates-easy-with-amazon-eks/

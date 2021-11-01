@@ -250,6 +250,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://foojay.io/
+
 https://www.reddit.com/r/java/comments/qk9has/externalized_properties_for_the_jvm/
 * https://github.com/jeyjeyemem/externalized-properties/wiki
 

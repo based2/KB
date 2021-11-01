@@ -3,7 +3,6 @@ https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-bil
 
 https://github.com/ModernCloud/moderncloud
 
-
 https://github.com/doctorray117/minecraft-ondemand
 > https://news.ycombinator.com/item?id=28454968
 
@@ -17,3 +16,50 @@ https://www.elastic.co/blog/tracing-aws-lambdas-with-opentelemetry-and-elastic-o
 
 https://www.tbray.org/ongoing/When/202x/2021/10/26/URI-based-Integration
 > https://news.ycombinator.com/item?id=29018762
+
+https://aws.amazon.com/en/blogs/compute/creating-aws-lambda-environmental-variables-from-aws-secrets-manager/
+
+https://www.ballpointcarrot.net/posts/rust-arm-lambdas/
+
+# Logs
+https://aws.amazon.com/en/blogs/compute/operating-lambda-logging-and-custom-metrics/
+
+https://lukerogerson.medium.com/a-better-python-logger-for-aws-lambda-give-me-back-my-extra-kwarg-c5073a40fe5f
+> https://www.reddit.com/r/aws/comments/qjnynp/an_improved_python_aws_lambda_logging_setup/
+> https://awslabs.github.io/aws-lambda-powertools-python/latest/
+
+https://aws.amazon.com/en/blogs/compute/operating-lambda-using-cloudwatch-logs-insights/
+
+https://aws.amazon.com/en/blogs/compute/using-aws-lambda-extensions-to-send-logs-to-custom-destinations/
+
+# Step functions
+https://aws.amazon.com/en/blogs/compute/integrating-aws-step-functions-callbacks-and-external-systems/
+
+https://aws.amazon.com/fr/blogs/compute/implementing-serverless-manual-approval-steps-in-aws-step-functions-and-amazon-api-gateway/
+
+# Debug
+https://aws.amazon.com/en/blogs/compute/operating-lambda-debugging-integrations-part-3/
+
+# Security
+https://aws.amazon.com/en/blogs/compute/operating-lambda-building-a-solid-security-foundation-part-1/
+
+https://aws.amazon.com/en/blogs/compute/operating-lambda-building-a-solid-security-foundation-part-2/
+
+https://aws.amazon.com/en/blogs/compute/using-aws-lambda-iam-condition-keys-for-vpc-settings/
+
+# Design
+
+https://aws.amazon.com/en/blogs/compute/operating-lambda-anti-patterns-in-event-driven-architectures-part-3/
+
+https://aws.amazon.com/en/blogs/compute/operating-lambda-application-design-part-3/
+
+# Costs
+https://aws.amazon.com/en/blogs/compute/serverless-automated-cost-controls-part1/
+
+# Solutions
+https://aws.amazon.com/fr/blogs/compute/creating-a-cost-efficient-amazon-ecs-cluster-for-scheduled-tasks/
+
+# News
+https://aws.amazon.com/en/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/
+
+https://aws.amazon.com/en/blogs/compute/python-3-9-runtime-now-available-in-aws-lambda/

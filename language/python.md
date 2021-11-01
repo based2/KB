@@ -11,7 +11,6 @@ https://arrow.apache.org/blog/2019/02/05/python-string-memory-0.12/
 > https://news.ycombinator.com/item?id=27468692
 
 https://hynek.me/articles/python-subclassing-redux/
-> 
 
 https://death.andgravity.com/namedtuples
 > https://news.ycombinator.com/item?id=27906752
@@ -50,7 +49,7 @@ d['key'][1]='one'
 
 https://medium.com/techtofreedom/six-debugging-techniques-for-python-programmers-cb25a4baaf4b
 > https://github.com/gruns/icecream
-  https://news.ycombinator.com/item?id=26631467
+> https://news.ycombinator.com/item?id=26631467
 
 https://github.com/morefigs/printstack
 > https://news.ycombinator.com/item?id=26747743
@@ -89,6 +88,7 @@ https://pythonspeed.com/articles/measuring-memory-python/
 
 # Books
 https://news.ycombinator.com/item?id=26076721
+
 https://github.com/pamoroso/free-python-books
 > https://news.ycombinator.com/item?id=26759677
 
@@ -149,6 +149,7 @@ https://github.com/bsdz/calcengine
 
 # Pypi
 https://github.blog/changelog/2021-03-22-the-python-package-index-is-now-a-github-secret-scanning-integrator/
+
 https://news.ycombinator.com/item?id=26565970
 
 # Interops
@@ -171,113 +172,179 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 
 # News
 https://lifelines.readthedocs.io/en/latest/
+
 https://github.com/prefecthq/prefect workflow engine
+
 https://realpython.com/python310-new-features/
 > https://www.reddit.com/r/programming/comments/qiwq2k/python_310_cool_new_features_for_you_to_try_real/
+
 https://utcc.utoronto.ca/~cks/space/blog/python/Python3StdinUnicodeForced
+
 https://sqlmodel.tiangolo.com/
+
 https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/
 > https://news.ycombinator.com/item?id=29005573
+
 https://programsareproofs.com/articles/functiontrace_glyphslib.html
+
 https://docs.python.org/3/whatsnew/3.10.html
 > https://news.ycombinator.com/item?id=29014848
+
 https://nmigen.info/nmigen/latest/intro.html
+
 https://blog.chiodini.org/posts/python-global/
+
 https://www.python.org/dev/peps/pep-0670/
 > https://news.ycombinator.com/item?id=28932123
+
 https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html
+
 https://github.com/ttymck/compatlib
 > https://news.ycombinator.com/item?id=28915017
+
 https://lukasz.langa.pl/f15a8851-af26-4e94-a4b1-c146c57c9d20/
 > https://news.ycombinator.com/item?id=28919181
+
 https://pythonspeed.com/articles/conda-vs-pip/
 > https://news.ycombinator.com/item?id=28879840
+
 https://www.psycopg.org/articles/2021/10/13/psycopg-30-released/
+
 https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html
 > https://news.ycombinator.com/item?id=28850036
+
 https://pythonwheels.com/
 > https://news.ycombinator.com/item?id=28828051
+
 https://rogulski.it/blog/sqlalchemy-14-async-orm-with-fastapi/
+
 https://simonwillison.net/2021/Oct/9/finding-and-reporting-a-bug/
+
 https://jfrog.com/blog/23andmes-yamale-python-code-injection-and-properly-sanitizing-eval/
 > https://www.reddit.com/r/netsec/comments/q1wxj1/23andmes_yamale_python_code_injection_and/
+
 https://bugs.python.org/issue40222 "Zero cost" exception handling
 > https://news.ycombinator.com/item?id=28771931
+
 https://www.python.org/downloads/release/python-3100/
+
 https://docs.python.org/3.11/whatsnew/changelog.html#changelog
 > https://news.ycombinator.com/item?id=28742061
+
 https://futurecoder.io/
 > https://news.ycombinator.com/item?id=28737779
+
 https://github.com/thoppe/NansAreNumbers
 > https://news.ycombinator.com/item?id=28691005
+
 https://tonybaloney.github.io/posts/extending-python-with-assembly.html
 > https://news.ycombinator.com/item?id=28702670
+
 https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/
 > https://news.ycombinator.com/item?id=28690560
+
 https://p403n1x87.github.io/spy-on-python-down-to-the-linux-kernel-level.html
 > https://news.ycombinator.com/item?id=28669256
+
 https://alex-monahan.github.io/2021/08/22/Python_and_SQL_Better_Together.html
+
 https://github.com/pyccel/pyccel parallel
+
 https://benhoyt.com/writings/python-pattern-matching/
 > https://news.ycombinator.com/item?id=28600594
+
 https://cedaei.com/posts/python-poetry-pipx/
+
 https://github.com/Technologicat/pyan
 > https://lobste.rs/s/tejack/technologicat_pyan_static_call_graph
+
 https://github.com/olzhasar/pytest-watcher
-> 
+ 
 https://www.pypy.org/posts/2021/09/jit-auto-generated-code.html
+
 https://valinsky.me/articles/python-anti-pattern/
 > https://news.ycombinator.com/item?id=28534196
+
 https://nullprogram.com/blog/2021/09/15/ OpenBSD's pledge and unveil from Python
 > https://news.ycombinator.com/item?id=28535255
+
 https://python-build-standalone.readthedocs.io/en/latest/index.html
 > https://lobste.rs/s/efwa7y/python_standalone_builds
+
 https://nuitka.net/pages/overview.html
 > https://news.ycombinator.com/item?id=28377541
+
 https://github.com/facebookexperimental/skybison
 > https://news.ycombinator.com/item?id=28365135
+
 https://github.com/tiangolo/sqlmodel
+
 https://vulns.xyz/2021/08/reproducible-python-bytecode/
+
 https://github.com/tlocke/facata/ Simplified alternative to DBAPI 2
 > https://news.ycombinator.com/item?id=28258421
+
 https://lona-web.org/
 > https://news.ycombinator.com/item?id=28128445
+
 https://www.zenrows.com/blog/mastering-web-scraping-in-python-crawling-from-scratch
 > https://news.ycombinator.com/item?id=28142002
+
 https://martinheinz.dev/blog/54
 > https://news.ycombinator.com/item?id=28104674
+
 https://linuxfr.org/news/python-3-10-est-disponible
+
 https://www.dallasnews.com/business/local-companies/2021/07/29/texas-instruments-new-calculator-incorporates-popular-python-programming-language/
 > https://news.ycombinator.com/item?id=28014229
+
 https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/
 > https://news.ycombinator.com/item?id=27941208
+
 https://epicpython.com/
 > https://news.ycombinator.com/item?id=27931195
+
 https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html#gs.6zmlr0
 > https://news.ycombinator.com/item?id=27902969
+
 https://dev.to/martinheinz/functools-the-power-of-higher-order-functions-in-python-3dg0
 > https://news.ycombinator.com/item?id=27768211 Functools – The Power of Higher-Order Functions in Python
+
 https://death.andgravity.com/stdlib
+
 https://venthur.de/2021-06-26-python-packaging.html
+
 https://filesystem-spec.readthedocs.io/en/latest/index.html
 > https://news.ycombinator.com/item?id=27523377
+
 https://semaphoreci.com/blog/building-python-projects-with-pants
+
 https://github.com/tiangolo/fastapi/issues/2518 FastAPI default configuration leaks traffic information to multiple third parties
+
 https://github.com/faster-cpython/ideas
 > https://github.com/faster-cpython/ideas
+
 https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0
 > https://news.ycombinator.com/item?id=27132999
 > https://news.ycombinator.com/item?id=27125200
+
 https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/
+
 https://github.com/samuelcolvin/pydantic/issues/2678 fastapi pep
 > https://news.ycombinator.com/item?id=26826158
+
 https://twitter.com/nedbat/status/1382027078816653319
 > https://news.ycombinator.com/item?id=26796504
+
 https://isc.sans.edu/forums/diary/No+Python+Interpreter+This+Simple+RAT+Installs+Its+Own+Copy/27292/
 > https://news.ycombinator.com/item?id=26748731
+
 https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/
 > https://news.ycombinator.com/item?id=26710013
+
 https://medium.com/opentelemetry/announcing-opentelemetry-python-1-0-4e097562b8e0
+
 https://realpython.com/interview-dane-hillard/
+
 https://www.man.com/why-we-rewrote-our-platform-in-python
 

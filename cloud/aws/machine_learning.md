@@ -1,0 +1,1 @@
+https://aws.amazon.com/en/blogs/compute/deploying-machine-learning-models-with-serverless-templates/

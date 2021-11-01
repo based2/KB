@@ -20,6 +20,8 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://www.reddit.com/r/sysadmin/comments/qk1jc1/need_a_simple_mfaotp_solution_1_local_user/
+
 https://kgizdov.medium.com/the-efficiency-of-microsoft-e50ea81f69f5
 > https://news.ycombinator.com/item?id=28834260
 https://thedetechtor.com/authenticator-review-one-of-the-best-apps-to-manage-double-factor-codes-2fa/
