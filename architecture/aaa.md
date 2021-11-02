@@ -1,7 +1,6 @@
 https://news.ycombinator.com/item?id=26053498 Architectural Decision Records (ADRs)
 
 https://github.com/awslabs/smithy
-*
 > https://news.ycombinator.com/item?id=27081084
 
 https://www.archimatetool.com/ http://archi-contribs.github.io/ https://www.archimatetool.com/beta/
@@ -132,7 +131,6 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 > https://news.ycombinator.com/item?id=28849854
 
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
-
 
 # News
 https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/

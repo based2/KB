@@ -71,7 +71,9 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 # News
 https://www.netmeister.org/blog/return-printf.html
 > https://news.ycombinator.com/item?id=28931457
+
 https://kristerw.github.io/2021/10/19/fast-math/
 > https://news.ycombinator.com/item?id=28927064
+
 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2851.pdf
 > https://news.ycombinator.com/item?id=28861672

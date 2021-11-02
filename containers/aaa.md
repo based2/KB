@@ -6,7 +6,6 @@ https://blog.container-solutions.com/what-is-policy-as-code
 
 https://containerssh.io/
 
-
 https://searchservervirtualization.techtarget.com/tip/5-open-source-software-applications-for-virtualization
 > https://cockpit-project.org/
 

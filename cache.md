@@ -24,3 +24,6 @@ https://actualbudget.com/blog/new-caching
 https://arxiv.org/abs/2109.14652 Seeds of SEED: A Side-Channel Resilient Cache Skewed by a Linear Function over a Galois Field
 
 https://betterprogramming.pub/how-a-cache-stampede-caused-one-of-facebooks-biggest-outages-dbb964ffc8ed
+
+https://engineering.fb.com/2021/10/26/core-data/kangaroo/ Flash cache that enables more efficient caching of tiny objects
+> https://news.ycombinator.com/item?id=29065979

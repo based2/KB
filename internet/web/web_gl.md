@@ -21,3 +21,6 @@ https://starrior.com/
 > https://news.ycombinator.com/item?id=28665918 
 > https://tympanus.net/Development/InfiniteTubes/
 
+https://reindernijhoff.net/2021/11/townscapers-rendering-style-in-webgl/
+> https://news.ycombinator.com/item?id=29074015
+

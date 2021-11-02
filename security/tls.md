@@ -6,17 +6,20 @@ List TLS versions supported:
     openssl s_client -help 2>&1 | awk '/-ssl[0-9]|-tls[0-9]/{print $1}'
 
 # Others
-- Amazon: https://aws.amazon.com/fr/blogs/security/introducing-s2n-a-new-open-source-tls-implementation/
-- Microsoft: SChannel
-- Google: https://boringssl.googlesource.com/boringssl/
+
+* Amazon: https://aws.amazon.com/fr/blogs/security/introducing-s2n-a-new-open-source-tls-implementation/
+* Microsoft: SChannel
+* Google: https://boringssl.googlesource.com/boringssl/
 
 https://en.wikipedia.org/wiki/Comparison_of_TLS_implementations
 
 https://github.com/ctz/rustls
+
 https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/
 > https://news.ycombinator.com/item?id=26875551
 
 https://github.com/mirleft/ocaml-tls
+
 https://comp.lang.ada.narkive.com/QWxEmEME/transport-layer-security-for-ada
 
 https://eli.thegreenplace.net/2021/go-https-servers-with-tls/
@@ -38,7 +41,6 @@ https://utcc.utoronto.ca/~cks/space/blog/web/OCSPStaplingAndErrors
 
 # 1.3
 https://blog.devgenius.io/added-security-measures-and-changes-in-tls-1-3-fd93bbfecb8f
-> 
 
 Compact TLS 1.3 https://tools.ietf.org/html/draft-rescorla-tls-ctls-02 https://news.ycombinator.com/item?id=20676408
 https://marc.info/?l=openbsd-announce&m=156500965928485&w=2 LibreSSL 3.0.0 Released
@@ -66,9 +68,11 @@ https://twitter.com/letsencrypt/status/1443621997288767491
 https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
 
 https://textslashplain.com/2019/08/11/spying-on-https/ https://news.ycombinator.com/item?id=20673409
+
 https://www.reddit.com/r/programming/comments/cpcuaj/spying_on_https/
 
 https://github.com/hughperkins/howto-jenkins-ssl
+
 https://support.cloudbees.com/hc/en-us/articles/203821254-How-to-install-a-new-SSL-certificate
 
 https://www.pixelstech.net/article/1445603357-A-HTTPS-client-and-HTTPS-server-demo-in-Java
@@ -81,12 +85,14 @@ http://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html
 > https://news.ycombinator.com/item?id=9277269
 
 https://tls.so/
+
 https://news.ycombinator.com/item?id=9271946
 
 https://github.com/Hakky54/sslcontext-kickstart High-Level SSLFactory class for configuring a http client to communicate over SSL/TLS for one way authentication or two-way authentication
 
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
+
 https://news.ycombinator.com/item?id=20988584 https://news.ycombinator.com/item?id=21308939
 
 https://www.bleepingcomputer.com/news/security/dutch-govt-explains-the-risks-behind-dns-over-https-move/
@@ -111,40 +117,65 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 # News
 https://mta.openssl.org/pipermail/openssl-project/2021-October/002777.html quic
 > https://news.ycombinator.com/item?id=29040229
+
 https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCTLetsUsMeasureCAUsage
 > https://news.ycombinator.com/item?id=28824706
+
 https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/2804293/avoid-dangers-of-wildcard-tls-certificates-the-alpaca-technique/
+
 https://scotthelme.co.uk/lets-encrypt-root-expiration-post-mortem/
+
 https://news.ycombinator.com/item?id=28736553
+
 https://www.zdnet.com/article/fortinet-shopify-others-report-issues-after-root-ca-certificate-from-lets-encrypt-expires/
 > https://news.ycombinator.com/item?id=28730393
+
 https://github.com/electron/electron/issues/31212
+
 https://twitter.com/Scott_Helme/status/1443569171581652993
+
 https://nvd.nist.gov/vuln/detail/CVE-2021-39214 mitmproxy
+
 https://blog.devgenius.io/rhel-centos-7-fix-for-lets-encrypt-change-8af2de587fe4
 > https://news.ycombinator.com/item?id=28680426
+
 https://www.kernel.org/doc/html/latest/networking/tls-offload.html
+
 https://www.smacktls.com/
+
 https://blog.px.dev/ebpf-openssl-tracing/
+
 https://go.dev/blog/tls-cipher-suites
 > https://news.ycombinator.com/item?id=28540916
+
 https://news.ycombinator.com/item?id=28504242 Let's Encrypt API v2 Service Disruption (12 Sep 2021)
+
 https://www.openssl.org/blog/blog/2021/09/07/OpenSSL3.Final/
 > https://news.ycombinator.com/item?id=28451875
+
 https://tlsfingerprint.io/
 > https://news.ycombinator.com/item?id=28251700
+
 https://engineering.salesforce.com/tls-fingerprinting-with-ja3-and-ja3s-247362855967
+
 https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/60f5b56d1c82f805369a7d98
 > https://news.ycombinator.com/item?id=27885615
+
 https://mitmproxy.org/posts/releases/mitmproxy7/
 > https://news.ycombinator.com/item?id=27855476
+
 https://haydenjames.io/nginx-tuning-tips-tls-ssl-https-ttfb-latency/
+
 https://community.letsencrypt.org/t/2021-06-08-certificate-lifetime-incident/153426
 > https://bugzilla.mozilla.org/show_bug.cgi?id=1715455 Let's Encrypt: certificate lifetimes 90 days plus one second
 > https://news.ycombinator.com/item?id=27450364
+
 https://alpaca-attack.com/
 > https://news.ycombinator.com/item?id=27447348
+
 https://utcc.utoronto.ca/~cks/space/blog/tech/TLSTimeRepresentations
 > https://news.ycombinator.com/item?id=27421121
+
 https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html 25th March 2021 - 1.1.1k is a security-fix release HIGH
+
 https://datatracker.ietf.org/doc/rfc8996/

@@ -65,6 +65,12 @@ https://cgit.freebsd.org/src/commit/?id=d410b585b6f00a26c2de7724d6576a3ea7d548b7
 
 https://www.neelc.org/posts/freebsd-speed-shift-laptop/
 
+https://www.freebsd.org/cgi/man.cgi?query=sysexits
+> https://news.ycombinator.com/item?id=29056429
+
+https://www.moritz.systems/blog/lldb-serial-port-communication-support/
+>
+
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908

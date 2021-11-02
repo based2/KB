@@ -46,6 +46,8 @@ https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://news.ycombinator.com/item?id=29077750
+
 https://news.ycombinator.com/item?id=29023529
 
 https://borretti.me/article/signed-integers-asymmetrical

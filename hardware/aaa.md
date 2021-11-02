@@ -25,7 +25,6 @@ https://research.swtch.com/hwmm Hardware Memory Models
 https://www.ovh.com/blog/how-pci-express-works-and-why-you-should-care-gpu/
 > https://news.ycombinator.com/item?id=28490021
 
-
 # NUC
 https://www.cnx-software.com/2021/09/07/intel-nuc-p14e-laptop-element-features-intel-nuc-11-compute-element/
 > https://news.ycombinator.com/item?id=28447913
@@ -48,28 +47,45 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://supchina.com/2021/11/01/alibabas-silicon-chip-in-the-age-of-hypersonic-missiles/
+
+https://www.theregister.com/2021/11/02/china_loongson_mips/
+
 http://www.rcollins.org/ddj/May98/F00FBug.html
 > https://news.ycombinator.com/item?id=29056070
+
 https://www.blopeur.com/2021/10/30/Intel-VISC-Processor-Architecture-Patent.html
+
 https://www.copetti.org/writings/consoles/playstation-3/
+
 https://news.ycombinator.com/item?id=28861949 laptop
+
 https://github.com/stnolting/captouch Capacitive Buttons for any FPGA
 > https://news.ycombinator.com/item?id=28886670
+
 https://www.youtube.com/watch?v=f0gMdGrVteI The Extreme Physics Pushing Moore’s Law to the Next Level
+
 https://www.imec-int.com/en/articles/mram-technologies-space-applications-unified-cache-memory
 > https://news.ycombinator.com/item?id=28771648
+
 https://loongson.github.io/LoongArch-Documentation/README-EN.html
+
 https://turingpi.com/turing-pi-v2-is-here/
 > https://news.ycombinator.com/item?id=28299204
+
 https://haydenjames.io/home-lab-beginners-guide-hardware/
 > https://news.ycombinator.com/item?id=28274128
+
 http://sam.zeloof.xyz/second-ic/
 > https://news.ycombinator.com/item?id=28176255
+
 https://lillianli.substack.com/p/china-semiconductors-and-the-push
+
 https://news.ycombinator.com/item?id=27957171
+
 https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews
 > https://news.ycombinator.com/item?id=27926425
+
 https://nagimov.me/post/measure-with-music-how-to-read-analog-sensors-using-a-pc-sound-card/
 > https://news.ycombinator.com/item?id=27695661
-
 

@@ -14,6 +14,9 @@ https://www.science.org/content/article/new-fleet-moon-landers-will-set-sail-nex
 https://masten.aero/blog/mitigating-lunar-dust-masten-completes-fast-landing-pad-study/
 > https://news.ycombinator.com/item?id=28617810
 
+https://en.wikipedia.org/wiki/Lunar_lava_tube
+> https://news.ycombinator.com/item?id=29065568
+
 # History
 https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html
 > https://news.ycombinator.com/item?id=28260568

@@ -12,4 +12,3 @@ https://github.com/jasonsbeer/Amiga-2000-ATX
 > https://news.ycombinator.com/item?id=27939525
 
 http://obligement.free.fr/articles_traduction/amiganasa_en.php
-> 

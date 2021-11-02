@@ -55,18 +55,26 @@ https://github.com/nightfallai/pii-leak-prevention-guide
 # News
 https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/
 > https://news.ycombinator.com/item?id=28986735
+
 https://www.rte.ie/news/business/2021/0902/1244293-whatsapp-gdpr-ruling/
 > https://news.ycombinator.com/item?id=28390308
+
 https://www.grcworldforums.com/gdpr/is-zoom-illegal-in-the-eu-unpacking-the-hamburg-dpas-decision/2384.article
 > https://news.ycombinator.com/item?id=28345589
+
 https://noyb.eu/en/noyb-files-422-formal-gdpr-complaints-nerve-wrecking-cookie-banners
 > https://news.ycombinator.com/item?id=28133329
+
 https://noyb.eu/en/irish-dpc-handles-9993-gdpr-complaints-without-decision
+
 https://www.avg.com/en-us/products-policy#antivirus0
 > https://news.ycombinator.com/item?id=27334548
+
 https://www.datatilsynet.no/en/news/2021/intent-to-issue--25-million-fine-to-disqus-inc/
 > https://news.ycombinator.com/item?id=27060609
+
 https://edpb.europa.eu/news/national-news/2021/easy-privacy-information-icons-yes-you-can-italian-dpa-launches-contest_en
+
 https://www.qurium.org/forensics/dark-ops-undercovered-episode-i-eliminalia/
 
 

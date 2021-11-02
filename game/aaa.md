@@ -7,3 +7,5 @@ https://bottomfeeder.substack.com/p/six-truths-about-video-game-stories
 > https://news.ycombinator.com/item?id=29055167
 
 https://github.com/iamandras/isometric
+
+https://danielyxie.github.io/bitburner/

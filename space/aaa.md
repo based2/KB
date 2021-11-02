@@ -37,14 +37,16 @@ https://esamultimedia.esa.int/docs/science/Webb-LaunchKit_EN.pdf
 https://www.esa.int/Enabling_Support/Operations/Three_hours_to_save_Integral
 > https://news.ycombinator.com/item?id=28916225
 
+https://www.scmp.com/news/china/military/article/3154496/chinese-satellite-shows-space-warfare-prowess-dodging-us
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112
 > https://gizmodo.com/russian-module-unexpectedly-fires-thrusters-after-docki-1847387773
 > https://spectrum.ieee.org/naukas-troubled-flight-t
- > https://news.ycombinator.com/item?id=28320222
-  > https://www.youtube.com/watch?v=dDBt9rZhMb4
-  https://www.space.com/russian-soyuz-thrusters-tilt-space-station-again
+> > https://news.ycombinator.com/item?id=28320222
+> > > https://www.youtube.com/watch?v=dDBt9rZhMb4
+>  https://www.space.com/russian-soyuz-thrusters-tilt-space-station-again
 
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
 

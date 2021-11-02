@@ -1,6 +1,7 @@
 
 # Tools
 docker
+
 ## Rootless
 img
 buildah
@@ -16,7 +17,6 @@ Pulumi Python
 AWS CDK Python
 
 https://github.com/nutanix/calm-dsl
-
 
 https://blog.jessfraz.com/post/building-container-images-securely-on-kubernetes/
 

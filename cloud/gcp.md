@@ -11,3 +11,7 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 > https://news.ycombinator.com/item?id=28844770
 
 https://github.com/GoogleCloudPlatform/berglas
+
+# News
+https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling
+> https://news.ycombinator.com/item?id=27719071

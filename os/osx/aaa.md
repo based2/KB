@@ -48,6 +48,9 @@ https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
 https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/
 > https://news.ycombinator.com/item?id=28207810
 
+https://eisel.me/devtool-allocators
+> https://news.ycombinator.com/item?id=29068828
+
 # M1
 https://www.anandtech.com/show/17024/apple-m1-max-performance-review
 > https://news.ycombinator.com/item?id=28987276
@@ -123,38 +126,64 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
   > https://www.maconlinux.net/
 
 # News
+https://news.ycombinator.com/item?id=29079096 brew alt
+
+https://www.corbinstreehouse.com/blog/2021/10/macos-12-monterey-and-user-interface-inconsistencies/
+> ttps://news.ycombinator.com/item?id=29073322
+
 https://github.com/waydabber/BetterDummy Custom HiDPI Resolutions
+
 https://www.btaz.com/mac-os-x/find-the-process-listening-to-port-on-mac-os-x/
-ps -Ao user,pid,command | grep -v grep | grep <PID>
+    ps -Ao user,pid,command | grep -v grep | grep <PID>
+
 https://stackoverflow.com/questions/4421633/who-is-listening-on-a-given-tcp-port-on-mac-os-x
-netstat -anv
-sudo lsof -i -P | grep LISTEN
+    netstat -anv
+    sudo lsof -i -P | grep LISTEN
+
 https://nuxx.net/blog/2021/10/29/network-capture-with-process-name-and-pid-on-macos/
+
 https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/
 > https://news.ycombinator.com/item?id=29052214
+
 https://blog.kaleidoscope.app/2021/10/25/whats-new-in-the-macos-monterey-command-line/
+
 https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html
 > https://news.ycombinator.com/item?id=28994800
+
 https://brew.sh/2021/10/25/homebrew-3.3.0/
+
 https://www.apple.com/newsroom/2021/10/macos-monterey-is-now-available/
+
 https://eclecticlight.co/2021/09/19/last-week-on-my-mac-the-macos-update-problem/
+
 https://fmentzer.github.io/posts/2020/dictionary/
 > https://news.ycombinator.com/item?id=28505406
+
 https://git.sr.ht/~habibalamin/Commandeer
 > https://lobste.rs/s/vspo8i/commandeer_remap_command_escape_when
+
 http://blog.ret2.io/2021/07/21/wtf-snapshot-fuzzing/
 > https://news.ycombinator.com/item?id=27914379
+
 https://9to5mac.com/2021/07/23/exclusive-apple-testing-new-external-display-with-a-dedicated-a13-chip-and-neural-engine/
+
 https://www.barebones.com/products/bbedit/bbedit14.html
-*https://news.ycombinator.com/item?id=27905644
+> https://news.ycombinator.com/item?id=27905644
+
 https://sixcolors.com/post/2021/07/first-look-macos-monterey-public-beta/
 > https://news.ycombinator.com/item?id=27707770
+
 https://www.jessesquires.com/blog/2021/06/29/apple-docc-great-but-useless-for-oss/
 > https://news.ycombinator.com/item?id=27686069
+
 http://karolis.koncevicius.lt/posts/cleaning_home_on_macos/
+
 https://developer.apple.com/forums/thread/681907 PHP has been removed in macOS Monterey
 > https://news.ycombinator.com/item?id=27537040
+
 https://taoofmac.com/space/blog/2021/06/05/1100 The Big Sur kernel_task Troubleshooting Saga
+
 https://appleinsider.com/articles/21/05/24/apples-moves-point-to-a-future-with-no-bootable-backups-says-developer
+
 https://9to5mac.com/2021/05/18/40-core-mac-pro-high-end-mac-mini-in-development/
 > https://news.ycombinator.com/item?id=27194476

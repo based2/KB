@@ -102,57 +102,94 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://www.sourceware.org/dwz/
+
 https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
+
 https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover
+
 https://megalinter.github.io/
+
 https://opensource.googleblog.com/2021/10/protect-your-open-source-project-from-supply-chain-attacks.html
 > https://news.ycombinator.com/item?id=28931248
+
 https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c
+
 https://blog.argoproj.io/argo-rollouts-v1-1-fef8611a9034
+
 https://www.cobaltrobotics.com/premortems-and-postmortems/
 > https://news.ycombinator.com/item?id=28854598
+
 https://github.com/Flagsmith/flagsmith
 > https://news.ycombinator.com/item?id=28785788
+
 https://thenewstack.io/sigstore-code-signing-for-software-supply-chain-security/
+
 https://tech.ovoenergy.com/gitoops-attacking-and-defending-ci-cd-pipelines/
+
 https://fr.sonatype.com/resources/state-of-the-software-supply-chain-2021
+
 https://tomhummel.com/posts/ci/cd-quick-reference/
+
 https://csrc.nist.gov/publications/detail/sp/800-204c/draft
+
 https://github.com/run-x/opta/
+
 https://github.com/theonedev/onedev Jetty Shiro Wicket
+
 https://news.ycombinator.com/item?id=28615329 How do you handle CI pipeline in front end-back end monorepo
-*
+
 https://github.com/mattbillenstein/salty
+
 https://cloudogu.com/en/blog/gitops-tools
+
 https://theforeman.org/2021/09/foreman-30-is-here.html
 > https://news.ycombinator.com/item?id=28569690
+
 https://travis-ci.community/t/security-bulletin/12081
 > https://news.ycombinator.com/item?id=28523350
+
 https://gitlab.com/gitlab-org/gitlab/-/issues/335278
 > https://news.ycombinator.com/item?id=28535298
+
 https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
+
 https://decisionops.substack.com/p/decisionops
 > https://news.ycombinator.com/item?id=28234629
+
 https://blog.cedriccharly.com/post/20210523-how-cue-wins/
+
 https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/
 > https://news.ycombinator.com/item?id=28137852
+
 https://five9sclub.substack.com/p/how-to-explain-devops-to-non-tech
 > https://news.ycombinator.com/item?id=28059162
+
 https://github.com/MicrosoftEdge/MSEdgeExplainers/blob/main/VersionHistory/explainer.md
 > https://news.ycombinator.com/item?id=27971502
+
 https://www.sleuth.io/
 > https://news.ycombinator.com/item?id=27974573
+
 https://www.jetbrains.com/lp/devecosystem-2021/
 > https://news.ycombinator.com/item?id=27856283
+
 https://bitbucket.org/blog/encountering-some-turbulence-on-bitbuckets-journey-to-a-new-platform
 > https://news.ycombinator.com/item?id=27774987
+
 https://about.gitlab.com/blog/2021/06/22/gitlab-14-modern-devops/
 > https://news.ycombinator.com/item?id=27714296
+
 https://news.ycombinator.com/item?id=27711403
+
 https://pijul.org/posts/2021-06-28-two-changes/
+
 https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/
+
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
+
 https://about.gitlab.com/blog/2021/05/04/gitlabs-2021-survey-uncovers-a-new-devops-maturity-model/
+
 https://about.gitlab.com/developer-survey/
 > https://news.ycombinator.com/item?id=27039376
 

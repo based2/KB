@@ -50,6 +50,9 @@ https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
 > https://news.ycombinator.com/item?id=28827509
 
 # News
+https://web.dev/storage-foundation/
+> https://news.ycombinator.com/item?id=29076656
+
 https://blog.cloudflare.com/cloudflare-now-supports-indexnow/
 > https://www.indexnow.org/ MS
 

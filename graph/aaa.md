@@ -17,6 +17,8 @@ https://github.com/yamafaktory/hypergraph
 
 https://lyonwj.com/blog/graph-visualization-with-graphql-react-force-graph
 
+https://breandan.net/2020/06/30/graph-computation/
+
 # Draw
 https://github.com/nidi3/graphviz-java
 

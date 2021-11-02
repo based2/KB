@@ -169,6 +169,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://datastation.multiprocess.io/blog/2021-10-31-building-a-nested-css-rule-expander.html
+
 https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/
 > https://news.ycombinator.com/item?id=28968137
 

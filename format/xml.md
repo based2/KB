@@ -14,6 +14,8 @@ https://cocoon.apache.org/
 
 https://github.com/progval/rust-xml-schema
 
+https://developers.digital.abc.net.au/2021/09/16/rendering-xml-with-jsx-templates/
+
 # Editor
 https://www.eclipse.org/vex/
 > https://news.ycombinator.com/item?id=28533379

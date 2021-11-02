@@ -57,3 +57,6 @@ https://github.com/jart/bestline
 
 https://eclecticlight.co/2021/09/14/how-to-run-commands-and-scripts-on-efficiency-cores/
 > https://news.ycombinator.com/item?id=28521275
+
+https://github.com/u-root/u-root go
+> https://news.ycombinator.com/item?id=29076213

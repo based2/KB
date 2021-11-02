@@ -18,3 +18,5 @@ https://spectrum.ieee.org/optical-switch-1000x-faster-transistors
 > https://news.ycombinator.com/item?id=28925148
 > https://www.tomshardware.com/news/goodbye-transistor-new-optical-switches-offer-up-to-1000x-better-performance
 
+https://phys.org/news/2021-11-diffractive-optical-networks-reconstruct-holograms.html
+

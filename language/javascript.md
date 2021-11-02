@@ -283,6 +283,11 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.tinyblog.dev/blog/2020-07-13-javascript-roro-pattern/
+> https://news.ycombinator.com/item?id=29058830
+
+https://stackoverflow.com/questions/2552483/why-does-the-month-argument-range-from-0-to-11-in-javascripts-date-constructor
+
 https://dmitripavlutin.com/javascript-sparse-dense-arrays/
 > https://news.ycombinator.com/item?id=29064009
 > https://v8.dev/blog/fast-properties

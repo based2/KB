@@ -46,6 +46,13 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://theconversation.com/the-science-everyone-needs-to-know-about-climate-change-in-6-charts-170556
+
+https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html
+> https://news.ycombinator.com/item?id=29067118
+
+https://eco-bot.net/
+
 https://www.cloudcarbonfootprint.org/
 > https://codeascraft.com/2020/04/23/cloud-jewels-estimating-kwh-in-the-cloud/
 

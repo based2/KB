@@ -44,16 +44,27 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://www.netmeister.org/blog/inet_aton.html
+> https://news.ycombinator.com/item?id=29079245
+
+https://medium.com/@xianghangmi/resident-evil-understanding-residential-ip-proxy-as-a-dark-service-dea9010a0e29
+
 https://blog.cloudflare.com/addressing-agility/
+
 https://metebalci.com/blog/hello-ipv6/
 > https://news.ycombinator.com/item?id=28784868
+
 https://erikbern.com/2015/04/26/ping-the-world.html
 > https://news.ycombinator.com/item?id=28793102
+
 https://cdn.zappy.app/b8f7a14ea480868c2a7fdf35cdb9b8e5.png ':face:b00c'
 > https://news.ycombinator.com/item?id=28484627
+
 https://dl.acm.org/doi/pdf/10.1145/3452296.3472922 The Ties that un-Bind: Decoupling IP from web services and sockets for robust addressing agility at CDN-scale
 > https://news.ycombinator.com/item?id=28371156
+
 https://docs.hetzner.com/general/others/ipv4-pricing/
 > https://news.ycombinator.com/item?id=27982968
+
 https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/
 > https://news.ycombinator.com/item?id=26924883

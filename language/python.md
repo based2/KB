@@ -170,7 +170,12 @@ https://github.com/facebookincubator/cinder
 https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 > https://news.ycombinator.com/item?id=27744870
 
+# History
+https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
+
 # News
+https://www.structlog.org/en/latest/
+
 https://lifelines.readthedocs.io/en/latest/
 
 https://github.com/prefecthq/prefect workflow engine

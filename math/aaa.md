@@ -17,6 +17,7 @@ https://fungrim.org/
 
 https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/
 > https://news.ycombinator.com/item?id=26735020
+
 https://en.m.wikipedia.org/wiki/Information_geometry
 
 https://en.wikipedia.org/wiki/Kolmogorov_complexity
@@ -47,7 +48,6 @@ https://mattferraro.dev/posts/poissons-equation
 > https://news.ycombinator.com/item?id=27748967
 
 http://math.andrej.com/2008/02/06/representations-of-uncomputable-and-uncountable-sets/
-*
 
 https://raw.githubusercontent.com/kenjihiranabe/The-Art-of-Linear-Algebra/main/The-Art-of-Linear-Algebra.pdf
 > https://news.ycombinator.com/item?id=28704164
@@ -85,56 +85,89 @@ https://www.sekinoworld.com/fractal/
 # News
 https://quoteme.github.io/posts/sheaves_in_minecraft
 > https://news.ycombinator.com/item?id=29055847
+
 https://www.3blue1brown.com/blog/some1-results
 > https://news.ycombinator.com/item?id=29063617
+
 https://rjlipton.wpcomstaging.com/2021/10/22/an-annoying-problem/ How efficiently can you determine whether two finite groups are isomorphic
 > https://news.ycombinator.com/item?id=29028324
+
 https://www.youtube.com/watch?v=KyUPwfBLjEQ Essential calculus ideas by Paul Lutus
 > https://news.ycombinator.com/item?id=29011549
+
 https://www.3blue1brown.com/blog/some1-results
+
 https://github.com/Chakazul/Lenia
+
 https://amathr.org/software/
 > https://news.ycombinator.com/item?id=28822886
+
 https://www.mersenne.org/
+
 https://news.ycombinator.com/item?id=28816143 Poincaré, Heisenberg, Gödel and the limits of scientific knowledge
+
 https://github.com/LaurentClaessens/mazhe/
+
 https://news.ycombinator.com/item?id=28804743 Do Not Erase: Mathematicians and Their Chalkboards Photography Collection
+
 https://news.ycombinator.com/item?id=28785902 Understanding Shannon's Entropy metric for Information [pdf]
+
 https://www.quantamagazine.org/mathematicians-prove-melting-ice-stays-smooth-20211006/
+
 https://axisofordinary.substack.com/p/the-most-counterintuitive-facts-in
 > https://news.ycombinator.com/item?id=28764416
+
 https://members.loria.fr/PZimmermann/papers/accuracy.pdf
+
 https://www.dspguide.com/
+
 https://jsxgraph.org/wp/index.html
 > https://news.ycombinator.com/item?id=28702142
+
 https://observablehq.com/@thepeoplesbourgeois/so-this-whole-collatz-conjecture-thing
+
 https://writings.stephenwolfram.com/2021/09/charting-a-course-for-complexity-metamodeling-ruliology-and-more/
 > https://news.ycombinator.com/item?id=28638743
+
 https://www.rskey.org/~mwsebastian/miscprj/forensics.htm Calculator Forensics
 > https://news.ycombinator.com/item?id=28561298
+
 https://www.chebfun.org/
+
 https://num.math.uni-goettingen.de/schaback/teaching/sc.pdf A Practical Guide to Radial Basis Functions
 > https://news.ycombinator.com/item?id=28530371
+
 https://sigkill.dk/writings/par/lhomo.html
 > https://news.ycombinator.com/item?id=28520476
+
 https://arxiv.org/abs/2106.10860 Multiplying Matrices Without Multiplying
 > https://news.ycombinator.com/item?id=28375096
+
 https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
+
 https://yurichev.com/news/20210131_IEEE_754/
+
 https://github.com/ManimCommunity/manim Animation engine for explanatory math videos 3Blue1Brown
 > https://news.ycombinator.com/item?id=28245277
+
 https://golem.ph.utexas.edu/category/2011/09/the_inconsistency_of_arithmeti.html
 > https://news.ycombinator.com/item?id=28204040
+
 https://www.igalia.com/2021/08/09/MathML-Progress.html
 > https://news.ycombinator.com/item?id=28154331
+
 https://brunodias.dev/2021/03/19/functions-for-system-designers.html
 > https://news.ycombinator.com/item?id=28046130
+
 https://twitter.com/benskuhn/status/1419281153983500290
 > https://news.ycombinator.com/item?id=27955372
+
 https://www.math3ma.com/blog/entropy-algebra-topology
 > https://news.ycombinator.com/item?id=27917098
+
 http://www.catb.org/~esr/writings/utility-of-math/
 > https://news.ycombinator.com/item?id=27879984
+
 https://news.ycombinator.com/item?id=27896817
 
 https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf

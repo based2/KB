@@ -109,6 +109,9 @@ https://truemped.github.io/posts/mgmt/limiting-wip/
 https://web.stanford.edu/~ouster/cgi-bin/decisions.php
 > https://news.ycombinator.com/item?id=27937815
 
+https://jacobian.org/2021/oct/20/simple-pm-tricks/
+* https://news.ycombinator.com/item?id=29068652
+
 # Analysis
 https://xyproblem.info/
 > https://news.ycombinator.com/item?id=27061704

@@ -17,6 +17,8 @@ https://www.pc.gov.au/inquiries/current/repair/draft/repair-draft.pdf
 
 https://frame.work/
 
+https://puri.sm/posts/beyond-right-to-repair/
+
 #
 https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i
 > https://news.ycombinator.com/item?id=27576120

@@ -1,23 +1,25 @@
 https://www.cnpatterns.org/patterns-library
 
-https://github.com/255kb/stack-on-a-budget
-> https://news.ycombinator.com/item?id=27022075
-
 https://www.schneier.com/blog/archives/2021/05/the-misaligned-incentives-for-cloud-security.html
 
 https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html
 
-https://thenewstack.io/an-architects-guide-to-multicloud/
-
-https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling
-> https://news.ycombinator.com/item?id=27719071
-
-https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol 2019
-https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 https://lethain.com/physics-of-cloud-expansion/
 
+# Hybrid
+https://thenewstack.io/an-architects-guide-to-multicloud/
+
+# Cost
+https://github.com/255kb/stack-on-a-budget
+> https://news.ycombinator.com/item?id=27022075
+
+# FaaS
+https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
+
 # News
+https://markheath.net/post/early-evaluator-late-adopter
+
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949611
 
 https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/

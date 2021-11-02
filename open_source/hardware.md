@@ -102,6 +102,8 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://sfconservancy.org/news/2021/oct/28/2021-DMCA-final-exemptions-win/
+
 https://www.phoronix.com/scan.php?page=news_item&px=AMD-Radeon-GPUFORT
 
 http://www.orancollins.com:8109/microchip/ WIP

@@ -18,6 +18,8 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://paulbutler.org/2021/betting-against-bitcoin/
+
 https://www.tomshardware.com/news/long-dormant-bitcoin-wallet-comes-online
 > https://news.ycombinator.com/item?id=29050713
 

@@ -3,6 +3,8 @@ http://webdam.inria.fr/Alice/
 
 https://www.youtube.com/watch?v=5ZjhNTM8XU8 "Transactions: myths, surprises and opportunities" by Martin Kleppmann 2015
 
+https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/
+
 https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally
 > https://news.ycombinator.com/item?id=28230641
 
@@ -10,15 +12,6 @@ https://minimalmodeling.substack.com/p/stakeholders-and-their-concerns
 
 https://www.connectionstrings.com/
 > https://news.ycombinator.com/item?id=28352454
-
-H-Store -> NewSQL
-https://en.wikipedia.org/wiki/H-Store
-
-
-https://blog.acolyer.org/2020/11/30/seeing-is-believing/
-
-http://justinjaffray.com/query-engines-push-vs.-pull/
-> https://news.ycombinator.com/item?id=27006476
 
 #
 https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/
@@ -46,6 +39,9 @@ https://www.cargocultcode.com/what-does-first-normal-form-mean/
 https://nakabonne.dev/posts/write-tsdb-from-scratch/
 > https://news.ycombinator.com/item?id=27730854
 
+https://www.honeycomb.io/blog/time-series-database/
+> https://news.ycombinator.com/item?id=28901063
+
 # Migration
 https://samsaffron.com/archive/2018/03/22/managing-db-schema-changes-without-downtime
 
@@ -57,25 +53,27 @@ https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/
 https://blog.acolyer.org/2020/12/14/entity-resolution/
 > https://news.ycombinator.com/item?id=28127650
 
+# Tests
+https://dl.acm.org/doi/10.1145/3428279 Finding bugs in database systems via query partitioning
+
+https://github.com/jepsen-io/elle
+> https://news.ycombinator.com/item?id=28113901
+
+# Benchmark
+https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
+
+
 # News
 https://blog.mireo.hr/mireo-spacetime-outperforms-geomesa
 
 https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/
 > https://news.ycombinator.com/item?id=29001285
 
-https://www.honeycomb.io/blog/time-series-database/
-> https://news.ycombinator.com/item?id=28901063
-
-https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 
 https://news.ycombinator.com/item?id=28741292
 
 https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631
 > https://news.ycombinator.com/item?id=28811966
-
-https://dl.acm.org/doi/10.1145/3428279 Finding bugs in database systems via query partitioning
-
-https://www.singlestore.com/blog/engineers-guide-building-database-for-data-intensive-applications/
 
 https://blog.timescale.com/blog/announcing-the-new-timescale-cloud-and-a-new-vision-for-the-future-of-database-services-in-the-cloud/
 > https://news.ycombinator.com/item?id=28761453
@@ -91,9 +89,6 @@ https://danluu.com/anon-benchmark/
 https://news.ycombinator.com/item?id=28314623
 
 https://scattered-thoughts.net/writing/implicit-ordering-in-relational-languages/
-
-https://github.com/jepsen-io/elle
-> https://news.ycombinator.com/item?id=28113901
 
 https://timharford.com/2021/07/the-tyranny-of-spreadsheets/
 > https://news.ycombinator.com/item?id=27923998

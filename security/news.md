@@ -1,3 +1,14 @@
+https://www.bleepingcomputer.com/news/security/eu-investigating-leak-of-private-key-used-to-forge-covid-passes/
+
+https://confluence.atlassian.com/security/multiple-products-security-advisory-unrendered-unicode-bidirectional-override-characters-cve-2021-42574-1086419475.html?subid=1534467808&jobid=105251298&utm_campaign=multiple-products-advisory_november-2021_EML-11738&utm_medium=email&utm_source=alert-email
+* https://news.ycombinator.com/item?id=29074565
+
+https://www.drupal.org/psa-2021-2021-06-29 8 eol
+
+https://link.springer.com/article/10.1007/s42452-021-04431-9 Forensic analysis of open-source XMPP/Jabber multi-client instant messaging apps on Android smartphones
+
+https://vigilance.fr/vulnerabilite/Jenkins-Core-vulnerabilite-devoilee-le-04-11-2021-36766
+
 https://www.synacktiv.com/en/publications/finding-gadgets-like-its-2015-part-1.html
 
 https://dustri.org/b/ten-years-of-mat.html
@@ -14,6 +25,8 @@ https://trojansource.codes/
 > https://gitlab.com/gitlab-org/gitlab/-/commit/3fb44197195b5789b99a13f7bf482e9a895dfc58
 > https://github.com/nickboucher/trojan-source/blob/main/JavaScript/stretched-string.js
 > https://www.reddit.com/user/tophalp/
+> https://www.schneier.com/blog/archives/2021/11/hiding-vulnerabilities-in-source-code.html
+> > https://github.com/golang/go/issues/20209
 
 https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
 

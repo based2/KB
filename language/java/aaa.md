@@ -221,8 +221,6 @@ https://github.com/quarkusio/quarkus/issues/10298
 
 https://www.jrebel.com/products/jrebel $
 
-
-
 # Data
 http://adambien.blog/roller/abien/entry/combining_jsonobjects_with_jsonmerge_and
 
@@ -250,6 +248,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://openjdk.java.net/jeps/421 JEP 421: Deprecate Finalization for Removal
+
 https://foojay.io/
 
 https://www.reddit.com/r/java/comments/qk9has/externalized_properties_for_the_jvm/

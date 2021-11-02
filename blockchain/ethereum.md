@@ -13,6 +13,7 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://eips.ethereum.org/EIPS/eip-1559
 https://gerhard-wagner.medium.com/double-spending-bug-in-polygons-plasma-bridge-2e0954ccadf1
 https://therecord.media/hackers-steal-130-million-from-cream-finance-the-companys-3rd-hack-this-year/
 > https://news.ycombinator.com/item?id=29033024

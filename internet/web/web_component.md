@@ -15,3 +15,5 @@ https://jesseduffield.com/Compound-Components/
 > https://news.ycombinator.com/item?id=27649880
 
 alt: https://viperhtml.js.org/ comparison: https://gist.github.com/WebReflection/fadcc419f5ccaae92bc167d8ff5c611b
+
+https://insidegovuk.blog.gov.uk/2021/10/29/how-we-made-the-gov-uk-accordion-component-more-accessible/

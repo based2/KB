@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/Articles/861251/ Core scheduling lands in 5.14
+> https://news.ycombinator.com/item?id=29075423
+
 https://cdn.kernel.org/pub/linux/kernel/v5.x/ChangeLog-5.15
 
 https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.16-sys_futex_waitv

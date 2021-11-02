@@ -55,7 +55,6 @@ https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html
 
 https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/personal/2021-07-17-liblattutil/article.md
 
-
 https://github.com/jlongster/absurd-sql
 > https://news.ycombinator.com/item?id=28157179
   > https://jlongster.com/future-sql-web
@@ -88,12 +87,18 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 # News
 https://sqlime.org/
 > https://news.ycombinator.com/item?id=28669703
+
 https://www.sqlite.org/draft/stricttables.html
 > https://news.ycombinator.com/item?id=28259104
+
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-0646
+
 https://epilys.github.io/bibliothecula/notekeeping.html
+
 https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/
 > https://news.ycombinator.com/item?id=27565482
+
 https://github.com/joaoh82/rust_sqlite
+
 https://linuxsecurity.com/advisories/gentoo/gentoo-glsa-202103-04-sqlite-remote-code-execution-10-22-05?rss
 

@@ -5,8 +5,11 @@ https://beyondloom.com/tools/ditherpaint.html
 
 # Emulation
 https://jamesfriend.com.au/pce-js/
+
 https://jamesfriend.com.au/pce-js/pce-js-apps/
+
 https://jamesfriend.com.au/pce-js/macplus-darkcastle/
+
 https://www.alessioatzeni.com/mac-osx-lion-css3/
 
 https://www.mac-emu.net/
@@ -29,6 +32,7 @@ https://systemtalk.org/post/macintosh-history-8510/
 
 # HyperCard
 https://hypercard.org/
+
 https://news.ycombinator.com/item?id=26507454 Mac SE/30 logicboard recreation 
 
 https://archive.org/details/The_Complete_HyperCard_Handbook/
@@ -58,6 +62,7 @@ https://www.macintoshrepository.org/1317-resedit-2-1-3
 
 # Macbugs
 https://en.wikipedia.org/wiki/MacsBug
+
 https://512pixels.net/2021/04/mac-chimes-of-death/
 
 http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/27_TMON.html
@@ -67,7 +72,6 @@ https://news.ycombinator.com/item?id=27409410
 
 #
 https://midrange.tedium.co/issues/the-lone-coder-505212
-
 
 https://archive.org/details/mac_The_Dead_Mac_Scrolls_1992/page/n25/mode/2up
 > https://news.ycombinator.com/item?id=28096490

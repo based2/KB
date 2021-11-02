@@ -40,6 +40,10 @@ https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terr
 https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 
 # News
+https://github.com/awslabs/tecli Command Line Interface for Terraform Enterprise/Cloud
+
+https://github.com/awslabs/clencli CLI built to assist Cloud Engineers.
+
 https://terraspace.cloud/
 
 https://terragrunt.gruntwork.io/

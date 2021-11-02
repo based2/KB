@@ -35,7 +35,6 @@ https://github.com/lenticularis39/axpbox
 https://archives.loomcom.com/contraltojs/ ContrAltoJS Xerox Alto Emulator
 > https://news.ycombinator.com/item?id=28223312
 
-
 https://vintageapple.org/byte/
 > https://news.ycombinator.com/item?id=28684406
 

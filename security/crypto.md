@@ -15,7 +15,9 @@ https://arxiv.org/abs/2107.04940 You Really Shouldn't Roll Your Own Crypto: An E
 # AES
 
 https://keymaterial.net/2020/09/07/invisible-salamanders-in-aes-gcm-siv/
+
 https://github.com/MantechUser/aes-finder
+
 https://blog.elcomsoft.com/2021/04/breaking-rar5-and-7zip-passwords/
 
 https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/
@@ -42,7 +44,9 @@ https://philzimmermann.com/EN/essays/PGP_30th/
 
 https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/
 > https://news.ycombinator.com/item?id=27432666
+
 https://sequoia-pgp.org/blog/2021/05/06/202105-thunderbird-rnp-and-the-importance-of-a-good-api/
+
 https://sequoia-pgp.org/blog/2021/05/12/202105-hello-openpgp-ca/
 > https://news.ycombinator.com/item?id=27129349
 
@@ -61,7 +65,9 @@ https://sequoia-pgp.org/blog/2021/10/18/202110-sequoia-pgp-is-now-lgpl-2.0/
 https://media.ccc.de/v/34c3-9075-latticehacks
 
 https://fr.wikipedia.org/wiki/LUC_(cryptographie)
+
 https://en.wikipedia.org/wiki/Lucas_number
+
 https://en.wikipedia.org/wiki/Jacques_Philippe_Marie_Binet
 
 # Homomorphic
@@ -80,18 +86,27 @@ https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
 https://github.com/dansarie/sboxgates finding low gate count implementations of S-boxes
+
 https://tobtu.com/blog/2021/10/srp-is-now-deprecated/
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584250/
 > https://news.ycombinator.com/item?id=28650946
+
 https://www.sigidwiki.com/wiki/Japanese_Slot_Machine_(XSL)
+
 https://github.com/BLAKE3-team/BLAKE3/releases/tag/1.0.0
 > https://news.ycombinator.com/item?id=27959029
+
 https://www.bunniestudios.com/blog/?p=6140 Building a Curve25519 Hardware Accelerator
 > https://news.ycombinator.com/item?id=27845274
+
 https://eprint.iacr.org/2021/870 SoK: Gröbner Basis Algorithms for Arithmetization Oriented Ciphers
 > https://news.ycombinator.com/item?id=27686008
+
 https://keygen.sh/blog/how-to-generate-license-keys-in-2021/
 > https://news.ycombinator.com/item?id=27380887
+
 https://hardenedvault.net/2021/06/02/vault1317-thesis.html
+
 https://www.schneier.com/blog/archives/2021/05/newly-unclassified-nsa-document-on-cryptography-in-the-1970s.html
 > https://news.ycombinator.com/item?id=27127887

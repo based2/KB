@@ -243,6 +243,14 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://arxiv.org/abs/2110.15032
+
+https://ai.googleblog.com/2021/10/practical-differentially-private.html
+
+https://www.crosstab.io/articles/time-series-pytorch-lstm
+
+https://github.com/IntelLabs/control-flag
+
 https://intel.github.io/scikit-learn-intelex/
 > https://news.ycombinator.com/item?id=29066712
 

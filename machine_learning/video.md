@@ -1,6 +1,5 @@
 https://www.unite.ai/nerf-facebook-co-research-develops-mixed-static-dynamic-video-synthesis/
 
-
 https://depthoraclenerf.github.io/
 > https://news.ycombinator.com/item?id=27658661
 
@@ -13,12 +12,10 @@ https://zpdesu.github.io/Barbershop/
 
 https://www.kelei.site/voin/
 
-
 https://github.com/lllyasviel/style2paints
 > https://news.ycombinator.com/item?id=28500528
 
 https://eulerian.cs.washington.edu/ Animating Pictures with Eulerian Motion Fields
-
 
 https://www.robots.ox.ac.uk/~vgg/research/pass/ An ImageNet replacement for self-supervised pretraining without human
 > https://news.ycombinator.com/item?id=28691259

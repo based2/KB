@@ -2,7 +2,7 @@
 https://sonomotors.com/ solar
 https://lightyear.one/
 
-# CAN
+# CAN bus
 
 # CAM
 https://github.com/grbl/grbl
@@ -12,6 +12,10 @@ https://once-for-auto-driving.github.io/index.html
 > https://news.ycombinator.com/item?id=27587316
 
 https://news.ycombinator.com/item?id=27580744
+
+# Charging Network
+https://www.reuters.com/business/autos-transportation/tesla-opens-charging-network-other-evs-netherlands-2021-11-01/
+> https://news.ycombinator.com/item?id=29078287
 
 # News
 https://electrek.co/2021/10/29/toyota-unveils-first-all-electric-car-bz4x-an-electric-suv-packed-cool-features/

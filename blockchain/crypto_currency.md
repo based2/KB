@@ -14,12 +14,18 @@ https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037988257/
 
 https://www.impots.gouv.fr/portail/formulaire/3916/declaration-par-un-resident-dun-compte-letranger-ou-dun-contrat-de-capitalisation-ou
 
-ref: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fiscaux-des-cryptomonnaies
+src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fiscaux-des-cryptomonnaies
 
 # History
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.axios.com/massive-cryptocurrency-loophole-congress-close-376ea178-d257-4909-8df9-59ff040cafe6.html
+> https://news.ycombinator.com/item?id=29079990
+
+https://home.treasury.gov/system/files/136/StableCoinReport_Nov1_508.pdf
+> https://news.ycombinator.com/item?id=29071895
+
 https://www.businessinsider.fr/us/huobi-global-warrant-seeks-102-bitcoin-coinbase-theft-doj-2021-10
 
 https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html

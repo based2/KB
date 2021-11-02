@@ -11,6 +11,9 @@ https://thebinaryrealm.com/trie-data-structure/
 
 https://linux.thai.net/~thep/datrie/datrie.html
 
+http://cslibrary.stanford.edu/109/TreeListRecursion.html
+> https://news.ycombinator.com/item?id=29067098
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576
@@ -32,8 +35,6 @@ https://tweeview.ml/
 > https://news.ycombinator.com/item?id=28514298
 
 https://github.com/davidmnoll/chkflow
-
-
 
 # Real tree
 https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/

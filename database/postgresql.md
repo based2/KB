@@ -1,27 +1,57 @@
-https://news.ycombinator.com/item?id=25910277
+https://www.postgresql.org/
 
-https://www.highgo.ca/2021/01/27/avoiding-identifying-and-dealing-with-postgresql-database-corruption-part-1/
-
-https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
-
-https://www.slony.info/ 
-
-https://postgres.cz/wiki/PostgreSQL_SQL_Tricks_III
-
-https://blog.crunchydata.com/blog/get-started-with-explain-analyze
-
-https://news.ycombinator.com/item?id=23516947
-
-https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
-
-https://pgmodeler.io/
-
-http://coussej.github.io/2016/01/14/Replacing-EAV-with-JSONB-in-PostgreSQL/
-
-https://hashrocket.com/blog/posts/custom-aggregates-in-postgresql
+https://www.pgadmin.org/
 
 https://github.com/dhamaniasad/awesome-postgres
 
+https://pgmodeler.io/
+
+https://news.ycombinator.com/item?id=25910277
+
+https://www.slony.info/
+
+# SQL
+
+https://postgres.cz/wiki/PostgreSQL_SQL_Tricks_III
+
+https://news.ycombinator.com/item?id=23516947
+
+https://hashrocket.com/blog/posts/custom-aggregates-in-postgresql
+
+https://www.narrator.ai/blog/postgres-missing-datediff-function/
+> https://lobste.rs/s/mxhevf/postgresql_s_missing_datediff_function
+> select justify_interval('2021-06-04'::timestamp with time zone - '2020-04-06 23:53:45');
+
+https://www.cybertec-postgresql.com/en/postgresql-limit-vs-fetch-first-rows-with-ties/
+> https://news.ycombinator.com/item?id=27845360
+
+https://notes.eatonphil.com/exploring-plpgsql.html
+
+## JSON
+https://blog.crunchydata.com/blog/generating-json-directly-from-postgres
+> https://news.ycombinator.com/item?id=27848085
+
+http://coussej.github.io/2016/01/14/Replacing-EAV-with-JSONB-in-PostgreSQL/
+
+https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14
+> https://news.ycombinator.com/item?id=27358977
+
+## Types
+https://blog.jonudell.net/2021/07/27/working-with-postgres-types/
+> https://news.ycombinator.com/item?id=28095264
+
+https://github.com/vramework/postgres-typed
+> https://news.ycombinator.com/item?id=28326117
+
+# Performance
+https://explain.depesz.com/
+> https://news.ycombinator.com/item?id=28771875
+
+https://scalegrid.io/blog/introduction-to-auto-explain-postgres/
+
+https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/
+> https://news.ycombinator.com/item?id=28730225
+ 
 https://www.migops.com/blog/2021/04/09/pgbackrest-the-best-postgres-backup-tool-with-a-very-active-community/#Conclusion
 
 https://github.com/ankane/pgvector vector similarity search
@@ -35,33 +65,21 @@ https://www.cybertec-postgresql.com/en/postgresql-detecting-slow-queries-quickly
 
 https://github.com/plv8/plv8
 
-https://fly.io/blog/globally-distributed-postgres/
-> https://news.ycombinator.com/item?id=27690950
+## Index
+http://leopard.in.ua/2015/04/13/postgresql-indexes/
+
+https://www.i-programmer.info/news/84-database/14855-a-deep-dive-into-postgresql-indexes.html
+
+## Analysis
+https://blog.crunchydata.com/blog/get-started-with-explain-analyze
+
+https://github.com/marklit/datafluent_pg
+
+https://www.percona.com/blog/improve-postgresql-query-performance-insights-with-pg_stat_monitor/
 
 https://brandur.org/idempotency-keys
 
-https://www.narrator.ai/blog/postgres-missing-datediff-function/
-> https://lobste.rs/s/mxhevf/postgresql_s_missing_datediff_function
-  > select justify_interval('2021-06-04'::timestamp with time zone - '2020-04-06 23:53:45');
-
-https://blog.crunchydata.com/blog/generating-json-directly-from-postgres
-> https://news.ycombinator.com/item?id=27848085
-
-https://www.cybertec-postgresql.com/en/postgresql-limit-vs-fetch-first-rows-with-ties/
-> https://news.ycombinator.com/item?id=27845360
-
-https://blog.jonudell.net/2021/07/27/working-with-postgres-types/
-> https://news.ycombinator.com/item?id=28095264
-
-https://github.com/vramework/postgres-typed
-> https://news.ycombinator.com/item?id=28326117
-
-https://notes.eatonphil.com/exploring-plpgsql.html
-
-### OOM
-https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
-
-# Debug
+### Debug
 https://iamsafts.com/posts/postgres-gin-performance/
 > https://news.ycombinator.com/item?id=27152507
 
@@ -69,17 +87,11 @@ https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analy
 
 https://dev.to/jbranchaud/beware-the-missing-foreign-key-index-a-postgres-performance-gotcha-3d5i
 
-# Index
-http://leopard.in.ua/2015/04/13/postgresql-indexes/
+# Admin
+https://supabase.io/blog/2021/07/01/roles-postgres-hooks
+> https://news.ycombinator.com/item?id=27712800
 
-https://www.i-programmer.info/news/84-database/14855-a-deep-dive-into-postgresql-indexes.html
-
-# Analysis
-https://github.com/marklit/datafluent_pg
-
-https://www.percona.com/blog/improve-postgresql-query-performance-insights-with-pg_stat_monitor/
-
-### Extensions
+# Extensions
 https://age.apache.org/# Graph
 
 https://github.com/arkhipov/temporal_tables Table that records the period of time when a row is valid.
@@ -89,19 +101,27 @@ https://github.com/nearform/temporal_tables
 
 https://depth-first.com/articles/2021/09/07/a-rust-postgresql-extension-for-cas-numbers/
 
-# Queue
-https://spin.atomicobject.com/2021/02/04/redis-postgresql/
-> https://news.ycombinator.com/item?id=27482243
-
 # Security
 https://goteleport.com/blog/securing-postgres-postgresql/
 > https://news.ycombinator.com/item?id=26674756
 
 https://www.cisecurity.org/benchmark/postgresql/
   
-# Realtime
-https://github.com/supabase/realtime Listen to your to PostgreSQL database in realtime via WebSockets (Erlang/Elixir)
-> https://news.ycombinator.com/item?id=26968449
+# Operations
+
+https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production
+
+https://www.highgo.ca/2021/01/27/avoiding-identifying-and-dealing-with-postgresql-database-corruption-part-1/
+
+https://www.mutuallyhuman.com/blog/how-a-read-query-can-write-to-disk-a-postgresql-story/ work_mem
+> https://news.ycombinator.com/item?id=29056405
+> > https://wiki.postgresql.org/wiki/Tuning_Your_PostgreSQL_Server
+
+https://incident.io/blog/one-two-skip-a-few Postgres sequences can skip 32 unexpectedly
+> https://news.ycombinator.com/item?id=27843084
+
+## OOM
+https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
 # Migration
 https://github.com/sastraxi/pgsh
@@ -124,27 +144,19 @@ https://www.migops.com/blog/2021/08/27/announcing-pg_dbms_job-in-postgresql-for-
 https://news.ycombinator.com/item?id=28707577
 > https://vericred.com/how-we-migrated-a-1tb-database-from-heroku-to-aws-aurora-with-almost-no-downtime/
 
-# Performance
-https://explain.depesz.com/
-> https://news.ycombinator.com/item?id=28771875
-
-https://scalegrid.io/blog/introduction-to-auto-explain-postgres/
-
-https://about.gitlab.com/blog/2021/09/29/why-we-spent-the-last-month-eliminating-postgresql-subtransactions/
-> https://news.ycombinator.com/item?id=28730225
-
-# Container
-https://www.kubegres.io/
-> https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/
-
-https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/
-> https://news.ycombinator.com/item?id=28758162
-
-https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
-> https://news.ycombinator.com/item?id=28767637
+https://babelfishpg.org/
+> https://github.com/babelfish-for-postgresql SQL server compatibility layer by AWS
 
 # HA
+https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
+
 https://github.com/zalando/patroni
+
+https://fly.io/blog/globally-distributed-postgres/
+> https://news.ycombinator.com/item?id=27690950
+
+https://www.notion.so/blog/sharding-postgres-at-notion
+> https://news.ycombinator.com/item?id=28776786
 
 # Generator
 https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enums
@@ -157,17 +169,41 @@ https://github.com/jie123108/imgsmlr-server
 https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/
 > https://news.ycombinator.com/item?id=28873779
 
+# Queue
+https://spin.atomicobject.com/2021/02/04/redis-postgresql/
+> https://news.ycombinator.com/item?id=27482243
+
+# Realtime
+https://github.com/supabase/realtime Listen to your to PostgreSQL database in realtime via WebSockets (Erlang/Elixir)
+> https://news.ycombinator.com/item?id=26968449
+
+# Proxy
+
+## NoSQL
+https://www.mangodb.io/
+> https://news.ycombinator.com/item?id=29071623
+
+# Container
+https://www.kubegres.io/
+> https://www.reddit.com/r/PostgreSQL/comments/mqrsbn/kubegres_is_a_kubernetes_operator_for_postgresql/
+
+https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/
+> https://news.ycombinator.com/item?id=28758162
+ 
+## K8S
+https://stackgres.io/
+> https://news.ycombinator.com/item?id=28865432
+
+https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
+> https://news.ycombinator.com/item?id=28767637
+
 # News
-https://www.mutuallyhuman.com/blog/how-a-read-query-can-write-to-disk-a-postgresql-story/ work_mem
-> https://news.ycombinator.com/item?id=29056405
-> > https://wiki.postgresql.org/wiki/Tuning_Your_PostgreSQL_Server
+https://www.enterprisedb.com/products/biganimal-cloud-postgresql
+
+https://github.com/postgrespro/jsquery
+> https://news.ycombinator.com/item?id=29069777
 
 https://notes.eatonphil.com/exploring-plpgsql-forth-like.html
-
-https://babelfishpg.org/
-> https://github.com/babelfish-for-postgresql SQL server compatibility layer by AWS
-
-https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production
 
 https://stackgres.io/blog/stackgres-1-0-0-open-source-postgres-aas-with-120-extensions/
 
@@ -176,12 +212,6 @@ https://blog.timescale.com/blog/function-pipelines-building-functional-programmi
 
 https://www.migops.com/blog/2021/10/14/stored-procedure-out-parameters-in-postgresql-14/
 > https://news.ycombinator.com/item?id=28878918
-
-https://stackgres.io/
-> https://news.ycombinator.com/item?id=28865432
-
-https://www.notion.so/blog/sharding-postgres-at-notion
-> https://news.ycombinator.com/item?id=28776786
 
 https://heap.io/blog/the-million-indexes-incident
 
@@ -196,7 +226,7 @@ https://blog.crunchydata.com/blog/postgres-14-its-the-little-things
 https://www.depesz.com/2021/09/10/waiting-for-postgresql-15-revoke-public-create-from-public-schema-now-owned-by-pg_database_owner/
 > https://news.ycombinator.com/item?id=28537870
 
-https://brandur.org/text
+[Postgres: Boundless `text` and Back Again](https://brandur.org/text) 
 > https://news.ycombinator.com/item?id=28484312
 
 https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/
@@ -211,17 +241,8 @@ https://blog.timescale.com/blog/how-postgresql-aggregation-works-and-how-it-insp
 https://drewdevault.com/2021/08/05/In-praise-of-Postgres.html
 > https://news.ycombinator.com/item?id=28075204
 
-https://incident.io/blog/one-two-skip-a-few Postgres sequences can skip 32 unexpectedly
-> https://news.ycombinator.com/item?id=27843084
-
 https://www.channable.com/tech/dbcritic-constructively-criticizing-your-postgres-schema
 > https://news.ycombinator.com/item?id=27760073
-
-https://supabase.io/blog/2021/07/01/roles-postgres-hooks
-> https://news.ycombinator.com/item?id=27712800
-
-https://blog.crunchydata.com/blog/better-json-in-postgres-with-postgresql-14
-> https://news.ycombinator.com/item?id=27358977
 
 https://www.postgresql.org/about/news/postgresql-14-beta-1-released-2213/
 > https://news.ycombinator.com/item?id=27220725
