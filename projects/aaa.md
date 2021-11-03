@@ -63,6 +63,9 @@ https://betterprogramming.pub/10-mistakes-to-avoid-as-a-software-development-man
 
 https://www.brightball.com/articles/reality-driven-development-fixing-project-management-in-software
 
+https://ideas.krishnan.ca/are-daily-standups-hurting-your-team
+> https://news.ycombinator.com/item?id=29093833
+
 # Estimate
 https://en.wikipedia.org/wiki/Delphi_method
 > https://news.ycombinator.com/item?id=26368011

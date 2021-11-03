@@ -17,6 +17,8 @@ https://www.businesswire.com/news/home/20210408005158/en/Open-Source-FPGA-Launch
 https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/
 > https://news.ycombinator.com/item?id=27105813
 
+https://librepcb.org/blog/2021-11-02_release_0.1.6/
+
 # FPGA
 https://github.com/MiSTer-devel/Main_MiSTer/wiki
 > https://news.ycombinator.com/item?id=26772151

@@ -9,3 +9,8 @@ https://www.energy.gov/eere/solar/solar-futures-study
 https://www.dw.com/en/desert-large-solar-plants-also-pay-off-in-countries-with-less-sun/a-58284114
 
 https://github.com/Lkruitwagen/solar-pv-global-inventory
+
+https://electrek.co/2021/11/01/tesla-launches-new-solar-roof-tiles-more-power-higher-efficiency/
+
+https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-from-one-square-meter-of-sunlight-675db9d0c819
+> https://news.ycombinator.com/item?id=29077825

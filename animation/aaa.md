@@ -61,10 +61,13 @@ https://flam3.com/index.html
 
 # JS
 https://ptsjs.org/
-*
+
 https://dynamicsjs.com/
 
 # News
+https://ciechanow.ski/curves-and-surfaces/
+> https://news.ycombinator.com/item?id=29083349
+
 https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html
 > https://news.ycombinator.com/item?id=28963392
 

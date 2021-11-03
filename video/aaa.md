@@ -57,6 +57,8 @@ https://blog.pizzabox.computer/random/videolines/
 https://pipewire.org/
 > https://news.ycombinator.com/item?id=28490078
 
+https://natrongithub.github.io/ GFX
+
 # Movie
 https://www.playphrase.me/#/search
 > https://news.ycombinator.com/item?id=27434159
@@ -75,13 +77,21 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://olivierlacan.com/posts/high-fidelity-remote-communication/
+> https://news.ycombinator.com/item?id=29086465
+
 https://github.com/bootrino/maryjane
 > https://news.ycombinator.com/item?id=28767911
+
 https://www.ibc.org/news/movielabs-publishes-common-ontology-for-production/7934.article
 > https://news.ycombinator.com/item?id=28703713
+
 https://wonderunit.com/storyboarder/
+
 https://www.thestarwarstrilogy.com/project-4k77/
 > https://news.ycombinator.com/item?id=28573754
+
 https://runwayml.com/
 > https://news.ycombinator.com/item?id=27766655
+
 https://www.collabora.com/news-and-blog/blog/2021/06/23/adding-vp9-and-mpeg2-stateless-support-in-v4l2codecs-for-gstreamer/

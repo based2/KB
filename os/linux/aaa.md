@@ -74,6 +74,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://www.reddit.com/r/linux/comments/qkm01c/a_refresher_on_the_linux_file_system_structure/
+
 https://yggdrasil-sr.github.io/
 > https://news.ycombinator.com/item?id=29056168
 

@@ -175,6 +175,9 @@ https://bibliodyssey.blogspot.com/2010/04/time-after-time.html
 > https://news.ycombinator.com/item?id=28848096
 
 # News
+https://susam.in/blog/microcentury.html
+> https://news.ycombinator.com/item?id=29093298
+
 https://www.reddit.com/r/programming/comments/q811cj/date_time_expression_a_language_for_expressing/
 
 https://mm.icann.org/pipermail/tz/2021-September/030400.html Preparing to fork tzdb

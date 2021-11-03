@@ -1,5 +1,7 @@
 https://clojure.org/ LISP
 
+https://clojure.org/reference/lisps
+
 https://vlojure.io/
 > https://twitter.com/ella_hoeppner/status/1439717775904284672
 

@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.stevegattuso.me/2021/10/31/new-york-dirty-electricity-peaks.html
+> https://news.ycombinator.com/item?id=29071033
+
 https://climate.lifeitself.us/without-hot-air/
 > https://news.ycombinator.com/item?id=29056343
 > http://2050-calculator-tool.decc.gov.uk/#/home

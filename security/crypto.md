@@ -85,6 +85,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://cpl.thalesgroup.com/2020/03/24/bitslicing-constant-time-cryptography
+> https://news.ycombinator.com/item?id=29055658
+
 https://github.com/dansarie/sboxgates finding low gate count implementations of S-boxes
 
 https://tobtu.com/blog/2021/10/srp-is-now-deprecated/

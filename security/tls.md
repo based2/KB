@@ -115,6 +115,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://tlsnotary.org/
+> https://news.ycombinator.com/item?id=29090604
+
 https://mta.openssl.org/pipermail/openssl-project/2021-October/002777.html quic
 > https://news.ycombinator.com/item?id=29040229
 

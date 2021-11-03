@@ -32,6 +32,8 @@ https://uima.apache.org/
 
 ## Datalake
 
+https://hudi.apache.org/ build streaming data lakes with incremental data pipelines on a self-managing database layer
+
 #
 https://github.com/Netflix/metaflow
 

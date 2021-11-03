@@ -63,6 +63,8 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://www.walkersblog.net/article/monitoring/ Prometheus Stack
+
 https://github.com/pinpoint-apm/pinpoint APM
 
 https://opentelemetry.io/
@@ -132,6 +134,8 @@ https://github.com/grafana/grafana/releases/tag/v8.0.0
 > https://news.ycombinator.com/item?id=27433552
 
 https://prometheus.io/blog/2021/05/03/introducing-prometheus-conformance-program/
+
 https://opstrace.com/blog/a-new-ui-to-improve-observability-ux/
+
 https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/
 > https://news.ycombinator.com/item?id=26877528

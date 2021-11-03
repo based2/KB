@@ -33,6 +33,9 @@ https://www.reddit.com/r/aws/comments/qiy4k4/amazon_ec2_now_supports_sharing_ama
 
 https://aws.amazon.com/getting-started/hands-on/amazon-ec2-backup-and-restore-using-aws-backup/?TRK=gs_card
 
+# Auto stop/start
+https://blog.mikevosseller.com/2021/10/27/how-to-automatically-stop-an-ec2-instance-with-no-open-ssh-or-session-manager-connections.html
+
 # AutoScaling
 https://aws.amazon.com/en/blogs/compute/amazon-ec2-auto-scaling-will-no-longer-add-support-for-new-ec2-features-to-launch-configurations/
 > https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchTemplates.html

@@ -4,7 +4,6 @@ https://www.schneier.com/blog/archives/2021/05/the-misaligned-incentives-for-clo
 
 https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-for-serverless-applications.html
 
-
 https://lethain.com/physics-of-cloud-expansion/
 
 # Hybrid
@@ -18,6 +17,12 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.hetzner.com/news/11-21-usa-cloud
+> https://news.ycombinator.com/item?id=29093082
+
+https://twitter.com/Hetzner_Online/status/1455837994259210242
+> https://news.ycombinator.com/item?id=29092715
+
 https://markheath.net/post/early-evaluator-late-adopter
 
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949611

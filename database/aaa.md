@@ -62,8 +62,10 @@ https://github.com/jepsen-io/elle
 # Benchmark
 https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 
-
 # News
+https://pradeepchhetri.xyz/clickhousevstimescaledb/
+> https://news.ycombinator.com/item?id=29096541
+
 https://blog.mireo.hr/mireo-spacetime-outperforms-geomesa
 
 https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/

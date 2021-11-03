@@ -763,7 +763,8 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
 > > https://raw.githubusercontent.com/AmnestyTech/investigations/master/2021-07-18_nso/pegasus.stix2
 > > https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/
 > > > https://news.ycombinator.com/item?id=28516095
- 
+> https://www.commerce.gov/news/press-releases/2021/11/commerce-adds-nso-group-and-other-foreign-companies-entity-list
+
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 > https://news.ycombinator.com/item?id=27868487
 

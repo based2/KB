@@ -113,6 +113,9 @@ https://asciiflow.com/#/
 
 
 # News
+https://blog.ilograph.com/posts/beyond-whiteboarding-creating-expert-system-architecture-diagrams/
+> https://news.ycombinator.com/item?id=29093348
+
 https://taoofmac.com/space/blog/2019/01/13/1900 Node-RED
 
 https://blog.ilograph.com/posts/multiperspective-diagramming-guide/

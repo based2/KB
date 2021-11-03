@@ -1,4 +1,3 @@
-
 https://www.ipfire.org/
 
 https://blog.ipfire.org/post/security-announcement-mitigating-nat-slipstreaming
@@ -40,9 +39,6 @@ http://virustotal.github.io/yara/
 https://relaypro-open.github.io/dog/ Firewall management system
 
 https://docs.vyos.io/en/latest/configexamples/index.html
-
-https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html
-> https://news.ycombinator.com/item?id=28039956
 
 https://github.com/Place1/wg-access-server
 

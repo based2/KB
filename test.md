@@ -88,6 +88,8 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://dnlserrano.dev//2019/05/26/exunit-deep-dive.html
+
 https://pactflow.io/
 
 https://www.flakybot.com/

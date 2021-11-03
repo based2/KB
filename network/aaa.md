@@ -60,6 +60,9 @@ https://www.nrl.navy.mil/Our-Work/Areas-of-Research/Information-Technology/NCS/C
 https://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/
 > https://news.ycombinator.com/item?id=28311288
 
+https://github.com/Shopify/toxiproxy
+> https://news.ycombinator.com/item?id=29084277
+
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
 

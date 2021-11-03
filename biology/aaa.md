@@ -13,6 +13,9 @@ https://twitter.com/eigenrobot/status/1420952351968432130
 https://www.science.org/content/article/if-alive-sleeps-brainless-creatures-shed-light-why-we-slumber
 > https://news.ycombinator.com/item?id=29072696
 
+https://www.sciencealert.com/useless-specks-of-dust-turn-out-to-be-ancient-building-blocks-of-all-vertebrate-genomes
+* https://news.ycombinator.com/item?id=29095349
+
 # Machine
 https://www.newscientist.com/article/2285141-single-celled-organism-has-evolved-a-natural-mechanical-computer/
 > https://news.ycombinator.com/item?id=28006599

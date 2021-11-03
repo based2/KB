@@ -9,7 +9,13 @@ https://lumina-desktop.org/
 > https://news.ycombinator.com/item?id=29053850
 
 # Window manager
+https://www.enlightenment.org/
+
 https://mxlinux.org/mx-fluxbox/
+
+# X11
+https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/
+> https://news.ycombinator.com/item?id=29091070
 
 # Audio
 

@@ -20,6 +20,9 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://eurasianet.org/kazakhstan-to-restrict-crypto-miners-amid-power-shortages
+> https://news.ycombinator.com/item?id=29094143 
+
 https://www.axios.com/massive-cryptocurrency-loophole-congress-close-376ea178-d257-4909-8df9-59ff040cafe6.html
 > https://news.ycombinator.com/item?id=29079990
 

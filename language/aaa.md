@@ -183,6 +183,9 @@ https://github.com/carp-lang/Carp
 > https://github.com/carp-lang/Carp
 
 # News
+https://luau-lang.org/2021/11/03/luau-goes-open-source.html roblox
+> https://news.ycombinator.com/item?id=29097692
+
 https://www.infoq.com/news/2021/10/oracle-jdk-free-again/ Oracle's JDK 17 - Free Again for Commercial Use
  For LTS Oracle JDK versions] security updates will be available for a total of three years.
  After that period, further use of the Oracle JDK in production requires a commercial license.
@@ -319,9 +322,12 @@ http://craftinginterpreters.com/
 
 https://github.com/morloc-project/morloc
 > https://news.ycombinator.com/item?id=27994866
+
 https://buttondown.email/hillelwayne/archive/i-ing-hate-science/
 > https://news.ycombinator.com/item?id=27892615
+
 https://news.ycombinator.com/item?id=27883047 julia
+
 https://jackson.sh/posts/2021-04-java-underrated/
 > https://www.reddit.com/r/java/comments/ofzsoh/java_is_criminally_underhyped/
 

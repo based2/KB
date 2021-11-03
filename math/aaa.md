@@ -83,6 +83,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://mattferraro.dev/posts/geometric-algebra
+> https://news.ycombinator.com/item?id=29080360
+
 https://quoteme.github.io/posts/sheaves_in_minecraft
 > https://news.ycombinator.com/item?id=29055847
 
@@ -172,13 +175,19 @@ https://news.ycombinator.com/item?id=27896817
 
 https://www.imaginary.org/sites/default/files/taskbook_arnold_en_0.pdf
 > https://news.ycombinator.com/item?id=27884973
+
 https://jaydaigle.net/blog/what-is-the-axiom-of-choice/
 > https://news.ycombinator.com/item?id=27836406
+
 http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/
 > https://news.ycombinator.com/item?id=27724067
+
 https://ianopolous.peergos.me/maths/surreal
+
 https://writings.stephenwolfram.com/2021/06/1920-2020-and-a-20000-prize-announcing-the-s-combinator-challenge/
+
 https://www.nature.com/articles/s41467-021-22274-1 The XZZX surface code
+
 https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323
 
 https://www.abelprize.no/nyheter/vis.html?tid=76397 LLL

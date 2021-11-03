@@ -24,6 +24,9 @@ https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terr
 
 https://aws.amazon.com/en/blogs/compute/under-the-hood-task-networking-for-amazon-ecs/`
 
+https://github.com/iamarkadyt/aws-auth
+> https://news.ycombinator.com/item?id=29090858
+
 # Secrets
 https://aws.amazon.com/en/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
 

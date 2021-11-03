@@ -225,7 +225,6 @@ https://github.com/lucky/bad_actor_poc
 > https://news.ycombinator.com/item?id=27154534
 
 https://arxiv.org/abs/2103.15420 SafeDrop: Detecting Memory Deallocation Bugs of Rust Programs via Static Data-Flow Analysis
-> 
 
 https://arxiv.org/abs/2104.12064
 
@@ -245,6 +244,8 @@ https://serokell.io/blog/rust-in-production-qovery
 > https://news.ycombinator.com/item?id=28129159
 
 https://blog.sunfishcode.online/broken-encapsulation/
+
+https://www.micahlerner.com/2021/10/31/rudra-finding-memory-safety-bugs-in-rust-at-the-ecosystem-scale.html
 
 ## Crypto
 https://github.com/facebookresearch/Cupcake

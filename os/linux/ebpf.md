@@ -52,6 +52,8 @@ https://blog.sigterm.se/posts/a-bonding-exercise/
 https://news.ycombinator.com/item?id=28817794
 > https://www.youtube.com/watch?v=xj0PBFjLm1U&t=5730s
 > https://linuxplumbersconf.org/event/11/contributions/947/attachments/831/1574/Watching%20the%20Super%20Powers.pdf
+
 https://linuxplumbersconf.org/event/11/contributions/938/ BPF security auditing at Google
+
 https://linuxplumbersconf.org/event/11/contributions/954/ Use of eBPF in CPU scheduler
 > https://news.ycombinator.com/item?id=28551568

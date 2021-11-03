@@ -102,6 +102,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://console.dev/articles/ssh-alternatives-for-mobile-low-latency-unreliable-connections/
+> https://news.ycombinator.com/item?id=29081008
+
 https://mobaxterm.mobatek.net/
 > https://news.ycombinator.com/item?id=29001665
 

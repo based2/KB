@@ -29,3 +29,6 @@ https://cs3210.cc.gatech.edu/r/unix6.pdf A COMMENTARY ON THE SIXTH EDITION UNIX 
 
 https://utcc.utoronto.ca/~cks/space/blog/unix/StackSizeLimitWhen
 
+https://utcc.utoronto.ca/~cks/space/blog/unix/SbrkVersusMmap
+> https://news.ycombinator.com/item?id=29087309
+

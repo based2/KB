@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://www.poor.dev/terminal-anatomy/
+> https://news.ycombinator.com/item?id=29080561
+
 https://github.com/csdvrx/sixel-tmux
 > https://news.ycombinator.com/item?id=28756701
 
