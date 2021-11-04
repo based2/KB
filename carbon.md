@@ -46,6 +46,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.carbonbrief.org/global-co2-emissions-have-been-flat-for-a-decade-new-data-reveals
+
 https://arxiv.org/abs/2110.13234
 > https://news.ycombinator.com/item?id=29092007
 

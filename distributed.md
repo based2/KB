@@ -9,6 +9,9 @@ https://brooker.co.za/blog/2021/10/20/simulation.html
 
 https://news.umich.edu/distributed-protocol-underpinning-cloud-computing-automatically-determined-safe-and-secure/
 
+https://www.consul.io/docs/architecture/consensus
+> https://news.ycombinator.com/item?id=29079079
+
 # CRDT
 https://wiki.nikitavoloboev.xyz/distributed-systems/crdt
 > https://news.ycombinator.com/item?id=28998767

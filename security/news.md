@@ -1,7 +1,8 @@
-https://www.bleepingcomputer.com/news/security/eu-investigating-leak-of-private-key-used-to-forge-covid-passes/
+https://mvsp.dev/
+> https://news.ycombinator.com/item?id=29100400
+> https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
 
-https://confluence.atlassian.com/security/multiple-products-security-advisory-unrendered-unicode-bidirectional-override-characters-cve-2021-42574-1086419475.html?subid=1534467808&jobid=105251298&utm_campaign=multiple-products-advisory_november-2021_EML-11738&utm_medium=email&utm_source=alert-email
-* https://news.ycombinator.com/item?id=29074565
+https://www.bleepingcomputer.com/news/security/eu-investigating-leak-of-private-key-used-to-forge-covid-passes/
 
 https://www.drupal.org/psa-2021-2021-06-29 8 eol
 
@@ -27,6 +28,9 @@ https://trojansource.codes/
 > https://www.reddit.com/user/tophalp/
 > https://www.schneier.com/blog/archives/2021/11/hiding-vulnerabilities-in-source-code.html
 > > https://github.com/golang/go/issues/20209
+> https://confluence.atlassian.com/security/multiple-products-security-advisory-unrendered-unicode-bidirectional-override-characters-cve-2021-42574-1086419475.html?subid=1534467808&jobid=105251298&utm_campaign=multiple-products-advisory_november-2021_EML-11738&utm_medium=email&utm_source=alert-email
+> > https://news.ycombinator.com/item?id=29074565
+> https://www.python.org/dev/peps/pep-0672/
 
 https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
 
@@ -764,6 +768,7 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
 > > https://citizenlab.ca/2021/09/forcedentry-nso-group-imessage-zero-click-exploit-captured-in-the-wild/
 > > > https://news.ycombinator.com/item?id=28516095
 > https://www.commerce.gov/news/press-releases/2021/11/commerce-adds-nso-group-and-other-foreign-companies-entity-list
+> > https://news.ycombinator.com/item?id=29095265
 
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 > https://news.ycombinator.com/item?id=27868487

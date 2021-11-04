@@ -19,8 +19,13 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://www.youtube.com/watch?v=LoQu3XXIayc
+> https://news.ycombinator.com/item?id=29097696
+
 https://www.nfriedly.com/techblog/2021-10-10-v90-usb-c/
+
 https://blog.ktz.me/a-usb-fan-controller-that-now-works-under-linux/
 > https://news.ycombinator.com/item?id=28765113
+
 https://www.phonearena.com/news/new-logos-announced-for-latest-usb-c-products_id135456
 > https://news.ycombinator.com/item?id=28739051

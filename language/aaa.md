@@ -183,6 +183,14 @@ https://github.com/carp-lang/Carp
 > https://github.com/carp-lang/Carp
 
 # News
+https://news.ycombinator.com/item?id=29077933 devutils
+> https://gchq.github.io/CyberChef/
+> > https://github.com/gchq/CyberChef
+> https://github.com/ludovicianul/dvt
+
+http://coconut-lang.org/ functional programming language that compiles to Python
+> https://news.ycombinator.com/item?id=29104961
+
 https://luau-lang.org/2021/11/03/luau-goes-open-source.html roblox
 > https://news.ycombinator.com/item?id=29097692
 

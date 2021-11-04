@@ -96,3 +96,6 @@ https://www.oecd-ilibrary.org/education/education-at-a-glance-2021_b35a14e5-en
 https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
+# News
+https://rajivsethi.substack.com/p/notes-on-a-remarkable-finding-from
+

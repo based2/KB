@@ -9,6 +9,8 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://privacytests.org/
+
 https://portswigger.net/daily-swig/japanese-punctuation-exacerbates-privacy-flaw-that-leaks-one-word-search-terms-in-google-firefox-browsers
 > https://www.reddit.com/r/programming/comments/qdexqf/japanese_punctuation_exacerbates_privacy_flaw/ DNS keyword
 

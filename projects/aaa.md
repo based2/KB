@@ -179,8 +179,10 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://komoroske.com/slime-mold/
+
 https://larahogan.me/blog/my-team-is-going-in-circles/
-*
+
 https://www.youtube.com/watch?v=ROOiCUfj9pw Elon & Sandy: Design Philosophy Parallels | PART 1
 
 https://danluu.com/look-stupid/

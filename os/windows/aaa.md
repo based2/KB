@@ -66,6 +66,8 @@ https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-workshe
 
 https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/excel.pdf
 
+https://samples-breakingintowallstreet-com.s3.amazonaws.com/BIWS-Excel-Formatting-Best-Practices.pdf
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 > https://news.ycombinator.com/item?id=26991887
@@ -99,6 +101,8 @@ https://www.phoronix.com/scan.php?page=article&item=windows11-wsl2-good&num=1
 https://github.com/valinet/ExplorerPatcher
 
 # News
+https://4sysops.com/archives/how-to-use-smb-over-quic-in-windows-server-2022/
+
 https://devblogs.microsoft.com/performance-diagnostics/sizebench-a-new-tool-for-analyzing-windows-binary-size/
 
 https://www.theregister.com/2021/10/26/microsofts_uwp_unwanted_windows_platform/

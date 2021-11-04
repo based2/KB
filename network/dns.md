@@ -73,6 +73,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://citizenlab.ca/2021/11/gfwatch-a-longitudinal-measurement-platform-built-to-monitor-chinas-dns-censorship-at-scale/
+
 https://news.ycombinator.com/item?id=29049350 
 
 https://blog.cloudflare.com/introducing-1-1-1-1-for-families/

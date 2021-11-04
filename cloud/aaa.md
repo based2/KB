@@ -17,6 +17,8 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.theregister.com/2021/11/03/atlassian_aws/
+
 https://www.hetzner.com/news/11-21-usa-cloud
 > https://news.ycombinator.com/item?id=29093082
 

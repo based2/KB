@@ -83,21 +83,35 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://lambdaisland.com/blog/2021-11-03-making-nrepl-cider-more-dynamic-1
+
 https://blog.michielborkent.nl/migrating-octopress-to-babashka.html
+
 https://www.mirabelle.mcorbin.fr/
+
 https://bsless.github.io/fast-and-elegant-clojure/ Idiomatic Clojure without sacrificing performance
 > https://news.ycombinator.com/item?id=28956316
+
 https://cuddly-octo-palm-tree.com/posts/2021-10-03-monads-clojure/
 > https://news.ycombinator.com/item?id=28745059
+
 https://cljdoc.org/d/metosin/reitit/0.5.15/doc/introduction
 > https://news.ycombinator.com/item?id=28715381
+
 https://www.tadam-framework.dev/
+
 https://whamtet.github.io/ctmx/ https://htmx.org/
+
 https://tonsky.me/blog/the-web-after-tomorrow/
+
 https://github.com/FieryCod/holy-lambda
+
 https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983
 > https://lobste.rs/s/872ohv/6_years_professional_clojure
+
 https://github.com/learnuidev/patu
+
 http://blog.fogus.me/2021/07/20/clojure-builds-as-an-amalgamation-of-orthogonal-parts/
 > https://news.ycombinator.com/item?id=27894735
+
 https://github.com/babashka/babashka/discussions/907 Babashka + org-mode literate programming example

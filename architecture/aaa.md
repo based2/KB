@@ -122,6 +122,9 @@ https://google.aip.dev/
 https://github.com/public-apis/public-apis
 > https://news.ycombinator.com/item?id=28232369
 
+https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source
+> https://news.ycombinator.com/item?id=29106398
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966

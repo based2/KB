@@ -61,4 +61,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/microsoft/TypeScript/pull/46266 Control flow analysis for destructured discriminated unions
+> https://news.ycombinator.com/item?id=29099331
+
+https://hackernoon.com/migrating-from-javascript-to-typescript-some-tips
+
 https://github.com/umijs/qiankun

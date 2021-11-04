@@ -97,7 +97,6 @@ https://blog.jetbrains.com/datalore/2021/06/30/announcing-datalore-enterprise-th
 ##
 http://zeppelin.apache.org/
 
-
 ## Mito - Python  Panda
 https://towardsdatascience.com/introducing-mito-how-to-generate-pandas-code-while-editing-a-spreadsheet-96cf874b70c2
 
@@ -123,6 +122,9 @@ https://github.com/gzuidhof/starboard-notebook
 https://news.ycombinator.com/item?id=27421401
 
 https://nextjournal.com/mk/clerk-preview Clojure
+
+https://github.com/nextjournal/clerk
+> https://news.ycombinator.com/item?id=29107392
 
 https://github.com/ToolJet/ToolJet/
 > https://news.ycombinator.com/item?id=27421408

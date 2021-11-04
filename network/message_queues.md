@@ -40,6 +40,8 @@ https://segment.com/blog/topicctl-v1/
 
 https://granulate.io/optimizing-kafka-performance/
 
+https://forum.confluent.io/t/kafka-streams-101-resources-to-get-started/3283
+
 # MQTT
 https://github.com/eclipse/mosquitto C Python
 > https://news.ycombinator.com/item?id=28695346

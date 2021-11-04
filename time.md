@@ -93,6 +93,9 @@ https://www.javaspecialists.eu/talks/jfokus13/PhaserAndStampedLock.pdf
 
 # NTP
 
+https://labs.ripe.net/author/christer-weinigel/best-practices-for-connecting-to-ntp-servers/
+> https://news.ycombinator.com/item?id=29106800
+
 # Sync
 https://muratbuffalo.blogspot.com/2021/03/sundial-fault-tolerant-clock.html
 

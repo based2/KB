@@ -118,7 +118,15 @@ https://chakra-ui.com/
 https://react-query.tanstack.com/
 
 https://docs.swmansion.com/react-native-reanimated/
-   
+
+https://reactnative.dev/blog/2021/10/26/toward-hermes-being-the-default
+
+https://reactrouter.com/
+> https://news.ycombinator.com/item?id=29101144
+
+https://github.com/veged/coa/issues/99 Last release contains malicious code
+> https://news.ycombinator.com/item?id=29107298
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -136,6 +144,9 @@ https://jaxenter.com/angular-elements-tutorial-162932.html
 https://ngrx.io/ async
 
 https://ngneat.github.io/transloco/ i18n
+
+https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296
+> https://news.ycombinator.com/item?id=29103656
 
 # Elm
 https://elm-pages.com/blog/introducing-v2/
@@ -283,6 +294,11 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete
+> https://news.ycombinator.com/item?id=29078919
+
+https://snyk.io/blog/remediate-javascript-type-confusion-bypassed-input-validation/
+
 https://www.tinyblog.dev/blog/2020-07-13-javascript-roro-pattern/
 > https://news.ycombinator.com/item?id=29058830
 

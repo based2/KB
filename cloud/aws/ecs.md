@@ -97,3 +97,6 @@ https://aws.amazon.com/en/blogs/compute/automating-amazon-ebs-snapshot-managemen
 https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-amazon-ebs-snapshots-with-amazon-ec2-systems-manager-part-1/
 
 https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-amazon-ebs-snapshots-with-amazon-ec2-systems-manager-part-2/
+
+# News
+https://aws.amazon.com/en/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/

@@ -96,12 +96,13 @@ https://news.ycombinator.com/item?id=26872904
 https://github.com/lesfurets/git-octopus
 
 https://github.com/ovotech/gitoops/blob/main/docs/blog.md
->
 
 # History
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.com/GitGuardian/ggshield scan
+
 https://www.sourceware.org/dwz/
 
 https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/

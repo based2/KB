@@ -86,6 +86,11 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=BOLT-Nearing-LLVM-Monorepo
+
+https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/
+> https://news.ycombinator.com/item?id=29107147
+
 https://en.algorithmica.org/hpc/analyzing-performance/compilation/
 
 https://crypto.stanford.edu/~blynn/compiler/

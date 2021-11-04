@@ -52,6 +52,8 @@ https://eisel.me/devtool-allocators
 > https://news.ycombinator.com/item?id=29068828
 
 # M1
+https://calcagno.blog/m1dev/
+
 https://www.anandtech.com/show/17024/apple-m1-max-performance-review
 > https://news.ycombinator.com/item?id=28987276
 

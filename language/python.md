@@ -174,6 +174,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://calpaterson.com/bank-python.html
+> https://news.ycombinator.com/item?id=29104047
+
 https://www.graalvm.org/python/
 > https://news.ycombinator.com/item?id=29097715
 
