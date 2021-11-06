@@ -46,6 +46,15 @@ https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://eclipse-ee4j.github.io/cdi/2021/10/25/way-to-cdi4.html
+> https://www.reddit.com/r/java/comments/qmkxlc/on_the_way_to_cdi_40/
+
+http://blog.supol.cz/?p=243 REST Jersey 2.35, and Jersey 3.0.3
+
+https://www.infoq.com/news/2021/11/java-news-roundup-oct25-2021/
+
+https://blog.adacore.com/an-embedded-usb-device-stack-in-ada
+
 https://news.ycombinator.com/item?id=29077750
 
 https://news.ycombinator.com/item?id=29023529

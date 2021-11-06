@@ -32,6 +32,8 @@ https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/
 https://principles.green/
 > https://news.ycombinator.com/item?id=28615321
 
+https://awsmaniac.com/aws-outages/
+
 # News
 https://blog.roblox.com/2021/10/update-recent-service-outage/
 > https://news.ycombinator.com/item?id=29062557 

@@ -68,9 +68,7 @@ https://www.getsynth.com/ JSON
 
 https://github.com/DiUS/java-faker
 
-
 https://hypothesis.works/articles/what-is-property-based-testing/
-
 
 #
 https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/
@@ -88,6 +86,9 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/
+> https://news.ycombinator.com/item?id=29120492
+
 https://dnlserrano.dev//2019/05/26/exunit-deep-dive.html
 
 https://pactflow.io/

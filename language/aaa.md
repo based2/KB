@@ -183,6 +183,8 @@ https://github.com/carp-lang/Carp
 > https://github.com/carp-lang/Carp
 
 # News
+http://www.call-with-current-continuation.org/fleng/fleng.html
+
 https://news.ycombinator.com/item?id=29077933 devutils
 > https://gchq.github.io/CyberChef/
 > > https://github.com/gchq/CyberChef

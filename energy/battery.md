@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.empa.ch/web/s604/papierbatterie
+> https://news.ycombinator.com/item?id=29124871
+
 http://www.elasmo-research.org/education/topics/p_batteries.htm
 > https://news.ycombinator.com/item?id=28937485
 

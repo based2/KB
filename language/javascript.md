@@ -127,6 +127,9 @@ https://reactrouter.com/
 https://github.com/veged/coa/issues/99 Last release contains malicious code
 > https://news.ycombinator.com/item?id=29107298
 
+https://react-spectrum.adobe.com/react-aria/ React Hooks that provides accessible UI primitives for your design system
+> https://news.ycombinator.com/item?id=29116450
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -294,6 +297,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/AsyncBanana/microdiff
+> https://news.ycombinator.com/item?id=29130661
+
 https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete
 > https://news.ycombinator.com/item?id=29078919
 

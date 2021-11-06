@@ -94,6 +94,9 @@ https://observablehq.com/@asg017/introducing-dataflow
 https://blog.jetbrains.com/datalore/2021/06/30/announcing-datalore-enterprise-the-smart-and-secure-jupyter-environment-for-data-science-teams/
 > https://news.ycombinator.com/item?id=27746604
 
+https://generallyintelligent.ai/open-source/2021-10-14-jupyter-ascending/
+> https://news.ycombinator.com/item?id=29111936
+
 ##
 http://zeppelin.apache.org/
 
@@ -137,7 +140,6 @@ https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyt
 > https://news.ycombinator.com/item?id=27581336
 
 # Database
-
 
 https://trino.io/
 
@@ -206,50 +208,86 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://jitsu.com/
+> https://news.ycombinator.com/item?id=29106082
+
+https://www.startree.ai/blogs/what-makes-apache-pinot-fast-chapter-ii/
+
 https://drill.apache.org/blog/2021/10/30/reports-of-my-death/
 > https://news.ycombinator.com/item?id=29063090
+
 https://www.visidata.org/blog/2021/5-years-old/
+
 https://www.itl.nist.gov/div898/software/dataplot/index.htm
+
 https://duckdb.org/2021/10/29/duckdb-wasm.html
 > https://news.ycombinator.com/item?id=29039235
+
 https://hop.apache.org/blog/2021/10/hop-1.0.0/
+
 https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/
 > https://news.ycombinator.com/item?id=29004757
+
 https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/
 > https://news.ycombinator.com/item?id=29010103
+
 https://dionhaefner.github.io/2021/09/bayesian-histograms-for-rare-event-classification/
 > https://news.ycombinator.com/item?id=28882461
+
 https://github.com/finos/perspective/
+
 https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/
+
 https://justindomke.wordpress.com/2021/10/11/confidence-games-1-2/
 > https://news.ycombinator.com/item?id=28830226
+
 https://noeldemartin.com/blog/interoperable-serendipity
 > https://news.ycombinator.com/item?id=28851076
+
 https://fugue-tutorials.readthedocs.io/en/latest/tutorials/fugue_sql/index.html
+
 https://yolkorbit.com/apache-spark-bucketing-and-partitioning/
+
 https://tech.marksblogg.com/roapi-rust-data-api.html
 > https://news.ycombinator.com/item?id=28798360
+
 https://coiled.io/blog/dask-as-a-spark-replacement/
+
 https://flink.apache.org/news/2021/09/29/release-1.14.0.html
+
 https://github.com/nocodb/nocodb
 > https://www.journalduhacker.net/s/2c4ro0/nocodb_lalternative_open_source
+
 https://www.moderndatastack.xyz/
+
 https://datasette.io/
+
 https://root.cern.ch/
+
 https://github.com/apache/incubator-kyuubi Distributed multi-tenant Thrift JDBC/ODBC
+
 https://www.argmin.net/2021/09/13/effect-size/
 > https://news.ycombinator.com/item?id=28526909
+
 https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/
 > https://news.ycombinator.com/item?id=28526966
+
 https://github.com/roapi/roapi/tree/main/columnq-cli
+
 https://github.com/gjthompson1/glue-public Data pipeline and automation tool
+
 https://www.jetbrains.com/dataspell/
 > https://news.ycombinator.com/item?id=28474075
+
 https://substrait.io/ Cross-Language Serialization for Relational Algebra
+
 https://dagster.io/blog/dagster-airflow
+
 https://www.scylladb.com/
 > https://news.ycombinator.com/item?id=28294501
+
 https://arrow.apache.org/blog/2021/08/18/datafusion-5.0.0/
 > https://news.ycombinator.com/item?id=28290616
+
 https://blog.cloudera.com/announcing-the-ga-of-cloudera-dataflow-for-the-public-cloud/
 

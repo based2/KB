@@ -281,6 +281,12 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/
+> https://news.ycombinator.com/item?id=29131624
+
+https://paulmck.livejournal.com/66175.html What Memory Model Should the Rust Language Use?
+> https://news.ycombinator.com/item?id=29109156
+
 https://www.thecodedmessage.com/posts/hello-rust/
 
 https://thephilbert.io/2021/11/01/gcc-rust-monthly-report-11-october-2021/

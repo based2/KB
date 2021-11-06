@@ -49,6 +49,9 @@ https://github.com/speakol-ads/scrapy-x
 https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
 > https://news.ycombinator.com/item?id=28827509
 
+https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/
+> https://news.ycombinator.com/item?id=29117022
+
 # News
 https://web.dev/storage-foundation/
 > https://news.ycombinator.com/item?id=29076656

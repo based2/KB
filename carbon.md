@@ -46,6 +46,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://marginalrevolution.com/marginalrevolution/2021/11/claims-about-the-costs-of-global-warming.html
+> https://news.ycombinator.com/item?id=29110790
+
+https://www.southampton.ac.uk/~cpd/history.html
+> https://news.ycombinator.com/item?id=29110419
+
 https://www.carbonbrief.org/global-co2-emissions-have-been-flat-for-a-decade-new-data-reveals
 
 https://arxiv.org/abs/2110.13234

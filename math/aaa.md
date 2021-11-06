@@ -83,6 +83,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://www.gwern.net/notes/Lions The Math of Hunting Lions
+
 https://mattferraro.dev/posts/geometric-algebra
 > https://news.ycombinator.com/item?id=29080360
 

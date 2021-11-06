@@ -3,6 +3,9 @@ https://en.wikipedia.org/wiki/The_C_Programming_Language
 http://c-faq.com/
 > https://news.ycombinator.com/item?id=28502484
 
+https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/
+> https://news.ycombinator.com/item?id=29123678
+
 https://gustedt.wordpress.com/2021/01/12/improve-type-generic-programming/
 
 https://github.com/git/git/blob/master/banned.h

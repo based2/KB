@@ -30,6 +30,8 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://support.mozilla.org/en-US/kb/unload-inactive-tabs-save-system-memory-firefox
+
 https://librewolf-community.gitlab.io/
 > https://news.ycombinator.com/item?id=29106155
 

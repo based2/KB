@@ -101,6 +101,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://blog.kronis.dev/articles/never-update-anything
+> https://news.ycombinator.com/item?id=29106159
+
 https://github.com/GitGuardian/ggshield scan
 
 https://www.sourceware.org/dwz/

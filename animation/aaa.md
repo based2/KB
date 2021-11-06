@@ -65,6 +65,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://web.dev/smoothness/
+> https://news.ycombinator.com/item?id=29108119
+
 https://ciechanow.ski/curves-and-surfaces/
 > https://news.ycombinator.com/item?id=29083349
 

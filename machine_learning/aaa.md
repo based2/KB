@@ -243,6 +243,8 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://www.microsoft.com/en-us/research/blog/turing-bletchley-a-universal-image-language-representation-model-by-microsoft/
+
 https://arxiv.org/abs/2110.15032
 
 https://ai.googleblog.com/2021/10/practical-differentially-private.html

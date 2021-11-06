@@ -91,8 +91,11 @@ https://spamassassin.apache.org/
 https://www.semanticscholar.org/paper/Spamalot%3A-A-Toolkit-for-Consuming-Spammers%27-Nelson-Dallmeyer/97b8c4e291835ca3d11e0e6d924dc436ea31a4c7?p2df
 
 # News
+https://luxusmail.org/
+> https://news.ycombinator.com/item?id=29125770
+
 https://battlepenguin.com/tech/upgrading-opensmtpd-6.3-and-running-e-mail-in-docker/
-* https://lobste.rs/s/yuwcol/upgrading_opensmtpd_6_3_running_e_mail
+> https://lobste.rs/s/yuwcol/upgrading_opensmtpd_6_3_running_e_mail
 
 https://kickbox.com/ Smarter Email Verification for Marketers and Developers
 

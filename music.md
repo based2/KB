@@ -74,6 +74,9 @@ https://daftpunk.com/
 https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown
 > https://news.ycombinator.com/item?id=28975105
 
+https://100r.co/site/orca.html  esoteric programming language, designed to create procedural sequencers in which each letter of the alphabet is an operation, where lowercase letters operate on bang, uppercase letters operate each frame.
+> https://news.ycombinator.com/item?id=29122218
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084

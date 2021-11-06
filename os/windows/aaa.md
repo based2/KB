@@ -101,6 +101,9 @@ https://www.phoronix.com/scan.php?page=article&item=windows11-wsl2-good&num=1
 https://github.com/valinet/ExplorerPatcher
 
 # News
+https://github.com/coofcookie/Windows11Upgrade
+> https://news.ycombinator.com/item?id=29129358
+
 https://4sysops.com/archives/how-to-use-smb-over-quic-in-windows-server-2022/
 
 https://devblogs.microsoft.com/performance-diagnostics/sizebench-a-new-tool-for-analyzing-windows-binary-size/
@@ -163,6 +166,7 @@ https://www.zdnet.com/article/microsoft-to-require-microsoft-account-and-network
 
 https://www.theverge.com/2021/6/3/22466394/microsoft-windows-11-launch-teaser-rumors
 > https://news.ycombinator.com/item?id=27410244
+
 https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed
 > https://news.ycombinator.com/item?id=27198085
-  > https://techcommunity.microsoft.com/t5/networking-blog/algorithmic-improvements-boost-tcp-performance-on-the-internet/ba-p/2347061
+> > https://techcommunity.microsoft.com/t5/networking-blog/algorithmic-improvements-boost-tcp-performance-on-the-internet/ba-p/2347061

@@ -1,5 +1,8 @@
 https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
+https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/
+> https://news.ycombinator.com/item?id=29112482
+
 https://godbolt.org
 
 https://briancallahan.net/blog/20210816.html
@@ -86,6 +89,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf An Incremental Approach to Compiler Construction
+> https://news.ycombinator.com/item?id=29123715
+
 https://www.phoronix.com/scan.php?page=news_item&px=BOLT-Nearing-LLVM-Monorepo
 
 https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/

@@ -8,6 +8,8 @@ https://www.quantamagazine.org/how-wavelets-allow-researchers-to-transform-and-u
 https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html
 > https://news.ycombinator.com/item?id=28940860
 
+https://medium.com/@trismegistus13/spectrograms-or-how-i-learned-to-stop-worrying-and-love-audio-signal-processing-for-machine-d28c022ca5ca
+
 # FFT
 https://www.earlevel.com/main/2002/08/31/a-gentle-introduction-to-the-fft/
 > https://news.ycombinator.com/item?id=28926775

@@ -13,6 +13,9 @@ https://tesseract.projectnaptha.com/
 https://ian-nai.github.io/In-Browser-OCR/
 > https://news.ycombinator.com/item?id=28015442
 
+http://www.tobias-elze.de/pdfsandwich/
+> https://news.ycombinator.com/item?id=29124994
+
 https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/
 
 https://www.opcito.com/blogs/extracting-text-from-images-with-tesseract-ocr-opencv-and-python/

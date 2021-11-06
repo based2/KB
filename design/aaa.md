@@ -47,3 +47,8 @@ https://fantasai.inkedblade.net/weblog/2006/about-mozilla/principles
 http://joshcarter.com/magic_cap/paradigm_concept_book/
 
 https://deardesignstudent.com/a-designers-code-of-ethics-f4a88aca9e95
+
+https://www.dimensions.com/
+
+https://calmtech.com/
+> https://news.ycombinator.com/item?id=29115653

@@ -1,3 +1,17 @@
+https://therecord.media/gitlab-servers-are-being-exploited-in-ddos-attacks-in-excess-of-1-tbps/
+> https://news.ycombinator.com/item?id=29112713
+
+https://github.com/advisories/GHSA-g2q5-5433-rhrf
+> https://news.ycombinator.com/item?id=29122098
+> https://github.com/npm/rfcs/pull/488
+> > https://news.ycombinator.com/item?id=29122473
+
+https://coreruleset.org/20210630/cve-2021-35368-crs-request-body-bypass/
+> https://portswigger.net/daily-swig/lessons-learned-how-a-severe-vulnerability-in-the-owasp-modsecurity-core-rule-set-sparked-much-needed-change
+> https://news.ycombinator.com/item?id=29121153
+
+https://www.usenix.org/conference/usenixsecurity19/presentation/xiao
+
 https://mvsp.dev/
 > https://news.ycombinator.com/item?id=29100400
 > https://www.goldfiglabs.com/guide/saas-cto-security-checklist/
@@ -9,6 +23,7 @@ https://www.drupal.org/psa-2021-2021-06-29 8 eol
 https://link.springer.com/article/10.1007/s42452-021-04431-9 Forensic analysis of open-source XMPP/Jabber multi-client instant messaging apps on Android smartphones
 
 https://vigilance.fr/vulnerabilite/Jenkins-Core-vulnerabilite-devoilee-le-04-11-2021-36766
+> https://www.jenkins.io/security/advisory/2021-11-04/
 
 https://www.synacktiv.com/en/publications/finding-gadgets-like-its-2015-part-1.html
 
