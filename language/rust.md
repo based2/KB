@@ -10,7 +10,8 @@ https://rust-lang-nursery.github.io/rust-cookbook/intro.html
 https://blog.frankel.ch/start-rust/9/
 
 https://rust-unofficial.github.io/patterns/
-https://news.ycombinator.com/item?id=25620110
+> https://news.ycombinator.com/item?id=25620110
+
 https://users.rust-lang.org/t/exploring-rustffts-simd-architecture/53780
 
 https://cheats.rs/
@@ -281,6 +282,12 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://www.eenewseurope.com/news/arm-joins-rust-foundation
+> https://news.ycombinator.com/item?id=29161633
+
+https://www.phoronix.com/scan.php?page=news_item&px=Pop-OS-New-Rust-Desktop
+> https://news.ycombinator.com/item?id=29137180
+
 https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/
 > https://news.ycombinator.com/item?id=29131624
 

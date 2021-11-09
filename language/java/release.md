@@ -38,6 +38,9 @@ https://dev.java/learn/launching-single-file-source-code-programs/
 
 https://dev.java/learn/jshell-tool/
 
+https://blog.picnic.nl/embracing-java-17-heres-what-we-learned-69779d95fdf2
+> https://www.reddit.com/r/java/comments/qndt6b/embracing_java_17_heres_what_we_learned/
+
 # 16
 https://www.azul.com/67-new-features-in-jdk-16/
 https://seanjmullan.org/blog/2021/03/18/jdk16

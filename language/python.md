@@ -174,6 +174,18 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://www.die-welt.net/2021/11/i-just-want-to-run-this-one-python-script/
+> https://news.ycombinator.com/item?id=29147087
+
+https://www.trypyjion.com/ JIT 3.10
+> https://news.ycombinator.com/item?id=29159545
+
+https://blog.acolyer.org/2020/09/21/watchman/
+
+https://www.python.org/dev/peps/pep-0495/ PEP 495 -- Local Time Disambiguation
+
+https://lobste.rs/s/8ou90b/which_python_projects_have_completed
+
 https://calpaterson.com/bank-python.html
 > https://news.ycombinator.com/item?id=29104047
 

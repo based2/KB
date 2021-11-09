@@ -74,6 +74,14 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://shorez.de/linux-on-the-m-1-with-gpu-acceleration
+> https://news.ycombinator.com/item?id=29144074
+
+https://github.com/matheusmoreira/liblinux C library that provides architecture-independent access to Linux system calls
+> https://news.ycombinator.com/item?id=29158425
+
+https://www.coverfire.com/articles/queueing-in-the-linux-network-stack/
+
 http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html
 > https://news.ycombinator.com/item?id=29104841
 

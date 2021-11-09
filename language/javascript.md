@@ -130,6 +130,9 @@ https://github.com/veged/coa/issues/99 Last release contains malicious code
 https://react-spectrum.adobe.com/react-aria/ React Hooks that provides accessible UI primitives for your design system
 > https://news.ycombinator.com/item?id=29116450
 
+https://hydrogen.shopify.dev/
+> https://news.ycombinator.com/item?id=29150634
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -297,6 +300,11 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://gist.github.com/joepie91/bca2fda868c1e8b2c2caf76af7dfcad3
+> https://news.ycombinator.com/item?id=29137663
+
+https://developer.mozilla.org/en-US/docs/Web/API/structuredClone
+
 https://github.com/AsyncBanana/microdiff
 > https://news.ycombinator.com/item?id=29130661
 

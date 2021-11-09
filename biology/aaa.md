@@ -16,7 +16,12 @@ https://www.science.org/content/article/if-alive-sleeps-brainless-creatures-shed
 https://www.sciencealert.com/useless-specks-of-dust-turn-out-to-be-ancient-building-blocks-of-all-vertebrate-genomes
 * https://news.ycombinator.com/item?id=29095349
 
+https://news.ycombinator.com/item?id=29137765
+
 # Machine
 https://www.newscientist.com/article/2285141-single-celled-organism-has-evolved-a-natural-mechanical-computer/
 > https://news.ycombinator.com/item?id=28006599
+
+# History
+https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 

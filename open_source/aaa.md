@@ -184,6 +184,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://daltonlens.org/opensource-cvd-simulation/
+
 https://github.com/joeycastillo/The-Open-Book
 
 https://neverworkintheory.org/2021/10/16/open-source-projects-in-baidu-alibaba-and-tencent.html

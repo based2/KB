@@ -47,6 +47,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.theregister.com/2021/11/05/turbo_button/
+> https://news.ycombinator.com/item?id=29142075
+
 https://supchina.com/2021/11/01/alibabas-silicon-chip-in-the-age-of-hypersonic-missiles/
 
 https://www.theregister.com/2021/11/02/china_loongson_mips/

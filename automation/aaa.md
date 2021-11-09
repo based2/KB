@@ -22,6 +22,9 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://www.workflow86.com/
+> https://news.ycombinator.com/item?id=29152173
+
 https://sethkim.me/l/thesolutionspace/
 > https://news.ycombinator.com/item?id=29084846
 

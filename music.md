@@ -45,6 +45,9 @@ https://github.com/marcomusy/pianoplayer
 https://learningmusic.ableton.com/
 > https://news.ycombinator.com/item?id=29055433
 
+https://tempobeatdownbeat.github.io/tutorial/intro.html
+> 
+
 # Western Theory
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 > https://news.ycombinator.com/item?id=26859907

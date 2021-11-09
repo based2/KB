@@ -55,7 +55,6 @@ https://labs.os.uk/public/os-data-hub-tutorials/web-development/automated-open-d
 http://app.dumpark.com/sunlight/learn.html
 
 https://www.trekview.org/blog/2021/getting-started-with-kartaview/
-*
 
 https://www.mapsforeurope.org/
 

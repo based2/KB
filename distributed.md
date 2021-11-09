@@ -33,6 +33,8 @@ https://aosabook.org/en/distsys.html
 
 https://github.com/ipfs/go-ds-crdt
 
+https://bartoszsypytkowski.com/yrs-architecture/
+
 # OT
 
 https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/

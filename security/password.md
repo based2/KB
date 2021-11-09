@@ -40,6 +40,11 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://www.troyhunt.com/beg-bounties/
+> https://news.ycombinator.com/item?id=29147555
+
+https://news.ycombinator.com/item?id=28353095
+
 https://blog.ervits.com/2021/09/automating-sql-user-generation-and.html
 
 https://scotthelme.co.uk/when-pwned-passwords-bloom/

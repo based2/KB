@@ -1,3 +1,31 @@
+https://torrentfreak.com/denuvo-protected-games-rendered-unplayable-after-domain-expires-211108/
+> https://news.ycombinator.com/item?id=29149555
+
+https://blog.robinhood.com/news/2021/11/8/data-security-incident
+> https://news.ycombinator.com/item?id=29154328
+
+http://gallium.inria.fr/blog/intel-skylake-bug/
+> https://news.ycombinator.com/item?id=29150759
+
+https://krebsonsecurity.com/2021/11/revil-ransom-arrest-6m-seizure-and-10m-reward/
+> https://news.ycombinator.com/item?id=29156949
+
+https://csrc.nist.gov/Projects/Lightweight-Cryptography
+> https://news.ycombinator.com/item?id=29137897
+
+https://blog.acolyer.org/2020/11/16/pigasus/
+
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+> https://www.cisa.gov/news/2021/11/03/cisa-releases-directive-reducing-significant-risk-known-exploited-vulnerabilities
+
+https://thehackernews.com/2021/11/critical-rce-vulnerability-reported-in.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29
+> https://nvd.nist.gov/vuln/detail/CVE-2021-43267
+> Linux kernel before 5.14.16, introduced in September 2020. The Transparent Inter-Process Communication (TIPC) functionality allows remote attackers to exploit insufficient validation of user-supplied sizes for the MSG_CRYPTO message type.
+
+https://perception-point.io/a-technical-analysis-of-cve-2021-30864-bypassing-app-sandbox-restrictions/
+
+https://twitter.com/thezdi/status/1456283862821220356
+
 https://therecord.media/gitlab-servers-are-being-exploited-in-ddos-attacks-in-excess-of-1-tbps/
 > https://news.ycombinator.com/item?id=29112713
 

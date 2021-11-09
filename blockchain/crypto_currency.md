@@ -20,6 +20,13 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://twitter.com/JTheAccountant/status/1456835909303869447
+> https://www.congress.gov/bill/117th-congress/house-bill/3684/text digital assets
+
+https://home.treasury.gov/news/press-releases/jy0454
+
+https://therecord.media/hacker-steals-55-million-from-bzx-defi-platform/
+
 https://eurasianet.org/kazakhstan-to-restrict-crypto-miners-amid-power-shortages
 > https://news.ycombinator.com/item?id=29094143 
 

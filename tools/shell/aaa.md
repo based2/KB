@@ -52,4 +52,7 @@ https://www.oilshell.org/blog/2021/08/xargs.html
 http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-shell/
 > https://news.ycombinator.com/item?id=28104657
 
+# News
+https://github.com/koalaman/shellcheck/releases/tag/v0.8.0
+
 https://github.com/fish-shell/fish-shell/releases/tag/3.3.0

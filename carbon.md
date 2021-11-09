@@ -46,6 +46,10 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://en.wikipedia.org/wiki/CarbFix
+
+https://www.nature.com/articles/d41586-021-02992-8
+
 https://marginalrevolution.com/marginalrevolution/2021/11/claims-about-the-costs-of-global-warming.html
 > https://news.ycombinator.com/item?id=29110790
 

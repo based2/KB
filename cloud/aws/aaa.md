@@ -1,4 +1,5 @@
-
+Gov Cloud Specific: https://status.aws.amazon.com/govcloud
+General: https://status.aws.amazon.com/
 
 https://pitr.ca/2021-05-23-personal-spot
 
@@ -65,4 +66,10 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/service-terms/#:~:text=this%20restriction%20will%20not%20apply%20in%20the%20event%20of%20the%20occurrence%20(certified%20by%20the%20United%20States%20Centers%20for%20Disease%20Control%20or%20successor%20body)%20of%20a%20widespread%20viral%20infection%20transmitted%20via%20bites%20or%20contact%20with%20bodily%20fluids%20that%20causes%20human%20corpses%20to%20reanimate%20and%20seek%20to%20consume%20living%20human%20flesh
 > https://news.ycombinator.com/item?id=29078403
 > https://aws.amazon.com/fr/service-terms/historical/2020-03-23/
+
+# News
+https://aws.amazon.com/en/about-aws/whats-new/2021/11/amazon-cloudfront-supports-cors-security-custom-http-response-headers/
+
+https://aws.amazon.com/en/about-aws/whats-new/2021/11/aws-secrets-manager-increases-secrets-limit-per-account/
+> 500,000 secrets * 0.40 = $200,000 / month
 

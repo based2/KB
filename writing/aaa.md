@@ -29,5 +29,8 @@ https://forge.medium.com/how-to-write-10-000-words-a-week-a7c63d97ea79
 https://lucasfcosta.com/2021/09/30/explaining-in-writing.html
 > https://news.ycombinator.com/item?id=28797133
 
+https://karthinks.com/software/latex-input-for-impatient-scholars/
+> https://news.ycombinator.com/item?id=29131928
+
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?

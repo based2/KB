@@ -35,6 +35,8 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://blog.acolyer.org/2020/03/13/correlation-x-2/
+
 https://blog.roblox.com/2021/10/update-recent-service-outage/
 > https://news.ycombinator.com/item?id=29062557 
 

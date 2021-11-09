@@ -9,6 +9,8 @@ http://www.erlang-factory.com/upload/presentations/467/Halfword_EUC_2011.pdf
 https://beam-wisdoms.clau.se/en/latest/index.html
 > https://news.ycombinator.com/item?id=28501505
 
+https://www.erlang.org/blog/scalable-ets-counters/
+
 # OTP
 https://blog.erlang.org/My-OTP-24-Highlights/
 > https://news.ycombinator.com/item?id=27128994
@@ -89,3 +91,8 @@ https://gleam.run/
 
 https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
+
+# News
+https://www.erlang.org/blog/parallel-signal-sending-optimization/
+
+https://www.erlang.org/news/151 Announcing the new erlang.org

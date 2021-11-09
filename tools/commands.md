@@ -36,6 +36,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/natethinks/jog
+> https://news.ycombinator.com/item?id=29154942
+
 https://lwn.net/SubscriberLink/874049/bf89a969ed3dde87/ which non-POSIX
 > https://news.ycombinator.com/item?id=29026623
 

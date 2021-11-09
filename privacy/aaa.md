@@ -86,9 +86,22 @@ https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternative
 # DNS
 https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > https://news.ycombinator.com/item?id=28007367
-  > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
+> > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://news.ycombinator.com/item?id=29150011
+
+https://republicans-energycommerce.house.gov/news/press-release/ec-republicans-unveil-comprehensive-strategy-to-establish-a-national-privacy-standard/
+> https://news.ycombinator.com/item?id=29164769
+
+https://shkspr.mobi/blog/2021/11/proctoru-is-dystopian-spyware/
+> https://news.ycombinator.com/item?id=29162689
+
+https://codeberg.org/keyoxide/keyoxide-web/src/branch/main/content/about.md
+> https://news.ycombinator.com/item?id=29132024
+> > https://jedisct1.github.io/minisign/ portable, lightweight, and uses the highly secure Ed25519 public-key signature system
+> > > https://doc.libsodium.org/
+
 https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md
 > https://news.ycombinator.com/item?id=29105098
 

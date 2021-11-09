@@ -78,6 +78,12 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
 
 # News
+https://tysonpower.de/blog/spacex-shutdown-part-of-dishys-api-because-of-me-and-others
+> https://news.ycombinator.com/item?id=29135040
+
+https://scribe.rip/telecom-expert/what-is-at-t-doing-at-1111340002-c418876c212c
+> https://news.ycombinator.com/item?id=29135559
+
 https://www.bloomberg.com/news/newsletters/2021-11-01/u-s-telecoms-are-going-to-start-physically-removing-huawei-gear
 > https://news.ycombinator.com/item?id=29066579
 

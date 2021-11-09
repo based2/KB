@@ -23,7 +23,6 @@ A triple star system with a misaligned and warped circumstellar disk shaped by d
 ## Voyager
 https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/
 
-
 # Satellite
 
 https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Reprogrammable_satellite_launched
@@ -95,6 +94,8 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 > https://news.ycombinator.com/item?id=27775089
 
 # News
+https://hackaday.com/2021/11/02/30-days-of-terror-the-logistics-of-launching-the-james-webb-space-telescope/
+
 https://harpers.org/archive/2021/11/ad-astra-the-coming-battle-over-space/
 > https://news.ycombinator.com/item?id=29045286
 

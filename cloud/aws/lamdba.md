@@ -59,6 +59,9 @@ https://aws.amazon.com/en/blogs/compute/serverless-automated-cost-controls-part1
 # Solutions
 https://aws.amazon.com/fr/blogs/compute/creating-a-cost-efficient-amazon-ecs-cluster-for-scheduled-tasks/
 
+# Security
+https://faun.pub/aws-lambda-security-paradox-3002475dbe97
+
 # News
 https://aws.amazon.com/en/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/
 

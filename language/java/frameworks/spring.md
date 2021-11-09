@@ -45,6 +45,8 @@ https://spring.io/blog/2021/10/13/spring-tips-spring-plugin
 https://github.com/codependent/spring-boot-ssl-mutual-authentication
 
 # News
+https://www.reddit.com/r/java/comments/qms7x7/what_is_the_state_of_spring_webflux_and_r2dbc/
+
 https://dimitr.im/spring-interface
 
 https://github.com/hardikSinghBehl/budget-pkce-spring-boot

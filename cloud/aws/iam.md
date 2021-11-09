@@ -30,5 +30,7 @@ https://github.com/iamarkadyt/aws-auth
 # Secrets
 https://aws.amazon.com/en/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
 
+https://github.com/99designs/aws-vault
+
 # SSO
 https://github.com/synfinatic/aws-sso-cli

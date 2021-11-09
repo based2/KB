@@ -46,7 +46,6 @@ http://aigamedev.com/
 
 http://aigamedev.com/open/article/paper-bot/
 
-
 http://molleindustria.org/GamesForCities/
 
 https://py.checkio.org/blog/empire-code-space-strategy-game-checkio/
@@ -58,21 +57,31 @@ https://code.google.com/archive/p/aor-javasim/wikis/ExamplesEconomics.wiki
 https://nicole.express/2021/remember-alf.html
 > https://news.ycombinator.com/item?id=27968292
 
-
 https://mastery.games/post/board-gaming-in-figma/
 > https://news.ycombinator.com/item?id=28770787
 
 https://github.com/colyseus/colyseus
 
-
 https://thebrowser.com/notes/jon-ingold/
-*
 
 https://www.utoronto.ca/news/colour-changing-lizards-buff-birds-u-t-students-create-fun-science-focused-trading-cards
 
 https://www.gabrielgambetta.com/client-server-game-architecture.html
 > https://news.ycombinator.com/item?id=29003727
 
+https://www.vectorstorm.com.au/2008/04/19/how-to-design-an-awesome-game-part-one/
+
+https://vittorioromeo.info/index/blog/oh_secure_leaderboards.html
+
+https://gamehacking.academy/GameHackingAcademy.pdf
+> https://news.ycombinator.com/item?id=29153564
+
+https://godotengine.org/article/godot-3-4-is-released
+
 # Text
 https://if50.substack.com/p/2008-violet
 > https://news.ycombinator.com/item?id=28797079
+
+# Engine
+https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
+> https://news.ycombinator.com/item?id=29136429

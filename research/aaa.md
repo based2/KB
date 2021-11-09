@@ -36,6 +36,12 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+http://www.dtc.umn.edu/~odlyzko/doc/decline.txt
+> https://news.ycombinator.com/item?id=29150562
+
+https://thereader.mitpress.mit.edu/industry-weaponizing-science-agenda/
+> https://news.ycombinator.com/item?id=29161872
+
 https://casrai.org/credit/
 
 https://www.nature.com/articles/d41586-021-02895-8 Giant, free index to world's research papers released online

@@ -22,5 +22,8 @@ https://www.robots.ox.ac.uk/~vgg/research/pass/ An ImageNet replacement for self
 
 https://github.com/darglein/ADOP ADOP: Approximate Differentiable One-Pixel Point Rendering
 
+https://huggingface.co/spaces/akhaliq/AnimeGANv2
+> https://news.ycombinator.com/item?id=29138428
+
 
 

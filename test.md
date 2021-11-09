@@ -25,6 +25,9 @@ https://mockoon.com/
 https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda
 > https://news.ycombinator.com/item?id=27897291
 
+https://github.com/ycd/dstp Common networking tests against your site
+> https://news.ycombinator.com/item?id=29161965
+
 # Load testing
 https://slack.engineering/load-testing-with-koi-pond/
 > https://news.ycombinator.com/item?id=27458909
@@ -38,6 +41,9 @@ https://github.com/ddosify/ddosify
 > https://www.reddit.com/r/netsec/comments/q8kbzp/ddosify_highperformance_load_testing_tool_written/
 
 https://news.ycombinator.com/item?id=29031488
+
+https://ably.com/blog/how-we-load-tested-control-api
+> https://news.ycombinator.com/item?id=29164177
 
 # TDD
 https://factorio.com/blog/post/fff-366

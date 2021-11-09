@@ -14,3 +14,7 @@ https://electrek.co/2021/11/01/tesla-launches-new-solar-roof-tiles-more-power-hi
 
 https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-from-one-square-meter-of-sunlight-675db9d0c819
 > https://news.ycombinator.com/item?id=29077825
+
+# News
+https://www.nrel.gov/docs/fy22osti/80694.pdf
+> https://news.ycombinator.com/item?id=29156787

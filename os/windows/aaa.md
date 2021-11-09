@@ -84,6 +84,8 @@ https://news.ycombinator.com/item?id=28812486
        where /r .\ file_to_find.md
 
 # WSL
+https://github.com/nullpo-head/wsl-distrod
+
 https://devblogs.microsoft.com/commandline/wslg-architecture/
 
 https://superuser.com/questions/1075659/open-ubuntu-bashs-gui-applications-on-windows-10
@@ -97,10 +99,16 @@ https://github.com/haileys/doslinux
 https://www.phoronix.com/scan.php?page=article&item=windows11-wsl2-good&num=1
 > https://news.ycombinator.com/item?id=28693974
 
+https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly
+> https://news.ycombinator.com/item?id=29159990
+
 # 11
 https://github.com/valinet/ExplorerPatcher
 
 # News
+https://www.hanselman.com/blog/its-time-for-you-to-install-windows-terminal
+> https://news.ycombinator.com/item?id=29155198
+
 https://github.com/coofcookie/Windows11Upgrade
 > https://news.ycombinator.com/item?id=29129358
 

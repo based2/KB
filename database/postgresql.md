@@ -198,6 +198,12 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 > https://news.ycombinator.com/item?id=28767637
 
 # News
+https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14
+> https://news.ycombinator.com/item?id=29147656
+
+https://hakibenita.com/postgresql-unknown-features
+> https://news.ycombinator.com/item?id=29163319
+
 https://www.enterprisedb.com/products/biganimal-cloud-postgresql
 
 https://github.com/postgrespro/jsquery

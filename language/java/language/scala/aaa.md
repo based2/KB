@@ -68,6 +68,9 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://discuss.lightbend.com/t/on-the-future-of-akka-lightbend/8997
+> https://news.ycombinator.com/item?id=29116057
+
 https://fs2.io/#/
 
 https://medium.com/virtuslab/scala-3-and-spark-389f7ecef71b

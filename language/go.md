@@ -63,6 +63,12 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://www.dbcore.org/
+> https://news.ycombinator.com/item?id=29154461
+
+https://sebastian-holstein.de/post/2021-11-08-go-1.18-features/
+> https://news.ycombinator.com/item?id=29161458
+
 https://evilmartians.com/chronicles/what-could-go-wrong-with-a-mutex-or-the-go-profiling-story
 
 https://github.com/uber-go/zap

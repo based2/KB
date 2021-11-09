@@ -65,6 +65,13 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://fjolt.com/article/3d-web-gl-javascript-gradient-effect
+
+https://pjreddie.com/courses/computer-vision/
+> https://news.ycombinator.com/item?id=29162650
+
+https://ncine.github.io/spookyghost/
+
 https://web.dev/smoothness/
 > https://news.ycombinator.com/item?id=29108119
 

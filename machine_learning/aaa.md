@@ -243,6 +243,28 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://danshiebler.com/2021-11-06-ml-systems-1/ Improving a Machine Learning System (Part 1 - Broken Abstractions)
+>
+
+https://machinelearningmastery.com/a-tour-of-attention-based-architectures/
+
+https://lair.lighton.ai/akronomicon/
+
+https://xatkit.com/choosing-java-as-your-language-for-a-machine-learning-project/
+> https://www.reddit.com/r/java/comments/qmno9n/choosing_java_as_your_language_for_a_machine/`
+> > https://deeplearning4j.org/
+> > > https://github.com/deeplearning4j/nd4j
+
+https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game
+> https://news.ycombinator.com/item?id=29139884
+
+https://news.ycombinator.com/item?id=29139654 Zillow estimates
+
+https://news.ycombinator.com/item?id=29138122 Ask HN: Why did Google build Alphafold?
+
+https://gist.github.com/shawwn/0e524d4a7a5d8fb152a86616559cc02a How does JAX allocate memory on a TPU?
+> https://news.ycombinator.com/item?id=29128998
+
 https://www.microsoft.com/en-us/research/blog/turing-bletchley-a-universal-image-language-representation-model-by-microsoft/
 
 https://arxiv.org/abs/2110.15032

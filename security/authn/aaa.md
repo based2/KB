@@ -57,6 +57,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://www.authelia.com/docs/
+> https://github.com/authelia/authelia
+
 https://news.ycombinator.com/item?id=29076184
 
 https://blog.warrant.dev/implementing-role-based-access-control

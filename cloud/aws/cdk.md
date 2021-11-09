@@ -6,5 +6,7 @@ https://aws.amazon.com/en/blogs/networking-and-content-delivery/complying-with-c
 
 https://www.reblaze.com/blog/how-to-use-aws-cloudfront-deploying-amazons-cdn-and-using-it-at-a-discount/
 
+https://github.com/pistazie/cdk-dia
+
 # Security
 https://portswigger.net/daily-swig/aws-cloudfront-api-research-reveals-leak-of-partial-account-ids

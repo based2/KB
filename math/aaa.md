@@ -83,6 +83,14 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://castel.dev/post/lecture-notes-1/
+> https://news.ycombinator.com/item?id=29143707
+
+https://twitter.com/rishit_dagli/status/1458080369392209927
+> https://news.ycombinator.com/item?id=29163259
+
+https://news.ycombinator.com/item?id=29131931 Whatever happened to Wolfram Alpha?
+
 https://www.gwern.net/notes/Lions The Math of Hunting Lions
 
 https://mattferraro.dev/posts/geometric-algebra

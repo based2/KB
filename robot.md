@@ -27,6 +27,8 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.wired.com/story/robots-follow-learn-where-go/
+
 https://www.forbes.com/sites/johnkoetsier/2021/11/02/self-driving-farm-robot-uses-lasers-to-kill-100000-weeds-an-hour-saving-land-and-farmers-from-toxic-herbicides/?sh=50f9804070a1
 
 https://news.cgtn.com/news/3d637a4e31677a4d/share_p.html

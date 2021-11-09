@@ -28,7 +28,14 @@ https://syncthing.net/
 
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
-
 # News
+https://raymii.org/s/blog/Yearly_Backup_Restore_test.html
+> https://lobste.rs/s/ejrhd5/yearly_backup_restore_test
+
+https://www.collicutt.co.uk/notebook/backups.html
+> https://www.backblaze.com/blog/the-3-2-1-backup-strategy/
+> https://lobste.rs/s/kynguh/backups_corruption
+
 https://web.archive.org/web/20210122221327/http://www.lbackup.org/synchronizing_disk_images_between_machines osx
+
 https://news.ycombinator.com/item?id=28957573 Ask HN: Best way to host a website for 500 years?

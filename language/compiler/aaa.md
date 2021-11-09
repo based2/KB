@@ -89,6 +89,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://blog.regehr.org/archives/2173 A Close Look at a Spinlock
+
 http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf An Incremental Approach to Compiler Construction
 > https://news.ycombinator.com/item?id=29123715
 

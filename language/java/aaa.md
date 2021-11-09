@@ -248,6 +248,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://devblogs.microsoft.com/java/microsoft-deepens-its-investments-in-java/
+
 https://openjdk.java.net/jeps/421 JEP 421: Deprecate Finalization for Removal
 
 https://foojay.io/

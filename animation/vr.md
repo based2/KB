@@ -8,3 +8,6 @@ https://simulavr.com/
 > https://news.ycombinator.com/item?id=28691358
 
 https://blog.mozvr.com/link-traversal/
+
+https://www.simulavr.com/
+> https://news.ycombinator.com/item?id=29157574

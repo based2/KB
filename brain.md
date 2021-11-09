@@ -15,5 +15,8 @@ https://www.sciencealert.com/a-never-before-seen-type-of-signal-has-been-detecte
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/
+> https://news.ycombinator.com/item?id=29155637
+
 https://www.cea.fr/english/Pages/News/premieres-images-irm-iseult-2021.aspx
 > https://news.ycombinator.com/item?id=29061625

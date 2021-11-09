@@ -71,6 +71,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://www.jsoniq.org/
+> https://news.ycombinator.com/item?id=29159343
+
 https://www.mistql.com/
 > https://news.ycombinator.com/item?id=29050685
 

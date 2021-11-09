@@ -182,7 +182,25 @@ https://news.ycombinator.com/item?id=28845971 macro
 https://github.com/carp-lang/Carp
 > https://github.com/carp-lang/Carp
 
+https://ambrevar.xyz/modern-common-lisp/
+> https://news.ycombinator.com/item?id=29153440
+
 # News
+https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/ Concurrency in Julia
+> https://news.ycombinator.com/item?id=29165123
+
+https://arxiv.org/abs/2001.04817 Parking Functions: Choose Your Own Adventure
+> https://news.ycombinator.com/item?id=29138728
+
+https://patents.google.com/patent/US20100175048A1/en Architecture that extends types using extension methods
+> https://news.ycombinator.com/item?id=29135934
+> https://aura-docs.readthedocs.io/en/latest/quick_start/using_an_aura_package.html
+
+https://discourse.haskell.org/t/an-epic-future-for-spj/3573 verse vr
+> https://news.ycombinator.com/item?id=29131996
+
+https://jesper.sikanda.be/posts/1001-syntax-representations.html
+
 http://www.call-with-current-continuation.org/fleng/fleng.html
 
 https://news.ycombinator.com/item?id=29077933 devutils

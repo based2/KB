@@ -58,6 +58,11 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://news.ycombinator.com/item?id=29137127 Ask HN: With Ubuntu pushing snaps, are you considering moving to another OS?
+
+https://twitter.com/moyix/status/1456857178996883456
+> https://arxiv.org/abs/2102.07485 Interface Compliance of Inline Assembly: Automatically Check, Patch and Refine
+
 https://www.redhat.com/en/blog/whats-new-rhel-90-beta
 
 https://fedoramagazine.org/announcing-fedora-35/

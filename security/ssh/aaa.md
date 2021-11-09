@@ -102,6 +102,12 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://disknotifier.com/blog/simple-ssh-security/
+> https://news.ycombinator.com/item?id=29153223
+
+https://infosec.mozilla.org/guidelines/openssh
+> https://news.ycombinator.com/item?id=29156683
+
 https://console.dev/articles/ssh-alternatives-for-mobile-low-latency-unreliable-connections/
 > https://news.ycombinator.com/item?id=29081008
 

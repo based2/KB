@@ -17,6 +17,15 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.lifeofguenter.de/2021/11/fasters-dereferer-service-with-aws-global-accelerator.html
+> https://news.ycombinator.com/item?id=29158742
+
+https://blog.min.io/minio-multi-site-active-active-replication/
+
+https://blog.min.io/the-architects-guide-to-the-multi-cloud/
+
+https://area67.org/2020/01/17/the-clouds-and-the-dirt-of-low-no-code/
+
 https://pi-colocation.com/
 > https://news.ycombinator.com/item?id=29130467
 

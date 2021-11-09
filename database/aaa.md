@@ -24,7 +24,6 @@ https://emilyriederer.netlify.app/post/column-name-contracts/
 https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 > https://news.ycombinator.com/item?id=26926225 panda
 
-
 #
 https://www.grouparoo.com/blog/varchar-191
 > https://news.ycombinator.com/item?id=27186385
@@ -63,6 +62,12 @@ https://github.com/jepsen-io/elle
 https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 
 # News
+https://rachelbythebay.com/w/2021/11/06/sql/
+> https://news.ycombinator.com/item?id=29137141
+
+https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/
+> https://news.ycombinator.com/item?id=29132572
+
 https://pradeepchhetri.xyz/clickhousevstimescaledb/
 > https://news.ycombinator.com/item?id=29096541
 
@@ -70,7 +75,6 @@ https://blog.mireo.hr/mireo-spacetime-outperforms-geomesa
 
 https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/
 > https://news.ycombinator.com/item?id=29001285
-
 
 https://news.ycombinator.com/item?id=28741292
 

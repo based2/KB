@@ -97,5 +97,8 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/
+> https://news.ycombinator.com/item?id=29116026
+
 https://rajivsethi.substack.com/p/notes-on-a-remarkable-finding-from
 

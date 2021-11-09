@@ -73,6 +73,11 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://www.internetsociety.org/blog/2021/11/nis2-security-resiliency-and-dns-server-infrastructure/
+
+You can't CNAME on the apex of a domain, its against the RFC.
+OP can use alias records in AWS or use a DNS provider like cloudflare that ignores the RFC.
+
 https://citizenlab.ca/2021/11/gfwatch-a-longitudinal-measurement-platform-built-to-monitor-chinas-dns-censorship-at-scale/
 
 https://news.ycombinator.com/item?id=29049350 

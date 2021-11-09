@@ -21,6 +21,11 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 # Dmoz
 
 # News
+https://join-lemmy.org
+
+https://ichi.city/
+> https://news.ycombinator.com/item?id=29133137
+
 https://www.theglobeandmail.com/world/article-facebook-will-let-kazakhstan-government-directly-flag-content-the/
 
 https://web.archive.org/web/20200530215533/http://www.opencobalt.net/home

@@ -56,6 +56,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://blog.thinkst.com/2021/11/a-kubeconfig-canarytoken.html
+
 https://linkerd.io/2021/10/26/how-linkerd-retries-http-requests-with-bodies/
 
 https://www.useboomerang.io/

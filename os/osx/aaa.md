@@ -124,8 +124,8 @@ https://www.cdfinder.de/guide/blog/apple_hell.html
 #
 https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
 > https://news.ycombinator.com/item?id=27151993
-  > https://code.visualstudio.com/docs/remote/remote-overview
-  > https://www.maconlinux.net/
+> > https://code.visualstudio.com/docs/remote/remote-overview
+> > https://www.maconlinux.net/
 
 # News
 https://news.ycombinator.com/item?id=29079096 brew alt

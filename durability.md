@@ -37,6 +37,9 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 > https://news.ycombinator.com/item?id=28018057
 
 # News
+https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever
+> https://news.ycombinator.com/item?id=29132491
+
 https://www.cbc.ca/radio/quirks/oct-23-vikings-in-newfoundland-new-rocks-from-the-moon-making-wood-better-and-more-1.6219865/scientists-have-found-a-way-to-harden-wood-to-make-a-knife-that-rivals-steel-1.6219874
 
 https://arstechnica.com/gadgets/2021/09/fairphone-4-has-an-incredible-5-year-warranty-aims-for-6-years-of-updates/

@@ -34,6 +34,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://www.cnx-software.com/2021/10/20/alibaba-open-source-risc-v-cores-xuantie-e902-e906-c906-and-c910/
+> https://news.ycombinator.com/item?id=29140664
+
 https://semiengineering.com/high-level-synthesis-for-risc-v/
 
 https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/

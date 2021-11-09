@@ -12,6 +12,8 @@ https://aws.amazon.com/en/blogs/compute/building-well-architected-serverless-app
 
 https://aws.amazon.com/en/blogs/compute/developing-evolutionary-architecture-with-aws-lambda/`
 
+https://tastefulelk.hashnode.dev/combining-serverless-framework-and-aws-cdk
+
 # Security
 https://aws.amazon.com/en/blogs/compute/building-well-architected-serverless-applications-managing-application-security-boundaries-part-1/
 > https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html

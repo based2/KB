@@ -208,6 +208,16 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.kaggle.com/kaggle-survey-2021
+> https://news.ycombinator.com/item?id=29144624
+
+https://github.com/stitchfix/hamilton Micro-framework to create dataframes from function. Python
+> https://news.ycombinator.com/item?id=29158021
+
+https://blog.acolyer.org/2020/12/14/entity-resolution/
+
+https://ryxcommar.com/2021/11/06/zillow-prophet-time-series-and-prices/
+
 https://jitsu.com/
 > https://news.ycombinator.com/item?id=29106082
 

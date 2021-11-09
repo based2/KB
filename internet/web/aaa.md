@@ -53,6 +53,19 @@ https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/
 > https://news.ycombinator.com/item?id=29117022
 
 # News
+https://www.mooreds.com/wordpress/archives/3451
+> https://news.ycombinator.com/item?id=29154216
+
+https://ghuntley.com/sudo-rm-rf/
+> https://news.ycombinator.com/item?id=29160672
+
+https://www.lightbluetouchpaper.org/2021/11/09/rollercoaster-communicating-efficiently-and-anonymously-in-large-groups/
+> https://news.ycombinator.com/item?id=29163410
+
+https://indieweb.org/POSSE
+
+https://web.dev/lighthouse-user-flows/
+
 https://web.dev/storage-foundation/
 > https://news.ycombinator.com/item?id=29076656
 

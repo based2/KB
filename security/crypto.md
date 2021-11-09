@@ -85,6 +85,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://eprint.iacr.org/2020/866 Development of The RISC-V Entropy Source Interface
+
 https://cpl.thalesgroup.com/2020/03/24/bitslicing-constant-time-cryptography
 > https://news.ycombinator.com/item?id=29055658
 

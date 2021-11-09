@@ -13,6 +13,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://webinfo.uk/webdocssl/irse-kbase/ref-viewer.aspx?refno=1559669757&document=2.10%20strangaric%20-%20legacy%20train%20control%20system%20stabilisation.pdf
+> https://news.ycombinator.com/item?id=29157259
+
 https://www.theguardian.com/artanddesign/2021/sep/22/british-rail-logo-designer-appalled-by-green-makeover-mess
 
 https://www.theguardian.com/us-news/2021/sep/16/battery-electric-freight-train-wabtec-rail-transport-emissions

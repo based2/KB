@@ -46,6 +46,11 @@ https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://annexi-strayline.com/blog/posts/4
+> https://news.ycombinator.com/item?id=29115620
+
+https://apps.dtic.mil/sti/pdfs/ADA246667.pdf Ada and X Window System Integration
+
 https://eclipse-ee4j.github.io/cdi/2021/10/25/way-to-cdi4.html
 > https://www.reddit.com/r/java/comments/qmkxlc/on_the_way_to_cdi_40/
 

@@ -113,6 +113,11 @@ https://asciiflow.com/#/
 
 
 # News
+https://docs.umh.app/docs/concepts/node-red-in-industrial-iot/
+> https://news.ycombinator.com/item?id=29163866
+
+https://news.ycombinator.com/item?id=29139581
+
 https://blog.ilograph.com/posts/beyond-whiteboarding-creating-expert-system-architecture-diagrams/
 > https://news.ycombinator.com/item?id=29093348
 

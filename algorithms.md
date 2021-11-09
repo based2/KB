@@ -106,3 +106,5 @@ https://thedailywtf.com/articles/a-bit-overcomplicated
 
 https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge
 > https://news.ycombinator.com/item?id=28010077
+
+https://www.algorithm-archive.org/
