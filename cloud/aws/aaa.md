@@ -68,6 +68,10 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/fr/service-terms/historical/2020-03-23/
 
 # News
+https://aws.amazon.com/en/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/
+> https://steampipe.io/
+>
+
 https://aws.amazon.com/en/about-aws/whats-new/2021/11/amazon-cloudfront-supports-cors-security-custom-http-response-headers/
 
 https://aws.amazon.com/en/about-aws/whats-new/2021/11/aws-secrets-manager-increases-secrets-limit-per-account/

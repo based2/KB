@@ -186,6 +186,16 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://swtch.com/~rsc/systems-2002.pdf Toward a new systems programming environment
+> https://news.ycombinator.com/item?id=29177698
+
+https://news.ycombinator.com/item?id=29182386 Ask HN: What are some of the best well-written books on computer science?
+
+https://ingenuity.siemens.com/2021/11/the-people-behind-25-years-of-logo-helmut-schindler/
+> https://news.ycombinator.com/item?id=29187410
+
+https://turingcomplete.game/
+
 https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/ Concurrency in Julia
 > https://news.ycombinator.com/item?id=29165123
 

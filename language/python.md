@@ -174,6 +174,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://www.pygaze.org/
+> https://news.ycombinator.com/item?id=29171416
+
+https://www.benfrederickson.com/why-python-needs-paused-during-profiling/
+> https://news.ycombinator.com/item?id=29170093
+
 https://www.die-welt.net/2021/11/i-just-want-to-run-this-one-python-script/
 > https://news.ycombinator.com/item?id=29147087
 

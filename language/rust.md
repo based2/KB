@@ -282,6 +282,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://leerob.io/blog/rust
+> https://news.ycombinator.com/item?id=29192088
+
 https://www.eenewseurope.com/news/arm-joins-rust-foundation
 > https://news.ycombinator.com/item?id=29161633
 

@@ -52,3 +52,6 @@ https://www.dimensions.com/
 
 https://calmtech.com/
 > https://news.ycombinator.com/item?id=29115653
+
+https://smitop.com/post/gmail-s-fake-loading-indicator/
+> https://news.ycombinator.com/item?id=29184858

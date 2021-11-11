@@ -13,6 +13,9 @@ https://news.ycombinator.com/item?id=27315208
 https://boringseo.org/
 > https://news.ycombinator.com/item?id=28706570
 
+https://allisonseboldt.com/experimenting-with-programmatic-seo/
+> https://news.ycombinator.com/item?id=29189862
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

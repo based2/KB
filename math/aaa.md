@@ -83,6 +83,10 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+http://adelelopez.com/chu-are-you
+> https://news.ycombinator.com/item?id=29183890
+> http://chu.stanford.edu/guide.html
+
 https://castel.dev/post/lecture-notes-1/
 > https://news.ycombinator.com/item?id=29143707
 

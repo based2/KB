@@ -17,6 +17,13 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://cloud.google.com/solutions/federal-government/defense
+> https://news.ycombinator.com/item?id=29167284
+
+https://www.openfaas.com/blog/long-running-jobs/
+
+https://cloudoptimizer.io/
+
 https://www.lifeofguenter.de/2021/11/fasters-dereferer-service-with-aws-global-accelerator.html
 > https://news.ycombinator.com/item?id=29158742
 

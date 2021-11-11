@@ -20,6 +20,12 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.cnbc.com/2021/10/31/bitcoin-mining-giants-bitdeer-riot-blockchain-in-rockdale-texas.html
+> https://news.ycombinator.com/item?id=29187390
+
+https://www.bloomberg.com/opinion/articles/2021-11-09/matt-levine-s-money-stuff-doing-fraud-on-securities-fraud
+> https://news.ycombinator.com/item?id=29165021
+
 https://twitter.com/JTheAccountant/status/1456835909303869447
 > https://www.congress.gov/bill/117th-congress/house-bill/3684/text digital assets
 

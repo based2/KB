@@ -86,6 +86,9 @@ https://github.com/rastapasta/mapscii
 https://github.com/rastapasta/mapscii
 > https://news.ycombinator.com/item?id=27387585
 
+https://pessimistress.github.io/ascii/
+> https://news.ycombinator.com/item?id=29183696
+
 #
 https://minecraft.geoportail.lu/
 

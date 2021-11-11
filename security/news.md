@@ -1,3 +1,33 @@
+https://techxplore.com/news/2021-10-cryptography-game-changer-biomedical-scale.html
+
+https://thenewstack.io/zero-trust-security-and-the-software-development-lifecycle/
+
+https://certitude.consulting/blog/en/invisible-backdoor/
+> https://news.ycombinator.com/item?id=29170954
+
+https://arstechnica.com/gadgets/2021/11/vpn-vulnerability-on-10k-servers-has-severity-rating-of-9-8-out-of-10/
+
+https://research.nccgroup.com/2021/10/27/public-report-whatsapp-end-to-end-encrypted-backups-security-assessment/
+> https://news.ycombinator.com/item?id=29181513
+
+https://security.googleblog.com/2021/11/clusterfuzzlite-continuous-fuzzing-for.html
+> https://news.ycombinator.com/item?id=29188664
+
+https://www.schneier.com/blog/archives/2021/11/advice-for-personal-digital-security.html
+> https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/
+> https://news.ycombinator.com/item?id=29188216
+
+https://www.redhat.com/en/blog/hardening-elf-binaries-using-relocation-read-only-relro
+> https://news.ycombinator.com/item?id=29186252
+
+https://www.paradigm.xyz/2021/11/hiding-in-plain-sight/ ethereum
+
+https://www.intruder.io/research/practical-http-header-smuggling
+> https://news.ycombinator.com/item?id=29189212
+
+https://www.nrc.nl/nieuws/2021/11/10/american-spy-hacked-bookingcom-company-stayed-silent-a4065086
+> https://news.ycombinator.com/item?id=29185295
+
 https://torrentfreak.com/denuvo-protected-games-rendered-unplayable-after-domain-expires-211108/
 > https://news.ycombinator.com/item?id=29149555
 
@@ -125,6 +155,7 @@ https://news.ycombinator.com/item?id=28977313
 http://www.noiseprotocol.org/
 
 https://news.ycombinator.com/item?id=28962168 NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised
+> https://www.bleepingcomputer.com/news/security/popular-npm-library-hijacked-to-install-password-stealers-miners/
 
 https://docs.google.com/document/d/1xOWmMueHHRke9aj3oRqNBgK69Y19hgZ7ehM4H9_Me-Y/edit
 

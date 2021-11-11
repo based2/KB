@@ -74,6 +74,10 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://manybutfinite.com/post/kernel-boot-process/
+
+https://github.com/nuta/kerla Monolithic operating system kernel written from scratch in Rust which aims to be compatible with the Linux ABI, that is, it runs Linux binaries without any modifications. Rust
+
 https://shorez.de/linux-on-the-m-1-with-gpu-acceleration
 > https://news.ycombinator.com/item?id=29144074
 

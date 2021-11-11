@@ -24,7 +24,7 @@ https://www.netmeister.org/blog/infosec-competencies.html
 https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
 > https://lobste.rs/s/3vyuwa/typed_programs_don_t_leak_data
 > https://news.ycombinator.com/item?id=27654807
-  > https://codahale.com/a-lesson-in-timing-attacks/
+> > https://codahale.com/a-lesson-in-timing-attacks/
 
 https://hardenedvault.net/2021/07/16/ciso-seceng_csme.html
 
@@ -63,7 +63,6 @@ https://www.errno.fr/BloodhoundForLinux.html
 # Analysis
 https://github.com/geohot/qira
 > https://news.ycombinator.com/item?id=26845775
-
 
 # Random
 https://www.johndcook.com/blog/2021/04/29/reinventing-rng/

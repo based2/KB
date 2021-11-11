@@ -15,6 +15,17 @@ https://www.sciencealert.com/a-never-before-seen-type-of-signal-has-been-detecte
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://github.com/Ildaron/ironbci
+> https://news.ycombinator.com/item?id=29192073
+
+https://www.sciencealert.com/brain-implant-enables-paralyzed-man-to-communicate-thoughts-via-imaginary-handwriting
+> https://news.ycombinator.com/item?id=29174280
+
+https://arstechnica.com/science/2021/09/understanding-neuromorphic-computing-and-why-intels-excited-about-it/
+
+https://mdpi-res.com/d_attachment/electronics/electronics-09-02123/article_deploy/electronics-09-02123.pdf
+> https://news.ycombinator.com/item?id=29165073
+
 https://www.quantamagazine.org/new-science-shows-immune-memory-in-the-brain-20211108/
 > https://news.ycombinator.com/item?id=29155637
 

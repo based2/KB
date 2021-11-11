@@ -33,3 +33,7 @@ https://data.finlex.fi/en/main Semantic Finlex – Finnish Law and Justice as Li
 > https://news.ycombinator.com/item?id=27189362
 
 https://github.com/etalab/codes-juridiques-francais/tree/master/codes-en-vigueur/code-de-la-route
+
+# News
+https://copy-this-book.eu/ An artist’s guide to copyright
+> https://news.ycombinator.com/item?id=29190603

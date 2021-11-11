@@ -45,6 +45,9 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://www.cs.umd.edu/~gasarch/BLOGPAPERS/cbit-4-2.pdf Reflections on Trusting ‘Trustlessness’ in the era of “Crypto”/Blockchains
+> https://news.ycombinator.com/item?id=29145946
+
 https://antsstyle.medium.com/explanation-of-blockchain-consensus-algorithms-pow-pos-etc-735fa50d93c8
 
 https://research.checkpoint.com/2021/check-point-research-prevents-theft-of-crypto-wallets-on-opensea-the-worlds-largest-nft-marketplace/

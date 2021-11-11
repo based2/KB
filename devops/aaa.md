@@ -101,6 +101,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://utteranc.es/
+> https://news.ycombinator.com/item?id=29189923
+
 https://techcrunch.com/2021/11/09/cascade-labs-raises-5-3m-for-its-no-code-data-automation-platform/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAAHvJx1NbiapkEHEly8lV2GK0W-ZeAlxpnAw7lsn8tbNjvutlEq6EtCvTIQ_yQN0JkDEiBCsKABgS8BIJKVKZl1Jm2fE2qMz__iGqbag1909XoUPaNBhwcw3QxVM5Efo0-utuVH59MBhhZV-MuG1KYCyk6JhTkelAHEIHV8iGI5s
 
 https://trufflesecurity.com/blog/driftwood Driftwood: Know if Private Keys are Sensitive

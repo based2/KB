@@ -25,5 +25,7 @@ https://github.com/darglein/ADOP ADOP: Approximate Differentiable One-Pixel Poin
 https://huggingface.co/spaces/akhaliq/AnimeGANv2
 > https://news.ycombinator.com/item?id=29138428
 
+https://github.com/yeemachine/kalidokit
+> https://news.ycombinator.com/item?id=29179566
 
 

@@ -18,6 +18,9 @@ https://dither8.xyz/blog/img-future/
 > https://news.ycombinator.com/item?id=28219972
 
 # News
+https://tedium.co/2021/11/10/10-forgotten-image-formats/
+> https://news.ycombinator.com/item?id=29175656
+
 https://internetobject.org/
 > https://news.ycombinator.com/item?id=28977345
 

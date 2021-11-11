@@ -128,6 +128,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://www.apple.com/business/essentials/
+> https://news.ycombinator.com/item?id=29175311
+
 https://news.ycombinator.com/item?id=29079096 brew alt
 
 https://www.corbinstreehouse.com/blog/2021/10/macos-12-monterey-and-user-interface-inconsistencies/

@@ -73,6 +73,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://dnsleaktest.com/
+
 https://www.internetsociety.org/blog/2021/11/nis2-security-resiliency-and-dns-server-infrastructure/
 
 You can't CNAME on the apex of a domain, its against the RFC.

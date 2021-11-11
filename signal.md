@@ -10,6 +10,9 @@ https://ajxs.me/blog/Yamaha_DX7_Technical_Analysis.html
 
 https://medium.com/@trismegistus13/spectrograms-or-how-i-learned-to-stop-worrying-and-love-audio-signal-processing-for-machine-d28c022ca5ca
 
+https://www.cavelink.com/cl3x_neu/index.php/en/
+> https://news.ycombinator.com/item?id=29161153
+
 # FFT
 https://www.earlevel.com/main/2002/08/31/a-gentle-introduction-to-the-fft/
 > https://news.ycombinator.com/item?id=28926775

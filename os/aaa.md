@@ -16,6 +16,9 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://mudita.com/community/blog/muditaos-and-mudita-center-code-is-now-fully-open-source/
+> https://news.ycombinator.com/item?id=29174281
+
 https://jott.live/markdown/building_stuff_from_source
 > https://news.ycombinator.com/item?id=29125380
 

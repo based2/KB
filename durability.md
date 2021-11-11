@@ -37,6 +37,9 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 > https://news.ycombinator.com/item?id=28018057
 
 # News
+https://www.thetruthaboutcars.com/2021/11/right-to-repair-victory-forces-subaru-to-tweak-things-in-massachusetts/
+> https://news.ycombinator.com/item?id=29182115
+
 https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever
 > https://news.ycombinator.com/item?id=29132491
 

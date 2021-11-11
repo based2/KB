@@ -12,6 +12,11 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://news.ycombinator.com/item?id=29167000
+
+https://windswept-and-interesting.co.uk/
+> https://news.ycombinator.com/item?id=29158940
+
 https://smallcaps.com.au/china-supercharge-uranium-race-150-new-nuclear-reactors/
 > https://news.ycombinator.com/item?id=29151741
 

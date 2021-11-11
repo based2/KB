@@ -154,7 +154,6 @@ https://ohshitgit.com/
 
 https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/
 
-
 https://goiabada.blog/git-tricks-avoid-solving-the-same-rebase-conflict-multiple-times-9a3afbcf1d22
 
 https://hal.inria.fr/hal-01112795/document HAL Id: hal-01112795https://hal.inria.fr/hal-01112795Submitted on 3 Feb 2015HALis a multi-disciplinary open accessarchive for the deposit and dissemination of sci-entific research documents, whether they are pub-lished or not. The documents may come fromteaching and research institutions in France orabroad, or from public or private research centers.L’archive ouverte pluridisciplinaireHAL, estdestinée au dépôt et à la diffusion de documentsscientifiques de niveau recherche, publiés ou non,émanant des établissements d’enseignement et derecherche français ou étrangers, des laboratoirespublics ou privés.An Effective Git And Org-Mode Based Workflow ForReproducible Research
@@ -211,6 +210,9 @@ https://yosefk.com/blog/dont-ask-if-a-monorepo-is-good-for-you-ask-if-youre-good
 
 https://medium.com/@amir_h/which-version-control-system-should-i-choose-for-a-monorepo-in-2021-13a6ed532108
 
+https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/
+> https://news.ycombinator.com/item?id=29188863
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
@@ -232,6 +234,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://riskledger.com/blog/git-basics-at-risk-ledger/
+> https://news.ycombinator.com/item?id=29162234
+
 https://visualgit.io/news.html#20211031
 > https://news.ycombinator.com/item?id=29062679
 

@@ -22,6 +22,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://twitter.com/TheIdOfAlan/status/1458117496087748618
+> https://news.ycombinator.com/item?id=29186222
+
 https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem
 > https://news.ycombinator.com/item?id=29164727
 

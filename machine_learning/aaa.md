@@ -78,9 +78,6 @@ https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learning
 https://www.louisbouchard.ai/4k-image-translation-in-real-time/
 > https://news.ycombinator.com/item?id=27343670
 
-
-
-
 # Code assistant
 https://copilot.github.com/
 > https://news.ycombinator.com/item?id=27676266
@@ -243,8 +240,15 @@ https://eval.ai/
 https://news.ycombinator.com/item?id=28343118
 
 # News
+https://nlpcloud.io/effectively-using-gpt-j-gpt-neo-gpt-3-alternatives-few-shot-learning.html
+> https://news.ycombinator.com/item?id=29176156
+
+https://uwaterloo.ca/news/media/new-ai-brings-power-natural-language-processing-african
+> https://news.ycombinator.com/item?id=29162380
+
+https://news.ycombinator.com/item?id=29179429 Cedille, the largest French language model, released in open source
+
 https://danshiebler.com/2021-11-06-ml-systems-1/ Improving a Machine Learning System (Part 1 - Broken Abstractions)
->
 
 https://machinelearningmastery.com/a-tour-of-attention-based-architectures/
 

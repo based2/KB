@@ -208,6 +208,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://tablum.io/
+> https://news.ycombinator.com/item?id=29187307
+
 https://www.kaggle.com/kaggle-survey-2021
 > https://news.ycombinator.com/item?id=29144624
 

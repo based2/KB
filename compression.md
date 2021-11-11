@@ -62,3 +62,6 @@ https://ayende.com/blog/193955-A/sorted-integer-compression
 
 https://github.com/facebook/zstd/releases/tag/v1.5.0
 > https://news.ycombinator.com/item?id=27155857
+
+https://github.com/Jarred-Sumner/hop tar like
+> https://news.ycombinator.com/item?id=29178710

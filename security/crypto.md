@@ -61,6 +61,9 @@ https://www.theregister.com/2021/06/02/openpgp_rnp_library/
 https://sequoia-pgp.org/blog/2021/10/18/202110-sequoia-pgp-is-now-lgpl-2.0/
 > https://news.ycombinator.com/item?id=28906099
 
+https://github.com/pojntfx/keygaen Keygaen – Go WASM PWA for PGP
+> https://news.ycombinator.com/item?id=29181594
+
 #
 https://media.ccc.de/v/34c3-9075-latticehacks
 

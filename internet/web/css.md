@@ -169,6 +169,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://smolcss.dev/
+> https://news.ycombinator.com/item?id=29175851
+
 https://www.polytomic.com/blog-posts/goodbye-css-modules-hello-tailwindcss
 > https://news.ycombinator.com/item?id=29109881
 

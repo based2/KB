@@ -45,5 +45,8 @@ https://github.com/vegarsti/extract-table
 https://huonw.github.io/blog/2021/09/qr-error-correction/
 > https://news.ycombinator.com/item?id=28677687
 
+https://sw.ink/create
+> https://news.ycombinator.com/item?id=29188474
+
 # Object labelling
 https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera

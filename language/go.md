@@ -63,6 +63,8 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://go.dev/blog/pkgsite-search-redesign
+
 https://www.dbcore.org/
 > https://news.ycombinator.com/item?id=29154461
 

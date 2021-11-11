@@ -184,6 +184,15 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://code.gouv.fr/#/repos
+> https://news.ycombinator.com/item?id=29182551
+
+https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html
+> https://news.ycombinator.com/item?id=29180285
+
+https://www.oss-port.com/
+> https://thenewstack.io/codesee-helps-developers-understand-the-codebase/
+
 https://daltonlens.org/opensource-cvd-simulation/
 
 https://github.com/joeycastillo/The-Open-Book
