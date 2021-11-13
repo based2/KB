@@ -69,3 +69,5 @@ https://vladmihalcea.com/eight-years-of-blogging/
 https://thorben-janssen.com/spring-data-jpa-state-detection/
 
 https://in.relation.to/2021/09/14/ready-for-jdk17/
+
+https://vladmihalcea.com/maven-gradle-hibernate-enhance-plugin/

@@ -46,6 +46,9 @@ https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://blog.adacore.com/ada-on-any-arm-cortex-m-device-in-just-a-couple-minutes
+> https://news.ycombinator.com/item?id=29191760
+
 https://annexi-strayline.com/blog/posts/4
 > https://news.ycombinator.com/item?id=29115620
 

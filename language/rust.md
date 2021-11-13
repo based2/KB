@@ -129,6 +129,9 @@ https://blog.yoshuawuyts.com/async-overloading/
 
 https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c81a5f350a3
 
+https://eta.st/2021/03/08/async-rust-2.html
+> https://news.ycombinator.com/item?id=29208196
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -282,6 +285,14 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/
+> https://news.ycombinator.com/item?id=29207397
+
+https://ihatereality.space/04-what-mutref-to-slice-ref-means/
+> https://lobste.rs/s/w0buyv/what_does_mut_t_mean
+
+https://arunanshub.hashnode.dev/self-referential-structs-in-rust
+
 https://leerob.io/blog/rust
 > https://news.ycombinator.com/item?id=29192088
 

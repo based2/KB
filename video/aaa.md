@@ -77,6 +77,10 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://gitlab.freedesktop.org/pipewire/pipewire/-/tree/master Server and user space API to deal with multimedia pipelines
+
+https://github.com/o-oconnell/mp4grep
+
 https://olivierlacan.com/posts/high-fidelity-remote-communication/
 > https://news.ycombinator.com/item?id=29086465
 

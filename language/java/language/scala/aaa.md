@@ -68,6 +68,8 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863
+
 https://discuss.lightbend.com/t/on-the-future-of-akka-lightbend/8997
 > https://news.ycombinator.com/item?id=29116057
 

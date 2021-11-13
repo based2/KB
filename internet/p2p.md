@@ -43,6 +43,8 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://git.scuttlebot.io/%25RPKzL382v2fAia5HuDNHD5kkFdlP7bGvXQApSXqOBwc%3D.sha256
+
 https://www.cubbit.io/zero-knowledge-cloud-storage
 
 https://github.com/amule-project/amule/releases/tag/2.3.3

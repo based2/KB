@@ -12,6 +12,9 @@ https://www.gwern.net/Search
 > https://pdfbox.apache.org/
 
 https://github.com/searx/searx
+> https://sagrista.info/blog/2021/searx-or-duckduckgo/
+> > https://news.ycombinator.com/item?id=29198575
+> > > https://www.gnod.com/search/
 
 https://github.com/amirgamil/apollo
 > https://news.ycombinator.com/item?id=27961185

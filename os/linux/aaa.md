@@ -74,6 +74,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://decoded.legal/blog/2021/11/running-a-law-firm-on-linux
+> https://news.ycombinator.com/item?id=29199395
+
 https://manybutfinite.com/post/kernel-boot-process/
 
 https://github.com/nuta/kerla Monolithic operating system kernel written from scratch in Rust which aims to be compatible with the Linux ABI, that is, it runs Linux binaries without any modifications. Rust

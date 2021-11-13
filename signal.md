@@ -20,3 +20,7 @@ https://www.earlevel.com/main/2002/08/31/a-gentle-introduction-to-the-fft/
 # VHF
 https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280
+
+# News
+https://www.lancaster.ac.uk/news/nuclear-radiation-used-to-transmit-digital-data-wirelessly
+> https://news.ycombinator.com/item?id=29202887

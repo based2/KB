@@ -70,7 +70,7 @@ https://aws.amazon.com/en/service-terms/ 42.10
 # News
 https://aws.amazon.com/en/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/
 > https://steampipe.io/
->
+> https://news.ycombinator.com/item?id=29191428
 
 https://aws.amazon.com/en/about-aws/whats-new/2021/11/amazon-cloudfront-supports-cors-security-custom-http-response-headers/
 

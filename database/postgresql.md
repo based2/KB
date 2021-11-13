@@ -198,6 +198,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 > https://news.ycombinator.com/item?id=28767637
 
 # News
+https://github.com/yandex/odyssey Advanced multi-threaded PostgreSQL connection pooler and request router
+> https://news.ycombinator.com/item?id=29201000
+
 https://www.postgresql.fastware.com/blog/what-is-the-new-lz4-toast-compression-in-postgresql-14
 > https://news.ycombinator.com/item?id=29147656
 

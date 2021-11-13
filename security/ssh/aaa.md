@@ -102,6 +102,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://www.agwa.name/blog/post/ssh_signatures
+> https://news.ycombinator.com/item?id=29208518
+
 https://disknotifier.com/blog/simple-ssh-security/
 > https://news.ycombinator.com/item?id=29153223
 

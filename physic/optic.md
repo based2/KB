@@ -20,3 +20,6 @@ https://spectrum.ieee.org/optical-switch-1000x-faster-transistors
 
 https://phys.org/news/2021-11-diffractive-optical-networks-reconstruct-holograms.html
 
+https://github.com/bencbartlett/3D-printed-mirror-array
+> https://news.ycombinator.com/item?id=29191918
+

@@ -186,6 +186,12 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://users.cs.duke.edu/~vahdat/ps/mop.pdf Metaobject protocols: Why we want them and what else they can do
+> https://news.ycombinator.com/item?id=29207794
+
+https://blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software/
+> https://news.ycombinator.com/item?id=29209353
+
 https://swtch.com/~rsc/systems-2002.pdf Toward a new systems programming environment
 > https://news.ycombinator.com/item?id=29177698
 

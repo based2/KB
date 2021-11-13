@@ -24,6 +24,11 @@ https://changelog.com/posts/you-might-as-well-timestamp-it
 Building a command-line time tracker in shell script
 https://news.ycombinator.com/item?id=26545976
 
+https://ajusa.github.io/nestly/#/
+> https://news.ycombinator.com/item?id=29198763
+
+https://github.com/davidecavestro/jttslite
+
 # Time Zone
 https://github.com/oz/tz
 > https://news.ycombinator.com/item?id=26537559
@@ -178,6 +183,9 @@ https://bibliodyssey.blogspot.com/2010/04/time-after-time.html
 > https://news.ycombinator.com/item?id=28848096
 
 # News
+https://github.com/mvrozanti/dte Dte: A language for expressing and calculating date and time - Python
+> https://news.ycombinator.com/item?id=29211797
+
 https://susam.in/blog/microcentury.html
 > https://news.ycombinator.com/item?id=29093298
 

@@ -184,6 +184,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html
+> https://news.ycombinator.com/item?id=29204807
+
+https://skerritt.blog/make-popular-open-source-projects/
+> https://news.ycombinator.com/item?id=29197806
+
 https://code.gouv.fr/#/repos
 > https://news.ycombinator.com/item?id=29182551
 

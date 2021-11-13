@@ -36,6 +36,13 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/adrianscheff/useful-sed
+> https://news.ycombinator.com/item?id=29196221
+
+https://github.com/strang1ato/nhi
+> https://news.ycombinator.com/item?id=29205169
+> > https://shankaraman.wordpress.com/tag/finding-environment-variable-address-using-gdb/
+
 https://github.com/natethinks/jog
 > https://news.ycombinator.com/item?id=29154942
 

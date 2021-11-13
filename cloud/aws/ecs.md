@@ -99,6 +99,9 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-amazon-ebs-snapshots-with-amazon-ec2-systems-manager-part-2/
 
 # News
+https://aws.amazon.com/en/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/
+> https://news.ycombinator.com/item?id=29195698
+
 https://www.bluelabellabs.com/blog/how-to-automate-backups-of-mysql-and-postgres-databases-to-an-amazon-s3-bucket/
 
 https://aws.amazon.com/en/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/

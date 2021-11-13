@@ -94,6 +94,11 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 > https://news.ycombinator.com/item?id=27775089
 
 # News
+https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties.html
+
+https://www.space.com/spinlaunch-first-test-flight-success
+> https://news.ycombinator.com/item?id=29198589
+
 https://hackaday.com/2021/11/02/30-days-of-terror-the-logistics-of-launching-the-james-webb-space-telescope/
 
 https://harpers.org/archive/2021/11/ad-astra-the-coming-battle-over-space/

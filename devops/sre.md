@@ -35,6 +35,12 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://status.cloud.google.com/incidents/1xkAB1KmLrh5g3v9ZEZ7
+> https://news.ycombinator.com/item?id=29197761
+
+https://ervinbarta.com/2021/10/19/slo-alerting-for-mortals/
+> https://news.ycombinator.com/item?id=29165290
+
 https://blog.acolyer.org/2020/03/13/correlation-x-2/
 
 https://blog.roblox.com/2021/10/update-recent-service-outage/

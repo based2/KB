@@ -128,6 +128,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://twitter.com/marcan42/status/1458473546225577987 M1 Pro 14“ MacBook Pro Running KDE Plasma 5 on Arch Linux ARM
+> https://news.ycombinator.com/item?id=29197509
+
 https://www.apple.com/business/essentials/
 > https://news.ycombinator.com/item?id=29175311
 

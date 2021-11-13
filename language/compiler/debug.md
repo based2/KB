@@ -3,3 +3,6 @@ https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/
 
 https://pernos.co/blog/structured-identifiers/
 > https://news.ycombinator.com/item?id=28836151
+
+https://pernos.co/blog/function-prologues/
+> https://news.ycombinator.com/item?id=29186698

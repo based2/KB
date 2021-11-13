@@ -179,6 +179,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://primitivehacker.medium.com/i-got-fired-from-amazon-as-a-software-development-engineer-1986b72c9d3
+> https://news.ycombinator.com/item?id=29201628
+
 https://komoroske.com/slime-mold/
 
 https://larahogan.me/blog/my-team-is-going-in-circles/

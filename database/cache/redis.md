@@ -9,3 +9,6 @@ https://news.ycombinator.com/item?id=280075	Can Redis be used as a primary datab
 
 https://github.com/doyoubi/undermoon rust
 > https://news.ycombinator.com/item?id=28885586
+
+https://docs.statetrace.com/blog/redis-server/
+> https://news.ycombinator.com/item?id=29199717

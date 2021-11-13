@@ -1,3 +1,29 @@
+https://www.bortzmeyer.org/measuring-gfw.html
+
+https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough
+
+https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/
+
+https://www.bbc.com/news/technology-23588202
+> https://news.ycombinator.com/item?id=29206833
+
+https://andydavies.me/blog/2019/12/12/capturing-and-decrypting-https-traffic-from-ios-apps/
+> https://news.ycombinator.com/item?id=29198671
+
+https://support.apple.com/en-us/HT212868
+
+https://www.geoffchappell.com/notes/security/aim/index.htm (1999)
+> https://news.ycombinator.com/item?id=29198034
+
+https://utcc.utoronto.ca/~cks/space/blog/tech/SMTSecurityUncertainty
+> https://news.ycombinator.com/item?id=29199683
+
+https://old.reddit.com/r/sysadmin/comments/qsun7o/email_from_fbi_looks_odd/
+> https://news.ycombinator.com/item?id=29208276
+
+https://blog.cloudflare.com/cloudflare-blocks-an-almost-2-tbps-multi-vector-ddos-attack/
+> https://news.ycombinator.com/item?id=29211706
+
 https://techxplore.com/news/2021-10-cryptography-game-changer-biomedical-scale.html
 
 https://thenewstack.io/zero-trust-security-and-the-software-development-lifecycle/

@@ -51,6 +51,9 @@ https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync
 http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished
 > https://news.ycombinator.com/item?id=29157859
 
+https://github.com/qdot/deldo
+> https://news.ycombinator.com/item?id=29207607
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

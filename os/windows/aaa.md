@@ -106,6 +106,8 @@ https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly
 https://github.com/valinet/ExplorerPatcher
 
 # News
+https://news.ycombinator.com/item?id=29177000
+
 https://www.hanselman.com/blog/its-time-for-you-to-install-windows-terminal
 > https://news.ycombinator.com/item?id=29155198
 

@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://phys.org/news/2021-11-chemists-harness-energy-ammonia.html
+> https://news.ycombinator.com/item?id=29209494
+
 https://news.ycombinator.com/item?id=29167000
 
 https://windswept-and-interesting.co.uk/

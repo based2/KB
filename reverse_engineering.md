@@ -10,3 +10,6 @@ https://github.com/Arinerron/heaptrace
 https://www.youtube.com/watch?v=3i3H16hdcfI GRCon21 - Reverse Engineering Smart Meters
 
 https://justintaft.com/blog/2021/11/07/binary-reversing-methodologies
+
+https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html
+> https://news.ycombinator.com/item?id=29211401
