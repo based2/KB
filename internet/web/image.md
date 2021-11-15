@@ -28,5 +28,8 @@ https://video2webp.mattj.io/
 https://blog.cloudflare.com/optimizing-images/
 > https://news.ycombinator.com/item?id=28538646
 
+https://www.simplethread.com/why-your-website-should-not-use-dithered-images/
+> https://news.ycombinator.com/item?id=29227606
+
 # Photography
 https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/

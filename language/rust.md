@@ -251,6 +251,9 @@ https://blog.sunfishcode.online/broken-encapsulation/
 
 https://www.micahlerner.com/2021/10/31/rudra-finding-memory-safety-bugs-in-rust-at-the-ecosystem-scale.html
 
+https://www.infoq.com/news/2021/11/rudra-rust-safety/
+> https://www.infoq.com/news/2021/11/rudra-rust-safety/
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

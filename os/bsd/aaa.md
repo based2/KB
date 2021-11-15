@@ -69,7 +69,10 @@ https://www.freebsd.org/cgi/man.cgi?query=sysexits
 > https://news.ycombinator.com/item?id=29056429
 
 https://www.moritz.systems/blog/lldb-serial-port-communication-support/
->
+
+## News
+https://www.freebsd.org/status/report-2021-07-2021-09/
+> https://news.ycombinator.com/item?id=29230322
 
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released

@@ -74,6 +74,13 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://news.ycombinator.com/item?id=29215270
+
+https://changelog.complete.org/archives/10311-managing-an-external-display-on-linux-shouldnt-be-this-hard
+
+https://github.com/nnsee/fileless-elf-exec
+> https://www.reddit.com/r/netsec/comments/qsihvt/fee_execute_elf_binaries_without_dropping_files/
+
 https://decoded.legal/blog/2021/11/running-a-law-firm-on-linux
 > https://news.ycombinator.com/item?id=29199395
 

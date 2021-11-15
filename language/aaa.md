@@ -164,6 +164,9 @@ https://gnucobol.sourceforge.io/
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928948
 > https://news.ycombinator.com/item?id=28981296
 
+https://medium.com/@jankammerath/why-and-how-cobol-is-still-used-1c0a0cc7ce74
+> https://news.ycombinator.com/item?id=29221877
+
 ## LISP
 https://lisp-lang.org/
 > https://news.ycombinator.com/item?id=28725958
@@ -186,6 +189,18 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/
+> https://news.ycombinator.com/item?id=29225163
+
+http://www.wirfs-brock.com/allen/posts/914 The Rise and Fall of Commercial Smalltalk
+> https://news.ycombinator.com/item?id=29223880
+
+https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/
+> https://news.ycombinator.com/item?id=29218202
+
+https://easylang.online/
+> https://news.ycombinator.com/item?id=29218101
+
 https://users.cs.duke.edu/~vahdat/ps/mop.pdf Metaobject protocols: Why we want them and what else they can do
 > https://news.ycombinator.com/item?id=29207794
 

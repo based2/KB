@@ -43,6 +43,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://briarproject.org/news/2021-briar-1.4-released/
+> https://news.ycombinator.com/item?id=29227754
+
 https://git.scuttlebot.io/%25RPKzL382v2fAia5HuDNHD5kkFdlP7bGvXQApSXqOBwc%3D.sha256
 
 https://www.cubbit.io/zero-knowledge-cloud-storage

@@ -61,6 +61,8 @@ https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format
 
 https://www.collabora.com/news-and-blog/blog/2021/09/30/a-tale-of-two-toolchains-and-glibc/
 
+https://www.youtube.com/watch?v=3pRhvQi7Z10 2019 LLVM Developers’ Meeting: “Writing Loop Optimizations in LLVM”
+
 ## Clang
 https://reviews.llvm.org/D108643
 
@@ -89,6 +91,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://tamikothiel.com/theory/cm_txts/
+> https://news.ycombinator.com/item?id=29201810
+
 https://github.com/nadavrot/memset_benchmark 100 LOC C implementation of memset, that is faster than glibc's implementation
 > https://news.ycombinator.com/item?id=29197161
 

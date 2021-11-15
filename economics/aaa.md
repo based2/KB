@@ -98,6 +98,9 @@ http://opentaxsolver.sourceforge.net/
 > https://news.ycombinator.com/item?id=28760442
 
 # News
+https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html
+> https://news.ycombinator.com/item?id=29218930
+
 https://logicmag.io/kids/wealth-creators/
 
 https://www.youtube.com/watch?v=9AWeWkNhLnQ La Finance destructrice de démocratie ? Georges Ugeux

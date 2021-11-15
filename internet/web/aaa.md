@@ -55,6 +55,8 @@ https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
 https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/
 > https://news.ycombinator.com/item?id=29117022
 
+https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-networks-with-beautifulsoup-and-networkx/
+
 # News
 https://www.mooreds.com/wordpress/archives/3451
 > https://news.ycombinator.com/item?id=29154216

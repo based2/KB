@@ -23,3 +23,5 @@ https://phys.org/news/2021-11-diffractive-optical-networks-reconstruct-holograms
 https://github.com/bencbartlett/3D-printed-mirror-array
 > https://news.ycombinator.com/item?id=29191918
 
+https://phys.org/news/2021-11-simple-silicon-coating-long-standing-optical.html
+

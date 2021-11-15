@@ -46,6 +46,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.tbray.org/ongoing/When/202x/2021/11/09/Climate-Crisis-Resistance
+> https://news.ycombinator.com/item?id=29220729
+
+https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/
+> https://news.ycombinator.com/item?id=29217810
+
 https://www.bloombergquint.com/business/methane-plume-seen-by-satellite-over-alabama-mystifies-experts
 > https://news.ycombinator.com/item?id=29179882
 

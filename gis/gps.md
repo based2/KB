@@ -9,8 +9,10 @@ https://berthub.eu/articles/posts/galmon-project/
 
 https://news.ycombinator.com/item?id=28343867
 
-
 https://www.gpsdaily.com/reports/SpaceX_satellite_signals_used_like_GPS_to_pinpoint_location_on_Earth_999.html
 > https://news.ycombinator.com/item?id=28680139
 
 https://spectrum.ieee.org/satellite-refueling-heats-up
+
+https://breakingdefense.com/2021/11/sandias-atomic-avocado-could-allow-gps-free-pnt/
+> https://news.ycombinator.com/item?id=29213751

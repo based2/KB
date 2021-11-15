@@ -57,3 +57,6 @@ https://bravenewgeek.com/sre-doesnt-scale/
 
 https://danluu.com/in-house/
 > https://news.ycombinator.com/item?id=28691676
+
+https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/
+> https://news.ycombinator.com/item?id=29220338

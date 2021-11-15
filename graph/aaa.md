@@ -61,6 +61,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://levelup.gitconnected.com/creating-a-force-graph-using-react-d3-and-pixijs-95616051aba
+
 https://deepmind.com/research/publications/2019/Graph-matching-networks-for-learning-the-similarity-of-graph-structured-objects
 
 https://arxiv.org/abs/2003.02320 Knowledge Graphs

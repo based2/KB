@@ -32,5 +32,7 @@ https://lucasfcosta.com/2021/09/30/explaining-in-writing.html
 https://karthinks.com/software/latex-input-for-impatient-scholars/
 > https://news.ycombinator.com/item?id=29131928
 
+https://dramatica.com/resources/assets/dramatica-theory-book.pdf
+
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?

@@ -18,6 +18,15 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.coindesk.com/tech/2021/11/13/taproot-bitcoins-long-anticipated-upgrade-activates-this-weekend/
+> https://news.ycombinator.com/item?id=29225726
+
+https://www.nytimes.com/2021/11/14/business/crypto-ukraine.html
+
+https://github.com/chjj/mako
+
+https://www.nicehash.com/countdown/btc-forking-2021-11-15-12-00
+
 https://threadreaderapp.com/thread/1367205200151207940.html
 
 https://paulbutler.org/2021/betting-against-bitcoin/

@@ -35,6 +35,9 @@ https://github.com/aru-py/programmer-colemak
 https://torvaney.github.io/projects/t9-optimised.html
 > https://news.ycombinator.com/item?id=28663723
 
+https://github.com/qwerty-fr/qwerty-fr
+> https://news.ycombinator.com/item?id=29229583
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184

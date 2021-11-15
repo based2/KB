@@ -11,3 +11,5 @@ https://github.com/ashellunts/ffmpeg-to-webrtc
 https://blog.livekit.io/an-introduction-to-webrtc-simulcast-6c5f1f6402eb
 > https://news.ycombinator.com/item?id=28590147
 
+https://news.ycombinator.com/item?id=29224220
+

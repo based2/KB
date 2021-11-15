@@ -10,6 +10,8 @@ https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-
 https://www.sciencealert.com/a-never-before-seen-type-of-signal-has-been-detected-in-the-human-brain
 
 # Neuron
+https://news.mit.edu/2021/neurons-humans-mammals-1110
+> https://news.ycombinator.com/item?id=29213806
 
 # Worm
 https://news.ycombinator.com/item?id=29045198

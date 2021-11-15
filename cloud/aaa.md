@@ -17,8 +17,7 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
-https://cloud.google.com/solutions/federal-government/defense
-> https://news.ycombinator.com/item?id=29167284
+https://mail-archives.apache.org/mod_mbox/www-announce/202111.mbox/%3CCAL0mx%2BmFeQFYR6hZ2GSz6xbEjJD6XL2vK0xU%3DTb0f3ibsSmj2A%40mail.gmail.com%3E
 
 https://www.openfaas.com/blog/long-running-jobs/
 
@@ -60,9 +59,6 @@ https://www.koyeb.com/blog/building-a-multi-region-service-mesh-with-kuma-envoy-
 https://www.hetzner.com/dedicated-rootserver/matrix-apple
 > https://news.ycombinator.com/item?id=28916543
 
-https://www.swyx.io/cloudflare-go/
-> https://news.ycombinator.com/item?id=28903982
-
 https://github.com/m3o/m3o
 
 https://status.jumpcloud.com/
@@ -96,22 +92,10 @@ https://en.wikipedia.org/wiki/CLOUD_Act
 https://twitter.com/QuinnyPig/status/1443028078196711426
 > https://news.ycombinator.com/item?id=28702997
 
-https://stratechery.com/2021/cloudflares-disruption/
-> https://news.ycombinator.com/item?id=28707317
-
 https://www.protocol.com/enterprise/ibm-lost-public-cloud
-
-https://blog.cloudflare.com/introducing-r2-object-storage/
-> https://news.ycombinator.com/item?id=28682237
 
 https://status.heroku.com/incidents/2361
 > https://news.ycombinator.com/item?id=28667293
-
-https://github.com/cloudflare/miniflare test
-> https://news.ycombinator.com/item?id=28640618
-
-https://blog.cloudflare.com/announcing-cloudflare-images/
-> https://news.ycombinator.com/item?id=28562917
 
 https://codeascraft.com/2020/04/23/cloud-jewels-estimating-kwh-in-the-cloud/
 

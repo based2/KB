@@ -21,6 +21,10 @@ https://developers.redhat.com/products/rhel/download
 
 https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
 
+https://www.redhat.com/en/blog/whats-new-rhel-85
+
+https://www.redhat.com/en/blog/whats-new-rhel-90-beta
+
 https://getfedora.org/
 
 # Canonical/Ubuntu

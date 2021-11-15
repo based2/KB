@@ -65,6 +65,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://animejs.com/
+
 https://fjolt.com/article/3d-web-gl-javascript-gradient-effect
 
 https://pjreddie.com/courses/computer-vision/

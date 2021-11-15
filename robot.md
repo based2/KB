@@ -16,6 +16,9 @@ https://dronedj.com/2021/07/22/ai-beats-human-drone-racing-pilot/
 
 https://news.ycombinator.com/item?id=29114862
 
+https://spectrum.ieee.org/foldable-monocopter-drone
+> https://news.ycombinator.com/item?id=29225184
+
 # Trajectory
 https://www.baucomrobotics.com/domino-robot-posts/trajectory-generation
 

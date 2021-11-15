@@ -60,3 +60,5 @@ https://microkerneldude.wordpress.com/2021/09/28/where-is-sel4-heading/
 https://github.com/fwsGonzo/bigassm
 
 https://www.notebookcheck.net/Computer-scientist-showcases-world-s-first-RISC-V-based-Linux-PC-coupled-with-an-AMD-RX-6700-XT-GPU.552002.0.html
+
+https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.16-RISC-V

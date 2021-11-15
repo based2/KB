@@ -78,6 +78,8 @@ https://gamehacking.academy/GameHackingAcademy.pdf
 
 https://godotengine.org/article/godot-3-4-is-released
 
+https://www.youtube.com/watch?v=imm3ws0pifw Programming New Road Features for my City-Builder
+
 # Text
 https://if50.substack.com/p/2008-violet
 > https://news.ycombinator.com/item?id=28797079

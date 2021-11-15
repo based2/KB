@@ -234,6 +234,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.blog/2021-11-15-highlights-from-git-2-34/
+> https://news.ycombinator.com/item?id=29230100
+
 https://riskledger.com/blog/git-basics-at-risk-ledger/
 > https://news.ycombinator.com/item?id=29162234
 

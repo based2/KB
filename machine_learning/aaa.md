@@ -147,7 +147,6 @@ https://automatingsociety.algorithmwatch.org/
 https://kobra.dev/
 > https://news.ycombinator.com/item?id=27135573
 
-
 https://www.mdpi.com/1424-8220/21/9/2984/htm Quantization and Deployment of Deep Neural Networks on Microcontrollers
 > https://news.ycombinator.com/item?id=27324844
 
@@ -239,7 +238,18 @@ https://eval.ai/
 # History
 https://news.ycombinator.com/item?id=28343118
 
+https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
+> https://news.ycombinator.com/item?id=29216291
+
 # News
+https://cds.nyu.edu/deep-learning/ Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online
+> https://news.ycombinator.com/item?id=29218520
+
+https://sharpneat.sourceforge.io/research/cart-pole/cart-pole-equations.html
+
+https://docs.spotml.io/
+> https://news.ycombinator.com/item?id=29213063
+
 https://nlpcloud.io/effectively-using-gpt-j-gpt-neo-gpt-3-alternatives-few-shot-learning.html
 > https://news.ycombinator.com/item?id=29176156
 

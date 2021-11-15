@@ -128,6 +128,15 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://www.macworld.com/article/551393/apple-software-problems-regions-memories-bugs.html
+> https://news.ycombinator.com/item?id=29229881
+
+https://eclecticlight.co/2021/11/15/montereys-memory-leak-and-how-to-avoid-it/
+> https://news.ycombinator.com/item?id=29227450
+
+https://danpetrov.xyz/macos/2021/11/14/analysing-network-quality-macos.html
+> https://news.ycombinator.com/item?id=29225308
+
 https://twitter.com/marcan42/status/1458473546225577987 M1 Pro 14“ MacBook Pro Running KDE Plasma 5 on Arch Linux ARM
 > https://news.ycombinator.com/item?id=29197509
 

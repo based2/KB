@@ -36,6 +36,9 @@ https://utcc.utoronto.ca/~cks/space/blog/programming/GoSlicesVsPointers
 
 https://www.alexedwards.net/blog/i18n-managing-translations
 
+https://huseyinbabal.com/2021/11/14/maintainable-go-projects/
+> https://news.ycombinator.com/item?id=29217649
+
 # UI
 https://www.vugu.org/
 > https://news.ycombinator.com/item?id=26836366
@@ -63,6 +66,8 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/downflux/go-kd https://en.wikipedia.org/wiki/K-d_tree
+
 https://go.dev/blog/pkgsite-search-redesign
 
 https://www.dbcore.org/

@@ -156,6 +156,8 @@ https://en.wikipedia.org/wiki/Esri
 https://www.esri.com/en-us/what-is-gis/history-of-gis
 
 # News
+https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/
+
 https://seagull-beta.glos.org/map?coords=-84.1312590%2C44.1490000%2C5.5
 
 https://wsdookadr.github.io/posts/p5/ Creating mosaics, clipping and removing overlapping satellite images

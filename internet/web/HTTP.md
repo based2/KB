@@ -69,6 +69,8 @@ https://www.innoq.com/de/blog/nginx-ssi-env/
 https://www.hiawatha-webserver.org/about
 > https://news.ycombinator.com/item?id=28727922
 
+https://github.com/jstrieb/quickserv
+
 # Security
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015
 

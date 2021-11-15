@@ -1,3 +1,32 @@
+https://portswigger.net/daily-swig/microsoft-fixes-reflected-xss-in-exchange-server
+
+https://github.com/matusf/openapi-fuzzer
+> https://news.ycombinator.com/item?id=29231804
+
+https://www.wired.com/2015/12/researchers-solve-the-juniper-mystery-and-they-say-its-partially-the-nsas-fault/
+
+https://comsec.ethz.ch/research/dram/blacksmith/
+> https://news.ycombinator.com/item?id=29229200
+> https://arstechnica.com/gadgets/2021/11/ddr4-memory-is-even-more-susceptible-to-rowhammer-attacks-than-anyone-thought/
+> > https://news.ycombinator.com/item?id=29229311
+
+https://www.wired.com/story/encrypted-messaging-privacy-security-metadata/
+
+https://arstechnica.com/gadgets/2021/11/psa-apple-isnt-actually-patching-all-the-security-holes-in-older-versions-of-macos/
+> https://news.ycombinator.com/item?id=29216039
+
+https://blog.cloudflare.com/fixing-recent-validation-vulnerabilities-in-octorpki/
+
+https://www.theregister.com/2021/11/12/chromium_bug_fix_view_source/
+> https://news.ycombinator.com/item?id=29211611
+
+https://www.randori.com/blog/cve-2021-3064/?i=2 CVE-2021-3064: CVSS 9.8 RCE in Palo Alto Networks GlobalProtect VPN
+> https://www.reddit.com/r/netsec/comments/qqzrsr/cve20213064_cvss_98_rce_in_palo_alto_networks/
+
+https://research.nccgroup.com/2021/11/08/technical-advisory-arbitrary-signature-forgery-in-stark-bank-ecdsa-libraries/
+
+https://research.kudelskisecurity.com/2021/11/12/practical-attacks-against-attribute-based-encryption/
+
 https://www.bortzmeyer.org/measuring-gfw.html
 
 https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough

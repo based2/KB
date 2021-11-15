@@ -301,6 +301,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 
 # News
 
+https://violentmonkey.github.io/posts/inject-scripts-with-blob-urls/
+
 https://twitter.com/Rich_Harris/status/1458822051263823875 svelt
 > https://news.ycombinator.com/item?id=29189144
 

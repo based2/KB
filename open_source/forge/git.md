@@ -15,6 +15,9 @@ https://utcc.utoronto.ca/~cks/space/blog/programming/GitUpstreamLimitedTracking
 https://kallithea-scm.org/ And Mercurial, python-ldap
 > https://news.ycombinator.com/item?id=26710013
 
+https://sourcehut.org/blog/2021-11-15-sourcehuts-third-year/
+> https://news.ycombinator.com/item?id=29225155
+
 # Visualiser
 https://github.com/ssdong/git-command-visualizer Scala
 

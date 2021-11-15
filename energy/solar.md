@@ -16,5 +16,11 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://techxplore.com/news/2021-11-strategy-fabricate-solar-cells-efficiencies.html
+> https://news.ycombinator.com/item?id=29229263
+
+https://www.npr.org/2021/11/14/1054942590/solar-energy-colorado-garden-farm-land?t=1636927577002
+> https://news.ycombinator.com/item?id=29217929
+
 https://www.nrel.gov/docs/fy22osti/80694.pdf
 > https://news.ycombinator.com/item?id=29156787

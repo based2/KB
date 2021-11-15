@@ -119,3 +119,8 @@ https://github.com/cncf/foundation/blob/master/agpl-recommendations.md
 
 https://devopsdirective.com/posts/2021/04/tiny-container-image/
 > https://news.ycombinator.com/item?id=26899292
+
+https://www.vladionescu.me/posts/flowchart-how-should-i-run-containers-on-aws-2021/
+> https://news.ycombinator.com/item?id=29217194
+
+https://www.zdnet.com/article/rhel-8-5-arrives/

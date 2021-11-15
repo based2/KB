@@ -91,6 +91,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://routingcraft.net/anycast-in-segment-routing/
+
 https://github.com/seladb/PcapPlusPlus/releases/tag/v21.11
 
 https://github.com/microsoft/ethr Cross platform network performance measurement tool written in golang

@@ -136,6 +136,9 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://blog.eyas.sh/2020/03/data-oriented-architecture/
+> https://news.ycombinator.com/item?id=29209365
+
 https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/
 
 https://blog.royalsloth.eu/posts/they-dont-even-know-the-fundamentals/

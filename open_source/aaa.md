@@ -184,6 +184,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/
+> https://news.ycombinator.com/item?id=29219962
+
+https://www.kcl.ac.uk/news/do-it-yourself-artificial-pancreas-given-approval-by-team-of-experts
+> https://news.ycombinator.com/item?id=29216757
+
 https://ai.googleblog.com/2021/11/an-open-source-vibrotactile-haptics.html
 > https://news.ycombinator.com/item?id=29204807
 

@@ -83,6 +83,15 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://archive.org/details/ZeldovichYaglomHigherMathematics
+> https://news.ycombinator.com/item?id=29207021
+
+https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/
+> https://news.ycombinator.com/item?id=29215922
+
+https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/
+> https://news.ycombinator.com/item?id=29208141
+
 http://adelelopez.com/chu-are-you
 > https://news.ycombinator.com/item?id=29183890
 > http://chu.stanford.edu/guide.html

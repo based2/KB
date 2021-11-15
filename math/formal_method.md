@@ -13,7 +13,9 @@ https://en.wikipedia.org/wiki/B-Method
 
 https://github.com/jwiegley/category-theory
 
-  
+https://haslab.github.io/formal-software-design/index.html
+> https://news.ycombinator.com/item?id=29227340
+
 # TLA
 > https://learntla.com/introduction/
 

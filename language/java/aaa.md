@@ -248,6 +248,14 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://medium.com/@jonastm/jdk-17-with-dcevm-and-hotswapagent-4fee7095617a
+> https://www.reddit.com/r/java/comments/qtv37x/how_to_get_dcevm_and_hotswapagent_for_java_jdk_17/
+
+https://download.java.net/java/early_access/loom/docs/api/java.base/java/util/concurrent/TaskSession.html
+
+https://www.baeldung.com/jvm-list-all-classes-loaded
+> https://www.reddit.com/r/java/comments/qt310m/list_all_the_classes_loaded_in_the_jvm/
+
 https://devblogs.microsoft.com/java/microsoft-deepens-its-investments-in-java/
 
 https://openjdk.java.net/jeps/421 JEP 421: Deprecate Finalization for Removal

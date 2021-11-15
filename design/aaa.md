@@ -33,6 +33,8 @@ https://tug.org/FontCatalogue/
 https://www.freetype.org/ttfautohint/
 > https://news.ycombinator.com/item?id=27946713
 
+https://pippin.gimp.org/0xA000/
+> https://news.ycombinator.com/item?id=29214919
 
 #
 https://www.juliendesrosiers.com/2021/08/21/tools-for-thinking.php
