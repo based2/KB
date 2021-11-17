@@ -248,6 +248,11 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://openjdk.java.net/jeps/8277131 Virtual Threads (Preview)
+> https://news.ycombinator.com/item?id=29236375
+
+https://www.reddit.com/r/java/comments/quoqta/ron_pressler_technical_lead_of_openjdk_project/
+
 https://medium.com/@jonastm/jdk-17-with-dcevm-and-hotswapagent-4fee7095617a
 > https://www.reddit.com/r/java/comments/qtv37x/how_to_get_dcevm_and_hotswapagent_for_java_jdk_17/
 

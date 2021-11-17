@@ -27,3 +27,6 @@ https://betterprogramming.pub/how-a-cache-stampede-caused-one-of-facebooks-bigge
 
 https://engineering.fb.com/2021/10/26/core-data/kangaroo/ Flash cache that enables more efficient caching of tiny objects
 > https://news.ycombinator.com/item?id=29065979
+
+https://engineering.atspotify.com/2021/11/16/introducing-xcremotecache-the-ios-remote-caching-tool-that-cut-our-clean-build-times-by-70/
+> https://news.ycombinator.com/item?id=29249572

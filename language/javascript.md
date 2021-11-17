@@ -133,6 +133,8 @@ https://react-spectrum.adobe.com/react-aria/ React Hooks that provides accessibl
 https://hydrogen.shopify.dev/
 > https://news.ycombinator.com/item?id=29150634
 
+https://github.com/noahgrant/resourcerer
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -300,6 +302,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://jvns.ca/blog/2021/11/15/esbuild-vue/
+> https://news.ycombinator.com/item?id=29237987
+
+https://news.ycombinator.com/item?id=29242466
 
 https://violentmonkey.github.io/posts/inject-scripts-with-blob-urls/
 

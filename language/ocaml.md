@@ -20,6 +20,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://discuss.ocaml.org/t/multicore-ocaml-october-2021/8822
+> https://news.ycombinator.com/item?id=29238972
+
 https://ceramichacker.com/blog/1-1x-hardcaml-mips-intro-what-and-why
 > https://news.ycombinator.com/item?id=29105348
 

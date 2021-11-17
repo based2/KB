@@ -22,5 +22,8 @@ https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280
 
 # News
+https://spectrum.ieee.org/ham-radio-text-hacking
+> https://news.ycombinator.com/item?id=29255885
+
 https://www.lancaster.ac.uk/news/nuclear-radiation-used-to-transmit-digital-data-wirelessly
 > https://news.ycombinator.com/item?id=29202887

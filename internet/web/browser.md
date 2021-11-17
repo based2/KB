@@ -30,6 +30,12 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.howtogeek.com/744102/windows-11-makes-it-hard-to-change-your-default-web-browser/
+> https://news.ycombinator.com/item?id=29253885
+
+https://www.howtogeek.com/768727/microsoft-calls-firefoxs-browser-workaround-improper-will-block-it/
+> https://news.ycombinator.com/item?id=29251210
+
 https://paul.kinlan.me/sorry-safari-team/
 > https://news.ycombinator.com/item?id=29226328
 

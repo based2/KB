@@ -51,11 +51,12 @@ https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-w
 #
 https://github.com/iximiuz/docker-to-linux
 
-
 # 
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
-`
+
 # News
+https://towardsdatascience.com/speeding-up-container-image-builds-with-remote-cache-c72577317886
+
 https://smallstep.com/blog/automate-docker-ssl-tls-certificates/
 
 https://mikolaj-kaminski.com/jetbrains-rider-docker-compose-unicodedecodeerror-issue-fix/

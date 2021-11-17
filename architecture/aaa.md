@@ -136,6 +136,9 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
+> https://news.ycombinator.com/item?id=29233463
+
 https://blog.eyas.sh/2020/03/data-oriented-architecture/
 > https://news.ycombinator.com/item?id=29209365
 

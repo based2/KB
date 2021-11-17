@@ -128,6 +128,11 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://www.ifixit.com/News/55370/apple-diy-repair-program-parts-tools-guides-software
+
+https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/
+> https://news.ycombinator.com/item?id=29253047
+
 https://www.macworld.com/article/551393/apple-software-problems-regions-memories-bugs.html
 > https://news.ycombinator.com/item?id=29229881
 

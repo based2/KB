@@ -20,6 +20,11 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.constitutiondao.com/
+
+https://adjacentpossible.substack.com/p/lets-run-the-experiment-a-conversation
+> https://news.ycombinator.com/item?id=29229834
+
 https://yevaud.substack.com/p/cryptocurrency-part-2
 
 https://www.cnbc.com/2021/10/31/bitcoin-mining-giants-bitdeer-riot-blockchain-in-rockdale-texas.html

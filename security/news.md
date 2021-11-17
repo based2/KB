@@ -1,3 +1,19 @@
+https://github.com/ssh-mitm/ssh-mitm
+> https://news.ycombinator.com/item?id=29256572
+
+https://www.schneier.com/blog/archives/2021/11/is-microsoft-stealing-peoples-bookmarks.html
+
+https://outage.bingo/
+> https://news.ycombinator.com/item?id=29244453
+
+https://modemly.com/m1/pulse wifi
+> https://news.ycombinator.com/item?id=29244508
+
+https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry
+> https://news.ycombinator.com/item?id=29245080
+
+https://nvd.nist.gov/vuln/detail/CVE-2021-40529 ElGamal implementation in Botan through 2.18.1, as used in Thunderbird and other products, allows plaintext recovery
+
 https://portswigger.net/daily-swig/microsoft-fixes-reflected-xss-in-exchange-server
 
 https://github.com/matusf/openapi-fuzzer

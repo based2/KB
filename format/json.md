@@ -71,6 +71,8 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://lucumr.pocoo.org/2021/11/14/abusing-serde/
+
 https://www.jsoniq.org/
 > https://news.ycombinator.com/item?id=29159343
 

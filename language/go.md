@@ -66,6 +66,10 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://news.ycombinator.com/item?id=29238563
+
+https://utcc.utoronto.ca/~cks/space/blog/programming/GoAmd64ArchitectureLevels
+
 https://github.com/downflux/go-kd https://en.wikipedia.org/wiki/K-d_tree
 
 https://go.dev/blog/pkgsite-search-redesign

@@ -174,6 +174,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/zanellia/prometeo
+> https://news.ycombinator.com/item?id=29253039
+
 https://antonz.org/list-internals/
 
 https://www.pygaze.org/

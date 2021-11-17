@@ -85,8 +85,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/talks/st2021.pdf
+
 https://rosefinchapp.com/
-> 
 
 https://sqlime.org/
 > https://news.ycombinator.com/item?id=28669703

@@ -189,6 +189,12 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://sgt.hootr.club/molten-matter/types-of-parser-combinators/
+> https://news.ycombinator.com/item?id=29246227
+
+https://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html
+> https://news.ycombinator.com/item?id=29223934
+
 https://snarky.ca/programming-language-selection-is-a-form-of-premature-optimization/
 > https://news.ycombinator.com/item?id=29225163
 

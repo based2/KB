@@ -38,6 +38,9 @@ https://torvaney.github.io/projects/t9-optimised.html
 https://github.com/qwerty-fr/qwerty-fr
 > https://news.ycombinator.com/item?id=29229583
 
+https://dl.acm.org/doi/10.1145/3382035
+> https://news.ycombinator.com/item?id=29237388
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184

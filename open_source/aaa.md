@@ -184,6 +184,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://twitter.com/OBSProject/status/1460782968633499651
+> https://news.ycombinator.com/item?id=29249766
+
 https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/
 > https://news.ycombinator.com/item?id=29219962
 

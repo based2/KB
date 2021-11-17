@@ -61,6 +61,11 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-5/
+
+https://codeascraft.com/2021/11/08/etsys-journey-to-typescript/
+> https://news.ycombinator.com/item?id=29240789
+
 https://devblogs.microsoft.com/typescript/announcing-typescript-4-5-rc/
 
 https://github.com/microsoft/TypeScript/pull/46266 Control flow analysis for destructured discriminated unions

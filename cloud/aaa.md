@@ -17,6 +17,9 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://app.netlify.com/drop
+> https://news.ycombinator.com/item?id=29254405
+
 https://mail-archives.apache.org/mod_mbox/www-announce/202111.mbox/%3CCAL0mx%2BmFeQFYR6hZ2GSz6xbEjJD6XL2vK0xU%3DTb0f3ibsSmj2A%40mail.gmail.com%3E
 
 https://www.openfaas.com/blog/long-running-jobs/

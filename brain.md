@@ -9,6 +9,9 @@ https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-
 
 https://www.sciencealert.com/a-never-before-seen-type-of-signal-has-been-detected-in-the-human-brain
 
+https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/
+> https://news.ycombinator.com/item?id=29254496
+
 # Neuron
 https://news.mit.edu/2021/neurons-humans-mammals-1110
 > https://news.ycombinator.com/item?id=29213806

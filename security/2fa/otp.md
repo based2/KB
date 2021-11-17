@@ -13,13 +13,14 @@ https://freeotp.github.io/
 https://www.imperialviolet.org/2017/10/08/securitykeytest.html
 > https://news.ycombinator.com/item?id=15429831
 
-
 FIDO: U2F -> WebAuthn https://webauthn.io/
 https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-webauthn/
 
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://news.ycombinator.com/item?id=29254063
+
 https://arstechnica.com/gadgets/2021/11/google-wants-every-account-to-use-2fa-starts-auto-enrolling-users/
 > https://news.ycombinator.com/item?id=29097675
 

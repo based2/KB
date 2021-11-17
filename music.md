@@ -127,4 +127,8 @@ https://ludotune.com
 https://www.pianobook.co.uk/
 > https://news.ycombinator.com/item?id=27454717
 
+# News
+https://www.musanim.com/HarmonicColoring/
+> https://news.ycombinator.com/item?id=29241387
+
 

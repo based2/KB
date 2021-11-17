@@ -79,6 +79,9 @@ https://medium.com/@toddresudek/hex-power-user-deb608e60935
 https://github.com/mtrudel/bandit
 > https://news.ycombinator.com/item?id=29018845
 
+https://elixir-lang.org/blog/2021/11/10/embracing-open-data-with-elixir-at-the-ministry-of-ecological-transition-in-france/
+> https://news.ycombinator.com/item?id=29240180
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

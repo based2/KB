@@ -32,6 +32,8 @@ https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-
 https://blog.quarkslab.com/ansible-security-assessment.html
 
 # News
+https://jurrevriesen.nl/ansible-boilerplate-for-webapps/
+
 https://blog.stephane-robert.info/post/ansible-task-asynchrones/
 
 https://linuxfr.org/news/sortie-de-squest-le-portail-de-service-pour-tower-awx-en-version-1-0

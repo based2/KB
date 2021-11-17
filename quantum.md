@@ -23,8 +23,10 @@ https://iai.tv/articles/quantum-mechanics-and-our-part-in-creating-reality-auid-
 
 https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-optical-quantum-computing-approach/
 
-
 # News
+https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor
+> https://news.ycombinator.com/item?id=29244732
+
 https://news.ku.dk/all_news/2021/10/innovative-chip-built-by-ucph-physicists-resolves-quantum-headache/
 > https://news.ycombinator.com/item?id=29056345
 

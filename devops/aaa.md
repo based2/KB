@@ -101,6 +101,15 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://news.ycombinator.com/item?id=29251343
+>
+
+https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y
+> https://news.ycombinator.com/item?id=29255195
+
+https://reflect.run/articles/typescript-the-perfect-file-format/
+> https://news.ycombinator.com/item?id=29254679
+
 https://utteranc.es/
 > https://news.ycombinator.com/item?id=29189923
 

@@ -111,8 +111,10 @@ https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming
 https://asciiflow.com/#/
 > https://news.ycombinator.com/item?id=27536253
 
-
 # News
+https://buttondown.email/hillelwayne/archive/alloy-6-first-impressions/
+> https://news.ycombinator.com/item?id=29237142
+
 https://docs.umh.app/docs/concepts/node-red-in-industrial-iot/
 > https://news.ycombinator.com/item?id=29163866
 

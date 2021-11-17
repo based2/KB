@@ -40,6 +40,12 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://github.com/duffn/dumb-password-rules
+> https://news.ycombinator.com/item?id=29245289
+
+https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html
+> https://news.ycombinator.com/item?id=29239587
+
 https://www.troyhunt.com/beg-bounties/
 > https://news.ycombinator.com/item?id=29147555
 

@@ -16,6 +16,12 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://fms.komkon.org/EMUL8/HOWTO.html
+> https://news.ycombinator.com/item?id=29237372
+
+https://www.micahlerner.com/2021/11/09/the-demikernel-datapath-os-architecture-for-microsecond-scale-datacenter-systems.html
+> https://news.ycombinator.com/item?id=29237007
+
 https://mudita.com/community/blog/muditaos-and-mudita-center-code-is-now-fully-open-source/
 > https://news.ycombinator.com/item?id=29174281
 

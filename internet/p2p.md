@@ -43,6 +43,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://www.ctrl.blog/entry/opera-unite.html
+> https://news.ycombinator.com/item?id=29249112
+
 https://briarproject.org/news/2021-briar-1.4-released/
 > https://news.ycombinator.com/item?id=29227754
 

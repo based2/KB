@@ -44,6 +44,11 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://blog.daknob.net/mapping-44net/
+
+https://www.ietf.org/id/draft-schoen-intarea-unicast-127-00.html
+> https://news.ycombinator.com/item?id=29246420
+
 https://ipleak.net/
 
 https://www.netmeister.org/blog/inet_aton.html

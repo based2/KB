@@ -1,3 +1,7 @@
+https://git.encryp.ch/g00g1/no-portscan
+> https://news.ycombinator.com/item?id=29252505
+> > https://github.com/mrash/fwknop Single Packet Authorization
+
 https://positive.security/blog/hacking-linux-marketplaces
 
 https://github.com/Microsoft/AttackSurfaceAnalyzer

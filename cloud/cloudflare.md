@@ -1,3 +1,6 @@
+https://blog.cloudflare.com/cloudflare-pages-goes-full-stack/
+> https://news.ycombinator.com/item?id=29253032
+
 https://blog.cloudflare.com/relational-database-connectors/
 
 https://blog.cloudflare.com/durable-objects-ga/

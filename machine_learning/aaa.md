@@ -183,7 +183,6 @@ https://pair.withgoogle.com/explorables/
 # Data
 https://en.wikipedia.org/wiki/MNIST_database
 
-
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333
@@ -242,6 +241,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://hackaday.com/2021/11/13/opengl-machine-learning-runs-on-low-end-hardware/
+> https://news.ycombinator.com/item?id=29216317
+
 https://cds.nyu.edu/deep-learning/ Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online
 > https://news.ycombinator.com/item?id=29218520
 

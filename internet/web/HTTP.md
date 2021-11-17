@@ -47,6 +47,9 @@ https://susam.in/maze/timing-with-curl.html
 > https://news.ycombinator.com/item?id=29054593
 > https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl
 
+https://www.neelc.org/posts/chase-how-not-to-design-a-website/
+> https://news.ycombinator.com/item?id=29224182
+
 # Cache
 https://httptoolkit.tech/blog/status-targeted-caching-headers/
 > https://news.ycombinator.com/item?id=28930941

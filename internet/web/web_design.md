@@ -69,6 +69,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/
+> https://news.ycombinator.com/item?id=29238159
+
 https://danilowoz.com/blog/spatial-keyboard-navigation
 
 https://uxdesign.cc/offboarding-saying-goodbye-with-grace-942cf010c223

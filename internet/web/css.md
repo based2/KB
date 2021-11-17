@@ -93,7 +93,13 @@ https://grid.malven.co/
 https://open.nytimes.com/bootstrap-to-css-grid-87b3f5f830e4
 > https://news.ycombinator.com/item?id=16029987
 
+https://web.dev/patterns/layout/
+> https://news.ycombinator.com/item?id=29254391
+
 #
+
+https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/
+> https://news.ycombinator.com/item?id=29245315
 
 https://neumorphism.io
 
@@ -169,6 +175,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://antfu.me/posts/reimagine-atomic-css
+> https://news.ycombinator.com/item?id=29240809
+
 https://smolcss.dev/
 > https://news.ycombinator.com/item?id=29175851
 

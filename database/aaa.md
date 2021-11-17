@@ -62,6 +62,8 @@ https://github.com/jepsen-io/elle
 https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 
 # News
+https://databricks.com/blog/2021/11/15/snowflake-claims-similar-price-performance-to-databricks-but-not-so-fast.html
+
 https://rachelbythebay.com/w/2021/11/06/sql/
 > https://news.ycombinator.com/item?id=29137141
 

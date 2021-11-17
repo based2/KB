@@ -73,6 +73,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://github.com/Keith-Cancel/k-hash
+> https://news.ycombinator.com/item?id=29226612
+
 https://nullprogram.com/blog/2018/07/31/
 
 https://www.franzoni.eu/consistent-hashing-for-dummies/

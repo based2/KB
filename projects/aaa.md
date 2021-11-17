@@ -179,6 +179,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://solutionspace.blog/2021/11/16/the-trouble-with-platforms/
+> https://news.ycombinator.com/item?id=29246204
+
 https://primitivehacker.medium.com/i-got-fired-from-amazon-as-a-software-development-engineer-1986b72c9d3
 > https://news.ycombinator.com/item?id=29201628
 

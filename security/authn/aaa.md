@@ -57,6 +57,12 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/
+> https://news.ycombinator.com/item?id=29253936
+
+https://github.com/mishushakov/signin-with-matrix
+> https://news.ycombinator.com/item?id=29240154
+
 https://www.authelia.com/docs/
 > https://github.com/authelia/authelia
 

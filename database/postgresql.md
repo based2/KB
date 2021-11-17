@@ -201,6 +201,8 @@ https://stackgres.io/
 https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 > https://news.ycombinator.com/item?id=28767637
 
+https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
+
 # News
 https://www.migops.com/blog/2021/11/15/postgresql-15-will-include-some-more-regexp-functions/
 

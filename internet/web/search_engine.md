@@ -61,6 +61,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/
+> https://news.ycombinator.com/item?id=29237644
+
 https://sariazout.mirror.xyz/7gSSTJ96SEyvXeljymglO3zN4H6DCgVnrNZq8_2NX1A
 > https://news.ycombinator.com/item?id=29130017
 

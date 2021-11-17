@@ -288,6 +288,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://gamozolabs.github.io/fuzzing/2021/11/16/rust_on_nt_mips.html
+> https://news.ycombinator.com/item?id=29240174
+
 https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/
 > https://news.ycombinator.com/item?id=29207397
 
