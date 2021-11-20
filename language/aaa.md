@@ -189,6 +189,12 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://effekt-lang.org/
+> https://news.ycombinator.com/item?id=29275887
+
+https://www.dawn-lang.org/posts/foundations-ucc/
+> https://news.ycombinator.com/item?id=29285971
+
 https://sgt.hootr.club/molten-matter/types-of-parser-combinators/
 > https://news.ycombinator.com/item?id=29246227
 

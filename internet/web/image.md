@@ -31,5 +31,8 @@ https://blog.cloudflare.com/optimizing-images/
 https://www.simplethread.com/why-your-website-should-not-use-dithered-images/
 > https://news.ycombinator.com/item?id=29227606
 
+https://www.tldraw.com/
+> https://news.ycombinator.com/item?id=29261733
+
 # Photography
 https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/

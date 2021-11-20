@@ -36,6 +36,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://gitlab.com/wyrcan/wyrcan
+
+https://iximiuz.com/en/posts/container-learning-path/
+> https://news.ycombinator.com/item?id=29265061
+
 https://iximiuz.com/en/posts/containers-vs-pods/
 > https://news.ycombinator.com/item?id=29055715
 

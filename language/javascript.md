@@ -302,6 +302,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://ncase.me/joy/#examples
+> https://news.ycombinator.com/item?id=29267109
+
 https://jvns.ca/blog/2021/11/15/esbuild-vue/
 > https://news.ycombinator.com/item?id=29237987
 

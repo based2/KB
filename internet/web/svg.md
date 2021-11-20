@@ -12,3 +12,7 @@ https://cloudfour.com/thinks/svg-icon-stress-test/
 
 https://blogs.igalia.com/nzimmermann/posts/2021-10-29-layer-based-svg-engine/
 * https://news.ycombinator.com/item?id=29067036
+
+http://pablojs.com/
+* https://news.ycombinator.com/item?id=29287595
+* https://github.com/premasagar/pablo

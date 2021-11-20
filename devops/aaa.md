@@ -101,8 +101,20 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://www.courier.com/blog/routing-and-preferences
+
+https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/
+> https://news.ycombinator.com/item?id=29267759
+
+https://www.theregister.com/2021/11/18/firefox_cookies_github/
+
+https://brandur.org/fragments/flags-v-gates
+> https://news.ycombinator.com/item?id=29278149
+
+https://github.com/elfshaker/elfshaker low-footprint, high-performance version control system fine-tuned for binaries
+> https://news.ycombinator.com/item?id=29276557
+
 https://news.ycombinator.com/item?id=29251343
->
 
 https://graphite.dev/blog/post/DThX8ffP1gmxWJChEv0y
 > https://news.ycombinator.com/item?id=29255195

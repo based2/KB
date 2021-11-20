@@ -1,3 +1,6 @@
+https://datatracker.ietf.org/doc/html/rfc8878  Zstandard Compression and the 'application/zstd' Media Type
+> https://news.ycombinator.com/item?id=29281360
+
 https://www.boristhebrave.com/2021/01/01/compressed-sparse-fibers-explained/
 
 https://matteding.github.io/2019/04/25/sparse-matrices/	Sparse Matrices (2019)

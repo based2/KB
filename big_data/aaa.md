@@ -208,6 +208,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://dask.org/
+> https://news.ycombinator.com/item?id=29260492
+
 https://github.com/rougier/scientific-visualization-book
 > https://news.ycombinator.com/item?id=29229103
 

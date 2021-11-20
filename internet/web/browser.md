@@ -30,6 +30,14 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.xda-developers.com/microsoft-edge-buy-now-pay-later/
+> https://news.ycombinator.com/item?id=29288052
+> https://techcommunity.microsoft.com/t5/articles/introducing-buy-now-pay-later-in-microsoft-edge/m-p/2967030
+> > https://news.ycombinator.com/item?id=29287697
+
+https://github.com/MasterQ32/kristall Gemini
+> https://news.ycombinator.com/item?id=29286071
+
 https://www.howtogeek.com/744102/windows-11-makes-it-hard-to-change-your-default-web-browser/
 > https://news.ycombinator.com/item?id=29253885
 

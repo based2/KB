@@ -123,7 +123,6 @@ https://incident.io/blog/one-two-skip-a-few Postgres sequences can skip 32 unexp
 ## Backup
 https://abishekmuthian.com/backup-postgresql-to-cloud/
 
-
 ## OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
@@ -204,6 +203,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://eradman.com/posts/ephemeral-databases.html
+> https://news.ycombinator.com/item?id=29248299
+
 https://www.migops.com/blog/2021/11/15/postgresql-15-will-include-some-more-regexp-functions/
 
 https://github.com/yandex/odyssey Advanced multi-threaded PostgreSQL connection pooler and request router

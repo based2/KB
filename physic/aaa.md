@@ -53,6 +53,9 @@ https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-mult
 > https://news.ycombinator.com/item?id=29026673
 
 # News
+https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118
+> https://news.ycombinator.com/item?id=29280780
+
 https://arxiv.org/abs/2110.15800
 > https://news.ycombinator.com/item?id=29072800
 

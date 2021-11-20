@@ -17,6 +17,12 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://github.com/losfair/blueboat
+> https://news.ycombinator.com/item?id=29266562
+
+https://www.lastweekinaws.com/blog/the-unfulfilled-promise-of-serverless/
+> https://news.ycombinator.com/item?id=29282824
+
 https://app.netlify.com/drop
 > https://news.ycombinator.com/item?id=29254405
 

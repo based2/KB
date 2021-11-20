@@ -27,6 +27,9 @@ https://opensource.com/article/18/11/choosing-printer-linux
 Openoffice
 
 # News
+https://pointieststick.com/2021/11/19/this-week-in-kde-most-of-gnome-shell-in-the-overview-effect/
+> https://news.ycombinator.com/item?id=29285939
+
 https://github.com/udevbe/greenfield
 > https://news.ycombinator.com/item?id=29239781
 

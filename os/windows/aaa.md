@@ -80,6 +80,8 @@ https://github.com/VSCodium/vscodium
 
 https://news.ycombinator.com/item?id=28812486
 
+https://news.ycombinator.com/item?id=29278370
+
 ## Find file
        where /r .\ file_to_find.md
 

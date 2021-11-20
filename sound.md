@@ -19,6 +19,10 @@ https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
 https://www.aalto.fi/en/news/anyone-can-get-super-hearing
 > https://news.ycombinator.com/item?id=27431429
 
+## Filter
+https://cleanvoice.ai/
+> https://news.ycombinator.com/item?id=29288618
+
 #
 https://lelele.io/bliss.html
 > https://lobste.rs/s/b4lrmb/bliss_v2_library_for_making_audio

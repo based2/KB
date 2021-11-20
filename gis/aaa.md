@@ -122,6 +122,8 @@ https://peermaps.org/
 
 https://minitokyo3d.com/ trains
 
+https://safecycle.atelier-des-communs.fr/
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 *
@@ -147,13 +149,17 @@ https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
 > https://news.ycombinator.com/item?id=27849366
 
 # History
-https://en.wikipedia.org/wiki/PostGIS
+
+https://thonyc.wordpress.com/2021/11/04/renaissance-science-xxii/
+> https://news.ycombinator.com/item?id=29281986
 
 https://en.wikipedia.org/wiki/Terravision_(computer_program)
 
 https://en.wikipedia.org/wiki/Esri
 
 https://www.esri.com/en-us/what-is-gis/history-of-gis
+
+https://en.wikipedia.org/wiki/PostGIS
 
 # News
 https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/

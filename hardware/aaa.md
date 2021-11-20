@@ -41,6 +41,9 @@ https://github.com/qwerty-fr/qwerty-fr
 https://dl.acm.org/doi/10.1145/3382035
 > https://news.ycombinator.com/item?id=29237388
 
+https://switchandclick.com/why-are-topre-keyboards-so-expensive/
+> https://news.ycombinator.com/item?id=29282401
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -53,6 +56,14 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+http://www.ke5fx.com/crt.html cathode-ray tube
+
+https://www.renesas.com/us/en/about/press-room/renesas-enters-fpga-market-first-ultra-low-power-low-cost-family-addressing-low-density-high-volume
+> https://news.ycombinator.com/item?id=29261574
+
+https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html
+> https://news.ycombinator.com/item?id=29273829
+
 https://www.theregister.com/2021/11/05/turbo_button/
 > https://news.ycombinator.com/item?id=29142075
 

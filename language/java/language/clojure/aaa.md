@@ -83,6 +83,8 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/9d336c2c16ae4ad33d12bd1830853b6a5377c431/doc/OS_as_DB_en.md
+
 https://lambdaisland.com/blog/2021-11-03-making-nrepl-cider-more-dynamic-1
 
 https://blog.michielborkent.nl/migrating-octopress-to-babashka.html

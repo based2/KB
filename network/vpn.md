@@ -2,6 +2,8 @@ https://www.wireguard.com/
 
 https://news.ycombinator.com/item?id=24812199
 
+https://www.procustodibus.com/blog/2021/03/wireguard-allowedips-calculator/
+
 https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html
 > https://news.ycombinator.com/item?id=28039956
 
@@ -27,6 +29,9 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # News
+https://www.techradar.com/news/judge-orders-mediation-after-jury-orders-oxylabs-to-pay-dollar75m-in-latest-episode-of-proxy-wars
+> https://news.ycombinator.com/item?id=29285988
+
 https://mullvad.net/de/blog/2021/11/1/introducing-wireguard-over-tcp-and-ipv6/
 > https://news.ycombinator.com/item?id=29088567
 

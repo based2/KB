@@ -33,6 +33,9 @@ https://systemtalk.org/post/macintosh-history-8510/
 # HyperCard
 https://hypercard.org/
 
+https://hypervariety.com/WildCard/
+> https://news.ycombinator.com/item?id=29284296
+
 https://news.ycombinator.com/item?id=26507454 Mac SE/30 logicboard recreation 
 
 https://archive.org/details/The_Complete_HyperCard_Handbook/

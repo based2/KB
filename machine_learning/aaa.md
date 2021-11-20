@@ -219,6 +219,8 @@ https://thereader.mitpress.mit.edu/ai-insight-problems-quirks-human-intelligence
 https://arxiv.org/abs/2109.13916 Unsolved Problems in ML Safety
 > https://news.ycombinator.com/item?id=28809233
 
+https://news.ycombinator.com/item?id=29289431
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -241,6 +243,18 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html
+> https://news.ycombinator.com/item?id=29268780
+
+https://elicit.org/
+> https://news.ycombinator.com/item?id=29262357
+
+http://peterbloem.nl/blog/transformers
+> https://news.ycombinator.com/item?id=29280909
+
+https://santurcesoftware.com/machine-learning-san-juan-traffic
+> https://news.ycombinator.com/item?id=29259530
+
 https://hackaday.com/2021/11/13/opengl-machine-learning-runs-on-low-end-hardware/
 > https://news.ycombinator.com/item?id=29216317
 

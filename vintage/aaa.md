@@ -41,6 +41,12 @@ https://vintageapple.org/byte/
 https://www.inexhibit.com/case-studies/project-sphinx-when-the-ussr-tried-to-change-the-computer/
 > https://news.ycombinator.com/item?id=28986682
 
+https://www.retrobrewcomputers.org/doku.php
+> https://news.ycombinator.com/item?id=29274377
+
+https://www.homebrewcpuring.org/
+> https://news.ycombinator.com/item?id=29272595
+
 
 
 

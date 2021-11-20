@@ -98,6 +98,19 @@ http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 > https://news.ycombinator.com/item?id=27775089
 
 # News
+https://techcrunch.com/2021/11/20/astra-successfully-reaches-orbit-for-the-first-time-with-latest-rocket-launch/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAACL45L-uFx3jLPcA6Sr7By8uFxD9ITL-nPh7u1WULW7FkdtBBQYqBUAu8pV3o-hSyMCvyisT_esQedJwvIRM6nFZLanK88igzG6Y5JsRBuy-hMdPE2UoInCMqfeWLtraccD-99yQI1YKdqg0RayF_OPPw1ILMd7Hwso5T0qkvWy
+
+https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab115/6413826
+> https://news.ycombinator.com/item?id=29276393
+
+https://www.nature.com/articles/s41586-021-04015-y In-orbit demonstration of an iodine electric propulsion system
+> https://news.ycombinator.com/item?id=29276960
+
+https://www.satellite-evolution.com/post/pangea-aerospace-successfully-hot-fire-tests-the-first-methalox-aerospike-engine-in-the-world
+> https://news.ycombinator.com/item?id=29276746
+
+https://www.cnbc.com/2021/11/09/spinlaunch-completes-first-test-flight-of-alternative-rocket.html
+
 https://www.unoosa.org/oosa/en/ourwork/spacelaw/treaties.html
 
 https://www.space.com/spinlaunch-first-test-flight-success

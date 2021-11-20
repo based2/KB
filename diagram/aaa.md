@@ -112,6 +112,11 @@ https://asciiflow.com/#/
 > https://news.ycombinator.com/item?id=27536253
 
 # News
+https://pshihn.github.io/venn/
+
+https://www.steveruiz.me/posts/rotating-shapes
+> https://news.ycombinator.com/item?id=29277375
+
 https://buttondown.email/hillelwayne/archive/alloy-6-first-impressions/
 > https://news.ycombinator.com/item?id=29237142
 

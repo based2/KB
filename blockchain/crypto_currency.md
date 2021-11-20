@@ -20,6 +20,19 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://apenwarr.ca/log/20211117
+> https://news.ycombinator.com/item?id=29261439
+
+https://www.justice.gov/opa/pr/56-million-seized-cryptocurrency-being-sold-first-step-compensate-victims-bitconnect-fraud
+> https://news.ycombinator.com/item?id=29265441
+
+https://tbdex.io/whitepaper.pdf
+
+https://arxiv.org/abs/2108.10984 Crypto Wash Trading
+> https://news.ycombinator.com/item?id=29279146
+
+https://news.ycombinator.com/item?id=29285219
+
 https://www.constitutiondao.com/
 
 https://adjacentpossible.substack.com/p/lets-run-the-experiment-a-conversation

@@ -61,6 +61,9 @@ https://github.com/jepsen-io/elle
 # Benchmark
 https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 
+# History
+https://queue.acm.org/detail.cfm?id=3501713
+
 # News
 https://databricks.com/blog/2021/11/15/snowflake-claims-similar-price-performance-to-databricks-but-not-so-fast.html
 

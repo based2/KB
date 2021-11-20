@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.theguardian.com/technology/2021/nov/20/tesla-app-outage-elon-musk-apologises
+> https://news.ycombinator.com/item?id=29288238
+
 https://electrek.co/2021/10/29/toyota-unveils-first-all-electric-car-bz4x-an-electric-suv-packed-cool-features/
 > https://news.ycombinator.com/item?id=29042263
 

@@ -17,7 +17,15 @@ https://www.kenrockwell.com/tech/raw.htm photo
 https://dither8.xyz/blog/img-future/
 > https://news.ycombinator.com/item?id=28219972
 
+https://blog.benjojo.co.uk/post/not-all-jpegs-are-the-same
+> https://news.ycombinator.com/item?id=29276300
+
 # News
+https://amzn.github.io/ion-docs/
+> https://news.ycombinator.com/item?id=29284428
+
+https://crates.io/crates/fcode
+
 https://tedium.co/2021/11/10/10-forgotten-image-formats/
 > https://news.ycombinator.com/item?id=29175656
 

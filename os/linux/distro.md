@@ -62,6 +62,12 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28
+> https://news.ycombinator.com/item?id=29265871
+
+https://boilingsteam.com/i-love-arch-but-gnu-guix-is-my-new-distro/
+> https://news.ycombinator.com/item?id=29264888
+
 https://news.ycombinator.com/item?id=29137127 Ask HN: With Ubuntu pushing snaps, are you considering moving to another OS?
 
 https://twitter.com/moyix/status/1456857178996883456

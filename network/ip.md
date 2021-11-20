@@ -44,6 +44,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://github.com/schoen/unicast-extensions
+> https://news.ycombinator.com/item?id=29273841
+
 https://blog.daknob.net/mapping-44net/
 
 https://www.ietf.org/id/draft-schoen-intarea-unicast-127-00.html

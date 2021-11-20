@@ -12,6 +12,11 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-TCP-Optimization&utm_content=187840157&utm_medium=social&utm_source=linkedin&hss_channel=lcp-11041071
+> https://news.ycombinator.com/item?id=29283621
+
+https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-k10temp-New-AMD-Zen
+
 https://lwn.net/Articles/861251/ Core scheduling lands in 5.14
 > https://news.ycombinator.com/item?id=29075423
 

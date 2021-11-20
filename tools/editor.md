@@ -67,6 +67,9 @@ https://vscodium.com/
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 # News
+http://www.jedit.org/
+> https://news.ycombinator.com/item?id=29291330
+
 https://micro-editor.github.io/
 > https://news.ycombinator.com/item?id=29128702
 

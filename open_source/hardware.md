@@ -79,6 +79,9 @@ https://opensourceecology.dozuki.com/c/LifeTrac
 https://github.com/maxvfischer/DIY-CNC-machine
 > https://news.ycombinator.com/item?id=29096954
 
+https://plasticscanner.com/
+> https://news.ycombinator.com/item?id=29269584
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 > https://news.ycombinator.com/item?id=27628101

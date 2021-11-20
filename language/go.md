@@ -66,6 +66,9 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/
+> https://news.ycombinator.com/item?id=29258967
+
 https://news.ycombinator.com/item?id=29238563
 
 https://utcc.utoronto.ca/~cks/space/blog/programming/GoAmd64ArchitectureLevels

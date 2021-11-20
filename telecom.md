@@ -78,6 +78,8 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
 
 # News
+https://news.ycombinator.com/item?id=29287158
+
 https://www.ofcom.org.uk/news-centre/2021/thousands-of-call-boxes-set-for-protection
 > https://news.ycombinator.com/item?id=29172186
 

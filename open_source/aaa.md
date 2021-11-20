@@ -184,6 +184,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://fossforce.com/2021/11/a-german-state-is-saying-goodbye-windows-hello-linux/
+> https://news.ycombinator.com/item?id=29287720
+
 https://twitter.com/OBSProject/status/1460782968633499651
 > https://news.ycombinator.com/item?id=29249766
 

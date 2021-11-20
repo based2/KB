@@ -74,6 +74,15 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://gauthier.uk/blog/grub_less/
+> https://news.ycombinator.com/item?id=29278063
+
+https://blog.cloudflare.com/the-tale-of-a-single-register-value/?a
+> https://news.ycombinator.com/item?id=29260464
+
+https://gist.github.com/motorailgun/cc2c573f253d0893f429a165b5f851ee Installing Windows and Linux into the same partition
+> https://news.ycombinator.com/item?id=29288720
+
 https://news.ycombinator.com/item?id=29215270
 
 https://changelog.complete.org/archives/10311-managing-an-external-display-on-linux-shouldnt-be-this-hard

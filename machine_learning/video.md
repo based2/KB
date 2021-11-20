@@ -28,4 +28,6 @@ https://huggingface.co/spaces/akhaliq/AnimeGANv2
 https://github.com/yeemachine/kalidokit
 > https://news.ycombinator.com/item?id=29179566
 
+https://github.com/open-mmlab/mmflow
+> https://news.ycombinator.com/item?id=29285877
 

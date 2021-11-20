@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://news.ycombinator.com/item?id=29254147
+
 https://www.workflow86.com/
 > https://news.ycombinator.com/item?id=29152173
 

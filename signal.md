@@ -22,6 +22,11 @@ https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280
 
 # News
+https://en.wikipedia.org/wiki/LoRa
+
+https://www.richis-lab.de/DAC07.htm Analog Devices AD1139
+> https://news.ycombinator.com/item?id=29286154
+
 https://spectrum.ieee.org/ham-radio-text-hacking
 > https://news.ycombinator.com/item?id=29255885
 

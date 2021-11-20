@@ -1,7 +1,37 @@
+https://arstechnica.com/information-technology/2021/11/malware-downloaded-from-pypi-41000-times-was-surprisingly-stealthy/
+> https://www.reddit.com/r/programming/comments/qy2q95/malware_downloaded_from_pypi_41000_times_was/
+
+https://blog.thinkst.com/2021/11/building-wiregate-wireguard-front-to.html
+> https://www.reddit.com/r/netsec/comments/qxpefy/building_wiregate_a_wireguard_front_to_detect/
+
+https://www.pentestpartners.com/security-blog/skyfail-6-million-routers-left-exposed/
+
+https://www.cpomagazine.com/cyber-security/new-ransomware-reporting-rules-for-us-financial-institutions-proposed-bill-would-require-government-permission-for-payments-over-100000/
+> https://news.ycombinator.com/item?id=29274934
+
+https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets
+> https://news.ycombinator.com/item?id=29265760
+
+https://portswigger.net/daily-swig/secure-development-new-and-improved-linux-random-number-generator-ready-for-testing
+> https://news.ycombinator.com/item?id=29256482
+
+https://kerkour.com/rust-crate-backdoor/
+> https://news.ycombinator.com/item?id=29265765
+
+https://scamspotter.org/
+> https://news.ycombinator.com/item?id=29278411
+
+https://krebsonsecurity.com/2021/11/the-zelle-fraud-scam-how-it-works-how-to-fight-back/
+> https://news.ycombinator.com/item?id=29282870
+
+https://blog.scrt.ch/2021/11/15/tpm-sniffing/
+> https://news.ycombinator.com/item?id=29258879
+
 https://github.com/ssh-mitm/ssh-mitm
 > https://news.ycombinator.com/item?id=29256572
 
 https://www.schneier.com/blog/archives/2021/11/is-microsoft-stealing-peoples-bookmarks.html
+> https://news.ycombinator.com/item?id=29286900
 
 https://outage.bingo/
 > https://news.ycombinator.com/item?id=29244453

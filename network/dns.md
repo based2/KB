@@ -73,6 +73,10 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://unbuild.blog/2021/10/io/ .io
+
+https://news.ycombinator.com/item?id=29281532
+
 https://dnsleaktest.com/
 
 https://www.internetsociety.org/blog/2021/11/nis2-security-resiliency-and-dns-server-infrastructure/

@@ -16,6 +16,9 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://gitlab.com/kragen/bubbleos
+>
+
 https://fms.komkon.org/EMUL8/HOWTO.html
 > https://news.ycombinator.com/item?id=29237372
 

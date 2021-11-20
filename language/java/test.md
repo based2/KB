@@ -100,8 +100,13 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 > https://www.reddit.com/r/java/comments/osht20/towards_continuous_performance_regression_testing/
 
 # News
+https://johanneslink.net/model-based-testing/
+> https://news.ycombinator.com/item?id=29266897
+
 https://github.com/mockito/mockito/releases/tag/v4.0.0
+
 https://github.com/fuzzdbunit/fuzzdbunit
+
 https://blog.frankel.ch/reassessing-testng-junit/
 > https://www.reddit.com/r/java/comments/prayh5/reassessing_testng_vs_junit/
 https://www.reddit.com/r/java/comments/np59b3/testng_vs_junit_which_testing_framework_should/

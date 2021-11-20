@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://renews.biz/73639/uk-backs-135gw-turkish-solar-giant/
+> https://news.ycombinator.com/item?id=29275837
+
 https://techxplore.com/news/2021-11-strategy-fabricate-solar-cells-efficiencies.html
 > https://news.ycombinator.com/item?id=29229263
 

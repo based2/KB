@@ -12,6 +12,9 @@ https://klarasystems.com/articles/lets-talk-openzfs-snapshots/
 https://klarasystems.com/articles/understanding-zfs-channel-programs/
 > https://news.ycombinator.com/item?id=28467049
 
+https://klarasystems.com/articles/demystifying-openzfs-2-0/
+> https://news.ycombinator.com/item?id=29264886
+
 # Distributed
 https://www.lustre.org/
 

@@ -88,6 +88,9 @@ https://github.com/speedyg0nz/MagInkCal
 https://leancrew.com/all-this/2021/10/how-many-thursdays/
 > https://news.ycombinator.com/item?id=28986236
 
+https://jol.dev/blog/2021-11-16-n2-sed-challenge-join-cal-y-months-into-a-single-column.html
+> https://news.ycombinator.com/item?id=29255125
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster
@@ -155,7 +158,7 @@ https://www.tigerbeetle.com/post/three-clocks-are-better-than-one
 https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most-complicated-clock.html
 > https://news.ycombinator.com/item?id=28725191
 
-https://thehtime.com/
+https://thehtime.com/ Combining UTC and local times (time zones) in one new clock
 > https://news.ycombinator.com/item?id=28928550
 
 ## Animation

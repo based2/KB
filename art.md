@@ -39,6 +39,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://johnmuirlaws.com/drawing-birds/
+> https://news.ycombinator.com/item?id=29284222
+
 https://github.com/napframework/nap
 > https://www.napframework.com/showcase/
 
