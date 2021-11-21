@@ -1,3 +1,10 @@
+https://paragonie.com/blog/2015/11/preventing-timing-attacks-on-string-comparison-with-double-hmac-strategy
+>
+
+https://www.climatechangetracker.org/
+> https://news.ycombinator.com/item?id=29295018
+> >
+
 https://scrippso2.ucsd.edu/index.html o2
 > https://news.ycombinator.com/item?id=27720014
 

@@ -53,6 +53,8 @@ https://aws.amazon.com/en/blogs/compute/operating-lambda-anti-patterns-in-event-
 
 https://aws.amazon.com/en/blogs/compute/operating-lambda-application-design-part-3/
 
+https://aws.amazon.com/en/blogs/compute/modernizing-deployments-with-container-images-in-aws-lambda/
+
 # Costs
 https://aws.amazon.com/en/blogs/compute/serverless-automated-cost-controls-part1/
 

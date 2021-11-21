@@ -119,6 +119,10 @@ https://www.bryanbraun.com/checkboxland/
 > https://news.ycombinator.com/item?id=28489791
 > https://www.bryanbraun.com/2020/06/06/checkboxland/
 
+# History
+https://zachholman.com/posts/only-90s-developers/
+> https://news.ycombinator.com/item?id=29296003
+
 # News
 https://www.ctrl.blog/entry/html-responsive-video.html
 > https://news.ycombinator.com/item?id=29024868

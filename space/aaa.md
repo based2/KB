@@ -52,6 +52,8 @@ https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
 https://www.france24.com/en/live-news/20211115-space-debris-event-forces-iss-crew-to-take-evasive-action
 > https://arstechnica.com/science/2021/11/debris-from-a-satellite-shot-down-by-the-russians-appears-to-threaten-the-iss/
 > > https://news.ycombinator.com/item?id=29231790
+> https://leolabs-space.medium.com/analysis-of-the-cosmos-1408-breakup-71b32de5641f
+> > https://news.ycombinator.com/item?id=29294360
 
 ## Tianhe
 https://www.globaltimes.cn/page/202107/1227953.shtml

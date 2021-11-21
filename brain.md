@@ -16,6 +16,9 @@ https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perce
 https://news.mit.edu/2021/neurons-humans-mammals-1110
 > https://news.ycombinator.com/item?id=29213806
 
+https://www.nature.com/articles/548150a
+> https://news.ycombinator.com/item?id=29293231
+
 # Worm
 https://news.ycombinator.com/item?id=29045198
 

@@ -203,6 +203,8 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://www.postgresql.org/about/news/pgpool-ii-426-419-4016-3721-and-3628-released-2357/
+
 https://eradman.com/posts/ephemeral-databases.html
 > https://news.ycombinator.com/item?id=29248299
 

@@ -1,3 +1,12 @@
+https://paragonie.com/blog/2015/11/preventing-timing-attacks-on-string-comparison-with-double-hmac-strategy
+> https://news.ycombinator.com/item?id=29294975
+
+https://httpwg.org/http-extensions/draft-ietf-httpbis-message-signatures.html
+> https://news.ycombinator.com/item?id=29281449
+> > https://docs.aws.amazon.com/general/latest/gr/sigv4_elements.html
+
+https://www.cs.ucr.edu/~zhiyunq/pub/ccs21_dns_poisoning.pdf
+
 https://arstechnica.com/information-technology/2021/11/malware-downloaded-from-pypi-41000-times-was-surprisingly-stealthy/
 > https://www.reddit.com/r/programming/comments/qy2q95/malware_downloaded_from_pypi_41000_times_was/
 
@@ -75,7 +84,8 @@ https://research.kudelskisecurity.com/2021/11/12/practical-attacks-against-attri
 
 https://www.bortzmeyer.org/measuring-gfw.html
 
-https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough
+https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-
+> https://news.ycombinator.com/item?id=29283057
 
 https://blog.google/threat-analysis-group/analyzing-watering-hole-campaign-using-macos-exploits/
 
@@ -149,7 +159,7 @@ https://blog.acolyer.org/2020/11/16/pigasus/
 https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 > https://www.cisa.gov/news/2021/11/03/cisa-releases-directive-reducing-significant-risk-known-exploited-vulnerabilities
 
-https://thehackernews.com/2021/11/critical-rce-vulnerability-reported-in.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+TheHackersNews+%28The+Hackers+News+-+Cyber+Security+Blog%29
+https://thehackernews.com/2021/11/critical-rce-vulnerability-reported-in.html
 > https://nvd.nist.gov/vuln/detail/CVE-2021-43267
 > Linux kernel before 5.14.16, introduced in September 2020. The Transparent Inter-Process Communication (TIPC) functionality allows remote attackers to exploit insufficient validation of user-supplied sizes for the MSG_CRYPTO message type.
 
@@ -188,7 +198,7 @@ https://www.synacktiv.com/en/publications/finding-gadgets-like-its-2015-part-1.h
 
 https://dustri.org/b/ten-years-of-mat.html
 
-https://trojansource.codes/
+https://trojansource.codes/ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-42574
 > https://www.lightbluetouchpaper.org/2021/11/01/trojan-source-invisible-vulnerabilities/
 > > https://www.trojansource.codes/trojan-source.pdf
 > > https://news.ycombinator.com/item?id=29061987
@@ -205,6 +215,10 @@ https://trojansource.codes/
 > https://confluence.atlassian.com/security/multiple-products-security-advisory-unrendered-unicode-bidirectional-override-characters-cve-2021-42574-1086419475.html?subid=1534467808&jobid=105251298&utm_campaign=multiple-products-advisory_november-2021_EML-11738&utm_medium=email&utm_source=alert-email
 > > https://news.ycombinator.com/item?id=29074565
 > https://www.python.org/dev/peps/pep-0672/
+> https://blog.rust-lang.org/2021/11/01/cve-2021-42574.html
+> https://gitlab.com/gitlab-org/gitlab/-/issues/344610
+> https://icu.unicode.org/security ?
+> https://github.com/microsoft/monaco-editor/issues/2713
 
 https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
 

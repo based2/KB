@@ -53,6 +53,9 @@ http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-
 > https://news.ycombinator.com/item?id=28104657
 
 # News
+https://www.oilshell.org/blog/2021/11/release-0.9.4.html
+> https://news.ycombinator.com/item?id=29292187
+
 https://github.com/koalaman/shellcheck/releases/tag/v0.8.0
 
 https://github.com/fish-shell/fish-shell/releases/tag/3.3.0

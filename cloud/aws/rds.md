@@ -13,6 +13,8 @@ https://dba.stackexchange.com/questions/42736/best-strategies-to-have-a-backup-o
 
 https://renovacloud.com/9-mistakes-that-kill-your-aws-rds-replication/?lang=en
 
+https://severalnines.com/database-blog/comparing-amazon-rds-point-time-recovery-clustercontrol
+
 ## Replicas
 https://jayendrapatil.com/rds-read-replicas/
 

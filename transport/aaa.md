@@ -1,3 +1,6 @@
+https://gcaptain.com/yara-birkeland-worlds-first-autonomous-zero-emission-ship/
+> https://news.ycombinator.com/item?id=29292322
+
 https://www.computerweekly.com/feature/What-Norwegians-are-learning-as-they-pioneer-autonomous-ships
 > https://news.ycombinator.com/item?id=29186098
 

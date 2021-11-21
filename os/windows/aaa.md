@@ -108,6 +108,10 @@ https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly
 https://github.com/valinet/ExplorerPatcher
 
 # News
+https://krebsonsecurity.com/2021/11/microsoft-patch-tuesday-november-2021-edition/
+
+https://news.ycombinator.com/item?id=29295506
+
 https://news.ycombinator.com/item?id=29229881#29230235
 
 https://news.ycombinator.com/item?id=29177000

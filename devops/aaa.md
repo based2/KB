@@ -71,6 +71,9 @@ https://0ver.org/
 https://alexgaynor.net/2021/oct/07/whats-in-a-version-number/
 > https://news.ycombinator.com/item?id=28785147
 
+https://github.com/ptaoussanis/encore/blob/master/BREAK-VERSIONING.md
+> https://lobste.rs/s/kg6rov/break_versioning
+
 # CI
 
 https://www.jenkins.io/
@@ -101,6 +104,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://mattsegal.dev/devops-academic-research.html
+> https://news.ycombinator.com/item?id=29294644
+
 https://www.courier.com/blog/routing-and-preferences
 
 https://github.blog/2021-11-18-7-advanced-workflow-automation-features-with-github-actions/

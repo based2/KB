@@ -91,6 +91,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://blog.llvm.org/posts/2021-11-18-relicensing-update/
+> https://news.ycombinator.com/item?id=29292516
+
 https://tamikothiel.com/theory/cm_txts/
 > https://news.ycombinator.com/item?id=29201810
 

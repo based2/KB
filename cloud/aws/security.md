@@ -1,0 +1,1 @@
+https://forums.aws.amazon.com/thread.jspa?messageID=954027#954027 OpenQ:AWS Shield Standard and Lightsail 

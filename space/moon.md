@@ -20,6 +20,8 @@ https://en.wikipedia.org/wiki/Lunar_lava_tube
 https://theconversation.com/the-moons-top-layer-alone-has-enough-oxygen-to-sustain-8-billion-people-for-100-000-years-170013
 > https://news.ycombinator.com/item?id=29186644
 
+https://en.wikipedia.org/wiki/469219_Kamo%CA%BBoalewa
+
 # History
 https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html
 > https://news.ycombinator.com/item?id=28260568

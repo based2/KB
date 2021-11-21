@@ -179,6 +179,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://hcarvalhoalves.github.io/software-development-waste/
+> https://news.ycombinator.com/item?id=29281734
+
 https://solutionspace.blog/2021/11/16/the-trouble-with-platforms/
 > https://news.ycombinator.com/item?id=29246204
 

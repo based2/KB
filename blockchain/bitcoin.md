@@ -18,6 +18,8 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.arte.tv/fr/videos/097372-001-A/le-mystere-satoshi-aux-origines-du-bitcoin-1-6/
+
 https://textframe.app/examples/bitcoin
 > https://news.ycombinator.com/item?id=29234636
 

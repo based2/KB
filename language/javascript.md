@@ -193,6 +193,8 @@ https://replpad.com/
 https://withblue.ink/2019/04/12/i-loved-jquery-and-still-do.html
 > https://news.ycombinator.com/item?id=27676550
 
+https://jqueryui.com/changelog/1.13.0/ CVEs fixes
+
 # Oracle Jet
 https://www.oracle.com/webfolder/technetwork/jet/index.html
 

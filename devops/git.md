@@ -234,6 +234,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://cj.rs//blog/git-ls-files-is-faster-than-fd-and-find/
+
 https://github.blog/2021-11-15-highlights-from-git-2-34/
 > https://news.ycombinator.com/item?id=29230100
 

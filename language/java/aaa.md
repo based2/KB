@@ -248,6 +248,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.reddit.com/r/java/comments/qypqbd/forking_google/
+
 https://openjdk.java.net/jeps/8277131 Virtual Threads (Preview)
 > https://news.ycombinator.com/item?id=29236375
 

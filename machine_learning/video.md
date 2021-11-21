@@ -31,3 +31,5 @@ https://github.com/yeemachine/kalidokit
 https://github.com/open-mmlab/mmflow
 > https://news.ycombinator.com/item?id=29285877
 
+https://pytorchvideo.org/
+

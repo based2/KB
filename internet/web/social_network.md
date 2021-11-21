@@ -19,7 +19,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 > https://arstechnica.com/tech-policy/2021/09/leaked-documents-reveal-the-special-rules-facebook-uses-for-5-8m-vips/
 
 # Dmoz
-
+# BBS
+https://www.telnetbbsguide.com/
+> 
 # News
 https://join-lemmy.org
 

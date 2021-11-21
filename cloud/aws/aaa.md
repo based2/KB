@@ -68,6 +68,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/fr/service-terms/historical/2020-03-23/
 
 # News
+https://aws.amazon.com/en/blogs/aws/scalable-cost-effective-disaster-recovery-in-the-cloud/
+
 https://aws.amazon.com/en/blogs/mobile/override-amplify-generated-backend-resources-using-cdk/
 
 https://aws.amazon.com/en/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/

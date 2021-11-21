@@ -22,6 +22,9 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca
+> https://news.ycombinator.com/item?id=29296642
+
 https://news.ycombinator.com/item?id=29254147
 
 https://www.workflow86.com/

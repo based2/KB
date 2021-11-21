@@ -193,6 +193,9 @@ https://rust-unofficial.github.io/patterns/
 https://pragprog.com/titles/hwrust/hands-on-rust/
 > https://news.ycombinator.com/item?id=28861618
 
+https://danielkeep.github.io/tlborm/book/README.html macros
+> https://news.ycombinator.com/item?id=29297507
+
 # Interop
 https://news.ycombinator.com/item?id=26565444 CXX C++
 

@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://blog.rocketinsights.com/chrome-extension-cd/
+> https://news.ycombinator.com/item?id=29297313
+
 https://www.xda-developers.com/microsoft-edge-buy-now-pay-later/
 > https://news.ycombinator.com/item?id=29288052
 > https://techcommunity.microsoft.com/t5/articles/introducing-buy-now-pay-later-in-microsoft-edge/m-p/2967030

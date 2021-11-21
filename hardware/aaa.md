@@ -56,6 +56,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/
+> https://news.ycombinator.com/item?id=29293338
+
 http://www.ke5fx.com/crt.html cathode-ray tube
 
 https://www.renesas.com/us/en/about/press-room/renesas-enters-fpga-market-first-ultra-low-power-low-cost-family-addressing-low-density-high-volume
