@@ -35,6 +35,9 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression
+> https://news.ycombinator.com/item?id=29328750
+
 https://netflixtechblog.com/cambi-a-banding-artifact-detector-96777ae12fe2 video
 
 https://github.com/sstadick/crabz rust

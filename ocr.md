@@ -50,3 +50,6 @@ https://sw.ink/create
 
 # Object labelling
 https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera
+
+# News
+https://newsreleases.sandia.gov/fog_tests/

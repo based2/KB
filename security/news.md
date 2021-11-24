@@ -1,3 +1,9 @@
+https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt
+> https://news.ycombinator.com/item?id=29315378
+> https://www.reddit.com/r/programming/comments/r0beui/full_key_extraction_of_nvidia_tsec/
+
+https://security.humanativaspa.it/brida-0-5-released-for-hack-in-paris-2021/
+
 https://paragonie.com/blog/2015/11/preventing-timing-attacks-on-string-comparison-with-double-hmac-strategy
 > https://news.ycombinator.com/item?id=29294975
 
@@ -219,6 +225,7 @@ https://trojansource.codes/ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2
 > https://gitlab.com/gitlab-org/gitlab/-/issues/344610
 > https://icu.unicode.org/security ?
 > https://github.com/microsoft/monaco-editor/issues/2713
+> https://tech.michaelaltfield.net/2021/11/22/bidi-unicode-github-defense/
 
 https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
 

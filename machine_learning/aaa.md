@@ -243,6 +243,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/sbu-fsl/kernel-ml
+> https://news.ycombinator.com/item?id=29315135
+
+https://explosion.ai/blog/edit-tree-lemmatizer
+
 https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html
 > https://news.ycombinator.com/item?id=29268780
 

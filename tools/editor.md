@@ -54,6 +54,8 @@ http://mbork.pl/2021-11-06_The_Emacs_Lisp_book_is_finished
 https://github.com/qdot/deldo
 > https://news.ycombinator.com/item?id=29207607
 
+https://emacs-ng.github.io/emacs-ng/
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

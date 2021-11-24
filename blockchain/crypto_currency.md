@@ -20,6 +20,12 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://asia.nikkei.com/Business/Finance/Japan-to-launch-bank-deposit-backed-digital-currency-in-2022
+> https://news.ycombinator.com/item?id=29330819
+
+https://www.stephendiehl.com/blog/nothing-burger.html
+> https://news.ycombinator.com/item?id=29330879
+
 https://apenwarr.ca/log/20211117
 > https://news.ycombinator.com/item?id=29261439
 

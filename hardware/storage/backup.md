@@ -32,6 +32,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/
+> https://news.ycombinator.com/item?id=29333351
+
 https://raymii.org/s/blog/Yearly_Backup_Restore_test.html
 > https://lobste.rs/s/ejrhd5/yearly_backup_restore_test
 

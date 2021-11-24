@@ -189,6 +189,14 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages
+> https://news.ycombinator.com/item?id=29327424
+
+https://bartoszmilewski.com/2021/02/16/functorio/
+> https://news.ycombinator.com/item?id=29299140
+
+https://doisinkidney.com/posts/2020-10-17-ski.html
+
 https://effekt-lang.org/
 > https://news.ycombinator.com/item?id=29275887
 

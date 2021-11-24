@@ -74,6 +74,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://alpinelinux.org/posts/Alpine-3.15.0-released.html
+> https://news.ycombinator.com/item?id=29330394
+
 https://gauthier.uk/blog/grub_less/
 > https://news.ycombinator.com/item?id=29278063
 

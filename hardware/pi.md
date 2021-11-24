@@ -1,3 +1,8 @@
+https://www.jeffgeerling.com/blog/2021/mini-itx-seaberry-adds-11-pcie-slots-raspberry-pi
+> https://news.ycombinator.com/item?id=29330637
+
+https://hackaday.com/2021/11/01/the-pi-zero-2-w-is-the-most-efficient-pi/
+
 https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-ridiculous
 > https://news.ycombinator.com/item?id=29253928
 

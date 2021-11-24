@@ -9,13 +9,13 @@ https://www.reblaze.com/blog/how-to-use-aws-cloudfront-deploying-amazons-cdn-and
 
 https://hub.steampipe.io/mods/turbot/aws_compliance/controls/benchmark.rbi_cyber_security
 
-https://aws.amazon.com/fr/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/
+https://aws.amazon.com/en/about-aws/whats-new/2021/07/aws-allows-customers-pay-their-usage-in-advance/
 > https://news.ycombinator.com/item?id=27904622
 
 https://expeditedsecurity.com/aws-in-plain-english/
 > https://news.ycombinator.com/item?id=27948209
 
-https://aws.amazon.com/fr/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/
+https://aws.amazon.com/en/blogs/aws/happy-10th-birthday-aws-identity-and-access-management/
 > https://news.ycombinator.com/item?id=28190608
 
 https://medium.com/@nirdosh.gautam/how-to-cleanup-aws-cloudformation-stacks-efficiently-32e69f9b62f9
@@ -28,7 +28,7 @@ https://laravel-news.com/aws-mistakes Missed optimization opportunities in EC2
 Amazon Redshift Research Project - Auto-Vacuum
 https://www.amazonredshiftresearchproject.org/white_papers/downloads/auto_vacuum.pdf
 
-https://aws.amazon.com/fr/blogs/aws/announcing-aws-cloud-control-api/
+https://aws.amazon.com/en/blogs/aws/announcing-aws-cloud-control-api/
 > https://news.ycombinator.com/item?id=28710179
 
 https://www.alexdebrie.com/posts/dynamodb-limits/
@@ -65,9 +65,12 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://gist.github.com/victorb/d51151a71bbc2cea8db27e115ab5cf16
 > https://aws.amazon.com/service-terms/#:~:text=this%20restriction%20will%20not%20apply%20in%20the%20event%20of%20the%20occurrence%20(certified%20by%20the%20United%20States%20Centers%20for%20Disease%20Control%20or%20successor%20body)%20of%20a%20widespread%20viral%20infection%20transmitted%20via%20bites%20or%20contact%20with%20bodily%20fluids%20that%20causes%20human%20corpses%20to%20reanimate%20and%20seek%20to%20consume%20living%20human%20flesh
 > https://news.ycombinator.com/item?id=29078403
-> https://aws.amazon.com/fr/service-terms/historical/2020-03-23/
+> https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://aws.amazon.com/en/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/
+> https://news.ycombinator.com/item?id=29332207
+
 https://aws.amazon.com/en/blogs/aws/scalable-cost-effective-disaster-recovery-in-the-cloud/
 
 https://aws.amazon.com/en/blogs/mobile/override-amplify-generated-backend-resources-using-cdk/

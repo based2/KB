@@ -7,7 +7,7 @@ List TLS versions supported:
 
 # Others
 
-* Amazon: https://aws.amazon.com/fr/blogs/security/introducing-s2n-a-new-open-source-tls-implementation/
+* Amazon: https://aws.amazon.com/en/blogs/security/introducing-s2n-a-new-open-source-tls-implementation/
 * Microsoft: SChannel
 * Google: https://boringssl.googlesource.com/boringssl/
 

@@ -26,3 +26,7 @@ https://en.wikipedia.org/wiki/469219_Kamo%CA%BBoalewa
 https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html
 > https://news.ycombinator.com/item?id=28260568
 
+# News
+https://news.northropgrumman.com/news/releases/northrop-grumman-announces-team-for-nasas-next-generation-lunar-terrain-vehicle
+> https://news.ycombinator.com/item?id=29297825
+

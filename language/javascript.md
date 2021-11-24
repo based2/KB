@@ -38,6 +38,9 @@ https://blog.vuejs.org/posts/vue-3.2.html
 https://github.com/WebCrateApp/webcrate
 > https://news.ycombinator.com/item?id=28301262
 
+https://hezedu.github.io/history-navigation-vue/
+> https://news.ycombinator.com/item?id=29296713
+
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 
@@ -304,6 +307,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://blogg.bekk.no/how-javascript-engines-achieve-great-performance-fb0b36601557
+> https://news.ycombinator.com/item?id=29327573
+
 https://ncase.me/joy/#examples
 > https://news.ycombinator.com/item?id=29267109
 

@@ -6,7 +6,7 @@ https://github.com/ModernCloud/moderncloud
 https://github.com/doctorray117/minecraft-ondemand
 > https://news.ycombinator.com/item?id=28454968
 
-https://aws.amazon.com/fr/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/
+https://aws.amazon.com/en/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/
 > https://news.ycombinator.com/item?id=28700209
 
 https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1
@@ -35,7 +35,7 @@ https://aws.amazon.com/en/blogs/compute/using-aws-lambda-extensions-to-send-logs
 # Step functions
 https://aws.amazon.com/en/blogs/compute/integrating-aws-step-functions-callbacks-and-external-systems/
 
-https://aws.amazon.com/fr/blogs/compute/implementing-serverless-manual-approval-steps-in-aws-step-functions-and-amazon-api-gateway/
+https://aws.amazon.com/en/blogs/compute/implementing-serverless-manual-approval-steps-in-aws-step-functions-and-amazon-api-gateway/
 
 # Debug
 https://aws.amazon.com/en/blogs/compute/operating-lambda-debugging-integrations-part-3/
@@ -59,12 +59,14 @@ https://aws.amazon.com/en/blogs/compute/modernizing-deployments-with-container-i
 https://aws.amazon.com/en/blogs/compute/serverless-automated-cost-controls-part1/
 
 # Solutions
-https://aws.amazon.com/fr/blogs/compute/creating-a-cost-efficient-amazon-ecs-cluster-for-scheduled-tasks/
+https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-cluster-for-scheduled-tasks/
 
 # Security
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://news.ycombinator.com/item?id=29300081
+
 https://aws.amazon.com/en/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/
 
 https://aws.amazon.com/en/blogs/compute/python-3-9-runtime-now-available-in-aws-lambda/

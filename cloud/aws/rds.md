@@ -16,6 +16,8 @@ https://renovacloud.com/9-mistakes-that-kill-your-aws-rds-replication/?lang=en
 https://severalnines.com/database-blog/comparing-amazon-rds-point-time-recovery-clustercontrol
 
 ## Replicas
+https://aws.amazon.com/en/blogs/database/readable-standby-instances-in-amazon-rds-multi-az-deployments-a-new-high-availability-option/
+
 https://jayendrapatil.com/rds-read-replicas/
 
 https://www.securekloud.com/image/white-papers/SecureKloud_Exploring-Amazon-RDS-MySQL-Second-Tier-Read-Replica.pdf

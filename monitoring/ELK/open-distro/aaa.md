@@ -3,9 +3,9 @@
   > https://opendistro.github.io/for-elasticsearch-docs/
   > https://github.com/orgs/opendistro-for-elasticsearch/projects/3 Roadmap
 
-https://aws.amazon.com/fr/blogs/opensource/open-distro-for-elasticsearch-alerting-monitors-command-line/
+https://aws.amazon.com/en/blogs/opensource/open-distro-for-elasticsearch-alerting-monitors-command-line/
 
-https://aws.amazon.com/fr/blogs/opensource/change-passwords-open-distro-for-elasticsearch/
+https://aws.amazon.com/en/blogs/opensource/change-passwords-open-distro-for-elasticsearch/
 https://github.com/opendistro-for-elasticsearch/security/issues/75
 
 https://logz.io/blog/open-distro-for-elasticsearch/

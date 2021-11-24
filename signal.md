@@ -22,6 +22,12 @@ https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280
 
 # News
+https://hackaday.io/project/62710-taking-digital-xray-shots-for-cheap-300
+> https://news.ycombinator.com/item?id=29295998
+
+https://www.rtl-sdr.com/receiving-starlink-beacons-with-a-hackrf-supercluster/
+> https://news.ycombinator.com/item?id=29296129
+
 https://en.wikipedia.org/wiki/LoRa
 
 https://www.richis-lab.de/DAC07.htm Analog Devices AD1139

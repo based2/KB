@@ -27,7 +27,7 @@ https://www.infoworld.com/article/3630107/how-to-secure-rest-with-spring-securit
 https://blog.frankel.ch/annotation-free-spring/
 > https://www.reddit.com/r/java/comments/pmuqk8/annotationfree_spring/
 
-https://auth0.com/blog/spring-boot-logs-aggregation-and-monitoring-using-elk-stack/?utm_source=reddit&utm_medium=sc&utm_campaign=spring
+https://auth0.com/blog/spring-boot-logs-aggregation-and-monitoring-using-elk-stack/
 
 https://www.marcobehler.com/guides/spring-framework
 
@@ -45,6 +45,8 @@ https://spring.io/blog/2021/10/13/spring-tips-spring-plugin
 https://github.com/codependent/spring-boot-ssl-mutual-authentication
 
 # News
+https://arnoldgalovics.com/spring-cloud-feign-traffic-cut-off-with-resilience4j-timelimiter/
+
 https://www.reddit.com/r/java/comments/qms7x7/what_is_the_state_of_spring_webflux_and_r2dbc/
 
 https://dimitr.im/spring-interface

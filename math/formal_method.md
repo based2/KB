@@ -6,6 +6,9 @@ http://why3.lri.fr/
 > > https://www.lri.fr/~paulin/LASER/course-notes.pdf
 > > > https://www.theregister.com/2021/06/15/coq_programming_language_change/ coc
 
+https://danilafe.com/blog/coq_dawn/
+> https://news.ycombinator.com/item?id=29299697
+
 https://uds-psl.github.io/tm-verification-framework/
 > https://news.ycombinator.com/item?id=26860503
 

@@ -174,6 +174,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/redcode-labs/Penthon
+
 https://www.daan.fyi/writings/python-protocols
 
 https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm_-_Idea_plugins.html

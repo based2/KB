@@ -1,9 +1,7 @@
 https://paragonie.com/blog/2015/11/preventing-timing-attacks-on-string-comparison-with-double-hmac-strategy
->
 
 https://www.climatechangetracker.org/
 > https://news.ycombinator.com/item?id=29295018
-> >
 
 https://scrippso2.ucsd.edu/index.html o2
 > https://news.ycombinator.com/item?id=27720014
@@ -53,6 +51,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.dezeen.com/2021/07/05/carbon-climate-change-trees-afforestation/
+
 https://www.tbray.org/ongoing/When/202x/2021/11/09/Climate-Crisis-Resistance
 > https://news.ycombinator.com/item?id=29220729
 
@@ -195,7 +195,7 @@ https://www.nytimes.com/2021/03/09/business/electric-cars-japan.html
 https://www.bbc.com/future/article/20210603-nitrous-oxide-the-worlds-forgotten-greenhouse-gas
 > https://news.ycombinator.com/item?id=28243781
 
-https://www.swissinfo.ch/eng/business/big-swiss-companies-obliged-to-report-climate-risks-from-2024/46878298?utm_campaign=swi-rss&utm_source=multiple&utm_medium=rss&utm_content=o
+https://www.swissinfo.ch/eng/business/big-swiss-companies-obliged-to-report-climate-risks-from-2024/46878298
 
 https://www.reuters.com/article/emissions-methane-idUSMTZSPDEH8EU9J79K
 > https://news.ycombinator.com/item?id=28211826

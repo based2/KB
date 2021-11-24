@@ -81,7 +81,7 @@ https://eclecticlight.co/2021/07/18/last-week-on-my-mac-the-perils-of-m1-ownersh
 https://blog.jae.fi/apple-m1-three-months-later/
 > https://lobste.rs/s/vqny0j/apple_m1_three_months_later
 
-https://eclecticlight.co/2021/04/22/can-you-trust-floating-point-arithmetic-on-apple-silicon/?utm_source=bengtan.com
+https://eclecticlight.co/2021/04/22/can-you-trust-floating-point-arithmetic-on-apple-silicon/
 
 https://developer.apple.com/metal/tensorflow-plugin/
 > https://news.ycombinator.com/item?id=27442475

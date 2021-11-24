@@ -63,6 +63,8 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf
+
 https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/
 > https://news.ycombinator.com/item?id=29164386
 
