@@ -13,6 +13,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://zkproof.org/2021/11/24/practical-snark-based-vdf/
+> 
+
 https://twitter.com/jasoncitron/status/1457841222995693570
 > 
 

@@ -23,6 +23,11 @@ https://www.nature.com/articles/548150a
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.caltech.edu/about/news/how-to-read-a-jellyfishs-mind
+> https://news.ycombinator.com/item?id=29368061
+
+https://www.pnas.org/content/113/18/4900
+
 https://github.com/Ildaron/ironbci
 > https://news.ycombinator.com/item?id=29192073
 

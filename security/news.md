@@ -1,3 +1,18 @@
+https://github.com/intel/intel-sdsi
+> https://news.ycombinator.com/item?id=29302045
+
+https://developer.apple.com/forums/thread/682332
+> https://news.ycombinator.com/item?id=29303023
+
+https://ajxchapman.github.io/security/2021/11/10/practical-security-recommendations-for-startups.html
+> https://news.ycombinator.com/item?id=29383475
+
+https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/
+> https://news.ycombinator.com/item?id=29306163
+
+https://sansec.io/research/cronrat
+> https://news.ycombinator.com/item?id=29368511
+
 https://gist.githubusercontent.com/plutooo/733318dbb57166d203c10d12f6c24e06/raw/15c5b2612ab62998243ce5e7877496466cabb77f/tsec.txt
 > https://news.ycombinator.com/item?id=29315378
 > https://www.reddit.com/r/programming/comments/r0beui/full_key_extraction_of_nvidia_tsec/
@@ -965,6 +980,7 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
 > > > https://news.ycombinator.com/item?id=28516095
 > https://www.commerce.gov/news/press-releases/2021/11/commerce-adds-nso-group-and-other-foreign-companies-entity-list
 > > https://news.ycombinator.com/item?id=29095265
+> https://news.ycombinator.com/item?id=29388927 
 
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 > https://news.ycombinator.com/item?id=27868487

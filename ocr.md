@@ -48,6 +48,9 @@ https://huonw.github.io/blog/2021/09/qr-error-correction/
 https://sw.ink/create
 > https://news.ycombinator.com/item?id=29188474
 
+https://menu.cards/
+> https://news.ycombinator.com/item?id=29305129
+
 # Object labelling
 https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera
 

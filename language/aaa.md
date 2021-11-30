@@ -189,6 +189,24 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://polite.technology/preview
+> https://news.ycombinator.com/item?id=29349857
+
+https://blog.toit.io/the-toit-language-is-now-open-source-14bdcb1604d9
+> https://news.ycombinator.com/item?id=29304614
+
+https://github.com/tenderlove/asmrepl
+> https://news.ycombinator.com/item?id=29385006
+
+https://lkml.org/lkml/2020/5/29/1038 Linus on Line Breaks (2020) (lkml.org)
+> https://news.ycombinator.com/item?id=29370692
+
+https://programming-journal.org/2022/6/8/ Types for Tables: A Language Design Benchmark
+> https://news.ycombinator.com/item?id=29340159
+
+https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer
+> https://news.ycombinator.com/item?id=29364892
+
 https://www.masteringemacs.org/article/tree-sitter-complications-of-parsing-languages
 > https://news.ycombinator.com/item?id=29327424
 

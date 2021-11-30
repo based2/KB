@@ -208,6 +208,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://dataorienteddesign.com/dodbook/node2.html
+> https://news.ycombinator.com/item?id=29292868
+
 https://dask.org/
 > https://news.ycombinator.com/item?id=29260492
 

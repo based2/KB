@@ -98,6 +98,8 @@ http://opentaxsolver.sourceforge.net/
 > https://news.ycombinator.com/item?id=28760442
 
 # News
+https://americanaffairsjournal.org/2021/08/the-emerging-american-industrial-policy/
+
 https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html
 > https://news.ycombinator.com/item?id=29218930
 

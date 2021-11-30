@@ -45,6 +45,10 @@ https://spring.io/blog/2021/10/13/spring-tips-spring-plugin
 https://github.com/codependent/spring-boot-ssl-mutual-authentication
 
 # News
+https://docs.spring.io/spring-framework/docs/current/reference/pdf/
+
+https://www.marcobehler.com/
+
 https://arnoldgalovics.com/spring-cloud-feign-traffic-cut-off-with-resilience4j-timelimiter/
 
 https://www.reddit.com/r/java/comments/qms7x7/what_is_the_state_of_spring_webflux_and_r2dbc/

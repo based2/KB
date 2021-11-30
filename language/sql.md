@@ -33,7 +33,6 @@ https://use-the-index-luke.com/
 # Security - Injection
 https://patchthenet.medium.com/introduction-to-sql-injection-sql-injection-for-beginners-579c00431d40
 
-
 # Client
 https://dbgate.org/ Open-source, cross-platform SQL+noSQL database client - Typescript,Svelte
 > https://news.ycombinator.com/item?id=26899100
@@ -60,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://github.com/weinberg/SQLToy
+> https://news.ycombinator.com/item?id=29385432
+
 https://blog.crunchydata.com/blog/postgres-queries-for-projecting-monthly-revenue-run-rate
 
 https://news.ycombinator.com/item?id=28834117

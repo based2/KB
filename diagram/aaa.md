@@ -111,7 +111,16 @@ https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming
 https://asciiflow.com/#/
 > https://news.ycombinator.com/item?id=27536253
 
+# State Machine
+https://mannhowie.com/finite-state-machines
+
 # News
+https://www.anishathalye.com/2019/12/12/constraint-based-graphic-design/
+> https://news.ycombinator.com/item?id=29347715
+
+https://github.com/piebro/factorio-blueprint-visualizer
+> https://news.ycombinator.com/item?id=29381969
+
 https://pshihn.github.io/venn/
 
 https://www.steveruiz.me/posts/rotating-shapes

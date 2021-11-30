@@ -36,6 +36,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://capiche.com/e/consumer-dev-tools-command-palette
+> https://news.ycombinator.com/item?id=29373536
+
 https://github.com/adrianscheff/useful-sed
 > https://news.ycombinator.com/item?id=29196221
 

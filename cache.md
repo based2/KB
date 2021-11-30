@@ -30,3 +30,7 @@ https://engineering.fb.com/2021/10/26/core-data/kangaroo/ Flash cache that enabl
 
 https://engineering.atspotify.com/2021/11/16/introducing-xcremotecache-the-ios-remote-caching-tool-that-cut-our-clean-build-times-by-70/
 > https://news.ycombinator.com/item?id=29249572
+
+# Cloud
+https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3
+> https://news.ycombinator.com/item?id=29388588

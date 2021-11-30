@@ -32,6 +32,9 @@ https://github.com/kqito/vim-easy-replace
 # Emacs - Elisp
 https://www.gnu.org/software/emacs/
 
+https://www.emacsdocs.org/
+> https://news.ycombinator.com/item?id=29387391
+
 https://arxiv.org/abs/2004.02504
 > https://news.ycombinator.com/item?id=27011013
 
@@ -56,6 +59,8 @@ https://github.com/qdot/deldo
 
 https://emacs-ng.github.io/emacs-ng/
 
+https://bzg.fr/en/how-to-help-gnu-emacs-maintainers/
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -69,6 +74,15 @@ https://vscodium.com/
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 # News
+https://giansegato.com/essays/what-future-ides/
+> https://news.ycombinator.com/item?id=29304667
+
+https://github.com/tonsky/FiraCode
+> https://news.ycombinator.com/item?id=29383583
+
+https://www.jetbrains.com/fleet/ https://blog.jetbrains.com/blog/2021/11/29/introducing-remote-development-for-jetbrains-ides/
+> https://news.ycombinator.com/item?id=29377412
+
 http://www.jedit.org/
 > https://news.ycombinator.com/item?id=29291330
 

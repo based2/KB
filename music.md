@@ -127,7 +127,17 @@ https://ludotune.com
 https://www.pianobook.co.uk/
 > https://news.ycombinator.com/item?id=27454717
 
+https://www.charlesbrooks.info/architecture-in-music
+> https://news.ycombinator.com/item?id=29389442
+
 # News
+https://github.com/SubhadeepJasu/Ensembles Realtime musical performance arranger app
+
+https://flujoo.github.io/en/generate-accompaniment-progression/
+> https://news.ycombinator.com/item?id=29368549
+
+https://www.windytan.com/2021/11/spiral-spectrograms-and-intonation.html
+
 https://www.musanim.com/HarmonicColoring/
 > https://news.ycombinator.com/item?id=29241387
 

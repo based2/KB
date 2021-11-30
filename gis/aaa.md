@@ -82,8 +82,6 @@ https://github.com/maplibre/maplibre-gl-js
 # ASCII
 https://github.com/rastapasta/mapscii
 > https://news.ycombinator.com/item?id=27042629
-
-https://github.com/rastapasta/mapscii
 > https://news.ycombinator.com/item?id=27387585
 
 https://pessimistress.github.io/ascii/

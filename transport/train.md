@@ -1,3 +1,5 @@
+https://euobserver.com/investigations/153542
+> https://news.ycombinator.com/item?id=29305827
 
 https://www.magpie-maps.com/
 > https://news.ycombinator.com/item?id=27562959

@@ -79,6 +79,10 @@ https://gist.github.com/alirobe/7f3b34ad89a159e6daa1 reclaimWindows10.ps1
 https://firstpartysimulator.org/ EFF
 > https://news.ycombinator.com/item?id=27523834
 
+https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52017PC0010 &from=WHERE
+
+https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation
+
 # Alt
 https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives
 > https://news.ycombinator.com/item?id=27630397
@@ -89,6 +93,9 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://www.reuters.com/world/us/us-lawmakers-call-privacy-legislation-after-reuters-report-amazon-lobbying-2021-11-22/
+> https://news.ycombinator.com/item?id=29305777
+
 https://www.reuters.com/investigates/special-report/amazon-privacy-lobbying/
 > https://news.ycombinator.com/item?id=29280530
 

@@ -243,6 +243,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://lastweekin.ai/p/the-inherent-limitations-of-gpt-3
+> https://news.ycombinator.com/item?id=29382887
+
 https://github.com/sbu-fsl/kernel-ml
 > https://news.ycombinator.com/item?id=29315135
 

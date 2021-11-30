@@ -1,3 +1,7 @@
+https://github.com/vortexgpgpu/vortex GPGPU Research project from Georgia Tech, OpenCL, ISA extensions
+> https://news.ycombinator.com/item?id=29388213
+> https://vortex.cc.gatech.edu/
+
 https://marz.utk.edu/my-courses/cosc230/book/example-risc-v-assembly-programs/
 > https://news.ycombinator.com/item?id=26946993
 

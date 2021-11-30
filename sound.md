@@ -62,3 +62,10 @@ https://www.quantamagazine.org/the-brain-processes-speech-in-parallel-with-other
 # Test
 https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
+
+# News
+https://www.soundguys.com/what-is-distortion-thd-47149/
+> https://news.ycombinator.com/item?id=29367016
+
+https://librivox.org/
+> https://news.ycombinator.com/item?id=29382006

@@ -6,3 +6,6 @@ https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/
 
 https://scroll.pub/
 > https://news.ycombinator.com/item?id=29171467
+
+https://marktext.app/
+> https://news.ycombinator.com/item?id=29382001

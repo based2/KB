@@ -1,3 +1,8 @@
+https://cloud.google.com/blog/topics/developers-practitioners/microservices-architecture-google-cloud
+> https://news.ycombinator.com/item?id=29294267
+
+https://news.ycombinator.com/item?id=29376820 Ask HN: Best way to spend $25k in GCP
+
 https://github.com/flowerinthenight/spindle
 > https://news.ycombinator.com/item?id=28778677
 

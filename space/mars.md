@@ -19,6 +19,14 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://ops-alaska.com/time/forward/forward.htm
+> https://news.ycombinator.com/item?id=29367902
+
+https://ntrs.nasa.gov/api/citations/20150019662/downloads/20150019662.pdf Examination of “The Martian” Trajectory
+
+https://spaceexplored.com/2021/11/29/spacex-raptor-crisis/
+> https://news.ycombinator.com/item?id=29389518
+
 https://news.ycombinator.com/item?id=29253623
 
 https://www.nasa.gov/image-feature/jpl/once-in-a-blue-dune

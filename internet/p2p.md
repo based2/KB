@@ -43,6 +43,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://www.freedomjs.org/
+> https://news.ycombinator.com/item?id=29368502
+
 https://www.ctrl.blog/entry/opera-unite.html
 > https://news.ycombinator.com/item?id=29249112
 

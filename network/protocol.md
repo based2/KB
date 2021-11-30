@@ -19,18 +19,3 @@ https://modern.ircdocs.horse/
 
 https://docs.modernxmpp.org/
 > https://news.ycombinator.com/item?id=28276266
-
-# BGP
-https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/
-> https://news.ycombinator.com/item?id=27768778
-
-https://elegantnetwork.github.io/posts/followup-measuring-BGP-stacks/
-
-https://www.openbgpd.org/
-> https://news.ycombinator.com/item?id=28762391
-
-https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/
-> https://news.ycombinator.com/item?id=28760731
-
-https://en.wikipedia.org/wiki/BGP_hijacking#Public_incidents
-> https://www.reddit.com/r/netsec/comments/q19c4e/list_of_public_bgp_hijacking_incidents/

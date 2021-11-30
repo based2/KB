@@ -26,6 +26,9 @@ https://www.domainlanguage.com/articles/good-design-is-imperfect-design-part-1-h
 https://blog.thenounproject.com/mastering-the-basics-of-icon-design-with-adrien-coquet-9c3802093e30
 > https://news.ycombinator.com/item?id=27903808
 
+https://svgsilh.com/
+> https://news.ycombinator.com/item?id=29376832
+
 # Font
 https://tug.org/FontCatalogue/
 > https://news.ycombinator.com/item?id=27917366

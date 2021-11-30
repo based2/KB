@@ -6,3 +6,6 @@ https://hsivonen.fi/string-length/
 
 https://emojicons.netlify.app/ To SVG
 > https://news.ycombinator.com/item?id=26922244
+
+https://tikolu.net/emojimix/
+> https://news.ycombinator.com/item?id=29305546

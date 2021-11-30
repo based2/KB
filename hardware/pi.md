@@ -1,3 +1,8 @@
+https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/
+> https://news.ycombinator.com/item?id=29306616
+
+https://news.ycombinator.com/item?id=29377783
+
 https://www.jeffgeerling.com/blog/2021/mini-itx-seaberry-adds-11-pcie-slots-raspberry-pi
 > https://news.ycombinator.com/item?id=29330637
 

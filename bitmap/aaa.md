@@ -45,7 +45,6 @@ https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/
 https://news.ycombinator.com/item?id=27536525
 
 http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring/
-*
 
 https://nicole.express/2021/the-problem-of-art.html
 

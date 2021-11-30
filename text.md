@@ -63,6 +63,9 @@ https://queue.acm.org/detail.cfm?id=1871406 To move forward with programming lan
 http://www.network-science.de/ascii/
 > https://news.ycombinator.com/item?id=28736997
 
+https://blog.asciinema.org/post/smaller-faster/
+> https://news.ycombinator.com/item?id=29387761
+
 #
 https://blogs.oracle.com/mysql/mysql%3a-character-sets%2c-unicode%2c-and-uca-compliant-collations
 

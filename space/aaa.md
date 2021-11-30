@@ -99,7 +99,13 @@ https://petapixel.com/2021/09/15/a-closer-look-how-i-created-a-248mp-photo-of-th
 http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 > https://news.ycombinator.com/item?id=27775089
 
+https://everydayastronaut.com/soviet-rocket-engines/
+> https://news.ycombinator.com/item?id=29359038
+
 # News
+https://caseyhandmer.wordpress.com/2021/11/17/science-upside-for-starship/
+> https://news.ycombinator.com/item?id=29305544
+
 https://techcrunch.com/2021/11/20/astra-successfully-reaches-orbit-for-the-first-time-with-latest-rocket-launch/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAACL45L-uFx3jLPcA6Sr7By8uFxD9ITL-nPh7u1WULW7FkdtBBQYqBUAu8pV3o-hSyMCvyisT_esQedJwvIRM6nFZLanK88igzG6Y5JsRBuy-hMdPE2UoInCMqfeWLtraccD-99yQI1YKdqg0RayF_OPPw1ILMd7Hwso5T0qkvWy
 
 https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biab115/6413826

@@ -92,6 +92,14 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://simons.berkeley.edu/events/breakthroughs-locally-testable-codes-constant-rate-distance-and-locality
+
+https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/
+> https://news.ycombinator.com/item?id=29340823
+> https://news.ycombinator.com/item?id=29346810
+> > https://en.wikipedia.org/wiki/Polar_code_(coding_theory)
+> > https://en.wikipedia.org/wiki/Locally_testable_code
+
 https://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/
 > https://news.ycombinator.com/item?id=29120492
 

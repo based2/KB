@@ -176,8 +176,12 @@ https://elderguide.com/tech/elderjs/
 
 https://erock.io/2021/07/18/my-experience-with-svelte-kit.html
 
+https://svelte-cubed.vercel.app/
+> https://news.ycombinator.com/item?id=29310150
+
 #
-https://www.solidjs.com/
+https://www.solidjs.com/ https://markojs.com/
+> https://news.ycombinator.com/item?id=29388296
 
 ## Hyperscript (applescript)
 https://hyperscript.org/comparison/
@@ -293,7 +297,7 @@ https://seanbarry.dev/posts/switch-true-pattern
 
 https://en.wikipedia.org/wiki/Tree_shaking
 
-# compiler
+# Compiler
 https://www.purescript.org/
 
 https://github.com/easafe/purescript-flame
@@ -307,6 +311,15 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/romellogoodman/flow-field.js
+> https://news.ycombinator.com/item?id=29378522
+
+https://www.talospace.com/2021/11/51552-javascript-tests-cant-be-wrong.html
+> https://news.ycombinator.com/item?id=29302695
+
+https://sirre.al/2021/02/12/volta-vs-nvm-for-managing-javascript-tooling/
+> https://news.ycombinator.com/item?id=29307378
+
 https://blogg.bekk.no/how-javascript-engines-achieve-great-performance-fb0b36601557
 > https://news.ycombinator.com/item?id=29327573
 

@@ -65,6 +65,9 @@ https://www.cybertec-postgresql.com/en/postgresql-detecting-slow-queries-quickly
 
 https://github.com/plv8/plv8
 
+https://github.com/agroal/pgagroal High-performance protocol-native connection pool
+> https://news.ycombinator.com/item?id=29303627
+
 ## Index
 http://leopard.in.ua/2015/04/13/postgresql-indexes/
 
@@ -100,6 +103,10 @@ https://github.com/nearform/temporal_tables
 > https://news.ycombinator.com/item?id=26748096
 
 https://depth-first.com/articles/2021/09/07/a-rust-postgresql-extension-for-cas-numbers/
+
+https://postgrest.org/en/v9.0/releases/v9.0.0.html
+> https://news.ycombinator.com/item?id=29389576
+> https://github.com/PostgREST/postgrest 
 
 # Security
 https://goteleport.com/blog/securing-postgres-postgresql/
@@ -203,6 +210,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://schemaverse.com/
+> https://news.ycombinator.com/item?id=29375911
+
 https://www.postgresql.org/about/news/pgpool-ii-426-419-4016-3721-and-3628-released-2357/
 
 https://eradman.com/posts/ephemeral-databases.html

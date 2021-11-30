@@ -63,6 +63,8 @@ https://www.collabora.com/news-and-blog/blog/2021/09/30/a-tale-of-two-toolchains
 
 https://www.youtube.com/watch?v=3pRhvQi7Z10 2019 LLVM Developers’ Meeting: “Writing Loop Optimizations in LLVM”
 
+https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups
+
 ## Clang
 https://reviews.llvm.org/D108643
 
@@ -91,6 +93,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://fabiensanglard.net/floating_point_visually_explained/
+> https://news.ycombinator.com/item?id=29368529
+
 https://blog.llvm.org/posts/2021-11-18-relicensing-update/
 > https://news.ycombinator.com/item?id=29292516
 

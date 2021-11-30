@@ -69,6 +69,9 @@ https://www.innoq.com/de/blog/nginx-ssi-env/
 > https://news.ycombinator.com/item?id=28703680
 
 ##
+https://caddyserver.com/
+> https://news.ycombinator.com/item?id=29378030
+
 https://www.hiawatha-webserver.org/about
 > https://news.ycombinator.com/item?id=28727922
 

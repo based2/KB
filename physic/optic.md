@@ -25,3 +25,6 @@ https://github.com/bencbartlett/3D-printed-mirror-array
 
 https://phys.org/news/2021-11-simple-silicon-coating-long-standing-optical.html
 
+https://80.lv/articles/scientists-create-salt-grain-sized-hi-res-camera/
+> https://news.ycombinator.com/item?id=29390071
+

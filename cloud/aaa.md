@@ -17,6 +17,18 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://db2portal.blogspot.com/2015/04/controlling-mainframe-software-costs.html
+
+https://danubecloud.org/ OSS Datacenter management
+> https://github.com/erigones/esdc-ce
+
+https://hbr.org/2021/11/how-cloud-based-supercomputing-is-changing-rd
+
+https://en.wikipedia.org/wiki/CLOUD_Act US
+
+https://www.zdnet.com/article/eu-companies-sue-microsoft-onedrive-windows-integration/
+> https://news.ycombinator.com/item?id=29370785
+
 https://github.com/losfair/blueboat
 > https://news.ycombinator.com/item?id=29266562
 

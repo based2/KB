@@ -19,6 +19,9 @@ https://www.sciencealert.com/useless-specks-of-dust-turn-out-to-be-ancient-build
 https://news.ycombinator.com/item?id=29137765
 
 # Machine
+https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce
+> https://news.ycombinator.com/item?id=29389871
+
 https://www.newscientist.com/article/2285141-single-celled-organism-has-evolved-a-natural-mechanical-computer/
 > https://news.ycombinator.com/item?id=28006599
 

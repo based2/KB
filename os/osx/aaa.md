@@ -28,7 +28,6 @@ https://bryce.co/xcode-vim-map/
 # VM
 https://github.com/foxlet/macOS-Simple-KVM
 
-
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 
@@ -128,6 +127,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://eclecticlight.co/2021/11/27/explainer-ds_store-files/
+> https://news.ycombinator.com/item?id=29358932
+
 https://www.ifixit.com/News/55370/apple-diy-repair-program-parts-tools-guides-software
 
 https://www.apple.com/newsroom/2021/11/apple-announces-self-service-repair/

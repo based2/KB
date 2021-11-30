@@ -61,6 +61,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://softwaredoug.com/blog/2021/11/28/how-lammbamart-works.html
+> https://news.ycombinator.com/item?id=29379936
+
 https://www.nona.de/
 > https://news.ycombinator.com/item?id=29267455
 

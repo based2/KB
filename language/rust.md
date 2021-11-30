@@ -152,6 +152,10 @@ https://dl.acm.org/doi/abs/10.1145/3453483.3454084 SyRust: automatic testing of 
 https://github.com/briansmith/ring Safe, fast, small crypto using Rust with BoringSSL's cryptography primitives
 > https://briansmith.org/rustdoc/ring/
 
+# REPL
+https://codeamigo.dev/lessons/preview/161
+> https://news.ycombinator.com/item?id=29295707
+
 ## Web
 https://github.com/seed-rs/seed
 > https://news.ycombinator.com/item?id=28567714
@@ -291,6 +295,15 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://github.com/rust-lang/team/pull/671
+> https://news.ycombinator.com/item?id=29306845
+
+https://joelthelion.github.io/life_web/demo/
+> https://news.ycombinator.com/item?id=29369877
+
+https://www.thecodedmessage.com/posts/endian_polymorphism/
+> https://news.ycombinator.com/item?id=29359828
+
 https://www.embeddedrelated.com/showarticle/1432.php
 
 https://gamozolabs.github.io/fuzzing/2021/11/16/rust_on_nt_mips.html

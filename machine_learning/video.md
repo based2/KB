@@ -33,3 +33,11 @@ https://github.com/open-mmlab/mmflow
 
 https://pytorchvideo.org/
 
+https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-text
+
+# News
+https://www.unite.ai/why-adversarial-image-attacks-are-no-joke/
+> https://news.ycombinator.com/item?id=29380537
+
+https://www.unite.ai/disney-combines-cgi-with-neural-rendering-to-tackle-the-uncanny-valley/
+> https://news.ycombinator.com/item?id=29390099

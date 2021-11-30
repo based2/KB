@@ -8,6 +8,8 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://euroquis.nl//freebsd/2021/11/24/bison.html
+
 https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2
 > https://news.ycombinator.com/item?id=29215725
 

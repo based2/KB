@@ -179,6 +179,12 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://www.echoeshq.com/post/the-ticketing-conundrum
+> https://news.ycombinator.com/item?id=29368446
+
+https://thevaluable.dev/complexity-metrics-software/
+> https://news.ycombinator.com/item?id=29367687
+
 https://hcarvalhoalves.github.io/software-development-waste/
 > https://news.ycombinator.com/item?id=29281734
 

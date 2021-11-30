@@ -30,6 +30,9 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.stuff.co.nz/national/politics/127135214/government-to-push-for-international-ban-of-autonomous-weapons-or-killer-robots
+> https://news.ycombinator.com/item?id=29389316
+
 https://blog.hadabot.com/learn-ros2-mobile-robotics-mooc-with-hadabot-robot-kit.html
 > https://news.ycombinator.com/item?id=29270263
 

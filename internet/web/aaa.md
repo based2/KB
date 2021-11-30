@@ -58,6 +58,12 @@ https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/
 https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-networks-with-beautifulsoup-and-networkx/
 
 # News
+https://midrange.tedium.co/issues/bring-back-web1-905071
+> https://news.ycombinator.com/item?id=29380113
+
+https://www.cynicusrex.com/file/web4.html
+> https://news.ycombinator.com/item?id=29370620
+
 https://society.robinsloan.com/archive/notes-on-web3/
 > https://news.ycombinator.com/item?id=29270718
 

@@ -51,6 +51,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought
+> https://news.ycombinator.com/item?id=29386175
+
 https://www.dezeen.com/2021/07/05/carbon-climate-change-trees-afforestation/
 
 https://www.tbray.org/ongoing/When/202x/2021/11/09/Climate-Crisis-Resistance

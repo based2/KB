@@ -1,3 +1,6 @@
+https://github.com/aws/karpenter Improve the efficiency and cost of running workload - scheduler
+> https://news.ycombinator.com/item?id=29388176
+
 https://medium.com/better-programming/amazon-eks-is-eating-my-ips-e18ea057e045
 
 htts://elastisys.com/taking-eks-distro-for-a-spin/

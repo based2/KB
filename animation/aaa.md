@@ -65,6 +65,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/
+> https://news.ycombinator.com/item?id=29376174
+
 https://animejs.com/
 
 https://fjolt.com/article/3d-web-gl-javascript-gradient-effect

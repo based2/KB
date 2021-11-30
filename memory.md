@@ -12,3 +12,6 @@ https://www.brendangregg.com/blog/2021-08-30/high-rate-of-paging.html
 
 https://chrisdown.name/2018/01/02/in-defence-of-swap.html
 > https://news.ycombinator.com/item?id=29159755
+
+https://github.com/stnolting/wb_spi_bridge
+> https://news.ycombinator.com/item?id=29378165

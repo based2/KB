@@ -1,3 +1,7 @@
+IPv6 AAAA record
+
+IPv4 A record 
+
 https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
 > https://news.ycombinator.com/item?id=27396208
 
@@ -73,6 +77,12 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://www.sec.gov/Archives/edgar/data/1609711/000160971121000122/gddyblogpostnov222021.htm
+> https://news.ycombinator.com/item?id=29306554
+
+https://old.reddit.com/r/ipv6/comments/r047ah/redditcom_has_deleted_aaaa_records_and_is_back_to/
+> https://news.ycombinator.com/item?id=29370466
+
 https://unbuild.blog/2021/10/io/ .io
 
 https://news.ycombinator.com/item?id=29281532

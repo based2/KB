@@ -14,3 +14,7 @@ https://spectrum.ieee.org/event-based-camera-chips
 https://www.nutsvolts.com/magazine/article/calculating_current
 
 https://techexplorations.com/blog/kicad/kicad-6-review-new-and-improved-features/
+
+# Microcontroller
+https://github.com/TUDSSL/BFree
+> https://news.ycombinator.com/item?id=29358044

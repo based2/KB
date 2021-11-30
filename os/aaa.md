@@ -16,6 +16,17 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://medium.com/scientific-breakthrough-of-the-afternoon/closure-vs-derivation-in-the-nix-package-manager-ec0eccc53407
+
+https://puri.sm/posts/true-convergence-is-here-pureos-10-is-released-for-all-librem-products/
+> https://news.ycombinator.com/item?id=29306975
+
+https://media.handmade-seattle.com/essence/
+> https://news.ycombinator.com/item?id=29386605
+
+https://avlsi.csl.yale.edu/~rajit/abstracts/async-case.html
+> https://news.ycombinator.com/item?id=29366614
+
 https://gitlab.com/kragen/bubbleos
 >
 

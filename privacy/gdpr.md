@@ -53,6 +53,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.iccl.ie/news/iccl-launches-european-ombudsman-complaint-against-european-commissions-failure-to-take-ireland-to-court-over-the-gdpr/
+> https://news.ycombinator.com/item?id=29387344
+
 https://techcrunch.com/2021/11/05/iab-europe-tcf-gdpr-breach-belgium/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAL99gmM_Zeey03WWw7PzcrIw99ZkXOWPEZK_42gbOVXHZJpmHrpJfNwC28riL4l5qx0TiySBvXMb85zzGz-MIyqrsUez4dbd8FV5xJMR3kd8RE4cOYZh1ujH5VOmD20w6iY759fG2fs9z0vJ1S-lMCJhMiODiU2J937pMqHw2i58
 > https://news.ycombinator.com/item?id=29121848
 

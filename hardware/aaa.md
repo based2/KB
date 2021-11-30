@@ -56,6 +56,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://news.ycombinator.com/item?id=29382643 Are there any 4K “dumb” televisions?
+
 https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/
 > https://news.ycombinator.com/item?id=29293338
 

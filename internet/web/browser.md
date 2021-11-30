@@ -30,6 +30,16 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://ungoogled-software.github.io/
+> https://news.ycombinator.com/item?id=29384856
+
+https://andadinosaur.com/launch-vinegar
+> https://news.ycombinator.com/item?id=29374979
+
+https://batsov.com/articles/2021/11/28/firefox-is-the-only-alternative/
+> https://lobste.rs/s/vesxfe/firefox_is_only_alternative
+> https://news.ycombinator.com/item?id=29378307
+
 https://blog.rocketinsights.com/chrome-extension-cd/
 > https://news.ycombinator.com/item?id=29297313
 

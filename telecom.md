@@ -78,6 +78,9 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
 
 # News
+https://www.tmonews.com/2021/10/t-mobile-postpones-cdma-shutdown-date-another-three-months/
+> https://news.ycombinator.com/item?id=29375590
+
 https://news.ycombinator.com/item?id=29287158
 
 https://www.ofcom.org.uk/news-centre/2021/thousands-of-call-boxes-set-for-protection

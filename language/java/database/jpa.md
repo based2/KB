@@ -51,6 +51,8 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 # News
+https://vladmihalcea.com/9-high-performance-tips-when-using-mysql-with-jpa-and-hibernate/
+
 https://arnoldgalovics.com/how-to-mess-up-statement-batching-in-hibernate/
 > https://www.reddit.com/r/java/comments/qbvhld/how_to_mess_up_statement_batching_in_hibernate/
 

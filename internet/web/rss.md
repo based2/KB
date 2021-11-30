@@ -15,3 +15,6 @@ https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media
 
 https://quakkels.com/posts/rss-is-wonderful/
 > https://news.ycombinator.com/item?id=28967540
+
+https://github.com/damoeb/rss-proxy
+> https://news.ycombinator.com/item?id=29369706

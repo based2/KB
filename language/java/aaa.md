@@ -248,6 +248,17 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/xmolecules/jmolecules/discussions/68
+> https://www.reddit.com/r/java/comments/r2zo2s/jmolecules_202120_released/
+> > https://scabl.blogspot.com/p/advancing-enterprise-ddd.html
+
+https://www.i-programmer.info/news/80-java/15041-lwjgl-the-lightweight-java-game-library-version-33-released.html
+
+https://github.com/eclipse/eclipse-collections-kata
+
+https://richardstartin.github.io/posts/5-java-mundane-performance-tricks
+> https://www.reddit.com/r/java/comments/r3xzqw/5_mundane_java_performance_tips/
+
 https://www.reddit.com/r/java/comments/qypqbd/forking_google/
 
 https://openjdk.java.net/jeps/8277131 Virtual Threads (Preview)

@@ -1,4 +1,7 @@
 # News
+https://alexsaveau.dev/blog/performance/files/kernel/the-fastest-way-to-copy-a-file
+>
+
 https://www.pcmag.com/news/seagate-creates-an-nvme-hard-disk-drive
 > https://news.ycombinator.com/item?id=29209418
 

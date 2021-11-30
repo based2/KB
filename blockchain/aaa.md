@@ -48,6 +48,13 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://www.lynalden.com/proof-of-stake/
+> https://news.ycombinator.com/item?id=29385471
+
+https://yanmaani.github.io/proof-of-stake-is-a-scam-and-the-people-promoting-it-are-scammers/
+> https://news.ycombinator.com/item?id=29366310
+> http://www.hashcash.org/papers/hashcash.pdf
+
 https://meatver.se/
 > https://news.ycombinator.com/item?id=29287739
 

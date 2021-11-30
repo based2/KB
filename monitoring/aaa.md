@@ -63,6 +63,14 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://pqvst.com/2021/11/29/monitor-volume-disk-usage/
+
+https://www.jvsg.com/calculators/cctv-lens-calculator/
+>
+
+https://ubuntu.com/blog/observability-vs-monitoring-debate-an-irreverent-view
+> https://news.ycombinator.com/item?id=29348467
+
 https://hal.inria.fr/hal-03300796/file/virtual_log_KerA30072021.pdf
 
 https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/

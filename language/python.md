@@ -79,6 +79,9 @@ https://pyre-check.org/
 > https://news.ycombinator.com/item?id=27107647
 > https://news.ycombinator.com/item?id=17048446
 
+https://github.com/beartype/beartype
+> https://news.ycombinator.com/item?id=29288402
+
 # Analysis
 https://linuxfr.org/news/python-partie-10-formateur-de-code-analyse-statique
 
@@ -166,6 +169,9 @@ https://bluebanquise.com/
 https://github.com/facebookincubator/cinder
 > https://news.ycombinator.com/item?id=27043217
 
+https://twitter.com/ethanhs/status/1464308141105967104 webassembly
+> https://news.ycombinator.com/item?id=29376105
+
 # Django
 https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 > https://news.ycombinator.com/item?id=27744870
@@ -174,6 +180,11 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://repl.leaningtech.com/?python3
+> https://news.ycombinator.com/item?id=29305643
+
+https://sethmlarson.dev/blog/2021-11-27/experimental-python-3.10-apis-and-trust-stores 
+
 https://github.com/redcode-labs/Penthon
 
 https://www.daan.fyi/writings/python-protocols
