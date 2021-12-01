@@ -56,6 +56,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://sysdig.com/blog/kubernetes-1-23-whats-new/
+
 https://medium.com/@kevin.backman/anthos-on-bare-metal-how-mlb-turned-ball-parks-into-on-prem-k8-clusters-295031253a33
 
 https://blog.thinkst.com/2021/11/a-kubeconfig-canarytoken.html

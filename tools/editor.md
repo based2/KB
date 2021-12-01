@@ -74,6 +74,8 @@ https://vscodium.com/
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 # News
+https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm_-_Idea_plugins.html
+
 https://giansegato.com/essays/what-future-ides/
 > https://news.ycombinator.com/item?id=29304667
 

@@ -68,6 +68,9 @@ https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/excel.pdf
 
 https://samples-breakingintowallstreet-com.s3.amazonaws.com/BIWS-Excel-Formatting-Best-Practices.pdf
 
+https://github.com/mrthefakeperson/Excel-Virtual-Machine
+> https://news.ycombinator.com/item?id=29399862
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 > https://news.ycombinator.com/item?id=26991887
@@ -108,6 +111,8 @@ https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly
 https://github.com/valinet/ExplorerPatcher
 
 # News
+https://cloudblogs.microsoft.com/opensource/2021/11/29/progress-on-making-ebpf-work-on-windows/
+
 https://gist.github.com/Kalinovcic/b4d9cc55a37f929cb62320763e8fbb47
 > https://news.ycombinator.com/item?id=29328439
 

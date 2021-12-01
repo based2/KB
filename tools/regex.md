@@ -41,6 +41,12 @@ https://github.com/AbhinavOmprakash/luna
 https://regexlearn.com/
 > https://news.ycombinator.com/item?id=29251702
 
+https://github.com/learnbyexample/py_regular_expressions/tree/master/interactive_exercises
+> https://news.ycombinator.com/item?id=29391107
+
+https://applied-langua.ge/posts/omrn-compiler.html
+> https://news.ycombinator.com/item?id=29401359
+
 # Grep
 
 https://littlemaninmyhead.wordpress.com/2019/08/04/dont-underestimate-grep-based-code-scanning/

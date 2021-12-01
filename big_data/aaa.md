@@ -163,7 +163,7 @@ https://dirtydatagirl.moogle.cc/rf7put/i-might-have-gone-a-little-bit-overboard
 > https://news.ycombinator.com/item?id=27738828
 
 # BI
-https://superset.apache.org/ modern data exploration and visualization platform - Python, JS
+https://superset.apache.org/ Modern data exploration and visualization platform - Python, JS
 
 https://github.com/mlcraft-io/mlcraft
 
@@ -196,7 +196,6 @@ https://github.com/ExpediaGroup/quibble
 
 https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf
 
-
 https://www.micahlerner.com/2021/08/07/posh-a-data-aware-shell.html
 > https://news.ycombinator.com/item?id=28108347
 
@@ -208,6 +207,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://lakefs.io/data-versioning/
+
 https://dataorienteddesign.com/dodbook/node2.html
 > https://news.ycombinator.com/item?id=29292868
 

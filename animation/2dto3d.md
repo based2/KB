@@ -16,3 +16,6 @@ https://arxiv.org/abs/2110.06635 ADOP: Approximate Differentiable One-Pixel Poin
 https://stuvel.eu/articles/spherical-panoramas/
 > https://news.ycombinator.com/item?id=28349246
 
+https://www.k-lens-one.com/en/home zeiss
+> https://news.ycombinator.com/item?id=29393049
+

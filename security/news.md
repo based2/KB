@@ -1,3 +1,9 @@
+https://arstechnica.com/information-technology/2021/11/google-play-apps-downloaded-300000-times-stole-bank-credentials/
+> https://www.threatfabric.com/blogs/deceive-the-heavens-to-cross-the-sea.html
+>  
+
+https://mksben.l0.cm/2021/11/css-exfiltration-svg-font.html
+
 https://github.com/intel/intel-sdsi
 > https://news.ycombinator.com/item?id=29302045
 

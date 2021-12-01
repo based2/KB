@@ -1,3 +1,5 @@
+https://iximiuz.com/en/posts/computer-networking-101/
+
 alias psg='ps -ef | grep -i $1'
 alias nsg='netstat -natp | grep -i $1'
 

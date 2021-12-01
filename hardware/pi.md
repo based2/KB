@@ -1,3 +1,6 @@
+https://www.club386.com/raspberry-pi-trading-plans-370m-stock-market-ipo/
+> https://news.ycombinator.com/item?id=29392649
+
 https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/
 > https://news.ycombinator.com/item?id=29306616
 

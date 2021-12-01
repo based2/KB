@@ -4,6 +4,8 @@ https://markodenic.com/use-google-like-a-pro/
 
 https://www.gwern.net/Search
 
+https://news.ycombinator.com/item?id=29392702
+
 # Open source
 > http://nutch.apache.org/
 > > https://solr.apache.org/

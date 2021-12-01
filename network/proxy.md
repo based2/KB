@@ -17,3 +17,8 @@ https://news.ycombinator.com/item?id=28873542
 
 # App
 https://openreplay.com/
+
+# News
+https://mangadex.dev/tales-of-seven-proxies/
+> https://www.reddit.com/r/programming/comments/r5pvvg/tales_of_seven_proxies/
+> > https://news.ycombinator.com/item?id=28440742

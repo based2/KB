@@ -13,6 +13,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://github.com/ethereum/EIPs/pull/4488 Transaction calldata gas cost reduction with total calldata limit
+
 https://zkproof.org/2021/11/24/practical-snark-based-vdf/
 > 
 

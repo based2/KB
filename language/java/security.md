@@ -20,6 +20,9 @@ https://itnext.io/java-rmi-for-pentesters-part-two-reconnaissance-attack-against
 
 https://techblog.mediaservice.net/2020/04/java-deserialization-scanner-0-6-is-out/
 
+https://github.com/javapathfinder/jpf-core
+> https://www.reddit.com/r/java/comments/r64zjz/event_java_pathfinder_day_2021_model_checking/ 
+
 #
 https://wiki.sei.cmu.edu/confluence/display/java
 

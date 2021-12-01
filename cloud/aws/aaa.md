@@ -68,6 +68,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://aws.amazon.com/en/machine-learning/trainium/
+
 https://aws.amazon.com/en/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/
 > https://news.ycombinator.com/item?id=29332207
 

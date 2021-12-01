@@ -20,6 +20,10 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://blog.coinbase.com/coinbase-to-acquire-leading-cryptographic-security-company-unbound-security-9c7e67f37e24
+
+https://blog.hachi.one/post/an-introduction-to-plutus-core/ Cardano
+
 https://asia.nikkei.com/Business/Finance/Japan-to-launch-bank-deposit-backed-digital-currency-in-2022
 > https://news.ycombinator.com/item?id=29330819
 

@@ -89,4 +89,7 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 > https://news.ycombinator.com/item?id=29136429
 
 # News
+https://trust.support/feed/moving-castles
+> https://news.ycombinator.com/item?id=29396749
+
 https://www.gamedev.net/tutorials/programming/artificial-intelligence/jump-point-search-fast-a-pathfinding-for-uniform-cost-grids-r4220/

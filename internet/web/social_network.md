@@ -23,6 +23,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 > 
 # News
+https://twitter.com/jack/status/1465347002426867720 Jack, I resigned from Twitter
+> https://news.ycombinator.com/item?id=29380171
+
 https://join-lemmy.org
 
 https://ichi.city/

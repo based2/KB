@@ -189,6 +189,14 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://web.archive.org/web/20170315194527/http://autocad.xarch.at/lisp/ffis.html
+> https://news.ycombinator.com/item?id=29389241
+
+https://julialang.org/blog/2021/11/julia-1.7-highlights/
+> https://news.ycombinator.com/item?id=29399844
+
+https://github.com/dwmkerr/hacker-laws
+
 https://polite.technology/preview
 > https://news.ycombinator.com/item?id=29349857
 

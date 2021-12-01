@@ -18,6 +18,8 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.blockdata.tech/blog/general/bitcoin-volume-mastercard-visa
+
 https://blog.adacore.com/bitcoin-in-ada
 
 https://www.arte.tv/fr/videos/097372-001-A/le-mystere-satoshi-aux-origines-du-bitcoin-1-6/

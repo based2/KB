@@ -44,6 +44,9 @@ https://forum.confluent.io/t/kafka-streams-101-resources-to-get-started/3283
 
 https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181
 
+https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/
+> https://news.ycombinator.com/item?id=29396319
+
 # MQTT
 https://github.com/eclipse/mosquitto C Python
 > https://news.ycombinator.com/item?id=28695346

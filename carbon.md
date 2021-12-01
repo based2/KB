@@ -1,4 +1,4 @@
-https://paragonie.com/blog/2015/11/preventing-timing-attacks-on-string-comparison-with-double-hmac-strategy
+https://skepticalscience.com/EmmissionsAcceleration.html
 
 https://www.climatechangetracker.org/
 > https://news.ycombinator.com/item?id=29295018

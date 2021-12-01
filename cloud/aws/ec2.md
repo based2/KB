@@ -99,6 +99,18 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-amazon-ebs-snapshots-with-amazon-ec2-systems-manager-part-2/
 
 # News
+https://perspectives.mvdirona.com/2021/11/xen-on-nitro-aws-nitro-for-legacy-instances/
+
+https://aws.amazon.com/en/blogs/aws/new-amazon-fsx-for-openzfs/
+> https://news.ycombinator.com/item?id=29399179
+
+https://aws.amazon.com/en/blogs/aws/aws-nitro-ssd-high-performance-storage-for-your-i-o-intensive-applications/
+> https://news.ycombinator.com/item?id=29396198
+
+https://aws.amazon.com/en/blogs/aws/join-the-preview-amazon-ec2-c7g-instances-powered-by-new-aws-graviton3-processors/
+> https://news.ycombinator.com/item?id=29394571
+> https://www.theregister.com/2021/12/01/aws_reinvent_graviton_3/
+
 https://aws.amazon.com/en/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/
 > https://news.ycombinator.com/item?id=29195698
 

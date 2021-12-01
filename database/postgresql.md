@@ -210,6 +210,11 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://github.com/supabase/supabase
+> https://supabase.com/blog/2021/11/30/supabase-studio
+
+https://github.com/eulerto/wal2json
+
 https://schemaverse.com/
 > https://news.ycombinator.com/item?id=29375911
 

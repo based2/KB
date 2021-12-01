@@ -12,3 +12,5 @@ https://blog.metaobject.com/2021/06/asynchronous-sequences-and-polymorphic.html
 > https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine/
 
 https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/
+
+https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7

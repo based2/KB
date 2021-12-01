@@ -24,6 +24,8 @@ https://iai.tv/articles/quantum-mechanics-and-our-part-in-creating-reality-auid-
 https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-optical-quantum-computing-approach/
 
 # News
+https://www.vttresearch.com/en/news-and-ideas/finlands-first-5-qubit-quantum-computer-now-operational
+
 https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor
 > https://news.ycombinator.com/item?id=29244732
 

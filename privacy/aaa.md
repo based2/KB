@@ -82,6 +82,7 @@ https://firstpartysimulator.org/ EFF
 https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52017PC0010 &from=WHERE
 
 https://digital-strategy.ec.europa.eu/en/policies/eprivacy-regulation
+> https://en.wikipedia.org/wiki/EU%E2%80%93US_Privacy_Shield
 
 # Alt
 https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives
@@ -93,6 +94,22 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://news.ycombinator.com/item?id=29401303
+
+https://propertyofthepeople.org/document-detail/?doc-id=21114562
+> https://news.ycombinator.com/item?id=29396643
+
+https://noyb.eu/en/irish-dpc-removes-noyb-gdpr-procedure-criminal-report-filed
+> https://techcrunch.com/2021/11/22/facebooks-lead-eu-privacy-supervisor-hit-with-corruption-complaint/
+
+https://www.quad9.net/news/press/german-court-rules-against/
+> https://news.ycombinator.com/item?id=29398455
+
+https://chrome.google.com/webstore/detail/cookie-factory/opbjchmbdpkblanncmhmkgikoogpjjip?hl=fr&authuser=0
+
+https://blog.twitter.com/en_us/topics/company/2021/private-information-policy-update
+> https://news.ycombinator.com/item?id=29392314
+
 https://www.reuters.com/world/us/us-lawmakers-call-privacy-legislation-after-reuters-report-amazon-lobbying-2021-11-22/
 > https://news.ycombinator.com/item?id=29305777
 

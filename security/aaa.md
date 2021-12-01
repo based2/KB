@@ -65,6 +65,9 @@ https://github.com/geohot/qira
 > https://news.ycombinator.com/item?id=26845775
 
 # Random
+
+https://blog.filippo.io/the-ecb-penguin/
+
 https://www.johndcook.com/blog/2021/04/29/reinventing-rng/
 
 https://www.brainonfire.net/blog/2021/05/06/cryptographic-shuffle/

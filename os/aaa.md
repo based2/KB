@@ -16,6 +16,16 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://nixos.org/blog/announcements.html#21.11
+> https://news.ycombinator.com/item?id=29400457
+
+https://lunduke.substack.com/p/desqviewx-the-forgotten-mid-1990s
+> https://news.ycombinator.com/item?id=29396561
+
+https://discuss.haiku-os.org/t/vulkan-lavapipe-software-rendering-is-working-on-haiku/11363/244
+
+https://oxide.computer/blog/hubris-and-humility
+
 https://medium.com/scientific-breakthrough-of-the-afternoon/closure-vs-derivation-in-the-nix-package-manager-ec0eccc53407
 
 https://puri.sm/posts/true-convergence-is-here-pureos-10-is-released-for-all-librem-products/

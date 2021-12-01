@@ -14,6 +14,8 @@ https://arxiv.org/abs/2107.04940 You Really Shouldn't Roll Your Own Crypto: An E
 
 # AES
 
+https://github.com/google/adiantum
+
 https://keymaterial.net/2020/09/07/invisible-salamanders-in-aes-gcm-siv/
 
 https://github.com/MantechUser/aes-finder
@@ -72,6 +74,8 @@ https://fr.wikipedia.org/wiki/LUC_(cryptographie)
 https://en.wikipedia.org/wiki/Lucas_number
 
 https://en.wikipedia.org/wiki/Jacques_Philippe_Marie_Binet
+
+
 
 # Homomorphic
 https://github.com/google/fully-homomorphic-encryption

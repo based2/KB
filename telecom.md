@@ -78,6 +78,13 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
 
 # News
+https://payloadspace.com/the-us-c-band-spectrum-saga-explained/
+> https://news.ycombinator.com/item?id=29396376
+
+https://aws.amazon.com/en/private5g/
+> https://news.ycombinator.com/item?id=29394605
+> > https://github.com/srsran/srsRAN
+
 https://www.tmonews.com/2021/10/t-mobile-postpones-cdma-shutdown-date-another-three-months/
 > https://news.ycombinator.com/item?id=29375590
 

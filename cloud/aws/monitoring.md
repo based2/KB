@@ -1,0 +1,1 @@
+https://aws.amazon.com/fr/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/

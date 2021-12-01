@@ -1,3 +1,5 @@
+https://arxiv.org/abs/2005.09898 Fluidic Shaping of Optical Components
+
 https://ciechanow.ski/cameras-and-lenses/
 
 https://en.wikipedia.org/wiki/Optical_computing

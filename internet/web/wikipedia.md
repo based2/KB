@@ -22,6 +22,10 @@ https://gitlab.com/moasdawiki/moasdawiki-server/-/tree/master/installer/linux/de
 > https://news.ycombinator.com/item?id=27746717
 
 # News
+https://meta.wikimedia.org/wiki/Communications/Sound_Logo
+
+https://zverok.github.io/blog/2021-11-30-irregular1.html Wikipedia as the data source: taming the irregular, pt.1
+
 https://gaganpreet.in/posts/duckduckgo-wikivoyage/
 > https://news.ycombinator.com/item?id=29006789
 

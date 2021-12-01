@@ -37,8 +37,6 @@ https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spa
 https://straw.page/
 > https://news.ycombinator.com/item?id=29270909
 
-
-
 # Contrast
 ## Dark mode
 https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp
@@ -75,6 +73,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://tdinh.notion.site/Every-pricing-page-should-have-GIFs-e74d6d363d4c4d33b5ff754452f7ab96
+> https://news.ycombinator.com/item?id=29348328
+
 https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/
 > https://news.ycombinator.com/item?id=29238159
 

@@ -2,6 +2,8 @@ https://github.com/iipc/awesome-web-archiving
 
 https://archive.org/
 
+https://github.com/internetarchive/heritrix3
+
 https://commoncrawl.org/
 
 https://archivebox.io/

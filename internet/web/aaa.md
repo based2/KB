@@ -24,6 +24,13 @@ https://www.robotstxt.org/
 https://darekkay.com/blog/avif-images/
 > https://news.ycombinator.com/item?id=26901801
 
+# Board
+https://browserboard.com/
+
+https://witeboard.com/
+
+https://miro.com/en/tableau-en-ligne/
+
 # Presentations - Slide shows
 http://imakewebthings.com/deck.js/
 
@@ -58,6 +65,8 @@ https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/
 https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-networks-with-beautifulsoup-and-networkx/
 
 # News
+https://www.garbageday.email/p/right-clickers-vs-the-monkey-jpg
+
 https://midrange.tedium.co/issues/bring-back-web1-905071
 > https://news.ycombinator.com/item?id=29380113
 

@@ -68,6 +68,10 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://eed3si9n.com/sbt-1.6.0-beta
+
+https://blog.pantsbuild.org/automatically-unlocking-concurrent-builds-and-fine-grained-caching-on-the-jvm-with-dependency-inference/
+
 https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863
 
 https://discuss.lightbend.com/t/on-the-future-of-akka-lightbend/8997

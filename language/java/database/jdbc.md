@@ -24,3 +24,6 @@ https://github.com/Wisser/Jailer
 
 # Perf
 https://github.com/eXsio/querydsl-entityql#-query-execution
+
+# News
+https://www.h2database.com/html/changelog.html CVE-2018-14335 

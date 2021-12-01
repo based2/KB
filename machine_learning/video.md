@@ -36,6 +36,9 @@ https://pytorchvideo.org/
 https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-text
 
 # News
+https://yuval-alaluf.github.io/hyperstyle/
+> https://news.ycombinator.com/item?id=29401544
+
 https://www.unite.ai/why-adversarial-image-attacks-are-no-joke/
 > https://news.ycombinator.com/item?id=29380537
 

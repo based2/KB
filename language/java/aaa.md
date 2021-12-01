@@ -210,6 +210,8 @@ https://candrews.integralblue.com/2021/04/fixing-a-bug-in-java/
 JEE
 https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
 
+https://www.reddit.com/r/java/comments/r5d7no/top_5_reasons_why_youll_love_the_jakarta_servlet/
+
 # Hot Reload
 https://hotswapagent.org/
 
@@ -248,6 +250,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://blog.jetbrains.com/idea/2021/11/intellij-idea-2021-3/
+
+https://inside.java/2021/11/30/on-parallelism-and-concurrency/
+
 https://github.com/xmolecules/jmolecules/discussions/68
 > https://www.reddit.com/r/java/comments/r2zo2s/jmolecules_202120_released/
 > > https://scabl.blogspot.com/p/advancing-enterprise-ddd.html

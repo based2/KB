@@ -83,6 +83,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://sambernheim.com/blog/the-party-math-trick
+> https://news.ycombinator.com/item?id=29366687
+
 https://www.rogermansuy.fr/pdf/MPSI2019.pdf
 
 https://archive.org/details/ZeldovichYaglomHigherMathematics

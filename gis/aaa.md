@@ -159,7 +159,13 @@ https://www.esri.com/en-us/what-is-gis/history-of-gis
 
 https://en.wikipedia.org/wiki/PostGIS
 
+# Mobile app
+https://organicmaps.app/
+
 # News
+http://cmoran.xyz/writing/adventures_in_photogrammetry
+>
+
 https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/
 
 https://seagull-beta.glos.org/map?coords=-84.1312590%2C44.1490000%2C5.5

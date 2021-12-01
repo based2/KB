@@ -18,3 +18,5 @@ https://hexkyz.blogspot.com/2021/11/je-ne-sais-quoi-falcons-over-horizon.html
 
 https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7_28.html
 > https://news.ycombinator.com/item?id=29370875
+
+https://news.ycombinator.com/item?id=29399504

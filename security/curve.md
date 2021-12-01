@@ -1,3 +1,6 @@
+https://research.nccgroup.com/2021/11/18/an-illustrated-guide-to-elliptic-curve-cryptography-validation/
+> https://news.ycombinator.com/item?id=29397243
+
 https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/
 
 https://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/
@@ -34,6 +37,9 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://www.reddit.com/r/crypto/comments/r40he4/polynomials_and_elliptic_curves_over_extension/
+> https://risencrypto.github.io/ExtensionFields/
+
 https://news.ycombinator.com/item?id=28813291 Why Did Satoshi Decide to Use Secp256k1 Instead of Secp256r1?
 
   

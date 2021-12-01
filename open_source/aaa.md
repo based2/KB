@@ -184,6 +184,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://sfconservancy.org/blog/2021/nov/30/vizio-update-0/
+> https://news.ycombinator.com/item?id=29393168
+
+https://framablog.org/2021/11/30/peertube-v4-more-power-to-help-you-present-your-videos/
+> https://news.ycombinator.com/item?id=29390312
+
 https://fossforce.com/2021/11/a-german-state-is-saying-goodbye-windows-hello-linux/
 > https://news.ycombinator.com/item?id=29287720
 
