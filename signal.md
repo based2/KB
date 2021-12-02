@@ -22,6 +22,12 @@ https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280
 
 # News
+https://www.mattblaze.org/blog/faraday/
+> https://news.ycombinator.com/item?id=29413774
+
+https://wwvarc.org/wwvmodannouncement
+> https://news.ycombinator.com/item?id=29411280
+
 https://hackaday.io/project/62710-taking-digital-xray-shots-for-cheap-300
 > https://news.ycombinator.com/item?id=29295998
 

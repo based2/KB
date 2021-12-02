@@ -1,3 +1,5 @@
+https://www.codereversing.com/blog/archives/420 Reverse Engineering REST APIs: Introduction (1/12)
+
 https://madeupexplorations.wordpress.com/2021/10/25/heroes-of-might-and-magic-v-hammers-of-bait-and-switch/
 > https://news.ycombinator.com/item?id=29044547
 

@@ -35,6 +35,9 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://taras.glek.net/post/optimized-zip-format/
+> https://news.ycombinator.com/item?id=29410225
+
 https://phoboslab.org/log/2021/11/qoi-fast-lossless-image-compression
 > https://news.ycombinator.com/item?id=29328750
 

@@ -87,6 +87,9 @@ https://arxiv.org/abs/2109.14520 Improving DRAM Performance, Security, and Relia
 
 https://pkolaczk.github.io/overhead-of-optional/ java rust optional null
 
+https://tech.marksblogg.com/fastest-fizz-buzz.html
+> https://news.ycombinator.com/item?id=29413656
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

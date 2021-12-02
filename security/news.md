@@ -1,6 +1,18 @@
+https://news.sophos.com/en-us/2021/11/18/new-ransomware-actor-uses-password-protected-archives-to-bypass-encryption-protection/
+
+https://srcincite.io/blog/2021/11/22/unlocking-the-vault.html RCE CommVault Command Center
+
+https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/
+
+https://cvetrends.com/
+
+https://github.com/boozallen/MOTIF Malware Open-source Threat Intelligence Family
+
+https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html
+> https://news.ycombinator.com/item?id=29407636
+
 https://arstechnica.com/information-technology/2021/11/google-play-apps-downloaded-300000-times-stole-bank-credentials/
 > https://www.threatfabric.com/blogs/deceive-the-heavens-to-cross-the-sea.html
->  
 
 https://mksben.l0.cm/2021/11/css-exfiltration-svg-font.html
 

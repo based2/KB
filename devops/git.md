@@ -167,6 +167,14 @@ https://jonas.github.io/tig/
 https://jpalmer.dev/2021/05/interactive-git-history/
 > https://news.ycombinator.com/item?id=27689664
 
+https://medium.com/typeforms-engineering-blog/prevent-secrets-leaks-at-scale-in-repositories-e785b96e8244
+
+https://docs.ansible.com/ansible/latest/user_guide/vault.html
+
+https://github.com/cyberark/summon
+
+https://github.com/gopasspw/gopass
+
 # Hash ID
 https://blog.plover.com/prog/git-rev-parse.html
 > https://www.reddit.com/r/git/comments/7gzk3b/git_psa_gitrevparse/

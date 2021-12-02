@@ -262,9 +262,6 @@ https://www.i-programmer.info/news/80-java/15041-lwjgl-the-lightweight-java-game
 
 https://github.com/eclipse/eclipse-collections-kata
 
-https://richardstartin.github.io/posts/5-java-mundane-performance-tricks
-> https://www.reddit.com/r/java/comments/r3xzqw/5_mundane_java_performance_tips/
-
 https://www.reddit.com/r/java/comments/qypqbd/forking_google/
 
 https://openjdk.java.net/jeps/8277131 Virtual Threads (Preview)

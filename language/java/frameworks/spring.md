@@ -1,3 +1,5 @@
+https://docs.spring.io/spring-framework/docs/current/reference/pdf/
+
 https://www.sivalabs.in/2020/09/all-the-resources-you-ever-need-as-a-java-spring-application-developer/
 
 https://piotrminkowski.com/2021/01/13/spring-boot-tips-tricks-and-techniques/
@@ -44,8 +46,10 @@ https://spring.io/blog/2021/10/13/spring-tips-spring-plugin
 
 https://github.com/codependent/spring-boot-ssl-mutual-authentication
 
+https://www.reddit.com/r/java/comments/r6z7ag/what_is_the_better_way_of_spring_boot/ authn
+
 # News
-https://docs.spring.io/spring-framework/docs/current/reference/pdf/
+https://arnoldgalovics.com/fallbacks-with-spring-cloud-feign/?utm_source=reddit&utm_medium=post&utm_campaign=fallbacks-with-spring-cloud-feign
 
 https://www.marcobehler.com/
 

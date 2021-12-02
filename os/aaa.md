@@ -16,6 +16,12 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://tvl.fyi/blog/rewriting-nix
+> https://news.ycombinator.com/item?id=29412971
+
+https://github.com/jes/scamp-cpu
+> https://news.ycombinator.com/item?id=29408046
+
 https://nixos.org/blog/announcements.html#21.11
 > https://news.ycombinator.com/item?id=29400457
 

@@ -82,6 +82,11 @@ https://pyre-check.org/
 https://github.com/beartype/beartype
 > https://news.ycombinator.com/item?id=29288402
 
+# Security
+https://pypi.org/project/pip-audit/
+
+https://semgrep.dev/docs/cheat-sheets/python-command-injection/
+
 # Analysis
 https://linuxfr.org/news/python-partie-10-formateur-de-code-analyse-statique
 

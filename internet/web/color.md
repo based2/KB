@@ -74,5 +74,8 @@ https://www.handprint.com/HP/WCL/color2.html
 https://www.hearingreview.com/inside-hearing/research/color
 > https://news.ycombinator.com/item?id=28730588
 
+https://photosauce.net/blog/post/what-makes-srgb-a-special-color-space
+> https://news.ycombinator.com/item?id=29412174
+
 
 

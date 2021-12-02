@@ -6,7 +6,7 @@ https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-fo
 
 https://lethain.com/physics-of-cloud-expansion/
 
-# Hybrid
+# Hybrid - Agnostic Cloud
 https://thenewstack.io/an-architects-guide-to-multicloud/
 
 # Cost
@@ -17,6 +17,9 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html
+> https://news.ycombinator.com/item?id=29411566
+
 https://db2portal.blogspot.com/2015/04/controlling-mainframe-software-costs.html
 
 https://danubecloud.org/ OSS Datacenter management
