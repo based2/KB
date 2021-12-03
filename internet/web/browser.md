@@ -30,6 +30,11 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.theverge.com/2021/12/2/22813733/microsoft-windows-edge-download-chrome-prompts
+> https://news.ycombinator.com/item?id=29415031
+> > https://www.techradar.com/how-to/how-to-remove-microsoft-edge-from-windows-10
+> > https://www.tomshardware.com/how-to/uninstall-microsoft-edge-windows-11
+
 https://ungoogled-software.github.io/
 > https://news.ycombinator.com/item?id=29384856
 

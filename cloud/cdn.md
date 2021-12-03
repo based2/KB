@@ -5,3 +5,6 @@ https://www.potaroo.net/ispcol/2021-07/cdn.html
 > https://news.ycombinator.com/item?id=27708706
 
 https://codeberg.org/nobody/LocalCDN
+
+https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/
+> https://news.ycombinator.com/item?id=29412905

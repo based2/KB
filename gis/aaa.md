@@ -124,7 +124,6 @@ https://safecycle.atelier-des-communs.fr/
 
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
-*
 
 # georoutage
 https://pncnmnp.github.io/blogs/distance-oracles.html
@@ -163,8 +162,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.capellaspace.com/gallery/
+
 http://cmoran.xyz/writing/adventures_in_photogrammetry
->
 
 https://blog.jooq.org/fun-with-postgis-mandelbrot-set-game-of-life-and-more/
 

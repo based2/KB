@@ -189,6 +189,13 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://www.mathlingua.org/#/content/10_Introduction.math
+> https://news.ycombinator.com/item?id=29419039
+
+https://codigo.so/
+> https://news.ycombinator.com/item?id=29416422
+> > https://fransfaase.github.io/ParserWorkshop/Online_inter_parser.html
+
 https://web.archive.org/web/20170315194527/http://autocad.xarch.at/lisp/ffis.html
 > https://news.ycombinator.com/item?id=29389241
 

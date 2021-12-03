@@ -236,6 +236,10 @@ https://github.com/fabsig/GPBoost
 https://eval.ai/
 > https://news.ycombinator.com/item?id=27625511
 
+# Visu
+https://gitlab.tue.nl/20040367/pybaobab
+> https://news.ycombinator.com/item?id=29417135
+
 # History
 https://news.ycombinator.com/item?id=28343118
 
@@ -243,6 +247,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://ai.googleblog.com/2021/11/permutation-invariant-neural-networks.html
+
 https://lastweekin.ai/p/the-inherent-limitations-of-gpt-3
 > https://news.ycombinator.com/item?id=29382887
 

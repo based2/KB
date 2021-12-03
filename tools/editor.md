@@ -61,6 +61,9 @@ https://emacs-ng.github.io/emacs-ng/
 
 https://bzg.fr/en/how-to-help-gnu-emacs-maintainers/
 
+https://karthinks.com/software/avy-can-do-anything/
+> https://news.ycombinator.com/item?id=29412806
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

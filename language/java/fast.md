@@ -7,3 +7,4 @@ https://inside.java/2020/08/07/loom-performance/
 https://github.com/real-logic/agrona
 
 https://richardstartin.github.io/posts/loop-fission
+> https://www.reddit.com/r/java/comments/r74ag2/loop_fission/

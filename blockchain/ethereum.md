@@ -13,13 +13,13 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99
+
 https://github.com/ethereum/EIPs/pull/4488 Transaction calldata gas cost reduction with total calldata limit
 
 https://zkproof.org/2021/11/24/practical-snark-based-vdf/
-> 
 
 https://twitter.com/jasoncitron/status/1457841222995693570
-> 
 
 https://vitalik.ca/general/2021/11/05/halo.html
 > https://news.ycombinator.com/item?id=29120521

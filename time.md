@@ -186,6 +186,9 @@ https://bibliodyssey.blogspot.com/2010/04/time-after-time.html
 > https://news.ycombinator.com/item?id=28848096
 
 # News
+https://blog.jinay.dev/posts/virality/
+> https://news.ycombinator.com/item?id=29393903
+
 https://github.com/mvrozanti/dte Dte: A language for expressing and calculating date and time - Python
 > https://news.ycombinator.com/item?id=29211797
 

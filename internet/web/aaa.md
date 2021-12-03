@@ -64,6 +64,8 @@ https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/
 
 https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-networks-with-beautifulsoup-and-networkx/
 
+https://cushychicken.github.io/rules-for-web-scrapers/
+
 # News
 https://www.garbageday.email/p/right-clickers-vs-the-monkey-jpg
 

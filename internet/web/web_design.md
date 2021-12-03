@@ -73,6 +73,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://news.ycombinator.com/item?id=29428533
+
 https://tdinh.notion.site/Every-pricing-page-should-have-GIFs-e74d6d363d4c4d33b5ff754452f7ab96
 > https://news.ycombinator.com/item?id=29348328
 

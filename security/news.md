@@ -1,6 +1,12 @@
+https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/ CVE-2021-34535
+> https://news.ycombinator.com/item?id=29422434
+
+https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/
+> https://news.ycombinator.com/item?id=29417927
+
 https://news.sophos.com/en-us/2021/11/18/new-ransomware-actor-uses-password-protected-archives-to-bypass-encryption-protection/
 
-https://srcincite.io/blog/2021/11/22/unlocking-the-vault.html RCE CommVault Command Center
+https://srcincite.io/blog/2021/11/22/unlocking-the-vault.html RCE CommVault Command Center CVE-2021-34993, CVE-2021-34996, CVE-2021-34997
 
 https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/
 

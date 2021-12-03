@@ -25,10 +25,15 @@ https://github.com/quay/clair Red Hat
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
 # News
+https://security.googleblog.com/2021/12/exploring-container-security-storage.html
+
 https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF
 > https://news.ycombinator.com/item?id=28050750
+
 https://www.bleepingcomputer.com/news/security/attackers-deploy-cryptominers-on-kubernetes-clusters-via-argo-workflows/
+
 https://sysdig.com/blog/crypto-mining-kubeflow-tensorflow-falco/
+
 https://sysdig.com/blog/cve-2021-25735-kubernetes-admission-bypass/
 
 

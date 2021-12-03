@@ -28,6 +28,9 @@ https://bryce.co/xcode-vim-map/
 # VM
 https://github.com/foxlet/macOS-Simple-KVM
 
+https://github.com/kholia/OSX-KVM
+> https://news.ycombinator.com/item?id=29426862
+
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 
@@ -51,6 +54,9 @@ https://eisel.me/devtool-allocators
 > https://news.ycombinator.com/item?id=29068828
 
 # M1
+https://twitter.com/VadimYuryev/status/1466526403331952644
+> https://news.ycombinator.com/item?id=29427316
+
 https://calcagno.blog/m1dev/
 
 https://www.anandtech.com/show/17024/apple-m1-max-performance-review
@@ -127,6 +133,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://news.ycombinator.com/item?id=29424245 Interview with Hansen Hsu, engineer at Apple during transition from OS 9 to OS X
+
 https://eclecticlight.co/2021/11/27/explainer-ds_store-files/
 > https://news.ycombinator.com/item?id=29358932
 

@@ -20,6 +20,9 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://tbd54566975.ghost.io/introducing-tbdex/
+> https://tbdex.io/whitepaper.pdf
+
 https://blog.coinbase.com/coinbase-to-acquire-leading-cryptographic-security-company-unbound-security-9c7e67f37e24
 
 https://blog.hachi.one/post/an-introduction-to-plutus-core/ Cardano

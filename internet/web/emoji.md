@@ -9,3 +9,8 @@ https://emojicons.netlify.app/ To SVG
 
 https://tikolu.net/emojimix/
 > https://news.ycombinator.com/item?id=29305546
+
+https://javier.xyz/emoji-to-scale/
+> https://news.ycombinator.com/item?id=29425735
+> https://github.com/javierbyte/emoji-to-scale
+> > https://emojipedia.org

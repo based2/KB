@@ -110,6 +110,9 @@ https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly
 # 11
 https://github.com/valinet/ExplorerPatcher
 
+# Dev
+https://news.ycombinator.com/item?id=29423102
+
 # News
 https://cloudblogs.microsoft.com/opensource/2021/11/29/progress-on-making-ebpf-work-on-windows/
 

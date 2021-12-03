@@ -99,6 +99,9 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-amazon-ebs-snapshots-with-amazon-ec2-systems-manager-part-2/
 
 # News
+https://aws.amazon.com/en/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/
+> https://news.ycombinator.com/item?id=29418532
+
 https://perspectives.mvdirona.com/2021/11/xen-on-nitro-aws-nitro-for-legacy-instances/
 
 https://aws.amazon.com/en/blogs/aws/new-amazon-fsx-for-openzfs/

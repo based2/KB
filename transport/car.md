@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch
+> https://news.ycombinator.com/item?id=29427068
+
 https://www.theguardian.com/technology/2021/nov/20/tesla-app-outage-elon-musk-apologises
 > https://news.ycombinator.com/item?id=29288238
 

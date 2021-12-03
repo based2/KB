@@ -74,6 +74,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://news.ycombinator.com/item?id=29422574 Which single board computers work with a vanilla blobless kernel?
+
 https://news.ycombinator.com/item?id=29307245 How do you quickly add calendar events in Linux?
 
 https://alpinelinux.org/posts/Alpine-3.15.0-released.html
@@ -278,6 +280,7 @@ https://lwn.net/SubscriberLink/860262/29e92db3e7272504/ A stable bug fix bites p
 
 https://wiki.debian.org/Teams/Apt/Spec/AptSign
 > https://news.ycombinator.com/item?id=27586146
+
 https://www.pixelbeat.org/docs/coreutils-gotchas.html
 > https://www.reddit.com/r/programming/comments/3uogjv/gnu_coreutils_gotchas/
 > https://news.ycombinator.com/item?id=27549863
@@ -359,10 +362,10 @@ https://skarnet.com/projects/service-manager.html
 
 https://www.neowin.net/news/linux-bans-university-of-minnesota-for-sending-buggy-patches-in-the-name-of-research/
 > https://news.ycombinator.com/item?id=26889677
- > https://github.com/QiushiWu/qiushiwu.github.io/blob/main/papers/OpenSourceInsecurity.pdf
-  > https://news.ycombinator.com/item?id=26889719
-   > https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u
-    > https://news.ycombinator.com/item?id=26929470
+> > https://github.com/QiushiWu/qiushiwu.github.io/blob/main/papers/OpenSourceInsecurity.pdf
+> > > https://news.ycombinator.com/item?id=26889719
+> > > > https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u
+> > > > > https://news.ycombinator.com/item?id=26929470
 
 https://www.linux.com/featured/in-the-trenches-with-thomas-gleixner-real-time-linux-kernel-patch-set/
 https://lwn.net/Articles/851184/

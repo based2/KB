@@ -29,6 +29,10 @@ https://www.ovh.com/blog/how-pci-express-works-and-why-you-should-care-gpu/
 https://www.cnx-software.com/2021/09/07/intel-nuc-p14e-laptop-element-features-intel-nuc-11-compute-element/
 > https://news.ycombinator.com/item?id=28447913
 
+# Screen
+https://shop.boox.com/products/mira
+> https://news.ycombinator.com/item?id=29428285
+
 # Keyboard
 https://github.com/aru-py/programmer-colemak
 

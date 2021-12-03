@@ -1,3 +1,9 @@
+https://riscv.org/announcements/2021/12/riscv-ratifies-15-new-specifications/
+> https://news.ycombinator.com/item?id=29417885
+
+https://www.sifive.com/press/sifive-raises-risc-v-performance-bar-with-new-best-in-class
+> https://news.ycombinator.com/item?id=29418153
+
 https://github.com/vortexgpgpu/vortex GPGPU Research project from Georgia Tech, OpenCL, ISA extensions
 > https://news.ycombinator.com/item?id=29388213
 > https://vortex.cc.gatech.edu/

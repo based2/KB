@@ -17,6 +17,10 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://changelog.com/posts/the-big-idea-around-unikernels
+> https://news.ycombinator.com/item?id=29427449
+> > https://github.com/nanovms
+
 https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html
 > https://news.ycombinator.com/item?id=29411566
 

@@ -189,6 +189,10 @@ https://timeflow.systems/what-is-the-data-lakehouse-pattern/
 https://cnr.sh/essays/what-the-heck-data-mesh
 > https://news.ycombinator.com/item?id=27999348
 
+# Data Frame
+https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/
+> https://news.ycombinator.com/item?id=29417998
+
 # Data Tests
 https://frictionlessdata.io/
 
@@ -207,6 +211,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies
+> https://news.ycombinator.com/item?id=29424445
+
+https://win-vector.com/2021/12/02/composing-queries-in-the-data-algebra/
+
 https://lakefs.io/data-versioning/
 
 https://dataorienteddesign.com/dodbook/node2.html

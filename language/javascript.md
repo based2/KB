@@ -138,6 +138,12 @@ https://hydrogen.shopify.dev/
 
 https://github.com/noahgrant/resourcerer
 
+https://codesandbox.io/post/sandpack-announcement
+> https://news.ycombinator.com/item?id=29417937
+
+https://www.joshwcomeau.com/react/the-perils-of-rehydration/
+> https://news.ycombinator.com/item?id=29406175
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?

@@ -159,6 +159,8 @@ https://joplinapp.org/
 > https://news.ycombinator.com/item?id=27520906
 
 # Collaboration
+https://jami.net/the-jami-conferencing-system/
+
 https://github.com/fmeringdal/nettu-meet Dashboard
 > https://news.ycombinator.com/item?id=27434254
 
@@ -184,6 +186,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://documents1.worldbank.org/curated/en/672901582561140400/pdf/Open-Source-for-Global-Public-Goods.pdf
+
 https://sfconservancy.org/blog/2021/nov/30/vizio-update-0/
 > https://news.ycombinator.com/item?id=29393168
 

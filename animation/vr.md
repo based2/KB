@@ -1,3 +1,6 @@
+https://christine.website/blog/nixos-vr-hell-2021-12-02
+> https://news.ycombinator.com/item?id=29424391
+
 https://news.ycombinator.com/item?id=29398209 IcelandVerse
 
 https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker

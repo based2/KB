@@ -37,9 +37,6 @@ https://github.com/jina-ai/examples/tree/master/audio-ews
 # Archive
 https://github.com/Norconex/collector-http
 
-# News
-https://www.meta-press.es/fr/
-
 # Algo
 ## Binary search
 https://algorithmica.org/en/eytzinger
@@ -63,6 +60,13 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://twitter.com/GossiTheDog/status/1428457677261246465 Windows urges users to use Bing same way as urgent security warnings
+> https://news.ycombinator.com/item?id=29428353
+
+https://gigablast.com/about.html
+> https://news.ycombinator.com/item?id=29417296
+> > https://news.ycombinator.com/item?id=29421898
+
 https://softwaredoug.com/blog/2021/11/28/how-lammbamart-works.html
 > https://news.ycombinator.com/item?id=29379936
 
@@ -129,6 +133,8 @@ http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architectur
 
 https://techcrunch.com/2021/07/28/brain-technologies-raises-50m-for-the-launch-of-natural-a-natural-language-search-engine-and-super-app/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAALmyVqo21pZI2E1ggA5awKKUInzQLrUMCEge6rY7I44rTMhV88sw_4YtuJkot6VePt4CkXWhazMyQZ9eAeMzLqhzOdsXi2eUCcpK-qPkgHGsVWLanqA6_39EvPdNABTBzoIk2GpGM_sZOGcUqEeamkSz8-Lj7kaU6wPc73x83atX
 > https://news.ycombinator.com/item?id=27990163
+
+https://www.meta-press.es/fr/
 
 https://math.stackexchange.com/questions/4207222/why-does-turn-turn-turn-equal-241217-524881
 > https://news.ycombinator.com/item?id=28006053

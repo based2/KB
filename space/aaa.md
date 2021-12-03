@@ -19,6 +19,8 @@ https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 https://www.eso.org/public/archives/releases/sciencepapers/eso2014/eso2014a.pdf
 A triple star system with a misaligned and warped circumstellar disk shaped by disk tearing
 
+https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
+
 # Probe
 ## Voyager
 https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/
@@ -37,6 +39,9 @@ https://www.esa.int/Enabling_Support/Operations/Three_hours_to_save_Integral
 > https://news.ycombinator.com/item?id=28916225
 
 https://www.scmp.com/news/china/military/article/3154496/chinese-satellite-shows-space-warfare-prowess-dodging-us
+
+https://www.thedrive.com/the-war-zone/43328/u-s-satellites-are-being-attacked-everyday-according-to-space-force-general
+> https://news.ycombinator.com/item?id=29402923
 
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000

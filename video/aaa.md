@@ -65,6 +65,9 @@ https://www.playphrase.me/#/search
 
 https://news.ycombinator.com/item?id=29000175
 
+https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/
+> https://news.ycombinator.com/item?id=29417309
+
 # Tracking
 https://github.com/midiblocks/handsfree
 > https://news.ycombinator.com/item?id=27404196

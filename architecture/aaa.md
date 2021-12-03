@@ -90,6 +90,9 @@ https://pkolaczk.github.io/overhead-of-optional/ java rust optional null
 https://tech.marksblogg.com/fastest-fizz-buzz.html
 > https://news.ycombinator.com/item?id=29413656
 
+https://menno.io/posts/golang-register-calling/
+> https://news.ycombinator.com/item?id=29316415
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

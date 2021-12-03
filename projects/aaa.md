@@ -179,6 +179,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://rachelbythebay.com/w/2021/12/02/build/
+> https://news.ycombinator.com/item?id=29426411
+
 https://www.echoeshq.com/post/the-ticketing-conundrum
 > https://news.ycombinator.com/item?id=29368446
 

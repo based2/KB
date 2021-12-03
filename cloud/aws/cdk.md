@@ -10,3 +10,7 @@ https://github.com/pistazie/cdk-dia
 
 # Security
 https://portswigger.net/daily-swig/aws-cloudfront-api-research-reveals-leak-of-partial-account-ids
+
+# News
+https://aws.amazon.com/en/blogs/aws/announcing-general-availability-of-construct-hub-and-aws-cloud-development-kit-version-2/
+> https://news.ycombinator.com/item?id=29419874
