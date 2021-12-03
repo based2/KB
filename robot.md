@@ -30,6 +30,9 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.unite.ai/engineers-look-to-nature-to-create-bird-like-robot/
+> https://news.ycombinator.com/item?id=29431132
+
 https://www.stuff.co.nz/national/politics/127135214/government-to-push-for-international-ban-of-autonomous-weapons-or-killer-robots
 > https://news.ycombinator.com/item?id=29389316
 

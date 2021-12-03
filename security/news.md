@@ -1,3 +1,6 @@
+https://blog.phylum.io/detecting-obfuscated-malicious-code
+> https://news.ycombinator.com/item?id=29430823
+
 https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/ CVE-2021-34535
 > https://news.ycombinator.com/item?id=29422434
 
@@ -1004,7 +1007,9 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
 > > > https://news.ycombinator.com/item?id=28516095
 > https://www.commerce.gov/news/press-releases/2021/11/commerce-adds-nso-group-and-other-foreign-companies-entity-list
 > > https://news.ycombinator.com/item?id=29095265
-> https://news.ycombinator.com/item?id=29388927 
+> https://news.ycombinator.com/item?id=29388927
+> https://www.reuters.com/technology/exclusive-us-state-department-phones-hacked-with-israeli-company-spyware-sources-2021-12-03/
+> > https://news.ycombinator.com/item?id=29432276
 
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 > https://news.ycombinator.com/item?id=27868487

@@ -97,6 +97,11 @@ https://supabase.io/blog/2021/07/01/roles-postgres-hooks
 # Extensions
 https://age.apache.org/# Graph
 
+https://supabase.com/blog/2021/12/03/pg-graphql
+> https://news.ycombinator.com/item?id=29430720
+
+https://github.com/solidsnack/GraphpostgresQL
+
 https://github.com/arkhipov/temporal_tables Table that records the period of time when a row is valid.
 
 https://github.com/nearform/temporal_tables

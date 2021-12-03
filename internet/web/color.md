@@ -57,6 +57,9 @@ https://bottosson.github.io/posts/colorpicker/
 https://news.ycombinator.com/item?id=26934352
 
 #
+https://ianstormtaylor.com/design-tip-never-use-black/
+> https://news.ycombinator.com/item?id=29430288
+
 https://www.wired.com/story/how-pixar-uses-hyper-colors-to-hack-your-brain/
 > https://news.ycombinator.com/item?id=27006692
   > https://prolost.com/blog/edr

@@ -1,3 +1,6 @@
+https://deadlockempire.github.io/
+> https://news.ycombinator.com/item?id=29431308
+
 http://joeduffyblog.com/2015/11/19/asynchronous-everything/
 
 https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/

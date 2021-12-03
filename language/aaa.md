@@ -189,6 +189,9 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://max.engineer/maintainable-code
+> https://news.ycombinator.com/item?id=29396515
+
 https://www.mathlingua.org/#/content/10_Introduction.math
 > https://news.ycombinator.com/item?id=29419039
 

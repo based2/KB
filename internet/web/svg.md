@@ -16,3 +16,5 @@ https://blogs.igalia.com/nzimmermann/posts/2021-10-29-layer-based-svg-engine/
 http://pablojs.com/
 * https://news.ycombinator.com/item?id=29287595
 * https://github.com/premasagar/pablo
+
+https://news.ycombinator.com/item?id=29430368

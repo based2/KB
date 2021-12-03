@@ -26,6 +26,9 @@ https://news.ycombinator.com/item?id=28955115 lua
 https://github.com/kqito/vim-easy-replace
 > https://news.ycombinator.com/item?id=29137258
 
+https://vim.is/#exercise
+> https://news.ycombinator.com/item?id=29431946
+
 # Nano
 
 
