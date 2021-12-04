@@ -85,6 +85,7 @@ https://domevents.dev/
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ruby Represents small annotations that are rendered above,
 > https://news.ycombinator.com/item?id=27999898
+> https://news.ycombinator.com/item?id=29441857
 
 # Security
 https://korben.info/exploit-fichier-texte-txt-macos.html

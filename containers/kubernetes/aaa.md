@@ -42,6 +42,9 @@ https://blog.kubecost.com/blog/kubernetes-labels/
 # Knative
 https://tier.engineering/Our-journey-to-faas-with-knative
 
+https://thenewstack.io/knatives-independent-future-outside-a-foundation/
+> https://thenewstack.io/the-foreseeable-future-ends-with-knatives-cncf-application/
+
 # Infra
 https://google.github.io/kctf/
 
@@ -59,6 +62,7 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+
 https://sysdig.com/blog/kubernetes-1-23-whats-new/
 
 https://medium.com/@kevin.backman/anthos-on-bare-metal-how-mlb-turned-ball-parks-into-on-prem-k8-clusters-295031253a33

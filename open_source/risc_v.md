@@ -44,6 +44,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://hothardware.com/reviews/hifive-unmatched-a-risc-v-proposition
+>
+
 https://github.com/ockam-network/ockam/tree/develop/documentation/use-cases/run-ockam-on-riscv
 
 https://www.cnx-software.com/2021/10/20/alibaba-open-source-risc-v-cores-xuantie-e902-e906-c906-and-c910/

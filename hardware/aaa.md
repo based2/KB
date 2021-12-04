@@ -60,6 +60,11 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://en.wikipedia.org/wiki/List_of_interface_bit_rates
+
+https://www.youtube.com/watch?v=PStz2hk-Hok Tsinghua Unigroup
+> https://www.youtube.com/channel/UCT2kPBcD6tXn8TP_aV7BmgA Wuhan Hongxin (HSMC)
+
 https://www.bosch-presse.de/pressportal/de/en/longer-range-as-standard-bosch-gives-go-ahead-for-volume-production-of-silicon-carbide-chips-235722.html
 > https://news.ycombinator.com/item?id=29415518
 > > https://hackaday.com/2019/11/25/new-silicon-carbide-semiconductors-bring-ev-efficiency-gains/

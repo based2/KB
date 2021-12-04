@@ -54,6 +54,10 @@ https://zig.news/dude_the_builder/unicode-string-operations-536e
 https://heistak.github.io/your-code-displays-japanese-wrong/
 > https://news.ycombinator.com/item?id=29022906
 
+https://gregtatum.com/writing/2021/diacritical-marks/
+> https://lobste.rs/s/jkay7p/diacritical_marks_unicode
+> > 
+
 # ASCII
 http://www.figlet.org/fontdb.cgi
 

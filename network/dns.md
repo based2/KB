@@ -77,6 +77,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://jvns.ca/blog/2021/12/04/how-to-use-dig/
+> https://news.ycombinator.com/item?id=29441333
+
 https://ruben.is.verweg.com/blog/2021/12/01/it-is-always-the-dns
 > https://news.ycombinator.com/item?id=29408754
 

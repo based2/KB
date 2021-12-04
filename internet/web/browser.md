@@ -36,6 +36,7 @@ https://www.theverge.com/2021/12/2/22813733/microsoft-windows-edge-download-chro
 > https://news.ycombinator.com/item?id=29415031
 > > https://www.techradar.com/how-to/how-to-remove-microsoft-edge-from-windows-10
 > > https://www.tomshardware.com/how-to/uninstall-microsoft-edge-windows-11
+> https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-bashes-google-chrome-when-you-download-it/
 
 https://ungoogled-software.github.io/
 > https://news.ycombinator.com/item?id=29384856

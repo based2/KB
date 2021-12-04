@@ -65,6 +65,8 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://news.ycombinator.com/item?id=29441272
+
 https://news.ycombinator.com/item?id=29300081
 
 https://aws.amazon.com/en/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/

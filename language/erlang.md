@@ -82,6 +82,8 @@ https://github.com/mtrudel/bandit
 https://elixir-lang.org/blog/2021/11/10/embracing-open-data-with-elixir-at-the-ministry-of-ecological-transition-in-france/
 > https://news.ycombinator.com/item?id=29240180
 
+https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

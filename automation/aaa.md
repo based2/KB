@@ -22,6 +22,9 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://matduggan.com/why-we-need-better/
+> https://news.ycombinator.com/item?id=29440077
+
 https://matduggan.com/mistakes/
 > https://news.ycombinator.com/item?id=29434740
 

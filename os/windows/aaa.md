@@ -114,6 +114,9 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://guacamole.apache.org/ Clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
+> https://news.ycombinator.com/item?id=29442643
+
 https://cloudblogs.microsoft.com/opensource/2021/11/29/progress-on-making-ebpf-work-on-windows/
 
 https://gist.github.com/Kalinovcic/b4d9cc55a37f929cb62320763e8fbb47

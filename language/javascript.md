@@ -144,6 +144,8 @@ https://codesandbox.io/post/sandpack-announcement
 https://www.joshwcomeau.com/react/the-perils-of-rehydration/
 > https://news.ycombinator.com/item?id=29406175
 
+https://blog.fildon.me/react-testing-library-recipes
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -317,6 +319,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
+> https://news.ycombinator.com/item?id=29427959
+
 https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/
 
 https://github.com/ReevaJS/reeva JVM JS Engine Kotlin

@@ -1,3 +1,9 @@
+https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/
+> https://pberba.github.io/security/2021/11/23/linux-threat-hunting-for-persistence-account-creation-manipulation/
+
+https://www.isac.bio/post/tardigrade -> CobaltStrike
+> https://medium.com/@semisi.ganon/the-water-bear-that-wasnt-tardigrade-6d3ed4d8e86b
+
 https://www.mozilla.org/en-US/security/advisories/mfsa2021-51/ Memory corruption in NSS via DER-encoded DSA and RSA-PSS signatures
 
 https://nasifimtiazohi.github.io/assets/pdf/esem21.pdf A comparative study of vulnerability reporting by software

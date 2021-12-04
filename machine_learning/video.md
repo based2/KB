@@ -39,6 +39,8 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://arxiv.org/abs/2111.13679 NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images
+
 https://github.com/open-mmlab/mmhuman3d
 > https://news.ycombinator.com/item?id=29430950
 
