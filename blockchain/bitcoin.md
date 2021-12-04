@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.coindesk.com/markets/2021/12/04/bitcoin-drops-9k-in-an-hour/
+> https://news.ycombinator.com/item?id=29439049
+
 https://www.blockdata.tech/blog/general/bitcoin-volume-mastercard-visa
 
 https://blog.adacore.com/bitcoin-in-ada

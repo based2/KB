@@ -1,3 +1,10 @@
+https://www.mozilla.org/en-US/security/advisories/mfsa2021-51/ Memory corruption in NSS via DER-encoded DSA and RSA-PSS signatures
+
+https://nasifimtiazohi.github.io/assets/pdf/esem21.pdf A comparative study of vulnerability reporting by software
+composition analysis tools, ESEM ’21, October 11–15, 2021, Bari, Italy
+
+https://syst3mfailure.io/sixpack-slab-out-of-bounds
+
 https://blog.phylum.io/detecting-obfuscated-malicious-code
 > https://news.ycombinator.com/item?id=29430823
 

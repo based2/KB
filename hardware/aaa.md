@@ -60,6 +60,13 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.bosch-presse.de/pressportal/de/en/longer-range-as-standard-bosch-gives-go-ahead-for-volume-production-of-silicon-carbide-chips-235722.html
+> https://news.ycombinator.com/item?id=29415518
+> > https://hackaday.com/2019/11/25/new-silicon-carbide-semiconductors-bring-ev-efficiency-gains/
+
+https://www.racketboy.com/retro/mister-fpga-the-future-of-retro-game-emulation-and-preservation
+> https://news.ycombinator.com/item?id=29439279
+
 https://news.ycombinator.com/item?id=29382643 Are there any 4K “dumb” televisions?
 
 https://gregdavill.github.io/posts/dell-xps13-ram-upgrade/

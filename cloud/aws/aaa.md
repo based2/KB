@@ -39,7 +39,6 @@ https://github.com/localstack/localstack
 
 https://aws.amazon.com/blogs/developer/how-we-halved-the-publish-size-of-modular-aws-sdk-for-javascript-clients/
 
-
 https://github.com/userhas404d/ddant
 > https://news.ycombinator.com/item?id=24168152
 
@@ -68,6 +67,10 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2021/12/aws-amplify-studio/
+> https://news.ycombinator.com/item?id=29427883
+> > https://aws.amazon.com/en/blogs/mobile/aws-amplify-studio-figma-to-fullstack-react-app-with-minimal-programming/
+
 https://aws.amazon.com/en/machine-learning/trainium/
 
 https://aws.amazon.com/en/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/

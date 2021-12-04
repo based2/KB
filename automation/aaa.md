@@ -22,6 +22,9 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://matduggan.com/mistakes/
+> https://news.ycombinator.com/item?id=29434740
+
 https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca
 > https://news.ycombinator.com/item?id=29296642
 

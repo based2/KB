@@ -93,6 +93,9 @@ https://tech.marksblogg.com/fastest-fizz-buzz.html
 https://menno.io/posts/golang-register-calling/
 > https://news.ycombinator.com/item?id=29316415
 
+https://nullprogram.com/blog/2021/12/04/ Fast CSV processing with SIMD
+> https://news.ycombinator.com/item?id=29439403
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

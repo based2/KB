@@ -34,3 +34,7 @@ https://engineering.atspotify.com/2021/11/16/introducing-xcremotecache-the-ios-r
 # Cloud
 https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3
 > https://news.ycombinator.com/item?id=29388588
+
+# News
+https://www.emergetools.com/blog/posts/SwiftProtocolConformance
+> https://news.ycombinator.com/item?id=29419349

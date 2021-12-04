@@ -317,6 +317,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/
+
+https://github.com/ReevaJS/reeva JVM JS Engine Kotlin
+
 https://github.com/romellogoodman/flow-field.js
 > https://news.ycombinator.com/item?id=29378522
 

@@ -35,6 +35,9 @@ https://pytorchvideo.org/
 
 https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-text
 
+# Image classification
+https://github.com/Rishit-dagli/Transformer-in-Transformer
+
 # News
 https://github.com/open-mmlab/mmhuman3d
 > https://news.ycombinator.com/item?id=29430950

@@ -21,3 +21,6 @@ https://www.ozzillate.com/ sound
 https://goteleport.com/blog/scp-familiar-simple-insecure-slow/
 > https://news.ycombinator.com/item?id=23579107
 
+https://github.com/rclone/rclone
+> https://news.ycombinator.com/item?id=29435760
+

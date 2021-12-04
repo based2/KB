@@ -189,6 +189,11 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD898.html The threats to computing science, by Edsger W. Dijkstra 1984
+> https://news.ycombinator.com/item?id=29414177
+
+https://manse.cloud/posts/go-footuns-go-defer-rust-drop DB transaction
+
 https://max.engineer/maintainable-code
 > https://news.ycombinator.com/item?id=29396515
 

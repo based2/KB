@@ -1,3 +1,5 @@
+https://lawsofux.com/jakobs-law/
+
 https://uxmovement.com/
 
 https://developer.apple.com/design/resources/
@@ -23,4 +25,8 @@ http://depts.washington.edu/acelab/proj/dollar/index.html
 # osx
 https://portfolio.zxh.io/
 > https://news.ycombinator.com/item?id=27084995
-  > ttps://github.com/Renovamen/playground-macos
+> > ttps://github.com/Renovamen/playground-macos
+
+# Book
+https://news.ycombinator.com/item?id=29437527
+> https://www.youtube.com/victorui

@@ -40,6 +40,8 @@ https://www.esa.int/Enabling_Support/Operations/Three_hours_to_save_Integral
 
 https://www.scmp.com/news/china/military/article/3154496/chinese-satellite-shows-space-warfare-prowess-dodging-us
 
+https://en.wikipedia.org/wiki/Electrodynamic_tether
+
 https://www.thedrive.com/the-war-zone/43328/u-s-satellites-are-being-attacked-everyday-according-to-space-force-general
 > https://news.ycombinator.com/item?id=29402923
 

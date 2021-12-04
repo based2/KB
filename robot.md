@@ -30,6 +30,8 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.engineeredarts.co.uk/robot/ameca/
+
 https://www.unite.ai/engineers-look-to-nature-to-create-bird-like-robot/
 > https://news.ycombinator.com/item?id=29431132
 

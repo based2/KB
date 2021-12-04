@@ -16,3 +16,5 @@ https://blog.mozvr.com/link-traversal/
 
 https://www.simulavr.com/
 > https://news.ycombinator.com/item?id=29157574
+
+https://github.com/keijiro/BibcamVfx

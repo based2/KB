@@ -67,6 +67,8 @@ https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-net
 https://cushychicken.github.io/rules-for-web-scrapers/
 
 # News
+https://movementforanopenweb.com/w3c-not-fit-for-purpose/
+
 https://www.garbageday.email/p/right-clickers-vs-the-monkey-jpg
 
 https://midrange.tedium.co/issues/bring-back-web1-905071

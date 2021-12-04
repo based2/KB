@@ -60,6 +60,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://github.com/prabhatsharma/zinc Rust
+> https://news.ycombinator.com/item?id=29434097
+
 https://twitter.com/GossiTheDog/status/1428457677261246465 Windows urges users to use Bing same way as urgent security warnings
 > https://news.ycombinator.com/item?id=29428353
 

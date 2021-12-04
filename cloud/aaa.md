@@ -17,6 +17,8 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.datacenterknowledge.com/manage/dropbox-s-reverse-migration-cloud-own-data-centers-five-years
+
 https://changelog.com/posts/the-big-idea-around-unikernels
 > https://news.ycombinator.com/item?id=29427449
 > > https://github.com/nanovms

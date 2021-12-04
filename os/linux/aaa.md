@@ -74,6 +74,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://github.com/haampie/libtree
+> https://news.ycombinator.com/item?id=29413753
+
 https://news.ycombinator.com/item?id=29422574 Which single board computers work with a vanilla blobless kernel?
 
 https://news.ycombinator.com/item?id=29307245 How do you quickly add calendar events in Linux?

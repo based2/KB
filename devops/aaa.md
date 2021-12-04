@@ -104,6 +104,10 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.com/merico-dev/lake
+
+https://www.devops-research.com/research.html
+
 https://about.gitlab.com/releases/2021/11/22/gitlab-14-5-released/
 
 https://github.blog/2018-10-17-behind-the-scenes-of-github-token-scanning/

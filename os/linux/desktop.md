@@ -27,6 +27,8 @@ https://opensource.com/article/18/11/choosing-printer-linux
 Openoffice
 
 # News
+https://pointieststick.com/2021/12/03/this-week-in-kde-new-spectacle-features-and-tons-of-bugfixes/
+
 https://www.ubuntubuzz.com/2021/11/discover-slitaz-50mb-lightweight-desktop-operating-system.html
 > https://news.ycombinator.com/item?id=29293389
 

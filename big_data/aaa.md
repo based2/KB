@@ -211,6 +211,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://duckdb.org/2021/12/03/duck-arrow.html
+> https://news.ycombinator.com/item?id=29433941
+
 https://seattledataguy.substack.com/p/what-is-dbt-and-why-are-companies
 > https://news.ycombinator.com/item?id=29424445
 

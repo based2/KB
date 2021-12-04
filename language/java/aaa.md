@@ -35,10 +35,11 @@ https://www.javacodegeeks.com/2015/03/google-guava-5-things-you-never-knew-it-co
 
 # HTTP Client
 https://openjdk.java.net/groups/net/httpclient/intro.html
+
 https://hc.apache.org/
+
 https://mizosoft.github.io/methanol/
 > https://www.reddit.com/r/java/comments/nctvb6/response_caching_with_javas_http_client_methanol/
-
 
 # JEE
 https://newsroom.eclipse.org/eclipse-newsletter/2021/may/jakarta-ee-10-and-enterprise-beans-options-future
@@ -207,7 +208,7 @@ https://www.reddit.com/r/java/comments/b2izd9/i_dont_often_explain_a_single_meth
 
 https://candrews.integralblue.com/2021/04/fixing-a-bug-in-java/
 
-JEE
+# JEE
 https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
 
 https://www.reddit.com/r/java/comments/r5d7no/top_5_reasons_why_youll_love_the_jakarta_servlet/
@@ -250,6 +251,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.javaadvent.com/calendar
+> https://www.reddit.com/r/java/comments/r7vavb/the_jvm_advent_calendar_is_here/
+
 https://blog.jetbrains.com/idea/2021/11/intellij-idea-2021-3/
 
 https://inside.java/2021/11/30/on-parallelism-and-concurrency/

@@ -19,6 +19,8 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://tidbits.com/2021/12/03/usbefuddled-untangling-the-rats-nest-of-usb-c-standards-and-cables/
+
 https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html Making an old USB printer support Apple AirPrint using a Raspberry Pi
 > https://news.ycombinator.com/item?id=29156529
 

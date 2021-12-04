@@ -136,6 +136,9 @@ https://eta.st/2021/03/08/async-rust-2.html
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
 
+https://rustype.github.io/notes/notes/rust-typestate-series/rust-typestate-part-1.html
+> https://news.ycombinator.com/item?id=29433957
+
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 > https://news.ycombinator.com/item?id=27135591

@@ -42,6 +42,9 @@ https://github.com/mesonbuild/meson
 https://gms.tf/the-rise-of-meson.html
 > https://news.ycombinator.com/item?id=28372545
 
+https://www.pyinstaller.org/
+> https://news.ycombinator.com/item?id=29439149
+
 # Debug
 3.8+
 > print(f"{d['key'][1]=}")

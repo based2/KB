@@ -35,6 +35,9 @@ https://github.com/ipfs/go-ds-crdt
 
 https://bartoszsypytkowski.com/yrs-architecture/
 
+https://writer.zohopublic.com/writer/published/grcwy5c699d67b9c444219b60cdb90ccbabc7
+> https://news.ycombinator.com/item?id=29433896
+
 # OT
 
 https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/
