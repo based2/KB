@@ -133,6 +133,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://merecivilian.com/apple-broke-up-with-me/
+> https://news.ycombinator.com/item?id=29446529
+
 https://news.ycombinator.com/item?id=29424245 Interview with Hansen Hsu, engineer at Apple during transition from OS 9 to OS X
 
 https://eclecticlight.co/2021/11/27/explainer-ds_store-files/

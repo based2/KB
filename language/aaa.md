@@ -87,6 +87,8 @@ https://codegolf.stackexchange.com/questions/607/find-the-factorial/629#629
 
 https://github.com/TartanLlama/vizh
 
+https://esolangs.org/wiki/Airline_Food
+
 # Hackaton
 https://www.juricho.me/posts/online-hackathon/
 

@@ -175,6 +175,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.stefanjudis.com/blog/highlights-from-the-web-almanac-2021/
+
 https://dustri.org/b/glitch-effect-on-text-in-pure-css.html
 > https://news.ycombinator.com/item?id=29412775
 

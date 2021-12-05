@@ -60,6 +60,9 @@ https://github.com/ruslashev/elfcat
 https://github.com/NixOS/patchelf
 > https://news.ycombinator.com/item?id=27079565
 
+https://github.com/intoli/exodus
+> https://news.ycombinator.com/item?id=29446297
+
 # Window manager
 https://www.freedesktop.org/wiki/
 

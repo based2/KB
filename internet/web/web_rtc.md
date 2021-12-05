@@ -13,3 +13,7 @@ https://blog.livekit.io/an-introduction-to-webrtc-simulcast-6c5f1f6402eb
 
 https://news.ycombinator.com/item?id=29224220
 
+https://github.com/miroslavpejic85/mirotalksfu
+> https://sfu.mirotalk.org/
+> https://news.ycombinator.com/item?id=29445338
+

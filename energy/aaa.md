@@ -12,8 +12,6 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
-https://www.sciencealert.com/for-the-first-time-a-fusion-reaction-has-generated-more-energy-than-absorbed-by-the-fuel
-
 https://www.edf.org/sites/default/files/documents/SB100%20clean%20firm%20power%20report%20plus%20SI.pdf
 
 https://phys.org/news/2021-11-chemists-harness-energy-ammonia.html

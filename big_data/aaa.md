@@ -87,6 +87,8 @@ https://voila.readthedocs.io/en/stable/
 
 https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a
 
+https://devclass.com/2021/12/02/jupyterhub-2/
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 > https://news.ycombinator.com/item?id=27145515
@@ -211,6 +213,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://arrow.apache.org/blog/2021/11/19/datafusion-6.0.0/
+
 https://duckdb.org/2021/12/03/duck-arrow.html
 > https://news.ycombinator.com/item?id=29433941
 

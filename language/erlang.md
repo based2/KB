@@ -83,6 +83,7 @@ https://elixir-lang.org/blog/2021/11/10/embracing-open-data-with-elixir-at-the-m
 > https://news.ycombinator.com/item?id=29240180
 
 https://blog.appsignal.com/2021/11/30/three-ways-to-debug-code-in-elixir.html
+> https://news.ycombinator.com/item?id=29441653
 
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/

@@ -32,6 +32,9 @@ https://blog.frankel.ch/faster-maven-builds/1/
 
 https://mail-archives.apache.org/mod_mbox/maven-announce/202110.mbox/%3C8bf4d8cb-6a12-4423-f913-24ca2351b325@apache.org%3E
 
+https://www.morling.dev/blog/introducing-oss-quickstart-archetype/
+> https://github.com/moditect/oss-quickstart
+
 ## Public repositories
 https://search.maven.org/classic/#
 

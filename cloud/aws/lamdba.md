@@ -55,6 +55,9 @@ https://aws.amazon.com/en/blogs/compute/operating-lambda-application-design-part
 
 https://aws.amazon.com/en/blogs/compute/modernizing-deployments-with-container-images-in-aws-lambda/
 
+# Profile
+https://github.com/glumia/pylaprof
+
 # Costs
 https://aws.amazon.com/en/blogs/compute/serverless-automated-cost-controls-part1/
 

@@ -5,7 +5,6 @@ https://www.photopea.com/ Ads
 
 # Crop
 
-
 # Resize
 ## Seam carving
 https://www.youtube.com/watch?v=rpB6zQNsbQU
@@ -47,6 +46,8 @@ https://news.ycombinator.com/item?id=27536525
 http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring/
 
 https://nicole.express/2021/the-problem-of-art.html
+
+https://github.com/sedthh/pyxelate img2pixel
 
 # Font
 https://github.com/robhagemans/hoard-of-bitfonts

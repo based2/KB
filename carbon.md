@@ -51,6 +51,10 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://mashable.com/feature/carbon-footprint-pr-campaign-sham
+
+https://techcrunch.com/2021/12/03/co2-capture-iceland-climeworks-orca/
+
 https://www.umass.edu/news/article/satellites-reveal-arctic-rivers-are-changing-faster-we-thought
 > https://news.ycombinator.com/item?id=29386175
 

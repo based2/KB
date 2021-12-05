@@ -1,4 +1,6 @@
 https://www.videolan.org/
+> https://increment.com/teams/the-team-that-powers-vlc/
+> > https://news.ycombinator.com/item?id=29443411
 
 https://mpc-hc.org/
 

@@ -25,6 +25,9 @@ https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
 ## Voyager
 https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/
 
+https://destevez.net/2021/12/more-data-from-voyager-1/
+> https://news.ycombinator.com/item?id=29444698
+
 # Satellite
 
 https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Reprogrammable_satellite_launched

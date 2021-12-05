@@ -63,6 +63,9 @@ https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
 
+https://blog.nootch.net/post/kubernetes-at-home-with-k3s/
+> https://news.ycombinator.com/item?id=29447741
+
 https://sysdig.com/blog/kubernetes-1-23-whats-new/
 
 https://medium.com/@kevin.backman/anthos-on-bare-metal-how-mlb-turned-ball-parks-into-on-prem-k8-clusters-295031253a33

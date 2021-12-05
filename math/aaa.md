@@ -83,6 +83,11 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://math.ucr.edu/~huerta/guts/guts.html
+
+https://scottaaronson.blog/?p=2725
+> https://news.ycombinator.com/item?id=29425884
+
 https://theconversation.com/mathematical-discoveries-take-intuition-and-creativity-and-now-a-little-help-from-ai-172900
 > https://news.ycombinator.com/item?id=29424749
 

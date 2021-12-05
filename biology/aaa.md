@@ -25,6 +25,8 @@ https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce
 https://www.newscientist.com/article/2285141-single-celled-organism-has-evolved-a-natural-mechanical-computer/
 > https://news.ycombinator.com/item?id=28006599
 
+https://www.science.org/doi/10.1126/scirobotics.abf1571
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 

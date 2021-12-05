@@ -60,3 +60,5 @@ https://calmtech.com/
 
 https://smitop.com/post/gmail-s-fake-loading-indicator/
 > https://news.ycombinator.com/item?id=29184858
+
+https://interconnected.org/home/2021/04/23/star_wars

@@ -62,6 +62,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://blog.centos.org/2021/12/introducing-centos-stream-9/
+
 https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28
 > https://news.ycombinator.com/item?id=29265871
 

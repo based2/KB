@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.carscoops.com/2021/05/the-cute-wuling-hongguang-mini-continues-to-dominate-chinas-ev-sales-charts/
+
 https://hothardware.com/news/bidens-infrastructure-bill-mandatory-backdoor-car-kill-switch
 > https://news.ycombinator.com/item?id=29427068
 

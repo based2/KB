@@ -56,6 +56,8 @@ https://www.terraform.io/docs/enterprise/before-installing/reference-architectur
 
 https://github.com/tesera/terraform-modules
 
+https://aws.amazon.com/en/blogs/aws/sustainability-pillar-well-architected-framework/
+
 # VPC
 https://aws.amazon.com/en/blogs/compute/update-issue-affecting-hashicorp-terraform-resource-deletions-after-the-vpc-improvements-to-aws-lambda/
 
@@ -67,6 +69,10 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://repost.aws/ QA
+
+https://venturebeat.com/2021/12/03/the-top-12-security-announcements-at-aws-reinvent-2021/
+
 https://aws.amazon.com/en/about-aws/whats-new/2021/12/aws-amplify-studio/
 > https://news.ycombinator.com/item?id=29427883
 > > https://aws.amazon.com/en/blogs/mobile/aws-amplify-studio-figma-to-fullstack-react-app-with-minimal-programming/

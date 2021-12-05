@@ -27,6 +27,9 @@ https://opensource.com/article/18/11/choosing-printer-linux
 Openoffice
 
 # News
+https://drewdevault.com/2021/12/05/How-new-Linux-users-succeed.html
+> https://news.ycombinator.com/item?id=29448837
+
 https://net-security.fr/system/capture-ecran-gnu-linux/
 > https://www.journalduhacker.net/s/rquean/capture_d_cran_sous_gnu_linux_avec
 

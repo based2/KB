@@ -99,6 +99,12 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-amazon-ebs-snapshots-with-amazon-ec2-systems-manager-part-2/
 
 # News
+https://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html
+> https://news.ycombinator.com/item?id=29444746
+
+https://aws-native.com/new-ec2-instance-types-of-reinvent-2021
+> https://news.ycombinator.com/item?id=29448494
+
 https://aws.amazon.com/en/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/
 > https://news.ycombinator.com/item?id=29418532
 

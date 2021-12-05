@@ -12,7 +12,12 @@ https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2
 https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
-# News
+# News`
+https://github.com/ethereum/fe 
+> https://news.ycombinator.com/item?id=29448435
+
+https://tairasim.com/evm-codes/
+
 https://blog.goodaudience.com/understanding-zero-knowledge-proofs-through-simple-examples-df673f796d99
 
 https://github.com/ethereum/EIPs/pull/4488 Transaction calldata gas cost reduction with total calldata limit

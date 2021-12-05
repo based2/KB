@@ -17,6 +17,11 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://unikraft.io/
+> https://news.ycombinator.com/item?id=29428208
+
+https://news.ycombinator.com/item?id=29443137 Dependency Graphs for Cloud Services?
+
 https://www.datacenterknowledge.com/manage/dropbox-s-reverse-migration-cloud-own-data-centers-five-years
 
 https://changelog.com/posts/the-big-idea-around-unikernels

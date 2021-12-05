@@ -251,6 +251,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://shipilev.net/blog/2016/arrays-wisdom-ancients/
+
+https://github.com/HanSolo/JDKMon
+
 https://www.javaadvent.com/calendar
 > https://www.reddit.com/r/java/comments/r7vavb/the_jvm_advent_calendar_is_here/
 

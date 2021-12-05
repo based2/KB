@@ -89,6 +89,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 > https://news.ycombinator.com/item?id=29136429
 
 # News
+https://kaboomjs.com/doc/2000 js
+> https://github.com/replit/kaboom
+
 https://trust.support/feed/moving-castles
 > https://news.ycombinator.com/item?id=29396749
 

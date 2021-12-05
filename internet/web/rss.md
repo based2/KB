@@ -18,3 +18,6 @@ https://quakkels.com/posts/rss-is-wonderful/
 
 https://github.com/damoeb/rss-proxy
 > https://news.ycombinator.com/item?id=29369706
+
+https://linklonk.com/
+> https://news.ycombinator.com/item?id=29445764

@@ -54,8 +54,11 @@ Why TLS is better without STARTTLS: A Security Analysis of STARTTLS in the Email
 # Interop
 ## .eml attachment - Microsoft Outlook
 https://www.loc.gov/preservation/digital/formats/fdd/fdd000388.shtml#specs
+
 https://www.dropboxforum.com/t5/Dropbox-installs-integrations/View-eml-files-on-iPhone/td-p/25968
+
 https://www.clic-ouest.fr/comment-ouvrir-fichiers-eml-emails/
+
 https://openemlfile.com/
 
 # Validation
@@ -90,7 +93,13 @@ https://spamassassin.apache.org/
 
 https://www.semanticscholar.org/paper/Spamalot%3A-A-Toolkit-for-Consuming-Spammers%27-Nelson-Dallmeyer/97b8c4e291835ca3d11e0e6d924dc436ea31a4c7?p2df
 
+# New mail systems
+https://liw.fi/rethinking-email/
+> https://news.ycombinator.com/item?id=29448204
+
 # News
+https://twitter.com/bradwolverton/status/1403487267017089035?s=20
+
 https://ouafnico.shivaserv.fr/posts/infra-mail/
 
 https://simplelogin.io

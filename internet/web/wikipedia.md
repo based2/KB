@@ -18,8 +18,15 @@ http://static.wiki/
 https://news.ycombinator.com/item?id=28277749
 
 # Wiki
+https://www.mediawiki.org/wiki/MediaWiki
+
 https://gitlab.com/moasdawiki/moasdawiki-server/-/tree/master/installer/linux/debian
 > https://news.ycombinator.com/item?id=27746717
+
+https://github.com/qbit/widdler Go, 
+> https://news.ycombinator.com/item?id=29449283
+
+https://xwiki.com
 
 # News
 https://meta.wikimedia.org/wiki/Communications/Sound_Logo
