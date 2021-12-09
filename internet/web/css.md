@@ -175,6 +175,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://tdinh.notion.site/Two-lines-of-CSS-that-will-improve-HN-on-mobile-IMO-cc7521e476ae487180e94e8dd4275c80
+> https://news.ycombinator.com/item?id=29494475
+
 https://google-webfonts-helper.herokuapp.com/fonts
 > https://news.ycombinator.com/item?id=29472722
 

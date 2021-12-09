@@ -21,6 +21,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://worthdoingbadly.com/vowifi/
+
 https://machinehum.medium.com/im-putting-a-wifi-router-into-a-wall-charger-part-0-2c1e1a80ccde
 > https://news.ycombinator.com/item?id=29011327
 

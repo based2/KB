@@ -72,6 +72,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 https://status.aws.amazon.com/
 > https://news.ycombinator.com/item?id=29473630
 > https://news.ycombinator.com/item?id=29480392
+> https://www.vice.com/en/article/wxdnxy/amazons-server-outage-took-down-a-decentralized-crypto-exchange
+> > https://news.ycombinator.com/item?id=29497219
 
 https://repost.aws/ QA
 

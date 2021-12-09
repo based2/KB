@@ -20,6 +20,9 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://rorodi.substack.com/p/the-biggest-crypto-lending-company
+> https://news.ycombinator.com/item?id=29497642
+
 https://asia.nikkei.com/Spotlight/Cryptocurrencies/Stablecoins-to-face-new-restrictions-in-Japan
 > https://news.ycombinator.com/item?id=29463927
 

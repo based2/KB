@@ -33,7 +33,7 @@ https://auth0.com/blog/spring-boot-logs-aggregation-and-monitoring-using-elk-sta
 
 https://www.marcobehler.com/guides/spring-framework
 
-Spring native
+# Spring native
 https://www.youtube.com/watch?v=TXyg6Nm4ZpQ
 
 https://www.infoq.com/news/2021/09/spring-6-spring-boot-3-overhaul/
@@ -47,6 +47,9 @@ https://spring.io/blog/2021/10/13/spring-tips-spring-plugin
 https://github.com/codependent/spring-boot-ssl-mutual-authentication
 
 https://www.reddit.com/r/java/comments/r6z7ag/what_is_the_better_way_of_spring_boot/ authn
+
+https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-next-level
+> https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
 https://blog.frankel.ch/multiple-spring-boot-apps-same-project/

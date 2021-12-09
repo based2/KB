@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://cuetorials.com/first-steps/generate-all-the-things/
+
 https://matduggan.com/why-we-need-better/
 > https://news.ycombinator.com/item?id=29440077
 

@@ -63,6 +63,8 @@ https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
 
+https://kubernetes.io/blog/2021/12/08/dual-stack-networking-ga/
+
 https://blog.nootch.net/post/kubernetes-at-home-with-k3s/
 > https://news.ycombinator.com/item?id=29447741
 

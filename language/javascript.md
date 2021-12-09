@@ -41,6 +41,9 @@ https://github.com/WebCrateApp/webcrate
 https://hezedu.github.io/history-navigation-vue/
 > https://news.ycombinator.com/item?id=29296713
 
+https://matthewc.dev/blog/webdev/vuex-sync-part-1/
+> https://news.ycombinator.com/item?id=29476054
+
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 
@@ -145,6 +148,8 @@ https://www.joshwcomeau.com/react/the-perils-of-rehydration/
 > https://news.ycombinator.com/item?id=29406175
 
 https://blog.fildon.me/react-testing-library-recipes
+
+https://github.com/facebook/react/issues/11347 RFC: Plan for custom element attributes/properties in React 18
 
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49

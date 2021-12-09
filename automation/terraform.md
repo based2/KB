@@ -40,6 +40,9 @@ https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terr
 https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 
 # News
+https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp
+> https://news.ycombinator.com/item?id=29500645
+
 https://brendanthompson.com/posts/2021/11/my-terraform-standards
 
 https://github.com/awslabs/tecli Command Line Interface for Terraform Enterprise/Cloud

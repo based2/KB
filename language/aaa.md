@@ -130,6 +130,10 @@ https://github.com/crev-dev/crev/wiki/Proof-Repository
 https://utcc.utoronto.ca/~cks/space/blog/tech/MistakesAndBackwardCompatibility
 > https://news.ycombinator.com/item?id=27510647
 
+# Parallel
+https://arxiv.org/abs/2111.11218
+> https://news.ycombinator.com/item?id=29499055
+
 # History
 https://writings.stephenwolfram.com/2015/12/untangling-the-tale-of-ada-lovelace/
 

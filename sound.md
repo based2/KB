@@ -64,6 +64,8 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://soundshader.github.io/cats.html
+
 https://globalsequencer.com/
 > https://news.ycombinator.com/item?id=29465430
 

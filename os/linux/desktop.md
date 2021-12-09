@@ -27,6 +27,10 @@ https://opensource.com/article/18/11/choosing-printer-linux
 Openoffice
 
 # News
+https://github.com/acro5piano/wayremap keyboard
+
+https://lists.freedesktop.org/archives/wayland-devel/2021-December/042064.html
+
 https://arewelinusyet.com/
 
 https://drewdevault.com/2021/12/05/How-new-Linux-users-succeed.html

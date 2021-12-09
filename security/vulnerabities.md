@@ -162,6 +162,8 @@ https://en.wikipedia.org/wiki/Bitcoin
 
 https://en.wikipedia.org/wiki/Moxie_Marlinspike#SSL_stripping
 
+https://en.wikipedia.org/wiki/Length_extension_attack
+
 # 2008
 https://www.win.tue.nl/hashclash/rogue-ca/ MD5
 

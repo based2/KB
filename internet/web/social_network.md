@@ -21,8 +21,10 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 # Dmoz
 # BBS
 https://www.telnetbbsguide.com/
-> 
+ 
 # News
+https://www.cisa.gov/uscert/ncas/current-activity/2021/12/09/cisa-releases-guidance-protecting-organization-run-social-media
+
 https://runyourown.social/
 > https://news.ycombinator.com/item?id=29470565
 

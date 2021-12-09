@@ -27,6 +27,9 @@ https://aws.amazon.com/en/blogs/compute/under-the-hood-task-networking-for-amazo
 https://github.com/iamarkadyt/aws-auth
 > https://news.ycombinator.com/item?id=29090858
 
+https://twitter.com/mamip_aws
+> https://github.com/z0ph/MAMIP/tree/master/findings
+
 # Secrets
 https://aws.amazon.com/en/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
 

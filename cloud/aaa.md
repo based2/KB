@@ -13,10 +13,17 @@ https://thenewstack.io/an-architects-guide-to-multicloud/
 https://github.com/255kb/stack-on-a-budget
 > https://news.ycombinator.com/item?id=27022075
 
+# Security
+https://github.com/nccgroup/ScoutSuite
+
+https://roadmap.cloudsecdocs.com/
+
 # FaaS
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://github.com/OpenNebula/one
+
 https://www.hetzner.com/news/12-21-ipv6-only/
 > https://news.ycombinator.com/item?id=29471986
 

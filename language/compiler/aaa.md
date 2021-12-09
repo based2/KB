@@ -93,6 +93,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://pspdfkit.com/blog/2021/understanding-fast-math/
+> https://news.ycombinator.com/item?id=29482350
+
 https://llvm.org/docs/Proposals/LLVMLibC.html
 > https://news.ycombinator.com/item?id=29447533
 

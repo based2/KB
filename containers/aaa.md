@@ -36,6 +36,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c
+
+https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh
+> https://news.ycombinator.com/item?id=29496870
+
 https://github.com/infracloudio/awesome-microvm
 > https://news.ycombinator.com/item?id=29439073
 

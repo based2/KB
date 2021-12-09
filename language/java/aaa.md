@@ -84,6 +84,8 @@ https://docs.openrewrite.org/tutorials/migrate-from-java-8-to-java-11
 > https://www.reddit.com/r/java/comments/p88rjq/automated_migration_from_java_8_to_11/
 > https://github.com/openrewrite/rewrite
 
+https://docs.oracle.com/en/java/javase/17/migrate/getting-started.html
+
 # Notes
 https://ijnspector.wordpress.com/ Practical examples for IntelliJ's Structural Search and Replace Templates
 
@@ -251,6 +253,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.redhat.com/en/blog/red-hat-response-java-release-cadence-change
+
 https://shipilev.net/blog/2016/arrays-wisdom-ancients/
 > https://www.reddit.com/r/java/comments/r9is3p/arrays_of_wisdom_of_the_ancients/
 

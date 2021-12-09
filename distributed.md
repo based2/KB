@@ -38,6 +38,9 @@ https://bartoszsypytkowski.com/yrs-architecture/
 https://writer.zohopublic.com/writer/published/grcwy5c699d67b9c444219b60cdb90ccbabc7
 > https://news.ycombinator.com/item?id=29433896
 
+https://www.youtube.com/watch?v=Qytg0Ibet2E
+> https://github.com/automerge/automerge
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

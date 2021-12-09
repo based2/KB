@@ -251,6 +251,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/deepset-ai/haystack
+> https://news.ycombinator.com/item?id=29501045
+
+https://daedalean.ai/tpost/edft5l2a31-artificial-intelligence-in-the-cockpit-s
+> https://news.ycombinator.com/item?id=29495810
+
 https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html
 > https://news.ycombinator.com/item?id=29456732
 

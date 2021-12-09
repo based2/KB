@@ -164,6 +164,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.helenmakesmaps.com/post/how-to-use-blending-modes-in-mapping
+
 https://www.gaia-gis.it/fossil/libspatialite/index
 
 https://en.wikipedia.org/wiki/SpatiaLite

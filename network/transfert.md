@@ -24,3 +24,5 @@ https://goteleport.com/blog/scp-familiar-simple-insecure-slow/
 https://github.com/rclone/rclone
 > https://news.ycombinator.com/item?id=29435760
 
+https://github.com/firedm/FireDM Internet Download Manager, python
+

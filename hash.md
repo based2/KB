@@ -73,6 +73,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://hypirion.com/musings/understanding-persistent-vector-pt-1 clojure
+> https://lampwww.epfl.ch/papers/idealhashtrees.pdf deal Hash Trees HAMT
+
 https://blog.vespa.ai/billion-scale-knn/
 
 https://blog.sesse.net/blog/tech/2021-11-30-12-00_commitcoin.html

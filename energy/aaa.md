@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.theguardian.com/us-news/2021/dec/03/iberdrola-avangrid-us-lawsuit-bid-rigging-racketeering
+
+
 https://www.edf.org/sites/default/files/documents/SB100%20clean%20firm%20power%20report%20plus%20SI.pdf
 
 https://phys.org/news/2021-11-chemists-harness-energy-ammonia.html

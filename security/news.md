@@ -1,3 +1,32 @@
+
+https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/
+> https://www.alibabacloud.com/blog/zero-day-attack-analysis-and-dissemination-method-disclosure-for-hadoop-yarn-rpc_598248
+> > https://www.cyberkendra.com/2021/12/worst-log4j-rce-zeroday-dropped-on.html
+> > > https://logging.apache.org/log4j/2.x/changes-report.html
+> > > https://github.com/apache/logging-log4j2/commits/master
+
+https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
+
+https://jira.atlassian.com/browse/JRASERVER-72802 
+
+https://www.darpa.mil/attachments/SMOKE_ProposersDay_20211207.pdf
+
+https://www.opencti.io/
+> https://github.com/OpenCTI-Platform/opencti
+
+https://gitlab.com/luisfm/pifmana-pipeline-for-malware-analysis
+
+https://arstechnica.com/information-technology/2021/12/malicious-packages-sneaked-into-npm-repository-stole-discord-tokens/
+
+https://www.blackhat.com/asia-21/briefings/schedule/index.html#apple-neural-engine-internal-from-ml-algorithm-to-hw-registers-22039 FaceID
+> https://news.ycombinator.com/item?id=29483347
+> > https://www.youtube.com/watch?v=1wvBDUnPNEo
+> > > https://stackoverflow.com/questions/10061532/why-choose-sha512-over-sha384
+> > > > https://en.wikipedia.org/wiki/Length_extension_attack
+
+https://blog.minerva-labs.com/a-new-strongpity-variant-hides-behind-notepad-installation
+> https://news.ycombinator.com/item?id=29499002
+
 https://grafana.com/blog/2021/12/08/an-update-on-0day-cve-2021-43798-grafana-directory-traversal/
 > https://news.ycombinator.com/item?id=29491900
 
@@ -312,6 +341,7 @@ https://github.com/FiloSottile/age
 > https://linuxfr.org/news/sortie-de-la-version-1-0-0-de-age
 
 https://linuxsecurity.com/advisories/fedora/fedora-35-vim-2021-6988830606-19-26-46
+> https://nvd.nist.gov/vuln/detail/CVE-2021-4069
 
 https://www.cisecurity.org/advisory/multiple-vulnerabilities-in-adobe-products-could-allow-for-arbitrary-code-execution_2021-138/
 
