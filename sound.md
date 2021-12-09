@@ -64,6 +64,14 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://globalsequencer.com/
+> https://news.ycombinator.com/item?id=29465430
+
+https://chuanenlin.com/soundify/
+
+https://www.zrythm.org/en/index.html automated and intuitive digital audio workstation
+> https://news.ycombinator.com/item?id=29450212
+
 https://www.soundguys.com/what-is-distortion-thd-47149/
 > https://news.ycombinator.com/item?id=29367016
 

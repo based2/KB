@@ -1,3 +1,25 @@
+https://grafana.com/blog/2021/12/08/an-update-on-0day-cve-2021-43798-grafana-directory-traversal/
+> https://news.ycombinator.com/item?id=29491900
+
+https://portswigger.net/research/ublock-i-exfiltrate-exploiting-ad-blockers-with-css
+> https://news.ycombinator.com/item?id=29459925
+
+https://cybernews.com/security/microsoft-vancouver-leaking-website-credentials-via-overlooked-ds-store-file/
+
+https://bugs.chromium.org/p/project-zero/issues/detail?id=2241
+> https://news.ycombinator.com/item?id=29468552
+
+https://blog.google/threat-analysis-group/disrupting-glupteba-operation/
+> https://news.ycombinator.com/item?id=29475879
+
+https://www.admin.ch/gov/en/start/documentation/media-releases.msg-id-86311.html
+
+https://sollove.com/2013/03/03/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers/
+> https://news.ycombinator.com/item?id=29481153
+
+https://flatt.tech/reports/210401_pwn2own/ CVE-2021-3490 Ubuntu Desktop Exploit, Linux Kernel eBPF Improper Handling of Position Privilege Escalation Vulnerability
+> https://news.ycombinator.com/item?id=29485530
+
 https://pberba.github.io/security/2021/11/22/linux-threat-hunting-for-persistence-sysmon-auditd-webshell/
 > https://pberba.github.io/security/2021/11/23/linux-threat-hunting-for-persistence-account-creation-manipulation/
 

@@ -20,6 +20,15 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://asia.nikkei.com/Spotlight/Cryptocurrencies/Stablecoins-to-face-new-restrictions-in-Japan
+> https://news.ycombinator.com/item?id=29463927
+
+https://whale-alert.io/transaction/tron/1a23f7a875deb2120f7efca0b426772737c3d2fc1f51b07ba9f9418d8027552f
+> https://news.ycombinator.com/item?id=29452726
+
+https://www.theblockcrypto.com/linked/126367/crypto-exchange-bitmart-reportedly-hacked-for-100-million
+> https://news.ycombinator.com/item?id=29451211
+
 https://tbd54566975.ghost.io/introducing-tbdex/
 > https://tbdex.io/whitepaper.pdf
 

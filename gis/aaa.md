@@ -122,6 +122,8 @@ https://minitokyo3d.com/ trains
 
 https://safecycle.atelier-des-communs.fr/
 
+https://earthquake.usgs.gov/earthquakes/map/?extent=32.06396,-149.37012&extent=54.36776,-102.17285&sort=largest&listOnlyShown=true
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 
@@ -162,6 +164,10 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+https://en.wikipedia.org/wiki/SpatiaLite
+
 https://www.capellaspace.com/gallery/
 
 http://cmoran.xyz/writing/adventures_in_photogrammetry

@@ -60,6 +60,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://unum.am/post/2021-12-07-supercycle/
+> https://news.ycombinator.com/item?id=29484567
+
 https://www.militaryaerospace.com/test/article/16706506/space-electronics-detector-protects-electronics-during-nuclear-events
 
 https://en.wikipedia.org/wiki/List_of_interface_bit_rates

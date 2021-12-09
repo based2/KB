@@ -252,6 +252,7 @@ https://github.com/ufuu/JDK10 1.0
 
 # News
 https://shipilev.net/blog/2016/arrays-wisdom-ancients/
+> https://www.reddit.com/r/java/comments/r9is3p/arrays_of_wisdom_of_the_ancients/
 
 https://github.com/HanSolo/JDKMon
 

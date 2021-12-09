@@ -18,6 +18,9 @@ https://kallithea-scm.org/ And Mercurial, python-ldap
 https://sourcehut.org/blog/2021-11-15-sourcehuts-third-year/
 > https://news.ycombinator.com/item?id=29225155
 
+https://github.com/charmbracelet/soft-serve go
+> https://news.ycombinator.com/item?id=29483940
+
 # Visualiser
 https://github.com/ssdong/git-command-visualizer Scala
 

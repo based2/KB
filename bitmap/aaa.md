@@ -40,6 +40,9 @@ https://github.com/Mukosame/Anime2Sketch
 https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/
 > https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering
 
+https://bisqwit.iki.fi/story/howto/dither/jy/
+> https://news.ycombinator.com/item?id=29447302
+
 # Pixel
 https://news.ycombinator.com/item?id=27536525
 

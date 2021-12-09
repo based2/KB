@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://bugs.webkit.org/show_bug.cgi?id=182566
+> https://news.ycombinator.com/item?id=29489523
+
 https://www.pixiebrix.com/blog/a-brief-history-of-browser-extensibility/
 
 https://arstechnica.com/gadgets/2021/12/browser-switching-gets-marginally-easier-in-latest-windows-11-preview/

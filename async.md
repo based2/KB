@@ -17,3 +17,10 @@ https://blog.metaobject.com/2021/06/asynchronous-sequences-and-polymorphic.html
 https://vorpus.org/blog/some-thoughts-on-asynchronous-api-design-in-a-post-asyncawait-world/
 
 https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-software-2350b3e77ce7
+
+https://www.alwaysrightinstitute.com/async-io-by-example/
+> https://news.ycombinator.com/item?id=29451320
+
+# Test
+https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
+> https://news.ycombinator.com/item?id=29489815

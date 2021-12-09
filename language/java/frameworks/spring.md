@@ -49,6 +49,8 @@ https://github.com/codependent/spring-boot-ssl-mutual-authentication
 https://www.reddit.com/r/java/comments/r6z7ag/what_is_the_better_way_of_spring_boot/ authn
 
 # News
+https://blog.frankel.ch/multiple-spring-boot-apps-same-project/
+
 https://spring.io/projects/spring-hateoas
 
 https://arnoldgalovics.com/fallbacks-with-spring-cloud-feign/?utm_source=reddit&utm_medium=post&utm_campaign=fallbacks-with-spring-cloud-feign

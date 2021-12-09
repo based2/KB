@@ -29,6 +29,9 @@ https://github.com/kqito/vim-easy-replace
 https://vim.is/#exercise
 > https://news.ycombinator.com/item?id=29431946
 
+http://www.viemu.com/a-why-vi-vim.html
+> https://news.ycombinator.com/item?id=29469345
+
 # Nano
 
 

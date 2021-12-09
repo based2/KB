@@ -114,6 +114,11 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/
+> https://news.ycombinator.com/item?id=29477375
+
+https://korben.info/comment-installer-iso-windows-11.html usb
+
 https://guacamole.apache.org/ Clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 > https://news.ycombinator.com/item?id=29442643
 

@@ -92,6 +92,9 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://www.pixelbeat.org/docs/coreutils-testing.html
+> https://news.ycombinator.com/item?id=29459185
+
 https://simons.berkeley.edu/events/breakthroughs-locally-testable-codes-constant-rate-distance-and-locality
 
 https://www.quantamagazine.org/researchers-defeat-randomness-to-create-ideal-code-20211124/

@@ -38,6 +38,10 @@ https://bartoszsypytkowski.com/yrs-architecture/
 https://writer.zohopublic.com/writer/published/grcwy5c699d67b9c444219b60cdb90ccbabc7
 > https://news.ycombinator.com/item?id=29433896
 
+## UI
+https://syncedstore.org/docs/
+> https://news.ycombinator.com/item?id=29483913
+
 # OT
 
 https://brunocalza.me/getting-to-know-logical-clocks-by-implementing-them/
@@ -75,4 +79,7 @@ https://github.com/tylertreat/comcast
 https://github.com/honzaap/Systemizer system design tool used to create and simulate large scale distributed systems
 
 # News
+https://julialang.org/blog/2021/12/dtable-performance-assessment/
+> https://news.ycombinator.com/item?id=29487655
+
 https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html

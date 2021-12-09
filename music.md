@@ -46,7 +46,6 @@ https://learningmusic.ableton.com/
 > https://news.ycombinator.com/item?id=29055433
 
 https://tempobeatdownbeat.github.io/tutorial/intro.html
-> 
 
 # Western Theory
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
@@ -130,7 +129,12 @@ https://www.pianobook.co.uk/
 https://www.charlesbrooks.info/architecture-in-music
 > https://news.ycombinator.com/item?id=29389442
 
+https://ianthehenry.com/posts/binary-instrument/
+
 # News
+https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/
+> https://news.ycombinator.com/item?id=29450415
+
 https://github.com/SubhadeepJasu/Ensembles Realtime musical performance arranger app
 
 https://flujoo.github.io/en/generate-accompaniment-progression/

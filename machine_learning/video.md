@@ -39,6 +39,14 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://setosa.io/ev/image-kernels/
+
+https://www.unite.ai/human-image-synthesis-from-reflected-radio-waves/
+> https://news.ycombinator.com/item?id=29487009
+
+https://www.louisbouchard.ai/editgan/
+> https://news.ycombinator.com/item?id=29451405
+
 https://arxiv.org/abs/2111.13679 NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images
 
 https://github.com/open-mmlab/mmhuman3d

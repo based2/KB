@@ -251,6 +251,23 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://lilianweng.github.io/lil-log/2021/12/05/semi-supervised-learning.html
+> https://news.ycombinator.com/item?id=29456732
+
+https://arxiv.org/abs/2112.02089 Regularized Newton Method with Global O(1/k2) Convergence
+> https://news.ycombinator.com/item?id=29472189
+
+https://ensmallen.org/docs.html
+> https://news.ycombinator.com/item?id=29489613
+
+https://spectrum.ieee.org/ai-training-mlperf
+> https://news.ycombinator.com/item?id=29448710
+
+https://deepmind.com/blog/article/language-modelling-at-scale
+> https://news.ycombinator.com/item?id=29486607
+
+https://thegradient.pub/upol-ehsan-interview/
+
 https://leimao.github.io/blog/Variable-Elimination-Algorithm/
 
 https://ai.googleblog.com/2021/11/permutation-invariant-neural-networks.html

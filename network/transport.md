@@ -11,6 +11,8 @@ https://klarasystems.com/articles/using-the-freebsd-rack-tcp-stack/ RACK-TLP
 
 http://www.tcpcrypt.org/
 
+https://en.wikipedia.org/wiki/CUBIC_TCP
+
 # Connector
 https://github.com/airbytehq/airbyte
 

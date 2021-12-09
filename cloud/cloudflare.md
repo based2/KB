@@ -1,3 +1,12 @@
+https://blog.cloudflare.com/why-cloudflare-bought-zaraz/
+> https://news.ycombinator.com/item?id=29485424
+
+https://www.fastly.com/blog/debunking-cloudflares-recent-performance-tests
+> https://news.ycombinator.com/item?id=29465729
+
+https://blog.klungo.no/2021/12/07/cloudflare-images-has-a-lot-of-issues/
+> https://news.ycombinator.com/item?id=29474743
+
 https://erdaltoprak.com/setting-up-cloudflare-argo-and-access-on-a-raspberry-pi
 > https://news.ycombinator.com/item?id=29382906
 > > https://blog.cloudflare.com/tunnel-for-everyone/

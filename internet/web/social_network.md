@@ -23,6 +23,14 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 > 
 # News
+https://runyourown.social/
+> https://news.ycombinator.com/item?id=29470565
+
+https://github.com/jam-systems/jam alternative to Clubhouse, Twitter Spaces and similar audio spaces
+
+https://patriotone.substack.com/p/twitter-suspension
+> https://news.ycombinator.com/item?id=29484545
+
 https://twitter.com/jack/status/1465347002426867720 Jack, I resigned from Twitter
 > https://news.ycombinator.com/item?id=29380171
 

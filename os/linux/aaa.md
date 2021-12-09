@@ -77,6 +77,12 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://www.theregister.com/2021/12/08/intel_software_defined_silicon_update/ SDSi DRM
+> https://news.ycombinator.com/item?id=29483655
+
+https://lkml.org/lkml/2021/12/6/461
+> https://news.ycombinator.com/item?id=29485465
+
 https://github.com/haampie/libtree
 > https://news.ycombinator.com/item?id=29413753
 

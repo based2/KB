@@ -83,6 +83,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://link.springer.com/article/10.1007/s00371-021-02232-0 Gneration of advanced Escher-like spiral tessellations
+> https://news.ycombinator.com/item?id=29490327
+
 https://math.ucr.edu/~huerta/guts/guts.html
 
 https://scottaaronson.blog/?p=2725

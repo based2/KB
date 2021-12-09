@@ -17,6 +17,12 @@ https://github.com/255kb/stack-on-a-budget
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.hetzner.com/news/12-21-ipv6-only/
+> https://news.ycombinator.com/item?id=29471986
+
+https://github.com/crucial-project/serverless-shell
+> https://news.ycombinator.com/item?id=29482788
+
 https://unikraft.io/
 > https://news.ycombinator.com/item?id=29428208
 

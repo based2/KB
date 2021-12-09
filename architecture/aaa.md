@@ -96,6 +96,15 @@ https://menno.io/posts/golang-register-calling/
 https://nullprogram.com/blog/2021/12/04/ Fast CSV processing with SIMD
 > https://news.ycombinator.com/item?id=29439403
 
+https://lemire.me/blog/2019/02/08/faster-remainders-when-the-divisor-is-a-constant-beating-compilers-and-libdivide/
+> https://news.ycombinator.com/item?id=29487605
+
+https://blog.segger.com/algorithms-for-division-part-4-using-newtons-method/
+> https://news.ycombinator.com/item?id=29469186
+
+https://vladfeinberg.com/2021/01/07/vectorizing-ragged-arrays.html
+> https://news.ycombinator.com/item?id=29475773
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -145,6 +154,9 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://martinfowler.com/articles/cant-buy-integration.html
+> https://news.ycombinator.com/item?id=29478375
+
 https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
 > https://news.ycombinator.com/item?id=29233463
 

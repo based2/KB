@@ -29,6 +29,9 @@ https://github.com/qbit/widdler Go,
 https://xwiki.com
 
 # News
+https://www.modernwiki.app/
+> https://news.ycombinator.com/item?id=29461735
+
 https://meta.wikimedia.org/wiki/Communications/Sound_Logo
 
 https://zverok.github.io/blog/2021-11-30-irregular1.html Wikipedia as the data source: taming the irregular, pt.1

@@ -2,6 +2,9 @@ https://sudhir.io/the-big-little-guide-to-message-queues/
 
 https://blog.cloudflare.com/waiting-room-random-queueing-and-custom-web-mobile-apps/
 
+https://www.openmymind.net/Queue-Despair-Ordering-And-Poison-Messages/
+> https://news.ycombinator.com/item?id=29484998
+
 # RabbitMQ
 https://derickbailey.com/2016/03/28/dealing-with-dead-letters-and-poison-messages-in-rabbitmq/
 

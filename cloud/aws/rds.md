@@ -21,3 +21,7 @@ https://aws.amazon.com/en/blogs/database/readable-standby-instances-in-amazon-rd
 https://jayendrapatil.com/rds-read-replicas/
 
 https://www.securekloud.com/image/white-papers/SecureKloud_Exploring-Amazon-RDS-MySQL-Second-Tier-Read-Replica.pdf
+
+# News
+https://www.mattritter.me/?p=398 Postgres, Kafka, and the Mysterious 100 GB
+> https://news.ycombinator.com/item?id=29462140

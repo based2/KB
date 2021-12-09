@@ -104,6 +104,8 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://www.theserverside.com/tip/5-Jenkins-alternatives-for-Java-developers
+
 https://github.com/merico-dev/lake
 
 https://www.devops-research.com/research.html

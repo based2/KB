@@ -12,7 +12,9 @@ https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2
 https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
-# News`
+# News
+https://arxiv.org/abs/2112.01238 Ethereum Emissions: A Bottom-up Estimate
+
 https://github.com/ethereum/fe 
 > https://news.ycombinator.com/item?id=29448435
 

@@ -11,3 +11,6 @@ https://www.simplethread.com/relational-databases-arent-dinosaurs-theyre-sharks/
 
 https://www.amazonredshiftresearchproject.org/white_papers/downloads/bytedict_encoding.pdf redshift
 
+https://github.com/FerretDB/FerretDB
+> https://news.ycombinator.com/item?id=29448906
+

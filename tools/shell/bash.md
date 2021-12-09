@@ -2,6 +2,12 @@ https://www.gnu.org/software/bash/
 
 https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort Anybody can write good bash (with a little effort)
 
+https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/
+> https://news.ycombinator.com/item?id=29483063
+
+https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/
+> https://news.ycombinator.com/item?id=29483070
+
 https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html
 > https://news.ycombinator.com/item?id=26899531 ###
 

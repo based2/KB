@@ -186,6 +186,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+Remote Desktop P2P
+> https://news.ycombinator.com/item?id=29479503
+
 https://news.ycombinator.com/item?id=29447854
 
 https://documents1.worldbank.org/curated/en/672901582561140400/pdf/Open-Source-for-Global-Public-Goods.pdf

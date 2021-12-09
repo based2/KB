@@ -71,6 +71,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+
+
+https://avi.im/blag/2021/rc-day-24/
+> https://news.ycombinator.com/item?id=29487244
+
 https://github.com/peterrk/slices
 
 https://levelup.gitconnected.com/generics-in-go-viva-la-revolution-e27898bf5495

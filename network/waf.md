@@ -43,6 +43,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://en.wikipedia.org/wiki/Nftables
+
 https://twitter.com/EdgeSecurity/status/1437402720135270403 WireGuard for Windows has finally switched on WireGuardNT,
 
 https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/

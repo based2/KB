@@ -132,6 +132,9 @@ https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c
 https://eta.st/2021/03/08/async-rust-2.html
 > https://news.ycombinator.com/item?id=29208196
 
+https://www.ncameron.org/blog/portable-and-interoperable-async-rust/
+> https://news.ycombinator.com/item?id=29481155
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106

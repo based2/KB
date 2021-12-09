@@ -51,6 +51,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/
+> https://news.ycombinator.com/item?id=29488456
+
+https://www.abc.net.au/news/science/2021-12-06/climate-change-earth-black-box-recorder/100621778
+
 https://mashable.com/feature/carbon-footprint-pr-campaign-sham
 
 https://techcrunch.com/2021/12/03/co2-capture-iceland-climeworks-orca/

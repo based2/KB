@@ -21,6 +21,9 @@ https://blog.benjojo.co.uk/post/not-all-jpegs-are-the-same
 > https://news.ycombinator.com/item?id=29276300
 
 # News
+https://buf.build/blog/an-update-on-our-fundraising protobuf grpc
+> https://news.ycombinator.com/item?id=29489948
+
 https://8holon.github.io/latex-to-markdown/
 > https://news.ycombinator.com/item?id=29440524
 

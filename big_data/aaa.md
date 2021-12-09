@@ -213,6 +213,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+> https://news.ycombinator.com/item?id=29473271
+
 https://arrow.apache.org/blog/2021/11/19/datafusion-6.0.0/
 
 https://duckdb.org/2021/12/03/duck-arrow.html

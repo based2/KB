@@ -30,3 +30,6 @@ https://phys.org/news/2021-11-simple-silicon-coating-long-standing-optical.html
 https://80.lv/articles/scientists-create-salt-grain-sized-hi-res-camera/
 > https://news.ycombinator.com/item?id=29390071
 
+https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light
+> https://news.ycombinator.com/item?id=29447779
+

@@ -78,6 +78,14 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
 
 # News
+https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/
+> https://news.ycombinator.com/item?id=29492884
+
+https://blog.haschek.at/2021/raspberry-pi-sms-gateway.html
+> https://news.ycombinator.com/item?id=29449974
+
+https://developer.lge.com/main/RetrieveNoticePop.dev?nticId=NOT00005060&width=675
+
 https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html
 > https://news.ycombinator.com/item?id=29440681
 

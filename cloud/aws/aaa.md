@@ -69,6 +69,10 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://status.aws.amazon.com/
+> https://news.ycombinator.com/item?id=29473630
+> https://news.ycombinator.com/item?id=29480392
+
 https://repost.aws/ QA
 
 https://venturebeat.com/2021/12/03/the-top-12-security-announcements-at-aws-reinvent-2021/

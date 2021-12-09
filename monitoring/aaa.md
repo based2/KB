@@ -4,7 +4,9 @@ https://alerta.io/
 
 https://grafana.com/
 
-https://www.monitorix.org/ 
+https://www.monitorix.org/
+
+https://github.com/louislam/uptime-kuma
 
 https://landscape.cncf.io/card-mode?category=streaming-messaging&grouping=category
 
@@ -63,10 +65,12 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://github.com/aristocratos/bpytop
+> https://news.ycombinator.com/item?id=29449948
+
 https://pqvst.com/2021/11/29/monitor-volume-disk-usage/
 
 https://www.jvsg.com/calculators/cctv-lens-calculator/
->
 
 https://ubuntu.com/blog/observability-vs-monitoring-debate-an-irreverent-view
 > https://news.ycombinator.com/item?id=29348467

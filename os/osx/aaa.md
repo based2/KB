@@ -133,6 +133,11 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china/
+> https://news.ycombinator.com/item?id=29482351
+
+https://www.macrumors.com/2021/12/05/apple-planning-five-new-macs-for-2022/
+
 https://merecivilian.com/apple-broke-up-with-me/
 > https://news.ycombinator.com/item?id=29446529
 

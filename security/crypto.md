@@ -92,6 +92,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://github.com/8HoLoN/prime-numbers sets as mathematical sequence based on sine products.
+> https://news.ycombinator.com/item?id=29483212
+
 https://mccarty.io/cryptography/2021/11/29/chacha20-blake3.html
 > https://news.ycombinator.com/item?id=29382606
 

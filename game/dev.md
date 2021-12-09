@@ -89,6 +89,14 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 > https://news.ycombinator.com/item?id=29136429
 
 # News
+https://arxiv.org/abs/2112.03178 Player of Games, Game Theory; Machine Learning
+> https://news.ycombinator.com/item?id=29481665
+
+https://microstudio.dev/
+> https://news.ycombinator.com/item?id=29482163
+
+https://maxilevi.com/blog/procedural-meshing-hedra
+
 https://kaboomjs.com/doc/2000 js
 > https://github.com/replit/kaboom
 

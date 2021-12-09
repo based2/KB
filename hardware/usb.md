@@ -19,6 +19,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://www.dell.com/community/Laptops-General-Read-Only/Demystifying-USB-C-and-Thunderbolt-i-e-adapter-and-dock/td-p/5153006
+> https://news.ycombinator.com/item?id=29447216
+
 https://chargie.org/
 > https://news.ycombinator.com/item?id=29447882
 

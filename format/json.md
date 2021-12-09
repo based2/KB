@@ -71,6 +71,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/
+> https://news.ycombinator.com/item?id=29435786
+
 https://lucumr.pocoo.org/2021/11/14/abusing-serde/
 
 https://www.jsoniq.org/

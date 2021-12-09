@@ -113,6 +113,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://htwins.net/scale2/
+> https://news.ycombinator.com/item?id=29488511
+
 https://caseyhandmer.wordpress.com/2021/11/17/science-upside-for-starship/
 > https://news.ycombinator.com/item?id=29305544
 

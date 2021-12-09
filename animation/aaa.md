@@ -18,7 +18,7 @@ https://css-tricks.com/re-creating-the-porky-pig-animation-from-looney-tunes-in-
 https://www.joshwcomeau.com/animation/css-transitions/
 
 https://libresprite.github.io/
-  > https://news.ycombinator.com/item?id=26062818
+> https://news.ycombinator.com/item?id=26062818
 
 https://learningsynths.ableton.com/en/playground
 
@@ -65,6 +65,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.geektyper.com/
+
 https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/
 > https://news.ycombinator.com/item?id=29376174
 

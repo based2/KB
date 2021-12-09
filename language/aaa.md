@@ -101,6 +101,9 @@ http://patryshev.com/monad/m-intro.html
 https://functional-algorithms-verified.org/
 > https://news.ycombinator.com/item?id=28884229
 
+https://www.unison-lang.org/articles/distributed-datasets/core-idea/
+> https://news.ycombinator.com/item?id=29452424
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721

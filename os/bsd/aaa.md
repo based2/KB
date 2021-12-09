@@ -73,6 +73,11 @@ https://www.freebsd.org/cgi/man.cgi?query=sysexits
 
 https://www.moritz.systems/blog/lldb-serial-port-communication-support/
 
+https://www.moritz.systems/blog/lldb-freebsd-kernel-core-dump-support/
+
+https://www.freebsd.org/releases/12.3R/announce/
+> https://news.ycombinator.com/item?id=29489788
+
 ## News
 https://www.freebsd.org/status/report-2021-07-2021-09/
 > https://news.ycombinator.com/item?id=29230322

@@ -10,7 +10,7 @@ https://sw.kovidgoyal.net/kitty/keyboard-protocol.html
 
 https://github.com/sorenisanerd/gotty
 > https://news.ycombinator.com/item?id=27324873
->  > https://github.com/tsl0922/ttyd
+> > https://github.com/tsl0922/ttyd
 
 https://github.com/kovidgoyal/kitty/issues/391
 
@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://nick-black.com/htp-notcurses.pdf
+> https://news.ycombinator.com/item?id=29450900
+
 https://www.poor.dev/terminal-anatomy/
 > https://news.ycombinator.com/item?id=29080561
 

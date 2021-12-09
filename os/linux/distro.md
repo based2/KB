@@ -62,6 +62,14 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Web-Browser-Packages-Debian
+> https://news.ycombinator.com/item?id=29490328
+
+https://www.phoronix.com/scan.php?page=news_item&px=Fedora-36-NVIDIA-Wayland
+> https://news.ycombinator.com/item?id=29484010 
+
+https://bkhome.org/news/202112/why-iso-was-retired.html
+
 https://blog.centos.org/2021/12/introducing-centos-stream-9/
 
 https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28
