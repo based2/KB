@@ -110,6 +110,9 @@ https://blog.lanesawyer.dev/27848/the-why-and-how-of-rust-declarative-macros
 # Async
 https://tokio.rs/
 
+https://tokio.rs/blog/2021-12-announcing-tokio-console
+> https://news.ycombinator.com/item?id=29594389
+
 https://fasterthanli.me/articles/pin-and-suffering
 > https://lobste.rs/s/f98dpj/pin_suffering
 
@@ -270,6 +273,9 @@ https://www.micahlerner.com/2021/10/31/rudra-finding-memory-safety-bugs-in-rust-
 https://www.infoq.com/news/2021/11/rudra-rust-safety/
 > https://www.infoq.com/news/2021/11/rudra-rust-safety/
 
+https://pvk.ca/Blog/2021/08/01/slitter-a-less-footgunny-slab-allocator/
+> https://news.ycombinator.com/item?id=29589387
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -280,7 +286,6 @@ https://helix-editor.com/
 
 https://github.com/ekzhang/rustpad
 > https://news.ycombinator.com/item?id=27408326
-> 
 
 # Migration
 https://blog.waleedkhan.name/port-python-to-rust/
@@ -304,6 +309,16 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://vinted.engineering/2021/02/15/validating-json-input-in-rust-web-services/
+
+https://blog.rust-lang.org/inside-rust/2021/12/17/follow-up-on-the-moderation-issue.html
+> https://news.ycombinator.com/item?id=29593240
+
+https://dystroy.org/blog/how-not-to-learn-rust/
+> https://news.ycombinator.com/item?id=29579146
+
+https://matklad.github.io//2020/09/20/why-not-rust.html
+
 https://github.com/rust-lang/team/pull/671
 > https://news.ycombinator.com/item?id=29306845
 

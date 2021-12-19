@@ -1,3 +1,6 @@
+https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards
+> https://news.ycombinator.com/item?id=29566868
+
 https://www.club386.com/raspberry-pi-trading-plans-370m-stock-market-ipo/
 > https://news.ycombinator.com/item?id=29392649
 

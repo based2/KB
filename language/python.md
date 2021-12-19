@@ -188,6 +188,18 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://www.pythonkitchen.com/why-choose-flask-over-fastapi/
+> https://news.ycombinator.com/item?id=29591229
+
+https://medium.com/@edgar-loves-python/the-tortoise-the-hare-and-the-cyclical-linked-list-1b51acab5b
+> https://news.ycombinator.com/item?id=29565218
+
+https://github.com/cdgriffith/Box Python dictionary with dot notation
+> https://news.ycombinator.com/item?id=29596966
+
+https://tqdm.github.io/ Python UI
+> https://news.ycombinator.com/item?id=29582437
+
 https://pythonspeed.com/articles/python-multiprocessing/
 
 https://github.blog/2021-12-09-introducing-stack-graphs/

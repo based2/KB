@@ -89,6 +89,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 > https://news.ycombinator.com/item?id=29136429
 
 # News
+https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/
+> https://news.ycombinator.com/item?id=29585950
+
 https://arxiv.org/abs/2112.03178 Player of Games, Game Theory; Machine Learning
 > https://news.ycombinator.com/item?id=29481665
 

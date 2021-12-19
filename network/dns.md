@@ -40,7 +40,7 @@ https://forums.aws.amazon.com/thread.jspa?messageID=598211 SSHFP records
 
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times
 
-# `
+# 
 https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors
 
 https://www.go350.com/posts/exfiltrate-files-using-the-dns/
@@ -77,6 +77,11 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://news.ycombinator.com/item?id=29596399 Ask HN: Is there a “wall of shame” for ISPs that don't respect DNS TTLs?
+
+https://jvns.ca/blog/2021/12/15/mess-with-dns/
+> https://news.ycombinator.com/item?id=29568510
+
 https://jvns.ca/blog/2021/12/04/how-to-use-dig/
 > https://news.ycombinator.com/item?id=29441333
 

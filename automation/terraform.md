@@ -42,6 +42,7 @@ https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 # News
 https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp
 > https://news.ycombinator.com/item?id=29500645
+> > https://about.gitlab.com/blog/2021/12/09/congratulations-to-hashicorp/
 
 https://brendanthompson.com/posts/2021/11/my-terraform-standards
 

@@ -11,6 +11,8 @@ https://dataswamp.org/~solene/2021-07-23-why-selfhosting-is-important.html
 
 https://news.ycombinator.com/item?id=29276734
 
+https://github.com/cpc2018/my-first-colo
+
 # Static
 https://cj.rs//readme-in-static-site/
 > https://news.ycombinator.com/item?id=29304376

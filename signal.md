@@ -21,6 +21,9 @@ https://www.earlevel.com/main/2002/08/31/a-gentle-introduction-to-the-fft/
 https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280
 
+# Analog
+https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
+
 # News
 https://www.mattblaze.org/blog/faraday/
 > https://news.ycombinator.com/item?id=29413774

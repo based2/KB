@@ -56,7 +56,7 @@ https://blog.frankel.ch/multiple-spring-boot-apps-same-project/
 
 https://spring.io/projects/spring-hateoas
 
-https://arnoldgalovics.com/fallbacks-with-spring-cloud-feign/?utm_source=reddit&utm_medium=post&utm_campaign=fallbacks-with-spring-cloud-feign
+https://arnoldgalovics.com/fallbacks-with-spring-cloud-feign
 
 https://www.marcobehler.com/
 

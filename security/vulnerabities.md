@@ -28,7 +28,9 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 # 2021
-PrintNightmare
+https://en.wikipedia.org/wiki/Log4Shell
+
+https://en.wikipedia.org/wiki/PrintNightmare
 
 https://alpaca-attack.com/ 
 

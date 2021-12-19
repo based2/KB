@@ -17,4 +17,6 @@ https://chrisseaton.com/truffleruby/jokerconf17/
 https://www.loicmathieu.fr/wordpress/en/informatique/debugger-une-image-native-graalvm-avec-gdb/
 
 # News
+https://www.reddit.com/r/java/comments/rdk348/graalbindgen_safe_rust_bindings_to_make_javarust/
+
 https://medium.com/graalvm/graalvm-21-3-is-here-java-17-native-image-performance-updates-and-more-ac4cbafcfc05

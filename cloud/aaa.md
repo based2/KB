@@ -22,6 +22,17 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://status.okta.com/
+> https://news.ycombinator.com/item?id=29567747
+
+https://barstool.engineering/a-real-world-comparison-between-cloudflare-workers-and-fastly-compute-edge/
+> https://news.ycombinator.com/item?id=29596797
+
+https://news.ycombinator.com/item?id=29600320 Don't use Digital Ocean (DO) for production
+
+https://www.techradar.com/news/google-drive-could-soon-start-locking-your-personal-files
+> https://news.ycombinator.com/item?id=29593096
+
 https://github.com/OpenNebula/one
 
 https://www.hetzner.com/news/12-21-ipv6-only/

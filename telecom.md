@@ -21,6 +21,9 @@ https://en.wikipedia.org/wiki/Resource_Public_Key_Infrastructure``
 https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning
 > https://news.ycombinator.com/item?id=27696267`
 
+https://www.usenix.org/conference/nsdi21/presentation/abhashkumar
+> https://news.ycombinator.com/item?id=29588378
+
 # 5G
 > https://therecord.media/new-5g-protocol-vulnerabilities-allow-location-tracking/
 > > https://news.ycombinator.com/item?id=26610705
@@ -78,6 +81,9 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
 
 # News
+https://github.com/rchac/LibreQoS
+> https://news.ycombinator.com/item?id=29577283
+
 https://old.reddit.com/r/GooglePixel/comments/r4xz1f/pixel_prevented_me_from_calling_911/
 > https://news.ycombinator.com/item?id=29492884
 

@@ -30,6 +30,22 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://vermaden.wordpress.com/2021/12/15/secure-containerized-browser/
+
+https://groups.google.com/a/chromium.org/g/blink-dev/c/_oRc19PjpFo/m/10vHgsmwAQAJ
+
+https://ffprofile.com/
+> https://news.ycombinator.com/item?id=29604754
+
+https://www.howtogeek.com/774542/windows-11-officially-shuts-down-firefoxs-default-browser-workaround/
+> https://news.ycombinator.com/item?id=29579994
+
+https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API
+> https://news.ycombinator.com/item?id=29590617
+
+https://tools.google.com/dlpage/gaoptout/eula.html?hl=en
+> https://news.ycombinator.com/item?id=29605111
+
 https://bugs.webkit.org/show_bug.cgi?id=182566
 > https://news.ycombinator.com/item?id=29489523
 

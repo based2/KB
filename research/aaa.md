@@ -36,6 +36,8 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://news.ycombinator.com/item?id=29604618 How do you get articles/papers/talks recommendations?
+
 https://cacm.acm.org/magazines/2021/12/256929-the-hardware-lottery/fulltext
 > https://news.ycombinator.com/item?id=29409415
 

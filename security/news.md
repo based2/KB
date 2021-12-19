@@ -1,11 +1,82 @@
+https://lwn.net/Articles/877607/ FIPS-compliant random numbers for the kernel
 
-https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/
+https://hackaday.com/2021/12/16/pinephone-malware-surprises-users-raises-questions/
+> https://news.ycombinator.com/item?id=29578839
+
+https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/1_Complaint.pdf
+> https://news.ycombinator.com/item?id=29574422
+
+https://www.neelc.org/posts/calix-gpon-dos-part-2/
+> https://news.ycombinator.com/item?id=29582812
+
+https://portswigger.net/daily-swig/how-expired-web-domains-help-criminal-hackers-unlock-enterprise-defenses
+> https://news.ycombinator.com/item?id=29581485
+
+https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/
+> https://news.ycombinator.com/item?id=29588801
+
+https://vigilance.fr/vulnerabilite/Vim-corruption-de-memoire-via-C-indenting-37089
+
+https://vigilance.fr/vulnerabilite/Microsoft-Visual-Studio-elevation-de-privileges-37080
+
+https://signal.org/blog/how-to-build-encrypted-group-calls/
+> https://news.ycombinator.com/item?id=29570938
+
+https://news.ycombinator.com/item?id=29591210
+
+https://github.com/DavidBuchanan314/ambiguous-png-packer
+> https://news.ycombinator.com/item?id=29586549
+
+https://github.com/FiloSottile/passage Passage: A fork of password-store that uses age instead of GnuPG
+> https://news.ycombinator.com/item?id=29597729
+
+https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-leaks-in-web-apps/
+> https://news.ycombinator.com/item?id=29593341
+
+https://www.sentinelone.com/labs/usb-over-ethernet-multiple-privilege-escalation-vulnerabilities-in-aws-and-other-major-cloud-services/
+
+https://csrc.nist.gov/publications/detail/sp/800-160/vol-2-rev-1/final
+
+https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4shell
 > https://www.alibabacloud.com/blog/zero-day-attack-analysis-and-dissemination-method-disclosure-for-hadoop-yarn-rpc_598248
 > > https://www.cyberkendra.com/2021/12/worst-log4j-rce-zeroday-dropped-on.html
 > > > https://logging.apache.org/log4j/2.x/changes-report.html
 > > > https://github.com/apache/logging-log4j2/commits/master
+> https://isc.sans.edu/diary/Log4j+2.15.0+and+previously+suggested+mitigations+may+not+be+enough/28134
+> > https://news.ycombinator.com/item?id=29575922
+> https://mail-archives.apache.org/mod_mbox/www-announce/202112.mbox/%3C1a5a0193-71c4-0613-ca92-f50f801543d9%40apache.org%3E CVE-2021-4104: Deserialization of untrusted data in JMSAppender in Apache Log4j 1.2
+> https://mail-archives.apache.org/mod_mbox/www-announce/202112.mbox/%3C13e07d4e-ceb6-e510-be98-7d2ee8fa0a85%40apache.org%3E CVE-2021-45046: Apache Log4j2 Thread Context Message Pattern and Context Lookup Pattern vulnerable to a denial of service attack
+> > https://mail-archives.apache.org/mod_mbox/www-announce/202112.mbox/%3C028d1058-2e48-f72c-2037-2070d73b7411%40apache.org%3E Apache Tomcat and CVE-2021-44228 (Log4j vulnerability)
+> https://issues.apache.org/jira/browse/LOG4J2-3230 Certain strings can cause infinite recursion
+> > https://news.ycombinator.com/item?id=29603208 CVE-2021-45105 CVE-2021-45046 CVE-2021-4104 CVE-2021-44228 
+> https://www.lunasec.io/docs/blog/log4j-zero-day-severity-of-cve-2021-45046-increased/
+> https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/
+> > https://news.ycombinator.com/item?id=29561532
+> > https://news.ycombinator.com/item?id=29589899
+> > https://news.ycombinator.com/item?id=29604097
+> > > https://logging.apache.org/log4j/2.x/security.html
+> Tests for CVE-2021-44228
+> > https://log4shell.huntress.com/
+> > https://github.com/rubo77/log4j_checker_beta
+> > https://news.ycombinator.com/item?id=29578325
+> > > https://log4shell.tools/ 
+> https://www.cert.ssi.gouv.fr/alerte/CERTFR-2021-ALE-022/
+> https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Webanwendungen/log4j/log4j_node.html
+> https://en.wikipedia.org/wiki/Log4Shell
+> https://www.reddit.com/r/java/comments/rgg5hg/apache_log4j_216_released_to_address_missed_edge/
+> https://www.reddit.com/r/java/comments/rhywh5/log4j_megathread/
+> https://www.microsoft.com/security/blog/2021/12/11/guidance-for-preventing-detecting-and-hunting-for-cve-2021-44228-log4j-2-exploitation/
+> https://www.reddit.com/r/java/comments/rgwfpb/a_javaagent_based_hotpatch_for_fixing_live_jvms/
+> https://www.veracode.com/blog/research/exploiting-jndi-injections-java
+> http://logback.qos.ch/news.html 16th of December, 2021, Release of version 1.2.9, CVE-2021-42550 (aka LOGBACK-1591)
+> https://news.ycombinator.com/item?id=29608244 AWS warns us about irregular activity related to Log4shell
+> https://www.tutorialjinni.com/log4shell-yara-ioc.html
+> https://news.ycombinator.com/item?id=29592983
+> https://github.com/cisagov/log4j-affected-db
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
+> https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/
+> > https://www.openssl.org/news/secadv/20211214.txt
 
 https://jira.atlassian.com/browse/JRASERVER-72802 
 
@@ -324,7 +395,7 @@ https://trojansource.codes/ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2
 > https://www.reddit.com/user/tophalp/
 > https://www.schneier.com/blog/archives/2021/11/hiding-vulnerabilities-in-source-code.html
 > > https://github.com/golang/go/issues/20209
-> https://confluence.atlassian.com/security/multiple-products-security-advisory-unrendered-unicode-bidirectional-override-characters-cve-2021-42574-1086419475.html?subid=1534467808&jobid=105251298&utm_campaign=multiple-products-advisory_november-2021_EML-11738&utm_medium=email&utm_source=alert-email
+> https://confluence.atlassian.com/security/multiple-products-security-advisory-unrendered-unicode-bidirectional-override-characters-cve-2021-42574-1086419475.html?subid=1534467808&jobid=105251298
 > > https://news.ycombinator.com/item?id=29074565
 > https://www.python.org/dev/peps/pep-0672/
 > https://blog.rust-lang.org/2021/11/01/cve-2021-42574.html
@@ -332,6 +403,8 @@ https://trojansource.codes/ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2
 > https://icu.unicode.org/security ?
 > https://github.com/microsoft/monaco-editor/issues/2713
 > https://tech.michaelaltfield.net/2021/11/22/bidi-unicode-github-defense/
+> https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
+> > https://news.ycombinator.com/item?id=29568625
 
 https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
 

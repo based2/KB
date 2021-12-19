@@ -20,6 +20,14 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.cossacklabs.com/blog/crypto-wallets-security/
+> https://news.ycombinator.com/item?id=29572477
+
+https://twitter.com/_cingraham/status/1471959671413952514 CNN is selling public domain images as NFTs
+> https://news.ycombinator.com/item?id=29604545
+
+https://www.bloomberg.com/opinion/articles/2021-12-09/don-t-throw-away-your-bitcoins
+
 https://rorodi.substack.com/p/the-biggest-crypto-lending-company
 > https://news.ycombinator.com/item?id=29497642
 

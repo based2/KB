@@ -13,6 +13,12 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/
+> https://news.ycombinator.com/item?id=29579362
+
+https://www.radioshack.com/
+> https://news.ycombinator.com/item?id=29607989
+
 https://arxiv.org/abs/2112.01238 Ethereum Emissions: A Bottom-up Estimate
 
 https://github.com/ethereum/fe 

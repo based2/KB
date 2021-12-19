@@ -98,6 +98,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://news.ycombinator.com/item?id=29602203 Protonmail was identified as spam in Gmail
+
 https://twitter.com/bradwolverton/status/1403487267017089035?s=20
 
 https://ouafnico.shivaserv.fr/posts/infra-mail/

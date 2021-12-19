@@ -30,7 +30,6 @@ https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
 > https://news.ycombinator.com/item?id=27654182
   > https://github.com/virtualsquare/picotcp
 
-
 # Voice over IP
 https://www.cse.wustl.edu/~jain/cis788-99/ftp/voip_protocols/
 > https://news.ycombinator.com/item?id=27323442
@@ -44,6 +43,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list
+> https://news.ycombinator.com/item?id=29502142
+
 https://github.com/schoen/unicast-extensions
 > https://news.ycombinator.com/item?id=29273841
 

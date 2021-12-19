@@ -251,6 +251,31 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://tvm.apache.org/2021/12/15/tvm-unity
+
+https://www.distributional-rl.org/
+
+https://csteinmetz1.github.io/steerable-nafx/
+> https://news.ycombinator.com/item?id=29566510
+
+https://openai.com/blog/improving-factual-accuracy/
+> https://news.ycombinator.com/item?id=29580878
+
+https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75
+> https://news.ycombinator.com/item?id=29588976
+
+https://news.ycombinator.com/item?id=29595512 A labelling tool to easily extract and label Wikipedia data: dataqa.ai
+
+https://arxiv.org/abs/2112.08611 Clickbait in YouTube Prevention, Detection and Analysis of the Bait using Ensemble Learning
+
+https://www.pnas.org/content/118/51/e2107848118 The rise and fall of rationality in language
+> https://news.ycombinator.com/item?id=29596779
+
+https://blog.scottlogic.com/2021/12/08/narrative-dashboard.html
+> https://news.ycombinator.com/item?id=29482569
+
+https://old.reddit.com/r/MachineLearning/comments/r8tsv6/discussion_why_are_einstein_sum_notations_not/
+
 https://github.com/deepset-ai/haystack
 > https://news.ycombinator.com/item?id=29501045
 

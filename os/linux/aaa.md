@@ -77,6 +77,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://tuxphones.com/mobile-linux-phone-desktop-environments-de-comparison-interfaces/
+
 https://framagit.org/LeDub/Pierre_de_Rosette-apt-dnf/-/blob/main/README.md
 
 https://www.theregister.com/2021/12/08/intel_software_defined_silicon_update/ SDSi DRM

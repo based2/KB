@@ -198,6 +198,36 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://arxiv.org/abs/2112.07880 An Empirical Lower Bound on the Overheads of Production Garbage Collectors
+
+https://pithlessly.github.io/allocgate.html
+> https://news.ycombinator.com/item?id=29571133
+
+https://brianstadnicki.github.io/posts/asm-self-modifying-factorial/
+> https://news.ycombinator.com/item?id=29563027
+
+https://github.com/matjp/jweb
+> https://news.ycombinator.com/item?id=29563449
+
+http://www.edm2.com/0608/oberon.html
+> https://news.ycombinator.com/item?id=29581754
+
+https://indico.cern.ch/event/658060/contributions/2898569/attachments/1622526/2582399/pivarski-serialization.pdf
+
+https://arhamjain.com/2021/11/22/nim-simple-chat.html
+> https://news.ycombinator.com/item?id=29594763
+> > https://github.com/treeform/pixie#readme
+> > https://htmx.org/
+
+https://www.theregister.com/2021/12/15/azul_introduces_remote_compilation_for/
+> https://news.ycombinator.com/item?id=29590103
+
+https://nim-lang.org/blog/2021/12/17/version-162-released.html
+> https://news.ycombinator.com/item?id=29589436
+
+https://biojulia.net/post/hardware/ What scientists must know about hardware to write fast code
+> https://news.ycombinator.com/item?id=29601342
+
 https://axelsvensson.com/memory-image-pattern/
 
 https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD898.html The threats to computing science, by Edsger W. Dijkstra 1984

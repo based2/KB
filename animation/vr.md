@@ -1,3 +1,14 @@
+
+https://arstechnica.com/gadgets/2021/12/google-is-building-a-new-augmented-reality-device-and-operating-system/
+> https://news.ycombinator.com/item?id=29566313
+
+https://www.rappler.com/technology/intel-metaverse-computing-requirements-raja-koduri/
+
+https://www.techhive.com/article/3644451/light-field-labs-solidlight-offers-a-true-holographic-video-display.html
+> https://news.ycombinator.com/item?id=29587144
+
+https://www.theverge.com/2021/12/9/22825139/meta-horizon-worlds-access-open-metaverse
+
 https://christine.website/blog/nixos-vr-hell-2021-12-02
 > https://news.ycombinator.com/item?id=29424391
 

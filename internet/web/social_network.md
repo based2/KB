@@ -10,6 +10,9 @@ https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0
 https://bengtan.com/blog/open-secrets-hacker-news/
 > https://news.ycombinator.com/item?id=29024032
 
+https://hn.lindylearn.io/
+> https://news.ycombinator.com/item?id=29605429
+
 # Slashdot
 # Reddit
 

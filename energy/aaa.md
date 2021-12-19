@@ -12,8 +12,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
-https://www.theguardian.com/us-news/2021/dec/03/iberdrola-avangrid-us-lawsuit-bid-rigging-racketeering
+https://sifted.eu/articles/salt-energy-storage-seaborg-hyme/
+> https://news.ycombinator.com/item?id=29502138
 
+https://www.nrel.gov/news/features/2021/new-projects-move-thermophotovoltaic-technology-closer-to-commercialization.html
+
+https://www.theguardian.com/us-news/2021/dec/03/iberdrola-avangrid-us-lawsuit-bid-rigging-racketeering
 
 https://www.edf.org/sites/default/files/documents/SB100%20clean%20firm%20power%20report%20plus%20SI.pdf
 

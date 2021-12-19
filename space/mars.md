@@ -19,6 +19,11 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.space.com/nasa-perseverance-rover-organics-mars
+
+https://edition.cnn.com/2021/12/16/world/exomars-water-mars-grand-canyon-scn/index.html
+> https://news.ycombinator.com/item?id=29597411
+
 https://ops-alaska.com/time/forward/forward.htm
 > https://news.ycombinator.com/item?id=29367902
 

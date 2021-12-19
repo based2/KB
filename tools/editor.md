@@ -70,6 +70,9 @@ https://bzg.fr/en/how-to-help-gnu-emacs-maintainers/
 https://karthinks.com/software/avy-can-do-anything/
 > https://news.ycombinator.com/item?id=29412806
 
+https://emacs-lsp.github.io/lsp-mode/
+> https://news.ycombinator.com/item?id=29578748
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -83,6 +86,8 @@ https://vscodium.com/
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 # News
+https://news.ycombinator.com/item?id=29586062
+
 https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm_-_Idea_plugins.html
 
 https://giansegato.com/essays/what-future-ides/

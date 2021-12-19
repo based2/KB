@@ -253,6 +253,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://eclipse-ee4j.github.io/cdi/2021/12/03/you-know-build-compatible-extensions.html
+
+https://www.reddit.com/r/java/comments/rilyud/update_primitive_collections_benchmarks/
+
 https://www.redhat.com/en/blog/red-hat-response-java-release-cadence-change
 
 https://shipilev.net/blog/2016/arrays-wisdom-ancients/

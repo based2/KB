@@ -68,29 +68,50 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://radu-matei.com/blog/intro-wasm-components/
+> https://news.ycombinator.com/item?id=29591071
+
+https://nickb.dev/blog/authoring-a-simd-enhanced-wasm-library-with-rust
+> https://news.ycombinator.com/item?id=29590449
+
 https://v8.dev/blog/wasm-dynamic-tiering
+
 https://easylang.online/ide/
 > https://news.ycombinator.com/item?id=28863847
+
 https://medium.com/@raphael.outhier/joys-of-porting-a-kernel-to-webassembly-5f0124e71080
 > https://news.ycombinator.com/item?id=28800915
+
 https://github.com/slipHQ/run-wasm
+
 https://medium.com/cyberbotics/porting-a-c-rendering-engine-to-webassembly-9c32d76c31f1
+
 https://thenewstack.io/webassembly-aims-to-eliminate-the-file-system/
 > https://wasmcloud.com/
+
 https://www.tetrate.io/blog/wasm-outside-the-browser/
 > https://news.ycombinator.com/item?id=28107917
+
 https://birchlabs.co.uk/liquidfun-wasm/
 > https://news.ycombinator.com/item?id=27996703
+
 https://github.com/diekmann/wasm-fizzbuzz
 > https://news.ycombinator.com/item?id=27832115
+
 https://github.com/no-defun-allowed/wasm2ps
 > https://news.ycombinator.com/item?id=27709002
+
 https://github.com/lastmjs/wasm-metal
 > https://news.ycombinator.com/item?id=27534572
+
 https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/
+
 https://www.bitcraze.io/2021/06/rust-wasm-and-the-crazyflie/
+
 https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/ safari
+
 https://www.infoq.com/news/2021/05/grain-web-assembly-first/
 > https://news.ycombinator.com/item?id=27071060
+
 https://twitter.com/wasm3_engine/status/1384288567627640839
 > https://news.ycombinator.com/item?id=26916866

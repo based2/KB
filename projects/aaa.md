@@ -179,6 +179,11 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://news.ycombinator.com/item?id=29587269
+
+https://devtails.xyz/3-lines-of-code-shouldnt-take-all-day
+> https://news.ycombinator.com/item?id=29562557
+
 https://rachelbythebay.com/w/2021/12/02/build/
 > https://news.ycombinator.com/item?id=29426411
 

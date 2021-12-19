@@ -27,6 +27,12 @@ https://opensource.com/article/18/11/choosing-printer-linux
 Openoffice
 
 # News
+https://zamundaaa.github.io/wayland/2021/12/14/about-gaming-on-wayland.html
+> https://news.ycombinator.com/item?id=29559117
+
+https://codeberg.org/dnkl/foot
+> https://news.ycombinator.com/item?id=29559069
+
 https://github.com/acro5piano/wayremap keyboard
 
 https://lists.freedesktop.org/archives/wayland-devel/2021-December/042064.html

@@ -48,6 +48,9 @@ https://dl.acm.org/doi/10.1145/3382035
 https://switchandclick.com/why-are-topre-keyboards-so-expensive/
 > https://news.ycombinator.com/item?id=29282401
 
+https://kinesis-ergo.com/keyboards/advantage360/
+> https://news.ycombinator.com/item?id=29594983
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -60,6 +63,17 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.anandtech.com/show/17123/tsmc-unveils-n4x-node-high-voltages-for-high-clocks
+
+https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design
+> https://news.ycombinator.com/item?id=29573020
+
+http://instlatx64.atw.hu/ x86, X64 Instruction Latency, Memory Latency and Cpuid Dumps
+> https://news.ycombinator.com/item?id=29585318
+
+https://www.tomshardware.com/news/nvme-ssd-for-audiophiles
+> https://news.ycombinator.com/item?id=29605406
+
 https://unum.am/post/2021-12-07-supercycle/
 > https://news.ycombinator.com/item?id=29484567
 

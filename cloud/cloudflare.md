@@ -1,3 +1,6 @@
+https://www.cloudflarestatus.com/
+> https://news.ycombinator.com/item?id=29583463
+
 https://blog.cloudflare.com/why-cloudflare-bought-zaraz/
 > https://news.ycombinator.com/item?id=29485424
 

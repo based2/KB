@@ -42,6 +42,9 @@ http://cyber.dabamos.de/88x31/
 https://balticworlds.com/the-cybernetics-scare-and-the-origins-of-the-internet/
 > https://news.ycombinator.com/item?id=28670427
 
+https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/
+> https://news.ycombinator.com/item?id=29601573
+
 https://groups.csail.mit.edu/ana/A%20brief%20history%20of%20the%20internet%20-%20p22-leiner.pdf
 > https://news.ycombinator.com/item?id=27719937
 
@@ -59,6 +62,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://tracker.archiveteam.org/reddit/
+> https://news.ycombinator.com/item?id=29584622
+
 https://www.archivematica.org/en/
 > https://news.ycombinator.com/item?id=28727207
 

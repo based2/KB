@@ -30,6 +30,15 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://liuliu.me/eyes/research-notes-on-humanoid-robots/
+> https://news.ycombinator.com/item?id=29559465
+
+https://www.wired.com/story/see-little-robots-get-swole-in-this-virtual-gym/
+> https://news.ycombinator.com/item?id=29604899
+
+https://www.reuters.com/world/un-talks-adjourn-without-deal-regulate-killer-robots-2021-12-17/
+> https://news.ycombinator.com/item?id=29606591
+
 https://www.engineeredarts.co.uk/robot/ameca/
 
 https://www.unite.ai/engineers-look-to-nature-to-create-bird-like-robot/

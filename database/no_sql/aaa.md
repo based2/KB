@@ -14,3 +14,6 @@ https://www.amazonredshiftresearchproject.org/white_papers/downloads/bytedict_en
 https://github.com/FerretDB/FerretDB
 > https://news.ycombinator.com/item?id=29448906
 
+https://engula.io/posts/release-0.2/
+> https://news.ycombinator.com/item?id=29589129
+

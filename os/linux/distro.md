@@ -62,6 +62,12 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://asahilinux.org/2021/12/progress-report-oct-nov-2021/
+> https://news.ycombinator.com/item?id=29564384
+
+https://twitter.com/marcan42/status/1471799568807636994 Apple Helps Asahi Linux
+> https://news.ycombinator.com/item?id=29591578
+
 https://www.phoronix.com/scan.php?page=news_item&px=Web-Browser-Packages-Debian
 > https://news.ycombinator.com/item?id=29490328
 

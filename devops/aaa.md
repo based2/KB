@@ -104,6 +104,13 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.com/dhanvi/direnvp
+
+https://news.ycombinator.com/item?id=29600228 Ask HN: I'm tired of intense code review cycles
+
+https://releasechurch.dev/
+> https://news.ycombinator.com/item?id=29604374
+
 https://www.theserverside.com/tip/5-Jenkins-alternatives-for-Java-developers
 
 https://github.com/merico-dev/lake

@@ -20,6 +20,9 @@ https://paseto.io/
 https://betterprogramming.pub/jwt-ultimate-how-to-guide-with-best-practices-in-javascript-f7ba4c48dfbd
 > https://news.ycombinator.com/item?id=29335035
 
+https://itsdangerous.palletsprojects.com/en/2.0.x/index.html
+> https://news.ycombinator.com/item?id=29591395
+
 # REST
 https://twobithistory.org/2020/06/28/rest.html
 

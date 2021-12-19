@@ -83,6 +83,18 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/
+> https://news.ycombinator.com/item?id=29577367
+
+https://cacm.acm.org/magazines/2022/1/257448-fifty-years-of-p-vs-np-and-the-possibility-of-the-impossible/fulltext
+> https://news.ycombinator.com/item?id=29598763
+
+https://www.quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/ Matrix Multiplication Inches Closer to Mythic Goal
+> https://news.ycombinator.com/item?id=29601425
+
+https://www.quantamagazine.org/mathematicians-transcend-geometric-theory-of-motion-20211209/
+> https://news.ycombinator.com/item?id=29498417
+
 https://link.springer.com/article/10.1007/s00371-021-02232-0 Gneration of advanced Escher-like spiral tessellations
 > https://news.ycombinator.com/item?id=29490327
 

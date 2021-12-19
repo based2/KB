@@ -67,6 +67,15 @@ https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-net
 https://cushychicken.github.io/rules-for-web-scrapers/
 
 # News
+https://www.usenix.org/publications/loginonline/web3-fraud
+> https://news.ycombinator.com/item?id=29587469
+
+https://tante.cc/2021/12/17/the-third-web/
+> https://news.ycombinator.com/item?id=29591819
+
+https://servefolder.dev/
+> https://news.ycombinator.com/item?id=29605674
+
 https://support.alexa.com/hc/en-us/articles/4410503838999
 > https://news.ycombinator.com/item?id=29488522
 
@@ -154,3 +163,5 @@ https://www.smashingmagazine.com/2021/05/evolution-jamstack/
 > https://news.ycombinator.com/item?id=27023309
 
 https://www.regulations.gov/document/FTC-2021-0019-0001/comment
+
+https://www.internet-signalement.gouv.fr/PortailWeb/planets/Accueil!input.action

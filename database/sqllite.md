@@ -80,6 +80,9 @@ https://github.com/tezc/resql Java
 # Distributed
 https://github.com/Expensify/Bedrock
 
+https://github.com/chiselstrike/chiselstore
+> https://news.ycombinator.com/item?id=29572756
+
 # History
 https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701

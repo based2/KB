@@ -113,6 +113,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be
+> https://news.ycombinator.com/item?id=29602239
+
 https://htwins.net/scale2/
 > https://news.ycombinator.com/item?id=29488511
 

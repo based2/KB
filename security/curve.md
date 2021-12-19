@@ -37,6 +37,11 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://neilmadden.blog/2020/05/28/whats-the-curve25519-clamping-all-about/
+
+https://research.nccgroup.com/wp-content/uploads/2020/02/A_Tour_of_Curve25519_in_Erlang-1.pdf
+> https://news.ycombinator.com/item?id=29591882
+
 https://www.reddit.com/r/crypto/comments/r40he4/polynomials_and_elliptic_curves_over_extension/
 > https://risencrypto.github.io/ExtensionFields/
 

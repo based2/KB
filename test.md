@@ -69,6 +69,8 @@ https://www.neuraxio.com/blogs/news/how-to-unit-test-machine-learning-code
 https://www.uninformativ.de/blog/postings/2021-08-19/0/POSTING-en.html
 > https://news.ycombinator.com/item?id=28232645
 
+https://github.com/dendibakh/perf-book
+
 # Data generator
 https://www.getsynth.com/ JSON
 

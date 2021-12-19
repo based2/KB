@@ -39,6 +39,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://about.fb.com/news/2021/12/using-ai-to-animate-childrens-drawings/
+> https://news.ycombinator.com/item?id=29580619
+
 https://setosa.io/ev/image-kernels/
 
 https://www.unite.ai/human-image-synthesis-from-reflected-radio-waves/

@@ -69,6 +69,11 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://news.ycombinator.com/item?id=29567170
+
+https://www.cyclic.sh/posts/aws-tools-suck
+> https://news.ycombinator.com/item?id=29589700
+
 https://status.aws.amazon.com/
 > https://news.ycombinator.com/item?id=29473630
 > https://news.ycombinator.com/item?id=29480392

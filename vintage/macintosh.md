@@ -74,6 +74,9 @@ http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/2
 https://news.ycombinator.com/item?id=27409410
 
 #
+https://blog.gingerbeardman.com/2021/12/16/tomoya-ikeda-macintosh-artist/
+> https://news.ycombinator.com/item?id=29594549
+
 https://midrange.tedium.co/issues/the-lone-coder-505212
 
 https://archive.org/details/mac_The_Dead_Mac_Scrolls_1992/page/n25/mode/2up

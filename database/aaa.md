@@ -65,6 +65,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.scattered-thoughts.net/writing/why-start-a-new-database-conference/
+> https://news.ycombinator.com/item?id=29597119
+
 https://rakyll.org/shardz/
 
 https://databricks.com/blog/2021/11/15/snowflake-claims-similar-price-performance-to-databricks-but-not-so-fast.html

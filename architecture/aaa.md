@@ -105,6 +105,8 @@ https://blog.segger.com/algorithms-for-division-part-4-using-newtons-method/
 https://vladfeinberg.com/2021/01/07/vectorizing-ragged-arrays.html
 > https://news.ycombinator.com/item?id=29475773
 
+https://graphics.stanford.edu/~seander/bithacks.html
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -133,6 +135,12 @@ https://chrisza.me/microservice-start-not-start/
 https://www.infoq.com/articles/consistency-coupling-complexity/
 > https://news.ycombinator.com/item?id=28985889
 
+https://www.osohq.com/post/microservices-authorization-patterns
+> https://news.ycombinator.com/item?id=29595017
+
+https://orkes.io/content/blog/orchestration-microservices-match-made-heaven
+> https://news.ycombinator.com/item?id=29580598
+
 # API
 https://google.aip.dev/
 > https://news.ycombinator.com/item?id=27716756
@@ -154,6 +162,12 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://blog.zulip.com/2021/12/17/why-zulip-will-stand-the-test-of-time/
+> https://news.ycombinator.com/item?id=29595926
+
+https://arnoldgalovics.com/microservices-in-production/
+> https://news.ycombinator.com/item?id=29576352
+
 https://martinfowler.com/articles/cant-buy-integration.html
 > https://news.ycombinator.com/item?id=29478375
 

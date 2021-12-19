@@ -151,6 +151,9 @@ https://blog.fildon.me/react-testing-library-recipes
 
 https://github.com/facebook/react/issues/11347 RFC: Plan for custom element attributes/properties in React 18
 
+https://blog.molecule.dev/the-only-custom-react-hooks-we-use/
+> https://news.ycombinator.com/item?id=29591816
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -324,6 +327,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://web.dev/structured-clone/
+> https://news.ycombinator.com/item?id=29582127
+
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
 > https://news.ycombinator.com/item?id=29427959
 

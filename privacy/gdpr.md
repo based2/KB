@@ -53,6 +53,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://blog.freeradical.zone/post/ccpa-scam-2021-12/
+> https://news.ycombinator.com/item?id=29599553
+
 https://www.iccl.ie/news/iccl-launches-european-ombudsman-complaint-against-european-commissions-failure-to-take-ireland-to-court-over-the-gdpr/
 > https://news.ycombinator.com/item?id=29387344
 

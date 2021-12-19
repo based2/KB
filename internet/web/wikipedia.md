@@ -29,6 +29,11 @@ https://github.com/qbit/widdler Go,
 https://xwiki.com
 
 # News
+https://www.fastcompany.com/90692176/chinese-wikipedia
+
+https://meta.wikimedia.org/wiki/Talk:Fundraising
+> https://news.ycombinator.com/item?id=29603858
+
 https://www.modernwiki.app/
 > https://news.ycombinator.com/item?id=29461735
 

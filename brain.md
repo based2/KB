@@ -23,6 +23,12 @@ https://www.nature.com/articles/548150a
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.rockefeller.edu/news/31710-how-a-flys-brain-calculates-its-position-in-space/
+> https://news.ycombinator.com/item?id=29578958
+
+https://qualiacomputing.com/2016/12/12/the-hyperbolic-geometry-of-dmt-experiences/
+> https://news.ycombinator.com/item?id=29591095
+
 https://www.caltech.edu/about/news/how-to-read-a-jellyfishs-mind
 > https://news.ycombinator.com/item?id=29368061
 

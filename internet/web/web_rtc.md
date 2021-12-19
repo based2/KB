@@ -17,3 +17,8 @@ https://github.com/miroslavpejic85/mirotalksfu
 > https://sfu.mirotalk.org/
 > https://news.ycombinator.com/item?id=29445338
 
+https://terminal7.dev/
+> https://news.ycombinator.com/item?id=29578430
+
+https://wormhole.app/
+

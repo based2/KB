@@ -195,6 +195,9 @@ https://cnr.sh/essays/what-the-heck-data-mesh
 https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/
 > https://news.ycombinator.com/item?id=29417998
 
+https://www.pola.rs/
+> https://news.ycombinator.com/item?id=29584698
+
 # Data Tests
 https://frictionlessdata.io/
 
@@ -213,6 +216,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://blog.tinybird.co/2021/12/14/simd/ csv
+> https://news.ycombinator.com/item?id=29576769
+
+https://clickhouse.com/blog/en/2021/clickhouse-v21.12-released/
+> https://news.ycombinator.com/item?id=29577794
+
 https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
 > https://news.ycombinator.com/item?id=29473271
 

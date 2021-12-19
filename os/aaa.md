@@ -16,6 +16,9 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://lists.debian.org/debian-hurd/2021/08/msg00040.html
+> https://news.ycombinator.com/item?id=29585122
+
 https://github.com/akkartik/mu
 > https://news.ycombinator.com/item?id=29485624
 

@@ -245,6 +245,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://nouslesdevs.com/cli/securiser-un-git/
+
 https://github.com/jesseduffield/lazygit
 > https://news.ycombinator.com/item?id=29394162
 

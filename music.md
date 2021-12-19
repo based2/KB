@@ -47,6 +47,9 @@ https://learningmusic.ableton.com/
 
 https://tempobeatdownbeat.github.io/tutorial/intro.html
 
+https://github.com/Music-and-Culture-Technology-Lab/omnizart Democratizing automatic music transcription
+> https://news.ycombinator.com/item?id=29607587
+
 # Western Theory
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 > https://news.ycombinator.com/item?id=26859907

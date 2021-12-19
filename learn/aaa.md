@@ -100,6 +100,8 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://news.ycombinator.com/item?id=29605394 Life Changing Books
+
 https://news.ycombinator.com/item?id=29275470
 > https://en.wikipedia.org/wiki/Learning_management_system
 > https://richie.education/

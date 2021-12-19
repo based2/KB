@@ -186,6 +186,24 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://github.com/NanoComp/meep
+
+https://ambrevar.xyz/guix-matters/index.html
+> https://news.ycombinator.com/item?id=29597937
+
+https://twitter.com/Naaackers/status/1471494415306788870 TikTok releasing a go live platform? Turns out it’s a fork of @OBSProject
+> https://news.ycombinator.com/item?id=29592103
+
+https://drewdevault.com/2021/12/18/Commercial-forks-of-FOSS-projects.html
+> https://news.ycombinator.com/item?id=29603742
+
+https://blog.wolfram.com/2019/04/02/why-wolfram-tech-isnt-open-source-a-dozen-reasons/
+> https://news.ycombinator.com/item?id=29604421
+
+https://academic.oup.com/gigascience/article/9/10/giaa111/5918865 IDseq—An open source cloud-based pipeline and analysis service for metagenomic pathogen detection and monitoring
+
+https://ec.europa.eu/commission/presscorner/detail/en/ip_21_6649
+
 Remote Desktop P2P
 > https://news.ycombinator.com/item?id=29479503
 

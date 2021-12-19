@@ -84,6 +84,8 @@ https://begriffs.com/posts/2021-07-04-shared-libraries.html
 
 https://maskray.me/blog/2021-09-19-all-about-procedure-linkage-table
 
+https://mcyoung.xyz/2021/06/01/linker-script/
+
 # Vectorization
 https://cvw.cac.cornell.edu/vector/default
 > https://news.ycombinator.com/item?id=27900592
@@ -93,6 +95,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://github.com/spencertipping/jit-tutorial
+> https://news.ycombinator.com/item?id=29566249
+
 https://pspdfkit.com/blog/2021/understanding-fast-math/
 > https://news.ycombinator.com/item?id=29482350
 

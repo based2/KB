@@ -25,3 +25,9 @@ https://eprint.iacr.org/2021/1155.pdf intel
 https://research.fb.com/publications/porcupine-a-synthesizing-compiler-for-vectorized-homomorphic-encryption/ FB
 
 https://www.usenix.org/system/files/osdi21-kumar.pdf
+
+https://evervault.com/
+> https://news.ycombinator.com/item?id=29592229
+> > https://aws.amazon.com/fr/ec2/nitro/
+> > > https://evervault.com/blog/e3
+> > > > https://evervault.com/papers/kerckhoffs

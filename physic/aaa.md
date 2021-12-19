@@ -53,6 +53,11 @@ https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-mult
 > https://news.ycombinator.com/item?id=29026673
 
 # News
+https://mattferraro.dev/posts/joule-thomson
+> https://news.ycombinator.com/item?id=29593553
+
+https://www.wired.com/story/you-can-measure-this-fundamental-quantum-constant-using-leds/
+
 https://news.mit.edu/2021/atoms-ultracold-scatter-light-1118
 > https://news.ycombinator.com/item?id=29280780
 

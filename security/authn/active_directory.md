@@ -28,3 +28,5 @@ https://github.com/ANSSI-FR/SysvolExplorer
 
 https://github.com/ly4k/Certipy
 > https://www.reddit.com/r/netsec/comments/q33dwy/active_directory_certificate_services_to_domain/
+
+https://functionallyparanoid.com/2021/12/09/active-directory-says-what/

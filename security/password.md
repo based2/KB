@@ -40,6 +40,9 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://vitalyparnas.com/guides/pass/
+> https://news.ycombinator.com/item?id=29577272
+
 https://github.com/duffn/dumb-password-rules
 > https://news.ycombinator.com/item?id=29245289
 

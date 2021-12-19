@@ -71,7 +71,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://markphelps.me/posts/trying-out-generics-in-go/
+> https://news.ycombinator.com/item?id=29581112
 
+https://go.dev/blog/go1.18beta1
+> https://news.ycombinator.com/item?id=29564083
 
 https://avi.im/blag/2021/rc-day-24/
 > https://news.ycombinator.com/item?id=29487244

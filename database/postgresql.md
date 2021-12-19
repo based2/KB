@@ -173,6 +173,8 @@ https://fly.io/blog/globally-distributed-postgres/
 https://www.notion.so/blog/sharding-postgres-at-notion
 > https://news.ycombinator.com/item?id=28776786
 
+https://tapoueh.org/blog/2021/12/postgres-ha-roles-are-dynamic
+
 # Generator
 https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enums
 > https://news.ycombinator.com/item?id=27570058
