@@ -49,6 +49,8 @@ https://tempobeatdownbeat.github.io/tutorial/intro.html
 
 https://github.com/Music-and-Culture-Technology-Lab/omnizart Democratizing automatic music transcription
 > https://news.ycombinator.com/item?id=29607587
+> > https://piano-scribe.glitch.me/
+> > > https://magenta.tensorflow.org/
 
 # Western Theory
 https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python

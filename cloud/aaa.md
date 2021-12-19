@@ -22,6 +22,11 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.swyx.io/api-economy/
+
+https://www.usenix.org/system/files/nsdi19-kaffes.pdf Shinjuku: Preemptive Scheduling for μsecond-scale Tail Latency
+> https://news.ycombinator.com/item?id=29610506
+
 https://status.okta.com/
 > https://news.ycombinator.com/item?id=29567747
 

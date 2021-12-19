@@ -77,6 +77,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://smitop.com/post/hostnames/
+> https://en.wikipedia.org/wiki/Carrier-grade_NAT
+
 https://news.ycombinator.com/item?id=29596399 Ask HN: Is there a “wall of shame” for ISPs that don't respect DNS TTLs?
 
 https://jvns.ca/blog/2021/12/15/mess-with-dns/

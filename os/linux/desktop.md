@@ -26,6 +26,15 @@ https://opensource.com/article/18/11/choosing-printer-linux
 # Office
 Openoffice
 
+# Windows
+
+https://usebottles.com/
+> https://news.ycombinator.com/item?id=29612976
+> > https://www.winehq.org/ 
+> > > https://github.com/ValveSoftware/Proton
+> https://lutris.net/
+> https://www.playonlinux.com
+
 # News
 https://zamundaaa.github.io/wayland/2021/12/14/about-gaming-on-wayland.html
 > https://news.ycombinator.com/item?id=29559117

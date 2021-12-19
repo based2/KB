@@ -19,6 +19,8 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://www.varonis.com/blog/box-mfa-bypass-totp/
+
 https://news.ycombinator.com/item?id=29330908
 
 https://news.ycombinator.com/item?id=29254063

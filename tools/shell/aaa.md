@@ -34,6 +34,9 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html
+> https://news.ycombinator.com/item?id=29610956
+
 https://news.ycombinator.com/item?id=29056222
 
 https://github.com/nuta/nsh

@@ -71,6 +71,10 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/rakeeb-hossain/functools
+
+https://ataylor.io/blog/go-mlp/
+
 https://markphelps.me/posts/trying-out-generics-in-go/
 > https://news.ycombinator.com/item?id=29581112
 

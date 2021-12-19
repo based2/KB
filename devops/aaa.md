@@ -104,6 +104,11 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd
+> https://news.ycombinator.com/item?id=29617794
+
+https://github.com/thlorenz/doctoc
+
 https://github.com/dhanvi/direnvp
 
 https://news.ycombinator.com/item?id=29600228 Ask HN: I'm tired of intense code review cycles

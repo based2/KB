@@ -30,6 +30,8 @@ https://axio.ms/blog/2021/10/02/MacSE30.html
 https://systemtalk.org/post/macintosh-history-8510/
 > https://news.ycombinator.com/item?id=28739998
 
+https://blog.greggant.com/posts/2021/12/18/ppc-qemu-mac-os-9-with-sound-on-apple-silicon-intel-mac.html
+
 # HyperCard
 https://hypercard.org/
 

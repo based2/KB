@@ -1,3 +1,23 @@
+https://2b2t.miraheze.org/wiki/Nocom
+> https://news.ycombinator.com/item?id=29615428
+
+
+https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/
+
+https://linuxsecurity.com/advisories/debian/debian-dsa-5023-1-modsecurity-apache-security-update-08-15-31
+
+https://positive.security/blog/ms-officecmd-rce
+> https://www.reddit.com/r/netsec/comments/raxp38/windows_10_rce_the_exploit_is_in_the_link/
+
+https://www.proofpoint.com/us/blog/cloud-security/microsoft-and-github-oauth-implementation-vulnerabilities-lead-redirection
+> https://www.reddit.com/r/netsec/comments/rc2pnn/microsoft_and_github_oauth_implementation/
+
+https://thalium.github.io/blog/posts/deserialization-bug-through-rdp-smart-card-extension/ CVE-2021-38666
+
+https://blog.hansenpartnership.com/papering-over-our-tpm-2-0-tss-divisions/
+
+https://www.bleepingcomputer.com/news/security/cisa-urges-vmware-admins-to-patch-critical-flaw-in-workspace-one-uem/
+
 https://lwn.net/Articles/877607/ FIPS-compliant random numbers for the kernel
 
 https://hackaday.com/2021/12/16/pinephone-malware-surprises-users-raises-questions/
@@ -71,8 +91,16 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > http://logback.qos.ch/news.html 16th of December, 2021, Release of version 1.2.9, CVE-2021-42550 (aka LOGBACK-1591)
 > https://news.ycombinator.com/item?id=29608244 AWS warns us about irregular activity related to Log4shell
 > https://www.tutorialjinni.com/log4shell-yara-ioc.html
+> https://research.nccgroup.com/2021/12/12/log4shell-reconnaissance-and-post-exploitation-network-detection/
 > https://news.ycombinator.com/item?id=29592983
+> https://davidwesterfield.net/2021/12/log4j-and-modsecurity/
 > https://github.com/cisagov/log4j-affected-db
+> > https://aws.amazon.com/fr/security/security-bulletins/AWS-2021-006/
+> https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd#vp
+> https://developer.apple.com/forums/thread/696785
+> > https://news.ycombinator.com/item?id=29610913
+> https://mail-archives.apache.org/mod_mbox/www-announce/202112.mbox/%3CCACZfFK6M%2Bur60dhw8mJCuVZFUAbW3O7vLcRq_47ShbEuOKUaLg%40mail.gmail.com%3E Apache Druid security advisory: critical vulnerability CVE-2021-44228 in Apache Log4j
+> https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

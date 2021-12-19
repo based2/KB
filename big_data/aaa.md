@@ -216,6 +216,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://about.gitlab.com/handbook/business-technology/data-team/platform/
+
 https://blog.tinybird.co/2021/12/14/simd/ csv
 > https://news.ycombinator.com/item?id=29576769
 

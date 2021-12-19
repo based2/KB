@@ -64,6 +64,8 @@ https://manjaro.org/ (https://archlinux.org/)
 # News
 https://asahilinux.org/2021/12/progress-report-oct-nov-2021/
 > https://news.ycombinator.com/item?id=29564384
+> > https://news.ycombinator.com/item?id=29595665
+> > > https://linuxreviews.org/Glxgears
 
 https://twitter.com/marcan42/status/1471799568807636994 Apple Helps Asahi Linux
 > https://news.ycombinator.com/item?id=29591578

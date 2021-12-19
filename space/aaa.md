@@ -56,6 +56,7 @@ https://twitter.com/SciGuySpace/status/1420795248205312000
 > > https://news.ycombinator.com/item?id=28320222
 > > > https://www.youtube.com/watch?v=dDBt9rZhMb4
 >  https://www.space.com/russian-soyuz-thrusters-tilt-space-station-again
+> https://arstechnica.com/science/2021/12/a-state-aligned-russian-newspaper-reviews-the-space-program-and-its-scathing/
 
 https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x
 
@@ -74,6 +75,8 @@ https://destevez.net/2021/10/tianwen-1-communications-relay-orbit/
 
 # Physic
 ## Astronomy
+
+https://jwst.nasa.gov/content/webbLaunch/deploymentExplorer.html
 
 https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html
 > https://news.ycombinator.com/item?id=28991537
@@ -113,6 +116,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://arstechnica.com/science/2021/12/a-sublime-landscape-new-model-explains-plutos-lumpy-plains/
+
 https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be
 > https://news.ycombinator.com/item?id=29602239
 

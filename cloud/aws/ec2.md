@@ -98,6 +98,9 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 
 https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-amazon-ebs-snapshots-with-amazon-ec2-systems-manager-part-2/
 
+# F
+https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
+
 # News
 https://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html
 > https://news.ycombinator.com/item?id=29444746

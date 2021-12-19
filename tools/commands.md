@@ -54,6 +54,7 @@ https://lwn.net/SubscriberLink/874049/bf89a969ed3dde87/ which non-POSIX
 
 https://the.exa.website/introduction ls alt
 > https://news.ycombinator.com/item?id=29014279
+> https://news.ycombinator.com/item?id=29609388
 
 https://github.com/zevv/lsofgraph
 

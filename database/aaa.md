@@ -65,6 +65,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.dolthub.com/blog/2021-12-17-month-long-transaction/
+> https://www.reddit.com/r/programming/comments/rj9au6/a_database_transaction_that_lasts_for_months/
+
 https://www.scattered-thoughts.net/writing/why-start-a-new-database-conference/
 > https://news.ycombinator.com/item?id=29597119
 

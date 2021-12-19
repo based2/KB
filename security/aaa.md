@@ -82,6 +82,9 @@ https://www.bunniestudios.com/blog/?p=6094 Upgrading Precursor’s TRNG
 https://www.bit-101.com/blog/2021/07/perlin-vs-simplex/
 > https://news.ycombinator.com/item?id=27871078
 
+https://tom-kaitchuck.medium.com/designing-a-new-prng-1c4ffd27124d
+> https://en.wikipedia.org/wiki/Spectral_test
+
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 

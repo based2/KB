@@ -114,6 +114,9 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://github.com/ziglang/zig/issues/9998
+> https://news.ycombinator.com/item?id=29610302
+
 https://blogs.windows.com/windows-insider/2021/12/07/redesigned-notepad-for-windows-11-begins-rolling-out-to-windows-insiders/
 > https://news.ycombinator.com/item?id=29477375
 

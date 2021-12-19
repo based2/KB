@@ -92,6 +92,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://cr.yp.to/talks/2015.10.05/slides-djb-20151005-a4.pdf Boring crypto Daniel J. Bernstein
+> 
+
 https://github.com/8HoLoN/prime-numbers sets as mathematical sequence based on sine products.
 > https://news.ycombinator.com/item?id=29483212
 

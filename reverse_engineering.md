@@ -24,3 +24,8 @@ https://www.righto.com/2021/11/reverse-engineering-yamaha-dx7_28.html
 > https://news.ycombinator.com/item?id=29370875
 
 https://news.ycombinator.com/item?id=29399504
+
+# Format
+https://www.hackerfactor.com/blog/index.php?/archives/895-Connecting-the-iDOTs.html PNG Apple iDOT
+> https://news.ycombinator.com/item?id=29610196
+> > https://news.ycombinator.com/item?id=29569155 NSO ForcedEntry

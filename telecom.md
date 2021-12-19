@@ -81,6 +81,8 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
 
 # News
+https://www.theregister.com/2021/12/18/us_huawei_malware/
+
 https://github.com/rchac/LibreQoS
 > https://news.ycombinator.com/item?id=29577283
 

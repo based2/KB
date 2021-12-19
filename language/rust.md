@@ -148,6 +148,9 @@ https://without.boats/blog/the-problem-of-effects/
 https://rustype.github.io/notes/notes/rust-typestate-series/rust-typestate-part-1.html
 > https://news.ycombinator.com/item?id=29433957
 
+https://docs.rs/dtolnay/0.0.9/dtolnay/macro._02__reference_types.html
+> https://lobste.rs/s/1lfizu/accurate_mental_model_for_rust_s
+
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 > https://news.ycombinator.com/item?id=27135591
@@ -309,6 +312,12 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://news.ycombinator.com/item?id=29610013
+> https://github.com/David-OConnor/nrf-hal/tree/main/examples/temperature_transmitter
+
+https://blog.reverberate.org/2021/12/18/thread-safety-cpp-rust.html
+> https://news.ycombinator.com/item?id=29608552
+
 https://vinted.engineering/2021/02/15/validating-json-input-in-rust-web-services/
 
 https://blog.rust-lang.org/inside-rust/2021/12/17/follow-up-on-the-moderation-issue.html

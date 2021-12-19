@@ -28,9 +28,11 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 # 2021
-https://en.wikipedia.org/wiki/Log4Shell
+https://en.wikipedia.org/wiki/Log4Shell CVE-2021-44228
 
-https://en.wikipedia.org/wiki/PrintNightmare
+https://en.wikipedia.org/wiki/FORCEDENTRY NSO iOS CVE-2021-30860
+
+https://en.wikipedia.org/wiki/PrintNightmare CVE-2021-34527, CVE-2021-1675, CVE-2021-34481
 
 https://alpaca-attack.com/ 
 
@@ -65,7 +67,7 @@ https://www.secpod.com/blog/openbsd-authentication-bypass-and-local-privilege-es
 
 https://en.wikipedia.org/wiki/Kr00k WPA2
 
-https://en.wikipedia.org/wiki/BlueKeep Windows RDP
+https://en.wikipedia.org/wiki/BlueKeep Windows RDP, CVE-2019-0708
 
 https://en.wikipedia.org/wiki/Microarchitectural_Data_Sampling Intel hyper-threading
 
@@ -98,6 +100,7 @@ https://en.wikipedia.org/wiki/Intel_Active_Management_Technology#Silent_Bob_is_S
 https://en.wikipedia.org/wiki/DoublePulsar
 
 https://en.wikipedia.org/wiki/EternalBlue
+> https://en.wikipedia.org/wiki/WannaCry_ransomware_attack
 
 https://en.wikipedia.org/wiki/Broadcom_Corporation#soc-wifi-vulns
 
@@ -144,13 +147,17 @@ https://en.wikipedia.org/wiki/BREACH
 
 https://en.wikipedia.org/wiki/ISeeYou Apple
 
+Lucky Thirteen: breaking the TLS and DTLS record protocol
+
 ## 2012
 https://en.wikipedia.org/wiki/CRIME
 
 https://www.cwi.nl/news/2012/cwi-cryptanalist-discovers-new-cryptographic-attack-variant-in-flame-spy-malware SHA-1
 
 ## 2011
-> https://en.wikipedia.org/wiki/Transport_Layer_Security#BEAST_attack
+https://en.wikipedia.org/wiki/Transport_Layer_Security#BEAST_attack
+
+limb overflow in OpenSSL
 
 # 2010
 https://en.wikipedia.org/wiki/Stuxnet
@@ -186,6 +193,9 @@ https://en.wikipedia.org/wiki/ILOVEYOU Windows VB
 
 # 1999
 https://www.linux.gr/DeCSS/decss.html
+
+# 1995
+Roos RC4
 
 # 1997
 https://en.wikipedia.org/wiki/WinNuke

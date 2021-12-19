@@ -162,6 +162,8 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://www.micahlerner.com/2021/03/28/noria-dynamic.html
+
 https://blog.zulip.com/2021/12/17/why-zulip-will-stand-the-test-of-time/
 > https://news.ycombinator.com/item?id=29595926
 

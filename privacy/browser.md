@@ -9,6 +9,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://techsparx.com/software-development/security/csp-camera-microphone.html GoogleSyndication.com
+> https://news.ycombinator.com/item?id=29614648
+
 https://brave.com/privacy-updates/13-pool-party-side-channels/
 > https://news.ycombinator.com/item?id=29569093
 

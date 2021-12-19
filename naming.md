@@ -18,3 +18,6 @@ https://gos.si/blog/the-hidden-skill-and-art-of-naming-things/
 > https://lobste.rs/s/tzcvmi/hidden_skill_art_naming_things
 
 https://nullprogram.com/blog/2021/09/14/
+
+https://www.rockandnull.com/programming-naming-conventions/
+> https://www.reddit.com/r/programming/comments/rjdsdp/practical_tips_on_naming_things/

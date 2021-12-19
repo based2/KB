@@ -179,6 +179,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://builtin.com/software-engineering-perspectives/when-mvps-hurt
+> https://news.ycombinator.com/item?id=29609688
+
 https://news.ycombinator.com/item?id=29587269
 
 https://devtails.xyz/3-lines-of-code-shouldnt-take-all-day

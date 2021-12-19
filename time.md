@@ -186,6 +186,8 @@ https://bibliodyssey.blogspot.com/2010/04/time-after-time.html
 > https://news.ycombinator.com/item?id=28848096
 
 # News
+https://www.umsu.de/blog/2017/671
+
 https://physicstoday.scitation.org/doi/full/10.1063/PT.3.4229 Telling time in Tokugawa Japan
 
 https://blog.jinay.dev/posts/virality/

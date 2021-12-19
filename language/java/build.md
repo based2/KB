@@ -35,6 +35,9 @@ https://mail-archives.apache.org/mod_mbox/maven-announce/202110.mbox/%3C8bf4d8cb
 https://www.morling.dev/blog/introducing-oss-quickstart-archetype/
 > https://github.com/moditect/oss-quickstart
 
+https://github.com/apache/maven-wrapper
+> https://www.reddit.com/r/java/comments/rjf6vr/the_maven_wrapper_has_now_been_officially/
+
 ## Public repositories
 https://search.maven.org/classic/#
 
