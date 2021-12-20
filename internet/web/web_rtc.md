@@ -22,3 +22,6 @@ https://terminal7.dev/
 
 https://wormhole.app/
 
+https://github.com/miroslavpejic85/mirotalk
+> https://news.ycombinator.com/item?id=29628895
+

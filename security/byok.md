@@ -26,6 +26,8 @@ https://research.fb.com/publications/porcupine-a-synthesizing-compiler-for-vecto
 
 https://www.usenix.org/system/files/osdi21-kumar.pdf
 
+https://aws.amazon.com/en/blogs/security/demystifying-kms-keys-operations-bring-your-own-key-byok-custom-key-store-and-ciphertext-portability/
+
 https://evervault.com/
 > https://news.ycombinator.com/item?id=29592229
 > > https://aws.amazon.com/fr/ec2/nitro/

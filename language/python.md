@@ -188,6 +188,17 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+http://blog.ezyang.com/2020/10/idiomatic-algebraic-data-types-in-python-with-dataclasses-and-union/
+
+https://til.simonwillison.net/python/annotated-dataklasses
+> https://news.ycombinator.com/item?id=29621716
+
+https://www.paulsprogrammingnotes.com/2021/12/python-memory-leaks.html
+> https://news.ycombinator.com/item?id=29621668
+
+https://github.com/tylerhou/fiber Python decorator that enables arbitrarily-deep tail/non-tail recursion
+> https://news.ycombinator.com/item?id=29628772
+
 https://www.pythonkitchen.com/why-choose-flask-over-fastapi/
 > https://news.ycombinator.com/item?id=29591229
 

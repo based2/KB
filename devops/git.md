@@ -245,6 +245,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/gotvc/got
+> https://github.com/brendoncarroll/webfs
+
 https://nouslesdevs.com/cli/securiser-un-git/
 
 https://github.com/jesseduffield/lazygit

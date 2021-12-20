@@ -97,6 +97,9 @@ https://ctskennerton.github.io/2021/08/30/open-source-tax-software/
 http://opentaxsolver.sourceforge.net/
 > https://news.ycombinator.com/item?id=28760442
 
+https://www.accountingcoach.com/
+> https://news.ycombinator.com/item?id=29625571
+
 # News
 https://americanaffairsjournal.org/2021/08/the-emerging-american-industrial-policy/
 

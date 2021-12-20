@@ -23,6 +23,8 @@ https://www.nature.com/articles/548150a
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://news.rub.de/english/press-releases/2021-12-17-cognitive-neuroscience-limited-brain-capacity-humans-and-birds
+
 https://www.rockefeller.edu/news/31710-how-a-flys-brain-calculates-its-position-in-space/
 > https://news.ycombinator.com/item?id=29578958
 

@@ -36,6 +36,8 @@ https://usebottles.com/
 > https://www.playonlinux.com
 
 # News
+https://www.collabora.com/news-and-blog/news-and-events/wxrd-a-standalone-wayland-compositor-for-xrdesktop.html
+
 https://zamundaaa.github.io/wayland/2021/12/14/about-gaming-on-wayland.html
 > https://news.ycombinator.com/item?id=29559117
 

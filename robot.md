@@ -19,6 +19,9 @@ https://news.ycombinator.com/item?id=29114862
 https://spectrum.ieee.org/foldable-monocopter-drone
 > https://news.ycombinator.com/item?id=29225184
 
+# Water
+https://www.darpa.mil/news-events/2021-12-20
+
 # Trajectory
 https://www.baucomrobotics.com/domino-robot-posts/trajectory-generation
 

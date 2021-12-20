@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://blog.elementary.io/elementary-os-6-1-available-now/
+> https://news.ycombinator.com/item?id=29627193
+
 https://asahilinux.org/2021/12/progress-report-oct-nov-2021/
 > https://news.ycombinator.com/item?id=29564384
 > > https://news.ycombinator.com/item?id=29595665

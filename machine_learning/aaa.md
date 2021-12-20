@@ -1,3 +1,5 @@
+https://www.enisa.europa.eu/news/artificial-intelligence-how-to-make-machine-learning-cyber-secure
+
 https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html
 
 https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-Shannon-Demonstrates-Machine-Learning
@@ -251,6 +253,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://blog.vespa.ai/billion-scale-knn/
+
+https://lorenzopieri.com/rl_transformers/
+> https://news.ycombinator.com/item?id=29617087
+
 https://tvm.apache.org/2021/12/15/tvm-unity
 
 https://www.distributional-rl.org/

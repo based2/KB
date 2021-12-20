@@ -60,6 +60,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://search.carrot2.org/#/search/web
+
 https://github.com/prabhatsharma/zinc Rust
 > https://news.ycombinator.com/item?id=29434097
 

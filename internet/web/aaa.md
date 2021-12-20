@@ -67,6 +67,9 @@ https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-net
 https://cushychicken.github.io/rules-for-web-scrapers/
 
 # News
+https://european-alternatives.eu/
+> https://news.ycombinator.com/item?id=29627097
+
 https://linkingmanifesto.org/
 > https://news.ycombinator.com/item?id=29609785
 > > https://hookproductivity.com/

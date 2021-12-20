@@ -20,6 +20,9 @@ https://dither8.xyz/blog/img-future/
 https://blog.benjojo.co.uk/post/not-all-jpegs-are-the-same
 > https://news.ycombinator.com/item?id=29276300
 
+https://phoboslab.org/log/2021/12/qoi-specification
+> https://news.ycombinator.com/item?id=29625084
+
 # News
 https://github.com/bfabiszewski/libmobi ebook epub
 > https://news.ycombinator.com/item?id=29602066

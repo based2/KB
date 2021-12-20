@@ -91,6 +91,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 > https://news.ycombinator.com/item?id=29136429
 
 # News
+https://medium.com/@inklestudios/elementary-my-dear-watson-dc4a7c7e45af
+> https://news.ycombinator.com/item?id=29621778
+
 https://wccftech.com/steam-deck-wont-have-any-exclusive-games-valve-confirms/
 > https://news.ycombinator.com/item?id=29585950
 

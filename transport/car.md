@@ -18,6 +18,11 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://asia.nikkei.com/Business/Automobiles/China-EV-teardown-A-4-500-alternative-to-walking
+
+https://tiremeetsroad.com/2021/03/18/tesla-allegedly-remotely-unlocks-model-3-owners-car-uses-smart-summon-to-help-repo-agent/
+> https://news.ycombinator.com/item?id=29623658
+
 https://www.wired.co.uk/article/electric-car-design-engineering
 > https://news.ycombinator.com/item?id=29603588
 

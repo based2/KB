@@ -95,12 +95,15 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://news.ycombinator.com/item?id=29592983
 > https://davidwesterfield.net/2021/12/log4j-and-modsecurity/
 > https://github.com/cisagov/log4j-affected-db
+> > https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592
 > > https://aws.amazon.com/fr/security/security-bulletins/AWS-2021-006/
 > https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-apache-log4j-qRuKNEbd#vp
 > https://developer.apple.com/forums/thread/696785
 > > https://news.ycombinator.com/item?id=29610913
 > https://mail-archives.apache.org/mod_mbox/www-announce/202112.mbox/%3CCACZfFK6M%2Bur60dhw8mJCuVZFUAbW3O7vLcRq_47ShbEuOKUaLg%40mail.gmail.com%3E Apache Druid security advisory: critical vulnerability CVE-2021-44228 in Apache Log4j
 > https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/
+> https://media.cert.europa.eu/static/SecurityAdvisories/2021/CERT-EU-SA2021-067.pdf
+> https://github.com/enisaeu/CNW/tree/main/log4shell
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

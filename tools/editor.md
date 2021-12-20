@@ -32,6 +32,9 @@ https://vim.is/#exercise
 http://www.viemu.com/a-why-vi-vim.html
 > https://news.ycombinator.com/item?id=29469345
 
+https://www.moolenaar.net/habits.html
+> https://news.ycombinator.com/item?id=29621604
+
 # Nano
 
 

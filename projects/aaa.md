@@ -179,6 +179,11 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://news.ycombinator.com/item?id=29621492
+
+https://bellmar.medium.com/hunting-tech-debt-via-org-charts-92df0b253145
+> https://news.ycombinator.com/item?id=29625707
+
 https://builtin.com/software-engineering-perspectives/when-mvps-hurt
 > https://news.ycombinator.com/item?id=29609688
 

@@ -104,6 +104,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://www.pullrequest.com/
+> https://news.ycombinator.com/item?id=29623505
+
 https://wolfoliver.medium.com/the-big-devops-misunderstanding-8435a910a5fd
 > https://news.ycombinator.com/item?id=29617794
 

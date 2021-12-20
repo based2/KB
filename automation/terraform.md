@@ -40,6 +40,8 @@ https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terr
 https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 
 # News
+https://chair6.net/programmatic-terraform-config-manipulation-semgreps-autofix-and-an-example-of-oss-contribution.html
+
 https://www.hashicorp.com/blog/a-new-chapter-for-hashicorp
 > https://news.ycombinator.com/item?id=29500645
 > > https://about.gitlab.com/blog/2021/12/09/congratulations-to-hashicorp/

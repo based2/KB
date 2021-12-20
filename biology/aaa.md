@@ -18,6 +18,9 @@ https://www.sciencealert.com/useless-specks-of-dust-turn-out-to-be-ancient-build
 
 https://news.ycombinator.com/item?id=29137765
 
+https://www.liebertpub.com/doi/10.1089/ast.2019.2149
+> https://news.ycombinator.com/item?id=29618671
+
 # Machine
 https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce
 > https://news.ycombinator.com/item?id=29389871

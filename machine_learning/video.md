@@ -63,3 +63,6 @@ https://www.unite.ai/why-adversarial-image-attacks-are-no-joke/
 
 https://www.unite.ai/disney-combines-cgi-with-neural-rendering-to-tackle-the-uncanny-valley/
 > https://news.ycombinator.com/item?id=29390099
+
+https://ternaus.blog/story/2021/12/15/Albumentations.html
+> https://albumentations.ai/

@@ -46,6 +46,8 @@ https://www.colorfonts.wtf/
 
 https://n8d.at/the-numeric-colour-palettes-in-modern-web-frameworks-explained
 
+https://iro.js.org/
+> https://news.ycombinator.com/item?id=29625178
 
 https://uwdata.github.io/color-naming-in-different-languages/vis/stacked-spectrum.html
 > https://news.ycombinator.com/item?id=28140980

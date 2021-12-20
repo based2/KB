@@ -39,6 +39,8 @@ https://github.com/netdata/netdata - C
 
 https://expediadotcom.github.io/haystack/
 
+http://ganglia.sourceforge.net/
+
 # Syslog
 https://techblog.bozho.net/the-syslog-hell/
 > https://news.ycombinator.com/item?id=27104469
@@ -65,6 +67,9 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://oldvcr.blogspot.com/2021/12/monitoring-vintage-server-room-and.html
+> https://news.ycombinator.com/item?id=29621925
+
 https://twitter.com/Cyber_Cox/status/1471912802256404481
 > https://news.ycombinator.com/item?id=29601099
 

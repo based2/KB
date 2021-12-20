@@ -110,3 +110,9 @@ https://daniel.haxx.se/blog/2021/10/25/the-quic-api-openssl-will-not-provide/
 
 https://requestmetrics.com/web-performance/http3-is-fast
 > https://news.ycombinator.com/item?id=29563229
+
+# Dev
+https://github.com/httptoolkit/httptoolkit-server
+> https://news.ycombinator.com/item?id=29624319
+
+https://github.com/mockoon/mockoon
