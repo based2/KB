@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://playxo.com/
+> https://news.ycombinator.com/item?id=29635907
+
 https://www.wsj.com/articles/bitcoin-price-tumbles-after-wall-street-selloff-11638621435
 > https://news.ycombinator.com/item?id=29442151
 

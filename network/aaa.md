@@ -93,6 +93,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://www.jeffgeerling.com/blog/2021/check-your-driver-faster-linux-25g-networking-realtek-rtl8125b
+> https://news.ycombinator.com/item?id=29641904
+
 https://routingcraft.net/anycast-in-segment-routing/
 
 https://github.com/seladb/PcapPlusPlus/releases/tag/v21.11

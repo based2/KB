@@ -11,3 +11,6 @@ https://www.scientificamerican.com/article/infinity-category-theory-offers-a-bir
 > https://news.ycombinator.com/item?id=28536516
 
 https://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf Domain Theory
+
+https://discourse.julialang.org/t/ann-c3t-crash-course-category-theory/73392
+> https://news.ycombinator.com/item?id=29640873

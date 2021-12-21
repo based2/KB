@@ -20,6 +20,13 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.theregister.com/2021/12/16/cryptocurrency_rug_pulls/
+> https://news.ycombinator.com/item?id=29640639
+
+https://blog.vanila.io/over-7-000-sol-1-2-946215a9ee0e
+> https://news.ycombinator.com/item?id=29640573
+> https://fractal.medium.com/dear-fractal-community-70173e8a5ea7
+
 https://www.cossacklabs.com/blog/crypto-wallets-security/
 > https://news.ycombinator.com/item?id=29572477
 

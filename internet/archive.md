@@ -84,3 +84,5 @@ https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25
 https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet
 > https://news.ycombinator.com/item?id=27863114
 
+https://news.ycombinator.com/item?id=29639222
+> https://blog.cloudflare.com/cloudflares-always-online-and-the-internet-archive-team-up-to-fight-origin-errors/

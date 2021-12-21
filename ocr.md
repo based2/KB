@@ -53,6 +53,9 @@ https://sw.ink/create
 https://menu.cards/
 > https://news.ycombinator.com/item?id=29305129
 
+https://www.corentindupont.info/blog/posts/Programming/2021-08-13-GreenPass.html
+> https://news.ycombinator.com/item?id=29637328
+
 # Object labelling
 https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera
 

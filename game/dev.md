@@ -91,6 +91,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 > https://news.ycombinator.com/item?id=29136429
 
 # News
+https://wasm4.org/
+> https://news.ycombinator.com/item?id=29632813
+
 https://medium.com/@inklestudios/elementary-my-dear-watson-dc4a7c7e45af
 > https://news.ycombinator.com/item?id=29621778
 

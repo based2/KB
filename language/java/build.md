@@ -38,6 +38,9 @@ https://www.morling.dev/blog/introducing-oss-quickstart-archetype/
 https://github.com/apache/maven-wrapper
 > https://www.reddit.com/r/java/comments/rjf6vr/the_maven_wrapper_has_now_been_officially/
 
+https://www.javaadvent.com/2021/12/from-maven-3-to-maven-5.html
+> https://www.reddit.com/r/java/comments/rlarbq/from_maven_3_to_maven_5/
+
 ## Public repositories
 https://search.maven.org/classic/#
 

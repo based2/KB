@@ -13,6 +13,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.bis.org/publ/qtrpdf/r_qt2112b.htm
+> https://news.ycombinator.com/item?id=29629232
+
 https://blog.chainalysis.com/reports/2021-crypto-scam-revenues/
 > https://news.ycombinator.com/item?id=29579362
 

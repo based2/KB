@@ -77,6 +77,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://news.ycombinator.com/item?id=29641746 .au
+
 https://smitop.com/post/hostnames/
 > https://en.wikipedia.org/wiki/Carrier-grade_NAT
 

@@ -35,6 +35,9 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://github.com/ilyakurdyukov/crzy64
+> https://news.ycombinator.com/item?id=29637986
+
 https://taras.glek.net/post/optimized-zip-format/
 > https://news.ycombinator.com/item?id=29410225
 

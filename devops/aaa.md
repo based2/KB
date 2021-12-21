@@ -104,6 +104,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://pre-commit.com/
+> https://news.ycombinator.com/item?id=29634897
+
 https://www.pullrequest.com/
 > https://news.ycombinator.com/item?id=29623505
 

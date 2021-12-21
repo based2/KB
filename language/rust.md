@@ -312,6 +312,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/
+
 https://news.ycombinator.com/item?id=29610013
 > https://github.com/David-OConnor/nrf-hal/tree/main/examples/temperature_transmitter
 

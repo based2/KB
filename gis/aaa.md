@@ -124,6 +124,9 @@ https://safecycle.atelier-des-communs.fr/
 
 https://earthquake.usgs.gov/earthquakes/map/?extent=32.06396,-149.37012&extent=54.36776,-102.17285&sort=largest&listOnlyShown=true
 
+https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?layers=158%2C164&bbox=440542.6277594727%2C6334693.254563688%2C733340.9912308848%2C6454207.077243195
+> https://news.ycombinator.com/item?id=29640624
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 

@@ -177,6 +177,7 @@ https://fosscord.com/ alpha
 # Media center
 https://kodi.tv/
 > https://news.ycombinator.com/item?id=28488668
+> https://news.ycombinator.com/item?id=29633079
 
 https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jellyfin-and-infuse
 > https://jellyfin.org/
@@ -186,6 +187,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://protesilaos.com/codelog/2021-04-16-emacs-moral-lessons/
+> https://news.ycombinator.com/item?id=29638547
+
 https://github.com/NanoComp/meep
 
 https://ambrevar.xyz/guix-matters/index.html

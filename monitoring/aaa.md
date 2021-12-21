@@ -67,6 +67,8 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://news.ycombinator.com/item?id=29637260
+
 https://oldvcr.blogspot.com/2021/12/monitoring-vintage-server-room-and.html
 > https://news.ycombinator.com/item?id=29621925
 

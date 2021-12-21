@@ -36,6 +36,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://www-uxsup.csx.cam.ac.uk/misc/horror.txt
+> https://news.ycombinator.com/item?id=29638367
+
 https://capiche.com/e/consumer-dev-tools-command-palette
 > https://news.ycombinator.com/item?id=29373536
 

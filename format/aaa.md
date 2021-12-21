@@ -24,6 +24,9 @@ https://phoboslab.org/log/2021/12/qoi-specification
 > https://news.ycombinator.com/item?id=29625084
 
 # News
+https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8
+> https://news.ycombinator.com/item?id=29629792
+
 https://github.com/bfabiszewski/libmobi ebook epub
 > https://news.ycombinator.com/item?id=29602066
 

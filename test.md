@@ -59,6 +59,8 @@ https://chanind.github.io/2021/10/11/self-optimizing-ab-tests.html
 https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a
 > https://news.ycombinator.com/item?id=29042562
 
+https://philipwalton.com/articles/performant-a-b-testing-with-cloudflare-workers/
+
 #
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
 > https://news.ycombinator.com/item?id=27923631

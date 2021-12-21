@@ -61,6 +61,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://endcrawl.com/credits-ordering/
+> https://news.ycombinator.com/item?id=29639968
+
 https://mht.wtf/post/min-deg-st/ A Neat Approximation Algorithm
 
 https://levelup.gitconnected.com/creating-a-force-graph-using-react-d3-and-pixijs-95616051aba

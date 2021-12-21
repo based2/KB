@@ -50,7 +50,6 @@ https://github.com/mxgmn/WaveFunctionCollapse
 
 https://harshil.net/blog/recreating-the-mac-genie-effect
 
-
 # Fluid
 https://softologyblog.wordpress.com/2017/03/28/more-fun-with-lattice-boltzman-method-lbm-fluid-simulations/
 
@@ -65,6 +64,14 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://sketch.metademolab.com/
+> https://news.ycombinator.com/item?id=29635422
+
+https://airbnb.io/lottie/#/
+> https://news.ycombinator.com/item?id=29634114
+
+https://blog.theatrejs.com/announcing-45m-seed-for-theatrejs
+
 https://www.geektyper.com/
 
 https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/

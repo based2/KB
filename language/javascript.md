@@ -327,6 +327,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://upfrontjs.com/ Data handling framework complementary to active records
+> https://news.ycombinator.com/item?id=29635932
+
 https://github.com/swc-project/swc
 > https://news.ycombinator.com/item?id=29629721
 

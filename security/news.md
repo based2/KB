@@ -1,6 +1,21 @@
+https://penthertz.com/blog/Intruding-5G-core-networks-from-outside-and_inside.html
+
+https://blog.redteam-pentesting.de/2021/inside-a-pbx/
+> https://www.reddit.com/r/netsec/comments/rkmq4j/inside_a_pbx_discovering_a_firmware_backdoor/
+
+https://jahed.dev/2021/12/19/hidden-networks-in-tp-link-routers/
+> https://news.ycombinator.com/item?id=29641868
+
+https://sanctionsnews.bakermckenzie.com/mofcom-issues-new-encryption-import-control-effective-immediately/
+> https://news.ycombinator.com/item?id=29636429
+
+https://parsiya.net/blog/2021-12-20-rce-in-visual-studio-codes-remote-wsl-for-fun-and-negative-profit/
+> https://news.ycombinator.com/item?id=29635300
+
+https://goteleport.com/blog/passwordless-remote-access-to-windows-servers/
+
 https://2b2t.miraheze.org/wiki/Nocom
 > https://news.ycombinator.com/item?id=29615428
-
 
 https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/
 
@@ -104,6 +119,8 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/
 > https://media.cert.europa.eu/static/SecurityAdvisories/2021/CERT-EU-SA2021-067.pdf
 > https://github.com/enisaeu/CNW/tree/main/log4shell
+> https://www.zdnet.com/article/security-firm-blumira-discovers-major-new-log4j-attack-vector/
+> > https://news.ycombinator.com/item?id=29639297
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

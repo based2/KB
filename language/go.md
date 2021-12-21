@@ -71,6 +71,8 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://tech-lessons.in/invoking-C-code-from-golang/
+
 https://github.com/rakeeb-hossain/functools
 
 https://ataylor.io/blog/go-mlp/

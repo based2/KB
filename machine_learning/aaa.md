@@ -253,6 +253,18 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://cloud.google.com/blog/topics/solutions-how-tos/design-patterns-in-googles-prediction-market-on-google-cloud
+> https://news.ycombinator.com/item?id=29629665
+
+https://gregorygundersen.com/blog/2020/02/09/log-sum-exp/
+
+https://arxiv.org/abs/2112.10123 Early Detection of Security-Relevant Bug Reports using Machine Learning: How Far Are We?
+
+https://news.ycombinator.com/item?id=29639120
+
+https://www.darpa.mil/news-events/2021-12-21
+> https://www.gardproject.org/
+
 https://blog.vespa.ai/billion-scale-knn/
 
 https://lorenzopieri.com/rl_transformers/

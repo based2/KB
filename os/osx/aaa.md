@@ -133,6 +133,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://github.com/ExistentialAudio/BlackHole
+> https://news.ycombinator.com/item?id=29621465
+
 https://www.macrumors.com/2021/12/07/apple-ceo-tim-cook-secret-deal-with-china/
 > https://news.ycombinator.com/item?id=29482351
 

@@ -63,6 +63,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.downtowndougbrown.com/2021/12/upgrading-a-motherboards-bios-uefi-the-hard-way/
+> https://news.ycombinator.com/item?id=29621111
+
 https://www.anandtech.com/show/17123/tsmc-unveils-n4x-node-high-voltages-for-high-clocks
 
 https://newsroom.ibm.com/2021-12-14-IBM-and-Samsung-Unveil-Semiconductor-Breakthrough-That-Defies-Conventional-Design
