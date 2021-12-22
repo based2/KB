@@ -5,3 +5,6 @@ https://mattermost.com/
 
 https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network
 > https://news.ycombinator.com/item?id=27077660
+
+https://matrix.org/blog/2021/12/22/the-mega-matrix-holiday-special-2021
+> https://news.ycombinator.com/item?id=29652148

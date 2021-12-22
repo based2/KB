@@ -18,3 +18,6 @@ SSE
 
 https://making.close.com/posts/reliable-websockets/
 > https://news.ycombinator.com/item?id=29026740
+
+http://www.adama-lang.org/blog/woe-of-websocket/
+> https://news.ycombinator.com/item?id=29651447

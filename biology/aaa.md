@@ -21,6 +21,9 @@ https://news.ycombinator.com/item?id=29137765
 https://www.liebertpub.com/doi/10.1089/ast.2019.2149
 > https://news.ycombinator.com/item?id=29618671
 
+https://berthub.eu/articles/posts/amazing-dna/
+> https://news.ycombinator.com/item?id=29647713
+
 # Machine
 https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce
 > https://news.ycombinator.com/item?id=29389871

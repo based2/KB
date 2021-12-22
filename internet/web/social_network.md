@@ -26,6 +26,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://www.nytimes.com/interactive/2021/12/20/technology/china-facebook-twitter-influence-manipulation.html
+> https://news.ycombinator.com/item?id=29654137
+
 https://www.cisa.gov/uscert/ncas/current-activity/2021/12/09/cisa-releases-guidance-protecting-organization-run-social-media
 
 https://runyourown.social/

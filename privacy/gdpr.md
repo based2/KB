@@ -53,6 +53,11 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.cnil.fr/fr/node/114303 GDPR toolkit
+
+https://privacystudy.cs.princeton.edu/?update
+> https://news.ycombinator.com/item?id=29650719
+
 https://blog.freeradical.zone/post/ccpa-scam-2021-12/
 > https://news.ycombinator.com/item?id=29599553
 

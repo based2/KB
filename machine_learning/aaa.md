@@ -253,6 +253,13 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.youtube.com/watch?v=jlPTp8nc3Qw Neurosymbolic Program Learning for Improved ML
+
+https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens
+
+https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/
+> https://news.ycombinator.com/item?id=29645887
+
 https://cloud.google.com/blog/topics/solutions-how-tos/design-patterns-in-googles-prediction-market-on-google-cloud
 > https://news.ycombinator.com/item?id=29629665
 

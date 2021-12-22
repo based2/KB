@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.bnnbloomberg.ca/germany-is-closing-half-of-its-reactors-at-worst-possible-time-1.1698757
+> https://news.ycombinator.com/item?id=29653572
+
 https://www.tvo.fi/en/index/news/pressreleasesstockexchangereleases/2021/theolkiluoto3eprplantunitstartedup.html
 > https://news.ycombinator.com/item?id=29634173
 

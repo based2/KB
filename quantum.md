@@ -1,3 +1,6 @@
+https://www.nature.com/articles/s41586-021-04160-4 Quantum theory based on real numbers can be experimentally falsified
+> https://news.ycombinator.com/item?id=29643921
+
 https://thenewstack.io/q-ctrl-black-opal-quantum-learning-for-the-masses/
 
 https://arstechnica.com/science/2021/07/google-tries-out-error-correction-on-its-quantum-processor/

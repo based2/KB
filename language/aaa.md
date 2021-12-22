@@ -198,6 +198,12 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://github.com/mtdvio/every-programmer-should-know
+> https://news.ycombinator.com/item?id=29653625
+
+https://iolanguage.org/guide/guide.html
+> https://news.ycombinator.com/item?id=29652317
+
 https://arxiv.org/abs/2112.07880 An Empirical Lower Bound on the Overheads of Production Garbage Collectors
 
 https://pithlessly.github.io/allocgate.html

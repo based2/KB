@@ -75,3 +75,5 @@ https://spring.io/blog/2021/10/07/a-bootiful-podcast-heiko-scherrer-on-openwms-s
 https://openwms.github.io/org.openwms/
 
 https://www.quickprogrammingtips.com/spring-boot/history-of-spring-framework-and-spring-boot.html
+
+https://vladmihalcea.com/custom-spring-data-repository/

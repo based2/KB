@@ -68,6 +68,11 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/turbolent/w2c2 to c
+
+https://a-j.gitbook.io/wasm-experimentation/wasm-internals-1
+> https://news.ycombinator.com/item?id=29653258
+
 https://radu-matei.com/blog/intro-wasm-components/
 > https://news.ycombinator.com/item?id=29591071
 

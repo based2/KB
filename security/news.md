@@ -1,3 +1,31 @@
+https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/
+
+https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html
+> https://www.iacr.org/cryptodb/archive/2002/EUROCRYPT/2850/2850.pdf
+> > https://en.wikipedia.org/wiki/Padding_oracle_attack
+> > > https://en.wikipedia.org/wiki/Decorrelation_theory
+
+https://github.com/vim/vim/issues/638 Vim cryptmethod is not authenticated
+
+https://blog.talosintelligence.com/2021/12/vuln-spotlight-garrett-metal-detector.html
+
+https://github.com/cryptosubtlety/intuitive-advanced-cryptography/blob/master/advancedcrypto.pdf
+> https://news.ycombinator.com/item?id=29643951
+
+https://community.freepbx.org/t/0-day-freepbx-exploit/80092
+> https://news.ycombinator.com/item?id=29646626
+
+https://positive.security/blog/ms-teams-1-feature-4-vulns
+> https://news.ycombinator.com/item?id=29647457
+
+https://downloads.apache.org/httpd/CHANGES_2.4.52 CVE-2021-44224 mod_proxy
+
+https://www.hackerfactor.com/blog/index.php?/archives/944-Tor-0day-Snowflake.html
+> https://news.ycombinator.com/item?id=29653055
+
+https://blog.jonlu.ca/posts/heap-snapshot-scraping?ref=hn2
+> https://news.ycombinator.com/item?id=29649481
+
 https://penthertz.com/blog/Intruding-5G-core-networks-from-outside-and_inside.html
 
 https://blog.redteam-pentesting.de/2021/inside-a-pbx/
@@ -121,6 +149,11 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://github.com/enisaeu/CNW/tree/main/log4shell
 > https://www.zdnet.com/article/security-firm-blumira-discovers-major-new-log4j-attack-vector/
 > > https://news.ycombinator.com/item?id=29639297
+> https://arstechnica.com/information-technology/2021/12/the-secret-uganda-deal-that-has-brought-nso-to-the-brink-of-collapse/?comments=1
+> > https://news.ycombinator.com/item?id=29640474
+> https://apnews.com/article/technology-business-poland-hacking-warsaw-8b52e16d1af60f9c324cf9f5099b687e
+> > https://news.ycombinator.com/item?id=29648072
+https://www.gigasheet.co/post/aws-account-takeover-via-log4shell
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

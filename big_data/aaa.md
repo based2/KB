@@ -216,6 +216,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://miller.readthedocs.io/en/latest/ querying, shaping, and reformatting data files in various formats including CSV, TSV, and JSON.
+> https://news.ycombinator.com/item?id=29651871
+
 https://about.gitlab.com/handbook/business-technology/data-team/platform/
 
 https://blog.tinybird.co/2021/12/14/simd/ csv

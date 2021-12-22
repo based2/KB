@@ -71,6 +71,13 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/
+> https://news.ycombinator.com/item?id=29653485
+> > https://tailscale.com/blog/netaddr-new-ip-type-for-go/
+
+https://rakyll.org/generics-facilititators/
+> https://news.ycombinator.com/item?id=29649635
+
 https://tech-lessons.in/invoking-C-code-from-golang/
 
 https://github.com/rakeeb-hossain/functools

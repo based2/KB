@@ -59,7 +59,10 @@ https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/
 https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
-# News
+# 
+https://metaheads.xyz/
+> https://news.ycombinator.com/item?id=29649021
+
 https://search.carrot2.org/#/search/web
 
 https://github.com/prabhatsharma/zinc Rust

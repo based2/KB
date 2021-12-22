@@ -217,6 +217,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/
+> https://news.ycombinator.com/item?id=29647645
+
 https://github.com/supabase/supabase
 > https://supabase.com/blog/2021/11/30/supabase-studio
 

@@ -36,6 +36,11 @@ https://usebottles.com/
 > https://www.playonlinux.com
 
 # News
+https://www.collabora.com/news-and-blog/blog/2021/12/22/wine-on-wayland-year-end-update-improved-functionality-stability/
+
+https://roscidus.com/blog/blog/2021/10/30/xwayland/
+> https://news.ycombinator.com/item?id=29645743
+
 https://www.collabora.com/news-and-blog/news-and-events/wxrd-a-standalone-wayland-compositor-for-xrdesktop.html
 
 https://zamundaaa.github.io/wayland/2021/12/14/about-gaming-on-wayland.html

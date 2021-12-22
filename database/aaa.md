@@ -65,6 +65,10 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.youtube.com/watch?v=tGzJ8F9rC1s Ultorg: A General-Purpose User Interface for Relational Databases
+> https://news.ycombinator.com/item?id=29647880
+> > http://www.ultorg.com/
+
 https://www.dolthub.com/blog/2021-12-17-month-long-transaction/
 > https://www.reddit.com/r/programming/comments/rj9au6/a_database_transaction_that_lasts_for_months/
 

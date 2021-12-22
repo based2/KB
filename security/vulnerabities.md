@@ -185,6 +185,8 @@ https://en.wikipedia.org/wiki/Bluesnarfing
 # 2002
 https://en.wikipedia.org/wiki/Shatter_attack Windows
 
+https://en.wikipedia.org/wiki/Padding_oracle_attack
+
 # 2001
 https://en.wikipedia.org/wiki/Fluhrer,_Mantin_and_Shamir_attack RC4 WEP
 

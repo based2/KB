@@ -21,6 +21,9 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://badfi.com/blog/2021/8/8/what-is-rf-monitor-mode-and-why-does-it-matter
+> https://news.ycombinator.com/item?id=29648194
+
 https://worthdoingbadly.com/vowifi/
 
 https://machinehum.medium.com/im-putting-a-wifi-router-into-a-wall-charger-part-0-2c1e1a80ccde

@@ -187,6 +187,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://mycroft.ai/
+
 https://protesilaos.com/codelog/2021-04-16-emacs-moral-lessons/
 > https://news.ycombinator.com/item?id=29638547
 

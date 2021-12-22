@@ -19,3 +19,5 @@ https://github.com/brunokim/prol
 
 https://github.com/mthom/scryer-prolog
 > https://news.ycombinator.com/item?id=28966133
+
+https://github.com/triska/the-power-of-prolog

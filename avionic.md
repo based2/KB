@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://lilium.com/newsroom-detail/technology-behind-the-lilium-jet
+> https://news.ycombinator.com/item?id=29651504
+
 https://www.commerce.senate.gov/services/files/48E3E2DE-6DFC-4602-BADF-8926F551B670
 > https://news.ycombinator.com/item?id=29561325
 

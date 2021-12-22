@@ -69,3 +69,7 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 > https://news.ycombinator.com/item?id=29058140
 
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
+
+# News
+https://github.com/remileduc/sherver
+> https://news.ycombinator.com/item?id=29648135

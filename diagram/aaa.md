@@ -115,6 +115,9 @@ https://asciiflow.com/#/
 https://mannhowie.com/finite-state-machines
 
 # News
+https://dragonman225.js.org/curved-arrows.html
+> https://news.ycombinator.com/item?id=29652139
+
 https://github.com/samuelmtimbo/unit
 
 https://www.anishathalye.com/2019/12/12/constraint-based-graphic-design/

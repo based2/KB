@@ -22,6 +22,13 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://therecord.media/microsoft-notifies-customers-of-azure-bug-that-exposed-their-source-code/
+
+https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/
+
+https://workspaceupdates.googleblog.com/2021/12/abuse-notification-emails-google-drive.html
+> https://news.ycombinator.com/item?id=29650416
+
 https://www.swyx.io/api-economy/
 
 https://www.usenix.org/system/files/nsdi19-kaffes.pdf Shinjuku: Preemptive Scheduling for μsecond-scale Tail Latency

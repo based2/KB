@@ -1,3 +1,6 @@
+https://www.jeffgeerling.com/blog/2021/raspberry-pi-holds-its-own-against-low-cost-arm-nas
+> https://news.ycombinator.com/item?id=29650182
+
 https://www.jeffgeerling.com/blog/2021/pine64-and-radxas-new-pi-cm4-compatible-boards
 > https://news.ycombinator.com/item?id=29566868
 
