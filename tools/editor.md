@@ -88,6 +88,12 @@ https://vscodium.com/
 
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
+# Notes
+https://www.tatatap.com/
+> https://news.ycombinator.com/item?id=29663233
+
+https://en.wikipedia.org/wiki/MORE_(application)
+
 # News
 https://news.ycombinator.com/item?id=29586062
 

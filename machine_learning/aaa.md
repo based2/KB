@@ -253,6 +253,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://spectrum.ieee.org/new-devices-for-analog-ai  Promise of Analog AI Feeds Neural Net Hardware Pipeline, Exotic technologies could lead to ultra-low-power AI applications
+> https://news.ycombinator.com/item?id=29661128
+
 https://www.youtube.com/watch?v=jlPTp8nc3Qw Neurosymbolic Program Learning for Improved ML
 
 https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens

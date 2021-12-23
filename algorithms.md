@@ -109,3 +109,6 @@ https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias
 > https://news.ycombinator.com/item?id=28010077
 
 https://www.algorithm-archive.org/
+
+http://jacobzelko.com/marching-squares/
+> https://news.ycombinator.com/item?id=29656409

@@ -5,3 +5,5 @@ https://en.wikipedia.org/wiki/EIDAS
 > https://www.ssi.gouv.fr/administration/reglementation/confiance-numerique/le-reglement-eidas/
 > > https://en.wikipedia.org/wiki/Self-sovereign_identity#European_Union_SSI
 
+https://github.com/jedisct1/minisign
+> https://news.ycombinator.com/item?id=29660095

@@ -32,6 +32,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://freefilesync.org/
+> https://news.ycombinator.com/item?id=29661539
+
 https://thornton2.com/unix/freebsd/geli-encrypted-usb-backup.html
 
 https://www.vmwareblog.org/3-2-1-backup-rule-data-will-always-survive/

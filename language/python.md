@@ -188,6 +188,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://devguide.python.org/#status-of-python-branches Python 3.6 EOL
+
 http://blog.ezyang.com/2020/10/idiomatic-algebraic-data-types-in-python-with-dataclasses-and-union/
 
 https://til.simonwillison.net/python/annotated-dataklasses

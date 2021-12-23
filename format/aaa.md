@@ -24,6 +24,10 @@ https://phoboslab.org/log/2021/12/qoi-specification
 > https://news.ycombinator.com/item?id=29625084
 
 # News
+https://github.com/wader/fq Tool, language and decoders for inspecting binary data
+> https://github.com/wader/fq/tree/master/format
+> https://news.ycombinator.com/item?id=29657094
+
 https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8
 > https://news.ycombinator.com/item?id=29629792
 

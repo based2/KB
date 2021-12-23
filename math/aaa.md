@@ -83,6 +83,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://speedcrunch.org/
+> https://news.ycombinator.com/item?id=29661485
+
 https://www.quantamagazine.org/oxford-mathematician-advances-century-old-combinatorics-problem-20211215/
 > https://news.ycombinator.com/item?id=29577367
 

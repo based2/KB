@@ -53,6 +53,11 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://gdprhub.eu/index.php?title=Datatilsynet_(Norway)_-_20/02136-18
+> https://news.ycombinator.com/item?id=29660643
+
+https://www.cnil.fr/fr/liso-27701-une-norme-internationale-pour-la-protection-des-donnees-personnelles
+
 https://www.cnil.fr/fr/node/114303 GDPR toolkit
 
 https://privacystudy.cs.princeton.edu/?update

@@ -116,3 +116,6 @@ https://rentafounder.com/the-problem-with-perceptual-hashes/
 
 https://mollyrocket.com/meowhash
 > https://news.ycombinator.com/item?id=29038813
+
+https://attractivechaos.wordpress.com/2018/10/01/advanced-techniques-to-implement-fast-hash-tables/
+> 

@@ -36,6 +36,12 @@ https://usebottles.com/
 > https://www.playonlinux.com
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Sway-1.7-rc1
+> https://news.ycombinator.com/item?id=29661981
+
+https://krita.org/en/item/krita-5-0-released/
+> https://news.ycombinator.com/item?id=29660463
+
 https://www.collabora.com/news-and-blog/blog/2021/12/22/wine-on-wayland-year-end-update-improved-functionality-stability/
 
 https://roscidus.com/blog/blog/2021/10/30/xwayland/

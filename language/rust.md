@@ -312,6 +312,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://arxiv.org/abs/2110.01098 Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment
+> https://news.ycombinator.com/item?id=29659689
+
 https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/
 
 https://news.ycombinator.com/item?id=29610013

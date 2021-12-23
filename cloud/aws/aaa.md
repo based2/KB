@@ -69,6 +69,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://www.theregister.com/2021/12/22/aws_outage/ US-EAST-1
+
 https://news.ycombinator.com/item?id=29648286
 
 https://news.ycombinator.com/item?id=29567170

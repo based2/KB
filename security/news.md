@@ -1,3 +1,16 @@
+https://youst.in/posts/cache-poisoning-at-scale/
+> https://news.ycombinator.com/item?id=29657176
+
+https://arxiv.org/abs/2112.10974 What are Attackers after on IoT Devices? An approach based on a multi-phased multi-faceted IoT honeypot ecosystem and data clustering
+> https://news.ycombinator.com/item?id=29661128
+
+https://g-laurent.blogspot.com/2021/12/responder-and-ipv6-attacks.html
+> https://www.reddit.com/r/netsec/comments/rlvhte/responder_and_ipv6_attacks_inject_a_dns_suffix_on/
+
+https://www.elastic.co/fr/blog/elastic-security-uncovers-blister-malware-campaign
+
+https://github.com/ChrisTheCoolHut/Zeratool
+
 https://palant.info/2021/12/20/yes-fun-browser-extensions-can-have-vulnerabilities-too/
 
 https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html
@@ -154,6 +167,11 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://apnews.com/article/technology-business-poland-hacking-warsaw-8b52e16d1af60f9c324cf9f5099b687e
 > > https://news.ycombinator.com/item?id=29648072
 https://www.gigasheet.co/post/aws-account-takeover-via-log4shell
+> https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud
+> > https://news.ycombinator.com/item?id=29658342
+> https://www.theregister.com/2021/12/21/belgium_defence_ministry_log4j_exploited/
+> https://www.trendmicro.com/en_us/research/21/l/examining-log4j-vulnerabilities-in-connected-cars.html
+> > https://www.reddit.com/r/netsec/comments/rn12vl/examining_log4j_vulnerabilities_in_connected_cars/
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

@@ -253,6 +253,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://mail.openjdk.java.net/pipermail/loom-dev/2021-December/003394.html Loom Early Access jdk-19+2
+
 https://eclipse-ee4j.github.io/cdi/2021/12/03/you-know-build-compatible-extensions.html
 
 https://www.reddit.com/r/java/comments/rilyud/update_primitive_collections_benchmarks/

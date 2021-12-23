@@ -21,3 +21,6 @@ https://making.close.com/posts/reliable-websockets/
 
 http://www.adama-lang.org/blog/woe-of-websocket/
 > https://news.ycombinator.com/item?id=29651447
+
+http://websocketd.com/
+> https://news.ycombinator.com/item?id=29656456

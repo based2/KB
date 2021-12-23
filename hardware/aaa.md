@@ -63,6 +63,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://linuxgizmos.com/10gbe-shows-up-on-linux-router-board-and-m-2-module/
+
 https://www.downtowndougbrown.com/2021/12/upgrading-a-motherboards-bios-uefi-the-hard-way/
 > https://news.ycombinator.com/item?id=29621111
 

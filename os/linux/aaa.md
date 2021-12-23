@@ -63,6 +63,9 @@ https://github.com/NixOS/patchelf
 https://github.com/intoli/exodus
 > https://news.ycombinator.com/item?id=29446297
 
+https://kestrelcomputer.github.io/kestrel/2018/02/01/on-elf-2
+> https://news.ycombinator.com/item?id=29660319
+
 # Window manager
 https://www.freedesktop.org/wiki/
 

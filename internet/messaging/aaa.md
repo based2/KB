@@ -11,6 +11,9 @@ https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messa
 > https://news.ycombinator.com/item?id=27587911
 
 # News
+https://www.erlang-solutions.com/blog/dynamic-xmpp-domains-in-mongooseim/
+> https://news.ycombinator.com/item?id=29659837
+
 https://www.ponymessenger.com/
 > https://news.ycombinator.com/item?id=29278180
 

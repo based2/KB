@@ -20,6 +20,9 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://thatsmyape.com/
+> https://news.ycombinator.com/item?id=29664369
+
 https://www.theregister.com/2021/12/16/cryptocurrency_rug_pulls/
 > https://news.ycombinator.com/item?id=29640639
 

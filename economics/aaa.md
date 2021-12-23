@@ -101,6 +101,9 @@ https://www.accountingcoach.com/
 > https://news.ycombinator.com/item?id=29625571
 
 # News
+https://ergodicityeconomics.com/2020/02/26/democratic-domestic-product/ gdp ddp
+> https://news.ycombinator.com/item?id=29660337
+
 https://americanaffairsjournal.org/2021/08/the-emerging-american-industrial-policy/
 
 https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html

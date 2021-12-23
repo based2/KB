@@ -102,6 +102,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://tinyssh.org/
+> https://news.ycombinator.com/item?id=29661170
+
 https://github.com/AkselAllas/airgapt (Bash, Docker) Automatic proxy setup for SSH'able boxes that have no network access
 > https://news.ycombinator.com/item?id=29429369
 > > https://github.com/ovh/the-bastion Perl
