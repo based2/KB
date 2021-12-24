@@ -66,6 +66,8 @@ https://sequoia-pgp.org/blog/2021/10/18/202110-sequoia-pgp-is-now-lgpl-2.0/
 https://github.com/pojntfx/keygaen Keygaen – Go WASM PWA for PGP
 > https://news.ycombinator.com/item?id=29181594
 
+https://sequoia-pgp.org/blog/2021/12/20/202112-openpgp-card-ci/
+
 #
 https://media.ccc.de/v/34c3-9075-latticehacks
 

@@ -253,6 +253,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://opensource.googleblog.com/2021/12/Boosting%20Machine%20Learning%20with%20tailored%20accelerators%20Custom%20Function%20Units%20in%20Renode.html
+
 https://spectrum.ieee.org/new-devices-for-analog-ai  Promise of Analog AI Feeds Neural Net Hardware Pipeline, Exotic technologies could lead to ultra-low-power AI applications
 > https://news.ycombinator.com/item?id=29661128
 

@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://trisquel.info/en Libre
+> https://news.ycombinator.com/item?id=29674352
+
 https://blog.elementary.io/elementary-os-6-1-available-now/
 > https://news.ycombinator.com/item?id=29627193
 

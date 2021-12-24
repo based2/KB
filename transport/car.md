@@ -18,6 +18,12 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://electrek.co/2021/12/23/tesla-owner-blows-up-model-s-dynamite-battery-replacement/
+> https://news.ycombinator.com/item?id=29668262
+
+https://www.thedrive.com/news/43636/toyota-reviewing-key-fob-remote-start-subscription-plan-after-massive-blowback
+> https://news.ycombinator.com/item?id=29667208
+
 https://www.caranddriver.com/news/a35577611/porsche-synthetic-efuel-clean-emissions-testing/
 > https://news.ycombinator.com/item?id=29650899
 

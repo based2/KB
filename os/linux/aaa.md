@@ -80,6 +80,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=systemd-250
+
 https://tuxphones.com/mobile-linux-phone-desktop-environments-de-comparison-interfaces/
 
 https://framagit.org/LeDub/Pierre_de_Rosette-apt-dnf/-/blob/main/README.md

@@ -54,6 +54,9 @@ https://eisel.me/devtool-allocators
 > https://news.ycombinator.com/item?id=29068828
 
 # M1
+https://unum.cloud/post/2021-12-21-macbook/
+> https://news.ycombinator.com/item?id=29670624
+
 https://twitter.com/VadimYuryev/status/1466526403331952644
 > https://news.ycombinator.com/item?id=29427316
 

@@ -22,6 +22,10 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://render.com/docs/blueprint-spec
+
+https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production
+
 https://nsirap.com/posts/045-not-devops-but-devcloud-guy/
 
 https://cuetorials.com/first-steps/generate-all-the-things/

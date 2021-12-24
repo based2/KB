@@ -25,6 +25,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://exploringjs.com/impatient-js/toc.html
+
 https://www.mattblaze.org/blog/faraday/
 > https://news.ycombinator.com/item?id=29413774
 

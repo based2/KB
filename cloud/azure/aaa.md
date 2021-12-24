@@ -6,6 +6,8 @@ https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-
 https://github.com/jsa2/aad-auth-n-z
 
 # News
+https://www.theregister.com/2021/12/24/azure_app_service_not_legit_source_code_leak/ ChaosDB OMIGOD
+
 https://news.ycombinator.com/item?id=29593025 dns
 
 https://news.ycombinator.com/item?id=29574027 outage

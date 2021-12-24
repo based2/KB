@@ -40,6 +40,8 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://www.theregister.com/2021/12/21/nca_finds_255m_fresh_stolen_passwords/
+
 https://vitalyparnas.com/guides/pass/
 > https://news.ycombinator.com/item?id=29577272
 

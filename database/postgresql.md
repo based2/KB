@@ -217,6 +217,8 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://pawelurbanek.com/postgresql-fix-performance
+
 https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/
 > https://news.ycombinator.com/item?id=29647645
 

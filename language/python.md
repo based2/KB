@@ -34,7 +34,6 @@ https://mnemic.readthedocs.io/en/main/index.html
 https://snarky.ca/unravelling-the-async-with-statement/
 
 https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/
-> 
 
 # Build
 https://github.com/mesonbuild/meson
@@ -188,6 +187,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://blog.jonlu.ca/posts/async-python-http
+> https://news.ycombinator.com/item?id=29674033
+
+https://github.com/pathbird/poetry-kernel
+> https://github.com/pathbird/poetry-kernel
+
 https://devguide.python.org/#status-of-python-branches Python 3.6 EOL
 
 http://blog.ezyang.com/2020/10/idiomatic-algebraic-data-types-in-python-with-dataclasses-and-union/

@@ -36,6 +36,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://iximiuz.com/en/posts/containers-101-attach-vs-exec/?utm_medium=social&utm_source=twitter
+
 https://danluu.com/cgroup-throttling/
 
 https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c

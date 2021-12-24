@@ -46,6 +46,8 @@ https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://www.electronicdesign.com/industrial-automation/article/21804924/rust-and-spark-software-reliability-for-everyone
+
 https://blog.adacore.com/ada-on-any-arm-cortex-m-device-in-just-a-couple-minutes
 > https://news.ycombinator.com/item?id=29191760
 

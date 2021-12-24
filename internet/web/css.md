@@ -7,6 +7,7 @@ https://www.joshwcomeau.com/css/styled-components/
 https://css4.pub/ CSS for Publishing
 
 http://www.csszengarden.com/
+> https://news.ycombinator.com/item?id=29668910
 
 https://www.joshwcomeau.com/animation/css-transitions/
 > https://news.ycombinator.com/item?id=26274516

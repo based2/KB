@@ -161,6 +161,8 @@ https://joplinapp.org/
 # Collaboration
 https://jami.net/the-jami-conferencing-system/
 
+https://jami.net/taranis-a-major-release-of-jami/
+
 https://github.com/fmeringdal/nettu-meet Dashboard
 > https://news.ycombinator.com/item?id=27434254
 
@@ -187,6 +189,17 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.darktable.org/2021/12/darktable-3.8.0-released/ HEIF/HEIC
+> https://news.ycombinator.com/item?id=29672729
+
+https://joinfediverse.wiki/Main_Page
+
+https://www.home-assistant.io/blog/2021/12/23/the-open-home/
+
+https://raymii.org/s/blog/Selling_GPL_Software_part_1_lots_of_hurdles.html
+
+https://sovereigntechfund.de/en
+
 https://mycroft.ai/
 
 https://protesilaos.com/codelog/2021-04-16-emacs-moral-lessons/

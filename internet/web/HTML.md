@@ -125,6 +125,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://css-tricks.com/a-whole-website-in-a-single-html-file/
+> https://news.ycombinator.com/item?id=29668260
+
 https://www.ctrl.blog/entry/html-responsive-video.html
 > https://news.ycombinator.com/item?id=29024868
 

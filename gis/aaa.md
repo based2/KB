@@ -167,6 +167,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://eox.at/2021/08/average-colors-of-the-world/
+> https://news.ycombinator.com/item?id=29669961
+
 https://news.ycombinator.com/item?id=29627105
 
 https://www.helenmakesmaps.com/post/how-to-use-blending-modes-in-mapping

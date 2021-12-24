@@ -30,6 +30,8 @@ http://www.cm.org/faq.html
 
 https://arnaque-telephone.com/
 
+https://www.33700.fr/identifier-et-signaler-un-spam-sms/#comment-signaler-spam-sms
+
 # Security
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/
@@ -98,6 +100,11 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://protonmail.com/support/knowledge-base/email-tracker-protection/
+
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical
+> https://news.ycombinator.com/item?id=29672846
+
 https://news.ycombinator.com/item?id=29602203 Protonmail was identified as spam in Gmail
 
 https://twitter.com/bradwolverton/status/1403487267017089035?s=20

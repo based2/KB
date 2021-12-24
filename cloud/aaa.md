@@ -22,7 +22,11 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.theregister.com/2021/12/23/db2_where_are_you/
+
 https://therecord.media/microsoft-notifies-customers-of-azure-bug-that-exposed-their-source-code/
+
+https://news.ycombinator.com/item?id=29648325 heroku
 
 https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/
 

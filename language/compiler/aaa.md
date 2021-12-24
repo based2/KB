@@ -95,6 +95,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://fasterthanli.me/articles/game-distrib
+
 http://0x80.pl/notesen/2021-12-22-test-and-clear-bit.html
 > https://news.ycombinator.com/item?id=29654056
 

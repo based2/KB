@@ -9,6 +9,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://github.com/einaregilsson/Redirector
+> https://news.ycombinator.com/item?id=29665373
+
 https://techsparx.com/software-development/security/csp-camera-microphone.html GoogleSyndication.com
 > https://news.ycombinator.com/item?id=29614648
 

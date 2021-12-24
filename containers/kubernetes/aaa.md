@@ -62,6 +62,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://kubevious.io/
+> https://blog.stephane-robert.info/post/kubernetes-tableau-bord-kubevious/
+
 https://joshgav.github.io/2021/12/16/kubernetes-isnt-about-containers.html
 
 https://kubernetes.io/blog/2021/12/08/dual-stack-networking-ga/

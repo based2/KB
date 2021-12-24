@@ -166,12 +166,16 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > > https://news.ycombinator.com/item?id=29640474
 > https://apnews.com/article/technology-business-poland-hacking-warsaw-8b52e16d1af60f9c324cf9f5099b687e
 > > https://news.ycombinator.com/item?id=29648072
-https://www.gigasheet.co/post/aws-account-takeover-via-log4shell
+> https://www.gigasheet.co/post/aws-account-takeover-via-log4shell
+> > https://news.ycombinator.com/item?id=29654828
 > https://www.scmp.com/tech/big-tech/article/3160670/apache-log4j-bug-chinas-industry-ministry-pulls-support-alibaba-cloud
 > > https://news.ycombinator.com/item?id=29658342
 > https://www.theregister.com/2021/12/21/belgium_defence_ministry_log4j_exploited/
 > https://www.trendmicro.com/en_us/research/21/l/examining-log4j-vulnerabilities-in-connected-cars.html
 > > https://www.reddit.com/r/netsec/comments/rn12vl/examining_log4j_vulnerabilities_in_connected_cars/
+> https://cyber.gc.ca/fr/avis/exploitation-active-de-la-vulnerabilite-apache-log4j
+> https://twitter.com/moyix/status/1471714222358814721 Putting a JNDI log4j trigger in my email signature so I can see if anyone’s logging copies of my mail
+> > https://www.reddit.com/r/programming/comments/rij787/putting_a_jndi_log4j_trigger_in_my_email/
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

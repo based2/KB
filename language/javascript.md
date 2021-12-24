@@ -327,6 +327,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://thenewstack.io/predictions-for-the-jamstack-in-2022/
+
+https://exploringjs.com/impatient-js/toc.html
+
 https://upfrontjs.com/ Data handling framework complementary to active records
 > https://news.ycombinator.com/item?id=29635932
 

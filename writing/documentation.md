@@ -21,3 +21,6 @@ https://github.com/asciidoctor/asciidoclet
 # Latex
 https://tikz.net/
 > https://news.ycombinator.com/item?id=28260875
+
+https://latex-cookbook.net/
+> https://news.ycombinator.com/item?id=29672872

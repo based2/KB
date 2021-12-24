@@ -19,3 +19,6 @@ https://modern.ircdocs.horse/
 
 https://docs.modernxmpp.org/
 > https://news.ycombinator.com/item?id=28276266
+
+https://ssbc.github.io/scuttlebutt-protocol-guide/
+> https://news.ycombinator.com/item?id=29672518

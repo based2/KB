@@ -20,6 +20,9 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.systems.cs.cornell.edu/docs/fincen-cvc-guidance-final.pdf
+> https://twitter.com/el33th4xor/status/1126527690264195082
+
 https://thatsmyape.com/
 > https://news.ycombinator.com/item?id=29664369
 
