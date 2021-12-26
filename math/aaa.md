@@ -83,6 +83,13 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://github.com/thehottgame/TheHoTTGame Homotopy Type Theory (HoTT) Game
+
+https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html
+> https://news.ycombinator.com/item?id=29695281
+
+https://en.wikipedia.org/wiki/Measurable_function
+
 https://www.euclidea.xyz/en/game/packs/Alpha/level/TEquilateral
 
 https://speedcrunch.org/

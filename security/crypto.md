@@ -94,6 +94,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://github.com/cyphar/paperback
+> https://news.ycombinator.com/item?id=29691021
+
 https://coderoasis.com/implementing-rsa-from-scratch-in-python/
 > https://news.ycombinator.com/item?id=29621574
 

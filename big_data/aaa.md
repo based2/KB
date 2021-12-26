@@ -216,6 +216,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://chollinger.com/blog/2021/02/bad-data-and-data-engineering-dissecting-google-play-music-takeout-data-using-beam-go-python-and-sql/
+
 https://arxiv.org/abs/1909.10140 A new coefficient of correlation
 > https://news.ycombinator.com/item?id=29687613
 

@@ -82,6 +82,8 @@ https://github.com/tylertreat/comcast
 https://github.com/honzaap/Systemizer system design tool used to create and simulate large scale distributed systems
 
 # News
+https://dthain.blogspot.com/2009/02/exponential-backoff-in-distributed.html
+
 https://julialang.org/blog/2021/12/dtable-performance-assessment/
 > https://news.ycombinator.com/item?id=29487655
 

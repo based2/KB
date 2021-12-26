@@ -65,6 +65,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.infoq.com/articles/Obevo-Introduction/
+> https://github.com/goldmansachs/obevo
+
 https://www.youtube.com/watch?v=tGzJ8F9rC1s Ultorg: A General-Purpose User Interface for Relational Databases
 > https://news.ycombinator.com/item?id=29647880
 > > http://www.ultorg.com/

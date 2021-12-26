@@ -327,6 +327,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://htmx.org/essays/a-response-to-rich-harris/
+
 https://thenewstack.io/predictions-for-the-jamstack-in-2022/
 
 https://exploringjs.com/impatient-js/toc.html

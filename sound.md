@@ -64,6 +64,10 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://vcvrack.com/
+
+https://tabletopy.com/
+
 https://www.modulargrid.net/
 > https://news.ycombinator.com/item?id=29650075
 

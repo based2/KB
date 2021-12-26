@@ -116,3 +116,7 @@ https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319
 
 https://github.com/mockoon/mockoon
+
+# News
+https://twitter.com/antonmedv/status/1474838597991813127
+> https://lobste.rs/s/of4pd4/simplest_web_server_while_nc

@@ -65,6 +65,8 @@ https://www.youtube.com/watch?v=3pRhvQi7Z10 2019 LLVM Developers’ Meeting: “
 
 https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups
 
+https://github.com/alt-romes/llvm-c-search
+
 ## Clang
 https://reviews.llvm.org/D108643
 

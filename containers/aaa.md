@@ -36,7 +36,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.utam0k.jp/en/blog/2021/12/27/youki_first_release/ Rust
+> https://github.com/containers/youki
+
 https://danluu.com/cgroup-throttling/
+> https://news.ycombinator.com/item?id=29690769
 
 https://iximiuz.com/en/posts/containers-101-attach-vs-exec/?utm_medium=social&utm_source=twitter
 

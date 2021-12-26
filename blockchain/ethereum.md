@@ -13,6 +13,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.tomshardware.com/news/gamers-rejoice-ethereum-reminds-gpu-miners-the-end-is-near
+
 https://www.bis.org/publ/qtrpdf/r_qt2112b.htm
 > https://news.ycombinator.com/item?id=29629232
 

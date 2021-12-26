@@ -1,3 +1,16 @@
+https://www.bleepingcomputer.com/news/apple/apple-fixes-macos-security-flaw-behind-gatekeeper-bypass/
+
+https://www.bleepingcomputer.com/news/security/blackmagic-fixes-critical-davinci-resolve-code-execution-flaws/
+
+https://pretalx.c3voc.de/rc3-2021-r3s/talk/QMYGR3/ 1024 bit AES
+> https://www.reddit.com/r/blueteamsec/comments/rovzmd/practical_bruteforce_of_military_grade_aes1024/
+
+https://github.com/rabbitstack/fibratus windows
+
+https://github.com/Yamato-Security/WELA windows
+
+https://reverse.put.as/2021/12/17/knock-knock-whos-there/
+
 https://youst.in/posts/cache-poisoning-at-scale/
 > https://news.ycombinator.com/item?id=29657176
 

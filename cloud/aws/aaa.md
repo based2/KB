@@ -70,6 +70,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 
 # News
 https://www.theregister.com/2021/12/22/aws_outage/ US-EAST-1
+> https://www.infoq.com/news/2021/12/aws-outage-postmortem/
+> > https://news.ycombinator.com/item?id=29688878
 
 https://news.ycombinator.com/item?id=29648286
 

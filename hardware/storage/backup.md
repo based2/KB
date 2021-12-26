@@ -32,6 +32,8 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://forum.acronis.com/forum/topic/reflecting-post-ati-world
+
 https://freefilesync.org/
 > https://news.ycombinator.com/item?id=29661539
 

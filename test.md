@@ -45,6 +45,9 @@ https://news.ycombinator.com/item?id=29031488
 https://ably.com/blog/how-we-load-tested-control-api
 > https://news.ycombinator.com/item?id=29164177
 
+https://github.com/wg/wrk
+> https://github.com/anio/wrk-utils
+
 # TDD
 https://factorio.com/blog/post/fff-366
 > https://news.ycombinator.com/item?id=27549143

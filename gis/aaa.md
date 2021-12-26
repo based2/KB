@@ -1,3 +1,6 @@
+https://www.cybertec-postgresql.com/en/getting-started-qgis-postgresql-postgis/
+> https://news.ycombinator.com/item?id=29691474
+
 https://www.qgis.org/
 
 http://www.zoo-project.org/

@@ -42,7 +42,6 @@ https://ciechanow.ski/naval-architecture/
 https://physicsworld.com/a/introducing-the-non-radiating-antenna/
 > https://news.ycombinator.com/item?id=28107996
 
-
 # Particle
 https://phys.org/news/2021-07-exotic-particle-tetraquark.html
 > https://news.ycombinator.com/item?id=28008771
@@ -52,7 +51,11 @@ https://www.nature.com/articles/d41586-021-02657-6
 https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/
 > https://news.ycombinator.com/item?id=29026673
 
+https://www.franceculture.fr/emissions/la-methode-scientifique/positronium-un-parfum-dexotisme
+
 # News
+https://cleantechnica.com/2021/12/20/selective-separation-could-help-alleviate-critical-metals-shortage/
+
 https://cds.cern.ch/collection/CERN%20Courier%20Issues
 
 https://mattferraro.dev/posts/joule-thomson

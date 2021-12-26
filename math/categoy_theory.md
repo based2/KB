@@ -14,3 +14,6 @@ https://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf Domain Theory
 
 https://discourse.julialang.org/t/ann-c3t-crash-course-category-theory/73392
 > https://news.ycombinator.com/item?id=29640873
+
+https://github.com/prathyvsh/category-theory-resources
+> https://math.ucr.edu/home/baez/rosetta.pdf

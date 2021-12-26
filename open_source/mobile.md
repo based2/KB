@@ -26,6 +26,8 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://old.reddit.com/r/degoogle/comments/rosdbu/100_foss_smartphone_hardening_nonroot_guide_40/
+
 https://e.foundation/about-e/
 
 https://ubports.com/en/blog/ubports-blogs-et-nouvelles-1/post/ubuntu-touch-ota-19-release-3779

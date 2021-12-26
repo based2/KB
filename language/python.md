@@ -187,6 +187,11 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://pyherald.com/
+
+https://tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/
+> https://news.ycombinator.com/item?id=29692287
+
 https://stackoverflow.com/questions/739654/how-to-make-function-decorators-and-chain-them-together#answer-739665
 
 https://github.com/HUSKI3/Perry JS UI components

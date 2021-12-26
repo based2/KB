@@ -1,3 +1,6 @@
+https://olegkutkov.me/2021/12/25/analysis-and-reverse-engineering-of-the-original-starlink-router/
+> https://news.ycombinator.com/item?id=296
+
 https://www.righto.com/2021/12/yamaha-dx7-reverse-engineering-part-iii.html
 
 https://www.codereversing.com/blog/archives/420 Reverse Engineering REST APIs: Introduction (1/12)

@@ -86,6 +86,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.avweb.com/aviation-news/faa-shows-sample-notams-for-possible-5g-restrictions/
+> https://news.ycombinator.com/item?id=29694085
+
 https://www.cinia.fi/en/blog/blog/cinias-subsea-cable-to-connect-asia-europe-and-north-america-through-the-arctic-in-2025
 > https://news.ycombinator.com/item?id=29672408
 

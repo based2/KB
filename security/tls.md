@@ -115,6 +115,10 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://github.com/octeep/idris2-tls
+
+https://github.com/drwetter/testssl.sh
+
 https://gist.github.com/Hakky54/ee12534594a3e35f48e18a16e42c7f40 Cheat Sheet - Http Client SSL TLS Configuration for Java, Kotlin and Scala with example http requests
 
 https://tlsnotary.org/

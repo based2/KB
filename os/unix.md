@@ -37,3 +37,5 @@ https://utcc.utoronto.ca/~cks/space/blog/unix/SbrkVersusMmap
 
 https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf
 > https://news.ycombinator.com/item?id=29571997
+
+http://blog.kember.net/articles/reisub-the-gentle-linux-restart/

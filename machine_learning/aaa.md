@@ -253,6 +253,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/yaglm/yaglm Python Yet another generalized linear model package
+
+https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence
+
 https://paperswithcode.com/
 > https://news.ycombinator.com/item?id=29688214
 

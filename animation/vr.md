@@ -1,3 +1,6 @@
+https://mlajtos.mu/posts/your-next-mac
+> https://news.ycombinator.com/item?id=29693434
+
 https://opensource.googleblog.com/2021/01/the-future-of-tilt-brush.html
 
 https://arstechnica.com/gadgets/2021/12/google-is-building-a-new-augmented-reality-device-and-operating-system/

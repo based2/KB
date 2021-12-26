@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.energy.gov/eere/vehicles/articles/fotw-1217-december-20-2021-thirteen-new-electric-vehicle-battery-plants-are
+
 https://www.solarquotes.com.au/blog/redflow-california-battery-mb2282/
 
 https://energysuperhuboxford.org/uks-largest-flow-battery-energised-at-energy-superhub-oxford/

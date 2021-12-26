@@ -100,6 +100,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://andycallaghan.com/posts/deploy-a-gmail-like-email-server-in-30-minutes/
+
 https://protonmail.com/support/knowledge-base/email-tracker-protection/
 
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailServersNoLongerPractical

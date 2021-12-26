@@ -19,6 +19,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://electronut.in//mico/ PDM to USB microphone based on the Raspberry Pi RP2040
+> https://news.ycombinator.com/item?id=29691647
+
 https://www.theverge.com/2021/12/23/22852051/anker-usb-c-4-port-120w-power-brick-547-charger
 > https://news.ycombinator.com/item?id=29683521
 
