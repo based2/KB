@@ -189,6 +189,16 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/
+> https://lobste.rs/s/zfkomb/why_you_probably_shouldn_t_add_cla_your
+
+https://okfn.de/en/
+
+https://guix.gnu.org/en/blog/2020/securing-updates/
+
+https://prototypefund.de/en/
+> https://news.ycombinator.com/item?id=29683331
+
 https://www.darktable.org/2021/12/darktable-3.8.0-released/ HEIF/HEIC
 > https://news.ycombinator.com/item?id=29672729
 

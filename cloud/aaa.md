@@ -22,6 +22,9 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html
+> https://news.ycombinator.com/item?id=29687960
+
 https://www.theregister.com/2021/12/23/db2_where_are_you/
 
 https://therecord.media/microsoft-notifies-customers-of-azure-bug-that-exposed-their-source-code/

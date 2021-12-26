@@ -36,6 +36,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://danluu.com/cgroup-throttling/
+
 https://iximiuz.com/en/posts/containers-101-attach-vs-exec/?utm_medium=social&utm_source=twitter
 
 https://danluu.com/cgroup-throttling/

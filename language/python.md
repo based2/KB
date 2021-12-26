@@ -187,6 +187,16 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://stackoverflow.com/questions/739654/how-to-make-function-decorators-and-chain-them-together#answer-739665
+
+https://github.com/HUSKI3/Perry JS UI components
+
+https://glyph.twistedmatrix.com/2016/08/attrs.html
+> https://news.ycombinator.com/item?id=29677238
+
+https://gto76.github.io/python-cheatsheet/
+> https://news.ycombinator.com/item?id=29679788
+
 https://blog.jonlu.ca/posts/async-python-http
 > https://news.ycombinator.com/item?id=29674033
 

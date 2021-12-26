@@ -96,6 +96,9 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://rachelbythebay.com/w/2021/12/24/mkdir/
+> https://news.ycombinator.com/item?id=29679882
+
 https://www.pixelbeat.org/docs/coreutils-testing.html
 > https://news.ycombinator.com/item?id=29459185
 

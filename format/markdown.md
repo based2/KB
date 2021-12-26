@@ -12,3 +12,6 @@ https://marktext.app/
 
 https://arnaud.at/raito/#/
 > https://news.ycombinator.com/item?id=29447480
+
+https://github.com/marktext/marktext
+> https://news.ycombinator.com/item?id=29687061

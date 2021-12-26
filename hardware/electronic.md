@@ -15,6 +15,9 @@ https://www.nutsvolts.com/magazine/article/calculating_current
 
 https://techexplorations.com/blog/kicad/kicad-6-review-new-and-improved-features/
 
+https://pinouts.org/
+> https://news.ycombinator.com/item?id=29681373
+
 # Microcontroller
 https://github.com/TUDSSL/BFree
 > https://news.ycombinator.com/item?id=29358044

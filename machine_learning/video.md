@@ -39,6 +39,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://github.com/philip-huang/PIXOR
+> https://news.ycombinator.com/item?id=29688150
+
 https://about.fb.com/news/2021/12/using-ai-to-animate-childrens-drawings/
 > https://news.ycombinator.com/item?id=29580619
 

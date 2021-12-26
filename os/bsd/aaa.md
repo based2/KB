@@ -81,15 +81,18 @@ https://www.freebsd.org/releases/12.3R/announce/
 https://docs.freebsd.org/en/books/handbook/introduction/
 > https://news.ycombinator.com/item?id=29566806
 
-## News
-https://www.freebsd.org/status/report-2021-07-2021-09/
-> https://news.ycombinator.com/item?id=29230322
+https://blog.tyk.nu/blog/freebsd-jails-and-sysv-ipc/
 
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://rocinante.sh/
+
+https://www.freebsd.org/status/report-2021-07-2021-09/
+> https://news.ycombinator.com/item?id=29230322
+
 https://docs.freebsd.org/en/articles/bsdl-gpl/#bsd-advantages
 
 https://dataswamp.org/~solene/2021-10-09-openbsd-wireguard-exit.html

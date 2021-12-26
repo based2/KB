@@ -24,6 +24,12 @@ https://phoboslab.org/log/2021/12/qoi-specification
 > https://news.ycombinator.com/item?id=29625084
 
 # News
+https://jarbus.net/blog/write-latex-without-latex/
+> https://news.ycombinator.com/item?id=29687840
+
+https://www.thanassis.space/asn1.html
+> https://news.ycombinator.com/item?id=29681175
+
 https://github.com/wader/fq Tool, language and decoders for inspecting binary data
 > https://github.com/wader/fq/tree/master/format
 > https://news.ycombinator.com/item?id=29657094

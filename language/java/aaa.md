@@ -253,6 +253,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/Randgalt/expressive-java
+> https://www.reddit.com/r/java/comments/rnoz2q/expressivejava_reimplementing_a_simple_scala/
+
 https://openjdk.java.net/projects/valhalla/design-notes/state-of-valhalla/01-background
 > https://news.ycombinator.com/item?id=29666279
 

@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://www.brainboard.co/features/terraform-import
+
 https://render.com/docs/blueprint-spec
 
 https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production

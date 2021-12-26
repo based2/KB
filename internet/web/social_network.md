@@ -26,6 +26,10 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://salut-a-toi.org/ XMPP GPL
+> https://linuxfr.org/news/libervia-v0-8-la-cecilia
+> https://nlnet.nl/
+
 https://www.nytimes.com/interactive/2021/12/20/technology/china-facebook-twitter-influence-manipulation.html
 > https://news.ycombinator.com/item?id=29654137
 

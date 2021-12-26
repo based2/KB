@@ -19,6 +19,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://www.theverge.com/2021/12/23/22852051/anker-usb-c-4-port-120w-power-brick-547-charger
+> https://news.ycombinator.com/item?id=29683521
+
 https://github.com/haimgel/display-switch Turn a $30 USB switch into a full-featured KVM
 > https://news.ycombinator.com/item?id=29608967
 

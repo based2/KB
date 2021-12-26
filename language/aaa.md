@@ -198,6 +198,8 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://news.ycombinator.com/item?id=29685302 Do you know any computer language where collections are unified?
+
 https://clean.cs.ru.nl/Clean Better Haskell to C, only used for research and a masters degree course course
 > https://news.ycombinator.com/item?id=29659269
 > > https://en.wikipedia.org/wiki/Uniqueness_type

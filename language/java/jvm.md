@@ -53,6 +53,8 @@ https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_
 https://www.youtube.com/watch?v=88E86quLmQA&t=1750s ZGC: The Next Generation Low-Latency Garbage Collector
 
 # News
+https://plasma-umass.org/doppio-demo/ in JavaScript.
+
 https://aws.amazon.com/en/blogs/developer/announcing-preview-release-for-the-generational-mode-to-the-shenandoah-gc/
 > https://www.reddit.com/r/java/comments/r9gbmb/announcing_preview_release_for_the_generational/
 

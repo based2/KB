@@ -95,6 +95,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://blog.matthewdmiller.net/introduction-to-the-sam-text-editor
+> https://news.ycombinator.com/item?id=29677252
+
 https://news.ycombinator.com/item?id=29586062
 
 https://blog.rfox.eu/en/Programming/Tools_I_use/Tools_I_use_PyCharm_-_Idea_plugins.html

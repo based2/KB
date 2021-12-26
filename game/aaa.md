@@ -10,3 +10,7 @@ https://github.com/iamandras/isometric
 
 https://danielyxie.github.io/bitburner/
 > https://news.ycombinator.com/item?id=29581110
+
+# News
+https://www.thegamer.com/steam-banned-china-christmas-day/
+> https://news.ycombinator.com/item?id=29682201

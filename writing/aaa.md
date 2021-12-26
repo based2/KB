@@ -34,5 +34,8 @@ https://karthinks.com/software/latex-input-for-impatient-scholars/
 
 https://dramatica.com/resources/assets/dramatica-theory-book.pdf
 
+https://blog.klipse.tech/book/2021/12/19/100-things-I-learned-with-data-oriented-programming.html
+> https://news.ycombinator.com/item?id=29687935
+
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?

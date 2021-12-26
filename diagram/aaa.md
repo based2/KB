@@ -115,6 +115,9 @@ https://asciiflow.com/#/
 https://mannhowie.com/finite-state-machines
 
 # News
+https://penrose.ink/siggraph20.html
+> https://news.ycombinator.com/item?id=29674986
+
 https://dragonman225.js.org/curved-arrows.html
 > https://news.ycombinator.com/item?id=29652139
 

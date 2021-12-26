@@ -16,8 +16,10 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
-https://maanaelectric.com/terrestrial_solutions/
+https://www.mobile-solarpower.com/
+> https://news.ycombinator.com/item?id=29688907
 
+https://maanaelectric.com/terrestrial_solutions/
 
 https://www.cam.ac.uk/research/news/mystery-of-high-performing-solar-cell-materials-revealed-in-stunning-clarity
 

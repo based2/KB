@@ -44,6 +44,9 @@ https://stackoverflow.com/questions/24069664/what-does-go-install-do
 
 https://github.com/goreleaser/goreleaser
 
+https://github.com/TekWizely/bingo Install
+> https://news.ycombinator.com/item?id=29690251
+
 # UI
 https://www.vugu.org/
 > https://news.ycombinator.com/item?id=26836366

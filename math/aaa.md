@@ -83,6 +83,8 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://www.euclidea.xyz/en/game/packs/Alpha/level/TEquilateral
+
 https://speedcrunch.org/
 > https://news.ycombinator.com/item?id=29661485
 

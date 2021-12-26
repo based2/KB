@@ -60,7 +60,12 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # 
-https://metaheads.xyz/
+https://github.com/mwmbl/mwmbl Python GPL
+> https://mwmbl.org/
+> https://news.ycombinator.com/item?id=29690877
+> > https://search.brave.com/
+
+https://metaheads.xyz/ FB us
 > https://news.ycombinator.com/item?id=29649021
 
 https://search.carrot2.org/#/search/web

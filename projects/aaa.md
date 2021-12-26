@@ -179,6 +179,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://www.rubick.com/milestones-not-projects/
+> https://news.ycombinator.com/item?id=29678625
+
 https://news.ycombinator.com/item?id=29621492
 
 https://bellmar.medium.com/hunting-tech-debt-via-org-charts-92df0b253145

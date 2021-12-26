@@ -61,6 +61,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/galvez/typejuice
+> 
+
 https://medium.com/@Pilot-EPD-Blog/typescript-for-pythonistas-f90bbb297f0a
 > https://news.ycombinator.com/item?id=29574948
 

@@ -127,6 +127,9 @@ https://earthquake.usgs.gov/earthquakes/map/?extent=32.06396,-149.37012&extent=5
 https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?layers=158%2C164&bbox=440542.6277594727%2C6334693.254563688%2C733340.9912308848%2C6454207.077243195
 > https://news.ycombinator.com/item?id=29640624
 
+https://www.nps.gov/subjects/sound/soundmap.htm
+> https://news.ycombinator.com/item?id=29688423
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 

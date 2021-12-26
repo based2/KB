@@ -1,3 +1,6 @@
+https://en.wikipedia.org/wiki/Web_service
+
+https://tkareine.org/articles/suppressing-duplicate-requests-in-web-services.html
 
 # curl
 https://curl.se/

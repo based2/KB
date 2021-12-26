@@ -216,6 +216,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://arxiv.org/abs/1909.10140 A new coefficient of correlation
+> https://news.ycombinator.com/item?id=29687613
+
 https://miller.readthedocs.io/en/latest/ querying, shaping, and reformatting data files in various formats including CSV, TSV, and JSON.
 > https://news.ycombinator.com/item?id=29651871
 

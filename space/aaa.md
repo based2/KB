@@ -116,6 +116,10 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/
+
+https://jwst.nasa.gov/content/webbLaunch/whereIsWebb.html
+
 https://arstechnica.com/science/2021/12/a-sublime-landscape-new-model-explains-plutos-lumpy-plains/
 
 https://www.nationalgeographic.com/science/article/the-universe-is-expanding-faster-than-it-should-be

@@ -253,6 +253,18 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://paperswithcode.com/
+> https://news.ycombinator.com/item?id=29688214
+
+https://fakeyou.com/ sound
+> https://news.ycombinator.com/item?id=29688048
+
+https://distill.pub/2020/circuits/zoom-in/
+> https://news.ycombinator.com/item?id=29682465
+
+https://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/
+> https://news.ycombinator.com/item?id=29682507
+
 https://opensource.googleblog.com/2021/12/Boosting%20Machine%20Learning%20with%20tailored%20accelerators%20Custom%20Function%20Units%20in%20Renode.html
 
 https://spectrum.ieee.org/new-devices-for-analog-ai  Promise of Analog AI Feeds Neural Net Hardware Pipeline, Exotic technologies could lead to ultra-low-power AI applications

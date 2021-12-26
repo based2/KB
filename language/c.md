@@ -72,6 +72,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://www.thanassis.space/cpp.html
+> https://news.ycombinator.com/item?id=29680925
+
 https://jcs.org/2021/12/18/chat
 
 https://github.com/google/sandboxed-api

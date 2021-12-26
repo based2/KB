@@ -104,3 +104,5 @@ https://gleam.run/news/gleam-v0.15-released/
 https://www.erlang.org/blog/parallel-signal-sending-optimization/
 
 https://www.erlang.org/news/151 Announcing the new erlang.org
+
+https://web.archive.org/web/20171216025653/http://inaka.net/blog/2013/09/05/from-erlang-to-java-and-back-again-1

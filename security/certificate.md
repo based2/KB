@@ -30,6 +30,10 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # News
+https://www.cs.auckland.ac.nz/~pgut001/pubs/x509guide.txt
+
+https://emilymstark.com/2021/12/24/when-a-web-pki-certificate-wont-cut-it.html
+
 https://www.theregister.com/2021/11/19/web_trust_certificates/
 > https://news.ycombinator.com/item?id=29287888
 > > https://en.wikipedia.org/wiki/DNS-based_Authentication_of_Named_Entities

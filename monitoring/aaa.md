@@ -67,6 +67,9 @@ https://thanos.io/ Open source, highly available Prometheus setup with long term
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://nbailey.ca/post/simple-alerts/
+> https://news.ycombinator.com/item?id=29687875
+
 https://www.jigdev.com/
 > 
 
