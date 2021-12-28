@@ -216,6 +216,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://phys.org/news/2021-12-alternative-statistical-method-clinical-trials.html
+> https://news.ycombinator.com/item?id=29698371
+
 https://chollinger.com/blog/2021/02/bad-data-and-data-engineering-dissecting-google-play-music-takeout-data-using-beam-go-python-and-sql/
 
 https://arxiv.org/abs/1909.10140 A new coefficient of correlation

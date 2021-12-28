@@ -1,3 +1,6 @@
+https://simulavr.com/blog/vr-comparison/
+> https://news.ycombinator.com/item?id=29699702
+
 https://mlajtos.mu/posts/your-next-mac
 > https://news.ycombinator.com/item?id=29693434
 

@@ -65,6 +65,8 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://github.com/codenotary/immudb go
+
 https://www.infoq.com/articles/Obevo-Introduction/
 > https://github.com/goldmansachs/obevo
 

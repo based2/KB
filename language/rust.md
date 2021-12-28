@@ -279,6 +279,8 @@ https://www.infoq.com/news/2021/11/rudra-rust-safety/
 https://pvk.ca/Blog/2021/08/01/slitter-a-less-footgunny-slab-allocator/
 > https://news.ycombinator.com/item?id=29589387
 
+https://rustsec.org/advisories/RUSTSEC-2021-0121.html Non-aligned u32 read in Chacha20 encryption and decryption
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

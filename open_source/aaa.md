@@ -189,6 +189,10 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable/
+> https://e-addons.com/
+> https://news.ycombinator.com/item?id=29703070
+
 https://ben.balter.com/2018/01/02/why-you-probably-shouldnt-add-a-cla-to-your-open-source-project/
 > https://lobste.rs/s/zfkomb/why_you_probably_shouldn_t_add_cla_your
 

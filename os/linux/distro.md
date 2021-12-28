@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://gobolinux.org/ redefines the entire filesystem hierarchy, ilesystem is the database: each program resides in its own directory
+> https://news.ycombinator.com/item?id=29714825
+
 https://trisquel.info/en Libre
 > https://news.ycombinator.com/item?id=29674352
 

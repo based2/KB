@@ -9,6 +9,7 @@ http://ipfs.io/ Kademlia + BitTorrent
   > https://news.ycombinator.com/item?id=27883329
 > https://fiatjaf.com/d5031e5b.html How IPFS is broken
 > > https://news.ycombinator.com/item?id=29656139
+> https://nitter.1d4.us/fiatjaf/status/1289246273669697536
 
 https://libgen.fun/dweb.html
 > https://news.ycombinator.com/item?id=28585208

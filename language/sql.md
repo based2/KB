@@ -77,3 +77,7 @@ https://github.com/muhmud/qsh
 > https://news.ycombinator.com/item?id=28550874
 
 https://arctype.com/
+
+https://medium.com/codex/how-to-develop-your-distributed-sql-statement-in-apache-shardingsphere-2939eb689c61
+> https://medium.com/nerd-for-tech/intro-to-distsql-an-open-source-more-powerful-sql-bada4099211
+> https://shardingsphere.apache.org/document/current/en/overview/

@@ -63,6 +63,10 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://blog.senr.io/blog/jtag-explained
+
+https://www.tomshardware.com/news/researchers-develop-intelligent-transistors-uses-85-percent-fewer-transistors
+
 https://www.zdnet.com/article/samsung-completes-development-of-pcie-5-0-enterprise-ssd/
 
 https://linuxgizmos.com/10gbe-shows-up-on-linux-router-board-and-m-2-module/

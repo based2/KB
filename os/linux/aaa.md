@@ -80,6 +80,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://cloudnull.io/2017/05/nfs-mount-via-systemd/
+
 https://www.phoronix.com/scan.php?page=news_item&px=systemd-250
 
 https://tuxphones.com/mobile-linux-phone-desktop-environments-de-comparison-interfaces/

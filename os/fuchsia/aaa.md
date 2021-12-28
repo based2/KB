@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=gIT1ISCioDY A Tour of the Fuchsia Operating Syst
 https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.194-Released
 
 https://fuchsia.dev/fuchsia-src/contribute/testing/principles
+
+https://www.youtube.com/watch?v=DYaqzEbU0Vk 2021 LLVM Dev Mtg “Building an Operating System from Scratch with LLVM”

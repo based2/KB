@@ -68,6 +68,9 @@ https://github.com/pojntfx/keygaen Keygaen – Go WASM PWA for PGP
 
 https://sequoia-pgp.org/blog/2021/12/20/202112-openpgp-card-ci/
 
+https://gnupg.org/donate/index.html
+> https://news.ycombinator.com/item?id=29714752
+
 #
 https://media.ccc.de/v/34c3-9075-latticehacks
 

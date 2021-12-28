@@ -154,6 +154,8 @@ https://github.com/facebook/react/issues/11347 RFC: Plan for custom element attr
 https://blog.molecule.dev/the-only-custom-react-hooks-we-use/
 > https://news.ycombinator.com/item?id=29591816
 
+https://github.com/webeetle/react-headless-hooks
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -327,6 +329,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/garbles/concave
+> https://news.ycombinator.com/item?id=29703919
+
 https://htmx.org/essays/a-response-to-rich-harris/
 
 https://thenewstack.io/predictions-for-the-jamstack-in-2022/

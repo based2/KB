@@ -217,6 +217,10 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://heap.io/blog/optimizing-postgres-queries-at-scale
+
+https://blog.crunchydata.com/blog/randomly-sampling-data-using-sql-and-postgresql
+
 https://jezenthomas.com/fast-counting-with-postgresql-and-haskell/
 
 https://pawelurbanek.com/postgresql-fix-performance

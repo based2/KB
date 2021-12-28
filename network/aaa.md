@@ -93,6 +93,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://news.ycombinator.com/item?id=29702844 Ask HN: Please recommend a router without need for a cloud account
+
 https://www.jeffgeerling.com/blog/2021/check-your-driver-faster-linux-25g-networking-realtek-rtl8125b
 > https://news.ycombinator.com/item?id=29641904
 

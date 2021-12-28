@@ -44,8 +44,11 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://danielmangum.com/posts/risc-v-bytes-privilege-levels/
+
+https://danielmangum.com/risc-v-tips/2021-12-25-csr-clear-set-bits/
+
 https://hothardware.com/reviews/hifive-unmatched-a-risc-v-proposition
->
 
 https://github.com/ockam-network/ockam/tree/develop/documentation/use-cases/run-ockam-on-riscv
 

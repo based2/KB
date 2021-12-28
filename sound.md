@@ -64,7 +64,12 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://goughlui.com/2016/05/03/project-the-definitive-collection-of-v-90v-92-modem-sounds/
+> https://news.ycombinator.com/item?id=29708224
+
 https://vcvrack.com/
+> https://github.com/VCVRack/Rack
+> > https://news.ycombinator.com/item?id=29703014
 
 https://tabletopy.com/
 

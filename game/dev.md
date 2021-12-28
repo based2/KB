@@ -6,6 +6,9 @@ https://godotengine.org/article/multiplayer-changes-godot-4-0-report-2
 
 https://gameprogrammingpatterns.com/contents.html
 
+https://github.com/uralys/fox Tools to help develop with Godot Engine
+> https://news.ycombinator.com/item?id=29714408
+
 https://www.inklestudios.com/2021/02/22/ink-version-1.html Open-source scripting language for interactive narrative
 > https://news.ycombinator.com/item?id=26761100
 

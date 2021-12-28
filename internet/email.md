@@ -100,6 +100,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://computer.rip/2021-12-26-diy-mail.html
+> https://news.ycombinator.com/item?id=29699175
+
 https://andycallaghan.com/posts/deploy-a-gmail-like-email-server-in-30-minutes/
 
 https://protonmail.com/support/knowledge-base/email-tracker-protection/

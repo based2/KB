@@ -253,15 +253,18 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.numerama.com/tech/801811-connaissez-vous-le-paradoxe-de-r2-d2-lia-sous-influence-humaine.html
+
+https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own
+
+https://yang-song.github.io/blog/2021/score/ Generative Modeling by Estimating Gradients of the Data Distribution
+
 https://github.com/yaglm/yaglm Python Yet another generalized linear model package
 
 https://www.openphilanthropy.org/blog/some-background-our-views-regarding-advanced-artificial-intelligence
 
 https://paperswithcode.com/
 > https://news.ycombinator.com/item?id=29688214
-
-https://fakeyou.com/ sound
-> https://news.ycombinator.com/item?id=29688048
 
 https://distill.pub/2020/circuits/zoom-in/
 > https://news.ycombinator.com/item?id=29682465

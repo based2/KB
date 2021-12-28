@@ -14,6 +14,10 @@ https://linux.thai.net/~thep/datrie/datrie.html
 http://cslibrary.stanford.edu/109/TreeListRecursion.html
 > https://news.ycombinator.com/item?id=29067098
 
+https://ericlippert.com/2012/06/08/red-green-trees/ roselyn AST
+> https://news.ycombinator.com/item?id=29680692
+> > https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576
@@ -52,3 +56,7 @@ https://woodgears.ca/wood_strength/
 > https://news.ycombinator.com/item?id=29595232
 
 https://www.core77.com/posts/36044/The-Kanna-Finish-How-to-Get-Glass-Smooth-Surfaces-in-Wood-Without-Sandpaper-or-Varnish
+
+## Root
+https://images.wur.nl/digital/collection/coll13/search
+> https://news.ycombinator.com/item?id=29672733

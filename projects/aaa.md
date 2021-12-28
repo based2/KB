@@ -179,6 +179,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://blog.doubleloop.app/metrics-driven-product-development-is-hard/
+> https://news.ycombinator.com/item?id=29701074
+
 https://www.rubick.com/milestones-not-projects/
 > https://news.ycombinator.com/item?id=29678625
 

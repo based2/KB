@@ -187,6 +187,18 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/Bycelium/PyFlow
+
+https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
+
+https://news.ycombinator.com/item?id=29698198 Ask HN: Good Python projects to read for modern Python?
+
+https://github.com/nanobowers/py2cr
+> https://news.ycombinator.com/item?id=29697761
+
+https://github.com/norvig/pytudes
+> https://news.ycombinator.com/item?id=29699403
+
 https://pyherald.com/
 
 https://tldr.engineering/how-i-found-and-fixed-a-vulnerability-in-python/

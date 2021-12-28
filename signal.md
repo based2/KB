@@ -25,6 +25,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://destevez.net/2021/12/decoding-james-webb-space-telescope/
+> https://news.ycombinator.com/item?id=29704554
+
 https://exploringjs.com/impatient-js/toc.html
 
 https://www.mattblaze.org/blog/faraday/

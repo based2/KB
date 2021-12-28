@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://spectrum.ieee.org/zap-energy-fusion-reactor
+> https://news.ycombinator.com/item?id=29710097
+
 https://cfs.energy/news-and-media/commonwealth-fusion-systems-closes-1-8-billion-series-b-round
 
 https://www.sciencealert.com/for-the-first-time-a-fusion-reaction-has-generated-more-energy-than-absorbed-by-the-fuel

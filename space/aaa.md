@@ -108,6 +108,11 @@ https://petapixel.com/2021/09/15/a-closer-look-how-i-created-a-248mp-photo-of-th
 > https://news.ycombinator.com/item?id=28549643
 
 # History
+## Supernova
+https://en.m.wikipedia.org/wiki/SN_1054
+
+https://en.wikipedia.org/wiki/SN_1572
+
 ## Apollo
 http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 > https://news.ycombinator.com/item?id=27775089
@@ -116,6 +121,10 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://blogs.nasa.gov/webb/2021/12/27/more-than-you-wanted-to-know-about-webbs-mid-course-corrections/
+
+https://www.scmp.com/news/china/diplomacy/article/3161203/spacex-starlink-satellites-twice-came-too-close-china-tells-un
+
 https://www.scientificamerican.com/article/an-ancient-greek-astronomical-calculation-machine-reveals-new-secrets/
 
 https://jwst.nasa.gov/content/webbLaunch/whereIsWebb.html

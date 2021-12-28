@@ -15,3 +15,8 @@ https://bitwarden.com/
 
 https://github.com/dani-garcia/vaultwarden Rust
 > https://news.ycombinator.com/item?id=29662418
+
+https://blog.vacs.fr/vacs/blogs/post.html?post=2019/12/26/AKT-a-tool-to-store-and-protect-your-sensitive-information Ada
+> https://ada-keystore.readthedocs.io/en/latest/
+
+https://news.ycombinator.com/item?id=29705957 Ask HN: How did my LastPass master password get leaked?

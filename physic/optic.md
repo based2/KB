@@ -35,3 +35,7 @@ https://80.lv/articles/scientists-create-salt-grain-sized-hi-res-camera/
 https://www.cam.ac.uk/research/news/colour-changing-magnifying-glass-gives-clear-view-of-infrared-light
 > https://news.ycombinator.com/item?id=29447779
 
+https://www.techradar.com/news/this-powerful-supercomputer-can-now-run-on-light-instead-of-electric-current
+> https://news.ycombinator.com/item?id=29701976
+> > https://lighton.ai/lighton-appliance/
+

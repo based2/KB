@@ -7,3 +7,6 @@ https://blog.dan.drown.org/kerberos-for-windows-without-ad/
 
 https://github.com/eclipse-ee4j/exousia/releases/tag/1.0.0-RELEASE
 > https://www.reddit.com/r/java/comments/pb7rho/exousia_100_jakarta_authorization_implementation/
+
+https://github.com/warrant-dev/awesome-authorization
+> https://news.ycombinator.com/item?id=29703950

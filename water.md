@@ -9,3 +9,5 @@ https://ec.europa.eu/jrc/en/news/jrc-launches-revolutionary-tool-for-monitoring-
 https://www.washingtonpost.com/climate-solutions/2021/10/30/flood-vienna-danube-climate-change/
 
 https://techcrunch.com/2021/11/03/waterplan-tracks-water-risks-and-sustainable-solutions-for-climate-conscious-companies/
+
+https://en.wikipedia.org/wiki/Water-energy_nexus

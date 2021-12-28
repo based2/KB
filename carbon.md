@@ -51,6 +51,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://arstechnica.com/science/2021/12/staying-below-2-c-warming-costs-less-than-overshooting-and-correcting/
+> https://news.ycombinator.com/item?id=29713422
+
 https://www.numerama.com/tech/803201-mesurer-le-co2-selon-les-gigaoctets-consommes-lidee-qui-consterne-le-secteur-du-numerique.html
 
 https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/

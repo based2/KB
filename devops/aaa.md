@@ -104,6 +104,10 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://iopscience.iop.org/article/10.3847/1538-3881/ac341b Visibility Predictions for Near-future Satellite Megaconstellations: Latitudes near 50° Will Experience the Worst Light Pollution
+
+https://microtica.com/blog/how-to-use-gitops-on-aws-in-your-organization-a-complete-guide/
+
 https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
 https://pre-commit.com/

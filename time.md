@@ -49,6 +49,9 @@ https://onezero.medium.com/the-largely-untold-story-of-how-one-guy-in-california
 https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/
 > https://news.ycombinator.com/item?id=29016740
 
+https://www.masswerk.at/tzintl/
+
+
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 
@@ -74,7 +77,6 @@ https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a
 
 https://qwerty.dev/calendar-generator/ md
 > https://news.ycombinator.com/item?id=28854701
-
 
 https://www.nirsoft.net/utils/run_as_date.html
 > https://news.ycombinator.com/item?id=28106793
@@ -160,6 +162,9 @@ https://watchesbysjx.com/2016/09/how-japans-thomas-edison-built-the-nations-most
 
 https://thehtime.com/ Combining UTC and local times (time zones) in one new clock
 > https://news.ycombinator.com/item?id=28928550
+
+https://en.wikipedia.org/wiki/Beverly_Clock
+> https://news.ycombinator.com/item?id=29701755
 
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha

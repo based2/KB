@@ -63,15 +63,21 @@ https://goaccess.io/
 
 https://thanos.io/ Open source, highly available Prometheus setup with long term storage capabilities.
 
+# Distributed
+https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and ClickHouse, go
+> https://news.ycombinator.com/item?id=29711433
+
 # Meta
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://chaidarun.com/ten-years-of-logging-my-life
+> https://news.ycombinator.com/item?id=29692087
+
 https://nbailey.ca/post/simple-alerts/
 > https://news.ycombinator.com/item?id=29687875
 
 https://www.jigdev.com/
-> 
 
 https://bobbiechen.com/blog/2021/12/21/counting-website-visitors-is-hard
 > https://news.ycombinator.com/item?id=29656570

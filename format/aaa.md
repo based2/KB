@@ -24,9 +24,6 @@ https://phoboslab.org/log/2021/12/qoi-specification
 > https://news.ycombinator.com/item?id=29625084
 
 # News
-https://jarbus.net/blog/write-latex-without-latex/
-> https://news.ycombinator.com/item?id=29687840
-
 https://www.thanassis.space/asn1.html
 > https://news.ycombinator.com/item?id=29681175
 

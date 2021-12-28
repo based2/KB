@@ -36,6 +36,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7
+
 https://www.utam0k.jp/en/blog/2021/12/27/youki_first_release/ Rust
 > https://github.com/containers/youki
 

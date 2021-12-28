@@ -83,6 +83,17 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://www.stephenwolfram.com/publications/mathematical-notation-past-future/
+> https://news.ycombinator.com/item?id=29701949
+
+http://jdh.hamkins.org/coming-to-agreement-logic-puzzle/
+> https://news.ycombinator.com/item?id=29707135
+
+https://web.dev/designcember-calculator/
+
+https://github.com/ajnirp/stochastic_sierpinski
+> https://news.ycombinator.com/item?id=29701260
+
 https://github.com/thehottgame/TheHoTTGame Homotopy Type Theory (HoTT) Game
 
 https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html

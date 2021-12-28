@@ -60,6 +60,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # 
+https://bing.ly/ nft
+
 https://github.com/mwmbl/mwmbl Python GPL
 > https://mwmbl.org/
 > https://news.ycombinator.com/item?id=29690877

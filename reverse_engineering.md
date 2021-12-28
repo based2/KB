@@ -1,5 +1,5 @@
 https://olegkutkov.me/2021/12/25/analysis-and-reverse-engineering-of-the-original-starlink-router/
-> https://news.ycombinator.com/item?id=296
+> https://news.ycombinator.com/item?id=29689513
 
 https://www.righto.com/2021/12/yamaha-dx7-reverse-engineering-part-iii.html
 

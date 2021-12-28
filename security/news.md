@@ -1,3 +1,22 @@
+https://asec.ahnlab.com/en/29885/ Redline Stealer Targeting Accounts Saved to Web Browser with Automatic Login Feature Included
+
+https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-2:v1:fr
+
+https://appleinsider.com/articles/21/12/28/lastpass-master-passwords-may-have-been-compromised
+
+https://research.checkpoint.com/2021/a-deep-dive-into-doublefeature-equation-groups-post-exploitation-dashboard/
+
+https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/
+> https://news.ycombinator.com/item?id=29702110
+
+https://rc3.world/2021/public_fahrplan#_
+> https://news.ycombinator.com/item?id=29701254
+> https://streaming.media.ccc.de/rc3/
+
+https://www.nomoreransom.org/en/index.html
+
+https://www.techdirt.com/articles/20211219/15171348150/proctorios-anti-cheating-software-exposes-students-to-hackers-say-dutch-education-officials.shtml
+
 https://www.bleepingcomputer.com/news/apple/apple-fixes-macos-security-flaw-behind-gatekeeper-bypass/
 
 https://www.bleepingcomputer.com/news/security/blackmagic-fixes-critical-davinci-resolve-code-execution-flaws/
@@ -9,7 +28,8 @@ https://github.com/rabbitstack/fibratus windows
 
 https://github.com/Yamato-Security/WELA windows
 
-https://reverse.put.as/2021/12/17/knock-knock-whos-there/
+https://reverse.put.as/2021/12/17/knock-knock-whos-there/ NSA BPF VM
+> https://news.ycombinator.com/item?id=29692086
 
 https://youst.in/posts/cache-poisoning-at-scale/
 > https://news.ycombinator.com/item?id=29657176
@@ -189,6 +209,10 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://cyber.gc.ca/fr/avis/exploitation-active-de-la-vulnerabilite-apache-log4j
 > https://twitter.com/moyix/status/1471714222358814721 Putting a JNDI log4j trigger in my email signature so I can see if anyone’s logging copies of my mail
 > > https://www.reddit.com/r/programming/comments/rij787/putting_a_jndi_log4j_trigger_in_my_email/
+> https://justinpombrio.net/2021/12/26/preventing-log4j-with-capabilities.html
+> https://vertx.io/blog/eclipse-vert-x-3-9-12/
+> https://mail-archives.apache.org/mod_mbox/www-announce/202112.mbox/%3CCAC1dCwVeyaM243TWFir3yrjBvAf0Y_PgR7kr9gxe-bU-WPfOhQ%40mail.gmail.com%3E Tika
+> https://github.com/jfrog/log4j-tools
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

@@ -16,6 +16,8 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.ascendance-ft.com/news/ascendance-flight-technologies-unveils-design-of-its-hybrid-electric-aircraft/
+
 https://lilium.com/newsroom-detail/technology-behind-the-lilium-jet
 > https://news.ycombinator.com/item?id=29651504
 

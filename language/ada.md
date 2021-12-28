@@ -25,6 +25,10 @@ https://pyjarrett.github.io/programming-with-ada/four-months-summary.html Ada202
 https://pyjarrett.github.io/programming-with-ada/clearing-the-air.html
 > https://news.ycombinator.com/item?id=28477046
 
+https://github.com/ohenley/awesome-ada
+
+https://www.adalog.fr/en/adacontrol.html
+
 # GCC/GNAT
 https://www.adacore.com/download
 > https://news.ycombinator.com/item?id=27313294
@@ -42,10 +46,30 @@ https://www.adacore.com/about-spark
 https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
 > https://news.ycombinator.com/item?id=27060180
 
+# Build
+https://alire.ada.dev/
+
+# Spark
+https://www.reddit.com/r/spark/
+
+https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
+
 # History
+https://en.wikipedia.org/wiki/Ada_(programming_language)
+
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://www.noureddine.org/research/joular/powerjoular
+
+https://pico-doc.synack.me/#getting_started
+
+https://people.debian.org/~lbrenta/debian-ada-policy.html
+
+https://blog.vacs.fr/vacs/blogs/post.html?post=2021/07/31/AWA-2.3.0 Web framework
+
+https://www.reddit.com/r/ada/comments/os89x2/ada_spark_is_it_open_source_or_not/
+
 https://www.electronicdesign.com/industrial-automation/article/21804924/rust-and-spark-software-reliability-for-everyone
 
 https://blog.adacore.com/ada-on-any-arm-cortex-m-device-in-just-a-couple-minutes
