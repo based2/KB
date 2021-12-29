@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.patentlyapple.com/patently-apple/autonomous-vehicle-technology/
+
 https://kikobeats.com/tesla-motors-explained/
 
 https://electrek.co/2021/12/23/tesla-owner-blows-up-model-s-dynamite-battery-replacement/

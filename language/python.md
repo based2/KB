@@ -187,6 +187,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://sadh.life/post/ast/
+> https://news.ycombinator.com/item?id=29724431
+
+https://github.com/jtauber/cleese
+> 
+
 https://github.com/Bycelium/PyFlow
 
 https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/

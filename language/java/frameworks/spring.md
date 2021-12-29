@@ -52,6 +52,9 @@ https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-nex
 > https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
+https://github.com/averageflow/spring-warehouse
+> https://www.reddit.com/r/java/comments/rqqvbh/spring_warehouse_a_quest_to_learn_more_java_and/
+
 https://github.com/spring-projects/spring-framework/releases/tag/v6.0.0-M1
 
 https://blog.frankel.ch/multiple-spring-boot-apps-same-project/

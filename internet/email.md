@@ -100,6 +100,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure
+> https://news.ycombinator.com/item?id=29722537
+
 https://computer.rip/2021-12-26-diy-mail.html
 > https://news.ycombinator.com/item?id=29699175
 

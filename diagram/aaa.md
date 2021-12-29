@@ -32,13 +32,11 @@ https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERc
 
 # ERR
 http://resurgencewebdesign.com/jschema/
-*
 
 # BPMN
 
 # Grammar
 https://dundalek.com/grammkit/
-*
 
 #
 https://nodes.io/
@@ -54,7 +52,6 @@ https://ivanceras.github.io/svgbob-editor/
 https://en.wikipedia.org/wiki/Self-organizing_map
 
 https://xosh.org/text-to-diagram/
-*
 
 https://github.com/enso-org/enso
 
@@ -115,6 +112,9 @@ https://asciiflow.com/#/
 https://mannhowie.com/finite-state-machines
 
 # News
+https://pketh.org/how-i-build.html
+> https://news.ycombinator.com/item?id=29714510
+
 https://penrose.ink/siggraph20.html
 > https://news.ycombinator.com/item?id=29674986
 

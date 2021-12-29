@@ -1,10 +1,7 @@
-
-
 https://news.ycombinator.com/item?id=26773637
 
 https://github.com/openethereum/openethereum/issues/353
 > https://news.ycombinator.com/item?id=26820516
-
 
 https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2
 > https://news.ycombinator.com/item?id=27567897
@@ -13,6 +10,11 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://ethereum.org/en/developers/docs/mev/ miner
+
+https://bertcmiller.com/2021/12/28/glimpse_nonce_reuse.html
+> https://news.ycombinator.com/item?id=29716274
+
 https://www.tomshardware.com/news/gamers-rejoice-ethereum-reminds-gpu-miners-the-end-is-near
 
 https://www.bis.org/publ/qtrpdf/r_qt2112b.htm

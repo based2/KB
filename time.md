@@ -190,7 +190,14 @@ https://aransentin.github.io/roman_calendar/
 https://bibliodyssey.blogspot.com/2010/04/time-after-time.html
 > https://news.ycombinator.com/item?id=28848096
 
+# 2038
+https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
+> https://news.ycombinator.com/item?id=29722365
+
 # News
+https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html
+> https://news.ycombinator.com/item?id=29704345
+
 https://en.wikipedia.org/wiki/Time_formatting_and_storage_bugs
 
 https://www.umsu.de/blog/2017/671

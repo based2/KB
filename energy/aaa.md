@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://orsted.com/en/media/newsroom/news/2021/12/20211220460511
+> https://news.ycombinator.com/item?id=29724117
+
 https://www.sciencedirect.com/science/article/pii/S0960148121008922 Closed-loop geothermal energy recovery from deep high enthalpy systems
 > https://news.ycombinator.com/item?id=29714823
 

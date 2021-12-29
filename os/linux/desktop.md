@@ -36,6 +36,8 @@ https://usebottles.com/
 > https://www.playonlinux.com
 
 # News
+https://linuxfr.org/news/gworkspace-1-0-pour-noel-et-pour-bertrand-dekoninck
+
 https://robert.winter.ink/the-linux-paradigm/
 
 https://www.phoronix.com/scan.php?page=news_item&px=Sway-1.7-rc1

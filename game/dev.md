@@ -93,6 +93,9 @@ https://if50.substack.com/p/2008-violet
 https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 > https://news.ycombinator.com/item?id=29136429
 
+# Terrain
+https://github.com/dandrino/terrain-erosion-3-ways
+
 # News
 https://wasm4.org/
 > https://news.ycombinator.com/item?id=29632813

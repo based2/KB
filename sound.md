@@ -64,6 +64,8 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html
+
 https://goughlui.com/2016/05/03/project-the-definitive-collection-of-v-90v-92-modem-sounds/
 > https://news.ycombinator.com/item?id=29708224
 

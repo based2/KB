@@ -39,6 +39,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html
+> https://news.ycombinator.com/item?id=29717476
+
 https://johnmuirlaws.com/drawing-birds/
 > https://news.ycombinator.com/item?id=29284222
 

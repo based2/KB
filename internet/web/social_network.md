@@ -26,6 +26,10 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://stacker.news/items/6830
+> https://news.ycombinator.com/item?id=29716618
+> https://github.com/fiatjaf/nostr
+
 https://salut-a-toi.org/ XMPP GPL
 > https://linuxfr.org/news/libervia-v0-8-la-cecilia
 > https://nlnet.nl/

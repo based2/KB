@@ -22,6 +22,9 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://bass-lang.org/index.html
+> https://news.ycombinator.com/item?id=29722417
+
 https://www.brainboard.co/features/terraform-import
 
 https://render.com/docs/blueprint-spec

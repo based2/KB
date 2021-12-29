@@ -36,6 +36,11 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://overthewire.org/wargames/
+> https://news.ycombinator.com/item?id=29724594
+
+https://redo.readthedocs.io/en/latest/
+
 https://www-uxsup.csx.cam.ac.uk/misc/horror.txt
 > https://news.ycombinator.com/item?id=29638367
 

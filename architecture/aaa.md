@@ -162,6 +162,9 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://github.com/donnemartin/system-design-primer
+> https://news.ycombinator.com/item?id=29716292
+
 https://aerotwist.com/blog/the-cost-of-frameworks/
 
 https://blog.metaobject.com/2019/02/why-architecture-oriented-programming.html

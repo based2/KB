@@ -173,6 +173,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.insider.com/china-space-race-satellite-high-resolution-san-francisco-in-seconds-2021-12
+
 https://eox.at/2021/08/average-colors-of-the-world/
 > https://news.ycombinator.com/item?id=29669961
 

@@ -113,7 +113,10 @@ https://web.stanford.edu/~ouster/cgi-bin/decisions.php
 > https://news.ycombinator.com/item?id=27937815
 
 https://jacobian.org/2021/oct/20/simple-pm-tricks/
-* https://news.ycombinator.com/item?id=29068652
+> https://news.ycombinator.com/item?id=29068652
+
+https://www.reforge.com/blog/technical-decision-making
+> https://news.ycombinator.com/item?id=29720000
 
 # Analysis
 https://xyproblem.info/

@@ -198,6 +198,8 @@ https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/
 https://www.pola.rs/
 > https://news.ycombinator.com/item?id=29584698
 
+https://www.analyticsvidhya.com/blog/2021/06/polars-the-fastest-dataframe-library-youve-never-heard-of/
+
 # Data Tests
 https://frictionlessdata.io/
 

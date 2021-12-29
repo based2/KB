@@ -118,5 +118,7 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://nginx.org/en/CHANGES
+
 https://twitter.com/antonmedv/status/1474838597991813127
 > https://lobste.rs/s/of4pd4/simplest_web_server_while_nc

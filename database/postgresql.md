@@ -218,6 +218,7 @@ https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
 https://heap.io/blog/optimizing-postgres-queries-at-scale
+> https://news.ycombinator.com/item?id=29715872
 
 https://blog.crunchydata.com/blog/randomly-sampling-data-using-sql-and-postgresql
 

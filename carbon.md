@@ -3,6 +3,8 @@ https://skepticalscience.com/EmmissionsAcceleration.html
 https://www.climatechangetracker.org/
 > https://news.ycombinator.com/item?id=29295018
 
+https://www.oxygenlevels.org/
+
 https://scrippso2.ucsd.edu/index.html o2
 > https://news.ycombinator.com/item?id=27720014
 
@@ -51,6 +53,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/ Orca
+> https://news.ycombinator.com/item?id=29717389
+
+https://www.nytimes.com/2021/12/28/climate/chile-constitution-climate-change.html
+
 https://arstechnica.com/science/2021/12/staying-below-2-c-warming-costs-less-than-overshooting-and-correcting/
 > https://news.ycombinator.com/item?id=29713422
 

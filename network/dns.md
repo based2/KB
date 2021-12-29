@@ -77,6 +77,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://educatedguesswork.org/posts/dns-security-dane/
+
 https://ironsides.martincarlisle.com/ DNS server in Ada/Spark
 
 https://datatracker.ietf.org/doc/html/rfc1401

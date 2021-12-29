@@ -16,3 +16,5 @@ https://fullstackeconomics.com/amazon-isnt-doing-enough-to-stop-bait-and-switch-
 > https://news.ycombinator.com/item?id=29587024
 
 https://news.ycombinator.com/item?id=29610842 Auctions and bidding: A guide for computer scientists (2017)
+
+https://www.echevarria.io/blog/cs-go-price-oscillation/index.html

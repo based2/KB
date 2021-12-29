@@ -141,6 +141,8 @@ https://www.ncameron.org/blog/portable-and-interoperable-async-rust/
 https://github.com/bytedance/monoio
 > https://news.ycombinator.com/item?id=29493340
 
+https://kaylynn.gay/blog/post/rust_ranges_and_suffering
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -281,6 +283,8 @@ https://pvk.ca/Blog/2021/08/01/slitter-a-less-footgunny-slab-allocator/
 
 https://rustsec.org/advisories/RUSTSEC-2021-0121.html Non-aligned u32 read in Chacha20 encryption and decryption
 
+https://github.com/dtolnay/semver-trick
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -314,6 +318,11 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://news.ycombinator.com/item?id=29723455 Ask HN: What are some good rust code to read to learn the language?
+
+https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/
+> https://news.ycombinator.com/item?id=29722905
+
 https://github.com/rust-corpus/rustql
 
 https://arxiv.org/abs/2110.01098 Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment

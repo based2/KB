@@ -1,4 +1,5 @@
-
+https://hayesall.com/blog/latex-automata/
+> https://news.ycombinator.com/item?id=29721787
  
 https://jarbus.net/blog/write-latex-without-latex/
 > https://news.ycombinator.com/item?id=29687840

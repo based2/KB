@@ -83,6 +83,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/
+> https://news.ycombinator.com/item?id=29721063
+
 https://www.stephenwolfram.com/publications/mathematical-notation-past-future/
 > https://news.ycombinator.com/item?id=29701949
 

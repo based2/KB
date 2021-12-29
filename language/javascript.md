@@ -329,6 +329,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/dexteryy/spellbook-of-modern-webdev
+> https://news.ycombinator.com/item?id=29722739
+
 https://github.com/garbles/concave
 > https://news.ycombinator.com/item?id=29703919
 

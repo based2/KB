@@ -189,6 +189,10 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://wiki.documentfoundation.org/ReleaseNotes/7.3
+
+http://catb.org/~esr/writings/response-to-bezroukov.html
+
 http://ifthisbetreason.com/2021/12/italian-courts-find-open-source-software-terms-enforceable/
 > https://e-addons.com/
 > https://news.ycombinator.com/item?id=29703070

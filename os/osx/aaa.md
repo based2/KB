@@ -54,6 +54,8 @@ https://eisel.me/devtool-allocators
 > https://news.ycombinator.com/item?id=29068828
 
 # M1
+https://eclecticlight.co/2021/12/29/how-secure-boot-works-on-m1-series-macs/
+
 https://unum.cloud/post/2021-12-21-macbook/
 > https://news.ycombinator.com/item?id=29670624
 

@@ -1,8 +1,26 @@
+https://media.ccc.de/v/rc3-2021-cwtv-230-kyber-and-post-quantum
+> https://en.wikipedia.org/wiki/PQC
+> > https://en.wikipedia.org/wiki/Shor%27s_algorithm
+> NIST 2022: Rainbow, Saber, Kyber, Dilithium, NTRU, Mc
+> > https://aws.amazon.com/en/blogs/security/round-2-post-quantum-tls-is-now-supported-in-aws-kms/
+> https://pq-crystals.org/kyber/
+> https://bikesuite.org/
+> https://sike.org/
+
+https://www.bloomberg.com/news/features/2021-12-22/ethical-lock-pickers-team-up-with-manufacturers-to-solve-major-security-flaws
+
+https://cast.ai/blog/what-does-2022-have-in-store-for-cybersecurity-and-cloud-security-specialists/
+> https://news.ycombinator.com/item?id=29724752
+
+https://www.eff.org/deeplinks/2021/12/we-encrypted-web-2021-year-review
+
 https://asec.ahnlab.com/en/29885/ Redline Stealer Targeting Accounts Saved to Web Browser with Automatic Login Feature Included
 
 https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-2:v1:fr
 
 https://appleinsider.com/articles/21/12/28/lastpass-master-passwords-may-have-been-compromised
+> https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare
+> > https://news.ycombinator.com/item?id=29723319
 
 https://research.checkpoint.com/2021/a-deep-dive-into-doublefeature-equation-groups-post-exploitation-dashboard/
 
@@ -213,6 +231,11 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://vertx.io/blog/eclipse-vert-x-3-9-12/
 > https://mail-archives.apache.org/mod_mbox/www-announce/202112.mbox/%3CCAC1dCwVeyaM243TWFir3yrjBvAf0Y_PgR7kr9gxe-bU-WPfOhQ%40mail.gmail.com%3E Tika
 > https://github.com/jfrog/log4j-tools
+> https://github.com/google/log4jscanner
+> https://www.bleepingcomputer.com/news/security/fintech-firm-hit-by-log4j-hack-refuses-to-pay-5-million-ransom/
+> https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-log4j-scanner-triggers-false-positive-alerts/
+> https://www.cyberkendra.com/2021/12/fourth-log4j-rce-vulnerability.html CVE-2021-44832 -> 2.17.1
+> > https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/
