@@ -88,6 +88,11 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://dirtylittlesql.com/ A fast SQLite PWA notebook for CSV files
+> https://news.ycombinator.com/item?id=29735392
+
+https://blog.wesleyac.com/posts/consider-sqlite
+
 https://github.com/nalgeon/sqlean/issues/27 The Incubator: Extension Candidates
 
 https://tech.marksblogg.com/sqlite3-tutorial-and-guide.html

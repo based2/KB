@@ -108,6 +108,8 @@ https://drossbucket.com/2021/06/30/hacker-news-folk-wisdom-on-visual-programming
 https://asciiflow.com/#/
 > https://news.ycombinator.com/item?id=27536253
 
+https://github.com/michaelkofron/image2ascii
+
 # State Machine
 https://mannhowie.com/finite-state-machines
 

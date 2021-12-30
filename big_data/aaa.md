@@ -218,6 +218,13 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://flowingdata.com/2021/12/29/anonymized-data-is-rarely-anonymous/
+> https://news.ycombinator.com/item?id=29734713
+
+https://seatunnel.apache.org/ Next-generation high-performance, distributed, massive data integration framework Flink
+> https://seatunnel.apache.org/
+> https://github.com/apache/incubator-seatunnel
+
 https://phys.org/news/2021-12-alternative-statistical-method-clinical-trials.html
 > https://news.ycombinator.com/item?id=29698371
 
@@ -225,6 +232,7 @@ https://chollinger.com/blog/2021/02/bad-data-and-data-engineering-dissecting-goo
 
 https://arxiv.org/abs/1909.10140 A new coefficient of correlation
 > https://news.ycombinator.com/item?id=29687613
+> > https://win-vector.com/2021/12/29/exploring-the-xi-correlation-coefficient/
 
 https://miller.readthedocs.io/en/latest/ querying, shaping, and reformatting data files in various formats including CSV, TSV, and JSON.
 > https://news.ycombinator.com/item?id=29651871

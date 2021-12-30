@@ -245,6 +245,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://threkk.medium.com/how-to-back-up-your-git-repositories-1298a4487a31
+
 https://github.com/gotvc/got
 > https://github.com/brendoncarroll/webfs
 

@@ -19,6 +19,13 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://therecord.media/more-than-1200-phishing-toolkits-capable-of-intercepting-2fa-detected-in-the-wild/
+
+https://github.com/suvash/one-time
+
+https://som.codes/blog/2021-06-08/duo-mobile-hotp/
+> https://news.ycombinator.com/item?id=29726488
+
 https://www.varonis.com/blog/box-mfa-bypass-totp/
 
 https://news.ycombinator.com/item?id=29330908

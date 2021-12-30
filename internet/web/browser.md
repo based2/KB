@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://oldweb.today/#19960101/http://geocities.com/
+> https://news.ycombinator.com/item?id=29734277
+
 https://www.ghacks.net/2021/12/22/microsoft-edge-send-search-results/`
 
 https://www.zdnet.com/article/now-duckduckgo-is-building-its-own-desktop-browser/

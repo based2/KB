@@ -50,6 +50,8 @@ https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181
 https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/
 > https://news.ycombinator.com/item?id=29396319
 
+https://github.com/provectus/kafka-ui
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

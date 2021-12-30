@@ -39,3 +39,12 @@ https://blog.klipse.tech/book/2021/12/19/100-things-I-learned-with-data-oriented
 
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?
+
+# Dictonary
+https://jsomers.net/blog/dictionary
+> https://news.ycombinator.com/item?id=29734242
+
+https://github.com/cmod/websters-1913
+> https://news.ycombinator.com/item?id=29733648
+
+https://www.wiktionary.org/

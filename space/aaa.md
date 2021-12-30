@@ -121,6 +121,10 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://blogs.nasa.gov/webb/2021/12/29/nasa-says-webbs-excess-fuel-likely-to-extend-its-lifetime-expectations/
+> https://news.ycombinator.com/item?id=29725799
+> > https://en.wikipedia.org/wiki/Herschel_Space_Observatory
+
 https://blogs.nasa.gov/webb/2021/12/27/more-than-you-wanted-to-know-about-webbs-mid-course-corrections/
 
 https://www.scmp.com/news/china/diplomacy/article/3161203/spacex-starlink-satellites-twice-came-too-close-china-tells-un

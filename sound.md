@@ -19,6 +19,9 @@ https://www.analog.com/en/analog-dialogue/raqs/raq-issue-25.html
 https://www.aalto.fi/en/news/anyone-can-get-super-hearing
 > https://news.ycombinator.com/item?id=27431429
 
+https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space/
+> https://news.ycombinator.com/item?id=29736208
+
 ## Filter
 https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618

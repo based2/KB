@@ -70,6 +70,8 @@ https://sequoia-pgp.org/blog/2021/12/20/202112-openpgp-card-ci/
 
 https://gnupg.org/donate/index.html
 > https://news.ycombinator.com/item?id=29714752
+ 
+https://blog.jabberhead.tk/2021/12/30/pgpainless-1-0-0-released/
 
 #
 https://media.ccc.de/v/34c3-9075-latticehacks

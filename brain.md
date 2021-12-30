@@ -23,6 +23,8 @@ https://www.nature.com/articles/548150a
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://news.ycombinator.com/item?id=29733577
+
 https://openbci.com/
 > https://news.ycombinator.com/item?id=8164595
 

@@ -223,6 +223,10 @@ https://arxiv.org/abs/2109.13916 Unsolved Problems in ML Safety
 
 https://news.ycombinator.com/item?id=29289431
 
+## Attacks
+https://arxiv.org/abs/2106.09898 Bad Characters: Imperceptible NLP Attacks
+> https://news.ycombinator.com/item?id=29734399
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -253,6 +257,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://vaclavkosar.com/ml/DeepMinds-RETRO-Transformer-Model
+
 https://mlconsole.com/
 > https://news.ycombinator.com/item?id=29716738
 

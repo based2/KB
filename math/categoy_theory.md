@@ -17,3 +17,6 @@ https://discourse.julialang.org/t/ann-c3t-crash-course-category-theory/73392
 
 https://github.com/prathyvsh/category-theory-resources
 > https://math.ucr.edu/home/baez/rosetta.pdf
+
+https://www.logicmatters.net/categories/
+> https://news.ycombinator.com/item?id=29734482

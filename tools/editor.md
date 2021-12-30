@@ -76,6 +76,12 @@ https://karthinks.com/software/avy-can-do-anything/
 https://emacs-lsp.github.io/lsp-mode/
 > https://news.ycombinator.com/item?id=29578748
 
+https://ruzkuku.com/texts/emacs-mouse.html
+> https://news.ycombinator.com/item?id=29736366
+
+https://github.com/susam/emfy
+> https://news.ycombinator.com/item?id=29726398
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

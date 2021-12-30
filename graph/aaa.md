@@ -61,6 +61,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://cs.brown.edu/people/rtamassi/gdhandbook/ Handbook of Graph Drawing and Visualization 2013
+> https://news.ycombinator.com/item?id=29734063
+
 https://endcrawl.com/credits-ordering/
 > https://news.ycombinator.com/item?id=29639968
 

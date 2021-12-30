@@ -198,6 +198,12 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://dev.to/redbar0n/features-of-a-dream-programming-language-cio
+> https://news.ycombinator.com/item?id=29716998
+
+https://web.archive.org/web/20121024051826/http://www.geocities.com/tablizer/top.htm Table Oriented Programming
+> https://news.ycombinator.com/item?id=29735298
+
 https://www.pml-lang.dev/index.html
 
 https://www.duskborn.com/posts/2021-aoc-zig/

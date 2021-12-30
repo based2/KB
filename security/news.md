@@ -1,3 +1,14 @@
+https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/
+
+https://marcusedmondson.com/2021/12/29/printnightmare-and-ssh-tunnels-for-fun/
+
+https://github.com/hardenedvault/bootkit-samples
+
+https://threats.amnpardaz.com/en/2021/12/28/implant-arm-ilobleed-a/
+> https://news.ycombinator.com/item?id=29731297
+
+https://news.ycombinator.com/item?id=29734021
+
 https://media.ccc.de/v/rc3-2021-cwtv-230-kyber-and-post-quantum
 > https://en.wikipedia.org/wiki/PQC
 > > https://en.wikipedia.org/wiki/Shor%27s_algorithm
@@ -21,8 +32,11 @@ https://www.iso.org/obp/ui/#iso:std:iso-iec:27001:ed-2:v1:fr
 https://appleinsider.com/articles/21/12/28/lastpass-master-passwords-may-have-been-compromised
 > https://www.theverge.com/2021/12/28/22857485/lastpass-compromised-breach-scare
 > > https://news.ycombinator.com/item?id=29723319
+> https://palant.info/2021/12/29/how-did-lastpass-master-passwords-get-compromised/
+> > https://news.ycombinator.com/item?id=29735132
 
 https://research.checkpoint.com/2021/a-deep-dive-into-doublefeature-equation-groups-post-exploitation-dashboard/
+> https://securelist.com/inside-the-equationdrug-espionage-platform/69203/
 
 https://torrentfreak.com/widevine-dump-leaked-code-downloads-hd-video-from-disney-amazon-and-netflix-211227/
 > https://news.ycombinator.com/item?id=29702110

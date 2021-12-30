@@ -195,6 +195,12 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://blog.openreplay.com/is-it-time-for-the-javascript-temporal-api
+> https://news.ycombinator.com/item?id=29712118
+
+https://longnow.org/ideas/02013/12/31/long-now-years-five-digit-dates-and-10k-compliance-at-home/
+> https://news.ycombinator.com/item?id=29736511
+
 https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html
 > https://news.ycombinator.com/item?id=29704345
 

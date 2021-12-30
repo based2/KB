@@ -72,6 +72,12 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://d3s.mff.cuni.cz/legacy/~holub/c_features.html
+> https://news.ycombinator.com/item?id=29732892
+
+https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061 You can’t copy code with memcpy; code is more complicated than that
+> https://news.ycombinator.com/item?id=29729931
+
 https://yurichev.com/news/20211227_strcpy_etc/
 > https://lobste.rs/s/7bo5xx/pure_c_why_memcpy_strcpy_strcat_return
 

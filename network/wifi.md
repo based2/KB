@@ -21,6 +21,9 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://news.ycombinator.com/item?id=29727211 Ask HN: How do I set up a WiFi internet gateway similar to retailers or hotels?
+
+
 https://badfi.com/blog/2021/8/8/what-is-rf-monitor-mode-and-why-does-it-matter
 > https://news.ycombinator.com/item?id=29648194
 
