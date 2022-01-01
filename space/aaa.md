@@ -121,6 +121,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://destevez.net/2021/12/jwst-sequential-ranging/
+> https://news.ycombinator.com/item?id=29749148
+> https://twitter.com/NASAWebb/status/1477074540081692680
+> > https://blogs.nasa.gov/webb/2021/12/31/first-of-two-sunshield-mid-booms-deploys/
+
 https://blogs.nasa.gov/webb/2021/12/29/nasa-says-webbs-excess-fuel-likely-to-extend-its-lifetime-expectations/
 > https://news.ycombinator.com/item?id=29725799
 > > https://en.wikipedia.org/wiki/Herschel_Space_Observatory

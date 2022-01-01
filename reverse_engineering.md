@@ -1,3 +1,9 @@
+https://github.com/masaccio/numbers-parser Apple
+> https://news.ycombinator.com/item?id=29753204
+
+https://blog.ammaraskar.com/roku-tv-philips-hues/
+> https://news.ycombinator.com/item?id=29740926
+
 https://olegkutkov.me/2021/12/25/analysis-and-reverse-engineering-of-the-original-starlink-router/
 > https://news.ycombinator.com/item?id=29689513
 

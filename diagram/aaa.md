@@ -114,6 +114,9 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://fasterthanli.me/series/dont-shell-out/part-1 draw.io
+> https://news.ycombinator.com/item?id=29753638
+
 https://pketh.org/how-i-build.html
 > https://news.ycombinator.com/item?id=29714510
 

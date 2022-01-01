@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa SQL language proposal: JOIN FOREIGN
+> https://news.ycombinator.com/item?id=29739147
+
 https://news.ycombinator.com/item?id=29687134 Better SQL JOINs
 
 https://news.ycombinator.com/item?id=29581376 Describe SQL using natural language, and execute against real data

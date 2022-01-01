@@ -53,6 +53,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.metoffice.gov.uk/about-us/press-office/news/weather-and-climate/2022/new-years-day
+> https://news.ycombinator.com/item?id=29760670
+
+https://github.com/WojciechMazur/jRAPL Computer energy monitoring API in Java
+> https://www.scala-lang.org/blog/2021/12/14/sustainable-scala.html
+
 https://www.wired.com/story/the-quest-to-trap-carbon-in-stone-and-beat-climate-change/ Orca
 > https://news.ycombinator.com/item?id=29717389
 

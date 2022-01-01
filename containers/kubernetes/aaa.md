@@ -62,6 +62,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.koyeb.com/blog/the-true-cost-of-kubernetes-people-time-and-productivity
+> https://news.ycombinator.com/item?id=29737768
+
 https://kubevious.io/
 > https://blog.stephane-robert.info/post/kubernetes-tableau-bord-kubevious/
 

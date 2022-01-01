@@ -16,6 +16,12 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://discuss.haiku-os.org/t/my-progress-in-porting-wine/11741
+> https://news.ycombinator.com/item?id=29753069
+
+https://borud.no/notes/2021/system-software/
+> https://news.ycombinator.com/item?id=29754868
+
 https://dustin.sallings.org/2010/02/28/running-processes.html Process supervision mechanisms provided by operating systems
 
 https://lists.debian.org/debian-hurd/2021/08/msg00040.html

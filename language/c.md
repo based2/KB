@@ -50,7 +50,6 @@ https://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
 
 https://i.hsfzxjy.site/2021-09-16-unravelling-mocona-verbosity-or-anti-pattern/
 
-
 https://github.com/xoreaxeaxeax/movfuscator
 
 https://utcc.utoronto.ca/~cks/space/blog/programming/CStackSizeInvisible
@@ -72,6 +71,10 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://thephd.dev/your-c-compiler-and-standard-library-will-not-help-you
+> https://news.ycombinator.com/item?id=29737145
+> > https://frama-c.com/
+
 https://d3s.mff.cuni.cz/legacy/~holub/c_features.html
 > https://news.ycombinator.com/item?id=29732892
 

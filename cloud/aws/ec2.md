@@ -1,5 +1,7 @@
 https://aws.amazon.com/en/blogs/compute/new-using-amazon-ec2-instance-connect-for-ssh-access-to-your-ec2-instances/
 
+https://aws.amazon.com/en/premiumsupport/knowledge-center/ec2-ssh-best-practices/
+
 https://aws.amazon.com/en/blogs/compute/refreshing-an-amazon-ecs-container-instance-cluster-with-a-new-ami/
 
 https://aws.amazon.com/en/blogs/compute/introducing-cloud-native-networking-for-ecs-containers/

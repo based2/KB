@@ -218,6 +218,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/castledio/castled Reverse ETL
+> https://medium.com/castled/reverse-etl-opening-the-floodgates-for-operational-analytics-b09610c1120d
+
 https://flowingdata.com/2021/12/29/anonymized-data-is-rarely-anonymous/
 > https://news.ycombinator.com/item?id=29734713
 

@@ -10,3 +10,6 @@ https://synchrocharts.com/
 > https://news.ycombinator.com/item?id=29152138
 
 https://www.r-bloggers.com/2021/12/hundreds-of-statistical-machine-learning-models-for-univariate-time-series-using-ahead-ranger-xgboost-and-caret/
+
+https://xtdb.com/
+> https://news.ycombinator.com/item?id=29758334

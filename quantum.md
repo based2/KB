@@ -63,3 +63,5 @@ https://arstechnica.com/science/2021/09/understanding-neuromorphic-computing-and
 
 https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/ topological quantum computing
 > https://news.ycombinator.com/item?id=28706974
+
+https://explainextended.com/2021/12/31/happy-new-year-13/

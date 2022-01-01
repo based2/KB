@@ -329,6 +329,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://terrainformatica.com/2021/04/25/sciter-uses-javascript-from-now-and-on/
+> https://news.ycombinator.com/item?id=29742670
+
 https://github.com/dexteryy/spellbook-of-modern-webdev
 > https://news.ycombinator.com/item?id=29722739
 

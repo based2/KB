@@ -198,6 +198,8 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://julesh.com/2020/08/15/probabilistic-programming-with-continuations/
+
 https://dev.to/redbar0n/features-of-a-dream-programming-language-cio
 > https://news.ycombinator.com/item?id=29716998
 

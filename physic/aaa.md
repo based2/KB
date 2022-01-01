@@ -54,8 +54,9 @@ https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-mult
 https://www.franceculture.fr/emissions/la-methode-scientifique/positronium-un-parfum-dexotisme
 
 # News
+https://semiengineering.com/chasing-after-carbon-nanotube-fets/
+
 https://www.quantamagazine.org/the-year-in-physics-20211222/
->
 
 https://cleantechnica.com/2021/12/20/selective-separation-could-help-alleviate-critical-metals-shortage/
 

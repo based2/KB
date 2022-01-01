@@ -88,6 +88,10 @@ https://maskray.me/blog/2021-09-19-all-about-procedure-linkage-table
 
 https://mcyoung.xyz/2021/06/01/linker-script/
 
+https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html
+> https://github.com/rui314/mold
+> https://news.ycombinator.com/item?id=29754918
+
 # Vectorization
 https://cvw.cac.cornell.edu/vector/default
 > https://news.ycombinator.com/item?id=27900592
@@ -97,6 +101,7 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4 F2018 ieee_arithmetic gfortran
 
 https://kai-chi.github.io//2021/12/28/writing-intel-sgx-unit-tests-with-googletest.html

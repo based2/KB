@@ -47,6 +47,10 @@ https://github.com/goreleaser/goreleaser
 https://github.com/TekWizely/bingo Install
 > https://news.ycombinator.com/item?id=29690251
 
+# Dependencies
+    go mod graph
+    go mod why github.com/dgrijalva/jwt-go
+
 # UI
 https://www.vugu.org/
 > https://news.ycombinator.com/item?id=26836366
@@ -74,6 +78,10 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://tip.golang.org/doc/fuzz/
+
+https://github.com/teivah/100-go-mistakes
+
 https://github.com/google/gvisor/tree/master/tools/checklocks
 > https://news.ycombinator.com/item?id=29730282
 

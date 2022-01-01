@@ -22,6 +22,12 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.youtube.com/watch?v=Wh_HpPwSswo Cut My Cloud Bill // Traefik | Tailscale (Part One)
+> https://news.ycombinator.com/item?id=29757469
+
+https://github.com/someengineering/cloudkeeper Show HN: Open-Source “Housekeeping for Clouds” for SREs
+> https://news.ycombinator.com/item?id=29740586
+
 https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html
 > https://news.ycombinator.com/item?id=29687960
 

@@ -20,6 +20,10 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.coindesk.com/business/2022/01/01/half-a-dozen-of-indias-crypto-exchanges-searched-after-alleged-rupee-700m-tax-evasion-detected-sources/
+
+https://thecryptobasic.com/2021/12/30/polygon-admits-the-network-was-hacked-hacker-swiped-801601-matic-tokens/
+
 https://www.systems.cs.cornell.edu/docs/fincen-cvc-guidance-final.pdf
 > https://twitter.com/el33th4xor/status/1126527690264195082
 

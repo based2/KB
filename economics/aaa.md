@@ -106,6 +106,9 @@ https://www.accountingcoach.com/
 > https://news.ycombinator.com/item?id=29625571
 
 # News
+https://www.cnbc.com/2021/12/31/santander-accidentally-put-millions-into-random-accounts-on-christmas-day.html
+> https://news.ycombinator.com/item?id=29753755
+
 https://ergodicityeconomics.com/2020/02/26/democratic-domestic-product/ gdp ddp
 > https://news.ycombinator.com/item?id=29660337
 

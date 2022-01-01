@@ -245,6 +245,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://lwn.net/Articles/877964/ Stochastic bisection in Git
+> 
+
+https://news.ycombinator.com/item?id=29756272 Ask HN: Do we need an easier Git?
+
 https://threkk.medium.com/how-to-back-up-your-git-repositories-1298a4487a31
 
 https://github.com/gotvc/got

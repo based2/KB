@@ -35,6 +35,9 @@ http://www.viemu.com/a-why-vi-vim.html
 https://www.moolenaar.net/habits.html
 > https://news.ycombinator.com/item?id=29621604
 
+https://groups.google.com/g/vim_announce/c/2XYAoPL2sqg Vim9 script feature-complete
+> https://news.ycombinator.com/item?id=29758549
+
 # Nano
 
 

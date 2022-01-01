@@ -1,3 +1,32 @@
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44717 Go before 1.16.12 and 1.17.x before 1.17.5 on UNIX allows write operations to an unintended file or unintended network connection as a consequence of erroneous closing of file descriptor 0 after file-descriptor exhaustion
+
+https://www.tomshardware.com/news/ssd-over-provisioning-vulnerability
+> https://news.ycombinator.com/item?id=29742419
+> https://www.bleepingcomputer.com/news/security/firmware-attack-can-drop-persistent-malware-in-hidden-ssd-area/
+> > https://arxiv.org/ftp/arxiv/papers/2112/2112.13923.pdf
+
+https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/
+
+https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/
+> https://news.ycombinator.com/item?id=29756714
+> https://twitter.com/JRoosen/status/1477120097747677184
+> https://twitter.com/haydsays/status/1477147051209154562
+
+https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/
+> https://news.ycombinator.com/item?id=29756714
+
+https://news.ycombinator.com/item?id=29754918
+> https://news.ycombinator.com/item?id=29754918
+
+https://www.cl.cam.ac.uk/~sps32/mcu_lock.html
+
+https://news.ycombinator.com/item?id=29741070 Microsoft Teams on Android can unintentionally prevent emergency calling
+
+https://news.ycombinator.com/item?id=29737412 Reporter may be prosecuted for using “view source”
+
+https://vpnoverview.com/news/sega-europe-suffers-major-security-breach/
+> https://news.ycombinator.com/item?id=29738371
+
 https://blog.assetnote.io/2021/12/26/chained-ssrf-websphere/
 
 https://marcusedmondson.com/2021/12/29/printnightmare-and-ssh-tunnels-for-fun/

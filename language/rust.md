@@ -159,6 +159,10 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 https://ferrous-systems.com/blog/21st-century-embedded-tooling/
 
+# Build
+https://fasterthanli.me/articles/why-is-my-rust-build-so-slow
+> https://news.ycombinator.com/item?id=29742694
+
 # Test
 
 https://ferrous-systems.com/blog/test-embedded-app/
@@ -318,6 +322,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://epage.github.io/blog/2021/12/clap3/
+> https://news.ycombinator.com/item?id=29754510
+
 https://news.ycombinator.com/item?id=29723455 Ask HN: What are some good rust code to read to learn the language?
 
 https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/

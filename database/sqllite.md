@@ -88,6 +88,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://ansiwave.net/blog/sqlite-over-http.html
+> https://news.ycombinator.com/item?id=29758613
+
 https://dirtylittlesql.com/ A fast SQLite PWA notebook for CSV files
 > https://news.ycombinator.com/item?id=29735392
 

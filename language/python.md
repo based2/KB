@@ -60,6 +60,9 @@ https://github.com/breuleux/jurigged
 
 https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/
 
+https://github.com/robusta-dev/debug-toolkit
+> https://www.reddit.com/r/netsec/comments/rs3n0w/i_wrote_a_replacement_for_pyrasite_to_inject_code/
+
 # Testing
 https://news.ycombinator.com/item?id=26565785
 
@@ -187,6 +190,8 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/google/python-fire CLI generator
+
 https://sadh.life/post/ast/
 > https://news.ycombinator.com/item?id=29724431
 

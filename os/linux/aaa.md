@@ -80,6 +80,11 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://mjg59.dreamwidth.org/58077.html Update on Linux hibernation support when lockdown is enabled
+> https://news.ycombinator.com/item?id=29758653
+
+https://www.tomshardware.com/news/linux-bios-updates-without-rebooting-
+
 https://cloudnull.io/2017/05/nfs-mount-via-systemd/
 
 https://www.phoronix.com/scan.php?page=news_item&px=systemd-250

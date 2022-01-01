@@ -19,6 +19,8 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.youtube.com/watch?v=DhXN2KMM_tE Artificial Gravity Starship
+
 https://www.space.com/nasa-perseverance-rover-organics-mars
 
 https://edition.cnn.com/2021/12/16/world/exomars-water-mars-grand-canyon-scn/index.html

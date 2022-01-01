@@ -13,6 +13,11 @@ https://bengtan.com/blog/open-secrets-hacker-news/
 https://hn.lindylearn.io/
 > https://news.ycombinator.com/item?id=29605429
 
+https://news.ycombinator.com/item?id=29755614 Polls
+
+https://github.com/donnemartin/haxor-news
+> https://news.ycombinator.com/item?id=29759204
+
 # Slashdot
 # Reddit
 
@@ -26,6 +31,15 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649
+> https://news.ycombinator.com/item?id=29754789
+
+https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/
+> https://news.ycombinator.com/item?id=29752918
+
+https://tasshin.com/blog/a-guide-to-twitter/
+> https://news.ycombinator.com/item?id=29752379
+
 https://stacker.news/items/6830
 > https://news.ycombinator.com/item?id=29716618
 > https://github.com/fiatjaf/nostr

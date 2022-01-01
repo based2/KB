@@ -25,3 +25,6 @@ https://sioyek.info/
 
 https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html
 > https://news.ycombinator.com/item?id=27968900
+
+https://github.com/captn3m0/pystitcher
+> https://news.ycombinator.com/item?id=29738723

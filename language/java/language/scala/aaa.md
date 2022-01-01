@@ -68,6 +68,10 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://medium.com/disney-streaming/this-week-in-scala-dec-27-2021-fef4537cbc55
+
+https://eed3si9n.com/sbt-1.6.1
+
 https://medium.com/lego-engineering/announcing-woof-a-pure-scala-3-logging-library-2e8048868419
 > https://news.ycombinator.com/item?id=29592695
 

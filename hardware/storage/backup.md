@@ -32,6 +32,8 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://pypi.org/project/pyFileFixity/ Protect and manage data for long term storage
+
 https://forum.acronis.com/forum/topic/reflecting-post-ati-world
 
 https://freefilesync.org/

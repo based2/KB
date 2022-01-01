@@ -18,3 +18,6 @@ http://pablojs.com/
 * https://github.com/premasagar/pablo
 
 https://news.ycombinator.com/item?id=29430368
+
+https://hackage.haskell.org/package/reanimate
+> https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html

@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://alextardif.com/LearningGraphics.html
+> https://news.ycombinator.com/item?id=29755242
+
 https://sketch.metademolab.com/
 > https://news.ycombinator.com/item?id=29635422
 

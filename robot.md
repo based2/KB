@@ -33,6 +33,9 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://spectrum.ieee.org/warehouse-robot
+> https://news.ycombinator.com/item?id=29724001
+
 https://liuliu.me/eyes/research-notes-on-humanoid-robots/
 > https://news.ycombinator.com/item?id=29559465
 

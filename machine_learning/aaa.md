@@ -257,6 +257,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://lastweekin.ai/p/gpt-3-foundation-models-and-ai-nationalism
+
+https://serokell.io/blog/how-sber-built-rudall-e
+> https://news.ycombinator.com/item?id=29729403
+
 https://vaclavkosar.com/ml/DeepMinds-RETRO-Transformer-Model
 
 https://mlconsole.com/

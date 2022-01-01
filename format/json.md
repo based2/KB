@@ -71,6 +71,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://www.ibm.com/docs/en/datapower-gateways/10.0.1?topic=jsonx-conversion-example
+> https://jsonx.org/#/
+
 https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/
 > https://news.ycombinator.com/item?id=29435786
 

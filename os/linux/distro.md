@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=CentOS-Linux-8-EOL CentOS Linux 8 Reaches End-Of-Life
+> https://news.ycombinator.com/item?id=29749540
+
 https://gobolinux.org/ redefines the entire filesystem hierarchy, ilesystem is the database: each program resides in its own directory
 > https://news.ycombinator.com/item?id=29714825
 

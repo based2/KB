@@ -14,3 +14,6 @@ https://www.bloomberg.com/news/articles/2015-06-08/how-77-metro-agencies-design-
 
 https://partnerdash.google.com/apps/matrix/search flight
 > https://news.ycombinator.com/item?id=29425650
+
+https://medium.com/@tkdynation/will-citroen-manage-to-reinvent-the-wheel-b74a07c056ce
+> https://news.ycombinator.com/item?id=29724304
