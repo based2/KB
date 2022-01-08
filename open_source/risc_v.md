@@ -84,3 +84,6 @@ https://www.notebookcheck.net/Computer-scientist-showcases-world-s-first-RISC-V-
 https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.16-RISC-V
 
 https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/#
+
+https://github.com/riscv-collab/v8
+> https://news.ycombinator.com/item?id=25663403

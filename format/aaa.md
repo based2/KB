@@ -27,6 +27,10 @@ https://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html
 > https://news.ycombinator.com/item?id=29821687
 
 # News
+http://scripting.com/2022/01/08/153904.html?title=whyLogseq
+> http://opml.org/ interop between outliners and RSS readers
+> > an outline: tree, where each node contains a set of named attributes with string values
+
 https://www.stedi.com/blog/what-makes-edi-so-hard
 > https://news.ycombinator.com/item?id=29822773
 

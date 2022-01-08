@@ -26,6 +26,9 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://github.com/dgtlmoon/changedetection.io
+> https://news.ycombinator.com/item?id=29779618
+
 https://github.com/proninyaroslav/blink-comparison Images
 
 https://fedoramagazine.org/use-diffoscope-in-packager-workflows/

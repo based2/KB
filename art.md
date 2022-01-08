@@ -39,6 +39,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://genuary.art/
+> https://news.ycombinator.com/item?id=29779644
+
 https://adamfuhrer.com/building-generative-glitch-art-tools
 
 https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html

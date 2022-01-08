@@ -60,6 +60,12 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://twitter.com/paulg/status/1477760548787920901
+> https://news.ycombinator.com/item?id=29782186
+
+https://notrashsearch.github.io/
+> https://news.ycombinator.com/item?id=29774456
+
 http://infolab.stanford.edu/pub/papers/google.pdf
 > https://news.ycombinator.com/item?id=29836720
 

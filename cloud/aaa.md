@@ -23,6 +23,9 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.usenix.org/conference/osdi16/technical-sessions/presentation/adya Slicer: Auto-Sharding for Datacenter Applications
+> https://news.ycombinator.com/item?id=29775432
+
 https://github.com/heroku/heroku-guardian
 
 https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/

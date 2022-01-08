@@ -54,6 +54,9 @@ https://eisel.me/devtool-allocators
 > https://news.ycombinator.com/item?id=29068828
 
 # M1
+https://eclecticlight.co/2022/01/03/power-frequency-management-how-m1-e-cores-win/
+> https://news.ycombinator.com/item?id=29778990
+
 https://eclecticlight.co/2021/12/29/how-secure-boot-works-on-m1-series-macs/
 
 https://unum.cloud/post/2021-12-21-macbook/
@@ -138,6 +141,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://news.ycombinator.com/item?id=29850665 Tell HN: Full macOS reinstall because Apple ID
+> https://news.ycombinator.com/item?id=29850665
+
 https://github.com/antimof/UxPlay
 > https://news.ycombinator.com/item?id=29837837
 

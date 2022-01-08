@@ -43,7 +43,7 @@ https://blog.toit.io/hash-maps-that-dont-hate-you-1a96150b492a
 https://peter.website/meow-hash-cryptanalysis
 > https://news.ycombinator.com/item?id=27978878
 
-# UID
+# UUID
 https://github.com/kpdemetriou/fuuid
 > https://news.ycombinator.com/item?id=27030088
 
@@ -54,6 +54,11 @@ https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format#sec
 
 https://www.honeybadger.io/blog/uuids-and-ulids/
 > https://news.ycombinator.com/item?id=28948815
+
+https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/
+> https://news.ycombinator.com/item?id=29849791
+
+https://github.com/rs/xid
 
 #
 https://obua.com/publications/cosmo-id/3/

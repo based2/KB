@@ -133,6 +133,12 @@ https://maps.arcanum.com/en/map/europe-19century-secondsurvey/?layers=158%2C164&
 https://www.nps.gov/subjects/sound/soundmap.htm
 > https://news.ycombinator.com/item?id=29688423
 
+https://earth2day.com/TheWall/
+> https://news.ycombinator.com/item?id=29851399
+
+https://river-runner-global.samlearner.com/
+> https://news.ycombinator.com/item?id=29841737
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 

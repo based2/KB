@@ -151,6 +151,9 @@ https://github.com/public-apis/public-apis
 https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source
 > https://news.ycombinator.com/item?id=29106398
 
+https://blog.sequin.io/events-not-webhooks
+> https://news.ycombinator.com/item?id=29847462
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966

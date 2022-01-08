@@ -83,6 +83,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://susam.net/blog/gcd-grid.html
+> https://news.ycombinator.com/item?id=29850829
+
 https://en.wikipedia.org/wiki/List_of_conjectures
 > https://news.ycombinator.com/item?id=29843112
 

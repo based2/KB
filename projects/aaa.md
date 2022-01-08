@@ -182,6 +182,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://www.hyrumslaw.com/#
+
+
 https://nautil.us/issue/112/inspiration/what-makes-group-decisions-go-wrong-and-right
 
 https://tomlinford.com/posts/beating-velocity-and-scalability-tradeoff/

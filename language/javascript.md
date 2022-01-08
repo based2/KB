@@ -329,11 +329,18 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/DustinBrett/daedalOS Desktop environment in the browser
+
+https://www.state-designer.com/
+
 https://www.wisdomgeek.com/development/web-development/javascript/flatten-arrays-in-vanilla-javascript-with-flat-and-flatmap/
 > https://news.ycombinator.com/item?id=29809977
 
 https://divriots.com/blog/vite-in-the-browser
 > https://news.ycombinator.com/item?id=29810007
+
+https://github.com/Schneegans/Desktop-Cube/
+> https://news.ycombinator.com/item?id=29795508
 
 https://news.ycombinator.com/item?id=29837473 fakerjs
 

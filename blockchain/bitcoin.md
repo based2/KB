@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.isbitcoindownorjustme.com/
+> https://news.ycombinator.com/item?id=29854298
+
 https://www.coindesk.com/markets/2021/06/29/uk-court-orders-bitcoinorg-to-remove-white-paper-following-craig-wright-lawsuit/
 
 https://www.theregister.com/2022/01/06/craig_wright_satoshi_nakamoto_forgery_claims/

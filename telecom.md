@@ -40,7 +40,9 @@ https://podcastgameconsultant.com/gaming-news/5g-smartphones-2021/
 
 https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
 > https://news.ycombinator.com/item?id=27946947
-   
+
+https://www.faa.gov/newsroom/faa-statements-5g
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html

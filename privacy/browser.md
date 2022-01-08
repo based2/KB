@@ -9,6 +9,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://privacytests.org/
+> https://news.ycombinator.com/item?id=29850780
+
 https://github.com/einaregilsson/Redirector
 > https://news.ycombinator.com/item?id=29665373
 

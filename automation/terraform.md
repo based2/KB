@@ -40,6 +40,9 @@ https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terr
 https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 
 # News
+https://serdigital64.github.io/post/terraform/terraform-scripting-concepts-part1of2/
+> https://news.ycombinator.com/item?id=29780098
+
 https://github.com/terraform-aws-modules/terraform-aws-appsync
 
 https://chair6.net/programmatic-terraform-config-manipulation-semgreps-autofix-and-an-example-of-oss-contribution.html

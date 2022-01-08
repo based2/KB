@@ -82,6 +82,9 @@ https://github.com/maxvfischer/DIY-CNC-machine
 https://plasticscanner.com/
 > https://news.ycombinator.com/item?id=29269584
 
+https://www.bytesizedengineering.com/projects/openwheel
+> https://news.ycombinator.com/item?id=29797315
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 > https://news.ycombinator.com/item?id=27628101

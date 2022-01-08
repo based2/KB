@@ -32,6 +32,8 @@ https://arnaque-telephone.com/
 
 https://www.33700.fr/identifier-et-signaler-un-spam-sms/#comment-signaler-spam-sms
 
+https://rspamd.com
+
 # Security
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/
@@ -100,6 +102,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://github.com/joeyates/imap-backup
+> https://news.ycombinator.com/item?id=29849762
+
 https://news.ycombinator.com/item?id=29840119 Ask HN: Are there any tools to diagram long email chains?
 
 https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure

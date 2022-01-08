@@ -97,6 +97,17 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://www.gwern.net/CYOA
+> https://news.ycombinator.com/item?id=29781928
+
+https://romainstrock.com/blog/modeling-uncertainty-with-pytorch.html
+> https://news.ycombinator.com/item?id=29839806
+
+https://bevyengine.org/news/bevy-0-6/
+> https://news.ycombinator.com/item?id=29854416
+
+https://github.com/steveruizok/perfect-cursors
+
 https://news.ycombinator.com/item?id=29823957 rogue python
 
 https://github.com/WorldQL/worldql_server

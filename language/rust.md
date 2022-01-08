@@ -289,6 +289,8 @@ https://rustsec.org/advisories/RUSTSEC-2021-0121.html Non-aligned u32 read in Ch
 
 https://github.com/dtolnay/semver-trick
 
+https://github.com/EmbarkStudios/cargo-deny
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

@@ -1,3 +1,30 @@
+https://curlsh.com/
+> https://news.ycombinator.com/item?id=29779083
+
+https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/
+
+https://krebsonsecurity.com/2022/01/500m-avira-antivirus-users-introduced-to-cryptomining/
+> https://news.ycombinator.com/item?id=29854343
+> > Avira Operations GmbH, NortonLifeLock Inc.
+> Avira Operations GmbH & Co. KG, Kaplaneiweg 1, 88069 Tettnang, Germany
+> > NortonLifeLock Inc. Tempe, 60 E Rio Salado Pkwy Suite 1000, Tempe, AZ 85281 Arizona USA
+> https://twitter.com/mAxius/status/1476968324672204801
+> > https://news.ycombinator.com/item?id=29795910
+
+https://www.avanan.com/blog/google-docs-comment-exploit-allows-for-distribution-of-phishing-and-malware
+
+https://www.kit.edu/kit/english/pi_2021_117_it-security-computer-attacks-with-laser-light.php
+
+https://objective-see.com/blog/blog_0x6B.html
+> https://news.ycombinator.com/item?id=29849034
+
+https://bishopfox.com/blog/xmpp-underappreciated-attack-surface
+> https://news.ycombinator.com/item?id=29849510
+
+https://sockpuppets.medium.com/bypassing-door-passwords-4004b8d7995
+> https://share.streamlit.io/actuallytest/test2/main/main.py
+> https://news.ycombinator.com/item?id=29850384
+
 https://thenewstack.io/salt-security-finds-serious-graphql-api-security-hole/
 > https://salt.security/blog/api-threat-research-graphql-authorization-flaws-in-financial-technology-platform
 
@@ -25,6 +52,7 @@ https://www.tomshardware.com/news/ssd-over-provisioning-vulnerability
 > > https://arxiv.org/ftp/arxiv/papers/2112/2112.13923.pdf
 
 https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/
+> https://news.ycombinator.com/item?id=29847033
 
 https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/
 > https://news.ycombinator.com/item?id=29756714
@@ -300,6 +328,8 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://www.cyberkendra.com/2021/12/fourth-log4j-rce-vulnerability.html CVE-2021-44832 -> 2.17.1
 > > https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/
 > https://threatpost.com/ftc-pursue-companies-log4j/177368/
+> https://digital.nhs.uk/cyber-alerts/2022/cc-4002
+> > https://news.ycombinator.com/item?id=29850302
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

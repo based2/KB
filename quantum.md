@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Bell%27s_theorem
+
 https://www.nature.com/articles/s41586-021-04160-4 Quantum theory based on real numbers can be experimentally falsified
 > https://news.ycombinator.com/item?id=29643921
 
@@ -66,4 +68,4 @@ https://arstechnica.com/science/2021/09/understanding-neuromorphic-computing-and
 https://www.quantamagazine.org/major-quantum-computing-strategy-suffers-serious-setbacks-20210929/ topological quantum computing
 > https://news.ycombinator.com/item?id=28706974
 
-https://explainextended.com/2021/12/31/happy-new-year-13/
+https://explainextended.com/2021/12/31/happy-new-year-13/ Implement a quantum computer emulator in SQL

@@ -8,3 +8,6 @@ https://abhigamez.hashnode.dev/understanding-cors
 
 https://jakearchibald.com/2021/cors/
 > https://news.ycombinator.com/item?id=28861944
+
+https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/
+> https://news.ycombinator.com/item?id=29777145

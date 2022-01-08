@@ -78,6 +78,12 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://ebiten.org/blog/native_compiling_for_nintendo_switch.html
+> https://news.ycombinator.com/item?id=29780739
+
+https://fasterthanli.me/articles/abstracting-away-correctness
+> https://news.ycombinator.com/item?id=29846260
+
 https://tip.golang.org/doc/fuzz/
 
 https://github.com/teivah/100-go-mistakes

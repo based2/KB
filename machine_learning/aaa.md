@@ -61,7 +61,7 @@ https://aegeorge42.github.io/
 https://mchromiak.github.io/articles/2021/Jun/01/Decision-Transformer-Reinforcement-Learning-via-Sequence-Modeling-RL-as-sequence/
 > https://news.ycombinator.com/item?id=27659122
 
-### Transfomer
+### Transformer
 https://arxiv.org/abs/2106.06981 Thinking Like Transformers
 > https://news.ycombinator.com/item?id=27528004
  > https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html
@@ -247,6 +247,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/
+> https://news.ycombinator.com/item?id=29775610
+
+https://arxiv.org/abs/2112.15594 A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: Calculus, Differential Equations, Linear Algebra, and More
+> https://news.ycombinator.com/item?id=29853802
+
+https://github.com/webmachinelearning/webnn-polyfill
+
 https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
 
 https://dashbit.co/blog/elixir-and-machine-learning-nx-v0.1

@@ -76,6 +76,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+http://contemporary-home-computing.org/prof-dr-style/
+> https://news.ycombinator.com/item?id=29838309
+
 https://pencilandpaper.io/articles/ux-pattern-analysis-enterprise-filtering/
 
 https://news.ycombinator.com/item?id=29428533

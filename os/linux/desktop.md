@@ -36,6 +36,11 @@ https://usebottles.com/
 > https://www.playonlinux.com
 
 # News
+https://pointieststick.com/2022/01/07/this-week-in-kde-better-mtp-support/
+
+https://www.unixsheikh.com/articles/my-70-year-old-mother-has-been-using-linux-on-the-desktop-for-the-past-21-years.html
+> https://news.ycombinator.com/item?id=29847119
+
 https://snapcraft.io/blog/the-future-of-snapcraft
 > https://news.ycombinator.com/item?id=29839225
 

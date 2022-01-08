@@ -1,3 +1,6 @@
+https://github.com/maximeborges/pico-rmii-ethernet
+> https://news.ycombinator.com/item?id=29782281
+
 https://blog.robertelder.org/recording-660-fps-on-raspberry-pi-camera/
 > https://news.ycombinator.com/item?id=29703293
 

@@ -77,6 +77,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://theforrester.wordpress.com/2007/08/13/the-100-oldest-domains-on-the-internet/
+> https://news.ycombinator.com/item?id=29848381
+
 https://news.ycombinator.com/item?id=29810733 Amazom(dot)com redirects to our website. We don't own the domain
 
 https://educatedguesswork.org/posts/dns-security-dox/

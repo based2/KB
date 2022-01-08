@@ -16,7 +16,7 @@ https://github.com/deislabs/wagi WebAssembly Gateway Interface, Rust
 
 https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust
 
-# Cpmpile
+# Compile
 
 https://github.com/appcypher/awesome-wasm-langs
 
@@ -68,6 +68,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/PollRobots/scheme partial implementation of r7rs scheme
+> https://news.ycombinator.com/item?id=29773927
+
 https://jott.live/markdown/javascript_vector_addition
 
 https://github.com/turbolent/w2c2 to c

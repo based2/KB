@@ -68,6 +68,9 @@ https://cr.yp.to/publicfile.html
 https://www.innoq.com/de/blog/nginx-ssi-env/
 > https://news.ycombinator.com/item?id=28703680
 
+https://nginx.org/en/docs/control.html#upgrade
+> https://news.ycombinator.com/item?id=29797478
+
 ##
 https://caddyserver.com/
 > https://news.ycombinator.com/item?id=29378030

@@ -16,6 +16,9 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://aaronos.dev/AaronOS/aosBeta.php
+> https://news.ycombinator.com/item?id=29780150
+
 https://github.com/intigos/possimpible
 > https://news.ycombinator.com/item?id=29824304
 

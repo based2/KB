@@ -101,6 +101,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+http://flint.cs.yale.edu/cs421/case-for-ml.html
+
 https://www.researchgate.net/publication/230646750_A_Parametric_High_Level_Compiler
 > https://news.ycombinator.com/item?id=29830582
 

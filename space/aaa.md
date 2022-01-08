@@ -121,6 +121,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://twitter.com/NASA/status/1479837936430596097 jwst Mirrors Deployed
+> https://news.ycombinator.com/item?id=29853684
+
 https://destevez.net/2021/12/jwst-sequential-ranging/
 > https://news.ycombinator.com/item?id=29749148
 > https://twitter.com/NASAWebb/status/1477074540081692680

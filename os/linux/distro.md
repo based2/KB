@@ -62,6 +62,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.linuxmint.com/rel_una_cinnamon_whatsnew.php
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/DebianPackagePostinstIssue
 > https://news.ycombinator.com/item?id=29835245
 

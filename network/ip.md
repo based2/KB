@@ -43,6 +43,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://tech.marksblogg.com/where-are-ip-addresses-ipinfo.html
+> https://news.ycombinator.com/item?id=29848744
+
 https://www.ripe.net/manage-ips-and-asns/ipv4/ipv4-waiting-list
 > https://news.ycombinator.com/item?id=29502142
 

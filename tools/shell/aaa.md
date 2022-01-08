@@ -56,6 +56,11 @@ http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-
 > https://news.ycombinator.com/item?id=28104657
 
 # News
+https://www.grymoire.com/Unix/Sh.html
+
+https://utcc.utoronto.ca/~cks/space/blog/unix/ProcessSubstitutionWhyLate
+> https://news.ycombinator.com/item?id=29845232
+
 https://www.oilshell.org/blog/2021/11/release-0.9.4.html
 > https://news.ycombinator.com/item?id=29292187
 

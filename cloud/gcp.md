@@ -23,3 +23,6 @@ https://cloud.google.com/solutions/federal-government/defense
  
 https://cloud.google.com/blog/products/compute/introducing-compute-engine-predictive-autoscaling
 > https://news.ycombinator.com/item?id=27719071
+
+https://ninjalab.io/a-side-journey-to-titan/ CVE-2021-3011: Key recovery on Google Titan Key
+> https://news.ycombinator.com/item?id=25675556

@@ -245,11 +245,13 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/tkellogg/dura background process that watches your Git repositories and commits your uncommitted changes
+> https://news.ycombinator.com/item?id=29784238
+
 https://www.jenweber.dev/how-to-squash-and-rebase/
 > https://news.ycombinator.com/item?id=29839884
 
 https://lwn.net/Articles/877964/ Stochastic bisection in Git
-> 
 
 https://news.ycombinator.com/item?id=29756272 Ask HN: Do we need an easier Git?
 

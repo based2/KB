@@ -26,7 +26,11 @@ https://gitlab.com/moasdawiki/moasdawiki-server/-/tree/master/installer/linux/de
 https://github.com/qbit/widdler Go, 
 > https://news.ycombinator.com/item?id=29449283
 
-https://xwiki.com
+https://xwiki.com java
+> https://github.com/xwiki
+
+https://www.bookstackapp.com/ php
+> https://news.ycombinator.com/item?id=29851834
 
 # News
 https://www.fastcompany.com/90692176/chinese-wikipedia

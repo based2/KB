@@ -19,3 +19,5 @@ https://stuvel.eu/articles/spherical-panoramas/
 https://www.k-lens-one.com/en/home zeiss
 > https://news.ycombinator.com/item?id=29393049
 
+https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/
+> https://news.ycombinator.com/item?id=29845687

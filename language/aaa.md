@@ -200,7 +200,13 @@ https://github.com/carp-lang/Carp
 https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
+https://gigamonkeys.com/book/ Practical Common Lisp
+> https://news.ycombinator.com/item?id=29850703
+
 # News
+https://github.com/FastVM/minivm MiniVM: A zero-dependency cross-language runtime on par with LuaJIT and C
+> https://news.ycombinator.com/item?id=29850562
+
 https://snarky.ca/unravelling-finally-and-else-from-try/
 
 https://towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115
