@@ -104,6 +104,12 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
+https://www.nextplatform.com/2022/01/04/inside-amazons-graviton3-arm-server-processor/
+> https://news.ycombinator.com/item?id=29824956
+
+https://github.com/aidansteele/ipv6-ghost-ship
+> https://news.ycombinator.com/item?id=29818140
+
 https://muratbuffalo.blogspot.com/2021/12/graviton2-and-graviton3.html
 > https://news.ycombinator.com/item?id=29444746
 

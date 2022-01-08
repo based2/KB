@@ -12,6 +12,11 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.kernel.org/doc/html/latest/admin-guide/index.html
+
+https://lore.kernel.org/lkml/20220106235920.995517-1-Jason@zx2c4.com/ [GIT PULL] random number generator updates for 5.17
+> https://news.ycombinator.com/item?id=29840388
+
 https://twitter.com/FiloSottile/status/1476698207413493766 Linux Kernel RNG is now Blake2 instead of SHA1 and 3x faster
 > https://news.ycombinator.com/item?id=29742977
 

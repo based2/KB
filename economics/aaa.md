@@ -87,6 +87,8 @@ https://blog.primeclue.com/2021/09/improving-trading-system-profitability.html
 https://mantic.markets/
 > https://news.ycombinator.com/item?id=29729347
 
+https://corporatefinanceinstitute.com/resources/knowledge/modeling/modeloff-guide/
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

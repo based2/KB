@@ -67,6 +67,8 @@ https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-net
 https://cushychicken.github.io/rules-for-web-scrapers/
 
 # News
+https://solid.mit.edu/
+
 https://ansiwave.net/ BBS
 > https://news.ycombinator.com/item?id=29671889
 

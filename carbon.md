@@ -53,6 +53,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.theguardian.com/commentisfree/2021/dec/29/climate-scientist-dont-look-up-madness
+
 https://www.metoffice.gov.uk/about-us/press-office/news/weather-and-climate/2022/new-years-day
 > https://news.ycombinator.com/item?id=29760670
 

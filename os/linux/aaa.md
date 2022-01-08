@@ -80,6 +80,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://en.wikipedia.org/wiki/Zram
+
 https://mjg59.dreamwidth.org/58077.html Update on Linux hibernation support when lockdown is enabled
 > https://news.ycombinator.com/item?id=29758653
 

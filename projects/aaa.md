@@ -182,6 +182,11 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://nautil.us/issue/112/inspiration/what-makes-group-decisions-go-wrong-and-right
+
+https://tomlinford.com/posts/beating-velocity-and-scalability-tradeoff/
+> https://news.ycombinator.com/item?id=29815926
+
 https://blog.doubleloop.app/metrics-driven-product-development-is-hard/
 > https://news.ycombinator.com/item?id=29701074
 

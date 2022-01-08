@@ -195,6 +195,12 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://jalopnik.com/honda-clocks-are-stuck-20-years-in-the-past-and-this-mi-1848306970
+> https://news.ycombinator.com/item?id=29820145
+
+https://shademap.app/#47.24508,-120.08987,3.24198z,1641492931979t,-132.33425b,45p
+> https://news.ycombinator.com/item?id=29827943
+
 https://blog.openreplay.com/is-it-time-for-the-javascript-temporal-api
 > https://news.ycombinator.com/item?id=29712118
 

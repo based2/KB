@@ -162,6 +162,8 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://www.oilshell.org/blog/2021/12/review-arch.html
+
 https://github.com/donnemartin/system-design-primer
 > https://news.ycombinator.com/item?id=29716292
 

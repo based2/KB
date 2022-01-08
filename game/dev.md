@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://news.ycombinator.com/item?id=29823957 rogue python
+
 https://github.com/WorldQL/worldql_server
 > https://news.ycombinator.com/item?id=29744164
 

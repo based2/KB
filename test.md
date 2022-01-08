@@ -64,6 +64,9 @@ https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-st
 
 https://philipwalton.com/articles/performant-a-b-testing-with-cloudflare-workers/
 
+https://blog.alexandervolkmann.com/2022/01/05/conversion-rate-A-B-testing.html
+> https://news.ycombinator.com/item?id=29837922
+
 #
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
 > https://news.ycombinator.com/item?id=27923631

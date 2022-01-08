@@ -70,16 +70,6 @@ https://arxiv.org/abs/2106.06981 Thinking Like Transformers
 https://arxiv.org/abs/2005.04305
 > https://news.ycombinator.com/item?id=27458975
 
-# Image
-https://www.mattkeeter.com/research/mpr/
-> https://news.ycombinator.com/item?id=26873691
-
-https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html
-> https://news.ycombinator.com/item?id=27212270
-
-https://www.louisbouchard.ai/4k-image-translation-in-real-time/
-> https://news.ycombinator.com/item?id=27343670
-
 # Code assistant
 https://copilot.github.com/
 > https://news.ycombinator.com/item?id=27676266
@@ -257,6 +247,16 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+
+https://dashbit.co/blog/elixir-and-machine-learning-nx-v0.1
+> https://news.ycombinator.com/item?id=29822849
+
+https://mindmatters.ai/2022/01/will-chatbots-replace-the-art-of-human-conversation/
+> https://news.ycombinator.com/item?id=29825612
+
+https://blog.demofox.org/2022/01/01/interleaved-gradient-noise-a-different-kind-of-low-discrepancy-sequence/
+
 https://lastweekin.ai/p/gpt-3-foundation-models-and-ai-nationalism
 
 https://serokell.io/blog/how-sber-built-rudall-e

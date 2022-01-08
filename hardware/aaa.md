@@ -51,6 +51,8 @@ https://switchandclick.com/why-are-topre-keyboards-so-expensive/
 https://kinesis-ergo.com/keyboards/advantage360/
 > https://news.ycombinator.com/item?id=29594983
 
+https://github.com/wirekang/mouseable
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -63,6 +65,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://forum.radxa.com/t/introduce-the-radxa-zero/6550
+
 https://blog.senr.io/blog/jtag-explained
 
 https://www.tomshardware.com/news/researchers-develop-intelligent-transistors-uses-85-percent-fewer-transistors

@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/linux/DebianPackagePostinstIssue
+> https://news.ycombinator.com/item?id=29835245
+
 https://www.phoronix.com/scan.php?page=news_item&px=CentOS-Linux-8-EOL CentOS Linux 8 Reaches End-Of-Life
 > https://news.ycombinator.com/item?id=29749540
 

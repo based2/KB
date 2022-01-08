@@ -37,6 +37,9 @@ https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spa
 https://straw.page/
 > https://news.ycombinator.com/item?id=29270909
 
+https://dubroy.com/blog/three-ways-of-handling-user-input/
+> https://news.ycombinator.com/item?id=29811885
+
 # Contrast
 ## Dark mode
 https://www.w3schools.com/howto/howto_js_toggle_dark_mode.asp

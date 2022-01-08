@@ -38,6 +38,9 @@ https://www.moolenaar.net/habits.html
 https://groups.google.com/g/vim_announce/c/2XYAoPL2sqg Vim9 script feature-complete
 > https://news.ycombinator.com/item?id=29758549
 
+https://learnbyexample.github.io/mini/vim-prank/
+> https://news.ycombinator.com/item?id=29837543
+
 # Nano
 
 

@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://phys.org/news/2022-01-chinese-tokamak-facility-million-degree-seconds.html
+
 https://www.eetimes.com/breakthrough-in-efficient-powering-of-fusion-energy/
 > https://news.ycombinator.com/item?id=29719287
 

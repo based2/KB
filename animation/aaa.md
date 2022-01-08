@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://nullprogram.com/blog/2017/11/03/
+> https://news.ycombinator.com/item?id=29817394
+
 https://alextardif.com/LearningGraphics.html
 > https://news.ycombinator.com/item?id=29755242
 

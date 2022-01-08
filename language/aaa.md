@@ -15,6 +15,8 @@ https://plzoo.andrej.com/
 https://dockyard.com/blog/2021/08/10/what-if-coboltoelixir
 > https://news.ycombinator.com/item?id=28141289
 
+https://craftofcoding.wordpress.com/2022/01/05/why-fortran-is-easy-to-learn/
+
 # EL
 https://news.ycombinator.com/item?id=26983530
 
@@ -111,7 +113,6 @@ https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 https://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 > https://news.ycombinator.com/item?id=28916247
 
-
 # Code review
 https://itnext.io/im-changing-how-i-review-code-dbf212507e5f
 > https://news.ycombinator.com/item?id=27682002
@@ -177,6 +178,8 @@ https://medium.com/@jankammerath/why-and-how-cobol-is-still-used-1c0a0cc7ce74
 > https://news.ycombinator.com/item?id=29221877
 
 ## LISP
+http://www.paulgraham.com/bel.html
+
 https://lisp-lang.org/
 > https://news.ycombinator.com/item?id=28725958
 
@@ -198,6 +201,13 @@ https://ambrevar.xyz/modern-common-lisp/
 > https://news.ycombinator.com/item?id=29153440
 
 # News
+https://snarky.ca/unravelling-finally-and-else-from-try/
+
+https://towardsdatascience.com/6-julia-frameworks-to-create-desktop-guis-and-web-apps-9ae1a941f115
+> https://news.ycombinator.com/item?id=29813194
+
+https://forum.nim-lang.org/t/8780 One Language to Rule the Mole
+
 https://julesh.com/2020/08/15/probabilistic-programming-with-continuations/
 
 https://dev.to/redbar0n/features-of-a-dream-programming-language-cio

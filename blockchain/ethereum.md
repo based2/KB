@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://defi-learning.org/
+
 https://ethereum.org/en/developers/docs/mev/ miner
 
 https://bertcmiller.com/2021/12/28/glimpse_nonce_reuse.html

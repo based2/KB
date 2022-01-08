@@ -94,6 +94,12 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/
+> https://news.ycombinator.com/item?id=29817297
+
+https://www.cnil.fr/en/cookies-cnil-fines-google-total-150-million-euros-and-facebook-60-million-euros-non-compliance
+> https://news.ycombinator.com/item?id=29821386
+
 https://tutanota.com/blog/posts/data-retention-germany/
 > https://news.ycombinator.com/item?id=29738437
 

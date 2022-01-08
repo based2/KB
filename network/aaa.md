@@ -49,6 +49,8 @@ https://en.wikipedia.org/wiki/Internet_background_noise
 https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-code-walkthrough/
 > https://news.ycombinator.com/item?id=27435081
 
+https://ishitatsuyuki.github.io/post/latencyflex/
+
 # Tests
 https://major.io/2021/06/06/a-new-future-for-icanhazip/
 > https://news.ycombinator.com/item?id=27415537
@@ -93,6 +95,14 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://quicwg.org/datagram/draft-ietf-quic-datagram.html An Unreliable Datagram Extension to QUIC
+> https://news.ycombinator.com/item?id=29837799
+
+https://stat.ripe.net/widget/routing-history#w.resource=as15562&w.starttime=2017-01-15T00%3A00%3A00&w.endtime=2017-06-23T00%3A00%3A00&show=Maxmized
+> https://news.ycombinator.com/item?id=29841231
+
+https://en.wikipedia.org/wiki/Silly_window_syndrome
+
 https://news.ycombinator.com/item?id=29702844 Ask HN: Please recommend a router without need for a cloud account
 
 https://www.jeffgeerling.com/blog/2021/check-your-driver-faster-linux-25g-networking-realtek-rtl8125b

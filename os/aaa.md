@@ -16,6 +16,12 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://github.com/intigos/possimpible
+> https://news.ycombinator.com/item?id=29824304
+
+https://www.friendlyskies.net/notebook/giving-haiku-os-beta-3-a-try
+> https://news.ycombinator.com/item?id=29757451
+
 https://discuss.haiku-os.org/t/my-progress-in-porting-wine/11741
 > https://news.ycombinator.com/item?id=29753069
 

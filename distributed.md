@@ -82,6 +82,9 @@ https://github.com/tylertreat/comcast
 https://github.com/honzaap/Systemizer system design tool used to create and simulate large scale distributed systems
 
 # News
+https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html
+> https://news.ycombinator.com/item?id=29821169
+
 https://replicated.cc/files/schmebulock.pdf Swarm consensus
 > https://news.ycombinator.com/item?id=29711381
 

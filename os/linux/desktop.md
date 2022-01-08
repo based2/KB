@@ -36,6 +36,9 @@ https://usebottles.com/
 > https://www.playonlinux.com
 
 # News
+https://snapcraft.io/blog/the-future-of-snapcraft
+> https://news.ycombinator.com/item?id=29839225
+
 https://linuxfr.org/news/gworkspace-1-0-pour-noel-et-pour-bertrand-dekoninck
 
 https://robert.winter.ink/the-linux-paradigm/

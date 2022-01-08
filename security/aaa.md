@@ -122,5 +122,9 @@ https://trevorklee.com/how-to-spot-a-good-fake-id/
 # Book
 https://people.scs.carleton.ca/~paulv/toolsjewels.html
 
+# History
+https://www.mattblaze.org/blog/badges/
+> https://news.ycombinator.com/item?id=29813279
+
 
 

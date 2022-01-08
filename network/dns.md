@@ -77,6 +77,14 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://news.ycombinator.com/item?id=29810733 Amazom(dot)com redirects to our website. We don't own the domain
+
+https://educatedguesswork.org/posts/dns-security-dox/
+> https://news.ycombinator.com/item?id=29815945
+
+https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/
+> https://news.ycombinator.com/item?id=29812736
+
 https://www.templetons.com/brad/dns/vanity-tld.html
 > https://news.ycombinator.com/item?id=29760583
 

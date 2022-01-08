@@ -245,6 +245,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://www.jenweber.dev/how-to-squash-and-rebase/
+> https://news.ycombinator.com/item?id=29839884
+
 https://lwn.net/Articles/877964/ Stochastic bisection in Git
 > 
 

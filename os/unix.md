@@ -39,3 +39,6 @@ https://www.bell-labs.com/usr/dmr/www/otherports/ibm.pdf
 > https://news.ycombinator.com/item?id=29571997
 
 http://blog.kember.net/articles/reisub-the-gentle-linux-restart/
+
+https://beej.us/guide/bgipc/html/multi/index.html
+> https://news.ycombinator.com/item?id=29829483

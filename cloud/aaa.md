@@ -15,6 +15,7 @@ https://github.com/255kb/stack-on-a-budget
 
 # Security
 https://github.com/nccgroup/ScoutSuite
+> https://news.ycombinator.com/item?id=29827366
 
 https://roadmap.cloudsecdocs.com/
 
@@ -22,6 +23,11 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://github.com/heroku/heroku-guardian
+
+https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/
+> https://news.ycombinator.com/item?id=29816504
+
 https://www.youtube.com/watch?v=Wh_HpPwSswo Cut My Cloud Bill // Traefik | Tailscale (Part One)
 > https://news.ycombinator.com/item?id=29757469
 

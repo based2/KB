@@ -322,6 +322,12 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://www.brandons.me/blog/polymorphism-in-rust
+> https://news.ycombinator.com/item?id=29825077
+
+https://cantortrading.fi/rust_decimal_str/
+> https://news.ycombinator.com/item?id=29840169
+
 https://epage.github.io/blog/2021/12/clap3/
 > https://news.ycombinator.com/item?id=29754510
 

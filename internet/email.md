@@ -100,6 +100,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://news.ycombinator.com/item?id=29840119 Ask HN: Are there any tools to diagram long email chains?
+
 https://utcc.utoronto.ca/~cks/space/blog/tech/EmailCriticalInfrastructure
 > https://news.ycombinator.com/item?id=29722537
 

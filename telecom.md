@@ -86,6 +86,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.antenna-theory.com/
+> https://news.ycombinator.com/item?id=29839526
+
 https://www.avweb.com/aviation-news/faa-shows-sample-notams-for-possible-5g-restrictions/
 > https://news.ycombinator.com/item?id=29694085
 

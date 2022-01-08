@@ -1,3 +1,5 @@
+https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
+
 https://petapixel.com/2021/12/16/sony-unveils-groundbreaking-cmos-sensor-that-gathers-twice-the-light/
 
 https://arxiv.org/abs/2005.09898 Fluidic Shaping of Optical Components

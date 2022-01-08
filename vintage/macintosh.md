@@ -32,6 +32,9 @@ https://systemtalk.org/post/macintosh-history-8510/
 
 https://blog.greggant.com/posts/2021/12/18/ppc-qemu-mac-os-9-with-sound-on-apple-silicon-intel-mac.html
 
+https://www.darlinghq.org/
+> https://news.ycombinator.com/item?id=29813679
+
 # HyperCard
 https://hypercard.org/
 

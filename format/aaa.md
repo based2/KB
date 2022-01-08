@@ -23,7 +23,13 @@ https://blog.benjojo.co.uk/post/not-all-jpegs-are-the-same
 https://phoboslab.org/log/2021/12/qoi-specification
 > https://news.ycombinator.com/item?id=29625084
 
+https://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html
+> https://news.ycombinator.com/item?id=29821687
+
 # News
+https://www.stedi.com/blog/what-makes-edi-so-hard
+> https://news.ycombinator.com/item?id=29822773
+
 https://www.thanassis.space/asn1.html
 > https://news.ycombinator.com/item?id=29681175
 

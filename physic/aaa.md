@@ -54,6 +54,9 @@ https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-mult
 https://www.franceculture.fr/emissions/la-methode-scientifique/positronium-un-parfum-dexotisme
 
 # News
+https://www.quantamagazine.org/an-injection-of-chaos-solves-decades-old-fluid-mystery-20220104/
+> https://news.ycombinator.com/item?id=29811247
+
 https://semiengineering.com/chasing-after-carbon-nanotube-fets/
 
 https://www.quantamagazine.org/the-year-in-physics-20211222/

@@ -1,3 +1,14 @@
+https://opensource.org/licenses
+
+https://resources.whitesourcesoftware.com/blog-whitesource/open-source-licenses-explained
+
+https://en.wikipedia.org/wiki/Copyleft
+
+https://oss.oracle.com/licenses/upl/
+> https://lobste.rs/s/u0illx/universal_permissive_license
+
+https://google.github.io/opencasebook/patents/
+
 https://github.com/microsoft/grpc_bench/commit/04c7143a39a0bb243369e31f3b3b797449468fdb
 > https://news.ycombinator.com/item?id=29683471
 

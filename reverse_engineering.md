@@ -1,3 +1,5 @@
+https://hackaday.com/2022/01/06/remoticon-2021-unbinare-brings-a-reverse-engineering-toolkit-into-recycling/
+
 https://github.com/masaccio/numbers-parser Apple
 > https://news.ycombinator.com/item?id=29753204
 

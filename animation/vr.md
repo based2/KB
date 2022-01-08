@@ -1,3 +1,6 @@
+https://www.macrumors.com/2022/01/05/meta-halts-in-house-ar-vr-operating-system/
+> 
+
 https://simulavr.com/blog/vr-comparison/
 > https://news.ycombinator.com/item?id=29699702
 

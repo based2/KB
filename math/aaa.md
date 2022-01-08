@@ -83,6 +83,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://en.wikipedia.org/wiki/List_of_conjectures
+> https://news.ycombinator.com/item?id=29843112
+
 https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/
 > https://news.ycombinator.com/item?id=29721063
 

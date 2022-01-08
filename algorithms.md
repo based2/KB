@@ -65,6 +65,11 @@ https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/
 https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088
 
 # News
+https://higherlogics.blogspot.com/2020/05/dualcodual-numbers-for-forwardreverse.html
+> https://news.ycombinator.com/item?id=29828039
+
+https://www.bit-101.com/blog/2022/01/circle-inversion/
+
 https://archive.org/details/trakhtenbrot-algorithms-and-automatic-computing-machines-topics-in-mathematics
 
 https://news.ycombinator.com/item?id=29380468

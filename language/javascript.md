@@ -329,6 +329,14 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.wisdomgeek.com/development/web-development/javascript/flatten-arrays-in-vanilla-javascript-with-flat-and-flatmap/
+> https://news.ycombinator.com/item?id=29809977
+
+https://divriots.com/blog/vite-in-the-browser
+> https://news.ycombinator.com/item?id=29810007
+
+https://news.ycombinator.com/item?id=29837473 fakerjs
+
 https://terrainformatica.com/2021/04/25/sciter-uses-javascript-from-now-and-on/
 > https://news.ycombinator.com/item?id=29742670
 

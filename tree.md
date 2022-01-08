@@ -18,6 +18,9 @@ https://ericlippert.com/2012/06/08/red-green-trees/ roselyn AST
 > https://news.ycombinator.com/item?id=29680692
 > > https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust
 
+https://ryan-schachte.com/posts/dynamic-table-of-contents-using-recursion-trees
+> https://news.ycombinator.com/item?id=29818221
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576

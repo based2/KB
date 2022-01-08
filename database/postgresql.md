@@ -162,6 +162,9 @@ https://news.ycombinator.com/item?id=28707577
 https://babelfishpg.org/
 > https://github.com/babelfish-for-postgresql SQL server compatibility layer by AWS
 
+https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/
+> https://news.ycombinator.com/item?id=29825520
+
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 

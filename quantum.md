@@ -29,6 +29,8 @@ https://iai.tv/articles/quantum-mechanics-and-our-part-in-creating-reality-auid-
 https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-optical-quantum-computing-approach/
 
 # News
+https://www.qisforquantum.org/
+
 https://en.wikipedia.org/wiki/Quantum_compass
 
 https://arxiv.org/abs/2112.07978

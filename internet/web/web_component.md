@@ -23,3 +23,5 @@ https://til.simonwillison.net/npm/publish-web-component
 https://github.com/BuilderIO/mitosis
 
 https://shoelace.style/
+
+https://lit.dev/

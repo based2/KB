@@ -29,15 +29,6 @@ https://libreops.cc/
 https://www.osci.io/
 > https://www.spice-space.org/index.html
 
-# Licences
-https://opensource.org/licenses
-https://resources.whitesourcesoftware.com/blog-whitesource/open-source-licenses-explained
-https://en.wikipedia.org/wiki/Copyleft
-https://oss.oracle.com/licenses/upl/
-> https://lobste.rs/s/u0illx/universal_permissive_license
-
-https://google.github.io/opencasebook/patents/
-
 # Funding
 https://news.ycombinator.com/item?id=26578898
 
@@ -189,6 +180,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://snopyta.org/
+
 https://wiki.documentfoundation.org/ReleaseNotes/7.3
 
 http://catb.org/~esr/writings/response-to-bezroukov.html

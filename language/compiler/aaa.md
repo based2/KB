@@ -101,6 +101,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.researchgate.net/publication/230646750_A_Parametric_High_Level_Compiler
+> https://news.ycombinator.com/item?id=29830582
 
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95644#c4 F2018 ieee_arithmetic gfortran
 

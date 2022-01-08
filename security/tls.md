@@ -115,6 +115,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://news.ycombinator.com/item?id=29839960 CloudFlare
+
 https://github.com/octeep/idris2-tls
 
 https://github.com/drwetter/testssl.sh

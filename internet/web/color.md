@@ -59,6 +59,8 @@ https://bottosson.github.io/posts/colorpicker/
 https://news.ycombinator.com/item?id=26934352
 
 #
+https://www.colorblindnesstest.org/farnsworth-munsell-100-hue-test/
+
 https://etiennefd.substack.com/p/paint-with-the-colors-that-dont-exist
 
 https://twitter.com/DanHollick/status/1468958644364402702 APCA (Advanced Perceptual Contrast Algorithm)

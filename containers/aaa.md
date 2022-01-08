@@ -36,6 +36,17 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/solo-io/bumblebee BumbleBee helps to build, run and distribute eBPF programs using OCI images
+
+https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42
+> https://news.ycombinator.com/item?id=29816972
+
+https://github.com/Shogan/kube-chaos
+> https://news.ycombinator.com/item?id=29843685
+
+https://contains.dev/blog/optimizing-docker-image-size
+> https://news.ycombinator.com/item?id=29828386
+
 https://www.miketheman.net/2021/12/28/container-to-container-communication/
 > https://news.ycombinator.com/item?id=29716833
 

@@ -59,7 +59,13 @@ https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/
 https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
-# 
+# News
+http://infolab.stanford.edu/pub/papers/google.pdf
+> https://news.ycombinator.com/item?id=29836720
+
+https://kagi.com/
+> https://news.ycombinator.com/item?id=29835756
+
 https://bing.ly/ nft
 
 https://github.com/mwmbl/mwmbl Python GPL

@@ -190,12 +190,24 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://confuzeus.com/hub/django-web-framework/dangerous-defaults/
+> https://news.ycombinator.com/item?id=29829187
+
+https://til.simonwillison.net/python/init-subclass
+> https://news.ycombinator.com/item?id=29811154
+
+https://twitter.com/PredragGruevski/status/1478782546624360453 one-digit typo in the docs for Python's typing_extensions.
+> https://news.ycombinator.com/item?id=29814345
+
+https://codereviewdoctor.medium.com/5-of-666-python-repos-had-comma-typos-including-tensorflow-and-pytorch-sentry-and-v8-7bc3ad9a1bb7
+> https://news.ycombinator.com/item?id=29841560
+
 https://github.com/google/python-fire CLI generator
 
 https://sadh.life/post/ast/
 > https://news.ycombinator.com/item?id=29724431
 
-https://github.com/jtauber/cleese
+https://github.com/jtauber/cleese Build a functioning operating system
 > 
 
 https://github.com/Bycelium/PyFlow

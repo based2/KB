@@ -57,6 +57,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://joeldare.com/why-im-using-http-basic-auth-in-2022.html
+> https://news.ycombinator.com/item?id=29761728
+
 https://techblog.bozho.net/simple-things-that-are-actually-hard-user-authentication/
 
 https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-on-the-eu-digital-identity-framework/

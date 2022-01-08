@@ -62,6 +62,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://news.ycombinator.com/item?id=29825681 Launch HN: ContainIQ (YC S21) – Kubernetes Native Monitoring with eBPF
+
 https://www.koyeb.com/blog/the-true-cost-of-kubernetes-people-time-and-productivity
 > https://news.ycombinator.com/item?id=29737768
 

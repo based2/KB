@@ -8,3 +8,5 @@ https://news.rub.de/english/press-releases/2021-12-20-it-security-identifying-fa
 
 https://github.com/snakers4/silero-vad pre-trained enterprise-grade Voice Activity Detector
 > https://news.ycombinator.com/item?id=29734797
+
+https://petewarden.com/2022/01/06/launching-spchcat-an-open-source-speech-recognition-tool-for-linux-and-raspberry-pi/

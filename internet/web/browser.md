@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://browsix.org/
+> https://news.ycombinator.com/item?id=29823022
+
 https://oldweb.today/#19960101/http://geocities.com/
 > https://news.ycombinator.com/item?id=29734277
 

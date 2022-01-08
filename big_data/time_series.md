@@ -13,3 +13,5 @@ https://www.r-bloggers.com/2021/12/hundreds-of-statistical-machine-learning-mode
 
 https://xtdb.com/
 > https://news.ycombinator.com/item?id=29758334
+
+https://duckdb.org/2022/01/06/time-zones.html

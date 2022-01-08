@@ -5,9 +5,7 @@ https://smd.yooneed.one/code2e4d.html
 
 https://www.instructables.com/Touch-Screen-Cable-Tracer/
 
-
 https://www.electronicdesign.com/technologies/communications/article/21798737/understanding-modern-digital-modulation-techniques
-
 
 https://spectrum.ieee.org/event-based-camera-chips
 
@@ -17,6 +15,9 @@ https://techexplorations.com/blog/kicad/kicad-6-review-new-and-improved-features
 
 https://pinouts.org/
 > https://news.ycombinator.com/item?id=29681373
+
+https://www.revk.uk/2022/01/kicad-6.html
+> https://news.ycombinator.com/item?id=29823642
 
 # Microcontroller
 https://github.com/TUDSSL/BFree

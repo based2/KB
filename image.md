@@ -11,6 +11,9 @@ https://imglarger.com/
 https://resizer.in/
 
 #
+https://minimator.app/#/create
+> https://news.ycombinator.com/item?id=29838197
+
 https://www.remove.bg
 
 https://github.com/ORB-HD/deface

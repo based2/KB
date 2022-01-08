@@ -102,6 +102,12 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/ Restricting SSH agent keys
+> https://news.ycombinator.com/item?id=29816508
+
+https://goteleport.com/blog/5-ssh-best-practices/
+> https://news.ycombinator.com/item?id=29812819
+
 https://tinyssh.org/
 > https://news.ycombinator.com/item?id=29661170
 

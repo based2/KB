@@ -16,6 +16,11 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://arstechnica.com/gadgets/2022/01/new-solar-roof-can-be-nailed-just-like-old-school-shingles/
+
+https://news.stanford.edu/2021/12/14/new-materials-deliver-ultrathin-solar-panel/
+> https://news.ycombinator.com/item?id=29758412
+
 https://www.mobile-solarpower.com/
 > https://news.ycombinator.com/item?id=29688907
 

@@ -31,6 +31,11 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://old.reddit.com/r/NoStupidQuestions/comments/rxtl22/whatsapp_just_downloaded_12k_photos_of_other/
+> https://news.ycombinator.com/item?id=29835558
+
+https://social.gitea.io/@gitea/107576791626052697
+
 https://www.goodmorningamerica.com/wellness/story/experts-troubled-tiktok-trend-teens-believing-mental-disorders-81964649
 > https://news.ycombinator.com/item?id=29754789
 

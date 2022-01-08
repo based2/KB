@@ -56,6 +56,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://old.reddit.com/r/cscareerquestions/comments/rw3p8u/psa_if_you_want_to_know_why_a_big_company/
+> https://news.ycombinator.com/item?id=29814833
+
 https://gdprhub.eu/index.php?title=Datatilsynet_(Norway)_-_20/02136-18
 > https://news.ycombinator.com/item?id=29660643
 

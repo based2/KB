@@ -1,3 +1,22 @@
+https://thenewstack.io/salt-security-finds-serious-graphql-api-security-hole/
+> https://salt.security/blog/api-threat-research-graphql-authorization-flaws-in-financial-technology-platform
+
+https://bradleyjkemp.dev/post/are-you-building-features-for-phishers/
+
+https://arstechnica.com/information-technology/2022/01/5-months-on-apple-has-yet-to-fix-ios-bug-that-sends-devices-into-a-crash-spiral/
+> https://news.ycombinator.com/item?id=29762490
+> https://news.ycombinator.com/item?id=29840431
+
+https://nvd.nist.gov/vuln/detail/CVE-2021-44548 Apache Solr
+
+https://www.securitynewspaper.com/2022/01/07/new-critical-vulnerability-similar-to-log4j-discovered-in-java-applications-with-h2-databases/
+> https://github.com/h2database/h2database/security/advisories/GHSA-h376-j262-vhq6 RCE H2
+
+https://www.igorslab.de/en/intel-deactivated-avx-512-on-alder-lake-but-fully-questionable-interpretation-of-efficiency-news-editorial/
+> https://news.ycombinator.com/item?id=29837884
+
+https://trevorspiniolas.com/doorlock/doorlock.html
+
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44717 Go before 1.16.12 and 1.17.x before 1.17.5 on UNIX allows write operations to an unintended file or unintended network connection as a consequence of erroneous closing of file descriptor 0 after file-descriptor exhaustion
 
 https://www.tomshardware.com/news/ssd-over-provisioning-vulnerability
@@ -11,6 +30,7 @@ https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_
 > https://news.ycombinator.com/item?id=29756714
 > https://twitter.com/JRoosen/status/1477120097747677184
 > https://twitter.com/haydsays/status/1477147051209154562
+> > https://rachelbythebay.com/w/2022/01/01/baddate/
 
 https://old.reddit.com/r/sysadmin/comments/rt91z6/exchange_2019_antimalware_bad_update/
 > https://news.ycombinator.com/item?id=29756714
@@ -279,6 +299,7 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-log4j-scanner-triggers-false-positive-alerts/
 > https://www.cyberkendra.com/2021/12/fourth-log4j-rce-vulnerability.html CVE-2021-44832 -> 2.17.1
 > > https://checkmarx.com/blog/cve-2021-44832-apache-log4j-2-17-0-arbitrary-code-execution-via-jdbcappender-datasource-element/
+> https://threatpost.com/ftc-pursue-companies-log4j/177368/
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/
