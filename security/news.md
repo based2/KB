@@ -1,7 +1,21 @@
+auditable DNS resolution
+
+https://medium.com/cider-sec/npm-might-be-executing-malicious-code-in-your-ci-without-your-knowledge-e5e45bab2fed
+
+https://www.apple.com/privacy/docs/iCloud_Private_Relay_Overview_Dec2021.PDF
+> https://news.ycombinator.com/item?id=29854075
+
+https://mjg59.dreamwidth.org/58125.html MS Pluton security chip
+> https://news.ycombinator.com/item?id=29859106
+
+https://boingboing.net/2022/01/08/forced-by-shortages-to-sell-chipless-cartridges-canon-tells-customers-how-to-bypass-drm-warnings.html
+> https://news.ycombinator.com/item?id=29861752
+
 https://curlsh.com/
 > https://news.ycombinator.com/item?id=29779083
 
 https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/
+> https://news.ycombinator.com/item?id=29854983
 
 https://krebsonsecurity.com/2022/01/500m-avira-antivirus-users-introduced-to-cryptomining/
 > https://news.ycombinator.com/item?id=29854343
@@ -10,6 +24,7 @@ https://krebsonsecurity.com/2022/01/500m-avira-antivirus-users-introduced-to-cry
 > > NortonLifeLock Inc. Tempe, 60 E Rio Salado Pkwy Suite 1000, Tempe, AZ 85281 Arizona USA
 > https://twitter.com/mAxius/status/1476968324672204801
 > > https://news.ycombinator.com/item?id=29795910
+> https://www.schneier.com/blog/archives/2022/01/nortons-antivirus-product-now-includes-an-ethereum-miner.html#comments
 
 https://www.avanan.com/blog/google-docs-comment-exploit-allows-for-distribution-of-phishing-and-malware
 

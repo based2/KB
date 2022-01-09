@@ -36,6 +36,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/knrdl/casa Container as a Service Admin
+
 https://github.com/solo-io/bumblebee BumbleBee helps to build, run and distribute eBPF programs using OCI images
 
 https://eric-jadi.medium.com/minecraft-as-a-k8s-admin-tool-cf16f890de42

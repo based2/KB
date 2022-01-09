@@ -78,6 +78,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://eric.mann.blog/hashing-is-not-encryption/
+> https://news.ycombinator.com/item?id=29855212
+
 https://en.wikipedia.org/wiki/MurmurHash
 
 https://hypirion.com/musings/understanding-persistent-vector-pt-1 clojure

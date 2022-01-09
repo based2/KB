@@ -221,6 +221,7 @@ https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
 https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year
+> https://news.ycombinator.com/item?id=29858083
 
 https://heap.io/blog/optimizing-postgres-queries-at-scale
 > https://news.ycombinator.com/item?id=29715872

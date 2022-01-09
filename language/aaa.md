@@ -156,6 +156,8 @@ https://fortran.io/
 
 https://arxiv.org/abs/2109.07382 Toward Modern Fortran Tooling and a Thriving Developer Community
 
+https://digitalenvironment.org/exciting-recent-developments-for-fortran-coders/
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100
@@ -204,6 +206,11 @@ https://gigamonkeys.com/book/ Practical Common Lisp
 > https://news.ycombinator.com/item?id=29850703
 
 # News
+https://bellmar.medium.com/dockerizing-a-programming-language-b39bf7574d19
+
+https://mikerourke.dev/blog/robust-software-if-statements/
+> https://news.ycombinator.com/item?id=29857699
+
 https://github.com/FastVM/minivm MiniVM: A zero-dependency cross-language runtime on par with LuaJIT and C
 > https://news.ycombinator.com/item?id=29850562
 

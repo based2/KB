@@ -22,3 +22,6 @@ https://docs.modernxmpp.org/
 
 https://ssbc.github.io/scuttlebutt-protocol-guide/
 > https://news.ycombinator.com/item?id=29672518
+
+https://datatracker.ietf.org/doc/html/rfc2229 DICT
+> https://news.ycombinator.com/item?id=29858520

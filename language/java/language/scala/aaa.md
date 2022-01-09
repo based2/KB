@@ -68,6 +68,13 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://github.com/Iltotore/iron type
+
+https://github.com/JohnSnowLabs/spark-nlp/releases/tag/3.4.0
+
+https://medium.com/disney-streaming/this-week-in-scala-jan-3-2022-86d7e62b70aa
+> https://github.com/disneystreaming/smithy4s/
+
 https://medium.com/disney-streaming/this-week-in-scala-dec-27-2021-fef4537cbc55
 
 https://eed3si9n.com/sbt-1.6.1

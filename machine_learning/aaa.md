@@ -247,6 +247,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://thesephist.com/posts/notation/
+> https://news.ycombinator.com/item?id=29836435
+
+https://today.uconn.edu/2022/01/the-largest-suite-of-cosmic-simulations-for-ai-training-is-now-free-to-download-already-spurring-discoveries/
+> https://news.ycombinator.com/item?id=29861857
+
 https://xcorr.net/2021/12/31/2021-in-review-unsupervised-brain-models/
 > https://news.ycombinator.com/item?id=29775610
 

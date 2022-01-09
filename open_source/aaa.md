@@ -180,6 +180,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://libreboot.org/news/usa-libre.html
+> https://news.ycombinator.com/item?id=29857074
+
+https://sourcehut.org/blog/2021-01-09-how-does-our-business-work/
+> https://news.ycombinator.com/item?id=29862995
+
 https://snopyta.org/
 
 https://wiki.documentfoundation.org/ReleaseNotes/7.3

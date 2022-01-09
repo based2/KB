@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/salt-die/nurses_2 Terminal Graphics, Python
+> https://news.ycombinator.com/item?id=29845865
+
 https://nick-black.com/htp-notcurses.pdf
 > https://news.ycombinator.com/item?id=29450900
 

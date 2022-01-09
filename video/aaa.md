@@ -87,6 +87,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.movieofthenight.com/about/api
+> https://news.ycombinator.com/item?id=29862588
+
 https://www.lighterra.com/papers/videoencodingh264/
 
 https://www.mythtv.org/

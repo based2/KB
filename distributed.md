@@ -55,6 +55,7 @@ https://josephg.com/blog/crdts-go-brrr/
 
 https://arxiv.org/abs/2002.09511 Chronofold: a data structure for versioned text
 
+https://medium.com/figma-design/realtime-editing-of-ordered-sequences-c1e6b46fcd67
 
 # Concurrent updates
 https://martinfowler.com/articles/patterns-of-distributed-systems/version-vector.html
@@ -82,6 +83,12 @@ https://github.com/tylertreat/comcast
 https://github.com/honzaap/Systemizer system design tool used to create and simulate large scale distributed systems
 
 # News
+https://www.researchgate.net/profile/Xavier-Defago/publication/29682135_The_ph_accrual_failure_detector/links/0a85e53ce412e3b069000000/The-ph-accrual-failure-detector.pdf
+> 
+
+https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf
+> https://news.ycombinator.com/item?id=29837995
+
 https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html
 > https://news.ycombinator.com/item?id=29821169
 

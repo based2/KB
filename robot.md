@@ -33,6 +33,9 @@ https://blog.roboflow.com/zero-shot-object-tracking/
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.agriculture.com/news/technology/john-deere-unveils-fully-autonomous-8r-tractor
+> https://news.ycombinator.com/item?id=29858679
+
 https://spectrum.ieee.org/warehouse-robot
 > https://news.ycombinator.com/item?id=29724001
 

@@ -114,6 +114,9 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://blog.horizon-eda.org/progress/2022/01/09/progress-2021-09-12.html
+> https://horizon-eda.org/ Electronic Design Automation package for printed circuit board design
+
 https://fasterthanli.me/series/dont-shell-out/part-1 draw.io
 > https://news.ycombinator.com/item?id=29753638
 

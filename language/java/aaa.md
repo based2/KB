@@ -253,6 +253,12 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://jworks.io/datafaker-an-alternative-to-production-data/
+> https://www.reddit.com/r/java/comments/rvuyf7/datafaker_an_alternative_to_using_production_data/
+
+https://piotrminkowski.com/2022/01/05/useful-unknown-java-features/
+> https://www.reddit.com/r/java/comments/rwq385/useful_unknown_java_features_piotrs_techblog/
+
 https://blogs.oracle.com/javamagazine/post/java-nio-nio2-buffers-channels-async-future-callback
 > https://www.reddit.com/r/java/comments/rz1j0b/a_refresher_on_modern_lowlevel_java_file_io/
 

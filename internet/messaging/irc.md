@@ -16,3 +16,8 @@ https://ircv3.net/2021/11/17/spec-round-up
 https://convos.chat/ web
 
 https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_second_half_of_2021/
+
+https://susam.net/maze/simplicity-of-irc.html
+> https://news.ycombinator.com/item?id=29862550
+
+

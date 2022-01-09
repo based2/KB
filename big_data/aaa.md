@@ -123,6 +123,10 @@ https://github.com/gzuidhof/starboard-notebook
 ## https://www.evidence.dev/
 > https://news.ycombinator.com/item?id=27357140
 
+## Meta notebooks
+http://akkartik.name/post/literate-programming
+> https://news.ycombinator.com/item?id=29860951
+
 # http://fizzygum.org/
 https://news.ycombinator.com/item?id=27421401
 

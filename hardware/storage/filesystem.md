@@ -25,6 +25,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://github.com/trapexit/mergerfs
+> https://news.ycombinator.com/item?id=29835713
+
 https://taras.glek.net/post/nfs-for-fio/
 > https://news.ycombinator.com/item?id=29392402
 

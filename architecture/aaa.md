@@ -153,6 +153,7 @@ https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source
 
 https://blog.sequin.io/events-not-webhooks
 > https://news.ycombinator.com/item?id=29847462
+> https://news.ycombinator.com/item?id=29844529
 
 # Books
 https://github.com/mhadidg/software-architecture-books
@@ -165,6 +166,9 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://branislavjenco.github.io/desired-state-systems/
+> https://news.ycombinator.com/item?id=29843567
+
 https://www.oilshell.org/blog/2021/12/review-arch.html
 
 https://github.com/donnemartin/system-design-primer

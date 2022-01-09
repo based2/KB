@@ -62,6 +62,11 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://ludditus.com/2021/09/18/you-dont-even-know-how-terrible-your-linux-distro-is/
+
+https://utcc.utoronto.ca/~cks/space/blog/linux/DebianFixedMinimumUIDsGIDs
+> https://news.ycombinator.com/item?id=29859390
+
 https://www.linuxmint.com/rel_una_cinnamon_whatsnew.php
 
 https://utcc.utoronto.ca/~cks/space/blog/linux/DebianPackagePostinstIssue

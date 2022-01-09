@@ -103,6 +103,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://www.openssh.com/agent-restrict.html
+> https://news.ycombinator.com/item?id=29865876
+
 https://lwn.net/SubscriberLink/880458/5c4147ec8a7ca8df/ Restricting SSH agent keys
 > https://news.ycombinator.com/item?id=29816508
 

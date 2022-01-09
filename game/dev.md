@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://rg3d.rs/general/2022/01/07/0.24-feature-highlights.html
+
 https://www.gwern.net/CYOA
 > https://news.ycombinator.com/item?id=29781928
 

@@ -88,6 +88,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://www.sqlite.org/stricttables.html
+> https://news.ycombinator.com/item?id=29866097
+
 https://news.ycombinator.com/item?id=29830214 SQLite 3.37.2 fixes potentially database corruption bug
 
 https://ansiwave.net/blog/sqlite-over-http.html

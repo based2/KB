@@ -95,6 +95,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://kevincox.ca/2021/04/14/per-user-rate-limiting/
+> https://news.ycombinator.com/item?id=29860287
+
 https://quicwg.org/datagram/draft-ietf-quic-datagram.html An Unreliable Datagram Extension to QUIC
 > https://news.ycombinator.com/item?id=29837799
 

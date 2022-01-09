@@ -183,7 +183,7 @@ https://www.musicforprogramming.net/
 
 # News
 https://www.hyrumslaw.com/#
-
+> https://news.ycombinator.com/item?id=29848295
 
 https://nautil.us/issue/112/inspiration/what-makes-group-decisions-go-wrong-and-right
 
