@@ -102,6 +102,11 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://news.ycombinator.com/item?id=29894548 gmail spam
+
+https://www.learndmarc.com/
+> https://news.ycombinator.com/item?id=29869266
+
 https://news.ycombinator.com/item?id=29847624 The University of Minnesota spam filter might have just cost me Summa Cum Laude
 
 https://github.com/joeyates/imap-backup

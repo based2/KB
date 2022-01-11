@@ -205,7 +205,13 @@ https://ambrevar.xyz/modern-common-lisp/
 https://gigamonkeys.com/book/ Practical Common Lisp
 > https://news.ycombinator.com/item?id=29850703
 
+https://mov.im/?blog/phoe%40movim.eu/f76c3cd8-8d55-409a-9827-c1b345e8e3ad
+> https://news.ycombinator.com/item?id=29891523
+
 # News
+http://www.madore.org/~david/computers/quine.html
+> https://news.ycombinator.com/item?id=29888887
+
 https://bellmar.medium.com/dockerizing-a-programming-language-b39bf7574d19
 
 https://mikerourke.dev/blog/robust-software-if-statements/

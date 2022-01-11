@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Bring_your_own_encryption
 
+https://en.wikipedia.org/wiki/Key_Management_Interoperability_Protocol
+
 https://en.wikipedia.org/wiki/Key_management
 
 https://security.stackexchange.com/questions/243815/what-are-the-benefits-of-using-azure-rms-with-dke-instead-of-byok-hyok

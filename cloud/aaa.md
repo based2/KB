@@ -23,6 +23,9 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://unloc.app/en/magazine/we-cut-our-average-api-response-time-by-30-when-changing-from-cloud-functions-to-cloud-run
+> https://news.ycombinator.com/item?id=29889884
+
 https://www.usenix.org/conference/osdi16/technical-sessions/presentation/adya Slicer: Auto-Sharding for Datacenter Applications
 > https://news.ycombinator.com/item?id=29775432
 

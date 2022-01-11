@@ -51,6 +51,9 @@ https://snyk.io/blog/snyk-code-now-available-free-sast/
 https://deno.com/blog/deno-on-mdn
 > https://news.ycombinator.com/item?id=28274168
 
+https://byteofdev.com/posts/deno/
+> https://news.ycombinator.com/item?id=29870321
+
 https://deno.com/blog/v1.14
 > https://news.ycombinator.com/item?id=28550339
 

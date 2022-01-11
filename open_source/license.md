@@ -19,3 +19,6 @@ https://drewdevault.com/2019/06/13/My-journey-from-MIT-to-GPL.html
 
 https://jungu.me/post/time-to-review-the-open-source-cla/
 > https://news.ycombinator.com/item?id=29660134
+
+https://dpc.pw/making-open-source-economy-more-viable-with-dual-license-collectives
+> https://lobste.rs/s/3kyiif/making_open_source_economy_more_viable

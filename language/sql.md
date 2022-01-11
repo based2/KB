@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://datastation.multiprocess.io/blog/2022-01-11-dsq.html dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+> https://news.ycombinator.com/item?id=29892463
+
 https://gist.github.com/joelonsql/15b50b65ec343dce94db6249cfea8aaa SQL language proposal: JOIN FOREIGN
 > https://news.ycombinator.com/item?id=29739147
 

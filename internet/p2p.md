@@ -46,6 +46,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://blog.libtorrent.org/2020/09/bittorrent-v2/
+> https://news.ycombinator.com/item?id=29873106
+
 https://www.freedomjs.org/
 > https://news.ycombinator.com/item?id=29368502
 

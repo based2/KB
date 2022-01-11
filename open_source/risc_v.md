@@ -46,6 +46,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://www.curseforge.com/minecraft/mc-mods/oc2?t=kCSXxSMmvEldLgPycfMRkg&s=09
+> https://news.ycombinator.com/item?id=29885406
+
 https://danielmangum.com/posts/risc-v-bytes-privilege-levels/
 
 https://danielmangum.com/risc-v-tips/2021-12-25-csr-clear-set-bits/

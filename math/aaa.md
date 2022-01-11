@@ -83,6 +83,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/
+> https://news.ycombinator.com/item?id=29887620
+
 https://susam.net/blog/gcd-grid.html
 > https://news.ycombinator.com/item?id=29850829
 

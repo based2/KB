@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://twitter.com/prestonjbyrne/status/1480279783867039751
+> https://news.ycombinator.com/item?id=29874871
+
 https://defi-learning.org/
 
 https://ethereum.org/en/developers/docs/mev/ miner

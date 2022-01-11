@@ -184,6 +184,8 @@ https://elm-pages.com/blog/introducing-v2/
 https://engineering.rakuten.today/post/elm-at-rakuten/
 > https://news.ycombinator.com/item?id=28222060
 
+https://blogg.bekk.no/increasing-the-performance-of-elm-css-34075512d6a6
+
 ## Svelt
 https://news.ycombinator.com/item?id=26557886
 
@@ -329,6 +331,11 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/PipedreamHQ/pipedream
+
+https://github.com/windowjs/windowjs
+> https://news.ycombinator.com/item?id=29874029
+
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 
 https://www.state-designer.com/

@@ -53,6 +53,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://climate.copernicus.eu/copernicus-globally-seven-hottest-years-record-were-last-seven
+
 https://www.theguardian.com/commentisfree/2021/dec/29/climate-scientist-dont-look-up-madness
 
 https://www.metoffice.gov.uk/about-us/press-office/news/weather-and-climate/2022/new-years-day

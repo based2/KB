@@ -24,3 +24,6 @@ http://www.adama-lang.org/blog/woe-of-websocket/
 
 http://websocketd.com/
 > https://news.ycombinator.com/item?id=29656456
+
+https://ably.com/blog/introducing-the-websocket-handbook
+> https://news.ycombinator.com/item?id=29893242

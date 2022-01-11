@@ -37,6 +37,9 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 > https://news.ycombinator.com/item?id=28018057
 
 # News
+https://arstechnica.com/gadgets/2022/01/microsoft-posts-its-own-teardown-and-repair-video-for-the-surface-laptop-se/
+> https://news.ycombinator.com/item?id=29891900
+
 https://www.thetruthaboutcars.com/2021/11/right-to-repair-victory-forces-subaru-to-tweak-things-in-massachusetts/
 > https://news.ycombinator.com/item?id=29182115
 

@@ -53,6 +53,9 @@ https://kinesis-ergo.com/keyboards/advantage360/
 
 https://github.com/wirekang/mouseable
 
+https://github.com/taylorconor/threeboard
+> https://news.ycombinator.com/item?id=29892811
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -65,6 +68,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.anandtech.com/show/17203/pcie-60-specification-finalized-x16-slots-to-reach-128gbps
+
 https://forum.radxa.com/t/introduce-the-radxa-zero/6550
 
 https://blog.senr.io/blog/jtag-explained

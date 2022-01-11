@@ -247,6 +247,19 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/google/CFU-Playground
+> https://news.ycombinator.com/item?id=29889709
+
+https://flink.apache.org/news/2022/01/07/release-ml-2.0.0.html
+> https://news.ycombinator.com/item?id=29875238
+
+https://huyenchip.com/2022/01/02/real-time-machine-learning-challenges-and-solutions.html
+
+https://news.ycombinator.com/item?id=29875132 Launch HN: Nyckel (YC W22) – Train and deploy ML classifiers in minutes
+
+https://github.com/BoltzmannEntropy/interviews.ai
+> https://news.ycombinator.com/item?id=29876742
+
 https://thesephist.com/posts/notation/
 > https://news.ycombinator.com/item?id=29836435
 

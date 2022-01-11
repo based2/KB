@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.mozilla.org/en-US/firefox/96.0/releasenotes/
+> https://news.ycombinator.com/item?id=29891726
+
 https://github.com/fork-maintainers/iceraven-browser
 > https://news.ycombinator.com/item?id=29796314
 

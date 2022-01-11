@@ -324,6 +324,17 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://mabez.dev/blog/posts/esp-rust-10-01-2022/
+
+https://deterministic.space/bevy-labels.html
+
+https://0xc45.com/blog/digital-audio-synthesizer-in-rust/
+
+https://www.ncameron.org/blog/rust-in-2022-2/
+
+https://users.rust-lang.org/t/rust-should-have-a-big-standard-library-and-heres-why/37449?page=2
+> https://news.ycombinator.com/item?id=29877927
+
 https://www.brandons.me/blog/polymorphism-in-rust
 > https://news.ycombinator.com/item?id=29825077
 

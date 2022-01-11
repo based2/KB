@@ -101,6 +101,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://docs.siliconcompiler.com/en/latest/user_guide/introduction.html#motivation
+> https://github.com/siliconcompiler/siliconcompiler
+
 http://flint.cs.yale.edu/cs421/case-for-ml.html
 
 https://www.researchgate.net/publication/230646750_A_Parametric_High_Level_Compiler

@@ -62,6 +62,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://blog.marcua.net/2022/01/09/how-to-archive-a-website-thats-shutting-down-soon.html
+> https://news.ycombinator.com/item?id=29868240
+
 https://tracker.archiveteam.org/reddit/
 > https://news.ycombinator.com/item?id=29584622
 

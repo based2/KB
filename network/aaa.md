@@ -95,6 +95,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+http://www.hiveplot.com/
+
 https://kevincox.ca/2021/04/14/per-user-rate-limiting/
 > https://news.ycombinator.com/item?id=29860287
 

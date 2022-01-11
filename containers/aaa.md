@@ -36,6 +36,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.cncf.io/cncf-annual-report-2021/
+
 https://github.com/knrdl/casa Container as a Service Admin
 
 https://github.com/solo-io/bumblebee BumbleBee helps to build, run and distribute eBPF programs using OCI images

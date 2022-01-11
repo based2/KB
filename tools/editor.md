@@ -100,6 +100,9 @@ https://vscodium.com/
 
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
+https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript
+> https://news.ycombinator.com/item?id=29888221
+
 # Notes
 https://www.tatatap.com/
 > https://news.ycombinator.com/item?id=29663233
@@ -107,6 +110,11 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://blankly.finance/vscode-vs-jetbrains/
+> https://news.ycombinator.com/item?id=29887706
+
+https://news.ycombinator.com/item?id=29874669 Ask HN: How to learn about text editor architectures and implementations?
+
 https://blog.matthewdmiller.net/introduction-to-the-sam-text-editor
 > https://news.ycombinator.com/item?id=29677252
 

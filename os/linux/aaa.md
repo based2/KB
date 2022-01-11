@@ -80,6 +80,11 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://github.com/jbruchon/elks Intel IA16 architecture (16-bit processors: 8086, 8088, 80188, 80186, 80286, NEC V20, V30 and compatibles
+> https://news.ycombinator.com/item?id=29886588
+
+http://www.maizure.org/projects/decoded-gnu-coreutils/index.html
+
 https://en.wikipedia.org/wiki/Zram
 
 https://mjg59.dreamwidth.org/58077.html Update on Linux hibernation support when lockdown is enabled

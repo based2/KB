@@ -1,3 +1,5 @@
+https://ubuntu.com/blog/how-low-can-you-go-running-ubuntu-desktop-on-a-2gb-raspberry-pi-4
+
 https://github.com/maximeborges/pico-rmii-ethernet
 > https://news.ycombinator.com/item?id=29782281
 

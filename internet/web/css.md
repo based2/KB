@@ -70,6 +70,9 @@ https://ui.glass/generator/
 
 https://gra.dient.art/ $
 
+https://www.joshwcomeau.com/css/make-beautiful-gradients/
+> https://news.ycombinator.com/item?id=29894608
+
 ## Grid Layout
 
 https://grid.layoutit.com/

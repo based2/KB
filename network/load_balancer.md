@@ -36,6 +36,8 @@ https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-co
 > https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf The Power of Two Random Choices: A Survey of Techniques and Results
 
 # News
+https://twitter.com/gstrod/status/1480241557747994628 auto-scaling load balancer in ~50 lines of Go
+
 https://www.netris.ai/cloud-like-load-balancer/ K8S
 > https://news.ycombinator.com/item?id=29640068
 

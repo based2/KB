@@ -29,6 +29,8 @@ https://blog.thenounproject.com/mastering-the-basics-of-icon-design-with-adrien-
 https://svgsilh.com/
 > https://news.ycombinator.com/item?id=29376832
 
+https://news.ycombinator.com/item?id=29866570
+
 # Font
 https://tug.org/FontCatalogue/
 > https://news.ycombinator.com/item?id=27917366
@@ -62,3 +64,5 @@ https://smitop.com/post/gmail-s-fake-loading-indicator/
 > https://news.ycombinator.com/item?id=29184858
 
 https://interconnected.org/home/2021/04/23/star_wars
+
+https://aesthetics.fandom.com/wiki/Liminal_Space

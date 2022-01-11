@@ -180,6 +180,11 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.cyrius.com/foss-foundations/foss-foundations-research.pdf
+
+https://www.jeffgeerling.com/blog/2022/burden-open-source-maintainer
+> https://news.ycombinator.com/item?id=29876674
+
 https://libreboot.org/news/usa-libre.html
 > https://news.ycombinator.com/item?id=29857074
 

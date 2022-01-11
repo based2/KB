@@ -141,6 +141,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://github.com/divar-ir/NetShears Network interceptor framework written in Swift
+> https://news.ycombinator.com/item?id=29872786
+
 https://news.ycombinator.com/item?id=29850665 Tell HN: Full macOS reinstall because Apple ID
 > https://news.ycombinator.com/item?id=29850665
 

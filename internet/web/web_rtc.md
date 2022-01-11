@@ -22,6 +22,7 @@ https://terminal7.dev/
 
 https://wormhole.app/
 
-https://github.com/miroslavpejic85/mirotalk
+https://github.com/miroslavpejic85/mirotalk Zoom – Google meet Open Source alternative for smart working, php
 > https://news.ycombinator.com/item?id=29628895
+> https://news.ycombinator.com/item?id=29891050
 

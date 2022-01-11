@@ -1,3 +1,43 @@
+https://www.bleepingcomputer.com/news/security/kcodes-netusb-bug-exposes-millions-of-routers-to-rce-attacks/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-new-critical-windows-http-vulnerability-is-wormable/
+
+https://www.samba.org/samba/security/CVE-2021-43566.html
+
+https://www.cyberark.com/resources/threat-research-blog/dont-trust-this-title-abusing-terminal-emulators-with-ansi-escape-characters
+> https://www.reddit.com/r/netsec/comments/s0qyv0/abusing_terminal_emulators_with_ansi_escape/
+
+https://remyhax.xyz/posts/protonvpn-tcp-hacks/
+> https://www.reddit.com/r/netsec/comments/s0lpm1/protonvpn_tcp_accleration_synack_spoofing_analysis/
+
+https://rhinosecuritylabs.com/research/cve-2021-41577-evga-precision-x1/ CVE-2021-41577: MITM to RCE in EVGA Precision X1
+
+https://www.intezer.com/blog/malware-analysis/new-backdoor-sysjoker/
+> https://news.ycombinator.com/item?id=29896193
+
+https://blog.malwarebytes.com/threat-intelligence/2022/01/patchwork-apt-caught-in-its-own-web/
+> https://news.ycombinator.com/item?id=29887435
+
+https://alternativeto.net/news/2022/1/lastpass-seemingly-deliberately-holding-users-password-data-hostage-alongside-new-pricing-plans/
+> https://news.ycombinator.com/item?id=29895161
+
+https://haxx.in/posts/pwning-tipc/
+
+https://tanzu.vmware.com/security/cve-2021-22096 Log Injection in Spring Framework
+
+https://nvd.nist.gov/vuln/detail/CVE-2021-43858 minio
+
+https://nvd.nist.gov/vuln/detail/CVE-2022-0156 vim
+
+https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/
+
+https://www.bleepingcomputer.com/news/security/dev-corrupts-npm-libs-colors-and-faker-breaking-thousands-of-apps/
+> https://news.ycombinator.com/item?id=29863672
+
+http://www.nncpgo.org/
+
+https://youst.in/posts/cache-poisoning-at-scale/
+
 auditable DNS resolution
 
 https://medium.com/cider-sec/npm-might-be-executing-malicious-code-in-your-ci-without-your-knowledge-e5e45bab2fed
@@ -7,6 +47,8 @@ https://www.apple.com/privacy/docs/iCloud_Private_Relay_Overview_Dec2021.PDF
 
 https://mjg59.dreamwidth.org/58125.html MS Pluton security chip
 > https://news.ycombinator.com/item?id=29859106
+> https://www.electronicdesign.com/technologies/embedded-revolution/article/21149099/amd-intel-and-amd-to-add-secure-pluton-processor-to-future-cpus
+> > https://news.ycombinator.com/item?id=29866949
 
 https://boingboing.net/2022/01/08/forced-by-shortages-to-sell-chipless-cartridges-canon-tells-customers-how-to-bypass-drm-warnings.html
 > https://news.ycombinator.com/item?id=29861752

@@ -88,6 +88,12 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://9to5mac.com/2022/01/10/european-carriers-seek-to-block-iphone-private-relay-feature/
+> https://news.ycombinator.com/item?id=29875805
+
+https://9to5mac.com/2022/01/10/t-mobile-block-icloud-private-relay/
+> https://news.ycombinator.com/item?id=29880073
+
 https://www.antenna-theory.com/
 > https://news.ycombinator.com/item?id=29839526
 
