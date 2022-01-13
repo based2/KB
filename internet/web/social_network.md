@@ -18,6 +18,8 @@ https://news.ycombinator.com/item?id=29755614 Polls
 https://github.com/donnemartin/haxor-news
 > https://news.ycombinator.com/item?id=29759204
 
+https://news.ycombinator.com/item?id=29923736
+
 # Slashdot
 # Reddit
 
@@ -31,6 +33,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://tuxicoman.jesuislibre.net/2022/01/tutoriel-mastodon.html
+
 https://old.reddit.com/r/NoStupidQuestions/comments/rxtl22/whatsapp_just_downloaded_12k_photos_of_other/
 > https://news.ycombinator.com/item?id=29835558
 

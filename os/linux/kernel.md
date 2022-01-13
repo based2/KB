@@ -12,6 +12,13 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Linux-Tesla-FSD-SoC-Patches
+
+https://lwn.net/SubscriberLink/880699/63ad00ea7113bb26/ Some 5.16 kernel development statistics
+> https://news.ycombinator.com/item?id=29915755
+
+https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-Networking
+
 https://www.phoronix.com/scan.php?page=news_item&px=Fast-Kernel-Headers-v2
 
 https://www.kernel.org/doc/html/latest/admin-guide/index.html

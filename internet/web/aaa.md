@@ -66,6 +66,9 @@ https://connectingfigures.com/2021/11/15/how-to-scrape-and-extract-hyperlink-net
 
 https://cushychicken.github.io/rules-for-web-scrapers/
 
+https://scrapeops.io/blog/the-state-of-web-scraping-2022/
+> https://news.ycombinator.com/item?id=29905799
+
 # News
 https://blog.jim-nielsen.com/2022/a-web-for-all/
 > https://news.ycombinator.com/item?id=29894300
@@ -143,6 +146,8 @@ https://github.com/EtherDream/http-server-online
 > https://news.ycombinator.com/item?id=29047269
 
 https://gemini.circumlunar.space/docs/faq.gmi
+
+https://proxy.vulpes.one/gemini/skyjake.fi/gemlog/2022-01_cosmos.gmi
 
 https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/
 > https://news.ycombinator.com/item?id=28800818

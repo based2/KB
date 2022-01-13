@@ -88,6 +88,8 @@ https://en.wikipedia.org/wiki/Jacques_Philippe_Marie_Binet
 https://github.com/google/fully-homomorphic-encryption
 > https://news.ycombinator.com/item?id=27510902
 
+https://github.com/zama-ai/concrete-numpy
+
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 

@@ -78,6 +78,12 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/dboslee/lru
+> https://news.ycombinator.com/item?id=29905908
+
+https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/
+> https://news.ycombinator.com/item?id=29902825
+
 https://qvault.io/golang/struct-field-ordering-memory/
 
 https://ebiten.org/blog/native_compiling_for_nintendo_switch.html

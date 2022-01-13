@@ -167,6 +167,10 @@ https://github.com/toger5/TheBoard
 https://fosscord.com/ alpha
 > https://news.ycombinator.com/item?id=27720391
 
+https://cryptpad.cz/
+> https://github.com/xwiki-labs/cryptpad
+> > https://news.ycombinator.com/item?id=29921947
+
 # Media center
 https://kodi.tv/
 > https://news.ycombinator.com/item?id=28488668
@@ -180,6 +184,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc
+> https://news.ycombinator.com/item?id=29904261
+
+https://github.com/openfare/openfare
+> https://news.ycombinator.com/item?id=29909068
+
 https://www.cyrius.com/foss-foundations/foss-foundations-research.pdf
 
 https://www.jeffgeerling.com/blog/2022/burden-open-source-maintainer

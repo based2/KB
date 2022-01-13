@@ -36,5 +36,7 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 > https://news.ycombinator.com/item?id=29388588
 
 # News
+https://pjatk.in/avoiding-cache-stampede.html
+
 https://www.emergetools.com/blog/posts/SwiftProtocolConformance
 > https://news.ycombinator.com/item?id=29419349

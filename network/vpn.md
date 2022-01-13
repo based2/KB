@@ -29,6 +29,9 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # News
+https://github.com/amritb/poor-mans-vpn
+> https://news.ycombinator.com/item?id=29913515
+
 https://www.techradar.com/news/judge-orders-mediation-after-jury-orders-oxylabs-to-pay-dollar75m-in-latest-episode-of-proxy-wars
 > https://news.ycombinator.com/item?id=29285988
 

@@ -1,3 +1,8 @@
+https://devblogs.microsoft.com/oldnewthing/20220111-00/?p=106144
+
+https://reichel.dev/blog/reverse-engineering-wordle.html
+> https://news.ycombinator.com/item?id=29891222
+
 https://hackaday.com/2022/01/06/remoticon-2021-unbinare-brings-a-reverse-engineering-toolkit-into-recycling/
 
 https://github.com/masaccio/numbers-parser Apple

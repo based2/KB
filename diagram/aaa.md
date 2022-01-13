@@ -114,6 +114,12 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://pikchr.org/home/doc/trunk/homepage.md
+> https://news.ycombinator.com/item?id=29909560
+
+https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/
+> https://news.ycombinator.com/item?id=29871371
+
 https://blog.horizon-eda.org/progress/2022/01/09/progress-2021-09-12.html
 > https://horizon-eda.org/ Electronic Design Automation package for printed circuit board design
 

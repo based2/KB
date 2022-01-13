@@ -3,6 +3,8 @@ https://skepticalscience.com/EmmissionsAcceleration.html
 https://www.climatechangetracker.org/
 > https://news.ycombinator.com/item?id=29295018
 
+https://www.co2.earth/daily-co2
+
 https://www.oxygenlevels.org/
 
 https://scrippso2.ucsd.edu/index.html o2
@@ -53,6 +55,13 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.sciencedirect.com/science/article/pii/S0140988321006113 Toward a just energy transition: A distributional analysis of low-carbon policies in the USA
+
+https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee01532j CO2 capture by pumping surface acidity to the deep ocean†
+> https://news.ycombinator.com/item?id=29912896
+
+https://www.eurekalert.org/news-releases/939503
+
 https://climate.copernicus.eu/copernicus-globally-seven-hottest-years-record-were-last-seven
 
 https://www.theguardian.com/commentisfree/2021/dec/29/climate-scientist-dont-look-up-madness

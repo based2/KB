@@ -245,6 +245,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733 Using Git Commit Message Templates to Write Better Commit Messages
+> https://news.ycombinator.com/item?id=29911308
+
 https://github.com/tkellogg/dura background process that watches your Git repositories and commits your uncommitted changes
 > https://news.ycombinator.com/item?id=29784238
 

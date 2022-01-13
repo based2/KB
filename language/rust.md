@@ -143,6 +143,8 @@ https://github.com/bytedance/monoio
 
 https://kaylynn.gay/blog/post/rust_ranges_and_suffering
 
+https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -324,6 +326,14 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://lucumr.pocoo.org/2022/1/6/rust-extension-map/
+
+https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/
+> https://news.ycombinator.com/item?id=29924803
+
+https://blog.rust-lang.org/2022/01/13/Rust-1.58.0.html
+> https://news.ycombinator.com/item?id=29923390
+
 https://mabez.dev/blog/posts/esp-rust-10-01-2022/
 
 https://deterministic.space/bevy-labels.html

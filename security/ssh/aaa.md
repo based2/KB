@@ -103,6 +103,11 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://www.journalduhacker.net/s/hwiuio/emmerdez_les_pirates_ssh_avec_endlessh
+
+https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/
+> https://news.ycombinator.com/item?id=29924053
+
 https://twitter.com/antonmedv/status/1480978991309807616 Use StrictHostKeyChecking=“accept-new” instead of “no”
 > https://news.ycombinator.com/item?id=29896287
 > > https://stackoverflow.com/questions/21383806/how-can-i-force-ssh-to-accept-a-new-host-fingerprint-from-the-command-line/61946687#61946687

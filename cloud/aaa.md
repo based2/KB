@@ -23,6 +23,18 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://blog.revolve.team/2022/01/13/cloud-de-confiance-etat-des-lieux-2022/
+
+https://matt-rickard.com/aws-is-not-a-dumb-pipe/
+
+https://news.ycombinator.com/item?id=29910688 bintray
+
+https://www.vantage.sh/blog/2022-01-12-rds-vs-planetscale-pricing-considerations
+> https://news.ycombinator.com/item?id=29910812
+
+https://mullvad.net/en/blog/2022/1/12/diskless-infrastructure-beta-system-transparency-stboot/
+> https://news.ycombinator.com/item?id=29903695
+
 https://unloc.app/en/magazine/we-cut-our-average-api-response-time-by-30-when-changing-from-cloud-functions-to-cloud-run
 > https://news.ycombinator.com/item?id=29889884
 

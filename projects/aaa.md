@@ -182,6 +182,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://cushychicken.github.io/why-you-cant-hire-engineers/
+> https://news.ycombinator.com/item?id=29892437
+
 https://www.hyrumslaw.com/#
 > https://news.ycombinator.com/item?id=29848295
 

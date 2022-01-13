@@ -141,6 +141,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://mjtsai.com/blog/2022/01/12/catching-native-apps/
+>
+
 https://github.com/divar-ir/NetShears Network interceptor framework written in Swift
 > https://news.ycombinator.com/item?id=29872786
 

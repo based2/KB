@@ -65,6 +65,10 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434
+> https://news.ycombinator.com/item?id=29907551
+> > https://bugzilla.mozilla.org/show_bug.cgi?id=1253201
+
 https://ottertune.com/blog/2021-databases-retrospective/
 > https://news.ycombinator.com/item?id=29731885
 

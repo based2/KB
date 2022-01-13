@@ -35,6 +35,9 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://github.com/appform-io/signals
+> https://www.reddit.com/r/java/comments/s2nztt/signals_a_library_for_using_decoupled_observers/
+
 https://github.com/centiservice/mats3
 > https://news.ycombinator.com/item?id=28750222
 https://github.com/preslavmihaylov/booknotes/tree/master/java/programming-concurrency-jvm

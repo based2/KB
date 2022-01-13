@@ -247,6 +247,20 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html
+> https://news.ycombinator.com/item?id=29924974
+
+https://arnavdhamija.com/2022/01/08/intro-to-mpc/
+> https://news.ycombinator.com/item?id=29896105
+
+https://news.ycombinator.com/item?id=29920956 CatalyzeX
+
+https://nickdrozd.github.io/2022/01/10/another-self-cleaning-turing-machine.html
+> https://news.ycombinator.com/item?id=29888388
+
+https://discourse.julialang.org/t/state-of-machine-learning-in-julia/74385
+> https://news.ycombinator.com/item?id=29902846
+
 https://github.com/google/CFU-Playground
 > https://news.ycombinator.com/item?id=29889709
 

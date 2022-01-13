@@ -88,6 +88,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/
+> https://news.ycombinator.com/item?id=29915412
+
 https://9to5mac.com/2022/01/10/european-carriers-seek-to-block-iphone-private-relay-feature/
 > https://news.ycombinator.com/item?id=29875805
 

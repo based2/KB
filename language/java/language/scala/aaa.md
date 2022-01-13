@@ -68,6 +68,14 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://github.com/LesnyRumcajs/grpc_bench/wiki/2022-01-11-bench-results
+
+https://github.com/playframework/playframework/releases/2.8.13
+
+https://www.scala-lang.org/news/2.13.8
+
+https://scalameta.org/metals/blog/2022/01/12/aluminium/
+
 https://github.com/Iltotore/iron type
 
 https://github.com/JohnSnowLabs/spark-nlp/releases/tag/3.4.0

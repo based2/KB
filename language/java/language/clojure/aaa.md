@@ -83,6 +83,8 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://www.arthurbrrs.me/prerendering-react-clojurescript-land.html
+
 https://gigasquidsoftware.com/chemical-computing/index.html
 
 https://yogthos.net/posts/2022-01-08-IntroducingKit.html

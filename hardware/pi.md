@@ -1,3 +1,6 @@
+https://www.jeffgeerling.com/blog/2022/autofocus-on-pi-arducams-new-16mp-camera
+> https://news.ycombinator.com/item?id=29907272
+
 https://ubuntu.com/blog/how-low-can-you-go-running-ubuntu-desktop-on-a-2gb-raspberry-pi-4
 
 https://github.com/maximeborges/pico-rmii-ethernet

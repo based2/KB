@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://animatize.com/
+> https://news.ycombinator.com/item?id=29924666
+
 https://www.vantajs.com/ Animated 3D backgrounds for websites
 > https://news.ycombinator.com/item?id=29780423
 

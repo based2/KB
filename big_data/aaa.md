@@ -222,6 +222,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://docarray.jina.ai/get-started/what-is/
+
 https://www.microprediction.com/get-predictions
 
 https://github.com/castledio/castled Reverse ETL

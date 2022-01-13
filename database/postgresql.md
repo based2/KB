@@ -220,6 +220,13 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html
+> https://news.ycombinator.com/item?id=29910327
+
+https://www.adyen.com/blog/updating-a-50-terabyte-postgresql-database
+> https://news.ycombinator.com/item?id=29923303
+> > https://www.slony.info/
+
 https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year
 > https://news.ycombinator.com/item?id=29858083
 

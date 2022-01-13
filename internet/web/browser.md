@@ -30,6 +30,18 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://developer.chrome.com/blog/private-network-access-preflight/
+
+https://news.ycombinator.com/item?id=29918052 	Ask HN: Firefox connection problems after enabling DoH?
+
+https://github.com/jameshealyio/bang-bookmarks  DuckDuckGo's !bang shortcuts in firefox
+> https://news.ycombinator.com/item?id=29916609
+
+https://news.ycombinator.com/item?id=29900496 Why do new browsers use Chromium instead of Firefox as their base?
+
+https://therecord.media/chrome-will-limit-access-to-private-networks-citing-security-reasons/
+> https://news.ycombinator.com/item?id=29908670
+
 https://www.mozilla.org/en-US/firefox/96.0/releasenotes/
 > https://news.ycombinator.com/item?id=29891726
 

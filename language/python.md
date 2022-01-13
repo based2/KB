@@ -190,6 +190,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef repl
+> https://news.ycombinator.com/item?id=29906774
+
 https://gunicorn.org/
 > https://news.ycombinator.com/item?id=29874106
 

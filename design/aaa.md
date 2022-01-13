@@ -41,6 +41,9 @@ https://www.freetype.org/ttfautohint/
 https://pippin.gimp.org/0xA000/
 > https://news.ycombinator.com/item?id=29214919
 
+https://brutalita.com/ Experimental font and editor, edit in your browser and download the font
+> https://news.ycombinator.com/item?id=29921137
+
 #
 https://www.juliendesrosiers.com/2021/08/21/tools-for-thinking.php
 > https://news.ycombinator.com/item?id=28292225

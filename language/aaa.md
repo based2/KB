@@ -91,6 +91,9 @@ https://github.com/TartanLlama/vizh
 
 https://esolangs.org/wiki/Airline_Food
 
+https://github.com/SinaKhalili/Folders.py
+> https://news.ycombinator.com/item?id=29913880
+
 # Hackaton
 https://www.juricho.me/posts/online-hackathon/
 
@@ -208,7 +211,17 @@ https://gigamonkeys.com/book/ Practical Common Lisp
 https://mov.im/?blog/phoe%40movim.eu/f76c3cd8-8d55-409a-9827-c1b345e8e3ad
 > https://news.ycombinator.com/item?id=29891523
 
+https://woodrush.github.io/blog/posts/2022-01-12-sectorlisp-io.html
+> https://news.ycombinator.com/item?id=29903517
+
 # News
+https://depth-first.com/articles/2022/01/12/penny-codes/ fingerprint is a molecular representation
+
+https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/
+
+https://blog.ploeh.dk/2020/03/23/repeatable-execution/
+> https://news.ycombinator.com/item?id=29889186
+
 http://www.madore.org/~david/computers/quine.html
 > https://news.ycombinator.com/item?id=29888887
 

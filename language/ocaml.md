@@ -20,6 +20,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://linoscope.github.io/writing-a-game-boy-emulator-in-ocaml/
+> https://news.ycombinator.com/item?id=29904425
+
 https://github.com/ocaml/ocaml/commit/001997e81342fd0d321fd877b73608150601e7d9
 > https://news.ycombinator.com/item?id=29875442
 

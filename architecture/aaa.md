@@ -166,6 +166,8 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://www.usenix.org/conference/lisa-02/why-order-matters-turing-equivalence-automated-systems-administration
+
 https://branislavjenco.github.io/desired-state-systems/
 > https://news.ycombinator.com/item?id=29843567
 

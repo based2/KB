@@ -97,6 +97,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://github.com/bladecoder/bladecoder-adventure-engine
+> https://news.ycombinator.com/item?id=29872007
+
 https://ishitatsuyuki.github.io/post/latencyflex/
 > https://news.ycombinator.com/item?id=29874169
 

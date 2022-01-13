@@ -105,6 +105,12 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 #
+https://quickwit.io/blog/quickwit-0.2/
+> https://news.ycombinator.com/item?id=29904607
+
+https://blog.adamchalmers.com/nom-chars/
+> https://news.ycombinator.com/item?id=29897328
+
 https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python
 
 https://troff.org/

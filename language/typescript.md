@@ -64,6 +64,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://www.greyblake.com/blog/from-typescript-to-rescript/
+> https://news.ycombinator.com/item?id=29903631
+
 https://github.com/discuzz-app/discuzz
 > https://news.ycombinator.com/item?id=29832168
 

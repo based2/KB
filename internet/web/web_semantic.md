@@ -6,6 +6,8 @@ https://blog.adamretter.org.uk/vocabulary-reuse-part2/
 https://protege.stanford.edu/
 
 #
+https://neuml.github.io/txtai/embeddings/  engine that delivers semantic search
+
 https://ansiwave.net/blog/semantic-web.html
 > https://news.ycombinator.com/item?id=29897611
 

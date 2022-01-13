@@ -36,6 +36,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.dlford.io/how-to-home-lab-part-1/
+> https://news.ycombinator.com/item?id=29917860
+
 https://www.cncf.io/cncf-annual-report-2021/
 
 https://github.com/knrdl/casa Container as a Service Admin

@@ -39,6 +39,9 @@ https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-a
 > https://news.ycombinator.com/item?id=29366621
 
 # News
+https://writing.kemitchell.com/2021/06/15/Big-Time-1.0.0.html
+> https://news.ycombinator.com/item?id=29924637
+
 https://news.ycombinator.com/item?id=29366212
 
 https://copy-this-book.eu/ An artist’s guide to copyright

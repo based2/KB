@@ -12,5 +12,7 @@ https://danielyxie.github.io/bitburner/
 > https://news.ycombinator.com/item?id=29581110
 
 # News
+https://news.ycombinator.com/item?id=29913328 Which games do you recommend to improve thinking and reasoning?
+
 https://www.thegamer.com/steam-banned-china-christmas-day/
 > https://news.ycombinator.com/item?id=29682201

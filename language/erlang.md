@@ -101,6 +101,11 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3
+> https://news.ycombinator.com/item?id=29889535
+
+https://gleam.run/news/gleam-v0.19-released/
+
 https://www.erlang.org/blog/parallel-signal-sending-optimization/
 
 https://www.erlang.org/news/151 Announcing the new erlang.org

@@ -179,6 +179,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://parceljs.org/blog/parcel-css/
+> https://news.ycombinator.com/item?id=29909533
+
 https://cadars.github.io/photosheet/
 > https://news.ycombinator.com/item?id=29665246
 

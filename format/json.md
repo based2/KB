@@ -71,6 +71,8 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://arxiv.org/abs/2201.02089 A Survey of JSON-compatible Binary Serialization Specifications
+
 https://christine.website/blog/sqlite-json-munge-2022-01-04
 
 https://datastation.multiprocess.io/blog/2022-01-06-analyzing-large-json-files-via-partial-json-parsing.html

@@ -12,3 +12,6 @@ https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learning
 
 https://www.louisbouchard.ai/4k-image-translation-in-real-time/
 > https://news.ycombinator.com/item?id=27343670
+
+https://waifulabs.com/blog/ai-creativity
+> https://news.ycombinator.com/item?id=29901550

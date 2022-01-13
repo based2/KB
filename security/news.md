@@ -1,3 +1,40 @@
+https://arstechnica.com/information-technology/2022/01/new-chrome-security-measure-aims-to-curtail-an-entire-class-of-web-attack/
+
+https://github.com/advisories
+
+https://benhoyt.com/writings/dont-sanitize-do-escape/
+> https://news.ycombinator.com/item?id=29921276
+
+https://www.biscuitsec.org/
+
+https://blog.google/technology/safety-security/making-open-source-software-safer-and-more-secure/
+> https://news.ycombinator.com/item?id=29926955
+
+https://www.reuters.com/technology/white-house-will-meet-execs-apple-amazon-ibm-discuss-software-security-2022-01-13/
+> https://news.ycombinator.com/item?id=29924634
+
+https://orca.security/resources/blog/aws-cloudformation-vulnerability/
+> https://news.ycombinator.com/item?id=29922522
+
+https://orca.security/resources/blog/aws-glue-vulnerability/
+> https://news.ycombinator.com/item?id=29923004
+> https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
+
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-31166 MS HTTP RCE
+
+https://github.com/emalderson/ThePhish
+
+https://papers.vx-underground.org/papers/VXUG/Mirrors/APT_assessment_v3_FINAL.pdf An Empirical Assessment of Endpoint Security Systems Against Advanced Persistent Threats Attack Vectors
+> https://www.reddit.com/r/netsec/comments/s26cck/researchers_release_final_version_of_academic/
+
+https://www.theregister.com/2022/01/12/open_source_isnt_the_problem/
+
+https://www.fastly.com/blog/exploring-the-security-implications-of-graphql
+> https://news.ycombinator.com/item?id=29910443
+
+https://krebsonsecurity.com/2022/01/who-is-the-network-access-broker-wazawaka/
+> https://news.ycombinator.com/item?id=29908601
+
 https://www.bleepingcomputer.com/news/security/kcodes-netusb-bug-exposes-millions-of-routers-to-rce-attacks/
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-new-critical-windows-http-vulnerability-is-wormable/
@@ -387,6 +424,7 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://threatpost.com/ftc-pursue-companies-log4j/177368/
 > https://digital.nhs.uk/cyber-alerts/2022/cc-4002
 > > https://news.ycombinator.com/item?id=29850302
+> https://www.theguardian.com/news/2022/jan/13/pegasus-spyware-target-journalists-activists-el-salvador
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

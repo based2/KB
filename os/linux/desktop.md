@@ -36,6 +36,9 @@ https://usebottles.com/
 > https://www.playonlinux.com
 
 # News
+https://www.collabora.com/news-and-blog/blog/2021/12/22/wine-on-wayland-year-end-update-improved-functionality-stability/
+> https://news.ycombinator.com/item?id=29905142
+
 https://pointieststick.com/2022/01/07/this-week-in-kde-better-mtp-support/
 
 https://www.unixsheikh.com/articles/my-70-year-old-mother-has-been-using-linux-on-the-desktop-for-the-past-21-years.html

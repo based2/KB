@@ -77,6 +77,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://dns.lookup.dog/
+
 https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/
 > https://news.ycombinator.com/item?id=29891617
 

@@ -101,6 +101,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://rachitnigam.com/post/you-have-built-a-compiler/
+> https://news.ycombinator.com/item?id=29891428
+
 https://docs.siliconcompiler.com/en/latest/user_guide/introduction.html#motivation
 > https://github.com/siliconcompiler/siliconcompiler
 

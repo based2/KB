@@ -20,6 +20,8 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.bloomberg.com/news/articles/2022-01-13/arkansas-to-tech-workers-we-ll-pay-you-bitcoin-to-move
+
 https://skerritt.blog/response-to-moxie/
 > https://news.ycombinator.com/item?id=29850223
 

@@ -9,3 +9,5 @@ https://blog.marcnuri.com/fabric8-kubernetes-java-client-and-quarkus-and-graalvm
 https://microprofile.io/2021/12/07/microprofile-5-0-release/
 
 https://www.infoq.com/news/2021/12/microstream-storage-engine-6/
+
+https://github.com/piranhacloud/piranha/releases/tag/v22.1.0

@@ -23,6 +23,9 @@ https://www.nature.com/articles/548150a
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.media.mit.edu/projects/alterego/overview/
+> https://news.ycombinator.com/item?id=29871347
+
 https://news.ycombinator.com/item?id=29733577
 
 https://openbci.com/

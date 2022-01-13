@@ -121,6 +121,13 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://phys.org/news/2022-01-light-year-wide-earth-source-nearby.html
+
+https://newscenter.lbl.gov/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3d-map-of-the-cosmos/
+
+https://everydayastronaut.com/engine-cooling-methodes/
+> https://news.ycombinator.com/item?id=29922002
+
 https://jwst-docs.stsci.edu/
 > https://news.ycombinator.com/item?id=29862953
 

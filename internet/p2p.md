@@ -1,3 +1,6 @@
+https://boredcaveman.xyz/post/0x1_dbless-torrent-website.html
+> https://news.ycombinator.com/item?id=29917818
+
 https://torrentfreak.com/bittorrent-turns-20-the-file-sharing-revolution-revisited-210702/
 > https://news.ycombinator.com/item?id=27719222
 

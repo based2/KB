@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e
+> https://news.ycombinator.com/item?id=29921528
+
 https://datastation.multiprocess.io/blog/2022-01-11-dsq.html dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 > https://news.ycombinator.com/item?id=29892463
 

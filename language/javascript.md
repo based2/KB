@@ -331,6 +331,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://blog.openreplay.com/form-validation-using-javascript-s-constraint-validation-api
+
+https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a
+
 https://github.com/PipedreamHQ/pipedream
 
 https://github.com/windowjs/windowjs

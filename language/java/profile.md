@@ -9,3 +9,5 @@ https://bankstatementconverter.com/blog/posts/five-ways-i-handled-outofmemoryerr
 > https://news.ycombinator.com/item?id=28670152
 
 https://github.com/jvm-profiling-tools/async-profiler
+
+https://puzpuzpuz.io/benchmarking-non-shared-locks-in-java

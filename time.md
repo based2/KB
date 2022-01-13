@@ -180,7 +180,6 @@ https://en.wikipedia.org/wiki/Sidereal_time
 https://memgraph.com/blog/overflowing-timeout
 > https://news.ycombinator.com/item?id=27832690
 
-
 # History
 https://japantoday.com/category/features/lifestyle/the-%27wadokei%27-the-old-way-of-measuring-time-in-japan
 
@@ -195,6 +194,8 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://counting.substack.com/p/hate-leap-seconds-imagine-a-negative
+
 https://jalopnik.com/honda-clocks-are-stuck-20-years-in-the-past-and-this-mi-1848306970
 > https://news.ycombinator.com/item?id=29820145
 

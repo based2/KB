@@ -21,6 +21,9 @@ https://medium.com/@jayphelps/backpressure-explained-the-flow-of-data-through-so
 https://www.alwaysrightinstitute.com/async-io-by-example/
 > https://news.ycombinator.com/item?id=29451320
 
+https://blog.ometer.com/2011/07/24/callbacks-synchronous-and-asynchronous/
+> https://news.ycombinator.com/item?id=29909389
+
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815

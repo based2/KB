@@ -56,6 +56,12 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.theregister.com/2022/01/13/google_analytics_gdpr/
+> https://news.ycombinator.com/item?id=29921635
+
+https://noyb.eu/en/austrian-dsb-eu-us-data-transfers-google-analytics-illegal
+> https://news.ycombinator.com/item?id=29918496
+
 https://old.reddit.com/r/cscareerquestions/comments/rw3p8u/psa_if_you_want_to_know_why_a_big_company/
 > https://news.ycombinator.com/item?id=29814833
 

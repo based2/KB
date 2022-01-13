@@ -52,6 +52,8 @@ https://www.honeycomb.io/blog/scaling-kafka-observability-pipelines/
 
 https://github.com/provectus/kafka-ui
 
+https://www.confluent.io/blog/5-common-pitfalls-when-using-apache-kafka/
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

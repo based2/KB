@@ -68,7 +68,11 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.tomshardware.com/news/ultraram-implemented-in-silicon-for-first-time
+> https://news.ycombinator.com/item?id=29889741
+
 https://www.anandtech.com/show/17203/pcie-60-specification-finalized-x16-slots-to-reach-128gbps
+> https://news.ycombinator.com/item?id=29897280
 
 https://forum.radxa.com/t/introduce-the-radxa-zero/6550
 
