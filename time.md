@@ -194,6 +194,14 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://en.wikipedia.org/wiki/555_timer_IC
+
+https://www.nature.com/articles/d41586-020-01499-y Carbon dating, the archaeological workhorse, is getting a major reboot
+> https://news.ycombinator.com/item?id=29952909
+
+https://www.nist.gov/pml/time-and-frequency-division/time-services/ut1-ntp-time-dissemination
+> https://news.ycombinator.com/item?id=29929947
+
 https://counting.substack.com/p/hate-leap-seconds-imagine-a-negative
 
 https://jalopnik.com/honda-clocks-are-stuck-20-years-in-the-past-and-this-mi-1848306970

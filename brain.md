@@ -23,6 +23,9 @@ https://www.nature.com/articles/548150a
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://vcg.seas.harvard.edu/publications/a-connectomic-study-of-a-petascale-fragment-of-human-cerebral-cortex
+> https://news.ycombinator.com/item?id=29958886
+
 https://www.media.mit.edu/projects/alterego/overview/
 > https://news.ycombinator.com/item?id=29871347
 

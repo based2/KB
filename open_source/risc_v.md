@@ -46,6 +46,8 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://drewdevault.com/2022/01/15/2022-01-15-The-RISC-V-experience.html
+
 https://www.curseforge.com/minecraft/mc-mods/oc2?t=kCSXxSMmvEldLgPycfMRkg&s=09
 > https://news.ycombinator.com/item?id=29885406
 

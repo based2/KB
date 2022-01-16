@@ -15,3 +15,12 @@ https://www.louisbouchard.ai/4k-image-translation-in-real-time/
 
 https://waifulabs.com/blog/ai-creativity
 > https://news.ycombinator.com/item?id=29901550
+
+https://github.com/DanielRapp/cat-filter
+
+https://www.reddit.com/r/computervision/comments/s49lkt/google_ai_introduces_vmoe_a_new_architecture_for/
+
+https://cheezam.fr/
+> https://news.ycombinator.com/item?id=29955475
+
+https://nvlabs.github.io/instant-ngp/

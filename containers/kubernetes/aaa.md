@@ -62,6 +62,11 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.cloudquery.io/blog/running-nsa-and-cisa-kubernetes-hardening-tests-with-cloudquery-policies
+
+https://symbiosis.host/ Hetzner VPS
+> https://www.reddit.com/r/kubernetes/comments/s587ho/sharing_the_project_ive_worked_on_for_the_last_15/
+
 https://medium.com/@iamnayr/building-the-kubernetes-virtual-reality-experience-b681464f0c98
 > https://github.com/thenayr
 

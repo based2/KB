@@ -253,6 +253,11 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://michael-simons.github.io/neo4j-migrations/maintaining-a-medium-sized-java-library-in-2022-and-beyond/
+
+https://neil.computer/notes/teaching-how-to-code-is-broken/
+> https://news.ycombinator.com/item?id=29903202
+
 https://jworks.io/datafaker-an-alternative-to-production-data/
 > https://www.reddit.com/r/java/comments/rvuyf7/datafaker_an_alternative_to_using_production_data/
 

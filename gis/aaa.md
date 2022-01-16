@@ -139,6 +139,8 @@ https://earth2day.com/TheWall/
 https://river-runner-global.samlearner.com/
 > https://news.ycombinator.com/item?id=29841737
 
+https://openinframap.org/#2/26/12
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 
@@ -179,6 +181,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://blog.crunchydata.com/blog/postgis-3.2-new-and-improved
+
 https://www.insider.com/china-space-race-satellite-high-resolution-san-francisco-in-seconds-2021-12
 
 https://eox.at/2021/08/average-colors-of-the-world/

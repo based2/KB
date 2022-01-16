@@ -220,6 +220,8 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://postgres.ai/blog/20220114-progress-bar-for-postgres-queries-lets-dive-deeper
+
 https://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html
 > https://news.ycombinator.com/item?id=29910327
 

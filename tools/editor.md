@@ -110,6 +110,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://nickgravgaard.com/elastic-tabstops/
+
 https://blankly.finance/vscode-vs-jetbrains/
 > https://news.ycombinator.com/item?id=29887706
 

@@ -37,10 +37,12 @@ https://dramatica.com/resources/assets/dramatica-theory-book.pdf
 https://blog.klipse.tech/book/2021/12/19/100-things-I-learned-with-data-oriented-programming.html
 > https://news.ycombinator.com/item?id=29687935
 
+https://tarlton.law.utexas.edu/bluebook-legal-citation/intro-signals
+
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?
 
-# Dictonary
+# Dictionary
 https://jsomers.net/blog/dictionary
 > https://news.ycombinator.com/item?id=29734242
 

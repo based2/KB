@@ -8,3 +8,6 @@ https://codeberg.org/nobody/LocalCDN
 
 https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/
 > https://news.ycombinator.com/item?id=29412905
+
+https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889
+> https://news.ycombinator.com/item?id=29947320

@@ -1,3 +1,32 @@
+https://www.jerkeby.se/newsletter/posts/risk-aware-applications/
+> 
+
+https://pthree.org/2021/02/18/introducing-deckware-a-224-bit-entropy-extractor/
+> https://news.ycombinator.com/item?id=29932416
+
+https://www.blackhat.com/us-20/briefings/schedule/#you-have-no-idea-who-sent-that-email--attacks-on-email-sender-authentication-19902
+
+https://mailarchive.ietf.org/arch/msg/cose/8ywbcUy-YQZUh0JF4W5Tto1dCvg/
+> https://news.ycombinator.com/item?id=29954822
+
+https://www.kalmarunionen.dk/writeups/2021/hxp-2021/lkvm/
+
+https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/
+> https://news.ycombinator.com/item?id=29947396
+
+https://github.com/garywill/LAN-port-scan-forbidder
+> https://news.ycombinator.com/item?id=29946103
+
+https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/
+
+https://dl.acm.org/doi/abs/10.1145/3485832.3485894 Obfuscation Revealed: Leveraging Electromagnetic Signals for Obfuscated Malware Classification
+> https://www.schneier.com/blog/archives/2022/01/using-em-waves-to-detect-malware.html
+
+https://developers.redhat.com/articles/2022/01/12/prevent-trojan-source-attacks-gcc-12 (unicode issue detection)
+> https://news.ycombinator.com/item?id=29936814
+
+https://news.ycombinator.com/item?id=29943723
+
 https://arstechnica.com/information-technology/2022/01/new-chrome-security-measure-aims-to-curtail-an-entire-class-of-web-attack/
 
 https://github.com/advisories

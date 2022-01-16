@@ -131,6 +131,9 @@ https://ludotune.com
 https://www.pianobook.co.uk/
 > https://news.ycombinator.com/item?id=27454717
 
+https://muted.io/major-minor-scales/
+> https://news.ycombinator.com/item?id=29941801
+
 https://www.charlesbrooks.info/architecture-in-music
 > https://news.ycombinator.com/item?id=29389442
 

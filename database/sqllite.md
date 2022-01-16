@@ -88,6 +88,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://simonwillison.net/2022/Jan/11/sqlite-utils/
+
 https://www.sqlite.org/stricttables.html
 > https://news.ycombinator.com/item?id=29866097
 

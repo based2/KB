@@ -83,6 +83,9 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/
+> https://news.ycombinator.com/item?id=29955780
+
 https://web.nmsu.edu/~davidp/history/
 
 https://www.quantamagazine.org/eulers-243-year-old-impossible-puzzle-gets-a-quantum-solution-20220110/

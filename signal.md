@@ -13,6 +13,10 @@ https://medium.com/@trismegistus13/spectrograms-or-how-i-learned-to-stop-worryin
 https://www.cavelink.com/cl3x_neu/index.php/en/
 > https://news.ycombinator.com/item?id=29161153
 
+https://github.com/gnuradio/gnuradio
+> https://www.gnuradio.org/
+> https://news.ycombinator.com/item?id=29945181
+
 # FFT
 https://www.earlevel.com/main/2002/08/31/a-gentle-introduction-to-the-fft/
 > https://news.ycombinator.com/item?id=28926775
@@ -25,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+http://www.technoblogy.com/show?3QEF AM Morse-Code Transmitter
+> https://news.ycombinator.com/item?id=29955204
+
 https://schollz.com/blog/radio/
 > https://news.ycombinator.com/item?id=29921844
 

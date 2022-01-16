@@ -247,6 +247,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://arxiv.org/abs/1912.03817 Machine Unlearning
+
 https://ai.googleblog.com/2022/01/scaling-vision-with-sparse-mixture-of.html
 > https://news.ycombinator.com/item?id=29924974
 

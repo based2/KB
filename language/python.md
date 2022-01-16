@@ -135,6 +135,8 @@ https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/
 # Test
 https://docs.locust.io/en/stable/what-is-locust.html Load
 
+https://adamj.eu/tech/2022/01/14/make-simple-mocks-with-simplenamespace/
+
 # Data
 ## Validation
 https://blog.drewolson.org/declarative-validation
@@ -190,6 +192,20 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://tavianator.com/2022/long_division.html
+
+https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md
+
+https://github.com/Textualize/rich
+> https://news.ycombinator.com/item?id=29945848
+
+https://sethmlarson.dev/blog/python-prereleases-and-pip-cache
+
+https://pythoninsider.blogspot.com/2022/01/python-3102-3910-and-3110a4-are-now.html
+
+https://github.com/jokteur/python_communism
+> https://news.ycombinator.com/item?id=29942712
+
 https://blog.jupyter.org/release-of-ipython-8-0-6e034ff122ef repl
 > https://news.ycombinator.com/item?id=29906774
 

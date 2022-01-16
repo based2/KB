@@ -71,6 +71,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2895.htm
+> https://news.ycombinator.com/item?id=29957136
+
 https://jonasdn.blogspot.com/2020/10/proposal-to-add-build-graph-output-to.html
 > https://news.ycombinator.com/item?id=29851156
 

@@ -184,6 +184,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://blogs.apache.org/foundation/entry/apache-software-foundation-statement-on
+
 https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc
 > https://news.ycombinator.com/item?id=29904261
 

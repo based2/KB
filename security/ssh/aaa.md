@@ -69,6 +69,9 @@ https://vadosware.io/post/stuffing-both-ssh-and-https-on-port-443-with-stunnel-s
 https://goteleport.com/blog/ssh-tunneling-explained/
 > https://news.ycombinator.com/item?id=28802493
 
+https://github.com/opsdisk/the_cyber_plumbers_handbook
+> https://news.ycombinator.com/item?id=29946144
+
 # Blue
 https://www.tronyxworld.be/2020/hardening_ssh/
 

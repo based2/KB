@@ -179,6 +179,12 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://wolfoliver.medium.com/do-not-use-margins-in-css-really-bede799ac422
+> https://news.ycombinator.com/item?id=29941780
+
+https://simplecss.org/
+> https://news.ycombinator.com/item?id=29929438
+
 https://parceljs.org/blog/parcel-css/
 > https://news.ycombinator.com/item?id=29909533
 

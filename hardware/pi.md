@@ -1,3 +1,5 @@
+https://bhave.sh/micropython-detect-motion/
+
 https://www.jeffgeerling.com/blog/2022/autofocus-on-pi-arducams-new-16mp-camera
 > https://news.ycombinator.com/item?id=29907272
 

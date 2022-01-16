@@ -60,6 +60,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://qdrant.tech/
+> https://news.ycombinator.com/item?id=29941275
+
 https://www.surgehq.ai/blog/is-google-search-deteriorating-measuring-search-quality-in-2022
 > https://news.ycombinator.com/item?id=29886423
 

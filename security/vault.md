@@ -22,3 +22,7 @@ https://blog.vacs.fr/vacs/blogs/post.html?post=2019/12/26/AKT-a-tool-to-store-an
 https://news.ycombinator.com/item?id=29705957 Ask HN: How did my LastPass master password get leaked?
 
 https://github.com/mozilla/sops/discussions/927 New maintainers
+
+https://blog.borneo.io/securely-managing-aws-credentials-using-aws-vault-b26868fda59
+
+https://lobste.rs/s/gljhif/what_are_some_good_solutions_for_safe What are some good solutions for safe storage of 2FA backup codes?

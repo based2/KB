@@ -21,3 +21,6 @@ https://news.ycombinator.com/item?id=29430368
 
 https://hackage.haskell.org/package/reanimate
 > https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html
+
+https://sketchy.cs.brown.edu/textures/#/textures/
+> https://news.ycombinator.com/item?id=29940191

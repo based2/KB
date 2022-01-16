@@ -114,6 +114,12 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/
+> https://news.ycombinator.com/item?id=29955660
+
+https://thomask.sdf.org/blog/2022/01/16/shenanigans-on-microsoft-feedback-hub.html
+> https://news.ycombinator.com/item?id=29954266
+
 https://github.com/ziglang/zig/issues/9998
 > https://news.ycombinator.com/item?id=29610302
 

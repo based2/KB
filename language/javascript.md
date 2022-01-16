@@ -330,7 +330,14 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 
 # Dynamic.js libjs
 
-# News
+# 
+https://spidermonkey.dev/blog/2022/01/14/newsletter-firefox-96-97.html
+
+https://eloquentjavascript.net/
+
+https://hiccupfx.telnet.asia/
+> https://news.ycombinator.com/item?id=29948866
+
 https://blog.openreplay.com/form-validation-using-javascript-s-constraint-validation-api
 
 https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a

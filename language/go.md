@@ -78,6 +78,15 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://gokrazy.org/
+
+https://www.reddit.com/r/golang/comments/s4rrzq/do_you_know_of_a_robust_library_that_handles/
+> https://cadenceworkflow.io/
+> https://github.com/RichardKnop/machinery
+
+https://github.com/Lallassu/bintris
+> https://news.ycombinator.com/item?id=29940440
+
 https://github.com/dboslee/lru
 > https://news.ycombinator.com/item?id=29905908
 

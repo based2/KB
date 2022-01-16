@@ -59,6 +59,9 @@ https://bottosson.github.io/posts/colorpicker/
 https://news.ycombinator.com/item?id=26934352
 
 #
+https://www.thoughtco.com/what-is-the-wavelength-of-magenta-606166
+> https://news.ycombinator.com/item?id=29940741
+
 https://www.kuon.ch/post/2020-03-08-hsluv/
 
 https://www.colorblindnesstest.org/farnsworth-munsell-100-hue-test/

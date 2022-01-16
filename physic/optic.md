@@ -41,3 +41,6 @@ https://www.techradar.com/news/this-powerful-supercomputer-can-now-run-on-light-
 > https://news.ycombinator.com/item?id=29701976
 > > https://lighton.ai/lighton-appliance/
 
+https://deciwatt.global/gravitylight
+> https://news.ycombinator.com/item?id=29933277
+

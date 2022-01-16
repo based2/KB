@@ -55,6 +55,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.airgradient.com/diy-co2-traffic-light/
+> https://news.ycombinator.com/item?id=29942063
+
+https://www.igb.fraunhofer.de/en/reference-projects/ebioco2n.html
+
 https://www.sciencedirect.com/science/article/pii/S0140988321006113 Toward a just energy transition: A distributional analysis of low-carbon policies in the USA
 
 https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee01532j CO2 capture by pumping surface acidity to the deep ocean†

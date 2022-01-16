@@ -33,6 +33,11 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://news.ycombinator.com/item?id=29959401 Yahoo login inaccessible over IPv6 worldwide
+
+https://www.newyorker.com/culture/infinite-scroll/how-tumblr-became-popular-for-being-obsolete
+> https://news.ycombinator.com/item?id=29954754
+
 https://tuxicoman.jesuislibre.net/2022/01/tutoriel-mastodon.html
 
 https://old.reddit.com/r/NoStupidQuestions/comments/rxtl22/whatsapp_just_downloaded_12k_photos_of_other/

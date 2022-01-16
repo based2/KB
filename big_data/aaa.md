@@ -222,6 +222,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/rmcelreath/stat_rethinking_2022
+> https://news.ycombinator.com/item?id=29956390
+
+https://mchow.com/posts/2020-02-11-dplyr-in-python/
+> https://github.com/tidyverse/dplyr dplyr: A grammar of data manipulation in R
+
 https://docarray.jina.ai/get-started/what-is/
 
 https://www.microprediction.com/get-predictions

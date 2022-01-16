@@ -70,6 +70,9 @@ https://scrapeops.io/blog/the-state-of-web-scraping-2022/
 > https://news.ycombinator.com/item?id=29905799
 
 # News
+https://woob.tech/
+> https://news.ycombinator.com/item?id=29935734
+
 https://blog.jim-nielsen.com/2022/a-web-for-all/
 > https://news.ycombinator.com/item?id=29894300
 > > https://datatracker.ietf.org/doc/html/rfc8890

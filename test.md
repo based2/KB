@@ -9,6 +9,9 @@ https://openreplay.com/
 https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/
 > https://news.ycombinator.com/item?id=27729189
 
+https://stackoverflow.blog/2022/01/03/favor-real-dependencies-for-unit-testing/
+> https://news.ycombinator.com/item?id=29909475
+
 # Persistence
 https://www.infoq.com/articles/Testing-With-Persistence-Layers/
 

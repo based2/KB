@@ -77,6 +77,14 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/
+
+https://www.numerama.com/tech/821717-leurope-desire-son-propre-resolveur-dns-pour-acceder-a-internet.html
+> https://hadea.ec.europa.eu/calls-proposals/equipping-backbone-networks-high-performance-and-secure-dns-resolution-infrastructures-works_fr
+
+https://instantdomainsearch.com/
+> https://news.ycombinator.com/item?id=29941708
+
 https://dns.lookup.dog/
 
 https://jvns.ca/blog/2022/01/11/how-to-find-a-domain-s-authoritative-nameserver/

@@ -80,6 +80,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://artemis.sh/2022/01/12/life-at-800mhz.html
+> https://news.ycombinator.com/item?id=29928040
+
 https://github.com/jbruchon/elks Intel IA16 architecture (16-bit processors: 8086, 8088, 80188, 80186, 80286, NEC V20, V30 and compatibles
 > https://news.ycombinator.com/item?id=29886588
 

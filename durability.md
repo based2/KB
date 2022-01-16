@@ -37,6 +37,9 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 > https://news.ycombinator.com/item?id=28018057
 
 # News
+https://www.vice.com/en/article/xgdazj/john-deere-hit-with-class-action-lawsuit-for-alleged-tractor-repair-monopoly
+> https://news.ycombinator.com/item?id=29941099
+
 https://semiengineering.com/chip-aging-becomes-design-problem/
 > https://news.ycombinator.com/item?id=29889951
 

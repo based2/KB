@@ -23,6 +23,8 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://www.reddit.com/r/ovh/comments/s4au0g/big_bhs2_outage_today/
+
 https://blog.revolve.team/2022/01/13/cloud-de-confiance-etat-des-lieux-2022/
 
 https://matt-rickard.com/aws-is-not-a-dumb-pipe/

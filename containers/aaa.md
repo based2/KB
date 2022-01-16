@@ -36,6 +36,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://libvirt.org/news.html
+
+https://landscape.cncf.io/
+> https://news.ycombinator.com/item?id=29935767
+
 https://www.dlford.io/how-to-home-lab-part-1/
 > https://news.ycombinator.com/item?id=29917860
 

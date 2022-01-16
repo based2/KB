@@ -28,6 +28,9 @@ https://www.politicalorphans.com/something-weird-is-happening-on-facebook/
 https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/
 
 # News
+https://www.theregister.com/2022/01/15/googles_facebook_advertising/
+> https://news.ycombinator.com/item?id=29945919
+
 https://news.ycombinator.com/item?id=29888599 Ask HN: Good open source alternatives to Google Analytics?
 > https://news.ycombinator.com/item?id=29888599
 

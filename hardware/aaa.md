@@ -68,6 +68,15 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.servethehome.com/lenovo-vendor-locking-ryzen-cpus-with-amd-psb-the-video/
+> https://news.ycombinator.com/item?id=29958247
+
+https://www.cyberlink.com/support/faq-content.do?id=26690 Why can’t I play Ultra HD Blu-ray movies on my new Intel CPU (11th g)
+> https://news.ycombinator.com/item?id=29932630
+
+https://pcisig.com/blog/evolution-pci-express-specification-its-sixth-generation-third-decade-and-still-going-strong
+> https://news.ycombinator.com/item?id=29933853
+
 https://www.tomshardware.com/news/ultraram-implemented-in-silicon-for-first-time
 > https://news.ycombinator.com/item?id=29889741
 

@@ -1,3 +1,5 @@
+https://blog.cloudflare.com/workers-optimization-reduces-your-bill/
+
 https://blog.cloudflare.com/miniflare/
 > https://news.ycombinator.com/item?id=29839160
 

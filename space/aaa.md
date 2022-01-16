@@ -121,9 +121,16 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.biorxiv.org/content/10.1101/2020.07.16.205534v6 Self-Replicating Radiation-Shield for Deep-Space Exploration: Radiotrophic Fungi
+> https://news.ycombinator.com/item?id=29946362
+
+https://arstechnica.com/science/2022/01/we-dont-know-why-but-being-in-space-causes-us-to-destroy-our-blood/
+> https://news.ycombinator.com/item?id=29937355
+
 https://phys.org/news/2022-01-light-year-wide-earth-source-nearby.html
 
 https://newscenter.lbl.gov/2022/01/13/dark-energy-spectroscopic-instrument-desi-creates-largest-3d-map-of-the-cosmos/
+> https://news.ycombinator.com/item?id=29938831
 
 https://everydayastronaut.com/engine-cooling-methodes/
 > https://news.ycombinator.com/item?id=29922002

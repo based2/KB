@@ -326,6 +326,11 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://gopheradvent.com/calendar/2021/journey-to-a-faster-concurrent-map/
+
+https://ezzeriesa.notion.site/Rewriting-my-toy-blockchain-in-Rust-9a130f225666488491ba497004821fbb
+> https://news.ycombinator.com/item?id=29936393
+
 https://lucumr.pocoo.org/2022/1/6/rust-extension-map/
 
 https://blog.edfloreshz.dev/articles/linux/system76/rust-based-desktop-environment/

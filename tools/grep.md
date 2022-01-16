@@ -31,3 +31,4 @@ https://news.ycombinator.com/item?id=28959174 Show HN: Semgrep App - OCaml
 https://r2c.dev/blog/2021/taint-mode-is-now-in-beta/
 
 https://phili.pe/posts/using-grep-for-simple-ci-tasks/
+> https://news.ycombinator.com/item?id=29940117

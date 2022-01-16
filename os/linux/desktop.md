@@ -36,6 +36,14 @@ https://usebottles.com/
 > https://www.playonlinux.com
 
 # News
+https://nakst.gitlab.io/essence
+> https://news.ycombinator.com/item?id=29950740
+
+https://support.system76.com/articles/switch-from-macos-to-popos/
+> https://news.ycombinator.com/item?id=29950152
+
+https://github.com/riverwm/river River: A dynamic tiling Wayland compositor
+
 https://www.collabora.com/news-and-blog/blog/2021/12/22/wine-on-wayland-year-end-update-improved-functionality-stability/
 > https://news.ycombinator.com/item?id=29905142
 

@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://github.com/hoytech/quadrable
+> https://news.ycombinator.com/item?id=29948033
+
 https://www.wsj.com/articles/crypto-savings-lawsuit-puts-principles-of-defi-to-the-test-11642069806
 > https://news.ycombinator.com/item?id=29927001
 

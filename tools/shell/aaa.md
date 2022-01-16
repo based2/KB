@@ -34,6 +34,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+http://sininenankka.dy.fi/~sami/fdshell/
+
 https://www.micahlerner.com/2021/07/14/unix-shell-programming-the-next-50-years.html
 > https://news.ycombinator.com/item?id=29610956
 

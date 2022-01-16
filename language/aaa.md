@@ -94,7 +94,7 @@ https://esolangs.org/wiki/Airline_Food
 https://github.com/SinaKhalili/Folders.py
 > https://news.ycombinator.com/item?id=29913880
 
-# Hackaton
+# Hackathon
 https://www.juricho.me/posts/online-hackathon/
 
 # Functional
@@ -108,6 +108,9 @@ https://functional-algorithms-verified.org/
 
 https://www.unison-lang.org/articles/distributed-datasets/core-idea/
 > https://news.ycombinator.com/item?id=29452424
+
+https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube
+> https://news.ycombinator.com/item?id=29948843
 
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
@@ -215,9 +218,21 @@ https://woodrush.github.io/blog/posts/2022-01-12-sectorlisp-io.html
 > https://news.ycombinator.com/item?id=29903517
 
 # News
+https://notes.eatonphil.com/lua-in-rust.html
+> https://news.ycombinator.com/item?id=29952516
+
+https://flameeyes.blog/2012/03/07/why-foreign-function-interfaces-are-not-an-easy-answer/ ffi
+> https://news.ycombinator.com/item?id=29954222
+
+https://readonly.link/manuals/gitlab.com/cicada-lang/cicada/-/00.1-introduction.md Dependently typed programming language and an interactive theorem prover
+
+http://neugierig.org/software/blog/2022/01/rethinking-errors.html
+> https://news.ycombinator.com/item?id=29916053
+
 https://depth-first.com/articles/2022/01/12/penny-codes/ fingerprint is a molecular representation
 
 https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/
+> https://news.ycombinator.com/item?id=29925513
 
 https://blog.ploeh.dk/2020/03/23/repeatable-execution/
 > https://news.ycombinator.com/item?id=29889186

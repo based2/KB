@@ -65,6 +65,14 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf Are You Sure You Want to Use MMAP in Your atabase Management System?
+> https://news.ycombinator.com/item?id=29936104
+
+https://wisser.github.io/Jailer/ tool for database subsetting, schema and data browsing, XML, Java, ASLv2
+> https://news.ycombinator.com/item?id=29939890
+> https://github.com/Wisser/Jailer
+> https://sourceforge.net/projects/jailer/files/
+
 https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434
 > https://news.ycombinator.com/item?id=29907551
 > > https://bugzilla.mozilla.org/show_bug.cgi?id=1253201

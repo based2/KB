@@ -82,8 +82,6 @@ https://en.wikipedia.org/wiki/Lucas_number
 
 https://en.wikipedia.org/wiki/Jacques_Philippe_Marie_Binet
 
-
-
 # Homomorphic
 https://github.com/google/fully-homomorphic-encryption
 > https://news.ycombinator.com/item?id=27510902
@@ -101,6 +99,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/
+> https://news.ycombinator.com/item?id=29933154
+
 https://github.com/cyphar/paperback
 > https://news.ycombinator.com/item?id=29691021
 
