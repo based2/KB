@@ -13,6 +13,9 @@ https://akka.io/
 
 https://www.scala-js.org/
 
+https://www.scala-js.org/doc/sjs-for-js/es6-to-scala-part1.html
+> https://news.ycombinator.com/item?id=29977330
+
 https://scalablytyped.org/docs/readme.html
 
 https://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html

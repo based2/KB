@@ -69,6 +69,9 @@ https://cushychicken.github.io/rules-for-web-scrapers/
 https://scrapeops.io/blog/the-state-of-web-scraping-2022/
 > https://news.ycombinator.com/item?id=29905799
 
+https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-other/
+> https://news.ycombinator.com/item?id=30013100
+
 # News
 https://woob.tech/
 > https://news.ycombinator.com/item?id=29935734

@@ -326,6 +326,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://kerkour.com/rust-file-encryption-chacha20poly1305-argon2/
+> https://news.ycombinator.com/item?id=29995968
+
 https://gopheradvent.com/calendar/2021/journey-to-a-faster-concurrent-map/
 
 https://ezzeriesa.notion.site/Rewriting-my-toy-blockchain-in-Rust-9a130f225666488491ba497004821fbb

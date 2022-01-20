@@ -71,6 +71,11 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://www.philipotoole.com/why-are-we-still-tailing-log-files/
+> https://news.ycombinator.com/item?id=30010144
+
+https://lnav.org/
+
 https://interrupt.memfault.com/blog/trice
 
 https://grafana.com/blog/2022/01/03/introducing-grafana-university-our-virtual-hands-on-education-platform-thats-free-and-easy-to-use/

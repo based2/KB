@@ -12,6 +12,7 @@ https://github.com/bitnami-labs/sealed-secrets
 https://github.com/securitybunker/databunker go mysql
 
 https://bitwarden.com/
+> https://news.ycombinator.com/item?id=29991585
 
 https://github.com/dani-garcia/vaultwarden Rust
 > https://news.ycombinator.com/item?id=29662418

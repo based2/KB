@@ -20,6 +20,12 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://crypto.com/product-news/crypto-com-security-report-next-steps
+> https://news.ycombinator.com/item?id=30009714
+
+https://www.federalreserve.gov/newsevents/pressreleases/other20220120a.htm
+> https://news.ycombinator.com/item?id=30013391
+
 https://news.ycombinator.com/item?id=29957818 It's time for an inequality index for cryptocurrencies distribution
 
 https://www.theguardian.com/technology/2022/jan/16/panic-as-kosovo-pulls-the-plug-on-its-energy-guzzling-bitcoin-miners

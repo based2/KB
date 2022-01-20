@@ -181,6 +181,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.sqlshack.com/getting-started-with-spatial-data-in-postgresql/
+> https://news.ycombinator.com/item?id=30015453
+
 https://blog.crunchydata.com/blog/postgis-3.2-new-and-improved
 
 https://www.insider.com/china-space-race-satellite-high-resolution-san-francisco-in-seconds-2021-12

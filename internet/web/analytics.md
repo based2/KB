@@ -28,6 +28,9 @@ https://www.politicalorphans.com/something-weird-is-happening-on-facebook/
 https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/
 
 # News
+https://twitter.com/ArtemR/status/1484228505986469891
+> https://news.ycombinator.com/item?id=30012631
+
 https://www.theregister.com/2022/01/15/googles_facebook_advertising/
 > https://news.ycombinator.com/item?id=29945919
 

@@ -68,6 +68,12 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://m680x0.github.io/doc/abi.html
+> https://news.ycombinator.com/item?id=30007986
+
+https://www.lightbluetouchpaper.org/2022/01/20/arm-releases-experimental-cheri-enabled-morello-board-as-part-of-187m-ukri-digital-security-by-design-programme/
+> https://news.ycombinator.com/item?id=30007474
+
 https://www.servethehome.com/lenovo-vendor-locking-ryzen-cpus-with-amd-psb-the-video/
 > https://news.ycombinator.com/item?id=29958247
 

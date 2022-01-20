@@ -19,6 +19,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://web.dev/porting-libusb-to-webusb/
+> https://news.ycombinator.com/item?id=30011136
+
 https://electronut.in//mico/ PDM to USB microphone based on the Raspberry Pi RP2040
 > https://news.ycombinator.com/item?id=29691647
 

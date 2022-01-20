@@ -1,5 +1,28 @@
+https://news.ycombinator.com/item?id=30015810 Pixel camera app may change QR code URL
+
+https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/
+
+https://x41-dsec.de/lab/blog/telenot-complex-insecure-keygen/
+> https://news.ycombinator.com/item?id=29991404
+
+https://seclists.org/oss-sec/2022/q1/54 Linux kernel: Heap buffer overflow in fs_context.c since version 5.1
+> https://news.ycombinator.com/item?id=30010126
+
+https://words.filippo.io/dispatches/telegram-ecdh/ telegram
+> https://news.ycombinator.com/item?id=30013192
+
+https://zerforschung.org/posts/gorillas-en/
+> https://news.ycombinator.com/item?id=29991743
+
+https://www.agwa.name/blog/post/comcast_shot_themselves_in_the_foot_with_mta-sts mail
+> https://news.ycombinator.com/item?id=29997246
+
+https://googleprojectzero.blogspot.com/2022/01/zooming-in-on-zero-click-exploits.html
+> https://news.ycombinator.com/item?id=29982954
+
+https://brianstadnicki.github.io/posts/malware-gitlab-perlbot/
+
 https://www.jerkeby.se/newsletter/posts/risk-aware-applications/
-> 
 
 https://pthree.org/2021/02/18/introducing-deckware-a-224-bit-entropy-extractor/
 > https://news.ycombinator.com/item?id=29932416

@@ -91,6 +91,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheribsd.html
+
 https://lists.dragonflybsd.org/pipermail/commits/2021-December/820772.html nvme - Back-off if driver lies about reported queue limits
 
 https://rocinante.sh/

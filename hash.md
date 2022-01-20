@@ -78,6 +78,8 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://preshing.com/20110504/hash-collision-probabilities/
+
 https://taxicat1.github.io/hash6432shift_inversion.html
 > https://news.ycombinator.com/item?id=29937844
 > > https://github.com/rurban/smhasher/tree/inverse/inverse

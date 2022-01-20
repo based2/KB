@@ -199,6 +199,8 @@ https://erock.io/2021/07/18/my-experience-with-svelte-kit.html
 https://svelte-cubed.vercel.app/
 > https://news.ycombinator.com/item?id=29310150
 
+https://nathanfaucett.github.io/svelte-slate/
+> 
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296

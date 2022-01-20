@@ -107,6 +107,9 @@ https://vladfeinberg.com/2021/01/07/vectorizing-ragged-arrays.html
 
 https://graphics.stanford.edu/~seander/bithacks.html
 
+https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performance-jchampionsconf
+> https://news.ycombinator.com/item?id=30013763
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -166,6 +169,9 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://adhoc.team/2022/01/18/covidtests-usps-aws-managed-services/
+> https://news.ycombinator.com/item?id=29989884
+
 https://news.ycombinator.com/item?id=29931816 How to become good at system design?
 
 https://www.usenix.org/conference/lisa-02/why-order-matters-turing-equivalence-automated-systems-administration

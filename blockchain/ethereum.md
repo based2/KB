@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://trufflesuite.com/blog/introducing-ganache-7/
+
 https://github.com/hoytech/quadrable
 > https://news.ycombinator.com/item?id=29948033
 

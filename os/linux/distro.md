@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.theregister.com/2022/01/20/suse_liberty_linux/
+> https://news.ycombinator.com/item?id=30006699
+
 http://www.slackware.com/changelog/current.php?cpu=i386
 > https://news.ycombinator.com/item?id=29928343
 

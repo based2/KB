@@ -54,6 +54,9 @@ https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-mult
 https://www.franceculture.fr/emissions/la-methode-scientifique/positronium-un-parfum-dexotisme
 
 # News
+https://www.quantamagazine.org/what-sonic-black-holes-say-about-real-ones-20161108/
+> https://news.ycombinator.com/item?id=29975477
+
 https://physics.aps.org/articles/v15/3 “Black Hole” of Atoms Observed
 
 https://www.quantamagazine.org/an-injection-of-chaos-solves-decades-old-fluid-mystery-20220104/

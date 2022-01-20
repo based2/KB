@@ -184,6 +184,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://drewdevault.com/2022/01/18/Pine64s-weird-priorities.html
+> https://news.ycombinator.com/item?id=30009452
+
+https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/
+> https://news.ycombinator.com/item?id=29985871
+
 https://blogs.apache.org/foundation/entry/apache-software-foundation-statement-on
 
 https://github.com/chrisdutz/blog/blob/main/plc4x/free-trial-expired.adoc

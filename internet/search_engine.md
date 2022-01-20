@@ -60,6 +60,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://boyter.org/posts/abusing-aws-to-make-a-search-engine/
+
 https://qdrant.tech/
 > https://news.ycombinator.com/item?id=29941275
 

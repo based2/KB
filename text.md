@@ -24,6 +24,10 @@ https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/
 > https://news.ycombinator.com/item?id=26910982
 https://yurichev.com/news/20210421_boyer_moore/
 > https://news.ycombinator.com/item?id=26900640
+ 
+##
+https://neuml.github.io/txtai/workflow/
+> 
 
 # UTF-8
 https://blog.pgdp.net/2021/06/01/cha%e1%b9%9b%e1%be%80%cf%82t%ce%adr-%e2%99%ad%e1%bf%a7ilding-character-building/

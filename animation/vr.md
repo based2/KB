@@ -1,3 +1,9 @@
+https://www.wired.com/story/hours-working-vr-tips/
+> https://news.ycombinator.com/item?id=29978036
+
+https://www.theverge.com/2022/1/20/22892152/google-project-iris-ar-headset-2024
+> https://news.ycombinator.com/item?id=30011831
+
 https://simulavr.com/blog/why-is-the-simula-one-so-expensive/
 > https://news.ycombinator.com/item?id=29923197
 

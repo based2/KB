@@ -21,6 +21,8 @@ https://ericlippert.com/2012/06/08/red-green-trees/ roselyn AST
 https://ryan-schachte.com/posts/dynamic-table-of-contents-using-recursion-trees
 > https://news.ycombinator.com/item?id=29818221
 
+https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-19%3A+Trie+memtable+implementation
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576

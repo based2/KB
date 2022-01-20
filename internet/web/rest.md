@@ -38,6 +38,8 @@ https://news.ycombinator.com/item?id=20245913 Catj – A new way to display JSON
 # GraphQL
 https://apisyouwonthate.com/blog/representing-state-in-rest-and-graphql
 
+https://github.com/graphql-editor/graphql-zeus
+> https://news.ycombinator.com/item?id=30008766
 
 #
 https://news.ycombinator.com/item?id=28797627 Is RESTFul Paradigm a Type of FFI (Foreign Function Interface)?

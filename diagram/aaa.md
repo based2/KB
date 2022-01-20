@@ -114,6 +114,9 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://gojs.net/latest/index.html?v220
+> https://news.ycombinator.com/item?id=30010223
+
 https://github.com/wonderworks-software/PyFlow
 > https://news.ycombinator.com/item?id=29955623
 > > https://github.com/leon-thomm/Ryven

@@ -42,3 +42,6 @@ http://blog.kember.net/articles/reisub-the-gentle-linux-restart/
 
 https://beej.us/guide/bgipc/html/multi/index.html
 > https://news.ycombinator.com/item?id=29829483
+
+https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified
+> https://news.ycombinator.com/item?id=29984016

@@ -1,4 +1,7 @@
 # News
+https://www.totenpass.com/
+> https://news.ycombinator.com/item?id=30003831
+
 https://karl-voit.at/managing-digital-photographs/
 
 https://alexsaveau.dev/blog/performance/files/kernel/the-fastest-way-to-copy-a-file

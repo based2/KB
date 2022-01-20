@@ -17,3 +17,6 @@ https://spectrum.ieee.org/satellite-refueling-heats-up
 https://breakingdefense.com/2021/11/sandias-atomic-avocado-could-allow-gps-free-pnt/
 > https://news.ycombinator.com/item?id=29213751
 > https://news.ycombinator.com/item?id=29370720
+
+https://ciechanow.ski/gps/
+> https://news.ycombinator.com/item?id=29981188

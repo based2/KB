@@ -21,6 +21,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://arstechnica.com/gadgets/2022/01/wi-fi-7-demos-begin-promising-speedy-connections-for-demanding-apps/
+
 https://worthdoingbadly.com/vowifi2/
 > https://news.ycombinator.com/item?id=29861306
 

@@ -73,6 +73,9 @@ http://leopard.in.ua/2015/04/13/postgresql-indexes/
 
 https://www.i-programmer.info/news/84-database/14855-a-deep-dive-into-postgresql-indexes.html
 
+https://blog.crunchydata.com/blog/postgres-indexes-for-newbies
+> https://news.ycombinator.com/item?id=30001964
+
 ## Analysis
 https://blog.crunchydata.com/blog/get-started-with-explain-analyze
 
@@ -220,6 +223,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://spacelift.io/blog/tricking-postgres-into-using-query-plan
+> https://news.ycombinator.com/item?id=29981737
+
 https://postgres.ai/blog/20220114-progress-bar-for-postgres-queries-lets-dive-deeper
 
 https://rhaas.blogspot.com/2022/01/who-contributed-to-postgresql.html

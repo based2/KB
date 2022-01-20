@@ -112,6 +112,9 @@ https://www.unison-lang.org/articles/distributed-datasets/core-idea/
 https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB-cube
 > https://news.ycombinator.com/item?id=29948843
 
+https://github.com/xgrommx/awesome-functional-programming
+> https://news.ycombinator.com/item?id=30011998
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721
@@ -218,6 +221,15 @@ https://woodrush.github.io/blog/posts/2022-01-12-sectorlisp-io.html
 > https://news.ycombinator.com/item?id=29903517
 
 # News
+https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity#
+> https://news.ycombinator.com/item?id=29996240
+
+http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-79-3_Mesa_Language_Manual_Version_5.0.pdf
+> https://news.ycombinator.com/item?id=29976630
+
+https://jeang3nie.codeberg.page/case-for-modern-language-pt1/
+> https://news.ycombinator.com/item?id=30008191
+
 https://notes.eatonphil.com/lua-in-rust.html
 > https://news.ycombinator.com/item?id=29952516
 
@@ -422,6 +434,7 @@ https://news.ycombinator.com/item?id=29077933 devutils
 > https://gchq.github.io/CyberChef/
 > > https://github.com/gchq/CyberChef
 > https://github.com/ludovicianul/dvt
+> https://news.ycombinator.com/item?id=29982286
 
 http://coconut-lang.org/ functional programming language that compiles to Python
 > https://news.ycombinator.com/item?id=29104961

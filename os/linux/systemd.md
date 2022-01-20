@@ -2,6 +2,9 @@ https://systemd.io/
 
 https://www.redhat.com/sysadmin/mastering-systemd
 
+https://www.ctrl.blog/entry/systemd-service-hardening.html
+> https://news.ycombinator.com/item?id=29977271
+
 https://raw.githubusercontent.com/systemd/systemd/main/NEWS
 > https://news.ycombinator.com/item?id=26642780
 

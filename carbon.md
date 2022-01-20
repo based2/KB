@@ -55,6 +55,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee03283f
+> https://news.ycombinator.com/item?id=29987508
+
 https://www.airgradient.com/diy-co2-traffic-light/
 > https://news.ycombinator.com/item?id=29942063
 

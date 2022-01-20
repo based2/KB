@@ -12,6 +12,12 @@ https://danielyxie.github.io/bitburner/
 > https://news.ycombinator.com/item?id=29581110
 
 # News
+https://github.com/water111/jak-project
+> https://news.ycombinator.com/item?id=29987501
+
+https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/
+> https://news.ycombinator.com/item?id=30013919
+
 https://news.ycombinator.com/item?id=29913328 Which games do you recommend to improve thinking and reasoning?
 
 https://www.thegamer.com/steam-banned-china-christmas-day/

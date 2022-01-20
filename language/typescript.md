@@ -64,6 +64,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://www.executeprogram.com/blog/typescript-features-to-avoid
+> https://news.ycombinator.com/item?id=29985123
+
 https://www.greyblake.com/blog/from-typescript-to-rescript/
 > https://news.ycombinator.com/item?id=29903631
 

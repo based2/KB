@@ -194,6 +194,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://towardsdatascience.com/dates-times-calendars-the-universal-source-of-data-science-trauma-92a887fdedd1?gi=4644eb4ce2b2
+> https://lobste.rs/s/9q5ph2/dates_times_calendars_universal_source
+
 https://en.wikipedia.org/wiki/555_timer_IC
 
 https://www.nature.com/articles/d41586-020-01499-y Carbon dating, the archaeological workhorse, is getting a major reboot

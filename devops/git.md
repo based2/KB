@@ -89,6 +89,9 @@ https://github.com/gitflow-incremental-builder/gitflow-incremental-builder
 
 https://nvie.com/posts/a-successful-git-branching-model/
 
+https://render.com/blog/git-organized-a-better-git-flow
+> https://news.ycombinator.com/item?id=29998227
+
 ### Cons.
 https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html
 > https://news.ycombinator.com/item?id=27850385
@@ -245,6 +248,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://soap.coffee/~lthms/opinions/StackedGit.html
+
 https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733 Using Git Commit Message Templates to Write Better Commit Messages
 > https://news.ycombinator.com/item?id=29911308
 

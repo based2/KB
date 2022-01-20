@@ -88,6 +88,9 @@ https://ruzkuku.com/texts/emacs-mouse.html
 https://github.com/susam/emfy
 > https://news.ycombinator.com/item?id=29726398
 
+https://www.masteringemacs.org/article/bad-emacs-advice
+> https://news.ycombinator.com/item?id=30008277
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -110,6 +113,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/JetBrains/JetBrainsMono
+> https://news.ycombinator.com/item?id=30009287
+
 https://nickgravgaard.com/elastic-tabstops/
 
 https://blankly.finance/vscode-vs-jetbrains/
