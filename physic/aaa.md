@@ -54,6 +54,9 @@ https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-mult
 https://www.franceculture.fr/emissions/la-methode-scientifique/positronium-un-parfum-dexotisme
 
 # News
+https://theoreticalminimum.com/
+> https://news.ycombinator.com/item?id=29969679
+
 https://www.quantamagazine.org/what-sonic-black-holes-say-about-real-ones-20161108/
 > https://news.ycombinator.com/item?id=29975477
 

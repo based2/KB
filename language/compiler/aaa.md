@@ -67,6 +67,8 @@ https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attri
 
 https://github.com/alt-romes/llvm-c-search
 
+https://github.com/wsmoses/Enzyme The Enzyme High-Performance Automatic Differentiator of LLVM
+
 ## Clang
 https://reviews.llvm.org/D108643
 
@@ -101,6 +103,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.cs.tufts.edu/~nr/c--/index.html
+> https://news.ycombinator.com/item?id=30006215
+
 https://rachitnigam.com/post/you-have-built-a-compiler/
 > https://news.ycombinator.com/item?id=29891428
 

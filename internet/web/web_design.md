@@ -76,6 +76,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://engineering.contentsquare.com/2021/click-and-swap-alternative-to-drag-and-drop/
+> https://news.ycombinator.com/item?id=30034999
+
 http://contemporary-home-computing.org/prof-dr-style/
 > https://news.ycombinator.com/item?id=29838309
 

@@ -1,3 +1,8 @@
+https://ibotpeaches.github.io/Apktool/
+> https://news.ycombinator.com/item?id=29962356
+
+https://nathancraddock.com/blog/resource-forks-and-lzrw-compression/
+
 https://devblogs.microsoft.com/oldnewthing/20220111-00/?p=106144
 
 https://reichel.dev/blog/reverse-engineering-wordle.html

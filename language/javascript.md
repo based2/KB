@@ -186,6 +186,12 @@ https://engineering.rakuten.today/post/elm-at-rakuten/
 
 https://blogg.bekk.no/increasing-the-performance-of-elm-css-34075512d6a6
 
+https://news.ycombinator.com/item?id=30038525 Jeopardy Heatmap Written in Elm
+
+https://underjord.io/my-elm-experience.html
+> https://lobste.rs/s/neixpd/my_elm_experience
+> >
+
 ## Svelt
 https://news.ycombinator.com/item?id=26557886
 
@@ -333,6 +339,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # 
+https://tinybase.org/ A JavaScript library for structured state
+> https://news.ycombinator.com/item?id=29945748
+
+https://sicp.sourceacademy.org/sicpjs.pdf
+> https://sicp.sourceacademy.org/sicpjs.pdf
+
 https://spidermonkey.dev/blog/2022/01/14/newsletter-firefox-96-97.html
 
 https://eloquentjavascript.net/

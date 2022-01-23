@@ -59,6 +59,11 @@ https://bottosson.github.io/posts/colorpicker/
 https://news.ycombinator.com/item?id=26934352
 
 #
+https://webaim.org/resources/contrastchecker/
+
+https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/
+> https://news.ycombinator.com/item?id=29962625
+
 https://www.thoughtco.com/what-is-the-wavelength-of-magenta-606166
 > https://news.ycombinator.com/item?id=29940741
 

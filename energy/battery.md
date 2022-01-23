@@ -7,6 +7,11 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://cleantechnica.com/2022/01/17/the-solid-state-energy-storage-dam-is-about-to-bust-wide-open/
+
+https://www.torquenews.com/15975/battery-breakthrough-provides-five-times-driving-range-lithium-ion-lower-price
+> https://news.ycombinator.com/item?id=30038563
+
 https://www.zdnet.com/article/everest-the-open-source-software-stack-for-electric-vehicle-charging-infrastructure/
 
 https://goughlui.com/2016/12/19/great-aa-alkaline-battery-test-pt-1-battery-testing-fundamentals/

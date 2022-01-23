@@ -89,6 +89,9 @@ https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a
 
 https://devclass.com/2021/12/02/jupyterhub-2/
 
+https://github.com/mljar/mercury
+>
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 > https://news.ycombinator.com/item?id=27145515
@@ -98,6 +101,9 @@ https://blog.jetbrains.com/datalore/2021/06/30/announcing-datalore-enterprise-th
 
 https://generallyintelligent.ai/open-source/2021-10-14-jupyter-ascending/
 > https://news.ycombinator.com/item?id=29111936
+
+https://news.ycombinator.com/item?id=30007523 Show HN: Mercury – Publish Jupyter Notebook as web app by adding YAML header
+> https://github.com/voila-dashboards/voila
 
 ##
 http://zeppelin.apache.org/
@@ -222,6 +228,20 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/orchest/orchest Build data pipelines, the easy way
+> https://www.orchest.io/
+
+https://opensource.google/projects/jax Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+
+https://quarto.org/ A scientific and technical publishing system built on Pandoc
+> https://news.ycombinator.com/item?id=30042831
+
+https://github.com/kedro-org/kedro open-source Python framework for creating reproducible, maintainable and modular data science code
+> https://news.ycombinator.com/item?id=30037766
+
+https://melatonin.dev/blog/audio-sparklines/
+> https://news.ycombinator.com/item?id=30027405
+
 https://github.com/rmcelreath/stat_rethinking_2022
 > https://news.ycombinator.com/item?id=29956390
 

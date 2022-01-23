@@ -141,6 +141,9 @@ https://river-runner-global.samlearner.com/
 
 https://openinframap.org/#2/26/12
 
+https://www.sovietmaps.com/node/2
+> https://news.ycombinator.com/item?id=30030346
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 
@@ -150,6 +153,9 @@ https://pncnmnp.github.io/blogs/distance-oracles.html
 
 https://github.com/graphhopper/graphhopper
 > https://news.ycombinator.com/item?id=28665564
+
+https://www.graphhopper.com/blog/2022/01/19/findings-on-route-optimization-in-practice-part-1/
+> https://news.ycombinator.com/item?id=30006528
 
 # Geohash
 https://mro.name/g/about GPL

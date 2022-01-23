@@ -31,6 +31,8 @@ https://iai.tv/articles/quantum-mechanics-and-our-part-in-creating-reality-auid-
 https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-optical-quantum-computing-approach/
 
 # News
+https://www.dwavesys.com/company/newsroom/press-release/d-wave-and-forschungszentrum-julich-launch-first-in-region-commercial-quantum-computer-for-european-access/
+
 https://www.quantamagazine.org/computer-scientists-eliminate-pesky-quantum-computations-20220119/
 > https://news.ycombinator.com/item?id=30005530
 

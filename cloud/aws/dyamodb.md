@@ -3,3 +3,5 @@ https://bahr.dev/2020/02/02/aggregate-ddb/ How to analyse and aggregate data fro
 
 https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later
 > https://news.ycombinator.com/item?id=30007530
+
+https://medium.com/riskified-technology/dynamodb-table-migration-between-accounts-aabfa7ef748

@@ -68,6 +68,11 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://chipsandcheese.com/2022/01/21/deep-diving-zen-3-v-cache/
+
+https://www.centeye.com/technology/hexagonal-pixel-arrays/
+> https://news.ycombinator.com/item?id=30041065
+
 https://m680x0.github.io/doc/abi.html
 > https://news.ycombinator.com/item?id=30007986
 

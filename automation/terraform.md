@@ -40,6 +40,9 @@ https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terr
 https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 
 # News
+https://atlasgo.io/
+> https://news.ycombinator.com/item?id=30020288
+
 https://www.infoq.com/news/2022/01/proton-terraform-git/
 
 https://github.com/kbst/terraform-kubestack Terraform and Kustomize

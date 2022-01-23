@@ -17,6 +17,8 @@ https://download.java.net/java/early_access/jdk17/docs/api/new-list.html
 
 https://jelastic.com/blog/glassfish-payara-clustering-automated/
 
+https://www.wildfly.org/news/2022/01/21/WildFly-2022/
+
 https://www.wildfly.org/news/2021/09/27/WildFly-Changes/
 
 https://www.wildfly.org/news/2021/10/05/WildFly25-Final-Released/

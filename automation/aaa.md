@@ -22,6 +22,12 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://github.com/khuedoan/homelab
+> https://news.ycombinator.com/item?id=30030991
+
+https://paperless.blog/faux-idempotency
+> https://news.ycombinator.com/item?id=30033902
+
 https://bass-lang.org/index.html
 > https://news.ycombinator.com/item?id=29722417
 

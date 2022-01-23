@@ -247,6 +247,25 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://engineering.linkedin.com/blog/2020/open-sourcing-dagli
+> https://github.com/linkedin/dagli/
+
+https://arxiv.org/abs/2106.10159 FinGAT: Financial Graph Attention Networks for Recommending Top-K Profitable Stocks
+> https://github.com/Roytsai27/Financial-GraphAttention
+
+https://woodrush.github.io/blog/posts/2022-01-16-neural-networks-in-pure-lisp.html
+> https://news.ycombinator.com/item?id=29964013
+
+https://www.pnas.org/content/119/1/e2111505119 Inverting the structure–property map of truss metamaterials by deep learning
+> https://news.ycombinator.com/item?id=29992704
+
+https://www.camilab.co/post/la-retropropagation-de-gradient/
+
+https://news.ycombinator.com/item?id=30033690 Windows WSL with CUDA support
+
+https://numenta.com/blog/2021/05/27/fast-and-accurate-sparse-networks
+> https://news.ycombinator.com/item?id=30042086
+
 https://deepstack.cc/
 > https://news.ycombinator.com/item?id=29976621
 

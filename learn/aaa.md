@@ -100,6 +100,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://libretexts.org/
+> https://news.ycombinator.com/item?id=29967012
+
 https://news.ycombinator.com/item?id=29605394 Life Changing Books
 
 https://news.ycombinator.com/item?id=29275470

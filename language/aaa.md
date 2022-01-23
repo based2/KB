@@ -220,9 +220,21 @@ https://mov.im/?blog/phoe%40movim.eu/f76c3cd8-8d55-409a-9827-c1b345e8e3ad
 https://woodrush.github.io/blog/posts/2022-01-12-sectorlisp-io.html
 > https://news.ycombinator.com/item?id=29903517
 
+https://stopa.io/post/292 What’s the simplest Lisp interpreter I could write, which supports macros?
+> https://news.ycombinator.com/item?id=30043224
+
 # News
+https://koka-lang.github.io/koka/doc/index.html
+
+https://stackoverflow.com/questions/66176720/why-introduce-stdlaunder-rather-than-have-the-compiler-take-care-of-it
+> https://news.ycombinator.com/item?id=30017204
+
+https://github.com/JuliaFolds/Transducers.jl
+> https://news.ycombinator.com/item?id=30041642
+
 https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity#
 > https://news.ycombinator.com/item?id=29996240
+> https://lobste.rs/s/h7gkoe/why_static_languages_suffer_from
 
 http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-79-3_Mesa_Language_Manual_Version_5.0.pdf
 > https://news.ycombinator.com/item?id=29976630

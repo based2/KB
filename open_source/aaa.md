@@ -184,6 +184,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://peter.czanik.hu/posts/saving-power/ cpu ibm power architecture
+> https://news.ycombinator.com/item?id=30035841
+
+https://github.com/DREAM-DK/MAKRO Danish government makes its new economic model open source, julia
+> https://news.ycombinator.com/item?id=30026606
+
 https://drewdevault.com/2022/01/18/Pine64s-weird-priorities.html
 > https://news.ycombinator.com/item?id=30009452
 

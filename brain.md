@@ -23,6 +23,9 @@ https://www.nature.com/articles/548150a
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://spie.org/news/kernel-flow-a-wearable-device-for-noninvasive-optical-brain-imaging?SSO=1
+> https://news.ycombinator.com/item?id=30026395
+
 https://vcg.seas.harvard.edu/publications/a-connectomic-study-of-a-petascale-fragment-of-human-cerebral-cortex
 > https://news.ycombinator.com/item?id=29958886
 

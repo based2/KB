@@ -87,6 +87,9 @@ https://pyre-check.org/
 https://github.com/beartype/beartype
 > https://news.ycombinator.com/item?id=29288402
 
+https://github.com/samuelcolvin/pydantic Data validation and settings management using Python type hints
+> https://news.ycombinator.com/item?id=30040961
+
 # Security
 https://pypi.org/project/pip-audit/
 
@@ -192,6 +195,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf
+> https://news.ycombinator.com/item?id=30047289
+
+https://sethmlarson.dev/blog/strict-python-function-parameters
+> https://news.ycombinator.com/item?id=30046272
+
 https://tavianator.com/2022/long_division.html
 
 https://github.com/MoserMichael/pyasmtool/blob/master/bytecode_disasm.md

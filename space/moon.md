@@ -27,6 +27,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://arstechnica.com/science/2022/01/machine-to-melt-moon-rocks-and-derive-metals-may-launch-in-2024/
+
 https://www.scmp.com/news/china/science/article/3162972/china-has-built-artificial-moon-simulates-low-gravity-conditions
 
 https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Opening_a_50-year-old_Christmas_present_from_the_Moon

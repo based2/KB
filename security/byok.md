@@ -4,6 +4,9 @@ https://en.wikipedia.org/wiki/Key_Management_Interoperability_Protocol
 
 https://en.wikipedia.org/wiki/Key_management
 
+https://www.opendnssec.org/softhsm/ implementation of a cryptographic store accessible through a PKCS #11 interface
+> https://en.wikipedia.org/wiki/PKCS_11
+
 https://security.stackexchange.com/questions/243815/what-are-the-benefits-of-using-azure-rms-with-dke-instead-of-byok-hyok
 
 https://security.stackexchange.com/questions/73921/how-are-cloud-based-hsms-used-for-encryption-by-an-application-that-is-on-premis
@@ -35,3 +38,5 @@ https://evervault.com/
 > > https://aws.amazon.com/fr/ec2/nitro/
 > > > https://evervault.com/blog/e3
 > > > > https://evervault.com/papers/kerckhoffs
+
+

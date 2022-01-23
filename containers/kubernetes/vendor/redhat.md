@@ -87,6 +87,8 @@ https://blog.xpnsec.com/bring-your-own-vm-mac-edition/
 https://github.com/machyve/xhyve
 
 
-
-
 # libvirt
+
+# News
+https://next.redhat.com/2022/01/19/introducing-microshift/ application that users can optionally deploy onto their field-deployed devices running an edge-optimized OS like RHEL (using its edge extension such as  rpm-ostree based transactional updates and greenboot-based auto-rollbacks designed for field-deployment)
+> https://news.ycombinator.com/item?id=30004311

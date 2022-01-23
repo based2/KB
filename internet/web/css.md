@@ -179,6 +179,13 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://news.ycombinator.com/item?id=29964453
+> https://news.ycombinator.com/item?id=29963448
+
+https://github.com/Bakhtiyar-Garashov/flexbox-101
+> https://news.ycombinator.com/item?id=30042243
+> > https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+
 https://wolfoliver.medium.com/do-not-use-margins-in-css-really-bede799ac422
 > https://news.ycombinator.com/item?id=29941780
 

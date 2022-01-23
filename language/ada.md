@@ -6,6 +6,8 @@ https://ajxs.me/blog/Giving_Ada_a_chance.html
 
 https://en.wikipedia.org/wiki/GNAT
 
+https://learn.adacore.com/index.html
+
 https://blog.adacore.com/on-the-benefits-of-families
 
 https://blog.vacs.fr/vacs/blogs/post.html?post=2017/10/08/Generating-a-REST-Ada-client-with-OpenAPI-and-Swagger-Codegen
@@ -60,6 +62,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://sourceforge.net/p/jadam/code/HEAD/tree/
+
 https://www.noureddine.org/research/joular/powerjoular
 
 https://pico-doc.synack.me/#getting_started

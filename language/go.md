@@ -78,6 +78,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://news.ycombinator.com/item?id=30014108 Show HN: Lockless Ringbuffer Built with Go Generics
+> https://github.com/GavinClarke0/LocklessGenericRingBuffer
+
+https://dominictobias.medium.com/go-is-about-to-get-a-whole-lot-faster-a50c1e7d60b9
+
 https://gokrazy.org/
 
 https://www.reddit.com/r/golang/comments/s4rrzq/do_you_know_of_a_robust_library_that_handles/

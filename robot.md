@@ -29,8 +29,13 @@ https://www.baucomrobotics.com/domino-robot-posts/trajectory-generation
 https://blog.roboflow.com/zero-shot-object-tracking/
 > https://news.ycombinator.com/item?id=28310814
 
+# Bionic
+https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-future-of-robotics-140023476.html
+
 # Gesture
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
+
+
 
 # News
 https://www.agriculture.com/news/technology/john-deere-unveils-fully-autonomous-8r-tractor

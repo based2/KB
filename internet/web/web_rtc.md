@@ -26,3 +26,5 @@ https://github.com/miroslavpejic85/mirotalk Zoom – Google meet Open Source alt
 > https://news.ycombinator.com/item?id=29628895
 > https://news.ycombinator.com/item?id=29891050
 
+https://github.com/pion/webrtc/tree/master/examples/bandwidth-estimation-from-disk go
+

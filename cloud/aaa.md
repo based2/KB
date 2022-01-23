@@ -23,6 +23,9 @@ https://roadmap.cloudsecdocs.com/
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
 # News
+https://fly.io/blog/free-postgres/
+> https://news.ycombinator.com/item?id=30018197
+
 https://support.google.com/a/answer/60217?hl=en
 > https://news.ycombinator.com/item?id=30013401
 
@@ -34,6 +37,7 @@ https://www.reddit.com/r/ovh/comments/s4au0g/big_bhs2_outage_today/
 https://blog.revolve.team/2022/01/13/cloud-de-confiance-etat-des-lieux-2022/
 
 https://matt-rickard.com/aws-is-not-a-dumb-pipe/
+> https://news.ycombinator.com/item?id=30030293
 
 https://news.ycombinator.com/item?id=29910688 bintray
 

@@ -53,6 +53,9 @@ https://cornerbit.tech/a-few-useful-xcode-debugging-tricks/
 https://eisel.me/devtool-allocators
 > https://news.ycombinator.com/item?id=29068828
 
+https://www.cdfinder.de/guide/blog/apple_hell.html
+> https://news.ycombinator.com/item?id=26993857
+
 # M1
 https://eclecticlight.co/2022/01/03/power-frequency-management-how-m1-e-cores-win/
 > https://news.ycombinator.com/item?id=29778990
@@ -130,10 +133,6 @@ https://authzed.com/blog/onboarding-with-an-m1/
 https://developer.apple.com/news/?id=mdkbobfo Account deletion within apps required starting January 31
 > https://news.ycombinator.com/item?id=28776960
 
-# Dev
-https://www.cdfinder.de/guide/blog/apple_hell.html
-> https://news.ycombinator.com/item?id=26993857
-
 #
 https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
 > https://news.ycombinator.com/item?id=27151993
@@ -141,6 +140,10 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://9to5mac.com/2022/01/23/gurman-apple-preparing-to-launch-its-widest-array-of-new-products-ever-this-fall/
+
+https://news.ycombinator.com/item?id=30043764 Ask HN: How to make my macOS less distracting?
+
 https://mjtsai.com/blog/2022/01/12/catching-native-apps/
 >
 

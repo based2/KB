@@ -39,6 +39,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://possiblywrong.wordpress.com/2022/01/22/string-art/
+
 https://genuary.art/
 > https://news.ycombinator.com/item?id=29779644
 

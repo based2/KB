@@ -33,6 +33,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191 The Rise and Fall of 'Social Bot' Research
+> https://news.ycombinator.com/item?id=30046446
+
 https://news.ycombinator.com/item?id=29959401 Yahoo login inaccessible over IPv6 worldwide
 
 https://www.newyorker.com/culture/infinite-scroll/how-tumblr-became-popular-for-being-obsolete

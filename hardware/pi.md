@@ -1,3 +1,9 @@
+https://github.com/leswright1977/PySpectrometer
+> https://news.ycombinator.com/item?id=30027804
+
+https://tdarb.org/pi-400-internal-ssd/
+> https://news.ycombinator.com/item?id=30039599
+
 https://www.jeffgeerling.com/blog/2022/using-4g-lte-wireless-modems-on-raspberry-pi
 > https://news.ycombinator.com/item?id=30014919
 

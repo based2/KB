@@ -52,6 +52,13 @@ https://nicole.express/2021/the-problem-of-art.html
 
 https://github.com/sedthh/pyxelate img2pixel
 
+
+https://github.com/LibreSprite/LibreSprite
+
+https://github.com/jvalen/pixel-art-react
+
+https://www.piskelapp.com/
+
 # Font
 https://github.com/robhagemans/hoard-of-bitfonts
 > https://news.ycombinator.com/item?id=27773601

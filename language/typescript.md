@@ -54,6 +54,8 @@ https://deno.com/blog/deno-on-mdn
 https://byteofdev.com/posts/deno/
 > https://news.ycombinator.com/item?id=29870321
 
+https://deno.com/blog/v1.18
+
 https://deno.com/blog/v1.14
 > https://news.ycombinator.com/item?id=28550339
 
@@ -64,6 +66,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-beta/
+
 https://www.executeprogram.com/blog/typescript-features-to-avoid
 > https://news.ycombinator.com/item?id=29985123
 

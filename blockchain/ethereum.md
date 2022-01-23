@@ -10,6 +10,12 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.fwb.help/wip/imperfect-union-how-constitutiondao-lost-its-way
+> https://news.ycombinator.com/item?id=30045690
+
+https://thecryptojournal.substack.com/p/what-is-ethereum-layer-2-and-why
+> https://news.ycombinator.com/item?id=30044054
+
 https://trufflesuite.com/blog/introducing-ganache-7/
 
 https://github.com/hoytech/quadrable

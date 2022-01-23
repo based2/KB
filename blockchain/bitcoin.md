@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://apnews.com/article/cryptocurrency-technology-business-brazil-bitcoin-2dc801e5e3aa477ce7983d84dc8a64bb
+> https://news.ycombinator.com/item?id=30040052
+
 https://www.isbitcoindownorjustme.com/
 > https://news.ycombinator.com/item?id=29854298
 

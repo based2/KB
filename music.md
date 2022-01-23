@@ -63,6 +63,9 @@ https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/
 https://www.researchgate.net/publication/319392963_A_Swingogram_Representation_for_Tracking_Micro-Rhythmic_Variation_in_Jazz_Performances
 > https://news.ycombinator.com/item?id=27538436
 
+https://kindofbloop.com/
+> 
+
 # Electronic
 
 https://www.vitling.xyz/toys/acid-banger/

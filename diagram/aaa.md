@@ -114,6 +114,11 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://tldrawnext.vercel.app/
+
+https://graphviz.org/
+> https://news.ycombinator.com/item?id=29966107
+
 https://gojs.net/latest/index.html?v220
 > https://news.ycombinator.com/item?id=30010223
 

@@ -39,6 +39,9 @@ https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-a
 > https://news.ycombinator.com/item?id=29366621
 
 # News
+https://writing.kemitchell.com/2022/01/22/Fast-Path-1.0.0.html USA
+>
+
 https://www.wsj.com/articles/senate-panel-approves-antitrust-bill-restricting-big-tech-platforms-11642701487
 > https://news.ycombinator.com/item?id=30012965
 

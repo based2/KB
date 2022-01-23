@@ -71,6 +71,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://hauleth.dev/post/who-watches-watchmen-i/ Integrating Elixir Applications with Systemd
+> https://news.ycombinator.com/item?id=29971515
+
 https://www.philipotoole.com/why-are-we-still-tailing-log-files/
 > https://news.ycombinator.com/item?id=30010144
 

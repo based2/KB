@@ -55,6 +55,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta
+> https://news.ycombinator.com/item?id=30040065
+
 https://pubs.rsc.org/en/content/articlelanding/2022/ee/d1ee03283f
 > https://news.ycombinator.com/item?id=29987508
 

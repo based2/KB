@@ -86,6 +86,8 @@ https://github.com/tylertreat/comcast
 https://github.com/honzaap/Systemizer system design tool used to create and simulate large scale distributed systems
 
 # News
+https://aws.amazon.com/en/builders-library/avoiding-fallback-in-distributed-systems/
+
 https://martinfowler.com/articles/patterns-of-distributed-systems/replicated-log.html
 
 https://www.researchgate.net/profile/Xavier-Defago/publication/29682135_The_ph_accrual_failure_detector/links/0a85e53ce412e3b069000000/The-ph-accrual-failure-detector.pdf

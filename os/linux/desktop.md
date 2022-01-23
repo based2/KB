@@ -36,6 +36,9 @@ https://usebottles.com/
 > https://www.playonlinux.com
 
 # News
+https://www.talisman.org/x-debut.shtml
+> https://news.ycombinator.com/item?id=29963888
+
 https://nakst.gitlab.io/essence
 > https://news.ycombinator.com/item?id=29950740
 

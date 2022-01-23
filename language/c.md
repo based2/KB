@@ -71,6 +71,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://arxiv.org/abs/2201.07845 How ISO C became unusable for operating systems development
+> https://news.ycombinator.com/item?id=30022022
+
 http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2895.htm
 > https://news.ycombinator.com/item?id=29957136
 

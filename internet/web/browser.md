@@ -30,6 +30,11 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://groups.google.com/a/chromium.org/g/chromium-extensions/c/tq_Cda7TDCA Manifest v3 High CPU Usages
+
+https://www.techradar.com/news/the-success-of-web-browser-brave-is-a-bad-sign-for-google-heres-why
+> https://news.ycombinator.com/item?id=30042593
+
 https://developer.chrome.com/blog/private-network-access-preflight/
 
 https://news.ycombinator.com/item?id=29918052 	Ask HN: Firefox connection problems after enabling DoH?

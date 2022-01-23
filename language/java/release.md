@@ -15,6 +15,8 @@ https://openjdk.java.net/jeps/416
 
 https://tschatzl.github.io/2021/11/15/heap-regions-x-large.html
 
+https://coderoasis.com/jdk-18-new-features/
+
 # 17 LTS
 https://jdk.java.net/loom/
 https://github.com/openjdk/jdk/pull/3427 Stream API skip() and limit() allocation optimization on openjdk 17

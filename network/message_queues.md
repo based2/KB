@@ -84,3 +84,6 @@ https://github.com/OpenHFT/Chronicle-Queue
 
 https://www.tedinski.com/2019/03/05/backpressure.html
 > https://news.ycombinator.com/item?id=26813649
+
+https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready/ FOQS: Making a distributed priority queue disaster-ready
+> https://news.ycombinator.com/item?id=29993007

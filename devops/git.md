@@ -1,5 +1,7 @@
 https://git-scm.com/
 
+https://github.com/summitech/gitexplorer
+
 https://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;
 > https://news.ycombinator.com/item?id=28578896
 > https://github.com/ndp/git-cheatsheet
@@ -91,6 +93,7 @@ https://nvie.com/posts/a-successful-git-branching-model/
 
 https://render.com/blog/git-organized-a-better-git-flow
 > https://news.ycombinator.com/item?id=29998227
+> https://lobste.rs/s/yzcjy7/git_organized_better_git_flow
 
 ### Cons.
 https://thinkinglabs.io/articles/2021/07/14/on-the-evilness-of-feature-branching-a-tale-of-two-teams.html
@@ -248,6 +251,10 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://meldmerge.org/ diff ui
+
+https://gist.github.com/phoe/7d24bdb1f2be76a02fecba8cfecbef38 Forever Stable Branch
+
 https://soap.coffee/~lthms/opinions/StackedGit.html
 
 https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733 Using Git Commit Message Templates to Write Better Commit Messages

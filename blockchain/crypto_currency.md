@@ -20,6 +20,9 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.wsj.com/articles/bitcoin-price-falls-below-40-000-in-tandem-with-tech-selloff-11642765835
+> https://news.ycombinator.com/item?id=30042758
+
 https://crypto.com/product-news/crypto-com-security-report-next-steps
 > https://news.ycombinator.com/item?id=30009714
 

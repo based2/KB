@@ -12,6 +12,14 @@ https://danielyxie.github.io/bitburner/
 > https://news.ycombinator.com/item?id=29581110
 
 # News
+https://obscuritory.com/sim/when-simcity-got-serious/
+
+https://spectrum.ieee.org/pong
+> https://news.ycombinator.com/item?id=30021953
+
+https://www.chiark.greenend.org.uk/~sgtatham/dice/ A Pair Of Dice Which Never Roll 7
+> https://news.ycombinator.com/item?id=30007120
+
 https://github.com/water111/jak-project
 > https://news.ycombinator.com/item?id=29987501
 

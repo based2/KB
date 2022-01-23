@@ -70,9 +70,13 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
-https://news.ycombinator.com/item?id=29441272
+https://github.com/awslabs/aws-lambda-powertools-typescript
+> https://news.ycombinator.com/item?id=30038509
 
-https://news.ycombinator.com/item?id=29300081
+https://news.ycombinator.com/item?id=29441272 Show HN: I wrote a book about using Lambda with Go
+
+https://news.ycombinator.com/item?id=29300081 AWS launching Lambda URLs, allowing executions without API Gateway -> taken down
+> https://github.com/aws/aws-sdk-js/blob/master/CHANGELOG.md Premature launch
 
 https://aws.amazon.com/en/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/
 

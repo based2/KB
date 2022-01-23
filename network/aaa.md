@@ -95,6 +95,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://hackaday.com/2022/01/21/casually-chirping-into-the-world-of-lorawan/
+
 https://www.cnx-software.com/2022/01/19/10-gbe-m-2-module-innodisk-egpl-t101/
 > https://news.ycombinator.com/item?id=29990380
 

@@ -326,6 +326,15 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://www.thecodedmessage.com/posts/unsafe/
+> https://news.ycombinator.com/item?id=30021031
+
+https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html
+> https://news.ycombinator.com/item?id=30031323
+
+https://blog.dend.ro/mapping-my-walks-osrm-rust/
+> https://news.ycombinator.com/item?id=30034951
+
 https://kerkour.com/rust-file-encryption-chacha20poly1305-argon2/
 > https://news.ycombinator.com/item?id=29995968
 

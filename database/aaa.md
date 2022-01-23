@@ -65,6 +65,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://blog.the-pans.com/relational/
+> https://news.ycombinator.com/item?id=29963448
+
 https://www.red-gate.com/simple-talk/databases/oracle-databases/transformations-by-the-oracle-optimizer/
 
 https://db.cs.cmu.edu/papers/2022/cidr2022-p13-crotty.pdf Are You Sure You Want to Use MMAP in Your atabase Management System?

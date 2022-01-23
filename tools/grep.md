@@ -32,3 +32,6 @@ https://r2c.dev/blog/2021/taint-mode-is-now-in-beta/
 
 https://phili.pe/posts/using-grep-for-simple-ci-tasks/
 > https://news.ycombinator.com/item?id=29940117
+
+https://susam.net/maze/wordle-with-grep.html
+> https://lobste.rs/s/qdszd9/wordle_with_grep

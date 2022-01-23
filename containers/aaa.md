@@ -36,6 +36,12 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://clownix.net/
+> https://linuxfr.org/news/cloonix-et-les-conteneurs
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html
+> https://news.ycombinator.com/item?id=30026196
+
 https://github.com/knrdl/traefik-docker-protector
 
 https://blog.min.io/best-practices-minio-virtualized/

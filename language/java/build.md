@@ -41,6 +41,12 @@ https://github.com/apache/maven-wrapper
 https://www.javaadvent.com/2021/12/from-maven-3-to-maven-5.html
 > https://www.reddit.com/r/java/comments/rlarbq/from_maven_3_to_maven_5/
 
+https://lists.apache.org/list.html?announce@maven.apache.org Maven Compiler Plugin 3.9.0 released
+
+https://lists.apache.org/list.html?announce@maven.apache.org Maven JAR Plugin 3.2.2 released
+
+https://lists.apache.org/list.html?announce@maven.apache.org Maven Release 3.0.0-M5 released
+
 ## Public repositories
 https://search.maven.org/classic/#
 

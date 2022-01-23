@@ -1,3 +1,37 @@
+https://www.techspot.com/news/93090-mcafee-issues-security-bulletin-patches-bugs-can-lead.html
+
+https://blog.frankel.ch/running-untrusted-code/
+> https://www.reddit.com/r/netsec/comments/s5io9l/youre_running_untrusted_code/
+
+https://blog.talosintelligence.com/2022/01/talos-incident-response-year-in-review.html
+
+https://github.com/lfit/itpol/blob/master/protecting-code-integrity.md with PGP
+
+https://serhack.me/articles/persuading-people-through-voice-ai-phishing-part-1/
+
+https://blog.haschek.at/2019/the-curious-case-of-the-RasPi-in-our-network.html
+> https://news.ycombinator.com/item?id=29965110
+
+https://catonmat.net/ldd-arbitrary-code-execution
+
+https://octagon.net/blog/2022/01/22/cve-2021-45467-cwp-centos-web-panel-preauth-rce/
+
+https://sysdig.com/blog/cve-2022-0185-container-escape/ CVE-2022-0185: Detecting and mitigating Linux Kernel vulnerability causing container escape
+
+https://github.com/d2phap/ImageGlass/issues/1252 spider.com integration is user hostile and should be removed
+> https://news.ycombinator.com/item?id=30034675
+
+https://blog.rust-lang.org/2022/01/20/cve-2022-21658.html
+
+https://paul.reviews/behavioral-profiling-the-password-you-cant-change/
+> https://news.ycombinator.com/item?id=30004539
+
+https://www.netmeister.org/blog/infosec-skillsets.html
+> https://news.ycombinator.com/item?id=30019603
+
+https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/
+> https://news.ycombinator.com/item?id=30041815
+
 https://news.ycombinator.com/item?id=30015810 Pixel camera app may change QR code URL
 
 https://securelist.com/moonbounce-the-dark-side-of-uefi-firmware/105468/
@@ -41,6 +75,7 @@ https://github.com/garywill/LAN-port-scan-forbidder
 > https://news.ycombinator.com/item?id=29946103
 
 https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/
+> https://news.ycombinator.com/item?id=29965381
 
 https://dl.acm.org/doi/abs/10.1145/3485832.3485894 Obfuscation Revealed: Leveraging Electromagnetic Signals for Obfuscated Malware Classification
 > https://www.schneier.com/blog/archives/2022/01/using-em-waves-to-detect-malware.html
@@ -477,6 +512,8 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://digital.nhs.uk/cyber-alerts/2022/cc-4002
 > > https://news.ycombinator.com/item?id=29850302
 > https://www.theguardian.com/news/2022/jan/13/pegasus-spyware-target-journalists-activists-el-salvador
+> https://twitter.com/bagder/status/1484672924036616195 why not just email OSS authors you never paid anything and demand a response for free within 24 hours with lots of info?
+> > https://news.ycombinator.com/item?id=30035651
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/
@@ -702,6 +739,7 @@ https://thenewstack.io/zero-trust-security-and-the-software-development-lifecycl
 
 https://certitude.consulting/blog/en/invisible-backdoor/
 > https://news.ycombinator.com/item?id=29170954
+> > https://util.unicode.org/UnicodeJsps/confusables.jsp
 
 https://arstechnica.com/gadgets/2021/11/vpn-vulnerability-on-10k-servers-has-severity-rating-of-9-8-out-of-10/
 

@@ -83,6 +83,13 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://stanislavfort.github.io/blog/sphere-spilling-out/
+> https://news.ycombinator.com/item?id=29968702
+
+http://matrixmultiplication.xyz/
+> https://news.ycombinator.com/item?id=29971470
+> > https://static.laszlokorte.de/matrix-multiplication/
+
 https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/
 > https://news.ycombinator.com/item?id=29955780
 
