@@ -62,6 +62,19 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://blog.adacore.com/ada-spark-crate-of-the-year-2021-winners-announced
+
+https://www.reddit.com/r/ada/comments/sa9doc/ann_hac_v00996/ compiler
+
+https://compcert.org/motivations.html
+> https://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf
+
+https://github.com/AdaCore/ada-spark-rfcs/pull/87
+> https://github.com/clairedross/ada-spark-rfcs/blob/spark-exceptional-contracts/considered/rfc-spark-exceptional-contracts.md
+> > https://www.reddit.com/r/ada/comments/rwjfab/rfc_on_exceptional_contracts_for_spark/
+
+https://synack.me/blog/announcing-rp2040_hal-1-0.html
+
 https://sourceforge.net/p/jadam/code/HEAD/tree/
 
 https://www.noureddine.org/research/joular/powerjoular

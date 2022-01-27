@@ -19,6 +19,10 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://github.com/drduh/YubiKey-Guide
+> https://news.ycombinator.com/item?id=30081348
+> > https://www.stavros.io/posts/u2f-fido2-with-ssh/
+
 https://therecord.media/more-than-1200-phishing-toolkits-capable-of-intercepting-2fa-detected-in-the-wild/
 
 https://github.com/suvash/one-time

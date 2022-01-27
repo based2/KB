@@ -102,6 +102,9 @@ https://age.apache.org/# Graph
 
 https://supabase.com/blog/2021/12/03/pg-graphql
 > https://news.ycombinator.com/item?id=29430720
+> https://www.getmotoradmin.com/supabase
+> > https://news.ycombinator.com/item?id=30100077
+> > > https://directus.io/
 
 https://github.com/solidsnack/GraphpostgresQL
 
@@ -223,6 +226,17 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://github.com/postgres-ai/database-lab-engine
+> https://news.ycombinator.com/item?id=30068669
+
+https://github.com/jorzel/postgres-full-text-search
+
+https://www.dolthub.com/blog/2022-01-26-creating-a-postgres-foreign-data-wrapper/
+> https://news.ycombinator.com/item?id=30089884
+
+https://www.interdb.jp/pg/index.html The Internals of PostgreSQL
+> https://news.ycombinator.com/item?id=30086374
+
 https://spacelift.io/blog/tricking-postgres-into-using-query-plan
 > https://news.ycombinator.com/item?id=29981737
 

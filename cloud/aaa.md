@@ -22,7 +22,37 @@ https://roadmap.cloudsecdocs.com/
 # FaaS
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
+# Limits
+## Budget Cost Capping
+
+https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/spending-limit
+
+https://faun.pub/capping-costs-on-gcp-for-many-projects-with-a-budget-for-many-months-without-paying-a-penny-dc461525c2d2
+
+https://www.quora.com/Why-doesnt-Amazon-provide-any-tools-to-cap-AWS-usage-costs
+
+https://cloud.gov/docs/pricing/quotas/
+
+https://blogs.oracle.com/cloud-infrastructure/post/use-quotas-for-better-control-and-more-effective-cost-management-in-the-cloud
+
+[https://orasites-prodapp.cec.ocp.oraclecloud.com/content/published/api/v1.1/assets/CONTC2974C5703054D6C8F6919FF5DB86157/native?cb=_cache_2c3d&channelToken=f7814d202b7d468686f50574164024ec]<https://blogs.oracle.com/cloud-infrastructure/post/use-quotas-for-better-control-and-more-effective-cost-management-in-the-cloud>
+Use Quotas for Better Control and More Effective Cost Management in the Cloud - Oracle <https://blogs.oracle.com/cloud-infrastructure/post/use-quotas-for-better-control-and-more-effective-cost-management-in-the-cloud>
+
+## Jurisdictional
+* Alibaba - China
+* AWS - USA (us-east1-1 KMS, usGov, secret zone), China
+* Azure - USA, China (https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/spending-limit), Russia(https://docs.microsoft.com/en-us/compliance/regulatory/offering-russia-data-localization)
+* IBM
+* Oracle
+
 # News
+https://github.com/mdlayher/vsock Linux VM sockets (AF_VSOCK) for communication between a hypervisor and its virtual machines. MIT Licensed.
+
+https://opensource.optum.com/blog/2021/10/21/s3-to-azure-copy
+
+https://www.cloud.service.gov.uk/
+> https://news.ycombinator.com/item?id=30097812
+
 https://fly.io/blog/free-postgres/
 > https://news.ycombinator.com/item?id=30018197
 

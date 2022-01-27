@@ -1,3 +1,9 @@
+https://github.com/jonathandata1/2022_beijing
+> https://news.ycombinator.com/item?id=30097371
+
+https://journal.spencerwnelson.com/entries/nextkb.html
+> https://news.ycombinator.com/item?id=30062655
+
 https://ibotpeaches.github.io/Apktool/
 > https://news.ycombinator.com/item?id=29962356
 

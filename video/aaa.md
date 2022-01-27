@@ -87,6 +87,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://brunoluiz.net/blog/2022/jan/gif-sane-playback-control-ffmpegwasm/
+> https://news.ycombinator.com/item?id=30056828
+
 https://github.com/FFmpeg/FFmpeg/blob/release/5.0/Changelog
 > https://news.ycombinator.com/item?id=29939789
 

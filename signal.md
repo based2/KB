@@ -29,6 +29,12 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.titech.ac.jp/english/news/2022/062916 Just Listen to the Chaos: A New Approach to Extracting Information from Large Ensembles of Sensors
+> https://news.ycombinator.com/item?id=30056228
+
+https://www.oldradio.com/archives/hardware/
+> https://news.ycombinator.com/item?id=30084833
+
 http://www.technoblogy.com/show?3QEF AM Morse-Code Transmitter
 > https://news.ycombinator.com/item?id=29955204
 

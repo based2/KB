@@ -9,6 +9,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.nytimes.com/2022/01/25/business/google-topics-chrome-tracking.html
+> https://news.ycombinator.com/item?id=30088089
+
 https://privacytests.org/
 > https://news.ycombinator.com/item?id=29850780
 

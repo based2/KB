@@ -1,3 +1,38 @@
+https://www.franzoni.eu/ransomware-resistant-backups/
+> https://news.ycombinator.com/item?id=30105538
+
+https://lists.apache.org/thread/l8x62p3k19yfcb208jo4zrb83k5mfwg9 CVE-2022-23181 Apache Tomcat Local Privilege Escalation
+
+https://www.cs.auckland.ac.nz/~pgut001/pubs/pfx.html
+> https://news.ycombinator.com/item?id=30085999
+
+https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/
+> https://news.ycombinator.com/item?id=30084636
+
+https://www.propublica.org/article/identity-theft-surged-during-the-pandemic-heres-where-a-lot-of-the-stolen-data-came-from
+> https://news.ycombinator.com/item?id=30099747
+
+https://seclists.org/oss-sec/2022/q1/34 CVE-2021-4122: cryptsetup 2.x: decryption through LUKS2 reencryption crash recovery
+> https://news.ycombinator.com/item?id=30101193
+
+https://support.apple.com/en-gb/HT213053 About the security content of iOS 15.3 and iPadOS 15.3
+
+https://support.apple.com/en-us/HT213054 About the security content of macOS Monterey 12.2
+> https://news.ycombinator.com/item?id=30091980
+
+https://www.ryanpickren.com/safari-uxss
+> https://news.ycombinator.com/item?id=30076309
+
+https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt
+> https://news.ycombinator.com/item?id=30084718
+> https://arstechnica.com/information-technology/2022/01/a-bug-lurking-for-12-years-gives-attackers-root-on-every-major-linux-distro/
+
+https://www.whitehouse.gov/omb/briefing-room/2022/01/26/office-of-management-and-budget-releases-federal-strategy-to-move-the-u-s-government-towards-a-zero-trust-architecture/
+> https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to
+> > https://news.ycombinator.com/item?id=30101411
+
+https://dr.headerson.cispa.de/ Is your website protected against Clickjacking?
+
 https://www.techspot.com/news/93090-mcafee-issues-security-bulletin-patches-bugs-can-lead.html
 
 https://blog.frankel.ch/running-untrusted-code/

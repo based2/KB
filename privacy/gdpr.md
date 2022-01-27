@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://noyb.eu/sites/default/files/2022-01/Case%202020-1013%20-%20EDPS%20Decision_bk.pdf
+
 https://www.theregister.com/2022/01/13/google_analytics_gdpr/
 > https://news.ycombinator.com/item?id=29921635
 

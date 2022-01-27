@@ -38,7 +38,6 @@ https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/
 
 https://webassembly.studio/
 
-
 https://news.ycombinator.com/item?id=26803155
 
 https://web.dev/asyncify/
@@ -68,6 +67,11 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types
+
+https://jott.live/markdown/mm_wasm
+> https://news.ycombinator.com/item?id=30073186
+
 https://github.com/PollRobots/scheme partial implementation of r7rs scheme
 > https://news.ycombinator.com/item?id=29773927
 

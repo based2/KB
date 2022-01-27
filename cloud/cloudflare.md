@@ -1,3 +1,9 @@
+https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects
+> https://news.ycombinator.com/item?id=30072997
+
+https://blog.cloudflare.com/incorrect-proxying-of-24-hostnames-on-january-24-2022/
+> https://news.ycombinator.com/item?id=30089921
+
 https://blog.cloudflare.com/workers-optimization-reduces-your-bill/
 
 https://blog.cloudflare.com/miniflare/

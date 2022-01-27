@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.nasdaq.com/articles/sweden-approves-plan-to-bury-spent-nuclear-fuel-for-100000-years
+> https://news.ycombinator.com/item?id=30104505
+
 https://www.psu.edu/news/research/story/form-fit-device-wraps-around-hot-surfaces-turns-wasted-heat-electricity/
 > https://news.ycombinator.com/item?id=30038563
 

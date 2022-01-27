@@ -102,6 +102,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://www.rand.org/content/dam/rand/pubs/reports/2007/R3283.pdf
+
 https://news.ycombinator.com/item?id=30046840 Ask HN: Recommendations for an SMTP Sending Service
 
 https://news.ycombinator.com/item?id=29894548 gmail spam

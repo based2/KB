@@ -32,6 +32,9 @@ https://www.realworldtech.com/vax-cpu-economics/
 https://github.com/lenticularis39/axpbox
 
 #
+https://www.righto.com/2022/01/ibm360model50.html
+> https://news.ycombinator.com/item?id=30073973
+
 https://archives.loomcom.com/contraltojs/ ContrAltoJS Xerox Alto Emulator
 > https://news.ycombinator.com/item?id=28223312
 

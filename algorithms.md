@@ -65,6 +65,11 @@ https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/
 https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088
 
 # News
+https://github.com/minjaehwang/bitsetsort
+
+https://shlegeris.com/2018/10/23/sqrt.html
+> https://news.ycombinator.com/item?id=30057582
+
 https://higherlogics.blogspot.com/2020/05/dualcodual-numbers-for-forwardreverse.html
 > https://news.ycombinator.com/item?id=29828039
 

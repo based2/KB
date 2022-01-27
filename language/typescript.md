@@ -66,6 +66,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://deno.com/blog/deno-in-2021
+> https://news.ycombinator.com/item?id=30073786
+
 https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-beta/
 
 https://www.executeprogram.com/blog/typescript-features-to-avoid

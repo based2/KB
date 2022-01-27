@@ -62,6 +62,11 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://blog.kubecost.com/blog/kubernetes-kops/
+
+https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/
+> https://news.ycombinator.com/item?id=30096674
+
 https://www.cloudquery.io/blog/running-nsa-and-cisa-kubernetes-hardening-tests-with-cloudquery-policies
 
 https://symbiosis.host/ Hetzner VPS

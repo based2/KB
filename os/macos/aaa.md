@@ -140,6 +140,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://nova.app/
+> https://news.ycombinator.com/item?id=30066298
+
 https://9to5mac.com/2022/01/23/gurman-apple-preparing-to-launch-its-widest-array-of-new-products-ever-this-fall/
 
 https://news.ycombinator.com/item?id=30043764 Ask HN: How to make my macOS less distracting?

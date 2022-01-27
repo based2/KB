@@ -12,3 +12,6 @@ https://github.com/doyoubi/undermoon rust
 
 https://docs.statetrace.com/blog/redis-server/
 > https://news.ycombinator.com/item?id=29199717
+
+https://ably.com/blog/redis-keys-do-not-expire-atomically
+> https://news.ycombinator.com/item?id=30099572

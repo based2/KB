@@ -12,6 +12,11 @@ https://danielyxie.github.io/bitburner/
 > https://news.ycombinator.com/item?id=29581110
 
 # News
+https://news.ycombinator.com/item?id=30066445
+
+https://fabiensanglard.net/another_world_polygons/index.html
+> https://news.ycombinator.com/item?id=30080159
+
 https://obscuritory.com/sim/when-simcity-got-serious/
 
 https://spectrum.ieee.org/pong

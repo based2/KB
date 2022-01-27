@@ -255,6 +255,14 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/openjdk/panama-foreign/pull/633 8280527: Move jdk.incubator.foreign to java.lang.foreign
+
+https://github.com/google/error-prone/releases/tag/v2.11.0 jdk11
+> https://www.reddit.com/r/java/comments/scxd1e/error_prone_2110_released_requires_jdk11/
+
+https://jspecify.dev/user-guide.html
+> https://www.reddit.com/r/java/comments/sdcqwq/jspecify_express_specifications_initially_just/
+
 https://michael-simons.github.io/neo4j-migrations/maintaining-a-medium-sized-java-library-in-2022-and-beyond/
 
 https://neil.computer/notes/teaching-how-to-code-is-broken/

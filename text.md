@@ -109,6 +109,12 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 #
+https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/
+> https://news.ycombinator.com/item?id=30104292
+
+https://www.wired.com/story/kingdom-of-characters-jing-tsu-china-language-information/
+> https://news.ycombinator.com/item?id=30086441
+
 https://quickwit.io/blog/quickwit-0.2/
 > https://news.ycombinator.com/item?id=29904607
 

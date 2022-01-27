@@ -195,6 +195,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+http://tomerfiliba.com/blog/Infix-Operators/
+> https://news.ycombinator.com/item?id=30057048
+
 https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf
 > https://news.ycombinator.com/item?id=30047289
 

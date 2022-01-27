@@ -48,6 +48,11 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://zk-treasure-hunt.glitch.me/
+> https://news.ycombinator.com/item?id=30088537
+
+https://adlrocha.substack.com/p/adlrocha-the-pieces-of-the-blockchain
+
 https://blog.mollywhite.net/abuse-and-harassment-on-the-blockchain/
 
 https://thenewstack.io/solana-blockchain-crashes-into-open-source-top-10/

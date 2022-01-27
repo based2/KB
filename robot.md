@@ -35,9 +35,10 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 # Gesture
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
-
-
 # News
+https://github.com/michiganrobotics/rob501 math
+> https://news.ycombinator.com/item?id=30099347
+
 https://www.agriculture.com/news/technology/john-deere-unveils-fully-autonomous-8r-tractor
 > https://news.ycombinator.com/item?id=29858679
 

@@ -224,6 +224,12 @@ https://stopa.io/post/292 What’s the simplest Lisp interpreter I could write, 
 > https://news.ycombinator.com/item?id=30043224
 
 # News
+https://turtlespaces.org/2020/09/04/logo-sierpinski/
+>
+
+https://jkrumbiegel.com/pages/2021-06-07-macros-for-beginners/
+> https://news.ycombinator.com/item?id=30070462
+
 https://koka-lang.github.io/koka/doc/index.html
 
 https://stackoverflow.com/questions/66176720/why-introduce-stdlaunder-rather-than-have-the-compiler-take-care-of-it

@@ -59,6 +59,18 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://www.categoricaldata.net/index.php
+> https://news.ycombinator.com/item?id=30075577
+
+https://github.com/max-sixty/prql
+> https://news.ycombinator.com/item?id=30060784
+
+https://github.com/MechanicalRabbit/FunSQL.jl
+> https://news.ycombinator.com/item?id=30072608
+
+https://github.com/dcmoura/spyql
+> https://news.ycombinator.com/item?id=30074787
+
 https://blog.devgenius.io/why-google-treats-sql-like-code-and-you-should-too-53f97925037e
 > https://news.ycombinator.com/item?id=29921528
 

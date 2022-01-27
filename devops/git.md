@@ -251,6 +251,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.blog/2022-01-24-highlights-from-git-2-35/
+> https://news.ycombinator.com/item?id=30068776
+
 https://meldmerge.org/ diff ui
 
 https://gist.github.com/phoe/7d24bdb1f2be76a02fecba8cfecbef38 Forever Stable Branch

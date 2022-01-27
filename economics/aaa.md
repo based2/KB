@@ -93,6 +93,8 @@ https://mantic.markets/
 https://corporatefinanceinstitute.com/resources/knowledge/modeling/modeloff-guide/
 > https://news.ycombinator.com/item?id=29837013
 
+https://news.ycombinator.com/item?id=30088446
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

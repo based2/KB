@@ -15,3 +15,9 @@ https://chrisdown.name/2018/01/02/in-defence-of-swap.html
 
 https://github.com/stnolting/wb_spi_bridge
 > https://news.ycombinator.com/item?id=29378165
+
+https://jorgecarleitao.medium.com/how-to-efficiently-load-data-to-memory-d65ee359196c
+> https://lobste.rs/s/ogl6ef/how_efficiently_load_data_memory
+
+https://daniel.haxx.se/blog/2017/04/22/fewer-mallocs-in-curl/
+> https://news.ycombinator.com/item?id=30085113

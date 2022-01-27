@@ -182,6 +182,8 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://news.ycombinator.com/item?id=30074949
+
 https://skamille.medium.com/structural-lessons-in-engineering-management-f32b5ffaa1aa
 
 https://cushychicken.github.io/why-you-cant-hire-engineers/

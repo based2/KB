@@ -15,3 +15,5 @@ https://github.com/piranhacloud/piranha/releases/tag/v22.1.0
 https://bell-sw.com/announcements/2020/10/28/JVM-in-Linux-containers-surviving-the-isolation/
 
 https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/
+
+https://www.infoq.com/news/2022/01/whats-new-in-microprofile-5/

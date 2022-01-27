@@ -78,6 +78,9 @@ https://ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2020/
 https://projecteuler.net/
 > https://news.ycombinator.com/item?id=29211532
 
+http://infolab.stanford.edu/~ullman/focs.html Foundations of Computer Science
+> https://news.ycombinator.com/item?id=30099634
+
 # Meta
 https://metacognitive.me/memory-palace/
 > https://news.ycombinator.com/item?id=28640429

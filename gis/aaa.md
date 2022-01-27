@@ -187,6 +187,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.davidrumsey.com/blog/articles/more-than-digital-copies-maps-that-interpret-maps
+
+https://www.coasttocoastam.com/article/the-strange-sites-google-earth-can-t-reveal/
+> https://news.ycombinator.com/item?id=30091788
+
 https://www.sqlshack.com/getting-started-with-spatial-data-in-postgresql/
 > https://news.ycombinator.com/item?id=30015453
 

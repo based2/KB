@@ -23,6 +23,9 @@ https://wiki.mhut.org/software:libgen_desktop
 https://blog.ipfs.io/decentralizing-the-internet-s-root/
 > https://news.ycombinator.com/item?id=28617496
 
+https://www.ctrl.blog/entry/dht-privacy-discovery-hash.html
+> https://news.ycombinator.com/item?id=30072543
+
 https://speakerdeck.com/feross/adventures-in-p2p-javascript
 https://github.com/feross/webtorrent
 

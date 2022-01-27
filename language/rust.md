@@ -326,6 +326,12 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://cantortrading.fi/rust_decimal_str/
+> https://news.ycombinator.com/item?id=30101163
+
+https://github.com/thalo-rs/thalo Event sourcing framework for building microservices.
+> 
+
 https://www.thecodedmessage.com/posts/unsafe/
 > https://news.ycombinator.com/item?id=30021031
 

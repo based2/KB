@@ -54,6 +54,13 @@ https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-mult
 https://www.franceculture.fr/emissions/la-methode-scientifique/positronium-un-parfum-dexotisme
 
 # News
+https://sinews.siam.org/Details-Page/origami-and-the-structure-of-materials
+
+https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/
+
+https://physics.aps.org/articles/v15/s7 Record Lifetime for a Bubble
+> https://news.ycombinator.com/item?id=30057000
+
 https://theoreticalminimum.com/
 > https://news.ycombinator.com/item?id=29969679
 

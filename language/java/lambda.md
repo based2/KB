@@ -16,3 +16,6 @@ https://www.reddit.com/r/java/comments/8i9nd6/a_surprising_feature_of_method_ref
 https://dev.java/learn/combining-lambda-expressions/
 
 https://github.com/meanbeanlib/meanmirror/
+
+https://medium.com/expedia-group-tech/lenses-in-java-2b18c7d24366
+> https://www.reddit.com/r/java/comments/sdm12w/lenses_in_java/

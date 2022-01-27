@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://mockrocket.io/
+> https://news.ycombinator.com/item?id=30086420
+
 https://solarpunk.cool/zines/draw-with-code/sunset.html
 
 https://animatize.com/

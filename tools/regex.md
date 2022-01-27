@@ -63,3 +63,7 @@ https://blog.doyensec.com/2021/03/11/regexploit.html
 https://github.com/google/re2
 
 https://github.com/google/re2j
+
+# News
+https://regexr.com/
+> https://news.ycombinator.com/item?id=30103085

@@ -27,3 +27,6 @@ https://cedwards.xyz/protecting-systemd-service-secrets/
 
 https://blog.darknedgy.net/technology/2020/05/02/0/
 > https://news.ycombinator.com/item?id=29855045
+
+https://systemd-by-example.com/
+> https://news.ycombinator.com/item?id=30071240

@@ -95,6 +95,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://www.androidpimp.com/embedded/banana-pi-bpi-r3-router-board/
+> https://news.ycombinator.com/item?id=30085303
+
 https://hackaday.com/2022/01/21/casually-chirping-into-the-world-of-lorawan/
 
 https://www.cnx-software.com/2022/01/19/10-gbe-m-2-module-innodisk-egpl-t101/

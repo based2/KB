@@ -52,6 +52,9 @@ https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-nex
 > https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
+https://piotrminkowski.com/2022/01/24/distributed-transactions-in-microservices-with-kafka-streams-and-spring-boot/
+> https://www.reddit.com/r/java/comments/sbjwl7/distributed_transactions_in_microservices_with/
+
 https://github.com/averageflow/spring-warehouse
 > https://www.reddit.com/r/java/comments/rqqvbh/spring_warehouse_a_quest_to_learn_more_java_and/
 

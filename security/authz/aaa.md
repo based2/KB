@@ -10,3 +10,5 @@ https://github.com/eclipse-ee4j/exousia/releases/tag/1.0.0-RELEASE
 
 https://github.com/warrant-dev/awesome-authorization
 > https://news.ycombinator.com/item?id=29703950
+
+https://colinking.substack.com/p/the-on3-authz-problem

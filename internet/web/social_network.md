@@ -33,6 +33,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://www.reuters.com/lifestyle/spotify-removing-neil-youngs-music-after-his-joe-rogan-ultimatum-2022-01-27/
+
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3814191 The Rise and Fall of 'Social Bot' Research
 > https://news.ycombinator.com/item?id=30046446
 

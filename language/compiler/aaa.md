@@ -103,6 +103,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://cacm.acm.org/magazines/2022/2/258231-abstractions-their-algorithms-and-their-compilers/fulltext
+
 https://www.cs.tufts.edu/~nr/c--/index.html
 > https://news.ycombinator.com/item?id=30006215
 

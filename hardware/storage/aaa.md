@@ -1,4 +1,7 @@
 # News
+https://blog.benjojo.co.uk/post/lto-tape-backups-for-linux-nerds
+> https://news.ycombinator.com/item?id=30099540
+
 https://www.totenpass.com/
 > https://news.ycombinator.com/item?id=30003831
 

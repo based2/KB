@@ -62,6 +62,8 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://news.ycombinator.com/item?id=30083783 Ask HN: Is the past disappearing on the web?
+
 https://blog.marcua.net/2022/01/09/how-to-archive-a-website-thats-shutting-down-soon.html
 > https://news.ycombinator.com/item?id=29868240
 

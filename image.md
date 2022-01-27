@@ -11,11 +11,12 @@ https://imglarger.com/
 https://resizer.in/
 
 #
+https://news.ycombinator.com/item?id=30085702 Show HN: API to generate charts in PNG/SVG/HTML
+
 https://cleanup.pictures/
 > https://saic-mdal.github.io/lama-project/
 
 https://github.com/feramhq/Perspec
-> 
 
 https://minimator.app/#/create
 > https://news.ycombinator.com/item?id=29838197

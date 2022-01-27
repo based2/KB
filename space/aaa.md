@@ -83,6 +83,9 @@ https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large
 
 https://craffic.co.in/astronomers-simulate-virtual-universe-download-free/
 
+https://www.icrar.org/repeating-transient/
+> https://news.ycombinator.com/item?id=30099010
+
 ### Asteroid
 https://www.nasa.gov/press-release/nasa-invites-media-to-new-osiris-rex-asteroid-bennu-study-briefing
 > https://www.nasa.gov/feature/nasas-tour-of-asteroid-bennu-selected-for-prestigious-computer-graphics-film-festival

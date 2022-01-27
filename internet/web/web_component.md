@@ -25,3 +25,6 @@ https://github.com/BuilderIO/mitosis
 https://shoelace.style/
 
 https://lit.dev/
+
+https://blockprotocol.org/
+> https://news.ycombinator.com/item?id=30103401

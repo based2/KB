@@ -228,6 +228,14 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://users.aalto.fi/~ave/ROS.pdf stat regression
+
+https://probability4datascience.com/
+> https://news.ycombinator.com/item?id=30060759
+
+https://www.slowboring.com/p/census-data
+> https://news.ycombinator.com/item?id=30086087
+
 https://github.com/orchest/orchest Build data pipelines, the easy way
 > https://www.orchest.io/
 

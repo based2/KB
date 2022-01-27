@@ -83,6 +83,16 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 https://www.sekinoworld.com/fractal/
 
 # News
+https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/
+> https://news.ycombinator.com/item?id=30107687
+
+https://www.swmath.org/browse/msc
+
+https://pomax.github.io/bezierinfo/
+> https://news.ycombinator.com/item?id=30100427
+
+https://billwadge.com/2022/01/25/topology-and-computability/
+
 https://stanislavfort.github.io/blog/sphere-spilling-out/
 > https://news.ycombinator.com/item?id=29968702
 

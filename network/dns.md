@@ -77,6 +77,10 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://dnsspy.io/
+
+https://github.com/mosajjal/dnsmonster monitoring
+
 https://hadea.ec.europa.eu/calls-proposals/equipping-backbone-networks-high-performance-and-secure-dns-resolution-infrastructures-works_en
 > https://news.ycombinator.com/item?id=29992840
 

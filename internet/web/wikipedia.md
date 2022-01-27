@@ -33,6 +33,12 @@ https://www.bookstackapp.com/ php
 > https://news.ycombinator.com/item?id=29851834
 
 # News
+https://zim-wiki.org/ Desktop
+> https://news.ycombinator.com/item?id=30088933
+
+https://tomcritchlow.com/2022/01/26/electric-tables/
+> https://news.ycombinator.com/item?id=30089895
+
 https://www.fastcompany.com/90692176/chinese-wikipedia
 
 https://meta.wikimedia.org/wiki/Talk:Fundraising

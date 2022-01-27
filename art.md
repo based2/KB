@@ -39,6 +39,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://hyper-resolution.org/view.html?pointer=0.281,0.004&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08
+> https://news.ycombinator.com/item?id=30066078
+
 https://possiblywrong.wordpress.com/2022/01/22/string-art/
 
 https://genuary.art/

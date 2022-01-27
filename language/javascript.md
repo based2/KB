@@ -339,6 +339,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # 
+https://github.com/hotwired/turbo
+> https://news.ycombinator.com/item?id=30076361
+
+https://arhamjain.com/hyperwordle/
+> https://news.ycombinator.com/item?id=30085760
+
 https://tinybase.org/ A JavaScript library for structured state
 > https://news.ycombinator.com/item?id=29945748
 

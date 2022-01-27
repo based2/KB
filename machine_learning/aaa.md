@@ -247,6 +247,21 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://openai.com/blog/introducing-text-and-code-embeddings/
+
+https://openai.com/blog/instruction-following/
+
+https://arxiv.org/abs/2201.10528 Explainability in Music Recommender Systems
+
+https://www.moralmachine.net/
+> https://news.ycombinator.com/item?id=30094488
+
+https://spectrum.ieee.org/claude-shannon-information-theory
+> https://news.ycombinator.com/item?id=30084169
+
+http://lukemetz.com/difficulty-of-extrapolation-nn-scaling/
+> https://news.ycombinator.com/item?id=30075279
+
 https://engineering.linkedin.com/blog/2020/open-sourcing-dagli
 > https://github.com/linkedin/dagli/
 

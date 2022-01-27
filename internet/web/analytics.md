@@ -27,6 +27,9 @@ https://www.politicalorphans.com/something-weird-is-happening-on-facebook/
 
 https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/
 
+https://kvirkvelia.com/ads-plugin-steals-30-of-your-money/
+> https://news.ycombinator.com/item?id=30057955
+
 # News
 https://twitter.com/ArtemR/status/1484228505986469891
 > https://news.ycombinator.com/item?id=30012631

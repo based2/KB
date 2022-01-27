@@ -104,6 +104,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://www.actionsbyexample.com/
+> https://news.ycombinator.com/item?id=30060765
+
 https://github.com/yuriizinets/gitlab-secrets
 
 https://news.ycombinator.com/item?id=29891656 GitHub no longer supporting unauthenticated `git://`

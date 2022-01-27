@@ -71,6 +71,12 @@ https://fs2.io/#/
 https://github.com/typelevel/fs2
 
 # News
+https://medium.com/disney-streaming/this-week-in-scala-jan-24-2022-fb4d45ff591f
+> https://disneystreaming.github.io/smithy4s/
+> https://www.zionomicon.com/
+
+https://ensime.github.io/ emacs
+
 https://github.com/LesnyRumcajs/grpc_bench/wiki/2022-01-11-bench-results
 
 https://github.com/playframework/playframework/releases/2.8.13

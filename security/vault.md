@@ -13,6 +13,7 @@ https://github.com/securitybunker/databunker go mysql
 
 https://bitwarden.com/
 > https://news.ycombinator.com/item?id=29991585
+> https://github.com/bitwarden c#
 
 https://github.com/dani-garcia/vaultwarden Rust
 > https://news.ycombinator.com/item?id=29662418
@@ -27,3 +28,7 @@ https://github.com/mozilla/sops/discussions/927 New maintainers
 https://blog.borneo.io/securely-managing-aws-credentials-using-aws-vault-b26868fda59
 
 https://lobste.rs/s/gljhif/what_are_some_good_solutions_for_safe What are some good solutions for safe storage of 2FA backup codes?
+
+https://www.passbolt.com/
+> https://github.com/passbolt/passbolt_api php ruby
+> https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles

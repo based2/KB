@@ -78,6 +78,19 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://www.benthos.dev/ Fancy stream processing made operationally mundane
+
+https://tutorialedge.net/golang/getting-starting-with-go-generics/
+> https://www.reddit.com/r/golang/comments/sdwefz/getting_starting_with_go_generics_tutorial/
+
+https://goreleaser.com/customization/aur/
+
+https://github.com/ichiban/prolog
+> https://news.ycombinator.com/item?id=30091291
+
+https://kdy1.dev/posts/2022/1/tsc-go
+> https://news.ycombinator.com/item?id=30074414
+
 https://news.ycombinator.com/item?id=30014108 Show HN: Lockless Ringbuffer Built with Go Generics
 > https://github.com/GavinClarke0/LocklessGenericRingBuffer
 

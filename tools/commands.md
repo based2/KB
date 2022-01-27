@@ -36,6 +36,8 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://seb.jambor.dev/posts/performance-optimizations-for-the-shell-prompt/
+
 https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/
 > https://news.ycombinator.com/item?id=29861532
 

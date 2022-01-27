@@ -115,6 +115,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation-method/170450
+> https://news.ycombinator.com/item?id=30082286
+
 https://news.ycombinator.com/item?id=29995812 Ask HN: Is it time for a home network TLD with TLS?
 
 https://news.ycombinator.com/item?id=29839960 CloudFlare

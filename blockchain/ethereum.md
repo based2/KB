@@ -10,6 +10,11 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.bloomberg.com/news/articles/2022-01-27/crypto-s-cloak-of-anonymity-makes-defi-a-wonderland-for-felon
+
+https://yanmaani.github.io/no-ethereum-name-service-is-still-a-clown-show/
+> https://news.ycombinator.com/item?id=30088798
+
 https://www.fwb.help/wip/imperfect-union-how-constitutiondao-lost-its-way
 > https://news.ycombinator.com/item?id=30045690
 

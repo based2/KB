@@ -65,6 +65,14 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.red-gate.com/simple-talk/databases/sql-server/bi-sql-server/vertipaq-optimization-and-its-impact-on-columnstore-compression/
+
+https://www.edgedb.com/blog/building-a-production-database-in-ten-years-or-less
+> https://news.ycombinator.com/item?id=30072712
+
+https://github.com/castledio/castled Open source reverse-ETL platform to operationalise your data warehouse, java
+> https://news.ycombinator.com/item?id=30072244
+
 https://blog.the-pans.com/relational/
 > https://news.ycombinator.com/item?id=29963448
 

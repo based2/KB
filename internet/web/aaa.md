@@ -73,6 +73,12 @@ https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-
 > https://news.ycombinator.com/item?id=30013100
 
 # News
+https://driftingin.space/posts/session-lived-application-backends
+> https://news.ycombinator.com/item?id=30106187
+
+https://triplelog.com/writer/
+> https://news.ycombinator.com/item?id=30106502
+
 https://woob.tech/
 > https://news.ycombinator.com/item?id=29935734
 
@@ -152,6 +158,10 @@ https://github.com/EtherDream/http-server-online
 > https://news.ycombinator.com/item?id=29047269
 
 https://gemini.circumlunar.space/docs/faq.gmi
+
+https://andregarzia.com/2022/01/gemini-is-a-little-gem.html
+> https://news.ycombinator.com/item?id=30072085
+> > TLS RECOMMENDED approach is  to implement a lightweight "TOFU" certificate-pinning system which treats self-signed certificates as first-class citizens
 
 https://proxy.vulpes.one/gemini/skyjake.fi/gemlog/2022-01_cosmos.gmi
 
