@@ -195,6 +195,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://pypi.org/project/black/ formatter
+> https://news.ycombinator.com/item?id=30130315
+
+https://procrastinate.readthedocs.io/en/stable/index.html PostgreSQL-based Task Queue for Python
+> https://news.ycombinator.com/item?id=30126152
+
 http://tomerfiliba.com/blog/Infix-Operators/
 > https://news.ycombinator.com/item?id=30057048
 

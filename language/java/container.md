@@ -17,3 +17,6 @@ https://bell-sw.com/announcements/2020/10/28/JVM-in-Linux-containers-surviving-t
 https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/
 
 https://www.infoq.com/news/2022/01/whats-new-in-microprofile-5/
+
+https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime
+> https://news.ycombinator.com/item?id=30082661

@@ -23,6 +23,8 @@ https://www.nature.com/articles/548150a
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://en.wikipedia.org/wiki/Grid_cell
+
 https://news.mit.edu/2022/where-sound-come-from-model-0127
 
 https://knowablemagazine.org/article/mind/2022/how-learning-happens-brains-sleeping-babes

@@ -50,6 +50,8 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/de
 
 https://smallstep.com/blog/use-ssh-certificates/
 
+https://www.vaultproject.io/docs/secrets/ssh
+
 # Firewalls
 https://fly.io/blog/ssh-and-user-mode-ip-wireguard/
 > https://news.ycombinator.com/item?id=26315695
@@ -106,6 +108,8 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://marcusedmondson.com/2022/01/28/pivoting-with-ssh-tunnels-and-plink/
+
 https://www.journalduhacker.net/s/hwiuio/emmerdez_les_pirates_ssh_avec_endlessh
 
 https://goteleport.com/blog/security-hardening-ssh-bastion-best-practices/

@@ -37,6 +37,12 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.cell.com/cancer-cell/pdf/S1535-6108(02)00133-2.pdf Can a biologist fix a radio?—Or, what I learned while studying apoptosis
+> https://news.ycombinator.com/item?id=30120457
+
+https://blogs.nvidia.com/blog/2022/01/20/living-cell-simulation/
+> https://news.ycombinator.com/item?id=30113837
+
 https://news.ycombinator.com/item?id=29695013 Sequencing your DNA with a USB dongle and open source code
 
 https://www.science.org/doi/10.1126/science.abn5795 Proteins, proteins everywhere 2021

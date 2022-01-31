@@ -1,6 +1,8 @@
 https://en.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer
 > https://datatracker.ietf.org/doc/html/rfc2595
 
+https://en.wikipedia.org/wiki/Mutual_authentication
+
 https://sayfer.io/blog/security-considerations-during-authentication/
 
 https://link.springer.com/article/10.1007/s11071-020-05463-3

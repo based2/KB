@@ -61,6 +61,10 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://news.ycombinator.com/item?id=30119165 Quitting Dgraph Labs
+
+https://arxiv.org/pdf/2012.11762.pdf Deep Multi-attribute Graph Representation Learning on Protein Structures
+
 https://cs.brown.edu/people/rtamassi/gdhandbook/ Handbook of Graph Drawing and Visualization 2013
 > https://news.ycombinator.com/item?id=29734063
 

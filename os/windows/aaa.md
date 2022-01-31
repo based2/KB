@@ -114,6 +114,13 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://luttig.substack.com/p/dont-forget-microsoft
+> https://news.ycombinator.com/item?id=30141192
+
+http://www.softpanorama.org/OFM/MC/mc_tips.shtml
+
+https://news.ycombinator.com/item?id=30128232
+
 https://old.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/
 > https://news.ycombinator.com/item?id=29955660
 

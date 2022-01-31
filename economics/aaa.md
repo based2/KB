@@ -95,6 +95,9 @@ https://corporatefinanceinstitute.com/resources/knowledge/modeling/modeloff-guid
 
 https://news.ycombinator.com/item?id=30088446
 
+https://therossreport.substack.com/p/the-pandemic-boom-goes-bust
+> https://news.ycombinator.com/item?id=30125779
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317
@@ -114,6 +117,12 @@ https://www.accountingcoach.com/
 > https://news.ycombinator.com/item?id=29625571
 
 # News
+https://fbifemboy.substack.com/p/theoretical-advances-in-amm-understanding automated market makers
+> https://news.ycombinator.com/item?id=30113170
+
+https://www.newsweek.com/us-companies-beg-applicants-germany-admit-400000-skilled-immigrants-annually-1673761
+> https://news.ycombinator.com/item?id=30125772
+
 https://www.cnbc.com/2021/12/31/santander-accidentally-put-millions-into-random-accounts-on-christmas-day.html
 > https://news.ycombinator.com/item?id=29753755
 

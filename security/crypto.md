@@ -73,6 +73,8 @@ https://gnupg.org/donate/index.html
  
 https://blog.jabberhead.tk/2021/12/30/pgpainless-1-0-0-released/
 
+https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html
+
 #
 https://media.ccc.de/v/34c3-9075-latticehacks
 
@@ -99,6 +101,11 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.reddit.com/r/crypto/comments/sdw4cq/the_controversy_surrounding_hybrid_cryptography/
+
+https://blog.cr.yp.to/20220129-plagiarism.html
+> https://news.ycombinator.com/item?id=30127785
+
 https://blog.cryptographyengineering.com/2022/01/14/an-extremely-casual-code-review-of-metamasks-crypto/
 > https://news.ycombinator.com/item?id=29933154
 

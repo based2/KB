@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://blog.min.io/pulumi-and-minio-making-multi-cloud-magic/
+
 https://github.com/khuedoan/homelab
 > https://news.ycombinator.com/item?id=30030991
 

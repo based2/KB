@@ -30,6 +30,14 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/
+> https://news.ycombinator.com/item?id=30140757
+
+https://www.tomsguide.com/news/dont-let-web-browsers-save-passwords
+
+https://engineering.linecorp.com/en/blog/the-baseline-for-web-development-in-2022/
+> https://news.ycombinator.com/item?id=30105932
+
 https://groups.google.com/a/chromium.org/g/chromium-extensions/c/tq_Cda7TDCA Manifest v3 High CPU Usages
 
 https://www.techradar.com/news/the-success-of-web-browser-brave-is-a-bad-sign-for-google-heres-why

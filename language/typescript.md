@@ -66,6 +66,13 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://blog.dend.ro/self-modifying-rust/
+
+https://playground.hibikihtml.com/tutorial/?page=t-intro#section6
+> https://news.ycombinator.com/item?id=30103906
+> https://github.com/dashborg/hibiki
+> > https://github.com/dashborg/hibiki/blob/main/LICENSE
+
 https://deno.com/blog/deno-in-2021
 > https://news.ycombinator.com/item?id=30073786
 

@@ -8,6 +8,8 @@ https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 > https://news.ycombinator.com/item?id=28864749
 
 # News
+https://earthsky.org/earth/solar-superflares-tree-rings/
+
 https://www.zooniverse.org/projects/sophiemu/solar-jet-hunter
 
 https://www.space.com/sun-unleashes-major-x-class-solar-flare-october-2021

@@ -9,6 +9,14 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.bleepingcomputer.com/news/security/researchers-use-gpu-fingerprinting-to-track-users-online/
+
+https://brave.com/web-standards-at-brave/7-googles-topics-api/
+> https://news.ycombinator.com/item?id=30120799
+
+https://blog.torproject.org/tor-browser-advancing-privacy-innovation/
+> https://news.ycombinator.com/item?id=30123982
+
 https://www.nytimes.com/2022/01/25/business/google-topics-chrome-tracking.html
 > https://news.ycombinator.com/item?id=30088089
 

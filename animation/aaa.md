@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+http://walter.bislins.ch/bloge/index.asp?page=Simulation+of+Atmospheric+Refraction
+
 https://mockrocket.io/
 > https://news.ycombinator.com/item?id=30086420
 
@@ -80,6 +82,7 @@ https://nullprogram.com/blog/2017/11/03/
 
 https://alextardif.com/LearningGraphics.html
 > https://news.ycombinator.com/item?id=29755242
+> https://www.reddit.com/r/programming/comments/sfl6po/finding_your_home_in_game_graphics_programming/
 
 https://sketch.metademolab.com/
 > https://news.ycombinator.com/item?id=29635422

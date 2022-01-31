@@ -64,6 +64,9 @@ https://letsencrypt.org/2015/06/04/isrg-ca-certs.html
 https://twitter.com/letsencrypt/status/1443621997288767491
 > https://news.ycombinator.com/item?id=28708544
 
+https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation-method/170450
+> https://www.reddit.com/r/sysadmin/comments/sd2k4g/psa_letsencrypt_will_revoke_certificates_issued/
+
 # Other
 https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
 

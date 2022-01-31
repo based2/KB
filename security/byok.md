@@ -6,6 +6,7 @@ https://en.wikipedia.org/wiki/Key_management
 
 https://www.opendnssec.org/softhsm/ implementation of a cryptographic store accessible through a PKCS #11 interface
 > https://en.wikipedia.org/wiki/PKCS_11
+> > https://everipedia.org/PKCS11
 
 https://security.stackexchange.com/questions/243815/what-are-the-benefits-of-using-azure-rms-with-dke-instead-of-byok-hyok
 
@@ -39,4 +40,6 @@ https://evervault.com/
 > > > https://evervault.com/blog/e3
 > > > > https://evervault.com/papers/kerckhoffs
 
-
+https://www.opendnssec.org/softhsm/ Implementation of a cryptographic store accessible through a PKCS #11 interface
+> https://wiki.opendnssec.org/display/SoftHSM/v2+Design
+> > https://botan.randombit.net/

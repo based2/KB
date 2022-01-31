@@ -95,6 +95,16 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://apenwarr.ca/log/20170814 Things we (finally) know about network queues
+> https://news.ycombinator.com/item?id=30117637
+
+https://computer.rip/2022-01-24-the-smart-modem.html
+> https://news.ycombinator.com/item?id=30111000
+
+https://www.jumboframeinternet.com/post/1/
+> https://news.ycombinator.com/item?id=30123232
+> > https://www.jumboframeinternet.com/post/2/
+
 https://www.androidpimp.com/embedded/banana-pi-bpi-r3-router-board/
 > https://news.ycombinator.com/item?id=30085303
 

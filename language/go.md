@@ -69,6 +69,12 @@ https://www.bleepingcomputer.com/news/security/google-fixes-severe-golang-window
 
 # Tests
 
+https://gobyexample.com/testing
+
+https://github.com/maxatome/go-testdeep Extremely flexible golang deep comparison, extends the go testing package
+> https://go-testdeep.zetta.rocks/
+> > https://go-testdeep.zetta.rocks/prez/#1 go-testdeep
+
 ## Profiler
 https://eng.uber.com/pprof-go-profiler/
 > https://news.ycombinator.com/item?id=27118541
@@ -78,6 +84,13 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/liyue201/gostl
+> https://news.ycombinator.com/item?id=30136969
+
+https://entgo.io/blog/2022/01/20/announcing-new-migration-engine/
+
+https://github.com/davidschlachter/embedded-struct-visualizer
+
 https://www.benthos.dev/ Fancy stream processing made operationally mundane
 
 https://tutorialedge.net/golang/getting-starting-with-go-generics/

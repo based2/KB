@@ -27,6 +27,7 @@ https://opensource.com/article/18/11/choosing-printer-linux
 Openoffice
 
 # Windows
+https://www.winehq.org/
 
 https://usebottles.com/
 > https://news.ycombinator.com/item?id=29612976
@@ -34,6 +35,8 @@ https://usebottles.com/
 > > > https://github.com/ValveSoftware/Proton
 > https://lutris.net/
 > https://www.playonlinux.com
+
+https://usebottles.com/blog/release-2022.1.28/
 
 # News
 https://www.talisman.org/x-debut.shtml

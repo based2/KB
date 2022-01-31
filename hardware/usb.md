@@ -19,6 +19,12 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://www.xda-developers.com/usb-type-c-power-tools/
+> https://news.ycombinator.com/item?id=30125037
+
+https://www.theverge.com/2022/1/28/22907150/usb-c-pd-cable-power-meter-100-watt-power-delivery
+
+
 https://web.dev/porting-libusb-to-webusb/
 > https://news.ycombinator.com/item?id=30011136
 

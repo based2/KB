@@ -55,6 +55,14 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://github.com/abiosoft/colima Container runtimes on macOS (and Linux) with minimal setup
+
+https://github.com/stenh0use/docker-machine-for-mac
+> https://news.ycombinator.com/item?id=30116433
+
+https://status.docker.com/pages/533c6539221ae15e3f000031
+> https://news.ycombinator.com/item?id=30118818
+
 https://github.com/cybersecsi/RAUDI Regularly and Automatically Updated Docker Images
 > https://www.reddit.com/r/netsec/comments/rz0ybf/project_to_regularly_and_automatically_update/
 

@@ -124,6 +124,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://blogs.bl.uk/digitisedmanuscripts/2022/01/reach-for-the-stars.html
+> https://news.ycombinator.com/item?id=30081784
+
 https://destevez.net/2022/01/radiometry-for-delfi-pq-easat-2-and-hades/
 
 https://www.scmp.com/news/china/science/article/3164434/china-space-programme-plans-year-milestones-long-march-9-rocket?module=lead_hero_story&pgtype=homepage

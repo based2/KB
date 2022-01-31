@@ -82,7 +82,21 @@ https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 
 https://www.sekinoworld.com/fractal/
 
+# Calculator
+https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation display
+> https://news.ycombinator.com/item?id=30116530
+
 # News
+https://setosa.io/blog/2014/07/26/markov-chains/
+> https://news.ycombinator.com/item?id=30122011
+
+https://mattferraro.dev/posts/inverse-of-a-circle
+
+https://www.futilitycloset.com/2022/01/27/pieces-of-pi-2/
+
+https://math.ucr.edu/home/baez/topos.html
+> https://news.ycombinator.com/item?id=30112547
+
 https://terrytao.wordpress.com/2022/01/27/masterclass-on-mathematical-thinking/
 > https://news.ycombinator.com/item?id=30107687
 

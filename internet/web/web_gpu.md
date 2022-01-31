@@ -5,3 +5,5 @@ https://devlog.hexops.com/2021/mach-engine-the-future-of-graphics-with-zig
 https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576
 
 https://github.com/dmnsgn/dgel
+
+https://docs.google.com/presentation/d/1Q-RCJrZhw9nlZ5py7QxUVgKSyq61awHr2TyIjXxBmI0/edit#slide=id.p

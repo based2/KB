@@ -34,6 +34,9 @@ https://www.33700.fr/identifier-et-signaler-un-spam-sms/#comment-signaler-spam-s
 
 https://rspamd.com
 
+https://news.ycombinator.com/item?id=30117388
+> 
+
 # Security
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/
@@ -102,6 +105,11 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://news.ycombinator.com/item?id=30128198 Alternate Email hosting to G Suite
+
+https://momi.ca/posts/2020-08-28-sendxmpp.html
+> https://news.ycombinator.com/item?id=30126540
+
 https://www.rand.org/content/dam/rand/pubs/reports/2007/R3283.pdf
 
 https://news.ycombinator.com/item?id=30046840 Ask HN: Recommendations for an SMTP Sending Service

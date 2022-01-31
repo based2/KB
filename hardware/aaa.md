@@ -68,6 +68,16 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://old.reddit.com/r/Windows11/comments/sccict/amd_ftpm_causes_random_stuttering_issue/
+
+https://8051enthusiast.github.io/2021/07/05/001-EC_legacy.html
+
+https://www.collabora.com/news-and-blog/blog/2022/01/27/writing-an-open-source-gpu-driver-without-the-hardware/
+> https://news.ycombinator.com/item?id=30107002
+
+https://news.ycombinator.com/item?id=30116199 Tell HN: IBM free z/OS classes return, low-cost license available on completing
+> https://ibm.github.io/zdt-learners-edition-about/
+
 https://chipsandcheese.com/2022/01/21/deep-diving-zen-3-v-cache/
 
 https://www.centeye.com/technology/hexagonal-pixel-arrays/

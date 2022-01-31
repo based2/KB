@@ -108,7 +108,9 @@ https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization
 https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
-#
+# News
+https://cendyne.dev/posts/2022-01-23-base64.html
+
 https://davidamos.dev/why-cant-you-reverse-a-flag-emoji/
 > https://news.ycombinator.com/item?id=30104292
 

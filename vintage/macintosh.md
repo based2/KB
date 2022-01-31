@@ -65,6 +65,9 @@ http://www.macflim.com/
 https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/
 > https://news.ycombinator.com/item?id=28914208
 
+https://hypercardsimulator.com/
+> https://news.ycombinator.com/item?id=30138533
+
 # ResEdit
 https://www.macintoshrepository.org/1317-resedit-2-1-3
 

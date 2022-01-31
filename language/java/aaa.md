@@ -255,6 +255,15 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.cs.cornell.edu/Projects/polyglot/ Polyglot: Compiler Framework for Extending Java || Type Theory 101
+
+https://openjdk.java.net/jeps/8280836 JEP draft: Sequenced Collections
+> https://www.reddit.com/r/java/comments/sf8qrv/jep_draft_sequenced_collections/
+
+https://www.reddit.com/r/java/comments/scnkm2/reviewing_feedback_on_patterns_in_switch_brian/
+
+https://www.oracle.com/security-alerts/cpujan2022.html#AppendixJAVA
+
 https://github.com/openjdk/panama-foreign/pull/633 8280527: Move jdk.incubator.foreign to java.lang.foreign
 
 https://github.com/google/error-prone/releases/tag/v2.11.0 jdk11

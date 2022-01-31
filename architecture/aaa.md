@@ -123,6 +123,8 @@ https://www.polarsignals.com/blog/posts/2021/10/08/introducing-parca-we-got-fund
 
 https://granulate.io/introduction-to-continuous-profiling/
 
+https://ruoyusun.com/2022/01/28/game-pref.html
+
 # Microservice
 https://microservices.io/patterns/
 > https://news.ycombinator.com/item?id=16014278
@@ -169,6 +171,9 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/
+> https://news.ycombinator.com/item?id=30138468
+
 https://alastairreid.github.io/mrs-at-scale/
 > https://news.ycombinator.com/item?id=30083908
 

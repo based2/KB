@@ -97,6 +97,10 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://news.ycombinator.com/item?id=30125931
+
+https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf
+
 http://www.fraudsclub.com/
 
 https://github.com/bladecoder/bladecoder-adventure-engine

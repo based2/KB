@@ -59,6 +59,8 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html
+
 https://www.categoricaldata.net/index.php
 > https://news.ycombinator.com/item?id=30075577
 

@@ -39,6 +39,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/
+> https://news.ycombinator.com/item?id=30124021
+
 https://hyper-resolution.org/view.html?pointer=0.281,0.004&i=Rijksmuseum/SK-C-5/SK-C-5_VIS_5-um_2020-09-08
 > https://news.ycombinator.com/item?id=30066078
 

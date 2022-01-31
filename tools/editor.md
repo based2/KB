@@ -2,6 +2,9 @@
 ## Vim
 https://thevaluable.dev/vim-advanced/
 
+https://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.png
+
+
 https://susam.in/maze/vim-sudo-write-trick.html
 > https://news.ycombinator.com/item?id=29047694
 
@@ -40,6 +43,9 @@ https://groups.google.com/g/vim_announce/c/2XYAoPL2sqg Vim9 script feature-compl
 
 https://learnbyexample.github.io/mini/vim-prank/
 > https://news.ycombinator.com/item?id=29837543
+
+https://github.com/mhinz/vim-galore
+> https://news.ycombinator.com/item?id=30084913
 
 # Nano
 
@@ -91,6 +97,9 @@ https://github.com/susam/emfy
 https://www.masteringemacs.org/article/bad-emacs-advice
 > https://news.ycombinator.com/item?id=30008277
 
+https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/
+> https://news.ycombinator.com/item?id=30129669
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -105,6 +114,9 @@ https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-ico
 
 https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript
 > https://news.ycombinator.com/item?id=29888221
+
+https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022
+> https://news.ycombinator.com/item?id=30103421
 
 # Notes
 https://www.tatatap.com/

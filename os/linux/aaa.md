@@ -53,7 +53,7 @@ https://www.rauc.io/ Updates
 # Kernel modules
 https://www.collabora.com/news-and-blog/blog/2021/05/05/quick-hack-patching-kernel-module-using-dkms/
 
-# Elf
+# ElF
 https://github.com/ruslashev/elfcat
 > https://news.ycombinator.com/item?id=27590508
 
@@ -80,6 +80,13 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html
+
+https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/
+
+https://www.pietrorea.com/2022/01/28/reclaiming-the-lost-art-of-linux-server-administration
+> https://news.ycombinator.com/item?id=30118273
+
 https://bbenchoff.github.io/pages/LinuxDevice.html
 > https://news.ycombinator.com/item?id=30087147
 

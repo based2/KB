@@ -18,6 +18,9 @@ https://news.ycombinator.com/item?id=26913100
 https://tailscale.com/kb/1134/ipv6-faq/
 > https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq
 
+https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/
+> https://news.ycombinator.com/item?id=30126434
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

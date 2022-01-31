@@ -108,6 +108,8 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://fsharpforfunandprofit.com/posts/property-based-testing-2/
+
 https://github.com/microsoft/playwright framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit
 > https://news.ycombinator.com/item?id=30083042
 

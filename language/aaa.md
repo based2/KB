@@ -167,6 +167,9 @@ https://arxiv.org/abs/2109.07382 Toward Modern Fortran Tooling and a Thriving De
 
 https://digitalenvironment.org/exciting-recent-developments-for-fortran-coders/
 
+https://bashny.net/t/en/34007 Encyclopedia professor Fortran
+> https://news.ycombinator.com/item?id=30127523
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100
@@ -224,8 +227,12 @@ https://stopa.io/post/292 What’s the simplest Lisp interpreter I could write, 
 > https://news.ycombinator.com/item?id=30043224
 
 # News
+https://howoldisit.glitch.me/
+
+https://lowleveldesign.org/2022/01/17/com-revisited/
+> https://news.ycombinator.com/item?id=30128048
+
 https://turtlespaces.org/2020/09/04/logo-sierpinski/
->
 
 https://jkrumbiegel.com/pages/2021-06-07-macros-for-beginners/
 > https://news.ycombinator.com/item?id=30070462

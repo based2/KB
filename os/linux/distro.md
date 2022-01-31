@@ -62,6 +62,11 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://lists.archlinux.org/pipermail/arch-dev-public/2022-January/030670.html
+
+https://sylvestre.ledru.info/blog/2020/06/02/debian-rebuild-with-clang-10-some-patches
+> https://news.ycombinator.com/item?id=30129971
+
 https://www.theregister.com/2022/01/20/suse_liberty_linux/
 > https://news.ycombinator.com/item?id=30006699
 

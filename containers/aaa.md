@@ -36,6 +36,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://news.ycombinator.com/item?id=30128865 Ask HN: Which VM orchestrator do you use?
+
+https://pages.cs.wisc.edu/~swift/papers/vee20-isolation.pdf Blending Containers and Virtual Machines: A Study of Firecracker and gVisor
+> https://news.ycombinator.com/item?id=30116611
+
 https://microstack.run/ OpenStack for the edge, micro clouds and developers
 
 https://clownix.net/

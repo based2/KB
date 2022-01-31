@@ -19,6 +19,9 @@ https://news.ycombinator.com/item?id=28873542
 https://openreplay.com/
 
 # News
+http://www.tofuproxy.stargrave.org/ Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser
+> https://news.ycombinator.com/item?id=30134058
+
 https://mangadex.dev/tales-of-seven-proxies/
 > https://www.reddit.com/r/programming/comments/r5pvvg/tales_of_seven_proxies/
 > > https://news.ycombinator.com/item?id=28440742

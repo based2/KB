@@ -62,6 +62,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed
+> https://news.ycombinator.com/item?id=30136366
+
 https://blog.kubecost.com/blog/kubernetes-kops/
 
 https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/

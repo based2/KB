@@ -1,3 +1,5 @@
+https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom
+
 https://github.com/jonathandata1/2022_beijing
 > https://news.ycombinator.com/item?id=30097371
 

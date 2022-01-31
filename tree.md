@@ -25,6 +25,10 @@ https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-19%3A+Trie+memtable+im
 
 https://www.pankajtanwar.in/blog/pagination-with-cassandra-lets-deal-with-paging-large-queries-in-python
 
+https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-panes-more-fun-than-it-sounds/
+> https://news.ycombinator.com/item?id=30120901
+> > https://github.com/nomcopter/react-mosaic
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576

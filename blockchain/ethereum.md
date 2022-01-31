@@ -10,6 +10,15 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/
+> https://news.ycombinator.com/item?id=30134500
+
+https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest/
+
+https://www.theverge.com/2022/1/28/22906366/cryptocurrency-hackers-steal-qubit-binance-ethereum
+
+https://www.vice.com/en/article/epxakz/crypto-co-founder-revealed-to-be-infamous-fraudster-investors-shaken
+
 https://www.bloomberg.com/news/articles/2022-01-27/crypto-s-cloak-of-anonymity-makes-defi-a-wonderland-for-felon
 
 https://yanmaani.github.io/no-ethereum-name-service-is-still-a-clown-show/

@@ -171,6 +171,9 @@ https://babelfishpg.org/
 https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/
 > https://news.ycombinator.com/item?id=29825520
 
+https://github.com/fabianlindfors/reshape
+> 
+
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 
@@ -226,6 +229,8 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://rclayton.silvrback.com/distributed-locking-with-postgres-advisory-locks
+
 https://github.com/postgres-ai/database-lab-engine
 > https://news.ycombinator.com/item?id=30068669
 
@@ -346,3 +351,7 @@ https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791
 > https://news.ycombinator.com/item?id=26709019
 
 https://www.postgresql.org/about/news/1960/ PostgreSQL 11.5, 10.10, 9.6.15, 9.5.19, 9.4.24, and 12 Beta 3 Released! Sec Fixes
+
+https://archive.fosdem.org/2019/schedule/event/postgresql_fsync/
+> https://news.ycombinator.com/item?id=19119991
+> https://news.ycombinator.com/item?id=30131165

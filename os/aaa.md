@@ -1,7 +1,5 @@
-
-
 https://www.haiku-os.org/
-https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/
+> https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/
 
 https://genode.org/about/index
 
@@ -16,6 +14,8 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://vldb.org/pvldb/vol15/p21-skiadopoulos.pdf DBOS: A DBMS-oriented Operating System
+
 https://pdos.csail.mit.edu/6.S081/2021/schedule.html
 > https://news.ycombinator.com/item?id=30094376
 

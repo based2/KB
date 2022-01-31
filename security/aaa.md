@@ -28,6 +28,8 @@ https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
 
 https://hardenedvault.net/2021/07/16/ciso-seceng_csme.html
 
+https://en.wikipedia.org/wiki/Trust_on_first_use
+
 # Identity
 https://thenewstack.io/did-you-hear-decentralized-identifiers-are-coming/
 > https://www.w3.org/TR/did-core/

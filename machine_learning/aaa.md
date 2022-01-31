@@ -247,6 +247,19 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://queue.acm.org/detail.cfm?id=3511543 Steampunk Machine Learning
+
+https://arxiv.org/abs/2201.04600 Deep Symbolic Regression for Recurrent Sequences
+> http://recur-env.eba-rm3fchmn.us-east-2.elasticbeanstalk.com/
+> > https://news.ycombinator.com/item?id=30141171
+
+https://www.nature.com/articles/s41586-021-04223-6 Deep physical neural networks trained with backpropagation
+> https://news.ycombinator.com/item?id=30127289
+
+https://alexandrethm.github.io/assets/pdf/rl-cheatsheet.pdf Reinforcement Learning Cheat Sheet
+
+https://probablymarcus.com/blocks/2022/01/28/why-we-perturb-neural-networks.html
+
 https://openai.com/blog/introducing-text-and-code-embeddings/
 
 https://openai.com/blog/instruction-following/

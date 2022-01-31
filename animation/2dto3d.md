@@ -21,3 +21,5 @@ https://www.k-lens-one.com/en/home zeiss
 
 https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/
 > https://news.ycombinator.com/item?id=29845687
+
+https://svox.glitch.me/ Transform cubes (voxels) into 3D models

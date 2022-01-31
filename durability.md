@@ -19,6 +19,12 @@ https://frame.work/
 
 https://puri.sm/posts/beyond-right-to-repair/
 
+https://www.checkbook.org/national/right-to-repair/
+> https://news.ycombinator.com/item?id=30121476
+
+https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/
+> https://news.ycombinator.com/item?id=30134790
+
 #
 https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i
 > https://news.ycombinator.com/item?id=27576120
@@ -37,6 +43,9 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 > https://news.ycombinator.com/item?id=28018057
 
 # News
+https://www.nrel.gov/news/program/2022/plant-based-epoxy-enables-recyclable-carbon-fiber-improves-economics-for-mass-market-electric-vehicles.html
+> https://news.ycombinator.com/item?id=30130274
+
 https://www.vice.com/en/article/xgdazj/john-deere-hit-with-class-action-lawsuit-for-alleged-tractor-repair-monopoly
 > https://news.ycombinator.com/item?id=29941099
 

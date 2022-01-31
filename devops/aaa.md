@@ -104,6 +104,14 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://news.ycombinator.com/item?id=30109187
+
+https://blog.forcesunseen.com/stop-storing-secrets-in-environment-variables
+> https://www.reddit.com/r/netsec/comments/sevepr/stop_storing_secrets_in_environment_variables/
+
+https://news.ycombinator.com/item?id=30114856 Ask HN: Does your team use feature flags?
+> https://news.ycombinator.com/item?id=30114856
+
 https://www.actionsbyexample.com/
 > https://news.ycombinator.com/item?id=30060765
 

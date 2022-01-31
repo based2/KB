@@ -29,6 +29,12 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/
+> https://news.ycombinator.com/item?id=30128379
+
+https://www.vice.com/en/article/y3vbjj/pirates-spammed-an-infamous-soviet-short-wave-radio-station-with-memes-uvb-76
+> https://news.ycombinator.com/item?id=30097894
+
 https://www.titech.ac.jp/english/news/2022/062916 Just Listen to the Chaos: A New Approach to Extracting Information from Large Ensembles of Sensors
 > https://news.ycombinator.com/item?id=30056228
 

@@ -228,6 +228,18 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://datascienceatthecommandline.com/2e/
+> https://news.ycombinator.com/item?id=30115066
+
+https://www.python-graph-gallery.com/
+> https://news.ycombinator.com/item?id=30108316
+> https://news.ycombinator.com/item?id=15481578
+
+https://blog.acolyer.org/2020/12/14/entity-resolution/
+
+https://github.com/ververica/flink-cdc-connectors
+> https://news.ycombinator.com/item?id=30097999
+
 https://users.aalto.fi/~ave/ROS.pdf stat regression
 
 https://probability4datascience.com/

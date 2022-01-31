@@ -62,3 +62,7 @@ https://danluu.com/in-house/
 
 https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/
 > https://news.ycombinator.com/item?id=29220338
+
+https://muratbuffalo.blogspot.com/2022/01/decoupled-transactions-low-tail-latency.html
+
+https://engineering.salesforce.com/managing-availability-in-service-based-deployments-with-continuous-testing-61be968da4a

@@ -39,6 +39,8 @@ https://blog.klipse.tech/book/2021/12/19/100-things-I-learned-with-data-oriented
 
 https://tarlton.law.utexas.edu/bluebook-legal-citation/intro-signals
 
+https://hudsonreview.com/2022/01/on-writing-an-abecedarian/#.YfHUbPvMJHV
+
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?
 

@@ -104,6 +104,8 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+http://novaframework.org/
+
 https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3
 > https://news.ycombinator.com/item?id=29889535
 

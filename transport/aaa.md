@@ -21,3 +21,6 @@ https://medium.com/@tkdynation/will-citroen-manage-to-reinvent-the-wheel-b74a07c
 https://cleantechnica.com/2021/12/30/hydrogen-scooters-with-swappable-cans-power-forward-in-france/
 
 http://rescuesheet.info/index.html
+
+https://www.motor1.com/news/563664/new-omega-combustion-engine-design/
+> https://news.ycombinator.com/item?id=30136835

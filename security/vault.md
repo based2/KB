@@ -1,5 +1,7 @@
 https://www.vaultproject.io/
 
+https://piotrminkowski.com/2021/12/30/vault-on-kubernetes-with-spring-cloud/
+
 https://docs.cyberark.com/Product-Doc/OnlineHelp/PAS/Latest/en/Content/PASIMP/Creating-a-Vault.htm?TocPath=Administration%7CPrivileged%20Accounts%7CAccess%20Control%7C_____1
 
 https://oteemo.com/2019/06/20/hashicorp-vault-is-overhyped-and-mozilla-sops-with-kms-and-git-is-massively-underrated/

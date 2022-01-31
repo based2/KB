@@ -251,6 +251,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://www.schoenitzer.de/blog/2021/Shorter%20Hacks%201%20Git%20dash.html cd -
+
 https://github.blog/2022-01-24-highlights-from-git-2-35/
 > https://news.ycombinator.com/item?id=30068776
 

@@ -182,6 +182,13 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://fs.blog/dave-packards-11-simple-rules/
+
+https://leeorengel.com/prioritization-multiple-work-streams-unplanned-work-oh-my/
+> https://news.ycombinator.com/item?id=30120731
+
+https://jmmv.dev/2022/01/oncall-scheduling.html
+
 https://news.ycombinator.com/item?id=30074949
 
 https://skamille.medium.com/structural-lessons-in-engineering-management-f32b5ffaa1aa

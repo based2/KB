@@ -56,9 +56,17 @@ https://eisel.me/devtool-allocators
 https://www.cdfinder.de/guide/blog/apple_hell.html
 > https://news.ycombinator.com/item?id=26993857
 
+https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes#Python
+> https://news.ycombinator.com/item?id=30115214
+
+https://developer.apple.com/support/unlisted-app-distribution/
+
 # M1
 https://eclecticlight.co/2022/01/03/power-frequency-management-how-m1-e-cores-win/
 > https://news.ycombinator.com/item?id=29778990
+
+https://rosenzweig.io/blog/asahi-gpu-part-2.html
+> https://news.ycombinator.com/item?id=25873887
 
 https://eclecticlight.co/2021/12/29/how-secure-boot-works-on-m1-series-macs/
 
@@ -140,6 +148,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://www.macrumors.com/2022/01/30/macos-12-2-bluetooth-battery-drain/
+
 https://nova.app/
 > https://news.ycombinator.com/item?id=30066298
 

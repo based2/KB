@@ -32,6 +32,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/
+> https://news.ycombinator.com/item?id=30099225
+
 https://pypi.org/project/pyFileFixity/ Protect and manage data for long term storage
 
 https://forum.acronis.com/forum/topic/reflecting-post-ati-world

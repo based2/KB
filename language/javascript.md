@@ -156,6 +156,8 @@ https://blog.molecule.dev/the-only-custom-react-hooks-we-use/
 
 https://github.com/webeetle/react-headless-hooks
 
+https://recoiljs.org/
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -206,7 +208,9 @@ https://svelte-cubed.vercel.app/
 > https://news.ycombinator.com/item?id=29310150
 
 https://nathanfaucett.github.io/svelte-slate/
-> 
+
+https://github.com/rgossiaux/svelte-headlessui
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296
@@ -338,7 +342,19 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 
 # Dynamic.js libjs
 
-# 
+# News
+https://jackpordi.com/posts/locks-in-js-because-why-not
+> https://www.reddit.com/r/programming/comments/sfjgm8/locks_in_js_because_why_not/
+
+https://nolanlawson.com/2022/01/05/memory-leaks-the-forgotten-side-of-web-performance/
+> https://github.com/nolanlawson/fuite/ CLI tool for finding memory leaks in web apps
+
+https://2ality.com/2022/01/pipe-operator.html
+> https://news.ycombinator.com/item?id=30124754
+
+https://github.com/dzautner/Sel Symbolically Expressed Lambdas
+> https://www.reddit.com/r/programming/comments/se3ze0/sel_symbolically_expressed_lambdas/
+
 https://github.com/hotwired/turbo
 > https://news.ycombinator.com/item?id=30076361
 

@@ -1,3 +1,9 @@
+https://lwn.net/Articles/881431/ Brian Kernighan on the origins of Unix
+> https://news.ycombinator.com/item?id=30109955
+
+https://www.bell-labs.com/usr/dmr/www/ Dennis M. Ritchie
+> https://news.ycombinator.com/item?id=30124569
+
 https://cyber.dabamos.de/unix/x11/ tools
 > https://news.ycombinator.com/item?id=29681507
 

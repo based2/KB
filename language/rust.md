@@ -293,6 +293,10 @@ https://github.com/dtolnay/semver-trick
 
 https://github.com/EmbarkStudios/cargo-deny
 
+https://lucumr.pocoo.org/2022/1/30/unsafe-rust/ Uninitialized Memory: Unsafe Rust is Too Hard, addr_of_mut!
+> https://news.ycombinator.com/item?id=30135758
+> https://lobste.rs/s/bkjsde/uninitialized_memory_unsafe_rust_is_too
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -326,6 +330,25 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://blog.nindalf.com/posts/rust-stdlib/ Rust has a small standard library (and that's ok)
+
+https://www.perceptivebits.com/interrupted-by-embedded-rust/
+> https://news.ycombinator.com/item?id=30126828
+
+https://eli.thegreenplace.net/2022/rust-extension-traits-greppability-and-ides/
+> https://news.ycombinator.com/item?id=30126839
+
+https://carlkcarlk.github.io/shortestpaper/
+> https://news.ycombinator.com/item?id=30126602
+
+https://sylvestre.ledru.info/blog/2022/01/29/an-update-on-rust-coreutils
+> https://news.ycombinator.com/item?id=30125970
+
+https://blog.dend.ro/self-modifying-rust/
+
+https://github.com/rhaiscript/rhai
+> https://lobste.rs/s/bjtogk/rhai_embedded_scripting_for_rust
+
 https://cantortrading.fi/rust_decimal_str/
 > https://news.ycombinator.com/item?id=30101163
 

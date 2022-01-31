@@ -41,11 +41,17 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Jurisdictional
 * Alibaba - China
 * AWS - USA (us-east1-1 KMS, usGov, secret zone), China
+  * https://www.reddit.com/r/devops/comments/sb3ujr/zombie_exception_in_aws_a_little_humor_for_a_long/
 * Azure - USA, China (https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/spending-limit), Russia(https://docs.microsoft.com/en-us/compliance/regulatory/offering-russia-data-localization)
+* Google
 * IBM
 * Oracle
 
 # News
+https://news.ycombinator.com/item?id=30138034
+
+https://github.com/Datadog/stratus-red-team/ "Stratus Red Team": open-source adversary emulation for AWS
+
 https://github.com/mdlayher/vsock Linux VM sockets (AF_VSOCK) for communication between a hypervisor and its virtual machines. MIT Licensed.
 
 https://opensource.optum.com/blog/2021/10/21/s3-to-azure-copy

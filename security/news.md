@@ -1,3 +1,74 @@
+https://community.atlassian.com/t5/Trust-Security-articles/Icarus-Labs-research-diary-Hiding-malware-in-Docker-Desktop-s/ba-p/1924749
+
+https://github.com/Idov31/FunctionStomping
+> https://news.ycombinator.com/item?id=30135190
+
+https://www.bleepingcomputer.com/news/microsoft/windows-vulnerability-with-new-public-exploits-lets-you-become-admin/
+
+https://www.theregister.com/2022/01/27/dod_sharepoint_apple_white_house/
+
+https://www.theregister.com/2022/01/28/iso_down/
+
+https://www.rmcybernetics.com/general/zhengbang-zb3245tss-pick-place-machine
+> https://www.reddit.com/r/netsec/comments/scl7xq/we_purchased_a_machine_from_china_and_it_came/
+
+https://tomforb.es/cve-2022-0329-and-the-problems-with-automated-vulnerability-management/
+> https://github.com/Delgan/loguru/issues/563 Patch Arbitrary Code Execution
+> > https://news.ycombinator.com/item?id=30128872
+> https://www.reddit.com/r/netsec/comments/sfzphz/cve20220329_and_the_problems_with_automated/
+
+https://www.information-age.com/un-launches-privacy-lab-pilot-to-unlock-cross-border-data-sharing-benefits-123498572/
+> https://www.openmined.org/
+> > https://www.oblivious.ai/
+> > > https://www.siliconrepublic.com/start-ups/oblivious-ai-seed-round
+> > > https://www.siliconrepublic.com/enterprise/un-privacy-pet-lab-data-sharing-oblivious-software
+> https://www.economist.com/science-and-technology/the-un-is-testing-technology-that-processes-data-confidentially/21807385
+> > https://en.wikipedia.org/wiki/Privacy-enhancing_technologies
+> > > https://www.enisa.europa.eu/publications/data-pseudonymisation-advanced-techniques-and-use-cases 
+
+https://developers.googleblog.com/2022/01/expanding-access-to-differential-privacy.html
+
+https://readme.security/how-i-hacked-my-way-to-the-top-of-darpas-hardware-bug-bounty-b66ec53b1973
+
+https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32
+> https://news.ycombinator.com/item?id=30137125
+
+https://infosec.cert-pa.it/cve-2021-4160.html openssl mips https://en.wikipedia.org/wiki/MIPS_architecture
+
+https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
+
+https://www.blackarrow.net/adcs-weaponizing-esc7-attack/
+
+https://rhinosecuritylabs.com/network-security/bypassing-little-snitch-firewall/
+
+https://perception-point.io/technical-analysis-of-cve-2022-22583-bypassing-macos-system-integrity-protection/
+
+https://www.zdnet.com/article/decryptor-released-for-deadbolt-ransomware-affecting-qnap-nas-devices/
+
+https://alas.aws.amazon.com/cve/html/CVE-2021-44790.html Amazon Linux
+> https://access.redhat.com/security/cve/CVE-2021-44790
+
+https://www.guardicore.com/labs/fritzfrog-a-new-generation-of-peer-to-peer-botnets/
+> https://news.ycombinator.com/item?id=24217592
+
+https://www.bleepingcomputer.com/news/security/linux-kernel-bug-can-let-hackers-escape-kubernetes-containers/
+> https://blog.accuknox.com/how-to-protect-from-cve-2022-0185-using-accuknox-opensource-tools/
+> https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
+
+https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-windows-update-to-deploy-malware/
+
+https://www.bleepingcomputer.com/news/security/eu-to-create-pan-european-cyber-incident-coordination-framework/
+> https://www.esrb.europa.eu/home/html/index.en.html
+
+https://www.sentinelone.com/labs/hacktivism-and-state-sponsored-knock-offs-attributing-deceptive-hack-and-leak-operations/
+> https://news.ycombinator.com/item?id=30114344
+
+https://arstechnica.com/information-technology/2022/01/2fa-app-with-10000-google-play-downloads-loaded-well-known-banking-trojan/
+> https://news.ycombinator.com/item?id=30115132
+
+https://isc.sans.edu/diary/Over+20+thousand+servers+have+their+iLO+interfaces+exposed+to+the+internet%2C+many+with+outdated+and+vulnerable+versions+of+FW/28276
+> https://news.ycombinator.com/item?id=30118494
+
 https://www.franzoni.eu/ransomware-resistant-backups/
 > https://news.ycombinator.com/item?id=30105538
 
@@ -549,6 +620,9 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://www.theguardian.com/news/2022/jan/13/pegasus-spyware-target-journalists-activists-el-salvador
 > https://twitter.com/bagder/status/1484672924036616195 why not just email OSS authors you never paid anything and demand a response for free within 24 hours with lots of info?
 > > https://news.ycombinator.com/item?id=30035651
+> https://um.fi/current-affairs/-/asset_publisher/gc654PySnjTX/content/ulkoministerio-on-saanut-selvitettya-siihen-kohdistuneen-vakoilutapauksen
+> https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/
+> > https://news.ycombinator.com/item?id=30130251
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/
@@ -882,6 +956,8 @@ https://trojansource.codes/ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2
 > https://tech.michaelaltfield.net/2021/11/22/bidi-unicode-github-defense/
 > https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
 > > https://news.ycombinator.com/item?id=29568625
+> https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html
+> > https://news.ycombinator.com/item?id=30120302
 
 https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
 
@@ -1837,6 +1913,11 @@ https://vuls.cert.org/confluence/display/Wiki/Finding+Privilege+Escalation+Vulne
 https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 > https://news.ycombinator.com/item?id=27462247
 > https://www.bleepingcomputer.com/news/security/linux-system-service-bug-lets-you-get-root-on-most-modern-distros/
+> https://lwn.net/SubscriberLink/882799/7523e0f3744660ec/ Handling argc==0 in the kernel
+> https://github.com/jfrog/polkit-tools/tree/main/pwnkit_detector
+> > https://www.reddit.com/r/netsec/comments/se3k50/oss_pwnkit_detector_cve20214034/
+> https://arstechnica.com/information-technology/2022/01/a-bug-lurking-for-12-years-gives-attackers-root-on-every-major-linux-distro/
+> > https://www.reddit.com/r/programming/comments/sd7xg9/a_bug_lurking_for_12_years_gives_attackers_root/
 
 https://www.vusec.net/projects/fpvi-scsb/
 

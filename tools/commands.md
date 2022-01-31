@@ -36,6 +36,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html
+> https://news.ycombinator.com/item?id=30134367
+
 https://seb.jambor.dev/posts/performance-optimizations-for-the-shell-prompt/
 
 https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/

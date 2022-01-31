@@ -1,3 +1,6 @@
+https://www.cve.org/
+> https://github.com/CVEProject/cve-schema/blob/master/schema/v5.0/CVE_JSON_5.0_schema.json
+
 # References
 https://nvd.nist.gov/vuln
 
@@ -195,6 +198,8 @@ https://en.wikipedia.org/wiki/ILOVEYOU Windows VB
 
 ## 1999
 https://www.linux.gr/DeCSS/decss.html
+
+https://en.wikipedia.org/wiki/NSAKEY
 
 ## 1995
 Roos RC4

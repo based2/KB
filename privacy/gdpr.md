@@ -56,6 +56,11 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=30138669
+
+https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/ GDPR penalty for passing on of IP address to Google by using Google Fonts
+> https://news.ycombinator.com/item?id=30135264
+
 https://noyb.eu/sites/default/files/2022-01/Case%202020-1013%20-%20EDPS%20Decision_bk.pdf
 
 https://www.theregister.com/2022/01/13/google_analytics_gdpr/

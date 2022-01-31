@@ -103,6 +103,8 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://news.ycombinator.com/item?id=30120927 Manga
+
 https://libretexts.org/
 > https://news.ycombinator.com/item?id=29967012
 
