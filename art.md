@@ -39,6 +39,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://github.com/scrtwpns/pigment-mixing
+> https://news.ycombinator.com/item?id=30116316
+
 https://www.getty.edu/news/the-hidden-engineering-protecting-getty-art-from-earthquakes/
 > https://news.ycombinator.com/item?id=30124021
 

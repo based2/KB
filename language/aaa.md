@@ -227,6 +227,8 @@ https://stopa.io/post/292 What’s the simplest Lisp interpreter I could write, 
 > https://news.ycombinator.com/item?id=30043224
 
 # News
+https://www.compuphase.com/pawn/pawn.htm
+
 https://howoldisit.glitch.me/
 
 https://lowleveldesign.org/2022/01/17/com-revisited/

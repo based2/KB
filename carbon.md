@@ -55,6 +55,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.lemonde.fr/economie/article/2022/01/31/energies-renouvelables-la-france-seul-pays-de-l-union-europeenne-a-avoir-manque-ses-objectifs_6111689_3234.html
+
 https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta
 > https://news.ycombinator.com/item?id=30040065
 

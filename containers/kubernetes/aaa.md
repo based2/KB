@@ -62,6 +62,10 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://ubuntu.com/blog/smart-agile-mlops-on-any-cloud-canonical-releases-charmed-kubeflow-1-4
+
+https://www.telepresence.io/docs/v1/discussion/how-it-works/
+
 https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed
 > https://news.ycombinator.com/item?id=30136366
 

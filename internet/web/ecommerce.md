@@ -24,3 +24,6 @@ https://nltimes.nl/2022/01/15/apple-gives-dutch-demands-will-allow-dating-apps-u
 
 https://www.engadget.com/paypal-lawsuit-freezing-customer-accounts-funds-073128563.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAH1ss7QASBgS6UBebjbfI7gTLA4z-vwq6Gx7nGV9Sn_KtPRrI3D-oo87QD0QrMIBTgbpafya_t5KTz3eoU4V51aLEmwCG8T9huMIu9fCVsL9jqXW98fpqRQrrXCgciBJSegkeLWAiL3n3YkuFbDq-HJ4khgCFbqo7NRmwZrPot_f
 > https://news.ycombinator.com/item?id=29933481
+
+https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit#gid=36139462 Show HN: I've built a list of 300 e-commerce conversion checkpoints
+> https://news.ycombinator.com/item?id=30148557

@@ -1,3 +1,8 @@
+https://voidstarsec.com/blog//2022/01/27/uart-uboot-and-usb
+
+https://itnext.io/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f
+> https://www.reddit.com/r/programming/comments/sgtaj7/how_i_reversed_a_nodejs_malware_and_found_the/
+
 https://spaceraccoon.dev/applying-offensive-reverse-engineering-to-facebook-gameroom
 
 https://github.com/jonathandata1/2022_beijing

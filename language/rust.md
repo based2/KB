@@ -330,6 +330,13 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://thephilbert.io/2022/01/31/gcc-rust-monthly-report-13-january-2021/
+
+https://blog.rust-lang.org/2022/01/31/changes-in-the-core-team.html
+
+https://smallcultfollowing.com/babysteps//blog/2022/01/27/panics-vs-cancellation-part-1/
+> https://news.ycombinator.com/item?id=30114822
+
 https://blog.nindalf.com/posts/rust-stdlib/ Rust has a small standard library (and that's ok)
 
 https://www.perceptivebits.com/interrupted-by-embedded-rust/

@@ -69,6 +69,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://aws.amazon.com/fr/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/
+
 https://www.theregister.com/2021/12/22/aws_outage/ US-EAST-1
 > https://www.infoq.com/news/2021/12/aws-outage-postmortem/
 > > https://news.ycombinator.com/item?id=29688878

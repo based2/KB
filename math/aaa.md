@@ -87,10 +87,20 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+https://gitgud.io/unconed/mathbox
+> https://acko.net/files/gltalks/pixelfactory/online.html#0
+> > https://github.com/unconed/shadergraph
+
+https://hailstone-n.vercel.app/ Collatz conjecture
+
+https://mathoverflow.net/questions/23478/examples-of-common-false-beliefs-in-mathematics
+> https://news.ycombinator.com/item?id=30144805
+
 https://setosa.io/blog/2014/07/26/markov-chains/
 > https://news.ycombinator.com/item?id=30122011
 
 https://mattferraro.dev/posts/inverse-of-a-circle
+> https://news.ycombinator.com/item?id=30131926
 
 https://www.futilitycloset.com/2022/01/27/pieces-of-pi-2/
 

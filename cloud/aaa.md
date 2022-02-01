@@ -48,6 +48,10 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 * Oracle
 
 # News
+https://www.networkworld.com/article/3648352/top-10-outages-of-2021.html
+
+https://news.ycombinator.com/item?id=30148806
+
 https://news.ycombinator.com/item?id=30138034
 
 https://github.com/Datadog/stratus-red-team/ "Stratus Red Team": open-source adversary emulation for AWS

@@ -1,3 +1,10 @@
+https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows
+
+https://blog.sonarsource.com/10-unknown-security-pitfalls-for-python
+
+https://twitter.com/isislovecruft/status/1487947074901463040 My dishwasher won’t start until I let it update its firmware over the WiFi (Miele)
+> https://news.ycombinator.com/item?id=30147379
+
 https://community.atlassian.com/t5/Trust-Security-articles/Icarus-Labs-research-diary-Hiding-malware-in-Docker-Desktop-s/ba-p/1924749
 
 https://github.com/Idov31/FunctionStomping
@@ -32,6 +39,7 @@ https://readme.security/how-i-hacked-my-way-to-the-top-of-darpas-hardware-bug-bo
 
 https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32
 > https://news.ycombinator.com/item?id=30137125
+> https://news.ycombinator.com/item?id=30144021
 
 https://infosec.cert-pa.it/cve-2021-4160.html openssl mips https://en.wikipedia.org/wiki/MIPS_architecture
 
@@ -623,6 +631,8 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://um.fi/current-affairs/-/asset_publisher/gc654PySnjTX/content/ulkoministerio-on-saanut-selvitettya-siihen-kohdistuneen-vakoilutapauksen
 > https://www.washingtonpost.com/technology/2021/07/19/apple-iphone-nso/
 > > https://news.ycombinator.com/item?id=30130251
+> https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/
+> > https://news.ycombinator.com/item?id=30146042
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

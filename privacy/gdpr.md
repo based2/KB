@@ -56,6 +56,10 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/
+
+https://iapp.org/news/a/why-this-french-court-decision-has-far-reaching-consequences-for-many-businesses/
+
 https://news.ycombinator.com/item?id=30138669
 
 https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/ GDPR penalty for passing on of IP address to Google by using Google Fonts

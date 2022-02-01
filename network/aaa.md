@@ -95,6 +95,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://alexanderell.is/posts/toy-traceroute/
+>
+
 https://apenwarr.ca/log/20170814 Things we (finally) know about network queues
 > https://news.ycombinator.com/item?id=30117637
 

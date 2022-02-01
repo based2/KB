@@ -116,8 +116,3 @@ application:
         alternative_services:
     optional:
       service:
-  
-
-  
-  
-  

@@ -228,6 +228,10 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://community.jmp.com/t5/JMP-Blog/Use-JMP-to-find-patterns-and-anomalies-in-data/ba-p/443774
+
+https://clickhouse.com/blog/en/2022/clickhouse-v22.1-released/
+
 https://datascienceatthecommandline.com/2e/
 > https://news.ycombinator.com/item?id=30115066
 

@@ -39,5 +39,7 @@ https://github.com/imgproxy/imgproxy
 https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-again/
 > https://news.ycombinator.com/item?id=30140871
 
+https://engineering.q42.nl/optimizing-full-screen-images/
+
 # Photography
 https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/

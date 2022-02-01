@@ -25,3 +25,6 @@ https://panwriter.com/
 
 https://github.com/charmbracelet/glow go, cli
 > https://github.com/charmbracelet/glamour
+
+https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server
+> https://news.ycombinator.com/item?id=30145237 not in v2

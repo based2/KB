@@ -22,6 +22,10 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://rakgarg.substack.com/p/servicethen-servicenow-servicetomorrow
+
+https://github.com/liamg/peridot Developer machine management for Linux/OSX. Think Terraform for your dotfiles.
+
 https://blog.min.io/pulumi-and-minio-making-multi-cloud-magic/
 
 https://github.com/khuedoan/homelab

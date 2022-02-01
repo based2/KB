@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://decrypt.co/91510/looksrare-has-reportedly-generated-8b-ethereum-nft-wash-trading
+
 https://www.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/
 > https://news.ycombinator.com/item?id=30134500
 

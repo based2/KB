@@ -18,6 +18,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://cloud.google.com/blog/products/devops-sre/google-cloud-deploy-now-ga
+
 https://cloud.google.com/solutions/federal-government/defense
 > https://news.ycombinator.com/item?id=29167284
  

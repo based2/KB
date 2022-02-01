@@ -125,6 +125,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://community.notepad-plus-plus.org/topic/22438/notepad-v8-2-2-release-candidate
+
 https://github.com/JetBrains/JetBrainsMono
 > https://news.ycombinator.com/item?id=30009287
 

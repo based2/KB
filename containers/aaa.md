@@ -36,6 +36,12 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://blog.openresty.com/en/ylang-intro-part4/
+> https://news.ycombinator.com/item?id=30143587
+
+https://github.com/firecracker-microvm/firecracker/releases/tag/v1.0.0
+> https://news.ycombinator.com/item?id=30147652
+
 https://news.ycombinator.com/item?id=30128865 Ask HN: Which VM orchestrator do you use?
 
 https://pages.cs.wisc.edu/~swift/papers/vee20-isolation.pdf Blending Containers and Virtual Machines: A Study of Firecracker and gVisor

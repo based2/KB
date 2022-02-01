@@ -80,6 +80,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://lwn.net/Articles/879724/ Zero-copy network transmission with io_uring
+> https://news.ycombinator.com/item?id=30144652
+
 https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html
 
 https://www.jlekstrand.net/jason/blog/2022/01/in-defense-of-nir/

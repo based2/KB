@@ -35,3 +35,6 @@ https://medium.com/helidon/soap-with-helidon-51bb2dc3189e
 # Dublin core
 https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-dirty-little-secret/
 > https://news.ycombinator.com/item?id=28710081
+ 
+#
+https://blog.hartwork.org/posts/expat-2-4-4-released/ sec

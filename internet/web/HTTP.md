@@ -102,6 +102,8 @@ https://blog.webb.page/2021-05-15-secure-handshake-and-caddy.txt
 
 https://portswigger.net/research/http2
 
+https://blog.px.dev/ebpf-http2-tracing/
+
 # HTTP/3
 https://blog.cloudflare.com/http3-the-past-present-and-future/
 
@@ -121,6 +123,11 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://evertpot.com/get-request-bodies/
+> https://evertpot.com/get-request-bodies/
+> > https://www.ietf.org/id/draft-ietf-httpbis-safe-method-w-body-02.html
+> https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-safe-method-w-body-02
+
 https://nginx.org/en/CHANGES
 
 https://twitter.com/antonmedv/status/1474838597991813127

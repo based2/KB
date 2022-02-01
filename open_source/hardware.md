@@ -113,6 +113,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://arstechnica.com/gadgets/2022/01/review-mnt-reform-laptop-has-fully-open-hardware-and-software-for-better-or-worse/
+> https://news.ycombinator.com/item?id=30147547
+
 https://frame.work/de/de/blog/open-sourcing-our-firmware
 > https://news.ycombinator.com/item?id=30027117
 

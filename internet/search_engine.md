@@ -60,6 +60,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://news.ycombinator.com/item?id=30149099
+
 https://blog.vespa.ai/billion-scale-knn-part-two/
 
 https://zyppy.com/blog/google-title-rewrite-study/

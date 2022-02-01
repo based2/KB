@@ -101,6 +101,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/
+> https://news.ycombinator.com/item?id=30142247
+
 https://www.reddit.com/r/crypto/comments/sdw4cq/the_controversy_surrounding_hybrid_cryptography/
 
 https://blog.cr.yp.to/20220129-plagiarism.html

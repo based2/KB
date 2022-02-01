@@ -3,5 +3,7 @@ https://www.economist.com/business/2022/01/29/what-if-all-workers-wrote-software
 
 https://en.wikipedia.org/wiki/HyperCard 
 
-
 https://flowforge.com/blog/flowforge-01-released/
+
+https://github.com/Bycelium/PyFlow
+> https://news.ycombinator.com/item?id=30150018

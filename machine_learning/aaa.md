@@ -247,6 +247,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://benanne.github.io/2022/01/31/diffusion.html
+
+https://www.oreilly.com/radar/what-is-causal-inference/
+
+https://news.cornell.edu/stories/2022/01/physical-systems-perform-machine-learning-computations
+
+https://mikaelronstrom.blogspot.com/2022/01/rondb-receives-arm64-support-and-large.html
+
 https://queue.acm.org/detail.cfm?id=3511543 Steampunk Machine Learning
 
 https://arxiv.org/abs/2201.04600 Deep Symbolic Regression for Recurrent Sequences

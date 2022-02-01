@@ -343,6 +343,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://v8.dev/blog/v8-release-99
+
 https://jackpordi.com/posts/locks-in-js-because-why-not
 > https://www.reddit.com/r/programming/comments/sfjgm8/locks_in_js_because_why_not/
 

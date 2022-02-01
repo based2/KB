@@ -19,6 +19,8 @@ https://news.ycombinator.com/item?id=28873542
 https://openreplay.com/
 
 # News
+https://github.com/traefik/traefik/releases/tag/v2.6.0
+
 http://www.tofuproxy.stargrave.org/ Web proxy, TLS terminator, X.509 TOFU manager, WARC/gemini browser
 > https://news.ycombinator.com/item?id=30134058
 

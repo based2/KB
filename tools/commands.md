@@ -36,6 +36,8 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://monkey.org/~marius/unix-tools-hints.html
+
 https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html
 > https://news.ycombinator.com/item?id=30134367
 

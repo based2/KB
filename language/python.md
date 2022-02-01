@@ -195,6 +195,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://www.willmcgugan.com/blog/tech/post/textual-for-windows/
+> https://news.ycombinator.com/item?id=30147213
+
 https://pypi.org/project/black/ formatter
 > https://news.ycombinator.com/item?id=30130315
 

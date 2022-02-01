@@ -15,6 +15,9 @@ https://observablehq.com/@tomlarkworthy/sign-a-pdf
 > https://news.ycombinator.com/item?id=27344069
 
 #
+https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/
+> https://news.ycombinator.com/item?id=30137127
+
 https://github.com/pdf-ist/paper
 > https://news.ycombinator.com/item?id=29441265
 

@@ -13,10 +13,8 @@ https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate
 #
 https://github.com/steeve/france.code-civil
 
-
 https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argument-1-five.html
 > https://news.ycombinator.com/item?id=26952429
-
 
 # US
 https://ffii.org/unified-patent-court-is-100x-more-expensive-and-an-sme-killer-europe-is-commiting-an-economic-suicide/
@@ -39,8 +37,10 @@ https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-a
 > https://news.ycombinator.com/item?id=29366621
 
 # News
+https://magistrate.khanna.law/
+> https://news.ycombinator.com/item?id=30149370
+
 https://writing.kemitchell.com/2022/01/22/Fast-Path-1.0.0.html USA
->
 
 https://www.wsj.com/articles/senate-panel-approves-antitrust-bill-restricting-big-tech-platforms-11642701487
 > https://news.ycombinator.com/item?id=30012965

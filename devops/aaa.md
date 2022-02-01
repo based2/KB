@@ -104,10 +104,23 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://brooker.co.za/blog/2022/01/31/deployments.html
+
+https://simonwillison.net/2022/Jan/31/release-notes/
+
+https://itnext.io/spice-up-your-infrastructure-as-code-with-tacos-1a9c179e0783
+> https://github.com/spacelift-io/spacectl
+> https://www.reddit.com/r/Terraform/comments/sgf59w/tacos_providers/
+
+https://thenewstack.io/automated-sbom-generation-with-paketo-buildpacks/
+
+https://github.blog/2022-01-31-dependency-graph-now-supports-github-actions/
+
 https://news.ycombinator.com/item?id=30109187
 
 https://blog.forcesunseen.com/stop-storing-secrets-in-environment-variables
 > https://www.reddit.com/r/netsec/comments/sevepr/stop_storing_secrets_in_environment_variables/
+> > https://blog.sebastian-daschner.com/entries/changing_env_java
 
 https://news.ycombinator.com/item?id=30114856 Ask HN: Does your team use feature flags?
 > https://news.ycombinator.com/item?id=30114856

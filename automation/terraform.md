@@ -40,6 +40,9 @@ https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terr
 https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 
 # News
+https://brendanthompson.com/posts/2022/01/how-to-use-terraform-remote-backends
+> https://www.scalr.com/
+
 https://atlasgo.io/
 > https://news.ycombinator.com/item?id=30020288
 

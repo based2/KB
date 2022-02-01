@@ -21,3 +21,5 @@ https://jorgecarleitao.medium.com/how-to-efficiently-load-data-to-memory-d65ee35
 
 https://daniel.haxx.se/blog/2017/04/22/fewer-mallocs-in-curl/
 > https://news.ycombinator.com/item?id=30085113
+
+https://stackoverflow.com/questions/8469427/how-and-when-to-align-to-cache-line-size

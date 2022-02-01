@@ -20,6 +20,8 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://github.com/eprbell/rp2 USA cryptocurrency tax calculator
+
 https://news.ycombinator.com/item?id=30114358 randcoin
 
 https://www.wsj.com/articles/bitcoin-price-falls-below-40-000-in-tandem-with-tech-selloff-11642765835
