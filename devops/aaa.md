@@ -104,6 +104,13 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://greenops.io/atlas/
+> https://news.ycombinator.com/item?id=30164420
+
+https://www.perfecto.io/blog/devops-testing-strategy
+
+https://news.ycombinator.com/item?id=30163324
+
 https://brooker.co.za/blog/2022/01/31/deployments.html
 
 https://simonwillison.net/2022/Jan/31/release-notes/

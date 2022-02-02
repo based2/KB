@@ -68,6 +68,10 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://github.com/B-Lang-org/bsc
+
+https://medium.marco.zone/apple-implemented-the-biggest-improvement-to-bluetooth-audio-since-2009-2079abc607af
+
 https://old.reddit.com/r/Windows11/comments/sccict/amd_ftpm_causes_random_stuttering_issue/
 
 https://8051enthusiast.github.io/2021/07/05/001-EC_legacy.html

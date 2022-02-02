@@ -145,6 +145,8 @@ https://kaylynn.gay/blog/post/rust_ranges_and_suffering
 
 https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-profiling/
 
+https://kerkour.com/rust-async-await-what-is-a-runtime/
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -330,6 +332,8 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://github.com/zeromq/zmq.rs
+
 https://thephilbert.io/2022/01/31/gcc-rust-monthly-report-13-january-2021/
 
 https://blog.rust-lang.org/2022/01/31/changes-in-the-core-team.html

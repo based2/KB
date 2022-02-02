@@ -77,6 +77,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://lsd.gnunet.org/lsd0001/ The GNU Name System
+> https://news.ycombinator.com/item?id=30154830
+
 https://dnsspy.io/
 
 https://github.com/mosajjal/dnsmonster monitoring

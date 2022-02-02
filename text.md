@@ -109,6 +109,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://drewdevault.com/2022/01/28/Implementing-mime-in-xxxx.html
+
 https://github.com/Uzay-G/espial/blob/main/ARCHITECTURE.md
 
 https://cendyne.dev/posts/2022-01-23-base64.html

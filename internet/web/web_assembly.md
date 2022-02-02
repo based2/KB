@@ -67,6 +67,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://harshal.sheth.io/2022/01/31/webassembly.html
+
 https://web.dev/webassembly-feature-detection/
 > https://www.reddit.com/r/programming/comments/se2d0q/webassembly_feature_detection/
 

@@ -30,6 +30,11 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://linuxiac.com/falkon-3-2-web-browser/
+
+https://github.com/clbr/fifth
+> https://news.ycombinator.com/item?id=30156479
+
 https://blog.nightly.mozilla.org/2022/01/28/these-weeks-in-firefox-issue-108/
 
 https://old.reddit.com/r/sysadmin/comments/sbgmab/last_windows_11_update_changed_default_browser_to/

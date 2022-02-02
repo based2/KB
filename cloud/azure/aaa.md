@@ -6,6 +6,9 @@ https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-
 https://github.com/jsa2/aad-auth-n-z
 
 # News
+https://blog.mastykarz.nl/redirect-custom-login-page-securing-angular-app-msal/
+> https://news.ycombinator.com/item?id=30161614
+
 https://www.lastweekinaws.com/blog/azures-terrible-security-posture-comes-home-to-roost/
 > https://news.ycombinator.com/item?id=29910235
 

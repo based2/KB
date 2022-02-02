@@ -71,6 +71,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://syslog-ng-future.blog/syslog-ng-relaunch/
+> https://news.ycombinator.com/item?id=30168960
+
 https://github.com/Delgan/loguru/issues/563 Patch Arbitrary Code Execution
 > https://news.ycombinator.com/item?id=30128872
 

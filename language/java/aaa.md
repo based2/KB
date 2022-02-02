@@ -255,6 +255,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.reddit.com/r/java/comments/shl5gd/failsafe_32_is_released_with_new_resilience/
+
 https://www.cs.cornell.edu/Projects/polyglot/ Polyglot: Compiler Framework for Extending Java || Type Theory 101
 
 https://openjdk.java.net/jeps/8280836 JEP draft: Sequenced Collections

@@ -20,6 +20,8 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.federalreserve.gov/econres/ifdp/stablecoins-growth-potential-and-impact-on-banking.htm
+
 https://github.com/eprbell/rp2 USA cryptocurrency tax calculator
 
 https://news.ycombinator.com/item?id=30114358 randcoin

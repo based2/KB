@@ -65,6 +65,9 @@ https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/
 https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088
 
 # News
+https://www.codercorner.com/RadixSortRevisited.htm
+> https://news.ycombinator.com/item?id=30135440
+
 https://crates.io/crates/nsga Multi-objective genetic optimization algorithm NSGA-II Non-dominated Sorting Genetic Algorithm),
 
 https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html

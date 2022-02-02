@@ -101,6 +101,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.youtube.com/watch?v=wbFGOeXGlkw Universal cryptanalytic machine – a dream come true - Marek Grajek 17 mars 2020
+
 https://eric.mann.blog/basic-cryptography-the-vigenere-cipher/
 > https://news.ycombinator.com/item?id=30142247
 

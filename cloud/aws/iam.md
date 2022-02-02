@@ -30,6 +30,8 @@ https://github.com/iamarkadyt/aws-auth
 https://twitter.com/mamip_aws
 > https://github.com/z0ph/MAMIP/tree/master/findings
 
+https://github.com/Netflix-Skunkworks/policyuniverse Python classes to parse AWS IAM and Resource Policies
+
 # Secrets
 https://aws.amazon.com/en/blogs/compute/managing-secrets-for-amazon-ecs-applications-using-parameter-store-and-iam-roles-for-tasks/
 

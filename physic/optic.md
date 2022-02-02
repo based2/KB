@@ -44,3 +44,5 @@ https://www.techradar.com/news/this-powerful-supercomputer-can-now-run-on-light-
 https://deciwatt.global/gravitylight
 > https://news.ycombinator.com/item?id=29933277
 
+https://www.designfax.net/cms/dfx/opens/article-view-dfx.php?nid=4&bid=1189&et=featurearticle&pn=03
+

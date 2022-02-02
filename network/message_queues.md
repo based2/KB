@@ -5,6 +5,8 @@ https://blog.cloudflare.com/waiting-room-random-queueing-and-custom-web-mobile-a
 https://www.openmymind.net/Queue-Despair-Ordering-And-Poison-Messages/
 > https://news.ycombinator.com/item?id=29484998
 
+https://www.cockroachlabs.com/blog/message-queuing-database-kafka/
+
 # RabbitMQ
 https://derickbailey.com/2016/03/28/dealing-with-dead-letters-and-poison-messages-in-rabbitmq/
 

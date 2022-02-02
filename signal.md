@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://joshajohnson.com/rf-signal-generator/
+> https://news.ycombinator.com/item?id=30159043
+
 https://cpldcpu.wordpress.com/2022/01/23/controlling-rgb-leds-with-only-the-powerlines-anatomy-of-a-christmas-light-string/
 > https://news.ycombinator.com/item?id=30128379
 

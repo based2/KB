@@ -34,6 +34,9 @@ https://iai.tv/articles/quantum-mechanics-and-our-part-in-creating-reality-auid-
 https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-optical-quantum-computing-approach/
 
 # News
+https://www.eejournal.com/article/ibm-unveils-127-qubit-quantum-computer/
+> https://news.ycombinator.com/item?id=30157926
+
 https://ai.googleblog.com/2022/01/resolving-high-energy-impacts-on.html
 
 https://avs.scitation.org/doi/10.1116/5.0073075 The impact of hardware specifications on reaching quantum advantage in the fault tolerant regime

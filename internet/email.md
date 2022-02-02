@@ -105,6 +105,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://duckduckgo.com/email/faq
+> https://news.ycombinator.com/item?id=30158309
+
 https://news.ycombinator.com/item?id=30128198 Alternate Email hosting to G Suite
 
 https://momi.ca/posts/2020-08-28-sendxmpp.html

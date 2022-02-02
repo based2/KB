@@ -148,6 +148,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://www.maconlinux.net/
 
 # News
+https://firt.dev/ios-15.4b Push Notifications, WebXR, and better PWA support coming to iOS
+> https://news.ycombinator.com/item?id=30160680
+
 https://www.macrumors.com/2022/01/30/macos-12-2-bluetooth-battery-drain/
 
 https://nova.app/

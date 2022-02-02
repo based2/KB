@@ -56,6 +56,18 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://twitter.com/WolfieChristl/status/1488168017729138689 cookie syncs
+
+https://epthinktank.eu/2020/07/02/gdpr-and-ai-making-sense-of-a-complex-relationship/
+
+https://trustarc.com/blog/2017/07/17/can-legally-analytics-gdpr/
+
+https://www.lexology.com/library/detail.aspx?g=6a253c6a-1c66-4276-a216-c638caf80fc8
+
+https://news.ycombinator.com/item?id=30135264
+
+https://techcrunch.com/2022/01/10/edps-decision-european-parliament-covid-19-test-website/
+
 https://www.zdnet.com/article/unsecured-aws-server-exposed-airport-employee-records-3tb-in-data/
 
 https://iapp.org/news/a/why-this-french-court-decision-has-far-reaching-consequences-for-many-businesses/

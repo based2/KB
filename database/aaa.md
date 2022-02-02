@@ -65,6 +65,12 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/
+> https://news.ycombinator.com/item?id=30163983
+
+https://www.awelm.com/posts/simple-db/
+> https://news.ycombinator.com/item?id=30156048
+
 https://www.unixuser.org/~euske/doc/cdbinternals/
 
 https://www.dbms2.com/2013/03/18/dbms-development-marklogic-hadoop/

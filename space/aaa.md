@@ -86,10 +86,15 @@ https://craffic.co.in/astronomers-simulate-virtual-universe-download-free/
 https://www.icrar.org/repeating-transient/
 > https://news.ycombinator.com/item?id=30099010
 
+https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/
+> https://news.ycombinator.com/item?id=30159468
+
 ### Asteroid
 https://www.nasa.gov/press-release/nasa-invites-media-to-new-osiris-rex-asteroid-bennu-study-briefing
 > https://www.nasa.gov/feature/nasas-tour-of-asteroid-bennu-selected-for-prestigious-computer-graphics-film-festival
 > > https://news.ycombinator.com/item?id=28127565
+
+https://www.nature.com/articles/s41467-022-27988-4 Orbital stability analysis and photometric characterization of the second Earth Trojan asteroid 2020 XL5
 
 ### Black hole
 https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/

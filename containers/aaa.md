@@ -36,6 +36,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/
+> https://news.ycombinator.com/item?id=30167403
+
 https://blog.openresty.com/en/ylang-intro-part4/
 > https://news.ycombinator.com/item?id=30143587
 

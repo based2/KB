@@ -65,5 +65,8 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://github.com/VectorCamp/vectorscan Intel fork
+> https://news.ycombinator.com/item?id=30159660
+
 https://regexr.com/
 > https://news.ycombinator.com/item?id=30103085

@@ -40,6 +40,10 @@ https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terr
 https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 
 # News
+https://www.reddit.com/r/Terraform/comments/seo2mr/hcl_struct_syntax/
+
+https://github.com/pwillis-els/terraformsh
+
 https://brendanthompson.com/posts/2022/01/how-to-use-terraform-remote-backends
 > https://www.scalr.com/
 

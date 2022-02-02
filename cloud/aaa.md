@@ -48,6 +48,11 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 * Oracle
 
 # News
+https://thenewstack.io/sky-computing-the-next-era-after-cloud-computing/
+
+https://www.infoq.com/news/2022/01/austrian-privacy-gdpr-google/
+> https://news.ycombinator.com/item?id=30160413
+
 https://www.networkworld.com/article/3648352/top-10-outages-of-2021.html
 
 https://news.ycombinator.com/item?id=30148806

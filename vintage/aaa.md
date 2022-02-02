@@ -31,6 +31,14 @@ https://www.realworldtech.com/vax-cpu-economics/
 
 https://github.com/lenticularis39/axpbox
 
+https://en.wikipedia.org/?title=ERA_1101 
+
+https://en.wikipedia.org/wiki/Atlas_(computer)
+
+ERA
+
+https://en.wikipedia.org/wiki/Manchester_Baby
+
 #
 https://www.pcjs.org/machines/dec/vt100/
 > https://news.ycombinator.com/item?id=30147507

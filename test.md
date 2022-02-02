@@ -108,6 +108,8 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://jworks.io/datafaker-1-1-0-released/
+
 https://fsharpforfunandprofit.com/posts/property-based-testing-2/
 
 https://github.com/microsoft/playwright framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit

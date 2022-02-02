@@ -4,7 +4,6 @@ https://thevaluable.dev/vim-advanced/
 
 https://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.png
 
-
 https://susam.in/maze/vim-sudo-write-trick.html
 > https://news.ycombinator.com/item?id=29047694
 
@@ -46,6 +45,11 @@ https://learnbyexample.github.io/mini/vim-prank/
 
 https://github.com/mhinz/vim-galore
 > https://news.ycombinator.com/item?id=30084913
+
+dd Remove line
+:x Save and quit
+
+vi +LINE file
 
 # Nano
 
@@ -99,6 +103,8 @@ https://www.masteringemacs.org/article/bad-emacs-advice
 
 https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emacs-org-mode/
 > https://news.ycombinator.com/item?id=30129669
+
+https://systemcrafters.net/emacs-from-scratch/basics-of-emacs-configuration/
 
 # IDE
 ## Eclipse

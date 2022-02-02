@@ -94,6 +94,11 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://news.ycombinator.com/item?id=30167865 Google Maps now requires WiFi scanning to use navigation
+
+https://blog.mozilla.org/en/products/mozilla-vpn/multi-account-containers-add-on-on-mozilla-vpn/
+> https://news.ycombinator.com/item?id=30167969
+
 https://twitter.com/jonathandata1/status/1486458526767661060 Official Beijing2022 apps silently collect audio
 > https://news.ycombinator.com/item?id=30111237
 

@@ -1,3 +1,17 @@
+https://blog.ovalerio.net/archives/2346
+
+https://www.djangoproject.com/weblog/2022/feb/01/security-releases/
+
+https://www.golem.de/news/nancy-faeser-bundesregierung-plant-hersteller-haftung-fuer-software-maengel-2202-162832.html
+> https://news.ycombinator.com/item?id=30166915
+
+https://vigilance.fr/vulnerabilite/OpenBSD-acces-en-lecture-et-ecriture-via-Intel-GPU-Kernel-Memory-37435
+
+https://www.samba.org/samba/security/CVE-2021-44142.html
+> https://security-tracker.debian.org/tracker/CVE-2021-44142
+> https://www.reddit.com/r/synology/comments/p5bz8t/vfs_fruit_support_was_added_in_dsm_70/
+> https://news.ycombinator.com/item?id=30166953
+
 https://support.eset.com/en/ca8223-local-privilege-escalation-vulnerability-fixed-in-eset-products-for-windows
 
 https://blog.sonarsource.com/10-unknown-security-pitfalls-for-python

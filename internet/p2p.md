@@ -52,6 +52,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://yggdrasil-network.github.io/ IPv6
+> https://news.ycombinator.com/item?id=30156551
+
 https://blog.libtorrent.org/2020/09/bittorrent-v2/
 > https://news.ycombinator.com/item?id=29873106
 

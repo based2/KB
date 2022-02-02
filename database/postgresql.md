@@ -172,7 +172,6 @@ https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/
 > https://news.ycombinator.com/item?id=29825520
 
 https://github.com/fabianlindfors/reshape
-> 
 
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
@@ -229,6 +228,8 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://www.evanjones.ca/postgres-large-json-performance.html
+
 https://rclayton.silvrback.com/distributed-locking-with-postgres-advisory-locks
 
 https://github.com/postgres-ai/database-lab-engine

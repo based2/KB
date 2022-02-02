@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://ta180m.exozy.me/posts/installing-every-arch-package/
+> https://news.ycombinator.com/item?id=30160191
+
 https://lists.centos.org/pipermail/centos-devel/2022-January/120120.html
 > https://news.ycombinator.com/item?id=30150346
 
