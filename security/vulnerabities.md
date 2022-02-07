@@ -65,6 +65,8 @@ https://www.fragattacks.com/ wifi
 
 https://lwn.net/Articles/834297/ BleedingTooth
 
+https://cyber-security-group.cs.tau.ac.il/ NXNSAttack: DNS ecursive resolver
+
 ## 2019
 https://www.secpod.com/blog/openbsd-authentication-bypass-and-local-privilege-escalation-vulnerabilities/
 
@@ -214,6 +216,9 @@ https://en.wikipedia.org/wiki/Morris_worm
 
 ## 1986
 https://en.wikipedia.org/wiki/Brain_(computer_virus)
+
+## 1980
+https://en.wikipedia.org/wiki/Differential_cryptanalysis DES
 
 ## 1957
 phreaking 2600 hertz

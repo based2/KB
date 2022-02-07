@@ -18,6 +18,12 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://metacpc.org/en/crypto-blockchain/
+> https://news.ycombinator.com/item?id=30224472
+
+https://sethforprivacy.com/posts/fungibility-graveyard/
+> https://news.ycombinator.com/item?id=30224637
+
 https://nakamoto.com/the-cypherpunks/
 
 https://www.bloomberg.com/news/articles/2022-01-25/imf-board-urges-el-salvador-to-ditch-bitcoin-as-legal-tender

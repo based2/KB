@@ -13,3 +13,6 @@ https://github.com/yazeed44/gjf
 
 #
 https://dragons8mycat.wordpress.com/2014/04/17/mxd-to-qgis/
+
+https://macwright.com/lonlat/
+> https://news.ycombinator.com/item?id=30228981

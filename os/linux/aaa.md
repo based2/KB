@@ -80,6 +80,11 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/
+
+https://wiki.alopex.li/Dllicious DLLicious – shared object usage analysis on Linux
+> https://news.ycombinator.com/item?id=30194853
+
 https://lwn.net/Articles/879724/ Zero-copy network transmission with io_uring
 > https://news.ycombinator.com/item?id=30144652
 

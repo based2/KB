@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://phys.org/news/2022-02-scientists-material-absorb-enormous-amounts.html
+
 https://fahrrad-tools.de/tire.html
 > https://news.ycombinator.com/item?id=30137984
 

@@ -26,3 +26,7 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 
 # history
 weatherspark .no
+
+# News
+https://theoutline.com/post/3826/crap-weather-apps-meteorolgists
+> https://news.ycombinator.com/item?id=30212818

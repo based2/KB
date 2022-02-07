@@ -24,6 +24,9 @@ https://blog.elcomsoft.com/2021/04/breaking-rar5-and-7zip-passwords/
 
 https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/
 
+https://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
+> https://news.ycombinator.com/item?id=30187633
+
 ## AES-GCM
 https://news.ycombinator.com/item?id=27338479
 

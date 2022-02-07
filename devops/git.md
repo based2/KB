@@ -251,6 +251,10 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://gitless.com/
+
+https://lobste.rs/s/rl9pxx/idea_move_hunk
+
 https://www.schoenitzer.de/blog/2021/Shorter%20Hacks%201%20Git%20dash.html cd -
 
 https://github.blog/2022-01-24-highlights-from-git-2-35/

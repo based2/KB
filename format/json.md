@@ -71,6 +71,11 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/
+> https://news.ycombinator.com/item?id=30224063
+
+https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json/
+
 https://curl.se/mail/archive-2022-01/0043.html
 > https://news.ycombinator.com/item?id=30011382
 

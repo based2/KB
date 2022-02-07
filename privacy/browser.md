@@ -9,6 +9,11 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://noscriptfingerprint.com/
+> https://news.ycombinator.com/item?id=30237846
+
+https://blog.amiunique.org/an-explicative-article-on-drawnapart-a-gpu-fingerprinting-technique/
+
 https://www.bleepingcomputer.com/news/security/researchers-use-gpu-fingerprinting-to-track-users-online/
 
 https://brave.com/web-standards-at-brave/7-googles-topics-api/

@@ -46,3 +46,6 @@ https://deciwatt.global/gravitylight
 
 https://www.designfax.net/cms/dfx/opens/article-view-dfx.php?nid=4&bid=1189&et=featurearticle&pn=03
 
+https://compoundsemiconductor.net/article/114145/Infrared_laser_spectroscopy_at_your_fingertips/technical
+> https://news.ycombinator.com/item?id=30191092
+

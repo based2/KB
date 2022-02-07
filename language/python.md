@@ -195,6 +195,22 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://beeware.org/
+> https://news.ycombinator.com/item?id=30190717
+
+https://twitter.com/VictorStinner/status/1490328160210231302
+
+https://github.com/vitalik/django-ninja
+> https://news.ycombinator.com/item?id=30221016
+
+https://www.jolie.dev/
+> https://news.ycombinator.com/item?id=30224838
+
+https://mathspp.com/blog/sockets-for-dummies
+> https://news.ycombinator.com/item?id=30191567
+
+https://www.jetbrains.com/pycharm/whatsnew/
+
 https://martinheinz.dev/blog/66 Creating Beautiful Tracebacks with Python's Exception Hooks
 
 https://www.willmcgugan.com/blog/tech/post/textual-for-windows/

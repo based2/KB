@@ -43,3 +43,6 @@ https://engineering.q42.nl/optimizing-full-screen-images/
 
 # Photography
 https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/
+
+https://lux.camera/iphone-13-pro-camera-app-intelligent-photography/
+> https://news.ycombinator.com/item?id=30231049

@@ -14,6 +14,12 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://corecursive.com/serenity-os-with-andreas-kling/
+> https://news.ycombinator.com/item?id=30214371
+
+https://blog.ovalerio.net/archives/2346 Who keeps an eye on clipboard access?
+> https://news.ycombinator.com/item?id=30193091
+
 https://vldb.org/pvldb/vol15/p21-skiadopoulos.pdf DBOS: A DBMS-oriented Operating System
 
 https://pdos.csail.mit.edu/6.S081/2021/schedule.html

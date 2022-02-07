@@ -20,6 +20,11 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.bostonfed.org/news-and-events/press-releases/2022/frbb-and-mit-open-cbdc-phase-one.aspx
+> https://news.ycombinator.com/item?id=30233755
+
+https://github.com/mit-dci/opencbdc-tx
+
 https://www.federalreserve.gov/econres/ifdp/stablecoins-growth-potential-and-impact-on-banking.htm
 
 https://github.com/eprbell/rp2 USA cryptocurrency tax calculator

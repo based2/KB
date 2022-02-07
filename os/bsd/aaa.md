@@ -89,6 +89,8 @@ https://blog.tyk.nu/blog/freebsd-jails-and-sysv-ipc/
 https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/
 > https://news.ycombinator.com/item?id=30057549
 
+https://klarasystems.com/articles/modern-inetd-in-freebsd/
+
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908

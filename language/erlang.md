@@ -104,6 +104,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://www.linuxjournal.com/content/design-and-prototypical-implementation-irc-chat-server-erlang-otp
+> https://news.ycombinator.com/item?id=30191742
+
 http://novaframework.org/
 
 https://medium.com/erlang-battleground/erlang-otp-profiling-fprof-b3a1b92e43e3

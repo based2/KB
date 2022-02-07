@@ -1,3 +1,6 @@
+https://kguttag.com/2022/01/31/magic-leap-2-at-spie-ar-vr-mr-2022/
+> https://news.ycombinator.com/item?id=30170924
+
 https://meadhbh.hamrick.rocks/v2/technical/vwrap/index.html
 > https://news.ycombinator.com/item?id=30152113
 

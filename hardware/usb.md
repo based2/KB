@@ -19,6 +19,11 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://news.ycombinator.com/item?id=30224390 How to make sure you're not installing spyware to your computer via USB drivers?
+
+https://twitter.com/bikerglen/status/1482516332432162820
+> https://news.ycombinator.com/item?id=30198730
+
 https://www.xda-developers.com/usb-type-c-power-tools/
 > https://news.ycombinator.com/item?id=30125037
 

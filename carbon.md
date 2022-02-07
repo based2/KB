@@ -55,6 +55,20 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://euobserver.com/climate/154245
+> https://news.ycombinator.com/item?id=30230429
+> > https://www.eca.europa.eu/Lists/ECADocuments/INRW22_01/INRW_Energy_taxation_EN.pdf
+> > https://www.eca.europa.eu/Lists/ECADocuments/RW22_01/RW_Energy_taxation_EN.pdf
+> > https://en.wikipedia.org/wiki/European_Court_of_Auditors
+
+https://www.inverse.com/science/net-zero-government-strategy
+
+https://www.npr.org/2022/02/03/1077392791/a-satellite-finds-massive-methane-leaks-from-gas-pipelines?t=1644012965599
+> https://news.ycombinator.com/item?id=30205605
+
+https://scribe.rip/the-cost-of-a-byte-3d675d00c25e
+> https://news.ycombinator.com/item?id=30179947
+
 https://www.lemonde.fr/economie/article/2022/01/31/energies-renouvelables-la-france-seul-pays-de-l-union-europeenne-a-avoir-manque-ses-objectifs_6111689_3234.html
 
 https://www.vice.com/en/article/7kb43x/shell-quest-carbon-capture-plant-alberta

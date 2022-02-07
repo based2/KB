@@ -158,6 +158,12 @@ https://github.com/webeetle/react-headless-hooks
 
 https://recoiljs.org/
 
+https://github.com/reactjs/reactjs.org/issues/3896
+> https://news.ycombinator.com/item?id=30194345
+
+https://acko.net/blog/react-the-missing-parts/
+> https://news.ycombinator.com/item?id=30228498
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -343,6 +349,13 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/mybigday/react-native-global-keyevent
+
+https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md
+> https://news.ycombinator.com/item?id=30196021
+
+https://rescript-lang.org/
+
 https://v8.dev/blog/v8-release-99
 
 https://jackpordi.com/posts/locks-in-js-because-why-not

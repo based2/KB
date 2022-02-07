@@ -33,6 +33,18 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://tdarb.org/poormans-comment-system/
+> https://news.ycombinator.com/item?id=30206330
+
+https://www.jremissing.com/
+> https://news.ycombinator.com/item?id=30216740
+
+https://www.washingtonpost.com/technology/2022/02/02/facebook-earnings-meta/
+> https://news.ycombinator.com/item?id=30186326
+
+https://fly.io/blog/livebeats/
+> https://news.ycombinator.com/item?id=30177901
+
 https://hackernoon.com/modpol-is-a-self-governance-toolkit-for-communities-in-online-worlds
 
 https://www.reuters.com/lifestyle/spotify-removing-neil-youngs-music-after-his-joe-rogan-ultimatum-2022-01-27/

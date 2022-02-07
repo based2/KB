@@ -332,6 +332,11 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://old.reddit.com/r/rust/comments/seb0ex/green_threads_explained_in_200_lines_of_rust/
+
+https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust
+> https://news.ycombinator.com/item?id=30174827
+
 https://github.com/zeromq/zmq.rs
 
 https://thephilbert.io/2022/01/31/gcc-rust-monthly-report-13-january-2021/

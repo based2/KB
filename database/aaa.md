@@ -13,6 +13,9 @@ https://minimalmodeling.substack.com/p/stakeholders-and-their-concerns
 https://www.connectionstrings.com/
 > https://news.ycombinator.com/item?id=28352454
 
+https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/projekte/RDBMSGenealogy/RDBMS_Genealogy_V6.pdf
+> https://news.ycombinator.com/item?id=30194448
+
 #
 https://github.blog/2021-09-27-partitioning-githubs-relational-databases-scale/
 > https://news.ycombinator.com/item?id=28678647
@@ -65,6 +68,10 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.manuelrigger.at/preprints/TLP.pdf Finding Bugs in Database Systems via Query Partitioning
+
+https://www.brentozar.com/archive/2020/11/when-do-i-need-to-use-desc-in-indexes/
+
 https://mariadb.com/newsroom/press-releases/mariadb-corporation-ab-to-become-a-publicly-traded-company-via-combination-with-angel-pond-holdings-corporation/
 > https://news.ycombinator.com/item?id=30163983
 

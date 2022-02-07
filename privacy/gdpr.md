@@ -56,6 +56,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/
+> https://news.ycombinator.com/item?id=30176712
+
 https://twitter.com/WolfieChristl/status/1488168017729138689 cookie syncs
 
 https://epthinktank.eu/2020/07/02/gdpr-and-ai-making-sense-of-a-complex-relationship/
@@ -76,6 +79,7 @@ https://news.ycombinator.com/item?id=30138669
 
 https://rewis.io/urteile/urteil/lhm-20-01-2022-3-o-1749320/ GDPR penalty for passing on of IP address to Google by using Google Fonts
 > https://news.ycombinator.com/item?id=30135264
+> https://www.reddit.com/r/programming/comments/si4qnh/german_court_rules_websites_embedding_google/
 
 https://noyb.eu/sites/default/files/2022-01/Case%202020-1013%20-%20EDPS%20Decision_bk.pdf
 

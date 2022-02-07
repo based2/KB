@@ -68,3 +68,6 @@ https://github.com/robhagemans/hoard-of-bitfonts
 # DPI
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
+# News
+https://github.com/rsn8887/Sharp-Bilinear-Shaders
+> https://news.ycombinator.com/item?id=30220317

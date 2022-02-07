@@ -55,10 +55,15 @@ https://uwdata.github.io/color-naming-in-different-languages/vis/stacked-spectru
 https://bottosson.github.io/posts/colorpicker/
 > https://news.ycombinator.com/item?id=28500014
 
+https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
+> https://news.ycombinator.com/item?id=30162709
+
 # Monochrome
 https://news.ycombinator.com/item?id=26934352
 
 #
+https://hugodaniel.com/posts/minimal-color-swatches/
+
 https://webaim.org/resources/contrastchecker/
 
 https://johncarlosbaez.wordpress.com/2022/01/16/the-color-of-infinite-temperature/

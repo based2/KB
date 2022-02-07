@@ -19,6 +19,9 @@ https://news.ycombinator.com/item?id=29114862
 https://spectrum.ieee.org/foldable-monocopter-drone
 > https://news.ycombinator.com/item?id=29225184
 
+https://www.thedrive.com/tech/44100/davinci-style-drone-with-600-year-old-screw-rotor-design-actually-flies
+> https://news.ycombinator.com/item?id=30187424
+
 # Water
 https://www.darpa.mil/news-events/2021-12-20
 
@@ -36,6 +39,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://kevinlynagh.com/pcb-stepper/
+> https://news.ycombinator.com/item?id=30191282
+
 https://github.com/michiganrobotics/rob501 math
 > https://news.ycombinator.com/item?id=30099347
 

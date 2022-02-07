@@ -53,7 +53,19 @@ https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-mult
 
 https://www.franceculture.fr/emissions/la-methode-scientifique/positronium-un-parfum-dexotisme
 
+https://www.uni-bonn.de/en/news/020-2022
+> https://news.ycombinator.com/item?id=30210999
+
+https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/
+> https://news.ycombinator.com/item?id=30209131
+
 # News
+https://phys.org/news/2022-02-quantum-friction-carbon-nanotubes-long-standing.html
+>
+
+https://news.mit.edu/2022/polymer-lightweight-material-2d-0202
+> https://news.ycombinator.com/item?id=30180839
+
 https://sinews.siam.org/Details-Page/origami-and-the-structure-of-materials
 
 https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/

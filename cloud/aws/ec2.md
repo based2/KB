@@ -104,8 +104,9 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
-https://aws.amazon.com/en/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/
-> 
+https://blog.min.io/install-minio-distributed-mode-aws-ec2/
+
+https://aws.amazon.com/en/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/ 
 
 https://www.nextplatform.com/2022/01/04/inside-amazons-graviton3-arm-server-processor/
 > https://news.ycombinator.com/item?id=29824956

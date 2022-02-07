@@ -29,7 +29,9 @@ https://www.scummvm.org/
 https://chezsoi.org/lucas/blog/pages/images-libres-de-droits.html
 
 # Dev
-https://godotengine.org/`
+https://libregamewiki.org/Main_Page
+
+https://godotengine.org
 
 https://itch.io/jam/stop-waiting-for-godot
 > https://news.ycombinator.com/item?id=28352397

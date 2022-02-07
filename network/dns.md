@@ -1,6 +1,10 @@
 IPv6 AAAA record
 
-IPv4 A record 
+IPv4 A record
+
+https://en.wikipedia.org/wiki/SRV_record
+
+http://www-inf.int-evry.fr/~hennequi/CoursDNS/NOTES-COURS_eng/msg.html
 
 https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/
 > https://news.ycombinator.com/item?id=27396208
@@ -77,6 +81,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://github.com/sleevi/psl-problems
+
 https://lsd.gnunet.org/lsd0001/ The GNU Name System
 > https://news.ycombinator.com/item?id=30154830
 

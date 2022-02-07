@@ -88,6 +88,12 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://twitter.com/VodafoneUK/status/1490239576543309825
+> https://news.ycombinator.com/item?id=30231514
+
+https://www.joshhorne.com/mmwave-radar-and-ambient-computing/
+> https://news.ycombinator.com/item?id=30172647
+
 https://techcrunch.com/2022/01/21/fcc-proposal-would-curb-isp-lock-ins-at-apartment-complexes/
 
 https://www.alfredosequeida.com/blog/how-to-send-text-messages-for-free-using-python-use-python-to-send-text-messages-via-email/

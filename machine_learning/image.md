@@ -24,3 +24,5 @@ https://cheezam.fr/
 > https://news.ycombinator.com/item?id=29955475
 
 https://nvlabs.github.io/instant-ngp/
+
+https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/

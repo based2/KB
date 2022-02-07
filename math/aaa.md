@@ -87,6 +87,24 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+http://reprints.gravitywaves.com/VIP/ViewExtraSpaceDims/Noll-1967_AComputerTechniqueForDisplayingNDimensionalHyperObjects.pdf
+> https://news.ycombinator.com/item?id=30205656
+
+https://archive.org/details/uspenskii-some-applications-of-mechanics-to-mathematics
+> https://news.ycombinator.com/item?id=30205876
+
+https://www.quantamagazine.org/how-infinite-series-reveal-the-unity-of-mathematics-20220124/
+> https://news.ycombinator.com/item?id=30214878
+
+https://kerodon.net/ Online resource for homotopy-coherent mathematics
+> https://news.ycombinator.com/item?id=30188648
+
+https://news.columbia.edu/news/stacks-project-johan-dejong
+> https://news.ycombinator.com/item?id=30222302
+
+https://www.quantamagazine.org/mathematicians-prove-30-year-old-andre-oort-conjecture-20220203/
+> https://news.ycombinator.com/item?id=30193236
+
 https://gitgud.io/unconed/mathbox
 > https://acko.net/files/gltalks/pixelfactory/online.html#0
 > > https://github.com/unconed/shadergraph

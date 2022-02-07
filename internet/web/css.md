@@ -155,6 +155,9 @@ https://joshondesign.com/2015/05/23/csstable Scroll
 # Font
 https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/
 
+https://nutcroft.com/blog/in-defense-of-user-defined-web-fonts/
+> https://news.ycombinator.com/item?id=30162678
+
 # Demo
 https://codepen.io/jakealbaugh/full/PwLXXP/
 
@@ -179,6 +182,11 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://susam.github.io/spcss/
+
+https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html
+> https://news.ycombinator.com/item?id=30191729
+
 https://news.ycombinator.com/item?id=29964453
 > https://news.ycombinator.com/item?id=29963448
 

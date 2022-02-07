@@ -87,6 +87,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://news.ycombinator.com/item?id=30194440 remove silences
+
 https://www.mbari.org/4k-camera-development/
 
 https://github.com/obsproject/obs-studio/pull/5875/commits/551c54ba8440fcdf4cdc221f5d50a30a68b87a7e

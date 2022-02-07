@@ -12,6 +12,13 @@ https://danielyxie.github.io/bitburner/
 > https://news.ycombinator.com/item?id=29581110
 
 # News
+https://watsonmw.com/fintro/ Frontier: Elite 2 - Graphics Study
+
+https://liquidream.itch.io/undune2
+
+https://www.darkpattern.games/
+> https://news.ycombinator.com/item?id=30184457
+
 https://news.ycombinator.com/item?id=30066445
 
 https://fabiensanglard.net/another_world_polygons/index.html

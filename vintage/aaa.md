@@ -40,6 +40,8 @@ ERA
 https://en.wikipedia.org/wiki/Manchester_Baby
 
 #
+https://www.righto.com/2022/01/ibm360model50.html
+
 https://www.pcjs.org/machines/dec/vt100/
 > https://news.ycombinator.com/item?id=30147507
 

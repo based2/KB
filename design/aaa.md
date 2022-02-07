@@ -70,5 +70,8 @@ https://interconnected.org/home/2021/04/23/star_wars
 
 https://aesthetics.fandom.com/wiki/Liminal_Space
 
+https://linear.app/blog/settings-are-not-a-design-failure
+> https://news.ycombinator.com/item?id=30181291
+
 https://furbo.org/2022/01/11/consistency-sin/
 > https://news.ycombinator.com/item?id=30030248

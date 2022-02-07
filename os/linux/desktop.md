@@ -38,7 +38,15 @@ https://usebottles.com/
 
 https://usebottles.com/blog/release-2022.1.28/
 
+https://github.com/casualsnek/cassowary run a Windows virtual machine and use Windows applications on Linux as if they were native applications, built upon FreeRDP and remote apps technology
+> https://news.ycombinator.com/item?id=30214762
+
 # News
+https://www.dedoimedo.com/computers/plasma-look-like-ubuntu-gnome.html
+
+https://medium.com/@fulalas/gnome-linux-a-complete-disaster-feb27b13a5c2
+> https://news.ycombinator.com/item?id=30181899
+
 https://www.talisman.org/x-debut.shtml
 > https://news.ycombinator.com/item?id=29963888
 

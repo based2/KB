@@ -89,6 +89,10 @@ https://www.icrar.org/repeating-transient/
 https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/
 > https://news.ycombinator.com/item?id=30159468
 
+https://arxiv.org/abs/2201.11633 Tick-Tock: The Imminent Merger of a Supermassive Black Hole Binary
+> https://news.ycombinator.com/item?id=30228095
+> > https://www.science.org/content/article/crash-titans-imminent-merger-giant-black-holes-predicted
+
 ### Asteroid
 https://www.nasa.gov/press-release/nasa-invites-media-to-new-osiris-rex-asteroid-bennu-study-briefing
 > https://www.nasa.gov/feature/nasas-tour-of-asteroid-bennu-selected-for-prestigious-computer-graphics-film-festival
@@ -129,6 +133,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://saatsazov.com/#/blog/rocket-motor
+> https://news.ycombinator.com/item?id=30191793
+
 https://blogs.bl.uk/digitisedmanuscripts/2022/01/reach-for-the-stars.html
 > https://news.ycombinator.com/item?id=30081784
 

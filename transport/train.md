@@ -15,6 +15,11 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://railfan.com/union-pacific-to-buy-20-battery-electric-locomotives/
+> https://news.ycombinator.com/item?id=30233199
+
+https://www.smithsonianmag.com/travel/the-quest-to-protect-californias-transcontinental-tunnels-180979382/
+
 https://webinfo.uk/webdocssl/irse-kbase/ref-viewer.aspx?refno=1559669757&document=2.10%20strangaric%20-%20legacy%20train%20control%20system%20stabilisation.pdf
 > https://news.ycombinator.com/item?id=29157259
 

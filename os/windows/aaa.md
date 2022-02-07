@@ -114,6 +114,10 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://www.tomsguide.com/news/windows-11-tpm-requirement-is-causing-headaches-for-users-with-amd-cpus
+
+https://arstechnica.com/gadgets/2022/02/windows-11s-preview-builds-are-getting-more-experimental-in-2022/
+
 https://luttig.substack.com/p/dont-forget-microsoft
 > https://news.ycombinator.com/item?id=30141192
 

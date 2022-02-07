@@ -65,6 +65,8 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://xysun.github.io/posts/regex-parsing-thompsons-algorithm.html
+
 https://github.com/VectorCamp/vectorscan Intel fork
 > https://news.ycombinator.com/item?id=30159660
 

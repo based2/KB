@@ -21,6 +21,9 @@ https://tailscale.com/kb/1134/ipv6-faq/
 https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/
 > https://news.ycombinator.com/item?id=30126434
 
+https://chown.me/blog/getting-my-own-asn
+> https://news.ycombinator.com/item?id=30178655
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero
@@ -46,6 +49,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://circleid.com/posts/20211216-the-formation-of-ipv4-address-markets
+> https://news.ycombinator.com/item?id=30191288
+
 https://tech.marksblogg.com/where-are-ip-addresses-ipinfo.html
 > https://news.ycombinator.com/item?id=29848744
 

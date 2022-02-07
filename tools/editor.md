@@ -1,5 +1,13 @@
 # Vi
 ## Vim
+    ➕ ESC i Insert
+    ➖ ESC dd Remove line
+    🔄 ESC u Undo
+    💾 ESC :x Save and quit
+
+    🕵 grep -n text file
+    🔭 vi +LINE file
+
 https://thevaluable.dev/vim-advanced/
 
 https://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.png
@@ -46,10 +54,7 @@ https://learnbyexample.github.io/mini/vim-prank/
 https://github.com/mhinz/vim-galore
 > https://news.ycombinator.com/item?id=30084913
 
-dd Remove line
-:x Save and quit
-
-vi +LINE file
+https://github.com/kabinspace/AstroVim
 
 # Nano
 

@@ -228,6 +228,19 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://news.ycombinator.com/item?id=30232416 Markov Chain Monte Carlo analysis of climate-change variables, sensitivity
+> https://kingaa.github.io/pomp/docs.html
+
+https://www.autodesk.com/research/publications/same-stats-different-graphs
+
+https://github.com/karoliskoncevicius/tutorial_r_introduction/blob/main/README.md
+> https://news.ycombinator.com/item?id=30230846
+
+https://www.datawrapper.de/
+> https://news.ycombinator.com/item?id=30218793
+
+https://lists.apache.org/list?announce@apache.org:2022-2 Apache Hudi 0.10.1 released, Hadoop Upserts Deletes
+
 https://community.jmp.com/t5/JMP-Blog/Use-JMP-to-find-patterns-and-anomalies-in-data/ba-p/443774
 
 https://clickhouse.com/blog/en/2022/clickhouse-v22.1-released/

@@ -84,6 +84,23 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://www.reddit.com/r/golang/comments/sl5co2/getting_started_with_generics_in_go_video/
+
+https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html
+> https://www.reddit.com/r/golang/comments/sk05z2/how_i_write_http_services_after_eight_years/
+
+https://convey.earth/conversation?id=48 Dominant Colors GUI
+
+https://www.reddit.com/r/golang/comments/shmvdc/rqlite_the_light_distributed_database_built_with/
+
+https://github.com/muesli/coral cli
+
+https://benhoyt.com/writings/go-version-performance/
+> https://news.ycombinator.com/item?id=30201969
+
+https://blog.px.dev/go-garbage-collector/
+> https://www.reddit.com/r/programming/comments/siylfa/dumpster_diving_the_go_garbage_collector/
+
 https://github.com/emirpasic/gods
 
 https://github.com/liyue201/gostl

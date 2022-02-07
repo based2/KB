@@ -19,9 +19,14 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/
+> https://news.ycombinator.com/item?id=30224777
+> > https://webauthn.io/
+
 https://github.com/drduh/YubiKey-Guide
 > https://news.ycombinator.com/item?id=30081348
 > > https://www.stavros.io/posts/u2f-fido2-with-ssh/
+> > https://www.imperialviolet.org/2018/03/27/webauthn.html
 
 https://therecord.media/more-than-1200-phishing-toolkits-capable-of-intercepting-2fa-detected-in-the-wild/
 

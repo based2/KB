@@ -30,3 +30,5 @@ https://blog.darknedgy.net/technology/2020/05/02/0/
 
 https://systemd-by-example.com/
 > https://news.ycombinator.com/item?id=30071240
+
+https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/

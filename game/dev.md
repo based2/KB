@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://longwelwind.net/blog/networking-turn-based-game/
+
 https://news.ycombinator.com/item?id=30125931
 
 https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/sweeny.pdf

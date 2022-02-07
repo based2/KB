@@ -48,6 +48,11 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://www.tweag.io/blog/2022-02-03-trustix-voting/
+>
+
+https://github.com/chelseakomlo/talks/blob/master/2021-11-23-naval-postgrad/naval-postgrad-seminar.pdf 	Attacks and fixes on distributed key generation protocols
+
 https://tuweni.apache.org/ Blockchain and other decentralized software in Java and other JVM languages
 
 https://en.wikipedia.org/wiki/Ripple_Labs

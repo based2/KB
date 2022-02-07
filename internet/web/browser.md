@@ -30,6 +30,14 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://digdeeper.neocities.org/ghost/mozilla.html
+> https://news.ycombinator.com/item?id=30233110
+
+https://blog.chromium.org/2022/02/chrome-99-css-cascade-layers-new-picker.html
+
+https://www.igalia.com/2022/02/03/Introducing-Wolvic.html
+> https://news.ycombinator.com/item?id=30195009
+
 https://linuxiac.com/falkon-3-2-web-browser/
 
 https://github.com/clbr/fifth

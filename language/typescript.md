@@ -66,6 +66,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://www.zhenghao.io/posts/type-hierarchy-tree
+
 https://blog.dend.ro/self-modifying-rust/
 
 https://playground.hibikihtml.com/tutorial/?page=t-intro#section6

@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://gitlab.com/illwieckz/i-love-compute opencl
+> https://linuxfr.org/news/opencl-sous-linux-l-etat-des-pilotes-amd-est-desormais-pire-que-ce-qu-il-etait-a-l-epoque-de-fglrx
+
 https://www.phoronix.com/scan.php?page=news_item&px=AMD-PAN-Linux-RFC
 
 https://www.phoronix.com/scan.php?page=news_item&px=Linux-Tesla-FSD-SoC-Patches

@@ -26,6 +26,11 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://news.itsfoss.com/pinephone-review/
+> https://news.ycombinator.com/item?id=30224048
+
+https://ansari.sh/posts/finding_sensors_i2c/
+
 https://syndicate-lang.org/journal/2022/01/07/pinephone-battery-discharge-curve
 
 https://old.reddit.com/r/degoogle/comments/rosdbu/100_foss_smartphone_hardening_nonroot_guide_40/

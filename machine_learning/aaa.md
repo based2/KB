@@ -247,6 +247,28 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon
+> https://news.ycombinator.com/item?id=30236123
+
+https://lets-unify.ai/
+
+https://research.google/pubs/pub51024/ Secure Poisson Regression
+
+https://www.tmpl.fi/gp/ Gaussian process regression demo
+>
+
+https://openai.com/blog/webgpt/ WebGPT: Improving the Factual Accuracy of Language Models through Web Browsing
+>
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.128.032003 Lattice Gauge Equivariant Convolutional Neural Networks
+> https://news.ycombinator.com/item?id=30193848
+
+https://blog.eleuther.ai/announcing-20b/
+> https://news.ycombinator.com/item?id=30179398
+
+https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode
+> https://news.ycombinator.com/item?id=30179549
+
 https://benanne.github.io/2022/01/31/diffusion.html
 
 https://www.oreilly.com/radar/what-is-causal-inference/

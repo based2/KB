@@ -226,7 +226,23 @@ https://woodrush.github.io/blog/posts/2022-01-12-sectorlisp-io.html
 https://stopa.io/post/292 What’s the simplest Lisp interpreter I could write, which supports macros?
 > https://news.ycombinator.com/item?id=30043224
 
+https://www.grammarly.com/blog/engineering/running-lisp-in-production/
+> https://news.ycombinator.com/item?id=30172641
+
+https://blog.veitheller.de/Building_Setf.html
+
 # News
+https://www.morling.dev/blog/whats-in-a-good-error-message/
+> https://news.ycombinator.com/item?id=30234572
+
+https://github.com/nim-works/cps/tree/master/docs
+>
+
+https://github.com/Kindelia/HVM High-order Virtual Machine, Massively parallel, optimal functional runtime
+> https://news.ycombinator.com/item?id=30219452
+
+https://github.com/lynnpepin/reso
+
 https://futhark-lang.org/blog/2022-01-27-cost-models-are-contracts.html
 
 https://www.compuphase.com/pawn/pawn.htm

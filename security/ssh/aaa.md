@@ -108,6 +108,8 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://github.com/hauleth/ssh_signature
+
 https://marcusedmondson.com/2022/01/28/pivoting-with-ssh-tunnels-and-plink/
 
 https://www.journalduhacker.net/s/hwiuio/emmerdez_les_pirates_ssh_avec_endlessh

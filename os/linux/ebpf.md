@@ -49,6 +49,8 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://leodido.dev/demystifying-profraw/
+
 https://cilium.io/blog/2021/12/01/cilium-service-mesh-beta
 > https://news.ycombinator.com/item?id=29422245
 

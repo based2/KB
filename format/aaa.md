@@ -27,6 +27,8 @@ https://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html
 > https://news.ycombinator.com/item?id=29821687
 
 # News
+https://buf.build/blog/announcing-bsr protobuf
+
 https://kevincox.ca/2022/01/19/typed-config-languages/
 > https://news.ycombinator.com/item?id=30005560
 

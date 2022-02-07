@@ -68,6 +68,17 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.stiftung-nv.de/en/publication/understanding-global-chip-shortages
+> https://news.ycombinator.com/item?id=30228178
+
+https://bitlog.it/20141224_getting_started_with_the_ga144_and_arrayforth.html
+> https://news.ycombinator.com/item?id=30221910
+
+https://scitechdaily.com/first-molecular-electronics-chip-developed-realizes-50-year-old-goal/
+
+https://unum.cloud/post/2022-01-29-ddr4/
+> https://news.ycombinator.com/item?id=30178764
+
 https://github.com/B-Lang-org/bsc
 
 https://medium.marco.zone/apple-implemented-the-biggest-improvement-to-bluetooth-audio-since-2009-2079abc607af

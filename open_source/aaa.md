@@ -51,7 +51,11 @@ https://www.gimp.org/
 https://inkscape.org/
 >  https://github.com/spakin/SimpInkScr
 
+https://inkscape.org/release/1.1.2/
+> https://news.ycombinator.com/item?id=30230198
+
 https://www.freecadweb.org/
+> https://news.ycombinator.com/item?id=30192121
 
 https://www.blender.org/
 > https://www.youtube.com/watch?v=6VjA9EfkFSc Photoscanning
@@ -184,6 +188,15 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://fosdem.org/2022/live/
+> https://news.ycombinator.com/item?id=30220443
+
+https://wiki.gimp.org/wiki/Roadmap#GIMP_3.0
+> https://news.ycombinator.com/item?id=30182767
+
+https://blog.documentfoundation.org/blog/2022/02/02/libreoffice-73-community/
+> https://news.ycombinator.com/item?id=30176283
+
 https://peter.czanik.hu/posts/saving-power/ cpu ibm power architecture
 > https://news.ycombinator.com/item?id=30035841
 

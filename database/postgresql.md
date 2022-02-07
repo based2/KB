@@ -228,6 +228,10 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://www.depesz.com/2022/02/06/waiting-for-postgresql-15-add-unique-null-treatment-option/
+
+https://www.splitgraph.com/blog/postgresql-fdw-aggregation-pushdown-multicorn-part-1
+
 https://www.evanjones.ca/postgres-large-json-performance.html
 
 https://rclayton.silvrback.com/distributed-locking-with-postgres-advisory-locks

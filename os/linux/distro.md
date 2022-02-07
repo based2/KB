@@ -62,6 +62,13 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://moyix.blogspot.com/2022/02/on-building-30k-debian-packages.html
+> https://news.ycombinator.com/item?id=30237483
+
+https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Debug-Packages
+
+http://www.slackware.com/announce/15.0.php
+
 https://ta180m.exozy.me/posts/installing-every-arch-package/
 > https://news.ycombinator.com/item?id=30160191
 

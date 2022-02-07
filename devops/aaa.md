@@ -104,6 +104,13 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://www.decadent.org.uk/ben/blog/ci-for-the-debian-kernel-team.html
+> https://news.ycombinator.com/item?id=30229192
+
+https://www.bleepingcomputer.com/news/technology/github-outage-impacts-actions-codespaces-issues-pull-requests/
+
+https://www.enterpriseready.io/podcast/40-alexis-richardson-weaveworks/
+
 https://greenops.io/atlas/
 > https://news.ycombinator.com/item?id=30164420
 

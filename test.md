@@ -108,6 +108,10 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://dev.to/tarantool/ten-year-experience-in-dbms-testing-19ea
+
+https://news.ycombinator.com/item?id=30209366 Ask HN: Is there any tool for benchmarking responsiveness for Linux?
+
 https://jworks.io/datafaker-1-1-0-released/
 
 https://fsharpforfunandprofit.com/posts/property-based-testing-2/

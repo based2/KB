@@ -187,6 +187,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://cars.readthedocs.io/en/latest/index.html
+
 https://www.nasa.gov/feature/amazing-earth-satellite-images-from-2021
 
 https://www.davidrumsey.com/blog/articles/more-than-digital-copies-maps-that-interpret-maps

@@ -1,3 +1,61 @@
+https://www.nature.com/articles/s41467-021-27278-5.pdf Revisiting silk: a lens-free optical physical unclonable function
+
+https://www.schneier.com/blog/archives/2022/02/finding-vulnerabilities-in-open-source-projects.html
+> https://news.ycombinator.com/item?id=30190904
+
+https://reproducible-builds.org/reports/2022-01/
+> https://diffoscope.org/
+> https://news.ycombinator.com/item?id=30229189
+
+https://lists.apache.org/list?announce@apache.org:2022-2 CVE-2022-23206: Apache Traffic Control: Server-Side Request Forgery in Traffic Ops endpoint POST /user/login/oauth
+
+https://research.nccgroup.com/2022/02/02/testing-infrastructure-as-code-using-dynamic-tooling/
+
+https://www.anvilsecure.com/blog/silly-proof-of-concept-anti-phishing-using-perceptual-hashing-algorithms.html
+> https://www.reddit.com/r/netsec/comments/skdu8o/silly_proof_of_concept_antiphishing_using/
+
+https://madaidans-insecurities.github.io/linux.html
+> https://www.reddit.com/r/netsec/comments/skmvcu/linux_madaidans_insecurities/
+
+https://www.sentinelone.com/labs/firefox-jit-use-after-frees-exploiting-cve-2020-26950/
+
+https://news.ycombinator.com/item?id=30220208
+
+https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-actively-exploited-windows-bug/
+
+https://about.gitlab.com/releases/2022/02/03/security-release-gitlab-14-7-1-released/
+
+https://apiiro.com/blog/malicious-kubernetes-helm-charts-can-be-used-to-steal-sensitive-information-from-argo-cd-deployments/
+
+https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-bugs-in-rv-routers-exploit-code-available/
+
+https://medium.com/tenable-techblog/trendnet-ac2600-rce-via-wan-8926b29908a4
+
+https://www.varonis.com/blog/power-automate-data-exfiltration
+
+https://portswigger.net/daily-swig/snapfuzz-new-fuzzing-tool-speeds-up-testing-of-network-applications
+> https://news.ycombinator.com/item?id=30191854
+
+https://portswigger.net/daily-swig/bittersweet-symfony-devs-accidentally-turn-off-csrf-protection-in-php-framework
+> https://news.ycombinator.com/item?id=30195024
+
+https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html
+
+https://therecord.media/npm-enrolls-top-100-package-maintainers-into-mandatory-2fa/
+> https://github.blog/2021-12-07-enrolling-npm-publishers-enhanced-login-verification-two-factor-authentication-enforcement/
+
+https://www.phpmyadmin.net/security/PMASA-2022-1/ CVE-2022-23807
+
+https://github.com/JPCERTCC/jpcert-yara
+
+https://lists.apache.org/list?announce@apache.org:2022-2 CVE-2021-44451: Apache Superset: API sensitive information leak
+
+https://www.binarly.io/posts/An_In_Depth_Look_at_the_23_High_Impact_Vulnerabilities/index.html 	23 high-impact UEFI vulnerabilities affecting multiple vendors
+> https://news.ycombinator.com/item?id=30179894
+
+https://www.wired.com/story/north-korea-hacker-internet-outage/
+> https://news.ycombinator.com/item?id=30180566
+
 https://blog.ovalerio.net/archives/2346
 
 https://www.djangoproject.com/weblog/2022/feb/01/security-releases/
@@ -58,6 +116,7 @@ https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-
 https://infosec.cert-pa.it/cve-2021-4160.html openssl mips https://en.wikipedia.org/wiki/MIPS_architecture
 
 https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
+> https://blog.aquasec.com/cve-2022-0185-linux-kernel-container-escape-in-kubernetes
 
 https://www.blackarrow.net/adcs-weaponizing-esc7-attack/
 
@@ -1725,6 +1784,8 @@ https://www.theguardian.com/world/2021/jul/18/revealed-leak-uncovers-global-abus
 > https://news.ycombinator.com/item?id=29388927
 > https://www.reuters.com/technology/exclusive-us-state-department-phones-hacked-with-israeli-company-spyware-sources-2021-12-03/
 > > https://news.ycombinator.com/item?id=29432276
+> https://www.reuters.com/technology/exclusive-iphone-flaw-exploited-by-second-israeli-spy-firm-sources-2022-02-03/
+> > https://news.ycombinator.com/item?id=30192743
 
 https://blog.zecops.com/research/meet-wifidemon-ios-wifi-rce-0-day-vulnerability-and-a-zero-click-vulnerability-that-was-silently-patched/
 > https://news.ycombinator.com/item?id=27868487
@@ -1755,6 +1816,7 @@ https://blog.dshr.org/2021/07/a-modest-proposal-about-ransomware.html
 
 https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf
 > https://news.ycombinator.com/item?id=27764806
+> https://news.ycombinator.com/item?id=30231611
 
 https://www.bleepingcomputer.com/news/security/microsoft-365-to-let-secops-lock-hacked-active-directory-accounts/
 
@@ -1942,6 +2004,8 @@ https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bu
 > > https://www.reddit.com/r/netsec/comments/se3k50/oss_pwnkit_detector_cve20214034/
 > https://arstechnica.com/information-technology/2022/01/a-bug-lurking-for-12-years-gives-attackers-root-on-every-major-linux-distro/
 > > https://www.reddit.com/r/programming/comments/sd7xg9/a_bug_lurking_for_12_years_gives_attackers_root/
+> https://lwn.net/SubscriberLink/882799/cb8f313c57c6d8a6/ Handling argc==0 in the kernel
+> > https://news.ycombinator.com/item?id=30190654
 
 https://www.vusec.net/projects/fpvi-scsb/
 

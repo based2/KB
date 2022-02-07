@@ -1,3 +1,8 @@
+https://www.sentinelone.com/labs/moving-from-manual-reverse-engineering-of-uefi-modules-to-dynamic-emulation-of-uefi-firmware/
+
+https://www.righto.com/2022/02/yamaha-dx7-chip-reverse-engineering.html
+> https://news.ycombinator.com/item?id=30209608
+
 https://voidstarsec.com/blog//2022/01/27/uart-uboot-and-usb
 
 https://itnext.io/how-i-reversed-a-nodejs-malware-and-found-the-author-7dd9531b389f

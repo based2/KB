@@ -23,6 +23,12 @@ https://www.nature.com/articles/548150a
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.bu.edu/articles/2019/cerebrospinal-fluid-washing-in-brain-during-sleep/
+> https://news.ycombinator.com/item?id=30222210
+
+https://www.nature.com/articles/s41467-021-27317-1 A low-cost and shielding-free ultra-low-field brain MRI scanner
+> https://news.ycombinator.com/item?id=30208083
+
 https://en.wikipedia.org/wiki/Grid_cell
 
 https://news.mit.edu/2022/where-sound-come-from-model-0127

@@ -31,6 +31,9 @@ https://kvirkvelia.com/ads-plugin-steals-30-of-your-money/
 > https://news.ycombinator.com/item?id=30057955
 
 # News
+https://jmmv.dev/2022/02/diy-web-analytics.html
+> https://news.ycombinator.com/item?id=30170526
+
 https://twitter.com/ArtemR/status/1484228505986469891
 > https://news.ycombinator.com/item?id=30012631
 

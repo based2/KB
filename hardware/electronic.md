@@ -19,6 +19,9 @@ https://pinouts.org/
 https://www.revk.uk/2022/01/kicad-6.html
 > https://news.ycombinator.com/item?id=29823642
 
+https://gusbertianalog.com/power-meter-rf-probe/
+> https://news.ycombinator.com/item?id=30189664
+
 # Microcontroller
 https://github.com/TUDSSL/BFree
 > https://news.ycombinator.com/item?id=29358044

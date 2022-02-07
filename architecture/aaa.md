@@ -171,6 +171,9 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
 # News
+https://htmx.org/essays/hypermedia-driven-applications/
+> https://news.ycombinator.com/item?id=30233221
+
 https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/
 > https://news.ycombinator.com/item?id=30138468
 

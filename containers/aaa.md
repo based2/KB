@@ -36,6 +36,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://blog.getambassador.io/testing-microservices-isolating-requests-not-environments-with-telepresence-f22535789253
+
+https://www.theregister.com/2022/02/03/starlingx_60_takes_openstack_to/
+> https://www.starlingx.io/
+
 https://leaningtech.com/webvm-server-less-x86-virtual-machines-in-the-browser/
 > https://news.ycombinator.com/item?id=30167403
 

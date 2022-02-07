@@ -114,6 +114,10 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://github.com/mermaid-js/mermaid/pull/2655
+
+https://github.com/Tldraw/Tldraw
+
 https://www.onemodel.app/
 > https://news.ycombinator.com/item?id=30165706
 

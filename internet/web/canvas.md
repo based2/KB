@@ -8,3 +8,7 @@ https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Renderi
 > https://news.ycombinator.com/item?id=27129858
 
 https://github.com/goessner/canvas-area
+
+https://pixel.vkoskiv.com/
+> https://news.ycombinator.com/item?id=30167391
+> > https://github.com/EliasHaaralahti/No-Mans-Canvas-Client

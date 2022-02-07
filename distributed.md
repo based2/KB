@@ -89,7 +89,16 @@ https://github.com/honzaap/Systemizer system design tool used to create and simu
 
 https://github.com/anishathalye/porcupine
 
+https://asatarin.github.io/testing-distributed-systems/
+
 # News
+
+https://jepsen.io/analyses/radix-dlt-1.0-beta.35.1
+> https://news.ycombinator.com/item?id=30221187
+
+https://blog.sentry.io/2019/09/17/how-to-get-stronger-consistency-out-of-a-datastore
+> https://news.ycombinator.com/item?id=30186703
+
 http://cthulix.com/preview.html
 > https://news.ycombinator.com/item?id=30098855
 

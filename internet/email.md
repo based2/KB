@@ -35,7 +35,9 @@ https://www.33700.fr/identifier-et-signaler-un-spam-sms/#comment-signaler-spam-s
 https://rspamd.com
 
 https://news.ycombinator.com/item?id=30117388
-> 
+
+https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/
+> https://news.ycombinator.com/item?id=30222736
 
 # Security
 
@@ -105,6 +107,10 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://gizmodo.com/gmail-is-getting-a-new-interface-and-it-s-a-big-improve-1848459370
+
+https://foxcpp.dev/articles/security-and-insecurity-of-email
+
 https://duckduckgo.com/email/faq
 > https://news.ycombinator.com/item?id=30158309
 

@@ -103,6 +103,8 @@ https://tinkeredthinking.com/index.php?id=833
 https://blog.abhi.se/on-impact-effort-prioritization
 > https://news.ycombinator.com/item?id=28979210
 
+https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

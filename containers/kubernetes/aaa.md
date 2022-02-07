@@ -62,6 +62,16 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://github.com/kube-green/kube-green
+> https://news.ycombinator.com/item?id=30235108
+
+https://blog.alexellis.io/primer-accessing-kubernetes-services/
+> https://news.ycombinator.com/item?id=30220291
+
+https://www.heavybit.com/library/podcasts/the-kubelist-podcast/ep-18-submariner-with-miguel-angel-ajo-and-stephen-kitt-of-red-hat/
+
+https://docs.google.com/spreadsheets/d/1RPpyDOLFmcgxMCpABDzrsBYWpPYCIBuvAoUQLwOGoQw/edit#gid=907731238
+
 https://ubuntu.com/blog/smart-agile-mlops-on-any-cloud-canonical-releases-charmed-kubeflow-1-4
 
 https://www.telepresence.io/docs/v1/discussion/how-it-works/

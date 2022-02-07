@@ -10,6 +10,17 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://maxread.substack.com/p/mapping-the-celebrity-nft-complex
+
+https://finbold.com/wormhole-confirms-all-300-million-in-funds-have-been-restored/
+> https://news.ycombinator.com/item?id=30196343
+
+https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/
+> 
+
+https://www.theblockcrypto.com/linked/132841/256-million-in-eth-stolen-from-cross-chain-protocol-wormhole
+> https://news.ycombinator.com/item?id=30184454
+
 https://decrypt.co/91510/looksrare-has-reportedly-generated-8b-ethereum-nft-wash-trading
 
 https://www.reddit.com/r/ethereum/comments/sfz4kw/did_i_just_lose_half_a_million_dollars_by_sending/

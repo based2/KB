@@ -27,3 +27,5 @@ https://www.sequencer64.com/sequencer/session
 https://github.com/bignimbus/trombone.js
 > https://news.ycombinator.com/item?id=27207250
 >  > https://dood.al/pinktrombone/
+
+https://github.com/notthetup/awesome-webaudio
