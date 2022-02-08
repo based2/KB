@@ -22,6 +22,9 @@ http://crpgaddict.blogspot.com/2021/06/brief-everything-we-know-about-1970s.html
 http://www.retroarchive.org/
 > https://news.ycombinator.com/item?id=28019713
 
+https://www.computer.org/csdl/magazine/mi/2021/06/09623441/1yJTuoB0mm4 NEC
+> https://news.ycombinator.com/item?id=30245640
+
 # DEC
 https://madned.substack.com/p/the-enemy-within
 > https://news.ycombinator.com/item?id=27534145

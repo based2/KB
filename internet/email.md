@@ -107,6 +107,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://news.ycombinator.com/item?id=30248203
+
 https://gizmodo.com/gmail-is-getting-a-new-interface-and-it-s-a-big-improve-1848459370
 
 https://foxcpp.dev/articles/security-and-insecurity-of-email

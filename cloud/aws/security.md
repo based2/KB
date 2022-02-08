@@ -12,3 +12,7 @@ https://aws.amazon.com/en/about-aws/whats-new/2022/01/amazon-guardduty-elastic-k
 https://github.com/globaldatanet/aws-firewall-factory
 
 https://github.com/Datadog/stratus-red-team/
+
+# KMS
+
+https://wolfman.dev/posts/aws-kms-for-envelope-encryption/

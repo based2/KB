@@ -69,6 +69,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://wolfman.dev/posts/exclude-use1-az3/ March 10, 2021
+
 https://news.ycombinator.com/item?id=30183465
 
 https://aws.amazon.com/fr/about-aws/whats-new/2022/01/aws-cloud-map-api-ipv6/

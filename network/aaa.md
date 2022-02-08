@@ -95,6 +95,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://www.bitcraze.io/2022/02/using-wireshark-with-the-crazyflie/
+> https://news.ycombinator.com/item?id=30248323
+
 http://imunes.net/
 
 https://rtoch.com/posts/rust-cidr-routing/

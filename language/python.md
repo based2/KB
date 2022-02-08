@@ -90,6 +90,9 @@ https://github.com/beartype/beartype
 https://github.com/samuelcolvin/pydantic Data validation and settings management using Python type hints
 > https://news.ycombinator.com/item?id=30040961
 
+https://pypi.org/project/koda/
+> https://news.ycombinator.com/item?id=30247325
+
 # Security
 https://pypi.org/project/pip-audit/
 

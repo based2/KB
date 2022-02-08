@@ -142,6 +142,9 @@ https://www.charlesbrooks.info/architecture-in-music
 
 https://ianthehenry.com/posts/binary-instrument/
 
+https://fretastic.com/guitar
+> https://news.ycombinator.com/item?id=30250777
+
 # News
 https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/
 > https://news.ycombinator.com/item?id=29450415

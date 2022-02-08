@@ -11,6 +11,9 @@ https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messa
 > https://news.ycombinator.com/item?id=27587911
 
 # News
+https://signal.org/blog/change-number/
+> https://news.ycombinator.com/item?id=30250215
+
 https://blog.lewman.com/internet-messaging-versus-congested-network.html
 > https://news.ycombinator.com/item?id=30220207
 

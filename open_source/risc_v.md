@@ -46,6 +46,8 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://riscv.org/whats-new/2022/02/intel-corporation-makes-deep-investment-in-risc-v-community-to-accelerate-innovation-in-open-computing/
+
 https://drewdevault.com/2022/01/15/2022-01-15-The-RISC-V-experience.html
 
 https://www.curseforge.com/minecraft/mc-mods/oc2?t=kCSXxSMmvEldLgPycfMRkg&s=09

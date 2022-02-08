@@ -122,6 +122,8 @@ https://en.wikipedia.org/wiki/Badlock Windows Samba
 
 https://en.wikipedia.org/wiki/DROWN_attack TLS RSA
 
+https://en.wikipedia.org/wiki/Mirai_(malware)
+
 ## 2015
 https://en.wikipedia.org/wiki/Row_hammer
 
@@ -183,6 +185,9 @@ https://www.win.tue.nl/hashclash/rogue-ca/ MD5
 
 ## 2007
 https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia
+
+## 2005
+https://en.wikipedia.org/wiki/HTTP_request_smuggling
 
 ## 2004
 https://en.wikipedia.org/wiki/Bluesnarfing

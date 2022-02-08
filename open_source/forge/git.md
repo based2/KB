@@ -30,3 +30,5 @@ https://sourcehut.org/blog/2021-03-15-whats-cooking-march-2021/
 #
 http://gitlet.maryrosecook.com/docs/gitlet.html
 > https://news.ycombinator.com/item?id=26787376
+
+https://blog.gitea.io/2022/02/gitea-1.16.0-and-1.16.1-released/

@@ -42,6 +42,9 @@ https://github.com/casualsnek/cassowary run a Windows virtual machine and use Wi
 > https://news.ycombinator.com/item?id=30214762
 
 # News
+https://changelog.complete.org/archives/10338-kde-a-nice-tiling-envieonment-and-a-surprisingly-awesome-de
+> https://news.ycombinator.com/item?id=30251867
+
 https://www.dedoimedo.com/computers/plasma-look-like-ubuntu-gnome.html
 
 https://medium.com/@fulalas/gnome-linux-a-complete-disaster-feb27b13a5c2

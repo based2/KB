@@ -247,6 +247,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://deepmind.com/research/publications/2022/Red-Teaming-Language-Models-with-Language-Models
+
+https://people.idsia.ch/~juergen/
+> https://news.ycombinator.com/item?id=30250395
+
 https://news.cornell.edu/stories/2019/09/professors-perceptron-paved-way-ai-60-years-too-soon
 > https://news.ycombinator.com/item?id=30236123
 

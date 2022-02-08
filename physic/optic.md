@@ -49,3 +49,5 @@ https://www.designfax.net/cms/dfx/opens/article-view-dfx.php?nid=4&bid=1189&et=f
 https://compoundsemiconductor.net/article/114145/Infrared_laser_spectroscopy_at_your_fingertips/technical
 > https://news.ycombinator.com/item?id=30191092
 
+https://github.com/jhdewitt/sltk Structured Light Took Kit
+

@@ -74,6 +74,8 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://eed3si9n.com/simplifying-sbt-with-common-settings/
+
 https://eed3si9n.com/sbt-1.6.2
 
 https://medium.com/disney-streaming/this-week-in-scala-jan-24-2022-fb4d45ff591f

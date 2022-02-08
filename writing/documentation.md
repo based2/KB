@@ -6,6 +6,9 @@ https://news.ycombinator.com/item?id=26002656
 https://www.apress.com/gp/book/9781484272169
 > https://news.ycombinator.com/item?id=28948131
 
+https://brandur.org/nanoglyphs/031-api-docs
+> https://news.ycombinator.com/item?id=30248702
+
 # AsciiDoc
 
 https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/

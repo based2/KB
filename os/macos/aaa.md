@@ -62,6 +62,9 @@ https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release
 https://developer.apple.com/support/unlisted-app-distribution/
 
 # M1
+https://eclecticlight.co/2022/02/07/when-an-m1-mac-mini-is-faster-than-an-m1-pro-contention-and-core-allocation/
+> https://news.ycombinator.com/item?id=30242509
+
 https://eclecticlight.co/2022/01/03/power-frequency-management-how-m1-e-cores-win/
 > https://news.ycombinator.com/item?id=29778990
 
@@ -138,6 +141,9 @@ https://authzed.com/blog/onboarding-with-an-m1/
 > https://news.ycombinator.com/item?id=26843228
 
 # Apple
+https://sixcolors.com/post/2022/02/apple-in-2021-the-six-colors-report-card/
+> https://news.ycombinator.com/item?id=30248161
+
 https://developer.apple.com/news/?id=mdkbobfo Account deletion within apps required starting January 31
 > https://news.ycombinator.com/item?id=28776960
 

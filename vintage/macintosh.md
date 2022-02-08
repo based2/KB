@@ -82,6 +82,9 @@ http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/2
 https://news.ycombinator.com/item?id=27409410
 
 #
+https://jcs.org/amend versioning
+> https://news.ycombinator.com/item?id=30242645
+
 https://blog.gingerbeardman.com/2021/12/16/tomoya-ikeda-macintosh-artist/
 > https://news.ycombinator.com/item?id=29594549
 

@@ -332,6 +332,17 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 https://dtolnay.github.io/rust-quiz/33
 
 # News
+https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch
+> https://news.ycombinator.com/item?id=30253426
+
+https://github.com/it4innovations/rsds Rust Dask Scheduler
+
+https://github.com/it4innovations/hyperqueue computation plan
+
+https://sixtyfps.io/thisweek/2022-02-07.html
+
+https://tinkering.xyz/fmo-optimization-story/
+
 https://old.reddit.com/r/rust/comments/seb0ex/green_threads_explained_in_200_lines_of_rust/
 
 https://blog.adacore.com/adacore-and-ferrous-systems-joining-forces-to-support-rust

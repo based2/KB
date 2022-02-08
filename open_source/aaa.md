@@ -188,6 +188,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://ritwikgupta.me/dod-opportunities-for-open-source-software/
+> https://news.ycombinator.com/item?id=30247420
+
 https://fosdem.org/2022/live/
 > https://news.ycombinator.com/item?id=30220443
 

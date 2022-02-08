@@ -1,6 +1,8 @@
 https://en.wikipedia.org/wiki/Known-plaintext_attack
 > https://news.ycombinator.com/item?id=27327659
 
+https://www.bearssl.org/constanttime.html
+
 https://falcon-sign.info/
 
 https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html

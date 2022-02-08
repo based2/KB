@@ -22,6 +22,9 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://www.tines.com/blog/my-thirty-years-of-dodging-repetitive-work-with-automation-tools
+> https://news.ycombinator.com/item?id=30249518
+
 https://rakgarg.substack.com/p/servicethen-servicenow-servicetomorrow
 
 https://github.com/liamg/peridot Developer machine management for Linux/OSX. Think Terraform for your dotfiles.

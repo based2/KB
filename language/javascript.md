@@ -44,6 +44,9 @@ https://hezedu.github.io/history-navigation-vue/
 https://matthewc.dev/blog/webdev/vuex-sync-part-1/
 > https://news.ycombinator.com/item?id=29476054
 
+https://blog.vuejs.org/posts/vue-3-as-the-new-default.html
+> https://news.ycombinator.com/item?id=30251115
+
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 
@@ -349,6 +352,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/neutralinojs/neutralinojs
+> https://news.ycombinator.com/item?id=30240936
+
 https://github.com/mybigday/react-native-global-keyevent
 
 https://github.com/mq2thez/blog/blob/main/upgrade-react-etsy/preact-vs-react.md

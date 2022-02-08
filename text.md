@@ -109,6 +109,11 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://www.revk.uk/2022/02/crlf-has-long-history.html
+> https://news.ycombinator.com/item?id=30253968
+
+https://arxiv.org/abs/2202.00848 Some Reflections on Drawing Causal Inference using Textual Data: Parallels Between Human Subjects and Organized Texts
+
 https://drewdevault.com/2022/01/28/Implementing-mime-in-xxxx.html
 
 https://github.com/Uzay-G/espial/blob/main/ARCHITECTURE.md

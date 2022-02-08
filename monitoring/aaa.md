@@ -71,6 +71,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://www.ververica.com/blog/monitoring-apache-flink-applications-101
+
 https://ganeshvernekar.com/blog/prometheus-tsdb-the-head-block/
 
 https://grafana.com/blog/2022/02/02/announcing-grafana-incident-smart-incident-management-for-your-teams/

@@ -1,3 +1,19 @@
+https://www.reddit.com/r/sysadmin/comments/smp29t/security_cadence_nbns_and_wpad/
+
+https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/
+
+https://www.youtube.com/watch?v=sI6YS9a7Qyg HTTP/2: The Sequel is Always Worse
+
+https://lists.apache.org/list?announce@apache.org:2022-2 CVE-2022-22931: Path traversal in Apache James
+
+https://llsoftsec.github.io/llsoftsecbook/
+> https://github.com/llsoftsec/llsoftsecbook
+
+https://web.dev/http-cache-security/
+
+https://www.offensivecon.org/speakers/2022/maxim-goryachy.html
+> https://news.ycombinator.com/item?id=30242495
+
 https://www.nature.com/articles/s41467-021-27278-5.pdf Revisiting silk: a lens-free optical physical unclonable function
 
 https://www.schneier.com/blog/archives/2022/02/finding-vulnerabilities-in-open-source-projects.html

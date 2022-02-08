@@ -125,6 +125,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://webkit.org/blog/12209/introducing-the-dialog-element/
+
 https://www.scottohara.me/blog/2022/01/20/divisive.html
 
 https://blog.scottlogic.com/2022/01/20/noJS-making-a-calculator-in-pure-css-html.html

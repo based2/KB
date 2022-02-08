@@ -68,6 +68,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://127001.me/post/ten-years-of-thinkpadding/
+> https://news.ycombinator.com/item?id=30241960
+
 https://www.stiftung-nv.de/en/publication/understanding-global-chip-shortages
 > https://news.ycombinator.com/item?id=30228178
 

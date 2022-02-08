@@ -50,6 +50,9 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://www.hetzner.com/news/02-22-storage
+>
+
 https://hacks.mozilla.org/2022/02/retrospective-and-technical-details-on-the-recent-firefox-outage/
 > https://news.ycombinator.com/item?id=30175344
 
