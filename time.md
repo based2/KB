@@ -51,7 +51,6 @@ https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/
 
 https://www.masswerk.at/tzintl/
 
-
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 
@@ -194,6 +193,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://zachholman.com/posts/kobayashi-maru-of-comparing-dates-with-times
+> https://news.ycombinator.com/item?id=30315984
+
 https://www.esa.int/Enabling_Support/Operations/ESA_determines_new_space_time
 
 https://www.scientificamerican.com/article/how-measuring-time-shaped-history/

@@ -11,3 +11,6 @@ https://jakearchibald.com/2021/cors/
 
 https://nickolinger.com/blog/2021-08-04-you-dont-need-that-cors-request/
 > https://news.ycombinator.com/item?id=29777145
+
+https://nikofischer.com/cors-does-not-secure-api-endpoints
+> https://news.ycombinator.com/item?id=30320113

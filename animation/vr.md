@@ -1,3 +1,6 @@
+https://shop.simulavr.com/
+> https://news.ycombinator.com/item?id=30318094
+
 https://github.com/yshui/picom-xrdesktop-companion/
 
 https://kguttag.com/2022/01/31/magic-leap-2-at-spie-ar-vr-mr-2022/

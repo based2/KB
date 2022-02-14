@@ -146,6 +146,9 @@ https://fretastic.com/guitar
 > https://news.ycombinator.com/item?id=30250777
 
 # News
+https://flujoo.github.io/en/my-approach-to-automatic-musical-composition/
+> https://news.ycombinator.com/item?id=30321645
+
 https://pointersgonewild.com/2021/12/05/noisecraft-a-browser-based-visual-programming-language-for-sound-music/
 > https://news.ycombinator.com/item?id=29450415
 

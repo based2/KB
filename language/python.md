@@ -71,6 +71,9 @@ https://realpython.com/brython-python-in-browser/
 https://github.com/se2p/pynguin
 > https://news.ycombinator.com/item?id=27350264
 
+https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html
+> https://news.ycombinator.com/item?id=30301880
+
 # Package
 https://antonz.org/python-packaging/
 > https://news.ycombinator.com/item?id=26733423
@@ -198,6 +201,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://theorangeduck.com/page/tracing-functions-python
+> https://news.ycombinator.com/item?id=30287721
+
 https://beeware.org/
 > https://news.ycombinator.com/item?id=30190717
 

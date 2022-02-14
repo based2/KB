@@ -87,6 +87,11 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+https://aimath.org/textbooks/
+
+https://venhance.github.io/napkin/Napkin.pdf
+> https://news.ycombinator.com/item?id=30302291
+
 http://reprints.gravitywaves.com/VIP/ViewExtraSpaceDims/Noll-1967_AComputerTechniqueForDisplayingNDimensionalHyperObjects.pdf
 > https://news.ycombinator.com/item?id=30205656
 

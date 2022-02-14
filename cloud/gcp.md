@@ -18,6 +18,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://github.com/openreplay/openreplay/issues/311
+> https://news.ycombinator.com/item?id=30267628
+
 https://cloud.google.com/blog/products/devops-sre/google-cloud-deploy-now-ga
 
 https://cloud.google.com/solutions/federal-government/defense

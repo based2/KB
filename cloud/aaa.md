@@ -50,6 +50,8 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://danielsada.tech/blog/cloud-services-dos/
+
 https://www.hetzner.com/news/02-22-storage
 >
 

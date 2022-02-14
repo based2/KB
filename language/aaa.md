@@ -170,6 +170,9 @@ https://digitalenvironment.org/exciting-recent-developments-for-fortran-coders/
 https://bashny.net/t/en/34007 Encyclopedia professor Fortran
 > https://news.ycombinator.com/item?id=30127523
 
+https://craftofcoding.wordpress.com/2022/02/11/what-fortran-does-better-than-c-like-languages/
+> https://news.ycombinator.com/item?id=30314189
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100
@@ -232,11 +235,22 @@ https://www.grammarly.com/blog/engineering/running-lisp-in-production/
 https://blog.veitheller.de/Building_Setf.html
 
 # News
+https://brevzin.github.io/c++/2022/02/06/output-iterators/
+
+https://gankra.github.io/blah/deinitialize-me-maybe/
+
+https://www.gimtec.io/articles/ebnf/
+
+https://pointersgonewild.com/2022/02/11/code-that-doesnt-rot/
+> https://news.ycombinator.com/item?id=30302551
+
+https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207
+> https://news.ycombinator.com/item?id=30306310
+
 https://www.morling.dev/blog/whats-in-a-good-error-message/
 > https://news.ycombinator.com/item?id=30234572
 
 https://github.com/nim-works/cps/tree/master/docs
->
 
 https://github.com/Kindelia/HVM High-order Virtual Machine, Massively parallel, optimal functional runtime
 > https://news.ycombinator.com/item?id=30219452

@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://newatlas.com/energy/rare-form-sulfur-lithium-ion-battery-triple-capacity/
+> https://news.ycombinator.com/item?id=30301408
+
 https://cleantechnica.com/2022/01/17/the-solid-state-energy-storage-dam-is-about-to-bust-wide-open/
 
 https://www.torquenews.com/15975/battery-breakthrough-provides-five-times-driving-range-lithium-ion-lower-price

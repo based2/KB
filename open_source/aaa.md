@@ -188,6 +188,10 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://sourceware.org/pipermail/binutils/2022-February/119721.html
+
+https://www.i-programmer.info/news/149-security/15210-european-union-will-pay-for-finding-bugs-in-open-source-software.html
+
 https://ritwikgupta.me/dod-opportunities-for-open-source-software/
 > https://news.ycombinator.com/item?id=30247420
 

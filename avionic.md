@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://ysflight.org/
+> https://news.ycombinator.com/item?id=30299850
+
 https://www.protocol.com/elon-musk-flight-tracker
 
 https://onemileatatime.com/news/emirates-terrifying-boeing-777-flight-washington/

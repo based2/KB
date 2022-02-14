@@ -57,3 +57,6 @@ https://twobithistory.org/2020/06/28/rest.html
 > https://news.ycombinator.com/item?id=29009729
 
 https://ondro.inginea.eu/index.php/portable-cdi-injection-into-jax-rs-sub-resources/
+
+https://r7rsindex.com/
+> https://news.ycombinator.com/item?id=30272007

@@ -25,3 +25,6 @@ https://ssbc.github.io/scuttlebutt-protocol-guide/
 
 https://datatracker.ietf.org/doc/html/rfc2229 DICT
 > https://news.ycombinator.com/item?id=29858520
+
+https://signal.org/blog/the-ecosystem-is-moving/
+> https://news.ycombinator.com/item?id=30314454

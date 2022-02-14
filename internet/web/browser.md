@@ -30,6 +30,10 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://hacks.mozilla.org/2022/02/improving-the-storage-access-api-in-firefox/
+
+https://news.ycombinator.com/item?id=30271989
+
 https://www.mozilla.org/en-US/firefox/97.0/releasenotes/
 > https://www.mozilla.org/en-US/firefox/97.0/releasenotes/
 

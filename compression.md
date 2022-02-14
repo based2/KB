@@ -35,6 +35,8 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world
+
 https://github.com/ilyakurdyukov/crzy64
 > https://news.ycombinator.com/item?id=29637986
 

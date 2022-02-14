@@ -110,6 +110,9 @@ https://graphics.stanford.edu/~seander/bithacks.html
 https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performance-jchampionsconf
 > https://news.ycombinator.com/item?id=30013763
 
+https://tinkering.xyz/fmo-optimization-story/
+> https://news.ycombinator.com/item?id=30301324
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

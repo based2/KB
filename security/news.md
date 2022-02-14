@@ -1,3 +1,64 @@
+https://www.linuxfoundation.org/webinars/introduction-to-project-alpha-omega/
+
+https://www.bleepingcomputer.com/news/security/cisa-urges-orgs-to-patch-actively-exploited-windows-serioussam-bug/
+
+https://www.blackarrow.net/ad-cs-from-manageca-to-rce/
+
+https://jdbc.postgresql.org/documentation/changelog.html#version_42.3.2
+
+https://support.apple.com/en-us/HT213093 
+
+https://fosdem.org/2022/schedule/event/ada_sparknacl/ SPARKNaCl
+> https://news.ycombinator.com/item?id=30320801
+
+https://medium.com/cider-sec/ppe-poisoned-pipeline-execution-34f4e8d0d4e9
+> https://www.reddit.com/r/netsec/comments/snoiys/ppe_poisoned_pipeline_execution_running_malicious/ 
+
+https://cryptoadventure.com/white-hat-hacker-awarded-2-million-for-fixing-eth-creation-bug/
+> https://news.ycombinator.com/item?id=30321347
+
+https://github.com/netblue30/firejail/issues/4780 private-cwd leaks access to the entire filesystem
+> https://www.reddit.com/r/netsec/comments/sp66km/firejail_oopsie/
+
+https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81
+> https://www.reddit.com/r/netsec/comments/snu42f/spoolfool_windows_print_spooler_privilege/
+
+https://djalal.opendz.org/post/ebpf-block-linux-fileless-payload-execution-with-bpf-lsm/
+
+https://www.theregister.com/2022/02/10/modifiedelephant_evidence_malware/
+
+https://www.schneier.com/blog/archives/2022/02/breaking-245-bit-elliptic-curve-encryption-with-a-quantum-computer.html
+> https://news.ycombinator.com/item?id=30272059
+
+https://arstechnica.com/information-technology/2022/02/after-lying-low-ssh-botnet-mushrooms-and-is-harder-than-ever-to-take-down/
+> https://news.ycombinator.com/item?id=30298693
+
+https://yurichev.com/news/20220210_RSA/
+> https://news.ycombinator.com/item?id=30287042
+
+https://soatok.blog/2022/02/09/using-rsa-securely-in-2022/
+
+https://portswigger.net/research/top-10-web-hacking-techniques-of-2021
+> https://news.ycombinator.com/item?id=30284022
+
+https://twitter.com/EdgeSecurity/status/1491128272276664328 Safer entropy accumulation in Linux 5.18's RNG
+> https://news.ycombinator.com/item?id=30273964
+
+https://blog.fleetdm.com/apply-byod-to-soothe-supply-chain-pain-767672f47776
+> https://news.ycombinator.com/item?id=30304603
+
+https://www.openwall.com/lists/oss-security/2022/02/10/1 CVE-2022-0435: Remote Stack Overflow in Linux Kernel TIPC Module - must be loaded in order to be exploited
+> https://news.ycombinator.com/item?id=30304238
+
+https://intellisec.de/research/lasershark/
+> https://news.ycombinator.com/item?id=30304161
+
+https://nns.ee/blog/2021/04/03/modem-rce.html
+> https://news.ycombinator.com/item?id=30301240
+
+https://googleprojectzero.blogspot.com/2022/02/a-walk-through-project-zero-metrics.html
+> https://news.ycombinator.com/item?id=30289206
+
 https://www.reddit.com/r/sysadmin/comments/smp29t/security_cadence_nbns_and_wpad/
 
 https://pberba.github.io/security/2022/02/07/linux-threat-hunting-for-persistence-systemd-generators/

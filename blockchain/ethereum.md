@@ -10,6 +10,12 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://twitter.com/thomasg_eth/status/1492663192404779013
+> https://news.ycombinator.com/item?id=30322715
+
+https://www.saurik.com/optimism.html
+> 
+
 https://maxread.substack.com/p/mapping-the-celebrity-nft-complex
 
 https://finbold.com/wormhole-confirms-all-300-million-in-funds-have-been-restored/

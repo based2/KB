@@ -153,6 +153,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 > > https://code.visualstudio.com/docs/remote/remote-overview
 > > https://www.maconlinux.net/
 
+https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
+
 # News
 https://alinpanaitiu.com/blog/over-500nits-failed/
 

@@ -51,7 +51,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
 
 https://www.nayuki.io/page/practical-guide-to-xhtml
 
-# WYSIWYG
+# Rich Text Editors - WYSIWYG
 https://codemirror.net/
 > https://prosemirror.net/
 
@@ -78,6 +78,9 @@ https://web.archive.org/web/20140310190221/http://www.sewingandembroiderywarehou
 
 https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/
 > https://news.ycombinator.com/item?id=28107364
+
+https://www.ashbyhq.com/blog/company/tiptap-part-1
+> https://news.ycombinator.com/item?id=30299800
 
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model

@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.edgedb.com/blog/edgedb-1-0
+> https://news.ycombinator.com/item?id=30290225
+
 https://www.manuelrigger.at/preprints/TLP.pdf Finding Bugs in Database Systems via Query Partitioning
 
 https://www.brentozar.com/archive/2020/11/when-do-i-need-to-use-desc-in-indexes/

@@ -6,6 +6,7 @@ https://suricrasia.online/unfiction/basilisk/ Partial hash inversions of the SHA
 
 https://sha256algorithm.com/
 > https://news.ycombinator.com/item?id=30244534
+> https://www.reddit.com/r/netsec/comments/smrdri/sha256_explained_stepbystep_visually/
 
 # Dataset
 https://hashlookup.circl.lu/ Public API to lookup hash values against known database of files

@@ -25,6 +25,8 @@ https://github.com/quay/clair Red Hat
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
 # News
+https://github.com/cyberark/kubesploit
+
 https://security.googleblog.com/2021/12/exploring-container-security-storage.html
 
 https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF

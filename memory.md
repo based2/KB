@@ -23,3 +23,6 @@ https://daniel.haxx.se/blog/2017/04/22/fewer-mallocs-in-curl/
 > https://news.ycombinator.com/item?id=30085113
 
 https://stackoverflow.com/questions/8469427/how-and-when-to-align-to-cache-line-size
+
+https://preshing.com/20120930/weak-vs-strong-memory-models/
+> https://news.ycombinator.com/item?id=30303003

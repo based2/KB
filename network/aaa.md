@@ -95,6 +95,27 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://smaller.fish/posts/asus
+> https://news.ycombinator.com/item?id=30321112
+
+https://www.digikey.com/en/blog/single-pair-ethernet-spe
+> https://news.ycombinator.com/item?id=30318559
+
+https://ieeexplore.ieee.org/document/6814739 Liberouter: Towards autonomous neighborhood networking
+> https://news.ycombinator.com/item?id=30316585
+
+https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/
+> https://news.ycombinator.com/item?id=30323865
+
+https://nanorfe.com/nanovna-v2.html
+> https://news.ycombinator.com/item?id=30312241
+
+https://www.sprezzatech.com/blog/0009-a-disquisition-into-the-sadly-slovenly-takeup-of-10gbase-t.html
+> https://news.ycombinator.com/item?id=30315790
+
+https://arxiv.org/abs/2112.13896 Two Sparsities Are Better Than One: Unlocking the Performance Benefits of Sparse-Sparse Networks
+> https://news.ycombinator.com/item?id=30302469
+
 https://www.bitcraze.io/2022/02/using-wireshark-with-the-crazyflie/
 > https://news.ycombinator.com/item?id=30248323
 

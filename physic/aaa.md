@@ -60,6 +60,8 @@ https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220
 > https://news.ycombinator.com/item?id=30209131
 
 # News
+https://lithub.com/how-einstein-arrived-at-his-theory-of-general-relativity/
+
 https://phys.org/news/2022-02-quantum-friction-carbon-nanotubes-long-standing.html
 >
 

@@ -37,6 +37,9 @@ https://www.infoq.com/fr/news/2020/04/tls-alpn-java8/
 https://www.pixelstech.net/article/1603539831-Generate-signed-certificate-from-CSR-in-Java
 
 # News
+https://github.com/andy-goryachev/MemSafeCrypto
+> https://news.ycombinator.com/item?id=30305379
+
 https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html
 > https://news.ycombinator.com/item?id=27064800
 https://blogs.apache.org/netbeans/entry/jep-411-deprecate-the-security

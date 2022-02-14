@@ -59,6 +59,12 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://news.ycombinator.com/item?id=30323131 Ask HN: Tools to visualize data in SQL databases?
+> 
+
+https://docs.planetscale.com/learn/operating-without-foreign-key-constraints
+> https://news.ycombinator.com/item?id=30265236
+
 https://blog.jooq.org/approximating-e-with-sql/
 
 https://www.mcjones.org/System_R/SQL_Reunion_95/sqlr95.html

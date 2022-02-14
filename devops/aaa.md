@@ -104,6 +104,8 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://oshea.io/all-posts/work-backwards-from-a-feature-announcement
+
 https://full-stack.blend.com/how-we-write-github-actions-in-go.html
 > https://news.ycombinator.com/item?id=30247675
 

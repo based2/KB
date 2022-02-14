@@ -331,7 +331,24 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 # Quiz
 https://dtolnay.github.io/rust-quiz/33
 
+# History
+https://twitter.com/graydon_pub/status/1492634815748739077
+> https://news.ycombinator.com/item?id=30321747
+
 # News
+https://kerkour.com/shellcode-in-rust/
+> https://news.ycombinator.com/item?id=30321305
+
+https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/
+
+https://aws.amazon.com/en/blogs/opensource/sustainability-with-rust/
+
+https://rome.tools/blog/2022/02/08/rome-formatter-and-rust-update
+> https://news.ycombinator.com/item?id=30272671
+
+https://slint-ui.com/blog/sixtyfps-becomes-slint.html
+> https://news.ycombinator.com/item?id=30298534
+
 https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch
 > https://news.ycombinator.com/item?id=30253426
 

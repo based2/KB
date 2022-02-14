@@ -84,6 +84,10 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://borud.no/notes/2022/godoc/ Go annoyances
+
+https://felixge.de/2022/02/11/connecting-go-profiling-with-tracing/
+
 https://www.reddit.com/r/golang/comments/sl5co2/getting_started_with_generics_in_go_video/
 
 https://pace.dev/blog/2018/05/09/how-I-write-http-services-after-eight-years.html

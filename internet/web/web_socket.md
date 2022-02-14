@@ -16,6 +16,9 @@ https://stackoverflow.blog/2019/12/18/websockets-for-fun-and-profit/
     
 SSE
 
+https://germano.dev/sse-websockets/
+> https://news.ycombinator.com/item?id=30312897
+
 https://making.close.com/posts/reliable-websockets/
 > https://news.ycombinator.com/item?id=29026740
 

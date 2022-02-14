@@ -247,6 +247,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://koki0702.github.io/dezero-book/en/index.html
+> https://news.ycombinator.com/item?id=30318759
+
 https://deepmind.com/research/publications/2022/Red-Teaming-Language-Models-with-Language-Models
 
 https://people.idsia.ch/~juergen/

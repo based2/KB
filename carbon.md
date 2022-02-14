@@ -55,6 +55,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://en.wikipedia.org/wiki/Covalent_organic_framework
+
 https://euobserver.com/climate/154245
 > https://news.ycombinator.com/item?id=30230429
 > > https://www.eca.europa.eu/Lists/ECADocuments/INRW22_01/INRW_Energy_taxation_EN.pdf

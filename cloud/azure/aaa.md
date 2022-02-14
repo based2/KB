@@ -6,6 +6,9 @@ https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-
 https://github.com/jsa2/aad-auth-n-z
 
 # News
+https://www.microsoft.com/en-us/microsoft-365/blog/2021/08/19/new-pricing-for-microsoft-365/
+> https://www.reddit.com/r/msp/comments/qhqiaa/feedback_on_the_new_commerce_nce_for_microsoft_365/
+
 https://blog.mastykarz.nl/redirect-custom-login-page-securing-angular-app-msal/
 > https://news.ycombinator.com/item?id=30161614
 

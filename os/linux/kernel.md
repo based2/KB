@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.linaro.org/blog/how-linaro-builds-boots-and-tests-over-a-million-linux-kernels-per-year/
+
 https://gitlab.com/illwieckz/i-love-compute opencl
 > https://linuxfr.org/news/opencl-sous-linux-l-etat-des-pilotes-amd-est-desormais-pire-que-ce-qu-il-etait-a-l-epoque-de-fglrx
 

@@ -88,6 +88,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+http://ronja.twibright.com/about.php
+
 https://twitter.com/VodafoneUK/status/1490239576543309825
 > https://news.ycombinator.com/item?id=30231514
 

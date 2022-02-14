@@ -56,6 +56,12 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://cunderwood.dev/2022/02/13/consent-gdpr-and-google-analytics/
+> 
+
+https://www.cnil.fr/en/use-google-analytics-and-data-transfers-united-states-cnil-orders-website-manageroperator-comply
+> https://news.ycombinator.com/item?id=30284372
+
 https://www.iccl.ie/news/gdpr-enforcer-rules-that-iab-europes-consent-popups-are-unlawful/
 > https://news.ycombinator.com/item?id=30176712
 

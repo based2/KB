@@ -111,6 +111,10 @@ https://joseph8th.github.io/posts/wow-writing-literate-api-documentation-in-emac
 
 https://systemcrafters.net/emacs-from-scratch/basics-of-emacs-configuration/
 
+https://ianyepan.github.io/posts/emacs-ide/
+
+https://emacsninja.com/posts/forbidden-emacs-lisp-knowledge-block-comments.html
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

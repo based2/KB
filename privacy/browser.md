@@ -9,6 +9,15 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://github.com/gorhill/uBlock/releases/tag/1.41.0
+> https://news.ycombinator.com/item?id=30287172
+
+https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/
+> https://news.ycombinator.com/item?id=30305770
+
+https://www.xda-developers.com/mozilla-meta-interoperable-private-attribution/
+> https://news.ycombinator.com/item?id=30306904
+
 https://noscriptfingerprint.com/
 > https://news.ycombinator.com/item?id=30237846
 

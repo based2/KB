@@ -85,6 +85,8 @@ https://www.percona.com/blog/improve-postgresql-query-performance-insights-with-
 
 https://brandur.org/idempotency-keys
 
+https://www.pgmustard.com/
+
 ### Debug
 https://iamsafts.com/posts/postgres-gin-performance/
 > https://news.ycombinator.com/item?id=27152507
@@ -228,6 +230,27 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://blog.yugabyte.com/postgresql-timestamps-timezones/
+> https://news.ycombinator.com/item?id=30318751
+
+https://www.citusdata.com/blog/2018/02/22/seven-tips-for-dealing-with-postgres-locks/
+> https://news.ycombinator.com/item?id=30316653
+
+https://github.com/levkk/pgcat Show HN: PgCat, Postgres pooler with sharding, load balancing and failover
+> https://news.ycombinator.com/item?id=30267539
+
+https://datastation.multiprocess.io/blog/2022-02-08-the-world-of-postgresql-wire-compatibility.html
+> https://news.ycombinator.com/item?id=30284538
+
+https://ketansingh.me/posts/how-postgres-stores-rows/
+> https://news.ycombinator.com/item?id=30279986
+
+https://wiki.postgresql.org/wiki/Don%27t_Do_This
+> https://news.ycombinator.com/item?id=30298736
+
+https://ardentperf.com/2022/02/10/a-hairy-postgresql-incident/
+> https://news.ycombinator.com/item?id=30296490
+
 https://www.depesz.com/2022/02/06/waiting-for-postgresql-15-add-unique-null-treatment-option/
 
 https://www.splitgraph.com/blog/postgresql-fdw-aggregation-pushdown-multicorn-part-1

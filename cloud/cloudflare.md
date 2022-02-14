@@ -1,3 +1,5 @@
+https://blog.cloudflare.com/email-routing-open-beta/
+
 https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects
 > https://news.ycombinator.com/item?id=30072997
 

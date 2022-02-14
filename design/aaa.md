@@ -75,3 +75,6 @@ https://linear.app/blog/settings-are-not-a-design-failure
 
 https://furbo.org/2022/01/11/consistency-sin/
 > https://news.ycombinator.com/item?id=30030248
+
+https://ralphammer.com/make-me-think/
+> https://news.ycombinator.com/item?id=30269350

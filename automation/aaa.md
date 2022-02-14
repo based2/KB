@@ -22,6 +22,15 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+http://sikulix.com/
+> https://github.com/RaiMan/SikuliX1
+
+https://danielsada.tech/blog/programs-that-have-saved-hn-100hours/
+> https://news.ycombinator.com/item?id=30315280
+
+https://github.com/run-x/opta
+>
+
 https://www.tines.com/blog/my-thirty-years-of-dodging-repetitive-work-with-automation-tools
 > https://news.ycombinator.com/item?id=30249518
 

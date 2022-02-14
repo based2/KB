@@ -20,3 +20,6 @@ https://www.infoq.com/news/2022/01/whats-new-in-microprofile-5/
 
 https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime
 > https://news.ycombinator.com/item?id=30082661
+
+https://medium.com/codex/spring-boot-microservices-coding-style-guidelines-and-best-practices-1dec229161c8
+> https://www.reddit.com/r/java/comments/sos5x1/spring_boot_microservices_coding_style_guidelines/

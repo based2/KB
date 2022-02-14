@@ -1,4 +1,7 @@
 # News
+https://etbe.coker.com.au/2022/01/16/ssd-endurance/
+> https://news.ycombinator.com/item?id=30275139
+
 https://blog.benjojo.co.uk/post/lto-tape-backups-for-linux-nerds
 > https://news.ycombinator.com/item?id=30099540
 

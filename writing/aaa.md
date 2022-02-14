@@ -44,6 +44,9 @@ https://hudsonreview.com/2022/01/on-writing-an-abecedarian/#.YfHUbPvMJHV
 https://www.markpollard.net/how-to-explain-an-idea/
 > https://news.ycombinator.com/item?id=30160113
 
+http://paulgraham.com/words.html
+> https://news.ycombinator.com/item?id=30313438
+
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?
 

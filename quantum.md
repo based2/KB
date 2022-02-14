@@ -34,6 +34,11 @@ https://iai.tv/articles/quantum-mechanics-and-our-part-in-creating-reality-auid-
 https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-optical-quantum-computing-approach/
 
 # News
+https://news.uchicago.edu/story/uchicago-scientists-create-strange-quantum-domain-walls-laboratory
+> https://news.ycombinator.com/item?id=30303831
+
+https://www.scientificamerican.com/article/when-it-comes-to-photosynthesis-plants-perform-quantum-computation/
+
 https://iop.uva.nl/content/news/2022/01/a-new-method-for-quantum-computing.html
 
 https://www.eejournal.com/article/ibm-unveils-127-qubit-quantum-computer/

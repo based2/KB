@@ -36,6 +36,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/CZ-NIC/pz Easily handle CLI operation via Python instead of regular Bash programs
+> https://news.ycombinator.com/item?id=30302955
+
 https://monkey.org/~marius/unix-tools-hints.html
 
 https://leahneukirchen.org/blog/archive/2020/05/the-case-of-the-mysterious-help-directory.html

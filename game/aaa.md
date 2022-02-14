@@ -11,6 +11,9 @@ https://github.com/iamandras/isometric
 https://danielyxie.github.io/bitburner/
 > https://news.ycombinator.com/item?id=29581110
 
+https://en.wikipedia.org/wiki/Tibia_(video_game)
+> https://news.ycombinator.com/item?id=30324846
+
 # News
 https://watsonmw.com/fintro/ Frontier: Elite 2 - Graphics Study
 

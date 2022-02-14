@@ -28,5 +28,8 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://weather.simonton.app/
+> https://news.ycombinator.com/item?id=30315611
+
 https://theoutline.com/post/3826/crap-weather-apps-meteorolgists
 > https://news.ycombinator.com/item?id=30212818

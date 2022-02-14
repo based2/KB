@@ -52,6 +52,8 @@ https://github.com/ohmysmtp/templates
 https://tailwind-mobile.com/
 > https://news.ycombinator.com/item?id=28814248
 
+https://shades.paltman.com/
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916
@@ -182,6 +184,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://css-irl.info/aspect-ratio-is-great/
+> https://news.ycombinator.com/item?id=30280210
+
 https://susam.github.io/spcss/
 
 https://www.leemeichin.com/posts/yes-i-can-connect-to-a-db-in-css.html

@@ -133,6 +133,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.nature.com/articles/d41586-022-00400-3
+> https://news.ycombinator.com/item?id=30298474
+
 https://saatsazov.com/#/blog/rocket-motor
 > https://news.ycombinator.com/item?id=30191793
 

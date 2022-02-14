@@ -42,6 +42,9 @@ https://github.com/casualsnek/cassowary run a Windows virtual machine and use Wi
 > https://news.ycombinator.com/item?id=30214762
 
 # News
+https://dot.kde.org/2022/02/10/kde-apps-update-february-2022
+> https://news.ycombinator.com/item?id=30304246
+
 https://changelog.complete.org/archives/10338-kde-a-nice-tiling-envieonment-and-a-surprisingly-awesome-de
 > https://news.ycombinator.com/item?id=30251867
 

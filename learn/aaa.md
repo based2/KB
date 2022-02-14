@@ -103,6 +103,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://github.com/Roznoshchik/Lurnby
+> https://news.ycombinator.com/item?id=30299847
+
 https://news.ycombinator.com/item?id=30120927 Manga
 
 https://libretexts.org/

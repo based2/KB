@@ -36,6 +36,22 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.youtube.com/watch?v=BE77h7dmoQU Kubernetes: The Documentary
+> https://news.ycombinator.com/item?id=30323432
+
+https://developer.apple.com/documentation/virtualization/running_macos_in_a_virtual_machine_on_apple_silicon_macs#overview
+> https://news.ycombinator.com/item?id=30317260
+
+https://fosdem.org/2022/schedule/event/container_boot2container/
+
+https://fosdem.org/2022/schedule/event/container_userlan_tcpip/
+
+https://www.openpolicyregistry.io/blog/docker-workflow-for-opa/
+> https://news.ycombinator.com/item?id=30287556
+
+https://fly.io/blog/our-user-mode-wireguard-year/
+> https://news.ycombinator.com/item?id=30275905
+
 https://blog.getambassador.io/testing-microservices-isolating-requests-not-environments-with-telepresence-f22535789253
 
 https://www.theregister.com/2022/02/03/starlingx_60_takes_openstack_to/

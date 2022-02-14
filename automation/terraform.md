@@ -3,6 +3,8 @@ Company: HashiCorp
 
 https://registry.terraform.io/
 
+https://terraform-docs.io/
+
 https://www.runatlantis.io/
 https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support
 

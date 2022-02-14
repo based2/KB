@@ -87,6 +87,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.cnx-software.com/2022/02/09/mipi-csi-2-v4-0-adds-features-for-always-on-low-power-machine-vision-applications/
+
 https://news.ycombinator.com/item?id=30194440 remove silences
 
 https://www.mbari.org/4k-camera-development/

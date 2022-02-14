@@ -69,6 +69,10 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://www.goldmansachs.com/media-relations/press-releases/2021/goldman-sachs-aws-announcement-30-nov-2021.html
+
+https://news.ycombinator.com/item?id=30313169
+
 https://wolfman.dev/posts/exclude-use1-az3/ March 10, 2021
 
 https://news.ycombinator.com/item?id=30183465

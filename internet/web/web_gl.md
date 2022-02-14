@@ -28,3 +28,5 @@ http://madebyevan.com/webgl-water/
 
 https://xem.github.io/W/?s=09 A micro WebGL2 framework
 
+https://80.lv/articles/webgl-2-0-is-now-supported-in-all-major-browsers/
+

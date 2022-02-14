@@ -18,6 +18,10 @@ https://maddy.email/
 https://jessicastokes.net/blog/2021/06/10/unlocking-pinkrabbit/
 > https://news.ycombinator.com/item?id=28104590
 
+# Client
+http://www.mutt.org/relnotes/2.2/
+> https://news.ycombinator.com/item?id=30317229
+
 # Test
 https://github.com/reacherhq/check-if-email-exists
 > https://news.ycombinator.com/item?id=27705742

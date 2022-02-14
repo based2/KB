@@ -26,6 +26,12 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://english.kyodonews.net/news/2022/02/aab79e4f7ea3-japan-venture-to-build-countrys-first-nuclear-fusion-power-plant.html
+> https://www.reddit.com/r/worldnews/comments/srcgjl/japan_venture_to_build_countrys_first_nuclear/
+
+https://www.bbc.com/news/science-environment-60312633
+> https://news.ycombinator.com/item?id=30271694
+
 https://www.nature.com/articles/s41586-021-04281-w Burning plasma achieved in inertial fusion
 > https://news.ycombinator.com/item?id=30088238
 

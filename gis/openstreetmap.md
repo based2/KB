@@ -13,3 +13,6 @@ https://osmand.net/blog#androidauto
 
 https://www.ctrl.blog/entry/re-maps-public-service.html
 > https://news.ycombinator.com/item?id=29713976
+
+https://github.com/codesoap/osmf
+> https://news.ycombinator.com/item?id=30300693

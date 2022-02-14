@@ -41,6 +41,8 @@ https://writer.zohopublic.com/writer/published/grcwy5c699d67b9c444219b60cdb90ccb
 https://www.youtube.com/watch?v=Qytg0Ibet2E
 > https://github.com/automerge/automerge
 
+https://www.youtube.com/watch?v=x7drE24geUw CRDTs: The Hard Parts
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

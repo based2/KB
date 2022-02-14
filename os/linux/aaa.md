@@ -80,6 +80,13 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html
+
+https://hackaday.com/2022/02/10/turning-the-ps4-into-a-useful-linux-machine/
+
+https://man7.org/linux/man-pages/man2/userfaultfd.2.html
+> https://news.ycombinator.com/item?id=30285317
+
 https://blog.cloudflare.com/missing-manuals-io_uring-worker-pool/
 
 https://wiki.alopex.li/Dllicious DLLicious – shared object usage analysis on Linux

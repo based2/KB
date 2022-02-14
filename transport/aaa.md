@@ -1,3 +1,6 @@
+https://www.simutrans.com/en/
+> https://news.ycombinator.com/item?id=30278595
+
 https://gcaptain.com/yara-birkeland-worlds-first-autonomous-zero-emission-ship/
 > https://news.ycombinator.com/item?id=29292322
 
