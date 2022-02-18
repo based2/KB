@@ -84,6 +84,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://groups.google.com/g/golang-dev/c/O6BdW1-p-TY/m/eioxZHVYEwAJ Go 1.18 Release Candidate 1 is released
+
+https://adnano.co/2022/02/10/godocs.io-one-year-later/
+> https://news.ycombinator.com/item?id=30345522
+
 https://borud.no/notes/2022/godoc/ Go annoyances
 
 https://felixge.de/2022/02/11/connecting-go-profiling-with-tracing/

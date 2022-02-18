@@ -13,6 +13,9 @@ https://github.com/opencve/opencve
 
 https://www.cvedetails.com/
 
+https://github.com/trickest/cve
+> https://news.ycombinator.com/item?id=30357373
+
 https://hardening-security.com/vulnerabilities
 Detailed gathered insights about cyber security vulnerabilities and their real world influences including economic impacts and black market trading.
 
@@ -227,6 +230,9 @@ https://en.wikipedia.org/wiki/Differential_cryptanalysis DES
 
 ## 1957
 phreaking 2600 hertz
+
+## 1941
+https://en.wikipedia.org/wiki/Venona_project
 
 ## 1940
 https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma

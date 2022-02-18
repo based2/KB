@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/SubscriberLink/884875/58f88e6eb7913686/ Uniting the Linux random-number devices
+> https://news.ycombinator.com/item?id=30373351
+
 https://www.linaro.org/blog/how-linaro-builds-boots-and-tests-over-a-million-linux-kernels-per-year/
 
 https://gitlab.com/illwieckz/i-love-compute opencl

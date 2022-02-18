@@ -49,6 +49,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://blog.benjojo.co.uk/post/ip-address-squatting
+> https://news.ycombinator.com/item?id=30372741
+
 https://circleid.com/posts/20211216-the-formation-of-ipv4-address-markets
 > https://news.ycombinator.com/item?id=30191288
 

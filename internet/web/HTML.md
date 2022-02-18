@@ -128,6 +128,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/
+
 https://webkit.org/blog/12209/introducing-the-dialog-element/
 
 https://www.scottohara.me/blog/2022/01/20/divisive.html

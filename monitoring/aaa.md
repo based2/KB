@@ -71,6 +71,11 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://www.openanalytics.eu/blog/2022/02/15/log-files-in-rust/
+
+https://www.elastic.co/en/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit
+> https://news.ycombinator.com/item?id=30366026
+
 https://www.ververica.com/blog/monitoring-apache-flink-applications-101
 
 https://ganeshvernekar.com/blog/prometheus-tsdb-the-head-block/

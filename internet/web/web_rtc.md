@@ -28,3 +28,6 @@ https://github.com/miroslavpejic85/mirotalk Zoom – Google meet Open Source alt
 
 https://github.com/pion/webrtc/tree/master/examples/bandwidth-estimation-from-disk go
 
+https://www.ietf.org/archive/id/draft-ietf-wish-whip-01.html
+> https://news.ycombinator.com/item?id=30342945
+

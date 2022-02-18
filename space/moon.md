@@ -27,6 +27,9 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://blog.jatan.space/p/lunar-rovers-launching-in-2020s
+> https://news.ycombinator.com/item?id=30361919
+
 https://spectrum.ieee.org/lunar-communications
 
 https://arstechnica.com/science/2022/01/machine-to-melt-moon-rocks-and-derive-metals-may-launch-in-2024/

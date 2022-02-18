@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://arrow.apache.org/blog/2022/02/16/introducing-arrow-flight-sql/
+> https://news.ycombinator.com/item?id=30360726
+
 https://www.edgedb.com/blog/edgedb-1-0
 > https://news.ycombinator.com/item?id=30290225
 

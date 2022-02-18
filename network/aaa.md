@@ -95,6 +95,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://echorand.me/posts/my-own-ping/
+
 https://smaller.fish/posts/asus
 > https://news.ycombinator.com/item?id=30321112
 

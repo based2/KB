@@ -156,6 +156,9 @@ http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
 https://www.fredrikholmqvist.com/posts/brooks-wirth-go/
 > https://news.ycombinator.com/item?id=28365138
 
+https://twitter.com/rygorous/status/1359344949037211650
+> https://news.ycombinator.com/item?id=30354976
+
 ## Fortran
 https://j3-fortran.org/doc/year/21/21-157r2.txt adds conditional expressions
 > https://news.ycombinator.com/item?id=27702168
@@ -235,6 +238,17 @@ https://www.grammarly.com/blog/engineering/running-lisp-in-production/
 https://blog.veitheller.de/Building_Setf.html
 
 # News
+https://williamdemeo.github.io/2014/02/27/learn-you-an-agda/
+> https://news.ycombinator.com/item?id=30344669
+
+https://github.com/yoav-lavi/melody
+
+https://mitchellh.com/zig Zig Compiler Internals
+> https://news.ycombinator.com/item?id=30364036
+
+https://developers.redhat.com/articles/2022/02/16/code-specialization-mir-lightweight-jit-compiler
+> https://news.ycombinator.com/item?id=30359705
+
 https://brevzin.github.io/c++/2022/02/06/output-iterators/
 
 https://gankra.github.io/blah/deinitialize-me-maybe/

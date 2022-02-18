@@ -80,6 +80,11 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://ilearned.eu/initramfs.html
+
+https://lwn.net/SubscriberLink/884104/89d8ccf8f52ad9dc/ Going big with TCP packets
+> https://news.ycombinator.com/item?id=30342926
+
 https://www.micahlerner.com/2021/12/28/ghost-fast-and-flexible-user-space-delegation-of-linux-scheduling.html
 
 https://hackaday.com/2022/02/10/turning-the-ps4-into-a-useful-linux-machine/

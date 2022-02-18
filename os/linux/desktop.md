@@ -42,6 +42,11 @@ https://github.com/casualsnek/cassowary run a Windows virtual machine and use Wi
 > https://news.ycombinator.com/item?id=30214762
 
 # News
+https://jgrulich.cz/2022/02/16/webrtc-journey-to-make-wayland-screen-sharing-enabled-by-default/
+
+https://tuxphones.com/convergent-linux-phone-apps/
+> https://news.ycombinator.com/item?id=30364337
+
 https://dot.kde.org/2022/02/10/kde-apps-update-february-2022
 > https://news.ycombinator.com/item?id=30304246
 

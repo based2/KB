@@ -1,3 +1,6 @@
+https://github.com/SpinalHDL/VexRiscv
+> https://linuxfr.org/news/clear-production-du-premier-microcontroleur-avec-un-efpga-avec-code-source-disponible
+
 https://www.haaretz.com/israel-news/tech-news/.premium-israeli-tech-to-get-new-processor-for-free-courtesy-of-the-state-1.10516796
 
 https://riscv.org/announcements/2021/12/riscv-ratifies-15-new-specifications/

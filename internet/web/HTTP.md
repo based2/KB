@@ -118,6 +118,9 @@ https://requestmetrics.com/web-performance/http3-is-fast
 
 https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-next-generation-web-protocol
 
+https://aws.amazon.com/en/blogs/security/introducing-s2n-quic-open-source-protocol-rust/
+> https://news.ycombinator.com/item?id=30378383
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

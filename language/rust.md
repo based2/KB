@@ -336,6 +336,17 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.urth.org/2022/02/14/frontend-rust-without-node/
+
+https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/
+
+https://fasterthanli.me/articles/a-rust-match-made-in-hell
+
+https://blog.rust-lang.org/2022/02/15/Rust-Survey-2021.html
+> https://news.ycombinator.com/item?id=30355232
+
+https://www.scylladb.com/2022/02/15/introducing-catalytic-an-orm-designed-for-scylladb-and-cassandra-written-in-rust/#virtual-workshop
+
 https://kerkour.com/shellcode-in-rust/
 > https://news.ycombinator.com/item?id=30321305
 

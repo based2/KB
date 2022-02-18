@@ -8,6 +8,9 @@ https://sha256algorithm.com/
 > https://news.ycombinator.com/item?id=30244534
 > https://www.reddit.com/r/netsec/comments/smrdri/sha256_explained_stepbystep_visually/
 
+https://rsk0315.github.io/playground/passwordle.html
+> https://news.ycombinator.com/item?id=30361850
+
 # Dataset
 https://hashlookup.circl.lu/ Public API to lookup hash values against known database of files
  > https://gist.github.com/adulau/4191d44e30fc01df38f1d5fe605fa920

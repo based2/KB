@@ -14,6 +14,9 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://github.com/seeker89/unikernels
+> https://news.ycombinator.com/item?id=30358036
+
 https://pdos.csail.mit.edu/6.S081/2021/readings/biscuit.pdf The benefits and costs of writing a POSIX kernel in a high-level language
 > https://news.ycombinator.com/item?id=30313022
 

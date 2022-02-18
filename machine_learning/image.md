@@ -26,3 +26,5 @@ https://cheezam.fr/
 https://nvlabs.github.io/instant-ngp/
 
 https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/
+
+https://stackabuse.com/image-classification-with-transfer-learning-in-keras-create-cutting-edge-cnn-models/

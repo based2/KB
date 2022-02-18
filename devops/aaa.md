@@ -104,6 +104,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://blog.appsignal.com/2022/02/15/delayed-job-vs-sidekiq-which-is-better.html
+> https://news.ycombinator.com/item?id=30345806
+
 https://oshea.io/all-posts/work-backwards-from-a-feature-announcement
 
 https://full-stack.blend.com/how-we-write-github-actions-in-go.html

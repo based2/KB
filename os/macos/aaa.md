@@ -62,6 +62,9 @@ https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release
 https://developer.apple.com/support/unlisted-app-distribution/
 
 # M1
+https://twitter.com/marcan42/status/1494213855387734019
+> https://news.ycombinator.com/item?id=30370551
+
 https://eclecticlight.co/2022/02/07/when-an-m1-mac-mini-is-faster-than-an-m1-pro-contention-and-core-allocation/
 > https://news.ycombinator.com/item?id=30242509
 

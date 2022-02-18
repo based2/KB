@@ -36,6 +36,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://blog.min.io/small-file-archives/
+> https://news.ycombinator.com/item?id=30364072
+
 https://www.youtube.com/watch?v=BE77h7dmoQU Kubernetes: The Documentary
 > https://news.ycombinator.com/item?id=30323432
 

@@ -41,6 +41,8 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://techxplore.com/news/2022-01-closer-lifelike-avatars.html
+
 https://github.com/bilibili/ailab/blob/main/Real-CUGAN/README_EN.md
 
 https://www.unite.ai/the-new-cgi-creating-neural-neighborhoods-with-block-nerf/

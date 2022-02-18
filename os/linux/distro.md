@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+http://www.slackware.com/announce/15.0.php
+> https://linuxfr.org/news/tout-arrive-meme-slackware-15-0
+
 https://www.openmandriva.org/en/news/article/openmandriva-lx-4-3-released
 
 https://www.tomshardware.com/news/tiny-core-linux-13-released

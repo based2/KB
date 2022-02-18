@@ -1,3 +1,20 @@
+https://medium.com/cider-sec/exploiting-jenkins-build-authorization-22bf72926072
+
+https://gradientflow.com/get-ready-for-confidential-computing/
+
+https://otr.cypherpunks.ca/otr-wpes.pdf Off-the-Record Communication, or, Why Not To Use PGP
+
+https://blog.qualys.com/vulnerabilities-threat-research/2022/02/17/oh-snap-more-lemmings-local-privilege-escalation-vulnerability-discovered-in-snap-confine-cve-2021-44731
+
+https://9to5mac.com/2022/02/17/t2-mac-security-vulnerability-passware/
+> https://news.ycombinator.com/item?id=30374224
+
+https://www.cryptomuseum.com/crypto/philips/px1000/nsa.htm#stef
+> https://news.ycombinator.com/item?id=30370637
+
+https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/
+> https://news.ycombinator.com/item?id=30363537
+
 https://www.linuxfoundation.org/webinars/introduction-to-project-alpha-omega/
 
 https://www.bleepingcomputer.com/news/security/cisa-urges-orgs-to-patch-actively-exploited-windows-serioussam-bug/
@@ -259,6 +276,7 @@ https://www.qualys.com/2022/01/25/cve-2021-4034/pwnkit.txt
 https://www.whitehouse.gov/omb/briefing-room/2022/01/26/office-of-management-and-budget-releases-federal-strategy-to-move-the-u-s-government-towards-a-zero-trust-architecture/
 > https://www.bastionzero.com/blog/i-read-the-federal-governments-zero-trust-memo-so-you-dont-have-to
 > > https://news.ycombinator.com/item?id=30101411
+> > https://news.ycombinator.com/item?id=30349864
 
 https://dr.headerson.cispa.de/ Is your website protected against Clickjacking?
 

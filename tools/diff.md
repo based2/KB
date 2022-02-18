@@ -26,6 +26,9 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://github.com/terminusdb/technical-blogs/blob/main/blogs/json_diff_and_patch.md
+> https://news.ycombinator.com/item?id=30362025
+
 https://github.com/dgtlmoon/changedetection.io
 > https://news.ycombinator.com/item?id=29779618
 

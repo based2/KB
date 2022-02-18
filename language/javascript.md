@@ -352,6 +352,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope/
+> https://news.ycombinator.com/item?id=30359640
+
+https://2021.stateofjs.com/en-US/
+> https://news.ycombinator.com/item?id=30357788
+
 https://palant.info/2022/02/08/writing-my-own-build-system-coupling-gulp-concepts-with-modern-javascript/
 
 https://www.epicprogrammer.com/2022/02/functional-ranges-for-loops-generating.html

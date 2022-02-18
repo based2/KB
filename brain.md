@@ -19,10 +19,18 @@ https://news.mit.edu/2021/neurons-humans-mammals-1110
 https://www.nature.com/articles/548150a
 > https://news.ycombinator.com/item?id=29293231
 
+https://www.uni-bonn.de/en/news/028-2022
+> https://news.ycombinator.com/item?id=30363495
+
+https://www.nature.com/articles/s42256-021-00430-y
+
 # Worm
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.quantamagazine.org/toward-a-theory-of-self-organized-criticality-in-the-brain-20140403/
+> https://news.ycombinator.com/item?id=30356156
+
 https://www.bu.edu/articles/2019/cerebrospinal-fluid-washing-in-brain-during-sleep/
 > https://news.ycombinator.com/item?id=30222210
 

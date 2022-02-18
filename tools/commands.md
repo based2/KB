@@ -36,6 +36,14 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://www.sudo.ws/releases/stable/#1.9.9
+
+https://github.com/Duncaen/OpenDoas
+> https://flak.tedunangst.com/post/doas
+
+https://ncwit.org/profile/lorinda-cherry/
+> https://news.ycombinator.com/item?id=30354391
+
 https://github.com/CZ-NIC/pz Easily handle CLI operation via Python instead of regular Bash programs
 > https://news.ycombinator.com/item?id=30302955
 

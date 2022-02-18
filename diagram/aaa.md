@@ -114,6 +114,9 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool
+>
+
 https://github.com/mermaid-js/mermaid/pull/2655
 
 https://github.com/Tldraw/Tldraw

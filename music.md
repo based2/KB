@@ -146,6 +146,9 @@ https://fretastic.com/guitar
 > https://news.ycombinator.com/item?id=30250777
 
 # News
+https://www.rockbox.org/
+> https://news.ycombinator.com/item?id=30355601
+
 https://flujoo.github.io/en/my-approach-to-automatic-musical-composition/
 > https://news.ycombinator.com/item?id=30321645
 

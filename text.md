@@ -93,6 +93,8 @@ https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
 https://github.com/gregdurrett/berkeley-doc-summarizer
 > https://news.ycombinator.com/item?id=27637902
 
+https://github.com/LIAAD/yake
+
 # Spell corrector
 https://norvig.com/spell-correct.html
 > https://news.ycombinator.com/item?id=28551468

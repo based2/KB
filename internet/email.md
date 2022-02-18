@@ -58,6 +58,8 @@ https://autocrypt.org/
 https://www.praetorian.com/blog/email-security/
 > https://www.reddit.com/r/netsec/comments/ok2hl7/email_security_spf_dkim_and_dmarc/
 
+https://www.rnpgp.org/
+
 ## STARTTLS
 https://sendgrid.com/blog/what-is-starttls/
 

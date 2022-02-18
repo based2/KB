@@ -29,6 +29,8 @@ https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-pan
 > https://news.ycombinator.com/item?id=30120901
 > > https://github.com/nomcopter/react-mosaic
 
+https://github.com/python/cpython/blob/main/Python/hamt.c Hash Array Mapped Trie (HAMT) Datastructure
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576
@@ -40,6 +42,9 @@ https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-t
 > https://news.ycombinator.com/item?id=28221612
 
 https://medium.com/@amitdavidson234/all-about-b-trees-and-databases-8c0697856189
+
+https://en.algorithmica.org/hpc/data-structures/s-tree/
+> https://news.ycombinator.com/item?id=30376140
 
 # binary index trees (Fenwick trees)
 https://jornhub.dev/articles/fenwick-trees/

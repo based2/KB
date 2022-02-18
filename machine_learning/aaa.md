@@ -247,6 +247,13 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://medium.com/@josh.wolff.7/how-to-use-the-gpt-j-playground-by-aix-136304ca830d
+
+https://www.technologyreview.com/2022/01/20/1043885/meta-ai-facebook-learning-algorithm-nlp-vision-speech-agi/
+
+https://arxiv.org/abs/2202.06991
+>
+
 https://koki0702.github.io/dezero-book/en/index.html
 > https://news.ycombinator.com/item?id=30318759
 

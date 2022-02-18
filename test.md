@@ -54,9 +54,17 @@ https://github.com/wg/wrk
 https://loadjitsu.com/
 > https://news.ycombinator.com/item?id=30025804
 
+# CDC
+https://martinfowler.com/articles/consumerDrivenContracts.html
+
+https://microsoft.github.io/code-with-engineering-playbook/automated-testing/cdc-testing/
+
 # TDD
 https://factorio.com/blog/post/fff-366
 > https://news.ycombinator.com/item?id=27549143
+
+https://www.codewithjason.com/when-i-do-tdd-and-when-i-dont/
+> https://news.ycombinator.com/item?id=30358248
 
 # A/B
 https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests-60ce8f93fa15

@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.nature.com/articles/s41586-021-04301-9
+
 https://english.kyodonews.net/news/2022/02/aab79e4f7ea3-japan-venture-to-build-countrys-first-nuclear-fusion-power-plant.html
 > https://www.reddit.com/r/worldnews/comments/srcgjl/japan_venture_to_build_countrys_first_nuclear/
 

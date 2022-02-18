@@ -13,6 +13,9 @@ https://github.com/globaldatanet/aws-firewall-factory
 
 https://github.com/Datadog/stratus-red-team/
 
+https://blog.assetnote.io/2022/02/13/dangling-eips/
+> https://www.reddit.com/r/netsec/comments/ssk4lq/eliminating_dangling_elastic_ip_takeovers_with/
+
 # KMS
 
 https://wolfman.dev/posts/aws-kms-for-envelope-encryption/

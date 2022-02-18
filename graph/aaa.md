@@ -61,6 +61,12 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://www.graphistry.com/blog/what-is-graph-intelligence-how-and-why-the-best-companies-are-adopting-graph-visual-analytics-graph-ai-and-graph-neural-networks
+
+https://hog.grinvin.org/ The House of Graphs: Database of interesting graphs
+> https://news.ycombinator.com/item?id=30362682
+> > https://www.graphclasses.org/
+
 https://news.ycombinator.com/item?id=30119165 Quitting Dgraph Labs
 
 https://arxiv.org/pdf/2012.11762.pdf Deep Multi-attribute Graph Representation Learning on Protein Structures

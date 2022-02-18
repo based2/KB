@@ -21,6 +21,7 @@ https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutoria
 > https://news.ycombinator.com/item?id=18060049
 
 https://github.com/dylanaraps/pure-bash-bible#pure-bash-bible
+> https://news.ycombinator.com/item?id=30363506
 
 https://unix.stackexchange.com/questions/20826/which-stream-does-bash-write-its-prompt-to
 
@@ -71,5 +72,8 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://mywiki.wooledge.org/BashPitfalls
+> https://news.ycombinator.com/item?id=30345487
+
 https://github.com/remileduc/sherver
 > https://news.ycombinator.com/item?id=29648135

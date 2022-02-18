@@ -251,6 +251,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://gitbom.dev/
+> https://news.ycombinator.com/item?id=30374558
+
 https://gitless.com/
 
 https://lobste.rs/s/rl9pxx/idea_move_hunk

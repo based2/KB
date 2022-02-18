@@ -22,6 +22,10 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/
+> https://www.automa.site/
+> > https://github.com/Kholid060/automa
+
 http://sikulix.com/
 > https://github.com/RaiMan/SikuliX1
 

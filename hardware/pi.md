@@ -1,3 +1,6 @@
+https://doc.linutop.com/current/linutopOS/fr/linutopos.html
+> https://linuxfr.org/news/linutop-os-est-disponible-pour-tous-les-raspberry-pi
+
 https://github.com/leswright1977/PySpectrometer
 > https://news.ycombinator.com/item?id=30027804
 
