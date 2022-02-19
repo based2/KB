@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://github.com/wildfish/django-gdpr-assist
+
 https://cunderwood.dev/2022/02/13/consent-gdpr-and-google-analytics/
 > 
 

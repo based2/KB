@@ -336,6 +336,11 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://tokio.rs/blog/2022-02-announcing-tokio-metrics
+
+https://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/
+> https://news.ycombinator.com/item?id=30386337
+
 https://blog.urth.org/2022/02/14/frontend-rust-without-node/
 
 https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/

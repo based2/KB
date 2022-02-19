@@ -20,3 +20,6 @@ https://breakingdefense.com/2021/11/sandias-atomic-avocado-could-allow-gps-free-
 
 https://ciechanow.ski/gps/
 > https://news.ycombinator.com/item?id=29981188
+
+https://www.gpsworld.com/russia-expected-to-ditch-glonass-for-loran-in-ukraine-invasion/
+> https://news.ycombinator.com/item?id=30385174

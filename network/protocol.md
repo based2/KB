@@ -28,3 +28,5 @@ https://datatracker.ietf.org/doc/html/rfc2229 DICT
 
 https://signal.org/blog/the-ecosystem-is-moving/
 > https://news.ycombinator.com/item?id=30314454
+
+http://lea.hamradio.si/~s53mv/nbp/nbp.html ax.25

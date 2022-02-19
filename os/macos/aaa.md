@@ -62,6 +62,8 @@ https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release
 https://developer.apple.com/support/unlisted-app-distribution/
 
 # M1
+https://twitter.com/marcan42/status/1494716035165220872 recovery
+
 https://twitter.com/marcan42/status/1494213855387734019
 > https://news.ycombinator.com/item?id=30370551
 

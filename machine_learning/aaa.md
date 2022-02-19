@@ -247,6 +247,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/gradio-app/gradio/releases/tag/v2.8.1
+
+https://arxiv.org/abs/2104.13478 Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
+
+https://ai.googleblog.com/2022/02/machine-learning-for-mechanical.html
+
 https://medium.com/@josh.wolff.7/how-to-use-the-gpt-j-playground-by-aix-136304ca830d
 
 https://www.technologyreview.com/2022/01/20/1043885/meta-ai-facebook-learning-algorithm-nlp-vision-speech-agi/

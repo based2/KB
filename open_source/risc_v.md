@@ -49,6 +49,8 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://lists.riscv.org/g/tech-smpu Tech: S-Mode Memory Protection Unit (SMPU) Task Group
+
 https://www.eetimes.com/a-big-week-for-risc-v/
 > https://news.ycombinator.com/item?id=30301551
 

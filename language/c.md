@@ -71,6 +71,10 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://the-linux-channel.the-toffee-project.org/index.php?page=5-tutorials-a-linux-system-call-in-c-without-a-standard-library&lang=en
+
+https://news.ycombinator.com/item?id=30395016 c23
+
 https://chris-wood.github.io/2016/02/12/Polymorphism-in-C.html
 
 https://arxiv.org/abs/2201.13394 A Formal Model of Checked C

@@ -35,6 +35,10 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://medium.com/geekculture/batch-processing-using-completablefuture-and-blocking-queue-under-high-concurrency-scenario-3a1f8478588a
+
+https://nocodefunctions.com/blog/java-concurrency-with-http-client-asynch/
+
 https://github.com/appform-io/signals
 > https://www.reddit.com/r/java/comments/s2nztt/signals_a_library_for_using_decoupled_observers/
 

@@ -116,6 +116,9 @@ http://opentaxsolver.sourceforge.net/
 https://www.accountingcoach.com/
 > https://news.ycombinator.com/item?id=29625571
 
+https://www.unite.ai/simple-ai-can-anticipate-bank-managers-loan-decisions-to-over-95-accuracy/
+> https://news.ycombinator.com/item?id=30394731
+
 # News
 https://fbifemboy.substack.com/p/theoretical-advances-in-amm-understanding automated market makers
 > https://news.ycombinator.com/item?id=30113170

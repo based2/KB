@@ -25,6 +25,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://github.com/littlefs-project/littlefs
+> https://news.ycombinator.com/item?id=30383567
+
 https://colinfinck.de/posts/an-implementation-of-the-ntfs-filesystem-in-a-rust-crate/
 
 https://github.com/trapexit/mergerfs

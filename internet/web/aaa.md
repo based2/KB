@@ -73,6 +73,12 @@ https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-
 > https://news.ycombinator.com/item?id=30013100
 
 # News
+https://webcompat.com/
+> https://news.ycombinator.com/item?id=30381350
+
+https://github.com/pkulchenko/fullmoon
+> https://news.ycombinator.com/item?id=30385759
+
 https://websubhub.com/
 > https://news.ycombinator.com/item?id=30362207
 

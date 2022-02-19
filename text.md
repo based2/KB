@@ -84,6 +84,9 @@ https://codewords.recurse.com/issues/seven/data-driven-literary-analysis
 https://datatracker.ietf.org/doc/draft-faltstrom-base45/
 > https://news.ycombinator.com/item?id=27603173
 
+https://kunststube.net/encoding/
+> https://news.ycombinator.com/item?id=30384223
+
 # Generator
 https://arankomatsuzaki.wordpress.com/2021/06/04/gpt-j/
 > https://news.ycombinator.com/item?id=27443528
@@ -111,6 +114,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://github.com/larrykollar/Unix-Text-Processing
+> https://news.ycombinator.com/item?id=30396667
+
 https://www.revk.uk/2022/02/crlf-has-long-history.html
 > https://news.ycombinator.com/item?id=30253968
 

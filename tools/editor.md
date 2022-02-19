@@ -56,6 +56,9 @@ https://github.com/mhinz/vim-galore
 
 https://github.com/kabinspace/AstroVim
 
+https://github.com/johnsonjh/OpenVi
+> https://news.ycombinator.com/item?id=30394952
+
 # Nano
 
 
@@ -140,6 +143,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://blog.jetbrains.com/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/
+
 https://community.notepad-plus-plus.org/topic/22438/notepad-v8-2-2-release-candidate
 
 https://github.com/JetBrains/JetBrainsMono

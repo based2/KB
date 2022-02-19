@@ -228,6 +228,14 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/aochagavia/optimization-experiment/blob/master/research/blog.md
+
+https://pythonspeed.com/articles/numba-faster-python/
+> https://news.ycombinator.com/item?id=30392367
+
+https://github.com/gristlabs/grist-core Modern relational spreadsheet
+> https://news.ycombinator.com/item?id=30392227
+
 https://news.ycombinator.com/item?id=30232416 Markov Chain Monte Carlo analysis of climate-change variables, sensitivity
 > https://kingaa.github.io/pomp/docs.html
 

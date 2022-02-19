@@ -81,6 +81,12 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://dgl.cx/2022/02/wordle-over-dns
+> https://news.ycombinator.com/item?id=30396690
+
+https://www.icann.org/resources/pages/listing-2012-02-25-en
+> https://news.ycombinator.com/item?id=30384379
+
 https://github.com/sleevi/psl-problems
 
 https://lsd.gnunet.org/lsd0001/ The GNU Name System

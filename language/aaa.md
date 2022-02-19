@@ -238,6 +238,9 @@ https://www.grammarly.com/blog/engineering/running-lisp-in-production/
 https://blog.veitheller.de/Building_Setf.html
 
 # News
+https://odin-lang.org/
+> https://news.ycombinator.com/item?id=30394000
+
 https://williamdemeo.github.io/2014/02/27/learn-you-an-agda/
 > https://news.ycombinator.com/item?id=30344669
 

@@ -84,6 +84,9 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system
+> https://news.ycombinator.com/item?id=30380994
+
 https://groups.google.com/g/golang-dev/c/O6BdW1-p-TY/m/eioxZHVYEwAJ Go 1.18 Release Candidate 1 is released
 
 https://adnano.co/2022/02/10/godocs.io-one-year-later/

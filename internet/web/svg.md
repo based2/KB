@@ -24,3 +24,6 @@ https://hackage.haskell.org/package/reanimate
 
 https://sketchy.cs.brown.edu/textures/#/textures/
 > https://news.ycombinator.com/item?id=29940191
+
+https://github.com/Yqnn/svg-path-editor
+> https://news.ycombinator.com/item?id=30382577

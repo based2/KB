@@ -48,6 +48,8 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://polynya.medium.com/optimistic-rollups-are-brilliant-and-the-state-of-blockchains-a57bc4799dca
+
 https://thenewstack.io/makings-of-a-web3-stack-agoric-ipfs-cosmos-network/
 
 https://www.intel.com/content/www/us/en/newsroom/opinion/thoughts-blockchain-custom-compute-group.html#gs.phm73y

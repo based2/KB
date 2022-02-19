@@ -133,6 +133,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.dw.com/en/chinese-space-cleaner-spotted-grabbing-and-throwing-away-old-satellite/a-60658574
+> https://news.ycombinator.com/item?id=30392220
+
 https://www.nature.com/articles/d41586-022-00400-3
 > https://news.ycombinator.com/item?id=30298474
 

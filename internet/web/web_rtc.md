@@ -31,3 +31,11 @@ https://github.com/pion/webrtc/tree/master/examples/bandwidth-estimation-from-di
 https://www.ietf.org/archive/id/draft-ietf-wish-whip-01.html
 > https://news.ycombinator.com/item?id=30342945
 
+https://www.collabora.com/news-and-blog/news-and-events/gstreamer-120-embedded-webrtc-lead-the-way.html
+> https://news.ycombinator.com/item?id=30388300
+
+https://github.com/obsproject/obs-studio/discussions/4021 Proposed Deprecation of FTL Protocol in OBS 2021
+> https://news.ycombinator.com/item?id=30393955
+ 
+https://webrtcforthecurious.com/
+

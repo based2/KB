@@ -1,4 +1,23 @@
+https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure
+
+https://pentestlab.blog/2022/02/14/persistence-notepad-plugins/
+> https://www.reddit.com/r/netsec/comments/ssj1s7/persistence_notepad_plugins/
+
+https://notdodo.medium.com/aws-guardduty-exfiltration-bypass-4720f6ed16a4
+> https://www.reddit.com/r/netsec/comments/svgmxe/aws_guardduty_exfiltration_bypass_with_vpc/
+
+https://www.reddit.com/r/netsec/comments/svuso3/microsoft_brings_ebpf_to_windows_unlocking/
+
+https://arxiv.org/abs/2202.08477 A Method for Decrypting Data Infected with Hive Ransomware
+
+https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity
+> https://news.ycombinator.com/item?id=30395786
+
+https://shufflingbytes.com/posts/hacking-goip-gsm-gateway/
+> https://news.ycombinator.com/item?id=30351609
+
 https://medium.com/cider-sec/exploiting-jenkins-build-authorization-22bf72926072
+> https://www.reddit.com/r/netsec/comments/snqw7j/how_docker_made_me_more_capable_and_the_host_less/
 
 https://gradientflow.com/get-ready-for-confidential-computing/
 
@@ -104,6 +123,7 @@ https://reproducible-builds.org/reports/2022-01/
 https://lists.apache.org/list?announce@apache.org:2022-2 CVE-2022-23206: Apache Traffic Control: Server-Side Request Forgery in Traffic Ops endpoint POST /user/login/oauth
 
 https://research.nccgroup.com/2022/02/02/testing-infrastructure-as-code-using-dynamic-tooling/
+> https://www.reddit.com/r/netsec/comments/sl5k65/testing_infrastructureascode_using_dynamic_tooling/
 
 https://www.anvilsecure.com/blog/silly-proof-of-concept-anti-phishing-using-perceptual-hashing-algorithms.html
 > https://www.reddit.com/r/netsec/comments/skdu8o/silly_proof_of_concept_antiphishing_using/
@@ -1133,6 +1153,7 @@ https://trojansource.codes/ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2
 > https://github.com/microsoft/monaco-editor/issues/2713
 > https://tech.michaelaltfield.net/2021/11/22/bidi-unicode-github-defense/
 > https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
+> > https://news.ycombinator.com/item?id=30393530
 > > https://news.ycombinator.com/item?id=29568625
 > https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html
 > > https://news.ycombinator.com/item?id=30120302

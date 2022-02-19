@@ -114,6 +114,9 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://www.theverge.com/2022/2/18/22940517/windows-11-pro-require-microsoft-account-internet-connection
+> https://news.ycombinator.com/item?id=30387866
+
 https://www.tomsguide.com/news/windows-11-tpm-requirement-is-causing-headaches-for-users-with-amd-cpus
 
 https://arstechnica.com/gadgets/2022/02/windows-11s-preview-builds-are-getting-more-experimental-in-2022/

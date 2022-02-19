@@ -113,6 +113,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://twitter.com/louisnicholls_/status/1487179285177815047
+> https://news.ycombinator.com/item?id=30388788
+
 https://news.ycombinator.com/item?id=30248203
 
 https://gizmodo.com/gmail-is-getting-a-new-interface-and-it-s-a-big-improve-1848459370

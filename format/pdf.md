@@ -15,6 +15,9 @@ https://observablehq.com/@tomlarkworthy/sign-a-pdf
 > https://news.ycombinator.com/item?id=27344069
 
 #
+https://github.com/ahrm/sioyek PDF viewer designed for reading research papers and technical books, gpl, c
+> https://news.ycombinator.com/item?id=30395649
+
 https://leancrew.com/all-this/2022/01/reducing-the-size-of-large-pdfs/
 > https://news.ycombinator.com/item?id=30137127
 

@@ -184,6 +184,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://blog.the-pans.com/wrong/
+> https://news.ycombinator.com/item?id=30356177
+
 https://fs.blog/dave-packards-11-simple-rules/
 
 https://leeorengel.com/prioritization-multiple-work-streams-unplanned-work-oh-my/

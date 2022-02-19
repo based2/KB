@@ -32,6 +32,8 @@ https://xwiki.com java
 https://www.bookstackapp.com/ php
 > https://news.ycombinator.com/item?id=29851834
 
+https://news.ycombinator.com/item?id=30392849
+
 # News
 https://zim-wiki.org/ Desktop
 > https://news.ycombinator.com/item?id=30088933

@@ -59,6 +59,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://saucecode.bar/posts/06-using-www-authenticate.html
+> https://news.ycombinator.com/item?id=30385666
+
 https://joeldare.com/why-im-using-http-basic-auth-in-2022.html
 > https://news.ycombinator.com/item?id=29761728
 

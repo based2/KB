@@ -173,6 +173,10 @@ https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html
 
 https://www.nextplatform.com/2021/10/28/real-world-hpc-gets-the-benchmark-it-deserves/
 
+# Events driven
+https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-systems/
+> https://news.ycombinator.com/item?id=30396873
+
 # News
 https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/
 > https://news.ycombinator.com/item?id=30251747

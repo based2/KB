@@ -88,6 +88,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.init7.net/en/internet/fiber7/
+> https://news.ycombinator.com/item?id=30387566
+
 http://ronja.twibright.com/about.php
 
 https://twitter.com/VodafoneUK/status/1490239576543309825

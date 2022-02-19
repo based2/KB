@@ -21,3 +21,6 @@ https://github.com/damoeb/rss-proxy
 
 https://linklonk.com/
 > https://news.ycombinator.com/item?id=29445764
+
+https://tech.chrishardie.com/2022/rss-useful-important/
+> https://news.ycombinator.com/item?id=30387879

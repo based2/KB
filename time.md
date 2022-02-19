@@ -193,6 +193,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://cookieplmonster.github.io/2022/02/17/year-2038-problem/
+> 
+
 https://www.vice.com/en/article/jgmbdg/scientists-make-breakthrough-in-warping-time-at-smallest-scale-ever
 > https://news.ycombinator.com/item?id=30365036
 

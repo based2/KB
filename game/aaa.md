@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.dunegames.com/
+> https://news.ycombinator.com/item?id=30385486
+
 https://watsonmw.com/fintro/ Frontier: Elite 2 - Graphics Study
 
 https://liquidream.itch.io/undune2

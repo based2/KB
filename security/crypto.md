@@ -106,6 +106,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://spacetime.dev/plausibly-deniable-encryption
+> https://news.ycombinator.com/item?id=30388812
+
 https://eprint.iacr.org/2022/127.pdf CCA secure ElGamal encryption over an integer group where ICDH assumption holds
 
 https://www.youtube.com/watch?v=wbFGOeXGlkw Universal cryptanalytic machine – a dream come true - Marek Grajek 17 mars 2020

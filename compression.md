@@ -35,6 +35,9 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://www.theregister.com/2022/02/17/microsoft_ans_patent/
+> https://www.reddit.com/r/programming/comments/sv7rle/alarm_raised_after_microsoft_wins_dataencoding/
+
 https://deepmind.com/blog/article/MuZeros-first-step-from-research-into-the-real-world
 
 https://github.com/ilyakurdyukov/crzy64

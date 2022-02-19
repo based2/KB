@@ -71,6 +71,14 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/
+
+https://renatoathaydes.github.io/LogFX/index.html
+> https://www.reddit.com/r/programming/comments/sunaj3/logfx_a_beautiful_lightweight_log_viewer_that_can/
+
+https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated
+> https://news.ycombinator.com/item?id=30393683
+
 https://www.openanalytics.eu/blog/2022/02/15/log-files-in-rust/
 
 https://www.elastic.co/en/blog/elastic-and-amazon-reach-agreement-on-trademark-infringement-lawsuit

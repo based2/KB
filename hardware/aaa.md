@@ -68,6 +68,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://lwn.net/SubscriberLink/884876/ba79f0b75e086321/ Thoughts on software-defined silicon
+> https://news.ycombinator.com/item?id=30394918
+
 https://opensource.googleblog.com/2022/02/FPGA%20Interchange%20format%20to%20enable%20interoperable%20FPGA%20tooling.html
 
 https://127001.me/post/ten-years-of-thinkpadding/

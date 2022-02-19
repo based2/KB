@@ -104,6 +104,12 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://revelry.co/insights/development/nix-time/
+> https://news.ycombinator.com/item?id=30384121
+> https://www.reddit.com/r/programming/comments/sw2cjd/nix_an_idea_whose_time_has_come/
+
+https://www.aspect.dev/blog/what-is-a-build-system-and-what-is-ci
+
 https://blog.appsignal.com/2022/02/15/delayed-job-vs-sidekiq-which-is-better.html
 > https://news.ycombinator.com/item?id=30345806
 

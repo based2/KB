@@ -1,5 +1,7 @@
 https://ocaml.org/
 
+https://johnwhitington.net/ocamlfromtheverybeginning/
+
 https://ocaml.org/manual/
 
 https://ocamlverse.github.io/
@@ -20,6 +22,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://www.ocamlpro.com/blog/2022_01_31_2021_at_ocamlpro
+> https://news.ycombinator.com/item?id=30386388
+
 https://github.com/let-def/hotcaml
 > https://news.ycombinator.com/item?id=29998957
 

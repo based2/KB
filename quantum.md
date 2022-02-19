@@ -33,8 +33,19 @@ https://iai.tv/articles/quantum-mechanics-and-our-part-in-creating-reality-auid-
 
 https://thequantumdaily.com/2021/09/22/researchers-add-a-twist-of-light-for-optical-quantum-computing-approach/
 
-# News
+# Languages
+
+https://ionq.com/posts/june-24-2021-hello-many-worlds
+> https://news.ycombinator.com/item?id=30343507
+
 https://popl22.sigplan.org/details/POPL-2022-popl-research-papers/30/Twist-Sound-Reasoning-for-Purity-and-Entanglement-in-Quantum-Programs
+
+https://spectrum.ieee.org/quantum-programming-language-twist
+
+# Algorithms
+
+# Physics
+https://www.nature.com/articles/s41467-022-28462-x All-optical dissipative discrete time crystals
 
 https://phys.org/news/2022-01-ultrathin-materials-pave-personal-sized-quantum.html
 
@@ -43,11 +54,15 @@ https://ionq.com/news/february-17-2022-ionq-pnnl-barium-path-to-scale
 https://www.quantamagazine.org/colliders-and-supercomputers-force-fresh-hints-in-quark-mystery-20220214/
 > https://news.ycombinator.com/item?id=30357794
 
-https://ionq.com/posts/june-24-2021-hello-many-worlds
-> https://news.ycombinator.com/item?id=30343507
-
 https://news.uchicago.edu/story/uchicago-scientists-create-strange-quantum-domain-walls-laboratory
 > https://news.ycombinator.com/item?id=30303831
+
+# Business
+
+https://www.rigetti.com/merger-announcement
+> https://news.ycombinator.com/item?id=28772402
+
+# News
 
 https://www.scientificamerican.com/article/when-it-comes-to-photosynthesis-plants-perform-quantum-computation/
 
@@ -94,9 +109,6 @@ https://phys.org/news/2021-10-quantum-parrondo-random-encryption.html
 
 https://www.science.org/content/article/physicists-take-key-step-correcting-quantum-computer-errors
 > https://news.ycombinator.com/item?id=28896007
-
-https://www.rigetti.com/merger-announcement
-> https://news.ycombinator.com/item?id=28772402
 
 https://arstechnica.com/science/2021/09/understanding-neuromorphic-computing-and-why-intels-excited-about-it/
 

@@ -189,6 +189,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://twitter.com/pmzakrzewski/status/1494967388428804103 google maps tos
+> https://news.ycombinator.com/item?id=30395707
+
 https://cars.readthedocs.io/en/latest/index.html
 
 https://www.nasa.gov/feature/amazing-earth-satellite-images-from-2021

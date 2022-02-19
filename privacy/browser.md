@@ -9,6 +9,8 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://digitalcontentnext.org/wp-content/uploads/2018/08/DCN-Google-Data-Collection-Paper.pdf
+
 https://github.com/gorhill/uBlock/releases/tag/1.41.0
 > https://news.ycombinator.com/item?id=30287172
 

@@ -51,3 +51,5 @@ https://compoundsemiconductor.net/article/114145/Infrared_laser_spectroscopy_at_
 
 https://github.com/jhdewitt/sltk Structured Light Took Kit
 
+https://www.wired.com/story/researchers-levitated-a-small-tray-using-nothing-but-light/
+

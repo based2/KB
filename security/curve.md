@@ -37,6 +37,9 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cds2.12110 A high speed processor for elliptic curve cryptography over NIST prime field
+> https://news.ycombinator.com/item?id=30383278
+
 https://neilmadden.blog/2020/05/28/whats-the-curve25519-clamping-all-about/
 
 https://research.nccgroup.com/wp-content/uploads/2020/02/A_Tour_of_Curve25519_in_Erlang-1.pdf

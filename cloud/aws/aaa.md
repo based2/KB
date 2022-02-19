@@ -69,6 +69,10 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://robinhood.engineering/author-balaji-varadarajan-e3f496815ebf Fresher Data Lake on AWS S3
+
+aws config -> us-west-1
+
 https://www.goldmansachs.com/media-relations/press-releases/2021/goldman-sachs-aws-announcement-30-nov-2021.html
 
 https://news.ycombinator.com/item?id=30313169

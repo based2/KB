@@ -65,6 +65,8 @@ https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/
 https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088
 
 # News
+https://en.algorithmica.org/
+
 https://en.algorithmica.org/hpc/algorithms/prefix/ Prefix Sum with SIMD
 > https://news.ycombinator.com/item?id=30311112
 

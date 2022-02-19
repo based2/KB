@@ -16,6 +16,8 @@ https://github.com/progval/rust-xml-schema
 
 https://developers.digital.abc.net.au/2021/09/16/rendering-xml-with-jsx-templates/
 
+https://blog.hartwork.org/posts/expat-2-4-5-released/ security fixes
+
 https://blog.hartwork.org/posts/expat-2-4-3-released/ security fixes
 
 # Editor
