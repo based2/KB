@@ -7,4 +7,11 @@ https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-goo
 > https://lobste.rs/s/le2ivg/school_for_sysadmins_who_can_t_timesync
 
 https://terinstock.com/post/2021/12/Systemds-clock-epoch-for-RTC-less-systems/
-> 
+
+https://sookocheff.com/post/time/how-does-ntp-work/
+> https://news.ycombinator.com/item?id=30404415
+
+# News
+https://cert-portal.siemens.com/productcert/pdf/ssa-211752.pdf
+
+https://cert-portal.siemens.com/productcert/pdf/ssa-669737.pdf

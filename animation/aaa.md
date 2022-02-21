@@ -64,6 +64,14 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.dropbox.com/s/k4fvt0utdot1r6t/scripting-particles.pdf?dl=0
+
+https://conwaylife.com/wiki/List_of_Life-like_cellular_automata
+> https://news.ycombinator.com/item?id=30402290
+
+https://alexswak.tumblr.com/post/630061631289835520/cel-anime-photography
+> https://news.ycombinator.com/item?id=30403219
+
 http://walter.bislins.ch/bloge/index.asp?page=Simulation+of+Atmospheric+Refraction
 
 https://mockrocket.io/

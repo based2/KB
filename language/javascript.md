@@ -352,6 +352,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://mikerourke.dev/blog/bitwisdom-keyboard-shortcuts/
+> 
+
 https://blog.logrocket.com/practical-use-cases-for-javascript-es6-proxies/
 
 https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope/

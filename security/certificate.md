@@ -18,6 +18,8 @@ https://certificate.transparency.dev/
 
 https://medium.com/cali-dog-security/introducing-certstream-3fc13bb98067
 
+https://www.techrepublic.com/article/how-to-add-a-trusted-certificate-authority-certificate-to-chrome-and-firefox/
+
 # Health
 https://github.com/admin-ch/CovidCertificate-Documents
 > https://news.ycombinator.com/item?id=27351970

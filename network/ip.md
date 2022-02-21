@@ -24,6 +24,9 @@ https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/
 https://chown.me/blog/getting-my-own-asn
 > https://news.ycombinator.com/item?id=30178655
 
+https://blog.brixit.nl/going-ipv6-only/
+> https://news.ycombinator.com/item?id=30400785
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

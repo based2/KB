@@ -36,6 +36,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://nullprogram.com/blog/2022/02/18/
+> https://news.ycombinator.com/item?id=30395189
+
 https://www.sudo.ws/releases/stable/#1.9.9
 
 https://github.com/Duncaen/OpenDoas

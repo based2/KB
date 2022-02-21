@@ -53,3 +53,9 @@ https://github.com/jhdewitt/sltk Structured Light Took Kit
 
 https://www.wired.com/story/researchers-levitated-a-small-tray-using-nothing-but-light/
 
+https://www.nature.com/articles/s41377-020-0334-8
+> https://news.ycombinator.com/item?id=30397318
+> > https://phys.org/news/2020-07-synthetic-dimensions-enable-higher-order-topological.html
+
+https://www.2020mag.com/ce/the-real-details-of-vertex-5E16F
+

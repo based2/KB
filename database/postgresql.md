@@ -230,6 +230,8 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://github.com/shayonj/pg-online-schema-change
+
 https://blog.yugabyte.com/postgresql-timestamps-timezones/
 > https://news.ycombinator.com/item?id=30318751
 

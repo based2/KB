@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/UNIX_System_V
 
 https://www.gnu.org/
 
+https://www.tuhs.org/
+
 http://web.mit.edu/~simsong/www/ugh.pdf
 
 https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html
@@ -51,3 +53,5 @@ https://beej.us/guide/bgipc/html/multi/index.html
 
 https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified
 > https://news.ycombinator.com/item?id=29984016
+
+https://www.youtube.com/watch?v=ECCr_KFl41E "The early days of Unix at Bell Labs" - Brian Kernighan (LCA 2022 Online)

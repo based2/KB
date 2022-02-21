@@ -178,6 +178,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://arc42.org/
+> https://docs.arc42.org/section-9/
+
 https://buttondown.email/hillelwayne/archive/why-you-should-read-data-and-reality/
 > https://news.ycombinator.com/item?id=30251747
 

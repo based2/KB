@@ -104,6 +104,8 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
+https://www.infoq.com/news/2022/02/new-amazon-ec2-c6a/ 15 percent better prices performance, up to 40 Gbps for Amazon Elastic Block Store (Amazon EBS), and up to 50 Gbps for network bandwidth versus the C5(a) instances
+
 https://blog.min.io/install-minio-distributed-mode-aws-ec2/
 
 https://aws.amazon.com/en/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/ 

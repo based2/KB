@@ -17,6 +17,9 @@ https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argu
 > https://news.ycombinator.com/item?id=26952429
 
 # US
+https://www.judyrecords.com/
+> https://news.ycombinator.com/item?id=30399881
+
 https://ffii.org/unified-patent-court-is-100x-more-expensive-and-an-sme-killer-europe-is-commiting-an-economic-suicide/
 > https://news.ycombinator.com/item?id=29056321
 
@@ -37,6 +40,8 @@ https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-a
 > https://news.ycombinator.com/item?id=29366621
 
 # News
+https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1103 EU challenges China at the WTO to defend its high-tech sector
+
 https://magistrate.khanna.law/
 > https://news.ycombinator.com/item?id=30149370
 

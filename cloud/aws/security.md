@@ -19,3 +19,8 @@ https://blog.assetnote.io/2022/02/13/dangling-eips/
 # KMS
 
 https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
+
+#
+https://github.com/awslabs/aws-security-assessment-solution
+
+https://github.com/awslabs/aws-waf-security-automations

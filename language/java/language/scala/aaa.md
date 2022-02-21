@@ -74,6 +74,16 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://gist.github.com/wildfield/5cef98101b5b37d117afa4c29573b497 Snake With FRP
+
+https://github.com/kitlangton/parallel-for Automatically parallelize your for comprehensions at compile time
+
+https://medium.com/virtuslab/achieving-indisputable-job-security-using-novel-scala-3-features-a-case-study-65180eab810a
+
+https://dotty.epfl.ch/docs/reference/experimental/cc.html Research project that modifies the Scala type system to track references to capabilities in values
+> https://medium.com/@odomontois/several-days-ago-we-saw-the-new-experimental-feature-called-capture-checking-was-announced-in-e4aa9bc4b3d1
+> > https://www.reddit.com/r/scala/comments/ssjo3u/about_capture_checking/
+
 https://eed3si9n.com/simplifying-sbt-with-common-settings/
 
 https://eed3si9n.com/sbt-1.6.2

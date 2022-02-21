@@ -104,6 +104,8 @@ https://atfzl.com/don-t-attach-tooltips-to-document-body
 https://www.jefftk.com/p/why-prefetch-is-broken
 > https://news.ycombinator.com/item?id=27365608
 
+https://blog.ledez.net/informatique/tips/redirection-html/
+
 # Tools
 https://en.wikipedia.org/wiki/Dynamic_HTML
 

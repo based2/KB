@@ -98,6 +98,11 @@ https://news.ycombinator.com/item?id=30088446
 https://therossreport.substack.com/p/the-pandemic-boom-goes-bust
 > https://news.ycombinator.com/item?id=30125779
 
+https://www.cnbc.com/2022/02/18/fed-approves-rules-banning-its-officials-from-trading-stocks-bonds-and-also-cryptocurrencies.html?
+> https://www.federalreserve.gov/newsevents/pressreleases/other20211021b.htm
+
+https://github.com/ta4j/ta4j technical analysis. It provides the basic components for creation, evaluation and execution of trading strategies.
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

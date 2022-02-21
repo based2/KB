@@ -30,10 +30,16 @@ https://open-source-security-software.net/
 https://www.phrack.org/
 
 # News
+https://www.etsi.org/newsroom/press-releases/2029-2022-02-etsi-releases-report-on-coordinated-vulnerability-disclosure
+
+https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si
+
 https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-schema-for-open-source-software/
 
 # Events
 ## 2021
+https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab Active Directory
+
 https://en.wikipedia.org/wiki/Log4Shell CVE-2021-44228
 
 https://en.wikipedia.org/wiki/FORCEDENTRY NSO iOS CVE-2021-30860
@@ -238,3 +244,5 @@ https://en.wikipedia.org/wiki/Venona_project
 https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma
 
 https://en.wikipedia.org/wiki/Cryptanalysis
+
+https://en.wikipedia.org/wiki/Cipher_Bureau_(Poland)

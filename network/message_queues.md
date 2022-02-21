@@ -94,3 +94,6 @@ https://www.tedinski.com/2019/03/05/backpressure.html
 
 https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready/ FOQS: Making a distributed priority queue disaster-ready
 > https://news.ycombinator.com/item?id=29993007
+
+#
+https://docs.temporal.io/blog/workflow-engine-principles/

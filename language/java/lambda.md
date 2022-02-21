@@ -19,3 +19,6 @@ https://github.com/meanbeanlib/meanmirror/
 
 https://medium.com/expedia-group-tech/lenses-in-java-2b18c7d24366
 > https://www.reddit.com/r/java/comments/sdm12w/lenses_in_java/
+
+https://medium.com/javarevisited/the-elusive-and-beautiful-java-method-reference-97e566d2088b
+> https://www.reddit.com/r/java/comments/swxp19/the_elusive_and_beautiful_java_method_reference/

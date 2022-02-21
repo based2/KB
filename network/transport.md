@@ -1,3 +1,5 @@
+https://www.snellman.net/blog/archive/2014-11-11-tcp-is-harder-than-it-looks.html
+
 https://blog.apnic.net/2021/05/11/transport-protocols-and-the-network/
 > https://news.ycombinator.com/item?id=27141624
 

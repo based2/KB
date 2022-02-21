@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+
+> https://news.ycombinator.com/item?id=30405815
+
 https://webkit.org/blog/12257/the-file-system-access-api-with-origin-private-file-system/
 > https://news.ycombinator.com/item?id=30394737
 

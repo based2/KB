@@ -1,3 +1,9 @@
+https://developers.facebook.com/blog/post/2022/01/24/open-source-2021-year-in-review/
+> 
+
+https://www.nathanlippi.com/blog/digital-dojo
+> https://news.ycombinator.com/item?id=30402020
+
 https://shop.simulavr.com/
 > https://news.ycombinator.com/item?id=30318094
 

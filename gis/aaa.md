@@ -189,6 +189,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://mrgris.com/projects/oilslick/
+> https://news.ycombinator.com/item?id=30399576
+
 https://twitter.com/pmzakrzewski/status/1494967388428804103 google maps tos
 > https://news.ycombinator.com/item?id=30395707
 

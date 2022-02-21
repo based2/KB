@@ -22,3 +22,6 @@ https://jungu.me/post/time-to-review-the-open-source-cla/
 
 https://dpc.pw/making-open-source-economy-more-viable-with-dual-license-collectives
 > https://lobste.rs/s/3kyiif/making_open_source_economy_more_viable
+
+https://www.devever.net/~hl/linuxgpl
+> https://news.ycombinator.com/item?id=30400510

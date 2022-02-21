@@ -71,6 +71,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuKernelLogLevels
+
 https://claroty.com/2022/02/10/blog-research-securing-network-management-systems-moxa-mxview/
 
 https://renatoathaydes.github.io/LogFX/index.html

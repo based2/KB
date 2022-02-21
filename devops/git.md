@@ -251,6 +251,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/o2sh/onefetch
+
+https://github.com/martinvonz/jj
+> https://news.ycombinator.com/item?id=30398662
+
 https://gitbom.dev/
 > https://news.ycombinator.com/item?id=30374558
 

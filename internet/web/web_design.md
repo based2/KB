@@ -11,6 +11,7 @@ https://alistapart.com/article/the-illusion-of-control-in-web-design/
 
 https://penpot.app/
 > https://github.com/penpot/penpot
+> > https://news.ycombinator.com/item?id=30407913
 
 https://www.nngroup.com/articles/marginalia-of-web-design/
 > https://news.ycombinator.com/item?id=27891669

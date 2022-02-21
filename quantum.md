@@ -59,10 +59,14 @@ https://news.uchicago.edu/story/uchicago-scientists-create-strange-quantum-domai
 
 # Business
 
+https://www.theregister.com/2022/02/18/hpe_samsung_classiq/
+
 https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://scitechdaily.com/major-breakthrough-as-quantum-computing-in-silicon-hits-99-accuracy/
+> https://news.ycombinator.com/item?id=30018323
 
 https://www.scientificamerican.com/article/when-it-comes-to-photosynthesis-plants-perform-quantum-computation/
 

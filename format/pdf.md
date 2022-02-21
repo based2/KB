@@ -15,6 +15,8 @@ https://observablehq.com/@tomlarkworthy/sign-a-pdf
 > https://news.ycombinator.com/item?id=27344069
 
 #
+https://news.ycombinator.com/item?id=30408276 Newser, utility written in go to generate a pdf with news content
+
 https://github.com/ahrm/sioyek PDF viewer designed for reading research papers and technical books, gpl, c
 > https://news.ycombinator.com/item?id=30395649
 

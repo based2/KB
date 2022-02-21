@@ -133,6 +133,8 @@ https://github.com/gzuidhof/starboard-notebook
 http://akkartik.name/post/literate-programming
 > https://news.ycombinator.com/item?id=29860951
 
+https://github.com/Quafadas/dedav4s Declarative Data Viz 4 Scala
+
 # http://fizzygum.org/
 https://news.ycombinator.com/item?id=27421401
 
@@ -228,6 +230,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://ethz.ch/en/news-and-events/eth-news/news/2022/02/predicting-complex-dynamics-from-data.html
+
 https://github.com/aochagavia/optimization-experiment/blob/master/research/blog.md
 
 https://pythonspeed.com/articles/numba-faster-python/

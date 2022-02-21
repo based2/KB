@@ -23,3 +23,5 @@ https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-
 
 https://medium.com/codex/spring-boot-microservices-coding-style-guidelines-and-best-practices-1dec229161c8
 > https://www.reddit.com/r/java/comments/sos5x1/spring_boot_microservices_coding_style_guidelines/
+
+https://camel.apache.org/manual/test-infra.html

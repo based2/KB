@@ -62,6 +62,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://github.com/stcarrez/swagger-ada
+
 https://blog.adacore.com/proving-the-correctness-of-gnat-light-runtime-library
 
 https://blog.adacore.com/ada-spark-crate-of-the-year-2021-winners-announced

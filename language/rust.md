@@ -336,6 +336,10 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://kvark.github.io/naga/shader/2022/02/17/shader-translation-benchmark.html
+
+https://paulbutler.org/2022/rust-for-web-devs-destructuring/
+
 https://tokio.rs/blog/2022-02-announcing-tokio-metrics
 
 https://blog.pnkfx.org/blog/2022/02/09/what-is-rusts-hole-purpose/

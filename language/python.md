@@ -201,6 +201,11 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://www.pypy.org/posts/2022/02/pypy-v738-release.html
+
+https://github.com/chrisgrimm/better_partial
+> https://news.ycombinator.com/item?id=30405346
+
 https://richardtier.com/2022/02/16/3-of-666-python-codebases-we-checked-had-silently-failing-unit-tests-and-we-fixed-them-all%ef%bf%bc/
 > https://news.ycombinator.com/item?id=30358651
 

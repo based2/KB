@@ -50,6 +50,14 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://appleinsider.com/articles/22/02/19/google-drive-users-stung-by-macos-dsstore-copyright-infringement-issue
+> https://news.ycombinator.com/item?id=30404587
+
+https://www.ictjournal.ch/news/2022-02-16/le-projet-dun-cloud-suisse-souverain-soutenu-au-national
+
+https://news.ycombinator.com/item?id=30398534 hetzner
+> https://news.ycombinator.com/item?id=30398534
+
 https://allma.io/blog/aws-tagging-strategy-cost-tracking-security-datadog-integration
 
 https://thenewstack.io/aleph-im-is-like-a-decentralized-aws-lambda-for-web3-dapps/

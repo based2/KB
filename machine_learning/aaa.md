@@ -247,6 +247,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://lastweekin.ai/p/conscious-ai?utm_source=url
+> https://news.ycombinator.com/item?id=30408924
+
+https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet
+> https://news.ycombinator.com/item?id=30401043
+
 https://github.com/gradio-app/gradio/releases/tag/v2.8.1
 
 https://arxiv.org/abs/2104.13478 Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges

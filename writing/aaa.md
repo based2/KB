@@ -47,6 +47,9 @@ https://www.markpollard.net/how-to-explain-an-idea/
 http://paulgraham.com/words.html
 > https://news.ycombinator.com/item?id=30313438
 
+https://bellmar.medium.com/the-death-of-process-cdb0151a41fe
+> https://news.ycombinator.com/item?id=30394344
+
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?
 

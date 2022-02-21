@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.jamesdysonaward.org/2020/project/aureus-aurora-renewable-energy-uv-sequestration/
+> https://news.ycombinator.com/item?id=30399379
+
 https://arstechnica.com/gadgets/2022/01/new-solar-roof-can-be-nailed-just-like-old-school-shingles/
 
 https://medium.com/geekculture/balcony-solar-panels-one-year-results-176af4adaf5b

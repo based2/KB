@@ -5,6 +5,8 @@ https://registry.terraform.io/
 
 https://terraform-docs.io/
 
+https://thecontinuousturning.substack.com/p/terraform-at-scale?utm_source=url
+
 https://www.runatlantis.io/
 https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support
 
@@ -40,6 +42,8 @@ https://cloudonaut.io/terraform-can-you-keep-a-secret/
 https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terraform-code-1d586955ace1
 
 https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
+
+https://github.com/opencredo/terrahelp
 
 # News
 https://www.reddit.com/r/devops/comments/smfr2e/do_any_companiesprojects_publish_their_terraform/

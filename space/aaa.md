@@ -133,8 +133,12 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://scitechdaily.com/astronomers-find-the-biggest-structure-in-the-milky-way-filament-of-hydrogen-3900-light-years-long/
+
 https://www.dw.com/en/chinese-space-cleaner-spotted-grabbing-and-throwing-away-old-satellite/a-60658574
 > https://news.ycombinator.com/item?id=30392220
+> > https://science.thewire.in/spaceflight/chinese-sj-21-satellite-spotted-grabbing-throwing-away-old-satellite/
+> > > https://news.ycombinator.com/item?id=30406004
 
 https://www.nature.com/articles/d41586-022-00400-3
 > https://news.ycombinator.com/item?id=30298474

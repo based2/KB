@@ -82,3 +82,6 @@ https://github.com/facebook/zstd/releases/tag/v1.5.0
 
 https://github.com/Jarred-Sumner/hop tar like
 > https://news.ycombinator.com/item?id=29178710
+
+https://alexanderpruss.blogspot.com/2022/02/game-boy-wordle-how-to-compress-12972.html
+> https://news.ycombinator.com/item?id=30402407

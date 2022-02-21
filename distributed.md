@@ -94,6 +94,7 @@ https://github.com/anishathalye/porcupine
 https://asatarin.github.io/testing-distributed-systems/
 
 # News
+https://lists.apache.org/list?announce@apache.org:2022-2 Apache ShardingSphere 5.1.0 available
 
 https://jepsen.io/analyses/radix-dlt-1.0-beta.35.1
 > https://news.ycombinator.com/item?id=30221187

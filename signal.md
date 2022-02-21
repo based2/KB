@@ -29,6 +29,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://computer.rip/2022-02-19-PCM.html
+
 https://www.navalnews.com/naval-news/2022/02/unseenlabs-reveals-ships-that-vanished-from-conventional-geolocation-systems/
 
 https://destevez.net/2022/02/demodulation-of-the-lte-uplink/

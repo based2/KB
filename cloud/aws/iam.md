@@ -39,3 +39,6 @@ https://github.com/99designs/aws-vault
 
 # SSO
 https://github.com/synfinatic/aws-sso-cli
+
+# News
+https://github.com/glassechidna/trackiam

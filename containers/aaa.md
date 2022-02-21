@@ -36,6 +36,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://iximiuz.com/en/posts/oci-containers/
+
 https://blog.min.io/small-file-archives/
 > https://news.ycombinator.com/item?id=30364072
 

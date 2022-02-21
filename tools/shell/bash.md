@@ -72,6 +72,8 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://news.ycombinator.com/item?id=30405177 Ask HN: Let's build Checkstyle for Bash?
+
 https://mywiki.wooledge.org/BashPitfalls
 > https://news.ycombinator.com/item?id=30345487
 

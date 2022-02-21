@@ -87,11 +87,18 @@ https://www.diagrams.net/
 
 https://icepanel.io
 
-https://github.com/yishn/tikzcd-editor
-> https://news.ycombinator.com/item?id=15620632
-
 https://fosdem.org/2021/schedule/event/realtime_netlisting/
 > https://news.ycombinator.com/item?id=27367414
+
+https://en.wikipedia.org/wiki/Layered_graph_drawing
+> https://jgaa.info/accepted/2005/EiglspergerSiebenhallerKaufmann2005.9.3.pdf
+
+https://cs.brown.edu/people/rtamassi/gdhandbook/chapters/hierarchical.pdf
+
+https://github.com/eclipse/sprotty
+> https://github.com/kieler/elkjs
+
+https://github.com/kwonoh/glam GLAM: Graph Layout Aesthetic Metrics
 
 # Howto
 https://research.protocol.ai/blog/2021/designing-a-dataflow-editor-with-typescript-and-react/
@@ -114,8 +121,9 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://camel.apache.org/blog/2022/02/camel-karavan-0.0.10/
+
 https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool
->
 
 https://github.com/mermaid-js/mermaid/pull/2655
 

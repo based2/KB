@@ -91,6 +91,9 @@ https://ampache.org/
 > https://news.ycombinator.com/item?id=27952725
   > https://github.com/epoupon/lms
 
+https://garage44.org/posts/pyrite/pyrite-conferencing.html
+> https://news.ycombinator.com/item?id=30398192
+
 # Data
 https://illlustrations.co/
 > https://news.ycombinator.com/item?id=28349738
@@ -188,6 +191,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://libre.space/
+
 https://sourceware.org/pipermail/binutils/2022-February/119721.html
 
 https://www.i-programmer.info/news/149-security/15210-european-union-will-pay-for-finding-bugs-in-open-source-software.html

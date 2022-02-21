@@ -1,3 +1,37 @@
+https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/
+
+https://kazet.cc/2022/02/03/fuzzing-wordpress-plugins.html
+
+https://medium.com/airtable-eng/stateful-model-based-database-fuzzing-eacffb4d7337
+
+https://research.ifcr.dk/certipy-2-0-bloodhound-new-escalations-shadow-credentials-golden-certificates-and-more-34d1c26f0dc6
+> https://www.reddit.com/r/netsec/comments/sw9w19/certipy_20_bloodhound_new_domain_privilege/
+
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-22005 SharePoint RCE
+
+https://www.theregister.com/2022/02/17/jpmorgan_postquantum/
+
+https://www.cadosecurity.com/technical-analysis-of-the-ddos-attacks-against-ukrainian-websites/
+
+https://kaizoku.dev/htb-devoops#heading-further-discovery-and-vulnerability-assessment
+> https://news.ycombinator.com/item?id=30405959
+
+https://securityconference.org/publikationen/munich-security-report-2022/
+
+https://www.misp-project.org/
+
+https://sprocketfox.io/xssfox/2022/02/09/terraformsupply/?utm_campaign=weekly.tf&utm_medium=email&utm_source=Revue%20newsletter
+
+https://www.joshbeckman.org/what-spam-accounts-look-like-in-2022/
+> https://news.ycombinator.com/item?id=30388074
+
+https://thehackerblog.com/zero-days-without-incident-compromising-angular-via-expired-npm-publisher-email-domains-7kZplW4x/
+> https://news.ycombinator.com/item?id=30403848
+
+https://www.cisa.gov/uscert/ncas/current-activity/2022/02/18/cisa-compiles-free-cybersecurity-services-and-tools-network
+> https://www.cisa.gov/free-cybersecurity-services-and-tools
+> > https://news.ycombinator.com/item?id=30404819
+
 https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure
 
 https://pentestlab.blog/2022/02/14/persistence-notepad-plugins/

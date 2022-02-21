@@ -51,6 +51,8 @@ https://spidermonkey.dev/
 https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
 > https://news.ycombinator.com/item?id=27370138
 
+https://pythondev.readthedocs.io/wasm.html
+
 # Security
 https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 > https://news.ycombinator.com/item?id=26994741
@@ -67,6 +69,12 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.graalvm.org/22.0/reference-manual/wasm/
+
+https://docs.oracle.com/en/graalvm/enterprise/20/docs/reference-manual/wasm/
+
+https://github.com/oracle/graal/issues/3391 Wasm target architecture for native image
+
 https://lab.allotropia.de/wasm/ libre office
 > https://news.ycombinator.com/item?id=30356020
 

@@ -95,6 +95,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://github.com/MISP/misp-wireshark
+
 https://hackaday.com/2022/02/18/open-source-lxi-tools-free-us-from-vendor-bloat/
 
 https://susam.net/maze/toy-traceroute-with-ping.html

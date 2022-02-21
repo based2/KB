@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning
+
 https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/
 > https://www.automa.site/
 > > https://github.com/Kholid060/automa

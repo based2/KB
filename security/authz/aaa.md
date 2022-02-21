@@ -12,3 +12,5 @@ https://github.com/warrant-dev/awesome-authorization
 > https://news.ycombinator.com/item?id=29703950
 
 https://colinking.substack.com/p/the-on3-authz-problem
+
+https://neilmadden.blog/2022/02/19/is-datalog-a-good-language-for-authorization/

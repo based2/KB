@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.energymonitor.ai/sectors/power/live-eu-electricity-generation-map
+
 https://news.ycombinator.com/item?id=30362510
 
 https://phys.org/news/2022-02-scientists-material-absorb-enormous-amounts.html

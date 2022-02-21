@@ -106,6 +106,10 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.pcg-random.org/posts/does-it-beat-the-minimal-standard.html
+
+https://users.ece.cmu.edu/~koopman/lfsr/index.html
+
 https://spacetime.dev/plausibly-deniable-encryption
 > https://news.ycombinator.com/item?id=30388812
 
