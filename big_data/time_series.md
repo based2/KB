@@ -15,3 +15,6 @@ https://xtdb.com/
 > https://news.ycombinator.com/item?id=29758334
 
 https://duckdb.org/2022/01/06/time-zones.html
+
+https://aicoding.substack.com/p/mindsdb-time-series?utm_source=url
+> https://news.ycombinator.com/item?id=30424575

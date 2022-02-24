@@ -71,6 +71,9 @@ https://www.innoq.com/de/blog/nginx-ssi-env/
 https://nginx.org/en/docs/control.html#upgrade
 > https://news.ycombinator.com/item?id=29797478
 
+https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/
+> https://news.ycombinator.com/item?id=30435282
+
 ##
 https://caddyserver.com/
 > https://news.ycombinator.com/item?id=29378030

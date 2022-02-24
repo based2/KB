@@ -230,6 +230,13 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/
+
+https://alexklibisz.com/2022/02/18/optimizing-postgres-trigram-search.html
+> https://news.ycombinator.com/item?id=30433269
+
+https://www.youtube.com/watch?v=j7UPVU5UCV4 Intro to Postgres Planner - Hacking Melanie Plageman
+
 https://github.com/shayonj/pg-online-schema-change
 
 https://blog.yugabyte.com/postgresql-timestamps-timezones/

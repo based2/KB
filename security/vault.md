@@ -17,6 +17,9 @@ https://bitwarden.com/
 > https://news.ycombinator.com/item?id=29991585
 > https://github.com/bitwarden c#
 
+https://www.huy.rocks/everyday/02-22-2022-security-how-bitwarden-encrypts-your-data
+> https://news.ycombinator.com/item?id=30436028
+
 https://github.com/dani-garcia/vaultwarden Rust
 > https://news.ycombinator.com/item?id=29662418
 

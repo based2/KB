@@ -191,6 +191,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-action-plan-open-source-french-administration
+> https://news.ycombinator.com/item?id=30439948
+
 https://libre.space/
 
 https://sourceware.org/pipermail/binutils/2022-February/119721.html

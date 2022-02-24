@@ -50,6 +50,9 @@ http://paulgraham.com/words.html
 https://bellmar.medium.com/the-death-of-process-cdb0151a41fe
 > https://news.ycombinator.com/item?id=30394344
 
+https://pudding.cool/2022/02/plain/ What makes writing more readable?
+> https://news.ycombinator.com/item?id=30441773
+
 # Books
 https://news.ycombinator.com/item?id=28605777 How do I easily catalog a couple thousand physical books?
 

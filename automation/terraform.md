@@ -46,6 +46,10 @@ https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 https://github.com/opencredo/terrahelp
 
 # News
+https://medium.com/@adrianarba/ci-cd-defined-through-terraform-using-aws-codepipeline-aws-codecommit-and-aws-codebuild-12ade4d9cfa3
+
+https://github.com/JasonPodgorny/terrafunk
+
 https://www.reddit.com/r/devops/comments/smfr2e/do_any_companiesprojects_publish_their_terraform/
 
 https://www.reddit.com/r/Terraform/comments/seo2mr/hcl_struct_syntax/

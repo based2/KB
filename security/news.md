@@ -1,3 +1,31 @@
+https://about.gitlab.com/blog/2022/02/17/fantastic-infrastructure-as-code-security-attacks-and-how-to-find-them/
+
+https://security.googleblog.com/2022/02/mitigating-kernel-risks-on-32-bit-arm.html
+
+https://www.theregister.com/2022/02/23/ubuntu_kernel_updates/
+
+https://www.pangulab.cn/files/The_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.en.pdf
+> https://www.theregister.com/2022/02/23/chinese_nsa_linux/
+
+https://www.tomshardware.com/news/windows-data-wiping-tool-leaves-data-on-disk
+> https://news.ycombinator.com/item?id=30440757
+
+https://github.com/veeral-patel/how-to-secure-anything
+> https://news.ycombinator.com/item?id=30426909
+
+https://blog.px.dev/detect-monero-miners/
+> https://news.ycombinator.com/item?id=30431098
+
+https://groups.google.com/g/rubyonrails-security/c/zlI-qMMwZvQ [CVE-2022-23633] Possible exposure of information vulnerability in Action Pack
+
+https://mrd0x.com/bypass-2fa-using-novnc/
+> https://news.ycombinator.com/item?id=30435326
+
+https://grsecurity.net/amd_branch_mispredictor_just_set_it_and_forget_it
+
+https://www.shielder.it/advisories/pfsense-remote-command-execution/
+> https://news.ycombinator.com/item?id=30442325
+
 https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/
 
 https://kazet.cc/2022/02/03/fuzzing-wordpress-plugins.html

@@ -43,6 +43,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://computer.rip/2020-05-16-host-firewalls.html
+> https://news.ycombinator.com/item?id=30431604
+
 https://github.com/ulfox/nettrust Dynamic Firewall
 > https://news.ycombinator.com/item?id=30293424
 

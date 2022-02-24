@@ -113,6 +113,9 @@ https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performan
 https://tinkering.xyz/fmo-optimization-story/
 > https://news.ycombinator.com/item?id=30301324
 
+http://0x80.pl/articles/simd-parsing-int-sequences.html
+> https://news.ycombinator.com/item?id=30441766
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

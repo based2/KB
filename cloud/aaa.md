@@ -50,6 +50,13 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://news.ycombinator.com/item?id=30430537 Ask HN: Is Kubernetes the only alternative for being cloud agnostic?
+
+https://news.ycombinator.com/item?id=30440486 Show HN: Elestio – Managed platform for over 150 open-source software stacks
+> https://doc.elest.io/books/cloud-providers/page/byovm-bring-your-own-vm
+
+https://fusionauth.io/blog/2022/02/07/how-to-migrate-from-cognito
+
 https://appleinsider.com/articles/22/02/19/google-drive-users-stung-by-macos-dsstore-copyright-infringement-issue
 > https://news.ycombinator.com/item?id=30404587
 

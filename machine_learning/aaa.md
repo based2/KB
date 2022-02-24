@@ -247,6 +247,22 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://tinyverse.substack.com/p/introducing-hotgdev-open-ideas-meets
+
+https://newscatcherapi.com/blog/how-to-classify-text-with-python-transformers-and-scikit-learn
+
+https://www.theregister.com/2022/02/22/microsoft_singularity_ai_infrastructure/
+
+https://lilianweng.github.io/lil-log/2022/02/20/active-learning.html
+
+https://github.com/jokenox/Goopt Search Engine for a Procedural Simulation of the Web with GPT-3
+> https://news.ycombinator.com/item?id=30443738
+
+https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/
+
+https://nod.ai/pytorch-m1-max-gpu/
+> https://news.ycombinator.com/item?id=30434886
+
 https://lastweekin.ai/p/conscious-ai?utm_source=url
 > https://news.ycombinator.com/item?id=30408924
 

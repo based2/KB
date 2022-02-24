@@ -27,6 +27,11 @@ https://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html
 > https://news.ycombinator.com/item?id=29821687
 
 # News
+https://textile-lang.com/
+> https://news.ycombinator.com/item?id=30414554
+
+https://buf.build/blog/buf-cli-v1
+
 https://buf.build/blog/announcing-bsr protobuf
 
 https://kevincox.ca/2022/01/19/typed-config-languages/

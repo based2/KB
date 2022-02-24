@@ -91,6 +91,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/releaselog/3_38_0.html
+> https://news.ycombinator.com/item?id=30433810
+
 https://www.visophyte.org/blog/2010/04/06/performance-annotated-sqlite-explaination-visualizations-using-systemtap/
 
 https://medium.com/@JasonWyatt/squeezing-performance-from-sqlite-explaining-the-virtual-machine-2550ef6c5db

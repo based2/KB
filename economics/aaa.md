@@ -103,6 +103,9 @@ https://www.cnbc.com/2022/02/18/fed-approves-rules-banning-its-officials-from-tr
 
 https://github.com/ta4j/ta4j technical analysis. It provides the basic components for creation, evaluation and execution of trading strategies.
 
+https://github.com/wilsonfreitas/awesome-quant
+> https://news.ycombinator.com/item?id=30426511
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

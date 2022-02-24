@@ -106,6 +106,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.infoq.com/articles/post-quantum-cryptography-introduction/
+
 https://www.pcg-random.org/posts/does-it-beat-the-minimal-standard.html
 
 https://users.ece.cmu.edu/~koopman/lfsr/index.html

@@ -201,6 +201,17 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://betterprogramming.pub/continuous-performance-improvement-of-http-api-86290433aa54
+
+https://github.com/RobertCraigie/prisma-client-py
+> https://news.ycombinator.com/item?id=30416531
+
+https://verdagon.dev/blog/python-data-races
+> https://news.ycombinator.com/item?id=30420579
+
+https://lwn.net/SubscriberLink/885682/48b636e302eea2fa/ Python support for regular expressions
+> https://news.ycombinator.com/item?id=30435299
+
 https://www.pypy.org/posts/2022/02/pypy-v738-release.html
 
 https://github.com/chrisgrimm/better_partial

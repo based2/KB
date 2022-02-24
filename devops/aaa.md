@@ -104,6 +104,13 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://gitlab.com/gitlab-org/gitlab/-/issues/23166 Can repository mirroring (pulling) be incorporated into Gitlab CE?
+
+https://about.gitlab.com/releases/2022/02/22/gitlab-14-8-released/
+> https://news.ycombinator.com/item?id=30430227
+
+https://scaledagiledevops.com/
+
 https://revelry.co/insights/development/nix-time/
 > https://news.ycombinator.com/item?id=30384121
 > https://www.reddit.com/r/programming/comments/sw2cjd/nix_an_idea_whose_time_has_come/

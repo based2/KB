@@ -43,6 +43,9 @@ https://www.youtube.com/watch?v=Qytg0Ibet2E
 
 https://www.youtube.com/watch?v=x7drE24geUw CRDTs: The Hard Parts
 
+https://github.com/automerge/automerge js, json
+> https://news.ycombinator.com/item?id=30412550
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

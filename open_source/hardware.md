@@ -47,6 +47,9 @@ https://openpowerfoundation.org/libre-soc-180nm-power-isa-asic-submitted-to-imec
 
 https://opensource.googleblog.com/2021/09/open-source-systemverilog-tools-in-asic-design.html
 
+https://groupgets.com/campaigns/1003-clear-the-open-source-fpga-asic-by-chipignite
+> https://news.ycombinator.com/item?id=30437021
+
 # Video
 https://github.com/schlae/graphics-gremlin ISA
 > https://news.ycombinator.com/item?id=27171100

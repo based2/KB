@@ -27,6 +27,8 @@ https://chown.me/blog/getting-my-own-asn
 https://blog.brixit.nl/going-ipv6-only/
 > https://news.ycombinator.com/item?id=30400785
 
+https://zacwe.st/2022/02/21/ipv6-in-a-home-environment/
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

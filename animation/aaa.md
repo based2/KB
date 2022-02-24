@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.jeremyong.com/color%20theory/2022/02/19/implementing-the-flip-algorithm/
+
 https://www.dropbox.com/s/k4fvt0utdot1r6t/scripting-particles.pdf?dl=0
 
 https://conwaylife.com/wiki/List_of_Life-like_cellular_automata

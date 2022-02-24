@@ -36,6 +36,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html
+> https://news.ycombinator.com/item?id=30433518
+
 https://iximiuz.com/en/posts/oci-containers/
 
 https://blog.min.io/small-file-archives/

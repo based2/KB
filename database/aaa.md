@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://frankzliu.com/2021/12/23/a_gentle_introduction_to_vector_databases.html
+> https://news.ycombinator.com/item?id=30425599
+
 https://arrow.apache.org/blog/2022/02/16/introducing-arrow-flight-sql/
 > https://news.ycombinator.com/item?id=30360726
 

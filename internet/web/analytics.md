@@ -30,6 +30,9 @@ https://ariadne.space/2021/11/04/an-inside-look-into-the-illicit-ad-industry/
 https://kvirkvelia.com/ads-plugin-steals-30-of-your-money/
 > https://news.ycombinator.com/item?id=30057955
 
+https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html
+> https://news.ycombinator.com/item?id=30411049
+
 # News
 https://jmmv.dev/2022/02/diy-web-analytics.html
 > https://news.ycombinator.com/item?id=30170526

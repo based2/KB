@@ -80,6 +80,11 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://linuxjedi.co.uk/2022/02/23/emulating-ppc32-linux-in-x86_64-linux/
+
+https://abarrak.gitbook.io/linux-sysops-handbook
+> https://news.ycombinator.com/item?id=30430594
+
 https://ilearned.eu/initramfs.html
 
 https://lwn.net/SubscriberLink/884104/89d8ccf8f52ad9dc/ Going big with TCP packets

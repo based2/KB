@@ -103,6 +103,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.natemeyvis.com/writing/on-ankis-database-structure/
+> https://news.ycombinator.com/item?id=30427549
+
 https://github.com/Roznoshchik/Lurnby
 > https://news.ycombinator.com/item?id=30299847
 

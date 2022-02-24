@@ -55,6 +55,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://news.northwestern.edu/stories/2022/02/bacteria-upcycle-carbon-waste-into-valuable-chemicals/
+> https://news.ycombinator.com/item?id=30432512
+
 https://www.theverge.com/2022/2/18/22940826/carbon-capture-tech-wrong-direction-power-plants-industrial-emissions
 
 https://www.wired.com/story/it-might-be-time-to-take-methane-removal-seriously/

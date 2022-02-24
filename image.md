@@ -11,6 +11,9 @@ https://imglarger.com/
 https://resizer.in/
 
 #
+https://github.com/nasa-jpl/autoRIFT fast and intelligent algorithm for finding the pixel displacement between two images
+> https://news.ycombinator.com/item?id=30434375
+
 https://news.ycombinator.com/item?id=30085702 Show HN: API to generate charts in PNG/SVG/HTML
 
 https://cleanup.pictures/

@@ -11,3 +11,6 @@ https://www.washingtonpost.com/climate-solutions/2021/10/30/flood-vienna-danube-
 https://techcrunch.com/2021/11/03/waterplan-tracks-water-risks-and-sustainable-solutions-for-climate-conscious-companies/
 
 https://en.wikipedia.org/wiki/Water-energy_nexus
+
+https://www.bbc.com/travel/article/20220220-valencias-la-huerta-spains-ingenious-water-maze
+> https://news.ycombinator.com/item?id=30419451

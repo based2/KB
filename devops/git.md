@@ -205,6 +205,9 @@ https://github.com/foriequal0/git-trim
 https://githistory.xyz/
 
 # Monorepo
+https://monorepo.tools/
+> https://news.ycombinator.com/item?id=30438579
+
 https://news.ycombinator.com/item?id=26479127
 
 https://news.ycombinator.com/item?id=26164790

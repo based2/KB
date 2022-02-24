@@ -67,6 +67,8 @@ https://www.kb.cert.org/vuls/id/589825/ Blurtooth
 https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit
 
 ## 2020
+https://samy.pl/slipstream/ NAT
+
 https://www.fragattacks.com/ wifi
 > https://arstechnica.com/gadgets/2021/05/farewell-to-firewalls-wi-fi-bugs-open-network-devices-to-remote-hacks/
 > > https://news.ycombinator.com/item?id=27329678

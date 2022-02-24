@@ -59,3 +59,8 @@ https://www.nature.com/articles/s41377-020-0334-8
 
 https://www.2020mag.com/ce/the-real-details-of-vertex-5E16F
 
+https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-1-1&id=466274 Recent advances in lensless imaging
+> https://news.ycombinator.com/item?id=30432059
+
+https://news.utdallas.edu/science-technology/see-through-microchip-tech-2022/
+

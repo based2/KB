@@ -113,6 +113,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://schumacher.sh/2021/05/10/running-a-private-mail-server-for-six-years-easy-peasy.html
+> https://news.ycombinator.com/item?id=30428882
+
 https://twitter.com/louisnicholls_/status/1487179285177815047
 > https://news.ycombinator.com/item?id=30388788
 

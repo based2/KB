@@ -1,3 +1,7 @@
+https://werwolv.net/blog/surface_ioctl
+
+https://github.com/trailofbits/maat
+
 https://www.sentinelone.com/labs/moving-from-manual-reverse-engineering-of-uefi-modules-to-dynamic-emulation-of-uefi-firmware/
 
 https://www.righto.com/2022/02/yamaha-dx7-chip-reverse-engineering.html
