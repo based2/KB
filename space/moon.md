@@ -27,6 +27,11 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://www.sciencealert.com/the-moon-has-glass-balls
+> https://www.sciencedirect.com/science/article/abs/pii/S2095927321006964
+
+https://phys.org/news/2022-02-chinese-rover-translucent-glass-globules.html
+
 https://blog.jatan.space/p/lunar-rovers-launching-in-2020s
 > https://news.ycombinator.com/item?id=30361919
 

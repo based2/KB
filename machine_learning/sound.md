@@ -10,3 +10,6 @@ https://github.com/snakers4/silero-vad pre-trained enterprise-grade Voice Activi
 > https://news.ycombinator.com/item?id=29734797
 
 https://petewarden.com/2022/01/06/launching-spchcat-an-open-source-speech-recognition-tool-for-linux-and-raspberry-pi/
+
+https://qosmo.jp/en/projects/ai-dj-project2-ubiquitous-rhythm/
+> https://news.ycombinator.com/item?id=30475880

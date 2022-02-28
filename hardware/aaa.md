@@ -56,6 +56,9 @@ https://github.com/wirekang/mouseable
 https://github.com/taylorconor/threeboard
 > https://news.ycombinator.com/item?id=29892811
 
+https://github.com/sigoden/windows-switcher
+> https://news.ycombinator.com/item?id=30488027
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -68,6 +71,14 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.talospace.com/2022/02/intel-gets-worse-but-power11-might-get.html
+> https://news.ycombinator.com/item?id=30490660
+
+https://arstechnica.com/information-technology/2022/01/pluton-microsofts-new-security-chip-will-finally-be-put-to-the-test/
+
+https://shop.pimoroni.com/products/badger-2040?variant=39752959852627
+> https://news.ycombinator.com/item?id=30472268
+
 https://lwn.net/SubscriberLink/884876/ba79f0b75e086321/ Thoughts on software-defined silicon
 > https://news.ycombinator.com/item?id=30394918
 

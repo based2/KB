@@ -50,6 +50,8 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://pagure.io/Fedora-Council/tickets/issue/181 Hetzner Cloud modified VPS images of Fedora (no SELinux, FirewallD, Cockpit, tmpfs. 4years closure
+
 https://news.ycombinator.com/item?id=30430537 Ask HN: Is Kubernetes the only alternative for being cloud agnostic?
 
 https://news.ycombinator.com/item?id=30440486 Show HN: Elestio – Managed platform for over 150 open-source software stacks

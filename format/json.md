@@ -71,6 +71,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://jless.io/ Command-line viewer
+> https://news.ycombinator.com/item?id=30452162
+
 https://pauljuliusmartinez.github.io/
 > https://news.ycombinator.com/item?id=30273940
 

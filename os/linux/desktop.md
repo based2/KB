@@ -42,6 +42,20 @@ https://github.com/casualsnek/cassowary run a Windows virtual machine and use Wi
 > https://news.ycombinator.com/item?id=30214762
 
 # News
+https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/
+> https://news.ycombinator.com/item?id=30490570
+
+https://pointieststick.com/2022/02/25/this-week-in-kde-bugfixing-plasma-5-24/
+
+https://lunduke.substack.com/p/make-linux-look-exactly-like-windows
+> https://news.ycombinator.com/item?id=30474690
+
+https://www.dedoimedo.com/computers/windows-moving-away.html
+> https://news.ycombinator.com/item?id=30462512
+
+https://relational-pipes.globalcode.info/v_0/examples-x11-basics.xhtml
+> https://news.ycombinator.com/item?id=30438676
+
 https://jgrulich.cz/2022/02/16/webrtc-journey-to-make-wayland-screen-sharing-enabled-by-default/
 
 https://tuxphones.com/convergent-linux-phone-apps/

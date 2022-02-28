@@ -14,6 +14,11 @@ https://github.com/tabulapdf/tabula-java
 https://observablehq.com/@tomlarkworthy/sign-a-pdf
 > https://news.ycombinator.com/item?id=27344069
 
+# to CSV
+https://tabula.technology/
+> https://news.ycombinator.com/item?id=30475784
+> > https://excalibur-py.readthedocs.io/en/master/
+
 #
 https://news.ycombinator.com/item?id=30408276 Newser, utility written in go to generate a pdf with news content
 

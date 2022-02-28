@@ -65,6 +65,13 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://ionq.com/posts/february-23-2022-algorithmic-qubits
+
+https://phys.org/news/2022-02-sourced-hardware-quantum.html
+
+https://quantum.country/
+> https://news.ycombinator.com/item?id=30467585
+
 https://scitechdaily.com/major-breakthrough-as-quantum-computing-in-silicon-hits-99-accuracy/
 > https://news.ycombinator.com/item?id=30018323
 

@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://no-color.org/
+> https://news.ycombinator.com/item?id=30483417
+
 https://github.com/TheRealOrange/terminalvideoplayer
 
 https://github.com/salt-die/nurses_2 Terminal Graphics, Python

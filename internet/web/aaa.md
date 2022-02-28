@@ -73,6 +73,10 @@ https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-
 > https://news.ycombinator.com/item?id=30013100
 
 # News
+https://www.oilshell.org/blog/2022/02/diagrams.html
+> https://news.ycombinator.com/item?id=30483914
+> https://lobste.rs/s/o3rjb0/internet_was_designed_with_narrow_waist
+
 https://en.wikipedia.org/wiki/Library_Genesis
 
 https://webcompat.com/

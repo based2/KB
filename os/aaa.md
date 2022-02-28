@@ -14,6 +14,12 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://codeberg.org/StefanK/MinimalBinaryBoot
+>
+
+https://os.phil-opp.com/
+> https://news.ycombinator.com/item?id=30467572
+
 https://github.com/seeker89/unikernels
 > https://news.ycombinator.com/item?id=30358036
 

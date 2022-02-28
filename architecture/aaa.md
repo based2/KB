@@ -116,6 +116,8 @@ https://tinkering.xyz/fmo-optimization-story/
 http://0x80.pl/articles/simd-parsing-int-sequences.html
 > https://news.ycombinator.com/item?id=30441766
 
+https://ethz.ch/content/dam/ethz/special-interest/infk/ast-dam/documents/Theodoridis-ASPLOS22-Inlining-Paper.pdf
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project
+
 https://lwn.net/SubscriberLink/884875/58f88e6eb7913686/ Uniting the Linux random-number devices
 > https://news.ycombinator.com/item?id=30373351
 

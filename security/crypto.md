@@ -1,6 +1,8 @@
 https://en.wikipedia.org/wiki/Known-plaintext_attack
 > https://news.ycombinator.com/item?id=27327659
 
+https://en.wikipedia.org/wiki/Attribute-based_encryption
+
 https://www.bearssl.org/constanttime.html
 
 https://falcon-sign.info/
@@ -106,6 +108,12 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://eprint.iacr.org/2022/214 Breaking Rainbow signature scheme Takes a Weekend on a Laptop
+> https://news.ycombinator.com/item?id=30466063
+
+https://www.quantamagazine.org/cryptographers-achieve-perfect-secrecy-with-imperfect-devices-20220225/
+> https://news.ycombinator.com/item?id=30468817
+
 https://www.infoq.com/articles/post-quantum-cryptography-introduction/
 
 https://www.pcg-random.org/posts/does-it-beat-the-minimal-standard.html

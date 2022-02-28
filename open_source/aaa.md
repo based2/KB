@@ -191,6 +191,24 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.computerweekly.com/blog/Open-Source-Insider/International-Space-Station-adopts-Debian-Linux-drops-Windows-Red-Hat-into-airlock
+
+https://airflow.apache.org/docs/apache-airflow/2.2.4/changelog.html
+
+https://www.gimp.org/news/2022/02/25/gimp-2-99-10-released/ dev
+
+https://sfconservancy.org/news/2022/feb/23/committee-ai-assisted-software-github-copilot/
+
+https://discuss.python.org/t/github-issues-migration-is-coming-soon/13791
+
+https://www.phoronix.com/scan.php?page=news_item&px=Intel-USF-FSP-3.0-Less-OSF
+> https://news.ycombinator.com/item?id=30486161
+
+https://www.fsf.org/blogs/community/the-libreplanet-2022-living-liberation-schedule-is-here-for-19-20-march
+
+https://inkstitch.org/
+> https://news.ycombinator.com/item?id=30465375
+
 https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-action-plan-open-source-french-administration
 > https://news.ycombinator.com/item?id=30439948
 

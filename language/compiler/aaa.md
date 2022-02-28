@@ -103,6 +103,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://thephilbert.io/2022/02/25/gcc-rust-monthly-report-14-february-2022/
+
 https://github.com/jamiebuilds/the-super-tiny-compiler/blob/master/the-super-tiny-compiler.js
 > https://news.ycombinator.com/item?id=30129911
 

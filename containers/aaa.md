@@ -36,6 +36,12 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.hashicorp.com/blog/consul-api-gateway-now-generally-available
+
+https://news.ycombinator.com/item?id=30465854 Open-Source Unbound DNS Resolver Docker Image
+
+https://www.datocms-assets.com/2885/1597077859-consul-life-of-a-packet-service-mesh-v11-digital.pdf
+
 https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html
 > https://news.ycombinator.com/item?id=30433518
 
@@ -126,7 +132,7 @@ https://www.utam0k.jp/en/blog/2021/12/27/youki_first_release/ Rust
 https://danluu.com/cgroup-throttling/
 > https://news.ycombinator.com/item?id=29690769
 
-https://iximiuz.com/en/posts/containers-101-attach-vs-exec/?utm_medium=social&utm_source=twitter
+https://iximiuz.com/en/posts/containers-101-attach-vs-exec/
 
 https://danluu.com/cgroup-throttling/
 

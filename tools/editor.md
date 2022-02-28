@@ -59,6 +59,9 @@ https://github.com/kabinspace/AstroVim
 https://github.com/johnsonjh/OpenVi
 > https://news.ycombinator.com/item?id=30394952
 
+https://www.guckes.net/vim/setup.html
+> https://news.ycombinator.com/item?id=30461996
+
 # Nano
 
 
@@ -143,17 +146,11 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
-https://blog.jetbrains.com/fleet/2022/02/fleet-below-deck-part-ii-breaking-down-the-editor/
+https://www.eclipse.org/eclipse/news/4.23/platform.php
 
 https://community.notepad-plus-plus.org/topic/22438/notepad-v8-2-2-release-candidate
 
-https://github.com/JetBrains/JetBrainsMono
-> https://news.ycombinator.com/item?id=30009287
-
 https://nickgravgaard.com/elastic-tabstops/
-
-https://blankly.finance/vscode-vs-jetbrains/
-> https://news.ycombinator.com/item?id=29887706
 
 https://news.ycombinator.com/item?id=29874669 Ask HN: How to learn about text editor architectures and implementations?
 
@@ -169,9 +166,6 @@ https://giansegato.com/essays/what-future-ides/
 
 https://github.com/tonsky/FiraCode
 > https://news.ycombinator.com/item?id=29383583
-
-https://www.jetbrains.com/fleet/ https://blog.jetbrains.com/blog/2021/11/29/introducing-remote-development-for-jetbrains-ides/
-> https://news.ycombinator.com/item?id=29377412
 
 http://www.jedit.org/
 > https://news.ycombinator.com/item?id=29291330

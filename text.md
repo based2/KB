@@ -114,6 +114,10 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://blog.opensyllabus.org/about-the-open-syllabus-project/
+
+https://github.com/neuml/txtai
+
 https://github.com/larrykollar/Unix-Text-Processing
 > https://news.ycombinator.com/item?id=30396667
 

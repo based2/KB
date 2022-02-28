@@ -43,6 +43,9 @@ https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
 
 https://www.faa.gov/newsroom/faa-statements-5g
 
+https://github.com/free5gc/free5gc Open source 5G core network base on 3GPP R15
+> https://news.ycombinator.com/item?id=30477078
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
@@ -88,6 +91,10 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://openbts.org/
+
+https://bellard.org/lte/
+
 https://www.init7.net/en/internet/fiber7/
 > https://news.ycombinator.com/item?id=30387566
 

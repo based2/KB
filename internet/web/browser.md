@@ -30,6 +30,11 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType
+> https://news.ycombinator.com/item?id=30489382
+
+https://www.macrumors.com/2022/02/25/should-apple-ban-rival-browser-engines/
+> https://news.ycombinator.com/item?id=30471148
 
 > https://news.ycombinator.com/item?id=30405815
 

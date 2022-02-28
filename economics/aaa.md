@@ -59,6 +59,8 @@ https://news.ycombinator.com/item?id=29025699
 https://www.nytimes.com/2022/01/12/business/libor-finance.html
 > https://news.ycombinator.com/item?id=29988966
 
+https://news.ycombinator.com/item?id=30456026 swift
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 > https://news.ycombinator.com/item?id=27763965

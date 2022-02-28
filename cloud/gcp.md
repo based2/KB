@@ -18,6 +18,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://fleetdm.com/handbook/security#google-workspace-security
+> https://news.ycombinator.com/item?id=30469652
+
 https://github.com/openreplay/openreplay/issues/311
 > https://news.ycombinator.com/item?id=30267628
 

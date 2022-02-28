@@ -60,6 +60,9 @@ http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-
 > https://news.ycombinator.com/item?id=28104657
 
 # News
+https://xon.sh/ python
+> https://news.ycombinator.com/item?id=30457791
+
 https://lonkamikaze.github.io/2022/01/23/bsda2-presenting-lst.sh
 > https://news.ycombinator.com/item?id=30057906
 

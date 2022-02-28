@@ -61,7 +61,11 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 # Monochrome
 https://news.ycombinator.com/item?id=26934352
 
-#
+# News
+https://colors.lol/
+> https://news.ycombinator.com/item?id=30483892
+> > https://www.refactoringui.com/previews/building-your-color-palette
+
 https://huetone.ardov.me/
 > https://news.ycombinator.com/item?id=30384505
 

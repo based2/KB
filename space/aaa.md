@@ -133,6 +133,10 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.extremetech.com/extreme/331181-nasa-reveals-how-and-when-it-will-destroy-the-international-space-station
+
+https://www.astron.nl/flurry-of-new-discoveries-as-incredible-new-image-revealing-4-4-million-galaxies-is-made-public
+
 https://scitechdaily.com/astronomers-find-the-biggest-structure-in-the-milky-way-filament-of-hydrogen-3900-light-years-long/
 
 https://www.dw.com/en/chinese-space-cleaner-spotted-grabbing-and-throwing-away-old-satellite/a-60658574

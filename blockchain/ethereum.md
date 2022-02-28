@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c
+
 https://twitter.com/thomasg_eth/status/1492663192404779013
 > https://news.ycombinator.com/item?id=30322715
 

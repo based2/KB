@@ -27,3 +27,8 @@ http://rescuesheet.info/index.html
 
 https://www.motor1.com/news/563664/new-omega-combustion-engine-design/
 > https://news.ycombinator.com/item?id=30136835
+
+https://www.kerrickstaley.com/2022/02/25/transit-panel
+> https://news.ycombinator.com/item?id=30475410
+
+https://sim.bemined.nl/

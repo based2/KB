@@ -74,6 +74,9 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://gist.github.com/quelgar/d383cd960d781fe72a1564203c280a03 Every Argument for Static Typing Applies to Typed Errors
+> https://www.reddit.com/r/scala/comments/t0d5zi/every_argument_for_static_typing_applies_to_typed/
+
 https://gist.github.com/wildfield/5cef98101b5b37d117afa4c29573b497 Snake With FRP
 
 https://github.com/kitlangton/parallel-for Automatically parallelize your for comprehensions at compile time

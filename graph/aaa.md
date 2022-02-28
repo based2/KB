@@ -61,6 +61,15 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+http://cs-www.cs.yale.edu/homes/spielman/sagt/
+> https://news.ycombinator.com/item?id=30460122
+
+https://archive.org/details/gray-4-universal
+> https://news.ycombinator.com/item?id=30464291
+
+https://www.math.utah.edu/~gustafso/s2017/2270/projects-2017/dylanJohnson/Dylan%20Johnson%20Graph%20Theory%20and%20Linear%20Algebra.pdf
+> https://news.ycombinator.com/item?id=30455711
+
 https://www.graphistry.com/blog/what-is-graph-intelligence-how-and-why-the-best-companies-are-adopting-graph-visual-analytics-graph-ai-and-graph-neural-networks
 
 https://hog.grinvin.org/ The House of Graphs: Database of interesting graphs

@@ -49,6 +49,10 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://medium.com/@buraktahtacioglu/get-started-with-ebpf-cncf-roadmap-5674d3859728
+
+https://www.phoronix.com/scan.php?page=news_item&px=Linux-eBPF-For-HID
+
 https://blog.openresty.com/en/ylang-intro-part1/
 > https://news.ycombinator.com/item?id=30431530
 

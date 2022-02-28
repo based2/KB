@@ -87,6 +87,8 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+http://lambdaway.free.fr/lambdawalks/?view=oops6
+
 https://aimath.org/textbooks/
 
 https://venhance.github.io/napkin/Napkin.pdf

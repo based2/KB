@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.bloombergquint.com/business/boeing-s-737-max-software-outsourced-to-9-an-hour-engineers
+> https://news.ycombinator.com/item?id=30483251
+
 https://ysflight.org/
 > https://news.ycombinator.com/item?id=30299850
 

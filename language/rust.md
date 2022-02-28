@@ -336,6 +336,22 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://github.com/thepowersgang/mrustc/commit/b364724f15fd6fce8234ad8add68107c23a22151
+
+https://www.hacklewayne.com/a-taste-of-rust
+
+https://ardentperf.com/2021/07/06/paranoid-sql-execution-on-postgresql/
+> https://news.ycombinator.com/item?id=30447025
+
+https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html
+> https://news.ycombinator.com/item?id=30464050
+
+https://github.com/actix/actix-web/wiki/v4-Announcement
+> https://news.ycombinator.com/item?id=30470809
+
+https://blog.rust-lang.org/2022/02/24/Rust-1.59.0.html
+> https://news.ycombinator.com/item?id=30457261
+
 https://blog.rust-lang.org/inside-rust/2022/02/22/compiler-team-ambitions-2022.html
 > https://news.ycombinator.com/item?id=30433577
 

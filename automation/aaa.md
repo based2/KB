@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1
+
 https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning
 
 https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca/

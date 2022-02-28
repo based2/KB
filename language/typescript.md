@@ -69,6 +69,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://medium.com/czi-technology/type-safety-while-incrementally-migrating-a-large-app-from-flow-to-typescript-99f1139b8cd8
+
 https://github.com/typescript-rtti/typescript-rtti
 
 https://www.zhenghao.io/posts/type-hierarchy-tree

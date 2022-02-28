@@ -201,6 +201,11 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://susam.net/blog/import-readline.html
+
+https://vuyisile.com/pypi-in-a-box-using-a-raspberry-pi-as-a-portable-pypi-server/
+> https://news.ycombinator.com/item?id=30472044
+
 https://betterprogramming.pub/continuous-performance-improvement-of-http-api-86290433aa54
 
 https://github.com/RobertCraigie/prisma-client-py

@@ -55,3 +55,6 @@ https://www.quora.com/What-goes-into-making-an-OS-to-be-Unix-compliant-certified
 > https://news.ycombinator.com/item?id=29984016
 
 https://www.youtube.com/watch?v=ECCr_KFl41E "The early days of Unix at Bell Labs" - Brian Kernighan (LCA 2022 Online)
+
+https://yarchive.net/comp/software_tlb.html
+> https://news.ycombinator.com/item?id=30474828

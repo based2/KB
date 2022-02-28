@@ -94,6 +94,14 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://portswigger.net/daily-swig/dna-data-of-sexual-assault-victims-exposed-in-breach-at-us-laboratory
+> https://news.ycombinator.com/item?id=30477868
+
+https://www.heise.de/news/Franzoesisches-Verfassungsgericht-versenkt-Vorratsdatenspeicherung-6526940.html
+> https://www.conseil-constitutionnel.fr/decision/2022/2021976_977QPC.htm
+
+https://themarkup.org/ask-the-markup/2022/02/24/who-is-policing-the-location-data-industry
+
 https://blog.lockdownprivacy.com/2021/09/22/study-effectiveness-of-apples-app-tracking-transparency.html
 > https://news.ycombinator.com/item?id=30363091
 

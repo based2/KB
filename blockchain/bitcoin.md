@@ -18,6 +18,16 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://davidgerard.co.uk/blockchain/2022/02/27/el-salvador-bitcoin-no-naked-day-trading-chivo-pets-bitcoin-italia-visits-astrocasino/
+
+https://suhailsaqan.medium.com/explanation-of-bitcoins-elliptic-curve-digital-signature-algorithm-6603f951863a
+
+https://www.justice.gov/opa/pr/bitconnect-founder-indicted-global-24-billion-cryptocurrency-scheme
+> https://news.ycombinator.com/item?id=30477364
+
+https://harpers.org/archive/2022/03/cryptonomicon-bitcoin-maximalists-miami/
+> https://news.ycombinator.com/item?id=30468615
+
 https://metacpc.org/en/crypto-blockchain/
 > https://news.ycombinator.com/item?id=30224472
 

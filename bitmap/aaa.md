@@ -52,7 +52,6 @@ https://nicole.express/2021/the-problem-of-art.html
 
 https://github.com/sedthh/pyxelate img2pixel
 
-
 https://github.com/LibreSprite/LibreSprite
 
 https://github.com/jvalen/pixel-art-react
@@ -69,5 +68,9 @@ https://github.com/robhagemans/hoard-of-bitfonts
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://raphlinus.github.io/rust/graphics/gpu/2022/02/24/piet-gpu-clipping.html
+> https://news.ycombinator.com/item?id=30462322
+
 https://github.com/rsn8887/Sharp-Bilinear-Shaders
 > https://news.ycombinator.com/item?id=30220317
+

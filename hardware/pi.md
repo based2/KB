@@ -1,3 +1,5 @@
+https://www.raspberrypi.com/products/raspberry-pi-400/
+
 https://doc.linutop.com/current/linutopOS/fr/linutopos.html
 > https://linuxfr.org/news/linutop-os-est-disponible-pour-tous-les-raspberry-pi
 

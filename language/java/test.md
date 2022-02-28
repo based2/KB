@@ -70,8 +70,6 @@ https://www.bingobongotesting.org/
 
 https://eng.uber.com/handling-flaky-tests-java/
 
-http://htmlelements.qatools.ru/
-
 # DB
 
 https://github.com/yandex-qatools/postgresql-embedded
@@ -100,6 +98,8 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 https://github.com/vitaliy-sk/PerfUnit
 
 # News
+https://hubert.codes/posts/devops/maven-setup-unit-integration-tests/
+
 https://johanneslink.net/model-based-testing/
 > https://news.ycombinator.com/item?id=29266897
 

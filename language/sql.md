@@ -59,6 +59,8 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://github.com/k0kubun/sqldef
+
 https://news.ycombinator.com/item?id=30323131 Ask HN: Tools to visualize data in SQL databases?
 > 
 

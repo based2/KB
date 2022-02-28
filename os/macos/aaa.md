@@ -161,6 +161,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
 # News
+https://daringfireball.net/2022/02/on_the_origin_of_the_iphone
+
 https://alinpanaitiu.com/blog/over-500nits-failed/
 
 https://firt.dev/ios-15.4b Push Notifications, WebXR, and better PWA support coming to iOS

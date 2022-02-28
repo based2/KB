@@ -230,6 +230,17 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01
+
+https://www.cloudnatively.com/query-parquet-on-minio/
+
+https://news.ycombinator.com/item?id=29726026 Ask HN: What is your favorite book for learning statistics?
+
+https://www.dataengineering.academy/pipeline-data-engineering-academy-blog/learn-data-engineering-on-a-shoestring-free-courses
+> https://news.ycombinator.com/item?id=30457921
+
+https://www.benjaminjohnston.com.au/matmul
+
 https://ethz.ch/en/news-and-events/eth-news/news/2022/02/predicting-complex-dynamics-from-data.html
 
 https://github.com/aochagavia/optimization-experiment/blob/master/research/blog.md

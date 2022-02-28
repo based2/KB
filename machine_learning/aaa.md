@@ -247,6 +247,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://link.springer.com/article/10.1007/s10664-021-10073-7 Smoke testing for machine learning: simple tests to discover severe bugs
+
+https://blog.marcua.net/2021/02/07/autodata-automating-common-data-operations.html
+
+https://sebastianraschka.com/blog/2022/ml-pytorch-book.html
+
+https://github.com/webonnx/wonnx GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web.
+
 https://tinyverse.substack.com/p/introducing-hotgdev-open-ideas-meets
 
 https://newscatcherapi.com/blog/how-to-classify-text-with-python-transformers-and-scikit-learn
@@ -263,7 +271,7 @@ https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/
 https://nod.ai/pytorch-m1-max-gpu/
 > https://news.ycombinator.com/item?id=30434886
 
-https://lastweekin.ai/p/conscious-ai?utm_source=url
+https://lastweekin.ai/p/conscious-ai
 > https://news.ycombinator.com/item?id=30408924
 
 https://www.accel.ai/anthology/2022/1/24/machine-learning-algorithms-cheat-sheet

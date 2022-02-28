@@ -33,6 +33,12 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://www.reuters.com/technology/meta-bar-russian-state-media-running-ads-monetizing-platform-2022-02-26/
+> https://news.ycombinator.com/item?id=30476997
+
+https://wiki.c2.com/?CommunityLifeCycle
+> https://news.ycombinator.com/item?id=30440031
+
 https://tdarb.org/poormans-comment-system/
 > https://news.ycombinator.com/item?id=30206330
 

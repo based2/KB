@@ -25,6 +25,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://klarasystems.com/articles/nfs-shares-with-zfs/
+> https://news.ycombinator.com/item?id=30452830
+
 https://github.com/littlefs-project/littlefs
 > https://news.ycombinator.com/item?id=30383567
 

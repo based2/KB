@@ -1,5 +1,8 @@
 https://snap.berkeley.edu/snap/snap.html
 
+https://cs.lmu.edu/~ray/notes/languagedesignnotes/
+> https://news.ycombinator.com/item?id=30481035
+
 # OOP to Functional
 https://bitgloss.ro/dr-software.pdf
 > https://news.ycombinator.com/item?id=27658689
@@ -76,6 +79,9 @@ https://github.com/seq-lang/seq
 
 # Exotic
 ## APL
+https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf
+> https://news.ycombinator.com/item?id=30453919
+
 ## K
 https://news.ycombinator.com/item?id=27842541
 
@@ -238,6 +244,9 @@ https://www.grammarly.com/blog/engineering/running-lisp-in-production/
 https://blog.veitheller.de/Building_Setf.html
 
 # News
+https://ssalewski.de/nimprogramming.html
+> https://news.ycombinator.com/item?id=30487486
+
 https://odin-lang.org/
 > https://news.ycombinator.com/item?id=30394000
 

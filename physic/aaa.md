@@ -60,6 +60,9 @@ https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220
 > https://news.ycombinator.com/item?id=30209131
 
 # News
+https://phys.org/news/2022-02-inexpensive-catalyst-production-oxygen.html
+>
+
 https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds_number_1977.pdf
 > https://news.ycombinator.com/item?id=30437503
 

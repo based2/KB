@@ -84,6 +84,18 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://benhoyt.com/writings/prig/
+
+https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx
+
+https://github.com/bergercookie/asm-lsp
+
+https://muscar.eu/self-modify.html
+
+https://csgrinding.xyz/go-async/
+
+https://github.com/golang/go/issues/51317 proposal: arena: new package providing memory arena
+
 https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system
 > https://news.ycombinator.com/item?id=30380994
 

@@ -35,6 +35,15 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+http://www.pyrunner.com/weblog/2016/05/26/compressed-sensing-python/
+> https://news.ycombinator.com/item?id=30450560
+
+https://group.miletic.net/en/blog/2022-02-24-dont-use-rar/
+> https://news.ycombinator.com/item?id=30465933
+
+http://www.arjsoftware.com/
+> https://news.ycombinator.com/item?id=30466484
+
 https://www.theregister.com/2022/02/17/microsoft_ans_patent/
 > https://www.reddit.com/r/programming/comments/sv7rle/alarm_raised_after_microsoft_wins_dataencoding/
 

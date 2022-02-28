@@ -1,3 +1,33 @@
+https://zerforschung.org/posts/gorillas-en/
+> https://news.ycombinator.com/item?id=29991743
+> https://www.reddit.com/r/programming/comments/t272lu/gorillas_the_largest_supermarket_delivery_service/
+
+https://securityaffairs.co/wordpress/128418/security/nhs-okta-advanced-server-access-rce.html
+
+https://www.bleepingcomputer.com/news/security/us-defense-contractors-hit-by-stealthy-sockdetour-windows-backdoor/
+
+https://gist.github.com/gmurdocca/88857b58dc4668d88b0d0fae6ebf8b64
+> https://news.ycombinator.com/item?id=30487104
+
+https://www.heise.de/news/Cyberkrieg-Schlagabtausch-zwischen-Anonymous-und-Conti-FCC-organisiert-Abwehr-6527023.html
+
+https://www.theregister.com/2022/02/25/ukraine_cyber_russia/
+
+https://blog.zulip.com/2022/02/25/zulip-cloud-invitation-vulnerability/
+> https://news.ycombinator.com/item?id=30479430
+
+https://www.zerodayinitiative.com/blog/2022/2/22/clang-checkers-and-codeql-queries-for-detecting-untrusted-pointer-derefs-and-tainted-loop-conditions
+
+https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/
+> https://news.ycombinator.com/item?id=30478636
+
+https://www.rfc-editor.org/rfc/rfc9180.html 
+
+https://termux.org/general/2022/02/15/termux-apps-vulnerability-disclosures.html
+
+https://www.theregister.com/2022/02/22/apple_airtags_protections_bypass/
+> https://www.schneier.com/blog/archives/2022/02/bypassing-apples-airtag-security.html
+
 https://about.gitlab.com/blog/2022/02/17/fantastic-infrastructure-as-code-security-attacks-and-how-to-find-them/
 
 https://security.googleblog.com/2022/02/mitigating-kernel-risks-on-32-bit-arm.html
@@ -6,6 +36,8 @@ https://www.theregister.com/2022/02/23/ubuntu_kernel_updates/
 
 https://www.pangulab.cn/files/The_Bvp47_a_top-tier_backdoor_of_us_nsa_equation_group.en.pdf
 > https://www.theregister.com/2022/02/23/chinese_nsa_linux/
+> > https://pekingnology.substack.com/p/chinese-cybersecurity-lab-discovers
+> https://www.bleepingcomputer.com/news/security/nsa-linked-bvp47-linux-backdoor-widely-undetected-for-10-years/amp/
 
 https://www.tomshardware.com/news/windows-data-wiping-tool-leaves-data-on-disk
 > https://news.ycombinator.com/item?id=30440757
@@ -25,6 +57,7 @@ https://grsecurity.net/amd_branch_mispredictor_just_set_it_and_forget_it
 
 https://www.shielder.it/advisories/pfsense-remote-command-execution/
 > https://news.ycombinator.com/item?id=30442325
+> https://www.reddit.com/r/netsec/comments/szib0x/remote_code_execution_in_pfsense_252/
 
 https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/
 
@@ -48,7 +81,7 @@ https://securityconference.org/publikationen/munich-security-report-2022/
 
 https://www.misp-project.org/
 
-https://sprocketfox.io/xssfox/2022/02/09/terraformsupply/?utm_campaign=weekly.tf&utm_medium=email&utm_source=Revue%20newsletter
+https://sprocketfox.io/xssfox/2022/02/09/terraformsupply/
 
 https://www.joshbeckman.org/what-spam-accounts-look-like-in-2022/
 > https://news.ycombinator.com/item?id=30388074
@@ -75,6 +108,8 @@ https://arxiv.org/abs/2202.08477 A Method for Decrypting Data Infected with Hive
 https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity
 > https://news.ycombinator.com/item?id=30395786
 
+https://lists.apache.org/list?announce@apache.org:2022-2 CVE-2022-24288: Apache Airflow: RCE in example DAGs
+
 https://shufflingbytes.com/posts/hacking-goip-gsm-gateway/
 > https://news.ycombinator.com/item?id=30351609
 
@@ -86,6 +121,8 @@ https://gradientflow.com/get-ready-for-confidential-computing/
 https://otr.cypherpunks.ca/otr-wpes.pdf Off-the-Record Communication, or, Why Not To Use PGP
 
 https://blog.qualys.com/vulnerabilities-threat-research/2022/02/17/oh-snap-more-lemmings-local-privilege-escalation-vulnerability-discovered-in-snap-confine-cve-2021-44731
+> https://thenewstack.io/oh-snap-security-holes-found-in-linux-packaging-system/
+> > https://news.ycombinator.com/item?id=30471161 
 
 https://9to5mac.com/2022/02/17/t2-mac-security-vulnerability-passware/
 > https://news.ycombinator.com/item?id=30374224

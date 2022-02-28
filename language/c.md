@@ -71,6 +71,14 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+
+https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/
+> https://news.ycombinator.com/item?id=30472423
+
+https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/ Moving the kernel to modern C
+> https://news.ycombinator.com/item?id=30459634
+> https://www.reddit.com/r/programming/comments/t1mjwn/linus_torvalds_prepares_to_move_the_linux_kernel/
+
 https://the-linux-channel.the-toffee-project.org/index.php?page=5-tutorials-a-linux-system-call-in-c-without-a-standard-library&lang=en
 
 https://news.ycombinator.com/item?id=30395016 c23

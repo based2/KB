@@ -352,6 +352,11 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/anonimitoraf/skerrick repl alpha
+
+https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html
+> https://news.ycombinator.com/item?id=30454881
+
 https://mikerourke.dev/blog/bitwisdom-keyboard-shortcuts/
 > 
 

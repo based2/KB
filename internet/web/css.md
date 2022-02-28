@@ -184,6 +184,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/
+> https://news.ycombinator.com/item?id=30460238
+
 https://css-irl.info/aspect-ratio-is-great/
 > https://news.ycombinator.com/item?id=30280210
 

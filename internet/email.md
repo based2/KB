@@ -113,6 +113,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://blog.thunderbird.net/2020/01/thunderbirds-new-home/
+> https://news.ycombinator.com/item?id=30485805
+
 https://schumacher.sh/2021/05/10/running-a-private-mail-server-for-six-years-easy-peasy.html
 > https://news.ycombinator.com/item?id=30428882
 

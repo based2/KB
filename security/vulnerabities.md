@@ -30,6 +30,10 @@ https://open-source-security-software.net/
 https://www.phrack.org/
 
 # News
+https://github.com/github/advisory-database
+> https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/
+> > https://news.ycombinator.com/item?id=30480862
+
 https://www.etsi.org/newsroom/press-releases/2029-2022-02-etsi-releases-report-on-coordinated-vulnerability-disclosure
 
 https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si
@@ -37,6 +41,9 @@ https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si
 https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-schema-for-open-source-software/
 
 # Events
+## 2022
+PQC Rainbow signature scheme
+
 ## 2021
 https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab Active Directory
 
@@ -76,7 +83,10 @@ https://www.fragattacks.com/ wifi
 
 https://lwn.net/Articles/834297/ BleedingTooth
 
-https://cyber-security-group.cs.tau.ac.il/ NXNSAttack: DNS ecursive resolver
+https://www.tenable.com/blog/cve-2020-12695-callstranger-vulnerability-in-universal-plug-and-play-upnp-puts-billions-of
+
+https://cyber-security-group.cs.tau.ac.il/ NXNSAttack: DNS recursive resolver
+> https://kn100.me/exploiting-upnp-literally-childsplay/
 
 ## 2019
 https://www.secpod.com/blog/openbsd-authentication-bypass-and-local-privilege-escalation-vulnerabilities/
@@ -86,6 +96,8 @@ https://en.wikipedia.org/wiki/Kr00k WPA2
 https://en.wikipedia.org/wiki/BlueKeep Windows RDP, CVE-2019-0708
 
 https://en.wikipedia.org/wiki/Microarchitectural_Data_Sampling Intel hyper-threading
+
+https://en.wikipedia.org/wiki/Universal_Plug_and_Play#Callback_Vulnerability
 
 ## 2018
 https://en.wikipedia.org/wiki/Foreshadow speculative execution on intel proc
@@ -126,6 +138,8 @@ https://www.krackattacks.com/ WPA2
 
 https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/
 
+https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks
+
 ## 2016
 https://en.wikipedia.org/wiki/Dirty_COW Linux
 
@@ -157,6 +171,8 @@ https://en.wikipedia.org/wiki/POODLE
 https://en.wikipedia.org/wiki/Shellshock_(software_bug) bash
 
 https://en.wikipedia.org/wiki/Rootpipe Apple
+
+https://en.wikipedia.org/wiki/XKeyscore
 
 ## 2013
 https://en.wikipedia.org/wiki/Edward_Snowden

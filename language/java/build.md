@@ -61,7 +61,6 @@ https://mvnrepository.com/
 ## Tools
 https://github.com/diffplug/spotless
 
-
 # Gradle
 https://docs.gradle.org/7.0/release-notes.html
 

@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=DYaqzEbU0Vk 2021 LLVM Dev Mtg “Building an Ope
 
 https://fuchsia-review.googlesource.com/c/fuchsia/+/638044
 > https://news.ycombinator.com/item?id=30121255
+
+https://github.com/dahliaOS/pangolin_desktop
+> https://news.ycombinator.com/item?id=30460120

@@ -59,6 +59,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://github.com/62726164/ed25519-login
+> https://news.ycombinator.com/item?id=30483727
+
 https://saucecode.bar/posts/06-using-www-authenticate.html
 > https://news.ycombinator.com/item?id=30385666
 

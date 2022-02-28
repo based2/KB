@@ -77,6 +77,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886
+
 https://engineering.contentsquare.com/2021/click-and-swap-alternative-to-drag-and-drop/
 > https://news.ycombinator.com/item?id=30034999
 

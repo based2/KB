@@ -151,6 +151,7 @@ https://github.com/sastraxi/pgsh
 
 https://github.com/djrobstep/migra
 > https://news.ycombinator.com/item?id=16673526
+> https://news.ycombinator.com/item?id=30464882
 
 https://blog.discourse.org/2021/04/standing-on-the-shoulders-of-a-giant-elephant/
 
@@ -174,6 +175,8 @@ https://fabianlindfors.se/blog/schema-migrations-in-postgres-using-reshape/
 > https://news.ycombinator.com/item?id=29825520
 
 https://github.com/fabianlindfors/reshape
+
+https://github.com/bikeshedder/tusker
 
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
@@ -230,6 +233,11 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://www.yagiz.co/postgresql-index-performance/
+
+https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b Schema Change Guide
+> https://news.ycombinator.com/item?id=30458580
+
 https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/
 
 https://alexklibisz.com/2022/02/18/optimizing-postgres-trigram-search.html

@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://liquorix.net/
+> https://news.ycombinator.com/item?id=30483814
+
 http://www.slackware.com/announce/15.0.php
 > https://linuxfr.org/news/tout-arrive-meme-slackware-15-0
 

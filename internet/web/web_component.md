@@ -28,3 +28,5 @@ https://lit.dev/
 
 https://blockprotocol.org/
 > https://news.ycombinator.com/item?id=30103401
+
+https://www.npmjs.com/package/rollup-plugin-lit-tailwindcss3

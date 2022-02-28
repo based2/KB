@@ -130,6 +130,19 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://en.wikipedia.org/wiki/Progressive_enhancement
+> https://technology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/
+> > https://news.ycombinator.com/item?id=12538144
+
+https://andrewpillar.com/programming/2022/02/26/req-an-http-scripting-language/ go
+> https://github.com/andrewpillar/req
+
+https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/
+> https://news.ycombinator.com/item?id=30464350
+
+https://devapt.com/html-tags
+> https://news.ycombinator.com/item?id=30469695
+
 https://thenewstack.io/htmx-html-approach-to-interactivity-in-a-javascript-world/
 
 https://webkit.org/blog/12209/introducing-the-dialog-element/
