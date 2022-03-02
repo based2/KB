@@ -14,3 +14,6 @@ https://en.wikipedia.org/wiki/Water-energy_nexus
 
 https://www.bbc.com/travel/article/20220220-valencias-la-huerta-spains-ingenious-water-maze
 > https://news.ycombinator.com/item?id=30419451
+
+https://news.mit.edu/2022/solar-desalination-system-inexpensive-0214
+> https://news.ycombinator.com/item?id=30503013

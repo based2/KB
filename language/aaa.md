@@ -244,6 +244,12 @@ https://www.grammarly.com/blog/engineering/running-lisp-in-production/
 https://blog.veitheller.de/Building_Setf.html
 
 # News
+https://jfmengels.net/modulo-cons/
+> https://news.ycombinator.com/item?id=30497307
+
+https://justine.lol/lambda/
+> https://news.ycombinator.com/item?id=30493713
+
 https://ssalewski.de/nimprogramming.html
 > https://news.ycombinator.com/item?id=30487486
 

@@ -55,6 +55,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://www.gnunet.org/en/news/2022-02-0.16.0.html
+> https://news.ycombinator.com/item?id=30513090
+
 https://yggdrasil-network.github.io/ IPv6
 > https://news.ycombinator.com/item?id=30156551
 

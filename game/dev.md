@@ -97,6 +97,12 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://pikuma.com/blog/isometric-projection-in-games
+> https://news.ycombinator.com/item?id=30522955
+
+https://play.date/dev/
+> https://news.ycombinator.com/item?id=30506543
+
 https://docs.hathora.dev/#/
 > https://news.ycombinator.com/item?id=30442072
 

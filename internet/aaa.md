@@ -12,5 +12,9 @@ https://en.wikipedia.org/wiki/MILNET
 https://ruben.verborgh.org/blog/2021/12/23/reflections-of-knowledge/
 > https://news.ycombinator.com/item?id=29660721
 
+https://www.theregister.com/2022/03/01/the_internet_is_so_hard/
+
+https://datatracker.ietf.org/doc/html/rfc2468 IANA
+
 
 

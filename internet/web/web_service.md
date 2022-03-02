@@ -26,6 +26,9 @@ https://betterprogramming.pub/jwt-ultimate-how-to-guide-with-best-practices-in-j
 https://itsdangerous.palletsprojects.com/en/2.0.x/index.html
 > https://news.ycombinator.com/item?id=29591395
 
+https://fusionauth.io/learn/expert-advice/tokens/anatomy-of-jwt
+> https://news.ycombinator.com/item?id=30499618
+
 # REST
 https://twobithistory.org/2020/06/28/rest.html
 

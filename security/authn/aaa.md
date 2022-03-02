@@ -59,6 +59,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/
+> https://news.ycombinator.com/item?id=30514560
+
 https://github.com/62726164/ed25519-login
 > https://news.ycombinator.com/item?id=30483727
 

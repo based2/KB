@@ -113,6 +113,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://notes.nicfab.it/en/posts/privacycom/
+> https://news.ycombinator.com/item?id=30512491
+
 https://blog.thunderbird.net/2020/01/thunderbirds-new-home/
 > https://news.ycombinator.com/item?id=30485805
 

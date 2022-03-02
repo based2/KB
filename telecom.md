@@ -46,6 +46,8 @@ https://www.faa.gov/newsroom/faa-statements-5g
 https://github.com/free5gc/free5gc Open source 5G core network base on 3GPP R15
 > https://news.ycombinator.com/item?id=30477078
 
+https://www.qualcomm.com/news/releases/2022/02/28/new-snapdragon-x70-modem-rf-harnesses-worlds-first-5g-ai-processor-industry
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html

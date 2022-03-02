@@ -31,6 +31,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # News
+https://news.ycombinator.com/item?id=30514907
+
 https://tunnelblick.net/cTunTapConnections.html
 > https://news.ycombinator.com/item?id=30451406
 

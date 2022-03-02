@@ -1,3 +1,13 @@
+https://www.akamai.com/blog/security/tcp-middlebox-reflection
+
+https://priyom.org/number-stations
+> https://news.ycombinator.com/item?id=30496873
+
+https://twitter.com/matthew_d_green/status/1495935700545454084 Serious flaws in the way Samsung phones encrypt key material in TrustZone
+> https://news.ycombinator.com/item?id=30509822
+
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/daxin-backdoor-espionage
+
 https://zerforschung.org/posts/gorillas-en/
 > https://news.ycombinator.com/item?id=29991743
 > https://www.reddit.com/r/programming/comments/t272lu/gorillas_the_largest_supermarket_delivery_service/
@@ -10,6 +20,7 @@ https://gist.github.com/gmurdocca/88857b58dc4668d88b0d0fae6ebf8b64
 > https://news.ycombinator.com/item?id=30487104
 
 https://www.heise.de/news/Cyberkrieg-Schlagabtausch-zwischen-Anonymous-und-Conti-FCC-organisiert-Abwehr-6527023.html
+> https://www.theregister.com/2022/03/01/ukraine_wiper_apple_visa_mastercard/
 
 https://www.theregister.com/2022/02/25/ukraine_cyber_russia/
 

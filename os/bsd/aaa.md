@@ -93,6 +93,8 @@ https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-fr
 
 https://klarasystems.com/articles/modern-inetd-in-freebsd/
 
+https://cdn.coverstand.com/33057/739644/0483e8ca86f15b6c0ce9d6f4660f93665bff176a.2.pdf
+
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908

@@ -31,6 +31,8 @@ https://blog.warp.dev/using-tree-data-structures-to-implement-terminal-split-pan
 
 https://github.com/python/cpython/blob/main/Python/hamt.c Hash Array Mapped Trie (HAMT) Datastructure
 
+https://en.algorithmica.org/hpc/data-structures/segment-trees/
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576

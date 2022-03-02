@@ -91,6 +91,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://github.com/rqlite/rqlite/releases
+
 https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html
 > https://news.ycombinator.com/item?id=30486052
 

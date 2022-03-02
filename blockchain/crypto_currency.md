@@ -20,6 +20,12 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://docs.taler.net/
+> https://news.ycombinator.com/item?id=30514122
+
+https://blog.kevmod.com/2022/03/01/strong-evidence-that-no-one-cares-about-crypto-denominated-wealth/
+> https://news.ycombinator.com/item?id=30518109
+
 https://www.secretservice.gov/newsroom/releases/2022/02/us-secret-service-launches-cryptocurrency-awareness-hub
 > https://news.ycombinator.com/item?id=30439891
 

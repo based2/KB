@@ -30,6 +30,12 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://beepb00p.xyz/promnesia.html
+> https://news.ycombinator.com/item?id=30502544
+
+https://www.ekioh.com/flow-browser/ gpu
+> https://news.ycombinator.com/item?id=30514757
+
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType
 > https://news.ycombinator.com/item?id=30489382
 

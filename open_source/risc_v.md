@@ -1,3 +1,6 @@
+https://semiengineering.com/why-risc-v-is-succeeding/
+> https://news.ycombinator.com/item?id=30515014
+
 https://github.com/SpinalHDL/VexRiscv
 > https://linuxfr.org/news/clear-production-du-premier-microcontroleur-avec-un-efpga-avec-code-source-disponible
 

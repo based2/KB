@@ -247,6 +247,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.torchstudio.ai/
+
+https://lambdalabs.com/blog/best-gpu-2022-sofar/
+> https://news.ycombinator.com/item?id=30513010
+
 https://link.springer.com/article/10.1007/s10664-021-10073-7 Smoke testing for machine learning: simple tests to discover severe bugs
 
 https://blog.marcua.net/2021/02/07/autodata-automating-common-data-operations.html

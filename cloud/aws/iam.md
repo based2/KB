@@ -41,4 +41,6 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://github.com/nccgroup/PMapper
+
 https://github.com/glassechidna/trackiam

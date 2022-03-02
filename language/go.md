@@ -84,6 +84,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://words.filippo.io/reproducing-go-binaries-byte-by-byte/
+
+https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md
+> https://news.ycombinator.com/item?id=30518094
+
 https://benhoyt.com/writings/prig/
 
 https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx

@@ -108,6 +108,12 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://xy2.dev/posts/ssh-productive/
+> https://news.ycombinator.com/item?id=30505583
+
+https://www.openssh.com/txt/release-8.9
+> https://news.ycombinator.com/item?id=30513246
+
 https://www.openssh.com/releasenotes.html
 > https://lobste.rs/s/vej7dz/openssh_8_9_released
 

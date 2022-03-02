@@ -183,6 +183,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://awesome-architecture.com/
+
 https://arc42.org/
 > https://docs.arc42.org/section-9/
 

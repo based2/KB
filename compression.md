@@ -35,6 +35,9 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://kevincox.ca/2022/03/01/dictionary-compression/
+> https://news.ycombinator.com/item?id=30517656
+
 http://www.pyrunner.com/weblog/2016/05/26/compressed-sensing-python/
 > https://news.ycombinator.com/item?id=30450560
 

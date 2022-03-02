@@ -191,6 +191,13 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.theregister.com/2022/03/01/proprietary_firmware_blobs/
+
+https://demoweek.prototypefund.de/
+
+https://opensource.org/how-to-talk-to-your-boss-about-open-source
+> https://news.ycombinator.com/item?id=30514234
+
 https://www.computerweekly.com/blog/Open-Source-Insider/International-Space-Station-adopts-Debian-Linux-drops-Windows-Red-Hat-into-airlock
 
 https://airflow.apache.org/docs/apache-airflow/2.2.4/changelog.html

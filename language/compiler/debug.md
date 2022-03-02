@@ -11,6 +11,9 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://felix-knorr.net/blog/using_gdb_directly.html
+> https://news.ycombinator.com/item?id=30512302
+
 https://blog.janestreet.com/magic-trace/
 > https://perfetto.dev/
 >  

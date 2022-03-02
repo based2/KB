@@ -201,6 +201,13 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/bczsalba/pytermgui
+> https://news.ycombinator.com/item?id=30517299
+
+https://github.com/Aristotle-Metadata-Enterprises/django-garnett field level translation library
+
+https://martinheinz.dev/blog/37 Python Pitfalls - Expecting The Unexpected
+
 https://susam.net/blog/import-readline.html
 
 https://vuyisile.com/pypi-in-a-box-using-a-raspberry-pi-as-a-portable-pypi-server/

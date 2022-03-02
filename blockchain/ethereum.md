@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://maxbit.cc/mit-chose-ethereums-pos-as-top-technological-breakthrough/
+> https://news.ycombinator.com/item?id=30514114
+
 https://jeancvllr.medium.com/solidity-tutorial-all-about-assembly-5acdfefde05c
 
 https://twitter.com/thomasg_eth/status/1492663192404779013

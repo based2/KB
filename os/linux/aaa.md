@@ -80,6 +80,11 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://blog.sffc.xyz/post/651389596091973632/comparing-linux-environments-on-macos-host
+
+https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234 fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid
+> https://news.ycombinator.com/item?id=30502392
+
 https://www.theregister.com/2022/02/24/intel_linutronix_linux/
 
 https://arstechnica.com/gaming/2022/02/linux-on-steam-deck-what-you-need-to-know-what-currently-works/

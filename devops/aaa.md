@@ -104,6 +104,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://endoflife.date/
+> https://news.ycombinator.com/item?id=30499023
+
 https://crooked-hideout.blogspot.com/2012/01/ableton-live-set-is-gzipped-xml-ruby.html
 > https://rubydoc.info/github/guard/guard/master/frames
 > https://news.ycombinator.com/item?id=30485195

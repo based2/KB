@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.reuters.com/business/energy/satellite-outage-knocks-out-control-enercon-wind-turbines-2022-02-28/
+> https://news.ycombinator.com/item?id=30502367
+
 https://www.energymonitor.ai/sectors/power/live-eu-electricity-generation-map
 
 https://news.ycombinator.com/item?id=30362510

@@ -1,3 +1,6 @@
+https://hubs.mozilla.com/
+> https://news.ycombinator.com/item?id=30515097
+
 https://www.theinformation.com/articles/meta-platforms-halts-vr-and-ar-operating-system-project
 
 https://developers.facebook.com/blog/post/2022/01/24/open-source-2021-year-in-review/

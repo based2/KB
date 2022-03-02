@@ -36,6 +36,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://maltheborch.com/#container-registry-on-a-budget-using-aws-s3
+> https://news.ycombinator.com/item?id=30505471
+
 https://www.hashicorp.com/blog/consul-api-gateway-now-generally-available
 
 https://news.ycombinator.com/item?id=30465854 Open-Source Unbound DNS Resolver Docker Image

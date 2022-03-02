@@ -336,6 +336,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://github.com/TheAlgorithms/Rust
+> https://news.ycombinator.com/item?id=30514784
+
 https://github.com/thepowersgang/mrustc/commit/b364724f15fd6fce8234ad8add68107c23a22151
 
 https://www.hacklewayne.com/a-taste-of-rust

@@ -41,6 +41,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://blog.arduino.cc/2022/02/26/james-brutons-strange-bicycle-robot-self-balances-with-an-omni-wheel/
+> https://news.ycombinator.com/item?id=30484877
+
 https://hcie.csail.mit.edu/research/Electrovoxel/electrovoxel.html
 > https://news.ycombinator.com/item?id=30456014
 

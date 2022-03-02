@@ -352,6 +352,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://socket.dev/
+> 
+
+https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/
+> https://news.ycombinator.com/item?id=30508524
+
 https://github.com/anonimitoraf/skerrick repl alpha
 
 https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html

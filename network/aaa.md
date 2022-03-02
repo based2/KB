@@ -95,6 +95,12 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://gaia.cs.umass.edu/kurose_ross/wireshark.php
+> https://news.ycombinator.com/item?id=30519977
+
+https://www.ripe.net/publications/news/announcements/ripe-ncc-executive-board-resolution-on-provision-of-critical-services
+> https://news.ycombinator.com/item?id=30513540
+
 https://blog.benjojo.co.uk/post/multipath-without-mptcp
 > https://news.ycombinator.com/item?id=30454014
 

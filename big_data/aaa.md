@@ -230,6 +230,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://s.mkws.sh/
+
+https://github.com/mindok/contex
+
+https://eugeneyan.com/writing/red-flags/
+
 https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01
 
 https://www.cloudnatively.com/query-parquet-on-minio/
