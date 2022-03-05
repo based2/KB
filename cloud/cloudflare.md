@@ -1,3 +1,6 @@
+https://community.cloudflare.com/t/send-email-from-workers-using-mailchannels-for-free/361973
+> https://news.ycombinator.com/item?id=30533032
+
 https://blog.cloudflare.com/email-routing-open-beta/
 
 https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects

@@ -36,6 +36,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/afroisalreadyinu/miniboss python, docker like compose
+> https://news.ycombinator.com/item?id=30528167
+
 https://maltheborch.com/#container-registry-on-a-budget-using-aws-s3
 > https://news.ycombinator.com/item?id=30505471
 

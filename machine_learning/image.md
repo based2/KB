@@ -32,3 +32,6 @@ https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/
 https://stackabuse.com/image-classification-with-transfer-learning-in-keras-create-cutting-edge-cnn-models/
 
 https://huggingface.co/spaces/52Hz/CMFNet_deblurring
+
+https://thiscitydoesnotexist.com/
+> https://news.ycombinator.com/item?id=30539445

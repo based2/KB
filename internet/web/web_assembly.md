@@ -69,6 +69,15 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.infoq.com/presentations/wasi-system-interface/
+> https://news.ycombinator.com/item?id=30527685
+
+https://wapm.io/
+> https://news.ycombinator.com/item?id=30531621
+
+https://exoticorn.github.io/microw8/#about
+> https://news.ycombinator.com/item?id=30529754
+
 https://wasmer.io/posts/wasmer-2.2
 > https://news.ycombinator.com/item?id=30505986
 

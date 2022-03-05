@@ -1,5 +1,8 @@
 https://andymatuschak.org/files/papers/Apple%20Human%20Interface%20Guidelines%201987.pdf
 
+https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/
+> https://news.ycombinator.com/item?id=30544629
+
 # Web
 https://beyondloom.com/tools/ditherpaint.html
 
@@ -34,6 +37,8 @@ https://blog.greggant.com/posts/2021/12/18/ppc-qemu-mac-os-9-with-sound-on-apple
 
 https://www.darlinghq.org/
 > https://news.ycombinator.com/item?id=29813679
+
+https://wuffs.org/blog/emulating-mac-compilers
 
 # HyperCard
 https://hypercard.org/
@@ -82,6 +87,9 @@ http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/2
 https://news.ycombinator.com/item?id=27409410
 
 #
+https://www.cs.utexas.edu/~wcook/Drafts/2006/ashopl.pdf AppleScript
+> https://news.ycombinator.com/item?id=30538766
+
 https://jcs.org/2022/02/21/macplus_streaming
 > https://news.ycombinator.com/item?id=30424387
 

@@ -20,6 +20,8 @@ https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-na
 https://piotrminkowski.com/2021/10/12/quarkus-tips-tricks-and-techniques/
 
 # News
+https://quarkus.io/guides/native-reference
+
 https://quarkus.io/blog/smallrye-stork-intro/
 
 https://camel.apache.org/blog/2021/11/camel-quarkus-release-2.5.0/

@@ -69,6 +69,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://www.duckdns.org/why.jsp
+> https://news.ycombinator.com/item?id=30539059
+
 https://awstip.com/how-to-create-aws-ecr-lifecycle-policies-f3baacca816
 
 https://robinhood.engineering/author-balaji-varadarajan-e3f496815ebf Fresher Data Lake on AWS S3

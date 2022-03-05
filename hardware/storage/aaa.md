@@ -1,4 +1,6 @@
 # News
+https://www.backblaze.com/blog/ssd-edition-2021-drive-stats-review/
+
 https://etbe.coker.com.au/2022/01/16/ssd-endurance/
 > https://news.ycombinator.com/item?id=30275139
 

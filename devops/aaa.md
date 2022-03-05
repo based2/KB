@@ -104,6 +104,12 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://www.mihaileric.com/posts/mlops-is-a-mess/
+> https://news.ycombinator.com/item?id=30529305
+
+https://github.com/sigoden/argc handy way to handle sh/bash cli parameters
+> https://news.ycombinator.com/item?id=30540201
+
 https://endoflife.date/
 > https://news.ycombinator.com/item?id=30499023
 

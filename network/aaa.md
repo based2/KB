@@ -95,6 +95,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://lwn.net/SubscriberLink/885729/c495a793abeee387/ Better visibility into packet-dropping decisions
+> https://news.ycombinator.com/item?id=30544046
+
 https://gaia.cs.umass.edu/kurose_ross/wireshark.php
 > https://news.ycombinator.com/item?id=30519977
 

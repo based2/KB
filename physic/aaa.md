@@ -60,6 +60,9 @@ https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220
 > https://news.ycombinator.com/item?id=30209131
 
 # News
+https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash
+> https://news.ycombinator.com/item?id=30533343
+
 https://phys.org/news/2022-02-inexpensive-catalyst-production-oxygen.html
 >
 

@@ -1,4 +1,44 @@
+https://guardiosecurity.medium.com/how-to-lose-all-your-money-in-the-meta-verse-before-even-getting-started-7edb5b56a108
+> https://www.reddit.com/r/netsec/comments/t4vjcm/guardio_security_team_discovered_an_active/
+
+https://bgpstream.com/event/287556
+> https://news.ycombinator.com/item?id=30561518
+
+https://www.bleepingcomputer.com/news/security/experts-urge-eu-not-to-force-insecure-certificates-in-web-browsers/
+
+https://oxio.com/blog/modern-telecom-network-tracing/
+
+https://news.ncsu.edu/2022/03/stealing-homomorphic-encryption-data/
+> https://news.ycombinator.com/item?id=30559902
+
+https://eprint.iacr.org/2022/208.pdf Trust Dies in Darkness: Shedding Light on Samsung’s TrustZone Keymaster Design
+> https://news.ycombinator.com/item?id=30555567
+
+https://packetstormsecurity.com/files/166208/pfSense-2.5.2-Shell-Upload.html
+
+https://github.com/github/cmark-gfm/security/advisories/GHSA-mc3g-88wq-6f4x
+> https://news.ycombinator.com/item?id=30557256
+
+https://blog.adafruit.com/2022/03/04/a-github-repository-was-public-viewable/
+> https://news.ycombinator.com/item?id=30554723
+
+https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/
+> https://news.ycombinator.com/item?id=30556188
+
+https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf
+> https://portswigger.net/daily-swig/google-waf-bypassed-via-oversized-post-requests
+> https://www.reddit.com/r/netsec/comments/t5k0qt/bypassing_googles_cloud_armor_firewall_with_an_8/
+
+https://www.pomerium.com/blog/white-house-zt-memo/
+> https://news.ycombinator.com/item?id=30530592
+
+https://krebsonsecurity.com/2022/03/conti-ransomware-group-diaries-part-i-evasion/
+> https://krebsonsecurity.com/2022/03/conti-ransomware-group-diaries-part-ii-the-office/
+> https://www.cyberark.com/resources/threat-research-blog/conti-group-leaked
+> https://www.bleepingcomputer.com/news/security/conti-ransomware-source-code-leaked-by-ukrainian-researcher/
+
 https://www.akamai.com/blog/security/tcp-middlebox-reflection
+> https://news.ycombinator.com/item?id=30524318
 
 https://priyom.org/number-stations
 > https://news.ycombinator.com/item?id=30496873

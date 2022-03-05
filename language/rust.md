@@ -336,6 +336,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.adamchalmers.com/nom-bits/
+> https://news.ycombinator.com/item?id=30528609
+
 https://github.com/TheAlgorithms/Rust
 > https://news.ycombinator.com/item?id=30514784
 

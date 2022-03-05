@@ -59,6 +59,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/
+
 https://www.ory.dev/oauth2-openid-connect-do-you-need-use-cases-examples/
 > https://news.ycombinator.com/item?id=30514560
 

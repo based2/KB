@@ -46,6 +46,9 @@ https://www.youtube.com/watch?v=x7drE24geUw CRDTs: The Hard Parts
 https://github.com/automerge/automerge js, json
 > https://news.ycombinator.com/item?id=30412550
 
+https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf Making CRDTs Byzantine Fault Tolerant
+> https://news.ycombinator.com/item?id=30560573
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913
@@ -97,6 +100,8 @@ https://github.com/anishathalye/porcupine
 https://asatarin.github.io/testing-distributed-systems/
 
 # News
+https://medium.com/criteo-engineering/distributed-rate-limiting-algorithms-a35f7e24783
+
 https://lists.apache.org/list?announce@apache.org:2022-2 Apache ShardingSphere 5.1.0 available
 
 https://jepsen.io/analyses/radix-dlt-1.0-beta.35.1

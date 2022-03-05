@@ -29,6 +29,10 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://ieeexplore.ieee.org/document/9681810 Parallel Processing at the Edge in Dense Wireless Networks
+
+https://baldesi.ovh/networking/wireless/2022/02/18/modulation-iq-em.html
+
 https://computer.rip/2022-02-19-PCM.html
 
 https://www.navalnews.com/naval-news/2022/02/unseenlabs-reveals-ships-that-vanished-from-conventional-geolocation-systems/

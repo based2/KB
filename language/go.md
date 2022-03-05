@@ -84,6 +84,14 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://golang.design/history/
+
+https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html
+> https://news.ycombinator.com/item?id=30547067
+
+https://wagslane.dev/posts/gos-major-version-handling/
+> https://news.ycombinator.com/item?id=30557806
+
 https://words.filippo.io/reproducing-go-binaries-byte-by-byte/
 
 https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md

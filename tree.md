@@ -33,6 +33,11 @@ https://github.com/python/cpython/blob/main/Python/hamt.c Hash Array Mapped Trie
 
 https://en.algorithmica.org/hpc/data-structures/segment-trees/
 
+https://www.elmalabarista.com/blog/2022-flat-tree/
+> https://news.ycombinator.com/item?id=30529077
+
+https://utcc.utoronto.ca/~cks/space/blog/unix/HardlinksTrackingProblem
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576

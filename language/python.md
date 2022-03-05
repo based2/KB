@@ -96,6 +96,8 @@ https://github.com/samuelcolvin/pydantic Data validation and settings management
 https://pypi.org/project/koda/
 > https://news.ycombinator.com/item?id=30247325
 
+https://github.com/idmitrievsky/rescue Makes exceptions type-safe with minimal boilerplate
+
 # Security
 https://pypi.org/project/pip-audit/
 
@@ -201,6 +203,15 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://lwn.net/SubscriberLink/886516/d835ee6026544345/ CPython, C standards, and IEEE 754
+> https://news.ycombinator.com/item?id=30545466
+
+https://utcc.utoronto.ca/~cks/space/blog/python/VenvsWithProgramsOutside
+> https://news.ycombinator.com/item?id=30542592
+
+https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb
+> https://news.ycombinator.com/item?id=30543588
+
 https://github.com/bczsalba/pytermgui
 > https://news.ycombinator.com/item?id=30517299
 

@@ -60,6 +60,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://news.ycombinator.com/item?id=30539620 DontBeEvil.rip: Search, for developers (API, expressions, CLI)
+
 https://heline.dev/
 > https://news.ycombinator.com/item?id=30403143
 

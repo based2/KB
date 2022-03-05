@@ -255,6 +255,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://netbeans.apache.org/download/nb13/index.html
+
+https://mail.openjdk.java.net/pipermail/amber-spec-experts/2022-March/003293.html
+
 https://www.reddit.com/r/java/comments/sr26bb/hidden_gems_in_java_16_and_java_17_from/
 
 https://blog.agical.se/en/posts/java-bitset-performance-mystery

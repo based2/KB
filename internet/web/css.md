@@ -184,6 +184,11 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://github.com/ruilisi/css-checker
+> https://news.ycombinator.com/item?id=30551372
+
+https://ishadeed.com/snippet/fit-content/
+
 https://dev.to/thormeier/dont-try-this-at-home-css-as-the-backend-what-3oih
 
 https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/

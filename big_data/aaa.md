@@ -230,6 +230,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://news.ycombinator.com/item?id=30555914 Launch HN: Elementary (YC W22) – Open-source data observability
+
 https://s.mkws.sh/
 
 https://github.com/mindok/contex

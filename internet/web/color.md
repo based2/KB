@@ -7,6 +7,9 @@ https://cssgradient.io/
 
 http://jamie-wong.com/post/color/
 
+https://huemint.com/about/#machine-learning
+> https://news.ycombinator.com/item?id=30529262
+
 https://codepen.io/robdimarzo/full/xxZgKOR
 
 https://www.color-hex.com/

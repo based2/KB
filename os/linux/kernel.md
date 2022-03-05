@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://kernel.dk/io_uring.pdf
+
 https://www.theregister.com/2022/02/28/linux_kernel_5_17_rc6/
 
 https://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project

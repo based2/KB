@@ -191,6 +191,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://sethmlarson.dev/blog/security-for-package-maintainers
+> https://news.ycombinator.com/item?id=30523829
+
 https://www.theregister.com/2022/03/01/proprietary_firmware_blobs/
 
 https://demoweek.prototypefund.de/

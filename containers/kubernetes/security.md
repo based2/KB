@@ -25,6 +25,9 @@ https://github.com/quay/clair Red Hat
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
 # News
+https://thenewstack.io/edgeless-systems-brings-confidential-computing-to-kubernetes/
+> https://www.intel.com/content/www/us/en/developer/articles/technical/intel-trust-domain-extensions.html
+
 https://github.com/cyberark/kubesploit
 
 https://security.googleblog.com/2021/12/exploring-container-security-storage.html

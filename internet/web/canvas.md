@@ -12,3 +12,6 @@ https://github.com/goessner/canvas-area
 https://pixel.vkoskiv.com/
 > https://news.ycombinator.com/item?id=30167391
 > > https://github.com/EliasHaaralahti/No-Mans-Canvas-Client
+
+https://developer.chrome.com/blog/canvas2d/
+> https://news.ycombinator.com/item?id=30553585

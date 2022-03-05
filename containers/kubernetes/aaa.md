@@ -62,6 +62,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://github.com/zloeber/KubeStitch tool for stitching together customized Kubernetes cluster environments that run locally the same as they do in the cloud.
+
 https://github.com/kube-green/kube-green
 > https://news.ycombinator.com/item?id=30235108
 

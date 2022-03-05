@@ -189,6 +189,10 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://hackaday.com/2022/03/02/you-can-find-military-radars-on-publicly-available-satellite-data/
+
+https://tedpiotrowski.svbtle.com/shade-map-pro
+
 https://news.ycombinator.com/item?id=30516996
 
 https://mrgris.com/projects/oilslick/

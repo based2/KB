@@ -247,6 +247,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://arxiv.org/abs/2203.00555 DeepNet: Scaling Transformers to 1,000 Layers
+> https://news.ycombinator.com/item?id=30533914
+
+https://arxiv.org/abs/2202.08587 Gradients without Backpropagation
+> https://news.ycombinator.com/item?id=30525214
+
 https://www.torchstudio.ai/
 
 https://lambdalabs.com/blog/best-gpu-2022-sofar/

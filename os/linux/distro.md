@@ -62,6 +62,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://en.wikipedia.org/wiki/Astra_Linux
+
 https://www.armbian.com/newsflash/armbian-22-02-pig-release-announcement/
 
 https://liquorix.net/

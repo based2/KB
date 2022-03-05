@@ -28,6 +28,9 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://en.wikipedia.org/wiki/Wet-bulb_temperature
+> https://news.ycombinator.com/item?id=30527168
+
 https://weather.simonton.app/
 > https://news.ycombinator.com/item?id=30315611
 

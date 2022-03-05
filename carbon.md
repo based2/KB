@@ -55,6 +55,13 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://news.ycombinator.com/item?id=30557288 Launch HN: Phase Biolabs (YC W22) – Converting CO2 to Carbon-Neutral Chemicals
+
+https://www.ipcc.ch/site/assets/uploads/2022/02/AR6_Factsheet_2022_February.pdf
+> > https://www.ipcc.ch/site/assets/uploads/2020/05/2020-AC6_en.pdf
+> > > https://www.ipcc.ch/report/ar6/wg2/
+> > > > https://www.ipcc.ch/site/assets/uploads/2020/05/2020-AC6_en.pdf - Accepted version subject to final edits
+
 https://aws.amazon.com/en/blogs/aws/new-customer-carbon-footprint-tool/
 
 https://news.northwestern.edu/stories/2022/02/bacteria-upcycle-carbon-waste-into-valuable-chemicals/

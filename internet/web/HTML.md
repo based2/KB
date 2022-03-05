@@ -130,6 +130,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://github.com/gildas-lormeau/SingleFile
+> https://news.ycombinator.com/item?id=30527999
+
 https://en.wikipedia.org/wiki/Progressive_enhancement
 > https://technology.blog.gov.uk/2016/09/19/why-we-use-progressive-enhancement-to-build-gov-uk/
 > > https://news.ycombinator.com/item?id=12538144

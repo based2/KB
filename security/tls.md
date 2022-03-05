@@ -29,6 +29,34 @@ https://en.wikipedia.org/wiki/Forward_secrecy
 
 https://blog.eban.bzh/today-i-learned/dane.html
 
+https://www.feistyduck.com/books/bulletproof-tls-and-pki/
+> https://news.ycombinator.com/item?id=30529727
+
+https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
+
+https://textslashplain.com/2019/08/11/spying-on-https/ https://news.ycombinator.com/item?id=20673409
+
+https://www.reddit.com/r/programming/comments/cpcuaj/spying_on_https/
+
+https://github.com/hughperkins/howto-jenkins-ssl
+
+https://support.cloudbees.com/hc/en-us/articles/203821254-How-to-install-a-new-SSL-certificate
+
+https://www.pixelstech.net/article/1445603357-A-HTTPS-client-and-HTTPS-server-demo-in-Java
+
+https://blog.cloudflare.com/private-key-compromises/ Heartbleed Revisited (OSCP)
+
+https://istlsfastyet.com/
+
+http://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html
+> https://news.ycombinator.com/item?id=9277269
+
+https://tls.so/
+
+https://news.ycombinator.com/item?id=9271946
+
+https://github.com/Hakky54/sslcontext-kickstart High-Level SSLFactory class for configuring a http client to communicate over SSL/TLS for one way authentication or two-way authentication
+
 # SNI
 https://nanxiao.me/en/why-does-ssl-client-report-googles-certificate-self-signed/
 
@@ -66,32 +94,6 @@ https://twitter.com/letsencrypt/status/1443621997288767491
 
 https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation-method/170450
 > https://www.reddit.com/r/sysadmin/comments/sd2k4g/psa_letsencrypt_will_revoke_certificates_issued/
-
-# Other
-https://blog.benjojo.co.uk/post/tls-https-server-from-a-yubikey
-
-https://textslashplain.com/2019/08/11/spying-on-https/ https://news.ycombinator.com/item?id=20673409
-
-https://www.reddit.com/r/programming/comments/cpcuaj/spying_on_https/
-
-https://github.com/hughperkins/howto-jenkins-ssl
-
-https://support.cloudbees.com/hc/en-us/articles/203821254-How-to-install-a-new-SSL-certificate
-
-https://www.pixelstech.net/article/1445603357-A-HTTPS-client-and-HTTPS-server-demo-in-Java
-
-https://blog.cloudflare.com/private-key-compromises/ Heartbleed Revisited (OSCP)
-
-https://istlsfastyet.com/
-
-http://bitsup.blogspot.com/2015/03/opportunistic-encryption-for-firefox.html
-> https://news.ycombinator.com/item?id=9277269
-
-https://tls.so/
-
-https://news.ycombinator.com/item?id=9271946
-
-https://github.com/Hakky54/sslcontext-kickstart High-Level SSLFactory class for configuring a http client to communicate over SSL/TLS for one way authentication or two-way authentication
 
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/

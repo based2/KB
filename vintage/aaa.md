@@ -25,6 +25,8 @@ http://www.retroarchive.org/
 https://www.computer.org/csdl/magazine/mi/2021/06/09623441/1yJTuoB0mm4 NEC
 > https://news.ycombinator.com/item?id=30245640
 
+https://en.wikipedia.org/wiki/HP_3000
+
 # DEC
 https://madned.substack.com/p/the-enemy-within
 > https://news.ycombinator.com/item?id=27534145

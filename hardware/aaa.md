@@ -71,6 +71,10 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.graphcore.ai/posts/the-wow-factor-graphcore-systems-get-huge-power-and-efficiency-boost
+
+https://www.tomshardware.com/news/new-ucie-chiplet-standard-supported-by-intel-amd-and-arm
+
 https://www.anandtech.com/show/17276/amd-ryzen-9-6900hs-rembrandt-benchmark-zen3-plus-scaling
 > https://news.ycombinator.com/item?id=30514954
 

@@ -11,6 +11,9 @@ https://imglarger.com/
 https://resizer.in/
 
 #
+https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html
+> https://news.ycombinator.com/item?id=30527692
+
 https://github.com/nasa-jpl/autoRIFT fast and intelligent algorithm for finding the pixel displacement between two images
 > https://news.ycombinator.com/item?id=30434375
 

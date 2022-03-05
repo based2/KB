@@ -1,3 +1,6 @@
+https://github.com/TrungNguyen1909/qemu-t8030
+> https://news.ycombinator.com/item?id=30545425
+
 https://werwolv.net/blog/surface_ioctl
 
 https://github.com/trailofbits/maat

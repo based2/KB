@@ -90,6 +90,8 @@ https://github.com/akira/exq
 https://github.com/asciibeats/elixir_ranch
 > https://news.ycombinator.com/item?id=30045640
 
+https://github.com/szTheory/real-world-phoenix
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

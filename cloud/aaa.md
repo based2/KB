@@ -50,6 +50,12 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://blog.min.io/multi-cloud-monitoring-alerting-prometheus-and-grafana/
+
+https://news.ycombinator.com/item?id=30542887 Ask HN: Is GCP harder to use than AWS?
+
+https://github.com/poonai/inspektor Tool that helps you manage database access policies: postgresql
+
 https://pagure.io/Fedora-Council/tickets/issue/181 Hetzner Cloud modified VPS images of Fedora (no SELinux, FirewallD, Cockpit, tmpfs. 4years closure
 
 https://news.ycombinator.com/item?id=30430537 Ask HN: Is Kubernetes the only alternative for being cloud agnostic?

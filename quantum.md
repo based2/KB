@@ -65,6 +65,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://arxiv.org/abs/2201.10574 Basic Quantum Algorithms
+> https://news.ycombinator.com/item?id=30556053
+
 https://ionq.com/posts/february-23-2022-algorithmic-qubits
 
 https://phys.org/news/2022-02-sourced-hardware-quantum.html

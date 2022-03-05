@@ -71,6 +71,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://github.com/multiprocessio/fakegen
+> https://news.ycombinator.com/item?id=30531733
+
 https://jless.io/ Command-line viewer
 > https://news.ycombinator.com/item?id=30452162
 

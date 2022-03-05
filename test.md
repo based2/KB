@@ -116,6 +116,9 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://canvatechblog.com/speeding-up-ui-tests-with-codeceptjs-and-playwright-98daf6cb8a79
+> https://codecept.io/
+
 https://dev.to/tarantool/ten-year-experience-in-dbms-testing-19ea
 
 https://news.ycombinator.com/item?id=30209366 Ask HN: Is there any tool for benchmarking responsiveness for Linux?
