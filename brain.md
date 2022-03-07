@@ -28,6 +28,9 @@ https://www.nature.com/articles/s42256-021-00430-y
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/
+> https://news.ycombinator.com/item?id=30572633
+
 https://www.quantamagazine.org/toward-a-theory-of-self-organized-criticality-in-the-brain-20140403/
 > https://news.ycombinator.com/item?id=30356156
 

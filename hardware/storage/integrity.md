@@ -9,3 +9,5 @@ https://softwarebits.substack.com/p/old-pattern-powering-modern-tech
 
 https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/
 > https://news.ycombinator.com/item?id=28708290
+
+https://securitypitfalls.wordpress.com/2018/05/08/raid-doesnt-work/

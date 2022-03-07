@@ -233,6 +233,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/
+> https://news.ycombinator.com/item?id=30579847
+
 https://www.yagiz.co/postgresql-index-performance/
 
 https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b Schema Change Guide

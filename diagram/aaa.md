@@ -121,6 +121,8 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://ryven.org/ python flow
+
 https://camel.apache.org/blog/2022/02/camel-karavan-0.0.10/
 
 https://cloud.google.com/blog/topics/developers-practitioners/introducing-google-cloud-architecture-diagramming-tool

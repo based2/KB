@@ -1,3 +1,8 @@
+https://thesoloist-vr.com/
+> https://news.ycombinator.com/item?id=30550079
+
+https://www.phoronix.com/scan.php?page=news_item&px=Open-Source-PowerVR-Vulkan
+
 https://hubs.mozilla.com/
 > https://news.ycombinator.com/item?id=30515097
 

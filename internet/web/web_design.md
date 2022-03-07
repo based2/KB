@@ -77,6 +77,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://open-ui.org/charter
+
 https://randomwire.com/why-japanese-web-design-is-so-different/
 
 https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886

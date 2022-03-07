@@ -146,6 +146,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/jhallen/joes-sandbox/blob/master/editor-perf/readme.md
+
 https://www.eclipse.org/eclipse/news/4.23/platform.php
 
 https://community.notepad-plus-plus.org/topic/22438/notepad-v8-2-2-release-candidate

@@ -58,3 +58,5 @@ https://www.youtube.com/watch?v=ECCr_KFl41E "The early days of Unix at Bell Labs
 
 https://yarchive.net/comp/software_tlb.html
 > https://news.ycombinator.com/item?id=30474828
+
+http://www.bitsavers.org/pdf/bellLabs/unix/PreliminaryUnixImplementationDocument_Jun72.pdf

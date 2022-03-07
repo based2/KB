@@ -36,6 +36,14 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://sysdig.com/blog/triaging-malicious-docker-container/
+>
+
+https://github.com/quickemu-project/quickemu
+
+https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/
+> https://news.ycombinator.com/item?id=30576443
+
 https://github.com/afroisalreadyinu/miniboss python, docker like compose
 > https://news.ycombinator.com/item?id=30528167
 

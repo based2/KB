@@ -11,3 +11,6 @@ https://www.nginx.com/blog/using-nginx-as-object-storage-gateway/
 
 https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889
 > https://news.ycombinator.com/item?id=29947320
+
+https://csswizardry.com/2019/05/self-host-your-static-assets/
+> https://news.ycombinator.com/item?id=30569528

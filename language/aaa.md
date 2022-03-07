@@ -203,6 +203,9 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928948
 https://medium.com/@jankammerath/why-and-how-cobol-is-still-used-1c0a0cc7ce74
 > https://news.ycombinator.com/item?id=29221877
 
+https://dzone.com/articles/cobol-a-1959-idea-and-2022-technology
+> https://news.ycombinator.com/item?id=30552656
+
 ## LISP
 http://www.paulgraham.com/bel.html
 
@@ -244,6 +247,13 @@ https://www.grammarly.com/blog/engineering/running-lisp-in-production/
 https://blog.veitheller.de/Building_Setf.html
 
 # News
+https://matt.might.net/articles/best-programming-languages/
+
+https://www.crockford.com/dec64.html
+
+https://www.lucidchart.com/techblog/2022/03/04/if-its-not-a-number-what-is-it-demystifying-nan-for-the-working-programmer/
+> https://news.ycombinator.com/item?id=30558690
+
 https://jfmengels.net/modulo-cons/
 > https://news.ycombinator.com/item?id=30497307
 

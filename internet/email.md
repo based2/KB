@@ -113,6 +113,10 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://www.enricozini.org/blog/2022/debian/migrating-from-procmail-to-sieve/
+
+https://github.com/garethrbrown/recruiter-email-domains
+
 https://notes.nicfab.it/en/posts/privacycom/
 > https://news.ycombinator.com/item?id=30512491
 

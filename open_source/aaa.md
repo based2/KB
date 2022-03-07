@@ -191,6 +191,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://raccoon.onyxbits.de/blog/bugreport-free-support/
+> https://news.ycombinator.com/item?id=30577666
+
 https://sethmlarson.dev/blog/security-for-package-maintainers
 > https://news.ycombinator.com/item?id=30523829
 

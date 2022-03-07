@@ -11,6 +11,8 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://microsoft.github.io/debug-adapter-protocol/overview
+
 https://felix-knorr.net/blog/using_gdb_directly.html
 > https://news.ycombinator.com/item?id=30512302
 

@@ -66,6 +66,8 @@ https://github.com/intoli/exodus
 https://kestrelcomputer.github.io/kestrel/2018/02/01/on-elf-2
 > https://news.ycombinator.com/item?id=29660319
 
+https://beefchunk.com/documentation/sys-programming/binary_formats/elf/elf_from_the_programmers_perspective/elf.html
+
 # Window manager
 https://www.freedesktop.org/wiki/
 
@@ -80,6 +82,11 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://flathub.org/home
+
+https://linux-audit.com/linux-history-how-dot-files-became-hidden-files/
+> https://news.ycombinator.com/item?id=30566711
+
 https://blog.sffc.xyz/post/651389596091973632/comparing-linux-environments-on-macos-host
 
 https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234 fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid

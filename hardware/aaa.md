@@ -71,6 +71,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://jaycarlson.net/microcontrollers/
+> https://news.ycombinator.com/item?id=30575434
+
 https://www.graphcore.ai/posts/the-wow-factor-graphcore-systems-get-huge-power-and-efficiency-boost
 
 https://www.tomshardware.com/news/new-ucie-chiplet-standard-supported-by-intel-amd-and-arm

@@ -147,6 +147,8 @@ https://www.scylladb.com/2022/01/12/async-rust-in-practice-performance-pitfalls-
 
 https://kerkour.com/rust-async-await-what-is-a-runtime/
 
+https://thenewstack.io/async-rust-in-practice-performance-pitfalls-profiling/
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -336,6 +338,11 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.yoshuawuyts.com/safe-pin-projections-through-view-types/
+
+https://fasterthanli.me/articles/request-coalescing-in-async-rust
+> https://news.ycombinator.com/item?id=30580797
+
 https://blog.adamchalmers.com/nom-bits/
 > https://news.ycombinator.com/item?id=30528609
 

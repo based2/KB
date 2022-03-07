@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lore.kernel.org/lkml/20220302044406.63401-1-ash@heyquark.com/ powerpc: Nintendo Wii U support
+> https://news.ycombinator.com/item?id=30568676
+
 https://kernel.dk/io_uring.pdf
 
 https://www.theregister.com/2022/02/28/linux_kernel_5_17_rc6/

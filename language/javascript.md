@@ -352,6 +352,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://alpinejs.dev/
+
 https://2ality.com/2022/03/properties-of-primitives.html
 
 https://socket.dev/

@@ -230,6 +230,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://twitter.com/choldgraf/status/1499893924197912577 Jupyter.org now runs its notebooks on WebAssembly
+> https://news.ycombinator.com/item?id=30573639
+
+https://factbased.blogspot.com/2022/03/reviewing-my-first-shiny-project-1n.html
+> https://news.ycombinator.com/item?id=30566161
+
 https://news.ycombinator.com/item?id=30555914 Launch HN: Elementary (YC W22) – Open-source data observability
 
 https://s.mkws.sh/

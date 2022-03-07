@@ -106,6 +106,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+http://zotonic.com/
+> https://news.ycombinator.com/item?id=30577520
+
 https://www.linuxjournal.com/content/design-and-prototypical-implementation-irc-chat-server-erlang-otp
 > https://news.ycombinator.com/item?id=30191742
 

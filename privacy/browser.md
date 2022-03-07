@@ -9,6 +9,12 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://privacyinternational.org/guide-step/4330/firefox-adjusting-settings-enhance-your-online-privacy
+
+https://github.com/kaliangel/firefox-about-config
+
+https://varun.ch/history Retrieving your browsing history through a CAPTCHA
+
 https://digitalcontentnext.org/wp-content/uploads/2018/08/DCN-Google-Data-Collection-Paper.pdf
 
 https://github.com/gorhill/uBlock/releases/tag/1.41.0

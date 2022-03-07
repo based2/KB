@@ -94,6 +94,9 @@ https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html
 > https://github.com/rui314/mold
 > https://news.ycombinator.com/item?id=29754918
 
+https://www.lurklurk.org/linkers/linkers.html
+> https://news.ycombinator.com/item?id=30565280
+
 # Vectorization
 https://cvw.cac.cornell.edu/vector/default
 > https://news.ycombinator.com/item?id=27900592

@@ -68,3 +68,5 @@ https://news.ycombinator.com/item?id=28957573 Ask HN: Best way to host a website
 https://b3n.org/automatic-ripping-machine/
 > https://news.ycombinator.com/item?id=30043497
 > > https://github.com/automatic-ripping-machine/automatic-ripping-machine
+
+https://news.ycombinator.com/item?id=30577625

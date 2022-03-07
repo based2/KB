@@ -29,6 +29,13 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://sigrok.org/wiki/Main_Page Signal analysis software suite
+
+https://computer.rip/2022-03-05-high-definition-radio.html
+
+https://www.dspguide.com/pdfbook.htm
+> https://news.ycombinator.com/item?id=30574389
+
 https://ieeexplore.ieee.org/document/9681810 Parallel Processing at the Edge in Dense Wireless Networks
 
 https://baldesi.ovh/networking/wireless/2022/02/18/modulation-iq-em.html

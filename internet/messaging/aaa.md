@@ -11,6 +11,9 @@ https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messa
 > https://news.ycombinator.com/item?id=27587911
 
 # News
+https://element.io/blog/introducing-native-matrix-voip-with-element-call/
+> https://news.ycombinator.com/item?id=30568164
+
 https://dino.im/blog/2022/02/dino-0.3-release/
 
 https://signal.org/blog/change-number/

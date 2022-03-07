@@ -50,6 +50,8 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html
+
 https://blog.min.io/multi-cloud-monitoring-alerting-prometheus-and-grafana/
 
 https://news.ycombinator.com/item?id=30542887 Ask HN: Is GCP harder to use than AWS?

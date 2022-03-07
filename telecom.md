@@ -48,6 +48,9 @@ https://github.com/free5gc/free5gc Open source 5G core network base on 3GPP R15
 
 https://www.qualcomm.com/news/releases/2022/02/28/new-snapdragon-x70-modem-rf-harnesses-worlds-first-5g-ai-processor-industry
 
+https://www.theregister.com/2022/03/03/report_casts_doubt_on_5g/
+> https://www.sciencedirect.com/science/article/pii/S1364032121012958 The energy use implications of 5G: Reviewing whole network operational energy, embodied energy, and indirect effects
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html

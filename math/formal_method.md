@@ -7,11 +7,15 @@ http://why3.lri.fr/
 > https://coq.inria.fr/
 > > https://www.lri.fr/~paulin/LASER/course-notes.pdf
 > > > https://www.theregister.com/2021/06/15/coq_programming_language_change/ coc
+> https://en.m.wikipedia.org/wiki/Calculus_of_constructions
 
 https://github.com/stepchowfun/proofs
 
 https://danilafe.com/blog/coq_dawn/
 > https://news.ycombinator.com/item?id=29299697
+
+https://softwarefoundations.cis.upenn.edu/
+> https://news.ycombinator.com/item?id=30553612
 
 https://uds-psl.github.io/tm-verification-framework/
 > https://news.ycombinator.com/item?id=26860503

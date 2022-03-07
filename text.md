@@ -114,6 +114,14 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://github.com/wolfgarbe/SymSpell Spelling correction & Fuzzy search
+
+https://serhack.me/articles/unveiling-anonymous-author-stylometry-techniques/
+> https://news.ycombinator.com/item?id=30571932
+
+https://www.norvig.com/spell-correct.html
+> https://news.ycombinator.com/item?id=30575416
+
 https://blog.opensyllabus.org/about-the-open-syllabus-project/
 
 https://github.com/neuml/txtai

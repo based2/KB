@@ -1,3 +1,40 @@
+
+https://0ut3r.space/2022/03/06/windows-defender/
+> https://news.ycombinator.com/item?id=30580444
+
+https://lwn.net/Articles/867158/ Adding a "duress" password with PAM Duress
+> https://github.com/nuvious/pam-duress
+> https://news.ycombinator.com/item?id=30578938
+
+https://kerbit.io/research/read/blog/3 Multiple vulnerabilities in VoipMonitor
+
+https://www.cleafy.com/cleafy-labs/teabot-is-now-spreading-across-the-globe
+
+https://shkspr.mobi/blog/2022/03/whats-the-risk-from-fake-yubikeys/
+> https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/
+> https://news.ycombinator.com/item?id=30577162
+
+https://www.cloudyali.io/blogs/finding-unencrypted-aws-ebs-volumes-at-scale
+
+https://github.com/austinsonger/Incident-Playbook Goal: Incident Response Playbooks Mapped to Mitre Attack Tactics and Techniques
+
+https://media.defense.gov/2022/Mar/01/2002947139/-1/-1/0/CTR_NSA_NETWORK_INFRASTRUCTURE_SECURITY_GUIDANCE_20220301.PDF
+> https://news.ycombinator.com/item?id=30573749
+> https://yro.slashdot.org/story/22/03/05/195232/new-nsa-report-this-is-how-you-should-be-securing-your-network#comments
+
+https://maxwelldulin.com/BlogPost?post=9185867776 SQL Injection in a Parameterized Query - node.js
+> https://news.ycombinator.com/item?id=30571990
+> https://www.reddit.com/r/netsec/comments/t6cxbt/finding_an_authorization_bypass_on_my_own_website/
+
+https://www.cisa.gov/shields-up
+> https://news.ycombinator.com/item?id=30569271
+
+https://www.theregister.com/2022/03/05/nvidia_stolen_certificate/
+> https://news.ycombinator.com/item?id=30565985
+
+https://www.mozilla.org/en-US/security/advisories/mfsa2022-09/
+> https://news.ycombinator.com/item?id=30570839
+
 https://guardiosecurity.medium.com/how-to-lose-all-your-money-in-the-meta-verse-before-even-getting-started-7edb5b56a108
 > https://www.reddit.com/r/netsec/comments/t4vjcm/guardio_security_team_discovered_an_active/
 
@@ -381,6 +418,7 @@ https://infosec.cert-pa.it/cve-2021-4160.html openssl mips https://en.wikipedia.
 
 https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://blog.aquasec.com/cve-2022-0185-linux-kernel-container-escape-in-kubernetes
+> https://pwning.systems/posts/escaping-containers-for-fun/
 
 https://www.blackarrow.net/adcs-weaponizing-esc7-attack/
 
@@ -971,6 +1009,7 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > > https://news.ycombinator.com/item?id=30130251
 > https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/
 > > https://news.ycombinator.com/item?id=30146042
+> https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/#_ftn1
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

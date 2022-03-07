@@ -1,3 +1,6 @@
+https://kolarivision.com/sony-a1-complete-disassembly-and-teardown/
+> https://news.ycombinator.com/item?id=30569376
+
 https://github.com/TrungNguyen1909/qemu-t8030
 > https://news.ycombinator.com/item?id=30545425
 

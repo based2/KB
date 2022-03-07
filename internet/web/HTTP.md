@@ -124,6 +124,8 @@ https://portswigger.net/daily-swig/http-3-everything-you-need-to-know-about-the-
 https://aws.amazon.com/en/blogs/security/introducing-s2n-quic-open-source-protocol-rust/
 > https://news.ycombinator.com/item?id=30378383
 
+https://http3-explained.haxx.se/en
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

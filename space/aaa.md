@@ -21,6 +21,9 @@ A triple star system with a misaligned and warped circumstellar disk shaped by d
 
 https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
 
+https://stellarium.org/
+> https://news.ycombinator.com/item?id=30574809
+
 # Probe
 ## Voyager
 https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/
@@ -133,6 +136,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.einsteintelescope.nl/en/
+
+https://www.centauri-dreams.org/2022/03/03/engineering-the-oberth-maneuver/
+> https://news.ycombinator.com/item?id=30549488
+
 https://www.extremetech.com/extreme/331181-nasa-reveals-how-and-when-it-will-destroy-the-international-space-station
 
 https://www.astron.nl/flurry-of-new-discoveries-as-incredible-new-image-revealing-4-4-million-galaxies-is-made-public

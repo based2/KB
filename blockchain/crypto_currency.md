@@ -20,6 +20,9 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://finbold.com/u-s-virginia-senate-unanimously-passes-historic-crypto-banking-bill/
+> https://news.ycombinator.com/item?id=30574844
+
 https://docs.taler.net/
 > https://news.ycombinator.com/item?id=30514122
 

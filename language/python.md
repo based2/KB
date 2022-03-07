@@ -203,6 +203,10 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://taoofmac.com/space/dev/python
+
+https://machinelearningmastery.com/a-gentle-introduction-to-serialization-for-python/
+
 https://lwn.net/SubscriberLink/886516/d835ee6026544345/ CPython, C standards, and IEEE 754
 > https://news.ycombinator.com/item?id=30545466
 

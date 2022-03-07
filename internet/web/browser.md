@@ -30,6 +30,14 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.ghacks.net/2015/08/18/a-comprehensive-list-of-firefox-privacy-and-security-settings/
+
+https://wiki.archlinux.org/title/Firefox/Tweaks
+
+https://news.ycombinator.com/item?id=30573723
+> https://github.com/tholian-network/retrokit
+> 
+
 https://hacks.mozilla.org/2022/03/interop-2022/
 
 https://blog.chromium.org/2022/03/chrome-100-beta-reduced-user-agent.html

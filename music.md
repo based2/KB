@@ -91,6 +91,9 @@ https://100r.co/site/orca.html  esoteric programming language, designed to creat
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084
 
+https://github.com/PolyMeilex/Neothesia
+> https://news.ycombinator.com/item?id=30569329
+
 #
 https://www.beyondmusic.org/
 

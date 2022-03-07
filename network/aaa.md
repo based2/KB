@@ -51,6 +51,9 @@ https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attack
 
 https://ishitatsuyuki.github.io/post/latencyflex/
 
+https://colin-scott.github.io/personal_website/research/interactive_latency.html
+> https://news.ycombinator.com/item?id=30546995
+
 # Tests
 https://major.io/2021/06/06/a-new-future-for-icanhazip/
 > https://news.ycombinator.com/item?id=27415537
@@ -95,6 +98,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://netplan.io/ utility for easily configuring networking on a linux system Canonical
+
 https://lwn.net/SubscriberLink/885729/c495a793abeee387/ Better visibility into packet-dropping decisions
 > https://news.ycombinator.com/item?id=30544046
 

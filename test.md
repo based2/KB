@@ -116,6 +116,11 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://www.jamesshore.com/v2/blog/2018/testing-without-mocks
+> https://news.ycombinator.com/item?id=30565918
+
+https://eng.uber.com/introducing-ballast-an-adaptive-load-test-framework/
+
 https://canvatechblog.com/speeding-up-ui-tests-with-codeceptjs-and-playwright-98daf6cb8a79
 > https://codecept.io/
 

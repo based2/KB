@@ -16,5 +16,7 @@ https://www.theregister.com/2022/03/01/the_internet_is_so_hard/
 
 https://datatracker.ietf.org/doc/html/rfc2468 IANA
 
+https://writing.kemitchell.com/2022/03/05/Russia-to-Legalize-Software-Piracy.html
+
 
 

@@ -247,6 +247,19 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.linkedin.com/pulse/all-cheatsheets-one-place-vipul-patel?trk=public_post
+
+http://ggp.stanford.edu/ General Game Playing, General Artificial Intelligence
+
+http://neuralnetworksanddeeplearning.com/chap4.html
+> https://news.ycombinator.com/item?id=30576943
+
+https://homepages.dcc.ufmg.br/~hbarbosa/papers/tacas2022.pdf cvc5: A Versatile and Industrial-Strength SMT Solver
+> https://news.ycombinator.com/item?id=30567613
+
+https://probml.github.io/pml-book/book2.html Probabilistic Machine Learning: Advanced Topics
+> https://news.ycombinator.com/item?id=30552869
+
 https://arxiv.org/abs/2203.00555 DeepNet: Scaling Transformers to 1,000 Layers
 > https://news.ycombinator.com/item?id=30533914
 

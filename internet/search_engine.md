@@ -60,6 +60,12 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://blog.tylerhou.io/posts/binary-search-with-confidence/
+> https://news.ycombinator.com/item?id=30582168
+
+https://opensearch.org/
+> https://news.ycombinator.com/item?id=30569467
+
 https://news.ycombinator.com/item?id=30539620 DontBeEvil.rip: Search, for developers (API, expressions, CLI)
 
 https://heline.dev/

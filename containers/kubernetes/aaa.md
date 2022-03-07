@@ -62,6 +62,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://getmizu.io/ API Traffic Viewer
+> https://thenewstack.io/open-source-mizu-unblocks-view-into-kubernetes-api-traffic/
+
 https://github.com/zloeber/KubeStitch tool for stitching together customized Kubernetes cluster environments that run locally the same as they do in the cloud.
 
 https://github.com/kube-green/kube-green
