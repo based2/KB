@@ -68,6 +68,12 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://stackoverflow.com/questions/1108/how-does-database-indexing-work
+> https://news.ycombinator.com/item?id=30594233
+
+https://duckdb.org/2022/03/07/aggregate-hashtable.html
+> https://news.ycombinator.com/item?id=30589250
+
 https://www.oracle.com/technetwork/database/features/plsql/overview/how-to-write-injection-proof-plsql-1-129572.pdf
 
 https://github.com/orioledb/orioledb

@@ -118,6 +118,9 @@ http://0x80.pl/articles/simd-parsing-int-sequences.html
 
 https://ethz.ch/content/dam/ethz/special-interest/infk/ast-dam/documents/Theodoridis-ASPLOS22-Inlining-Paper.pdf
 
+https://specbranch.com/posts/faster-div8/
+> https://www.reddit.com/r/programming/comments/ta76qx/dividing_faster_than_the_div_instruction/
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -153,6 +156,8 @@ https://www.osohq.com/post/microservices-authorization-patterns
 
 https://orkes.io/content/blog/orchestration-microservices-match-made-heaven
 > https://news.ycombinator.com/item?id=29580598
+
+https://engineering.linkedin.com/blog/2022/hodor--detecting-and-addressing-overload-in-linkedin-microservic
 
 # API
 https://google.aip.dev/

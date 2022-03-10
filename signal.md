@@ -29,6 +29,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/spring-2020/electrical-engineering/elec6-improving-infrasound-detection
+
 https://sigrok.org/wiki/Main_Page Signal analysis software suite
 
 https://computer.rip/2022-03-05-high-definition-radio.html

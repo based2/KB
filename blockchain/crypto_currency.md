@@ -20,6 +20,15 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/09/executive-order-on-ensuring-responsible-development-of-digital-assets/
+
+https://www.sec.gov/news/press-release/2022-37
+> https://news.ycombinator.com/item?id=30607468
+
+https://www.bloomberg.com/news/articles/2022-03-07/biden-to-sign-crypto-order-as-industry-faces-sanctions-pressure
+
+https://www.bloombergquint.com/onweb/coinbase-blocks-25-000-crypto-wallets-linked-to-russian-users
+
 https://finbold.com/u-s-virginia-senate-unanimously-passes-historic-crypto-banking-bill/
 > https://news.ycombinator.com/item?id=30574844
 

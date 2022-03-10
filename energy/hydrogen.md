@@ -25,6 +25,10 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.hamburg-news.hamburg/en/innovation-science/hamburg-presents-hydrogen-import-strategy
+
+https://www.canarymedia.com/articles/hydrogen/why-is-california-wasting-millions-on-hydrogen-fuel-pumps
+
 https://phys.org/news/2022-02-easy-aluminum-nanoparticles-rapid-efficient.html
 
 https://arstechnica.com/science/2022/02/new-research-could-be-the-first-step-to-hydrogen-power-day-and-night/

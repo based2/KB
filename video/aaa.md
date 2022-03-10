@@ -67,6 +67,9 @@ https://blog.pizzabox.computer/random/videolines/
 https://pipewire.org/
 > https://news.ycombinator.com/item?id=28490078
 
+https://www.collabora.com/news-and-blog/blog/2022/03/08/pipewire-a-year-in-review-look-ahead/
+> https://news.ycombinator.com/item?id=30611794
+
 https://natrongithub.github.io/ GFX
 
 # Movie

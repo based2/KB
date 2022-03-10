@@ -104,6 +104,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://fossa.com/blog/three-pillars-reproducible-builds/
+> https://news.ycombinator.com/item?id=30604954
+
 https://github.com/jsnjack/wakeci
 
 https://fbinfer.com/

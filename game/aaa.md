@@ -15,6 +15,15 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.graememcc.co.uk/micropolisJS/
+> https://news.ycombinator.com/item?id=30585166
+
+https://icrazyblaze.github.io/Xash3D-Emscripten/xash-intro.html
+> https://news.ycombinator.com/item?id=30610434
+
+https://www.ruetir.com/2022/03/09/bold-statement-loot-boxes-in-football-game-fifa-now-allowed/
+> https://news.ycombinator.com/item?id=30617422
+
 https://www.dunegames.com/
 > https://news.ycombinator.com/item?id=30385486
 

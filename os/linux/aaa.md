@@ -82,6 +82,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://tuxphones.com/booting-arm-linux-the-standard-way/
+> https://news.ycombinator.com/item?id=30616379
+
 https://flathub.org/home
 
 https://linux-audit.com/linux-history-how-dot-files-became-hidden-files/

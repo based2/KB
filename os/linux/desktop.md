@@ -42,6 +42,8 @@ https://github.com/casualsnek/cassowary run a Windows virtual machine and use Wi
 > https://news.ycombinator.com/item?id=30214762
 
 # News
+https://lists.qt-project.org/pipermail/development/2022-March/042262.html
+
 https://lunduke.substack.com/p/make-linux-look-like-macos-9?s=r
 > https://news.ycombinator.com/item?id=30503530
 

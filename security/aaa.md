@@ -87,6 +87,8 @@ https://www.bit-101.com/blog/2021/07/perlin-vs-simplex/
 https://tom-kaitchuck.medium.com/designing-a-new-prng-1c4ffd27124d
 > https://en.wikipedia.org/wiki/Spectral_test
 
+https://news.ycombinator.com/item?id=30611708
+
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 

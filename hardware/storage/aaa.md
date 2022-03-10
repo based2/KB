@@ -1,4 +1,6 @@
 # News
+https://current.workingdirectory.net/posts/2022/lvm-cache/
+
 https://www.backblaze.com/blog/ssd-edition-2021-drive-stats-review/
 
 https://etbe.coker.com.au/2022/01/16/ssd-endurance/

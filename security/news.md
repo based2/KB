@@ -1,3 +1,48 @@
+https://blog.sonarsource.com/securing-developer-tools-package-managers
+> https://www.reddit.com/r/netsec/comments/tac2bc/yarn_pip_composer_co_vulnerabilities_in_popular/
+
+https://www.mandiant.com/resources/apt41-us-state-governments
+
+https://www.armis.com/research/tlstorm/ APC Smart-UPS devices
+> https://news.ycombinator.com/item?id=30603078
+
+https://news.ycombinator.com/item?id=30618577 Ask HN: How do you securely self-host a server?
+
+https://blog.cloudflare.com/cve-2022-26143/ CVE-2022-26143: TP240PhoneHome reflection/amplification DDoS attack vector, port 10074
+> https://news.ycombinator.com/item?id=30614073
+
+https://www.ubercomp.com/posts/2022-01-20_redis_on_debian_rce
+> https://news.ycombinator.com/item?id=30614766
+
+https://www.mandiant.com/company/press-release/mgc
+> https://news.ycombinator.com/item?id=30598841
+
+https://unit42.paloaltonetworks.com/gke-autopilot-vulnerabilities/
+
+https://www.graplsecurity.com/post/iou-ring-exploiting-the-linux-kernel
+> https://news.ycombinator.com/item?id=30605356
+
+https://grsecurity.net/amd_branch_mispredictor_part_2_where_no_cpu_has_gone_before
+> https://news.ycombinator.com/item?id=30603600
+
+https://www.vusec.net/projects/bhi-spectre-bhb/
+
+https://blog.google/threat-analysis-group/update-threat-landscape-ukraine/
+> https://news.ycombinator.com/item?id=30594042
+
+https://www.cvedetails.com/vendor/8218/VIM.html
+
+https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/
+> https://news.ycombinator.com/item?id=30589845
+
+https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html
+> https://news.ycombinator.com/item?id=30589212
+
+https://www.theverge.com/2022/3/7/22965220/samsung-hack-lapsus-galaxy-source-code-confirmed-nvidia
+
+https://dirtypipe.cm4all.com/ CVE-2022-0847
+> https://news.ycombinator.com/item?id=30586740
+> https://www.reddit.com/r/netsec/comments/t8qqhd/the_dirty_pipe_vulnerability_cve20220847/
 
 https://0ut3r.space/2022/03/06/windows-defender/
 > https://news.ycombinator.com/item?id=30580444

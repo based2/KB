@@ -167,6 +167,11 @@ https://github.com/reactjs/reactjs.org/issues/3896
 https://acko.net/blog/react-the-missing-parts/
 > https://news.ycombinator.com/item?id=30228498
 
+https://thoughtspile.github.io/2022/01/17/jsx-conditionals/
+> https://news.ycombinator.com/item?id=30596970
+
+https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -352,6 +357,15 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://smitop.com/post/js-html-comments/
+> https://news.ycombinator.com/item?id=30599167
+
+https://bellard.org/quickjs/
+> https://news.ycombinator.com/item?id=30598026
+
+https://devblogs.microsoft.com/typescript/a-proposal-for-type-syntax-in-javascript/
+> https://news.ycombinator.com/item?id=30618681
+
 https://alpinejs.dev/
 
 https://2ality.com/2022/03/properties-of-primitives.html

@@ -230,6 +230,17 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://remesh.blog/breaking-through-scaling-barriers-with-bigtable-43c2e8f75c8c
+> https://news.ycombinator.com/item?id=30599716
+
+https://github.com/substrait-io/substrait
+> https://news.ycombinator.com/item?id=30585752
+
+https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html
+> https://news.ycombinator.com/item?id=30595026
+
+https://peteroupc.github.io/exporand.html
+
 https://twitter.com/choldgraf/status/1499893924197912577 Jupyter.org now runs its notebooks on WebAssembly
 > https://news.ycombinator.com/item?id=30573639
 

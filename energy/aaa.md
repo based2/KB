@@ -12,6 +12,11 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://en.wikipedia.org/wiki/United_Downs_Deep_Geothermal_Power
+
+https://www.reuters.com/business/britain-start-approval-process-rolls-royce-mini-nuclear-reactor-2022-03-07/
+> https://news.ycombinator.com/item?id=30589797
+
 https://www.reuters.com/business/energy/satellite-outage-knocks-out-control-enercon-wind-turbines-2022-02-28/
 > https://news.ycombinator.com/item?id=30502367
 

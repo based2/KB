@@ -10,7 +10,13 @@ https://imglarger.com/
 
 https://resizer.in/
 
-#
+# News
+https://github.com/OmarShehata/jpeg-sandbox
+> https://news.ycombinator.com/item?id=30595617
+
+https://magamig.github.io/posts/accurate-image-alignment-and-registration-using-opencv/
+> https://news.ycombinator.com/item?id=30613745
+
 https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html
 > https://news.ycombinator.com/item?id=30527692
 

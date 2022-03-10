@@ -27,6 +27,8 @@ https://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html
 > https://news.ycombinator.com/item?id=29821687
 
 # News
+https://github.com/TomWright/dasel
+
 https://kreya.app/blog/why-kreya-isnt-open-source/ grpc ui
 > https://news.ycombinator.com/item?id=30527594
 

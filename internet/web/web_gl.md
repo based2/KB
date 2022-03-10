@@ -31,5 +31,8 @@ https://xem.github.io/W/?s=09 A micro WebGL2 framework
 https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-web-browsers
 > https://news.ycombinator.com/item?id=30370852
 
+https://surma.dev/things/webgpu/
+> https://news.ycombinator.com/item?id=30600525
+
 https://80.lv/articles/webgl-2-0-is-now-supported-in-all-major-browsers/
 

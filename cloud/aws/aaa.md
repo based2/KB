@@ -69,6 +69,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://apptrail.com/blog/2022/03/09/regional-cloud-architecture
+
 https://www.duckdns.org/why.jsp
 > https://news.ycombinator.com/item?id=30539059
 

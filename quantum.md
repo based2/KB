@@ -57,6 +57,8 @@ https://www.quantamagazine.org/colliders-and-supercomputers-force-fresh-hints-in
 https://news.uchicago.edu/story/uchicago-scientists-create-strange-quantum-domain-walls-laboratory
 > https://news.ycombinator.com/item?id=30303831
 
+https://news.ycombinator.com/item?id=30607692
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/

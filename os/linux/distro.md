@@ -62,6 +62,11 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://lunduke.substack.com/p/elementary-os-is-imploding?s=r
+> https://news.ycombinator.com/item?id=30611748
+
+https://www.omgubuntu.co.uk/2022/03/ubuntu-now-works-on-the-framework-laptop
+
 https://en.wikipedia.org/wiki/Astra_Linux
 
 https://www.armbian.com/newsflash/armbian-22-02-pig-release-announcement/

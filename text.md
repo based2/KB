@@ -98,6 +98,8 @@ https://github.com/gregdurrett/berkeley-doc-summarizer
 
 https://github.com/LIAAD/yake
 
+https://medium.com/besedo-engineering/text-summarization-part-2-state-of-the-art-ae900e2ac55f
+
 # Spell corrector
 https://norvig.com/spell-correct.html
 > https://news.ycombinator.com/item?id=28551468

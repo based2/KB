@@ -84,6 +84,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://bitfieldconsulting.com/golang/scripting
+
+https://github.com/samber/lo
+> https://news.ycombinator.com/item?id=30586519
+
 https://golang.design/history/
 
 https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html

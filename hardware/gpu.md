@@ -10,5 +10,7 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://github.com/KomputeProject/kompute
+
 https://www.nextplatform.com/2021/11/09/the-aldebaran-amd-gpu-that-won-exascale/
 > https://news.ycombinator.com/item?id=29231543

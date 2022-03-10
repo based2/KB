@@ -37,6 +37,9 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://github.com/dewberryants/asciiMol
+> https://news.ycombinator.com/item?id=30597559
+
 https://vimeo.com/277328815 Lenia – Mathematical Life Forms
 
 https://newatlas.com/science/crispr-gene-editing-error-correction-protein/

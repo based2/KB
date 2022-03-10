@@ -12,3 +12,7 @@ https://forgeperf.org/
 
 https://pijul.org/posts/2022-01-08-beta/
 > https://news.ycombinator.com/item?id=29991417
+
+# News
+https://drift.maxleiter.com/
+> https://news.ycombinator.com/item?id=30607367

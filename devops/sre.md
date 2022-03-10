@@ -35,6 +35,8 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://rootly.com/blog/what-sres-can-learn-from-capt-sully-when-to-follow-playbooks
+
 https://www.cs.cornell.edu/home/rvr/papers/GossipFD.pdf A Gossip-Style Failure Detection Service
 
 https://status.cloud.google.com/incidents/1xkAB1KmLrh5g3v9ZEZ7

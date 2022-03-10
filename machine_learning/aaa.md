@@ -247,6 +247,17 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://probmods.org/
+> https://news.ycombinator.com/item?id=30598862
+
+https://www.theverge.com/2022/3/9/22968773/ai-machine-learning-ancient-inscriptions-texts-deepmind-ithaca-model
+
+https://www.tensil.ai/
+> https://news.ycombinator.com/item?id=30615605
+
+https://yoshuabengio.org/2022/03/05/generative-flow-networks/
+> https://news.ycombinator.com/item?id=30586485
+
 https://www.linkedin.com/pulse/all-cheatsheets-one-place-vipul-patel?trk=public_post
 
 http://ggp.stanford.edu/ General Game Playing, General Artificial Intelligence

@@ -1,3 +1,8 @@
+https://www.shielder.it/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.1/
+
+https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html
+> https://news.ycombinator.com/item?id=30617896
+
 https://kolarivision.com/sony-a1-complete-disassembly-and-teardown/
 > https://news.ycombinator.com/item?id=30569376
 

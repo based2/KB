@@ -94,6 +94,9 @@ https://datatracker.ietf.org/doc/html/rfc8188
 https://httpstatusdogs.com/
 > https://news.ycombinator.com/item?id=27420667
 
+https://github.com/ABGEO/httpinfo
+> https://lobste.rs/s/3chsvc/display_information_about_http_status
+
 # Test client
 https://prestigemad.com/#!/doc/browser/master
 > https://news.ycombinator.com/item?id=27412445

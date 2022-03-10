@@ -81,6 +81,10 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://blog.apnic.net/2022/03/08/authenticated-bootstrapping-of-dnssec-delegations/
+
+https://blog.cloudflare.com/announcing-ddr-support/
+
 https://www.defenseone.com/technology/2017/11/russia-will-build-its-own-internet-directory-citing-us-information-warfare/142822/
 
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-21984

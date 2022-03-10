@@ -62,6 +62,12 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.docker.com/blog/how-kubernetes-works-under-the-hood-with-docker-desktop/
+> https://news.ycombinator.com/item?id=30599277
+
+https://home.robusta.dev/blog/kubernetes-is-the-new-posix/
+>
+
 https://getmizu.io/ API Traffic Viewer
 > https://thenewstack.io/open-source-mizu-unblocks-view-into-kubernetes-api-traffic/
 

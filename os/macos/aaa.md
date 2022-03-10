@@ -62,6 +62,9 @@ https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release
 https://developer.apple.com/support/unlisted-app-distribution/
 
 # M1
+https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/
+> https://news.ycombinator.com/item?id=30604470
+
 https://twitter.com/marcan42/status/1494716035165220872 recovery
 
 https://twitter.com/marcan42/status/1494213855387734019

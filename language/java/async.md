@@ -18,7 +18,6 @@ https://kotlinlang.org/spec/asynchronous-programming-with-coroutines.html
 https://akka.io/ OTP
 https://zio.dev/ - Scala
 
-
 https://www.braveclojure.com/core-async/ CSP
 
 https://spring.io/reactive
@@ -35,6 +34,8 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://kamalhm.dev/configuring-connection-pool-with-spring-r2dbc
+
 https://medium.com/geekculture/batch-processing-using-completablefuture-and-blocking-queue-under-high-concurrency-scenario-3a1f8478588a
 
 https://nocodefunctions.com/blog/java-concurrency-with-http-client-asynch/

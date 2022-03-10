@@ -71,6 +71,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/
+> https://news.ycombinator.com/item?id=30591415
+
 https://jaycarlson.net/microcontrollers/
 > https://news.ycombinator.com/item?id=30575434
 

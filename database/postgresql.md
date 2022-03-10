@@ -140,6 +140,10 @@ https://www.mutuallyhuman.com/blog/how-a-read-query-can-write-to-disk-a-postgres
 https://incident.io/blog/one-two-skip-a-few Postgres sequences can skip 32 unexpectedly
 > https://news.ycombinator.com/item?id=27843084
 
+## Audit
+https://supabase.com/blog/2022/03/08/audit
+> https://news.ycombinator.com/item?id=30615470 
+
 ## Backup
 https://abishekmuthian.com/backup-postgresql-to-cloud/
 
@@ -233,6 +237,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://github.com/ossc-db/pg_hint_plan
+> https://news.ycombinator.com/item?id=30614154
+
 https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/
 > https://news.ycombinator.com/item?id=30579847
 

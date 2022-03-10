@@ -247,6 +247,13 @@ https://www.grammarly.com/blog/engineering/running-lisp-in-production/
 https://blog.veitheller.de/Building_Setf.html
 
 # News
+https://github.com/ziglang/zig/blob/master/lib/std/multi_array_list.zig
+> https://news.ycombinator.com/item?id=30617471
+
+https://hackingcpp.com/cpp/cheat_sheets.html
+
+https://github.com/queer/utt universal text transformer. utt is intended for converting between textual data representations
+
 https://matt.might.net/articles/best-programming-languages/
 
 https://www.crockford.com/dec64.html

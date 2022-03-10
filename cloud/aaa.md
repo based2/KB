@@ -50,6 +50,12 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://health.aws.amazon.com/health/status AWS's us-east-1 region is experiencing issues
+> https://news.ycombinator.com/item?id=30619871
+
+https://status.slack.com/2022-03/8a9e98bfaa32ef5f
+> https://news.ycombinator.com/item?id=30613336
+
 https://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html
 
 https://blog.min.io/multi-cloud-monitoring-alerting-prometheus-and-grafana/

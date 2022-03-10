@@ -184,6 +184,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://dont.build/
+> https://news.ycombinator.com/item?id=30576746
+
 https://tuple.app/pair-programming-guide/antipatterns
 
 https://blog.the-pans.com/wrong/

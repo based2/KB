@@ -14,6 +14,9 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://blog.danslimmon.com/2016/08/26/the-most-important-thing-to-understand-about-queues/
+> https://news.ycombinator.com/item?id=30599442
+
 https://www.theregister.com/2022/03/04/solaris_common_build_environments_free/
 
 https://codeberg.org/StefanK/MinimalBinaryBoot

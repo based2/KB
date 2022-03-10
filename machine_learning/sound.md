@@ -1,3 +1,9 @@
+https://sepia-framework.github.io/
+> https://news.ycombinator.com/item?id=30599513
+
+https://github.com/Picovoice/leopard
+> https://news.ycombinator.com/item?id=30615775
+
 https://github.com/babysor/MockingBird chinese
 >  
 

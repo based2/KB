@@ -32,6 +32,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://www.rsync.net/resources/notes/2021-q4-rsync.net_technotes.html
+> https://news.ycombinator.com/item?id=30591663
+
 https://blog.zazu.berlin/software/a-almost-perfect-rsync-over-ssh-backup-script.html
 > https://news.ycombinator.com/item?id=30465581
 
