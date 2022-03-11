@@ -32,6 +32,12 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # News
+https://bugzilla.mozilla.org/show_bug.cgi?id=1758773 MITM in Russia
+> https://news.ycombinator.com/item?id=30629658
+
+https://www.bleepingcomputer.com/news/security/russia-creates-its-own-tls-certificate-authority-to-bypass-sanctions/
+> https://news.ycombinator.com/item?id=30628996
+
 https://relational-pipes.globalcode.info/v_0/examples-asn1-x509.xhtml
 
 https://www.troyhunt.com/how-everything-were-told-about-website-identity-assurance-is-wrong/

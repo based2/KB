@@ -12,6 +12,14 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.nyiso.com/real-time-dashboard
+> https://news.ycombinator.com/item?id=30642420
+
+https://www.cam.ac.uk/research/news/tiny-skyscrapers-help-bacteria-convert-sunlight-into-electricity
+
+https://doomberg.substack.com/p/a-serious-proposal-on-us-energy?s=r
+> https://news.ycombinator.com/item?id=30630136
+
 https://en.wikipedia.org/wiki/United_Downs_Deep_Geothermal_Power
 
 https://www.reuters.com/business/britain-start-approval-process-rolls-royce-mini-nuclear-reactor-2022-03-07/

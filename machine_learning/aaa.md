@@ -247,6 +247,26 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://graphsignal.com/
+> https://news.ycombinator.com/item?id=30628618
+
+https://pytorch.org/blog/pytorch-1.11-released/
+
+https://arxiv.org/abs/2110.13100 Parameter Prediction for Unseen Deep Architectures
+
+https://github.com/deepmind/ithaca Restoring and attributing ancient texts using deep neural networks
+
+https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/
+> https://news.ycombinator.com/item?id=30629214
+
+https://mfaizan.github.io/2022/03/08/why-tensors.html
+> https://news.ycombinator.com/item?id=30610238
+
+https://anatomyof.ai/
+> https://news.ycombinator.com/item?id=30626924
+
+https://vaclavkosar.com/ml/SRU++-Speeds-Up-Transformer-with-Simple-Recurrent-Unit-RNN
+
 https://probmods.org/
 > https://news.ycombinator.com/item?id=30598862
 

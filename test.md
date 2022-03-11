@@ -116,6 +116,9 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://jesseduffield.com/Testing-Private-Methods/
+> https://news.ycombinator.com/item?id=30600479
+
 https://www.jamesshore.com/v2/blog/2018/testing-without-mocks
 > https://news.ycombinator.com/item?id=30565918
 

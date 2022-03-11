@@ -70,6 +70,10 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://aws.amazon.com/en/blogs/compute/building-serverless-multi-region-websocket-apis/
+
+https://github.com/aws-samples/serverless-java-frameworks-samples
+
 https://appliedgo.net/mantil/ Rapid AWS Lambda development with Go and Mantil
 
 https://github.com/ginglis13/startpage

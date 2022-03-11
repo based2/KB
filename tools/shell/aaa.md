@@ -34,6 +34,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://github.com/kaelzhang/shell-safe-rm
+
 https://www.oilshell.org/blog/2022/01/notes-themes.html
 
 http://sininenankka.dy.fi/~sami/fdshell/

@@ -81,6 +81,11 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://news.ycombinator.com/item?id=30642577 Ask HN: Neutral DNS servers?
+
+https://christoph.luppri.ch/fixing-dns-resolution-for-ruby-on-alpine-linux
+> https://news.ycombinator.com/item?id=30642632
+
 https://blog.apnic.net/2022/03/08/authenticated-bootstrapping-of-dnssec-delegations/
 
 https://blog.cloudflare.com/announcing-ddr-support/

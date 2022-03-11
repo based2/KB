@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.airbus.com/en/newsroom/news/2022-03-airbus-high-voltage-battery-technology-prepares-for-ecopulse-flight-test
+
 https://batteryeliminatorstore.com/
 > https://news.ycombinator.com/item?id=30510686
 

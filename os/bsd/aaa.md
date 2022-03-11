@@ -95,6 +95,9 @@ https://klarasystems.com/articles/modern-inetd-in-freebsd/
 
 https://cdn.coverstand.com/33057/739644/0483e8ca86f15b6c0ce9d6f4660f93665bff176a.2.pdf
 
+https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html
+> https://news.ycombinator.com/item?id=30637770
+
 # NetBSD
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908

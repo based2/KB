@@ -97,6 +97,16 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://blog.adacore.com/ada-gamedev-part-1-generic-sprite-and-tile-engine-geste
+
+https://blog.adacore.com/make-with-ada-the-eagle-has-landed
+
+https://godotengine.org/article/release-candidate-godot-3-4-4-rc-1
+> https://news.ycombinator.com/item?id=30622830
+
+https://github.com/ensisoft/gamestudio
+> https://news.ycombinator.com/item?id=30620897
+
 https://pikuma.com/blog/isometric-projection-in-games
 > https://news.ycombinator.com/item?id=30522955
 

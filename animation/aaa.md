@@ -64,6 +64,11 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://anvaka.github.io/fieldplay/?cx=0.0020999999999999908&cy=0&w=8.544&h=8.544&dt=0.01&fo=0.998&dp=0.009&cm=3
+
+https://blog.winter.dev/2020/gjk-algorithm/
+> https://news.ycombinator.com/item?id=30620906
+
 https://gamedev.live/gdscript-godot-signals-in-depth-guide/
 
 https://www.jeremyong.com/color%20theory/2022/02/19/implementing-the-flip-algorithm/

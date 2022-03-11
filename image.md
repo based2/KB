@@ -11,6 +11,8 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+http://regex.info/blog/lightroom-goodies/jpeg-quality
+
 https://github.com/OmarShehata/jpeg-sandbox
 > https://news.ycombinator.com/item?id=30595617
 

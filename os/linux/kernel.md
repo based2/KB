@@ -12,6 +12,18 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/Articles/887498/ x86/AMD: Userspace address tagging
+
+https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
+
+https://lwn.net/SubscriberLink/887097/7ca69c6bfa3584c0/ Toward a better list iterator for the kernel
+
+https://tuxmake.org/
+> https://linuxfr.org/news/tuxmake-et-le-noyau-linux
+
+https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.18-C11-Plan
+> https://news.ycombinator.com/item?id=30628050
+
 https://lore.kernel.org/lkml/20220302044406.63401-1-ash@heyquark.com/ powerpc: Nintendo Wii U support
 > https://news.ycombinator.com/item?id=30568676
 

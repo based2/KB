@@ -74,6 +74,8 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://www.lihaoyi.com/post/MicrooptimizingyourScalacode.html
+
 https://gist.github.com/quelgar/d383cd960d781fe72a1564203c280a03 Every Argument for Static Typing Applies to Typed Errors
 > https://www.reddit.com/r/scala/comments/t0d5zi/every_argument_for_static_typing_applies_to_typed/
 

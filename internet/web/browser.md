@@ -30,6 +30,15 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://smaller.fish/posts/language Why does Google get internationalization wrong?
+> https://news.ycombinator.com/item?id=30638590
+
+https://developer.mozilla.org/en-US/docs/Web/API/Barcode_Detection_API
+> https://news.ycombinator.com/item?id=30620802
+
+https://morrick.me/archives/9500
+> https://news.ycombinator.com/item?id=30610651
+
 https://www.mozilla.org/en-US/firefox/98.0/releasenotes/
 > https://news.ycombinator.com/item?id=30613985
 

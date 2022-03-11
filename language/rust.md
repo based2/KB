@@ -238,6 +238,9 @@ https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html
 https://github.com/antoyo/rustc_codegen_gcc
 > https://news.ycombinator.com/item?id=27746877
 
+https://cxx.rs/
+> https://news.ycombinator.com/item?id=30627495
+
 ## MacOs
 https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
 > https://news.ycombinator.com/item?id=27467453
@@ -338,6 +341,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux
+> https://news.ycombinator.com/item?id=30627667
+
 https://blog.yoshuawuyts.com/safe-pin-projections-through-view-types/
 
 https://fasterthanli.me/articles/request-coalescing-in-async-rust

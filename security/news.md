@@ -1,3 +1,16 @@
+https://www.bleepingcomputer.com/news/linux/kali-linux-adds-vm-like-snapshot-feature-to-bare-metal-installs/
+
+https://krebsonsecurity.com/2022/03/report-recent-10x-increase-in-cyberattacks-on-ukraine/
+
+https://medium.com/s2wblog/post-mortem-of-klayswap-incident-through-bgp-hijacking-898f26727d66 in korean, BGP hijack
+> https://freedom-to-tinker.com/2022/03/09/attackers-exploit-fundamental-flaw-in-the-webs-security-to-steal-2-million-in-cryptocurrency/
+
+https://vigilance.fr/vulnerabilite/ISC-BIND-vulnerabilite-devoilee-le-16-03-2022-37754
+
+https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-15-03-2022-37745
+
+https://lists.apache.org/list?announce@apache.org:2022-3 CVE-2021-38296: Apache Spark Key Negotiation Vulnerability
+
 https://blog.sonarsource.com/securing-developer-tools-package-managers
 > https://www.reddit.com/r/netsec/comments/tac2bc/yarn_pip_composer_co_vulnerabilities_in_popular/
 
@@ -118,6 +131,7 @@ https://krebsonsecurity.com/2022/03/conti-ransomware-group-diaries-part-i-evasio
 > https://krebsonsecurity.com/2022/03/conti-ransomware-group-diaries-part-ii-the-office/
 > https://www.cyberark.com/resources/threat-research-blog/conti-group-leaked
 > https://www.bleepingcomputer.com/news/security/conti-ransomware-source-code-leaked-by-ukrainian-researcher/
+> https://www.bleepingcomputer.com/news/security/cisa-updates-conti-ransomware-alert-with-nearly-100-domain-names/
 
 https://www.akamai.com/blog/security/tcp-middlebox-reflection
 > https://news.ycombinator.com/item?id=30524318

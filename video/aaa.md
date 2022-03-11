@@ -93,6 +93,10 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://jonwillia.ms/2022/03/09/isolating-problematic-cgo-code
+
+https://ffglitch.org/
+
 https://eternityforest.com/doku/doku.php?id=tech:nvr
 > https://news.ycombinator.com/item?id=30549933
 

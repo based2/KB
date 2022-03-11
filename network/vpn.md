@@ -79,3 +79,6 @@ https://mullvad.net/en/blog/2021/9/16/ownership-and-future-mullvad-vpn/
 https://alternativeto.net/news/2021/9/kape-technologies-buys-expressvpn-for-936-million/
 > https://news.ycombinator.com/item?id=28552731
 
+https://www.cs.umd.edu/~dml/papers/vpn-ads-oakland22.pdf Investigating Influencer VPN Ads on YouTube [pdf]
+> https://news.ycombinator.com/item?id=30635989 
+

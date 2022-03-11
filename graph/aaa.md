@@ -61,6 +61,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://www.arangodb.com/2020/05/best-practices-for-aql-graph-queries/
+
 https://www.litmaps.co/
 
 http://cs-www.cs.yale.edu/homes/spielman/sagt/

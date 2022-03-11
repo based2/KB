@@ -55,6 +55,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.nature.com/articles/ncomms15174 Directly converting CO2 into a gasoline fuel
+> https://news.ycombinator.com/item?id=30624951
+
 https://news.ycombinator.com/item?id=30557288 Launch HN: Phase Biolabs (YC W22) – Converting CO2 to Carbon-Neutral Chemicals
 
 https://www.ipcc.ch/site/assets/uploads/2022/02/AR6_Factsheet_2022_February.pdf

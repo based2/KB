@@ -62,6 +62,10 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://kubefwd.com/
+
+https://github.com/devtron-labs/devtron
+
 https://www.docker.com/blog/how-kubernetes-works-under-the-hood-with-docker-desktop/
 > https://news.ycombinator.com/item?id=30599277
 

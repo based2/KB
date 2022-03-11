@@ -59,6 +59,8 @@ https://github.com/taylorconor/threeboard
 https://github.com/sigoden/windows-switcher
 > https://news.ycombinator.com/item?id=30488027
 
+https://github.com/debauchee/barrier oftware that mimics the functionality of a KVM switch, Share mouse and keyboard between computers
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -71,6 +73,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.theregister.com/2022/03/09/dell_pluton_microsoft/
+
 https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/
 > https://news.ycombinator.com/item?id=30591415
 

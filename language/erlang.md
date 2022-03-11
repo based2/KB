@@ -106,6 +106,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://www.erlang-in-anger.com/
+> https://news.ycombinator.com/item?id=30611319
+
 http://zotonic.com/
 > https://news.ycombinator.com/item?id=30577520
 

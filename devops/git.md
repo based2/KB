@@ -80,6 +80,9 @@ https://wildlyinaccurate.com/a-hackers-guide-to-git/
 # Branch Flows
 https://thinkfoo.wordpress.com/2016/04/17/how-branching-affects-team-culture-talk-at-pipeline-conf-2016/
 
+https://lethain.com/trunk-and-branches/
+> https://news.ycombinator.com/item?id=30620843
+
 ## Ship / Show / Ask
 https://martinfowler.com/articles/ship-show-ask.html
 > https://news.ycombinator.com/item?id=28457071

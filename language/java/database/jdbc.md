@@ -26,4 +26,6 @@ https://github.com/Wisser/Jailer
 https://github.com/eXsio/querydsl-entityql#-query-execution
 
 # News
+https://www.reddit.com/r/java/comments/t93pc2/replacing_jni_with_panama_in_the_sqlite_jdbc/
+
 https://www.h2database.com/html/changelog.html CVE-2018-14335 

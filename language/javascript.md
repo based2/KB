@@ -357,6 +357,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://2ality.com/2022/03/type-annotations-first-look.html
+> https://news.ycombinator.com/item?id=30626458
+
 https://smitop.com/post/js-html-comments/
 > https://news.ycombinator.com/item?id=30599167
 

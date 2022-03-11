@@ -130,6 +130,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://github.com/ludovicianul/hq
+
 https://github.com/gildas-lormeau/SingleFile
 > https://news.ycombinator.com/item?id=30527999
 

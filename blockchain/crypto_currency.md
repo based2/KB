@@ -20,6 +20,9 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.neowin.net/news/uk-tells-crypto-atm-operators-to-shut-down-or-face-action/
+> https://news.ycombinator.com/item?id=30639523
+
 https://www.whitehouse.gov/briefing-room/presidential-actions/2022/03/09/executive-order-on-ensuring-responsible-development-of-digital-assets/
 
 https://www.sec.gov/news/press-release/2022-37

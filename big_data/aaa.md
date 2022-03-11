@@ -230,6 +230,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://hop.apache.org/ Hop Orchestration Platform
+> https://hop.apache.org/docs/architecture/
+> > https://hop.apache.org/manual/latest/hop-gui/hop-web.html
+
+https://eng.uber.com/one-stone-three-birds-finer-grained-encryption-apache-parquet/
+
 https://remesh.blog/breaking-through-scaling-barriers-with-bigtable-43c2e8f75c8c
 > https://news.ycombinator.com/item?id=30599716
 

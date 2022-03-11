@@ -85,6 +85,7 @@ https://eng.uber.com/pprof-go-profiler/
 
 # News
 https://bitfieldconsulting.com/golang/scripting
+> https://news.ycombinator.com/item?id=30641883
 
 https://github.com/samber/lo
 > https://news.ycombinator.com/item?id=30586519

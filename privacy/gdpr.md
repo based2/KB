@@ -56,6 +56,12 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://gdpr-txt.org/
+> https://framablog.org/2022/03/08/faciliter-la-conformite-rgpd-le-fichier-gdpr-txt/
+
+https://github.com/cavi-au/Consent-O-Matic
+> https://news.ycombinator.com/item?id=30625218
+
 https://github.com/wildfish/django-gdpr-assist
 
 https://cunderwood.dev/2022/02/13/consent-gdpr-and-google-analytics/

@@ -87,6 +87,9 @@ http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/2
 https://news.ycombinator.com/item?id=27409410
 
 #
+https://github.com/marciot/mac-minivnc
+> https://news.ycombinator.com/item?id=30599682
+
 https://www.cs.utexas.edu/~wcook/Drafts/2006/ashopl.pdf AppleScript
 > https://news.ycombinator.com/item?id=30538766
 

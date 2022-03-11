@@ -27,6 +27,11 @@ https://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html
 > https://news.ycombinator.com/item?id=29821687
 
 # News
+https://jakearchibald.com/2020/avif-has-landed/
+
+https://blog.darrien.dev/posts/you-dont-know-gif/
+> https://news.ycombinator.com/item?id=30624644
+
 https://github.com/TomWright/dasel
 
 https://kreya.app/blog/why-kreya-isnt-open-source/ grpc ui

@@ -43,11 +43,11 @@ https://www.javaadvent.com/2021/12/from-maven-3-to-maven-5.html
 
 https://blog.frankel.ch/maven-flatten-plugin/
 
-https://lists.apache.org/list?announce@maven.apache.org:2022-2 Maven Compiler Plugin 3.10.0 Released
+https://lists.apache.org/list?announce@maven.apache.org:2022-3 Apache Maven Compiler Plugin 3.10.1 Released
+
+https://lists.apache.org/list?announce@maven.apache.org:2022-3 Apache Maven Dependency Plugin 3.3.0 Released
 
 https://lists.apache.org/list?announce@maven.apache.org:2022-1 Maven Dependency Analyzer 1.12.0 Released
-
-https://lists.apache.org/list.html?announce@maven.apache.org Maven Compiler Plugin 3.9.0 released
 
 https://lists.apache.org/list.html?announce@maven.apache.org Maven JAR Plugin 3.2.2 released
 

@@ -146,6 +146,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/
+
 https://github.com/jhallen/joes-sandbox/blob/master/editor-perf/readme.md
 
 https://www.eclipse.org/eclipse/news/4.23/platform.php

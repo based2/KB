@@ -37,3 +37,6 @@ https://thiscitydoesnotexist.com/
 > https://news.ycombinator.com/item?id=30539445
 
 https://thegradient.pub/bootstrapping-labels-via-___-supervision-human-in-the-loop/
+
+https://jiataogu.me/style_nerf/
+> https://news.ycombinator.com/item?id=30637403

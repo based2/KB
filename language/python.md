@@ -203,6 +203,16 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/ZeroIntensity/pointers.py
+> https://www.reddit.com/r/programming/comments/tb235g/github_zerointensitypointerspy_bringing_the_hell/
+
+https://engineering.instawork.com/refactoring-a-python-codebase-with-libcst-fc645ecc1f09
+
+https://treyhunner.com/2019/05/python-builtins-worth-learning/
+> https://news.ycombinator.com/item?id=30621552
+
+https://www.mattlayman.com/understand-django/secure-apps/
+
 https://taoofmac.com/space/dev/python
 
 https://machinelearningmastery.com/a-gentle-introduction-to-serialization-for-python/

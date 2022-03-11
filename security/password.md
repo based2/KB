@@ -40,6 +40,8 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://www.troyhunt.com/setting-the-bar-for-government-access-to-have-i-been-pwned/
+
 https://news.ycombinator.com/item?id=30374896 Ask HN: Why should I trust password managers?
 
 https://news.ycombinator.com/item?id=29683367 How do password managers make things better?

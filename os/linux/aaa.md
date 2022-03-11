@@ -82,6 +82,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://wesmckinney.com/blog/linux-laptop-experience/
+> https://news.ycombinator.com/item?id=30643414
+
 https://tuxphones.com/booting-arm-linux-the-standard-way/
 > https://news.ycombinator.com/item?id=30616379
 

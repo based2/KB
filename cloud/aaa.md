@@ -50,6 +50,15 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://en.wikipedia.org/wiki/Landauer%27s_principle
+
+https://blog.lohr.dev/phoenix-pvm-based-virtual-machine-monitors
+
+https://www.infoworld.com/article/3653228/what-is-a-serverless-database-elastic-compute-for-the-data-tier.html
+
+https://www.theregister.com/2022/03/09/state_of_cloud_survey/
+> https://news.ycombinator.com/item?id=30627328
+
 https://health.aws.amazon.com/health/status AWS's us-east-1 region is experiencing issues
 > https://news.ycombinator.com/item?id=30619871
 

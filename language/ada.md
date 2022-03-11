@@ -62,6 +62,9 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://github.com/SMerrony/dashera/blob/10ab6e4ece8ea1c16ad055c063c5e743d89cd6bc/Docs/LessonsLearnt.md Lessons Learnt Moving a Gtk Application from Go to Ada
+> https://news.ycombinator.com/item?id=30638542
+
 https://github.com/stcarrez/swagger-ada
 
 https://blog.adacore.com/proving-the-correctness-of-gnat-light-runtime-library

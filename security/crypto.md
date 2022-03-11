@@ -108,6 +108,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://eric.mann.blog/cooking-with-credentials-pepper/
+
 https://eprint.iacr.org/2022/214 Breaking Rainbow signature scheme Takes a Weekend on a Laptop
 > https://news.ycombinator.com/item?id=30466063
 

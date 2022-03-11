@@ -23,3 +23,5 @@ https://ciechanow.ski/gps/
 
 https://www.gpsworld.com/russia-expected-to-ditch-glonass-for-loran-in-ukraine-invasion/
 > https://news.ycombinator.com/item?id=30385174
+
+https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/

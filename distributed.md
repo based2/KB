@@ -100,6 +100,9 @@ https://github.com/anishathalye/porcupine
 https://asatarin.github.io/testing-distributed-systems/
 
 # News
+http://muratbuffalo.blogspot.com/2022/03/foundationdb-distributed-unbundled.html
+> https://news.ycombinator.com/item?id=30640932
+
 https://medium.com/criteo-engineering/distributed-rate-limiting-algorithms-a35f7e24783
 
 https://lists.apache.org/list?announce@apache.org:2022-2 Apache ShardingSphere 5.1.0 available

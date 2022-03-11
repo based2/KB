@@ -36,6 +36,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://blog.lizzie.io/linux-containers-in-500-loc.html
+> https://news.ycombinator.com/item?id=30623372
+
 https://sysdig.com/blog/triaging-malicious-docker-container/
 >
 

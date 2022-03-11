@@ -12,6 +12,9 @@ https://brandur.org/nanoglyphs/031-api-docs
 https://tdg.docbook.org/tdg/5.1/
 > https://news.ycombinator.com/item?id=30550354
 
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/
+> https://news.ycombinator.com/item?id=30629156
+
 # AsciiDoc
 
 https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/
