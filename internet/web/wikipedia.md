@@ -18,6 +18,10 @@ http://static.wiki/
 https://news.ycombinator.com/item?id=28277749
 
 # Wiki
+https://researchasahobby.com/full-list-eig-hosting-companies-brands/
+
+https://www.theverge.com/2022/3/11/22973293/wikipedia-editor-russia-belarus-ukraine
+
 https://www.mediawiki.org/wiki/MediaWiki
 
 https://gitlab.com/moasdawiki/moasdawiki-server/-/tree/master/installer/linux/debian

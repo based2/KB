@@ -87,6 +87,8 @@ http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/2
 https://news.ycombinator.com/item?id=27409410
 
 #
+https://macgui.com/news/article.php?t=523 Exploring the A5 World
+
 https://github.com/marciot/mac-minivnc
 > https://news.ycombinator.com/item?id=30599682
 

@@ -73,6 +73,11 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.theregister.com/2022/03/10/neuromorphic_chips_sandia/
+
+https://www.youtube.com/watch?v=b3F9OtH2Xx4 Pockit: A tiny, powerful, modular computer (2022 demo)
+> https://news.ycombinator.com/item?id=30615959
+
 https://www.theregister.com/2022/03/09/dell_pluton_microsoft/
 
 https://hackaday.com/2022/03/07/a-chip-to-address-the-fundamental-usb-3-0-deficiency/

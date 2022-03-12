@@ -173,6 +173,9 @@ https://blog.sequin.io/events-not-webhooks
 > https://news.ycombinator.com/item?id=29847462
 > https://news.ycombinator.com/item?id=29844529
 
+https://r.bluethl.net/how-to-design-better-apis
+> https://news.ycombinator.com/item?id=30647784
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966

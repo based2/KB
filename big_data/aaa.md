@@ -230,6 +230,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb
+> https://news.ycombinator.com/item?id=9170100
+
+https://wesmckinney.com/blog/python-parquet-multithreading/
+
 https://hop.apache.org/ Hop Orchestration Platform
 > https://hop.apache.org/docs/architecture/
 > > https://hop.apache.org/manual/latest/hop-gui/hop-web.html

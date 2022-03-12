@@ -246,7 +246,12 @@ https://www.grammarly.com/blog/engineering/running-lisp-in-production/
 
 https://blog.veitheller.de/Building_Setf.html
 
+https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
+> https://news.ycombinator.com/item?id=30631590
+
 # News
+https://pvk.ca/Blog/2021/12/19/bounded-dynamicism-with-cross-modifying-code/
+
 https://github.com/ziglang/zig/blob/master/lib/std/multi_array_list.zig
 > https://news.ycombinator.com/item?id=30617471
 

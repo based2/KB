@@ -184,6 +184,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/
+> https://news.ycombinator.com/item?id=30648424
+
 https://github.com/ruilisi/css-checker
 > https://news.ycombinator.com/item?id=30551372
 

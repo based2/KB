@@ -257,6 +257,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://paul-samuels.com/blog/2022/03/12/updating-git-edit/
+
 https://github.com/o2sh/onefetch
 
 https://github.com/martinvonz/jj

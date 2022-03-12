@@ -12,6 +12,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://bigthink.com/the-present/laser-nuclear-waste/
+> https://news.ycombinator.com/item?id=30652334
+
+https://www.reuters.com/world/europe/finland-starts-much-delayed-nuclear-plant-brings-respite-power-market-2022-03-12/
+> https://news.ycombinator.com/item?id=30653220
+
 https://www.nyiso.com/real-time-dashboard
 > https://news.ycombinator.com/item?id=30642420
 

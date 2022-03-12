@@ -41,6 +41,8 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.aroged.com/2022/03/10/developer-chinese-drone-manufacturer-dji-has-limited-the-use-of-aeroscope-technology-for-the-ukrainian-army-but-not-for-the-russian-one/
+
 https://blog.arduino.cc/2022/02/26/james-brutons-strange-bicycle-robot-self-balances-with-an-omni-wheel/
 > https://news.ycombinator.com/item?id=30484877
 

@@ -1,3 +1,28 @@
+https://brianstadnicki.github.io/posts/vulnerability-asyncrat-rce/
+
+https://www.microsoft.com/security/blog/2022/02/17/4-best-practices-to-implement-a-comprehensive-zero-trust-security-approach/
+
+https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/
+
+https://github.com/CoolerVoid/casper-fs
+
+https://www.reuters.com/legal/legalindustry/ca-bar-says-attorney-records-leaked-through-database-flaw-not-hack-2022-03-01/
+> https://news.ycombinator.com/item?id=30652950
+
+https://robertwillishacking.com/census-vulnerability-exposes-10k-oauth-tokens-thousands-of-user-records/
+
+https://www.sidnlabs.nl/en/news-and-blogs/a-lock-with-many-keys-spoofing-dnssec-signed-domains-in-8-8-8-8
+> https://news.ycombinator.com/item?id=30651840
+
+https://blog.svenpeter.dev/posts/m1_sprr_gxf/ Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF)
+> https://news.ycombinator.com/item?id=27078614
+
+https://www.tomshardware.com/news/intel-discovers-amd-spectre-patch-has-been-broken-since-2018-amd-issues-fix
+> https://news.ycombinator.com/item?id=30651324
+
+https://old.reddit.com/r/hardware/comments/tbthjj/psa_newer_tplink_routers_send_all_your_web/
+> https://news.ycombinator.com/item?id=30650606
+
 https://www.bleepingcomputer.com/news/linux/kali-linux-adds-vm-like-snapshot-feature-to-bare-metal-installs/
 
 https://krebsonsecurity.com/2022/03/report-recent-10x-increase-in-cyberattacks-on-ukraine/
@@ -50,6 +75,7 @@ https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service
 
 https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html
 > https://news.ycombinator.com/item?id=30589212
+> https://www.reddit.com/r/netsec/comments/tbzdkh/satcom_terminals_under_attack_in_europe_a/
 
 https://www.theverge.com/2022/3/7/22965220/samsung-hack-lapsus-galaxy-source-code-confirmed-nvidia
 
@@ -123,6 +149,7 @@ https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/
 https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf
 > https://portswigger.net/daily-swig/google-waf-bypassed-via-oversized-post-requests
 > https://www.reddit.com/r/netsec/comments/t5k0qt/bypassing_googles_cloud_armor_firewall_with_an_8/
+> https://news.ycombinator.com/item?id=30649328
 
 https://www.pomerium.com/blog/white-house-zt-memo/
 > https://news.ycombinator.com/item?id=30530592

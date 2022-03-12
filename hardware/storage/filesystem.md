@@ -25,6 +25,15 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://github.com/winfsp/hubfs
+> https://news.ycombinator.com/item?id=30653916
+
+https://blog.johnstarich.com/write-once-store-anywhere-extensible-file-systems-for-go-65c7c0949e74
+> https://www.reddit.com/r/golang/comments/tc0hxe/write_once_store_anywhere_extensible_file_systems/
+
+https://utcc.utoronto.ca/~cks/space/blog/tech/FilesystemsThreeErrorTypes
+> https://news.ycombinator.com/item?id=30651244
+
 https://klarasystems.com/articles/nfs-shares-with-zfs/
 > https://news.ycombinator.com/item?id=30452830
 

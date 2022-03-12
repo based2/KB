@@ -70,6 +70,8 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://aws.amazon.com/en/blogs/compute/composing-aws-step-functions-to-abstract-polling-of-asynchronous-services/
+
 https://aws.amazon.com/en/blogs/compute/building-serverless-multi-region-websocket-apis/
 
 https://github.com/aws-samples/serverless-java-frameworks-samples

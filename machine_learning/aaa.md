@@ -247,6 +247,15 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf Neurosymbolic Programming
+> https://news.ycombinator.com/item?id=30631907
+
+https://dl.acm.org/doi/pdf/10.1145/3401071.3401659 RadixSpline: A Single-Pass Learned Index
+> https://dl.acm.org/doi/pdf/10.1145/3401071.3401659
+
+https://arxiv.org/abs/2203.02502 No More Than 6ft Apart: Robust K-Means via Radius Upper Bounds
+> https://news.ycombinator.com/item?id=30651221
+
 https://graphsignal.com/
 > https://news.ycombinator.com/item?id=30628618
 

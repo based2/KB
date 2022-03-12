@@ -62,6 +62,8 @@ https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release
 https://developer.apple.com/support/unlisted-app-distribution/
 
 # M1
+https://cfarm.tetaneutral.net/news/38# New M1 machine running Linux natively: gcc103
+
 https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/
 > https://news.ycombinator.com/item?id=30604470
 

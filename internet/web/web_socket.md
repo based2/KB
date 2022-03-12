@@ -36,3 +36,5 @@ https://ably.com/blog/introducing-the-websocket-handbook
 
 https://www.jakobmaier.at/projects/lamp/
 > https://news.ycombinator.com/item?id=30451943
+
+https://betterprogramming.pub/managing-and-analyzing-websockets-c0a051a3dec1

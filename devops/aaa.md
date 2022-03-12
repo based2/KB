@@ -104,6 +104,11 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://about.gitlab.com/blog/2022/03/11/gitlab-actions-to-date-regarding-russian-invasion-of-ukraine/
+
+https://github.com/github/feedback/discussions/12341 Pull Request File Tree Feedback
+> https://news.ycombinator.com/item?id=30647047
+
 https://fossa.com/blog/three-pillars-reproducible-builds/
 > https://news.ycombinator.com/item?id=30604954
 

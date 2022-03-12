@@ -60,6 +60,8 @@ https://www.praetorian.com/blog/email-security/
 
 https://www.rnpgp.org/
 
+https://anarc.at/blog/2022-03-02-procmail-considered-harmful/
+
 ## STARTTLS
 https://sendgrid.com/blog/what-is-starttls/
 
