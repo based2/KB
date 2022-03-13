@@ -43,6 +43,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://github.com/CoolerVoid/HiddenWall
+> https://news.ycombinator.com/item?id=30657456
+
 https://blog.ipfs.io/2022-01-20-libp2p-hole-punching/
 > https://news.ycombinator.com/item?id=30610140
 

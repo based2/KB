@@ -120,6 +120,8 @@ https://yasoob.me/posts/understanding-and-generating-upc-a-barcode-using-python/
 
 https://news.ycombinator.com/item?id=27675305
 
+https://automatetheboringstuff.com/
+
 # Async
 https://snarky.ca/unravelling-async-for-loops/
 > https://news.ycombinator.com/item?id=28509391
@@ -203,7 +205,10 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://dev.to/flomesh/using-pipy-as-software-load-balancer-3a5p
+
 https://python-patterns.guide/
+> https://news.ycombinator.com/item?id=30649470
 
 https://github.com/ZeroIntensity/pointers.py
 > https://www.reddit.com/r/programming/comments/tb235g/github_zerointensitypointerspy_bringing_the_hell/

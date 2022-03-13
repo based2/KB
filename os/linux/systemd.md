@@ -32,3 +32,6 @@ https://systemd-by-example.com/
 > https://news.ycombinator.com/item?id=30071240
 
 https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/
+
+https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
+> 

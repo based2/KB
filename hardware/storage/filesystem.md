@@ -25,6 +25,11 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://github.com/mxmlnkn/ratarmount
+> https://news.ycombinator.com/item?id=30631387
+
+https://github.com/openzfs/zfs/releases/tag/zfs-2.1.3
+
 https://github.com/winfsp/hubfs
 > https://news.ycombinator.com/item?id=30653916
 

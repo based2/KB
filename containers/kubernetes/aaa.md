@@ -62,6 +62,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022
+> https://news.ycombinator.com/item?id=30660534
+
 https://kubefwd.com/
 
 https://github.com/devtron-labs/devtron

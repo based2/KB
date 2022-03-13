@@ -105,6 +105,8 @@ https://blog.abhi.se/on-impact-effort-prioritization
 
 https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/
 
+https://www.paepper.com/blog/posts/monte-carlo-for-better-time-estimates-of-your-work/
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -184,6 +186,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://alexturek.com/2022-03-07-How-to-do-less/
+> https://news.ycombinator.com/item?id=30642596
+
 https://dont.build/
 > https://news.ycombinator.com/item?id=30576746
 

@@ -21,6 +21,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://staceyoniot.com/get-ready-for-the-end-of-general-purpose-wireless-networks/
+
 https://www.qsl.net/9a4qv/WiFi_Ri.htm
 > https://news.ycombinator.com/item?id=30541576
 

@@ -40,6 +40,14 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://news.ycombinator.com/item?id=30658936 Ask HN: Alternatives to 1Password
+
+https://cyberlit.co/blog/securely-yours-love-password-managers
+> https://news.ycombinator.com/item?id=30635676
+
+https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/
+> https://news.ycombinator.com/item?id=30623986
+
 https://www.troyhunt.com/setting-the-bar-for-government-access-to-have-i-been-pwned/
 
 https://news.ycombinator.com/item?id=30374896 Ask HN: Why should I trust password managers?

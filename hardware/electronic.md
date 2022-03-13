@@ -22,6 +22,10 @@ https://www.revk.uk/2022/01/kicad-6.html
 https://gusbertianalog.com/power-meter-rf-probe/
 > https://news.ycombinator.com/item?id=30189664
 
+https://fideo.info/wiki.lua/blog/sed-circuit-simulator
+
+https://www.linusakesson.net/programming/pipelogic/index.php
+
 # Microcontroller
 https://github.com/TUDSSL/BFree
 > https://news.ycombinator.com/item?id=29358044

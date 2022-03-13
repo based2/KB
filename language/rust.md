@@ -341,6 +341,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.warp.dev/rules-are-made-to-be-broken/
+
+https://old.reddit.com/r/rust/comments/tcxrs3/announcing_savage_a_computer_algebra_system/
+
+https://dioxuslabs.com/ ui
+
 https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux
 > https://news.ycombinator.com/item?id=30627667
 

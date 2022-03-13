@@ -121,6 +121,8 @@ https://ethz.ch/content/dam/ethz/special-interest/infk/ast-dam/documents/Theodor
 https://specbranch.com/posts/faster-div8/
 > https://www.reddit.com/r/programming/comments/ta76qx/dividing_faster_than_the_div_instruction/
 
+https://johnysswlab.com/vectorization-dependencies-and-outer-loop-vectorization-if-you-cant-beat-them-join-them/
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

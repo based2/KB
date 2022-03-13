@@ -24,10 +24,15 @@ https://www.uni-bonn.de/en/news/028-2022
 
 https://www.nature.com/articles/s42256-021-00430-y
 
+https://picower.mit.edu/news/neurons-are-fickle-electric-fields-are-more-reliable-information
+> https://news.ycombinator.com/item?id=30662626
+
 # Worm
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.sciencedaily.com/releases/2022/03/220307113145.htm Researchers uncover how the human brain separates, stores, and retrieves memories
+
 https://www.quantamagazine.org/scientists-watch-a-memory-form-in-a-living-brain-20220303/
 > https://news.ycombinator.com/item?id=30572633
 

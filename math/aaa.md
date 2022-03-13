@@ -87,6 +87,11 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+http://www.eukleides.org/feuerbach.html
+
+https://www.manim.community/
+> https://news.ycombinator.com/item?id=30658390
+
 https://github.com/sharkdp/insect high precision scientific calculator with full support for physical units.
 
 http://lambdaway.free.fr/lambdawalks/?view=oops6

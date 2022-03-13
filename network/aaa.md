@@ -88,6 +88,8 @@ https://github.com/MatteoGuadrini/vmam
 
 https://www.wasabiroll.com/2019/09/vxlan-fundamentals-of-virtual.html
 
+https://medium.com/@jamesmawm/5-benefits-of-vlans-and-why-use-them-c5563510c11c
+
 # Mesh
 https://irde.st/
 > https://news.ycombinator.com/item?id=26925584

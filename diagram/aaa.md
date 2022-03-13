@@ -121,6 +121,8 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://en.wikipedia.org/wiki/DRAKON
+
 https://krutiepatel.com/blog/how-to-create-technical-conceptual-diagrams
 
 https://ryven.org/ python flow

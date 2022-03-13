@@ -73,6 +73,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.techspot.com/news/93745-chinese-researchers-create-world-smallest-transistor-gate.html
+
 https://www.theregister.com/2022/03/10/neuromorphic_chips_sandia/
 
 https://www.youtube.com/watch?v=b3F9OtH2Xx4 Pockit: A tiny, powerful, modular computer (2022 demo)

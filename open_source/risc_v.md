@@ -54,6 +54,8 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://linuxgizmos.com/renesas-unveils-linux-driven-risc-v-soc-based-on-an-andes-ax45mp-core/
+
 https://lists.riscv.org/g/tech-smpu Tech: S-Mode Memory Protection Unit (SMPU) Task Group
 
 https://www.eetimes.com/a-big-week-for-risc-v/

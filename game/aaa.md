@@ -15,6 +15,11 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://en.wikipedia.org/wiki/DEFCON_(video_game)
+
+https://arielroffe.quest/
+> https://news.ycombinator.com/item?id=30656961
+
 https://www.graememcc.co.uk/micropolisJS/
 > https://news.ycombinator.com/item?id=30585166
 

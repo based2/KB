@@ -250,6 +250,12 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://drewdevault.com/2022/03/13/Why-am-I-working-in-private.html
+> https://news.ycombinator.com/item?id=30662430
+> > https://harelang.org/
+
+https://www.oilshell.org/blog/2022/03/backlog-arch.html
+
 https://pvk.ca/Blog/2021/12/19/bounded-dynamicism-with-cross-modifying-code/
 
 https://github.com/ziglang/zig/blob/master/lib/std/multi_array_list.zig

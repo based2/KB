@@ -71,6 +71,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi
+> https://news.ycombinator.com/item?id=30660528
+
 https://github.com/alcover/buffet
 > https://news.ycombinator.com/item?id=30595183
 

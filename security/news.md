@@ -1,3 +1,21 @@
+https://news.ycombinator.com/item?id=30661852
+
+https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316
+
+https://c99.sh/hunting-for-suspicious-dns-communications/
+
+https://www.cryptomuseum.com/crypto/ru/m427/
+> https://news.ycombinator.com/item?id=30638483
+
+https://www.veeam.com/kb4288 backups RCE, TCP 9380 CVE-2022-26500 | CVE-2022-26501
+> https://www.reddit.com/r/netsec/comments/tcschf/kb4288_cve202226500_cve202226501/
+
+https://abbbi.github.io/fscom/
+> https://news.ycombinator.com/item?id=30631798
+
+https://github.com/jkctech/Telegram-Trilateration
+> https://news.ycombinator.com/item?id=30646124
+
 https://brianstadnicki.github.io/posts/vulnerability-asyncrat-rce/
 
 https://www.microsoft.com/security/blog/2022/02/17/4-best-practices-to-implement-a-comprehensive-zero-trust-security-approach/
@@ -82,6 +100,8 @@ https://www.theverge.com/2022/3/7/22965220/samsung-hack-lapsus-galaxy-source-cod
 https://dirtypipe.cm4all.com/ CVE-2022-0847
 > https://news.ycombinator.com/item?id=30586740
 > https://www.reddit.com/r/netsec/comments/t8qqhd/the_dirty_pipe_vulnerability_cve20220847/
+> https://github.com/rapid7/metasploit-framework/pull/16303
+> https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-014.pdf
 
 https://0ut3r.space/2022/03/06/windows-defender/
 > https://news.ycombinator.com/item?id=30580444

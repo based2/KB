@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://github.com/datawaves-xyz/blockchain-spark
+
 https://eth2.incessant.ink/book/00__introduction/00__foreword.html#contributing
 
 https://maxbit.cc/mit-chose-ethereums-pos-as-top-technological-breakthrough/

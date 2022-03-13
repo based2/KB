@@ -84,6 +84,8 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://universalglue.dev/posts/integrating-gorm-gin/
+
 https://bitfieldconsulting.com/golang/scripting
 > https://news.ycombinator.com/item?id=30641883
 

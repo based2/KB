@@ -247,6 +247,17 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://horace.io/pytorch-vs-tensorflow/
+> https://news.ycombinator.com/item?id=30662056
+
+https://blog.mlcontests.com/p/winning-at-competitive-ml-in-2022?s=r
+
+https://www.techradar.com/news/microsoft-openai-may-have-solved-a-fundamental-ai-bottleneck
+
+https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)
+
+https://news.ycombinator.com/item?id=30658324 Ask HN: What ML platform are you using?
+
 https://www.cs.utexas.edu/~swarat/pubs/PGL-049-Plain.pdf Neurosymbolic Programming
 > https://news.ycombinator.com/item?id=30631907
 

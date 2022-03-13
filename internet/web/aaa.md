@@ -73,6 +73,8 @@ https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-
 > https://news.ycombinator.com/item?id=30013100
 
 # News
+https://github.com/frncsdrk/avatar
+
 https://susam.net/maze/web-golden.html
 
 https://infrequently.org/2022/03/a-unified-theory-of-web-performance/

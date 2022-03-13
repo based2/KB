@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://rubenerd.com/my-essential-firefox-fixes-in-2022/
+> https://news.ycombinator.com/item?id=30663266
+
 https://smaller.fish/posts/language Why does Google get internationalization wrong?
 > https://news.ycombinator.com/item?id=30638590
 
@@ -50,7 +53,6 @@ https://wiki.archlinux.org/title/Firefox/Tweaks
 
 https://news.ycombinator.com/item?id=30573723
 > https://github.com/tholian-network/retrokit
-> 
 
 https://hacks.mozilla.org/2022/03/interop-2022/
 

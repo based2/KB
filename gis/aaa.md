@@ -189,6 +189,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://github.com/google/s2geometry
+> https://news.ycombinator.com/item?id=30661478
+
+https://github.com/minorua/Qgis2threejs
+
 https://github.com/aazuspan/ee_repository_stats
 
 https://hackaday.com/2022/03/02/you-can-find-military-radars-on-publicly-available-satellite-data/
