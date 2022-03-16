@@ -121,6 +121,10 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+http://www.thinkcomposer.com/
+> https://github.com/nmarcel/ThinkComposer
+> https://news.ycombinator.com/item?id=30669754
+
 https://en.wikipedia.org/wiki/DRAKON
 
 https://krutiepatel.com/blog/how-to-create-technical-conceptual-diagrams

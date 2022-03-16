@@ -33,6 +33,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://news.ycombinator.com/item?id=30688691 Show HN: I made Devzat – It's like Discord but in the terminal, over SSH
+
 https://www.reuters.com/technology/meta-bar-russian-state-media-running-ads-monetizing-platform-2022-02-26/
 > https://news.ycombinator.com/item?id=30476997
 

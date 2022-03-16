@@ -71,6 +71,7 @@ https://www.collabora.com/news-and-blog/blog/2022/03/08/pipewire-a-year-in-revie
 > https://news.ycombinator.com/item?id=30611794
 
 https://natrongithub.github.io/ GFX
+> https://news.ycombinator.com/item?id=30671847
 
 # Movie
 https://www.playphrase.me/#/search
@@ -93,6 +94,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://ahmadawais.com/ffmpeg-command-line-audio-video-workflows/
+
 https://jonwillia.ms/2022/03/09/isolating-problematic-cgo-code
 
 https://ffglitch.org/

@@ -82,6 +82,8 @@ https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/
 https://www.ashbyhq.com/blog/company/tiptap-part-1
 > https://news.ycombinator.com/item?id=30299800
 
+https://news.ycombinator.com/item?id=30673759
+
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model
 https://domevents.dev/

@@ -83,3 +83,7 @@ https://openwms.github.io/org.openwms/
 https://www.quickprogrammingtips.com/spring-boot/history-of-spring-framework-and-spring-boot.html
 
 https://vladmihalcea.com/custom-spring-data-repository/
+
+https://hilla.dev/
+
+https://spring.io/blog/2022/01/05/spring-framework-cve-2021-22060-has-been-published

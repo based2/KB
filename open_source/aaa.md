@@ -191,6 +191,14 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://opensourcedesign.net/
+> https://news.ycombinator.com/item?id=30696610
+
+https://joeldenning.com/?p=29 My boundaries as an open source developer
+> https://news.ycombinator.com/item?id=30701251
+
+https://fwsgonzo.medium.com/multiprocessing-in-a-risc-v-emulator-ce910122f4f1
+
 https://jeffcovey.net/2014/06/19/freshmeat-net-1997-2014/
 >
 

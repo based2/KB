@@ -65,3 +65,5 @@ https://opg.optica.org/optica/fulltext.cfm?uri=optica-9-1-1&id=466274 Recent adv
 https://news.utdallas.edu/science-technology/see-through-microchip-tech-2022/
 
 https://www.pencilofrays.com/lens-design-forms/
+
+https://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully

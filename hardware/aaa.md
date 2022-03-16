@@ -73,6 +73,18 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.tomshardware.com/news/intel-enables-ecc-on-12th-gen-core-cpus
+>
+
+https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=19331
+> https://news.ycombinator.com/item?id=30699555
+
+https://microsoft.github.io/jacdac-docs/
+> https://news.ycombinator.com/item?id=30683514
+
+https://artemis.sh/2022/03/14/propolis-oxide-at-home-pt1.html
+> https://news.ycombinator.com/item?id=30671447
+
 https://www.techspot.com/news/93745-chinese-researchers-create-world-smallest-transistor-gate.html
 
 https://www.theregister.com/2022/03/10/neuromorphic_chips_sandia/

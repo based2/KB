@@ -54,6 +54,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://lunduke.substack.com/p/the-first-risc-v-portable-computer?s=r
+> https://news.ycombinator.com/item?id=30689030
+
 https://linuxgizmos.com/renesas-unveils-linux-driven-risc-v-soc-based-on-an-andes-ax45mp-core/
 
 https://lists.riscv.org/g/tech-smpu Tech: S-Mode Memory Protection Unit (SMPU) Task Group
@@ -109,3 +112,6 @@ https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/#
 
 https://github.com/riscv-collab/v8
 > https://news.ycombinator.com/item?id=25663403
+
+https://www.realworldtech.com/forum/?threadid=205288&curpostid=205288 RISC-V asm instruction name madness
+> https://news.ycombinator.com/item?id=30653610

@@ -1,3 +1,35 @@
+https://www.openssl.org/news/secadv/20220315.txt
+
+https://lists.apache.org/list?announce@apache.org:2022-3 CVE-2022-26779: Apache Cloudstack insecure random number generation affects project email invitation
+
+https://www.curtisswrightds.com/news/blog/nsa-type-1-encryption.html
+> https://en.wikipedia.org/wiki/NSA_product_types
+
+https://github.com/vuejs/vue-cli/issues/7054
+> https://news.ycombinator.com/item?id=30702175
+> https://github.com/RIAEvangelist/node-ipc/issues/233
+
+https://mrd0x.com/browser-in-the-browser-phishing-attack/
+> https://news.ycombinator.com/item?id=30697329
+
+https://lists.apache.org/list?announce@apache.org:2022-3 CVE-2022-22720: HTTP request smuggling vulnerability in Apache HTTP Server 2.4.52 and earlier
+
+https://support.apple.com/en-us/HT201222
+
+https://github.com/charmbracelet/melt
+
+https://thehackernews.com/2022/03/new-linux-bug-in-netfilter-firewall.html?m=1
+
+https://portswigger.net/daily-swig/sql-injection-vulnerability-in-e-learning-platform-moodle-could-enable-database-takeover
+> https://www.reddit.com/r/programming/comments/tdbmmj/sql_injection_vulnerability_in_elearning_platform/
+
+https://fermatattack.secvuln.info/
+> https://news.ycombinator.com/item?id=30672999
+> https://arstechnica.com/information-technology/2022/03/researcher-uses-600-year-old-algorithm-to-crack-crypto-keys-found-in-the-wild/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/
+> https://news.ycombinator.com/item?id=30675908
+
 https://news.ycombinator.com/item?id=30661852
 
 https://testbnull.medium.com/oracle-access-manager-pre-auth-rce-cve-2021-35587-analysis-1302a4542316
@@ -102,6 +134,7 @@ https://dirtypipe.cm4all.com/ CVE-2022-0847
 > https://www.reddit.com/r/netsec/comments/t8qqhd/the_dirty_pipe_vulnerability_cve20220847/
 > https://github.com/rapid7/metasploit-framework/pull/16303
 > https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-014.pdf
+> https://arstechnica.com/information-technology/2022/03/researcher-uses-dirty-pipe-exploit-to-fully-root-a-pixel-6-pro-and-samsung-s22/
 
 https://0ut3r.space/2022/03/06/windows-defender/
 > https://news.ycombinator.com/item?id=30580444

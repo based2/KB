@@ -155,6 +155,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://www.johndcook.com/blog/2022/03/14/phone-tones-in-musical-notation/
+> https://news.ycombinator.com/item?id=30676957
+
 https://lilypond.org/text-input.en.html
 > https://news.ycombinator.com/item?id=30625450
 

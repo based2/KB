@@ -30,6 +30,12 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://bugzilla.mozilla.org/show_bug.cgi?id=1759009
+> https://news.ycombinator.com/item?id=30672939
+
+https://webkit.org/blog/12445/new-webkit-features-in-safari-15-4/
+> https://news.ycombinator.com/item?id=30676825
+
 https://rubenerd.com/my-essential-firefox-fixes-in-2022/
 > https://news.ycombinator.com/item?id=30663266
 

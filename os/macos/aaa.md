@@ -62,6 +62,11 @@ https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release
 https://developer.apple.com/support/unlisted-app-distribution/
 
 # M1
+https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon
+
+https://mondaynote.com/apple-m1-ultra-meanings-and-consequences-fc32616f4a66
+> https://news.ycombinator.com/item?id=30672500
+
 https://cfarm.tetaneutral.net/news/38# New M1 machine running Linux natively: gcc103
 
 https://www.apple.com/newsroom/2022/03/apple-unveils-m1-ultra-the-worlds-most-powerful-chip-for-a-personal-computer/

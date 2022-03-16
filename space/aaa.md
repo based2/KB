@@ -109,6 +109,9 @@ https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/
 
 https://www.wired.com/story/a-bizarre-form-of-water-may-exist-all-over-the-universe/
 
+https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/
+> https://news.ycombinator.com/item?id=30678731
+
 ###
 https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/
 
@@ -136,6 +139,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.sparkfun.com/news/4278 Understanding GNSS Orbits
+
+https://www.aanda.org/articles/aa/full_html/2022/03/aa42484-21/aa42484-21.html The LOFAR Two-metre Sky Survey
+> https://news.ycombinator.com/item?id=30684036
+
 https://www.einsteintelescope.nl/en/
 
 https://www.centauri-dreams.org/2022/03/03/engineering-the-oberth-maneuver/

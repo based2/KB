@@ -67,6 +67,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.microsoft.com/innovation-stories/azure-quantum-majorana-topological-qubit/
+> https://news.ycombinator.com/item?id=30697374
+
 https://physics.stackexchange.com/questions/697682/a-wave-function-does-not-collapse-upon-detection
 > https://news.ycombinator.com/item?id=30567066
 

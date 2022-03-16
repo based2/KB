@@ -56,6 +56,8 @@ https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_
 https://www.youtube.com/watch?v=88E86quLmQA&t=1750s ZGC: The Next Generation Low-Latency Garbage Collector
 
 # News
+https://tschatzl.github.io/2022/03/14/jdk18-g1-parallel-gc-changes.html
+
 https://www.azul.com/blog/understanding-java-compilation-from-bytecodes-to-machine-code/
 
 https://openjdk.java.net/jeps/8279184 JEP draft: Instruction Issue Cache Hardware Accommodation

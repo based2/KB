@@ -38,6 +38,8 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://undeadly.org/cgi?action=article;sid=20220315070043
+
 https://webzine.puffy.cafe/issue-7.html
 
 https://webzine.puffy.cafe/issue-6.html
@@ -80,6 +82,9 @@ https://www.moritz.systems/blog/lldb-serial-port-communication-support/
 
 https://www.moritz.systems/blog/lldb-freebsd-kernel-core-dump-support/
 
+https://www.cambus.net/freebsd-on-the-vortex86dx-cpu/
+> https://news.ycombinator.com/item?id=30683266
+
 https://www.freebsd.org/releases/12.3R/announce/
 > https://news.ycombinator.com/item?id=29489788
 
@@ -87,6 +92,8 @@ https://docs.freebsd.org/en/books/handbook/introduction/
 > https://news.ycombinator.com/item?id=29566806
 
 https://blog.tyk.nu/blog/freebsd-jails-and-sysv-ipc/
+
+https://klarasystems.com/articles/controlling-resource-limits-with-rctl-in-freebsd/
 
 https://it-notes.dragas.net/2022/01/24/why-were-migrating-many-of-our-servers-from-linux-to-freebsd/
 > https://news.ycombinator.com/item?id=30057549

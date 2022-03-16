@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.entsoe.eu/news/2022/03/16/continental-europe-successful-synchronisation-with-ukraine-and-moldova-power-systems/
+> https://news.ycombinator.com/item?id=30698632
+
 https://bigthink.com/the-present/laser-nuclear-waste/
 > https://news.ycombinator.com/item?id=30652334
 

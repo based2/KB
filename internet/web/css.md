@@ -184,6 +184,12 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://css-tricks.com/css-tricks-is-joining-digitalocean/
+> https://news.ycombinator.com/item?id=30684594
+
+https://meyerweb.com/eric/thoughts/2022/03/14/if-or-when/
+> https://news.ycombinator.com/item?id=30674324
+
 https://blog.jim-nielsen.com/2022/inspecting-web-views-in-macos/
 > https://news.ycombinator.com/item?id=30648424
 

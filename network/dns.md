@@ -81,6 +81,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://bunny.net/blog/transforming-internet-routing-introducing-bunny-dns/
+> https://news.ycombinator.com/item?id=30697672
+
 https://dnsflagday.net/2020/
 
 https://news.ycombinator.com/item?id=30642577 Ask HN: Neutral DNS servers?

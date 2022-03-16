@@ -247,6 +247,23 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://horace.io/brrr_intro.html
+> https://twitter.com/ID_AA_Carmack/status/1503844580474687493
+> > https://news.ycombinator.com/item?id=30697061
+
+https://max.io/blog/encoding-the-federal-register.html?r=1
+> https://news.ycombinator.com/item?id=30700973
+
+https://www.nature.com/articles/s42256-022-00465-9 Dual use of artificial-intelligence-powered drug discovery
+> https://news.ycombinator.com/item?id=30698097
+
+https://karpathy.github.io/2022/03/14/lecun1989/
+
+https://pytorch.org/blog/introducing-torchrec/
+
+https://medium.com/asap-report/how-to-record-data-for-reinforcement-learning-agent-from-any-game-on-linux-5660733a5ee8
+> https://news.ycombinator.com/item?id=30635324
+
 https://horace.io/pytorch-vs-tensorflow/
 > https://news.ycombinator.com/item?id=30662056
 

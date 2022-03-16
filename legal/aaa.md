@@ -40,6 +40,9 @@ https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-a
 > https://news.ycombinator.com/item?id=29366621
 
 # News
+https://ipkitten.blogspot.com/2022/02/us-copyright-office-refuses-to-register.html
+> https://news.ycombinator.com/item?id=30702117
+
 https://openlaws.com/
 
 https://ec.europa.eu/commission/presscorner/detail/en/ip_22_1103 EU challenges China at the WTO to defend its high-tech sector

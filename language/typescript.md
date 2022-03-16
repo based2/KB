@@ -69,6 +69,14 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/
+
+https://www.zhenghao.io/posts/type-functions
+> https://news.ycombinator.com/item?id=30693915
+
+https://github.com/qrdate/tinywasi
+> https://news.ycombinator.com/item?id=30693936
+
 https://devblogs.microsoft.com/typescript/announcing-typescript-4-6-beta/
 
 https://github.com/skittleson/ESP-TypeScript

@@ -359,6 +359,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://solito.dev/
+> https://news.ycombinator.com/item?id=30678100
+
 https://kittygiraudel.com/2022/01/21/exploiting-javascript-quirks-for-fun-and-profit/
 
 https://javarome.medium.com/design-noframework-bbc00a02d9b3

@@ -189,6 +189,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://github.com/minad/osm emacs
+> https://news.ycombinator.com/item?id=30682841
+
 https://github.com/google/s2geometry
 > https://news.ycombinator.com/item?id=30661478
 

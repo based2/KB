@@ -120,6 +120,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://www.imperialviolet.org/2014/02/22/applebug.html
+
 https://blog.bithole.dev/tls.html
 > https://www.reddit.com/r/programming/comments/t2it94/a_tls_13_session_explained_bytebybyte/
 

@@ -62,6 +62,9 @@ https://github.com/johnsonjh/OpenVi
 https://www.guckes.net/vim/setup.html
 > https://news.ycombinator.com/item?id=30461996
 
+https://learnbyexample.github.io/vim_reference/Introduction.html
+> https://news.ycombinator.com/item?id=30684232
+
 # Nano
 
 
@@ -146,6 +149,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://www.eclipse.org/eclipseide/2022-03/
+
 https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/
 > https://www.reddit.com/r/programming/comments/tbqy0y/jetbrains_statement_on_ukraine/
 

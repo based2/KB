@@ -65,6 +65,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://github.com/arnelenero/simpler-color
+> https://news.ycombinator.com/item?id=30694354
+
 https://colors.lol/
 > https://news.ycombinator.com/item?id=30483892
 > > https://www.refactoringui.com/previews/building-your-color-palette

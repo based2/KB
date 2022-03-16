@@ -1,3 +1,5 @@
+https://www.pentestpartners.com/security-blog/reverse-engineering-the-tesla-firmware-update-process/
+
 https://www.shielder.it/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.1/
 
 https://www.righto.com/2022/03/reverse-engineering-waveform-generator.html

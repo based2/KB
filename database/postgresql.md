@@ -237,6 +237,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security
+> https://news.ycombinator.com/item?id=30700899
+
 https://arctype.com/blog/postgresql-hooks/
 
 https://news.ycombinator.com/item?id=30629430 A word used only by Postgres developers

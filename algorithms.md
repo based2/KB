@@ -65,6 +65,8 @@ https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/
 https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088
 
 # News
+https://graphics.stanford.edu/~seander/bithacks.html
+
 https://gvelim.github.io/CSX0003RUST/merge_in_place.html In-place: Merge Algorithm with O(n+m) swaps
 
 http://blog.notdot.net/2010/07/Damn-Cool-Algorithms-Levenshtein-Automata

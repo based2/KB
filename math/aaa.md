@@ -87,6 +87,9 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+https://bellard.org/pi/
+> https://news.ycombinator.com/item?id=30671184
+
 http://www.eukleides.org/feuerbach.html
 
 https://www.manim.community/

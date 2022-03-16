@@ -206,6 +206,8 @@ https://medium.com/@jankammerath/why-and-how-cobol-is-still-used-1c0a0cc7ce74
 https://dzone.com/articles/cobol-a-1959-idea-and-2022-technology
 > https://news.ycombinator.com/item?id=30552656
 
+https://lwn.net/ml/gcc/20220314163437.54ed696e0499d0875743a0f3@schemamania.org/ Announcement: gcobol
+
 ## LISP
 http://www.paulgraham.com/bel.html
 
@@ -250,6 +252,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://refactoring.guru/design-patterns/catalog
+> https://news.ycombinator.com/item?id=30675182
+
 https://drewdevault.com/2022/03/13/Why-am-I-working-in-private.html
 > https://news.ycombinator.com/item?id=30662430
 > > https://harelang.org/

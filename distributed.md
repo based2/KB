@@ -100,6 +100,11 @@ https://github.com/anishathalye/porcupine
 https://asatarin.github.io/testing-distributed-systems/
 
 # News
+https://blog.mi.hdm-stuttgart.de/index.php/2022/03/03/cascading-failures-in-large-scale-distributed-systems/
+
+https://kislayverma.com/software-architecture/building-robust-distributed-systems/
+> https://www.reddit.com/r/programming/comments/tchw6n/how_to_build_robust_distributed_systems/
+
 http://muratbuffalo.blogspot.com/2022/03/foundationdb-distributed-unbundled.html
 > https://news.ycombinator.com/item?id=30640932
 

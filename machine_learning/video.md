@@ -41,6 +41,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://github.com/btilmon/illumiGrad
+> https://news.ycombinator.com/item?id=30702416
+
 https://github.com/cvg/SOLD2 SOLD² - Self-supervised Occlusion-aware Line Description and Detection
 
 https://medium.com/virtuslab/computer-vision-in-production-nvidia-deepstream-7cb0b51af444

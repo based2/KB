@@ -14,3 +14,6 @@ https://catnormoyle.com/2011/02/02/a-look-at-barbara-kruger-and-jenny-holzers-us
 
 https://www.typography.com/blog/monotype-acquires-hoeflerco
 > https://news.ycombinator.com/item?id=28560639
+
+https://medium.engineering/typography-is-impossible-5872b0c7f891
+> https://news.ycombinator.com/item?id=30702208

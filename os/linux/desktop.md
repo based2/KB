@@ -41,6 +41,10 @@ https://usebottles.com/blog/release-2022.1.28/
 https://github.com/casualsnek/cassowary run a Windows virtual machine and use Windows applications on Linux as if they were native applications, built upon FreeRDP and remote apps technology
 > https://news.ycombinator.com/item?id=30214762
 
+## RDP
+https://smackeyacky.blogspot.com/2022/03/rdp-clients-for-debian-incomplete-review.html
+> https://news.ycombinator.com/item?id=30693370
+
 # News
 https://taoofmac.com/space/til/2022/03/13/1730 nextspace
 

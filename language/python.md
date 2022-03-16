@@ -205,6 +205,14 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://microbit.org/news/2022-02-24/introducing-strype-a-framebased-editor/
+> https://news.ycombinator.com/item?id=30687040
+
+https://snarky.ca/unravelling-pythons-classes/
+
+https://peps.python.org/pep-0594/ Removing dead batteries from the standard library
+> https://news.ycombinator.com/item?id=30673597
+
 https://dev.to/flomesh/using-pipy-as-software-load-balancer-3a5p
 
 https://python-patterns.guide/

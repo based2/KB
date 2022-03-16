@@ -36,6 +36,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry
+
 https://blog.lizzie.io/linux-containers-in-500-loc.html
 > https://news.ycombinator.com/item?id=30623372
 

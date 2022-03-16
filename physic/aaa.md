@@ -59,6 +59,9 @@ https://www.uni-bonn.de/en/news/020-2022
 https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220126/
 > https://news.ycombinator.com/item?id=30209131
 
+https://arstechnica.com/science/2022/03/absolutely-bonkers-experiment-measures-antiproton-orbiting-helium-ion/
+> https://news.ycombinator.com/item?id=30700633
+
 # News
 https://phys.org/news/2022-03-physicists-chemical-reactions-magnetic-fields.html
 

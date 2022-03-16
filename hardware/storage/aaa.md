@@ -1,4 +1,7 @@
 # News
+https://blog.quindorian.org/2021/05/firmware-update-samsung-ssd-in-linux.html/
+> https://news.ycombinator.com/item?id=30696491
+
 https://current.workingdirectory.net/posts/2022/lvm-cache/
 
 https://www.backblaze.com/blog/ssd-edition-2021-drive-stats-review/

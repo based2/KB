@@ -230,6 +230,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://selectfrom.dev/a-practical-guide-to-pandas-data-etl-with-code-examples-bb2c27bdb572
+
+https://www.pinecone.io/learn/k-means-clustering/
+> https://news.ycombinator.com/item?id=30673364
+
 https://github.com/apache/incubator-wayang cross-platform data processing system
 
 https://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb
