@@ -191,6 +191,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://mitchellh.com/writing/contributing-to-complex-projects
+> https://news.ycombinator.com/item?id=30683500
+
+https://socialimpact.github.com/insights/world-health-organization-OSPO-launch/
+> https://news.ycombinator.com/item?id=30711875
+
 https://opensourcedesign.net/
 > https://news.ycombinator.com/item?id=30696610
 

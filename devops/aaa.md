@@ -104,6 +104,11 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.com/eBay/goose Service to simplify adding GitOps functionality to systems
+
+https://www.githubstatus.com/incidents/sksd097hm0y5 Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues, GitHub Packages, GitHub Pages, Pull Requests, and Webhooks
+> https://news.ycombinator.com/item?id=30711269
+
 https://about.gitlab.com/blog/2022/03/11/gitlab-actions-to-date-regarding-russian-invasion-of-ukraine/
 
 https://github.com/github/feedback/discussions/12341 Pull Request File Tree Feedback

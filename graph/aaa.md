@@ -61,6 +61,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://github.com/nadavrot/layout Graphviz in rust
+> https://news.ycombinator.com/item?id=30715168
+
 https://www.arangodb.com/2020/05/best-practices-for-aql-graph-queries/
 
 https://www.litmaps.co/

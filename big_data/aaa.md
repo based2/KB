@@ -230,6 +230,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.robdearborn.com/2022/03/13/organizing-and-scaling-an-effective-data-team/
+> https://news.ycombinator.com/item?id=30689987
+
 https://selectfrom.dev/a-practical-guide-to-pandas-data-etl-with-code-examples-bb2c27bdb572
 
 https://www.pinecone.io/learn/k-means-clustering/

@@ -208,6 +208,9 @@ https://dzone.com/articles/cobol-a-1959-idea-and-2022-technology
 
 https://lwn.net/ml/gcc/20220314163437.54ed696e0499d0875743a0f3@schemamania.org/ Announcement: gcobol
 
+https://www.theregister.com/2022/03/16/new_cobol_contender/
+> https://www.cobol-it.com/
+
 ## LISP
 http://www.paulgraham.com/bel.html
 
@@ -688,7 +691,8 @@ https://news.ycombinator.com/item?id=28359625 Optional Value Handling in Nim
 https://mlochbaum.github.io/BQN/implementation/kclaims.html
 > https://news.ycombinator.com/item?id=28365645
 
-https://kaitai.io/ Parsers for binary structures.
+https://kaitai.io/ Parsers for binary structures
+> https://news.ycombinator.com/item?id=30715406
 
 https://nelua.io/ lua
 > https://news.ycombinator.com/item?id=28293836

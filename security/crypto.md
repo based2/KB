@@ -108,6 +108,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://cendyne.dev/posts/2022-03-06-ed25519-signatures.html
+> https://www.reddit.com/r/crypto/comments/t92eb5/a_deep_dive_into_ed25519_signatures/
+
 https://eric.mann.blog/cooking-with-credentials-pepper/
 
 https://eprint.iacr.org/2022/214 Breaking Rainbow signature scheme Takes a Weekend on a Laptop

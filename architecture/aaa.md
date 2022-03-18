@@ -123,6 +123,8 @@ https://specbranch.com/posts/faster-div8/
 
 https://johnysswlab.com/vectorization-dependencies-and-outer-loop-vectorization-if-you-cant-beat-them-join-them/
 
+https://www.brendangregg.com/perf.html
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

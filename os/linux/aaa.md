@@ -82,6 +82,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://lwn.net/Articles/605607/ The glibc s390 ABI break (2014)
+> https://news.ycombinator.com/item?id=30712172
+
 https://wesmckinney.com/blog/linux-laptop-experience/
 > https://news.ycombinator.com/item?id=30643414
 

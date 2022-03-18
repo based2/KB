@@ -30,3 +30,5 @@ https://signal.org/blog/the-ecosystem-is-moving/
 > https://news.ycombinator.com/item?id=30314454
 
 http://lea.hamradio.si/~s53mv/nbp/nbp.html ax.25
+
+https://news.ycombinator.com/item?id=30699227 SNMP Is Dead (2018) [video]

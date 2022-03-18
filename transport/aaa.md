@@ -32,3 +32,6 @@ https://www.kerrickstaley.com/2022/02/25/transit-panel
 > https://news.ycombinator.com/item?id=30475410
 
 https://sim.bemined.nl/
+
+https://electricbrands.de/en/myxbus/
+> https://news.ycombinator.com/item?id=30708669

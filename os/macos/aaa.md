@@ -62,6 +62,8 @@ https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release
 https://developer.apple.com/support/unlisted-app-distribution/
 
 # M1
+https://eclecticlight.co/2022/03/17/macos-has-different-strategies-for-m1-cores/
+
 https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon
 
 https://mondaynote.com/apple-m1-ultra-meanings-and-consequences-fc32616f4a66
@@ -171,6 +173,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
 # News
+https://eclecticlight.co/2022/03/16/how-good-is-montereys-visual-look-up/
+> https://news.ycombinator.com/item?id=30696584
+
 https://daringfireball.net/2022/02/on_the_origin_of_the_iphone
 
 https://alinpanaitiu.com/blog/over-500nits-failed/

@@ -94,6 +94,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS Dav1d, fast AV1 decoder, version 1.0
+> https://news.ycombinator.com/item?id=30722853
+
+https://sidbala.com/h-264-is-magic/
+> https://news.ycombinator.com/item?id=30710574
+
 https://ahmadawais.com/ffmpeg-command-line-audio-video-workflows/
 
 https://jonwillia.ms/2022/03/09/isolating-problematic-cgo-code

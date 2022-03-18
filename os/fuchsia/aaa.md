@@ -21,5 +21,7 @@ https://github.com/dahliaOS/pangolin_desktop
 > https://news.ycombinator.com/item?id=30460120
 
 # News
+https://fuchsia.dev/fuchsia-src/concepts/fidl/overview
+> https://news.ycombinator.com/item?id=30707696
 
 https://9to5google.com/2022/03/04/full-google-chrome-browser-running-on-fuchsia/

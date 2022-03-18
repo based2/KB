@@ -12,6 +12,11 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/SubscriberLink/887974/bbed199a769ed533/ Driver regression testing with roadtest
+
+https://www.zx2c4.com/projects/linux-rng-5.17-5.18/
+> https://news.ycombinator.com/item?id=30719804
+
 https://lwn.net/Articles/887498/ x86/AMD: Userspace address tagging
 
 https://cdn.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html

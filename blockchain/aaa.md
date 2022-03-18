@@ -48,6 +48,8 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://projectserum.medium.com/project-serum-announces-500k-ecosystem-prize-for-development-of-a-cross-chain-exchange-1c2b16a791ca
+
 https://medium.com/tezedge/prevent-the-loss-of-baking-rewards-with-the-6-times-faster-and-more-stable-tezedge-context-storage-ade5714228b5
 > https://news.ycombinator.com/item?id=30452216
 

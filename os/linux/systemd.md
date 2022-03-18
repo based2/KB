@@ -34,4 +34,5 @@ https://systemd-by-example.com/
 https://seb.jambor.dev/posts/systemd-by-example-part-1-minimization/
 
 https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
-> 
+
+https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/

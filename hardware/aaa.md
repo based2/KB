@@ -73,6 +73,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://blog.robertelder.org/semiconductor-example-uses/
+> https://news.ycombinator.com/item?id=30711621
+
 https://www.tomshardware.com/news/intel-enables-ecc-on-12th-gen-core-cpus
 >
 

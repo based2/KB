@@ -62,6 +62,11 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.seekret.io/blog/ebpf-nuances-on-minikube/
+> https://news.ycombinator.com/item?id=30721299
+
+https://thenewstack.io/kserve-a-robust-and-extensible-cloud-native-model-server/
+
 https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022
 > https://news.ycombinator.com/item?id=30660534
 

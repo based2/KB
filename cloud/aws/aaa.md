@@ -69,6 +69,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://www.techradar.com/news/amazons-new-role-playing-game-can-help-you-build-your-aws-skills
+> https://news.ycombinator.com/item?id=30714288
+
 https://apptrail.com/blog/2022/03/09/regional-cloud-architecture
 
 https://www.duckdns.org/why.jsp

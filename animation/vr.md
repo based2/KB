@@ -1,3 +1,5 @@
+https://www.titech.ac.jp/english/news/2022/063438 Intensity Control of Projectors in Parallel – A Doorway to an Augmented Reality Future
+
 https://thesoloist-vr.com/
 > https://news.ycombinator.com/item?id=30550079
 

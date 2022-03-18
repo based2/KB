@@ -40,3 +40,5 @@ https://thegradient.pub/bootstrapping-labels-via-___-supervision-human-in-the-lo
 
 https://jiataogu.me/style_nerf/
 > https://news.ycombinator.com/item?id=30637403
+
+https://www.topazlabs.com/gigapixel-ai

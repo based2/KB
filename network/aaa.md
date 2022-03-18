@@ -100,6 +100,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://www.openconfig.net/ Vendor-neutral, model-driven network management designed by users
+> https://news.ycombinator.com/item?id=30710061
+
 https://netplan.io/ utility for easily configuring networking on a linux system Canonical
 
 https://lwn.net/SubscriberLink/885729/c495a793abeee387/ Better visibility into packet-dropping decisions

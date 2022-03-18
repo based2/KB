@@ -30,3 +30,5 @@ https://preshing.com/20120930/weak-vs-strong-memory-models/
 https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/
 
 https://github.com/microsoft/snmalloc
+
+https://nullprogram.com/blog/2022/03/13/

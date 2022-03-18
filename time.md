@@ -51,6 +51,8 @@ https://blog.healthchecks.io/2021/10/how-debian-cron-handles-dst-transitions/
 
 https://www.masswerk.at/tzintl/
 
+https://mm.icann.org/pipermail/tz/2022-March/031307.html
+
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 

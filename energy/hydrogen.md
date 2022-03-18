@@ -25,6 +25,9 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7878665/ Hydrogen production from water electrolysis: role of catalysts
+> https://news.ycombinator.com/item?id=30721058
+
 https://www.bmwgroup.com/en/news/general/2022/bmw-ix5-hydrogen.html
 
 https://www.hamburg-news.hamburg/en/innovation-science/hamburg-presents-hydrogen-import-strategy

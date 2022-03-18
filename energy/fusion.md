@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.whitehouse.gov/ostp/events-webinars/ White House Summit: Developing a Bold Decadal Vision for Commercial Fusion Energy
+> https://news.ycombinator.com/item?id=30721582
+
 https://www.tokamakenergy.co.uk/tokamak-energy-moves-closer-to-commercial-fusion/
 
 https://www.nature.com/articles/d41586-022-00391-1 Nuclear-fusion reactor smashes energy record

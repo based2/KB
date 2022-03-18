@@ -26,6 +26,9 @@ https://phoboslab.org/log/2021/12/qoi-specification
 https://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html
 > https://news.ycombinator.com/item?id=29821687
 
+https://bellard.org/bpg/
+> https://news.ycombinator.com/item?id=30712944
+
 # News
 https://jakearchibald.com/2020/avif-has-landed/
 

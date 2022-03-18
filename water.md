@@ -17,3 +17,7 @@ https://www.bbc.com/travel/article/20220220-valencias-la-huerta-spains-ingenious
 
 https://news.mit.edu/2022/solar-desalination-system-inexpensive-0214
 > https://news.ycombinator.com/item?id=30503013
+
+https://github.com/google/h2e_technical_documentation Google open sources solar atmospheric water generator
+> https://news.ycombinator.com/item?id=30714506
+> > https://x.company/blog/posts/sharing-project-h2e-with-the-world/

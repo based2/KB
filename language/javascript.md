@@ -325,6 +325,9 @@ https://2ality.com/2021/06/typescript-esm-nodejs.html
 https://vramework.io/blog/20211030-service-injection/
 > https://news.ycombinator.com/item?id=29047685
 
+https://www.ashbyhq.com/blog/engineering/detecting-event-loop-blockers
+> https://news.ycombinator.com/item?id=30713567
+
 ## NPM
 
 https://overreacted.io/npm-audit-broken-by-design/

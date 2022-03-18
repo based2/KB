@@ -20,6 +20,8 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://news.ycombinator.com/item?id=30709524 Show HN: PDF API – Generate, convert, and modify PDF documents
+
 https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/
 > https://news.ycombinator.com/item?id=30696819
 

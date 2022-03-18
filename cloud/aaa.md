@@ -50,6 +50,8 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://www.theregister.com/2022/03/17/ovhcloud_microsoft_complaint/
+
 https://en.wikipedia.org/wiki/Landauer%27s_principle
 
 https://blog.lohr.dev/phoenix-pvm-based-virtual-machine-monitors

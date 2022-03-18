@@ -149,6 +149,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://lapce.dev/ Rust
+> https://news.ycombinator.com/item?id=30708505
+
 https://www.eclipse.org/eclipseide/2022-03/
 
 https://blog.jetbrains.com/blog/2022/03/11/jetbrains-statement-on-ukraine/

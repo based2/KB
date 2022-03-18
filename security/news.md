@@ -1,3 +1,37 @@
+https://www.lemonde.fr/pixels/article/2022/03/18/assurance-maladie-des-donnees-personnelles-concernant-plus-de-500-000-francais-volees_6118149_4408996.html
+
+https://www.reddit.com/r/java/comments/th3lie/jdk8058778_new_apis_for_creating_certificates_and/
+> https://bugs.openjdk.java.net/browse/JDK-8058778 New APIs for creating certificates and certificate requests
+
+https://bodhi.fedoraproject.org/updates/FEDORA-2022-32c39ab8c0 minor dos
+> https://github.com/rhboot/pesign
+
+https://nvd.nist.gov/vuln/detail/CVE-2022-26488 python windows
+
+https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-a-bitlocker-exclusion-policy-for-usb-drives/
+
+https://www.bleepingcomputer.com/news/security/google-chinese-state-hackers-target-ukraine-s-government/
+
+https://beny23.github.io/posts/on_weaponisation_of_open_source/
+> https://news.ycombinator.com/item?id=30726098
+
+https://www.cybersecurity-help.cz/vdb/SB2022031507
+> https://news.ycombinator.com/item?id=30719013
+
+https://news.ycombinator.com/item?id=30724830 Ask HN: Is Public WiFi Dangerous?
+
+http://michael.orlitzky.com/articles/posix_hardlink_heartache.xhtml
+> https://news.ycombinator.com/item?id=27749743
+
+https://thehackernews.com/2022/03/new-vulnerability-in-cri-o-engine-lets.html?m=1
+> https://news.ycombinator.com/item?id=30721877
+
+https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-elevation-de-privileges-37828
+
+https://www.bleepingcomputer.com/news/security/microsoft-creates-tool-to-scan-mikrotik-routers-for-trickbot-infections/
+
+https://www.bleepingcomputer.com/news/security/microsoft-defender-tags-office-updates-as-ransomware-activity/
+
 https://www.openssl.org/news/secadv/20220315.txt
 
 https://lists.apache.org/list?announce@apache.org:2022-3 CVE-2022-26779: Apache Cloudstack insecure random number generation affects project email invitation
@@ -52,7 +86,9 @@ https://brianstadnicki.github.io/posts/vulnerability-asyncrat-rce/
 
 https://www.microsoft.com/security/blog/2022/02/17/4-best-practices-to-implement-a-comprehensive-zero-trust-security-approach/
 
-https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/
+https://nickgregory.me/linux/security/2022/03/12/cve-2022-25636/ out-of-bounds write in the Linux firewall code
+> https://github.com/Bonfee/CVE-2022-25636
+> https://nvd.nist.gov/vuln/detail/CVE-2022-25636#vulnConfigurationsArea
 
 https://github.com/CoolerVoid/casper-fs
 
@@ -126,6 +162,7 @@ https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service
 https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html
 > https://news.ycombinator.com/item?id=30589212
 > https://www.reddit.com/r/netsec/comments/tbzdkh/satcom_terminals_under_attack_in_europe_a/
+> https://www.cisa.gov/uscert/ncas/alerts/aa22-076a
 
 https://www.theverge.com/2022/3/7/22965220/samsung-hack-lapsus-galaxy-source-code-confirmed-nvidia
 
@@ -198,6 +235,7 @@ https://blog.adafruit.com/2022/03/04/a-github-repository-was-public-viewable/
 
 https://unit42.paloaltonetworks.com/cve-2022-0492-cgroups/
 > https://news.ycombinator.com/item?id=30556188
+> https://access.redhat.com/security/cve/cve-2022-0492
 
 https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf
 > https://portswigger.net/daily-swig/google-waf-bypassed-via-oversized-post-requests
@@ -212,6 +250,7 @@ https://krebsonsecurity.com/2022/03/conti-ransomware-group-diaries-part-i-evasio
 > https://www.cyberark.com/resources/threat-research-blog/conti-group-leaked
 > https://www.bleepingcomputer.com/news/security/conti-ransomware-source-code-leaked-by-ukrainian-researcher/
 > https://www.bleepingcomputer.com/news/security/cisa-updates-conti-ransomware-alert-with-nearly-100-domain-names/
+> https://www.bleepingcomputer.com/news/security/google-exposes-tactics-of-a-conti-ransomware-access-broker/
 
 https://www.akamai.com/blog/security/tcp-middlebox-reflection
 > https://news.ycombinator.com/item?id=30524318

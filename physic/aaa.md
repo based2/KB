@@ -62,7 +62,13 @@ https://www.quantamagazine.org/how-the-physics-of-resonance-shapes-reality-20220
 https://arstechnica.com/science/2022/03/absolutely-bonkers-experiment-measures-antiproton-orbiting-helium-ion/
 > https://news.ycombinator.com/item?id=30700633
 
+https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/
+> https://news.ycombinator.com/item?id=30709847
+
 # News
+https://benbrubaker.com/of-lifetimes-and-linewidths/
+> https://news.ycombinator.com/item?id=30700564
+
 https://phys.org/news/2022-03-physicists-chemical-reactions-magnetic-fields.html
 
 https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash

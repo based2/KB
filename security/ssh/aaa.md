@@ -108,6 +108,10 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://blog.cloudflare.com/ssh-command-logging/
+
+https://github.com/ndbeals/winssh-pageant
+
 https://xy2.dev/posts/ssh-productive/
 > https://news.ycombinator.com/item?id=30505583
 

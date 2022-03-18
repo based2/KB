@@ -60,6 +60,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://www.alexandria.org/
+> https://news.ycombinator.com/item?id=30724592
+
 https://blog.tylerhou.io/posts/binary-search-with-confidence/
 > https://news.ycombinator.com/item?id=30582168
 

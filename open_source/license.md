@@ -25,3 +25,9 @@ https://dpc.pw/making-open-source-economy-more-viable-with-dual-license-collecti
 
 https://www.devever.net/~hl/linuxgpl
 > https://news.ycombinator.com/item?id=30400510
+
+https://opensource.org/court-affirms-its-false-advertising-to-claim-software-is-open-source-when-its-not
+> https://news.ycombinator.com/item?id=30712215
+
+https://writing.kemitchell.com/2022/03/17/OSI-Neo4j-PureThink.html
+> https://news.ycombinator.com/item?id=30726286
