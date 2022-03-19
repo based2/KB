@@ -1,3 +1,19 @@
+https://grsecurity.net/Compilers_The_Old_New_Security_Frontier_BlueHat_IL_2022.pdf
+> https://news.ycombinator.com/item?id=30714717
+
+https://www.acsac.org/2002/papers/classic-multics.pdf Thirty Years Later: Lessons from the Multics Security Evaluation
+
+https://www.cnx-software.com/2022/03/19/gas-pumps-insecure-typical-router/
+
+https://www.kryptowire.com/news/kryptowire-identifies-vulnerability-in-unisoc-chipset/
+
+https://dougbelshaw.com/blog/2022/03/18/open-badges-fers/
+
+https://armkeil.blob.core.windows.net/developer/Files/pdf/Cache_Speculation_Side-channels.pdf arm 2018 google
+
+https://basistheory.com/blog/what-is-tokenization
+> https://news.ycombinator.com/item?id=30731169
+
 https://www.lemonde.fr/pixels/article/2022/03/18/assurance-maladie-des-donnees-personnelles-concernant-plus-de-500-000-francais-volees_6118149_4408996.html
 
 https://www.reddit.com/r/java/comments/th3lie/jdk8058778_new_apis_for_creating_certificates_and/
@@ -6,7 +22,7 @@ https://www.reddit.com/r/java/comments/th3lie/jdk8058778_new_apis_for_creating_c
 https://bodhi.fedoraproject.org/updates/FEDORA-2022-32c39ab8c0 minor dos
 > https://github.com/rhboot/pesign
 
-https://nvd.nist.gov/vuln/detail/CVE-2022-26488 python windows
+https://nvd.nist.gov/vuln/detail/CVE-2022-26488 Python windows
 
 https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-a-bitlocker-exclusion-policy-for-usb-drives/
 

@@ -35,6 +35,7 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 
 # News
 https://fishshell.com/docs/current/relnotes.html#fish-3-4-0-released-march-12-2022
+> https://news.ycombinator.com/item?id=30734072
 
 https://github.com/kaelzhang/shell-safe-rm
 

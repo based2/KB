@@ -230,6 +230,16 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://medium.com/@kestra-io/introducing-kestra-infinitely-scalable-open-source-orchestration-and-scheduling-platform-8e4d47193616
+> https://kestra.io/
+> > https://github.com/kestra-io/kestra Infinitely scalable open source orchestration & scheduling platform, Java ASLv2, ru.vyarus
+> https://kestra.io/docs/terraform/
+> https://kestra.io/docs/user-interface-guide/
+
+https://www.datamesh-architecture.com/
+
+https://en.wikipedia.org/wiki/P%C3%B3lya_urn_model
+
 https://www.robdearborn.com/2022/03/13/organizing-and-scaling-an-effective-data-team/
 > https://news.ycombinator.com/item?id=30689987
 

@@ -84,6 +84,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://0x46.net/thoughts/2022/03/17/go-streams/
+> https://www.reddit.com/r/golang/comments/tgn02j/go_streams_a_look_at_what_is_possible_with/
+
+https://github.com/FSMaxB/type-safe-builder-experiment/blob/master/go/builder/staticOptional.go
+
 https://go.dev/blog/go1.18
 > https://news.ycombinator.com/item?id=30688208
 

@@ -139,6 +139,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://scitechdaily.com/kilometer-scale-space-structures-from-a-single-launch-for-generating-artificial-gravity/
+
 https://www.sparkfun.com/news/4278 Understanding GNSS Orbits
 
 https://www.aanda.org/articles/aa/full_html/2022/03/aa42484-21/aa42484-21.html The LOFAR Two-metre Sky Survey

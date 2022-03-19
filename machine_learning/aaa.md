@@ -97,6 +97,8 @@ https://copilot.github.com/
     https://github.com/github/copilot-docs/tree/main/docs
     > https://news.ycombinator.com/item?id=29016506
 
+   https://news.ycombinator.com/item?id=30695509
+
 https://visualstudio.microsoft.com/fr/services/intellicode/
 
 https://research.ibm.com/blog/codenet-ai-for-code

@@ -87,6 +87,9 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+https://adambaskerville.github.io/posts/LespEigenvalues/
+> https://news.ycombinator.com/item?id=30735871
+
 https://en.wikipedia.org/wiki/Bellard%27s_formula
 
 https://bellard.org/pi/

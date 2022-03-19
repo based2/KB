@@ -255,6 +255,13 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/FasterXML/jackson/wiki/Jackson-Release-2.13.2
+> https://github.com/asomov/snakeyaml-engine
+> > https://github.com/spariev/snakeyaml/blob/master/src/changes/changes.xml
+
+https://joschi.github.io/java-metadata/index.html
+> https://www.reddit.com/r/java/comments/thuv0a/java_metadata_api/
+
 https://netbeans.apache.org/download/nb13/index.html
 
 https://mail.openjdk.java.net/pipermail/amber-spec-experts/2022-March/003293.html

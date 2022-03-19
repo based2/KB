@@ -1,3 +1,6 @@
+https://dmitry.gr/?r=05.Projects&proj=31.%20Memory%20Stick Documenting Sony Memory Stick
+> https://news.ycombinator.com/item?id=30731682
+
 https://www.pentestpartners.com/security-blog/reverse-engineering-the-tesla-firmware-update-process/
 
 https://www.shielder.it/blog/2022/03/reversing-embedded-device-bootloader-u-boot-p.1/

@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://github.com/arkenfox/user.js
+> https://news.ycombinator.com/item?id=30729021
+
 https://librewolf.net/
 > https://news.ycombinator.com/item?id=30720301
 

@@ -62,6 +62,11 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://old.reddit.com/r/linux/comments/thsrcp/this_was_the_first_step_in_the_interview_process/
+> https://news.ycombinator.com/item?id=30735678
+
+https://www.theregister.com/2022/03/19/linux_mint_debian_edition_5/
+
 https://hotdoglinux.com/
 > https://news.ycombinator.com/item?id=30693301
 

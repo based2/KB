@@ -225,7 +225,7 @@ https://danubecloud.org/ OSS Datacenter management
 
 https://hbr.org/2021/11/how-cloud-based-supercomputing-is-changing-rd
 
-https://en.wikipedia.org/wiki/CLOUD_Act US
+https://en.wikipedia.org/wiki/CLOUD_Act US - Clarifying Lawful Overseas Use of Data Act
 
 https://www.zdnet.com/article/eu-companies-sue-microsoft-onedrive-windows-integration/
 > https://news.ycombinator.com/item?id=29370785

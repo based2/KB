@@ -22,6 +22,8 @@ https://github.com/anderspitman/awesome-tunneling
 https://openreplay.com/
 
 # News
+https://blog.cloudflare.com/a-primer-on-proxies/
+
 https://news.ycombinator.com/item?id=30540735 Launch HN: Requestly (YC W22) – Network debugging proxy for web and mobile
 
 https://github.com/traefik/traefik/releases/tag/v2.6.0

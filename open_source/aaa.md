@@ -191,6 +191,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.transformation.gouv.fr/files/presse/Declaration_common_values_challenges_european%20public_administrations_1.pdf
+> https://news.ycombinator.com/item?id=30732482
+
 https://mitchellh.com/writing/contributing-to-complex-projects
 > https://news.ycombinator.com/item?id=30683500
 

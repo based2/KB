@@ -100,6 +100,12 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://kiwink.io/
+> https://news.ycombinator.com/item?id=30734808
+
+https://tailscale.com/blog/how-nat-traversal-works/
+> https://news.ycombinator.com/item?id=30707711
+
 https://www.openconfig.net/ Vendor-neutral, model-driven network management designed by users
 > https://news.ycombinator.com/item?id=30710061
 

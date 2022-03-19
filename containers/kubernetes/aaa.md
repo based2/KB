@@ -62,6 +62,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.mcorbin.fr/posts/2022-03-17-kubernetes-kapsule-scaleway/
+
 https://www.seekret.io/blog/ebpf-nuances-on-minikube/
 > https://news.ycombinator.com/item?id=30721299
 

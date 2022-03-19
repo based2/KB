@@ -51,6 +51,9 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 # News
+https://in.relation.to/2022/03/18/hibernate-orm-567/
+> https://github.com/hibernate/hibernate-orm/blob/5.6.7/changelog.txt
+
 https://hibernate.org/orm/releases/6.0/
 > https://www.reddit.com/r/java/comments/sftz7y/hibernate_6_rc1_released/
 

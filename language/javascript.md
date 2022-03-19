@@ -362,6 +362,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/tooljet/tooljet connectors
+
 https://solito.dev/
 > https://news.ycombinator.com/item?id=30678100
 

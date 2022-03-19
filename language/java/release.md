@@ -17,6 +17,9 @@ https://tschatzl.github.io/2021/11/15/heap-regions-x-large.html
 
 https://coderoasis.com/jdk-18-new-features/
 
+https://tschatzl.github.io/2022/03/14/jdk18-g1-parallel-gc-changes.html
+> https://www.reddit.com/r/java/comments/tfciwe/g1parallelserial_gc_improvements_in_jdk_18/
+
 # 17 LTS
 https://jdk.java.net/loom/
 https://github.com/openjdk/jdk/pull/3427 Stream API skip() and limit() allocation optimization on openjdk 17

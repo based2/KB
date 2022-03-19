@@ -124,6 +124,7 @@ https://specbranch.com/posts/faster-div8/
 https://johnysswlab.com/vectorization-dependencies-and-outer-loop-vectorization-if-you-cant-beat-them-join-them/
 
 https://www.brendangregg.com/perf.html
+> https://news.ycombinator.com/item?id=30710280
 
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
@@ -195,6 +196,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://polylith.gitbook.io/polylith/
+> https://news.ycombinator.com/item?id=30697724
+
 https://riffle.systems/essays/prelude/
 > https://news.ycombinator.com/item?id=30530120
 

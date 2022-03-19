@@ -208,6 +208,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://www.python.org/downloads/release/python-3103/
+
+https://lemire.me/blog/2022/03/18/writing-out-large-arrays-in-go-binary-write-is-inefficient-for-large-arrays/
+
+https://patviafore.com/2022/03/18/the-zen-of-python-one-liners-and-being-pythonic/
+
 https://github.com/WardPearce/paaster Secure by default end to end encrypted pastebin built with the objective of simplicity
 
 https://baserow.io/blog/how-baserow-lets-users-generate-django-models

@@ -74,6 +74,11 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://scala-lang.org/blog-detail/2022/03/04/in-support-of-ukraine.html
+
+https://august.nagro.us/list-vs-vector.html
+> https://www.reddit.com/r/scala/comments/tfak2w/list_vs_vector_in_2022/
+
 https://www.lihaoyi.com/post/MicrooptimizingyourScalacode.html
 
 https://gist.github.com/quelgar/d383cd960d781fe72a1564203c280a03 Every Argument for Static Typing Applies to Typed Errors

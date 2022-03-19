@@ -341,6 +341,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://github.com/rust-lang/rfcs/issues/323 Wishlist: functions with keyword args, optional args, and/or variable-arity argument
+> https://news.ycombinator.com/item?id=30735890
+
 https://blog.warp.dev/rules-are-made-to-be-broken/
 
 https://old.reddit.com/r/rust/comments/tcxrs3/announcing_savage_a_computer_algebra_system/

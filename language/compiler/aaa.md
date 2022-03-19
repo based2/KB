@@ -106,6 +106,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://llsoftsec.github.io/llsoftsecbook/
+
 https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/
 > https://news.ycombinator.com/item?id=30686919
 

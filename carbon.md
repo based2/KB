@@ -55,6 +55,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://daviddfriedman.blogspot.com/2022/03/land-gained-and-lost-fermi-estimate.html
+> https://news.ycombinator.com/item?id=30733500
+
+https://www.washingtonpost.com/weather/2022/03/18/antarctica-heat-wave-climate-change/
+> https://news.ycombinator.com/item?id=30733387
+
 https://www.nature.com/articles/ncomms15174 Directly converting CO2 into a gasoline fuel
 > https://news.ycombinator.com/item?id=30624951
 

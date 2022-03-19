@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://github.com/ftsf/nico
+
 https://codeberg.org/unfa/Liblast GNU Affero General Public License
 
 https://blog.adacore.com/ada-gamedev-part-1-generic-sprite-and-tile-engine-geste

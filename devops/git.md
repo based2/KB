@@ -257,6 +257,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://render.com/blog/git-organized-a-better-git-flow
+
 https://news.ycombinator.com/item?id=30712175 Ask HN: What is your Git commit/push flow?
 
 https://paul-samuels.com/blog/2022/03/12/updating-git-edit/
