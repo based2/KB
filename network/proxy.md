@@ -22,6 +22,10 @@ https://github.com/anderspitman/awesome-tunneling
 https://openreplay.com/
 
 # News
+https://blog.cloudflare.com/unlocking-quic-proxying-potential/
+
+https://mitmproxy.org/posts/releases/mitmproxy8/
+
 https://blog.cloudflare.com/a-primer-on-proxies/
 
 https://news.ycombinator.com/item?id=30540735 Launch HN: Requestly (YC W22) – Network debugging proxy for web and mobile

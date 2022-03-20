@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://github.com/Swordfish90/cool-retro-term
+> https://github.com/Swordfish90/cool-retro-term
+
 https://entropygames.net/
 
 https://graphite.rs/

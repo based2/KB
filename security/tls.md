@@ -120,6 +120,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/
+> https://news.ycombinator.com/item?id=30743141
+
 https://www.imperialviolet.org/2014/02/22/applebug.html
 
 https://blog.bithole.dev/tls.html

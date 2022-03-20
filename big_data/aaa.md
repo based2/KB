@@ -230,6 +230,10 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.dimensionengineering.com/datasheets/KoopmanCRCWebinar9May2012.pdf  Tutorial: Checksum and CRC Data Integrity Techniques for Aviation
+
+https://ipython.org/
+
 https://medium.com/@kestra-io/introducing-kestra-infinitely-scalable-open-source-orchestration-and-scheduling-platform-8e4d47193616
 > https://kestra.io/
 > > https://github.com/kestra-io/kestra Infinitely scalable open source orchestration & scheduling platform, Java ASLv2, ru.vyarus

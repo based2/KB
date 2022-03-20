@@ -155,6 +155,13 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+http://ernestmicklei.com/melrose/introduction_melrose/
+> https://news.ycombinator.com/item?id=30740274
+
+https://typebeat.kofi.sexy/
+> https://github.com/kofigumbs/typebeat
+> https://news.ycombinator.com/item?id=30742073
+
 https://www.johndcook.com/blog/2022/03/14/phone-tones-in-musical-notation/
 > https://news.ycombinator.com/item?id=30676957
 

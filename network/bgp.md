@@ -16,3 +16,4 @@ https://en.wikipedia.org/wiki/BGP_hijacking#Public_incidents
 > https://www.reddit.com/r/netsec/comments/q19c4e/list_of_public_bgp_hijacking_incidents/
 
 https://github.com/osrg/gobgp
+> https://news.ycombinator.com/item?id=30734712

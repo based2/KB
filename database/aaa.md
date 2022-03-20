@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://stackoverflow.blog/2022/03/14/how-sharding-a-database-can-make-it-faster/
+> https://news.ycombinator.com/item?id=30695323
+
 https://tanelpoder.com/posts/mysql-now-shows-thread-names-at-os-level/
 > https://news.ycombinator.com/item?id=30715336
 

@@ -100,6 +100,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://isc.sans.edu/forums/diary/MGLNDD+Scans/28458
+
 https://kiwink.io/
 > https://news.ycombinator.com/item?id=30734808
 

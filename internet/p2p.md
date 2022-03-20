@@ -83,3 +83,6 @@ https://github.com/amule-project/amule/releases/tag/2.3.3
 https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-18-210912/
 > https://news.ycombinator.com/item?id=28500239
 
+https://www.salon.com/2000/09/29/gnutella_paradox/
+> https://news.ycombinator.com/item?id=30743883
+

@@ -191,6 +191,8 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://libreplanet.org/2022/program/
+
 https://www.transformation.gouv.fr/files/presse/Declaration_common_values_challenges_european%20public_administrations_1.pdf
 > https://news.ycombinator.com/item?id=30732482
 

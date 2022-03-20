@@ -1,3 +1,5 @@
+https://blog.jgc.org/2022/03/using-minitel-1b-as-serial-terminal.html
+
 https://fr.wikipedia.org/wiki/Mitra_15
 
 https://www.cs.huji.ac.il/~springer/DigitalNeedle/index.html

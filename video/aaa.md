@@ -94,6 +94,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://ymcinema.com/2022/03/17/vimeo-we-are-a-b2b-solution-not-the-indie-version-of-youtube/
+> https://news.ycombinator.com/item?id=30743371
+
 https://code.videolan.org/videolan/dav1d/-/blob/1.0.0/NEWS Dav1d, fast AV1 decoder, version 1.0
 > https://news.ycombinator.com/item?id=30722853
 

@@ -36,6 +36,12 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://opensource.com/article/22/2/new-sudo-features-2022
+
+https://github.com/junegunn/fzf finder
+> https://news.ycombinator.com/item?id=30736518
+> > https://jvns.ca/blog/2020/06/28/entr/ rerun your build when files change
+
 https://nullprogram.com/blog/2022/02/18/
 > https://news.ycombinator.com/item?id=30395189
 

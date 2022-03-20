@@ -1,3 +1,5 @@
+https://lakka.tv/doc/Why-Lakka/ Linux environment with game emulation frontend
+
 https://www.raspberrypi.com/products/raspberry-pi-400/
 
 https://doc.linutop.com/current/linutopOS/fr/linutopos.html

@@ -139,6 +139,10 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.engadget.com/nasa-sls-artemis-i-moon-rocket-launch-pad-155551430.html
+
+https://mtirado.com/blog/demystifying-the-analemma/
+
 https://scitechdaily.com/kilometer-scale-space-structures-from-a-single-launch-for-generating-artificial-gravity/
 
 https://www.sparkfun.com/news/4278 Understanding GNSS Orbits

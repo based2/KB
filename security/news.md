@@ -1,3 +1,24 @@
+https://chuongdong.com//reverse%20engineering/2022/03/19/LockbitRansomware/
+
+https://www.bleepingcomputer.com/news/security/new-unix-rootkit-used-to-steal-atm-banking-data/
+
+https://github.com/justinsteven/advisories/blob/main/2022_git_buried_bare_repos_and_fsmonitor_various_abuses.md
+> https://www.reddit.com/r/netsec/comments/tftxoh/git_honours_embedded_bare_repos_justinsteven/
+
+https://jfrog.com/blog/7-rce-and-dos-vulnerabilities-found-in-clickhouse-dbms/
+
+https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/
+> https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF
+> https://www.reddit.com/r/netsec/comments/teulap/nsa_cisa_release_updated_kubernetes_hardening/
+
+https://www.cidersecurity.io/top-10-cicd-security-risks/
+
+https://github.com/mikeroyal/Open-Source-Security-Guide
+
+https://github.com/Rog3rSm1th/Frelatage Python fuzzer
+
+https://www.trendmicro.com/en_us/research/22/c/cyclops-blink-sets-sights-on-asus-routers--.html
+
 https://grsecurity.net/Compilers_The_Old_New_Security_Frontier_BlueHat_IL_2022.pdf
 > https://news.ycombinator.com/item?id=30714717
 
@@ -41,6 +62,9 @@ http://michael.orlitzky.com/articles/posix_hardlink_heartache.xhtml
 
 https://thehackernews.com/2022/03/new-vulnerability-in-cri-o-engine-lets.html?m=1
 > https://news.ycombinator.com/item?id=30721877
+> https://www.crowdstrike.com/blog/cr8escape-new-vulnerability-discovered-in-cri-o-container-engine-cve-2022-0811/
+> https://sysdig.com/blog/cve-2022-0811-cri-o/
+> > https://www.reddit.com/r/netsec/comments/tg8ex1/mitigating_cve20220811_arbitrary_code_execution/
 
 https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-elevation-de-privileges-37828
 
@@ -58,6 +82,8 @@ https://www.curtisswrightds.com/news/blog/nsa-type-1-encryption.html
 https://github.com/vuejs/vue-cli/issues/7054
 > https://news.ycombinator.com/item?id=30702175
 > https://github.com/RIAEvangelist/node-ipc/issues/233
+> https://github.com/advisories/GHSA-97m3-w2cp-4xx6
+> > https://news.ycombinator.com/item?id=30746289
 
 https://mrd0x.com/browser-in-the-browser-phishing-attack/
 > https://news.ycombinator.com/item?id=30697329
@@ -538,6 +564,8 @@ https://www.deadf00d.com/post/how-i-hacked-sonos-and-youtube-the-same-day.html
 
 https://therecord.media/npm-enrolls-top-100-package-maintainers-into-mandatory-2fa/
 > https://github.blog/2021-12-07-enrolling-npm-publishers-enhanced-login-verification-two-factor-authentication-enforcement/
+> https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/
+> > https://www.reddit.com/r/netsec/comments/tfvsxp/npm_supply_chain_attack_nodeipc_and_peacenotwar/
 
 https://www.phpmyadmin.net/security/PMASA-2022-1/ CVE-2022-23807
 

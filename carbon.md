@@ -55,6 +55,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://lite.cnn.com/en/article/h_2194e570834169178970b716bcc8ce8a 	Big-box Stores could slash Emissions, save Millions – Put solar-panels on Roofs
+> https://news.ycombinator.com/item?id=30743563
+
+https://text.npr.org/1087495296 The U.S. may force companies to disclose climate risks, marking a historic change
+
 https://daviddfriedman.blogspot.com/2022/03/land-gained-and-lost-fermi-estimate.html
 > https://news.ycombinator.com/item?id=30733500
 

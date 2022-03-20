@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.ll.mit.edu/sites/default/files/page/doc/2018-05/21_1_4_MacDonald.pdf
+> https://news.ycombinator.com/item?id=30719871
+
 http://websdr.ewi.utwente.nl:8901/ Wide-Band WebSDR in Enschede, the Netherlands
 
 https://engineering.ucdenver.edu/current-students/capstone-expo/archived-expos/spring-2020/electrical-engineering/elec6-improving-infrasound-detection

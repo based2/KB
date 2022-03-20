@@ -281,6 +281,7 @@ https://github.blog/2022-01-24-highlights-from-git-2-35/
 > https://news.ycombinator.com/item?id=30068776
 
 https://meldmerge.org/ diff ui
+> https://news.ycombinator.com/item?id=30741123
 
 https://gist.github.com/phoe/7d24bdb1f2be76a02fecba8cfecbef38 Forever Stable Branch
 

@@ -164,6 +164,12 @@ https://orkes.io/content/blog/orchestration-microservices-match-made-heaven
 
 https://engineering.linkedin.com/blog/2022/hodor--detecting-and-addressing-overload-in-linkedin-microservic
 
+https://christophermeiklejohn.com/filibuster/2022/03/19/understanding-faults.html
+
+https://brooker.co.za/blog/2022/02/28/retries.html
+
+# Serverless - functions
+
 # API
 https://google.aip.dev/
 > https://news.ycombinator.com/item?id=27716756

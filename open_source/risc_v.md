@@ -1,3 +1,6 @@
+https://erik-engheim.medium.com/addressing-criticism-of-risc-v-microprocessors-803239b53284 Addressing Criticism of RISC-V Microprocessors
+> https://news.ycombinator.com/item?id=30740433
+
 https://github.com/riscv/riscv-j-extension
 
 https://semiengineering.com/why-risc-v-is-succeeding/

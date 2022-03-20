@@ -255,6 +255,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://cmhteixeira.com/concurrency/javaTimer.html
+
 https://github.com/FasterXML/jackson/wiki/Jackson-Release-2.13.2
 > https://github.com/asomov/snakeyaml-engine
 > > https://github.com/spariev/snakeyaml/blob/master/src/changes/changes.xml

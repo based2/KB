@@ -208,6 +208,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/ZeroIntensity/pointers.py
+> https://news.ycombinator.com/item?id=30744698
+
 https://www.python.org/downloads/release/python-3103/
 
 https://lemire.me/blog/2022/03/18/writing-out-large-arrays-in-go-binary-write-is-inefficient-for-large-arrays/

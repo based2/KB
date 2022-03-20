@@ -255,6 +255,10 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://github.com/smarr/are-we-fast-yet Comparing Language Implementations with Objects, Closures, and Arrays
+
+https://github.com/subsetpark/pantagruel
+
 https://refactoring.guru/design-patterns/catalog
 > https://news.ycombinator.com/item?id=30675182
 
