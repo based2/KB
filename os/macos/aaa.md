@@ -61,6 +61,8 @@ https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release
 
 https://developer.apple.com/support/unlisted-app-distribution/
 
+https://news.ycombinator.com/item?id=30753584
+
 # M1
 https://eclecticlight.co/2022/03/17/macos-has-different-strategies-for-m1-cores/
 

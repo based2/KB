@@ -155,6 +155,10 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://overtone.github.io/
+> https://news.ycombinator.com/item?id=30752148
+> > https://sonic-pi.net/
+
 http://ernestmicklei.com/melrose/introduction_melrose/
 > https://news.ycombinator.com/item?id=30740274
 

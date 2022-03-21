@@ -1,3 +1,5 @@
+https://www.pwc.es/es/publicaciones/entretenimiento-y-medios/assets/juego-online-importante-mundos-virtuales.pdf
+
 https://karlsims.com/evolved-virtual-creatures.html
 > https://news.ycombinator.com/item?id=30719801
 

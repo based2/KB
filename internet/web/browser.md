@@ -30,6 +30,14 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://tildegit.org/ploum/AV-98-offline/
+> https://linuxfr.org/news/offpunk-1-0-un-navigateur-deconnecte-pour-le-smolnet
+
+https://arstechnica.com/gadgets/2022/03/firefox-will-efficiently-play-av1-video-if-you-have-a-brand-new-gpu/
+
+https://macwright.com/2022/03/04/browsers-and-files.html
+> https://news.ycombinator.com/item?id=30739187
+
 https://4e6.github.io/firefox-lang-stats/
 > https://news.ycombinator.com/item?id=30743577
 

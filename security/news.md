@@ -1,3 +1,11 @@
+https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak LTrack: Stealthy Tracking of Mobile Phones in LTE
+
+https://www.bleepingcomputer.com/news/microsoft/windows-zero-day-flaw-giving-admin-rights-gets-unofficial-patch-again/
+
+https://www.bleepingcomputer.com/news/security/serpent-malware-campaign-abuses-chocolatey-windows-package-manager/
+
+https://www.theregister.com/2022/03/17/openness_of_oracle_licensing/
+
 https://chuongdong.com//reverse%20engineering/2022/03/19/LockbitRansomware/
 
 https://www.bleepingcomputer.com/news/security/new-unix-rootkit-used-to-steal-atm-banking-data/
@@ -205,6 +213,7 @@ https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html
 > https://news.ycombinator.com/item?id=30589212
 > https://www.reddit.com/r/netsec/comments/tbzdkh/satcom_terminals_under_attack_in_europe_a/
 > https://www.cisa.gov/uscert/ncas/alerts/aa22-076a
+> https://www.theregister.com/2022/03/21/in_brief_security/
 
 https://www.theverge.com/2022/3/7/22965220/samsung-hack-lapsus-galaxy-source-code-confirmed-nvidia
 

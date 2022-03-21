@@ -15,6 +15,8 @@ https://tdg.docbook.org/tdg/5.1/
 https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/
 > https://news.ycombinator.com/item?id=30629156
 
+https://news.ycombinator.com/item?id=30757919 Ask HN: Tools to generate coverage of user documentation for code
+
 # AsciiDoc
 
 https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/

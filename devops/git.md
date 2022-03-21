@@ -257,6 +257,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://telemachus.me/git-can-break-your-tests
+
+https://github.com/gitext-rs/git-stack
+> https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/
+
 https://render.com/blog/git-organized-a-better-git-flow
 
 https://news.ycombinator.com/item?id=30712175 Ask HN: What is your Git commit/push flow?

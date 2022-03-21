@@ -11,6 +11,9 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://www.sourceware.org/gdb/current/onlinedocs/gdb.html
+> https://news.ycombinator.com/item?id=30737509
+
 https://microsoft.github.io/debug-adapter-protocol/overview
 
 https://felix-knorr.net/blog/using_gdb_directly.html

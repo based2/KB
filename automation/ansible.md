@@ -32,6 +32,8 @@ https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-
 https://blog.quarkslab.com/ansible-security-assessment.html
 
 # News
+https://github.com/ansible-community/community-topics/issues/82 Future of the "ansible" package
+
 https://github.com/afroisalreadyinu/practical-ansible-intro
 > https://news.ycombinator.com/item?id=30559033
 

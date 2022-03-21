@@ -142,6 +142,7 @@ https://everydayastronaut.com/soviet-rocket-engines/
 https://www.engadget.com/nasa-sls-artemis-i-moon-rocket-launch-pad-155551430.html
 
 https://mtirado.com/blog/demystifying-the-analemma/
+> https://news.ycombinator.com/item?id=30741531
 
 https://scitechdaily.com/kilometer-scale-space-structures-from-a-single-launch-for-generating-artificial-gravity/
 

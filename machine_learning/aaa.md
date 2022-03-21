@@ -249,6 +249,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://writings.stephenwolfram.com/2022/03/on-the-concept-of-motion/
+> https://news.ycombinator.com/item?id=30739998
+
 https://medium.com/ntropy-network/clustering-millions-of-sentences-to-optimize-the-ml-workflow-f8d067f74dce
 
 https://medium.com/ntropy-network/how-we-reduced-our-infrastructure-costs-by-8x-without-sacrificing-performance-4e3a1d8efd7c

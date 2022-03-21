@@ -27,3 +27,5 @@ https://sketchy.cs.brown.edu/textures/#/textures/
 
 https://github.com/Yqnn/svg-path-editor
 > https://news.ycombinator.com/item?id=30382577
+
+https://css-tricks.com/optimizing-svg-patterns/
