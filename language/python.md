@@ -208,6 +208,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://atomos.readthedocs.io/en/latest/
+> https://news.ycombinator.com/item?id=30778163
+
+https://www.djangoforge.dev/
+> https://news.ycombinator.com/item?id=30779395
+
 https://github.com/ZeroIntensity/pointers.py
 > https://news.ycombinator.com/item?id=30744698
 

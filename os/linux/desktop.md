@@ -46,6 +46,9 @@ https://smackeyacky.blogspot.com/2022/03/rdp-clients-for-debian-incomplete-revie
 > https://news.ycombinator.com/item?id=30693370
 
 # News
+https://release.gnome.org/42/
+> https://news.ycombinator.com/item?id=30779895
+
 https://news.ycombinator.com/item?id=30750710 Tell HN: Gnome on Wayland Is Amazing
 
 https://taoofmac.com/space/til/2022/03/13/1730 nextspace

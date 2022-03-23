@@ -84,6 +84,8 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://go.dev/blog/intro-generics
+
 https://github.com/rodrigo-brito/memory-cache zero-dependency cache library for storing data in memory with generics
 
 https://0x46.net/thoughts/2022/03/17/go-streams/

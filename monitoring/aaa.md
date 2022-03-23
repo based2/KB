@@ -71,6 +71,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://github.com/emoacht/Monitorian
+> https://news.ycombinator.com/item?id=30772768
+
 https://roberttlange.github.io/posts/2021/12/mle-monitor/
 
 https://haydenjames.io/btop-the-htop-alternative/

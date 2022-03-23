@@ -16,4 +16,7 @@ https://docs.statetrace.com/blog/redis-server/
 https://ably.com/blog/redis-keys-do-not-expire-atomically
 > https://news.ycombinator.com/item?id=30099572
 
+https://render.com/blog/redis
+> https://news.ycombinator.com/item?id=30779909
+
 https://github.com/redis/redis/releases/tag/7.0-rc1

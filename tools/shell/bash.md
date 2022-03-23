@@ -72,6 +72,9 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://github.com/matejak/argbash
+> https://news.ycombinator.com/item?id=30737701
+
 https://iridakos.com/programming/2018/03/01/bash-programmable-completion-tutorial
 > https://news.ycombinator.com/item?id=30524440
 

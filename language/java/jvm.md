@@ -56,6 +56,12 @@ https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_
 https://www.youtube.com/watch?v=88E86quLmQA&t=1750s ZGC: The Next Generation Low-Latency Garbage Collector
 
 # News
+https://aws.amazon.com/fr/about-aws/whats-new/2022/03/amazon-corretto-18/
+> https://news.ycombinator.com/item?id=30777383
+
+https://mail.openjdk.java.net/pipermail/jdk-dev/2022-March/006458.html
+> https://news.ycombinator.com/item?id=30766650
+
 https://tschatzl.github.io/2022/03/14/jdk18-g1-parallel-gc-changes.html
 
 https://www.azul.com/blog/understanding-java-compilation-from-bytecodes-to-machine-code/

@@ -1,3 +1,6 @@
+https://www.curtisswrightds.com/news/press-release/raspberry-pi-powered-ultra-small-form-factor-rugged-mission-computer.html
+> https://news.ycombinator.com/item?id=30762316
+
 https://lakka.tv/doc/Why-Lakka/ Linux environment with game emulation frontend
 
 https://www.raspberrypi.com/products/raspberry-pi-400/

@@ -27,3 +27,6 @@ https://www.engadget.com/paypal-lawsuit-freezing-customer-accounts-funds-0731285
 
 https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln61tc/edit#gid=36139462 Show HN: I've built a list of 300 e-commerce conversion checkpoints
 > https://news.ycombinator.com/item?id=30148557
+
+https://blog.adafruit.com/2022/03/17/verified-accounts-secured-with-2fa-for-some-high-demand-products/
+> https://news.ycombinator.com/item?id=30769201

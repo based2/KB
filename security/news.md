@@ -1,3 +1,30 @@
+https://lists.apache.org/thread/zblwzcfs9ryhwjr89wz4osw55pxm6dx6 CVE-2021-44040 CVE-2021-44759 Apache Traffic Server is vulnerable to potential smuggle and MITM attacks
+
+https://daniel.haxx.se/blog/2022/03/23/anatomy-of-a-ghost-cve/
+
+https://www.youtube.com/watch?v=LV8BK1ns1Ow ARM MTE
+
+https://news.ycombinator.com/item?id=30762520
+> https://news.ycombinator.com/item?id=30779255
+> https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/
+> > https://news.ycombinator.com/item?id=30768590
+
+https://www.trustworthy.systems/projects/TS/makatea_reqts.pdf x86-64 VMM for seL4: Security Analysis and Requirements
+
+https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/
+> https://news.ycombinator.com/item?id=30763623
+> https://www.techworm.net/2022/03/microsoft-system-hacked-lapsus-group.html
+
+https://allagora.wordpress.com/2022/03/22/use-dns-txt-lookup-to-gain-quick-insights-which-services-companies-are-using/
+> https://news.ycombinator.com/item?id=30765033
+
+https://oxide.computer/blog/another-vulnerability-in-the-lpc55s69-rom
+> https://oxide.computer/blog/lpc55 Exploiting Undocumented Hardware Blocks in the LPC55S69
+> https://news.ycombinator.com/item?id=30778778
+
+https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/
+> https://news.ycombinator.com/item?id=30774406
+
 https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak LTrack: Stealthy Tracking of Mobile Phones in LTE
 
 https://www.bleepingcomputer.com/news/microsoft/windows-zero-day-flaw-giving-admin-rights-gets-unofficial-patch-again/
@@ -110,6 +137,7 @@ https://portswigger.net/daily-swig/sql-injection-vulnerability-in-e-learning-pla
 https://fermatattack.secvuln.info/
 > https://news.ycombinator.com/item?id=30672999
 > https://arstechnica.com/information-technology/2022/03/researcher-uses-600-year-old-algorithm-to-crack-crypto-keys-found-in-the-wild/
+> > https://news.ycombinator.com/item?id=30758994
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/
 > https://news.ycombinator.com/item?id=30675908

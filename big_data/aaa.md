@@ -230,6 +230,16 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/
+>
+
+https://www.openintro.org/book/ims/
+
+https://github.com/ReeceGoding/Frustration-One-Year-With-R
+> https://news.ycombinator.com/item?id=30764505
+
+https://github.com/dcmoura/matplotcli
+
 https://www.dimensionengineering.com/datasheets/KoopmanCRCWebinar9May2012.pdf  Tutorial: Checksum and CRC Data Integrity Techniques for Aviation
 
 https://ipython.org/

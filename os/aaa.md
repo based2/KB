@@ -14,6 +14,12 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://trustworthy.systems/projects/TS/makatea
+> https://news.ycombinator.com/item?id=30769740
+
+https://www.qubes-os.org/
+> https://news.ycombinator.com/item?id=30776103
+
 https://blog.danslimmon.com/2016/08/26/the-most-important-thing-to-understand-about-queues/
 > https://news.ycombinator.com/item?id=30599442
 

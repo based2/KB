@@ -249,6 +249,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.science.org/content/article/simple-electrical-circuit-learns-its-own-no-help-computer
+> https://news.ycombinator.com/item?id=30766102
+
+https://github.com/metarank/metarank Personalize any listing: recommendations, articles, and search results, Scala
+> https://news.ycombinator.com/item?id=30778100
+
 https://writings.stephenwolfram.com/2022/03/on-the-concept-of-motion/
 > https://news.ycombinator.com/item?id=30739998
 

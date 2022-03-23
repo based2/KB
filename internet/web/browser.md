@@ -30,6 +30,13 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://github.com/browserless/chrome/issues/2234 Starring your repo does not give you permission to spam me
+> 
+
+http://grail.sourceforge.net/
+> https://news.ycombinator.com/item?id=30780572
+> https://news.ycombinator.com/item?id=30781279
+
 https://tildegit.org/ploum/AV-98-offline/
 > https://linuxfr.org/news/offpunk-1-0-un-navigateur-deconnecte-pour-le-smolnet
 

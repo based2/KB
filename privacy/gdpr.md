@@ -56,6 +56,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://transcend.io/blog/gdpr-fines/
+> https://news.ycombinator.com/item?id=30770561
+
 https://www.usenix.org/conference/usenixsecurity22/presentation/bollinger Automating Cookie Consent and GDPR Violation Detection
 > https://news.ycombinator.com/item?id=30754961
 

@@ -62,6 +62,11 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.phoronix.com/scan.php?page=article&item=apple-m1-linux-perf&num=1
+
+https://old.reddit.com/r/Ubuntu/comments/tjwsza/firefox_now_only_available_via_snap/
+> https://news.ycombinator.com/item?id=30776698
+
 https://old.reddit.com/r/linux/comments/thsrcp/this_was_the_first_step_in_the_interview_process/
 > https://news.ycombinator.com/item?id=30735678
 

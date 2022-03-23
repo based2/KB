@@ -333,6 +333,9 @@ https://www.ashbyhq.com/blog/engineering/detecting-event-loop-blockers
 https://overreacted.io/npm-audit-broken-by-design/
 > https://news.ycombinator.com/item?id=27761334
 
+https://github.com/egoist/dum
+> https://news.ycombinator.com/item?id=30778321
+
 #
 https://github.com/mechaniac/Map-of-Javascript
 
@@ -362,6 +365,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/brimdata/react-arborist
+> https://news.ycombinator.com/item?id=30759358
+
 https://labs.factorialhr.com/posts/hooks-considered-harmful
 > https://news.ycombinator.com/item?id=30753127
 

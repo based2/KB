@@ -189,6 +189,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://en.wikipedia.org/wiki/Turin_Papyrus_Map
+
 https://github.com/minad/osm emacs
 > https://news.ycombinator.com/item?id=30682841
 

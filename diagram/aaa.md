@@ -121,6 +121,8 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://news.ycombinator.com/item?id=30780108
+
 http://www.thinkcomposer.com/
 > https://github.com/nmarcel/ThinkComposer
 > https://news.ycombinator.com/item?id=30669754

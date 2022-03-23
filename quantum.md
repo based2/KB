@@ -67,6 +67,11 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://ist.ac.at/en/news/characterizing-super-semi-sandwiches-for-quantum-computing/
+
+https://steveblank.com/2022/03/22/the-quantum-technology-ecosystem-explained/
+> https://news.ycombinator.com/item?id=30769020
+
 https://news.microsoft.com/innovation-stories/azure-quantum-majorana-topological-qubit/
 > https://news.ycombinator.com/item?id=30697374
 

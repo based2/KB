@@ -104,6 +104,11 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://chaordic.io/blog/reliable_continuous_deployment_in_7_steps/
+
+https://www.githubstatus.com/incidents/tyc8wpsgr2r8
+> https://news.ycombinator.com/item?id=30779046
+
 https://github.com/eBay/goose Service to simplify adding GitOps functionality to systems
 
 https://www.githubstatus.com/incidents/sksd097hm0y5 Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues, GitHub Packages, GitHub Pages, Pull Requests, and Webhooks

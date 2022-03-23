@@ -59,6 +59,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://boxyhq.com/
+> https://news.ycombinator.com/item?id=30767084
+
 https://fusionauth.io/blog/2021/03/23/migration-types
 
 https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-1/

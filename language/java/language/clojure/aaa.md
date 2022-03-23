@@ -83,6 +83,9 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://clojure.org/news/2022/03/22/clojure-1-11-0
+> https://news.ycombinator.com/item?id=30768240
+
 https://vvvvalvalval.github.io/posts/some-re-frame-patterns-for-composability.html
 
 https://prl.ccs.neu.edu/blog/2022/01/06/introducing-visual-and-interactive-syntax-realized-visr-for-clojurescript-and-javascript/

@@ -89,6 +89,9 @@ https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-tran
 > https://news.ycombinator.com/item?id=28740497
 
 # Test
+https://fsantanna.github.io/structured-concurrency.html
+> https://news.ycombinator.com/item?id=30754854
+
 https://github.com/jepsen-io/jepsen
 
 https://github.com/tylertreat/comcast

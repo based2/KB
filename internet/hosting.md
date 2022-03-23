@@ -13,6 +13,9 @@ https://news.ycombinator.com/item?id=29276734
 
 https://github.com/cpc2018/my-first-colo
 
+https://rohanrd.xyz/posts/why-you-should-start-self-hosting/
+> https://news.ycombinator.com/item?id=30781536
+
 # Static
 https://cj.rs//readme-in-static-site/
 > https://news.ycombinator.com/item?id=29304376

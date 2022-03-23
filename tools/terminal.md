@@ -32,6 +32,11 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://sw.kovidgoyal.net/kitty/
+> https://news.ycombinator.com/item?id=30779782
+
+https://satsumasbloggen.com/software/fri/
+
 https://github.com/rothgar/awesome-tuis
 
 https://no-color.org/

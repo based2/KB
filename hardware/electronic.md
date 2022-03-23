@@ -26,6 +26,9 @@ https://fideo.info/wiki.lua/blog/sed-circuit-simulator
 
 https://www.linusakesson.net/programming/pipelogic/index.php
 
+https://danluu.com/why-hardware-development-is-hard/ Verilog is weird
+> https://news.ycombinator.com/item?id=30739866
+
 # Microcontroller
 https://github.com/TUDSSL/BFree
 > https://news.ycombinator.com/item?id=29358044

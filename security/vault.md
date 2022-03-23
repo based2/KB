@@ -37,3 +37,6 @@ https://lobste.rs/s/gljhif/what_are_some_good_solutions_for_safe What are some g
 https://www.passbolt.com/
 > https://github.com/passbolt/passbolt_api php ruby
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
+
+https://keepassxc.org/blog/2022-03-21-2.7.0-released//
+> https://news.ycombinator.com/item?id=30764736

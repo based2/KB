@@ -63,6 +63,8 @@ https://developer.apple.com/support/unlisted-app-distribution/
 
 https://news.ycombinator.com/item?id=30753584
 
+https://www.a11yproject.com/posts/macos-browser-keyboard-navigation/
+
 # M1
 https://eclecticlight.co/2022/03/17/macos-has-different-strategies-for-m1-cores/
 

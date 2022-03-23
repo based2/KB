@@ -100,6 +100,12 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://github.com/kognise/arpchat
+> https://news.ycombinator.com/item?id=30762921
+
+https://phil.lavin.me.uk/2022/03/how-to-properly-interpret-a-traceroute-or-mtr/
+> https://news.ycombinator.com/item?id=30774974
+
 https://isc.sans.edu/forums/diary/MGLNDD+Scans/28458
 
 https://kiwink.io/

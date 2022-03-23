@@ -32,6 +32,9 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # News
+https://transparencyreport.google.com/https/certificates Google's Certificate Transparency Search page to be discontinued May 15th, 2022
+> https://news.ycombinator.com/item?id=30781698
+
 https://www.netmeister.org/blog/debugging-certificate-errors.html
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1758773 MITM in Russia

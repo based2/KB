@@ -87,6 +87,8 @@ http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/2
 https://news.ycombinator.com/item?id=27409410
 
 #
+https://www.engineersneedart.com/systemsix/systemsix.html
+
 https://www.righto.com/2022/03/inside-apple-1s-unusual-mos-clock.html
 > https://news.ycombinator.com/item?id=30757336
 
