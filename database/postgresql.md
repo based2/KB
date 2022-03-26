@@ -237,6 +237,12 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://github.com/porsager/postgres js
+> https://news.ycombinator.com/item?id=30794332
+
+https://eggerapps.at/postico/ A Modern PostgreSQL Client for the Mac
+> https://news.ycombinator.com/item?id=30798274
+
 https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security
 > https://news.ycombinator.com/item?id=30700899
 

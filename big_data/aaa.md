@@ -230,6 +230,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/AstraZeneca/judgyprophet Bayesian forecasting algorithm based on Prophet, python
+
 https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/
 >
 
@@ -249,6 +251,7 @@ https://medium.com/@kestra-io/introducing-kestra-infinitely-scalable-open-source
 > > https://github.com/kestra-io/kestra Infinitely scalable open source orchestration & scheduling platform, Java ASLv2, ru.vyarus
 > https://kestra.io/docs/terraform/
 > https://kestra.io/docs/user-interface-guide/
+> > https://news.ycombinator.com/item?id=30790047
 
 https://www.datamesh-architecture.com/
 

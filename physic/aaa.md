@@ -65,6 +65,9 @@ https://arstechnica.com/science/2022/03/absolutely-bonkers-experiment-measures-a
 https://www.quantamagazine.org/icy-antimatter-experiment-surprises-physicists-20220316/
 > https://news.ycombinator.com/item?id=30709847
 
+https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
+> https://news.ycombinator.com/item?id=30807022
+
 # News
 https://benbrubaker.com/of-lifetimes-and-linewidths/
 > https://news.ycombinator.com/item?id=30700564

@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://singularityhub.com/2022/03/23/how-geothermal-plants-could-solve-americas-lithium-supply-crunch-boost-ev-battery-industry/
+> https://news.ycombinator.com/item?id=30809654
+
 https://www.gov.uk/government/news/dstl-scientists-develop-pioneering-bio-batteries
 
 https://www.airbus.com/en/newsroom/news/2022-03-airbus-high-voltage-battery-technology-prepares-for-ecopulse-flight-test

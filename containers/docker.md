@@ -55,6 +55,12 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://www.trickster.dev/post/running-gui-apps-within-docker-containers/
+> https://news.ycombinator.com/item?id=30810410
+
+https://blog.vamc19.dev/posts/dockerfile-copy-chmod/ `COPY --chmod` reduced the size of my container image by 35%
+> https://news.ycombinator.com/item?id=30808945
+
 https://symflower.com/en/company/blog/2022/complete-guide-on-shrinking-container-images/
 > https://news.ycombinator.com/item?id=30703202
 

@@ -108,8 +108,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
-https://littlemaninmyhead.wordpress.com/2022/03/20/a-curious-connection-between-cubing-and-cryptography/
+https://cr.yp.to/critbit.html
 
+https://littlemaninmyhead.wordpress.com/2022/03/20/a-curious-connection-between-cubing-and-cryptography/
 
 https://cendyne.dev/posts/2022-03-06-ed25519-signatures.html
 > https://www.reddit.com/r/crypto/comments/t92eb5/a_deep_dive_into_ed25519_signatures/

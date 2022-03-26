@@ -25,3 +25,6 @@ https://blogs.nvidia.com/blog/2021/04/16/gan-research-knight-rider-ai-omniverse/
 https://svox.glitch.me/ Transform cubes (voxels) into 3D models
 
 https://news.ycombinator.com/item?id=30552988 Launch HN: Kaedim – API for 3D User Generated Content
+
+https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/
+> https://news.ycombinator.com/item?id=30806925

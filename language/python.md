@@ -208,6 +208,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://medium.com/capital-one-tech/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989
+> https://news.ycombinator.com/item?id=30801878
+
 https://atomos.readthedocs.io/en/latest/
 > https://news.ycombinator.com/item?id=30778163
 

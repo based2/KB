@@ -8,6 +8,10 @@ https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network
 
 https://libli.org/
 > https://news.ycombinator.com/item?id=30586171
+ 
+#
+https://matrix.org/blog/2022/03/25/interoperability-without-sacrificing-privacy-matrix-and-the-dma
+> https://news.ycombinator.com/item?id=30805015
 
 https://matrix.org/blog/2021/12/22/the-mega-matrix-holiday-special-2021
 > https://news.ycombinator.com/item?id=29652148

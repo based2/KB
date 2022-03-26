@@ -104,10 +104,14 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://about.gitlab.com/blog/2022/03/24/efficient-free-tier/ Upcoming changes to user limits on Free tier of Gitlab SaaS
+> https://news.ycombinator.com/item?id=30791162
+
 https://chaordic.io/blog/reliable_continuous_deployment_in_7_steps/
 
 https://www.githubstatus.com/incidents/tyc8wpsgr2r8
 > https://news.ycombinator.com/item?id=30779046
+> https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/
 
 https://github.com/eBay/goose Service to simplify adding GitOps functionality to systems
 

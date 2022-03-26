@@ -49,6 +49,7 @@ https://rabexc.org/posts/pitfalls-of-ssh-agents
 https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-creating_ssh_ca_certificate_signing-keys
 
 https://smallstep.com/blog/use-ssh-certificates/
+> https://news.ycombinator.com/item?id=30788544
 
 https://www.vaultproject.io/docs/secrets/ssh
 

@@ -49,3 +49,6 @@ https://lux.camera/iphone-13-pro-camera-app-intelligent-photography/
 
 https://en.wikipedia.org/wiki/Zone_System
 > https://news.ycombinator.com/item?id=30718656
+
+https://fujifilm-x.com/global/special/camera-control-sdk/agreement/
+> https://news.ycombinator.com/item?id=30792661

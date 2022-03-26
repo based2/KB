@@ -62,6 +62,11 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://ubuntu.com/blog/microk8s-memory-optimisation
+> https://news.ycombinator.com/item?id=30802321
+
+https://github.com/gravitl/netmaker
+
 https://philpearl.github.io/post/k8s_ingress/ Kubernetes' dirty endpoint secret and Ingress
 > https://news.ycombinator.com/item?id=30771149
 

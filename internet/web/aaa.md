@@ -71,7 +71,16 @@ https://scrapeops.io/blog/the-state-of-web-scraping-2022/
 https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-other/
 > https://news.ycombinator.com/item?id=30013100
 
+https://til.simonwillison.net/shot-scraper/readability
+> https://news.ycombinator.com/item?id=30795254
+
 # News
+https://github.com/GarrettAlbright/KyuWeb proposal for a document-oriented web
+> https://news.ycombinator.com/item?id=30799912
+
+https://hacks.mozilla.org/2022/03/introducing-mdn-plus-make-mdn-your-own/
+> https://news.ycombinator.com/item?id=30792365
+
 https://webvision.mozilla.org/
 
 https://github.com/frncsdrk/avatar

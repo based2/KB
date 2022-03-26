@@ -38,5 +38,8 @@ https://www.passbolt.com/
 > https://github.com/passbolt/passbolt_api php ruby
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
-https://keepassxc.org/blog/2022-03-21-2.7.0-released//
+#
+https://news.ycombinator.com/item?id=30806102 PI-0.core.keybaseapi.com has expired certificate
+
+https://keepassxc.org/blog/2022-03-21-2.7.0-released/
 > https://news.ycombinator.com/item?id=30764736

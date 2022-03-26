@@ -120,6 +120,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/
+> https://news.ycombinator.com/item?id=30782701
+
 https://www.trickster.dev/post/decrypting-your-own-https-traffic-with-wireshark/
 > https://news.ycombinator.com/item?id=30743141
 

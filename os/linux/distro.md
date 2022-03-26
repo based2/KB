@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://lists.debian.org/debian-vote/2022/03/msg00214.html	How Is Debian Doing?
+> https://news.ycombinator.com/item?id=30809491
+
 https://www.phoronix.com/scan.php?page=article&item=apple-m1-linux-perf&num=1
 
 https://old.reddit.com/r/Ubuntu/comments/tjwsza/firefox_now_only_available_via_snap/

@@ -55,6 +55,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.nytimes.com/2022/03/25/climate/east-antarctica-ice-shelf-collapse.html
+
 https://lite.cnn.com/en/article/h_2194e570834169178970b716bcc8ce8a 	Big-box Stores could slash Emissions, save Millions – Put solar-panels on Roofs
 > https://news.ycombinator.com/item?id=30743563
 

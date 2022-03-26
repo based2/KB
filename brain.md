@@ -12,6 +12,8 @@ https://www.sciencealert.com/a-never-before-seen-type-of-signal-has-been-detecte
 https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perceptions-20211115/
 > https://news.ycombinator.com/item?id=29254496
 
+https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
+
 # Neuron
 https://news.mit.edu/2021/neurons-humans-mammals-1110
 > https://news.ycombinator.com/item?id=29213806

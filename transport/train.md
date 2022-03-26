@@ -15,6 +15,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://www.ianvisits.co.uk/articles/crossrail-update-on-the-elizabeth-line-opening-plans-53030/
+> https://news.ycombinator.com/item?id=30810198
+
 https://railfan.com/union-pacific-to-buy-20-battery-electric-locomotives/
 > https://news.ycombinator.com/item?id=30233199
 

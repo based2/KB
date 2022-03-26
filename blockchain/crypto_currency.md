@@ -20,6 +20,9 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#
+> https://news.ycombinator.com/item?id=30804984
+
 https://www.neowin.net/news/uk-tells-crypto-atm-operators-to-shut-down-or-face-action/
 > https://news.ycombinator.com/item?id=30639523
 

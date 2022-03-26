@@ -168,6 +168,9 @@ https://sixcolors.com/post/2022/02/apple-in-2021-the-six-colors-report-card/
 https://developer.apple.com/news/?id=mdkbobfo Account deletion within apps required starting January 31
 > https://news.ycombinator.com/item?id=28776960
 
+https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-definitive-unboxing-and-ux-review/
+> https://news.ycombinator.com/item?id=30809226
+
 #
 https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
 > https://news.ycombinator.com/item?id=27151993

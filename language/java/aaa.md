@@ -255,6 +255,11 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.reddit.com/r/java/comments/tnvoll/pattern_assignment_brian_goetz/
+
+https://rieckpil.de/java-development-on-an-apple-m1-a-one-year-review/
+> https://news.ycombinator.com/item?id=30799686
+
 https://cmhteixeira.com/concurrency/javaTimer.html
 
 https://github.com/FasterXML/jackson/wiki/Jackson-Release-2.13.2

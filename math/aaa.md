@@ -87,6 +87,9 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+https://www.ams.org/journals/bull/2022-59-01/S0273-0979-2021-01726-5/viewer/ Varieties of mathematical understanding
+> https://news.ycombinator.com/item?id=30807136
+
 https://adambaskerville.github.io/posts/LespEigenvalues/
 > https://news.ycombinator.com/item?id=30735871
 

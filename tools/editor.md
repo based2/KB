@@ -124,6 +124,8 @@ https://ianyepan.github.io/posts/emacs-ide/
 
 https://emacsninja.com/posts/forbidden-emacs-lisp-knowledge-block-comments.html
 
+https://www.gnu.org/software/emacs/manual/html_node/elisp/Buffer-Gap.html
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

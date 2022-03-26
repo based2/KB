@@ -46,6 +46,8 @@ https://smackeyacky.blogspot.com/2022/03/rdp-clients-for-debian-incomplete-revie
 > https://news.ycombinator.com/item?id=30693370
 
 # News
+https://telepathy.freedesktop.org/
+
 https://release.gnome.org/42/
 > https://news.ycombinator.com/item?id=30779895
 

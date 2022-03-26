@@ -84,7 +84,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/MatteoLeonesi/GraphQL-Go-onepieceAPI
+> https://news.ycombinator.com/item?id=30804199
+
 https://go.dev/blog/intro-generics
+> https://news.ycombinator.com/item?id=30804253
 
 https://github.com/rodrigo-brito/memory-cache zero-dependency cache library for storing data in memory with generics
 

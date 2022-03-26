@@ -69,6 +69,8 @@ https://github.com/alt-romes/llvm-c-search
 
 https://github.com/wsmoses/Enzyme The Enzyme High-Performance Automatic Differentiator of LLVM
 
+https://discourse.llvm.org/t/llvm-14-0-0-release/61224
+
 ## Clang
 https://reviews.llvm.org/D108643
 
@@ -106,6 +108,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://gcc.gnu.org/pipermail/gcc/2022-March/238452.html LoongArch port accepted and maintainers appointed
+> https://news.ycombinator.com/item?id=30802316
+
 https://llsoftsec.github.io/llsoftsecbook/
 
 https://leaningtech.com/reducing-webassembly-size-by-exploring-all-executions-in-llvm/

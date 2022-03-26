@@ -58,6 +58,9 @@ https://www.confluent.io/blog/5-common-pitfalls-when-using-apache-kafka/
 
 https://searchdatamanagement.techtarget.com/news/252512512/Apache-Kafka-31-opens-up-data-streaming-for-analytics
 
+https://github.com/edenhill/librdkafka
+> https://news.ycombinator.com/item?id=30787254
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

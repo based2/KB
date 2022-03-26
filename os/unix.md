@@ -60,3 +60,6 @@ https://yarchive.net/comp/software_tlb.html
 > https://news.ycombinator.com/item?id=30474828
 
 http://www.bitsavers.org/pdf/bellLabs/unix/PreliminaryUnixImplementationDocument_Jun72.pdf
+
+https://lwn.net/SubscriberLink/888741/5e43489d7ebeda7f/ A way out for a.out
+> https://news.ycombinator.com/item?id=30792059

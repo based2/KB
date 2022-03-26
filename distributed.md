@@ -103,6 +103,8 @@ https://github.com/anishathalye/porcupine
 https://asatarin.github.io/testing-distributed-systems/
 
 # News
+https://martin.kleppmann.com/papers/move-op.pdf A highly-available move operation for replicated trees
+
 https://250bpm.com/blog:71/ Structured Concurrency
 
 https://blog.mi.hdm-stuttgart.de/index.php/2022/03/03/cascading-failures-in-large-scale-distributed-systems/

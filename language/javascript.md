@@ -365,6 +365,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://news.ycombinator.com/item?id=30810724 Ask HN: Why aren't there any real alternatives to Electron?
+
+https://remix.run/blog/remixing-react-router
+
 https://github.com/brimdata/react-arborist
 > https://news.ycombinator.com/item?id=30759358
 
@@ -397,7 +401,6 @@ https://alpinejs.dev/
 https://2ality.com/2022/03/properties-of-primitives.html
 
 https://socket.dev/
-> 
 
 https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/
 > https://news.ycombinator.com/item?id=30508524
@@ -408,7 +411,6 @@ https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html
 > https://news.ycombinator.com/item?id=30454881
 
 https://mikerourke.dev/blog/bitwisdom-keyboard-shortcuts/
-> 
 
 https://blog.logrocket.com/practical-use-cases-for-javascript-es6-proxies/
 

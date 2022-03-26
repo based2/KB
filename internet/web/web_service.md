@@ -15,6 +15,8 @@ https://curlconverter.com/
 > https://news.ycombinator.com/item?id=30642281
 > > https://github.com/curlconverter/curlconverter
 
+https://daniel.haxx.se/blog/2022/03/22/a-headers-api-for-libcurl/
+
 # JWT
 https://qvault.io/cryptography/hmac-and-macs-in-jwts/
 

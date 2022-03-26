@@ -1,8 +1,34 @@
+https://seanjmullan.org/blog/2022/03/23/jdk18 JDK 18 Security Enhancements
+
+https://www.theregister.com/2022/03/25/atlassian_hazelcast/
+
+https://security.gradle.com/advisory/2022-05 Gradle Enterprise RCE
+
+https://arstechnica.com/information-technology/2017/07/how-i-learned-to-stop-worrying-mostly-and-love-my-threat-model/
+
+https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny.html
+> https://news.ycombinator.com/item?id=30798302
+
+https://arstechnica.com/information-technology/2022/03/fcc-puts-kaspersky-on-security-threat-list-says-it-poses-unacceptable-risk/
+> https://news.ycombinator.com/item?id=30806181
+
+https://github.com/nonamecoder/CVE-2022-27254 Honda's Remote Keyless System
+> https://news.ycombinator.com/item?id=30804702
+
+https://jfrog.com/blog/large-scale-npm-attack-targets-azure-developers-with-malicious-packages/
+> https://www.reddit.com/r/netsec/comments/tl3t9y/largescale_npm_attack_targets_azure_developers/
+
+https://docs.ssh-mitm.at/trivialauth.html OpenSSH phishing FIDO token protected keys (PoC)
+> https://www.reddit.com/r/netsec/comments/tk5pi5/openssh_phishing_fido_token_protected_keys_poc/
+
+https://nvd.nist.gov/vuln/detail/CVE-2022-25364 gradle
+
 https://lists.apache.org/thread/zblwzcfs9ryhwjr89wz4osw55pxm6dx6 CVE-2021-44040 CVE-2021-44759 Apache Traffic Server is vulnerable to potential smuggle and MITM attacks
 
 https://daniel.haxx.se/blog/2022/03/23/anatomy-of-a-ghost-cve/
 
 https://www.youtube.com/watch?v=LV8BK1ns1Ow ARM MTE
+> https://chromium-review.googlesource.com/c/chromium/src/+/3494580
 
 https://news.ycombinator.com/item?id=30762520
 > https://news.ycombinator.com/item?id=30779255
@@ -10,10 +36,6 @@ https://news.ycombinator.com/item?id=30762520
 > > https://news.ycombinator.com/item?id=30768590
 
 https://www.trustworthy.systems/projects/TS/makatea_reqts.pdf x86-64 VMM for seL4: Security Analysis and Requirements
-
-https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/
-> https://news.ycombinator.com/item?id=30763623
-> https://www.techworm.net/2022/03/microsoft-system-hacked-lapsus-group.html
 
 https://allagora.wordpress.com/2022/03/22/use-dns-txt-lookup-to-gain-quick-insights-which-services-companies-are-using/
 > https://news.ycombinator.com/item?id=30765033
@@ -24,6 +46,12 @@ https://oxide.computer/blog/another-vulnerability-in-the-lpc55s69-rom
 
 https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/
 > https://news.ycombinator.com/item?id=30774406
+> https://www.bleepingcomputer.com/news/microsoft/lapsus-hackers-leak-37gb-of-microsofts-alleged-source-code/
+> > https://news.ycombinator.com/item?id=30763623
+> > https://www.techworm.net/2022/03/microsoft-system-hacked-lapsus-group.html
+> https://techcrunch.com/2022/03/24/london-police-lapsus-arrests/
+> > https://news.ycombinator.com/item?id=30800266
+> https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/
 
 https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak LTrack: Stealthy Tracking of Mobile Phones in LTE
 
@@ -119,6 +147,7 @@ https://github.com/vuejs/vue-cli/issues/7054
 > https://github.com/RIAEvangelist/node-ipc/issues/233
 > https://github.com/advisories/GHSA-97m3-w2cp-4xx6
 > > https://news.ycombinator.com/item?id=30746289
+> https://news.ycombinator.com/item?id=30793037
 
 https://mrd0x.com/browser-in-the-browser-phishing-attack/
 > https://news.ycombinator.com/item?id=30697329

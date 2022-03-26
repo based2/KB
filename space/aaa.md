@@ -139,6 +139,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://eartharxiv.org/repository/view/3208/ Unexpected space weather causing the reentry of 38 Starlink satellites
+> https://news.ycombinator.com/item?id=30809759
+
 https://www.engadget.com/nasa-sls-artemis-i-moon-rocket-launch-pad-155551430.html
 
 https://mtirado.com/blog/demystifying-the-analemma/

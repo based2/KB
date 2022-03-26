@@ -101,6 +101,12 @@ https://rust-lang.github.io/api-guidelines/checklist.html
 
 https://sixtyfps.io/blog/announcing-sixtyfps-0.1.html
 
+# Build
+https://ninja-build.org/
+
+https://github.com/evmar/n2
+> https://news.ycombinator.com/item?id=30806875
+
 # Macro
 https://www.getsynth.com/docs/blog/2021/08/09/macro
 
@@ -304,6 +310,9 @@ https://lucumr.pocoo.org/2022/1/30/unsafe-rust/ Uninitialized Memory: Unsafe Rus
 > https://news.ycombinator.com/item?id=30135758
 > https://lobste.rs/s/bkjsde/uninitialized_memory_unsafe_rust_is_too
 
+https://model-checking.github.io/kani/ Verification tool based on model checking
+> https://news.ycombinator.com/item?id=30786511
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -341,6 +350,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://danielmangum.com/posts/risc-v-bytes-rust-cross-compilation/
+> https://news.ycombinator.com/item?id=30754080
+
 https://github.com/rust-lang/rfcs/issues/323 Wishlist: functions with keyword args, optional args, and/or variable-arity argument
 > https://news.ycombinator.com/item?id=30735890
 
