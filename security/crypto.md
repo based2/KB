@@ -108,6 +108,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://kerkour.com/rust-cryptography-ecosystem
+
 https://cr.yp.to/critbit.html
 
 https://littlemaninmyhead.wordpress.com/2022/03/20/a-curious-connection-between-cubing-and-cryptography/

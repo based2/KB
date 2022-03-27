@@ -97,3 +97,6 @@ https://github.com/Jarred-Sumner/hop tar like
 
 https://alexanderpruss.blogspot.com/2022/02/game-boy-wordle-how-to-compress-12972.html
 > https://news.ycombinator.com/item?id=30402407
+
+http://ronja.twibright.com/optar/ Twibright Optar – OPTical ARchiver – a codec for encoding data on paper
+> https://news.ycombinator.com/item?id=30820836

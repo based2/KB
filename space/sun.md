@@ -8,6 +8,9 @@ https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 > https://news.ycombinator.com/item?id=28864749
 
 # News
+https://earthsky.org/sun/solar-orbiter-close-pass-sun-perihelion-march-26-2022/
+> https://news.ycombinator.com/item?id=30813548
+
 https://earthsky.org/earth/solar-superflares-tree-rings/
 
 https://www.zooniverse.org/projects/sophiemu/solar-jet-hunter

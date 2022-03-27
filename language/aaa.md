@@ -255,6 +255,16 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://devlog.hexops.com/2022/mach-v0.1-zig-graphics-in-60s
+>
+
+https://siraben.dev/2022/03/22/tree-sitter-linter.html
+
+https://ontology2.com/the-book/jena-rule-language.html
+
+http://www.jerf.org/iri/post/2960
+> https://www.joyk.com/dig/detail/1648131753849312
+
 https://github.com/cotowali/cotowali A statically typed scripting language that transpiles to Posix sh
 > https://news.ycombinator.com/item?id=30802186
 

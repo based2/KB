@@ -84,6 +84,10 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://encore.dev/blog/go-1.18-generic-identifiers
+> https://github.com/rs/xid Globally Unique ID Generator
+> https://www.reddit.com/r/golang/comments/tnlfdc/how_we_used_go_118_generics_when_designing_our/
+
 https://github.com/MatteoLeonesi/GraphQL-Go-onepieceAPI
 > https://news.ycombinator.com/item?id=30804199
 

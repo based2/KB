@@ -76,6 +76,8 @@ https://polyhedra.tessera.li/
 
 https://www.quantamagazine.org/how-tadayuki-watanabe-solved-a-topological-mystery-about-spheres-20211026/
 
+https://en.wikipedia.org/wiki/Indecomposable_continuum
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705
@@ -87,6 +89,11 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+https://www.onethirteenth.net/2021/07/on-infinite-decimal-expansions-missing.html
+> https://news.ycombinator.com/item?id=30809385
+
+https://sites.google.com/site/calculatinghistory/home/computing-linkages
+
 https://www.ams.org/journals/bull/2022-59-01/S0273-0979-2021-01726-5/viewer/ Varieties of mathematical understanding
 > https://news.ycombinator.com/item?id=30807136
 

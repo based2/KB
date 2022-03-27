@@ -15,6 +15,11 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.pcgamer.com/portal-2-desolation-is-giving-the-classic-puzzle-game-a-huge-graphics-overhaul/
+> https://news.ycombinator.com/item?id=30820508
+
+https://news.ycombinator.com/item?id=30820591 wipeout
+
 https://en.wikipedia.org/wiki/DEFCON_(video_game)
 
 https://arielroffe.quest/

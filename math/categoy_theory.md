@@ -20,3 +20,6 @@ https://github.com/prathyvsh/category-theory-resources
 
 https://www.logicmatters.net/categories/
 > https://news.ycombinator.com/item?id=29734482
+
+https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equality-20191010/
+> https://news.ycombinator.com/item?id=30809385

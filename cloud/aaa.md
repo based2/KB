@@ -50,6 +50,8 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://status.digitalocean.com/incidents/hmytdxqm07v4
+
 https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish
 > https://news.ycombinator.com/item?id=30756137
 

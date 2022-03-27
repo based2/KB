@@ -69,6 +69,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://www.huy.rocks/everyday/03-24-2022-typescript-source-code-walkthrough-inlayhints
+
 https://blog.jim-nielsen.com/2022/deno-is-webby-pt-2/
 
 https://www.zhenghao.io/posts/type-functions

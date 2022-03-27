@@ -82,6 +82,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://medium.com/geekculture/process-scheduling-in-linux-592028a5d545
+> https://news.ycombinator.com/item?id=30809937
+
 https://www.fossmint.com/userland-run-linux-distros-on-android/
 
 https://lwn.net/Articles/605607/ The glibc s390 ABI break (2014)

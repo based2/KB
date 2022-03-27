@@ -202,6 +202,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.bu.edu/csmet/2018/08/30/re-reading-tanenbaums-critique-of-rpc-30-years-later/
+
 https://polylith.gitbook.io/polylith/
 > https://news.ycombinator.com/item?id=30697724
 

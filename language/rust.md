@@ -350,6 +350,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://matklad.github.io//2022/03/26/self-modifying-code.html
+
 https://danielmangum.com/posts/risc-v-bytes-rust-cross-compilation/
 > https://news.ycombinator.com/item?id=30754080
 

@@ -74,6 +74,8 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://softwaremill.com/three-tools-to-improve-your-scala-workflow/
+
 https://scala-lang.org/blog/2022/03/08/finding-awesome-libraries.html
 
 https://scala-lang.org/blog-detail/2022/03/04/in-support-of-ukraine.html

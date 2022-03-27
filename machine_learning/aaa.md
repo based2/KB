@@ -249,6 +249,17 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/chekoduadarsh/BlocklyML
+>
+
+https://towardsdatascience.com/word2vec-explained-49c52b4ccb71
+> https://news.ycombinator.com/item?id=30820299
+
+https://github.com/AI4Finance-Foundation/FinRL
+> https://news.ycombinator.com/item?id=30819436
+
+https://github.com/lukewood/keras-genetic
+
 https://www.science.org/content/article/simple-electrical-circuit-learns-its-own-no-help-computer
 > https://news.ycombinator.com/item?id=30766102
 

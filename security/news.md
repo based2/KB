@@ -1,3 +1,24 @@
+https://github.com/microsoft/SymCrypt
+
+https://a16z.com/2022/03/27/crypto-airdrop-privacy-tool-zero-knowledge-proofs/
+
+https://github.com/netblue30/firejail SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities
+> https://news.ycombinator.com/item?id=30820387
+
+https://chromereleases.googleblog.com/2022/03/stable-channel-update-for-desktop_25.html High CVE-2022-1096: Type Confusion in V8
+> https://news.ycombinator.com/item?id=30813779
+
+https://blog.google/threat-analysis-group/countering-threats-north-korea/
+> https://news.ycombinator.com/item?id=30822370
+> > https://www.forbes.com/sites/daveywinder/2022/03/26/google-confirms-emergency-security-update-for-32-billion-chrome-users-attacks-underway/
+> > > https://news.ycombinator.com/item?id=30813779
+
+https://cycode.com/blog/github-actions-vulnerabilities/
+
+https://decoded.avast.io/martinchlumecky/dirtymoe-5/
+
+https://www.cyberkendra.com/2022/03/rce-0-day-exploit-found-in-spring-cloud.html
+
 https://seanjmullan.org/blog/2022/03/23/jdk18 JDK 18 Security Enhancements
 
 https://www.theregister.com/2022/03/25/atlassian_hazelcast/
@@ -52,6 +73,7 @@ https://www.microsoft.com/security/blog/2022/03/22/dev-0537-criminal-actor-targe
 > https://techcrunch.com/2022/03/24/london-police-lapsus-arrests/
 > > https://news.ycombinator.com/item?id=30800266
 > https://krebsonsecurity.com/2022/03/a-closer-look-at-the-lapsus-data-extortion-group/
+> https://www.wired.com/story/russian-hackers-lapsus-north-korea/
 
 https://www.usenix.org/conference/usenixsecurity22/presentation/kotuliak LTrack: Stealthy Tracking of Mobile Phones in LTE
 
@@ -271,6 +293,7 @@ https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html
 > https://www.reddit.com/r/netsec/comments/tbzdkh/satcom_terminals_under_attack_in_europe_a/
 > https://www.cisa.gov/uscert/ncas/alerts/aa22-076a
 > https://www.theregister.com/2022/03/21/in_brief_security/
+> https://arstechnica.com/information-technology/2022/03/a-mysterious-satellite-hack-has-victims-far-beyond-ukraine/
 
 https://www.theverge.com/2022/3/7/22965220/samsung-hack-lapsus-galaxy-source-code-confirmed-nvidia
 

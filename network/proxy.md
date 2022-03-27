@@ -21,6 +21,9 @@ https://github.com/anderspitman/awesome-tunneling
 https://openreplay.com/
 
 # News
+https://github.com/octeep/wireproxy
+> https://news.ycombinator.com/item?id=30816135
+
 https://blog.cloudflare.com/unlocking-quic-proxying-potential/
 
 https://mitmproxy.org/posts/releases/mitmproxy8/

@@ -180,6 +180,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
 # News
+https://www.highcaffeinecontent.com/blog/20220325-Intel-Virtualization-and-Apple-Silicon
+
 https://eclecticlight.co/2022/03/20/last-week-on-my-mac-is-look-up-destined-for-csam/
 > https://news.ycombinator.com/item?id=30744117
 

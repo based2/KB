@@ -32,6 +32,8 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://restic.net/blog/2022-03-26/restic-0.13.0-released/
+
 https://www.rsync.net/resources/notes/2021-q4-rsync.net_technotes.html
 > https://news.ycombinator.com/item?id=30591663
 

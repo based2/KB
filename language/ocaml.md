@@ -22,6 +22,8 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://github.com/rhysd/gocaml
+
 https://forge.ocamlcore.org/projects/ocamlunix/
 
 https://www.ocamlpro.com/blog/2022_01_31_2021_at_ocamlpro

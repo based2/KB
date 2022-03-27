@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://spectrum.ieee.org/axial-flux
+> https://news.ycombinator.com/item?id=30816149
+
 https://aviationweek.com/special-topics/sustainability/flyzero-unveils-final-hydrogen-powered-airliner-concepts
 > https://news.ycombinator.com/item?id=30701144
 

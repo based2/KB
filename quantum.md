@@ -67,6 +67,10 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.mit.edu/2022/quantum-circuits-robust-noise-0321
+
+https://quantumalgorithmzoo.org/
+
 https://ist.ac.at/en/news/characterizing-super-semi-sandwiches-for-quantum-computing/
 
 https://steveblank.com/2022/03/22/the-quantum-technology-ecosystem-explained/

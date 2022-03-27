@@ -230,6 +230,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://cerfacs.fr/coop/fortran-vs-python
+> https://news.ycombinator.com/item?id=30812086
+
+https://selectfrom.dev/dynamic-filtering-in-flink-af6939f3da2e
+
 https://github.com/AstraZeneca/judgyprophet Bayesian forecasting algorithm based on Prophet, python
 
 https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/

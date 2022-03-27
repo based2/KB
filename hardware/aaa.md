@@ -73,6 +73,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.tomshardware.com/news/nvidia-unveils-144-core-grace-cpu-superchip-claims-arm-chip-15x-faster-than-amds-epyc-rome
+> https://news.ycombinator.com/item?id=30788218
+
 https://www.nvidia.com/en-us/data-center/grace-cpu/
 > https://news.ycombinator.com/item?id=30768704
 https://www.tomshardware.com/news/nvidia-unveils-144-core-grace-cpu-superchip-claims-arm-chip-15x-faster-than-amds-epyc-rome

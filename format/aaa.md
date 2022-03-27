@@ -30,6 +30,9 @@ https://bellard.org/bpg/
 > https://news.ycombinator.com/item?id=30712944
 
 # News
+https://anachronauts.club/~voidstar/log/2022-03-24-openapi-for-binfmt.gmi
+> https://news.ycombinator.com/item?id=30806032
+
 https://jakearchibald.com/2020/avif-has-landed/
 
 https://blog.darrien.dev/posts/you-dont-know-gif/

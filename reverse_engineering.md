@@ -1,3 +1,7 @@
+https://github.com/cea-sec/miasm
+> https://news.ycombinator.com/item?id=30814085
+
+#
 https://gist.githubusercontent.com/plutooo/2aadbd4a718e269df474079dd2e584fb/raw/7b3af77b5202366c8934c88ef251f1e905967040/gistfile1.txt A one in a million bug in Switch kernel
 > https://news.ycombinator.com/item?id=30775433
 

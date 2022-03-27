@@ -25,3 +25,5 @@ https://www.gpsworld.com/russia-expected-to-ditch-glonass-for-loran-in-ukraine-i
 > https://news.ycombinator.com/item?id=30385174
 
 https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/
+
+https://destevez.net/2022/03/a-rust-implementation-of-galileo-osnma/

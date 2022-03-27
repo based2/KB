@@ -69,6 +69,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://news.ycombinator.com/item?id=30821096
+> https://en.wikipedia.org/wiki/Cryotron
+
 https://benbrubaker.com/of-lifetimes-and-linewidths/
 > https://news.ycombinator.com/item?id=30700564
 

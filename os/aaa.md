@@ -14,6 +14,9 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://archive.fosdem.org/2021/schedule/event/new_type_of_computer/
+> https://news.ycombinator.com/item?id=30811899
+
 http://phantomos.org/ VM Primary goal is to provide environment for programs that survive OS reboot, fileless
 > https://news.ycombinator.com/item?id=30807668
 > https://github.com/dzavalishin/phantomuserland

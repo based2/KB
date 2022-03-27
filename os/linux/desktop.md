@@ -45,6 +45,19 @@ https://github.com/casualsnek/cassowary run a Windows virtual machine and use Wi
 https://smackeyacky.blogspot.com/2022/03/rdp-clients-for-debian-incomplete-review.html
 > https://news.ycombinator.com/item?id=30693370
 
+# Application packagers
+
+https://flatpak.org/
+
+https://appimage.org/
+
+https://snapcraft.io/
+
+https://www.tranquil.it/en/manage-it-equipment/wapt/software-configurations-deployment/#software-deployment
+
+https://wiki.debian.org/Packaging/Intro
+> https://wiki.debian.org/HowToPackageForDebian
+
 # News
 https://telepathy.freedesktop.org/
 

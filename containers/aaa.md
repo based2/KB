@@ -36,6 +36,12 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/containers/bubblewrap Unprivileged sandboxing tool
+> https://news.ycombinator.com/item?id=30823164
+
+https://github.com/mody5bundle/capps
+> https://news.ycombinator.com/item?id=30811661
+
 https://www.nextplatform.com/2022/03/15/teaching-kubernetes-to-do-fractions-and-multiplication-on-gpus/
 
 https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry
@@ -44,7 +50,6 @@ https://blog.lizzie.io/linux-containers-in-500-loc.html
 > https://news.ycombinator.com/item?id=30623372
 
 https://sysdig.com/blog/triaging-malicious-docker-container/
->
 
 https://github.com/quickemu-project/quickemu
 

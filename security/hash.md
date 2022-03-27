@@ -8,6 +8,9 @@ https://sha256algorithm.com/
 > https://news.ycombinator.com/item?id=30244534
 > https://www.reddit.com/r/netsec/comments/smrdri/sha256_explained_stepbystep_visually/
 
+https://github.com/oconnor663/sha256_project
+> https://news.ycombinator.com/item?id=30809352
+
 https://rsk0315.github.io/playground/passwordle.html
 > https://news.ycombinator.com/item?id=30361850
 

@@ -51,6 +51,9 @@ https://www.qualcomm.com/news/releases/2022/02/28/new-snapdragon-x70-modem-rf-ha
 https://www.theregister.com/2022/03/03/report_casts_doubt_on_5g/
 > https://www.sciencedirect.com/science/article/pii/S1364032121012958 The energy use implications of 5G: Reviewing whole network operational energy, embodied energy, and indirect effects
 
+https://www.tbray.org/ongoing/When/202x/2022/03/26/Is-5G-BS
+> https://news.ycombinator.com/item?id=30821504
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
@@ -96,6 +99,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.theverge.com/2022/3/21/22988703/ios-tip-select-multiple-items-apple-apps-ipados
+> https://news.ycombinator.com/item?id=30820441
+
 https://openbts.org/
 
 https://bellard.org/lte/

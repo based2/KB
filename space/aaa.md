@@ -139,6 +139,13 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.mit.edu/2022/early-universe-model-0324
+
+https://www.orbiter-forum.com/threads/orbiter-council-to-guide-open-source-development.40409/
+
+https://github.com/Stellarium/stellarium/releases/tag/v0.22.0
+> https://news.ycombinator.com/item?id=30820367
+
 https://eartharxiv.org/repository/view/3208/ Unexpected space weather causing the reentry of 38 Starlink satellites
 > https://news.ycombinator.com/item?id=30809759
 

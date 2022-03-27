@@ -33,6 +33,8 @@ https://picower.mit.edu/news/neurons-are-fickle-electric-fields-are-more-reliabl
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.darpa.mil/program/our-research/darpa-and-the-brain-initiative
+
 https://norwegianscitechnews.com/2022/03/mini2p-an-open-source-miniature-brain-microscope/
 > https://news.ycombinator.com/item?id=30758859
 

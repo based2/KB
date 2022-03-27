@@ -81,6 +81,12 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://ariadne.space/2022/03/27/the-tragedy-of-gethostbyname/
+> https://news.ycombinator.com/item?id=30817408
+
+https://news.ycombinator.com/item?id=30818950 Ask HN: How do I secure the domain for my business?
+> https://www.gov.uk/guidance/keeping-your-domain-name-secure
+
 https://news.ycombinator.com/item?id=30756636 Ask HN: Is Apple down?
 
 https://bunny.net/blog/transforming-internet-routing-introducing-bunny-dns/

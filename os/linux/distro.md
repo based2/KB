@@ -62,6 +62,10 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://trisquel.info/en/trisquel-10-nabia-release-announcement
+
+https://news.ycombinator.com/item?id=30811520
+
 https://lists.debian.org/debian-vote/2022/03/msg00214.html	How Is Debian Doing?
 > https://news.ycombinator.com/item?id=30809491
 

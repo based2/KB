@@ -69,6 +69,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://aws.amazon.com/en/blogs/compute/running-cross-account-workflows-with-aws-step-functions-and-amazon-api-gateway/
+
 https://www.techradar.com/news/amazons-new-role-playing-game-can-help-you-build-your-aws-skills
 > https://news.ycombinator.com/item?id=30714288
 

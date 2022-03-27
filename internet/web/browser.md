@@ -30,6 +30,11 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.island.io/
+> https://techcrunch.com/2022/02/01/island-stealth-enterprise-browser/
+> > https://www.techradar.com/news/this-browser-youve-never-heard-of-is-now-worth-a-billion-dollars
+> https://news.ycombinator.com/item?id=30811808
+
 https://github.com/browserless/chrome/issues/2234 Starring your repo does not give you permission to spam me
 > 
 
