@@ -313,6 +313,9 @@ https://lucumr.pocoo.org/2022/1/30/unsafe-rust/ Uninitialized Memory: Unsafe Rus
 https://model-checking.github.io/kani/ Verification tool based on model checking
 > https://news.ycombinator.com/item?id=30786511
 
+https://highassurance.rs/
+> https://news.ycombinator.com/item?id=30829140
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

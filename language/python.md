@@ -208,6 +208,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/Onelinerhub/onelinerhub/labels/python-numpy
+> https://news.ycombinator.com/item?id=30829009
+
 https://2022.pycon.de/program/SBCNDY/ Python 3.11 in the Web Browser - A Journey
 
 https://medium.com/capital-one-tech/bashing-the-bash-replacing-shell-scripts-with-python-d8d201bc0989

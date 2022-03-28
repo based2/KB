@@ -70,6 +70,7 @@ https://aws.amazon.com/en/service-terms/ 42.10
 
 # News
 https://aws.amazon.com/en/blogs/compute/running-cross-account-workflows-with-aws-step-functions-and-amazon-api-gateway/
+> https://news.ycombinator.com/item?id=30811980
 
 https://www.techradar.com/news/amazons-new-role-playing-game-can-help-you-build-your-aws-skills
 > https://news.ycombinator.com/item?id=30714288

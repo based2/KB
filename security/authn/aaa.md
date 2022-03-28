@@ -59,6 +59,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://fusionauth.io/learn/expert-advice/oauth/saml-vs-oauth
+
 https://boxyhq.com/
 > https://news.ycombinator.com/item?id=30767084
 

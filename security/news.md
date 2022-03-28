@@ -1,3 +1,17 @@
+https://claroty.com/2022/03/24/blog-research-splunk-patches-indexer-vulnerability-disclosed-by-team82/
+
+https://github.com/zadewg/RIUS
+> https://www.reddit.com/r/netsec/comments/tnpdu3/rtlo_injection_uri_spoofing_cve202020093_20094/
+
+https://www.catonetworks.com/blog/how-to-detect-dns-tunneling-in-the-network/
+> https://www.reddit.com/r/programming/comments/tpfkwi/how_to_detect_dns_tunneling_in_the_network/
+
+https://www.security-database.com/detail.php?alert=CVE-2022-0342 
+
+https://securityaffairs.co/wordpress/129536/security/sophos-firewall-authentication-bypass-flaw.html
+
+https://madaidans-insecurities.github.io/linux.html
+
 https://github.com/microsoft/SymCrypt
 
 https://a16z.com/2022/03/27/crypto-airdrop-privacy-tool-zero-knowledge-proofs/
@@ -12,6 +26,7 @@ https://blog.google/threat-analysis-group/countering-threats-north-korea/
 > https://news.ycombinator.com/item?id=30822370
 > > https://www.forbes.com/sites/daveywinder/2022/03/26/google-confirms-emergency-security-update-for-32-billion-chrome-users-attacks-underway/
 > > > https://news.ycombinator.com/item?id=30813779
+> https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-1096 edge
 
 https://cycode.com/blog/github-actions-vulnerabilities/
 

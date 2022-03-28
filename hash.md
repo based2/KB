@@ -80,6 +80,8 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://www.andreinc.net/2022/03/15/perfect-hashing-with-java
+
 https://preshing.com/20110504/hash-collision-probabilities/
 
 https://taxicat1.github.io/hash6432shift_inversion.html

@@ -60,6 +60,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://re-search.xyz/writing/what-i-learned-from-running-a-concierge-search-engine
+
 https://teclis.com/
 > https://news.ycombinator.com/item?id=30783037
 

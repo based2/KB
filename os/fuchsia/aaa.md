@@ -21,6 +21,9 @@ https://github.com/dahliaOS/pangolin_desktop
 > https://news.ycombinator.com/item?id=30460120
 
 # News
+https://fuchsia.dev/fuchsia-src/development/build/build_workstation
+> https://news.ycombinator.com/item?id=30827210
+
 https://cs.opensource.google/fuchsia/fuchsia/+/main:src/lib/ui/carnelian/
 
 https://9to5google.com/2022/03/25/fuchsia-engineering-director-mckillop-departs/

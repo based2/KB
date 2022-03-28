@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://fossforce.com/2022/03/why-almalinux-is-the-distro-to-beat-in-the-centos-linux-replacement-arena/
+> https://news.ycombinator.com/item?id=30831620
+
 https://trisquel.info/en/trisquel-10-nabia-release-announcement
 
 https://news.ycombinator.com/item?id=30811520

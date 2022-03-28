@@ -151,6 +151,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://benghancock.github.io/blog/2022/tao-of-acme.html
+> https://news.ycombinator.com/item?id=30822743
+
 https://lapce.dev/ Rust
 > https://news.ycombinator.com/item?id=30708505
 

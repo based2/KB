@@ -249,8 +249,19 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://statmodeling.stat.columbia.edu/2022/03/28/is-open-ai-cooking-the-books-on-gpt-3/
+> https://news.ycombinator.com/item?id=30832465
+
+https://www.assemblyai.com/blog/beginners-guide-to-torchstudio-pytorch-only-ide/
+
+https://tracklify.com/blog/gpt-j-is-self-hosted-open-source-analog-of-gpt-3-how-to-run-in-docker/
+> https://news.ycombinator.com/item?id=30824597
+
+https://flower.dev/
+> https://news.ycombinator.com/item?id=30829002
+
 https://github.com/chekoduadarsh/BlocklyML
->
+> https://news.ycombinator.com/item?id=30821434
 
 https://towardsdatascience.com/word2vec-explained-49c52b4ccb71
 > https://news.ycombinator.com/item?id=30820299

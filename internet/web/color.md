@@ -65,6 +65,8 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://nigeltao.github.io/blog/2022/premultiplied-alpha.html
+
 https://github.com/arnelenero/simpler-color
 > https://news.ycombinator.com/item?id=30694354
 

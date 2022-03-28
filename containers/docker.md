@@ -55,6 +55,9 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://github.com/ArchiveBox/good-karma-kit Docker Compose project to run on servers with spare CPU, disk, and bandwidth. tor exit node
+> https://news.ycombinator.com/item?id=30830808
+
 https://www.trickster.dev/post/running-gui-apps-within-docker-containers/
 > https://news.ycombinator.com/item?id=30810410
 

@@ -115,6 +115,12 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://getpopfile.org/ Automatically sorts your email messages and fights spam
+> https://news.ycombinator.com/item?id=30832699
+
+https://marc.info/?l=postfix-users&m=164841848519002&w=2
+> https://news.ycombinator.com/item?id=30831342
+
 https://news.ycombinator.com/item?id=30713068 Ask HN: Yahoo disregarding RFC 5321 retries
 
 https://mailcow.email/

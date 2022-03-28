@@ -28,6 +28,8 @@ https://sfconservancy.org/blog/2021/dec/28/vizio-update-1/
 https://www.vice.com/en/article/qjbnp3/right-to-repair-groups-and-farmers-unions-file-ftc-complaint-against-john-deere
 > https://news.ycombinator.com/item?id=30566953
 
+https://old.reddit.com/r/onewheel/comments/tjc2ek/onewheel_uses_copyright_to_prevent_righttorepair/
+
 #
 https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i
 > https://news.ycombinator.com/item?id=27576120

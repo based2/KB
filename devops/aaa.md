@@ -104,6 +104,8 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.blog/2022-03-28-how-to-secure-your-end-to-end-supply-chain-on-github/
+
 https://about.gitlab.com/blog/2022/03/24/efficient-free-tier/ Upcoming changes to user limits on Free tier of Gitlab SaaS
 > https://news.ycombinator.com/item?id=30791162
 

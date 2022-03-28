@@ -181,6 +181,7 @@ https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-t
 
 # News
 https://www.highcaffeinecontent.com/blog/20220325-Intel-Virtualization-and-Apple-Silicon
+> https://news.ycombinator.com/item?id=30812855
 
 https://eclecticlight.co/2022/03/20/last-week-on-my-mac-is-look-up-destined-for-csam/
 > https://news.ycombinator.com/item?id=30744117

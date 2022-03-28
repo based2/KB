@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://www.wowsignal.io/articles/pdf PDF cannot be tokenized (fixing rsc/pdf)
+> https://www.reddit.com/r/programming/comments/tpmlun/why_you_cant_tokenize_pdf_and_patching_gos_pdf/
+
 https://news.ycombinator.com/item?id=30709524 Show HN: PDF API – Generate, convert, and modify PDF documents
 
 https://eco.kde.org/blog/2022-03-16-press-release-okular-blue-angel/

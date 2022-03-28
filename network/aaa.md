@@ -100,6 +100,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://mikrotik.com/product/ccr2004_1g_2xs_pcie adds full-fledged router capabilities to your servers
+> https://news.ycombinator.com/item?id=30832134
+
 https://github.com/Mellanox/mlxsw/wiki/Packet-Drops-Monitoring
 
 https://github.com/kognise/arpchat

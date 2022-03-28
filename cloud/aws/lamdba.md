@@ -70,6 +70,9 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/
+> https://news.ycombinator.com/item?id=30827038
+
 https://aws.amazon.com/en/blogs/aws/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/
 > https://news.ycombinator.com/item?id=30795314
 

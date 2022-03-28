@@ -35,6 +35,9 @@ https://www.7-zip.org/download.html
 https://www.lzop.org/
 
 # News
+https://www.openwall.com/lists/oss-security/2022/03/28/1 Re: zlib memory corruption on deflate (i.e. compress)
+> https://news.ycombinator.com/item?id=30828743
+
 https://kevincox.ca/2022/03/01/dictionary-compression/
 > https://news.ycombinator.com/item?id=30517656
 

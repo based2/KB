@@ -184,6 +184,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://wattenberger.com/blog/css-cascade
+> 
+
 https://twitter.com/stevenpemberton/status/1505839184287870981 important was added for one reason only: laws in the US that require certain text to be in a given font-size. !important stops the cascade from changing it.
 > https://news.ycombinator.com/item?id=30757259
 

@@ -142,7 +142,8 @@ https://incident.io/blog/one-two-skip-a-few Postgres sequences can skip 32 unexp
 
 ## Audit
 https://supabase.com/blog/2022/03/08/audit
-> https://news.ycombinator.com/item?id=30615470 
+> https://news.ycombinator.com/item?id=30615470
+> https://www.reddit.com/r/programming/comments/tpj6zk/postgres_auditing_in_150_lines_of_sql/
 
 ## Backup
 https://abishekmuthian.com/backup-postgresql-to-cloud/
@@ -237,6 +238,11 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=7103ebb7aae8ab8076b7e85f335ceb8fe799097c
+
+https://github.com/gurjeet/pg_plan_guarantee
+> https://news.ycombinator.com/item?id=30825069
+
 https://github.com/porsager/postgres js
 > https://news.ycombinator.com/item?id=30794332
 

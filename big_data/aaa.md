@@ -90,7 +90,9 @@ https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a
 https://devclass.com/2021/12/02/jupyterhub-2/
 
 https://github.com/mljar/mercury
->
+
+https://github.com/mljar/bloxs
+> https://news.ycombinator.com/item?id=30828962
 
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
@@ -238,7 +240,6 @@ https://selectfrom.dev/dynamic-filtering-in-flink-af6939f3da2e
 https://github.com/AstraZeneca/judgyprophet Bayesian forecasting algorithm based on Prophet, python
 
 https://stackoverflow.blog/2022/03/03/stop-aggregating-away-the-signal-in-your-data/
->
 
 https://www.openintro.org/book/ims/
 
