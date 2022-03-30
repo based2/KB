@@ -25,6 +25,8 @@ https://blog.oyanglul.us/scala/dotty/en/generic-type-class-derivation
 
 https://typelevel.org/cats-effect/docs/concepts
 
+https://github.com/scalacenter/bloop
+
 # DI
 https://github.com/yakivy/jam
 
@@ -74,6 +76,8 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://alvinalexander.com/scala/what-effects-effectful-mean-in-functional-programming/
+
 https://softwaremill.com/three-tools-to-improve-your-scala-workflow/
 
 https://scala-lang.org/blog/2022/03/08/finding-awesome-libraries.html

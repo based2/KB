@@ -43,6 +43,8 @@ https://news.ycombinator.com/item?id=30117388
 https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/
 > https://news.ycombinator.com/item?id=30222736
 
+https://linuxfr.org/news/sortie-de-rspamd-3-2-le-26-mars-2022-avec-support-bimi
+
 # Security
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/
@@ -109,6 +111,8 @@ https://github.com/knadh/listmonk
 https://spamassassin.apache.org/
 
 https://www.semanticscholar.org/paper/Spamalot%3A-A-Toolkit-for-Consuming-Spammers%27-Nelson-Dallmeyer/97b8c4e291835ca3d11e0e6d924dc436ea31a4c7?p2df
+
+https://news.ycombinator.com/item?id=30838564
 
 # New mail systems
 https://liw.fi/rethinking-email/

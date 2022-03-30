@@ -174,6 +174,9 @@ https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html
 
 https://immerjs.github.io/immer/
 
+https://reactjs.org/blog/2022/03/29/react-v18.html
+> https://news.ycombinator.com/item?id=30844414
+
 ## AngularJS - Google
 https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49
  'now defaults to production' ?
@@ -522,6 +525,8 @@ https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
 https://www.davidhaney.io/npm-left-pad-have-we-forgotten-how-to-program/
 
 https://github.com/ReevaJS/reeva JVM JS Engine Kotlin
+
+https://github.com/boa-dev/boa rust
 
 https://github.com/romellogoodman/flow-field.js
 > https://news.ycombinator.com/item?id=29378522

@@ -29,6 +29,9 @@ https://www.linusakesson.net/programming/pipelogic/index.php
 https://danluu.com/why-hardware-development-is-hard/ Verilog is weird
 > https://news.ycombinator.com/item?id=30739866
 
+https://www.electropedia.org/
+> https://news.ycombinator.com/item?id=30853442
+
 # Microcontroller
 https://github.com/TUDSSL/BFree
 > https://news.ycombinator.com/item?id=29358044

@@ -50,6 +50,11 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 ## Landing zone cost
 
 # News
+https://www.stackit.de/en
+> https://news.ycombinator.com/item?id=30853778
+
+https://lists.apache.org/list?announce@apache.org:2022-3 Apache jclouds 2.5.0 released
+
 https://status.digitalocean.com/incidents/hmytdxqm07v4
 
 https://danielcompton.net/2022/03/21/penny-wise-cloud-foolish

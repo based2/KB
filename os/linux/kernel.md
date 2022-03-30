@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.theregister.com/2022/03/29/google_kernel_patch/
+
 https://www.efficios.com/blog/2019/02/08/linux-restartable-sequences/
 
 https://www.theregister.com/2022/03/18/bcachefs/

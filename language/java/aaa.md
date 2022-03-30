@@ -255,9 +255,12 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.i-programmer.info/news/80-java/15317-wheres-java-going-in-2022.html
+
 https://blog.picnic.nl/embracing-java-17-heres-what-we-learned-69779d95fdf2
 
 https://openjdk.java.net/jeps/419 JEP 419: Foreign Function & Memory API (Second Incubator), Closed/Delivered, JDK 18
+> https://news.ycombinator.com/item?id=30812156
 
 https://www.reddit.com/r/java/comments/tnvoll/pattern_assignment_brian_goetz/
 

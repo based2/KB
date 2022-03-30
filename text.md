@@ -19,6 +19,8 @@ https://github.com/apankrat/notes/tree/master/fast-case-conversion
 > https://news.ycombinator.com/item?id=28854808
 
 # Search
+
+https://github.com/pyjarrett/septum Context-based code search tool, Ada
 ## Boyer-Moore Fast String Searching Algorithm
 https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/
 > https://news.ycombinator.com/item?id=26910982
@@ -116,6 +118,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://www.mcclimon.org/blog/writing-text-with-flag-emojis/
+
 https://github.com/wolfgarbe/SymSpell Spelling correction & Fuzzy search
 
 https://serhack.me/articles/unveiling-anonymous-author-stylometry-techniques/

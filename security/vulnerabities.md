@@ -227,6 +227,9 @@ https://en.wikipedia.org/wiki/Padding_oracle_attack
 ## 2001
 https://en.wikipedia.org/wiki/Fluhrer,_Mantin_and_Shamir_attack RC4 WEP
 
+https://en.wikipedia.org/wiki/Code_Red_(computer_worm)
+> https://en.wikipedia.org/wiki/Code_Red_II
+
 ## 2000
 https://en.wikipedia.org/wiki/ILOVEYOU Windows VB
 

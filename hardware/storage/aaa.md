@@ -1,4 +1,8 @@
 # News
+https://petapixel.com/2020/12/26/fujifilm-created-a-magnetic-tape-that-can-store-580-terabytes/
+
+https://zonedstorage.io/
+
 https://blog.quindorian.org/2021/05/firmware-update-samsung-ssd-in-linux.html/
 > https://news.ycombinator.com/item?id=30696491
 

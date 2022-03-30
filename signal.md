@@ -29,6 +29,11 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.johndcook.com/blog/2022/03/30/portable-am-radio/
+> https://news.ycombinator.com/item?id=30858856
+
+https://en.wikipedia.org/wiki/AMPRNet
+
 https://www.ll.mit.edu/sites/default/files/page/doc/2018-05/21_1_4_MacDonald.pdf
 > https://news.ycombinator.com/item?id=30719871
 

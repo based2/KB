@@ -139,6 +139,13 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.nasa.gov/feature/goddard/2022/record-broken-hubble-spots-farthest-star-ever-seen
+
+https://news.ycombinator.com/item?id=30850625
+
+https://peer.org/un-bans-mercury-satellite-propellants-under-new-minamata-treaty-provisions/
+> https://news.ycombinator.com/item?id=30836756
+
 https://news.mit.edu/2022/early-universe-model-0324
 
 https://www.orbiter-forum.com/threads/orbiter-council-to-guide-open-source-development.40409/

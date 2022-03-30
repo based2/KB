@@ -103,6 +103,8 @@ https://github.com/anishathalye/porcupine
 https://asatarin.github.io/testing-distributed-systems/
 
 # News
+https://queue.acm.org/detail.cfm?id=3526967 Distributed Latency Profiling through Critical Path Tracing
+
 https://martin.kleppmann.com/papers/move-op.pdf A highly-available move operation for replicated trees
 
 https://250bpm.com/blog:71/ Structured Concurrency

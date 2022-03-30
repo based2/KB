@@ -36,6 +36,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://plocate.sesse.net/ plocate, a much faster locate
+> https://news.ycombinator.com/item?id=30848699
+
 https://opensource.com/article/22/2/new-sudo-features-2022
 
 https://github.com/junegunn/fzf finder

@@ -1,3 +1,35 @@
+https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/
+
+https://binarly.io/posts/AMI_UsbRt_Repeatable_Failures_A_6_year_old_attack_vector_still_affecting_millions_of_enterprise_devices/index.html
+
+https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
+
+https://www.cyberkendra.com/2022/03/springshell-rce-0-day-vulnerability.html
+
+https://billdemirkapi.me/exception-oriented-programming-abusing-exceptions-for-code-execution-part-1/
+> https://news.ycombinator.com/item?id=30841425
+
+https://twitter.com/QuinnyPig/status/1508965090019577856 security breach Ubiquiti
+> https://news.ycombinator.com/item?id=30850416
+
+https://www.theregister.com/2022/03/30/sentinelone_microsoft_azure_iot/
+
+https://www.ccc.de/en/updates/2022/etappensieg-finfisher-ist-pleite
+> https://news.ycombinator.com/item?id=30852255
+
+https://cacm.acm.org/magazines/2022/2/258227-static-analysis-at-github/fulltext
+> https://news.ycombinator.com/item?id=30854916
+
+https://www.cyberagentur.de/strategie-bis-2025/
+
+https://www.bleepingcomputer.com/news/security/critical-sonicwall-firewall-patch-not-released-for-all-devices/
+
+https://krebsonsecurity.com/2022/03/hackers-gaining-power-of-subpoena-via-fake-emergency-data-requests/
+> https://news.ycombinator.com/item?id=30842757
+
+https://lwn.net/ml/oss-security/1b176761-5462-4f25-db12-1b988c81c34a@gmail.com/ [oss-security] Linux kernel: CVE-2022-1015,CVE-2022-1016 in nf_tables cause privilege escalation, information leak
+> https://news.ycombinator.com/item?id=30838037
+
 https://claroty.com/2022/03/24/blog-research-splunk-patches-indexer-vulnerability-disclosed-by-team82/
 
 https://github.com/zadewg/RIUS
@@ -47,6 +79,8 @@ https://googleprojectzero.blogspot.com/2022/03/racing-against-clock-hitting-tiny
 
 https://arstechnica.com/information-technology/2022/03/fcc-puts-kaspersky-on-security-threat-list-says-it-poses-unacceptable-risk/
 > https://news.ycombinator.com/item?id=30806181
+> https://hothardware.com/news/kaspersky-declared-us-national-security-threat-banned-fcc
+> > https://news.ycombinator.com/item?id=30842511
 
 https://github.com/nonamecoder/CVE-2022-27254 Honda's Remote Keyless System
 > https://news.ycombinator.com/item?id=30804702
@@ -70,6 +104,8 @@ https://news.ycombinator.com/item?id=30762520
 > https://news.ycombinator.com/item?id=30779255
 > https://blog.cloudflare.com/cloudflare-investigation-of-the-january-2022-okta-compromise/
 > > https://news.ycombinator.com/item?id=30768590
+> https://twitter.com/BillDemirkapi/status/1508527487655067660/
+> > https://news.ycombinator.com/item?id=30841413
 
 https://www.trustworthy.systems/projects/TS/makatea_reqts.pdf x86-64 VMM for seL4: Security Analysis and Requirements
 

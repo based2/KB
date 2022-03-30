@@ -17,6 +17,8 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://www.containiq.com/post/hadolint Using Hadolint, a Dockerfile linter, To Enforce Best Practices
+
 https://unit42.paloaltonetworks.com/siloscape/
 
 https://nvd.nist.gov/vuln/detail/CVE-2021-41190 -> OCI 1.0.1 of the spec

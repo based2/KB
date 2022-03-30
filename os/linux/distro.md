@@ -62,6 +62,16 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://fedoramagazine.org/announcing-fedora-36-beta/
+> https://linuxfr.org/news/sortie-de-fedora-36-beta
+
+https://rollingrhinoremix.github.io/
+> https://news.ycombinator.com/item?id=30817555
+
+https://lwn.net/Articles/889444/ Debian decides to allow secret votes
+
+https://www.debian.org/News/2022/20220326 Debian 11.3
+
 https://fossforce.com/2022/03/why-almalinux-is-the-distro-to-beat-in-the-centos-linux-replacement-arena/
 > https://news.ycombinator.com/item?id=30831620
 

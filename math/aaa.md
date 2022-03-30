@@ -78,6 +78,9 @@ https://www.quantamagazine.org/how-tadayuki-watanabe-solved-a-topological-myster
 
 https://en.wikipedia.org/wiki/Indecomposable_continuum
 
+http://xahlee.info/SpecialPlaneCurves_dir/specialPlaneCurves.html
+> https://news.ycombinator.com/item?id=30853624
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705

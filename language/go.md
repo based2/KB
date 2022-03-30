@@ -75,6 +75,8 @@ https://github.com/maxatome/go-testdeep Extremely flexible golang deep compariso
 > https://go-testdeep.zetta.rocks/
 > > https://go-testdeep.zetta.rocks/prez/#1 go-testdeep
 
+https://blog.fuzzbuzz.io/go-fuzzing-basics/
+
 ## Profiler
 https://eng.uber.com/pprof-go-profiler/
 > https://news.ycombinator.com/item?id=27118541
@@ -84,6 +86,10 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://planetscale.com/blog/why-we-chose-nanoids-for-planetscales-api#generating-nanoid%27s-in-go
+
+https://notes.eatonphil.com/documentdb.html
+
 https://encore.dev/blog/go-1.18-generic-identifiers
 > https://github.com/rs/xid Globally Unique ID Generator
 > https://www.reddit.com/r/golang/comments/tnlfdc/how_we_used_go_118_generics_when_designing_our/

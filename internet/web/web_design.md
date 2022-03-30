@@ -77,6 +77,11 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://www.plainlanguage.gov/
+
+https://designsystem.digital.gov/
+> https://news.ycombinator.com/item?id=30844002
+
 https://tdarb.org/blog/hamburger-menu-alternative.html
 
 https://open-ui.org/charter

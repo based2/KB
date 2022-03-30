@@ -100,6 +100,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://yuuk.io/papers/transtracer_jip2022.pdf Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies
+
 https://mikrotik.com/product/ccr2004_1g_2xs_pcie adds full-fledged router capabilities to your servers
 > https://news.ycombinator.com/item?id=30832134
 

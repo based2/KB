@@ -32,3 +32,5 @@ https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional
 https://github.com/microsoft/snmalloc
 
 https://nullprogram.com/blog/2022/03/13/
+
+https://bergel.eu/MyPapers/Fern22a-ACMSurvey.pdf Software Visualizations to Analyze Memory Consumption: A Literature Review

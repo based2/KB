@@ -26,6 +26,12 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://newatlas.com/energy/hb11-laser-fusion-demonstration/
+> https://news.ycombinator.com/item?id=30841080
+
+https://www.mdpi.com/2076-3417/12/3/1444/htm
+> https://news.ycombinator.com/item?id=30852052
+
 https://www.whitehouse.gov/ostp/events-webinars/ White House Summit: Developing a Bold Decadal Vision for Commercial Fusion Energy
 > https://news.ycombinator.com/item?id=30721582
 

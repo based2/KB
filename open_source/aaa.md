@@ -191,6 +191,14 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/
+> https://news.ycombinator.com/item?id=30854451
+> https://github.com/OpenBB-finance/OpenBBTerminal
+
+https://www.optaplanner.org/blog/2022/03/07/Real-time+planning+meets+the+SolverManager.html
+
+https://frepple.org/ Advanced Planning and Scheduling (APS)
+
 https://www.theregister.com/2022/03/28/hashicorp_interview/
 
 https://protesilaos.com/codelog/2022-03-22-libreplanet-fsf-award/

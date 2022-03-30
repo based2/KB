@@ -89,4 +89,6 @@ https://vladmihalcea.com/custom-spring-data-repository/
 
 https://hilla.dev/
 
+https://github.com/oskardudycz/EventSourcing.JVM/tree/main/samples/event-sourcing-esdb-simple
+
 https://spring.io/blog/2022/01/05/spring-framework-cve-2021-22060-has-been-published

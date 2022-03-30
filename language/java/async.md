@@ -34,6 +34,8 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://vertx.io/blog/eclipse-vert-x-4-2-6/
+
 https://kamalhm.dev/configuring-connection-pool-with-spring-r2dbc
 
 https://medium.com/geekculture/batch-processing-using-completablefuture-and-blocking-queue-under-high-concurrency-scenario-3a1f8478588a

@@ -258,6 +258,7 @@ https://medium.com/@kestra-io/introducing-kestra-infinitely-scalable-open-source
 > https://kestra.io/docs/terraform/
 > https://kestra.io/docs/user-interface-guide/
 > > https://news.ycombinator.com/item?id=30790047
+> > https://www.reddit.com/r/java/comments/tmpfv5/kestra_opensource_airflow_alternative/
 
 https://www.datamesh-architecture.com/
 

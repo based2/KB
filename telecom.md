@@ -74,6 +74,9 @@ https://news.ycombinator.com/item?id=26778236
 
 https://en.wikipedia.org/wiki/Project_Sanguine
 
+https://www.electrospaces.net/2022/03/the-phones-of-ukrainian-president.html
+> https://news.ycombinator.com/item?id=30840029
+
 # RADIO SDR
 https://github.com/cariboulabs/cariboulite
 > https://news.ycombinator.com/item?id=27539834

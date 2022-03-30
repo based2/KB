@@ -249,6 +249,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://eclecticlight.co/2022/03/30/the-hunt-for-the-m1s-neural-engine/
+> https://news.ycombinator.com/item?id=30852818
+
 https://statmodeling.stat.columbia.edu/2022/03/28/is-open-ai-cooking-the-books-on-gpt-3/
 > https://news.ycombinator.com/item?id=30832465
 

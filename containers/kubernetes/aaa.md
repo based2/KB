@@ -62,6 +62,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://blog.px.dev/nodepool-upgrades/
+
 https://ubuntu.com/blog/microk8s-memory-optimisation
 > https://news.ycombinator.com/item?id=30802321
 

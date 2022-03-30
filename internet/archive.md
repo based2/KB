@@ -62,6 +62,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://computerhistory.org/blog/mission-impossible-chm-edition/ compuserve
+> https://news.ycombinator.com/item?id=30848845
+
 https://selfhostedheaven.com/posts/20220228-help-out-archiving/
 > https://news.ycombinator.com/item?id=30524842
 

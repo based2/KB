@@ -19,3 +19,6 @@ https://petewarden.com/2022/01/06/launching-spchcat-an-open-source-speech-recogn
 
 https://qosmo.jp/en/projects/ai-dj-project2-ubiquitous-rhythm/
 > https://news.ycombinator.com/item?id=30475880
+
+https://gradio.app/real_time_speech_recognition/
+> https://news.ycombinator.com/item?id=30850596

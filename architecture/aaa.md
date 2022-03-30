@@ -126,6 +126,9 @@ https://johnysswlab.com/vectorization-dependencies-and-outer-loop-vectorization-
 https://www.brendangregg.com/perf.html
 > https://news.ycombinator.com/item?id=30710280
 
+https://lemire.me/blog/2022/03/28/converting-integers-to-decimal-strings-faster-with-avx-512/
+> https://news.ycombinator.com/item?id=30845228
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

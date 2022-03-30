@@ -25,6 +25,8 @@ https://github.com/quay/clair Red Hat
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
 # News
+https://sysdig.com/blog/guide-kubernetes-forensics-dfir/
+
 https://www.zdnet.com/article/nsa-and-cisa-heres-how-to-improve-your-kubernetes-cluster-security/
 
 https://thenewstack.io/edgeless-systems-brings-confidential-computing-to-kubernetes/

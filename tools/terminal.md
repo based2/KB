@@ -32,6 +32,8 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://solovyov.net/blog/2020/useful-shell-prompt/
+
 https://sw.kovidgoyal.net/kitty/
 > https://news.ycombinator.com/item?id=30779782
 

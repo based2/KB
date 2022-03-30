@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://twitter.com/awesomekling/status/1508953394836353024
+> https://news.ycombinator.com/item?id=30853392
+
 https://www.island.io/
 > https://techcrunch.com/2022/02/01/island-stealth-enterprise-browser/
 > > https://www.techradar.com/news/this-browser-youve-never-heard-of-is-now-worth-a-billion-dollars

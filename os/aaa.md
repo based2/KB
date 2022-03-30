@@ -14,6 +14,11 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://www.theregister.com/2022/03/29/non_c_operating_systems/
+
+https://mirage.io/blog/announcing-mirage-40 ocaml
+> https://news.ycombinator.com/item?id=30840571
+
 https://brutal.smnx.sh/articles/milestone-4
 > https://news.ycombinator.com/item?id=30829019
 

@@ -61,6 +61,9 @@ https://searchdatamanagement.techtarget.com/news/252512512/Apache-Kafka-31-opens
 https://github.com/edenhill/librdkafka
 > https://news.ycombinator.com/item?id=30787254
 
+https://arnoldgalovics.com/spring-batch-remote-partitioning-kafka/
+> https://www.reddit.com/r/java/comments/ts190r/scaling_spring_batch_processing_with_partitioning/
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

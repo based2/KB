@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://github.com/deepnight/ldtk 2d editor
+
 https://github.com/icculus/SDL_sound/releases/tag/v2.0.1
 
 https://news.ycombinator.com/item?id=30788475 Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat

@@ -71,6 +71,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://grafana.com/oss/mimir/
+
 https://rubrikinc.github.io/wachy/ UI for eBPF-based performance debugging
 
 https://github.com/emoacht/Monitorian

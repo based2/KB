@@ -195,6 +195,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://nickb.dev/blog/designing-a-rest-api-unix-time-vs-iso-8601
+> https://news.ycombinator.com/item?id=30854563
+
 https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/
 > https://news.ycombinator.com/item?id=30659164
 

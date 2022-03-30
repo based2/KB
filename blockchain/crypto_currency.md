@@ -20,6 +20,8 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://ez.substack.com/p/the-infinite-exploitation-of-cryptocurrency?s=r
+
 https://www.mollywhite.net/annotations/latecomers-guide-to-crypto#
 > https://news.ycombinator.com/item?id=30804984
 
