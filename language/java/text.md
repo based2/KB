@@ -7,4 +7,7 @@ https://richardstartin.github.io/posts/brittle-spliterator-characteristics
 # Search
 
 Multiple contains:
-https://github.com/robert-bor/aho-corasick 
+https://github.com/robert-bor/aho-corasick
+
+#
+https://www.reddit.com/r/java/comments/tsn5o9/rope_implementation_in_java/

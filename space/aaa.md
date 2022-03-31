@@ -139,6 +139,12 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://arstechnica.com/science/2022/03/impulse-space-is-betting-on-a-future-where-launch-is-cheap/
+> https://news.ycombinator.com/item?id=30853465
+
+https://www.esa.int/Applications/Navigation/Turn_your_phone_into_a_space_monitoring_tool
+> https://news.ycombinator.com/item?id=30864470
+
 https://www.nasa.gov/feature/goddard/2022/record-broken-hubble-spots-farthest-star-ever-seen
 
 https://news.ycombinator.com/item?id=30850625

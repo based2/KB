@@ -77,6 +77,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/
+> https://news.ycombinator.com/item?id=30852884
+
 https://www.plainlanguage.gov/
 
 https://designsystem.digital.gov/

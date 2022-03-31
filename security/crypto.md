@@ -108,6 +108,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.cs.uky.edu/~klapper/pdf/algebraic.pdf Algebraic Shift Register Sequences
+
 https://kerkour.com/rust-cryptography-ecosystem
 
 https://cr.yp.to/critbit.html

@@ -41,6 +41,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.beewise.ag/
+> https://news.ycombinator.com/item?id=30865323
+
 https://www.luos.io/blog/how-to-stop-being-controlled-by-your-dc-motor-reverse-the-roles
 > 
 

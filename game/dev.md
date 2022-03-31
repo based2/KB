@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://www.vega-strike.org/ Open Source Cross-Platform 3D Space Flight Simulator that allows a player to explore, trade, and fight in the vast open space
+
 https://github.com/deepnight/ldtk 2d editor
 
 https://github.com/icculus/SDL_sound/releases/tag/v2.0.1

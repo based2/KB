@@ -1,3 +1,6 @@
+https://gettotext.com/raspberry-pi-and-aldi-medion-presents-notebook-based-on-raspberry-pi/
+> https://news.ycombinator.com/item?id=30866882
+
 https://www.curtisswrightds.com/news/press-release/raspberry-pi-powered-ultra-small-form-factor-rugged-mission-computer.html
 > https://news.ycombinator.com/item?id=30762316
 

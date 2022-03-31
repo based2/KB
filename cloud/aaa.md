@@ -49,6 +49,26 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 
 ## Landing zone cost
 
+# Resizing a disk
+
+## Azure
+https://www.gocloudforce.com/insights/downsize-disk-on-azure-vm/
+
+https://jrudlin.github.io/2019-08-27-shrink-azure-vm-osdisk/
+
+## AWS
+https://www.falexandrou.com/2018/02/14/downsizing-root-ebs-volume/
+
+https://aws.amazon.com/en/blogs/storage/automating-amazon-ebs-volume-resizing-with-aws-step-functions-and-aws-systems-manager/
+
+## GCP
+
+https://engineering.mixpanel.com/live-downsizing-google-cloud-persistent-disks-for-fun-and-profit-mixpanel-engineering-c84869a3dd73
+
+# Serverless
+https://supabase.com/blog/2022/03/31/supabase-edge-functions
+> https://news.ycombinator.com/item?id=30868849
+
 # News
 https://www.stackit.de/en
 > https://news.ycombinator.com/item?id=30853778

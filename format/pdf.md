@@ -20,6 +20,8 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://news.ycombinator.com/item?id=30865719 Tell HN: Adobe took down the PDF 1.7 specification from their site
+
 https://www.wowsignal.io/articles/pdf PDF cannot be tokenized (fixing rsc/pdf)
 > https://www.reddit.com/r/programming/comments/tpmlun/why_you_cant_tokenize_pdf_and_patching_gos_pdf/
 

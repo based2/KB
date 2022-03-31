@@ -12,6 +12,12 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/SubscriberLink/888914/e81588082fa3b858/ Pointer tagging for x86 systems
+> https://news.ycombinator.com/item?id=30865423
+
+https://lwn.net/SubscriberLink/889475/49f2802ec4d2c32a/ Indirect branch tracking for Intel CPUs
+> https://news.ycombinator.com/item?id=30868032
+
 https://www.theregister.com/2022/03/29/google_kernel_patch/
 
 https://www.efficios.com/blog/2019/02/08/linux-restartable-sequences/

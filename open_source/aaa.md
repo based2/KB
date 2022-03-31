@@ -191,6 +191,12 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://blog.joinmastodon.org/2022/03/mastodon-3.5/
+> https://news.ycombinator.com/item?id=30862612
+
+https://threedots.ovh/blog/2022/03/open-source-drivers-according-to-habana/
+> https://news.ycombinator.com/item?id=30867739
+
 https://venturebeat.com/2022/03/30/openbb-wants-to-be-an-open-source-challenger-to-bloomberg-terminal/
 > https://news.ycombinator.com/item?id=30854451
 > https://github.com/OpenBB-finance/OpenBBTerminal

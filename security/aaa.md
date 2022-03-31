@@ -116,10 +116,13 @@ https://throughascreendarkly.com/2021/05/16/port-knocking-better/
 
 https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html
 
-# differential privacy
+# Differential privacy
 https://desfontain.es/privacy/more-useful-results-dp.html
 
 #
+https://github.com/markqvist/Reticulum cryptography-based networking stack for wide-area networks
+> https://news.ycombinator.com/item?id=30870187
+
 https://trevorklee.com/how-to-spot-a-good-fake-id/
 > https://news.ycombinator.com/item?id=27925327
 

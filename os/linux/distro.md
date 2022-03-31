@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://unixsheikh.com/articles/the-delusions-of-debian.html
+> https://news.ycombinator.com/item?id=30863318
+
 https://fedoramagazine.org/announcing-fedora-36-beta/
 > https://linuxfr.org/news/sortie-de-fedora-36-beta
 

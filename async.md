@@ -24,6 +24,8 @@ https://www.alwaysrightinstitute.com/async-io-by-example/
 https://blog.ometer.com/2011/07/24/callbacks-synchronous-and-asynchronous/
 > https://news.ycombinator.com/item?id=29909389
 
+https://dmitrykakurin.medium.com/concurrency-in-go-pony-erlang-elixir-and-rust-35a4eb4bb48f
+
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815

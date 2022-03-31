@@ -17,3 +17,5 @@ https://en.wikipedia.org/wiki/BGP_hijacking#Public_incidents
 
 https://github.com/osrg/gobgp
 > https://news.ycombinator.com/item?id=30734712
+
+https://www.reddit.com/r/blueteamsec/comments/trfzfn/russian_isp_announced_twitters_address_space_via/

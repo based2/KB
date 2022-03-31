@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+http://revj.sourceforge.net/ Reverse Snowflake Joins
+> https://news.ycombinator.com/item?id=30853200
+
 https://animatesql.com/
 > https://news.ycombinator.com/item?id=30836647
 

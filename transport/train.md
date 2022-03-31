@@ -15,6 +15,8 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://news.ycombinator.com/item?id=30857055
+
 https://arstechnica.com/cars/2018/12/mining-company-says-first-autonomous-freight-train-network-is-fully-operational/
 
 https://www.ianvisits.co.uk/articles/crossrail-update-on-the-elizabeth-line-opening-plans-53030/

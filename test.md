@@ -116,6 +116,9 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://pernos.co/about/overview
+> https://www.scattered-thoughts.net/writing/the-shape-of-data/
+
 https://jesseduffield.com/Testing-Private-Methods/
 > https://news.ycombinator.com/item?id=30600479
 

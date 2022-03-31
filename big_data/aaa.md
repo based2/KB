@@ -232,6 +232,14 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://pair.withgoogle.com/explorables/dataset-worldviews/
+
+https://www.firebolt.io/big-data-game
+
+https://www.openintro.org/book/isrs/
+
+https://www.amazon.science/blog/improving-forecasting-by-learning-quantile-functions
+
 https://cerfacs.fr/coop/fortran-vs-python
 > https://news.ycombinator.com/item?id=30812086
 

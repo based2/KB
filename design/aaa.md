@@ -78,3 +78,12 @@ https://furbo.org/2022/01/11/consistency-sin/
 
 https://ralphammer.com/make-me-think/
 > https://news.ycombinator.com/item?id=30269350
+
+#
+https://jnd.org/humanity-centered-versus-human-centered-design/
+
+https://subset.so/blog/excel-2-0
+> https://news.ycombinator.com/item?id=30868696
+
+https://magmastudio.io/
+> https://news.ycombinator.com/item?id=30869131

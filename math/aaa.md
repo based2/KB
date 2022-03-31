@@ -92,6 +92,9 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+https://betterexplained.com/articles/linear-algebra-guide/
+> https://news.ycombinator.com/item?id=30866244
+
 https://www.onethirteenth.net/2021/07/on-infinite-decimal-expansions-missing.html
 > https://news.ycombinator.com/item?id=30809385
 

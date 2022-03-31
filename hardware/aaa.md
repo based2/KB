@@ -73,6 +73,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://mitxela.com/projects/ddc-oled The smallest and worst HDMI display ever
+> https://news.ycombinator.com/item?id=30869140
+
 https://www.tomshardware.com/news/nvidia-unveils-144-core-grace-cpu-superchip-claims-arm-chip-15x-faster-than-amds-epyc-rome
 > https://news.ycombinator.com/item?id=30788218
 

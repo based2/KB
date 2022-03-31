@@ -31,3 +31,6 @@ https://opensource.org/court-affirms-its-false-advertising-to-claim-software-is-
 
 https://writing.kemitchell.com/2022/03/17/OSI-Neo4j-PureThink.html
 > https://news.ycombinator.com/item?id=30726286
+
+https://vadosware.io/post/the-future-of-free-and-open-source-is-agpl/
+> https://news.ycombinator.com/item?id=30866724

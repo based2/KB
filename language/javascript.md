@@ -368,6 +368,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://kapravelos.com/projects/vv8
+> https://news.ycombinator.com/item?id=30871002
+
 https://news.ycombinator.com/item?id=30810724 Ask HN: Why aren't there any real alternatives to Electron?
 
 https://remix.run/blog/remixing-react-router

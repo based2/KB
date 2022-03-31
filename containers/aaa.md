@@ -36,6 +36,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://fly.io/blog/a-foolish-consistency/
+> https://news.ycombinator.com/item?id=30857047
+
 https://github.com/containers/bubblewrap Unprivileged sandboxing tool
 > https://news.ycombinator.com/item?id=30823164
 

@@ -255,6 +255,11 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/
+> https://news.ycombinator.com/item?id=30858311
+
+https://www.thoughtworks.com/radar/languages-and-frameworks?blipid=202203046
+
 https://devlog.hexops.com/2022/mach-v0.1-zig-graphics-in-60s
 >
 

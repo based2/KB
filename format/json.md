@@ -71,6 +71,8 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://www.reddit.com/r/scala/comments/tsd49l/using_swar_techniques_to_speed_up_parsing_and/
+
 https://pythonspeed.com/articles/json-memory-streaming/
 
 https://github.com/multiprocessio/fakegen

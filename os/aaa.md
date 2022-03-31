@@ -15,6 +15,7 @@ https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
 https://www.theregister.com/2022/03/29/non_c_operating_systems/
+> https://news.ycombinator.com/item?id=30851955
 
 https://mirage.io/blog/announcing-mirage-40 ocaml
 > https://news.ycombinator.com/item?id=30840571

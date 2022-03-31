@@ -208,6 +208,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://bernsteinbear.com/blog/discovering-basic-blocks/
+> https://news.ycombinator.com/item?id=30869823
+
 https://bas.codes/posts/new-features-python-3-11
 
 https://rednafi.github.io/reflections/pre-allocated-lists-in-python.html

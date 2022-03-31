@@ -238,6 +238,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://blog.crunchydata.com/blog/announcing-postgres-container-apps-easy-deploy-postgres-apps
+> https://news.ycombinator.com/item?id=30867644
+
 https://github.com/vitabaks/postgresql_cluster
 
 https://git.postgresql.org/gitweb/?p=postgresql.git;a=commit;h=7103ebb7aae8ab8076b7e85f335ceb8fe799097c

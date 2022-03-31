@@ -65,6 +65,8 @@ https://news.ycombinator.com/item?id=30753584
 
 https://www.a11yproject.com/posts/macos-browser-keyboard-navigation/
 
+https://jdeploy.substack.com/p/apples-code-signing-quagmire?s=w
+
 # M1
 https://eclecticlight.co/2022/03/17/macos-has-different-strategies-for-m1-cores/
 
@@ -180,6 +182,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
 # News
+https://eclecticlight.co/2022/03/31/what-is-triald-and-why-is-it-taking-so-much-disk-space/
+> https://news.ycombinator.com/item?id=30864613
+
 https://www.highcaffeinecontent.com/blog/20220325-Intel-Virtualization-and-Apple-Silicon
 > https://news.ycombinator.com/item?id=30812855
 

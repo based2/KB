@@ -1,10 +1,41 @@
+https://www.technologyreview.com/2022/02/28/1046575/how-china-built-a-one-of-a-kind-cyber-espionage-behemoth-to-last/
+
+https://www.zdnet.com/article/linux-secure-networking-security-bug-found-and-fixed/
+
+https://www.mitre.org/sites/default/files/publications/11-strategies-of-a-world-class-cybersecurity-operations-center.pdf
+
+https://github.com/pedrib/PoC/blob/master/advisories/Cisco/DCNMPwn.md
+
+https://scribesecurity.com/github-cache-poisoning/
+
+https://www.reddit.com/r/netsec/comments/tpyqhl/google_issues_urgent_chrome_update_to_patch/
+
+https://support.apple.com/en-us/HT213219 About the security content of iOS 15.4.1 and iPadOS 15.4.1
+
+https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html
+> https://news.ycombinator.com/item?id=30868724
+
+http://www.lupinia.net/writing/tech/scammed.htm
+> https://news.ycombinator.com/item?id=30869427
+
+https://arstechnica.com/information-technology/2022/03/lapsus-and-solar-winds-hackers-both-use-the-same-old-trick-to-bypass-mfa/
+> https://news.ycombinator.com/item?id=30848330
+
 https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/
 
 https://binarly.io/posts/AMI_UsbRt_Repeatable_Failures_A_6_year_old_attack_vector_still_affecting_millions_of_enterprise_devices/index.html
 
 https://blog.quarkslab.com/heap-overflow-in-openbsds-slaacd-via-router-advertisement.html
 
+https://www.praetorian.com/blog/spring-core-jdk9-rce/ -> Remediation
+> https://news.ycombinator.com/item?id=30860352
 https://www.cyberkendra.com/2022/03/springshell-rce-0-day-vulnerability.html
+> https://bugalert.org/content/notices/2022-03-30-spring.html
+> https://tanzu.vmware.com/security/
+> https://www.bleepingcomputer.com/news/security/new-spring-java-framework-zero-day-allows-remote-code-execution/
+> https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/
+> https://github.com/jfrog/jfrog-spring-tools
+> https://sysdig.com/blog/cve-2022-22965-spring-core-spring4shell/
 
 https://billdemirkapi.me/exception-oriented-programming-abusing-exceptions-for-code-execution-part-1/
 > https://news.ycombinator.com/item?id=30841425
@@ -345,6 +376,7 @@ https://www.reversemode.com/2022/03/satcom-terminals-under-attack-in-europe.html
 > https://www.cisa.gov/uscert/ncas/alerts/aa22-076a
 > https://www.theregister.com/2022/03/21/in_brief_security/
 > https://arstechnica.com/information-technology/2022/03/a-mysterious-satellite-hack-has-victims-far-beyond-ukraine/
+> https://arstechnica.com/information-technology/2022/03/mystery-solved-in-destructive-attack-that-knocked-out-10k-viasat-modems/
 
 https://www.theverge.com/2022/3/7/22965220/samsung-hack-lapsus-galaxy-source-code-confirmed-nvidia
 
@@ -433,6 +465,7 @@ https://krebsonsecurity.com/2022/03/conti-ransomware-group-diaries-part-i-evasio
 > https://www.bleepingcomputer.com/news/security/conti-ransomware-source-code-leaked-by-ukrainian-researcher/
 > https://www.bleepingcomputer.com/news/security/cisa-updates-conti-ransomware-alert-with-nearly-100-domain-names/
 > https://www.bleepingcomputer.com/news/security/google-exposes-tactics-of-a-conti-ransomware-access-broker/
+> https://research.nccgroup.com/2022/03/31/conti-nuation-methods-and-techniques-observed-in-operations-post-the-leaks/
 
 https://www.akamai.com/blog/security/tcp-middlebox-reflection
 > https://news.ycombinator.com/item?id=30524318

@@ -46,3 +46,6 @@ https://www.topazlabs.com/gigapixel-ai
 https://github.com/williamyang1991/DualStyleGAN
 
 https://hackernoon.com/learn-k-means-clustering-by-quantizing-color-images-in-python
+
+https://www.unite.ai/reshaping-human-body-types-with-ai/
+> https://news.ycombinator.com/item?id=30866004

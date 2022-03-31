@@ -17,3 +17,5 @@ https://www.typography.com/blog/monotype-acquires-hoeflerco
 
 https://medium.engineering/typography-is-impossible-5872b0c7f891
 > https://news.ycombinator.com/item?id=30702208
+
+https://www.canva.com/learn/kerning/

@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://videoinu.com/blog/firefox-reader-view-heuristics/
+> https://news.ycombinator.com/item?id=30864311
+
 https://twitter.com/awesomekling/status/1508953394836353024
 > https://news.ycombinator.com/item?id=30853392
 

@@ -99,6 +99,8 @@ https://copilot.github.com/
 
    https://news.ycombinator.com/item?id=30695509
 
+https://www.deepmind.com/blog/competitive-programming-with-alphacode
+
 https://visualstudio.microsoft.com/fr/services/intellicode/
 
 https://research.ibm.com/blog/codenet-ai-for-code
@@ -249,6 +251,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://benanne.github.io/2022/01/31/diffusion.html
+
 https://eclecticlight.co/2022/03/30/the-hunt-for-the-m1s-neural-engine/
 > https://news.ycombinator.com/item?id=30852818
 

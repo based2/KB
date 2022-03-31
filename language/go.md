@@ -86,6 +86,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://eli.thegreenplace.net/2022/interface-method-calls-with-the-go-register-abi
+
+https://planetscale.com/blog/generics-can-make-your-go-code-slower
+> https://news.ycombinator.com/item?id=30856804
+
 https://planetscale.com/blog/why-we-chose-nanoids-for-planetscales-api#generating-nanoid%27s-in-go
 
 https://notes.eatonphil.com/documentdb.html

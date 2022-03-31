@@ -83,6 +83,8 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://inside-out.matt.is/ forms
+
 https://clojure.org/news/2022/03/22/clojure-1-11-0
 > https://news.ycombinator.com/item?id=30768240
 

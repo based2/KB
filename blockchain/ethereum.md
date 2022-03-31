@@ -10,6 +10,11 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://vitalik.ca/general/2022/03/29/road.html
+> https://news.ycombinator.com/item?id=30862400
+
+https://github.com/duneanalytics
+
 https://roninblockchain.substack.com/p/community-alert-ronin-validators?s=r
 > https://news.ycombinator.com/item?id=30844334
 

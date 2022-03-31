@@ -74,7 +74,13 @@ https://viewfromthewing.com/american-airlines-and-the-points-guy-are-suing-each-
 https://til.simonwillison.net/shot-scraper/readability
 > https://news.ycombinator.com/item?id=30795254
 
+https://scrapingfish.com/blog/scraping-instagram
+> https://news.ycombinator.com/item?id=30868738
+
 # News
+https://yiqinfu.github.io/posts/walled-gardens-china/
+> https://news.ycombinator.com/item?id=30866438
+
 https://github.com/GarrettAlbright/KyuWeb proposal for a document-oriented web
 > https://news.ycombinator.com/item?id=30799912
 
