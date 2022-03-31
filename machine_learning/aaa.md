@@ -251,6 +251,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://carolchen.me/blog/transformer-inference-arithmetic/
+
 https://benanne.github.io/2022/01/31/diffusion.html
 
 https://eclecticlight.co/2022/03/30/the-hunt-for-the-m1s-neural-engine/

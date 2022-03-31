@@ -130,6 +130,9 @@ https://www.unite.ai/simple-ai-can-anticipate-bank-managers-loan-decisions-to-ov
 > https://news.ycombinator.com/item?id=30394731
 
 # News
+https://www.dallasfed.org/research/economics/2022/0329
+> https://news.ycombinator.com/item?id=30871986
+
 https://fbifemboy.substack.com/p/theoretical-advances-in-amm-understanding automated market makers
 > https://news.ycombinator.com/item?id=30113170
 

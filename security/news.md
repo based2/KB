@@ -1,3 +1,7 @@
+https://github.com/vmware-tanzu/community-edition/issues/3840 Etcd 3.5.x should not be used
+
+https://about.gitlab.com/releases/2022/03/31/critical-security-release-gitlab-14-9-2-released/
+
 https://www.technologyreview.com/2022/02/28/1046575/how-china-built-a-one-of-a-kind-cyber-espionage-behemoth-to-last/
 
 https://www.zdnet.com/article/linux-secure-networking-security-bug-found-and-fixed/
