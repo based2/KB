@@ -49,6 +49,8 @@ https://github.com/automerge/automerge js, json
 https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf Making CRDTs Byzantine Fault Tolerant
 > https://news.ycombinator.com/item?id=30560573
 
+https://automerge.org/
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913
@@ -103,6 +105,8 @@ https://github.com/anishathalye/porcupine
 https://asatarin.github.io/testing-distributed-systems/
 
 # News
+https://timur.audio/dwcas-in-c
+
 https://queue.acm.org/detail.cfm?id=3526967 Distributed Latency Profiling through Critical Path Tracing
 
 https://martin.kleppmann.com/papers/move-op.pdf A highly-available move operation for replicated trees

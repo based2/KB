@@ -64,6 +64,10 @@ https://github.com/edenhill/librdkafka
 https://arnoldgalovics.com/spring-batch-remote-partitioning-kafka/
 > https://www.reddit.com/r/java/comments/ts190r/scaling_spring_batch_processing_with_partitioning/
 
+https://developer.confluent.io/learn-kafka/architecture/get-started/
+
+https://docs.confluent.io/platform/current/kafka/design.html
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

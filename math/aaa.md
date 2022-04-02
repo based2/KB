@@ -92,6 +92,9 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+https://czekster.github.io/markov/
+> https://news.ycombinator.com/item?id=30877958
+
 https://betterexplained.com/articles/linear-algebra-guide/
 > https://news.ycombinator.com/item?id=30866244
 

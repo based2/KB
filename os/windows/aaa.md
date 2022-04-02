@@ -114,6 +114,9 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://github.com/ariccio/altWinDirStat
+> https://news.ycombinator.com/item?id=30871896
+
 https://scorpiosoftware.net/2022/03/21/threads-threads-and-more-threads/
 >
 

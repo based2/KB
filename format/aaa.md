@@ -29,7 +29,12 @@ https://pi.math.cornell.edu/~web6140/TopTenAlgorithms/JPEG.html
 https://bellard.org/bpg/
 > https://news.ycombinator.com/item?id=30712944
 
+https://qoiformat.org/
+> https://news.ycombinator.com/item?id=30885668
+
 # News
+https://news.ycombinator.com/item?id=30879327 Show HN: A plain-text file format for todos and check lists
+
 https://anachronauts.club/~voidstar/log/2022-03-24-openapi-for-binfmt.gmi
 > https://news.ycombinator.com/item?id=30806032
 

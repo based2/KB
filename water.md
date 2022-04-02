@@ -1,3 +1,9 @@
+https://www.freethink.com/health/lead-in-water
+> https://news.ycombinator.com/item?id=30875186
+
+https://coloradonewsline.com/2022/03/29/unsolved-math-problem-colorado-river/
+> https://news.ycombinator.com/item?id=30858256
+
 https://dirtwise.substack.com/p/are-you-hydro-phobic
 > https://news.ycombinator.com/item?id=28727215
 

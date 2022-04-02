@@ -60,7 +60,7 @@ https://www.nordtheme.com/
 https://material.io/blog/announcing-material-you
 > https://news.ycombinator.com/item?id=27204720
 
-#  UX
+# UX
 https://uxmovement.com/
 
 https://yifaneye.github.io/react-gallery-carousel/
@@ -77,6 +77,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/
+> https://news.ycombinator.com/item?id=30877049
+
 https://www.smashingmagazine.com/2022/03/claymorphism-css-ui-design-trend/
 > https://news.ycombinator.com/item?id=30852884
 

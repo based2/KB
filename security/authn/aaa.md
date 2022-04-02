@@ -59,6 +59,11 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://theburningmonk.com/2021/03/the-case-for-and-against-amazon-cognito/
+
+https://www.alexanderlolis.com/authorization-in-a-microservices-world
+> https://news.ycombinator.com/item?id=30878926
+
 https://fusionauth.io/learn/expert-advice/oauth/saml-vs-oauth
 
 https://boxyhq.com/

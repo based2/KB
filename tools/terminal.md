@@ -33,6 +33,8 @@ https://github.com/piccolomo/plotext python
 
 # News
 https://solovyov.net/blog/2020/useful-shell-prompt/
+> https://news.ycombinator.com/item?id=30858478
+> > https://starship.rs/
 
 https://sw.kovidgoyal.net/kitty/
 > https://news.ycombinator.com/item?id=30779782

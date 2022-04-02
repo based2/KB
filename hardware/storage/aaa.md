@@ -1,4 +1,9 @@
 # News
+https://blog.ligos.net/2022-04-02/The-Reliability-Of-Optical-Disks.html
+>
+
+https://dev.yorhel.nl/ncdu NCurses Disk Usage
+
 https://petapixel.com/2020/12/26/fujifilm-created-a-magnetic-tape-that-can-store-580-terabytes/
 
 https://zonedstorage.io/

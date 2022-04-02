@@ -69,6 +69,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.fermyon.com/blog/introducing-spin
+> https://news.ycombinator.com/item?id=30875310
+
 https://www.infoq.com/presentations/wasi-system-interface/
 > https://news.ycombinator.com/item?id=30527685
 

@@ -109,6 +109,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://github.com/ssh-mitm/ssh-mitm/blob/master/LICENSE SSH-MitM 2.0.0 – Licence change to GPLv3
+> https://news.ycombinator.com/item?id=30878630
+
 https://www.caffeinatedwonders.com/2022/03/28/new-ssh-server/
 > https://news.ycombinator.com/item?id=30830749
 

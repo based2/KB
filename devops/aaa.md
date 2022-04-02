@@ -104,6 +104,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://github.com/dlvhdr/gh-dash
+> https://news.ycombinator.com/item?id=30881441
+
 https://underjord.io/fundamentals-and-deployment.html
 
 https://go.dev/blog/supply-chain

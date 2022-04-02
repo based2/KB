@@ -108,6 +108,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.trailofbits.com/2019/07/08/fuck-rsa/
+> https://news.ycombinator.com/item?id=30879442
+
 https://www.cs.uky.edu/~klapper/pdf/algebraic.pdf Algebraic Shift Register Sequences
 
 https://kerkour.com/rust-cryptography-ecosystem

@@ -20,7 +20,6 @@ https://nakryiko.com/posts/libbpf-bootstrap/
 https://newrelic.com/blog/nerd-life/open-source-observability-pixie
 > https://news.ycombinator.com/item?id=27037102
 
-
 https://github.com/microsoft/ebpf-for-windows
 > https://news.ycombinator.com/item?id=27108593
 
@@ -49,6 +48,9 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://github.com/rprinz08/hBPF
+> https://news.ycombinator.com/item?id=30877449
+
 https://medium.com/@buraktahtacioglu/get-started-with-ebpf-cncf-roadmap-5674d3859728
 
 https://www.phoronix.com/scan.php?page=news_item&px=Linux-eBPF-For-HID

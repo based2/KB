@@ -94,6 +94,11 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://theparisreview.org/interviews/1432/the-art-of-screenwriting-no-1-billy-wilder
+> https://news.ycombinator.com/item?id=30873872
+
+https://news.ycombinator.com/item?id=30879738 Ask HN: How can I learn about video encoding, h.264, ffmpeg, etc.
+
 https://eclecticlight.co/2022/03/26/explainer-whatever-happened-to-quicktime/
 > https://news.ycombinator.com/item?id=30810556
 

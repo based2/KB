@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+http://www.whence.com/minimodem/
+> https://news.ycombinator.com/item?id=30888879
+
 https://www.johndcook.com/blog/2022/03/30/portable-am-radio/
 > https://news.ycombinator.com/item?id=30858856
 

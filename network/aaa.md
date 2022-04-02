@@ -54,6 +54,9 @@ https://ishitatsuyuki.github.io/post/latencyflex/
 https://colin-scott.github.io/personal_website/research/interactive_latency.html
 > https://news.ycombinator.com/item?id=30546995
 
+https://github.com/deepfence/PacketStreamer Capture and aggregate network traffic across multiple hosts
+> https://news.ycombinator.com/item?id=30888295
+
 # Tests
 https://major.io/2021/06/06/a-new-future-for-icanhazip/
 > https://news.ycombinator.com/item?id=27415537
@@ -100,6 +103,8 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://news.ycombinator.com/item?id=30889663
+
 https://news.ycombinator.com/item?id=30870470 Ask HN: Is a new router worth it?
 
 https://yuuk.io/papers/transtracer_jip2022.pdf Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies

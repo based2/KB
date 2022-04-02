@@ -35,6 +35,9 @@ https://snarky.ca/unravelling-the-async-with-statement/
 
 https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/
 
+https://www.erichgrunewald.com/posts/gradually-migrating-python-code-to-asyncio/
+> https://news.ycombinator.com/item?id=30886927
+
 # Build
 https://github.com/mesonbuild/meson
 

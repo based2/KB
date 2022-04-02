@@ -34,3 +34,8 @@ https://writing.kemitchell.com/2022/03/17/OSI-Neo4j-PureThink.html
 
 https://vadosware.io/post/the-future-of-free-and-open-source-is-agpl/
 > https://news.ycombinator.com/item?id=30866724
+
+https://github.com/aws/mit-0
+> https://news.ycombinator.com/item?id=30885078
+
+https://en.wikipedia.org/wiki/Software_Package_Data_Exchange

@@ -29,10 +29,16 @@ https://www.nature.com/articles/s42256-021-00430-y
 https://picower.mit.edu/news/neurons-are-fickle-electric-fields-are-more-reliable-information
 > https://news.ycombinator.com/item?id=30662626
 
+https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neurons-involved-in-making-memories
+> https://news.ycombinator.com/item?id=30867430
+
 # Worm
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.simonsfoundation.org/2022/03/29/cracking-the-neural-code-in-humans/
+> https://news.ycombinator.com/item?id=30859975
+
 https://www.darpa.mil/program/our-research/darpa-and-the-brain-initiative
 
 https://norwegianscitechnews.com/2022/03/mini2p-an-open-source-miniature-brain-microscope/

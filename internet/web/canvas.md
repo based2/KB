@@ -15,3 +15,5 @@ https://pixel.vkoskiv.com/
 
 https://developer.chrome.com/blog/canvas2d/
 > https://news.ycombinator.com/item?id=30553585
+
+https://eloquentjavascript.net/17_canvas.html

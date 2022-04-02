@@ -1,3 +1,6 @@
+https://dmitrybrant.com/2022/02/20/a-retro-laptop-like-no-other
+> https://news.ycombinator.com/item?id=30879450
+
 https://gettotext.com/raspberry-pi-and-aldi-medion-presents-notebook-based-on-raspberry-pi/
 > https://news.ycombinator.com/item?id=30866882
 

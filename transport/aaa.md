@@ -35,3 +35,5 @@ https://sim.bemined.nl/
 
 https://electricbrands.de/en/myxbus/
 > https://news.ycombinator.com/item?id=30708669
+
+https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/

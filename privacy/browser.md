@@ -9,6 +9,10 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://brave.com/privacy-updates/16-unlinkable-bouncing/
+
+https://infrequently.org/2022/03/cache-and-prizes/
+
 https://arstechnica.com/gadgets/2022/03/googles-topics-advertising-system-starts-rolling-out-to-chrome-canary/
 
 https://privacyinternational.org/guide-step/4330/firefox-adjusting-settings-enhance-your-online-privacy

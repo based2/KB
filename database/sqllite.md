@@ -91,6 +91,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://github.com/benbjohnson/postlite
+> https://news.ycombinator.com/item?id=30875837
+
 https://news.ycombinator.com/item?id=30801575 Directly running DuckDB queries on data stored in SQLite files
 
 https://sqlite.org/releaselog/3_38_1.html

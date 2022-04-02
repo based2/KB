@@ -191,6 +191,9 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 https://libregraphicsmag.com/index.html
 
 # News
+https://blogs.apache.org/foundation/entry/your-call-is-important-to
+> https://news.ycombinator.com/item?id=30877983
+
 https://blog.joinmastodon.org/2022/03/mastodon-3.5/
 > https://news.ycombinator.com/item?id=30862612
 

@@ -65,6 +65,9 @@ https://www.guckes.net/vim/setup.html
 https://learnbyexample.github.io/vim_reference/Introduction.html
 > https://news.ycombinator.com/item?id=30684232
 
+https://vimcolorschemes.com/
+> https://news.ycombinator.com/item?id=30885471
+
 # Nano
 
 

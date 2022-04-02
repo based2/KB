@@ -36,6 +36,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/barthr/redo
+> https://news.ycombinator.com/item?id=30878935
+
 https://plocate.sesse.net/ plocate, a much faster locate
 > https://news.ycombinator.com/item?id=30848699
 

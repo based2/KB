@@ -368,6 +368,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.jbang.dev/learn/jbang-npm/
+
 https://kapravelos.com/projects/vv8
 > https://news.ycombinator.com/item?id=30871002
 

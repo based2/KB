@@ -121,6 +121,9 @@ https://en.wikiversity.org/wiki/Foundations_of_Functional_Programming/The_%CE%BB
 https://github.com/xgrommx/awesome-functional-programming
 > https://news.ycombinator.com/item?id=30011998
 
+https://matthewbutterick.com/chron/two-vexing-problems-in-functional-progamming.html
+> https://news.ycombinator.com/item?id=30878534
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721
@@ -255,6 +258,8 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://www.laurentluce.com/posts/python-dictionary-implementation/
+
 https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/
 > https://news.ycombinator.com/item?id=30858311
 

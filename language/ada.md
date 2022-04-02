@@ -62,6 +62,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html
+
 https://blog.adacore.com/learn-2021-updates
 
 https://github.com/SMerrony/dashera/blob/10ab6e4ece8ea1c16ad055c063c5e743d89cd6bc/Docs/LessonsLearnt.md Lessons Learnt Moving a Gtk Application from Go to Ada

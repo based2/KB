@@ -33,6 +33,11 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/
+
+https://mccormick.cx/news/entries/youtube-cancelled-my-nextcloud-how-to-video
+> https://news.ycombinator.com/item?id=30886834
+
 https://smitop.com/post/reddit-whiteops/
 > https://news.ycombinator.com/item?id=30794308
 

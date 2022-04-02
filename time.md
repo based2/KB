@@ -195,6 +195,11 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://datetime.tools/conversion
+
+https://rectangles.app/
+> https://news.ycombinator.com/item?id=30881096
+
 https://nickb.dev/blog/designing-a-rest-api-unix-time-vs-iso-8601
 > https://news.ycombinator.com/item?id=30854563
 

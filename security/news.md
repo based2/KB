@@ -1,6 +1,24 @@
+https://www.enisa.europa.eu/events/tsforum-caday-2020/presentations/CAD-presentations
+
+https://www.armosec.io/blog/cve-2022-23648-containerd-cri-plugin-kubernetes/
+
+https://blog.cloudflare.com/end-cloudflare-captcha/
+> https://news.ycombinator.com/item?id=30877880
+
+https://mjg59.dreamwidth.org/59079.html ZTA doesn't solve all problems, but partial implementations solve fewer
+> https://news.ycombinator.com/item?id=30875908
+
+https://lwn.net/SubscriberLink/889593/2db508e490f52f24/ A security fix briefly breaks DMA
+> https://news.ycombinator.com/item?id=30878549
+
 https://github.com/vmware-tanzu/community-edition/issues/3840 Etcd 3.5.x should not be used
 
 https://about.gitlab.com/releases/2022/03/31/critical-security-release-gitlab-14-9-2-released/
+> https://www.bleepingcomputer.com/news/security/critical-gitlab-vulnerability-lets-attackers-take-over-accounts/
+> > https://news.ycombinator.com/item?id=30878924
+> https://news.ycombinator.com/item?id=30872415
+> https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-304/
+> https://www.theregister.com/2022/04/01/gitlab_security_advisory/
 
 https://www.technologyreview.com/2022/02/28/1046575/how-china-built-a-one-of-a-kind-cyber-espionage-behemoth-to-last/
 
@@ -13,8 +31,12 @@ https://github.com/pedrib/PoC/blob/master/advisories/Cisco/DCNMPwn.md
 https://scribesecurity.com/github-cache-poisoning/
 
 https://www.reddit.com/r/netsec/comments/tpyqhl/google_issues_urgent_chrome_update_to_patch/
+> https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-11-upgrade-block-due-to-ie11-known-issue/
 
 https://support.apple.com/en-us/HT213219 About the security content of iOS 15.4.1 and iPadOS 15.4.1
+> https://news.ycombinator.com/item?id=30870744
+> https://sensorstechforum.com/cve-2022-22675-kernel-privileges/
+> https://www.bleepingcomputer.com/news/security/apple-emergency-update-fixes-zero-days-used-to-hack-iphones-macs/
 
 https://googleprojectzero.blogspot.com/2022/03/forcedentry-sandbox-escape.html
 > https://news.ycombinator.com/item?id=30868724
@@ -40,6 +62,8 @@ https://www.cyberkendra.com/2022/03/springshell-rce-0-day-vulnerability.html
 > https://www.lunasec.io/docs/blog/spring-rce-vulnerabilities/
 > https://github.com/jfrog/jfrog-spring-tools
 > https://sysdig.com/blog/cve-2022-22965-spring-core-spring4shell/
+> https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-023.pdf
+> https://www.reddit.com/r/java/comments/tt6xj7/spring_boot_rce_cve202222965_can_anybody_explain/
 
 https://billdemirkapi.me/exception-oriented-programming-abusing-exceptions-for-code-execution-part-1/
 > https://news.ycombinator.com/item?id=30841425

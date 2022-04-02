@@ -86,6 +86,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://eli.thegreenplace.net/2022/faster-sorting-with-go-generics/
+
+https://verdverm.com/go-mods/
+> https://news.ycombinator.com/item?id=30872168
+
 https://eli.thegreenplace.net/2022/interface-method-calls-with-the-go-register-abi
 
 https://planetscale.com/blog/generics-can-make-your-go-code-slower

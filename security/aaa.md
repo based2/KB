@@ -46,7 +46,7 @@ https://digital-strategy.ec.europa.eu/en/policies/e-identification
 https://www.w3.org/TR/did-core/
 > https://news.ycombinator.com/item?id=27593406
 
-Estonian Electronic Identity Card and Its Security Challenges [pdf] :
+Estonian Electronic Identity Card and Its Security Challenges
 https://dspace.ut.ee/bitstream/handle/10062/71481/parsovs_arnis.pdf?sequence=1&isAllowed=y
 
 https://gnunet.org/en/news/2021-05-DISSENS.html
@@ -88,6 +88,8 @@ https://tom-kaitchuck.medium.com/designing-a-new-prng-1c4ffd27124d
 > https://en.wikipedia.org/wiki/Spectral_test
 
 https://news.ycombinator.com/item?id=30611708
+
+https://news.ycombinator.com/item?id=30877296 Ask HN: Why don't PCs have better entropy sources?
 
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility

@@ -69,6 +69,8 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://oomph-lib.github.io/oomph-lib/doc/html/ simulation of multi-physics problems, University of Manchester
+
 https://news.ycombinator.com/item?id=30821096
 > https://en.wikipedia.org/wiki/Cryotron
 

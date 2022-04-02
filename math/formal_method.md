@@ -42,6 +42,8 @@ https://medium.com/@jparreira/solving-the-wolf-sheep-and-cabbage-problem-using-t
 https://surfingcomplexity.blog/2018/12/24/tla-is-hard-to-learn/
 > https://news.ycombinator.com/item?id=28256643
 
+https://github.com/informalsystems/modelator-py
+
 # Z3 Microsoft
 https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb
 > https://news.ycombinator.com/item?id=27045771

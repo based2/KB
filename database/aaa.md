@@ -68,6 +68,8 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://medium.com/@abdul_74410/improving-query-performance-by-10000x-79b84c80fbaf Index tuning
+
 https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
 
 https://news.ycombinator.com/item?id=30806624 Ask HN: Why are there no easy-to-use highly-available open source databases?

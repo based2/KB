@@ -24,3 +24,5 @@ https://blog.llvm.org/posts/2021-10-01-generating-relocatable-code-for-arm-proce
 
 https://interrupt.memfault.com/blog/memcpy-newlib-nano
 > https://news.ycombinator.com/item?id=28843047
+
+https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec-abi

@@ -139,6 +139,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://astronomynow.com/2021/01/29/sextuple-star-system-fascinates-with-three-eclipsing-binaries/
+
 https://arstechnica.com/science/2022/03/impulse-space-is-betting-on-a-future-where-launch-is-cheap/
 > https://news.ycombinator.com/item?id=30853465
 

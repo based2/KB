@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://github.com/Xilinx/linux-xlnx
+> https://news.ycombinator.com/item?id=30886837
+
 https://unixsheikh.com/articles/the-delusions-of-debian.html
 > https://news.ycombinator.com/item?id=30863318
 
