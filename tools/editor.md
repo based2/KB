@@ -150,10 +150,21 @@ https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022
 # Notes
 https://www.tatatap.com/
 > https://news.ycombinator.com/item?id=29663233
+> > https://en.wikipedia.org/wiki/NILFS New Implementation of a Log-structured File System
+> > https://en.wikipedia.org/wiki/TECO_(text_editor)
 
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://git.savannah.gnu.org/cgit/emacs.git/commit/?id=de7901abbc21114721057c907cc52455e228f826 28.1
+
+https://news.ycombinator.com/item?id=30895905 	Ask HN: Is there a tool to generate binary protocol figures out of a spec? SVG
+> https://ide.kaitai.io/ Kaitai, binary format parsing web IDE
+> > https://news.ycombinator.com/item?id=30894111
+
+https://edoverflow.com/2022/gnu-ed-ate-my-homework/
+> https://news.ycombinator.com/item?id=30893503
+
 https://github.com/mcobzarenco/zee
 > https://news.ycombinator.com/item?id=30850652
 

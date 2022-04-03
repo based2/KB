@@ -91,6 +91,10 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/btreemodule.html
+> https://news.ycombinator.com/item?id=30894913
+> > https://github.com/LMDB/sqlightning
+
 https://github.com/benbjohnson/postlite
 > https://news.ycombinator.com/item?id=30875837
 

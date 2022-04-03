@@ -368,6 +368,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://blitzjs.com/docs/blitz-pivot
+> https://github.com/blitz-js/blitz/discussions/3075
+> https://news.ycombinator.com/item?id=30896931
+
 https://www.jbang.dev/learn/jbang-npm/
 
 https://kapravelos.com/projects/vv8

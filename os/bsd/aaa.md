@@ -115,6 +115,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://lists.freebsd.org/archives/freebsd-hackers/2022-March/000923.html
+
 https://www.unitedbsd.com/d/705-full-system-backups-with-ffs-snapshots-zfs-and-dump8
 
 https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/cheribsd.html

@@ -28,6 +28,8 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://raymii.org/s/tutorials/Qt_QML_WeatherTerminal_app_for_the_Seeed_reTerminal.html
+
 https://pudding.cool/2022/03/weather-map/
 > https://news.ycombinator.com/item?id=30726395
 

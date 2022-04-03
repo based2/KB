@@ -27,6 +27,8 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://celtera.github.io/avendish/foreword.html
+
 https://vital.audio/
 > https://news.ycombinator.com/item?id=30597079
 

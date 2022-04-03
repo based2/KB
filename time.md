@@ -167,6 +167,9 @@ https://thehtime.com/ Combining UTC and local times (time zones) in one new cloc
 https://en.wikipedia.org/wiki/Beverly_Clock
 > https://news.ycombinator.com/item?id=29701755
 
+https://www.nist.gov/pml/time-and-frequency-division/time-realization/primary-standard-nist-f1
+> https://news.ycombinator.com/item?id=30886428
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

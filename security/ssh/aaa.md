@@ -109,6 +109,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html
+> https://news.ycombinator.com/item?id=30891494
+
 https://github.com/ssh-mitm/ssh-mitm/blob/master/LICENSE SSH-MitM 2.0.0 – Licence change to GPLv3
 > https://news.ycombinator.com/item?id=30878630
 

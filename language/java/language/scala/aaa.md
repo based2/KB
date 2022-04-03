@@ -76,6 +76,9 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://scalac.io/blog/inline-your-boilerplate-harnessing-scala3-metaprogramming-without-macros/
+> https://github.com/scalalandio/chimney
+
 https://eed3si9n.com/sbt-1.7.0-beta
 
 https://alvinalexander.com/scala/what-effects-effectful-mean-in-functional-programming/

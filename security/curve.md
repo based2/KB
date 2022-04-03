@@ -37,6 +37,10 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://www.ssi.gouv.fr/uploads/2021/03/anssi-guide-selection_crypto-1.0.pdf
+
+https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Interpretationen/AIS_46_ECCGuide_e_pdf.pdf?__blob=publicationFile&v=1
+
 https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cds2.12110 A high speed processor for elliptic curve cryptography over NIST prime field
 > https://news.ycombinator.com/item?id=30383278
 

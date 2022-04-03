@@ -118,6 +118,8 @@ https://throughascreendarkly.com/2021/05/16/port-knocking-better/
 
 https://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html
 
+https://www.cs.uky.edu/~klapper/pdf/algebraic.pdf Algebraic Shift Register Sequences
+
 # Differential privacy
 https://desfontain.es/privacy/more-useful-results-dp.html
 

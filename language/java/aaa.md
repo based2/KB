@@ -255,6 +255,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://newsroom.eclipse.org/eclipse-newsletter/2022/march/what%E2%80%99s-new-jakarta-persistence-31
+
 https://www.i-programmer.info/news/80-java/15317-wheres-java-going-in-2022.html
 
 https://blog.picnic.nl/embracing-java-17-heres-what-we-learned-69779d95fdf2

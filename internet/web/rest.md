@@ -18,6 +18,9 @@ https://opensource.com/article/21/10/linux-wget-command
 https://hoppscotch.io/
 > https://news.ycombinator.com/item?id=30498072
 
+https://github.com/EsperoTech/yaade
+> https://news.ycombinator.com/item?id=30895372
+
 # Libraries
 ## Java/Jackson
 https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062

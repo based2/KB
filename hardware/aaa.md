@@ -73,6 +73,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/
+
 https://mitxela.com/projects/ddc-oled The smallest and worst HDMI display ever
 > https://news.ycombinator.com/item?id=30869140
 

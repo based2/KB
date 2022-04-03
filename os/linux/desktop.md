@@ -59,6 +59,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://regolith-linux.org/ Ubuntu, GNOME, and i3
+> https://news.ycombinator.com/item?id=30895619
+
 https://telepathy.freedesktop.org/
 
 https://release.gnome.org/42/

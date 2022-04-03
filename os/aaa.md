@@ -14,6 +14,8 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://nanovms.com/dev/tutorials/closures-in-the-nanos-unikernel
+
 https://www.theregister.com/2022/03/29/non_c_operating_systems/
 > https://news.ycombinator.com/item?id=30851955
 

@@ -30,6 +30,12 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://twitter.com/plexus/status/1510568329303445507 What happens if you try to download and install Firefox on Windows
+> https://news.ycombinator.com/item?id=30896403
+
+https://contrachrome.com/
+> https://news.ycombinator.com/item?id=30896124
+
 https://videoinu.com/blog/firefox-reader-view-heuristics/
 > https://news.ycombinator.com/item?id=30864311
 

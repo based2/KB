@@ -102,6 +102,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.thingsquare.com/blog/articles/iot-mesh-large-scale-testing/
+> https://news.ycombinator.com/item?id=30895886
+
 https://www.theverge.com/2022/3/21/22988703/ios-tip-select-multiple-items-apple-apps-ipados
 > https://news.ycombinator.com/item?id=30820441
 

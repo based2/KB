@@ -94,6 +94,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.neowin.net/news/intel-beats-amd-and-nvidia-to-become-the-first-with-full-av1-support-with-its-new-arc-gpus/
+> https://news.ycombinator.com/item?id=30896760
+
 https://theparisreview.org/interviews/1432/the-art-of-screenwriting-no-1-billy-wilder
 > https://news.ycombinator.com/item?id=30873872
 

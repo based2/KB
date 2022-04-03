@@ -205,6 +205,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://future.a16z.com/emerging-architectures-modern-data-infrastructure/
+
 https://thenewstack.io/is-serverless-just-a-stopover-for-event-driven-architecture/
 
 https://www.bu.edu/csmet/2018/08/30/re-reading-tanenbaums-critique-of-rpc-30-years-later/

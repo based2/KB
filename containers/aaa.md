@@ -36,6 +36,10 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://oweng.medium.com/introducing-packetstreamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1
+
+https://www.hashicorp.com/resources/the-future-of-vagrant-toward-3-0
+
 https://fly.io/blog/a-foolish-consistency/
 > https://news.ycombinator.com/item?id=30857047
 
@@ -157,6 +161,7 @@ https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91
 
 https://www.utam0k.jp/en/blog/2021/12/27/youki_first_release/ Rust
 > https://github.com/containers/youki
+> > https://github.com/containers/youki/releases/tag/v0.0.3 wasm
 
 https://danluu.com/cgroup-throttling/
 > https://news.ycombinator.com/item?id=29690769

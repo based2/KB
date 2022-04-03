@@ -94,6 +94,9 @@ https://github.com/mljar/mercury
 https://github.com/mljar/bloxs
 > https://news.ycombinator.com/item?id=30828962
 
+https://github.com/vizzuhq/ipyvizzu
+> https://news.ycombinator.com/item?id=30895975
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 > https://news.ycombinator.com/item?id=27145515
@@ -232,6 +235,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://tech.trivago.com/post/2022-03-09-why-and-how-we-use-primitive-maps/
+> https://news.ycombinator.com/item?id=30895097
+
+https://aiqc.medium.com/dash-is-deeper-than-dashboards-5ab7414f121e
+
 https://pair.withgoogle.com/explorables/dataset-worldviews/
 
 https://www.firebolt.io/big-data-game

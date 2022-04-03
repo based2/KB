@@ -211,6 +211,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://www.pypy.org/posts/2022/04/how-is-pypy-tested.html
+> 
+
 https://bernsteinbear.com/blog/discovering-basic-blocks/
 > https://news.ycombinator.com/item?id=30869823
 

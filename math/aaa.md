@@ -92,6 +92,10 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 # News
+https://hturan.com/writing/complex-numbers-glsl
+
+https://fredrikj.net/blog/2022/02/long-term-development-of-some-mathematical-software-projects/
+
 https://czekster.github.io/markov/
 > https://news.ycombinator.com/item?id=30877958
 

@@ -14,3 +14,9 @@ https://aws.amazon.com/en/blogs/compute/enabling-dns-resolution-for-amazon-eks-c
 https://aws.amazon.com/en/blogs/compute/making-cluster-updates-easy-with-amazon-eks/
 
 https://min.io/product/multicloud-elastic-kubernetes-service/deploy
+
+#
+https://github.com/kubernetes/kops/issues/10777 Install CSI driver by default in preparation of CSI Migration
+
+https://eks.news/archives/012/
+> https://github.com/kubernetes-sigs/aws-ebs-csi-driver

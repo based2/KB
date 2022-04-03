@@ -15,6 +15,12 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://valvearchive.com/
+> https://news.ycombinator.com/item?id=30894163
+
+https://www.lexaloffle.com/bbs/?tid=47155 UnDUNE II - The Demaking of a Dynasty
+> https://news.ycombinator.com/item?id=30865047
+
 https://www.pcgamer.com/portal-2-desolation-is-giving-the-classic-puzzle-game-a-huge-graphics-overhaul/
 > https://news.ycombinator.com/item?id=30820508
 

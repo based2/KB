@@ -29,3 +29,5 @@ https://github.com/Yqnn/svg-path-editor
 > https://news.ycombinator.com/item?id=30382577
 
 https://css-tricks.com/optimizing-svg-patterns/
+
+https://www.willmcgugan.com/blog/tech/post/exporting-svgs-of-terminal-output-with-rich/

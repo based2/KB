@@ -1,3 +1,13 @@
+https://blog.sonarsource.com/php-supply-chain-attack-on-pear
+
+https://github.com/electron/electron/security/advisories/GHSA-3p22-ghq8-v749 CVE-2022-21718 Renderers can obtain access to random bluetooth device without permission
+
+https://bsdly.blogspot.com/2022/04/spammers-in-public-cloud-protected-by.html
+> https://news.ycombinator.com/item?id=30897701
+
+https://nullprogram.com/blog/2017/07/19/ Integer Overflow into Information Disclosure (2017)
+> https://news.ycombinator.com/item?id=30895515
+
 https://www.enisa.europa.eu/events/tsforum-caday-2020/presentations/CAD-presentations
 
 https://www.armosec.io/blog/cve-2022-23648-containerd-cri-plugin-kubernetes/

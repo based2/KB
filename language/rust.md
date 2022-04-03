@@ -353,6 +353,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://cliffle.com/blog/rust-mutexes/
+>
+
 https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-10
 > https://news.ycombinator.com/item?id=30876056
 

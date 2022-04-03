@@ -251,6 +251,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.microsoft.com/en-us/research/blog/jigsaw-fixes-bugs-in-machine-written-software/
+
 https://blog.kxy.ai/5-reasons-you-should-never-use-pca-for-feature-selection/
 > https://news.ycombinator.com/item?id=30876293
 

@@ -86,6 +86,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://www.dolthub.com/blog/2022-04-01-fast-generics/
+> 
+
+https://github.com/luk4z7/go-concurrency-guide
+
 https://eli.thegreenplace.net/2022/faster-sorting-with-go-generics/
 
 https://verdverm.com/go-mods/

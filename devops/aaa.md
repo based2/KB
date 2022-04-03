@@ -104,6 +104,9 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment
+> https://news.ycombinator.com/item?id=30899362
+
 https://github.com/dlvhdr/gh-dash
 > https://news.ycombinator.com/item?id=30881441
 
