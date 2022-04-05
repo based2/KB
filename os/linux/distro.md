@@ -62,6 +62,10 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Fedora-37-Deprecate-BIOS
+
+https://releases.ubuntu.com/jammy/
+
 https://github.com/Xilinx/linux-xlnx
 > https://news.ycombinator.com/item?id=30886837
 

@@ -120,6 +120,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/
+> https://news.ycombinator.com/item?id=30902744
+
 https://access.redhat.com/errata/RHSA-2022:1082
 
 https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/

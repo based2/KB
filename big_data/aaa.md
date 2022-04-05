@@ -235,6 +235,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://cybernetic.dev/
+> https://news.ycombinator.com/item?id=30910659
+
 https://tech.trivago.com/post/2022-03-09-why-and-how-we-use-primitive-maps/
 > https://news.ycombinator.com/item?id=30895097
 

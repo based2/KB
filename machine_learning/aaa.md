@@ -251,6 +251,19 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://blog.nelhage.com/post/transformers-for-software-engineers/
+
+https://cprimozic.net/blog/neural-network-experiments-and-visualizations/
+> https://news.ycombinator.com/item?id=30895478
+
+https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
+> https://news.ycombinator.com/item?id=30908941
+
+https://github.com/geohot/tinygrad
+> https://news.ycombinator.com/item?id=30909719
+
+https://newsroom.ibm.com/2022-04-05-Announcing-IBM-z16-Real-time-AI-for-Transaction-Processing-at-Scale-and-Industrys-First-Quantum-Safe-System
+
 https://www.microsoft.com/en-us/research/blog/jigsaw-fixes-bugs-in-machine-written-software/
 
 https://blog.kxy.ai/5-reasons-you-should-never-use-pca-for-feature-selection/

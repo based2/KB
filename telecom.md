@@ -102,6 +102,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.dialogic.com/webhelp/msp1010/10.2.3/webhelp/MSP_DG/ISUP/Introduction_to2.htm
+
 https://www.thingsquare.com/blog/articles/iot-mesh-large-scale-testing/
 > https://news.ycombinator.com/item?id=30895886
 

@@ -129,6 +129,8 @@ https://www.brendangregg.com/perf.html
 https://lemire.me/blog/2022/03/28/converting-integers-to-decimal-strings-faster-with-avx-512/
 > https://news.ycombinator.com/item?id=30845228
 
+https://news.ycombinator.com/item?id=30907433 Use LC_ALL=C for big ASCII sorts
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

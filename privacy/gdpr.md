@@ -64,6 +64,7 @@ https://www.usenix.org/conference/usenixsecurity22/presentation/bollinger Automa
 
 https://gdpr-txt.org/
 > https://framablog.org/2022/03/08/faciliter-la-conformite-rgpd-le-fichier-gdpr-txt/
+> https://news.ycombinator.com/item?id=30904600
 
 https://github.com/cavi-au/Consent-O-Matic
 > https://news.ycombinator.com/item?id=30625218

@@ -1,3 +1,32 @@
+https://blog.aquasec.com/python-ransomware-jupyter-notebook
+
+https://clearbluejar.github.io/posts/introducing-cve-markdown-charts-part-1/
+
+https://github.com/containers/buildah/security/advisories/GHSA-c3g4-w6cv-6v7h
+
+https://www.theverge.com/2022/3/9/22968703/amd-issues-workaround-tpm-bug-windows-10-11-performance-issues-stuttering
+
+https://github.com/trufflesecurity/trufflehog TruffleHog v3 – Detect and automatically verify over 600 credential types
+> https://news.ycombinator.com/item?id=30910893
+
+https://iliana.fyi/blog/tailscale-auth-and-threat-modeling/
+> https://news.ycombinator.com/item?id=30911109
+
+https://www.bleepingcomputer.com/news/security/hackers-breach-mailchimps-internal-tools-to-target-crypto-customers/
+> https://news.ycombinator.com/item?id=30914492
+
+https://security-list.js.org/#/
+> https://news.ycombinator.com/item?id=30902426
+
+https://www.intego.com/mac-security-blog/apple-neglects-to-patch-zero-day-wild-vulnerabilities-for-macos-big-sur-catalina/
+> https://news.ycombinator.com/item?id=30920648
+
+https://bobbiechen.com/blog/2022/4/3/some-interesting-malware
+> https://news.ycombinator.com/item?id=30901141
+
+https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform
+> https://news.ycombinator.com/item?id=30876527
+
 https://blog.sonarsource.com/php-supply-chain-attack-on-pear
 
 https://github.com/electron/electron/security/advisories/GHSA-3p22-ghq8-v749 CVE-2022-21718 Renderers can obtain access to random bluetooth device without permission
@@ -74,6 +103,7 @@ https://www.cyberkendra.com/2022/03/springshell-rce-0-day-vulnerability.html
 > https://sysdig.com/blog/cve-2022-22965-spring-core-spring4shell/
 > https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-023.pdf
 > https://www.reddit.com/r/java/comments/tt6xj7/spring_boot_rce_cve202222965_can_anybody_explain/
+> https://www.microsoft.com/security/blog/2022/04/04/springshell-rce-vulnerability-guidance-for-protecting-against-and-detecting-cve-2022-22965/
 
 https://billdemirkapi.me/exception-oriented-programming-abusing-exceptions-for-code-execution-part-1/
 > https://news.ycombinator.com/item?id=30841425
@@ -424,6 +454,7 @@ https://dirtypipe.cm4all.com/ CVE-2022-0847
 > https://github.com/rapid7/metasploit-framework/pull/16303
 > https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-014.pdf
 > https://arstechnica.com/information-technology/2022/03/researcher-uses-dirty-pipe-exploit-to-fully-root-a-pixel-6-pro-and-samsung-s22/
+> https://www.hackthebox.com/blog/Dirty-Pipe-Explained-CVE-2022-0847
 
 https://0ut3r.space/2022/03/06/windows-defender/
 > https://news.ycombinator.com/item?id=30580444

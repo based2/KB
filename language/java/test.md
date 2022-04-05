@@ -17,6 +17,8 @@ https://assertj.github.io/doc/
 https://testng.org/doc/book.html
 
 ## 
+https://www.atbash.be/2022/04/03/testing-the-jakarta-ee-core-profile-with-atbash-runtime/
+
 https://blogs.oracle.com/javamagazine/how-to-test-java-microservices-with-pact
 
 https://github.com/intuit/karate

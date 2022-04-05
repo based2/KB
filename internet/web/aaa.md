@@ -1,3 +1,7 @@
+https://sentido-labs.com/en/library/201904240732/Xanadu%20Hypertext%20Documents.html
+> https://news.ycombinator.com/item?id=30905524
+
+https://cup.columbia.edu/book/the-essential-writings-of-vannevar-bush/9780231116435
 
 https://infrequently.org/2020/06/platform-adjacency-theory/
 > https://news.ycombinator.com/item?id=23731387

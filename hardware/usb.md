@@ -19,6 +19,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness.html
+> https://news.ycombinator.com/item?id=30911598
+
 https://docs.google.com/spreadsheets/d/17pNwtiQUkOq5BAUDrK3omSehb5Srn0RfijwQCtHAmZg/edit#gid=0
 > https://news.ycombinator.com/item?id=30483911
 

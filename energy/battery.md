@@ -7,6 +7,12 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.whichev.net/2022/03/29/theion-sulphur-crystal-batteries-promise-breakthrough-in-energy-density/
+> https://news.ycombinator.com/item?id=30903209
+
+https://eandt.theiet.org/content/articles/2022/04/freeze-thaw-battery-stores-electricity-long-term-for-seasonal-release/
+> https://news.ycombinator.com/item?id=30918550
+
 https://www.righto.com/2015/11/macbook-charger-teardown-surprising.html
 > https://news.ycombinator.com/item?id=30877466
 

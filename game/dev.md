@@ -97,6 +97,11 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://www.jakobmaier.at/posts/entity-component-system-for-html5-games/
+
+https://verdagon.dev/blog/yak-shave-language-engine-game
+> https://news.ycombinator.com/item?id=30914148
+
 https://openmw.org/2022/openmw-roadmap-update/
 > https://news.ycombinator.com/item?id=30883623
 

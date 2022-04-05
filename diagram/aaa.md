@@ -121,6 +121,9 @@ https://github.com/michaelkofron/image2ascii
 https://mannhowie.com/finite-state-machines
 
 # News
+https://cmap.ihmc.us/docs/learn.php
+> https://news.ycombinator.com/item?id=30903140
+
 https://www.inkandswitch.com/crosscut/ Drawing Dynamic Models
 > https://news.ycombinator.com/item?id=30855556
 

@@ -54,3 +54,6 @@ https://fujifilm-x.com/global/special/camera-control-sdk/agreement/
 > https://news.ycombinator.com/item?id=30792661
 
 https://www.wired.com/story/leica-m11-digital-rangefinder/
+
+https://blog.fidelramos.net/photography/photography-workflow
+> https://news.ycombinator.com/item?id=30904845

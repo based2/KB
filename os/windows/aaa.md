@@ -71,6 +71,9 @@ https://samples-breakingintowallstreet-com.s3.amazonaws.com/BIWS-Excel-Formattin
 https://github.com/mrthefakeperson/Excel-Virtual-Machine
 > https://news.ycombinator.com/item?id=29399862
 
+https://www.datagridxl.com/
+> https://news.ycombinator.com/item?id=30919257
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 > https://news.ycombinator.com/item?id=26991887

@@ -104,6 +104,23 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal/
+
+https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/
+> https://news.ycombinator.com/item?id=30920543
+
+https://news.ycombinator.com/item?id=30920046 Confluence, Jira, and other Atlassian products are down
+
+https://github.com/asdf-vm/asdf Manage multiple runtime versions with a single CLI tool, extendable via plugins
+
+https://www.mikeperham.com/2022/01/17/happy-10th-birthday-sidekiq/
+> https://news.ycombinator.com/item?id=30917740
+
+https://docs.dagger.io/1215/what-is-cue/ alpha
+> https://github.com/dagger/dagger
+> https://github.com/dagger/dagger/discussions/1677
+> > https://blog.nestybox.com/2020/10/21/gitlab-dind.html Securing GitLab CI pipelines with Sysbox
+
 https://squeaky.ai/blog/development/why-we-dont-use-a-staging-environment
 > https://news.ycombinator.com/item?id=30899362
 

@@ -353,6 +353,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://foundation.rust-lang.org/news/2022-03-31-cgp-is-open-announcement/
+> https://foundation.rust-lang.org/grants/
+
+https://mabez.dev/blog/posts/esp-rust-04-04-2022/
+> https://news.ycombinator.com/item?id=30913359
+
 https://cliffle.com/blog/rust-mutexes/
 >
 

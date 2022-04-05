@@ -55,6 +55,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.bbc.com/news/science-environment-60984663
+> https://news.ycombinator.com/item?id=30920258
+
+https://github.com/ThijsRay/coppers Show HN: Rust test harness that measures energy consumption
+> https://news.ycombinator.com/item?id=30918318
+
 https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.754 Solar geoengineering: The case for an international non-use agreement
 
 https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_SummaryForPolicymakers.pdf

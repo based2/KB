@@ -94,6 +94,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.lcevc.org/how-lcevc-works/
+> https://news.ycombinator.com/item?id=30905736
+
+https://everydaything.substack.com/p/35mm-cinema-film-and-digital-audio?s=r
+> https://news.ycombinator.com/item?id=30919904
+
 https://www.neowin.net/news/intel-beats-amd-and-nvidia-to-become-the-first-with-full-av1-support-with-its-new-arc-gpus/
 > https://news.ycombinator.com/item?id=30896760
 

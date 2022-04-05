@@ -339,6 +339,9 @@ https://overreacted.io/npm-audit-broken-by-design/
 https://github.com/egoist/dum
 > https://news.ycombinator.com/item?id=30778321
 
+https://pnpm.io/
+> https://news.ycombinator.com/item?id=30919487
+
 #
 https://github.com/mechaniac/Map-of-Javascript
 
@@ -368,6 +371,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://v1launchweek.redwoodjs.com/
+> https://news.ycombinator.com/item?id=30907119
+
 https://blitzjs.com/docs/blitz-pivot
 > https://github.com/blitz-js/blitz/discussions/3075
 > https://news.ycombinator.com/item?id=30896931

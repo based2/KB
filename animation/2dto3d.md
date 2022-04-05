@@ -28,3 +28,6 @@ https://news.ycombinator.com/item?id=30552988 Launch HN: Kaedim – API for 3D U
 
 https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/
 > https://news.ycombinator.com/item?id=30806925
+
+https://www.capturingreality.com/introducing-realityscan
+>

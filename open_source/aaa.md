@@ -66,6 +66,8 @@ http://www.openboard.ch/index.en.html
 
 ## Text
 
+https://www.scribus.net/category/about/
+
 ### Reader
 https://calibre-ebook.com
 

@@ -22,6 +22,9 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/
+> https://news.ycombinator.com/item?id=30904019
+
 https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1
 
 https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning

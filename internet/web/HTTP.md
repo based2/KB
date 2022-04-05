@@ -136,6 +136,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://www.http-feeds.org/
+> https://news.ycombinator.com/item?id=30904220
+
 https://evertpot.com/get-request-bodies/
 > https://evertpot.com/get-request-bodies/
 > > https://www.ietf.org/id/draft-ietf-httpbis-safe-method-w-body-02.html

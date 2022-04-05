@@ -35,6 +35,9 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/
+> https://news.ycombinator.com/item?id=30918689
+
 https://rootly.com/blog/what-sres-can-learn-from-capt-sully-when-to-follow-playbooks
 
 https://www.cs.cornell.edu/home/rvr/papers/GossipFD.pdf A Gossip-Style Failure Detection Service

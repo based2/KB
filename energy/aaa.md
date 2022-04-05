@@ -12,6 +12,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://techxplore.com/news/2022-04-3d-printed-exchanger-efficient-conventional.html
+> https://news.ycombinator.com/item?id=30919314
+
+https://constructionphysics.substack.com/p/looking-at-energy-use-in-us-residential?s=r
+> https://news.ycombinator.com/item?id=30898311
+
 https://arstechnica.com/science/2022/02/time-shifted-computing-could-slash-data-center-energy-costs-by-up-to-30/
 
 https://www.entsoe.eu/news/2022/03/16/continental-europe-successful-synchronisation-with-ukraine-and-moldova-power-systems/

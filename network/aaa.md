@@ -103,6 +103,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://www.x86matthew.com/view_post?id=audio_transmit
+> https://news.ycombinator.com/item?id=30907937
+
 https://news.ycombinator.com/item?id=30889663
 
 https://news.ycombinator.com/item?id=30870470 Ask HN: Is a new router worth it?

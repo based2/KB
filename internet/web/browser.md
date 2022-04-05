@@ -30,6 +30,12 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.mozilla.org/en-US/firefox/100.0a2/whatsnew/
+> https://news.ycombinator.com/item?id=30920042
+
+https://www.mozilla.org/en-US/firefox/99.0/releasenotes/
+> https://news.ycombinator.com/item?id=30918340
+
 https://twitter.com/plexus/status/1510568329303445507 What happens if you try to download and install Firefox on Windows
 > https://news.ycombinator.com/item?id=30896403
 

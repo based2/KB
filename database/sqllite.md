@@ -91,6 +91,14 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/wal.html
+
+https://til.simonwillison.net/sqlite/enabling-wal-mode
+> https://news.ycombinator.com/item?id=30910562
+
+https://lumosql.org/src/lumosql/doc/trunk/README.md
+> https://news.ycombinator.com/item?id=30895916
+
 https://sqlite.org/btreemodule.html
 > https://news.ycombinator.com/item?id=30894913
 > > https://github.com/LMDB/sqlightning

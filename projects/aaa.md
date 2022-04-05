@@ -122,6 +122,9 @@ https://jacobian.org/2021/oct/20/simple-pm-tricks/
 https://www.reforge.com/blog/technical-decision-making
 > https://news.ycombinator.com/item?id=29720000
 
+https://shuby.de/blog/post/decision-matrix
+> https://news.ycombinator.com/item?id=30893178
+
 # Analysis
 https://xyproblem.info/
 > https://news.ycombinator.com/item?id=27061704

@@ -68,6 +68,14 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://blog.readyset.io/posts/introducing-readyset
+> https://news.ycombinator.com/item?id=30922082
+
+https://code.jsoftware.com/wiki/Doc/Articles/Play104 The 10,000,000,000th Prime Number
+> https://news.ycombinator.com/item?id=23310684
+> > https://code.jsoftware.com/wiki/Jd/Overview Columns
+> > > https://news.ycombinator.com/item?id=30905662
+
 https://medium.com/@abdul_74410/improving-query-performance-by-10000x-79b84c80fbaf Index tuning
 
 https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf

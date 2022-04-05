@@ -106,6 +106,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://medium.com/about-erlang/how-private-are-erlang-private-functions-36382c6abfa4
+> https://news.ycombinator.com/item?id=30903649
+
 https://www.erlang-in-anger.com/
 > https://news.ycombinator.com/item?id=30611319
 

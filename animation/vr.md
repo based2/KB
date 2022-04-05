@@ -1,3 +1,5 @@
+https://www.collabora.com/news-and-blog/blog/2022/04/05/visual-inertial-tracking-support-for-monado-openxr/
+
 https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-696.pdf An introduction to inertial navigation
 
 https://www.pwc.es/es/publicaciones/entretenimiento-y-medios/assets/juego-online-importante-mundos-virtuales.pdf

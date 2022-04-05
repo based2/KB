@@ -258,6 +258,14 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://ayazhafiz.com/articles/22/why-dont-more-languages-offer-flow-typing
+> https://news.ycombinator.com/item?id=30907178
+
+https://codecs.multimedia.cx/2022/02/looking-at-zig-programming-language/
+> https://news.ycombinator.com/item?id=30919305
+
+https://www.cs.tufts.edu/~nr/cs257/archive/joseph-williams/phenomenology-of-error.pdf
+
 https://www.laurentluce.com/posts/python-dictionary-implementation/
 
 https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzjc5rsufndeu0py/

@@ -42,12 +42,17 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 * Alibaba - China
 * AWS - USA (us-east1-1 KMS, usGov, secret zone), China
   * https://www.reddit.com/r/devops/comments/sb3ujr/zombie_exception_in_aws_a_little_humor_for_a_long/
-* Azure - USA, China (https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/spending-limit), Russia(https://docs.microsoft.com/en-us/compliance/regulatory/offering-russia-data-localization)
+* Azure - Germany, USgov, China (https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/spending-limit), Russia(https://docs.microsoft.com/en-us/compliance/regulatory/offering-russia-data-localization)
 * Google
 * IBM
 * Oracle
 
 ## Landing zone cost
+
+# Security partners
+* AWS - FW https://docs.aws.amazon.com/managedservices/latest/userguide/networking-palo-alto.html
+* Azure - HSM https://docs.microsoft.com/en-us/azure/dedicated-hsm/faq
+* Alibaba -
 
 # Resizing a disk
 
@@ -70,6 +75,10 @@ https://supabase.com/blog/2022/03/31/supabase-edge-functions
 > https://news.ycombinator.com/item?id=30868849
 
 # News
+https://azure.microsoft.com/en-us/blog/now-in-preview-azure-virtual-machines-with-ampere-altra-armbased-processors/
+
+https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison/
+
 https://www.stackit.de/en
 > https://news.ycombinator.com/item?id=30853778
 

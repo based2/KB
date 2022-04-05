@@ -59,6 +59,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://mjg59.dreamwidth.org/59353.html Bearer tokens are just awful
+> https://news.ycombinator.com/item?id=30916192
+
 https://theburningmonk.com/2021/03/the-case-for-and-against-amazon-cognito/
 
 https://www.alexanderlolis.com/authorization-in-a-microservices-world

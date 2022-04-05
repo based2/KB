@@ -139,6 +139,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://arstechnica.com/science/2022/04/some-of-the-stranger-features-on-pluto-remain-tough-to-explain/
+
+https://www.theverge.com/2022/4/5/23010245/amazon-project-kuiper-megaconstellation-arianespace-ula-blue-origin
+> https://news.ycombinator.com/item?id=30917494
+
 https://astronomynow.com/2021/01/29/sextuple-star-system-fascinates-with-three-eclipsing-binaries/
 
 https://arstechnica.com/science/2022/03/impulse-space-is-betting-on-a-future-where-launch-is-cheap/

@@ -15,6 +15,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://www.ns.nl/en/travel-information/calamities/sunday-3-april-no-more-ns-trains.html
+> https://news.ycombinator.com/item?id=30901009
+
 https://news.ycombinator.com/item?id=30857055
 
 https://arstechnica.com/cars/2018/12/mining-company-says-first-autonomous-freight-train-network-is-fully-operational/

@@ -118,6 +118,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://lemire.me/blog/2022/04/05/string-representations-are-not-unique-learn-to-normalize/
+
 https://www.mcclimon.org/blog/writing-text-with-flag-emojis/
 
 https://github.com/wolfgarbe/SymSpell Spelling correction & Fuzzy search

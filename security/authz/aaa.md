@@ -14,3 +14,5 @@ https://github.com/warrant-dev/awesome-authorization
 https://colinking.substack.com/p/the-on3-authz-problem
 
 https://neilmadden.blog/2022/02/19/is-datalog-a-good-language-for-authorization/
+
+https://blogs.itemis.com/en/an-open-source-policy-language-for-attribute-stream-based-access-control-asbac
