@@ -207,6 +207,19 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1
+> https://news.ycombinator.com/item?id=30942751
+
+https://federalnewsnetwork.com/tom-temin-commentary/2020/10/irs-details-strategy-for-replacing-its-most-ancient-computer-code/
+> https://news.ycombinator.com/item?id=30937181
+
+https://danluu.com/simple-architectures/
+> https://news.ycombinator.com/item?id=30936189
+
+https://www.infoq.com/articles/architecture-trends-2022/
+
+https://martinfowler.com/bliki/BoundedContext.html
+
 https://future.a16z.com/emerging-architectures-modern-data-infrastructure/
 
 https://thenewstack.io/is-serverless-just-a-stopover-for-event-driven-architecture/

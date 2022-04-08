@@ -119,6 +119,10 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://missiveapp.com/
+> https://missiveapp.com/blog/the-things-we-did-not-do
+> > https://news.ycombinator.com/item?id=30935709
+
 https://getpopfile.org/ Automatically sorts your email messages and fights spam
 > https://news.ycombinator.com/item?id=30832699
 

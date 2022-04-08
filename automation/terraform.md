@@ -43,9 +43,35 @@ https://blog.gruntwork.io/a-comprehensive-guide-to-managing-secrets-in-your-terr
 
 https://bridgecrew.io/blog/avoid-most-common-aws-misconfigurations/
 
+# Secret
+
 https://github.com/opencredo/terrahelp
 
+# Tests
+
+https://terratest.gruntwork.io/
+
+https://www.terraform.io/language/modules/testing-experiment
+
+# Linter
+
+https://github.com/terraform-linters/tflint
+
+# Sec
+
+https://terraform-compliance.com/
+
+https://terraform-compliance.com/
+
+https://aquasecurity.github.io/tfsec/
+
+https://www.validiac.com/ ui
+
 # News
+https://github.com/nike-inc/pterradactyl abstract TF configuration from the TF environment setup
+
+https://engineering.hardfin.com/2022/04/emulate-rds-permissions/
+
 https://medium.com/@adrianarba/ci-cd-defined-through-terraform-using-aws-codepipeline-aws-codecommit-and-aws-codebuild-12ade4d9cfa3
 
 https://github.com/JasonPodgorny/terrafunk

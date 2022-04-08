@@ -69,6 +69,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://zaplib.com/docs/blog_ts++.html
+> https://news.ycombinator.com/item?id=30947680
+
 https://pbkit.dev/ Protobuf toolkit written in Deno/TypeScript
 > https://news.ycombinator.com/item?id=30903675
 

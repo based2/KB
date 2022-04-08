@@ -86,6 +86,14 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://www.pixelstech.net/article/1649142989-SkipList-in-Go
+
+https://faun.pub/implmenting-timeout-in-golang-ee2bc4aa6ae4
+> https://www.reddit.com/r/golang/comments/tvra6n/the_pitfalls_on_using_timeout_in_go/
+
+https://engineering.kablamo.com.au/posts/2022/field-level-data-encryption-in-go
+> https://www.reddit.com/r/golang/comments/tvoehb/go_generics_for_field_level_database_encryption/
+
 https://www.dolthub.com/blog/2022-04-01-fast-generics/
 > 
 

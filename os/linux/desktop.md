@@ -59,6 +59,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/
+> https://news.ycombinator.com/item?id=30944438
+
 https://regolith-linux.org/ Ubuntu, GNOME, and i3
 > https://news.ycombinator.com/item?id=30895619
 

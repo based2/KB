@@ -1,5 +1,7 @@
 https://git-scm.com/
 
+https://pre-commit.com/
+
 https://github.com/summitech/gitexplorer
 
 https://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;
@@ -257,6 +259,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://stackoverflow.blog/2022/04/06/use-git-tactically/
+> https://news.ycombinator.com/item?id=30943478
+
 https://telemachus.me/git-can-break-your-tests
 
 https://github.com/gitext-rs/git-stack

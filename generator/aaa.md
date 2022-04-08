@@ -9,3 +9,5 @@ https://github.com/square/javapoet
 https://github.com/forge/roaster
 
 https://github.com/melvic-ybanez/chi scala
+
+https://github.com/partiql/partiql-ir-generator PIG is a compiler framework, domain modeling tool and code generator for tree data structures such as ASTs (Abstract Syntax Tree), database logical plans, database physical plans, and other intermediate representations.

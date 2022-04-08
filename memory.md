@@ -34,3 +34,6 @@ https://github.com/microsoft/snmalloc
 https://nullprogram.com/blog/2022/03/13/
 
 https://bergel.eu/MyPapers/Fern22a-ACMSurvey.pdf Software Visualizations to Analyze Memory Consumption: A Literature Review
+
+https://gankra.github.io/blah/tower-of-weakenings/
+> https://news.ycombinator.com/item?id=30931818

@@ -59,6 +59,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://betterprogramming.pub/stop-using-json-web-tokens-for-authentication-use-stateful-sessions-instead-c0a803931a5d
+> https://news.ycombinator.com/item?id=30957609
+
 https://mjg59.dreamwidth.org/59353.html Bearer tokens are just awful
 > https://news.ycombinator.com/item?id=30916192
 

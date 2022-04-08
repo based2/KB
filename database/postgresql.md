@@ -238,6 +238,8 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://github.com/postgres-ai/database-lab-engine/releases/tag/v3.1.0
+
 https://www.highgo.ca/2021/07/23/the-amazing-buffer-tag-in-postgresql/
 
 https://blog.crunchydata.com/blog/announcing-postgres-container-apps-easy-deploy-postgres-apps

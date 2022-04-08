@@ -77,6 +77,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://www.delldesignsystem.com/
+> https://news.ycombinator.com/item?id=30929458
+
 https://gds.blog.gov.uk/2022/03/31/the-gov-uk-design-system-is-now-live/
 > https://news.ycombinator.com/item?id=30877049
 

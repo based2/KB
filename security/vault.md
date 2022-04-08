@@ -39,6 +39,9 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 #
+https://keepassxc.org/blog/2022-04-06-2.7.1-released/
+> https://news.ycombinator.com/item?id=30936485
+
 https://news.ycombinator.com/item?id=30855879 EnvKey 2.0 – End-To-End Encrypted Environments (now open source)
 
 https://news.ycombinator.com/item?id=30806102 PI-0.core.keybaseapi.com has expired certificate

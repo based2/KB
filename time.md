@@ -94,6 +94,8 @@ https://leancrew.com/all-this/2021/10/how-many-thursdays/
 https://jol.dev/blog/2021-11-16-n2-sed-challenge-join-cal-y-months-into-a-single-column.html
 > https://news.ycombinator.com/item?id=29255125
 
+https://news.ycombinator.com/item?id=30929022 Bloben – Self-hosted web CalDAV calendar client
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster

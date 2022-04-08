@@ -2,6 +2,8 @@ https://github.com/Kristories/awesome-guidelines
 
 https://zwischenzugs.com/2020/11/30/gitops-decisions/
 
+https://cookiecutter.readthedocs.io/en/1.7.2/
+
 https://blog.spinnaker.io/managed-delivery-evolving-continuous-delivery-at-netflix-eb74877fb33c
 
 https://worklifenotes.com/2020/06/04/7-best-practices-modern-cicd/
@@ -104,6 +106,22 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # News
+https://sourcehut.org/blog/2022-04-08-2021-financial-report/
+> https://news.ycombinator.com/item?id=30956872
+
+https://shopify.github.io/shadowenv/
+> https://news.ycombinator.com/item?id=30957613
+
+https://turborepo.org/blog/turbo-1-2-0
+> https://news.ycombinator.com/item?id=30958653
+
+https://news.ycombinator.com/item?id=30960499 Multiple Atlassian services suffering outages
+
+https://jinyuz.dev/posts/tips-and-tricks/Switching-from-pyenv,-rbenv,-goenv-and-nvm-to-asdf
+> https://news.ycombinator.com/item?id=30917354
+
+https://news.ycombinator.com/item?id=30931475 CircleCI Down
+
 https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal/
 
 https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/

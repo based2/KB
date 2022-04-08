@@ -49,3 +49,11 @@ https://hackernoon.com/learn-k-means-clustering-by-quantizing-color-images-in-py
 
 https://www.unite.ai/reshaping-human-body-types-with-ai/
 > https://news.ycombinator.com/item?id=30866004
+
+https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqgan-clip.html
+
+https://github.com/Rayhane-mamah/Efficient-VDVAE
+
+# text2img
+https://openai.com/dall-e-2/
+> https://news.ycombinator.com/item?id=30932095

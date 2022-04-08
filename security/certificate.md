@@ -32,6 +32,8 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # News
+https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6
+
 https://www.windley.com/archives/2022/03/the_ukrainian_war_pki_and_censorship.shtml
 
 https://transparencyreport.google.com/https/certificates Google's Certificate Transparency Search page to be discontinued May 15th, 2022

@@ -18,6 +18,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://gcloud-compute.com/
+> https://news.ycombinator.com/item?id=30957842
+
 https://news.ycombinator.com/item?id=30811297
 
 https://cloud.google.com/blog/products/infrastructure/updates-to-google-clouds-infrastructure-pricing

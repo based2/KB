@@ -91,6 +91,8 @@ https://www.sekinoworld.com/fractal/
 https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation display
 > https://news.ycombinator.com/item?id=30116530
 
+https://www.sliderules.org/
+
 # News
 https://hturan.com/writing/complex-numbers-glsl
 

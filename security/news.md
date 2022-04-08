@@ -1,3 +1,45 @@
+https://educatedguesswork.org/posts/messaging-e2e/
+
+https://www.rtcsec.com/article/exploiting-cve-2022-0778-in-openssl-vs-webrtc-platforms/
+
+https://lists.apache.org/thread/dlcqfd51mhglr368kc1qbfftjp4vgbg1 CVE-2022-26850: Apache NiFi: Insufficiently protected credentials
+
+https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits-containing-api-keys-auth-tokens/
+
+https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/
+> https://news.ycombinator.com/item?id=30945900
+
+https://security.googleblog.com/2022/04/improving-software-supply-chain.html
+> https://news.ycombinator.com/item?id=30945622
+
+https://www.bleepingcomputer.com/news/security/raspberry-pi-removes-default-user-to-hinder-brute-force-attacks/
+> https://news.ycombinator.com/item?id=30949132 raspberry pi
+
+https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-vulnerabilities-in-multiple-products/
+
+https://www.bleepingcomputer.com/news/security/palo-alto-networks-firewalls-vpns-vulnerable-to-openssl-bug/
+
+https://lists.apache.org/thread/2dbgr1bxlsfsjtgclvzbs8hsqfnfkvjs CVE-2020-1958: Apache Druid LDAP injection vulnerability 
+
+https://lists.apache.org/thread/vbrcw4b4sltrhz1l52k8rgdtl1g92o84 CVE-2022-23974: Apache Pinot: Pinot segment push endpoint has a vulnerability in unprotected environments
+
+https://news.ycombinator.com/item?id=30938036 GitHub and Gitlab exposes all user's public SSH keys
+> https://rushter.com/blog/public-ssh-keys/
+
+https://www.tomshardware.com/news/amd-confirms-its-gpu-drivers-are-overclocking-cpus-without-asking
+
+https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-disruption-botnet-controlled-russian-federation
+
+https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/
+> https://news.ycombinator.com/item?id=30934721
+
+https://www.catonetworks.com/blog/the-dga-algorithm-used-by-dealply-and-bujo/
+> https://www.reddit.com/r/programming/comments/tv45c1/the_dga_algorithm_used_by_dealply_and_bujo/
+
+https://access.redhat.com/security/cve/CVE-2022-0435 TIPC protocol, cluster
+> https://en.wikipedia.org/wiki/Transparent_Inter-process_Communication
+> http://www.tipc.io/
+
 https://blog.aquasec.com/python-ransomware-jupyter-notebook
 
 https://clearbluejar.github.io/posts/introducing-cve-markdown-charts-part-1/
@@ -58,6 +100,7 @@ https://about.gitlab.com/releases/2022/03/31/critical-security-release-gitlab-14
 > https://news.ycombinator.com/item?id=30872415
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-304/
 > https://www.theregister.com/2022/04/01/gitlab_security_advisory/
+> https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-024.pdf
 
 https://www.technologyreview.com/2022/02/28/1046575/how-china-built-a-one-of-a-kind-cyber-espionage-behemoth-to-last/
 
@@ -85,6 +128,7 @@ http://www.lupinia.net/writing/tech/scammed.htm
 
 https://arstechnica.com/information-technology/2022/03/lapsus-and-solar-winds-hackers-both-use-the-same-old-trick-to-bypass-mfa/
 > https://news.ycombinator.com/item?id=30848330
+> https://krebsonsecurity.com/2022/04/the-original-apt-advanced-persistent-teenagers/
 
 https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/
 
@@ -104,6 +148,8 @@ https://www.cyberkendra.com/2022/03/springshell-rce-0-day-vulnerability.html
 > https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-023.pdf
 > https://www.reddit.com/r/java/comments/tt6xj7/spring_boot_rce_cve202222965_can_anybody_explain/
 > https://www.microsoft.com/security/blog/2022/04/04/springshell-rce-vulnerability-guidance-for-protecting-against-and-detecting-cve-2022-22965/
+> https://www.reddit.com/r/java/comments/tyixgo/understanding_spring4shell_rce_remote_code/
+> https://github.com/alt3kx/CVE-2022-22965 Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive)
 
 https://billdemirkapi.me/exception-oriented-programming-abusing-exceptions-for-code-execution-part-1/
 > https://news.ycombinator.com/item?id=30841425
@@ -309,7 +355,7 @@ https://www.bleepingcomputer.com/news/security/microsoft-defender-tags-office-up
 
 https://www.openssl.org/news/secadv/20220315.txt
 
-https://lists.apache.org/list?announce@apache.org:2022-3 CVE-2022-26779: Apache Cloudstack insecure random number generation affects project email invitation
+https://blogs.apache.org/cloudstack/entry/cloudstack-advisory-on-insecure-project CVE-2022-26779: Apache Cloudstack insecure random number generation affects project email invitation
 
 https://www.curtisswrightds.com/news/blog/nsa-type-1-encryption.html
 > https://en.wikipedia.org/wiki/NSA_product_types
@@ -324,7 +370,7 @@ https://github.com/vuejs/vue-cli/issues/7054
 https://mrd0x.com/browser-in-the-browser-phishing-attack/
 > https://news.ycombinator.com/item?id=30697329
 
-https://lists.apache.org/list?announce@apache.org:2022-3 CVE-2022-22720: HTTP request smuggling vulnerability in Apache HTTP Server 2.4.52 and earlier
+https://lists.apache.org/thread/v4t6w3t50sc33w2kl3127dh7zcbbnt37 CVE-2022-22720: HTTP request smuggling vulnerability in Apache HTTP Server 2.4.52 and earlier
 
 https://support.apple.com/en-us/HT201222
 
@@ -454,6 +500,7 @@ https://dirtypipe.cm4all.com/ CVE-2022-0847
 > https://github.com/rapid7/metasploit-framework/pull/16303
 > https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-014.pdf
 > https://arstechnica.com/information-technology/2022/03/researcher-uses-dirty-pipe-exploit-to-fully-root-a-pixel-6-pro-and-samsung-s22/
+> https://www.hackthebox.com/blog/Dirty-Pipe-Explained-CVE-2022-0847
 > https://www.hackthebox.com/blog/Dirty-Pipe-Explained-CVE-2022-0847
 
 https://0ut3r.space/2022/03/06/windows-defender/
@@ -658,7 +705,7 @@ https://arxiv.org/abs/2202.08477 A Method for Decrypting Data Infected with Hive
 https://www.bloombergquint.com/technology/-zero-click-hacks-by-nso-group-and-others-growing-in-popularity
 > https://news.ycombinator.com/item?id=30395786
 
-https://lists.apache.org/list?announce@apache.org:2022-2 CVE-2022-24288: Apache Airflow: RCE in example DAGs
+https://lists.apache.org/thread/js6qkohmdwt1cz5jwjqq8bo37jnjpypr CVE-2022-24288: Apache Airflow: RCE in example DAGs
 
 https://shufflingbytes.com/posts/hacking-goip-gsm-gateway/
 > https://news.ycombinator.com/item?id=30351609

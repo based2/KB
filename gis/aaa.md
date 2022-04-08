@@ -146,6 +146,9 @@ https://www.sovietmaps.com/node/2
 
 https://openinframap.org/#5.44/40.799/-75.629
 
+https://maps.nicholsonroad.com/zones/ vancouver
+> https://news.ycombinator.com/item?id=30960632
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 
@@ -189,6 +192,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://protomaps.com/blog/serverless-self-hosted-maps/
+> https://news.ycombinator.com/item?id=30948255
+
 https://en.wikipedia.org/wiki/Turin_Papyrus_Map
 
 https://github.com/minad/osm emacs

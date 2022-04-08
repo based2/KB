@@ -371,6 +371,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://deno.com/blog/a-whole-website-in-a-single-js-file
+> https://news.ycombinator.com/item?id=30933831
+
 https://v1launchweek.redwoodjs.com/
 > https://news.ycombinator.com/item?id=30907119
 

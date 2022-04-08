@@ -185,6 +185,9 @@ https://bashny.net/t/en/34007 Encyclopedia professor Fortran
 https://craftofcoding.wordpress.com/2022/02/11/what-fortran-does-better-than-c-like-languages/
 > https://news.ycombinator.com/item?id=30314189
 
+https://arxiv.org/abs/2203.15110
+> https://news.ycombinator.com/item?id=30935633
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100

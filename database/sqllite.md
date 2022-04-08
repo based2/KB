@@ -91,6 +91,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://tailscale.com/blog/database-for-2022/
+> https://www.reddit.com/r/programming/comments/tuags0/a_database_for_2022_tailscale/
+
 https://sqlite.org/wal.html
 
 https://til.simonwillison.net/sqlite/enabling-wal-mode

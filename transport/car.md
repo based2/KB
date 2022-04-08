@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://speedcamanywhere.com/
+> https://news.ycombinator.com/item?id=30933163
+
 https://www.theverge.com/2022/1/20/22891314/mercedes-benz-luminar-equity-stake-lidar-autonomous-vehicles
 
 https://www.patentlyapple.com/patently-apple/autonomous-vehicle-technology/

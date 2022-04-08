@@ -36,6 +36,9 @@ https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neuro
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://royalsocietypublishing.org/doi/10.1098/rsos.211926
+> https://news.ycombinator.com/item?id=30931998
+
 https://www.simonsfoundation.org/2022/03/29/cracking-the-neural-code-in-humans/
 > https://news.ycombinator.com/item?id=30859975
 

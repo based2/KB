@@ -44,6 +44,9 @@ https://forums.aws.amazon.com/thread.jspa?messageID=598211 SSHFP records
 
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times
 
+https://support.mozilla.org/en-US/kb/firefox-dns-over-https
+> https://news.ycombinator.com/item?id=30952056
+
 # 
 https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors
 

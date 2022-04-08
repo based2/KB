@@ -129,6 +129,9 @@ https://emacsninja.com/posts/forbidden-emacs-lisp-knowledge-block-comments.html
 
 https://www.gnu.org/software/emacs/manual/html_node/elisp/Buffer-Gap.html
 
+https://www.masteringemacs.org/article/whats-new-in-emacs-28-1
+> https://news.ycombinator.com/item?id=30930816
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -156,6 +159,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/dail8859/NotepadNext
+> https://news.ycombinator.com/item?id=30959025
+
 https://git.savannah.gnu.org/cgit/emacs.git/commit/?id=de7901abbc21114721057c907cc52455e228f826 28.1
 
 https://news.ycombinator.com/item?id=30895905 	Ask HN: Is there a tool to generate binary protocol figures out of a spec? SVG

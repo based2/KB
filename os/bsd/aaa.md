@@ -111,6 +111,9 @@ https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html
 > https://news.ycombinator.com/item?id=30637770
 
 # NetBSD
+https://saurvs.github.io/post/writing-netbsd-kern-mod/
+> https://news.ycombinator.com/item?id=30927847
+
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 

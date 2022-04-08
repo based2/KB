@@ -42,16 +42,15 @@ https://blog.adacore.com/going-beyond-ada-2022
 # Ada++
 http://www.adapplang.com/
 
+# Build
+https://alire.ada.dev/
+
 # Spark
 https://www.adacore.com/about-spark
 
 https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
 > https://news.ycombinator.com/item?id=27060180
 
-# Build
-https://alire.ada.dev/
-
-# Spark
 https://www.reddit.com/r/spark/
 
 https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
@@ -62,6 +61,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://www.linux.com/audience/developers/hacking-the-linux-kernel-in-ada-part-1/
+
 https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html
 
 https://blog.adacore.com/learn-2021-updates

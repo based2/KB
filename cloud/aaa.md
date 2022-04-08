@@ -75,7 +75,11 @@ https://supabase.com/blog/2022/03/31/supabase-edge-functions
 > https://news.ycombinator.com/item?id=30868849
 
 # News
+https://pipedream.com/
+> https://news.ycombinator.com/item?id=30941740
+
 https://azure.microsoft.com/en-us/blog/now-in-preview-azure-virtual-machines-with-ampere-altra-armbased-processors/
+> https://news.ycombinator.com/item?id=30931622
 
 https://redpanda.com/blog/aws-graviton-2-arm-vs-x86-comparison/
 

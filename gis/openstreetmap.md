@@ -16,3 +16,5 @@ https://www.ctrl.blog/entry/re-maps-public-service.html
 
 https://github.com/codesoap/osmf
 > https://news.ycombinator.com/item?id=30300693
+
+https://www.fastly.com/blog/how-openstreetmap-uses-our-modern-cdn-to-push-near-instant-updates-worldwide

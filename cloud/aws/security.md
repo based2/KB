@@ -21,6 +21,8 @@ https://blog.assetnote.io/2022/02/13/dangling-eips/
 https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 
 #
+https://github.com/jonrau1/ElectricEye
+
 https://github.com/ovotech/domain-protect
 
 https://github.com/SummitRoute/imdsv2_wall_of_shame

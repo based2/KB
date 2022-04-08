@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://lwn.net/SubscriberLink/890219/79e54e3aab20bd87/ Debian still having trouble with merged /usr
+> https://news.ycombinator.com/item?id=30929024
+
 https://www.phoronix.com/scan.php?page=news_item&px=Fedora-37-Deprecate-BIOS
 
 https://releases.ubuntu.com/jammy/

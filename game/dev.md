@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://cosplayengine.com/ scala 2d ascii
+
 https://www.jakobmaier.at/posts/entity-component-system-for-html5-games/
 
 https://verdagon.dev/blog/yak-shave-language-engine-game

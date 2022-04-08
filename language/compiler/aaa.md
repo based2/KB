@@ -108,6 +108,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://news.ycombinator.com/item?id=30935064
+
 https://gcc.gnu.org/pipermail/gcc/2022-March/238452.html LoongArch port accepted and maintainers appointed
 > https://news.ycombinator.com/item?id=30802316
 

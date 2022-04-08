@@ -16,6 +16,11 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://techxplore.com/news/2022-04-breakthrough-faster-than-sound-jet.html
+
+https://simpleflying.com/unresponsive-air-france-boeing-777-aborts-landing-paris/
+> https://news.ycombinator.com/item?id=30935269
+
 https://spectrum.ieee.org/axial-flux
 > https://news.ycombinator.com/item?id=30816149
 

@@ -108,6 +108,10 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://sympa.inria.fr/sympa/arc/cado-nfs/2020-02/msg00001.html [Cado-nfs-discuss] Factorization of RSA-250
+> https://news.ycombinator.com/item?id=30958912
+> https://news.ycombinator.com/item?id=22816167
+
 https://blog.trailofbits.com/2019/07/08/fuck-rsa/
 > https://news.ycombinator.com/item?id=30879442
 

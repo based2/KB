@@ -113,6 +113,9 @@ https://www.diffblue.com/
 
 https://www.tabnine.com/
 
+https://github.com/drcode/good-guesser
+> https://news.ycombinator.com/item?id=30925917
+
 # Art
 https://ml.berkeley.edu/blog/posts/clip-art/
 > https://news.ycombinator.com/item?id=27696369
@@ -251,6 +254,17 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html
+
+https://antoinebrl.github.io//blog/rl-mars-lander/
+
+https://spectrum.ieee.org/andrew-ng-data-centric-ai
+> https://news.ycombinator.com/item?id=30939282
+
+https://blog.heim.xyz/palm-training-cost/
+
+https://news.ycombinator.com/item?id=30955699 Show HN: Programmatic – a REPL for creating labeled data
+
 https://blog.nelhage.com/post/transformers-for-software-engineers/
 
 https://cprimozic.net/blog/neural-network-experiments-and-visualizations/

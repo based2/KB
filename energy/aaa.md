@@ -12,6 +12,11 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.heise.de/news/Porsche-investiert-75-Millionen-US-Dollar-in-E-Fuels-Produktion-6665043.html
+
+https://www.cleanenergywire.org/news/germany-boosts-renewables-biggest-energy-policy-reform-decades
+> https://news.ycombinator.com/item?id=30931803
+
 https://techxplore.com/news/2022-04-3d-printed-exchanger-efficient-conventional.html
 > https://news.ycombinator.com/item?id=30919314
 

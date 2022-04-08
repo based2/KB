@@ -19,6 +19,9 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://www.perfecto.io/blog/two-factor-authentication tests
+> https://www.reddit.com/r/programming/comments/tv4tri/how_to_test_twofactor_authentication_a_guide_with/
+
 https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/
 > https://news.ycombinator.com/item?id=30224777
 > > https://webauthn.io/

@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://github.com/zachwinter/kaleidosync
+> https://news.ycombinator.com/item?id=30929909
+
 https://peterfidelman.github.io/constructor/ HTML5-based physics simulation for building and animating springy creations
 > https://news.ycombinator.com/item?id=30887695
 

@@ -34,6 +34,7 @@ https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/
 
 # Visu
 https://gephi.org/
+> https://news.ycombinator.com/item?id=30915870
 
 https://ssw.jku.at/General/Staff/TW/igv.html
 
@@ -61,6 +62,10 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://www.quantamagazine.org/what-a-math-party-game-tells-us-about-graph-theory-20220324/
+> https://news.ycombinator.com/item?id=30941482
+> > https://en.wikipedia.org/wiki/Handshaking_lemma
+
 https://github.com/nadavrot/layout Graphviz in rust
 > https://news.ycombinator.com/item?id=30715168
 

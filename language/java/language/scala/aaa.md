@@ -76,6 +76,8 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://blog.indoorvivants.com/2022-03-03-twotm8-part-1-introduction native
+
 https://scalac.io/blog/inline-your-boilerplate-harnessing-scala3-metaprogramming-without-macros/
 > https://github.com/scalalandio/chimney
 

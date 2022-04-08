@@ -255,6 +255,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.infoq.com/articles/tools-for-jakarta-ee-devs/ wildfly
+
+https://arjan-tijms.omnifaces.org/2022/04/whats-new-in-jakarta-security-3.html OpenID Connect
+
 https://newsroom.eclipse.org/eclipse-newsletter/2022/march/what%E2%80%99s-new-jakarta-persistence-31
 
 https://www.i-programmer.info/news/80-java/15317-wheres-java-going-in-2022.html

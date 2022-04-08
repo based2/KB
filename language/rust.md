@@ -353,6 +353,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.rust-lang.org/2022/04/07/Rust-1.60.0.html
+> https://www.reddit.com/r/programming/comments/tydta7/announcing_rust_1600/
+
 https://foundation.rust-lang.org/news/2022-03-31-cgp-is-open-announcement/
 > https://foundation.rust-lang.org/grants/
 

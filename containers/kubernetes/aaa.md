@@ -62,6 +62,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://blog.min.io/secure-multi-tenant-object-storage/
+
 https://kubeshop.io/blog/beta-1-release-of-kusk-gateway-openapi-driven-kubernetes-ingress-controller
 
 https://blog.px.dev/nodepool-upgrades/

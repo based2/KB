@@ -39,5 +39,7 @@ https://www.tomshardware.com/news/wdc-to-start-shipments-of-20tb-hdd-in-november
 https://www.snia.org/sites/default/orig/DSI2015/presentations/ColdStorage/DougFerguson_Optical_Storage_Future%20Long_Term_Data.pdf 2015
 > https://news.ycombinator.com/item?id=29197693
 
+https://gist.github.com/weastur/6adaf31a6f93f2235c1888a057f3070c calculating effective space after creating a ZFS pool
+
 
 

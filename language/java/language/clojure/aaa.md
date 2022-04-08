@@ -83,6 +83,10 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://www.pixelated-noise.com/blog/2022/03/01/hike/index.html
+
+https://biffweb.com/p/new-release
+
 https://coast.swlkr.com/
 
 https://inside-out.matt.is/ forms

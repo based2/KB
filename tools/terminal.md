@@ -32,10 +32,14 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/termstandard/colors
+
 http://users.uoa.gr/~sdi1800073/sources/xfce_blog12.html
 
 https://www.warp.dev/
 > https://news.ycombinator.com/item?id=30921231
+> > https://github.com/warpdotdev/Warp/issues/900
+> > > https://news.ycombinator.com/item?id=30935627
 
 https://solovyov.net/blog/2020/useful-shell-prompt/
 > https://news.ycombinator.com/item?id=30858478

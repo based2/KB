@@ -1,3 +1,6 @@
+https://www.cnx-software.com/2022/04/06/arducam-pi-hawk-eye-64mp-camera-raspberry-pi-4-cm4/
+> https://news.ycombinator.com/item?id=30935422
+
 https://dmitrybrant.com/2022/02/20/a-retro-laptop-like-no-other
 > https://news.ycombinator.com/item?id=30879450
 

@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://github.com/singularity-data/risingwave cloud-native streaming database, rust
+> https://www.risingwave.dev/docs/latest/architecture/
+
 https://blog.readyset.io/posts/introducing-readyset
 > https://news.ycombinator.com/item?id=30922082
 

@@ -82,6 +82,9 @@ https://scrapingfish.com/blog/scraping-instagram
 > https://news.ycombinator.com/item?id=30868738
 
 # News
+https://tilepieces.net/
+> https://news.ycombinator.com/item?id=30931586
+
 https://yiqinfu.github.io/posts/walled-gardens-china/
 > https://news.ycombinator.com/item?id=30866438
 

@@ -109,6 +109,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://www.openssh.com/releasenotes.html OpenSSH 9.0/9.0p1 (2022-04-08)
+> https://news.ycombinator.com/item?id=30953634
+
 https://jerrington.me/posts/2019-01-29-self-hosted-ngrok.html
 > https://news.ycombinator.com/item?id=30891494
 

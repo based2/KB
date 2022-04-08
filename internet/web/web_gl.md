@@ -34,5 +34,7 @@ https://www.khronos.org/blog/webgl-2-achieves-pervasive-support-from-all-major-w
 https://surma.dev/things/webgpu/
 > https://news.ycombinator.com/item?id=30600525
 
+https://engineering.squarespace.com/blog/2022/how-we-use-webgl-at-squarespace-877l9-8lyaw
+
 https://80.lv/articles/webgl-2-0-is-now-supported-in-all-major-browsers/
 

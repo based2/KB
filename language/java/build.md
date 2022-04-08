@@ -45,6 +45,10 @@ https://blog.frankel.ch/maven-flatten-plugin/
 
 https://blogs.apache.org/maven/entry/apache-maven-surefire-failsafe-plugin
 
+https://lists.apache.org/list.html?announce@maven.apache.org Apache Maven Artifact Plugin 3.3.0 Released
+
+https://lists.apache.org/thread/2nwrsgqxndhnjqwstcool6t30hyx81wb Release Apache Maven Clean Plugin Version 3.2.0
+
 https://lists.apache.org/list.html?announce@maven.apache.org Apache Maven Surefire Plugin 3.0.0-M6 Released
 
 https://lists.apache.org/list.html?announce@maven.apache.org Release Apache Maven Clean Plugin Version 3.2.0
