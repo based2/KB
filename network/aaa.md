@@ -103,6 +103,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://github.com/yellowman/nsh
+> https://news.ycombinator.com/item?id=30942489
+
 https://www.x86matthew.com/view_post?id=audio_transmit
 > https://news.ycombinator.com/item?id=30907937
 

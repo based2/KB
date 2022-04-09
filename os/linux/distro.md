@@ -62,6 +62,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.elivecd.org/
+
 https://lwn.net/SubscriberLink/890219/79e54e3aab20bd87/ Debian still having trouble with merged /usr
 > https://news.ycombinator.com/item?id=30929024
 

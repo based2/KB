@@ -59,6 +59,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://pointieststick.com/2022/04/08/this-week-in-kde-a-feast-for-the-eyes/
+
 https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/
 > https://news.ycombinator.com/item?id=30944438
 

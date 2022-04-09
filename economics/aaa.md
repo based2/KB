@@ -130,6 +130,11 @@ https://www.unite.ai/simple-ai-can-anticipate-bank-managers-loan-decisions-to-ov
 > https://news.ycombinator.com/item?id=30394731
 
 # News
+https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/we-are-witnessing-the-birth-of-a-new-world-monetary-order-202203.html
+
+https://www.tylerjamesjones.com/ppp_network/
+> https://news.ycombinator.com/item?id=30968495
+
 https://www.dallasfed.org/research/economics/2022/0329
 > https://news.ycombinator.com/item?id=30871986
 

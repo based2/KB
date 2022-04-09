@@ -6,6 +6,14 @@ https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-
 https://github.com/jsa2/aad-auth-n-z
 
 # News
+https://github.com/rcarmo/azure-k3s-cluster
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization
+
+https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/active-directory-domain-services/tutorial-configure-password-hash-sync.md
+
+https://dirteam.com/sander/2021/08/18/azure-ad-connect-v2-0-9-0-fixes-a-password-hash-synchronization-bug/
+
 https://www.microsoft.com/en-us/microsoft-365/blog/2021/08/19/new-pricing-for-microsoft-365/
 > https://www.reddit.com/r/msp/comments/qhqiaa/feedback_on_the_new_commerce_nce_for_microsoft_365/
 

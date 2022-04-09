@@ -124,6 +124,8 @@ https://github.com/xgrommx/awesome-functional-programming
 https://matthewbutterick.com/chron/two-vexing-problems-in-functional-progamming.html
 > https://news.ycombinator.com/item?id=30878534
 
+https://bartoszmilewski.com/2022/04/05/teaching-optics-through-conspiracy-theories/
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721

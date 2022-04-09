@@ -136,6 +136,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://css-tricks.com/send-an-http-request-on-page-exit/
+> https://news.ycombinator.com/item?id=30942555
+
 https://www.http-feeds.org/
 > https://news.ycombinator.com/item?id=30904220
 

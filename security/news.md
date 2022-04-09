@@ -1,3 +1,10 @@
+https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/
+
+https://alexandrevvo.medium.com/improper-access-control-no-control-at-all-in-kaon-cg3000-router-c225d2434ec1
+
+https://blog.xilokar.info/pwning-the-bcm61650.html french operator
+> https://news.ycombinator.com/item?id=30951215
+
 https://educatedguesswork.org/posts/messaging-e2e/
 
 https://www.rtcsec.com/article/exploiting-cve-2022-0778-in-openssl-vs-webrtc-platforms/
@@ -129,6 +136,9 @@ http://www.lupinia.net/writing/tech/scammed.htm
 https://arstechnica.com/information-technology/2022/03/lapsus-and-solar-winds-hackers-both-use-the-same-old-trick-to-bypass-mfa/
 > https://news.ycombinator.com/item?id=30848330
 > https://krebsonsecurity.com/2022/04/the-original-apt-advanced-persistent-teenagers/
+https://alexandrevvo.medium.com/improper-access-control-no-control-at-all-in-kaon-cg3000-router-c225d2434ec1
+
+https://www.theregister.com/2022/04/08/china_sponsored_attacks_india_ukraine/
 
 https://research.nccgroup.com/2022/03/24/remote-code-execution-on-western-digital-pr4100-nas-cve-2022-23121/
 
@@ -150,6 +160,7 @@ https://www.cyberkendra.com/2022/03/springshell-rce-0-day-vulnerability.html
 > https://www.microsoft.com/security/blog/2022/04/04/springshell-rce-vulnerability-guidance-for-protecting-against-and-detecting-cve-2022-22965/
 > https://www.reddit.com/r/java/comments/tyixgo/understanding_spring4shell_rce_remote_code/
 > https://github.com/alt3kx/CVE-2022-22965 Spring Framework RCE (CVE-2022-22965) Nmap (NSE) Checker (Non-Intrusive)
+> https://arstechnica.com/information-technology/2022/04/trend-says-hackers-have-weaponized-springshell-to-install-mirai-malware/
 
 https://billdemirkapi.me/exception-oriented-programming-abusing-exceptions-for-code-execution-part-1/
 > https://news.ycombinator.com/item?id=30841425

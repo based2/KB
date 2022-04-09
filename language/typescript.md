@@ -69,6 +69,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://rachelappel.com/2015/01/02/write-object-oriented-javascript-with-typescript/
+
 https://zaplib.com/docs/blog_ts++.html
 > https://news.ycombinator.com/item?id=30947680
 

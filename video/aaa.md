@@ -89,6 +89,9 @@ https://github.com/midiblocks/handsfree
 https://github.com/plewto/Pigiron
 > https://news.ycombinator.com/item?id=28158512
 
+# Annotation
+https://news.ycombinator.com/item?id=30968391
+
 # Archive
 https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-free-online-thanks-to-the-korean-film-archive.html
 > https://news.ycombinator.com/item?id=27055866

@@ -254,6 +254,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://google-research.github.io/proteinfer/
+
 https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html
 
 https://antoinebrl.github.io//blog/rl-mars-lander/

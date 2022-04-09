@@ -36,6 +36,11 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/casey/just
+
+https://tookmund.com/2022/04/importance-of-the-trailing-slash
+> https://news.ycombinator.com/item?id=30965200
+
 https://github.com/barthr/redo
 > https://news.ycombinator.com/item?id=30878935
 

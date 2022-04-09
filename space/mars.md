@@ -19,6 +19,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.usgs.gov/news/caves-mars
+> https://news.ycombinator.com/item?id=30967408
+
 https://mars.nasa.gov/technology/helicopter/status/366/dusty-flight-19-completed-and-looking-ahead-to-flight-20/
 
 https://mars.nasa.gov/msl-raw-images/msss/03397/mhli/3397MH0001630001201030R00_DXXX.jpg

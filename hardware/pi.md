@@ -1,3 +1,6 @@
+https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S
+> https://news.ycombinator.com/item?id=30970274
+
 https://www.cnx-software.com/2022/04/06/arducam-pi-hawk-eye-64mp-camera-raspberry-pi-4-cm4/
 > https://news.ycombinator.com/item?id=30935422
 

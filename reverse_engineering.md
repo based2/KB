@@ -2,6 +2,8 @@ https://github.com/cea-sec/miasm
 > https://news.ycombinator.com/item?id=30814085
 
 #
+https://sayr.us/reverse/soundblaster-reverse/
+
 https://www.righto.com/2022/04/reverse-engineering-mysterious-univac.html
 > https://news.ycombinator.com/item?id=30898590
 

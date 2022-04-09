@@ -92,8 +92,12 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 > https://news.ycombinator.com/item?id=30116530
 
 https://www.sliderules.org/
+> https://news.ycombinator.com/item?id=30955676
 
 # News
+https://writings.stephenwolfram.com/2021/09/multicomputation-a-fourth-paradigm-for-theoretical-science/
+> https://news.ycombinator.com/item?id=30965828
+
 https://hturan.com/writing/complex-numbers-glsl
 
 https://fredrikj.net/blog/2022/02/long-term-development-of-some-mathematical-software-projects/

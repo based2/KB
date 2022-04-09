@@ -36,6 +36,8 @@ https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neuro
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.scientificamerican.com/article/the-father-of-modern-neuroscience-discovered-the-basic-unit-of-the-nervous-system/
+
 https://royalsocietypublishing.org/doi/10.1098/rsos.211926
 > https://news.ycombinator.com/item?id=30931998
 

@@ -67,6 +67,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://ionq.com/posts/april-07-2022-reading-an-aq-chart
+
 https://www.unibas.ch/en/News-Events/News/Uni-Research/Hot-spin-quantum-bits-in-silicon-transistors.html
 > https://news.ycombinator.com/item?id=30819739
 
