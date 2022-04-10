@@ -64,3 +64,6 @@ https://github.com/cmod/websters-1913
 > https://news.ycombinator.com/item?id=29733648
 
 https://www.wiktionary.org/
+
+#
+https://github.com/zineland/zine simple and opinionated tool to build your own magazine, rust

@@ -8,12 +8,6 @@ http://www.righto.com/2021/06/deep-dive-into-how-teensy.html
 https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html
 > https://news.ycombinator.com/item?id=27656462
 
-# Pi
-https://www.tomshardware.com/news/raspberry-pi-floppy-disk-adapter-pcb
-> https://github.com/picosonic/bbc-fdc
-
-https://news.ycombinator.com/item?id=28772865
-
 # E-Link
 https://news.ycombinator.com/item?id=28740452
 
@@ -73,6 +67,11 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.hackster.io/135000/subzero-a-simple-network-attached-storage-device-3f47be
+
+https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html
+> https://news.ycombinator.com/item?id=30955568
+
 https://news.ycombinator.com/item?id=30932201
 
 https://www.mips.com/

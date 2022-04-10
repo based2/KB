@@ -31,3 +31,7 @@ https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/
 
 https://www.capturingreality.com/introducing-realityscan
 >
+
+https://www.r3dphoto.app/
+> https://news.ycombinator.com/item?id=30971542
+> > https://alicevision.org/#meshroom NVIDIA CUDA, oss

@@ -1,0 +1,1 @@
+http://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/

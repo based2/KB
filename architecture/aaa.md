@@ -207,6 +207,10 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://docs.microsoft.com/en-gb/archive/blogs/nickmalik/killing-the-command-message-should-we-use-events-or-documents SOA decoupling, RPC, 'commands, events, or documents'
+> http://vanguardea.com/killing-the-command-message-should-we-use-events-or-documents/
+> > https://news.ycombinator.com/item?id=30954165
+
 https://eranki.tumblr.com/post/27076431887/scaling-lessons-learned-at-dropbox-part-1
 > https://news.ycombinator.com/item?id=30942751
 

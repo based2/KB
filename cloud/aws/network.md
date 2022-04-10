@@ -4,6 +4,8 @@ https://blog.scottlogic.com/2021/10/11/vpcs-aws.html
 https://aws.amazon.com/en/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/
 
 # News
+https://github.com/ttlequals0/autovpn easy Creation of OpenVPN endpoints in any AWS region
+
 https://medium.com/in-the-hudl/operation-jumbo-drop-how-sending-large-packets-broke-our-aws-network-ff5041fc7a09
 > https://news.ycombinator.com/item?id=30819506
 

@@ -12,6 +12,11 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.quaise.energy/ Geothermal
+> https://news.ycombinator.com/item?id=30972073
+
+https://www.bloomberg.com/opinion/articles/2022-04-08/ukraine-war-this-backdoor-keeps-russian-oil-flowing-into-europe
+
 https://www.heise.de/news/Porsche-investiert-75-Millionen-US-Dollar-in-E-Fuels-Produktion-6665043.html
 
 https://www.cleanenergywire.org/news/germany-boosts-renewables-biggest-energy-policy-reform-decades

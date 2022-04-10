@@ -139,6 +139,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://publications.computer.org/computer-magazine/2018/11/15/philae-rosetta-crash-landing-churyumov-gerasimenko-comet-six-lessons/
+> https://news.ycombinator.com/item?id=30955745
+
 https://arstechnica.com/science/2022/04/some-of-the-stranger-features-on-pluto-remain-tough-to-explain/
 
 https://www.theverge.com/2022/4/5/23010245/amazon-project-kuiper-megaconstellation-arianespace-ula-blue-origin

@@ -4,6 +4,9 @@ https://geizhals.eu/
 https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
+#
+https://twitter.com/theryanking/status/1512833718859313156
+
 https://stratechery.com/2021/the-apple-v-epic-decision/
 > https://news.ycombinator.com/item?id=28511215
 

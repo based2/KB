@@ -81,9 +81,6 @@ https://www.tronyxworld.be/2020/hardening_ssh/
 https://medium.com/@dmrickert/what-ssh-hacking-attempts-look-like-8f698e70a4f5
 > https://news.ycombinator.com/item?id=17000489
 
-# Red
-https://github.com/ssh-mitm/ssh-mitm
-
 # GPG SSH
 https://blog.dijit.sh//gpg-ssh-notes-for-current-best-practices
 

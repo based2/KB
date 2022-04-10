@@ -138,6 +138,8 @@ https://www.krackattacks.com/ WPA2
 
 https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/
 
+https://www.cyberark.com/resources/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-to-cloud-apps Golden SAML
+
 https://en.wikipedia.org/wiki/Triton_(malware)
 
 https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks

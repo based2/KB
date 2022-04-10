@@ -2,3 +2,6 @@ https://randomoracle.wordpress.com/2019/12/07/filecoin-storj-and-the-problem-wit
 > https://news.ycombinator.com/item?id=26905948
 
 https://news.ycombinator.com/item?id=26912321
+
+http://www.supersimplestorageservice.com/
+> https://news.ycombinator.com/item?id=30972694

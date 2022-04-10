@@ -182,6 +182,10 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
 # News
+https://github.com/rlxone/Equinox Create dynamic wallpapers for macOS
+
+https://eclecticlight.co/2022/04/10/last-week-on-my-mac-why-m1-macs-dont-have-full-support-for-usb-c/
+
 https://github.com/mikeroyal/Apple-Silicon-Guide
 > https://news.ycombinator.com/item?id=30912099
 

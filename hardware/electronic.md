@@ -35,3 +35,7 @@ https://www.electropedia.org/
 # Microcontroller
 https://github.com/TUDSSL/BFree
 > https://news.ycombinator.com/item?id=29358044
+
+
+# VHDL
+https://verik.io/docs/overview/ 

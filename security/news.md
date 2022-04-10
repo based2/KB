@@ -1,3 +1,9 @@
+https://www.secureworks.com/research/azure-active-directory-exposes-internal-information
+
+https://github.com/vavkamil/awesome-bugbounty-tools
+
+https://diablohorn.com/2022/04/09/firewall-analysis-a-portable-graph-based-approach/
+
 https://securecloud.blog/2022/04/09/msrc-join-security-research-write-up-azure-ad-consent-bypass-disclosure-with-kim-jamia-q1-2022/
 
 https://alexandrevvo.medium.com/improper-access-control-no-control-at-all-in-kaon-cg3000-router-c225d2434ec1
@@ -1678,7 +1684,7 @@ https://krebsonsecurity.com/2021/11/the-zelle-fraud-scam-how-it-works-how-to-fig
 https://blog.scrt.ch/2021/11/15/tpm-sniffing/
 > https://news.ycombinator.com/item?id=29258879
 
-https://github.com/ssh-mitm/ssh-mitm
+https://github.com/ssh-mitm/ssh-mitm SSH audits made simple
 > https://news.ycombinator.com/item?id=29256572
 
 https://www.schneier.com/blog/archives/2021/11/is-microsoft-stealing-peoples-bookmarks.html

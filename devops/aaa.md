@@ -105,6 +105,27 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 # History
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
+# Incidents
+https://news.ycombinator.com/item?id=30973808 Atlassian products have been down for 4 days
+
+https://news.ycombinator.com/item?id=30960499 Multiple Atlassian services suffering outages
+
+https://news.ycombinator.com/item?id=30931475 CircleCI Down
+
+https://news.ycombinator.com/item?id=30920046 Confluence, Jira, and other Atlassian products are down
+
+https://about.gitlab.com/blog/2022/03/11/gitlab-actions-to-date-regarding-russian-invasion-of-ukraine/
+
+https://www.githubstatus.com/incidents/sksd097hm0y5 Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues, GitHub Packages, GitHub Pages, Pull Requests, and Webhooks
+> https://news.ycombinator.com/item?id=30711269
+
+https://www.bleepingcomputer.com/news/technology/github-outage-impacts-actions-codespaces-issues-pull-requests/
+
+https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
+
+# New versions
+
+
 # News
 https://sourcehut.org/blog/2022-04-08-2021-financial-report/
 > https://news.ycombinator.com/item?id=30956872
@@ -112,22 +133,16 @@ https://sourcehut.org/blog/2022-04-08-2021-financial-report/
 https://shopify.github.io/shadowenv/
 > https://news.ycombinator.com/item?id=30957613
 
-https://turborepo.org/blog/turbo-1-2-0
+https://turborepo.org/blog/turbo-1-2-0 monorepo
 > https://news.ycombinator.com/item?id=30958653
-
-https://news.ycombinator.com/item?id=30960499 Multiple Atlassian services suffering outages
 
 https://jinyuz.dev/posts/tips-and-tricks/Switching-from-pyenv,-rbenv,-goenv-and-nvm-to-asdf
 > https://news.ycombinator.com/item?id=30917354
-
-https://news.ycombinator.com/item?id=30931475 CircleCI Down
 
 https://bhupesh.me//finding-pull-requests-that-change-a-file-terminal/
 
 https://github.blog/2022-04-05-4-ways-we-use-github-actions-to-build-github/
 > https://news.ycombinator.com/item?id=30920543
-
-https://news.ycombinator.com/item?id=30920046 Confluence, Jira, and other Atlassian products are down
 
 https://github.com/asdf-vm/asdf Manage multiple runtime versions with a single CLI tool, extendable via plugins
 
@@ -173,11 +188,6 @@ https://www.githubstatus.com/incidents/tyc8wpsgr2r8
 > https://github.blog/2022-03-23-an-update-on-recent-service-disruptions/
 
 https://github.com/eBay/goose Service to simplify adding GitOps functionality to systems
-
-https://www.githubstatus.com/incidents/sksd097hm0y5 Incident with GitHub Actions, API Requests, Codespaces, Git Operations, Issues, GitHub Packages, GitHub Pages, Pull Requests, and Webhooks
-> https://news.ycombinator.com/item?id=30711269
-
-https://about.gitlab.com/blog/2022/03/11/gitlab-actions-to-date-regarding-russian-invasion-of-ukraine/
 
 https://github.com/github/feedback/discussions/12341 Pull Request File Tree Feedback
 > https://news.ycombinator.com/item?id=30647047
@@ -228,8 +238,6 @@ https://full-stack.blend.com/how-we-write-github-actions-in-go.html
 
 https://www.decadent.org.uk/ben/blog/ci-for-the-debian-kernel-team.html
 > https://news.ycombinator.com/item?id=30229192
-
-https://www.bleepingcomputer.com/news/technology/github-outage-impacts-actions-codespaces-issues-pull-requests/
 
 https://www.enterpriseready.io/podcast/40-alexis-richardson-weaveworks/
 
@@ -346,7 +354,7 @@ https://github.com/GitGuardian/ggshield scan
 
 https://www.sourceware.org/dwz/
 
-https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
+
 
 https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover
 

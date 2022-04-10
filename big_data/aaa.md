@@ -235,6 +235,14 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://medium.com/meroxa/conduit-0-2-making-connectors-a-reality-efdd60000274
+> https://github.com/ConduitIO/conduit
+
+https://datastation.multiprocess.io/docs/tutorials/Query_CockroachDB_with_DataStation.html
+
+https://ajcr.net/Basic-guide-to-einsum/ numPy
+> https://news.ycombinator.com/item?id=30972389
+
 https://cybernetic.dev/
 > https://news.ycombinator.com/item?id=30910659
 

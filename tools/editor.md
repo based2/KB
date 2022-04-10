@@ -132,6 +132,8 @@ https://www.gnu.org/software/emacs/manual/html_node/elisp/Buffer-Gap.html
 https://www.masteringemacs.org/article/whats-new-in-emacs-28-1
 > https://news.ycombinator.com/item?id=30930816
 
+https://news.ycombinator.com/item?id=30976337
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

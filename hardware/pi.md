@@ -68,3 +68,8 @@ https://www.jeffgeerling.com/blog/2021/i-built-5000-raspberry-pi-server-yes-its-
 
 https://electronupdate.blogspot.com/2021/11/raspberry-pi-zero-2w-what-does-silicon.html
 > https://news.ycombinator.com/item?id=29149007
+
+https://www.tomshardware.com/news/raspberry-pi-floppy-disk-adapter-pcb
+> https://github.com/picosonic/bbc-fdc
+
+https://news.ycombinator.com/item?id=28772865

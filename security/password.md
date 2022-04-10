@@ -40,6 +40,9 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://kevincox.ca/2022/04/07/passwords/
+> https://news.ycombinator.com/item?id=30973515
+
 https://news.ycombinator.com/item?id=30658936 Ask HN: Alternatives to 1Password
 
 https://cyberlit.co/blog/securely-yours-love-password-managers

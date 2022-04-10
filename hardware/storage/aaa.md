@@ -1,4 +1,7 @@
 # News
+https://www.os2museum.com/wp/vague-standards-are-trouble/
+> https://news.ycombinator.com/item?id=30959215
+
 https://blog.ligos.net/2022-04-02/The-Reliability-Of-Optical-Disks.html
 >
 

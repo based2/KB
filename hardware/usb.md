@@ -2,6 +2,9 @@ https://ventoy.net/en/index.html Open source tool to create bootable USB drive f
 > https://news.ycombinator.com/item?id=28889392
 > https://micro-os.org/
 
+https://github.com/pbatard/rufus The Reliable USB Formatting Utility
+> https://news.ycombinator.com/item?id=27071982
+
 https://tomu.im/tomu.html
 > https://news.ycombinator.com/item?id=28395169
 
@@ -19,6 +22,10 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://gitlab.com/bztsrc/usbimager
+
+https://www.balena.io/etcher/
+
 https://overengineer.dev/blog/2021/04/25/usb-c-hub-madness.html
 > https://news.ycombinator.com/item?id=30911598
 

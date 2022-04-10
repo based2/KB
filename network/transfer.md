@@ -29,3 +29,5 @@ https://github.com/firedm/FireDM Internet Download Manager, python
 https://www.trytachyon.com/post/how-we-built-a-new-fast-file-transfer-protocol
 > https://news.ycombinator.com/item?id=30813345
 
+https://claudiodangelis.com/qrcp/ :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal
+

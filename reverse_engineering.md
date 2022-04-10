@@ -2,7 +2,11 @@ https://github.com/cea-sec/miasm
 > https://news.ycombinator.com/item?id=30814085
 
 #
+https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html
+> https://news.ycombinator.com/item?id=30970599
+
 https://sayr.us/reverse/soundblaster-reverse/
+> https://news.ycombinator.com/item?id=30955078
 
 https://www.righto.com/2022/04/reverse-engineering-mysterious-univac.html
 > https://news.ycombinator.com/item?id=30898590

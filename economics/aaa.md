@@ -130,6 +130,9 @@ https://www.unite.ai/simple-ai-can-anticipate-bank-managers-loan-decisions-to-ov
 > https://news.ycombinator.com/item?id=30394731
 
 # News
+https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf What is the Eurodollar System? (2020)
+> https://news.ycombinator.com/item?id=30974598
+
 https://www.credit-suisse.com/about-us-news/en/articles/news-and-expertise/we-are-witnessing-the-birth-of-a-new-world-monetary-order-202203.html
 
 https://www.tylerjamesjones.com/ppp_network/
