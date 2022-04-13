@@ -2,6 +2,8 @@ https://github.com/cea-sec/miasm
 > https://news.ycombinator.com/item?id=30814085
 
 #
+https://compilepeace.medium.com/software-reverse-engineering-ripping-apart-bomb-binary-25cf63dc39d5
+
 https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html
 > https://news.ycombinator.com/item?id=30970599
 

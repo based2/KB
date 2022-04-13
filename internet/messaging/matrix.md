@@ -10,6 +10,9 @@ https://libli.org/
 > https://news.ycombinator.com/item?id=30586171
  
 #
+https://github.com/diamondburned/gotktrix dev
+> https://news.ycombinator.com/item?id=30978726
+
 https://matrix.org/blog/2022/03/25/interoperability-without-sacrificing-privacy-matrix-and-the-dma
 > https://news.ycombinator.com/item?id=30805015
 

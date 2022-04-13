@@ -91,6 +91,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://tip.litestream.io/guides/read-replica/
+> https://news.ycombinator.com/item?id=31007426
+
 https://tailscale.com/blog/database-for-2022/
 > https://www.reddit.com/r/programming/comments/tuags0/a_database_for_2022_tailscale/
 

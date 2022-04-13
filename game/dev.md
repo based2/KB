@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://news.ycombinator.com/item?id=30992587 elixir crdt
+
 https://heaps.io/index.html haxe
 > https://news.ycombinator.com/item?id=30970934
 

@@ -43,6 +43,8 @@ https://www.javaadvent.com/2021/12/from-maven-3-to-maven-5.html
 
 https://blog.frankel.ch/maven-flatten-plugin/
 
+https://lists.apache.org/thread/b10pvbhhxtj4tfjnpxvf0fr1cco9tcng Apache Maven Invoker version 3.2.0 Released
+
 https://blogs.apache.org/maven/entry/apache-maven-surefire-failsafe-plugin
 
 https://lists.apache.org/list.html?announce@maven.apache.org Apache Maven Artifact Plugin 3.3.0 Released

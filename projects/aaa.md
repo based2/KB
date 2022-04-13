@@ -189,6 +189,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://tristanhood.substack.com/p/due-dates-are-a-lazy-way-to-gain?s=r
+> https://news.ycombinator.com/item?id=31018585
+
 https://alexturek.com/2022-03-07-How-to-do-less/
 > https://news.ycombinator.com/item?id=30642596
 

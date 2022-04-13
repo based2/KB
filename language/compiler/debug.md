@@ -11,6 +11,9 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://blog.mozilla.org/data/2022/04/13/this-week-in-glean-what-flips-your-bit/
+> https://news.ycombinator.com/item?id=31016042
+
 https://www.sourceware.org/gdb/current/onlinedocs/gdb.html
 > https://news.ycombinator.com/item?id=30737509
 

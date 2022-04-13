@@ -36,6 +36,11 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://blog.craftyguy.net/cmdline-help/
+> https://news.ycombinator.com/item?id=30991834
+
+https://artemis.sh/2022/04/11/package-manager-murder-mystery.html set -a
+
 https://github.com/casey/just
 
 https://tookmund.com/2022/04/importance-of-the-trailing-slash

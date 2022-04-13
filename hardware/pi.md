@@ -1,3 +1,8 @@
+https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html
+> https://news.ycombinator.com/item?id=31000725
+
+https://www.reddit.com/r/linux/comments/u137jl/raspberry_pi_os_discards_the_default_user_pi/
+
 https://github.com/raspberrypi/pico-bootrom/blob/ef22cd8ede5bc007f81d7f2416b48db90f313434/bootrom/bootrom_rt0.S
 > https://news.ycombinator.com/item?id=30970274
 

@@ -77,6 +77,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://gos.si/blog/frontend-component-architecture/
+
 https://www.delldesignsystem.com/
 > https://news.ycombinator.com/item?id=30929458
 

@@ -67,6 +67,11 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.geeks3d.com/20220401/new-chinese-gpu-maker-moore-threads-unveils-the-mtt-s60-graphics-card-with-vulkan-opengl-and-direct3d-support/
+> https://news.ycombinator.com/item?id=30977920
+
+https://taipeitimes.com/News/biz/archives/2022/04/05/2003776012
+
 https://www.hackster.io/135000/subzero-a-simple-network-attached-storage-device-3f47be
 
 https://www.nytimes.com/2022/04/08/technology/intel-chip-shortage.html

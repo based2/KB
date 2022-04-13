@@ -263,6 +263,12 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://github.com/analang/ana
+> https://news.ycombinator.com/item?id=31011613
+
+https://concatenative.org/wiki/view/Concatenative%20language
+> https://news.ycombinator.com/item?id=31013100
+
 https://ayazhafiz.com/articles/22/why-dont-more-languages-offer-flow-typing
 > https://news.ycombinator.com/item?id=30907178
 

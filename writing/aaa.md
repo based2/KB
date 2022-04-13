@@ -67,3 +67,4 @@ https://www.wiktionary.org/
 
 #
 https://github.com/zineland/zine simple and opinionated tool to build your own magazine, rust
+> https://news.ycombinator.com/item?id=30966362

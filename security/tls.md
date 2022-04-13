@@ -120,6 +120,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://news.ycombinator.com/item?id=30987825 Ask HN: Do you still monitor your SSL certificate validity?
+
 https://www.nginx.com/blog/improving-nginx-performance-with-kernel-tls/
 > https://news.ycombinator.com/item?id=30902744
 

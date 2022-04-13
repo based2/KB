@@ -95,6 +95,15 @@ https://www.sliderules.org/
 > https://news.ycombinator.com/item?id=30955676
 
 # News
+https://www.johndcook.com/blog/2022/04/13/logarithms-yearning-to-be-free/
+> https://news.ycombinator.com/item?id=31014701
+
+https://ionathan.ch/2022/04/09/angzarr.html
+> https://news.ycombinator.com/item?id=31012865
+
+https://castel.dev/post/research-workflow/
+> https://news.ycombinator.com/item?id=30981592
+
 https://writings.stephenwolfram.com/2021/09/multicomputation-a-fourth-paradigm-for-theoretical-science/
 > https://news.ycombinator.com/item?id=30965828
 

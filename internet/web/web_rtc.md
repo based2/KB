@@ -39,3 +39,9 @@ https://github.com/obsproject/obs-studio/discussions/4021 Proposed Deprecation o
  
 https://webrtcforthecurious.com/
 
+https://www.daily.co/blog/how-and-why-daily-is-using-rust-for-our-webrtc-apis/
+> https://news.ycombinator.com/item?id=30990297
+
+https://github.com/pion/webrtc/tree/master/examples/save-to-disk-av1
+> https://news.ycombinator.com/item?id=31003111
+

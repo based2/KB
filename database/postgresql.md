@@ -238,6 +238,8 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://postgrespro.com/blog/pgsql/5968022 Locks in PostgreSQL: 4. Locks in memory
+
 https://github.com/postgres-ai/database-lab-engine/releases/tag/v3.1.0
 
 https://www.highgo.ca/2021/07/23/the-amazing-buffer-tag-in-postgresql/

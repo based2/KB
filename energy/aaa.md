@@ -12,6 +12,14 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://news.mit.edu/2022/thermal-heat-engine-0413
+> https://news.ycombinator.com/item?id=31016120
+
+https://www.nrel.gov/news/features/2022/nrel-researchers-plot-energy-storage-under-our-feet.html
+
+https://thorconpower.com/economics/
+> https://news.ycombinator.com/item?id=30979225
+
 https://www.quaise.energy/ Geothermal
 > https://news.ycombinator.com/item?id=30972073
 

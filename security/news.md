@@ -1,3 +1,55 @@
+https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html
+> https://news.ycombinator.com/item?id=31018436
+
+https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
+> https://www.reddit.com/r/netsec/comments/u1zl4k/cve202225165_privilege_escalation_to_system_in/
+
+https://blog.lightspin.io/aws-rds-critical-security-vulnerability
+> https://www.reddit.com/r/netsec/comments/u1kgfw/aws_rds_vulnerability_leads_to_aws_internal/
+> > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-004/
+
+https://www.cert.ssi.gouv.fr/actualite/CERTFR-2022-ACT-015/ CVE-2022-22721 Apache HTTPD
+> https://httpd.apache.org/security/vulnerabilities_24.html
+
+https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-026.pdf Security Advisory 2022-026 Critical Vulnerabilities in Microsoft Windows April 13, 2022 — v1.0
+> https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5012592-update-brings-default-browser-improvements/
+> https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2022-patch-tuesday-fixes-119-flaws-2-zero-days/
+> https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5012599-and-kb5012591-updates-released/
+
+https://lists.apache.org/thread/rr0yjtskjjnj7lvdhff0p01q3hnn6qhw CVE-2022-27479: Apache Superset: SQL injection vulnerability in chart data API
+
+https://lists.apache.org/thread/xwfch60nxnkkhl38f5lc52n0qq27g7cr CVE-2021-31805: Apache Struts: Forced OGNL evaluation, when evaluated on raw not validated user input in tag attributes, may lead to RCE
+> https://www.bleepingcomputer.com/news/security/critical-apache-struts-rce-vulnerability-wasnt-fully-fixed-patch-now/
+
+https://www.theregister.com/2022/04/12/critical_vuln_hospital_robots/
+
+https://me2ba.org/financial-times-highlights-me2b-alliance-research-questions-remain-about-vpns-with-the-yandex-appmetrica-sdk-installed/
+
+https://me2ba.org/spotlight-report-4-me2b-alliance-product-testing-report-deeper-look-at-k-12-school-utility-apps-uncovers-global-advertising-company-from-cbs-viacom-unexpected-security-risks/
+
+https://github.blog/2022-04-12-git-security-vulnerability-announced/ CVE-2022-24765 affects users working on multi-user machines where a malicious actor could create a .git directory in a shared location above a victim’s current working directory
+> https://news.ycombinator.com/item?id=31009675
+
+https://www.usenix.org/conference/usenixsecurity22/presentation/genkin Lend Me Your Ear: Passive Remote Physical Side Channels on PCs
+> 
+
+https://securityzines.com/#comics
+
+https://theconversation.com/mismanaged-cloud-services-put-user-data-at-risk-180289
+> https://news.ycombinator.com/item?id=30992120
+
+https://www.reddit.com/r/programming/comments/u0t9l4/nginx_zeroday_rce_vulnerability_alert_penetration/
+
+https://www.gov.uk/guidance/protect-domains-that-dont-send-email
+> https://news.ycombinator.com/item?id=30988355
+
+https://josephg.com/blog/node-sandbox/ NodeJS packages don't deserve your trust
+> https://news.ycombinator.com/item?id=30988034
+
+https://librestream.com/press-releases/librestream-becomes-first-remote-collaboration-solution-to-achieve-iut-status-in-fips-140-3-validation-process-further-cementing-its-leadership-position-among-highly-regulated-industries/
+
+https://nationalcybersecurity.com/apple-releases-big-sur-11-6-6-to-address-serious-security-flaws-itsecurity-infosec-cybersecurity-infosecurity-hacker/?utm_source=rss&utm_medium=rss&utm_campaign=apple-releases-big-sur-11-6-6-to-address-serious-security-flaws-itsecurity-infosec-cybersecurity-infosecurity-hacker
+
 https://www.secureworks.com/research/azure-active-directory-exposes-internal-information
 
 https://github.com/vavkamil/awesome-bugbounty-tools
@@ -21,6 +73,8 @@ https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits
 
 https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifically-targeting-lambda/
 > https://news.ycombinator.com/item?id=30945900
+> https://www.techrepublic.com/article/aws-lambda-sees-first-malware-attack-denonia-we-dont-know-how-got-there/
+> https://docs.aws.amazon.com/lambda/latest/dg/lambda-security.html
 
 https://security.googleblog.com/2022/04/improving-software-supply-chain.html
 > https://news.ycombinator.com/item?id=30945622

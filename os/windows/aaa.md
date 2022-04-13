@@ -117,6 +117,11 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://www.windowscentral.com/microsoft-explains-why-you-cant-move-windows-11-taskbar
+> https://news.ycombinator.com/item?id=30992112
+
+https://www.reddit.com/r/sysadmin/comments/u0jn2l/windows_autopatch_beware_enterprise_users/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-20h2-reaches-end-of-service-next-month/
 
 https://github.com/ariccio/altWinDirStat

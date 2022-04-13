@@ -54,6 +54,12 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://protonvpn.com/blog/no-logs-audit/
+> https://news.ycombinator.com/item?id=31013683
+
+https://mullvad.net/en/blog/2022/3/10/wireguard-multihop-now-easy-available-app/
+> https://news.ycombinator.com/item?id=31005209
+
 https://kiwiziti.com/~matt/wireguard/
 > https://news.ycombinator.com/item?id=30953744
 

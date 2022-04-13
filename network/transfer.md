@@ -31,3 +31,6 @@ https://www.trytachyon.com/post/how-we-built-a-new-fast-file-transfer-protocol
 
 https://claudiodangelis.com/qrcp/ :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal
 
+https://www.cambus.net/file-transfers-via-the-parallel-port-on-dos-using-laplink/
+> https://news.ycombinator.com/item?id=31013707
+

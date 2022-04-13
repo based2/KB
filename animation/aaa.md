@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://deekaykwon.com/
+> https://news.ycombinator.com/item?id=31011643
+
 https://github.com/zachwinter/kaleidosync
 > https://news.ycombinator.com/item?id=30929909
 

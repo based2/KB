@@ -103,6 +103,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://www.nextplatform.com/2022/04/12/with-aquila-google-abandons-ethernet-to-outdo-infiniband/
+> https://news.ycombinator.com/item?id=31016347
+
 https://github.com/yellowman/nsh
 > https://news.ycombinator.com/item?id=30942489
 

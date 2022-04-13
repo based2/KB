@@ -86,6 +86,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://go.dev/blog/when-generics
+> https://news.ycombinator.com/item?id=31008141
+
+https://groups.google.com/g/golang-announce/c/SUsQn0aSgPQ [security] Go 1.17.7 and Go 1.16.14 are released
+
 https://www.pixelstech.net/article/1649142989-SkipList-in-Go
 
 https://faun.pub/implmenting-timeout-in-golang-ee2bc4aa6ae4

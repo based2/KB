@@ -108,6 +108,13 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://developers.redhat.com/articles/2022/04/12/state-static-analysis-gcc-12-compiler
+
+https://github.com/nikitinprior/dF80 Restored F80 compiler code for CP/M
+> https://news.ycombinator.com/item?id=30977164
+
+https://documentation.suse.com/sbp/server-linux/pdf/SBP-GCC-11_color_en.pdf
+
 https://news.ycombinator.com/item?id=30935064
 
 https://gcc.gnu.org/pipermail/gcc/2022-March/238452.html LoongArch port accepted and maintainers appointed

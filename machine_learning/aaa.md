@@ -254,6 +254,22 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://news.ycombinator.com/item?id=31006716 Show HN: Razer x Lambda Tensorbook
+
+https://www.assemblyai.com/blog/differentiable-programming-a-simple-introduction/
+> https://news.ycombinator.com/item?id=31000709
+
+https://www.pinecone.io/learn/k-nearest-neighbor/
+> https://news.ycombinator.com/item?id=31015242
+
+https://arxiv.org/abs/2202.05780 A Modern Self-Referential Weight Matrix That Learns to Modify Itself
+
+https://github.com/fredyshox/ANECompat check compatibility of CoreML model with Apple Neural Engine
+>
+
+https://arxiv.org/abs/2203.08890 The Mathematics of Artificial Intelligence
+> https://news.ycombinator.com/item?id=30984662
+
 https://google-research.github.io/proteinfer/
 
 https://ai.googleblog.com/2022/04/large-scale-matrix-factorization-on-tpus.html
@@ -319,6 +335,9 @@ https://www.science.org/content/article/simple-electrical-circuit-learns-its-own
 
 https://github.com/metarank/metarank Personalize any listing: recommendations, articles, and search results, Scala
 > https://news.ycombinator.com/item?id=30778100
+
+https://blog.fennel.ai/p/real-world-recommendation-system?s=r
+> https://news.ycombinator.com/item?id=30991392
 
 https://writings.stephenwolfram.com/2022/03/on-the-concept-of-motion/
 > https://news.ycombinator.com/item?id=30739998

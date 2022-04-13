@@ -255,6 +255,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://blog.jetbrains.com/idea/2022/04/intellij-idea-2022-1/
+> https://www.reddit.com/r/java/comments/u266hr/intellij_idea_20221_has_been_released/
+
 https://www.infoq.com/articles/tools-for-jakarta-ee-devs/ wildfly
 
 https://arjan-tijms.omnifaces.org/2022/04/whats-new-in-jakarta-security-3.html OpenID Connect

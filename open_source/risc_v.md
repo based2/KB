@@ -57,6 +57,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://github.com/stnolting/neorv32/blob/main/README.md
+> 
+
 https://moonbaseotago.github.io/about/
 > https://news.ycombinator.com/item?id=30755716
 

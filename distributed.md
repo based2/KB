@@ -13,6 +13,9 @@ https://www.consul.io/docs/architecture/consensus
 > https://news.ycombinator.com/item?id=29079079
 
 # CRDT
+https://crdt.tech/
+> https://news.ycombinator.com/item?id=30983770
+
 https://wiki.nikitavoloboev.xyz/distributed-systems/crdt
 > https://news.ycombinator.com/item?id=28998767
 

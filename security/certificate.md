@@ -32,6 +32,9 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # News
+https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api
+> https://news.ycombinator.com/item?id=30997735
+
 https://koen.engineer/russias-certificate-authority-for-sanctioned-organizations-645d61af8ac6
 
 https://www.windley.com/archives/2022/03/the_ukrainian_war_pki_and_censorship.shtml

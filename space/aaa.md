@@ -139,6 +139,16 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.eso.org/public/news/eso2206/ neptune
+> https://news.ycombinator.com/item?id=31003348
+
+https://www.livescience.com/first-interstellar-object-detected
+
+https://payloadspace.com/qa-peter-beck/
+> https://news.ycombinator.com/item?id=30989905
+
+https://arstechnica.com/science/2022/04/pythom-space-tests-its-rocket-with-questionable-safety-practices/
+
 https://publications.computer.org/computer-magazine/2018/11/15/philae-rosetta-crash-landing-churyumov-gerasimenko-comet-six-lessons/
 > https://news.ycombinator.com/item?id=30955745
 

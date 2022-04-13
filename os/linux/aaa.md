@@ -82,6 +82,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://linux-hardware.org/
+> https://news.ycombinator.com/item?id=31014306
+
 https://medium.com/geekculture/process-scheduling-in-linux-592028a5d545
 > https://news.ycombinator.com/item?id=30809937
 

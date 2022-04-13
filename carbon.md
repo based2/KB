@@ -55,6 +55,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://climateer.substack.com/p/avoided-emissions?s=r
+> https://news.ycombinator.com/item?id=30990697
+
 https://grist.org/climate/the-worlds-most-ambitious-climate-goal-is-essentially-out-of-reach/
 > https://news.ycombinator.com/item?id=30958523
 

@@ -22,6 +22,14 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://github.com/purpleidea/mgmt
+> https://news.ycombinator.com/item?id=30998872
+
+https://goteleport.com/blog/how-we-built-machine-id/
+
+https://puppet.com/blog/an-open-letter-from-the-ceo-of-puppet
+> https://news.ycombinator.com/item?id=30987472
+
 https://scalefactory.com/blog/2022/01/27/how-infrastructure-as-code-should-feel/
 > https://news.ycombinator.com/item?id=30904019
 

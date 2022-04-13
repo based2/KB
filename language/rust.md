@@ -2,6 +2,8 @@ https://foundation.rust-lang.org/posts/2021-02-08-hello-world/
 
 https://github.com/EmbarkStudios/rust-ecosystem
 
+https://doc.rust-lang.org/rust-by-example/index.html
+
 https://blog.mgattozzi.dev/rusts-runtime/
 
 https://rust-lang-nursery.github.io/rust-cookbook/intro.html
@@ -353,6 +355,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://nnethercote.github.io/2022/04/12/how-to-speed-up-the-rust-compiler-in-april-2022.html
+> https://news.ycombinator.com/item?id=31009801
+
+https://nora.codes/post/what-is-rusts-unsafe/
+> https://news.ycombinator.com/item?id=30979484
+
 https://blog.rust-lang.org/2022/04/07/Rust-1.60.0.html
 > https://www.reddit.com/r/programming/comments/tydta7/announcing_rust_1600/
 

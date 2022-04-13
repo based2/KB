@@ -74,6 +74,30 @@ https://engineering.mixpanel.com/live-downsizing-google-cloud-persistent-disks-f
 https://supabase.com/blog/2022/03/31/supabase-edge-functions
 > https://news.ycombinator.com/item?id=30868849
 
+# Incidents
+
+https://news.ycombinator.com/item?id=31015840 Hetzner Cloud – Data loss incident
+
+https://health.aws.amazon.com/health/status AWS's us-east-1 region is experiencing issues
+> https://news.ycombinator.com/item?id=30619871
+
+https://status.slack.com/2022-03/8a9e98bfaa32ef5f
+> https://news.ycombinator.com/item?id=30613336
+
+https://www.reddit.com/r/ovh/comments/s4au0g/big_bhs2_outage_today/
+
+https://news.ycombinator.com/item?id=29648325 heroku
+
+https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/
+
+https://www.theregister.com/2021/07/27/stolen_scaleway_ssd_recovered/
+> https://news.ycombinator.com/item?id=27982769
+
+https://news.ycombinator.com/item?id=27466678 AWS EU-CENTRAL-1 PDT/UTC
+
+https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
+> https://news.ycombinator.com/item?id=27443519
+
 # News
 https://pipedream.com/
 > https://news.ycombinator.com/item?id=30941740
@@ -106,12 +130,6 @@ https://www.infoworld.com/article/3653228/what-is-a-serverless-database-elastic-
 
 https://www.theregister.com/2022/03/09/state_of_cloud_survey/
 > https://news.ycombinator.com/item?id=30627328
-
-https://health.aws.amazon.com/health/status AWS's us-east-1 region is experiencing issues
-> https://news.ycombinator.com/item?id=30619871
-
-https://status.slack.com/2022-03/8a9e98bfaa32ef5f
-> https://news.ycombinator.com/item?id=30613336
 
 https://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html
 
@@ -160,8 +178,6 @@ https://news.ycombinator.com/item?id=30148806
 
 https://news.ycombinator.com/item?id=30138034
 
-https://github.com/Datadog/stratus-red-team/ "Stratus Red Team": open-source adversary emulation for AWS
-
 https://github.com/mdlayher/vsock Linux VM sockets (AF_VSOCK) for communication between a hypervisor and its virtual machines. MIT Licensed.
 
 https://opensource.optum.com/blog/2021/10/21/s3-to-azure-copy
@@ -177,8 +193,6 @@ https://support.google.com/a/answer/60217?hl=en
 
 https://9to5google.com/2022/01/19/g-suite-legacy-free-edition/
 > https://news.ycombinator.com/item?id=29996432
-
-https://www.reddit.com/r/ovh/comments/s4au0g/big_bhs2_outage_today/
 
 https://blog.revolve.team/2022/01/13/cloud-de-confiance-etat-des-lieux-2022/
 
@@ -216,10 +230,6 @@ https://ptribble.blogspot.com/2021/12/the-cost-of-cloud.html
 https://www.theregister.com/2021/12/23/db2_where_are_you/
 
 https://therecord.media/microsoft-notifies-customers-of-azure-bug-that-exposed-their-source-code/
-
-https://news.ycombinator.com/item?id=29648325 heroku
-
-https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/
 
 https://workspaceupdates.googleblog.com/2021/12/abuse-notification-emails-google-drive.html
 > https://news.ycombinator.com/item?id=29650416
@@ -412,9 +422,6 @@ https://www.theverge.com/2021/8/4/22609090/microsoft-365-free-trials-cloud-pcs-d
 https://cloud.google.com/vpc/docs/release-notes#July_20_2021
 > https://news.ycombinator.com/item?id=27982431
 
-https://www.theregister.com/2021/07/27/stolen_scaleway_ssd_recovered/
-> https://news.ycombinator.com/item?id=27982769
-
 https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html
 
 https://www.euclidia.eu/
@@ -433,11 +440,6 @@ https://fly.io/blog/last-mile-redis/
 
 https://github.com/mrbbot/miniflare test
 > https://news.ycombinator.com/item?id=27736706
-
-https://news.ycombinator.com/item?id=27466678 AWS EU-CENTRAL-1 PDT/UTC
-
-https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
-> https://news.ycombinator.com/item?id=27443519
 
 https://www.zdnet.com/article/apple-shut-down-my-icloud-account-for-four-days-no-warning-no-explanation-no-excuse/
 > https://news.ycombinator.com/item?id=27423611

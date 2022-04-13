@@ -106,6 +106,16 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # Incidents
+https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=r
+> https://news.ycombinator.com/item?id=31015813
+
+https://twitter.com/kjartanmuller/status/1513462616030683138 Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks
+> https://news.ycombinator.com/item?id=30990697
+
+https://jira-software.status.atlassian.com/
+> https://news.ycombinator.com/item?id=30990577
+https://news.ycombinator.com/item?id=30986732
+
 https://news.ycombinator.com/item?id=30973808 Atlassian products have been down for 4 days
 
 https://news.ycombinator.com/item?id=30960499 Multiple Atlassian services suffering outages
@@ -125,8 +135,15 @@ https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 
 # New versions
 
+https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
 # News
+https://github.blog/changelog/2022-04-12-organization-discussions/
+> https://news.ycombinator.com/item?id=31007694
+
+https://github.com/facebookexperimental/eden scm
+> https://news.ycombinator.com/item?id=31006003
+
 https://sourcehut.org/blog/2022-04-08-2021-financial-report/
 > https://news.ycombinator.com/item?id=30956872
 
@@ -284,8 +301,6 @@ https://github.com/mattst88/gmail-gitlab-filtering
 https://iopscience.iop.org/article/10.3847/1538-3881/ac341b Visibility Predictions for Near-future Satellite Megaconstellations: Latitudes near 50° Will Experience the Worst Light Pollution
 
 https://microtica.com/blog/how-to-use-gitops-on-aws-in-your-organization-a-complete-guide/
-
-https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
 https://pre-commit.com/
 > https://news.ycombinator.com/item?id=29634897

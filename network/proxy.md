@@ -24,6 +24,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://nibblestew.blogspot.com/2022/04/getting-web-proxys-and-certificates.html
+> https://www.reddit.com/r/linux/comments/u27c1v/getting_web_proxys_and_certificates_working_on/
+
 https://github.com/octeep/wireproxy
 > https://news.ycombinator.com/item?id=30816135
 
