@@ -117,6 +117,8 @@ https://asciiflow.com/#/
 
 https://github.com/michaelkofron/image2ascii
 
+https://github.com/AlexEidt/ASCII-Video
+
 # State Machine
 https://mannhowie.com/finite-state-machines
 

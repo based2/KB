@@ -34,6 +34,9 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://josephmate.github.io/2022-04-14-max-connections/
+> https://www.reddit.com/r/java/comments/u3gynp/1000000_concurrent_connections/
+
 https://vertx.io/blog/eclipse-vert-x-4-2-6/
 
 https://kamalhm.dev/configuring-connection-pool-with-spring-r2dbc

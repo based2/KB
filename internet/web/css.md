@@ -184,6 +184,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://voussoir.net/writing/browser_in_the_dark
+
 https://overengineer.dev/blog/2021/08/20/webcompat-finger-radius.html
 
 https://www.joshwcomeau.com/css/understanding-layout-algorithms/

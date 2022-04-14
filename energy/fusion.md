@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.avalanche.energy/
+> https://news.ycombinator.com/item?id=31031266
+
 https://www.bloomberg.com/news/articles/2022-04-04/u-k-startup-s-big-friendly-gun-achieves-fusion-breakthrough
 > https://news.ycombinator.com/item?id=30916343
 

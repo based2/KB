@@ -155,6 +155,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://www.cockos.com/ninjam/ open source software to allow people to make real music together
+> https://news.ycombinator.com/item?id=31018600
+
 https://forum.devtalk.com/t/building-a-streaming-music-service-with-phoenix-and-elixir/49863
 
 https://docs.helio.fm/getting-started.html

@@ -161,6 +161,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://lexical.dev/ Facebook open sources Lexical, an extensible text editor library
+> https://news.ycombinator.com/item?id=31019778
+
 https://github.com/dail8859/NotepadNext
 > https://news.ycombinator.com/item?id=30959025
 

@@ -55,6 +55,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.theverge.com/2018/2/20/17031676/climate-change-lawsuits-fossil-fuel-new-york-santa-cruz
+
 https://climateer.substack.com/p/avoided-emissions?s=r
 > https://news.ycombinator.com/item?id=30990697
 

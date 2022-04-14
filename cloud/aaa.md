@@ -76,6 +76,10 @@ https://supabase.com/blog/2022/03/31/supabase-edge-functions
 
 # Incidents
 
+use of IKEv1
+
+https://news.ycombinator.com/item?id=31025894
+
 https://news.ycombinator.com/item?id=31015840 Hetzner Cloud – Data loss incident
 
 https://health.aws.amazon.com/health/status AWS's us-east-1 region is experiencing issues

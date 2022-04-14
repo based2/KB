@@ -69,6 +69,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.tweag.io/blog/2022-03-17-libffi-wasm32/
+
 https://zaplib.com/docs/
 > https://news.ycombinator.com/item?id=30960509
 

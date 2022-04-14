@@ -8,6 +8,8 @@ https://blog.spinnaker.io/managed-delivery-evolving-continuous-delivery-at-netfl
 
 https://worklifenotes.com/2020/06/04/7-best-practices-modern-cicd/
 
+https://github.com/MichaelCade/90DaysOfDevOps
+
 https://blog.container-solutions.com/fluxcd-argocd-or-jenkins-x-which-is-the-right-gitops-tool-for-you
 
 https://news.ycombinator.com/item?id=25843210
@@ -106,8 +108,12 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # Incidents
+https://www.githubstatus.com/incidents/vxvyrmy9w1vp
+> https://news.ycombinator.com/item?id=31023695
+
 https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=r
 > https://news.ycombinator.com/item?id=31015813
+> https://www.reddit.com/r/programming/comments/u3ejph/the_scoop_inside_the_longest_atlassian_outage_of/
 
 https://twitter.com/kjartanmuller/status/1513462616030683138 Atlassian: We estimate the rebuilding effort to last for up to 2 more weeks
 > https://news.ycombinator.com/item?id=30990697

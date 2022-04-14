@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://blog.dshr.org/2022/04/ethereum-has-issues.html
+> https://news.ycombinator.com/item?id=31029504
+
 https://twitter.com/TimBeiko/status/1514010098145759232
 
 https://nav.al/vitalik

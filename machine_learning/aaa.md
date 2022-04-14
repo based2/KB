@@ -254,6 +254,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://julialang.org/blog/2022/04/simple-chains/
+> https://news.ycombinator.com/item?id=31027299
+
 https://news.ycombinator.com/item?id=31006716 Show HN: Razer x Lambda Tensorbook
 
 https://www.assemblyai.com/blog/differentiable-programming-a-simple-introduction/

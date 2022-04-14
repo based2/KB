@@ -62,6 +62,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://netflixtechblog.com/how-netflix-content-engineering-makes-a-federated-graph-searchable-5c0c1c7d7eaf
+
 https://www.quantamagazine.org/what-a-math-party-game-tells-us-about-graph-theory-20220324/
 > https://news.ycombinator.com/item?id=30941482
 > > https://en.wikipedia.org/wiki/Handshaking_lemma

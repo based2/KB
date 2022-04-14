@@ -1,3 +1,20 @@
+https://www.wired.com/story/pipedream-ics-malware/
+> https://hub.dragos.com/hubfs/116-Whitepapers/Dragos_ChernoviteWP_v2b.pdf
+
+https://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf
+
+https://unit42.paloaltonetworks.com/iam-cloud-threat-research/?web_view=true
+
+https://www.cyberkendra.com/2022/04/nginx-release-advisory-about-nginx-0day.html
+
+https://blog.trailofbits.com/2022/04/13/part-1-coordinated-disclosure-of-vulnerabilities-affecting-girault-bulletproofs-and-plonk/ critical vulnerabilities that break the soundness of multiple implementations of zero-knowledge proof systems
+
+https://nakedsecurity.sophos.com/2022/04/11/openssh-goes-post-quantum-switches-to-qubit-busting-crypto-by-default/
+> https://www.reddit.com/r/programming/comments/u31nk2/openssh_goes_postquantum_switches_to_qubitbusting/
+
+https://wale.id.au/posts/iviewed-your-api-keys/
+> https://news.ycombinator.com/item?id=31025809
+
 https://letsencrypt.org/2022/04/13/receiving-the-levchin-prize.html
 > https://news.ycombinator.com/item?id=31018436
 
@@ -7,6 +24,8 @@ https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
 https://blog.lightspin.io/aws-rds-critical-security-vulnerability
 > https://www.reddit.com/r/netsec/comments/u1kgfw/aws_rds_vulnerability_leads_to_aws_internal/
 > > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-004/
+> https://portswigger.net/daily-swig/internal-aws-credentials-swiped-by-researcher-via-sql-payload
+> > https://www.reddit.com/r/programming/comments/u2nory/internal_aws_credentials_swiped_by_researcher_via/
 
 https://www.cert.ssi.gouv.fr/actualite/CERTFR-2022-ACT-015/ CVE-2022-22721 Apache HTTPD
 > https://httpd.apache.org/security/vulnerabilities_24.html
@@ -15,6 +34,8 @@ https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-026.p
 > https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5012592-update-brings-default-browser-improvements/
 > https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2022-patch-tuesday-fixes-119-flaws-2-zero-days/
 > https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5012599-and-kb5012591-updates-released/
+> https://therecord.media/experts-warn-of-concerns-around-microsoft-rpc-bug/?web_view=true
+> > https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-003/
 
 https://lists.apache.org/thread/rr0yjtskjjnj7lvdhff0p01q3hnn6qhw CVE-2022-27479: Apache Superset: SQL injection vulnerability in chart data API
 

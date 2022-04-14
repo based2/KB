@@ -59,6 +59,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://randthoughts.github.io/little-rant-about-gnomes-file-manager-aka-nautilus/
+> https://news.ycombinator.com/item?id=31024971
+
 https://pointieststick.com/2022/04/08/this-week-in-kde-a-feast-for-the-eyes/
 
 https://duncanlock.net/blog/2022/04/06/using-windows-after-15-years-on-linux/
