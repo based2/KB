@@ -22,6 +22,9 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://buttondown.email/krcah/archive/more-control-with-idempotency/
+> https://news.ycombinator.com/item?id=31027403
+
 https://github.com/purpleidea/mgmt
 > https://news.ycombinator.com/item?id=30998872
 

@@ -75,6 +75,9 @@ https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-d
 
 https://hypercardsimulator.com/
 > https://news.ycombinator.com/item?id=30138533
+> https://hypercardsimulator.com/Account/Coffee
+> https://news.ycombinator.com/item?id=31041205
+> > https://hyperscript.org/
 
 # ResEdit
 https://www.macintoshrepository.org/1317-resedit-2-1-3

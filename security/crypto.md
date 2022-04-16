@@ -108,6 +108,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.youtube.com/watch?v=37Ri1jpl5p8 concept of a lattice
+
 https://github.com/ranea/whiteboxarx
 
 https://sympa.inria.fr/sympa/arc/cado-nfs/2020-02/msg00001.html [Cado-nfs-discuss] Factorization of RSA-250

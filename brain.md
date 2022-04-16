@@ -36,6 +36,9 @@ https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neuro
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://neuroscience.stanford.edu/news/researchers-control-brain-circuits-distance-using-infrared-light
+> https://news.ycombinator.com/item?id=31041612
+
 https://www.scientificamerican.com/article/the-father-of-modern-neuroscience-discovered-the-basic-unit-of-the-nervous-system/
 
 https://royalsocietypublishing.org/doi/10.1098/rsos.211926

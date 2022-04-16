@@ -106,6 +106,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://aremykeyssafe.com/ Is your SSH key still safe?
+> https://news.ycombinator.com/item?id=31039621
+
 https://www.openssh.com/releasenotes.html OpenSSH 9.0/9.0p1 (2022-04-08)
 > https://news.ycombinator.com/item?id=30953634
 

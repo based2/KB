@@ -86,6 +86,8 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://www.instana.com/blog/practical-golang-benchmarks/
+
 https://go.dev/blog/when-generics
 > https://news.ycombinator.com/item?id=31008141
 

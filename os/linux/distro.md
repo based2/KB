@@ -62,6 +62,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://tails.boum.org/news/test_5.0-beta1/
+
 https://galliumos.org/ A fast and lightweight Linux distro for ChromeOS devices
 > https://news.ycombinator.com/item?id=31025225
 

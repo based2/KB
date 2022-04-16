@@ -235,6 +235,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/
+> https://news.ycombinator.com/item?id=31036800
+
 https://medium.com/meroxa/conduit-0-2-making-connectors-a-reality-efdd60000274
 > https://github.com/ConduitIO/conduit
 

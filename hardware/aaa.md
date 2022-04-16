@@ -67,6 +67,16 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+Intel deprecates SGX on Core series processors
+https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/
+> https://news.ycombinator.com/item?id=31047888 <- Azure's 'confidential computing'
+
+https://github.com/BasicCode/Toshiba-T1200-PSU
+> https://news.ycombinator.com/item?id=31025865
+
+https://dev.to/yjdoc2/introducing-pcb-rs-making-it-easier-to-write-hardware-397m
+> https://news.ycombinator.com/item?id=31024101
+
 https://www.geeks3d.com/20220401/new-chinese-gpu-maker-moore-threads-unveils-the-mtt-s60-graphics-card-with-vulkan-opengl-and-direct3d-support/
 > https://news.ycombinator.com/item?id=30977920
 

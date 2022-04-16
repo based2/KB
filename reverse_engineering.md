@@ -1,7 +1,11 @@
 https://github.com/cea-sec/miasm
 > https://news.ycombinator.com/item?id=30814085
 
+https://github.com/qilingframework/qiling Advanced binary emulation framework
+
 #
+https://maxkersten.nl/binary-analysis-course/analysis-scripts/ghidra-script-to-handle-stack-strings/
+
 https://compilepeace.medium.com/software-reverse-engineering-ripping-apart-bomb-binary-25cf63dc39d5
 
 https://www.righto.com/2022/04/reverse-engineering-lm185-voltage.html

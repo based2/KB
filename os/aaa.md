@@ -14,6 +14,12 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+https://somerandomidiot.com/blog/2022/03/04/chamelon/ Chamelon: MVP persistent block storage for MirageOS
+> https://news.ycombinator.com/item?id=31020350
+
+https://www.phoronix.com/scan.php?page=news_item&px=Oracle-Solaris-11.4-CBE
+> https://news.ycombinator.com/item?id=31012025
+
 https://nanovms.com/dev/tutorials/closures-in-the-nanos-unikernel
 
 https://www.theregister.com/2022/03/29/non_c_operating_systems/

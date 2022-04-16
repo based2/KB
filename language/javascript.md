@@ -371,6 +371,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e
+> https://news.ycombinator.com/item?id=31050650
+
 https://deno.com/blog/a-whole-website-in-a-single-js-file
 > https://news.ycombinator.com/item?id=30933831
 

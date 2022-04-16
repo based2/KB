@@ -24,6 +24,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://www.agwa.name/blog/post/using_sni_proxying_and_ipv6_to_share_port_443
+
+
 https://nibblestew.blogspot.com/2022/04/getting-web-proxys-and-certificates.html
 > https://www.reddit.com/r/linux/comments/u27c1v/getting_web_proxys_and_certificates_working_on/
 > https://lobste.rs/s/t67mum/getting_web_proxys_certificates_working

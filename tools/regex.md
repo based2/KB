@@ -65,6 +65,9 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://talbrenev.com/2021/05/26/html-regex.html
+> https://news.ycombinator.com/item?id=31012999
+
 https://xysun.github.io/posts/regex-parsing-thompsons-algorithm.html
 
 https://github.com/VectorCamp/vectorscan Intel fork

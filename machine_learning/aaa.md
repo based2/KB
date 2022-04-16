@@ -254,6 +254,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.quantamagazine.org/deep-learning-poised-to-blow-up-famed-fluid-equations-20220412/
+> https://news.ycombinator.com/item?id=31012422
+
 https://julialang.org/blog/2022/04/simple-chains/
 > https://news.ycombinator.com/item?id=31027299
 

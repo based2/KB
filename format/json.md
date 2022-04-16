@@ -71,6 +71,8 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb
+
 https://www.reddit.com/r/scala/comments/tsd49l/using_swar_techniques_to_speed_up_parsing_and/
 
 https://pythonspeed.com/articles/json-memory-streaming/

@@ -1,3 +1,21 @@
+https://www.thegreenbow.com/en/support/security-alerts/#deeplink-12537
+
+https://www.microsoft.com/security/blog/2022/04/12/tarrask-malware-uses-scheduled-tasks-for-defense-evasion/
+
+https://www.bleepingcomputer.com/news/security/windows-11-tool-to-add-google-play-secretly-installed-malware/
+
+https://mjtsai.com/blog/2022/04/15/mac-app-store-ransomware/
+> https://news.ycombinator.com/item?id=31046415
+
+https://github.com/s0md3v/Smap passive Nmap like scanner built with shodan.io
+
+https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-zero-day-used-in-attacks/
+
+https://www.theregister.com/2022/04/14/muting_ciscos_webex_app_doesnt/
+> https://news.ycombinator.com/item?id=31044539
+
+https://www.notgitbleed.com/
+
 https://www.wired.com/story/pipedream-ics-malware/
 > https://hub.dragos.com/hubfs/116-Whitepapers/Dragos_ChernoviteWP_v2b.pdf
 
@@ -6,6 +24,8 @@ https://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey
 https://unit42.paloaltonetworks.com/iam-cloud-threat-research/?web_view=true
 
 https://www.cyberkendra.com/2022/04/nginx-release-advisory-about-nginx-0day.html
+> https://www.nginx.com/blog/addressing-security-weaknesses-nginx-ldap-reference-implementation/
+> > https://github.com/AgainstTheWest/NginxDay
 
 https://blog.trailofbits.com/2022/04/13/part-1-coordinated-disclosure-of-vulnerabilities-affecting-girault-bulletproofs-and-plonk/ critical vulnerabilities that break the soundness of multiple implementations of zero-knowledge proof systems
 
@@ -36,6 +56,7 @@ https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-026.p
 > https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5012599-and-kb5012591-updates-released/
 > https://therecord.media/experts-warn-of-concerns-around-microsoft-rpc-bug/?web_view=true
 > > https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-003/
+> https://www.bleepingcomputer.com/news/microsoft/critical-windows-rpc-cve-2022-26809-flaw-raises-concerns-patch-now/
 
 https://lists.apache.org/thread/rr0yjtskjjnj7lvdhff0p01q3hnn6qhw CVE-2022-27479: Apache Superset: SQL injection vulnerability in chart data API
 
@@ -1613,6 +1634,7 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://www.bleepingcomputer.com/news/security/finnish-diplomats-phones-infected-with-nso-group-pegasus-spyware/
 > > https://news.ycombinator.com/item?id=30146042
 > https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/#_ftn1
+> https://www.reuters.com/technology/exclusive-senior-eu-officials-were-targeted-with-israeli-spyware-sources-2022-04-11/
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

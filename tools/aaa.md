@@ -13,4 +13,7 @@ https://monkey.org/~marius/unix-tools-hints.html
 https://github.com/denisidoro/navi
 > https://news.ycombinator.com/item?id=30925843
 
+https://joeyh.name/code/moreutils/ collection of the unix tools that nobody thought to write long ago when unix was young
+> https://news.ycombinator.com/item?id=31043655
+
 https://github.com/uutils/coreutils/releases/tag/0.0.13 rust

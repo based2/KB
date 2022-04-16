@@ -63,6 +63,8 @@ https://medium.com/@canosergio90/akka-streams-getting-started-32b5ebc60604
 
 https://doc.akka.io/docs/alpakka/current/
 
+https://spekka.github.io/ Streaming Productivity Enhancements for Akka
+
 https://scalqa.org/doc/
 
 ## Monix
@@ -76,6 +78,8 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://softwaremill.com/fancy-strings-in-scala-3/
+
 https://blog.indoorvivants.com/2022-03-03-twotm8-part-1-introduction native
 
 https://scalac.io/blog/inline-your-boilerplate-harnessing-scala3-metaprogramming-without-macros/

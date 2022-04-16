@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://blog.lithic.com/interchange/
+> https://news.ycombinator.com/item?id=31045967
+
 https://twitter.com/theryanking/status/1512833718859313156
 
 https://stratechery.com/2021/the-apple-v-epic-decision/

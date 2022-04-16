@@ -12,6 +12,8 @@ https://www.vocbit.com/ Improve your vocabulary by Quiz
 
 https://apps.ankiweb.net/
 
+https://refold.la/roadmap/stage-1/a/anki-setup
+
 https://github.com/andymatuschak/orbit
 > https://news.ycombinator.com/item?id=27051468
 

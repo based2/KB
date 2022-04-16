@@ -57,6 +57,8 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://github.com/riscv/riscv-profiles/blob/v0.5/profiles.adoc
+
 https://github.com/stnolting/neorv32/blob/main/README.md
 > 
 

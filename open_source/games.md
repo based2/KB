@@ -29,6 +29,8 @@ https://www.scummvm.org/
 https://chezsoi.org/lucas/blog/pages/images-libres-de-droits.html
 
 # Dev
+https://www.gamingonlinux.com/2022/04/2022-is-officially-the-year-of-linux-gaming/
+
 https://libregamewiki.org/Main_Page
 
 https://godotengine.org

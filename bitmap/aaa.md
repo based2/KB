@@ -68,6 +68,9 @@ https://github.com/robhagemans/hoard-of-bitfonts
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://en.wikipedia.org/wiki/Bibi-binary
+> https://news.ycombinator.com/item?id=31038658
+
 https://raphlinus.github.io/rust/graphics/gpu/2022/02/24/piet-gpu-clipping.html
 > https://news.ycombinator.com/item?id=30462322
 

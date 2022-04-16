@@ -68,6 +68,9 @@ https://learnbyexample.github.io/vim_reference/Introduction.html
 https://vimcolorschemes.com/
 > https://news.ycombinator.com/item?id=30885471
 
+https://github.com/neovim/neovim/releases/tag/v0.7.0
+> https://news.ycombinator.com/item?id=31039569
+
 # Nano
 
 

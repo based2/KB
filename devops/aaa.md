@@ -144,6 +144,15 @@ https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
 # News
+https://status.heroku.com/incidents/2413 Heroku Security Notification, GitHub integration mitigation steps
+> https://news.ycombinator.com/item?id=31048646
+
+https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/
+> https://news.ycombinator.com/item?id=31046791
+
+https://httpie.io/blog/stardust
+> https://news.ycombinator.com/item?id=31033758
+
 https://github.blog/changelog/2022-04-12-organization-discussions/
 > https://news.ycombinator.com/item?id=31007694
 

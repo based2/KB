@@ -108,6 +108,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html
+> https://news.ycombinator.com/item?id=31038364
+
 https://developers.redhat.com/articles/2022/04/12/state-static-analysis-gcc-12-compiler
 
 https://github.com/nikitinprior/dF80 Restored F80 compiler code for CP/M

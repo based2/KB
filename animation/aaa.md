@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://github.com/dai-shi/excalidraw-animate
+
 https://deekaykwon.com/
 > https://news.ycombinator.com/item?id=31011643
 

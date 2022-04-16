@@ -238,6 +238,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://bytebase.com/blog/database-migration-sqlite-to-postgresql
+> https://news.ycombinator.com/item?id=31038614
+
 https://postgrespro.com/blog/pgsql/5968022 Locks in PostgreSQL: 4. Locks in memory
 
 https://github.com/postgres-ai/database-lab-engine/releases/tag/v3.1.0
