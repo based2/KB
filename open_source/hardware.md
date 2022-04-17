@@ -111,6 +111,11 @@ https://piotr.westfalewicz.com/blog/2020/04/the-ultimate-cloud-cat-feeder-overvi
 https://www.omgubuntu.co.uk/2021/09/bangle-js-2-is-a-hackable-open-source-smartwatch-that-runs-javascript
 > https://news.ycombinator.com/item?id=28708462
 
+https://www.youtube.com/watch?v=BSF04i3zNGw OpenMower - The affordable Open Source DIY Smart GPS Robotic Mower
+> https://news.ycombinator.com/item?id=31014160
+
+https://osfc.io/archive
+
 # Firmware
 https://freshtomato.org/ Broadcom
 > https://news.ycombinator.com/item?id=28520468
@@ -118,6 +123,8 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-43.pdf Archipelago - An Open Source FPGA with Toolflow Support
+
 https://www.starlabs.systems/pages/starbook?shpxid=49ca51aa-47f8-40cd-8042-84f546d443b0
 > https://news.ycombinator.com/item?id=31034024
 

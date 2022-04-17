@@ -19,3 +19,5 @@ https://medium.engineering/typography-is-impossible-5872b0c7f891
 > https://news.ycombinator.com/item?id=30702208
 
 https://www.canva.com/learn/kerning/
+
+https://www.themoscowtimes.com/2022/04/14/times-new-roman-arial-fonts-blocked-in-russia-vedomosti-a77352

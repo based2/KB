@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.nature.com/articles/s42004-022-00626-2.pdf Stabilization of gamma sulfur at room temperature to enable the use of carbonate electrolyte in Li-S batteries
+> https://news.ycombinator.com/item?id=31060183
+
 https://teamsolid.org/ Iron Cycle based energy storage and generation
 > https://news.ycombinator.com/item?id=31013988
 

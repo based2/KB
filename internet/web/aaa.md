@@ -82,6 +82,8 @@ https://scrapingfish.com/blog/scraping-instagram
 > https://news.ycombinator.com/item?id=30868738
 
 # News
+https://news.ycombinator.com/item?id=31062799 Internet magically gets faster when opening speedtest?
+
 https://tilepieces.net/
 > https://news.ycombinator.com/item?id=30931586
 

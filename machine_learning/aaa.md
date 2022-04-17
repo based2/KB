@@ -220,6 +220,10 @@ https://arxiv.org/abs/2109.13916 Unsolved Problems in ML Safety
 
 https://news.ycombinator.com/item?id=29289431
 
+##
+https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemiologic_research.8.aspx
+> https://news.ycombinator.com/item?id=31037416
+
 ## Attacks
 https://arxiv.org/abs/2106.09898 Bad Characters: Imperceptible NLP Attacks
 > https://news.ycombinator.com/item?id=29734399
@@ -254,6 +258,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.offconvex.org/2021/04/07/ripvanwinkle/
+
+https://arxiv.org/abs/2106.10165 The Principles of Deep Learning Theory
+> https://news.ycombinator.com/item?id=31051540
+
 https://www.quantamagazine.org/deep-learning-poised-to-blow-up-famed-fluid-equations-20220412/
 > https://news.ycombinator.com/item?id=31012422
 

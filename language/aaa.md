@@ -263,6 +263,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://blog.hackersreboot.tech/hello-v-lang
+> https://news.ycombinator.com/item?id=31058910
+
 https://github.com/analang/ana
 > https://news.ycombinator.com/item?id=31011613
 

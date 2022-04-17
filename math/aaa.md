@@ -95,6 +95,9 @@ https://www.sliderules.org/
 > https://news.ycombinator.com/item?id=30955676
 
 # News
+http://www.gambit-project.org/ Software Tools for Game Theory
+> https://news.ycombinator.com/item?id=31037842
+
 https://www.johndcook.com/blog/2022/04/13/logarithms-yearning-to-be-free/
 > https://news.ycombinator.com/item?id=31014701
 

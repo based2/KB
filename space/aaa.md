@@ -24,6 +24,8 @@ https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
 https://stellarium.org/
 > https://news.ycombinator.com/item?id=30574809
 
+https://github.com/Stellarium/stellarium/releases/tag/v0.22.1
+
 # Probe
 ## Voyager
 https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/

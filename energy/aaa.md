@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://en.wikipedia.org/wiki/Nuclear_reactor
+
 https://news.mit.edu/2022/thermal-heat-engine-0413
 > https://news.ycombinator.com/item?id=31016120
 

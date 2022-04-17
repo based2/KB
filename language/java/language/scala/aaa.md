@@ -78,6 +78,15 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://flowrun.io/
+> https://flowrun.io/
+> http://www.flowgorithm.org/index.html
+
+https://ordset.blogspot.com/
+> https://github.com/earogov/ordset
+
+https://alexn.org/blog/2022/04/05/future-monix-typelevel/
+
 https://softwaremill.com/fancy-strings-in-scala-3/
 
 https://blog.indoorvivants.com/2022-03-03-twotm8-part-1-introduction native

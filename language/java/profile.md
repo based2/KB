@@ -11,3 +11,6 @@ https://bankstatementconverter.com/blog/posts/five-ways-i-handled-outofmemoryerr
 https://github.com/jvm-profiling-tools/async-profiler
 
 https://puzpuzpuz.io/benchmarking-non-shared-locks-in-java
+
+https://sigpwned.com/2022/04/16/fundamentals-of-software-optimization-part-i-benchmarking/
+> https://www.reddit.com/r/java/comments/u5n9f1/fundamentals_of_software_optimization_part_i/

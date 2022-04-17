@@ -54,6 +54,8 @@ https://www.theregister.com/2022/03/03/report_casts_doubt_on_5g/
 https://www.tbray.org/ongoing/When/202x/2022/03/26/Is-5G-BS
 > https://news.ycombinator.com/item?id=30821504
 
+https://open-ran.org/#next
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html

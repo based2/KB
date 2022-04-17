@@ -63,12 +63,18 @@ https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
 https://ffmpegwasm.netlify.app/
 > https://news.ycombinator.com/item?id=28251801
 
+# 
+https://github.com/wwwg/wasmdec To C
+> https://news.ycombinator.com/item?id=31057583
+
 # History
 https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html
 > https://news.ycombinator.com/item?id=27616656
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/wasm3/wasm3/issues/320 [security] Heap Overflow in NewCodePage m3_code.c:25:29
+
 https://www.tweag.io/blog/2022-03-17-libffi-wasm32/
 
 https://zaplib.com/docs/

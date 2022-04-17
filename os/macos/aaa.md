@@ -67,6 +67,8 @@ https://www.a11yproject.com/posts/macos-browser-keyboard-navigation/
 
 https://jdeploy.substack.com/p/apples-code-signing-quagmire?s=w
 
+https://github.com/mikeroyal/Apple-Silicon-Guide
+
 # M1
 https://eclecticlight.co/2022/03/17/macos-has-different-strategies-for-m1-cores/
 
@@ -182,6 +184,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
 # News
+https://www.bloomberg.com/news/articles/2022-04-14/apple-readies-several-new-macs-with-next-generation-m2-chips
+
 https://github.com/rlxone/Equinox Create dynamic wallpapers for macOS
 
 https://eclecticlight.co/2022/04/10/last-week-on-my-mac-why-m1-macs-dont-have-full-support-for-usb-c/

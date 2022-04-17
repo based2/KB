@@ -33,6 +33,12 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://geohot.github.io//blog/jekyll/update/2022/04/16/vampire-attack-twitter.html
+> https://news.ycombinator.com/item?id=31060368
+
+https://en.wikipedia.org/wiki/Clay_Shirky
+> https://news.ycombinator.com/item?id=31038660
+
 https://github.com/ThioJoe/YT-Spammer-Purge
 > https://news.ycombinator.com/item?id=30912187
 

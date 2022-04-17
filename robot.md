@@ -41,6 +41,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.wevolver.com/article/hero-20-an-ultra-low-cost-3d-printed-robotics-platform-could-open-swarm-robotics-experimentation-up-to-all
+> https://news.ycombinator.com/item?id=31057382
+
 https://www.beewise.ag/
 > https://news.ycombinator.com/item?id=30865323
 

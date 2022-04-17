@@ -106,6 +106,14 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://github.com/warp-tech/warpgate SSH bastion host for Linux, Privileged Access Management (PAM)
+> https://news.ycombinator.com/item?id=31062399
+
+User namespaces-based chroot into an sshfs mountpoint
+https://book.linuxboot.org/cpu/
+> https://news.ycombinator.com/item?id=31057873
+
+
 https://aremykeyssafe.com/ Is your SSH key still safe?
 > https://news.ycombinator.com/item?id=31039621
 

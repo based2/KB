@@ -152,7 +152,7 @@ https://maps.nicholsonroad.com/zones/ vancouver
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 
-# georoutage
+# Georoutage
 https://pncnmnp.github.io/blogs/distance-oracles.html
 > https://news.ycombinator.com/item?id=27420155
 
@@ -192,6 +192,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://macwright.com/2022/04/16/hivemapper.html
+
 https://protomaps.com/blog/serverless-self-hosted-maps/
 > https://news.ycombinator.com/item?id=30948255
 

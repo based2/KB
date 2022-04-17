@@ -144,6 +144,8 @@ https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
 # News
+https://www.bleepingcomputer.com/news/security/github-suspends-accounts-of-russian-devs-at-sanctioned-companies/
+
 https://status.heroku.com/incidents/2413 Heroku Security Notification, GitHub integration mitigation steps
 > https://news.ycombinator.com/item?id=31048646
 

@@ -105,6 +105,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://blog.ipspace.net/2022/03/mpls-ldp-creation-myths.html
+> https://news.ycombinator.com/item?id=31040142
+
 https://www.nextplatform.com/2022/04/12/with-aquila-google-abandons-ethernet-to-outdo-infiniband/
 > https://news.ycombinator.com/item?id=31016347
 

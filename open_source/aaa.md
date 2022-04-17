@@ -189,10 +189,55 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 > https://jellyfin.org/
 > https://news.ycombinator.com/item?id=27462767
 
+# Learn
+
+## FR
+https://ladigitale.dev/
+
+https://www.jitsi-box.com/
+> https://www.fun-mooc.fr/fr/actualites/la-jitsi-box-un-boitier-opensource-pour-hybrider-lenseignement-e/
+
+https://www.reseau-canope.fr/canoprof.html
+> https://www.reseau-canope.fr/qui-sommes-nous.html
+
+https://polymny.studio/
+
+https://jbl2024.github.io/latelier-page/ Open source project management tool
+> https://github.com/jbl2024/latelier
+
+https://fr.vikidia.org/wiki/Vikidia:Accueil
+
+https://capytale2.ac-paris.fr/web/accueil
+> https://www.ac-paris.fr/capytale-un-service-web-pour-creer-et-partager-des-activites-pedagogiques-de-codage-121816
+
+https://primtux.fr/
+
+https://www.sesamath.net/
+
+https://www.toutatice.fr/portail
+
+http://minetest.wp.ac-dijon.fr/minestory-frise-immersive-de-sites-du-patrimoine-architectural/
+> https://www.minetest.net/
+
+https://text2quiz.vercel.app/
+
+src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-numeriques-libres-39939967.htm
+
+
+
+
+
+
+
+
+
 # Archive
 https://libregraphicsmag.com/index.html
 
 # News
+https://github.com/inventree/InvenTree inventory management system
+> https://news.ycombinator.com/item?id=31030047
+
 https://blogs.apache.org/foundation/entry/your-call-is-important-to
 > https://news.ycombinator.com/item?id=30877983
 

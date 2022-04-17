@@ -62,7 +62,8 @@ https://heistak.github.io/your-code-displays-japanese-wrong/
 
 https://gregtatum.com/writing/2021/diacritical-marks/
 > https://lobste.rs/s/jkay7p/diacritical_marks_unicode
-> > 
+
+https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
 # ASCII
 http://www.figlet.org/fontdb.cgi

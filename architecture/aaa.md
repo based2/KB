@@ -207,6 +207,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://martinfowler.com/articles/patterns-legacy-displacement/transitional-architecture.html
+> https://news.ycombinator.com/item?id=31024514
+
 https://github.com/donnemartin/system-design-primer
 
 https://docs.microsoft.com/en-gb/archive/blogs/nickmalik/killing-the-command-message-should-we-use-events-or-documents SOA decoupling, RPC, 'commands, events, or documents'

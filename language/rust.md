@@ -157,6 +157,9 @@ https://kerkour.com/rust-async-await-what-is-a-runtime/
 
 https://thenewstack.io/async-rust-in-practice-performance-pitfalls-profiling/
 
+https://github.com/crossbeam-rs/crossbeam
+> https://news.ycombinator.com/item?id=31037971
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -355,6 +358,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://www.thecodedmessage.com/posts/programming-integers/
+> https://news.ycombinator.com/item?id=31061683
+
 https://tratt.net/laurie/blog/2022/making_rust_a_better_fit_for_cheri_and_other_platforms.html
 > https://news.ycombinator.com/item?id=31024127
 

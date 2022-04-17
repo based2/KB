@@ -261,6 +261,9 @@ https://worace.works/2021/04/13/jar-hell-part-2-jvm-deployment-strategies/
 https://blog.jetbrains.com/idea/2022/04/intellij-idea-2022-1/
 > https://www.reddit.com/r/java/comments/u266hr/intellij_idea_20221_has_been_released/
 
+https://josephmate.github.io/2022-04-14-max-connections/
+> https://www.reddit.com/r/java/comments/u3gynp/1000000_concurrent_connections/
+
 https://www.infoq.com/articles/tools-for-jakarta-ee-devs/ wildfly
 
 https://arjan-tijms.omnifaces.org/2022/04/whats-new-in-jakarta-security-3.html OpenID Connect

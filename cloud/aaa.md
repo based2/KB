@@ -103,6 +103,10 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 > https://news.ycombinator.com/item?id=27443519
 
 # News
+https://staceyoniot.com/insteon-is-down-and-may-not-be-coming-back/
+
+https://news.ycombinator.com/item?id=31014247 Stacktape – Full power of AWS with Heroku-like experience
+
 https://pipedream.com/
 > https://news.ycombinator.com/item?id=30941740
 

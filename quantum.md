@@ -59,6 +59,8 @@ https://news.uchicago.edu/story/uchicago-scientists-create-strange-quantum-domai
 
 https://news.ycombinator.com/item?id=30607692
 
+https://physicsworld.com/a/quantum-measurement-splits-information-three-ways/
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/

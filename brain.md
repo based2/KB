@@ -36,6 +36,8 @@ https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neuro
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.livescience.com/working-memory-secret-code
+
 https://neuroscience.stanford.edu/news/researchers-control-brain-circuits-distance-using-infrared-light
 > https://news.ycombinator.com/item?id=31041612
 

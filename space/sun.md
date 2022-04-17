@@ -8,6 +8,8 @@ https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 > https://news.ycombinator.com/item?id=28864749
 
 # News
+https://www.space.com/mercury-blasted-by-solar-wave
+
 https://earthsky.org/sun/solar-orbiter-close-pass-sun-perihelion-march-26-2022/
 > https://news.ycombinator.com/item?id=30813548
 

@@ -110,6 +110,9 @@ https://cdn.coverstand.com/33057/739644/0483e8ca86f15b6c0ce9d6f4660f93665bff176a
 https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html
 > https://news.ycombinator.com/item?id=30637770
 
+https://marc.info/?l=freebsd-announce&m=165016689418229&w=2
+> https://news.ycombinator.com/item?id=31060331
+
 # NetBSD
 https://saurvs.github.io/post/writing-netbsd-kern-mod/
 > https://news.ycombinator.com/item?id=30927847

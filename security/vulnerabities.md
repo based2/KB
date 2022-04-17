@@ -248,6 +248,10 @@ Roos RC4
 ## 1997
 https://en.wikipedia.org/wiki/WinNuke
 
+## 1989
+
+https://en.wikipedia.org/wiki/WANK_(computer_worm)
+
 ## 1988
 https://en.wikipedia.org/wiki/Daniel_Bleichenbacher
 

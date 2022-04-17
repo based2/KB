@@ -45,3 +45,5 @@ https://aws.amazon.com/en/blogs/compute/operating-lambda-isolating-and-resolving
 https://aws.amazon.com/en/blogs/compute/operating-lambda-performance-optimization-part-1/
 
 https://aws.amazon.com/en/blogs/compute/operating-lambda-performance-optimization-part-3/
+
+https://github.com/alexcasalboni/aws-lambda-power-tuning

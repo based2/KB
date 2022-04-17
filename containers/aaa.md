@@ -36,6 +36,12 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://webapp.io/blog/github-actions-10x-faster-with-firecracker/
+> https://news.ycombinator.com/item?id=31062301
+
+https://iongion.github.io/podman-desktop-companion/
+> https://news.ycombinator.com/item?id=31055475
+
 https://oweng.medium.com/introducing-packetstreamer-distributed-packet-capture-for-cloud-native-platforms-3e7f9ac57ab1
 
 https://www.hashicorp.com/resources/the-future-of-vagrant-toward-3-0

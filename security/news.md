@@ -1,3 +1,19 @@
+https://www.go350.com/posts/digital-secrets/
+> https://news.ycombinator.com/item?id=31063702
+
+https://eprint.iacr.org/2021/1022 Zero-Knowledge Middleboxes: enforce network policies on encrypted traffic
+> https://news.ycombinator.com/item?id=31061628
+
+https://www.theregister.com/2022/04/15/githubs_dependabot_security/
+
+https://prophitt.me/a-self-inflicted-data-breach
+> https://news.ycombinator.com/item?id=31043137
+
+https://noncombatant.org/2022/04/22/itw-taxonomy/ 
+
+https://github.com/enarx/enarx/releases/tag/v0.4.0
+> Enarx 0.4.0, a Linux foundation project for running code in trusted enclaves (SGX, SEV)
+
 https://www.thegreenbow.com/en/support/security-alerts/#deeplink-12537
 
 https://www.microsoft.com/security/blog/2022/04/12/tarrask-malware-uses-scheduled-tasks-for-defense-evasion/
@@ -15,6 +31,8 @@ https://www.theregister.com/2022/04/14/muting_ciscos_webex_app_doesnt/
 > https://news.ycombinator.com/item?id=31044539
 
 https://www.notgitbleed.com/
+
+https://posts.specterops.io/coercing-ntlm-authentication-from-sccm-e6e23ea8260a
 
 https://www.wired.com/story/pipedream-ics-malware/
 > https://hub.dragos.com/hubfs/116-Whitepapers/Dragos_ChernoviteWP_v2b.pdf
@@ -57,6 +75,7 @@ https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-026.p
 > https://therecord.media/experts-warn-of-concerns-around-microsoft-rpc-bug/?web_view=true
 > > https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-003/
 > https://www.bleepingcomputer.com/news/microsoft/critical-windows-rpc-cve-2022-26809-flaw-raises-concerns-patch-now/
+> https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-24536 DNS RCE
 
 https://lists.apache.org/thread/rr0yjtskjjnj7lvdhff0p01q3hnn6qhw CVE-2022-27479: Apache Superset: SQL injection vulnerability in chart data API
 
@@ -695,6 +714,7 @@ https://krebsonsecurity.com/2022/03/conti-ransomware-group-diaries-part-i-evasio
 > https://www.bleepingcomputer.com/news/security/cisa-updates-conti-ransomware-alert-with-nearly-100-domain-names/
 > https://www.bleepingcomputer.com/news/security/google-exposes-tactics-of-a-conti-ransomware-access-broker/
 > https://research.nccgroup.com/2022/03/31/conti-nuation-methods-and-techniques-observed-in-operations-post-the-leaks/
+> https://www.bleepingcomputer.com/news/security/karakurt-revealed-as-data-extortion-arm-of-conti-cybercrime-syndicate/
 
 https://www.akamai.com/blog/security/tcp-middlebox-reflection
 > https://news.ycombinator.com/item?id=30524318

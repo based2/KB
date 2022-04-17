@@ -62,6 +62,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.datadoghq.com/blog/engineering/grpc-dns-and-load-balancing-incident/
+
 https://www.containiq.com/post/kubernetes-cronjobs
 
 https://blog.min.io/secure-multi-tenant-object-storage/
