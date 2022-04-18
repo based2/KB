@@ -67,3 +67,6 @@ https://news.utdallas.edu/science-technology/see-through-microchip-tech-2022/
 https://www.pencilofrays.com/lens-design-forms/
 
 https://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optics-working-successfully
+
+https://www.bbc.com/future/article/20220407-the-living-lights-that-could-reduce-energy-use
+> https://news.ycombinator.com/item?id=31060095

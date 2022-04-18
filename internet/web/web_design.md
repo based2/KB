@@ -77,6 +77,11 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://news.ycombinator.com/item?id=31066553
+
+https://www.deceptive.design/types
+> https://news.ycombinator.com/item?id=31066658
+
 https://gos.si/blog/frontend-component-architecture/
 
 https://www.delldesignsystem.com/

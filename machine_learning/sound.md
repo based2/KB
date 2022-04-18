@@ -22,3 +22,6 @@ https://qosmo.jp/en/projects/ai-dj-project2-ubiquitous-rhythm/
 
 https://gradio.app/real_time_speech_recognition/
 > https://news.ycombinator.com/item?id=30850596
+
+https://birdnetpi.com/
+> https://news.ycombinator.com/item?id=31072485

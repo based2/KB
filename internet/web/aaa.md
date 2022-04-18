@@ -81,6 +81,9 @@ https://til.simonwillison.net/shot-scraper/readability
 https://scrapingfish.com/blog/scraping-instagram
 > https://news.ycombinator.com/item?id=30868738
 
+https://techcrunch.com/2022/04/18/web-scraping-legal-court/
+> https://news.ycombinator.com/item?id=31075396
+
 # News
 https://news.ycombinator.com/item?id=31062799 Internet magically gets faster when opening speedtest?
 

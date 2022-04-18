@@ -62,6 +62,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://blog.wkimm.xyz/blog/2022/03/SuiteSparseGraphBLAS_intro/
+
 https://netflixtechblog.com/how-netflix-content-engineering-makes-a-federated-graph-searchable-5c0c1c7d7eaf
 
 https://www.quantamagazine.org/what-a-math-party-game-tells-us-about-graph-theory-20220324/

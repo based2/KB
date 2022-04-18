@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=31072973 Leave it to the browser to opt out of cookies
+
 https://transcend.io/blog/gdpr-fines/
 > https://news.ycombinator.com/item?id=30770561
 

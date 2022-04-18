@@ -1,3 +1,12 @@
+https://www.bleepingcomputer.com/news/security/mute-button-in-conferencing-apps-may-not-actually-mute-your-mic/
+
+https://safewayconsultoria.com/wp-content/uploads/2021/06/Forrester_A_Practical_Guide_to_a_Zero_Trust_Implementation_Steve_Turne.pdf
+
+https://github.com/kagancapar/CVE-2022-29072 7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area
+> https://news.ycombinator.com/item?id=31070256
+
+https://decoded.avast.io/vladimirmartyanov/zloader-the-silent-night/
+
 https://www.go350.com/posts/digital-secrets/
 > https://news.ycombinator.com/item?id=31063702
 
@@ -1655,6 +1664,9 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > > https://news.ycombinator.com/item?id=30146042
 > https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/#_ftn1
 > https://www.reuters.com/technology/exclusive-senior-eu-officials-were-targeted-with-israeli-spyware-sources-2022-04-11/
+> https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/
+> https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/
+> > https://news.ycombinator.com/item?id=31075558
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

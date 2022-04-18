@@ -141,6 +141,12 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://phys.org/news/2022-04-james-webb-telescope-coldest-instrument.html
+> https://news.ycombinator.com/item?id=31072590
+
+https://twitter.com/lougrims/status/1516013489722216450 Hall thruster
+> https://news.ycombinator.com/item?id=31070721
+
 https://www.eso.org/public/news/eso2206/ neptune
 > https://news.ycombinator.com/item?id=31003348
 

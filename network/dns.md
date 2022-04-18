@@ -87,6 +87,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://github.com/natesales/q Show HN: "q", a DNS query tool with support for UDP, TCP, DoT, DoH, DoQ and ODoH
+> https://news.ycombinator.com/item?id=31064423
+
 https://tools.ietf.org/id/draft-huitema-quic-dnsoquic-06.html
 
 https://ariadne.space/2022/03/27/the-tragedy-of-gethostbyname/

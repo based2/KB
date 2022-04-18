@@ -263,6 +263,8 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://news.ycombinator.com/item?id=31073922 Ask HN: What Happened to Lambda-the-Ultimate.org?
+
 https://blog.hackersreboot.tech/hello-v-lang
 > https://news.ycombinator.com/item?id=31058910
 

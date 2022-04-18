@@ -72,6 +72,8 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+http://blog.notdot.net/2009/12/Damn-Cool-Algorithms-Log-structured-storage
+
 https://amturing.acm.org/
 > https://dl.acm.org/doi/10.1145/3431921 A Set of Batched Basic Linear Algebra Subprograms and LAPACK Routines
 > https://news.ycombinator.com/item?id=30854526

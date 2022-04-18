@@ -235,6 +235,10 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.nzherald.co.nz/kahu/statistics-legend-ross-ihaka-reflects-on-his-revolutionary-software/NSGLPFJMXQK3GVV67UNEFUCHTE/
+
+https://brandur.org/large-database-casualties
+
 https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/
 > https://news.ycombinator.com/item?id=31036800
 

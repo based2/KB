@@ -155,6 +155,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://github.com/probonopd/MiniDexed Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi
+> https://news.ycombinator.com/item?id=31062237
+
 https://beijaflor.io/blog/04-2022/rust-audio-experiments-5/ Continuous Looper: 8-track live-looper and performance sampler
 > https://news.ycombinator.com/item?id=31039176
 

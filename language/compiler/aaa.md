@@ -108,6 +108,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Clang-Linux-RandStruct
+
 https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html
 > https://news.ycombinator.com/item?id=31038364
 

@@ -69,6 +69,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/suren-atoyan/react-pwa
+
 https://medium.com/jspoint/typescript-compilation-the-typescript-compiler-4cb15f7244bc
 
 https://rachelappel.com/2015/01/02/write-object-oriented-javascript-with-typescript/

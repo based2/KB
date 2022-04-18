@@ -144,6 +144,12 @@ https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
 # News
+https://about.gitlab.com/blog/2022/02/10/how-to-code-build-and-deploy-from-an-ipad-using-gitlab-and-gitpod/
+
+https://www.taiga.io/ Open Source project management tool for multi-functional teams
+> https://news.ycombinator.com/item?id=31064126
+> https://github.com/kaleidos-ventures MPL-2.0
+
 https://www.bleepingcomputer.com/news/security/github-suspends-accounts-of-russian-devs-at-sanctioned-companies/
 
 https://status.heroku.com/incidents/2413 Heroku Security Notification, GitHub integration mitigation steps
@@ -151,6 +157,7 @@ https://status.heroku.com/incidents/2413 Heroku Security Notification, GitHub in
 
 https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/
 > https://news.ycombinator.com/item?id=31046791
+> https://www.securitynewspaper.com/2022/04/18/github-was-hacked-source-code-is-filtered-from-different-repositories/
 
 https://httpie.io/blog/stardust
 > https://news.ycombinator.com/item?id=31033758

@@ -31,3 +31,6 @@ https://github.com/Yqnn/svg-path-editor
 https://css-tricks.com/optimizing-svg-patterns/
 
 https://www.willmcgugan.com/blog/tech/post/exporting-svgs-of-terminal-output-with-rich/
+
+https://bjango.com/articles/svgpassthroughprecision/
+> https://news.ycombinator.com/item?id=31072816

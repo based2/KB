@@ -27,3 +27,5 @@ https://www.gpsworld.com/russia-expected-to-ditch-glonass-for-loran-in-ukraine-i
 https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-unusual-aircraft-gps-interference/
 
 https://destevez.net/2022/03/a-rust-implementation-of-galileo-osnma/
+
+https://news.ycombinator.com/item?id=31069465 Development of GPS Receiver Kalman Filter Algorithms (2016) [pdf] 

@@ -16,6 +16,8 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.voltaero.aero/en/
+
 https://www.nytimes.com/2022/04/16/business/beta-electric-airplane.html
 
 https://techxplore.com/news/2022-04-breakthrough-faster-than-sound-jet.html

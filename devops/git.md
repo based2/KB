@@ -259,6 +259,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://blog.palantir.com/optimizing-gits-merge-machinery-1-127ceb0ef2a1
+
+https://github.blog/2022-04-18-highlights-from-git-2-36/
+> https://news.ycombinator.com/item?id=31073154
+
 https://stackoverflow.blog/2022/04/06/use-git-tactically/
 > https://news.ycombinator.com/item?id=30943478
 

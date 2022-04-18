@@ -192,6 +192,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm?s=r
+> https://news.ycombinator.com/item?id=31074177
+
 https://macwright.com/2022/04/16/hivemapper.html
 
 https://protomaps.com/blog/serverless-self-hosted-maps/

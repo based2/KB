@@ -258,6 +258,16 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.theregister.com/2022/04/18/fake_ai_data/
+> https://news.ycombinator.com/item?id=31069715
+
+https://vaclavkosar.com/ml/googles-pathways-language-model-and-chain-of-thought
+> https://news.ycombinator.com/item?id=31072224
+
+https://rezayazdanfar.medium.com/deep-generative-model-with-hierarchical-latent-factors-for-time-series-anomaly-detection-8d6eaebad8bc
+
+https://ai.facebook.com/blog/teaching-ai-to-be-more-collaborative-with-humans-without-learning-directly-from-them/
+
 https://www.offconvex.org/2021/04/07/ripvanwinkle/
 
 https://arxiv.org/abs/2106.10165 The Principles of Deep Learning Theory

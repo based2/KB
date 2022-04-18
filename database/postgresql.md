@@ -238,6 +238,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://splitmind.dev/posts/generate-creds-postgres-vault-with-golang/
+> https://news.ycombinator.com/item?id=31072936
+
 https://bytebase.com/blog/database-migration-sqlite-to-postgresql
 > https://news.ycombinator.com/item?id=31038614
 

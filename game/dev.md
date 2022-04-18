@@ -97,6 +97,11 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://github.com/ertugrulcetin/jme-clj
+
+https://github.com/CytopiaTeam/Cytopia
+> https://news.ycombinator.com/item?id=31066478
+
 https://bevyengine.org/news/bevy-0-7/
 > https://news.ycombinator.com/item?id=31043668
 

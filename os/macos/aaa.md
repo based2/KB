@@ -166,6 +166,9 @@ https://authzed.com/blog/onboarding-with-an-m1/
 > https://news.ycombinator.com/item?id=26843228
 
 # Apple
+https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/
+> https://news.ycombinator.com/item?id=31068479
+
 https://sixcolors.com/post/2022/02/apple-in-2021-the-six-colors-report-card/
 > https://news.ycombinator.com/item?id=30248161
 

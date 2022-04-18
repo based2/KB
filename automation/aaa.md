@@ -22,6 +22,8 @@ https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
 # News
+https://iasql.com/
+
 https://buttondown.email/krcah/archive/more-control-with-idempotency/
 > https://news.ycombinator.com/item?id=31027403
 

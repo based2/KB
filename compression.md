@@ -36,6 +36,8 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://roaringbitmap.org/
+
 https://news.ycombinator.com/item?id=26628154 tar
 
 https://www.openwall.com/lists/oss-security/2022/03/28/1 Re: zlib memory corruption on deflate (i.e. compress)

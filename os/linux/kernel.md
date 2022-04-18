@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom
+> https://news.ycombinator.com/item?id=31073145
+
 https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/
 > https://news.ycombinator.com/item?id=31053003
 

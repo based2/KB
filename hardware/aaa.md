@@ -67,6 +67,8 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.tomshardware.com/news/dells-proprietary-ddr5-module-locks-out-user-upgrades
+
 Intel deprecates SGX on Core series processors
 https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/12th-generation-intel-core-processors-datasheet-volume-1-of-2/004/deprecated-technologies/
 > https://news.ycombinator.com/item?id=31047888 <- Azure's 'confidential computing'

@@ -57,3 +57,7 @@ https://github.com/Rayhane-mamah/Efficient-VDVAE
 # text2img
 https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
+
+#
+https://research.nvidia.com/sites/default/files/publications/CompZoom.pdf Computational Zoom: A Framework for Post-Capture Image
+Composition

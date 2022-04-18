@@ -95,6 +95,12 @@ https://www.sliderules.org/
 > https://news.ycombinator.com/item?id=30955676
 
 # News
+https://plus.maths.org/content/trouble-five
+> https://news.ycombinator.com/item?id=31051488
+
+https://aimath.org/~farmer/spacemath/
+> https://news.ycombinator.com/item?id=31068659
+
 http://www.gambit-project.org/ Software Tools for Game Theory
 > https://news.ycombinator.com/item?id=31037842
 

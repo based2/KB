@@ -119,6 +119,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://protonmail.com/blog/security-audit-all-proton-apps/
+> https://news.ycombinator.com/item?id=31068985
+
 https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html
 > https://news.ycombinator.com/item?id=30973460
 

@@ -117,6 +117,8 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://www.bleepingcomputer.com/news/security/unofficial-windows-11-upgrade-installs-info-stealing-malware/
+
 https://github.com/gordonbay/Windows-On-Reins
 
 https://ameliorated.info/ Windows 10 Ameliorated
