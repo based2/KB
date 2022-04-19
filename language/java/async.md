@@ -34,6 +34,12 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://quarkus.io/blog/quarkus-2-8-1-final-released/
+
+https://netty.io/news/2022/04/12/4-1-76-Final.html
+
+https://vertx.io/blog/eclipse-vert-x-4-2-7/
+
 https://josephmate.github.io/2022-04-14-max-connections/
 > https://www.reddit.com/r/java/comments/u3gynp/1000000_concurrent_connections/
 

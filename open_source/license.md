@@ -41,3 +41,8 @@ https://github.com/aws/mit-0
 https://en.wikipedia.org/wiki/Software_Package_Data_Exchange
 
 https://caselaw.nationalarchives.gov.uk/open-justice-licence
+
+# Incident
+
+https://github.com/cheat-engine/cheat-engine/pull/1872
+> https://news.ycombinator.com/item?id=31084128

@@ -59,5 +59,8 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 #
+https://www.assemblyai.com/blog/how-dall-e-2-actually-works/
+> https://news.ycombinator.com/item?id=31084312
+
 https://research.nvidia.com/sites/default/files/publications/CompZoom.pdf Computational Zoom: A Framework for Post-Capture Image
 Composition

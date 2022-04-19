@@ -17,6 +17,8 @@ https://chrisseaton.com/truffleruby/jokerconf17/
 https://www.loicmathieu.fr/wordpress/en/informatique/debugger-une-image-native-graalvm-avec-gdb/
 
 # News
+https://developers.redhat.com/blog/2021/04/14/mandrel-a-specialized-distribution-of-graalvm-for-quarkus
+
 https://gluonhq.com/create-native-javafx-applications-using-graalvm-22-builds-from-gluon/
 
 https://github.com/graalvm/graalvm-ce-builds/releases/tag/vm-22.0.0.2

@@ -43,3 +43,7 @@ https://evervault.com/
 https://www.opendnssec.org/softhsm/ Implementation of a cryptographic store accessible through a PKCS #11 interface
 > https://wiki.opendnssec.org/display/SoftHSM/v2+Design
 > > https://botan.randombit.net/
+
+https://lists.apache.org/thread/37zwjs2mqro035qfohh5boj1xtx0tfxf Apache Teaclave (incubating) 0.4.0 released
+https://lists.apache.org/thread/vf226qskfy3z1gllvjpj62ysv7hoh882 Apache Teaclave TrustZone SDK
+(incubating) 0.2.0.

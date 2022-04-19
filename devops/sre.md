@@ -71,3 +71,5 @@ https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-t
 https://muratbuffalo.blogspot.com/2022/01/decoupled-transactions-low-tail-latency.html
 
 https://engineering.salesforce.com/managing-availability-in-service-based-deployments-with-continuous-testing-61be968da4a
+
+https://cloud.google.com/blog/products/devops-sre/the-sre-book-turns-6

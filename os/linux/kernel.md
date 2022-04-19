@@ -19,6 +19,8 @@ https://linderud.dev/blog/monitoring-the-kernel.org-transparency-log-for-a-year/
 > https://news.ycombinator.com/item?id=31053003
 
 https://github.com/orhun/systeroid sysctl(8) with a terminal user interface
+> https://blog.orhun.dev/rewriting-sysctl-in-rust/
+> > https://news.ycombinator.com/item?id=31060939 
 
 https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-v5
 

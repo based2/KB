@@ -32,3 +32,5 @@ https://github.com/lightrun-platform/koolkits/tree/main/jvm
 
 https://docs.microsoft.com/en-us/azure/developer/java/containers/overview
 > https://www.reddit.com/r/java/comments/u349h2/containerize_your_java_applications_a_guide_for/
+
+https://developers.redhat.com/articles/2022/04/19/best-practices-java-single-core-containers#the_jvm_as_a_dynamic_execution_platform

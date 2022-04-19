@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://lookscanned.io/
+> https://news.ycombinator.com/item?id=31083432
+
 https://github.com/corkami/mitra/#mocky
 
 https://news.ycombinator.com/item?id=30865719 Tell HN: Adobe took down the PDF 1.7 specification from their site

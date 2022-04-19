@@ -258,6 +258,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://stitch-time.github.io/
+
+https://blog.allenai.org/announcing-s2fos-an-open-source-academic-field-of-study-classifier-9d2f641949e5
+
 https://www.theregister.com/2022/04/18/fake_ai_data/
 > https://news.ycombinator.com/item?id=31069715
 

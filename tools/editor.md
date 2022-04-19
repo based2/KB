@@ -137,6 +137,9 @@ https://www.masteringemacs.org/article/whats-new-in-emacs-28-1
 
 https://news.ycombinator.com/item?id=30976337
 
+https://emacs.amodernist.com/
+> https://news.ycombinator.com/item?id=31083515
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

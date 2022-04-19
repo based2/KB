@@ -94,6 +94,9 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://twitter.com/DavidLibeau/status/1516123959288291348 ReCaptcha
+> https://news.ycombinator.com/item?id=31083000
+
 https://www.eff.org/fr/node/101978 Behind the One-Way Mirror: A Deep Dive Into the Technology of Corporate Surveillance
 
 https://theroute.io/the-requirement-for-telemetry-assesments/

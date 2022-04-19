@@ -63,3 +63,5 @@ http://www.bitsavers.org/pdf/bellLabs/unix/PreliminaryUnixImplementationDocument
 
 https://lwn.net/SubscriberLink/888741/5e43489d7ebeda7f/ A way out for a.out
 > https://news.ycombinator.com/item?id=30792059
+
+https://news.ycombinator.com/item?id=31076886

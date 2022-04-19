@@ -72,6 +72,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://www.mattmontag.com/music/universals-audible-watermark
+> https://news.ycombinator.com/item?id=31080999
+
 https://songdata.io/
 > https://news.ycombinator.com/item?id=29810792
 

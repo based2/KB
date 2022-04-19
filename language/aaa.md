@@ -263,6 +263,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://scallop-lang.github.io/ scalable Datalog solver equipped with support for discrete, probabilistic, and differentiable modes of reasoning
+> https://news.ycombinator.com/item?id=31060265
+
 https://news.ycombinator.com/item?id=31073922 Ask HN: What Happened to Lambda-the-Ultimate.org?
 
 https://blog.hackersreboot.tech/hello-v-lang

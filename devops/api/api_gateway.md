@@ -24,3 +24,5 @@ https://github.com/dromara/soul
             https://github.com/apache/incubator-shenyu https://shenyu.apache.org/
 
 https://blog.frankel.ch/apisix-api-gateway/
+
+https://lists.apache.org/thread/5069h44f28gfdot0y6xsd9xrspcqzttx Apache ShenYu (incubating) 2.4.3 available

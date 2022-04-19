@@ -255,6 +255,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://foojay.io/today/introducing-the-openjdk-coordinated-restore-at-checkpoint-project/
+
+https://www.oracle.com/java/technologies/javase/17all-relnotes.html#R17_0_3
+
 https://worace.works/2021/04/13/jar-hell-part-2-jvm-deployment-strategies/
 > https://www.reddit.com/r/java/comments/u3tp9a/welcome_to_jar_hell_part_2_deployment_strategies/
 

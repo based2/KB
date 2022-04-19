@@ -4,6 +4,8 @@ https://github.com/cea-sec/miasm
 https://github.com/qilingframework/qiling Advanced binary emulation framework
 
 #
+https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html
+
 https://maxkersten.nl/binary-analysis-course/analysis-scripts/ghidra-script-to-handle-stack-strings/
 
 https://compilepeace.medium.com/software-reverse-engineering-ripping-apart-bomb-binary-25cf63dc39d5

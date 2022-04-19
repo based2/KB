@@ -69,6 +69,8 @@ https://jdeploy.substack.com/p/apples-code-signing-quagmire?s=w
 
 https://github.com/mikeroyal/Apple-Silicon-Guide
 
+https://github.com/hjuutilainen/sus-inspector
+
 # M1
 https://eclecticlight.co/2022/03/17/macos-has-different-strategies-for-m1-cores/
 

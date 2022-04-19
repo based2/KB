@@ -1,5 +1,7 @@
 https://github.com/Kristories/awesome-guidelines
 
+https://www.gitops.tech/
+
 https://zwischenzugs.com/2020/11/30/gitops-decisions/
 
 https://cookiecutter.readthedocs.io/en/1.7.2/
@@ -144,6 +146,8 @@ https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
 # News
+https://github.com/caldito/soup gitOps
+
 https://about.gitlab.com/blog/2022/02/10/how-to-code-build-and-deploy-from-an-ipad-using-gitlab-and-gitpod/
 
 https://www.taiga.io/ Open Source project management tool for multi-functional teams
@@ -392,8 +396,6 @@ https://blog.kronis.dev/articles/never-update-anything
 https://github.com/GitGuardian/ggshield scan
 
 https://www.sourceware.org/dwz/
-
-
 
 https://blog.sonarsource.com/gocd-pre-auth-pipeline-takeover
 

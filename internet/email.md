@@ -64,6 +64,8 @@ https://www.rnpgp.org/
 
 https://anarc.at/blog/2022-03-02-procmail-considered-harmful/
 
+https://sequoia-pgp.org/blog/2022/03/24/202203-octopus-1.2.2/
+
 ## STARTTLS
 https://sendgrid.com/blog/what-is-starttls/
 

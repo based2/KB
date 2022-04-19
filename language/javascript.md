@@ -371,6 +371,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api
+> https://news.ycombinator.com/item?id=31084264
+
 https://uniqname.medium.com/why-i-avoid-async-await-7be98014b73e
 > https://news.ycombinator.com/item?id=31050650
 

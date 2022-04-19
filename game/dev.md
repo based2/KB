@@ -97,6 +97,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://blog.hathora.dev/introducing-hathora/
+> https://news.ycombinator.com/item?id=31084779
+
 https://github.com/ertugrulcetin/jme-clj
 
 https://github.com/CytopiaTeam/Cytopia

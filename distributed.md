@@ -93,6 +93,9 @@ https://github.com/erikgrinaker/toydb
 https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html
 > https://news.ycombinator.com/item?id=28740497
 
+https://ydb.tech/ yandex
+> https://news.ycombinator.com/item?id=31081272
+
 # Test
 https://fsantanna.github.io/structured-concurrency.html
 > https://news.ycombinator.com/item?id=30754854

@@ -1,3 +1,15 @@
+https://www.postfix.org/announcements/postfix-3.7.1.html 
+
+https://www.welivesecurity.com/2021/10/05/uefi-threats-moving-esp-introducing-especter-bootkit/
+> https://www.eset.com/int/about/newsroom/press-releases/research/eset-research-discovers-vulnerabilities-in-lenovo-laptops-exposing-users-to-risk-of-uefi-malware-ins/
+> > https://www.zdnet.com/article/lenovo-patches-uefi-vulnerabilities-impacting-millions-of-device-users-worldwide/
+
+https://access.redhat.com/security/cve/cve-2022-1271 GNU gzip's zgrep utility
+> https://news.ycombinator.com/item?id=31076009
+
+https://twitter.com/doctorow/status/1516144514984923139 insteon
+> https://news.ycombinator.com/item?id=31083921
+
 https://www.bleepingcomputer.com/news/security/mute-button-in-conferencing-apps-may-not-actually-mute-your-mic/
 
 https://safewayconsultoria.com/wp-content/uploads/2021/06/Forrester_A_Practical_Guide_to_a_Zero_Trust_Implementation_Steve_Turne.pdf
@@ -1667,6 +1679,7 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://citizenlab.ca/2022/04/catalangate-extensive-mercenary-spyware-operation-against-catalans-using-pegasus-candiru/
 > https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/
 > > https://news.ycombinator.com/item?id=31075558
+> https://www.bleepingcomputer.com/news/security/newly-found-zero-click-iphone-exploit-used-in-nso-spyware-attacks/
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

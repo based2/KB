@@ -83,6 +83,8 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://www.arthurbrrs.me/clojure-doom-emacs-m1
+
 https://www.pixelated-noise.com/blog/2022/03/01/hike/index.html
 
 https://biffweb.com/p/new-release

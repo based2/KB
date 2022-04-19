@@ -106,6 +106,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://github.com/gojimmypi/wolfssh/tree/ESP32_Development/examples/ESP32-SSH-Server
+> https://news.ycombinator.com/item?id=31081227
+
 https://github.com/warp-tech/warpgate SSH bastion host for Linux, Privileged Access Management (PAM)
 > https://news.ycombinator.com/item?id=31062399
 

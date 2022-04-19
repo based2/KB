@@ -116,6 +116,9 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://news.ycombinator.com/item?id=31083131 Ask HN: How do you keep track of software requirements and test them?
+> https://news.ycombinator.com/item?id=31083131
+
 https://pernos.co/about/overview
 > https://www.scattered-thoughts.net/writing/the-shape-of-data/
 

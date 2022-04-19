@@ -183,6 +183,9 @@ https://github.com/fabianlindfors/reshape
 
 https://github.com/bikeshedder/tusker
 
+https://retool.com/blog/how-we-upgraded-postgresql-database/
+> https://news.ycombinator.com/item?id=31084147
+
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 

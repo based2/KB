@@ -39,8 +39,6 @@ https://til.simonwillison.net/jq/extracting-objects-recursively
 
 https://github.com/owasp/json-sanitizer
 
-https://jsonapi.org/
-
 https://github.com/seagreen/Son#son
 > r/programming/comments/5zdqag/rfc_son_a_subset_of_json_for_machinetomachine/
 > https://news.ycombinator.com/item?id=15890904
