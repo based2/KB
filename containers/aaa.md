@@ -36,6 +36,14 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.mupuf.org/blog/2022/04/15/setting-up-a-ci-system-part-4-live-patching-your-ci-gateway/
+
+https://github.com/replicate/cog Containers for Machine Learning
+> https://news.ycombinator.com/item?id=31105507
+
+https://www.qemu.org/2022/04/19/qemu-7-0-0/
+> https://news.ycombinator.com/item?id=31093564
+
 https://webapp.io/blog/github-actions-10x-faster-with-firecracker/
 > https://news.ycombinator.com/item?id=31062301
 

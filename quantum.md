@@ -69,6 +69,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://epjquantumtechnology.springeropen.com/track/pdf/10.1140/epjqt/s40507-021-00109-8.pdf SpinQ Gemini: a desktop quantum computing platform for education and research
+
 https://www.science.org/doi/10.1126/sciadv.abn5130
 > https://news.ycombinator.com/item?id=31044211
 

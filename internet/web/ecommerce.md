@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.linkedin.com/posts/catherinelesuisse_im-also-one-of-the-users-of-n26-who-got-activity-6922498367302344704-1tzC
+> https://news.ycombinator.com/item?id=31100678
+
 https://news.ycombinator.com/item?id=31081484
 
 https://news.ycombinator.com/item?id=31023201

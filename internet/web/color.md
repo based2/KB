@@ -65,6 +65,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://webcolorisstillbroken.com/
+> https://news.ycombinator.com/item?id=31107643
+
 https://blog.datawrapper.de/colors-for-data-vis-style-guides/
 > https://data.london.gov.uk/dataset/city-intelligence-data-design-guidelines
 > https://ec.europa.eu/eurostat/documents/4187653/7192088/STYLE_GUIDE_2016.pdf

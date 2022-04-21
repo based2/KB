@@ -371,6 +371,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://v8.dev/blog/faster-class-features
+
+https://news.ycombinator.com/item?id=31098205 Show HN: DTL: a language and JavaScript lib to transform and manipulate data
+
 https://blog.openreplay.com/ajax-battle-xmlhttprequest-vs-the-fetch-api
 > https://news.ycombinator.com/item?id=31084264
 

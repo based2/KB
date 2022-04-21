@@ -82,6 +82,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://lwn.net/SubscriberLink/890272/7ddc2c5d2a73facf/ An introduction to Linux audio plugin APIs
+>
+
 https://linux-hardware.org/
 > https://news.ycombinator.com/item?id=31014306
 

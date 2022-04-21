@@ -73,6 +73,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.w3.org/TR/wasm-core-2/
+> https://news.ycombinator.com/item?id=31086217
+
 https://github.com/wasm3/wasm3/issues/320 [security] Heap Overflow in NewCodePage m3_code.c:25:29
 
 https://www.tweag.io/blog/2022-03-17-libffi-wasm32/

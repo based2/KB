@@ -1,3 +1,27 @@
+https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-26-04-2022-38107
+
+https://blog.checkpoint.com/2022/04/21/largest-mobile-chipset-manufacturers-used-vulnerable-audio-decoder-2-3-of-android-users-privacy-around-the-world-were-at-risk/
+> https://vulncat.fortify.com/en/detail?id=desc.internal.cpp.out_of_bounds_read
+> > https://arstechnica.com/information-technology/2022/04/critical-bug-could-have-let-hackers-commandeer-millions-of-android-devices/
+
+https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html
+
+https://www.cyberkendra.com/2022/04/atlassian-patch-rce-vulnerability.html Atlassian bitbucket CVE-2022-26133 RCE
+
+https://robertheaton.com/almost-scammed/
+> https://news.ycombinator.com/item?id=31108897
+
+https://confluence.atlassian.com/jira/jira-security-advisory-2022-04-20-1115127899.html
+> https://news.ycombinator.com/item?id=31099909
+
+https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/
+> https://news.ycombinator.com/item?id=31090332
+
+https://lists.apache.org/thread/c4of29663sd7vs5362h8vrh14to4sgg5 CVE-2022-29266: Apache APISIX: apisix/jwt-auth may leak secrets in error response
+
+https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/ CVE-2022-21449 ECDSA signatures, Java 15, 16, 17, or 18
+> https://www.reddit.com/r/java/comments/u7s77e/java_15_introduced_a_cryptographic_vulnerability/
+
 https://www.postfix.org/announcements/postfix-3.7.1.html 
 
 https://www.welivesecurity.com/2021/10/05/uefi-threats-moving-esp-introducing-especter-bootkit/
@@ -67,6 +91,7 @@ https://www.cyberkendra.com/2022/04/nginx-release-advisory-about-nginx-0day.html
 > > https://github.com/AgainstTheWest/NginxDay
 
 https://blog.trailofbits.com/2022/04/13/part-1-coordinated-disclosure-of-vulnerabilities-affecting-girault-bulletproofs-and-plonk/ critical vulnerabilities that break the soundness of multiple implementations of zero-knowledge proof systems
+> https://news.ycombinator.com/item?id=31087553
 
 https://nakedsecurity.sophos.com/2022/04/11/openssh-goes-post-quantum-switches-to-qubit-busting-crypto-by-default/
 > https://www.reddit.com/r/programming/comments/u31nk2/openssh_goes_postquantum_switches_to_qubitbusting/

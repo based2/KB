@@ -61,6 +61,8 @@ https://www.nytimes.com/2022/01/12/business/libor-finance.html
 
 https://news.ycombinator.com/item?id=30456026 swift
 
+https://news.ycombinator.com/item?id=31109170 Column – a chartered bank for developers
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 > https://news.ycombinator.com/item?id=27763965

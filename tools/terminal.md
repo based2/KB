@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://jdebp.uk/Softwares/djbwares/bernstein-ptyget.html
+> https://news.ycombinator.com/item?id=31108565
+
 https://github.com/termstandard/colors
 
 http://users.uoa.gr/~sdi1800073/sources/xfce_blog12.html

@@ -95,6 +95,13 @@ https://www.sliderules.org/
 > https://news.ycombinator.com/item?id=30955676
 
 # News
+https://www.quantamagazine.org/new-proof-reveals-the-hidden-structure-of-common-equations-20220421/
+
+https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/monte-carlo-methods-mathematical-foundations
+
+https://fredrikj.net/blog/2022/04/things-i-would-like-to-see-in-a-computer-algebra-system/
+> https://news.ycombinator.com/item?id=31101332
+
 https://plus.maths.org/content/trouble-five
 > https://news.ycombinator.com/item?id=31051488
 

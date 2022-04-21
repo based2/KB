@@ -38,6 +38,12 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://webzine.puffy.cafe/issue-9.html
+
+https://www.openbsd.org/index.html
+> https://dataswamp.org/~solene/2022-04-21-openbsd-71-fan-noise-temperature.html
+> https://news.ycombinator.com/item?id=31109046
+
 https://webzine.puffy.cafe/issue-8.html
 
 https://marc.info/?l=openbsd-arm&m=164768992119719&w=2 OpenBSD/arm64 on Apple M1 systems

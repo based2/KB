@@ -47,6 +47,12 @@ https://arxiv.org/abs/2110.01111
 https://codingkaiser.blog/2021/10/20/most-bizzare-sorting-algorithms-you-will-ever-see/
 > https://news.ycombinator.com/item?id=28946451
 
+https://github.com/golang/go/commit/72e77a7f41bbf45d466119444307fd3ae996e257 go pdqsort
+> https://news.ycombinator.com/item?id=31106157
+
+https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/
+> https://news.ycombinator.com/item?id=31098822
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184

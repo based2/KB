@@ -11,6 +11,10 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://gramineproject.io/blog/gdb-support-in-gramine/ sgx
+
+https://tromey.com/blog/?p=1084 Faster GDB Startup
+
 https://blog.mozilla.org/data/2022/04/13/this-week-in-glean-what-flips-your-bit/
 > https://news.ycombinator.com/item?id=31016042
 

@@ -22,6 +22,8 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://www.europarl.europa.eu/news/en/press-room/20220412IPR27115/common-charger-meps-agree-on-proposal-to-reduce-electronic-waste
+
 http://stahlworks.com/dev/swiss-file-knife.html
 
 https://gitlab.com/bztsrc/usbimager

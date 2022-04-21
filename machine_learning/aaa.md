@@ -182,6 +182,9 @@ https://pair.withgoogle.com/explorables/
 # Data
 https://en.wikipedia.org/wiki/MNIST_database
 
+https://www.amazon.science/blog/amazon-releases-51-language-dataset-for-language-understanding
+> https://news.ycombinator.com/item?id=31097029
+
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333
@@ -258,6 +261,13 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.brendangregg.com/blog/2022-04-09/tensorflow-library-performance.html
+
+https://github.com/jatinchowdhury18/RTNeural
+> https://news.ycombinator.com/item?id=31110228
+
+https://github.com/postgresml/postgresml
+
 https://stitch-time.github.io/
 
 https://blog.allenai.org/announcing-s2fos-an-open-source-academic-field-of-study-classifier-9d2f641949e5

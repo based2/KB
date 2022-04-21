@@ -62,6 +62,13 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://ubuntu.com/blog/ubuntu-22-04-lts-released
+
+https://lists.ubuntu.com/archives/ubuntu-announce/2022-April/000279.html Ubuntu 22.04 LTS (Jammy Jellyfish) released
+
+https://lwn.net/SubscriberLink/891273/ea9c5e88260a64e9/ Fedora considers deprecating legacy BIOS
+> https://news.ycombinator.com/item?id=31107262
+
 https://fossforce.com/2022/04/suses-new-linux-release-isnt-for-your-desktop-or-server/
 
 https://blog.einval.com/2022/04/19#firmware-what-do-we-do Debian

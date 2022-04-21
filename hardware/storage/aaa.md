@@ -1,4 +1,7 @@
 # News
+https://www.servethehome.com/ethernet-ssds-hands-on-with-the-kioxia-em6-nvmeof-ssd/
+> https://news.ycombinator.com/item?id=31103179
+
 https://www.os2museum.com/wp/vague-standards-are-trouble/
 > https://news.ycombinator.com/item?id=30959215
 

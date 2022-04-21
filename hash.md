@@ -62,6 +62,9 @@ https://github.com/rs/xid
 
 https://docs.crunchybridge.com/api-concepts/eid/
 
+https://github.com/scru128/spec SCRU128: Sortable, Clock and Random number-based Unique identifier
+> https://news.ycombinator.com/item?id=31089723
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

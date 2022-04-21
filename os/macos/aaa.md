@@ -189,6 +189,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
 # News
+https://eclecticlight.co/2022/04/19/booting-a-mac-studio-from-an-external-ssd-and-what-it-doesnt-solve/
+> https://news.ycombinator.com/item?id=31080421
+
 https://www.bloomberg.com/news/articles/2022-04-14/apple-readies-several-new-macs-with-next-generation-m2-chips
 
 https://github.com/rlxone/Equinox Create dynamic wallpapers for macOS

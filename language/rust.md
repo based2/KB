@@ -252,6 +252,9 @@ https://github.com/antoyo/rustc_codegen_gcc
 https://cxx.rs/
 > https://news.ycombinator.com/item?id=30627495
 
+https://seri.tools/blog/announcing-rust9x/ Rust9x: Compile Rust code for Windows 95, NT and above
+> 
+
 ## MacOs
 https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
 > https://news.ycombinator.com/item?id=27467453
@@ -358,6 +361,10 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.theincredibleholk.org/blog/2022/04/18/how-async-functions-in-traits-could-work-in-rustc/
+
+https://blog.rust-lang.org/inside-rust/2022/04/20/libs-aspirations.html
+
 https://www.thecodedmessage.com/posts/programming-integers/
 > https://news.ycombinator.com/item?id=31061683
 

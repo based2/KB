@@ -86,6 +86,11 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://blog.gopheracademy.com/advent-2014/parsers-lexers/
+
+https://go.dev/blog/survey2021-results
+> https://news.ycombinator.com/item?id=31097034
+
 https://www.instana.com/blog/practical-golang-benchmarks/
 
 https://go.dev/blog/when-generics

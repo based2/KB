@@ -9,6 +9,8 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://blog.google/around-the-globe/google-europe/new-cookie-choices-in-europe/
+
 https://brave.com/privacy-updates/18-de-amp/
 > https://news.ycombinator.com/item?id=31085051
 

@@ -59,6 +59,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://mxlinux.org/blog/mx-21-1-respin-workbench-released/
+
 https://randthoughts.github.io/little-rant-about-gnomes-file-manager-aka-nautilus/
 > https://news.ycombinator.com/item?id=31024971
 

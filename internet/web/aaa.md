@@ -85,6 +85,9 @@ https://techcrunch.com/2022/04/18/web-scraping-legal-court/
 > https://news.ycombinator.com/item?id=31075396
 
 # News
+https://www.insanelyusefulwebsites.com/
+> https://news.ycombinator.com/item?id=31099366
+
 https://news.ycombinator.com/item?id=31062799 Internet magically gets faster when opening speedtest?
 
 https://tilepieces.net/

@@ -119,6 +119,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://dl.acm.org/doi/pdf/10.1145/3152823 FontCode: Embedding Information in Text Documents Using Glyph Perturbation
+> https://dl.acm.org/doi/pdf/10.1145/3152823
+
 https://github.com/birchb1024/frangipanni test2tree
 > https://news.ycombinator.com/item?id=26622548
 

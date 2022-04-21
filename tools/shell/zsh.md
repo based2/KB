@@ -4,3 +4,5 @@ https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.o
 
 https://zimfw.sh/
 > https://news.ycombinator.com/item?id=30974880
+
+https://github.com/marlonrichert/zsh-autocomplete

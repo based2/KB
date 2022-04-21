@@ -11,6 +11,9 @@ https://spectrum.ieee.org/event-based-camera-chips
 
 https://www.nutsvolts.com/magazine/article/calculating_current
 
+https://mitxela.com/projects/melting_kicad
+> https://news.ycombinator.com/item?id=31108652
+
 https://techexplorations.com/blog/kicad/kicad-6-review-new-and-improved-features/
 
 https://pinouts.org/

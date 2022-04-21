@@ -34,3 +34,7 @@ https://docs.microsoft.com/en-us/azure/developer/java/containers/overview
 > https://www.reddit.com/r/java/comments/u349h2/containerize_your_java_applications_a_guide_for/
 
 https://developers.redhat.com/articles/2022/04/19/best-practices-java-single-core-containers#the_jvm_as_a_dynamic_execution_platform
+
+https://www.wildfly.org/news/2022/04/20/WildFly-s2i-v2-Released/
+
+https://github.com/openjdk/jdk/pull/7666 8281181: Do not use CPU Shares to compute active processor count 

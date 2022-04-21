@@ -110,6 +110,8 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # Incidents
+https://www.theregister.com/2022/04/21/github-stolen-oauth-tokens-used-in-breaches/
+
 https://www.githubstatus.com/incidents/vxvyrmy9w1vp
 > https://news.ycombinator.com/item?id=31023695
 
@@ -141,11 +143,17 @@ https://www.bleepingcomputer.com/news/technology/github-outage-impacts-actions-c
 
 https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 
+sourceforge nobody apache httpd vulnerability
+
 # New versions
 
 https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
 # News
+https://www.uyuni-project.org/ release of SUSE Manager, salt stack
+
+https://news.ycombinator.com/item?id=31108828 Ask HN: How are pull requests integrated in a repo with high commit frequency?
+
 https://github.com/caldito/soup gitOps
 
 https://about.gitlab.com/blog/2022/02/10/how-to-code-build-and-deploy-from-an-ipad-using-gitlab-and-gitpod/

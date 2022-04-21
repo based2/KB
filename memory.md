@@ -37,3 +37,6 @@ https://bergel.eu/MyPapers/Fern22a-ACMSurvey.pdf Software Visualizations to Anal
 
 https://gankra.github.io/blah/tower-of-weakenings/
 > https://news.ycombinator.com/item?id=30931818
+
+https://chrisdown.name/2018/01/02/in-defence-of-swap.html
+> https://news.ycombinator.com/item?id=31104126

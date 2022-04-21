@@ -110,6 +110,9 @@ https://github.com/anishathalye/porcupine
 
 https://asatarin.github.io/testing-distributed-systems/
 
+https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
+> https://news.ycombinator.com/item?id=31089363
+
 # News
 https://timur.audio/dwcas-in-c
 

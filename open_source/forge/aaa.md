@@ -14,5 +14,8 @@ https://pijul.org/posts/2022-01-08-beta/
 > https://news.ycombinator.com/item?id=29991417
 
 # News
+https://neverworkintheory.org/2022/04/21/decline-of-sourceforge.html
+> https://news.ycombinator.com/item?id=31110206
+
 https://drift.maxleiter.com/
 > https://news.ycombinator.com/item?id=30607367

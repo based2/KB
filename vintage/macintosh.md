@@ -79,6 +79,8 @@ https://hypercardsimulator.com/
 > https://news.ycombinator.com/item?id=31041205
 > > https://hyperscript.org/
 
+http://archives.somnolescent.net/web/hypercard/
+
 # ResEdit
 https://www.macintoshrepository.org/1317-resedit-2-1-3
 
