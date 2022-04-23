@@ -80,6 +80,9 @@ https://ralphammer.com/make-me-think/
 > https://news.ycombinator.com/item?id=30269350
 
 #
+https://ai.googleblog.com/2022/04/hidden-interfaces-for-ambient-computing.html
+> https://news.ycombinator.com/item?id=31130272
+
 https://news.ycombinator.com/item?id=31105513 HUDS and GUIs: an inspiration resource site featuring Future User Interfaces
 
 https://jnd.org/humanity-centered-versus-human-centered-design/

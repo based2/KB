@@ -20,6 +20,10 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://a16z.com/2022/04/23/web3-security-crypto-hack-attack-lessons/
+
+https://news.ycombinator.com/item?id=31133393
+
 https://www.bleepingcomputer.com/news/security/hackers-steal-655k-after-picking-metamask-seed-from-icloud-backup/
 
 https://web3isgoinggreat.com/?id=beanstalk-farms-stablecoin-project-loses-182-million-to-exploit

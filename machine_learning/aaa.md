@@ -261,6 +261,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://news.ycombinator.com/item?id=31133544 Ask HN: Leet code/CTCI equivalent for Data science/ML roles
+
+https://a-j.gitbook.io/geometric-deep-learning/
+
 https://www.brendangregg.com/blog/2022-04-09/tensorflow-library-performance.html
 
 https://github.com/jatinchowdhury18/RTNeural

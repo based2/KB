@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://github.com/magefree/mage
+> https://news.ycombinator.com/item?id=31127994
+
 https://valvearchive.com/
 > https://news.ycombinator.com/item?id=30894163
 

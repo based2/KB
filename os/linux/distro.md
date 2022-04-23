@@ -62,6 +62,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://jasoneckert.github.io/myblog/asahi-linux/
+> https://news.ycombinator.com/item?id=31113189
+
 https://ubuntu.com/blog/ubuntu-22-04-lts-released
 
 https://lists.ubuntu.com/archives/ubuntu-announce/2022-April/000279.html Ubuntu 22.04 LTS (Jammy Jellyfish) released

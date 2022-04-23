@@ -67,6 +67,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://haydenjames.io/home-lab-beginners-guide-hardware/
+> https://news.ycombinator.com/item?id=31094301
+
 https://www.tomshardware.com/news/dells-proprietary-ddr5-module-locks-out-user-upgrades
 
 Intel deprecates SGX on Core series processors

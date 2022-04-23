@@ -241,6 +241,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 
 # News
+https://pganalyze.com/blog/how-postgres-chooses-index
+> https://news.ycombinator.com/item?id=31115492
+
 https://splitmind.dev/posts/generate-creds-postgres-vault-with-golang/
 > https://news.ycombinator.com/item?id=31072936
 

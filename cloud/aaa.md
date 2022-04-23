@@ -102,6 +102,8 @@ https://news.ycombinator.com/item?id=27466678 AWS EU-CENTRAL-1 PDT/UTC
 https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 > https://news.ycombinator.com/item?id=27443519
 
+https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
+
 # News
 https://staceyoniot.com/insteon-is-down-and-may-not-be-coming-back/
 

@@ -125,6 +125,9 @@ https://www.reforge.com/blog/technical-decision-making
 https://shuby.de/blog/post/decision-matrix
 > https://news.ycombinator.com/item?id=30893178
 
+https://algorithmsbook.com/files/dm.pdf
+> https://news.ycombinator.com/item?id=31123683
+
 # Analysis
 https://xyproblem.info/
 > https://news.ycombinator.com/item?id=27061704

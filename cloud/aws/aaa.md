@@ -69,6 +69,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # News
+https://dev.to/aws/aws-open-source-news-and-updates-109-4ejb
+
 https://aws.amazon.com/en/blogs/compute/running-cross-account-workflows-with-aws-step-functions-and-amazon-api-gateway/
 > https://news.ycombinator.com/item?id=30811980
 

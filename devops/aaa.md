@@ -150,6 +150,9 @@ sourceforge nobody apache httpd vulnerability
 https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
 # News
+https://v5.chriskrycho.com/journal/semver-for-ts-in-practice/
+> https://news.ycombinator.com/item?id=31123315
+
 https://www.uyuni-project.org/ release of SUSE Manager, salt stack
 
 https://news.ycombinator.com/item?id=31108828 Ask HN: How are pull requests integrated in a repo with high commit frequency?

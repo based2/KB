@@ -14,6 +14,8 @@ https://www.quantamagazine.org/to-be-energy-efficient-brains-predict-their-perce
 
 https://en.wikipedia.org/wiki/Pallium_(neuroanatomy)
 
+https://en.wikipedia.org/wiki/Connectome
+
 # Neuron
 https://news.mit.edu/2021/neurons-humans-mammals-1110
 > https://news.ycombinator.com/item?id=29213806

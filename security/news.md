@@ -1,3 +1,20 @@
+https://groups.google.com/g/golang-announce/c/-cp44ypCT5s CVE-2022-27191 go SSH
+
+https://www.bleepingcomputer.com/news/security/cisco-umbrella-default-ssh-key-allows-theft-of-admin-credentials/
+
+https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
+
+https://github.com/hakivvi/CVE-2022-29464 WSO2 RCE
+
+https://krebsonsecurity.com/2022/04/leaked-chats-show-lapsus-stole-t-mobile-source-code/
+> https://news.ycombinator.com/item?id=31121159
+
+https://attackevals.mitre-engenuity.org/enterprise/participants?adversaries=wizard-spider-sandworm%2Ccarbanak-fin7%2Capt29%2Capt3
+> https://www.reddit.com/r/netsec/comments/u6qf2q/mitre_engenuity_attck_results_are_out/
+
+https://forums.lenovo.com/t5/Forum-Housekeeping/Lenovo-forums-do-store-user-password-in-a-cookie/m-p/5124794
+> https://news.ycombinator.com/item?id=31121105
+
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-26-04-2022-38107
 
 https://blog.checkpoint.com/2022/04/21/largest-mobile-chipset-manufacturers-used-vulnerable-audio-decoder-2-3-of-android-users-privacy-around-the-world-were-at-risk/
@@ -7,12 +24,14 @@ https://blog.checkpoint.com/2022/04/21/largest-mobile-chipset-manufacturers-used
 https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html
 
 https://www.cyberkendra.com/2022/04/atlassian-patch-rce-vulnerability.html Atlassian bitbucket CVE-2022-26133 RCE
+> https://www.itnews.com.au/news/atlassian-patches-auth-bypass-in-seraph-579080?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed
 
 https://robertheaton.com/almost-scammed/
 > https://news.ycombinator.com/item?id=31108897
 
 https://confluence.atlassian.com/jira/jira-security-advisory-2022-04-20-1115127899.html
 > https://news.ycombinator.com/item?id=31099909
+> https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-382/
 
 https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/
 > https://news.ycombinator.com/item?id=31090332
@@ -21,6 +40,9 @@ https://lists.apache.org/thread/c4of29663sd7vs5362h8vrh14to4sgg5 CVE-2022-29266:
 
 https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/ CVE-2022-21449 ECDSA signatures, Java 15, 16, 17, or 18
 > https://www.reddit.com/r/java/comments/u7s77e/java_15_introduced_a_cryptographic_vulnerability/
+> https://www.reddit.com/r/java/comments/u8p0ce/cve202221449/
+> https://www.reddit.com/r/netsec/comments/u97dgz/null_ecdsa_signatures_proof_of_concept_for/
+> https://www.reddit.com/r/netsec/comments/u8ihc9/cve202221449_poc_demonstrating_tls_mitm/
 
 https://www.postfix.org/announcements/postfix-3.7.1.html 
 
@@ -182,6 +204,7 @@ https://www.cadosecurity.com/cado-discovers-denonia-the-first-malware-specifical
 > https://news.ycombinator.com/item?id=30945900
 > https://www.techrepublic.com/article/aws-lambda-sees-first-malware-attack-denonia-we-dont-know-how-got-there/
 > https://docs.aws.amazon.com/lambda/latest/dg/lambda-security.html
+> https://thenewstack.io/first-malware-running-on-aws-lambda-discovered/
 
 https://security.googleblog.com/2022/04/improving-software-supply-chain.html
 > https://news.ycombinator.com/item?id=30945622

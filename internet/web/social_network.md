@@ -1,4 +1,7 @@
 # HN
+https://news.ycombinator.com/newsguidelines.html
+> https://news.ycombinator.com/item?id=31128903
+
 https://hn.algolia.com/
 
 https://gist.github.com/linkdd/76fd57d02480c3e36a4e3f8ce39322b1 Add a bell emoji to unread comments on HackerNews
@@ -33,6 +36,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising
+> https://news.ycombinator.com/item?id=31132769
+
 https://geohot.github.io//blog/jekyll/update/2022/04/16/vampire-attack-twitter.html
 > https://news.ycombinator.com/item?id=31060368
 

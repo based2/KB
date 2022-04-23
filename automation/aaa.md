@@ -21,6 +21,9 @@ https://ballerina.io/
 https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
 
+# Test
+https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
+
 # News
 https://iasql.com/
 

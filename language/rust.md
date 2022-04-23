@@ -109,6 +109,8 @@ https://ninja-build.org/
 https://github.com/evmar/n2
 > https://news.ycombinator.com/item?id=30806875
 
+https://news.ycombinator.com/item?id=31132659
+
 # Macro
 https://www.getsynth.com/docs/blog/2021/08/09/macro
 

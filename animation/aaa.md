@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveCurves/index.html
+> https://news.ycombinator.com/item?id=31120139
+
 https://github.com/dai-shi/excalidraw-animate
 
 https://deekaykwon.com/

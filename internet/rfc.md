@@ -1,3 +1,5 @@
+https://www.ietf.org/blog/how-read-rfc/
+
 https://www.ietf.org/
 
 https://datatracker.ietf.org/doc/html/rfc3 Documentation conventions

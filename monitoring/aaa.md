@@ -71,6 +71,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://github.com/janestreet/magic-trace
+> https://news.ycombinator.com/item?id=31121319
+
 https://news.ycombinator.com/item?id=31074888 Linux
 > https://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
 

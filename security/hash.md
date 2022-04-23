@@ -8,6 +8,9 @@ https://sha256algorithm.com/
 > https://news.ycombinator.com/item?id=30244534
 > https://www.reddit.com/r/netsec/comments/smrdri/sha256_explained_stepbystep_visually/
 
+https://blog.boot.dev/cryptography/how-sha-2-works-step-by-step-sha-256/
+> https://news.ycombinator.com/item?id=31129484
+
 https://github.com/oconnor663/sha256_project
 > https://news.ycombinator.com/item?id=30809352
 

@@ -86,6 +86,9 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://flak.tedunangst.com/post/the-three-line-single-binary-compiler-free-blog
+> https://news.ycombinator.com/item?id=31119322
+
 https://blog.gopheracademy.com/advent-2014/parsers-lexers/
 
 https://go.dev/blog/survey2021-results

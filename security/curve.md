@@ -37,6 +37,9 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://neuromancer.sk/std/ Standard curve database
+> https://github.com/J08nY/std-curves
+
 https://blog.boot.dev/cryptography/elliptic-curve-cryptography/
 > https://news.ycombinator.com/item?id=31040571
 

@@ -43,6 +43,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://blog.cloudflare.com/new-firewall-tab-and-analytics/
+
 https://blog.cloudflare.com/magic-firewall-optimizing-ip-lists/
 
 https://blog.cloudflare.com/waf-for-everyone/

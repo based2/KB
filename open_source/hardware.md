@@ -123,6 +123,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://github.com/aolofsson/awesome-hardware-tools
+> https://news.ycombinator.com/item?id=31134201
+
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-43.pdf Archipelago - An Open Source FPGA with Toolflow Support
 
 https://www.starlabs.systems/pages/starbook?shpxid=49ca51aa-47f8-40cd-8042-84f546d443b0

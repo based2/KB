@@ -34,3 +34,6 @@ https://claudiodangelis.com/qrcp/ :zap: Transfer files over wifi from your compu
 https://www.cambus.net/file-transfers-via-the-parallel-port-on-dos-using-laplink/
 > https://news.ycombinator.com/item?id=31013707
 
+https://github.com/systemd/casync Content Addressable Data Synchronizer
+> https://news.ycombinator.com/item?id=31130975
+
