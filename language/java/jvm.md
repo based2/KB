@@ -38,6 +38,9 @@ https://blog.gceasy.io/2021/10/15/interesting-garbage-collection-patterns/
 https://dzone.com/articles/debugging-ram-java-garbage-collection-java-heap-de
 > https://www.reddit.com/r/java/comments/s1cbl5/debugging_ram_part_1_java_garbage_collection_java/
 
+https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf Low-Latency, High-Throughput Garbage Collection
+> https://news.ycombinator.com/item?id=31153434
+
 # Test
 https://github.com/ota4j-team/opentest4j
 

@@ -6,7 +6,6 @@ https://www.os2museum.com/wp/vague-standards-are-trouble/
 > https://news.ycombinator.com/item?id=30959215
 
 https://blog.ligos.net/2022-04-02/The-Reliability-Of-Optical-Disks.html
->
 
 https://dev.yorhel.nl/ncdu NCurses Disk Usage
 
@@ -46,6 +45,8 @@ https://www.snia.org/sites/default/orig/DSI2015/presentations/ColdStorage/DougFe
 > https://news.ycombinator.com/item?id=29197693
 
 https://gist.github.com/weastur/6adaf31a6f93f2235c1888a057f3070c calculating effective space after creating a ZFS pool
+
+https://blog.min.io/erasure-coding/
 
 
 

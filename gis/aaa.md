@@ -192,6 +192,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://github.com/avanetten/cresi City-scale Road Extraction from Satellite Imagery
+
 https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm?s=r
 > https://news.ycombinator.com/item?id=31074177
 

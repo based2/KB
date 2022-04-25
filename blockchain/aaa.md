@@ -48,6 +48,9 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://stakedy.com/long/cryptocurrency-as-a-cybersecurity-alarm.html
+> https://news.ycombinator.com/item?id=31139829
+
 https://news.ycombinator.com/item?id=31132610
 
 https://newsletter.impervious.ai/impervious-browser-functionality-overview/

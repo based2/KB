@@ -40,3 +40,6 @@ https://gankra.github.io/blah/tower-of-weakenings/
 
 https://chrisdown.name/2018/01/02/in-defence-of-swap.html
 > https://news.ycombinator.com/item?id=31104126
+
+https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=20111&skey=&sval=&list_s_date=&list_e_date=&GotoPage=1
+> https://news.ycombinator.com/item?id=31157181

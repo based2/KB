@@ -46,6 +46,12 @@ ERA
 
 https://en.wikipedia.org/wiki/Manchester_Baby
 
+https://en.wikipedia.org/wiki/IBM_604
+
+https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer
+
+https://en.wikipedia.org/wiki/Z1_(computer)
+
 #
 https://www.markround.com/blog/2021/12/21/devops-for-the-sinclair-spectrum-part-1/
 > https://news.ycombinator.com/item?id=31134121

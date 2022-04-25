@@ -37,6 +37,8 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://arstechnica.com/science/2022/04/not-quite-le-mans-24-hour-race-won-by-molecule-that-traveled-1-micron/
+
 https://github.com/dewberryants/asciiMol
 > https://news.ycombinator.com/item?id=30597559
 

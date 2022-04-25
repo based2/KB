@@ -55,6 +55,8 @@ https://gnunet.org/en/news/2021-05-DISSENS.html
 https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html
 > https://news.ycombinator.com/item?id=28691422
 
+https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en
+
 #
 https://suricrasia.online/iceberg/ The Cursed Computer Iceberg Meme
 > https://news.ycombinator.com/item?id=26766722

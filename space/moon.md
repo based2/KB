@@ -27,6 +27,12 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://github.com/EngineersNeedArt/Mooncraft2000
+> https://news.ycombinator.com/item?id=31153333
+
+https://www.righto.com/2022/04/the-digital-ranging-system-that.html
+> https://news.ycombinator.com/item?id=31136285
+
 https://blog.jatan.space/archive
 
 https://www.sciencealert.com/the-moon-has-glass-balls

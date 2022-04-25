@@ -114,6 +114,8 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
 
 # News
+https://github.com/uqfoundation/pathos
+
 https://timur.audio/dwcas-in-c
 
 https://queue.acm.org/detail.cfm?id=3526967 Distributed Latency Profiling through Critical Path Tracing

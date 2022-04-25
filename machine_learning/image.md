@@ -59,6 +59,8 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 #
+https://ai.googleblog.com/2022/04/pix2seq-new-language-interface-for.html
+
 https://www.assemblyai.com/blog/how-dall-e-2-actually-works/
 > https://news.ycombinator.com/item?id=31084312
 

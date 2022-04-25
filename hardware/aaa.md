@@ -67,6 +67,9 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
 # News
+https://www.cnx-software.com/2022/04/21/bga-socket-allows-ram-upgrades-on-sbcs/
+> https://news.ycombinator.com/item?id=31110150
+
 https://haydenjames.io/home-lab-beginners-guide-hardware/
 > https://news.ycombinator.com/item?id=31094301
 

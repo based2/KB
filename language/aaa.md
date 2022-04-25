@@ -263,6 +263,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://atp.fm/205-chris-lattner-interview-transcript#gc Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)
+> https://news.ycombinator.com/item?id=31139610
+
 https://scallop-lang.github.io/ scalable Datalog solver equipped with support for discrete, probabilistic, and differentiable modes of reasoning
 > https://news.ycombinator.com/item?id=31060265
 

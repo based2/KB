@@ -108,6 +108,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://devblogs.microsoft.com/oldnewthing/20220419-00/?p=106496 The Applesoft Compiler (TASC): We have the source code, in a sense - emulator
+> https://news.ycombinator.com/item?id=31138214
+
 https://www.phoronix.com/scan.php?page=news_item&px=Clang-Linux-RandStruct
 
 https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html

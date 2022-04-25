@@ -4,6 +4,12 @@ https://github.com/cea-sec/miasm
 https://github.com/qilingframework/qiling Advanced binary emulation framework
 
 #
+http://blog.petersobot.com/patching-the-k2500
+> https://news.ycombinator.com/item?id=31144106
+
+https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/
+> https://news.ycombinator.com/item?id=31141042
+
 https://www.righto.com/2022/04/inside-apple-1s-shift-register-memory.html
 
 https://maxkersten.nl/binary-analysis-course/analysis-scripts/ghidra-script-to-handle-stack-strings/

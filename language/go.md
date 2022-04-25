@@ -86,6 +86,9 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://christine.website/blog/gonads-2022-04-24
+> https://news.ycombinator.com/item?id=31149801
+
 https://flak.tedunangst.com/post/the-three-line-single-binary-compiler-free-blog
 > https://news.ycombinator.com/item?id=31119322
 

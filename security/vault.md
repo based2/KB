@@ -39,6 +39,8 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 #
+https://www.reddit.com/r/foss/comments/uakxt3/tiny_embeddable_secure_secrets_management_library/
+
 https://news.ycombinator.com/item?id=30974585 Ask HN: Why do password managers have TOTP?
 
 https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/

@@ -141,6 +141,10 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.theregister.com/2022/04/25/sentinel_1b_update/
+
+https://www.universetoday.com/155433/plutos-orbit-is-surprisingly-unstable/
+
 https://www.nature.com/articles/s41467-022-29458-3 Double ridge formation over shallow water sills on Jupiter’s moon Europa
 > https://news.ycombinator.com/item?id=31093499
 

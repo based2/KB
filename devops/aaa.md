@@ -110,6 +110,13 @@ https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
 # Incidents
+https://gitlab.com/gitlab-org/cves/-/blob/master/2022/CVE-2022-0477.json
+
+https://www.githubstatus.com/incidents/b40k7ckrs7sp
+> https://news.ycombinator.com/item?id=31152403
+
+https://www.bleepingcomputer.com/news/security/github-restores-popular-python-repo-hit-by-bogus-dmca-takedown/
+
 https://www.theregister.com/2022/04/21/github-stolen-oauth-tokens-used-in-breaches/
 
 https://www.githubstatus.com/incidents/vxvyrmy9w1vp
@@ -143,13 +150,28 @@ https://www.bleepingcomputer.com/news/technology/github-outage-impacts-actions-c
 
 https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 
+https://travis-ci.community/t/security-bulletin/12081
+> https://news.ycombinator.com/item?id=28523350
+
 sourceforge nobody apache httpd vulnerability
 
 # New versions
 
+https://about.gitlab.com/releases/2022/04/22/gitlab-14-10-released/
+
+https://about.gitlab.com/releases/2022/02/22/gitlab-14-8-released/
+> https://news.ycombinator.com/item?id=30430227
+
 https://about.gitlab.com/releases/2021/12/22/gitlab-14-6-released/
 
+https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
+
+https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
+
 # News
+https://christine.website/talks/nixos-pain-2021-11-10
+> https://news.ycombinator.com/item?id=31141377
+
 https://v5.chriskrycho.com/journal/semver-for-ts-in-practice/
 > https://news.ycombinator.com/item?id=31123315
 
@@ -272,9 +294,6 @@ https://crooked-hideout.blogspot.com/2012/01/ableton-live-set-is-gzipped-xml-rub
 > https://news.ycombinator.com/item?id=30485195
 
 https://gitlab.com/gitlab-org/gitlab/-/issues/23166 Can repository mirroring (pulling) be incorporated into Gitlab CE?
-
-https://about.gitlab.com/releases/2022/02/22/gitlab-14-8-released/
-> https://news.ycombinator.com/item?id=30430227
 
 https://scaledagiledevops.com/
 
@@ -448,13 +467,8 @@ https://cloudogu.com/en/blog/gitops-tools
 https://theforeman.org/2021/09/foreman-30-is-here.html
 > https://news.ycombinator.com/item?id=28569690
 
-https://travis-ci.community/t/security-bulletin/12081
-> https://news.ycombinator.com/item?id=28523350
-
 https://gitlab.com/gitlab-org/gitlab/-/issues/335278
 > https://news.ycombinator.com/item?id=28535298
-
-https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 
 https://decisionops.substack.com/p/decisionops
 > https://news.ycombinator.com/item?id=28234629
@@ -487,8 +501,6 @@ https://news.ycombinator.com/item?id=27711403
 https://pijul.org/posts/2021-06-28-two-changes/
 
 https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/
-
-https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 https://about.gitlab.com/blog/2021/05/04/gitlabs-2021-survey-uncovers-a-new-devops-maturity-model/
 

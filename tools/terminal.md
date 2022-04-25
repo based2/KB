@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://www.linusakesson.net/programming/tty/
+> https://news.ycombinator.com/item?id=31146862
+
 https://jdebp.uk/Softwares/djbwares/bernstein-ptyget.html
 > https://news.ycombinator.com/item?id=31108565
 

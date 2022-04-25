@@ -91,6 +91,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://news.ycombinator.com/item?id=31152490 Ask HN: Have you used SQLite as a primary database?
+
 https://tip.litestream.io/guides/read-replica/
 > https://news.ycombinator.com/item?id=31007426
 

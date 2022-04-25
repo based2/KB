@@ -11,6 +11,8 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://dl.acm.org/doi/abs/10.1145/3468264.3468625 Probabilistic Delta debugging
+
 https://gramineproject.io/blog/gdb-support-in-gramine/ sgx
 
 https://tromey.com/blog/?p=1084 Faster GDB Startup

@@ -261,6 +261,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.deepmind.com/publications/graph-matching-networks-for-learning-the-similarity-of-graph-structured-objects
+
+https://ai.googleblog.com/2022/02/the-balloon-learning-environment.html
+
 https://news.ycombinator.com/item?id=31133544 Ask HN: Leet code/CTCI equivalent for Data science/ML roles
 
 https://a-j.gitbook.io/geometric-deep-learning/

@@ -363,6 +363,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://belkadan.com/blog/2022/04/Default-Arguments-and-Label-based-Overloading/
+
 https://blog.theincredibleholk.org/blog/2022/04/18/how-async-functions-in-traits-could-work-in-rustc/
 
 https://blog.rust-lang.org/inside-rust/2022/04/20/libs-aspirations.html

@@ -1,3 +1,19 @@
+https://vigilance.fr/vulnerabilite/Vim-corruption-de-memoire-via-eval-lambda-38138
+
+https://spring.io/blog/2022/04/13/spring-framework-data-binding-rules-vulnerability-cve-2022-22968
+
+https://mullvad.net/en/blog/2022/4/25/apples-private-relay-can-cause-the-system-to-ignore-firewall-rules/
+> https://news.ycombinator.com/item?id=31153062
+
+https://astroengineer.wordpress.com/2010/05/12/voyager-2-has-flipped-its-bit/
+> https://news.ycombinator.com/item?id=31137345
+
+https://blog.immunityinc.com/p/writing-a-linux-kernel-remote-in-2022/
+
+https://cloaker.mobi/
+
+https://ubuntu.com/security/notices/USN-5383-1
+
 https://groups.google.com/g/golang-announce/c/-cp44ypCT5s CVE-2022-27191 go SSH
 
 https://www.bleepingcomputer.com/news/security/cisco-umbrella-default-ssh-key-allows-theft-of-admin-credentials/
@@ -20,6 +36,7 @@ https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-26-04-2022-
 https://blog.checkpoint.com/2022/04/21/largest-mobile-chipset-manufacturers-used-vulnerable-audio-decoder-2-3-of-android-users-privacy-around-the-world-were-at-risk/
 > https://vulncat.fortify.com/en/detail?id=desc.internal.cpp.out_of_bounds_read
 > > https://arstechnica.com/information-technology/2022/04/critical-bug-could-have-let-hackers-commandeer-millions-of-android-devices/
+> https://www.techdirt.com/2022/04/25/secretive-private-company-shows-no-one-not-even-the-nsa-is-immune-from-always-on-surveillance/
 
 https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html
 
@@ -41,8 +58,10 @@ https://lists.apache.org/thread/c4of29663sd7vs5362h8vrh14to4sgg5 CVE-2022-29266:
 https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/ CVE-2022-21449 ECDSA signatures, Java 15, 16, 17, or 18
 > https://www.reddit.com/r/java/comments/u7s77e/java_15_introduced_a_cryptographic_vulnerability/
 > https://www.reddit.com/r/java/comments/u8p0ce/cve202221449/
+> > https://github.com/google/wycheproof Tests crypto libraries against known attacks
 > https://www.reddit.com/r/netsec/comments/u97dgz/null_ecdsa_signatures_proof_of_concept_for/
 > https://www.reddit.com/r/netsec/comments/u8ihc9/cve202221449_poc_demonstrating_tls_mitm/
+> https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-029.pdf
 
 https://www.postfix.org/announcements/postfix-3.7.1.html 
 

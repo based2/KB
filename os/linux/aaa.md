@@ -82,6 +82,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/
+> https://news.ycombinator.com/item?id=31143482
+
 https://lwn.net/SubscriberLink/890272/7ddc2c5d2a73facf/ An introduction to Linux audio plugin APIs
 >
 

@@ -12,6 +12,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://xlinks.co/morocco-uk-power-project/
+> https://news.ycombinator.com/item?id=31143636
+
+https://newatlas.com/energy/us-navy-beams-1-6-kw-power-kilometer-microwaves/
+> https://news.ycombinator.com/item?id=31128267
+
 https://en.wikipedia.org/wiki/Nuclear_reactor
 
 https://news.mit.edu/2022/thermal-heat-engine-0413

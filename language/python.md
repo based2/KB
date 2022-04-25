@@ -216,6 +216,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://www.textualize.io/
+> https://news.ycombinator.com/item?id=31143327
+
 https://github.com/jteppinette/python-logfmter
 
 https://www.uninformativ.de/blog/postings/2022-04-21/0/POSTING-en.html

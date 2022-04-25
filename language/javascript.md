@@ -371,6 +371,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope/
+
 https://v8.dev/blog/faster-class-features
 
 https://news.ycombinator.com/item?id=31098205 Show HN: DTL: a language and JavaScript lib to transform and manipulate data

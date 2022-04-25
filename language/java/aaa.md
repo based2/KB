@@ -255,6 +255,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.infoq.com/news/2022/04/java-news-roundup-apr11-2022/
+
 https://foojay.io/today/introducing-the-openjdk-coordinated-restore-at-checkpoint-project/
 
 https://www.oracle.com/java/technologies/javase/17all-relnotes.html#R17_0_3

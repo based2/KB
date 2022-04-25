@@ -62,6 +62,13 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.theregister.com/2022/04/25/debian_firmware_debate/
+
+https://github.com/fsquillace/junest runs, without root privileges, upon any Linux distro
+
+https://blog.dowhile0.org/2022/04/22/fedora-36-a-brave-new-drm-kms-only-world/ DRM = Direct Rendering Manager
+> https://news.ycombinator.com/item?id=31145583
+
 https://jasoneckert.github.io/myblog/asahi-linux/
 > https://news.ycombinator.com/item?id=31113189
 

@@ -119,6 +119,8 @@ https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html
 https://marc.info/?l=freebsd-announce&m=165016689418229&w=2
 > https://news.ycombinator.com/item?id=31060331
 
+https://klarasystems.com/articles/interacting-with-freebsd-learning-the-fundamentals-of-the-freebsd-shell-2/
+
 # NetBSD
 https://saurvs.github.io/post/writing-netbsd-kern-mod/
 > https://news.ycombinator.com/item?id=30927847

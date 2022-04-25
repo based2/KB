@@ -57,6 +57,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://github.com/hughperkins/VeriGPU
+> https://news.ycombinator.com/item?id=31136100
+
 https://danielmangum.com/risc-v-tips/2022-05-14-opening-a-udp-socket-risc-v/
 
 https://github.com/riscv/riscv-profiles/blob/v0.5/profiles.adoc

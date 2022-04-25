@@ -105,6 +105,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://blog.cerowrt.org/post/state_of_fq_codel/
+> https://news.ycombinator.com/item?id=31148728
+
 https://blog.ipspace.net/2022/03/mpls-ldp-creation-myths.html
 > https://news.ycombinator.com/item?id=31040142
 

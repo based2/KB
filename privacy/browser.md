@@ -9,6 +9,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.theverge.com/2022/4/21/23035289/google-reject-all-cookie-button-eu-privacy-data-laws
+> https://news.ycombinator.com/item?id=31144313
+
 https://blog.google/around-the-globe/google-europe/new-cookie-choices-in-europe/
 
 https://brave.com/privacy-updates/18-de-amp/

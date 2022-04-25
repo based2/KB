@@ -71,6 +71,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptTemptation
+> https://news.ycombinator.com/item?id=31141415
+
 https://github.com/janestreet/magic-trace
 > https://news.ycombinator.com/item?id=31121319
 

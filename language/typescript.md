@@ -69,6 +69,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://ivov.dev/notes/typescript-and-set-theory
+
 https://github.com/suren-atoyan/react-pwa
 
 https://medium.com/jspoint/typescript-compilation-the-typescript-compiler-4cb15f7244bc

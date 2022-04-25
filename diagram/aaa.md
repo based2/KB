@@ -123,6 +123,10 @@ https://github.com/AlexEidt/ASCII-Video
 https://mannhowie.com/finite-state-machines
 
 # News
+https://en.wikipedia.org/wiki/Zero-suppressed_decision_diagram
+
+https://github.com/wavedrom/wavedrom time
+
 https://cmap.ihmc.us/docs/learn.php
 > https://news.ycombinator.com/item?id=30903140
 

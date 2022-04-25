@@ -94,6 +94,9 @@ https://alexbarry.github.io/AlexCalc/ Scientific calculator with LaTeX equation 
 https://www.sliderules.org/
 > https://news.ycombinator.com/item?id=30955676
 
+https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slide-rule/
+> https://news.ycombinator.com/item?id=31143274
+
 # News
 https://www.quantamagazine.org/new-proof-reveals-the-hidden-structure-of-common-equations-20220421/
 

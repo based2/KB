@@ -72,6 +72,9 @@ https://github.com/mikeroyal/Apple-Silicon-Guide
 https://github.com/hjuutilainen/sus-inspector
 
 # M1
+https://eclecticlight.co/2022/04/25/how-macos-manages-m1-cpu-cores/
+> https://news.ycombinator.com/item?id=31151393
+
 https://eclecticlight.co/2022/03/17/macos-has-different-strategies-for-m1-cores/
 
 https://github.com/AsahiLinux/docs/wiki/Introduction-to-Apple-Silicon

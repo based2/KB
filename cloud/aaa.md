@@ -105,6 +105,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.abcdesktop.io/
+> https://news.ycombinator.com/item?id=31155489
+
 https://staceyoniot.com/insteon-is-down-and-may-not-be-coming-back/
 
 https://news.ycombinator.com/item?id=31014247 Stacktape – Full power of AWS with Heroku-like experience

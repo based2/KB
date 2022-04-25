@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://medium.com/@hacxyk/aave-v3s-price-oracle-manipulation-vulnerability-168e44e9e374
+
 https://news.ycombinator.com/item?id=31134154 $34M permanently locked into AkuDreams contract forever due to bad code
 
 https://www.bleepingcomputer.com/news/cryptocurrency/620-million-in-crypto-stolen-from-axie-infinitys-ronin-bridge/
