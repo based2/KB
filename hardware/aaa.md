@@ -66,7 +66,18 @@ https://zeptobars.com/en/read/FTDI-FT232RL-real-vs-fake-supereal
 # History
 https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 
+http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test%20mode.htm
+> https://news.ycombinator.com/item?id=31331463
+
 # News
+https://old.reddit.com/r/sysadmin/comments/9mk2o7/mri_disabled_every_ios_device_in_facility/
+> https://news.ycombinator.com/item?id=31339296
+
+https://scaramuzza.me/articles/buying_sd_cards_from_china.html
+
+https://fuse.wikichip.org/news/6648/reincarnating-the-6502-using-flexible-tft-tech-for-iot/
+> https://news.ycombinator.com/item?id=31317372
+
 https://www.cnx-software.com/2022/04/21/bga-socket-allows-ram-upgrades-on-sbcs/
 > https://news.ycombinator.com/item?id=31110150
 

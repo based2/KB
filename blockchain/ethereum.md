@@ -10,6 +10,12 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://tech.slashdot.org/story/22/05/11/1649202/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say
+> https://news.ycombinator.com/item?id=31343701
+
+https://www.vessel.xyz/
+> https://news.ycombinator.com/item?id=31343409
+
 https://medium.com/@hacxyk/aave-v3s-price-oracle-manipulation-vulnerability-168e44e9e374
 
 https://news.ycombinator.com/item?id=31134154 $34M permanently locked into AkuDreams contract forever due to bad code

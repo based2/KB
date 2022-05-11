@@ -57,3 +57,6 @@ https://www.wired.com/story/leica-m11-digital-rangefinder/
 
 https://blog.fidelramos.net/photography/photography-workflow
 > https://news.ycombinator.com/item?id=30904845
+
+https://puri.sm/posts/cameras-its-complicated/
+> https://news.ycombinator.com/item?id=31341393

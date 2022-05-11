@@ -62,6 +62,11 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9
+> https://news.ycombinator.com/item?id=31345872
+
+https://www.theregister.com/2022/05/10/apple_m1_mesa/
+
 https://www.theregister.com/2022/04/25/debian_firmware_debate/
 
 https://github.com/fsquillace/junest runs, without root privileges, upon any Linux distro

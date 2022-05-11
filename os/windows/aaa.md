@@ -117,6 +117,9 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://devblogs.microsoft.com/oldnewthing/20030808-00/?p=42943
+> https://news.ycombinator.com/item?id=31332002
+
 https://www.bleepingcomputer.com/news/security/unofficial-windows-11-upgrade-installs-info-stealing-malware/
 
 https://github.com/gordonbay/Windows-On-Reins

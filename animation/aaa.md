@@ -64,6 +64,15 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://viz.intelligence.rocks/
+> https://news.ycombinator.com/item?id=31311463
+
+https://pierremuth.wordpress.com/2021/02/17/flipping-dots-fast/
+> https://news.ycombinator.com/item?id=31307770
+
+https://ciechanow.ski/mechanical-watch/
+> https://news.ycombinator.com/item?id=31261533
+
 https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveCurves/index.html
 > https://news.ycombinator.com/item?id=31120139
 

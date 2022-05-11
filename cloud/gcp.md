@@ -1,7 +1,12 @@
+https://cloud.google.com/run/docs/overview/what-is-cloud-run
+
 https://cloud.google.com/blog/topics/developers-practitioners/microservices-architecture-google-cloud
 > https://news.ycombinator.com/item?id=29294267
 
 https://news.ycombinator.com/item?id=29376820 Ask HN: Best way to spend $25k in GCP
+
+https://cloud.google.com/blog/products/compute/cloud-tpu-vms-are-generally-available
+> https://news.ycombinator.com/item?id=31322379
 
 https://github.com/flowerinthenight/spindle
 > https://news.ycombinator.com/item?id=28778677
@@ -18,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://techcrunch.com/2022/05/11/google-cloud-launches-alloydb-a-new-fully-managed-postgresql-database-service/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAIjbHF2Kill76q-Vdr1OLSgEQHI6sntU4TOoyF7oFo9t_hXIIo0nQ24ghiayN61CsmSK_nyv0T1vjoNmCgA7Xg6v7vMTev0166mh-y-rYGovti5RZlte-cOg1XFz_H7Xju4GcIsaAFP4CfrGzCsJ9ETpAO4ZnUMlf4ctG50UILVQ
+
 https://gcloud-compute.com/
 > https://news.ycombinator.com/item?id=30957842
 

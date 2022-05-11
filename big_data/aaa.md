@@ -235,6 +235,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://slik-wrangler.medium.com/introducing-slik-a-data-processing-and-modelling-python-library-5cfd837ce01b
+> https://news.ycombinator.com/item?id=31333783
+
 https://www.nzherald.co.nz/kahu/statistics-legend-ross-ihaka-reflects-on-his-revolutionary-software/NSGLPFJMXQK3GVV67UNEFUCHTE/
 
 https://brandur.org/large-database-casualties

@@ -77,6 +77,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://www.a11yproject.com/checklist/
+> https://news.ycombinator.com/item?id=31337222
+
 https://news.ycombinator.com/item?id=31066553
 
 https://www.deceptive.design/types

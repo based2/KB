@@ -7,6 +7,9 @@ https://github.com/tesseract-ocr/tesseract
 > https://tesseract.projectnaptha.com/
 > https://news.ycombinator.com/item?id=27876383
 
+https://github.com/naptha/tesseract.js
+> https://news.ycombinator.com/item?id=31312064
+
 https://devclass.com/2021/12/01/tesseract-ocr-5/
 
 https://tesseract.projectnaptha.com/

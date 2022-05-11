@@ -15,6 +15,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://www.railwayage.com/regulatory/it-is-getting-worse-people-are-leaving/
+> https://news.ycombinator.com/item?id=31314389
+
 https://www.sheffield.ac.uk/news/leaf-busting-tech-could-end-rail-delays-caused-leaves-line
 
 

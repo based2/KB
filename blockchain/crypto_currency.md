@@ -20,6 +20,15 @@ src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fi
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://jpkoning.blogspot.com/2022/05/the-tragedy-of-dogecoin.html
+> https://news.ycombinator.com/item?id=31335963
+
+https://english.elpais.com/economy-and-business/2022-05-10/el-salvador-expected-to-default-as-bitcoin-plummets.html
+> https://news.ycombinator.com/item?id=31337229
+
+https://fortune.com/2022/05/11/coinbase-bankruptcy-crypto-assets-safe-private-key-earnings-stock/
+> https://news.ycombinator.com/item?id=31338355
+
 https://a16z.com/2022/04/23/web3-security-crypto-hack-attack-lessons/
 
 https://news.ycombinator.com/item?id=31133393

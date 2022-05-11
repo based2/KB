@@ -59,6 +59,12 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://web.dev/yahoo-japan-identity-case-study/
+> https://news.ycombinator.com/item?id=31329076
+
+https://blogs.fsfe.org/nico.rikken/2022/03/16/dutch-digital-identity-system-crisis/
+> https://news.ycombinator.com/item?id=31313292
+
 https://betterprogramming.pub/stop-using-json-web-tokens-for-authentication-use-stateful-sessions-instead-c0a803931a5d
 > https://news.ycombinator.com/item?id=30957609
 

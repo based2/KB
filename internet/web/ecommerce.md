@@ -5,6 +5,12 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/
+> https://news.ycombinator.com/item?id=31324641
+
+https://nullprogram.com/blog/2022/04/30/ Luhn algorithm using SWAR and SIMD
+> 
+
 https://www.linkedin.com/posts/catherinelesuisse_im-also-one-of-the-users-of-n26-who-got-activity-6922498367302344704-1tzC
 > https://news.ycombinator.com/item?id=31100678
 

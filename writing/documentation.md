@@ -42,5 +42,8 @@ https://latex-cookbook.net/
 > https://news.ycombinator.com/item?id=29672872
 
 #
+https://markdoc.io/
+> https://news.ycombinator.com/item?id=31341083
+
 https://fortelabs.co/blog/para/ The PARA Method: A Universal System for Organizing Digital Information
 > https://news.ycombinator.com/item?id=30916260

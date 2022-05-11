@@ -92,6 +92,9 @@ https://github.com/asciibeats/elixir_ranch
 
 https://github.com/szTheory/real-world-phoenix
 
+https://github.com/lucasvegi/Elixir-Code-Smells
+> https://news.ycombinator.com/item?id=31323334
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

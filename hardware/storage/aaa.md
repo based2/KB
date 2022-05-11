@@ -48,5 +48,8 @@ https://gist.github.com/weastur/6adaf31a6f93f2235c1888a057f3070c calculating eff
 
 https://blog.min.io/erasure-coding/
 
+https://en.wikipedia.org/wiki/Laser_turntable
+> https://news.ycombinator.com/item?id=31343535
+
 
 

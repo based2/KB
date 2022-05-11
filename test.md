@@ -116,6 +116,8 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://news.ycombinator.com/item?id=31332982 Show HN: A Swiss army knife for testing HTTP from the terminal
+
 https://news.ycombinator.com/item?id=31083131 Ask HN: How do you keep track of software requirements and test them?
 > https://news.ycombinator.com/item?id=31083131
 

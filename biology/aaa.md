@@ -37,6 +37,8 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.chemistryworld.com/news/ai-engineered-enzyme-eats-entire-plastic-containers/4015620.article
+
 https://arstechnica.com/science/2022/04/not-quite-le-mans-24-hour-race-won-by-molecule-that-traveled-1-micron/
 
 https://github.com/dewberryants/asciiMol

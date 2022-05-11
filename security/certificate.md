@@ -32,6 +32,9 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # News
+https://httptoolkit.tech/blog/chrome-android-certificate-transparency/
+> https://news.ycombinator.com/item?id=31341997
+
 https://cloud.google.com/blog/products/identity-security/automate-public-certificate-lifecycle-management-via--acme-client-api
 > https://news.ycombinator.com/item?id=30997735
 

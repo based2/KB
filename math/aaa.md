@@ -1,3 +1,6 @@
+https://www.sagemath.org/
+> https://news.ycombinator.com/item?id=31312858
+
 https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html
 > https://news.ycombinator.com/item?id=27536974
 
@@ -98,6 +101,23 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://terrytao.wordpress.com/2022/05/10/partially-specified-mathematical-objects-ambient-parameters-and-asymptotic-notation/
+
+https://rbutterworth.nfshost.com/Tables/romanmult/
+> https://news.ycombinator.com/item?id=31311811
+
+https://www.nature.com/articles/s41598-022-09464-7 A multi-parameter persistence framework for mathematical morphology
+> https://news.ycombinator.com/item?id=31337563
+
+https://wiki.xxiivv.com/site/logic.html
+> https://news.ycombinator.com/item?id=31334617
+
+https://jingnanshi.com/blog/autodiff.html
+> https://news.ycombinator.com/item?id=31318865
+
+https://scottaaronson.blog/?p=6389 An update on the campaign to defend serious math education in California
+> https://news.ycombinator.com/item?id=31170431
+
 https://www.quantamagazine.org/new-proof-reveals-the-hidden-structure-of-common-equations-20220421/
 
 https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/monte-carlo-methods-mathematical-foundations

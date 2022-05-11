@@ -15,8 +15,6 @@ https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 
 https://github.com/ToolJet/ToolJet
 
-https://ballerina.io/
-
 # Validation
 https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919
@@ -111,6 +109,8 @@ https://news.ycombinator.com/item?id=29020460
 
 https://ballerina.io/
 > https://news.ycombinator.com/item?id=29011588
+> https://www.infoq.com/articles/ballerina-data-oriented-language/
+> > https://news.ycombinator.com/item?id=31335872
 
 https://danielmangum.com/posts/infrastructure-in-your-software-packages/
 

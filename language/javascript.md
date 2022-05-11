@@ -47,6 +47,9 @@ https://matthewc.dev/blog/webdev/vuex-sync-part-1/
 https://blog.vuejs.org/posts/vue-3-as-the-new-default.html
 > https://news.ycombinator.com/item?id=30251115
 
+https://kaleguy.github.io/leovue/#/t/2
+> https://news.ycombinator.com/item?id=31301876
+
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 
@@ -371,6 +374,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/
+> https://news.ycombinator.com/item?id=31342425
+
+https://2ality.com/2022/05/rest-vs-spread.html
+> https://news.ycombinator.com/item?id=31293198
+
 https://mmazzarolo.com/blog/2022-02-16-track-down-the-javascript-code-responsible-for-polluting-the-global-scope/
 
 https://v8.dev/blog/faster-class-features

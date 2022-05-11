@@ -114,6 +114,9 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
 
 # News
+https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/
+> https://news.ycombinator.com/item?id=31314006
+
 https://github.com/uqfoundation/pathos
 
 https://timur.audio/dwcas-in-c

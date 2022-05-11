@@ -15,6 +15,12 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.filfre.net/2020/01/master-of-orion/
+> https://news.ycombinator.com/item?id=31311150
+
+https://web.mit.edu/jsterman/www/SDG/beergame.html Flight Simulators for Management Education
+> https://news.ycombinator.com/item?id=31302898
+
 https://github.com/magefree/mage
 > https://news.ycombinator.com/item?id=31127994
 

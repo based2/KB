@@ -1,3 +1,11 @@
+https://blog.cloudflare.com/introducing-d1/ database designed for Cloudflare Workers
+> https://news.ycombinator.com/item?id=31339299
+
+https://blog.cloudflare.com/workers-open-source-announcement/
+> https://news.ycombinator.com/item?id=31313495
+
+https://blog.cloudflare.com/zaraz-open-source-managed-components-and-webcm/
+
 https://community.cloudflare.com/t/send-email-from-workers-using-mailchannels-for-free/361973
 > https://news.ycombinator.com/item?id=30533032
 

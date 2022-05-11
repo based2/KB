@@ -38,6 +38,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://www.commands.dev/
+> https://news.ycombinator.com/item?id=31341248
+
 https://blog.craftyguy.net/cmdline-help/
 > https://news.ycombinator.com/item?id=30991834
 

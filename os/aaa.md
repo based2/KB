@@ -14,6 +14,11 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
 # News
+http://collapseos.org/
+> https://news.ycombinator.com/item?id=31340518
+
+https://0pointer.net/blog/fitting-everything-together.html
+
 https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/6_CPU_Scheduling.html
 > https://news.ycombinator.com/item?id=31053734
 

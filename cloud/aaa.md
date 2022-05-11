@@ -76,6 +76,8 @@ https://supabase.com/blog/2022/03/31/supabase-edge-functions
 
 # Incidents
 
+https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-033.pdf RCE Vulnerabilities in Microsoft Azure Synapse
+
 use of IKEv1
 
 https://news.ycombinator.com/item?id=31025894
@@ -105,6 +107,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=31342436 Ask HN: Options for handling state at the edge?
+
 https://www.abcdesktop.io/
 > https://news.ycombinator.com/item?id=31155489
 

@@ -30,6 +30,12 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://webkit.org/blog/12629/release-notes-for-safari-technology-preview-145/
+
+https://developer.chrome.com/blog/advanced-web-apps-fund/
+
+https://news.ycombinator.com/item?id=31317886 	Tell HN: Cloudflare Is Blocking Firefox Forks Waterfox Classic and Pale Moon
+
 http://w3m.rocks/
 > https://news.ycombinator.com/item?id=30975532
 

@@ -169,6 +169,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging
+> https://news.ycombinator.com/item?id=31314379
+
+https://www.haskellforall.com/2022/05/the-golden-rule-of-software.html
+> https://news.ycombinator.com/item?id=31315516
+
 https://christine.website/talks/nixos-pain-2021-11-10
 > https://news.ycombinator.com/item?id=31141377
 

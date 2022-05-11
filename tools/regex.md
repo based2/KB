@@ -65,6 +65,11 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://pboyd.io/posts/comma-dash-dot/
+
+https://regex-vis.com/?r=%5E%28%28%5BhH%5Dacker%29%5B+%5D%3F%28%5BnN%5Dews%7Cnewsletter%29%29%24
+> https://news.ycombinator.com/item?id=31307123
+
 https://talbrenev.com/2021/05/26/html-regex.html
 > https://news.ycombinator.com/item?id=31012999
 

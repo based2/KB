@@ -105,6 +105,9 @@ https://news.ycombinator.com/item?id=27650775
 https://netbox.readthedocs.io/en/stable/
 
 # News
+https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/
+> https://news.ycombinator.com/item?id=31304178
+
 https://blog.cerowrt.org/post/state_of_fq_codel/
 > https://news.ycombinator.com/item?id=31148728
 

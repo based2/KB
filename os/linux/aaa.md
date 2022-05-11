@@ -68,6 +68,9 @@ https://kestrelcomputer.github.io/kestrel/2018/02/01/on-elf-2
 
 https://beefchunk.com/documentation/sys-programming/binary_formats/elf/elf_from_the_programmers_perspective/elf.html
 
+https://dropbear.sh/blog/elf-patching.html
+> https://news.ycombinator.com/item?id=31313628
+
 # Window manager
 https://www.freedesktop.org/wiki/
 
@@ -82,6 +85,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
 # News
+https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles
+> https://news.ycombinator.com/item?id=31332590
+
 https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/
 > https://news.ycombinator.com/item?id=31143482
 

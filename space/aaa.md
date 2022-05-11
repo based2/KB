@@ -114,6 +114,8 @@ https://www.wired.com/story/a-bizarre-form-of-water-may-exist-all-over-the-unive
 https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/
 > https://news.ycombinator.com/item?id=30678731
 
+https://arxiv.org/abs/2112.05829 Self-lensing flares from black hole binaries II: observing black hole shadows via light-curve tomography
+
 ###
 https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/
 

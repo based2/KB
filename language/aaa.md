@@ -126,6 +126,9 @@ https://matthewbutterick.com/chron/two-vexing-problems-in-functional-progamming.
 
 https://bartoszmilewski.com/2022/04/05/teaching-optics-through-conspiracy-theories/
 
+https://github.com/eashanhatti/peridot exploring the practical applications of two level type theory.
+> https://news.ycombinator.com/item?id=31325581
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721
@@ -263,6 +266,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://www.netmeister.org/blog/futurama.html
+> https://news.ycombinator.com/item?id=31323032
+
 https://atp.fm/205-chris-lattner-interview-transcript#gc Chris Lattner on garbage collection vs. Automatic Reference Counting (2017)
 > https://news.ycombinator.com/item?id=31139610
 

@@ -43,6 +43,9 @@ https://wuffs.org/blog/emulating-mac-compilers
 https://blog.persistent.info/2022/03/blog-post.html nfinite Mac: An Instant-Booting Quadra in Your Browser
 > https://news.ycombinator.com/item?id=30875259
 
+https://macos8.app/
+> https://news.ycombinator.com/item?id=31168646
+
 # HyperCard
 https://hypercard.org/
 

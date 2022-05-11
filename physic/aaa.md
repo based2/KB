@@ -69,6 +69,8 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://cse.umn.edu/college/news/energy-researchers-invent-chameleon-metal-acts-many-others
+
 https://www.nanotechnologyworld.org/post/making-a-sandwich-out-of-magnets-and-topological-insulators-potential-for-lossless-electronics
 > https://news.ycombinator.com/item?id=30985535
 

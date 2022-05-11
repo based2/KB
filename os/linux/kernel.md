@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://github.com/NVIDIA/open-gpu-kernel-modules
+> https://news.ycombinator.com/item?id=31345439
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom
 > https://news.ycombinator.com/item?id=31073145
 

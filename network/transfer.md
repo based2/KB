@@ -37,3 +37,6 @@ https://www.cambus.net/file-transfers-via-the-parallel-port-on-dos-using-laplink
 https://github.com/systemd/casync Content Addressable Data Synchronizer
 > https://news.ycombinator.com/item?id=31130975
 
+https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api
+> https://news.ycombinator.com/item?id=31315717
+

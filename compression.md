@@ -36,6 +36,9 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://github.com/kspalaiologos/bzip3
+> https://news.ycombinator.com/item?id=31324439
+
 https://roaringbitmap.org/
 
 https://news.ycombinator.com/item?id=26628154 tar

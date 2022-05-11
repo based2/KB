@@ -55,6 +55,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.thankyounorthface.com/
+> https://news.ycombinator.com/item?id=31342877
+
 https://www.theregister.com/2022/04/22/alibaba_patents/ Chinese e-commerce giant Alibaba makes 9 datacenter energy patents available
 
 https://www.theverge.com/2018/2/20/17031676/climate-change-lawsuits-fossil-fuel-new-york-santa-cruz

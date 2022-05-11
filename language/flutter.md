@@ -15,6 +15,9 @@ https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed
 https://shift.infinite.red/flutter-is-better-than-react-native-fed10c92a768
 > https://news.ycombinator.com/item?id=30699664
 
+https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release
+> https://news.ycombinator.com/item?id=31344863
+
 https://medium.com/flutter/whats-new-in-flutter-2-10-5aafb0314b12
 
 https://medium.com/flutter/announcing-flutter-2-8-31d2cb7e19f5

@@ -261,6 +261,23 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.kaggle.com/competitions/AI4Code
+
+https://cloud.google.com/blog/products/compute/google-unveils-worlds-largest-publicly-available-ml-cluster
+
+https://ai.googleblog.com/2022/05/alpa-automated-model-parallel-deep.html
+
+https://ai.googleblog.com/2022/05/graphworld-advances-in-graph.html
+
+https://www.quantamagazine.org/machine-scientists-distill-the-laws-of-physics-from-raw-data-20220510/
+> https://news.ycombinator.com/item?id=31335105
+
+https://www.pinecone.io/learn/bertopic/
+> https://news.ycombinator.com/item?id=31341250
+
+https://thegradient.pub/graph-neural-networks-beyond-message-passing-and-weisfeiler-lehman/
+> https://news.ycombinator.com/item?id=31317596
+
 https://www.deepmind.com/publications/graph-matching-networks-for-learning-the-similarity-of-graph-structured-objects
 
 https://ai.googleblog.com/2022/02/the-balloon-learning-environment.html

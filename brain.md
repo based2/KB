@@ -38,6 +38,10 @@ https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neuro
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://cosmosmagazine.com/science/biology/neurons-perception-of-time/
+
+https://physics.aps.org/articles/v15/s50 Quantum Field Theory Boosts Brain Model
+
 https://www.livescience.com/working-memory-secret-code
 
 https://neuroscience.stanford.edu/news/researchers-control-brain-circuits-distance-using-infrared-light

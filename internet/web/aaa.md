@@ -85,6 +85,12 @@ https://techcrunch.com/2022/04/18/web-scraping-legal-court/
 > https://news.ycombinator.com/item?id=31075396
 
 # News
+https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html WebView Community Group Proposed
+> https://news.ycombinator.com/item?id=31336593
+
+https://deno.com/blog/announcing-wintercg Announcing the Web-interoperable Runtimes Community Group
+> https://news.ycombinator.com/item?id=31313540
+
 https://www.insanelyusefulwebsites.com/
 > https://news.ycombinator.com/item?id=31099366
 

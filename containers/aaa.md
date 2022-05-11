@@ -36,6 +36,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.cncf.io/blog/2022/05/09/introducing-the-new-cncf-io/
+> https://news.ycombinator.com/item?id=31314253
+
 https://www.mupuf.org/blog/2022/04/15/setting-up-a-ci-system-part-4-live-patching-your-ci-gateway/
 
 https://github.com/replicate/cog Containers for Machine Learning

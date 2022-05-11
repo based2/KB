@@ -1,3 +1,22 @@
+https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/AMD_GPZ-Technical_Report_FINAL_05_2022.pdf
+> https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1028
+
+https://blog.silentsignal.eu/2021/10/14/fuzzy-snapshots-of-firefox-ipc/
+
+https://www.varonis.com/blog/url-spoofing
+
+https://zitadel.ch/blog/smishing
+> https://news.ycombinator.com/item?id=31337889
+
+https://tutanota.com/blog/posts/mitto-ag-surveillance/
+> https://news.ycombinator.com/item?id=31337091
+
+https://arstechnica.com/information-technology/2022/05/hackers-are-actively-exploiting-big-ip-vulnerability-with-a-9-8-severity-rating/
+> https://news.ycombinator.com/item?id=31319852
+
+https://www.nbcnews.com/tech/security/ransomware-attack-covid-combine-shutter-illinois-college-rcna24905
+> https://news.ycombinator.com/item?id=31315803
+
 https://vigilance.fr/vulnerabilite/Vim-corruption-de-memoire-via-eval-lambda-38138
 
 https://spring.io/blog/2022/04/13/spring-framework-data-binding-rules-vulnerability-cve-2022-22968

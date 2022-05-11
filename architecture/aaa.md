@@ -192,6 +192,9 @@ https://blog.sequin.io/events-not-webhooks
 https://r.bluethl.net/how-to-design-better-apis
 > https://news.ycombinator.com/item?id=30647784
 
+https://github.com/seamapi/prefixed-api-key
+> https://news.ycombinator.com/item?id=31333933
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966
@@ -207,6 +210,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks
+> https://news.ycombinator.com/item?id=31313894
+
 https://www.promarket.org/2022/04/15/seize-the-means-of-computation/
 > https://news.ycombinator.com/item?id=31069604
 

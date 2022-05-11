@@ -59,6 +59,12 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 #
+https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/
+> https://news.ycombinator.com/item?id=31340399
+
+https://rgl.epfl.ch/publications/Vicini2022SDF Differentiable Signed Distance Function Rendering
+> https://news.ycombinator.com/item?id=31314051
+
 https://ai.googleblog.com/2022/04/pix2seq-new-language-interface-for.html
 
 https://www.assemblyai.com/blog/how-dall-e-2-actually-works/

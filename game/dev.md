@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://news.ycombinator.com/item?id=31313449
+
 https://journal.stuffwithstuff.com/2014/12/21/rooms-and-mazes/
 > https://news.ycombinator.com/item?id=31096914
 

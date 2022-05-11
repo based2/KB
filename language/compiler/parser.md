@@ -16,3 +16,6 @@ https://lezer.codemirror.net/
 https://github.com/trailofbits/polytracker
 
 https://blog.gopheracademy.com/advent-2014/parsers-lexers/
+
+https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser
+> https://news.ycombinator.com/item?id=31311218

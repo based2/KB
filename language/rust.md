@@ -326,6 +326,8 @@ https://model-checking.github.io/kani/ Verification tool based on model checking
 https://highassurance.rs/
 > https://news.ycombinator.com/item?id=30829140
 
+https://news.ycombinator.com/item?id=31307006
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -363,6 +365,14 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.m-ou.se/floats/
+> https://news.ycombinator.com/item?id=31325921
+
+https://shopify.engineering/porting-yjit-ruby-compiler-to-rust
+
+https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html
+> https://news.ycombinator.com/item?id=31297550
+
 https://belkadan.com/blog/2022/04/Default-Arguments-and-Label-based-Overloading/
 
 https://blog.theincredibleholk.org/blog/2022/04/18/how-async-functions-in-traits-could-work-in-rustc/

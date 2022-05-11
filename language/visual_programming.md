@@ -26,4 +26,9 @@ https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14
 https://www.media.mit.edu/projects/2d-an-exploration-of-drawing-as-programming-language-featuring-ideas-from-lambda-calculus/overview/
 > https://news.ycombinator.com/item?id=30932552
 
+https://news.ycombinator.com/item?id=31314093
+
+https://blogic.so/
+> https://news.ycombinator.com/item?id=31335887
+
 
