@@ -31,6 +31,10 @@ https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attack
 https://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html
 > https://news.ycombinator.com/item?id=30187633
 
+https://research.kudelskisecurity.com/2022/05/11/practical-bruteforce-of-aes-1024-military-grade-encryption/
+> https://news.ycombinator.com/item?id=31235427
+> https://news.ycombinator.com/item?id=31359271
+
 ## AES-GCM
 https://news.ycombinator.com/item?id=27338479
 

@@ -21,5 +21,8 @@ https://writing.kemitchell.com/2022/03/05/Russia-to-Legalize-Software-Piracy.htm
 https://www.patrick-breyer.de/en/eu-digital-services-act-industry-and-government-interests-prevail-over-citizens-digital-rights/
 > https://news.ycombinator.com/item?id=31132417
 
+https://macwright.com/2020/08/22/clean-starts-for-the-web.html
+> https://news.ycombinator.com/item?id=31373643
+
 
 

@@ -216,6 +216,11 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html
+> https://news.ycombinator.com/item?id=31348097
+
+https://bytepawn.com/building-a-toy-python-dataclass-decorator.html
+
 https://python.natto.dev/
 > https://news.ycombinator.com/item?id=31320335
 

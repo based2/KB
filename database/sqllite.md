@@ -91,6 +91,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://datastation.multiprocess.io/blog/2022-05-12-sqlite-in-go-with-and-without-cgo.html
+> https://news.ycombinator.com/item?id=31364166
+
 https://news.ycombinator.com/item?id=31152490 Ask HN: Have you used SQLite as a primary database?
 
 https://tip.litestream.io/guides/read-replica/

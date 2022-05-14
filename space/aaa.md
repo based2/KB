@@ -143,6 +143,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.vintag.es/2022/02/first-photo-from-space.html
+> https://news.ycombinator.com/item?id=31374352
+
 https://www.theregister.com/2022/04/25/sentinel_1b_update/
 
 https://www.universetoday.com/155433/plutos-orbit-is-surprisingly-unstable/

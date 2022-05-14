@@ -87,6 +87,12 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://www.rfc-editor.org/info/rfc9250 DNS over Dedicated QUIC Connections
+> https://news.ycombinator.com/item?id=31347478
+
+https://blog.apnic.net/2022/05/13/open-dns-resolvers-from-bad-to-worse/
+> https://news.ycombinator.com/item?id=31369779
+
 https://github.com/natesales/q Show HN: "q", a DNS query tool with support for UDP, TCP, DoT, DoH, DoQ and ODoH
 > https://news.ycombinator.com/item?id=31064423
 

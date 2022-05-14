@@ -255,6 +255,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.reddit.com/r/java/comments/ujwe0j/whats_your_top_java_pet_peeve/
+
+https://www.reddit.com/r/java/comments/uke2hx/wiredi_framework_for_dependency_injection_at/
+
 https://www.infoq.com/news/2022/04/java-news-roundup-apr11-2022/
 
 https://foojay.io/today/introducing-the-openjdk-coordinated-restore-at-checkpoint-project/

@@ -70,6 +70,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer
+> https://news.ycombinator.com/item?id=31364668
+
 https://old.reddit.com/r/sysadmin/comments/9mk2o7/mri_disabled_every_ios_device_in_facility/
 > https://news.ycombinator.com/item?id=31339296
 

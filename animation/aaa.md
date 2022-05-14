@@ -64,6 +64,14 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://jason.today/falling-sand
+
+https://blinry.org/50-tic80-carts/
+> https://news.ycombinator.com/item?id=31374855
+
+https://sliderland.blinry.org/
+> https://news.ycombinator.com/item?id=31368753
+
 https://viz.intelligence.rocks/
 > https://news.ycombinator.com/item?id=31311463
 

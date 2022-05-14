@@ -365,6 +365,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://www.geekabyte.io/2020/01/learning-rust-day-4-understanding.html
+> https://news.ycombinator.com/item?id=31353170
+
 https://blog.m-ou.se/floats/
 > https://news.ycombinator.com/item?id=31325921
 

@@ -1,3 +1,5 @@
+https://blog.zakkemble.net/routerpi-compute-module-4-router/
+
 https://gwolf.org/2022/04/how-is-the-free-firmware-for-the-raspberry-progressing.html
 > https://news.ycombinator.com/item?id=31000725
 

@@ -12,6 +12,15 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.designboom.com/technology/thermophotovoltaic-cell-converts-40-percent-heat-energy-to-electricity-05-13-2022/
+> https://news.ycombinator.com/item?id=31376386
+
+https://singularityhub.com/2022/05/11/this-mini-portable-wind-turbine-is-the-size-of-a-water-bottle-and-charges-devices-in-under-an-hour/
+> https://news.ycombinator.com/item?id=31373903
+
+https://www.nrel.gov/news/features/2022/the-future-of-distributed-wind-in-the-united-states-considerations-for-unlocking-terawatt-level-potential.html
+> https://news.ycombinator.com/item?id=31360103
+
 https://xlinks.co/morocco-uk-power-project/
 > https://news.ycombinator.com/item?id=31143636
 

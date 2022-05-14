@@ -223,18 +223,12 @@ https://text2quiz.vercel.app/
 
 src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-numeriques-libres-39939967.htm
 
-
-
-
-
-
-
-
-
 # Archive
 https://libregraphicsmag.com/index.html
 
 # News
+https://news.ycombinator.com/item?id=31375646
+
 https://github.com/inventree/InvenTree inventory management system
 > https://news.ycombinator.com/item?id=31030047
 

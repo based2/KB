@@ -1,3 +1,9 @@
+# Security
+https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
+> https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
+
+# News
+
 https://blog.cloudflare.com/introducing-d1/ database designed for Cloudflare Workers
 > https://news.ycombinator.com/item?id=31339299
 
@@ -65,3 +71,4 @@ https://github.com/cloudflare/miniflare test
 
 https://blog.cloudflare.com/announcing-cloudflare-images/
 > https://news.ycombinator.com/item?id=28562917
+ 

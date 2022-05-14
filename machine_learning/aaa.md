@@ -254,6 +254,10 @@ https://gitlab.tue.nl/20040367/pybaobab
 https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/MYCIN%20Book.htm
 > https://news.ycombinator.com/item?id=29439117
 
+# Legal
+https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination
+> https://news.ycombinator.com/item?id=31365053
+
 # History
 https://news.ycombinator.com/item?id=28343118
 
@@ -261,6 +265,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.deepmind.com/publications/a-generalist-agent
+> https://news.ycombinator.com/item?id=31355657
+> https://news.ycombinator.com/item?id=31355638
+
 https://www.kaggle.com/competitions/AI4Code
 
 https://cloud.google.com/blog/products/compute/google-unveils-worlds-largest-publicly-available-ml-cluster

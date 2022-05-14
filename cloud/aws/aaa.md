@@ -68,7 +68,13 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://news.ycombinator.com/item?id=29078403
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
+# Incident
+https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-backfill-attack/
+> https://www.reddit.com/r/netsec/comments/ugkybz/aws_targeted_by_a_package_backfill_attack/
+
 # News
+https://www.lastweekinaws.com/blog/awss-deprecation-policy-is-like-a-platypus/
+
 https://dev.to/aws/aws-open-source-news-and-updates-109-4ejb
 
 https://aws.amazon.com/en/blogs/compute/running-cross-account-workflows-with-aws-step-functions-and-amazon-api-gateway/

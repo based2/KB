@@ -131,6 +131,8 @@ https://lemire.me/blog/2022/03/28/converting-integers-to-decimal-strings-faster-
 
 https://news.ycombinator.com/item?id=30907433 Use LC_ALL=C for big ASCII sorts
 
+https://easyperf.net/blog/2022/05/11/Visualizing-Performance-Critical-Dependency-Chains
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -194,6 +196,8 @@ https://r.bluethl.net/how-to-design-better-apis
 
 https://github.com/seamapi/prefixed-api-key
 > https://news.ycombinator.com/item?id=31333933
+
+https://thenewstack.io/a-new-architecture-for-apis/
 
 # Books
 https://github.com/mhadidg/software-architecture-books

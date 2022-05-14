@@ -69,6 +69,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-rc/
+
 https://ivov.dev/notes/typescript-and-set-theory
 
 https://github.com/suren-atoyan/react-pwa

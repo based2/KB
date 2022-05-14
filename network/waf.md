@@ -43,6 +43,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://diablohorn.com/2022/04/09/firewall-analysis-a-portable-graph-based-approach/
+
 https://blog.cloudflare.com/new-firewall-tab-and-analytics/
 
 https://blog.cloudflare.com/magic-firewall-optimizing-ip-lists/

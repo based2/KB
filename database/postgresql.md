@@ -231,7 +231,7 @@ https://www.kubegres.io/
 https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/
 > https://news.ycombinator.com/item?id=28758162
  
-## K8S
+## K8s
 https://stackgres.io/
 > https://news.ycombinator.com/item?id=28865432
 
@@ -239,6 +239,9 @@ https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes
 > https://news.ycombinator.com/item?id=28767637
 
 https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
+
+https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kubernetes-operator-postgres
+> https://news.ycombinator.com/item?id=31366983
 
 # News
 https://pganalyze.com/blog/how-postgres-chooses-index

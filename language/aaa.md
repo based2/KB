@@ -129,6 +129,8 @@ https://bartoszmilewski.com/2022/04/05/teaching-optics-through-conspiracy-theori
 https://github.com/eashanhatti/peridot exploring the practical applications of two level type theory.
 > https://news.ycombinator.com/item?id=31325581
 
+https://www.tweag.io/blog/2022-05-05-existential-optics/
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721
@@ -266,6 +268,19 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://tratt.net/laurie/blog/2022/programming_style_influences.html
+
+https://github.com/dyu/ffi-overhead
+
+https://ziglang.org/
+> https://news.ycombinator.com/item?id=31357778
+
+https://tokay.dev/ imperative, procedural programming language dedicated to parsing and other text-processing tasks
+> https://news.ycombinator.com/item?id=31362049
+
+https://codeberg.org/ngn/k fast vector
+> https://news.ycombinator.com/item?id=31361023
+
 https://www.netmeister.org/blog/futurama.html
 > https://news.ycombinator.com/item?id=31323032
 

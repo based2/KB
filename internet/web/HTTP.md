@@ -110,7 +110,10 @@ https://portswigger.net/research/http2
 
 https://blog.px.dev/ebpf-http2-tracing/
 
-# HTTP/3
+# QUIC HTTP/3
+https://quic.ulfheim.net/
+> https://www.reddit.com/r/netsec/comments/u9fip1/the_illustrated_quic_connection/
+
 https://blog.cloudflare.com/http3-the-past-present-and-future/
 
 https://blog.eban.bzh/misc/http3.html

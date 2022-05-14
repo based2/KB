@@ -101,6 +101,11 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://en.wikipedia.org/wiki/Volume_of_an_n-ball
+> https://news.ycombinator.com/item?id=31348463
+
+https://harryking.me/posts/2022/pi-by-hand.html
+
 https://terrytao.wordpress.com/2022/05/10/partially-specified-mathematical-objects-ambient-parameters-and-asymptotic-notation/
 
 https://rbutterworth.nfshost.com/Tables/romanmult/

@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://duckdb.org/2022/05/04/friendlier-sql.html
+> https://news.ycombinator.com/item?id=31355050
+
 http://revj.sourceforge.net/ Reverse Snowflake Joins
 > https://news.ycombinator.com/item?id=30853200
 

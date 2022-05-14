@@ -4,6 +4,11 @@ https://github.com/cea-sec/miasm
 https://github.com/qilingframework/qiling Advanced binary emulation framework
 
 #
+https://genodians.org/ssumpf/2022-05-09-telephony Pinephone
+
+https://www.righto.com/2022/05/talking-with-moon-inside-apollos.html
+> https://news.ycombinator.com/item?id=31368713
+
 http://blog.petersobot.com/patching-the-k2500
 > https://news.ycombinator.com/item?id=31144106
 

@@ -55,6 +55,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.noureddine.org/research/joular/joularjx
+
 https://www.thankyounorthface.com/
 > https://news.ycombinator.com/item?id=31342877
 

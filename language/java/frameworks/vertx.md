@@ -17,3 +17,5 @@ https://reactiverse.io/
 https://stackoverflow.com/questions/49775238/vertx-web-server-uses-only-one-event-loop-thread-while-16-are-available
 
 https://fdk.codes/you-might-not-need-dependency-injection-in-a-vertx-application/
+
+https://vertx.io/blog/whats-new-in-vert-x-4-3/

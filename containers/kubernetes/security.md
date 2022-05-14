@@ -25,6 +25,11 @@ https://github.com/quay/clair Red Hat
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
 # News
+https://smart7.in/2022/03/30/Kubernetes-Cluster-Attack-Defense-Importance-of-Network-Policies.html
+
+https://madhuakula.com/kubernetes-goat/
+> https://www.reddit.com/r/netsec/comments/ue2q4d/kubernetes_goat_interactive_kubernetes_security/
+
 https://sysdig.com/blog/guide-kubernetes-forensics-dfir/
 
 https://www.zdnet.com/article/nsa-and-cisa-heres-how-to-improve-your-kubernetes-cluster-security/

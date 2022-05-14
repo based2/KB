@@ -51,6 +51,9 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 # News
+https://www.infoq.com/news/2022/04/red-hat-releases-hibernate-6/
+> https://www.reddit.com/r/java/comments/ufbohj/hibernate_orm_60_delivers_improved_performance/
+
 https://in.relation.to/2022/03/31/orm-60-final/
 > https://www.reddit.com/r/java/comments/tv1v1t/hibernate_6_has_arrived/
 

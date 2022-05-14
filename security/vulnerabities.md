@@ -111,6 +111,8 @@ https://en.wikipedia.org/wiki/Lazy_FP_state_restore
 https://github.com/xoreaxeaxeax/rosenbridge https://en.wikipedia.org/wiki/Alternate_Instruction_Set
 
 ## 2017
+https://en.wikipedia.org/wiki/WannaCry_ransomware_attack
+
 https://robotattack.org/
 
 https://en.wikipedia.org/wiki/EFAIL Email encryption
@@ -139,6 +141,7 @@ https://www.krackattacks.com/ WPA2
 https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/
 
 https://www.cyberark.com/resources/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-to-cloud-apps Golden SAML
+
 
 https://en.wikipedia.org/wiki/Triton_(malware)
 
@@ -218,12 +221,17 @@ https://www.win.tue.nl/hashclash/rogue-ca/ MD5
 https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia
 
 ## 2005
+
+https://en.wikipedia.org/wiki/Billion_laughs_attack
+
 https://en.wikipedia.org/wiki/HTTP_request_smuggling
 
 ## 2004
 https://en.wikipedia.org/wiki/Bluesnarfing
 
 ## 2002
+https://en.wikipedia.org/wiki/XML_external_entity_attack
+
 https://en.wikipedia.org/wiki/Shatter_attack Windows
 
 https://en.wikipedia.org/wiki/Padding_oracle_attack

@@ -97,6 +97,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://en.wikipedia.org/wiki/Soundies
+> https://news.ycombinator.com/item?id=31361244
+
 https://news.ycombinator.com/item?id=31317989 Ask HN: Why does nobody support h.265/HEVC anymore?
 
 https://zulko.github.io/moviepy/

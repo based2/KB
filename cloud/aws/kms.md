@@ -1,0 +1,1 @@
+https://www.reddit.com/r/java/comments/unyn66/envelope_encryption_in_java_using_aws_kms/

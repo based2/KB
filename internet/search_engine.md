@@ -60,6 +60,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://www.oldestsearch.com/
+> https://news.ycombinator.com/item?id=31333436
+
 https://blog.google/products/search/multisearch/
 
 https://dkb.io/post/the-next-google

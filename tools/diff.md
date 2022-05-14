@@ -26,6 +26,8 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://github.com/Tufin/oasdiff diff tool for OpenAPI Spec 3
+
 https://github.com/Wilfred/difftastic
 > https://news.ycombinator.com/item?id=30841244
 

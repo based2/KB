@@ -74,6 +74,9 @@ https://engineering.mixpanel.com/live-downsizing-google-cloud-persistent-disks-f
 https://supabase.com/blog/2022/03/31/supabase-edge-functions
 > https://news.ycombinator.com/item?id=30868849
 
+# Security
+https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
+
 # Incidents
 
 https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-033.pdf RCE Vulnerabilities in Microsoft Azure Synapse
@@ -107,6 +110,10 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+
+https://dokku.com/
+> https://news.ycombinator.com/item?id=31376241
+
 https://news.ycombinator.com/item?id=31342436 Ask HN: Options for handling state at the edge?
 
 https://www.abcdesktop.io/

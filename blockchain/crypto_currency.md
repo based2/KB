@@ -16,10 +16,18 @@ https://www.impots.gouv.fr/portail/formulaire/3916/declaration-par-un-resident-d
 
 src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fiscaux-des-cryptomonnaies
 
+# DE
+https://news.ycombinator.com/item?id=31366660
+
 # History
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.cnbc.com/2022/05/13/cryptocurrency-luna-crashes-to-0-as-ust-falls-from-peg-bitcoin-rises.html
+> https://news.ycombinator.com/item?id=31365158
+> > https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/
+> > > https://news.ycombinator.com/item?id=31371900
+
 https://jpkoning.blogspot.com/2022/05/the-tragedy-of-dogecoin.html
 > https://news.ycombinator.com/item?id=31335963
 

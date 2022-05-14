@@ -27,6 +27,9 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://www.nature.com/articles/s42003-022-03334-8 Plants grown in Apollo lunar regolith present stress-associated transcriptomes that inform prospects for lunar exploration
+> https://news.ycombinator.com/item?id=31358609
+
 https://github.com/EngineersNeedArt/Mooncraft2000
 > https://news.ycombinator.com/item?id=31153333
 

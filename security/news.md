@@ -1,3 +1,72 @@
+https://www.aaron-powell.com/posts/2022-05-10-breaking-down-a-phishing-attempt/
+
+https://www.huntress.com/blog/evicting-the-adversary
+
+https://www.dtonomy.com/cybersec-cheat-sheets/
+
+https://dolosgroup.io/blog/2022/4/28/anatomy-of-a-zero-day-how-to-decrypt-a-robot
+
+https://wpengfei.github.io/cpedoc-accepted.pdf A Survey of The Double-Fetch Vulnerabilities
+
+https://www.mandiant.com/resources/unc3524-eye-spy-email
+
+https://fourcore.io/blogs/nimbuspwn-linux-vulnerabilities-allows-root-access-cve-2022-29799-and-cve-2022-29800
+> https://www.reddit.com/r/netsec/comments/uhmdg4/privilege_escalation_vulnerabilities_discovered/
+
+https://blog.google/threat-analysis-group/update-on-cyber-activity-in-eastern-europe/
+
+https://claroty.com/2022/05/04/blog-research-from-kbs-to-cves-understanding-the-relationships-between-windows-security-updates-and-vulnerabilities/
+
+https://research.nccgroup.com/2022/05/05/north-koreas-lazarus-and-their-initial-access-trade-craft-using-social-media-and-social-engineering/
+
+https://www.randori.com/blog/vulnerability-analysis-cve-2022-1388/
+
+https://remyhax.xyz/posts/do-harm/ Windows Delivery Optimization
+> https://www.reddit.com/r/netsec/comments/uh5klt/doing_harm/
+
+https://research.ifcr.dk/certifried-active-directory-domain-privilege-escalation-cve-2022-26923-9e098fe298f4
+> https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf
+> https://posts.specterops.io/certified-pre-owned-d95910965cd2
+> https://www.reddit.com/r/netsec/comments/umsbzx/certifried_active_directory_domain_privilege/
+
+https://www.trustedsec.com/blog/diving-into-pre-created-computer-accounts/
+> https://www.reddit.com/r/netsec/comments/umieqe/diving_into_precreated_computer_accounts_in/
+
+https://offsec.almond.consulting/bypassing-ldap-channel-binding-with-starttls.html
+
+https://offsec.almond.consulting/authenticating-with-certificates-when-pkinit-is-not-supported.html
+
+https://r0075h3ll.github.io/CSP-for-Dummies/
+
+https://secret.club/2022/05/11/fuzzing-solana.html
+> https://news.ycombinator.com/item?id=31346190
+
+https://cybergeeks.tech/powershell-scripts-used-to-run-malicious-shellcode-reverse-shell-vs-bind-shell/
+
+https://portswigger.net/research/hunting-evasive-vulnerabilities
+
+https://basyounii.medium.com/forging-oauth-tokens-using-discovered-client-id-and-client-secret-d224e4e7892a
+
+https://www.kiratas.com/playstation-hole-in-netbsd-driver-could-allow-code-smuggling-2/
+
+https://sysdig.com/blog/blackhat-asia-2022-trends/
+
+https://arstechnica.com/information-technology/2022/05/zyxel-silently-patches-command-injection-vulnerability-with-9-8-severity-rating/
+> https://www.rapid7.com/blog/post/2022/05/12/cve-2022-30525-fixed-zyxel-firewall-unauthenticated-remote-command-injection/
+> https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/
+> > https://www.reddit.com/r/netsec/comments/uhd9ye/zyxel_firmware_extraction_and_password_analysis/
+
+https://news.ycombinator.com/item?id=31359218
+
+https://blog.grimm-co.com/2022/04/no-hardware-no-problem-emulation-and.html
+
+https://aws.amazon.com/en/blogs/opensource/aws-investing-an-additional-10-million-in-open-source-supply-chain-security/
+
+https://arxiv.org/abs/2205.06114 Evil Never Sleeps: When Wireless Malware Stays On After Turning Off iPhones
+> https://news.ycombinator.com/item?id=31364849
+
+https://news.sophos.com/en-us/2020/02/06/living-off-another-land-ransomware-borrows-vulnerable-driver-to-remove-security-software/
+
 https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/AMD_GPZ-Technical_Report_FINAL_05_2022.pdf
 > https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1028
 
@@ -741,6 +810,7 @@ https://dirtypipe.cm4all.com/ CVE-2022-0847
 > https://arstechnica.com/information-technology/2022/03/researcher-uses-dirty-pipe-exploit-to-fully-root-a-pixel-6-pro-and-samsung-s22/
 > https://www.hackthebox.com/blog/Dirty-Pipe-Explained-CVE-2022-0847
 > https://www.hackthebox.com/blog/Dirty-Pipe-Explained-CVE-2022-0847
+> https://0x434b.dev/learning-linux-kernel-exploitation-part-2-cve-2022-0847/
 
 https://0ut3r.space/2022/03/06/windows-defender/
 > https://news.ycombinator.com/item?id=30580444

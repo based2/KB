@@ -86,6 +86,14 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://npf.io/2022/05/safer-enums/
+> https://news.ycombinator.com/item?id=31377025
+
+https://github.com/livebud/bud Fullstack Go Framework
+> https://news.ycombinator.com/item?id=31371340
+
+https://www.tbray.org/ongoing/When/202x/2022/05/12/Quamina matcher
+
 https://github.com/charmbracelet/bubbletea
 > https://news.ycombinator.com/item?id=31328205
 

@@ -5,6 +5,12 @@ https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-
 
 https://github.com/jsa2/aad-auth-n-z
 
+#
+https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/
+> https://www.reddit.com/r/netsec/comments/udu4hd/nimbuspwn_detector_cve202229799_cve202229800/
+
+https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
+
 # News
 https://github.com/rcarmo/azure-k3s-cluster
 

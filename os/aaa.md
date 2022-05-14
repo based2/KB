@@ -13,7 +13,13 @@ https://ikkiboot.tuxfamily.org/en/index_en.html DVD/USB multiboot rescue
 
 https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 
+# Embedded
+https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
+> https://news.ycombinator.com/item?id=31363738
+
 # News
+https://direct.mit.edu/books/book/5003/Ideas-That-Created-the-FutureClassic-Papers-of
+
 http://collapseos.org/
 > https://news.ycombinator.com/item?id=31340518
 

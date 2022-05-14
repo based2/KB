@@ -17,6 +17,9 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://sysdig.com/blog/containers-read-only-fileless-malware/
+> https://www.reddit.com/r/netsec/comments/uhjkbo/compromising_readonly_containers_with_fileless/
+
 https://www.containiq.com/post/hadolint Using Hadolint, a Dockerfile linter, To Enforce Best Practices
 
 https://unit42.paloaltonetworks.com/siloscape/

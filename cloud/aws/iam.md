@@ -41,6 +41,8 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://blog.symops.com/2022/05/06/least-privilege-policies-from-aws-logs/
+
 https://github.com/nccgroup/PMapper
 
 https://github.com/glassechidna/trackiam

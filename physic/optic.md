@@ -70,3 +70,8 @@ https://www.nasa.gov/press-release/nasa-s-webb-reaches-alignment-milestone-optic
 
 https://www.bbc.com/future/article/20220407-the-living-lights-that-could-reduce-energy-use
 > https://news.ycombinator.com/item?id=31060095
+
+https://news.ycombinator.com/item?id=31356109
+
+https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-help-2-5-billion-people-and-nasa-1.10452996
+> https://news.ycombinator.com/item?id=31347740

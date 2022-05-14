@@ -32,3 +32,6 @@ https://github.com/notthetup/awesome-webaudio
 
 https://alexanderell.is/posts/tuner/
 > 
+
+https://www.taniarascia.com/musical-instrument-web-audio-api/
+> https://news.ycombinator.com/item?id=31329587

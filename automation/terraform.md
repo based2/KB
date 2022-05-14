@@ -68,6 +68,11 @@ https://aquasecurity.github.io/tfsec/
 https://www.validiac.com/ ui
 
 # News
+https://devdosvid.blog/2022/05/04/new-lifecycle-options-and-refactoring-capabilities-in-terraform-1-1-and-1-2/
+
+https://techcommunity.microsoft.com/t5/itops-talk-blog/azure-terrafy-import-your-existing-azure-infrastructure-into/ba-p/3357653?WT.mc_id=modinfra-566685-socuff
+> https://github.com/andreipintica/azure-terrafy-handsonlab
+
 https://github.com/nike-inc/pterradactyl abstract TF configuration from the TF environment setup
 
 https://engineering.hardfin.com/2022/04/emulate-rds-permissions/
