@@ -21,6 +21,9 @@ https://blog.assetnote.io/2022/02/13/dangling-eips/
 https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 
 #
+https://aws.amazon.com/de/blogs/aws/amazon-ec2-now-supports-nitrotpm-and-uefi-secure-boot/
+> https://www.heise.de/news/NitroTPM-Amazons-virtueller-Sicherheitschip-fuer-Windows-und-Linux-7091802.html
+
 https://rhinosecuritylabs.com/cloud-security/cloudgoat-vulnerable-lambda-functions/
 
 https://github.com/Datadog/stratus-red-team/ "Stratus Red Team": open-source adversary emulation for AWS

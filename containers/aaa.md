@@ -22,6 +22,8 @@ https://fly.io/blog/measuring-fly/
 https://katacontainers.io/
 > https://news.ycombinator.com/item?id=15867822
 
+https://github.com/Friz-zy/awesome-linux-containers
+
 # Firecraker
 
 https://firecracker-microvm.github.io/
@@ -36,6 +38,10 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.techrepublic.com/article/install-podman-ubuntu/
+
+https://linuxfr.org/users/trim/journaux/utiliser-podman-en-mode-rootless-pour-executer-en-service-des-containers-rootless
+
 https://www.cncf.io/blog/2022/05/09/introducing-the-new-cncf-io/
 > https://news.ycombinator.com/item?id=31314253
 

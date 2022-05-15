@@ -36,6 +36,11 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 > https://news.ycombinator.com/item?id=29388588
 
 # News
+https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b
+
+https://blog.cloudflare.com/part1-coreless-purge/
+> https://news.ycombinator.com/item?id=31379829
+
 https://www.usenix.org/legacy/publications/library/proceedings/als00/2000papers/papers/full_papers/sears/sears_html/index.html
 > https://news.ycombinator.com/item?id=30356292
 

@@ -104,7 +104,12 @@ https://news.ycombinator.com/item?id=27650775
 
 https://netbox.readthedocs.io/en/stable/
 
+https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
+
 # News
+https://michael.stapelberg.ch/posts/2022-05-14-http-and-https-download-25gbit/
+> https://lobste.rs/s/xdo53i/25_gbit_s_http_https_download_speeds
+
 https://www.trickster.dev/post/scapy-low-level-packet-hacking-toolkit-for-python/
 > https://news.ycombinator.com/item?id=31304178
 

@@ -25,6 +25,13 @@ https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/
 
 https://bryce.co/xcode-vim-map/
 
+https://support.apple.com/guide/security/sec469d47bd8/web
+> https://apple.stackexchange.com/questions/329532/where-does-gatekeeper-xprotect-log-to
+> https://eclecticlight.co/2020/10/27/xprotect-what-do-we-know-about-it/
+> https://www.sentinelone.com/blog/apples-malware-removal-mrt-tool-update/
+> https://www.reddit.com/r/macsysadmin/comments/sznw8u/xprotect_logs_on_monterey/
+> https://nixhacker.com/security-protection-in-macos-2/
+
 # VM
 https://github.com/foxlet/macOS-Simple-KVM
 

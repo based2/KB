@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.nytimes.com/2022/05/14/business/sam-bankman-fried-ftx-crypto.html
+> https://news.ycombinator.com/item?id=31380061
+
 https://www.cnbc.com/2022/05/13/cryptocurrency-luna-crashes-to-0-as-ust-falls-from-peg-bitcoin-rises.html
 > https://news.ycombinator.com/item?id=31365158
 > > https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/

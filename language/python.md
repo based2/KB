@@ -216,6 +216,18 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://pwn.win/2022/05/11/python-buffered-reader.html
+> https://news.ycombinator.com/item?id=31384230
+
+https://linuxfr.org/users/linkdd/journaux/sunday-python-pattern-une-machine-a-etat-toute-simple bdsm
+
+https://reorx.com/blog/python-yaml-tips/
+> https://news.ycombinator.com/item?id=31386469
+
+https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit_11.html
+
+https://cheigh.me/blog/posts/2022-05-10-enforcing-zero-downtime-django-migrations.html
+
 https://pyfound.blogspot.com/2022/05/the-2022-python-language-summit-python_11.html
 > https://news.ycombinator.com/item?id=31348097
 

@@ -12,6 +12,11 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/
+> https://news.ycombinator.com/item?id=31375145
+
+https://edition.cnn.com/2022/05/14/us/texas-heat-wave-ercot-conserve/index.html
+
 https://www.designboom.com/technology/thermophotovoltaic-cell-converts-40-percent-heat-energy-to-electricity-05-13-2022/
 > https://news.ycombinator.com/item?id=31376386
 

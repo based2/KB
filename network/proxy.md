@@ -24,6 +24,8 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://github.com/fatedier/frp#access-your-computer-in-lan-by-ssh
+
 https://www.agwa.name/blog/post/using_sni_proxying_and_ipv6_to_share_port_443
 > https://news.ycombinator.com/item?id=31120137
 

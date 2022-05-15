@@ -227,6 +227,15 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://engineering.atspotify.com/2022/04/announcing-the-spotify-foss-fund/
+
+https://www.prnewswire.com/news-releases/phylum-raises-15-million-to-proactively-defend-the-open-source-supply-chain-301537863.html
+
+https://kdeconnect.kde.org/
+> https://news.ycombinator.com/item?id=31382663 iOS
+
+https://eliran-turgeman.github.io/posts/content-aggregator/ python
+
 https://news.ycombinator.com/item?id=31375646
 
 https://github.com/inventree/InvenTree inventory management system

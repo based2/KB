@@ -112,6 +112,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/
+> https://news.ycombinator.com/item?id=31385182
+
 https://a16z.com/2022/04/21/announcing-a16z-crypto-research/
 > https://news.ycombinator.com/item?id=31112043
 

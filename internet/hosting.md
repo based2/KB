@@ -27,3 +27,6 @@ https://www.netlify.com/blog/2016/09/21/a-step-by-step-guide-victor-hugo-on-netl
 
 https://darekkay.com/blog/static-site-comments/
 > https://news.ycombinator.com/item?id=29264455
+
+https://soupault.app/blog/soupault-4.0.0-release/
+> https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll

@@ -70,6 +70,10 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://www.pmbanugo.me/blog/2022-02-13-from-aws-lambda-api-gateway-to-knative-kong-api-gateway/
+
+https://aws.amazon.com/en/about-aws/whats-new/2022/05/aws-lambda-adds-support-node-js-16/
+
 https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/
 > https://news.ycombinator.com/item?id=30827038
 

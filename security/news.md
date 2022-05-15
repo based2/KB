@@ -1,3 +1,31 @@
+https://www.bleepingcomputer.com/news/security/windows-11-tool-to-add-google-play-secretly-installed-malware/
+
+https://doublepulsar.com/bpfdoor-an-active-chinese-global-surveillance-tool-54b078f1a896
+> https://www.bleepingcomputer.com/news/security/bpfdoor-stealthy-linux-malware-bypasses-firewalls-for-remote-access/
+
+https://raw.githubusercontent.com/dck-one/eBook/main/IT-Security-Drama-EN.pdf BlockKeeper
+
+https://huntr.dev/bounties/0d737527-86e1-41d1-9d37-b2de36bc063a/ CVE-2022-1379 validation of URLs contains flaws that allow bypassing security restrictions that are applied in the security profiles of PlantUML
+
+https://www.theregister.com/2022/05/11/microsoft_patch_tuesday/
+> https://www.bleepingcomputer.com/news/microsoft/microsoft-may-windows-updates-cause-ad-authentication-failures/
+
+https://www.openssl.org/news/secadv/20220503.txt
+
+https://vigilance.fr/vulnerabilite/Jenkins-plugins-vulnerabilite-devoilee-le-17-05-2022-38365
+
+https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-029.pdf Oracle Java SE RCE Vulnerability April 26, 2022 Oracle Java SE RCE Vulnerability CVE-2022-21449
+
+https://www.bmj.com/content/377/bmj.o1126
+> https://news.ycombinator.com/item?id=31381014
+
+https://bugs.chromium.org/p/project-zero/issues/detail?id=2276
+> https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-30594  Linux kernel before 5.17.2 mishandles seccomp permissions. The PTRACE_SEIZE code path allows attackers to bypass intended restrictions on setting the PT_SUSPEND_SECCOMP flag
+
+https://www.synopsys.com/blogs/software-security/cyrc-vulnerability-analysis-gzip/ CVE-2022-1271: Add hardening for zgrep
+
+https://support.hp.com/us-en/document/ish_6184733-6184761-16/hpsbhf03788
+
 https://www.aaron-powell.com/posts/2022-05-10-breaking-down-a-phishing-attempt/
 
 https://www.huntress.com/blog/evicting-the-adversary
@@ -66,6 +94,12 @@ https://arxiv.org/abs/2205.06114 Evil Never Sleeps: When Wireless Malware Stays 
 > https://news.ycombinator.com/item?id=31364849
 
 https://news.sophos.com/en-us/2020/02/06/living-off-another-land-ransomware-borrows-vulnerable-driver-to-remove-security-software/
+
+https://www.prefetchers.info/ Apple Silicon DPM: Augury: Using Data Memory-Dependent Prefetchers to Leak Data at Rest
+> https://www.prefetchers.info/augury.pdf
+> https://homes.cs.washington.edu/~dkohlbre/papers/pandora_isca2021.pdf
+
+https://vigilance.fr/vulnerabilite/Microcode-Intel-multiples-vulnerabilites-38339
 
 https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/AMD_GPZ-Technical_Report_FINAL_05_2022.pdf
 > https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1028

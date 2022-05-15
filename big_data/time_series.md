@@ -18,3 +18,6 @@ https://duckdb.org/2022/01/06/time-zones.html
 
 https://aicoding.substack.com/p/mindsdb-time-series
 > https://news.ycombinator.com/item?id=30424575
+
+https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html
+> https://news.ycombinator.com/item?id=31379383

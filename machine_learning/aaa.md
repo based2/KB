@@ -265,6 +265,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://crowdsource.google.com/about/
+> https://news.ycombinator.com/item?id=31384809
+
+https://pwy.io/en/posts/learning-to-fly-pt1/
+
 https://www.deepmind.com/publications/a-generalist-agent
 > https://news.ycombinator.com/item?id=31355657
 > https://news.ycombinator.com/item?id=31355638

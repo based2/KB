@@ -157,7 +157,7 @@ https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 https://travis-ci.community/t/security-bulletin/12081
 > https://news.ycombinator.com/item?id=28523350
 
-sourceforge nobody apache httpd vulnerability
+SourceForge nobody Apache HTTPD configuration
 
 # New versions
 
@@ -173,6 +173,10 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://stripe.com/blog/fast-secure-builds-choose-two bazel
+
+https://www.theregister.com/2022/05/05/github_2fa_mandatory_2023/?td=rt-9c
+
 https://blog.yossarian.net/2022/05/09/A-most-vexing-parse-but-for-Python-packaging
 > https://news.ycombinator.com/item?id=31314379
 

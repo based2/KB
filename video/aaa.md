@@ -97,6 +97,11 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://korben.info/page/6
+
+https://motion-project.github.io/index.html Camera
+> https://motion-project.github.io/motion_guide.html
+
 https://en.wikipedia.org/wiki/Soundies
 > https://news.ycombinator.com/item?id=31361244
 

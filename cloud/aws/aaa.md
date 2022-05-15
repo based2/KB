@@ -73,6 +73,8 @@ https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-bac
 > https://www.reddit.com/r/netsec/comments/ugkybz/aws_targeted_by_a_package_backfill_attack/
 
 # News
+https://dev.to/aws/aws-open-source-news-and-updates-112-5bjp
+
 https://www.lastweekinaws.com/blog/awss-deprecation-policy-is-like-a-platypus/
 
 https://dev.to/aws/aws-open-source-news-and-updates-109-4ejb

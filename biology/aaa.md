@@ -37,6 +37,9 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.science.org/doi/10.1126/science.abl4896 The Tabula Sapiens: A multiple-organ, single-cell transcriptomic atlas of humans
+> https://news.ycombinator.com/item?id=31371004
+
 https://www.nature.com/articles/d41586-022-01303-z Origin of life theory involving RNA–protein hybrid gets new support
 > https://news.ycombinator.com/item?id=31371050
 

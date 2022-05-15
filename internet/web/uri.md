@@ -6,6 +6,9 @@ https://www.fpcomplete.com/blog/pains-path-parsing/
 https://news.ycombinator.com/item?id=26991332
 
 #
+http://shadyurl.com/
+> https://news.ycombinator.com/item?id=31386108
+
 https://simonwillison.net/2022/Mar/5/dash-encoding/
 > https://news.ycombinator.com/item?id=30572384
 

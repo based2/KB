@@ -187,6 +187,10 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://css-tricks.com/css-cascade-layers/
+
+https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/
+
 https://voussoir.net/writing/browser_in_the_dark
 
 https://overengineer.dev/blog/2021/08/20/webcompat-finger-radius.html

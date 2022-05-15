@@ -59,6 +59,10 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://tsdgeos.blogspot.com/2022/05/the-kde-qt5-patch-collection-has-been.html
+
+https://svg-stencils.github.io/
+
 https://mxlinux.org/blog/mx-21-1-respin-workbench-released/
 
 https://randthoughts.github.io/little-rant-about-gnomes-file-manager-aka-nautilus/

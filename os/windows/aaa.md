@@ -74,6 +74,9 @@ https://github.com/mrthefakeperson/Excel-Virtual-Machine
 https://www.datagridxl.com/
 > https://news.ycombinator.com/item?id=30919257
 
+https://github.com/LesterLyu/fast-formula-parser
+> https://news.ycombinator.com/item?id=31365777
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 > https://news.ycombinator.com/item?id=26991887
@@ -117,6 +120,8 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://github.com/ch3rn0byl/AngryWindows bsod customization
+
 https://devblogs.microsoft.com/oldnewthing/20030808-00/?p=42943
 > https://news.ycombinator.com/item?id=31332002
 

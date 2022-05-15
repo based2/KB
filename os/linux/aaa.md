@@ -25,6 +25,10 @@ https://linuxguidehq.com/linux-commands-cheat-sheet/
 
 https://www.redhat.com/sysadmin/7-linux-namespaces
 
+# Book
+https://0xax.gitbooks.io/linux-insides/content/
+> https://news.ycombinator.com/item?id=31377904
+
 # Selinux
 
 https://selinuxproject.org/page/Main_Page
@@ -84,7 +88,12 @@ https://www.enlightenment.org/
 https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 > https://news.ycombinator.com/item?id=28273182
 
+https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
+
 # News
+https://github.com/MrGlockenspiel/activate-linux
+> https://news.ycombinator.com/item?id=31388365
+
 https://www.redhat.com/en/blog/new-standard-red-hat-vehicle-operating-system-modern-and-future-vehicles
 > https://news.ycombinator.com/item?id=31332590
 

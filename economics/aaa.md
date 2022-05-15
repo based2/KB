@@ -110,6 +110,8 @@ https://github.com/ta4j/ta4j technical analysis. It provides the basic component
 https://github.com/wilsonfreitas/awesome-quant
 > https://news.ycombinator.com/item?id=30426511
 
+https://www.nature.com/articles/s41598-021-82338-6 Sentiment correlation in financial news networks and associated market movements
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317
@@ -132,6 +134,12 @@ https://www.unite.ai/simple-ai-can-anticipate-bank-managers-loan-decisions-to-ov
 > https://news.ycombinator.com/item?id=30394731
 
 # News
+https://andrewbatson.com/2022/05/12/whats-behind-chinas-boom-in-company-formation/
+> https://news.ycombinator.com/item?id=31364321
+
+https://e24.no/internasjonal-oekonomi/i/nW631n/eu-politicians-want-to-blacklist-dubai
+> https://www.novethic.fr/actualite/social/droits-humains/isr-rse/dubai-scandales-financiers-et-sexuels-derriere-l-affiche-touristique-a-base-d-immobilier-de-luxe-150766.html
+
 https://research.rabobank.com/markets/en/documents/279278_2475340_yourollover-dollar.pdf What is the Eurodollar System? (2020)
 > https://news.ycombinator.com/item?id=30974598
 

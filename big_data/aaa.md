@@ -235,6 +235,10 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/gnudatalanguage/gdl IDL
+
+https://benn.substack.com/p/case-for-consolidation?s=r
+
 https://slik-wrangler.medium.com/introducing-slik-a-data-processing-and-modelling-python-library-5cfd837ce01b
 > https://news.ycombinator.com/item?id=31333783
 

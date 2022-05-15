@@ -40,3 +40,6 @@ https://newatlas.com/automotive/world-smartest-traffic-management-system-kapsch/
 
 https://flightpenguin.com/
 > https://news.ycombinator.com/item?id=30920891
+
+https://xostrucks.com/
+> https://news.ycombinator.com/item?id=31385155

@@ -1,4 +1,7 @@
 # News
+https://www.servethehome.com/zfs-without-a-server-using-the-nvidia-bluefield-2-dpu-nvme-arm-aic-iscsi/
+> https://news.ycombinator.com/item?id=31374373
+
 https://www.servethehome.com/ethernet-ssds-hands-on-with-the-kioxia-em6-nvmeof-ssd/
 > https://news.ycombinator.com/item?id=31103179
 

@@ -49,3 +49,5 @@ https://docs.google.com/spreadsheets/d/1BpMAOACYkPw1vG_3oZ5b7ZzvBoRX4jRG79xuqln6
 
 https://blog.adafruit.com/2022/03/17/verified-accounts-secured-with-2fa-for-some-high-demand-products/
 > https://news.ycombinator.com/item?id=30769201
+
+https://linuxfr.org/users/glandos/journaux/bpce-et-les-paiements-avec-authentification-a-deux-facteurs

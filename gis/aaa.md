@@ -149,6 +149,9 @@ https://openinframap.org/#5.44/40.799/-75.629
 https://maps.nicholsonroad.com/zones/ vancouver
 > https://news.ycombinator.com/item?id=30960632
 
+https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022
+> https://news.ycombinator.com/item?id=31382414
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 

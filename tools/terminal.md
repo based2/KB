@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://devblogs.microsoft.com/commandline/case-study-how-many-colors-are-too-many-colors-for-windows-terminal/
+> https://news.ycombinator.com/item?id=31372606
+
 https://www.linusakesson.net/programming/tty/
 > https://news.ycombinator.com/item?id=31146862
 

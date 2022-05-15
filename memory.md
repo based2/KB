@@ -43,3 +43,5 @@ https://chrisdown.name/2018/01/02/in-defence-of-swap.html
 
 https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=20111&skey=&sval=&list_s_date=&list_e_date=&GotoPage=1
 > https://news.ycombinator.com/item?id=31157181
+
+https://linuxfr.org/users/julien_jorge/journaux/comparatif-d-outils-d-analyse-memoire

@@ -27,6 +27,8 @@ https://ffii.org/unified-patent-court-is-100x-more-expensive-and-an-sme-killer-e
 https://arxiv.org/abs/2103.03198 Catala
 > https://news.ycombinator.com/item?id=27059899
 
+https://resources.jetbrains.com/storage/products/mps/docs/MPS_DTO_Case_Study.pdf
+
 # Open data
 https://www.lumendatabase.org/ Collects and analyzes legal complaints and requests for removal of online materials
 

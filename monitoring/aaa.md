@@ -71,6 +71,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://martinheinz.dev/blog/72 End-to-End Monitoring with Grafana Cloud with Minimal Effort
+
 https://segment.com/blog/changing-one-character-improved-app-performance/
 > https://news.ycombinator.com/item?id=31339456
 

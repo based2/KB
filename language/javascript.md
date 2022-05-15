@@ -184,6 +184,11 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://blog.nolanphillips.com/the-react-named-children-pattern
+
+https://github.com/maxam2017/react-18-ssr
+> https://news.ycombinator.com/item?id=31384562
+
 https://indepth.dev/posts/1501/exploring-how-virtual-dom-is-implemented-in-react
 
 https://reactjs.org/blog/2022/03/08/react-18-upgrade-guide.html

@@ -106,6 +106,9 @@ https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready
 > https://news.ycombinator.com/item?id=29993007
 
 #
+https://nullprogram.com/blog/2022/05/14/ A lock-free, concurrent, generic queue in 32 bits
+> https://news.ycombinator.com/item?id=31384602
+
 https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/
 > https://news.ycombinator.com/item?id=31100023
 

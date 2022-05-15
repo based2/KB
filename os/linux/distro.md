@@ -62,6 +62,12 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://fedoramagazine.org/whats-new-fedora-36-workstation/
+
+https://linuxfr.org/news/sortie-de-fedora-linux-36
+
+https://tugaleres.com/2022/05/13/pop_os-22-04-lts-presentation-et-avis/
+
 https://www.redhat.com/en/about/press-releases/red-hat-defines-new-epicenter-innovation-red-hat-enterprise-linux-9
 > https://news.ycombinator.com/item?id=31345872
 

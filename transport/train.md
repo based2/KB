@@ -15,6 +15,8 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://direkt.bahn.guru/
+
 https://www.railwayage.com/regulatory/it-is-getting-worse-people-are-leaving/
 > https://news.ycombinator.com/item?id=31314389
 

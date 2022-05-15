@@ -133,6 +133,8 @@ https://news.ycombinator.com/item?id=30907433 Use LC_ALL=C for big ASCII sorts
 
 https://easyperf.net/blog/2022/05/11/Visualizing-Performance-Critical-Dependency-Chains
 
+https://rigtorp.se/ringbuffer/
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

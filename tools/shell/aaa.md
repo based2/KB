@@ -34,6 +34,10 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://ish.app/ ios
+
+https://github.com/google/zx node.js
+
 https://scriptingosx.com/2022/04/on-env-shebangs/
 > https://news.ycombinator.com/item?id=31027532
 

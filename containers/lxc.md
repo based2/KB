@@ -12,3 +12,5 @@ https://earthly.dev/blog/lxc-vs-docker/
 > https://news.ycombinator.com/item?id=30385580
 
 https://discuss.linuxcontainers.org/t/lxd-5-0-lts-has-been-released/13723
+
+https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/

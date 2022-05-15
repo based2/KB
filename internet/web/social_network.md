@@ -36,6 +36,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://metastable.org/2022/05/tiktok.html
+> https://news.ycombinator.com/item?id=31360955
+
 https://blog.lazerwalker.com/2022/05/10/virtual-events.html
 
 https://www.theverge.com/2022/4/23/23036976/eu-digital-services-act-finalized-algorithms-targeted-advertising

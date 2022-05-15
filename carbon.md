@@ -44,7 +44,11 @@ https://caseyhandmer.wordpress.com/2021/05/04/so-you-want-to-build-a-carbon-capt
 https://changeit.app/
 > https://news.ycombinator.com/item?id=27367244
 
-https://thedetechtor.com/carbo-culture-biochar-carbon-sequestration/
+https://thedetechtor.com/carbo-culture-biochar-carbon-sequestration/ monitoring agent, dedicated to energy consumption metrics
+
+https://hubblo-org.github.io/scaphandre-documentation/index.html
+
+https://www.iqair.com
 
 # Sea
 ## Transport
@@ -55,6 +59,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/
+> https://news.ycombinator.com/item?id=31383725
+
+https://www.climatecouncil.org.au/resources/uninsurable-nation-australias-most-climate-vulnerable-places/
+
 https://www.noureddine.org/research/joular/joularjx
 
 https://www.thankyounorthface.com/

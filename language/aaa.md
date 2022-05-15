@@ -268,9 +268,20 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://www.kmjn.org/notes/operator_precedence_fortran.html
+
+http://maude.cs.illinois.edu/w/index.php/Maude_Overview
+
+https://letlang.dev/
+> https://github.com/linkdd/letlang
+
+https://github.com/razetime/ngn-k-tutorial/blob/main/c-thinking-in-k.md
+> https://news.ycombinator.com/item?id=31377262
+
 https://tratt.net/laurie/blog/2022/programming_style_influences.html
 
 https://github.com/dyu/ffi-overhead
+> https://news.ycombinator.com/item?id=31376679
 
 https://ziglang.org/
 > https://news.ycombinator.com/item?id=31357778

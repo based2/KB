@@ -97,6 +97,12 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://kotaku.com/activision-blizzard-diversity-tool-overwatch-2-call-of-1848924832
+
+https://realpython.com/top-python-game-engines/
+
+https://fyrox.rs/blog/post/feature-highlights-0-25/ rust
+
 https://www.seventeencups.net/posts/three-years-of-tetra/ rust
 
 https://news.ycombinator.com/item?id=31313449

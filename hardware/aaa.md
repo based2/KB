@@ -70,6 +70,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://hxc2001.com/ floppy disk emulator
+
 https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer
 > https://news.ycombinator.com/item?id=31364668
 
