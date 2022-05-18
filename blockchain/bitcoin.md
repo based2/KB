@@ -18,6 +18,12 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://finbold.com/u-s-court-rejects-tethers-bid-to-conceal-reserve-records-from-the-public/
+> https://news.ycombinator.com/item?id=31421084
+
+https://paulbutler.org/2022/the-problem-with-bitcoin-miners/
+> https://news.ycombinator.com/item?id=31389647
+
 https://www.coindesk.com/business/2022/05/09/ust-stablecoin-falls-below-dollar-peg-for-second-time-in-48-hours/
 > https://news.ycombinator.com/item?id=31321021
 

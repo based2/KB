@@ -173,6 +173,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://about.gitlab.com/handbook/
+> https://news.ycombinator.com/item?id=31270407
+
+https://openfeature.dev/ open standard for feature flags
+> https://news.ycombinator.com/item?id=31223429
+
 https://stripe.com/blog/fast-secure-builds-choose-two bazel
 
 https://www.theregister.com/2022/05/05/github_2fa_mandatory_2023/?td=rt-9c

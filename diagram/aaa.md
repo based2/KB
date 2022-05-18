@@ -126,6 +126,9 @@ https://github.com/AlexEidt/ASCII-Video
 https://mannhowie.com/finite-state-machines
 
 # News
+https://sequencediagram.org/
+> https://news.ycombinator.com/item?id=31273124
+
 https://en.wikipedia.org/wiki/Zero-suppressed_decision_diagram
 
 https://github.com/wavedrom/wavedrom time

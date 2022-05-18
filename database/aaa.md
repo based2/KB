@@ -68,6 +68,18 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.brimdata.io/blog/super-structured-data/
+> https://news.ycombinator.com/item?id=31411067
+
+https://wisser.github.io/Jailer/data-browsing.html
+> https://news.ycombinator.com/item?id=31420930
+
+https://quanttype.net/posts/2022-05-02-schema-migrations.html
+> https://news.ycombinator.com/item?id=31248506
+
+https://kiranrao.ca/2022/05/04/zero-downtime-migrations.html
+> https://news.ycombinator.com/item?id=31269515
+
 https://max-datom.com/
 > https://news.ycombinator.com/item?id=31107499
 

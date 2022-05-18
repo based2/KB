@@ -62,6 +62,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://library.smu.edu.sg/topics-insights/openalex-promising-alternative-microsoft-academic-graph
+> https://news.ycombinator.com/item?id=31271477
+
 https://blog.wkimm.xyz/blog/2022/03/SuiteSparseGraphBLAS_intro/
 
 https://netflixtechblog.com/how-netflix-content-engineering-makes-a-federated-graph-searchable-5c0c1c7d7eaf

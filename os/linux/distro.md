@@ -62,6 +62,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://cheapskatesguide.org/articles/kodachi-linux.html
+
 https://fedoramagazine.org/whats-new-fedora-36-workstation/
 
 https://linuxfr.org/news/sortie-de-fedora-linux-36

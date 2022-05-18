@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers
+> https://news.ycombinator.com/item?id=31424450
+
 https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/
 > https://news.ycombinator.com/item?id=31324641
 

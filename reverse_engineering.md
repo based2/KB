@@ -8,6 +8,11 @@ https://trenchant.io/expanding-the-dragon-adding-an-isa-to-ghidra/
 
 https://genodians.org/ssumpf/2022-05-09-telephony Pinephone
 
+
+
+https://wxcafe.net/posts/pocketbook_dissassembly_and_root/
+> https://news.ycombinator.com/item?id=31224341
+
 https://www.righto.com/2022/05/talking-with-moon-inside-apollos.html
 > https://news.ycombinator.com/item?id=31368713
 

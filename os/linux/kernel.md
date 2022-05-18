@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/SubscriberLink/895217/eea75d643a340b32/ Sharing page tables with mshare()
+> https://news.ycombinator.com/item?id=31421675
+
 https://github.com/NVIDIA/open-gpu-kernel-modules
 > https://news.ycombinator.com/item?id=31345439
 

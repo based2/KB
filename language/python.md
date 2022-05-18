@@ -216,6 +216,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst Python 3.11 beta vs. 3.10 benchmark
+> https://news.ycombinator.com/item?id=31420984
+
+https://lwn.net/Articles/893686/ Modern Python performance considerations
+> https://news.ycombinator.com/item?id=31272681
+
 https://pwn.win/2022/05/11/python-buffered-reader.html
 > https://news.ycombinator.com/item?id=31384230
 

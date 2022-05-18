@@ -235,6 +235,17 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/blacksmithgu/obsidian-dataview
+> https://news.ycombinator.com/item?id=31407781
+
+https://pandastutor.com/
+
+https://www.crunchydata.com/blog/parquet-and-postgres-in-the-data-lake
+> https://news.ycombinator.com/item?id=31253301
+
+https://tomaugspurger.github.io/method-chaining.html panda
+> https://news.ycombinator.com/item?id=31223952
+
 https://github.com/gnudatalanguage/gdl IDL
 
 https://benn.substack.com/p/case-for-consolidation?s=r

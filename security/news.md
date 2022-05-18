@@ -1,3 +1,11 @@
+https://bugs.openldap.org/show_bug.cgi?id=9815 openldap
+
+https://www.bleepingcomputer.com/news/security/microsoft-warns-of-brute-force-attacks-targeting-mssql-servers/
+
+https://nvd.nist.gov/vuln/detail/CVE-2022-0866 EJB JBoss WildFly
+
+https://sensorstechforum.com/cve-2022-22675-vulnerability/ ios macos
+
 https://www.bleepingcomputer.com/news/security/windows-11-tool-to-add-google-play-secretly-installed-malware/
 
 https://doublepulsar.com/bpfdoor-an-active-chinese-global-surveillance-tool-54b078f1a896
@@ -13,6 +21,7 @@ https://www.theregister.com/2022/05/11/microsoft_patch_tuesday/
 https://www.openssl.org/news/secadv/20220503.txt
 
 https://vigilance.fr/vulnerabilite/Jenkins-plugins-vulnerabilite-devoilee-le-17-05-2022-38365
+> https://www.jenkins.io/security/advisory/2022-05-17/
 
 https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-029.pdf Oracle Java SE RCE Vulnerability April 26, 2022 Oracle Java SE RCE Vulnerability CVE-2022-21449
 

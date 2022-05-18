@@ -25,6 +25,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://bcachefs.org/bcachefs-principles-of-operation.pdf
+> https://news.ycombinator.com/item?id=31419120
+
 https://www.collabora.com/news-and-blog/blog/2022/03/14/improving-the-reliability-of-file-system-monitoring-tools/
 > https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=c0baf9ac0b05d53dfe0436661dbdc5e43c01c5e0
 

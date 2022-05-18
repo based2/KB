@@ -101,6 +101,12 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html
+> https://news.ycombinator.com/item?id=31421797
+
+https://nhigham.com/2022/05/18/the-big-six-matrix-factorizations/
+> https://news.ycombinator.com/item?id=31421745
+
 https://en.wikipedia.org/wiki/Volume_of_an_n-ball
 > https://news.ycombinator.com/item?id=31348463
 

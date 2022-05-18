@@ -79,6 +79,11 @@ https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Co
 
 # Incidents
 
+https://news.ycombinator.com/item?id=31417993
+
+https://status.heroku.com/incidents/2413?updated
+> https://news.ycombinator.com/item?id=31269062
+
 https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-033.pdf RCE Vulnerabilities in Microsoft Azure Synapse
 
 use of IKEv1
@@ -110,6 +115,14 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.craigkerstiens.com/2022/05/18/unfinished-business-with-postgres/
+
+https://fly.io/
+> https://christine.website/blog/fly.io-heroku-replacement
+> > https://news.ycombinator.com/item?id=31390506
+> https://fly.io/app/sign-up
+> https://community.fly.io/t/simple-waf-setup/599/7
+> https://github.com/superfly/init-snapshot rust
 
 https://dokku.com/
 > https://news.ycombinator.com/item?id=31376241

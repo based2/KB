@@ -195,6 +195,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/
+> https://news.ycombinator.com/item?id=31387092
+
 https://github.com/avanetten/cresi City-scale Road Extraction from Satellite Imagery
 
 https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm?s=r

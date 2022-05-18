@@ -1,4 +1,9 @@
 # News
+https://blog.thevinter.com/posts/vimeo
+> https://news.ycombinator.com/item?id=31271451
+
+https://cdn.pathfactory.com/assets/10903/contents/396632/464988a8-575e-4302-a048-0f6485b19382.pdf?x=P9k0ng&lb-mode=overlay&lb-width=100&lb-height=100 Minio The Architect’s Guide to Software Defined Object Storage
+
 https://www.servethehome.com/zfs-without-a-server-using-the-nvidia-bluefield-2-dpu-nvme-arm-aic-iscsi/
 > https://news.ycombinator.com/item?id=31374373
 

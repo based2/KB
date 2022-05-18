@@ -104,6 +104,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained
+> https://news.ycombinator.com/item?id=31425523
+
 https://techwireasia.com/2022/03/wireless-laser-communications-technology-indonesia/
 
 https://www.dialogic.com/webhelp/msp1010/10.2.3/webhelp/MSP_DG/ISUP/Introduction_to2.htm

@@ -97,6 +97,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616
+> https://news.ycombinator.com/item?id=31412440
+
 https://kotaku.com/activision-blizzard-diversity-tool-overwatch-2-call-of-1848924832
 
 https://realpython.com/top-python-game-engines/

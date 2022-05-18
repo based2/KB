@@ -59,6 +59,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://github.com/zitadel/zitadel go iam
+> https://news.ycombinator.com/item?id=31408059
+
 https://web.dev/yahoo-japan-identity-case-study/
 > https://news.ycombinator.com/item?id=31329076
 

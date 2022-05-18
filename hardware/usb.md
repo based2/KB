@@ -1,3 +1,6 @@
+https://fabiensanglard.net/usbcheat/index.html
+> https://news.ycombinator.com/item?id=31271038
+
 https://ventoy.net/en/index.html Open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files
 > https://news.ycombinator.com/item?id=28889392
 > https://micro-os.org/
@@ -48,7 +51,6 @@ https://www.xda-developers.com/usb-type-c-power-tools/
 > https://news.ycombinator.com/item?id=30125037
 
 https://www.theverge.com/2022/1/28/22907150/usb-c-pd-cable-power-meter-100-watt-power-delivery
-
 
 https://web.dev/porting-libusb-to-webusb/
 > https://news.ycombinator.com/item?id=30011136

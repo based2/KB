@@ -12,6 +12,9 @@ https://beam-wisdoms.clau.se/en/latest/index.html
 https://www.erlang.org/blog/scalable-ets-counters/
 
 # OTP
+https://erlang.org/pipermail/erlang-announce/2022-May/000208.html OTP 25 has been released
+> https://news.ycombinator.com/item?id=31423027
+
 https://blog.erlang.org/My-OTP-24-Highlights/
 > https://news.ycombinator.com/item?id=27128994
 

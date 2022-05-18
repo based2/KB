@@ -390,6 +390,15 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://javascript.info/
+> https://news.ycombinator.com/item?id=31390742
+
+https://tinyclouds.org/javascript_containers
+> https://news.ycombinator.com/item?id=31262542
+
+https://edofic.com/posts/2022-01-28-low-js/
+> https://news.ycombinator.com/item?id=31249181
+
 https://engineering.fb.com/2022/05/11/open-source/jest-openjs-foundation/
 > https://news.ycombinator.com/item?id=31342425
 

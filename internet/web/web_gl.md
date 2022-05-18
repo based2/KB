@@ -1,5 +1,7 @@
 https://webgl2fundamentals.org/
 
+https://webglfundamentals.org/
+
 https://github.com/Lallassu/vox2 voxel engine
 > https://news.ycombinator.com/item?id=9317374
 

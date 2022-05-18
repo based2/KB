@@ -92,6 +92,9 @@ https://cyber-security-group.cs.tau.ac.il/ NXNSAttack: DNS recursive resolver
 > https://kn100.me/exploiting-upnp-literally-childsplay/
 
 ## 2019
+https://gist.github.com/rjhansen/67ab921ffb4084c865b3618d6955275f GPG SKS Keyserver Network Under Attack
+> https://gpg.mozilla.org/
+
 https://www.secpod.com/blog/openbsd-authentication-bypass-and-local-privilege-escalation-vulnerabilities/
 
 https://en.wikipedia.org/wiki/Kr00k WPA2

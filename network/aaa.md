@@ -107,6 +107,12 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/stephane/libmodbus
+> https://news.ycombinator.com/item?id=31216976
+
+https://github.com/c-grimshaw/gosniff Textual User-Interface Network Sniffer
+> https://news.ycombinator.com/item?id=31217406
+
 https://michael.stapelberg.ch/posts/2022-05-14-http-and-https-download-25gbit/
 > https://lobste.rs/s/xdo53i/25_gbit_s_http_https_download_speeds
 

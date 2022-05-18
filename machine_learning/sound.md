@@ -25,3 +25,6 @@ https://gradio.app/real_time_speech_recognition/
 
 https://birdnetpi.com/
 > https://news.ycombinator.com/item?id=31072485
+
+https://speechresearch.github.io/naturalspeech/
+> https://news.ycombinator.com/item?id=31416098

@@ -32,6 +32,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15
+> https://news.ycombinator.com/item?id=31401151
+
 https://restic.net/blog/2022-03-26/restic-0.13.0-released/
 
 https://www.rsync.net/resources/notes/2021-q4-rsync.net_technotes.html

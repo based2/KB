@@ -224,6 +224,9 @@ https://lwn.net/ml/gcc/20220314163437.54ed696e0499d0875743a0f3@schemamania.org/ 
 https://www.theregister.com/2022/03/16/new_cobol_contender/
 > https://www.cobol-it.com/
 
+https://github.com/openmainframeproject/cobol-programming-course
+> https://news.ycombinator.com/item?id=31227251
+
 ## LISP
 http://www.paulgraham.com/bel.html
 
@@ -268,6 +271,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://tratt.net/laurie/essays/entries/static_integer_types.html
+> https://news.ycombinator.com/item?id=31414577
+
 https://www.kmjn.org/notes/operator_precedence_fortran.html
 
 http://maude.cs.illinois.edu/w/index.php/Maude_Overview

@@ -187,6 +187,12 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/
+> https://news.ycombinator.com/item?id=31424392
+
+https://blog.jim-nielsen.com/2022/ordering-css-delcarations/
+> https://news.ycombinator.com/item?id=31259627
+
 https://css-tricks.com/css-cascade-layers/
 
 https://blog.getbootstrap.com/2022/05/13/bootstrap-5-2-0-beta/

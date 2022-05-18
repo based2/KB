@@ -238,6 +238,9 @@ https://queue.acm.org/detail.cfm?id=3466134
 # NLP
 https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
 
+https://www.nlpdemystified.org/
+> https://news.ycombinator.com/item?id=31421232
+
 > Inference
 https://github.com/fabsig/GPBoost
 > https://news.ycombinator.com/item?id=27603613
@@ -265,6 +268,16 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://medium.com/@hpcaitech/train-18-billion-parameter-gpt-models-with-a-single-gpu-on-your-personal-computer-8793d08332dc
+
+https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/
+> https://news.ycombinator.com/item?id=31424048
+
+https://twitter.com/npew/status/1525900849888866307 GPT-3 is bad at reversing words is due to tokenization
+
+https://arxiv.org/abs/1810.00378 Pseudo-Random Number Generation using Generative Adversarial Networks
+> https://news.ycombinator.com/item?id=31213530
+
 https://crowdsource.google.com/about/
 > https://news.ycombinator.com/item?id=31384809
 

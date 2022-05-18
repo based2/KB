@@ -47,3 +47,6 @@ https://github.com/pion/webrtc/tree/master/examples/save-to-disk-av1
 
 https://github.com/webRTCv1/bestOfWebRTC
 
+https://github.com/httptoolkit/mockrtc
+> https://news.ycombinator.com/item?id=31272194
+

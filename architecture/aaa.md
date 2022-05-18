@@ -216,6 +216,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://plaid.com/blog/transactions-sync/
+
 https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks
 > https://news.ycombinator.com/item?id=31313894
 

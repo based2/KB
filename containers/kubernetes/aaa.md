@@ -62,6 +62,14 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://blog.kubecost.com/blog/one-click-request-sizing/
+
+https://github.com/infrahq/infra
+> https://news.ycombinator.com/item?id=31410688
+
+https://about.gitlab.com/blog/2022/05/17/how-we-removed-all-502-errors-by-caring-about-pid-1-in-kubernetes/
+> https://news.ycombinator.com/item?id=31420106
+
 https://lists.apache.org/list?announce@apache.org:2022-4 Apache SkyWalking Kubernetes Event Exporter 1.0.0 Released
 
 https://danielmangum.com/posts/the-missing-kubernetes-type-system/

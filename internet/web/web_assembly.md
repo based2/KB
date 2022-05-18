@@ -73,6 +73,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/tetratelabs/wazero go
+> https://news.ycombinator.com/item?id=31405890
+
 https://github.com/lunatic-solutions/lunatic Erlang-inspired runtime for WebAssembly
 
 https://jott.live/markdown/js_gc_in_wasm

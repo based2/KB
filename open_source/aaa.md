@@ -227,6 +227,15 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://inkscape.org/release/inkscape-1.2/
+> https://news.ycombinator.com/item?id=31403532
+
+https://un.curl.dev/
+> https://news.ycombinator.com/item?id=31410042
+
+https://www.gimp.org/news/2020/11/06/gimp-2-99-2-released/
+> https://news.ycombinator.com/item?id=31419214
+
 https://engineering.atspotify.com/2022/04/announcing-the-spotify-foss-fund/
 
 https://www.prnewswire.com/news-releases/phylum-raises-15-million-to-proactively-defend-the-open-source-supply-chain-301537863.html
@@ -283,7 +292,6 @@ https://joeldenning.com/?p=29 My boundaries as an open source developer
 https://fwsgonzo.medium.com/multiprocessing-in-a-risc-v-emulator-ce910122f4f1
 
 https://jeffcovey.net/2014/06/19/freshmeat-net-1997-2014/
->
 
 https://raccoon.onyxbits.de/blog/bugreport-free-support/
 > https://news.ycombinator.com/item?id=30577666

@@ -267,6 +267,9 @@ https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-window
 
 # Security
 
+https://anssi-fr.github.io/rust-guide/
+> https://news.ycombinator.com/item?id=31405896
+
 https://iximiuz.com/en/posts/rust-privacy-and-visibility/
 
 https://github.com/crev-dev/cargo-crev
@@ -365,6 +368,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://kerkour.com/bugs-rust-compiler-helps-prevent
+> https://news.ycombinator.com/item?id=31278379
+
+https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/
+> https://news.ycombinator.com/item?id=31220791
+
 https://book.goose.rs/config/defaults.html tests
 
 https://www.geekabyte.io/2020/01/learning-rust-day-4-understanding.html

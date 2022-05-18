@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://therecord.media/collapse-of-luna-cryptocurrency-leads-to-11-million-exploit-on-venus-protocol/
+
 https://www.nytimes.com/2022/05/14/business/sam-bankman-fried-ftx-crypto.html
 > https://news.ycombinator.com/item?id=31380061
 

@@ -18,6 +18,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 > https://news.ycombinator.com/item?id=31363738
 
 # News
+https://blog.puter.com/posts/private-beta-release
+> https://news.ycombinator.com/item?id=31425094
+
 https://drewdevault.com/2022/05/14/generating-ioctls.html
 
 https://direct.mit.edu/books/book/5003/Ideas-That-Created-the-FutureClassic-Papers-of

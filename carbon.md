@@ -59,6 +59,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://aip.scitation.org/doi/pdf/10.1063/5.0090017 Atmospheric pollution from rockets
+> https://news.ycombinator.com/item?id=31415725
+
+https://www.sciencedirect.com/science/article/pii/S0301421522001756 “Carbon Bombs” - Mapping key fossil fuel projects
+> https://news.ycombinator.com/item?id=31389645
+
 https://www.anthropocenemagazine.org/2022/05/the-simple-act-of-spreading-rock-dust-on-farms-is-an-overlooked-but-tantalizing-climate-solution/
 > https://news.ycombinator.com/item?id=31383725
 

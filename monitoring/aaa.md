@@ -71,6 +71,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/
+> https://news.ycombinator.com/item?id=31397145
+
 https://martinheinz.dev/blog/72 End-to-End Monitoring with Grafana Cloud with Minimal Effort
 
 https://segment.com/blog/changing-one-character-improved-app-performance/

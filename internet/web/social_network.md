@@ -36,6 +36,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://togethr.party/
+> https://news.ycombinator.com/item?id=31272609
+
 https://metastable.org/2022/05/tiktok.html
 > https://news.ycombinator.com/item?id=31360955
 

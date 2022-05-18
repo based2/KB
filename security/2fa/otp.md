@@ -19,6 +19,9 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/
+> https://news.ycombinator.com/item?id=31272867
+
 https://www.perfecto.io/blog/two-factor-authentication tests
 > https://www.reddit.com/r/programming/comments/tv4tri/how_to_test_twofactor_authentication_a_guide_with/
 

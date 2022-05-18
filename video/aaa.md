@@ -97,6 +97,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://tratt.net/laurie/blog/2022/using_a_proper_camera_as_a_webcam.html
+> https://news.ycombinator.com/item?id=31411813
+
 https://korben.info/page/6
 
 https://motion-project.github.io/index.html Camera

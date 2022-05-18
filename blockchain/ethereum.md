@@ -10,6 +10,12 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://finbold.com/warning-another-stablecoin-loses-peg-dei-team-working-to-restore-the-peg/
+> https://news.ycombinator.com/item?id=31408841
+
+https://www.wsj.com/articles/this-billion-dollar-crypto-loan-is-easy-to-get-but-gone-in-a-flash-11651985089
+> https://news.ycombinator.com/item?id=31405366
+
 https://tech.slashdot.org/story/22/05/11/1649202/usts-do-kwon-was-behind-earlier-failed-stablecoin-ex-terra-colleagues-say
 > https://news.ycombinator.com/item?id=31343701
 

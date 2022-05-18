@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://research.google/pubs/pub45581/ Picasso: a lightweight device class fingerprinting protocol (2016)
+> https://news.ycombinator.com/item?id=31220875
+
 https://hacks.mozilla.org/2022/05/improved-process-isolation-in-firefox-100/
 > https://news.ycombinator.com/item?id=31355857
 

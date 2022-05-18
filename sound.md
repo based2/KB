@@ -72,6 +72,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://github.com/lyrebird-voice-changer/lyrebird voice changer for Linux, written in GTK 3
+> https://news.ycombinator.com/item?id=31277002
+
 https://www.mattmontag.com/music/universals-audible-watermark
 > https://news.ycombinator.com/item?id=31080999
 

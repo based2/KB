@@ -85,6 +85,10 @@ https://techcrunch.com/2022/04/18/web-scraping-legal-court/
 > https://news.ycombinator.com/item?id=31075396
 
 # News
+https://github.com/bluesky-social/adx
+> https://news.ycombinator.com/item?id=31267727
+> > https://web.dev/signed-exchanges/
+
 https://lists.w3.org/Archives/Public/public-new-work/2022Mar/0004.html WebView Community Group Proposed
 > https://news.ycombinator.com/item?id=31336593
 

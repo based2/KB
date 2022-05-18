@@ -59,6 +59,11 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 #
+https://www.unlimiteddreamco.xyz/2022/05/05/writing-good-prompts-part-3.html
+
+https://github.com/lucidrains/DALLE2-pytorch
+> https://news.ycombinator.com/item?id=31228710
+
 https://newatlas.com/photography/nist-light-field-camera-record-depth-of-field/
 > https://news.ycombinator.com/item?id=31340399
 
@@ -70,5 +75,7 @@ https://ai.googleblog.com/2022/04/pix2seq-new-language-interface-for.html
 https://www.assemblyai.com/blog/how-dall-e-2-actually-works/
 > https://news.ycombinator.com/item?id=31084312
 
-https://research.nvidia.com/sites/default/files/publications/CompZoom.pdf Computational Zoom: A Framework for Post-Capture Image
-Composition
+https://research.nvidia.com/sites/default/files/publications/CompZoom.pdf Computational Zoom: A Framework for Post-Capture Image  Composition
+
+https://www.urzas.ai/
+> https://news.ycombinator.com/item?id=31412608

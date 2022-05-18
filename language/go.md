@@ -86,6 +86,9 @@ https://eng.uber.com/pprof-go-profiler/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/
+> https://news.ycombinator.com/item?id=31395161
+
 https://github.com/KadenKing/secretsauce
 
 https://npf.io/2022/05/safer-enums/

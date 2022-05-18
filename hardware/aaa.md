@@ -55,6 +55,8 @@ https://github.com/sigoden/windows-switcher
 
 https://github.com/debauchee/barrier oftware that mimics the functionality of a KVM switch, Share mouse and keyboard between computers
 
+https://stevelosh.com/blog/2012/10/a-modern-space-cadet/
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -70,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://artemis.sh/2022/05/16/everfrees-armferno.html
+>
+
 https://hxc2001.com/ floppy disk emulator
 
 https://johnnys.news/2022/05/How-i-fixed-my-broken-monitor-with-a-hair-dryer

@@ -121,6 +121,14 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+http://www.pmail.com/newsflash.htm
+> https://news.ycombinator.com/item?id=31413891
+
+https://news.ycombinator.com/item?id=31418908 Ask HN: Mailing list providers with global deliverability?
+
+https://www.ghacks.net/2022/05/15/thunderbirds-donation-drive-revenue-rose-21-in-2021/
+> https://news.ycombinator.com/item?id=31422449
+
 https://protonmail.com/blog/security-audit-all-proton-apps/
 > https://news.ycombinator.com/item?id=31068985
 

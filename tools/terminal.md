@@ -32,6 +32,12 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/csdvrx/CuteXterm
+> https://news.ycombinator.com/item?id=31416216
+
+https://xn--rpa.cc/irl/term.html
+> https://news.ycombinator.com/item?id=31415937
+
 https://devblogs.microsoft.com/commandline/case-study-how-many-colors-are-too-many-colors-for-windows-terminal/
 > https://news.ycombinator.com/item?id=31372606
 

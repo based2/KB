@@ -124,6 +124,8 @@ https://marc.info/?l=freebsd-announce&m=165016689418229&w=2
 
 https://klarasystems.com/articles/interacting-with-freebsd-learning-the-fundamentals-of-the-freebsd-shell-2/
 
+https://www.freebsd.org/releases/13.1R/relnotes/
+
 # NetBSD
 https://saurvs.github.io/post/writing-netbsd-kern-mod/
 > https://news.ycombinator.com/item?id=30927847

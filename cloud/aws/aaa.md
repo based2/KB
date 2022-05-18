@@ -72,6 +72,10 @@ https://aws.amazon.com/en/service-terms/ 42.10
 https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-backfill-attack/
 > https://www.reddit.com/r/netsec/comments/ugkybz/aws_targeted_by_a_package_backfill_attack/
 
+https://frichetten.com/blog/xss_in_aws_console/
+> https://www.reddit.com/r/netsec/comments/nrlln6/xss_in_the_aws_console/
+https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
+
 # News
 https://dev.to/aws/aws-open-source-news-and-updates-112-5bjp
 

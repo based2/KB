@@ -155,6 +155,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://muted.io/circle-of-fifths/
+> https://news.ycombinator.com/item?id=31277702
+
 https://timiskhakov.github.io/posts/programming-guitar-music
 
 https://github.com/probonopd/MiniDexed Dexed FM synthesizer similar to DX7 running on bare metal Raspberry Pi

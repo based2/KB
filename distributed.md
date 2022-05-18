@@ -114,6 +114,8 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
 
 # News
+https://hazelcast.com/blog/tracing-a-single-operation-in-distributed-systems/
+
 https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/
 > https://news.ycombinator.com/item?id=31314006
 

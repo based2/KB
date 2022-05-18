@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://jason.today/falling-improved
+> https://news.ycombinator.com/item?id=31393104
+
+https://planetscale.com/blog/feature-storytelling-with-framer-motion
+> https://news.ycombinator.com/item?id=31276756
+
 https://jason.today/falling-sand
 
 https://blinry.org/50-tic80-carts/

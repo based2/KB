@@ -27,3 +27,6 @@ https://news.mit.edu/2022/solar-desalination-system-inexpensive-0214
 https://github.com/google/h2e_technical_documentation Google open sources solar atmospheric water generator
 > https://news.ycombinator.com/item?id=30714506
 > > https://x.company/blog/posts/sharing-project-h2e-with-the-world/
+
+https://news.mit.edu/2022/100k-competition-nona-0516 Solar-powered desalination device wins MIT $100K competition
+> https://news.ycombinator.com/item?id=31417554

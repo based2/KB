@@ -246,6 +246,9 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://www.postgresql.org/docs/devel/release-15.html
+> https://news.ycombinator.com/item?id=31423536
+
 https://pganalyze.com/blog/how-postgres-chooses-index
 > https://news.ycombinator.com/item?id=31115492
 

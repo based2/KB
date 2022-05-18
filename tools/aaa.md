@@ -16,6 +16,9 @@ https://github.com/denisidoro/navi
 https://joeyh.name/code/moreutils/ collection of the unix tools that nobody thought to write long ago when unix was young
 > https://news.ycombinator.com/item?id=31043655
 
+https://dprint.dev/ pluggable and configurable code formatting platform written in Rust
+> https://news.ycombinator.com/item?id=31199317
+
 https://man7.org/linux/man-pages/man7/roff.7.html#History
 
 https://github.com/uutils/coreutils/releases/tag/0.0.13 rust
