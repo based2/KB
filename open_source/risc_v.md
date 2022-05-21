@@ -1,3 +1,5 @@
+https://tomverbeure.github.io/2022/02/20/GDBWave-Post-Simulation-RISCV-SW-Debugging.html
+
 https://erik-engheim.medium.com/addressing-criticism-of-risc-v-microprocessors-803239b53284 Addressing Criticism of RISC-V Microprocessors
 > https://news.ycombinator.com/item?id=30740433
 

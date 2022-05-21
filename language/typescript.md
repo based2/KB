@@ -69,6 +69,12 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://stripe.com/blog/migrating-to-typescript
+> https://news.ycombinator.com/item?id=31452402
+
+https://aphrodite.sh/ P2P & Local-First ORM
+> https://news.ycombinator.com/item?id=31446780
+
 https://danangell.com/blog/posts/type-level-api-client/
 
 https://devblogs.microsoft.com/typescript/announcing-typescript-4-7-rc/

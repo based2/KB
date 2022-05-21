@@ -15,6 +15,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://www.bahn.com/en/offers/regional/9-euro-ticket-en
+> https://news.ycombinator.com/item?id=31445822
+
 https://direkt.bahn.guru/
 
 https://www.railwayage.com/regulatory/it-is-getting-worse-people-are-leaving/

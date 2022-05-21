@@ -82,6 +82,9 @@ https://eng.uber.com/pprof-go-profiler/
 > https://news.ycombinator.com/item?id=27118541
 
 # Book
+https://www.gopl.io/
+> https://www.gopl.io/ch1.pdf
+
 > https://www.practical-go-lessons.com/  https://www.practical-go-lessons.com/buy-digital-or-hard-copy
 > > https://news.ycombinator.com/item?id=26568014
 

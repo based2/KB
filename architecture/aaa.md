@@ -135,6 +135,8 @@ https://easyperf.net/blog/2022/05/11/Visualizing-Performance-Critical-Dependency
 
 https://rigtorp.se/ringbuffer/
 
+https://chronicle.software/why-core-to-core-latency-matters/
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

@@ -71,6 +71,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://justine.lol/ftrace/
+> https://news.ycombinator.com/item?id=31443198
+
 https://www.liblfds.org/
 
 https://vector-of-bool.github.io/2022/05/11/char8-memset.html

@@ -36,6 +36,11 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-xca/94164d22-2928-4417-876e-d193766c4db6 LZNT1
+
+https://snufk.in/blog/silly-compression-text.html
+> https://news.ycombinator.com/item?id=31435978
+
 https://www.timescale.com/blog/time-series-compression-algorithms-explained/
 > https://news.ycombinator.com/item?id=31379344
 

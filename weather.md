@@ -30,6 +30,9 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box
+> https://news.ycombinator.com/item?id=31438825
+
 https://www.science.org/doi/10.1126/sciadv.abm3468
 > https://news.ycombinator.com/item?id=31326093
 

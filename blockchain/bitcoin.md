@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.kalzumeus.com/2022/05/20/tether-required-recapitalization/
+> https://news.ycombinator.com/item?id=31448819
+
 https://finbold.com/u-s-court-rejects-tethers-bid-to-conceal-reserve-records-from-the-public/
 > https://news.ycombinator.com/item?id=31421084
 

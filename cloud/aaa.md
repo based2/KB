@@ -74,6 +74,9 @@ https://engineering.mixpanel.com/live-downsizing-google-cloud-persistent-disks-f
 https://supabase.com/blog/2022/03/31/supabase-edge-functions
 > https://news.ycombinator.com/item?id=30868849
 
+https://eigr.io/ beam
+> https://news.ycombinator.com/item?id=31446550
+
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 
@@ -115,6 +118,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://arxiv.org/abs/2205.07147 The Sky Above The Clouds, future
+> https://news.ycombinator.com/item?id=31449735
+
 https://www.craigkerstiens.com/2022/05/18/unfinished-business-with-postgres/
 
 https://fly.io/

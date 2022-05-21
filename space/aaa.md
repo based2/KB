@@ -143,6 +143,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data
+
+https://www.pbsspacetime.com/
+> https://news.ycombinator.com/item?id=31444573
+
 https://platform.leolabs.space/visualizations/leo
 > https://news.ycombinator.com/item?id=31413373
 

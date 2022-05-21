@@ -271,6 +271,18 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://pike.lysator.liu.se/
+> https://news.ycombinator.com/item?id=31453255
+
+http://lambdaway.free.fr/lambdawalks/?view=funstacker2 lisp
+> https://news.ycombinator.com/item?id=31455491
+
+https://github.com/rochus-keller/Oberon/releases/tag/EH_MVP Exception handling and some other new language features
+> https://news.ycombinator.com/item?id=31446275
+
+https://dl.acm.org/
+> https://news.ycombinator.com/item?id=31447465
+
 https://tratt.net/laurie/essays/entries/static_integer_types.html
 > https://news.ycombinator.com/item?id=31414577
 

@@ -216,6 +216,12 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
 # News
+https://antonz.org/python-stdlib-changes/
+> https://news.ycombinator.com/item?id=31434078
+
+https://github.com/SecureAuthCorp/impacket
+> https://news.ycombinator.com/item?id=31449237
+
 https://github.com/faster-cpython/ideas/blob/657830f1ab35466053634bb165f6582f6d788614/main-vs-310.rst Python 3.11 beta vs. 3.10 benchmark
 > https://news.ycombinator.com/item?id=31420984
 

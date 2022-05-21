@@ -390,6 +390,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks
+
 https://javascript.info/
 > https://news.ycombinator.com/item?id=31390742
 

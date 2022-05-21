@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.bikeblogordie.com/2016/11/what-ever-happened-to-scandium-bike.html
+
 https://twitter.com/Foone/status/1522599896066396161 Everything with a battery should have an off switch
 > https://news.ycombinator.com/item?id=31287112
 

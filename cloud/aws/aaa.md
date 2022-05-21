@@ -77,6 +77,9 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://www.amazon.science/blog/speeding-database-queries-by-rewriting-redundancies
+> https://news.ycombinator.com/item?id=31435751
+
 https://dev.to/aws/aws-open-source-news-and-updates-112-5bjp
 
 https://www.lastweekinaws.com/blog/awss-deprecation-policy-is-like-a-platypus/

@@ -12,6 +12,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.lecho.be/entreprises/energie/trois-belges-en-lice-pour-remporter-le-prix-de-l-inventeur-europeen-2022/10389138.html
+> https://www.kuleuven.be/wieiswie/en/person/00008614
+
+https://www.youtube.com/watch?v=8-dCIkJAjyM 35-watt Nitinol Engine by Mcdonnell Douglas
+> https://news.ycombinator.com/item?id=31455287
+
 https://www.newscientist.com/article/2319584-computer-powered-by-colony-of-blue-green-algae-has-run-for-six-months/
 > https://news.ycombinator.com/item?id=31375145
 

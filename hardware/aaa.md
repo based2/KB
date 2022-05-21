@@ -72,6 +72,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.theregister.com/2022/05/19/export_bans_prompt_russia_to/
+
 https://artemis.sh/2022/05/16/everfrees-armferno.html
 >
 

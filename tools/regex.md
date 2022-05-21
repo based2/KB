@@ -65,6 +65,9 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://betterprogramming.pub/animating-regular-expressions-with-python-and-graphviz-e0df447b827a
+> https://news.ycombinator.com/item?id=31432661
+
 https://pboyd.io/posts/comma-dash-dot/
 
 https://regex-vis.com/?r=%5E%28%28%5BhH%5Dacker%29%5B+%5D%3F%28%5BnN%5Dews%7Cnewsletter%29%29%24

@@ -24,6 +24,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://objectifsecurite.gitlab.io/tproxy/ interception proxy for TCP traffic
+> https://www.reddit.com/r/netsec/comments/us559f/tproxy_wireshark_dissection_with_manual_and/
+
 https://github.com/fatedier/frp#access-your-computer-in-lan-by-ssh
 
 https://www.agwa.name/blog/post/using_sni_proxying_and_ipv6_to_share_port_443

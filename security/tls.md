@@ -121,6 +121,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]
+>  https://news.ycombinator.com/item?id=31452286
+
 https://github.com/Hakky54/mutual-tls-ssl in Java 11
 
 https://web.dev/when-to-use-local-https/

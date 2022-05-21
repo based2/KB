@@ -112,6 +112,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://people.ece.cornell.edu/land/courses/ece5760/FinalProjects/s2022/az292_kw456_lh479/az292_kw456_lh479/index.html
+
 https://cronokirby.com/posts/2022/05/some-cryptography-books-i-like/
 > https://news.ycombinator.com/item?id=31385182
 

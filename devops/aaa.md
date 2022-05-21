@@ -173,6 +173,13 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.theinsaneapp.com/2022/05/gitee.html
+> https://www.zhihu.com/question/533388365/answer/2491172345
+
+https://sandervanderburg.blogspot.com/2020/07/on-using-nix-and-docker-as-deployment.html
+
+https://www.heise.de/news/GitLab-macht-Pull-basierte-Kubernetes-Deployments-kostenlos-7098276.html
+
 https://about.gitlab.com/handbook/
 > https://news.ycombinator.com/item?id=31270407
 

@@ -8,6 +8,7 @@ https://containerssh.io/
 
 https://searchservervirtualization.techtarget.com/tip/5-open-source-software-applications-for-virtualization
 > https://cockpit-project.org/
+> > https://news.ycombinator.com/item?id=31439811
 
 https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/
 > https://news.ycombinator.com/item?id=26935725

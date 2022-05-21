@@ -91,6 +91,10 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://lock.cmpxchg8b.com/linux123.html Lotus 1-2-3 For Linux
+
+https://lwn.net/Articles/895898/ LWN is now on Mastodon
+
 https://github.com/MrGlockenspiel/activate-linux
 > https://news.ycombinator.com/item?id=31388365
 

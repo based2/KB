@@ -45,3 +45,6 @@ https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=20111&skey=&sval=&list_
 > https://news.ycombinator.com/item?id=31157181
 
 https://linuxfr.org/users/julien_jorge/journaux/comparatif-d-outils-d-analyse-memoire
+
+https://awesomekling.github.io/Memory-safety-for-SerenityOS/
+> https://news.ycombinator.com/item?id=31441530

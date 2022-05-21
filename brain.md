@@ -38,6 +38,9 @@ https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neuro
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action
+> https://news.ycombinator.com/item?id=31448351
+
 https://cosmosmagazine.com/science/biology/neurons-perception-of-time/
 
 https://physics.aps.org/articles/v15/s50 Quantum Field Theory Boosts Brain Model

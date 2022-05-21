@@ -235,6 +235,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://objectiv.io/ Open-source product analytics infrastructure with a generic event taxonomy
+> https://news.ycombinator.com/item?id=31432859
+
+https://www.trymito.io/
+> https://news.ycombinator.com/item?id=31446236
+
 https://github.com/blacksmithgu/obsidian-dataview
 > https://news.ycombinator.com/item?id=31407781
 

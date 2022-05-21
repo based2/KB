@@ -268,6 +268,18 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://mlu-explain.github.io/
+
+https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html
+
+https://doriantaylor.com/the-specificity-gradient
+> https://news.ycombinator.com/item?id=31447853
+
+https://techxplore.com/news/2022-05-pace-machine.html
+
+https://arxiv.org/abs/2203.08913 Memorizing Transformers
+> https://news.ycombinator.com/item?id=31448360
+
 https://medium.com/@hpcaitech/train-18-billion-parameter-gpt-models-with-a-single-gpu-on-your-personal-computer-8793d08332dc
 
 https://pytorch.org/blog/introducing-accelerated-pytorch-training-on-mac/

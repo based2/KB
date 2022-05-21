@@ -1,3 +1,19 @@
+https://research.checkpoint.com/2022/twisted-panda-chinese-apt-espionage-operation-against-russians-state-owned-defense-institutes/
+
+https://research.nccgroup.com/2022/05/15/technical-advisory-ble-proximity-authentication-vulnerable-to-relay-attacks/
+
+https://medium.com/@mkdtsh/yik-yak-is-not-as-anonymous-as-you-think-e31b86910239
+
+https://qiuhao.org/Matryoshka_Trap.pdf QEMU/KVM, MMIO
+
+https://news.ycombinator.com/item?id=31453031 Credit Card Fraud and an Algorithm
+
+https://wiki.mikrotik.com/wiki/CALEA
+> https://news.ycombinator.com/item?id=31446000
+
+https://www.cs.dartmouth.edu/~sws/pubs/ksbk15-draft.pdf 2015
+> https://news.ycombinator.com/item?id=31447995
+
 https://bugs.openldap.org/show_bug.cgi?id=9815 openldap
 
 https://www.bleepingcomputer.com/news/security/microsoft-warns-of-brute-force-attacks-targeting-mssql-servers/
@@ -172,7 +188,7 @@ https://blog.checkpoint.com/2022/04/21/largest-mobile-chipset-manufacturers-used
 https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html
 
 https://www.cyberkendra.com/2022/04/atlassian-patch-rce-vulnerability.html Atlassian bitbucket CVE-2022-26133 RCE
-> https://www.itnews.com.au/news/atlassian-patches-auth-bypass-in-seraph-579080?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+Security+feed
+> https://www.itnews.com.au/news/atlassian-patches-auth-bypass-in-seraph-579080
 
 https://robertheaton.com/almost-scammed/
 > https://news.ycombinator.com/item?id=31108897
@@ -327,7 +343,7 @@ https://josephg.com/blog/node-sandbox/ NodeJS packages don't deserve your trust
 
 https://librestream.com/press-releases/librestream-becomes-first-remote-collaboration-solution-to-achieve-iut-status-in-fips-140-3-validation-process-further-cementing-its-leadership-position-among-highly-regulated-industries/
 
-https://nationalcybersecurity.com/apple-releases-big-sur-11-6-6-to-address-serious-security-flaws-itsecurity-infosec-cybersecurity-infosecurity-hacker/?utm_source=rss&utm_medium=rss&utm_campaign=apple-releases-big-sur-11-6-6-to-address-serious-security-flaws-itsecurity-infosec-cybersecurity-infosecurity-hacker
+https://nationalcybersecurity.com/apple-releases-big-sur-11-6-6-to-address-serious-security-flaws-itsecurity-infosec-cybersecurity-infosecurity-hacker/
 
 https://www.secureworks.com/research/azure-active-directory-exposes-internal-information
 

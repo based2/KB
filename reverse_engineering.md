@@ -4,6 +4,11 @@ https://github.com/cea-sec/miasm
 https://github.com/qilingframework/qiling Advanced binary emulation framework
 
 #
+https://github.com/e-m-b-a/emba firmware security analyzer
+
+https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-2-firmware-dump-and-analysis/
+> https://www.reddit.com/r/netsec/comments/utolxd/a_journey_into_iot_unknown_chinese_alarm_part_2/
+
 https://trenchant.io/expanding-the-dragon-adding-an-isa-to-ghidra/
 
 https://genodians.org/ssumpf/2022-05-09-telephony Pinephone

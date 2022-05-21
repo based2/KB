@@ -61,7 +61,7 @@ https://github.com/Sysinternals/ProcMon-for-Linux/
 https://goaccess.io/
 > https://news.ycombinator.com/item?id=28012307
 
-https://thanos.io/ Open source, highly available Prometheus setup with long term storage capabilities.
+https://thanos.io/ Open source, highly available Prometheus setup with longF term storage capabilities.
 
 # Distributed
 https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and ClickHouse, go
@@ -71,6 +71,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://thume.ca/2021/03/14/iforests/ Implicit In-order Forests: Zooming a billion trace events at 60fps
+
 https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/
 > https://news.ycombinator.com/item?id=31397145
 

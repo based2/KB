@@ -59,6 +59,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://kde.org/announcements/plasma/5/5.24.90/
+
 https://tsdgeos.blogspot.com/2022/05/the-kde-qt5-patch-collection-has-been.html
 
 https://svg-stencils.github.io/

@@ -21,6 +21,9 @@ https://developers.redhat.com/products/rhel/download
 
 https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
 
+https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9
+> https://news.ycombinator.com/item?id=31447904
+
 https://www.redhat.com/en/blog/whats-new-rhel-85
 
 https://www.redhat.com/en/blog/whats-new-rhel-90-beta
@@ -62,6 +65,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://9to5linux.com/rocky-linux-8-6-is-now-available-for-download-based-on-rhel-8-6
+
 https://cheapskatesguide.org/articles/kodachi-linux.html
 
 https://fedoramagazine.org/whats-new-fedora-36-workstation/

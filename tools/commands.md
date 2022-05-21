@@ -38,6 +38,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/sharkdp/fd
+> https://news.ycombinator.com/item?id=31448148
+
 https://www.commands.dev/
 > https://news.ycombinator.com/item?id=31341248
 

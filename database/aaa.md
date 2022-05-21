@@ -68,6 +68,8 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://blog.starburst.io/etl-vs-interactive-queries-the-case-for-both
+
 https://www.brimdata.io/blog/super-structured-data/
 > https://news.ycombinator.com/item?id=31411067
 

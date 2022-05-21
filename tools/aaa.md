@@ -22,3 +22,6 @@ https://dprint.dev/ pluggable and configurable code formatting platform written 
 https://man7.org/linux/man-pages/man7/roff.7.html#History
 
 https://github.com/uutils/coreutils/releases/tag/0.0.13 rust
+
+https://rustdesk.com/ Open source virtual / remote desktop infrastructure for everyone
+> https://news.ycombinator.com/item?id=31456007

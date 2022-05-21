@@ -121,6 +121,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://protonmail.com/blog/evolving-privacy/
+
 http://www.pmail.com/newsflash.htm
 > https://news.ycombinator.com/item?id=31413891
 
