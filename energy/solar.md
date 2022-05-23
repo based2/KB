@@ -16,6 +16,8 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.nrel.gov/news/press/2022/nrel-creates-highest-efficiency-1-sun-solar-cell.html
+
 https://www.jamesdysonaward.org/2020/project/aureus-aurora-renewable-energy-uv-sequestration/
 > https://news.ycombinator.com/item?id=30399379
 

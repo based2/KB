@@ -10,6 +10,11 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://thisgoke.medium.com/analysing-data-in-web3-with-sql-6c205fff6364
+> https://news.ycombinator.com/item?id=31448024
+
+https://blog.chainalysis.com/reports/2022-defi-hacks/
+
 https://finbold.com/warning-another-stablecoin-loses-peg-dei-team-working-to-restore-the-peg/
 > https://news.ycombinator.com/item?id=31408841
 

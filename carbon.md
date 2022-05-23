@@ -59,6 +59,13 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3
+> https://news.ycombinator.com/item?id=31465628
+
+https://www.nbcnews.com/news/world/heat-wave-india-pakistan-climate-change-food-crisis-ukraine-war-rcna29771
+
+https://public.wmo.int/en/media/press-release/four-key-climate-change-indicators-break-records-2021
+
 https://aip.scitation.org/doi/pdf/10.1063/5.0090017 Atmospheric pollution from rockets
 > https://news.ycombinator.com/item?id=31415725
 

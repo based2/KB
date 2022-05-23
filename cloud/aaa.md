@@ -82,6 +82,8 @@ https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Co
 
 # Incidents
 
+https://techxplore.com/news/2022-04-cloud-server-leasing-sensitive.html
+
 https://news.ycombinator.com/item?id=31417993
 
 https://status.heroku.com/incidents/2413?updated

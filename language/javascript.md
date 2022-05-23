@@ -390,6 +390,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://twitter.com/mathias/status/1522875387914694656 RFC 9239 updates JavaScript MIME type registrations to align with reality
+> https://www.rfc-editor.org/rfc/rfc9239
+
+https://www.csrhymes.com/2022/05/18/considerations-for-incremental-static-regeneration.html
+> https://news.ycombinator.com/item?id=31456519
+
 https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks
 
 https://javascript.info/

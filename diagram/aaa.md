@@ -126,6 +126,9 @@ https://github.com/AlexEidt/ASCII-Video
 https://mannhowie.com/finite-state-machines
 
 # News
+https://kinopio.club/
+> https://news.ycombinator.com/item?id=31460626
+
 https://sequencediagram.org/
 > https://news.ycombinator.com/item?id=31273124
 

@@ -28,3 +28,7 @@ https://birdnetpi.com/
 
 https://speechresearch.github.io/naturalspeech/
 > https://news.ycombinator.com/item?id=31416098
+
+https://medium.com/product-ai/textless-nlp-the-future-of-speech-generation-31a6c713cb2d
+
+https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/

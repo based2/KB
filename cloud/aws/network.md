@@ -3,6 +3,8 @@ https://blog.scottlogic.com/2021/10/11/vpcs-aws.html
 
 https://aws.amazon.com/en/blogs/aws/troubleshoot-boot-and-networking-issues-with-new-ec2-serial-console/
 
+https://aws.amazon.com/en/blogs/compute/update-issue-affecting-hashicorp-terraform-resource-deletions-after-the-vpc-improvements-to-aws-lambda/
+
 # News
 https://aws.amazon.com/en/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/
 

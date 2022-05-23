@@ -58,9 +58,6 @@ https://github.com/tesera/terraform-modules
 
 https://aws.amazon.com/en/blogs/aws/sustainability-pillar-well-architected-framework/
 
-# VPC
-https://aws.amazon.com/en/blogs/compute/update-issue-affecting-hashicorp-terraform-resource-deletions-after-the-vpc-improvements-to-aws-lambda/
-
 # Legal EULA
 https://aws.amazon.com/en/service-terms/ 42.10
 > https://gist.github.com/victorb/d51151a71bbc2cea8db27e115ab5cf16
@@ -77,6 +74,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://github.com/nathants/libaws
+
 https://www.amazon.science/blog/speeding-database-queries-by-rewriting-redundancies
 > https://news.ycombinator.com/item?id=31435751
 

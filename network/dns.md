@@ -87,6 +87,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://blog.cloudflare.com/speeding-up-https-and-http-3-negotiation-with-dns/
+
 https://www.rfc-editor.org/info/rfc9250 DNS over Dedicated QUIC Connections
 > https://news.ycombinator.com/item?id=31347478
 

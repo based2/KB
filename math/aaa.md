@@ -101,6 +101,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://nschloe.github.io/2022/05/20/math-on-github.html
+> https://news.ycombinator.com/item?id=31450597
+
 https://lawrencecpaulson.github.io//2022/05/18/Formalising-Incompleteness-I.html
 > https://news.ycombinator.com/item?id=31421797
 

@@ -195,6 +195,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.crunchydata.com/blog/instant-heatmap-with-pg_featureserv
+> https://news.ycombinator.com/item?id=31436039
+
 https://shkspr.mobi/blog/2022/05/liberating-out-of-copyright-photos-from-smartframes-drm/
 > https://news.ycombinator.com/item?id=31387092
 

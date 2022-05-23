@@ -59,6 +59,13 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 #
+https://techxplore.com/news/2022-04-algorithm-opinions.html
+
+https://marhamilresearch4.blob.core.windows.net/stego-public/stego_paper.pdf
+> https://techxplore.com/news/2022-04-scientists-algorithm-assign-pixel-world.html
+
+https://thenextweb.com/news/fomo-tinyml-neural-network-object-detection
+
 https://www.unlimiteddreamco.xyz/2022/05/05/writing-good-prompts-part-3.html
 
 https://github.com/lucidrains/DALLE2-pytorch

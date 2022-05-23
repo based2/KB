@@ -1,3 +1,12 @@
+https://simulavr.com/blog/software-overview/
+
+https://thenewstack.io/croquet-woos-javascript-devs-with-a-web-based-metaverse/
+
+https://github.com/PixarAnimationStudios/USD
+> https://medium.com/@nvidiaomniverse/plumbing-for-the-metaverse-with-universal-scene-description-usd-856a863d9b12
+
+https://www.theverge.com/2022/4/11/23020684/meta-horizon-worlds-test-creators-sell-virtual-items-monetization
+
 https://portalble.cs.brown.edu/
 > https://news.ycombinator.com/item?id=31121676
 

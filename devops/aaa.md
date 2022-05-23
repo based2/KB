@@ -173,6 +173,15 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://anchore.com/sbom/how-to-generate-an-sbom-with-free-open-source-tools/?utm_source=thenewstack&utm_medium=website&utm_campaign=platform
+
+https://consulting.drmaciver.com/code-review-quick-fixes/
+> https://news.ycombinator.com/item?id=31447080
+
+https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html?utm_source=thenewstack&utm_medium=website&utm_campaign=platform
+
+https://www.bleepingcomputer.com/news/security/github-can-now-alert-of-supply-chain-bugs-in-new-dependencies/
+
 https://www.theinsaneapp.com/2022/05/gitee.html
 > https://www.zhihu.com/question/533388365/answer/2491172345
 

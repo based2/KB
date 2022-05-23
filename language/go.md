@@ -89,6 +89,11 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://github.com/golang/go/issues/21498 proposal: Go 2: Lightweight anonymous function syntax
+> https://news.ycombinator.com/item?id=31450377
+
+https://inspektor.cloud/blog/i-made-minimal-change-to-escape-html-in-rest-using-go-reflection/
+
 https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/
 > https://news.ycombinator.com/item?id=31395161
 

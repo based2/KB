@@ -215,7 +215,11 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 # History
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
+https://nedbatchelder.com/text/which-py.html Summary of P features
+> https://news.ycombinator.com/item?id=31475130
+
 # News
+
 https://antonz.org/python-stdlib-changes/
 > https://news.ycombinator.com/item?id=31434078
 

@@ -255,6 +255,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://openjdk.java.net/projects/leyden/notes/01-beginnings Project Leyden: Address the long-term pain points of Java’s slow startup time
+> https://www.reddit.com/r/java/comments/uty9se/project_leyden_beginnings/
+
 https://www.reddit.com/r/java/comments/ujwe0j/whats_your_top_java_pet_peeve/
 
 https://www.reddit.com/r/java/comments/uke2hx/wiredi_framework_for_dependency_injection_at/

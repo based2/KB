@@ -38,6 +38,8 @@ https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neuro
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://arstechnica.com/science/2022/04/bci-lets-completely-locked-in-man-communicate-with-his-son-ask-for-a-beer/
+
 https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action
 > https://news.ycombinator.com/item?id=31448351
 

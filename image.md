@@ -11,6 +11,8 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://github.com/AlexEidt/Karve https://en.wikipedia.org/wiki/Seam_carving
+
 https://schollz.com/blog/one-line/
 > https://news.ycombinator.com/item?id=31040588
 

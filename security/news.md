@@ -1,3 +1,24 @@
+https://www.shadowserver.org/news/over-380-000-open-kubernetes-api-servers/
+
+https://www.cyber.nj.gov/alerts-advisories/critical-authentication-bypass-flaw-in-vmware-products
+
+https://ysamm.com/?p=763 Multiple bugs chained to takeover Facebook Accounts which uses Gmail
+> https://sensorstechforum.com/cve-2021-22573-google-oauth-java-client-vulnerability/
+
+https://8112310.fs1.hubspotusercontent-na1.net/hubfs/8112310/OpenSSF/White%20House%20OSS%20Mobilization%20Plan.pdf
+> https://github.com/opensbom-generator/spdx-sbom-generator
+
+https://www.wordfence.com/blog/2022/05/critical-privilege-escalation-vulnerability-in-jupiter-and-jupiterx-premium-themes/
+
+https://blog.aquasec.com/python-ransomware-jupyter-notebook
+> https://blog.aquasec.com/python-ransomware-jupyter-notebook
+
+https://www.bleepingcomputer.com/news/security/microsoft-detects-massive-surge-in-linux-xorddos-malware-activity/
+
+https://www.bleepingcomputer.com/news/security/microsoft-teams-windows-11-hacked-on-first-day-of-pwn2own/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-updates-fix-windows-ad-authentication-issues/
+
 https://research.checkpoint.com/2022/twisted-panda-chinese-apt-espionage-operation-against-russians-state-owned-defense-institutes/
 
 https://research.nccgroup.com/2022/05/15/technical-advisory-ble-proximity-authentication-vulnerable-to-relay-attacks/
@@ -108,6 +129,7 @@ https://arstechnica.com/information-technology/2022/05/zyxel-silently-patches-co
 > https://www.rapid7.com/blog/post/2022/05/12/cve-2022-30525-fixed-zyxel-firewall-unauthenticated-remote-command-injection/
 > https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/
 > > https://www.reddit.com/r/netsec/comments/uhd9ye/zyxel_firmware_extraction_and_password_analysis/
+> https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/
 
 https://news.ycombinator.com/item?id=31359218
 
@@ -269,6 +291,7 @@ https://posts.specterops.io/coercing-ntlm-authentication-from-sccm-e6e23ea8260a
 
 https://www.wired.com/story/pipedream-ics-malware/
 > https://hub.dragos.com/hubfs/116-Whitepapers/Dragos_ChernoviteWP_v2b.pdf
+> https://arstechnica.com/information-technology/2022/04/us-uncovers-swiss-army-knife-for-hacking-industrial-control-systems/
 
 https://i.blackhat.com/EU-21/Wednesday/EU-21-Rossi-Bellom-2021_A_Titan_M_Odyssey-wp.pdf
 

@@ -5,6 +5,8 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://news.ycombinator.com/item?id=31460883 Chase paymentech
+
 https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers
 > https://news.ycombinator.com/item?id=31424450
 

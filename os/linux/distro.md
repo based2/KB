@@ -65,6 +65,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://discourse.ubuntu.com/t/pipewire-as-a-replacement-for-pulseaudio/28489
+> https://news.ycombinator.com/item?id=31457965
+
 https://9to5linux.com/rocky-linux-8-6-is-now-available-for-download-based-on-rhel-8-6
 
 https://cheapskatesguide.org/articles/kodachi-linux.html

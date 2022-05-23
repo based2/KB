@@ -124,6 +124,8 @@ https://marc.info/?l=freebsd-announce&m=165016689418229&w=2
 
 https://klarasystems.com/articles/interacting-with-freebsd-learning-the-fundamentals-of-the-freebsd-shell-2/
 
+https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/
+
 https://www.freebsd.org/releases/13.1R/relnotes/
 
 # NetBSD

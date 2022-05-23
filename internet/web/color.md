@@ -65,6 +65,8 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://leonardocolor.io/#
+
 https://polypane.app/blog/forced-colors-explained-a-practical-guide/
 > https://news.ycombinator.com/item?id=31094468
 

@@ -268,6 +268,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://techxplore.com/news/2022-04-ai-tool-efficiency-uk-sewer.html
+
+https://laion.ai/#about
+
+https://arxiv.org/abs/2112.06905 GLaM: Efficient Scaling of Language Models with Mixture-of-Experts
+> https://info.deeplearning.ai/the-batch-recognizing-distracted-drivers-training-fighter-pilots-dominating-the-bridge-table-training-trillions-of-parameters
+> https://arxiv.org/abs/1701.06538 Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer
+
 https://mlu-explain.github.io/
 
 https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html

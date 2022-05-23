@@ -143,6 +143,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://thenewstack.io/james-webb-space-telescope-and-344-single-points-of-failure/
+
 https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data
 
 https://www.pbsspacetime.com/

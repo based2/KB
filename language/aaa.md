@@ -271,6 +271,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/
+> https://news.ycombinator.com/item?id=31456550
+
 https://pike.lysator.liu.se/
 > https://news.ycombinator.com/item?id=31453255
 

@@ -41,6 +41,8 @@ https://tikz.net/
 https://latex-cookbook.net/
 > https://news.ycombinator.com/item?id=29672872
 
+https://vlmantova.github.io/bookml/
+
 #
 https://markdoc.io/
 > https://news.ycombinator.com/item?id=31341083

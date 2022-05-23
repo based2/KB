@@ -227,6 +227,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://linuxfoundation.org/tools/census-ii-of-free-and-open-source-software-application-libraries/
+> https://thenewstack.io/secure-your-code-with-census-ii-open-source-libraries/
+
 https://inkscape.org/release/inkscape-1.2/
 > https://news.ycombinator.com/item?id=31403532
 
