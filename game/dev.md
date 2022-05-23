@@ -97,6 +97,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/
+> https://news.ycombinator.com/item?id=31450218
+
 https://lolesports.com/article/riot-games-tech-blog-artificial-latency-for-remote-competitors/blt44154a33b5d5a616
 > https://news.ycombinator.com/item?id=31412440
 

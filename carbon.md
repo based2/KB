@@ -59,6 +59,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.bloomberg.com/opinion/articles/2022-05-23/the-sec-goes-after-greenwashing
+
 https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3
 > https://news.ycombinator.com/item?id=31465628
 

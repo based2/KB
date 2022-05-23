@@ -235,6 +235,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://bytepawn.com/python-decorators-for-data-scientists.html
+> https://news.ycombinator.com/item?id=31476521
+
 https://thenewstack.io/time-series-forecasting-with-tensorflow-and-influxdb/
 
 https://objectiv.io/ Open-source product analytics infrastructure with a generic event taxonomy

@@ -11,6 +11,9 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://justine.lol/blinkenlights/ command line debugger that focuses on visualizing how software changes memory
+> https://news.ycombinator.com/item?id=31473846
+
 https://dl.acm.org/doi/abs/10.1145/3468264.3468625 Probabilistic Delta debugging
 
 https://gramineproject.io/blog/gdb-support-in-gramine/ sgx

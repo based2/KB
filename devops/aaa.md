@@ -51,6 +51,9 @@ https://eatcodeplay.com/upgrading-to-airflow-2-0-massive-performance-wins-and-le
 https://airbyte.io/blog/airflow-etl-pipelines
 > https://news.ycombinator.com/item?id=28799745
 
+https://shopify.engineering/lessons-learned-apache-airflow-scale
+> https://news.ycombinator.com/item?id=31480320
+
 https://drewdevault.com/2019/10/12/how-to-fuck-up-releases.html
 > https://news.ycombinator.com/item?id=26902422
 
@@ -161,6 +164,8 @@ SourceForge nobody Apache HTTPD configuration
 
 # New versions
 
+https://about.gitlab.com/releases/2022/05/22/gitlab-15-0-released/
+
 https://about.gitlab.com/releases/2022/04/22/gitlab-14-10-released/
 
 https://about.gitlab.com/releases/2022/02/22/gitlab-14-8-released/
@@ -173,12 +178,14 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
-https://anchore.com/sbom/how-to-generate-an-sbom-with-free-open-source-tools/?utm_source=thenewstack&utm_medium=website&utm_campaign=platform
+https://blog.replit.com/nix_dynamic_version
+
+https://anchore.com/sbom/how-to-generate-an-sbom-with-free-open-source-tools/
 
 https://consulting.drmaciver.com/code-review-quick-fixes/
 > https://news.ycombinator.com/item?id=31447080
 
-https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html?utm_source=thenewstack&utm_medium=website&utm_campaign=platform
+https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html
 
 https://www.bleepingcomputer.com/news/security/github-can-now-alert-of-supply-chain-bugs-in-new-dependencies/
 

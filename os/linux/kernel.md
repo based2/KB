@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lkml.org/lkml/2022/5/22/274 Linux 5.18
+
 https://lwn.net/SubscriberLink/895217/eea75d643a340b32/ Sharing page tables with mshare()
 > https://news.ycombinator.com/item?id=31421675
 

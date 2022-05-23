@@ -271,6 +271,15 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://flix.dev/
+> https://news.ycombinator.com/item?id=31448889
+
+https://ayende.com/blog/197282-B/modern-programming-languages-require-generics?key=37e0cfa91b16417bae269c4bdd17f522
+> https://news.ycombinator.com/item?id=31475765
+
+https://jakstys.lt/2022/how-uber-uses-zig/
+> https://news.ycombinator.com/item?id=31478562
+
 https://blog.sigplan.org/2022/05/19/language-design-in-the-real-world/
 > https://news.ycombinator.com/item?id=31456550
 

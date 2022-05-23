@@ -1,3 +1,14 @@
+https://www.numerama.com/cyberguerre/974259-google-denonce-une-societe-qui-a-exploite-5-failles-secretes-dans-chrome-et-android.html
+
+https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-037.pdf Path Traversal SPL Injection in Splunk
+
+https://vigilance.fr/vulnerabilite/Noyau-Linux-elevation-de-privileges-via-perf-38423
+
+https://www.bleepingcomputer.com/news/security/windows-11-hacked-three-more-times-on-last-day-of-pwn2own-contest/
+
+https://arxiv.org/pdf/2205.06114.pdf Evil Never Sleeps: When Wireless Malware Stays On After Turning Off iPhones
+> https://thehackernews.com/2022/05/researchers-find-way-to-run-malware-on.html
+
 https://www.shadowserver.org/news/over-380-000-open-kubernetes-api-servers/
 
 https://www.cyber.nj.gov/alerts-advisories/critical-authentication-bypass-flaw-in-vmware-products

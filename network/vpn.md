@@ -54,6 +54,8 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://seashell.github.io/drago/#/ Flexible configuration manager for WireGuard networks
+
 https://protonvpn.com/blog/no-logs-audit/
 > https://news.ycombinator.com/item?id=31013683
 

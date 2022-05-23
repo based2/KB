@@ -167,6 +167,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://nickgravgaard.com/elastic-tabstops/
+> https://news.ycombinator.com/item?id=31477853
+
 https://tylr.fun/ tiny tile-based editor
 > https://news.ycombinator.com/item?id=31384528
 

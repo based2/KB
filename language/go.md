@@ -89,6 +89,12 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://blog.merovius.de/posts/2022-05-23-operator-constraints/
+> https://news.ycombinator.com/item?id=31482256
+
+https://ente.io/blog/tech/go-nulls-and-sql/
+> https://news.ycombinator.com/item?id=31467077
+
 https://github.com/golang/go/issues/21498 proposal: Go 2: Lightweight anonymous function syntax
 > https://news.ycombinator.com/item?id=31450377
 

@@ -1,4 +1,7 @@
 # News
+https://www.vidarholen.net/contents/blog/?p=479 Useless Use Of dd
+> https://news.ycombinator.com/item?id=31474710
+
 https://blog.thevinter.com/posts/vimeo
 > https://news.ycombinator.com/item?id=31271451
 

@@ -24,6 +24,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://github.com/NginxProxyManager/nginx-proxy-manager
+> https://news.ycombinator.com/item?id=31454581
+
 https://objectifsecurite.gitlab.io/tproxy/ interception proxy for TCP traffic
 > https://www.reddit.com/r/netsec/comments/us559f/tproxy_wireshark_dissection_with_manual_and/
 

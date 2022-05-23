@@ -259,6 +259,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://blog.aloni.org/posts/proper-use-of-git-tags/
+
 https://github.com/naggie/dstask
 > https://news.ycombinator.com/item?id=31409707
 

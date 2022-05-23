@@ -368,6 +368,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.cyplo.dev/posts/2018/12/generate-rust-tests-from-data/
+
 https://inspektor.cloud/blog/raw-identifier-in-rust
 
 https://www.bunniestudios.com/blog/?p=6375 Rust: A Critical Retrospective

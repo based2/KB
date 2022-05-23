@@ -187,6 +187,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://github.com/formkit/auto-animate
+> https://news.ycombinator.com/item?id=31449044
+
 https://www.joshwcomeau.com/css/surprising-truth-about-pixels-and-accessibility/
 > https://news.ycombinator.com/item?id=31424392
 

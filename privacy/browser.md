@@ -9,6 +9,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting
+> https://news.ycombinator.com/item?id=31479605
+
 https://www.theverge.com/2022/4/21/23035289/google-reject-all-cookie-button-eu-privacy-data-laws
 > https://news.ycombinator.com/item?id=31144313
 

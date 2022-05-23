@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.apple.com/apple-cash/
+> https://news.ycombinator.com/item?id=31473293
+
 https://news.ycombinator.com/item?id=31460883 Chase paymentech
 
 https://www.getlago.com/blog/why-billing-systems-are-a-nightmare-for-engineers
