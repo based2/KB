@@ -15,4 +15,7 @@ https://en.wikipedia.org/wiki/Human_Rights_League_(France)
 https://www.anticor.org/
 
 # News
+https://www.xinjiangpolicefiles.org/
+> https://news.ycombinator.com/item?id=31488436
+
 https://www.reuters.com/business/environment/un-passes-resolution-making-clean-environment-access-human-right-2021-10-08/

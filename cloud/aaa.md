@@ -120,6 +120,15 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.digitalocean.com/blog/introducing-digitalocean-functions-serverless-computing
+> https://news.ycombinator.com/item?id=31491029
+
+https://planetscale.com/blog/introducing-planetscale-portals-read-only-regions
+> https://news.ycombinator.com/item?id=31493881
+
+https://www.linode.com/de/products/databases/
+> https://news.ycombinator.com/item?id=31496168
+
 https://arxiv.org/abs/2205.07147 The Sky Above The Clouds, future
 > https://news.ycombinator.com/item?id=31449735
 

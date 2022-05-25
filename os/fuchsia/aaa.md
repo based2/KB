@@ -21,6 +21,9 @@ https://github.com/dahliaOS/pangolin_desktop
 > https://news.ycombinator.com/item?id=30460120
 
 # News
+https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html
+> https://news.ycombinator.com/item?id=31497827
+
 https://fuchsia.dev/fuchsia-src/development/build/build_workstation
 > https://news.ycombinator.com/item?id=30827210
 

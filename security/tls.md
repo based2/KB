@@ -121,6 +121,12 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://m1el.github.io/oculus-tls-extract/
+> https://news.ycombinator.com/item?id=31494825
+
+https://www.eff.org/https-everywhere/set-https-default-your-browser
+> https://news.ycombinator.com/item?id=31503451
+
 https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf When eBPF meets TLS. Defeating TLS encryption with eBPF tricks [pdf]
 >  https://news.ycombinator.com/item?id=31452286
 

@@ -62,6 +62,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://minikube.sigs.k8s.io/docs/
+> https://news.ycombinator.com/item?id=31509011
+
 https://github.com/CleverCloud/clever-operator K8s operator that expose clever cloud's resources through CRD
 > https://blog.zwindler.fr/2022/05/17/et-si-on-testait-clever-kubernetes-operator/
 

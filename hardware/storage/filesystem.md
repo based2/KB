@@ -25,6 +25,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://openzfs.github.io/openzfs-docs/Getting%20Started/Ubuntu/Ubuntu%2022.04%20Root%20on%20ZFS.html
+> https://news.ycombinator.com/item?id=31504327
+
 https://bcachefs.org/bcachefs-principles-of-operation.pdf
 > https://news.ycombinator.com/item?id=31419120
 

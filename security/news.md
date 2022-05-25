@@ -1,3 +1,31 @@
+https://support.apple.com/en-en/guide/security/secbbd20b00b/web
+
+https://techxplore.com/news/2022-05-countermeasure-unwanted-wireless-surveillance.html
+> https://news.ycombinator.com/item?id=31502543
+
+https://python-security.readthedocs.io/pypi-vuln/index-2022-05-24-ctx-domain-takeover.html
+> https://news.ycombinator.com/item?id=31495511
+
+https://www.bleepingcomputer.com/news/security/popular-python-and-php-libraries-hijacked-to-steal-aws-keys/
+> https://news.ycombinator.com/item?id=31502166
+
+https://bugs.chromium.org/p/project-zero/issues/detail?id=2254 zoom
+> https://news.ycombinator.com/item?id=31493000
+
+https://plundervolt.com/
+> https://news.ycombinator.com/item?id=31500684
+
+https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-iosxr-redis-ABJyE5xK
+
+https://rhinosecuritylabs.com/application-security/cve-2022-25237-bonitasoft-authorization-bypass/
+
+https://darknetlive.com/post/psa-security-vuln-in-tor-browser/
+> https://news.ycombinator.com/item?id=31509777
+
+https://tails.boum.org/security/prototype_pollution/index.en.html
+
+https://threatpost.com/snake-keylogger-pdfs/179703/
+
 https://www.numerama.com/cyberguerre/974259-google-denonce-une-societe-qui-a-exploite-5-failles-secretes-dans-chrome-et-android.html
 
 https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-037.pdf Path Traversal SPL Injection in Splunk

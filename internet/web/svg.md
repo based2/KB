@@ -34,3 +34,6 @@ https://www.willmcgugan.com/blog/tech/post/exporting-svgs-of-terminal-output-wit
 
 https://bjango.com/articles/svgpassthroughprecision/
 > https://news.ycombinator.com/item?id=31072816
+
+https://www.smashingmagazine.com/2022/05/magical-svg-techniques/
+> https://news.ycombinator.com/item?id=31502186

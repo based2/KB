@@ -60,6 +60,12 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://videomentions.com/search
+> https://news.ycombinator.com/item?id=31504002
+
+https://developers.google.com/search/blog/2022/05/may-2022-core-update
+> https://news.ycombinator.com/item?id=31507232
+
 https://news.ycombinator.com/item?id=31387592 Directories
 
 https://www.oldestsearch.com/

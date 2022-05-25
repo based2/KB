@@ -31,4 +31,6 @@ https://news.ycombinator.com/item?id=31314093
 https://blogic.so/
 > https://news.ycombinator.com/item?id=31335887
 
+https://news.ycombinator.com/item?id=31508130 Ask HN: Honest thoughts on no-code or low-code solutions?
+
 

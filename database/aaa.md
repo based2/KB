@@ -68,6 +68,11 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.foxhound.systems/blog/essential-elements-of-high-performance-sql-indexes/
+
+http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf Are You Sure You Want to Use MMAP in Your Database Management System?
+> https://news.ycombinator.com/item?id=31504052
+
 https://blog.starburst.io/etl-vs-interactive-queries-the-case-for-both
 
 https://www.brimdata.io/blog/super-structured-data/

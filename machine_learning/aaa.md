@@ -268,6 +268,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.researchgate.net/publication/337015923_AutoGRD_Model_Recommendation_Through_Graphical_Dataset_Representation
+
 https://techxplore.com/news/2022-04-ai-tool-efficiency-uk-sewer.html
 
 https://laion.ai/#about

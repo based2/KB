@@ -18,6 +18,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 > https://news.ycombinator.com/item?id=31363738
 
 # News
+https://keunwoo.com/notes/rebooting/
+> https://news.ycombinator.com/item?id=31497555
+
 https://blog.puter.com/posts/private-beta-release
 > https://news.ycombinator.com/item?id=31425094
 

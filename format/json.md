@@ -69,6 +69,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://github.com/eclipsesource/jsonforms
+> https://news.ycombinator.com/item?id=31498533
+
 https://github.com/hasura/kriti-lang
 
 https://colab.research.google.com/github/dcmoura/spyql/blob/master/notebooks/json_benchmark.ipynb

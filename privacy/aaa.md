@@ -95,6 +95,9 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://github.com/manibatra/kube-pihole
+> https://news.ycombinator.com/item?id=31498925
+
 https://petewarden.com/2022/04/11/is-google-spying-on-your-conversations/
 
 https://support.apple.com/en-au/HT212614 About iCloud Private Relay, iCloud+ subscription

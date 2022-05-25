@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://arstechnica.com/cars/2022/05/want-a-small-affordable-ev-tough-luck-if-you-live-in-the-usa/
+> https://news.ycombinator.com/item?id=31509906
+
 https://speedcamanywhere.com/
 > https://news.ycombinator.com/item?id=30933163
 

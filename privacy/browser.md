@@ -9,6 +9,15 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://twitter.com/thezedwards/status/1528808795983319041
+> https://news.ycombinator.com/item?id=31508866
+
+https://twitter.com/shivan_kaul/status/1528879590772338689
+> https://news.ycombinator.com/item?id=31490515
+
+https://arstechnica.com/tech-policy/2022/05/democrats-say-google-location-data-could-be-used-to-prosecute-women-for-abortions/
+> https://news.ycombinator.com/item?id=31509772
+
 https://support.mozilla.org/en-US/kb/firefox-protection-against-fingerprinting
 > https://news.ycombinator.com/item?id=31479605
 

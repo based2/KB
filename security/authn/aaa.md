@@ -59,6 +59,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://blog.mailpace.com/blog/why-we-use-webauthn-for-2fa/
+> https://news.ycombinator.com/item?id=31497538
+
 https://github.com/zitadel/zitadel go iam
 > https://news.ycombinator.com/item?id=31408059
 

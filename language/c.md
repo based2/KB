@@ -71,6 +71,12 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://alanwu.space/post/strict-aliasing/
+> https://news.ycombinator.com/item?id=31495809
+
+https://gynvael.coldwind.pl/n/c_cpp_number_to_binary_string_01011010
+> https://news.ycombinator.com/item?id=31509028
+
 https://libc.llvm.org/
 
 https://justine.lol/ftrace/

@@ -271,6 +271,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://pages.cs.wisc.edu/~remzi/Naur.pdf
+> https://news.ycombinator.com/item?id=31500174
+
 https://flix.dev/
 > https://news.ycombinator.com/item?id=31448889
 

@@ -59,6 +59,9 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 #
+https://imagen.research.google/
+> https://news.ycombinator.com/item?id=31484562
+
 https://techxplore.com/news/2022-04-algorithm-opinions.html
 
 https://marhamilresearch4.blob.core.windows.net/stego-public/stego_paper.pdf

@@ -25,4 +25,10 @@ https://github.com/triska/the-power-of-prolog
 https://arxiv.org/abs/2201.10816 50 Years of Prolog and Beyond
 > https://news.ycombinator.com/item?id=30096930
 
+http://www.call-with-current-continuation.org/microfleng/microfleng.html
+> https://news.ycombinator.com/item?id=31506240
+
+https://github.com/ashton314/muKanren_reading
+> https://news.ycombinator.com/item?id=31504175
+
 https://twitter.com/mjt128/status/1500531457780948992 Scryer Prolog v.0.9.0, rust

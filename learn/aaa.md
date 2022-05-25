@@ -105,6 +105,10 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.nsip.edu.au/systems-interoperability-framework
+> news.ycombinator.com/item?id=31497139
+> > https://home.a4l.org/about-us/
+
 https://www.natemeyvis.com/writing/on-ankis-database-structure/
 > https://news.ycombinator.com/item?id=30427549
 

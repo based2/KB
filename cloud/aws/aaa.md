@@ -74,7 +74,11 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://www.daemonology.net/blog/2022-05-23-FreeBSD-Graviton-3.html
+> https://news.ycombinator.com/item?id=31489130
+
 https://github.com/nathants/libaws
+> https://news.ycombinator.com/item?id=31478189
 
 https://www.amazon.science/blog/speeding-database-queries-by-rewriting-redundancies
 > https://news.ycombinator.com/item?id=31435751

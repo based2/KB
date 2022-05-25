@@ -143,6 +143,12 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Diffractive_Lightsails/
+> https://news.ycombinator.com/item?id=31508459
+
+https://orbitalindex.com/archive/2022-05-25-Issue-170/
+> https://news.ycombinator.com/item?id=31505883
+
 https://thenewstack.io/james-webb-space-telescope-and-344-single-points-of-failure/
 
 https://www.jpl.nasa.gov/news/engineers-investigating-nasas-voyager-1-telemetry-data

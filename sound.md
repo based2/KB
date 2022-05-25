@@ -27,6 +27,15 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://www.stef.be/bassoontracker/
+> https://news.ycombinator.com/item?id=31499629
+
+https://github.com/badaix/snapcast
+> https://news.ycombinator.com/item?id=31502845
+
+https://www.sonobus.net/
+> https://news.ycombinator.com/item?id=31505323
+
 https://celtera.github.io/avendish/foreword.html
 
 https://vital.audio/

@@ -178,6 +178,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://netfoundry.io/this-is-the-way-invisible-jenkins/
+> https://news.ycombinator.com/item?id=31503429
+
 https://blog.replit.com/nix_dynamic_version
 
 https://anchore.com/sbom/how-to-generate-an-sbom-with-free-open-source-tools/

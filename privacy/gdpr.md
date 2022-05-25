@@ -56,6 +56,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://noyb.eu/en/statement-4-years-gdpr
+> https://news.ycombinator.com/item?id=31501897
+
 https://news.ycombinator.com/item?id=31072973 Leave it to the browser to opt out of cookies
 
 https://transcend.io/blog/gdpr-fines/

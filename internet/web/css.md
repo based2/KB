@@ -187,6 +187,12 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b
+> https://news.ycombinator.com/item?id=31501344
+
+https://webkit.org/blog/12662/customizing-color-fonts-on-the-web/
+> https://news.ycombinator.com/item?id=31506244
+
 https://github.com/formkit/auto-animate
 > https://news.ycombinator.com/item?id=31449044
 

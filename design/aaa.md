@@ -80,6 +80,9 @@ https://ralphammer.com/make-me-think/
 > https://news.ycombinator.com/item?id=30269350
 
 #
+https://uxdesign.cc/the-forgotten-benefits-of-low-tech-user-interfaces-57fdbb6ac83
+> https://news.ycombinator.com/item?id=31502193
+
 https://experiments.withgoogle.com/little-signals
 
 https://ai.googleblog.com/2022/04/hidden-interfaces-for-ambient-computing.html

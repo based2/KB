@@ -26,6 +26,9 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html
+> https://news.ycombinator.com/item?id=31504175
+
 https://jleightcap.srht.site/blog/openphone.html
 > https://news.ycombinator.com/item?id=31076036
 

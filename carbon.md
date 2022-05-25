@@ -59,6 +59,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.undrr.org/publication/global-assessment-report-disaster-risk-reduction-2022
+
+https://pudding.cool/projects/heat-records/
+> https://news.ycombinator.com/item?id=31497765
+
 https://www.bloomberg.com/opinion/articles/2022-05-23/the-sec-goes-after-greenwashing
 
 https://www.cell.com/one-earth/fulltext/S2590-3322(22)00209-3

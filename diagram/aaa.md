@@ -122,6 +122,9 @@ https://github.com/michaelkofron/image2ascii
 
 https://github.com/AlexEidt/ASCII-Video
 
+http://www.figlet.org/
+> https://news.ycombinator.com/item?id=31506724
+
 # State Machine
 https://mannhowie.com/finite-state-machines
 

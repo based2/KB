@@ -68,6 +68,9 @@ https://github.com/robhagemans/hoard-of-bitfonts
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://jason.today/little-worlds
+> https://news.ycombinator.com/item?id=31481581
+
 https://en.wikipedia.org/wiki/Bibi-binary
 > https://news.ycombinator.com/item?id=31038658
 

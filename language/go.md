@@ -89,6 +89,9 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://christine.website/blog/we-have-go-2
+> https://news.ycombinator.com/item?id=31506599
+
 https://blog.merovius.de/posts/2022-05-23-operator-constraints/
 > https://news.ycombinator.com/item?id=31482256
 

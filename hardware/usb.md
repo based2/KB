@@ -25,6 +25,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://docs.tinyusb.org/en/latest/
+> https://news.ycombinator.com/item?id=31484713
+
 https://dancharblog.wordpress.com/2021/08/19/why-do-usb-c-hubs-still-have-usb-2-0-ports/
 > https://news.ycombinator.com/item?id=31333981
 

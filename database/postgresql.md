@@ -188,6 +188,8 @@ https://github.com/bikeshedder/tusker
 https://retool.com/blog/how-we-upgraded-postgresql-database/
 > https://news.ycombinator.com/item?id=31084147
 
+https://github.com/michelp/metagration
+
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 
@@ -246,6 +248,8 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://www.crunchydata.com/blog/postgres-query-optimization-left-join-vs-union-all
+
 https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/
 > https://news.ycombinator.com/item?id=31444558
 

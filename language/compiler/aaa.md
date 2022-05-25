@@ -108,6 +108,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://kristerw.github.io/2022/05/24/branchless/
+> https://news.ycombinator.com/item?id=31501980
+
 https://trofi.github.io/posts/243-gcc-profiler-internals.html
 > https://news.ycombinator.com/item?id=31448836
 

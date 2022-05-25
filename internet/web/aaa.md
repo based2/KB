@@ -85,6 +85,9 @@ https://techcrunch.com/2022/04/18/web-scraping-legal-court/
 > https://news.ycombinator.com/item?id=31075396
 
 # News
+https://jasonette.com/
+> https://news.ycombinator.com/item?id=31500939
+
 https://github.com/bluesky-social/adx
 > https://news.ycombinator.com/item?id=31267727
 > > https://web.dev/signed-exchanges/

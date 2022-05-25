@@ -235,6 +235,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://datascienceincontext.com/
+> https://news.ycombinator.com/item?id=31496772
+
 https://bytepawn.com/python-decorators-for-data-scientists.html
 > https://news.ycombinator.com/item?id=31476521
 

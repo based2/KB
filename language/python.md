@@ -219,6 +219,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/IBM/import-tracker utility for tracking third party dependencies within a library
+> https://news.ycombinator.com/item?id=31507106
 
 https://antonz.org/python-stdlib-changes/
 > https://news.ycombinator.com/item?id=31434078

@@ -54,6 +54,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://elists.isoc.org/pipermail/internet-history/2021-January/006912.html
+> https://news.ycombinator.com/item?id=31502276
+
 https://adam-p.ca/blog/2022/03/x-forwarded-for/ The perils of the “real” client IP
 > https://news.ycombinator.com/item?id=30570053
 

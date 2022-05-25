@@ -72,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.catphones.com/en-us/cat-s22-flip/
+> https://news.ycombinator.com/item?id=31493138#31493516
+
 https://angstronomics.substack.com/p/site-launch-exclusive-all-the-juicy?s=r
 > https://news.ycombinator.com/item?id=31472716
 
