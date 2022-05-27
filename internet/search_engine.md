@@ -60,6 +60,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://opensearch.org/blog/releases/2022/05/opensearch-2-0-is-now-available/
+> https://news.ycombinator.com/item?id=31529614
+
 https://videomentions.com/search
 > https://news.ycombinator.com/item?id=31504002
 

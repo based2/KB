@@ -368,6 +368,11 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://onesignal.com/blog/solving-memory-leaks-in-rust/
+> https://onesignal.com/blog/solving-memory-leaks-in-rust/
+
+https://johns.codes/blog/rust-enviorment-and-docker-build-with-nix-flakes
+
 https://blog.cyplo.dev/posts/2018/12/generate-rust-tests-from-data/
 
 https://inspektor.cloud/blog/raw-identifier-in-rust

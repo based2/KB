@@ -84,6 +84,9 @@ https://scrapingfish.com/blog/scraping-instagram
 https://techcrunch.com/2022/04/18/web-scraping-legal-court/
 > https://news.ycombinator.com/item?id=31075396
 
+https://github.com/reanalytics-databoutique/webscraping-open-project
+> https://news.ycombinator.com/item?id=31531694
+
 # News
 https://jasonette.com/
 > https://news.ycombinator.com/item?id=31500939

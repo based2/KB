@@ -259,6 +259,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://think-like-a-git.net/
+
+https://github.com/aaossa/git-activity
+> https://news.ycombinator.com/item?id=31532156
+
 https://blog.aloni.org/posts/proper-use-of-git-tags/
 
 https://github.com/naggie/dstask

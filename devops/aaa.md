@@ -125,6 +125,9 @@ https://www.githubstatus.com/incidents/b40k7ckrs7sp
 https://www.bleepingcomputer.com/news/security/github-restores-popular-python-repo-hit-by-bogus-dmca-takedown/
 
 https://www.theregister.com/2022/04/21/github-stolen-oauth-tokens-used-in-breaches/
+> https://github.blog/2022-05-26-npm-security-update-oauth-tokens/
+> > https://news.ycombinator.com/item?id=31526044
+> https://www.theregister.com/2022/05/27/github_publishes_a_post_mortem/
 
 https://www.githubstatus.com/incidents/vxvyrmy9w1vp
 > https://news.ycombinator.com/item?id=31023695

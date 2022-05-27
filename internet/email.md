@@ -121,6 +121,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://proton.me/blog/what-is-end-to-end-encryption
+> https://news.ycombinator.com/item?id=31512113
+
 https://proton.me/news/updated-proton
 > https://news.ycombinator.com/item?id=31503241
 

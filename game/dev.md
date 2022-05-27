@@ -97,6 +97,12 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU
+> https://news.ycombinator.com/item?id=31510432
+
+https://mrmotarius.itch.io/mrmo-halftone
+> https://news.ycombinator.com/item?id=31529853
+
 http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers/
 > https://news.ycombinator.com/item?id=31450218
 

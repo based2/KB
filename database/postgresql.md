@@ -248,6 +248,8 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine
+
 https://www.crunchydata.com/blog/postgres-query-optimization-left-join-vs-union-all
 
 https://www.citusdata.com/blog/2022/05/19/speeding-up-sort-performance-in-postgres-15/

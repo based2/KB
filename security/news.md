@@ -1,3 +1,25 @@
+https://threadreaderapp.com/thread/1526593840928411650.html 
+
+https://blog.sigstore.dev/privacy-in-sigstore-57cac15af0d0
+
+https://connormcgarr.github.io/hvci/
+
+https://www.bleepingcomputer.com/news/security/oas-platform-vulnerable-to-critical-rce-and-api-access-flaws/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-better-security-defaults-for-all-azure-ad-tenants/
+
+https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-auth-bypass-bug-patch-now/
+
+https://suricata.io/
+
+https://www.snort.org/ Network Intrusion Detection and Prevention System
+> https://news.ycombinator.com/item?id=31534316
+
+https://helgeklein.com/blog/windows-os-services-apps-network-connection-target-hosts/
+> https://news.ycombinator.com/item?id=31527621
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1763632 connection reuse may route traffic to malicious servers
+
 https://support.apple.com/en-en/guide/security/secbbd20b00b/web
 
 https://techxplore.com/news/2022-05-countermeasure-unwanted-wireless-surveillance.html

@@ -30,6 +30,8 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://webkit.org/blog/12566/private-click-measurement-conversion-fraud-prevention-and-replacement-for-tracking-pixels/
+
 https://lwthiker.com/opensource/2022/05/21/firefox-flagged-suspicious.html
 > https://news.ycombinator.com/item?id=31459258
 

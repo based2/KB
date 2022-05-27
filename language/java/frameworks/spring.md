@@ -52,6 +52,8 @@ https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-nex
 > https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
+https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0
+
 https://towardsdev.com/spring-boot-data-access-layer-best-practices-c544d400de7b
 > https://www.reddit.com/r/java/comments/tig3g8/spring_boot_data_access_layer_best_practices/
 

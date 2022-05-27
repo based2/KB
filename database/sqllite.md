@@ -91,6 +91,12 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/fiddle/
+> https://news.ycombinator.com/item?id=31518618
+
+https://rischmann.fr/blog/how-i-built-zig-sqlite
+> https://news.ycombinator.com/item?id=31527559
+
 https://litestream.io/alternatives/cron/
 > https://news.ycombinator.com/item?id=31386330
 

@@ -235,6 +235,14 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.alluxio.io/blog/metadata-synchronization-in-alluxio-design-implementation-and-optimization/
+
+https://www.os2museum.com/wp/identify-esdi-drive/
+> https://news.ycombinator.com/item?id=31502691
+
+https://architecturenotes.co/datasette-simon-willison/
+> https://news.ycombinator.com/item?id=31530690
+
 https://datascienceincontext.com/
 > https://news.ycombinator.com/item?id=31496772
 

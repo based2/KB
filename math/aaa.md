@@ -101,6 +101,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html
+> https://news.ycombinator.com/item?id=31533125
+
 https://nschloe.github.io/2022/05/20/math-on-github.html
 > https://news.ycombinator.com/item?id=31450597
 

@@ -1,3 +1,5 @@
+Verify identity
+
 https://en.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer
 > https://datatracker.ietf.org/doc/html/rfc2595
 
@@ -59,6 +61,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://github.com/tlandeka/authentication-microservice-with-domain-driven-design
+
 https://blog.mailpace.com/blog/why-we-use-webauthn-for-2fa/
 > https://news.ycombinator.com/item?id=31497538
 

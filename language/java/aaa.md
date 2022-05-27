@@ -255,6 +255,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://inside.java/2022/05/27/testing-clean-cleaner-cleanup/
+
+https://inside.java/2022/05/25/clean-cleaner/
+
 https://openjdk.java.net/projects/leyden/notes/01-beginnings Project Leyden: Address the long-term pain points of Java’s slow startup time
 > https://www.reddit.com/r/java/comments/uty9se/project_leyden_beginnings/
 

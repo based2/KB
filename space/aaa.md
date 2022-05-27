@@ -143,6 +143,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://dificonsortium.org/
+
 https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Diffractive_Lightsails/
 > https://news.ycombinator.com/item?id=31508459
 

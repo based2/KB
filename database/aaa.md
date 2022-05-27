@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://duckdb.org/2022/05/27/iejoin.html
+> https://news.ycombinator.com/item?id=31530639
+
 https://www.foxhound.systems/blog/essential-elements-of-high-performance-sql-indexes/
 
 http://www.cidrdb.org/cidr2022/papers/p13-crotty.pdf Are You Sure You Want to Use MMAP in Your Database Management System?
