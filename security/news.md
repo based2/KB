@@ -1,3 +1,18 @@
+https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai GhostTouch: Targeted Attacks on Touchscreens without Physical Touch
+
+https://www.phoronix.com/scan.php?page=news_item&px=VirtualBox-Leaky-Host-To-Guest
+> https://www.reddit.com/r/netsec/comments/uy225f/virtualbox_leaks_host_ring_0_simd_registers_into/
+
+https://waritschlager.de/hidden-vscode-extension-files.html
+
+https://thenewstack.io/how-attackers-move-from-azure-active-directory-to-on-prem-ad/
+
+https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitter-api-and-a-bit-of-code-5787808e32ef
+> https://news.ycombinator.com/item?id=31544816
+> https://www.reddit.com/r/netsec/comments/uzlwtt/building_a_threat_intelligence_feed_using_the/
+
+https://www.microsoft.com/security/blog/2022/05/27/android-apps-with-millions-of-downloads-exposed-to-high-severity-vulnerabilities/
+
 https://threadreaderapp.com/thread/1526593840928411650.html 
 
 https://blog.sigstore.dev/privacy-in-sigstore-57cac15af0d0
@@ -9,6 +24,8 @@ https://www.bleepingcomputer.com/news/security/oas-platform-vulnerable-to-critic
 https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-better-security-defaults-for-all-azure-ad-tenants/
 
 https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-auth-bypass-bug-patch-now/
+> https://www.horizon3.ai/vmware-authentication-bypass-vulnerability-cve-2022-22972-technical-deep-dive/
+> > https://www.reddit.com/r/netsec/comments/uy85ru/vmware_authentication_bypass_vulnerability/
 
 https://suricata.io/
 

@@ -89,6 +89,8 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://go101.org/optimizations/6-map.html
+
 https://christine.website/blog/we-have-go-2
 > https://news.ycombinator.com/item?id=31506599
 

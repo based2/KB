@@ -120,6 +120,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://neon.tech/ Serverless Postgres - The multi-cloud fully managed Postgres
+> https://news.ycombinator.com/item?id=31536827
+
 https://www.digitalocean.com/blog/introducing-digitalocean-functions-serverless-computing
 > https://news.ycombinator.com/item?id=31491029
 

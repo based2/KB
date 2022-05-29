@@ -9,6 +9,11 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://support.mozilla.org/en-US/kb/total-cookie-protection
+
+https://gitlab.com/CHEF-KOCH/brave-browser-hardening
+> https://news.ycombinator.com/item?id=31542692
+
 https://twitter.com/thezedwards/status/1528808795983319041
 > https://news.ycombinator.com/item?id=31508866
 

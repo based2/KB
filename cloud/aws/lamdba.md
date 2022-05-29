@@ -70,6 +70,8 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://medium.com/swlh/properly-unit-testing-lambda-functions-with-an-actual-production-example-e72743f72692
+
 https://aws.amazon.com/en/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/
 
 https://github.com/TimeToogo/remote-pty

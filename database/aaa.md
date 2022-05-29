@@ -68,6 +68,13 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://github.com/mgramin/awesome-db-tools
+> https://news.ycombinator.com/item?id=31549918
+
+https://pradeepchhetri.xyz/til/duckdbexternal/
+
+https://www.nextplatform.com/2022/05/16/google-needs-another-database-to-attack-oracle-db2-and-sql-server-directly/
+
 https://duckdb.org/2022/05/27/iejoin.html
 > https://news.ycombinator.com/item?id=31530639
 
@@ -160,7 +167,6 @@ https://mysqly.com/educate
 https://usenetarchives.com/view.php?id=net.unix-wizards&mid=PDE1MzYzQHNyaS1hcnBhLlVVQ1A%2B
 
 https://questdb.io/blog/2022/01/12/jit-sql-compiler/
->
 
 https://www.red-gate.com/simple-talk/databases/sql-server/bi-sql-server/vertipaq-optimization-and-its-impact-on-columnstore-compression/
 

@@ -73,5 +73,9 @@ https://www.bbc.com/future/article/20220407-the-living-lights-that-could-reduce-
 
 https://news.ycombinator.com/item?id=31356109
 
+https://singularityhub.com/2022/05/23/new-logic-gates-are-a-million-times-faster-than-todays-chips/
+> https://www.nature.com/articles/s41586-022-04565-9 Light-field control of real and virtual charge carriers
+> > https://news.ycombinator.com/item?id=31546258
+
 https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-help-2-5-billion-people-and-nasa-1.10452996
 > https://news.ycombinator.com/item?id=31347740

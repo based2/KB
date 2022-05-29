@@ -181,7 +181,7 @@ https://brooker.co.za/blog/2022/02/28/retries.html
 
 # Serverless - functions
 
-# API
+# APIs
 https://google.aip.dev/
 > https://news.ycombinator.com/item?id=27716756
 
@@ -202,6 +202,9 @@ https://github.com/seamapi/prefixed-api-key
 > https://news.ycombinator.com/item?id=31333933
 
 https://thenewstack.io/a-new-architecture-for-apis/
+
+https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c
+> https://news.ycombinator.com/item?id=31541070
 
 # Books
 https://github.com/mhadidg/software-architecture-books

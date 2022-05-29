@@ -54,6 +54,11 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://github.com/netbirdio/netbird
+
+https://www.firezone.dev/
+> https://news.ycombinator.com/item?id=31539386
+
 https://tunnel.pyjam.as/
 
 https://seashell.github.io/drago/#/ Flexible configuration manager for WireGuard networks

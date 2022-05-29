@@ -195,6 +195,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://medium.com/mlearning-ai/dynamic-soil-information-at-farm-scale-based-on-machine-learning-and-eo-data-building-an-open-1a6ffe282162
+
 https://www.qwant.com/maps/
 > https://news.ycombinator.com/item?id=31474610
 

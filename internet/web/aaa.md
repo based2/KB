@@ -88,6 +88,14 @@ https://github.com/reanalytics-databoutique/webscraping-open-project
 > https://news.ycombinator.com/item?id=31531694
 
 # News
+https://news.netcraft.com/archives/2022/04/27/april-2022-web-server-survey.html
+
+https://memex.marginalia.nu/log/58-marginalia-open-source.gmi
+> https://news.ycombinator.com/item?id=31536626
+
+https://meml.ink/MTsxfGZpZzpNZW1MaW5rOzU7MjtjfGgyOkluLW1lbW9yeSBtaWNybyB3ZWIgcGFnZXM7NTszO2N8cDpNZW1MaW5rcyBhcmUgc2VsZi1jb250YWluZWQsIG1pY3JvIHdlYnNpdGVzIHRoYXQgYXJlIGZ1bGx5IGdlbmVyYXRlZCBhdCB0aGUgZWRnZS58cDpVc2UgYSBNZW1MaW5rIHRvIGVhc2lseSBzaGFyZSBsaXN0cyBvZiBsaW5rcywgY29udGFjdCBkZXRhaWxzLCBwcm9qZWN0IG92ZXJ2aWV3cywgYW5kIHNvIG11Y2ggbW9yZS58aDM6VGhlIGxpbmsgaXMgdGhlIHdlYiBwYWdlLjsxOzN8cDpNZW1saW5rIHBhZ2VzIGFyZSBjb21wb3NlZCBvZiBibG9ja3MgdGhhdCBjYW4gYmUgYWRkZWQsIHJlbW92ZWQsIGFuZCByZWFycmFuZ2VkIHRvIG1ha2UgdW5pcXVlIGFuZCBjcmVhdGl2ZSBjb250ZW50LnxwOkNyZWF0ZSB5b3VyIG93biBNZW1saW5rIG5vdyBieSBjbGlja2luZyBFZGl0IHRoaXMgcGFnZSBiZWxvdy4g
+> https://news.ycombinator.com/item?id=31540616
+
 https://jasonette.com/
 > https://news.ycombinator.com/item?id=31500939
 

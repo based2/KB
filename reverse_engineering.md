@@ -4,6 +4,12 @@ https://github.com/cea-sec/miasm
 https://github.com/qilingframework/qiling Advanced binary emulation framework
 
 #
+https://medium.com/@0x4ndr3/starting-dynamic-analysis-on-a-windows-x64-rootkit-8c7a74871fda
+> https://www.reddit.com/r/netsec/comments/uvvni8/i_wrote_this_more_from_an_analyze_rootkit/
+
+https://www.flamingo-tech.nl/2022/05/27/this-is-how-they-do-it/
+> https://news.ycombinator.com/item?id=31540394
+
 https://github.com/e-m-b-a/emba firmware security analyzer
 
 https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-2-firmware-dump-and-analysis/
@@ -12,8 +18,6 @@ https://security.humanativaspa.it/a-journey-into-iot-unknown-chinese-alarm-part-
 https://trenchant.io/expanding-the-dragon-adding-an-isa-to-ghidra/
 
 https://genodians.org/ssumpf/2022-05-09-telephony Pinephone
-
-
 
 https://wxcafe.net/posts/pocketbook_dissassembly_and_root/
 > https://news.ycombinator.com/item?id=31224341

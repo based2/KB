@@ -62,5 +62,8 @@ https://blog.min.io/erasure-coding/
 https://en.wikipedia.org/wiki/Laser_turntable
 > https://news.ycombinator.com/item?id=31343535
 
+https://mtlynch.io/budget-nas/
+> https://news.ycombinator.com/item?id=31548829
+
 
 

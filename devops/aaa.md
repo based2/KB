@@ -4,6 +4,8 @@ https://www.gitops.tech/
 
 https://zwischenzugs.com/2020/11/30/gitops-decisions/
 
+https://opengitops.dev/
+
 https://cookiecutter.readthedocs.io/en/1.7.2/
 
 https://blog.spinnaker.io/managed-delivery-evolving-continuous-delivery-at-netflix-eb74877fb33c
@@ -160,6 +162,8 @@ https://www.bleepingcomputer.com/news/technology/github-outage-impacts-actions-c
 
 https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 
+https://marc.info/?l=git&m=152761328506724&w=2 CVE-2018-11233 Git RCE
+
 https://travis-ci.community/t/security-bulletin/12081
 > https://news.ycombinator.com/item?id=28523350
 
@@ -181,6 +185,20 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/jmgilman/nixago
+
+https://einride.engineering/blog/its-tech-radar-review-season/
+
+https://dnastacio.medium.com/gitops-repo-content-a31884d4104f
+> https://dnastacio.medium.com/why-you-should-avoid-sealed-secrets-in-your-gitops-deployment-e50131d360dd
+> > https://external-secrets.io/v0.5.3/
+> > https://ismailyenigul.medium.com/take-backup-of-all-sealed-secrets-keys-or-re-encrypt-regularly-297367b3443
+> https://ismailyenigul.medium.com/take-backup-of-all-sealed-secrets-keys-or-re-encrypt-regularly-297367b3443 How to Configure GitHub Environments with Terraform?
+> https://dnastacio.medium.com/the-gitops-files-ci-cd-bricks-and-blueprints-fcfdb5b3e34d
+
+https://star-history.com/ GitHub Star History Graph
+> https://news.ycombinator.com/item?id=31542234
+
 https://netfoundry.io/this-is-the-way-invisible-jenkins/
 > https://news.ycombinator.com/item?id=31503429
 

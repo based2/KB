@@ -68,6 +68,11 @@ https://aquasecurity.github.io/tfsec/
 https://www.validiac.com/ ui
 
 # News
+https://github.com/mineiros-io/terramate Managing multiple Terraform stacks
+
+https://www.bejarano.io/terraform-stateless/
+> https://news.ycombinator.com/item?id=31537319
+
 https://itnext.io/azure-terrafy-azures-best-terraform-buddy-74211194ddee
 
 https://devdosvid.blog/2022/05/04/new-lifecycle-options-and-refactoring-capabilities-in-terraform-1-1-and-1-2/

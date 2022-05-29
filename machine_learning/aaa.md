@@ -222,6 +222,13 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://sinews.siam.org/Details-Page/convergence-of-artificial-intelligence-high-performance-computing-and-simulations
+
+https://www.marktechpost.com/2022/05/27/researchers-from-imperial-college-london-introduce-tst-gan-a-novel-framework-for-training-time-series-generative-models/
+
+https://www.unite.ai/google-has-banned-the-training-of-deepfakes-in-colab/
+> https://news.ycombinator.com/item?id=31538595
+
 https://www.theregister.com/2022/05/27/hpe_champollion_supercomputer/
 
 https://arxiv.org/abs/2105.14039 Towards mental time travel: a hierarchical memory for reinforcement learning agents

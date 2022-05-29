@@ -30,3 +30,6 @@ https://github.com/google/h2e_technical_documentation Google open sources solar 
 
 https://news.mit.edu/2022/100k-competition-nona-0516 Solar-powered desalination device wins MIT $100K competition
 > https://news.ycombinator.com/item?id=31417554
+
+https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degradation-product-tfa-in-drinking-water/
+> https://news.ycombinator.com/item?id=31548234

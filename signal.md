@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://ciaramella.dev/ declarative language for Audio DSP
+> https://news.ycombinator.com/item?id=31538686
+
 http://websdr.ewi.utwente.nl:8901/ WebSDR
 > https://news.ycombinator.com/item?id=31094927
 

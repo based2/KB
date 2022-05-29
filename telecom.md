@@ -104,6 +104,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://muninetworks.org/communitymap
+
 https://blog.helium.com/elevating-the-helium-network-with-new-helium-inc-name-series-d-46d8266fb7
 
 https://cloud.google.com/blog/topics/developers-practitioners/googles-subsea-fiber-optics-explained

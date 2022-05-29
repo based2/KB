@@ -59,6 +59,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html
+> https://news.ycombinator.com/item?id=31549797
+
 https://github.com/hughperkins/VeriGPU
 > https://news.ycombinator.com/item?id=31136100
 

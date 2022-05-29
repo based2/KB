@@ -104,6 +104,10 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
+https://chipsandcheese.com/2022/05/29/graviton-3-first-impressions/
+
+https://www.servethehome.com/amazon-aws-graviton3-hits-ga-with-3-sockets-per-motherboard-designs-tri-socket-arm/
+
 https://www.infoq.com/news/2022/02/new-amazon-ec2-c6a/ 15 percent better prices performance, up to 40 Gbps for Amazon Elastic Block Store (Amazon EBS), and up to 50 Gbps for network bandwidth versus the C5(a) instances
 
 https://blog.min.io/install-minio-distributed-mode-aws-ec2/

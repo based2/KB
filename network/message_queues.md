@@ -68,6 +68,9 @@ https://developer.confluent.io/learn-kafka/architecture/get-started/
 
 https://docs.confluent.io/platform/current/kafka/design.html
 
+https://selectfrom.dev/apache-spark-partitioning-bucketing-3fd350816911
+> https://www.reddit.com/r/programming/comments/v0b69w/apache_spark_partitioning_bucketing/
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

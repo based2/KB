@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.darpa.mil/news-events/2022-05-18
+> 
+
 https://www.voltaero.aero/en/
 
 https://www.nytimes.com/2022/04/16/business/beta-electric-airplane.html

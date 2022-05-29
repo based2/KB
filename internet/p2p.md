@@ -55,6 +55,8 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://solidproject.org/about
+
 https://www.gnunet.org/en/news/2022-02-0.16.0.html
 > https://news.ycombinator.com/item?id=30513090
 

@@ -24,3 +24,6 @@ https://www.themoscowtimes.com/2022/04/14/times-new-roman-arial-fonts-blocked-in
 
 https://swelltype.com/yep-i-created-the-new-avatar-font/
 > https://news.ycombinator.com/item?id=31316372
+
+https://learnui.design/tools/typography-tutorial.html
+> https://news.ycombinator.com/item?id=31528601

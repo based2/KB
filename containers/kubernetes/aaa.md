@@ -62,6 +62,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://atmos.tools/ DevOps and Cloud Automation (works with terraform, helm, helmfile, etc)
+> https://github.com/cloudposse/atmos
+
 https://minikube.sigs.k8s.io/docs/
 > https://news.ycombinator.com/item?id=31509011
 

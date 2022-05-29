@@ -27,6 +27,9 @@ https://github.com/jwiegley/category-theory
 https://haslab.github.io/formal-software-design/index.html
 > https://news.ycombinator.com/item?id=29227340
 
+https://github.com/magmide/magmide
+> https://news.ycombinator.com/item?id=31543953
+
 # TLA
 > https://learntla.com/introduction/
 
@@ -64,6 +67,9 @@ https://github.com/stateright/stateright
 http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties
 
 # News
+https://arxiv.org/abs/2205.12910 NaturalProver: Grounded Mathematical Proof Generation with Language Models
+> https://news.ycombinator.com/item?id=31519334
+
 https://galois.com/blog/2021/10/you-already-know-formal-methods/
 > https://news.ycombinator.com/item?id=28859324
 

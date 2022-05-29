@@ -116,6 +116,9 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://lav.io/2014/05/transform-any-text-into-a-patent-application/
+> https://news.ycombinator.com/item?id=31546380
+
 https://news.ycombinator.com/item?id=31332982 Show HN: A Swiss army knife for testing HTTP from the terminal
 
 https://news.ycombinator.com/item?id=31083131 Ask HN: How do you keep track of software requirements and test them?

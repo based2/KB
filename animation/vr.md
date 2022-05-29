@@ -1,3 +1,6 @@
+https://arstechnica.com/gadgets/2022/05/the-full-saga-of-apples-troubled-mixed-reality-headset-has-been-revealed/
+> https://news.ycombinator.com/item?id=31548344
+
 https://simulavr.com/blog/software-overview/
 
 https://thenewstack.io/croquet-woos-javascript-devs-with-a-web-based-metaverse/

@@ -59,6 +59,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://spectrum.ieee.org/carbon-removal-x-prize-finalists
+
 https://www.undrr.org/publication/global-assessment-report-disaster-risk-reduction-2022
 
 https://pudding.cool/projects/heat-records/

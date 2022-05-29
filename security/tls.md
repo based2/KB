@@ -131,6 +131,7 @@ https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When
 >  https://news.ycombinator.com/item?id=31452286
 
 https://github.com/Hakky54/mutual-tls-ssl in Java 11
+> https://www.reddit.com/r/netsec/comments/uztpmz/step_by_step_guide_of_setting_up_ssltls_for_a/
 
 https://web.dev/when-to-use-local-https/
 

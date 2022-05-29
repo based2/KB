@@ -136,6 +136,9 @@ https://trevorklee.com/how-to-spot-a-good-fake-id/
 https://people.scs.carleton.ca/~paulv/toolsjewels.html
 
 # History
+
+https://www.notcheckmark.com/2022/05/ghost-in-the-shellcode/
+
 https://www.mattblaze.org/blog/badges/
 > https://news.ycombinator.com/item?id=29813279
 

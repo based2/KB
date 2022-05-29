@@ -97,6 +97,17 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://github.com/dominion-dev/dominion-ecs-java
+
+https://coliniuliano.ca/projects/catan-tiles/
+> https://news.ycombinator.com/item?id=31548268
+
+https://medium.com/geekculture/how-do-video-games-stay-in-sync-an-intro-to-the-fascinating-networking-of-real-time-games-e923e66e8a0f
+> https://news.ycombinator.com/item?id=31512257
+
+https://tangobattle.substack.com/p/adding-rollback-netplay-to-a-game?s=r
+> https://news.ycombinator.com/item?id=31543579
+
 https://www.computer.org/csdl/magazine/co/2022/05/09771161/1DeEYnefsoU
 > https://news.ycombinator.com/item?id=31510432
 

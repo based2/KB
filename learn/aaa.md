@@ -105,8 +105,11 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html
+> https://news.ycombinator.com/item?id=31544634
+
 https://www.nsip.edu.au/systems-interoperability-framework
-> news.ycombinator.com/item?id=31497139
+> https://news.ycombinator.com/item?id=31497139
 > > https://home.a4l.org/about-us/
 
 https://www.natemeyvis.com/writing/on-ankis-database-structure/

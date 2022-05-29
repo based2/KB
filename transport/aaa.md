@@ -43,3 +43,5 @@ https://flightpenguin.com/
 
 https://xostrucks.com/
 > https://news.ycombinator.com/item?id=31385155
+
+https://www.washingtonpost.com/technology/2022/05/28/supersonic-air-travel/

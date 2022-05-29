@@ -61,6 +61,11 @@ https://news.ycombinator.com/item?id=30607692
 
 https://physicsworld.com/a/quantum-measurement-splits-information-three-ways/
 
+https://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html
+> https://news.ycombinator.com/item?id=31544372
+
+https://www.nature.com/articles/s41586-022-04697-y Qubit teleportation between non-neighbouring nodes in a quantum network
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/

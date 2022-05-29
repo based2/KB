@@ -25,6 +25,10 @@ https://github.com/quay/clair Red Hat
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
 # News
+https://www.cisecurity.org/benchmark/kubernetes
+
+https://www.armosec.io/blog/secure-kubernetes-deployment/
+
 https://smart7.in/2022/03/30/Kubernetes-Cluster-Attack-Defense-Importance-of-Network-Policies.html
 
 https://madhuakula.com/kubernetes-goat/

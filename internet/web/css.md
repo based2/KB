@@ -163,6 +163,9 @@ https://iainbean.com/posts/2021/5-steps-to-faster-web-fonts/
 https://nutcroft.com/blog/in-defense-of-user-defined-web-fonts/
 > https://news.ycombinator.com/item?id=30162678
 
+https://systemfontstack.com/
+> https://news.ycombinator.com/item?id=31543054
+
 # Demo
 https://codepen.io/jakealbaugh/full/PwLXXP/
 
@@ -187,6 +190,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://thenewstack.io/a-hotter-pink-css-devs-get-an-explosion-of-new-colors/
+
 https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b
 > https://news.ycombinator.com/item?id=31501344
 

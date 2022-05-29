@@ -11,6 +11,8 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://pillow.readthedocs.io/en/stable/
+
 https://github.com/AlexEidt/Karve https://en.wikipedia.org/wiki/Seam_carving
 
 https://schollz.com/blog/one-line/

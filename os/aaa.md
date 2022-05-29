@@ -18,6 +18,11 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 > https://news.ycombinator.com/item?id=31363738
 
 # News
+https://tinypilotkvm.com/blog/build-a-kvm-over-ip-under-100
+> https://news.ycombinator.com/item?id=31549368
+
+https://adkaster.github.io/SerenityOS-Superbuild-Makefiles/
+
 https://keunwoo.com/notes/rebooting/
 > https://news.ycombinator.com/item?id=31497555
 

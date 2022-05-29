@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.19-Better-clearcpuid
+> https://www.reddit.com/r/programming/comments/v07i8z/linux_519_makes_it_much_easier_to_clear_cpuid/
+
 https://lkml.org/lkml/2022/5/22/274 Linux 5.18
 
 https://lwn.net/SubscriberLink/895217/eea75d643a340b32/ Sharing page tables with mshare()

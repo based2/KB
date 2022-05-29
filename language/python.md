@@ -219,6 +219,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://blog.dend.ro/a-mysterous-python-crash/
+> https://news.ycombinator.com/item?id=31545168
+
+https://pythonspeed.com/articles/faster-pip-installs/
+> https://news.ycombinator.com/item?id=31526001
+
 https://www.tetraframework.com/
 > https://news.ycombinator.com/item?id=31526684
 

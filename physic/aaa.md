@@ -69,6 +69,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://fun3d.larc.nasa.gov/chapter-1.html FUN3D (used by NASA and SpaceX to model fluid flow) (
+> https://news.ycombinator.com/item?id=31547438
+
 https://www.colorado.edu/asmagazine/2022/05/19/long-hypothesized-next-generation-wonder-material-created-first-time
 
 https://cse.umn.edu/college/news/energy-researchers-invent-chameleon-metal-acts-many-others

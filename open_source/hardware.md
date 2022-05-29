@@ -40,6 +40,8 @@ http://www.clifford.at/icestorm/
 https://projectf.io/posts/verilog-sim-verilator-sdl/
 > https://news.ycombinator.com/item?id=28929994
 
+https://aappleby.github.io/Metron/tutorial/ Metron C++ to Verilog Translator Tutorial
+
 # ASIC
 https://github.com/olofk/fusesoc
 

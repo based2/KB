@@ -368,6 +368,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/
+> https://news.ycombinator.com/item?id=31535158
+
 https://onesignal.com/blog/solving-memory-leaks-in-rust/
 > https://onesignal.com/blog/solving-memory-leaks-in-rust/
 

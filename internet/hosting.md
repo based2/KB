@@ -30,3 +30,6 @@ https://darekkay.com/blog/static-site-comments/
 
 https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
+
+#
+https://news.ycombinator.com/item?id=31547285 Ask HN: How do you manage “static” pages on your micro SaaS website?
