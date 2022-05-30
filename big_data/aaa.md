@@ -197,6 +197,8 @@ https://github.com/chartbrew/chartbrew
 https://benn.substack.com/p/is-bi-dead
 > https://news.ycombinator.com/item?id=28580298
 
+https://linkis.apache.org/ computation middleware layer to decouple the upper applications and the underlying data engines
+
 # CI
 https://hypervector.io/
 
@@ -235,6 +237,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://mljar.com/blog/how-to-use-jupyter-notebook/
+> https://news.ycombinator.com/item?id=31556114
+
 https://www.alluxio.io/blog/metadata-synchronization-in-alluxio-design-implementation-and-optimization/
 
 https://www.os2museum.com/wp/identify-esdi-drive/

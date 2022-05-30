@@ -1,3 +1,22 @@
+https://www.openssl.org/news/secadv/20220503.txt
+
+https://grsecurity.net/tetragone_a_lesson_in_security_fundamentals
+
+https://twitter.com/nao_sec
+> https://www.bleepingcomputer.com/news/security/new-microsoft-office-zero-day-used-in-attacks-to-execute-powershell/
+> https://www.reddit.com/r/netsec/comments/v155c4/new_zeroday_code_execution_vulnerability_in_ms/
+
+https://portswigger.net/daily-swig/dozens-of-high-traffic-websites-vulnerable-to-account-pre-hijacking-study-finds
+> https://news.ycombinator.com/item?id=31560380
+
+https://hackasat.com/
+> https://news.ycombinator.com/item?id=31559117
+
+https://www.mpg.de/18700996/internet-of-thinges-intelligent-reflecting-surface
+> https://news.ycombinator.com/item?id=31561338
+
+https://git.hardenedbsd.org/shawn.webb/texts/-/commit/28a86f365f92a0b5a6351227a4f255fc1cd785a4
+
 https://www.usenix.org/conference/usenixsecurity22/presentation/wang-kai GhostTouch: Targeted Attacks on Touchscreens without Physical Touch
 
 https://www.phoronix.com/scan.php?page=news_item&px=VirtualBox-Leaky-Host-To-Guest
@@ -26,6 +45,7 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-better-securi
 https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-auth-bypass-bug-patch-now/
 > https://www.horizon3.ai/vmware-authentication-bypass-vulnerability-cve-2022-22972-technical-deep-dive/
 > > https://www.reddit.com/r/netsec/comments/uy85ru/vmware_authentication_bypass_vulnerability/
+> https://blog.assetnote.io/2022/05/27/understanding-cve-2022-22972-vmware-workspace-one-access/
 
 https://suricata.io/
 

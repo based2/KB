@@ -19,6 +19,8 @@ https://pinball.flutter.dev/#/
 > https://medium.com/flutter/i-o-pinball-powered-by-flutter-and-firebase-d22423f3f5d
 > > https://github.com/flutter/pinball
 
+https://systemweakness.com/how-to-store-login-credentials-the-right-way-in-flutter-857ba6e7e96d
+
 https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release
 > https://news.ycombinator.com/item?id=31344863
 

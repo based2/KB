@@ -108,6 +108,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://godbolt.org/ Compiler Explorer
+> https://linuxfr.org/news/compiler-explorer-a-10-ans
+
 https://kristerw.github.io/2022/05/24/branchless/
 > https://news.ycombinator.com/item?id=31501980
 

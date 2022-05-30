@@ -4,6 +4,9 @@ https://github.com/cea-sec/miasm
 https://github.com/qilingframework/qiling Advanced binary emulation framework
 
 #
+https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md
+> https://news.ycombinator.com/item?id=31558525
+
 https://medium.com/@0x4ndr3/starting-dynamic-analysis-on-a-windows-x64-rootkit-8c7a74871fda
 > https://www.reddit.com/r/netsec/comments/uvvni8/i_wrote_this_more_from_an_analyze_rootkit/
 

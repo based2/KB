@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://github.com/jrouwe/JoltPhysics multi core friendly rigid body physics and collision detection library
+
 https://github.com/dominion-dev/dominion-ecs-java
 
 https://coliniuliano.ca/projects/catan-tiles/

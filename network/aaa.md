@@ -107,6 +107,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://thesoloadmin.com/no-its-not-always-dns/
+
 https://github.com/stephane/libmodbus
 > https://news.ycombinator.com/item?id=31216976
 

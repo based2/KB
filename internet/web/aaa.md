@@ -87,6 +87,9 @@ https://techcrunch.com/2022/04/18/web-scraping-legal-court/
 https://github.com/reanalytics-databoutique/webscraping-open-project
 > https://news.ycombinator.com/item?id=31531694
 
+https://github.com/reanalytics-databoutique/advanced-scrapy-proxies
+> https://news.ycombinator.com/item?id=31561409
+
 # News
 https://news.netcraft.com/archives/2022/04/27/april-2022-web-server-survey.html
 
@@ -250,6 +253,9 @@ https://andregarzia.com/2022/01/gemini-is-a-little-gem.html
 > > TLS RECOMMENDED approach is  to implement a lightweight "TOFU" certificate-pinning system which treats self-signed certificates as first-class citizens
 
 https://proxy.vulpes.one/gemini/skyjake.fi/gemlog/2022-01_cosmos.gmi
+
+https://lof.flounder.online/gemlog/2022-05-30%20On%20the%20shortcomings%20of%20gemini%20protocol.gmi
+> https://news.ycombinator.com/item?id=31560509
 
 https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/
 > https://news.ycombinator.com/item?id=28800818

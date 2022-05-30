@@ -118,3 +118,5 @@ https://signalsandthreads.com/state-machine-replication-and-why-you-should-care/
 https://www.doxsey.net/blog/strategies-for-working-with-message-queues/
 
 https://docs.temporal.io/blog/workflow-engine-principles/
+
+https://bhavaniravi.com/blog/apache-airflow-introduction/

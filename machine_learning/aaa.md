@@ -222,6 +222,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://victordibia.com/blog/explain-bert-classification/
+> https://news.ycombinator.com/item?id=31555145
+
 https://sinews.siam.org/Details-Page/convergence-of-artificial-intelligence-high-performance-computing-and-simulations
 
 https://www.marktechpost.com/2022/05/27/researchers-from-imperial-college-london-introduce-tst-gan-a-novel-framework-for-training-time-series-generative-models/

@@ -79,3 +79,5 @@ https://singularityhub.com/2022/05/23/new-logic-gates-are-a-million-times-faster
 
 https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-help-2-5-billion-people-and-nasa-1.10452996
 > https://news.ycombinator.com/item?id=31347740
+
+https://ricktu288.github.io/ray-optics/

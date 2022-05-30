@@ -52,6 +52,9 @@ https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-nex
 > https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
+https://github.com/tlandeka/authentication-microservice-with-domain-driven-design
+> https://news.ycombinator.com/item?id=31552827
+
 https://spring.io/blog/2022/05/24/preparing-for-spring-boot-3-0
 
 https://towardsdev.com/spring-boot-data-access-layer-best-practices-c544d400de7b
@@ -93,4 +96,7 @@ https://hilla.dev/
 
 https://github.com/oskardudycz/EventSourcing.JVM/tree/main/samples/event-sourcing-esdb-simple
 
+https://snowdrop.me/ Cloud Native Spring Application on Openshift/Kubernetes
+
 https://spring.io/blog/2022/01/05/spring-framework-cve-2021-22060-has-been-published
+

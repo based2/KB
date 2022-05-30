@@ -73,6 +73,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html
+> https://news.ycombinator.com/item?id=31555347
+
 https://reneeshah.medium.com/how-webassembly-gets-used-the-18-most-exciting-startups-building-with-wasm-939474e951db
 
 https://github.com/tetratelabs/wazero go

@@ -133,6 +133,9 @@ https://www.accountingcoach.com/
 https://www.unite.ai/simple-ai-can-anticipate-bank-managers-loan-decisions-to-over-95-accuracy/
 > https://news.ycombinator.com/item?id=30394731
 
+https://www.firefly-iii.org/
+> https://news.ycombinator.com/item?id=31561575
+
 # News
 https://andrewbatson.com/2022/05/12/whats-behind-chinas-boom-in-company-formation/
 > https://news.ycombinator.com/item?id=31364321

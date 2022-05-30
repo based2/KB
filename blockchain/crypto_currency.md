@@ -23,6 +23,11 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://twitter.com/FatManTerra/status/1529978941062139906 Terra Mirror Protocol was susceptible to short reward attack
+
+https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably?s=r
+> https://news.ycombinator.com/item?id=31553704
+
 https://blog.stablegains.com/were-discontinuing-the-stablegains-service-please-withdraw-your-remaining-funds-405e6bfb89c4
 
 https://www.economist.com/leaders/2022/05/18/the-cryptocurrency-sell-off-has-exposed-those-swimming-naked

@@ -7,7 +7,7 @@ https://doc.rust-lang.org/rust-by-example/index.html
 https://blog.mgattozzi.dev/rusts-runtime/
 
 https://rust-lang-nursery.github.io/rust-cookbook/intro.html
-  > https://news.ycombinator.com/item?id=26101066
+> https://news.ycombinator.com/item?id=26101066
 
 https://blog.frankel.ch/start-rust/9/
 
@@ -368,6 +368,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://eli.thegreenplace.net/2022/rewriting-the-lexer-benchmark-in-rust/
+> https://news.ycombinator.com/item?id=31559109
+
 https://singularity-data.com/blog/building-a-cloud-database-from-scratch-why-we-moved-from-cpp-to-rust/
 > https://news.ycombinator.com/item?id=31535158
 

@@ -60,3 +60,6 @@ https://blog.fidelramos.net/photography/photography-workflow
 
 https://puri.sm/posts/cameras-its-complicated/
 > https://news.ycombinator.com/item?id=31341393
+
+https://kosmofoto.com/2021/02/east-germanys-plans-for-a-space-age-autofocus-slr/
+> 

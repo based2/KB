@@ -101,6 +101,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf
+> https://news.ycombinator.com/item?id=31557361
+
 https://www.people.vcu.edu/~dcranston/490/handouts/math-read.html
 > https://news.ycombinator.com/item?id=31533125
 

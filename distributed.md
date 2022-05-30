@@ -114,6 +114,8 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
 
 # News
+https://www.complete.org/filespooler/
+
 https://github.com/richardartoul/tsdb-layer
 > https://news.ycombinator.com/item?id=31540521
 

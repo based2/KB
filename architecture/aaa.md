@@ -179,6 +179,8 @@ https://christophermeiklejohn.com/filibuster/2022/03/19/understanding-faults.htm
 
 https://brooker.co.za/blog/2022/02/28/retries.html
 
+https://monzo.com/blog/2022/05/26/humans-who-can-rpc-securing-staff-access-to-microservices
+
 # Serverless - functions
 
 # APIs

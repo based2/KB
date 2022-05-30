@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://paranoidenough.com/2022/05/30/When-Tether-Blows-Up.html
+> https://news.ycombinator.com/item?id=31561684
+
 https://twitter.com/MorePerfectUS/status/1527661935054962688
 > https://news.ycombinator.com/item?id=31459012
 

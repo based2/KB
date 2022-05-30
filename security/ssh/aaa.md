@@ -108,6 +108,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://xeiaso.net/blog/yubikey-ssh-key-storage
+> https://news.ycombinator.com/item?id=31556130
+
 https://github.com/gojimmypi/wolfssh/tree/ESP32_Development/examples/ESP32-SSH-Server
 > https://news.ycombinator.com/item?id=31081227
 

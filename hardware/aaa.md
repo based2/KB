@@ -72,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+http://ddramdisk.store/2022/05/12/meet-the-latest-release/
+> https://news.ycombinator.com/item?id=31558219
+
 https://www.tomshardware.com/news/intel-substrate-shortage
 
 https://lulabs.net/electronics/ledwave/

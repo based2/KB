@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.powerengineeringint.com/hydrogen/gravitricity-adds-hydrogen-to-the-underground-energy-storage-mix/
+
 https://www.lecho.be/entreprises/energie/trois-belges-en-lice-pour-remporter-le-prix-de-l-inventeur-europeen-2022/10389138.html
 > https://www.kuleuven.be/wieiswie/en/person/00008614
 

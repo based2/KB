@@ -140,6 +140,9 @@ https://news.ycombinator.com/item?id=30976337
 https://emacs.amodernist.com/
 > https://news.ycombinator.com/item?id=31083515
 
+https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/
+> https://news.ycombinator.com/item?id=31559818
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

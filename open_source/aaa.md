@@ -227,6 +227,11 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://tdarb.org/posts/schools.txt
+> https://news.ycombinator.com/item?id=31560552
+
+https://producingoss.com/
+
 https://news.ycombinator.com/item?id=31504008 Ask HN: Why is there no enterprise grade open-source zoom alternative?
 
 https://linuxfoundation.org/tools/census-ii-of-free-and-open-source-software-application-libraries/

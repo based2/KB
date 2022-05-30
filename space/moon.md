@@ -27,6 +27,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://apod.nasa.gov/apod/ap180318.html
+
 https://www.nasa.gov/feature/biological-physical/scientists-grow-plants-in-soil-from-the-moon
 
 https://www.nature.com/articles/s42003-022-03334-8 Plants grown in Apollo lunar regolith present stress-associated transcriptomes that inform prospects for lunar exploration
