@@ -36,6 +36,9 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://ravendb.net/articles/the-smartest-compression-features-on-the-market
+> https://news.ycombinator.com/item?id=31580528
+
 https://github.com/inikep/lizard
 > https://news.ycombinator.com/item?id=31500640
 

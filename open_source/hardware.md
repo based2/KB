@@ -125,6 +125,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=HDMI-Closed-Spec-Hurts-Open
+> https://news.ycombinator.com/item?id=31579820
+
 https://www.phoronix.com/scan.php?page=news_item&px=Dasharo-0.3-MSI-Z690-A Open-Source Firmware For The MSI Alder Lake Motherboard Taking Shape
 
 https://github.com/aolofsson/awesome-hardware-tools

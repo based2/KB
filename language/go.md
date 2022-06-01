@@ -89,6 +89,9 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext
+> https://news.ycombinator.com/item?id=31556382
+
 https://go101.org/optimizations/6-map.html
 
 https://christine.website/blog/we-have-go-2

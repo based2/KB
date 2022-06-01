@@ -9,3 +9,6 @@ https://github.com/chrisbra/csv.vim
 
 https://www.sqlite.org/csv.html
 > https://news.ycombinator.com/item?id=30610532
+
+https://www.moderncsv.com/beta/
+> https://news.ycombinator.com/item?id=31575962

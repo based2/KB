@@ -112,6 +112,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://eprint.iacr.org/2022/658 Unclonable Polymers and Their Cryptographic Applications
+> https://news.ycombinator.com/item?id=31575837
+
 https://thenewstack.io/protect-and-index-sensitive-data-with-polymorphic-encryption/
 
 https://news.ycombinator.com/item?id=31533041 Ask HN: Best Book on Modern Cryptography?

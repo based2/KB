@@ -71,6 +71,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://thume.ca/2020/04/18/telefork-forking-a-process-onto-a-different-computer/
+> https://news.ycombinator.com/item?id=31574624
+
 https://alanwu.space/post/strict-aliasing/
 > https://news.ycombinator.com/item?id=31495809
 

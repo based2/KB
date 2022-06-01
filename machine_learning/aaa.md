@@ -222,6 +222,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/
+> https://news.ycombinator.com/item?id=31579873
+
 https://victordibia.com/blog/explain-bert-classification/
 > https://news.ycombinator.com/item?id=31555145
 

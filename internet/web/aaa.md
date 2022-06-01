@@ -91,6 +91,9 @@ https://github.com/reanalytics-databoutique/advanced-scrapy-proxies
 > https://news.ycombinator.com/item?id=31561409
 
 # News
+https://thehistoryoftheweb.com/timeline/
+> https://news.ycombinator.com/item?id=31583968
+
 https://news.netcraft.com/archives/2022/04/27/april-2022-web-server-survey.html
 
 https://memex.marginalia.nu/log/58-marginalia-open-source.gmi

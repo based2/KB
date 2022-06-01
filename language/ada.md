@@ -61,6 +61,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://linuxfr.org/news/alire-le-package-manager-d-ada
+
 https://www.linux.com/audience/developers/hacking-the-linux-kernel-in-ada-part-1/
 
 https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html

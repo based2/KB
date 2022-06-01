@@ -271,6 +271,11 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://github.com/mxgmn/MarkovJunior Probabilistic PL based on pattern matching and constraint propagation
+
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html
+> https://news.ycombinator.com/item?id=31583124
+
 https://stackoverflow.com/questions/72306573/why-does-this-code-execute-more-slowly-after-strength-reducing-multiplications-t
 > https://www.reddit.com/r/programming/comments/v07ifn/how_3_multiplications_and_2_additions_end_up/
 > https://news.ycombinator.com/item?id=31549050

@@ -97,6 +97,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://kdenlive.org/en/2022/06/scam-lightmoon-is-not-kdenlive-lightmoon-is-malware/
+> https://news.ycombinator.com/item?id=31585496
+
+https://evanhahn.github.io/ffmpeg-buddy/
+> https://news.ycombinator.com/item?id=31557809
+
 https://lav.io/notes/videogrep-tutorial/
 > https://news.ycombinator.com/item?id=31483548
 

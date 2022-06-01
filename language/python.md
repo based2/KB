@@ -219,6 +219,17 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/satwikkansal/wtfpython
+> https://news.ycombinator.com/item?id=31566031
+
+https://github.com/anufrievroman/calcure tui
+> https://news.ycombinator.com/item?id=31577960
+
+https://bas.codes/posts/python-involuntary-borgs
+
+https://gitlab.com/mitchhentges/pip-compile-cross-platform
+> https://lobste.rs/s/mfrwtm/pip_compile_cross_platform_python
+
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 > https://news.ycombinator.com/item?id=31556522
 

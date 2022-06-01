@@ -248,6 +248,8 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://github.com/neondatabase/neon serverless open source alternative to AWS Aurora Postgres
+
 https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine
 
 https://www.crunchydata.com/blog/postgres-query-optimization-left-join-vs-union-all

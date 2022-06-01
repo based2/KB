@@ -36,6 +36,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://www.theatlantic.com/technology/archive/2022/05/how-to-fix-twitter-social-media/629951/
+> https://news.ycombinator.com/item?id=31580707
+
 https://togethr.party/
 > https://news.ycombinator.com/item?id=31272609
 

@@ -48,3 +48,6 @@ https://linuxfr.org/users/julien_jorge/journaux/comparatif-d-outils-d-analyse-me
 
 https://awesomekling.github.io/Memory-safety-for-SerenityOS/
 > https://news.ycombinator.com/item?id=31441530
+
+https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md
+> https://news.ycombinator.com/item?id=31581727

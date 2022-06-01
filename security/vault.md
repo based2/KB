@@ -48,6 +48,8 @@ https://news.ycombinator.com/item?id=30974585 Ask HN: Why do password managers h
 https://github.blog/2022-04-07-git-credential-manager-authentication-for-everyone/
 >
 
+https://github.com/lgg/awesome-keepass
+
 https://keepassxc.org/blog/2022-04-06-2.7.1-released/
 > https://news.ycombinator.com/item?id=30936485
 

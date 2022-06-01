@@ -52,6 +52,8 @@ https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-nex
 > https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
+https://linuxfr.org/news/sortie-de-cassandre-6-0-0-un-cadriciel-pour-developper-votre-propre-trading-bot
+
 https://github.com/tlandeka/authentication-microservice-with-domain-driven-design
 > https://news.ycombinator.com/item?id=31552827
 

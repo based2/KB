@@ -1,3 +1,22 @@
+https://eattherich.club/@swaggboi/108382897807037127 I disabled WiFi on the new Samsung fridge
+> https://news.ycombinator.com/item?id=31555629
+
+https://www.coalfire.com/the-coalfire-blog/hacking-ham-radio-winaprs-part-5
+> https://news.ycombinator.com/item?id=31571476
+
+https://news.slashdot.org/story/22/06/01/171201/tech-experts-urge-washington-to-resist-crypto-industrys-influence
+> https://news.ycombinator.com/item?id=31585248
+> > https://news.ycombinator.com/item?id=31579357
+
+https://eclecticlight.co/2022/05/30/why-montereys-finder-find-memory-leak-may-not-be-fixed/
+> https://news.ycombinator.com/item?id=31560770
+
+https://www.bleepingcomputer.com/news/security/new-windows-search-zero-day-added-to-microsoft-protocol-nightmare/
+
+https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-vulnerability-gets-free-unofficial-patch/
+
+https://www.huntress.com/blog/microsoft-office-remote-code-execution-follina-msdt-bug
+
 https://www.openssl.org/news/secadv/20220503.txt
 
 https://grsecurity.net/tetragone_a_lesson_in_security_fundamentals

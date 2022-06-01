@@ -24,5 +24,8 @@ https://www.patrick-breyer.de/en/eu-digital-services-act-industry-and-government
 https://macwright.com/2020/08/22/clean-starts-for-the-web.html
 > https://news.ycombinator.com/item?id=31373643
 
+https://stratechery.com/2022/thin-platforms/
+> https://news.ycombinator.com/item?id=31571566
+
 
 

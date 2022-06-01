@@ -223,6 +223,12 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs
+> https://news.ycombinator.com/item?id=31557835
+
+https://buf.build/blog/connect-a-better-grpc
+> https://news.ycombinator.com/item?id=31584555
+
 https://plaid.com/blog/transactions-sync/
 
 https://www.david-dahan.com/blog/10-reasons-mvc-frameworks-arent-dinosaurs-but-sharks

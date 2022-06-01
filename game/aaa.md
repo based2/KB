@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://news.ycombinator.com/item?id=31586833
+
 https://www.filfre.net/2020/01/master-of-orion/
 > https://news.ycombinator.com/item?id=31311150
 

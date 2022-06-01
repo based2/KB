@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://questdb.io/blog/2022/05/26/query-benchmark-questdb-versus-clickhouse-timescale/
+> https://news.ycombinator.com/item?id=31585563
+
 https://github.com/mgramin/awesome-db-tools
 > https://news.ycombinator.com/item?id=31549918
 

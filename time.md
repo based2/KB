@@ -98,6 +98,9 @@ https://news.ycombinator.com/item?id=30929022 Bloben – Self-hosted web CalDAV 
 
 https://www.youtube.com/watch?v=iBRCL090PxA The Antikythera Mechanism Episode 11 - Inscribing The Back Plate - Part 1
 
+https://terokarvinen.com/2021/calendar-txt/
+> https://news.ycombinator.com/item?id=31574125
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster

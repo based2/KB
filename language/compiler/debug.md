@@ -11,6 +11,8 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://hyperdbg.org/ designed for analyzing, fuzzing and reversing
+
 https://justine.lol/blinkenlights/ command line debugger that focuses on visualizing how software changes memory
 > https://news.ycombinator.com/item?id=31473846
 

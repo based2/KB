@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://securityshenanigans.medium.com/enumeration-and-lateral-movement-in-gcp-environments-c3b82d342794
+
 https://www.mitiga.io/blog/misconfiguration-hidden-dangers-cloud-control-plane
 
 https://techcrunch.com/2022/05/11/google-cloud-launches-alloydb-a-new-fully-managed-postgresql-database-service/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAIjbHF2Kill76q-Vdr1OLSgEQHI6sntU4TOoyF7oFo9t_hXIIo0nQ24ghiayN61CsmSK_nyv0T1vjoNmCgA7Xg6v7vMTev0166mh-y-rYGovti5RZlte-cOg1XFz_H7Xju4GcIsaAFP4CfrGzCsJ9ETpAO4ZnUMlf4ctG50UILVQ

@@ -237,6 +237,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://pradeepchhetri.xyz/clickhouselesserknownfeatures/
+> https://news.ycombinator.com/item?id=31561780
+
+https://docs.magniv.io/tutorials/entity-resolution
+> https://news.ycombinator.com/item?id=31585405
+
 https://mljar.com/blog/how-to-use-jupyter-notebook/
 > https://news.ycombinator.com/item?id=31556114
 

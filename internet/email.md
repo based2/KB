@@ -121,6 +121,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://www.notcheckmark.com/2022/06/catch-all-domain/
+> https://news.ycombinator.com/item?id=31585463
+
 https://proton.me/blog/what-is-end-to-end-encryption
 > https://news.ycombinator.com/item?id=31512113
 

@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.bloomberg.com/news/articles/2022-05-30/europe-faces-a-new-methane-problem-in-rush-to-exit-russian-gas
+> https://news.ycombinator.com/item?id=31587416
+
 https://spectrum.ieee.org/carbon-removal-x-prize-finalists
 
 https://www.undrr.org/publication/global-assessment-report-disaster-risk-reduction-2022

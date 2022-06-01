@@ -54,5 +54,8 @@ https://apisyouwonthate.com/blog/representing-state-in-rest-and-graphql
 https://github.com/graphql-editor/graphql-zeus
 > https://news.ycombinator.com/item?id=30008766
 
+https://graphjin.com/
+> https://news.ycombinator.com/item?id=31541219
+
 #
 https://news.ycombinator.com/item?id=28797627 Is RESTFul Paradigm a Type of FFI (Foreign Function Interface)?

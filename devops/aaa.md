@@ -119,6 +119,8 @@ https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 https://github.com/reposaur/reposaur Allows users and organizations to execute policies against GitHub data to generate reports, perform auditing and more
 
 # Incidents
+https://news.ycombinator.com/item?id=31579862
+
 https://gitlab.com/gitlab-org/cves/-/blob/master/2022/CVE-2022-0477.json
 
 https://www.githubstatus.com/incidents/b40k7ckrs7sp
@@ -185,6 +187,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/go-gitea/lgtm
+> https://news.ycombinator.com/item?id=31577888
+
+https://news.ycombinator.com/item?id=31580763 Ask HN: If Kubernetes is the solution, why are there so many DevOps jobs?
+
 https://github.com/jmgilman/nixago
 
 https://einride.engineering/blog/its-tech-radar-review-season/

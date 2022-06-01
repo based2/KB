@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://blog.kagi.com/kagi-orion-public-beta
+> https://news.ycombinator.com/item?id=31584791
+
 https://www.bram.us/2022/05/25/dark-mode-toggles-should-be-a-browser-feature/
 > https://news.ycombinator.com/item?id=31545034
 

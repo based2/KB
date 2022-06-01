@@ -30,3 +30,6 @@ https://blog.thomaspuppe.de/static-sites-from-markdown-with-caddy-server
 > https://news.ycombinator.com/item?id=30145237 not in v2
 
 https://caolan.uk/notes/2022-05-13_serving_markdown_direct_from_apache.cm
+
+https://github.com/git-noter/gitnoter
+> https://news.ycombinator.com/item?id=31580045

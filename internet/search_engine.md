@@ -60,6 +60,11 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://quickwit.io/blog/quickwit-0.3/ index
+
+https://patents.google.com/patent/US6285999B1/en
+> https://news.ycombinator.com/item?id=31581543
+
 https://opensearch.org/blog/releases/2022/05/opensearch-2-0-is-now-available/
 > https://news.ycombinator.com/item?id=31529614
 
