@@ -143,6 +143,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://english.kyodonews.net/news/2022/06/9a7dbced6c3a-amino-acids-found-in-asteroid-samples-collected-by-hayabusa2-probe.html
+> https://news.ycombinator.com/item?id=31637664
+
 https://dificonsortium.org/
 
 https://www.nasa.gov/directorates/spacetech/niac/2019_Phase_I_Phase_II/Diffractive_Lightsails/

@@ -9,3 +9,6 @@ https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-pr
 
 https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/
 > https://news.ycombinator.com/item?id=30564287
+
+https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/
+> https://news.ycombinator.com/item?id=31640297

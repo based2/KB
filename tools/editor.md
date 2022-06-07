@@ -152,6 +152,7 @@ https://www.jetbrains.com/en/idea/
 
 ## Visual Studio
 https://vscodium.com/
+> https://news.ycombinator.com/item?id=31604932
 
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
@@ -170,6 +171,12 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://texteditors.org/cgi-bin/wiki.pl?Twee_Editors
+> https://news.ycombinator.com/item?id=31632230
+
+http://akkartik.name/lines.html
+> https://news.ycombinator.com/item?id=31637910
+
 https://github.com/Dion-Systems/4coder
 > https://news.ycombinator.com/item?id=31569070
 

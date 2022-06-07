@@ -129,6 +129,9 @@ http://www.figlet.org/
 https://mannhowie.com/finite-state-machines
 
 # News
+https://svelvet.io/
+> https://news.ycombinator.com/item?id=31595822
+
 https://kinopio.club/
 > https://news.ycombinator.com/item?id=31460626
 

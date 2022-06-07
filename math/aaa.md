@@ -101,6 +101,12 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://plus.maths.org/content/mystery-zipf
+> https://news.ycombinator.com/item?id=31636422
+
+https://blogs.mathworks.com/cleve/2016/06/27/19-dubious-ways-to-compute-the-zeros-of-a-polynomial/
+> https://news.ycombinator.com/item?id=31628780
+
 https://www.ma.ic.ac.uk/~buzzard/xena/pdfs/grothendieck_equality.pdf
 > https://news.ycombinator.com/item?id=31557361
 
@@ -196,6 +202,9 @@ http://www.eukleides.org/feuerbach.html
 
 https://www.manim.community/
 > https://news.ycombinator.com/item?id=30658390
+
+https://github.com/3b1b/manim
+> https://news.ycombinator.com/item?id=31636657
 
 https://github.com/sharkdp/insect high precision scientific calculator with full support for physical units.
 

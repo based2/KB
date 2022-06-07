@@ -73,3 +73,6 @@ https://muratbuffalo.blogspot.com/2022/01/decoupled-transactions-low-tail-latenc
 https://engineering.salesforce.com/managing-availability-in-service-based-deployments-with-continuous-testing-61be968da4a
 
 https://cloud.google.com/blog/products/devops-sre/the-sre-book-turns-6
+
+https://blog.relyabilit.ie/what-sre-could-be/
+> https://news.ycombinator.com/item?id=31631302

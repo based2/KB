@@ -112,6 +112,8 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html
+
 https://medium.com/about-erlang/how-private-are-erlang-private-functions-36382c6abfa4
 > https://news.ycombinator.com/item?id=30903649
 

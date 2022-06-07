@@ -34,10 +34,15 @@ https://picower.mit.edu/news/neurons-are-fickle-electric-fields-are-more-reliabl
 https://www.discovermagazine.com/the-sciences/scientists-discover-specific-neurons-involved-in-making-memories
 > https://news.ycombinator.com/item?id=30867430
 
+https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really-do-individually-take-both-paths/
+
 # Worm
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.u-tokyo.ac.jp/focus/en/press/z0508_00222.html
+> https://news.ycombinator.com/item?id=31629203
+
 https://arstechnica.com/science/2022/04/bci-lets-completely-locked-in-man-communicate-with-his-son-ask-for-a-beer/
 
 https://hai.stanford.edu/news/ambitious-brain-recordings-create-unprecedented-portrait-vision-action

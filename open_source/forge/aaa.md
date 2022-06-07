@@ -14,6 +14,9 @@ https://pijul.org/posts/2022-01-08-beta/
 > https://news.ycombinator.com/item?id=29991417
 
 # News
+https://andreiclinciu.net/blog/why-im-using-fossil-scm-instead-of-other-source-control-systems
+> https://news.ycombinator.com/item?id=31634560
+
 https://drewdevault.com/2022/05/25/Google-has-been-DDoSing-sourcehut.html
 > https://news.ycombinator.com/item?id=31508000
 

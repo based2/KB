@@ -87,6 +87,12 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://nic.eu.org/
+> 
+
+https://www.dns.toys/
+> https://news.ycombinator.com/item?id=31637226
+
 https://github.com/paulmillr/encrypted-dns
 
 https://github.com/musana/mx-takeover DNS MX records and detects misconfigured MX records

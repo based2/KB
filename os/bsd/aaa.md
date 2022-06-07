@@ -132,6 +132,9 @@ https://www.freebsd.org/releases/13.1R/relnotes/
 https://saurvs.github.io/post/writing-netbsd-kern-mod/
 > https://news.ycombinator.com/item?id=30927847
 
+http://www.mewburn.net/luke/papers/rc.d.pdf The Design and Implementation of the NetBSD rc.d system
+> https://news.ycombinator.com/item?id=31637755
+
 https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 

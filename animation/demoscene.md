@@ -14,3 +14,6 @@ http://demoscene-the-art-of-coding.net/2021/03/20/demoscene-accepted-as-unesco-c
 
 https://markuskaarlonen.com/space-debris
 > https://news.ycombinator.com/item?id=29611316
+
+https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip
+> https://news.ycombinator.com/item?id=31636482

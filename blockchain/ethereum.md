@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://twitter.com/mskvsk/status/1533657107496521728
+
 https://www.wslyvh.com/ethereum-guide/
 
 https://slashdot.org/submission/16033502/why-i-dread-the-ethereum-merge-and-why-you-should-too

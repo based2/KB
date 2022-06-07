@@ -48,3 +48,6 @@ https://www.washingtonpost.com/technology/2022/05/28/supersonic-air-travel/
 
 https://apps.kde.org/en/ktrip/
 > https://news.ycombinator.com/item?id=31555787
+
+https://newatlas.com/transport/first-autonomous-ocean-passage-prism-courage-tanker-hyundai/
+> https://news.ycombinator.com/item?id=31641470

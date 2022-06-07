@@ -28,3 +28,6 @@ https://interrupt.memfault.com/blog/memcpy-newlib-nano
 https://docs.microsoft.com/en-us/windows/uwp/porting/arm64ec-abi
 
 https://belkadan.com/blog/2022/05/ARM64-Relative-References/
+
+https://blog.regehr.org/archives/2265 Formal-Methods-Based Bugfinding for LLVM’s AArch64 Backend
+> https://news.ycombinator.com/item?id=31642147

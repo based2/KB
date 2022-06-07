@@ -222,6 +222,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://thegradient.pub/ai-scientific-revolution/
+> https://news.ycombinator.com/item?id=31642810
+
 https://www.quantamagazine.org/how-to-make-the-universe-think-for-us-20220531/
 > https://news.ycombinator.com/item?id=31579873
 

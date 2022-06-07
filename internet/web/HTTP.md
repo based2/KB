@@ -111,6 +111,9 @@ https://portswigger.net/research/http2
 https://blog.px.dev/ebpf-http2-tracing/
 
 # QUIC HTTP/3
+https://www.rfc-editor.org/info/rfc9114
+> https://news.ycombinator.com/item?id=31647033
+
 https://quic.ulfheim.net/
 > https://www.reddit.com/r/netsec/comments/u9fip1/the_illustrated_quic_connection/
 

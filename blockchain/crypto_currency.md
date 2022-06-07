@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.schneier.com/blog/archives/2022/04/clever-cryptocurrency-theft.html
+
 https://twitter.com/FatManTerra/status/1529978941062139906 Terra Mirror Protocol was susceptible to short reward attack
 
 https://fragileequilibrium.substack.com/p/algorithmic-stablecoins-are-provably?s=r

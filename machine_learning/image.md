@@ -55,10 +55,16 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://github.com/borisdayma/dalle-mini
+> https://news.ycombinator.com/item?id=31636066
+
 https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 #
+https://80.lv/articles/famous-paintings-expanded-with-dall-e-2/
+> 
+
 https://imagen.research.google/
 > https://news.ycombinator.com/item?id=31484562
 

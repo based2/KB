@@ -5,6 +5,7 @@ https://libreplanet.org/wiki/FSF_2020_forge_evaluation
 https://docs.codeberg.org/faq/
 
 https://gitea.io/en-us/
+> https://news.ycombinator.com/item?id=31628939
 
 https://envs.net/
 

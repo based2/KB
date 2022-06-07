@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/
+> https://news.ycombinator.com/item?id=31644622
+
 https://blog.kagi.com/kagi-orion-public-beta
 > https://news.ycombinator.com/item?id=31584791
 

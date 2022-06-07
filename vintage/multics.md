@@ -10,3 +10,5 @@ https://multicians.org/pl1.html
 > https://news.ycombinator.com/item?id=28937275
 
 https://multicians.org/pg/mvm.html Multics Virtual Memory - Tutorial and Reflections, Paul Green
+
+https://news.ycombinator.com/item?id=31636949

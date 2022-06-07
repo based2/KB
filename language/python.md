@@ -219,6 +219,14 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://davidbieber.com/snippets/2021-02-17-python-magic-functions/
+
+https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks
+> https://news.ycombinator.com/item?id=31640049
+
+https://github.com/jwilk/python-syntax-errors
+> https://news.ycombinator.com/item?id=31637428
+
 https://github.com/satwikkansal/wtfpython
 > https://news.ycombinator.com/item?id=31566031
 

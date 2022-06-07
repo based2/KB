@@ -58,6 +58,9 @@ https://github.com/jvalen/pixel-art-react
 
 https://www.piskelapp.com/
 
+https://derekyu.com/makegames/pixelart2.html
+> https://news.ycombinator.com/item?id=31617921
+
 # Font
 https://github.com/robhagemans/hoard-of-bitfonts
 > https://news.ycombinator.com/item?id=27773601

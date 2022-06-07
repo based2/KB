@@ -162,6 +162,9 @@ https://thenewstack.io/async-rust-in-practice-performance-pitfalls-profiling/
 https://github.com/crossbeam-rs/crossbeam
 > https://news.ycombinator.com/item?id=31037971
 
+https://itsallaboutthebit.com/async-simple/
+> https://news.ycombinator.com/item?id=31611456
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -368,6 +371,14 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html
+> 
+
+https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/
+
+https://itsallaboutthebit.com/arc-mutex/
+> https://news.ycombinator.com/item?id=31628027
+
 https://eli.thegreenplace.net/2022/rewriting-the-lexer-benchmark-in-rust/
 > https://news.ycombinator.com/item?id=31559109
 

@@ -37,6 +37,9 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.liebertpub.com/doi/10.1089/ast.2022.0027 Catalytic Synthesis of Polyribonucleic Acid on Prebiotic Rock Glasses
+> https://news.ycombinator.com/item?id=31628832
+
 https://www.thesciencegab.com/posts/a-simple-biological-circuit-simulator/#simulator
 
 https://www.technologyreview.com/2022/03/31/1048672/roswell-molecular-electronics-revival/

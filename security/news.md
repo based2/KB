@@ -1,3 +1,20 @@
+https://blog.regehr.org/archives/2148 High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM
+> https://news.ycombinator.com/item?id=31579690
+
+https://www.thegoodpenguin.co.uk/blog/pcie-dma-attack-against-a-secured-jetson-nano-cve-2022-21819/
+> https://news.ycombinator.com/item?id=31617467
+
+https://trunc.org/learning/brute-force-attacks-against-windows-remote-desktop
+> https://news.ycombinator.com/item?id=31628733
+
+https://github.com/jwilk/abmagick Abmagick – abuse ImageMagick to create arbitrary files
+> https://news.ycombinator.com/item?id=31604916
+
+https://github.com/H4ckd4ddy/bypass-sentry-safe
+> https://news.ycombinator.com/item?id=31638697
+
+https://arstechnica.com/information-technology/2022/05/code-execution-0day-in-windows-has-been-under-active-exploit-for-7-weeks/ CVE-2022-30190
+
 https://eattherich.club/@swaggboi/108382897807037127 I disabled WiFi on the new Samsung fridge
 > https://news.ycombinator.com/item?id=31555629
 

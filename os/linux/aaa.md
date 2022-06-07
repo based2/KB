@@ -91,6 +91,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://mazzo.li/posts/fast-pipes.html
+> https://news.ycombinator.com/item?id=31592934
+
 https://twitter.com/EdgeSecurity/status/1528494394604761094 Linux kernel RNG enhancements for 5.19
 > https://news.ycombinator.com/item?id=31517231
 

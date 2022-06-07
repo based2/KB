@@ -1,3 +1,6 @@
+https://www.cnx-software.com/2022/06/04/orange-pi-800-raspberry-pi-400-keyboard-pc-alternative-rockchip-rk3399/
+> https://news.ycombinator.com/item?id=31631509
+
 https://www.jeffgeerling.com/blog/2022/petabyte-pi-project
 
 https://blog.zakkemble.net/routerpi-compute-module-4-router/

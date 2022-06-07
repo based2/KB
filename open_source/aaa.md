@@ -227,6 +227,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://news.ycombinator.com/item?id=31634704 Ask HN: Has anyone successfully used LibreOffice for their business?
+
+
 https://tdarb.org/posts/schools.txt
 > https://news.ycombinator.com/item?id=31560552
 

@@ -114,6 +114,9 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
 
 # News
+https://architecturenotes.co/fallacies-of-distributed-systems/
+> https://news.ycombinator.com/item?id=31626132
+
 https://www.complete.org/filespooler/
 
 https://github.com/richardartoul/tsdb-layer

@@ -7,3 +7,9 @@ https://en.wikipedia.org/wiki/EIDAS
 
 https://github.com/jedisct1/minisign
 > https://news.ycombinator.com/item?id=29660095
+
+https://kerkour.com/signatures-modern-end-to-end-encryption
+> https://news.ycombinator.com/item?id=31641417
+
+https://docs.planet.ink/data/seal/
+> https://news.ycombinator.com/item?id=31637150

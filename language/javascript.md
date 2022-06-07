@@ -390,6 +390,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://ctrl-z.xyz/2022/06/dumb-coding/ Refactoring JavaScript
+
 https://github.com/200ok-ch/organice
 > https://news.ycombinator.com/item?id=31526231
 

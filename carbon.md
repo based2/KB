@@ -59,6 +59,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels
+> https://news.ycombinator.com/item?id=31638058
+
+https://www.constructionenquirer.com/2022/06/06/factory-made-homes-cut-carbon-emissions-by-45/
+> https://news.ycombinator.com/item?id=31639184
+
 https://www.bloomberg.com/news/articles/2022-05-30/europe-faces-a-new-methane-problem-in-rush-to-exit-russian-gas
 > https://news.ycombinator.com/item?id=31587416
 

@@ -22,6 +22,9 @@ https://www.reddit.com/r/java/comments/nuuhdz/streamtolist_is_weird/
 https://medium.com/geekculture/pitfalls-of-java-parallel-streams-731fe0c1eb5f
 
 #
+https://github.com/paulhoule/pidove
+> https://news.ycombinator.com/item?id=31636768
+
 https://blogs.oracle.com/javamagazine/post/the-hidden-gems-in-java-16-and-java-17-from-streammapmulti-to-hexformat
 
 https://richardstartin.github.io/posts/range-predicates

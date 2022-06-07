@@ -271,6 +271,15 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://medium.com/@mario.arias.c/comparing-implementations-of-the-monkey-language-viii-the-spectacular-interpreted-special-ruby-2f9e4ed2e660
+> https://news.ycombinator.com/item?id=31628293
+
+https://hiphish.github.io/blog/2019/06/22/what-is-a-programmable-programming-language/
+> https://news.ycombinator.com/item?id=31637082
+
+https://forem.julialang.org/ndortega/oxygenjl-a-breath-of-fresh-air-for-programming-web-apps-in-julia-454d
+> https://news.ycombinator.com/item?id=31639788
+
 https://github.com/mxgmn/MarkovJunior Probabilistic PL based on pattern matching and constraint propagation
 
 https://benchmarksgame-team.pages.debian.net/benchmarksgame/box-plot-summary-charts.html

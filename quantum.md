@@ -66,6 +66,9 @@ https://backreaction.blogspot.com/2022/05/chaos-real-problem-with-quantum.html
 
 https://www.nature.com/articles/s41586-022-04697-y Qubit teleportation between non-neighbouring nodes in a quantum network
 
+https://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html
+> https://news.ycombinator.com/item?id=31630528
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/
@@ -74,6 +77,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html
+> https://news.ycombinator.com/item?id=31630528
+
 https://news.ycombinator.com/item?id=31559297
 
 https://quantumai.google/education/thequbitgame

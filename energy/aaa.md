@@ -12,6 +12,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html
+> https://news.ycombinator.com/item?id=31622646
+
+https://news.stanford.edu/2022/05/30/small-modular-reactors-produce-high-levels-nuclear-waste/
+> https://news.ycombinator.com/item?id=31639398
+
 https://www.powerengineeringint.com/hydrogen/gravitricity-adds-hydrogen-to-the-underground-energy-storage-mix/
 
 https://www.lecho.be/entreprises/energie/trois-belges-en-lice-pour-remporter-le-prix-de-l-inventeur-europeen-2022/10389138.html

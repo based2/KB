@@ -18,3 +18,8 @@ https://github.com/codesoap/osmf
 > https://news.ycombinator.com/item?id=30300693
 
 https://www.fastly.com/blog/how-openstreetmap-uses-our-modern-cdn-to-push-near-instant-updates-worldwide
+
+https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data?s=r
+> https://news.ycombinator.com/item?id=31638648
+
+https://blog.openstreetmap.org/2022/06/02/announcement-data-model-study/

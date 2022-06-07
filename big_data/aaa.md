@@ -237,6 +237,17 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://dataengineering.wiki/Index
+
+https://dl.acm.org/doi/fullHtml/10.1145/3491102.3517431 VoxLens: Making Online Data Visualizations Accessible with an Interactive JavaScript Plug-In
+> https://news.ycombinator.com/item?id=31636934
+
+https://innovation.alteryx.com/type-inference-for-natural-language/
+> https://news.ycombinator.com/item?id=31640154
+
+https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf Probability and Statistics, Mathias Valentin 2011
+> https://news.ycombinator.com/item?id=31640229
+
 https://pradeepchhetri.xyz/clickhouselesserknownfeatures/
 > https://news.ycombinator.com/item?id=31561780
 

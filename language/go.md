@@ -89,6 +89,12 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://osmh.dev/posts/goroutines-under-the-hood
+> https://news.ycombinator.com/item?id=31607274
+
+https://github.com/tinygo-org/tinygo Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM
+> https://news.ycombinator.com/item?id=31636642
+
 https://cacm.acm.org/magazines/2022/5/260357-the-go-programming-language-and-environment/fulltext
 > https://news.ycombinator.com/item?id=31556382
 

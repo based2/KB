@@ -110,6 +110,12 @@ https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
 > https://news.ycombinator.com/item?id=27509888
 
 #
+https://fidoalliance.org/
+> https://news.ycombinator.com/item?id=31643890
+
+https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys
+> https://news.ycombinator.com/item?id=31643917
+
 https://download.vusec.net/papers/constantine_ccs21.pdf
 > https://news.ycombinator.com/item?id=27078207
 
@@ -126,6 +132,9 @@ https://www.cs.uky.edu/~klapper/pdf/algebraic.pdf Algebraic Shift Register Seque
 https://desfontain.es/privacy/more-useful-results-dp.html
 
 #
+https://github.com/veorq/oee
+> https://news.ycombinator.com/item?id=31634084
+
 https://github.com/markqvist/Reticulum cryptography-based networking stack for wide-area networks
 > https://news.ycombinator.com/item?id=30870187
 

@@ -38,6 +38,12 @@ https://github.com/foxlet/macOS-Simple-KVM
 https://github.com/kholia/OSX-KVM
 > https://news.ycombinator.com/item?id=29426862
 
+https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta
+> https://news.ycombinator.com/item?id=31645140
+
+https://worthdoingbadly.com/hv/
+> https://news.ycombinator.com/item?id=31638173
+
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 
@@ -77,6 +83,11 @@ https://jdeploy.substack.com/p/apples-code-signing-quagmire?s=w
 https://github.com/mikeroyal/Apple-Silicon-Guide
 
 https://github.com/hjuutilainen/sus-inspector
+
+# M2
+https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/
+> https://news.ycombinator.com/item?id=31644008
+> https://news.ycombinator.com/item?id=31643610
 
 # M1
 https://eclecticlight.co/2022/04/25/how-macos-manages-m1-cpu-cores/
@@ -199,6 +210,8 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
 # News
+https://www.apple.com/macos/macos-ventura-preview/
+
 https://mmazzarolo.com/blog/2022-04-16-drag-window-by-clicking-anywhere-on-macos/
 > https://news.ycombinator.com/item?id=31273893
 

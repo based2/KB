@@ -3,7 +3,13 @@ https://github.com/cea-sec/miasm
 
 https://github.com/qilingframework/qiling Advanced binary emulation framework
 
+https://piroguetoolsuite.github.io/
+> https://news.ycombinator.com/item?id=31616837
+
 #
+https://g.livejournal.com/10829.html AOL 3.0 is Back (DRAFT, 6/5/22)
+> https://news.ycombinator.com/item?id=31630216
+
 https://github.com/dekuNukem/bob_cassette_rewinder/blob/master/README.md
 > https://news.ycombinator.com/item?id=31558525
 

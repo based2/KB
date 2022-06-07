@@ -91,6 +91,8 @@ https://github.com/reanalytics-databoutique/advanced-scrapy-proxies
 > https://news.ycombinator.com/item?id=31561409
 
 # News
+https://maggieappleton.com/block-data
+
 https://thehistoryoftheweb.com/timeline/
 > https://news.ycombinator.com/item?id=31583968
 

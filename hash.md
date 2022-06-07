@@ -89,7 +89,10 @@ https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/
 https://marcospereira.me/a-simple-hash-for-perlin-noise/
 > https://news.ycombinator.com/item?id=31333146
 
-https://www.andreinc.net/2022/03/15/perfect-hashing-with-java
+https://www.andreinc.net/2022/03/15/perfect-hashing-with-java CHD algorithm for generating Perfect Hash Functions
+> https://lobste.rs/s/itilc0/hash_displace_compress_perfect_hashing
+> https://www.reddit.com/r/java/comments/tqaxr9/hash_displace_and_compress_perfect_hashing_with/
+> https://en.wikipedia.org/wiki/Perfect_hash_function
 
 https://preshing.com/20110504/hash-collision-probabilities/
 
