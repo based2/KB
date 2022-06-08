@@ -104,6 +104,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.macrumors.com/2022/06/08/ios-16-iphone-esim-transfer-via-bluetooth/
+> https://news.ycombinator.com/item?id=31667896
+
 https://muninetworks.org/communitymap
 
 https://blog.helium.com/elevating-the-helium-network-with-new-helium-inc-name-series-d-46d8266fb7

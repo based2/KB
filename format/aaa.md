@@ -32,7 +32,16 @@ https://bellard.org/bpg/
 https://qoiformat.org/
 > https://news.ycombinator.com/item?id=30885668
 
+https://github.com/foobaz/pngloss
+> https://news.ycombinator.com/item?id=31663164
+
+https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl
+> https://news.ycombinator.com/item?id=31657006
+
 # News
+https://underjord.io/id3-specification-and-speculation.html
+> https://news.ycombinator.com/item?id=31658664
+
 https://news.ycombinator.com/item?id=30879327 Show HN: A plain-text file format for todos and check lists
 
 https://anachronauts.club/~voidstar/log/2022-03-24-openapi-for-binfmt.gmi

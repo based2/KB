@@ -77,6 +77,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://cristobal.space/writing/folk
+> https://news.ycombinator.com/item?id=31660575
+
 https://eugenkiss.github.io/7guis/tasks/
 > https://news.ycombinator.com/item?id=31273802
 

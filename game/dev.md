@@ -97,6 +97,14 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://github.com/jhigginbotham64/Starlight.jl
+> https://news.ycombinator.com/item?id=31648175
+
+https://lostgarden.home.blog/2021/12/12/value-chains/#
+> https://news.ycombinator.com/item?id=31654528
+
+https://eva-card.egoist.sh/ Show HN: Evangelion Title Card Generator
+
 https://github.com/jrouwe/JoltPhysics multi core friendly rigid body physics and collision detection library
 
 https://github.com/dominion-dev/dominion-ecs-java

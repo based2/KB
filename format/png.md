@@ -9,3 +9,6 @@ https://nullprogram.com/blog/2021/12/31/ A new protocol and tool for PNG file at
 
 https://github.com/DavidBuchanan314/tweetable-polyglot-png
 > https://news.ycombinator.com/item?id=30536698
+
+https://rubysash.com/programming/wordpress/optipng-vs-pngcrush-vs-gimp-to-reduce-png-size/
+> https://news.ycombinator.com/item?id=31655651

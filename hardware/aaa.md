@@ -72,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.electronicsweekly.com/news/business/793299-2022-03/ Germany paying $5.5bn for Intel fab
+> https://news.ycombinator.com/item?id=31654762
+
 http://ddramdisk.store/2022/05/12/meet-the-latest-release/
 > https://news.ycombinator.com/item?id=31558219
 

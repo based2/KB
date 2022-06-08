@@ -69,6 +69,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://deepkit.io/
+> https://news.ycombinator.com/item?id=31663298
+
 https://github.com/remult/remult full-stack CRUD framework
 > https://news.ycombinator.com/item?id=31469481
 

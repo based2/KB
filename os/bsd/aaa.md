@@ -126,6 +126,9 @@ https://klarasystems.com/articles/interacting-with-freebsd-learning-the-fundamen
 
 https://klarasystems.com/articles/evaluating-freebsd-current-for-production-use/
 
+https://vermaden.wordpress.com/2020/09/07/quare-freebsd/
+> https://news.ycombinator.com/item?id=31664952
+
 https://www.freebsd.org/releases/13.1R/relnotes/
 
 # NetBSD

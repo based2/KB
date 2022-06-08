@@ -36,6 +36,9 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 > https://news.ycombinator.com/item?id=29388588
 
 # News
+https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/
+> https://news.ycombinator.com/item?id=31671252
+
 https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b
 
 https://blog.cloudflare.com/part1-coreless-purge/

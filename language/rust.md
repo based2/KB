@@ -371,6 +371,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://www.thecodedmessage.com/posts/trivia-rust-types/
+> https://news.ycombinator.com/item?id=31652363
+
 https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html
 > 
 

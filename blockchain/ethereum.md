@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://cryptobriefing.com/ethereum-test-ropsten-successfully-merges-with-its-beacon-chain/
+
 https://twitter.com/mskvsk/status/1533657107496521728
 
 https://www.wslyvh.com/ethereum-guide/

@@ -68,6 +68,18 @@ https://aquasecurity.github.io/tfsec/
 https://www.validiac.com/ ui
 
 # News
+https://github.com/GoogleCloudPlatform/terraform-python-testing-helper/
+
+https://medium.com/@anilnandat/custom-policies-in-checkov-deabea82a761
+
+https://github.com/magodo/hclgrep
+
+https://itnext.io/build-an-eks-cluster-with-terraform-d35db8005963
+
+https://github.com/antonbabenko/pre-commit-terraform
+
+https://allanjohn909.medium.com/building-a-terraform-provider-part-ii-auth-and-configure-provider-129570a851f
+
 https://github.com/mineiros-io/terramate Managing multiple Terraform stacks
 
 https://www.bejarano.io/terraform-stateless/

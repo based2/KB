@@ -120,6 +120,9 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727
+> https://news.ycombinator.com/item?id=31667701
+
 https://aaron-margosis.medium.com/task-managers-cpu-numbers-are-all-but-meaningless-2d165b421e43
 > https://news.ycombinator.com/item?id=31414101
 

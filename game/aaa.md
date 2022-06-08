@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.kitfoxgames.com/sendy/w/PjLUMcR8c67NlCEI4ruCLA/v763r5W81UUq567qGrvqMoZg/wEYCyTRE9HwQjDLPGvIBzg Dwarf Fortress Update – Tutorials and Tooltips
+> https://news.ycombinator.com/item?id=31667240
+
 https://robocode-dev.github.io/tank-royale/articles/intro.html
 > https://news.ycombinator.com/item?id=31632801
 

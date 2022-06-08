@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://charliegerard.dev/blog/ultrasonic-payments/
+> https://news.ycombinator.com/item?id=31662186
+
 https://nickgregory.me/meteorology/2022/06/03/azure-orbital/
 > 
 

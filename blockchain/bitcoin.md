@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://umbrel.com/
+> https://news.ycombinator.com/item?id=31657527
+
 https://cryptoslate.com/terraform-labs-caught-moving-4-8m-through-shell-company/
 > https://news.ycombinator.com/item?id=31582039
 

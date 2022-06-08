@@ -119,6 +119,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://google-research.github.io/self-organising-systems/2022/diff-fsm/
+> https://news.ycombinator.com/item?id=31663702
+
 https://dl.acm.org/doi/pdf/10.1145/3152823 FontCode: Embedding Information in Text Documents Using Glyph Perturbation
 > https://dl.acm.org/doi/pdf/10.1145/3152823
 

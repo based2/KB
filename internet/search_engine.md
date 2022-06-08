@@ -60,6 +60,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://www.pinecone.io/learn/gif-search/
+> https://news.ycombinator.com/item?id=31652839
+
 https://quickwit.io/blog/quickwit-0.3/ index
 
 https://patents.google.com/patent/US6285999B1/en

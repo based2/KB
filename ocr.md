@@ -69,6 +69,8 @@ https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351
 > 
 
 # News
+https://opencv.org/opencv-4-6-0/
+
 https://hugopeixoto.net/articles/rust-wasm-ocr-experiments.html
 
 https://newsreleases.sandia.gov/fog_tests/

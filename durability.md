@@ -30,6 +30,8 @@ https://www.vice.com/en/article/qjbnp3/right-to-repair-groups-and-farmers-unions
 
 https://old.reddit.com/r/onewheel/comments/tjc2ek/onewheel_uses_copyright_to_prevent_righttorepair/
 
+https://www.nysenate.gov/legislation/bills/2021/S4104 Digital fair repair act passed in New York
+
 #
 https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i
 > https://news.ycombinator.com/item?id=27576120

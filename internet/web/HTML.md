@@ -55,6 +55,9 @@ https://www.nayuki.io/page/practical-guide-to-xhtml
 https://codemirror.net/
 > https://prosemirror.net/
 
+https://marijnhaverbeke.nl/blog/codemirror-6.html
+> https://news.ycombinator.com/item?id=31666186
+
 https://thememirror.net/
 
 https://github.com/tinymce/tinymce

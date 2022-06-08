@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://bigthink.com/hard-science/large-hadron-collider-economics/
+> https://news.ycombinator.com/item?id=31651086
+
 https://inference-review.com/article/the-quest-for-fusion-energy
 > https://news.ycombinator.com/item?id=31540846
 

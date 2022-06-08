@@ -62,6 +62,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://nightlies.apache.org/flink/flink-kubernetes-operator-docs-release-1.0/docs/operations/upgrade/#upgrading-from-v1alpha1---v1beta1
+
 https://github.com/metalbear-co/mirrord
 > https://news.ycombinator.com/item?id=31633481
 

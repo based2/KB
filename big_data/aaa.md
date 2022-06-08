@@ -237,6 +237,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://hop.apache.org/blog/2022/06/hop-2.0.0/ Hop Orchestration Platform, Kettle (Pentaho Data Integration) fork
+> https://news.ycombinator.com/item?id=31672324
+
+https://expeyes.in/ Experiments for Young Engineers and Scientists
+
 https://dataengineering.wiki/Index
 
 https://dl.acm.org/doi/fullHtml/10.1145/3491102.3517431 VoxLens: Making Online Data Visualizations Accessible with an Interactive JavaScript Plug-In

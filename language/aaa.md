@@ -271,6 +271,12 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://news.mit.edu/2022/faster-unix-computing-program-0607 PaSh-JIT
+> https://news.ycombinator.com/item?id=31655793
+
+https://toitlang.org/ Toit – A Language Designed for Microcontrollers
+> https://news.ycombinator.com/item?id=31666761
+
 https://medium.com/@mario.arias.c/comparing-implementations-of-the-monkey-language-viii-the-spectacular-interpreted-special-ruby-2f9e4ed2e660
 > https://news.ycombinator.com/item?id=31628293
 

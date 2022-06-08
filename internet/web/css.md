@@ -190,6 +190,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://web-platform-tests.org/writing-tests/ahem.html Font consists of some very well defined glyphs of precise sizes and shapes; it is especially useful for testing font and text properties
+> https://news.ycombinator.com/item?id=31668387
+
 https://thenewstack.io/a-hotter-pink-css-devs-get-an-explosion-of-new-colors/
 
 https://canvatechblog.com/css-absolutely-positioning-things-relatively-964898de886b

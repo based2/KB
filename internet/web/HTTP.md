@@ -83,6 +83,9 @@ https://www.hiawatha-webserver.org/about
 
 https://github.com/jstrieb/quickserv
 
+https://www.acme.com/software/thttpd/
+> https://news.ycombinator.com/item?id=31639054
+
 # Security
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015
 
@@ -142,6 +145,11 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://www.rfc-editor.org/info/rfc9205 Building Protocols with HTTP
+
+https://webdevguild.com/blog/10-things-http/?ck_subscriber_id=1253041713
+> https://news.ycombinator.com/item?id=31665012
+
 https://ja.cob.land/http2-204-a-poem
 > https://news.ycombinator.com/item?id=30955838
 

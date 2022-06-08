@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.zdnet.com/article/opera-brave-vivaldi-to-ignore-chromes-anti-ad-blocker-changes-despite-shared-codebase/
+> 
+
 https://webkit.org/blog/12824/news-from-wwdc-webkit-features-in-safari-16-beta/
 > https://news.ycombinator.com/item?id=31644622
 

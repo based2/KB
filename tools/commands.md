@@ -38,6 +38,12 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://specifyapp.com/blog/designing-specify-cli
+> https://news.ycombinator.com/item?id=31660581
+
+https://clig.dev/ Command Line Interface Guidelines
+> https://news.ycombinator.com/item?id=31651161
+
 https://github.com/console-rs/indicatif
 
 https://github.com/sharkdp/fd

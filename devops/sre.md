@@ -76,3 +76,6 @@ https://cloud.google.com/blog/products/devops-sre/the-sre-book-turns-6
 
 https://blog.relyabilit.ie/what-sre-could-be/
 > https://news.ycombinator.com/item?id=31631302
+
+https://sre.google/sre-book/eliminating-toil/
+> https://news.ycombinator.com/item?id=31651146

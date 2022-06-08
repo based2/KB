@@ -26,6 +26,8 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://news.ycombinator.com/item?id=31670886 DiffLens: Language Aware Diffs on GitHub Pull Requests
+
 https://github.com/Tufin/oasdiff diff tool for OpenAPI Spec 3
 
 https://github.com/Wilfred/difftastic

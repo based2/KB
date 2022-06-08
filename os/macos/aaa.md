@@ -41,6 +41,9 @@ https://github.com/kholia/OSX-KVM
 https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta
 > https://news.ycombinator.com/item?id=31645140
 
+https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/
+> https://news.ycombinator.com/item?id=31662978
+
 https://worthdoingbadly.com/hv/
 > https://news.ycombinator.com/item?id=31638173
 
@@ -90,6 +93,9 @@ https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-perfor
 > https://news.ycombinator.com/item?id=31643610
 
 # M1
+https://amarioguy.github.io/m1windowsproject/
+> https://news.ycombinator.com/item?id=31657591
+
 https://eclecticlight.co/2022/04/25/how-macos-manages-m1-cpu-cores/
 > https://news.ycombinator.com/item?id=31151393
 
@@ -210,6 +216,9 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
 # News
+https://lapcatsoftware.com/articles/SystemSettings.html
+> https://news.ycombinator.com/item?id=31669950
+
 https://www.apple.com/macos/macos-ventura-preview/
 
 https://mmazzarolo.com/blog/2022-04-16-drag-window-by-clicking-anywhere-on-macos/

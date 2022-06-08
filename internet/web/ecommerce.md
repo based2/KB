@@ -5,6 +5,10 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://news.ycombinator.com/item?id=31663682 Google will not let me pay an invoice they sent me
+
+https://www.servethehome.com/hp-failed-our-q1-secret-shopper-experiment/
+
 https://github.com/soywod/react-pin-field
 
 https://www.apple.com/apple-cash/

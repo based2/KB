@@ -59,6 +59,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://energydome.com/co2-battery/
+
 https://www.noaa.gov/news-release/carbon-dioxide-now-more-than-50-higher-than-pre-industrial-levels
 > https://news.ycombinator.com/item?id=31638058
 

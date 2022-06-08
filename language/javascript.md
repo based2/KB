@@ -53,6 +53,8 @@ https://kaleguy.github.io/leovue/#/t/2
 https://formkit.com/
 > https://news.ycombinator.com/item?id=31367543
 
+https://zelig880.com/how-to-use-variables-in-css-with-v-bind-in-vuejs-3
+
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 
@@ -232,6 +234,10 @@ https://underjord.io/my-elm-experience.html
 > https://lobste.rs/s/neixpd/my_elm_experience
 > >
 
+https://www.humio.com/blog/understanding-ui-components-in-elm/
+> https://news.ycombinator.com/item?id=31664568
+
+
 ## Svelt
 https://news.ycombinator.com/item?id=26557886
 
@@ -390,6 +396,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/tc39/proposal-type-annotations
+> https://news.ycombinator.com/item?id=31672754
+
 https://ctrl-z.xyz/2022/06/dumb-coding/ Refactoring JavaScript
 
 https://github.com/200ok-ch/organice

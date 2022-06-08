@@ -61,6 +61,10 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://www.ietf.org/archive/id/draft-ietf-privacypass-auth-scheme-01.html
+> https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/
+> > https://news.ycombinator.com/item?id=31669568
+
 https://github.com/tlandeka/authentication-microservice-with-domain-driven-design
 
 https://blog.mailpace.com/blog/why-we-use-webauthn-for-2fa/

@@ -69,6 +69,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html
+> https://news.ycombinator.com/item?id=31653887
+
 https://fun3d.larc.nasa.gov/chapter-1.html FUN3D (used by NASA and SpaceX to model fluid flow) (
 > https://news.ycombinator.com/item?id=31547438
 

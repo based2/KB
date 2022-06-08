@@ -14,6 +14,9 @@ https://codepen.io/robdimarzo/full/xxZgKOR
 
 https://www.color-hex.com/
 
+https://hexwords.netlify.app/
+> https://news.ycombinator.com/item?id=31673662
+
 http://www.profil-couleur.com/
 
 https://ciechanow.ski/color-spaces/
@@ -65,6 +68,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/
+> https://news.ycombinator.com/item?id=31639009
+
 https://leonardocolor.io/#
 
 https://polypane.app/blog/forced-colors-explained-a-practical-guide/

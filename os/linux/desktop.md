@@ -13,6 +13,8 @@ https://www.enlightenment.org/
 
 https://mxlinux.org/mx-fluxbox/
 
+https://www.gilesorr.com/wm/table.html
+
 # X11
 https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/
 > https://news.ycombinator.com/item?id=29091070

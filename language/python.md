@@ -219,6 +219,15 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://circuitpython.org/?v=2022
+> https://news.ycombinator.com/item?id=31664765
+
+https://micropython.org/
+> https://news.ycombinator.com/item?id=31639707
+
+https://blog.pyston.org/2022/06/08/announcing-pyston-lite-our-python-jit-as-an-extension-module/
+> https://news.ycombinator.com/item?id=31670120
+
 https://davidbieber.com/snippets/2021-02-17-python-magic-functions/
 
 https://www.phoronix.com/scan.php?page=article&item=python-311-benchmarks

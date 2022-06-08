@@ -39,6 +39,9 @@ https://www.bookstackapp.com/ php
 https://news.ycombinator.com/item?id=30392849
 
 # News
+https://spiralwiki.com/ Show HN: Read Wikipedia privately using homomorphic encryption
+> https://news.ycombinator.com/item?id=31668814
+
 https://meta.wikimedia.org/wiki/Talk:Apple_iCloud_Private_Relay
 > https://news.ycombinator.com/item?id=31040301
 

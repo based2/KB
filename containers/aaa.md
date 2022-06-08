@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://buoyant.io/2022/06/07/ebpf-sidecars-and-the-future-of-the-service-mesh/
+>
+
 https://www.phoronix.com/scan.php?page=news_item&px=Distrobox-1.3-Released
 > https://github.com/89luca89/distrobox/releases/tag/1.3.0
 

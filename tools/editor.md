@@ -143,6 +143,9 @@ https://emacs.amodernist.com/
 https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/
 > https://news.ycombinator.com/item?id=31559818
 
+https://www.masteringemacs.org/article/why-emacs-has-buffers
+> https://news.ycombinator.com/item?id=31650859
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -171,6 +174,11 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.blog/2022-06-08-sunsetting-atom/
+> https://news.ycombinator.com/item?id=31668426
+> > https://zed.dev/
+> > > https://www.youtube.com/watch?v=wXT73bBr83s&feature=youtu.be
+
 https://texteditors.org/cgi-bin/wiki.pl?Twee_Editors
 > https://news.ycombinator.com/item?id=31632230
 

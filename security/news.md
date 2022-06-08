@@ -1,3 +1,37 @@
+https://hub.steampipe.io/mods/turbot/aws_compliance/controls/benchmark.nist_800_53_rev_5
+> https://www.reddit.com/r/netsec/comments/v6vbc6/open_source_automated_nist_sp_80053_r5_benchmark/
+
+https://www.cisa.gov/uscert/ncas/alerts/aa22-158a
+
+https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-041.pdf CVE-2022-1680 Gitlab
+
+https://nvd.nist.gov/vuln/detail/CVE-2022-29186 rundeck
+
+https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html
+> https://www.bleepingcomputer.com/news/security/linux-botnets-now-exploit-critical-atlassian-confluence-bug/
+> https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/
+> https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/
+> https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-040.pdf
+> https://www.pwndefend.com/2022/06/08/learn-to-soc-java-webshell-via-confluence/
+> https://www.greynoise.io/blog/observed-in-the-wild-atlassian-confluence-server-cve-2022-26134
+> https://sysdig.com/blog/cve-2022-26134-atlassian-confluence/
+> > https://www.reddit.com/r/netsec/comments/v42o0o/detecting_and_mitigating_cve202226134_zero_day_at/
+> https://bugalert.org/content/notices/2022-06-02-confluence.html?src=tw
+> > https://www.reddit.com/r/netsec/comments/v3lxem/unauthenticated_remote_code_execution_in/
+
+https://www.bleepingcomputer.com/news/security/new-dogwalk-windows-zero-day-bug-gets-free-unofficial-patches/
+
+https://www.infosecurity-magazine.com/news/vulnerability-in-motorolas-unisoc/
+
+https://www.mongodb.com/blog/post/mongodb-releases-queryable-encryption-preview
+> https://news.ycombinator.com/item?id=31653710
+
+https://www.bbc.com/news/world-61712621 How Margaret Thatcher's secret Brahms phone was invented
+> https://news.ycombinator.com/item?id=31665841
+
+https://garyodernichts.blogspot.com/2022/06/exploiting-wii-us-usb-descriptor-parsing.html
+> https://news.ycombinator.com/item?id=31665233
+
 https://blog.regehr.org/archives/2148 High-Throughput, Formal-Methods-Assisted Fuzzing for LLVM
 > https://news.ycombinator.com/item?id=31579690
 
@@ -33,6 +67,7 @@ https://www.bleepingcomputer.com/news/security/new-windows-search-zero-day-added
 https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-vulnerability-gets-free-unofficial-patch/
 
 https://www.huntress.com/blog/microsoft-office-remote-code-execution-follina-msdt-bug
+> https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-005/
 
 https://www.openssl.org/news/secadv/20220503.txt
 
