@@ -13,3 +13,5 @@ https://kerkour.com/signatures-modern-end-to-end-encryption
 
 https://docs.planet.ink/data/seal/
 > https://news.ycombinator.com/item?id=31637150
+
+https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa

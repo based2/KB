@@ -92,6 +92,10 @@ https://www.bytesizedengineering.com/projects/openwheel
 
 https://github.com/HarveyBates/Phenobottle
 
+https://valetudo.cloud/ cloud-free vacuum robots empowering thousands of users.
+> https://news.ycombinator.com/item?id=31665872
+> https://valetudo.cloud/pages/general/supported-robots.html#dreame_z10pro
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 > https://news.ycombinator.com/item?id=27628101

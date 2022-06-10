@@ -74,6 +74,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://aws.amazon.com/en/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/
+
 https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences
 > https://news.ycombinator.com/item?id=31527215
 

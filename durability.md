@@ -32,6 +32,7 @@ https://old.reddit.com/r/onewheel/comments/tjc2ek/onewheel_uses_copyright_to_pre
 
 https://www.nysenate.gov/legislation/bills/2021/S4104 Digital fair repair act passed in New York
 
+https://gothamist.com/news/albany-passes-right-to-repair-law-for-electronics-to-confront-monopoly-on-repair-market
 #
 https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i
 > https://news.ycombinator.com/item?id=27576120

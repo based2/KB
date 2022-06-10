@@ -38,6 +38,9 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://www.cambus.net/openbsd-folklore-and-share-misc-airport/
+> https://news.ycombinator.com/item?id=31678336
+
 https://baak6.com/baikal-openbsd-fossdroid/
 > https://news.ycombinator.com/item?id=31386619
 

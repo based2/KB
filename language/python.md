@@ -219,6 +219,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://gitlab.com/BenWiser/python-live-gui
+> https://news.ycombinator.com/item?id=31679945
+
 https://circuitpython.org/?v=2022
 > https://news.ycombinator.com/item?id=31664765
 

@@ -77,6 +77,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://scottaaronson.blog/?p=6457
+
 https://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html
 > https://news.ycombinator.com/item?id=31630528
 

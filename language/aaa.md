@@ -271,6 +271,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://lists.squeakfoundation.org/pipermail/squeak-dev/2022-June/220899.html Ephemerons are Associations that interact with the garbage collector
+> https://news.ycombinator.com/item?id=31667646
+
 https://news.mit.edu/2022/faster-unix-computing-program-0607 PaSh-JIT
 > https://news.ycombinator.com/item?id=31655793
 

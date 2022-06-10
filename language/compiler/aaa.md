@@ -111,8 +111,6 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/
 > https://news.ycombinator.com/item?id=31604772
 
-https://kristerw.github.io/2022/05/24/branchless/
-
 https://godbolt.org/ Compiler Explorer
 > https://linuxfr.org/news/compiler-explorer-a-10-ans
 

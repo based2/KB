@@ -107,6 +107,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/
+> https://news.ycombinator.com/item?id=31675015
+
 https://thesoloadmin.com/no-its-not-always-dns/
 
 https://github.com/stephane/libmodbus

@@ -177,6 +177,9 @@ https://en.wikipedia.org/wiki/Beverly_Clock
 https://www.nist.gov/pml/time-and-frequency-division/time-realization/primary-standard-nist-f1
 > https://news.ycombinator.com/item?id=30886428
 
+https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html
+> https://news.ycombinator.com/item?id=31678913
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

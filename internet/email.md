@@ -121,6 +121,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/
+> https://news.ycombinator.com/item?id=31683214
+
 https://www.notcheckmark.com/2022/06/catch-all-domain/
 > https://news.ycombinator.com/item?id=31585463
 

@@ -97,6 +97,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://shotcut.org/
+> https://news.ycombinator.com/item?id=31681787
+
 https://scalibq.wordpress.com/2022/06/04/video-codecs-and-4k/
 > https://news.ycombinator.com/item?id=31631308
 

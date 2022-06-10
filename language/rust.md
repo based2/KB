@@ -165,6 +165,9 @@ https://github.com/crossbeam-rs/crossbeam
 https://itsallaboutthebit.com/async-simple/
 > https://news.ycombinator.com/item?id=31611456
 
+https://lunatic.solutions/blog/rust-without-the-async-hard-part/
+> https://news.ycombinator.com/item?id=31681373
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106

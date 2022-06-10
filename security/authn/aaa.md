@@ -61,6 +61,11 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/
+
+https://github.com/ory/kratos Identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches
+> https://news.ycombinator.com/item?id=31679811
+
 https://www.ietf.org/archive/id/draft-ietf-privacypass-auth-scheme-01.html
 > https://blog.cloudflare.com/eliminating-captchas-on-iphones-and-macs-using-new-standard/
 > > https://news.ycombinator.com/item?id=31669568

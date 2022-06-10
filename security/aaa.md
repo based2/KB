@@ -93,6 +93,12 @@ https://news.ycombinator.com/item?id=30611708
 
 https://news.ycombinator.com/item?id=30877296 Ask HN: Why don't PCs have better entropy sources?
 
+https://aleph.se/andart2/math/the-cursed-d65536/
+> https://news.ycombinator.com/item?id=31679207
+
+https://www.valerionappi.it/brng-en/
+> https://news.ycombinator.com/item?id=31680466
+
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 
@@ -132,6 +138,9 @@ https://www.cs.uky.edu/~klapper/pdf/algebraic.pdf Algebraic Shift Register Seque
 https://desfontain.es/privacy/more-useful-results-dp.html
 
 #
+https://fabiensanglard.net/discret11/index.html Discret 11, the French TV encryption of the 80's
+> https://news.ycombinator.com/item?id=31678081
+
 https://github.com/veorq/oee
 > https://news.ycombinator.com/item?id=31634084
 

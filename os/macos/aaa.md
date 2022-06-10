@@ -88,6 +88,9 @@ https://github.com/mikeroyal/Apple-Silicon-Guide
 https://github.com/hjuutilainen/sus-inspector
 
 # M2
+https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/
+> https://news.ycombinator.com/item?id=31678464
+
 https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/
 > https://news.ycombinator.com/item?id=31644008
 > https://news.ycombinator.com/item?id=31643610
@@ -215,7 +218,12 @@ https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsy
 
 https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-technology-after-their-visit-in-December-1979-or-was-it-just-copied
 
+https://konradybcio.pl/linuxona7/
+> https://news.ycombinator.com/item?id=31679293
+
 # News
+https://blog.plover.com/2022/06/02/#mac-lock-button
+
 https://lapcatsoftware.com/articles/SystemSettings.html
 > https://news.ycombinator.com/item?id=31669950
 

@@ -222,6 +222,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://openai.com/blog/techniques-for-training-large-neural-networks/
+> https://news.ycombinator.com/item?id=31682887
+
 https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet
 > https://news.ycombinator.com/item?id=31662560
 

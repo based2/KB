@@ -1,3 +1,12 @@
+https://seirdy.one/posts/2022/06/04/layered-content-blocking/
+
+https://cycode.com/blog/typosquatting-repojacking-domain-takeover/
+
+https://lists.apache.org/list?announce@apache.org:2022-6 Apache HTTPD
+
+https://blogs.blackberry.com/en/2022/06/symbiote-a-new-nearly-impossible-to-detect-linux-threat
+> https://news.ycombinator.com/item?id=31680791
+
 https://hub.steampipe.io/mods/turbot/aws_compliance/controls/benchmark.nist_800_53_rev_5
 > https://www.reddit.com/r/netsec/comments/v6vbc6/open_source_automated_nist_sp_80053_r5_benchmark/
 

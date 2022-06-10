@@ -51,3 +51,5 @@ https://awesomekling.github.io/Memory-safety-for-SerenityOS/
 
 https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.md
 > https://news.ycombinator.com/item?id=31581727
+
+https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/

@@ -3,7 +3,6 @@ https://practicaltypography.com/
 
 https://designwithfontforge.com/en-US/index.html
 
-
 https://www.checkmyworking.com/cm-web-fonts/
 > https://news.ycombinator.com/item?id=27128803
 
@@ -27,3 +26,5 @@ https://swelltype.com/yep-i-created-the-new-avatar-font/
 
 https://learnui.design/tools/typography-tutorial.html
 > https://news.ycombinator.com/item?id=31528601
+
+https://learnui.design/tools/typography-tutorial.html#
