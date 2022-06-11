@@ -88,6 +88,9 @@ https://github.com/mikeroyal/Apple-Silicon-Guide
 https://github.com/hjuutilainen/sus-inspector
 
 # M2
+https://semianalysis.substack.com/p/apple-m2-die-shot-and-architecture?s=r
+> https://news.ycombinator.com/item?id=31689366
+
 https://eclecticlight.co/2022/06/09/when-will-apple-ship-other-m2-macs/
 > https://news.ycombinator.com/item?id=31678464
 
@@ -222,6 +225,8 @@ https://konradybcio.pl/linuxona7/
 > https://news.ycombinator.com/item?id=31679293
 
 # News
+https://www.macrumors.com/2022/06/10/apple-statement-on-stage-manager-m1-ipads/
+
 https://blog.plover.com/2022/06/02/#mac-lock-button
 
 https://lapcatsoftware.com/articles/SystemSettings.html

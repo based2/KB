@@ -37,6 +37,9 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609
+> https://news.ycombinator.com/item?id=31695881
+
 https://www.liebertpub.com/doi/10.1089/ast.2022.0027 Catalytic Synthesis of Polyribonucleic Acid on Prebiotic Rock Glasses
 > https://news.ycombinator.com/item?id=31628832
 

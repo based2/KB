@@ -23,6 +23,8 @@ https://github.com/donnemartin/haxor-news
 
 https://news.ycombinator.com/item?id=29923736
 
+https://news.ycombinator.com/item?id=31693314 Show HN: Analyzing top HN posts with language models
+
 # Slashdot
 # Reddit
 

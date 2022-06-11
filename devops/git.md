@@ -259,6 +259,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://www.reddit.com/r/AZURE/comments/v9bsw7/azure_devops_has_one_of_the_simplest_and_easiest/
+
 https://think-like-a-git.net/
 
 https://github.com/aaossa/git-activity

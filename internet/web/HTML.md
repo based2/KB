@@ -137,6 +137,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://lofi.limo/blog/write-html-right
+> https://news.ycombinator.com/item?id=31694849
+
 https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/
 
 https://github.com/ludovicianul/hq

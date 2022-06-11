@@ -18,6 +18,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 > https://news.ycombinator.com/item?id=31363738
 
 # News
+https://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html
+> https://news.ycombinator.com/item?id=31696901
+
 https://lemonos.org/about
 
 https://tinypilotkvm.com/blog/build-a-kvm-over-ip-under-100

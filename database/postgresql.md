@@ -248,6 +248,9 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/
+> https://news.ycombinator.com/item?id=31687782
+
 https://github.com/neondatabase/neon serverless open source alternative to AWS Aurora Postgres
 
 https://cloud.google.com/blog/products/databases/alloydb-for-postgresql-columnar-engine

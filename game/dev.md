@@ -97,6 +97,13 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://github.com/CommonWealthRobotics/mujoco-java Java JNI binding for mujoco physics system
+> https://www.reddit.com/r/java/comments/v64p2o/mujoco_physics_engine_was_just_released_open/
+> > https://mujoco.org/
+
+https://www.thegamecrafter.com/
+> https://news.ycombinator.com/item?id=31697495
+
 https://liveblocks.io/blog/how-to-build-undo-redo-in-a-multiplayer-environment
 > https://news.ycombinator.com/item?id=31680876
 

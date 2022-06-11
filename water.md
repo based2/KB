@@ -33,3 +33,5 @@ https://news.mit.edu/2022/100k-competition-nona-0516 Solar-powered desalination 
 
 https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degradation-product-tfa-in-drinking-water/
 > https://news.ycombinator.com/item?id=31548234
+
+https://news.ycombinator.com/item?id=31678431 Enormous ‘rogue waves’ can appear out of nowhere

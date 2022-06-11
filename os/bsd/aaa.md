@@ -38,6 +38,9 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://bsandro.tech/posts/openbsd-7.1-on-pine64-rockpro64/
+> https://news.ycombinator.com/item?id=31692011
+
 https://www.cambus.net/openbsd-folklore-and-share-misc-airport/
 > https://news.ycombinator.com/item?id=31678336
 

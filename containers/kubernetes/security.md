@@ -25,6 +25,8 @@ https://github.com/quay/clair Red Hat
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
 # News
+https://github.com/PaloAltoNetworks/prisma-cloud-policies/tree/master/policies
+
 https://sysdig.com/blog/atomic-red-team-falco/
 
 https://www.cisecurity.org/benchmark/kubernetes

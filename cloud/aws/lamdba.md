@@ -70,6 +70,12 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://betterprogramming.pub/aws-step-functions-are-active-executions-affected-when-your-state-machine-gets-updated-bafa41b4b256
+
+https://oliverdunk.com/2022/06/04/aws-iot-core The secret third option for Serverless WebSockets on AWS
+
+https://github.com/oslabs-beta/Accumulus Monitoring
+
 https://medium.com/swlh/properly-unit-testing-lambda-functions-with-an-actual-production-example-e72743f72692
 
 https://aws.amazon.com/en/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/

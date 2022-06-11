@@ -112,6 +112,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://skarnet.org/software/skalibs/djblegacy.html
+> https://news.ycombinator.com/item?id=31700732
+
 https://eprint.iacr.org/2022/658 Unclonable Polymers and Their Cryptographic Applications
 > https://news.ycombinator.com/item?id=31575837
 

@@ -12,6 +12,8 @@ https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-databa
 https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 
 # News
+https://www.reddit.com/r/AZURE/comments/v97s79/new_azure_firewall_capabilities_and_an_update_on/
+
 https://github.com/rcarmo/azure-k3s-cluster
 
 https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-connect-password-hash-synchronization

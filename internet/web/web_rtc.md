@@ -57,3 +57,5 @@ https://github.com/adalkiran/webrtc-nuts-and-bolts
 
 webrtcforthecurious.com
 
+https://github.com/skyllo/peer-lite
+

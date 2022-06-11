@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://arxiv.org/abs/2206.02871
+> https://news.ycombinator.com/item?id=31700069
+
 https://news.ycombinator.com/item?id=31653726
 
 https://www.zdnet.com/finance/blockchain/the-paper-that-just-blew-up-bitcoins-claim-to-anonymity/

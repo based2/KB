@@ -39,6 +39,8 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 #
+https://news.ycombinator.com/item?id=31702594 Tell HN: Bitwarden does not export attachments in backups
+
 https://himitsustore.org/
 
 https://www.reddit.com/r/foss/comments/uakxt3/tiny_embeddable_secure_secrets_management_library/

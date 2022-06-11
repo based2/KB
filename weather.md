@@ -30,6 +30,11 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://www.weatherbook.org/dash/3/averages
+> https://news.ycombinator.com/item?id=31703151
+
+https://www.severe-weather.eu/long-range-2/ocean-atmosphere-anomaly-influence-cold-season-usa-europe-2022-2023-fa/
+
 https://en.wikipedia.org/wiki/Corsi%E2%80%93Rosenthal_Box
 > https://news.ycombinator.com/item?id=31438825
 

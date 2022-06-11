@@ -88,7 +88,6 @@ https://blog.ineat-group.com/2020/06/ceinture-noire-en-test-api-passez-au-dan-su
 https://github.com/rohanpadhye/jqf Coverage-guided semantic fuzzing
 https://www.reddit.com/r/java/comments/jcryn9/logcaptor_library_to_easily_capture_and_test_log/
 
-
 # Profiling
 https://github.com/jvm-profiling-tools/async-profiler
 
@@ -100,6 +99,8 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 https://github.com/vitaliy-sk/PerfUnit
 
 # News
+https://rogerriggs.wordpress.com/2022/05/14/testing-clean-cleaner-cleanup/
+
 https://hubert.codes/posts/devops/maven-setup-unit-integration-tests/
 
 https://johanneslink.net/model-based-testing/

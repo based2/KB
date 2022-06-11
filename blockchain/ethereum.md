@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.skadden.com/insights/publications/2022/05/putative-class-action-lawsuit-alleges-dao-members?sid=49bdc89c-9f37-4add-b562-c70b57e34072
+
 https://cryptobriefing.com/ethereum-test-ropsten-successfully-merges-with-its-beacon-chain/
 
 https://twitter.com/mskvsk/status/1533657107496521728

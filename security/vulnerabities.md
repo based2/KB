@@ -173,6 +173,8 @@ https://en.wikipedia.org/wiki/Stagefright_(bug) Android
 
 https://en.wikipedia.org/wiki/JASBUG Windows
 
+https://en.wikipedia.org/wiki/NetScreen_Technologies
+
 ## 2014
 https://en.wikipedia.org/wiki/Shellshock_(software_bug)
 
@@ -223,10 +225,14 @@ https://en.wikipedia.org/wiki/Length_extension_attack
 ## 2008
 https://www.win.tue.nl/hashclash/rogue-ca/ MD5
 
+https://en.wikipedia.org/wiki/Dual_EC_DRBG
+
 ## 2007
 https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia
 
 ## 2005
+
+https://en.wikipedia.org/wiki/Turbulence_(NSA)
 
 https://en.wikipedia.org/wiki/Billion_laughs_attack
 

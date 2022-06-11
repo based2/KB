@@ -187,6 +187,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/
+> https://news.ycombinator.com/item?id=31703803
+
+https://news.ycombinator.com/item?id=31696447 Ask HN: How are you dealing with the M1/ARM migration?
+
 https://github.blog/2022-06-09-dependabot-updates-hit-ga-in-ghes/
 
 https://gitlab.com/gitlab-org/gitlab/-/issues/352316 Move required pipeline configuration to Ultimate

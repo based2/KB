@@ -232,11 +232,9 @@ https://news.ycombinator.com/item?id=30038525 Jeopardy Heatmap Written in Elm
 
 https://underjord.io/my-elm-experience.html
 > https://lobste.rs/s/neixpd/my_elm_experience
-> >
 
 https://www.humio.com/blog/understanding-ui-components-in-elm/
 > https://news.ycombinator.com/item?id=31664568
-
 
 ## Svelt
 https://news.ycombinator.com/item?id=26557886
@@ -355,6 +353,8 @@ https://vramework.io/blog/20211030-service-injection/
 
 https://www.ashbyhq.com/blog/engineering/detecting-event-loop-blockers
 > https://news.ycombinator.com/item?id=30713567
+
+https://nodejs.org/en/blog/announcements/nodejs16-eol/ Changing the End-of-Life Date for Node.js 16 to September 11th, 2023
 
 ## NPM
 

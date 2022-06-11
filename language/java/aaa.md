@@ -255,6 +255,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://openjdk.java.net/jeps/428 JEP 428: Structured Concurrency (Incubator)
+
+https://conductor.netflix.com/gettingstarted/intro.html microservices orchestration
+
 https://skilldrick.github.io/easy6502/
 
 https://inside.java/2022/05/27/testing-clean-cleaner-cleanup/

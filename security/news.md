@@ -1,3 +1,14 @@
+https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/
+> https://news.ycombinator.com/item?id=31692116
+
+https://ryanseddon.com/javascript/stealing-history-api/
+> https://news.ycombinator.com/item?id=31679510
+
+https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/
+> https://news.ycombinator.com/item?id=31693490
+> > https://pacmanattack.com/
+> > > https://pacmanattack.com/paper.pdf
+
 https://seirdy.one/posts/2022/06/04/layered-content-blocking/
 
 https://cycode.com/blog/typosquatting-repojacking-domain-takeover/

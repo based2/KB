@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://www.reddit.com/r/aws/comments/v8y1ma/useast1_outage/
+
 https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-backfill-attack/
 > https://www.reddit.com/r/netsec/comments/ugkybz/aws_targeted_by_a_package_backfill_attack/
 
@@ -74,6 +76,11 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://dev.to/aws/aws-open-source-news-and-updates-116-22dj
+
+https://jonathanbull.co.uk/blog/aws-health-dashboard-cannot-be-trusted/
+> https://www.reddit.com/r/aws/comments/v9i7yb/the_aws_health_dashboard_cant_be_trusted/
+
 https://aws.amazon.com/en/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/
 
 https://blog.serverlessq.com/aws-sns-vs-sqs-what-are-the-main-differences

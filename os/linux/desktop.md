@@ -13,7 +13,11 @@ https://www.enlightenment.org/
 
 https://mxlinux.org/mx-fluxbox/
 
-https://www.gilesorr.com/wm/table.html
+https://www.gilesorr.com/wm/table.html The Comprehensive List of Window Managers for Unix
+> https://news.ycombinator.com/item?id=31665749
+
+https://github.com/codic12/worm nim x11
+> https://news.ycombinator.com/item?id=31702571
 
 # X11
 https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/

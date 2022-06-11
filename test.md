@@ -81,6 +81,9 @@ https://philipwalton.com/articles/performant-a-b-testing-with-cloudflare-workers
 https://blog.alexandervolkmann.com/2022/01/05/conversion-rate-A-B-testing.html
 > https://news.ycombinator.com/item?id=29837922
 
+https://www.amazon.science/publications/non-stationary-a-b-tests
+> https://news.ycombinator.com/item?id=31699032
+
 #
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
 > https://news.ycombinator.com/item?id=27923631

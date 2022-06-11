@@ -271,6 +271,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://mcyoung.xyz/2022/06/07/alkyne-gc/ scripting language I built a couple of years ago for generating configuration blobs.
+> https://news.ycombinator.com/item?id=31678008
+
 https://lists.squeakfoundation.org/pipermail/squeak-dev/2022-June/220899.html Ephemerons are Associations that interact with the garbage collector
 > https://news.ycombinator.com/item?id=31667646
 

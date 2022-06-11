@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime
+> https://news.ycombinator.com/item?id=31698127
+
 https://news.ycombinator.com/item?id=31685545
 
 https://www.schneier.com/blog/archives/2022/04/clever-cryptocurrency-theft.html

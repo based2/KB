@@ -7,6 +7,9 @@ https://piroguetoolsuite.github.io/
 > https://news.ycombinator.com/item?id=31616837
 
 #
+https://www.copetti.org/writings/consoles/xbox-360/
+> https://news.ycombinator.com/item?id=31678045
+
 https://g.livejournal.com/10829.html AOL 3.0 is Back (DRAFT, 6/5/22)
 > https://news.ycombinator.com/item?id=31630216
 

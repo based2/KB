@@ -89,9 +89,13 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://eng.uber.com/data-race-patterns-in-go/
+> https://news.ycombinator.com/item?id=31698503
+
 https://github.com/ergo-services/ergo actor based Framework for creating microservices using technologies and design patterns of Erlang/OTP
 
 https://github.com/kalbhor/Tasqueue distributed job/worker
+> https://news.ycombinator.com/item?id=31665924
 
 https://osmh.dev/posts/goroutines-under-the-hood
 > https://news.ycombinator.com/item?id=31607274

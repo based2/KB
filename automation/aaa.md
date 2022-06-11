@@ -23,6 +23,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://meadowrun.io/ python
+> https://news.ycombinator.com/item?id=31694827
+
 https://iasql.com/
 
 https://buttondown.email/krcah/archive/more-control-with-idempotency/

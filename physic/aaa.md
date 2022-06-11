@@ -69,6 +69,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://physicsworld.com/a/five-glassy-mysteries-we-still-cant-explain-from-the-ideal-solution-to-metallic-glasses-and-more/
+> https://news.ycombinator.com/item?id=31677870
+
 https://phys.org/news/2022-06-liquid-platinum-room-temperature-cool.html
 > https://news.ycombinator.com/item?id=31653887
 

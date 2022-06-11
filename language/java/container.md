@@ -39,4 +39,10 @@ https://developers.redhat.com/articles/2022/04/19/best-practices-java-single-cor
 
 https://www.wildfly.org/news/2022/04/20/WildFly-s2i-v2-Released/
 
-https://github.com/openjdk/jdk/pull/7666 8281181: Do not use CPU Shares to compute active processor count 
+https://github.com/openjdk/jdk/pull/7666 8281181: Do not use CPU Shares to compute active processor count
+
+https://www.infoq.com/news/2022/05/static-java-state-2022/
+
+https://danheidinga.github.io/phase-aware-source-code/
+
+https://foojay.io/today/journeys-in-java-level-5-building-an-empire-of-microservices/

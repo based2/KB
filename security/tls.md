@@ -5,6 +5,9 @@ List TLS versions supported:
 
     openssl s_client -help 2>&1 | awk '/-ssl[0-9]|-tls[0-9]/{print $1}'
 
+https://smallstep.com/blog/if-openssl-were-a-gui/
+> https://news.ycombinator.com/item?id=31697636
+
 # Others
 
 * Amazon: https://aws.amazon.com/en/blogs/security/introducing-s2n-a-new-open-source-tls-implementation/

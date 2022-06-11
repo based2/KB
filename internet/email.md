@@ -121,6 +121,16 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://www.opensmtpd.org/
+> https://news.ycombinator.com/item?id=31702913
+> > https://blog.qualys.com/vulnerabilities-threat-research/2020/01/29/openbsd-opensmtpd-remote-code-execution-vulnerability-cve-2020-7247
+
+https://www.claws-mail.org/
+> https://news.ycombinator.com/item?id=31691783
+
+https://sup-heliotrope.github.io/
+> https://news.ycombinator.com/item?id=31696235
+
 https://vivaldi.com/press/releases/vivaldi-mail-1-0-calendar-feed-reader-launches/
 > https://news.ycombinator.com/item?id=31683214
 

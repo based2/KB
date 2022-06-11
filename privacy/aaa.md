@@ -95,6 +95,10 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://medium.com/airbnb-engineering/automating-data-protection-at-scale-part-3-34e592c45d46
+
+https://news.ycombinator.com/item?id=31698148 Tell HN: Google does not list application permissions in the Play Store any more
+
 https://ucsdnews.ucsd.edu/pressrelease/Bluetoothfingerprints
 > https://news.ycombinator.com/item?id=31683999
 
