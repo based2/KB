@@ -70,6 +70,8 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://github.com/nathants/aws-exec
+
 https://betterprogramming.pub/aws-step-functions-are-active-executions-affected-when-your-state-machine-gets-updated-bafa41b4b256
 
 https://oliverdunk.com/2022/06/04/aws-iot-core The secret third option for Serverless WebSockets on AWS

@@ -21,7 +21,6 @@ https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/
 
 https://augmentedperception.github.io/total_relighting/
 
-
 https://intel-isl.github.io/PhotorealismEnhancement/
 > https://news.ycombinator.com/item?id=27126092
 
@@ -60,6 +59,9 @@ https://www.piskelapp.com/
 
 https://derekyu.com/makegames/pixelart2.html
 > https://news.ycombinator.com/item?id=31617921
+
+https://developer.apple.com/news/?id=3sgp4ps7 Challenge: Pixel perfect design
+> https://news.ycombinator.com/item?id=31715995
 
 # Font
 https://github.com/robhagemans/hoard-of-bitfonts

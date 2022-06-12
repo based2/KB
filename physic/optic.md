@@ -81,3 +81,5 @@ https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-he
 > https://news.ycombinator.com/item?id=31347740
 
 https://ricktu288.github.io/ray-optics/
+
+https://phys.org/news/2022-06-channel-optical-link-capable-transmitting.html

@@ -35,3 +35,7 @@ https://www.bortzmeyer.org/9109.html RFC 9109: Network Time Protocol Version 4: 
 https://datatracker.ietf.org/doc/html/rfc6919 Further Keywords for Use in RFCs to Indicate Requirement Levels
 
 https://github.com/ysoftwareab/ietf-rfcs-abnf
+
+https://tools.ietf.org/
+> https://news.ycombinator.com/item?id=31714358
+> > https://datatracker.ietf.org/

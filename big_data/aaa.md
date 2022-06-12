@@ -237,6 +237,10 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.pymc.io/blog/v4_announcement.html
+
+https://pythonspeed.com/articles/pandas-vectorization/
+
 https://hop.apache.org/blog/2022/06/hop-2.0.0/ Hop Orchestration Platform, Kettle (Pentaho Data Integration) fork
 > https://news.ycombinator.com/item?id=31672324
 

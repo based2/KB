@@ -97,6 +97,7 @@ https://nic.eu.org/
 
 https://www.dns.toys/
 > https://news.ycombinator.com/item?id=31637226
+> https://news.ycombinator.com/item?id=31704789
 
 https://github.com/paulmillr/encrypted-dns
 

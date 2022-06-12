@@ -225,6 +225,9 @@ https://konradybcio.pl/linuxona7/
 > https://news.ycombinator.com/item?id=31679293
 
 # News
+https://mnpn.github.io/blog/airplay-network-disaster
+> https://news.ycombinator.com/item?id=31706283
+
 https://www.macrumors.com/2022/06/10/apple-statement-on-stage-manager-m1-ipads/
 
 https://blog.plover.com/2022/06/02/#mac-lock-button

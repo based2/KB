@@ -82,6 +82,10 @@ https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Co
 
 # Incidents
 
+https://www.wiz.io/blog/the-cloud-gray-zone-secret-agents-installed-by-cloud-service-providers/
+> https://www.theregister.com/2022/06/11/in-brief-security/
+> > https://github.com/wiz-sec/cloud-middleware-dataset
+
 https://techxplore.com/news/2022-04-cloud-server-leasing-sensitive.html
 
 https://news.ycombinator.com/item?id=31417993

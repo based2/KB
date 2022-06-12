@@ -54,6 +54,10 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://github.com/z0ccc/Vytal
+> https://news.ycombinator.com/item?id=31710603
+> https://www.reddit.com/r/netsec/comments/vac50s/i_made_a_browser_extension_that_spoofs_your/
+
 https://github.com/netbirdio/netbird
 
 https://www.firezone.dev/

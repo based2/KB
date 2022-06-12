@@ -38,6 +38,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://news.ycombinator.com/item?id=31716393 Show HN: Looking for feedback on Truegit, Git powered Blogging platform
+
 https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/
 > https://news.ycombinator.com/item?id=31682718
 

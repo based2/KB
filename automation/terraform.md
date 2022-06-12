@@ -68,6 +68,8 @@ https://aquasecurity.github.io/tfsec/
 https://www.validiac.com/ ui
 
 # News
+https://itnext.io/a-different-view-to-terraform-dependency-version-management-3cb32691b82b
+
 https://github.com/GoogleCloudPlatform/terraform-python-testing-helper/
 
 https://medium.com/@anilnandat/custom-policies-in-checkov-deabea82a761

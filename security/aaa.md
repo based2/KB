@@ -138,6 +138,9 @@ https://www.cs.uky.edu/~klapper/pdf/algebraic.pdf Algebraic Shift Register Seque
 https://desfontain.es/privacy/more-useful-results-dp.html
 
 #
+https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/
+> https://news.ycombinator.com/item?id=31713999
+
 https://fabiensanglard.net/discret11/index.html Discret 11, the French TV encryption of the 80's
 > https://news.ycombinator.com/item?id=31678081
 

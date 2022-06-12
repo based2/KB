@@ -396,6 +396,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://boa-dev.github.io/
+
+https://mikevdv.dev/blog/2022-05-29-the-strange-world-of-npm-site-alternatives
+
 https://github.com/tc39/proposal-type-annotations
 > https://news.ycombinator.com/item?id=31672754
 

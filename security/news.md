@@ -1,3 +1,22 @@
+https://www.reddit.com/r/blueteamsec/comments/v9rzby/ecapture_capture_ssltls_text_content_without_ca/
+
+https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-when-a-group-is-added-to-a-sensitive-active-directory/ba-p/3436868
+
+https://documentation.suse.com/sbp/server-linux/html/SBP-SLSA4/index.html
+
+https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/
+
+https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/
+
+https://liman.io/blog/gitlab-security-vulnerability-jupyter-notebooks
+
+https://github.com/tr3ee/CVE-2022-23222
+
+https://www.bleepingcomputer.com/news/security/pypi-package-keep-mistakenly-included-a-password-stealer/
+
+https://status.torproject.org/issues/2022-06-09-network-ddos/
+> https://news.ycombinator.com/item?id=31702593
+
 https://arstechnica.com/information-technology/2022/06/novel-techniques-in-never-before-seen-linux-backdoor-make-it-ultra-stealthy/
 > https://news.ycombinator.com/item?id=31692116
 
@@ -1082,6 +1101,8 @@ https://dirtypipe.cm4all.com/ CVE-2022-0847
 > https://www.hackthebox.com/blog/Dirty-Pipe-Explained-CVE-2022-0847
 > https://www.hackthebox.com/blog/Dirty-Pipe-Explained-CVE-2022-0847
 > https://0x434b.dev/learning-linux-kernel-exploitation-part-2-cve-2022-0847/
+> https://lolcads.github.io/posts/2022/06/dirty_pipe_cve_2022_0847/
+> > https://news.ycombinator.com/item?id=31712986
 
 https://0ut3r.space/2022/03/06/windows-defender/
 > https://news.ycombinator.com/item?id=30580444
@@ -2447,9 +2468,6 @@ https://trojansource.codes/ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2
 https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
 
 https://www.mozilla.org/en-US/security/advisories/mfsa2021-47/
-
-https://github.com/FiloSottile/age
-> https://linuxfr.org/news/sortie-de-la-version-1-0-0-de-age
 
 https://linuxsecurity.com/advisories/fedora/fedora-35-vim-2021-6988830606-19-26-46
 > https://nvd.nist.gov/vuln/detail/CVE-2021-4069

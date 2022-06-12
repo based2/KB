@@ -89,6 +89,12 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/
+> https://news.ycombinator.com/item?id=31713360
+
+https://gotemplate.io/
+> https://news.ycombinator.com/item?id=31713654
+
 https://eng.uber.com/data-race-patterns-in-go/
 > https://news.ycombinator.com/item?id=31698503
 

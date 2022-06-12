@@ -1,3 +1,5 @@
+https://thenewstack.io/apple-lays-foundation-for-mixed-reality-headset-at-wwdc22/
+
 https://openbrush.app/ room-scale 3D-painting virtual-reality application
 > https://github.com/icosa-gallery/open-brush/
 

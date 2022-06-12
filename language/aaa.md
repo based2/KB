@@ -271,6 +271,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://www.acm.org/media-center/2022/april/50-years-backfile
+> https://news.ycombinator.com/item?id=31716350
+
 https://mcyoung.xyz/2022/06/07/alkyne-gc/ scripting language I built a couple of years ago for generating configuration blobs.
 > https://news.ycombinator.com/item?id=31678008
 

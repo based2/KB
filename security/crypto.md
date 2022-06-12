@@ -50,6 +50,9 @@ https://en.wikipedia.org/wiki/Key_encapsulation
 
 # Tools
 https://github.com/FiloSottile/age
+> https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1 yubikey
+> > https://news.ycombinator.com/item?id=31705670
+> https://linuxfr.org/news/sortie-de-la-version-1-0-0-de-age
 
 ## PGP
 https://philzimmermann.com/EN/essays/PGP_30th/

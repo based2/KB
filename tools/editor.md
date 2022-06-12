@@ -157,6 +157,9 @@ https://www.jetbrains.com/en/idea/
 https://vscodium.com/
 > https://news.ycombinator.com/item?id=31604932
 
+https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/
+> https://news.ycombinator.com/item?id=31713625
+
 https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript

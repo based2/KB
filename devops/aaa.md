@@ -187,6 +187,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=31705099 Ask HN: Would you be interested in POM generator for Selenium?
+
+https://github.com/gabrielsoltz/ess-gitlab Scanner for Gitlab Security Mis-Configurations
+
+https://github.com/google/cadvisor Container Advisor provides container users an understanding of the resource usage and performance characteristics of their running containers
+
 https://taylorbrazelton.com/2022/06/06/2022-06-06-bye-bye-semantic-versioning-say-hello-to-gitdate/
 > https://news.ycombinator.com/item?id=31703803
 

@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://twitter.com/zerostablecoin/status/1534131126209499138
+> https://news.ycombinator.com/item?id=31714556
+
 https://writing.kemitchell.com/2022/06/10/Work-Tech-Crime
 > https://news.ycombinator.com/item?id=31698127
 

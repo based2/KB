@@ -65,6 +65,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://wayfire.org/
+> https://news.ycombinator.com/item?id=31702567
+
 https://www.theregister.com/2022/06/08/linux_desktop_blues/
 > https://news.ycombinator.com/item?id=31677671
 

@@ -6,3 +6,5 @@ https://muratbuffalo.blogspot.com/2022/05/warp-lightweight-multi-key-transaction
 
 https://github.com/dragonflydb/dragonfly
 > https://news.ycombinator.com/item?id=31560547
+
+https://github.com/cberner/redb

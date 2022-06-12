@@ -340,6 +340,8 @@ https://highassurance.rs/
 
 https://news.ycombinator.com/item?id=31307006
 
+https://model-checking.github.io//kani-verifier-blog/2022/06/01/using-the-kani-rust-verifier-on-a-rust-standard-library-cve.html
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -377,11 +379,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://matklad.github.io//2022/06/11/caches-in-rust.html
+
 https://www.thecodedmessage.com/posts/trivia-rust-types/
 > https://news.ycombinator.com/item?id=31652363
 
 https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html
-> 
 
 https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/
 

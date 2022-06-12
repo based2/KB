@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.youtube.com/watch?v=QNl0DDUnp0E
+> https://news.ycombinator.com/item?id=31715067
+
 https://www.darpa.mil/news-events/2022-05-18
 > 
 

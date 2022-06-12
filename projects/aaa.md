@@ -192,6 +192,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://blog.pragmaticengineer.com/project-management-at-big-tech/
+> https://news.ycombinator.com/item?id=31705526
+
 https://blog.pragmaticengineer.com/shipping-to-production/
 
 https://doordash.engineering/2022/06/02/using-back-door-adjustment-causal-analysis-to-measure-pre-post-effects/

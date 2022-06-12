@@ -65,6 +65,8 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://developer.apple.com/videos/play/wwdc2022/110358/
+
 https://rulex-rs.github.io/ Rulex – A new, portable, regular expression language
 > https://news.ycombinator.com/item?id=31690878
 

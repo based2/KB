@@ -15,6 +15,8 @@ https://github.com/hashicorp/terraform/releases/tag/v1.0.0
 
 https://github.com/ToolJet/ToolJet
 
+https://github.com/Checkmarx/kics
+
 # Validation
 https://cuelang.org/docs/about/
 > https://news.ycombinator.com/item?id=27510919

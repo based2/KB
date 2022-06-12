@@ -44,5 +44,7 @@ https://caselaw.nationalarchives.gov.uk/open-justice-licence
 
 # Incident
 
+https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24
+
 https://github.com/cheat-engine/cheat-engine/pull/1872
 > https://news.ycombinator.com/item?id=31084128

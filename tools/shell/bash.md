@@ -72,6 +72,9 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://levelup.gitconnected.com/5-bash-syntax-for-going-beyond-traditional-shell-scripting-6904d3e71af6
+> https://www.reddit.com/r/linuxadmin/comments/v6oglv/5_bash_syntax_for_going_beyond_traditional_shell/
+
 https://github.com/phyver/GameShell
 > https://news.ycombinator.com/item?id=31502917
 

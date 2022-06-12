@@ -255,6 +255,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://jbaker.io/2022/06/09/vectors-in-java/ sort
+> https://news.ycombinator.com/item?id=31703471
+
 https://openjdk.java.net/jeps/428 JEP 428: Structured Concurrency (Incubator)
 
 https://conductor.netflix.com/gettingstarted/intro.html microservices orchestration

@@ -193,6 +193,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://css-tricks.com/newsletter/273-weird-browsers/
+
 https://www.industrialempathy.com/posts/high-performance-web-font-loading/
 > https://news.ycombinator.com/item?id=31680769
 

@@ -6,6 +6,8 @@ https://aws.amazon.com/en/blogs/aws/troubleshoot-boot-and-networking-issues-with
 https://aws.amazon.com/en/blogs/compute/update-issue-affecting-hashicorp-terraform-resource-deletions-after-the-vpc-improvements-to-aws-lambda/
 
 # News
+https://docs.aws.amazon.com/general/latest/gr/aws-ipv6-support.html
+
 https://aws.amazon.com/de/blogs/aws/new-for-aws-datasync-move-data-between-aws-and-google-cloud-storage-or-aws-and-microsoft-azure-files/
 
 https://aws.amazon.com/en/about-aws/whats-new/2022/05/amazon-vpc-multiple-ipv6-cidr-blocks/

@@ -33,3 +33,5 @@ https://caolan.uk/notes/2022-05-13_serving_markdown_direct_from_apache.cm
 
 https://github.com/git-noter/gitnoter
 > https://news.ycombinator.com/item?id=31580045
+
+https://oldvcr.blogspot.com/2022/06/prior-art-dept-proletext-encoding-html.html

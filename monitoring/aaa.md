@@ -71,6 +71,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring disk
+
 https://thume.ca/2021/03/14/iforests/ Implicit In-order Forests: Zooming a billion trace events at 60fps
 
 https://www.timescale.com/blog/observability-powered-by-sql-understand-your-systems-like-never-before-with-opentelemetry-traces-and-postgresql/

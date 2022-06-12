@@ -74,6 +74,8 @@ https://nginx.org/en/docs/control.html#upgrade
 https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/
 > https://news.ycombinator.com/item?id=30435282
 
+https://trunc.org/learning/everything-you-dont-need-to-know-about-nginx-error-logs
+
 ##
 https://caddyserver.com/
 > https://news.ycombinator.com/item?id=29378030
