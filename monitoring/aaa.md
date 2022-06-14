@@ -71,6 +71,10 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://grafana.com/blog/2022/06/14/introducing-grafana-oncall-oss-open-source/
+> https://github.com/grafana/oncall
+> https://news.ycombinator.com/item?id=31740902
+
 https://github.com/0xDiSk/NVMe-SSD-HDD-S.M.A.R.T-Monitoring disk
 
 https://thume.ca/2021/03/14/iforests/ Implicit In-order Forests: Zooming a billion trace events at 60fps

@@ -227,6 +227,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/
+
 https://news.ycombinator.com/item?id=31634704 Ask HN: Has anyone successfully used LibreOffice for their business?
 
 

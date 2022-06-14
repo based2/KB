@@ -1,3 +1,5 @@
+https://dl.acm.org/doi/10.1145/3313831.3376722 Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities
+
 https://thenewstack.io/apple-lays-foundation-for-mixed-reality-headset-at-wwdc22/
 
 https://openbrush.app/ room-scale 3D-painting virtual-reality application

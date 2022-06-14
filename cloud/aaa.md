@@ -81,6 +81,8 @@ https://eigr.io/ beam
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 
 # Incidents
+https://blog.heroku.com/april-2022-incident-review
+> https://news.ycombinator.com/item?id=31743100
 
 https://www.wiz.io/blog/the-cloud-gray-zone-secret-agents-installed-by-cloud-service-providers/
 > https://www.theregister.com/2022/06/11/in-brief-security/

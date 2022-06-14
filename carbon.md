@@ -59,6 +59,14 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.ecowatch.com/ben-jerrys-cows-methane-emissions-diet.html
+> https://news.ycombinator.com/item?id=31744400
+
+https://phys.org/news/2022-06-polluted-air-global-life-years.html
+> https://news.ycombinator.com/item?id=31738519
+
+https://www.smithsonianmag.com/smart-news/carbon-dioxide-levels-now-higher-than-ever-in-human-history-180980229/
+
 https://academic.oup.com/ahr/article/121/1/70/2582444?login=false
 > https://news.ycombinator.com/item?id=31709335
 

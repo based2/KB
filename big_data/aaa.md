@@ -97,6 +97,9 @@ https://github.com/mljar/bloxs
 https://github.com/vizzuhq/ipyvizzu
 > https://news.ycombinator.com/item?id=30895975
 
+https://mljar.com/blog/dashboard-python-jupyter-notebook/
+> https://news.ycombinator.com/item?id=31736164
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 > https://news.ycombinator.com/item?id=27145515
@@ -237,6 +240,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/
+> https://news.ycombinator.com/item?id=31736794
+
+https://observablehq.com/@joshpoll/vvt-gog
+> https://news.ycombinator.com/item?id=31733365
+
 https://www.pymc.io/blog/v4_announcement.html
 
 https://pythonspeed.com/articles/pandas-vectorization/

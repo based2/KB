@@ -187,6 +187,9 @@ https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 
 https://ferrous-systems.com/blog/21st-century-embedded-tooling/
 
+https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/
+> https://news.ycombinator.com/item?id=31740768
+
 # Build
 https://fasterthanli.me/articles/why-is-my-rust-build-so-slow
 > https://news.ycombinator.com/item?id=29742694

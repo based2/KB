@@ -108,6 +108,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://gcc-newbies-guide.readthedocs.io/en/latest/diving-into-gcc-internals.html
+> https://news.ycombinator.com/item?id=31731145
+
 https://www.productive-cpp.com/using-the-mold-linker-for-fun-and-3x-8x-link-time-speedups/
 > https://news.ycombinator.com/item?id=31604772
 

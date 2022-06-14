@@ -143,6 +143,12 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://asia.nikkei.com/Business/Science/Japan-asteroid-probe-finds-23-amino-acids-researchers-confirm
+> https://news.ycombinator.com/item?id=31737207
+
+https://www.esa.int/Science_Exploration/Space_Science/Gaia/Gaia_sees_strange_stars_in_most_detailed_Milky_Way_survey_to_date
+> https://news.ycombinator.com/item?id=31742773
+
 https://www.bbc.com/news/science-environment-61744257
 > https://news.ycombinator.com/item?id=31679167
 

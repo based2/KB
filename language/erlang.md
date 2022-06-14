@@ -112,6 +112,8 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81
+
 https://joearms.github.io/published/2013-11-21-My-favorite-erlang-program.html
 > https://news.ycombinator.com/item?id=31639382
 

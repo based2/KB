@@ -38,6 +38,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/riquito/tuc
+> https://news.ycombinator.com/item?id=31726472
+
 https://specifyapp.com/blog/designing-specify-cli
 > https://news.ycombinator.com/item?id=31660581
 

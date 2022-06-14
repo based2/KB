@@ -60,6 +60,11 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search
+> https://news.ycombinator.com/item?id=31733673
+
+https://dl.acm.org/doi/fullHtml/10.1145/3498366.3505816 Situating Search 
+
 https://www.pinecone.io/learn/gif-search/
 > https://news.ycombinator.com/item?id=31652839
 

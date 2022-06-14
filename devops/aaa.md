@@ -187,6 +187,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow
+> https://news.ycombinator.com/item?id=31737807
+
 https://news.ycombinator.com/item?id=31705099 Ask HN: Would you be interested in POM generator for Selenium?
 
 https://github.com/gabrielsoltz/ess-gitlab Scanner for Gitlab Security Mis-Configurations

@@ -54,6 +54,9 @@ https://deno.com/blog/deno-on-mdn
 https://byteofdev.com/posts/deno/
 > https://news.ycombinator.com/item?id=29870321
 
+https://fresh.deno.dev/
+> https://news.ycombinator.com/item?id=31720110
+
 https://deno.com/blog/v1.19
 > https://news.ycombinator.com/item?id=30372360
 

@@ -222,6 +222,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://maif.github.io/shapash/
+> https://news.ycombinator.com/item?id=31710900
+
 https://aclanthology.org/2022.acl-long.3/ Improving Neural Text Generation via Adaptive Gradient Gating for Rare Token Embeddings
 
 https://danijar.com/project/director/ Deep Hierarchical Planning from Pixels, decisions

@@ -177,6 +177,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://devblogs.microsoft.com/visualstudio/arm64-visual-studio/ preview
+> https://news.ycombinator.com/item?id=31745016
+
 https://github.blog/2022-06-08-sunsetting-atom/
 > https://news.ycombinator.com/item?id=31668426
 > > https://zed.dev/

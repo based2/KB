@@ -65,6 +65,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://kde.org/en/announcements/plasma/5/5.25.0/
+> https://news.ycombinator.com/item?id=31738678
+
 https://wayfire.org/
 > https://news.ycombinator.com/item?id=31702567
 

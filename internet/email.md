@@ -121,6 +121,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/
+> https://news.ycombinator.com/item?id=31725103
+
 https://www.opensmtpd.org/
 > https://news.ycombinator.com/item?id=31702913
 > > https://blog.qualys.com/vulnerabilities-threat-research/2020/01/29/openbsd-opensmtpd-remote-code-execution-vulnerability-cve-2020-7247

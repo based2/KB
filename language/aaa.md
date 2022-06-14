@@ -271,6 +271,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://www.evanjones.ca/fork-is-dangerous.html
+> https://news.ycombinator.com/item?id=31739794
+
 https://www.acm.org/media-center/2022/april/50-years-backfile
 > https://news.ycombinator.com/item?id=31716350
 

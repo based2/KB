@@ -1,3 +1,14 @@
+https://notes.acuteaura.net/posts/github-enterprise-security/
+> https://tailscale.com/security-bulletins/#ts-2022-003
+
+https://www.ietf.org/archive/id/draft-ietf-ohai-ohttp-01.html
+> https://news.ycombinator.com/item?id=31743259
+
+https://www.hertzbleed.com/ ide-channel attacks on x86, turbo boost
+> https://news.ycombinator.com/item?id=31743110
+> https://www.intel.com/content/www/us/en/gaming/resources/turbo-boost.html
+> https://www.tomshardware.com/news/intel-amd-hertzbleed-cpu-vulnerability-boost-clock-speed-steal-crypto-keys
+
 https://www.reddit.com/r/blueteamsec/comments/v9rzby/ecapture_capture_ssltls_text_content_without_ca/
 
 https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-when-a-group-is-added-to-a-sensitive-active-directory/ba-p/3436868

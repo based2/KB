@@ -225,6 +225,12 @@ https://konradybcio.pl/linuxona7/
 > https://news.ycombinator.com/item?id=31679293
 
 # News
+https://basicappleguy.com/basicappleblog/settingsapp
+> https://news.ycombinator.com/item?id=31715738
+
+https://shadowfacts.net/2022/clarus/
+> https://news.ycombinator.com/item?id=31741589
+
 https://mnpn.github.io/blog/airplay-network-disaster
 > https://news.ycombinator.com/item?id=31706283
 

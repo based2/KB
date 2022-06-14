@@ -192,6 +192,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://komoroske.com/slime-mold/
+> https://news.ycombinator.com/item?id=31727144
+
 https://blog.pragmaticengineer.com/project-management-at-big-tech/
 > https://news.ycombinator.com/item?id=31705526
 
