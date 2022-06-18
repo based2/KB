@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://acko.net/blog/the-case-for-use-gpu/
+
 https://github.com/mbrlabs/Lorien
 > https://news.ycombinator.com/item?id=31717007
 

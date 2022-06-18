@@ -105,6 +105,8 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://parentheticallyspeaking.org/articles/how-not-to-teach-recursion/
+
 https://crumplab.com/articles/blog/post_994_5_26_22_cheating/index.html
 > https://news.ycombinator.com/item?id=31544634
 

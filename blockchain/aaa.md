@@ -48,6 +48,8 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://vitalik.ca/general/2022/06/15/using_snarks.html Some ways to use ZK-SNARKs for privacy
+
 https://www.ardanlabs.com/blog/2022/06/practical-uses-blockchain-technology.html?hmsr=joyk.com&utm_source=joyk.com&utm_medium=referral
 
 https://ont.io/

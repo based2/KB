@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://www.bleepingcomputer.com/news/security/popular-python-and-php-libraries-hijacked-to-steal-aws-keys/
+
 https://www.reddit.com/r/aws/comments/v8y1ma/useast1_outage/
 
 https://www.whitesourcesoftware.com/resources/blog/aws-targeted-by-a-package-backfill-attack/

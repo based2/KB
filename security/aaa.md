@@ -1,3 +1,5 @@
+https://www.vice.com/en/article/akvmke/facebook-doesnt-know-what-it-does-with-your-data-or-where-it-goes
+
 https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/
 
 https://github.com/deptofdefense
@@ -29,6 +31,8 @@ https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html
 https://hardenedvault.net/2021/07/16/ciso-seceng_csme.html
 
 https://en.wikipedia.org/wiki/Trust_on_first_use
+
+https://www.schneier.com/academic/archives/1999/12/attack_trees.html
 
 # Identity
 https://thenewstack.io/did-you-hear-decentralized-identifiers-are-coming/
@@ -121,6 +125,7 @@ https://fidoalliance.org/
 
 https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys
 > https://news.ycombinator.com/item?id=31643917
+> > https://arstechnica.com/gadgets/2022/05/apple-google-and-microsoft-want-bluetooth-proximity-to-replace-the-password/
 
 https://download.vusec.net/papers/constantine_ccs21.pdf
 > https://news.ycombinator.com/item?id=27078207

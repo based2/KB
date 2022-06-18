@@ -140,6 +140,8 @@ https://aws.amazon.com/en/blogs/security/introducing-s2n-quic-open-source-protoc
 
 https://http3-explained.haxx.se/en
 
+https://www.infoq.com/presentations/facebook-quic-http3/
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

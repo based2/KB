@@ -177,6 +177,8 @@ https://arxiv.org/abs/2109.13916 Unsolved Problems in ML Safety
 
 https://news.ycombinator.com/item?id=29289431
 
+https://thenextweb.com/news/machine-learning-has-an-alarming-threat-undetectable-backdoors
+
 ##
 https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemiologic_research.8.aspx
 > https://news.ycombinator.com/item?id=31037416
@@ -189,13 +191,7 @@ https://arxiv.org/abs/2106.09898 Bad Characters: Imperceptible NLP Attacks
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
 
-# NLP
-https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
-
-https://www.nlpdemystified.org/
-> https://news.ycombinator.com/item?id=31421232
-
-> Inference
+# Inference
 https://github.com/fabsig/GPBoost
 > https://news.ycombinator.com/item?id=27603613
 
@@ -222,6 +218,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/
+
+https://twitter.com/maurice_jks/status/1537814372462039043
+> https://news.ycombinator.com/item?id=31790698
+
 https://scottaaronson.blog/?p=6484
 > https://news.ycombinator.com/item?id=31787038
 
@@ -592,10 +593,7 @@ https://ai.googleblog.com/2022/02/machine-learning-for-mechanical.html
 
 https://medium.com/@josh.wolff.7/how-to-use-the-gpt-j-playground-by-aix-136304ca830d
 
-https://www.technologyreview.com/2022/01/20/1043885/meta-ai-facebook-learning-algorithm-nlp-vision-speech-agi/
-
 https://arxiv.org/abs/2202.06991
->
 
 https://koki0702.github.io/dezero-book/en/index.html
 > https://news.ycombinator.com/item?id=30318759
@@ -879,12 +877,6 @@ https://sharpneat.sourceforge.io/research/cart-pole/cart-pole-equations.html
 https://docs.spotml.io/
 > https://news.ycombinator.com/item?id=29213063
 
-https://nlpcloud.io/effectively-using-gpt-j-gpt-neo-gpt-3-alternatives-few-shot-learning.html
-> https://news.ycombinator.com/item?id=29176156
-
-https://uwaterloo.ca/news/media/new-ai-brings-power-natural-language-processing-african
-> https://news.ycombinator.com/item?id=29162380
-
 https://news.ycombinator.com/item?id=29179429 Cedille, the largest French language model, released in open source
 
 https://danshiebler.com/2021-11-06-ml-systems-1/ Improving a Machine Learning System (Part 1 - Broken Abstractions)
@@ -1057,9 +1049,6 @@ https://arxiv.org/abs/2106.05426 Low-Dimensional Structure in the Space of Langu
 https://justindomke.wordpress.com/2021/09/28/the-human-regression-ensemble/
 > https://news.ycombinator.com/item?id=28685183
 
-https://www.exafunction.com/nlp
-> https://news.ycombinator.com/item?id=28685936
-
 https://explained.ai/decision-tree-viz/index.html
 > https://news.ycombinator.com/item?id=28680769
 
@@ -1158,8 +1147,6 @@ https://arxiv.org/abs/2108.02497
 
 https://sebastianraschka.com/blog/2021/dl-course.html
 > https://news.ycombinator.com/item?id=28156380
-
-https://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html
 
 https://spectrum.ieee.org/the-future-of-deep-learning-is-photonic
 > https://news.ycombinator.com/item?id=28016713

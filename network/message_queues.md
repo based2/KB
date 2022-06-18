@@ -114,6 +114,9 @@ https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready
 > https://news.ycombinator.com/item?id=29993007
 
 #
+https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/
+> https://news.ycombinator.com/item?id=31759234
+
 https://nullprogram.com/blog/2022/05/14/ A lock-free, concurrent, generic queue in 32 bits
 > https://news.ycombinator.com/item?id=31384602
 

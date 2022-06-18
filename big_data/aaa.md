@@ -240,6 +240,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/dblalock/bolt 10x faster matrix and vector operations
+> https://news.ycombinator.com/item?id=31792206
+
 https://www.datadoghq.com/blog/engineering/computing-accurate-percentiles-with-ddsketch/
 
 https://shape-of-code.com/2012/02/29/parsing-r-code-freedom-of-expression-is-not-always-a-good-idea/

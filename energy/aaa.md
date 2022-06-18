@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology
+> https://news.ycombinator.com/item?id=31791444
+
 https://www.miningweekly.com/article/us-seeks-43bn-for-uranium-to-wean-off-russia-supply-2022-06-08
 
 https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html

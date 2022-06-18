@@ -1,9 +1,21 @@
+https://www.schneier.com/blog/archives/2022/04/zero-day-vulnerabilities-are-on-the-rise.html
+
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1.pdf Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations
+
+https://www.bleepingcomputer.com/news/security/citrix-warns-critical-bug-can-let-attackers-reset-admin-passwords/
+
+https://www.intel.com/content/www/us/en/developer/articles/technical/software-security-guidance/advisory-guidance/undefined-mmio-hang.html
+
+https://www.cyberkendra.com/2022/06/rce-bug-found-in-multiple-cisco-small.html
+> https://www.bleepingcomputer.com/news/security/cisco-says-it-won-t-fix-zero-day-rce-in-end-of-life-vpn-routers/
+
 https://portswigger.net/web-security/jwt
 
 https://sysdig.com/blog/aws-secure-ssh-ec2-threats/
 > https://www.reddit.com/r/netsec/comments/vc5zeg/what_if_you_dont_secure_ssh_on_ec2_analysis_of/
 
 https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/
+> https://www.bleepingcomputer.com/news/security/sophos-firewall-zero-day-bug-exploited-weeks-before-fix/
 
 https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability
 

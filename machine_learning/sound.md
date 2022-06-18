@@ -35,6 +35,8 @@ https://medium.com/product-ai/textless-nlp-the-future-of-speech-generation-31a6c
 
 https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-the-people/
 
+https://github.com/project-alice-assistant/ProjectAlice
+
 # text-to-speech
 https://15.ai/
 > https://news.ycombinator.com/item?id=31711118

@@ -223,6 +223,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://github.com/hwayne/awesome-cold-showers
+> https://news.ycombinator.com/item?id=31793030
+
 https://www.oilshell.org/blog/2022/03/backlog-arch.html
 > https://news.ycombinator.com/item?id=31775271
 

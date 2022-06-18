@@ -1,3 +1,9 @@
+https://thenewstack.io/babylon-js-hints-that-microsoft-metaverse-will-be-web-based/
+
+https://livingcities.xyz/
+
+https://www.theverge.com/2022/5/24/23138313/niantic-lightship-augmented-reality-ar-platform-social-network-gaming
+
 https://dl.acm.org/doi/10.1145/3313831.3376722 Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities
 
 https://thenewstack.io/apple-lays-foundation-for-mixed-reality-headset-at-wwdc22/

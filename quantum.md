@@ -79,6 +79,10 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://phys.org/news/2022-05-error-free-quantum-real.html
+
+https://arxiv.org/abs/2110.00557 The QICK (Quantum Instrumentation Control Kit): Readout and control for qubits and detectors
+
 https://www.theregister.com/2022/06/16/dwave_advantage2_quantum/
 
 https://dl.acm.org/doi/10.1145/3517340 Quantum Algorithm Implementations for Beginners

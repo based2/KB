@@ -51,6 +51,8 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 > https://news.ycombinator.com/item?id=28018057
 
 # News
+https://thenextweb.com/news/fairphone-sustainable-phone-repair-modules-interview
+
 https://www.eevblog.com/forum/dodgy-technology/not-dodgy-at-all-and-long-overdue-user-replaceable-batteries/
 
 https://www.nrel.gov/news/program/2022/plant-based-epoxy-enables-recyclable-carbon-fiber-improves-economics-for-mass-market-electric-vehicles.html
