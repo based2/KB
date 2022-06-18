@@ -114,6 +114,9 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
 
 # News
+https://lockable.dev/ ? $ Easy-to-use sync locks for distributed systems ->  distributed lease
+> https://news.ycombinator.com/item?id=31764026
+
 https://architecturenotes.co/fallacies-of-distributed-systems/
 > https://news.ycombinator.com/item?id=31626132
 

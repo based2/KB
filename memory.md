@@ -53,3 +53,6 @@ https://github.com/WebKit/WebKit/blob/main/Source/bmalloc/libpas/Documentation.m
 > https://news.ycombinator.com/item?id=31581727
 
 https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/
+
+https://v8.dev/blog/retrofitting-temporal-memory-safety-on-c++
+> https://news.ycombinator.com/item?id=31762574

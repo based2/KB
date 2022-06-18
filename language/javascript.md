@@ -55,6 +55,9 @@ https://formkit.com/
 
 https://zelig880.com/how-to-use-variables-in-css-with-v-bind-in-vuejs-3
 
+https://antoniandre.github.io/splitpanes/
+> https://news.ycombinator.com/item?id=31783887
+
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 

@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html
+> https://news.ycombinator.com/item?id=31748248
+
 https://nethackchallenge.com/report.html
 > https://news.ycombinator.com/item?id=31735651
 

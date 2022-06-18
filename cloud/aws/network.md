@@ -6,6 +6,9 @@ https://aws.amazon.com/en/blogs/aws/troubleshoot-boot-and-networking-issues-with
 https://aws.amazon.com/en/blogs/compute/update-issue-affecting-hashicorp-terraform-resource-deletions-after-the-vpc-improvements-to-aws-lambda/
 
 # News
+https://www.reddit.com/r/aws/comments/vemdk3/switch_to_vpc_endpoints_from_nat_gateways_to/
+> https://towardsaws.com/switch-to-vpc-endpoints-from-nat-gateways-to-reduce-bandwidth-charges-881b1d96e9cf
+
 https://docs.aws.amazon.com/general/latest/gr/aws-ipv6-support.html
 
 https://aws.amazon.com/de/blogs/aws/new-for-aws-datasync-move-data-between-aws-and-google-cloud-storage-or-aws-and-microsoft-azure-files/

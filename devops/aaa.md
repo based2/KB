@@ -119,6 +119,8 @@ https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 https://github.com/reposaur/reposaur Allows users and organizations to execute policies against GitHub data to generate reports, perform auditing and more
 
 # Incidents
+https://news.ycombinator.com/item?id=31769520
+
 https://news.ycombinator.com/item?id=31579862
 
 https://gitlab.com/gitlab-org/cves/-/blob/master/2022/CVE-2022-0477.json
@@ -187,6 +189,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes
+
 https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow
 > https://news.ycombinator.com/item?id=31737807
 

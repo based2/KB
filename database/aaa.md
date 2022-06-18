@@ -68,6 +68,12 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15
+> https://news.ycombinator.com/item?id=31767858
+
+https://www.crunchydata.com/blog/phases-of-database-growth-and-cost
+> https://news.ycombinator.com/item?id=31741082
+
 https://news.ycombinator.com/item?id=31633015 Ask HN: What are interesting new developments in databases related fields?
 
 https://news.ycombinator.com/item?id=31628142

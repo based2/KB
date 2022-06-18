@@ -121,6 +121,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://github.com/LGUG2Z/unsubscan Tool to help you find unsubscribe links in your emails
+> https://news.ycombinator.com/item?id=31786324
+
 https://blog.thunderbird.net/2022/06/revealed-thunderbird-on-android-plans-k9/
 > https://news.ycombinator.com/item?id=31725103
 

@@ -1,3 +1,29 @@
+https://portswigger.net/web-security/jwt
+
+https://sysdig.com/blog/aws-secure-ssh-ec2-threats/
+> https://www.reddit.com/r/netsec/comments/vc5zeg/what_if_you_dont_secure_ssh_on_ec2_analysis_of/
+
+https://www.volexity.com/blog/2022/06/15/driftingcloud-zero-day-sophos-firewall-exploitation-and-an-insidious-breach/
+
+https://www.cyberark.com/resources/threat-research-blog/that-pipe-is-still-leaking-revisiting-the-rdp-named-pipe-vulnerability
+
+https://jfrog.com/blog/cve-2022-25845-analyzing-the-fastjson-auto-type-bypass-rce-vulnerability/
+> https://thehackernews.com/2022/06/high-severity-rce-vulnerability.html?m=1
+> > https://www.reddit.com/r/programming/comments/veio6y/highseverity_rce_vulnerability_reported_in/
+
+https://www.reddit.com/r/programming/comments/veigea/a_microsoft_office_365_feature_could_help/
+
+https://sixcolors.com/post/2020/11/quick-tip-enable-touch-id-for-sudo/
+> https://news.ycombinator.com/item?id=31750560
+
+https://www.zerodayinitiative.com/blog/2022/6/15/cve-2022-23088-exploiting-a-heap-overflow-in-the-freebsd-wi-fi-stack
+> https://news.ycombinator.com/item?id=31768705
+
+https://www.techradar.com/uk/news/over-13000-vivo-phones-found-to-be-using-same-imei-number
+> https://news.ycombinator.com/item?id=31775941
+
+https://0pointer.net/blog/unlocking-luks2-volumes-with-tpm2-fido2-pkcs11-security-hardware-on-systemd-248.html
+
 https://notes.acuteaura.net/posts/github-enterprise-security/
 > https://tailscale.com/security-bulletins/#ts-2022-003
 
@@ -68,6 +94,7 @@ https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-113
 > > https://www.reddit.com/r/netsec/comments/v42o0o/detecting_and_mitigating_cve202226134_zero_day_at/
 > https://bugalert.org/content/notices/2022-06-02-confluence.html?src=tw
 > > https://www.reddit.com/r/netsec/comments/v3lxem/unauthenticated_remote_code_execution_in/
+> https://www.darkreading.com/attacks-breaches/atlassian-confluence-server-vulnerability-active-attack-ransomware
 
 https://www.bleepingcomputer.com/news/security/new-dogwalk-windows-zero-day-bug-gets-free-unofficial-patches/
 

@@ -98,6 +98,9 @@ https://github.com/szTheory/real-world-phoenix
 https://github.com/lucasvegi/Elixir-Code-Smells
 > https://news.ycombinator.com/item?id=31323334
 
+https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixir-with-axon-v0-1/
+> https://news.ycombinator.com/item?id=31765479
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

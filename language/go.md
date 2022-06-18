@@ -58,6 +58,9 @@ https://www.vugu.org/
 https://encore.dev/guide/go.mod
 > https://news.ycombinator.com/item?id=27025462
 
+https://fyne.io/
+> https://news.ycombinator.com/item?id=31785556
+
 # Links
 https://news.ycombinator.com/item?id=25881212`
 

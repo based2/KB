@@ -271,6 +271,19 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://github.com/JamesBoer/Jinx Embeddable scripting language for real-time applications
+> https://news.ycombinator.com/item?id=31753360
+
+https://antelang.org/ low-level functional lang, exploring refinement types, lifetime inference, and algebraic effects
+> https://news.ycombinator.com/item?id=31775216
+
+https://slope.colorfield.space/
+> https://news.ycombinator.com/item?id=31782985
+
+https://vale.dev/
+> https://news.ycombinator.com/item?id=31786487
+> https://verdagon.dev/blog/generational-references
+
 https://www.evanjones.ca/fork-is-dangerous.html
 > https://news.ycombinator.com/item?id=31739794
 

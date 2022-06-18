@@ -129,6 +129,9 @@ http://www.figlet.org/
 https://mannhowie.com/finite-state-machines
 
 # News
+https://www.rykap.com/graphics/skew/2016/02/25/voronoi-diagrams/
+> https://news.ycombinator.com/item?id=31750981
+
 https://untools.co/
 > https://news.ycombinator.com/item?id=31647181
 

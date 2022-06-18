@@ -81,6 +81,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://phys.org/news/2022-06-moth-winginspired-absorbing-wallpaper-sight.html
+> https://news.ycombinator.com/item?id=31769803
+
 https://drawbeats.com/
 > https://news.ycombinator.com/item?id=31699570
 

@@ -192,6 +192,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://incident.io/guide/ practical guide to incident management
+> https://news.ycombinator.com/item?id=31764680
+
 https://komoroske.com/slime-mold/
 > https://news.ycombinator.com/item?id=31727144
 

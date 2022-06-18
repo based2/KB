@@ -65,6 +65,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html
+> https://news.ycombinator.com/item?id=31778490
+
 https://kde.org/en/announcements/plasma/5/5.25.0/
 > https://news.ycombinator.com/item?id=31738678
 

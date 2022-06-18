@@ -38,6 +38,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://rawtext.club/
+> https://news.ycombinator.com/item?id=31788136
+
 https://briansunter.com/graph/#/page/logseq-social
 > https://news.ycombinator.com/item?id=31721927
 

@@ -123,6 +123,9 @@ https://www.freecodecamp.org/news/the-nginx-handbook/
 https://justine.lol/redbean/
 > https://news.ycombinator.com/item?id=27001961
 
+https://justine.lol/redbean2/
+> https://news.ycombinator.com/item?id=31764521
+
 # IM
 https://framapiaf.org/about
 
@@ -227,6 +230,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://isdotnetopen.com/
+> https://news.ycombinator.com/item?id=31762778
+
 https://humanwhocodes.com/blog/2022/06/sponsoring-dependencies-open-source-sustainability/
 
 https://news.ycombinator.com/item?id=31634704 Ask HN: Has anyone successfully used LibreOffice for their business?

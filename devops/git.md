@@ -259,6 +259,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181
+> https://news.ycombinator.com/item?id=31762245
+
 https://www.reddit.com/r/AZURE/comments/v9bsw7/azure_devops_has_one_of_the_simplest_and_easiest/
 
 https://think-like-a-git.net/

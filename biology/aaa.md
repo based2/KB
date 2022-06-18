@@ -37,6 +37,8 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://knowablemagazine.org/article/living-world/2022/mitochondria-origin-eukaryotes
+
 https://news.mit.edu/2022/crispr-based-map-ties-every-human-gene-to-its-function-0609
 > https://news.ycombinator.com/item?id=31695881
 

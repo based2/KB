@@ -39,6 +39,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://github.com/tombetthauser/watercolor-basics
+> https://news.ycombinator.com/item?id=31757077
+
 https://github.com/scrtwpns/pigment-mixing
 > https://news.ycombinator.com/item?id=30116316
 

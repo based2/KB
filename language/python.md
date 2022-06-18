@@ -219,6 +219,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/
+> https://news.ycombinator.com/item?id=31776873
+
+https://docs.python.org/3.11/whatsnew/3.11.html
+> https://news.ycombinator.com/item?id=31786801
+
 https://www.packt.com/bizarre-python/
 
 https://gitlab.com/BenWiser/python-live-gui

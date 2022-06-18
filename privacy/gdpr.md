@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.techcentral.ie/uk-scraps-parts-of-gdpr-in-data-reform-bill/
+
 https://noyb.eu/en/statement-4-years-gdpr
 > https://news.ycombinator.com/item?id=31501897
 

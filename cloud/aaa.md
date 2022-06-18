@@ -80,7 +80,16 @@ https://eigr.io/ beam
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 
+# DNS
+
+https://www.theregister.com/2021/08/06/aws_google_dns/
+
+https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_authority/
+
 # Incidents
+https://www.nytimes.com/2022/06/17/technology/paige-thompson-capital-one-hack.html
+> https://news.ycombinator.com/item?id=31787517
+
 https://blog.heroku.com/april-2022-incident-review
 > https://news.ycombinator.com/item?id=31743100
 
@@ -126,6 +135,11 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=31740885 Ask HN: Pros and cons of V8 isolates?
+
+https://www.cockroachlabs.com/pdf/2022-cloud-report-cockroach-labs.pdf
+> https://news.ycombinator.com/item?id=31765773
+
 https://kerkour.com/when-to-use-serverless
 > https://news.ycombinator.com/item?id=31696257
 

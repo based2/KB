@@ -77,6 +77,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://www.andy.works/words/the-most-satisfying-checkbox
+> https://news.ycombinator.com/item?id=31781110
+
 https://cristobal.space/writing/folk
 > https://news.ycombinator.com/item?id=31660575
 

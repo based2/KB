@@ -61,6 +61,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://datatracker.ietf.org/doc/html/rfc7591 OAuth 2.0 Dynamic Client Registration Protocol
+
 https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/
 
 https://github.com/ory/kratos Identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches

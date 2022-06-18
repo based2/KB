@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.coindesk.com/price/bitcoin/ Bitcoin Falls Below $20k
+> https://news.ycombinator.com/item?id=31788684
+
 https://www.singlelunch.com/2022/06/14/the-state-of-stablecoin-risks-june-2022/
 > https://news.ycombinator.com/item?id=31739784
 

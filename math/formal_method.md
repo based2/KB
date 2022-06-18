@@ -67,6 +67,9 @@ https://github.com/stateright/stateright
 http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties
 
 # News
+https://github.com/sarsko/CreuSAT formally verified SAT solver written in Rust and verified with Creusot
+> https://news.ycombinator.com/item?id=31780128
+
 https://arxiv.org/abs/2205.12910 NaturalProver: Grounded Mathematical Proof Generation with Language Models
 > https://news.ycombinator.com/item?id=31519334
 

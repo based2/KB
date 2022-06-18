@@ -3,6 +3,7 @@ https://keepass.info/
 https://hashcat.net/hashcat/
 
 https://www.passwordstore.org/
+> https://news.ycombinator.com/item?id=31773056
 
 https://hackernoon.com/solid-benefits-of-authentication-without-passwords-passwordless-identity-platforms-simply-explained-x11033xx
 
@@ -40,6 +41,9 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://passwordpolicies.cs.princeton.edu/
+> https://news.ycombinator.com/item?id=31783285
+
 https://kevincox.ca/2022/04/07/passwords/
 > https://news.ycombinator.com/item?id=30973515
 

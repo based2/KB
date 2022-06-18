@@ -108,6 +108,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # News
+https://pijul.org/thrussh Thrussh – Portable SSH client and server library - Rust
+> https://briansmith.org/rustdoc/ring/
+
 https://xeiaso.net/blog/yubikey-ssh-key-storage
 > https://news.ycombinator.com/item?id=31556130
 

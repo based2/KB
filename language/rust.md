@@ -382,6 +382,11 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://fly.io/blog/rust-memory-leak/
+> https://news.ycombinator.com/item?id=31758670
+
+https://news.ycombinator.com/item?id=31777063 gcc
+
 https://matklad.github.io//2022/06/11/caches-in-rust.html
 
 https://www.thecodedmessage.com/posts/trivia-rust-types/

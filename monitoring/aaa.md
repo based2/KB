@@ -63,6 +63,8 @@ https://goaccess.io/
 
 https://thanos.io/ Open source, highly available Prometheus setup with longF term storage capabilities.
 
+https://news.ycombinator.com/item?id=31780076 Show HN: Root Cause as a Service – Never dig through logs again
+
 # Distributed
 https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and ClickHouse, go
 > https://news.ycombinator.com/item?id=29711433

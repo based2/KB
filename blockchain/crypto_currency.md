@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.vice.com/en/article/n7zw7x/founders-of-dollar10-billion-crypto-hedge-fund-have-ghosted-after-bets-go-bad
+> https://news.ycombinator.com/item?id=31783315
+
 https://twitter.com/zerostablecoin/status/1534131126209499138
 > https://news.ycombinator.com/item?id=31714556
 

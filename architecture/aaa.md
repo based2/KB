@@ -223,6 +223,17 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.oilshell.org/blog/2022/03/backlog-arch.html
+> https://news.ycombinator.com/item?id=31775271
+
+https://www.infoq.com/articles/what-software-architecture/
+> https://news.ycombinator.com/item?id=31769684
+
+https://www.infoq.com/articles/minimum-viable-architecture-sample/
+> https://news.ycombinator.com/item?id=31776740
+
+https://ieeexplore.ieee.org/document/7765530 ResDevOps: A Software Engineering Framework for Achieving Long-Lasting Complex Systems
+
 https://brunoscheufler.com/blog/2020-07-04-documenting-design-decisions-using-rfcs-and-adrs
 > https://news.ycombinator.com/item?id=31557835
 

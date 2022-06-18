@@ -146,6 +146,8 @@ https://coredumped.dev/2022/05/19/a-vision-of-a-multi-threaded-emacs/
 https://www.masteringemacs.org/article/why-emacs-has-buffers
 > https://news.ycombinator.com/item?id=31650859
 
+https://seraf.dev/how-magit-improved-my-workflow-and-my-git-knowledge-c6ccca991e19
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -177,6 +179,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://bhupesh.me/writing-like-a-pro-with-vale-and-neovim/
+> https://news.ycombinator.com/item?id=31780190
+
 https://devblogs.microsoft.com/visualstudio/arm64-visual-studio/ preview
 > https://news.ycombinator.com/item?id=31745016
 

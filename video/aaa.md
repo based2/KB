@@ -97,6 +97,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://getrecut.com/ Show HN: Recut automatically removes silence from videos – built with Tauri
+> https://news.ycombinator.com/item?id=31767830
+
 https://scalibq.wordpress.com/2022/06/11/gpu-accelerated-video-decoding/
 > https://news.ycombinator.com/item?id=31704740
 

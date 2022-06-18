@@ -72,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://semiengineering.com/keeping-ic-packages-cool/
+> https://news.ycombinator.com/item?id=31742412
+
 https://xdevs.com/guide/hwphoto/
 > https://news.ycombinator.com/item?id=31702211
 

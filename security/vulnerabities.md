@@ -33,6 +33,9 @@ https://open-source-security-software.net/
 https://www.phrack.org/
 
 # News
+https://github.com/mrl5/vulner
+> https://news.ycombinator.com/item?id=31783375
+
 https://github.com/github/advisory-database
 > https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/
 > > https://news.ycombinator.com/item?id=30480862

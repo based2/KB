@@ -96,6 +96,8 @@ https://valetudo.cloud/ cloud-free vacuum robots empowering thousands of users.
 > https://news.ycombinator.com/item?id=31665872
 > https://valetudo.cloud/pages/general/supported-robots.html#dreame_z10pro
 
+https://news.ycombinator.com/item?id=31777326 mouse
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 > https://news.ycombinator.com/item?id=27628101

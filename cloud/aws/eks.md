@@ -16,6 +16,8 @@ https://aws.amazon.com/en/blogs/compute/making-cluster-updates-easy-with-amazon-
 https://min.io/product/multicloud-elastic-kubernetes-service/deploy
 
 #
+https://eks.news/archives/021/
+
 https://eng.grip.security/enabling-aws-iam-group-access-to-an-eks-cluster-using-rbac
 
 https://github.com/kubernetes/kops/issues/10777 Install CSI driver by default in preparation of CSI Migration

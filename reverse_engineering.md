@@ -7,6 +7,8 @@ https://piroguetoolsuite.github.io/
 > https://news.ycombinator.com/item?id=31616837
 
 #
+https://github.com/open-goal/jak-project
+
 https://www.copetti.org/writings/consoles/xbox-360/
 > https://news.ycombinator.com/item?id=31678045
 

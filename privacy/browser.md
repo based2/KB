@@ -12,6 +12,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://brave.com/privacy-updates/17-language-fingerprinting/
+> https://news.ycombinator.com/item?id=31763586
+
 https://support.mozilla.org/en-US/kb/total-cookie-protection
 
 https://gitlab.com/CHEF-KOCH/brave-browser-hardening

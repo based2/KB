@@ -43,6 +43,8 @@ https://www.javaadvent.com/2021/12/from-maven-3-to-maven-5.html
 
 https://blog.frankel.ch/maven-flatten-plugin/
 
+https://lists.apache.org/thread/44817jckpzy7gtrkds9xfrgybmrrbm1z Maven 3.8.6
+
 https://lists.apache.org/list.html?announce@maven.apache.org Maven Antrun Plugin 3.1.0 released 
 
 https://lists.apache.org/thread/9lk5l62dpvwf0x7yb5kjftxx2x3zrzo1 Maven Javadoc Plugin 3.4.0 released

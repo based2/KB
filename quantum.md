@@ -69,6 +69,8 @@ https://www.nature.com/articles/s41586-022-04697-y Qubit teleportation between n
 https://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html
 > https://news.ycombinator.com/item?id=31630528
 
+https://www.nature.com/articles/s41566-022-01011-0 Nanokelvin-resolution thermometry with a photonic microscale sensor at room temperature
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/
@@ -77,6 +79,11 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.theregister.com/2022/06/16/dwave_advantage2_quantum/
+
+https://dl.acm.org/doi/10.1145/3517340 Quantum Algorithm Implementations for Beginners
+> https://news.ycombinator.com/item?id=31775580
+
 https://scottaaronson.blog/?p=6457
 
 https://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html

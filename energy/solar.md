@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.theverge.com/2022/6/14/23167441/us-army-floating-solar-power-plant-floatovoltaics
+> https://news.ycombinator.com/item?id=31750091
+
 https://www.legends.solar/
 > https://news.ycombinator.com/item?id=31574671
 

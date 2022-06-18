@@ -66,5 +66,8 @@ https://lwn.net/SubscriberLink/888741/5e43489d7ebeda7f/ A way out for a.out
 
 https://news.ycombinator.com/item?id=31076886
 
+https://github.com/dspinellis/unix-history-repo
+> https://news.ycombinator.com/item?id=31766179
+
 http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
 > https://news.ycombinator.com/item?id=31336396

@@ -97,6 +97,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://pudding.cool/2022/06/aztec-gods/
+> https://news.ycombinator.com/item?id=31775486
+
 https://www.youtube.com/watch?v=RxcfxdG22pg
 
 https://github.com/CommonWealthRobotics/mujoco-java Java JNI binding for mujoco physics system

@@ -248,6 +248,10 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816
+> https://news.ycombinator.com/item?id=31770348
+> https://www.reddit.com/r/programming/comments/velg5w/citus_11_for_postgres_goes_fully_open_source_with/
+
 https://www.migops.com/blog/2022/06/09/important-postgresql-14-update-to-avoid-silent-corruption-of-indexes/
 > https://news.ycombinator.com/item?id=31687782
 

@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/
+> https://news.ycombinator.com/item?id=31767575
+
 https://blog.mozilla.org/en/products/firefox/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/
 > https://news.ycombinator.com/item?id=31738975
 

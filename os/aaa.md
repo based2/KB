@@ -18,6 +18,12 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 > https://news.ycombinator.com/item?id=31363738
 
 # News
+https://drewdevault.com/2022/06/13/helios.html microkernel hare
+> https://news.ycombinator.com/item?id=31742648
+
+https://topjohnwu.github.io/Magisk/boot.html android
+> https://news.ycombinator.com/item?id=31775772
+
 https://www.charlespetzold.com/blog/2022/06/Announcing-Code-2nd-Edition.html
 > https://news.ycombinator.com/item?id=31696901
 

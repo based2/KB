@@ -1,3 +1,6 @@
+https://arstechnica.com/science/2019/08/16-bit-risc-v-processor-made-with-carbon-nanutubes/
+> https://news.ycombinator.com/item?id=31748648
+
 https://tomverbeure.github.io/2022/02/20/GDBWave-Post-Simulation-RISCV-SW-Debugging.html
 
 https://erik-engheim.medium.com/addressing-criticism-of-risc-v-microprocessors-803239b53284 Addressing Criticism of RISC-V Microprocessors

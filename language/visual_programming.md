@@ -33,4 +33,4 @@ https://blogic.so/
 
 https://news.ycombinator.com/item?id=31508130 Ask HN: Honest thoughts on no-code or low-code solutions?
 
-
+https://news.ycombinator.com/item?id=31779316 Ask HN: "No code" works well for making games but not general software. Why?

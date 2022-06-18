@@ -87,6 +87,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://nextdns.github.io/api/
+> https://news.ycombinator.com/item?id=31765530
+
 https://github.com/mholt/caddy-dynamicdns
 
 https://sive.rs/com

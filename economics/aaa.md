@@ -63,6 +63,9 @@ https://news.ycombinator.com/item?id=30456026 swift
 
 https://news.ycombinator.com/item?id=31109170 Column – a chartered bank for developers
 
+https://benoitessiambre.com/macro.html 	Show HN: A central bank simulator game with a realistic economic model
+> https://news.ycombinator.com/item?id=31785199
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 > https://news.ycombinator.com/item?id=27763965

@@ -113,6 +113,7 @@ https://exoticorn.github.io/microw8/#about
 
 https://wasmer.io/posts/wasmer-2.2
 > https://news.ycombinator.com/item?id=30505986
+> https://news.ycombinator.com/item?id=31768936
 
 https://www.graalvm.org/22.0/reference-manual/wasm/
 

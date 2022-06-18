@@ -195,6 +195,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://turfjs.org/ Advanced geospatial analysis for browsers and Node.js
+> https://news.ycombinator.com/item?id=31769918
+
 https://news.ycombinator.com/item?id=31680636 Download offline maps in the Google Maps app without signing in
 
 https://medium.com/mlearning-ai/dynamic-soil-information-at-farm-scale-based-on-machine-learning-and-eo-data-building-an-open-1a6ffe282162

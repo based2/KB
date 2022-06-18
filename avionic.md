@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/
+> https://news.ycombinator.com/item?id=31764685
+
 https://www.youtube.com/watch?v=QNl0DDUnp0E
 > https://news.ycombinator.com/item?id=31715067
 

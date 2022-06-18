@@ -6,6 +6,8 @@ https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-
 https://github.com/jsa2/aad-auth-n-z
 
 #
+https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291
+
 https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/
 > https://www.reddit.com/r/netsec/comments/udu4hd/nimbuspwn_detector_cve202229799_cve202229800/
 

@@ -225,6 +225,12 @@ https://konradybcio.pl/linuxona7/
 > https://news.ycombinator.com/item?id=31679293
 
 # News
+https://mjacobson.net/blog/2022-02-throttling.html
+> https://news.ycombinator.com/item?id=31788894
+
+https://sal.dev/macos/macos-screenshotting-tips-and-tricks/
+> https://news.ycombinator.com/item?id=31769683
+
 https://basicappleguy.com/basicappleblog/settingsapp
 > https://news.ycombinator.com/item?id=31715738
 

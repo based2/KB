@@ -37,6 +37,9 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://curves.ulfheim.net/
+> https://news.ycombinator.com/item?id=31769059
+
 https://soatok.blog/2022/05/19/guidance-for-choosing-an-elliptic-curve-signature-algorithm-in-2022/
 > https://news.ycombinator.com/item?id=31436832
 

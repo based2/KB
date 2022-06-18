@@ -222,6 +222,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://scottaaronson.blog/?p=6484
+> https://news.ycombinator.com/item?id=31787038
+
+https://github.com/py-why/dowhy DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions
+
 https://maif.github.io/shapash/
 > https://news.ycombinator.com/item?id=31710900
 
