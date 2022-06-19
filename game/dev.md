@@ -97,6 +97,11 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SimEarth
+
+https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making
+> https://news.ycombinator.com/item?id=31799818
+
 https://www.phoronix.com/scan.php?page=news_item&px=SDL-2.23.1-Released
 
 https://www.nintendoplayer.com/feature/vga/

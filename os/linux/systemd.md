@@ -38,5 +38,8 @@ https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
 https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/
 
 #
+https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd
+> https://news.ycombinator.com/item?id=31797073
+
 https://github.com/systemd/systemd/releases/tag/v251
 > https://systemd.io/UIDS-GIDS

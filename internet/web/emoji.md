@@ -14,3 +14,6 @@ https://javier.xyz/emoji-to-scale/
 > https://news.ycombinator.com/item?id=29425735
 > https://github.com/javierbyte/emoji-to-scale
 > > https://emojipedia.org
+
+https://appleinsider.com/articles/22/01/29/how-we-ended-up-with-the-pregnant-man-emoji
+> https://news.ycombinator.com/item?id=31800340

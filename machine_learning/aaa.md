@@ -218,6 +218,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/
+
+https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/
+
 https://www.technologyreview.com/2022/05/03/1051691/meta-ai-large-language-model-gpt3-ethics-huggingface-transparency/
 
 https://twitter.com/maurice_jks/status/1537814372462039043

@@ -104,6 +104,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.wired.com/story/ukraine-russia-internet-takeover/
+
 https://www.macrumors.com/2022/06/08/ios-16-iphone-esim-transfer-via-bluetooth/
 > https://news.ycombinator.com/item?id=31667896
 

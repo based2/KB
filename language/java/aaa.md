@@ -86,7 +86,12 @@ https://docs.openrewrite.org/tutorials/migrate-from-java-8-to-java-11
 > https://www.reddit.com/r/java/comments/p88rjq/automated_migration_from_java_8_to_11/
 > https://github.com/openrewrite/rewrite
 
+https://engineering.linkedin.com/blog/2022/linkedin-s-journey-to-java-11?s=09
+> https://www.reddit.com/r/java/comments/vdqm4m/linkedins_journey_to_java_11/
+
 https://docs.oracle.com/en/java/javase/17/migrate/getting-started.html
+
+
 
 # Notes
 https://ijnspector.wordpress.com/ Practical examples for IntelliJ's Structural Search and Replace Templates
@@ -255,6 +260,15 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.eclipse.org/eclipse/news/4.24/
+> https://www.reddit.com/r/java/comments/vf1fek/eclipse_202206_released/
+
+https://blog.jetbrains.com/idea/2022/06/intellij-idea-2022-2-eap-5/
+> https://www.reddit.com/r/java/comments/vel79a/intellij_20222_eap_5_released_with_support_for/
+
+https://blogs.apache.org/netbeans/date/20220617
+> https://www.reddit.com/r/java/comments/vept9m/apache_netbeans_14_released/
+
 https://jbaker.io/2022/06/09/vectors-in-java/ sort
 > https://news.ycombinator.com/item?id=31703471
 

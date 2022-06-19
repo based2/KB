@@ -33,4 +33,5 @@ https://vmware.github.io/photon/assets/files/html/3.0/Introduction.html
 
 https://github.com/bottlerocket-os/bottlerocket AWS
 
-https://www.talos.dev/
+https://www.talos.dev/v1.0/introduction/what-is-talos/
+> https://news.ycombinator.com/item?id=31798362

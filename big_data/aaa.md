@@ -240,6 +240,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.datapotion.io/blog/what-new-in-spark-3-3-0/
+
 https://github.com/dblalock/bolt 10x faster matrix and vector operations
 > https://news.ycombinator.com/item?id=31792206
 

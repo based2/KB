@@ -224,6 +224,9 @@ https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-t
 https://konradybcio.pl/linuxona7/
 > https://news.ycombinator.com/item?id=31679293
 
+# Port
+https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
+
 # News
 https://mjacobson.net/blog/2022-02-throttling.html
 > https://news.ycombinator.com/item?id=31788894

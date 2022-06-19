@@ -135,6 +135,11 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.usenix.org/system/files/nsdi20-paper-uluyol.pdf Near-Optimal Latency Versus Cost Tradeoffs in Geo-Distributed Storage
+
+https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md
+> https://news.ycombinator.com/item?id=31801947
+
 https://news.ycombinator.com/item?id=31740885 Ask HN: Pros and cons of V8 isolates?
 
 https://www.cockroachlabs.com/pdf/2022-cloud-report-cockroach-labs.pdf

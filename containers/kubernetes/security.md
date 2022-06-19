@@ -19,12 +19,47 @@ https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clu
 https://buoyant.io/mtls-guide/
 > https://news.ycombinator.com/item?id=28329878
 
+https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/
+
 # Scanner
 https://github.com/quay/clair Red Hat
 
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
 https://blog.cloudsecque.com/how-to-improve-the-security-of-your-applications-with-kubernetes-security-scanners-cda97fd2f574
+
+# Secrets
+https://kubernetes.io/docs/concepts/configuration/secret/
+
+https://www.cncf.io/blog/2021/04/22/revealing-the-secrets-of-kubernetes-secrets/
+
+https://newrelic.com/blog/how-to-relic/how-to-use-kubernetes-secrets
+
+https://learn.hashicorp.com/tutorials/vault/kubernetes-sidecar
+
+https://learn.hashicorp.com/tutorials/vault/kubernetes-secret-store-driver
+
+https://blog.aquasec.com/managing-kubernetes-secrets
+
+https://docs.openshift.com/container-platform/4.10/nodes/pods/nodes-pods-secrets.html
+
+https://docs.bridgecrew.io/docs/bc_k8s_33
+
+https://www.spectrocloud.com/blog/how-to-keep-your-kubernetes-secrets-secret/
+> https://github.com/bitnami-labs/sealed-secrets
+> https://www.godaddy.com/engineering/2019/04/16/kubernetes-external-secrets/
+> https://github.com/hashicorp/vault-k8s
+
+https://aws.amazon.com/en/blogs/france/aws-secrets-controller-comment-integrer-aws-secrets-manager-avec-kubernetes/
+
+https://stackoverflow.com/questions/57596808/how-are-kubernetes-secrets-mounted
+
+https://tanzu.vmware.com/developer/guides/platform-security-secrets-sa-what-is/
+> tmpfs
+> https://github.com/kubernetes/kubernetes/issues/48912 emptyDir with medium: Memory mounts a tmpfs volume without nosuid,nodev,noexec
+> https://devops.pingidentity.com/how-to/usingVault/#using-tmpfs-for-secrets
+
+https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf8171d0
 
 # News
 https://blog.sectool.co/ebpf-based-security

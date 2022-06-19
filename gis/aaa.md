@@ -96,6 +96,8 @@ https://minecraft.geoportail.lu/
 https://eng.uber.com/nebulagl/
 
 # Maps
+https://cycle.travel/
+
 https://www.openrailwaymap.org/
 
 https://submarine-cable-map-2021.telegeography.com/

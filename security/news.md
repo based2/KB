@@ -1,3 +1,9 @@
+https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/
+> https://news.ycombinator.com/item?id=31799922
+
+https://hackerone.com/reports/1379975 Playstation confirms chain of 5 vulnerabilities on PS4/PS5
+> https://news.ycombinator.com/item?id=31799414
+
 https://www.bleepingcomputer.com/news/security/metamask-phantom-warn-of-flaw-that-could-steal-your-crypto-wallets/
 
 https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-042.pdf CVE-2022-30136 Critical Vulnerability in Windows NFS
@@ -5,6 +11,7 @@ https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-042.p
 https://www.usenix.org/conference/usenixsecurity22/presentation/turonova Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers
 
 https://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-2.html
+> https://news.ycombinator.com/item?id=31766609
 
 https://www.schneier.com/blog/archives/2022/04/zero-day-vulnerabilities-are-on-the-rise.html
 

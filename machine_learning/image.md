@@ -55,6 +55,9 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://twitter.com/nutanc/status/1538387909707202560 Created an AI generated comic by #dalle2
+> https://news.ycombinator.com/item?id=31799243
+
 https://garymarcus.substack.com/p/horse-rides-astronaut
 
 https://origami.kosmulski.org/blog/2022-06-18-dall-e-origami

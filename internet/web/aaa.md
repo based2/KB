@@ -90,6 +90,9 @@ https://github.com/reanalytics-databoutique/webscraping-open-project
 https://github.com/reanalytics-databoutique/advanced-scrapy-proxies
 > https://news.ycombinator.com/item?id=31561409
 
+https://github.com/Florents-Tselai/WarcDB Web crawl data as SQLite databases
+> https://news.ycombinator.com/item?id=31799147
+
 # News
 https://developer.tbd.website/projects/web5/
 > https://news.ycombinator.com/item?id=31702724

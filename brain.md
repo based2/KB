@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.quantamagazine.org/the-brain-has-a-low-power-mode-that-blunts-our-senses-20220614/
+> https://news.ycombinator.com/item?id=31800684
+
 https://www.u-tokyo.ac.jp/focus/en/press/z0508_00222.html
 > https://news.ycombinator.com/item?id=31629203
 

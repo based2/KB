@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://old.reddit.com/r/CryptoCurrency/comments/vfszpt/solend_the_largest_lending_market_on_solana_is/
+> https://news.ycombinator.com/item?id=31802600
+
 https://www.reuters.com/legal/transactional/elon-musk-sued-258-billion-over-alleged-dogecoin-pyramid-scheme-2022-06-16/
 
 https://www.bellingcat.com/news/2022/06/18/inside-the-secretive-world-of-irish-limited-partnerships/

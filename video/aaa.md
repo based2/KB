@@ -97,6 +97,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://reincubate.com/support/how-to/why-are-webcams-bad/#putting-them-to-the-test
+> https://news.ycombinator.com/item?id=31801093
+
 https://getrecut.com/ Show HN: Recut automatically removes silence from videos – built with Tauri
 > https://news.ycombinator.com/item?id=31767830
 

@@ -189,6 +189,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://trofi.github.io/posts/240-nixpkgs-bootstrap-intro.html
+
 https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes
 
 https://www.phoronix.com/scan.php?page=news_item&px=Wine-GitLab-Main-Workflow
