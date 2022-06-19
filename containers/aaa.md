@@ -39,6 +39,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://podman-desktop.io/
+
+https://matt-rickard.com/dont-use-kubernetes-yet/
+> https://news.ycombinator.com/item?id=31795160
+
 https://buoyant.io/2022/06/07/ebpf-sidecars-and-the-future-of-the-service-mesh/
 >
 

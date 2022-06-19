@@ -13,6 +13,8 @@ https://github.com/anjlab/anjlab-tapestry-commons/tree/master/anjlab-tapestry-co
 https://github.com/vadimv/rsp Reactive Server Pages project enables a Java developer to create real-time single-page applications and UI components with server-side HTML rendering.
 
 # News
+https://gitbox.apache.org/repos/asf?p=tapestry-5.git;a=log;h=refs/tags/5.8.2
+
 https://tapestry.apache.org/release-notes-581.html
 
 https://tapestry.apache.org/release-notes-580.html

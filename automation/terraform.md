@@ -61,12 +61,30 @@ https://github.com/terraform-linters/tflint
 
 https://terraform-compliance.com/
 
-https://terraform-compliance.com/
+https://www.checkov.io/
 
 https://aquasecurity.github.io/tfsec/
 
 https://www.validiac.com/ ui
 
+https://medium.com/globant/automate-k8s-policy-checks-using-datree-aws-codebuild-and-terraform-ea3ae76b7277
+
+# CI/CD
+https://docs.gitlab.com/ee/user/infrastructure/iac/
+> https://gitlab.com/gitlab-org/terraform-images
+> > https://hub.docker.com/r/hashicorp/terraform/
+
+https://plugins.jenkins.io/terraform/
+
+https://stackoverflow.com/questions/66210505/running-a-terraform-command-via-airflow-operator
+
+https://www.kensodev.com/posts/2022/05/17/managing-github-with-terraform-and-saml-without-github-enterprise/
+
+# AWS
+https://github.com/sashee/terraform-change-rds-password
+
+# Azure
+https://github.com/andreipintica/azure-terrafy-handsonlab
 # News
 https://itnext.io/a-different-view-to-terraform-dependency-version-management-3cb32691b82b
 

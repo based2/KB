@@ -97,6 +97,13 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=SDL-2.23.1-Released
+
+https://www.nintendoplayer.com/feature/vga/
+
+https://aeplay.org/citybound
+> https://news.ycombinator.com/item?id=31794872
+
 https://pudding.cool/2022/06/aztec-gods/
 > https://news.ycombinator.com/item?id=31775486
 

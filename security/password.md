@@ -41,6 +41,8 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://www.reddit.com/r/sysadmin/comments/veglt6/password_management_for_legal_department_its_a/
+
 https://passwordpolicies.cs.princeton.edu/
 > https://news.ycombinator.com/item?id=31783285
 

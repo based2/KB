@@ -15,6 +15,12 @@ https://aws.amazon.com/en/blogs/compute/making-cluster-updates-easy-with-amazon-
 
 https://min.io/product/multicloud-elastic-kubernetes-service/deploy
 
+https://aws.amazon.com/en/premiumsupport/knowledge-center/encrypted-volumes-stops-immediately/
+
+https://aws.amazon.com/en/blogs/opensource/network-load-balancer-nginx-ingress-controller-eks/
+
+https://medium.com/devoops-and-universe/kubernetes-nginx-ingress-aws-with-custom-configs-9f9a55b8fae1
+
 #
 https://eks.news/archives/021/
 

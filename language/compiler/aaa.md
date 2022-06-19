@@ -99,6 +99,11 @@ https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html
 https://www.lurklurk.org/linkers/linkers.html
 > https://news.ycombinator.com/item?id=30565280
 
+https://twitter.com/rui314/status/1537279524341432320 mold/macOS is 11 times faster than the Apple's default linker to link Chrome. Measured on an M1 Mac mini
+> https://news.ycombinator.com/item?id=31769699
+> > https://github.com/rui314/mold#why-is-mold-so-fast
+> https://www.phoronix.com/scan.php?page=news_item&px=Mold-1.3-Released
+
 # Vectorization
 https://cvw.cac.cornell.edu/vector/default
 > https://news.ycombinator.com/item?id=27900592

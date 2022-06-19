@@ -40,3 +40,5 @@ https://github.com/systemd/casync Content Addressable Data Synchronizer
 https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-api
 > https://news.ycombinator.com/item?id=31315717
 
+https://michael.stapelberg.ch/posts/2022-06-18-rsync-article-1-scenarios/
+

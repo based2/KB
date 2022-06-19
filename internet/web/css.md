@@ -169,6 +169,9 @@ https://nutcroft.com/blog/in-defense-of-user-defined-web-fonts/
 https://systemfontstack.com/
 > https://news.ycombinator.com/item?id=31543054
 
+https://fonts.bunny.net/about Bunny Fonts is an open-source, privacy-first web font platform designed to put privacy back into the internet.
+> https://news.ycombinator.com/item?id=31798311
+
 # Demo
 https://codepen.io/jakealbaugh/full/PwLXXP/
 

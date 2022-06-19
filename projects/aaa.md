@@ -192,6 +192,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://addyosmani.com/blog/software-engineering-soft-parts/
+> https://news.ycombinator.com/item?id=31779464
+
 https://incident.io/guide/ practical guide to incident management
 > https://news.ycombinator.com/item?id=31764680
 

@@ -12,6 +12,9 @@ https://github.com/eyeseast/geocode-sqlite
 
 https://ai.googleblog.com/2021/09/efficient-partitioning-of-road-networks.html
 
+http://www.paulplowman.com/stuff/house-address-twins-proximity/
+> https://news.ycombinator.com/item?id=31797222
+
 # Reverse
 https://github.com/thampiman/reverse-geocoder
 > https://news.ycombinator.com/item?id=9281222

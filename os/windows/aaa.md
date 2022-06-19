@@ -120,6 +120,8 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://www.reddit.com/r/sysadmin/comments/vdunz6/how_does_microsoft_expect_people_to_deploy/
+
 https://github.com/mikeroyal/Windows-11-Guide
 
 https://devblogs.microsoft.com/oldnewthing/20220608-00/?p=106727

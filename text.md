@@ -119,6 +119,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/
+> https://news.ycombinator.com/item?id=31793143
+
 https://news.ycombinator.com/item?id=31779260 Ask HN: I created a news shortening algorithm and am not sure how to utilize it
 
 https://google-research.github.io/self-organising-systems/2022/diff-fsm/

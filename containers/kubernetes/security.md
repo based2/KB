@@ -24,6 +24,8 @@ https://github.com/quay/clair Red Hat
 
 https://iximiuz.com/en/posts/thick-container-vulnerabilities/
 
+https://blog.cloudsecque.com/how-to-improve-the-security-of-your-applications-with-kubernetes-security-scanners-cda97fd2f574
+
 # News
 https://blog.sectool.co/ebpf-based-security
 

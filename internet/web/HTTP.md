@@ -50,6 +50,8 @@ https://susam.in/maze/timing-with-curl.html
 https://www.neelc.org/posts/chase-how-not-to-design-a-website/
 > https://news.ycombinator.com/item?id=29224182
 
+https://www.bogotobogo.com/DevOps/DevOps-Sys-Admin-Interview-Questions-5xx-http-server-errors.php
+
 # Cache
 https://httptoolkit.tech/blog/status-targeted-caching-headers/
 > https://news.ycombinator.com/item?id=28930941

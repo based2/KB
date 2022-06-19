@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://github.com/synchronizing/bluelink Show HN: Control your Hyundai car with Python
+> https://news.ycombinator.com/item?id=31794481
+
 https://www.whitehouse.gov/briefing-room/statements-releases/2022/06/09/fact-sheet-biden-harris-administration-proposes-new-standards-for-national-electric-vehicle-charging-network/
 > https://news.ycombinator.com/item?id=31681590
 

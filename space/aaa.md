@@ -143,6 +143,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://scitechdaily.com/nasas-osiris-rex-spacecraft-observes-asteroid-bennus-boulder-body-armor/
+
+https://www.scientificamerican.com/article/record-breaking-voyager-spacecraft-begin-to-power-down/
+> https://news.ycombinator.com/item?id=31779964
+
 https://asia.nikkei.com/Business/Science/Japan-asteroid-probe-finds-23-amino-acids-researchers-confirm
 > https://news.ycombinator.com/item?id=31737207
 

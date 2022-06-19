@@ -195,6 +195,9 @@ https://craftofcoding.wordpress.com/2022/02/11/what-fortran-does-better-than-c-l
 https://arxiv.org/abs/2203.15110
 > https://news.ycombinator.com/item?id=30935633
 
+https://fortran-lang.org/learn/intrinsics
+> https://news.ycombinator.com/item?id=31776426
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100
@@ -271,6 +274,8 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://github.com/radian-software/riju
+
 https://github.com/JamesBoer/Jinx Embeddable scripting language for real-time applications
 > https://news.ycombinator.com/item?id=31753360
 

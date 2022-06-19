@@ -1,3 +1,11 @@
+https://www.bleepingcomputer.com/news/security/metamask-phantom-warn-of-flaw-that-could-steal-your-crypto-wallets/
+
+https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-042.pdf CVE-2022-30136 Critical Vulnerability in Windows NFS
+
+https://www.usenix.org/conference/usenixsecurity22/presentation/turonova Counting in Regexes Considered Harmful: Exposing ReDoS Vulnerability of Nonbacktracking Matchers
+
+https://blog.quarkslab.com/secure-messaging-apps-and-group-protocols-part-2.html
+
 https://www.schneier.com/blog/archives/2022/04/zero-day-vulnerabilities-are-on-the-rise.html
 
 https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1.pdf Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations
@@ -136,8 +144,6 @@ https://github.com/jwilk/abmagick Abmagick – abuse ImageMagick to create arbit
 https://github.com/H4ckd4ddy/bypass-sentry-safe
 > https://news.ycombinator.com/item?id=31638697
 
-https://arstechnica.com/information-technology/2022/05/code-execution-0day-in-windows-has-been-under-active-exploit-for-7-weeks/ CVE-2022-30190
-
 https://eattherich.club/@swaggboi/108382897807037127 I disabled WiFi on the new Samsung fridge
 > https://news.ycombinator.com/item?id=31555629
 
@@ -157,6 +163,8 @@ https://www.bleepingcomputer.com/news/security/windows-msdt-zero-day-vulnerabili
 
 https://www.huntress.com/blog/microsoft-office-remote-code-execution-follina-msdt-bug
 > https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-005/
+> https://arstechnica.com/information-technology/2022/05/code-execution-0day-in-windows-has-been-under-active-exploit-for-7-weeks/ CVE-2022-30190
+> https://msrc-blog.microsoft.com/2022/05/30/guidance-for-cve-2022-30190-microsoft-support-diagnostic-tool-vulnerability/
 
 https://www.openssl.org/news/secadv/20220503.txt
 

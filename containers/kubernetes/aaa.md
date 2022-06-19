@@ -62,6 +62,17 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://github.com/go-tk/vk8s Setting up a virtual Kubernetes cluster inside a Docker container for integration testing
+
+https://blog.joshgav.com/2022/05/16/cluster-level-multitenancy.html
+
+https://www.reddit.com/r/kubernetes/comments/vcfyjd/safer_kubernetes_node_pool_upgrades/
+
+https://www.reddit.com/r/kubernetes/comments/ve5awj/cridockerd_is_an_adapter_that_provides_a_shim_for/
+
+https://furiko.io/blog/introducing-furiko/ native platform for scheduling, executing and managing ad-hoc and cron jobs
+> https://www.reddit.com/r/kubernetes/comments/vcziux/introducing_furiko_an_opensource_kubernetesnative/
+
 https://dev.to/signoz/kubectl-top-podnode-how-to-get-read-resource-utilization-metrics-of-k8s-pods-and-nodes-4o9c
 
 https://changelog.com/shipit/53

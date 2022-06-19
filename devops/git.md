@@ -259,6 +259,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Git-2.37-rc1-Released
+
 https://canvatechblog.com/we-put-half-a-million-files-in-one-git-repository-heres-what-we-learned-ec734a764181
 > https://news.ycombinator.com/item?id=31762245
 

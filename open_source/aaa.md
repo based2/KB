@@ -230,6 +230,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/
+> https://news.ycombinator.com/item?id=31797336
+
 https://isdotnetopen.com/
 > https://news.ycombinator.com/item?id=31762778
 

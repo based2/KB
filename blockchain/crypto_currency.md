@@ -23,6 +23,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.reuters.com/legal/transactional/elon-musk-sued-258-billion-over-alleged-dogecoin-pyramid-scheme-2022-06-16/
+
+https://www.bellingcat.com/news/2022/06/18/inside-the-secretive-world-of-irish-limited-partnerships/
+
 https://www.vice.com/en/article/n7zw7x/founders-of-dollar10-billion-crypto-hedge-fund-have-ghosted-after-bets-go-bad
 > https://news.ycombinator.com/item?id=31783315
 

@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/
+> https://news.ycombinator.com/item?id=31796239
+
 https://www.coindesk.com/price/bitcoin/ Bitcoin Falls Below $20k
 > https://news.ycombinator.com/item?id=31788684
 

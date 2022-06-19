@@ -72,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/
+> https://news.ycombinator.com/item?id=31787163
+
 https://semiengineering.com/keeping-ic-packages-cool/
 > https://news.ycombinator.com/item?id=31742412
 

@@ -1,7 +1,7 @@
 # KB 💡😃☀️
 *Knowledge is from others us.* ><//°°>
 
-> https://github.com/trimstray/the-book-of-secret-knowledge#networks-toc
+> http//github.com/trimstray/the-book-of-secret-knowledge#networks-tocs:
 
 > https://github.com/jbranchaud/til/blob/master/README.md
 

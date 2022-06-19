@@ -27,3 +27,6 @@ https://tech.chrishardie.com/2022/rss-useful-important/
 
 https://kn100.me/rss-perils/
 > https://news.ycombinator.com/item?id=30621295
+
+https://github.com/davidesantangelo/dato.rss
+> https://news.ycombinator.com/item?id=31782461

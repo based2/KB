@@ -20,3 +20,17 @@ https://thenewstack.io/kubernetes-distribution-or-vanilla-kubernetes/
 
 > https://tanzu.vmware.com/en/kubernetes-grid TKGI
   > require vSphere license at minima
+> 
+
+# Linux
+https://www.reddit.com/r/kubernetes/comments/rssg6b/which_distro_should_i_choose_kubernetes/
+
+https://en.wikipedia.org/wiki/Alpine_Linux
+
+https://www.redhat.com/en/topics/containers/why-choose-red-hat-kubernetes
+
+https://vmware.github.io/photon/assets/files/html/3.0/Introduction.html
+
+https://github.com/bottlerocket-os/bottlerocket AWS
+
+https://www.talos.dev/

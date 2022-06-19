@@ -107,6 +107,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.samba.org/samba/history/samba-4.16.2.html
+
 https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/
 > https://news.ycombinator.com/item?id=31675015
 

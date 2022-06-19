@@ -79,6 +79,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.uchicago.edu/story/chicago-quantum-network-argonne-pritzker-molecular-engineering-toshiba
+
 https://phys.org/news/2022-05-error-free-quantum-real.html
 
 https://arxiv.org/abs/2110.00557 The QICK (Quantum Instrumentation Control Kit): Readout and control for qubits and detectors

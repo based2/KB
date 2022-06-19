@@ -5,6 +5,18 @@ https://aws.amazon.com/en/blogs/aws/troubleshoot-boot-and-networking-issues-with
 
 https://aws.amazon.com/en/blogs/compute/update-issue-affecting-hashicorp-terraform-resource-deletions-after-the-vpc-improvements-to-aws-lambda/
 
+# ALB 
+
+https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/2272
+
+https://medium.com/swlh/troubleshoot-elastic-load-balancer-http-502-bad-gateway-errors-28a32d4e0acb
+
+https://www.tessian.com/blog/how-to-fix-http-502-errors/ default timeout 65 seconds
+
+https://serverfault.com/questions/1031647/intermittent-http-502-error-with-amazon-aws-load-balancher-and-apache
+
+https://stackoverflow.com/questions/169453/bad-gateway-502-error-with-apache-mod-proxy-and-tomcat
+
 # News
 https://www.reddit.com/r/aws/comments/vemdk3/switch_to_vpc_endpoints_from_nat_gateways_to/
 > https://towardsaws.com/switch-to-vpc-endpoints-from-nat-gateways-to-reduce-bandwidth-charges-881b1d96e9cf

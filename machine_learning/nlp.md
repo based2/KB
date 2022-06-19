@@ -1,3 +1,6 @@
+https://github.com/nicolay-r/ARElight Mass-Media Processing Application for Relation Extraction,  sentiment relations annotation
+> https://news.ycombinator.com/item?id=31789436
+
 https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
 
 https://www.nlpdemystified.org/

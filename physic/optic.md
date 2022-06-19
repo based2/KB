@@ -83,3 +83,5 @@ https://www.haaretz.com/israel-news/MAGAZINE-a-simple-israeli-invention-could-he
 https://ricktu288.github.io/ray-optics/
 
 https://phys.org/news/2022-06-channel-optical-link-capable-transmitting.html
+
+https://www.sciencedaily.com/releases/2022/06/220615142217.htm Ultra-fast photonic computing processor uses polarization

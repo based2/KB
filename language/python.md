@@ -219,6 +219,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/radian-software/python-in-a-box
+
 https://simonwillison.net/2022/May/23/bundling-binary-tools-in-python-wheels/
 > https://news.ycombinator.com/item?id=31776873
 

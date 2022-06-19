@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://primegaming.blog/start-freeloading-over-30-games-with-prime-gaming-for-prime-day-2022-4a760c6cdb75
+
 https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html
 > https://news.ycombinator.com/item?id=31748248
 
