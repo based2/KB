@@ -12,6 +12,7 @@ https://pernos.co/blog/function-prologues/
 
 # News
 https://changelog.complete.org/archives/10388-pipes-deadlocks-and-strace-annoyingly-fixing-them
+> https://news.ycombinator.com/item?id=31796261
 
 https://rr-project.org/
 > https://news.ycombinator.com/item?id=31617600

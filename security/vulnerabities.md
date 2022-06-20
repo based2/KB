@@ -32,6 +32,10 @@ https://open-source-security-software.net/
 
 https://www.phrack.org/
 
+https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/
+> https://news.ycombinator.com/item?id=31813029
+> https://github.com/usnistgov/vulntology NIST Vulnerability Data Ontology
+
 # News
 https://github.com/mrl5/vulner
 > https://news.ycombinator.com/item?id=31783375

@@ -208,6 +208,12 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://www.jokteur.com/a/integrated-timetable-switzerland/
+> https://news.ycombinator.com/item?id=31807913
+
+https://markwhen.com/ Show HN: Markwhen: Markdown for Timelines
+> https://news.ycombinator.com/item?id=31810876
+
 https://datetime.tools/conversion
 
 https://rectangles.app/

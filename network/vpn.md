@@ -54,6 +54,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/
+> https://news.ycombinator.com/item?id=31810104
+
 https://github.com/z0ccc/Vytal
 > https://news.ycombinator.com/item?id=31710603
 > https://www.reddit.com/r/netsec/comments/vac50s/i_made_a_browser_extension_that_spoofs_your/

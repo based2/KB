@@ -1,3 +1,6 @@
+https://www.roadtovr.com/meta-vr-headset-prototypes-visual-fidelity-indistinguishable-from-reality/
+> https://news.ycombinator.com/item?id=31813443
+
 https://thenewstack.io/babylon-js-hints-that-microsoft-metaverse-will-be-web-based/
 
 https://livingcities.xyz/

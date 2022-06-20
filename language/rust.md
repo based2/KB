@@ -171,6 +171,9 @@ https://lunatic.solutions/blog/rust-without-the-async-hard-part/
 https://bholley.net/blog/2015/must-be-this-tall-to-write-multi-threaded-code.html
 > https://news.ycombinator.com/item?id=31685277
 
+https://kerkour.com/cooperative-vs-preemptive-scheduling
+> 
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106

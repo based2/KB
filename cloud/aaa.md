@@ -89,6 +89,7 @@ https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_auth
 # Incidents
 https://www.nytimes.com/2022/06/17/technology/paige-thompson-capital-one-hack.html
 > https://news.ycombinator.com/item?id=31787517
+> https://news.ycombinator.com/item?id=31808844
 
 https://blog.heroku.com/april-2022-incident-review
 > https://news.ycombinator.com/item?id=31743100
@@ -135,6 +136,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io
+> https://news.ycombinator.com/item?id=31809078
+
 https://www.usenix.org/system/files/nsdi20-paper-uluyol.pdf Near-Optimal Latency Versus Cost Tradeoffs in Geo-Distributed Storage
 
 https://git.disroot.org/dCF/deCloudflare/src/branch/master/readme/en.md

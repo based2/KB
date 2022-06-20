@@ -97,6 +97,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://www.pygame.org/news/2022/5/pygame-in-all-the-languages
+> 
+
 https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SimEarth
 
 https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making

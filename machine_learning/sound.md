@@ -37,6 +37,9 @@ https://www.technologyreview.com/2022/04/22/1050394/artificial-intelligence-for-
 
 https://github.com/project-alice-assistant/ProjectAlice
 
+https://github.com/snakers4/silero-models
+> https://news.ycombinator.com/item?id=31807201
+
 # text-to-speech
 https://15.ai/
 > https://news.ycombinator.com/item?id=31711118

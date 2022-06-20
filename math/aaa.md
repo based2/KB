@@ -101,6 +101,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://infinitedescent.xyz/
+>
+
 http://factordb.com/
 
 https://www.fastcompany.com/90758850/a-google-cloud-employee-set-a-new-record-calculating-the-100-trillionth-digit-of-pi

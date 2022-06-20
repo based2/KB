@@ -274,6 +274,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://openhands.ai4bharat.org/en/latest/index.html
+> https://news.ycombinator.com/item?id=31797288
+
 https://github.com/rust-lang/rust/issues/35968 Support Apple app store bitcode
 
 https://github.com/radian-software/riju

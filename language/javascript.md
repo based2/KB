@@ -239,6 +239,12 @@ https://underjord.io/my-elm-experience.html
 https://www.humio.com/blog/understanding-ui-components-in-elm/
 > https://news.ycombinator.com/item?id=31664568
 
+https://jfmengels.net/virtual-dom-security-patch/
+
+https://www.humio.com/blog/understanding-ui-components-in-elm/
+
+https://gren-lang.org/news/220530_first_release
+
 ## Svelt
 https://news.ycombinator.com/item?id=26557886
 

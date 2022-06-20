@@ -74,6 +74,8 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 #
+https://news.ycombinator.com/item?id=31807881
+
 https://80.lv/articles/famous-paintings-expanded-with-dall-e-2/
 > 
 

@@ -97,6 +97,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://owncast.online/ Self-hosted live video and web chat server for use with existing popular broadcasting software
+> https://news.ycombinator.com/item?id=31810511
+
 https://reincubate.com/support/how-to/why-are-webcams-bad/#putting-them-to-the-test
 > https://news.ycombinator.com/item?id=31801093
 

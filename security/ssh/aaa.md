@@ -107,7 +107,13 @@ https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHAndSHA1Deprecation
 https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
+# Incident
+https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
+
 # News
+https://github.com/libfuse/sshfs Sshfs Is Orphaned
+> https://news.ycombinator.com/item?id=31812506
+
 https://pijul.org/thrussh Thrussh – Portable SSH client and server library - Rust
 > https://briansmith.org/rustdoc/ring/
 

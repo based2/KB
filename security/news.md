@@ -1,3 +1,15 @@
+https://zerotrustroadmap.org/
+
+https://lists.apache.org/thread/4j5c5ycyq6c9l8qjxko0wjw1csggfk7k CVE-2021-33036: Apache Hadoop Privilege escalation vulnerability
+
+https://www.bleepingcomputer.com/news/microsoft/new-dfscoerce-ntlm-relay-attack-allows-windows-domain-takeover/
+
+https://tuple.app/blog/sso-should-be-table-stakes
+> https://news.ycombinator.com/item?id=31810832
+
+https://decoded.avast.io/davidalvarez/linux-threat-hunting-syslogk-a-kernel-rootkit-found-under-development-in-the-wild/
+> https://news.ycombinator.com/item?id=31806778
+
 https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/
 > https://news.ycombinator.com/item?id=31799922
 
@@ -622,7 +634,6 @@ https://github.blog/2022-04-12-git-security-vulnerability-announced/ CVE-2022-24
 > https://news.ycombinator.com/item?id=31009675
 
 https://www.usenix.org/conference/usenixsecurity22/presentation/genkin Lend Me Your Ear: Passive Remote Physical Side Channels on PCs
-> 
 
 https://securityzines.com/#comics
 

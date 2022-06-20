@@ -129,6 +129,9 @@ http://www.figlet.org/
 https://mannhowie.com/finite-state-machines
 
 # News
+https://www.scottantipa.com/why-knotend
+> https://news.ycombinator.com/item?id=31804429
+
 https://www.rykap.com/graphics/skew/2016/02/25/voronoi-diagrams/
 > https://news.ycombinator.com/item?id=31750981
 

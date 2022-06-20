@@ -107,6 +107,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://netboot.xyz/docs/ Lets you PXE boot various operating system installers or utilities from a single tool over the network
+
 https://www.samba.org/samba/history/samba-4.16.2.html
 
 https://www.quantamagazine.org/researchers-achieve-absurdly-fast-algorithm-for-network-flow-20220608/

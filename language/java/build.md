@@ -45,6 +45,8 @@ https://blog.frankel.ch/maven-flatten-plugin/
 
 https://lists.apache.org/thread/44817jckpzy7gtrkds9xfrgybmrrbm1z Maven 3.8.6
 
+https://lists.apache.org/thread/ztjynkgh68vww9fokc9pj39dfbxq052k Maven Toolchains Plugin 3.1.0 released
+
 https://lists.apache.org/thread/zgqj6bntd7m3x0wpcw0zopy3z5rjbr9r Maven Surefire version 3.0.0-M7
 
 https://lists.apache.org/list.html?announce@maven.apache.org Maven Antrun Plugin 3.1.0 released 

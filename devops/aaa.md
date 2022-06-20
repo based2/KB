@@ -119,6 +119,8 @@ https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 https://github.com/reposaur/reposaur Allows users and organizations to execute policies against GitHub data to generate reports, perform auditing and more
 
 # Incidents
+https://nvd.nist.gov/vuln/detail/CVE-2022-24065 cookiecutter before 2.1.1 are vulnerable to Command Injection via hg argument injection
+
 https://news.ycombinator.com/item?id=31769520
 
 https://news.ycombinator.com/item?id=31579862

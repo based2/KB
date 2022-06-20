@@ -23,6 +23,10 @@ https://phys.org/news/2021-10-gulf-stream-kuroshio-current-synchronized.html
 https://www.quantamagazine.org/radio-telescope-reveals-how-lightning-begins-20211220/
 > https://news.ycombinator.com/item?id=29631848
 
+# Air purifier
+https://dynomight.net/ikea-purifier/
+> https://news.ycombinator.com/item?id=31812259
+
 # Temperature
 https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearly-5-c
 
