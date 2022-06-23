@@ -32,6 +32,8 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://github.com/wal-g/wal-g Archival and Restoration for databases in the Cloud
+
 https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15
 > https://news.ycombinator.com/item?id=31401151
 

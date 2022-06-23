@@ -218,6 +218,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8269-draft.pdf Draft NISTIR 82691 2 A Taxonomy and Terminology of Adversarial Machine Learning
+
+https://github.com/alpa-projects/alpa Auto parallelization for large-scale neural networks
+
+https://pytorch.org/blog/geospatial-deep-learning-with-torchgeo/
+
+https://dl.acm.org/doi/abs/10.1145/3503221.3508417 BaGuaLu: targeting brain scale pretrained models with over 37 million cores
+
 https://www.tabnine.com/blog/announcing-tabnine-next-generation/
 > https://news.ycombinator.com/item?id=31830867
 

@@ -51,3 +51,5 @@ https://apps.kde.org/en/ktrip/
 
 https://newatlas.com/transport/first-autonomous-ocean-passage-prism-courage-tanker-hyundai/
 > https://news.ycombinator.com/item?id=31641470
+
+https://news.ycombinator.com/item?id=31823752

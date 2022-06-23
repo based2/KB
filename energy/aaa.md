@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://cleantechnica.com/2022/06/20/seattle-offers-utility-pole-ev-chargers-to-city-residents/
+
 https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology
 > https://news.ycombinator.com/item?id=31791444
 

@@ -12,6 +12,8 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://datatracker.ietf.org/doc/draft-ietf-privacypass-architecture/03/ Privacy Pass Architectural Framework
+
 https://brave.com/privacy-updates/17-language-fingerprinting/
 > https://news.ycombinator.com/item?id=31763586
 

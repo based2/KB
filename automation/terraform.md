@@ -83,9 +83,14 @@ https://www.kensodev.com/posts/2022/05/17/managing-github-with-terraform-and-sam
 # AWS
 https://github.com/sashee/terraform-change-rds-password
 
+https://betterprogramming.pub/implementing-an-email-masking-proof-of-concept-using-aws-simple-email-service-ses-and-aws-rust-c6aa34f1e1df
+
 # Azure
 https://github.com/andreipintica/azure-terrafy-handsonlab
+
 # News
+https://www.hashicorp.com/blog/terraform-cloud-adds-drift-detection-for-infrastructure-management
+
 https://itnext.io/a-different-view-to-terraform-dependency-version-management-3cb32691b82b
 
 https://github.com/GoogleCloudPlatform/terraform-python-testing-helper/

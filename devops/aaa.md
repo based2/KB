@@ -119,6 +119,8 @@ https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 https://github.com/reposaur/reposaur Allows users and organizations to execute policies against GitHub data to generate reports, perform auditing and more
 
 # Incidents
+https://www.jenkins.io/security/advisory/2022-06-22/
+
 https://nvd.nist.gov/vuln/detail/CVE-2022-24065 cookiecutter before 2.1.1 are vulnerable to Command Injection via hg argument injection
 
 https://news.ycombinator.com/item?id=31769520
@@ -192,9 +194,9 @@ https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
 https://www.tweag.io/blog/2022-06-23-haskell-module/ Incremental builds for Haskell with Bazel
+> https://news.ycombinator.com/item?id=31847594
 
 https://news.ycombinator.com/item?id=31844647 Ask HN: Who are your favorite GitHub/Gitlab alternatives?
->
 
 https://www.crocodile.dev/ $ code review
 > https://news.ycombinator.com/item?id=31841215

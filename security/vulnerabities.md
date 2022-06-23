@@ -4,14 +4,14 @@ https://www.cve.org/
 # References
 https://nvd.nist.gov/vuln
 
+https://github.com/advisories
+
 https://ossindex.sonatype.org/
 
 https://github.com/nexB/vulnerablecode
 
 https://github.com/opencve/opencve
 > https://news.ycombinator.com/item?id=26789093
-
-https://github.com/opencve/opencve
 > https://net-security.fr/security/veille-opencveio/
 
 https://www.cvedetails.com/

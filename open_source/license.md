@@ -44,6 +44,12 @@ https://caselaw.nationalarchives.gov.uk/open-justice-licence
 
 # Incident
 
+https://stockfishchess.org/blog/2022/public-court-hearing-soon/
+
+https://fosspost.org/github-copilot/
+> https://news.ycombinator.com/item?id=31847931
+> https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/
+
 https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24
 
 https://github.com/cheat-engine/cheat-engine/pull/1872

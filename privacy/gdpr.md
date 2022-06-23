@@ -56,6 +56,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english Italian SA bans use of Google Analytics, No adequate safeguards for data transfers to the USA
+> https://news.ycombinator.com/item?id=31852384
+
 https://www.techcentral.ie/uk-scraps-parts-of-gdpr-in-data-reform-bill/
 
 https://noyb.eu/en/statement-4-years-gdpr

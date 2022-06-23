@@ -240,6 +240,10 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://motifanalytics.medium.com/everything-is-a-funnel-but-sql-doesnt-get-it-c35356424044
+
+https://projectnessie.org/
+
 https://github.com/dolthub/dolt
 > https://news.ycombinator.com/item?id=31847416
 

@@ -54,6 +54,8 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://github.com/firezone/wireguardex
+
 https://mullvad.net/en/blog/2022/6/20/were-removing-the-option-to-create-new-subscriptions/
 > https://news.ycombinator.com/item?id=31810104
 

@@ -84,6 +84,8 @@ https://80.lv/articles/famous-paintings-expanded-with-dall-e-2/
 
 https://imagen.research.google/
 > https://news.ycombinator.com/item?id=31484562
+> https://www.assemblyai.com/blog/how-imagen-actually-works/
+> > https://news.ycombinator.com/item?id=31849819
 
 https://techxplore.com/news/2022-04-algorithm-opinions.html
 

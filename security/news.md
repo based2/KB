@@ -1,3 +1,15 @@
+https://lists.apache.org/thread/k04zk0nq6w57m72w5gb0r6z9ryhmvr4k CVE-2022-34305 Apache Tomcat - XSS in examples web application
+
+https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/ git: no interoperability between SHA-1 and SHA-256 repositories yet
+> https://news.ycombinator.com/item?id=31851755
+
+https://vigilance.fr/vulnerabilite/Python-http-server-redirection-via-Double-Slash-38660
+
+https://tech.target.com/blog/hardening-the-registers
+> https://news.ycombinator.com/item?id=31849488
+
+https://www.bleepingcomputer.com/news/security/nsa-shares-tips-on-securing-windows-devices-with-powershell/
+
 https://www.cert.ssi.gouv.fr/uploads/TLP_White_CoRIIN_ANSSI-SDO-DR.pdf vmware forensic
 
 https://www.imperva.com/resources/reports/Imperva-Marsh-McLennan-Report-2022.pdf Quantifying the Cost of API Insecurity

@@ -248,6 +248,14 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine
+
+https://www.postgresql.org/about/news/postgresql-144-released-2470/
+
+https://www.crunchydata.com/blog/indexes-selectivity-and-statistics
+
+https://www.timescale.com/blog/how-to-write-better-queries-for-time-series-data-analysis-using-custom-sql-functions/
+
 https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/
 > https://news.ycombinator.com/item?id=31809394
 

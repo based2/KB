@@ -18,6 +18,8 @@ https://serverfault.com/questions/1031647/intermittent-http-502-error-with-amazo
 https://stackoverflow.com/questions/169453/bad-gateway-502-error-with-apache-mod-proxy-and-tomcat
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/
+
 https://www.reddit.com/r/aws/comments/vemdk3/switch_to_vpc_endpoints_from_nat_gateways_to/
 > https://towardsaws.com/switch-to-vpc-endpoints-from-nat-gateways-to-reduce-bandwidth-charges-881b1d96e9cf
 

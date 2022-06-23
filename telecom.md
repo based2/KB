@@ -104,6 +104,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.theregister.com/2022/06/23/australia_samsung_water_resistance_fine/
+
 https://botblox.io/products/speblox-long
 > https://news.ycombinator.com/item?id=31834532
 

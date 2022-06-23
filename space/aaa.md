@@ -143,6 +143,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.space.com/satellites-falling-off-sky-solar-weather
+> https://news.ycombinator.com/item?id=31851572
+
 https://www.esa.int/Enabling_Support/Operations/Software_upgrade_for_19-year-old_martian_water-spotter
 > https://news.ycombinator.com/item?id=31839392
 
