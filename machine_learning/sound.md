@@ -40,6 +40,8 @@ https://github.com/project-alice-assistant/ProjectAlice
 https://github.com/snakers4/silero-models
 > https://news.ycombinator.com/item?id=31807201
 
+https://jmvalin.ca/demo/rnnoise/ dp real-time noise suppression
+
 # text-to-speech
 https://15.ai/
 > https://news.ycombinator.com/item?id=31711118

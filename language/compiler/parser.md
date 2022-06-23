@@ -10,7 +10,7 @@ https://scattered-thoughts.net/writing/better-operator-precedence/
 
 https://begriffs.com/posts/2021-11-28-practical-parsing.html
 
-https://lezer.codemirror.net/
+https://lezer.codemirroror.net/
 > https://news.ycombinator.com/item?id=31073800
 
 https://github.com/trailofbits/polytracker

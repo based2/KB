@@ -75,6 +75,9 @@ https://obua.com/publications/cosmo-id/3/
 https://cybergibbons.com/security-2/what3words-the-algorithm/
 > https://news.ycombinator.com/item?id=27015046
 
+https://fixphrase.com/
+> https://news.ycombinator.com/item?id=31829267
+
 # Tools
 https://github.com/Clivern/Bucket Consistent Hashing Package for Scalable Data Distribution.
 

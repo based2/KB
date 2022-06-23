@@ -89,6 +89,9 @@ https://www.ashbyhq.com/blog/company/tiptap-part-1
 
 https://news.ycombinator.com/item?id=30673759
 
+https://github.com/ozanyurtsever/verbum
+> https://news.ycombinator.com/item?id=31822619
+
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model
 https://domevents.dev/

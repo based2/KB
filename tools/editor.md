@@ -148,6 +148,9 @@ https://www.masteringemacs.org/article/why-emacs-has-buffers
 
 https://seraf.dev/how-magit-improved-my-workflow-and-my-git-knowledge-c6ccca991e19
 
+https://github.com/radian-software/straight.el
+> https://news.ycombinator.com/item?id=31833101
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

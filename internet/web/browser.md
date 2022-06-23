@@ -30,6 +30,12 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.mnot.net/blog/2022/06/22/chromium-only
+> https://news.ycombinator.com/item?id=31833561
+
+https://chromium.googlesource.com/chromium/src/+/refs/heads/main/docs/security/rust-toolchain.md
+> https://news.ycombinator.com/item?id=31830020
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-update-to-permanently-disable-internet-explorer/
 
 https://mmazzarolo.com/blog/2022-06-16-safari-on-ios-can-overlap-multiple-full-screen-videos/

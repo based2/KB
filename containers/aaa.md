@@ -39,6 +39,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://octoml.ai/blog/new-ai-ml-tool-for-fans-of-docker-compose-and-kubernetes-octoml-cli/
+
+https://github.com/kubernetes/minikube/pull/13829 Minikube now supports rootless podman driver for running Kubernetes
+> https://news.ycombinator.com/item?id=31845746
+
 https://podman-desktop.io/
 
 https://matt-rickard.com/dont-use-kubernetes-yet/

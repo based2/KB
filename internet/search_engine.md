@@ -60,6 +60,12 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://brave.com/search-anniversary/
+> https://news.ycombinator.com/item?id=31837865
+
+https://github.com/brave/goggles-quickstart
+> https://news.ycombinator.com/item?id=31837986
+
 https://share.streamlit.io/chrislee973/bible-semantic-search/main/app.py#bible-semantic-search
 > https://news.ycombinator.com/item?id=31733673
 

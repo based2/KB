@@ -119,6 +119,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://www.gnu.org/software/recutils/
+> https://news.ycombinator.com/item?id=31832564
+
 https://manishearth.github.io/blog/2017/01/15/breaking-our-latin-1-assumptions/
 > https://news.ycombinator.com/item?id=31793143
 

@@ -34,6 +34,10 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://vertx.io/blog/whats-new-in-vert-x-4-3/
+
+https://netty.io/news/2022/06/14/4-1-78-Final.html
+
 https://quarkus.io/blog/quarkus-2-8-1-final-released/
 
 https://netty.io/news/2022/04/12/4-1-76-Final.html

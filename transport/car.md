@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/
+> https://news.ycombinator.com/item?id=31828230
+
 https://github.com/synchronizing/bluelink Show HN: Control your Hyundai car with Python
 > https://news.ycombinator.com/item?id=31794481
 

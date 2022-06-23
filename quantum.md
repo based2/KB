@@ -79,6 +79,11 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.abc.net.au/news/2022-06-23/australian-company-creates-worlds-first-quantum/13942276
+> https://news.ycombinator.com/item?id=31845513
+
+https://www.quantamagazine.org/the-spooky-quantum-phenomenon-youve-never-heard-of-20220622/
+
 https://news.uchicago.edu/story/chicago-quantum-network-argonne-pritzker-molecular-engineering-toshiba
 
 https://phys.org/news/2022-05-error-free-quantum-real.html

@@ -1,3 +1,6 @@
+https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/
+> https://news.ycombinator.com/item?id=31822456
+
 https://arstechnica.com/science/2019/08/16-bit-risc-v-processor-made-with-carbon-nanutubes/
 > https://news.ycombinator.com/item?id=31748648
 

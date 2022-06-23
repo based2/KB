@@ -36,3 +36,6 @@ https://news.ycombinator.com/item?id=31508130 Ask HN: Honest thoughts on no-code
 https://news.ycombinator.com/item?id=31779316 Ask HN: "No code" works well for making games but not general software. Why?
 
 https://github.com/rowyio/rowy
+
+https://jasonmorrissc.github.io/post/2022-02-24_no-code/
+> https://news.ycombinator.com/item?id=31843378

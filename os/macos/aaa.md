@@ -228,6 +228,9 @@ https://konradybcio.pl/linuxona7/
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://jasonmurray.org/posts/2021/coreaudiod/
+> https://news.ycombinator.com/item?id=31842014
+
 https://mjacobson.net/blog/2022-02-throttling.html
 > https://news.ycombinator.com/item?id=31788894
 

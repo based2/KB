@@ -111,6 +111,9 @@ https://mosh.org/
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://tailscale.com/blog/tailscale-ssh/
+> https://news.ycombinator.com/item?id=31837115
+
 https://github.com/libfuse/sshfs Sshfs Is Orphaned
 > https://news.ycombinator.com/item?id=31812506
 

@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://pterm.sh/
+> https://news.ycombinator.com/item?id=31827865
+
 https://github.com/csdvrx/CuteXterm
 > https://news.ycombinator.com/item?id=31416216
 

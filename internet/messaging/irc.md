@@ -20,4 +20,7 @@ https://www.ilmarilauhakangas.fi/irc_technology_news_from_the_second_half_of_202
 https://susam.net/maze/simplicity-of-irc.html
 > https://news.ycombinator.com/item?id=29862550
 
+https://github.com/ergochat/ergo
+> https://news.ycombinator.com/item?id=31832115
+
 

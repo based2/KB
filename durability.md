@@ -54,6 +54,12 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 > https://news.ycombinator.com/item?id=28018057
 
 # News
+https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf
+> https://news.ycombinator.com/item?id=31827340
+
+https://permacomputing.net/
+> https://news.ycombinator.com/item?id=31828615
+
 https://thenextweb.com/news/fairphone-sustainable-phone-repair-modules-interview
 
 https://www.eevblog.com/forum/dodgy-technology/not-dodgy-at-all-and-long-overdue-user-replaceable-batteries/

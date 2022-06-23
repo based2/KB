@@ -37,3 +37,5 @@ https://bjango.com/articles/svgpassthroughprecision/
 
 https://www.smashingmagazine.com/2022/05/magical-svg-techniques/
 > https://news.ycombinator.com/item?id=31502186
+
+https://www.reddit.com/r/java/comments/vigyem/a_lightweight_java2d_svg_rendering_engine/

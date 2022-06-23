@@ -218,6 +218,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.tabnine.com/blog/announcing-tabnine-next-generation/
+> https://news.ycombinator.com/item?id=31830867
+
+https://link.springer.com/article/10.1007/s11192-022-04294-w Artificial intelligence in the field of economics
+
+https://github.com/yandex/YaLM-100B
+> https://news.ycombinator.com/item?id=31846593
+
 https://www.wired.com/story/lamda-sentient-ai-bias-google-blake-lemoine/
 
 https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/

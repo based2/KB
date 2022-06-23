@@ -65,5 +65,8 @@ https://en.wikipedia.org/wiki/Laser_turntable
 https://mtlynch.io/budget-nas/
 > https://news.ycombinator.com/item?id=31548829
 
+https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter
+> https://news.ycombinator.com/item?id=31820016
+
 
 

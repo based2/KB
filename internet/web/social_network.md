@@ -38,6 +38,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://news.ycombinator.com/item?id=31833415 Show HN: I built a fun video meeting app with 2D physics and proximity chat (flat.social)
+
 http://www.orkut.com/index.html
 > https://news.ycombinator.com/item?id=31806661
 

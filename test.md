@@ -119,6 +119,9 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://hynek.me/articles/what-to-mock-in-5-mins/
+> https://news.ycombinator.com/item?id=31822683
+
 https://github.com/MarginResearch/cannoli
 
 https://lav.io/2014/05/transform-any-text-into-a-patent-application/

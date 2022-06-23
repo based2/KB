@@ -59,6 +59,9 @@ https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_
 https://www.youtube.com/watch?v=88E86quLmQA&t=1750s ZGC: The Next Generation Low-Latency Garbage Collector
 
 # News
+https://shipilev.net/jvm/anatomy-quarks/10-string-intern/
+> https://news.ycombinator.com/item?id=31839515
+
 https://www.reactivesystems.eu/2022/06/17/introduction-to-project-loom.html
 
 https://foojay.io/today/what-can-we-expect-in-openjdk-19/

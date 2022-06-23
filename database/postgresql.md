@@ -249,6 +249,7 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 
 # News
 https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/
+> https://news.ycombinator.com/item?id=31809394
 
 https://github.com/citusdata/citus/commit/184c7c0bce6b7bca61d25b828855fac5fba64816
 > https://news.ycombinator.com/item?id=31770348

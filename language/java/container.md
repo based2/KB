@@ -46,3 +46,7 @@ https://www.infoq.com/news/2022/05/static-java-state-2022/
 https://danheidinga.github.io/phase-aware-source-code/
 
 https://foojay.io/today/journeys-in-java-level-5-building-an-empire-of-microservices/
+
+https://piotrminkowski.com/2022/06/22/introduction-to-ksqldb-on-kubernetes-with-spring-boot/
+
+https://wildfly-security.github.io/wildfly-elytron/blog/ejb-over-tls/

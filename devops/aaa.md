@@ -191,6 +191,14 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.tweag.io/blog/2022-06-23-haskell-module/ Incremental builds for Haskell with Bazel
+
+https://news.ycombinator.com/item?id=31844647 Ask HN: Who are your favorite GitHub/Gitlab alternatives?
+>
+
+https://www.crocodile.dev/ $ code review
+> https://news.ycombinator.com/item?id=31841215
+
 https://trofi.github.io/posts/240-nixpkgs-bootstrap-intro.html
 
 https://www.amazon.science/blog/calculating-the-differential-cost-of-code-changes

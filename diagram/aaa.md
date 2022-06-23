@@ -6,6 +6,9 @@ https://www.plantuml.com - Graphviz
 > > https://crashedmind.github.io/PlantUMLHitchhikersGuide/about/AboutPlantUML.html
 > > https://github.com/plantuml-stdlib/C4-PlantUML
 
+https://www.youtube.com/watch?v=Za1-v4Zkq5E C4
+> https://news.ycombinator.com/item?id=31807021
+
 https://news.ycombinator.com/item?id=26974977
 
 https://github.com/achiku/planter for PostreSQL

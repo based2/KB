@@ -65,6 +65,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://tails.boum.org/news/version_5.1.1/index.en.html
+
 https://www.phoronix.com/scan.php?page=news_item&px=EPEL-Stats-Rocky-Linux-Surge
 
 https://massos.org/

@@ -51,6 +51,8 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 # News
+https://vladmihalcea.com/spring-transaction-best-practices/
+
 https://vladmihalcea.com/best-spring-data-jparepository/
 
 https://www.infoq.com/news/2022/04/red-hat-releases-hibernate-6/

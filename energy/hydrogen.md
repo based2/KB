@@ -25,6 +25,9 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.gatesnotes.com/Energy/Clean-Hydrogen
+> https://news.ycombinator.com/item?id=31826918
+
 https://www.sciencedirect.com/science/article/pii/S2666386422000984 Enhanced chloroplast-mitochondria crosstalk promotes ambient algal-H2 production
 
 https://thedriven.io/2022/04/02/german-retailer-switches-battery-electric-logistics-fleet-to-green-hydrogen-fuel-cell/

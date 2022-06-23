@@ -1,5 +1,8 @@
 Verify identity
 
+https://webauthn.guide/
+> https://news.ycombinator.com/item?id=31836922
+
 https://en.wikipedia.org/wiki/Simple_Authentication_and_Security_Layer
 > https://datatracker.ietf.org/doc/html/rfc2595
 

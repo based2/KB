@@ -2,6 +2,9 @@ https://www.videolan.org/
 > https://increment.com/teams/the-team-that-powers-vlc/
 > > https://news.ycombinator.com/item?id=29443411
 
+https://obsproject.com/
+> https://news.ycombinator.com/item?id=31830046
+
 https://mpc-hc.org/
 
 https://www.sodaplayer.com/
@@ -97,6 +100,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md
+> https://news.ycombinator.com/item?id=31828193
+
 https://owncast.online/ Self-hosted live video and web chat server for use with existing popular broadcasting software
 > https://news.ycombinator.com/item?id=31810511
 

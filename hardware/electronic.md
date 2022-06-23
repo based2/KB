@@ -35,10 +35,12 @@ https://danluu.com/why-hardware-development-is-hard/ Verilog is weird
 https://www.electropedia.org/
 > https://news.ycombinator.com/item?id=30853442
 
+https://asianometry.substack.com/p/designing-billions-of-circuits-with
+> https://news.ycombinator.com/item?id=31838690
+
 # Microcontroller
 https://github.com/TUDSSL/BFree
 > https://news.ycombinator.com/item?id=29358044
-
 
 # VHDL
 https://verik.io/docs/overview/ 

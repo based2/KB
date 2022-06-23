@@ -223,6 +223,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html
+> https://news.ycombinator.com/item?id=31835851
+
 https://github.com/hwayne/awesome-cold-showers
 > https://news.ycombinator.com/item?id=31793030
 

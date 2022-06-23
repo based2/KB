@@ -38,6 +38,9 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html
+> https://news.ycombinator.com/item?id=31839692
+
 https://bsandro.tech/posts/openbsd-7.1-on-pine64-rockpro64/
 > https://news.ycombinator.com/item?id=31692011
 
@@ -123,6 +126,9 @@ https://klarasystems.com/articles/modern-inetd-in-freebsd/
 https://cdn.coverstand.com/33057/739644/0483e8ca86f15b6c0ce9d6f4660f93665bff176a.2.pdf
 
 ## News
+https://qorg11.net/tech_posts/freebsd_as_desktop.html
+> https://news.ycombinator.com/item?id=31833312
+
 https://www.freebsd.org/status/report-2022-01-2022-03/
 
 https://lists.freebsd.org/archives/freebsd-stable/2022-March/000571.html

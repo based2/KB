@@ -219,6 +219,14 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://tcom.scaletti.dev/ web jinga template components
+
+https://enigma.com/blog/post/mapping-the-world-of-package-management
+> https://news.ycombinator.com/item?id=31837996
+
+https://lwn.net/SubscriberLink/898452/357b195db1ecce28/ Introducing PyScript, in browser
+> https://news.ycombinator.com/item?id=31843996
+
 https://console.substack.com/p/console-110 fastapi
 
 https://github.com/radian-software/python-in-a-box

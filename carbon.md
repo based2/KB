@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://rogerpielkejr.substack.com/p/more-good-news-from-the-most-recent
+> https://news.ycombinator.com/item?id=31843889
+
 https://apnews.com/article/climate-government-and-politics-environment-07b736081cf7cd8e46bb40e9834e717e
 
 https://neo.life/2022/06/pulling-steaks-out-of-thin-air/

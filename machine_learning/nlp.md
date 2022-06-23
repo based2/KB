@@ -19,6 +19,9 @@ https://www.exafunction.com/nlp
  
 https://ai.googleblog.com/2021/08/two-new-datasets-for-conversational-nlp.html
 
+https://pycantonese.org/index.html
+> https://news.ycombinator.com/item?id=31824093
+
 https://github.com/JohnSnowLabs/spark-nlp/releases/tag/4.0.0
 
 https://towardsdatascience.com/introduction-to-spark-nlp-foundations-and-basic-components-part-i-c83b7629ed59

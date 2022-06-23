@@ -240,6 +240,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/dolthub/dolt
+> https://news.ycombinator.com/item?id=31847416
+
 https://kyuubi.apache.org/ Serverless SQL on Lakehouse
 
 https://dcic-world.org/

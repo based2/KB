@@ -155,6 +155,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://www.bachvereniging.nl/en/allofbach
+> https://news.ycombinator.com/item?id=31833128
+
 https://u-he.com/community/clap/
 > https://news.ycombinator.com/item?id=31759128
 

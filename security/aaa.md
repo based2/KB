@@ -1,3 +1,6 @@
+https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf Rivest
+> https://news.ycombinator.com/item?id=31817716
+
 https://www.vice.com/en/article/akvmke/facebook-doesnt-know-what-it-does-with-your-data-or-where-it-goes
 
 https://www.quantamagazine.org/computer-scientists-achieve-crown-jewel-of-cryptography-20201110/

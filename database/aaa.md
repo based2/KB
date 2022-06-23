@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://docs.convex.dev/understanding/convex-vs-firebase
+> https://news.ycombinator.com/item?id=31831623
+
 https://telegra.ph/No-QuestDB-is-not-Faster-than-ClickHouse-06-15
 > https://news.ycombinator.com/item?id=31767858
 

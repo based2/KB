@@ -1,3 +1,32 @@
+https://www.cert.ssi.gouv.fr/uploads/TLP_White_CoRIIN_ANSSI-SDO-DR.pdf vmware forensic
+
+https://www.imperva.com/resources/reports/Imperva-Marsh-McLennan-Report-2022.pdf Quantifying the Cost of API Insecurity
+
+https://github.com/intel/confidential-computing-zoo on chinese cloud
+
+https://utkusen.medium.com/the-state-of-csrf-vulnerability-in-2022-3858e6d90ab9
+> https://www.reddit.com/r/netsec/comments/vb941p/the_state_of_csrf_vulnerability_in_2022/
+
+https://blacklabsdev.medium.com/intercepting-ms-team-communication-and-how-to-pipe-it-to-elasticsearch-ebbf51d09f4c
+> https://www.reddit.com/r/netsec/comments/vhape1/intercepting_ms_teams_communication/
+
+https://hardenedvault.net/blog/2022-06-16-ved-community-version/
+
+https://www.inversecos.com/2022/06/detecting-linux-anti-forensics-log.html
+
+https://mega-awry.io/
+> https://news.ycombinator.com/item?id=31829130
+
+https://www.splunk.com/en_us/product-security/announcements/svd-2022-0608.html
+> https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32158
+> https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-548/
+
+https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632 Permissive forwarding rule leads to unintentional exposure of containers to external hosts
+> https://news.ycombinator.com/item?id=31839936
+
+https://flak.tedunangst.com/post/a-brief-history-of-one-line-fixes
+> https://news.ycombinator.com/item?id=31845654
+
 https://zerotrustroadmap.org/
 
 https://lists.apache.org/thread/4j5c5ycyq6c9l8qjxko0wjw1csggfk7k CVE-2021-33036: Apache Hadoop Privilege escalation vulnerability

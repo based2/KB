@@ -92,6 +92,9 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/
+> https://news.ycombinator.com/item?id=31818960
+
 https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics/
 > https://news.ycombinator.com/item?id=31713360
 

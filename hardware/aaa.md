@@ -72,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx/thinkpad-x13s-13-inch-wos/len101t0019
+> https://news.ycombinator.com/item?id=31842160
+
 https://chipsandcheese.com/2022/06/17/intels-netburst-failure-is-a-foundation-for-success/
 > https://news.ycombinator.com/item?id=31787163
 

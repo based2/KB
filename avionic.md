@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/
+> https://news.ycombinator.com/item?id=31827301
+
 https://newatlas.com/aircraft/otto-zeroavia-celera-hydrogen/
 > https://news.ycombinator.com/item?id=31764685
 

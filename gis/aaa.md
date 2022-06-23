@@ -175,6 +175,9 @@ https://mro.name/g/about GPL
 https://en.wikipedia.org/wiki/Peirce_quincuncial_projection
 > https://news.ycombinator.com/item?id=27697756
 
+https://www.jasondavies.com/maps/transition/
+> https://news.ycombinator.com/item?id=31808785
+
 # Algo
 ## Visu
 https://www.win.tue.nl/~kverbeek/PhDThesis.pdf
@@ -197,6 +200,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://solutionspace.blog/2022/06/18/map-data-v-false-assumptions-programmers-make/
+> https://news.ycombinator.com/item?id=31797121
+
 https://turfjs.org/ Advanced geospatial analysis for browsers and Node.js
 > https://news.ycombinator.com/item?id=31769918
 

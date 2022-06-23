@@ -39,6 +39,9 @@ https://www.bookstackapp.com/ php
 https://news.ycombinator.com/item?id=30392849
 
 # News
+https://wikimediafoundation.org/news/2022/06/21/wikimedia-enterprise-announces-google-and-internet-archive-first-customers/
+> https://news.ycombinator.com/item?id=31826651
+
 https://spiralwiki.com/ Show HN: Read Wikipedia privately using homomorphic encryption
 > https://news.ycombinator.com/item?id=31668814
 

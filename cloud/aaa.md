@@ -87,6 +87,9 @@ https://www.theregister.com/2021/08/06/aws_google_dns/
 https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_authority/
 
 # Incidents
+https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/
+> https://news.ycombinator.com/item?id=31823132
+
 https://www.nytimes.com/2022/06/17/technology/paige-thompson-capital-one-hack.html
 > https://news.ycombinator.com/item?id=31787517
 > https://news.ycombinator.com/item?id=31808844
@@ -136,6 +139,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=31837795 It's not acceptable that Google does not offer support to users
+
 https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io
 > https://news.ycombinator.com/item?id=31809078
 
