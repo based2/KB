@@ -7,6 +7,9 @@ https://piroguetoolsuite.github.io/
 > https://news.ycombinator.com/item?id=31616837
 
 #
+https://cacm.acm.org/magazines/2022/7/262078-the-keys-to-the-kingdom/fulltext
+> https://news.ycombinator.com/item?id=31838368
+
 https://margin.re/blog/pulling-mikrotik-into-the-limelight.aspx
 
 https://github.com/open-goal/jak-project

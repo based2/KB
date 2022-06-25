@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://bamia.net/emergence/ fractal
+
 https://acko.net/blog/the-case-for-use-gpu/
 
 https://github.com/mbrlabs/Lorien

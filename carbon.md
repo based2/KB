@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.nature.com/articles/s43016-022-00530-x A hybrid inorganic–biological artificial photosynthesis system for energy-efficient food production
+> https://news.ycombinator.com/item?id=31867921 
+
 https://rogerpielkejr.substack.com/p/more-good-news-from-the-most-recent
 > https://news.ycombinator.com/item?id=31843889
 

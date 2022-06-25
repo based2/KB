@@ -72,6 +72,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/EtherDream/QuickReader Use selective-await to reduce 99% of JavaScript async call overhead
+> https://news.ycombinator.com/item?id=31857128
+
 https://deepkit.io/
 > https://news.ycombinator.com/item?id=31663298
 

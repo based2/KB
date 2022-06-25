@@ -81,6 +81,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://www.ti.com/lit/an/slaa888/slaa888.pdf Benefits of Class-G and Class-H Boost in Audio Amplifier
+> https://news.ycombinator.com/item?id=31859125
+
 https://phys.org/news/2022-06-moth-winginspired-absorbing-wallpaper-sight.html
 > https://news.ycombinator.com/item?id=31769803
 

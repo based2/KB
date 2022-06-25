@@ -219,6 +219,14 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+> https://news.ycombinator.com/item?id=31870955
+
+https://github.com/LaunchPlatform/wtforms-bootstrap5
+
+https://brntn.me/blog/six-things-i-do-every-time-i-start-a-django-project/
+> https://news.ycombinator.com/item?id=31853546
+
 https://tcom.scaletti.dev/ web jinga template components
 
 https://enigma.com/blog/post/mapping-the-world-of-package-management

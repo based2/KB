@@ -218,6 +218,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://devblogs.microsoft.com/windowsai/directml-plugin-for-tensorflow-2-is-here/
+
 https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8269-draft.pdf Draft NISTIR 82691 2 A Taxonomy and Terminology of Adversarial Machine Learning
 
 https://github.com/alpa-projects/alpa Auto parallelization for large-scale neural networks

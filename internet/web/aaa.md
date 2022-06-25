@@ -93,6 +93,9 @@ https://github.com/reanalytics-databoutique/advanced-scrapy-proxies
 https://github.com/Florents-Tselai/WarcDB Web crawl data as SQLite databases
 > https://news.ycombinator.com/item?id=31799147
 
+https://github.com/maxcountryman/warc-parquet
+> https://news.ycombinator.com/item?id=31867179
+
 # News
 https://developer.tbd.website/projects/web5/
 > https://news.ycombinator.com/item?id=31702724

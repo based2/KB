@@ -57,6 +57,9 @@ https://colin-scott.github.io/personal_website/research/interactive_latency.html
 https://github.com/deepfence/PacketStreamer Capture and aggregate network traffic across multiple hosts
 > https://news.ycombinator.com/item?id=30888295
 
+https://github.com/netenglabs/suzieq Suzieq - Healthier Networks Through Network Observability
+>
+
 # Tests
 https://docs.gns3.com/docs/
 

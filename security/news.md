@@ -1,3 +1,21 @@
+https://secjoes-reports.s3.eu-central-1.amazonaws.com/Backdoor%2Bvia%2BXFF%2BMysterious%2BThreat%2BActor%2BUnder%2BRadar.pdf
+
+https://blog.google/threat-analysis-group/italian-spyware-vendor-targets-users-in-italy-and-kazakhstan/
+> https://www.zdnet.com/article/google-details-commercial-spyware-that-targets-both-android-and-ios-devices/?web_view=true
+> https://www.bleepingcomputer.com/news/security/spyware-vendor-works-with-isps-to-infect-ios-and-android-users/
+> > https://googleprojectzero.blogspot.com/2022/06/curious-case-carrier-app.html
+
+https://github.com/liamg/dismember Scan memory for secrets
+
+https://blog.torproject.org/arti_050_released/
+
+https://peterjson.medium.com/miracle-one-vulnerability-to-rule-them-all-c3aed9edeea2
+
+https://www.synology.com/en-global/security/advisory/Synology_SA_22_09
+
+https://www.bejarano.io/sms-phishing/
+> https://news.ycombinator.com/item?id=31862994
+
 https://lists.apache.org/thread/k04zk0nq6w57m72w5gb0r6z9ryhmvr4k CVE-2022-34305 Apache Tomcat - XSS in examples web application
 
 https://lwn.net/SubscriberLink/898522/9cf50ee3f96f90c1/ git: no interoperability between SHA-1 and SHA-256 repositories yet

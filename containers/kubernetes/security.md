@@ -62,6 +62,8 @@ https://tanzu.vmware.com/developer/guides/platform-security-secrets-sa-what-is/
 https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf8171d0
 
 # News
+https://blog.cloudflare.com/kubectl-with-zero-trust/
+
 https://medium.com/@hosein.yousefi/vault-cluster-with-auto-unseal-on-kubernetes-8e469f9cdcfd
 > https://www.reddit.com/r/kubernetes/comments/vie7y0/vault_cluster_with_auto_unseal_on_kubernetes/
 

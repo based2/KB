@@ -115,6 +115,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=31873896 Ask HN: Seeking Cryptography Certification
+
 https://timing.attacks.cr.yp.to/
 > https://news.ycombinator.com/item?id=31821507
 

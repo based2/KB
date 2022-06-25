@@ -15,6 +15,8 @@ http://www.tcpcrypt.org/
 
 https://en.wikipedia.org/wiki/CUBIC_TCP
 
+https://github.com/claudiodangelis/qrcp
+
 # Connector
 https://github.com/airbytehq/airbyte
 

@@ -348,6 +348,8 @@ https://news.ycombinator.com/item?id=31307006
 
 https://model-checking.github.io//kani-verifier-blog/2022/06/01/using-the-kani-rust-verifier-on-a-rust-standard-library-cve.html
 
+https://arxiv.org/abs/2206.07185 Aeneas: Rust Verification by Functional Translation
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -385,6 +387,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://kobzol.github.io/rust/ci/2021/05/07/building-rust-binaries-in-ci-that-work-with-older-glibc.html
+> https://news.ycombinator.com/item?id=31873382
+
 https://fly.io/blog/rust-memory-leak/
 > https://news.ycombinator.com/item?id=31758670
 

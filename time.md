@@ -208,6 +208,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://blat-blatnik.github.io/computerBear/making-accurate-sleep-function/
+> https://news.ycombinator.com/item?id=31845877
+
 https://www.jokteur.com/a/integrated-timetable-switzerland/
 > https://news.ycombinator.com/item?id=31807913
 

@@ -22,6 +22,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://cs3110.github.io/textbook/cover.html
+> https://news.ycombinator.com/item?id=31848178
+
 https://github.com/ocaml/dune/releases/tag/3.1.0
 
 https://github.com/rhysd/gocaml

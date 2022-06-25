@@ -248,6 +248,9 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content
+> https://news.ycombinator.com/item?id=31873063
+
 https://pganalyze.com/blog/automatic-indexing-system-postgres-pganalyze-indexing-engine
 
 https://www.postgresql.org/about/news/postgresql-144-released-2470/

@@ -26,6 +26,9 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://lupyuen.github.io/articles/pinephone
+> https://news.ycombinator.com/item?id=31863269
+
 https://f-droid.org/2022/05/24/buildserver-overhaul-sponsored-by-calyx-institute.html
 > https://news.ycombinator.com/item?id=31504175
 

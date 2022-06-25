@@ -62,6 +62,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/
+
 https://arxiv.org/abs/2009.00826 Scaling Attributed Network Embedding to Massive Graphs
 
 https://library.smu.edu.sg/topics-insights/openalex-promising-alternative-microsoft-academic-graph

@@ -120,6 +120,8 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://www.theregister.com/2022/06/24/windows_11_optional_update/
+
 https://www.theregister.com/2022/06/23/windows_11_22h2_is_almost/?td=rt-3a
 
 https://www.reddit.com/r/sysadmin/comments/vdunz6/how_does_microsoft_expect_people_to_deploy/

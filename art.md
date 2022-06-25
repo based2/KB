@@ -39,6 +39,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.brachiograph.art/index.html
+> https://news.ycombinator.com/item?id=31864209
+
 https://github.com/tombetthauser/watercolor-basics
 > https://news.ycombinator.com/item?id=31757077
 

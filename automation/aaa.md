@@ -25,6 +25,12 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://matt-rickard.com/advanced-configuration-languages-are-wrong/
+> https://news.ycombinator.com/item?id=31870924
+
+https://opsflow.app/
+> https://news.ycombinator.com/item?id=31859624
+
 https://meadowrun.io/ python
 > https://news.ycombinator.com/item?id=31694827
 

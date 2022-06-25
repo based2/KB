@@ -223,6 +223,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.hackpack.io/blog/great-practice-systems-design-questions
+> https://news.ycombinator.com/item?id=31867462
+
 https://speakerdeck.com/dlew/maintaining-software-correctness?slide=24 Maintaining Software Correctness
 
 https://blog.metaobject.com/2022/06/blackbird-simple-reference-architecture.html

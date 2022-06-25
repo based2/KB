@@ -189,7 +189,9 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
-https://news.ycombinator.com/item?id=31837759 	Show HN: Hagana – Runtime protection for Node.js to block supply chain attacks
+https://medium.com/gumgum-tech/faster-development-experience-with-vite-hugo-and-preact-c08cbcfce5fb
+
+https://news.ycombinator.com/item?id=31837759 Show HN: Hagana – Runtime protection for Node.js to block supply chain attacks
 
 https://reactnative.dev/blog/2022/06/21/version-069
 > https://news.ycombinator.com/item?id=31845423

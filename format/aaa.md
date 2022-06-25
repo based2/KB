@@ -38,6 +38,9 @@ https://github.com/foobaz/pngloss
 https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl
 > https://news.ycombinator.com/item?id=31657006
 
+https://uploadcare.com/blog/fighting-jpeg-color-banding/
+>
+
 # News
 https://underjord.io/id3-specification-and-speculation.html
 > https://news.ycombinator.com/item?id=31658664

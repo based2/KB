@@ -25,6 +25,8 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.airbus.com/en/newsroom/press-releases/2022-06-airbus-and-linde-to-cooperate-on-hydrogen-infrastructure-for
+
 https://www.gatesnotes.com/Energy/Clean-Hydrogen
 > https://news.ycombinator.com/item?id=31826918
 

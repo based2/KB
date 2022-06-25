@@ -16,6 +16,8 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.theguardian.com/environment/2022/jun/25/keeps-going-driving-first-production-ready-solar-car-lightyear-0
+
 https://www.theverge.com/2022/6/14/23167441/us-army-floating-solar-power-plant-floatovoltaics
 > https://news.ycombinator.com/item?id=31750091
 

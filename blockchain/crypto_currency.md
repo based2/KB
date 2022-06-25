@@ -23,6 +23,11 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.cnbc.com/2022/06/24/hackers-steal-100-million-in-crypto-from-harmonys-horizon-bridge.html
+> https://news.ycombinator.com/item?id=31864398
+
+https://news.ycombinator.com/item?id=31858460 Tell HN: Coinbase now requires physical address of recipient in crypto transfers
+
 https://cointelegraph.com/news/solend-invalidates-solana-whale-wallet-takeover-plan-with-second-governance-vote
 > https://news.ycombinator.com/item?id=31813116
 

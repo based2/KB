@@ -79,6 +79,11 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://en.wikipedia.org/wiki/Quantum_Zeno_effect
+
+https://www.spiedigitallibrary.org/journals/optical-engineering/volume-61/issue-08/081808/Visualizing-quantum-mechanics-in-an-interactive-simulation--Virtual-Lab/10.1117/1.OE.61.8.081808.full?SSO=1
+> https://news.ycombinator.com/item?id=31864319
+
 https://www.abc.net.au/news/2022-06-23/australian-company-creates-worlds-first-quantum/13942276
 > https://news.ycombinator.com/item?id=31845513
 

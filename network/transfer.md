@@ -42,3 +42,7 @@ https://motif.land/blog/syncing-text-files-using-yjs-and-the-file-system-access-
 
 https://michael.stapelberg.ch/posts/2022-06-18-rsync-article-1-scenarios/
 
+https://github.com/timvisee/ffsend
+> https://news.ycombinator.com/item?id=31867800
+> > https://magic-wormhole.readthedocs.io/en/latest/welcome.html PAKE SPAKE2
+
