@@ -63,6 +63,7 @@ https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
 https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/
+> https://news.ycombinator.com/item?id=31859262
 
 https://arxiv.org/abs/2009.00826 Scaling Attributed Network Embedding to Massive Graphs
 

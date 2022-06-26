@@ -55,6 +55,8 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://medium.com/ozonetel-ai/sentence-embeddings-have-a-problem-the-reason-sometimes-dalle-2-fails-2a10d5048f15
+
 https://parti.research.google/
 > https://news.ycombinator.com/item?id=31839193
 
@@ -77,6 +79,9 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 #
+https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables#toggle-gdpr
+> https://news.ycombinator.com/item?id=31877672
+
 https://news.ycombinator.com/item?id=31807881
 
 https://80.lv/articles/famous-paintings-expanded-with-dall-e-2/

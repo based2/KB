@@ -14,6 +14,8 @@ https://www.pfsense.org/
 https://github.com/evilsocket/opensnitch
 > https://news.ycombinator.com/item?id=22206116
 > https://news.ycombinator.com/item?id=14245270
+> https://news.ycombinator.com/item?id=31876220
+> > https://github.com/harporoeder/ebpfsnitch
 
 https://objective-see.com/products/lulu.html osx
 > https://news.ycombinator.com/item?id=16188502

@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://hpjansson.org/chafa/
+> https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1507
+
 https://pterm.sh/
 > https://news.ycombinator.com/item?id=31827865
 

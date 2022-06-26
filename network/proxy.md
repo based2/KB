@@ -24,6 +24,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://crproxy.com/
+> https://news.ycombinator.com/item?id=31886120
+
 https://solovyov.net/blog/2022/ngrok-for-the-wicked/
 > https://lobste.rs/s/6zq9vt/ngrok_for_wicked_expose_your_ports
 

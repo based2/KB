@@ -91,6 +91,11 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/codeofethics.html
+> https://news.ycombinator.com/item?id=31883373
+
+https://sqlite.org/releaselog/3_39_0.html
+
 https://sqlite.org/src4/doc/trunk/www/design.wiki The Design Of SQLite4 - development work on SQLite4 has ended and never released.
 > https://news.ycombinator.com/item?id=31785170 
 

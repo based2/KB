@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://honzaap.github.io/Pathfinding/
+> https://news.ycombinator.com/item?id=31875580
+
 https://bamia.net/emergence/ fractal
 
 https://acko.net/blog/the-case-for-use-gpu/

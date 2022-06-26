@@ -196,6 +196,7 @@ https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 https://spdx.org/licenses/
 
 https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/
+> https://news.ycombinator.com/item?id=31882512
 
 https://www.tweag.io/blog/2022-06-23-haskell-module/ Incremental builds for Haskell with Bazel
 > https://news.ycombinator.com/item?id=31847594

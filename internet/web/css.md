@@ -196,6 +196,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://defensivecss.dev/
+
 https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/
 > https://news.ycombinator.com/item?id=31802823
 

@@ -387,6 +387,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://mahdi.blog/rust-box-str-vs-string/
+> https://news.ycombinator.com/item?id=31859643
+
 https://kobzol.github.io/rust/ci/2021/05/07/building-rust-binaries-in-ci-that-work-with-older-glibc.html
 > https://news.ycombinator.com/item?id=31873382
 

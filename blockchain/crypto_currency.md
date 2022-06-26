@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://kasper-vandeloock.medium.com/profiting-from-inefficiencies-in-the-crypto-markets-funding-rates-1d21e2cefac9
+
 https://www.cnbc.com/2022/06/24/hackers-steal-100-million-in-crypto-from-harmonys-horizon-bridge.html
 > https://news.ycombinator.com/item?id=31864398
 

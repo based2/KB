@@ -132,6 +132,8 @@ http://www.figlet.org/
 https://mannhowie.com/finite-state-machines
 
 # News
+https://diagrams.mingrammer.com/
+
 https://www.scottantipa.com/why-knotend
 > https://news.ycombinator.com/item?id=31804429
 

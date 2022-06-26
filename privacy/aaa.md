@@ -95,6 +95,12 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://news.ycombinator.com/item?id=31883373 Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?
+
+https://www.michalsons.com/blog/spacetech-do-data-privacy-laws-apply-to-outer-space/45577
+
+https://news.ycombinator.com/item?id=31870345 Tell HN: GitHub Copilot can now block suggestions matching public code
+
 https://www.theregister.com/2022/06/24/big_tech_post_roe_wade/
 
 https://davidgerard.co.uk/blockchain/2020/06/06/the-brave-web-browser-is-hijacking-links-and-inserting-affiliate-codes/

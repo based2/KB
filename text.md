@@ -119,6 +119,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/
+> https://news.ycombinator.com/item?id=31858311
+
 https://www.gnu.org/software/recutils/
 > https://news.ycombinator.com/item?id=31832564
 

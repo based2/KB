@@ -38,6 +38,10 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # News
+https://blog.wescale.fr/quand-vos-certificats-tls-vous-trahissent/
+> https://crt.sh/
+> https://github.com/google/certificate-transparency
+
 https://www.cs.auckland.ac.nz/~pgut001/pubs/x509guide.txt
 
 https://httptoolkit.tech/blog/chrome-android-certificate-transparency/

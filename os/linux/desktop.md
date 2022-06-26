@@ -65,6 +65,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://liam-on-linux.dreamwidth.org/84023.html
+> https://news.ycombinator.com/item?id=31875954
+
 https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.11-Released
 
 https://jayfax.neocities.org/mediocrity/gnome-has-no-thumbnails-in-the-file-picker.html

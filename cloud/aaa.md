@@ -139,6 +139,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.micahlerner.com/2022/01/13/the-ties-that-un-bind-decoupling-ip-from-web-services-and-sockets-for-robust-addressing-agility-at-cdn-scale.html
+
 https://www.theregister.com/2022/06/23/oracle_on_prem_cloud/
 
 https://news.ycombinator.com/item?id=31837795 It's not acceptable that Google does not offer support to users

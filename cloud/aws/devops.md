@@ -5,3 +5,4 @@ https://aws.amazon.com/en/blogs/aws/announcing-pull-through-cache-repositories-f
 
 #
 https://aws.amazon.com/en/about-aws/whats-new/2022/06/aws-announces-amazon-codewhisperer-preview/
+> https://www.reddit.com/r/aws/comments/vj0rll/amazon_codewhisperer/

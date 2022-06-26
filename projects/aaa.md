@@ -192,6 +192,8 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://martinfowler.com/articles/product-backlog-building-canvas.html
+
 https://addyosmani.com/blog/software-engineering-soft-parts/
 > https://news.ycombinator.com/item?id=31779464
 

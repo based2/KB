@@ -87,6 +87,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://blog.apnic.net/2022/06/24/ferret-automatically-finding-rfc-compliance-bugs-in-dns-nameservers/
+
 https://nextdns.github.io/api/
 > https://news.ycombinator.com/item?id=31765530
 

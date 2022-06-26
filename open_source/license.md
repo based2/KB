@@ -44,11 +44,16 @@ https://caselaw.nationalarchives.gov.uk/open-justice-licence
 
 # Incident
 
+https://www.techdirt.com/2022/06/24/ridiculous-govt-contractor-copies-open-source-3d-printing-concept-and-patents-it/
+> https://news.ycombinator.com/item?id=31881973
+
 https://stockfishchess.org/blog/2022/public-court-hearing-soon/
 
 https://fosspost.org/github-copilot/
 > https://news.ycombinator.com/item?id=31847931
 > https://github.blog/2022-06-21-github-copilot-is-generally-available-to-all-developers/
+> https://www.fsf.org/licensing/copilot
+> > https://news.ycombinator.com/item?id=31874166
 
 https://github.com/OnePlusOSS/android_kernel_oneplus_sm8250/issues/24
 

@@ -55,6 +55,8 @@ https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=31864974
 > > https://github.com/jamf/CIS-for-macOS-Catalina-CP
 
+https://github.com/drduh/macOS-Security-and-Privacy-Guide
+
 https://objective-see.com/products/knockknock.html
 
 https://objective-see.com/products/lulu.html little snitch alt
@@ -225,6 +227,9 @@ https://www.quora.com/Retrocomputing-Did-Apple-need-to-license-Xerox-PARCs-GUI-t
 
 https://konradybcio.pl/linuxona7/
 > https://news.ycombinator.com/item?id=31679293
+
+https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple Silicon, experimental
+> https://news.ycombinator.com/item?id=31878876
 
 # Port
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html

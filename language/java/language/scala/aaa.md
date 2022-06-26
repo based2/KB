@@ -78,6 +78,9 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://github.com/wiringbits/scala-js-games
+> https://news.ycombinator.com/item?id=31885272
+
 https://flowrun.io/
 > https://flowrun.io/
 > http://www.flowgorithm.org/index.html

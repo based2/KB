@@ -234,6 +234,9 @@ https://www.kubegres.io/
 
 https://www.postgresql.org/about/news/kubegres-is-available-as-open-source-2197/
 > https://news.ycombinator.com/item?id=28758162
+
+https://github.com/CrunchyData/postgres-operator
+> https://news.ycombinator.com/item?id=31882256
  
 ## K8s
 https://stackgres.io/

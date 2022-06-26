@@ -1,3 +1,10 @@
+https://blog.protekkt.com/blog/basic-webassembly-buffer-overflow-exploitation-example
+> https://www.reddit.com/r/netsec/comments/vkn5mn/basic_webassembly_buffer_overflow_exploitation/
+
+https://latacora.micro.blog/2018/04/03/cryptographic-right-answers.html
+
+https://thehackernews.com/2022/06/multiple-backdoored-python-libraries.html
+
 https://secjoes-reports.s3.eu-central-1.amazonaws.com/Backdoor%2Bvia%2BXFF%2BMysterious%2BThreat%2BActor%2BUnder%2BRadar.pdf
 
 https://blog.google/threat-analysis-group/italian-spyware-vendor-targets-users-in-italy-and-kazakhstan/
@@ -50,6 +57,7 @@ https://mega-awry.io/
 https://www.splunk.com/en_us/product-security/announcements/svd-2022-0608.html
 > https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-32158
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-548/
+> https://www.reddit.com/r/Splunk/comments/vc3map/splunk_cvss_90_deploymentserver_vulnerability/
 
 https://gist.github.com/guns/1dc1742dce690eb560a3a2d7581a9632 Permissive forwarding rule leads to unintentional exposure of containers to external hosts
 > https://news.ycombinator.com/item?id=31839936
@@ -162,6 +170,7 @@ https://techcrunch.com/2022/06/10/apple-m1-unpatchable-flaw/
 > https://news.ycombinator.com/item?id=31693490
 > > https://pacmanattack.com/
 > > > https://pacmanattack.com/paper.pdf
+> https://developer.arm.com/documentation/ka005109/1-0?lang=en
 
 https://seirdy.one/posts/2022/06/04/layered-content-blocking/
 

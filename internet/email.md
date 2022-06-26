@@ -121,6 +121,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://minimail.eu.org/hello@minimail.eu.org
+> https://news.ycombinator.com/item?id=31885142
+
 https://github.com/LGUG2Z/unsubscan Tool to help you find unsubscribe links in your emails
 > https://news.ycombinator.com/item?id=31786324
 

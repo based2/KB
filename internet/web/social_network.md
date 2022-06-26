@@ -25,6 +25,8 @@ https://news.ycombinator.com/item?id=29923736
 
 https://news.ycombinator.com/item?id=31693314 Show HN: Analyzing top HN posts with language models
 
+https://news.ycombinator.com/item?id=31879820
+
 # Slashdot
 # Reddit
 
@@ -38,6 +40,12 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://medium.com/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56
+> https://news.ycombinator.com/item?id=31881238
+
+https://www.reuters.com/markets/europe/secs-response-meme-stock-rally-2022-06-24/
+> https://news.ycombinator.com/item?id=31868166
+
 https://news.ycombinator.com/item?id=31833415 Show HN: I built a fun video meeting app with 2D physics and proximity chat (flat.social)
 
 http://www.orkut.com/index.html

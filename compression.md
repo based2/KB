@@ -6,6 +6,7 @@ https://datatracker.ietf.org/doc/html/rfc8878  Zstandard Compression and the 'ap
 > https://news.ycombinator.com/item?id=29281360
 
 https://facebook.github.io/zstd/
+> https://en.wikipedia.org/wiki/Asymmetric_numeral_systems
 
 https://www.boristhebrave.com/2021/01/01/compressed-sparse-fibers-explained/
 

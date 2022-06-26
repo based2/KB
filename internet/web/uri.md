@@ -6,6 +6,8 @@ https://www.fpcomplete.com/blog/pains-path-parsing/
 https://news.ycombinator.com/item?id=26991332
 
 #
+https://news.ycombinator.com/item?id=31883209
+
 http://shadyurl.com/
 > https://news.ycombinator.com/item?id=31386108
 
