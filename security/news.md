@@ -1,3 +1,12 @@
+https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html
+> https://news.ycombinator.com/item?id=31911075
+
+https://arstechnica.com/information-technology/2022/06/a-wide-range-of-routers-are-under-attack-by-new-unusually-sophisticated-malware/
+> https://news.ycombinator.com/item?id=31924132
+
+https://www.cossacklabs.com/blog/cryptographic-failures-in-rf-encryption/
+> https://news.ycombinator.com/item?id=31921743
+
 https://blog.protekkt.com/blog/basic-webassembly-buffer-overflow-exploitation-example
 > https://www.reddit.com/r/netsec/comments/vkn5mn/basic_webassembly_buffer_overflow_exploitation/
 

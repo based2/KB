@@ -64,6 +64,11 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://www.ezid.io//resource/switching-authentication-providers
+> https://news.ycombinator.com/item?id=31905983
+
+https://news.ycombinator.com/item?id=31919548 Ask HN: What do you use to build auth?
+
 https://datatracker.ietf.org/doc/html/rfc7591 OAuth 2.0 Dynamic Client Registration Protocol
 
 https://github.blog/2022-06-09-introducing-entitlements-githubs-open-source-identity-and-access-management-solution/

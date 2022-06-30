@@ -230,6 +230,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://llunak.blogspot.com/2022/05/improving-calc-support-for-16384-columns.html
+> https://news.ycombinator.com/item?id=31921308
+
 https://www.infoworld.com/article/3664338/microsofts-complicated-dance-with-open-source.html
 
 https://jacobtomlinson.dev/posts/2022/dont-be-that-open-source-user-dont-be-me/

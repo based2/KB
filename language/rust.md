@@ -387,6 +387,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://jackh726.github.io/rust/2022/06/10/nll-stabilization.html
+
 https://mahdi.blog/rust-box-str-vs-string/
 > https://news.ycombinator.com/item?id=31859643
 

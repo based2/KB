@@ -18,6 +18,12 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf
+> https://news.ycombinator.com/item?id=31927669
+
+https://www.axios.com/2022/06/28/bitcoin-is-the-only-coin-the-sec-chair-will-call-a-commodity
+> https://news.ycombinator.com/item?id=31921968
+
 https://finbold.com/bitcoin-mining-becomes-unprofitable-as-btc-price-falls-to-the-average-cost-of-mining/
 > https://news.ycombinator.com/item?id=31796239
 

@@ -59,6 +59,16 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol
+> https://news.ycombinator.com/item?id=31910853
+
+https://phys.org/news/2022-06-methane-metal-recycling-potent-fossil.html
+
+https://www.theverge.com/2022/6/29/23188164/mammoth-direct-air-capture-plant-climeworks-groundbreaking-iceland
+
+https://www.freethink.com/environment/solar-geoengineering-space-bubbles
+> https://news.ycombinator.com/item?id=31922497
+
 https://www.nature.com/articles/s43016-022-00530-x A hybrid inorganic–biological artificial photosynthesis system for energy-efficient food production
 > https://news.ycombinator.com/item?id=31867921 
 

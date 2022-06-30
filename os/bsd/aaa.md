@@ -38,6 +38,9 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://medium.com/@chrissicool/analyze-openbsds-kernel-with-domain-specific-knowledge-ca665d92eebb
+> https://news.ycombinator.com/item?id=31914911
+
 https://dataswamp.org/~solene/2022-06-22-openbsd-selling-arguments.html
 > https://news.ycombinator.com/item?id=31839692
 

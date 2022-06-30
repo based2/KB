@@ -41,6 +41,9 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://tidbits.com/2022/06/27/why-passkeys-will-be-simpler-and-more-secure-than-passwords/
+> https://news.ycombinator.com/item?id=31910704
+
 https://www.reddit.com/r/sysadmin/comments/veglt6/password_management_for_legal_department_its_a/
 
 https://passwordpolicies.cs.princeton.edu/

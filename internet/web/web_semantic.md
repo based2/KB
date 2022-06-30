@@ -6,6 +6,9 @@ https://blog.adamretter.org.uk/vocabulary-reuse-part2/
 https://protege.stanford.edu/
 
 #
+https://arxiv.org/abs/2108.06096 SHACL: A Description Logic in Disguise
+> https://news.ycombinator.com/item?id=31890041
+
 https://github.com/pysemtec/semantic-python-overview
 
 https://fosdem.org/2022/schedule/event/open_research_ontology_development_kit/

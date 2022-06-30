@@ -218,6 +218,17 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://scottaaronson.blog/?p=6524 Steven Pinker and I debate AI scaling
+
+https://thereader.mitpress.mit.edu/how-did-consciousness-evolve-an-illustrated-guide/
+> https://news.ycombinator.com/item?id=31913496
+
+https://arxiv.org/abs/2206.13446 Pen and Paper Exercises in Machine Learning
+> https://news.ycombinator.com/item?id=31913057
+
+https://www.appliedexploration.com/p/dark-side-of-graph-neural-nets
+> https://news.ycombinator.com/item?id=31921196
+
 https://devblogs.microsoft.com/windowsai/directml-plugin-for-tensorflow-2-is-here/
 
 https://nvlpubs.nist.gov/nistpubs/ir/2019/NIST.IR.8269-draft.pdf Draft NISTIR 82691 2 A Taxonomy and Terminology of Adversarial Machine Learning

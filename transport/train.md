@@ -15,6 +15,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://www.vice.com/en/article/wxn8qx/amtrak-spent-11-years-and-dollar450-million-to-save-acela-riders-100-seconds
+> https://news.ycombinator.com/item?id=31926681
+
 https://hackaday.com/2022/06/23/grain-stuck-in-the-ukraine-the-fragmented-nature-of-modern-day-railways/
 > https://news.ycombinator.com/item?id=31857210
 

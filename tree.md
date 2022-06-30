@@ -82,6 +82,9 @@ https://woodgears.ca/wood_strength/
 
 https://www.core77.com/posts/36044/The-Kanna-Finish-How-to-Get-Glass-Smooth-Surfaces-in-Wood-Without-Sandpaper-or-Varnish
 
+https://www.wood-database.com/wood-filter/
+> https://news.ycombinator.com/item?id=31912178
+
 ## Root
 https://images.wur.nl/digital/collection/coll13/search
 > https://news.ycombinator.com/item?id=29672733

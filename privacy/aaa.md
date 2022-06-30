@@ -95,6 +95,20 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://www.engadget.com/data-privacy-period-tracking-apps-130054404.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAAvtNkNKU017n9VYvrBO8ubKNezlhpj0CTffH7Kw3eNCNyXskYewoY7toCjkEjM-oQv6LsZvZ4HMc8I3yPPvlSF0KpouSPkVilHK3TDe-A02Lkq6aYs9uLmH5BcPp6ZGKDb37AYK6Ehkead3T4nQhXOrKM1NGDpS6J9AJplHr4Wf
+> https://news.ycombinator.com/item?id=31920427
+
+https://thereload.com/new-california-ag-website-leaks-massive-trove-of-gun-owner-private-information/
+> https://news.ycombinator.com/item?id=31910724
+
+https://oag.ca.gov/news/press-releases/attorney-general-bonta-releases-new-firearms-data-increase-transparency-and
+> https://news.ycombinator.com/item?id=31903486
+
+https://www.cnbc.com/2022/06/29/fcc-commissioner-tells-apple-google-to-remove-tiktok-from-app-stores.html
+
+https://www.pandasecurity.com/en/mediacenter/security/tiktok-privacy-faceprints/
+> https://news.ycombinator.com/item?id=31920756
+
 https://news.ycombinator.com/item?id=31883373 Ask HN: GPT-3 reveals my full name to anybody who asks. Can I do anything?
 
 https://www.michalsons.com/blog/spacetech-do-data-privacy-laws-apply-to-outer-space/45577

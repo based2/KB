@@ -259,6 +259,12 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/
+> https://news.ycombinator.com/item?id=31924554
+
+https://blog.plover.com/2022/06/29/#tips
+> https://news.ycombinator.com/item?id=31923429
+
 https://dangitgit.com/en
 
 https://www.phoronix.com/scan.php?page=news_item&px=Git-2.37-rc1-Released

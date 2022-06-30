@@ -81,6 +81,12 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://dotat.at/@/2022-06-27-tolower-swar.html
+> https://news.ycombinator.com/item?id=31900872
+
+https://www.jjj.de/fxt/
+> https://news.ycombinator.com/item?id=31905897
+
 https://sorting.cr.yp.to/
 
 https://www.cs.tau.ac.il/~omrib/papers/adv_robust_stream.pdf

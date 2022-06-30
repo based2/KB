@@ -192,6 +192,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://phaazon.net/blog/blog/development-environments
+> https://news.ycombinator.com/item?id=31892775
+
 https://martinfowler.com/articles/product-backlog-building-canvas.html
 
 https://addyosmani.com/blog/software-engineering-soft-parts/

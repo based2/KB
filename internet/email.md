@@ -121,6 +121,11 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://news.ycombinator.com/item?id=31929015 #mailtags
+
+https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/
+> https://news.ycombinator.com/item?id=31914288
+
 https://minimail.eu.org/hello@minimail.eu.org
 > https://news.ycombinator.com/item?id=31885142
 

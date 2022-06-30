@@ -7,5 +7,8 @@ https://github.com/copy/v86
 https://fr.dolphin-emu.org/blog/2022/05/17/dolphin-progress-report-february-march-and-april-2022/?cr=fr
 > https://news.ycombinator.com/item?id=31415152
 
+https://github.com/ssloy/triador Ternary computer emulator
+> https://news.ycombinator.com/item?id=31924936
+
 https://www.libretro.com/index.php/retroarch-1-9-13-automatic-frame-delay/
 > https://news.ycombinator.com/item?id=31651128

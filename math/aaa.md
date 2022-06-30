@@ -101,6 +101,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://nschloe.github.io/2022/06/27/math-on-github-follow-up.html
+> https://news.ycombinator.com/item?id=31891754
+
 https://en.wikipedia.org/wiki/Katapayadi_system
 > https://en.wikipedia.org/wiki/Katapayadi_system
 

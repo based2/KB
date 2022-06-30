@@ -56,3 +56,5 @@ https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/
 
 https://v8.dev/blog/retrofitting-temporal-memory-safety-on-c++
 > https://news.ycombinator.com/item?id=31762574
+
+https://ramanlabs.in/static/blog/raw_memory_management_patterns_in_nim_language.html

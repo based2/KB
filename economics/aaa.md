@@ -139,6 +139,8 @@ https://www.unite.ai/simple-ai-can-anticipate-bank-managers-loan-decisions-to-ov
 https://www.firefly-iii.org/
 > https://news.ycombinator.com/item?id=31561575
 
+https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
+
 # News
 https://andrewbatson.com/2022/05/12/whats-behind-chinas-boom-in-company-formation/
 > https://news.ycombinator.com/item?id=31364321

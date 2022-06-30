@@ -140,6 +140,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://austinhenley.com/blog/mycomputingstory.html
+> https://news.ycombinator.com/item?id=31925645
+
 https://lofi.limo/blog/write-html-right
 > https://news.ycombinator.com/item?id=31694849
 

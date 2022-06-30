@@ -37,3 +37,6 @@ https://github.com/git-noter/gitnoter
 https://oldvcr.blogspot.com/2022/06/prior-art-dept-proletext-encoding-html.html
 
 https://squidfunk.github.io/mkdocs-material/
+
+https://gitjournal.io/
+> https://news.ycombinator.com/item?id=31914003

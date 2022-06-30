@@ -143,6 +143,14 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.smithsonianmag.com/smart-news/how-russian-space-mirror-briefly-lit-night-180957894/
+
+https://www.leonarddavid.com/air-force-x-37b-robotic-space-plane-nearing-record-flight/
+> https://news.ycombinator.com/item?id=31913418
+
+https://www.esa.int/Enabling_Support/Operations/Software_upgrade_for_19-year-old_martian_water-spotter
+> https://news.ycombinator.com/item?id=31921779
+
 https://www.space.com/satellites-falling-off-sky-solar-weather
 > https://news.ycombinator.com/item?id=31851572
 

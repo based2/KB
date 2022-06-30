@@ -54,6 +54,8 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 > https://news.ycombinator.com/item?id=28018057
 
 # News
+https://www.androidpolice.com/ifixit-genuine-pixel-parts-on-sale/
+
 https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf
 > https://news.ycombinator.com/item?id=31827340
 

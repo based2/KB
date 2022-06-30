@@ -19,6 +19,8 @@ https://boringseo.org/
 https://allisonseboldt.com/experimenting-with-programmatic-seo/
 > https://news.ycombinator.com/item?id=29189862
 
+https://daedtech.com/game-theory-in-seo-building-a-ship-of-strategy-in-a-sea-of-tactics/
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

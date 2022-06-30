@@ -92,6 +92,9 @@ https://www.gopl.io/
 > > https://news.ycombinator.com/item?id=26568014
 
 # News
+https://www.tbray.org/ongoing/When/202x/2022/06/25/Small-Tables
+> https://news.ycombinator.com/item?id=31890672
+
 https://blog.nobugware.com/post/2022/surprising-result-while-transpiling-go/
 > https://news.ycombinator.com/item?id=31818960
 

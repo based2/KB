@@ -78,6 +78,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://news.ycombinator.com/item?id=31907374 Tell HN: I DDoSed myself using CloudFront and Lambda Edge and got a $4.5k bill
+
 https://dev.to/aws/aws-open-source-news-and-updates-116-22dj
 
 https://jonathanbull.co.uk/blog/aws-health-dashboard-cannot-be-trusted/

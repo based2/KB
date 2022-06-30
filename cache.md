@@ -36,6 +36,9 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 > https://news.ycombinator.com/item?id=29388588
 
 # News
+https://simonhearne.com/2020/network-faster-than-cache/
+> https://news.ycombinator.com/item?id=31922762
+
 https://thenewstack.io/internode-cache-thrashing-hunting-a-numa-performance-bug/
 
 https://engineering.fb.com/2022/06/08/core-data/cache-invalidation/

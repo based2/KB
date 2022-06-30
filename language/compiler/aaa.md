@@ -113,6 +113,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://github.com/hackclub/some-assembly-required
+> https://news.ycombinator.com/item?id=31909183
+
 https://www.cambus.net/clang-static-analyzer-and-the-z3-constraint-solver/
 > https://news.ycombinator.com/item?id=31832588
 

@@ -11,6 +11,9 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://lemire.me/blog/2022/06/28/looking-at-assembly-code-with-gdb/
+> https://news.ycombinator.com/item?id=31911562
+
 https://changelog.complete.org/archives/10388-pipes-deadlocks-and-strace-annoyingly-fixing-them
 > https://news.ycombinator.com/item?id=31796261
 

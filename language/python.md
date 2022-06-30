@@ -219,6 +219,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://deepsource.io/blog/python-3-11-whats-new/
+> https://news.ycombinator.com/item?id=31888624
+
+https://sedimental.org/the_packaging_gradient.html
+> https://news.ycombinator.com/item?id=31891563
+
 https://python-patterns.guide/gang-of-four/composition-over-inheritance/
 > https://news.ycombinator.com/item?id=31870955
 

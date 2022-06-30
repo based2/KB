@@ -53,3 +53,6 @@ https://newatlas.com/transport/first-autonomous-ocean-passage-prism-courage-tank
 > https://news.ycombinator.com/item?id=31641470
 
 https://news.ycombinator.com/item?id=31823752
+
+https://france3-regions.francetvinfo.fr/bretagne/finistere/prix-du-carburant-le-moteur-hybride-a-eau-invente-dans-le-finistere-connait-un-succes-sans-precedent-2572216.html?utm_term=Autofeed&utm_medium=Social&utm_source=Facebook#Echobox=1656434222
+> https://www.reddit.com/r/france/comments/vna1hj/prix_du_carburant_le_moteur_hybride_%C3%A0_eau_invent%C3%A9/

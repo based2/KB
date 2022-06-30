@@ -33,3 +33,9 @@ https://blog.regehr.org/archives/2265 Formal-Methods-Based Bugfinding for LLVMâ€
 > https://news.ycombinator.com/item?id=31642147
 
 https://polysoftit.co.uk/irisc-web/
+
+https://queue.acm.org/detail.cfm?id=3534854 Linear Address Spaces, Unsafe at any speed, Poul-Henning Kamp
+> https://news.ycombinator.com/item?id=31924849
+
+https://fuse.wikichip.org/news/6853/arm-introduces-the-cortex-a715/
+> https://news.ycombinator.com/item?id=31922138

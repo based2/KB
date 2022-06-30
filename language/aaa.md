@@ -274,6 +274,12 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://blog.frankel.ch/hard-things-computer-science/
+> https://news.ycombinator.com/item?id=31885110
+
+https://billwadge.com/2022/06/27/hyperstreams-nesting-in-lucid/
+> https://news.ycombinator.com/item?id=31898684
+
 https://openhands.ai4bharat.org/en/latest/index.html
 > https://news.ycombinator.com/item?id=31797288
 

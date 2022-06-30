@@ -59,6 +59,12 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://www.cybertec-postgresql.com/en/transaction-anomalies-with-select-for-update/
+> 
+
+https://github.com/prql/prql
+> https://news.ycombinator.com/item?id=31897430
+
 https://duckdb.org/2022/05/04/friendlier-sql.html
 > https://news.ycombinator.com/item?id=31355050
 

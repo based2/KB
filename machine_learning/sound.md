@@ -43,5 +43,8 @@ https://github.com/snakers4/silero-models
 https://jmvalin.ca/demo/rnnoise/ dp real-time noise suppression
 
 # text-to-speech
+https://mycroft.ai/blog/introducing-mimic-3/
+> https://news.ycombinator.com/item?id=31926813
+
 https://15.ai/
 > https://news.ycombinator.com/item?id=31711118

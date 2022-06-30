@@ -100,6 +100,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.kanopy.com/en/
+> https://news.ycombinator.com/item?id=31882374
+
 https://git.cuvoodoo.info/kingkevin/board/src/branch/hdmi_firewall/README.md
 > https://news.ycombinator.com/item?id=31828193
 

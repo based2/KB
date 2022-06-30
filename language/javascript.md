@@ -412,6 +412,11 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://twitter.com/i/events/1218283019083157505 Reverse Compiler / Reversing Transpiler
+
+https://lofi.limo/blog/retry-xmlhttprequest-carefully
+> https://news.ycombinator.com/item?id=31911035
+
 https://boa-dev.github.io/
 
 https://mikevdv.dev/blog/2022-05-29-the-strange-world-of-npm-site-alternatives

@@ -139,6 +139,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://dropbox.tech/infrastructure/sixth-generation-server-hardware
+
 https://www.micahlerner.com/2022/01/13/the-ties-that-un-bind-decoupling-ip-from-web-services-and-sockets-for-robust-addressing-agility-at-cdn-scale.html
 
 https://www.theregister.com/2022/06/23/oracle_on_prem_cloud/

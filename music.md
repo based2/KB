@@ -155,6 +155,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://newatlas.com/music/optical-microphone-sound/
+> https://news.ycombinator.com/item?id=31891067
+
 https://news.ycombinator.com/item?id=31831949 LMN 3, an open source DAW in a box
 
 https://www.bachvereniging.nl/en/allofbach

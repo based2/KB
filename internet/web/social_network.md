@@ -40,6 +40,11 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://sudopad.com/df2e9e8c-e828-48f5-9011-0283f397382b
+> https://news.ycombinator.com/item?id=31925712
+
+https://news.ycombinator.com/item?id=31923377 Ask HN: Where have all the forums gone?
+
 https://medium.com/yardcouch-com/the-fall-of-reddit-why-its-quickly-declining-into-chaos-cb0da61aca56
 > https://news.ycombinator.com/item?id=31881238
 

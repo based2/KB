@@ -37,6 +37,9 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://ethw.org/History_of_Lossless_Data_Compression_Algorithms
+> https://news.ycombinator.com/item?id=31922396
+
 https://sourceforge.net/p/sevenzip/discussion/45797/thread/9c2d9061ce/ 7-zip 22.00 – APFS, Posix TAR, high precision timestamps
 > https://news.ycombinator.com/item?id=31845829
 

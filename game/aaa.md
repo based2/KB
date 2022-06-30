@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.nintendo.co.uk/Support/Nintendo-Switch/Refund-for-Downloaded-Game-or-DLC-Wrong-Game-Didn-t-Like-Game-Accidental-Purchase--1379023.html
+> https://news.ycombinator.com/item?id=31927930
+
 https://primegaming.blog/start-freeloading-over-30-games-with-prime-gaming-for-prime-day-2022-4a760c6cdb75
 
 https://www.retrorgb.com/palm-os-developer-releases-source-to-classic-games-20-years-after-release.html

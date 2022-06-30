@@ -8,6 +8,8 @@ https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 > https://news.ycombinator.com/item?id=28864749
 
 # News
+https://www.spacechatter.com/2022/06/24/sun-magnetic-arches-optical-illusions/
+
 https://phys.org/news/2022-05-solar-spectrum-decade-long-controversy-sun.html
 > https://news.ycombinator.com/item?id=31480247
 

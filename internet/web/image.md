@@ -42,6 +42,8 @@ https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-a
 https://engineering.q42.nl/optimizing-full-screen-images/
 
 # Photography
+https://www.dpreview.com/news/3788652829/digikam-free-open-source-raw-photo-management-macos-windows-and-linux-updated
+
 https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/
 
 https://lux.camera/iphone-13-pro-camera-app-intelligent-photography/
