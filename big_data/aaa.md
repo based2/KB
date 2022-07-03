@@ -240,6 +240,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.kaggle.com/code/metathesis/feature-engineering-training-with-ta
+
 https://wesmckinney.com/book/
 
 https://github.com/x2bool/xlite

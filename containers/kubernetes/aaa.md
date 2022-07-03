@@ -62,6 +62,11 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.vcluster.com/
+> https://github.com/loft-sh/vcluster
+
+https://www.thinksys.com/devops/kubernetes-multi-tenancy/
+
 https://github.com/CECTC/dbpack A db proxy for distributed transaction, read write splitting and sharding! Support any language! It can be deployed as a sidecar in a pod.
 
 https://github.com/go-tk/vk8s Setting up a virtual Kubernetes cluster inside a Docker container for integration testing

@@ -95,6 +95,9 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://www.theguardian.com/australia-news/2020/mar/08/melbourne-professor-quits-after-health-department-pressures-her-over-data-breach
+> https://news.ycombinator.com/item?id=31966254
+
 https://www.engadget.com/data-privacy-period-tracking-apps-130054404.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAAvtNkNKU017n9VYvrBO8ubKNezlhpj0CTffH7Kw3eNCNyXskYewoY7toCjkEjM-oQv6LsZvZ4HMc8I3yPPvlSF0KpouSPkVilHK3TDe-A02Lkq6aYs9uLmH5BcPp6ZGKDb37AYK6Ehkead3T4nQhXOrKM1NGDpS6J9AJplHr4Wf
 > https://news.ycombinator.com/item?id=31920427
 

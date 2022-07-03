@@ -1,3 +1,13 @@
+https://www.dsecbypass.com/en/love-actuator/
+
+https://www.elttam.com/blog/golang-codereview/#content
+
+https://spidersilk.com/news/Its-Been-Zero-Days-Since-BIND9-Crashed
+
+https://hitcon.org/2016/pacific/0composition/pdf/1202/1202%20R0%200930%20an%20intelligance-driven%20approach%20to%20cyber%20defense.pdf
+
+https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concepts for Linus Henze's CoreTrust and DriverKit bugs (CVE-2022-26766, CVE-2022-26763)
+
 https://jira.atlassian.com/browse/JRASERVER-73863 Full Read SSRF in Mobile Plugin CVE-2022-26135
 
 https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/
@@ -2301,6 +2311,7 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://citizenlab.ca/2022/04/uk-government-officials-targeted-pegasus/
 > > https://news.ycombinator.com/item?id=31075558
 > https://www.bleepingcomputer.com/news/security/newly-found-zero-click-iphone-exploit-used-in-nso-spyware-attacks/
+> https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

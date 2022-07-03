@@ -59,6 +59,10 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.businessinsider.com/satellites-locate-source-of-methane-leaks-to-fight-climate-crisis-2022-7?r=US&IR=T
+> https://www.ghgsat.com/en/products-services/data-sat/
+> https://news.ycombinator.com/item?id=31969505
+
 https://www.recoolit.com/post/no-refrigerant-left-behind
 > https://news.ycombinator.com/item?id=31946390
 

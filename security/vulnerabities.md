@@ -2,6 +2,8 @@ https://www.cve.org/
 > https://github.com/CVEProject/cve-schema/blob/master/schema/v5.0/CVE_JSON_5.0_schema.json
 
 # References
+https://cert.europa.eu/publications/security-advisories
+
 https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 https://nvd.nist.gov/vuln

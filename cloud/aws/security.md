@@ -21,6 +21,9 @@ https://blog.assetnote.io/2022/02/13/dangling-eips/
 https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 
 #
+https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/welcome.html
+> https://catalog.workshops.aws/startup-security-baseline/en-US
+
 https://github.com/rebuy-de/aws-nuke
 > https://news.ycombinator.com/item?id=31962014
 

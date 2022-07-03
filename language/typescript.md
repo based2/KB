@@ -72,7 +72,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
-https://main.vitejs.dev/
+https://main.vitejs.dev/ JS transpiling and bundling for you
+> https://news.ycombinator.com/item?id=31967420
 
 https://github.com/maverick-js/observables
 > https://news.ycombinator.com/item?id=31884038

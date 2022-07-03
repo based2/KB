@@ -79,6 +79,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://lab.quantumflytrap.com/lab Visualizing quantum mechanics in an interactive simulation
+> https://news.ycombinator.com/item?id=31968280
+
 https://en.wikipedia.org/wiki/Quantum_Zeno_effect
 
 https://www.spiedigitallibrary.org/journals/optical-engineering/volume-61/issue-08/081808/Visualizing-quantum-mechanics-in-an-interactive-simulation--Virtual-Lab/10.1117/1.OE.61.8.081808.full?SSO=1

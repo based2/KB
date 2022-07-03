@@ -415,6 +415,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://duktape.org/ Embeddable Javascript engine
+> https://news.ycombinator.com/item?id=31966374
+> > https://bellard.org/quickjs/
+
 https://twitter.com/i/events/1218283019083157505 Reverse Compiler / Reversing Transpiler
 
 https://lofi.limo/blog/retry-xmlhttprequest-carefully

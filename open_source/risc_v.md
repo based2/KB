@@ -1,3 +1,5 @@
+https://blog.stephenmarz.com/2022/06/30/msi/
+
 https://www.phoronix.com/scan.php?page=news_item&px=RISC-V-Dev-Laptop
 
 https://riscv.org/announcements/2022/06/risc-v-announces-first-new-specifications-of-2022-adding-to-16-ratified-in-2021-risc-v-international/

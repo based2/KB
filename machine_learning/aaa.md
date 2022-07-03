@@ -218,6 +218,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.technologyreview.com/2022/06/24/1054817/yann-lecun-bold-new-vision-future-ai-deep-learning-meta/
+
 https://minerva-demo.github.io/#category=Algebra&index=1 Minerva: Solving Quantitative Reasoning Problems with Language Models
 > https://news.ycombinator.com/item?id=31944680
 

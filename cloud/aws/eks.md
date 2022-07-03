@@ -21,10 +21,29 @@ https://aws.amazon.com/en/blogs/opensource/network-load-balancer-nginx-ingress-c
 
 https://medium.com/devoops-and-universe/kubernetes-nginx-ingress-aws-with-custom-configs-9f9a55b8fae1
 
+https://aws.amazon.com/en/blogs/opensource/introducing-fine-grained-iam-roles-service-accounts/
+
 # Sec
 https://blog.christophetd.fr/privilege-escalation-in-aws-elastic-kubernetes-service-eks-by-compromising-the-instance-role-of-worker-nodes/
 
+https://aws.github.io/aws-eks-best-practices/security/docs/data/
+
+https://stackoverflow.com/questions/50270264/asg-cant-launch-instances-anymore-with-encrypted-ebs-root-volume
+
+https://github.com/kubernetes/kubernetes/issues/62171
+
+https://github.com/aws/containers-roadmap/issues/263
+
 #
+https://aws.amazon.com/en/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/
+
+https://aws-controllers-k8s.github.io/community/docs/community/services/
+
+https://github.com/rustrial/aws-eks-iam-auth-controller
+
+https://aws.amazon.com/en/blogs/containers/amazon-eks-control-plane-auto-scaling-enhancements-improve-speed-by-4x/
+> https://www.reddit.com/r/aws/comments/vmiol5/amazon_eks_improves_control_plane_scaling_and/
+
 https://github.com/aws-samples/private-eks-for-windows-workloads-with-terraform/tree/main/network
 
 https://github.com/aws/containers-roadmap/issues/585#issuecomment-568886283

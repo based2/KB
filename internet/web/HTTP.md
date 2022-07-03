@@ -153,6 +153,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://www.smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/
+
 https://news.ycombinator.com/item?id=31956318 response code
 
 https://www.rfc-editor.org/info/rfc9205 Building Protocols with HTTP

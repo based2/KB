@@ -17,6 +17,8 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://www.hashicorp.com/blog/vault-1-11
+
 https://github.com/jkosik/gitlab-ci-image-scanner
 
 https://sysdig.com/blog/containers-read-only-fileless-malware/

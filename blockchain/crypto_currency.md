@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/
+> https://news.ycombinator.com/item?id=31968647
+
 https://www.tradingview.com/chart/EGLDUSDT/A5kJz0a5-1-65-million-EGLD-hack-113-million-Elrond-eGold-stolen/
 
 https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9
