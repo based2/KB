@@ -7,3 +7,6 @@ https://utcc.utoronto.ca/~cks/space/blog/programming/YAMLAndConfigurationFiles
 
 https://nestedtext.org/en/latest/alternatives.html#yaml
 > https://news.ycombinator.com/item?id=29220320
+
+https://hitchdev.com/strictyaml/
+> https://news.ycombinator.com/item?id=31965395

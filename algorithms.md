@@ -81,6 +81,12 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://arxiv.org/abs/2201.02177 Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
+> https://news.ycombinator.com/item?id=31958624
+
+https://bost.ocks.org/mike/algorithms/
+> https://news.ycombinator.com/item?id=31943531
+
 https://dotat.at/@/2022-06-27-tolower-swar.html
 > https://news.ycombinator.com/item?id=31900872
 

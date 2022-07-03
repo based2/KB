@@ -240,6 +240,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://wesmckinney.com/book/
+
 https://github.com/x2bool/xlite
 > https://news.ycombinator.com/item?id=31874767
 

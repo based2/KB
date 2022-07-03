@@ -72,6 +72,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://main.vitejs.dev/
+
 https://github.com/maverick-js/observables
 > https://news.ycombinator.com/item?id=31884038
 

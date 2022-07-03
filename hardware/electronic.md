@@ -44,3 +44,7 @@ https://github.com/TUDSSL/BFree
 
 # VHDL
 https://verik.io/docs/overview/ 
+
+#
+https://nostarch.com/open-circuits
+> https://news.ycombinator.com/item?id=31942329

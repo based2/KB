@@ -36,6 +36,9 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 > https://news.ycombinator.com/item?id=29388588
 
 # News
+https://medium.com/pinterest-engineering/improving-distributed-caching-performance-and-efficiency-at-pinterest-92484b5fe39b
+> https://news.ycombinator.com/item?id=31954518
+
 https://simonhearne.com/2020/network-faster-than-cache/
 > https://news.ycombinator.com/item?id=31922762
 

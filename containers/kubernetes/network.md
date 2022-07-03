@@ -1,3 +1,5 @@
+https://www.containiq.com/post/kubernetes-network-policies
+
 https://medium.com/flant-com/comparing-ingress-controllers-for-kubernetes-9b397483b46b
 
 https://www.armosec.io/blog/kubernetes-ingress-security/

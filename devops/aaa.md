@@ -196,6 +196,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://matt-rickard.com/the-end-of-ci/
+> https://news.ycombinator.com/item?id=31965268
+
+https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/
+> https://news.ycombinator.com/item?id=31956871
+
 https://spdx.org/licenses/
 
 https://eng.uber.com/how-we-halved-go-monorepo-ci-build-time/

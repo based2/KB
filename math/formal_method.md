@@ -47,6 +47,9 @@ https://surfingcomplexity.blog/2018/12/24/tla-is-hard-to-learn/
 
 https://github.com/informalsystems/modelator-py
 
+https://www.hillelwayne.com/post/learntla/
+> https://news.ycombinator.com/item?id=31952643
+
 # Z3 Microsoft
 https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb
 > https://news.ycombinator.com/item?id=27045771
@@ -67,6 +70,8 @@ https://github.com/stateright/stateright
 http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties
 
 # News
+https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/
+
 https://github.com/sarsko/CreuSAT formally verified SAT solver written in Rust and verified with Creusot
 > https://news.ycombinator.com/item?id=31780128
 

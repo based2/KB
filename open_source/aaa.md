@@ -230,6 +230,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9 Rich Hickey – Open Source is Not About You (2018)
+> https://news.ycombinator.com/item?id=31957554
+
 https://llunak.blogspot.com/2022/05/improving-calc-support-for-16384-columns.html
 > https://news.ycombinator.com/item?id=31921308
 

@@ -34,6 +34,12 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://developer.yr.no/
+> https://news.ycombinator.com/item?id=31965812
+
+https://developer.apple.com/weatherkit/
+> https://news.ycombinator.com/item?id=31964867
+
 https://creon.substack.com/p/hot-or-o
 > https://news.ycombinator.com/item?id=31840139
 

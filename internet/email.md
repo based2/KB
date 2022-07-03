@@ -121,6 +121,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+http://news.bbc.co.uk/2/hi/science/nature/2138014.stm Yahoo admits mangling e-mail
+> https://news.ycombinator.com/item?id=31959890
+
 https://news.ycombinator.com/item?id=31929015 #mailtags
 
 https://blog.thunderbird.net/2022/06/thunderbird-102-released-a-serious-upgrade-to-your-communication/

@@ -60,6 +60,12 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://cs.github.com/about
+> https://news.ycombinator.com/item?id=31964517
+
+https://github.com/codemix/deprank
+> https://news.ycombinator.com/item?id=31944278
+
 https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/
 
 https://brave.com/search-anniversary/

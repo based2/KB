@@ -189,6 +189,9 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://frontendmastery.com/posts/the-new-wave-of-react-state-management/
+> https://news.ycombinator.com/item?id=31959289
+
 https://medium.com/gumgum-tech/faster-development-experience-with-vite-hugo-and-preact-c08cbcfce5fb
 
 https://news.ycombinator.com/item?id=31837759 Show HN: Hagana – Runtime protection for Node.js to block supply chain attacks

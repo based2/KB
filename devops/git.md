@@ -259,6 +259,13 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.blog/2022-06-30-write-better-commits-build-better-projects/
+
+https://github.blog/2022-06-27-highlights-from-git-2-37/
+
+https://codewords.recurse.com/issues/two/git-from-the-inside-out
+> https://news.ycombinator.com/item?id=31964814
+
 https://github.blog/2022-06-29-improve-git-monorepo-performance-with-a-file-system-monitor/
 > https://news.ycombinator.com/item?id=31924554
 

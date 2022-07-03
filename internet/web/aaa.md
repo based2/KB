@@ -99,6 +99,11 @@ https://github.com/maxcountryman/warc-parquet
 > https://news.ycombinator.com/item?id=31867179
 
 # News
+https://lunduke.substack.com/p/w3c-announces-web-311-web-for-workgroups
+
+https://www.theregister.com/2022/07/01/w3c_overrules_objections/
+> https://news.ycombinator.com/item?id=31956950
+
 https://developer.tbd.website/projects/web5/
 > https://news.ycombinator.com/item?id=31702724
 

@@ -153,6 +153,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://news.ycombinator.com/item?id=31956318 response code
+
 https://www.rfc-editor.org/info/rfc9205 Building Protocols with HTTP
 
 https://webdevguild.com/blog/10-things-http/?ck_subscriber_id=1253041713

@@ -11,6 +11,9 @@ https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messa
 > https://news.ycombinator.com/item?id=27587911
 
 # News
+https://blog.joinmastodon.org/2022/06/mastodon-branding-updates/
+> https://news.ycombinator.com/item?id=31957477
+
 https://lukesmith.xyz/articles/matrix-vs-xmpp
 
 https://www.trickster.dev/post/sending-notifications-programmatically/

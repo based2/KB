@@ -91,6 +91,11 @@ https://www.gopl.io/
 > https://www.practical-go-lessons.com/  https://www.practical-go-lessons.com/buy-digital-or-hard-copy
 > > https://news.ycombinator.com/item?id=26568014
 
+# Async
+https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+> https://news.ycombinator.com/item?id=31955334
+> > https://news.ycombinator.com/item?id=31956938
+
 # News
 https://www.tbray.org/ongoing/When/202x/2022/06/25/Small-Tables
 > https://news.ycombinator.com/item?id=31890672

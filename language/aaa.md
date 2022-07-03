@@ -274,6 +274,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+http://intuitionistic.org/
+> https://news.ycombinator.com/item?id=31964766
+
 https://blog.frankel.ch/hard-things-computer-science/
 > https://news.ycombinator.com/item?id=31885110
 

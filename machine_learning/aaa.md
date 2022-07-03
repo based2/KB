@@ -218,6 +218,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://minerva-demo.github.io/#category=Algebra&index=1 Minerva: Solving Quantitative Reasoning Problems with Language Models
+> https://news.ycombinator.com/item?id=31944680
+
+https://bair.berkeley.edu/blog/2022/05/20/crosswords/
+> https://news.ycombinator.com/item?id=31945504
+
 https://scottaaronson.blog/?p=6524 Steven Pinker and I debate AI scaling
 
 https://thereader.mitpress.mit.edu/how-did-consciousness-evolve-an-illustrated-guide/

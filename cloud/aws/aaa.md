@@ -78,6 +78,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://www.reddit.com/r/aws/comments/voiy19/the_new_aws_region_in_zaragoza_spain_is_called/ .ES .IL
+
 https://news.ycombinator.com/item?id=31907374 Tell HN: I DDoSed myself using CloudFront and Lambda Edge and got a $4.5k bill
 
 https://dev.to/aws/aws-open-source-news-and-updates-116-22dj

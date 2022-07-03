@@ -111,6 +111,10 @@ https://mosh.org/
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html
+> https://news.ycombinator.com/item?id=31955970
+> > https://github.com/juanfont/headscale
+
 https://tailscale.com/blog/tailscale-ssh/
 > https://news.ycombinator.com/item?id=31837115
 

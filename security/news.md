@@ -1,3 +1,23 @@
+https://jira.atlassian.com/browse/JRASERVER-73863 Full Read SSRF in Mobile Plugin CVE-2022-26135
+
+https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/
+
+https://www.openssl.org/news/secadv/20220621.txt c_rehash script allows command injection CVE-2022-2068
+
+https://github.blog/changelog/2022-07-01-dependabot-alerts-paused-for-malware-advisories/
+> https://news.ycombinator.com/item?id=31962745
+
+https://www.thinkingcybersecurity.com/DigitalID/
+> https://news.ycombinator.com/item?id=31966254
+
+https://www.bakgame.de/
+
+https://hardenedvault.net/blog/2022-01-15-sgx-deprecated/
+
+https://blog.christophetd.fr/abusing-cloudflare-workers/
+
+https://github.blog/2022-06-29-the-chromium-super-inline-cache-type-confusion/
+
 https://blog.talosintelligence.com/2022/06/de-anonymizing-ransomware-domains-on.html
 > https://news.ycombinator.com/item?id=31911075
 
@@ -199,7 +219,7 @@ https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-041.p
 
 https://nvd.nist.gov/vuln/detail/CVE-2022-29186 rundeck
 
-https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html
+https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html CVE-2022-26134
 > https://www.bleepingcomputer.com/news/security/linux-botnets-now-exploit-critical-atlassian-confluence-bug/
 > https://www.volexity.com/blog/2022/06/02/zero-day-exploitation-of-atlassian-confluence/
 > https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-006/

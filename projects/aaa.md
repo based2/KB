@@ -192,6 +192,11 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/
+> https://news.ycombinator.com/item?id=31960814
+
+https://news.ycombinator.com/item?id=31963460
+
 https://phaazon.net/blog/blog/development-environments
 > https://news.ycombinator.com/item?id=31892775
 

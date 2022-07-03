@@ -12,6 +12,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain
+> https://news.ycombinator.com/item?id=31966435
+
+https://phys.org/news/2022-06-holy-grail-catalysisturning-methane-methanol.html
+> https://news.ycombinator.com/item?id=31944541
+
 https://cleantechnica.com/2022/06/20/seattle-offers-utility-pole-ev-chargers-to-city-residents/
 
 https://www.energy.gov/articles/doe-announces-breakthrough-residential-cold-climate-heat-pump-technology

@@ -21,7 +21,21 @@ https://aws.amazon.com/en/blogs/opensource/network-load-balancer-nginx-ingress-c
 
 https://medium.com/devoops-and-universe/kubernetes-nginx-ingress-aws-with-custom-configs-9f9a55b8fae1
 
+# Sec
+https://blog.christophetd.fr/privilege-escalation-in-aws-elastic-kubernetes-service-eks-by-compromising-the-instance-role-of-worker-nodes/
+
 #
+https://github.com/aws-samples/private-eks-for-windows-workloads-with-terraform/tree/main/network
+
+https://github.com/aws/containers-roadmap/issues/585#issuecomment-568886283
+> https://github.com/aws/containers-roadmap/issues/585
+
+https://github.com/aws/amazon-eks-pod-identity-webhook
+
+https://distro.eks.amazonaws.com/users/install/
+
+https://ongres.com/blog/63-node-eks-cluster-running-on-a-single-instance-with-firecracker/
+
 https://eks.news/archives/021/
 
 https://eng.grip.security/enabling-aws-iam-group-access-to-an-eks-cluster-using-rbac

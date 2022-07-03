@@ -53,6 +53,10 @@ https://www.notebookcheck.net/Framework-doubles-down-on-repairability-now-sells-
 https://www.reuters.com/investigates/special-report/environment-plastic-oil-recycling/
 > https://news.ycombinator.com/item?id=28018057
 
+# Sustainability
+https://www.economist.com/science-and-technology/2018/06/15/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres
+> https://news.ycombinator.com/item?id=31942835
+
 # News
 https://www.androidpolice.com/ifixit-genuine-pixel-parts-on-sale/
 

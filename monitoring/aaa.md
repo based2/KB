@@ -73,6 +73,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+> https://news.ycombinator.com/item?id=31952128
+
 https://github.com/upptime/upptime
 > https://news.ycombinator.com/item?id=31927902
 

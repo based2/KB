@@ -19,6 +19,8 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://techxplore.com/news/2022-07-motorless-sailplanes-mars-exploration.html
+
 https://www.jpl.nasa.gov/news/nasas-perseverance-rover-captures-video-of-solar-eclipse-on-mars
 
 https://www.usgs.gov/news/caves-mars

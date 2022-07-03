@@ -219,6 +219,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://guicommits.com/how-to-log-in-python-like-a-pro/
+> https://news.ycombinator.com/item?id=31945564
+
 https://deepsource.io/blog/python-3-11-whats-new/
 > https://news.ycombinator.com/item?id=31888624
 

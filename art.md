@@ -74,3 +74,5 @@ https://artsandculture.google.com/story/the-klimt-color-enigma/SQWxuZfE5ki3mQ?hl
 
 https://www.ai-darobot.com/
 
+https://www.openculture.com/2020/11/artist-kenichi-kanazawa-makes-amazing-geometric-designs-out-of-sand.html
+> https://news.ycombinator.com/item?id=31950974

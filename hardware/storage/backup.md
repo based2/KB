@@ -42,6 +42,8 @@ https://restic.net/blog/2022-03-26/restic-0.13.0-released/
 https://www.rsync.net/resources/notes/2021-q4-rsync.net_technotes.html
 > https://news.ycombinator.com/item?id=30591663
 
+https://michael.stapelberg.ch/posts/2022-07-02-rsync-how-does-it-work/
+
 https://blog.zazu.berlin/software/a-almost-perfect-rsync-over-ssh-backup-script.html
 > https://news.ycombinator.com/item?id=30465581
 

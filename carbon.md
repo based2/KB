@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.recoolit.com/post/no-refrigerant-left-behind
+> https://news.ycombinator.com/item?id=31946390
+
 https://www.tuwien.at/en/tu-wien/news/press-releases/news/neue-technik-fuer-den-klimaschutz-aus-co2-wird-methanol
 > https://news.ycombinator.com/item?id=31910853
 

@@ -251,6 +251,8 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://supabase.com/blog/2022/06/28/partial-postgresql-data-dumps-with-rls
+
 https://andreas.scherbaum.la/blog/archives/1116-PostgreSQL-Upgrades-are-hard!.html#_content
 > https://news.ycombinator.com/item?id=31873063
 

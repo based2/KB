@@ -32,6 +32,9 @@ https://support.apple.com/guide/security/sec469d47bd8/web
 > https://www.reddit.com/r/macsysadmin/comments/sznw8u/xprotect_logs_on_monterey/
 > https://nixhacker.com/security-protection-in-macos-2/
 
+https://www.puredarwin.org/
+> https://news.ycombinator.com/item?id=31943198
+
 # VM
 https://github.com/foxlet/macOS-Simple-KVM
 
@@ -235,6 +238,8 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://www.theverge.com/2022/7/1/23191141/apple-macbook-pro-13-m2-base-model-slow-device
+
 https://github.com/p0deje/Maccy
 > https://news.ycombinator.com/item?id=31867121
 

@@ -56,6 +56,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.zdnet.fr/actualites/comment-postgresql-anonymizer-aide-les-entreprises-a-se-conformer-au-rgpd-39943894.htm
+> https://www.postgresql.org/about/news/postgresql-anonymizer-10-privacy-by-design-for-postgres-2452/
+
 https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/9782874#english Italian SA bans use of Google Analytics, No adequate safeguards for data transfers to the USA
 > https://news.ycombinator.com/item?id=31852384
 

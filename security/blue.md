@@ -13,3 +13,5 @@ https://blog.0x3a.com/post/141950176719/playing-games-with-an-attacker-how-i-mes
 
 https://github.com/hasherezade/hollows_hunter Scans all running processes. Recognizes and dumps a variety of potentially malicious implants
 > https://news.ycombinator.com/item?id=30138266
+
+https://github.com/riza/linx

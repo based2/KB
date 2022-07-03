@@ -200,6 +200,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://spectrum.ieee.org/landsat
+> https://news.ycombinator.com/item?id=31941873
+
 https://diego.codes/post/som-tsp/
 
 https://www.ianvisits.co.uk/articles/3d-maps-of-every-underground-station-ab-14630/

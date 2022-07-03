@@ -113,6 +113,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/
+> https://news.ycombinator.com/item?id=31944575
+
 https://github.com/hackclub/some-assembly-required
 > https://news.ycombinator.com/item?id=31909183
 

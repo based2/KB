@@ -88,7 +88,12 @@ https://betterprogramming.pub/implementing-an-email-masking-proof-of-concept-usi
 # Azure
 https://github.com/andreipintica/azure-terrafy-handsonlab
 
+https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
+
 # News
+https://github.com/hashicorp/terraform/issues/30937 Unknown values should not block successful planning
+> https://github.com/aws-ia/terraform-aws-eks-blueprints/issues/496
+
 https://news.ycombinator.com/item?id=31921313 Show HN: Infracost (YC W21): Cloud Costs for Terraform in VSCode
 
 https://www.hashicorp.com/blog/terraform-cloud-adds-drift-detection-for-infrastructure-management

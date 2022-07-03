@@ -23,6 +23,11 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.tradingview.com/chart/EGLDUSDT/A5kJz0a5-1-65-million-EGLD-hack-113-million-Elrond-eGold-stolen/
+
+https://lite.cnn.com/en/article/h_f87d0743d61d524d95314c10648745a9
+> https://news.ycombinator.com/item?id=31956947
+
 https://kasper-vandeloock.medium.com/profiting-from-inefficiencies-in-the-crypto-markets-funding-rates-1d21e2cefac9
 
 https://www.cnbc.com/2022/06/24/hackers-steal-100-million-in-crypto-from-harmonys-horizon-bridge.html

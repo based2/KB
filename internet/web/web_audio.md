@@ -38,3 +38,6 @@ https://www.taniarascia.com/musical-instrument-web-audio-api/
 
 https://martinmelhus.com/web-audio-modem
 > https://news.ycombinator.com/item?id=31530379
+
+https://web.dev/audio-scheduling/
+> https://news.ycombinator.com/item?id=31935058

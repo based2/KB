@@ -172,7 +172,6 @@ https://bholley.net/blog/2015/must-be-this-tall-to-write-multi-threaded-code.htm
 > https://news.ycombinator.com/item?id=31685277
 
 https://kerkour.com/cooperative-vs-preemptive-scheduling
-> 
 
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
@@ -350,6 +349,9 @@ https://model-checking.github.io//kani-verifier-blog/2022/06/01/using-the-kani-r
 
 https://arxiv.org/abs/2206.07185 Aeneas: Rust Verification by Functional Translation
 
+https://blog.sunfishcode.online/broken-encapsulation/
+> https://news.ycombinator.com/item?id=31941089
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -387,6 +389,11 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://github.com/Rust-for-Linux/linux/pull/752
+> https://news.ycombinator.com/item?id=31955842
+
+https://notes.iveselov.info/programming/time_it-a-case-study-in-rust-macros
+
 https://jackh726.github.io/rust/2022/06/10/nll-stabilization.html
 
 https://mahdi.blog/rust-box-str-vs-string/

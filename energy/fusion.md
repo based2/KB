@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.nextbigfuture.com/2022/06/avalanche-energy-funded-to-develop-micro-fusion-reactors.html
+
 https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion
 
 https://twitter.com/swurzel/status/1534556521744457731
