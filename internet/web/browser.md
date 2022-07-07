@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://github.com/awesomekling/ladybird
+> https://news.ycombinator.com/item?id=31987506
+
 https://github.com/Bonsai-Desk/bonsai-browser
 > https://news.ycombinator.com/item?id=31945994
 

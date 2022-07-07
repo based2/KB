@@ -40,6 +40,15 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/
+> https://news.ycombinator.com/item?id=31988367
+
+https://cryptofireside.com/goodbye-medium-hello-ghost-57c9b6d7349e
+> https://news.ycombinator.com/item?id=31972584
+
+http://www.cowclicker.com/
+> https://news.ycombinator.com/item?id=31979586
+
 https://sudopad.com/df2e9e8c-e828-48f5-9011-0283f397382b
 > https://news.ycombinator.com/item?id=31925712
 

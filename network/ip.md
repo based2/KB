@@ -56,6 +56,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://whynoipv6.com/
+> https://news.ycombinator.com/item?id=31973008
+
 https://ipv4marketgroup.com/ipv4-pricing/
 > https://news.ycombinator.com/item?id=31967583
 

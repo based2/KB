@@ -60,6 +60,9 @@ https://www.hyperui.dev/
 https://play.tailwindcss.com/
 > https://news.ycombinator.com/item?id=31692267
 
+https://preline.co/
+> https://news.ycombinator.com/item?id=31989062
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916
@@ -196,6 +199,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://robbowen.digital/wrote-about/css-blend-mode-shaders/
+> https://news.ycombinator.com/item?id=32016391
+
 https://www.netlify.com/blog/fun-parallax-scrolling-css-for-matterday/
 
 https://defensivecss.dev/

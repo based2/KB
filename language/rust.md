@@ -389,6 +389,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://adeschamps.github.io/enum-size
+> https://news.ycombinator.com/item?id=32013205
+
 https://github.com/Rust-for-Linux/linux/pull/752
 > https://news.ycombinator.com/item?id=31955842
 

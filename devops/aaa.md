@@ -119,6 +119,8 @@ https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 https://github.com/reposaur/reposaur Allows users and organizations to execute policies against GitHub data to generate reports, perform auditing and more
 
 # Incidents
+https://about.gitlab.com/releases/2022/06/30/critical-security-release-gitlab-15-1-1-released/#remote-command-execution-via-project-imports
+
 https://www.githubstatus.com/incidents/qzmhbwp7f6nn
 > https://news.ycombinator.com/item?id=31921024
 
@@ -196,6 +198,20 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/gogitdb/gitdb
+
+https://matt-rickard.com/what-comes-after-git/
+> https://news.ycombinator.com/item?id=31984450
+
+https://github.com/GauravDawra/Beast
+> https://news.ycombinator.com/item?id=31957976
+
+https://docs.gitlab.com/ee/development/architecture.html
+> https://news.ycombinator.com/item?id=31971684
+
+https://about.gitlab.com/blog/2022/06/02/splitting-database-into-main-and-ci/
+> https://news.ycombinator.com/item?id=31956871
+
 https://matt-rickard.com/the-end-of-ci/
 > https://news.ycombinator.com/item?id=31965268
 

@@ -189,6 +189,9 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html
+> https://news.ycombinator.com/item?id=31979347
+
 https://frontendmastery.com/posts/the-new-wave-of-react-state-management/
 > https://news.ycombinator.com/item?id=31959289
 
@@ -415,6 +418,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp
+> https://news.ycombinator.com/item?id=31984112
+
 https://duktape.org/ Embeddable Javascript engine
 > https://news.ycombinator.com/item?id=31966374
 > > https://bellard.org/quickjs/

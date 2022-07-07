@@ -78,6 +78,8 @@ https://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/
 https://github.com/Shopify/toxiproxy
 > https://news.ycombinator.com/item?id=29084277
 
+https://speedscale.com/speedscale-v1/
+
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
 

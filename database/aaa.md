@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://blog.codinghorror.com/why-cant-database-tables-index-themselves/
+> https://news.ycombinator.com/item?id=31990836
+
 https://architecturenotes.co/things-you-should-know-about-databases/
 > https://news.ycombinator.com/item?id=31895623
 

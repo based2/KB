@@ -1,3 +1,34 @@
+https://semiengineering.com/security-risks-widen-with-commercial-chiplets/
+
+https://taomm.org/vol1/read.html
+`> https://news.ycombinator.com/item?id=32011766`
+
+https://www.intezer.com/blog/incident-response/orbit-new-undetected-linux-threat/
+> https://news.ycombinator.com/item?id=32017997
+
+https://fly.io/blog/soc2-the-screenshots-will-continue-until-security-improves/
+> https://news.ycombinator.com/item?id=32018066
+
+https://www.troyhunt.com/understanding-have-i-been-pwneds-use-of-sha-1-and-k-anonymity/
+> https://news.ycombinator.com/item?id=31982381
+
+https://www.hackthebox.com/
+> https://news.ycombinator.com/item?id=31985473
+
+https://github.com/winterknife/PINKPANTHER Windows x64 handcrafted token stealing kernel-mode shellcode
+
+https://github.com/citronneur/pamspy Credentials Dumper for Linux with eBPF
+> https://news.ycombinator.com/item?id=31988820
+
+https://www.theregister.com/2022/07/05/shanghai_police_database_for_sell/
+> https://news.ycombinator.com/item?id=31986441
+
+https://portswigger.net/research/bypassing-firefoxs-html-sanitizer-api
+> https://www.reddit.com/r/netsec/comments/vqo7xq/bypassing_firefoxs_html_sanitizer_api/
+
+https://scottarc.blog/2022/07/04/police-cyberalarm-uses-alarming-cryptography/
+> https://news.ycombinator.com/item?id=31975914
+
 https://www.dsecbypass.com/en/love-actuator/
 
 https://www.elttam.com/blog/golang-codereview/#content
@@ -2312,6 +2343,7 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > > https://news.ycombinator.com/item?id=31075558
 > https://www.bleepingcomputer.com/news/security/newly-found-zero-click-iphone-exploit-used-in-nso-spyware-attacks/
 > https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
+> https://shadowfile.inode.link/blog/2022/07/revisiting-pegasus-on-ios9/
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

@@ -85,3 +85,6 @@ https://ricktu288.github.io/ray-optics/
 https://phys.org/news/2022-06-channel-optical-link-capable-transmitting.html
 
 https://www.sciencedaily.com/releases/2022/06/220615142217.htm Ultra-fast photonic computing processor uses polarization
+
+https://semiengineering.com/flip-chip-integration-of-a-gasb-semiconductor-optical-amplifier-with-a-silicon-photonic-circuit/
+> https://news.ycombinator.com/item?id=31977495

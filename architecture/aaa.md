@@ -223,6 +223,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html;jsessionid=A4C730DB242189E80140636047D21C4C.v5-web014
+
 https://www.hackpack.io/blog/great-practice-systems-design-questions
 > https://news.ycombinator.com/item?id=31867462
 

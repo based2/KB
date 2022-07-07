@@ -7,6 +7,9 @@ https://piroguetoolsuite.github.io/
 > https://news.ycombinator.com/item?id=31616837
 
 #
+https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking
+> https://news.ycombinator.com/item?id=31982898
+
 https://cacm.acm.org/magazines/2022/7/262078-the-keys-to-the-kingdom/fulltext
 > https://news.ycombinator.com/item?id=31838368
 

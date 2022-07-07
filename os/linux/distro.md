@@ -65,6 +65,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://blog.adafruit.com/2022/02/11/tiny-core-linux-13-0-is-a-full-linux-desktop-in-22-mb-linux/
+> https://news.ycombinator.com/item?id=31980068
+
 https://yum.oracle.com/oracle-linux-isos.html
 
 https://tails.boum.org/news/version_5.1.1/index.en.html

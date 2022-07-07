@@ -1,3 +1,6 @@
+https://github.com/gusmanb/logicanalyzer
+> https://news.ycombinator.com/item?id=31980989
+
 https://www.jeffgeerling.com/blog/2022/answering-questions-about-petapi
 > https://news.ycombinator.com/item?id=31846243
 

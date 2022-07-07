@@ -39,6 +39,10 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://css-tricks.com/single-element-loaders-going-3d/
+
+https://lwn.net/Articles/900134/ An Ubuntu kernel bug causes container crashes
+
 https://octoml.ai/blog/new-ai-ml-tool-for-fans-of-docker-compose-and-kubernetes-octoml-cli/
 
 https://github.com/kubernetes/minikube/pull/13829 Minikube now supports rootless podman driver for running Kubernetes

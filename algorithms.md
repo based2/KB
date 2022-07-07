@@ -56,6 +56,9 @@ https://danlark.org/2022/04/20/changing-stdsort-at-googles-scale-and-beyond/
 https://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html
 > https://news.ycombinator.com/item?id=31801814
 
+https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort
+> https://news.ycombinator.com/item?id=31975507
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184
@@ -81,6 +84,11 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://alexdowad.github.io/visualizing-nelder-mead/
+
+https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/
+> https://news.ycombinator.com/item?id=31992603
+
 https://arxiv.org/abs/2201.02177 Grokking: Generalization Beyond Overfitting on Small Algorithmic Datasets
 > https://news.ycombinator.com/item?id=31958624
 

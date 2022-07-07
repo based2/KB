@@ -200,6 +200,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://felt.com/
+> https://news.ycombinator.com/item?id=31982959
+
 https://spectrum.ieee.org/landsat
 > https://news.ycombinator.com/item?id=31941873
 

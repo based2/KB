@@ -153,6 +153,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/
+> https://news.ycombinator.com/item?id=31982026
+
 https://www.smashingmagazine.com/2022/05/rethinking-server-timing-monitoring-tool/
 
 https://news.ycombinator.com/item?id=31956318 response code

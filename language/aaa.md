@@ -131,6 +131,9 @@ https://github.com/eashanhatti/peridot exploring the practical applications of t
 
 https://www.tweag.io/blog/2022-05-05-existential-optics/
 
+https://github.com/hemanth/functional-programming-jargon
+> https://news.ycombinator.com/item?id=31944352
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721
@@ -274,6 +277,11 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://github.com/oskardudycz/EventSourcing.JVM/tree/main/samples/uniqueness Event Schema Versioning
+
+https://github.com/zesterer/tao statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.
+> https://news.ycombinator.com/item?id=31977220
+
 http://intuitionistic.org/
 > https://news.ycombinator.com/item?id=31964766
 

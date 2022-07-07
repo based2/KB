@@ -97,6 +97,12 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling
+> https://news.ycombinator.com/item?id=31978277
+
+https://liveblocks.io/blog/how-to-animate-multiplayer-cursors
+> https://news.ycombinator.com/item?id=31987713
+
 https://www.chessengines.org/
 > https://news.ycombinator.com/item?id=31964685
 

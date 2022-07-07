@@ -41,6 +41,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://www.sciencedirect.com/science/article/pii/S0957417422010430 
+> https://news.ycombinator.com/item?id=31975889
+
 https://arxiv.org/abs/2206.00272 Vision GNN: An Image is Worth Graph of Nodes
 
 https://github.com/sensity-ai/dot

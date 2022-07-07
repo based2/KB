@@ -27,6 +27,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://blogs.nasa.gov/artemis/2022/07/05/capstone-update-on-communications-issue/
+
 https://www.nasa.gov/specials/artemis-accords/index.html
 
 https://apod.nasa.gov/apod/ap180318.html

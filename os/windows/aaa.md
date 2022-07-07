@@ -120,6 +120,9 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://old.reddit.com/r/sysadmin/comments/vqcf67/windows_undocumented_emergency_restart/
+> https://news.ycombinator.com/item?id=31989552
+
 https://www.theregister.com/2022/06/24/windows_11_optional_update/
 
 https://www.theregister.com/2022/06/23/windows_11_22h2_is_almost/?td=rt-3a

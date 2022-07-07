@@ -71,6 +71,7 @@ http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with D
 
 # News
 https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/
+> https://news.ycombinator.com/item?id=31956870
 
 https://github.com/sarsko/CreuSAT formally verified SAT solver written in Rust and verified with Creusot
 > https://news.ycombinator.com/item?id=31780128

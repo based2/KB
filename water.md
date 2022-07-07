@@ -35,3 +35,6 @@ https://hydrocarbons21.com/new-german-study-finds-significant-amount-of-hfo-degr
 > https://news.ycombinator.com/item?id=31548234
 
 https://news.ycombinator.com/item?id=31678431 Enormous ‘rogue waves’ can appear out of nowhere
+
+https://www.newyorker.com/news/letter-from-the-southwest/the-water-wars-come-to-the-suburbs
+> https://news.ycombinator.com/item?id=31987408

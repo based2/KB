@@ -5,6 +5,12 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks
+> https://news.ycombinator.com/item?id=31979746
+
+https://finance.yahoo.com/news/silicon-valley-fantasizes-web3-india-130000320.html
+> https://en.wikipedia.org/wiki/Unified_Payments_Interface
+
 https://news.ycombinator.com/item?id=31699241 
 
 https://news.ycombinator.com/item?id=31663682 Google will not let me pay an invoice they sent me
@@ -25,7 +31,6 @@ https://arnon.dk/why-you-should-separate-your-billing-from-entitlement/
 > https://news.ycombinator.com/item?id=31324641
 
 https://nullprogram.com/blog/2022/04/30/ Luhn algorithm using SWAR and SIMD
-> 
 
 https://www.linkedin.com/posts/catherinelesuisse_im-also-one-of-the-users-of-n26-who-got-activity-6922498367302344704-1tzC
 > https://news.ycombinator.com/item?id=31100678

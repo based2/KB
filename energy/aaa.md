@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://electrek.co/2022/07/01/rhode-island-renewables-electricity-target-2033/
+> https://news.ycombinator.com/item?id=31978837
+
 https://github.com/Lkruitwagen/global-fossil-fuel-supply-chain
 > https://news.ycombinator.com/item?id=31966435
 

@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/microsoft-finds-raspberry-robin-worm-in-hundreds-of-windows-networks/
+
 https://www.openpolicyagent.org/
 
 https://github.com/kyverno/kyverno/ Policy engine 
@@ -62,6 +64,8 @@ https://tanzu.vmware.com/developer/guides/platform-security-secrets-sa-what-is/
 https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf8171d0
 
 # News
+https://sectool.co/blog/ebpf-based-security
+
 https://blog.cloudflare.com/kubectl-with-zero-trust/
 
 https://medium.com/@hosein.yousefi/vault-cluster-with-auto-unseal-on-kubernetes-8e469f9cdcfd

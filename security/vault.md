@@ -39,6 +39,8 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 #
+https://mjtsai.com/blog/2022/06/29/passkeys/
+
 https://bulwark.id/blog/vault/ Let's Build an End-to-end Encrypted Data Store
 > https://news.ycombinator.com/item?id=31782971
 

@@ -32,6 +32,9 @@ https://support.apple.com/guide/security/sec469d47bd8/web
 > https://www.reddit.com/r/macsysadmin/comments/sznw8u/xprotect_logs_on_monterey/
 > https://nixhacker.com/security-protection-in-macos-2/
 
+https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html
+> https://news.ycombinator.com/item?id=31973232
+
 https://www.puredarwin.org/
 > https://news.ycombinator.com/item?id=31943198
 

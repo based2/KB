@@ -91,6 +91,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://www.phoronix.com/scan.php?page=news_item&px=Lennart-Poettering-Out-Red-Hat
+> https://news.ycombinator.com/item?id=31991311
+
 https://changelog.complete.org/archives/10396-i-finally-found-a-solid-debian-tablet-the-surface-go-2
 > https://news.ycombinator.com/item?id=31873440
 

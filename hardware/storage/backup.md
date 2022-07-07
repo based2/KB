@@ -32,6 +32,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://blog.lenny.ninja/zrepl-on-rsync-net.html
+> https://news.ycombinator.com/item?id=32014969
+
 https://github.com/wal-g/wal-g Archival and Restoration for databases in the Cloud
 
 https://cyounkins.medium.com/correct-backups-require-filesystem-snapshots-23062e2e7a15

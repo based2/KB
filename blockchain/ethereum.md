@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://0xfoobar.substack.com/p/ethereum-proof-of-stake
+> https://news.ycombinator.com/item?id=32012352
+
 https://hothardware.com/news/crypto-crashed-hard-no-longer-profitable-mine-ethereum
 > https://news.ycombinator.com/item?id=31782914
 

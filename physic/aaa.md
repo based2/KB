@@ -69,6 +69,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://home.cern/news/news/physics/lhcb-discovers-three-new-exotic-particles
+> https://news.ycombinator.com/item?id=31987128
+
 https://www.eetimes.com/purdue-starts-comprehensive-semiconductor-degree-programs-in-u-s/
 > https://news.ycombinator.com/item?id=31756704
 

@@ -7,6 +7,12 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/
+> https://news.ycombinator.com/item?id=32006791
+
+https://www.bbc.com/news/science-environment-61996520
+> https://news.ycombinator.com/item?id=31993077
+
 https://www.wired.com/story/china-lithium-mining-production/
 
 https://asianometry.substack.com/p/catls-sodium-ion-battery-explained?s=r

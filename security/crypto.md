@@ -115,6 +115,12 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk
+> https://news.ycombinator.com/item?id=31990276
+
+https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms
+> https://news.ycombinator.com/item?id=31990696
+
 https://news.ycombinator.com/item?id=31873896 Ask HN: Seeking Cryptography Certification
 
 https://timing.attacks.cr.yp.to/
