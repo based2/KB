@@ -1,5 +1,7 @@
 https://www.ssh.com/academy/ssh/ssh-key-basics
 
+https://www.marcobehler.com/guides/ssh-cheat-sheet
+
 https://blog.rebased.pl/2021/03/23/ssh-keygen-2021.html
 
 https://www.openssh.com/
@@ -111,6 +113,8 @@ https://mosh.org/
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://ssh-comparison.quendi.de/comparison/cipher.html
+
 https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html
 > https://news.ycombinator.com/item?id=31955970
 > > https://github.com/juanfont/headscale

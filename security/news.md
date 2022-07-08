@@ -1,3 +1,18 @@
+https://dangerzone.rocks/about.html
+
+https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-33980 Apache Commons Configuration
+
+https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/
+> https://news.ycombinator.com/item?id=32003756
+
+https://www.vice.com/en/article/v7veg8/anom-app-source-code-operation-trojan-shield-an0m
+> https://news.ycombinator.com/item?id=32013591
+
+https://vigilance.fr/vulnerabilite/YubiHSM-Connector-vulnerabilite-38735
+
+https://meshtastic.org/docs/about ncrypted communications platform for the Lora RF protocol
+> https://news.ycombinator.com/item?id=32016142
+
 https://semiengineering.com/security-risks-widen-with-commercial-chiplets/
 
 https://taomm.org/vol1/read.html

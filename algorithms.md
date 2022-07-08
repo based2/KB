@@ -84,6 +84,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://pyalgoviz.appspot.com/
+> https://news.ycombinator.com/item?id=32021852
+
 https://alexdowad.github.io/visualizing-nelder-mead/
 
 https://insidegovuk.blog.gov.uk/2022/07/04/opening-up-our-code-and-logic-for-algorithmic-decision-making/

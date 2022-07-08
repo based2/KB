@@ -219,6 +219,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/faster-cpython/ideas/blob/main/main-vs-310.rst
+> https://news.ycombinator.com/item?id=32002057
+
 https://red-engine.readthedocs.io/en/stable/index.html Red Engine: modern scheduling framework for Python applications
 > https://news.ycombinator.com/item?id=31969345
 

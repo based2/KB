@@ -7,6 +7,8 @@ https://piroguetoolsuite.github.io/
 > https://news.ycombinator.com/item?id=31616837
 
 #
+https://astrid.tech/2022/07/07/0/blink-mini-disassembly/
+
 https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking
 > https://news.ycombinator.com/item?id=31982898
 

@@ -277,6 +277,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://arxiv.org/abs/2111.03354 Programming with union, intersection, and negation types
+> https://news.ycombinator.com/item?id=32018751
+
 https://github.com/oskardudycz/EventSourcing.JVM/tree/main/samples/uniqueness Event Schema Versioning
 
 https://github.com/zesterer/tao statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.

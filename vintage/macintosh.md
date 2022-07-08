@@ -98,6 +98,9 @@ http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/2
 https://news.ycombinator.com/item?id=27409410
 
 #
+https://github.com/jaromaz/MacintoshPi
+> https://news.ycombinator.com/item?id=32000233
+
 https://boxes-of-tat.blogspot.com/2022/05/linux-for-powerpc-on-qemu-mac99-system.html
 
 https://www.instructables.com/Making-a-Tiny-Mac-From-a-Raspberry-Pi-Zero/

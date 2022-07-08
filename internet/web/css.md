@@ -199,6 +199,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.miriamsuzanne.com/2022/07/04/body-margin-8px/?ref=heydesigner
+> https://news.ycombinator.com/item?id=32012171
+
 https://robbowen.digital/wrote-about/css-blend-mode-shaders/
 > https://news.ycombinator.com/item?id=32016391
 

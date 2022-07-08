@@ -62,7 +62,10 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
-https://www.vcluster.com/
+https://github.com/pluralsh/plural multi cloud deployment
+> https://news.ycombinator.com/item?id=32024494
+
+https://www.vcluster.com/ multi tenant
 > https://github.com/loft-sh/vcluster
 
 https://www.thinksys.com/devops/kubernetes-multi-tenancy/

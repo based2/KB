@@ -91,6 +91,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://github.com/pocketbase/pocketbase
+> https://news.ycombinator.com/item?id=32013330
+
 https://www.sqlite.org/cli.html#index_recommendations_sqlite_expert_
 > https://news.ycombinator.com/item?id=31991598
 

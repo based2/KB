@@ -192,6 +192,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/
+> https://news.ycombinator.com/item?id=32010699
+
 https://blog.pragmaticengineer.com/software-engineering-salaries-in-the-netherlands-and-europe/
 > https://news.ycombinator.com/item?id=31960814
 

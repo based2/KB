@@ -72,6 +72,12 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://kde.slimbook.es/
+> https://news.ycombinator.com/item?id=32011432
+
+https://mjg59.dreamwidth.org/59931.html Lenovo shipping new laptops that only boot Windows by default
+> https://news.ycombinator.com/item?id=32023868
+
 https://kitspace.org/boards/github.com/open-gamma-project/open-gamma-detector/
 
 https://blog.seas.upenn.edu/penn-engineers-create-chip-that-can-process-and-classify-nearly-two-billion-images-per-second/

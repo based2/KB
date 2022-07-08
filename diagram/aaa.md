@@ -128,6 +128,8 @@ https://github.com/AlexEidt/ASCII-Video
 http://www.figlet.org/
 > https://news.ycombinator.com/item?id=31506724
 
+https://github.com/asciitosvg/asciitosvg
+
 # State Machine
 https://mannhowie.com/finite-state-machines
 

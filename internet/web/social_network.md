@@ -40,6 +40,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://www.reuters.com/technology/exclusive-eu-antitrust-regulators-probing-tech-group-aoms-video-licensing-policy-2022-07-07/
+> https://news.ycombinator.com/item?id=32022773
+
 https://www.macrumors.com/2022/07/05/eu-approves-landmark-legislation-to-regulate-apple/
 > https://news.ycombinator.com/item?id=31988367
 
