@@ -1,3 +1,13 @@
+https://arxiv.org/abs/2207.07413 SATAn: Air-Gap Exfiltration Attack via Radio Signals From SATA Cables
+> 
+
+https://clearbluejar.github.io/posts/from-ntobjectmanager-to-petitpotam/
+
+https://security.humanativaspa.it/automating-binary-vulnerability-discovery-with-ghidra-and-semgrep/
+
+https://kaimi.io/en/2022/07/20-years-of-payment-processing-problems-en/
+> https://news.ycombinator.com/item?id=32136581
+
 https://dangerzone.rocks/about.html
 
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=2022-33980 Apache Commons Configuration

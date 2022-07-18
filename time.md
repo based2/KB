@@ -180,6 +180,9 @@ https://www.nist.gov/pml/time-and-frequency-division/time-realization/primary-st
 https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html
 > https://news.ycombinator.com/item?id=31678913
 
+https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html
+> https://news.ycombinator.com/item?id=32137679
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

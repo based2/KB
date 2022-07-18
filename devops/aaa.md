@@ -198,6 +198,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://whoek.com/b/jira-to-sqlite-with-scrumdog.html
+> https://news.ycombinator.com/item?id=32109461
+
 https://github.com/gogitdb/gitdb
 
 https://matt-rickard.com/what-comes-after-git/

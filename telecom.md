@@ -107,6 +107,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.ardian.com/news-insights/focus-mila-ardian-partners-icelands-national-telecoms-network
+> https://news.ycombinator.com/item?id=32143631
+
 https://www.theregister.com/2022/06/23/australia_samsung_water_resistance_fine/
 
 https://botblox.io/products/speblox-long

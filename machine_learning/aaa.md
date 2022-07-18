@@ -218,6 +218,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://aifuture.substack.com/p/the-ai-battle-rages-on
+> https://news.ycombinator.com/item?id=32137397
+
 https://dockyard.com/blog/2022/06/21/what-is-machine-learning-anyway
 > https://news.ycombinator.com/item?id=32001080
 

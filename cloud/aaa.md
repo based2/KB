@@ -141,6 +141,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/
+> https://news.ycombinator.com/item?id=32139672
+
 https://www.theregister.com/2022/06/27/hitachi_creates_its_own_modest/
 
 https://dropbox.tech/infrastructure/sixth-generation-server-hardware

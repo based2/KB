@@ -34,6 +34,8 @@ https://github.com/kubernetes/kubernetes/issues/62171
 
 https://github.com/aws/containers-roadmap/issues/263
 
+https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator
+
 #
 https://aws.amazon.com/en/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/
 

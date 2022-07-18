@@ -84,6 +84,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm
+> https://news.ycombinator.com/item?id=32093452
+
 https://pyalgoviz.appspot.com/
 > https://news.ycombinator.com/item?id=32021852
 

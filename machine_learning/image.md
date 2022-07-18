@@ -89,6 +89,9 @@ https://dagshub.com/blog/yolov6/#
 > https://news.ycombinator.com/item?id=31917626
 
 #
+https://www.nvidia.com/en-us/studio/canvas/
+> https://news.ycombinator.com/item?id=32140382
+
 https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables#toggle-gdpr
 > https://news.ycombinator.com/item?id=31877672
 

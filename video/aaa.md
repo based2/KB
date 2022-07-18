@@ -9,6 +9,9 @@ https://mpc-hc.org/
 
 https://www.sodaplayer.com/
 
+https://mpv.io/
+> https://news.ycombinator.com/item?id=32137275
+
 https://iina.io/ mac player gplv3
 
 https://kodi.tv/
@@ -100,6 +103,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://archivesoftomorrow.com/books/
+>
+
+https://norkin.org/research/film_grain/index.html
+> https://news.ycombinator.com/item?id=32143747
+
 https://www.kanopy.com/en/
 > https://news.ycombinator.com/item?id=31882374
 

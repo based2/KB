@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2
+> https://news.ycombinator.com/item?id=32134691
+
 https://developer.x-plane.com/2022/02/x-plane-12-flight-model-update-supersonic-transition-delta-wings-and-mass-properties/
 > https://news.ycombinator.com/item?id=31827301
 

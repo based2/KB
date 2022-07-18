@@ -41,6 +41,21 @@ https://github.com/etalab/codes-juridiques-francais/tree/master/codes-en-vigueur
 https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-and-libgen-in-landmark-case-51780
 > https://news.ycombinator.com/item?id=29366621
 
+# Petitions
+https://www.europarl.europa.eu/petitions/en/home
+
+https://www.asktheeu.org/
+
+https://www.europarl.europa.eu/forms/en/ask-ep
+
+https://epetitionen.bundestag.de/
+
+https://petitions.assemblee-nationale.fr/initiatives
+
+https://petition.parliament.uk/
+
+https://www.dol.gov/agencies/eta/tradeact/petitioners
+
 # News
 https://ipkitten.blogspot.com/2022/02/us-copyright-office-refuses-to-register.html
 > https://news.ycombinator.com/item?id=30702117

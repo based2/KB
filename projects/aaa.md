@@ -192,6 +192,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html
+> https://news.ycombinator.com/item?id=32135462
+
 https://gordonc.bearblog.dev/dry-most-over-rated-programming-principle/
 > https://news.ycombinator.com/item?id=32010699
 

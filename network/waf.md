@@ -1,3 +1,5 @@
+https://antonio-cooler.gitbook.io/coolervoid-tavern/ WAF from the scratch, Tips to construct a web application firewall
+
 https://www.ipfire.org/
 
 https://blog.ipfire.org/post/security-announcement-mitigating-nat-slipstreaming

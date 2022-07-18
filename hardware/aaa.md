@@ -72,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.theregister.com/2022/07/18/electrical_engineers_extinction/
+> https://news.ycombinator.com/item?id=32142711
+
 https://kde.slimbook.es/
 > https://news.ycombinator.com/item?id=32011432
 
