@@ -115,6 +115,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://taoa.io/posts/Understanding-KZG10-Polynomial-Commitments
+
 https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk
 > https://news.ycombinator.com/item?id=31990276
 

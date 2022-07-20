@@ -112,6 +112,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://beej.us/guide/ The Guides! Free downloads!
+> https://news.ycombinator.com/item?id=32165278
+
 https://www.opendaylight.org/about/what-is-sdn
 > https://www.opendaylight.org/current-release-sulfur
 

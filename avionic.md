@@ -16,6 +16,11 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.airbus.com/en/newsroom/stories/2022-07-could-an-open-fan-engine-cut-carbon-emissions-for-more-sustainable
+> https://news.ycombinator.com/item?id=32167888
+
+https://www.bbc.com/news/business-62120130 Aerospace electrified by new technology
+
 https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2
 > https://news.ycombinator.com/item?id=32134691
 

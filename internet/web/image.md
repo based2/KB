@@ -64,4 +64,6 @@ https://puri.sm/posts/cameras-its-complicated/
 > https://news.ycombinator.com/item?id=31341393
 
 https://kosmofoto.com/2021/02/east-germanys-plans-for-a-space-age-autofocus-slr/
-> 
+
+https://www.darktable.org/2022/07/darktable-4.0/
+> https://linuxfr.org/news/sortie-de-darktable-4-0-0-une-presentation-100-subjective

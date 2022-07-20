@@ -72,6 +72,12 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://asianometry.substack.com/p/the-rise-and-peak-of-japanese-semiconductors
+> https://news.ycombinator.com/item?id=32168776
+
+https://semiengineering.com/dram-thermal-issues-reach-crisis-point/
+> https://news.ycombinator.com/item?id=32138205
+
 https://www.theregister.com/2022/07/18/electrical_engineers_extinction/
 > https://news.ycombinator.com/item?id=32142711
 

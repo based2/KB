@@ -218,6 +218,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://generallyintelligent.ai/podcast/2022-07-19-podcast-episode-19-minqi-jiang/
+
+https://arxiv.org/abs/2207.09238 Formal Algorithms for Transformers
+
 https://aifuture.substack.com/p/the-ai-battle-rages-on
 > https://news.ycombinator.com/item?id=32137397
 

@@ -44,6 +44,9 @@ https://caselaw.nationalarchives.gov.uk/open-justice-licence
 
 # Incident
 
+https://blog.min.io/nutanix-objects-violates-minios-open-source-license/
+> https://news.ycombinator.com/item?id=32148007
+
 https://www.techdirt.com/2022/06/24/ridiculous-govt-contractor-copies-open-source-3d-printing-concept-and-patents-it/
 > https://news.ycombinator.com/item?id=31881973
 

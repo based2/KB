@@ -45,3 +45,6 @@ https://github.com/drcode/good-guesser
 > https://news.ycombinator.com/item?id=30925917
 
 https://codeball.ai/
+
+https://www.mintlify.com/writer code comment
+> https://news.ycombinator.com/item?id=32170829

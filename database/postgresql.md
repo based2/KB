@@ -68,6 +68,9 @@ https://github.com/plv8/plv8
 https://github.com/agroal/pgagroal High-performance protocol-native connection pool
 > https://news.ycombinator.com/item?id=29303627
 
+https://ardentperf.com/2022/07/16/postgresql-performance-puzzle/
+> https://lobste.rs/s/k42r7b/postgresql_performance_puzzle
+
 ## Index
 http://leopard.in.ua/2015/04/13/postgresql-indexes/
 
@@ -251,6 +254,8 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://postgrespro.com/community/books/internals
+
 https://supabase.com/blog/2022/07/18/seen-by-in-postgresql
 > https://news.ycombinator.com/item?id=32138790
 

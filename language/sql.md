@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://brandur.org/soft-deletion
+> https://news.ycombinator.com/item?id=32156009
+
 https://www.cybertec-postgresql.com/en/transaction-anomalies-with-select-for-update/
 > 
 

@@ -17,7 +17,13 @@ https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html
 https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 > https://news.ycombinator.com/item?id=31363738
 
+# Ternary
+https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
+
 # News
+https://littleosbook.github.io/ The little book about OS development
+> https://news.ycombinator.com/item?id=32147872
+
 https://drewdevault.com/2022/06/13/helios.html microkernel hare
 > https://news.ycombinator.com/item?id=31742648
 

@@ -115,6 +115,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://ferd.ca/my-favorite-erlang-container.html
+> https://news.ycombinator.com/item?id=32043460
+
 https://adoptingerlang.org/docs/development/hard_to_get_right/
 
 https://engineering.klarna.com/the-hunt-for-the-cluster-killer-erlang-bug-81dd0640aa81

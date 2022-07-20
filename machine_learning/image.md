@@ -55,6 +55,9 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://openai.com/blog/dall-e-now-available-in-beta/
+> https://news.ycombinator.com/item?id=32168190
+
 https://colab.research.google.com/github/neuml/txtai/blob/master/examples/35_Pictures_are_worth_a_thousand_words.ipynb
 > https://news.ycombinator.com/item?id=31967141
 
@@ -89,6 +92,14 @@ https://dagshub.com/blog/yolov6/#
 > https://news.ycombinator.com/item?id=31917626
 
 #
+https://github.com/NVlabs/stylegan3
+
+https://nyx-ai.github.io/stylegan2-flax-tpu/ This Food Does Not Exist
+> https://news.ycombinator.com/item?id=32167704
+
+https://samsunglabs.github.io/MegaPortraits/
+> https://news.ycombinator.com/item?id=32168299
+
 https://www.nvidia.com/en-us/studio/canvas/
 > https://news.ycombinator.com/item?id=32140382
 
@@ -98,7 +109,6 @@ https://spectrum.ieee.org/ai-guided-robots-are-ready-to-sort-your-recyclables#to
 https://news.ycombinator.com/item?id=31807881
 
 https://80.lv/articles/famous-paintings-expanded-with-dall-e-2/
-> 
 
 https://imagen.research.google/
 > https://news.ycombinator.com/item?id=31484562

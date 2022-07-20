@@ -1,3 +1,28 @@
+https://soft-dev.org/events/cheritech22/
+
+https://support.apple.com/en-ca/HT201222
+
+https://confluence.atlassian.com/doc/questions-for-confluence-security-advisory-2022-07-20-1142446709.html
+> https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-confluence-hardcoded-credentials-flaw/
+
+https://docs.crowdsec.net/docs/intro
+> https://linuxfr.org/news/crowdsec-la-cybersecurite-collaborative-open-source-et-gratuite-pour-linux
+
+https://engineering.fb.com/2022/07/20/security/how-meta-and-the-security-industry-collaborate-to-secure-the-internet/
+> https://news.ycombinator.com/item?id=32168727
+
+https://www.bleepingcomputer.com/news/security/new-cloudmensis-malware-backdoors-macs-to-steal-victims-data/
+
+https://www.bleepingcomputer.com/news/security/microsoft-releases-poc-exploit-for-macos-sandbox-escape-vulnerability/
+
+https://techcrunch.com/2022/07/19/micodus-gps-tracker-exposing-vehicle-locations/
+> https://www.bleepingcomputer.com/news/security/popular-vehicle-gps-tracker-gives-hackers-admin-privileges-over-sms/
+
+https://github.com/chip-red-pill/MicrocodeDecryptor
+> https://news.ycombinator.com/item?id=32145324
+
+https://binarly.io/posts/FirmwareBleed_The_industry_fails_to_adopt_Return_Stack_Buffer_mitigations_in_SMM/index.html
+
 https://arxiv.org/abs/2207.07413 SATAn: Air-Gap Exfiltration Attack via Radio Signals From SATA Cables
 > 
 
@@ -2368,7 +2393,8 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > > https://news.ycombinator.com/item?id=31075558
 > https://www.bleepingcomputer.com/news/security/newly-found-zero-click-iphone-exploit-used-in-nso-spyware-attacks/
 > https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
-> https://shadowfile.inode.link/blog/2022/07/revisiting-pegasus-on-ios9/
+> https://thenewstack.io/log4j-the-pain-just-keeps-going-and-going/
+> > https://news.ycombinator.com/item?id=32155610
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/
@@ -2705,6 +2731,7 @@ https://trojansource.codes/ https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2
 > > https://news.ycombinator.com/item?id=29568625
 > https://www.nytimes.com/2022/01/28/magazine/nso-group-israel-spyware.html
 > > https://news.ycombinator.com/item?id=30120302
+> https://shadowfile.inode.link/blog/2022/07/revisiting-pegasus-on-ios9/
 
 https://halove23.blogspot.com/2021/10/windows-user-profile-service-0day.html
 

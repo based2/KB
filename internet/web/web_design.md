@@ -77,6 +77,11 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://news.ycombinator.com/item?id=32147968 Ask HN: How did you increase your UX skills?
+
+https://github.com/bradtraversy/design-resources-for-developers
+> https://news.ycombinator.com/item?id=32142111
+
 https://www.andy.works/words/the-most-satisfying-checkbox
 > https://news.ycombinator.com/item?id=31781110
 

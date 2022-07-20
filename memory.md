@@ -58,3 +58,5 @@ https://v8.dev/blog/retrofitting-temporal-memory-safety-on-c++
 > https://news.ycombinator.com/item?id=31762574
 
 https://ramanlabs.in/static/blog/raw_memory_management_patterns_in_nim_language.html
+
+https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/

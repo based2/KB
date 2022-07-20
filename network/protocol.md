@@ -35,3 +35,5 @@ https://news.ycombinator.com/item?id=30699227 SNMP Is Dead (2018) [video]
 
 https://www.jdrosen.net/blog/20-years-of-sip-a-retrospective
 > https://news.ycombinator.com/item?id=31685252
+
+https://www.threadgroup.org/news-events/press-releases/ID/328/Thread-Group-Opens-Access-to-Third-Evolution-of-its-Wireless-Networking-Protocol-Enabling-Matter-Improving-Seamless-Connectivity-in-Smart-Homes-and-Buildings

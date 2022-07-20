@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.nature.com/articles/s41560-022-01065-y Rapid battery cost declines accelerate the prospects of all-electric interregional container shipping
+
 https://www.energy-storage.news/worlds-first-large-scale-sand-battery-goes-online-in-finland/
 > https://news.ycombinator.com/item?id=32006791
 

@@ -17,6 +17,8 @@ https://serverfault.com/questions/1031647/intermittent-http-502-error-with-amazo
 
 https://stackoverflow.com/questions/169453/bad-gateway-502-error-with-apache-mod-proxy-and-tomcat
 
+https://dev.to/gwenshap/investigating-15s-http-response-time-in-aws-ecs-2gge
+
 # News
 https://aws.amazon.com/en/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/
 

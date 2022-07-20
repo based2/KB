@@ -68,6 +68,9 @@ https://github.com/scru128/spec SCRU128: Sortable, Clock and Random number-based
 https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html
 > https://news.ycombinator.com/item?id=31715119
 
+https://pvk.ca/Blog/2022/07/11/plan-b-for-uuids-double-aes-128/
+> 
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

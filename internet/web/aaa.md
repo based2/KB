@@ -99,6 +99,9 @@ https://github.com/maxcountryman/warc-parquet
 > https://news.ycombinator.com/item?id=31867179
 
 # News
+https://github.com/jawerty/myAlgorithm Your own self hosted recommendation feed based on your browsing habit
+> https://news.ycombinator.com/item?id=32152600
+
 https://lunduke.substack.com/p/w3c-announces-web-311-web-for-workgroups
 
 https://www.theregister.com/2022/07/01/w3c_overrules_objections/

@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/
+
 https://honzaap.github.io/Pathfinding/
 > https://news.ycombinator.com/item?id=31875580
 

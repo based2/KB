@@ -240,6 +240,15 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://exceptionfactory.com/posts/2022/07/07/supporting-http2-in-apache-nifi/
+
+https://www.johndcook.com/blog/2019/04/27/rare-and-strange-icd-10-codes/
+
+https://support.rstudio.com/hc/en-us/articles/5773239924375-RStudio-Electron-Preview-Release-Notes
+
+https://www.amazon.science/blog/new-method-identifies-the-root-causes-of-statistical-outliers
+> https://news.ycombinator.com/item?id=32154306
+
 https://materialsproject.org/
 > https://news.ycombinator.com/item?id=31980068
 

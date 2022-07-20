@@ -81,6 +81,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://signalsandsorcery.org/sas/composer
+> https://news.ycombinator.com/item?id=32165328
+
 https://github.com/rauversion/rauversion-phx Rauversion is an open source music sharing platform, Elixir
 
 https://www.ti.com/lit/an/slaa888/slaa888.pdf Benefits of Class-G and Class-H Boost in Audio Amplifier

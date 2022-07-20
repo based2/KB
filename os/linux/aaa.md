@@ -91,6 +91,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://dmitry.gr/?r=05.Projects&proj=33. LinuxCard
+> https://news.ycombinator.com/item?id=32077823
+
 https://lunduke.substack.com/p/microsofts-growing-control-of-linux
 > https://news.ycombinator.com/item?id=32023724
 

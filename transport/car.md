@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.carwow.co.uk/blog/how-to-replace-fuel-duty-and-road-tax
+> https://news.ycombinator.com/item?id=32164118
+
 https://argentinareports.com/meet-tito-the-100-electric-100-argentine-car/2938/
 > https://news.ycombinator.com/item?id=31828230
 

@@ -70,6 +70,9 @@ https://github.com/stateright/stateright
 http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties
 
 # News
+https://www.ams.org/journals/notices/200811/200811-full-issue.pdf?cat=fullissue&trk=fullissue200811
+> https://news.ycombinator.com/item?id=32149170
+
 https://www.microsoft.com/en-us/research/publication/hardening-attack-surfaces-with-formally-proven-binary-format-parsers/
 > https://news.ycombinator.com/item?id=31956870
 

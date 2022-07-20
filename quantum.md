@@ -79,6 +79,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/
+> https://news.ycombinator.com/item?id=32156834
+
 https://lab.quantumflytrap.com/lab Visualizing quantum mechanics in an interactive simulation
 > https://news.ycombinator.com/item?id=31968280
 

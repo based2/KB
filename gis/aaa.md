@@ -200,6 +200,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://tech.marksblogg.com/pretty-maps-in-python.html
+> https://news.ycombinator.com/item?id=32170624
+
+https://ianthehenry.com/posts/delaunay/
+
 https://felt.com/
 > https://news.ycombinator.com/item?id=31982959
 

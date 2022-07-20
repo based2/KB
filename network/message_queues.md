@@ -76,6 +76,8 @@ https://github.com/navdeepsekhon/kafkaer?b
 https://slack.engineering/building-self-driving-kafka-clusters-using-open-source-components/
 > https://news.ycombinator.com/item?id=31714166
 
+https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

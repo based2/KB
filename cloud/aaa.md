@@ -87,6 +87,13 @@ https://www.theregister.com/2021/08/06/aws_google_dns/
 https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_authority/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/uk-heat-wave-causes-google-and-oracle-cloud-outages/
+
+https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH Cooling related failure (in Google London DC)
+> https://news.ycombinator.com/item?id=32161755
+
+https://www.theregister.com/2022/07/19/google_oracle_cloud/
+
 https://vigilance.fr/vulnerabilite/cloud-init-journalisation-d-information-sensible-via-Schema-Failures-38703
 
 https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/
@@ -141,6 +148,13 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.hetzner.com/news/07-22-rx-line/ arm
+> https://news.ycombinator.com/item?id=32164247
+
+https://cloudirregular.substack.com/p/the-cloud-billing-risk-that-scares
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-exchange-online-outlook-outage/
+
 https://new.pythonforengineers.com/blog/my-poor-experience-with-azure-or-why-im-sticking-with-aws/
 > https://news.ycombinator.com/item?id=32139672
 

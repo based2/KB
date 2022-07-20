@@ -277,6 +277,12 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://github.com/carbon-language/carbon-lang
+> https://news.ycombinator.com/item?id=32151609
+
+https://concatenative.org/wiki/view/Concatenative%20language/Concatenation%20is%20composition
+> https://news.ycombinator.com/item?id=32115672
+
 https://arxiv.org/abs/2111.03354 Programming with union, intersection, and negation types
 > https://news.ycombinator.com/item?id=32018751
 

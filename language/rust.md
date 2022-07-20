@@ -389,6 +389,14 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://nnethercote.github.io/perf-book/introduction.html The Rust Performance Book
+> https://news.ycombinator.com/item?id=32147999
+
+https://www.splinter.com.au/2022/07/12/rust-png-writer/
+
+https://fasterthanli.me/articles/when-rustc-explodes
+> https://news.ycombinator.com/item?id=32086973
+
 https://adeschamps.github.io/enum-size
 > https://news.ycombinator.com/item?id=32013205
 

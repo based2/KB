@@ -10,3 +10,6 @@ https://docs.google.com/presentation/d/1Q-RCJrZhw9nlZ5py7QxUVgKSyq61awHr2TyIjXxB
 
 https://github.com/maplibre/maplibre-rs
 > https://news.ycombinator.com/item?id=31086087
+
+https://web.dev/gpu-compute/
+> https://news.ycombinator.com/item?id=32150387

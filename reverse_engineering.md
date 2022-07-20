@@ -6,6 +6,11 @@ https://github.com/qilingframework/qiling Advanced binary emulation framework
 https://piroguetoolsuite.github.io/
 > https://news.ycombinator.com/item?id=31616837
 
+https://www.storj.io/blog/lensm
+
+https://www.vergiliusproject.com/ windows kernel
+> https://news.ycombinator.com/item?id=32136235
+
 #
 https://astrid.tech/2022/07/07/0/blink-mini-disassembly/
 
