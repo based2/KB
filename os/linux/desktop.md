@@ -9,6 +9,11 @@ https://lumina-desktop.org/
 > https://news.ycombinator.com/item?id=29053850
 
 # Window manager
+https://mate-desktop.org GNOME 2, fork
+
+https://github.com/linuxmint/cinnamon-desktop
+https://cinnamon-spices.linuxmint.com/
+
 https://www.enlightenment.org/
 
 https://mxlinux.org/mx-fluxbox/
@@ -17,7 +22,7 @@ https://www.gilesorr.com/wm/table.html The Comprehensive List of Window Managers
 > https://news.ycombinator.com/item?id=31665749
 
 https://github.com/codic12/worm nim x11
-> https://news.ycombinator.com/item?id=31702571
+> https://news.ycombinator.com/item?id=3170257
 
 # X11
 https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/
@@ -65,6 +70,14 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+
+
+https://twitter.com/timsneath/status/1550598445248811008
+> https://news.ycombinator.com/item?id=32198762
+
+https://pointieststick.com/2022/07/22/this-week-in-kde-tons-of-ui-improvements-and-bugfixes/
+> https://news.ycombinator.com/item?id=32201145
+
 https://liam-on-linux.dreamwidth.org/84023.html
 > https://news.ycombinator.com/item?id=31875954
 

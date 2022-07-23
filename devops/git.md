@@ -259,6 +259,12 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://agateau.com/2022/your-git-log-is-not-a-changelog/
+> https://news.ycombinator.com/item?id=32122028
+
+https://blog.plover.com/prog/git/tips-2.html
+> https://news.ycombinator.com/item?id=32161247
+
 https://github.blog/2022-06-30-write-better-commits-build-better-projects/
 
 https://github.blog/2022-06-27-highlights-from-git-2-37/

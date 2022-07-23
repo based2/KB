@@ -72,6 +72,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://devclass.com/2022/07/21/aws-open-sources-cloudscape-design-system/
+> https://github.com/cloudscape-design
+
 https://main.vitejs.dev/ JS transpiling and bundling for you
 > https://news.ycombinator.com/item?id=31967420
 

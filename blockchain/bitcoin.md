@@ -18,6 +18,12 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.npr.org/2022/07/21/1112689091/bitcoin-tesla-selloff?t=1658431586405
+
+https://blog.dshr.org/2022/07/mining-news.html
+
+https://news.ycombinator.com/item?id=32181462 Tell HN: It looks like even air gapped Bitcoin hardware wallets can phone home
+
 https://www.sec.gov/rules/sro/nysearca/2022/34-95180.pdf
 > https://news.ycombinator.com/item?id=31927669
 

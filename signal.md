@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.rpisoni.dev/posts/cossim-convolution/
+> https://news.ycombinator.com/item?id=32192008
+
 https://charliegerard.dev/blog/ultrasonic-payments/
 > https://news.ycombinator.com/item?id=31662186
 

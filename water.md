@@ -38,3 +38,5 @@ https://news.ycombinator.com/item?id=31678431 Enormous ‘rogue waves’ can app
 
 https://www.newyorker.com/news/letter-from-the-southwest/the-water-wars-come-to-the-suburbs
 > https://news.ycombinator.com/item?id=31987408
+
+https://singularityhub.com/2022/07/22/the-worlds-biggest-vertical-farm-just-opened-in-dubai/

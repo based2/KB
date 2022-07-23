@@ -94,6 +94,9 @@ https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH Cooling related f
 
 https://www.theregister.com/2022/07/19/google_oracle_cloud/
 
+https://deno.com/blog/2022-07-13-outage-post-mortem
+> https://news.ycombinator.com/item?id=32116109
+
 https://vigilance.fr/vulnerabilite/cloud-init-journalisation-d-information-sensible-via-Schema-Failures-38703
 
 https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022/
@@ -148,6 +151,11 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.usenix.org/publications/loginonline/jurassic-cloud
+> https://news.ycombinator.com/item?id=32164130
+
+https://par.nsf.gov/servlets/purl/10065917 Impact of Static Pressure Differential Between Supply Air and Return Exhaust on Server Level Performance
+
 https://www.hetzner.com/news/07-22-rx-line/ arm
 > https://news.ycombinator.com/item?id=32164247
 

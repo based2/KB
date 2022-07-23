@@ -26,6 +26,12 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.deepmind.com/blog/accelerating-fusion-science-through-learned-plasma-control
+> https://news.ycombinator.com/item?id=30379973
+
+https://www.nature.com/articles/s41586-021-04281-w Burning plasma achieved in inertial fusion
+> https://news.ycombinator.com/item?id=30088238
+
 https://www.nextbigfuture.com/2022/06/avalanche-energy-funded-to-develop-micro-fusion-reactors.html
 
 https://astralcodexten.substack.com/p/your-book-review-the-future-of-fusion

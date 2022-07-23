@@ -60,3 +60,7 @@ https://v8.dev/blog/retrofitting-temporal-memory-safety-on-c++
 https://ramanlabs.in/static/blog/raw_memory_management_patterns_in_nim_language.html
 
 https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-parallelism/
+
+https://spectrum.ieee.org/the-birth-of-ram
+
+https://netflixtechblog.com/formulating-out-of-memory-kill-prediction-on-the-netflix-app-as-a-machine-learning-problem-989599029109

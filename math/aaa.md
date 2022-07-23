@@ -101,6 +101,12 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://github.com/mirefek/geo_logic Tool for euclidean geometry aware of logic
+> https://news.ycombinator.com/item?id=32080526
+
+https://www.jsoftware.com/papers/tot.htm Notation as a Tool of Thought
+> https://news.ycombinator.com/item?id=32178291
+
 https://www.futilitycloset.com/2022/06/28/early-times/
 > https://news.ycombinator.com/item?id=31943199
 

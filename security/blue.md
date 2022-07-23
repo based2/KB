@@ -15,3 +15,10 @@ https://github.com/hasherezade/hollows_hunter Scans all running processes. Recog
 > https://news.ycombinator.com/item?id=30138266
 
 https://github.com/riza/linx
+
+https://www.perimeterx.com/tech-blog/2022/defeating-javascript-obfuscation/
+
+https://persistence-info.github.io/
+
+https://github.com/technion/vssshield Rust project to mitigate Windows ransomware
+> https://github.com/Neo23x0/Raccine

@@ -34,6 +34,9 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory
+> https://news.ycombinator.com/item?id=32101383
+
 https://effective-shell.com/
 > https://news.ycombinator.com/item?id=31830676
 

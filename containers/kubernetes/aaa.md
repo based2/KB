@@ -62,6 +62,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.groundcover.com/blog/k8s-gateway-api
+> https://www.reddit.com/r/kubernetes/comments/w17css/k8s_gateway_api_overview/
+
 https://github.com/pluralsh/plural multi cloud deployment
 > https://news.ycombinator.com/item?id=32024494
 

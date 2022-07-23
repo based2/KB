@@ -1,12 +1,63 @@
+https://www.theregister.com/2022/07/22/microsoft-windows-vba-macros/
+
+https://forum.suricata.io/t/suricata-6-0-6-and-5-0-10-released/2637
+
+https://nvd.nist.gov/vuln/detail/CVE-2020-25657 m2crypto
+
+https://comsec.ethz.ch/research/microarch/retbleed/
+
+https://voidzone.me/cve-2022-29885-apache-tomcat-cluster-service-dos/
+
+https://github.com/9lyph/CVE-2022-29593 Authentication Bypass by Capture Replay - Dingtian-DT-R002
+
+https://github.com/aquasecurity/chain-bench/blob/main/docs/CIS-Software-Supply-Chain-Security-Guide-v1.0.pdf
+
+https://www.microsoft.com/security/blog/2022/07/14/north-korean-threat-actor-targets-small-and-midsize-businesses-with-h0lygh0st-ransomware/
+
+https://restoreprivacy.com/twitter-vulnerability-exposes-5-million-accounts/
+
+https://arstechnica.com/information-technology/2022/07/exploit-seller-used-chrome-exploit-and-2-other-0-days-to-infect-journalists/
+
+https://container-news.com/two-containers-with-same-number-detected-in-chittagong-port/
+> https://news.ycombinator.com/item?id=32197212
+
+https://github.com/ValdikSS/GoodbyeDPI
+> https://news.ycombinator.com/item?id=32199468
+
+https://build.prestashop.com/news/major-security-vulnerability-on-prestashop-websites/
+> https://news.ycombinator.com/item?id=32196961
+
+https://lwn.net/Articles/899543/ The trouble with symbolic links
+> https://news.ycombinator.com/item?id=32190032
+
+https://spidersilk.com/news/cloud-is-more-fun-with-an-ssrf
+
+https://blog.criminalip.io/2022/07/20/api-key-leak/ django dev
+
+https://puri.sm/posts/anti-interdiction-on-the-librem-5-usa/
+> https://news.ycombinator.com/item?id=32175637
+
+https://www.bleepingcomputer.com/news/security/chrome-zero-day-used-to-infect-journalists-with-candiru-spyware/
+
+https://lapcatsoftware.com/articles/bluetooth.html apple
+> https://news.ycombinator.com/item?id=32181165
+
+https://www.randorisec.fr/crack-linux-firewall/
+> https://news.ycombinator.com/item?id=32178058
+
 https://soft-dev.org/events/cheritech22/
 
 https://support.apple.com/en-ca/HT201222
 
 https://confluence.atlassian.com/doc/questions-for-confluence-security-advisory-2022-07-20-1142446709.html
 > https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-confluence-hardcoded-credentials-flaw/
+> https://portswigger.net/daily-swig/atlassian-patches-batch-of-critical-vulnerabilities-across-multiple-products
+> https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/
+> https://twitter.com/fluepke/status/1550471087560982531
 
 https://docs.crowdsec.net/docs/intro
 > https://linuxfr.org/news/crowdsec-la-cybersecurite-collaborative-open-source-et-gratuite-pour-linux
+> https://www.reddit.com/r/CrowdSec/
 
 https://engineering.fb.com/2022/07/20/security/how-meta-and-the-security-industry-collaborate-to-secure-the-internet/
 > https://news.ycombinator.com/item?id=32168727

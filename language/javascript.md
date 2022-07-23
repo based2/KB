@@ -418,6 +418,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://vercel.com/blog/build-output-api
+> https://news.ycombinator.com/item?id=32192498
+
 https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp
 > https://news.ycombinator.com/item?id=31984112
 

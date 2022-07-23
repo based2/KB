@@ -63,6 +63,8 @@ https://tanzu.vmware.com/developer/guides/platform-security-secrets-sa-what-is/
 
 https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf8171d0
 
+https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-accounts-using-akeyless-vault-platform/
+
 # News
 https://sectool.co/blog/ebpf-based-security
 

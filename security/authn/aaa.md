@@ -64,6 +64,10 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://datatracker.ietf.org/doc/html/rfc8176  Authentication Method Reference Values
+
+https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications
+
 https://www.ezid.io//resource/switching-authentication-providers
 > https://news.ycombinator.com/item?id=31905983
 

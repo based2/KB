@@ -78,6 +78,9 @@ https://slack.engineering/building-self-driving-kafka-clusters-using-open-source
 
 https://blog.cloudflare.com/using-apache-kafka-to-process-1-trillion-messages/
 
+https://github.com/confluentinc/parallel-consumer
+> https://news.ycombinator.com/item?id=32196229
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

@@ -25,6 +25,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://localstack.cloud/blog/2022-07-13-announcing-localstack-v1-general-availability/
+> https://news.ycombinator.com/item?id=32193132
+
 https://matt-rickard.com/advanced-configuration-languages-are-wrong/
 > https://news.ycombinator.com/item?id=31870924
 

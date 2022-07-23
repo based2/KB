@@ -218,6 +218,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer
+> https://news.ycombinator.com/item?id=32198214
+
+https://statmodeling.stat.columbia.edu/2022/07/21/predicting-consumers-choices-in-the-age-of-the-internet-ai-and-almost-perfect-tracking-some-things-change-the-key-challenges-do-not/
+> https://news.ycombinator.com/item?id=32181974
+
 https://generallyintelligent.ai/podcast/2022-07-19-podcast-episode-19-minqi-jiang/
 
 https://arxiv.org/abs/2207.09238 Formal Algorithms for Transformers

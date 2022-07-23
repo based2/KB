@@ -88,6 +88,9 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 # Detection
+https://arxiv.org/abs/2207.02696 YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+> https://news.ycombinator.com/item?id=32121125
+
 https://dagshub.com/blog/yolov6/#
 > https://news.ycombinator.com/item?id=31917626
 

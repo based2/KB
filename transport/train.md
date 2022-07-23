@@ -15,6 +15,11 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://mbtaviz.github.io/ boston
+> https://news.ycombinator.com/item?id=32199164
+
+https://www.ianvisits.co.uk/articles/solar-flares-could-cause-delays-on-the-railways-56083/
+
 https://www.vice.com/en/article/wxn8qx/amtrak-spent-11-years-and-dollar450-million-to-save-acela-riders-100-seconds
 > https://news.ycombinator.com/item?id=31926681
 

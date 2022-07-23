@@ -41,6 +41,11 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://aws.amazon.com/fr/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-aws-identity-access-management-iam-customer-managed-policies-cmps/
+> https://www.reddit.com/r/aws/comments/w2ybhe/new_sso_and_iam_integration_aws_sso_adding/
+
+https://github.com/glassechidna/trackiam/blob/master/policies/ReadOnlyAccess.json
+
 https://github.com/iann0036/iamlive Generate an IAM policy from AWS calls using client-side monitoring (CSM) or embedded proxy
 
 https://blog.symops.com/2022/05/06/least-privilege-policies-from-aws-logs/

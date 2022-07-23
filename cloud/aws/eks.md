@@ -35,8 +35,17 @@ https://github.com/kubernetes/kubernetes/issues/62171
 https://github.com/aws/containers-roadmap/issues/263
 
 https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator
+> https://medium.com/@soc_prime/analyzing-aws-iam-improper-input-validation-af24c66cacdd
 
 #
+https://aws.amazon.com/en/blogs/opensource/managing-spinnaker-using-spinnaker-operator-in-amazon-eks/?nc1=b_rp
+
+https://www.qovery.com/blog/kubernetes-cluster-autoscaler-vs-karpenter
+
+https://aws.amazon.com/eb/blogs/containers/policy-management-in-amazon-eks-using-jspolicy/
+
+https://aws.amazon.com/en/blogs/containers/kubernetes-cluster-upgrade-the-blue-green-deployment-strategy/
+
 https://aws.amazon.com/en/about-aws/whats-new/2022/06/bare-metal-support-amazon-eks-anywhere/
 
 https://aws-controllers-k8s.github.io/community/docs/community/services/

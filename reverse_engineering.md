@@ -12,6 +12,8 @@ https://www.vergiliusproject.com/ windows kernel
 > https://news.ycombinator.com/item?id=32136235
 
 #
+https://binary.ninja/2022/07/13/introducing-decompiler-explorer.html
+
 https://astrid.tech/2022/07/07/0/blink-mini-disassembly/
 
 https://timleonard.uk/2022/05/29/reverse-engineering-dark-souls-3-networking

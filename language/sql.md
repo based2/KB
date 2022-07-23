@@ -59,6 +59,14 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://hex.tech/blog/stop-using-so-many-ctes
+
+https://github.com/cube2222/octosql
+> https://news.ycombinator.com/item?id=32093002
+
+https://www.tinybird.co/blog-posts/data-rules-materialized-views-40000-dollars
+> https://www.tinybird.co/blog-posts/data-rules-materialized-views-40000-dollars
+
 https://brandur.org/soft-deletion
 > https://news.ycombinator.com/item?id=32156009
 

@@ -112,6 +112,10 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://gazette.readthedocs.io/en/latest/
+https://github.com/gazette/core
+> https://news.ycombinator.com/item?id=32116711
+
 https://beej.us/guide/ The Guides! Free downloads!
 > https://news.ycombinator.com/item?id=32165278
 

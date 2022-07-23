@@ -64,6 +64,11 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://ventrella.com/Clusters/
+
+https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy bebop
+> https://news.ycombinator.com/item?id=32113864
+
 https://alistapart.com/article/designing-safer-web-animation-for-motion-sensitivity/
 
 https://honzaap.github.io/Pathfinding/

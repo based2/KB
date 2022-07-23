@@ -119,6 +119,8 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://github.com/clj-commons/etaoin clojure webdriver
+
 https://www.wedesoft.de/software/2022/07/01/tdd-with-opengl/
 
 https://hynek.me/articles/what-to-mock-in-5-mins/

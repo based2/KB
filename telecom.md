@@ -107,6 +107,12 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://edition.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html
+> https://news.ycombinator.com/item?id=32200371
+
+https://www.wired.com/story/france-paris-internet-cable-cuts-attack/
+> https://news.ycombinator.com/item?id=32191223
+
 https://www.ardian.com/news-insights/focus-mila-ardian-partners-icelands-national-telecoms-network
 > https://news.ycombinator.com/item?id=32143631
 

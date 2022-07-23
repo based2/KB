@@ -119,6 +119,8 @@ https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 https://github.com/reposaur/reposaur Allows users and organizations to execute policies against GitHub data to generate reports, perform auditing and more
 
 # Incidents
+https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/
+
 https://about.gitlab.com/releases/2022/06/30/critical-security-release-gitlab-15-1-1-released/#remote-command-execution-via-project-imports
 
 https://www.githubstatus.com/incidents/qzmhbwp7f6nn
@@ -183,6 +185,7 @@ https://travis-ci.community/t/security-bulletin/12081
 SourceForge nobody Apache HTTPD configuration
 
 # New versions
+https://about.gitlab.com/releases/2022/07/22/gitlab-15-2-released/
 
 https://about.gitlab.com/releases/2022/05/22/gitlab-15-0-released/
 
@@ -198,6 +201,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://reproducible-builds.org/
+
 https://about.gitlab.com/company/culture/all-remote/
 > https://news.ycombinator.com/item?id=32170028
 

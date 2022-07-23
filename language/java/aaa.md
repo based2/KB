@@ -260,6 +260,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://event-driven.io/en/how_to_effectively_compose_your_business_logic/
+
 https://www.eclipse.org/eclipse/news/4.24/
 > https://www.reddit.com/r/java/comments/vf1fek/eclipse_202206_released/
 

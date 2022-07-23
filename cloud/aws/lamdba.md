@@ -70,6 +70,10 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://www.verticalrelevance.com/using-aws-lambdas-new-attribute-based-access-control-abac-to-ensure-compliance-of-lambda-functions/
+
+https://lumigo.io/blog/building-scale-traceability-abac-lambda-functions/
+
 https://github.com/nathants/aws-exec
 
 https://betterprogramming.pub/aws-step-functions-are-active-executions-affected-when-your-state-machine-gets-updated-bafa41b4b256

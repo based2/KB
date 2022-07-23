@@ -41,3 +41,5 @@ https://curia.europa.eu/juris/document/document.jsf?text=&docid=62940&page
 https://curia.europa.eu/juris/document/document.jsf?text=&docid=125896&pageIndex=0&doclang=en&mode=req&dir=&occ=first&part=1&cid=7342802
 
 https://samba.tranquil.it/doc/en/index.html Samba-AD documentation
+
+https://zer1t0.gitlab.io/posts/attacking_ad/

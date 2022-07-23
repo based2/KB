@@ -21,3 +21,6 @@ https://aicoding.substack.com/p/mindsdb-time-series
 
 https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-time-series-database.html
 > https://news.ycombinator.com/item?id=31379383
+
+https://github.com/kevinlawler/kerf1 kdb+
+> https://news.ycombinator.com/item?id=32179898

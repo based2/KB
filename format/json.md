@@ -69,6 +69,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://github.com/supabase/pg_jsonschema
+> https://news.ycombinator.com/item?id=32179856
+
 https://lemire.me/blog/2022/05/25/parsing-json-faster-with-intel-avx-512/
 > https://www.reddit.com/r/programming/comments/uyn8h8/parsing_json_faster_with_intel_avx512/
 

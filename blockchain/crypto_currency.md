@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme
+> https://news.ycombinator.com/item?id=32180555
+
 https://www.washingtonpost.com/business/2022/07/03/crypto-banks-risk-lummis/
 > https://news.ycombinator.com/item?id=31968647
 

@@ -11,6 +11,8 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://dicoogle.com/ open source Picture Archiving and Communications System (PACS) archive
+
 https://www.hama.app/ erase
 
 https://pillow.readthedocs.io/en/stable/

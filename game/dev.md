@@ -97,6 +97,12 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://www.leafwing-studios.com/blog/game-engine-glue/
+> https://news.ycombinator.com/item?id=32200121
+
+https://github.com/EsportToys/RawInputViewer
+> https://news.ycombinator.com/item?id=32200218
+
 https://litreactor.com/columns/7-things-dungeons-dragons-taught-me-about-storytelling
 > https://news.ycombinator.com/item?id=31978277
 

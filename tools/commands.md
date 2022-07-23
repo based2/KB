@@ -38,6 +38,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://endler.dev/2017/yes/
+> https://news.ycombinator.com/item?id=32175328
+
 https://github.com/mgunyho/tere faster alternative to cd + ls
 > https://news.ycombinator.com/item?id=32106126
 

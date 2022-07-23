@@ -1,3 +1,5 @@
+Ledgers
+
 https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/Crypto/Secure_Blockchain.pdf?__blob=publicationFile&v=2
 
 # Proof of Stake
@@ -48,6 +50,9 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://www.jonstokes.com/p/the-blockchain-in-historical-perspective
+> https://news.ycombinator.com/item?id=32094566
+
 https://techcrunch.com/2022/06/30/nft-opensea-data-breach/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAANH__wtPgDyU94xsIhHbw9PAGu7yUH5-pqhN2LWWe3stMU95mvC52XlWxQbFD_eX3CDdN2ZCgeF4WMEC7WRhod3QslCyA_ZOEN4XgQoLSfj2jPmOHdtzp1b9Vsp10I2vq6uaxzOLZIAHQqf-fcSlIiH8w_aKJdQmsiKHycpU-PUI
 
 https://www.theregister.com/2022/06/22/research_challenges_assumptions_about_distributed/

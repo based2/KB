@@ -98,6 +98,8 @@ https://github.com/mikeroyal/Apple-Silicon-Guide
 https://github.com/hjuutilainen/sus-inspector
 
 # M2
+https://www.theregister.com/2022/07/21/m2_macbook_air_teardown/
+
 https://semianalysis.substack.com/p/apple-m2-die-shot-and-architecture?s=r
 > https://news.ycombinator.com/item?id=31689366
 

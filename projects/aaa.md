@@ -107,6 +107,9 @@ https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/
 
 https://www.paepper.com/blog/posts/monte-carlo-for-better-time-estimates-of-your-work/
 
+https://drmaciver.substack.com/p/task-estimation-101
+> https://news.ycombinator.com/item?id=32177425
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

@@ -56,6 +56,10 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://siecledigital.fr/2022/07/20/un-citoyen-allemand-porte-plainte-contre-la-commission-europeenne-pour-avoir-utilise-aws/
+> https://www.euractiv.fr/section/economie/news/la-commission-europeenne-poursuivie-en-justice-pour-avoir-enfreint-les-regles-de-protection-des-donnees-de-lue/
+> > IP address
+
 https://www.zdnet.fr/actualites/comment-postgresql-anonymizer-aide-les-entreprises-a-se-conformer-au-rgpd-39943894.htm
 > https://www.postgresql.org/about/news/postgresql-anonymizer-10-privacy-by-design-for-postgres-2452/
 

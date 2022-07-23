@@ -43,4 +43,7 @@ https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-d
 > https://news.ycombinator.com/item?id=28710081
  
 #
+https://invisiblexml.org/ language for describing the implicit structure of data
+> https://news.ycombinator.com/item?id=32120230
+
 https://blog.hartwork.org/posts/expat-2-4-4-released/ sec

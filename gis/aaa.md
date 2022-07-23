@@ -34,6 +34,7 @@ http://blog.cleverelephant.ca/2021/05/postgis-20-years.html
 > https://news.ycombinator.com/item?id=27344639
 
 https://www.gaia-gis.it/fossil/libspatialite/index
+> https://news.ycombinator.com/item?id=32195541
 
 https://github.com/simonepri/geo-maps
 

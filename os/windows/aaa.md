@@ -120,6 +120,8 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://www.theregister.com/2022/07/12/microsoft_365_windows_7_eol/?td=keepreading
+
 https://old.reddit.com/r/sysadmin/comments/vqcf67/windows_undocumented_emergency_restart/
 > https://news.ycombinator.com/item?id=31989552
 

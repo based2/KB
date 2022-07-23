@@ -12,3 +12,6 @@ https://github.com/romkatv/powerlevel10k#oh-my-zsh
 https://z.digitalclouds.dev/community/zsh_plugin_standard/
 
 https://www.stefanjudis.com/today-i-learned/suffix-aliases-in-zsh/
+
+https://scriptingosx.com/2019/06/moving-to-zsh/
+> https://news.ycombinator.com/item?id=32186638

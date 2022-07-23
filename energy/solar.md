@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://caseyhandmer.wordpress.com/2022/07/22/were-going-to-need-a-lot-of-solar-panels/
+> https://news.ycombinator.com/item?id=32197012
+
 https://cosmosmagazine.com/science/agile-concentrator-solar-panels/
 > https://news.ycombinator.com/item?id=31915677
 

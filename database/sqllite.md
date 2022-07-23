@@ -91,6 +91,15 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://lethain.com/how-to-estimate-disk-space/
+
+https://sergey.khabibullin.com/sqlite-extensions-in-rust/
+
+https://github.com/aergoio/litetree
+> https://news.ycombinator.com/item?id=32191266
+
+https://sqlite.org/releaselog/3_39_2.html
+
 https://github.com/pocketbase/pocketbase
 > https://news.ycombinator.com/item?id=32013330
 

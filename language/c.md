@@ -71,6 +71,8 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://thephd.dev/finally-embed-in-c23
+
 https://arxiv.org/abs/2105.00613 A C++17 Thread Pool for High-Performance Scientific Computing
 > https://news.ycombinator.com/item?id=31744160
 

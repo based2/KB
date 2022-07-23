@@ -39,6 +39,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/slackhq/nebula scalable overlay networking tool with a focus on performance, simplicity and security
+
+https://tinypilotkvm.com/ TinyPilot KVM over IP Control any computer remotely
+> https://news.ycombinator.com/item?id=32180322
+
 https://css-tricks.com/single-element-loaders-going-3d/
 
 https://lwn.net/Articles/900134/ An Ubuntu kernel bug causes container crashes

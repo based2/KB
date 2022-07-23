@@ -73,6 +73,9 @@ https://blog.opencagedata.com/post/opentrees
 > https://github.com/stevage/opentrees
 > https://news.ycombinator.com/item?id=27626467
 
+https://www.greatgreenwall.org/about-great-green-wall
+> https://news.ycombinator.com/item?id=32105953
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 
