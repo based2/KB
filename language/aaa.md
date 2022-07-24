@@ -277,6 +277,8 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://itnext.io/google-carbon-vs-apple-swift-9df8262342c8
+
 https://github.com/carbon-language/carbon-lang
 > https://news.ycombinator.com/item?id=32151609
 

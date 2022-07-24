@@ -42,6 +42,12 @@ https://uploadcare.com/blog/fighting-jpeg-color-banding/
 >
 
 # News
+https://mort.coffee/home/tar/ The tar archive format, its extensions, and why GNU tar extracts in quadratic time
+> https://news.ycombinator.com/item?id=32206579
+
+https://www.nongnu.org/lzip/xz_inadequate.html Xz format inadequate for long-term archiving
+> https://news.ycombinator.com/item?id=32210438
+
 https://underjord.io/id3-specification-and-speculation.html
 > https://news.ycombinator.com/item?id=31658664
 

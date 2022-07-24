@@ -389,6 +389,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://haibane-tenshi.github.io/rust-contexts2/
+
 https://nnethercote.github.io/perf-book/introduction.html The Rust Performance Book
 > https://news.ycombinator.com/item?id=32147999
 

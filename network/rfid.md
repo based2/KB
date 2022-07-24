@@ -4,3 +4,6 @@ https://blog.flipperzero.one/quick-start-guide-and-shipping-update/
 
 https://edition.cnn.com/2022/07/10/tech/bluetooth-technology-headache/index.html
 > https://news.ycombinator.com/item?id=32162131
+
+https://computer.rip/2022-07-21-preventing-loss-dot-jpeg.html
+> https://news.ycombinator.com/item?id=32192503

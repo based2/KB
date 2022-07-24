@@ -1,3 +1,8 @@
+https://streaming.media.ccc.de/mch2022
+
+https://github.com/nedlir/OfficerBreaker
+> https://news.ycombinator.com/item?id=32207606
+
 https://www.theregister.com/2022/07/22/microsoft-windows-vba-macros/
 
 https://forum.suricata.io/t/suricata-6-0-6-and-5-0-10-released/2637
@@ -68,11 +73,14 @@ https://www.bleepingcomputer.com/news/security/microsoft-releases-poc-exploit-fo
 
 https://techcrunch.com/2022/07/19/micodus-gps-tracker-exposing-vehicle-locations/
 > https://www.bleepingcomputer.com/news/security/popular-vehicle-gps-tracker-gives-hackers-admin-privileges-over-sms/
+> https://arstechnica.com/information-technology/2022/07/critical-flaws-in-gps-tracker-enable-disastrous-and-life-threatening-hacks/
 
 https://github.com/chip-red-pill/MicrocodeDecryptor
 > https://news.ycombinator.com/item?id=32145324
 
 https://binarly.io/posts/FirmwareBleed_The_industry_fails_to_adopt_Return_Stack_Buffer_mitigations_in_SMM/index.html
+
+https://thenewstack.io/openssl-heap-memory-corruption-vulnerability-fixed/
 
 https://arxiv.org/abs/2207.07413 SATAn: Air-Gap Exfiltration Attack via Radio Signals From SATA Cables
 > 

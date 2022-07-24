@@ -41,6 +41,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/
+> https://news.ycombinator.com/item?id=32212605
+
 https://www.unite.ai/improving-the-photorealism-of-driving-simulations-with-generative-adversarial-networks/
 
 https://www.unite.ai/detecting-deepfake-video-calls-through-monitor-illumination/

@@ -127,6 +127,12 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://dellfer.com/shload-exploits-episode-v-return-of-the-error/
+> https://www.reddit.com/r/netsec/comments/w4vrw2/shload_exploits_sha_hardware_offload_wo_error/
+
+https://tls-anvil.com/ tests
+> https://github.com/tls-attacker/TLS-Anvil
+
 https://aws.amazon.com/fr/blogs/security/how-to-tune-tls-for-hybrid-post-quantum-cryptography-with-kyber/
 
 https://blog.apnic.net/2022/05/24/tcpls-modern-transport-services-with-tcp-and-tls/

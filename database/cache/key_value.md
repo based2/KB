@@ -11,3 +11,6 @@ https://github.com/cberner/redb
 
 
 https://news.ycombinator.com/item?id=31796311 Redis vs. KeyDB vs. Dragonfly vs. Skytable
+
+https://github.com/maxmunzel/kvass
+> https://news.ycombinator.com/item?id=32212235

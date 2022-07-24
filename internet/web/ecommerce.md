@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://twitter.com/fchollet/status/1550930876183166976 Amazon sales of Deep Learning with Python are counterfeit
+> https://news.ycombinator.com/item?id=32210256
+
 https://usa.visa.com/visa-everywhere/blog/bdp/2022/06/15/what-every-merchant-1655330664445.html
 
 https://www.theguardian.com/technology/2022/jul/04/uk-subscribers-will-soon-be-able-to-leave-amazon-prime-in-two-clicks

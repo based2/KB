@@ -34,6 +34,9 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://www.pnnl.gov/news-media/efficient-dehumidifier-makes-air-conditioning-breeze
+> https://news.ycombinator.com/item?id=32204600
+
 https://developer.yr.no/
 > https://news.ycombinator.com/item?id=31965812
 

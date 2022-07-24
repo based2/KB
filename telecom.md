@@ -107,6 +107,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.bloomberg.com/news/articles/2022-07-23/uk-satellite-operator-oneweb-said-to-near-merger-with-eutelsat
+
 https://edition.cnn.com/2022/07/23/politics/fbi-investigation-huawei-china-defense-department-communications-nuclear/index.html
 > https://news.ycombinator.com/item?id=32200371
 

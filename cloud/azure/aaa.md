@@ -5,6 +5,14 @@ https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-
 
 https://github.com/jsa2/aad-auth-n-z
 
+# Updates
+
+azure portal blade whatsnew
+
+https://azure.microsoft.com/en/updates/
+
+https://azure.microsoft.com/en/blog/topics/announcements/
+
 #
 https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291
 

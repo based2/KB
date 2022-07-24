@@ -39,6 +39,9 @@ https://www.bookstackapp.com/ php
 https://news.ycombinator.com/item?id=30392849
 
 # News
+https://wikenigma.org.uk/
+> https://news.ycombinator.com/item?id=32210258
+
 https://www.sixthtone.com/news/1010653/she-spent-a-decade-writing-fake-russian-history.-wikipedia-just-noticed.-?source=channel_rising
 > https://news.ycombinator.com/item?id=31915937
 

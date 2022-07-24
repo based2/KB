@@ -96,6 +96,7 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 
 # News
 https://blog.simpleanalytics.com/vodafone-deutsche-telekom-to-introduce-persistent-user-tracking
+> https://www.reddit.com/r/programming/comments/w5znqz/vodafone_to_introduce_persistent_user_tracking/
 
 https://www.webworm.co/p/glassdoor
 > https://news.ycombinator.com/item?id=32146082

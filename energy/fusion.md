@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.growthbusiness.co.uk/more-invested-in-nuclear-fusion-in-last-12-months-than-past-decade-2560528/
+> https://news.ycombinator.com/item?id=32207152
+
 https://www.deepmind.com/blog/accelerating-fusion-science-through-learned-plasma-control
 > https://news.ycombinator.com/item?id=30379973
 

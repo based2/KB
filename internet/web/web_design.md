@@ -77,6 +77,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://elisehe.in/2022/07/19/the-fun-in-accessibility
+> https://news.ycombinator.com/item?id=32178099
+
 https://news.ycombinator.com/item?id=32147968 Ask HN: How did you increase your UX skills?
 
 https://github.com/bradtraversy/design-resources-for-developers

@@ -32,4 +32,7 @@ https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 
 #
+https://github.com/GetPublii/Publii Desktop Static-Site CMS, gpl
+> https://news.ycombinator.com/item?id=32204408
+
 https://news.ycombinator.com/item?id=31547285 Ask HN: How do you manage “static” pages on your micro SaaS website?

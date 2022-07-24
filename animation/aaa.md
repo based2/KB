@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+http://www.paulbourke.net/fractals/burnship/
+> https://news.ycombinator.com/item?id=32210140
+
+https://acko.net/blog/how-to-fold-a-julia-fractal/
+> https://news.ycombinator.com/item?id=32209192
+
 https://ventrella.com/Clusters/
 
 https://animationobsessive.substack.com/p/designing-the-characters-of-cowboy bebop

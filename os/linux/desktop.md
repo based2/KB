@@ -69,8 +69,9 @@ https://www.tranquil.it/en/manage-it-equipment/wapt/software-configurations-depl
 https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
-# News
-
+# News 
+https://hpjansson.org/blag/2022/07/23/gnome-at-25-a-health-checkup/
+> https://news.ycombinator.com/item?id=32200441
 
 https://twitter.com/timsneath/status/1550598445248811008
 > https://news.ycombinator.com/item?id=32198762

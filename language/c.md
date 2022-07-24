@@ -72,6 +72,7 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 
 # News
 https://thephd.dev/finally-embed-in-c23
+> https://news.ycombinator.com/item?id=32201951
 
 https://arxiv.org/abs/2105.00613 A C++17 Thread Pool for High-Performance Scientific Computing
 > https://news.ycombinator.com/item?id=31744160

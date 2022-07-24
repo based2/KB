@@ -259,6 +259,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://git.inept.dev/~doyle/rgit.git/about
+
 https://agateau.com/2022/your-git-log-is-not-a-changelog/
 > https://news.ycombinator.com/item?id=32122028
 

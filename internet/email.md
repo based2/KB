@@ -64,6 +64,9 @@ https://www.rnpgp.org/
 
 https://anarc.at/blog/2022-03-02-procmail-considered-harmful/
 
+https://www.brightball.com/articles/deploying-dmarc-without-breaking-everything
+> https://news.ycombinator.com/item?id=32213664
+
 https://sequoia-pgp.org/blog/2022/03/24/202203-octopus-1.2.2/
 
 ## STARTTLS
@@ -121,6 +124,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://nosubstance.me/post/mutt-secret-sauce/
+
 http://news.bbc.co.uk/2/hi/science/nature/2138014.stm Yahoo admits mangling e-mail
 > https://news.ycombinator.com/item?id=31959890
 

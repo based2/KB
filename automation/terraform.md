@@ -91,6 +91,8 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://medium.com/@elliotgraebert/four-great-alternatives-to-hashicorps-terraform-cloud-6e0a3a0a5482
+
 https://github.com/hashicorp/terraform/issues/30937 Unknown values should not block successful planning
 > https://github.com/aws-ia/terraform-aws-eks-blueprints/issues/496
 

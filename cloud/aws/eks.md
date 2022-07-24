@@ -23,6 +23,16 @@ https://medium.com/devoops-and-universe/kubernetes-nginx-ingress-aws-with-custom
 
 https://aws.amazon.com/en/blogs/opensource/introducing-fine-grained-iam-roles-service-accounts/
 
+https://aws.amazon.com/en/premiumsupport/knowledge-center/eks-kubernetes-object-access-error/
+
+https://github.com/aws/containers-roadmap/issues/185 Manage IAM identity cluster access with EKS API #185 Open
+
+https://blog.gitguardian.com/kubernetes-tutorial-part-3-authn-authz/
+
+https://aws.amazon.com/en/premiumsupport/knowledge-center/eks-private-cluster-endpoint-vpc/
+
+https://docs.aws.amazon.com/eks/latest/userguide/troubleshooting.html#unauthorized
+
 # Sec
 https://blog.christophetd.fr/privilege-escalation-in-aws-elastic-kubernetes-service-eks-by-compromising-the-instance-role-of-worker-nodes/
 
@@ -36,6 +46,7 @@ https://github.com/aws/containers-roadmap/issues/263
 
 https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam-authenticator
 > https://medium.com/@soc_prime/analyzing-aws-iam-improper-input-validation-af24c66cacdd
+> > https://blog.lightspin.io/eks-authentication-part-1
 
 #
 https://aws.amazon.com/en/blogs/opensource/managing-spinnaker-using-spinnaker-operator-in-amazon-eks/?nc1=b_rp

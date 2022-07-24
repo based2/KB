@@ -25,6 +25,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://blog.gruntwork.io/the-docker-kubernetes-terraform-and-aws-crash-course-series-dca343ba1274
+> https://news.ycombinator.com/item?id=32213066
+
 https://localstack.cloud/blog/2022-07-13-announcing-localstack-v1-general-availability/
 > https://news.ycombinator.com/item?id=32193132
 

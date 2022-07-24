@@ -219,6 +219,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://pypi.org/security-key-giveaway/
+
 https://snarky.ca/why-you-should-use-python-m-pip/
 > https://news.ycombinator.com/item?id=32156581
 

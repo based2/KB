@@ -9,3 +9,6 @@ https://lwn.net/Articles/731581/ LuaTeX comes of age
 
 https://yakshav.es/the-patron-saint-of-yakshaves/ tex
 > https://news.ycombinator.com/item?id=29861678
+
+https://typst.app/
+> https://news.ycombinator.com/item?id=32209794

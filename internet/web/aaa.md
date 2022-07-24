@@ -99,6 +99,9 @@ https://github.com/maxcountryman/warc-parquet
 > https://news.ycombinator.com/item?id=31867179
 
 # News
+https://en.wikipedia.org/wiki/StretchText
+> https://news.ycombinator.com/item?id=32202701
+
 https://github.com/jawerty/myAlgorithm Your own self hosted recommendation feed based on your browsing habit
 > https://news.ycombinator.com/item?id=32152600
 

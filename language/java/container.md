@@ -50,3 +50,5 @@ https://foojay.io/today/journeys-in-java-level-5-building-an-empire-of-microserv
 https://piotrminkowski.com/2022/06/22/introduction-to-ksqldb-on-kubernetes-with-spring-boot/
 
 https://wildfly-security.github.io/wildfly-elytron/blog/ejb-over-tls/
+
+https://thenewstack.io/how-to-optimize-java-apps-on-kubernetes/

@@ -113,6 +113,9 @@ https://mosh.org/
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://dataswamp.org/~solene/2022-07-23-openbsd-sshfs.html
+> https://news.ycombinator.com/item?id=32204280
+
 https://ssh-comparison.quendi.de/comparison/cipher.html
 
 https://smackeyacky.blogspot.com/2022/07/tailscale-ate-my-network-and-i-love-it.html

@@ -189,6 +189,9 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://github.com/cloudscape-design/components AWS
+> https://news.ycombinator.com/item?id=32214622
+
 https://blog.metaobject.com/2018/12/uis-are-not-pure-functions-of-model.html
 > https://news.ycombinator.com/item?id=31979347
 
@@ -418,6 +421,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://thenewstack.io/misko-hevery-on-why-qwik-will-improve-javascript-frameworks/
+
 https://vercel.com/blog/build-output-api
 > https://news.ycombinator.com/item?id=32192498
 
