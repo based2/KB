@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://news.rice.edu/news/2022/wireless-activation-targeted-brain-circuits-less-one-second
+> https://news.ycombinator.com/item?id=32222991
+
 https://aeon.co/essays/how-the-brains-of-social-animals-synchronise-and-expand-one-another
 > 
 

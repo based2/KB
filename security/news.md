@@ -1,3 +1,19 @@
+https://handshake.org/
+> https://news.ycombinator.com/item?id=32221740
+
+https://arstechnica.com/information-technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-os-reinstalls/
+
+https://www.theverge.com/2022/7/25/23277161/uber-2016-data-breach-settlement-cover-up
+
+https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/
+> https://news.ycombinator.com/item?id=32234022
+
+https://i.blackhat.com/USA-20/Wednesday/us-20-Quintin-Detecting-Fake-4G-Base-Stations-In-Real-Time.pdf
+> https://news.ycombinator.com/item?id=32237621
+
+https://securelist.com/cosmicstrand-uefi-firmware-rootkit/106973/ CosmicStrand: the discovery of a sophisticated UEFI firmware rootkit
+> https://news.ycombinator.com/item?id=32238991
+
 https://streaming.media.ccc.de/mch2022
 
 https://github.com/nedlir/OfficerBreaker

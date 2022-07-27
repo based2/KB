@@ -254,6 +254,9 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://www.thenile.dev/blog/multi-tenant-rls
+> https://news.ycombinator.com/item?id=32241820
+
 https://postgrespro.com/community/books/internals
 
 https://supabase.com/blog/2022/07/18/seen-by-in-postgresql

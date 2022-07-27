@@ -201,6 +201,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://circleci.com/blog/announcing-gitlab-support/
+
 https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/
 > https://news.ycombinator.com/item?id=32214809
 

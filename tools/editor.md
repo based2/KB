@@ -187,6 +187,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/Dashibase/lotion
+> https://news.ycombinator.com/item?id=32231353
+
 https://wiki.c2.com/?EdIsTheStandardTextEditor
 > https://news.ycombinator.com/item?id=32013779
 

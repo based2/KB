@@ -60,6 +60,11 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://looria.com/
+> https://news.ycombinator.com/item?id=32241467
+
+https://colab.research.google.com/drive/189LHTpYaefMhKNIGOzTLHHavlgmoIWg9
+
 https://cs.github.com/about
 > https://news.ycombinator.com/item?id=31964517
 

@@ -54,6 +54,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://mullvad.net/en/blog/2022/7/26/mullvad-is-now-available-on-amazon-us-se/
+> https://news.ycombinator.com/item?id=32238167
+
 https://www.techradar.com/uk/news/millions-of-free-vpn-users-records-leaked beanVPN .ro
 
 https://github.com/firezone/wireguardex

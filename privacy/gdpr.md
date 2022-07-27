@@ -56,6 +56,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://vldb.org/pvldb/vol15/p958-george.pdf Retrofitting GDPR Compliance onto Legacy Databases
+> https://news.ycombinator.com/item?id=32241923
+
 https://siecledigital.fr/2022/07/20/un-citoyen-allemand-porte-plainte-contre-la-commission-europeenne-pour-avoir-utilise-aws/
 > https://www.euractiv.fr/section/economie/news/la-commission-europeenne-poursuivie-en-justice-pour-avoir-enfreint-les-regles-de-protection-des-donnees-de-lue/
 > > IP address

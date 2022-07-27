@@ -97,6 +97,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://earthly.dev/blog/pongo/
+> https://news.ycombinator.com/item?id=32238408
+
 https://www.brev.dev/post/upgrading-go-lang-from-v1-17-to-v1-18
 
 https://new.pythonforengineers.com/blog/learning-go-as-a-python-developer-the-good-the-bad-and-the-ugly/

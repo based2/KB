@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.phoronix.com/news/520-Maybe-Real-Time-PREEMPT_RT
+
 https://lwn.net/Articles/900099/ Kernel support for hardware-based control-flow integrity
 > https://news.ycombinator.com/item?id=32104776
 

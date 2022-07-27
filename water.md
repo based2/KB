@@ -43,3 +43,6 @@ https://singularityhub.com/2022/07/22/the-worlds-biggest-vertical-farm-just-open
 
 https://interestingengineering.com/mit-boil-water-quickly
 > https://news.ycombinator.com/item?id=32205666
+
+http://impact.nace.org/economic-impact.aspx#
+> https://news.ycombinator.com/item?id=32226267

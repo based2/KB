@@ -78,6 +78,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/
+
 https://dev.to/aws/aws-open-source-news-and-updates-120-11b0
 
 https://www.reddit.com/r/aws/comments/voiy19/the_new_aws_region_in_zaragoza_spain_is_called/ .ES .IL

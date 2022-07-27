@@ -143,6 +143,12 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.science.org/doi/10.1126/science.abj9820 In the glare of the Sun
+> https://news.ycombinator.com/item?id=32211988
+
+https://www.quantamagazine.org/two-weeks-in-the-webb-space-telescope-is-reshaping-astronomy-20220725/
+> https://news.ycombinator.com/item?id=32224725
+
 https://www.space.com/china-asteroids-planetary-radar-project
 
 https://www.smithsonianmag.com/smart-news/how-russian-space-mirror-briefly-lit-night-180957894/

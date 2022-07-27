@@ -80,6 +80,9 @@ https://github.com/benbjohnson/litestream
 
 https://github.com/tezc/resql Java
 
+https://github.com/superfly/litefs Distributed SQLite replication system, go
+> https://news.ycombinator.com/item?id=32240230
+
 # Distributed
 https://github.com/Expensify/Bedrock
 

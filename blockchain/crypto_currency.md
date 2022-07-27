@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://arstechnica.com/tech-policy/2022/07/ceo-who-sold-worthless-cryptocurrency-pleads-guilty-in-21-million-fraud-case/
+> https://news.ycombinator.com/item?id=32242844
+
 https://www.justice.gov/usao-sdny/pr/three-charged-first-ever-cryptocurrency-insider-trading-tipping-scheme
 > https://news.ycombinator.com/item?id=32180555
 

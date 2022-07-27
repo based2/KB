@@ -421,6 +421,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://blueboat.io/
+> https://news.ycombinator.com/item?id=32240511
+
 https://thenewstack.io/misko-hevery-on-why-qwik-will-improve-javascript-frameworks/
 
 https://vercel.com/blog/build-output-api

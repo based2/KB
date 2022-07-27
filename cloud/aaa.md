@@ -47,6 +47,8 @@ Use Quotas for Better Control and More Effective Cost Management in the Cloud - 
 * IBM
 * Oracle
 
+service management in US zones
+
 ## Landing zone cost
 
 # Security partners
@@ -85,6 +87,8 @@ https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Co
 https://www.theregister.com/2021/08/06/aws_google_dns/
 
 https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_authority/
+
+# LB certificate termination data-in-transit gap
 
 # Incidents
 https://www.bleepingcomputer.com/news/security/uk-heat-wave-causes-google-and-oracle-cloud-outages/
@@ -151,6 +155,12 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://github.com/rustdesk/rustdesk Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime
+> https://news.ycombinator.com/item?id=32239025
+
+https://lowendtalk.com/discussion/180504/hetzner-traffic-use-notice-unlimited-unlimited/p1
+> https://news.ycombinator.com/item?id=32242987
+
 https://www.usenix.org/publications/loginonline/jurassic-cloud
 > https://news.ycombinator.com/item?id=32164130
 

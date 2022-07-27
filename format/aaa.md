@@ -39,7 +39,9 @@ https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-av
 > https://news.ycombinator.com/item?id=31657006
 
 https://uploadcare.com/blog/fighting-jpeg-color-banding/
->
+
+https://www.vladsiv.com/dicom-file-format-basics/
+> https://news.ycombinator.com/item?id=32236056
 
 # News
 https://mort.coffee/home/tar/ The tar archive format, its extensions, and why GNU tar extracts in quadratic time

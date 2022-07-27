@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658266732235&to_ts=1658871532235&live=true
+> https://news.ycombinator.com/item?id=32217968
+
 https://www.tomorrowsworldtoday.com/2021/11/01/first-nuclear-microreactor-confirmed-for-the-us-air-force/
 
 https://electrek.co/2022/07/01/rhode-island-renewables-electricity-target-2033/

@@ -38,6 +38,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/rwmjones/miniexpect
+> https://news.ycombinator.com/item?id=32236109
+
 https://endler.dev/2017/yes/
 > https://news.ycombinator.com/item?id=32175328
 

@@ -66,6 +66,9 @@ https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf817
 https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-accounts-using-akeyless-vault-platform/
 
 # News
+https://github.com/google/gke-policy-automation
+> https://news.ycombinator.com/item?id=32223271
+
 https://thenewstack.io/shift-left-testing-applied-to-kubernetes/
 
 https://sectool.co/blog/ebpf-based-security

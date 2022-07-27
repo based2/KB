@@ -352,6 +352,9 @@ https://arxiv.org/abs/2206.07185 Aeneas: Rust Verification by Functional Transla
 https://blog.sunfishcode.online/broken-encapsulation/
 > https://news.ycombinator.com/item?id=31941089
 
+https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here/
+> https://news.ycombinator.com/item?id=32237780
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

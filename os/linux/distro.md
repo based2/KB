@@ -65,6 +65,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://github.com/NsCDE/NsCDE
+> https://news.ycombinator.com/item?id=32221947
+
 https://asahilinux.org/2022/07/july-2022-release/
 > https://news.ycombinator.com/item?id=32136483
 

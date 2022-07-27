@@ -240,6 +240,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html
+> https://news.ycombinator.com/item?id=32228569
+
 https://exceptionfactory.com/posts/2022/07/07/supporting-http2-in-apache-nifi/
 
 https://www.johndcook.com/blog/2019/04/27/rare-and-strange-icd-10-codes/

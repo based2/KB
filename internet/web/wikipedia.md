@@ -18,6 +18,8 @@ http://static.wiki/
 https://news.ycombinator.com/item?id=28277749
 
 # Wiki
+https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2022-06&pages=Hacker_News
+
 https://researchasahobby.com/full-list-eig-hosting-companies-brands/
 
 https://www.theverge.com/2022/3/11/22973293/wikipedia-editor-russia-belarus-ukraine

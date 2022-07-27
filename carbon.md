@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://singularityhub.com/2022/07/25/this-solar-tower-system-produces-jet-fuel-from-co2-water-and-sunlight/
+> https://news.ycombinator.com/item?id=32231353
+
 https://www.volkerkrause.eu/2022/07/23/kde-eco-sprint-july-2022.html
 
 https://www.bbc.com/news/science-environment-62225696

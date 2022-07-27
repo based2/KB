@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://gereshes.com/2022/07/24/select-textbooks-on-my-shelf-1-astrodynamics-edition/
+> https://news.ycombinator.com/item?id=32212791
+
 https://www.airbus.com/en/newsroom/stories/2022-07-could-an-open-fan-engine-cut-carbon-emissions-for-more-sustainable
 > https://news.ycombinator.com/item?id=32167888
 

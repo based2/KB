@@ -119,6 +119,12 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://benhoyt.com/writings/count-words/
+> https://news.ycombinator.com/item?id=32214419
+
+https://languagetool.org/en/dev Open-source Grammarly alternative
+> https://news.ycombinator.com/item?id=32236608
+
 https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/
 > https://news.ycombinator.com/item?id=31858311
 

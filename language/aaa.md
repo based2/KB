@@ -277,6 +277,9 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
 # News
+https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html
+>
+
 https://itnext.io/google-carbon-vs-apple-swift-9df8262342c8
 
 https://github.com/carbon-language/carbon-lang

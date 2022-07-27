@@ -18,6 +18,8 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://news.ycombinator.com/item?id=32239266
+
 https://www.npr.org/2022/07/21/1112689091/bitcoin-tesla-selloff?t=1658431586405
 
 https://blog.dshr.org/2022/07/mining-news.html

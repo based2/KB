@@ -112,6 +112,12 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://ro-che.info/articles/2021-02-27-linux-routing
+> https://news.ycombinator.com/item?id=32241531
+
+https://macoy.me/blog/programming/Sockets
+> https://news.ycombinator.com/item?id=32225532
+
 https://gazette.readthedocs.io/en/latest/
 https://github.com/gazette/core
 > https://news.ycombinator.com/item?id=32116711

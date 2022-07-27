@@ -41,6 +41,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://news.accelerationrobotics.com/towards-robot-accelerators-democratizing-hardware-acceleration-in-robotics/
+> https://news.ycombinator.com/item?id=32221072
+
 https://fjrg76.wordpress.com/2018/05/23/objectifying-task-creation-in-freertos-ii/
 
 https://www.servethehome.com/amd-xilinx-kria-kr260-robotics-kit-launched/
