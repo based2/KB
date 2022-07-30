@@ -177,6 +177,9 @@ http://nicolas.kruchten.com/content/2018/02/seriation/ heatmap r
 https://graphica.app/
 > https://news.ycombinator.com/item?id=27747038
 
+https://archivve.visualizevalue.com/
+> https://news.ycombinator.com/item?id=32287596
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
@@ -240,6 +243,23 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.fast.ai/2022/07/28/nbdev-v2/
+
+https://nbdev.fast.ai/
+> https://news.ycombinator.com/item?id=32271578
+
+https://cacm.acm.org/magazines/2022/8/262916-computational-thinking-in-the-era-of-data-science/fulltext
+
+https://observablehq.com/@tomlarkworthy/ndd Notebook Dataflow Debugger
+
+https://github.com/tabler/tabler open source dashboard template
+> https://news.ycombinator.com/item?id=32278397
+
+https://www.rstudio.com/blog/rstudio-is-becoming-posit/
+> https://news.ycombinator.com/item?id=32250350
+
+https://www.micahlerner.com/2022/05/15/druid-a-real-time-analytical-data-store.html
+
 https://www.micahlerner.com/2022/06/04/data-parallel-actors-a-programming-model-for-scalable-query-serving-systems.html
 > https://news.ycombinator.com/item?id=32228569
 

@@ -68,6 +68,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://svgees.us/blog/colorjs-release.html
+> https://news.ycombinator.com/item?id=32276987
+
 https://matthewstrom.com/writing/how-to-pick-the-least-wrong-colors/
 > https://news.ycombinator.com/item?id=31639009
 

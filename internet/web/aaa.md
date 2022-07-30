@@ -99,6 +99,12 @@ https://github.com/maxcountryman/warc-parquet
 > https://news.ycombinator.com/item?id=31867179
 
 # News
+https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/
+> https://news.ycombinator.com/item?id=32268934
+
+https://matt-rickard.com/the-programmable-web/
+> https://news.ycombinator.com/item?id=32284375
+
 https://en.wikipedia.org/wiki/StretchText
 > https://news.ycombinator.com/item?id=32202701
 

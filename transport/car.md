@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.historytoday.com/archive/history-matters/its-not-easy-being-green
+> https://news.ycombinator.com/item?id=32282446
+
 https://news.ycombinator.com/item?id=32240980
 
 https://driveteslacanada.ca/news/tesla-limits-standard-connectivity-package-to-8-years-on-new-vehicle-purchases/

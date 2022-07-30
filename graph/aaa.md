@@ -62,6 +62,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://blog.opencog.org/2013/03/24/why-hypergraphs/
+> https://news.ycombinator.com/item?id=32283022
+
 https://www.quantamagazine.org/new-proof-shows-when-structure-must-emerge-in-graphs-20220623/
 > https://news.ycombinator.com/item?id=31859262
 

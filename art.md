@@ -39,6 +39,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://news.ycombinator.com/item?id=32249586
+
 https://instant.gallery/
 
 https://www.brachiograph.art/index.html

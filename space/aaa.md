@@ -143,6 +143,18 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://arxiv.org/abs/2207.03005  mission architecture to reach and operate at the focal region of the solar gravitational lens
+> https://news.ycombinator.com/item?id=32262545
+
+https://www.science.org/content/article/voyager-steroids-mission-probe-mysterious-region-beyond-solar-system
+> https://news.ycombinator.com/item?id=32275229
+> > https://en.wikipedia.org/wiki/Local_Interstellar_Cloud
+
+https://aerospace.org/reentries/cz-5b-rb-id-53240-reentered
+> https://news.ycombinator.com/item?id=32286359
+
+https://news.ycombinator.com/item?id=32288399 Ask HN: Which re-entry/de-orbit was this?
+
 https://www.science.org/doi/10.1126/science.abj9820 In the glare of the Sun
 > https://news.ycombinator.com/item?id=32211988
 

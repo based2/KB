@@ -120,6 +120,9 @@ https://github.com/valinet/ExplorerPatcher
 https://news.ycombinator.com/item?id=29423102
 
 # News
+https://www.tenforums.com/tutorials/94628-change-split-threshold-svchost-exe-windows-10-a.html
+> https://news.ycombinator.com/item?id=32249638
+
 https://www.theregister.com/2022/07/12/microsoft_365_windows_7_eol/?td=keepreading
 
 https://old.reddit.com/r/sysadmin/comments/vqcf67/windows_undocumented_emergency_restart/

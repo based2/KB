@@ -24,3 +24,7 @@ https://www.micahlerner.com/2022/04/24/monarch-googles-planet-scale-in-memory-ti
 
 https://github.com/kevinlawler/kerf1 kdb+
 > https://news.ycombinator.com/item?id=32179898
+
+https://www.marpledata.com/
+> https://news.ycombinator.com/item?id=32262036
+

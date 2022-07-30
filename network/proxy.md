@@ -24,6 +24,8 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://github.com/HyNetwork/hysteria/wiki feature-packed proxy & relay utility optimized for lossy, unstable connections
+
 https://crproxy.com/
 > https://news.ycombinator.com/item?id=31886120
 

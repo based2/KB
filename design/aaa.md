@@ -45,9 +45,10 @@ https://brutalita.com/ Experimental font and editor, edit in your browser and do
 > https://news.ycombinator.com/item?id=29921137
 
 #
+https://www.templatemaker.nl
+
 https://www.juliendesrosiers.com/2021/08/21/tools-for-thinking.php
 > https://news.ycombinator.com/item?id=28292225
-
 
 https://en.wikipedia.org/wiki/Charrette
 > https://news.ycombinator.com/item?id=28549438

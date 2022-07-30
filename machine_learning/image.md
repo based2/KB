@@ -95,6 +95,8 @@ https://dagshub.com/blog/yolov6/#
 > https://news.ycombinator.com/item?id=31917626
 
 #
+https://socialbook.io/cartoonize
+
 https://github.com/NVlabs/stylegan3
 
 https://nyx-ai.github.io/stylegan2-flax-tpu/ This Food Does Not Exist

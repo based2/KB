@@ -113,6 +113,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://binary-translation.github.io/index.html
+> https://news.ycombinator.com/item?id=32278228
+
 http://www.linux-kongress.org/2009/slides/compiler_survey_felix_von_leitner.pdf Source Code Optimization
 
 https://hisham.hm/2022/06/27/turns-out-gcc-has-imperative-argument-handling/

@@ -80,3 +80,6 @@ https://linuxplumbersconf.org/event/11/contributions/938/ BPF security auditing 
 
 https://linuxplumbersconf.org/event/11/contributions/954/ Use of eBPF in CPU scheduler
 > https://news.ycombinator.com/item?id=28551568
+
+https://deepfence.io/aya-your-trusty-ebpf-companion/
+> https://news.ycombinator.com/item?id=32266926

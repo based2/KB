@@ -46,5 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+http://www.cburch.com/logisim/
+> https://news.ycombinator.com/item?id=32270149
+
 https://nostarch.com/open-circuits
 > https://news.ycombinator.com/item?id=31942329

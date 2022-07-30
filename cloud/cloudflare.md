@@ -3,6 +3,12 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://blog.cloudflare.com/cloud-computing-without-containers/
+> https://news.ycombinator.com/item?id=32289979
+
+https://github.com/gfodor/p2pcf Low cost, low effort WebRTC signalling using Cloudflare workers
+> https://news.ycombinator.com/item?id=32282954
+
 https://blog.cloudflare.com/announcing-wasi-on-workers/
 
 https://blog.cloudflare.com/introducing-d1/ database designed for Cloudflare Workers

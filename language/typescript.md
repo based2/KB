@@ -72,6 +72,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/ar-nelson/spartan-schema
+> https://www.reddit.com/r/programming/comments/wbnv11/spartan_schema_like_json_schema_but_simpler_and/
+
 https://devclass.com/2022/07/21/aws-open-sources-cloudscape-design-system/
 > https://github.com/cloudscape-design
 

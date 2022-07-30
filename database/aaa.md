@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://dbmsmusings.blogspot.com/2019/07/overview-of-consistency-levels-in.html
+> https://news.ycombinator.com/item?id=32271648
+
 https://news.ycombinator.com/item?id=32186203 Ask HN: What are some cool but obscure data structures you know about?
 
 https://blog.codinghorror.com/why-cant-database-tables-index-themselves/

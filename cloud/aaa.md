@@ -91,6 +91,9 @@ https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_auth
 # LB certificate termination data-in-transit gap
 
 # Incidents
+https://www.dreamhoststatus.com/
+> https://news.ycombinator.com/item?id=32254485
+
 https://www.bleepingcomputer.com/news/security/uk-heat-wave-causes-google-and-oracle-cloud-outages/
 
 https://status.cloud.google.com/incidents/XVq5om2XEDSqLtJZUvcH Cooling related failure (in Google London DC)
@@ -155,6 +158,14 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.tensordock.com/product-core Core GPU Cloud: Flexible, on-demand GPUs from $0.29/hour.
+> https://news.ycombinator.com/item?id=32269722
+
+https://barry.blog/2022/07/28/data-center-heatmap/
+> https://news.ycombinator.com/item?id=32273831
+
+https://www.theregister.com/2022/07/29/the_us_biggest_datacenter_market/
+
 https://github.com/rustdesk/rustdesk Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime
 > https://news.ycombinator.com/item?id=32239025
 

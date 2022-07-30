@@ -201,6 +201,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=32252501 Tell HN: Gitlab.com doesn't allow issue search without signing in
+
+https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/
+> https://news.ycombinator.com/item?id=32253483
+
 https://circleci.com/blog/announcing-gitlab-support/
 
 https://benjamincongdon.me/blog/2022/07/17/In-Praise-of-Stacked-PRs/

@@ -218,6 +218,17 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe
+> https://news.ycombinator.com/item?id=32262856
+
+https://github.com/basetenlabs/truss seamless bridge from model development to model delivery.
+> https://news.ycombinator.com/item?id=32277894
+
+https://scottaaronson.blog/?p=6599 On black holes, holography, the Quantum Extended Church-Turing Thesis, fully homomorphic encryption, and brain uploading
+
+https://github.com/OpenBMB/BMList
+> https://news.ycombinator.com/item?id=32285365
+
 https://bigtechnology.substack.com/p/google-fires-blake-lemoine-engineer
 > https://news.ycombinator.com/item?id=32198214
 

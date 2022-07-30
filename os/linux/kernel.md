@@ -12,6 +12,10 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.phoronix.com/news/Bytedance-Faster-Kexec-Reboot
+
+https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/ RNG RFC Patch: implement getrandom() in vDSO
+
 https://www.phoronix.com/news/520-Maybe-Real-Time-PREEMPT_RT
 
 https://lwn.net/Articles/900099/ Kernel support for hardware-based control-flow integrity

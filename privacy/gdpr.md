@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.cnil.fr/en/qa-cnils-formal-notices-concerning-use-google-analytics
+
 https://vldb.org/pvldb/vol15/p958-george.pdf Retrofitting GDPR Compliance onto Legacy Databases
 > https://news.ycombinator.com/item?id=32241923
 

@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://wunkolo.github.io/post/2020/02/buttery-smooth-10fps/
+> https://news.ycombinator.com/item?id=32272358
+
 http://www.paulbourke.net/fractals/burnship/
 > https://news.ycombinator.com/item?id=32210140
 

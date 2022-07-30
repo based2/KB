@@ -28,3 +28,6 @@ https://learnui.design/tools/typography-tutorial.html
 > https://news.ycombinator.com/item?id=31528601
 
 https://learnui.design/tools/typography-tutorial.html#
+
+https://www.warp.dev/blog/adventures-text-rendering-kerning-glyph-atlases
+> https://news.ycombinator.com/item?id=32251909

@@ -43,6 +43,7 @@ https://news.ycombinator.com/item?id=30117388
 https://blog.roastidio.us/posts/spam_blacklists_are_out_of_control/
 > https://news.ycombinator.com/item?id=30222736
 
+https://misc.l3m.in/txt/spam.txt
 > https://news.ycombinator.com/item?id=32242581
 
 https://linuxfr.org/news/sortie-de-rspamd-3-2-le-26-mars-2022-avec-support-bimi

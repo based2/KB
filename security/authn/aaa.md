@@ -64,6 +64,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://news.ycombinator.com/item?id=32251305 Launch HN: Warrant (YC S21) – Authorization and access control as a service
+
 https://datatracker.ietf.org/doc/html/rfc8176  Authentication Method Reference Values
 
 https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications

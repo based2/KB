@@ -254,6 +254,11 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://github.com/fcoury/oxide Teach your PostgreSQL database how to speak MongoDB Wire Protocol.
+> https://news.ycombinator.com/item?id=32276304
+
+https://www.timescale.com/blog/what-postgresql-contributor-heikki-linnakangas-has-to-say-about-the-state-of-postgresql-2022/
+
 https://www.thenile.dev/blog/multi-tenant-rls
 > https://news.ycombinator.com/item?id=32241820
 

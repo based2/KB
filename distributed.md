@@ -114,6 +114,8 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
 
 # News
+https://docs.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming
+
 https://thenewstack.io/the-silent-semantic-failures-that-break-distributed-systems/
 
 https://lockable.dev/ ? $ Easy-to-use sync locks for distributed systems ->  distributed lease

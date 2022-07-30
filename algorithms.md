@@ -84,6 +84,15 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://skerritt.blog/timsort/
+> https://news.ycombinator.com/item?id=32278608
+
+https://www-cs-faculty.stanford.edu/~knuth/news22.html
+> https://news.ycombinator.com/item?id=32281536
+
+https://dougallj.wordpress.com/2022/07/30/parallelising-huffman-decoding-and-x86-disassembly-by-synchronising-non-self-synchronising-prefix-codes/
+> https://news.ycombinator.com/item?id=32288195
+
 https://news.ycombinator.com/item?id=32195569 What are some of the coolest algorithms you know?
 
 https://en.wikipedia.org/wiki/Sch%C3%B6nhage%E2%80%93Strassen_algorithm

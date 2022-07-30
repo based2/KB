@@ -105,6 +105,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://schoolmaker.com/course-creation-guide
+> https://news.ycombinator.com/item?id=32272974
+
 https://www.openculture.com/freeonlinecourses
 
 https://sourceless.org/posts/relearning-to-learn.html

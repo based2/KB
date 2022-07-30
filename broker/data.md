@@ -9,5 +9,8 @@ https://news.ycombinator.com/item?id=29834753 Tell HN: Salary data is for sale
 
 https://www.youtube.com/watch?v=wqn3gR1WTcA John Oliver
 
+https://themarkup.org/the-breakdown/2022/07/27/who-is-collecting-data-from-your-car
+> https://news.ycombinator.com/item?id=32286871
+
 https://techcrunch.com/2022/06/07/oracle-quietly-closes-28b-deal-to-buy-electronic-health-records-company-cerner/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAB6WFm0cxZCzJfHg4jhfmaiUsUzov7zcAo66ifR8JFs_0tm1sjX7QEBfv0kxyJ8G1qbqAVue_8pesE4kXspQ1b5lyIpKs8u9Qr2j16r6j-aANZqRLqAAzQ9meZyO-hEHw7imbCCJNOxqJzj5tl9oiz7g7XhlGx32OdespklpSJEF
 > https://news.ycombinator.com/item?id=31667315

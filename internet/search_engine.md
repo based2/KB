@@ -60,6 +60,11 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://news.ycombinator.com/item?id=32261618
+
+https://blog.wolfram.com/2022/07/29/four-things-about-wolframalpha-you-may-not-know/
+> https://news.ycombinator.com/item?id=32282195
+
 https://looria.com/
 > https://news.ycombinator.com/item?id=32241467
 

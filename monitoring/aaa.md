@@ -73,6 +73,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://github.com/NarrativeScience/log.io
+> https://news.ycombinator.com/item?id=32281447
+
 https://linuxfr.org/news/ncpa-un-agent-pour-nagios
 
 https://justine.lol/memzoom/

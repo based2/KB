@@ -276,9 +276,20 @@ https://blog.veitheller.de/Building_Setf.html
 https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 > https://news.ycombinator.com/item?id=30631590
 
+https://github.com/kovisoft/paredit
+> https://news.ycombinator.com/item?id=32288193
+
 # News
+https://www.foonathan.net/2022/07/carbon-calling-convention/
+> https://news.ycombinator.com/item?id=32289225
+
+https://kevinlawler.com/refcount Reference Count, Don't Garbage Collect
+> https://news.ycombinator.com/item?id=32276580
+
+https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/
+> https://news.ycombinator.com/item?id=32252831
+
 https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html
->
 
 https://itnext.io/google-carbon-vs-apple-swift-9df8262342c8
 

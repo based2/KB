@@ -25,6 +25,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is
+> https://news.ycombinator.com/item?id=32282686
+
 https://github.com/lyft/cartography
 > 
 

@@ -199,6 +199,11 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://github.com/seek-oss/vanilla-extract
+
+https://developer.chrome.com/blog/help-css-nesting/
+> https://news.ycombinator.com/item?id=32248419
+
 https://getcssscan.com/
 > https://news.ycombinator.com/item?id=32150308
 

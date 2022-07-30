@@ -46,3 +46,6 @@ https://interestingengineering.com/mit-boil-water-quickly
 
 http://impact.nace.org/economic-impact.aspx#
 > https://news.ycombinator.com/item?id=32226267
+
+https://pubmed.ncbi.nlm.nih.gov/34023789/
+> https://news.ycombinator.com/item?id=32286142

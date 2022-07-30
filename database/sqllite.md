@@ -89,11 +89,24 @@ https://github.com/Expensify/Bedrock
 https://github.com/chiselstrike/chiselstore
 > https://news.ycombinator.com/item?id=29572756
 
+https://github.com/losfair/mvsqlite
+
+https://github.com/bloomberg/comdb2
+
 # History
 https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sergey.khabibullin.com/sqlite-extensions-in-rust/
+> https://news.ycombinator.com/item?id=32286977
+
+https://github.com/asg017/sqlite-lines
+> https://news.ycombinator.com/item?id=32288165
+
+https://fly.io/blog/sqlite-internals-btree/
+> https://news.ycombinator.com/item?id=32250426
+
 https://lethain.com/how-to-estimate-disk-space/
 
 https://sergey.khabibullin.com/sqlite-extensions-in-rust/

@@ -115,6 +115,14 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://words.filippo.io/dispatches/post-quantum-age/
+
+https://www.feistyduck.com/bulletproof-tls-newsletter/issue_91_nist_announces_preliminary_winners_of_post-quantum_competition
+> https://news.ycombinator.com/item?id=32273327
+
+https://eprint.iacr.org/2022/975 An efficient key recovery attack on SIDH (preliminary version)
+> https://news.ycombinator.com/item?id=32287342
+
 https://taoa.io/posts/Understanding-KZG10-Polynomial-Commitments
 
 https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/G0DoD7lkGPk

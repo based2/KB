@@ -18,6 +18,9 @@ http://static.wiki/
 https://news.ycombinator.com/item?id=28277749
 
 # Wiki
+https://tedgioia.substack.com/p/how-a-prominent-composer-lost-his
+> https://news.ycombinator.com/item?id=32252998
+
 https://pageviews.wmcloud.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&start=2015-07&end=2022-06&pages=Hacker_News
 
 https://researchasahobby.com/full-list-eig-hosting-companies-brands/

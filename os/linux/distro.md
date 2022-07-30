@@ -65,6 +65,9 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://diziet.dreamwidth.org/11840.html Upgrading from Debian Jessie to Bullseye after nearly 30 years
+> https://news.ycombinator.com/item?id=32256026
+
 https://github.com/NsCDE/NsCDE
 > https://news.ycombinator.com/item?id=32221947
 

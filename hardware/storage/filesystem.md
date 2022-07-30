@@ -25,6 +25,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://dr-emann.github.io/squashfs/squashfs.html
+> https://news.ycombinator.com/item?id=32212862
+
 https://www.phoronix.com/scan.php?page=news_item&px=EXT4-No-Delalloc-Perf-Fix
 
 https://openzfs.github.io/openzfs-docs/Getting%20Started/Ubuntu/Ubuntu%2022.04%20Root%20on%20ZFS.html

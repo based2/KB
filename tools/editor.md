@@ -156,6 +156,9 @@ https://seraf.dev/how-magit-improved-my-workflow-and-my-git-knowledge-c6ccca991e
 https://github.com/radian-software/straight.el
 > https://news.ycombinator.com/item?id=31833101
 
+https://xenodium.com/an-accentuated-emacs-experiment/
+> https://news.ycombinator.com/item?id=32286531
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

@@ -230,6 +230,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.lunasec.io/docs/blog/how-to-build-an-open-source-business-in-2021-part-1/
+> https://news.ycombinator.com/item?id=32269781
+
 https://gist.github.com/richhickey/1563cddea1002958f96e7ba9519972d9 Rich Hickey – Open Source is Not About You (2018)
 > https://news.ycombinator.com/item?id=31957554
 

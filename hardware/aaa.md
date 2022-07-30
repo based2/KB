@@ -72,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.commerce.senate.gov/2022/7/view-the-chips-legislation
+> https://news.ycombinator.com/item?id=32250207
+
 https://www.markertek.com/attachments/manuals/ThermalManagement.pdf
 
 https://semianalysis.substack.com/p/chinas-smic-is-shipping-7nm-foundry

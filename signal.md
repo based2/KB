@@ -29,6 +29,11 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://jbconsulting.substack.com/p/is-the-kalman-filter-just-a-low-pass
+> https://news.ycombinator.com/item?id=32271351
+
+https://sites.psu.edu/seticourse/9-dimensional-haystack/
+
 https://www.rpisoni.dev/posts/cossim-convolution/
 > https://news.ycombinator.com/item?id=32192008
 

@@ -12,6 +12,18 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://terraformindustries.com/
+> https://news.ycombinator.com/item?id=32286515
+
+https://energyindustryreview.com/renewables/bombora-mwave-solution-worlds-most-powerful-wave-energy-converter/
+> https://news.ycombinator.com/item?id=32286885
+
+https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/
+> https://news.ycombinator.com/item?id=32282632
+
+https://www.energy.gov/ne/articles/these-accident-tolerant-fuels-could-boost-performance-todays-reactors
+> https://news.ycombinator.com/item?id=32251187
+
 https://p.datadoghq.com/sb/5c2fc00be-393be929c9c55c3b80b557d08c30787a?from_ts=1658266732235&to_ts=1658871532235&live=true
 > https://news.ycombinator.com/item?id=32217968
 

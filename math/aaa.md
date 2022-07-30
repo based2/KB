@@ -101,6 +101,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://ariwatch.com/VS/Algorithms/TheFourthOperation.htm
+> https://news.ycombinator.com/item?id=32283702
+
 https://github.com/mirefek/geo_logic Tool for euclidean geometry aware of logic
 > https://news.ycombinator.com/item?id=32080526
 

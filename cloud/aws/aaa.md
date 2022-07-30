@@ -78,6 +78,12 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper/
+> https://news.ycombinator.com/item?id=32266414
+
+https://github.com/jaredtrog/cfplot eye-grep CF output
+> https://news.ycombinator.com/item?id=32280162
+
 https://aws.amazon.com/en/about-aws/whats-new/2022/07/aws-announces-aws-wickr-preview/
 
 https://dev.to/aws/aws-open-source-news-and-updates-120-11b0

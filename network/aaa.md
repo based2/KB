@@ -112,6 +112,11 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.batfish.org/ network configuration analysis tool
+
+https://www.theregister.com/2022/07/27/replace_tcp_datacenter/
+> https://news.ycombinator.com/item?id=32253883
+
 https://ro-che.info/articles/2021-02-27-linux-routing
 > https://news.ycombinator.com/item?id=32241531
 

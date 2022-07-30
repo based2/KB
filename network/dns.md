@@ -87,6 +87,15 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://github.com/serverless-dns/serverless-dns
+> https://news.ycombinator.com/item?id=32286408
+
+https://twitter.com/netsolcares/with_replies
+> https://news.ycombinator.com/item?id=32254949
+
+https://www.netmeister.org/blog/dns-size.html
+> https://news.ycombinator.com/item?id=32254434
+
 https://dnsrpz.info/
 
 https://arxiv.org/abs/2207.07486 Securing name resolution in the IoT: DNS over CoAP

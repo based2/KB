@@ -97,6 +97,11 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://blogs.igalia.com/dpiliaiev/gfxreconstruct-test-mobile-gpus/
+
+https://bevyengine.org/news/bevy-0-8/
+> https://news.ycombinator.com/item?id=32287828
+
 https://devpoga.org/blog/2022-07-23_neovim_godot/
 > https://news.ycombinator.com/item?id=32203642
 

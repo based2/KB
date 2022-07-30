@@ -28,4 +28,7 @@ https://www.bleepingcomputer.com/news/technology/finnish-govt-agency-warns-of-un
 
 https://destevez.net/2022/03/a-rust-implementation-of-galileo-osnma/
 
+https://gpsjam.org/
+> https://news.ycombinator.com/item?id=32245346
+
 https://news.ycombinator.com/item?id=31069465 Development of GPS Receiver Kalman Filter Algorithms (2016) [pdf] 

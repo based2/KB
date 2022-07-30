@@ -1,3 +1,39 @@
+https://sourcing.games/
+
+https://www.x86matthew.com/view_post?id=embed_exe_reg
+> https://news.ycombinator.com/item?id=32249845
+
+https://krebsonsecurity.com/2022/07/911-proxy-service-implodes-after-disclosing-breach/
+> https://news.ycombinator.com/item?id=32280975
+
+https://rwmj.wordpress.com/2010/02/18/why-the-windows-registry-sucks-technically/
+> https://news.ycombinator.com/item?id=32275078
+
+https://routersecurity.org/
+> https://news.ycombinator.com/item?id=32285609
+
+https://www.theregister.com/2022/07/29/us_judiciary_attack/
+> https://news.ycombinator.com/item?id=32287490
+
+https://support.apple.com/en-us/HT202068 Recommended settings for Wi-Fi routers and access points
+> https://news.ycombinator.com/item?id=32285638
+
+https://derekabdine.com/blog/2022-arris-advisory.html
+
+https://www.computerenhance.com/p/why-isnt-there-a-createprocess-that
+
+https://hashlookup.io/
+> https://news.ycombinator.com/item?id=32237226
+
+https://media.ccc.de/v/mch2022-196-signal-you-were-the-chosen-one-
+> https://news.ycombinator.com/item?id=32244795
+
+https://arxiv.org/abs/2207.11306 Security policy audits: why and how
+> https://news.ycombinator.com/item?id=32242473
+
+https://nnethercote.github.io/2022/07/27/twenty-years-of-valgrind.html
+> https://news.ycombinator.com/item?id=32245136
+
 https://handshake.org/
 > https://news.ycombinator.com/item?id=32221740
 
@@ -75,6 +111,7 @@ https://confluence.atlassian.com/doc/questions-for-confluence-security-advisory-
 > https://portswigger.net/daily-swig/atlassian-patches-batch-of-critical-vulnerabilities-across-multiple-products
 > https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/
 > https://twitter.com/fluepke/status/1550471087560982531
+> https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-confluence-bug-exploited-in-attacks/
 
 https://docs.crowdsec.net/docs/intro
 > https://linuxfr.org/news/crowdsec-la-cybersecurite-collaborative-open-source-et-gratuite-pour-linux

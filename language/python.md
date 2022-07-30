@@ -109,6 +109,9 @@ https://github.com/idmitrievsky/rescue Makes exceptions type-safe with minimal b
 https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild.html
 > https://news.ycombinator.com/item?id=30721964
 
+https://typeguard.readthedocs.io/en/latest/index.html
+> https://news.ycombinator.com/item?id=32261077
+
 # Security
 https://pypi.org/project/pip-audit/
 
@@ -219,6 +222,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://mathspp.com/blog/how-to-create-a-python-package-in-2022
+> https://news.ycombinator.com/item?id=32258783
+
 https://pypi.org/security-key-giveaway/
 
 https://snarky.ca/why-you-should-use-python-m-pip/

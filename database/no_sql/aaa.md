@@ -17,6 +17,12 @@ https://github.com/FerretDB/FerretDB
 https://redis.io/docs/stack/
 > https://news.ycombinator.com/item?id=30863327
 
+https://duckdb.org/2022/07/27/art-storage.html
+>
+
+https://www.edgedb.com/blog/edgedb-2-0
+> https://news.ycombinator.com/item?id=32267287
+
 https://engula.io/posts/release-0.2/
 > https://news.ycombinator.com/item?id=29589129
 

@@ -11,7 +11,13 @@ https://www.storj.io/blog/lensm
 https://www.vergiliusproject.com/ windows kernel
 > https://news.ycombinator.com/item?id=32136235
 
+https://github.com/WerWolv/ImHex
+> https://news.ycombinator.com/item?id=32287902
+> https://news.ycombinator.com/item?id=32285086
+
 #
+https://hvmi.github.io/blog/2020/11/04/bddisasm.html Bitdefender x86 Disassembler
+
 https://binary.ninja/2022/07/13/introducing-decompiler-explorer.html
 
 https://astrid.tech/2022/07/07/0/blink-mini-disassembly/
