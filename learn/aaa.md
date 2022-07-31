@@ -105,6 +105,11 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://artofmemory.com/wiki/How_to_Build_a_Memory_Palace/
+
+https://harvard-iacs.github.io/2019-CS109A/pages/materials.html
+> https://news.ycombinator.com/item?id=32295243
+
 https://schoolmaker.com/course-creation-guide
 > https://news.ycombinator.com/item?id=32272974
 

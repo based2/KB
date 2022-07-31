@@ -36,6 +36,9 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://www.science.org/content/blog-post/faked-crystallography
+> https://news.ycombinator.com/item?id=32290497
+
 https://news.ycombinator.com/item?id=32287512 Ask HN: How do you critically evaluate scientific papers?
 
 https://www.nngroup.com/articles/research-ops-101/

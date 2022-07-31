@@ -119,6 +119,8 @@ https://github.com/valinet/ExplorerPatcher
 # Dev
 https://news.ycombinator.com/item?id=29423102
 
+https://ossia.io/posts/msstore/
+
 # News
 https://www.tenforums.com/tutorials/94628-change-split-threshold-svchost-exe-windows-10-a.html
 > https://news.ycombinator.com/item?id=32249638

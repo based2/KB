@@ -98,6 +98,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://phiresky.github.io/blog/2022/sqlite-zstd/
+> https://news.ycombinator.com/item?id=32297193
+
 https://sergey.khabibullin.com/sqlite-extensions-in-rust/
 > https://news.ycombinator.com/item?id=32286977
 

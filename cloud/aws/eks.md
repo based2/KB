@@ -48,7 +48,17 @@ https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam
 > https://medium.com/@soc_prime/analyzing-aws-iam-improper-input-validation-af24c66cacdd
 > > https://blog.lightspin.io/eks-authentication-part-1
 
+https://aws-controllers-k8s.github.io/community/docs/community/overview/
+
 #
+https://ambar-thecloudgarage.medium.com/eks-anywhere-extending-the-hybrid-cloud-momentum-1c7b82f610e
+
+https://aws.amazon.com/en/blogs/aws/amazon-detective-supports-kubernetes-workloads-on-amazon-eks-for-security-investigations/
+
+https://aws.amazon.com/en/blogs/containers/using-amazon-ebs-snapshots-for-persistent-storage-with-your-amazon-eks-cluster-by-leveraging-add-ons/
+
+https://aws.amazon.com/en/blogs/containers/migrating-amazon-eks-clusters-from-gp2-to-gp3-ebs-volumes/
+
 https://aws.amazon.com/en/blogs/opensource/managing-spinnaker-using-spinnaker-operator-in-amazon-eks/?nc1=b_rp
 
 https://www.qovery.com/blog/kubernetes-cluster-autoscaler-vs-karpenter

@@ -65,6 +65,9 @@ https://thanos.io/ Open source, highly available Prometheus setup with longF ter
 
 https://news.ycombinator.com/item?id=31780076 Show HN: Root Cause as a Service – Never dig through logs again
 
+https://www.devraven.io/ Monitoring for Developers
+> https://news.ycombinator.com/item?id=32296783
+
 # Distributed
 https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and ClickHouse, go
 > https://news.ycombinator.com/item?id=29711433

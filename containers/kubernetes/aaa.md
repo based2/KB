@@ -48,6 +48,8 @@ https://thenewstack.io/knatives-independent-future-outside-a-foundation/
 # Infra
 https://google.github.io/kctf/
 
+https://k9scli.io/
+
 # Database
 https://thenewstack.io/a-case-for-databases-on-kubernetes-from-a-former-skeptic/
 
@@ -62,6 +64,15 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/
+> https://news.ycombinator.com/item?id=32298058
+
+https://releasehub.com/blog/kubernetes-namespaces-the-ultimate-guide
+
+https://github.com/jthomperoo/predictive-horizontal-pod-autoscaler
+
+https://neonmirrors.net/post/2021-01/kyverno-the-swiss-army-knife-of-kubernetes/
+
 https://redpanda.com/blog/kafka-kubernetes-deployment-pros-cons
 > https://news.ycombinator.com/item?id=32202771
 

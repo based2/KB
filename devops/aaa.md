@@ -119,6 +119,8 @@ https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 https://github.com/reposaur/reposaur Allows users and organizations to execute policies against GitHub data to generate reports, perform auditing and more
 
 # Incidents
+https://about.gitlab.com/releases/2022/06/30/critical-security-release-gitlab-15-1-1-released/
+
 https://starlabs.sg/blog/2022/07-gitlab-project-import-rce-analysis-cve-2022-2185/
 
 https://about.gitlab.com/releases/2022/06/30/critical-security-release-gitlab-15-1-1-released/#remote-command-execution-via-project-imports
@@ -201,6 +203,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://dxuuu.xyz/prr.html Github pull request review terminal
+> https://github.com/danobi/prr
+
 https://news.ycombinator.com/item?id=32252501 Tell HN: Gitlab.com doesn't allow issue search without signing in
 
 https://github.blog/2022-07-27-planning-next-to-your-code-github-projects-is-now-generally-available/

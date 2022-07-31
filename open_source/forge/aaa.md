@@ -15,7 +15,6 @@ https://pijul.org/posts/2022-01-08-beta/
 
 # News
 https://gnu.wildebeest.org/blog/mjw/2022/06/22/sourceware-gnu-toolchain-infrastructure-roadmap/
->
 
 https://andreiclinciu.net/blog/why-im-using-fossil-scm-instead-of-other-source-control-systems
 > https://news.ycombinator.com/item?id=31634560

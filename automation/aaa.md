@@ -25,6 +25,8 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://github.com/oilshell/oil/wiki/Survey-of-Config-Languages
+
 https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is
 > https://news.ycombinator.com/item?id=32282686
 

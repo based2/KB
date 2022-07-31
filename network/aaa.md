@@ -112,6 +112,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.micahlerner.com/2022/01/13/the-ties-that-un-bind-decoupling-ip-from-web-services-and-sockets-for-robust-addressing-agility-at-cdn-scale.html
+
 https://www.batfish.org/ network configuration analysis tool
 
 https://www.theregister.com/2022/07/27/replace_tcp_datacenter/

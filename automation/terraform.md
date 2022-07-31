@@ -91,6 +91,11 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://www.koslib.com/posts/troubleshooting-terraform-eks-module/
+
+https://discuss.hashicorp.com/t/depends-on-in-providers/42632
+> https://news.ycombinator.com/item?id=32295748
+
 https://medium.com/@elliotgraebert/four-great-alternatives-to-hashicorps-terraform-cloud-6e0a3a0a5482
 
 https://github.com/hashicorp/terraform/issues/30937 Unknown values should not block successful planning

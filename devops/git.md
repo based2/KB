@@ -259,6 +259,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://fully-faltoo.com/p/reviewing-each-line-of-code/
+
+https://matt-rickard.com/how-kubernetes-broke-git/
+> https://news.ycombinator.com/item?id=32294373
+
 https://paedubucher.ch/articles/2022-07-26-git-with-multiple-e-mail-addresses.html
 
 https://git.inept.dev/~doyle/rgit.git/about

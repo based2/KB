@@ -115,6 +115,13 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blogs.mathworks.com/cleve/2022/04/01/the-enigma-qube-merging-an-enigma-machine-and-a-rubiks-cube/
+
+https://www.johndcook.com/blog/2019/04/21/what-is-an-isogeny/
+
+https://scottaaronson.blog/?p=208 Shor, I’ll do it: explaining Shor’s algorithm without using a single ket sign
+> https://news.ycombinator.com/item?id=32294430
+
 https://words.filippo.io/dispatches/post-quantum-age/
 
 https://www.feistyduck.com/bulletproof-tls-newsletter/issue_91_nist_announces_preliminary_winners_of_post-quantum_competition

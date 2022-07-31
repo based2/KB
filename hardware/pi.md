@@ -1,3 +1,6 @@
+https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/ risc-v
+> https://news.ycombinator.com/item?id=32298137
+
 https://github.com/gusmanb/logicanalyzer
 > https://news.ycombinator.com/item?id=31980989
 

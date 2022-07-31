@@ -113,6 +113,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.cs.utexas.edu/~pingali/CS380C/2010/papers/ssaCytron.pdf Efficiently Computing Static Single,Assignment Form and the Control Dependence Graph
+
 https://binary-translation.github.io/index.html
 > https://news.ycombinator.com/item?id=32278228
 

@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://support.usr.com/support/6000/6000-ug/two.html How a Cable Modem Works
+> https://news.ycombinator.com/item?id=32287571
+
 https://jbconsulting.substack.com/p/is-the-kalman-filter-just-a-low-pass
 > https://news.ycombinator.com/item?id=32271351
 

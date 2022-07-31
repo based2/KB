@@ -218,6 +218,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://cacm.acm.org/magazines/2022/4/259398-explainable-ai/fulltext
+
+https://cacm.acm.org/magazines/2022/7/262079-toward-verified-artificial-intelligence/fulltext
+
 https://www.deepmind.com/blog/alphafold-reveals-the-structure-of-the-protein-universe
 > https://news.ycombinator.com/item?id=32262856
 

@@ -216,6 +216,8 @@ https://timeflow.systems/what-is-the-data-lakehouse-pattern/
 https://cnr.sh/essays/what-the-heck-data-mesh
 > https://news.ycombinator.com/item?id=27999348
 
+https://martinfowler.com/articles/data-monolith-to-mesh.html
+
 # Data Frame
 https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/
 > https://news.ycombinator.com/item?id=29417998
@@ -243,6 +245,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://harvard-iacs.github.io/2021-CS109A/pages/materials.html
+> https://news.ycombinator.com/item?id=32296603
+
 https://www.fast.ai/2022/07/28/nbdev-v2/
 
 https://nbdev.fast.ai/

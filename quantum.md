@@ -79,6 +79,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.nature.com/articles/s41467-022-29774-8 Curving the space by non-Hermiticity
+
 https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/
 > https://news.ycombinator.com/item?id=32156834
 

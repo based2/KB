@@ -40,6 +40,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
  
 # News
+https://news.ycombinator.com/item?id=32296952 LinkedIn is importing job postings it finds online onto company's profiles
+
 https://www.consilium.europa.eu/en/press/press-releases/2022/07/18/dma-council-gives-final-approval-to-new-rules-for-fair-competition-online/
 > https://news.ycombinator.com/item?id=32163704
 

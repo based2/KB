@@ -421,6 +421,18 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+http://www.xlog.ch/izytab/doclet/en/docs/23_products/05_dogelog/package.html Prolog system for the JavaScript and the Python platform
+> https://news.ycombinator.com/item?id=32279359
+
+https://millionjs.org/
+> https://news.ycombinator.com/item?id=32291822
+
+https://playcode.io/ I've been making JavaScript sandbox alone for 6 years
+> https://news.ycombinator.com/item?id=32293178
+
+https://maxleiter.com/blog/node-has-tooling-problems
+> https://news.ycombinator.com/item?id=32289898
+
 https://www.lunasec.io/docs/blog/bun-first-look/
 > https://news.ycombinator.com/item?id=32243534
 

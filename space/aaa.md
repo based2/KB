@@ -143,6 +143,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.nasa.gov/connect/ebooks/history-of-neo-research.html
+
 https://arxiv.org/abs/2207.03005  mission architecture to reach and operate at the focal region of the solar gravitational lens
 > https://news.ycombinator.com/item?id=32262545
 

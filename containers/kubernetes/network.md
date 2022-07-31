@@ -13,3 +13,5 @@ https://github.com/up9inc/mizu API Traffic Viewer for Kubernetes (tcpdump)
 https://www.useanvil.com/blog/engineering/load-balancing-grpc-in-kubernetes-with-istio/
 
 https://traefik.io/blog/announcing-traefik-hub-cloud-native-networking-platform/
+
+https://itnext.io/steps-to-emulate-pod-network-1c34209d0f53

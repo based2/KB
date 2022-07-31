@@ -144,6 +144,8 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://www.morganstanley.com/im/publication/insights/articles/article_goodlossesbadlosses.pdf
+
 https://www.atlantafed.org/cqer/research/gdpnow
 > https://news.ycombinator.com/item?id=31955946
 

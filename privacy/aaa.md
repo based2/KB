@@ -95,6 +95,8 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://www.nytimes.com/2022/07/31/business/student-privacy-illuminate-hack.html
+
 https://www.bleepingcomputer.com/news/security/meta-us-hospitals-sued-for-tracking-patients-on-medical-portals/
 
 https://news.ycombinator.com/item?id=32289695 Samsung adds 'repair mode' to phones, blocking PII leak when phone is repaired

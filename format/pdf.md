@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://www.ghostscript.com/blog/pdfi.html
+> https://news.ycombinator.com/item?id=32296299
+
 https://desklamp.io/
 > https://news.ycombinator.com/item?id=31966914
 

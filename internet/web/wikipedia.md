@@ -44,6 +44,9 @@ https://www.bookstackapp.com/ php
 https://news.ycombinator.com/item?id=30392849
 
 # News
+https://news.mit.edu/2022/study-finds-wikipedia-influences-judicial-behavior-0727
+> https://news.ycombinator.com/item?id=32294528
+
 https://wikenigma.org.uk/
 > https://news.ycombinator.com/item?id=32210258
 

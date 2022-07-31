@@ -1,3 +1,15 @@
+https://nsacyber.github.io/opensource.html
+
+https://queue.acm.org/detail.cfm?id=3546933 The Challenges of IoT, TLS, and Random Number Generators in the Real World
+
+https://research.nccgroup.com/2022/07/25/technical-advisory-multiple-vulnerabilities-in-nuki-smart-locks-cve-2022-32509-cve-2022-32504-cve-2022-32502-cve-2022-32507-cve-2022-32503-cve-2022-32510-cve-2022-32506-cve-2022-32508-cve-2/
+
+https://arxiv.org/abs/2207.05267 Fibre-optic cables could be used to spy on people a kilometre away
+> https://news.ycombinator.com/item?id=32279344
+
+https://jhftss.github.io/CVE-2022-26712-The-POC-For-SIP-Bypass-Is-Even-Tweetable/
+> https://news.ycombinator.com/item?id=32278345
+
 https://sourcing.games/
 
 https://www.x86matthew.com/view_post?id=embed_exe_reg

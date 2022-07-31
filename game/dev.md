@@ -97,6 +97,16 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://nassimcomics.substack.com/p/a-tutorial-like-you-have-never-seen
+> https://news.ycombinator.com/item?id=32297936
+
+https://easyrpg.org/
+> https://news.ycombinator.com/item?id=32297760
+
+https://nicole.express/2022/sega-8-bit-conversion-kit.html
+
+https://benoitessiambre.com/simcb2.html Sim Central Bank Afterthoughts and Something About AI and Empathy
+
 https://blogs.igalia.com/dpiliaiev/gfxreconstruct-test-mobile-gpus/
 
 https://bevyengine.org/news/bevy-0-8/

@@ -69,7 +69,10 @@ https://www.tranquil.it/en/manage-it-equipment/wapt/software-configurations-depl
 https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
-# News 
+# News
+https://news.itsfoss.com/wayland-core-protocol-issue/
+> https://news.ycombinator.com/item?id=32295685
+
 https://hpjansson.org/blag/2022/07/23/gnome-at-25-a-health-checkup/
 > https://news.ycombinator.com/item?id=32200441
 

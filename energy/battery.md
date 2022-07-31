@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.wired.com/story/catl-china-battery-production-evs/
+
 https://www.axios.com/2022/07/22/ford-lithium-iron-phosphate-batteries
 > https://news.ycombinator.com/item?id=32210695
 

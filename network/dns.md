@@ -87,6 +87,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://timothya.com/blog/dns/ Building a Recursive DNS Resolver
+
 https://github.com/serverless-dns/serverless-dns
 > https://news.ycombinator.com/item?id=32286408
 
