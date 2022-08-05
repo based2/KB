@@ -97,6 +97,9 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://godotengine.org/article/godot-3-5-cant-stop-wont-stop
+> https://news.ycombinator.com/item?id=32357248
+
 https://nassimcomics.substack.com/p/a-tutorial-like-you-have-never-seen
 > https://news.ycombinator.com/item?id=32297936
 

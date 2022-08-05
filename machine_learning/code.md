@@ -50,3 +50,6 @@ https://www.mintlify.com/writer code comment
 > https://news.ycombinator.com/item?id=32170829
 
 https://arxiv.org/abs/2207.14157 A Hazard Analysis Framework for Code Synthesis Large Language Models
+
+https://github.com/moyix/fauxpilot
+> https://news.ycombinator.com/item?id=32327711

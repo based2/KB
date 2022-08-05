@@ -203,6 +203,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.theregister.com/2022/08/05/gitlab_reverses_deletion_policy/
+> https://news.ycombinator.com/item?id=32350180
+
 https://dxuuu.xyz/prr.html Github pull request review terminal
 > https://github.com/danobi/prr
 

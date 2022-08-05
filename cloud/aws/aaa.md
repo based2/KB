@@ -78,6 +78,9 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://localstack.cloud/blog/2022-08-04-parity-explained/
+> https://news.ycombinator.com/item?id=32343548
+
 https://github.com/servian/aws-auto-cleanup
 
 https://matt-rickard.com/10-years-and-s3-isnt-getting-cheaper/

@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://climateandsecurity.files.wordpress.com/2019/07/implications-of-climate-change-for-us-army_army-war-college_2019.pdf
+> https://news.ycombinator.com/item?id=32344975
+
 https://www.scientificamerican.com/article/zoe-becomes-the-worlds-first-named-heat-wave/
 
 https://singularityhub.com/2022/07/25/this-solar-tower-system-produces-jet-fuel-from-co2-water-and-sunlight/

@@ -64,6 +64,12 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6
+> https://news.ycombinator.com/item?id=32354294
+
+https://thenewstack.io/is-kubernetes-adoption-slowing/
+> https://news.ycombinator.com/item?id=32361486
+
 https://iximiuz.com/en/posts/kubernetes-vs-virtual-machines/
 > https://news.ycombinator.com/item?id=32298058
 

@@ -70,6 +70,9 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://aws.amazon.com/fr/blogs/compute/introducing-tiered-pricing-for-aws-lambda/
+> https://news.ycombinator.com/item?id=32359145
+
 https://www.verticalrelevance.com/using-aws-lambdas-new-attribute-based-access-control-abac-to-ensure-compliance-of-lambda-functions/
 
 https://lumigo.io/blog/building-scale-traceability-abac-lambda-functions/

@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://news.mit.edu/2022/natel-energy-hydropower-0805
+
 https://terraformindustries.com/
 > https://news.ycombinator.com/item?id=32286515
 

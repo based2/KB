@@ -72,6 +72,9 @@ https://blog.cloudflare.com/kemtls-post-quantum-tls-without-signatures/
 https://utcc.utoronto.ca/~cks/space/blog/web/OCSPStaplingAndErrors
 
 # 1.3
+https://tls13.xargs.org/
+> https://news.ycombinator.com/item?id=32333115
+
 https://blog.devgenius.io/added-security-measures-and-changes-in-tls-1-3-fd93bbfecb8f
 
 Compact TLS 1.3 https://tools.ietf.org/html/draft-rescorla-tls-ctls-02 https://news.ycombinator.com/item?id=20676408
@@ -102,6 +105,9 @@ https://twitter.com/letsencrypt/status/1443621997288767491
 https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation-method/170450
 > https://www.reddit.com/r/sysadmin/comments/sd2k4g/psa_letsencrypt_will_revoke_certificates_issued/
 
+https://letsencrypt.org/repository/
+> https://news.ycombinator.com/item?id=32339222
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 
@@ -127,6 +133,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://www.openssl.org/news/secadv/20220705.txt
+
 https://dellfer.com/shload-exploits-episode-v-return-of-the-error/
 > https://www.reddit.com/r/netsec/comments/w4vrw2/shload_exploits_sha_hardware_offload_wo_error/
 

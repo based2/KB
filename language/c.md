@@ -71,6 +71,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu
+> https://news.ycombinator.com/item?id=32352569
+
 https://thephd.dev/finally-embed-in-c23
 > https://news.ycombinator.com/item?id=32201951
 

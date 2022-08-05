@@ -1,3 +1,6 @@
+https://nns.ee/blog/2022/08/05/routeros-container-rce.html
+> https://news.ycombinator.com/item?id=32353413
+
 https://nsacyber.github.io/opensource.html
 
 https://queue.acm.org/detail.cfm?id=3546933 The Challenges of IoT, TLS, and Random Number Generators in the Real World

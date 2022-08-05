@@ -33,6 +33,9 @@ https://www.busybox.net/downloads/BusyBox.html
 # Cron
 https://crontab.guru/
 
+https://cronprompt.com/
+> https://news.ycombinator.com/item?id=32358591
+
 # Awk
 https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463

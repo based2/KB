@@ -112,6 +112,12 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.mit.edu/2022/algorithm-computer-network-bandwidth-0804
+> https://news.ycombinator.com/item?id=32340887
+
+https://dataswamp.org/~solene/2022-08-05-linux-arp-filter.html
+> https://news.ycombinator.com/item?id=32359059
+
 https://www.micahlerner.com/2022/01/13/the-ties-that-un-bind-decoupling-ip-from-web-services-and-sockets-for-robust-addressing-agility-at-cdn-scale.html
 
 https://www.batfish.org/ network configuration analysis tool

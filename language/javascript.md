@@ -421,6 +421,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://developer.mozilla.org/en-US/docs/Web/API/ElementInternals
+> https://news.ycombinator.com/item?id=32361814
+
 http://www.xlog.ch/izytab/doclet/en/docs/23_products/05_dogelog/package.html Prolog system for the JavaScript and the Python platform
 > https://news.ycombinator.com/item?id=32279359
 

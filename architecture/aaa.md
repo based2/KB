@@ -223,6 +223,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.innoq.com/en/blog/brief-introduction-to-arc42/
+> https://news.ycombinator.com/item?id=32353500
+
 https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md
 > https://news.ycombinator.com/item?id=32023863
 

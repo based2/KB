@@ -115,6 +115,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.cr.yp.to/20220805-nsa.html
+> https://news.ycombinator.com/item?id=32360533
+
 https://blogs.mathworks.com/cleve/2022/04/01/the-enigma-qube-merging-an-enigma-machine-and-a-rubiks-cube/
 
 https://www.johndcook.com/blog/2019/04/21/what-is-an-isogeny/
