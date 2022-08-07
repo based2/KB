@@ -115,6 +115,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.cloudflare.com/experiment-with-pq/
+> https://www.reddit.com/r/netsec/comments/wgdo7x/cloudflare_implements_experimental_support_for/
+
 https://blog.cr.yp.to/20220805-nsa.html
 > https://news.ycombinator.com/item?id=32360533
 

@@ -64,6 +64,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://www.schengenvisainfo.com/news/finland-to-become-the-first-eu-country-to-test-digital-passports/
+> https://news.ycombinator.com/item?id=32365906
+
 https://news.ycombinator.com/item?id=32251305 Launch HN: Warrant (YC S21) – Authorization and access control as a service
 
 https://datatracker.ietf.org/doc/html/rfc8176  Authentication Method Reference Values

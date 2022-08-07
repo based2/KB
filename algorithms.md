@@ -84,6 +84,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://softwareengineering.stackexchange.com/questions/260969/original-source-of-seed-9301-49297-233280-random-algorithm
+> https://news.ycombinator.com/item?id=32368210
+
 https://skerritt.blog/timsort/
 > https://news.ycombinator.com/item?id=32278608
 

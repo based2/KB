@@ -55,6 +55,9 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://medium.com/@glan1k/dall-e-gpt-3-d1aaaff38639
+> https://news.ycombinator.com/item?id=32377069
+
 https://openai.com/blog/dall-e-now-available-in-beta/
 > https://news.ycombinator.com/item?id=32168190
 

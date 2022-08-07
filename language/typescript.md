@@ -72,6 +72,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/MathisBullinger/froebel pipe
+> https://news.ycombinator.com/item?id=32377646
+
 https://buf.build/blog/connect-web-protobuf-grpc-in-the-browser
 > https://news.ycombinator.com/item?id=32345670
 

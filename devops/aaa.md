@@ -203,6 +203,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.blog/changelog/2022-08-04-commit-comments-no-longer-appear-in-the-pull-request-timeline/
+> https://news.ycombinator.com/item?id=32376464
+
 https://www.theregister.com/2022/08/05/gitlab_reverses_deletion_policy/
 > https://news.ycombinator.com/item?id=32350180
 

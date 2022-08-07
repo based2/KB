@@ -259,6 +259,12 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://andrealmeid.com/post/2022-07-31-keep-bisect/
+> https://www.reddit.com/r/programming/comments/wg1ql3/keeping_a_project_bisectable/
+
+https://www.garyrobinson.net/2014/10/git-in-two-minutes-for-a-solo-developer.html
+> https://news.ycombinator.com/item?id=32370234
+
 https://fully-faltoo.com/p/reviewing-each-line-of-code/
 
 https://matt-rickard.com/how-kubernetes-broke-git/

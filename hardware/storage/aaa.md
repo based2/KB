@@ -68,5 +68,8 @@ https://mtlynch.io/budget-nas/
 https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter
 > https://news.ycombinator.com/item?id=31820016
 
+https://louwrentius.com/please-use-zfs-with-ecc-memory.html
+> https://news.ycombinator.com/item?id=32370395
+
 
 

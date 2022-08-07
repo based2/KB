@@ -280,6 +280,18 @@ https://github.com/kovisoft/paredit
 > https://news.ycombinator.com/item?id=32288193
 
 # News
+https://books.google.fr/books/about/Hacker_s_Delight.html?id=VicPJYM0I5QC&redir_esc=y
+> https://news.ycombinator.com/item?id=32376414
+
+https://www.charlespetzold.com/blog/2022/08/Code-2nd-Edition-Now-Available.html
+> https://news.ycombinator.com/item?id=32377735
+
+http://birrell.org/andrew/papers/ImplementingCVs.pdf Implementing Condition Variables with Semaphores
+> https://news.ycombinator.com/item?id=32341041
+
+https://www.micahcantor.com/blog/monad-confusion/
+> https://news.ycombinator.com/item?id=32366022
+
 https://www.foonathan.net/2022/07/carbon-calling-convention/
 > https://news.ycombinator.com/item?id=32289225
 

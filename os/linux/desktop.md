@@ -70,6 +70,12 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html?
+> https://news.ycombinator.com/item?id=32370732
+
+https://www.computerworld.com/article/3668548/the-story-behind-google-s-in-house-desktop-linux.html
+> https://news.ycombinator.com/item?id=32293541
+
 https://news.itsfoss.com/wayland-core-protocol-issue/
 > https://news.ycombinator.com/item?id=32295685
 

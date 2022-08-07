@@ -1,6 +1,9 @@
 https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/
 > https://news.ycombinator.com/item?id=32169454
 
+https://www.tweag.io/blog/2022-08-04-tweag-and-nix-future/
+> https://news.ycombinator.com/item?id=32374113
+
 https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/
 > https://news.ycombinator.com/item?id=32355327
 

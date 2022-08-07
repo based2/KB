@@ -15,6 +15,7 @@ https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vul
 
 https://json5.org/
 > https://news.ycombinator.com/item?id=28668282
+> https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5
 
 https://jsonlines.org/
 

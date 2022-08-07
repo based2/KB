@@ -421,6 +421,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://devclass.com/2022/08/04/retire_javascript_says-json-creator-douglas-crockford/
+> https://news.ycombinator.com/item?id=32367589
+
 https://developer.mozilla.org/en-US/docs/Web/API/ElementInternals
 > https://news.ycombinator.com/item?id=32361814
 

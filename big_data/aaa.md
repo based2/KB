@@ -245,6 +245,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.gnu.org/software/datamash/
+
+https://soilspectroscopy.github.io/ossl-manual/
+> https://news.ycombinator.com/item?id=32293359
+
 https://harvard-iacs.github.io/2021-CS109A/pages/materials.html
 > https://news.ycombinator.com/item?id=32296603
 

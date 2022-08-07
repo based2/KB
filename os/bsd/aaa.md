@@ -129,6 +129,9 @@ https://klarasystems.com/articles/modern-inetd-in-freebsd/
 https://cdn.coverstand.com/33057/739644/0483e8ca86f15b6c0ce9d6f4660f93665bff176a.2.pdf
 
 ## News
+https://unixsheikh.com/articles/technical-reasons-to-choose-freebsd-over-linux.html
+> https://news.ycombinator.com/item?id=32369189
+
 https://qorg11.net/tech_posts/freebsd_as_desktop.html
 > https://news.ycombinator.com/item?id=31833312
 
@@ -160,6 +163,9 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://blog.netbsd.org/tnf/entry/netbsd_9_3_released
+> https://news.ycombinator.com/item?id=32368400
+
 https://lists.freebsd.org/archives/freebsd-hackers/2022-March/000923.html
 
 https://www.unitedbsd.com/d/705-full-system-backups-with-ffs-snapshots-zfs-and-dump8

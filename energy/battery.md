@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.npr.org/2022/08/03/1114964240/new-battery-technology-china-vanadium?t=1659816833072
+> https://news.ycombinator.com/item?id=32368911
+
 https://interestingengineering.com/innovation/a-powdered-sodium-ion-battery-offers-15-percent-more-energy-density
 > https://news.ycombinator.com/item?id=32360333
 

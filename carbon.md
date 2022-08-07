@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://cfs.climate.esa.int/index.html#/
+> https://news.ycombinator.com/item?id=32367460
+
 https://climateandsecurity.files.wordpress.com/2019/07/implications-of-climate-change-for-us-army_army-war-college_2019.pdf
 > https://news.ycombinator.com/item?id=32344975
 

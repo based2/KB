@@ -101,6 +101,8 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://news.ycombinator.com/item?id=32283783
+
 https://ariwatch.com/VS/Algorithms/TheFourthOperation.htm
 > https://news.ycombinator.com/item?id=32283702
 

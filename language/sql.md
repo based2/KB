@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://smallthingssql.com/having-a-less-understood-sql-clause cube
+> https://news.ycombinator.com/item?id=32363882
+
 https://hex.tech/blog/stop-using-so-many-ctes
 
 https://github.com/cube2222/octosql

@@ -92,6 +92,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://wooo.sh/articles/adler32.html
+> https://news.ycombinator.com/item?id=32377597
+
 https://blog.yellowflash.in/2022/05/24/similarity-join.html
 
 https://dougallj.wordpress.com/2022/05/22/faster-crc32-on-the-apple-m1/

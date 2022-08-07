@@ -83,6 +83,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+http://earbirding.com/blog/specs
+> https://news.ycombinator.com/item?id=32376943
+
 https://signalsandsorcery.org/sas/composer
 > https://news.ycombinator.com/item?id=32165328
 

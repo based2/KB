@@ -1,3 +1,17 @@
+https://harvardnsj.org/wp-content/uploads/sites/13/2022/06/Vol13Iss2_Kostyuk-Landau_Dual-EC-DRGB.pdf
+> https://news.ycombinator.com/item?id=32363519
+
+https://krebsonsecurity.com/2022/08/class-action-targets-experian-over-account-security/
+> https://news.ycombinator.com/item?id=32378869
+
+https://www.mattblaze.org/papers/mk.pdf
+> https://lobste.rs/s/wdksnt/cryptology_physical_security_rights
+
+https://microsoft.github.io/Azure-Threat-Research-Matrix/
+
+https://github.com/matanolabs/matano open-source security lake platform for AWS
+> https://news.ycombinator.com/item?id=32367923
+
 https://nns.ee/blog/2022/08/05/routeros-container-rce.html
 > https://news.ycombinator.com/item?id=32353413
 

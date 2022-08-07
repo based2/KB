@@ -392,6 +392,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://robert.kra.hn/posts/hot-reloading-rust/
+> https://news.ycombinator.com/item?id=32362836
+
 https://haibane-tenshi.github.io/rust-contexts2/
 
 https://nnethercote.github.io/perf-book/introduction.html The Rust Performance Book

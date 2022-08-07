@@ -308,3 +308,6 @@ https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma
 https://en.wikipedia.org/wiki/Cryptanalysis
 
 https://en.wikipedia.org/wiki/Cipher_Bureau_(Poland)
+
+## 1939
+https://siginthistorian.blogspot.com/2022/03/ten-avoidable-problems-which-made-royal.html

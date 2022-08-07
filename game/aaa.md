@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://news.ycombinator.com/item?id=32368259
+
 https://www.polygon.com/23269073/competitive-classic-tetris-ctwc-jonas-neubauer-andy-michael-artiaga
 > https://news.ycombinator.com/item?id=32196129
 
