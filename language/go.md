@@ -97,6 +97,12 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://github.com/coretrix/clockwork Golang Application runtime inspection tool
+> https://news.ycombinator.com/item?id=32403121
+
+https://preslav.me/2022/08/09/i-dont-like-golang-default-http-handlers/
+> https://news.ycombinator.com/item?id=32398969
+
 https://vigilance.fr/vulnerabilite/Go-obtention-d-information-via-net-http-httputil-NewSingleHostReverseProxy-38938 CVE-2022-32148
 
 https://earthly.dev/blog/pongo/

@@ -91,8 +91,6 @@ https://engineering.linkedin.com/blog/2022/linkedin-s-journey-to-java-11?s=09
 
 https://docs.oracle.com/en/java/javase/17/migrate/getting-started.html
 
-
-
 # Notes
 https://ijnspector.wordpress.com/ Practical examples for IntelliJ's Structural Search and Replace Templates
 
@@ -260,6 +258,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/readme/featured/java-programming-language
+> https://news.ycombinator.com/item?id=32399266
+
 https://event-driven.io/en/how_to_effectively_compose_your_business_logic/
 
 https://www.eclipse.org/eclipse/news/4.24/

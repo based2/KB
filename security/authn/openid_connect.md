@@ -11,5 +11,7 @@ https://www.okta.com
 https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 
 #
+https://areweoidcyet.com/
+
 https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/
 > https://news.ycombinator.com/item?id=31004928

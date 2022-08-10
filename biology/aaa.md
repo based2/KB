@@ -37,6 +37,13 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://phys.org/news/2021-09-chinese-scientists-starch-synthesis-carbon.html
+
+https://www.youtube.com/watch?v=Z-9rLlFgcm0 Michael Levin: Anatomical decision-making by cellular collectives
+
+https://www.pillar.vc/playlist/article/open-source-tools-for-computational-biology/
+> https://news.ycombinator.com/item?id=32384710
+
 https://www.newyorker.com/science/elements/the-bizarre-bird-thats-breaking-the-tree-of-life
 > https://news.ycombinator.com/item?id=32191236
 

@@ -84,6 +84,8 @@ https://blog.alexandervolkmann.com/2022/01/05/conversion-rate-A-B-testing.html
 https://www.amazon.science/publications/non-stationary-a-b-tests
 > https://news.ycombinator.com/item?id=31699032
 
+https://www.evanmiller.org/how-not-to-run-an-ab-test.html
+
 #
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
 > https://news.ycombinator.com/item?id=27923631

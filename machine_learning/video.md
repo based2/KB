@@ -41,6 +41,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/
+> https://news.ycombinator.com/item?id=32384653
+
 https://www.learnwitharobot.com/p/yolov5-vs-yolov6-vs-yolov7
 
 https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/

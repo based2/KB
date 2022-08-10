@@ -37,6 +37,8 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://richg42.blogspot.com/2022/01/lzxor.html GPU parsing
+
 https://ethw.org/History_of_Lossless_Data_Compression_Algorithms
 > https://news.ycombinator.com/item?id=31922396
 

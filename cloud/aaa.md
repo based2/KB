@@ -91,6 +91,9 @@ https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_auth
 # LB certificate termination data-in-transit gap
 
 # Incidents
+https://www.theregister.com/2022/08/09/google_outage/
+>
+
 https://www.dreamhoststatus.com/
 > https://news.ycombinator.com/item?id=32254485
 
@@ -158,6 +161,12 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://github.com/recode-sh/cli
+> https://news.ycombinator.com/item?id=32399752
+
+https://gdprhub.eu/index.php?title=VK_Baden-W%C3%BCrttemburg_-_Az._1_VK_23/22 Usage of EU subsidiaries of US cloud providers deemed unlawful by German court, GDPR
+> https://news.ycombinator.com/item?id=32389282
+
 https://www.tensordock.com/product-core Core GPU Cloud: Flexible, on-demand GPUs from $0.29/hour.
 > https://news.ycombinator.com/item?id=32269722
 

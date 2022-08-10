@@ -17,3 +17,6 @@ https://markuskaarlonen.com/space-debris
 
 https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip
 > https://news.ycombinator.com/item?id=31636482
+
+https://scalibq.wordpress.com/2022/08/08/area-5150-8088-mph-gets-a-successor/
+> https://news.ycombinator.com/item?id=32394195

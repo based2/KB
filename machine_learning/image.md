@@ -55,6 +55,12 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://stability.ai/blog/stable-diffusion-announcement
+> https://news.ycombinator.com/item?id=32414811
+
+https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/
+> https://news.ycombinator.com/item?id=32384646
+
 https://medium.com/@glan1k/dall-e-gpt-3-d1aaaff38639
 > https://news.ycombinator.com/item?id=32377069
 

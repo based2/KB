@@ -218,6 +218,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc
+
+https://www.pnas.org/doi/10.1073/pnas.2123433119 A neural network solves, explains, and generates university math problems by program synthesis and few-shot learning at human level
+> https://news.ycombinator.com/item?id=32387746
+
 https://cacm.acm.org/magazines/2022/4/259398-explainable-ai/fulltext
 
 https://cacm.acm.org/magazines/2022/7/262079-toward-verified-artificial-intelligence/fulltext

@@ -39,6 +39,9 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 #
+https://neosmart.net/blog/2022/securestore-0-100-kiss-git-versioned-secrets-management-for-rust/
+> https://news.ycombinator.com/item?id=32389701
+
 https://mjtsai.com/blog/2022/06/29/passkeys/
 
 https://bulwark.id/blog/vault/ Let's Build an End-to-end Encrypted Data Store

@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://news.ycombinator.com/item?id=32399612
+
 https://twitter.com/yaish_aviv/status/1555445499041300481
 > https://news.ycombinator.com/item?id=32354896
 

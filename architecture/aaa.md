@@ -223,6 +223,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://sequentialread.com/federation-vs-clustering-self-hosting/
+>
+
 https://www.innoq.com/en/blog/brief-introduction-to-arc42/
 > https://news.ycombinator.com/item?id=32353500
 

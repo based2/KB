@@ -44,6 +44,9 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://developers.google.com/tech-writing
+> https://news.ycombinator.com/item?id=32389588
+
 https://www.cortex.io/post/keep-calm-and-use-the-runbook
 > https://news.ycombinator.com/item?id=31973859
 

@@ -392,6 +392,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.burntsushi.net/unwrap/
+> https://news.ycombinator.com/item?id=32385102
+
+https://www.ralfj.de/blog/2022/08/08/minirust.html
+> https://news.ycombinator.com/item?id=32384550
+
 https://robert.kra.hn/posts/hot-reloading-rust/
 > https://news.ycombinator.com/item?id=32362836
 

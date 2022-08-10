@@ -25,6 +25,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/
+> https://news.ycombinator.com/item?id=32396892
+
 https://github.com/oilshell/oil/wiki/Survey-of-Config-Languages
 
 https://leebriggs.co.uk/blog/2022/07/20/nobody-knows-what-declarative-is

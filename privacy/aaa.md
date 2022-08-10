@@ -95,6 +95,9 @@ https://www.rfc-editor.org/rfc/rfc9076.html RFC 9076 DNS Privacy Considerations
 > > https://www.ndss-symposium.org/wp-content/uploads/2019/02/ndss2019_04B-4_Klein_paper.pdf DNS Cache-Based User Tracking
 
 # News
+https://krausefx.com/blog/ios-privacy-instagram-and-facebook-can-track-anything-you-do-on-any-website-in-their-in-app-browser
+> https://news.ycombinator.com/item?id=32415470
+
 https://www.w3.org/2022/07/pressrelease-did-rec.html.en
 > https://news.ycombinator.com/item?id=32354669
 

@@ -72,6 +72,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://frame.work/de/en/blog/how-fast-is-12th-gen-intel-core
+> https://news.ycombinator.com/item?id=32393634
+
 https://www.servethehome.com/the-forbidden-arm-server-that-is-banned-in-the-us/
 > https://news.ycombinator.com/item?id=32358268
 

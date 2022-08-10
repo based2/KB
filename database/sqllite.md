@@ -98,6 +98,12 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://observablehq.com/@asg017/introducing-sqlite-http
+> https://news.ycombinator.com/item?id=32417410
+
+https://fly.io/blog/sqlite-internals-rollback-journal/
+> https://news.ycombinator.com/item?id=32412905
+
 https://phiresky.github.io/blog/2022/sqlite-zstd/
 > https://news.ycombinator.com/item?id=32297193
 

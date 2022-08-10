@@ -101,6 +101,11 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/
+> https://news.ycombinator.com/item?id=32414684
+
+https://fuinn.github.io/mos-docs/
+
 https://news.ycombinator.com/item?id=32283783
 
 https://ariwatch.com/VS/Algorithms/TheFourthOperation.htm

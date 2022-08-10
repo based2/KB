@@ -15,3 +15,6 @@ https://docs.planet.ink/data/seal/
 > https://news.ycombinator.com/item?id=31637150
 
 https://blog.sigstore.dev/introducing-gitsign-9fd3f1b682aa
+
+https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/
+> https://news.ycombinator.com/item?id=32386762

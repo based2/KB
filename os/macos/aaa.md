@@ -243,6 +243,14 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://lapcatsoftware.com/articles/VenturaShare.html
+> https://news.ycombinator.com/item?id=32401228
+
+https://github.com/ospfranco/sol
+> https://news.ycombinator.com/item?id=32402631
+
+https://medium.com/@parttimeben/5-surprising-mac-features-that-i-discovered-recently-e0f288b6e20c
+
 https://www.theverge.com/2022/7/1/23191141/apple-macbook-pro-13-m2-base-model-slow-device
 
 https://github.com/p0deje/Maccy

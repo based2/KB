@@ -103,6 +103,14 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html
+> https://news.ycombinator.com/item?id=32408546
+
+https://www.paulirish.com/2021/video-stabilization-with-ffmpeg-and-vidstab/
+
+https://bikerglen.com/blog/usb-knobs-that-double-as-a-blackmagic-remote/
+> https://news.ycombinator.com/item?id=32382868
+
 https://news.ycombinator.com/item?id=32377063 The case of fake IMDB credits
 
 https://shinobi.video/ cctv

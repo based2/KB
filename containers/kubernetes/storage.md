@@ -1,0 +1,1 @@
+https://refaktory.net/blog/posts/self-hosted-kubernetes-solving-the-storage-problem

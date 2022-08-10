@@ -201,6 +201,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://joemorrison.substack.com/p/google-maps-moat-is-evaporating
+> https://news.ycombinator.com/item?id=32402977
+
 https://tech.marksblogg.com/pretty-maps-in-python.html
 > https://news.ycombinator.com/item?id=32170624
 

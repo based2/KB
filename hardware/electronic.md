@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://media.ccc.de/v/mch2022-332-the-tooling-ecosystem-that-adds-joy-to-kicad
+> https://news.ycombinator.com/item?id=32394607
+
 http://www.cburch.com/logisim/
 > https://news.ycombinator.com/item?id=32270149
 

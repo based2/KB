@@ -65,6 +65,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.lemondeinformatique.fr/actualites/lire-l-histoire-derriere-glinux-la-discrete-distribution-de-google-87527.html
+
 https://linuxfr.org/news/rocky-linux-9-0
 
 https://linuxfr.org/news/almalinux-9-0

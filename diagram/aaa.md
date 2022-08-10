@@ -134,6 +134,9 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://www.nature.com/articles/s41586-022-05028-x
+> https://news.ycombinator.com/item?id=32381790
+
 https://diagrams.mingrammer.com/
 
 https://www.scottantipa.com/why-knotend

@@ -1,3 +1,26 @@
+https://www.tomshardware.com/news/microsoft-windows-11-encryption-could-damage-your-data
+> 
+
+https://msrc-blog.microsoft.com/2022/08/08/microsoft-office-to-publish-symbols-starting-august-2022/
+> https://www.reddit.com/r/netsec/comments/wk498k/microsoft_office_to_publish_symbols_starting/
+
+https://portswigger.net/research/browser-powered-desync-attacks
+> https://www.reddit.com/r/netsec/comments/wl4pdf/browserpowered_desync_attacks_a_new_frontier_in/
+
+https://blog.talosintelligence.com/2022/08/recent-cyber-attack.html
+
+https://blog.cloudflare.com/2022-07-sms-phishing-attacks/
+> https://news.ycombinator.com/item?id=32399657
+
+https://arxiv.org/abs/1512.08546 When Coding Style Survives Compilation: De-anonymizing Programmers from Executable Binaries
+> https://news.ycombinator.com/item?id=32384147
+
+https://www.nccoe.nist.gov/projects/implementing-zero-trust-architecture
+> https://news.ycombinator.com/item?id=32402630
+
+https://aepicleak.com/aepicleak.pdf CPUs ÆPIC Leak: Architecturally Leaking Uninitialized Data from the Microarchitecture 
+> https://news.ycombinator.com/item?id=32401468
+
 https://harvardnsj.org/wp-content/uploads/sites/13/2022/06/Vol13Iss2_Kostyuk-Landau_Dual-EC-DRGB.pdf
 > https://news.ycombinator.com/item?id=32363519
 

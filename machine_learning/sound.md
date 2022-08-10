@@ -44,7 +44,13 @@ https://jmvalin.ca/demo/rnnoise/ dp real-time noise suppression
 
 https://news.ycombinator.com/item?id=31968456 Ask HN: AI-Generated Music?
 
+https://github.com/DeutscheKI/tevr-asr-tool de
+> https://news.ycombinator.com/item?id=32409966
+
 # text-to-speech
+https://dongchaoyang.top/text-to-sound-synthesis-demo/
+> https://news.ycombinator.com/item?id=32384074
+
 https://mycroft.ai/blog/introducing-mimic-3/
 > https://news.ycombinator.com/item?id=31926813
 

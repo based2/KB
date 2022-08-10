@@ -6,6 +6,9 @@ https://blog.adamretter.org.uk/vocabulary-reuse-part2/
 https://protege.stanford.edu/
 
 #
+https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md
+> https://news.ycombinator.com/item?id=32412803
+
 https://arxiv.org/abs/2108.06096 SHACL: A Description Logic in Disguise
 > https://news.ycombinator.com/item?id=31890041
 

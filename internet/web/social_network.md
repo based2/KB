@@ -38,6 +38,10 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 # Dmoz
 # BBS
 https://www.telnetbbsguide.com/
+
+# Incident
+https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts
+> https://news.ycombinator.com/item?id=32399949
  
 # News
 https://news.ycombinator.com/item?id=32296952 LinkedIn is importing job postings it finds online onto company's profiles

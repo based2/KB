@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://github.com/HackerBCI
+> https://news.ycombinator.com/item?id=32412745
+
 https://news.rice.edu/news/2022/wireless-activation-targeted-brain-circuits-less-one-second
 > https://news.ycombinator.com/item?id=32222991
 

@@ -48,6 +48,9 @@ https://eslint.org/
 https://snyk.io/blog/snyk-code-now-available-free-sast/
 
 # Deno
+https://docs.astro.build/en/getting-started/
+> https://news.ycombinator.com/item?id=32401159
+
 https://deno.com/blog/deno-on-mdn
 > https://news.ycombinator.com/item?id=28274168
 

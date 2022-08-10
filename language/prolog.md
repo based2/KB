@@ -31,6 +31,9 @@ http://www.call-with-current-continuation.org/microfleng/microfleng.html
 https://github.com/ashton314/muKanren_reading
 > https://news.ycombinator.com/item?id=31504175
 
+https://github.com/trealla-prolog/trealla
+> https://news.ycombinator.com/item?id=32382514
+
 https://www.metalevel.at/prolog
 > https://news.ycombinator.com/item?id=31641014
 

@@ -85,13 +85,22 @@ https://github.com/sashee/terraform-change-rds-password
 
 https://betterprogramming.pub/implementing-an-email-masking-proof-of-concept-using-aws-simple-email-service-ses-and-aws-rust-c6aa34f1e1df
 
+https://github.com/JamesWoolfenden/pike Determining the permissions or policy required for IAC code
+
 # Azure
 https://github.com/andreipintica/azure-terrafy-handsonlab
 
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+
+https://betterprogramming.pub/design-by-contracts-in-terraform-63467a749c1a
+
+https://www.scalr.com/blog/lifecycle-meta-argument
+
 https://www.koslib.com/posts/troubleshooting-terraform-eks-module/
+
+https://www.reddit.com/r/Terraform/comments/wejxjw/full_eks_deployment_with_ingress_dns_in_one_step/
 
 https://discuss.hashicorp.com/t/depends-on-in-providers/42632
 > https://news.ycombinator.com/item?id=32295748

@@ -230,6 +230,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://rogovoy.me/blog/i-quit-my-business-to-start-dev-tool
+> https://news.ycombinator.com/item?id=32410293
+
 https://www.lunasec.io/docs/blog/how-to-build-an-open-source-business-in-2021-part-1/
 > https://news.ycombinator.com/item?id=32269781
 

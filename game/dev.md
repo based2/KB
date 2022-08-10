@@ -97,6 +97,15 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://www.yare.io/
+> https://news.ycombinator.com/item?id=32394902
+
+https://w4games.com/2022/08/09/hello-world-w4-games/
+> https://news.ycombinator.com/item?id=32398963
+
+https://medium.com/super-jump/replayability-in-game-design-798fbb91a726
+> https://news.ycombinator.com/item?id=32375868
+
 https://fyrox.rs/blog/post/feature-highlights-0-27/
 
 https://godotengine.org/article/godot-3-5-cant-stop-wont-stop

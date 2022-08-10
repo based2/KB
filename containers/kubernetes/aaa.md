@@ -64,6 +64,17 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.reddit.com/r/kubernetes/comments/wgztqh/for_the_love_of_god_stop_using_cpu_limits_on/
+
+https://blog.frankel.ch/basics-access-kubernetes-pods/
+
+https://freeman.vc/notes/falling-for-kubernetes
+> https://news.ycombinator.com/item?id=32403746
+
+https://github.com/FairwindsOps/gonogo Tool to evaluate upgrade confidence for Kubernetes cluster addons
+
+https://github.com/c3os-io/c3os p2p
+
 https://john-millikin.com/stateless-kubernetes-overlay-networks-with-ipv6
 > https://news.ycombinator.com/item?id=32354294
 

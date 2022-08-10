@@ -11,6 +11,9 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://github.com/libvips/nip2 GUI for the libvips image processing library
+> https://news.ycombinator.com/item?id=32414698
+
 https://dicoogle.com/ open source Picture Archiving and Communications System (PACS) archive
 
 https://www.hama.app/ erase

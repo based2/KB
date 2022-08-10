@@ -38,6 +38,9 @@ https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/
 https://www.erichgrunewald.com/posts/gradually-migrating-python-code-to-asyncio/
 > https://news.ycombinator.com/item?id=30886927
 
+https://superfastpython.com/python-concurrency-choose-api/
+> https://news.ycombinator.com/item?id=32408577
+
 # Build
 https://github.com/mesonbuild/meson
 
@@ -222,6 +225,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://lwn.net/SubscriberLink/904197/9f5cc13b3c352127/ Adding auditing to pip
+
 https://mathspp.com/blog/how-to-create-a-python-package-in-2022
 > https://news.ycombinator.com/item?id=32258783
 

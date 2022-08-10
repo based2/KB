@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://gasiulis.name/vector-graphics-on-gpu/
+> https://news.ycombinator.com/item?id=32384016
+
 https://wunkolo.github.io/post/2020/02/buttery-smooth-10fps/
 > https://news.ycombinator.com/item?id=32272358
 

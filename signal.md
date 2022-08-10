@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://github.com/openairplay/airplay2-receiver
+> https://news.ycombinator.com/item?id=32383820
+
 https://support.usr.com/support/6000/6000-ug/two.html How a Cable Modem Works
 > https://news.ycombinator.com/item?id=32287571
 
