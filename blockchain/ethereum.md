@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.cnbc.com/2022/08/10/ethereum-goerli-testnet-merge-goes-live-before-move-to-proof-of-stake.html
+> https://news.ycombinator.com/item?id=32427992
+
 https://news.ycombinator.com/item?id=32399612
 
 https://twitter.com/yaish_aviv/status/1555445499041300481

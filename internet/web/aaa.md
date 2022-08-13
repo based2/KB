@@ -99,6 +99,9 @@ https://github.com/maxcountryman/warc-parquet
 > https://news.ycombinator.com/item?id=31867179
 
 # News
+https://reb00ted.org/tech/20220810-autonomous-reputation-system/
+> https://news.ycombinator.com/item?id=32434749
+
 https://blog.stackblitz.com/posts/webcontainers-are-now-supported-on-firefox/
 > https://news.ycombinator.com/item?id=32268934
 

@@ -12,6 +12,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.accc.gov.au/media-release/google-llc-to-pay-60-million-for-misleading-representations
+> https://news.ycombinator.com/item?id=32436028
+
 https://www.thurrott.com/cloud/web-browsers/270729/in-wake-of-controversy-duckduckgo-to-block-microsoft-trackers
 
 https://spreadprivacy.com/more-privacy-and-transparency/

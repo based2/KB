@@ -159,6 +159,8 @@ https://github.com/radian-software/straight.el
 https://xenodium.com/an-accentuated-emacs-experiment/
 > https://news.ycombinator.com/item?id=32286531
 
+http://angg.twu.net/eev-article.html
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

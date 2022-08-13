@@ -28,3 +28,6 @@ https://rustdesk.com/ Open source virtual / remote desktop infrastructure for ev
 
 https://github.com/vifm/vifm
 > https://news.ycombinator.com/item?id=32366517
+
+https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp
+> https://news.ycombinator.com/item?id=32427834

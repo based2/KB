@@ -203,6 +203,17 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/ankitpokhrel/jira-cli
+> https://news.ycombinator.com/item?id=32435259
+> > https://github.com/go-jira/jira
+
+https://asdf-vm.com/ Manage multiple runtime versions with a single CLI tool
+> https://stratus3d.com/blog/2022/08/11/asdf-performance/
+> > https://news.ycombinator.com/item?id=32438375
+
+https://matt-rickard.com/the-unreasonable-effectiveness-of-makefiles
+> https://news.ycombinator.com/item?id=32438616
+
 https://github.blog/changelog/2022-08-04-commit-comments-no-longer-appear-in-the-pull-request-timeline/
 > https://news.ycombinator.com/item?id=32376464
 

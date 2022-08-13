@@ -69,6 +69,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://periodex.co/
+> https://news.ycombinator.com/item?id=32433745
+
 https://phys.org/news/2022-08-strength-strong.html
 > https://news.ycombinator.com/item?id=32409102
 

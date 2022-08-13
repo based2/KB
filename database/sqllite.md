@@ -98,6 +98,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://www.sqlite.org/cgi/src/doc/wal2/doc/wal2.md
+> https://news.ycombinator.com/item?id=32435601
+
 https://observablehq.com/@asg017/introducing-sqlite-http
 > https://news.ycombinator.com/item?id=32417410
 

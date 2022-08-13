@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.theverge.com/2022/8/12/23298217/tornado-cash-crypto-mixer-crackdown-authorities-arrest-suspected-developer-amsterdam
+> https://news.ycombinator.com/item?id=32446407
+
 https://arstechnica.com/tech-policy/2022/07/ceo-who-sold-worthless-cryptocurrency-pleads-guilty-in-21-million-fraud-case/
 > https://news.ycombinator.com/item?id=32242844
 

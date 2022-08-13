@@ -38,3 +38,6 @@ https://www.metalevel.at/prolog
 > https://news.ycombinator.com/item?id=31641014
 
 https://twitter.com/mjt128/status/1500531457780948992 Scryer Prolog v.0.9.0, rust
+
+https://dl.acm.org/doi/pdf/10.1145/66068.66075 On Prolog and the Occur Check Problem (1989)
+> https://news.ycombinator.com/item?id=32436261

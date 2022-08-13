@@ -39,6 +39,12 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/0xricksanchez/like-dbg
+> https://news.ycombinator.com/item?id=32423813
+
+https://github.com/containers/podman/releases/tag/v4.2.0
+> https://news.ycombinator.com/item?id=32421793
+
 https://metalbear.co/blog/getting-started-with-ephemeral-containers/
 
 https://github.com/slackhq/nebula scalable overlay networking tool with a focus on performance, simplicity and security

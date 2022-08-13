@@ -72,6 +72,12 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.anandtech.com/show/17469/tsmc-first-n2-node-to-use-gaafets-skip-backside-power
+> https://news.ycombinator.com/item?id=32417064
+
+https://www.bleepingcomputer.com/news/security/new-intel-chips-wont-play-blu-ray-disks-due-to-sgx-deprecation/
+> https://news.ycombinator.com/item?id=32442894
+
 https://frame.work/de/en/blog/how-fast-is-12th-gen-intel-core
 > https://news.ycombinator.com/item?id=32393634
 

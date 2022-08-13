@@ -49,6 +49,8 @@ https://petapixel.com/what-is-exif-data/
 https://news.ycombinator.com/item?id=32297619
 > https://github.com/aydinnyunus/exifLooter/blob/main/README.md
 
+https://news.ycombinator.com/item?id=32416209 gif
+
 # News
 https://mort.coffee/home/tar/ The tar archive format, its extensions, and why GNU tar extracts in quadratic time
 > https://news.ycombinator.com/item?id=32206579

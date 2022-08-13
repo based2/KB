@@ -27,3 +27,6 @@ https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front
 
 https://karl-voit.at/2022/01/29/How-to-Use-Tags/
 > https://news.ycombinator.com/item?id=30129665
+
+https://www.fastruby.io/blog/rails/naming-things-is-hard.html
+> https://news.ycombinator.com/item?id=32422260

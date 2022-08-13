@@ -64,6 +64,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.plural.sh/blog/kubernetes-statefulsets-are-broken/
+> https://news.ycombinator.com/item?id=32439255
+
 https://www.reddit.com/r/kubernetes/comments/wgztqh/for_the_love_of_god_stop_using_cpu_limits_on/
 
 https://blog.frankel.ch/basics-access-kubernetes-pods/

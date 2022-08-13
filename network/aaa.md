@@ -58,7 +58,9 @@ https://github.com/deepfence/PacketStreamer Capture and aggregate network traffi
 > https://news.ycombinator.com/item?id=30888295
 
 https://github.com/netenglabs/suzieq Suzieq - Healthier Networks Through Network Observability
->
+
+https://www.mattkeeter.com/blog/2022-08-11-udp/ From Oscilloscope to Wireshark: A UDP Story
+> https://news.ycombinator.com/item?id=32428032
 
 # Tests
 https://docs.gns3.com/docs/

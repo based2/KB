@@ -1,5 +1,26 @@
+https://www.usenix.org/system/files/sec22-sullivan.pdf Open to a fault: On the passive compromise of TLS keys via transient errors
+> https://news.ycombinator.com/item?id=32431174
+
+https://www.usenix.org/system/files/sec22summer_arp.pdf Dos and Don'ts of Machine Learning in Computer Security
+> https://news.ycombinator.com/item?id=32417373
+
+https://blog.sonatype.com/pypi-package-secretslib-drops-fileless-linux-malware-to-mine-monero
+> https://news.ycombinator.com/item?id=32437965
+
+https://www.lawfareblog.com/whats-unsealed-mar-lago-search-warrant
+> https://news.ycombinator.com/item?id=32445161
+
+https://www.indiatoday.in/technology/news/story/vlc-media-player-banned-in-india-website-and-vlc-download-link-blocked-1987361-2022-08-12
+> https://news.ycombinator.com/item?id=32441911
+
+https://rep-lodsb.mataroa.blog/blog/intel-286-secrets-ice-mode-and-f1-0f-04/ ICE
+> https://news.ycombinator.com/item?id=32443389
+> http://www.rcollins.org/articles/loadall/tspec_a3_doc.html
+
+https://www.wired.com/story/starlink-internet-dish-hack/
+> https://news.ycombinator.com/item?id=32434606
+
 https://www.tomshardware.com/news/microsoft-windows-11-encryption-could-damage-your-data
-> 
 
 https://msrc-blog.microsoft.com/2022/08/08/microsoft-office-to-publish-symbols-starting-august-2022/
 > https://www.reddit.com/r/netsec/comments/wk498k/microsoft_office_to_publish_symbols_starting/

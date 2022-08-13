@@ -87,6 +87,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://www.aaron-gustafson.com/notebook/locking-down-your-github-hosted-domains/
+> https://news.ycombinator.com/item?id=32435134
+
 https://timothya.com/blog/dns/ Building a Recursive DNS Resolver
 
 https://github.com/serverless-dns/serverless-dns

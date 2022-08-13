@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.thedrive.com/news/gm-makes-1500-onstar-subscription-mandatory-on-gmc-buick-cadillac-models
+> https://news.ycombinator.com/item?id=32425178
+
 https://www.historytoday.com/archive/history-matters/its-not-easy-being-green
 > https://news.ycombinator.com/item?id=32282446
 

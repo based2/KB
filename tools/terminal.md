@@ -32,6 +32,11 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://news.ycombinator.com/item?id=32444074 Ask HN: Which Linux terminal emulator do you prefer and why?
+
+https://zellij.dev/ terminal workspace with batteries included
+> https://news.ycombinator.com/item?id=32444564
+
 https://hpjansson.org/chafa/
 > https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-1507
 

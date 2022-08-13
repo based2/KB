@@ -153,6 +153,9 @@ https://vermaden.wordpress.com/2020/09/07/quare-freebsd/
 https://www.freebsd.org/releases/13.1R/relnotes/
 
 # NetBSD
+https://www.theregister.com/2022/08/10/netbsd_93/ NetBSD 9.3: A 2022 OS that can run on late-1980s hardware
+> https://news.ycombinator.com/item?id=32414461
+
 https://saurvs.github.io/post/writing-netbsd-kern-mod/
 > https://news.ycombinator.com/item?id=30927847
 

@@ -1,3 +1,6 @@
+https://architecturenotes.co/redis/
+> https://news.ycombinator.com/item?id=32426879
+
 https://github.com/cr0hn/rsm
 
 http://oldblog.antirez.com/post/redis-manifesto.html

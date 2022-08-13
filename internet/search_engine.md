@@ -60,6 +60,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records
+> https://news.ycombinator.com/item?id=32445780
+
 https://news.ycombinator.com/item?id=32261618
 
 https://blog.wolfram.com/2022/07/29/four-things-about-wolframalpha-you-may-not-know/

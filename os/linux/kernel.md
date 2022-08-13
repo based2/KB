@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://news.ycombinator.com/item?id=32427475 The trouble with 64-bit DMA in Linux
+
 https://www.phoronix.com/news/Bytedance-Faster-Kexec-Reboot
 
 https://lore.kernel.org/lkml/20220729145525.1729066-1-Jason@zx2c4.com/ RNG RFC Patch: implement getrandom() in vDSO

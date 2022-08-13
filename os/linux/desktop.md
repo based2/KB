@@ -70,6 +70,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.theregister.com/2022/08/10/opinion_column_drop_windows_for_linux/
+> https://news.ycombinator.com/item?id=32439135
+
 https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html?
 > https://news.ycombinator.com/item?id=32370732
 

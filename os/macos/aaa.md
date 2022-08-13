@@ -243,6 +243,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://twitter.com/nikitonsky/status/1557357661171204098 Weird stuff found in redesigned macOS Ventura System Settings app
+> https://news.ycombinator.com/item?id=32445737
+
 https://lapcatsoftware.com/articles/VenturaShare.html
 > https://news.ycombinator.com/item?id=32401228
 
@@ -341,7 +344,6 @@ https://9to5mac.com/2022/01/23/gurman-apple-preparing-to-launch-its-widest-array
 https://news.ycombinator.com/item?id=30043764 Ask HN: How to make my macOS less distracting?
 
 https://mjtsai.com/blog/2022/01/12/catching-native-apps/
->
 
 https://github.com/divar-ir/NetShears Network interceptor framework written in Swift
 > https://news.ycombinator.com/item?id=29872786

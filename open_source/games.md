@@ -59,6 +59,12 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://www.freeciv.org/
+> https://news.ycombinator.com/item?id=32408163
+
+https://mindustrygame.github.io/
+> https://news.ycombinator.com/item?id=32422522
+
 https://wiki.spacestation14.io/wiki/Main_Page
 
 https://github.com/bobeff/open-source-games

@@ -77,6 +77,9 @@ https://www.datagridxl.com/
 https://github.com/LesterLyu/fast-formula-parser
 > https://news.ycombinator.com/item?id=31365777
 
+https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/
+> https://news.ycombinator.com/item?id=32439934
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 > https://news.ycombinator.com/item?id=26991887
@@ -122,6 +125,11 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://github.com/Sycnex/Windows10Debloater
+> https://news.ycombinator.com/item?id=32434934
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-is-showing-ads-for-microsoft-365-in-office-2021/
+
 https://www.tenforums.com/tutorials/94628-change-split-threshold-svchost-exe-windows-10-a.html
 > https://news.ycombinator.com/item?id=32249638
 

@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.navy-radio.com/
+> https://news.ycombinator.com/item?id=32445260
+
 https://github.com/openairplay/airplay2-receiver
 > https://news.ycombinator.com/item?id=32383820
 

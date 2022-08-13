@@ -155,6 +155,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://linuxmusicians.com/
+> https://news.ycombinator.com/item?id=32433583
+
 https://newatlas.com/music/optical-microphone-sound/
 > https://news.ycombinator.com/item?id=31891067
 

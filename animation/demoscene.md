@@ -20,3 +20,6 @@ https://files.scene.org/view/resources/code/sources/rgba_tbc_elevated_source.zip
 
 https://scalibq.wordpress.com/2022/08/08/area-5150-8088-mph-gets-a-successor/
 > https://news.ycombinator.com/item?id=32394195
+
+https://www.pouet.net/prod.php?which=83222 MySQL Raytracer
+> https://news.ycombinator.com/item?id=32420029

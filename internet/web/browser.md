@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://twitter.com/gabrielesvelto/status/1558083461059153920 I modified Firefox's memory allocator to improve responsiveness on MacOS
+> https://news.ycombinator.com/item?id=32442842
+
 https://getfirebug.com/
 > https://news.ycombinator.com/item?id=32395518
 

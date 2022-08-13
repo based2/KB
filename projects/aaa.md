@@ -66,6 +66,9 @@ https://www.brightball.com/articles/reality-driven-development-fixing-project-ma
 https://ideas.krishnan.ca/are-daily-standups-hurting-your-team
 > https://news.ycombinator.com/item?id=29093833
 
+https://about.gitlab.com/handbook/ceo/shadow/
+> https://news.ycombinator.com/item?id=32445192
+
 # Estimate
 https://en.wikipedia.org/wiki/Delphi_method
 > https://news.ycombinator.com/item?id=26368011
@@ -143,6 +146,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+http://worrydream.com/refs/Brooks-NoSilverBullet.pdf
+> https://news.ycombinator.com/item?id=32423356
+
 https://garbagecollected.org/2017/10/24/the-carmack-plan/
 
 https://github.com/ixaxaar/awesome-engineering-management

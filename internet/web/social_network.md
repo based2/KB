@@ -44,6 +44,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://subreply.com/about
+
 https://news.ycombinator.com/item?id=32296952 LinkedIn is importing job postings it finds online onto company's profiles
 
 https://www.consilium.europa.eu/en/press/press-releases/2022/07/18/dma-council-gives-final-approval-to-new-rules-for-fair-competition-online/

@@ -26,6 +26,11 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.newsweek.com/nuclear-fusion-energy-milestone-ignition-confirmed-california-1733238
+
+https://physics.aps.org/articles/v15/67
+> https://news.ycombinator.com/item?id=32444340
+
 https://www.youtube.com/watch?v=Dp6W7g9no0w
 
 https://www.growthbusiness.co.uk/more-invested-in-nuclear-fusion-in-last-12-months-than-past-decade-2560528/

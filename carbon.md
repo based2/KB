@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.science.org/doi/10.1126/sciadv.abn9683 Using satellites to uncover large methane emissions from landfills
+> https://news.ycombinator.com/item?id=32423178
+
 https://cfs.climate.esa.int/index.html#/
 > https://news.ycombinator.com/item?id=32367460
 

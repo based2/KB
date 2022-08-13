@@ -64,6 +64,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://docs.twingate.com/docs/architecture-overview
+> https://news.ycombinator.com/item?id=32415374
+
 https://www.schengenvisainfo.com/news/finland-to-become-the-first-eu-country-to-test-digital-passports/
 > https://news.ycombinator.com/item?id=32365906
 

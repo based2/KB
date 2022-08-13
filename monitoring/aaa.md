@@ -76,6 +76,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://github.com/pietroborrello/CustomProcessingUnit
+> https://news.ycombinator.com/item?id=32435615
+
 https://github.com/NarrativeScience/log.io
 > https://news.ycombinator.com/item?id=32281447
 
