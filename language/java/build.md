@@ -116,4 +116,6 @@ https://inside.java/2021/09/10/what-are-modules-about/
 > https://news.ycombinator.com/item?id=28489881
 
 # News
+https://snyk.io/blog/best-practices-for-managing-java-dependencies/
+
 https://github.com/gradle/gradle/pull/20276 Require JDK 18 instead of Python for serveDocs

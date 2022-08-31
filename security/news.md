@@ -1,3 +1,57 @@
+https://www.engadget.com/twilio-authy-data-breach-202314313.html
+> https://news.ycombinator.com/item?id=32622923
+
+https://xcp-ng.org/blog/2022/08/26/why-xen-wasnt-hit-by-retbleed-on-intel-cpus/
+> https://news.ycombinator.com/item?id=32610536
+
+https://www.theverge.com/2019/8/11/20800111/us-navy-uss-john-s-mccain-crash-ntsb-report-touchscreen-mechanical-controls
+> https://news.ycombinator.com/item?id=32633927
+
+https://www.cloudflare.com/en-gb/learning/ddos/what-is-a-quic-flood/
+> https://news.ycombinator.com/item?id=32633915
+
+https://github.com/RedBalloonShenanigans/MonitorDarkly
+> https://news.ycombinator.com/item?id=32634467
+
+https://security.googleblog.com/2022/08/announcing-open-sourcing-of-paranoids.html
+
+https://www.nobsbitcoin.com/huge-chinese-database-of-faces-and-license-plates-leaked/
+
+https://nakedsecurity.sophos.com/2022/08/24/breaching-airgap-security-using-your-phones-compass-as-a-microphone/
+
+https://github.com/beerisgood/Windows11_Hardening
+> https://news.ycombinator.com/item?id=32458440
+
+https://www.heise.de/news/Pwnie-Awards-2022-Boese-Jungs-und-Shutdown-einer-Antiterror-Operation-7217292.html
+> https://www.hertzbleed.com/
+
+https://swarm.ptsecurity.com/discovering-domains-via-timing-attack/
+
+https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities
+> https://www.postgresql.org/docs/release/14.5/
+> https://www.reddit.com/r/netsec/comments/wmai62/the_cloud_has_an_isolation_problem_postgresql/
+
+https://www.vice.com/en/article/m7gb7y/researchers-find-vulnerability-in-software-underlying-discord-microsoft-teams-and-other-apps
+> https://www.reddit.com/r/programming/comments/wmpchx/rce_vulnerability_found_in_electron_affects/
+
+https://www.bleepingcomputer.com/news/security/xiaomi-phones-with-mediatek-chips-vulnerable-to-forged-payments/
+
+https://www.inversecos.com/2022/07/heap-overflows-on-ios-arm64-heap.html
+> https://news.ycombinator.com/item?id=32449670
+
+https://programmingwithstyle.com/posts/howihackedmycar/
+> https://github.com/kimci86/bkcrack Crack legacy zip encryption with Biham and Kocher's known plaintext attack.
+> https://news.ycombinator.com/item?id=32447650
+
+https://allinfo.space/2022/07/09/microsoft-pluton-security-chip-doesnt-let-linux-on-the-lenovo-z13-and-z16/
+
+https://www.bleepingcomputer.com/news/security/microsoft-blocks-uefi-bootloaders-enabling-windows-secure-boot-bypass/
+
+https://www.theregister.com/2022/08/09/intel_sunny_cove/
+
+https://www.theverge.com/2022/8/12/23303411/zoom-defcon-root-access-privilege-escalation-hack-patrick-wardle macos zoom installer
+> https://news.ycombinator.com/item?id=32447339
+
 https://www.usenix.org/system/files/sec22-sullivan.pdf Open to a fault: On the passive compromise of TLS keys via transient errors
 > https://news.ycombinator.com/item?id=32431174
 

@@ -62,3 +62,6 @@ https://pjatk.in/avoiding-cache-stampede.html
 
 https://www.emergetools.com/blog/posts/SwiftProtocolConformance
 > https://news.ycombinator.com/item?id=29419349
+
+http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html;jsessionid=3D05FE03C26DFB1ED18895AE258C0656.v5-web013
+> https://news.ycombinator.com/item?id=32430975

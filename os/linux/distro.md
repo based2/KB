@@ -65,6 +65,12 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://lwn.net/SubscriberLink/906380/ca3031d15f974b74/ Debian to vote on its firmware path
+> https://news.ycombinator.com/item?id=32656940
+
+https://github.com/oasislinux/oasis static linked
+> https://news.ycombinator.com/item?id=32458744
+
 https://www.lemondeinformatique.fr/actualites/lire-l-histoire-derriere-glinux-la-discrete-distribution-de-google-87527.html
 
 https://linuxfr.org/news/rocky-linux-9-0

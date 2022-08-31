@@ -59,6 +59,9 @@ https://open-ran.org/#next
 https://www.macrumors.com/2022/06/28/apple-5g-modem-failed-qualcomm-remains-supplier/
 > https://news.ycombinator.com/item?id=31922244
 
+https://aws.amazon.com/en/blogs/aws/new-aws-private-5g-build-your-own-private-mobile-network/
+> https://news.ycombinator.com/item?id=32437301
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
@@ -100,6 +103,9 @@ https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing
 # Mesh
 https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
+
+https://dl.acm.org/doi/10.1145/3544216.3544231 SDN in the stratosphere: loon's aerospace mesh network
+> https://news.ycombinator.com/item?id=32629286
 
 # ISP
 https://www.dslreports.com/forum/wisp

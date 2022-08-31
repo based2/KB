@@ -101,6 +101,17 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://github.com/olamide203/hyoka
+> https://news.ycombinator.com/item?id=32612894
+
+https://news.ycombinator.com/item?id=32646440 	Ask HN: Which MOOCs in Math/CS are worth still worth taking in 2022?
+
+https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982
+> https://news.ycombinator.com/item?id=32627951
+
+https://mht.wtf/post/sparse-solves/
+> https://news.ycombinator.com/item?id=32451350
+
 https://www.quantamagazine.org/ancient-equations-offer-new-look-at-number-groups-20220810/
 > https://news.ycombinator.com/item?id=32414684
 

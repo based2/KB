@@ -280,6 +280,16 @@ https://github.com/kovisoft/paredit
 > https://news.ycombinator.com/item?id=32288193
 
 # News
+https://docs.joern.io/c-syntaxtree/
+
+https://bolinlang.com/
+> https://news.ycombinator.com/item?id=32459186
+
+http://elementsofprogramming.com/
+> https://news.ycombinator.com/item?id=32459443
+
+https://github.com/fogus/thunks/blob/main/reading/quirkeys.org books
+
 http://objective.st/
 > https://news.ycombinator.com/item?id=32444300
 

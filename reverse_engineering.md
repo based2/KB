@@ -15,7 +15,14 @@ https://github.com/WerWolv/ImHex
 > https://news.ycombinator.com/item?id=32287902
 > https://news.ycombinator.com/item?id=32285086
 
+https://github.com/badamczewski/PowerUp .Net
+> https://news.ycombinator.com/item?id=32645860
+
 #
+https://secret.club/2022/08/08/eqsat-oracle-synthesis.html
+
+https://kyteinsky.github.io/p/chromecast-protocol/
+
 https://hvmi.github.io/blog/2020/11/04/bddisasm.html Bitdefender x86 Disassembler
 
 https://binary.ninja/2022/07/13/introducing-decompiler-explorer.html

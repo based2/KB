@@ -75,6 +75,9 @@ https://beefchunk.com/documentation/sys-programming/binary_formats/elf/elf_from_
 https://dropbear.sh/blog/elf-patching.html
 > https://news.ycombinator.com/item?id=31313628
 
+https://justine.lol/sizetricks/#elf
+> https://news.ycombinator.com/item?id=32642874
+
 # Window manager
 https://www.freedesktop.org/wiki/
 
@@ -91,6 +94,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://sahajsarup.com/a-tale-of-running-modern-linux-on-hardware-from-1997/
+> https://news.ycombinator.com/item?id=32424904
+
 https://dmitry.gr/?r=05.Projects&proj=33. LinuxCard
 > https://news.ycombinator.com/item?id=32077823
 

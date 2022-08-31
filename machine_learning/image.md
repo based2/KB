@@ -55,8 +55,32 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://huggingface.co/spaces/huggingface/diffuse-the-rest
+> https://news.ycombinator.com/item?id=32633651
+
+https://github.com/bes-dev/stable_diffusion.openvino
+> https://news.ycombinator.com/item?id=32642255
+
+https://multimodal.art/news/1-week-of-stable-diffusion
+> https://news.ycombinator.com/item?id=32650432
+
+https://github.com/hlky/sd-enable-textual-inversion
+> https://news.ycombinator.com/item?id=32643564
+
+https://replicate.com/andreasjansson/stable-diffusion-animation
+> https://news.ycombinator.com/item?id=32658408
+
+https://simonwillison.net/2022/Aug/29/stable-diffusion/
+> https://news.ycombinator.com/item?id=32634074
+
+https://waxy.org/2022/08/exploring-12-million-of-the-images-used-to-train-stable-diffusions-image-generator/
+> https://news.ycombinator.com/item?id=32655497
+
 https://stability.ai/blog/stable-diffusion-announcement
 > https://news.ycombinator.com/item?id=32414811
+
+https://www.getalpaca.io/
+> https://news.ycombinator.com/item?id=32642273
 
 https://reticulated.net/dailyai/running-your-own-ai-image-generator-with-latent-diffusion/
 > https://news.ycombinator.com/item?id=32384646
@@ -104,6 +128,8 @@ https://dagshub.com/blog/yolov6/#
 > https://news.ycombinator.com/item?id=31917626
 
 #
+https://clipasso.github.io/clipasso/ image2sketch
+
 https://twitter.com/xkcd/status/1552281410869907456
 > https://news.ycombinator.com/item?id=32296609
 

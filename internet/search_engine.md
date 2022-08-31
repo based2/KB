@@ -60,6 +60,11 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://news.ycombinator.com/item?id=32628105 Canonical joins the OpenSearch community (AWS-led fork of Elasticsearch)
+
+https://searchengineland.com/indexnow-attributed-for-7-of-all-new-urls-clicked-on-in-bing-in-the-past-month-387115
+> https://www.indexnow.org/
+
 https://www.charityapi.org/post/improving-postgres-text-search-speed-7x-on-millions-of-records
 > https://news.ycombinator.com/item?id=32445780
 

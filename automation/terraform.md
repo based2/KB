@@ -93,6 +93,9 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://medium.com/immuta-engineering/terraform-engineering-strategies-part-1-make-your-modules-thread-safe-1a7fdf1c2a2c
+
+https://news.ycombinator.com/item?id=32633222 List of most useful Terraform open-source tools
 
 https://betterprogramming.pub/design-by-contracts-in-terraform-63467a749c1a
 

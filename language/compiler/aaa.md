@@ -113,6 +113,11 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://github.com/drti The Dynamic Runtime Inlining (DRTI) project
+> https://news.ycombinator.com/item?id=32655830
+
+https://www.humprog.org/~stephen/blog/2022/08/03/#elf-symbol-wrapping-via-replacement
+
 https://www.cs.utexas.edu/~pingali/CS380C/2010/papers/ssaCytron.pdf Efficiently Computing Static Single,Assignment Form and the Control Dependence Graph
 
 https://binary-translation.github.io/index.html

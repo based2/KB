@@ -47,6 +47,8 @@ https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-ed
 https://support.mozilla.org/en-US/kb/firefox-dns-over-https
 > https://news.ycombinator.com/item?id=30952056
 
+https://arxiv.org/abs/2208.04991 Understanding User Awareness and Behaviors Concerning Encrypted DNS Settings
+
 # Incident
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
@@ -87,6 +89,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://crimew.gay/notice/AMxFUTYtsMNtzbDzQu
+> https://news.ycombinator.com/item?id=32623356
+
 https://www.aaron-gustafson.com/notebook/locking-down-your-github-hosted-domains/
 > https://news.ycombinator.com/item?id=32435134
 

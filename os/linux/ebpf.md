@@ -48,6 +48,9 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://github.com/eeriedusk/knockles
+> https://news.ycombinator.com/item?id=32638073
+
 https://github.com/kris-nova/boopkit
 > https://news.ycombinator.com/item?id=30903356
 

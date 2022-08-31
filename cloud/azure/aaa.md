@@ -14,6 +14,17 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 #
+https://azure.microsoft.com/en-us/blog/azure-virtual-machines-with-ampere-altra-arm-based-processors-generally-available/
+
+https://news.ycombinator.com/item?id=32644896
+
+https://bugs.launchpad.net/ubuntu/+source/systemd/+bug/1988119
+
+https://azure.status.microsoft/en-gb/status
+> https://news.ycombinator.com/item?id=32649273
+
+https://news.ycombinator.com/item?id=32659631
+
 https://medium.com/tenable-techblog/microsoft-azure-synapse-pwnalytics-87c99c036291
 
 https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-database-vulnerability-in-azure-postgresql/

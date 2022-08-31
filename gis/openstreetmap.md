@@ -23,3 +23,6 @@ https://stevecoast.substack.com/p/in-defense-of-openstreetmaps-data?s=r
 > https://news.ycombinator.com/item?id=31638648
 
 https://blog.openstreetmap.org/2022/06/02/announcement-data-model-study/
+
+https://altilunium.my.id/blog/osm_selfhost/
+> https://news.ycombinator.com/item?id=32646536

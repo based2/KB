@@ -36,6 +36,9 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html
+> https://news.ycombinator.com/item?id=32658091
+
 http://www.bailis.org/blog/you-can-do-research-too/
 
 https://www.nature.com/articles/d41586-021-01878-z

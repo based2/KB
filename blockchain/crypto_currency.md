@@ -23,6 +23,14 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://forkast.news/headlines/fed-faster-payments-system-by-2023/
+> https://news.ycombinator.com/item?id=32657046
+
+https://www.federalreserve.gov/newsevents/speech/brainard20220829a.htm
+> https://news.ycombinator.com/item?id=32650798
+
+https://news.ycombinator.com/item?id=32461293
+
 https://www.theverge.com/2022/8/12/23298217/tornado-cash-crypto-mixer-crackdown-authorities-arrest-suspected-developer-amsterdam
 > https://news.ycombinator.com/item?id=32446407
 

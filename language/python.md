@@ -41,6 +41,9 @@ https://www.erichgrunewald.com/posts/gradually-migrating-python-code-to-asyncio/
 https://superfastpython.com/python-concurrency-choose-api/
 > https://news.ycombinator.com/item?id=32408577
 
+https://sdiehl.github.io/gevent-tutorial/
+> https://news.ycombinator.com/item?id=32641788
+
 # Build
 https://github.com/mesonbuild/meson
 

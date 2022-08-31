@@ -21,6 +21,9 @@ https://github.com/dahliaOS/pangolin_desktop
 > https://news.ycombinator.com/item?id=30460120
 
 # News
+https://9to5google.com/2022/08/30/fuchsia-director-interview-chris-mckillop/
+> https://news.ycombinator.com/item?id=32659175
+
 https://a13xp0p0v.github.io/2022/05/24/pwn-fuchsia.html
 > https://news.ycombinator.com/item?id=31497827
 

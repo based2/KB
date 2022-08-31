@@ -41,6 +41,9 @@ https://news.ycombinator.com/item?id=31779316 Ask HN: "No code" works well for m
 https://github.com/rowyio/rowy
 
 #
+https://blog.kodigy.com/post/state-of-flow-based-programming/
+> https://news.ycombinator.com/item?id=32635336
+
 https://sunmao-ui.com/
 > https://github.com/smartxworks/sunmao-ui/blob/develop/docs/en/what-is-sunmao.md
 > https://news.ycombinator.com/item?id=32163826

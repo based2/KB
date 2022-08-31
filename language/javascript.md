@@ -58,6 +58,9 @@ https://zelig880.com/how-to-use-variables-in-css-with-v-bind-in-vuejs-3
 https://antoniandre.github.io/splitpanes/
 > https://news.ycombinator.com/item?id=31783887
 
+https://tauri.app/
+> https://news.ycombinator.com/item?id=32446374
+
 ## ReactJS - Facebook
 https://overreacted.io/before-you-memo/
 
@@ -189,6 +192,9 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://www.joshwcomeau.com/react/usememo-and-usecallback/
+> https://news.ycombinator.com/item?id=32652627
+
 https://github.com/cloudscape-design/components AWS
 > https://news.ycombinator.com/item?id=32214622
 
@@ -421,6 +427,17 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.vuemastery.com/blog/getting-started-with-vitest/
+
+https://semaphoreci.com/blog/javascript-bun
+> https://news.ycombinator.com/item?id=32457587
+
+https://wintercg.org/ provide a space for JavaScript runtimes to collaborate on API interoperability
+> https://news.ycombinator.com/item?id=32453050
+
+https://insidegovuk.blog.gov.uk/2022/08/11/how-and-why-we-removed-jquery-from-gov-uk/
+> https://news.ycombinator.com/item?id=32423422
+
 https://devclass.com/2022/08/04/retire_javascript_says-json-creator-douglas-crockford/
 > https://news.ycombinator.com/item?id=32367589
 

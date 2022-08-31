@@ -8,6 +8,8 @@ https://quindarius.com/articles/uncompressing-folders-in-swift/index.html
 https://forums.swift.org/t/implementing-parts-of-the-swift-compiler-in-swift/59524
 > https://news.ycombinator.com/item?id=32399663
 
+https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-source/59989
+
 https://troz.net/post/2022/swiftui-mac-2022/
 > https://news.ycombinator.com/item?id=31967965
 

@@ -203,6 +203,19 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=32639970
+
+https://github.com/mrtazz/checkmake Experimental linter/analyzer for Makefiles
+>
+
+https://github.com/michaelforney/samurai
+> https://news.ycombinator.com/item?id=32455918
+
+https://news.ycombinator.com/item?id=32450402 Ask HN: Do we need another build system?
+
+https://dissociatedpress.net/2022/08/10/give-nothing-expect-nothing-gitlabs-the-latest-punching-bag-for-entitled-users/
+> https://news.ycombinator.com/item?id=32422505
+
 https://github.com/ankitpokhrel/jira-cli
 > https://news.ycombinator.com/item?id=32435259
 > > https://github.com/go-jira/jira

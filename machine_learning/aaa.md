@@ -218,6 +218,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://exafunction.com/blog/are-gpus-worth-it
+> https://news.ycombinator.com/item?id=32641769
+
+https://cprimozic.net/blog/boolean-logic-with-neural-networks/
+
+https://github.com/norvig/paip-lisp
+> https://news.ycombinator.com/item?id=32458048
+
 https://www.amazon.science/blog/automated-reasoning-at-federated-logic-conference-floc
 
 https://www.pnas.org/doi/10.1073/pnas.2123433119 A neural network solves, explains, and generates university math problems by program synthesis and few-shot learning at human level

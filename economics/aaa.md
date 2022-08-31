@@ -66,6 +66,8 @@ https://news.ycombinator.com/item?id=31109170 Column – a chartered bank for de
 https://benoitessiambre.com/macro.html 	Show HN: A central bank simulator game with a realistic economic model
 > https://news.ycombinator.com/item?id=31785199
 
+https://news.ycombinator.com/item?id=32641259 Ask HN: Why hasn't the ACH system been more abused?
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 > https://news.ycombinator.com/item?id=27763965
@@ -144,6 +146,14 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://www.newyorker.com/business/currency/how-mondragon-became-the-worlds-largest-co-op
+> https://news.ycombinator.com/item?id=32622140
+
+https://github.com/lukemerrick/InvestorsExchange.jl
+> https://news.ycombinator.com/item?id=32658633
+
+https://news.ycombinator.com/item?id=32462275
+
 https://workweek.com/2022/08/05/fintech-is-making-credit-cards-weirder/
 > https://news.ycombinator.com/item?id=32388453
 

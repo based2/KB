@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://www.sobyte.net/post/2022-05/tty/
+> https://news.ycombinator.com/item?id=32449772
+
 https://news.ycombinator.com/item?id=32444074 Ask HN: Which Linux terminal emulator do you prefer and why?
 
 https://zellij.dev/ terminal workspace with batteries included

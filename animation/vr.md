@@ -1,3 +1,5 @@
+https://www.bloomberg.com/news/articles/2022-08-28/what-will-apple-call-its-ar-vr-headsets-reality-one-reality-pro-names-emerge
+
 https://github.com/StereoKit/StereoKit MS, zig
 > https://news.ycombinator.com/item?id=32168236
 

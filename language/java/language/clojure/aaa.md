@@ -83,6 +83,12 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://www.juxt.pro/blog/repl-driven-minecraft
+> https://news.ycombinator.com/item?id=32650626
+
+https://tonsky.me/blog/datascript-2/
+> https://news.ycombinator.com/item?id=32447636
+
 https://github.com/babashka/nbb
 > https://news.ycombinator.com/item?id=32339979
 

@@ -4,6 +4,9 @@ https://andymatuschak.org/files/papers/Nelson1965.pdf A File Structure forthe Co
 https://github.com/google/iconvg
 > https://news.ycombinator.com/item?id=27404301
 
+https://microformats.org/wiki/Main_Page
+> https://news.ycombinator.com/item?id=32643152
+
 # images
 https://jpegxl.info/
 > https://news.ycombinator.com/item?id=27577328

@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://vinequai.com/livingonatorus
+> https://news.ycombinator.com/item?id=32649711
+
 https://gasiulis.name/vector-graphics-on-gpu/
 > https://news.ycombinator.com/item?id=32384016
 

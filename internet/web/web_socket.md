@@ -40,3 +40,6 @@ https://www.jakobmaier.at/projects/lamp/
 https://betterprogramming.pub/managing-and-analyzing-websockets-c0a051a3dec1
 
 https://news.ycombinator.com/item?id=31925145 Ask HN: How do you scale WebSocket?
+
+https://alexanderell.is/posts/websockets-from-scratch/
+> https://news.ycombinator.com/item?id=32634038

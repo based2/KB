@@ -12,6 +12,15 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.utilitydive.com/news/dominion-offshore-wind-performance-standard/630397/
+> https://news.ycombinator.com/item?id=32619343
+
+https://onlinelibrary.wiley.com/doi/10.1002/ece3.6592 Paint it black: Efficacy of increased wind turbine rotor blade visibility to reduce avian fatalities
+> https://news.ycombinator.com/item?id=32653133
+
+https://www.nature.com/articles/s41598-022-17505-4 Forecasting of energy consumption by G20 countries using an adjacent accumulation grey model
+> https://news.ycombinator.com/item?id=32456567
+
 https://news.mit.edu/2022/natel-energy-hydropower-0805
 
 https://terraformindustries.com/

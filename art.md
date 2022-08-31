@@ -42,6 +42,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.nbcnews.com/news/world/iran-unveils-western-art-masterpieces-hidden-decades-rcna42585
+
 https://news.ycombinator.com/item?id=32249586
 
 https://instant.gallery/

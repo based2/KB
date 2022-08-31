@@ -21,6 +21,9 @@ https://allisonseboldt.com/experimenting-with-programmatic-seo/
 
 https://daedtech.com/game-theory-in-seo-building-a-ship-of-strategy-in-a-sea-of-tactics/
 
+https://docs.bearblog.dev/seo/
+> https://news.ycombinator.com/item?id=32638976
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

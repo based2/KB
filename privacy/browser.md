@@ -12,6 +12,15 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110
+> https://news.ycombinator.com/item?id=32636412
+
+https://adguard.com/en/blog/adguard-mv3.html
+> https://news.ycombinator.com/item?id=32648131
+
+https://www.theguardian.com/technology/2022/aug/11/meta-injecting-code-into-websites-visited-by-its-users-to-track-them-research-says
+> 
+
 https://www.accc.gov.au/media-release/google-llc-to-pay-60-million-for-misleading-representations
 > https://news.ycombinator.com/item?id=32436028
 

@@ -79,6 +79,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.quantamagazine.org/what-is-quantum-field-theory-and-why-is-it-incomplete-20220810/
+> https://news.ycombinator.com/item?id=32425955
+
 https://www.nature.com/articles/s41467-022-29774-8 Curving the space by non-Hermiticity
 
 https://blog.google/technology/research/our-new-quantum-virtual-machine-will-accelerate-research-and-help-people-learn-quantum-computing/

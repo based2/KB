@@ -25,6 +25,12 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://glovesoff.substack.com/p/samba-on-linux-the-easy-way
+> https://news.ycombinator.com/item?id=32624486
+
+https://sdadams.org/blog/introducing-muxfs/
+> https://news.ycombinator.com/item?id=32456905
+
 https://dr-emann.github.io/squashfs/squashfs.html
 > https://news.ycombinator.com/item?id=32212862
 

@@ -131,6 +131,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://nostarch.com/download/OpenCircuits_Chapter1.pdf
+> https://news.ycombinator.com/item?id=32630740
+
 https://github.com/google/gf180mcu-pdk
 
 https://www.hackster.io/news/beagleboard-org-launches-high-performance-embedded-ai-64-bit-beaglebone-ai-64-board-91386326837d

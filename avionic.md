@@ -16,6 +16,13 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://onemileatatime.com/news/ghana-bans-delta-boeing-767/
+> https://news.ycombinator.com/item?id=32611188
+
+https://www.youtube.com/watch?v=MJrXUh0eZjw SR-71 Blackbird engines used analog computing
+> https://news.ycombinator.com/item?id=32652021
+> > https://www.researchgate.net/figure/Complete-hydraulic-circuit-of-the-DP0-automatic-gearbox_fig9_266055377
+
 https://gereshes.com/2022/07/24/select-textbooks-on-my-shelf-1-astrodynamics-edition/
 > https://news.ycombinator.com/item?id=32212791
 

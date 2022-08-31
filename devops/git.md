@@ -259,6 +259,12 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/
+> https://news.ycombinator.com/item?id=32651934
+
+https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/
+> https://news.ycombinator.com/item?id=32637643
+
 https://andrealmeid.com/post/2022-07-31-keep-bisect/
 > https://www.reddit.com/r/programming/comments/wg1ql3/keeping_a_project_bisectable/
 

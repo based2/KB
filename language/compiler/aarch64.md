@@ -37,5 +37,11 @@ https://polysoftit.co.uk/irisc-web/
 https://queue.acm.org/detail.cfm?id=3534854 Linear Address Spaces, Unsafe at any speed, Poul-Henning Kamp
 > https://news.ycombinator.com/item?id=31924849
 
+https://lwn.net/Articles/718888/ ARM pointer authentication
+> https://news.ycombinator.com/item?id=32651186
+
+https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/porting-x86-vector-bitmask-optimizations-to-arm-neon
+> https://news.ycombinator.com/item?id=32642768
+
 https://fuse.wikichip.org/news/6853/arm-introduces-the-cortex-a715/
 > https://news.ycombinator.com/item?id=31922138

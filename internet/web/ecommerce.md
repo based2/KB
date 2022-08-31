@@ -5,6 +5,8 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://news.ycombinator.com/item?id=32650878 	Show HN: EthicalAds – Privacy-first ad network for developers
+
 https://twitter.com/fchollet/status/1550930876183166976 Amazon sales of Deep Learning with Python are counterfeit
 > https://news.ycombinator.com/item?id=32210256
 

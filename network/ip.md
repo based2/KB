@@ -31,6 +31,9 @@ https://zacwe.st/2022/02/21/ipv6-in-a-home-environment/
 
 https://pansift.com/blog/is-ipv6-faster-than-ipv4/
 
+https://cv6.poinsignon.org/
+> https://news.ycombinator.com/item?id=32609588
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

@@ -54,6 +54,12 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://mullvad.net/tr/help/wireguard-servers-running-from-ram/
+> https://news.ycombinator.com/item?id=32645501
+
+https://www.cnet.com/tech/services-and-software/nordvpn-review/
+> https://news.ycombinator.com/item?id=32659770
+
 https://mullvad.net/en/help/no-logging-data-policy/
 > https://news.ycombinator.com/item?id=32285663
 

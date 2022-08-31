@@ -199,6 +199,14 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://tholman.com/cursor-effects/
+> https://news.ycombinator.com/item?id=32640733
+
+https://webkit.org/blog/13096/css-has-pseudo-class/
+
+https://github.com/codedgar/Puppertino
+> https://news.ycombinator.com/item?id=32435635
+
 https://news.ycombinator.com/item?id=32416295 font
 
 https://sakofchit.github.io/system.css/

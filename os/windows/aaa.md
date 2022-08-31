@@ -125,6 +125,12 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.windowscentral.com/software-apps/windows-11/former-microsoft-director-of-user-experience-trashes-windows-11-start-menu
+> https://news.ycombinator.com/item?id=32657981
+
+https://www.ghacks.net/2022/08/13/rufus-microsoft-is-blocking-windows-iso-downloads/
+> https://news.ycombinator.com/item?id=32448999
+
 https://github.com/Sycnex/Windows10Debloater
 > https://news.ycombinator.com/item?id=32434934
 

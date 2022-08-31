@@ -35,6 +35,9 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://engineering.mercari.com/en/blog/entry/20220228-work-as-an-embedded-microservices-sre/
+> https://news.ycombinator.com/item?id=32635725
+
 https://blog.cloudflare.com/pipefail-how-a-missing-shell-option-slowed-cloudflare-down/
 > https://news.ycombinator.com/item?id=30918689
 

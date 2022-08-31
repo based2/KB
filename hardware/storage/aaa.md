@@ -71,5 +71,8 @@ https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter
 https://louwrentius.com/please-use-zfs-with-ecc-memory.html
 > https://news.ycombinator.com/item?id=32370395
 
+https://www.usenix.org/conference/atc20/presentation/rebello Can Applications Recover from fsync Failures?
+> https://news.ycombinator.com/item?id=32416193
+
 
 

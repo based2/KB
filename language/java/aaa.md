@@ -258,6 +258,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.royvanrijn.com/blog/2010/06/creating-shazam-in-java/
+> https://news.ycombinator.com/item?id=32530056
+
 https://github.com/readme/featured/java-programming-language
 > https://news.ycombinator.com/item?id=32399266
 

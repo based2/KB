@@ -64,6 +64,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://acorn.io/
+> https://news.ycombinator.com/item?id=32624138
+
 https://www.plural.sh/blog/kubernetes-statefulsets-are-broken/
 > https://news.ycombinator.com/item?id=32439255
 

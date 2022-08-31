@@ -25,6 +25,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://github.com/phil294/AHK_X11 AutoHotkey for Linux (X11-based systems)
+> https://news.ycombinator.com/item?id=32654023
+
 https://zwischenzugs.com/2022/08/08/who-should-write-the-terraform/
 > https://news.ycombinator.com/item?id=32396892
 

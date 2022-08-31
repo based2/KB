@@ -12,3 +12,6 @@ https://checkoway.net/musings/nix/ Using Nix on macOS
 
 https://gitlab.com/volian/nala apt
 > 
+
+https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
+> https://news.ycombinator.com/item?id=32637976

@@ -201,6 +201,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://chollinger.com/blog/2022/08/tiny-telematics-tracking-my-trucks-location-offline-with-a-raspberry-pi-redis-kafka-and-flink/
+> https://news.ycombinator.com/item?id=32654448
+
 https://joemorrison.substack.com/p/google-maps-moat-is-evaporating
 > https://news.ycombinator.com/item?id=32402977
 

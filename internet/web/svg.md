@@ -41,3 +41,6 @@ https://www.smashingmagazine.com/2022/05/magical-svg-techniques/
 https://www.reddit.com/r/java/comments/vigyem/a_lightweight_java2d_svg_rendering_engine/
 
 https://github.com/tomkwok/svgasm/
+
+https://twitter.com/destroytoday/status/1563716595402285057
+> https://news.ycombinator.com/item?id=32637471

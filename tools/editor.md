@@ -180,6 +180,9 @@ https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-ico
 https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript
 > https://news.ycombinator.com/item?id=29888221
 
+https://ghuntley.com/fracture/
+> https://news.ycombinator.com/item?id=32657709
+
 https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022
 > https://news.ycombinator.com/item?id=30103421
 

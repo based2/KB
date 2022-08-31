@@ -114,6 +114,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://zmarshall.nl/static/eink-vnc.html
+> https://news.ycombinator.com/item?id=32449857
+
 https://news.mit.edu/2022/algorithm-computer-network-bandwidth-0804
 > https://news.ycombinator.com/item?id=32340887
 

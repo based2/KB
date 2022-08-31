@@ -21,6 +21,11 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+http://marss86.org/~marss86/index.php/Home
+
+https://dl.acm.org/doi/abs/10.1145/3356903 Building certified concurrent OS kernels
+> https://news.ycombinator.com/item?id=32416008
+
 https://kevinlawler.com/ctrl-c
 > https://news.ycombinator.com/item?id=32354581
 

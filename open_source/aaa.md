@@ -230,6 +230,14 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://staltz.com/time-till-open-source-alternative.html
+> https://news.ycombinator.com/item?id=32624461
+
+https://www.igor.pro.br/publica/papers/ICSE2021_B.pdf What Makes a Great Maintainer of Open Source Projects?
+
+http://antirez.com/news/134
+> https://news.ycombinator.com/item?id=32455968
+
 https://ariadne.space/2022/08/11/so-youve-decided-to-start-a-free-software-consultancy.../
 > https://news.ycombinator.com/item?id=32423074
 

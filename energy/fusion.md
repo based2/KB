@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.llnl.gov/news/three-peer-reviewed-papers-highlight-scientific-results-national-ignition-facility-record
+> https://news.ycombinator.com/item?id=32459189
+
 https://www.newsweek.com/nuclear-fusion-energy-milestone-ignition-confirmed-california-1733238
 
 https://physics.aps.org/articles/v15/67

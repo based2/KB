@@ -104,6 +104,8 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2022/07/general-availability-amazon-ec2-m1-mac-instances-macos/
+
 https://instances.vantage.sh/aws/ec2/m5a.2xlarge
 > https://news.ycombinator.com/item?id=32140329
 

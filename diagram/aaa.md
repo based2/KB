@@ -134,6 +134,15 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://bootlin.com/blog/an-introduction-to-pipewire/
+> https://news.ycombinator.com/item?id=32629624
+
+https://tone-row.com/blog/graph-syntax-css-selectors
+> https://news.ycombinator.com/item?id=32637689
+
+https://d2-lang.com/tour/intro D2: A new declarative language to turn text into diagrams
+> https://news.ycombinator.com/item?id=32652291
+
 https://www.nature.com/articles/s41586-022-05028-x
 > https://news.ycombinator.com/item?id=32381790
 

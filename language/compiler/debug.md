@@ -11,6 +11,9 @@ https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
 # News
+https://github.com/runsidekick/sidekick
+> https://news.ycombinator.com/item?id=32638346
+
 https://lemire.me/blog/2022/06/28/looking-at-assembly-code-with-gdb/
 > https://news.ycombinator.com/item?id=31911562
 

@@ -72,6 +72,14 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.servethehome.com/intel-enters-a-new-era-of-chiplets-that-will-change-everything-34/
+> https://news.ycombinator.com/item?id=32619824
+
+https://www.amd.com/en/press-releases/2022-08-29-amd-launches-ryzen-7000-series-desktop-processors-zen-4-architecture-the
+> https://news.ycombinator.com/item?id=32649364
+
+https://semiengineering.com/cryogenic-cmos-becomes-cool/
+
 https://www.anandtech.com/show/17469/tsmc-first-n2-node-to-use-gaafets-skip-backside-power
 > https://news.ycombinator.com/item?id=32417064
 

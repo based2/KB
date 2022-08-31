@@ -41,6 +41,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://film-net.github.io/
+> https://news.ycombinator.com/item?id=32659679
+
 https://metaphysic.ai/to-uncover-a-deepfake-video-call-ask-the-caller-to-turn-sideways/
 > https://news.ycombinator.com/item?id=32384653
 
@@ -88,7 +91,6 @@ https://www.unite.ai/the-new-cgi-creating-neural-neighborhoods-with-block-nerf/
 > https://news.ycombinator.com/item?id=30300154
 
 https://waymo.com/research/block-nerf/
-> 
 
 https://github.com/muxamilian/duralava
 > https://news.ycombinator.com/item?id=30222243

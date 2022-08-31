@@ -143,6 +143,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.smithsonianmag.com/smart-news/asteroid-16-psyche-may-be-worth-more-than-planet-earth-at-10-quintillion-in-fine-metals-180979303/
+
+https://en.wikipedia.org/wiki/Gravity_Probe_B
+> https://news.ycombinator.com/item?id=32459888
+
 https://webbtelescope.org/news
 
 https://www.nasa.gov/connect/ebooks/history-of-neo-research.html

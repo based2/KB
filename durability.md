@@ -58,6 +58,11 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://civileats.com/2022/04/27/right-to-repair-open-source-tractors-john-deere-oggun-farms-profitability-technology/
+> https://news.ycombinator.com/item?id=32628913
+
+https://news.ycombinator.com/item?id=32457590
+
 https://www.androidpolice.com/ifixit-genuine-pixel-parts-on-sale/
 
 https://www.halteobsolescence.org/wp-content/uploads/2022/02/Rapport-indice-de-reparabilite.pdf

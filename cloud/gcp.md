@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://news.ycombinator.com/item?id=32656200
+
 https://www.infoq.com/news/2022/07/gcp-sustainable-transformation/
 
 https://securityshenanigans.medium.com/enumeration-and-lateral-movement-in-gcp-environments-c3b82d342794

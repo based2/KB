@@ -28,3 +28,5 @@ https://github.com/kevinlawler/kerf1 kdb+
 https://www.marpledata.com/
 > https://news.ycombinator.com/item?id=32262036
 
+https://github.com/brendanartley/Regressio A python library for univariate regression, interpolation, and smoothing
+> https://news.ycombinator.com/item?id=32645063

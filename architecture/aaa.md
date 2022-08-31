@@ -63,6 +63,9 @@ https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantu
 # Performance
 https://en.wikipedia.org/wiki/Amdahl%27s_law
 
+https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/
+> https://news.ycombinator.com/item?id=32635910
+
 http://www.brendangregg.com/usemethod.html
 
 https://blog.mikeswanson.com/post/661008854541271040/achieving-25gbps-with-the-udm-pro
@@ -223,6 +226,12 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://blog.yoshuawuyts.com/state-machines-2/
+> https://news.ycombinator.com/item?id=32616802
+
+https://wojtekmandrysz.com/blog/systems-architect/
+> https://news.ycombinator.com/item?id=32649710
+
 https://sequentialread.com/federation-vs-clustering-self-hosting/
 >
 

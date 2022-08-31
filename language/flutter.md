@@ -23,6 +23,9 @@ https://github.com/Floating-Dartists/flutter_dsfr
 
 https://systemweakness.com/how-to-store-login-credentials-the-right-way-in-flutter-857ba6e7e96d
 
+https://medium.com/flutter/announcing-flutter-3-3-at-flutter-vikings-6f213e068793
+> https://news.ycombinator.com/item?id=32654358
+
 https://docs.flutter.dev/whats-new#may-11-2022-google-io-edition-flutter-3-release
 > https://news.ycombinator.com/item?id=31344863
 

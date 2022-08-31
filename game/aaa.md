@@ -15,6 +15,14 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://signalstate.io/
+> https://news.ycombinator.com/item?id=32609474
+
+https://ludii.games/details.php?keyword=Lielow
+> https://news.ycombinator.com/item?id=32628351
+
+https://news.ycombinator.com/item?id=32635969 How to Get into Tabletop RPGs
+
 https://news.ycombinator.com/item?id=32368259
 
 https://www.polygon.com/23269073/competitive-classic-tetris-ctwc-jonas-neubauer-andy-michael-artiaga

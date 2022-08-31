@@ -11,6 +11,18 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://www.gimp.org/news/2022/08/27/gimp-2-99-12-released/ initial CMYK support
+> https://news.ycombinator.com/item?id=32624055
+
+https://github.com/upscayl/upscayl
+> https://news.ycombinator.com/item?id=32628761
+
+http://paulbourke.net/dome/fish2/ Converting a fisheye image into a panoramic, spherical or perspective projection
+> https://news.ycombinator.com/item?id=32651517
+
+https://rubenerd.com/losslessly-optimise-images/
+> https://news.ycombinator.com/item?id=32635906
+
 https://github.com/libvips/nip2 GUI for the libvips image processing library
 > https://news.ycombinator.com/item?id=32414698
 

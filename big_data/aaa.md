@@ -245,6 +245,15 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.fast.ai/2022/08/25/jupyter-git/
+> https://news.ycombinator.com/item?id=32601703
+
+https://blog.tjcx.me/p/why-is-webmd-so-awful?triedSigningIn=true
+> https://news.ycombinator.com/item?id=32649864
+
+https://lisp-stat.dev/
+> https://news.ycombinator.com/item?id=32458271
+
 https://www.gnu.org/software/datamash/
 
 https://soilspectroscopy.github.io/ossl-manual/

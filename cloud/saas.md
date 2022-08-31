@@ -8,3 +8,6 @@ https://docs.thenile.dev/blog/infrastructure-saas
 
 https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticles/sfdcarticles/Updates-to-the-Fusion-360-Simulation-Extension.html	Local simulation feature to be removed from all Autodesk Fusion 360 versions
 > https://news.ycombinator.com/item?id=32445203
+
+https://upollo.ai/blog/effective-trials
+> https://news.ycombinator.com/item?id=32658926

@@ -59,6 +59,23 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.theregister.com/2022/08/29/germany_digital_ad_display_shutdown/
+> https://news.ycombinator.com/item?id=32639641
+
+https://news.stanford.edu/2022/02/09/turning-carbon-dioxide-gasoline-efficiently/
+> https://news.ycombinator.com/item?id=32654820
+
+https://github.com/singularity-energy/open-grid-emissions
+
+https://www.washingtonpost.com/world/2022/08/30/pakistan-flooding-underwater-monsoon/
+> https://news.ycombinator.com/item?id=32650000
+
+https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/texas-bans-10-banks-348-investment-funds-over-fossil-fuel-policies-71842914
+> https://news.ycombinator.com/item?id=32658506
+
+https://www.nature.com/articles/s43247-022-00497-4 Historical patterns and sustainability implications of worldwide bicycle ownership and use
+> https://news.ycombinator.com/item?id=32658068
+
 https://www.science.org/doi/10.1126/sciadv.abn9683 Using satellites to uncover large methane emissions from landfills
 > https://news.ycombinator.com/item?id=32423178
 

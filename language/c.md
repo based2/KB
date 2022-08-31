@@ -71,6 +71,17 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/ Ushering out strlcpy()
+> https://news.ycombinator.com/item?id=32614633
+
+https://lewissbaker.github.io/2022/08/27/understanding-the-compiler-transform
+> https://news.ycombinator.com/item?id=32642832
+
+https://embeddedartistry.com/blog/2019/04/08/a-general-overview-of-what-happens-before-main/
+
+https://250bpm.com/blog:56/index.html
+> https://news.ycombinator.com/item?id=32427137
+
 https://thephd.dev/c23-is-coming-here-is-what-is-on-the-menu
 > https://news.ycombinator.com/item?id=32352569
 

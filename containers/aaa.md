@@ -39,6 +39,14 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/  container orchestrator landscape
+> https://news.ycombinator.com/item?id=32577758
+
+https://arccompute.com/blog/libvfio-add-gvm-support/
+> https://news.ycombinator.com/item?id=32582949
+
+https://forums.virtualbox.org/viewtopic.php?f=15&t=106885
+
 https://github.com/0xricksanchez/like-dbg
 > https://news.ycombinator.com/item?id=32423813
 

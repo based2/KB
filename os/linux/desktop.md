@@ -70,6 +70,12 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.volkerkrause.eu/2022/08/29/kde-20-year-contribution-anniversary.html
+> https://news.ycombinator.com/item?id=32639791
+
+https://developernote.com/2022/08/qt-signal-is-ten-times-slower-than-a-virtual-function/
+> https://news.ycombinator.com/item?id=32428394
+
 https://www.theregister.com/2022/08/10/opinion_column_drop_windows_for_linux/
 > https://news.ycombinator.com/item?id=32439135
 

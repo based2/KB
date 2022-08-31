@@ -53,6 +53,9 @@ https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly
 
 https://pythondev.readthedocs.io/wasm.html
 
+https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly
+> https://news.ycombinator.com/item?id=32511420
+
 # Security
 https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 > https://news.ycombinator.com/item?id=26994741

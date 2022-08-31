@@ -103,6 +103,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://clipchamp.com/en/windows-video-editor/
+> https://news.ycombinator.com/item?id=32614571
+
+https://blog.sesse.net/blog/tech/2022-08-28-10-51_av1_live_streaming_muxing_and_streaming.txt.html
+> https://news.ycombinator.com/item?id=32631280
+
 https://tratt.net/laurie/blog/2022/making_a_video_of_a_single_window.html
 > https://news.ycombinator.com/item?id=32408546
 

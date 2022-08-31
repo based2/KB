@@ -130,6 +130,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://github.com/Miksus/red-mail
+
 https://nosubstance.me/post/mutt-secret-sauce/
 
 http://news.bbc.co.uk/2/hi/science/nature/2138014.stm Yahoo admits mangling e-mail

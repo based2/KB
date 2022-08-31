@@ -97,6 +97,14 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://auto-traffic-control.com/
+> https://news.ycombinator.com/item?id=32458180
+
+https://www.youtube.com/watch?v=JxI3Eu5DPwE ECS?
+
+https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft
+> https://news.ycombinator.com/item?id=32446653
+
 https://www.yare.io/
 > https://news.ycombinator.com/item?id=32394902
 
