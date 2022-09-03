@@ -40,3 +40,6 @@ https://squidfunk.github.io/mkdocs-material/
 
 https://gitjournal.io/
 > https://news.ycombinator.com/item?id=31914003
+
+https://leancrew.com/all-this/2022/09/my-contribution-to-markdown/
+> https://news.ycombinator.com/item?id=32692806

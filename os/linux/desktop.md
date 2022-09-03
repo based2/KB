@@ -70,6 +70,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://discourse.ubuntu.com/t/why-ubuntu-22-04-is-so-fast-and-how-to-make-it-faster/30369
+> https://news.ycombinator.com/item?id=32693688
+
 https://www.volkerkrause.eu/2022/08/29/kde-20-year-contribution-anniversary.html
 > https://news.ycombinator.com/item?id=32639791
 

@@ -71,6 +71,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://www.foonathan.net/2022/08/malloc-interface/
+> https://news.ycombinator.com/item?id=32663897
+
 https://lwn.net/SubscriberLink/905777/a6dba1b2ed54f04f/ Ushering out strlcpy()
 > https://news.ycombinator.com/item?id=32614633
 

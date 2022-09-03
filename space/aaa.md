@@ -143,6 +143,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://arxiv.org/abs/2208.14990 The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 μm
+> https://news.ycombinator.com/item?id=32681366
+
 https://www.smithsonianmag.com/smart-news/asteroid-16-psyche-may-be-worth-more-than-planet-earth-at-10-quintillion-in-fine-metals-180979303/
 
 https://en.wikipedia.org/wiki/Gravity_Probe_B

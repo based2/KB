@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=32692590
+
 https://vinequai.com/livingonatorus
 > https://news.ycombinator.com/item?id=32649711
 

@@ -1,4 +1,7 @@
 # News
+https://changelog.complete.org/archives/10421-dead-usb-drives-are-fine-building-a-reliable-sneakernet
+> https://news.ycombinator.com/item?id=32686939
+
 https://www.vidarholen.net/contents/blog/?p=479 Useless Use Of dd
 > https://news.ycombinator.com/item?id=31474710
 

@@ -32,6 +32,9 @@ https://github.com/lumen/lumen Lumen - A new compiler and runtime for BEAM langu
 
 # Elixir
 
+https://native.live/
+> https://news.ycombinator.com/item?id=32694668
+
 https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/
 > https://news.ycombinator.com/item?id=26989577
 

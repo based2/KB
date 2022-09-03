@@ -44,6 +44,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.cs.toronto.edu/~hector/pcr.html
+> 
+
 https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/
 > https://news.ycombinator.com/item?id=32435211
 

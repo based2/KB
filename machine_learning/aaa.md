@@ -218,6 +218,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://arxiv.org/abs/2209.00588 Transformers are Sample Efficient World Models
+
 https://exafunction.com/blog/are-gpus-worth-it
 > https://news.ycombinator.com/item?id=32641769
 

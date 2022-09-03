@@ -203,6 +203,12 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://www.customers.com/articles/doug-engelbarts-design-knowledge-based-organizationspart-1/
+> https://news.ycombinator.com/item?id=32691051
+
+https://jessitron.com/2022/08/28/the-viable-systems-model-and-where-my-team-fits/
+> https://news.ycombinator.com/item?id=32634605
+
 https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html
 > https://news.ycombinator.com/item?id=32135462
 

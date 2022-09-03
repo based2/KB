@@ -33,6 +33,8 @@ https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-databa
 https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 
 # News
+https://azure.microsoft.com/en-us/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/
+
 https://posts.specterops.io/establish-security-boundaries-in-your-on-prem-ad-and-azure-environment-dcb44498cfc2?gi=d89bbb14ddc9
 
 https://www.reddit.com/r/AZURE/comments/v97s79/new_azure_firewall_capabilities_and_an_update_on/

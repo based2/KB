@@ -259,6 +259,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/petar/maymounkov.org/blob/main/articles/governance_for_git/gov4git_whitepaper.md
+
 https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/
 > https://news.ycombinator.com/item?id=32651934
 

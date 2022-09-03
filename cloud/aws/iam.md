@@ -41,7 +41,9 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
-https://aws.amazon.com/fr/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-aws-identity-access-management-iam-customer-managed-policies-cmps/
+https://aws.amazon.com/en/blogs/security/announcing-new-aws-iam-identity-center-apis-to-manage-users-and-groups-at-scale/
+
+https://aws.amazon.com/en/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-aws-identity-access-management-iam-customer-managed-policies-cmps/
 > https://www.reddit.com/r/aws/comments/w2ybhe/new_sso_and_iam_integration_aws_sso_adding/
 
 https://github.com/glassechidna/trackiam/blob/master/policies/ReadOnlyAccess.json

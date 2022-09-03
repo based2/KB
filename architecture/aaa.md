@@ -226,6 +226,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html
+> https://news.ycombinator.com/item?id=32651763
+
 https://blog.yoshuawuyts.com/state-machines-2/
 > https://news.ycombinator.com/item?id=32616802
 

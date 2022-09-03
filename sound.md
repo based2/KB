@@ -83,6 +83,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://wavvy.app/
+> https://news.ycombinator.com/item?id=32688646
+
 https://github.com/ange-yaghi/engine-sim
 
 https://github.com/wwmm/easyeffects

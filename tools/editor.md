@@ -7,6 +7,9 @@
 
     🕵 grep -n text file
     🔭 vi +LINE file
+    
+    🔎 ESC /mysearch
+       /
 
 https://thevaluable.dev/vim-advanced/
 
@@ -195,6 +198,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://helix-editor.com/news/release-22-08-highlights/
+
 https://github.com/Dashibase/lotion
 > https://news.ycombinator.com/item?id=32231353
 

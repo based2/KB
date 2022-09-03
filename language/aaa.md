@@ -280,6 +280,9 @@ https://github.com/kovisoft/paredit
 > https://news.ycombinator.com/item?id=32288193
 
 # News
+https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html
+> https://news.ycombinator.com/item?id=32666506
+
 https://docs.joern.io/c-syntaxtree/
 
 https://bolinlang.com/

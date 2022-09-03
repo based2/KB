@@ -23,6 +23,11 @@ https://notdodo.medium.com/aws-ec2-auto-scaling-privilege-escalation-d518f8e7f91
 https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 
 #
+https://www.chrisfarris.com/post/aws-ir/
+
+https://steampipe.io/blog/cis-v15-aws-benchmark
+> https://news.ycombinator.com/item?id=32694689
+
 https://thenewstack.io/aws-customers-can-now-order-a-free-mfa-security-key/
 
 https://docs.aws.amazon.com/prescriptive-guidance/latest/aws-startup-security-baseline/welcome.html

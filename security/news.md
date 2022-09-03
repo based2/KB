@@ -1,3 +1,24 @@
+https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/
+> https://www.reddit.com/r/netsec/comments/x1mt51/cve202226113_forticlient_arbitrary_file_write_as/
+
+https://goteleport.com/blog/linux-audit/
+> https://www.reddit.com/r/netsec/comments/x2jopk/linux_audit_comes_at_a_cost_is_that_where_bpf/
+
+https://docs.microsoft.com/en-us/windows-hardware/drivers/bringup/firmware-attack-surface-reduction
+
+https://eclecticlight.co/2022/08/30/macos-now-scans-for-malware-whenever-it-gets-a-chance/
+> https://news.ycombinator.com/item?id=32681976
+
+https://www.samsung.com/us/support/securityresponsecenter/
+> https://news.ycombinator.com/item?id=32693134
+
+https://www.bleepingcomputer.com/news/security/chrome-extensions-with-14-million-installs-steal-browsing-data/
+
+https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/ 
+> https://news.ycombinator.com/item?id=32664270
+
+https://news.ycombinator.com/item?id=32662385 Ask HN: IT Security Checklist for Startups?
+
 https://www.engadget.com/twilio-authy-data-breach-202314313.html
 > https://news.ycombinator.com/item?id=32622923
 

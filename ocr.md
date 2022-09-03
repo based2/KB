@@ -69,6 +69,9 @@ https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351
 > 
 
 # News
+https://github.com/sergey-scat/unicaps A unified Python API for CAPTCHA solving services.
+> 
+
 https://github.com/karayaman/Play-online-chess-with-real-chess-board
 
 https://opencv.org/opencv-4-6-0/

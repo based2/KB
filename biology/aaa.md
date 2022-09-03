@@ -37,6 +37,8 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://aeon.co/essays/how-xenobots-reshape-our-understanding-of-genetics
+
 https://news.rice.edu/news/2022/rice-models-moving-washers-help-dna-replicate
 
 https://medicalxpress.com/news/2022-08-immune-cells-genomic-scars-lifetime.html

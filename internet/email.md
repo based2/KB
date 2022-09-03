@@ -130,6 +130,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email
+> https://news.ycombinator.com/item?id=32671959
+
 https://github.com/Miksus/red-mail
 
 https://nosubstance.me/post/mutt-secret-sauce/

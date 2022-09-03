@@ -68,6 +68,11 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://planetscale.com/blog/one-million-queries-per-second-with-mysql
+> https://news.ycombinator.com/item?id=32680957
+
+https://news.ycombinator.com/item?id=32663836
+
 https://github.com/azimuttapp/azimutt Explore and analyze your database
 > https://www.i-programmer.info/news/90-tools/15641-real-world-schema-exploring-with-azimutt.html
 

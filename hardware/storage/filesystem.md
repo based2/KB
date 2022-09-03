@@ -25,6 +25,8 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html
+
 https://glovesoff.substack.com/p/samba-on-linux-the-easy-way
 > https://news.ycombinator.com/item?id=32624486
 

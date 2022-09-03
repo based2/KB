@@ -50,9 +50,13 @@ https://support.mozilla.org/en-US/kb/firefox-dns-over-https
 https://arxiv.org/abs/2208.04991 Understanding User Awareness and Behaviors Concerning Encrypted DNS Settings
 
 # Incident
+https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS resolution will break on v1.25.0 in certain configurations
+
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 # 
+https://doc.huc.fr.eu.org/fr/post/openbsd-nsd-dnssec-tlsa/
+
 https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors
 
 https://www.go350.com/posts/exfiltrate-files-using-the-dns/

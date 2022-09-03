@@ -1,3 +1,6 @@
+https://determinate.systems/posts/we-want-to-make-nix-better
+> https://news.ycombinator.com/item?id=32693107
+
 https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/
 > https://news.ycombinator.com/item?id=32169454
 
@@ -12,6 +15,7 @@ https://checkoway.net/musings/nix/ Using Nix on macOS
 
 https://gitlab.com/volian/nala apt
 > 
+
 
 https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 > https://news.ycombinator.com/item?id=32637976

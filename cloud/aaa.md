@@ -91,6 +91,9 @@ https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_auth
 # LB certificate termination data-in-transit gap
 
 # Incidents
+https://arstechnica.com/gadgets/2022/08/smartdrys-useful-laundry-sensor-to-be-cloud-bricked-next-month/
+> https://news.ycombinator.com/item?id=32669224
+
 https://www.theregister.com/2022/08/09/google_outage/
 >
 
@@ -161,6 +164,12 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://openship.org/
+> https://news.ycombinator.com/item?id=32690410
+
+https://blog.cloudflare.com/cloudflares-abuse-policies-and-approach/
+> https://news.ycombinator.com/item?id=32661638
+
 https://blog.dahl.dev/posts/stringing-together-several-free-tiers-to-host-an-application-with-zero-cost/
 > https://news.ycombinator.com/item?id=32628581
 

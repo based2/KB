@@ -55,6 +55,12 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://replicate.com/deforum/deforum_stable_diffusion
+> https://news.ycombinator.com/item?id=32688835
+
+https://openai.com/blog/dall-e-introducing-outpainting/
+> https://news.ycombinator.com/item?id=32664507
+
 https://huggingface.co/spaces/huggingface/diffuse-the-rest
 > https://news.ycombinator.com/item?id=32633651
 

@@ -55,6 +55,8 @@ https://smallstep.com/blog/use-ssh-certificates/
 
 https://www.vaultproject.io/docs/secrets/ssh
 
+https://news.ycombinator.com/item?id=32660773 Poll HN: Do you use SSH certificates (not mere public-key authentication)?
+
 # Firewalls
 https://fly.io/blog/ssh-and-user-mode-ip-wireguard/
 > https://news.ycombinator.com/item?id=26315695

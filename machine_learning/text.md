@@ -12,3 +12,6 @@ https://hacks.mozilla.org/2022/06/neural-machine-translation-engine-for-firefox-
 
 https://ai.facebook.com/blog/blenderbot-3-a-175b-parameter-publicly-available-chatbot-that-improves-its-skills-and-safety-over-time/
 > https://news.ycombinator.com/item?id=32358078
+
+https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gpt-3
+> https://news.ycombinator.com/item?id=32685214

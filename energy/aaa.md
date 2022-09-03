@@ -12,6 +12,11 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://newatlas.com/energy/world-wide-wind-interview/
+
+https://earthbound.report/2017/08/11/why-have-i-never-heard-of-the-ene-farm/
+> https://news.ycombinator.com/item?id=32694644
+
 https://www.utilitydive.com/news/dominion-offshore-wind-performance-standard/630397/
 > https://news.ycombinator.com/item?id=32619343
 

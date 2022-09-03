@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.aopa.org/news-and-media/all-news/2022/september/01/closer-to-an-unleaded-future
+> https://news.ycombinator.com/item?id=32682990
+
 https://onemileatatime.com/news/ghana-bans-delta-boeing-767/
 > https://news.ycombinator.com/item?id=32611188
 

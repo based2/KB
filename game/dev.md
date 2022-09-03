@@ -97,6 +97,8 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://austinmorlan.com/posts/entity_component_system/
+
 https://auto-traffic-control.com/
 > https://news.ycombinator.com/item?id=32458180
 

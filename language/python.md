@@ -53,6 +53,9 @@ https://gms.tf/the-rise-of-meson.html
 https://www.pyinstaller.org/
 > https://news.ycombinator.com/item?id=29439149
 
+https://github.com/charliermarsh/ruff linter
+> https://news.ycombinator.com/item?id=32666035
+
 # Debug
 3.8+
 > print(f"{d['key'][1]=}")

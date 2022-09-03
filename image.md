@@ -11,6 +11,11 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://www.photopea.com/
+> https://news.ycombinator.com/item?id=32692372
+
+https://news.ycombinator.com/item?id=32658123 shrinking images using command line tools
+
 https://www.gimp.org/news/2022/08/27/gimp-2-99-12-released/ initial CMYK support
 > https://news.ycombinator.com/item?id=32624055
 

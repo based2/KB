@@ -245,6 +245,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://tech.marksblogg.com/python-data-visualisation-charts-graphs-plots.html
+> https://news.ycombinator.com/item?id=32664202
+
+https://engineering.fb.com/2022/08/31/open-source/velox/
+> https://velox-lib.io/
+
 https://www.fast.ai/2022/08/25/jupyter-git/
 > https://news.ycombinator.com/item?id=32601703
 

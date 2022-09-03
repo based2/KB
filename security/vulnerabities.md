@@ -41,6 +41,9 @@ https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/
 > https://github.com/usnistgov/vulntology NIST Vulnerability Data Ontology
 
 # News
+https://attackerkb.com/topics/RHuGSieFJe/cve-2021-38406
+> https://www.reddit.com/r/netsec/comments/x3yfce/cve202138406_or_cisa_kev_catalog_lacks/
+
 https://github.com/mrl5/vulner
 > https://news.ycombinator.com/item?id=31783375
 

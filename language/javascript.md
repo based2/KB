@@ -427,6 +427,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://thenewstack.io/javascript-hydration-is-a-workaround-not-a-solution/
+> https://news.ycombinator.com/item?id=32650996
+
 https://www.vuemastery.com/blog/getting-started-with-vitest/
 
 https://semaphoreci.com/blog/javascript-bun

@@ -39,6 +39,12 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds
+> https://news.ycombinator.com/item?id=32683834
+
+https://drewdevault.com/2022/09/02/2022-09-02-In-praise-of-qemu.html
+> https://news.ycombinator.com/item?id=32688863
+
 https://lwn.net/SubscriberLink/905164/e1f4d4c1ce35f8b9/  container orchestrator landscape
 > https://news.ycombinator.com/item?id=32577758
 
