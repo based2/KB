@@ -62,6 +62,9 @@ https://www.macrumors.com/2022/06/28/apple-5g-modem-failed-qualcomm-remains-supp
 https://aws.amazon.com/en/blogs/aws/new-aws-private-5g-build-your-own-private-mobile-network/
 > https://news.ycombinator.com/item?id=32437301
 
+https://backreaction.blogspot.com/2022/09/the-trouble-with-5g.html
+> https://news.ycombinator.com/item?id=32714765
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
@@ -113,6 +116,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.gov.uk/guidance/skynet-enduring-capability-skec-programme#about-the-skynet-programme
+
 https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/
 > https://news.ycombinator.com/item?id=32411493
 

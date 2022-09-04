@@ -280,6 +280,10 @@ https://github.com/kovisoft/paredit
 > https://news.ycombinator.com/item?id=32288193
 
 # News
+https://news.ycombinator.com/item?id=32691553
+
+https://github.com/simongog/sdsl-lite Succinct data structures
+
 https://rpeszek.github.io/posts/2022-08-30-code-cognitiveload.html
 > https://news.ycombinator.com/item?id=32666506
 
@@ -816,6 +820,7 @@ https://news.ycombinator.com/item?id=29077933 devutils
 > > https://github.com/gchq/CyberChef
 > https://github.com/ludovicianul/dvt
 > https://news.ycombinator.com/item?id=29982286
+> https://news.ycombinator.com/item?id=32699420
 
 http://coconut-lang.org/ functional programming language that compiles to Python
 > https://news.ycombinator.com/item?id=29104961

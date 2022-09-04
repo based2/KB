@@ -1,3 +1,5 @@
+https://sre.google/books/building-secure-reliable-systems/
+
 https://principlesofchaos.org/
 
 https://cloud.google.com/blog/products/devops-sre/sre-at-google-our-complete-list-of-cre-life-lessons

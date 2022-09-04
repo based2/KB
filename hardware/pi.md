@@ -2,13 +2,19 @@ https://www.raspberrypi.org/ Sony
 
 https://www.zdnet.com/article/raspberry-pi-why-they-are-so-hard-to-buy-right-now-and-what-you-can-do-about-it/
 
+https://www.zdnet.com/article/best-raspberry-pi-alternative/
 
+https://www.the-diy-life.com/pi-shortage-are-these-worthwhile-raspberry-pi-alternatives/
+
+https://www.jeffgeerling.com/tags/parts-shortage
 
 https://www.collabora.com/news-and-blog/blog/2022/09/02/using-a-raspberry-pi-as-a-bluetooth-speaker-with-pipewire-wireplumber/
 > https://news.ycombinator.com/item?id=32691597
 
 https://bret.dk/raspberry-pi-zero-vs-mangopi-mq-pro-benchmarks/ risc-v
 > https://news.ycombinator.com/item?id=32298137
+
+https://www.crowpi.cc/collections/crowpi
 
 https://github.com/gusmanb/logicanalyzer
 > https://news.ycombinator.com/item?id=31980989

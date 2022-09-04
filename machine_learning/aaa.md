@@ -218,6 +218,18 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://arxiv.org/abs/2208.07860 A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning
+
+https://onnx.ai/index.html open format built to represent machine learning models
+
+https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html
+
+https://www.nature.com/articles/s41562-022-01383-x Human-centred mechanism design with Democratic AI
+
+https://arxiv.org/pdf/1901.00064.pdf Impossibility and Uncertainty Theorems in AI Value Alignment
+
+https://medicalxpress.com/news/2022-09-machine-undiagnosable-cancers.html
+
 https://arxiv.org/abs/2209.00588 Transformers are Sample Efficient World Models
 
 https://exafunction.com/blog/are-gpus-worth-it

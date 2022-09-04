@@ -54,6 +54,8 @@ https://github.com/wg/wrk
 https://loadjitsu.com/
 > https://news.ycombinator.com/item?id=30025804
 
+https://slack.engineering/continuous-load-testing/
+
 # CDC
 https://martinfowler.com/articles/consumerDrivenContracts.html
 

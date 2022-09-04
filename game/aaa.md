@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://news.ycombinator.com/item?id=32717133
+
 https://signalstate.io/
 > https://news.ycombinator.com/item?id=32609474
 

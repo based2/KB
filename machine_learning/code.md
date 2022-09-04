@@ -53,3 +53,5 @@ https://arxiv.org/abs/2207.14157 A Hazard Analysis Framework for Code Synthesis 
 
 https://github.com/moyix/fauxpilot
 > https://news.ycombinator.com/item?id=32327711
+
+https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/

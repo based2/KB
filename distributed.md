@@ -84,6 +84,9 @@ https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf
 > https://news.ycombinator.com/item?id=28750103
 
 # Database
+https://dbos-project.github.io/blog/intro-blog.html
+> https://news.ycombinator.com/item?id=32705025
+
 https://github.com/gitsrc/IceFireDB
 > https://news.ycombinator.com/item?id=28257243
 
@@ -114,6 +117,8 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
 
 # News
+https://research.protocol.ai/publications/state-machine-replication-scalability-made-simple/
+
 https://github.com/ReubenBond/fast-caspaxos
 
 https://docs.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming

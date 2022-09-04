@@ -72,6 +72,11 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://blog.prusa3d.com/dev-diary-what-it-took-to-bring-wi-fi-support-to-original-prusa-mini_70615/
+
+https://stderr.nl/Blog/Hardware/Thunderbolt/TechnologyOverview.html
+> https://news.ycombinator.com/item?id=32712325
+
 https://www.servethehome.com/intel-enters-a-new-era-of-chiplets-that-will-change-everything-34/
 > https://news.ycombinator.com/item?id=32619824
 

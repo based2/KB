@@ -203,6 +203,8 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://web.stanford.edu/~ouster/cgi-bin/sayings.php
+
 https://www.customers.com/articles/doug-engelbarts-design-knowledge-based-organizationspart-1/
 > https://news.ycombinator.com/item?id=32691051
 

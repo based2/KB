@@ -59,6 +59,18 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.reuters.com/business/environment/exclusive-scientists-detect-second-vast-methane-leak-pemex-oil-field-mexico-2022-09-02/
+
+https://droughtmonitor.unl.edu/
+> https://news.ycombinator.com/item?id=32714644
+
+https://www.ccacoalition.org/en/news/usa-offshore-oil-and-gas-platforms-release-more-methane-previously-estimated
+
+https://www.kiro7.com/news/trending/denver-area-power-company-takes-over-thermostats-thousands-customers/M2MI3M2LGZFEXEI7KLALATWUYU/
+
+https://ieefa.org/resources/carbon-capture-crux-lessons-learned
+> https://news.ycombinator.com/item?id=32677594
+
 https://www.theregister.com/2022/08/29/germany_digital_ad_display_shutdown/
 > https://news.ycombinator.com/item?id=32639641
 

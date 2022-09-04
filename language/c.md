@@ -71,6 +71,11 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://gist.github.com/Earnestly/7c903f481ff9d29a3dd1 C99 List of Undefined Behavior
+
+https://www.acepace.net/integerQuiz/
+> https://news.ycombinator.com/item?id=32712017
+
 https://www.foonathan.net/2022/08/malloc-interface/
 > https://news.ycombinator.com/item?id=32663897
 

@@ -90,6 +90,8 @@ https://100r.co/site/orca.html Esoteric programming language, designed to create
 https://roland50.studio/
 > https://news.ycombinator.com/item?id=30638634
 
+https://github.com/sonic-pi-net/sonic-pi
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084
@@ -155,6 +157,8 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://news.ycombinator.com/item?id=32715980
+
 https://news.ycombinator.com/item?id=32639000 Why 12 notes in Western music?
 
 https://linuxmusicians.com/

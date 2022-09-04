@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://qntm.org/mmacevedo
+> https://news.ycombinator.com/item?id=32696089
+
 https://hubermanlab.com/dr-erich-jarvis-the-neuroscience-of-speech-language-and-music/
 
 https://github.com/HackerBCI

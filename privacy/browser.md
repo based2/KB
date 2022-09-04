@@ -12,6 +12,10 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/
+
+https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/
+
 https://community.blokada.org/t/google-cracks-down-on-vpn-based-adblockers/26110
 > https://news.ycombinator.com/item?id=32636412
 

@@ -60,6 +60,8 @@ https://byteofdev.com/posts/deno/
 https://fresh.deno.dev/
 > https://news.ycombinator.com/item?id=31720110
 
+https://thenewstack.io/denos-fresh-uses-server-side-rendering-for-faster-apps/
+
 https://deno.com/blog/v1.19
 > https://news.ycombinator.com/item?id=30372360
 

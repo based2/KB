@@ -25,6 +25,8 @@ https://berthub.eu/articles/posts/amazing-dna/
 > https://news.ycombinator.com/item?id=29647713
 
 # Machine
+https://www.nature.com/articles/s41586-022-04910-y A DNA origami rotary ratchet motor
+
 https://www.uvm.edu/news/story/team-builds-first-living-robots-can-reproduce
 > https://news.ycombinator.com/item?id=29389871
 
@@ -37,6 +39,9 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.tsungxu.com/performance-biomaterials/
+> https://news.ycombinator.com/item?id=32712015
+
 https://aeon.co/essays/how-xenobots-reshape-our-understanding-of-genetics
 
 https://news.rice.edu/news/2022/rice-models-moving-washers-help-dna-replicate

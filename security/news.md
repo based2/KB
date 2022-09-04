@@ -1,3 +1,34 @@
+https://old.reddit.com/r/GooglePixel/comments/x5ea32/life_and_death_down_to_a_software_glitch/
+> https://news.ycombinator.com/item?id=32713375
+
+https://blog.chainguard.dev/what-your-scanner-doesnt-know-cant-hurt-you/
+> https://www.reddit.com/r/kubernetes/comments/x4spa2/what_your_scanner_doesnt_know_can_hurt_you/
+
+https://openssf.org/oss-security-mobilization-plan/
+
+https://arstechnica.com/information-technology/2022/07/researchers-unpack-unkillable-uefi-rootkit-that-survives-os-reinstalls/ CosmicStrand
+
+https://www.wsj.com/articles/irs-says-it-exposed-some-confidential-taxpayer-data-on-website-11662145232
+> https://news.ycombinator.com/item?id=32705862
+
+https://news.ycombinator.com/item?id=32715624
+
+https://twitter.com/taviso/status/1566077115992133634
+> https://news.ycombinator.com/item?id=32704598
+
+https://rasbora.dev/blog/I-ran-the-worlds-largest-ddos-for-hire-empire-and-cloudflare-helped
+> https://news.ycombinator.com/item?id=32709329
+> https://news.ycombinator.com/item?id=32711475
+
+https://blog.cloudflare.com/kiwifarms-blocked/
+> https://news.ycombinator.com/item?id=32706673
+
+https://jfrog.com/blog/cve-2021-38297-analysis-of-a-go-web-assembly-vulnerability/
+
+https://research.nccgroup.com/2022/09/01/settlers-of-netlink-exploiting-a-limited-uaf-in-nf_tables-cve-2022-32250/
+
+https://news.ycombinator.com/item?id=32700184 Tell HN: The 10-bit timers are about to overflow on September 17th
+
 https://rhinosecuritylabs.com/research/cve-2022-26113-forticlient-arbitrary-file-write-as-system/
 > https://www.reddit.com/r/netsec/comments/x1mt51/cve202226113_forticlient_arbitrary_file_write_as/
 
@@ -21,6 +52,7 @@ https://news.ycombinator.com/item?id=32662385 Ask HN: IT Security Checklist for 
 
 https://www.engadget.com/twilio-authy-data-breach-202314313.html
 > https://news.ycombinator.com/item?id=32622923
+> https://mazinahmed.net/blog/indepth-analysis-twitch-security-tools/
 
 https://xcp-ng.org/blog/2022/08/26/why-xen-wasnt-hit-by-retbleed-on-intel-cpus/
 > https://news.ycombinator.com/item?id=32610536

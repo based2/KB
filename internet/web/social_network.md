@@ -44,6 +44,10 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://arstechnica.com/tech-policy/2022/07/meta-thinks-facebook-may-need-more-harmful-health-misinformation/#p3
+
+https://blog.m5e.de/post/open-source-social-media-management-tools/
+
 https://subreply.com/about
 
 https://news.ycombinator.com/item?id=32296952 LinkedIn is importing job postings it finds online onto company's profiles

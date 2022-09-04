@@ -84,6 +84,11 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://twitter.com/kocienda/status/1566453982393815043 Ken Kocienda: performance of autocorrection algorithm on the original iPhone
+
+https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/
+> https://news.ycombinator.com/item?id=32692012
+
 https://softwareengineering.stackexchange.com/questions/260969/original-source-of-seed-9301-49297-233280-random-algorithm
 > https://news.ycombinator.com/item?id=32368210
 

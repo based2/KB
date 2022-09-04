@@ -41,6 +41,9 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://github.com/hashcat/hashcat/releases/tag/v6.2.6
+> https://hashcat.net/hashcat/
+
 https://tidbits.com/2022/06/27/why-passkeys-will-be-simpler-and-more-secure-than-passwords/
 > https://news.ycombinator.com/item?id=31910704
 

@@ -198,6 +198,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/lapce/lapce rust
+> https://news.ycombinator.com/item?id=32714191
+
 https://helix-editor.com/news/release-22-08-highlights/
 
 https://github.com/Dashibase/lotion

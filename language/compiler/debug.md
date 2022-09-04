@@ -10,6 +10,8 @@ https://pernos.co/blog/structured-identifiers/
 https://pernos.co/blog/function-prologues/
 > https://news.ycombinator.com/item?id=29186698
 
+https://news.ycombinator.com/item?id=32709045
+
 # News
 https://github.com/runsidekick/sidekick
 > https://news.ycombinator.com/item?id=32638346

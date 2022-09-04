@@ -143,6 +143,14 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://gereshes.com/2022/09/04/designing-multiple-missed-thrust-event-resilient-trajectories-using-virtual-swarms/
+
+https://arstechnica.com/science/2022/09/years-after-shuttle-nasa-rediscovers-the-perils-of-liquid-hydrogen/
+> https://news.ycombinator.com/item?id=32711429
+
+https://www.energy.gov/sites/default/files/2021-10/new-lh2-sphere.pdf
+> https://news.ycombinator.com/item?id=32703411
+
 https://arxiv.org/abs/2208.14990 The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems I: High Contrast Imaging of the Exoplanet HIP 65426 b from 2-16 μm
 > https://news.ycombinator.com/item?id=32681366
 

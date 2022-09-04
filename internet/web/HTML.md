@@ -140,6 +140,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://www.etsy.com/codeascraft/priority-hints-what-your-browser-doesnt-know-yet
+> https://web.dev/priority-hints/
+
 https://austinhenley.com/blog/mycomputingstory.html
 > https://news.ycombinator.com/item?id=31925645
 

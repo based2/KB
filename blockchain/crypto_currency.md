@@ -23,6 +23,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://theintercept.com/2022/06/29/crypto-coinbase-tracer-ice/
+
+https://news.ycombinator.com/item?id=32701917
+
 https://forkast.news/headlines/fed-faster-payments-system-by-2023/
 > https://news.ycombinator.com/item?id=32657046
 

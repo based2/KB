@@ -26,3 +26,10 @@ https://blog.openstreetmap.org/2022/06/02/announcement-data-model-study/
 
 https://altilunium.my.id/blog/osm_selfhost/
 > https://news.ycombinator.com/item?id=32646536
+
+http://www.brouter.de/brouter-web/#map=5/50.990/9.860/cyclosm
+> https://news.ycombinator.com/item?id=32698169
+
+https://altilunium.my.id/p/osm_pantau
+
+https://github.com/streetcomplete/StreetComplete/discussions/4264

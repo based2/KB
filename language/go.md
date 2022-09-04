@@ -97,6 +97,8 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://rentafounder.com/word-wrapping-in-go/
+
 https://boyter.org/posts/cost-of-integer-cast-in-go/
 > https://news.ycombinator.com/item?id=32647865
 

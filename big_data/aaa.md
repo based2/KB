@@ -180,6 +180,9 @@ https://graphica.app/
 https://archivve.visualizevalue.com/
 > https://news.ycombinator.com/item?id=32287596
 
+https://brooker.co.za/blog/2022/09/02/ecdf.html
+> https://news.ycombinator.com/item?id=32699078
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
@@ -245,6 +248,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext
+> https://news.ycombinator.com/item?id=32684017
+
 https://tech.marksblogg.com/python-data-visualisation-charts-graphs-plots.html
 > https://news.ycombinator.com/item?id=32664202
 

@@ -85,6 +85,8 @@ https://godotengine.org/article/godot-3-4-is-released
 
 https://www.youtube.com/watch?v=imm3ws0pifw Programming New Road Features for my City-Builder
 
+https://github.com/raysan5/raylib
+
 # Text
 https://if50.substack.com/p/2008-violet
 > https://news.ycombinator.com/item?id=28797079
@@ -97,6 +99,15 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://www.jmeiners.com/pre-rendered-backgrounds/
+> https://news.ycombinator.com/item?id=32695084
+
+https://blog.simutrans.com/?p=2443
+> https://news.ycombinator.com/item?id=32710761
+
+https://wiki.openttd.org/en/Manual/Game%20Mechanics/
+> https://news.ycombinator.com/item?id=32698851
+
 https://austinmorlan.com/posts/entity_component_system/
 
 https://auto-traffic-control.com/

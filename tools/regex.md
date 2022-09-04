@@ -65,6 +65,8 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://www.autoregex.xyz/
+
 https://benhoyt.com/writings/rob-pike-regex/
 > https://news.ycombinator.com/item?id=32434412
 

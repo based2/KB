@@ -99,6 +99,11 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.technologyreview.com/2022/07/15/1056042/chinese-novel-censored-before-shared/
+
+https://www.eff.org/deeplinks/2022/08/fog-revealed-guided-tour-how-cops-can-browse-your-location-data
+> https://news.ycombinator.com/item?id=32696904
+
 https://semiengineering.com/driver-monitoring-raises-complexity-adds-privacy-concerns/
 > https://news.ycombinator.com/item?id=32690409
 

@@ -36,6 +36,8 @@ https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-co
 > https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf The Power of Two Random Choices: A Survey of Techniques and Results
 
 # News
+https://blog.cloudflare.com/load-balancing-with-weighted-pools/
+
 https://arxiv.org/abs/2205.09415 On Efficiently Partitioning a Topic in Apache Kafka
 > https://news.ycombinator.com/item?id=31448988
 

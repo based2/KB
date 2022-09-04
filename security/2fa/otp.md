@@ -19,6 +19,9 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://oneway.tel/
+> https://news.ycombinator.com/item?id=32703694
+
 https://eprint.iacr.org/2020/756 Provable Security Analysis of FIDO2
 
 https://fidoalliance.org/apple-google-and-microsoft-commit-to-expanded-support-for-fido-standard-to-accelerate-availability-of-passwordless-sign-ins/

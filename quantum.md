@@ -79,6 +79,12 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://phys.org/news/2022-07-quantum.html
+
+https://thenewstack.io/quantum-computing-use-cases-how-viable-is-it-really/
+
+https://phys.org/news/2022-07-entanglement-quantum-memories.html
+
 https://www.quantamagazine.org/what-is-quantum-field-theory-and-why-is-it-incomplete-20220810/
 > https://news.ycombinator.com/item?id=32425955
 

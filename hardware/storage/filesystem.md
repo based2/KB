@@ -15,6 +15,9 @@ https://klarasystems.com/articles/understanding-zfs-channel-programs/
 https://klarasystems.com/articles/demystifying-openzfs-2-0/
 > https://news.ycombinator.com/item?id=29264886
 
+https://kimono-koans.github.io/git/
+> https://github.com/kimono-koans/httm Interactive, file-level Time Machine-like tool for ZFS/btrfs
+
 # Distributed
 https://www.lustre.org/
 

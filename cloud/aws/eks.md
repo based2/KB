@@ -51,6 +51,8 @@ https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam
 https://aws-controllers-k8s.github.io/community/docs/community/overview/
 
 #
+https://www.reddit.com/r/aws/comments/x40ryp/eks_how_does_worker_nodes_in_multiple_az/
+
 https://ambar-thecloudgarage.medium.com/eks-anywhere-extending-the-hybrid-cloud-momentum-1c7b82f610e
 
 https://aws.amazon.com/en/blogs/aws/amazon-detective-supports-kubernetes-workloads-on-amazon-eks-for-security-investigations/

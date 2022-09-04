@@ -101,6 +101,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://en.wikipedia.org/wiki/Q_(number_format)
+> https://news.ycombinator.com/item?id=32676303
+
 https://github.com/olamide203/hyoka
 > https://news.ycombinator.com/item?id=32612894
 

@@ -32,6 +32,8 @@ https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-
 https://blog.quarkslab.com/ansible-security-assessment.html
 
 # News
+https://www.jeffgeerling.com/blog/2022/aptkey-deprecated-debianubuntu-how-fix-ansible
+
 https://developers.redhat.com/articles/2022/05/26/whats-new-ansible-automation-platform-22
 
 https://github.com/ansible-community/community-topics/issues/82 Future of the "ansible" package
