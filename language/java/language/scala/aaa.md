@@ -11,6 +11,9 @@ https://zio.dev/
 
 https://akka.io/
 
+https://alexn.org/blog/2022/09/07/akka-is-moving-away-from-open-source/
+> https://news.ycombinator.com/item?id=32754048
+
 https://www.scala-js.org/
 
 https://www.scala-js.org/doc/sjs-for-js/es6-to-scala-part1.html

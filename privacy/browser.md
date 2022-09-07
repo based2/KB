@@ -12,6 +12,12 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://github.com/gorhill/uBlock/commit/a559f5f2715c58fea4de09330cf3d06194ccc897
+> https://news.ycombinator.com/item?id=32754274
+
+https://brave.com/decentralized-websites/
+> https://news.ycombinator.com/item?id=32752853
+
 https://www.ghacks.net/2022/07/17/facebook-has-started-to-encrypt-links-to-counter-privacy-improving-url-stripping/
 
 https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/

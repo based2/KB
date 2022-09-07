@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+http://www.codex99.com/design/28.html Mille bornes
+> https://news.ycombinator.com/item?id=32726081
+
 https://news.ycombinator.com/item?id=32717133
 
 https://signalstate.io/

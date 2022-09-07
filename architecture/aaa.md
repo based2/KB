@@ -226,6 +226,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+http://tomasp.net/blog/2022/timeless-way/
+> https://news.ycombinator.com/item?id=32711349
+
 https://news.ycombinator.com/item?id=32704540 Can anyone recommend event-driven architecture book?
 
 https://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html

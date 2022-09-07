@@ -76,6 +76,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://app.uptrace.dev/overview/1?time_dur=3600&sort_by=system&sort_desc=0
+> https://news.ycombinator.com/item?id=32733620
+
 https://blog.cloudflare.com/log-analytics-using-clickhouse/
 
 https://blog.min.io/minio-elasticsearch-beats-logstash/

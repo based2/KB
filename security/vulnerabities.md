@@ -12,6 +12,9 @@ https://github.com/advisories
 
 https://ossindex.sonatype.org/
 
+https://go.dev/blog/vuln
+> https://news.ycombinator.com/item?id=32737886
+
 https://github.com/nexB/vulnerablecode
 
 https://github.com/opencve/opencve

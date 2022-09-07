@@ -119,6 +119,11 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://kinzler.com/me/align/
+
+https://github.com/simdutf/simdutf
+> https://news.ycombinator.com/item?id=32700315
+
 https://benhoyt.com/writings/count-words/
 > https://news.ycombinator.com/item?id=32214419
 

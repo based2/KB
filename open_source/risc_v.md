@@ -71,6 +71,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem
+> https://news.ycombinator.com/item?id=32740653
+
 https://itnext.io/risc-v-instruction-set-cheatsheet-70961b4bbe8?sk=d6b46ed0e672c6778a31691af1ea4172&gi=aae44b767794
 
 https://www.talospace.com/2022/05/mini-review-clockwork-pi-devterm-r-01.html

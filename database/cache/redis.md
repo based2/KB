@@ -22,4 +22,6 @@ https://ably.com/blog/redis-keys-do-not-expire-atomically
 https://render.com/blog/redis
 > https://news.ycombinator.com/item?id=30779909
 
+https://architecturenotes.co/redis/
+
 https://github.com/redis/redis/releases/tag/7.0-rc1

@@ -258,6 +258,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.i-programmer.info/news/80-java/15701-microsoft-goes-all-out-on-java.html
+> https://news.ycombinator.com/item?id=32726814
+
 https://www.reddit.com/r/java/comments/x54aad/panama_notsoforeign_memory_using_memorysegment_as/
 
 https://www.royvanrijn.com/blog/2010/06/creating-shazam-in-java/

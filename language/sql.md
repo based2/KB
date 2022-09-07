@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://carlineng.com/?postid=malloy-intro#blog
+> https://news.ycombinator.com/item?id=32738874
+
 https://smallthingssql.com/having-a-less-understood-sql-clause cube
 > https://news.ycombinator.com/item?id=32363882
 

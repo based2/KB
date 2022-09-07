@@ -80,6 +80,9 @@ https://github.com/LesterLyu/fast-formula-parser
 https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/
 > https://news.ycombinator.com/item?id=32439934
 
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-new-text-and-array-functions/ba-p/3186066
+> https://news.ycombinator.com/item?id=32742399
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 > https://news.ycombinator.com/item?id=26991887

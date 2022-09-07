@@ -31,3 +31,9 @@ https://github.com/vifm/vifm
 
 https://web.archive.org/web/20180827160401/https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp
 > https://news.ycombinator.com/item?id=32427834
+
+https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html
+> https://news.ycombinator.com/item?id=32747088
+
+https://www.macosxautomation.com/applescript/uiscripting/index.html
+> https://news.ycombinator.com/item?id=32738332

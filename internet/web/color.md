@@ -68,6 +68,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/
+> https://news.ycombinator.com/item?id=32709947
+
 https://discover.lanl.gov/news/0810-color-perception
 > https://news.ycombinator.com/item?id=32419873
 

@@ -25,6 +25,12 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.rechargenews.com/energy-transition/hydrogen-battery-start-up-says-it-has-700m-order-backlog-for-utility-scale-renewables-projects/2-1-1266148
+> https://news.ycombinator.com/item?id=32751132
+
+https://www.nature.com/articles/s41467-022-32652-y Hydrogen production from the air
+> https://news.ycombinator.com/item?id=32746794
+
 https://techxplore.com/news/2022-07-green-hydrogen-biomass-abundant-renewable.html
 
 https://news.ucsc.edu/2022/02/hydrogen-production.html

@@ -1,3 +1,22 @@
+https://nodauf.dev/p/practical-guide-for-golden-saml/
+
+https://www.zerodayinitiative.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution
+
+https://www.bleepingcomputer.com/news/security/hp-fixes-severe-bug-in-pre-installed-support-assistant-tool/
+
+https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-new-zero-day-used-in-attacks/
+
+https://xeiaso.net/talks/rustconf-2022-sheer-terror-pam
+> https://news.ycombinator.com/item?id=32727242
+
+https://www.forbes.com/sites/daveywinder/2022/08/25/lastpass-hacked-password-manager-with-25-million-users-confirms-breach/?sh=11f05c2e7d5a
+
+https://ibex.tech/resources/geek-area/electronics/switches-electronics/tamper-detect-circuit
+> https://news.ycombinator.com/item?id=32711371
+
+https://twitter.com/GossiTheDog/status/1566728231893573634
+> https://news.ycombinator.com/item?id=32722950
+
 https://old.reddit.com/r/GooglePixel/comments/x5ea32/life_and_death_down_to_a_software_glitch/
 > https://news.ycombinator.com/item?id=32713375
 
@@ -42,6 +61,7 @@ https://eclecticlight.co/2022/08/30/macos-now-scans-for-malware-whenever-it-gets
 
 https://www.samsung.com/us/support/securityresponsecenter/
 > https://news.ycombinator.com/item?id=32693134
+> https://thecrow.uk/in-wake-of-epic-data-breach-samsung-forcing-users-to-accept-new-terms-or-risk-their-data/
 
 https://www.bleepingcomputer.com/news/security/chrome-extensions-with-14-million-installs-steal-browsing-data/
 

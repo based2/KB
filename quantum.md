@@ -79,6 +79,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.ycombinator.com/item?id=32722374
+
 https://phys.org/news/2022-07-quantum.html
 
 https://thenewstack.io/quantum-computing-use-cases-how-viable-is-it-really/

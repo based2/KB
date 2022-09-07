@@ -254,6 +254,8 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://kristiandupont.github.io/kanel/
+
 https://www.postgresql.org/docs/current/plpython.html
 
 https://www.percona.com/blog/postgresql-15-stats-collector-gone-whats-new/

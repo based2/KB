@@ -103,6 +103,17 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://perl.plover.com/yak/presentation/
+> https://news.ycombinator.com/item?id=32735066
+
+https://austingil.com/html-capture-attribute/
+> https://news.ycombinator.com/item?id=32738501
+
+https://projectobs.com/en/news/obs-studio-28-0/
+
+https://community.spotify.com/t5/Spotify-for-Developers/Please-continue-supporting-iOS-Android-streaming-SDKs/td-p/5416477
+> https://news.ycombinator.com/item?id=32725492
+
 https://filmcolors.org/
 
 https://lwn.net/Articles/904776/ The growing image-processor unpleasantness

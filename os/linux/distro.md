@@ -65,6 +65,8 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://www.zdnet.com/article/linux-vets-unite-behind-ciq-rocky-linuxs-parent-company/
+
 https://lunduke.substack.com/p/tiny-core-linux-130-full-linux-desktop
 
 https://lwn.net/SubscriberLink/906380/ca3031d15f974b74/ Debian to vote on its firmware path

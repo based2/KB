@@ -130,6 +130,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://news.ycombinator.com/item?id=32722240
+
 https://cfenollosa.com/blog/after-self-hosting-my-email-for-twenty-three-years-i-have-thrown-in-the-towel-the-oligopoly-has-won.html
 > https://news.ycombinator.com/item?id=32715437
 

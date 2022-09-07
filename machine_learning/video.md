@@ -41,6 +41,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://orbdog.com/
+> https://news.ycombinator.com/item?id=32720924
+
 https://twitter.com/karenxcheng/status/1564635828436885504 Generating Fashion Using AI
 > https://news.ycombinator.com/item?id=32691344
 

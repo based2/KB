@@ -92,6 +92,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://www.johndcook.com/blog/2022/09/04/computing-vin-checksums/
+> https://news.ycombinator.com/item?id=32713118
+
 https://nullprogram.com/blog/2022/08/08/ The quick and practical "MSI" hash table
 > https://news.ycombinator.com/item?id=32395256
 

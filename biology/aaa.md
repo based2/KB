@@ -39,6 +39,9 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://healeycodes.com/virtual-ants
+> https://news.ycombinator.com/item?id=32722451
+
 https://www.tsungxu.com/performance-biomaterials/
 > https://news.ycombinator.com/item?id=32712015
 

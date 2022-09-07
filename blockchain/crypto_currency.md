@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://futurism.com/the-byte/crypto-dev-command-company
+> https://news.ycombinator.com/item?id=32753284
+
 https://theintercept.com/2022/06/29/crypto-coinbase-tracer-ice/
 
 https://news.ycombinator.com/item?id=32701917

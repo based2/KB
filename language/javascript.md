@@ -192,6 +192,9 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://github.com/preactjs/signals
+> https://news.ycombinator.com/item?id=32743078
+
 https://www.joshwcomeau.com/react/usememo-and-usecallback/
 > https://news.ycombinator.com/item?id=32652627
 

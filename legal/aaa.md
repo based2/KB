@@ -57,6 +57,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://github.com/LibraryOfCongress/api.congress.gov
+> https://news.ycombinator.com/item?id=32743880
+
 https://www.lexology.com/library/detail.aspx?g=1ae8c0a9-660b-45b7-9ef6-030f387d6e29 Korean Supreme Court Provides Clarity on Web Scraping and Violation of the Relevant Korean Laws, including the Copyright Act and Information Protection Act (Supreme Court, 2021Do1533, May 12, 2022)
 > https://news.ycombinator.com/item?id=32440850
 

@@ -231,6 +231,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://pythoninsider.blogspot.com/2022/09/python-releases-3107-3914-3814-and-3714.html
+> https://news.ycombinator.com/item?id=32753235
+
 https://lwn.net/SubscriberLink/904197/9f5cc13b3c352127/ Adding auditing to pip
 
 https://mathspp.com/blog/how-to-create-a-python-package-in-2022

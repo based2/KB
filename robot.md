@@ -27,6 +27,9 @@ https://github.com/KumarRobotics/kr_autonomous_flight
 https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/
 > https://news.ycombinator.com/item?id=32657112
 
+https://www.robotshop.com/community/robots/show/how-to-make-the-least-expensive-drone-airplane
+> https://news.ycombinator.com/item?id=32710275
+
 # Water
 https://www.darpa.mil/news-events/2021-12-20
 

@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://fly.io/blog/sqlite-virtual-machine/
+> https://news.ycombinator.com/item?id=32750676
+
 https://codesandbox.io/post/how-we-clone-a-running-vm-in-2-seconds
 > https://news.ycombinator.com/item?id=32683834
 

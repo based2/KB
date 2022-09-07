@@ -83,6 +83,9 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://blog.phronemophobic.com/dewey-analysis.html
+> https://news.ycombinator.com/item?id=32742897
+
 https://www.juxt.pro/blog/repl-driven-minecraft
 > https://news.ycombinator.com/item?id=32650626
 

@@ -26,6 +26,9 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/
+> https://news.ycombinator.com/item?id=32746258
+
 https://news.ycombinator.com/item?id=31837307 Show HN: Data Diff – compare tables of any size across databases
 
 https://news.ycombinator.com/item?id=31670886 DiffLens: Language Aware Diffs on GitHub Pull Requests

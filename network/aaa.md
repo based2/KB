@@ -114,6 +114,11 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/
+>
+
+https://www.usenix.org/system/files/nsdi20-paper-lou.pdf artial Failures in Large System Software Chang Lou, Peng Huang, and Scott Smith, Johns Hopkin
+
 https://zmarshall.nl/static/eink-vnc.html
 > https://news.ycombinator.com/item?id=32449857
 

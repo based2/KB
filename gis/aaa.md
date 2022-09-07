@@ -201,6 +201,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://findenergy.com/optimizing-polygon-intersections-with-subdivide/
+> https://news.ycombinator.com/item?id=32722691
+
 https://chollinger.com/blog/2022/08/tiny-telematics-tracking-my-trucks-location-offline-with-a-raspberry-pi-redis-kafka-and-flink/
 > https://news.ycombinator.com/item?id=32654448
 

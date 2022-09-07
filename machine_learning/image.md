@@ -143,6 +143,14 @@ https://dagshub.com/blog/yolov6/#
 > https://news.ycombinator.com/item?id=31917626
 
 #
+https://huggingface.co/spaces/Xintao/GFPGAN
+
+https://www.drawanything.app/
+> https://news.ycombinator.com/item?id=32726679
+
+https://sciprogramming.com/community/index.php?topic=2081.0
+> https://news.ycombinator.com/item?id=32726774
+
 https://clipasso.github.io/clipasso/ image2sketch
 
 https://twitter.com/xkcd/status/1552281410869907456

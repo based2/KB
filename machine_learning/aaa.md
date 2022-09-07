@@ -218,6 +218,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/karpathy/minGPT
+> https://news.ycombinator.com/item?id=32736044
+
+https://github.com/neonsecret/stable-diffusion-webui
+
 https://arxiv.org/abs/2208.07860 A Walk in the Park: Learning to Walk in 20 Minutes With Model-Free Reinforcement Learning
 
 https://onnx.ai/index.html open format built to represent machine learning models

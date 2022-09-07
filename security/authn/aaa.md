@@ -64,6 +64,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://blog.lambda.cx/posts/how-bsd-authentication-works/
+
 https://docs.twingate.com/docs/architecture-overview
 > https://news.ycombinator.com/item?id=32415374
 

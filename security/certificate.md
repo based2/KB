@@ -38,6 +38,9 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # News
+https://letsencrypt.org/2022/09/07/new-life-for-crls.html
+> https://news.ycombinator.com/item?id=32754016
+
 https://blog.wescale.fr/quand-vos-certificats-tls-vous-trahissent/
 > https://crt.sh/
 > https://github.com/google/certificate-transparency

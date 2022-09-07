@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/
+> https://news.ycombinator.com/item?id=32740396
+
 https://twitter.com/gabrielesvelto/status/1558083461059153920 I modified Firefox's memory allocator to improve responsiveness on MacOS
 > https://news.ycombinator.com/item?id=32442842
 

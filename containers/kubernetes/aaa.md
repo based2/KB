@@ -64,6 +64,12 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://nostarch.com/book-kubernetes
+> https://news.ycombinator.com/item?id=32742010
+
+https://driftingin.space/posts/complexity-kubernetes
+> https://news.ycombinator.com/item?id=32728543
+
 https://kubevela.io/blog/2022/08/17/helm-rollout
 
 https://itnext.io/stateful-workloads-in-kubernetes-e49b56a5959

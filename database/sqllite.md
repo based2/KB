@@ -98,6 +98,11 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/releaselog/3_39_3.html
+> https://news.ycombinator.com/item?id=32724337
+
+https://ricardoanderegg.com/posts/extending-sqlite-with-rust/
+
 https://vldb.org/pvldb/volumes/15/paper/SQLite%3A%20Past%2C%20Present%2C%20and%20Future
 > https://news.ycombinator.com/item?id=32675861
 

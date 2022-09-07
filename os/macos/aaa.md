@@ -117,6 +117,11 @@ https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-perfor
 > https://news.ycombinator.com/item?id=31643610
 
 # M1
+https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx
+
+https://github.com/corsix/amx
+> https://news.ycombinator.com/item?id=32722510
+
 https://amarioguy.github.io/m1windowsproject/
 > https://news.ycombinator.com/item?id=31657591
 

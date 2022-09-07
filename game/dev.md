@@ -99,6 +99,12 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 https://github.com/dandrino/terrain-erosion-3-ways
 
 # News
+https://madebyoll.in/posts/game_emulation_via_dnn/
+> 
+
+https://www.shadowboxtraining.com/news/2022/04/29/film-at-eleven/
+> https://news.ycombinator.com/item?id=32712506
+
 https://www.jmeiners.com/pre-rendered-backgrounds/
 > https://news.ycombinator.com/item?id=32695084
 

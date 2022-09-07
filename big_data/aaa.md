@@ -113,6 +113,8 @@ https://generallyintelligent.ai/open-source/2021-10-14-jupyter-ascending/
 https://news.ycombinator.com/item?id=30007523 Show HN: Mercury – Publish Jupyter Notebook as web app by adding YAML header
 > https://github.com/voila-dashboards/voila
 
+https://github.com/agermanidis/pigeon Quickly annotate data from the comfort of your Jupyter notebook
+
 ##
 http://zeppelin.apache.org/
 
@@ -248,6 +250,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html
+> https://news.ycombinator.com/item?id=32711082
+
+https://datarabbit.com/#/welcome/down%20the%20hole%20we%20go
+> https://news.ycombinator.com/item?id=32723570
+
 https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext
 > https://news.ycombinator.com/item?id=32684017
 

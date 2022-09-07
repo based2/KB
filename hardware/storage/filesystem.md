@@ -28,6 +28,12 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://www.segger.com/products/file-system/emfile/bigfat/
+> https://news.ycombinator.com/item?id=32749107
+
+https://www.fuse-t.org/ Userspace FUSE for macOS
+> https://news.ycombinator.com/item?id=32726166
+
 https://www.micahlerner.com/2020/03/22/understanding-googles-file-system.html
 
 https://glovesoff.substack.com/p/samba-on-linux-the-easy-way

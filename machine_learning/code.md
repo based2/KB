@@ -25,6 +25,12 @@ https://copilot.github.com/
     https://github.com/github/copilot-docs/tree/main/docs
     > https://news.ycombinator.com/item?id=29016506
 
+https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
+> https://news.ycombinator.com/item?id=32753213
+
+https://gretel.ai/blog/generate-synthetic-data-in-3-lines-of-code
+> https://news.ycombinator.com/item?id=32752505
+
 https://news.ycombinator.com/item?id=30695509
 
 https://www.deepmind.com/blog/competitive-programming-with-alphacode

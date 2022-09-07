@@ -116,6 +116,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://sec.report/Document/0001366868-22-000059/
+> https://news.ycombinator.com/item?id=32754963
+
 https://www.gov.uk/guidance/skynet-enduring-capability-skec-programme#about-the-skynet-programme
 
 https://arstechnica.com/tech-policy/2022/08/man-who-built-isp-instead-of-paying-comcast-50k-expands-to-hundreds-of-homes/

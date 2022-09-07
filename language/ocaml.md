@@ -22,6 +22,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://blog.janestreet.com/what-the-interns-have-wrought-2022/
+> https://news.ycombinator.com/item?id=32749219
+
 https://batsov.com/articles/2022/08/29/ocaml-at-first-glance/
 > https://news.ycombinator.com/item?id=32636682
 

@@ -72,6 +72,12 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/
+> https://news.ycombinator.com/item?id=32704526
+
+http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+> https://news.ycombinator.com/item?id=32711772
+
 https://blog.prusa3d.com/dev-diary-what-it-took-to-bring-wi-fi-support-to-original-prusa-mini_70615/
 
 https://stderr.nl/Blog/Hardware/Thunderbolt/TechnologyOverview.html

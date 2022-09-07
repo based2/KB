@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.magnotherm.com/technology/
+>
+
 https://norwegianscitechnews.com/2022/05/suddenly-everyone-wants-super-hot-heat-pumps/
 > https://news.ycombinator.com/item?id=32712140
 
