@@ -27,5 +27,7 @@ https://macwright.com/2020/08/22/clean-starts-for-the-web.html
 https://stratechery.com/2022/thin-platforms/
 > https://news.ycombinator.com/item?id=31571566
 
+https://news.ycombinator.com/item?id=32763595
+
 
 

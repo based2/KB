@@ -97,6 +97,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://go.dev/blog/survey2022-q2-results
+> https://news.ycombinator.com/item?id=32767287
+
 https://eli.thegreenplace.net/2022/parent-links-in-go-asts/
 
 https://rentafounder.com/word-wrapping-in-go/

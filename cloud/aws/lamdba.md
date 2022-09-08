@@ -70,6 +70,8 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
 # News
+https://aws.amazon.com/en/blogs/compute/introducing-new-intrinsic-functions-for-aws-step-functions/
+
 https://theburningmonk.com/2022/07/the-best-ways-to-save-money-on-lambda/
 
 https://aws.amazon.com/en/blogs/compute/introducing-tiered-pricing-for-aws-lambda/

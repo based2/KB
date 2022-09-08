@@ -30,3 +30,6 @@ https://www.marpledata.com/
 
 https://github.com/brendanartley/Regressio A python library for univariate regression, interpolation, and smoothing
 > https://news.ycombinator.com/item?id=32645063
+
+https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series
+> https://news.ycombinator.com/item?id=32768005

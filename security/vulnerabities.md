@@ -14,6 +14,7 @@ https://ossindex.sonatype.org/
 
 https://go.dev/blog/vuln
 > https://news.ycombinator.com/item?id=32737886
+> https://www.theregister.com/2022/09/06/go_govulncheck_vulnerability_tool/
 
 https://github.com/nexB/vulnerablecode
 

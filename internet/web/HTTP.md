@@ -82,6 +82,9 @@ https://trunc.org/learning/everything-you-dont-need-to-know-about-nginx-error-lo
 https://caddyserver.com/
 > https://news.ycombinator.com/item?id=29378030
 
+https://github.com/caddyserver/caddy/pull/4707 caddyhttp: Enable HTTP/3 by default
+> https://news.ycombinator.com/item?id=32768454
+
 https://www.hiawatha-webserver.org/about
 > https://news.ycombinator.com/item?id=28727922
 

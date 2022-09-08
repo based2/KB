@@ -218,6 +218,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://mlcommons.org/en/news/mlperf-inference-v21/
+
+https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html
+> https://news.ycombinator.com/item?id=32747548
+
 https://github.com/karpathy/minGPT
 > https://news.ycombinator.com/item?id=32736044
 

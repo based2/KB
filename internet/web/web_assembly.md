@@ -76,6 +76,10 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://devclass.com/2022/09/08/assemblyscript-project-wasi-damages-open-standards-and-the-web/
+> https://news.ycombinator.com/item?id=32562230#32564105
+> https://www.assemblyscript.org/
+
 https://thenewstack.io/whats-next-in-webassembly/
 
 https://github.com/titzer/virgil

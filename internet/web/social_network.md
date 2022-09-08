@@ -27,8 +27,14 @@ https://news.ycombinator.com/item?id=31693314 Show HN: Analyzing top HN posts wi
 
 https://news.ycombinator.com/item?id=31879820
 
+https://www.modernhn.com/
+> https://news.ycombinator.com/item?id=32768590
+
 # Slashdot
 # Reddit
+
+https://looria.com/reddit/overview
+> https://news.ycombinator.com/item?id=32764495
 
 # FB
 https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-11631541353

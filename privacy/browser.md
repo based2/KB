@@ -12,6 +12,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.mntd.fr/adtech/exclu-minted--orange--bouygues-et-sfr-testent-un-id-publicitaire-commun-en-france-755566
+> 
+
 https://github.com/gorhill/uBlock/commit/a559f5f2715c58fea4de09330cf3d06194ccc897
 > https://news.ycombinator.com/item?id=32754274
 

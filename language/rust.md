@@ -392,8 +392,11 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.burntsushi.net/bstr/
+> https://news.ycombinator.com/item?id=32762345
+
 https://maikklein.github.io/unreal-rust-1/
-> 
+> https://news.ycombinator.com/item?id=32717388
 
 https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/
 > https://news.ycombinator.com/item?id=32638667

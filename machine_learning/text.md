@@ -17,3 +17,5 @@ https://matthewbilyeu.com/blog/2022-09-01/responding-to-recruiter-emails-with-gp
 > https://news.ycombinator.com/item?id=32685214
 
 https://bigscience.huggingface.co/blog/bloom
+
+https://ojs.aaai.org/index.php/AAAI/article/view/21443 Embeddings via Causal Inference: Gender Bias Reducing and Semantic Information Preserving

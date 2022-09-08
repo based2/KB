@@ -68,6 +68,8 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://sookocheff.com/post/databases/write-ahead-logging/
+
 https://planetscale.com/blog/gated-deployments-addressing-the-complexity-of-schema-deployments-at-scale
 > https://news.ycombinator.com/item?id=32739672
 

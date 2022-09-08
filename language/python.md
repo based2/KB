@@ -231,6 +231,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/pyrustic/shared
+> https://news.ycombinator.com/item?id=32765685
+
+https://docs.taichi-lang.org/blog/accelerate-python-code-100x
+> https://news.ycombinator.com/item?id=32767338
+
 https://pythoninsider.blogspot.com/2022/09/python-releases-3107-3914-3814-and-3714.html
 > https://news.ycombinator.com/item?id=32753235
 

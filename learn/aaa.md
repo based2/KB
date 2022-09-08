@@ -105,6 +105,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349
+> https://news.ycombinator.com/item?id=32749633
+
 https://artofmemory.com/wiki/How_to_Build_a_Memory_Palace/
 
 https://harvard-iacs.github.io/2019-CS109A/pages/materials.html

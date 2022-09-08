@@ -430,6 +430,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://jott.live/markdown/accelerate_python
+
 https://github.com/vitmalina/w2ui
 > https://news.ycombinator.com/item?id=32714138
 

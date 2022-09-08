@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://airwaysmag.com/rolls-royce-boom-supersonic/
+> https://news.ycombinator.com/item?id=32768166
+
 https://www.aopa.org/news-and-media/all-news/2022/september/01/closer-to-an-unleaded-future
 > https://news.ycombinator.com/item?id=32682990
 

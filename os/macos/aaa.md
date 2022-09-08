@@ -254,6 +254,8 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://browser.geekbench.com/v5/cpu/17124579 Apple A16 Geekbench
+
 https://twitter.com/nikitonsky/status/1557357661171204098 Weird stuff found in redesigned macOS Ventura System Settings app
 > https://news.ycombinator.com/item?id=32445737
 

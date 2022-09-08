@@ -133,6 +133,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://docs.kernel.org/networking/tls.html
+
 https://daniel.haxx.se/blog/2022/09/02/curls-tls-fingerprint/
 > https://news.ycombinator.com/item?id=32690400
 

@@ -65,6 +65,8 @@ https://aws.amazon.com/en/blogs/aws/new-aws-private-5g-build-your-own-private-mo
 https://backreaction.blogspot.com/2022/09/the-trouble-with-5g.html
 > https://news.ycombinator.com/item?id=32714765
 
+https://www.theregister.com/2022/09/08/ntt_docomo_5g/
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html

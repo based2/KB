@@ -26,6 +26,8 @@ https://blog.ometer.com/2011/07/24/callbacks-synchronous-and-asynchronous/
 
 https://dmitrykakurin.medium.com/concurrency-in-go-pony-erlang-elixir-and-rust-35a4eb4bb48f
 
+https://jeremydmiller.com/2022/09/06/developing-error-handling-strategies-for-asynchronous-messaging/
+
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815

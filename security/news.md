@@ -1,3 +1,10 @@
+https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html
+> 
+
+https://gist.github.com/moyix/46b7d7fdb9e100dad866821793b08058 The ffast and the Furious
+
+https://therealunicornsecurity.github.io/OSCP/
+
 https://nodauf.dev/p/practical-guide-for-golden-saml/
 
 https://www.zerodayinitiative.com/blog/2022/8/31/cve-2022-34715-more-microsoft-windows-nfs-v4-remote-code-execution
