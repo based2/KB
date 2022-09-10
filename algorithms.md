@@ -84,6 +84,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://web.stanford.edu/class/cs168/index.html CS 168: The Modern Algorithmic Toolbox, Spring 2022
+> https://news.ycombinator.com/item?id=32788475
+
 https://twitter.com/kocienda/status/1566453982393815043 Ken Kocienda: performance of autocorrection algorithm on the original iPhone
 
 https://vikramoberoi.com/a-primer-on-roaring-bitmaps-what-they-are-and-how-they-work/

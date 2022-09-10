@@ -121,6 +121,9 @@ https://neverworkintheory.org/2022/03/18/python-3-types-in-the-wild.html
 https://typeguard.readthedocs.io/en/latest/index.html
 > https://news.ycombinator.com/item?id=32261077
 
+https://arxiv.org/abs/2208.14755 Python Type Hints are Turing Complete
+> https://news.ycombinator.com/item?id=32779296
+
 # Security
 https://pypi.org/project/pip-audit/
 

@@ -35,3 +35,5 @@ https://news.ycombinator.com/item?id=31069465 Development of GPS Receiver Kalman
 
 https://berthub.eu/articles/posts/improved-galileo-fix-time/
 > https://news.ycombinator.com/item?id=32750210
+
+https://en.wikipedia.org/wiki/GPS_Block_III

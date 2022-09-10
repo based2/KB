@@ -70,6 +70,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://wiki.documentfoundation.org/ReleaseNotes/7.4
+> https://linuxfr.org/news/libreoffice-7-4-un-maitre-numero-de-version
+
 https://discourse.ubuntu.com/t/why-ubuntu-22-04-is-so-fast-and-how-to-make-it-faster/30369
 > https://news.ycombinator.com/item?id=32693688
 

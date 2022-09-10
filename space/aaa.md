@@ -143,6 +143,10 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.iac.es/en/outreach/news/study-shows-water-worlds-could-be-common-earths
+
+https://www.science.org/doi/10.1126/science.abl7164 Density, not radius, separates rocky and water-rich small planets orbiting M dwarf stars
+
 https://gereshes.com/2022/09/04/designing-multiple-missed-thrust-event-resilient-trajectories-using-virtual-swarms/
 
 https://arstechnica.com/science/2022/09/years-after-shuttle-nasa-rediscovers-the-perils-of-liquid-hydrogen/

@@ -66,6 +66,8 @@ https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf817
 https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-accounts-using-akeyless-vault-platform/
 
 # News
+https://thenewstack.io/introducing-open-source-zero-trust-to-kubernetes/
+
 https://github.com/madhuakula/kubernetes-goat
 
 https://github.com/google/gke-policy-automation

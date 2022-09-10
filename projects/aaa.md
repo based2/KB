@@ -146,6 +146,12 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://workplace.stackexchange.com/questions/187269/how-should-we-handle-an-over-productive-employee
+> https://news.ycombinator.com/item?id=32778899
+
+https://people.cs.ksu.edu/~schmidt/soap.txt
+> https://news.ycombinator.com/item?id=32778980
+
 https://topagree.com/
 > https://news.ycombinator.com/item?id=32768064
 

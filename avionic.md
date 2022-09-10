@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://retool.com/blog/air-travel-software/
+> https://news.ycombinator.com/item?id=32777409
+
 https://airwaysmag.com/rolls-royce-boom-supersonic/
 > https://news.ycombinator.com/item?id=32768166
 

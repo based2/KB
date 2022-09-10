@@ -43,3 +43,6 @@ https://gitjournal.io/
 
 https://leancrew.com/all-this/2022/09/my-contribution-to-markdown/
 > https://news.ycombinator.com/item?id=32692806
+
+https://hacks.mozilla.org/2022/09/the-100-percent-markdown-expedition/
+> https://www.reddit.com/r/programming/comments/x965ec/the_100_markdown_expedition/

@@ -199,6 +199,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://csswizardry.com/2022/09/critical-css-not-so-fast/
+> https://news.ycombinator.com/item?id=32777886
+
 https://tholman.com/cursor-effects/
 > https://news.ycombinator.com/item?id=32640733
 

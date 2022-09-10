@@ -37,3 +37,5 @@ https://vvvvalvalval.github.io/posts/what-makes-a-good-repl.html
 
 https://www.macosxautomation.com/applescript/uiscripting/index.html
 > https://news.ycombinator.com/item?id=32738332
+
+https://news.ycombinator.com/item?id=32774646

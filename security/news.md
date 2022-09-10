@@ -1,3 +1,15 @@
+https://vigilance.fr/vulnerabilite/Docker-Engine-Moby-elevation-de-privileges-via-Supplementary-Group-39228
+
+https://thenewstack.io/the-different-token-types-and-formats-explained/
+
+https://security.googleblog.com/2022/09/fuzzing-beyond-memory-corruption.html
+
+https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7
+> https://www.reddit.com/r/netsec/comments/xa4wcr/gifshell_covert_attack_chain_and_c2_utilizing/
+
+https://berthub.eu/articles/posts/resignation-as-intelligence-regulator/
+> https://news.ycombinator.com/item?id=32787657
+
 https://blog.quarkslab.com/defeating-ebpf-uprobe-monitoring.html
 > 
 

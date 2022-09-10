@@ -37,6 +37,12 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://maskray.me/blog/2022-09-09-zstd-compressed-debug-sections
+> https://news.ycombinator.com/item?id=32788343
+
+https://tools.paulcalvano.com/compression.php Gzip and Brotli Compression Level Estimator
+> https://news.ycombinator.com/item?id=32785933
+
 https://xiph.org/flac/documentation_format_overview.html
 > https://news.ycombinator.com/item?id=32727829
 

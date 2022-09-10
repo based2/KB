@@ -81,6 +81,9 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/
+> https://www.reddit.com/r/programming/comments/xafqnz/scala_isnt_fun_anymore/
+
 https://github.com/wiringbits/scala-js-games
 > https://news.ycombinator.com/item?id=31885272
 

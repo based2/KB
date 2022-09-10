@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.quantamagazine.org/a-good-memory-or-a-bad-one-one-brain-molecule-decides-20220907/
+> https://news.ycombinator.com/item?id=32763732
+
 https://qntm.org/mmacevedo
 > https://news.ycombinator.com/item?id=32696089
 

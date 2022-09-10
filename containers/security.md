@@ -17,6 +17,8 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://www.cyberark.com/resources/threat-research-blog/understanding-windows-containers-communication
+
 https://www.graplsecurity.com/post/attacking-firecracker
 > https://news.ycombinator.com/item?id=32767784
 

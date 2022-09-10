@@ -105,6 +105,12 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.adham-omran.com/2022/09/10/Reflections-On-A-Year-of-Anki-Knowledge-Management-Emacs-and-More.html
+> https://news.ycombinator.com/item?id=32789763
+
+https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/
+> https://news.ycombinator.com/item?id=32783730
+
 https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349
 > https://news.ycombinator.com/item?id=32749633
 

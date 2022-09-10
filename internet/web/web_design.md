@@ -77,6 +77,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://www.nngroup.com/articles/infinite-scrolling-tips/
+> https://news.ycombinator.com/item?id=32789617
+
 https://user-interface.io/why-you-probably-shouldnt-put-forms-in-modals/
 > https://news.ycombinator.com/item?id=32358745
 

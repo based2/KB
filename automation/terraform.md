@@ -101,6 +101,13 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://github.com/magodo/tfadd Generate valid Terraform configuration from state
+
+https://medium.com/adevinta-tech-blog/deprecating-aws-cloudformation-stacks-towards-terraform-105b85e79780
+
+https://siebjee.nl/posts/terraform-states-one-or-many/
+> https://www.reddit.com/r/Terraform/comments/x69kxg/terraform_states_one_or_many/
+
 https://itnext.io/beware-of-depends-on-for-modules-it-might-bite-you-da4741caac70
 
 https://betterprogramming.pub/design-by-contracts-in-terraform-63467a749c1a

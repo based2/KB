@@ -50,6 +50,10 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://newpipe.net/
+> https://github.com/TeamNewPipe/NewPipe/
+> https://linuxfr.org/news/newpipe-une-autre-maniere-de-lire-des-videos-sur-son-telephone
+
 https://arstechnica.com/tech-policy/2022/07/meta-thinks-facebook-may-need-more-harmful-health-misinformation/#p3
 
 https://blog.m5e.de/post/open-source-social-media-management-tools/

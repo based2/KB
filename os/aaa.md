@@ -21,6 +21,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://www.usenix.org/publications/loginonline/transcending-posix-end-era
+> https://news.ycombinator.com/item?id=32789171
+
 https://blog.tsr-podcast.com/index.php/2021/05/13/episode-76-oberon-plan-9-inferno/
 > https://news.ycombinator.com/item?id=32711194
 

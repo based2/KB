@@ -8,6 +8,8 @@ https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 https://nvd.nist.gov/vuln
 
+https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+
 https://github.com/advisories
 
 https://ossindex.sonatype.org/

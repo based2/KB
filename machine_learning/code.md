@@ -63,3 +63,6 @@ https://github.com/moyix/fauxpilot
 https://simonwillison.net/2022/Jul/9/gpt-3-explain-code/
 
 https://arxiv.org/abs/2209.02752 Specification-Guided Component-Based Synthesis from Effectful Libraries
+
+https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf Stratified Synthesis: Automatically Learning the x86-64 Instruction Set
+> https://news.ycombinator.com/item?id=32787547

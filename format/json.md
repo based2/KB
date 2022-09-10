@@ -70,6 +70,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://jsonhero.io/
+> https://news.ycombinator.com/item?id=32783294
+
 https://github.com/supabase/pg_jsonschema
 > https://news.ycombinator.com/item?id=32179856
 

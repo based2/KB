@@ -189,6 +189,8 @@ https://ghuntley.com/fracture/
 https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022
 > https://news.ycombinator.com/item?id=30103421
 
+https://alhassy.com/making-vscode-itself-a-java-repl?x-host=www.alhassy.com
+
 # Notes
 https://www.tatatap.com/
 > https://news.ycombinator.com/item?id=29663233

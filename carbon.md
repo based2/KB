@@ -59,6 +59,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00347-2 CO2-free high-purity ethylene from electroreduction of CO2 with 4% solar-to-ethylene and 10% solar-to-carbon efficiencies
+
 https://www.gu.se/en/news/planting-trees-not-always-an-effective-way-of-binding-carbon-dioxide
 > https://news.ycombinator.com/item?id=32765948
 

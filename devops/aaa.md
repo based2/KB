@@ -561,8 +561,6 @@ https://github.com/yuriizinets/gitlab-secrets
 
 https://news.ycombinator.com/item?id=29891656 GitHub no longer supporting unauthenticated `git://`
 
-https://github.com/ankitpokhrel/jira-cli
-
 https://github.com/mattst88/gmail-gitlab-filtering
 > https://news.ycombinator.com/item?id=29733120
 

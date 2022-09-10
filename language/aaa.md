@@ -279,7 +279,12 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 https://github.com/kovisoft/paredit
 > https://news.ycombinator.com/item?id=32288193
 
+# Book
+https://news.ycombinator.com/item?id=32788281
+
 # News
+https://blog.jetbrains.com/idea/2022/09/java-annotated-monthly-september-2022/
+
 https://drewdevault.com/2022/09/07/Kernel-hacking-with-Hare-part-1.html
 
 https://news.ycombinator.com/item?id=32691553

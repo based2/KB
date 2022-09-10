@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.cyberkendra.com/2022/09/shiba-inu-leaked-their-aws-cloud.html
+
 https://futurism.com/the-byte/crypto-dev-command-company
 > https://news.ycombinator.com/item?id=32753284
 
