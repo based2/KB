@@ -37,3 +37,10 @@ https://berthub.eu/articles/posts/improved-galileo-fix-time/
 > https://news.ycombinator.com/item?id=32750210
 
 https://en.wikipedia.org/wiki/GPS_Block_III
+
+https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it/
+
+https://www.uber.com/en-SE/blog/rethinking-gps/
+> https://news.ycombinator.com/item?id=32795169
+
+https://www.reuters.com/world/us/pentagon-warns-gps-interference-ligado-broadband-network-2022-09-09/

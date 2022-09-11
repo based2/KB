@@ -31,3 +31,6 @@ https://learnui.design/tools/typography-tutorial.html#
 
 https://www.warp.dev/blog/adventures-text-rendering-kerning-glyph-atlases
 > https://news.ycombinator.com/item?id=32251909
+
+https://brailleinstitute.org/freefont Atkinson Hyperlegible Font
+> https://news.ycombinator.com/item?id=32799872

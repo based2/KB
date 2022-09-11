@@ -40,6 +40,11 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.science.org/doi/10.1126/science.abo4220 Modulating brain function with microbiota
+> https://news.ycombinator.com/item?id=32796191
+
+https://www.inverse.com/science/science-distracted-thinking
+
 https://www.quantamagazine.org/a-good-memory-or-a-bad-one-one-brain-molecule-decides-20220907/
 > https://news.ycombinator.com/item?id=32763732
 

@@ -35,6 +35,9 @@ https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 
 #
+https://github.com/meienberger/runtipi
+> https://news.ycombinator.com/item?id=32775339
+
 https://forum.yunohost.org/t/yunohost-11-0-bullseye-release-sortie-de-yunohost-11-0-bullseye/20590
 > https://linuxfr.org/news/sortie-de-yunohost-11-0-bullseye
 

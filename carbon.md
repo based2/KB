@@ -59,6 +59,19 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://phys.org/news/2022-09-breakthrough-discovery-carbon-capture-conversion.html
+
+https://worldsensorium.com/how-to-bury-carbon-let-plants-do-the-dirty-work/
+> https://news.ycombinator.com/item?id=32794424
+
+https://www.youtube.com/watch?v=Wp-WiNXH6hI Carl Sagan testifying before Congress in 1985 on climate change
+
+https://www.wired.com/story/as-the-planet-warms-canada-faces-an-influx-of-climate-refugees/
+> https://news.ycombinator.com/item?id=32792410
+
+https://www.noemamag.com/we-need-to-talk-about-the-carbon-footprints-of-the-rich/
+> https://news.ycombinator.com/item?id=32793003
+
 https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(22)00347-2 CO2-free high-purity ethylene from electroreduction of CO2 with 4% solar-to-ethylene and 10% solar-to-carbon efficiencies
 
 https://www.gu.se/en/news/planting-trees-not-always-an-effective-way-of-binding-carbon-dioxide

@@ -106,6 +106,9 @@ https://aleph.se/andart2/math/the-cursed-d65536/
 https://www.valerionappi.it/brng-en/
 > https://news.ycombinator.com/item?id=31680466
 
+https://www.expunctis.com/2019/03/07/Not-so-random.html
+> https://news.ycombinator.com/item?id=32797830
+
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 
@@ -129,6 +132,8 @@ https://fidoalliance.org/
 https://developer.apple.com/documentation/authenticationservices/public-private_key_authentication/supporting_passkeys
 > https://news.ycombinator.com/item?id=31643917
 > > https://arstechnica.com/gadgets/2022/05/apple-google-and-microsoft-want-bluetooth-proximity-to-replace-the-password/
+
+https://developer.apple.com/videos/play/wwdc2022/10092/ passkeys
 
 https://download.vusec.net/papers/constantine_ccs21.pdf
 > https://news.ycombinator.com/item?id=27078207

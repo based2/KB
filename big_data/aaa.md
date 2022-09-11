@@ -100,6 +100,9 @@ https://github.com/vizzuhq/ipyvizzu
 https://mljar.com/blog/dashboard-python-jupyter-notebook/
 > https://news.ycombinator.com/item?id=31736164
 
+https://github.com/vizzuhq/ipyvizzu-story
+> https://news.ycombinator.com/item?id=32798800
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 > https://news.ycombinator.com/item?id=27145515

@@ -84,6 +84,9 @@ https://en.wikipedia.org/wiki/Indecomposable_continuum
 http://xahlee.info/SpecialPlaneCurves_dir/specialPlaneCurves.html
 > https://news.ycombinator.com/item?id=30853624
 
+https://sdkgames.itch.io/ecocoru
+> https://news.ycombinator.com/item?id=32800421
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705
@@ -101,6 +104,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://www.genealogy.math.ndsu.nodak.edu/
+> https://news.ycombinator.com/item?id=32780490
+
 http://bit-player.org/2022/the-middle-of-the-square
 > https://news.ycombinator.com/item?id=32775515
 

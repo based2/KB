@@ -283,6 +283,10 @@ https://github.com/kovisoft/paredit
 https://news.ycombinator.com/item?id=32788281
 
 # News
+https://github.com/aws/event-ruler
+
+https://news.ycombinator.com/item?id=32793534 Ask HN: What's the best source code you've read?
+
 https://blog.jetbrains.com/idea/2022/09/java-annotated-monthly-september-2022/
 
 https://drewdevault.com/2022/09/07/Kernel-hacking-with-Hare-part-1.html

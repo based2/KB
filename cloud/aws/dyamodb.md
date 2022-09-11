@@ -5,3 +5,6 @@ https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later
 > https://news.ycombinator.com/item?id=30007530
 
 https://medium.com/riskified-technology/dynamodb-table-migration-between-accounts-aabfa7ef748
+
+#
+https://aws.amazon.com/en/about-aws/whats-new/2022/09/amazon-dynamodb-supports-100-actions-per-transaction/

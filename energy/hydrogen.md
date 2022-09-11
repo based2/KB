@@ -25,6 +25,8 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.shell.com/media/news-and-media-releases/2022/shell-to-start-building-europes-largest-renewable-hydrogen-plant.html
+
 https://www.rechargenews.com/energy-transition/hydrogen-battery-start-up-says-it-has-700m-order-backlog-for-utility-scale-renewables-projects/2-1-1266148
 > https://news.ycombinator.com/item?id=32751132
 

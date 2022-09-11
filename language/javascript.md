@@ -192,6 +192,10 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://github.com/pmndrs/zustand
+
+https://preactjs.com/blog/introducing-signals/
+
 https://github.com/preactjs/signals
 > https://news.ycombinator.com/item?id=32743078
 
@@ -271,6 +275,8 @@ https://www.humio.com/blog/understanding-ui-components-in-elm/
 https://gren-lang.org/news/220530_first_release
 
 ## Svelt
+https://kit.svelte.dev/
+
 https://news.ycombinator.com/item?id=26557886
 
 https://geoffrich.net/posts/svelte-tower-of-hanoi/

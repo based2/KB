@@ -8,3 +8,5 @@ https://www.amazon.science/publications/amazon-sagemaker-model-monitor-a-system-
 
 https://aws.amazon.com/en/about-aws/whats-new/2022/07/fine-grained-access-controls-job-scoped-iam-roles-integration-aws-lake-formation-apache-spark-hive-amazon-emr-ec2-clusters/
 > https://www.reddit.com/r/aws/comments/w4rmza/aws_improving_their_emr_iam_integration_to_allow/
+
+https://aws.amazon.com/fr/blogs/machine-learning/distributed-training-with-amazon-eks-and-torch-distributed-elastic/

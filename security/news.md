@@ -1,3 +1,25 @@
+https://www.osintme.com/index.php/2022/09/10/recommended-reading-before-the-end-of-2022/
+> https://news.ycombinator.com/item?id=32799569
+
+https://www.youtube.com/playlist?list=PL7ZDZo2Xu332DOLSQlWlJPWRRAlpsLZQ- x33fcon Europe 2022
+
+https://swarm.ptsecurity.com/discovering-domains-via-a-time-correlation-attack/
+
+https://research.checkpoint.com/2022/dangeroussavanna-two-year-long-campaign-targets-financial-institutions-in-french-speaking-africa/
+
+https://www.thestatesman.com/technology/tiktok-hacked-2-bn-user-database-records-stolen-security-researchers-1503108078.html
+
+https://arstechnica.com/information-technology/2022/09/new-linux-malware-combines-unusual-stealth-with-a-full-suite-of-capabilities/
+> https://news.ycombinator.com/item?id=32790484
+
+https://www.bis.doc.gov/index.php/documents/about-bis/newsroom/press-releases/3127-2022-09-08-bis-press-release-standards-rule/file
+> https://www.theregister.com/2022/09/09/bis_eases_tech_export_restrictions/
+
+https://www.bleepingcomputer.com/news/security/ransomware-gangs-switching-to-new-intermittent-encryption-tactic/
+
+https://www.coutts.com/coutts-digital/Bank-In-the-App.html
+> https://news.ycombinator.com/item?id=32790387
+
 https://vigilance.fr/vulnerabilite/Docker-Engine-Moby-elevation-de-privileges-via-Supplementary-Group-39228
 
 https://thenewstack.io/the-different-token-types-and-formats-explained/

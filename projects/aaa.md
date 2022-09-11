@@ -146,6 +146,11 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://jacobian.org/2022/sep/9/quality-is-systemic/
+> https://news.ycombinator.com/item?id=32784341
+
+https://www.smartsheet.com/free-root-cause-analysis-templates-complete-collection?amp
+
 https://workplace.stackexchange.com/questions/187269/how-should-we-handle-an-over-productive-employee
 > https://news.ycombinator.com/item?id=32778899
 

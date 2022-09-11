@@ -59,6 +59,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+http://ipv4.games/
+> https://news.ycombinator.com/item?id=32790429
+
 https://gitlab.com/ipcalc/ipcalc A modern IPv4/IPv6 ipcalc tool, assisting in network calculations in command line and as a tool for scripts.
 > https://news.ycombinator.com/item?id=32295394
 

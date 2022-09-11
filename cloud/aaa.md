@@ -91,11 +91,14 @@ https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_auth
 # LB certificate termination data-in-transit gap
 
 # Incidents
+
+https://www.irishtimes.com/ireland/2022/09/10/aer-lingus-cancels-all-flights-from-dublin-to-europe-after-it-systems-crash/
+> https://news.ycombinator.com/item?id=32791199
+
 https://arstechnica.com/gadgets/2022/08/smartdrys-useful-laundry-sensor-to-be-cloud-bricked-next-month/
 > https://news.ycombinator.com/item?id=32669224
 
 https://www.theregister.com/2022/08/09/google_outage/
->
 
 https://www.dreamhoststatus.com/
 > https://news.ycombinator.com/item?id=32254485
@@ -164,6 +167,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://owasp.org/www-project-cloud-security/
+
 https://news.ycombinator.com/item?id=32690073 One Serverless Principle to Rule Them All: Idempotency [video]
 
 https://openship.org/

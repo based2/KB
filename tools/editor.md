@@ -200,6 +200,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://www.getlazarus.org/
+> https://news.ycombinator.com/item?id=32797488
+
 https://github.com/lapce/lapce rust
 > https://news.ycombinator.com/item?id=32714191
 

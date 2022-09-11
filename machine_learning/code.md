@@ -66,3 +66,5 @@ https://arxiv.org/abs/2209.02752 Specification-Guided Component-Based Synthesis 
 
 https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf Stratified Synthesis: Automatically Learning the x86-64 Instruction Set
 > https://news.ycombinator.com/item?id=32787547
+
+https://arxiv.org/abs/1808.07412 Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks

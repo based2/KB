@@ -69,7 +69,12 @@ https://aws.amazon.com/en/blogs/compute/creating-a-cost-efficient-amazon-ecs-clu
 # Security
 https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 
+# Test
+https://github.com/aws-samples/aws-lambda-unit-test-example
+
 # News
+https://aws.amazon.com/en/blogs/compute/introducing-new-intrinsic-functions-for-aws-step-functions/
+
 https://aws.amazon.com/en/blogs/hpc/a-serverless-architecture-for-high-performance-financial-modelling/
 > https://news.ycombinator.com/item?id=32780309
 

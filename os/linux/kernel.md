@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.hadess.net/2022/08/speeding-up-kernel-testing-loop.html
+
 https://news.ycombinator.com/item?id=32427475 The trouble with 64-bit DMA in Linux
 
 https://www.phoronix.com/news/Bytedance-Faster-Kexec-Reboot

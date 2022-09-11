@@ -80,6 +80,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://prettier.io/blog/2022/06/14/2.7.0.html
+> https://news.ycombinator.com/item?id=32794878
+
 https://github.com/MathisBullinger/froebel pipe
 > https://news.ycombinator.com/item?id=32377646
 

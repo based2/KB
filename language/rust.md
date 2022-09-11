@@ -392,6 +392,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://github.com/poem-web/poem web
+> https://news.ycombinator.com/item?id=32800796
+
+https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/
+> https://news.ycombinator.com/item?id=32799128
+
 https://blog.burntsushi.net/bstr/
 > https://news.ycombinator.com/item?id=32762345
 

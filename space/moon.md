@@ -27,6 +27,10 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://blogs.nasa.gov/artemis/2022/09/10/capstone-spacecraft-in-safe-mode-teams-working-to-resolve-issue/
+
+https://www.bloomberg.com/news/articles/2022-09-10/china-plans-more-moon-missions-to-rival-nasa-after-finding-new-lunar-mineral
+
 https://www.esa.int/ESA_Multimedia/Images/2020/09/Inflatable_Moon_base
 
 https://ethz.ch/en/news-and-events/eth-news/news/2022/08/one-more-clue-to-the-moons-origin.html

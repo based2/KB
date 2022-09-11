@@ -51,6 +51,8 @@ https://www.troyhunt.com/sending-spammers-to-password-purgatory-with-microsoft-p
 
 https://linuxfr.org/news/sortie-de-rspamd-3-2-le-26-mars-2022-avec-support-bimi
 
+https://www.signal-spam.fr/
+
 # Security
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/

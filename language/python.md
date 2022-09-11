@@ -44,6 +44,9 @@ https://superfastpython.com/python-concurrency-choose-api/
 https://sdiehl.github.io/gevent-tutorial/
 > https://news.ycombinator.com/item?id=32641788
 
+https://github.com/drpancake/chard Simple async/await background tasks for Django
+> https://news.ycombinator.com/item?id=32799358
+
 # Build
 https://github.com/mesonbuild/meson
 
@@ -234,6 +237,11 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/nucleic/enaml eclarative GUI with constraints-based layout engine for Python
+> https://news.ycombinator.com/item?id=32799205
+
+https://news.ycombinator.com/item?id=32793061 YouTube-dl has a JavaScript interpreter written in 870 lines of Python
+
 https://github.com/pyrustic/shared
 > https://news.ycombinator.com/item?id=32765685
 

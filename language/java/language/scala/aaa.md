@@ -81,6 +81,10 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://www.reddit.com/r/scala/comments/x9vfxg/replacing_akka_streams_with_100_lines_of_code/
+
+https://flink.apache.org/news/2022/09/08/akka-license-change.html
+
 https://alexn.org/blog/2022/09/09/scala-isnt-fun-anymore/
 > https://www.reddit.com/r/programming/comments/xafqnz/scala_isnt_fun_anymore/
 

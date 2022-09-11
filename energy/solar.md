@@ -16,6 +16,10 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.youtube.com/watch?v=m8crjuL8FFs Exploring Solar Panel Efficiency Breakthroughs in 2022
+
+https://www.youtube.com/watch?v=tQmFVcD-Mbo Solar 3.0: This New Technology Could Change Everything, Perovskite
+
 https://engineering.cmu.edu/news-events/news/2022/06/21-beam-modeling.html
 > https://news.ycombinator.com/item?id=32426240
 

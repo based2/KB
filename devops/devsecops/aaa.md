@@ -10,3 +10,14 @@ https://sysdig.com/blog/gitops-iac-security-source/
 
 https://justine.lol/make/ Using Landlock to Sandbox GNU Make
 > https://news.ycombinator.com/item?id=32376322
+
+# SBOM
+https://www.ntia.gov/files/ntia/publications/sbom_formats_survey-version-2021.pdf
+
+https://cyclonedx.org/specification/overview/
+
+https://cyclonedx.org/tool-center/
+
+https://jeremylong.github.io/DependencyCheck/index.html
+
+https://dependencytrack.org/

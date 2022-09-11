@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://nethack.glitch.me/?retro=true
+> https://news.ycombinator.com/item?id=32786426
+
 http://www.codex99.com/design/28.html Mille bornes
 > https://news.ycombinator.com/item?id=32726081
 

@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.youtube.com/watch?v=nz6stxS_a1A Mercedes Bought This Motor Maker to Give AMG EVs an Edge
+> https://www.yasa.com/
+
 https://www.motortrend.com/news/nhtsa-tesla-autopilot-investigation-shutoff-crash/
 
 https://www.thedrive.com/news/gm-makes-1500-onstar-subscription-mandatory-on-gmc-buick-cadillac-models

@@ -55,6 +55,11 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 # 
+https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/
+> https://news.ycombinator.com/item?id=32797286
+
+https://www.linuxtricks.fr/wiki/dns-fournisseurs-de-dns-public-utiles
+
 https://doc.huc.fr.eu.org/fr/post/openbsd-nsd-dnssec-tlsa/
 
 https://labs.f-secure.com/blog/detecting-exposed-cobalt-strike-dns-redirectors

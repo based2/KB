@@ -57,6 +57,9 @@ https://github.com/debauchee/barrier oftware that mimics the functionality of a 
 
 https://stevelosh.com/blog/2012/10/a-modern-space-cadet/
 
+https://qmk.fm/
+> https://news.ycombinator.com/item?id=32793405
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -72,6 +75,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.anandtech.com/show/17565/sk-hynix-starts-prepping-for-next-semiconductor-boom-with-11-billion-fab
+> https://news.ycombinator.com/item?id=32780379
+
 https://chipsandcheese.com/2022/09/01/hot-chips-34-teslas-dojo-microarchitecture/
 > https://news.ycombinator.com/item?id=32704526
 

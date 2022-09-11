@@ -9,7 +9,10 @@ https://arxiv.org/abs/2110.06635 ADOP: Approximate Differentiable One-Pixel Poin
 
 # Photo23D
 
-    https://boofcv.org
+https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/
+> https://news.ycombinator.com/item?id=32782698
+
+https://boofcv.org
     Example code for scene recognition/image retrieval. https://boofcv.org/index.php?title=Example_Scene_Recognition
     Example code for 3D Reconstruction to create point clouds https://boofcv.org/index.php?title=Example_Multiview_Reconstruction_Dense
 
@@ -30,7 +33,6 @@ https://blogs.nvidia.com/blog/2022/03/25/instant-nerf-research-3d-ai/
 > https://news.ycombinator.com/item?id=30806925
 
 https://www.capturingreality.com/introducing-realityscan
->
 
 https://www.r3dphoto.app/
 > https://news.ycombinator.com/item?id=30971542

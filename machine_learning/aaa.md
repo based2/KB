@@ -218,6 +218,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.amazon.science/publications/alexatm-20b-few-shot-learning-using-a-large-scale-multilingual-seq2seq-model
+> https://news.ycombinator.com/item?id=32794329
+> https://arxiv.org/abs/2208.01448
+
 https://mlcommons.org/en/news/mlperf-inference-v21/
 
 https://ai.googleblog.com/2022/09/digitizing-smell-using-molecular-maps.html

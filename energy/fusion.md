@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.science.org/content/article/twisty-device-explores-alternative-path-fusion
+> https://news.ycombinator.com/item?id=32799131
+
 https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html
 > https://news.ycombinator.com/item?id=32755893
 

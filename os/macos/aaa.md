@@ -70,6 +70,8 @@ https://objective-see.com/products/lulu.html little snitch alt
 https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/
 > https://news.ycombinator.com/item?id=32611340
 
+https://www.mandiant.com/resources/blog/reviewing-macos-unified-logs
+
 # Dev
 https://thescottkrause.com/emerging_tech/new_macbook_setup_for_dev/
 
@@ -102,6 +104,8 @@ https://github.com/hjuutilainen/sus-inspector
 
 https://developer.apple.com/xcode-cloud/
 > https://news.ycombinator.com/item?id=32655347
+
+https://github.com/sebsto/xcodeinstall
 
 # M2
 https://www.theregister.com/2022/07/21/m2_macbook_air_teardown/

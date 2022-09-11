@@ -254,6 +254,9 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://github.com/t3hmrman/pg_idkit uuid
+> https://news.ycombinator.com/item?id=32798821
+
 https://kristiandupont.github.io/kanel/
 
 https://www.postgresql.org/docs/current/plpython.html

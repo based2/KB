@@ -118,6 +118,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.androidpolice.com/att-suing-t-mobile-over-seniors-ad-campaign/
+> https://news.ycombinator.com/item?id=32792021
+
 https://sec.report/Document/0001366868-22-000059/
 > https://news.ycombinator.com/item?id=32754963
 

@@ -19,6 +19,8 @@ https://github.com/badamczewski/PowerUp .Net
 > https://news.ycombinator.com/item?id=32645860
 
 #
+https://www.gingerbill.org/article/2022/07/11/reverse-engineering-alembic/
+
 https://secret.club/2022/08/08/eqsat-oracle-synthesis.html
 
 https://kyteinsky.github.io/p/chromecast-protocol/

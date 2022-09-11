@@ -55,6 +55,8 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://www.youtube.com/watch?v=3YNku5FKWjw
+
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 > https://news.ycombinator.com/item?id=32784181
 
@@ -144,6 +146,9 @@ https://arxiv.org/abs/2207.02696 YOLOv7: Trainable bag-of-freebies sets new stat
 
 https://dagshub.com/blog/yolov6/#
 > https://news.ycombinator.com/item?id=31917626
+
+https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer vision cluster munition detection
+> https://news.ycombinator.com/item?id=32779930
 
 #
 https://huggingface.co/spaces/Xintao/GFPGAN

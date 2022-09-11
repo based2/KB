@@ -57,6 +57,8 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://pythonspeed.com/articles/podman-buildkit/
+
 https://medium.com/@vikrant.jagtap/is-docker-eating-up-disk-space-dc98de6e9b58
 
 https://matt-rickard.com/non-obvious-docker-uses/

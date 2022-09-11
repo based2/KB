@@ -43,3 +43,5 @@ https://curia.europa.eu/juris/document/document.jsf?text=&docid=125896&pageIndex
 https://samba.tranquil.it/doc/en/index.html Samba-AD documentation
 
 https://zer1t0.gitlab.io/posts/attacking_ad/
+
+https://github.com/aws/credentials-fetcher Linux daemon that retrieves gMSA credentials from Active Directory over LDAP. It creates and refreshes kerberos tickets from gMSA credentials. Kerberos tickets can be used by containers to run apps/services that authenticate using Active Directory

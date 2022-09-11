@@ -37,6 +37,8 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://cendyne.dev/posts/2022-09-11-ed25519-deep-dive-addendum.html
+
 https://curves.ulfheim.net/
 > https://news.ycombinator.com/item?id=31769059
 

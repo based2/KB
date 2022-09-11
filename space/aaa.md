@@ -143,6 +143,12 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.nasa.gov/specials/pdco/index.html#dart
+
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Europe_s_tallest_ever_communications_satellite_launched
+
+https://www.fcc.gov/document/mitigating-orbital-debris-shortening-time-satellite-disposal
+
 https://www.iac.es/en/outreach/news/study-shows-water-worlds-could-be-common-earths
 
 https://www.science.org/doi/10.1126/science.abl7164 Density, not radius, separates rocky and water-rich small planets orbiting M dwarf stars

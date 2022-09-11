@@ -41,6 +41,10 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://leebriggs.co.uk/blog/2022/09/05/authenticating-to-aws-the-right-way
+
+https://aws.amazon.com/en/blogs/security/how-to-centralize-findings-and-automate-deletion-for-unused-iam-roles/
+
 https://aws.amazon.com/en/blogs/security/announcing-new-aws-iam-identity-center-apis-to-manage-users-and-groups-at-scale/
 
 https://aws.amazon.com/en/about-aws/whats-new/2022/07/aws-single-sign-on-aws-sso-aws-identity-access-management-iam-customer-managed-policies-cmps/

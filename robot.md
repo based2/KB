@@ -11,6 +11,8 @@ https://foxglove.dev/
 https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers
 
 # Drone
+https://www.prnewswire.com/news-releases/matternet-m2-drone-delivery-system-first-to-achieve-faa-type-certification-301619827.html
+
 https://dronedj.com/2021/07/22/ai-beats-human-drone-racing-pilot/
 > https://news.ycombinator.com/item?id=27940997
 

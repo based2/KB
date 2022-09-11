@@ -98,12 +98,18 @@ https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 # Terrain
 https://github.com/dandrino/terrain-erosion-3-ways
 
+# History
+https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft
+> https://news.ycombinator.com/item?id=32446653
+
+http://www.bizzley.com/
+> https://news.ycombinator.com/item?id=32800976
+
 # News
 https://wasm4.org/blog/jam-2-results/
 > https://news.ycombinator.com/item?id=32777636
 
 https://madebyoll.in/posts/game_emulation_via_dnn/
-> 
 
 https://www.shadowboxtraining.com/news/2022/04/29/film-at-eleven/
 > https://news.ycombinator.com/item?id=32712506
@@ -123,9 +129,6 @@ https://auto-traffic-control.com/
 > https://news.ycombinator.com/item?id=32458180
 
 https://www.youtube.com/watch?v=JxI3Eu5DPwE ECS?
-
-https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft
-> https://news.ycombinator.com/item?id=32446653
 
 https://www.yare.io/
 > https://news.ycombinator.com/item?id=32394902

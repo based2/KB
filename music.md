@@ -64,7 +64,6 @@ https://www.researchgate.net/publication/319392963_A_Swingogram_Representation_f
 > https://news.ycombinator.com/item?id=27538436
 
 https://kindofbloop.com/
-> 
 
 # Electronic
 
@@ -91,6 +90,8 @@ https://roland50.studio/
 > https://news.ycombinator.com/item?id=30638634
 
 https://github.com/sonic-pi-net/sonic-pi
+
+https://sonicstate.com/news/2022/08/28/the-chemical-brothers-midi-setup/
 
 ## MIDI
 https://github.com/dwhinham/mt32-pi
@@ -157,6 +158,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://github.com/GuitarML/NeuralPi
+> https://news.ycombinator.com/item?id=32777549
+
 https://news.ycombinator.com/item?id=32715980
 
 https://news.ycombinator.com/item?id=32639000 Why 12 notes in Western music?

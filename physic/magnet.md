@@ -3,3 +3,5 @@ https://spectrum.ieee.org/spin-glass-nanomagnet-ai
 https://www.nature.com/articles/s41586-022-04504-8 The field-free Josephson diode in a van der Waals heterostructure
 > https://news.ycombinator.com/item?id=31546039 Magnetic-field-free, single-directional superconductivity 
 > > https://physicsworld.com/a/scientists-unveil-josephson-diode/
+
+https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021043 Low-Temperature Competing Magnetic Energy Scales in the Topological Ferrimagnet TbMn6Sn

@@ -54,6 +54,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://1.1.1.1/ Cloudflare Warp
+> https://news.ycombinator.com/item?id=32792913
+
 https://mullvad.net/tr/help/wireguard-servers-running-from-ram/
 > https://news.ycombinator.com/item?id=32645501
 

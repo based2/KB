@@ -226,6 +226,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.micahlerner.com/2022/09/03/seven-years-in-the-life-of-hypergiants-off-nets.html
+
 https://thenewstack.io/forrester-identifies-best-practices-for-serverless-development/
 
 http://tomasp.net/blog/2022/timeless-way/

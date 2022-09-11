@@ -51,6 +51,12 @@ https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam
 https://aws-controllers-k8s.github.io/community/docs/community/overview/
 
 #
+https://aws.amazon.com/en/blogs/containers/understanding-and-cost-optimizing-amazon-eks-control-plane-logs/
+
+https://github.com/aws-samples/aws-do-eks
+
+https://www.reddit.com/r/aws/comments/x846a5/stuck_getting_ingressnginx_to_work_on_a_self/
+
 https://www.reddit.com/r/aws/comments/x40ryp/eks_how_does_worker_nodes_in_multiple_az/
 
 https://ambar-thecloudgarage.medium.com/eks-anywhere-extending-the-hybrid-cloud-momentum-1c7b82f610e

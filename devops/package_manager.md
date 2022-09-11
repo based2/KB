@@ -2,6 +2,12 @@ https://news.ycombinator.com/item?id=32751603 pypi
 
 https://sporks.space/2022/09/03/downgrading-binary-packages-with-pkg-on-freebsd/
 
+https://gitlab.com/volian/nala apt
+
+# Nix
+https://grahamc.com/blog/nix-and-layered-docker-images
+> https://news.ycombinator.com/item?id=32780368
+
 https://determinate.systems/posts/we-want-to-make-nix-better
 > https://news.ycombinator.com/item?id=32693107
 
@@ -17,7 +23,7 @@ https://www.tweag.io/blog/2022-07-14-taming-unix-with-nix/
 https://checkoway.net/musings/nix/ Using Nix on macOS
 > https://news.ycombinator.com/item?id=32290725
 
-https://gitlab.com/volian/nala apt
-
 https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 > https://news.ycombinator.com/item?id=32637976
+
+#

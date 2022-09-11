@@ -39,6 +39,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/awslabs/soci-snapshotter
+
 https://github.com/ContainerSSH/ContainerSSH An SSH Server that Launches Containers in Kubernetes and Docker
 > https://news.ycombinator.com/item?id=32788836
 

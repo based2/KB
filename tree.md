@@ -90,6 +90,8 @@ https://www.core77.com/posts/36044/The-Kanna-Finish-How-to-Get-Glass-Smooth-Surf
 https://www.wood-database.com/wood-filter/
 > https://news.ycombinator.com/item?id=31912178
 
+https://arstechnica.com/science/2022/08/wood-ink-creates-flat-structures-that-self-morph-into-complex-3d-shapes/
+
 ## Root
 https://images.wur.nl/digital/collection/coll13/search
 > https://news.ycombinator.com/item?id=29672733

@@ -50,6 +50,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.science.org/doi/10.1126/sciadv.abo6254 Psychological inoculation improves resilience against misinformation on social media
+> https://inoculation.science/inoculation-games/
+
 https://newpipe.net/
 > https://github.com/TeamNewPipe/NewPipe/
 > https://linuxfr.org/news/newpipe-une-autre-maniere-de-lire-des-videos-sur-son-telephone

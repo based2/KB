@@ -12,6 +12,8 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.theregister.com/2022/09/09/mozilla_cso_ftc_surveillance/
+
 https://www.bleepingcomputer.com/news/security/over-80-percent-of-the-top-websites-leak-user-searches-to-advertisers/
 
 https://www.mntd.fr/adtech/exclu-minted--orange--bouygues-et-sfr-testent-un-id-publicitaire-commun-en-france-755566 

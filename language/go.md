@@ -97,6 +97,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://github.com/golang/go/discussions/54763 discussion: structured, leveled logging
+> 
+
 https://go.dev/blog/survey2022-q2-results
 > https://news.ycombinator.com/item?id=32767287
 

@@ -20,6 +20,9 @@ https://stackoverflow.com/questions/169453/bad-gateway-502-error-with-apache-mod
 https://dev.to/gwenshap/investigating-15s-http-response-time-in-aws-ecs-2gge
 
 # News
+https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/
+> https://www.reddit.com/r/aws/comments/x77115/serverless_messaging_latency_compared/
+
 https://www.reddit.com/r/aws/comments/w1trfb/things_i_wish_i_knew_about_aws_waf_bot_control/
 
 https://aws.amazon.com/en/about-aws/whats-new/2022/06/aws-site-vpn-introduces-private-ip-security-privacy/
