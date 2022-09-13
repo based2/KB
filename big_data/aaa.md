@@ -253,6 +253,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://tilores.io/content/Entity-Resolution-Reflections-on-the-most-common-data-science-challenge
+> https://news.ycombinator.com/item?id=32821888
+
 https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html
 > https://news.ycombinator.com/item?id=32711082
 

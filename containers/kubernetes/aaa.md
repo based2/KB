@@ -64,6 +64,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://cast.ai/blog/what-is-kubernetes-hpa-and-how-can-it-help-you-save-on-the-cloud/
+> https://news.ycombinator.com/item?id=32824698
+
 https://nostarch.com/book-kubernetes
 > https://news.ycombinator.com/item?id=32742010
 

@@ -40,6 +40,11 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.sciencedaily.com/releases/2022/09/220913110337.htm
+
+https://www.quantamagazine.org/how-ai-transformers-mimic-parts-of-the-brain-20220912/
+> https://news.ycombinator.com/item?id=32810807
+
 https://www.science.org/doi/10.1126/science.abo4220 Modulating brain function with microbiota
 > https://news.ycombinator.com/item?id=32796191
 

@@ -65,6 +65,9 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://intel.github.io/hyperscan/dev-reference/
+> https://news.ycombinator.com/item?id=32816609
+
 https://www.autoregex.xyz/
 
 https://benhoyt.com/writings/rob-pike-regex/

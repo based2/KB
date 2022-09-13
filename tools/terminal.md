@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/hpjansson/chafa
+> https://news.ycombinator.com/item?id=32797681
+
 https://www.sobyte.net/post/2022-05/tty/
 > https://news.ycombinator.com/item?id=32449772
 

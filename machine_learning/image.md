@@ -55,6 +55,8 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://computerender.com/
+
 https://www.youtube.com/watch?v=3YNku5FKWjw
 
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
@@ -151,6 +153,9 @@ https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer 
 > https://news.ycombinator.com/item?id=32779930
 
 #
+https://driesdepoorter.be/thefollower/
+> https://news.ycombinator.com/item?id=32808808
+
 https://huggingface.co/spaces/Xintao/GFPGAN
 
 https://www.drawanything.app/

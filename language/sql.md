@@ -59,6 +59,8 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://github.com/andialbrecht/sqlparse
+
 https://carlineng.com/?postid=malloy-intro#blog
 > https://news.ycombinator.com/item?id=32738874
 

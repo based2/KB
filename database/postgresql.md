@@ -254,6 +254,14 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://it.badykov.com/blog/2022/09/12/simple-and-usefull-postgresql-features/
+> https://www.reddit.com/r/programming/comments/xcgfkt/6_simple_and_useful_postgresql_features_that_i/
+
+https://www.citusdata.com/blog/2022/09/12/distributed-postgres-goes-full-open-source-with-citus/
+
+https://github.com/supabase/pg_netstat
+> https://news.ycombinator.com/item?id=32823589
+
 https://github.com/t3hmrman/pg_idkit uuid
 > https://news.ycombinator.com/item?id=32798821
 

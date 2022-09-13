@@ -59,6 +59,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://ipdetective.io/
+> https://news.ycombinator.com/item?id=32815994
+
 http://ipv4.games/
 > https://news.ycombinator.com/item?id=32790429
 

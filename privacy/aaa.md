@@ -99,6 +99,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://techxplore.com/news/2022-09-method-privacy-safety-encrypted-messaging.html
+
 https://www.nytimes.com/2022/09/08/magazine/book-bans-texas.html
 > https://news.ycombinator.com/item?id=32789200
 

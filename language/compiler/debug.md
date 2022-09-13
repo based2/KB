@@ -13,6 +13,11 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://medium.com/@mark_undoio/calling-functions-in-the-past-4bb03bdc124d
+
+https://www.vogons.org/viewtopic.php?t=86257
+> https://news.ycombinator.com/item?id=32817046
+
 https://github.com/runsidekick/sidekick
 > https://news.ycombinator.com/item?id=32638346
 

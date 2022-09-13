@@ -146,6 +146,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://medium.com/serious-scrum/9-practices-that-haunt-developers-working-with-scrum-e5903b8500f0
+
 https://jacobian.org/2022/sep/9/quality-is-systemic/
 > https://news.ycombinator.com/item?id=32784341
 

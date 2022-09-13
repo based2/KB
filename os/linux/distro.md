@@ -65,6 +65,10 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 https://manjaro.org/ (https://archlinux.org/)
 
 # News
+https://fedoramagazine.org/announcing-fedora-37-beta/
+
+https://www.debian.org/News/2022/2022091002 11.5
+
 https://www.zdnet.com/article/linux-vets-unite-behind-ciq-rocky-linuxs-parent-company/
 
 https://lunduke.substack.com/p/tiny-core-linux-130-full-linux-desktop

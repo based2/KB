@@ -97,6 +97,8 @@ https://github.com/JamesWoolfenden/pike Determining the permissions or policy re
 
 https://dev.to/boodyvo/deploy-a-static-website-on-aws-with-terraform-2el3
 
+https://github.com/awslabs/terraform-iam-policy-validator
+
 # Azure
 https://github.com/andreipintica/azure-terrafy-handsonlab
 

@@ -259,6 +259,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://sluongng.hashnode.dev/bazel-in-ci-part-1-commit-under-test
+
+https://github.blog/2022-09-13-scaling-gits-garbage-collection/
+> https://news.ycombinator.com/item?id=32826072
+
 https://github.com/petar/maymounkov.org/blob/main/articles/governance_for_git/gov4git_whitepaper.md
 
 https://github.blog/2022-08-30-gits-database-internals-ii-commit-history-queries/

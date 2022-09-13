@@ -26,6 +26,8 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://www.nathaniel.ai/myers-diff/
+
 https://www.wilfred.me.uk/blog/2022/09/06/difftastic-the-fantastic-diff/
 > https://news.ycombinator.com/item?id=32746258
 

@@ -199,6 +199,11 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://cloudfour.com/thinks/the-power-of-css-blend-modes/
+
+https://andybrewer.github.io/mvp/
+> https://news.ycombinator.com/item?id=32805334
+
 https://csswizardry.com/2022/09/critical-css-not-so-fast/
 > https://news.ycombinator.com/item?id=32777886
 

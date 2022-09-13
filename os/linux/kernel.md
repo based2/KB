@@ -12,6 +12,14 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://linuxfr.org/news/une-histoire-de-carte-son-sous-linux-la-goxlr
+
+https://lwn.net/SubscriberLink/907685/0290fbfe1ba855ea/ A pair of Rust kernel modules
+> https://news.ycombinator.com/item?id=32822082
+
+https://www.theregister.com/2022/09/12/retbleed_slugs_vm_performance_by/
+> https://news.ycombinator.com/item?id=32809725
+
 https://www.hadess.net/2022/08/speeding-up-kernel-testing-loop.html
 
 https://news.ycombinator.com/item?id=32427475 The trouble with 64-bit DMA in Linux

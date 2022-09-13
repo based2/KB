@@ -218,6 +218,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://stratechery.com/2022/the-ai-unbundling/
+> https://news.ycombinator.com/item?id=32810091
+
+https://pytorch.org/blog/PyTorchfoundation/
+
+https://ai.facebook.com/blog/pytorch-foundation/
+> https://news.ycombinator.com/item?id=32811568
+
 https://www.amazon.science/publications/alexatm-20b-few-shot-learning-using-a-large-scale-multilingual-seq2seq-model
 > https://news.ycombinator.com/item?id=32794329
 > https://arxiv.org/abs/2208.01448

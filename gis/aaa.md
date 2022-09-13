@@ -201,6 +201,10 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.usgs.gov/programs/national-geospatial-program/topobuilder
+
+https://tedpiotrowski.svbtle.com/leaflet-js-shadow-simulator
+
 https://findenergy.com/optimizing-polygon-intersections-with-subdivide/
 > https://news.ycombinator.com/item?id=32722691
 

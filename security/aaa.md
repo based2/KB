@@ -151,6 +151,8 @@ https://www.cs.uky.edu/~klapper/pdf/algebraic.pdf Algebraic Shift Register Seque
 https://desfontain.es/privacy/more-useful-results-dp.html
 
 #
+https://stackoverflow.blog/2022/09/12/the-many-problems-with-implementing-single-sign-on/
+
 https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/
 > https://news.ycombinator.com/item?id=31713999
 

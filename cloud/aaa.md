@@ -167,6 +167,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://bishopfox.com/blog/introducing-cloudfox
+
 https://owasp.org/www-project-cloud-security/
 
 https://news.ycombinator.com/item?id=32690073 One Serverless Principle to Rule Them All: Idempotency [video]

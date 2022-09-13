@@ -104,6 +104,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer
+> https://news.ycombinator.com/item?id=32827209
+
 https://www.genealogy.math.ndsu.nodak.edu/
 > https://news.ycombinator.com/item?id=32780490
 

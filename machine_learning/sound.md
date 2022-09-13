@@ -5,7 +5,6 @@ https://github.com/Picovoice/leopard
 > https://news.ycombinator.com/item?id=30615775
 
 https://github.com/babysor/MockingBird chinese
->  
 
 https://fakeyou.com/ sound
 > https://news.ycombinator.com/item?id=29688048
@@ -46,6 +45,9 @@ https://news.ycombinator.com/item?id=31968456 Ask HN: AI-Generated Music?
 
 https://github.com/DeutscheKI/tevr-asr-tool de
 > https://news.ycombinator.com/item?id=32409966
+
+https://google-research.github.io/seanet/audiolm/examples/
+> https://news.ycombinator.com/item?id=32808890
 
 # text-to-speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/

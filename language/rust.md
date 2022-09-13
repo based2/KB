@@ -392,6 +392,20 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://github.com/rust-lang/rust/pull/96709 Stabilize generic associated types
+> https://news.ycombinator.com/item?id=32829806
+
+https://gist.github.com/brendanzab/d41c3ae485d66c07178749eaeeb9e5f7 My personal list of Rust grievances (September 2021)
+> https://news.ycombinator.com/item?id=32819444
+
+https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
+> https://news.ycombinator.com/item?id=32813358
+
+https://xeiaso.net/talks/how-my-website-works
+> https://news.ycombinator.com/item?id=32809239
+
+https://carstein.github.io/2022/09/11/rust-system-programming-3.html
+
 https://github.com/poem-web/poem web
 > https://news.ycombinator.com/item?id=32800796
 

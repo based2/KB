@@ -21,6 +21,11 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://news.ycombinator.com/item?id=32813072 Ask HN: How would you design a Modern Operating System in 2022?
+
+https://archive.org/details/technicalreportc140univ An Overview of TUNIS: A UNIX Look-Alike Written in Concurrent Euclid
+> https://news.ycombinator.com/item?id=32810433
+
 https://www.haiku-os.org/blog/waddlesplash/2022-09-09_haiku_activity_contract_report_august_2022/
 
 https://www.usenix.org/publications/loginonline/transcending-posix-end-era

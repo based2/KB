@@ -75,6 +75,11 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://semiengineering.com/the-next-incarnation-of-eda/
+
+https://projectf.io/posts/fpga-graphics/
+> https://news.ycombinator.com/item?id=32807903
+
 https://www.anandtech.com/show/17565/sk-hynix-starts-prepping-for-next-semiconductor-boom-with-11-billion-fab
 > https://news.ycombinator.com/item?id=32780379
 

@@ -119,7 +119,6 @@ https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 https://github.com/reposaur/reposaur Allows users and organizations to execute policies against GitHub data to generate reports, perform auditing and more
 
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
->
 
 # Incidents
 https://about.gitlab.com/releases/2022/08/30/critical-security-release-gitlab-15-3-2-released/
@@ -210,6 +209,15 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://earthly.dev/blog/bazel-build/
+> https://www.reddit.com/r/programming/comments/xdbo6o/when_to_use_bazel/
+
+https://about.gitlab.com/pricing/faq-efficient-free-tier/
+> https://news.ycombinator.com/item?id=32821682
+
+https://slack.engineering/continuous-load-testing/
+> https://news.ycombinator.com/item?id=32798181
+
 https://github.com/tailscale/ToBeReviewedBot
 
 https://www.jetbrains.com/space/

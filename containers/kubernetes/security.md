@@ -66,6 +66,8 @@ https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf817
 https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-accounts-using-akeyless-vault-platform/
 
 # News
+https://github.com/edgelesssys/constellation shields entire Kubernetes clusters from the (cloud) infrastructure using confidential computing. Fedora CoreOS
+
 https://owasp.org/www-project-kubernetes-top-ten/
 
 https://thenewstack.io/introducing-open-source-zero-trust-to-kubernetes/

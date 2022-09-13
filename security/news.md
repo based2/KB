@@ -1,3 +1,25 @@
+https://arxiv.org/abs/2209.03197 TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals
+
+https://drops.dagstuhl.de/opus/volltexte/2022/15933/pdf/dagrep_v011_i010_p173_21481.pdf
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2022-patch-tuesday-fixes-zero-day-used-in-attacks-63-flaws/
+
+https://news.ycombinator.com/item?id=32820722
+
+https://www.bleepingcomputer.com/news/linux/vmware-70-percent-drop-in-linux-esxi-vm-performance-with-retbleed-fixes/
+
+https://www.bentasker.co.uk/posts/blog/security/are-ssh-tarpits-still-effective.html
+
+https://ditrizna.medium.com/data-centric-security-threat-hunting-based-on-zipfs-law-50ad919fc135
+
+https://engineering.fb.com/2022/09/12/open-source/memlab/
+
+https://netzpolitik.org/2022/mikko-hyppoenen-the-first-time-we-encountered-law-enforcement-malware/
+
+https://www.faz.net/aktuell/feuilleton/chaos-computer-club-anatomy-of-a-digital-pest-11508378.html?printPagedArticle=true#pageIndex_2
+
+https://www.bleepingcomputer.com/news/security/firmware-bugs-in-many-hp-computer-models-left-unfixed-for-over-a-year/
+
 https://www.osintme.com/index.php/2022/09/10/recommended-reading-before-the-end-of-2022/
 > https://news.ycombinator.com/item?id=32799569
 

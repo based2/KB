@@ -98,6 +98,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://github.com/litements/s3sqlite
+
 https://sqlite.org/releaselog/3_39_3.html
 > https://news.ycombinator.com/item?id=32724337
 

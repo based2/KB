@@ -91,6 +91,9 @@ https://github.com/raysan5/raylib
 https://if50.substack.com/p/2008-violet
 > https://news.ycombinator.com/item?id=28797079
 
+https://twinery.org/
+> https://news.ycombinator.com/item?id=32788965
+
 # Engine
 https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
 > https://news.ycombinator.com/item?id=29136429
@@ -106,6 +109,16 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://vcmi.eu/news/vcmi-1.0.0-release/
+
+https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/
+> https://news.ycombinator.com/item?id=32827762
+
+https://www.mapeditor.org/2022/08/11/tiled-1-9-1-released.html
+
+https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/
+> https://news.ycombinator.com/item?id=32802402
+
 https://wasm4.org/blog/jam-2-results/
 > https://news.ycombinator.com/item?id=32777636
 

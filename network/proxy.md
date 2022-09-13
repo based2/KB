@@ -24,6 +24,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://www.claudiokuenzler.com/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket
+> https://news.ycombinator.com/item?id=32821724
+
 https://github.com/HyNetwork/hysteria/wiki feature-packed proxy & relay utility optimized for lossy, unstable connections
 
 https://crproxy.com/

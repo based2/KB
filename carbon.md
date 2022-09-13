@@ -59,6 +59,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://link.springer.com/article/10.1007/s11104-022-05386-5 Effects of elevated atmospheric CO2 and its interaction with temperature and nitrogen on yield of barley (Hordeum vulgare L.): a meta-analysis
+
 https://phys.org/news/2022-09-breakthrough-discovery-carbon-capture-conversion.html
 
 https://worldsensorium.com/how-to-bury-carbon-let-plants-do-the-dirty-work/

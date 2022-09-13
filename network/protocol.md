@@ -40,3 +40,6 @@ https://www.threadgroup.org/news-events/press-releases/ID/328/Thread-Group-Opens
 
 https://www.levien.com/free/decommoditizing.html
 > https://news.ycombinator.com/item?id=32460023
+
+https://buf.build/blog/protobuf-language-specification
+> https://news.ycombinator.com/item?id=32812873

@@ -114,8 +114,10 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://frame.work/de/en/products/ethernet-expansion-card
+> https://news.ycombinator.com/item?id=32814453
+
 https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/
->
 
 https://www.usenix.org/system/files/nsdi20-paper-lou.pdf artial Failures in Large System Software Chang Lou, Peng Huang, and Scott Smith, Johns Hopkin
 

@@ -16,3 +16,5 @@ https://web.dev/gpu-compute/
 
 https://usegpu.live/
 > https://news.ycombinator.com/item?id=32777909
+
+https://devlog.hexops.com/2022/perfecting-webgpu-native/

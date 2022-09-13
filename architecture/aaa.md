@@ -211,6 +211,9 @@ https://thenewstack.io/a-new-architecture-for-apis/
 https://ignaciochiazzo.medium.com/paginating-requests-in-apis-d4883d4c1c4c
 > https://news.ycombinator.com/item?id=31541070
 
+https://support.edifabric.com/hc/en-us/articles/6738567109277-EDI-vs-API
+> https://news.ycombinator.com/item?id=32812609
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966
