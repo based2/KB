@@ -392,6 +392,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blocr.github.io/posts/fractal_generation.html
+> https://news.ycombinator.com/item?id=32843145
+
 https://github.com/rust-lang/rust/pull/96709 Stabilize generic associated types
 > https://news.ycombinator.com/item?id=32829806
 

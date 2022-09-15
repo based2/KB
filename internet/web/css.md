@@ -175,6 +175,9 @@ https://systemfontstack.com/
 https://fonts.bunny.net/about Bunny Fonts is an open-source, privacy-first web font platform designed to put privacy back into the internet.
 > https://news.ycombinator.com/item?id=31798311
 
+https://material.io/blog/color-fonts-are-here
+> https://news.ycombinator.com/item?id=32835806
+
 # Demo
 https://codepen.io/jakealbaugh/full/PwLXXP/
 
@@ -199,6 +202,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.w3schools.com/w3css/default.asp
+> https://news.ycombinator.com/item?id=32831679
+
 https://cloudfour.com/thinks/the-power-of-css-blend-modes/
 
 https://andybrewer.github.io/mvp/

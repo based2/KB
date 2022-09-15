@@ -64,6 +64,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://support.okta.com/help/s/article/Important-Customer-Update-to-Okta-IP-Access-Policy?language=en_US
+> https://news.ycombinator.com/item?id=32847987
+
 https://blog.lambda.cx/posts/how-bsd-authentication-works/
 
 https://docs.twingate.com/docs/architecture-overview

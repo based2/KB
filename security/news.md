@@ -1,3 +1,16 @@
+https://www.cisa.gov/sites/default/files/publications/StrategicPlan_20220912-V2_508c.pdf
+
+https://www.synacktiv.com/publications/traces-of-windows-remote-command-execution.html
+
+https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit
+> https://what.thedailywtf.com/topic/15001/enlightened
+> https://www.reddit.com/r/programming/comments/xek50e/cve202237706_lpe_exploit_0day_main_window/
+
+https://arstechnica.com/information-technology/2022/09/microsoft-teams-stores-cleartext-auth-tokens-wont-be-quickly-patched/
+
+https://support.apple.com/en-us/HT212650 About Lockdown Mode
+> https://news.ycombinator.com/item?id=32842749
+
 https://arxiv.org/abs/2209.03197 TickTock: Detecting Microphone Status in Laptops Leveraging Electromagnetic Leakage of Clock Signals
 
 https://drops.dagstuhl.de/opus/volltexte/2022/15933/pdf/dagrep_v011_i010_p173_21481.pdf

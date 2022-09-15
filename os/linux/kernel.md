@@ -12,6 +12,14 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.zdnet.com/article/linus-torvalds-rust-may-make-it-into-the-next-linux-kernel-after-all/
+> https://news.ycombinator.com/item?id=32855216
+
+https://www.phoronix.com/news/Linux-LPC2022-io_uring_spawn
+> https://news.ycombinator.com/item?id=32836446
+
+https://www.phoronix.com/news/Nest-Linux-Scheduling-Warm-Core
+
 https://linuxfr.org/news/une-histoire-de-carte-son-sous-linux-la-goxlr
 
 https://lwn.net/SubscriberLink/907685/0290fbfe1ba855ea/ A pair of Rust kernel modules

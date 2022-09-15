@@ -143,6 +143,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://pweb.cfa.harvard.edu/news/its-planet-new-evidence-baby-planet-making
+
 https://www.nasa.gov/specials/pdco/index.html#dart
 
 https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Europe_s_tallest_ever_communications_satellite_launched

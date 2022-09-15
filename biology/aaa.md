@@ -39,6 +39,9 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.nature.com/articles/s41587-022-01431-x Cellulose shoes made by bacteria
+> https://news.ycombinator.com/item?id=32834765
+
 https://news.ycombinator.com/item?id=32784746 Simulated Growing Plants
 
 https://healeycodes.com/virtual-ants

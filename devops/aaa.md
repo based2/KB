@@ -56,6 +56,9 @@ https://airbyte.io/blog/airflow-etl-pipelines
 https://shopify.engineering/lessons-learned-apache-airflow-scale
 > https://news.ycombinator.com/item?id=31480320
 
+https://davidsj.substack.com/p/dabbling-with-dagster-part-1
+> https://news.ycombinator.com/item?id=32839147
+
 https://drewdevault.com/2019/10/12/how-to-fuck-up-releases.html
 > https://news.ycombinator.com/item?id=26902422
 
@@ -209,6 +212,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://blog.skyliner.io/ship-small-diffs-741308bec0d1
+>
+
 https://earthly.dev/blog/bazel-build/
 > https://www.reddit.com/r/programming/comments/xdbo6o/when_to_use_bazel/
 

@@ -1,4 +1,7 @@
 # News
+https://arstechnica.com/gadgets/2022/09/five-years-of-data-show-that-ssds-are-more-reliable-than-hdds-over-the-long-haul/
+> https://news.ycombinator.com/item?id=32849120
+
 https://changelog.complete.org/archives/10421-dead-usb-drives-are-fine-building-a-reliable-sneakernet
 > https://news.ycombinator.com/item?id=32686939
 

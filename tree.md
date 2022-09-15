@@ -67,6 +67,8 @@ https://github.com/davidmnoll/chkflow
 
 https://news.ycombinator.com/item?id=32721317
 
+https://www.unixsheikh.com/tutorials/poor-mans-mind-mapping-tool-with-just-the-terminal.html
+
 # Real tree
 https://www.udel.edu/udaily/2021/july/rodrigo-vargas-tropical-rainforest-index-national-geographic/
 > https://news.ycombinator.com/item?id=27934824
@@ -80,6 +82,8 @@ https://www.greatgreenwall.org/about-great-green-wall
 
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
+
+https://www.uef.fi/en/article/conifer-communication-is-complex-and-can-be-altered-by-air-pollution
 
 ## Wood
 https://woodgears.ca/wood_strength/

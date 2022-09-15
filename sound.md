@@ -27,6 +27,9 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://ultrasound.money/
+> https://news.ycombinator.com/item?id=32847141
+
 http://libsound.io/ cross-platform audio input and output for real-time & consumer software
 
 https://www.stef.be/bassoontracker/

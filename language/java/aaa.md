@@ -44,6 +44,9 @@ https://mizosoft.github.io/methanol/
 > https://www.reddit.com/r/java/comments/nctvb6/response_caching_with_javas_http_client_methanol/
 
 # JEE
+https://blog.payara.fish/whats-new-in-jakarta-ee-10
+> https://news.ycombinator.com/item?id=32838321
+
 https://newsroom.eclipse.org/eclipse-newsletter/2021/may/jakarta-ee-10-and-enterprise-beans-options-future
 
 https://www.agilejava.eu/2021/05/23/hashtag-jakarta-ee-73/

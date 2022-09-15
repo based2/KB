@@ -257,6 +257,9 @@ https://github.com/remotion-dev/remotion
 https://xiph.org/flac/changelog.html
 > https://news.ycombinator.com/item?id=30437926
 
+https://xiph.org/flac/2022/09/09/flac-1-4-0-released.html
+> https://news.ycombinator.com/item?id=32841737
+
 https://www.cnx-software.com/2022/02/09/mipi-csi-2-v4-0-adds-features-for-always-on-low-power-machine-vision-applications/
 
 https://news.ycombinator.com/item?id=30194440 remove silences

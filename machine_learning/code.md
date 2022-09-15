@@ -25,6 +25,9 @@ https://copilot.github.com/
     https://github.com/github/copilot-docs/tree/main/docs
     > https://news.ycombinator.com/item?id=29016506
 
+https://github.com/maxwell-bland/copilot-in-the-terminal
+> https://news.ycombinator.com/item?id=32846691
+
 https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
 > https://news.ycombinator.com/item?id=32753213
 

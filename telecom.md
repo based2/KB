@@ -67,6 +67,9 @@ https://backreaction.blogspot.com/2022/09/the-trouble-with-5g.html
 
 https://www.theregister.com/2022/09/08/ntt_docomo_5g/
 
+https://arstechnica.com/gadgets/2022/09/att-wont-upgrade-older-phones-for-new-5g-bands/
+> https://news.ycombinator.com/item?id=32853470
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
@@ -118,6 +121,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://arstechnica.com/gadgets/2022/09/google-spinoff-aalyria-salvages-project-loon-technology-for-the-us-military/
+
 https://www.androidpolice.com/att-suing-t-mobile-over-seniors-ad-campaign/
 > https://news.ycombinator.com/item?id=32792021
 

@@ -140,6 +140,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/
+> https://news.ycombinator.com/item?id=32852643
+
 https://www.etsy.com/codeascraft/priority-hints-what-your-browser-doesnt-know-yet
 > https://web.dev/priority-hints/
 

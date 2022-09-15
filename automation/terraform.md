@@ -77,6 +77,8 @@ https://medium.com/globant/automate-k8s-policy-checks-using-datree-aws-codebuild
 
 https://advancedweb.hu/how-to-remove-the-rds-master-user-password-from-the-terraform-state/
 
+https://infosecwriteups.com/using-pgp-to-enhance-security-and-non-repudiation-of-terraform-ops-93c0b4bb209f
+
 # CI/CD
 https://docs.gitlab.com/ee/user/infrastructure/iac/
 > https://gitlab.com/gitlab-org/terraform-images
@@ -99,12 +101,16 @@ https://dev.to/boodyvo/deploy-a-static-website-on-aws-with-terraform-2el3
 
 https://github.com/awslabs/terraform-iam-policy-validator
 
+https://medium.com/adevinta-tech-blog/enforcing-and-controlling-infrastructure-as-code-40f38c89fb2e
+
 # Azure
 https://github.com/andreipintica/azure-terrafy-handsonlab
 
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://github.com/hashicorp/terraform-config-inspect monorepo
+
 https://github.com/magodo/tfadd Generate valid Terraform configuration from state
 
 https://medium.com/adevinta-tech-blog/deprecating-aws-cloudformation-stacks-towards-terraform-105b85e79780

@@ -218,6 +218,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.adept.ai/act
+> https://news.ycombinator.com/item?id=32842860
+
 https://stratechery.com/2022/the-ai-unbundling/
 > https://news.ycombinator.com/item?id=32810091
 

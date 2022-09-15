@@ -100,6 +100,10 @@ https://eng.uber.com/nebulagl/
 https://cycle.travel/
 
 https://www.openrailwaymap.org/
+> https://news.ycombinator.com/item?id=32841069
+
+https://www.arcgis.com/apps/mapviewer/index.html?webmap=96ec03e4fc8546bd8a864e39a2c3fc41
+> https://news.ycombinator.com/item?id=32834484
 
 https://submarine-cable-map-2021.telegeography.com/
 > https://news.ycombinator.com/item?id=27410133
@@ -201,6 +205,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://github.com/roboflow-ai/dji-aerial-georeferencing
+> https://news.ycombinator.com/item?id=32851848
+
 https://www.usgs.gov/programs/national-geospatial-program/topobuilder
 
 https://tedpiotrowski.svbtle.com/leaflet-js-shadow-simulator

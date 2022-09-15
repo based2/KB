@@ -192,6 +192,8 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://github.com/pubkey/rxdb/blob/master/README.md?v=13
+
 https://github.com/pmndrs/zustand
 
 https://preactjs.com/blog/introducing-signals/
@@ -436,6 +438,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/dflex-js/dflex drag&drop
+> https://news.ycombinator.com/item?id=32852020
+
 https://jott.live/markdown/accelerate_python
 
 https://github.com/vitmalina/w2ui

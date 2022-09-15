@@ -57,6 +57,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://www.elections.alaska.gov/election-results/e/
+> https://news.ycombinator.com/item?id=32855399
+
 https://github.com/LibraryOfCongress/api.congress.gov
 > https://news.ycombinator.com/item?id=32743880
 > https://news.ycombinator.com/item?id=32770058

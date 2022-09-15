@@ -68,6 +68,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://bsago.me/posts/that-annoying-shade-of-blue
+> https://news.ycombinator.com/item?id=32848575
+
 https://www.getty.edu/research/exhibitions_events/exhibitions/bauhaus/new_artist/form_color/color/
 > https://news.ycombinator.com/item?id=32709947
 

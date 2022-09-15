@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/
+> https://news.ycombinator.com/item?id=32809126
+
 https://webkit.org/blog/13152/webkit-features-in-safari-16-0/
 > https://news.ycombinator.com/item?id=32814573
 

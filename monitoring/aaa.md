@@ -76,6 +76,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://dataswamp.org/~solene/2022-09-11-exploring-monitoring-stacks.html
+> https://news.ycombinator.com/item?id=32812369
+
 https://grafana.com/blog/2022/09/13/grafana-incident-for-incident-management-is-now-generally-available-in-grafana-cloud/
 > https://news.ycombinator.com/item?id=32825070
 

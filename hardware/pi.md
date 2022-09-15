@@ -8,6 +8,10 @@ https://www.the-diy-life.com/pi-shortage-are-these-worthwhile-raspberry-pi-alter
 
 https://www.jeffgeerling.com/tags/parts-shortage
 
+#
+https://github.com/librerpi/
+> https://news.ycombinator.com/item?id=32848110
+
 https://www.collabora.com/news-and-blog/blog/2022/09/02/using-a-raspberry-pi-as-a-bluetooth-speaker-with-pipewire-wireplumber/
 > https://news.ycombinator.com/item?id=32691597
 

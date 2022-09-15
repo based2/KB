@@ -65,6 +65,8 @@ https://gregtatum.com/writing/2021/diacritical-marks/
 
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
+https://blog.unicode.org/2022/09/announcing-unicode-standard-version-150.html
+
 # ASCII
 http://www.figlet.org/fontdb.cgi
 
@@ -119,6 +121,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://lwn.net/Articles/908032/
+> https://news.ycombinator.com/item?id=32842207
+
 https://kinzler.com/me/align/
 
 https://github.com/simdutf/simdutf

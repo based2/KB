@@ -23,6 +23,8 @@ https://notdodo.medium.com/aws-ec2-auto-scaling-privilege-escalation-d518f8e7f91
 https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 
 #
+https://aws.amazon.com/en/about-aws/whats-new/2022/09/aws-enterprise-support-aws-incident-detection-response/
+
 https://github.com/benkehoe/aws-sso-util
 
 https://www.chrisfarris.com/post/aws-ir/

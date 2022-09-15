@@ -33,6 +33,8 @@ https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-databa
 https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 
 # News
+https://techcommunity.microsoft.com/t5/azure-governance-and-management/built-in-azure-monitor-alerts-for-azure-backup-is-now-generally/ba-p/3627859?WT.mc_id=academic-0000-abartolo
+
 https://research.nccgroup.com/2022/09/07/tool-release-monkey365/
 
 https://azure.microsoft.com/en-us/blog/elevate-your-visualizations-with-azure-managed-grafana-now-generally-available/

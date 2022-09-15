@@ -60,6 +60,14 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://weaviate.io/blog/2022/09/Why-is-Vector-Search-so-fast.html
+> https://news.ycombinator.com/item?id=32839609
+
+https://www.jocas.lt/blog/post/tricks-with-elasticsearch-completion-suggesters/
+
+https://www.algolia.com/about/news/algolia-disrupts-market-with-search-io-acquisition-ushering-in-a-new-era-of-search-and-discovery/
+> https://news.ycombinator.com/item?id=32834220
+
 https://solr.apache.org/guide/solr/latest/query-guide/dense-vector-search.html
 > https://news.ycombinator.com/item?id=32725322
 

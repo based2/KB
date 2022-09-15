@@ -237,6 +237,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://remusao.github.io/posts/python-dbm-module.html
+> https://news.ycombinator.com/item?id=32849592
+
 https://www.tweag.io/blog/2022-09-08-fp1-typopaedia-pythonica/
 
 https://github.com/nucleic/enaml eclarative GUI with constraints-based layout engine for Python

@@ -15,6 +15,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://edition.cnn.com/travel/article/tgv-m-next-generation-high-speed-train-france/index.html
+> https://news.ycombinator.com/item?id=32854701
+
 https://www.heise.de/news/Testfahrt-im-Wasserstoffzug-Siemens-zeigt-seinen-Mireo-Plus-H-7259945.html
 
 https://www.heise.de/news/Mercedes-Benz-und-Rivian-kooperieren-fuer-europaeische-Elektro-Transporter-7258446.html

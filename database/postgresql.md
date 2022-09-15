@@ -254,6 +254,9 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://gocardless.com/blog/debugging-the-postgres-query-planner/
+> https://news.ycombinator.com/item?id=32834182
+
 https://it.badykov.com/blog/2022/09/12/simple-and-usefull-postgresql-features/
 > https://www.reddit.com/r/programming/comments/xcgfkt/6_simple_and_useful_postgresql_features_that_i/
 

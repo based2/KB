@@ -104,6 +104,12 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://xenaproject.wordpress.com/2022/09/12/beyond-the-liquid-tensor-experiment/
+> https://news.ycombinator.com/item?id=32820768
+
+https://www.quantamagazine.org/ai-algorithm-foresees-chaotic-tipping-points-20220915/
+> https://news.ycombinator.com/item?id=32852425
+
 https://www.alignmentforum.org/posts/wwNnzaPnB5a48K86N/book-review-goedel-escher-bach-an-in-depth-explainer
 > https://news.ycombinator.com/item?id=32827209
 

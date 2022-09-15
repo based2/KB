@@ -7,6 +7,7 @@
 > https://wso2.com/api-management/
 > https://tyk.io/features/api-gateway/
 > https://apisix.apache.org/
+> > https://news.ycombinator.com/item?id=32854334
 > https://www.solo.io/products/gloo-edge
 > https://www.krakend.io/  
 > https://github.com/eolinker/goku-api-gateway

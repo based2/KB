@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.theregister.com/2022/09/15/china_crypto_asset_trading_case/
+
 https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf
 
 https://www.bleepingcomputer.com/news/security/us-recovers-30-million-stolen-from-axie-infinity-by-lazarus-hackers/

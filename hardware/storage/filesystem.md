@@ -28,6 +28,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://www.phoronix.com/news/Linux-NTFS3-hidedotfiles
+> https://news.ycombinator.com/item?id=32822923
+
 https://www.segger.com/products/file-system/emfile/bigfat/
 > https://news.ycombinator.com/item?id=32749107
 

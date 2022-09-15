@@ -253,6 +253,14 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.theregister.com/2022/09/15/cgiar_linux_foundation/
+
+https://lakesare.brick.do/formalizing-tables-q0P4PEa2WqRg
+> https://news.ycombinator.com/item?id=32835052
+
+https://research.kudelskisecurity.com/2020/07/28/the-definitive-guide-to-modulo-bias-and-how-to-avoid-it/
+> https://news.ycombinator.com/item?id=32849145
+
 https://tilores.io/content/Entity-Resolution-Reflections-on-the-most-common-data-science-challenge
 > https://news.ycombinator.com/item?id=32821888
 

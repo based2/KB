@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://heatpumpshooray.com/
+> https://news.ycombinator.com/item?id=32838748
+
 https://www.bruegel.org/dataset/european-natural-gas-imports
 > https://news.ycombinator.com/item?id=32822944
 

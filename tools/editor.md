@@ -194,6 +194,10 @@ https://jason-williams.co.uk/speeding-up-vscode-extensions-in-2022
 
 https://alhassy.com/making-vscode-itself-a-java-repl?x-host=www.alhassy.com
 
+##
+https://blogs.apache.org/netbeans/entry/announce-apache-netbeans-14-released
+> https://news.ycombinator.com/item?id=32835722
+
 # Notes
 https://www.tatatap.com/
 > https://news.ycombinator.com/item?id=29663233

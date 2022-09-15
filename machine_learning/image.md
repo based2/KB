@@ -153,6 +153,11 @@ https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer 
 > https://news.ycombinator.com/item?id=32779930
 
 #
+https://news.ycombinator.com/item?id=32843477
+
+https://github.com/lkwq007/stablediffusion-infinity
+> https://news.ycombinator.com/item?id=32849769
+
 https://driesdepoorter.be/thefollower/
 > https://news.ycombinator.com/item?id=32808808
 

@@ -77,6 +77,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://news.ycombinator.com/item?id=32851262
+
 https://icones.js.org/
 
 https://www.nngroup.com/articles/infinite-scrolling-tips/

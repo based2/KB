@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://github.com/appwrite/appwrite/releases/tag/1.0.0
+>
+
 https://news.ycombinator.com/item?id=32779851
 
 https://sookocheff.com/post/databases/write-ahead-logging/

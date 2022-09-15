@@ -199,6 +199,9 @@ https://people.kernel.org/monsieuricon/what-does-a-pgp-signature-on-a-git-commit
 
 https://stackoverflow.com/questions/15790120/what-is-the-first-line-of-git-format-patch-output/27005870#27005870
 
+https://calebhearth.com/sign-git-with-ssh
+> https://news.ycombinator.com/item?id=32831731
+
 ## Check
 https://github.com/Orange-Cyberdefense/versionshaker
 
