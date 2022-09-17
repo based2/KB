@@ -99,6 +99,9 @@ https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-tran
 https://ydb.tech/ yandex
 > https://news.ycombinator.com/item?id=31081272
 
+https://github.com/surrealdb/surrealdb
+> https://news.ycombinator.com/item?id=32874597
+
 # Test
 https://fsantanna.github.io/structured-concurrency.html
 > https://news.ycombinator.com/item?id=30754854
@@ -117,6 +120,9 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
 
 # News
+https://qworum.net/en/
+> https://lobste.rs/s/pxwg6f/qworum_platform_for_distributed_web
+
 https://research.protocol.ai/publications/state-machine-replication-scalability-made-simple/
 
 https://github.com/ReubenBond/fast-caspaxos

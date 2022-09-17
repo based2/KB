@@ -438,6 +438,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://piotrduperas.com/posts/nan-boxing
+> https://news.ycombinator.com/item?id=32870463
+
 https://github.com/dflex-js/dflex drag&drop
 > https://news.ycombinator.com/item?id=32852020
 

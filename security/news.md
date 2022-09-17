@@ -1,3 +1,16 @@
+https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
+
+https://www.reddit.com/r/java/comments/xcl89x/fips_1402_certification_for_an_open_source_project/
+
+https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5017308-causing-issues-with-group-policy-settings/
+
+https://news.ycombinator.com/item?id=32864719
+
+https://www.bleepingcomputer.com/news/security/uber-hacked-internal-systems-breached-and-vulnerability-reports-stolen/
+> https://news.ycombinator.com/item?id=32876805
+
+https://elmanto.github.io/posts/llvm_for_security_1_4
+
 https://www.cisa.gov/sites/default/files/publications/StrategicPlan_20220912-V2_508c.pdf
 
 https://www.synacktiv.com/publications/traces-of-windows-remote-command-execution.html

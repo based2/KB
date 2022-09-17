@@ -109,6 +109,12 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/
+> https://news.ycombinator.com/item?id=32851196
+
+https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1
+> https://news.ycombinator.com/item?id=32856034
+
 https://vcmi.eu/news/vcmi-1.0.0-release/
 
 https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/

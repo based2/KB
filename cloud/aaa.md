@@ -167,6 +167,10 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.ncsc.nl/binaries/ncsc/documenten/publicaties/2022/augustus/16/cloud-act-memo/Cloud+Act+Memo+Final.pdf
+
+https://www.bloomberg.com/news/articles/2022-09-17/ecb-taps-amazon-four-others-to-pitch-digital-euro-prototype
+
 https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/
 > https://news.ycombinator.com/item?id=32832433
 

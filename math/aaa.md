@@ -104,6 +104,8 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://explained-from-first-principles.com/number-theory/
+
 https://xenaproject.wordpress.com/2022/09/12/beyond-the-liquid-tensor-experiment/
 > https://news.ycombinator.com/item?id=32820768
 

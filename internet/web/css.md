@@ -202,6 +202,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://css-tricks.com/more-details-on-details/
+
 https://www.w3schools.com/w3css/default.asp
 > https://news.ycombinator.com/item?id=32831679
 

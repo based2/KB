@@ -33,3 +33,6 @@ http://www.brouter.de/brouter-web/#map=5/50.990/9.860/cyclosm
 https://altilunium.my.id/p/osm_pantau
 
 https://github.com/streetcomplete/StreetComplete/discussions/4264
+
+https://github.com/headwaymaps/headway Self-hostable maps stack, powered by OpenStreetMap
+> https://news.ycombinator.com/item?id=32875795

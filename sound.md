@@ -27,6 +27,9 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://www.amplifiedparts.com/tech-articles/spring-reverb-tanks-explained-and-compared
+> https://news.ycombinator.com/item?id=32861348
+
 https://ultrasound.money/
 > https://news.ycombinator.com/item?id=32847141
 

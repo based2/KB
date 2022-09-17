@@ -1,4 +1,9 @@
 # News
+https://www.phoronix.com/news/Ubuntu-Zsys-0.5.9
+
+https://www.youtube.com/watch?v=l55GfAwa8RI Hardware Raid is Dead and is a Bad Idea in 2022 -> ZFS?
+> https://news.ycombinator.com/item?id=32879739
+
 https://arstechnica.com/gadgets/2022/09/five-years-of-data-show-that-ssds-are-more-reliable-than-hdds-over-the-long-haul/
 > https://news.ycombinator.com/item?id=32849120
 

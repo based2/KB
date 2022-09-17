@@ -60,6 +60,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://advancedweb.hu/intro-to-lucene/
+
 https://weaviate.io/blog/2022/09/Why-is-Vector-Search-so-fast.html
 > https://news.ycombinator.com/item?id=32839609
 

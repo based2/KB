@@ -51,6 +51,8 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 # News
+https://vladmihalcea.com/spring-data-findall-anti-pattern/
+
 https://vladmihalcea.com/spring-transaction-best-practices/
 
 https://vladmihalcea.com/best-spring-data-jparepository/

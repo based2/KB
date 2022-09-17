@@ -156,6 +156,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://blog.tjll.net/reverse-proxy-hot-dog-eating-contest-caddy-vs-nginx/
+> https://news.ycombinator.com/item?id=32865497
+
 https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/
 > https://news.ycombinator.com/item?id=31982026
 

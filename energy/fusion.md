@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.instructables.com/Build-A-Fusion-Reactor/
+> https://news.ycombinator.com/item?id=32872449
+
 https://www.science.org/content/article/twisty-device-explores-alternative-path-fusion
 > https://news.ycombinator.com/item?id=32799131
 

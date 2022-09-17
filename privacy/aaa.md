@@ -99,6 +99,11 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://arxiv.org/abs/2205.03971 Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing
+
+https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html
+> https://news.ycombinator.com/item?id=32864997
+
 https://www.washingtonpost.com/technology/2022/09/15/government-surveillance-database-dhs/
 
 https://techxplore.com/news/2022-09-method-privacy-safety-encrypted-messaging.html

@@ -23,6 +23,12 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://cloud.google.com/datastream-for-bigquery
+> https://news.ycombinator.com/item?id=32868092
+
+https://cloud.google.com/blog/products/spanner/try-cloud-spanner-databases
+> https://news.ycombinator.com/item?id=32855747
+
 https://news.ycombinator.com/item?id=32656200
 
 https://www.infoq.com/news/2022/07/gcp-sustainable-transformation/

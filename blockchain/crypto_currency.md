@@ -23,6 +23,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.justice.gov/opa/pr/justice-department-announces-report-digital-assets-and-launches-nationwide-network
+
+https://www.theregister.com/2022/09/16/open_standards_digital_wallets/
+
 https://www.theregister.com/2022/09/15/china_crypto_asset_trading_case/
 
 https://www.whitehouse.gov/wp-content/uploads/2022/09/09-2022-Crypto-Assets-and-Climate-Report.pdf

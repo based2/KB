@@ -12,6 +12,11 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.yankodesign.com/2021/05/30/this-sustainable-underground-fridge-keeps-food-chilled-naturally-no-electricity-needed/
+
+https://labincubators.net/blogs/blog/peltier-vs-compressor-based-cooling
+> https://news.ycombinator.com/item?id=32870714
+
 https://heatpumpshooray.com/
 > https://news.ycombinator.com/item?id=32838748
 

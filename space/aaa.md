@@ -143,6 +143,13 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.esa.int/Science_Exploration/Space_Science/Webb
+
+https://eyes.nasa.gov/apps/solar-system/#/home
+
+https://www.commerce.senate.gov/2022/9/cantwell-hickenlooper-lummis-wicker-introduce-bill-to-thin-out-the-900-000-pieces-of-orbiting-junk-that-endanger-the-future-of-space-exploration
+> https://news.ycombinator.com/item?id=32857555
+
 https://pweb.cfa.harvard.edu/news/its-planet-new-evidence-baby-planet-making
 
 https://www.nasa.gov/specials/pdco/index.html#dart

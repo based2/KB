@@ -92,6 +92,8 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://www.reddit.com/r/java/comments/xfrvqg/building_pathological_input_for_java_hashmaps/
+
 https://www.johndcook.com/blog/2022/09/04/computing-vin-checksums/
 > https://news.ycombinator.com/item?id=32713118
 
@@ -170,4 +172,3 @@ https://mollyrocket.com/meowhash
 > https://news.ycombinator.com/item?id=29038813
 
 https://attractivechaos.wordpress.com/2018/10/01/advanced-techniques-to-implement-fast-hash-tables/
-> 

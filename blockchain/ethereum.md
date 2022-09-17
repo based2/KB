@@ -10,6 +10,14 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://vitalik.ca/general/2022/09/17/layer_3.html
+
+https://www.tomshardware.com/news/gpu-mining-is-now-unprofitable
+> https://news.ycombinator.com/item?id=32867584
+
+https://www.coindesk.com/tech/2022/09/15/the-ethereum-merge-is-done-did-it-work/
+> https://news.ycombinator.com/item?id=32848010
+
 https://2miners.com/etc-network-hashrate
 > https://news.ycombinator.com/item?id=32844350
 

@@ -105,6 +105,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://foldscope.com/
+> https://news.ycombinator.com/item?id=32864413
+
 https://www.adham-omran.com/2022/09/10/Reflections-On-A-Year-of-Anki-Knowledge-Management-Emacs-and-More.html
 > https://news.ycombinator.com/item?id=32789763
 

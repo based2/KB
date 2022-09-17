@@ -5,6 +5,9 @@ https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/
 
 https://developer.arm.com/architectures/architecture-security-features/confidential-computing
 
+https://www.nextplatform.com/2022/09/14/arm-fills-in-some-gaps-and-details-in-server-chip-roadmaps/
+> https://news.ycombinator.com/item?id=32865340
+
 https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms
 > https://news.ycombinator.com/item?id=27616018
 

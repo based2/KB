@@ -253,6 +253,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.6.0.html
+> https://news.ycombinator.com/item?id=32875983
+
+https://tomasp.net/academic/papers/pivot/
+
 https://www.theregister.com/2022/09/15/cgiar_linux_foundation/
 
 https://lakesare.brick.do/formalizing-tables-q0P4PEa2WqRg

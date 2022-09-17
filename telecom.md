@@ -121,6 +121,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.fcc.gov/fcc-sets-september-12-and-13-test-dates-wireless-emergency-alerts
+> https://news.ycombinator.com/item?id=32858059
+
 https://arstechnica.com/gadgets/2022/09/google-spinoff-aalyria-salvages-project-loon-technology-for-the-us-military/
 
 https://www.androidpolice.com/att-suing-t-mobile-over-seniors-ad-campaign/

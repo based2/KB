@@ -70,6 +70,10 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+
+https://plasma-bigscreen.org/ kde wayland
+> https://news.ycombinator.com/item?id=32859256
+
 https://wiki.documentfoundation.org/ReleaseNotes/7.4
 > https://linuxfr.org/news/libreoffice-7-4-un-maitre-numero-de-version
 

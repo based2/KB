@@ -64,7 +64,17 @@ https://www.slant.co/topics/18348/~linux-distros-that-don-t-use-systemd
 
 https://manjaro.org/ (https://archlinux.org/)
 
+https://neptuneos.com/en/about-neptune.html
+
+https://www.netrunner.com/ KDE Plasma on Debian stable
+
 # News
+https://endeavouros.com/latest-release/ terminal-centric arch distro (antergos), Odroid and the Raspberry Pi, ARM using Calamares
+> https://calamares.io/about/
+> https://discovery.endeavouros.com/
+
+https://www.phoronix.com/news/Ubuntu-22.10-Sipeed-LicheeRV
+
 https://fedoramagazine.org/announcing-fedora-37-beta/
 
 https://www.debian.org/News/2022/2022091002 11.5

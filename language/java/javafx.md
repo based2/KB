@@ -12,6 +12,8 @@ https://dreamix.eu/blog/java/learn-from-java-champion-johan-vos-javafx-in-the-ag
 
 https://www.reddit.com/r/JavaFX/
 
+https://github.com/openjdk/jfx/blob/master/doc-files/release-notes-19.md
+
 https://github.com/abhinayagarwal/jfx/blob/8282766/doc-files/release-notes-18.md
 
 

@@ -108,6 +108,9 @@ https://developer.apple.com/xcode-cloud/
 https://github.com/sebsto/xcodeinstall
 
 # M2
+https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa
+> https://news.ycombinator.com/item?id=32874189
+
 https://www.theregister.com/2022/07/21/m2_macbook_air_teardown/
 
 https://semianalysis.substack.com/p/apple-m2-die-shot-and-architecture?s=r

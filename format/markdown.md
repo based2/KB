@@ -48,3 +48,6 @@ https://hacks.mozilla.org/2022/09/the-100-percent-markdown-expedition/
 > https://www.reddit.com/r/programming/comments/x965ec/the_100_markdown_expedition/
 
 https://news.ycombinator.com/item?id=32797711 Ask HN: Is there any beautiful Markdown editor?
+
+https://stripe.com/blog/markdoc
+> https://news.ycombinator.com/item?id=32835751

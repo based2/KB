@@ -218,6 +218,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://synced.medium.com/lecun-vs-rahimi-has-machine-learning-become-alchemy-21cb1557920d
+
+https://bounded-regret.ghost.io/ai-forecasting-one-year-in/
+
+https://www.jonstokes.com/p/ai-content-generation-part-1-machine
+
 https://www.adept.ai/act
 > https://news.ycombinator.com/item?id=32842860
 

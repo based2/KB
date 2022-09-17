@@ -43,6 +43,8 @@ https://www.javaadvent.com/2021/12/from-maven-3-to-maven-5.html
 
 https://blog.frankel.ch/maven-flatten-plugin/
 
+https://andresalmiray.com/a-pom-by-any-other-name/
+
 https://lists.apache.org/thread/g5msrrbd5w65rgk5hwmzjh1pd9vl25qh Maven Install Plugin 3.0.0
 
 https://lists.apache.org/thread/24xlgpjyjofpp15b58yg2rybzr9zg0cy Apache Maven Wagon 3.5.2 released network

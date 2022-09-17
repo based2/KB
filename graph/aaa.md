@@ -41,6 +41,9 @@ https://ssw.jku.at/General/Staff/TW/igv.html
 https://erkal.github.io/kite/
 > https://news.ycombinator.com/item?id=28516064
 
+https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt
+> https://news.ycombinator.com/item?id=32868091
+
 # Analysis
 https://github.com/cassinius/graphinius Generic graph (analysis) library in Typescript
 

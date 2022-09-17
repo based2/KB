@@ -102,6 +102,9 @@ https://github.com/maxcountryman/warc-parquet
 > https://news.ycombinator.com/item?id=31867179
 
 # News
+https://afridigest.com/super-apps-in-emerging-markets/
+> https://news.ycombinator.com/item?id=32877435
+
 https://github.com/immich-app/immich dart
 > https://www.reddit.com/r/programming/comments/x8qwee/immich_selfhosted_foss_implementation_of_google/
 

@@ -12,6 +12,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://collinmbarrett.com/block-web-fonts/
+> https://news.ycombinator.com/item?id=32874086
+
 https://www.i-dont-care-about-cookies.eu/whats-new/acquisition/
 > https://news.ycombinator.com/item?id=32850799
 

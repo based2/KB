@@ -134,6 +134,8 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://structurizr.org/
+
 https://bootlin.com/blog/an-introduction-to-pipewire/
 > https://news.ycombinator.com/item?id=32629624
 

@@ -75,6 +75,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://loganmarchione.com/2022/09/homelab-10-mini-rack-shelves/
+> https://news.ycombinator.com/item?id=32868640
+
 https://www.jeffgeerling.com/blog/2022/blikvm-pcie-puts-computer-your-computer
 > https://news.ycombinator.com/item?id=32854718
 

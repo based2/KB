@@ -11,6 +11,8 @@
     🔎 ESC /mysearch
        /
 
+vimtutor command
+
 https://thevaluable.dev/vim-advanced/
 
 https://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.png
@@ -170,6 +172,8 @@ https://lists.gnu.org/archive/html/emacs-devel/2022-09/msg00730.html
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
+
+https://www.reddit.com/r/java/comments/xesout/eclipse_202209_java_ide_improvements/
 
 ## IntelliJ
 https://www.jetbrains.com/en/idea/

@@ -241,6 +241,9 @@ https://medium.com/@amir_h/which-version-control-system-should-i-choose-for-a-mo
 https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/
 > https://news.ycombinator.com/item?id=29188863
 
+https://render.com/docs/monorepo-support
+> https://news.ycombinator.com/item?id=32876866
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 
@@ -262,6 +265,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://novalis.org/blog/2016-11-13-analogies-for-git.html
+
 https://sluongng.hashnode.dev/bazel-in-ci-part-1-commit-under-test
 
 https://github.blog/2022-09-13-scaling-gits-garbage-collection/

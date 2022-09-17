@@ -237,6 +237,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://developer.ibm.com/tutorials/ba-metaprogramming-python/
+> https://news.ycombinator.com/item?id=32864347
+
 https://remusao.github.io/posts/python-dbm-module.html
 > https://news.ycombinator.com/item?id=32849592
 

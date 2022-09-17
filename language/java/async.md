@@ -34,6 +34,8 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://medium.com/helidon/please-welcome-helidon-n%C3%ADma-9a882c5b6f1e
+
 https://vertx.io/blog/vertx-virtual-threads-incubator/
 
 https://netty.io/news/2022/09/08/4-1-81-Final.html
