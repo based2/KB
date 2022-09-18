@@ -50,6 +50,8 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://restofworld.org/2022/minecraft-nft-ban-critterz/
+
 https://www.theregister.com/2022/09/15/swift_blockchain_trial/
 
 https://spectrum.ieee.org/cryptokitties

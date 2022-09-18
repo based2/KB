@@ -18,3 +18,6 @@ https://news.ycombinator.com/item?id=29614448
 https://cubiclenate.com/pimiga/
 > https://news.ycombinator.com/item?id=30043816
 > > https://github.com/captain-amygdala/pistorm
+
+https://emutos.sourceforge.io/
+> https://news.ycombinator.com/item?id=32887199

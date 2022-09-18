@@ -265,6 +265,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/extrawurst/gitui
+> https://news.ycombinator.com/item?id=32864036
+
 https://novalis.org/blog/2016-11-13-analogies-for-git.html
 
 https://sluongng.hashnode.dev/bazel-in-ci-part-1-commit-under-test

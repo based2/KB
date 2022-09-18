@@ -41,6 +41,12 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://lym.readthedocs.io/en/latest/index.html
+> https://news.ycombinator.com/item?id=32886315
+
+https://xenodium.com/rm-important-txt-oh-sht/
+> https://news.ycombinator.com/item?id=32880961
+
 https://github.com/kaplanelad/shellfirm
 > https://news.ycombinator.com/item?id=32293592
 

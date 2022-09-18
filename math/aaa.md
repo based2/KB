@@ -104,6 +104,11 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 > https://news.ycombinator.com/item?id=31143274
 
 # News
+https://en.wikipedia.org/wiki/Monte_Carlo_method#History
+> https://news.ycombinator.com/item?id=32886533
+
+https://en.wikipedia.org/wiki/Billion A billion is two different numbers
+
 https://explained-from-first-principles.com/number-theory/
 
 https://xenaproject.wordpress.com/2022/09/12/beyond-the-liquid-tensor-experiment/

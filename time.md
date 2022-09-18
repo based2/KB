@@ -211,6 +211,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://www.sundialzone.com/en/sundial
+> https://news.ycombinator.com/item?id=32882509
+
 https://apenwarr.ca/log/20181113 mtime comparison considered harmful
 > https://news.ycombinator.com/item?id=32798668
 

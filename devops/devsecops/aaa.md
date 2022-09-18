@@ -21,3 +21,9 @@ https://cyclonedx.org/tool-center/
 https://jeremylong.github.io/DependencyCheck/index.html
 
 https://dependencytrack.org/
+
+https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
+
+#
+https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/
+> https://news.ycombinator.com/item?id=32885062

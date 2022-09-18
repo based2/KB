@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://probablydance.com/2022/09/17/finding-the-second-bug-in-glibcs-condition-variable/
+> https://news.ycombinator.com/item?id=32887143
+
 https://medium.com/@mark_undoio/calling-functions-in-the-past-4bb03bdc124d
 
 https://www.vogons.org/viewtopic.php?t=86257

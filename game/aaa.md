@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+http://www.dogbunnypuzzle.com/
+> https://news.ycombinator.com/item?id=32884467
+
 https://arineonshark.itch.io/infernal-throne
 > https://news.ycombinator.com/item?id=32828309
 

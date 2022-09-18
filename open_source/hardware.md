@@ -42,6 +42,8 @@ https://projectf.io/posts/verilog-sim-verilator-sdl/
 
 https://aappleby.github.io/Metron/tutorial/ Metron C++ to Verilog Translator Tutorial
 
+https://mister-devel.github.io/MkDocs_MiSTer/
+
 # ASIC
 https://github.com/olofk/fusesoc
 

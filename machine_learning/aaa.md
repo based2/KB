@@ -218,6 +218,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.projectceti.org/approach
+
 https://synced.medium.com/lecun-vs-rahimi-has-machine-learning-become-alchemy-21cb1557920d
 
 https://bounded-regret.ghost.io/ai-forecasting-one-year-in/

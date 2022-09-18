@@ -80,6 +80,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://note89.github.io/typescript-typelevel-tic-tac-toe/
+
 https://prettier.io/blog/2022/06/14/2.7.0.html
 > https://news.ycombinator.com/item?id=32794878
 

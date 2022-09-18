@@ -55,6 +55,9 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://github.com/brycedrennan/imaginAIry txt2mask
+> https://news.ycombinator.com/item?id=32887385
+
 https://www.charl-e.com/
 > https://news.ycombinator.com/item?id=32878626
 

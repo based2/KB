@@ -123,6 +123,10 @@ https://arnoldgalovics.com/the-test-coverage-trap/
 https://github.com/Mikuu/Micoo
 
 # News
+https://karatelabs.github.io/karate/
+
+https://github.com/vitest-dev/vitest
+
 https://pypi.org/project/cram/ Functional testing framework for command line applications
 
 https://github.com/lost-pixel/lost-pixel  visual regression testing framework for modern web 🖼 First class integration with Storybook, Ladle & other frontend libraries

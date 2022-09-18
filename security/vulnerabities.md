@@ -1,6 +1,8 @@
 https://www.cve.org/
 > https://github.com/CVEProject/cve-schema/blob/master/schema/v5.0/CVE_JSON_5.0_schema.json
 
+https://cert.europa.eu/blog/tlp-version-2-primer
+
 # References
 https://cert.europa.eu/publications/security-advisories
 

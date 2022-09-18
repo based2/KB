@@ -5,6 +5,8 @@ https://sporks.space/2022/09/03/downgrading-binary-packages-with-pkg-on-freebsd/
 https://gitlab.com/volian/nala apt
 
 # Nix
+https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/
+
 https://grahamc.com/blog/nix-and-layered-docker-images
 > https://news.ycombinator.com/item?id=32780368
 

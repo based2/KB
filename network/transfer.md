@@ -46,3 +46,6 @@ https://github.com/timvisee/ffsend
 > https://news.ycombinator.com/item?id=31867800
 > > https://magic-wormhole.readthedocs.io/en/latest/welcome.html PAKE SPAKE2
 
+https://github.com/buxx/trsync Synchronize local folder with remote Tracim shared spaces.
+> https://linuxfr.org/news/premiere-version-grand-public-de-trsync
+

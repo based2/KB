@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://trianglify.io/
+> https://news.ycombinator.com/item?id=32887795
+
 https://www.supergoodcode.com/spaghetti-recipes/ Radv: Reduce CPU overhead of draw command recording Code
 > https://news.ycombinator.com/item?id=32841975
 

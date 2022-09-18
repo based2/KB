@@ -103,6 +103,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://karmanivero.us/blog/how-to-run-an-event-that-doesnt-suck/
+> https://news.ycombinator.com/item?id=32876804
+
 https://perl.plover.com/yak/presentation/
 > https://news.ycombinator.com/item?id=32735066
 

@@ -54,6 +54,9 @@ https://news.ycombinator.com/item?id=32297619
 
 https://news.ycombinator.com/item?id=32416209 gif
 
+https://github.com/lifthrasiir/j40 J40: Independent, self-contained JPEG XL decoder
+> https://news.ycombinator.com/item?id=32885203
+
 # News
 https://tedium.co/2022/09/09/10-forgotten-executable-file-formats/
 > https://news.ycombinator.com/item?id=32822649

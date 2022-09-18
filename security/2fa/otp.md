@@ -19,6 +19,9 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # News
+https://github.com/bulwarkid/virtual-fido
+> https://news.ycombinator.com/item?id=32881956
+
 https://www.aukfood.fr/yubikey-parametrage-authentification-linux/
 
 https://oneway.tel/
