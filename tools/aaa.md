@@ -1,3 +1,6 @@
+https://hynek.me/articles/productive-fruit-fly-programmer/
+> https://news.ycombinator.com/item?id=32900164
+
 https://stackshare.io/posts/top-developer-tools-2021
 
 http://karolis.koncevicius.lt/002.html

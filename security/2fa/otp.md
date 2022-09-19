@@ -18,7 +18,14 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
+# Incident
+
+https://cube0x0.github.io/Relaying-YubiKeys/
+
 # News
+https://www.tillitis.se/
+> https://news.ycombinator.com/item?id=32896580
+
 https://github.com/bulwarkid/virtual-fido
 > https://news.ycombinator.com/item?id=32881956
 

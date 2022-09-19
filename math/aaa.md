@@ -103,6 +103,9 @@ https://www.sliderules.org/
 https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slide-rule/
 > https://news.ycombinator.com/item?id=31143274
 
+https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
+> https://news.ycombinator.com/item?id=32902520
+
 # News
 https://en.wikipedia.org/wiki/Monte_Carlo_method#History
 > https://news.ycombinator.com/item?id=32886533

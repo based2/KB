@@ -41,6 +41,8 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://aws.amazon.com/en/blogs/security/managing-temporary-elevated-access-to-your-aws-environment/
+
 https://leebriggs.co.uk/blog/2022/09/05/authenticating-to-aws-the-right-way
 
 https://aws.amazon.com/en/blogs/security/how-to-centralize-findings-and-automate-deletion-for-unused-iam-roles/

@@ -1,3 +1,14 @@
+https://breakpoint.sh/posts/turning-your-computer-into-a-gps-tracker-with-apple-maps
+
+https://www.linkedin.com/pulse/mon-analyse-sur-lattaque-du-ch-sud-francilien-c%25C3%25A9dric-lamouche/
+
+https://scientyficworld.org/baron-samedit-cve-2021-3156/
+
+https://swarm.ptsecurity.com/jetty-features-for-hacking-web-apps/
+
+https://www.zenrows.com/blog/bypass-cloudflare#cloudflare-passive-bot-detection-techniques
+> https://news.ycombinator.com/item?id=32886795
+
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 https://www.reddit.com/r/java/comments/xcl89x/fips_1402_certification_for_an_open_source_project/

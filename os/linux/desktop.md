@@ -70,6 +70,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html
+> https://news.ycombinator.com/item?id=32891313
 
 https://plasma-bigscreen.org/ kde wayland
 > https://news.ycombinator.com/item?id=32859256

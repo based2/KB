@@ -113,6 +113,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level
+
 https://news.ycombinator.com/item?id=32780472
 
 https://github.com/drti The Dynamic Runtime Inlining (DRTI) project

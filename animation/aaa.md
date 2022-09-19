@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://barba.js.org/
+> https://news.ycombinator.com/item?id=32887988
+
 https://trianglify.io/
 > https://news.ycombinator.com/item?id=32887795
 

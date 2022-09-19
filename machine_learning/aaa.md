@@ -218,6 +218,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://alexandruburlacu.github.io/posts/2022-07-05-neptuneai-automl AutoML Solutions: What I Like and Don’t Like About AutoML as a Data Scientist
+> https://news.ycombinator.com/item?id=32897608
+
+https://www.nextplatform.com/2022/09/17/sambanova-doubles-up-chips-to-chase-ai-foundation-models/
+
 https://www.projectceti.org/approach
 
 https://synced.medium.com/lecun-vs-rahimi-has-machine-learning-become-alchemy-21cb1557920d

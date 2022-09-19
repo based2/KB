@@ -55,6 +55,14 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://github.com/amrrs/stable-diffusion-prompt-inpainting
+
+https://github.com/divamgupta/stable-diffusion-tensorflow
+> https://news.ycombinator.com/item?id=32891413
+
+https://minimaxir.com/2022/09/stable-diffusion-ugly-sonic/
+> https://news.ycombinator.com/item?id=32900108
+
 https://github.com/brycedrennan/imaginAIry txt2mask
 > https://news.ycombinator.com/item?id=32887385
 

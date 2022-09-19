@@ -12,6 +12,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://en.wikipedia.org/wiki/2000-watt_society
+> https://news.ycombinator.com/item?id=32899656
+
+https://www.avsforum.com/threads/sony-2015-xbr-55x850c-xbr-65x850c-xbr-75x850c-owners-club.1985298/page-765#post-61979548
+> https://news.ycombinator.com/item?id=32888844
+
 https://www.yankodesign.com/2021/05/30/this-sustainable-underground-fridge-keeps-food-chilled-naturally-no-electricity-needed/
 
 https://labincubators.net/blogs/blog/peltier-vs-compressor-based-cooling

@@ -26,8 +26,9 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://codeberg.org/bit-fu/OCaml-AutomaticDifferentiation
+
 https://gist.github.com/ttesmer/948df432cf46ec6db8c1e83ab59b1b21 Automatic Differentiation in 38 lines of Haskell using Operator Overloading and Dual Numbers. Inspired by conal.net/papers/beautiful-differentiation
-> 
 
 https://www.nathaniel.ai/myers-diff/
 

@@ -232,6 +232,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://cacm.acm.org/magazines/2022/9/263807-middleware-101/fulltext
+
 http://pbs.cs.berkeley.edu/#demo PBS: Probabilistically Bounded Staleness
 > https://news.ycombinator.com/item?id=32876302
 

@@ -97,6 +97,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://github.com/felixge/fgtrace experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler
+> https://news.ycombinator.com/item?id=32897962
+
 https://manishrjain.com/dgraph-labs-learnings
 > https://news.ycombinator.com/item?id=32868092
 

@@ -25,3 +25,6 @@ https://github.com/technion/vssshield Rust project to mitigate Windows ransomwar
 
 https://github.com/last-byte/PersistenceSniper
 > https://www.reddit.com/r/netsec/comments/wfuga2/persistencesniper_powershell_script_that_can_be/
+
+https://docs.velociraptor.app/
+> https://github.com/Velocidex/cloudvelo An experimental Velociraptor implementation using cloud infrastructure

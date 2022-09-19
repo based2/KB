@@ -11,6 +11,8 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://github.com/michaelgiba/iq manipulating images through expressions which transform pixels
+
 https://www.photopea.com/
 > https://news.ycombinator.com/item?id=32692372
 

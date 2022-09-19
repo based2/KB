@@ -205,6 +205,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://github.com/msiric/feasible-route-mapping
+
 https://github.com/roboflow-ai/dji-aerial-georeferencing
 > https://news.ycombinator.com/item?id=32851848
 

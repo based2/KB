@@ -102,6 +102,9 @@ https://ydb.tech/ yandex
 https://github.com/surrealdb/surrealdb
 > https://news.ycombinator.com/item?id=32874597
 
+https://notes.eatonphil.com/minimal-key-value-store-with-hashicorp-raft.html
+> https://news.ycombinator.com/item?id=32893090
+
 # Test
 https://fsantanna.github.io/structured-concurrency.html
 > https://news.ycombinator.com/item?id=30754854
@@ -118,6 +121,8 @@ https://asatarin.github.io/testing-distributed-systems/
 
 https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 > https://news.ycombinator.com/item?id=31089363
+
+https://github.com/logsem/aneris coq, ocaml
 
 # News
 https://qworum.net/en/

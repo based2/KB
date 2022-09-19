@@ -99,6 +99,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.fightforthefuture.org/news/2022-09-15-are-your-dms-safe
+> https://news.ycombinator.com/item?id=32897820
+
+https://www.musclecarsandtrucks.com/biden-infrastructure-bill-vehicle-kill-switch-2026/
+> https://news.ycombinator.com/item?id=32899306
+
 https://arxiv.org/abs/2205.03971 Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing
 
 https://www.engadget.com/us-border-forces-traveler-data-15-years-085106938.html

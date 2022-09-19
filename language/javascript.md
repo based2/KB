@@ -438,6 +438,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://uppy.io/blog/2022/09/3.0/ Uploader
+
+https://dev.to/hemanth/updates-from-the-92nd-tc39-meeting-5fi6
+
 https://piotrduperas.com/posts/nan-boxing
 > https://news.ycombinator.com/item?id=32870463
 

@@ -212,6 +212,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://code.visualstudio.com/blogs/2022/09/15/dev-container-features
+
 https://thenewstack.io/how-is-platform-engineering-different-from-devops-and-sre/
 
 https://blog.skyliner.io/ship-small-diffs-741308bec0d1

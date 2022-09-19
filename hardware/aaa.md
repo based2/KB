@@ -75,6 +75,11 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://chipsandcheese.com/2022/09/18/hot-chips-34-amds-instinct-mi200-architecture/
+
+https://github.com/nviennot/core-to-core-latency Measuring CPU core-to-core latency
+> https://news.ycombinator.com/item?id=32889337
+
 https://loganmarchione.com/2022/09/homelab-10-mini-rack-shelves/
 > https://news.ycombinator.com/item?id=32868640
 

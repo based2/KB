@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://cleantechnica.com/2022/06/13/australian-company-announces-more-efficient-lithium-extraction-process/
+> https://news.ycombinator.com/item?id=32900281
+
 https://news.ycombinator.com/item?id=32796594
 
 https://news.mit.edu/2022/simple-way-to-significantly-increase-fuel-cell-lifetimes-0831

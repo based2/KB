@@ -121,6 +121,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://twitter.com/jonty/status/1571615998335123457
+> https://news.ycombinator.com/item?id=32896989
+
 https://github.com/bartp5/libtexprintf
 
 https://lwn.net/Articles/908032/

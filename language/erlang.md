@@ -120,6 +120,8 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://gleam.run/news/gleam-v0.23-released/
+
 https://ferd.ca/my-favorite-erlang-container.html
 > https://news.ycombinator.com/item?id=32043460
 

@@ -34,6 +34,9 @@ https://www.nysenate.gov/legislation/bills/2021/S4104 Digital fair repair act pa
 
 https://gothamist.com/news/albany-passes-right-to-repair-law-for-electronics-to-confront-monopoly-on-repair-market
 
+https://www.ifixit.com/News/64865/iphone-14-teardown
+> https://news.ycombinator.com/item?id=32899494
+
 #
 https://github.com/lima-vm/lima
 

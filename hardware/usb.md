@@ -25,6 +25,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/
+> https://news.ycombinator.com/item?id=32900787
+
 https://arstechnica.com/gadgets/2022/09/breaking-down-how-usb4-goes-where-no-usb-standard-has-gone-before/
 > https://news.ycombinator.com/item?id=32689368
 

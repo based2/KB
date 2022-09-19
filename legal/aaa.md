@@ -57,6 +57,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://www.sciencedirect.com/science/article/pii/S0010027722000580 Poor writing, not specialized concepts, drives processing difficulty in legal language
+> https://news.ycombinator.com/item?id=32889072
+
 https://www.elections.alaska.gov/election-results/e/
 > https://news.ycombinator.com/item?id=32855399
 

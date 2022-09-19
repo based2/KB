@@ -35,6 +35,9 @@ https://www.newscientist.com/article/2285141-single-celled-organism-has-evolved-
 
 https://www.science.org/doi/10.1126/scirobotics.abf1571
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiature Connector 2013
+> https://news.ycombinator.com/item?id=32886596
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 

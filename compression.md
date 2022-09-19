@@ -37,6 +37,8 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://dotat.at/@/2022-07-01-dns-compress.html
+
 > https://lobste.rs/s/yu3czs/parallel_bzip2_pbzip2
 
 https://maskray.me/blog/2022-09-09-zstd-compressed-debug-sections

@@ -211,6 +211,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/fosslife/devtools-x
+> https://news.ycombinator.com/item?id=32898679
+
 https://www.getlazarus.org/
 > https://news.ycombinator.com/item?id=32797488
 

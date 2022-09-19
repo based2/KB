@@ -59,11 +59,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.marthastewart.com/8315616/where-in-united-states-most-likely-to-experience-future-heat-waves
+
 https://iopscience.iop.org/article/10.1088/2515-7620/ac8cd3 A subpolar-focused stratospheric aerosol injection deployment scenario
 > https://news.ycombinator.com/item?id=32875995
 
 https://branch.climateaction.tech/issues/issue-3/carbon-footprint-of-unwanted-data-use-by-smartphones/
-> 
 
 https://link.springer.com/article/10.1007/s11104-022-05386-5 Effects of elevated atmospheric CO2 and its interaction with temperature and nitrogen on yield of barley (Hordeum vulgare L.): a meta-analysis
 

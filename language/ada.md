@@ -61,6 +61,9 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://ada-lang.io/
+> https://news.ycombinator.com/item?id=32890100
+
 https://learn.adacore.com/courses/whats-new-in-ada-2022/index.html
 > https://news.ycombinator.com/item?id=31804843
 

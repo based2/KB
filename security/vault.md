@@ -38,6 +38,12 @@ https://www.passbolt.com/
 > https://github.com/passbolt/passbolt_api php ruby
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
+# Incident
+
+https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-internal-access-for-four-days/
+
+https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
+
 #
 https://neosmart.net/blog/2022/securestore-0-100-kiss-git-versioned-secrets-management-for-rust/
 > https://news.ycombinator.com/item?id=32389701
@@ -46,8 +52,6 @@ https://mjtsai.com/blog/2022/06/29/passkeys/
 
 https://bulwark.id/blog/vault/ Let's Build an End-to-end Encrypted Data Store
 > https://news.ycombinator.com/item?id=31782971
-
-https://news.ycombinator.com/item?id=31702594 Tell HN: Bitwarden does not export attachments in backups
 
 https://himitsustore.org/
 

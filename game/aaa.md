@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://returntomonkeyisland.com/?abc
+
 http://www.dogbunnypuzzle.com/
 > https://news.ycombinator.com/item?id=32884467
 

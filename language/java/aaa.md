@@ -44,6 +44,10 @@ https://mizosoft.github.io/methanol/
 > https://www.reddit.com/r/java/comments/nctvb6/response_caching_with_javas_http_client_methanol/
 
 # JEE
+https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
+
+https://www.reddit.com/r/java/comments/r5d7no/top_5_reasons_why_youll_love_the_jakarta_servlet/
+
 https://blog.payara.fish/whats-new-in-jakarta-ee-10
 > https://news.ycombinator.com/item?id=32838321
 
@@ -56,6 +60,10 @@ https://www.reddit.com/r/java/comments/mpwwdp/less_is_more_evolving_the_servlet_
 http://mail-archives.apache.org/mod_mbox/www-announce/202105.mbox/%3C531a27a2-b4c4-40a8-dba1-3bdd1124101f%40apache.org%3E
 
 https://blogs.oracle.com/javamagazine/jakarta-application-server-helidon-piranha-hammock#anchor_7
+
+https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
+
+https://arjan-tijms.omnifaces.org/2021/03/the-cn4j-profile-as-common-ee-and-mp.html
 
 # Validation
 https://github.com/mvallim/java-fluent-validator
@@ -130,11 +138,6 @@ https://spotbugs.github.io/
 https://github.com/google/error-prone
 
 https://github.com/warmuuh/milkman Milkman - An Extensible Request/Response Workbench (JavaFX)
-
-JEE
-https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
-
-https://arjan-tijms.omnifaces.org/2021/03/the-cn4j-profile-as-common-ee-and-mp.html
 
 # OracleDramaUpdate - Oracle license change
 https://www.reddit.com/r/java/comments/c65c9l/aleksey_shipil%C3%ABv_about_jdk_updates/
@@ -218,11 +221,6 @@ https://www.reddit.com/r/java/comments/b2izd9/i_dont_often_explain_a_single_meth
 
 https://candrews.integralblue.com/2021/04/fixing-a-bug-in-java/
 
-# JEE
-https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
-
-https://www.reddit.com/r/java/comments/r5d7no/top_5_reasons_why_youll_love_the_jakarta_servlet/
-
 # Hot Reload
 https://hotswapagent.org/
 
@@ -261,6 +259,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://alexn.org/blog/2022/09/19/java-cultural-problem/
+> https://news.ycombinator.com/item?id=32896228
+
 https://blog.vanillajava.blog/2022/09/java-is-very-fast-if-you-dont-create.html
 > https://news.ycombinator.com/item?id=32807587
 

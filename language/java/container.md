@@ -4,6 +4,8 @@ https://piranha.cloud/gettingstarted.html
 
 https://catalog.redhat.com/software/operators/detail/60ee049a744684587e218ef5
 
+https://developers.redhat.com/articles/2022/09/16/updating-docker-hubs-openjdk-image#how_to_move_from_openjdk_images_to_eclipse_temurin_images
+
 https://www.infoq.com/fr/news/2021/11/cryostat-jvm-profiler-container/
 
 https://blog.marcnuri.com/fabric8-kubernetes-java-client-and-quarkus-and-graalvm

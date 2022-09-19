@@ -1,3 +1,6 @@
+https://www.theperspective.se/2022/04/22/article/blue-gold-turned-into-sand-will-the-waters-return-to-the-aral-sea/
+> https://news.ycombinator.com/item?id=32896167
+
 https://www.freethink.com/health/lead-in-water
 > https://news.ycombinator.com/item?id=30875186
 

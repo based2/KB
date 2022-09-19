@@ -244,6 +244,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://github.com/macbian-linux/macos-subsystem-for-linux
+> https://news.ycombinator.com/item?id=32893237
+
 https://github.com/AkihiroSuda/lima/tree/master Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")
 > https://news.ycombinator.com/item?id=27151993
 > > https://code.visualstudio.com/docs/remote/remote-overview

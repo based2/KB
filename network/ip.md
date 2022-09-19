@@ -12,6 +12,8 @@ https://blog.apnic.net/2019/08/23/what-can-you-learn-from-an-ip-address/
 https://cidr.xyz/
 
 # IPv6
+https://news.ycombinator.com/item?id=32894168
+
 https://www.potaroo.net/ispcol/2021-04/v6frag.html
 https://news.ycombinator.com/item?id=26913100
 
@@ -59,6 +61,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://github.com/Ge0rg3/requests-ip-rotator AWS API Gateway, Python
+> https://www.reddit.com/r/netsec/comments/xh40q2/requestsiprotator_a_python_library_to_utilize_aws/
+
 https://ipdetective.io/
 > https://news.ycombinator.com/item?id=32815994
 

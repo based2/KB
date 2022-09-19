@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://fr.linkedin.com/pulse/la-cnil-le-cookie-et-lediteur-de-site-web-marc-antoine-ledieu?trk=public_post
+
 https://www.rte.ie/news/business/2022/0905/1320712-instagram/
 > https://news.ycombinator.com/item?id=32727022
 

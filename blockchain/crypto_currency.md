@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://techcrunch.com/2022/09/19/south-korean-prosecutors-say-do-kwon-obviously-on-the-run-ask-interpol-to-issue-red-notice
+> https://news.ycombinator.com/item?id=32897955
+
 https://www.justice.gov/opa/pr/justice-department-announces-report-digital-assets-and-launches-nationwide-network
 
 https://www.theregister.com/2022/09/16/open_standards_digital_wallets/

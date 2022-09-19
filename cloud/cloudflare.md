@@ -3,6 +3,9 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://blog.cloudflare.com/adaptive-ddos-protection/
+> https://news.ycombinator.com/item?id=32898395
+
 https://blog.cloudflare.com/cloud-computing-without-containers/
 > https://news.ycombinator.com/item?id=32289979
 
