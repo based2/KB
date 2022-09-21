@@ -29,3 +29,4 @@ https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 > https://news.ycombinator.com/item?id=32637976
 
 #
+https://www.reddit.com/r/programming/comments/xk3yuw/even_with_dryrun_pip_will_execute_arbitrary_code/

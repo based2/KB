@@ -12,6 +12,13 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://news.ycombinator.com/item?id=32917340
+
+https://github.com/gorhill/uBlock/blob/master/platform/mv3/description/en.md
+> https://news.ycombinator.com/item?id=32911640
+
+https://news.ycombinator.com/item?id=32927302
+
 https://collinmbarrett.com/block-web-fonts/
 > https://news.ycombinator.com/item?id=32874086
 

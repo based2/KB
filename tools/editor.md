@@ -169,6 +169,9 @@ http://angg.twu.net/eev-article.html
 https://lists.gnu.org/archive/html/emacs-devel/2022-09/msg00730.html
 > https://news.ycombinator.com/item?id=32808690
 
+https://lars.ingebrigtsen.no/2022/09/20/20x10/
+> https://news.ycombinator.com/item?id=32921376
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

@@ -61,6 +61,8 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://news.ycombinator.com/item?id=32917671
+
 https://github.com/Ge0rg3/requests-ip-rotator AWS API Gateway, Python
 > https://www.reddit.com/r/netsec/comments/xh40q2/requestsiprotator_a_python_library_to_utilize_aws/
 

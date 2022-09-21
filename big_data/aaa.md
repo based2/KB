@@ -253,6 +253,13 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://news.ycombinator.com/item?id=32915227 Tigris – open-source developer data platform for your next app
+
+https://harelba.github.io/q/
+> https://news.ycombinator.com/item?id=32926546
+
+https://news.ycombinator.com/item?id=32925760
+
 https://doris.apache.org/docs/summary/basic-summary analysis, ad-hoc query, unified data warehouse, Data Lake Query Acceleration
 
 https://medium.com/riskified-technology/k8s-workflow-management-for-software-developers-using-argo-workflows-1e5247d2c4a6

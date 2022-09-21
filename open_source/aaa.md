@@ -230,6 +230,11 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://tailscale.com/blog/opensource/
+> https://news.ycombinator.com/item?id=32915506
+
+https://www.theregister.com/2022/09/20/libre_office_macos_fees/
+
 https://www.technologyreview.com/2022/07/14/1055894/us-military-sofware-linux-kernel-open-source/
 
 https://staltz.com/time-till-open-source-alternative.html

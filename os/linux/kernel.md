@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/SubscriberLink/908347/da67a5162d1bc4a3/ Next steps for Rust in the kernel
+> https://news.ycombinator.com/item?id=32923928
+
 https://www.zdnet.com/article/linus-torvalds-rust-may-make-it-into-the-next-linux-kernel-after-all/
 > https://news.ycombinator.com/item?id=32855216
 

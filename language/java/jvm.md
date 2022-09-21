@@ -41,6 +41,8 @@ https://dzone.com/articles/debugging-ram-java-garbage-collection-java-heap-de
 https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf Low-Latency, High-Throughput Garbage Collection
 > https://news.ycombinator.com/item?id=31153434
 
+https://tschatzl.github.io/2022/09/16/jdk19-g1-parallel-gc-changes.html
+
 # Test
 https://github.com/ota4j-team/opentest4j
 

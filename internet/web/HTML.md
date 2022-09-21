@@ -140,6 +140,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://blog.webpagetest.org/posts/will-html-content-make-site-faster/
+> https://news.ycombinator.com/item?id=32928298
+
 https://stackoverflow.blog/2022/09/15/why-the-number-input-is-the-worst-input/
 > https://news.ycombinator.com/item?id=32852643
 

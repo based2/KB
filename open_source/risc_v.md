@@ -1,3 +1,6 @@
+https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15
+> https://news.ycombinator.com/item?id=32920846
+
 https://www.computerenhance.com/p/the-problem-with-risc-v-v-mask-bits
 
 https://blog.stephenmarz.com/2022/06/30/msi/

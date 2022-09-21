@@ -4,6 +4,9 @@ https://whichjdk.com/
 https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/
 > https://news.ycombinator.com/item?id=26662297
 
+# 19
+https://jdk.java.net/19/release-notes
+
 # 18
 https://inside.java/2021/10/04/the-default-charset-jep400/
 

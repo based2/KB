@@ -3,6 +3,11 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://blog.cloudflare.com/r2-ga/
+> https://news.ycombinator.com/item?id=32924587
+
+https://blog.cloudflare.com/workers-todo-part-1/
+
 https://blog.cloudflare.com/adaptive-ddos-protection/
 > https://news.ycombinator.com/item?id=32898395
 
@@ -81,4 +86,7 @@ https://github.com/cloudflare/miniflare test
 
 https://blog.cloudflare.com/announcing-cloudflare-images/
 > https://news.ycombinator.com/item?id=28562917
+
+https://www.projecthoneypot.org/cloudflare_beta.html
+> https://news.ycombinator.com/item?id=32912584
  

@@ -49,6 +49,9 @@ https://github.com/DeutscheKI/tevr-asr-tool de
 https://google-research.github.io/seanet/audiolm/examples/
 > https://news.ycombinator.com/item?id=32808890
 
+https://openai.com/blog/whisper/
+> https://news.ycombinator.com/item?id=32927360
+
 # text-to-speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

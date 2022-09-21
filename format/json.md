@@ -70,6 +70,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://github.com/noahgorstein/jqp
+> https://news.ycombinator.com/item?id=32905506
+
 https://github.com/Andrew-Kang-G/json-knife JS Bulk set properties recursively in huge, complex JSON string trees with a robust regex based engine.
 
 https://jsonhero.io/

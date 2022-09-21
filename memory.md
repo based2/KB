@@ -64,3 +64,6 @@ https://randomascii.wordpress.com/2022/07/11/slower-memory-zeroing-through-paral
 https://spectrum.ieee.org/the-birth-of-ram
 
 https://netflixtechblog.com/formulating-out-of-memory-kill-prediction-on-the-netflix-app-as-a-machine-learning-problem-989599029109
+
+https://semiengineering.com/how-memory-design-optimizes-system-performance/
+> https://news.ycombinator.com/item?id=32925582

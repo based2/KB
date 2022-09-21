@@ -34,6 +34,9 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://gexp.no/blog/hacking-anything-with-gnu-guix.html
+> https://news.ycombinator.com/item?id=32926823
+
 https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html
 
 https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory

@@ -240,6 +240,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/faster-cpython/ideas/wiki/Workflow-for-3.12-cycle
+> https://news.ycombinator.com/item?id=32906085
+
 https://developer.ibm.com/tutorials/ba-metaprogramming-python/
 > https://news.ycombinator.com/item?id=32864347
 

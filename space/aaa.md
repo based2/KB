@@ -143,6 +143,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades/
+> https://news.ycombinator.com/item?id=32927156
+
 https://www.esa.int/Science_Exploration/Space_Science/Webb
 
 https://eyes.nasa.gov/apps/solar-system/#/home

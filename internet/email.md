@@ -135,6 +135,11 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://www.betterbird.eu/##
+> https://news.ycombinator.com/item?id=32920235
+
+https://news.ycombinator.com/item?id=32923098 Ask HN: What's happening with Gmail spam filtering?
+
 https://useplaintext.email/
 > https://news.ycombinator.com/item?id=32810515
 

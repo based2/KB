@@ -283,6 +283,9 @@ https://github.com/kovisoft/paredit
 https://news.ycombinator.com/item?id=32788281
 
 # News
+https://www.fullpliant.org/
+> https://news.ycombinator.com/item?id=32924195
+
 https://github.com/aws/event-ruler
 
 https://news.ycombinator.com/item?id=32793534 Ask HN: What's the best source code you've read?

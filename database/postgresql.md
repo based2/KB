@@ -255,6 +255,7 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 
 # News
 https://www.crunchydata.com/blog/postgres-data-flow
+> https://news.ycombinator.com/item?id=32900123
 
 https://gocardless.com/blog/debugging-the-postgres-query-planner/
 > https://news.ycombinator.com/item?id=32834182

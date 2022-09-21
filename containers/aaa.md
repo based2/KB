@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://blog.min.io/one-billion-docker-pulls/
+> https://news.ycombinator.com/item?id=32929467
+
 https://news.ycombinator.com/item?id=32832999
 
 https://github.com/awslabs/soci-snapshotter

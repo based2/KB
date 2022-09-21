@@ -55,6 +55,9 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
 # text2img
+https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202
+> https://news.ycombinator.com/item?id=32907494
+
 https://github.com/amrrs/stable-diffusion-prompt-inpainting
 
 https://github.com/divamgupta/stable-diffusion-tensorflow
@@ -167,6 +170,9 @@ https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer 
 > https://news.ycombinator.com/item?id=32779930
 
 #
+https://www.theverge.com/2022/9/21/23364696/getty-images-ai-ban-generated-artwork-illustration-copyright
+> https://news.ycombinator.com/item?id=32926073
+
 https://ai.googleblog.com/2022/09/pali-scaling-language-image-learning-in.html
 
 https://news.ycombinator.com/item?id=32843477

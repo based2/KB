@@ -212,6 +212,14 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://devinterrupted.substack.com/p/solving-the-next-engineering-challenge
+> https://www.reddit.com/r/programming/comments/xk6d6e/completing_the_promise_of_cicd_with_continuous/
+
+https://github.com/openziti-test-kitchen/webhookz
+> https://news.ycombinator.com/item?id=32924212
+
+https://www.i-programmer.info/news/98-languages/15737-top-25-languages-for-devops.html
+
 https://code.visualstudio.com/blogs/2022/09/15/dev-container-features
 
 https://thenewstack.io/how-is-platform-engineering-different-from-devops-and-sre/

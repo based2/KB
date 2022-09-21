@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://github.com/lukeaschenbrenner/TxtNet-Browser
+> https://news.ycombinator.com/item?id=32905496
+
 https://bugs.chromium.org/p/chromium/issues/detail?id=1135492
 > https://news.ycombinator.com/item?id=32899846
 

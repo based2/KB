@@ -17,6 +17,9 @@ https://github.com/oconnor663/sha256_project
 https://rsk0315.github.io/playground/passwordle.html
 > https://news.ycombinator.com/item?id=30361850
 
+https://github.com/corkami/collisions hash
+> https://news.ycombinator.com/item?id=32910168
+
 # Dataset
 https://hashlookup.circl.lu/ Public API to lookup hash values against known database of files
  > https://gist.github.com/adulau/4191d44e30fc01df38f1d5fe605fa920

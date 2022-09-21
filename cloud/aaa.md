@@ -91,6 +91,10 @@ https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_auth
 # LB certificate termination data-in-transit gap
 
 # Incidents
+https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access
+> https://news.ycombinator.com/item?id=32913221
+> https://news.ycombinator.com/item?id=32926550
+> https://www.theregister.com/2022/09/21/oracle_fixes_critical_cloud_vuln/
 
 https://www.irishtimes.com/ireland/2022/09/10/aer-lingus-cancels-all-flights-from-dublin-to-europe-after-it-systems-crash/
 > https://news.ycombinator.com/item?id=32791199

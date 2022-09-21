@@ -1,3 +1,14 @@
+https://arxiv.org/abs/2209.09835 EM-Fault It Yourself: Building a Replicable EMFI Setup for Desktop and Server Hardware
+> https://news.ycombinator.com/item?id=32922951
+
+https://publications.cispa.saarland/3773/ Jit-Picking: Differential Fuzzing of JavaScript Engines
+
+https://go.crowdstrike.com/rs/281-OBQ-266/images/2022OverWatchThreatHuntingReport.pdf
+
+https://blogs.jpcert.or.jp/en/2022/09/bigip-exploit.html
+
+https://support.hpe.com/hpesc/public/docDisplay?docLocale=en_US&docId=hpesbnw04362en_us
+
 https://breakpoint.sh/posts/turning-your-computer-into-a-gps-tracker-with-apple-maps
 
 https://www.linkedin.com/pulse/mon-analyse-sur-lattaque-du-ch-sud-francilien-c%25C3%25A9dric-lamouche/
@@ -2807,6 +2818,7 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://googleprojectzero.blogspot.com/2021/12/a-deep-dive-into-nso-zero-click.html
 > https://thenewstack.io/log4j-the-pain-just-keeps-going-and-going/
 > > https://news.ycombinator.com/item?id=32155610
+> https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA(2022)733637
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

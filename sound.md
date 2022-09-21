@@ -89,6 +89,12 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://gpodder.github.io/
+> https://news.ycombinator.com/item?id=32912046
+
+https://www.pugetsystems.com/labs/articles/Effects-of-Grill-Patterns-on-Fan-Performance-Noise-107/
+> https://news.ycombinator.com/item?id=32923226
+
 https://www.theverge.com/2022/9/9/23344694/apple-airpods-personalized-spatial-audio-sony-ear-scanning
 
 https://github.com/erdewit/HiFiScan

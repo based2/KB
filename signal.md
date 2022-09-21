@@ -29,6 +29,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+http://websdr.org/
+
 https://charliegerard.dev/blog/aircraft-radar-system-rtl-sdr-web-usb/
 
 https://github.com/ainfosec/FISSURE RF and reverse engineering framework for everyone

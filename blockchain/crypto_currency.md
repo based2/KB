@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.theregister.com/2022/09/20/wintermute_hacked_160m/
+
 https://techcrunch.com/2022/09/19/south-korean-prosecutors-say-do-kwon-obviously-on-the-run-ask-interpol-to-issue-red-notice
 > https://news.ycombinator.com/item?id=32897955
 

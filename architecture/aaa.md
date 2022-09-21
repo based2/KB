@@ -140,6 +140,9 @@ https://rigtorp.se/ringbuffer/
 
 https://chronicle.software/why-core-to-core-latency-matters/
 
+https://questdb.io/blog/2022/09/12/importing-3m-rows-with-io-uring/
+> https://news.ycombinator.com/item?id=32913937
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -232,6 +235,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://blog.frankel.ch/backend-for-frontend/
+> https://news.ycombinator.com/item?id=32919425
+
 https://cacm.acm.org/magazines/2022/9/263807-middleware-101/fulltext
 
 http://pbs.cs.berkeley.edu/#demo PBS: Probabilistically Bounded Staleness
@@ -256,7 +262,6 @@ https://wojtekmandrysz.com/blog/systems-architect/
 > https://news.ycombinator.com/item?id=32649710
 
 https://sequentialread.com/federation-vs-clustering-self-hosting/
->
 
 https://www.innoq.com/en/blog/brief-introduction-to-arc42/
 > https://news.ycombinator.com/item?id=32353500

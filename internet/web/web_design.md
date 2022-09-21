@@ -78,6 +78,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://druids.datadoghq.com/?ref=hackernews
+> https://news.ycombinator.com/item?id=32911549
+
 https://news.ycombinator.com/item?id=32851262
 
 https://icones.js.org/

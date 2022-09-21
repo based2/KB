@@ -114,6 +114,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/tonarino/innernet A private network system that uses WireGuard under the hood
+> https://news.ycombinator.com/item?id=32922609
+
 https://frame.work/de/en/products/ethernet-expansion-card
 > https://news.ycombinator.com/item?id=32814453
 

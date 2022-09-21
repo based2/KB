@@ -99,6 +99,15 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.reuters.com/technology/indiscriminate-data-retention-is-illegal-eu-top-court-says-2022-09-20/
+> https://news.ycombinator.com/item?id=32911247
+
+https://arstechnica.com/information-technology/2022/09/artist-finds-private-medical-record-photos-in-popular-ai-training-data-set/
+
+https://www.theregister.com/2022/09/20/mssb_sec_fine/?td=rt-3a Morgan Stanley fined $35m after hard drives sold with customer info still on them
+> https://news.ycombinator.com/item?id=32926105
+> https://news.ycombinator.com/item?id=32917038
+
 https://www.fightforthefuture.org/news/2022-09-15-are-your-dms-safe
 > https://news.ycombinator.com/item?id=32897820
 

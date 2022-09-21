@@ -218,6 +218,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/
+> https://news.ycombinator.com/item?id=32921145
+
+https://postgresml.org/blog/postgresml-is-moving-to-rust-for-our-2.0-release/#preserving-backward-compatibility
+
 https://alexandruburlacu.github.io/posts/2022-07-05-neptuneai-automl AutoML Solutions: What I Like and Don’t Like About AutoML as a Data Scientist
 > https://news.ycombinator.com/item?id=32897608
 

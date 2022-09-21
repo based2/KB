@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://storage.courtlistener.com/recap/gov.uscourts.nysd.524076/gov.uscourts.nysd.524076.247.0.pdf
+> https://news.ycombinator.com/item?id=32926201
+
 https://www.lynalden.com/lightning-network/
 
 https://news.ycombinator.com/item?id=32239266
