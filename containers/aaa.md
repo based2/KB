@@ -39,6 +39,10 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://bastillebsd.org/ Automating deployment and management of containerized applications on FreeBSD with LXC
+
+https://wonderfall.dev/docker-hardening/
+
 https://blog.min.io/one-billion-docker-pulls/
 > https://news.ycombinator.com/item?id=32929467
 

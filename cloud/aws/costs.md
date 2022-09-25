@@ -14,3 +14,6 @@ https://cloudshim.com/calculator An AWS EC2 Savings Plans Calculator
 
 https://aws.amazon.com/en/about-aws/whats-new/2022/06/aws-cost-allocation-tag-api/
 
+https://www.oraculi.io/blog/tips-to-avoid-surprises-in-your-aws-bill
+> https://www.reddit.com/r/aws/comments/xlt8s5/tips_to_avoid_surprises_in_your_aws_bill/
+

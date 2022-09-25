@@ -64,6 +64,10 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://medium.com/@butkovic/visualizing-istios-circuit-breaker-with-kiali-cee45eaabc4d
+> https://news.ycombinator.com/item?id=32970526
+> > https://kiali.io/
+
 https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104
 > https://github.com/aurae-runtime/auraed
 > > https://github.com/aurae-runtime/community

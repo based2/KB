@@ -25,6 +25,8 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://research.nccgroup.com/2022/09/19/a-guide-to-improving-security-through-infrastructure-as-code/
+
 https://blog.awsfundamentals.com/infrastructure-as-code-on-aws-an-introduction
 
 https://github.com/phil294/AHK_X11 AutoHotkey for Linux (X11-based systems)

@@ -70,6 +70,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://clivethompson.medium.com/linux-on-the-laptop-works-so-damn-well-that-its-boring-29014b347941
+> https://news.ycombinator.com/item?id=32964519
+
 https://artemis.sh/2022/09/18/wayland-from-an-x-apologist.html
 > https://news.ycombinator.com/item?id=32891313
 

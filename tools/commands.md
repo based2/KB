@@ -36,11 +36,16 @@ https://crontab.guru/
 https://cronprompt.com/
 > https://news.ycombinator.com/item?id=32358591
 
+https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/ Schedule Cronjob for the First Monday of Every Month, the Funky Way
+> https://news.ycombinator.com/item?id=32949338
+
 # Awk
 https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/Angelmmiguel/fu du
+
 https://lym.readthedocs.io/en/latest/index.html
 > https://news.ycombinator.com/item?id=32886315
 

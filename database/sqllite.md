@@ -98,6 +98,12 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://univalence.me/posts/mvsqlite-2
+> https://news.ycombinator.com/item?id=32961656
+
+https://rischmann.fr/blog/virtual-tables-with-zig-sqlite
+> https://news.ycombinator.com/item?id=32938192
+
 https://fly.io/blog/introducing-litefs/
 > https://news.ycombinator.com/item?id=32925734
 

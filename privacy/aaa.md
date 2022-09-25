@@ -99,6 +99,16 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.europarl.europa.eu/news/en/press-room/20220516IPR29641/digital-markets-act-ep-committee-endorses-agreement-with-council
+
+https://www.europarl.europa.eu/news/en/press-room/20220412IPR27111/digital-services-act-agreement-for-a-transparent-and-safe-online-environment
+
+https://www.bloomberg.com/news/articles/2022-09-22/meta-sued-for-skirting-apple-privacy-rules-to-snoop-on-users
+> https://news.ycombinator.com/item?id=32937710
+
+https://www.congress.gov/bill/117th-congress/house-bill/8152/text
+> https://news.ycombinator.com/item?id=32939301
+
 https://www.reuters.com/technology/indiscriminate-data-retention-is-illegal-eu-top-court-says-2022-09-20/
 > https://news.ycombinator.com/item?id=32911247
 

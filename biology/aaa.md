@@ -42,6 +42,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.nationalgeographic.com/history/article/miracle-plant-eaten-extinction-2000-years-ago-silphion
+> https://news.ycombinator.com/item?id=32958252
+
 https://www.nature.com/articles/s41587-022-01431-x Cellulose shoes made by bacteria
 > https://news.ycombinator.com/item?id=32834765
 

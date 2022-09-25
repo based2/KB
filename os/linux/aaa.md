@@ -94,6 +94,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://github.com/redhat-performance/tuned Daemon for monitoring and adaptive tuning of system devices
+
 https://sahajsarup.com/a-tale-of-running-modern-linux-on-hardware-from-1997/
 > https://news.ycombinator.com/item?id=32424904
 

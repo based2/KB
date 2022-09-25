@@ -1,3 +1,7 @@
+https://epthinktank.eu/2022/06/24/metaverse-opportunities-risks-and-policy-implications/
+
+https://venturebeat.com/games/neal-stephensons-lamina1-drops-white-paper-on-building-the-open-metaverse/
+
 https://www.bloomberg.com/news/articles/2022-08-28/what-will-apple-call-its-ar-vr-headsets-reality-one-reality-pro-names-emerge
 
 https://github.com/StereoKit/StereoKit MS, zig

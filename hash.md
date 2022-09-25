@@ -92,6 +92,18 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://hackaday.io/project/178998-peac-pisano-with-end-around-carry-algorithm
+
+https://edps.europa.eu/sites/edp/files/publication/19-10-30_aepd-edps_paper_hash_final_en.pdf
+
+https://en.wikipedia.org/wiki/Fletcher%27s_checksum
+
+https://retr0.id/notice/ANqlvFZD1eIqjmRiFc
+> https://news.ycombinator.com/item?id=32956964
+
+https://suricrasia.online/unfiction/basilisk/ Collection of over 125 million partial hash inversions of the SHA-256 cryptographic hash function
+> https://news.ycombinator.com/item?id=32961650
+
 https://www.reddit.com/r/java/comments/xfrvqg/building_pathological_input_for_java_hashmaps/
 
 https://www.johndcook.com/blog/2022/09/04/computing-vin-checksums/

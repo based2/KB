@@ -67,3 +67,9 @@ https://netflixtechblog.com/formulating-out-of-memory-kill-prediction-on-the-net
 
 https://semiengineering.com/how-memory-design-optimizes-system-performance/
 > https://news.ycombinator.com/item?id=32925582
+
+https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/
+> https://news.ycombinator.com/item?id=32921910
+
+https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator
+> https://www.reddit.com/r/programming/comments/xmnfo8/untangling_lifetimes_the_arena_allocator/

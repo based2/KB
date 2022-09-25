@@ -52,3 +52,5 @@ http://impact.nace.org/economic-impact.aspx#
 
 https://pubmed.ncbi.nlm.nih.gov/34023789/
 > https://news.ycombinator.com/item?id=32286142
+
+https://thekidshouldseethis.com/post/koi-are-unusual-kitchen-helpers-in-the-kabata-of-harie-japan

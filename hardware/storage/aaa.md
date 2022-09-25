@@ -1,4 +1,6 @@
 # News
+https://news.ycombinator.com/item?id=32965075
+
 https://www.phoronix.com/news/Ubuntu-Zsys-0.5.9
 
 https://www.youtube.com/watch?v=l55GfAwa8RI Hardware Raid is Dead and is a Bad Idea in 2022 -> ZFS?

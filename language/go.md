@@ -97,6 +97,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://habr.com/en/company/badoo/blog/455608/ Bitmap indexes in Go: unbelievable search speed
+> https://news.ycombinator.com/item?id=32937930
+
 https://github.com/felixge/fgtrace experimental profiler/tracer that is capturing wallclock timelines for each goroutine. It's very similar to the Chrome profiler
 > https://news.ycombinator.com/item?id=32897962
 
@@ -107,7 +110,6 @@ https://github.com/openziti/goroutine-analyzer
 > https://news.ycombinator.com/item?id=32865510
 
 https://github.com/golang/go/discussions/54763 discussion: structured, leveled logging
-> 
 
 https://go.dev/blog/survey2022-q2-results
 > https://news.ycombinator.com/item?id=32767287

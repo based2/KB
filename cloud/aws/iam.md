@@ -41,6 +41,15 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://itnext.io/aws-iam-identity-center-access-tokens-are-stored-in-clear-text-and-no-thats-not-a-critical-68a48c1e398
+> https://www.reddit.com/r/netsec/comments/xkmicb/aws_iam_identity_center_access_tokens_are_stored/
+
+https://towardsaws.com/how-to-log-in-to-multiple-aws-accounts-the-easy-way-9cfd6ef0d628
+> https://www.reddit.com/r/aws/comments/xjopix/log_in_to_multiple_aws_accounts_in_one_browser/
+
+https://aws.amazon.com/en/blogs/security/announcing-an-update-to-iam-role-trust-policy-behavior/
+> https://www.reddit.com/r/aws/comments/xkmph9/announcing_an_update_to_iam_role_trust_policy/
+
 https://aws.amazon.com/en/blogs/security/managing-temporary-elevated-access-to-your-aws-environment/
 
 https://leebriggs.co.uk/blog/2022/09/05/authenticating-to-aws-the-right-way

@@ -3,6 +3,9 @@
 # Formats
 
 #
+https://theevilskeleton.gitlab.io/2022/08/29/traditional-packaging-is-not-suitable-for-modern-applications.html
+> https://news.ycombinator.com/item?id=32922901
+
 https://pythonspeed.com/articles/debugging-docker-build/
 
 https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar

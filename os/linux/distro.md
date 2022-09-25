@@ -69,6 +69,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://mxlinux.org/ XFCE, KDE, Fluxbox
+
 https://endeavouros.com/latest-release/ terminal-centric arch distro (antergos), Odroid and the Raspberry Pi, ARM using Calamares
 > https://calamares.io/about/
 > https://discovery.endeavouros.com/

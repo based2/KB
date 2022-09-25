@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://kevingal.com/blog/boardgame.html
+> https://news.ycombinator.com/item?id=32960758
+
 https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/
 > https://news.ycombinator.com/item?id=32851196
 

@@ -44,6 +44,9 @@ https://mizosoft.github.io/methanol/
 > https://www.reddit.com/r/java/comments/nctvb6/response_caching_with_javas_http_client_methanol/
 
 # JEE
+https://jakarta.ee/news/jakarta-ee-10-released/
+> https://news.ycombinator.com/item?id=32938457
+
 https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-release-of-jakarta-ee-8/
 
 https://www.reddit.com/r/java/comments/r5d7no/top_5_reasons_why_youll_love_the_jakarta_servlet/

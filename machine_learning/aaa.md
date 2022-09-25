@@ -218,6 +218,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://ai.googleblog.com/2022/09/tensorstore-for-high-performance.html
+
+https://jacobbrazeal.wordpress.com/2022/09/23/gpt-3-can-find-paths-up-to-7-nodes-long-in-random-graphs/
+> https://news.ycombinator.com/item?id=32949122
+
 https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/
 > https://news.ycombinator.com/item?id=32921145
 

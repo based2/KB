@@ -81,6 +81,11 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://softwaremill.com/migrating-from-akka-http-to-tapir/
+
+https://www.reddit.com/r/scala/comments/xl5nvy/akka_fork_something_is_brewing_at_apache/
+> https://github.com/mdedetrich/akka-apache
+
 https://www.reddit.com/r/scala/comments/x9vfxg/replacing_akka_streams_with_100_lines_of_code/
 
 https://flink.apache.org/news/2022/09/08/akka-license-change.html

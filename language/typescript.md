@@ -80,6 +80,14 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-beta/
+
+https://type-level-typescript.com/
+
+https://kaleidawave.github.io/posts/introducing-ezno/ type checker for JavaScript and optimiser for React
+> https://news.ycombinator.com/item?id=32941613
+
+
 https://type-level-typescript.com/
 > https://news.ycombinator.com/item?id=32913125
 

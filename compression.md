@@ -37,6 +37,12 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://anja.kefala.info/what-blocks-compassion.html
+> https://news.ycombinator.com/item?id=32931758
+
+https://en.wikipedia.org/wiki/Burrows%E2%80%93Wheeler_transform
+> https://news.ycombinator.com/item?id=32927886
+
 https://dotat.at/@/2022-07-01-dns-compress.html
 
 > https://lobste.rs/s/yu3czs/parallel_bzip2_pbzip2

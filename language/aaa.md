@@ -283,6 +283,12 @@ https://github.com/kovisoft/paredit
 https://news.ycombinator.com/item?id=32788281
 
 # News
+https://davidamos.dev/the-rule-of-six/
+> https://news.ycombinator.com/item?id=32963021
+
+https://debugagent.com/the-reason-java-is-still-popular
+> https://news.ycombinator.com/item?id=32942651
+
 https://www.fullpliant.org/
 > https://news.ycombinator.com/item?id=32924195
 

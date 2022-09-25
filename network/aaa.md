@@ -114,6 +114,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.satchell.net/ipstacks/ Free Book: Linux IP Stacks Commentary Annotates TCP/IP Code
+> https://news.ycombinator.com/item?id=32964278
+
 https://github.com/tonarino/innernet A private network system that uses WireGuard under the hood
 > https://news.ycombinator.com/item?id=32922609
 

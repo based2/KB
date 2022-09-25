@@ -124,6 +124,12 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/
+> https://www.reddit.com/r/netsec/comments/xkrb5a/breaking_bitbucket_pre_auth_remote_command/
+> https://news.ycombinator.com/item?id=32973523
+
+https://www.jenkins.io/security/advisory/2022-09-21/
+
 https://about.gitlab.com/releases/2022/08/30/critical-security-release-gitlab-15-3-2-released/
 
 https://cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-062.pdf CVE-2022-2884
@@ -212,6 +218,13 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://hawt.io/
+
+https://stackoverflow.blog/2022/09/19/i-spent-two-years-trying-to-do-what-backstage-does-for-free/
+> https://news.ycombinator.com/item?id=32909343
+> > https://clutch.sh/docs/about/what-is-clutch
+> https://backstage.io/
+
 https://devinterrupted.substack.com/p/solving-the-next-engineering-challenge
 > https://www.reddit.com/r/programming/comments/xk6d6e/completing_the_promise_of_cicd_with_continuous/
 

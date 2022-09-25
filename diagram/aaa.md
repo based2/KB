@@ -45,6 +45,8 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://math.ucr.edu/home/baez/twf_young.pdf
+
 https://nodes.io/
 
 https://excalidraw.com/

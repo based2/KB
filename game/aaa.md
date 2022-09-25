@@ -15,6 +15,12 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://github.com/webrcade/webrcade
+> https://news.ycombinator.com/item?id=32966874
+
+https://www.tibia.com/news/?subtopic=newsarchive&id=6917
+> https://news.ycombinator.com/item?id=32954951
+
 https://returntomonkeyisland.com/?abc
 
 http://www.dogbunnypuzzle.com/

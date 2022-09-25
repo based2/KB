@@ -73,6 +73,9 @@ https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 https://github.com/aws-samples/aws-lambda-unit-test-example
 
 # News
+https://sigpwned.com/2022/09/21/aws-lambda-base-images-for-java-19/
+> https://www.reddit.com/r/aws/comments/xk978u/communitymanaged_lambda_base_images_for_java_19/
+
 https://aws.amazon.com/en/blogs/compute/introducing-new-intrinsic-functions-for-aws-step-functions/
 
 https://aws.amazon.com/en/blogs/hpc/a-serverless-architecture-for-high-performance-financial-modelling/

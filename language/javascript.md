@@ -295,6 +295,9 @@ https://nathanfaucett.github.io/svelte-slate/
 
 https://github.com/rgossiaux/svelte-headlessui
 
+https://medium.com/@sveltestorm/sveltestorm-5-0-a-svelte-ide-like-no-other-c79da72d377e
+> https://news.ycombinator.com/item?id=32942947
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296
@@ -438,6 +441,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/nextapps-de/winbox
+> 
+
+https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/
+> https://news.ycombinator.com/item?id=32960638
+
 https://uppy.io/blog/2022/09/3.0/ Uploader
 
 https://dev.to/hemanth/updates-from-the-92nd-tc39-meeting-5fi6

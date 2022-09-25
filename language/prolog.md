@@ -41,3 +41,7 @@ https://twitter.com/mjt128/status/1500531457780948992 Scryer Prolog v.0.9.0, rus
 
 https://dl.acm.org/doi/pdf/10.1145/66068.66075 On Prolog and the Occur Check Problem (1989)
 > https://news.ycombinator.com/item?id=32436261
+
+https://ciao-lang.org/ciao/build/doc/ciao.html/
+> https://news.ycombinator.com/item?id=32948756
+> > https://ciao-lang.org/

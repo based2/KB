@@ -193,6 +193,8 @@ https://retool.com/blog/how-we-upgraded-postgresql-database/
 
 https://github.com/michelp/metagration
 
+https://www.crunchydata.com/blog/postgres-migration-pitstop-collations
+
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 
@@ -254,6 +256,13 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 > https://news.ycombinator.com/item?id=31366983
 
 # News
+https://pgmoneta.github.io/ Backup/Restore solution
+
+https://www.timescale.com/blog/postgresql-timescaledb-1000x-faster-queries-90-data-compression-and-much-more/
+> https://news.ycombinator.com/item?id=32940701
+
+https://blog.xa0.de/post/Extending-supabase-with-your-own-backend%20---%20its-supa-easy%21/
+
 https://www.crunchydata.com/blog/postgres-data-flow
 > https://news.ycombinator.com/item?id=32900123
 

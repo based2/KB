@@ -37,6 +37,8 @@ https://www.infoq.com/fr/news/2020/04/tls-alpn-java8/
 https://www.pixelstech.net/article/1603539831-Generate-signed-certificate-from-CSR-in-Java
 
 # News
+https://seanjmullan.org/blog/2022/09/22/jdk19 JDK 19 Security Enhancements
+
 https://www.reddit.com/r/netsec/comments/x2cdop/restricting_libraries_in_jvm_compute_platforms/
 
 https://github.com/andy-goryachev/MemSafeCrypto

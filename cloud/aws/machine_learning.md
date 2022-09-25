@@ -10,3 +10,5 @@ https://aws.amazon.com/en/about-aws/whats-new/2022/07/fine-grained-access-contro
 > https://www.reddit.com/r/aws/comments/w4rmza/aws_improving_their_emr_iam_integration_to_allow/
 
 https://aws.amazon.com/fr/blogs/machine-learning/distributed-training-with-amazon-eks-and-torch-distributed-elastic/
+
+https://medium.com/insiderengineering/monitoring-amazon-emr-step-failures-2a5ad1f04092

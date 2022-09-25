@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://github.com/roapi/roapi/blob/main/columnq-cli/README.md
+> https://news.ycombinator.com/item?id=32963900
+
 https://github.com/andialbrecht/sqlparse
 
 https://carlineng.com/?postid=malloy-intro#blog

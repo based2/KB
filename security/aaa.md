@@ -151,6 +151,9 @@ https://www.cs.uky.edu/~klapper/pdf/algebraic.pdf Algebraic Shift Register Seque
 https://desfontain.es/privacy/more-useful-results-dp.html
 
 #
+https://queue.acm.org/detail.cfm?id=3561799
+> https://www.reddit.com/r/netsec/comments/xn53z7/zero_trust_from_zero_to_one_hundred/
+
 https://stackoverflow.blog/2022/09/12/the-many-problems-with-implementing-single-sign-on/
 
 https://rdist.root.org/2011/01/17/stuxnet-is-embarrassing-not-amazing/

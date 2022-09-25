@@ -59,6 +59,11 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://club.greenit.fr/outils.html
+
+https://ecolyo.com/
+> https://linuxfr.org/news/ecolyo-pour-gerer-ses-consommations-d-eau-et-d-energie
+
 https://www.marthastewart.com/8315616/where-in-united-states-most-likely-to-experience-future-heat-waves
 
 https://iopscience.iop.org/article/10.1088/2515-7620/ac8cd3 A subpolar-focused stratospheric aerosol injection deployment scenario

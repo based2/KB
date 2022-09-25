@@ -12,6 +12,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/
+> https://news.ycombinator.com/item?id=32960833
+
 https://news.ycombinator.com/item?id=32917340
 
 https://github.com/gorhill/uBlock/blob/master/platform/mv3/description/en.md

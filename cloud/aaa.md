@@ -90,6 +90,13 @@ https://www.theregister.com/2020/08/05/google_introduces_cloudy_certificate_auth
 
 # LB certificate termination data-in-transit gap
 
+# Comparison
+https://apisix.apache.org/blog/2022/08/12/arm-performance-google-aws-azure-with-apisix/
+> https://news.ycombinator.com/item?id=32967620
+
+https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
+> https://news.ycombinator.com/item?id=32931096
+
 # Incidents
 https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access
 > https://news.ycombinator.com/item?id=32913221

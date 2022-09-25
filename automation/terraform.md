@@ -63,6 +63,8 @@ https://www.phillipsj.net/posts/terra-weather-a-weather-app-using-terraform/
 # Modules
 https://medium.com/immuta-engineering/terraform-engineering-strategies-part-1-make-your-modules-thread-safe-1a7fdf1c2a2c
 
+https://github.com/verifa/terraplate DRY Terraform with Go Templates
+
 # Sec
 
 https://terraform-compliance.com/
@@ -109,6 +111,10 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://github.com/dineshba/tf-summarize A command-line utility to print the summary of the terraform plan
+
+https://github.com/padok-team/tfautomv refactor
+
 https://github.com/hashicorp/terraform-config-inspect monorepo
 
 https://github.com/magodo/tfadd Generate valid Terraform configuration from state

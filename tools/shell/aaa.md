@@ -87,7 +87,7 @@ http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-
 > https://news.ycombinator.com/item?id=28104657
 
 # News
-https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html
+https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html rust
 > https://news.ycombinator.com/item?id=30772042
 
 https://xon.sh/ python

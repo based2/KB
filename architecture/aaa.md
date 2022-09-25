@@ -235,6 +235,12 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://twitchard.github.io/posts/2022-09-23-system-dynamics-schmystem-dynamics.html
+> https://news.ycombinator.com/item?id=32970265
+
+https://acceldataio.medium.com/data-engineering-best-practices-how-netflix-keeps-its-data-infrastructure-cost-effective-dee310bcc910
+> https://news.ycombinator.com/item?id=32969400
+
 https://blog.frankel.ch/backend-for-frontend/
 > https://news.ycombinator.com/item?id=32919425
 

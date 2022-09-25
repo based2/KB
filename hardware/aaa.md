@@ -75,6 +75,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.angstronomics.com/p/ps5-refresh-oberon-plus
+> https://news.ycombinator.com/item?id=32971646
+
 https://chipsandcheese.com/2022/09/18/hot-chips-34-amds-instinct-mi200-architecture/
 
 https://github.com/nviennot/core-to-core-latency Measuring CPU core-to-core latency

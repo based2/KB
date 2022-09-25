@@ -43,3 +43,6 @@ https://www.levien.com/free/decommoditizing.html
 
 https://buf.build/blog/protobuf-language-specification
 > https://news.ycombinator.com/item?id=32812873
+
+https://www.netmeister.org/blog/whois.html
+> https://news.ycombinator.com/item?id=32963417

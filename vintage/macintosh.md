@@ -98,6 +98,9 @@ http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/2
 https://news.ycombinator.com/item?id=27409410
 
 #
+http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/mac/pink/Apple_Big_Pink_3_Mar1990.pdf Taligent, the Apple/IBM JV
+> https://news.ycombinator.com/item?id=32950099
+
 https://github.com/jaromaz/MacintoshPi
 > https://news.ycombinator.com/item?id=32000233
 

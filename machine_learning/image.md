@@ -54,7 +54,13 @@ https://www.unlimiteddreamco.xyz/2022/04/06/how-to-use-initital-images-with-vqga
 
 https://github.com/Rayhane-mamah/Efficient-VDVAE
 
+https://thisxdoesnotexist.com/
+> https://news.ycombinator.com/item?id=32969263
+
 # text2img
+https://github.com/krea-ai/open-prompts
+> https://news.ycombinator.com/item?id=32943224
+
 https://matthias-buehlmann.medium.com/stable-diffusion-based-image-compresssion-6f1f0a399202
 > https://news.ycombinator.com/item?id=32907494
 
@@ -170,6 +176,9 @@ https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer 
 > https://news.ycombinator.com/item?id=32779930
 
 #
+https://www.mmlab-ntu.com/project/vtoonify/ Controllable High-Resolution Portrait Video Style Transfer
+> https://news.ycombinator.com/item?id=32962616
+
 https://www.theverge.com/2022/9/21/23364696/getty-images-ai-ban-generated-artwork-illustration-copyright
 > https://news.ycombinator.com/item?id=32926073
 

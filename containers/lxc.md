@@ -11,6 +11,9 @@ https://databricks.com/blog/2022/01/26/creating-a-faster-tar-extractor.html
 https://earthly.dev/blog/lxc-vs-docker/
 > https://news.ycombinator.com/item?id=30385580
 
+https://lwn.net/Articles/907613/ LXC and LXD: a different container story
+> https://news.ycombinator.com/item?id=32953225
+
 https://discuss.linuxcontainers.org/t/lxd-5-0-lts-has-been-released/13723
 
 https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/

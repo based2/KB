@@ -143,6 +143,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://bigthink.com/starts-with-a-bang/earth-across-universe/
+> https://news.ycombinator.com/item?id=32929063
+
 https://www.nasa.gov/feature/goddard/2022/new-webb-image-captures-clearest-view-of-neptune-s-rings-in-decades/
 > https://news.ycombinator.com/item?id=32927156
 

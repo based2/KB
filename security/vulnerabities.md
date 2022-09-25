@@ -49,6 +49,9 @@ https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/
 > https://github.com/usnistgov/vulntology NIST Vulnerability Data Ontology
 
 # News
+https://blog.ceriksen.com/2022/09/24/the-privileges-required-trap-in-cvss-3-1/
+> https://www.reddit.com/r/netsec/comments/xmvwq9/the_privileges_required_trap_in_cvss_31/
+
 https://attackerkb.com/topics/RHuGSieFJe/cve-2021-38406
 > https://www.reddit.com/r/netsec/comments/x3yfce/cve202138406_or_cisa_kev_catalog_lacks/
 

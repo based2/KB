@@ -49,3 +49,6 @@ https://github.com/timvisee/ffsend
 https://github.com/buxx/trsync Synchronize local folder with remote Tracim shared spaces.
 > https://linuxfr.org/news/premiere-version-grand-public-de-trsync
 
+https://www.ditto.live/
+> https://news.ycombinator.com/item?id=32934849
+

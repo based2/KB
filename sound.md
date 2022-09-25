@@ -27,6 +27,15 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://learnabout-electronics.org/Semiconductors/opto_53.php Audio Optocouplers
+> https://news.ycombinator.com/item?id=32966518
+
+https://gitlab.com/then-try-this/samplebrain
+> https://news.ycombinator.com/item?id=32957020
+
+https://www.protocol.com/entertainment/google-dolby-atmos-vision-project-caviar
+> https://news.ycombinator.com/item?id=32941051
+
 https://www.amplifiedparts.com/tech-articles/spring-reverb-tanks-explained-and-compared
 > https://news.ycombinator.com/item?id=32861348
 

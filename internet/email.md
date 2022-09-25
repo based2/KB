@@ -56,6 +56,8 @@ https://linuxfr.org/news/sortie-de-rspamd-3-2-le-26-mars-2022-avec-support-bimi
 
 https://www.signal-spam.fr/
 
+https://phishing-initiative.fr/contrib/
+
 # Security
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/

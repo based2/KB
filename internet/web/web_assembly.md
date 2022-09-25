@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/adamziel/wordpress-wasm
+> https://news.ycombinator.com/item?id=32960560
+
 https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready
 > https://news.ycombinator.com/item?id=32913533
 

@@ -65,6 +65,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://en.wikipedia.org/wiki/Code_property_graph
+
 https://dominikbraun.io/blog/graphs/reducing-graph-complexity-using-go-and-transitive-reduction/
 
 https://github.com/dominikbraun/graph go

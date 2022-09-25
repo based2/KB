@@ -12,6 +12,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://jeromeaparis.substack.com/p/financing-offshore-wind-part-1
+> https://news.ycombinator.com/item?id=32926463
+
+https://ecorenovator.org/forum/showthread.php?p=2631#post2631 The Homemade Heat Pump Manifesto
+> https://news.ycombinator.com/item?id=32959850
+
 https://en.wikipedia.org/wiki/2000-watt_society
 > https://news.ycombinator.com/item?id=32899656
 

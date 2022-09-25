@@ -16,6 +16,14 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.nrel.gov/news/press/2022/catalytic-process-with-lignin-could-enable-100-sustainable-aviation-fuel.html
+> https://news.ycombinator.com/item?id=32968827
+
+https://www.av8n.com/how/htm/airfoils.html
+
+https://www.flightglobal.com/airframers/engine-makers-sound-downbeat-on-supersonic-leaving-boom-in-a-bind/150215.article
+> 
+
 https://www.flyingmag.com/cirrus-vision-jet-pilot-pulls-chute-in-florida/
 > https://news.ycombinator.com/item?id=32799285
 

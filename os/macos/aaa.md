@@ -107,7 +107,11 @@ https://developer.apple.com/xcode-cloud/
 
 https://github.com/sebsto/xcodeinstall
 
+https://news.ycombinator.com/item?id=32971599 Ask HN: Xcode users – how do you make it more usable?
+
 # M2
+https://www.macworld.com/article/819644/m2-macbook-air-usb-c-67w-35w-dual-compact-charger.html
+
 https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa
 > https://news.ycombinator.com/item?id=32874189
 
@@ -264,6 +268,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://applewatchrunner.substack.com/p/apple-watch-running-review
+> https://news.ycombinator.com/item?id=32971085
+
 https://browser.geekbench.com/v5/cpu/17124579 Apple A16 Geekbench
 
 https://twitter.com/nikitonsky/status/1557357661171204098 Weird stuff found in redesigned macOS Ventura System Settings app

@@ -113,6 +113,15 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://faultlore.com/blah/oops-that-was-important/ Compiler Optimizations Are Hard Because They Forget
+> https://www.reddit.com/r/programming/comments/xn4yr9/compiler_optimizations_are_hard_because_they/
+
+https://github.com/jzimmerman/langcc Next-Generation Compiler Compiler
+> https://news.ycombinator.com/item?id=32949019
+
+https://lemire.me/blog/2022/09/23/optimizing-compilers-deduplicate-strings-and-arrays/
+> https://news.ycombinator.com/item?id=32957932
+
 https://sciml.ai/news/2022/09/21/compile_time/
 > https://news.ycombinator.com/item?id=32924042
 

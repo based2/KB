@@ -1,3 +1,28 @@
+https://feed.prelude.org/p/cve-2022-35256 nodejs
+> https://www.reddit.com/r/netsec/comments/xm68a2/cve202235256_http_request_smuggling_in_nodejs/
+
+https://terjanq.medium.com/waf-bypasses-via-0days-d4ef1f212ec
+
+https://claroty.com/team82/research/jumping-nat-to-shut-down-electric-devices
+> https://www.reddit.com/r/netsec/comments/xjigou/cool_attack_bypassing_nat_and_firewalls_to_shut/
+
+https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft
+> https://news.ycombinator.com/item?id=32967628
+
+https://support.apple.com/en-us/HT213446
+
+https://success.trendmicro.com/dcx/s/solution/000291528?language=en_US
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workarounds-for-windows-group-policy-issues/
+
+https://www.bleepingcomputer.com/news/security/sophos-warns-of-new-firewall-rce-bug-exploited-in-attacks/
+
+https://www.zerodayinitiative.com/blog/2022/9/19/mindshare-analyzing-bsd-kernels-with-binary-ninja
+
+https://snyk.io/blog/explaining-the-csurf-vulnerability-csrf-attacks-on-all-versions/
+
+https://www.bleepingcomputer.com/news/security/unpatched-15-year-old-python-bug-allows-code-execution-in-350k-projects/
+
 https://arxiv.org/abs/2209.09835 EM-Fault It Yourself: Building a Replicable EMFI Setup for Desktop and Server Hardware
 > https://news.ycombinator.com/item?id=32922951
 
