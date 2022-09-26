@@ -107,6 +107,9 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://www.computerenhance.com/p/turns-are-better-than-radians
+> https://news.ycombinator.com/item?id=32980782
+
 https://en.wikipedia.org/wiki/Monte_Carlo_method#History
 > https://news.ycombinator.com/item?id=32886533
 

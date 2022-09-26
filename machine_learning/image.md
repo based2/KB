@@ -58,6 +58,9 @@ https://thisxdoesnotexist.com/
 > https://news.ycombinator.com/item?id=32969263
 
 # text2img
+https://github.com/TheLastBen/fast-stable-diffusion
+> https://news.ycombinator.com/item?id=32985716
+
 https://github.com/krea-ai/open-prompts
 > https://news.ycombinator.com/item?id=32943224
 

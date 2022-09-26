@@ -137,6 +137,14 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+http://boston.conman.org//2022/09/22.1
+> https://news.ycombinator.com/item?id=32969374
+
+https://unencumberedbyfacts.com/2019/01/24/jmap-its-like-imap-but-not-really/
+> https://news.ycombinator.com/item?id=32978005
+
+https://news.ycombinator.com/item?id=32973303
+
 https://www.betterbird.eu/##
 > https://news.ycombinator.com/item?id=32920235
 

@@ -121,6 +121,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://branch.climateaction.tech/issues/issue-4/cows/
+> https://news.ycombinator.com/item?id=32972231
+
 https://www.fcc.gov/fcc-sets-september-12-and-13-test-dates-wireless-emergency-alerts
 > https://news.ycombinator.com/item?id=32858059
 

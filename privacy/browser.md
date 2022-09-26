@@ -12,6 +12,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.ghostery.com/blog/manifest-v3-the-ghostery-perspective
+> https://news.ycombinator.com/item?id=32983565
+
 https://www.ghacks.net/2022/09/24/mozilla-reaffirms-that-firefox-will-continue-to-support-current-content-blockers/
 > https://news.ycombinator.com/item?id=32960833
 

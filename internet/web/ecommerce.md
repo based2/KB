@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.bedelstein.com/post/mcmaster-carr
+> https://news.ycombinator.com/item?id=32976978
+
 https://www.pcmag.com/news/heres-why-craigslist-still-looks-the-same-after-25-plus-years
 > https://news.ycombinator.com/item?id=32862803
 

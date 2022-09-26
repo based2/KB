@@ -54,6 +54,9 @@ https://martin.kleppmann.com/papers/bft-crdt-papoc22.pdf Making CRDTs Byzantine 
 
 https://automerge.org/
 
+https://arxiv.org/abs/2205.12425 Katara: Synthesizing CRDTs with Verified Lifting
+> https://news.ycombinator.com/item?id=32977887
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913
@@ -125,6 +128,9 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 https://github.com/logsem/aneris coq, ocaml
 
 # News
+https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering
+> https://news.ycombinator.com/item?id=32977970
+
 https://qworum.net/en/
 > https://lobste.rs/s/pxwg6f/qworum_platform_for_distributed_web
 

@@ -493,6 +493,9 @@ https://changelog.com/posts/the-big-idea-around-unikernels
 > https://nanos.org/
 > > https://news.ycombinator.com/item?id=29429489
 
+https://nanovms.com/dev/tutorials/cross-region-unikernels-edge
+> https://news.ycombinator.com/item?id=32986713
+
 https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html
 > https://news.ycombinator.com/item?id=29411566
 

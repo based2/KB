@@ -80,10 +80,15 @@ https://jvns.ca/blog/2021/09/10/hashmaps-make-things-fast/
 https://karpov2007.medium.com/everybody-makes-mistakes-when-writing-comparison-functions-9cd49ea35088
 
 # Society
+https://ivanludvig.github.io/blog/2022/09/25/k-means-d3.html
+
 https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-over-risks-of-using-algorithms/
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://www.joeantonakakis.com/posts/divide-without-division-operator/
+> https://news.ycombinator.com/item?id=32972763
+
 https://www.cs.drexel.edu/~csgordon/papers/oopsla12.pdf parallel
 
 https://the-algorithms.com

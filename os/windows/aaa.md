@@ -128,6 +128,10 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/
+
+https://devblogs.microsoft.com/dotnet/microsoft-commerce-dotnet-6-journey/
+
 https://www.windowscentral.com/software-apps/windows-11/former-microsoft-director-of-user-experience-trashes-windows-11-start-menu
 > https://news.ycombinator.com/item?id=32657981
 

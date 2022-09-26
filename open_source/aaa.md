@@ -230,6 +230,14 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://navendu.me/posts/non-code-contributions-to-open-source/
+> https://news.ycombinator.com/item?id=32981383
+
+https://debugagent.com/open-source-bait-and-switch
+> https://news.ycombinator.com/item?id=32982019
+
+https://fossweekly.beehiiv.com/p/foss-weekly-18-gnome-43-fsf-awards-systemd-in-wsl-releases-more
+
 https://tailscale.com/blog/opensource/
 > https://news.ycombinator.com/item?id=32915506
 

@@ -218,6 +218,15 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://casparwre.de/blog/webapp-python-deployment/ blue green
+>
+
+http://howardism.org/Technical/Emacs/literate-devops.html
+> https://news.ycombinator.com/item?id=32949419
+
+https://fusectore.dev/2022/09/25/github-actions-pitfalls.html
+> https://news.ycombinator.com/item?id=32970198
+
 https://hawt.io/
 
 https://stackoverflow.blog/2022/09/19/i-spent-two-years-trying-to-do-what-backstage-does-for-free/

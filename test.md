@@ -56,6 +56,9 @@ https://loadjitsu.com/
 
 https://slack.engineering/continuous-load-testing/
 
+https://www.marcobehler.com/guides/load-testing
+> https://news.ycombinator.com/item?id=32960566
+
 # CDC
 https://martinfowler.com/articles/consumerDrivenContracts.html
 

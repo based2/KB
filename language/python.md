@@ -240,6 +240,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+http://blog.dowski.com/2008/07/31/customizing-the-python-import-system/
+
 https://github.com/Miksus/rocketry Modern scheduling library for Python
 > https://news.ycombinator.com/item?id=32935506
 

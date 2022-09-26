@@ -283,6 +283,9 @@ https://github.com/kovisoft/paredit
 https://news.ycombinator.com/item?id=32788281
 
 # News
+https://wiki.alopex.li/WirthEvolution
+> https://lobste.rs/s/flcjqg/wirth_language_evolution
+
 https://davidamos.dev/the-rule-of-six/
 > https://news.ycombinator.com/item?id=32963021
 

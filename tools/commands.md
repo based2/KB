@@ -44,6 +44,14 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://kau.sh/blog/awk-1-oneliner-dollar-explanation/ What does $0=$2 in awk do?
+> https://news.ycombinator.com/item?id=32969238
+
+https://raf.org/rawhide/README.html find
+> https://news.ycombinator.com/item?id=32970069
+
+https://leancrew.com/all-this/2022/09/reshaping-text/
+
 https://github.com/Angelmmiguel/fu du
 
 https://lym.readthedocs.io/en/latest/index.html

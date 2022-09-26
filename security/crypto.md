@@ -50,6 +50,7 @@ https://en.wikipedia.org/wiki/Key_encapsulation
 
 # Tools
 https://github.com/FiloSottile/age
+> https://news.ycombinator.com/item?id=32980141
 > https://github.com/FiloSottile/age/releases/tag/v1.1.0-rc.1 yubikey
 > > https://news.ycombinator.com/item?id=31705670
 > https://linuxfr.org/news/sortie-de-la-version-1-0-0-de-age

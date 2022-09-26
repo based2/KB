@@ -1,3 +1,16 @@
+https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html
+> https://www.reddit.com/r/netsec/comments/xogjl7/microsoft_shift_f10_bypass_autopilot_privilege/
+
+https://blintzbase.com/posts/pir-and-fhe-from-scratch/ Explained from scratch: private information retrieval using homomorphic encryption
+
+https://pages.cs.wisc.edu/~mkowalcz/628.pdf How to explain zero-knowledge protocols to your children (1998)
+> https://news.ycombinator.com/item?id=32951001
+
+https://blog.cloudflare.com/the-first-zero-trust-sim/
+> https://news.ycombinator.com/item?id=32982697
+
+https://www.whatsapp.com/security/advisories/2022/
+
 https://feed.prelude.org/p/cve-2022-35256 nodejs
 > https://www.reddit.com/r/netsec/comments/xm68a2/cve202235256_http_request_smuggling_in_nodejs/
 
@@ -119,8 +132,6 @@ https://vigilance.fr/vulnerabilite/Docker-Engine-Moby-elevation-de-privileges-vi
 
 https://thenewstack.io/the-different-token-types-and-formats-explained/
 
-https://security.googleblog.com/2022/09/fuzzing-beyond-memory-corruption.html
-
 https://medium.com/@bobbyrsec/gifshell-covert-attack-chain-and-c2-utilizing-microsoft-teams-gifs-1618c4e64ed7
 > https://www.reddit.com/r/netsec/comments/xa4wcr/gifshell_covert_attack_chain_and_c2_utilizing/
 
@@ -200,9 +211,6 @@ https://www.samsung.com/us/support/securityresponsecenter/
 > https://thecrow.uk/in-wake-of-epic-data-breach-samsung-forcing-users-to-accept-new-terms-or-risk-their-data/
 
 https://www.bleepingcomputer.com/news/security/chrome-extensions-with-14-million-installs-steal-browsing-data/
-
-https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/ 
-> https://news.ycombinator.com/item?id=32664270
 
 https://news.ycombinator.com/item?id=32662385 Ask HN: IT Security Checklist for Startups?
 
@@ -715,7 +723,6 @@ https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-wh
 
 https://documentation.suse.com/sbp/server-linux/html/SBP-SLSA4/index.html
 
-https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/
 
 https://jfrog.com/blog/denial-of-service-vulnerability-in-envoy-proxy-cve-2022-29225/
 
@@ -1033,9 +1040,6 @@ https://offsec.almond.consulting/authenticating-with-certificates-when-pkinit-is
 
 https://r0075h3ll.github.io/CSP-for-Dummies/
 
-https://secret.club/2022/05/11/fuzzing-solana.html
-> https://news.ycombinator.com/item?id=31346190
-
 https://cybergeeks.tech/powershell-scripts-used-to-run-malicious-shellcode-reverse-shell-vs-bind-shell/
 
 https://portswigger.net/research/hunting-evasive-vulnerabilities
@@ -1071,8 +1075,6 @@ https://vigilance.fr/vulnerabilite/Microcode-Intel-multiples-vulnerabilites-3833
 
 https://storage.googleapis.com/gweb-uniblog-publish-prod/documents/AMD_GPZ-Technical_Report_FINAL_05_2022.pdf
 > https://www.amd.com/en/corporate/product-security/bulletin/amd-sb-1028
-
-https://blog.silentsignal.eu/2021/10/14/fuzzy-snapshots-of-firefox-ipc/
 
 https://www.varonis.com/blog/url-spoofing
 
@@ -1606,8 +1608,6 @@ https://www.cidersecurity.io/top-10-cicd-security-risks/
 
 https://github.com/mikeroyal/Open-Source-Security-Guide
 
-https://github.com/Rog3rSm1th/Frelatage Python fuzzer
-
 https://www.trendmicro.com/en_us/research/22/c/cyclops-blink-sets-sights-on-asus-routers--.html
 
 https://grsecurity.net/Compilers_The_Old_New_Security_Frontier_BlueHat_IL_2022.pdf
@@ -1972,10 +1972,6 @@ https://www.shielder.it/advisories/pfsense-remote-command-execution/
 
 https://www.iot-inspector.com/blog/advisory-western-digital-my-cloud-pro-series-pr4100-rce/
 
-https://kazet.cc/2022/02/03/fuzzing-wordpress-plugins.html
-
-https://medium.com/airtable-eng/stateful-model-based-database-fuzzing-eacffb4d7337
-
 https://research.ifcr.dk/certipy-2-0-bloodhound-new-escalations-shadow-credentials-golden-certificates-and-more-34d1c26f0dc6
 > https://www.reddit.com/r/netsec/comments/sw9w19/certipy_20_bloodhound_new_domain_privilege/
 
@@ -2156,9 +2152,6 @@ https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-bugs-in-rv-r
 https://medium.com/tenable-techblog/trendnet-ac2600-rce-via-wan-8926b29908a4
 
 https://www.varonis.com/blog/power-automate-data-exfiltration
-
-https://portswigger.net/daily-swig/snapfuzz-new-fuzzing-tool-speeds-up-testing-of-network-applications
-> https://news.ycombinator.com/item?id=30191854
 
 https://portswigger.net/daily-swig/bittersweet-symfony-devs-accidentally-turn-off-csrf-protection-in-php-framework
 > https://news.ycombinator.com/item?id=30195024
@@ -3009,9 +3002,6 @@ https://nvd.nist.gov/vuln/detail/CVE-2021-40529 ElGamal implementation in Botan 
 
 https://portswigger.net/daily-swig/microsoft-fixes-reflected-xss-in-exchange-server
 
-https://github.com/matusf/openapi-fuzzer
-> https://news.ycombinator.com/item?id=29231804
-
 https://www.wired.com/2015/12/researchers-solve-the-juniper-mystery-and-they-say-its-partially-the-nsas-fault/
 
 https://comsec.ethz.ch/research/dram/blacksmith/
@@ -3075,9 +3065,6 @@ https://arstechnica.com/gadgets/2021/11/vpn-vulnerability-on-10k-servers-has-sev
 
 https://research.nccgroup.com/2021/10/27/public-report-whatsapp-end-to-end-encrypted-backups-security-assessment/
 > https://news.ycombinator.com/item?id=29181513
-
-https://security.googleblog.com/2021/11/clusterfuzzlite-continuous-fuzzing-for.html
-> https://news.ycombinator.com/item?id=29188664
 
 https://www.schneier.com/blog/archives/2021/11/advice-for-personal-digital-security.html
 > https://arstechnica.com/information-technology/2021/10/securing-your-digital-life-part-2/
@@ -3634,9 +3621,6 @@ https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-spark
 https://threatpost.com/air-gap-attack-turns-memory-wifi/162358/
 > https://news.ycombinator.com/item?id=28378288
 
-https://adalogics.com/blog/fuzzing-100-open-source-projects-with-oss-fuzz
-> https://news.ycombinator.com/item?id=28391620
-
 https://github.com/riscv/riscv-crypto/releases/tag/v1.0.0-rc2-scalar
 
 https://spectrum.ieee.org/the-scandalous-history-of-the-last-rotor-cipher-machine
@@ -4116,8 +4100,6 @@ https://9to5google.com/2021/06/15/google-messages-encryption/
 > https://news.ycombinator.com/item?id=27525894
 
 https://rog3rsm1th.github.io/posts/sigreturn-oriented-programming/
-
-https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
 
 https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-microsoft-teams-through-malicious-tabs-a7e5ff07b138
 

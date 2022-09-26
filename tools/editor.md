@@ -214,6 +214,12 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/darius/halp Run programs in the Emacs buffer holding their source, seeing their output inline, interactively.
+> https://news.ycombinator.com/item?id=32969253
+
+https://holonforth.com/
+> https://news.ycombinator.com/item?id=32984731
+
 https://github.com/fosslife/devtools-x
 > https://news.ycombinator.com/item?id=32898679
 

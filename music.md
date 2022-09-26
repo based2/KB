@@ -154,6 +154,9 @@ https://ianthehenry.com/posts/binary-instrument/
 https://fretastic.com/guitar
 > https://news.ycombinator.com/item?id=30250777
 
+https://muted.io/guitar-chords/ Show HN: A Little Tool to Visualize Guitar Chords
+> https://news.ycombinator.com/item?id=32976832
+
 https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6
 > https://news.ycombinator.com/item?id=30467328
 

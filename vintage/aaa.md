@@ -53,6 +53,9 @@ https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer
 https://en.wikipedia.org/wiki/Z1_(computer)
 
 #
+https://www.copetti.org/writings/consoles/playstation-2/
+> https://news.ycombinator.com/item?id=32984074
+
 https://www.markround.com/blog/2021/12/21/devops-for-the-sinclair-spectrum-part-1/
 > https://news.ycombinator.com/item?id=31134121
 

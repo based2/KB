@@ -52,3 +52,5 @@ https://github.com/buxx/trsync Synchronize local folder with remote Tracim share
 https://www.ditto.live/
 > https://news.ycombinator.com/item?id=32934849
 
+https://news.ycombinator.com/item?id=32984103 Launch HN: Prequel (YC W21) – Sync data to your customer’s data warehouse
+

@@ -62,9 +62,13 @@ https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-pla
 
 ## Cayley - groups
 http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  OF  CAYLEY  GRAPHS
+
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://github.com/TimoKats/inspyr
+> https://news.ycombinator.com/item?id=32960089
+
 https://en.wikipedia.org/wiki/Code_property_graph
 
 https://dominikbraun.io/blog/graphs/reducing-graph-complexity-using-go-and-transitive-reduction/

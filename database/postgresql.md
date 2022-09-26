@@ -255,6 +255,9 @@ https://stackgres.io/blog/easily-running-babelfish-for-postgresql-on-kubernetes/
 https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kubernetes-operator-postgres
 > https://news.ycombinator.com/item?id=31366983
 
+https://nhost.io/blog/individual-postgres-instances
+> https://news.ycombinator.com/item?id=32986325
+
 # News
 https://pgmoneta.github.io/ Backup/Restore solution
 

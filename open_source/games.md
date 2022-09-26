@@ -59,6 +59,8 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://onfoss.libregaming.org/host.html
+
 https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/
 
 https://www.freeciv.org/

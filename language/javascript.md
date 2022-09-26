@@ -253,6 +253,8 @@ https://ngneat.github.io/transloco/ i18n
 https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296
 > https://news.ycombinator.com/item?id=29103656
 
+https://compodoc.app/
+
 # Elm
 https://elm-pages.com/blog/introducing-v2/
 > https://news.ycombinator.com/item?id=28057494

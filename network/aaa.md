@@ -114,6 +114,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://systemsapproach.substack.com/p/quic-is-not-a-tcp-replacement
+> https://news.ycombinator.com/item?id=32983243
+
 https://www.satchell.net/ipstacks/ Free Book: Linux IP Stacks Commentary Annotates TCP/IP Code
 > https://news.ycombinator.com/item?id=32964278
 

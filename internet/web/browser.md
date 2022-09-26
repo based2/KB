@@ -30,6 +30,12 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://zakird.com/papers/browsing.pdf A World Wide View of Browsing the World Wide Web
+> https://news.ycombinator.com/item?id=32955307
+
+https://research.mozilla.org/browser-competition/
+> https://news.ycombinator.com/item?id=32985713
+
 https://github.com/lukeaschenbrenner/TxtNet-Browser
 > https://news.ycombinator.com/item?id=32905496
 

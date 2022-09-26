@@ -99,6 +99,11 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://notmyplate.com/whitepaper/
+> https://news.ycombinator.com/item?id=32980040
+
+https://interactives.dallasnews.com/2022/social-sentinel/
+
 https://www.europarl.europa.eu/news/en/press-room/20220516IPR29641/digital-markets-act-ep-committee-endorses-agreement-with-council
 
 https://www.europarl.europa.eu/news/en/press-room/20220412IPR27111/digital-services-act-agreement-for-a-transparent-and-safe-online-environment

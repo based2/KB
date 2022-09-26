@@ -97,6 +97,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://go.dev/blog/go119runtime
+> https://news.ycombinator.com/item?id=32987160
+
 https://habr.com/en/company/badoo/blog/455608/ Bitmap indexes in Go: unbelievable search speed
 > https://news.ycombinator.com/item?id=32937930
 

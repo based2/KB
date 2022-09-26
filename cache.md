@@ -36,6 +36,9 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 > https://news.ycombinator.com/item?id=29388588
 
 # News
+https://blog.acolyer.org/2018/10/26/robinhood-tail-latency-aware-caching-dynamic-reallocation-from-cache-rich-to-cache-poor/
+> https://news.ycombinator.com/item?id=32985096
+
 https://www.learncsdesign.com/an-overview-of-distributed-caching/
 > https://news.ycombinator.com/item?id=32147915
 

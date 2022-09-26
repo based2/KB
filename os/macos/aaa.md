@@ -72,6 +72,9 @@ https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/
 
 https://www.mandiant.com/resources/blog/reviewing-macos-unified-logs
 
+https://objective-see.org/tools.html
+> https://news.ycombinator.com/item?id=32979796
+
 # Dev
 https://thescottkrause.com/emerging_tech/new_macbook_setup_for_dev/
 

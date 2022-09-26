@@ -146,6 +146,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://www.edge.org/adversarial-collaboration-daniel-kahneman
+> https://news.ycombinator.com/item?id=32978355
+
 https://abseil.io/resources/swe-book/html/ch07.html#selecting_meaningful_metrics_with_goals
 > https://news.ycombinator.com/item?id=32835576
 

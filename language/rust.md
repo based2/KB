@@ -392,6 +392,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://news.ycombinator.com/item?id=32984776 Ask HN: What's the best “higher level Rust” these days?
+
 https://blocr.github.io/posts/fractal_generation.html
 > https://news.ycombinator.com/item?id=32843145
 

@@ -105,6 +105,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://saveall.ai/blog/learning-is-remembering
+> https://news.ycombinator.com/item?id=32982513
+
 https://foldscope.com/
 > https://news.ycombinator.com/item?id=32864413
 

@@ -34,6 +34,9 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://www.severe-weather.eu/global-weather/polar-vortex-early-disruptive-event-winter-influence-united-states-europe-fa/
+> https://news.ycombinator.com/item?id=32985927
+
 https://news.ycombinator.com/item?id=32879868
 
 https://www.spaceweather.gov/homepage

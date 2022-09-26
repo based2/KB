@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://nicktasios.nl/posts/simulating-a-crt-tv-with-c++-and-opengl.html
+> https://news.ycombinator.com/item?id=32969342
+
 https://incoherency.co.uk/blog/stories/nightdrive.html
 > https://news.ycombinator.com/item?id=32947303
 

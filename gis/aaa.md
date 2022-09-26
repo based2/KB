@@ -205,6 +205,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://jooonas.medium.com/offline-map-test-on-apple-watch-ultra-3b73541cec52
+> https://news.ycombinator.com/item?id=32978057
+
 https://github.com/msiric/feasible-route-mapping
 
 https://github.com/roboflow-ai/dji-aerial-georeferencing

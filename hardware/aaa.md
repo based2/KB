@@ -75,6 +75,17 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.phoronix.com/review/amd-ryzen-7900x-7950x-linux
+> https://news.ycombinator.com/item?id=32982988
+
+https://stratechery.com/2022/nvidia-in-the-valley/
+> https://news.ycombinator.com/item?id=32983297
+
+https://www.mersenneforum.org/showthread.php?p=614191 Zen4 AVX512
+> https://news.ycombinator.com/item?id=32983406
+
+https://www.reuters.com/technology/exclusive-italy-intel-pick-veneto-preferred-region-new-chip-plant-sources-2022-09-25/
+
 https://www.angstronomics.com/p/ps5-refresh-oberon-plus
 > https://news.ycombinator.com/item?id=32971646
 

@@ -46,6 +46,8 @@ https://dundalek.com/grammkit/
 
 #
 https://math.ucr.edu/home/baez/twf_young.pdf
+> https://news.ycombinator.com/item?id=32970404
+> > https://ncatlab.org/nlab/show/Lawvere%27s+fixed+point+theorem
 
 https://nodes.io/
 

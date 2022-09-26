@@ -57,6 +57,10 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 # News
 https://openziti.io/openziti-python-sdk-introduction
 > https://news.ycombinator.com/item?id=32923851
+> > https://github.com/openziti Ziti: Programmable network overlay and edge components for zero-trust networking
+> > > https://news.ycombinator.com/item?id=32982136
+> https://github.com/openziti-test-kitchen/go-http
+> > https://news.ycombinator.com/item?id=32981981
 
 https://1.1.1.1/ Cloudflare Warp
 > https://news.ycombinator.com/item?id=32792913
