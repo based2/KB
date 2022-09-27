@@ -240,6 +240,11 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe
+
+https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/
+> https://news.ycombinator.com/item?id=32994584
+
 http://blog.dowski.com/2008/07/31/customizing-the-python-import-system/
 
 https://github.com/Miksus/rocketry Modern scheduling library for Python

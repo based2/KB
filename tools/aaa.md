@@ -42,3 +42,6 @@ https://www.macosxautomation.com/applescript/uiscripting/index.html
 > https://news.ycombinator.com/item?id=32738332
 
 https://news.ycombinator.com/item?id=32774646
+
+https://ounapuu.ee/posts/2022/09/26/minimum-viable-fan-control-script/
+> https://news.ycombinator.com/item?id=32980171

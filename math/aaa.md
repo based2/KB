@@ -107,6 +107,9 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://www.quantamagazine.org/how-big-is-infinity-20220927/
+> https://news.ycombinator.com/item?id=32996952
+
 https://www.computerenhance.com/p/turns-are-better-than-radians
 > https://news.ycombinator.com/item?id=32980782
 

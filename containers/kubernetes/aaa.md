@@ -64,6 +64,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://home.robusta.dev/blog/stop-using-cpu-limits/
+> https://news.ycombinator.com/item?id=32996059
+
 https://medium.com/@butkovic/visualizing-istios-circuit-breaker-with-kiali-cee45eaabc4d
 > https://news.ycombinator.com/item?id=32970526
 > > https://kiali.io/

@@ -68,6 +68,11 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://news.ycombinator.com/item?id=32994771 Ask HN: Real-world anecdotes of MySQL at scale?
+
+https://planetscale.com/blog/debugging-database-errors-with-insights
+> https://news.ycombinator.com/item?id=32997531
+
 https://github.com/appwrite/appwrite/releases/tag/1.0.0
 >
 

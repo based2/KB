@@ -231,6 +231,8 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://www.edbatista.com/2022/09/group-dynamics-the-leaders-toolkit.html
+
 https://web.stanford.edu/~ouster/cgi-bin/sayings.php
 
 https://www.customers.com/articles/doug-engelbarts-design-knowledge-based-organizationspart-1/

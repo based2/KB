@@ -192,6 +192,8 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://news.ycombinator.com/item?id=32981947
+
 https://github.com/pubkey/rxdb/blob/master/README.md?v=13
 
 https://github.com/pmndrs/zustand

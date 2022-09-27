@@ -46,7 +46,10 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://semiengineering.com/toward-domain-specific-eda/
+
 https://www.instructables.com/Soldering-Wires-Heres-a-Better-Way/
+> https://news.ycombinator.com/item?id=32982310
 
 https://media.ccc.de/v/mch2022-332-the-tooling-ecosystem-that-adds-joy-to-kicad
 > https://news.ycombinator.com/item?id=32394607

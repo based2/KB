@@ -103,6 +103,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.inference.org.uk/opengazer/
+
 https://joinpeertube.org/en_US/news#release-4.3
 
 https://karmanivero.us/blog/how-to-run-an-event-that-doesnt-suck/

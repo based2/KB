@@ -69,6 +69,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://www.chemistryworld.com/news/benzenes-bond-lengths-corrected/4016266.article
+> https://news.ycombinator.com/item?id=32979631
+
 https://www.pnas.org/doi/10.1073/pnas.2207449119 On the electron pairing mechanism of copper-oxide high temperature superconductivity
 
 https://www.globalchemistry.org/

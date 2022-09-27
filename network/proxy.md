@@ -24,6 +24,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://www.usenix.org/conference/foci20/presentation/frolov
+> https://news.ycombinator.com/item?id=32989416
+
 https://www.claudiokuenzler.com/blog/1240/haproxy-how-to-disable-enable-backend-server-command-line-cli-socket
 > https://news.ycombinator.com/item?id=32821724
 

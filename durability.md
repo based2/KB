@@ -61,6 +61,9 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://www.noemamag.com/the-disappearing-art-of-maintenance/
+> https://news.ycombinator.com/item?id=32997102
+
 https://civileats.com/2022/04/27/right-to-repair-open-source-tractors-john-deere-oggun-farms-profitability-technology/
 > https://news.ycombinator.com/item?id=32628913
 

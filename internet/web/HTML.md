@@ -140,6 +140,12 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://enhance.dev/docs/
+> https://news.ycombinator.com/item?id=32987840
+
+https://css-tricks.com/named-element-ids-can-be-referenced-as-javascript-globals/
+> https://news.ycombinator.com/item?id=32995694
+
 https://blog.webpagetest.org/posts/will-html-content-make-site-faster/
 > https://news.ycombinator.com/item?id=32928298
 

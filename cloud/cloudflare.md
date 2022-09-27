@@ -3,6 +3,13 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://blog.cloudflare.com/introducing-cloudflare-queues/
+> https://news.ycombinator.com/item?id=32995475
+
+https://substack.thewebscraping.club/p/cloudflare-how-to-scrape
+
+https://news.ycombinator.com/item?id=32997653
+
 https://blog.cloudflare.com/r2-ga/
 > https://news.ycombinator.com/item?id=32924587
 

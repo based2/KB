@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.forsvaret.dk/en/news/2022/gas-leak-in-the-baltic-sea/
+> https://news.ycombinator.com/item?id=32994922
+
 https://jeromeaparis.substack.com/p/financing-offshore-wind-part-1
 > https://news.ycombinator.com/item?id=32926463
 

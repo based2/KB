@@ -78,6 +78,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://www.wiley.com/en-us/Typographic+Web+Design:+How+to+Think+Like+a+Typographer+in+HTML+and+CSS-p-9781119976875
+> https://news.ycombinator.com/item?id=32980496
+
 https://druids.datadoghq.com/?ref=hackernews
 > https://news.ycombinator.com/item?id=32911549
 

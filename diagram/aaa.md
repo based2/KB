@@ -138,6 +138,9 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://www.cs.utexas.edu/~isil/cs389L/bdd.pdf An Introduction to Binary Decision Diagrams
+> https://news.ycombinator.com/item?id=32993015
+
 https://github.com/Nelarius/imnodes
 
 https://structurizr.org/

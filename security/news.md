@@ -1,3 +1,14 @@
+https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA45476/?kA23Z000000GH59SAG
+
+https://www.sophos.com/security-advisories/sophos-sa-20220923-sfos-rce
+
+https://nvd.nist.gov/vuln/detail/CVE-2022-36934 An integer overflow in WhatsApp could result in remote code execution in an established video call.
+> https://news.ycombinator.com/item?id=32995883
+
+https://connortumbleson.com/2022/09/19/someone-is-pretending-to-be-me/
+> https://news.ycombinator.com/item?id=32996953
+> https://news.ycombinator.com/item?id=32996457
+
 https://k4m1ll0.com/ShiftF10Bypass-and-privesc.html
 > https://www.reddit.com/r/netsec/comments/xogjl7/microsoft_shift_f10_bypass_autopilot_privilege/
 

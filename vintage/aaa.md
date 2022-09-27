@@ -53,6 +53,9 @@ https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer
 https://en.wikipedia.org/wiki/Z1_(computer)
 
 #
+https://dfarq.homeip.net/what-happened-to-tandy-computers/
+> https://news.ycombinator.com/item?id=32996656
+
 https://www.copetti.org/writings/consoles/playstation-2/
 > https://news.ycombinator.com/item?id=32984074
 

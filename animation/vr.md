@@ -1,3 +1,9 @@
+https://arstechnica.com/gadgets/2022/09/nreals-380-ar-glasses-want-to-be-a-virtual-monitor-for-macbooks/
+> https://news.ycombinator.com/item?id=32996589
+
+https://www.immersivecomputinglab.org/publication/color-perception-guided-display-power-reduction-for-virtual-reality/
+> https://news.ycombinator.com/item?id=32981172
+
 https://epthinktank.eu/2022/06/24/metaverse-opportunities-risks-and-policy-implications/
 
 https://venturebeat.com/games/neal-stephensons-lamina1-drops-white-paper-on-building-the-open-metaverse/

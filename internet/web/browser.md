@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://github.com/t-mart/kill-sticky Bookmarklet to remove sticky elements and restore scrolling to web pages
+> https://news.ycombinator.com/item?id=32998091
+
 https://zakird.com/papers/browsing.pdf A World Wide View of Browsing the World Wide Web
 > https://news.ycombinator.com/item?id=32955307
 

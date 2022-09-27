@@ -128,6 +128,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://cairodesktop.com/
+> https://news.ycombinator.com/item?id=32992284
+
 https://devblogs.microsoft.com/dotnet/performance_improvements_in_net_7/
 
 https://devblogs.microsoft.com/dotnet/microsoft-commerce-dotnet-6-journey/
