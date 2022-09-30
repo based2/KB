@@ -12,6 +12,9 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://spectrum.ieee.org/nuclear-power-plant
+> https://news.ycombinator.com/item?id=33015355
+
 https://www.forsvaret.dk/en/news/2022/gas-leak-in-the-baltic-sea/
 > https://news.ycombinator.com/item?id=32994922
 

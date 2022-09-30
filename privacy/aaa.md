@@ -99,6 +99,15 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/
+> https://news.ycombinator.com/item?id=33029322
+
+https://www.bloomberg.com/opinion/articles/2022-09-30/hey-amazon-america-s-funniest-home-surveillance-network-isn-t-funny
+> https://news.ycombinator.com/item?id=33034032
+
+https://www.politico.eu/article/us-expected-to-publish-privacy-shield-executive-order-next-week/
+> https://news.ycombinator.com/item?id=33036744
+
 https://notmyplate.com/whitepaper/
 > https://news.ycombinator.com/item?id=32980040
 

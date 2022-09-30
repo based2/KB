@@ -37,4 +37,7 @@ https://github.com/streetcomplete/StreetComplete/discussions/4264
 https://github.com/headwaymaps/headway Self-hostable maps stack, powered by OpenStreetMap
 > https://news.ycombinator.com/item?id=32875795
 
+#
+https://news.ycombinator.com/item?id=33034631
+
 https://www.graphhopper.com/blog/2022/09/19/graphhopper-routing-engine-6-0-released/

@@ -76,6 +76,11 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://peep.sourceforge.net/intro.html
+> https://news.ycombinator.com/item?id=33017337
+
+https://news.ycombinator.com/item?id=33032996
+
 https://dotat.at/@/2022-07-15-histogram.html
 > https://news.ycombinator.com/item?id=32886440
 

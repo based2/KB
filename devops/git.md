@@ -265,6 +265,15 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://git-scm.com/docs/hash-function-transition/
+> https://news.ycombinator.com/item?id=33020513
+
+https://github.com/community/community/discussions/10539 IPv6 support for cloning Git repositories
+> https://news.ycombinator.com/item?id=33024581
+
+https://harmonyland.vercel.app/ Show HN: Git in-memory in browser with Web Assembly
+> https://news.ycombinator.com/item?id=33025358
+
 https://github.com/extrawurst/gitui
 > https://news.ycombinator.com/item?id=32864036
 

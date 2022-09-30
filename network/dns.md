@@ -55,6 +55,8 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 # 
+https://blog.apnic.net/2022/09/29/ip-fragmentation-and-the-dns-vulnerable-dns-servers/
+
 https://shkspr.mobi/blog/2022/09/whats-the-cheapest-domain-you-can-register-for-10-years/
 > https://news.ycombinator.com/item?id=32797286
 

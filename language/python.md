@@ -240,6 +240,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/dosisod/refurb A tool for refurbishing and modernizing Python codebases
+> https://news.ycombinator.com/item?id=33003929
+
 https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe
 
 https://blog.meadsteve.dev/programming/2022/09/27/making-python-fast-for-free/

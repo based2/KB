@@ -18,6 +18,12 @@ https://curlconverter.com/
 https://daniel.haxx.se/blog/2022/03/22/a-headers-api-for-libcurl/
 
 # JWT
+https://zitadel.com/blog/jwt-vs-opaque-tokens
+> https://news.ycombinator.com/item?id=33018135
+
+https://apibakery.com/blog/tech/no-jwt/
+> https://news.ycombinator.com/item?id=33019960
+
 https://qvault.io/cryptography/hmac-and-macs-in-jwts/
 
 https://github.com/imixs/imixs-jwt

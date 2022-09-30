@@ -218,8 +218,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/useful-forks/useful-forks.github.io
+
 https://casparwre.de/blog/webapp-python-deployment/ blue green
->
 
 http://howardism.org/Technical/Emacs/literate-devops.html
 > https://news.ycombinator.com/item?id=32949419

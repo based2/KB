@@ -140,6 +140,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/
+> https://news.ycombinator.com/item?id=33017056
+
 https://enhance.dev/docs/
 > https://news.ycombinator.com/item?id=32987840
 

@@ -40,6 +40,12 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1 Semantic reconstruction of continuous language from non-invasive brain recording
+> https://news.ycombinator.com/item?id=33038452
+
+https://mwi.usma.edu/mwi-video-brain-battlefield-future-dr-james-giordano/
+> https://news.ycombinator.com/item?id=33029018
+
 https://www.sciencedaily.com/releases/2022/09/220913110337.htm
 
 https://www.quantamagazine.org/how-ai-transformers-mimic-parts-of-the-brain-20220912/

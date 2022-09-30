@@ -12,6 +12,8 @@ https://libli.org/
 > https://news.ycombinator.com/item?id=30586171
  
 #
+https://news.ycombinator.com/item?id=33013700
+
 https://old.reddit.com/r/selfhosted/comments/xhe5ul/matrix_was_worth_the_effort_to_self_host/
 > https://news.ycombinator.com/item?id=32895513
 

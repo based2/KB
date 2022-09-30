@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://twitter.com/terencechain/status/1573314347128201216
+
 https://vitalik.ca/general/2022/09/17/layer_3.html
 
 https://www.tomshardware.com/news/gpu-mining-is-now-unprofitable

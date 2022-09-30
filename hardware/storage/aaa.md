@@ -1,4 +1,7 @@
 # News
+https://teenage.engineering/products/po-80 make your own vinyl records!
+> https://news.ycombinator.com/item?id=33020721
+
 https://news.ycombinator.com/item?id=32965075
 
 https://www.phoronix.com/news/Ubuntu-Zsys-0.5.9

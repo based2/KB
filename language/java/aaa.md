@@ -262,6 +262,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://openjdk.org/projects/amber/design-notes/on-ramp
+> https://news.ycombinator.com/item?id=33017098
+
 https://alexn.org/blog/2022/09/19/java-cultural-problem/
 > https://news.ycombinator.com/item?id=32896228
 

@@ -121,6 +121,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://blog.unicode.org/2022/09/announcing-icu4x-10.html
+
 https://twitter.com/jonty/status/1571615998335123457
 > https://news.ycombinator.com/item?id=32896989
 

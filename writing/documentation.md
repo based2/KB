@@ -44,6 +44,9 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://diataxis.fr/
+> https://news.ycombinator.com/item?id=33020045
+
 https://ubuntu.com/blog/the-future-of-documentation-at-canonical
 
 https://developers.google.com/tech-writing

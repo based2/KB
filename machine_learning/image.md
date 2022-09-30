@@ -58,6 +58,12 @@ https://thisxdoesnotexist.com/
 > https://news.ycombinator.com/item?id=32969263
 
 # text2img
+https://github.com/w4ffl35/krita_stable_diffusion/tree/feature/windows-support
+> https://news.ycombinator.com/item?id=33008094
+
+https://keras.io/guides/keras_cv/generate_images_with_stable_diffusion/
+> https://news.ycombinator.com/item?id=33005585
+
 https://github.com/TheLastBen/fast-stable-diffusion
 > https://news.ycombinator.com/item?id=32985716
 
@@ -178,7 +184,15 @@ https://dagshub.com/blog/yolov6/#
 https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer vision cluster munition detection
 > https://news.ycombinator.com/item?id=32779930
 
-#
+# News
+https://www.ghostlystock.com/
+> https://news.ycombinator.com/item?id=33038117
+
+https://openai.com/blog/dall-e-now-available-without-waitlist/
+> https://news.ycombinator.com/item?id=33009777
+
+https://www.surgehq.ai//blog/dall-e-vs-imagen-and-evaluating-astral-codex-tens-3000-ai-bet
+
 https://www.mmlab-ntu.com/project/vtoonify/ Controllable High-Resolution Portrait Video Style Transfer
 > https://news.ycombinator.com/item?id=32962616
 

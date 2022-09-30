@@ -271,6 +271,10 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+ smartctl
+
+https://news.ycombinator.com/item?id=33024863 Ask HN: Has the Apple Silicon excessive disk read/write issue been fixed?
+
 https://applewatchrunner.substack.com/p/apple-watch-running-review
 > https://news.ycombinator.com/item?id=32971085
 

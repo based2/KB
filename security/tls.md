@@ -133,6 +133,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://badssl.com/
+> https://news.ycombinator.com/item?id=33015094
+
 https://blog.cloudflare.com/encrypted-client-hello/ Good-bye ESNI, hello ECH!
 > https://news.ycombinator.com/item?id=32793738
 

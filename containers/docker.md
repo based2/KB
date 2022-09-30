@@ -57,6 +57,11 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://news.ycombinator.com/item?id=33011072
+
+https://blog.meadsteve.dev/docker/2022/09/29/docker-build-caching/
+> https://news.ycombinator.com/item?id=33019286
+
 https://github.com/weaveworks/ignite
 > https://news.ycombinator.com/item?id=32990127
 

@@ -50,6 +50,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://niconiconi.neocities.org/posts/ken-thompson-really-did-launch-his-trusting-trust-trojan-attack-in-real-life/
+> https://news.ycombinator.com/item?id=33008519
+
 https://www.washingtonpost.com/politics/2022/09/19/pentagon-orders-review-psyops-after-takedown-fake-social-accounts/
 > https://news.ycombinator.com/item?id=32898167
 

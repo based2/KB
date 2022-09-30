@@ -282,7 +282,12 @@ https://github.com/kovisoft/paredit
 # Book
 https://news.ycombinator.com/item?id=32788281
 
+https://news.ycombinator.com/item?id=33031724
+
 # News
+https://andregarzia.com/2021/01/lua-a-misunderstood-language.html
+> https://news.ycombinator.com/item?id=33022031
+
 https://wiki.alopex.li/WirthEvolution
 > https://lobste.rs/s/flcjqg/wirth_language_evolution
 

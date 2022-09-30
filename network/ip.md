@@ -61,6 +61,8 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://mybroadband.co.za/news/internet/372304-r1-3-billion-worth-of-internet-resources-stolen-in-great-african-ip-address-heist.html
+
 https://news.ycombinator.com/item?id=32917671
 
 https://github.com/Ge0rg3/requests-ip-rotator AWS API Gateway, Python

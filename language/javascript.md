@@ -299,6 +299,9 @@ https://nathanfaucett.github.io/svelte-slate/
 
 https://github.com/rgossiaux/svelte-headlessui
 
+https://ghostdev.xyz/posts/build-a-cross-platform-app-with-tauri/
+> https://news.ycombinator.com/item?id=33002996
+
 https://medium.com/@sveltestorm/sveltestorm-5-0-a-svelte-ide-like-no-other-c79da72d377e
 > https://news.ycombinator.com/item?id=32942947
 

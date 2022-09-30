@@ -202,6 +202,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/
+> https://news.ycombinator.com/item?id=32999133
+
 https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41 58 bytes of CSS to look great nearly everywhere
 > https://news.ycombinator.com/item?id=32972004
 

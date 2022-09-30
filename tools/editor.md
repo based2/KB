@@ -214,6 +214,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/neovim/neovim/releases/tag/v0.8.0
+> https://news.ycombinator.com/item?id=33037151
+
 https://github.com/darius/halp Run programs in the Emacs buffer holding their source, seeing their output inline, interactively.
 > https://news.ycombinator.com/item?id=32969253
 

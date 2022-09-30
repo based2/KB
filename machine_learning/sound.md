@@ -52,6 +52,9 @@ https://google-research.github.io/seanet/audiolm/examples/
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360
 
+https://www.musi-co.com/listen/streams
+> https://news.ycombinator.com/item?id=33027376
+
 # text-to-speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074
@@ -61,3 +64,6 @@ https://mycroft.ai/blog/introducing-mimic-3/
 
 https://15.ai/
 > https://news.ycombinator.com/item?id=31711118
+
+https://felixkreuk.github.io/text2audio_arxiv_samples/
+> https://news.ycombinator.com/item?id=33039203

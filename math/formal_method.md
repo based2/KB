@@ -32,6 +32,7 @@ https://github.com/magmide/magmide
 
 # TLA
 > https://learntla.com/introduction/
+> > https://news.ycombinator.com/item?id=33010645
 
 https://www.hillelwayne.com/post/action-properties/
 > https://news.ycombinator.com/item?id=26649273

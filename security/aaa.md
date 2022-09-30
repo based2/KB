@@ -150,6 +150,8 @@ https://www.cs.uky.edu/~klapper/pdf/algebraic.pdf Algebraic Shift Register Seque
 # Differential privacy
 https://desfontain.es/privacy/more-useful-results-dp.html
 
+# off-by-one error
+
 #
 https://queue.acm.org/detail.cfm?id=3561799
 > https://www.reddit.com/r/netsec/comments/xn53z7/zero_trust_from_zero_to_one_hundred/

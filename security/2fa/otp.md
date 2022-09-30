@@ -23,6 +23,9 @@ https://yahes.space/posts/using-yubikey-with-pam-module/
 https://cube0x0.github.io/Relaying-YubiKeys/
 
 # News
+https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/
+> https://news.ycombinator.com/item?id=33020078
+
 https://www.tillitis.se/
 > https://news.ycombinator.com/item?id=32896580
 

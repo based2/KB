@@ -1,3 +1,11 @@
+https://microprofile.io/
+
+https://quarkus.io/ Red Hat
+
+https://helidon.io/ Oracle
+
+https://micronaut.io/ MS
+
 https://projectreactor.io/
 
 https://vertx.io/ Reactor pattern, Eclipse
@@ -15,7 +23,7 @@ https://blog.frankel.ch/blockhound-how-it-works/
 
 https://kotlinlang.org/spec/asynchronous-programming-with-coroutines.html
 
-https://akka.io/ OTP
+https://akka.io/ OTP non-opensource
 https://zio.dev/ - Scala
 
 https://www.braveclojure.com/core-async/ CSP
@@ -34,6 +42,9 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://www.infoq.com/articles/java-virtual-threads/
+> https://news.ycombinator.com/item?id=33024748
+
 https://netty.io/news/2022/09/13/4-1-82-Final.html
 
 https://www.davidvlijmincx.com/posts/pitfalls-of-virtual-threads/

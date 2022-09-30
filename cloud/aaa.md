@@ -98,6 +98,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://news.ycombinator.com/item?id=33010341
+
 https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access
 > https://news.ycombinator.com/item?id=32913221
 > https://news.ycombinator.com/item?id=32926550
@@ -178,6 +180,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://steampipe.io/
+> https://news.ycombinator.com/item?id=33034351
+
 https://notes.crmarsh.com/isolates-microvms-and-webassembly
 > https://news.ycombinator.com/item?id=32987813
 

@@ -99,10 +99,11 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 https://github.com/vitaliy-sk/PerfUnit
 
 # News
+https://speakerdeck.com/marcphilipp/evolving-junit-5
+
 https://www.reddit.com/r/java/comments/wg1fw0/integration_testing_for_spring_boot_with/
 
 https://randoop.github.io/randoop/ Automatic unit test generation for Java
-> 
 
 https://rogerriggs.wordpress.com/2022/05/14/testing-clean-cleaner-cleanup/
 

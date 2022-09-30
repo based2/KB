@@ -25,6 +25,12 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://apple.stackexchange.com/questions/313005/how-to-select-power-direction-over-usb-c
+> https://news.ycombinator.com/item?id=33032784
+
+https://www.usb.org/usb-charger-pd
+> https://news.ycombinator.com/item?id=33034679
+
 https://interruptlabs.ca/2022/08/31/I-m-Building-a-Self-Destructing-USB-Drive-Part-2/
 > https://news.ycombinator.com/item?id=32900787
 

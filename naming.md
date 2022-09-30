@@ -30,3 +30,5 @@ https://karl-voit.at/2022/01/29/How-to-Use-Tags/
 
 https://www.fastruby.io/blog/rails/naming-things-is-hard.html
 > https://news.ycombinator.com/item?id=32422260
+
+# naming thi

@@ -3,6 +3,14 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://blog.cloudflare.com/botnet-threat-feed-for-isp/
+> https://news.ycombinator.com/item?id=33007742
+
+https://blog.cloudflare.com/unmetered-ratelimiting/
+
+https://blog.cloudflare.com/radar2/
+> https://news.ycombinator.com/item?id=33034365
+
 https://blog.cloudflare.com/introducing-cloudflare-queues/
 > https://news.ycombinator.com/item?id=32995475
 

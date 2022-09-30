@@ -12,6 +12,12 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://news.ycombinator.com/item?id=33017131
+> https://news.ycombinator.com/item?id=33017131
+
+https://hiddenheroes.netguru.com/lou-montulli
+> https://news.ycombinator.com/item?id=33017471
+
 https://www.ghostery.com/blog/manifest-v3-the-ghostery-perspective
 > https://news.ycombinator.com/item?id=32983565
 

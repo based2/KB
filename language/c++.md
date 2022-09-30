@@ -1,3 +1,6 @@
+https://www.foonathan.net/2022/09/new-integer-types/
+> https://news.ycombinator.com/item?id=33032802
+
 https://brevzin.github.io/c++/2022/09/23/copy-on-write/
 > https://news.ycombinator.com/item?id=32960693
 

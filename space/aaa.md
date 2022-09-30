@@ -143,6 +143,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://payloadspace.com/fcc-approves-5-year-satellite-deorbiting-rule/
+> https://news.ycombinator.com/item?id=33036383
+
 https://bigthink.com/starts-with-a-bang/earth-across-universe/
 > https://news.ycombinator.com/item?id=32929063
 

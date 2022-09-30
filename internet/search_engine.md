@@ -60,7 +60,7 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
-https://zincsearch.com/ go
+https://zincsearch.com/ go, no HA
 > https://news.ycombinator.com/item?id=32938304
 
 https://openwebsearch.eu/

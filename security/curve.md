@@ -37,6 +37,9 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://www.rfc-editor.org/rfc/rfc7748 Elliptic Curves for Security
+> https://news.ycombinator.com/item?id=33022273
+
 https://cendyne.dev/posts/2022-09-11-ed25519-deep-dive-addendum.html
 
 https://curves.ulfheim.net/

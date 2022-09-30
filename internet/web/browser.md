@@ -30,6 +30,12 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://www.macrumors.com/2022/09/28/ios-16-bypass-captcha-expansion/
+> https://news.ycombinator.com/item?id=33010210
+
+https://developer.chrome.com/blog/more-mv2-transition/
+> https://news.ycombinator.com/item?id=33012057
+
 https://github.com/t-mart/kill-sticky Bookmarklet to remove sticky elements and restore scrolling to web pages
 > https://news.ycombinator.com/item?id=32998091
 

@@ -75,6 +75,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.zdnet.com/home-and-office/home-entertainment/i-spent-3000-on-a-samsung-smart-tv-and-all-i-got-were-ads-and-unwanted-content/
+> https://news.ycombinator.com/item?id=33012115
+
 https://www.phoronix.com/review/amd-ryzen-7900x-7950x-linux
 > https://news.ycombinator.com/item?id=32982988
 

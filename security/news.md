@@ -1,3 +1,36 @@
+https://kerkour.com/learning-rust-sha1-hash-cracker
+> https://news.ycombinator.com/item?id=33021496
+
+https://www.rnz.co.nz/news/world/475692/australian-govt-wants-telco-optus-to-pay-for-new-passports-for-data-breach-victims
+> https://news.ycombinator.com/item?id=33012171
+
+https://blog.cloudflare.com/turnstile-private-captcha-alternative/
+> https://news.ycombinator.com/item?id=33007370
+
+https://iamelli0t.github.io/2021/04/20/Chromium-Issue-1196683-1195777.html
+> https://news.ycombinator.com/item?id=32997939
+
+https://nebuchadnezzar-megolm.github.io/ Practically-exploitable Cryptographic Vulnerabilities in Matrix
+> https://news.ycombinator.com/item?id=33009674
+
+https://matrix.org/blog/2022/09/28/upgrade-now-to-address-encryption-vulns-in-matrix-sdks-and-clients
+> https://news.ycombinator.com/item?id=33009486
+
+https://9p.io/sys/doc/auth.html Security in Plan 9
+> https://news.ycombinator.com/item?id=33007117
+
+https://queue.acm.org/detail.cfm?id=3561800 The Rise of Fully Homomorphic Encryption
+> https://news.ycombinator.com/item?id=33019211
+
+https://github.com/RootMyTV/RootMyTV.github.io LG
+> https://news.ycombinator.com/item?id=33016217
+
+https://www.medtronicdiabetes.com/customer-support/product-and-service-updates/notice19-letter
+
+https://lwn.net/SubscriberLink/909469/95386a9171af0b46/ A call to reconsider address-space isolation
+> https://lwn.net/Articles/886494/ Generalized address-space isolation
+> https://news.ycombinator.com/item?id=33033366
+
 https://kb.pulsesecure.net/articles/Pulse_Security_Advisories/SA45476/?kA23Z000000GH59SAG
 
 https://www.sophos.com/security-advisories/sophos-sa-20220923-sfos-rce

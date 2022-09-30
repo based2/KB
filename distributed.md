@@ -127,7 +127,12 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 
 https://github.com/logsem/aneris coq, ocaml
 
+# concurrencyngs
+
 # News
+https://github.com/go-micro/go-micro
+> https://news.ycombinator.com/item?id=33030611
+
 https://voidpapers.substack.com/p/voidpapers-time-clocks-and-the-ordering
 > https://news.ycombinator.com/item?id=32977970
 

@@ -35,7 +35,12 @@ https://engineering.atspotify.com/2021/11/16/introducing-xcremotecache-the-ios-r
 https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3
 > https://news.ycombinator.com/item?id=29388588
 
+# cache invalidation
+
 # News
+https://kinduff.com/2022/09/28/the-4-minute-bug/
+> https://news.ycombinator.com/item?id=33007864
+
 https://blog.acolyer.org/2018/10/26/robinhood-tail-latency-aware-caching-dynamic-reallocation-from-cache-rich-to-cache-poor/
 > https://news.ycombinator.com/item?id=32985096
 

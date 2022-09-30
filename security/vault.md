@@ -40,6 +40,9 @@ https://www.passbolt.com/
 
 # Incident
 
+https://twitter.com/KeePassXC/status/1575081535442628609
+> https://news.ycombinator.com/item?id=33006728
+
 https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-internal-access-for-four-days/
 
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/

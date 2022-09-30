@@ -55,6 +55,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://adguard-vpn.com/en/blog/vpn-built-browser-microsoft.html
+> https://news.ycombinator.com/item?id=33037171
+
 https://openziti.io/openziti-python-sdk-introduction
 > https://news.ycombinator.com/item?id=32923851
 > > https://github.com/openziti Ziti: Programmable network overlay and edge components for zero-trust networking
