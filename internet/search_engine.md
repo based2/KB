@@ -60,6 +60,10 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://old.reddit.com/r/java/comments/xrrcpj/lucene_94_optionally_uses_panamas_mapped/
+
+https://picryl.com/ largest media source for public domain images, scans, and documents
+
 https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input
 
 https://zincsearch.com/ go, no HA

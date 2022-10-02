@@ -65,6 +65,9 @@ https://medium.com/immuta-engineering/terraform-engineering-strategies-part-1-ma
 
 https://github.com/verifa/terraplate DRY Terraform with Go Templates
 
+# Tests
+https://blog.searce.com/infrastructure-provisioning-of-terraform-by-using-kitchen-terraform-65070d54491f
+
 # Sec
 
 https://terraform-compliance.com/
@@ -105,12 +108,19 @@ https://github.com/awslabs/terraform-iam-policy-validator
 
 https://medium.com/adevinta-tech-blog/enforcing-and-controlling-infrastructure-as-code-40f38c89fb2e
 
+## Serverless
+https://github.com/Plenituz/barbe-serverless
+
 # Azure
 https://github.com/andreipintica/azure-terrafy-handsonlab
 
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://grafana.com/blog/2022/09/20/grafana-alerts-as-code-get-started-with-terraform-and-grafana-alerting/
+
+https://doordash.engineering/2022/09/20/how-doordash-ensures-velocity-and-reliability-through-policy-automation/
+
 https://github.com/dineshba/tf-summarize A command-line utility to print the summary of the terraform plan
 
 https://github.com/padok-team/tfautomv refactor

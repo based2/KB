@@ -40,6 +40,15 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/
+
+https://www.technologyreview.com/2022/08/17/1058090/mini-caps-measure-activity-lab-grown-minibrains/
+
+https://thenewstack.io/brain-js-brings-deep-learning-to-the-browser-and-node-js/
+
+https://www.nature.com/articles/s41598-021-03938-w Hyperrealistic neural decoding for reconstructing faces from fMRI activations via the GAN latent space
+> https://petapixel.com/2022/08/23/mind-reading-technology-translate-brainwaves-into-photos/
+
 https://www.biorxiv.org/content/10.1101/2022.09.29.509744v1 Semantic reconstruction of continuous language from non-invasive brain recording
 > https://news.ycombinator.com/item?id=33038452
 

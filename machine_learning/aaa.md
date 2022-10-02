@@ -218,6 +218,22 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://techxplore.com/news/2022-08-sensor-wildfires.html
+
+https://bdtechtalks.com/2022/07/25/large-language-models-cant-plan/
+
+https://bdtechtalks.com/2022/08/01/cerebras-large-language-models/
+
+https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html
+
+https://techxplore.com/news/2022-08-ai-future-firefighters.html
+
+https://bdtechtalks.com/2022/08/22/llm-emergent-abilities/
+> https://arxiv.org/abs/2206.07682
+
+https://pursuingreality.com/2020/11/25/the-limits-of-rationality/
+> https://news.ycombinator.com/item?id=33046309
+
 https://dvc.org/ Data version control
 > https://news.ycombinator.com/item?id=33047634
 > > https://github.com/apache/iceberg

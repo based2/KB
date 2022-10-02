@@ -58,6 +58,18 @@ https://thisxdoesnotexist.com/
 > https://news.ycombinator.com/item?id=32969263
 
 # text2img
+https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
+
+## Stable diffusion
+https://stability.ai/blog/stable-diffusion-public-release
+> https://www.artificialintelligence-news.com/2022/08/24/stable-diffusion-text-to-image-generator-now-publicly-available/
+> > https://huggingface.co/spaces/CompVis/stable-diffusion-license
+
+https://xeiaso.net/blog/prompt-engineering
+
+https://gorgeous.adityashankar.xyz/
+> https://news.ycombinator.com/item?id=33055340
+
 https://github.com/w4ffl35/krita_stable_diffusion/tree/feature/windows-support
 > https://news.ycombinator.com/item?id=33008094
 

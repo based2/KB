@@ -133,6 +133,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://thenewstack.io/google-puts-open-source-in-chip-design-and-manufacturing/
+> https://developers.google.com/silicon
+
 https://github.com/OpenTabletDriver/OpenTabletDriver
 > https://news.ycombinator.com/item?id=32800571
 

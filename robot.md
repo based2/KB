@@ -32,6 +32,8 @@ https://dronexl.co/2022/08/22/dji-mavic-3-flies-over-mount-everest/
 https://www.robotshop.com/community/robots/show/how-to-make-the-least-expensive-drone-airplane
 > https://news.ycombinator.com/item?id=32710275
 
+https://info.deeplearning.ai/uks-drone-superhighway-largest-open-source-language-model-ai-protects-bees-countering-biased-labels
+
 # Water
 https://www.darpa.mil/news-events/2021-12-20
 
@@ -49,6 +51,11 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.html
+
+https://github.com/robomechanics/quad-sdk
+> https://techxplore.com/news/2022-08-open-source-software-leg-robot.html
+
 https://spectrum.ieee.org/tesla-optimus-robot
 > https://news.ycombinator.com/item?id=33049917
 

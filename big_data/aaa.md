@@ -253,6 +253,10 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://quarto.org/
+
+https://docarray.jina.ai/get-started/what-is/
+
 https://www.njtierney.com/post/2022/08/09/ggplot-pyramid/
 
 https://news.ycombinator.com/item?id=32915227 Tigris – open-source developer data platform for your next app

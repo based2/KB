@@ -144,6 +144,10 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://techxplore.com/news/2022-08-software-defined-satellite-commercial.html
+
+https://www.nasaspaceflight.com/2022/10/firefly-to-the-black/
+
 https://www.space.com/saturn-moon-enceladus-ocean-phosphorus
 
 https://payloadspace.com/fcc-approves-5-year-satellite-deorbiting-rule/

@@ -99,6 +99,8 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 https://github.com/vitaliy-sk/PerfUnit
 
 # News
+https://www.infoq.com/news/2022/09/junit-5-9/
+
 https://speakerdeck.com/marcphilipp/evolving-junit-5
 
 https://www.reddit.com/r/java/comments/wg1fw0/integration_testing_for_spring_boot_with/

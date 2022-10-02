@@ -107,6 +107,10 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://linuxfr.org/news/des-nouvelles-du-frido
+
+https://news.ycombinator.com/item?id=33046291
+
 https://www.amolas.dev/blog/choose-the-smallest-number/
 >
 

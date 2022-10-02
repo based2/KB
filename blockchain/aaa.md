@@ -50,6 +50,13 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://www.bestbrokers.com/2022/08/03/altcoins-affected-by-nomad-hack-collapsed-as-much-as-94/
+
+https://thenewstack.io/are-application-specific-chains-the-future-of-blockchain/
+
+https://medium.datadriveninvestor.com/the-biggest-change-to-our-financial-system-in-50-years-is-happening-in-november-e976918c6118
+> https://altcoininvestor.com/what-is-iso-20022/
+
 https://www.forbes.com/sites/sarahemerson/2022/09/23/helium-crypto-tokens-peoples-network/?sh=45c6dd517316
 > https://news.ycombinator.com/item?id=32998727
 

@@ -267,6 +267,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://devblogs.microsoft.com/oldnewthing/20220929-00/?p=107229
+> https://lobste.rs/s/dcqonj/i_did_merge_as_cherry_pick_thing_my_change
+
 https://git-scm.com/docs/hash-function-transition/
 > https://news.ycombinator.com/item?id=33020513
 

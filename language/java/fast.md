@@ -8,3 +8,5 @@ https://github.com/real-logic/agrona
 
 https://richardstartin.github.io/posts/loop-fission
 > https://www.reddit.com/r/java/comments/r74ag2/loop_fission/
+
+https://old.reddit.com/r/java/comments/xrmmn2/threadring_with_vthreads_java_is_much_greener_and/

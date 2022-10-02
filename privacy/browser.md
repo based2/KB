@@ -12,6 +12,8 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://brave.com/privacy-updates/21-blocking-cookie-notices/
+
 https://news.ycombinator.com/item?id=33017131
 > https://news.ycombinator.com/item?id=33017131
 

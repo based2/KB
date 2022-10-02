@@ -24,4 +24,10 @@ https://ojs.aaai.org/index.php/AAAI/article/view/21443 Embeddings via Causal Inf
 
 https://news.ycombinator.com/item?id=33020694
 
+https://www.wired.com/story/google-robot-learned-to-take-orders-by-scraping-the-web/
+
+https://www.vice.com/en/article/epzx3m/in-experiment-ai-successfully-impersonates-famous-philosopher
+
+https://www.vice.com/en/article/y3ppgw/californians-can-now-auto-detect-racist-language-in-housing-deeds-hoa-rules-and-have-it-removed
+
 https://news.ycombinator.com/item?id=33002312 Text Compression as a Test for Artificial Intelligence (1999)

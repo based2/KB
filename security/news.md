@@ -1,3 +1,24 @@
+https://www.schneier.com/blog/archives/2022/08/nists-post-quantum-cryptography-standards.html
+
+https://techxplore.com/news/2022-08-whatsapp-messages-encryptedbut-traceable.html
+
+https://gizmodo.com/hacker-starlink-spacex-black-hat-security-conference-1849396899
+
+https://thenewstack.io/theyre-among-us-malicious-bots-hide-using-nlp-and-ai/
+
+https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser
+> https://www.bleepingcomputer.com/news/security/new-tool-checks-if-a-mobile-apps-browser-is-a-privacy-risk/
+
+https://www.bleepingcomputer.com/news/security/google-blocks-largest-https-ddos-attack-reported-to-date/
+
+https://github.com/mCaptcha/mCaptcha
+
+https://citizenlab.ca/2022/09/statement-on-the-fatal-flaws-found-in-a-defunct-cia-covert-communications-system/
+
+https://darkcubed.com/cybersecurity-resources
+
+https://siraben.dev/2022/10/02/matryoshka.html
+
 https://github.com/connorjburton/senvf nodejs
 
 https://safeguarddefenders.com/en/blog/230000-policing-expands

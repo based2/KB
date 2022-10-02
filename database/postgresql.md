@@ -259,6 +259,8 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://blog.cleverelephant.ca/2022/10/postgresql-links.html
+
 https://www.postgresql.org/about/news/postgresql-15-rc-1-released-2516/
 
 https://pgmoneta.github.io/ Backup/Restore solution

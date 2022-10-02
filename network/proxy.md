@@ -24,6 +24,12 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://medium.com/@googler_ram/opensource-domain-proxy-for-cbrs-d4f23c756b90
+> https://github.com/magma/magma/tree/master/dp
+
+https://gitgud.io/fatchan/haproxy-protection
+> https://news.ycombinator.com/item?id=33049871
+
 https://www.usenix.org/conference/foci20/presentation/frolov
 > https://news.ycombinator.com/item?id=32989416
 

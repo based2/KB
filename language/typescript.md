@@ -83,6 +83,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://semaphoreci.com/blog/javascript-bun
+
 https://devblogs.microsoft.com/typescript/ten-years-of-typescript/
 > https://news.ycombinator.com/item?id=33049056
 > > https://dev.to/ayc0/typescript-49-satisfies-operator-1e4i

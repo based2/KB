@@ -79,6 +79,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://thenewstack.io/early-days-for-quantum-developers-but-serverless-coming/
+
 https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/
 > https://news.ycombinator.com/item?id=32990461
 

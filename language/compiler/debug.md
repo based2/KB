@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://github.com/epasveer/seer gui frontend to gdb
+> https://news.ycombinator.com/item?id=33044885
+
 https://lwn.net/SubscriberLink/909496/a56a9a4ab41ff079/ How to fix an ancient GDB problem
 > https://news.ycombinator.com/item?id=33029101
 

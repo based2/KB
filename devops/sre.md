@@ -87,3 +87,5 @@ https://blog.relyabilit.ie/what-sre-could-be/
 
 https://sre.google/sre-book/eliminating-toil/
 > https://news.ycombinator.com/item?id=31651146
+
+https://thenewstack.io/devops-institute-checks-the-pulse-of-sre/

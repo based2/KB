@@ -98,6 +98,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html
+> https://news.ycombinator.com/item?id=33041114
+
 https://gpodder.github.io/
 > https://news.ycombinator.com/item?id=32912046
 

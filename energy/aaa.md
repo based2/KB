@@ -12,7 +12,15 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.bloomberg.com/news/articles/2022-10-01/gazprom-won-t-deliver-any-russian-gas-to-italy-on-saturday-eni#xj4y7vzkg
+
+https://www.euronews.com/2022/10/01/greece-bulgaria-pipeline-starts-operations-to-boost-non-russian-gas-flows
+
+https://bam.kalzumeus.com/archive/markets-in-power/
+> https://news.ycombinator.com/item?id=33044386
+
 https://www.euronews.com/2022/09/27/baltic-pipe-norway-poland-gas-pipeline-opens-in-key-move-to-cut-dependency-on-russia
+> https://old.reddit.com/r/worldnews/comments/xspwt5/gas_starts_flowing_to_poland_through_new_baltic/
 
 https://spectrum.ieee.org/nuclear-power-plant
 > https://news.ycombinator.com/item?id=33015355

@@ -71,3 +71,10 @@ https://cs.stanford.edu/people/eschkufz/docs/pldi_16.pdf Stratified Synthesis: A
 > https://news.ycombinator.com/item?id=32787547
 
 https://arxiv.org/abs/1808.07412 Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation using Deep Neural Networks
+
+https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosql/
+
+https://thenewstack.io/language-i-o-runs-react-based-javascript-with-java-backend/
+
+
+https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice/0000_architecting_alice

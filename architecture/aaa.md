@@ -220,6 +220,8 @@ https://support.edifabric.com/hc/en-us/articles/6738567109277-EDI-vs-API
 https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sqlite_firecracker_and_prisma
 > https://news.ycombinator.com/item?id=32852478
 
+https://www.postman.com/state-of-api/
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966
