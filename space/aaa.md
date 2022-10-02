@@ -24,7 +24,8 @@ https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
 https://stellarium.org/
 > https://news.ycombinator.com/item?id=30574809
 
-https://github.com/Stellarium/stellarium/releases/tag/v0.22.1
+https://stellarium.org/release/2022/10/01/stellarium-1.0.html
+> https://news.ycombinator.com/item?id=33050270
 
 # Probe
 ## Voyager
@@ -143,6 +144,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.space.com/saturn-moon-enceladus-ocean-phosphorus
+
 https://payloadspace.com/fcc-approves-5-year-satellite-deorbiting-rule/
 > https://news.ycombinator.com/item?id=33036383
 

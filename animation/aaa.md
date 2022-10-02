@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://gorillasun.de/blog/an-algorithm-for-polygon-intersections
+> https://news.ycombinator.com/item?id=33053320
+
 https://nicktasios.nl/posts/simulating-a-crt-tv-with-c++-and-opengl.html
 > https://news.ycombinator.com/item?id=32969342
 

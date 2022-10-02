@@ -12,6 +12,8 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 https://en.wikipedia.org/wiki/Duck_curve
 
 # News
+https://www.euronews.com/2022/09/27/baltic-pipe-norway-poland-gas-pipeline-opens-in-key-move-to-cut-dependency-on-russia
+
 https://spectrum.ieee.org/nuclear-power-plant
 > https://news.ycombinator.com/item?id=33015355
 

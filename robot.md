@@ -49,6 +49,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://spectrum.ieee.org/tesla-optimus-robot
+> https://news.ycombinator.com/item?id=33049917
+
 https://github.com/ros-acceleration/robotic_processing_unit
 > https://news.ycombinator.com/item?id=33016645
 

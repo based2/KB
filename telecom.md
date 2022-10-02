@@ -121,6 +121,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://foundingfuel.com/article/the-contrarian/
+> https://news.ycombinator.com/item?id=33054047
+
 https://branch.climateaction.tech/issues/issue-4/cows/
 > https://news.ycombinator.com/item?id=32972231
 

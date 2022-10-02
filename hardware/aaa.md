@@ -75,6 +75,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://chipsandcheese.com/2022/09/29/chinas-phytium-d2000-building-on-a72/
+
 https://www.zdnet.com/home-and-office/home-entertainment/i-spent-3000-on-a-samsung-smart-tv-and-all-i-got-were-ads-and-unwanted-content/
 > https://news.ycombinator.com/item?id=33012115
 

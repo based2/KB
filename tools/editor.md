@@ -172,6 +172,12 @@ https://lists.gnu.org/archive/html/emacs-devel/2022-09/msg00730.html
 https://lars.ingebrigtsen.no/2022/09/20/20x10/
 > https://news.ycombinator.com/item?id=32921376
 
+https://www.cliki.net/cl-emacs
+> https://news.ycombinator.com/item?id=33054430
+
+https://www.labri.fr/perso/nrougier/GTD/index.html
+> https://news.ycombinator.com/item?id=33033017
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

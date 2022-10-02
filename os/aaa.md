@@ -21,6 +21,8 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://github.com/kdlucas/byte-unixbench
+
 https://liam-on-linux.dreamwidth.org/86995.html
 > https://news.ycombinator.com/item?id=32969692
 

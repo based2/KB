@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/bots-garden/capsule
+> https://news.ycombinator.com/item?id=33054212
+
 https://blog.cloudflare.com/workerd-open-source-workers-runtime/
 > https://news.ycombinator.com/item?id=32994723
 

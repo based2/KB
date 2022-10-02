@@ -218,6 +218,13 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://dvc.org/ Data version control
+> https://news.ycombinator.com/item?id=33047634
+> > https://github.com/apache/iceberg
+
+https://www.gwern.net/notes/Fermi
+> https://news.ycombinator.com/item?id=33045158
+
 https://spectrum.ieee.org/floating-point-numbers-posits-processor#toggle-gdpr
 > https://news.ycombinator.com/item?id=33003459
 

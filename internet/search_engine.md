@@ -60,6 +60,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://contra.com/p/WobOBob7-building-advanced-sql-search-from-a-user-text-input
+
 https://zincsearch.com/ go, no HA
 > https://news.ycombinator.com/item?id=32938304
 

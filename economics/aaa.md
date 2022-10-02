@@ -122,6 +122,9 @@ https://www.nature.com/articles/s41598-021-82338-6 Sentiment correlation in fina
 
 https://news.ycombinator.com/item?id=32182847 OpenBB Terminal: command-line Bloomberg terminal
 
+https://news.ycombinator.com/item?id=33040873
+> https://www.cloud.com/news/press-release.html
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

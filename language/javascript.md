@@ -448,6 +448,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://telefunc.com/
+> https://news.ycombinator.com/item?id=33050883
+
 https://github.com/nextapps-de/winbox
 > 
 

@@ -57,6 +57,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://www.theatlantic.com/ideas/archive/2022/10/warhol-copyright-fair-use-supreme-court-prince/671599/
+> https://news.ycombinator.com/item?id=33053286
+
 https://www.sciencedirect.com/science/article/pii/S0010027722000580 Poor writing, not specialized concepts, drives processing difficulty in legal language
 > https://news.ycombinator.com/item?id=32889072
 

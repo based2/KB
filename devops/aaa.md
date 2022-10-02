@@ -124,6 +124,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://about.gitlab.com/releases/2022/09/29/security-release-gitlab-15-4-1-released/
+
 https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/
 > https://www.reddit.com/r/netsec/comments/xkrb5a/breaking_bitbucket_pre_auth_remote_command/
 > https://news.ycombinator.com/item?id=32973523

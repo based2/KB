@@ -69,6 +69,8 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://www.nature.com/articles/s43588-022-00325-x A computational perspective on the Nobel Prize
+
 https://www.chemistryworld.com/news/benzenes-bond-lengths-corrected/4016266.article
 > https://news.ycombinator.com/item?id=32979631
 

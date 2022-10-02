@@ -33,6 +33,9 @@ https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-databa
 https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 
 # News
+https://www.shawntabrizi.com/aad/does-company-x-have-an-azure-active-directory-tenant/
+> https://news.ycombinator.com/item?id=33046188
+
 https://techcommunity.microsoft.com/t5/azure-architecture-blog/azure-cost-optimisation/ba-p/3624817?WT.mc_id=academic-0000-abartolo
 
 https://techcommunity.microsoft.com/t5/azure-governance-and-management/built-in-azure-monitor-alerts-for-azure-backup-is-now-generally/ba-p/3627859?WT.mc_id=academic-0000-abartolo

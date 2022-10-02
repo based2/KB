@@ -1,6 +1,9 @@
 https://hynek.me/articles/productive-fruit-fly-programmer/
 > https://news.ycombinator.com/item?id=32900164
 
+https://evantravers.com/articles/2022/06/30/dating-other-task-managers/
+> https://news.ycombinator.com/item?id=33019629
+
 https://stackshare.io/posts/top-developer-tools-2021
 
 http://karolis.koncevicius.lt/002.html

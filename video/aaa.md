@@ -103,6 +103,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://linuxfr.org/news/campagne-de-financement-participatif-de-kdenlive-passer-le-montage-libre-au-niveau-superieur
+
 https://css-tricks.com/gifs-without-the-gif-the-most-performant-image-and-video-options-right-now/
 > https://news.ycombinator.com/item?id=33026353
 

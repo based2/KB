@@ -1,3 +1,13 @@
+https://github.com/connorjburton/senvf nodejs
+
+https://safeguarddefenders.com/en/blog/230000-policing-expands
+> https://news.ycombinator.com/item?id=33050320
+
+https://msrc-blog.microsoft.com/2022/09/29/customer-guidance-for-reported-zero-day-vulnerabilities-in-microsoft-exchange-server/
+> https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-exchange-zero-days-are-used-in-attacks/
+
+https://www.mozilla.org/en-US/security/advisories/mfsa2022-43/
+
 https://kerkour.com/learning-rust-sha1-hash-cracker
 > https://news.ycombinator.com/item?id=33021496
 

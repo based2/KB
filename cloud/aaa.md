@@ -180,6 +180,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://scalingo.com/fr/blog/premier-paas-francais-et-europeen-certifie-iso-27001-et-hds
+
 https://steampipe.io/
 > https://news.ycombinator.com/item?id=33034351
 

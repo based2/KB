@@ -140,6 +140,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html
+> https://news.ycombinator.com/item?id=33055426
+
 https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/
 > https://news.ycombinator.com/item?id=33017056
 

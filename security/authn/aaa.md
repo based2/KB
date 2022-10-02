@@ -31,6 +31,8 @@ https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d
 
 https://wso2.com/blogs/thesource/identity-and-access-management-for-startups/
 
+https://en.wikipedia.org/wiki/RADIUS
+
 # Diffie-Hellman
 https://borisreitman.com/privacy.html
 > https://news.ycombinator.com/item?id=26898147

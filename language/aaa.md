@@ -285,6 +285,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www.cis.upenn.edu/%7Ebcpierce/courses/670Fall04/GreatWorksInPL.shtml
+> https://news.ycombinator.com/item?id=33037463
+
 https://andregarzia.com/2021/01/lua-a-misunderstood-language.html
 > https://news.ycombinator.com/item?id=33022031
 

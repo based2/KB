@@ -30,9 +30,15 @@ https://jeffe.cs.illinois.edu/teaching/algorithms/#book
 
 # State machine
 https://barrgroup.com/embedded-systems/how-to/introduction-hierarchical-state-machines
+
 https://felixge.de/2017/07/27/implementing-state-machines-in-postgresql/
+
 https://github.com/michelp/pgfsm
+
 https://ef.gy/fsm-recursive-sql
+
+https://github.com/cpressey/Facts-about-State-Machines
+> https://news.ycombinator.com/item?id=33025466
 
 # Sort
 https://github.com/scandum/fluxsort
@@ -86,6 +92,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://shwestrick.github.io/2022/09/27/useful-races.html
+> https://news.ycombinator.com/item?id=33054378
+
 https://www.joeantonakakis.com/posts/divide-without-division-operator/
 > https://news.ycombinator.com/item?id=32972763
 

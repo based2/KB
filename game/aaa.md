@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://news.ycombinator.com/item?id=33041733
+
 https://fabiensanglard.net/cpsb/index.html
 
 https://rasterscroll.com/the-birth-of-seven-force/

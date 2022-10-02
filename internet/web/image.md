@@ -63,6 +63,10 @@ https://blog.fidelramos.net/photography/photography-workflow
 https://puri.sm/posts/cameras-its-complicated/
 > https://news.ycombinator.com/item?id=31341393
 
+https://lycheeorg.github.io/ PHP
+> https://news.ycombinator.com/item?id=33046281
+> > https://github.com/photoview/photoview go
+
 https://kosmofoto.com/2021/02/east-germanys-plans-for-a-space-age-autofocus-slr/
 
 https://www.darktable.org/2022/07/darktable-4.0/

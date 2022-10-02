@@ -35,6 +35,8 @@ https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 
 #
+https://golang.ch/a-golang-based-simple-easy-to-use-elegant-open-source-home-cloud-system/
+
 https://github.com/meienberger/runtipi
 > https://news.ycombinator.com/item?id=32775339
 

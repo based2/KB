@@ -9,6 +9,9 @@ https://www.the-diy-life.com/pi-shortage-are-these-worthwhile-raspberry-pi-alter
 https://www.jeffgeerling.com/tags/parts-shortage
 
 #
+https://www.ikejima.org/projects/2022091-egg-laptop.html
+> https://news.ycombinator.com/item?id=33045219
+
 https://github.com/librerpi/
 > https://news.ycombinator.com/item?id=32848110
 

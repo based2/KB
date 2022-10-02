@@ -99,6 +99,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://scholarshare.temple.edu/bitstream/handle/20.500.12613/8070/IliadisEtAl-JournalArticle-2022-08.pdf?sequence=1&isAllowed=y The seer and the seen: Surveying Palantir’s surveillance platform
+
 https://github.blog/changelog/2022-09-29-private-profiles-are-now-generally-available/
 > https://news.ycombinator.com/item?id=33029322
 

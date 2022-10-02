@@ -244,6 +244,8 @@ https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-in
 https://render.com/docs/monorepo-support
 > https://news.ycombinator.com/item?id=32876866
 
+https://github.com/typeofweb/ignore-monorepo-buildstep
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 

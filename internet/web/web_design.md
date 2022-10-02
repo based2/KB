@@ -78,6 +78,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb
+> https://news.ycombinator.com/item?id=33047199
+
 https://news.ycombinator.com/item?id=33032422 Click timing should be based on intent, not reality
 
 https://www.wiley.com/en-us/Typographic+Web+Design:+How+to+Think+Like+a+Typographer+in+HTML+and+CSS-p-9781119976875

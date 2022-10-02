@@ -139,6 +139,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://forum.faforever.com/topic/4911/currently-no-email-dispatch-to-gmail-possible
+> https://news.ycombinator.com/item?id=33050285
+
 http://boston.conman.org//2022/09/22.1
 > https://news.ycombinator.com/item?id=32969374
 

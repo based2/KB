@@ -45,7 +45,14 @@ http://ganglia.sourceforge.net/
 https://techblog.bozho.net/the-syslog-hell/
 > https://news.ycombinator.com/item?id=27104469
 
+# Security
+https://gist.github.com/susam/75c37fd0aff9c5e25112eac75b9ed055 Recon and Attack Vectors from My Logs
+> https://news.ycombinator.com/item?id=33054379
+
 # New entrant
+https://github.com/SigNoz/signoz APM
+> https://news.ycombinator.com/item?id=33049046
+
 https://www.kartar.net/2020/05/a-bit-of-a-vector/
 
 https://kizniche.github.io/Mycodo/About/
