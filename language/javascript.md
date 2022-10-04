@@ -451,11 +451,14 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://kittygiraudel.com/2022/09/30/templating-in-html/
+
+https://github.com/axios/axios Promise based HTTP client for the browser and node.js
+
 https://telefunc.com/
 > https://news.ycombinator.com/item?id=33050883
 
 https://github.com/nextapps-de/winbox
-> 
 
 https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/
 > https://news.ycombinator.com/item?id=32960638

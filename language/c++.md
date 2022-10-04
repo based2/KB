@@ -1,3 +1,6 @@
+https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23
+> https://news.ycombinator.com/item?id=33084431
+
 https://www.foonathan.net/2022/09/new-integer-types/
 > https://news.ycombinator.com/item?id=33032802
 

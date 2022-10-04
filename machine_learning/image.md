@@ -61,6 +61,9 @@ https://thisxdoesnotexist.com/
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
 ## Stable diffusion
+https://jalammar.github.io/illustrated-stable-diffusion/
+> https://news.ycombinator.com/item?id=33084205
+
 https://stability.ai/blog/stable-diffusion-public-release
 > https://www.artificialintelligence-news.com/2022/08/24/stable-diffusion-text-to-image-generator-now-publicly-available/
 > > https://huggingface.co/spaces/CompVis/stable-diffusion-license

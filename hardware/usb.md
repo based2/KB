@@ -25,6 +25,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://goughlui.com/2021/09/03/note-potential-issues-of-using-a-usb-powerbank-as-a-ups/
+> https://news.ycombinator.com/item?id=33077407
+
 https://apple.stackexchange.com/questions/313005/how-to-select-power-direction-over-usb-c
 > https://news.ycombinator.com/item?id=33032784
 

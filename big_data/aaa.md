@@ -253,6 +253,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/nocodb/nocodb Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs
+
 https://quarto.org/
 
 https://docarray.jina.ai/get-started/what-is/

@@ -119,6 +119,13 @@ https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready
 > https://news.ycombinator.com/item?id=29993007
 
 #
+https://nats.io/blog/matrix-dendrite-kafka-to-nats/
+
+https://github.com/bkupidura/broker-ha Golang MQTT broker with clustering capabilities
+
+https://dagster.io/blog/skip-kafka-use-postgres-message-queue
+> https://news.ycombinator.com/item?id=33083661
+
 https://www.scylladb.com/2022/06/14/how-palo-alto-networks-replaced-kafka-with-scylladb-for-stream-processing/
 > https://news.ycombinator.com/item?id=31759234
 

@@ -94,6 +94,10 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://blog.documentfoundation.org/media-hub/index-of-videos/
+
+https://www.phoronix.com/news/Intel-iGPU-Avoid-Linux-5.19.12
+
 https://www.zdnet.com/article/linus-torvalds-talks-rust-on-linux-his-work-schedule-and-life-with-his-m2-macbook-air/
 
 https://github.com/redhat-performance/tuned Daemon for monitoring and adaptive tuning of system devices

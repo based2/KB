@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie
+
 https://n.survol.fr/n/valiuz-et-donnees-personnelles
 
 https://fr.linkedin.com/pulse/la-cnil-le-cookie-et-lediteur-de-site-web-marc-antoine-ledieu?trk=public_post

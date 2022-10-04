@@ -129,6 +129,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://github.com/jamii/hytradboi-jam-2022
+> https://news.ycombinator.com/item?id=33070247
+
 https://karatelabs.github.io/karate/
 
 https://github.com/vitest-dev/vitest

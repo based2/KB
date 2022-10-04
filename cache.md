@@ -38,6 +38,9 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://github.com/twitter/pelikan Twitter's unified cache backend
+> https://news.ycombinator.com/item?id=33050004
+
 https://kinduff.com/2022/09/28/the-4-minute-bug/
 > https://news.ycombinator.com/item?id=33007864
 

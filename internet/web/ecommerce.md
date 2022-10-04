@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://worldofmatthew.com/technology/amazon-itunes-deception/
+> https://news.ycombinator.com/item?id=33078719
+
 https://www.bedelstein.com/post/mcmaster-carr
 > https://news.ycombinator.com/item?id=32976978
 

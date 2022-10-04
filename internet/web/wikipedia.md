@@ -44,8 +44,9 @@ https://www.bookstackapp.com/ php
 https://news.ycombinator.com/item?id=30392849
 
 # News
+https://lingualibre.org/wiki/LinguaLibre:Main_Page
+
 http://rcmap.hatnote.com/#en
-> 
 
 https://news.mit.edu/2022/study-finds-wikipedia-influences-judicial-behavior-0727
 > https://news.ycombinator.com/item?id=32294528

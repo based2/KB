@@ -70,6 +70,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://github.com/emersion/slurp
+
 https://github.com/GloriousEggroll/proton-ge-custom
 
 https://foundation.gnome.org/2022/09/21/introducing-gnome-43/

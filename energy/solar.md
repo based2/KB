@@ -16,6 +16,10 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://interestingengineering.com/science/30-percent-barrier-solar-cells-breached
+
+https://www.tue.nl/en/news-and-events/news-overview/27-09-2022-four-terminal-perovskite-silicon-pv-tandem-devices-hit-30-efficiency/
+
 https://www.youtube.com/watch?v=m8crjuL8FFs Exploring Solar Panel Efficiency Breakthroughs in 2022
 
 https://www.youtube.com/watch?v=tQmFVcD-Mbo Solar 3.0: This New Technology Could Change Everything, Perovskite

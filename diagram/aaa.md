@@ -24,6 +24,9 @@ https://gaphor.org/
 https://web.cs.upb.de/archive/fujaba/
 > https://github.com/fujaba/SDMLib
 
+https://tratt.net/laurie/blog/2022/uml_my_part_in_its_downfall.html
+> https://news.ycombinator.com/item?id=33077533
+
 ## Sequence
 
 https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000

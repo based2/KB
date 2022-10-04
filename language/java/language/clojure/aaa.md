@@ -83,6 +83,9 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://wobaka.com/blog/building-a-startup-on-clojure/
+> https://news.ycombinator.com/item?id=33081443
+
 https://news.ycombinator.com/item?id=33018037
 
 https://blog.janetacarr.com/fix-your-clojure-code-clojure-comes-with-design-patterns-part-2/

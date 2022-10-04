@@ -285,6 +285,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b
+> https://news.ycombinator.com/item?id=33082128
+
 https://www.cis.upenn.edu/%7Ebcpierce/courses/670Fall04/GreatWorksInPL.shtml
 > https://news.ycombinator.com/item?id=33037463
 

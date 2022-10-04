@@ -48,3 +48,5 @@ https://news.ycombinator.com/item?id=32774646
 
 https://ounapuu.ee/posts/2022/09/26/minimum-viable-fan-control-script/
 > https://news.ycombinator.com/item?id=32980171
+
+https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html

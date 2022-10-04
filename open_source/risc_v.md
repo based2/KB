@@ -74,6 +74,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://www.tomshardware.com/news/risc-v-laptop-world-first
+> https://news.ycombinator.com/item?id=33084508
+
 https://www.sifive.com/press/nasa-selects-sifive-and-makes-risc-v-the-go-to-ecosystem
 > https://news.ycombinator.com/item?id=32740653
 

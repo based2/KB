@@ -98,6 +98,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c
+> https://news.ycombinator.com/item?id=33081159
+
 https://univalence.me/posts/mvsqlite-2
 > https://news.ycombinator.com/item?id=32961656
 

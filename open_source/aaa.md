@@ -230,6 +230,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://sill.etalab.gouv.fr/software
+
 https://catgirl.ai/log/elegy-gnu/
 > https://news.ycombinator.com/item?id=33052127
 

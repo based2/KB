@@ -220,6 +220,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://r2c.dev/blog/2022/introducing-semgrep-supply-chain/
+> https://news.ycombinator.com/item?id=33082064
+
 https://engineering.atspotify.com/2022/09/from-development-to-real-users-how-to-create-a-web-performance-story/
 
 https://github.com/useful-forks/useful-forks.github.io

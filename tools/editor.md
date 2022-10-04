@@ -220,6 +220,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://petevilter.me/post/datalog-typechecking/
+> https://news.ycombinator.com/item?id=33076092
+
 https://github.com/neovim/neovim/releases/tag/v0.8.0
 > https://news.ycombinator.com/item?id=33037151
 

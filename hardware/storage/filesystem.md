@@ -28,6 +28,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6
+> https://news.ycombinator.com/item?id=33076012
+
 https://dataswamp.org/~solene/2022-09-21-btrfs-compression.html
 > https://news.ycombinator.com/item?id=32928995
 

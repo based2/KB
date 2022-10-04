@@ -1,3 +1,6 @@
+https://staceyoniot.com/matter-is-now-official/
+> https://news.ycombinator.com/item?id=33083550
+
 https://www.technologyreview.com/2022/08/19/1057848/array-of-things-goes-global/
 
 https://blog.cloudflare.com/rethinking-internet-of-things-security/

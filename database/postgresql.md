@@ -259,6 +259,12 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://supabase.com/blog/postgres-wasm
+> https://news.ycombinator.com/item?id=33067962
+
+https://www.cybertec-postgresql.com/en/products/pg_squeeze/
+> https://news.ycombinator.com/item?id=33081709
+
 https://blog.cleverelephant.ca/2022/10/postgresql-links.html
 
 https://www.postgresql.org/about/news/postgresql-15-rc-1-released-2516/
