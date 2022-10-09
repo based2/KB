@@ -74,4 +74,7 @@ https://mjtsai.com/blog/2022/09/20/zeroing-freed-memory/
 https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator
 > https://www.reddit.com/r/programming/comments/xmnfo8/untangling_lifetimes_the_arena_allocator/
 
-https://www.cs.utexas.edu/users/speedway/DaCapo/papers/immix-pldi-2008.pdf Immix: A Mark-Region Garbage Collector with Space Efficiency, Fast Collection, and Mutator Performance 
+https://www.cs.utexas.edu/users/speedway/DaCapo/papers/immix-pldi-2008.pdf Immix: A Mark-Region Garbage Collector with Space Efficiency, Fast Collection, and Mutator Performance
+
+https://www.mattkeeter.com/blog/2022-10-04-ssra/ The Solid-State Register Allocator
+> https://www.reddit.com/r/programming/comments/xy8niw/the_solidstate_register_allocator/

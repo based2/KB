@@ -73,6 +73,9 @@ https://github.com/robhagemans/hoard-of-bitfonts
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://simplifier.neocities.org/4x4.html
+> https://news.ycombinator.com/item?id=33127419
+
 https://jason.today/little-worlds
 > https://news.ycombinator.com/item?id=31481581
 

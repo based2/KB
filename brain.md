@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.nature.com/articles/s41586-022-05279-8 Inferring and perturbing cell fate regulomes in human brain organoids
+> https://news.ycombinator.com/item?id=33128941
+
 https://www.eetimes.com/reverse-engineering-insect-brains-to-make-robots/
 
 https://www.technologyreview.com/2022/08/17/1058090/mini-caps-measure-activity-lab-grown-minibrains/

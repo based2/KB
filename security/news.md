@@ -1,3 +1,33 @@
+https://github.com/fox-it/dissect
+> https://www.reddit.com/r/netsec/comments/xvppqs/dissect_an_incident_response_gamechanger/
+
+https://vigilance.fr/vulnerabilite/Keycloak-execution-de-code-via-SAML-Protocol-Mapper-Javascript-Upload-39469
+
+https://vigilance.fr/vulnerabilite/RabbitMQ-chiffrement-faible-via-Predictable-Credential-Obfuscation-Seed-39478
+
+https://www.bloomberg.com/news/articles/2022-10-07/facebook-warning-1-million-about-stolen-usernames-passwords
+
+https://content.events.ccc.de/cfp/37c3/index.en.html
+> https://news.ycombinator.com/item?id=33138933
+
+https://www.trenchesofit.com/2022/09/30/zoneminder-web-app-testing/
+
+https://www.bleepingcomputer.com/news/security/fortinet-warns-admins-to-patch-critical-auth-bypass-bug-immediately/
+
+https://www.bleepingcomputer.com/news/linux/linux-kernel-51912-bug-could-damage-intel-laptop-displays/
+
+https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1701492&dswid=8601 Penetration testing wireless keyboards: Are your devices vulnerable?
+> https://news.ycombinator.com/item?id=33123406
+
+https://www.spiderfoot.net/uncovering-a-fake-recruiter-scam/
+> https://www.reddit.com/r/netsec/comments/xxeb3p/uncovering_a_fake_recruiter_scam_with_osint/
+
+https://r2c.dev/blog/2022/testing-vulnerable-pyyaml-versions/
+
+https://sec-consult.com/blog/detail/melting-the-dns-iceberg-taking-over-your-infrastructure-kaminsky-style/
+
+https://vigilance.fr/vulnerabilite/OpenSSH-trois-vulnerabilites-39456
+
 https://www.schneier.com/blog/archives/2022/08/nists-post-quantum-cryptography-standards.html
 
 https://techxplore.com/news/2022-08-whatsapp-messages-encryptedbut-traceable.html

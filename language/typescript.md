@@ -83,6 +83,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://coderoasis.com/typescript-10-years-old/
+> https://news.ycombinator.com/item?id=33139064
+
 https://semaphoreci.com/blog/javascript-bun
 
 https://devblogs.microsoft.com/typescript/ten-years-of-typescript/

@@ -1,3 +1,5 @@
+https://github.com/dogancanbakir/pirebok
+
 https://security.googleblog.com/2022/09/fuzzing-beyond-memory-corruption.html
 
 https://blog.fuzzbuzz.io/fuzzing-go-apis-for-sql-injection/
@@ -21,6 +23,9 @@ https://portswigger.net/daily-swig/snapfuzz-new-fuzzing-tool-speeds-up-testing-o
 
 https://github.com/matusf/openapi-fuzzer
 > https://news.ycombinator.com/item?id=29231804
+
+https://blog.bricked.tech/posts/tmnf/part1/
+> https://www.reddit.com/r/netsec/comments/xwb9hh/fuzzing_trackmania_nations_forever_for_rce/
 
 https://security.googleblog.com/2021/11/clusterfuzzlite-continuous-fuzzing-for.html
 > https://news.ycombinator.com/item?id=29188664

@@ -130,6 +130,15 @@ https://github.com/logsem/aneris coq, ocaml
 # concurrencyngs
 
 # News
+https://medium.com/nerd-for-tech/distributed-system-models-966ff15fe84d
+
+https://github.com/jafarlihi/cppq Simple, reliable & efficient distributed task queue for C++17. Backed by Redis
+
+https://wingolog.org/archives/2022/10/03/on-correct-and-efficient-work-stealing-for-weak-memory-models
+> https://www.linuxjournal.com/content/lock-free-multi-producer-multi-consumer-queue-ring-buffer
+> > https://github.com/samsquire/multiversion-concurrency-control Implementation of multiversion concurrency control, Raft, Left Right concurrency Hashmaps and a multi consumer multi producer Ringbuffer, concurrent and parallel load-balanced loops, parallel actors implementation in Main.java
+> https://news.ycombinator.com/item?id=33065142
+
 https://github.com/go-micro/go-micro
 > https://news.ycombinator.com/item?id=33030611
 

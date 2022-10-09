@@ -34,6 +34,8 @@ https://getfedora.org/
 
 https://en.wikipedia.org/wiki/Ubuntu
 
+https://ubuntu.com/blog/ubuntu-pro-beta-release
+
 # Oracle Oracle
 
 # Gentoo

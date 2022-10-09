@@ -262,6 +262,10 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.reddit.com/r/java/comments/xx2ra8/java_onramp_fully_defined_entrypoints_an/
+
+https://lists.apache.org/thread/zxpp07j8r7nvkpj7th90o0bs0mq0cvc0 Tomcat 9.0.68
+
 https://old.reddit.com/r/java/comments/xrmkj1/jdk8294349_unnamed_local_variables_and_patterns/
 
 https://openjdk.org/projects/amber/design-notes/on-ramp

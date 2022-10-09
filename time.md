@@ -211,6 +211,15 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://blog.ganssle.io/articles/2019/11/utcnow.html
+> https://news.ycombinator.com/item?id=33138302
+
+http://hummingbirdclock.info/about
+> https://news.ycombinator.com/item?id=33140973
+
+https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time
+> https://news.ycombinator.com/item?id=33131195
+
 https://www.timeanddate.com/time/internettime.html
 > https://news.ycombinator.com/item?id=32948420
 

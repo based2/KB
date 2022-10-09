@@ -48,6 +48,11 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://github.com/shubhamgrg04/awesome-diagramming
+
+https://github.com/AykutSarac/jsoncrack.com
+> https://news.ycombinator.com/item?id=33136351
+
 https://math.ucr.edu/home/baez/twf_young.pdf
 > https://news.ycombinator.com/item?id=32970404
 > > https://ncatlab.org/nlab/show/Lawvere%27s+fixed+point+theorem

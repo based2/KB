@@ -1,3 +1,9 @@
+https://www.magicleap.com/magic-leap-2
+> https://news.ycombinator.com/item?id=33136329
+
+https://simulavr.com/blog/subpoenaed-by-meta/
+> https://news.ycombinator.com/item?id=33108050
+
 https://arstechnica.com/gadgets/2022/09/nreals-380-ar-glasses-want-to-be-a-virtual-monitor-for-macbooks/
 > https://news.ycombinator.com/item?id=32996589
 

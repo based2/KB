@@ -1,5 +1,7 @@
 https://git-scm.com/
 
+https://people.irisa.fr/Anthony.Baire/git/git-for-beginners-handout.pdf
+
 https://pre-commit.com/
 
 https://github.com/summitech/gitexplorer

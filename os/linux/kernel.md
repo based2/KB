@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/SubscriberLink/909980/0dda4c09d5350466/ A discussion on printk()
+
 https://xorl.wordpress.com/2011/01/16/linux-kernel-aslr-implementation/
 
 https://lwn.net/SubscriberLink/908026/6284e31d9060a6ec/ The road to Zettalinux

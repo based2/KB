@@ -33,6 +33,8 @@ https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-databa
 https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 
 # News
+https://microsoftonlineguide.blogspot.com/2022/10/scalable-management-of-virtualized-ran.html
+
 https://www.shawntabrizi.com/aad/does-company-x-have-an-azure-active-directory-tenant/
 > https://news.ycombinator.com/item?id=33046188
 

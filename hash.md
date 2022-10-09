@@ -92,6 +92,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://www.algolia.com/blog/ai/vectors-vs-hashes/
+> https://news.ycombinator.com/item?id=33123972
+
 https://hackaday.io/project/178998-peac-pisano-with-end-around-carry-algorithm
 
 https://edps.europa.eu/sites/edp/files/publication/19-10-30_aepd-edps_paper_hash_final_en.pdf

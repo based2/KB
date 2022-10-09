@@ -32,6 +32,9 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/
+> https://news.ycombinator.com/item?id=33137708
+
 https://www.pcmag.com/news/nordvpn-actually-we-do-comply-with-law-enforcement-data-requests
 > https://news.ycombinator.com/item?id=30017084
 

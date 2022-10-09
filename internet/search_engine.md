@@ -60,6 +60,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://github.com/francelabs/datafari
+> https://linuxfr.org/news/sortie-de-datafari-5-3-moteur-de-recherche-open-source-pour-entreprise
+
 https://old.reddit.com/r/java/comments/xrrcpj/lucene_94_optionally_uses_panamas_mapped/
 
 https://picryl.com/ largest media source for public domain images, scans, and documents

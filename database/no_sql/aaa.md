@@ -1,3 +1,6 @@
+https://twitter.com/erickramirezau/status/1578063811495477248 Cassandra at Apple: 1000s of Clusters, 300k Nodes, 100 PB
+> https://news.ycombinator.com/item?id=33124631
+
 https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/
 > https://news.ycombinator.com/item?id=26737833
 
@@ -18,7 +21,6 @@ https://redis.io/docs/stack/
 > https://news.ycombinator.com/item?id=30863327
 
 https://duckdb.org/2022/07/27/art-storage.html
->
 
 https://www.edgedb.com/blog/edgedb-2-0
 > https://news.ycombinator.com/item?id=32267287

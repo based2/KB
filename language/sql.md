@@ -59,6 +59,8 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://hakibenita.com/future-proof-sql
+
 https://github.com/roapi/roapi/blob/main/columnq-cli/README.md
 > https://news.ycombinator.com/item?id=32963900
 

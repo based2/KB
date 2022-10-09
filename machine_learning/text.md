@@ -1,3 +1,5 @@
+https://explosion.ai/blog/coref
+
 https://explosion.ai/blog/floret-vectors
 
 https://techxplore.com/news/2022-04-method-bots-toxic-language.html

@@ -23,6 +23,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-cli-for-your-data-transfers
+> https://news.ycombinator.com/item?id=33125176
+
 https://www.googlecloudpresscorner.com/2022-10-04-Google-Cloud-Delivers-on-the-Promise-of-AI-and-Data-Interoperability-with-New-Medical-Imaging-Suite
 
 https://cloud.google.com/datastream-for-bigquery

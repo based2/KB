@@ -192,6 +192,8 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://news.ycombinator.com/item?id=33134059 Show HN: Reflame – Deploy your React web apps in milliseconds
+
 https://dinosaurs-with-jetpacks.com/posts/react-problems
 > https://news.ycombinator.com/item?id=33060235
 
@@ -451,6 +453,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://day.js.org/
+> https://news.ycombinator.com/item?id=33138050
+
 https://kittygiraudel.com/2022/09/30/templating-in-html/
 
 https://github.com/axios/axios Promise based HTTP client for the browser and node.js

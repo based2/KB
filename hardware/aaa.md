@@ -75,6 +75,24 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://hackaday.io/project/187683-diy-arduino-due-tea5767-fm-radio
+> https://news.ycombinator.com/item?id=33138894
+
+https://blog.seas.upenn.edu/rethinking-the-computer-chip-in-the-age-of-ai/
+> https://news.ycombinator.com/item?id=33129026
+
+https://www.makeuseof.com/best-dumb-tvs/
+> https://news.ycombinator.com/item?id=33141439
+
+https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/
+> https://news.ycombinator.com/item?id=33141517
+
+https://hardenedvault.net/blog/2022-10-08-alderlake_fw-leak/
+> https://news.ycombinator.com/item?id=33132850
+
+https://fuse.wikichip.org/news/7277/intel-sifive-demo-high-performance-risc-v-horse-creek-dev-platform-on-intel-4-process/
+> https://news.ycombinator.com/item?id=33129355
+
 https://chipsandcheese.com/2022/09/29/chinas-phytium-d2000-building-on-a72/
 
 https://www.zdnet.com/home-and-office/home-entertainment/i-spent-3000-on-a-samsung-smart-tv-and-all-i-got-were-ads-and-unwanted-content/

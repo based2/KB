@@ -36,6 +36,9 @@ https://destevez.net/2021/12/more-data-from-voyager-1/
 
 # Satellite
 
+https://mikepuchol.com/modeling-starlink-capacity-843b2387f501
+> https://news.ycombinator.com/item?id=33136554
+
 https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Reprogrammable_satellite_launched
 > https://news.ycombinator.com/item?id=28016744
 

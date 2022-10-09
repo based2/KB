@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/
+> https://news.ycombinator.com/item?id=33130641
+
 https://storage.courtlistener.com/recap/gov.uscourts.nysd.524076/gov.uscourts.nysd.524076.247.0.pdf
 > https://news.ycombinator.com/item?id=32926201
 

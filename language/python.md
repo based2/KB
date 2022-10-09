@@ -240,6 +240,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://nedbatchelder.com/blog/202210/decorator_shortcuts.html
+
 https://mypyc.readthedocs.io/en/latest/index.html
 
 https://github.com/dosisod/refurb A tool for refurbishing and modernizing Python codebases

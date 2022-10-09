@@ -32,6 +32,8 @@ https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-
 https://blog.quarkslab.com/ansible-security-assessment.html
 
 # News
+https://news.ycombinator.com/item?id=33122409
+
 https://www.ansible.com/blog/ansible-vs.-terraform-demystified
 
 https://www.jeffgeerling.com/blog/2022/aptkey-deprecated-debianubuntu-how-fix-ansible

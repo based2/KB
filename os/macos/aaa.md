@@ -39,6 +39,9 @@ https://www.puredarwin.org/
 > https://news.ycombinator.com/item?id=31943198
 
 # VM
+https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac
+> https://news.ycombinator.com/item?id=33143016
+
 https://github.com/foxlet/macOS-Simple-KVM
 
 https://github.com/kholia/OSX-KVM

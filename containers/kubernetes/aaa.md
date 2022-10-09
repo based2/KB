@@ -64,6 +64,15 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://www.groundcover.com/blog/ci-cd-kubernetes
+
+https://next.redhat.com/2022/10/06/signing-images/
+
+https://krishanshamod.medium.com/database-disaster-recovery-in-kubernetes-7947c362cf3a
+> https://www.reddit.com/r/kubernetes/comments/xyurzp/database_disaster_recovery_in_kubernetes/
+
+https://lists.apache.org/thread/7lkdxb8m5jl3jkxok6pz7b35q4k28w7g Apache APISIX Ingress controller v1.5.0 has been released
+
 https://home.robusta.dev/blog/stop-using-cpu-limits/
 > https://news.ycombinator.com/item?id=32996059
 

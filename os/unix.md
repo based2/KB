@@ -73,3 +73,6 @@ http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
 > https://news.ycombinator.com/item?id=31336396
 
 https://github.com/michaelengel/xv6-d1
+
+https://stevens.netmeister.org/631/ Advanced Programming in the UNIX Environment, CS631 - APUE
+> https://news.ycombinator.com/item?id=33140795

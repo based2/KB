@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+http://troubles.md/wasm-is-not-a-stack-machine/
+> https://news.ycombinator.com/item?id=33093897
+
 https://github.com/bots-garden/capsule
 > https://news.ycombinator.com/item?id=33054212
 

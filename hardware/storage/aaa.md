@@ -1,4 +1,7 @@
 # News
+https://blocksandfiles.com/2022/10/04/ibm-red-hat-storage/
+> https://news.ycombinator.com/item?id=33106723
+
 https://teenage.engineering/products/po-80 make your own vinyl records!
 > https://news.ycombinator.com/item?id=33020721
 

@@ -35,6 +35,8 @@ https://selinuxproject.org/page/Main_Page
 
 https://muhammadraza.me/2021/Linux-FS/
 
+https://www.youtube.com/watch?v=_WOKRaM-HI4
+
 # Libc
 https://en.wikipedia.org/wiki/GNU_C_Library
 > https://sourceware.org/git/glibc.git

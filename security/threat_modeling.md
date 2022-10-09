@@ -13,3 +13,8 @@ https://microsoft.github.io/Azure-Threat-Research-Matrix/
 
 https://aws.amazon.com/en/blogs/security/how-to-approach-threat-modeling/
 > https://explore.skillbuilder.aws/learn/course/external/view/elearning/13274/threat-modeling-the-right-way-for-builders-workshop
+
+https://medium.com/@alejandro.prada86/how-to-set-up-your-own-threat-intel-infrastructure-ii-2fd4063f02d0
+
+https://medium.com/@alejandro.prada86/how-to-set-up-your-own-threat-intelligence-infrastructure-i-fc76dd0b2461
+

@@ -114,6 +114,7 @@ https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 
 https://dl.acm.org/doi/10.1145/3544216.3544231 SDN in the stratosphere: loon's aerospace mesh network
 > https://news.ycombinator.com/item?id=32629286
+> https://www.micahlerner.com/2022/10/08/sdn-in-the-stratosphere-loons-aerospace-mesh-network.html
 
 # ISP
 https://www.dslreports.com/forum/wisp

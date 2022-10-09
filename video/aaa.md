@@ -103,6 +103,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://news.mit.edu/2022/battery-free-wireless-underwater-camera-0926
+> https://news.ycombinator.com/item?id=33136193
+
 https://github.com/joschuck/matrix-webcam
 
 https://linuxfr.org/news/campagne-de-financement-participatif-de-kdenlive-passer-le-montage-libre-au-niveau-superieur

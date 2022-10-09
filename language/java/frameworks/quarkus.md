@@ -20,6 +20,9 @@ https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-na
 https://piotrminkowski.com/2021/10/12/quarkus-tips-tricks-and-techniques/
 
 # News
+https://piotrminkowski.com/2022/10/06/quarkus-with-java-virtual-threads/
+> https://www.reddit.com/r/java/comments/xx09mv/quarkus_with_java_virtual_threads_piotrs_techblog/
+
 https://quarkus.io/blog/redis-job-queue/
 
 https://blog.kie.org/2022/09/monitoring-quarkus-applications-with-dashbuilder.html

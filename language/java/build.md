@@ -45,6 +45,8 @@ https://blog.frankel.ch/maven-flatten-plugin/
 
 https://andresalmiray.com/a-pom-by-any-other-name/
 
+https://lists.apache.org/thread/c9wt7s272jvyznxsl2o00o56rnyxb4l6 Maven JAR Plugin version 3.3.0
+
 https://lists.apache.org/thread/g5msrrbd5w65rgk5hwmzjh1pd9vl25qh Maven Install Plugin 3.0.0
 
 https://lists.apache.org/thread/24xlgpjyjofpp15b58yg2rybzr9zg0cy Apache Maven Wagon 3.5.2 released network

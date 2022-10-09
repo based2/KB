@@ -218,6 +218,15 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.allencheng.com/starting-a-business-around-gpt-3-is-a-bad-idea/
+> https://news.ycombinator.com/item?id=33140235
+
+https://fgiesen.wordpress.com/2022/10/06/on-alphatensors-new-matrix-multiplication-algorithms/
+> https://news.ycombinator.com/item?id=33117192
+
+https://lastweekin.ai/p/the-ai-scaling-hypothesis
+> https://news.ycombinator.com/item?id=33123514
+
 https://techxplore.com/news/2022-08-sensor-wildfires.html
 
 https://bdtechtalks.com/2022/07/25/large-language-models-cant-plan/

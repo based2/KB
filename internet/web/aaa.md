@@ -102,6 +102,8 @@ https://github.com/maxcountryman/warc-parquet
 > https://news.ycombinator.com/item?id=31867179
 
 # News
+https://news.ycombinator.com/item?id=33134021
+
 https://www.washingtonpost.com/opinions/2022/09/28/un-international-telecommunication-union-election/
 > https://news.ycombinator.com/item?id=33019711
 

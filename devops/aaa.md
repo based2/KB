@@ -104,6 +104,8 @@ https://guix.gnu.org/en/cuirass/
 
 https://neverworkintheory.org/2021/10/18/bad-practices-in-continuous-integration.html
 
+https://news.ycombinator.com/item?id=33131480 Show HN: Garnix, fast and easy CI for Nix
+
 # CD
 
 ArgoCD
@@ -220,6 +222,15 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6
+> https://www.reddit.com/r/kubernetes/comments/xy58f9/creating_an_internal_developer_platform/
+
+https://www.macchaffee.com/blog/2022/carrying-capacity/
+>
+
+https://github.com/adevinta/maiao/blob/main/docs/getting-started.md
+> https://news.ycombinator.com/item?id=33131720
+
 https://r2c.dev/blog/2022/introducing-semgrep-supply-chain/
 > https://news.ycombinator.com/item?id=33082064
 

@@ -99,6 +99,11 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://nltimes.nl/2022/10/09/dutch-employee-fired-us-firm-shutting-webcam-awarded-eu75000-court
+> https://news.ycombinator.com/item?id=33139827
+
+https://noyb.eu/en/new-us-executive-order-unlikely-satisfy-eu-law
+
 https://old.reddit.com/r/worldnews/comments/xtcqbc/politicians_warned_to_watch_out_as_integrity/
 
 https://scholarshare.temple.edu/bitstream/handle/20.500.12613/8070/IliadisEtAl-JournalArticle-2022-08.pdf?sequence=1&isAllowed=y The seer and the seen: Surveying Palantir’s surveillance platform

@@ -59,6 +59,9 @@ https://slack.engineering/continuous-load-testing/
 https://www.marcobehler.com/guides/load-testing
 > https://news.ycombinator.com/item?id=32960566
 
+https://k6.io/ JS, Go
+> https://github.com/grafana/k6
+
 # CDC
 https://martinfowler.com/articles/consumerDrivenContracts.html
 

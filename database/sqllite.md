@@ -98,6 +98,10 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii
+
+https://libsql.org/
+
 https://glaubercosta-11125.medium.com/sqlite-qemu-all-over-again-aedad19c9a1c
 > https://news.ycombinator.com/item?id=33081159
 

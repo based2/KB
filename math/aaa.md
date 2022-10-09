@@ -107,12 +107,21 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/
+> https://news.ycombinator.com/item?id=33130611
+
+https://langorigami.com/article/treemaker/
+
+https://news.ycombinator.com/item?id=33128972 Illuminating Hyperbolic Geometry (2015) [video]
+
+https://courses.cs.washington.edu/courses/cse590b/13au/ Algebraic Geometry for Computer Graphics - Jim Blinn
+> https://news.ycombinator.com/item?id=33133369
+
 https://linuxfr.org/news/des-nouvelles-du-frido
 
 https://news.ycombinator.com/item?id=33046291
 
 https://www.amolas.dev/blog/choose-the-smallest-number/
->
 
 https://www.quantamagazine.org/how-big-is-infinity-20220927/
 > https://news.ycombinator.com/item?id=32996952

@@ -35,7 +35,7 @@ https://uima.apache.org/
 https://hudi.apache.org/ build streaming data lakes with incremental data pipelines on a self-managing database layer
 
 #
-https://github.com/Netflix/metaflow
+https://github.com/Netflix/metaflow Build and manage real-life data science projects
 
 # Engine
 https://www.verizonmedia.com/press/open-sourcing-vespa-yahoo-s-big-data-processing-and-serving-eng/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAD_IuG3k-hjEefXlwFdfvIbvlzSxEI0-ro5FXcg1NZQgPPkRI0XV7oLdNdyTaq0JU_ph8QNbAPjwJgujZE930UqcjBLtHQDVrTgsE9wLgd6dVM5bRZdhzFG5ADo0IJnytNlfgvHMMTew6KtR18vLFzXTTb735TZjhBTGOuJ0CGwF vespa yahoo
@@ -253,6 +253,10 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.amolas.dev/blog/counterintuitive-coin-game/
+
+https://seatunnel.apache.org/blog Data integration
+
 https://github.com/nocodb/nocodb Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs
 
 https://quarto.org/

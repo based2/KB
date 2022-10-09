@@ -52,7 +52,13 @@ https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer
 
 https://en.wikipedia.org/wiki/Z1_(computer)
 
+https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer
+> https://news.ycombinator.com/item?id=33107108
+
 #
+https://csdb.dk/release/?id=210864 Transwarp v0.84 – 50x fastload system on plain vanilla stock 1541 (use with C64)
+> https://news.ycombinator.com/item?id=33140853
+
 https://dfarq.homeip.net/what-happened-to-tandy-computers/
 > https://news.ycombinator.com/item?id=32996656
 

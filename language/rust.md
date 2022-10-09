@@ -173,6 +173,8 @@ https://bholley.net/blog/2015/must-be-this-tall-to-write-multi-threaded-code.htm
 
 https://kerkour.com/cooperative-vs-preemptive-scheduling
 
+https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -269,7 +271,8 @@ https://cxx.rs/
 > https://news.ycombinator.com/item?id=30627495
 
 https://seri.tools/blog/announcing-rust9x/ Rust9x: Compile Rust code for Windows 95, NT and above
-> 
+
+https://github.com/google/crubit/blob/main/docs/design.md High-level design of C++/Rust interop
 
 ## MacOs
 https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
@@ -395,6 +398,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://nitter.net/LinaAsahi/status/1567752082060619776
+
 https://github.com/simonhyll/cargo-commander runner
 
 https://www.shuttle.rs/blog/2022/09/14/serentity-discord-bot

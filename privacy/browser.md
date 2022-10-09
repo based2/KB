@@ -12,6 +12,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-annoying-cookie-consent-banners/
+> https://news.ycombinator.com/item?id=33139148
+
 https://brave.com/privacy-updates/21-blocking-cookie-notices/
 
 https://news.ycombinator.com/item?id=33017131

@@ -5,6 +5,11 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://news.ycombinator.com/item?id=33133283
+
+https://kurtisknodel.com/blog/1Z7fBnGTIlOklNRJ0_nDXnANHcPRYSmRyakATw6lDts
+> https://news.ycombinator.com/item?id=33129685
+
 https://worldofmatthew.com/technology/amazon-itunes-deception/
 > https://news.ycombinator.com/item?id=33078719
 

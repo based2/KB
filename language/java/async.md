@@ -42,6 +42,8 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://www.reddit.com/r/java/comments/xwgooa/why_so_much_hate_for_webflux/
+
 https://www.infoq.com/articles/java-virtual-threads/
 > https://news.ycombinator.com/item?id=33024748
 

@@ -19,6 +19,11 @@ https://github.com/badamczewski/PowerUp .Net
 > https://news.ycombinator.com/item?id=32645860
 
 #
+https://www.sensibledefaults.io/blog/reverse-engineering-cat-feeder/index
+> https://news.ycombinator.com/item?id=33139062
+
+https://www.sans.org/blog/emulate-shellcode-radare2/
+
 https://hexus.net/tech/news/graphics/147447-3dfx-voodoo-5-6000-recreated-via-reverse-engineering/
 > https://news.ycombinator.com/item?id=32960140
 

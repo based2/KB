@@ -200,6 +200,9 @@ https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer 
 > https://news.ycombinator.com/item?id=32779930
 
 # News
+https://www.strmr.com/
+> https://news.ycombinator.com/item?id=33137302
+
 https://www.ghostlystock.com/
 > https://news.ycombinator.com/item?id=33038117
 

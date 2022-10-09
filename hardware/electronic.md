@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics/
+> https://news.ycombinator.com/item?id=33124991
+
 https://semiengineering.com/toward-domain-specific-eda/
 
 https://www.instructables.com/Soldering-Wires-Heres-a-Better-Way/

@@ -46,6 +46,11 @@ https://blog.persistent.info/2022/03/blog-post.html nfinite Mac: An Instant-Boot
 https://macos8.app/
 > https://news.ycombinator.com/item?id=31168646
 
+https://personal.garrettfuller.org/blog/2019/07/22/basilisk-ii-classic-mac-emulator/
+
+https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/
+> https://news.ycombinator.com/item?id=33136935
+
 # HyperCard
 https://hypercard.org/
 
@@ -98,6 +103,9 @@ http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/2
 https://news.ycombinator.com/item?id=27409410
 
 #
+http://muezza.ca/thoughts/favourite_computer/
+> https://news.ycombinator.com/item?id=33124986
+
 https://news.ycombinator.com/item?id=33056153
 
 http://bitsavers.informatik.uni-stuttgart.de/pdf/apple/mac/pink/Apple_Big_Pink_3_Mar1990.pdf Taligent, the Apple/IBM JV

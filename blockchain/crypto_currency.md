@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.theverge.com/2022/10/7/23392424/hacker-steals-570-million-binance-bnb-chain
+
 https://www.prnewswire.com/news-releases/darpa-launches-crypto-project-with-inca-digital-301632136.html
 
 https://www.theregister.com/2022/09/20/wintermute_hacked_160m/

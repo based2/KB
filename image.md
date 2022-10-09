@@ -11,6 +11,8 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://mazzo.li/posts/lanczos.html resize
+
 https://github.com/michaelgiba/iq manipulating images through expressions which transform pixels
 
 https://www.photopea.com/
