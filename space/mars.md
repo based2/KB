@@ -19,6 +19,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.nature.com/articles/s41550-022-01775-z Explaining Bright Radar Reflections Below The South Pole of Mars Without Liquid Water
+> https://news.ycombinator.com/item?id=33122441
+
 https://www.nature.com/articles/d41586-022-03056-1
 
 https://singularityhub.com/2022/09/04/nasa-says-it-can-now-reliably-produce-a-trees-worth-of-oxygen-on-mars/

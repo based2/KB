@@ -253,6 +253,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.kaggle.com/kaggle-survey-2022
+
 https://www.amolas.dev/blog/counterintuitive-coin-game/
 
 https://seatunnel.apache.org/blog Data integration

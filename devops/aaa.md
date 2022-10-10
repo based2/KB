@@ -126,6 +126,9 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://gitlab.com/gitlab-org/gitlab/-/issues/371098 RCE via github import
+> https://news.ycombinator.com/item?id=33155527
+
 https://about.gitlab.com/releases/2022/09/29/security-release-gitlab-15-4-1-released/
 
 https://blog.assetnote.io/2022/09/14/rce-in-bitbucket-server/

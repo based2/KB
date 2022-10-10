@@ -24,6 +24,9 @@ https://mockoon.com/
 > https://mockoon.com/docs/latest/import-export-data/
 > https://github.com/mockoon/mockoon
 
+https://stepci.com/
+> https://news.ycombinator.com/item?id=33151474
+
 #
 https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda
 > https://news.ycombinator.com/item?id=27897291

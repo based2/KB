@@ -75,6 +75,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://enzian.systems/
+> https://news.ycombinator.com/item?id=33147009
+
 https://hackaday.io/project/187683-diy-arduino-due-tea5767-fm-radio
 > https://news.ycombinator.com/item?id=33138894
 

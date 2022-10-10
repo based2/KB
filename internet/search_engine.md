@@ -60,6 +60,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://techcrunch.com/2022/10/10/meilisearch-lands-15m-investment-to-grow-its-search-as-a-service-business/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAALziqMbsGPRS_G0XjTuOBXDNJASQYT0kKd9QV2eXozlVhYJ7kCA8P6Jy4g6zyASqeeyV5o--Fiw7OcnYn1zMkLHyqAPRPX2j6Vk3ejypagYxzIGdBQM_ZMTn3HifYgygic-ExNNr1fcgzpPPGPYWP6VWKQFJNuPdqyi7ACLni6XZ
+> 
+
 https://github.com/francelabs/datafari
 > https://linuxfr.org/news/sortie-de-datafari-5-3-moteur-de-recherche-open-source-pour-entreprise
 

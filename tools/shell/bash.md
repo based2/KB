@@ -72,6 +72,9 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://www.xmodulo.com/catch-handle-errors-bash.html
+> https://news.ycombinator.com/item?id=33154240
+
 https://tiswww.case.edu/php/chet/bash/NEWS 5.2
 > https://news.ycombinator.com/item?id=32997520
 

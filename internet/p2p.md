@@ -55,6 +55,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://spectrum.ieee.org/peer-to-peer-network
+> https://news.ycombinator.com/item?id=33147071
+
 https://github.com/Kindelia/Kindelia
 > https://news.ycombinator.com/item?id=32630243
 

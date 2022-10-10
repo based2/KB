@@ -122,6 +122,13 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://news.ycombinator.com/item?id=33152788
+
+https://www.satellitetoday.com/telecom/2022/02/08/lynk-tests-connect-satellite-to-thousands-of-cell-phones-and-iot-devices/
+
+https://www.fiercetelecom.com/broadband/wisps-embrace-fiber-they-face-do-or-die-moment
+> https://news.ycombinator.com/item?id=33152762
+
 https://foundingfuel.com/article/the-contrarian/
 > https://news.ycombinator.com/item?id=33054047
 

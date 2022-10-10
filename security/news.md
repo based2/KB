@@ -1,3 +1,18 @@
+https://lwn.net/SubscriberLink/910435/3409056a2e8582f8/ Fingerprinting systems with TCP source-port selection
+
+https://peps.python.org/pep-0675/
+
+https://www.bleepingcomputer.com/news/security/toyota-discloses-data-leak-after-access-key-exposed-on-github/
+
+https://www.bleepingcomputer.com/news/security/intel-confirms-leaked-alder-lake-bios-source-code-is-authentic/
+
+https://economictimes.indiatimes.com/tech/technology/intels-proprietary-source-code-leaked-company-confirms/articleshow/94763248.cms
+
+https://www.tomshardware.com/news/intels-tunable-replica-circuit-tech-uses-telemetry-to-detect-cyberattacks
+
+https://axelp.io/UltimateUpdate
+> https://news.ycombinator.com/item?id=33147193
+
 https://github.com/fox-it/dissect
 > https://www.reddit.com/r/netsec/comments/xvppqs/dissect_an_incident_response_gamechanger/
 

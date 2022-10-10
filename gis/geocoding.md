@@ -23,3 +23,6 @@ https://github.com/thampiman/reverse-geocoder
 https://fabiensanglard.net/lte/index.html
 
 https://github.com/adulau/mmdb-server
+
+https://github.com/Xetnus/osm-finder
+> https://news.ycombinator.com/item?id=33122934

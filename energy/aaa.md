@@ -11,7 +11,12 @@ https://www.nrel.gov/news/program/2021/nrel-open-source-modeling-approach-cracks
 
 https://en.wikipedia.org/wiki/Duck_curve
 
+https://www.rte-france.com/eco2mix
+
 # News
+https://electrek.co/2022/10/10/wind-turbine-24-hour-power-world-record/
+> https://news.ycombinator.com/item?id=33154773
+
 https://www.bloomberg.com/news/articles/2022-10-01/gazprom-won-t-deliver-any-russian-gas-to-italy-on-saturday-eni#xj4y7vzkg
 
 https://www.euronews.com/2022/10/01/greece-bulgaria-pipeline-starts-operations-to-boost-non-russian-gas-flows

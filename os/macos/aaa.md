@@ -274,6 +274,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/
+> https://news.ycombinator.com/item?id=33152472
+
  smartctl
 
 https://news.ycombinator.com/item?id=33024863 Ask HN: Has the Apple Silicon excessive disk read/write issue been fixed?

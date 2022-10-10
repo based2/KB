@@ -97,6 +97,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://bitmaybewise.substack.com/p/when-nil-is-not-nil
+> https://news.ycombinator.com/item?id=33153592
+
 https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules
 
 https://go.dev/blog/go119runtime

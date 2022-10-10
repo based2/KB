@@ -61,6 +61,9 @@ https://thisxdoesnotexist.com/
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
 ## Stable diffusion
+https://github.com/invoke-ai/InvokeAI
+> https://news.ycombinator.com/item?id=33155074
+
 https://jalammar.github.io/illustrated-stable-diffusion/
 > https://news.ycombinator.com/item?id=33084205
 

@@ -1,3 +1,6 @@
+https://github.com/nepx/halfix x86 PC emulator that runs both natively and in the browser, via WebAssembly
+> https://news.ycombinator.com/item?id=33146693
+
 https://floooh.github.io/2021/12/17/cycle-stepped-z80.html
 > https://news.ycombinator.com/item?id=29602223
 

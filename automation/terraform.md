@@ -61,12 +61,16 @@ https://github.com/terraform-linters/tflint
 https://www.phillipsj.net/posts/terra-weather-a-weather-app-using-terraform/
 
 # Modules
+https://medium.com/version-1/terraform-in-real-life-writing-modules-c0b6b5335218
+
 https://medium.com/immuta-engineering/terraform-engineering-strategies-part-1-make-your-modules-thread-safe-1a7fdf1c2a2c
 
 https://github.com/verifa/terraplate DRY Terraform with Go Templates
 
 # Tests
 https://blog.searce.com/infrastructure-provisioning-of-terraform-by-using-kitchen-terraform-65070d54491f
+
+https://newcontext-oss.github.io/kitchen-terraform/
 
 # Sec
 
@@ -117,6 +121,8 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://blog.dmichael.be/2022/09/28/Terraform-External-Data-Provider-and-local-exec-Provisioner/
+
 https://grafana.com/blog/2022/09/20/grafana-alerts-as-code-get-started-with-terraform-and-grafana-alerting/
 
 https://doordash.engineering/2022/09/20/how-doordash-ensures-velocity-and-reliability-through-policy-automation/

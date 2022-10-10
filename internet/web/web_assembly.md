@@ -76,6 +76,11 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.continuation-labs.com/projects/d3wasm/
+
+https://runno.dev/wasi
+> https://news.ycombinator.com/item?id=33146686
+
 http://troubles.md/wasm-is-not-a-stack-machine/
 > https://news.ycombinator.com/item?id=33093897
 

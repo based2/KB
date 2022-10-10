@@ -130,6 +130,10 @@ https://github.com/logsem/aneris coq, ocaml
 # concurrencyngs
 
 # News
+https://www.gojek.io/blog/resiliency-in-distributed-systems
+
+https://sookocheff.com/post/distributed-systems/distributed-system-models-in-the-real-world/
+
 https://medium.com/nerd-for-tech/distributed-system-models-966ff15fe84d
 
 https://github.com/jafarlihi/cppq Simple, reliable & efficient distributed task queue for C++17. Backed by Redis

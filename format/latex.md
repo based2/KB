@@ -12,3 +12,6 @@ https://yakshav.es/the-patron-saint-of-yakshaves/ tex
 
 https://typst.app/
 > https://news.ycombinator.com/item?id=32209794
+
+https://jmtd.net/log/latex_writing/
+> https://news.ycombinator.com/item?id=33149857

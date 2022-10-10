@@ -19,6 +19,9 @@ https://github.com/badamczewski/PowerUp .Net
 > https://news.ycombinator.com/item?id=32645860
 
 #
+https://github.com/monkbai/DNN-decompiler BTD - Bin To DNN: A DNN Executables Decompiler
+> https://news.ycombinator.com/item?id=33143828
+
 https://www.sensibledefaults.io/blog/reverse-engineering-cat-feeder/index
 > https://news.ycombinator.com/item?id=33139062
 

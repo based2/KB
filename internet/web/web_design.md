@@ -78,6 +78,11 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://web.dev/new-patterns-for-amazing-apps/
+
+https://swisspost-web-frontend.netlify.app/#/home
+> https://news.ycombinator.com/item?id=33149504
+
 https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb
 > https://news.ycombinator.com/item?id=33047199
 

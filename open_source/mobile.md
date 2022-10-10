@@ -26,6 +26,9 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://proxy.vulpes.one/gemini/duncan.bayne.id.au/gemlog/back-to-android/
+> https://news.ycombinator.com/item?id=33150362
+
 https://thenewleafjournal.com/review-of-e-an-android-alternative-for-mobile-phones/
 > https://news.ycombinator.com/item?id=32414215
 

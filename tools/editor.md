@@ -75,6 +75,9 @@ https://vimcolorschemes.com/
 
 https://www.vim.org/vim90.php
 
+https://github.com/helix-editor/helix Rust
+> https://news.ycombinator.com/item?id=33147270
+
 https://github.com/ggandor/leap.nvim mouse
 > https://news.ycombinator.com/item?id=33134113
 

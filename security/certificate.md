@@ -37,6 +37,10 @@ https://mikkel.ca/blog/digging-into-quebecs-proof-of-vaccination/
 https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/
 > https://news.ycombinator.com/item?id=28244246
 
+# Incident
+https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concepts for Linus Henze's CoreTrust and DriverKit bugs (CVE-2022-26766, CVE-2022-26763)
+> https://news.ycombinator.com/item?id=33145136
+
 # News
 https://letsencrypt.org/2022/09/07/new-life-for-crls.html
 > https://news.ycombinator.com/item?id=32754016

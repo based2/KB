@@ -1,3 +1,6 @@
+https://www.owlbynight.com/blog/missing-the-point-of-vr/
+> https://news.ycombinator.com/item?id=33153329
+
 https://www.magicleap.com/magic-leap-2
 > https://news.ycombinator.com/item?id=33136329
 

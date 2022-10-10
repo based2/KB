@@ -105,6 +105,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://www.tumfatig.net/2022/ads-blocking-with-openbsd-unbound8/
+> https://news.ycombinator.com/item?id=33122419
+
 https://github.com/torstenvl/trex Tiny public domain regex library with UTF-8 support
 > https://news.ycombinator.com/item?id=33053323
 

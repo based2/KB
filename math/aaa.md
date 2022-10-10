@@ -107,6 +107,15 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://www.feynmanlectures.caltech.edu/I_06.html#Ch6-F2
+> https://news.ycombinator.com/item?id=33149213
+
+https://stackoverflow.com/questions/9190352/abusing-the-algebra-of-algebraic-data-types-why-does-this-work/41418365#41418365
+> https://news.ycombinator.com/item?id=33127602
+
+https://normaldeviate.wordpress.com/2012/11/17/what-is-bayesianfrequentist-inference/
+> https://news.ycombinator.com/item?id=33128272
+
 https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-problem-and-more-20221006/
 > https://news.ycombinator.com/item?id=33130611
 
