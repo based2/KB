@@ -36,5 +36,8 @@ https://phili.pe/posts/using-grep-for-simple-ci-tasks/
 https://susam.net/maze/wordle-with-grep.html
 > https://lobste.rs/s/qdszd9/wordle_with_grep
 
+https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith
+> https://news.ycombinator.com/item?id=33189503
+
 https://zwischenzugs.com/2022/02/02/grep-flags-the-good-stuff/
 > https://news.ycombinator.com/item?id=30179533

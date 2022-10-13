@@ -269,6 +269,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.blog/2022-10-13-the-story-of-scalar/
+
 https://devblogs.microsoft.com/oldnewthing/20220929-00/?p=107229
 > https://lobste.rs/s/dcqonj/i_did_merge_as_cherry_pick_thing_my_change
 

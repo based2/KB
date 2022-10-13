@@ -69,6 +69,9 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://www.goodtimes.sc/george-saunders-on-writing-short/
+> https://news.ycombinator.com/item?id=33155945
+
 https://joylere.substack.com/p/unabridged
 > https://news.ycombinator.com/item?id=32883471
 

@@ -51,6 +51,8 @@ https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam
 https://aws-controllers-k8s.github.io/community/docs/community/overview/
 
 #
+https://aws.amazon.com/en/blogs/containers/reducing-aws-fargate-startup-times-with-zstd-compressed-container-images/
+
 https://aws.amazon.com/en/blogs/mt/announcing-aws-observability-accelerator-to-configure-comprehensive-observability-for-amazon-eks/
 
 https://cloudly.engineer/2022/amazon-eks-iam-roles-and-policies-with-terraform/aws/

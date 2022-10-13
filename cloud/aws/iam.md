@@ -41,6 +41,9 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://www.firemon.com/aws-permission-boundaries-for-dummies/
+> https://news.ycombinator.com/item?id=33192295
+
 https://itnext.io/aws-iam-identity-center-access-tokens-are-stored-in-clear-text-and-no-thats-not-a-critical-68a48c1e398
 > https://www.reddit.com/r/netsec/comments/xkmicb/aws_iam_identity_center_access_tokens_are_stored/
 

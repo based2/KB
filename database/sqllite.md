@@ -98,6 +98,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
+> https://news.ycombinator.com/item?id=33182417
+
 https://contra.com/p/P7kB2RPO-bulk-inserting-nested-data-into-the-database-part-ii
 
 https://libsql.org/

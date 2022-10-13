@@ -133,6 +133,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://mta.openssl.org/pipermail/openssl-announce/2022-October/000237.html
+> https://news.ycombinator.com/item?id=33177631
+
 https://badssl.com/
 > https://news.ycombinator.com/item?id=33015094
 

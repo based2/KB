@@ -8,6 +8,9 @@ https://www.pouet.net/prod.php?which=59086 Hartverdrahtet by Akronyme Analogiker
 
 https://streaming.media.ccc.de/revision/revision
 
+http://www.textfiles.com/programming/astrainer.txt
+> https://news.ycombinator.com/item?id=33186077
+
 https://0fps.net/2012/07/12/smooth-voxel-terrain-part-2/
 
 http://demoscene-the-art-of-coding.net/2021/03/20/demoscene-accepted-as-unesco-cultural-heritage-in-germany/

@@ -453,6 +453,17 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://qwik.builder.io/
+> https://news.ycombinator.com/item?id=33170842
+
+https://kaleidawave.github.io/posts/introducing-ezno/
+
+https://hegel.js.org/ An advanced static type checker for JavaScript
+> https://news.ycombinator.com/item?id=33162275
+
+https://vite-plugin-ssr.com/
+> https://news.ycombinator.com/item?id=33188372
+
 https://day.js.org/
 > https://news.ycombinator.com/item?id=33138050
 

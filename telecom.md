@@ -122,6 +122,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.theregister.com/2022/10/13/uk_telcos_huawei_ban/
+> https://news.ycombinator.com/item?id=33192609
+
 https://news.ycombinator.com/item?id=33152788
 
 https://www.satellitetoday.com/telecom/2022/02/08/lynk-tests-connect-satellite-to-thousands-of-cell-phones-and-iot-devices/

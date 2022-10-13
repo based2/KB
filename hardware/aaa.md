@@ -75,6 +75,12 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://ounapuu.ee/posts/2022/10/13/recovering-password-locked-thinkpad-t60/
+> https://news.ycombinator.com/item?id=33187494
+
+https://www.techspot.com/news/96287-analysts-estimate-ssd-prices-drop-50-percent-mid.html
+> https://news.ycombinator.com/item?id=33193142
+
 https://enzian.systems/
 > https://news.ycombinator.com/item?id=33147009
 

@@ -39,6 +39,15 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://arstechnica.com/gadgets/2022/10/virtualbox-7-0-adds-first-arm-mac-client-full-encryption-windows-11-tpm/
+> https://news.ycombinator.com/item?id=33186729
+
+https://determinate.systems/posts/qemu-fix
+> https://news.ycombinator.com/item?id=33192152
+
+https://driftingin.space/posts/plane
+> https://news.ycombinator.com/item?id=33178797
+
 https://cloudplane.org/blog/apko
 
 https://openinfra.dev/projects/

@@ -115,6 +115,9 @@ https://github.com/sebsto/xcodeinstall
 
 https://news.ycombinator.com/item?id=32971599 Ask HN: Xcode users – how do you make it more usable?
 
+https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
+> https://news.ycombinator.com/item?id=33187858
+
 # M2
 https://www.macworld.com/article/819644/m2-macbook-air-usb-c-67w-35w-dual-compact-charger.html
 

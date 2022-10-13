@@ -58,3 +58,6 @@ https://pubmed.ncbi.nlm.nih.gov/34023789/
 https://thekidshouldseethis.com/post/koi-are-unusual-kitchen-helpers-in-the-kabata-of-harie-japan
 
 https://www.bbc.com/travel/article/20221009-the-return-of-aztec-floating-farms
+
+https://www.cbsnews.com/news/an-australian-startup-is-growing-water-for-drought-parched-california/
+> https://news.ycombinator.com/item?id=33146017

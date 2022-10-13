@@ -25,6 +25,9 @@ http://www.mutt.org/relnotes/2.2/
 https://git.meli.delivery/meli/meli
 > https://news.ycombinator.com/item?id=32887175
 
+https://aerc-mail.org/
+> https://news.ycombinator.com/item?id=33166054
+
 # Test
 https://github.com/reacherhq/check-if-email-exists
 > https://news.ycombinator.com/item?id=27705742

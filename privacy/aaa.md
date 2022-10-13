@@ -99,6 +99,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://cybernews.com/privacy/dji-drone-tracking-data-exposed-in-us/
+> https://news.ycombinator.com/item?id=33192846
+
 https://nltimes.nl/2022/10/09/dutch-employee-fired-us-firm-shutting-webcam-awarded-eu75000-court
 > https://news.ycombinator.com/item?id=33139827
 

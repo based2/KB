@@ -218,6 +218,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://spectrum.ieee.org/large-language-models-math
+> https://news.ycombinator.com/item?id=33176996
+
+https://github.com/google/vizier Python-based research interface for blackbox and hyperparameter optimization, based on Google's internal Vizier Service
+>
+
 https://www.allencheng.com/starting-a-business-around-gpt-3-is-a-bad-idea/
 > https://news.ycombinator.com/item?id=33140235
 

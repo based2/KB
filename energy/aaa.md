@@ -14,6 +14,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.pv-tech.org/greece-runs-entirely-on-renewables-for-the-first-time-in-its-history/
+> https://news.ycombinator.com/item?id=33174606
+
 https://electrek.co/2022/10/10/wind-turbine-24-hour-power-world-record/
 > https://news.ycombinator.com/item?id=33154773
 

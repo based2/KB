@@ -78,6 +78,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://uxdesign.cc/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed
+> https://news.ycombinator.com/item?id=33176668
+
 https://web.dev/new-patterns-for-amazing-apps/
 
 https://swisspost-web-frontend.netlify.app/#/home

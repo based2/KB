@@ -21,6 +21,12 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://www.geoffchappell.com/studies/windows/km/ntoskrnl/inc/api/ntexapi_x/kuser_shared_data/index.htm
+> https://news.ycombinator.com/item?id=33146484
+
+https://tuxphones.com/capyloon-firefox-os-b2gos-linux/
+> https://news.ycombinator.com/item?id=33170044
+
 https://serenityos.org/happy/4th/
 > https://news.ycombinator.com/item?id=33151658
 

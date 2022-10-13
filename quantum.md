@@ -79,6 +79,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.scottaaronson.com/democritus/lec9.html
+> https://news.ycombinator.com/item?id=33188276
+
 https://thenewstack.io/early-days-for-quantum-developers-but-serverless-coming/
 
 https://www.quantamagazine.org/physicists-rewrite-a-quantum-rule-that-clashes-with-our-universe-20220926/

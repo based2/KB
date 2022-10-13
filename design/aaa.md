@@ -83,6 +83,9 @@ https://ralphammer.com/make-me-think/
 > https://news.ycombinator.com/item?id=30269350
 
 #
+https://eleganthack.com/designs-unsexy-middle-bits/
+>
+
 https://vanschneider.com/blog/young-designers/junior-designers-vs-senior-designers/
 > https://news.ycombinator.com/item?id=33037975
 

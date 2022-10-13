@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://news.ycombinator.com/item?id=33178301
+
 https://www.forbes.com/sites/paultassi/2022/10/02/ubisoft-bungie-scrambling-to-evacuate-players-games-and-characters-from-a-capsizing-google-stadia/
 > https://news.ycombinator.com/item?id=33057354
 

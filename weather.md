@@ -34,6 +34,9 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://nickmcd.me/2022/10/01/procedural-wind-and-clouds-using-gpu-accelerated-lattice-boltzmann-method/
+> https://news.ycombinator.com/item?id=33137225
+
 https://mpimet.mpg.de/en/communication/news/single-news/page?tx_news_pi1%5Bnews%5D=1625&cHash=adb91342d7d66372c6f521b313d7f59f
 > https://news.ycombinator.com/item?id=33135695
 

@@ -18,6 +18,12 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.theverge.com/2022/10/13/23402157/sony-honda-electric-vehicles-evs-timeline-sales-2026
+> https://news.ycombinator.com/item?id=33189800
+
+https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/
+> https://news.ycombinator.com/item?id=33181112
+
 https://semiengineering.com/auto-safety-tech-adds-new-ic-design-challenges/
 > https://news.ycombinator.com/item?id=33125963
 

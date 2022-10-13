@@ -108,6 +108,13 @@ https://github.com/surrealdb/surrealdb
 https://notes.eatonphil.com/minimal-key-value-store-with-hashicorp-raft.html
 > https://news.ycombinator.com/item?id=32893090
 
+https://github.com/tigerbeetledb/tigerbeetle zig
+> https://github.com/tigerbeetledb/tigerbeetle/blob/main/docs/HISTORY.md
+> > https://news.ycombinator.com/item?id=33192288
+
+https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/
+> https://news.ycombinator.com/item?id=33187677
+
 # Test
 https://fsantanna.github.io/structured-concurrency.html
 > https://news.ycombinator.com/item?id=30754854

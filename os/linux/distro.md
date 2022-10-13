@@ -71,6 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://old.reddit.com/r/Ubuntu/comments/xxafiu/how_to_remove_advertisements_from_apt/
+> https://news.ycombinator.com/item?id=33173531
+
 https://github.com/joshiemoore/snakeware
 > https://news.ycombinator.com/item?id=33003245
 

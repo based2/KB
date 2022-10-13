@@ -1,4 +1,5 @@
-
+https://blog.akatz.org/fixing-macos-zsh-terminal-history-settings/
+> https://news.ycombinator.com/item?id=33186412
 
 https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org
 

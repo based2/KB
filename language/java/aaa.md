@@ -262,6 +262,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://download.java.net/java/early_access/jdk20/docs/api/java.base/java/lang/Float.html#float16ToFloat(short)
+> https://news.ycombinator.com/item?id=33182230
+
 https://www.reddit.com/r/java/comments/xx2ra8/java_onramp_fully_defined_entrypoints_an/
 
 https://lists.apache.org/thread/zxpp07j8r7nvkpj7th90o0bs0mq0cvc0 Tomcat 9.0.68

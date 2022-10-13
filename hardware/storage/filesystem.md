@@ -28,6 +28,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html automatic continuous snapshots
+> https://news.ycombinator.com/item?id=33162259
+
 https://itsfoss.com/btrfs/
 > https://news.ycombinator.com/item?id=33151967
 

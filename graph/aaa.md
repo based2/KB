@@ -48,9 +48,13 @@ https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-
 https://github.com/cassinius/graphinius Generic graph (analysis) library in Typescript
 
 # Database
+neo4j
+
 https://age.apache.org/# Postgresql
 
 http://janusgraph.org/
+
+https://memgraph.com/blog/lost-in-documentation-let-our-docs-recommendation-system-guide-you-along
 
 # Language
 

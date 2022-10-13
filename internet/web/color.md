@@ -68,6 +68,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://randoma11y.com/
+> https://news.ycombinator.com/item?id=33174784
+
 https://www.collabora.com/news-and-blog/news-and-events/hevc-uapi-mainlined.html
 > https://lobste.rs/s/xq00ml/hevc_uapi_mainlined
 

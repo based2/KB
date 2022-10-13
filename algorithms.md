@@ -92,6 +92,12 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://arxiv.org/abs/2210.04045 The FBHHRBNRSSSHK-Algorithm for Multiplication in ℤ5×52 is still not the end of the story
+> https://news.ycombinator.com/item?id=33180316
+
+https://dotat.at/@/2022-04-20-really-divisionless.html
+> https://news.ycombinator.com/item?id=33148393
+
 https://shwestrick.github.io/2022/09/27/useful-races.html
 > https://news.ycombinator.com/item?id=33054378
 

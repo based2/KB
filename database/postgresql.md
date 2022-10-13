@@ -259,6 +259,10 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://www.postgresql.org/about/news/postgresql-15-released-2526/
+> https://news.ycombinator.com/item?id=33190456
+> https://www.postgresql.org/docs/current/release-15.html
+
 https://supabase.com/blog/postgres-wasm
 > https://news.ycombinator.com/item?id=33067962
 

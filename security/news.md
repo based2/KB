@@ -1,3 +1,27 @@
+https://blintzbase.com/posts/pir-and-fhe-from-scratch/
+
+https://news.ycombinator.com/item?id=33177629
+
+https://news.ycombinator.com/item?id=33184547
+
+https://www.quantamagazine.org/how-to-prove-you-know-a-secret-without-giving-it-away-20221011/
+> https://news.ycombinator.com/item?id=33171214
+
+https://twitter.com/fo0_/status/1580146963579740160 #Telegram leak votre username dans l'header TLS
+> https://news.ycombinator.com/item?id=33189514
+
+https://www.theregister.com/2022/10/12/drone-roof-attack/
+> https://news.ycombinator.com/item?id=33191061
+
+https://www.bleepingcomputer.com/news/google/android-leaks-some-traffic-even-when-always-on-vpn-is-enabled/
+> https://news.ycombinator.com/item?id=33194105
+
+https://securedrop.org/news/securedrop-2_5_0-pre-release-announcement/
+> https://news.ycombinator.com/item?id=33189871
+
+https://github.com/metlo-labs/metlo open-source API security platform
+> https://news.ycombinator.com/item?id=33193666
+
 https://lwn.net/SubscriberLink/910435/3409056a2e8582f8/ Fingerprinting systems with TCP source-port selection
 
 https://peps.python.org/pep-0675/

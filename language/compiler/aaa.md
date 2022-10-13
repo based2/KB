@@ -104,6 +104,9 @@ https://twitter.com/rui314/status/1537279524341432320 mold/macOS is 11 times fas
 > > https://github.com/rui314/mold#why-is-mold-so-fast
 > https://www.phoronix.com/scan.php?page=news_item&px=Mold-1.3-Released
 
+https://developer.ibm.com/tutorials/l-dynamic-libraries/
+> https://news.ycombinator.com/item?id=33174996
+
 # Vectorization
 https://cvw.cac.cornell.edu/vector/default
 > https://news.ycombinator.com/item?id=27900592

@@ -66,6 +66,11 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://news.ycombinator.com/item?id=33177705
+
+https://words.filippo.io/dispatches/age-authentication/
+> https://news.ycombinator.com/item?id=33160028
+
 https://securitycryptographywhatever.buzzsprout.com/1822302/11122508-passkeys-feat-adam-langley
 
 https://support.okta.com/help/s/article/Important-Customer-Update-to-Okta-IP-Access-Policy?language=en_US

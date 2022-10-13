@@ -49,3 +49,6 @@ https://lists.apache.org/thread/vf226qskfy3z1gllvjpj62ysv7hoh882 Apache Teaclave
 (incubating) 0.2.0.
 
 https://www.smartcard-hsm.com//2022/06/20/using-the-sc-hsm-with-pgp.html
+
+https://blog.edgeless.systems/bring-your-own-key-was-a-lie-92587d7c73ec
+> https://news.ycombinator.com/item?id=33188420

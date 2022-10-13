@@ -361,6 +361,9 @@ https://ferrous-systems.com/blog/the-ferrocene-language-specification-is-here/
 https://lkml.org/lkml/2022/9/19/1105#1105.php
 > https://news.ycombinator.com/item?id=33056077
 
+https://github.com/viperproject/prusti-dev
+> https://news.ycombinator.com/item?id=33190973
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

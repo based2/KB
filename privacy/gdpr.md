@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=33191701 Ask HN: GDPR in 2022 – What do I need to know as a solo founder?
+
 https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie
 
 https://n.survol.fr/n/valiuz-et-donnees-personnelles

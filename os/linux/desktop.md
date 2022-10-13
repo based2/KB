@@ -40,6 +40,9 @@ Openoffice
 # Windows
 https://www.winehq.org/
 
+https://werat.dev/blog/how-wine-works-101/
+> https://news.ycombinator.com/item?id=33156727
+
 https://usebottles.com/
 > https://news.ycombinator.com/item?id=29612976
 > > https://www.winehq.org/ 

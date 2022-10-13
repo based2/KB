@@ -93,6 +93,9 @@ https://medium.com/@dmrickert/what-ssh-hacking-attempts-look-like-8f698e70a4f5
 # GPG SSH
 https://blog.dijit.sh//gpg-ssh-notes-for-current-best-practices
 
+https://moxie.org/2015/02/24/gpg-and-me.html
+> https://news.ycombinator.com/item?id=33187028
+
 # Management
 https://github.com/maxgoedjen/secretive Storing and managing SSH keys in the Secure Enclave
 > https://news.ycombinator.com/item?id=28853329

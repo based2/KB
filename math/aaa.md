@@ -107,6 +107,12 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/
+> https://news.ycombinator.com/item?id=33173443
+
+https://scottaaronson.blog/?p=6754 Explanation-Gödel and Plausibility-Gödel
+> https://news.ycombinator.com/item?id=33185482
+
 https://www.feynmanlectures.caltech.edu/I_06.html#Ch6-F2
 > https://news.ycombinator.com/item?id=33149213
 
