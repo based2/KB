@@ -219,6 +219,9 @@ https://github.com/jie123108/imgsmlr-server
 https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/
 > https://news.ycombinator.com/item?id=28873779
 
+https://supabase.com/blog/postgres-full-text-search-vs-the-rest
+> https://news.ycombinator.com/item?id=33203370
+
 # Queue
 https://spin.atomicobject.com/2021/02/04/redis-postgresql/
 > https://news.ycombinator.com/item?id=27482243
@@ -259,6 +262,8 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/
+
 https://www.postgresql.org/about/news/postgresql-15-released-2526/
 > https://news.ycombinator.com/item?id=33190456
 > https://www.postgresql.org/docs/current/release-15.html

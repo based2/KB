@@ -14,6 +14,9 @@ https://www.r-bloggers.com/2021/12/hundreds-of-statistical-machine-learning-mode
 https://xtdb.com/
 > https://news.ycombinator.com/item?id=29758334
 
+https://github.com/questdb/questdb/pull/2298 feat(core): io_uring prototype
+> 
+
 https://duckdb.org/2022/01/06/time-zones.html
 
 https://aicoding.substack.com/p/mindsdb-time-series

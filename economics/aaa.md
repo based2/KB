@@ -127,6 +127,8 @@ https://news.ycombinator.com/item?id=32182847 OpenBB Terminal: command-line Bloo
 https://news.ycombinator.com/item?id=33040873
 > https://www.cloud.com/news/press-release.html
 
+https://news.ycombinator.com/item?id=33212546
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

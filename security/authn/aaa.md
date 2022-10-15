@@ -66,6 +66,10 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://fusionauth.io/learn/expert-advice/tokens/revoking-jwts
+
+https://news.ycombinator.com/item?id=33203972 Ask HN: WebAuthn – Replace Password or Second Factor?
+
 https://news.ycombinator.com/item?id=33177705
 
 https://words.filippo.io/dispatches/age-authentication/

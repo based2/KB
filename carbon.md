@@ -59,6 +59,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.footprintcoalition.com/post/should-a-frequent-flyers-pay-for-the-decarbonization-of-the-air-industry
+> https://news.ycombinator.com/item?id=33197461
+
+https://www.cnbc.com/2022/10/13/what-is-solar-geoengineering-sunlight-reflection-risks-and-benefits.html
+> https://news.ycombinator.com/item?id=33197332
+
 https://cleantechnica.com/2022/09/06/switching-the-world-to-renewable-energy-will-cost-62-trillion-but-the-payback-would-take-just-6-years/
 
 https://club.greenit.fr/outils.html

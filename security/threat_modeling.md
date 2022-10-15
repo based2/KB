@@ -18,3 +18,9 @@ https://medium.com/@alejandro.prada86/how-to-set-up-your-own-threat-intel-infras
 
 https://medium.com/@alejandro.prada86/how-to-set-up-your-own-threat-intelligence-infrastructure-i-fc76dd0b2461
 
+https://www.inversecos.com/2022/10/how-to-investigate-insider-threats.html
+
+https://www.welivesecurity.com/2022/10/05/eset-threat-report-t2-2022/
+
+https://services.google.com/fh/files/blogs/gcat_threathorizons_full_sept2022.pdf
+

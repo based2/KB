@@ -147,6 +147,14 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://phys.org/news/2022-10-record-breaking-gamma-ray-possibly-powerful-explosion.html
+> https://apod.nasa.gov/apod/ap221015.html
+
+https://www.npr.org/2022/10/15/1129139476/black-hole-star-burp
+
+https://platform.leolabs.space/visualization leo
+> https://news.ycombinator.com/item?id=33205563
+
 https://techxplore.com/news/2022-08-software-defined-satellite-commercial.html
 
 https://www.nasaspaceflight.com/2022/10/firefly-to-the-black/

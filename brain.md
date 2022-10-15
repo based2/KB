@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.nature.com/articles/s41598-022-20460-9
+> https://news.ycombinator.com/item?id=33197285
+
 https://www.cell.com/neuron/fulltext/S0896-6273(22)00806-6 In vitro neurons learn and exhibit sentience in a simulated game-world
 
 https://nautil.us/a-new-doorway-to-the-brain-242099/

@@ -42,6 +42,11 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://vertx.io/blog/eclipse-vert-x-4-3-4/
+> https://github.com/vert-x3/vertx-virtual-threads-incubator
+
+https://www.reddit.com/r/java/comments/y12w6m/embracing_virtual_threads_with_spring/
+
 https://www.reddit.com/r/java/comments/xwgooa/why_so_much_hate_for_webflux/
 
 https://www.infoq.com/articles/java-virtual-threads/

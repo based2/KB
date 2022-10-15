@@ -12,6 +12,8 @@ https://blog.google/technology/research/project-starline-expands-testing/
 > https://techcrunch.com/2022/10/13/googles-3d-video-calling-booths-project-starline-will-now-be-tested-in-the-real-world/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAFdUFxoESIkRpGjPVwJaqnzDkIxv4mC2um1WIAi78dbAPhTgzzREFdne7SAdaTXliy439UtHhbxKKeCczQ9AowOb6r9NtS0HRExrVUCf6hHZ1fX8FRShz2TUToUGfiDdAKSHSdT0lHkowqLsbaWr3MavH7eCTrMuf70QThL2Veyx
 
 https://www.msn.com/en-us/health/health-news/microsofts-army-goggles-left-us-soldiers-with-nausea-headaches-in-test/ar-AA12UFAY
+> https://futurism.com/the-byte/microsoft-headset-disaster-military-test
+> > https://news.ycombinator.com/item?id=33215417
 
 https://www.owlbynight.com/blog/missing-the-point-of-vr/
 > https://news.ycombinator.com/item?id=33153329

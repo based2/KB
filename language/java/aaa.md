@@ -262,6 +262,13 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://www.reddit.com/r/java/comments/y391tb/the_java_logging_battleground_gets_two_new_updates/
+
+https://www.infoq.com/news/2022/10/modern-java-design-patterns/
+
+https://openjdk.org/jeps/431 JEP 431: Sequenced Collections
+> https://news.ycombinator.com/item?id=33174245
+
 https://download.java.net/java/early_access/jdk20/docs/api/java.base/java/lang/Float.html#float16ToFloat(short)
 > https://news.ycombinator.com/item?id=33182230
 

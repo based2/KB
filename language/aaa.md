@@ -100,6 +100,8 @@ https://esolangs.org/wiki/Airline_Food
 https://github.com/SinaKhalili/Folders.py
 > https://news.ycombinator.com/item?id=29913880
 
+https://tsk.bearblog.dev/cool-tricks-in-k/
+
 # Hackathon
 https://www.juricho.me/posts/online-hackathon/
 
@@ -201,6 +203,8 @@ https://arxiv.org/abs/2203.15110
 https://fortran-lang.org/learn/intrinsics
 > https://news.ycombinator.com/item?id=31776426
 
+https://news.ycombinator.com/item?id=33194773
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100
@@ -279,12 +283,18 @@ https://susam.net/maze/wall/paredit-slurp-and-barf-mnemonics.html
 https://github.com/kovisoft/paredit
 > https://news.ycombinator.com/item?id=32288193
 
+https://applied-langua.ge/posts/zero-feet.html
+> https://news.ycombinator.com/item?id=33201363
+
 # Book
 https://news.ycombinator.com/item?id=32788281
 
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www.softwareheritage.org/2021/12/20/software-stories/
+> https://news.ycombinator.com/item?id=33199597
+
 https://www-cs-faculty.stanford.edu/~knuth/news.html#v4b
 > https://news.ycombinator.com/item?id=33082128
 

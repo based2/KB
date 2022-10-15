@@ -1,3 +1,58 @@
+https://www.sandflysecurity.com/linux-compromise-detection-command-cheatsheet.pdf
+
+https://supportportal.juniper.net/s/article/2022-10-Security-Bulletin-Junos-OS-Multiple-vulnerabilities-in-J-Web?language=en_US
+
+https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html
+
+https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys
+
+https://medium.com/@boutnaru/linux-security-safesetid-c31f7d6dc6fc
+
+https://medium.com/@boutnaru/linux-security-lsm-linux-security-modules-907bbcf8c8b4
+
+https://www.reddit.com/r/netsec/comments/y40a9r/pdf_security_deepdive_into_the_internals_of/
+
+https://www.bleepingcomputer.com/news/security/new-npm-timing-attack-could-lead-to-supply-chain-attacks/
+
+https://www.bleepingcomputer.com/news/security/cisa-releases-open-source-redeye-c2-log-visualization-tool/
+
+https://lists.apache.org/thread/p8f14d1pm29832m7qgxpyl4b2o857o49 CVE-2022-42889: Apache Commons Text prior to 1.10.0 allows RCE when applied to untrusted input due to insecure interpolation defaults
+
+https://github.com/libexpat/libexpat/pull/629 [CVE-2022-40674] tests: Cover heap use-after-free issue in doContent
+
+https://www.theregister.com/2022/10/14/gdap_deadline_extension/
+
+https://www.theregister.com/2022/10/14/dept_of_veterans_affairs_oracle_cerner/
+
+https://corelight.com/company/zeek-now-component-of-microsoft-windows
+> https://news.ycombinator.com/item?id=33214246
+
+https://www.markloveless.net/blog/2022/10/14/old-weird-hacker-things
+
+https://nvd.nist.gov/vuln/detail/CVE-2022-37434
+> https://news.ycombinator.com/item?id=33209096
+
+https://www.bleepingcomputer.com/news/security/aruba-fixes-critical-rce-and-auth-bypass-flaws-in-edgeconnect/
+
+https://arstechnica.com/information-technology/2022/10/how-a-microsoft-blunder-opened-millions-of-pcs-to-potent-malware-attacks/
+> https://news.ycombinator.com/item?id=33211945
+
+https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation
+> https://news.ycombinator.com/item?id=33203253
+> https://www.theregister.com/2022/10/14/microsoft_office_365_message_encryption/
+
+https://lwn.net/Articles/911062/ Some remotely exploitable kernel WiFi vulnerabilities
+> https://news.ycombinator.com/item?id=33200171
+> https://github.com/PurpleVsGreen/beacown
+> > https://news.ycombinator.com/item?id=33201478
+> https://github.com/jo-m/linux-wifi-ota-crash CVE-2022-42722
+
+https://blog.gitguardian.com/toyota-accidently-exposed-a-secret-key-publicly-on-github-for-five-years/
+> https://news.ycombinator.com/item?id=33196146
+
+https://www.nrk.no/sport/everyone-going-to-the-world-cup-must-have-this-app---experts-are-now-sounding-the-alarm-1.16139267
+> https://news.ycombinator.com/item?id=33212168
+
 https://blintzbase.com/posts/pir-and-fhe-from-scratch/
 
 https://news.ycombinator.com/item?id=33177629

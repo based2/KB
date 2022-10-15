@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://news.ycombinator.com/item?id=33214439
+
 https://lore.kernel.org/lkml/YwgCrqutxmX0W72r@gmail.com/
 > https://news.ycombinator.com/item?id=33150179
 

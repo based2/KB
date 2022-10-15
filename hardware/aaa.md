@@ -75,6 +75,14 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 > https://news.ycombinator.com/item?id=31331463
 
 # News
+https://www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/
+
+https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/
+> https://news.ycombinator.com/item?id=33201931
+
+https://www.allaboutcircuits.com/news/researchers-develop-transistor-free-compute-in-memory-architecture/
+> https://news.ycombinator.com/item?id=33175038
+
 https://ounapuu.ee/posts/2022/10/13/recovering-password-locked-thinkpad-t60/
 > https://news.ycombinator.com/item?id=33187494
 

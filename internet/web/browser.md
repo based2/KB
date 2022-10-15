@@ -30,6 +30,9 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
 # News
+https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp
+> https://news.ycombinator.com/item?id=33207685
+
 https://www.macrumors.com/2022/09/28/ios-16-bypass-captcha-expansion/
 > https://news.ycombinator.com/item?id=33010210
 

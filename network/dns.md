@@ -55,6 +55,11 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 # 
+https://news.ycombinator.com/item?id=33214281 Ask HN: Are Whois Abuse Reports Useful?
+
+https://blog.thc.org/disposable-root-servers
+> https://news.ycombinator.com/item?id=33209623
+
 https://catcatnya.com/@kescher/109139565577318900 
 
 https://github.com/openwrt/packages/blob/master/net/adblock/files/README.md DNS based ad/abuse domain blocking

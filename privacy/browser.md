@@ -12,6 +12,9 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://futurism.com/the-byte/google-engineers-joked-incognito-mode
+> https://news.ycombinator.com/item?id=33216029
+
 https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-annoying-cookie-consent-banners/
 > https://news.ycombinator.com/item?id=33139148
 

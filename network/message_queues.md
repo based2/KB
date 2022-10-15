@@ -7,6 +7,9 @@ https://www.openmymind.net/Queue-Despair-Ordering-And-Poison-Messages/
 
 https://www.cockroachlabs.com/blog/message-queuing-database-kafka/
 
+https://en.wikipedia.org/wiki/Queueing_theory
+> https://news.ycombinator.com/item?id=33202274
+
 # RabbitMQ
 https://derickbailey.com/2016/03/28/dealing-with-dead-letters-and-poison-messages-in-rabbitmq/
 

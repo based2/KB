@@ -96,6 +96,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore
+> https://news.ycombinator.com/item?id=33215358
+
 https://blog.documentfoundation.org/media-hub/index-of-videos/
 
 https://www.phoronix.com/news/Intel-iGPU-Avoid-Linux-5.19.12

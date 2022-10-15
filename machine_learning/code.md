@@ -31,6 +31,11 @@ https://github.com/maxwell-bland/copilot-in-the-terminal
 https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
 > https://news.ycombinator.com/item?id=32753213
 
+https://github.com/moyix/fauxpilot
+> https://news.ycombinator.com/item?id=32327711
+> > https://news.ycombinator.com/item?id=33210306
+
+
 https://gretel.ai/blog/generate-synthetic-data-in-3-lines-of-code
 > https://news.ycombinator.com/item?id=32752505
 
@@ -76,5 +81,7 @@ https://jacobmartins.com/posts/how-i-used-dalle2-to-generate-the-logo-for-octosq
 
 https://thenewstack.io/language-i-o-runs-react-based-javascript-with-java-backend/
 
-
 https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice/0000_architecting_alice
+
+https://evanthebouncy.github.io/program-synthesis-minimal/
+> https://news.ycombinator.com/item?id=33203970

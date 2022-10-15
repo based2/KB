@@ -21,6 +21,9 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://www.wigle.net/
+> https://news.ycombinator.com/item?id=33209163
+
 https://arxiv.org/abs/2209.10001 Building Flexible, Low-Cost Wireless Access Networks with Magma
 > https://news.ycombinator.com/item?id=33002233
 

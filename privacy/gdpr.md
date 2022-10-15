@@ -56,6 +56,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://techcrunch.com/2022/10/13/shein-zoetop-fined-1-9m-data-breach/
+> https://news.ycombinator.com/item?id=33205181
+
 https://news.ycombinator.com/item?id=33191701 Ask HN: GDPR in 2022 – What do I need to know as a solo founder?
 
 https://www.cnil.fr/fr/le-mooc-de-la-cnil-est-de-retour-dans-une-nouvelle-version-enrichie

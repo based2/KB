@@ -23,6 +23,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://csrc.nist.gov/News/2022/nist-releases-draft-nist-ir-8408
+
+https://krebsonsecurity.com/2022/10/anti-money-laundering-service-amlbot-cleans-house/
+
 https://www.bleepingcomputer.com/news/security/solana-phantom-security-update-nfts-push-password-stealing-malware/
 
 https://news.ycombinator.com/item?id=33152539

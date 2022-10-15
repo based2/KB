@@ -192,6 +192,9 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0
+> https://news.ycombinator.com/item?id=33198198
+
 https://news.ycombinator.com/item?id=33134059 Show HN: Reflame – Deploy your React web apps in milliseconds
 
 https://dinosaurs-with-jetpacks.com/posts/react-problems

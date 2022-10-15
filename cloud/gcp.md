@@ -23,6 +23,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase
+> https://news.ycombinator.com/item?id=33215770
+
 https://cloud.google.com/blog/products/storage-data-transfer/new-gcloud-storage-cli-for-your-data-transfers
 > https://news.ycombinator.com/item?id=33125176
 

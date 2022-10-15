@@ -240,6 +240,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://asawicki.info/articles/Hello_world_under_the_microscope.php5
+> https://news.ycombinator.com/item?id=33201805
+
 https://nedbatchelder.com/blog/202210/decorator_shortcuts.html
 
 https://mypyc.readthedocs.io/en/latest/index.html

@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.coindesk.com/tech/2022/10/14/censored-ethereum-blocks-hit-the-51-threshold-over-the-past-24-hours/
+> https://news.ycombinator.com/item?id=33210385
+
 https://twitter.com/terencechain/status/1573314347128201216
 
 https://vitalik.ca/general/2022/09/17/layer_3.html

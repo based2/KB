@@ -62,6 +62,9 @@ https://www.trekview.org/blog/2021/getting-started-with-kartaview/
 
 https://www.mapsforeurope.org/
 
+https://zenodo.org/record/7070952 Swiss Dwellings: A large dataset of apartment models including aggregated geolocation-based simulation results covering viewshed, natural light, traffic noise, centrality and geometric analysis
+> https://news.ycombinator.com/item?id=33201608
+
 ## Space
 https://mars26.com/
 > https://news.ycombinator.com/item?id=26965583

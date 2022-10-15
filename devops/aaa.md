@@ -225,11 +225,14 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=33215401
+
+https://news.ycombinator.com/item?id=33198880
+
 https://medium.com/contino-engineering/creating-your-internal-developer-platform-part-2-65ff217cecd6
 > https://www.reddit.com/r/kubernetes/comments/xy58f9/creating_an_internal_developer_platform/
 
 https://www.macchaffee.com/blog/2022/carrying-capacity/
->
 
 https://github.com/adevinta/maiao/blob/main/docs/getting-started.md
 > https://news.ycombinator.com/item?id=33131720

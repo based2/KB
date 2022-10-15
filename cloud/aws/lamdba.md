@@ -73,6 +73,8 @@ https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 https://github.com/aws-samples/aws-lambda-unit-test-example
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2022/10/aws-lambda-event-filtering-amazon-msk-kafka-mq-apache-activemq-amazon-mq-rabbit-mq/
+
 https://sigpwned.com/2022/09/21/aws-lambda-base-images-for-java-19/
 > https://www.reddit.com/r/aws/comments/xk978u/communitymanaged_lambda_base_images_for_java_19/
 

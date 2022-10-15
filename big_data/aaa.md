@@ -253,6 +253,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.infoq.com/news/2022/10/apache-inlong-framework/
+> https://inlong.apache.org/
+
+https://news.ycombinator.com/item?id=33188484
+
 https://www.kaggle.com/kaggle-survey-2022
 
 https://www.amolas.dev/blog/counterintuitive-coin-game/

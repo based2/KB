@@ -14,6 +14,16 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.city-journal.org/california-ill-conceived-offshore-wind-goal
+
+https://www.bloomberg.com/news/articles/2022-10-14/sweden-s-incoming-cabinet-says-will-build-new-nuclear-reactors
+> https://news.ycombinator.com/item?id=33208156
+
+https://www.georgiapower.com/company/news-center/2022-articles/vogtle-unit-3-nuclear-fuel-load.html
+> https://news.ycombinator.com/item?id=33205813
+
+https://news.ycombinator.com/item?id=33213716 How 3000 degree bricks will end battery storage
+
 https://www.pv-tech.org/greece-runs-entirely-on-renewables-for-the-first-time-in-its-history/
 > https://news.ycombinator.com/item?id=33174606
 

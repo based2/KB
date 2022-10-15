@@ -41,6 +41,8 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://www.w3.org/TR/change-password-url/
+
 https://www.gosecure.net/blog/2022/09/26/tell-me-where-you-live-and-i-will-tell-you-about-your-password-understanding-the-macrosocial-factors-influencing-passwords-strength/
 
 https://themarkup.org/newsletter/hello-world/lessons-from-a-professional-password-cracker

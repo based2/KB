@@ -39,6 +39,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://linus.schreibt.jetzt/posts/qemu-9p-performance.html
+> https://news.ycombinator.com/item?id=33192152
+
+https://www.phoronix.com/news/Linux-6.1-Faster-9P
+
 https://arstechnica.com/gadgets/2022/10/virtualbox-7-0-adds-first-arm-mac-client-full-encryption-windows-11-tpm/
 > https://news.ycombinator.com/item?id=33186729
 

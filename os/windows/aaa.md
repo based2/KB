@@ -128,6 +128,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://neugierig.org/software/blog/2022/10/retrowin32.html
+> https://news.ycombinator.com/item?id=33200180
+
 https://arstechnica.com/gadgets/2022/10/rip-to-microsoft-office-henceforth-to-be-known-as-microsoft-365/
 > https://news.ycombinator.com/item?id=33193216
 

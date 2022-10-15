@@ -66,6 +66,8 @@ https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf817
 https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-accounts-using-akeyless-vault-platform/
 
 # News
+https://blog.rewanthtammana.com/kubernetes-crd-validation-with-cel-and-kubebuilder-marker-comments
+
 https://sysdig.com/blog/how-to-honeypot-vcluster-falco/
 > https://www.reddit.com/r/kubernetes/comments/xvhlog/building_kubernetes_honeypots_with_vcluster_and/
 

@@ -42,6 +42,9 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://www.ssllabs.com/ssltest/analyze.html?d=paypal.com&s=64.4.250.36&hideResults=on
+> https://news.ycombinator.com/item?id=33211052
+
 https://letsencrypt.org/2022/09/07/new-life-for-crls.html
 > https://news.ycombinator.com/item?id=32754016
 

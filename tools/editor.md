@@ -197,6 +197,12 @@ https://www.jetbrains.com/en/idea/
 https://vscodium.com/
 > https://news.ycombinator.com/item?id=31604932
 
+https://open-vsx.org/
+> https://github.com/eclipse/openvsx
+> https://www.eclipse.org/community/eclipse_newsletter/2020/march/1.php
+> https://github.com/VSCodium/vscodium#extensions-and-the-marketplace
+> ref: https://news.ycombinator.com/item?id=33210707
+
 https://ruky.me/2022/06/11/im-switching-form-vs-code-to-vs-codium/
 > https://news.ycombinator.com/item?id=31713625
 

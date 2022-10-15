@@ -1,3 +1,6 @@
+https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw
+> https://news.ycombinator.com/item?id=33210278
+
 https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15
 > https://news.ycombinator.com/item?id=32920846
 

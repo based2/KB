@@ -70,6 +70,9 @@ https://www.theregister.com/2022/09/08/ntt_docomo_5g/
 https://arstechnica.com/gadgets/2022/09/att-wont-upgrade-older-phones-for-new-5g-bands/
 > https://news.ycombinator.com/item?id=32853470
 
+https://spectrum.ieee.org/faa-5g
+> https://news.ycombinator.com/item?id=33201601
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html

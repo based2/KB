@@ -156,6 +156,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
+> https://news.ycombinator.com/item?id=33201653
+
 https://www.ctrl.blog/entry/detect-non-browser-form-submission.html
 > https://news.ycombinator.com/item?id=33026362
 

@@ -24,6 +24,9 @@ https://www.the-art-of-web.com/html/html5-form-validation/
 https://learnui.design/blog/tips-signup-login-ux.html
 > https://news.ycombinator.com/item?id=27655328
 
+https://www.smashingmagazine.com/2022/08/authentication-ux-design-guidelines/
+> https://www.reddit.com/r/programming/comments/y3acl9/rethinking_authentication_ux/
+
 ## Button
 https://www.joshwcomeau.com/animation/3d-button/
 > https://news.ycombinator.com/item?id=26635300

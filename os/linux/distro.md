@@ -71,6 +71,13 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.theregister.com/2022/10/06/ubuntu_pro_free/?td=keepreading
+
+https://www.mocaccino.org/
+> https://news.ycombinator.com/item?id=33199661
+
+https://debian-handbook.info/browse/stable/
+
 https://old.reddit.com/r/Ubuntu/comments/xxafiu/how_to_remove_advertisements_from_apt/
 > https://news.ycombinator.com/item?id=33173531
 

@@ -18,6 +18,8 @@ https://github.com/WerWolv/ImHex
 https://github.com/badamczewski/PowerUp .Net
 > https://news.ycombinator.com/item?id=32645860
 
+https://github.com/echtdefault/Janus
+
 #
 https://github.com/monkbai/DNN-decompiler BTD - Bin To DNN: A DNN Executables Decompiler
 > https://news.ycombinator.com/item?id=33143828
