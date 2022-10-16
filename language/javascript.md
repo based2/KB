@@ -17,6 +17,8 @@ https://2ality.com/2021/06/temporal-api.html
 https://www.smashingmagazine.com/2021/08/build-resilient-javascript-ui/
 > https://news.ycombinator.com/item?id=28060029
 
+https://github.com/mapbox/flamebearer flame graph tool for V8 and Node
+
 # Frameworks
 ## VueJS
 https://vuejs.org/
@@ -62,6 +64,11 @@ https://tauri.app/
 > https://news.ycombinator.com/item?id=32446374
 
 ## ReactJS - Facebook
+https://github.com/reactjs/react-basic
+
+https://github.com/wojtekmaj/react-lifecycle-methods-diagram
+> https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
+
 https://overreacted.io/before-you-memo/
 
 https://wattenberger.com/blog/react-and-d3

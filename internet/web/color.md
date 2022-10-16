@@ -1,3 +1,5 @@
+https://jamie-wong.com/post/color/
+
 https://darker.ink/writings/Towards-richer-colors-on-the-Web
 > https://news.ycombinator.com/item?id=27709788
 

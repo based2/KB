@@ -1,3 +1,5 @@
+https://www.mlyearning.org/
+
 https://www.enisa.europa.eu/news/artificial-intelligence-how-to-make-machine-learning-cyber-secure
 
 https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html
@@ -218,11 +220,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/parrt/dtreeviz python library for decision tree visualization and model interpretation.
+
+https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai
+
 https://spectrum.ieee.org/large-language-models-math
 > https://news.ycombinator.com/item?id=33176996
 
 https://github.com/google/vizier Python-based research interface for blackbox and hyperparameter optimization, based on Google's internal Vizier Service
->
 
 https://www.allencheng.com/starting-a-business-around-gpt-3-is-a-bad-idea/
 > https://news.ycombinator.com/item?id=33140235

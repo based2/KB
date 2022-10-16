@@ -61,6 +61,14 @@ https://thisxdoesnotexist.com/
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
 ## Stable diffusion
+https://promptomania.com/
+
+https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference
+
+https://diffusionbee.com/ MacOS
+
+https://github.com/amotile/stable-diffusion-studio
+
 https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/
 
 https://the-decoder.com/developer-combines-stable-diffusion-whisper-and-gpt-3-for-a-futuristic-design-assistant/

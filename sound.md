@@ -27,6 +27,10 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://github.com/wwmm/easyeffects
+
+https://birdnetpi.com/
+
 https://learnabout-electronics.org/Semiconductors/opto_53.php Audio Optocouplers
 > https://news.ycombinator.com/item?id=32966518
 

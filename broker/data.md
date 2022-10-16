@@ -18,3 +18,5 @@ https://techcrunch.com/2022/06/07/oracle-quietly-closes-28b-deal-to-buy-electron
 https://www.carvertical.com
 
 https://lite.cnn.com/en/article/h_f4d60444969c5c3c0e30df75b3c58754
+
+https://incogni.com/

@@ -29,6 +29,8 @@ https://thehistoryoftheweb.com/a-fun-list-of-browsers-youve-never-heard-of/
 # Web extensions
 https://lwn.net/Articles/846272/ Malware in open-source web extensions
 
+https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
+
 # News
 https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp
 > https://news.ycombinator.com/item?id=33207685

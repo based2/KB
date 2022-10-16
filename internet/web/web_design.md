@@ -82,7 +82,7 @@ https://twitter.com/vponamariov/status/1421014957110579203
 
 # News
 https://feathericons.com/
-> 
+> https://news.ycombinator.com/item?id=33223964
 
 https://uxdesign.cc/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed
 > https://news.ycombinator.com/item?id=33176668

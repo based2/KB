@@ -112,6 +112,7 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://ishadeed.com/article/unusual-use-cases-pseudo-elements/
 
 https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/
 > https://news.ycombinator.com/item?id=29245315
@@ -202,6 +203,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://t.mkws.sh/
+
 https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/
 > https://news.ycombinator.com/item?id=32999133
 

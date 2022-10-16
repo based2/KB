@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.eatmy.art/
+
 https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master
 > https://news.ycombinator.com/item?id=33181029
 

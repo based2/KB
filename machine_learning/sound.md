@@ -55,6 +55,8 @@ https://openai.com/blog/whisper/
 https://www.musi-co.com/listen/streams
 > https://news.ycombinator.com/item?id=33027376
 
+https://github.com/Anjok07/ultimatevocalremovergui
+
 # text-to-speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

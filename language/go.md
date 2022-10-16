@@ -97,6 +97,8 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://www.jotaen.net/Fj38K/golang-error-handling-syntax/
+
 https://bitmaybewise.substack.com/p/when-nil-is-not-nil
 > https://news.ycombinator.com/item?id=33153592
 

@@ -23,6 +23,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.reuters.com/markets/currencies/chinas-digital-currency-passes-100-bln-yuan-spending-pboc-2022-10-13/
+
+https://milkyeggs.com/?p=61
+
 https://csrc.nist.gov/News/2022/nist-releases-draft-nist-ir-8408
 
 https://krebsonsecurity.com/2022/10/anti-money-laundering-service-amlbot-cleans-house/

@@ -17,6 +17,9 @@ https://en.wikipedia.org/wiki/CUBIC_TCP
 
 https://github.com/claudiodangelis/qrcp
 
+https://github.com/mutagen-io/mutagen Fast file synchronization and network forwarding for remote development
+> https://news.ycombinator.com/item?id=33225703
+
 # Connector
 https://github.com/airbytehq/airbyte
 

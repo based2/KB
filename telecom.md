@@ -125,6 +125,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://korben.info/twilio-lookup-sim-swap.html
+
 https://www.theverge.com/2022/10/15/23405389/att-illinois-23-million-investigation-bribe-corruption
 
 https://www.theregister.com/2022/10/13/uk_telcos_huawei_ban/

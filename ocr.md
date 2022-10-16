@@ -64,6 +64,8 @@ https://github.com/HughChen/qr_image
 https://typefully.com/DanHollick/qr-codes-T7tLlNi
 > https://news.ycombinator.com/item?id=32837565
 
+https://github.com/sayanarijit/qrscan
+
 # Object labelling
 https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera
 

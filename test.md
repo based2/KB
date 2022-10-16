@@ -28,6 +28,9 @@ https://stepci.com/
 > https://news.ycombinator.com/item?id=33151474
 
 #
+https://arborist.dev/blog/breaking-test-assumptions
+> https://www.reddit.com/r/programming/comments/y4nv3x/breaking_test_assumptions/
+
 https://chrome.google.com/webstore/detail/headless-recorder/djeegiggegleadkkbgopoonhjimgehda
 > https://news.ycombinator.com/item?id=27897291
 

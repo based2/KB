@@ -1,3 +1,5 @@
+https://github.com/troyeguo/koodo-reader
+
 https://github.com/BentonEdmondson/knock Convert ACSM files to PDFs/EPUBs with one command on Linux
 > https://news.ycombinator.com/item?id=33146454
 

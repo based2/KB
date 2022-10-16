@@ -128,6 +128,14 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://devtoys.app/
+
+https://sandboxie-plus.com/downloads/
+
+https://korben.info/simplewall-configurer-wfp-windows-filtering-platform.html
+
+https://github.com/Rem0o/FanControl.Releases
+
 https://neugierig.org/software/blog/2022/10/retrowin32.html
 > https://news.ycombinator.com/item?id=33200180
 

@@ -1,6 +1,9 @@
 https://github.com/cea-sec/miasm
 > https://news.ycombinator.com/item?id=30814085
 
+https://ghidra-sre.org/
+> https://news.ycombinator.com/item?id=33226050
+
 https://github.com/qilingframework/qiling Advanced binary emulation framework
 
 https://piroguetoolsuite.github.io/
@@ -21,6 +24,8 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://voidstarsec.com/blog/intro-to-embedded-part-1
+
 https://blog.stackattack.net/2019/06/05/fixing-firmware-file-systems/
 
 https://github.com/monkbai/DNN-decompiler BTD - Bin To DNN: A DNN Executables Decompiler

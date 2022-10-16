@@ -225,6 +225,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/stephrobert/awesome-french-devops
+
 https://news.ycombinator.com/item?id=33215401
 
 https://news.ycombinator.com/item?id=33198880

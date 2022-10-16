@@ -1,3 +1,9 @@
+https://auto.pwnspot.com/
+
+https://news.engr.psu.edu/2022/gowda-mahanth-mobile-vibrations-eavesdrop-remotely.aspx
+
+https://github.com/sobolevn/awesome-cryptography
+
 https://medium.com/@trgoodwill/api-bites-securing-sensitive-api-s-bac6d51fe233
 
 https://blog.nindalf.com/posts/xcheck/ meta

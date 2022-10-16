@@ -1,3 +1,5 @@
+https://catonmat.net/low-level-bit-hacks
+
 https://opendsa-server.cs.vt.edu/
 
 http://jeffe.cs.illinois.edu/teaching/algorithms/

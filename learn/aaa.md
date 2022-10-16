@@ -107,6 +107,10 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.teachapp.fr/generateurs/modeles-d-ecriture
+
+https://www.teachapp.fr/generateurs/horloges
+
 https://github.com/TBS1996/speki Flashcards for your terminal
 > https://news.ycombinator.com/item?id=33222779
 
