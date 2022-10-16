@@ -133,6 +133,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://librepcb.org/blog/2022-10-03_release_0.1.7/
+> https://news.ycombinator.com/item?id=33217270
+
 https://github.com/T-head-Semi/openc910
 
 https://thenewstack.io/google-puts-open-source-in-chip-design-and-manufacturing/

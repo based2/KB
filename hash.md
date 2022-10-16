@@ -92,6 +92,8 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://github.com/alebeck/facehash
+
 https://www.algolia.com/blog/ai/vectors-vs-hashes/
 > https://news.ycombinator.com/item?id=33123972
 

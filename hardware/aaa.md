@@ -60,6 +60,10 @@ https://stevelosh.com/blog/2012/10/a-modern-space-cadet/
 https://qmk.fm/
 > https://news.ycombinator.com/item?id=32793405
 
+https://github.com/rvaiya/warpd A modal keyboard-driven virtual pointer
+> https://news.ycombinator.com/item?id=33221901
+> https://github.com/EsportToys/AutoWarpd
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -74,7 +78,16 @@ https://www.youtube.com/watch?v=isBYV6QWDIo India's Semiconductor Failure
 http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test%20mode.htm
 > https://news.ycombinator.com/item?id=31331463
 
+https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
+
 # News
+https://lkml.iu.edu/hypermail/linux/kernel/2210.1/00691.html
+> https://news.ycombinator.com/item?id=33224680
+
+https://www.theregister.com/2022/08/29/waferscale_photonics_interconnect/
+
+https://www.pine64.org/2022/10/15/october-update-an-ox-no-bull/
+
 https://www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/
 
 https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/

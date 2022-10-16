@@ -42,6 +42,8 @@ https://en.wikipedia.org/wiki/Software_Package_Data_Exchange
 
 https://caselaw.nationalarchives.gov.uk/open-justice-licence
 
+https://lwn.net/SubscriberLink/910978/69edf5ba39026668/ The disabling of hardware codecs in community distributions
+
 # Incident
 
 https://blog.min.io/nutanix-objects-violates-minios-open-source-license/

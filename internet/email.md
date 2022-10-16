@@ -142,6 +142,10 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://medium.com/pcmag-access/how-to-quit-gmail-and-reclaim-your-privacy-cb995a99589
+
+https://www.mit.edu/~specter/blog/2020/dkim/
+
 https://forum.faforever.com/topic/4911/currently-no-email-dispatch-to-gmail-possible
 > https://news.ycombinator.com/item?id=33050285
 

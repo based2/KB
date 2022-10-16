@@ -147,8 +147,17 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://spacenews.com/amazon-to-link-kuiper-satellites-to-dods-mesh-network-in-space/
+
+https://en.wikipedia.org/wiki/GLASS-z13
+
+https://www.thespacereview.com/article/4448/1 A darker shade of blue: The unknown Air Force manned space program
+
+https://www6.slac.stanford.edu/news/2020-09-08-sensors-world-largest-digital-camera-snap-first-3200-megapixel-images-slac.aspx
+
 https://phys.org/news/2022-10-record-breaking-gamma-ray-possibly-powerful-explosion.html
 > https://apod.nasa.gov/apod/ap221015.html
+> > https://news.ycombinator.com/item?id=33205216
 
 https://www.npr.org/2022/10/15/1129139476/black-hole-star-burp
 

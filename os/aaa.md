@@ -21,6 +21,13 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html
+> https://github.com/AmbiML/sparrow-kata
+> https://github.com/AmbiML/sparrow-manifest low-power secure embeded platform for Ambient ML applications. The target platform leverages RISC-V and OpenTitan. Rust sel4
+> https://www.phoronix.com/news/Google-KataOS Google Announces KataOS As Security-Focused OS, Leveraging Rust & seL4 Microkernel
+> https://news.ycombinator.com/item?id=33222400
+> https://antmicro.com/blog/2022/08/running-rust-programs-in-sel4/
+
 https://www.geoffchappell.com/studies/windows/km/ntoskrnl/inc/api/ntexapi_x/kuser_shared_data/index.htm
 > https://news.ycombinator.com/item?id=33146484
 

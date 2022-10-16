@@ -15,3 +15,6 @@ https://typst.app/
 
 https://jmtd.net/log/latex_writing/
 > https://news.ycombinator.com/item?id=33149857
+
+https://laurmaedje.github.io/posts/comemo/
+> https://news.ycombinator.com/item?id=33222356

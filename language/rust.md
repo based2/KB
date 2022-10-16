@@ -401,6 +401,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://crates.io/crates/graphul Express inspired web framework
+> https://news.ycombinator.com/item?id=33220606
+> > https://github.com/tokio-rs/axum
+
+https://github.com/gbj/leptos A full-stack, isomorphic Rust web framework leveraging fine-grained reactivity to build declarative user interfaces.
+
 https://nitter.net/LinaAsahi/status/1567752082060619776
 
 https://github.com/simonhyll/cargo-commander runner

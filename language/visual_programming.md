@@ -41,6 +41,8 @@ https://news.ycombinator.com/item?id=31779316 Ask HN: "No code" works well for m
 https://github.com/rowyio/rowy
 
 #
+https://news.ycombinator.com/item?id=33222292
+
 https://github.com/felipereigosa/mock-mechanics
 
 https://github.com/n8n-io/n8n/issues/40

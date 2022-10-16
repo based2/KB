@@ -27,6 +27,8 @@ https://www.cybertec-postgresql.com/en/postgresql-limit-vs-fetch-first-rows-with
 
 https://notes.eatonphil.com/exploring-plpgsql.html
 
+https://philbooth.me/blog/some-useful-non-obvious-postgres-patterns
+
 ## JSON
 https://blog.crunchydata.com/blog/generating-json-directly-from-postgres
 > https://news.ycombinator.com/item?id=27848085

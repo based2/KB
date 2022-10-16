@@ -109,6 +109,9 @@ https://www.valerionappi.it/brng-en/
 https://www.expunctis.com/2019/03/07/Not-so-random.html
 > https://news.ycombinator.com/item?id=32797830
 
+https://onerng.info/
+> https://news.ycombinator.com/item?id=33223232
+
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 

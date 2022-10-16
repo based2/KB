@@ -50,6 +50,14 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://arstechnica.com/tech-policy/2022/10/onlyfans-lawyers-accidentally-reveal-which-meta-execs-allegedly-took-bribes/
+
+https://mynotion.space/
+> https://news.ycombinator.com/item?id=33218888
+
+https://github.com/Goldfish-Social/Goldfish
+> https://news.ycombinator.com/item?id=33219429
+
 https://bonfirenetworks.org/
 > https://news.ycombinator.com/item?id=33190295
 

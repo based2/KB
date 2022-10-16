@@ -101,6 +101,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://github.com/simonw/sqlite-utils
+
 https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
 > https://news.ycombinator.com/item?id=33182417
 

@@ -85,6 +85,7 @@ https://softwaremill.com/migrating-from-akka-http-to-tapir/
 
 https://www.reddit.com/r/scala/comments/xl5nvy/akka_fork_something_is_brewing_at_apache/
 > https://github.com/mdedetrich/akka-apache
+> https://github.com/mdedetrich/akka-apache-project/discussions Pekko
 
 https://www.reddit.com/r/scala/comments/x9vfxg/replacing_akka_streams_with_100_lines_of_code/
 

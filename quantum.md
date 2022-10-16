@@ -79,6 +79,13 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.space.com/europe-quantum-encryption-satellite-planned
+
+https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263
+> https://news.ycombinator.com/item?id=33223391
+
+https://www.hpcwire.com/2022/10/12/jpmorgan-chase-bets-big-on-quantum-computing/
+
 https://www.scottaaronson.com/democritus/lec9.html
 > https://news.ycombinator.com/item?id=33188276
 

@@ -80,6 +80,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://www.reddit.com/r/aws/comments/y4ud9k/aws_managed_microsoft_ad_is_now_available_on/
+
 https://github.com/aws-solutions/automated-data-analytics-on-aws Automated Data Analytics on AWS solution provides an end-to-end data platform for ingesting, transforming, managing and querying datasets
 
 https://scribe.rip/view-a-sku-32721d623aee

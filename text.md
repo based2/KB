@@ -121,6 +121,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://logseq.com/?
+> https://news.ycombinator.com/item?id=33218561
+
 https://omniglot.com/conscripts/fakoo.htm
 > https://news.ycombinator.com/item?id=33092239
 

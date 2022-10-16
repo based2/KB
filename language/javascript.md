@@ -310,6 +310,8 @@ https://github.com/rgossiaux/svelte-headlessui
 https://ghostdev.xyz/posts/build-a-cross-platform-app-with-tauri/
 > https://news.ycombinator.com/item?id=33002996
 
+https://lightblog.dev/articles/routing-in-svelte
+
 https://medium.com/@sveltestorm/sveltestorm-5-0-a-svelte-ide-like-no-other-c79da72d377e
 > https://news.ycombinator.com/item?id=32942947
 
@@ -456,6 +458,11 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://news.ycombinator.com/item?id=33223120
+
+https://esinfer.com/ Make JavaScript Type-Safe
+> https://news.ycombinator.com/item?id=33214075
+
 https://qwik.builder.io/
 > https://news.ycombinator.com/item?id=33170842
 

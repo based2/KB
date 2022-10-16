@@ -55,6 +55,8 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://stackoverflow.com/questions/3844502/how-do-bittorrent-magnet-links-work
+
 https://spectrum.ieee.org/peer-to-peer-network
 > https://news.ycombinator.com/item?id=33147071
 

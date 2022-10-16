@@ -240,6 +240,10 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://arpitbhayani.me/blogs/fsm Building Finite State Machines with Python Coroutines
+
+https://github.com/Textualize/textual tiu
+
 https://asawicki.info/articles/Hello_world_under_the_microscope.php5
 > https://news.ycombinator.com/item?id=33201805
 

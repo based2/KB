@@ -99,6 +99,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.zdnet.com/article/starhub-links-up-patients-doctors-with-fitbit-data/
+
 https://cybernews.com/privacy/dji-drone-tracking-data-exposed-in-us/
 > https://news.ycombinator.com/item?id=33192846
 

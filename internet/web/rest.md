@@ -4,6 +4,7 @@ https://www.gnu.org/software/wget/
 https://curl.se/
 > https://daniel.haxx.se/blog/2021/03/31/curl-7-76-0-adds-rustls/
 > https://hurl.dev/ Curl + Rust
+> https://www.youtube.com/watch?v=I6id1Y0YuNk
 
 https://addons.mozilla.org/en-US/firefox/addon/rested/
 

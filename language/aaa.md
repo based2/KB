@@ -292,6 +292,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://tomassetti.me/lessons-learned-working-decades-with-graphical-dsls-interview-to-juha-pekka-tolvanen/
+> https://news.ycombinator.com/item?id=33212132
+
 https://www.softwareheritage.org/2021/12/20/software-stories/
 > https://news.ycombinator.com/item?id=33199597
 

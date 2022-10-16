@@ -61,6 +61,13 @@ https://thisxdoesnotexist.com/
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
 ## Stable diffusion
+https://techcrunch.com/2022/10/12/microsoft-expands-azure-openai-service-with-dall-e-2-in-preview/
+
+https://the-decoder.com/developer-combines-stable-diffusion-whisper-and-gpt-3-for-a-futuristic-design-assistant/
+> https://news.ycombinator.com/item?id=33225326
+
+https://github.com/google/prompt-to-prompt Latent Diffusion and Stable Diffusion implementation
+
 https://github.com/brycedrennan/imaginAIry/blob/master/docs/emad-qa-2020-10-10.md
 > https://news.ycombinator.com/item?id=33182178
 

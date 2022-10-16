@@ -108,6 +108,7 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 
 # News
 https://www.researchgate.net/publication/333296614_Polyominoes
+> https://news.ycombinator.com/item?id=33215577
 
 https://nhigham.com/2022/10/11/seven-sins-of-numerical-linear-algebra/
 > https://news.ycombinator.com/item?id=33173443

@@ -36,6 +36,7 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://osf.io/preprints/metaarxiv/cd5j9/ Many Researchers Using Same Data and Hypothesis Reveals Uncertainty
 
 https://hackaday.com/2022/09/29/self-driving-laboratories-do-research-on-autopilot/
 > https://news.ycombinator.com/item?id=33030226

@@ -23,6 +23,8 @@ https://notdodo.medium.com/aws-ec2-auto-scaling-privilege-escalation-d518f8e7f91
 https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 
 #
+https://levelup.gitconnected.com/aws-client-side-encryption-with-kms-using-java-v2-sdk-and-s3-upload-73b525314a5b
+
 https://www.datadoghq.com/state-of-aws-security/
 > https://news.ycombinator.com/item?id=33174046
 

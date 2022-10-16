@@ -81,6 +81,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://feathericons.com/
+> 
+
 https://uxdesign.cc/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed
 > https://news.ycombinator.com/item?id=33176668
 
@@ -126,6 +129,7 @@ https://cristobal.space/writing/folk
 
 https://eugenkiss.github.io/7guis/tasks/
 > https://news.ycombinator.com/item?id=31273802
+> https://news.ycombinator.com/item?id=33220899
 
 https://www.a11yproject.com/checklist/
 > https://news.ycombinator.com/item?id=31337222

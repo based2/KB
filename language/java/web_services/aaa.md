@@ -16,6 +16,9 @@ https://hazelcast.com/blog/contract-first-development-using-restassured-and-open
 
 https://openapi.tools/
 
+https://github.com/OpenAPITools/openapi-generator
+> https://news.ycombinator.com/item?id=33220552
+
 # WS
 https://www.igorkromin.net/index.php/2018/12/06/setting-jax-ws-webservice-client-timeout-values-correctly-within-a-weblogic-12c-container/
 

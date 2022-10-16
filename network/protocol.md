@@ -5,6 +5,9 @@ https://tools.ietf.org/html/rfc1025 Procedures, scoring, and tests used
 in the TCP and IP bake offs held in the early development of these
 protocols
 
+https://www.multipath-tcp.org/
+> https://news.ycombinator.com/item?id=33220975
+
 https://github.com/MayaPosch/NymphCast/
 > https://news.ycombinator.com/item?id=27482699
 

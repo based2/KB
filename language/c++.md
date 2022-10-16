@@ -1,3 +1,6 @@
+https://thephd.dev/the-c-c++-rust-string-text-encoding-api-landscape
+> https://news.ycombinator.com/item?id=33218823
+
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=95111#c23
 > https://news.ycombinator.com/item?id=33084431
 

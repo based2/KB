@@ -34,6 +34,8 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://www.bloomberg.com/news/articles/2022-10-13/europe-likely-to-avoid-unusually-cold-winter-climate-model-says
+
 https://nickmcd.me/2022/10/01/procedural-wind-and-clouds-using-gpu-accelerated-lattice-boltzmann-method/
 > https://news.ycombinator.com/item?id=33137225
 

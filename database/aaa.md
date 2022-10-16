@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig
+> https://news.ycombinator.com/item?id=33218185
+
 https://news.ycombinator.com/item?id=32994771 Ask HN: Real-world anecdotes of MySQL at scale?
 
 https://planetscale.com/blog/debugging-database-errors-with-insights

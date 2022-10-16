@@ -18,6 +18,9 @@ http://static.wiki/
 https://news.ycombinator.com/item?id=28277749
 
 # Wiki
+https://www.today.com/parents/jessica-wade-wikipedia-women-scientists-rcna51628
+> https://news.ycombinator.com/item?id=33223953
+
 https://tedgioia.substack.com/p/how-a-prominent-composer-lost-his
 > https://news.ycombinator.com/item?id=32252998
 

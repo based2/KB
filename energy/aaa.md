@@ -14,6 +14,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.wsj.com/articles/building-a-power-grid-to-span-the-world-11646660908
+
 https://www.city-journal.org/california-ill-conceived-offshore-wind-goal
 
 https://www.bloomberg.com/news/articles/2022-10-14/sweden-s-incoming-cabinet-says-will-build-new-nuclear-reactors

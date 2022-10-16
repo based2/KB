@@ -21,6 +21,8 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://blog.stackattack.net/2019/06/05/fixing-firmware-file-systems/
+
 https://github.com/monkbai/DNN-decompiler BTD - Bin To DNN: A DNN Executables Decompiler
 > https://news.ycombinator.com/item?id=33143828
 

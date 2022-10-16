@@ -98,6 +98,11 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.koreatimes.co.kr/www/nation/2022/10/281_337975.html
+> https://www.kakaocorp.com/page/
+
+https://www.reddit.com/r/AZURE/comments/y3tr9s/fyi_azure_postgres_latency_issues_since_sept_22/
+
 https://news.ycombinator.com/item?id=33010341
 
 https://www.wiz.io/blog/attachme-oracle-cloud-vulnerability-allows-unauthorized-cross-tenant-volume-access

@@ -1,3 +1,13 @@
+https://medium.com/@trgoodwill/api-bites-securing-sensitive-api-s-bac6d51fe233
+
+https://blog.nindalf.com/posts/xcheck/ meta
+> https://news.ycombinator.com/item?id=33224347
+
+https://dl.acm.org/doi/10.1145/3495243.3560525 AdaptOver: adaptive overshadowing attacks in cellular networks
+> https://news.ycombinator.com/item?id=33219523
+
+https://www.heise.de/news/300-Millionen-Hack-CCC-praesentiert-Gratis-Laufzeitverlaengerung-fuer-Konnektoren-7308896.html
+
 https://www.sandflysecurity.com/linux-compromise-detection-command-cheatsheet.pdf
 
 https://supportportal.juniper.net/s/article/2022-10-Security-Bulletin-Junos-OS-Multiple-vulnerabilities-in-J-Web?language=en_US

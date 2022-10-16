@@ -237,6 +237,12 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://doridori.github.io/Architecture-Application-as-a-Function/
+> https://news.ycombinator.com/item?id=33221780
+
+https://htmx.org/essays/a-real-world-react-to-htmx-port/
+> https://news.ycombinator.com/item?id=33218439
+
 https://martinfowler.com/bliki/ProjectionalEditing.html
 > https://news.ycombinator.com/item?id=33149610
 

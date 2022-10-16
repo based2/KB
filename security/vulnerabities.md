@@ -143,6 +143,8 @@ https://en.wikipedia.org/wiki/Lazy_FP_state_restore
 
 https://github.com/xoreaxeaxeax/rosenbridge https://en.wikipedia.org/wiki/Alternate_Instruction_Set
 
+https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain
+
 ## 2017
 https://en.wikipedia.org/wiki/WannaCry_ransomware_attack
 
@@ -249,6 +251,8 @@ https://en.wikipedia.org/wiki/Moxie_Marlinspike#SSL_stripping
 
 https://en.wikipedia.org/wiki/Length_extension_attack
 
+https://en.wikipedia.org/wiki/Operation_Aurora
+
 ## 2008
 https://www.win.tue.nl/hashclash/rogue-ca/ MD5
 
@@ -256,6 +260,8 @@ https://en.wikipedia.org/wiki/Dual_EC_DRBG
 
 ## 2007
 https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia
+
+https://en.wikipedia.org/wiki/George_Hotz#iOS
 
 ## 2005
 

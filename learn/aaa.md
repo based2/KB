@@ -62,6 +62,8 @@ https://github.com/ContextLab/human-memory
 # Game
 https://news.ycombinator.com/item?id=27549463
 
+https://github.com/brain-workshop/brainworkshop
+
 # Light board
 https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/
 > https://news.ycombinator.com/item?id=27575635
@@ -105,6 +107,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://github.com/TBS1996/speki Flashcards for your terminal
+> https://news.ycombinator.com/item?id=33222779
+
 https://talk.quazel.com/chat/try
 > https://news.ycombinator.com/item?id=32993130
 
