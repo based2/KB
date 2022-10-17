@@ -220,6 +220,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/
+
+https://github.com/facebookresearch/shumai
+> https://news.ycombinator.com/item?id=33235731
+
 https://github.com/parrt/dtreeviz python library for decision tree visualization and model interpretation.
 
 https://www.vice.com/en/article/jgpb3p/this-danish-political-party-is-led-by-an-ai

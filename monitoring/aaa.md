@@ -83,6 +83,10 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://dagster.io/blog/web-workers-performance-issue
+
+http://logs.thirdplace.no/
+
 https://lhoursquentin.github.io/visual-strace/
 
 https://thenewstack.io/observability-is-shifting-left-following-security-and-ops/

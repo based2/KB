@@ -264,6 +264,9 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples
+> https://news.ycombinator.com/item?id=33236780
+
 https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/
 
 https://www.postgresql.org/about/news/postgresql-15-released-2526/

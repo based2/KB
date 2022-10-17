@@ -25,7 +25,7 @@ https://blog.waleedkhan.name/rust-modules-for-python-users/
 
 https://willcrichton.net/notes/gats-are-hofs/
 
-https://news.ycombinator.com/item?id=25805340 	Rust: Structuring and handling errors in 2020 (2020) 
+https://news.ycombinator.com/item?id=25805340 Structuring and handling errors in 2020 (2020) 
 
 https://brson.github.io/2021/01/17/rust-unconditional-loops
 
@@ -401,6 +401,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://lunatic.solutions/blog/magic-handler-functions-in-rust/
+> https://news.ycombinator.com/item?id=33231698
+
 https://crates.io/crates/graphul Express inspired web framework
 > https://news.ycombinator.com/item?id=33220606
 > > https://github.com/tokio-rs/axum

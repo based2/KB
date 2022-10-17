@@ -29,6 +29,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=33233720
+
 https://th0ma5w.github.io/DIY-Room-Correction/
 
 http://websdr.org/

@@ -64,6 +64,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://cloudplane.org/blog/why-kubernetes-is-so-complex
+
 https://www.groundcover.com/blog/ci-cd-kubernetes
 
 https://next.redhat.com/2022/10/06/signing-images/

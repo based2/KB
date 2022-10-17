@@ -107,6 +107,9 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem
+> https://news.ycombinator.com/item?id=33236447
+
 https://www.researchgate.net/publication/333296614_Polyominoes
 > https://news.ycombinator.com/item?id=33215577
 

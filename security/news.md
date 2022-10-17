@@ -19,6 +19,7 @@ https://www.sandflysecurity.com/linux-compromise-detection-command-cheatsheet.pd
 https://supportportal.juniper.net/s/article/2022-10-Security-Bulletin-Junos-OS-Multiple-vulnerabilities-in-J-Web?language=en_US
 
 https://blog.doyensec.com/2022/10/11/ebpf-bypass-security-monitoring.html
+> https://news.ycombinator.com/item?id=33235434
 
 https://claroty.com/team82/research/the-race-to-native-code-execution-in-plcs-using-rce-to-uncover-siemens-simatic-s7-1200-1500-hardcoded-cryptographic-keys
 
@@ -33,6 +34,7 @@ https://www.bleepingcomputer.com/news/security/new-npm-timing-attack-could-lead-
 https://www.bleepingcomputer.com/news/security/cisa-releases-open-source-redeye-c2-log-visualization-tool/
 
 https://lists.apache.org/thread/p8f14d1pm29832m7qgxpyl4b2o857o49 CVE-2022-42889: Apache Commons Text prior to 1.10.0 allows RCE when applied to untrusted input due to insecure interpolation defaults
+> https://news.ycombinator.com/item?id=33230603
 
 https://github.com/libexpat/libexpat/pull/629 [CVE-2022-40674] tests: Cover heap use-after-free issue in doContent
 

@@ -203,6 +203,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://elisehe.in/2022/10/16/attribute-selectors
+> https://news.ycombinator.com/item?id=33232244
+
 https://t.mkws.sh/
 
 https://blogs.windows.com/msedgedev/2022/09/27/closing-pixel-gap-native-web-window-controls-overlay/

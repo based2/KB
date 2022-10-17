@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://datafinnovation.medium.com/stablecoin-mechanics-2-tether-celsius-15c9ecdaaacd
+> https://news.ycombinator.com/item?id=33233900
+
 https://www.reuters.com/markets/currencies/chinas-digital-currency-passes-100-bln-yuan-spending-pboc-2022-10-13/
 
 https://milkyeggs.com/?p=61

@@ -72,6 +72,24 @@ https://aws.amazon.com/en/blogs/storage/automating-amazon-ebs-volume-resizing-wi
 
 https://engineering.mixpanel.com/live-downsizing-google-cloud-persistent-disks-for-fun-and-profit-mixpanel-engineering-c84869a3dd73
 
+# EU
+## CH
+https://www.ictjournal.ch/news/2021-10-21/cloud-de-la-confederation-le-recours-de-google-naura-pas-deffet-suspensif
+
+## DE
+* MS Azure - Deutsche Telekom - https://news.microsoft.com/2020/12/09/deutsche-telekom-and-microsoft-redefine-partnership-to-deliver-high-performance-cloud-computing-experiences/
+> https://open-telekom-cloud.com/
+
+* https://www.hetzner.com/cloud
+
+## FR
+* AWS - Atos - https://atos.net/en/about-us/partners-and-alliances/amazon-web-services
+* Bleu - MS Azure - https://www.capgemini.com/fr-fr/actualites/communiques-de-presse/capgemini-et-orange-annoncent-le-projet-de-creer-bleu-une-societe-qui-fournira-un-cloud-de-confiance-en-france/
+* S3NS - GCP Thalès - https://www.thalesgroup.com/fr/group/press_release/thales-presente-s3ns-partenariat-google-cloud-et-devoile-son-offre-transition
+* OVH Google - https://corporate.ovhcloud.com/fr/newsroom/news/ovhcloud-and-google-cloud-announce-strategic-partnership-co-build-trusted-cloud-solution-europe/
+
+https://www.ssi.gouv.fr/uploads/2014/12/secnumcloud-referentiel-exigences-v3.2.pdf
+
 # Serverless
 https://supabase.com/blog/2022/03/31/supabase-edge-functions
 > https://news.ycombinator.com/item?id=30868849
@@ -185,8 +203,10 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://notado.substack.com/p/how-flyio-and-tailscale-saved-notado
+
 https://www.zdnet.com/article/openstack-from-austin-to-zed/
->
+
 
 https://www.noahlebovic.com/aws-doesnt-make-sense-for-scientific-computing/
 > https://news.ycombinator.com/item?id=33122656

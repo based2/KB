@@ -29,6 +29,9 @@ https://github.com/ssdong/git-command-visualizer Scala
 https://sourcehut.org/blog/2021-03-15-whats-cooking-march-2021/
 
 #
+https://ruky.me/2022/10/17/codeberg-a-github-alternative-from-europe/
+> https://news.ycombinator.com/item?id=33233360
+
 https://blog.gitea.io/2022/07/gitea-1.17.0-is-released/ K8s Helm chart registry
 
 http://gitlet.maryrosecook.com/docs/gitlet.html

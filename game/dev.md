@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://godotengine.org/article/emulating-double-precision-gpu-render-large-worlds
+
 https://acoup.blog/2022/10/07/collections-teaching-paradox-crusader-kings-iii-part-iii-constructivisting-a-kingdom/
 > https://news.ycombinator.com/item?id=33123295
 

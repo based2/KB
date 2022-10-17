@@ -15,6 +15,8 @@ https://www.jocas.lt/blog/post/intro-to-lucene-grep/
 https://semgrep.dev/
 > https://github.com/returntocorp/semgrep
 
+https://blog.deesee.xyz/code-review/static-analysis/2022/10/16/semgrep-quick-rule-workflow.html
+
 https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep
 > https://news.ycombinator.com/item?id=27324265
 

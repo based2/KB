@@ -106,6 +106,8 @@ https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixi
 
 https://news.ycombinator.com/item?id=32850016
 
+https://elixirforum.com/t/ash-framework-2-0/51119
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

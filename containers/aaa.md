@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/git-sgmoore/AlpineLinux-DailyDriverDesktop
+> https://news.ycombinator.com/item?id=33236127
+
 https://linus.schreibt.jetzt/posts/qemu-9p-performance.html
 > https://news.ycombinator.com/item?id=33192152
 

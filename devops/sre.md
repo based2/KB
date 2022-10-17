@@ -89,3 +89,9 @@ https://sre.google/sre-book/eliminating-toil/
 > https://news.ycombinator.com/item?id=31651146
 
 https://thenewstack.io/devops-institute-checks-the-pulse-of-sre/
+
+https://www.willett.io/posts/precepts/
+> https://news.ycombinator.com/item?id=33230402
+
+https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/
+> https://news.ycombinator.com/item?id=33233827
