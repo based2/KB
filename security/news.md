@@ -1,3 +1,6 @@
+https://www.theregister.com/2022/10/18/fully_undetectable_windows_powershell_backdoor/
+> https://news.ycombinator.com/item?id=33254184
+
 https://auto.pwnspot.com/
 
 https://news.engr.psu.edu/2022/gowda-mahanth-mobile-vibrations-eavesdrop-remotely.aspx

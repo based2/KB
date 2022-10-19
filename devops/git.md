@@ -131,6 +131,8 @@ https://sethrobertson.github.io/GitBestPractices/
 http://blog.danieljanus.pl/2021/07/01/commit-groups/
 > https://news.ycombinator.com/item?id=27722221
 
+https://reviewpad.com/blog/modern-trunk-based-development/
+
 # Commit
 https://www.conventionalcommits.org/en/v1.0.0/
 

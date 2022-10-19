@@ -253,6 +253,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://academic.oup.com/ahr/article/127/2/895/6705108?login=false Mapping Long-Term Trends and Short-Term Change at Multiple Scales of Time
+
 https://www.infoq.com/news/2022/10/apache-inlong-framework/
 > https://inlong.apache.org/
 

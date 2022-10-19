@@ -1,3 +1,5 @@
+https://www.aviewfromthecyclepath.com/2013/09/the-school-run-in-assen.html
+> https://news.ycombinator.com/item?id=33251365
 
 https://www.paris.fr/pages/un-nouveau-plan-velo-pour-une-ville-100-cyclable-19554
 

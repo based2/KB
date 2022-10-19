@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=33246007
+
 https://datafinnovation.medium.com/stablecoin-mechanics-2-tether-celsius-15c9ecdaaacd
 > https://news.ycombinator.com/item?id=33233900
 

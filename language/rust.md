@@ -401,6 +401,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://www.rerun.io/blog/why-rust
+> https://news.ycombinator.com/item?id=33244756
+
+https://www.pinecone.io/learn/rust-rewrite/
+> https://news.ycombinator.com/item?id=33252137
+
 https://lunatic.solutions/blog/magic-handler-functions-in-rust/
 > https://news.ycombinator.com/item?id=33231698
 

@@ -121,6 +121,8 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://brendanthompson.com/posts/2022/10/terraform-for-expression
+
 https://blog.dmichael.be/2022/09/28/Terraform-External-Data-Provider-and-local-exec-Provisioner/
 
 https://grafana.com/blog/2022/09/20/grafana-alerts-as-code-get-started-with-terraform-and-grafana-alerting/

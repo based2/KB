@@ -68,6 +68,8 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://arxiv.org/abs/2109.14349 Relational Memory: Native In-Memory Accesses on Rows and Columns
+
 https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig
 > https://news.ycombinator.com/item?id=33218185
 
@@ -77,7 +79,6 @@ https://planetscale.com/blog/debugging-database-errors-with-insights
 > https://news.ycombinator.com/item?id=32997531
 
 https://github.com/appwrite/appwrite/releases/tag/1.0.0
->
 
 https://news.ycombinator.com/item?id=32779851
 

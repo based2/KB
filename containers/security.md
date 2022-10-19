@@ -17,6 +17,9 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://www.jetstack.io/blog/announcing-paranoia/
+> https://news.ycombinator.com/item?id=33245457
+
 https://www.chainguard.dev/unchained/introducing-wolfi-the-first-linux-un-distro
 > https://www.reddit.com/r/programming/comments/xmxmnj/introducing_wolfi_the_first_linux_undistro/
 

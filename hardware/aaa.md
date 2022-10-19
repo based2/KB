@@ -81,6 +81,10 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.tomshardware.com/news/intel-enables-ecc-on-12th-gen-core-cpus
+
+https://news.ycombinator.com/item?id=33244767
+
 https://outervision.com/power-supply-calculator
 
 https://lkml.iu.edu/hypermail/linux/kernel/2210.1/00691.html

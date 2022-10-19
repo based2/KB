@@ -227,6 +227,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/
+> https://news.ycombinator.com/item?id=33248988
+
 https://news.ycombinator.com/item?id=33235315
 
 https://github.com/stephrobert/awesome-french-devops

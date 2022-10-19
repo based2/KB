@@ -1,6 +1,9 @@
 https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw
 > https://news.ycombinator.com/item?id=33210278
 
+https://www.andestech.com/en/2022/10/17/andes-announces-the-n25f-se-processor-the-world-first-risc-v-cpu-ip-with-iso-26262-full-compliance/
+> https://news.ycombinator.com/item?id=33253490
+
 https://muxup.com/2022q3/whats-new-for-risc-v-in-llvm-15
 > https://news.ycombinator.com/item?id=32920846
 
@@ -96,7 +99,6 @@ https://danielmangum.com/risc-v-tips/2022-05-14-opening-a-udp-socket-risc-v/
 https://github.com/riscv/riscv-profiles/blob/v0.5/profiles.adoc
 
 https://github.com/stnolting/neorv32/blob/main/README.md
-> 
 
 https://moonbaseotago.github.io/about/
 > https://news.ycombinator.com/item?id=30755716

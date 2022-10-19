@@ -50,6 +50,15 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.theguardian.com/technology/2022/oct/18/facebook-meta-sell-giphy-cma
+> https://news.ycombinator.com/item?id=33246016
+
+https://github.com/Linen-dev/linen.dev
+> https://news.ycombinator.com/item?id=33248488
+
+https://atproto.com/
+> https://news.ycombinator.com/item?id=33252108
+
 https://arstechnica.com/tech-policy/2022/10/onlyfans-lawyers-accidentally-reveal-which-meta-execs-allegedly-took-bribes/
 
 https://mynotion.space/

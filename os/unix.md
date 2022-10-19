@@ -29,6 +29,9 @@ https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8704965 Evolution of th
 https://simonwillison.net/2021/Jul/13/unix-domain-sockets/
 > https://news.ycombinator.com/item?id=27941108
 
+https://sourceforge.net/p/cdesktopenv/code/ci/503d09172b96d1679e049b3e04d8935db7ad0c96/
+> https://news.ycombinator.com/item?id=33248348
+
 http://www.team.net/mjb/hawg.html
 > https://news.ycombinator.com/item?id=28015229
 

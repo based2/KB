@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # News
+https://www.meshcloud.io/2022/09/09/gcp-landing-zone-comparison/
+
 https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase
 > https://news.ycombinator.com/item?id=33215770
 

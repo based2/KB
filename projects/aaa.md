@@ -146,8 +146,10 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://martinfowler.com/articles/bottlenecks-of-scaleups/03-product-v-engineering.html
+> https://news.ycombinator.com/item?id=33230158
+
 https://codedocs.org/what-is/software-engineering-body-of-knowledge
->
 
 https://www.edge.org/adversarial-collaboration-daniel-kahneman
 > https://news.ycombinator.com/item?id=32978355

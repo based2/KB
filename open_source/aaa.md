@@ -230,6 +230,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://about.gitlab.com/blog/2022/10/18/how-to-start-a-great-oss-project/
+>
+
 https://lspace.swyx.io/p/open-source-ai
 
 https://sill.etalab.gouv.fr/software

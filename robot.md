@@ -53,6 +53,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.polymathrobotics.com/blog/recording-robot-data
+> https://news.ycombinator.com/item?id=33249518
+
 https://arstechnica.com/science/2022/10/researchers-make-cyborg-cockroaches-that-carry-their-own-power-packs/
 
 https://techxplore.com/news/2022-08-robot-arms-shelf-stockers-japan.html

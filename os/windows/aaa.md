@@ -128,6 +128,12 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://devblogs.microsoft.com/commandline/windows-terminal-is-now-the-default-in-windows-11/
+> https://news.ycombinator.com/item?id=33252865
+
+https://stratechery.com/2022/microsoft-full-circle/
+> https://news.ycombinator.com/item?id=33246241
+
 https://devtoys.app/
 
 https://sandboxie-plus.com/downloads/

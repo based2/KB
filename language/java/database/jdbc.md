@@ -26,6 +26,8 @@ https://github.com/Wisser/Jailer
 https://github.com/eXsio/querydsl-entityql#-query-execution
 
 # News
+https://blogs.oracle.com/mysql/post/mysql-connectorj-has-new-maven-coordinates
+
 https://vladmihalcea.com/9-postgresql-high-performance-performance-tips/
 
 https://www.reddit.com/r/java/comments/t93pc2/replacing_jni_with_panama_in_the_sqlite_jdbc/

@@ -131,6 +131,8 @@ https://news.ycombinator.com/item?id=33212546
 
 https://memex.craphound.com/2017/09/24/the-spider-network-a-novelistic-account-of-the-mediocre-rich-men-who-robbed-the-world-with-libor/
 
+https://phys.org/news/2022-10-firms-issue-unrelated-news-sec.html
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

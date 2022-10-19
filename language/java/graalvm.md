@@ -9,7 +9,6 @@ https://medium.com/helidon/data-persistence-with-helidon-and-native-image-e5a748
 https://medium.com/graalvm/multi-tier-compilation-in-graalvm-5fbc65f92402
 
 https://www.blog.akhil.cc/static-jni
-> 
 
 https://chrisseaton.com/truffleruby/jokerconf17/
 > https://news.ycombinator.com/item?id=15624388
@@ -17,6 +16,9 @@ https://chrisseaton.com/truffleruby/jokerconf17/
 https://www.loicmathieu.fr/wordpress/en/informatique/debugger-une-image-native-graalvm-avec-gdb/
 
 # News
+https://twitter.com/graalvm/status/1582441450796900354
+> https://news.ycombinator.com/item?id=33251970
+
 https://github.com/hpi-swa/native-minecraft-server
 > https://news.ycombinator.com/item?id=32690205
 

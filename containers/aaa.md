@@ -39,6 +39,12 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/containers/podman/pull/16141 Add pasta networking mode
+> https://news.ycombinator.com/item?id=33243063
+
+https://www.daemonology.net/blog/2022-10-18-FreeBSD-Firecracker.html
+> https://news.ycombinator.com/item?id=33243529
+
 https://github.com/git-sgmoore/AlpineLinux-DailyDriverDesktop
 > https://news.ycombinator.com/item?id=33236127
 

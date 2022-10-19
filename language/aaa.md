@@ -292,6 +292,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://projectbook.code.brettchalupa.com/
+> https://news.ycombinator.com/item?id=33245614
+
 https://tomassetti.me/lessons-learned-working-decades-with-graphical-dsls-interview-to-juha-pekka-tolvanen/
 > https://news.ycombinator.com/item?id=33212132
 
@@ -544,7 +547,6 @@ https://lepiter.io/feenk/developers-spend-most-of-their-time-figuri-9q25taswlbzj
 https://www.thoughtworks.com/radar/languages-and-frameworks?blipid=202203046
 
 https://devlog.hexops.com/2022/mach-v0.1-zig-graphics-in-60s
->
 
 https://siraben.dev/2022/03/22/tree-sitter-linter.html
 

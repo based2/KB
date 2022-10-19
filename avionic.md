@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/
+> https://news.ycombinator.com/item?id=33239443
+
 https://lilium.com/jet
 > https://news.ycombinator.com/item?id=33044753
 

@@ -12,6 +12,10 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://rethinkdns.com/app
+
+https://blog.mozilla.org/en/mozilla/privacy-online-just-got-easier-with-todays-firefox-release/
+
 https://futurism.com/the-byte/google-engineers-joked-incognito-mode
 > https://news.ycombinator.com/item?id=33216029
 

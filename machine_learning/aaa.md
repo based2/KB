@@ -220,6 +220,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://netflixtechblog.com/orchestrating-data-ml-workflows-at-scale-with-netflix-maestro-aaa2b41b800c
+
+https://skrl.readthedocs.io/en/latest/index.html SKRL - Reinforcement Learning library (0.8.0)
+> https://news.ycombinator.com/item?id=33245437
+
 https://waxy.org/2022/09/ai-data-laundering-how-academic-and-nonprofit-researchers-shield-tech-companies-from-accountability/
 
 https://github.com/facebookresearch/shumai

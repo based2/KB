@@ -23,6 +23,16 @@ https://yahes.space/posts/using-yubikey-with-pam-module/
 https://cube0x0.github.io/Relaying-YubiKeys/
 
 # News
+https://cube0x0.github.io/Relaying-YubiKeys-Part-2/
+
+https://www.linotp.org/
+
+https://blog.singleton.io/posts/2022-10-17-otp-on-wrist/
+> https://news.ycombinator.com/item?id=33243434
+
+https://github.com/susam/mintotp
+> https://news.ycombinator.com/item?id=33245700
+
 https://github.com/santiago-mooser/yubikey-provisioning-scripts
 
 https://www.cloudflare.com/products/zero-trust/phishing-resistant-mfa/

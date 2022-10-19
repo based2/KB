@@ -80,6 +80,8 @@ https://blog.opencagedata.com/post/opentrees
 https://www.greatgreenwall.org/about-great-green-wall
 > https://news.ycombinator.com/item?id=32105953
 
+https://news.ycombinator.com/item?id=33247892
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 

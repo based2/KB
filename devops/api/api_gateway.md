@@ -26,4 +26,7 @@ https://github.com/dromara/soul
 
 https://blog.frankel.ch/apisix-api-gateway/
 
+https://api7.ai/blog/apisix-vs-kong-3-0
+> https://news.ycombinator.com/item?id=33247151
+
 https://lists.apache.org/thread/5069h44f28gfdot0y6xsd9xrspcqzttx Apache ShenYu (incubating) 2.4.3 available
