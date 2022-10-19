@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/
+> https://news.ycombinator.com/item?id=33257197
+
 https://voidstarsec.com/blog/intro-to-embedded-part-1
 
 https://blog.stackattack.net/2019/06/05/fixing-firmware-file-systems/

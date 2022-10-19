@@ -1,3 +1,12 @@
+https://drive.google.com/file/d/1p1tTTIjg3RoJecYSU3CetvNw6-ZZdMXn/view SAML/XML - .NET CVEs
+
+https://www.bleepingcomputer.com/news/security/microsoft-data-breach-exposes-customers-contact-info-emails/
+
+https://portswigger.net/research/http-3-connection-contamination
+> https://www.reddit.com/r/netsec/comments/y82ude/http3_connection_contamination_an_upcoming_threat/
+
+https://www.mdsec.co.uk/2022/10/microsoft-office-online-server-remote-code-execution/
+
 https://www.theregister.com/2022/10/18/fully_undetectable_windows_powershell_backdoor/
 > https://news.ycombinator.com/item?id=33254184
 

@@ -220,6 +220,10 @@ https://dagshub.com/blog/yolov6/#
 https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer vision cluster munition detection
 > https://news.ycombinator.com/item?id=32779930
 
+# Color
+https://palette.fm/
+> https://news.ycombinator.com/item?id=33261494
+
 # News
 https://www.strmr.com/
 > https://news.ycombinator.com/item?id=33137302

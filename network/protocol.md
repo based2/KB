@@ -49,3 +49,6 @@ https://buf.build/blog/protobuf-language-specification
 
 https://www.netmeister.org/blog/whois.html
 > https://news.ycombinator.com/item?id=32963417
+
+https://havenweb.org/2022/10/19/bluesky.html
+> https://news.ycombinator.com/item?id=33265091

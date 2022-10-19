@@ -220,6 +220,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/apache/tvm
+
+https://spectrum.ieee.org/number-representation
+> http://www.johngustafson.net/pdfs/BeatingFloatingPoint.pdf Posit
+
+https://theexitgame.substack.com/p/shortly-the-ai-powered-writing-assistant
+> https://news.ycombinator.com/item?id=33264558
+
 https://netflixtechblog.com/orchestrating-data-ml-workflows-at-scale-with-netflix-maestro-aaa2b41b800c
 
 https://skrl.readthedocs.io/en/latest/index.html SKRL - Reinforcement Learning library (0.8.0)

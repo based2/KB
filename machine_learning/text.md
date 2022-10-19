@@ -9,6 +9,9 @@ https://arxiv.org/abs/2205.14100 GIT: A Generative Image-to-text Transformer for
 https://yumingj.github.io/projects/Text2Human.html
 > https://news.ycombinator.com/item?id=31577339
 
+https://github.com/nhaouari/obsidian-textgenerator-plugin
+> 
+
 https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e
 > https://news.ycombinator.com/item?id=31915334
 

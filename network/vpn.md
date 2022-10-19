@@ -1,5 +1,8 @@
 https://www.wireguard.com/
 
+https://lwn.net/SubscriberLink/910766/7678f8c4ede60928/ Identity management for WireGuard
+> https://news.ycombinator.com/item?id=33261288
+
 https://news.ycombinator.com/item?id=24812199
 
 https://netmaker.org/about.html#

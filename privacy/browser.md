@@ -23,6 +23,7 @@ https://www.bleepingcomputer.com/news/security/brave-browser-to-start-blocking-a
 > https://news.ycombinator.com/item?id=33139148
 
 https://brave.com/privacy-updates/21-blocking-cookie-notices/
+> https://news.ycombinator.com/item?id=33261846
 
 https://news.ycombinator.com/item?id=33017131
 > https://news.ycombinator.com/item?id=33017131

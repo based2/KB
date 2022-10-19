@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://github.com/FPGAwars/icestudio
+> https://news.ycombinator.com/item?id=33259835
+
 https://www.fpgadeveloper.com/comprehensive-list-of-fpga-development-boards/
 
 https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics/

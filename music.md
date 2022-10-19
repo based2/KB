@@ -164,6 +164,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://www.ableton.com/en/note/
+> https://news.ycombinator.com/item?id=33244819
+
 https://news.ycombinator.com/item?id=32924082 Show HN: The simplest drum pattern composing algorithm I could come up with
 
 https://github.com/GuitarML/NeuralPi

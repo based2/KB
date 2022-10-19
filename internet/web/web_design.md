@@ -81,6 +81,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f
+> https://news.ycombinator.com/item?id=33261125
+
 https://feathericons.com/
 > https://news.ycombinator.com/item?id=33223964
 

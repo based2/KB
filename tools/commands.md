@@ -44,6 +44,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://www.ivarch.com/programs/pv.shtml Pipe Viewer
+> https://news.ycombinator.com/item?id=33244768
+
 https://kau.sh/blog/awk-1-oneliner-dollar-explanation/ What does $0=$2 in awk do?
 > https://news.ycombinator.com/item?id=32969238
 

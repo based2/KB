@@ -69,6 +69,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
+> https://news.ycombinator.com/item?id=33262637
+
 https://en.wikipedia.org/wiki/Chemical_space
 
 https://www.nature.com/articles/s43588-022-00325-x A computational perspective on the Nobel Prize

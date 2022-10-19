@@ -57,6 +57,9 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://www.docker.com/pricing/october-2022-pricing-change-faq/
+> https://news.ycombinator.com/item?id=33258598
+
 https://github.com/p8952/bocker bash, I can make no guarantees that it won't trash your system
 > https://news.ycombinator.com/item?id=33218094
 > > https://rancherdesktop.io/

@@ -38,6 +38,7 @@ https://github.com/moyix/fauxpilot
 > https://news.ycombinator.com/item?id=32327711
 > > https://news.ycombinator.com/item?id=33210306
 
+https://devclass.com/2022/10/18/project-wisdom-for-red-hat-ansible-ai-to-generate-yaml-playbooks-from-natural-language/
 
 https://gretel.ai/blog/generate-synthetic-data-in-3-lines-of-code
 > https://news.ycombinator.com/item?id=32752505

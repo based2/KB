@@ -28,6 +28,8 @@ https://git.meli.delivery/meli/meli
 https://aerc-mail.org/
 > https://news.ycombinator.com/item?id=33166054
 
+https://github.com/soywod/himalaya
+
 # Test
 https://github.com/reacherhq/check-if-email-exists
 > https://news.ycombinator.com/item?id=27705742
@@ -115,11 +117,6 @@ https://www.migadu.com/procon/
 https://github.com/0x4447/0x4447_product_s3_email AWS S3 SES
 > https://news.ycombinator.com/item?id=26992737
 
-# Migration
-
-# Client
-https://github.com/soywod/himalaya
-
 # Alt
 https://mnmnotmail.org/
 
@@ -144,6 +141,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://lists.apache.org/thread/7n7b9nd8lgv8yt667rj049tn606krnzx Apache James JDKIM 0.3 released
+
 https://medium.com/pcmag-access/how-to-quit-gmail-and-reclaim-your-privacy-cb995a99589
 
 https://www.mit.edu/~specter/blog/2020/dkim/

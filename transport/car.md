@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://spectrum.ieee.org/ev-safety
+
 https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere
 > https://news.ycombinator.com/item?id=33212850
 

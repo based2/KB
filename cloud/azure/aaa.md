@@ -32,6 +32,9 @@ https://www.wiz.io/blog/wiz-research-discovers-extrareplica-cross-account-databa
 
 https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 
+#
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37968
+
 # News
 https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/
 > https://news.ycombinator.com/item?id=33194974

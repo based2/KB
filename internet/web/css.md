@@ -63,6 +63,8 @@ https://play.tailwindcss.com/
 https://preline.co/
 > https://news.ycombinator.com/item?id=31989062
 
+https://tailwindcss.com/blog/tailwindcss-v3-2
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916

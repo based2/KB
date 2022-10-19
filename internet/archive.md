@@ -62,6 +62,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+http://discmaster.textfiles.com/
+> https://news.ycombinator.com/item?id=33255458
+
 https://news.ycombinator.com/item?id=32141358 Tell HN: Internet Archive is facing a Big 4 Publishers lawsuit
 > https://news.ycombinator.com/item?id=32141358
 

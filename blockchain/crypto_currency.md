@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.coindesk.com/tech/2022/10/18/ftx-a16z-backed-aptos-blockchain-off-to-a-rocky-start/
+
 https://news.ycombinator.com/item?id=33246007
 
 https://datafinnovation.medium.com/stablecoin-mechanics-2-tether-celsius-15c9ecdaaacd

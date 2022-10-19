@@ -264,6 +264,8 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://webapp.io/blog/postgres-query-speedups/
+
 https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples
 > https://news.ycombinator.com/item?id=33236780
 

@@ -92,6 +92,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://canvatechblog.com/simple-fast-and-scalable-reverse-image-search-using-perceptual-hashes-and-dynamodb-df3007d19934
+> https://news.ycombinator.com/item?id=33228398
+
 https://github.com/alebeck/facehash
 
 https://www.algolia.com/blog/ai/vectors-vs-hashes/

@@ -192,6 +192,10 @@ https://www.jeffgeerling.com/blog/2021/moving-my-home-media-library-itunes-jelly
 > https://jellyfin.org/
 > https://news.ycombinator.com/item?id=27462767
 
+# Billing
+https://github.com/killbill/killbill
+> https://news.ycombinator.com/item?id=33263603
+
 # Learn
 
 ## FR
@@ -230,8 +234,10 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://news.opensuse.org/2022/10/19/med-campaign-uses-gnuhealth-opensuse/
+> https://news.ycombinator.com/item?id=33262596
+
 https://about.gitlab.com/blog/2022/10/18/how-to-start-a-great-oss-project/
->
 
 https://lspace.swyx.io/p/open-source-ai
 

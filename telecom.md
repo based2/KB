@@ -125,6 +125,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.starlink.com/aviation
+> https://news.ycombinator.com/item?id=33256378
+
 https://korben.info/twilio-lookup-sim-swap.html
 
 https://www.theverge.com/2022/10/15/23405389/att-illinois-23-million-investigation-bribe-corruption
