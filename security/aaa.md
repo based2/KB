@@ -176,6 +176,9 @@ https://github.com/markqvist/Reticulum cryptography-based networking stack for w
 https://trevorklee.com/how-to-spot-a-good-fake-id/
 > https://news.ycombinator.com/item?id=27925327
 
+https://www.cryptologie.net/article/575/whats-the-deal-with-zkapps/
+> https://news.ycombinator.com/item?id=33277371
+
 # Book
 https://people.scs.carleton.ca/~paulv/toolsjewels.html
 

@@ -38,6 +38,9 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://www.openbsd.org/72.html
+> https://news.ycombinator.com/item?id=33274679
+
 https://marc.info/?l=openbsd-tech&m=166203784715942&w=2
 > https://news.ycombinator.com/item?id=32691701
 
@@ -172,6 +175,9 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://github.com/Wamphyre/BSD-XFCE
+> https://news.ycombinator.com/item?id=33276187
+
 https://blog.netbsd.org/tnf/entry/netbsd_9_3_released
 > https://news.ycombinator.com/item?id=32368400
 

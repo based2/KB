@@ -42,6 +42,9 @@ https://ef.gy/fsm-recursive-sql
 https://github.com/cpressey/Facts-about-State-Machines
 > https://news.ycombinator.com/item?id=33025466
 
+https://archive.org/details/designinglogicsystemsusingstatemachines Designing Logic Systems Using State Machines
+> https://news.ycombinator.com/item?id=33296316
+
 # Sort
 https://github.com/scandum/fluxsort
 > https://news.ycombinator.com/item?id=27948535
@@ -94,6 +97,11 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://bitbashing.io/comparing-floats.html
+> https://news.ycombinator.com/item?id=33295944
+
+http://0x80.pl/notesen/2021-03-11-any-word-is-zero.html
+
 https://arxiv.org/abs/2210.04045 The FBHHRBNRSSSHK-Algorithm for Multiplication in ℤ5×52 is still not the end of the story
 > https://news.ycombinator.com/item?id=33180316
 

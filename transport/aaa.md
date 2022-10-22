@@ -59,3 +59,6 @@ https://france3-regions.francetvinfo.fr/bretagne/finistere/prix-du-carburant-le-
 
 https://www.autoweek.com/news/technology/a41012991/toyota-hydrogen-truck-prototype-ride/
 > https://news.ycombinator.com/item?id=32690164
+
+https://gitlab.com/traffxml
+> https://news.ycombinator.com/item?id=33272373

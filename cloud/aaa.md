@@ -90,6 +90,8 @@ https://www.ictjournal.ch/news/2021-10-21/cloud-de-la-confederation-le-recours-d
 
 https://www.ssi.gouv.fr/uploads/2014/12/secnumcloud-referentiel-exigences-v3.2.pdf
 
+https://www.ssi.gouv.fr/entreprise/qualifications/prestataires-de-services-de-confiance-qualifies/prestataires-de-service-dinformatique-en-nuage-secnumcloud/
+
 # Serverless
 https://supabase.com/blog/2022/03/31/supabase-edge-functions
 > https://news.ycombinator.com/item?id=30868849
@@ -203,6 +205,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.the-investing-desk.com/cloud-costs-are-in-a-bubble/
+> https://news.ycombinator.com/item?id=33274918
+
 https://www.vantage.sh/cloud-cost-report/2022-q3
 
 https://notado.substack.com/p/how-flyio-and-tailscale-saved-notado

@@ -89,3 +89,6 @@ https://github.com/intel/dffml/tree/alice/docs/tutorials/rolling_alice/0000_arch
 
 https://evanthebouncy.github.io/program-synthesis-minimal/
 > https://news.ycombinator.com/item?id=33203970
+
+https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD841.html
+> https://news.ycombinator.com/item?id=33259036

@@ -47,6 +47,9 @@ https://sdiehl.github.io/gevent-tutorial/
 https://github.com/drpancake/chard Simple async/await background tasks for Django
 > https://news.ycombinator.com/item?id=32799358
 
+https://www.aeracode.org/2018/02/19/python-async-simplified/
+> https://news.ycombinator.com/item?id=33283938
+
 # Build
 https://github.com/mesonbuild/meson
 

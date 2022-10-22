@@ -100,7 +100,14 @@ https://512pixels.net/2021/04/mac-chimes-of-death/
 http://basalgangster.macgui.com/RetroMacComputing/The_Long_View/Entries/2010/3/27_TMON.html
 
 # Icons
+https://www.smithsonianmag.com/innovation/how-susan-kare-designed-user-friendly-icons-for-first-macintosh-180973286/
+> https://news.ycombinator.com/item?id=33271396
+
 https://news.ycombinator.com/item?id=27409410
+
+# Others
+https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
+> https://news.ycombinator.com/item?id=33295729
 
 #
 http://muezza.ca/thoughts/favourite_computer/

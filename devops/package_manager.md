@@ -31,4 +31,7 @@ https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 https://determinate.systems/posts/nix-run
 
 #
+https://shopify.engineering/relationships-between-ruby-top-100-packages-dependencies
+> https://news.ycombinator.com/item?id=33276137
+
 https://www.reddit.com/r/programming/comments/xk3yuw/even_with_dryrun_pip_will_execute_arbitrary_code/

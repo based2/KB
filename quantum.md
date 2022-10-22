@@ -79,6 +79,11 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/
+> https://news.ycombinator.com/item?id=33286486
+
+https://gizmodo.com/physicists-got-a-quantum-computer-to-work-by-blasting-i-1849328463
+
 https://www.space.com/europe-quantum-encryption-satellite-planned
 
 https://iai.tv/articles/tim-palmer-quantum-theory-eliminates-quantum-uncertainty-auid-2263

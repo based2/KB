@@ -12,6 +12,8 @@ https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
   
 # News
+https://www.theregister.com/2022/10/19/duckduckgo_macos_browser_beta/
+
 https://rethinkdns.com/app
 
 https://blog.mozilla.org/en/mozilla/privacy-online-just-got-easier-with-todays-firefox-release/

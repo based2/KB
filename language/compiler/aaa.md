@@ -116,6 +116,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://bernsteinbear.com/blog/cinder-jit-bisect/
+> https://news.ycombinator.com/item?id=33258356
+
 https://faultlore.com/blah/oops-that-was-important/ Compiler Optimizations Are Hard Because They Forget
 > https://www.reddit.com/r/programming/comments/xn4yr9/compiler_optimizations_are_hard_because_they/
 

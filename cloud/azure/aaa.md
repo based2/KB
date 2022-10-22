@@ -13,6 +13,10 @@ https://azure.microsoft.com/en/updates/
 
 https://azure.microsoft.com/en/blog/topics/announcements/
 
+# Incident
+https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured-microsoft-storage-location-2/
+> https://news.ycombinator.com/item?id=33297000
+
 #
 https://azure.microsoft.com/en-us/blog/azure-virtual-machines-with-ampere-altra-arm-based-processors-generally-available/
 

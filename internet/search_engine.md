@@ -34,6 +34,9 @@ https://github.com/emnh/PixelArtSearch/blob/master/README.md
 # Audio
 https://github.com/jina-ai/examples/tree/master/audio-ews
 
+https://github.com/eqy/molasses
+> https://news.ycombinator.com/item?id=33295601
+
 # Archive
 https://github.com/Norconex/collector-http
 
@@ -62,6 +65,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://memex.marginalia.nu/log/64-hundred-million.gmi
+
 https://www.bleepingcomputer.com/news/technology/google-search-crashes-when-you-ask-how-many-emojis-on-apple/
 > https://news.ycombinator.com/item?id=33221370
 

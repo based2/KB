@@ -106,6 +106,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.blackmagicdesign.com/media/release/20221020-02
+> https://news.ycombinator.com/item?id=33276342
+
 https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html
 > https://news.ycombinator.com/item?id=33260527
 

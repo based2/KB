@@ -23,6 +23,11 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.nicehash.com/blog/post/psa-nvidia-driver-522.25-removes-the-lhr-unlock
+> https://news.ycombinator.com/item?id=33298238
+
+https://news.ycombinator.com/item?id=33295938
+
 https://www.coindesk.com/tech/2022/10/18/ftx-a16z-backed-aptos-blockchain-off-to-a-rocky-start/
 
 https://news.ycombinator.com/item?id=33246007

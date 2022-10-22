@@ -57,7 +57,11 @@ https://www.musi-co.com/listen/streams
 
 https://github.com/Anjok07/ultimatevocalremovergui
 
-# text-to-speech
+# speech2Text
+https://openai.com/blog/whisper/
+> https://news.ycombinator.com/item?id=32927360
+
+# text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074
 

@@ -125,6 +125,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-fiber-cables-in-france/
+
 https://www.starlink.com/aviation
 > https://news.ycombinator.com/item?id=33256378
 

@@ -126,6 +126,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.jenkins.io/security/advisory/2022-10-19/
+
+https://devclass.com/2022/10/19/github-fixes-over-broad-token-permissions-with-fine-grained-personal-access-tokens-and-controversial-enforced-expiration/
+
 https://github.blog/2022-10-17-git-security-vulnerabilities-announced/
 
 https://gitlab.com/gitlab-org/gitlab/-/issues/371098 RCE via github import
@@ -227,6 +231,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://blog.massdriver.cloud/devops-is-bullshit
+> https://news.ycombinator.com/item?id=33274988
+
+https://stackoverflow.blog/2022/10/20/introducing-the-overflow-offline-project/
+> https://news.ycombinator.com/item?id=33274186
+
 https://github.blog/2022-10-18-introducing-fine-grained-personal-access-tokens-for-github/
 > https://news.ycombinator.com/item?id=33248988
 

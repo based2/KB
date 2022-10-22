@@ -24,6 +24,15 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/
+> https://news.ycombinator.com/item?id=33287224
+
+https://www.leadedsolder.com/2022/10/20/mini5-tetris-dump.html
+
+https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/
+
+https://haroohie.club/blog/2022-10-19-chokuretsu-compression/
+
 https://smartfinvc.com/news/smartfin-acquires-leading-cybersecurity-software-provider-hex-rays-together-with-sfpim-and-sriw/
 > https://news.ycombinator.com/item?id=33257197
 

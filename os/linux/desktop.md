@@ -75,6 +75,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://pointieststick.com/2022/10/21/this-week-in-kde-ui-improvements-abound-2/
+
 https://github.com/emersion/slurp
 
 https://github.com/GloriousEggroll/proton-ge-custom

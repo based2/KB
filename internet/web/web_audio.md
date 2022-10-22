@@ -31,7 +31,6 @@ https://github.com/bignimbus/trombone.js
 https://github.com/notthetup/awesome-webaudio
 
 https://alexanderell.is/posts/tuner/
-> 
 
 https://www.taniarascia.com/musical-instrument-web-audio-api/
 > https://news.ycombinator.com/item?id=31329587
@@ -41,3 +40,6 @@ https://martinmelhus.com/web-audio-modem
 
 https://web.dev/audio-scheduling/
 > https://news.ycombinator.com/item?id=31935058
+
+https://www.a1k0n.net/2015/11/09/javascript-ft2-player.html
+> https://news.ycombinator.com/item?id=33294020

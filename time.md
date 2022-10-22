@@ -114,6 +114,8 @@ https://www.javaspecialists.eu/talks/jfokus13/PhaserAndStampedLock.pdf
 https://labs.ripe.net/author/christer-weinigel/best-practices-for-connecting-to-ntp-servers/
 > https://news.ycombinator.com/item?id=29106800
 
+https://system76.com/time Network Time Security
+
 # Sync
 https://muratbuffalo.blogspot.com/2021/03/sundial-fault-tolerant-clock.html
 
@@ -211,6 +213,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://research.redhat.com/events/toward-knowledge-driven-system-management-to-control-timeliness/
+> https://news.ycombinator.com/item?id=33262613
+
 https://blog.ganssle.io/articles/2019/11/utcnow.html
 > https://news.ycombinator.com/item?id=33138302
 

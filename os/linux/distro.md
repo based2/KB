@@ -71,6 +71,13 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://blog.system76.com/post/celebrating-5-years-of-pop_os
+> https://news.ycombinator.com/item?id=33294448
+> > https://github.com/pop-os/cosmic
+
+https://ubuntu.com/blog/canonical-releases-ubuntu-22-10-kinetic-kudu
+> https://news.ycombinator.com/item?id=33275206
+
 https://www.theregister.com/2022/10/06/ubuntu_pro_free/?td=keepreading
 
 https://www.mocaccino.org/

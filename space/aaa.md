@@ -147,6 +147,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=33281682
+
 https://spacenews.com/amazon-to-link-kuiper-satellites-to-dods-mesh-network-in-space/
 
 https://en.wikipedia.org/wiki/GLASS-z13

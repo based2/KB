@@ -1,3 +1,6 @@
+https://commutative.xyz/~miguelmurca/blog/x/lambda.html
+> https://news.ycombinator.com/item?id=33259630
+
 https://hayesall.com/blog/latex-automata/
 > https://news.ycombinator.com/item?id=29721787
  

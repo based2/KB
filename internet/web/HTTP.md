@@ -156,6 +156,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for
+> https://news.ycombinator.com/item?id=33280605
+
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP
 > https://news.ycombinator.com/item?id=33201653
 

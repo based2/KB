@@ -63,6 +63,9 @@ https://play.tailwindcss.com/
 https://preline.co/
 > https://news.ycombinator.com/item?id=31989062
 
+https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-creep-warning/
+> https://news.ycombinator.com/item?id=33298806
+
 https://tailwindcss.com/blog/tailwindcss-v3-2
 
 # Bootstrap
@@ -205,6 +208,11 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.cssdig.com/
+
+https://web.dev/state-of-css-2022/
+> https://news.ycombinator.com/item?id=33287471
+
 https://elisehe.in/2022/10/16/attribute-selectors
 > https://news.ycombinator.com/item?id=33232244
 

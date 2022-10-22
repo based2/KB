@@ -73,6 +73,9 @@ https://www.sec.gov/news/press-release/2022-174
 
 https://law.stanford.edu/press/investors-beware-crooked-financial-advisors-can-slip-through-regulatory-cracks/
 
+https://www.moderntreasury.com/journal/accounting-for-developers-part-iii
+> https://news.ycombinator.com/item?id=33274239
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 > https://news.ycombinator.com/item?id=27763965

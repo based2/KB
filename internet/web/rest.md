@@ -22,6 +22,9 @@ https://hoppscotch.io/
 https://github.com/EsperoTech/yaade
 > https://news.ycombinator.com/item?id=30895372
 
+https://restfox.dev/
+> https://news.ycombinator.com/item?id=33287137
+
 # Libraries
 ## Java/Jackson
 https://medium.com/@cowtowncoder/on-jackson-cves-dont-panic-here-is-what-you-need-to-know-54cd0d6e8062

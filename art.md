@@ -42,6 +42,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.si.edu/openaccess
+> https://news.ycombinator.com/item?id=33294493
+
 https://malrot.org/
 
 https://www.nbcnews.com/news/world/iran-unveils-western-art-masterpieces-hidden-decades-rcna42585

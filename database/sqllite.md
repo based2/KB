@@ -101,6 +101,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://www.sqlite.org/quirks.html
+> https://news.ycombinator.com/item?id=33272824
+
 https://atuin.sh/
 
 https://github.com/simonw/sqlite-utils

@@ -70,6 +70,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://typefully.com/DanHollick/blending-modes-KrBa0JP
+> https://news.ycombinator.com/item?id=33292199
+
 https://uxdesign.cc/the-dark-yellow-problem-in-design-system-color-palettes-a0db1eedc99d
 > https://news.ycombinator.com/item?id=33246700
 

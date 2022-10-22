@@ -61,6 +61,11 @@ https://thisxdoesnotexist.com/
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
 ## Stable diffusion
+https://imagic-editing.github.io/
+
+https://huggingface.co/runwayml/stable-diffusion-v1-5
+> https://news.ycombinator.com/item?id=33278248
+
 https://promptomania.com/
 
 https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference

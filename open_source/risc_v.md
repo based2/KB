@@ -1,6 +1,8 @@
 https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw
 > https://news.ycombinator.com/item?id=33210278
 
+https://news.ycombinator.com/item?id=33295947
+
 https://www.andestech.com/en/2022/10/17/andes-announces-the-n25f-se-processor-the-world-first-risc-v-cpu-ip-with-iso-26262-full-compliance/
 > https://news.ycombinator.com/item?id=33253490
 

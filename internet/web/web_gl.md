@@ -47,5 +47,8 @@ https://znah.net/hexells/#14
 
 https://cprimozic.net/blog/depth-based-fragment-culling-webgl/
 
+https://vercel.com/blog/building-an-interactive-webgl-experience-in-next-js
+> https://news.ycombinator.com/item?id=33294489
+
 
 

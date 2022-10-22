@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://news.ycombinator.com/item?id=33288706
+
 https://news.ycombinator.com/item?id=33221063
 
 https://nakryiko.com/posts/retsnoop-intro/ Tracing Linux kernel with retsnoop

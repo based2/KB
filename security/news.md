@@ -1,6 +1,20 @@
+https://www.usenix.org/conference/usenixsecurity21/presentation/tao DICE*: A Formally Verified Implementation of DICE Measured Boot
+
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41033 COM+ RCE
+
+https://mouha.be/sha-3-buffer-overflow/
+> https://news.ycombinator.com/item?id=33281106
+
+https://www.pentestpartners.com/security-blog/social-engineering-dos-and-donts/
+> https://news.ycombinator.com/item?id=33273492
+
+https://www.theregister.com/2022/10/20/biden_administration_iot_security_labels/
+
 https://drive.google.com/file/d/1p1tTTIjg3RoJecYSU3CetvNw6-ZZdMXn/view SAML/XML - .NET CVEs
 
 https://www.bleepingcomputer.com/news/security/microsoft-data-breach-exposes-customers-contact-info-emails/
+> https://www.theregister.com/2022/10/20/microsoft_data_leak_socradar/
+> https://socradar.io/sensitive-data-of-65000-entities-in-111-countries-leaked-due-to-a-single-misconfigured-data-bucket/
 
 https://portswigger.net/research/http-3-connection-contamination
 > https://www.reddit.com/r/netsec/comments/y82ude/http3_connection_contamination_an_upcoming_threat/

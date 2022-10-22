@@ -72,6 +72,9 @@ https://blog.searce.com/infrastructure-provisioning-of-terraform-by-using-kitche
 
 https://newcontext-oss.github.io/kitchen-terraform/
 
+# Checks
+https://github.com/tfverch/tfvc versions
+
 # Sec
 
 https://terraform-compliance.com/
@@ -121,6 +124,10 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://www.cncf.io/blog/2022/09/30/how-to-gitops-your-terraform/
+
+https://platformengineering.org/talks-library/infrastructure-as-code-setups
+
 https://brendanthompson.com/posts/2022/10/terraform-for-expression
 
 https://blog.dmichael.be/2022/09/28/Terraform-External-Data-Provider-and-local-exec-Provisioner/

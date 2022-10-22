@@ -80,6 +80,9 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2022/10/dark-mode-support-aws-management-console/
+> https://news.ycombinator.com/item?id=33296195
+
 https://www.reddit.com/r/aws/comments/y4ud9k/aws_managed_microsoft_ad_is_now_available_on/
 
 https://github.com/aws-solutions/automated-data-analytics-on-aws Automated Data Analytics on AWS solution provides an end-to-end data platform for ingesting, transforming, managing and querying datasets

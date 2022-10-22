@@ -40,6 +40,9 @@ https://venturebeat.com/games/neal-stephensons-lamina1-drops-white-paper-on-buil
 
 https://www.bloomberg.com/news/articles/2022-08-28/what-will-apple-call-its-ar-vr-headsets-reality-one-reality-pro-names-emerge
 
+https://nvidianews.nvidia.com/news/nvidia-launches-omniverse-cloud-services-for-building-and-operating-industrial-metaverse-applications
+> https://news.ycombinator.com/item?id=32941968
+
 https://github.com/StereoKit/StereoKit MS, zig
 > https://news.ycombinator.com/item?id=32168236
 

@@ -10,6 +10,9 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://chipsandcheese.com/2022/10/20/microbenchmarking-intels-arc-a770/
+> https://news.ycombinator.com/item?id=33274402
+
 https://gpuopen.com/meet-fidelityfx-super-resolution-2-1/
 > https://news.ycombinator.com/item?id=32766768
 

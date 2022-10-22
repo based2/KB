@@ -81,6 +81,11 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://semiengineering.com/whats-different-about-next-gen-transistors/
+> https://news.ycombinator.com/item?id=33273063
+
+https://gist.github.com/FCLC/56e4b3f4a4d98cfd274d1430fabb9458 FCLC/A not so brief discussion of Alder Lake, the new AVX512 FP 16 extensions, Sapphire Rapids, its history, and why it requires a custom kernel.md
+
 https://www.cpushack.com/2022/10/19/soviet-argon-11s-computers-for-space/
 
 https://www.tomshardware.com/news/intel-enables-ecc-on-12th-gen-core-cpus

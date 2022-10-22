@@ -69,6 +69,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://www.newscientist.com/article/2343246-aluminium-alloy-could-boost-spacecraft-radiation-shielding-100-fold/
+> https://news.ycombinator.com/item?id=33278376
+
 https://www.quantamagazine.org/inside-the-proton-the-most-complicated-thing-imaginable-20221019/
 > https://news.ycombinator.com/item?id=33262637
 

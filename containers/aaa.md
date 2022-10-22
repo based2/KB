@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://memooo.ooo/posts/is-openstack-losing/
+> https://news.ycombinator.com/item?id=33274744
+
 https://github.com/containers/podman/pull/16141 Add pasta networking mode
 > https://news.ycombinator.com/item?id=33243063
 

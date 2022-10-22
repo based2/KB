@@ -12,5 +12,6 @@ https://knowledge.autodesk.com/support/fusion-360/learn-explore/caas/sfdcarticle
 https://upollo.ai/blog/effective-trials
 > https://news.ycombinator.com/item?id=32658926
 
-https://nvidianews.nvidia.com/news/nvidia-launches-omniverse-cloud-services-for-building-and-operating-industrial-metaverse-applications
-> https://news.ycombinator.com/item?id=32941968
+https://www.plural.sh/blog/open-core-companies/
+> https://news.ycombinator.com/item?id=33274875
+

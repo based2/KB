@@ -61,6 +61,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://auctions.ipv4.global/prior-sales
+> https://news.ycombinator.com/item?id=33274590
+
 https://mybroadband.co.za/news/internet/372304-r1-3-billion-worth-of-internet-resources-stolen-in-great-african-ip-address-heist.html
 
 https://news.ycombinator.com/item?id=32917671

@@ -97,6 +97,12 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://dev-nonsense.com/posts/incremental-parsing-in-go/
+> 
+
+https://go101.org/blog/2022-08-22-some-undocumented-changes-in-go-1.18-and-1.19.html
+> https://news.ycombinator.com/item?id=33282644
+
 https://www.jotaen.net/Fj38K/golang-error-handling-syntax/
 
 https://bitmaybewise.substack.com/p/when-nil-is-not-nil

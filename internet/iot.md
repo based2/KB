@@ -1,5 +1,7 @@
+https://www.electronicdesign.com/technologies/embedded-revolution/article/21250006/luos-lets-get-cyberphysical-the-expanding-role-of-cps
+> https://news.ycombinator.com/item?id=33271734
+
 https://trmm.net/homeconnect/
-> 
 
 https://staceyoniot.com/matter-is-now-official/
 > https://news.ycombinator.com/item?id=33083550
@@ -19,3 +21,7 @@ https://lwn.net/SubscriberLink/850218/9c0f0946579fe577/
 
 https://www.wired.com/story/ofrak-iot-reverse-engineering-tool/
 > https://news.ycombinator.com/item?id=32572147
+
+# Sensor
+https://github.com/rbaron/b-parasite
+> https://news.ycombinator.com/item?id=33281310

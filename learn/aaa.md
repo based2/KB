@@ -107,6 +107,8 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+Carlos Ruiz Zafón
+
 https://www.teachapp.fr/generateurs/modeles-d-ecriture
 
 https://www.teachapp.fr/generateurs/horloges

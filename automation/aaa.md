@@ -25,6 +25,10 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://pyinfra.com/
+> https://github.com/Fizzadar/pyinfra
+> https://news.ycombinator.com/item?id=33286972
+
 https://research.nccgroup.com/2022/09/19/a-guide-to-improving-security-through-infrastructure-as-code/
 
 https://blog.awsfundamentals.com/infrastructure-as-code-on-aws-an-introduction

@@ -220,6 +220,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://blog.tensorflow.org/2022/10/building-the-future-of-tensorflow.html
+> https://news.ycombinator.com/item?id=33286281
+
+https://carper.ai/instruct-gpt-announcement/
+> https://news.ycombinator.com/item?id=33271750
+
 https://github.com/apache/tvm
 
 https://spectrum.ieee.org/number-representation
