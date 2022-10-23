@@ -243,6 +243,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://bas.codes/posts/python-asterisks
+
+https://sadh.life/post/builtins/
+
+https://anvil.works/articles/pointers-in-my-python-2
+
 https://medium.com/building-carta/type-annotation-via-automated-refactoring-fd8edfe123d4
 
 https://arpitbhayani.me/blogs/fsm Building Finite State Machines with Python Coroutines

@@ -26,6 +26,9 @@ https://www.cs.utexas.edu/users/moore/best-ideas/string-searching/
 > https://news.ycombinator.com/item?id=26910982
 https://yurichev.com/news/20210421_boyer_moore/
 > https://news.ycombinator.com/item?id=26900640
+
+https://www.linuxjournal.com/article/6652 How to Index Anything
+> 
  
 ##
 https://neuml.github.io/txtai/workflow/
@@ -121,6 +124,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://en.wikipedia.org/wiki/Cistercian_numerals
+
 https://logseq.com/?
 > https://news.ycombinator.com/item?id=33218561
 

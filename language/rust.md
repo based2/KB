@@ -401,6 +401,14 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70
+> https://news.ycombinator.com/item?id=33306945
+
+https://github.com/immunant/c2rust
+> https://news.ycombinator.com/item?id=33273944
+
+https://www.figma.com/blog/rust-in-production-at-figma/
+
 https://www.rerun.io/blog/why-rust
 > https://news.ycombinator.com/item?id=33244756
 

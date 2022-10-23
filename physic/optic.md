@@ -90,3 +90,5 @@ https://www.sciencedaily.com/releases/2022/06/220615142217.htm Ultra-fast photon
 
 https://semiengineering.com/flip-chip-integration-of-a-gasb-semiconductor-optical-amplifier-with-a-silicon-photonic-circuit/
 > https://news.ycombinator.com/item?id=31977495
+
+https://pubs.rsc.org/en/content/articlelanding/2020/ce/c9ce01838g Controllable growth of transition metal dichalcogenide multilayer flakes with kirigami structures

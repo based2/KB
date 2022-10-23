@@ -271,6 +271,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://donatstudios.com/yagni-git-gc
+
 https://news.ycombinator.com/item?id=33261862 Ask HN: Apps that are built with Git as the back end?
 
 https://github.blog/2022-10-13-the-story-of-scalar/

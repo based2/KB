@@ -16,6 +16,12 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+http://solarprotocol.net/index.html
+
+https://www.cam.ac.uk/stories/floating-artificial-leaves
+
+https://www.science.org/content/article/space-based-solar-power-getting-serious-can-it-solve-earth-s-energy-woes
+
 https://interestingengineering.com/science/30-percent-barrier-solar-cells-breached
 
 https://www.tue.nl/en/news-and-events/news-overview/27-09-2022-four-terminal-perovskite-silicon-pv-tandem-devices-hit-30-efficiency/

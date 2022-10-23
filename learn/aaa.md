@@ -107,6 +107,11 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://theamericanscholar.org/the-new-old-way-of-learning-languages/
+> https://simple.wikipedia.org/wiki/Zipf%27s_law
+
+https://www.cs.uni.edu/~wallingf/blog/archives/monthly/2022-07.html#e2022-07-03T09_00_55.htm
+
 Carlos Ruiz Zafón
 
 https://www.teachapp.fr/generateurs/modeles-d-ecriture

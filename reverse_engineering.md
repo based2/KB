@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://www.evilsocket.net/2022/10/20/Reverse-Engineering-the-Apple-MultiPeer-Connectivity-Framework/
+> https://www.reddit.com/r/netsec/comments/y907qk/reverse_engineering_the_apple_multipeer/
+
 https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/
 > https://news.ycombinator.com/item?id=33287224
 

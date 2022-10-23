@@ -213,6 +213,8 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://nickb.dev/blog/designing-a-rest-api-unix-time-vs-iso-8601/
+
 https://research.redhat.com/events/toward-knowledge-driven-system-management-to-control-timeliness/
 > https://news.ycombinator.com/item?id=33262613
 

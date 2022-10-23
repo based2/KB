@@ -43,3 +43,5 @@ https://news.ycombinator.com/item?id=31925145 Ask HN: How do you scale WebSocket
 
 https://alexanderell.is/posts/websockets-from-scratch/
 > https://news.ycombinator.com/item?id=32634038
+
+https://github.com/vi/websocat

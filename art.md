@@ -37,11 +37,15 @@ https://www.instructables.com/Easily-Build-a-MACHINE-THAT-DESTROYS-WHAT-IT-CREAT
 https://mrogalski.eu/ansi-art/
 > https://news.ycombinator.com/item?id=32354797
 
+https://www.asciiart.eu/
+
 ## Tools
 https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.artnews.com/art-in-america/features/tauba-auerbach-s-v-z-sfmoma-1234612921/
+
 https://www.si.edu/openaccess
 > https://news.ycombinator.com/item?id=33294493
 

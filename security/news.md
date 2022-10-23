@@ -1,3 +1,23 @@
+https://github.com/originjs/crypto-js-wasm
+
+https://dys2p.com/en/2021-12-tamper-evident-protection.html
+
+https://github.com/vedhavyas/zwfp
+
+https://petapixel.com/2022/08/08/sonys-forgery-proof-tech-adds-crypto-signature-to-photos-in-camera/
+
+https://www.mastercard.com/news/press/2022/october/mastercard-and-partners-deliver-first-contactless-cards-for-quantum-world/
+
+https://jhalon.github.io/chrome-browser-exploitation-1/
+
+https://guardiosecurity.medium.com/dormant-colors-live-campaign-with-over-1m-data-stealing-extensions-installed-9a9a459b5849
+
+https://github.com/AlfioEmanueleFresta/xdg-credentials-portal FIDO2 (WebAuthn) and FIDO U2F platform library for Linux written in Rust; includes a proposal for a new D-Bus Portal interface for FIDO2, accessible from Flatpak apps and Snaps
+
+https://blog.kylebot.net/2022/10/16/CVE-2022-1786/ io_uring
+
+https://grsecurity.net/exploiting_and_defending_against_same_type_object_reuse
+
 https://www.usenix.org/conference/usenixsecurity21/presentation/tao DICE*: A Formally Verified Implementation of DICE Measured Boot
 
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-41033 COM+ RCE

@@ -141,6 +141,13 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://mjml.io/
+
+https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours
+> https://news.ycombinator.com/item?id=33304075
+
+https://news.ycombinator.com/item?id=33301483 Show HN: Contact Form Delivery
+
 https://lists.apache.org/thread/7n7b9nd8lgv8yt667rj049tn606krnzx Apache James JDKIM 0.3 released
 
 https://medium.com/pcmag-access/how-to-quit-gmail-and-reclaim-your-privacy-cb995a99589

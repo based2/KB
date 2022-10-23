@@ -234,6 +234,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://en.wikipedia.org/wiki/List_of_software_forks
+
 https://news.opensuse.org/2022/10/19/med-campaign-uses-gnuhealth-opensuse/
 > https://news.ycombinator.com/item?id=33262596
 

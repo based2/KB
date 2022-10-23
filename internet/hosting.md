@@ -17,6 +17,9 @@ https://rohanrd.xyz/posts/why-you-should-start-self-hosting/
 > https://news.ycombinator.com/item?id=30781536
 
 # Static
+https://outstatic.com/
+> https://news.ycombinator.com/item?id=33306029
+
 https://cj.rs//readme-in-static-site/
 > https://news.ycombinator.com/item?id=29304376
 

@@ -125,6 +125,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.fiercetelecom.com/telecom/fcc-denies-isp-requests-keep-their-coverage-calculations-secret
+
 https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-fiber-cables-in-france/
 
 https://www.starlink.com/aviation

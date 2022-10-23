@@ -18,6 +18,10 @@ https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured
 > https://news.ycombinator.com/item?id=33297000
 
 #
+https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/authentication-strength-choose-the-right-auth-method-for-your/ba-p/2365674?WT_mc_id=academic-0000-abartolo
+
+https://github.com/cisagov/ScubaGear Automation to assess the state of your M365 tenant against CISA's baselines Resources
+
 https://azure.microsoft.com/en-us/blog/azure-virtual-machines-with-ampere-altra-arm-based-processors-generally-available/
 
 https://news.ycombinator.com/item?id=32644896

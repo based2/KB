@@ -73,13 +73,16 @@ https://learnbyexample.github.io/vim_reference/Introduction.html
 https://vimcolorschemes.com/
 > https://news.ycombinator.com/item?id=30885471
 
-https://www.vim.org/vim90.php
-
 https://github.com/helix-editor/helix Rust
 > https://news.ycombinator.com/item?id=33147270
 
 https://github.com/ggandor/leap.nvim mouse
 > https://news.ycombinator.com/item?id=33134113
+
+https://www.openvim.com/
+> https://news.ycombinator.com/item?id=33306778
+
+https://www.vim.org/vim90.php
 
 https://spacevim.org/SpaceVim-release-v2.0.0/
 > https://news.ycombinator.com/item?id=31986851
@@ -183,6 +186,9 @@ https://www.cliki.net/cl-emacs
 
 https://www.labri.fr/perso/nrougier/GTD/index.html
 > https://news.ycombinator.com/item?id=33033017
+
+https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html
+> https://news.ycombinator.com/item?id=33277985
 
 # IDE
 ## Eclipse

@@ -22,6 +22,12 @@ https://lwn.net/SubscriberLink/850218/9c0f0946579fe577/
 https://www.wired.com/story/ofrak-iot-reverse-engineering-tool/
 > https://news.ycombinator.com/item?id=32572147
 
+https://kiwink.io/ Visual light communication - LED
+
+# MQTT
+https://joinbase.io/blog/intro-oidbs/ OIDBS: An Open Source MQTT Driven Benchmark Suite for Massive IoT Data
+> https://news.ycombinator.com/item?id=33304677
+
 # Sensor
 https://github.com/rbaron/b-parasite
 > https://news.ycombinator.com/item?id=33281310

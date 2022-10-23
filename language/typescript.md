@@ -83,6 +83,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://effectivetypescript.com/2022/07/30/treemap-for-source-files/
+
 https://coderoasis.com/typescript-10-years-old/
 > https://news.ycombinator.com/item?id=33139064
 
@@ -98,7 +100,6 @@ https://type-level-typescript.com/
 
 https://kaleidawave.github.io/posts/introducing-ezno/ type checker for JavaScript and optimiser for React
 > https://news.ycombinator.com/item?id=32941613
-
 
 https://type-level-typescript.com/
 > https://news.ycombinator.com/item?id=32913125

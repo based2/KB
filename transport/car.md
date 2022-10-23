@@ -26,6 +26,8 @@ https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-d
 https://www.theverge.com/2022/10/13/23402157/sony-honda-electric-vehicles-evs-timeline-sales-2026
 > https://news.ycombinator.com/item?id=33189800
 
+https://arstechnica.com/cars/2022/10/after-cutting-radar-tesla-now-dropping-ultrasonic-sensors-from-its-evs/
+
 https://www.uni-stuttgart.de/en/university/news/all/Students-break-acceleration-world-record/
 > https://news.ycombinator.com/item?id=33181112
 

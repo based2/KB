@@ -70,6 +70,8 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://iquilezles.org/articles/premultipliedalpha/
+
 https://typefully.com/DanHollick/blending-modes-KrBa0JP
 > https://news.ycombinator.com/item?id=33292199
 

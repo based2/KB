@@ -34,6 +34,8 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://woodgears.ca/dust/dylos.html
+
 https://www.nrel.gov/news/features/2022/more-than-one-pathway-to-energy-resilience.html
 
 https://www.bloomberg.com/news/articles/2022-10-13/europe-likely-to-avoid-unusually-cold-winter-climate-model-says

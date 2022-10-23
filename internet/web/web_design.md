@@ -81,6 +81,10 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://snoopforms.com/
+
+https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/
+
 https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f
 > https://news.ycombinator.com/item?id=33261125
 

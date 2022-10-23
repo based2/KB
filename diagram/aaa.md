@@ -146,6 +146,14 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14
+> https://github.com/pmsipilot/docker-compose-viz
+> https://github.com/scottrogowski/code2flow
+> https://github.com/gak/pycallgraph
+> https://blog.bazel.build/2015/06/17/visualize-your-build.html
+> https://pypi.org/project/pipdeptree/
+> https://gource.io/
+
 https://www.cs.utexas.edu/~isil/cs389L/bdd.pdf An Introduction to Binary Decision Diagrams
 > https://news.ycombinator.com/item?id=32993015
 

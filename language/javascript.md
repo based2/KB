@@ -63,6 +63,8 @@ https://antoniandre.github.io/splitpanes/
 https://tauri.app/
 > https://news.ycombinator.com/item?id=32446374
 
+https://github.com/webfansplz/temir
+
 ## ReactJS - Facebook
 https://github.com/reactjs/react-basic
 
@@ -199,6 +201,8 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://www.joshwcomeau.com/react/why-react-re-renders/
+
 https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0
 > https://news.ycombinator.com/item?id=33198198
 
@@ -467,6 +471,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/ananthakumaran/u encoding/decoding state (JavaScript object) in URL
+
+https://facebook.github.io/memlab/ Analyzes JavaScript heap and finds memory leaks in browser and node.js
+
 https://news.ycombinator.com/item?id=33223120
 
 https://esinfer.com/ Make JavaScript Type-Safe

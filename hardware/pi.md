@@ -11,6 +11,8 @@ https://www.jeffgeerling.com/tags/parts-shortage
 https://rpilocator.com/
 
 #
+https://news.ycombinator.com/item?id=33302748
+
 https://www.ikejima.org/projects/2022091-egg-laptop.html
 > https://news.ycombinator.com/item?id=33045219
 

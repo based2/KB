@@ -10,8 +10,15 @@ https://monitor.firefox.com/
 
 https://github.com/dothq/browser
 > https://news.ycombinator.com/item?id=28584630
+
+https://mcaptcha.org/ AGPL, rust
+> https://github.com/mCaptcha
   
 # News
+https://netguard.me/
+
+https://krausefx.com/blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser
+
 https://www.theregister.com/2022/10/19/duckduckgo_macos_browser_beta/
 
 https://rethinkdns.com/app

@@ -79,6 +79,8 @@ https://objective-see.org/tools.html
 > https://news.ycombinator.com/item?id=32979796
 
 # Dev
+https://refruity.xyz/macbook-touch-bar-in-iterm2/
+
 https://thescottkrause.com/emerging_tech/new_macbook_setup_for_dev/
 
 https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
@@ -137,6 +139,8 @@ https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-perfor
 > https://news.ycombinator.com/item?id=31643610
 
 # M1
+https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/
+
 https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx
 
 https://github.com/corsix/amx

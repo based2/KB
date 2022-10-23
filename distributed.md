@@ -57,6 +57,8 @@ https://automerge.org/
 https://arxiv.org/abs/2205.12425 Katara: Synthesizing CRDTs with Verified Lifting
 > https://news.ycombinator.com/item?id=32977887
 
+https://josephg.com/blog/crdts-are-the-future/
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

@@ -79,6 +79,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.oezratty.net/wordpress/2021/understanding-quantum-technologies-2021/
+
 https://www.quantamagazine.org/physics-experiments-spell-doom-for-quantum-collapse-theory-20221020/
 > https://news.ycombinator.com/item?id=33286486
 

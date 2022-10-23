@@ -2,6 +2,8 @@ https://vaadin.com/blog/next-generation-vaadin-components lit-element
 
 https://github.com/justinfagnani/stampino-element
 
+https://nudeui.com/
+
 https://github.blog/2021-05-04-how-we-use-web-components-at-github/
 > https://news.ycombinator.com/item?id=27045450
 
@@ -36,3 +38,5 @@ https://contentblocksjs.com/
 https://shoelace.style/
 > https://news.ycombinator.com/item?id=30900220
 > > https://github.com/SAP/ui5-webcomponents
+
+https://levelup.gitconnected.com/are-web-components-dead-12e404e0f4b0

@@ -53,6 +53,11 @@ https://eugeneyan.com/writing/search-query-matching/
 https://hn.algolia.com/
 https://deephn.org/
 
+# JS Client local database search
+https://lyrasearch.io/
+
+https://pagefind.app/
+
 # Recommendations
 https://arxiv.org/abs/2105.14134 Netflix
 
@@ -65,6 +70,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://news.ycombinator.com/item?id=33304270 Ask HN: Is DDG Becoming Unusable?
+
 https://memex.marginalia.nu/log/64-hundred-million.gmi
 
 https://www.bleepingcomputer.com/news/technology/google-search-crashes-when-you-ask-how-many-emojis-on-apple/

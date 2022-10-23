@@ -50,6 +50,10 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://giscus.app github forums
+
+https://news.ycombinator.com/item?id=33306137
+
 https://www.theguardian.com/technology/2022/oct/18/facebook-meta-sell-giphy-cma
 > https://news.ycombinator.com/item?id=33246016
 

@@ -220,6 +220,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/jina-ai/jina
+
+https://aegeorge42.github.io/ Neural network from scratch
+
+https://course.fast.ai/
+
 https://blog.tensorflow.org/2022/10/building-the-future-of-tensorflow.html
 > https://news.ycombinator.com/item?id=33286281
 

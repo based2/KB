@@ -22,6 +22,10 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 
 https://github.com/GoogleCloudPlatform/berglas
 
+# Incident
+https://securityintelligence.com/posts/attacker-achieve-persistence-google-cloud-platform-cloud-shell/
+> https://www.reddit.com/r/netsec/comments/ya7ryu/how_an_attacker_can_achieve_persistence_in_google/
+
 # News
 https://www.meshcloud.io/2022/09/09/gcp-landing-zone-comparison/
 

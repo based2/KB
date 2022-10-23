@@ -98,7 +98,7 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 
 # News
 https://dev-nonsense.com/posts/incremental-parsing-in-go/
-> 
+> https://news.ycombinator.com/item?id=33298253
 
 https://go101.org/blog/2022-08-22-some-undocumented-changes-in-go-1.18-and-1.19.html
 > https://news.ycombinator.com/item?id=33282644

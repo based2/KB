@@ -281,6 +281,8 @@ https://supabase.com/blog/postgres-wasm
 https://www.cybertec-postgresql.com/en/products/pg_squeeze/
 > https://news.ycombinator.com/item?id=33081709
 
+https://www.timescale.com/blog/how-postgresql-views-and-materialized-views-work-and-how-they-influenced-timescaledb-continuous-aggregates/
+
 https://blog.cleverelephant.ca/2022/10/postgresql-links.html
 
 https://www.postgresql.org/about/news/postgresql-15-rc-1-released-2516/

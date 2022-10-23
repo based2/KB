@@ -133,6 +133,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://www.openssl.org/blog/blog/2022/10/21/tls-groups-configuration/
+
 https://korben.info/lets-encrypt-vmware-esxi.html
 
 https://mta.openssl.org/pipermail/openssl-announce/2022-October/000237.html

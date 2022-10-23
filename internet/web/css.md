@@ -208,6 +208,10 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://voussoir.net/writing/browser_in_the_dark
+
+https://jakearchibald.com/2022/img-aspect-ratio/
+
 https://www.cssdig.com/
 
 https://web.dev/state-of-css-2022/

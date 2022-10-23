@@ -61,6 +61,8 @@ https://thisxdoesnotexist.com/
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
 ## Stable diffusion
+https://andys.page/posts/how-to-draw/
+
 https://imagic-editing.github.io/
 
 https://huggingface.co/runwayml/stable-diffusion-v1-5

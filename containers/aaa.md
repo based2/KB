@@ -39,6 +39,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/bcicen/ctop
+
 https://memooo.ooo/posts/is-openstack-losing/
 > https://news.ycombinator.com/item?id=33274744
 

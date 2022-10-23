@@ -67,6 +67,8 @@ https://news.ycombinator.com/item?id=27750153 Why is the byte order little-endia
 https://typeclasses.com/phrasebook
 > https://news.ycombinator.com/item?id=27715023
 
+https://lhbg-book.link/
+
 # Stats
 http://www.ats-lang.org/
 

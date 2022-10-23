@@ -163,6 +163,8 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://noahpinion.substack.com/p/american-workers-need-lots-and-lots
+
 https://www.newyorker.com/business/currency/how-mondragon-became-the-worlds-largest-co-op
 > https://news.ycombinator.com/item?id=32622140
 

@@ -47,6 +47,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://ieeexplore.ieee.org/document/7945418 iot
+> https://news.ycombinator.com/item?id=33296153
+
 https://diablohorn.com/2022/04/09/firewall-analysis-a-portable-graph-based-approach/
 
 https://blog.cloudflare.com/new-firewall-tab-and-analytics/

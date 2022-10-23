@@ -24,6 +24,12 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://nginxproxymanager.com/
+> https://github.com/NginxProxyManager/nginx-proxy-manager
+
+https://daniel.haxx.se/blog/2022/08/12/the-dream-of-auto-detecting-proxies/
+> https://news.ycombinator.com/item?id=33306378
+
 https://medium.com/@googler_ram/opensource-domain-proxy-for-cbrs-d4f23c756b90
 > https://github.com/magma/magma/tree/master/dp
 

@@ -173,6 +173,8 @@ https://trino.io/
 https://questdb.io/
 
 # Visu
+https://treevis.net/
+
 https://vega.github.io/vega-lite/
 https://observablehq.com/@observablehq/plot-vega-lite
 
@@ -253,6 +255,10 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/matloff/fasteR Fast Lane to Learning R
+
+https://lists.apache.org/thread/4npsy8fb6nh92kb5d59ff6mcz9dvky8k Apache Iceberg release 1.0.0
+
 https://statmodeling.stat.columbia.edu/2022/10/22/statistical-methods-that-only-work-if-you-dont-use-them/
 
 https://github.com/opendatadiscovery/odd-platform

@@ -167,6 +167,14 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://github.com/ZaneH/piano-trainer
+
+https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html
+
+https://www.musicradar.com/news/yamaha-smartphone-turntable
+
+https://news.ycombinator.com/item?id=33302905
+
 https://www.ableton.com/en/note/
 > https://news.ycombinator.com/item?id=33244819
 

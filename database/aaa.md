@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://github.com/gluesql/gluesql rust
+> https://news.ycombinator.com/item?id=33303133
+
 https://blog.quastor.org/p/notion-sharded-postgres-database-8af4
 > https://www.reddit.com/r/programming/comments/y8pfwr/all_data_structures_and_algorithms_concepts_and/
 

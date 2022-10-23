@@ -113,6 +113,8 @@ https://www.paepper.com/blog/posts/monte-carlo-for-better-time-estimates-of-your
 https://drmaciver.substack.com/p/task-estimation-101
 > https://news.ycombinator.com/item?id=32177425
 
+https://morris.github.io/e7/#?t=
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -146,6 +148,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://pablasso.com/high-performance-individuals-and-teams/
+
 https://martinfowler.com/articles/bottlenecks-of-scaleups/03-product-v-engineering.html
 > https://news.ycombinator.com/item?id=33230158
 

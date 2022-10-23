@@ -61,6 +61,8 @@ https://github.com/libjxl/libjxl/releases/tag/v0.7.0
 > https://news.ycombinator.com/item?id=32970037
 
 # News
+https://casual-effects.com/markdeep/
+
 https://github.com/mark-summerfield/uxf
 > https://news.ycombinator.com/item?id=33202550
 

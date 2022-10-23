@@ -11,6 +11,8 @@ https://foxglove.dev/
 https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers
 
 # Drone
+https://www.economist.com/britain/2022/07/21/a-superhighway-for-drones-to-fly-between-british-cities
+
 https://news.ycombinator.com/item?id=33150567
 
 https://www.prnewswire.com/news-releases/matternet-m2-drone-delivery-system-first-to-achieve-faa-type-certification-301619827.html
@@ -53,6 +55,10 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://spectrum.ieee.org/robotic-surgery
+
+https://www.theverge.com/2022/9/30/23380061/bipedal-robot-100-meter-record-run-time-cassie-agility-robotics-osu
+
 https://www.polymathrobotics.com/blog/recording-robot-data
 > https://news.ycombinator.com/item?id=33249518
 
