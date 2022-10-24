@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://samuelbigos.github.io/posts/2dgi1-2d-global-illumination-in-godot.html
+
 https://ctan.org/pkg/wargame
 > https://news.ycombinator.com/item?id=33261766
 

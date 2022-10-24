@@ -38,6 +38,9 @@ https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 
 #
+https://github.com/mikeroyal/Self-Hosting-Guide
+> https://news.ycombinator.com/item?id=33312336
+
 https://golang.ch/a-golang-based-simple-easy-to-use-elegant-open-source-home-cloud-system/
 
 https://github.com/meienberger/runtipi

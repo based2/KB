@@ -148,6 +148,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://arxiv.org/abs/2006.02371
+> https://news.ycombinator.com/item?id=33309969
+
 https://pablasso.com/high-performance-individuals-and-teams/
 
 https://martinfowler.com/articles/bottlenecks-of-scaleups/03-product-v-engineering.html

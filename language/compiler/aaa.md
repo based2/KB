@@ -116,6 +116,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://news.ycombinator.com/item?id=33315142
+
 https://bernsteinbear.com/blog/cinder-jit-bisect/
 > https://news.ycombinator.com/item?id=33258356
 

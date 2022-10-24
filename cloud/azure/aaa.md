@@ -5,6 +5,8 @@ https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-
 
 https://github.com/jsa2/aad-auth-n-z
 
+https://security.microsoft.com/securescore
+
 # Updates
 
 azure portal blade whatsnew

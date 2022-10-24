@@ -81,6 +81,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.servethehome.com/amd-epyc-genoa-launches-10-november-2022/
+
 https://semiengineering.com/whats-different-about-next-gen-transistors/
 > https://news.ycombinator.com/item?id=33273063
 

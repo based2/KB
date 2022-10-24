@@ -10,6 +10,10 @@ https://ciechanow.ski/cameras-and-lenses/
 
 https://en.wikipedia.org/wiki/Optical_computing
 
+https://www.dtu.dk/english/news/all-news/new-data-transmission-record?id=213f1735-036d-44c9-b229-d25d74dd3f02
+> https://newatlas.com/telecommunications/optical-chip-fastest-data-transmission-record-entire-internet-traffic/
+> > https://news.ycombinator.com/item?id=33315392
+
 https://www.fotonixx.com/posts/design-a-camera-with-python-and-pyrayt/
 
 https://www.led-professional.com/resources-1/articles/led-light-spectrum-enhancement-with-transparent-pigmented-glazes-by-light-spectrum-glazes

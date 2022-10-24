@@ -255,6 +255,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://lakefs.io/7-winning-habits-of-effective-data-engineers/
+>
+
+https://airbyte.com/blog/data-engineering-past-present-and-future
+> https://news.ycombinator.com/item?id=33317126
+
 https://github.com/matloff/fasteR Fast Lane to Learning R
 
 https://lists.apache.org/thread/4npsy8fb6nh92kb5d59ff6mcz9dvky8k Apache Iceberg release 1.0.0

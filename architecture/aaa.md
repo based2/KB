@@ -143,6 +143,8 @@ https://chronicle.software/why-core-to-core-latency-matters/
 https://questdb.io/blog/2022/09/12/importing-3m-rows-with-io-uring/
 > https://news.ycombinator.com/item?id=32913937
 
+https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -221,6 +223,8 @@ https://wundergraph.com/blog/wunderbase_serverless_graphql_database_on_top_of_sq
 > https://news.ycombinator.com/item?id=32852478
 
 https://www.postman.com/state-of-api/
+
+https://news.ycombinator.com/item?id=33316763 Ask HN: Any good guide which include best practices for library developers?
 
 # Books
 https://github.com/mhadidg/software-architecture-books

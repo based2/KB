@@ -81,3 +81,6 @@ https://www.mattkeeter.com/blog/2022-10-04-ssra/ The Solid-State Register Alloca
 
 https://www.complang.tuwien.ac.at/anton/failing-memory.html
 > https://news.ycombinator.com/item?id=33200294
+
+https://www.memtest.org/
+> https://news.ycombinator.com/item?id=33318590

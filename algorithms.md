@@ -97,6 +97,8 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://news.ycombinator.com/item?id=33318788 Cuckoo Filter: Practically Better Than Bloom (2014) [pdf]
+
 https://bitbashing.io/comparing-floats.html
 > https://news.ycombinator.com/item?id=33295944
 

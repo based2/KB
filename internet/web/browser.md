@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://webkit.org/blog/13399/webkit-features-in-safari-16-1/
+> https://news.ycombinator.com/item?id=33320111
+
 https://www.theregister.com/2022/10/18/firefox_106_arrives/
 
 https://github.com/WebKit/WebKit/blob/main/Source/WebCore/page/Quirks.cpp

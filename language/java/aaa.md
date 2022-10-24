@@ -262,6 +262,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://github.com/FusionAuth/java-http
+> https://news.ycombinator.com/item?id=33318725
+
 https://openjdk.org/jeps/8209964 JEP draft: Lazy Static Final Fields
 
 https://www.reddit.com/r/java/comments/y391tb/the_java_logging_battleground_gets_two_new_updates/

@@ -34,6 +34,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://github.com/SixArm/unix-shell-script-tactics/blob/main/README.md
+
 https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/
 
 https://xenodium.com/emacs-reveal-in-finder-dwim-style/

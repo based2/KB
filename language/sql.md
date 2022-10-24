@@ -59,6 +59,8 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://www.elastic.co/en/what-is/elasticsearch-sql
+
 https://www.swarmia.com/blog/managing-complex-business-logic-with-ctes/
 > https://www.reddit.com/r/programming/comments/y3sngh/managing_complex_business_logic_in_sql_using/
 

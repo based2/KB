@@ -61,6 +61,13 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://www.greenpeace.org/usa/reports/circular-claims-fall-flat-again/
+> https://phys.org/news/2022-10-plastic-recycling-myth-greenpeace.html
+> > https://news.ycombinator.com/item?id=33314434
+
+https://caps.wiki/wiki/Main_Page cataloging and sharing information on repairing devices
+> https://news.ycombinator.com/item?id=33306320
+
 https://www.noemamag.com/the-disappearing-art-of-maintenance/
 > https://news.ycombinator.com/item?id=32997102
 

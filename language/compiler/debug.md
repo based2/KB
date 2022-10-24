@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/
+> https://news.ycombinator.com/item?id=33312012
+
 https://blog.llvm.org/posts/2021-04-05-constructor-homing-for-debug-info/
 
 https://github.com/epasveer/seer gui frontend to gdb

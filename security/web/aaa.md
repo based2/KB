@@ -9,3 +9,5 @@ https://quercialabs.com/blog/securing-web-sessions/
 
 https://httptoolkit.tech/blog/cache-your-cors/
 > https://news.ycombinator.com/item?id=32907234
+
+https://simplelocalize.io/blog/posts/what-is-cors/

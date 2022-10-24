@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/SubscriberLink/911219/28c0938206dbdae9/ search for the correct amount of split-lock misery
+
 https://idea.popcount.org/2017-02-20-epoll-is-fundamentally-broken-12/
 
 https://darkcoding.net/software/linux-what-can-you-epoll/

@@ -83,6 +83,8 @@ https://buttondown.email/hillelwayne/archive/excel-is-pretty-dang-cool/
 https://techcommunity.microsoft.com/t5/excel-blog/announcing-new-text-and-array-functions/ba-p/3186066
 > https://news.ycombinator.com/item?id=32742399
 
+https://news.ycombinator.com/item?id=33317169
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 > https://news.ycombinator.com/item?id=26991887
@@ -128,6 +130,12 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.theverge.com/2022/10/24/23420207/microsoft-windows-dev-kit-2023-project-volterra-release-date-price
+> https://news.ycombinator.com/item?id=33319777
+
+https://blogs.windows.com/windowsdeveloper/2022/10/24/available-today-windows-dev-kit-2023-aka-project-volterra/
+> https://news.ycombinator.com/item?id=33319535
+
 https://www.anandtech.com/show/17613/microsoft-directstorage-11-with-gpu-decompression-finally-on-its-way
 
 https://devblogs.microsoft.com/commandline/windows-terminal-is-now-the-default-in-windows-11/

@@ -261,6 +261,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://www.apple.com/newsroom/2022/10/macos-ventura-is-now-available/
+> https://news.ycombinator.com/item?id=33319367
+
 https://github.com/macbian-linux/macos-subsystem-for-linux
 > https://news.ycombinator.com/item?id=32893237
 

@@ -137,6 +137,9 @@ https://www.quantamagazine.org/monumental-math-proof-solves-triple-bubble-proble
 
 https://langorigami.com/article/treemaker/
 
+https://origami.kosmulski.org/blog/2022-10-23-fujimoto-books-public-domain
+> https://news.ycombinator.com/item?id=33307845
+
 https://news.ycombinator.com/item?id=33128972 Illuminating Hyperbolic Geometry (2015) [video]
 
 https://courses.cs.washington.edu/courses/cse590b/13au/ Algebraic Geometry for Computer Graphics - Jim Blinn

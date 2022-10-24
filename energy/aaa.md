@@ -14,6 +14,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=33316999
+
 https://news.mit.edu/2022/quaise-energy-geothermal-0628
 
 https://www.world-nuclear-news.org/Articles/Feedwater-pump-damage-delays-Finnish-EPR-commissio

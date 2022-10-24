@@ -18,6 +18,9 @@ https://klarasystems.com/articles/demystifying-openzfs-2-0/
 https://kimono-koans.github.io/git/
 > https://github.com/kimono-koans/httm Interactive, file-level Time Machine-like tool for ZFS/btrfs
 
+https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/
+> https://news.ycombinator.com/item?id=33310207
+
 # Distributed
 https://www.lustre.org/
 
@@ -28,6 +31,7 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+
 https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html automatic continuous snapshots
 > https://news.ycombinator.com/item?id=33162259
 

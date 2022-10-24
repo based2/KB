@@ -3,6 +3,10 @@ https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-
 
 https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw
 > https://news.ycombinator.com/item?id=33210278
+ 
+
+https://cacm.acm.org/magazines/2022/11/265822-building-the-shakti-microprocessor/fulltext
+> https://news.ycombinator.com/item?id=33316351
 
 https://news.ycombinator.com/item?id=33295947
 

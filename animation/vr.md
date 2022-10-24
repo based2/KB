@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=33318956
+
 https://arstechnica.com/gadgets/2022/10/apples-ar-vr-headset-will-scan-your-iris-when-you-put-it-on/
 
 https://www.youtube.com/watch?v=gV50hpSKHFQ Exclusive: Mark Zuckerberg on the Quest Pro, future of the metaverse, and more

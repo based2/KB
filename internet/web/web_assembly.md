@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.docker.com/blog/docker-wasm-technical-preview/
+> https://news.ycombinator.com/item?id=33320530
+
 https://github.com/tetratelabs/wazero go
 
 https://minetest.dustlabs.io/

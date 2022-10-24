@@ -201,6 +201,9 @@ https://dev.aspect.app/
 https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 
 ### News
+https://www.causal.app/blog/next-js
+> https://news.ycombinator.com/item?id=33316070
+
 https://www.joshwcomeau.com/react/why-react-re-renders/
 
 https://github.com/oven-sh/bun/releases/tag/bun-v0.2.0
@@ -327,6 +330,8 @@ https://lightblog.dev/articles/routing-in-svelte
 
 https://medium.com/@sveltestorm/sveltestorm-5-0-a-svelte-ide-like-no-other-c79da72d377e
 > https://news.ycombinator.com/item?id=32942947
+
+https://veritabs.netlify.app/
 
 #
 https://www.solidjs.com/ https://markojs.com/

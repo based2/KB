@@ -24,6 +24,8 @@ https://render.com/blog/redis
 
 https://architecturenotes.co/redis/
 
+https://redis.com/blog/redis-interview-questions/
+
 https://github.com/dragonflydb/dragonfly alt
 
 https://github.com/alibaba/RedisShake Redis data migration and data filtering

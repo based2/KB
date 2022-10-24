@@ -124,6 +124,8 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://cloud.google.com/docs/terraform/best-practices-for-terraform
+
 https://www.cncf.io/blog/2022/09/30/how-to-gitops-your-terraform/
 
 https://platformengineering.org/talks-library/infrastructure-as-code-setups
