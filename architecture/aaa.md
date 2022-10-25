@@ -241,6 +241,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://medium.com/@glenn.sorrentino/layers-of-change-how-buildings-and-software-are-alike-faa8e644e9e8
+> https://news.ycombinator.com/item?id=33327518
+
 https://news.ycombinator.com/item?id=32012566 DRY to SPOT
 
 https://lukeplant.me.uk/blog/posts/yagni-exceptions/

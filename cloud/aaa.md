@@ -118,8 +118,14 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.cloudflarestatus.com/incidents/kdpqngcbbn25
+> https://news.ycombinator.com/item?id=33333332
+
 https://www.koreatimes.co.kr/www/nation/2022/10/281_337975.html
 > https://www.kakaocorp.com/page/
+
+https://interconnect.substack.com/p/kakao-data-center-fire-the-data-residency
+> https://news.ycombinator.com/item?id=33334559
 
 https://www.reddit.com/r/AZURE/comments/y3tr9s/fyi_azure_postgres_latency_issues_since_sept_22/
 

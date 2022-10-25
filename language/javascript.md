@@ -476,6 +476,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://nextjs.org/blog/next-13
+> https://news.ycombinator.com/item?id=33333843
+
+https://vercel.com/blog/turbopack
+> https://news.ycombinator.com/item?id=33333695
+
 https://github.com/ananthakumaran/u encoding/decoding state (JavaScript object) in URL
 
 https://facebook.github.io/memlab/ Analyzes JavaScript heap and finds memory leaks in browser and node.js

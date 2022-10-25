@@ -130,6 +130,9 @@ https://typeguard.readthedocs.io/en/latest/index.html
 https://arxiv.org/abs/2208.14755 Python Type Hints are Turing Complete
 > https://news.ycombinator.com/item?id=32779296
 
+https://github.com/keithasaurus/koda-validate
+> https://news.ycombinator.com/item?id=33331791
+
 # Security
 https://pypi.org/project/pip-audit/
 
@@ -243,6 +246,11 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291
+> https://news.ycombinator.com/item?id=33327896
+
+https://blog.python.org/2022/10/python-3110-is-now-available.html
+
 https://bas.codes/posts/python-asterisks
 
 https://sadh.life/post/builtins/

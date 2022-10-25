@@ -231,6 +231,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://opensource.ieee.org/users/sign_in
+> https://news.ycombinator.com/item?id=33282909
+
 https://github.blog/2022-10-20-unboxing-fork-improvements-and-unwrapping-fork-docs/
 
 https://blog.massdriver.cloud/devops-is-bullshit

@@ -15,6 +15,12 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.clockworkpi.com/
+> https://news.ycombinator.com/item?id=33331139
+
+https://wadcmd.com/
+> https://news.ycombinator.com/item?id=33334160
+
 https://news.ycombinator.com/item?id=33281916
 
 http://slither.io/

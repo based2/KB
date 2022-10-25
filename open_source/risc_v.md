@@ -5,6 +5,9 @@ https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw
 > https://news.ycombinator.com/item?id=33210278
  
 
+https://riscv.org/blog/2022/10/risc-v-celebrates-upstreaming-of-android-open-source-project-risc-v-port-risc-v-international/
+> https://news.ycombinator.com/item?id=33320597
+
 https://cacm.acm.org/magazines/2022/11/265822-building-the-shakti-microprocessor/fulltext
 > https://news.ycombinator.com/item?id=33316351
 

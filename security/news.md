@@ -1,3 +1,25 @@
+https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html Critical Issue in OpenSSL 3
+> https://news.ycombinator.com/item?id=33330752
+
+https://www.passkeys.io/
+> https://news.ycombinator.com/item?id=33331749
+
+https://www.ftc.gov/news-events/news/press-releases/2022/10/ftc-takes-action-against-drizly-its-ceo-james-cory-rellas-security-failures-exposed-data-25-million
+> https://news.ycombinator.com/item?id=33330410
+
+https://niespodd.github.io/webrtc-local-ip-leak/
+> https://news.ycombinator.com/item?id=33327678
+
+https://blog.trailofbits.com/2022/10/25/sqlite-vulnerability-july-2022-library-api/
+> https://news.ycombinator.com/item?id=33329184
+
+https://dejanmarketing.com/competitor-hack/
+> https://news.ycombinator.com/item?id=33331019
+
+https://www.synacktiv.com/publications/legitimate-rats-a-comprehensive-forensic-analysis-of-the-usual-suspects.html
+
+https://feed.prelude.org/p/exploiting-a-flipper-zero
+
 https://github.com/PLSysSec/FaCT Flexible and Constant Time cryptographic programl
 > https://news.ycombinator.com/item?id=33308037
 

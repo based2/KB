@@ -284,6 +284,8 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://www.bloomberg.com/news/newsletters/2022-10-23/should-i-buy-the-new-ipad-pro-what-s-new-about-apple-s-base-model-ipad-l9lejqfk
+
 https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/
 > https://news.ycombinator.com/item?id=33152472
 

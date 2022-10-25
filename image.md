@@ -11,6 +11,9 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://www.the5to9.xyz/p/photopea-free-photoshop-alternative-making-millions
+> https://news.ycombinator.com/item?id=33334521
+
 https://mazzo.li/posts/lanczos.html resize
 
 https://github.com/michaelgiba/iq manipulating images through expressions which transform pixels

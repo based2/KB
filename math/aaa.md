@@ -109,6 +109,12 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://www.amolas.dev/blog/uncomputable-numbers/
+> https://news.ycombinator.com/item?id=33281100
+
+https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/
+> https://news.ycombinator.com/item?id=33332437
+
 https://news.ycombinator.com/item?id=33256388
 
 https://tigyog.app/d/H7XOvXvC_x/r/goedel-s-first-incompleteness-theorem

@@ -136,6 +136,9 @@ https://memex.craphound.com/2017/09/24/the-spider-network-a-novelistic-account-o
 
 https://phys.org/news/2022-10-firms-issue-unrelated-news-sec.html
 
+https://themarketplace.guide/dont-overreact-to-weak-signals
+> https://news.ycombinator.com/item?id=33281009
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

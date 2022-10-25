@@ -16,6 +16,9 @@ https://chrisseaton.com/truffleruby/jokerconf17/
 https://www.loicmathieu.fr/wordpress/en/informatique/debugger-une-image-native-graalvm-avec-gdb/
 
 # News
+https://medium.com/graalvm/graalvm-22-3-is-here-jdk-19-builds-jlink-support-new-monitoring-features-and-more-f6e2b2eeff95
+> https://news.ycombinator.com/item?id=33332791
+
 https://twitter.com/graalvm/status/1582441450796900354
 > https://news.ycombinator.com/item?id=33251970
 

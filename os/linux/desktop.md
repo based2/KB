@@ -75,6 +75,12 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/
+> https://news.ycombinator.com/item?id=33326523
+
+http://incise.org/tinywm.html
+> https://news.ycombinator.com/item?id=33330804
+
 https://pointieststick.com/2022/10/21/this-week-in-kde-ui-improvements-abound-2/
 
 https://github.com/emersion/slurp

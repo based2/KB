@@ -83,6 +83,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://github.com/open-telemetry/opentelemetry-demo/tree/v1.0.0
+
 https://github.com/upptime/upptime github
 
 https://dagster.io/blog/web-workers-performance-issue

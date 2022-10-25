@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://spectrum.ieee.org/passive-radar-with-sdr
+> https://news.ycombinator.com/item?id=33333009
+
 https://www.afcea.org/signal-media/darpa-developing-universal-translator-satellites
 > https://news.ycombinator.com/item?id=33307864
 

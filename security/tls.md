@@ -133,6 +133,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://defo.ie/ Developing ECH for OpenSSL - DEfO
+
 https://www.openssl.org/blog/blog/2022/10/21/tls-groups-configuration/
 
 https://korben.info/lets-encrypt-vmware-esxi.html
