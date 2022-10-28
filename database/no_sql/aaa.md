@@ -20,6 +20,9 @@ https://github.com/FerretDB/FerretDB
 https://redis.io/docs/stack/
 > https://news.ycombinator.com/item?id=30863327
 
+https://duckdb.org/2022/10/28/lightweight-compression.html
+> https://news.ycombinator.com/item?id=33372200
+
 https://duckdb.org/2022/07/27/art-storage.html
 
 https://www.edgedb.com/blog/edgedb-2-0

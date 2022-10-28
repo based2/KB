@@ -116,6 +116,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.thecodedmessage.com/posts/raii/
+> https://www.reddit.com/r/rust/comments/yda0k9/raii_compiletime_memory_management_in_c_and_rust/
+
 https://news.ycombinator.com/item?id=33315142
 
 https://bernsteinbear.com/blog/cinder-jit-bisect/

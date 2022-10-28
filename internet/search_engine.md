@@ -24,6 +24,8 @@ https://github.com/amirgamil/apollo
 https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database
 > https://news.ycombinator.com/item?id=27973497
 
+https://pgroonga.github.io/
+
 # Dev
 https://news.ycombinator.com/item?id=26582109
 
@@ -70,6 +72,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://thejollyteapot.com/2022/10/28/something-is-rotten-in-the-state-of-bing-search
+> https://news.ycombinator.com/item?id=33372685
+
 https://news.ycombinator.com/item?id=33304270 Ask HN: Is DDG Becoming Unusable?
 
 https://memex.marginalia.nu/log/64-hundred-million.gmi

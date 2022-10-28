@@ -51,3 +51,6 @@ https://news.ycombinator.com/item?id=32797711 Ask HN: Is there any beautiful Mar
 
 https://stripe.com/blog/markdoc
 > https://news.ycombinator.com/item?id=32835751
+
+https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html
+> https://news.ycombinator.com/item?id=33368579

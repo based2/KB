@@ -14,6 +14,15 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://ourworldindata.org/energy
+> https://news.ycombinator.com/item?id=33373049
+
+https://www.iea.org/reports/world-energy-outlook-2022
+> https://news.ycombinator.com/item?id=33354726
+
+https://spectrum.ieee.org/hydroelectric-power
+> https://news.ycombinator.com/item?id=33359211
+
 https://news.ycombinator.com/item?id=33316999
 
 https://news.mit.edu/2022/quaise-energy-geothermal-0628

@@ -139,6 +139,9 @@ https://github.com/logsem/aneris coq, ocaml
 # concurrencyngs
 
 # News
+https://github.com/bastion-rs/bastion
+> https://news.ycombinator.com/item?id=33361937
+
 https://www.gojek.io/blog/resiliency-in-distributed-systems
 
 https://sookocheff.com/post/distributed-systems/distributed-system-models-in-the-real-world/

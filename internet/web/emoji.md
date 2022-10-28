@@ -22,3 +22,6 @@ https://emoji.supply/kitchen/
 > https://news.ycombinator.com/item?id=32232546
 
 https://mutant.tech/
+
+https://wh0.github.io/2020/01/02/scissors.html
+> https://news.ycombinator.com/item?id=33360171

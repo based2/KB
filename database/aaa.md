@@ -68,6 +68,8 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://news.ycombinator.com/item?id=33345464
+
 https://github.com/gluesql/gluesql rust
 > https://news.ycombinator.com/item?id=33303133
 

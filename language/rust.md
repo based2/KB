@@ -401,8 +401,16 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html
+> https://news.ycombinator.com/item?id=33351819
+
+https://blog.rust-lang.org/2022/10/28/gats-stabilization.html
+
 https://tomaszs2.medium.com/how-rust-1-64-became-10-20-faster-on-windows-3a8bb5e81d70
 > https://news.ycombinator.com/item?id=33306945
+
+https://blog.m-ou.se/rust-standard/
+> https://news.ycombinator.com/item?id=33348323
 
 https://github.com/immunant/c2rust
 > https://news.ycombinator.com/item?id=33273944

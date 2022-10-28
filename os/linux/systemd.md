@@ -38,6 +38,11 @@ https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
 https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/
 
 #
+https://www.psdn.io/posts/systemd-shutdown-unit/
+> https://news.ycombinator.com/item?id=33345867
+
+https://quindarius.com/timeline/2022/10/27/starting-services.html
+
 https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd
 > https://news.ycombinator.com/item?id=31797073
 

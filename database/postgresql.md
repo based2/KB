@@ -264,6 +264,12 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/
+> https://news.ycombinator.com/item?id=33353719
+
+https://event-driven.io/en/push_based_outbox_pattern_with_postgres_logical_replication/
+> https://news.ycombinator.com/item?id=33370649
+
 https://webapp.io/blog/postgres-query-speedups/
 
 https://www.crunchydata.com/blog/a-look-at-postgres-15-merge-command-with-examples

@@ -32,6 +32,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/
+> https://news.ycombinator.com/item?id=33366113
+
 https://github.com/hpjansson/chafa
 > https://news.ycombinator.com/item?id=32797681
 

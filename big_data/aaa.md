@@ -255,6 +255,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.influxdata.com/blog/influxdb-engine/
+> https://news.ycombinator.com/item?id=33344573
+
+https://www.i-programmer.info/news/150-training-a-education/15816-2022-10-22-15-13-25.html
+> https://news.ycombinator.com/item?id=33377236
+
 https://lakefs.io/7-winning-habits-of-effective-data-engineers/
 >
 

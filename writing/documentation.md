@@ -47,6 +47,9 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/
+> https://news.ycombinator.com/item?id=33370870
+
 https://diataxis.fr/
 > https://news.ycombinator.com/item?id=33020045
 

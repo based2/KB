@@ -102,6 +102,9 @@ https://github.com/maxcountryman/warc-parquet
 > https://news.ycombinator.com/item?id=31867179
 
 # News
+https://nymag.com/intelligencer/2022/10/what-is-technofeudalism.html
+> https://news.ycombinator.com/item?id=33372930
+
 https://puter.com/ webdesktop
 
 https://news.ycombinator.com/item?id=33134021

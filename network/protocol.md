@@ -52,3 +52,6 @@ https://www.netmeister.org/blog/whois.html
 
 https://havenweb.org/2022/10/19/bluesky.html
 > https://news.ycombinator.com/item?id=33265091
+
+https://lwn.net/Articles/495304/ TCP connection repair
+> https://news.ycombinator.com/item?id=33348319

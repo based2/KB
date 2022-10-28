@@ -246,6 +246,11 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://pypi.org/project/specialist/
+> https://news.ycombinator.com/item?id=33361312
+
+https://github.com/jython/jython/blob/v2.7.3/NEWS
+
 https://discuss.python.org/t/python-3-11-0-final-is-now-available/20291
 > https://news.ycombinator.com/item?id=33327896
 

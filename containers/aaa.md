@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://podman.io/releases/2022/10/22/podman-release-v4.3.0.html
+> https://news.ycombinator.com/item?id=33348090
+
 https://github.com/bcicen/ctop
 
 https://memooo.ooo/posts/is-openstack-losing/

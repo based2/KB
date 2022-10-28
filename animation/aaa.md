@@ -64,6 +64,11 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://deck-24abcd.netlify.app/
+> https://news.ycombinator.com/item?id=33363331
+
+https://codepen.io/hallno/pen/GRGJGVM
+
 https://www.eatmy.art/
 
 https://codeberg.org/drummyfish/tinyphysicsengine/src/branch/master

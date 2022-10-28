@@ -3,7 +3,9 @@ https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-
 
 https://groups.google.com/a/groups.riscv.org/g/isa-dev/c/aTgHkmkPXrw
 > https://news.ycombinator.com/item?id=33210278
- 
+
+https://liliputing.com/now-you-can-run-ubuntu-on-a-risc-v-computer-that-costs-less-than-20/
+> https://news.ycombinator.com/item?id=33349378
 
 https://riscv.org/blog/2022/10/risc-v-celebrates-upstreaming-of-android-open-source-project-risc-v-port-risc-v-international/
 > https://news.ycombinator.com/item?id=33320597

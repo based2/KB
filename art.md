@@ -44,6 +44,12 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.theguardian.com/artanddesign/2022/oct/28/mondrian-painting-has-been-hanging-upside-down-for-75-years
+> https://news.ycombinator.com/item?id=33370228
+
+https://giza.mused.org/en/guided/266/inside-the-great-pyramid
+> https://news.ycombinator.com/item?id=33357197
+
 https://www.artnews.com/art-in-america/features/tauba-auerbach-s-v-z-sfmoma-1234612921/
 
 https://www.si.edu/openaccess

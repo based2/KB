@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://blog.logrocket.com/rust-microservices-server-side-webassembly/
+> https://news.ycombinator.com/item?id=33368699
+
 https://www.docker.com/blog/docker-wasm-technical-preview/
 > https://news.ycombinator.com/item?id=33320530
 

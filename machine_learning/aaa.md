@@ -220,6 +220,16 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://pytorch.org/blog/PyTorch-1.13-release/
+> https://news.ycombinator.com/item?id=33377648
+
+https://github.com/intel/intel-extension-for-tensorflow
+> https://news.ycombinator.com/item?id=33375392
+
+https://news.ycombinator.com/item?id=33369800 Ask HN: AI is really exciting but where do I start?
+
+https://arxiv.org/abs/1910.14667 Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors
+
 https://github.com/Samsung/ONE
 
 https://github.com/jina-ai/jina

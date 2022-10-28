@@ -21,3 +21,6 @@ https://jmtd.net/log/latex_writing/
 
 https://laurmaedje.github.io/posts/comemo/
 > https://news.ycombinator.com/item?id=33222356
+
+https://github.com/matjp/dvi-decode
+> https://news.ycombinator.com/item?id=33368595

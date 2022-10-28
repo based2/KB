@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/OpenID_Connect
+
 https://news.ycombinator.com/item?id=25762847
 
 # OAuth - authz

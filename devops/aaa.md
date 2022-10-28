@@ -126,6 +126,12 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+
+https://sysdig.com/blog/massive-cryptomining-operation-github-actions/
+> https://news.ycombinator.com/item?id=33345806
+
+https://www.securityweek.com/jira-align-vulnerabilities-exposed-atlassian-infrastructure-attacks saas
+
 https://www.jenkins.io/security/advisory/2022-10-19/
 
 https://devclass.com/2022/10/19/github-fixes-over-broad-token-permissions-with-fine-grained-personal-access-tokens-and-controversial-enforced-expiration/
@@ -215,6 +221,9 @@ https://travis-ci.community/t/security-bulletin/12081
 SourceForge nobody Apache HTTPD configuration
 
 # New versions
+https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/
+> https://news.ycombinator.com/item?id=33360035
+
 https://about.gitlab.com/releases/2022/07/22/gitlab-15-2-released/
 
 https://about.gitlab.com/releases/2022/05/22/gitlab-15-0-released/

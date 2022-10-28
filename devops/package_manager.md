@@ -31,6 +31,9 @@ https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 https://determinate.systems/posts/nix-run
 
 #
+https://github.com/mjackson/unpkg/issues/343
+> https://news.ycombinator.com/item?id=33370873
+
 https://github.blog/changelog/2022-10-24-npm-v9-0-0-released/
 
 https://shopify.engineering/relationships-between-ruby-top-100-packages-dependencies

@@ -6,6 +6,9 @@ https://blog.adamretter.org.uk/vocabulary-reuse-part2/
 https://protege.stanford.edu/
 
 #
+https://terminusdb.com/blog/graphql-rdf-bridge-using-star-wars-dataset/
+> https://news.ycombinator.com/item?id=33371156
+
 https://github.com/GavinMendelGleason/blog/blob/main/entries/semantic_future.md
 > https://news.ycombinator.com/item?id=32412803
 

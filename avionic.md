@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://admiralcloudberg.medium.com/flying-the-unflyable-the-near-crash-of-air-astana-flight-1388-88878e2eb3c4
+> https://news.ycombinator.com/item?id=33338329
+
 https://ioactive.com/reverse-engineers-perspective-on-the-boeing-787-51-days-airworthiness-directive/
 > https://news.ycombinator.com/item?id=33239443
 

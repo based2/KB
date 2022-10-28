@@ -34,6 +34,9 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://sharats.me/posts/shell-script-best-practices/
+> https://news.ycombinator.com/item?id=33354286
+
 https://github.com/SixArm/unix-shell-script-tactics/blob/main/README.md
 
 https://arcan-fe.com/2022/10/15/whipping-up-a-new-shell-lashcat9/

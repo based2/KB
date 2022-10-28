@@ -126,6 +126,10 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://github.com/kohlschutter/boilerpipe
+
+https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ThQGwioAAAAJ&sortby=pubdate&citation_for_view=ThQGwioAAAAJ:u-x6o8ySG0sC
+
 https://en.wikipedia.org/wiki/Cistercian_numerals
 
 https://logseq.com/?

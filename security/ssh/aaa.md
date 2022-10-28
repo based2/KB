@@ -123,6 +123,9 @@ https://mosh.org/
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://tailscale.com/blog/ssh-console/
+> https://news.ycombinator.com/item?id=33360776
+
 https://github.com/AnnikaV9/carrotsh secure remote access server that uses the websocket protocol, python
 
 https://dataswamp.org/~solene/2022-07-23-openbsd-sshfs.html

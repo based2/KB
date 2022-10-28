@@ -57,6 +57,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://www.cambridge.org/core/journals/german-law-journal/article/basic-law-a-fifty-year-assessment/D4B8A18D8050DC8B453D13DCC66F5828#
+> https://news.ycombinator.com/item?id=33353694
+
 https://www.theatlantic.com/ideas/archive/2022/10/warhol-copyright-fair-use-supreme-court-prince/671599/
 > https://news.ycombinator.com/item?id=33053286
 

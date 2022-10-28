@@ -83,6 +83,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://www.uber.com/fr/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/ removed
+> https://news.ycombinator.com/item?id=33032996
+
 https://github.com/open-telemetry/opentelemetry-demo/tree/v1.0.0
 
 https://github.com/upptime/upptime github

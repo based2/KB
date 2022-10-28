@@ -96,6 +96,12 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://decoded.legal/blog/2022/10/running-a-law-firm-on-linux-a-year-or-so-in
+> https://news.ycombinator.com/item?id=33344040
+
+https://sadservers.com/
+> https://news.ycombinator.com/item?id=33344142
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/SwapPartitionsNoMore
 > https://news.ycombinator.com/item?id=33215358
 

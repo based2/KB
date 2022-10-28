@@ -11,6 +11,12 @@ https://www.jeffgeerling.com/tags/parts-shortage
 https://rpilocator.com/
 
 #
+https://www.hardkernel.com/shop/odroid-h3-plus/
+> https://news.ycombinator.com/item?id=33371710
+
+https://kohlschuetter.github.io/blog/posts/2022/10/28/linux-nanopi-r4s/
+> https://news.ycombinator.com/item?id=33370882
+
 https://news.ycombinator.com/item?id=33302748
 
 https://www.ikejima.org/projects/2022091-egg-laptop.html

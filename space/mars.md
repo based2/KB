@@ -19,6 +19,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.newscientist.com/article/2344445-quakes-on-mars-reveal-there-may-be-magma-beneath-the-surface/
+> https://news.ycombinator.com/item?id=33374360
+
 https://www.nature.com/articles/s41550-022-01775-z Explaining Bright Radar Reflections Below The South Pole of Mars Without Liquid Water
 > https://news.ycombinator.com/item?id=33122441
 

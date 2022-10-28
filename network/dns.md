@@ -110,6 +110,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://www.duckdns.org/about.jsp
+> https://news.ycombinator.com/item?id=33367767
+
 https://datatracker.ietf.org/doc/id/draft-jennings-http-srv-01.html
 > https://news.ycombinator.com/item?id=33282095
 

@@ -147,6 +147,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://nautil.us/brightest-ever-space-explosion-reveals-possible-hints-of-dark-matter-244346/
+> https://news.ycombinator.com/item?id=33370944
+
 https://news.ycombinator.com/item?id=33281682
 
 https://spacenews.com/amazon-to-link-kuiper-satellites-to-dods-mesh-network-in-space/

@@ -101,6 +101,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/wasm/doc/tip/about.md
+> https://news.ycombinator.com/item?id=33374402
+
 https://www.sqlite.org/quirks.html
 > https://news.ycombinator.com/item?id=33272824
 

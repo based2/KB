@@ -81,6 +81,18 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.servethehome.com/a-32-core-ampere-arm-and-nvidia-edge-platform-from-7starlake/
+> https://news.ycombinator.com/item?id=33369915
+
+https://hackaday.com/2022/10/27/m-2-for-hackers-expand-your-laptop/
+> https://news.ycombinator.com/item?id=33370220
+
+https://www.semianalysis.com/p/arm-changes-business-model-oem-partners
+> https://news.ycombinator.com/item?id=33371725
+
+https://chipsandcheese.com/2022/10/27/why-you-cant-trust-cpuid/
+> https://news.ycombinator.com/item?id=33369901
+
 https://www.servethehome.com/amd-epyc-genoa-launches-10-november-2022/
 
 https://semiengineering.com/whats-different-about-next-gen-transistors/

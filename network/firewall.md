@@ -47,6 +47,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://blog.thc.org/the-iran-firewall-a-preliminary-report
+> https://news.ycombinator.com/item?id=33371121
+
 https://ieeexplore.ieee.org/document/7945418 iot
 > https://news.ycombinator.com/item?id=33296153
 

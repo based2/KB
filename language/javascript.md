@@ -476,6 +476,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/microsoft/napajs
+> https://news.ycombinator.com/item?id=33351805
+
 https://nextjs.org/blog/next-13
 > https://news.ycombinator.com/item?id=33333843
 

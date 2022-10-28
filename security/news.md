@@ -1,3 +1,46 @@
+https://www.bleepingcomputer.com/news/security/apple-fixes-recently-disclosed-zero-day-on-older-iphones-ipads/
+
+https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-attacks-this-year/
+
+https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-rce-vulnerability-patch-now/
+
+https://blog.doyensec.com/2022/10/27/jupytervscode.html RCE
+
+https://github.com/karimhabush/cis-vsphere
+
+https://disrel.com/posts/Ring0VBA-Getting-Ring0-Using-a-Goddamn-Word-Document/
+> https://www.reddit.com/r/netsec/comments/ydyylz/ring0vba_getting_ring0_using_a_goddamn_word/
+
+https://cybernews.com/security/thomson-reuters-leaked-terabytes-sensitive-data/
+
+https://blog.edned.net/blog/post/how-captcha-tracks-you-dark-side-captcha
+> https://news.ycombinator.com/item?id=33356920
+
+https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide/Disabling_the_Intel_Management_Engine
+> https://news.ycombinator.com/item?id=33345040
+
+https://medium.com/numen-cyber-labs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf
+
+https://news.ycombinator.com/item?id=33353345
+
+https://blog.cryptographyengineering.com/2022/10/27/one-time-programs/
+> https://news.ycombinator.com/item?id=33362170
+
+https://rambo.codes/posts/2022-10-25-sirispy-ios-bug-allowed-apps-to-eavesdrop
+> https://news.ycombinator.com/item?id=33348013
+
+https://security.apple.com/blog/towards-the-next-generation-of-xnu-memory-safety/
+> https://news.ycombinator.com/item?id=33362311
+
+https://security.apple.com/blog/apple-security-bounty-upgraded/
+> https://news.ycombinator.com/item?id=33363333
+
+https://www.troyhunt.com/reckon-youve-seen-some-stupid-security-things-here-hold-my-beer/
+> https://news.ycombinator.com/item?id=33366170
+
+https://vez.mrsk.me/linux-hardening.html
+> https://news.ycombinator.com/item?id=33373021
+
 https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html Critical Issue in OpenSSL 3
 > https://news.ycombinator.com/item?id=33330752
 

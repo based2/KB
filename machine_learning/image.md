@@ -230,11 +230,20 @@ https://dagshub.com/blog/yolov6/#
 https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer vision cluster munition detection
 > https://news.ycombinator.com/item?id=32779930
 
+https://github.com/Ikomia-dev/IkomiaApi
+> https://news.ycombinator.com/item?id=33364442
+
 # Color
 https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/
+> https://news.ycombinator.com/item?id=33344966
+
+https://www.sagiodev.com/blog/stable_diffusion_parameters/
+> https://news.ycombinator.com/item?id=33375266
+
 https://www.strmr.com/
 > https://news.ycombinator.com/item?id=33137302
 

@@ -245,6 +245,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://www.infoq.com/articles/business-impact-code-quality/
+> https://news.ycombinator.com/item?id=33372016
+
 https://www.edbatista.com/2022/09/group-dynamics-the-leaders-toolkit.html
 
 https://web.stanford.edu/~ouster/cgi-bin/sayings.php

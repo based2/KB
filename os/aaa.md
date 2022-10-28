@@ -21,6 +21,12 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://dspinellis.github.io/unix-history-man/
+> https://news.ycombinator.com/item?id=33344993
+
+https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch
+> https://news.ycombinator.com/item?id=33360830
+
 https://opensource.googleblog.com/2022/10/announcing-kataos-and-sparrow.html
 > https://github.com/AmbiML/sparrow-kata
 > https://github.com/AmbiML/sparrow-manifest low-power secure embeded platform for Ambient ML applications. The target platform leverages RISC-V and OpenTitan. Rust sel4

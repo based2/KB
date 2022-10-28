@@ -70,6 +70,8 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://news.ycombinator.com/item?id=33369951 This file has Pantone colors that have been removed and replaced with black
+
 https://iquilezles.org/articles/premultipliedalpha/
 
 https://typefully.com/DanHollick/blending-modes-KrBa0JP
