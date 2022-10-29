@@ -255,6 +255,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://kylin.apache.org/
+
 https://www.influxdata.com/blog/influxdb-engine/
 > https://news.ycombinator.com/item?id=33344573
 

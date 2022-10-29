@@ -294,6 +294,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://blog.interlinked.us/69/nullish-coalescing-and-optional-chaining
+
+https://www.om-language.org/
+> https://news.ycombinator.com/item?id=33382397
+
 https://projectbook.code.brettchalupa.com/
 > https://news.ycombinator.com/item?id=33245614
 

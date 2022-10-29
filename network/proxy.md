@@ -24,6 +24,8 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://mitmproxy.org/posts/releases/mitmproxy9/
+
 https://nginxproxymanager.com/
 > https://github.com/NginxProxyManager/nginx-proxy-manager
 

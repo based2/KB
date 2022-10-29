@@ -1,3 +1,6 @@
+https://maggieappleton.com/programming-portals
+> https://news.ycombinator.com/item?id=33354011
+
 https://www.bryanbraun.com/2022/07/16/scratch-is-a-big-deal/
 > https://news.ycombinator.com/item?id=32120445
 

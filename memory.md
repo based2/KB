@@ -84,3 +84,5 @@ https://www.complang.tuwien.ac.at/anton/failing-memory.html
 
 https://www.memtest.org/
 > https://news.ycombinator.com/item?id=33318590
+
+https://www.devever.net/~hl/power9tags

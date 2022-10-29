@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse
+> https://news.ycombinator.com/item?id=33377151
+
 https://www.cell.com/current-biology/fulltext/S0960-9822(21)00059-2?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982221000592%3Fshowall%3Dtrue
 > https://news.ycombinator.com/item?id=33359802
 

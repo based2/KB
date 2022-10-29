@@ -14,6 +14,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.utilitydive.com/news/texas-solar-and-wind-resources-saved-consumers-nearly-28-billion-over-12-y/634893/
+> https://news.ycombinator.com/item?id=33383238
+
 https://ourworldindata.org/energy
 > https://news.ycombinator.com/item?id=33373049
 

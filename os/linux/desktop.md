@@ -75,6 +75,10 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://uapi-group.org/
+
+https://old.reddit.com/r/linuxquestions/comments/yfjaa1/disney_stopped_working_on_each_of_my_linux/
+
 https://whynothugo.nl/journal/2022/10/21/how-the-clipboard-works/
 > https://news.ycombinator.com/item?id=33326523
 

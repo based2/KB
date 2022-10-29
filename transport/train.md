@@ -15,6 +15,8 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://verkehrsforschung.dlr.de/en/projects/ngt-cargo
+
 https://www.economist.com/science-and-technology/2022/09/28/keeping-trains-apart-is-crucial-to-safety
 > https://news.ycombinator.com/item?id=33045877
 

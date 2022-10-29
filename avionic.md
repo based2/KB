@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/
+> https://news.ycombinator.com/item?id=33380680
+
 https://admiralcloudberg.medium.com/flying-the-unflyable-the-near-crash-of-air-astana-flight-1388-88878e2eb3c4
 > https://news.ycombinator.com/item?id=33338329
 

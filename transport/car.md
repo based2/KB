@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://arstechnica.com/cars/2022/10/teslas-autopilot-is-the-subject-of-a-federal-criminal-investigation/
+
 https://www.theverge.com/2022/10/28/23428013/eu-ban-combustion-engine-cars-vans-2035-law
 > https://news.ycombinator.com/item?id=33371575
 

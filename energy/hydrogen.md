@@ -25,6 +25,9 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.tno.nl/en/newsroom/2022/10/breakthrough-electrolyser-development/
+> https://news.ycombinator.com/item?id=33383403
+
 https://hydrogen-central.com/namx-rocks-paris-motor-show-hydrogen-powered-suv-concept-using-removable-tanks/
 
 https://group.vattenfall.com/press-and-media/pressreleases/2022/hybrit-new-research-shows-hydrogen-reduced-iron-has-superior-properties

@@ -59,6 +59,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.pnas.org/doi/10.1073/pnas.2108146119
+
 https://tamino.wordpress.com/2022/08/02/french-heat/
 
 https://www.backerkit.com/c/alex-hague/daybreak?ref=daybreakorg

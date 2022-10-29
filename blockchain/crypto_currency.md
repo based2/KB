@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.reuters.com/technology/crypto-exchange-binance-musks-co-investor-help-twitter-with-blockchain-2022-10-28/
+> https://news.ycombinator.com/item?id=33382301
+
 https://www.nicehash.com/blog/post/psa-nvidia-driver-522.25-removes-the-lhr-unlock
 > https://news.ycombinator.com/item?id=33298238
 

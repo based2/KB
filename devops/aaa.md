@@ -240,6 +240,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.reddit.com/r/programming/comments/yg9cpw/twitter_engineers_asked_to_print_out_their_last/
+
 https://opensource.ieee.org/users/sign_in
 > https://news.ycombinator.com/item?id=33282909
 

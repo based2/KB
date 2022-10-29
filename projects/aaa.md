@@ -245,6 +245,9 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://arun.is/blog/desk-setup/
+> https://news.ycombinator.com/item?id=33380322
+
 https://www.infoq.com/articles/business-impact-code-quality/
 > https://news.ycombinator.com/item?id=33372016
 

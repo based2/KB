@@ -67,6 +67,8 @@ https://phishing-initiative.fr/contrib/
 
 https://news.ycombinator.com/item?id=33036782
 
+https://x61.sh/log/2022/10/20221027T115439-rspamd-dashboard.html
+
 # Security
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/

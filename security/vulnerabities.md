@@ -51,6 +51,8 @@ https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/
 https://github.com/tg12/PoC_CVEs
 
 # News
+https://github.blog/changelog/2022-10-28-yellow-security-vulnerability-repository-banner-is-being-removed/
+
 https://blog.ceriksen.com/2022/09/24/the-privileges-required-trap-in-cvss-3-1/
 > https://www.reddit.com/r/netsec/comments/xmvwq9/the_privileges_required_trap_in_cvss_31/
 

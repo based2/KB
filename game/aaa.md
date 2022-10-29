@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+http://kathack.com/
+> https://news.ycombinator.com/item?id=33381345
+
 https://www.clockworkpi.com/
 > https://news.ycombinator.com/item?id=33331139
 

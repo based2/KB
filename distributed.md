@@ -139,6 +139,8 @@ https://github.com/logsem/aneris coq, ocaml
 # concurrencyngs
 
 # News
+https://github.com/pingcap/talent-plan
+
 https://github.com/bastion-rs/bastion
 > https://news.ycombinator.com/item?id=33361937
 

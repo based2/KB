@@ -61,6 +61,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://github.com/AdaCore/aws Ada Web Server
+
 https://ada-lang.io/
 > https://news.ycombinator.com/item?id=32890100
 

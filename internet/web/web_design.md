@@ -81,6 +81,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://pmg.softwaretailoring.net/
+
 https://snoopforms.com/
 
 https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/

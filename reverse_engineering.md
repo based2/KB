@@ -24,6 +24,8 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://serhack.me/articles/introduction-firmware-analysis-ip-camera-reolink/
+
 https://github.com/rrika/cdcEngineDXHR
 > https://news.ycombinator.com/item?id=33346448
 

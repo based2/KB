@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://codepen.io/amit_sheen/pen/XWMXwvJ
+
 https://deck-24abcd.netlify.app/
 > https://news.ycombinator.com/item?id=33363331
 

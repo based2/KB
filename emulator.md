@@ -18,3 +18,6 @@ https://github.com/ssloy/triador Ternary computer emulator
 
 https://www.libretro.com/index.php/retroarch-1-9-13-automatic-frame-delay/
 > https://news.ycombinator.com/item?id=31651128
+
+https://github.com/binji/smolnes
+> https://news.ycombinator.com/item?id=33374025

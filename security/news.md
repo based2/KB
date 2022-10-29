@@ -1,3 +1,13 @@
+https://www.cybermalveillance.gouv.fr/
+
+https://github.com/PayDevs/awful-oss-incidents
+
+https://vigilance.fr/vulnerabilite/Python-Core-elevation-de-privileges-via-Multiprocessing-Forkserver-Start-39749
+
+https://vigilance.fr/vulnerabilite/Glances-surcharge-via-Regular-Expression-39747
+
+https://vigilance.fr/vulnerabilite/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745
+
 https://www.bleepingcomputer.com/news/security/apple-fixes-recently-disclosed-zero-day-on-older-iphones-ipads/
 
 https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-attacks-this-year/
@@ -43,6 +53,8 @@ https://vez.mrsk.me/linux-hardening.html
 
 https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html Critical Issue in OpenSSL 3
 > https://news.ycombinator.com/item?id=33330752
+> https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability
+> > https://news.ycombinator.com/item?id=33380500
 
 https://www.passkeys.io/
 > https://news.ycombinator.com/item?id=33331749
