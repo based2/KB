@@ -1,3 +1,5 @@
+https://nicoco.fr/blog/2022/10/30/slidge-beta2/
+
 https://notes.nicfab.it/post/xmpp/xmpp/
 > https://news.ycombinator.com/item?id=29871358
 

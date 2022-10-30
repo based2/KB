@@ -70,6 +70,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://dl.acm.org/doi/pdf/10.1145/3478018
+
 https://gitlab.com/graphviz/graphviz/-/tree/main 7
 > https://news.ycombinator.com/item?id=33327014
 

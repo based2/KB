@@ -13,6 +13,7 @@ https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
 https://lore.kernel.org/linux-fsdevel/Y1wsQVSQ6ipWyFlX@moria.home.lan/
+> https://news.ycombinator.com/item?id=33382103
 
 https://lwn.net/SubscriberLink/911219/28c0938206dbdae9/ search for the correct amount of split-lock misery
 

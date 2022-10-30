@@ -66,6 +66,8 @@ https://typefully.com/DanHollick/qr-codes-T7tLlNi
 
 https://github.com/sayanarijit/qrscan
 
+https://www.nayuki.io/page/creating-a-qr-code-step-by-step
+
 # Object labelling
 https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera
 

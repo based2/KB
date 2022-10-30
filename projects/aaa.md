@@ -47,6 +47,9 @@ https://rchaves.app/why-agile-works/
 https://martinfowler.com/articles/art-agile-foreword.html
 > https://news.ycombinator.com/item?id=29000973
 
+https://safedelusion.com/
+> https://news.ycombinator.com/item?id=33384577
+
 ## Scrum
 https://scrumguides.org/
 

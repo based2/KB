@@ -50,6 +50,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.engadget.com/google-buys-alter-at-avatar-startup-185313472.html
+
 https://giscus.app github forums
 
 https://news.ycombinator.com/item?id=33306137

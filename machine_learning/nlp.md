@@ -1,3 +1,5 @@
+https://deeppavlov.ai/
+
 https://developer.nvidia.com/blog/simplifying-access-to-large-language-models-through-nemo-framework-and-services/
 
 https://github.com/nicolay-r/ARElight Mass-Media Processing Application for Relation Extraction,  sentiment relations annotation

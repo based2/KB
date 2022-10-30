@@ -101,6 +101,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://github.com/thevahidal/soul
+
 https://sqlite.org/wasm/doc/tip/about.md
 > https://news.ycombinator.com/item?id=33374402
 
@@ -230,8 +232,6 @@ https://sqlite.org/releaselog/3_38_1.html
 
 https://github.com/proofrock/ws4sqlite
 > https://news.ycombinator.com/item?id=30636796
-
-https://github.com/rqlite/rqlite/releases
 
 https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html
 > https://news.ycombinator.com/item?id=30486052

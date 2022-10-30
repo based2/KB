@@ -45,6 +45,8 @@ https://blog.frankel.ch/maven-flatten-plugin/
 
 https://andresalmiray.com/a-pom-by-any-other-name/
 
+https://lists.apache.org/thread/snnlfsk24wmdp8tp79b2k11ln34hk6ks Apache Maven 4.0.0-alpha-2 released
+
 https://lists.apache.org/thread/c9wt7s272jvyznxsl2o00o56rnyxb4l6 Maven JAR Plugin version 3.3.0
 
 https://lists.apache.org/thread/g5msrrbd5w65rgk5hwmzjh1pd9vl25qh Maven Install Plugin 3.0.0

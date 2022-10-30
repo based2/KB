@@ -255,6 +255,22 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://datadino.substack.com/p/one-idea-per-chart
+
+https://github.com/saulpw/visidata
+
+https://chartscss.org/examples/chart-builder/
+> https://news.ycombinator.com/item?id=33392379
+
+https://setosa.io/ev/principal-component-analysis/
+> https://news.ycombinator.com/item?id=33386475
+
+https://breckyunits.com/ckmeans.html
+
+https://linkis.apache.org/
+
+https://lists.apache.org/thread/4b40j4lozo6l9vwkp6bbqyxy0cy5rp24 Release of Apache Flume 1.11.0
+
 https://kylin.apache.org/
 
 https://www.influxdata.com/blog/influxdb-engine/

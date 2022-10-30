@@ -48,6 +48,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 #
+https://keepassxc.org/blog/2022-10-29-2.7.4-released
+
 https://neosmart.net/blog/2022/securestore-0-100-kiss-git-versioned-secrets-management-for-rust/
 > https://news.ycombinator.com/item?id=32389701
 

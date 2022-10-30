@@ -115,6 +115,12 @@ https://github.com/awslabs/terraform-iam-policy-validator
 
 https://medium.com/adevinta-tech-blog/enforcing-and-controlling-infrastructure-as-code-40f38c89fb2e
 
+https://medium.com/meliopayments/finding-the-right-balance-between-terraform-and-cloudformation-31651349a390
+
+https://www.davehall.com.au/blog/2022/10/19/tracking-infrastructure-with-ssm-and-terraform/
+
+https://github.com/JamesWoolfenden/sato CF2Terraform
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -124,6 +130,8 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://platformengineering.org/talks-library/infrastructure-as-code-setups
+
 https://cloud.google.com/docs/terraform/best-practices-for-terraform
 
 https://www.cncf.io/blog/2022/09/30/how-to-gitops-your-terraform/

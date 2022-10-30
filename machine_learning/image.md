@@ -221,6 +221,8 @@ https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
 # Detection
+https://github.com/WongKinYiu/yolov7
+
 https://arxiv.org/abs/2207.02696 YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 > https://news.ycombinator.com/item?id=32121125
 
@@ -238,6 +240,14 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://huggingface.co/spaces/huggingface-projects/stable-diffusion-multiplayer?roomid=room-1
+
+https://www.craiyon.com/
+
+https://mmrotate.readthedocs.io/en/latest/
+
+https://github.com/heartexlabs/label-studio
+
 https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/
 > https://news.ycombinator.com/item?id=33344966
 

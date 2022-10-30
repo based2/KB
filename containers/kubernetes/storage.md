@@ -1,5 +1,7 @@
 https://refaktory.net/blog/posts/self-hosted-kubernetes-solving-the-storage-problem
 
+https://www.theregister.com/2022/10/24/how_simple_stateful_storage_and/?td=keepreading
+
 https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/
 > https://www.reddit.com/r/kubernetes/comments/x46la2/introducing_cosi_object_storage_management_using/
 

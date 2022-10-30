@@ -401,10 +401,16 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://github.com/penberg/vsr-rs
+
+https://github.com/flosse/rust-web-framework-comparison
+> https://news.ycombinator.com/item?id=33385148
+
 https://blog.yoshuawuyts.com/const-syntax/
 
 https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html
 > https://news.ycombinator.com/item?id=33351819
+> https://www.reddit.com/r/programming/comments/yexcq2/how_to_speed_up_the_rust_compiler_october_2022/
 
 https://blog.rust-lang.org/2022/10/28/gats-stabilization.html
 

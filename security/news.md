@@ -1,6 +1,21 @@
+https://portswigger.net/daily-swig/vmware-patches-rce-exploit-in-nsx-manager
+
+https://portswigger.net/daily-swig/critical-authentication-bug-in-fortinet-products-actively-exploited-in-the-wild
+
+https://melsloop.com/docs/mels-hack-the-missing-bits
+> https://news.ycombinator.com/item?id=33392127
+
+https://www.infosecurity-magazine.com/news/data-breaches-rise-by-70-q3-2022/
+> https://surfshark.com/blog/data-breach-statistics-2022-q3
+
+https://www.bleepingcomputer.com/news/security/medibank-now-says-hackers-accessed-all-its-customers-personal-data/
+
+https://lists.apache.org/thread/d7pj1vpqdtbrxbx47z9p2hjfvgn6yz7k CVE-2022-26884: Apache DolphinScheduler exposes files without authentication
+
 https://www.cybermalveillance.gouv.fr/
 
 https://github.com/PayDevs/awful-oss-incidents
+> https://news.ycombinator.com/item?id=33383972
 
 https://vigilance.fr/vulnerabilite/Python-Core-elevation-de-privileges-via-Multiprocessing-Forkserver-Start-39749
 

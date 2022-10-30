@@ -220,6 +220,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/carefree0910/carefree-creator google
+
+https://www.freethink.com/science/machine-learning-math
+
 https://pytorch.org/blog/PyTorch-1.13-release/
 > https://news.ycombinator.com/item?id=33377648
 

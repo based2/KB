@@ -25,8 +25,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://scriptedconfiguration.org/
+
 https://devops-pipeline.com/
->
 
 https://pyinfra.com/
 > https://github.com/Fizzadar/pyinfra

@@ -241,6 +241,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://codesimple.blog/2019/02/16/events-fat-or-thin/
+> https://news.ycombinator.com/item?id=33356197
+
 https://news.ycombinator.com/item?id=33358471
 
 https://medium.com/@glenn.sorrentino/layers-of-change-how-buildings-and-software-are-alike-faa8e644e9e8

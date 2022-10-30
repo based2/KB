@@ -1,3 +1,5 @@
+https://old.reddit.com/r/virtualreality/comments/ygkbpm/we_made_vr_pacman_you_can_play_with_your_friends/
+
 https://news.ycombinator.com/item?id=33318956
 
 https://arstechnica.com/gadgets/2022/10/apples-ar-vr-headset-will-scan-your-iris-when-you-put-it-on/

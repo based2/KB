@@ -109,6 +109,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 https://ffmpeg.guide/
 > https://news.ycombinator.com/item?id=33383023
 
+http://dranger.com/ffmpeg/
+> https://news.ycombinator.com/item?id=33392260
+
 https://github.com/charmbracelet/vhs
 > https://news.ycombinator.com/item?id=33357956
 

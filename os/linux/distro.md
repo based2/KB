@@ -71,8 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.itsfoss.com/zorin-os-16-2-release/
+
 https://fedoramagazine.org/fedora-linux-37-update/
-> 
 
 https://blog.system76.com/post/celebrating-5-years-of-pop_os
 > https://news.ycombinator.com/item?id=33294448

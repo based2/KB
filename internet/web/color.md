@@ -70,6 +70,13 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://boingboing.net/2022/10/28/adobe-replacing-old-pantone-spot-colors-with-black-when-you-load-files-using-them.html
+> https://culturehustle.com/products/freetone
+> > https://news.ycombinator.com/item?id=33387047
+> https://en.wikipedia.org/wiki/Pierre_Soulages
+
+https://publicdomainreview.org/collection/synaesthesia-diagrams-1883
+
 https://news.ycombinator.com/item?id=33369951 This file has Pantone colors that have been removed and replaced with black
 
 https://iquilezles.org/articles/premultipliedalpha/

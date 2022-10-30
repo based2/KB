@@ -1,3 +1,5 @@
+https://sourceforge.net/projects/deepfacelab.mirror/
+
 https://github.com/matajoh/fourier_feature_nets
 
 https://www.unite.ai/nerf-facebook-co-research-develops-mixed-static-dynamic-video-synthesis/

@@ -75,6 +75,12 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://github.com/lyrebird-voice-changer/lyrebird
+
+https://tsdgeos.blogspot.com/2022/10/the-kde-qt5-patch-collection-has-been.html?m=1
+
+https://www.theregister.com/2022/10/27/kde_5_26_2/?td=rt-3a
+
 https://uapi-group.org/
 
 https://old.reddit.com/r/linuxquestions/comments/yfjaa1/disney_stopped_working_on_each_of_my_linux/

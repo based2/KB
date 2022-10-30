@@ -139,6 +139,7 @@ https://cdn.coverstand.com/33057/739644/0483e8ca86f15b6c0ce9d6f4660f93665bff176a
 
 ## News
 https://cgit.freebsd.org/src/commit/?id=744bfb213144c63cbaf38d91a1c4f7aebb9b9fbc
+> https://news.ycombinator.com/item?id=33381949
 
 https://productionwithscissors.run/2022/09/02/fun-with-freebsd-first-linux-guest/
 > https://news.ycombinator.com/item?id=33046116
@@ -180,6 +181,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html
+
 https://github.com/Wamphyre/BSD-XFCE
 > https://news.ycombinator.com/item?id=33276187
 

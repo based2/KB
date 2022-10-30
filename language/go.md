@@ -97,6 +97,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://tailscale.com/blog/go-linker/
+> https://news.ycombinator.com/item?id=33388978
+
 https://groups.google.com/g/golang-announce/c/dRtDK7WS78g
 
 https://dev-nonsense.com/posts/incremental-parsing-in-go/

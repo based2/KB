@@ -44,6 +44,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/asdf-vm/asdf/blob/master/test/banned_commands.bats
+> https://news.ycombinator.com/item?id=33384006
+
 https://www.ivarch.com/programs/pv.shtml Pipe Viewer
 > https://news.ycombinator.com/item?id=33244768
 

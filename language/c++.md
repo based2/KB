@@ -19,6 +19,9 @@ https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n
 https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 > https://news.ycombinator.com/item?id=32979601
 
+# Test
+https://github.com/Snaipe/Criterion
+
 #
 https://github.com/e-dant/watcher
 > https://news.ycombinator.com/item?id=33247155

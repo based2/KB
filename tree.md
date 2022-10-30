@@ -98,6 +98,9 @@ https://www.wood-database.com/wood-filter/
 
 https://arstechnica.com/science/2022/08/wood-ink-creates-flat-structures-that-self-morph-into-complex-3d-shapes/
 
+https://phys.org/news/2022-10-tree-insight-devastating-storms.html
+> https://news.ycombinator.com/item?id=33351881
+
 ## Root
 https://images.wur.nl/digital/collection/coll13/search
 > https://news.ycombinator.com/item?id=29672733

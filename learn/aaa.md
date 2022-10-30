@@ -107,6 +107,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.scotthyoung.com/blog/2022/10/26/variable-mastery/
+> https://news.ycombinator.com/item?id=33354355
+
 https://theamericanscholar.org/the-new-old-way-of-learning-languages/
 > https://simple.wikipedia.org/wiki/Zipf%27s_law
 
@@ -132,6 +135,8 @@ https://foldscope.com/
 
 https://www.adham-omran.com/2022/09/10/Reflections-On-A-Year-of-Anki-Knowledge-Management-Emacs-and-More.html
 > https://news.ycombinator.com/item?id=32789763
+
+https://github.com/dongyx/hardv
 
 https://blog.youtube/news-and-events/the-next-chapter-for-learning-on-youtube/
 > https://news.ycombinator.com/item?id=32783730

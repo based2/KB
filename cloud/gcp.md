@@ -27,6 +27,8 @@ https://securityintelligence.com/posts/attacker-achieve-persistence-google-cloud
 > https://www.reddit.com/r/netsec/comments/ya7ryu/how_an_attacker_can_achieve_persistence_in_google/
 
 # News
+https://devclass.com/2022/10/12/google-introduces-cloud-developer-workstations-with-a-jetbrains-flavor-but-cannot-avoid-visual-studio-code/
+
 https://www.meshcloud.io/2022/09/09/gcp-landing-zone-comparison/
 
 https://koptional.com/article/why-we%E2%80%99re-moving-away-from-firebase

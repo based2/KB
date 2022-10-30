@@ -83,6 +83,8 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://jafingerhut.github.io/
+
 https://building.nubank.com.br/clojure-15th-anniversary-a-retrospective/
 > https://news.ycombinator.com/item?id=33295217
 

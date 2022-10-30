@@ -27,6 +27,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://kottke.org/22/04/a-custom-built-moon-motorcycle
+
 https://phys.org/news/2022-09-world-largest-die-off-mangroves-moon.html
 
 https://www.nature.com/articles/s41467-022-33095-1 Chang’E-5 samples reveal high water content in lunar minerals

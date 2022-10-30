@@ -49,6 +49,8 @@ https://support.mozilla.org/en-US/kb/firefox-dns-over-https
 
 https://arxiv.org/abs/2208.04991 Understanding User Awareness and Behaviors Concerning Encrypted DNS Settings
 
+https://threadreaderapp.com/thread/1586390728761933825.html
+
 # Incident
 https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS resolution will break on v1.25.0 in certain configurations
 
@@ -110,6 +112,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://www.heise.de/news/Oeffentlicher-DNS-Resolver-Neue-RIPE-Taskforce-zu-den-Dos-and-Don-ts-7324260.html
+
 https://www.duckdns.org/about.jsp
 > https://news.ycombinator.com/item?id=33367767
 

@@ -215,6 +215,8 @@ https://security.humanativaspa.it/gitlab-ce-cve-2021-22205-in-the-wild/
 
 https://marc.info/?l=git&m=152761328506724&w=2 CVE-2018-11233 Git RCE
 
+https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm
+
 https://travis-ci.community/t/security-bulletin/12081
 > https://news.ycombinator.com/item?id=28523350
 
@@ -240,6 +242,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://turbo.build/
+
 https://www.reddit.com/r/programming/comments/yg9cpw/twitter_engineers_asked_to_print_out_their_last/
 
 https://opensource.ieee.org/users/sign_in
