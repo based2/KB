@@ -36,6 +36,9 @@ https://pansift.com/blog/is-ipv6-faster-than-ipv4/
 https://cv6.poinsignon.org/
 > https://news.ycombinator.com/item?id=32609588
 
+https://www.arin.net/resources/guide/ipv6/first_request/
+> https://news.ycombinator.com/item?id=33403943
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

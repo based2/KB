@@ -50,6 +50,8 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://www.theregister.com/2022/10/31/hong_kong_virtual_asset_hub_plan/
+
 https://tuweni.apache.org/ set of libraries and other tools to aid development of blockchain and other decentralized software in Java and other JVM languages
 
 https://www.bestbrokers.com/2022/08/03/altcoins-affected-by-nomad-hack-collapsed-as-much-as-94/

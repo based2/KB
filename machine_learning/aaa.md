@@ -220,6 +220,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html
+> https://news.ycombinator.com/item?id=33368852
+
 https://github.com/carefree0910/carefree-creator google
 
 https://www.freethink.com/science/machine-learning-math

@@ -109,6 +109,11 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://www.quantamagazine.org/why-mathematicians-study-knots-20221031/
+> https://news.ycombinator.com/item?id=33408332
+
+https://people.math.wisc.edu/~keisler/calc.html
+
 https://www.distributed.net/OGR
 
 http://jdh.hamkins.org/game-values-in-infinite-chess/

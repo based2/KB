@@ -40,3 +40,5 @@ https://shoelace.style/
 > > https://github.com/SAP/ui5-webcomponents
 
 https://levelup.gitconnected.com/are-web-components-dead-12e404e0f4b0
+
+https://shoelace.style/

@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://github.com/susam/hello
+> https://news.ycombinator.com/item?id=33398130
+
 https://ahgamut.github.io/2022/10/23/debugging-c-with-cosmo/
 > https://news.ycombinator.com/item?id=33312012
 

@@ -24,6 +24,8 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://www.haproxy.org/download/1.2/doc/architecture.txt
+
 https://mitmproxy.org/posts/releases/mitmproxy9/
 
 https://nginxproxymanager.com/

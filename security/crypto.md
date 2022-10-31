@@ -116,6 +116,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://cronokirby.com/posts/2022/08/the-paper-that-keeps-showing-up/ “Unifying Zero-Knowledge Proofs of Knowledge”, by Ueli Maurer [Mau09]
+> https://news.ycombinator.com/item?id=33370104
+
 https://blog.cloudflare.com/experiment-with-pq/
 > https://www.reddit.com/r/netsec/comments/wgdo7x/cloudflare_implements_experimental_support_for/
 

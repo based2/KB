@@ -1,6 +1,8 @@
 https://certbot.eff.org/
 
 https://github.com/FiloSottile/mkcert
+> https://news.ycombinator.com/item?id=33383095
+> https://www.reddit.com/r/netsec/comments/njp0zu/mkcert_is_a_simple_tool_for_making_locallytrusted/
 
 https://hohnstaedt.de/xca/index.php openssl
 
@@ -14,9 +16,6 @@ https://www.cs.bham.ac.uk/~garciaf/publications/spinner.pdf
 
 https://certstream.calidog.io/
 > https://news.ycombinator.com/item?id=15622140
-
-https://github.com/FiloSottile/mkcert
-> https://www.reddit.com/r/netsec/comments/njp0zu/mkcert_is_a_simple_tool_for_making_locallytrusted/
 
 https://certificate.transparency.dev/
 > https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/
@@ -42,8 +41,6 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
-https://github.com/FiloSottile/mkcert
-
 https://github.com/Hakky54/certificate-ripper
 
 https://www.ssllabs.com/ssltest/analyze.html?d=paypal.com&s=64.4.250.36&hideResults=on

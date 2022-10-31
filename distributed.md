@@ -139,6 +139,12 @@ https://github.com/logsem/aneris coq, ocaml
 # concurrencyngs
 
 # News
+https://www.youtube.com/watch?v=cNICGEwmXLU "Systems that run forever self-heal and scale" by Joe Armstrong (2013)
+
+https://cloudblogs.microsoft.com/opensource/2018/12/13/introducing-ambrosia-new-platform-distributed-applications/
+
+https://dl.acm.org/doi/10.1145/3916.3988 Virtual time
+
 https://github.com/pingcap/talent-plan
 
 https://github.com/bastion-rs/bastion

@@ -70,6 +70,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://www.nordtheme.com/
+> https://news.ycombinator.com/item?id=33406069
+
 https://boingboing.net/2022/10/28/adobe-replacing-old-pantone-spot-colors-with-black-when-you-load-files-using-them.html
 > https://culturehustle.com/products/freetone
 > > https://news.ycombinator.com/item?id=33387047

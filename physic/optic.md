@@ -1,5 +1,8 @@
 https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
+https://scitechdaily.com/breaking-an-optical-rule-engineers-manipulate-light-at-the-nanoscale/
+> https://news.ycombinator.com/item?id=33410613
+
 https://www.nature.com/articles/s41467-022-31174-x Catalyst-free synthesis of sub-5 nm silicon nanowire arrays with massive lattice contraction and wide bandgap
 
 https://petapixel.com/2021/12/16/sony-unveils-groundbreaking-cmos-sensor-that-gathers-twice-the-light/

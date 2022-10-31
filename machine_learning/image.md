@@ -240,6 +240,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://www.theregister.com/2022/10/31/in_brief_ai/
+
 https://huggingface.co/spaces/huggingface-projects/stable-diffusion-multiplayer?roomid=room-1
 
 https://www.craiyon.com/

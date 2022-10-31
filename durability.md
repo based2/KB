@@ -37,6 +37,9 @@ https://gothamist.com/news/albany-passes-right-to-repair-law-for-electronics-to-
 https://www.ifixit.com/News/64865/iphone-14-teardown
 > https://news.ycombinator.com/item?id=32899494
 
+https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law
+> https://news.ycombinator.com/item?id=33403305
+
 #
 https://github.com/lima-vm/lima
 

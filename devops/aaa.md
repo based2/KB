@@ -242,6 +242,15 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://snowtrack.io/
+
+https://qiangmzsx.github.io/Software-Engineering-at-Google/#/zh-cn/Foreword
+
+https://sourcery.ai/blog/sebastian-witowski-interview-part-1/
+
+https://lwn.net/Articles/913253/ GNU Make 4.4 released
+> https://news.ycombinator.com/item?id=33409075
+
 https://turbo.build/
 
 https://www.reddit.com/r/programming/comments/yg9cpw/twitter_engineers_asked_to_print_out_their_last/

@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://ebjohnsen.org/publication/22-csf/22-csf.pdf
+
 https://techcrunch.com/2022/10/13/shein-zoetop-fined-1-9m-data-breach/
 > https://news.ycombinator.com/item?id=33205181
 

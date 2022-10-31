@@ -46,6 +46,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 
 # Incident
+https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned
+
 https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accounts
 > https://news.ycombinator.com/item?id=32399949
  
@@ -64,6 +66,8 @@ https://github.com/Linen-dev/linen.dev
 
 https://atproto.com/
 > https://news.ycombinator.com/item?id=33252108
+> https://atproto.com/guides/overview
+> > 
 
 https://arstechnica.com/tech-policy/2022/10/onlyfans-lawyers-accidentally-reveal-which-meta-execs-allegedly-took-bribes/
 

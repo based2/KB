@@ -82,6 +82,8 @@ https://github.com/ggandor/leap.nvim mouse
 https://www.openvim.com/
 > https://news.ycombinator.com/item?id=33306778
 
+https://catonmat.net/top-10-vim-shortcuts
+
 https://www.vim.org/vim90.php
 
 https://spacevim.org/SpaceVim-release-v2.0.0/
@@ -190,6 +192,9 @@ https://www.labri.fr/perso/nrougier/GTD/index.html
 https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html
 > https://news.ycombinator.com/item?id=33277985
 
+https://github.com/rougier/nano-emacs
+> https://news.ycombinator.com/item?id=33403169
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -238,6 +243,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://ethanschoonover.com/solarized/
+> https://news.ycombinator.com/item?id=33400822
+
 https://petevilter.me/post/datalog-typechecking/
 > https://news.ycombinator.com/item?id=33076092
 

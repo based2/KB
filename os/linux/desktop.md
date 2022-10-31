@@ -75,6 +75,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html
+> https://news.ycombinator.com/item?id=33413382
+
 https://github.com/lyrebird-voice-changer/lyrebird
 
 https://tsdgeos.blogspot.com/2022/10/the-kde-qt5-patch-collection-has-been.html?m=1

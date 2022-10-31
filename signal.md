@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://destevez.net/2022/10/decoding-integral/
+> https://news.ycombinator.com/item?id=33396988
+
 https://charliegerard.dev/blog/aircraft-radar-system-rtl-sdr-web-usb/
 
 https://radionavlab.ae.utexas.edu/wp-content/uploads/2022/10/starlink-structure.pdf

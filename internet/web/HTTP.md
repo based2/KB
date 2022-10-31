@@ -93,6 +93,8 @@ https://github.com/jstrieb/quickserv
 https://www.acme.com/software/thttpd/
 > https://news.ycombinator.com/item?id=31639054
 
+https://sqlite.org/althttpd/doc/trunk/althttpd.md
+
 # Security
 http://noxxi.de/research/http-evader-explained-4-double-encoding.html 2015
 

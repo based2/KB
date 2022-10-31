@@ -294,6 +294,13 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://snarky.ca/unravelling-if-statements/
+> https://news.ycombinator.com/item?id=33411032
+
+https://www.youtube.com/watch?v=8Ab3ArE8W3s Stop Writing Dead Programs" by Jack Rusher (Strange Loop 2022)
+> Propagators https://www.youtube.com/watch?v=HB5TrK7A4pI "We Really Don't Know How to Compute!" - Gerald Sussman (2011)
+> https://github.com/nextjournal/clerk
+
 https://blog.interlinked.us/69/nullish-coalescing-and-optional-chaining
 
 https://www.om-language.org/

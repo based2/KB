@@ -38,6 +38,8 @@ https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
 https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/
 
 #
+https://www.phoronix.com/news/systemd-252 systemd-measure
+
 https://www.psdn.io/posts/systemd-shutdown-unit/
 > https://news.ycombinator.com/item?id=33345867
 

@@ -116,6 +116,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://github.com/P4ELTE/t4p4s
+
 https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/
 >
 

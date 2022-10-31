@@ -86,3 +86,6 @@ https://www.memtest.org/
 > https://news.ycombinator.com/item?id=33318590
 
 https://www.devever.net/~hl/power9tags
+
+https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator
+> https://news.ycombinator.com/item?id=33379079

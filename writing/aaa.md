@@ -69,6 +69,9 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+http://annas-blog.org/blog-isbndb-dump-how-many-books-are-preserved-forever.html
+> https://news.ycombinator.com/item?id=33408735
+
 https://www.goodtimes.sc/george-saunders-on-writing-short/
 > https://news.ycombinator.com/item?id=33155945
 

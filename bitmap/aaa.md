@@ -76,6 +76,9 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://github.com/ShaunLawrie/PwshPaint
+> https://news.ycombinator.com/item?id=33399632
+
 https://kottke.org/22/03/pixel-birds-and-other-animals
 
 https://simplifier.neocities.org/4x4.html

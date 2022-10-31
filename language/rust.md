@@ -6,6 +6,8 @@ https://doc.rust-lang.org/rust-by-example/index.html
 
 https://blog.mgattozzi.dev/rusts-runtime/
 
+https://blog.logrocket.com/introducing-the-rust-borrow-checker/
+
 https://rust-lang-nursery.github.io/rust-cookbook/intro.html
 > https://news.ycombinator.com/item?id=26101066
 
@@ -401,6 +403,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://www.youtube.com/watch?v=bnnacleqg6k "Type-Driven API Design in Rust" by Will Crichton
+
 https://github.com/penberg/vsr-rs
 
 https://github.com/flosse/rust-web-framework-comparison

@@ -88,6 +88,9 @@ https://refruity.xyz/macbook-touch-bar-in-iterm2/
 
 https://thescottkrause.com/emerging_tech/new_macbook_setup_for_dev/
 
+https://developer.apple.com/documentation/extensionkit
+> https://news.ycombinator.com/item?id=33409558
+
 https://www.theverge.com/2021/6/8/22523613/macos-monterey-wwdc-apple-ipad
 > https://news.ycombinator.com/item?id=27451413
 
@@ -144,6 +147,8 @@ https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-perfor
 > https://news.ycombinator.com/item?id=31643610
 
 # M1
+https://news.ycombinator.com/item?id=33405359 Ask HN: How to intentionally throttle CPU on a M1 MacBook?
+
 https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/
 
 https://www.corsix.org/content/contrasting-intel-amx-and-apple-amx

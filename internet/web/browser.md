@@ -32,6 +32,11 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://bugs.chromium.org/p/chromium/issues/detail?id=1178058#c84
+> https://news.ycombinator.com/item?id=33412340
+
+https://github.com/black7375/Firefox-UI-Fix
+
 https://www.ghacks.net/2022/10/20/firefox-beta-for-android-now-supports-custom-add-on-collections/
 
 https://webkit.org/blog/13399/webkit-features-in-safari-16-1/

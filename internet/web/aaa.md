@@ -101,7 +101,11 @@ https://github.com/Florents-Tselai/WarcDB Web crawl data as SQLite databases
 https://github.com/maxcountryman/warc-parquet
 > https://news.ycombinator.com/item?id=31867179
 
+https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots
+
 # News
+https://www.bleepingcomputer.com/news/security/mozilla-firefox-fixes-freezes-caused-by-new-windows-11-feature/
+
 https://nymag.com/intelligencer/2022/10/what-is-technofeudalism.html
 > https://news.ycombinator.com/item?id=33372930
 

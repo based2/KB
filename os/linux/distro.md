@@ -71,6 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.mobileeurope.co.uk/has-rakuten-made-a-rocky-er-road-for-red-hat/
+> https://news.ycombinator.com/item?id=33406027
+
 https://news.itsfoss.com/zorin-os-16-2-release/
 
 https://fedoramagazine.org/fedora-linux-37-update/

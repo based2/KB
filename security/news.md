@@ -1,3 +1,17 @@
+https://diablohorn.com/2022/10/30/baby-steps-into-mitre-stix-taxii-pandas-graphs-jupyter-notebooks/
+
+https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29
+
+https://medium.com/@nynan/what-i-learnt-from-reading-217-subdomain-takeover-bug-reports-c0b94eda4366
+
+https://www.bleepingcomputer.com/news/microsoft/actively-exploited-windows-motw-zero-day-gets-unofficial-patch/
+
+https://arstechnica.com/information-technology/2022/10/researchers-id-12k-microsoft-servers-that-are-a-ddosers-best-friend/
+> https://news.ycombinator.com/item?id=33379021
+
+https://www.schneier.com/blog/archives/2022/10/apple-only-commits-to-patching-latest-os-version.html
+> https://news.ycombinator.com/item?id=33406786
+
 https://portswigger.net/daily-swig/vmware-patches-rce-exploit-in-nsx-manager
 
 https://portswigger.net/daily-swig/critical-authentication-bug-in-fortinet-products-actively-exploited-in-the-wild
@@ -24,6 +38,7 @@ https://vigilance.fr/vulnerabilite/Glances-surcharge-via-Regular-Expression-3974
 https://vigilance.fr/vulnerabilite/Select2-Cross-Site-Scripting-via-Listbox-Data-HTML-Templates-39745
 
 https://www.bleepingcomputer.com/news/security/apple-fixes-recently-disclosed-zero-day-on-older-iphones-ipads/
+> Update and disable bluetooth
 
 https://www.bleepingcomputer.com/news/security/google-fixes-seventh-chrome-zero-day-exploited-in-attacks-this-year/
 

@@ -7,6 +7,12 @@ https://github.com/jsa2/aad-auth-n-z
 
 https://security.microsoft.com/securescore
 
+# Serverless
+
+https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview
+
+https://ieeexplore.ieee.org/document/7979855 Serverless Computing: Design, Implementation, and Performance
+
 # Updates
 
 azure portal blade whatsnew

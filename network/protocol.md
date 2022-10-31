@@ -55,3 +55,8 @@ https://havenweb.org/2022/10/19/bluesky.html
 
 https://lwn.net/Articles/495304/ TCP connection repair
 > https://news.ycombinator.com/item?id=33348319
+
+https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf
+> https://news.ycombinator.com/item?id=33401480
+
+https://p4.org/

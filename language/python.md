@@ -97,6 +97,9 @@ https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html
 https://github.com/bloomberg/memray
 > https://news.ycombinator.com/item?id=31102089
 
+https://www.youtube.com/watch?v=vVUnCXKuNOg
+> https://github.com/plasma-umass/scalene
+
 # Package
 https://antonz.org/python-packaging/
 > https://news.ycombinator.com/item?id=26733423

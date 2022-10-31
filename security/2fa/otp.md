@@ -23,6 +23,8 @@ https://yahes.space/posts/using-yubikey-with-pam-module/
 https://cube0x0.github.io/Relaying-YubiKeys/
 
 # News
+https://developers.yubico.com/python-fido2/
+
 https://cube0x0.github.io/Relaying-YubiKeys-Part-2/
 
 https://www.linotp.org/

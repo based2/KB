@@ -97,6 +97,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://github.com/ent/ent
+> https://news.ycombinator.com/item?id=33398806
+
 https://tailscale.com/blog/go-linker/
 > https://news.ycombinator.com/item?id=33388978
 

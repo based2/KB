@@ -41,6 +41,9 @@ https://www.smashingmagazine.com/2020/03/setting-height-width-images-important-a
 
 https://engineering.q42.nl/optimizing-full-screen-images/
 
+https://jfhr.me/optimizing-images-with-the-html-picture-tag/
+> https://news.ycombinator.com/item?id=33397054
+
 # Photography
 https://www.dpreview.com/news/3788652829/digikam-free-open-source-raw-photo-management-macos-windows-and-linux-updated
 

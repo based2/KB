@@ -46,3 +46,5 @@ https://twitter.com/destroytoday/status/1563716595402285057
 > https://news.ycombinator.com/item?id=32637471
 
 https://github.com/chartist-js/chartist
+
+https://wolthera.info/2022/10/svg-text-layout-for-krita/

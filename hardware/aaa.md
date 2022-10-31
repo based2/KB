@@ -81,6 +81,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://pico-8.fandom.com/wiki/CPU
+> https://news.ycombinator.com/item?id=33377595
+
 https://www.servethehome.com/a-32-core-ampere-arm-and-nvidia-edge-platform-from-7starlake/
 > https://news.ycombinator.com/item?id=33369915
 

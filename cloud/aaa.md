@@ -97,7 +97,15 @@ https://supabase.com/blog/2022/03/31/supabase-edge-functions
 > https://news.ycombinator.com/item?id=30868849
 
 https://eigr.io/ beam
-> https://news.ycombinator.com/item?id=31446550
+> https://news.ycombinator.com/item?id=31446550 Cloud Programming Simplified: A Berkeley View on Serverless computing
+
+https://link.springer.com/chapter/10.1007/978-3-030-56441-4_21 Sustainability Efficiency Challenges of Modern IT Architectures – A Quality Model for Serverless Energy Footprint
+
+https://ieeexplore.ieee.org/abstract/document/9646540 Toward Sustainable Serverless Computing
+
+https://www.cidrdb.org/cidr2019/papers/p119-hellerstein-cidr19.pdf Serverless Computing: One Step Forward, Two Steps Back
+
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf
 
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
