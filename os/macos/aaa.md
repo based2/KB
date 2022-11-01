@@ -79,6 +79,9 @@ https://objective-see.org/tools.html
 > https://news.ycombinator.com/item?id=32979796
 
 # Dev
+https://www.macstrategy.com/article.php?283
+> https://news.ycombinator.com/item?id=33416099
+
 https://it.digitaino.com/use-touchid-to-authenticate-sudo-on-macos/
 
 https://github.com/openglonmetal/MGL

@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.technologynetworks.com/neuroscience/news/nerve-impulses-converted-to-light-for-next-generation-prosthetics-367053
+> https://news.ycombinator.com/item?id=33378801
+
 https://spectrum.ieee.org/neuromorphic-computing-superconducting-synapse
 > https://news.ycombinator.com/item?id=33377151
 

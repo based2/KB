@@ -1,3 +1,5 @@
+https://github.com/openai/whisper
+
 https://sepia-framework.github.io/
 > https://news.ycombinator.com/item?id=30599513
 
@@ -56,6 +58,9 @@ https://www.musi-co.com/listen/streams
 > https://news.ycombinator.com/item?id=33027376
 
 https://github.com/Anjok07/ultimatevocalremovergui
+
+https://www.rewind.ai/
+> https://news.ycombinator.com/item?id=33421751
 
 # speech2Text
 https://openai.com/blog/whisper/

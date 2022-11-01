@@ -14,6 +14,9 @@ https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messa
 > https://news.ycombinator.com/item?id=27587911
 
 # News
+https://datatracker.ietf.org/doc/bofreq-cooper-more-instant-messaging-interoperability/
+> https://news.ycombinator.com/item?id=33420112
+
 https://chitchatter.im/
 > https://www.reddit.com/r/programming/comments/yfo02q/i_built_a_decentralized_serverless_peertopeer/
 

@@ -25,6 +25,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://github.com/ema/pets
+> https://news.ycombinator.com/item?id=33414338
+
 https://scriptedconfiguration.org/
 
 https://devops-pipeline.com/

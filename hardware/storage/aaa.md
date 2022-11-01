@@ -1,4 +1,7 @@
 # News
+https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2022/
+> https://news.ycombinator.com/item?id=33420774
+
 https://github.com/chenquan/diskusage
 
 https://blocksandfiles.com/2022/10/04/ibm-red-hat-storage/

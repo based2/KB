@@ -125,6 +125,9 @@ https://www.hanselman.com/blog/wsl2-can-now-mount-linux-ext4-disks-directly
 https://github.com/valinet/ExplorerPatcher
 
 # Dev
+https://blog.alexellis.io/linux-on-microsoft-dev-kit-2023/
+> https://news.ycombinator.com/item?id=33418044
+
 https://news.ycombinator.com/item?id=29423102
 
 https://ossia.io/posts/msstore/

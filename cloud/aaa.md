@@ -107,6 +107,8 @@ https://www.cidrdb.org/cidr2019/papers/p119-hellerstein-cidr19.pdf Serverless Co
 
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf
 
+https://planetscale.com/blog/one-million-connections
+
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 

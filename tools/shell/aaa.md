@@ -34,6 +34,9 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://dataswamp.org/~solene/2022-10-31-nushell.html
+> https://news.ycombinator.com/item?id=33419944
+
 https://sharats.me/posts/shell-script-best-practices/
 > https://news.ycombinator.com/item?id=33354286
 

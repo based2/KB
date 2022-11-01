@@ -31,6 +31,7 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://www.theregister.com/2022/11/01/linux_exfat_repair_drives/
 
 https://dataswamp.org/~solene/2022-10-05-linux-nilfs-filesystem.html automatic continuous snapshots
 > https://news.ycombinator.com/item?id=33162259

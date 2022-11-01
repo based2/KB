@@ -147,6 +147,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://spacenews.com/nasa-predicts-first-starship-orbital-launch-as-soon-as-december/
+
 https://www.esa.int/Applications/Navigation/ESA_plans_for_low-orbiting_navigation_satellites
 
 https://nautil.us/brightest-ever-space-explosion-reveals-possible-hints-of-dark-matter-244346/

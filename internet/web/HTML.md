@@ -135,11 +135,17 @@ https://www.bryanbraun.com/checkboxland/
 > https://news.ycombinator.com/item?id=28489791
 > https://www.bryanbraun.com/2020/06/06/checkboxland/
 
+https://getcssscan.com/css-checkboxes-examples
+> https://news.ycombinator.com/item?id=33418445
+
 # History
 https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://codeofhonor.substack.com/p/escaping-user-input-is-ridonkulously
+> https://news.ycombinator.com/item?id=33402851
+
 https://handwritten.blog/2022-10-01-hyperlinks-in-handwriting.html
 > https://news.ycombinator.com/item?id=33055426
 

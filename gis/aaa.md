@@ -208,6 +208,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://github.com/jamealg/KT-companion A hiking and backpacking trail companion progressive web app, trek
+> https://news.ycombinator.com/item?id=33420852
+
 https://jooonas.medium.com/offline-map-test-on-apple-watch-ultra-3b73541cec52
 > https://news.ycombinator.com/item?id=32978057
 

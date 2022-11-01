@@ -151,6 +151,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://jchyip.medium.com/my-take-on-why-goal-cascades-are-harmful-and-what-to-do-instead-e9ebadd44d4a
+> https://news.ycombinator.com/item?id=33378540
+
 https://steveblank.com/2022/10/25/a-simple-map-for-innovation-at-scale/
 
 https://arxiv.org/abs/2006.02371

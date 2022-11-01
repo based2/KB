@@ -325,6 +325,9 @@ https://en.wikipedia.org/wiki/Differential_cryptanalysis DES
 ## 1957
 phreaking 2600 hertz
 
+## 1943
+https://en.wikipedia.org/wiki/Colossus_computer
+
 ## 1941
 https://en.wikipedia.org/wiki/Venona_project
 

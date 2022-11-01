@@ -81,6 +81,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://semiengineering.com/chip-design-shifts-as-fundamental-laws-run-out-of-steam/
+> https://en.wikipedia.org/wiki/Systolic_array
+
 https://pico-8.fandom.com/wiki/CPU
 > https://news.ycombinator.com/item?id=33377595
 
@@ -92,6 +95,7 @@ https://hackaday.com/2022/10/27/m-2-for-hackers-expand-your-laptop/
 
 https://www.semianalysis.com/p/arm-changes-business-model-oem-partners
 > https://news.ycombinator.com/item?id=33371725
+> https://news.ycombinator.com/item?id=33419138
 
 https://chipsandcheese.com/2022/10/27/why-you-cant-trust-cpuid/
 > https://news.ycombinator.com/item?id=33369901

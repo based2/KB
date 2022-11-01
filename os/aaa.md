@@ -21,6 +21,8 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://news.ycombinator.com/item?id=33417612 plan9 fork
+
 https://github.com/Arquivotheca/SunOS-4.1.3
 > https://news.ycombinator.com/item?id=33380099
 

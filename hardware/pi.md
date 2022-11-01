@@ -11,6 +11,9 @@ https://www.jeffgeerling.com/tags/parts-shortage
 https://rpilocator.com/
 
 #
+https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/
+> https://news.ycombinator.com/item?id=33416894
+
 https://www.hardkernel.com/shop/odroid-h3-plus/
 > https://news.ycombinator.com/item?id=33371710
 

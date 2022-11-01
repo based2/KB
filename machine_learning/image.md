@@ -63,6 +63,9 @@ https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 ## Stable diffusion
 https://andys.page/posts/how-to-draw/
 
+https://rentry.co/sdupdates list
+> https://news.ycombinator.com/item?id=33416632
+
 https://vectorart.ai/
 > https://news.ycombinator.com/item?id=33308248
 
@@ -240,6 +243,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/
+> https://news.ycombinator.com/item?id=33422990
+
 https://www.theregister.com/2022/10/31/in_brief_ai/
 
 https://huggingface.co/spaces/huggingface-projects/stable-diffusion-multiplayer?roomid=room-1

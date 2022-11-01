@@ -1,3 +1,15 @@
+# OpenSSF Sigstore
+https://www.sigstore.dev/
+
+https://github.com/sigstore/fulcio Sigstore OIDC PKI
+
+https://github.com/sigstore/cosign Container Signing
+
+https://github.com/sigstore/rekor Software Supply Chain Transparency Log
+
+https://openssf.org/press-release/2022/10/25/sigstore-announces-general-availability-at-sigstorecon/
+
+#
 https://www.youtube.com/watch?v=9w7ajCIWg-g CISPA Ed25519 Signature Schemes: Theory and Practice
 > https://news.ycombinator.com/item?id=29591557
 

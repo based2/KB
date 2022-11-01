@@ -242,6 +242,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://openssf.org/blog/2022/09/29/how-ospos-can-be-a-key-lever-for-open-source-sustainability-and-security/
+
+https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8
+> https://news.ycombinator.com/item?id=33416989
+
 https://snowtrack.io/
 
 https://qiangmzsx.github.io/Software-Engineering-at-Google/#/zh-cn/Foreword

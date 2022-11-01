@@ -234,6 +234,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://github.com/strapi/strapi
+
 https://db-engines.com/en/ranking_osvsc
 
 https://en.wikipedia.org/wiki/List_of_software_forks

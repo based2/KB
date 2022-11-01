@@ -37,3 +37,6 @@ https://www.vice.com/en/article/epzx3m/in-experiment-ai-successfully-impersonate
 https://www.vice.com/en/article/y3ppgw/californians-can-now-auto-detect-racist-language-in-housing-deeds-hoa-rules-and-have-it-removed
 
 https://news.ycombinator.com/item?id=33002312 Text Compression as a Test for Artificial Intelligence (1999)
+
+https://www.explainpaper.com/
+> https://news.ycombinator.com/item?id=33410408

@@ -23,6 +23,9 @@ https://yahes.space/posts/using-yubikey-with-pam-module/
 https://cube0x0.github.io/Relaying-YubiKeys/
 
 # News
+https://brr.fyi/posts/sms-mfa
+> https://news.ycombinator.com/item?id=33412792
+
 https://developers.yubico.com/python-fido2/
 
 https://cube0x0.github.io/Relaying-YubiKeys-Part-2/

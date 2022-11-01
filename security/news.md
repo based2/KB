@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=33420583 Tell HN: Royal Mail Data Breach
+> https://news.ycombinator.com/item?id=33420583
+
+https://blog.assetnote.io/2022/10/28/exploiting-static-site-generators/
+
 https://diablohorn.com/2022/10/30/baby-steps-into-mitre-stix-taxii-pandas-graphs-jupyter-notebooks/
 
 https://ryancor.medium.com/hardware-trojans-under-a-microscope-bf542acbcc29
@@ -85,6 +90,10 @@ https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html Crit
 > https://news.ycombinator.com/item?id=33330752
 > https://www.globalsign.com/en/blog/urgent-patch-openssl-november-1-avoid-critical-security-vulnerability
 > > https://news.ycombinator.com/item?id=33380500
+> https://www.openssl.org/blog/blog/2022/11/01/email-address-overflows/
+> > https://news.ycombinator.com/item?id=33423271
+> https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html
+> > https://news.ycombinator.com/item?id=33422837
 
 https://www.passkeys.io/
 > https://news.ycombinator.com/item?id=33331749
