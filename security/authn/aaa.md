@@ -69,6 +69,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://memgraph.com/blog/how-to-upgrade-an-antiquated-identity-and-access-management-system
+> https://news.ycombinator.com/item?id=33432662
+
 https://fusionauth.io/learn/expert-advice/tokens/revoking-jwts
 
 https://news.ycombinator.com/item?id=33203972 Ask HN: WebAuthn – Replace Password or Second Factor?

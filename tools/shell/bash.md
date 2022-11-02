@@ -72,6 +72,9 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://github.com/ddworken/hishtory
+> https://news.ycombinator.com/item?id=33428726
+
 https://gitlab.com/matesitox/shpinner
 > https://news.ycombinator.com/item?id=33370162
 

@@ -104,6 +104,9 @@ https://github.com/maxcountryman/warc-parquet
 https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots
 
 # News
+https://www.recall-app.com/
+> https://news.ycombinator.com/item?id=33425947
+
 https://www.bleepingcomputer.com/news/security/mozilla-firefox-fixes-freezes-caused-by-new-windows-11-feature/
 
 https://nymag.com/intelligencer/2022/10/what-is-technofeudalism.html

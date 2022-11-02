@@ -86,6 +86,11 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://foalts.org/
+> https://news.ycombinator.com/item?id=33434439
+
+https://devblogs.microsoft.com/typescript/announcing-typescript-4-9-rc/
+
 https://effectivetypescript.com/2022/07/30/treemap-for-source-files/
 
 https://coderoasis.com/typescript-10-years-old/

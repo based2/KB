@@ -36,6 +36,8 @@ https://destevez.net/2021/12/more-data-from-voyager-1/
 
 # Satellite
 
+https://james.darpinian.com/satellites/
+
 https://mikepuchol.com/modeling-starlink-capacity-843b2387f501
 > https://news.ycombinator.com/item?id=33136554
 
@@ -147,6 +149,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html
+> https://news.ycombinator.com/item?id=33422779
+
 https://spacenews.com/nasa-predicts-first-starship-orbital-launch-as-soon-as-december/
 
 https://www.esa.int/Applications/Navigation/ESA_plans_for_low-orbiting_navigation_satellites

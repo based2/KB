@@ -181,6 +181,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://hardenedbsd.org/article/shawn-webb/2022-10-31/hardenedbsd-october-2022-status-report
+
 https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html
 
 https://github.com/Wamphyre/BSD-XFCE

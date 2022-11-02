@@ -71,6 +71,8 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://github.com/cando-developers/cando Cando chemistry language
+
 https://phys.org/news/2022-10-scientists-material-plastic-metal.html
 
 https://www.newscientist.com/article/2343246-aluminium-alloy-could-boost-spacecraft-radiation-shielding-100-fold/

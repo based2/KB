@@ -59,4 +59,6 @@ https://lwn.net/Articles/495304/ TCP connection repair
 https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf
 > https://news.ycombinator.com/item?id=33401480
 
+https://eklitzke.org/binding-on-port-zero
+
 https://p4.org/

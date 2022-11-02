@@ -143,6 +143,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://ericwbailey.website/published/aria-label-is-a-code-smell/
+> https://news.ycombinator.com/item?id=33409501
+
 https://codeofhonor.substack.com/p/escaping-user-input-is-ridonkulously
 > https://news.ycombinator.com/item?id=33402851
 

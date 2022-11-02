@@ -1,3 +1,6 @@
+https://github.com/gsmecher/minimax
+> https://news.ycombinator.com/item?id=33422717
+
 https://www.cnx-software.com/2022/10/22/10-cents-ch32v003-risc-v-mcu-offers-2kb-sram-16kb-flash-in-sop8-to-qfn20-packages/
 > https://news.ycombinator.com/item?id=33302035
 

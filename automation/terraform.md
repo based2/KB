@@ -130,6 +130,9 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://github.com/tierrun
+> https://news.ycombinator.com/item?id=33429972
+
 https://platformengineering.org/talks-library/infrastructure-as-code-setups
 
 https://cloud.google.com/docs/terraform/best-practices-for-terraform

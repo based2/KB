@@ -116,10 +116,12 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://kristerw.github.io/2022/11/01/verifying-optimizations/
+> https://news.ycombinator.com/item?id=33433918
+
 https://github.com/P4ELTE/t4p4s
 
 https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/
->
 
 https://www.thecodedmessage.com/posts/raii/
 > https://www.reddit.com/r/rust/comments/yda0k9/raii_compiletime_memory_management_in_c_and_rust/

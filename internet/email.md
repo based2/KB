@@ -143,6 +143,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://github.com/ProtonMail/proton-bridge/issues/220
+> https://news.ycombinator.com/item?id=33432296
+
 https://mjml.io/
 
 https://mako.cc/copyrighteous/google-has-most-of-my-email-because-it-has-all-of-yours

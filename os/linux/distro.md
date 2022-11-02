@@ -71,6 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/
+> https://news.ycombinator.com/item?id=33432746
+
 https://www.mobileeurope.co.uk/has-rakuten-made-a-rocky-er-road-for-red-hat/
 > https://news.ycombinator.com/item?id=33406027
 

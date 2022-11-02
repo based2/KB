@@ -59,6 +59,14 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.theguardian.com/environment/2022/nov/01/polluting-elite-enormous-carbon-dioxide-emissions-gap-between-poorest-autonomy-study
+
+https://climate.nasa.gov/news/3228/methane-super-emitters-mapped-by-nasas-new-earth-space-mission/?
+> https://news.ycombinator.com/item?id=33427157
+> https://www.edf.org/sites/default/files/new-mexico-methane-analysis.pdf 2014
+> https://earth.stanford.edu/news/methane-leaks-are-far-worse-estimates-least-new-mexico-theres-hope
+> https://ocd-hub-nm-emnrd.hub.arcgis.com/
+
 https://www.wired.com/story/plan-a-platform-climate-pledges/
 
 https://ghgprotocol.org/corporate-standard
@@ -587,3 +595,5 @@ https://www.reuters.com/business/sustainable-business/white-house-eyes-subsidies
 
 https://charmindustrial.com/blog/2021/4/19/charm-announces-ahead-of-schedule-delivery-of-stripes-carbon-removal-purchase
 > https://news.ycombinator.com/item?id=26874619
+
+https://rmi.org/insight/energy-strategy-the-road-not-taken/

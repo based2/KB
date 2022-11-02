@@ -64,6 +64,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://bas.codes/posts/simple-kubernetes
+
 https://metalbear.co/blog/mirrord-3.0-is-out/
 > https://news.ycombinator.com/item?id=33278461
 

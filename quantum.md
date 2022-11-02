@@ -79,6 +79,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.protocol.com/enterprise/quantum-computing-export-controls
+
 https://www.theregister.com/2022/10/31/quantum_motion_spin_qubit/
 
 https://www.scientific-computing.com/news/d-wave-launches-aws-marketplace

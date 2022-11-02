@@ -220,6 +220,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://monai.io/ accelerating research and clinical collaboration in Medical Imaging
+
+https://www.nature.com/articles/d41586-022-03539-1 AlphaFold’s new rival? Meta AI predicts shape of 600 million proteins
+
+https://vaclavkosar.com/ml/Neural-Network-Pruning-Explained
+
+https://github.com/facebookresearch/shumai fast differentiable tensor library for research in TypeScript and JavaScript. Built with bun + flashlight.
+
 https://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html
 > https://news.ycombinator.com/item?id=33368852
 

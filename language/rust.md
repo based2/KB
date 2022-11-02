@@ -403,6 +403,10 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://ecton.dev/writing-a-hashmap-without-unsafe/
+
+https://gendignoux.com/blog/2022/10/24/rust-library-android.html
+
 https://www.youtube.com/watch?v=bnnacleqg6k "Type-Driven API Design in Rust" by Will Crichton
 
 https://github.com/penberg/vsr-rs

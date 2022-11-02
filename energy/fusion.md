@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.lefigaro.fr/sciences/fusion-nucleaire-la-russie-envoie-vers-la-france-un-aimant-geant-essentiel-pour-le-programme-iter-20221101
+
 https://www.instructables.com/Build-A-Fusion-Reactor/
 > https://news.ycombinator.com/item?id=32872449
 

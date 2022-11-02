@@ -18,6 +18,8 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://old.reddit.com/r/btc/comments/yjavz7/majority_of_the_nodes_in_btc_lightning_network/
+
 https://xeiaso.net/blog/cryptocurrency-ownership
 
 https://serhack.me/articles/story-behind-alternative-genesis-block-bitcoin/

@@ -23,6 +23,8 @@ https://yahes.space/posts/using-yubikey-with-pam-module/
 https://cube0x0.github.io/Relaying-YubiKeys/
 
 # News
+https://news.ycombinator.com/item?id=33434153
+
 https://brr.fyi/posts/sms-mfa
 > https://news.ycombinator.com/item?id=33412792
 

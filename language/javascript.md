@@ -484,6 +484,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://blog.appsignal.com/2022/11/02/whats-new-in-nextjs-13.html
+
 https://openssf.org/blog/2022/10/24/openssf-project-alpha-omega-invests-in-the-openjs-foundation-and-jquery-to-help-secure-the-consumer-web/
 
 https://buf.build/blog/protobuf-es-the-protocol-buffers-typescript-javascript-runtime-we-all-deserve

@@ -243,6 +243,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://arxiv.org/abs/2207.12456 Overwatch: Learning Patterns in Code Edit Sequences
+
 https://ethanschoonover.com/solarized/
 > https://news.ycombinator.com/item?id=33400822
 

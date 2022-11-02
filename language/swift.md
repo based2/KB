@@ -1,3 +1,5 @@
+https://belkadan.com/blog/2022/10/Swift-in-the-OS/
+
 https://www.pointfree.co/episodes/ep185-tour-of-parser-printers-introduction
 > https://news.ycombinator.com/item?id=30990463
 

@@ -38,6 +38,9 @@ https://github.com/headwaymaps/headway Self-hostable maps stack, powered by Open
 > https://news.ycombinator.com/item?id=32875795
 
 #
+https://www.tomtom.com/newsroom/behind-the-map/the-future-of-mapmaking-tomtom-maps-platform/
+> https://news.ycombinator.com/item?id=33432720
+
 https://every-door.app/
 > https://news.ycombinator.com/item?id=33318659
 

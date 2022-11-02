@@ -70,6 +70,8 @@ https://bannalia.blogspot.com/2022/06/advancing-state-of-art-for.html
 https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort
 > https://news.ycombinator.com/item?id=31975507
 
+https://www.researchgate.net/publication/301583449_Yet_Another_Sorting_Algorithm
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184

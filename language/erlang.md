@@ -126,6 +126,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://www.evanmiller.org/why-i-program-in-erlang.html
+> https://news.ycombinator.com/item?id=33426041
+
 https://gleam.run/news/gleam-v0.23-released/
 
 https://ferd.ca/my-favorite-erlang-container.html

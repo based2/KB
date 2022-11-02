@@ -56,6 +56,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=33427004
+
 https://gitlab.adullact.net/soluris/madis
 
 https://ebjohnsen.org/publication/22-csf/22-csf.pdf

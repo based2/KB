@@ -27,6 +27,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://www.sciencedirect.com/science/article/abs/pii/S0960148122001550 Uninterrupted photovoltaic power for lunar colonization without the need for storage
+
 https://kottke.org/22/04/a-custom-built-moon-motorcycle
 
 https://phys.org/news/2022-09-world-largest-die-off-mangroves-moon.html

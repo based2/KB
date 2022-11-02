@@ -249,6 +249,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/faster-cpython/ideas/wiki/Python-3.12-Goals
+
 https://pypi.org/project/specialist/
 > https://news.ycombinator.com/item?id=33361312
 

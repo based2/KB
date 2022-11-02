@@ -11,6 +11,8 @@ https://foxglove.dev/
 https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers
 
 # Drone
+https://spectrum.ieee.org/edible-robots
+
 https://www.economist.com/britain/2022/07/21/a-superhighway-for-drones-to-fly-between-british-cities
 
 https://news.ycombinator.com/item?id=33150567

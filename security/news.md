@@ -1,3 +1,8 @@
+https://blog.tidelift.com/urllib3-part-1
+
+https://verifiablecredentials.dev/
+> https://news.ycombinator.com/item?id=33427503
+
 https://news.ycombinator.com/item?id=33420583 Tell HN: Royal Mail Data Breach
 > https://news.ycombinator.com/item?id=33420583
 
@@ -94,6 +99,8 @@ https://mta.openssl.org/pipermail/openssl-announce/2022-October/000238.html Crit
 > > https://news.ycombinator.com/item?id=33423271
 > https://mta.openssl.org/pipermail/openssl-announce/2022-November/000241.html
 > > https://news.ycombinator.com/item?id=33422837
+> https://access.redhat.com/security/vulnerabilities/RHSB-2022-004
+> https://github.com/NCSC-NL/OpenSSL-2022/blob/main/software/README.md
 
 https://www.passkeys.io/
 > https://news.ycombinator.com/item?id=33331749

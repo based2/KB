@@ -44,6 +44,10 @@ https://news.ycombinator.com/item?id=31779316 Ask HN: "No code" works well for m
 https://github.com/rowyio/rowy
 
 #
+https://puredata.info/
+> http://maxobjects.com/
+> http://msp.ucsd.edu/Pd_documentation/x2.htm
+
 https://news.ycombinator.com/item?id=33222292
 
 https://github.com/felipereigosa/mock-mechanics
