@@ -83,6 +83,12 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://grafana.com/blog/2022/11/02/introducing-grafana-faro-oss-application-observability/
+> https://news.ycombinator.com/item?id=33439799
+
+https://grafana.com/blog/2022/11/02/announcing-grafana-phlare-oss-continuous-profiling-database/
+> https://news.ycombinator.com/item?id=33437419
+
 https://www.uber.com/fr/blog/reducing-logging-cost-by-two-orders-of-magnitude-using-clp/ removed
 > https://news.ycombinator.com/item?id=33032996
 

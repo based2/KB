@@ -1,3 +1,9 @@
+https://positive.security/blog/urlscan-data-leaks
+> https://news.ycombinator.com/item?id=33435002
+
+https://blog.phylum.io/phylum-discovers-dozens-more-pypi-packages-attempting-to-deliver-w4sp-stealer-in-ongoing-supply-chain-attack
+> https://news.ycombinator.com/item?id=33438678
+
 https://blog.tidelift.com/urllib3-part-1
 
 https://verifiablecredentials.dev/

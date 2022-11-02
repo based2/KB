@@ -125,6 +125,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.engadget.com/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades-065518011.html
+> https://news.ycombinator.com/item?id=33437791
+
 https://www.fiercetelecom.com/telecom/fcc-denies-isp-requests-keep-their-coverage-calculations-secret
 
 https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-fiber-cables-in-france/

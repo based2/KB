@@ -133,6 +133,10 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://words.filippo.io/dispatches/openssl-punycode/
+
+https://news.ycombinator.com/item?id=33437158
+
 https://bearssl.org/
 > https://news.ycombinator.com/item?id=33381920
 

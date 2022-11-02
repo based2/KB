@@ -23,6 +23,12 @@ https://yahes.space/posts/using-yubikey-with-pam-module/
 https://cube0x0.github.io/Relaying-YubiKeys/
 
 # News
+https://github.blog/changelog/2022-11-01-high-impact-package-maintainers-now-require-2fa/
+> https://news.ycombinator.com/item?id=33429398
+
+https://getaegis.app/
+> https://news.ycombinator.com/item?id=33438540
+
 https://news.ycombinator.com/item?id=33434153
 
 https://brr.fyi/posts/sms-mfa

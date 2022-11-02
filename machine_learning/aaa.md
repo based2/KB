@@ -223,6 +223,7 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 https://monai.io/ accelerating research and clinical collaboration in Medical Imaging
 
 https://www.nature.com/articles/d41586-022-03539-1 AlphaFold’s new rival? Meta AI predicts shape of 600 million proteins
+> https://news.ycombinator.com/item?id=33433583
 
 https://vaclavkosar.com/ml/Neural-Network-Pruning-Explained
 

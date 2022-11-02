@@ -32,6 +32,8 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://github.com/amadvance/snapraid
+
 https://www.winfr.org/
 
 https://ivymike.dev/upside-down-backups.html

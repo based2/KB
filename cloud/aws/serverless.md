@@ -55,3 +55,4 @@ https://aws.amazon.com/en/about-aws/whats-new/2022/04/amazon-aurora-serverless-v
 https://aws.amazon.com/en/iotbutton/
 
 #
+https://www.readysetcloud.io/blog/allen.helton/when-is-serverless-more-expensive/

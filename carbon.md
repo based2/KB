@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.bbc.com/future/article/20221031-how-tucson-arizona-is-facing-up-to-a-1200-year-drought
+> https://news.ycombinator.com/item?id=33437020
+
 https://www.theguardian.com/environment/2022/nov/01/polluting-elite-enormous-carbon-dioxide-emissions-gap-between-poorest-autonomy-study
 
 https://climate.nasa.gov/news/3228/methane-super-emitters-mapped-by-nasas-new-earth-space-mission/?

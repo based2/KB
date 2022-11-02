@@ -123,6 +123,9 @@ https://mosh.org/
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://mosh.org/mosh-1.4.0-released.html
+> https://news.ycombinator.com/item?id=33439542
+
 https://tailscale.com/blog/ssh-console/
 > https://news.ycombinator.com/item?id=33360776
 

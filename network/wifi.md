@@ -21,6 +21,9 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://hackaday.com/2022/10/26/flashing-booby-trapped-cisco-ap-with-openwrt-the-hard-way/
+> https://news.ycombinator.com/item?id=33438892
+
 https://www.wigle.net/
 > https://news.ycombinator.com/item?id=33209163
 

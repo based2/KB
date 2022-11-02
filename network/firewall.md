@@ -47,6 +47,12 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://github.com/ngrok/firewall_toolkit
+
+https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/
+
+https://blog.apnic.net/2022/11/02/openbsd-packet-filter-tools/
+
 https://blog.thc.org/the-iran-firewall-a-preliminary-report
 > https://news.ycombinator.com/item?id=33371121
 

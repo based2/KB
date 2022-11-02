@@ -14,6 +14,12 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://chadvesting.substack.com/p/energy-density-vs-cost-the-real-drivers
+> https://news.ycombinator.com/item?id=33438040
+
+https://www.caltech.edu/about/news/space-solar-power-atwater-hajimiri-pellegrino
+> https://news.ycombinator.com/item?id=33438372
+
 https://www.utilitydive.com/news/texas-solar-and-wind-resources-saved-consumers-nearly-28-billion-over-12-y/634893/
 > https://news.ycombinator.com/item?id=33383238
 

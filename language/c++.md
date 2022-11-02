@@ -1,3 +1,6 @@
+https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers
+> https://news.ycombinator.com/item?id=33436268
+
 https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2656r0.html
 > https://news.ycombinator.com/item?id=33230905
 

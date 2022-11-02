@@ -249,6 +249,11 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://pythonspeed.com/articles/upgrade-python-3.11/
+
+https://dl.acm.org/doi/pdf/10.1145/3568973 RefCPython: A Register-Based Python Interpreter for Better Performance
+> https://news.ycombinator.com/item?id=33436394
+
 https://github.com/faster-cpython/ideas/wiki/Python-3.12-Goals
 
 https://pypi.org/project/specialist/

@@ -1,3 +1,5 @@
+https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games
+
 https://old.reddit.com/r/virtualreality/comments/ygkbpm/we_made_vr_pacman_you_can_play_with_your_friends/
 
 https://news.ycombinator.com/item?id=33318956

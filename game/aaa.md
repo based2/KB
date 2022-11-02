@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://news.ycombinator.com/item?id=33439947
+
 https://lichess.org/blog/Y1wpBhEAAB8AwbeG/taking-lichess-to-the-next-level
 > https://news.ycombinator.com/item?id=33381302
 

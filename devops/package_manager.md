@@ -31,6 +31,8 @@ https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 https://determinate.systems/posts/nix-run
 
 #
+https://wolfv.medium.com/releasing-mamba-1-0-8e3c52cc6d37
+
 https://ismypackagereproducibleyet.org/
 > https://news.ycombinator.com/item?id=33416898
 

@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://amycastor.com/2022/08/04/bitcoin-mining-in-the-crypto-crash-the-mining-companies-creative-accounting/
+> https://news.ycombinator.com/item?id=33437610
+
 https://old.reddit.com/r/btc/comments/yjavz7/majority_of_the_nodes_in_btc_lightning_network/
 
 https://xeiaso.net/blog/cryptocurrency-ownership

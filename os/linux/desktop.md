@@ -75,6 +75,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.winehq.org/announce/7.20
+
 https://www.akselmo.dev/2022/10/31/I-made-outlines-for-KDE-Breeze.html
 > https://news.ycombinator.com/item?id=33413382
 

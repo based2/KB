@@ -86,6 +86,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/microsoft/TypeScript/pull/51387
+> https://news.ycombinator.com/item?id=33440030
+
 https://foalts.org/
 > https://news.ycombinator.com/item?id=33434439
 

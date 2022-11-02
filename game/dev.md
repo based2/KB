@@ -112,6 +112,7 @@ http://www.bizzley.com/
 https://www.openttd.org/news/2022/10/31/openttd-13-0-beta1
 
 https://craigmbooth.com/blog/microgame-you-killed-a-bear/
+> https://news.ycombinator.com/item?id=33410053
 
 https://samuelbigos.github.io/posts/2dgi1-2d-global-illumination-in-godot.html
 
