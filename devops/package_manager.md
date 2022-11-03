@@ -31,6 +31,9 @@ https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 https://determinate.systems/posts/nix-run
 
 #
+https://forum.snapcraft.io/t/what-happened-to-signal-desktop/32119
+> https://news.ycombinator.com/item?id=33450806
+
 https://wolfv.medium.com/releasing-mamba-1-0-8e3c52cc6d37
 
 https://ismypackagereproducibleyet.org/

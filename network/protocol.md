@@ -61,4 +61,7 @@ https://web.stanford.edu/~ouster/cgi-bin/papers/replaceTcp.pdf
 
 https://eklitzke.org/binding-on-port-zero
 
+https://www.potaroo.net/ispcol/2022-11/quicvtcp.html
+> https://news.ycombinator.com/item?id=33431669
+
 https://p4.org/

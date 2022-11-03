@@ -221,6 +221,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=33453104 Ask HN: Have You Migrated from AWS S3 to Cloudflare R2?
+
 https://ramansharma.substack.com/p/multiple-stops-on-the-cloud-compute-continuum-all-with-their-own-merits-6b921ed82f2
 
 https://ethanjb.medium.com/welcome-to-the-new-database-era-f4f8c8c407e1

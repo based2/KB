@@ -69,6 +69,9 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://thereader.mitpress.mit.edu/the-new-art-of-making-books-on-bookworks/
+> https://news.ycombinator.com/item?id=33417088
+
 http://annas-blog.org/blog-isbndb-dump-how-many-books-are-preserved-forever.html
 > https://news.ycombinator.com/item?id=33408735
 
@@ -92,7 +95,6 @@ https://brevity500.com/ Show HN: Brevity 500 – Short games to help you become 
 > https://news.ycombinator.com/item?id=31921830
 
 https://sive.rs/1s Writing one sentence per line
->
 
 https://github.com/zineland/zine simple and opinionated tool to build your own magazine, rust
 > https://news.ycombinator.com/item?id=30966362

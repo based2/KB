@@ -1,3 +1,6 @@
+https://chair6.net/a-large-collection-of-fraudulent-web-stores.html
+> https://news.ycombinator.com/item?id=33445893
+
 https://positive.security/blog/urlscan-data-leaks
 > https://news.ycombinator.com/item?id=33435002
 

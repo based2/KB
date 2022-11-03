@@ -403,6 +403,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.rust-lang.org/2022/11/03/Rust-1.65.0.html
+
 https://ecton.dev/writing-a-hashmap-without-unsafe/
 
 https://gendignoux.com/blog/2022/10/24/rust-library-android.html

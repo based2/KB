@@ -13,6 +13,9 @@ https://www.okta.com
 https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 
 #
+https://github.com/ory/hydra/releases/tag/v2.0.0
+> https://news.ycombinator.com/item?id=33451181
+
 https://tratt.net/laurie/blog/2022/pizauth_oauth_authenticator_alpha.html
 
 https://areweoidcyet.com/

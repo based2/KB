@@ -80,6 +80,9 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://src-bin.com/an-aws-account-just-for-getting-into-other-aws-accounts/
+> https://news.ycombinator.com/item?id=33444995
+
 https://news.ycombinator.com/item?id=33408168 Ask HN: Why Can't I Separate My Personal and AWS Amazon Accounts?
 
 https://aws.amazon.com/en/about-aws/whats-new/2022/10/dark-mode-support-aws-management-console/

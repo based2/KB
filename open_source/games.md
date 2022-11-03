@@ -59,6 +59,9 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://triplea-game.org/
+> https://news.ycombinator.com/item?id=33449168
+
 https://onfoss.libregaming.org/host.html
 
 https://play0ad.com/new-release-0-a-d-alpha-26-zhuangzi/

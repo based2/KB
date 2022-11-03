@@ -70,6 +70,12 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://www.stedi.com/blog/translate-between-json-and-edi
+> https://news.ycombinator.com/item?id=33450281
+
+https://kellyjonbrazil.github.io/jc/
+> https://news.ycombinator.com/item?id=33448204
+
 https://jsonapi.org/format/ 1.1
 
 https://github.com/noahgorstein/jqp

@@ -109,6 +109,11 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://news.ycombinator.com/item?id=33453547 Ask HN: Why don't games allow you to automate some gameplay via programming?
+
+https://github.com/hackclub/sprig
+> https://news.ycombinator.com/item?id=33451148
+
 https://www.openttd.org/news/2022/10/31/openttd-13-0-beta1
 
 https://craigmbooth.com/blog/microgame-you-killed-a-bear/

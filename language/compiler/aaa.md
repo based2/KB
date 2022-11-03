@@ -116,6 +116,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://news.ycombinator.com/item?id=33447041
+
 https://kristerw.github.io/2022/11/01/verifying-optimizations/
 > https://news.ycombinator.com/item?id=33433918
 

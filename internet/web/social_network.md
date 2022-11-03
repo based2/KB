@@ -52,6 +52,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=33449791
+
 https://www.theguardian.com/media/2022/nov/01/mastodon-twitter-elon-musk-takeover
 > https://joinmastodon.org/covenant
 > https://news.ycombinator.com/item?id=33433053

@@ -11,6 +11,9 @@ https://www.jeffgeerling.com/tags/parts-shortage
 https://rpilocator.com/
 
 #
+https://github.com/kaluma-project/kaluma
+> https://news.ycombinator.com/item?id=33449985
+
 https://ounapuu.ee/posts/2022/11/01/finding-use-case-for-raspberry-pi/
 > https://news.ycombinator.com/item?id=33416894
 

@@ -149,6 +149,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://astrobites.org/2022/10/30/guide-to-transient-astronomy/
+> https://news.ycombinator.com/item?id=33417514
+
 https://www.nytimes.com/2022/10/31/world/asia/china-launch-space-station.html
 > https://news.ycombinator.com/item?id=33422779
 

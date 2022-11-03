@@ -64,3 +64,6 @@ https://www.cbsnews.com/news/an-australian-startup-is-growing-water-for-drought-
 
 https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-s-seafloor-now-mapped
 > https://news.ycombinator.com/item?id=33239220
+
+https://www.science.org/content/article/it-s-electric-technique-could-clean-mining-valuable-rare-earth-elements
+> https://news.ycombinator.com/item?id=33449108

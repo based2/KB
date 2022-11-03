@@ -168,6 +168,9 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://www.bls.gov/charts/job-openings-and-labor-turnover/unemp-per-job-opening.htm
+> https://news.ycombinator.com/item?id=33453819
+
 https://noahpinion.substack.com/p/american-workers-need-lots-and-lots
 
 https://www.newyorker.com/business/currency/how-mondragon-became-the-worlds-largest-co-op

@@ -255,6 +255,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://danielcmoura.com/blog/2022/spyql-cell-towers/
+> https://news.ycombinator.com/item?id=33418573
+
 https://datadino.substack.com/p/one-idea-per-chart
 
 https://github.com/saulpw/visidata

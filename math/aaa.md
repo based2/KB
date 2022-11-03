@@ -109,6 +109,9 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf
+> https://news.ycombinator.com/item?id=33442415
+
 https://www.quantamagazine.org/why-mathematicians-study-knots-20221031/
 > https://news.ycombinator.com/item?id=33408332
 

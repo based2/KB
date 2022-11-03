@@ -6,6 +6,8 @@ https://en.wikipedia.org/wiki/Granger_causality
 
 https://www.pinecone.io/learn/time-series-vectors/
 
+https://news.ycombinator.com/item?id=33447976 Ask HN: Data Scientists, what libraries do you use for timeseries forecasting?
+
 https://synchrocharts.com/
 > https://news.ycombinator.com/item?id=29152138
 
@@ -15,7 +17,6 @@ https://xtdb.com/
 > https://news.ycombinator.com/item?id=29758334
 
 https://github.com/questdb/questdb/pull/2298 feat(core): io_uring prototype
-> 
 
 https://duckdb.org/2022/01/06/time-zones.html
 
