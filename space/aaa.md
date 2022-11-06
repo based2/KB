@@ -149,6 +149,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://noirlab.edu/public/news/noirlab2227/
+> https://news.ycombinator.com/item?id=33479323
+
 https://astrobites.org/2022/10/30/guide-to-transient-astronomy/
 > https://news.ycombinator.com/item?id=33417514
 

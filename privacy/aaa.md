@@ -99,6 +99,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.theregister.com/2022/11/04/uk_governement_set_to_extract/
+> https://news.ycombinator.com/item?id=33482530
+
 https://blog.torproject.org/global-encryption-day-2022/
 > https://news.ycombinator.com/item?id=33296572
 

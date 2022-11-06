@@ -108,6 +108,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://www.audioholics.com/room-acoustics/bass-the-physical-sensation-of-sound
+> 
+
 https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html
 > https://news.ycombinator.com/item?id=33041114
 

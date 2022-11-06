@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://blog.thea.codes/starfish-a-control-board-with-the-rp2040/
+> https://news.ycombinator.com/item?id=33483141
+
 https://github.com/FPGAwars/icestudio
 > https://news.ycombinator.com/item?id=33259835
 

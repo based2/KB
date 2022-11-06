@@ -109,6 +109,9 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://mathics.org/
+> https://news.ycombinator.com/item?id=33477793
+
 https://resources.mpi-inf.mpg.de/departments/d1/teaching/ws12/ct/Braess-paradox.pdf
 > https://news.ycombinator.com/item?id=33442415
 

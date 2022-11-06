@@ -104,6 +104,8 @@ https://github.com/maxcountryman/warc-parquet
 https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots
 
 # News
+https://www.wired.com/story/submarine-internet-cables-egypt/
+
 https://www.recall-app.com/
 > https://news.ycombinator.com/item?id=33425947
 

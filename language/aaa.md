@@ -294,6 +294,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=33445368
+
 https://snarky.ca/unravelling-if-statements/
 > https://news.ycombinator.com/item?id=33411032
 

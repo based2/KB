@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://sysdig.com/blog/kernel-parameters-falco/
+> https://news.ycombinator.com/item?id=33463327
+
 https://www.phoronix.com/news/UFS-File-Based-Optimization
 > https://news.ycombinator.com/item?id=33434852
 

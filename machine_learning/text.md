@@ -40,3 +40,5 @@ https://news.ycombinator.com/item?id=33002312 Text Compression as a Test for Art
 
 https://www.explainpaper.com/
 > https://news.ycombinator.com/item?id=33410408
+
+https://news.ycombinator.com/item?id=33481306

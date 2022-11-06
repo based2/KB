@@ -140,6 +140,12 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://www.jetbrains.com/aqua/
+> https://news.ycombinator.com/item?id=33477056
+
+https://stackoverflow.blog/2022/11/03/multiple-assertions-per-test-are-fine/
+> https://news.ycombinator.com/item?id=33479397
+
 https://dl.acm.org/doi/10.1145/2790077 Deterministic Replay: A Survey
 
 https://arxiv.org/abs/2210.11228 Intramorphic Testing: A New Approach to the Test Oracle Problem

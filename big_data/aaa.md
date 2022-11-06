@@ -255,6 +255,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://loginom.com/blog/missing
+> https://news.ycombinator.com/item?id=33478700
+
 https://danielcmoura.com/blog/2022/spyql-cell-towers/
 > https://news.ycombinator.com/item?id=33418573
 

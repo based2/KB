@@ -24,8 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
-https://haroohie.club/blog/2022-10-19-chokuretsu-compression/
-> 
+https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.2_build
+
+https://haroohie.club/blog/2022-10-19-chokuretsu-compression/ 
 
 https://serhack.me/articles/introduction-firmware-analysis-ip-camera-reolink/
 

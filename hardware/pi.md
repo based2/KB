@@ -11,6 +11,9 @@ https://www.jeffgeerling.com/tags/parts-shortage
 https://rpilocator.com/
 
 #
+https://teaandtechtime.com/pieca-a-raspberry-pi-camera-system-for-leica-m-mount-lenses/
+> https://news.ycombinator.com/item?id=33479160
+
 https://github.com/kaluma-project/kaluma
 > https://news.ycombinator.com/item?id=33449985
 

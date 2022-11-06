@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://cbsaustin.com/news/local/up-to-30-of-online-reviews-are-fake-and-most-consumers-cant-tell-the-difference
+> https://news.ycombinator.com/item?id=33442487
+
 https://news.ycombinator.com/item?id=33133283
 
 https://kurtisknodel.com/blog/1Z7fBnGTIlOklNRJ0_nDXnANHcPRYSmRyakATw6lDts

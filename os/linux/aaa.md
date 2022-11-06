@@ -96,6 +96,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://news.ycombinator.com/item?id=33479378
+
 https://0pointer.net/blog/linux-boot-partitions.html
 
 https://news.ycombinator.com/item?id=32453735 Ask HN: Are Linux HowTos dead? Why?

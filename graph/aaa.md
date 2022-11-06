@@ -44,6 +44,9 @@ https://erkal.github.io/kite/
 https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt
 > https://news.ycombinator.com/item?id=32868091
 
+https://memgraph.com/blog/data-persistency-large-scale-data-analytics-and-visualizations-biggest-networkx-challenges
+> https://news.ycombinator.com/item?id=33463472
+
 # Analysis
 https://github.com/cassinius/graphinius Generic graph (analysis) library in Typescript
 

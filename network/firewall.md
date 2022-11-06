@@ -91,3 +91,6 @@ https://samy.pl/slipstream/
 https://news.ycombinator.com/item?id=26620943
 
 https://danthesalmon.com/ufw-docker-tailscale/
+
+https://safing.io/blog/2022/10/27/portmaster-reaches-1.0/
+> https://news.ycombinator.com/item?id=33481518

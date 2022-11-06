@@ -50,3 +50,4 @@ https://github.com/chartist-js/chartist
 https://wolthera.info/2022/10/svg-text-layout-for-krita/
 
 https://blog.noredink.com/post/699829728548372480/svgs-as-elm-code
+> https://news.ycombinator.com/item?id=33444832

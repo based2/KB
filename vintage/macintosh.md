@@ -92,6 +92,7 @@ http://archives.somnolescent.net/web/hypercard/
 https://beyondloom.com/decker/index.html
 > https://news.ycombinator.com/item?id=33377964
 > > https://beyondloom.com/decker/lil.html
+> https://news.ycombinator.com/item?id=33478246
 
 # ResEdit
 https://www.macintoshrepository.org/1317-resedit-2-1-3

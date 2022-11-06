@@ -65,3 +65,5 @@ https://www.potaroo.net/ispcol/2022-11/quicvtcp.html
 > https://news.ycombinator.com/item?id=33431669
 
 https://p4.org/
+
+https://news.ycombinator.com/item?id=33482166 RS-232 protocol

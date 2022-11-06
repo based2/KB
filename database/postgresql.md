@@ -264,6 +264,12 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://github.com/patrkris/pisk
+> https://news.ycombinator.com/item?id=33449475
+
+https://www.crunchydata.com/blog/challenging-postgres-terminology
+> https://news.ycombinator.com/item?id=33462983
+
 https://www.cybertec-postgresql.com/en/multiranges-in-postgresql-14/
 > https://news.ycombinator.com/item?id=33353719
 

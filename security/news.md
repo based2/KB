@@ -1,3 +1,18 @@
+https://www.reddit.com/r/netsec/comments/ylpthx/cve202233679_windows_kerberos_elevation_of/
+
+https://www.usenix.org/conference/usenixsecurity22/technical-sessions
+
+https://github.com/openfheorg/openfhe-development
+
+https://berthub.eu/cyber-mad/Cyber%20and%20information%20security.pdf
+> https://news.ycombinator.com/item?id=33464621
+
+https://bugzilla.redhat.com/show_bug.cgi?id=2139911 CVE-2022-43995 sudo: heap-based overflow with very small passwords
+> https://news.ycombinator.com/item?id=33465707
+
+https://www.ncsc.gov.uk/information/ncsc-scanning-information
+> https://news.ycombinator.com/item?id=33470079
+
 https://chair6.net/a-large-collection-of-fraudulent-web-stores.html
 > https://news.ycombinator.com/item?id=33445893
 

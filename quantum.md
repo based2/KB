@@ -79,6 +79,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html
+> https://news.ycombinator.com/item?id=33481232
+
 https://www.protocol.com/enterprise/quantum-computing-export-controls
 
 https://www.theregister.com/2022/10/31/quantum_motion_spin_qubit/

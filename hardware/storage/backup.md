@@ -32,6 +32,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://github.com/amadvance/snapraid
+> https://news.ycombinator.com/item?id=33440857
+
 https://www.duplicati.com/
 > https://news.ycombinator.com/item?id=33449574
 

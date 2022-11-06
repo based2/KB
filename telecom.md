@@ -125,6 +125,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://swarm.space/
+> https://news.ycombinator.com/item?id=33455334
+
 https://www.engadget.com/t-mobile-will-start-charging-a-35-fee-on-all-new-activations-and-upgrades-065518011.html
 > https://news.ycombinator.com/item?id=33437791
 

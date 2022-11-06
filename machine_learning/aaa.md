@@ -220,6 +220,15 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://tinygrad.org/
+> https://news.ycombinator.com/item?id=33462337
+
+https://link.springer.com/article/10.1007/s11831-022-09740-9 Eighty Years of the Finite Element Method
+> https://news.ycombinator.com/item?id=33480799
+
+https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+> https://news.ycombinator.com/item?id=33482968
+
 https://monai.io/ accelerating research and clinical collaboration in Medical Imaging
 
 https://www.nature.com/articles/d41586-022-03539-1 AlphaFold’s new rival? Meta AI predicts shape of 600 million proteins

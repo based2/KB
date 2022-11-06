@@ -64,6 +64,9 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://blog.frontiersin.org/2022/11/03/60-of-home-compostable-plastic-doesnt-fully-break-down-ending-up-in-our-soil/
+> https://news.ycombinator.com/item?id=33476960
+
 https://www.greenpeace.org/usa/reports/circular-claims-fall-flat-again/
 > https://phys.org/news/2022-10-plastic-recycling-myth-greenpeace.html
 > > https://news.ycombinator.com/item?id=33314434

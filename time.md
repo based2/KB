@@ -213,6 +213,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://javahippie.net/databases/bitemporality/2022/11/03/its-about-time-1.html
+> https://news.ycombinator.com/item?id=33459600
+
 https://www.jefftk.com/p/history-of-zero-based-months
 
 https://hookrace.net/blog/time.gif/
