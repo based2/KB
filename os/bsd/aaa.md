@@ -181,6 +181,10 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://www.youtube.com/watch?v=DoLGyp17y3c&list=PLskKNopggjc6_N7kpccFZuccgJwHD3TPf
+
+https://www.unitedbsd.com/d/959-nfs-on-netbsd-server-and-client-side
+
 https://hardenedbsd.org/article/shawn-webb/2022-10-31/hardenedbsd-october-2022-status-report
 
 https://mail-index.netbsd.org/tech-kern/2022/10/30/msg028499.html

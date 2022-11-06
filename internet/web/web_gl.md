@@ -38,6 +38,8 @@ https://surma.dev/things/webgpu/
 
 https://engineering.squarespace.com/blog/2022/how-we-use-webgl-at-squarespace-877l9-8lyaw
 
+https://github.com/raphamorim/rio
+
 https://80.lv/articles/webgl-2-0-is-now-supported-in-all-major-browsers/
 
 https://persepolis.getty.edu/

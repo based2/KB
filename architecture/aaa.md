@@ -241,6 +241,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://blog.nandankumar.info/system-design-domain-name-system-dns-load-balancing-clustering
+>
+
 https://cohost.org/jamesmunns/post/167078-systems-engineering
 > https://news.ycombinator.com/item?id=33439052
 

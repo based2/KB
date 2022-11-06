@@ -269,7 +269,8 @@ https://www.getlazarus.org/
 https://github.com/lapce/lapce rust
 > https://news.ycombinator.com/item?id=32714191
 
-https://helix-editor.com/news/release-22-08-highlights/
+https://helix-editor.com
+> https://news.ycombinator.com/item?id=33494840
 
 https://github.com/Dashibase/lotion
 > https://news.ycombinator.com/item?id=32231353

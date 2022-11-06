@@ -81,6 +81,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.theregister.com/2022/11/05/intel_product_cuts/
+
 https://www.nextplatform.com/2022/10/28/the-pax-chipzilla-is-over-and-intel-cant-hold-back-the-barbarians/
 
 https://www.nextplatform.com/2022/10/31/mashing-up-cxl-and-gen-z-for-shared-disaggregated-memory/

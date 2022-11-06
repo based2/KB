@@ -31,6 +31,8 @@ https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 https://determinate.systems/posts/nix-run
 
 #
+https://memoryfile.codeberg.page/posts/Distribution-packaging-for-Linux-desktop-applications-is-unsustainable/
+
 https://forum.snapcraft.io/t/what-happened-to-signal-desktop/32119
 > https://news.ycombinator.com/item?id=33450806
 

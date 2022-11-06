@@ -104,6 +104,9 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2022/11/amazon-ec2-opt-out-shared-amazon-machine-images/
+> https://www.reddit.com/r/aws/comments/yn66gt/amazon_ec2_enables_you_to_opt_out_of_directly/
+
 https://aws.amazon.com/en/about-aws/whats-new/2022/07/general-availability-amazon-ec2-m1-mac-instances-macos/
 
 https://instances.vantage.sh/aws/ec2/m5a.2xlarge

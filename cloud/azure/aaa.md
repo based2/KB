@@ -1,4 +1,3 @@
-
 https://azure.microsoft.com/en-gb/pricing/dev-test/
 
 https://techcommunity.microsoft.com/t5/azure-confidential-computing/introducing-edgelessdb-a-database-designed-for-confidential/ba-p/2813631
@@ -22,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://github.com/Azure/azure-cli/security/advisories/GHSA-47xc-9rr2-q7p4
+
 https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured-microsoft-storage-location-2/
 > https://news.ycombinator.com/item?id=33297000
 

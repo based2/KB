@@ -70,6 +70,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://retrocomputing.stackexchange.com/questions/12835/exactly-what-color-was-the-text-on-monochrome-terminals-with-green-on-black-and
+> https://news.ycombinator.com/item?id=33486902
+
 https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl
 
 https://www.nordtheme.com/

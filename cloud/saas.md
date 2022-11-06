@@ -15,3 +15,8 @@ https://upollo.ai/blog/effective-trials
 https://www.plural.sh/blog/open-core-companies/
 > https://news.ycombinator.com/item?id=33274875
 
+https://www.thenile.dev/blog/launch-infra-saas
+
+https://github.com/uselotus/lotus
+> https://news.ycombinator.com/item?id=33494284
+

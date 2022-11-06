@@ -99,6 +99,12 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://www.corsix.org/content/galois-field-instructions-2021-cpus
+> https://news.ycombinator.com/item?id=33492770
+
+https://ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html
+> https://news.ycombinator.com/item?id=33492122
+
 https://news.ycombinator.com/item?id=33413124 Ask HN: What piece of code/codebase blew your mind when you saw it?
 
 https://news.ycombinator.com/item?id=33318788 Cuckoo Filter: Practically Better Than Bloom (2014) [pdf]

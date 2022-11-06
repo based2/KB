@@ -158,6 +158,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://quadratic.fm/p/how-meta-microsoft-google-github How to leverage HTTP conditional requests to build robust REST APIs
+> https://lobste.rs/s/rnzyys/how_leverage_http_conditional_requests
+
 https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for
 > https://news.ycombinator.com/item?id=33280605
 

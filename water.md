@@ -67,3 +67,9 @@ https://www.hydro-international.com/content/news/seabed-2030-almost-25-of-world-
 
 https://www.science.org/content/article/it-s-electric-technique-could-clean-mining-valuable-rare-earth-elements
 > https://news.ycombinator.com/item?id=33449108
+
+https://www.vox.com/the-goods/23433132/best-bottled-water-is-tap-environment-health
+> https://news.ycombinator.com/item?id=33490635
+
+https://lite.cnn.com/en/article/h_a1fc0bf7958049a62752160ff8ac5878
+> https://news.ycombinator.com/item?id=33492181

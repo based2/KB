@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://github.com/jj811208/watching-you
+> https://news.ycombinator.com/item?id=33490456
+
 https://codepen.io/amit_sheen/pen/XWMXwvJ
 
 https://deck-24abcd.netlify.app/

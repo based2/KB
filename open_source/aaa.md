@@ -234,6 +234,11 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://kopano.io/ Kopano Groupware
+> https://stash.kopano.io/users/bneumann/repos/kopanocore/browse/LICENSE.txt
+
+https://events.linuxfoundation.org/open-source-summit-europe/
+
 https://github.com/strapi/strapi
 
 https://db-engines.com/en/ranking_osvsc

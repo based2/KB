@@ -243,6 +243,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://github.com/bumble-tech/private-detector
+
 https://arxiv.org/abs/2211.01324
 
 https://waxy.org/2022/11/invasive-diffusion-how-one-unwilling-illustrator-found-herself-turned-into-an-ai-model/

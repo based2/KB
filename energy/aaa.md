@@ -1,3 +1,5 @@
+https://app.electricitymaps.com/map
+
 https://www.sciencemag.org/news/2018/03/meet-vaclav-smil-man-who-has-quietly-shaped-how-world-thinks-about-energy
 
 https://linuxfr.org/news/mesurer-la-consommation-d-energie-des-projets-informatique-depuis-les-serveurs-avec-scaphandre
@@ -14,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://transparency.entsoe.eu/
+> https://news.ycombinator.com/item?id=33490735
+
 https://chadvesting.substack.com/p/energy-density-vs-cost-the-real-drivers
 > https://news.ycombinator.com/item?id=33438040
 

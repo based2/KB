@@ -72,6 +72,9 @@ https://mars26.com/
 # 3d
 https://cesium.com/blog/2021/03/30/cesium-for-unreal-now-available/
 
+https://en.mapy.cz/zakladni?m3d=1&height=1100&yaw=234&pitch=-18&l=0&x=13.7549779&y=50.5258665&z=17&base=ophoto&_zn=aWQlM0Q1MzU4NTMxODk4OTYzNTU1NTIyJTdDdCUzRDE2Njc3NDI2MjguNjA4JTdDdGUlM0QxNjY3NzQyNjI4LjYwOCU3Q2MlM0Q4QkI0NTBGREQwNUIwMjIzNzM2OUQ3MzJGRURCMzAzNQ%3D%3D
+> https://news.ycombinator.com/item?id=33491697
+
 # view
 openstreetcam.org/map/
 > https://github.com/openstreetcam/android/

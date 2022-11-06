@@ -27,3 +27,6 @@ https://www.welivesecurity.com/2022/10/05/eset-threat-report-t2-2022/
 
 https://services.google.com/fh/files/blogs/gcat_threathorizons_full_sept2022.pdf
 
+https://www.misp-project.org/
+> https://github.com/MISP/MISP
+

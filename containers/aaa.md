@@ -39,6 +39,10 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.datadoghq.com/container-report/
+
+https://next.redhat.com/project/linuxkit/ immutable linux distro
+
 https://github.com/confidential-containers
 
 https://www.theregister.com/2022/10/10/confidential_containers_encrypted_k8s/

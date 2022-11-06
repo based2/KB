@@ -125,6 +125,11 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.theregister.com/2022/11/04/vonage_ftc_order/
+
+https://www.theverge.com/2022/11/4/23441356/starlink-data-caps-throttling-residential-internet-priority-basic-access
+> https://www.reddit.com/r/technews/comments/ynmw6s/starlink_is_getting_daytime_data_caps/
+
 https://swarm.space/
 > https://news.ycombinator.com/item?id=33455334
 

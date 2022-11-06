@@ -133,6 +133,10 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://cloudblogs.microsoft.com/opensource/2022/10/25/towards-debuggability-and-secure-deployments-of-ebpf-programs-on-windows/
+
+https://github.com/cscaminaci/DynamicGroupTool
+
 https://www.theverge.com/2022/10/24/23420207/microsoft-windows-dev-kit-2023-project-volterra-release-date-price
 > https://news.ycombinator.com/item?id=33319777
 
@@ -224,7 +228,6 @@ https://github.com/ariccio/altWinDirStat
 > https://news.ycombinator.com/item?id=30871896
 
 https://scorpiosoftware.net/2022/03/21/threads-threads-and-more-threads/
->
 
 https://www.theverge.com/22728778/windows-11-virtual-desktop-workspace-how-to
 

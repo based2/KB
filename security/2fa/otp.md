@@ -18,7 +18,12 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
-# Incident
+# Incidents
+
+https://news.ycombinator.com/item?id=33491711
+
+https://medium.com/@jewbixcube/paypal-allows-bypassing-two-factor-auth-with-a-button-click-claims-its-for-your-protection-ce1d0dc9a28a
+> https://news.ycombinator.com/item?id=33489648
 
 https://cube0x0.github.io/Relaying-YubiKeys/
 

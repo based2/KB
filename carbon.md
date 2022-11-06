@@ -59,6 +59,14 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.theguardian.com/environment/2022/nov/05/brazil-indonesia-drc-cop27-conservation-opec-rainforests-aoe
+
+https://www.reddit.com/r/worldnews/comments/ynhocl/methane_clouds_spotted_in_chinas_northeast_by/
+
+https://invent.kde.org/teams/eco/feep
+
+https://www.green-coding.org/
+
 https://www.bbc.com/future/article/20221031-how-tucson-arizona-is-facing-up-to-a-1200-year-drought
 > https://news.ycombinator.com/item?id=33437020
 

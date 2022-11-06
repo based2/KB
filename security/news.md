@@ -1,3 +1,15 @@
+https://chromereleases.googleblog.com/2022/10/stable-channel-update-for-desktop_27.html
+
+https://www.usenix.org/conference/usenixsecurity22/presentation/dotan SGX, TEE
+> https://news.ycombinator.com/item?id=33491662
+
+https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html
+
+https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/
+> https://news.ycombinator.com/item?id=33491781
+
+https://lists.apache.org/thread/dt320vtv3gjtdxkgzgbvcx4m2kz50xqj CVE-2022-42920: Apache Commons BCEL prior to 6.6.0 allows producing arbitrary bytecode via out-of-bounds writing
+
 https://www.reddit.com/r/netsec/comments/ylpthx/cve202233679_windows_kerberos_elevation_of/
 
 https://www.usenix.org/conference/usenixsecurity22/technical-sessions
@@ -94,6 +106,7 @@ https://wiki.gentoo.org/wiki/User:Sakaki/Sakaki%27s_EFI_Install_Guide/Disabling_
 > https://news.ycombinator.com/item?id=33345040
 
 https://medium.com/numen-cyber-labs/analysis-and-summary-of-tcp-ip-protocol-remote-code-execution-vulnerability-cve-2022-34718-8fcc28538acf
+> https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-34718 RCE in TCP/IP
 
 https://news.ycombinator.com/item?id=33353345
 

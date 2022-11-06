@@ -1,5 +1,10 @@
 https://ebpf.io
 
+https://ebpf.io/what-is-ebpf/
+> https://news.ycombinator.com/item?id=33489935
+
+https://mdaverde.com/posts/cap-bpf/
+
 http://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html
 
 https://www.iovisor.org/technology/ebpf

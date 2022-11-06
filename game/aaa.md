@@ -15,6 +15,12 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.youtube.com/watch?v=2K7T5LXQPJI
+> https://news.ycombinator.com/item?id=33490381
+
+https://arstechnica.com/gaming/2022/11/ten-years-of-ftl-the-making-of-an-enduring-spaceship-simulator/
+> https://news.ycombinator.com/item?id=33488086
+
 https://news.ycombinator.com/item?id=33439947
 
 https://lichess.org/blog/Y1wpBhEAAB8AwbeG/taking-lichess-to-the-next-level

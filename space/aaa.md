@@ -149,6 +149,17 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://aerospace.org/article/new-long-march-5b-uncontrolled-reentry-tracked-aerospaces-experts
+> https://news.ycombinator.com/item?id=33491215
+
+https://arstechnica.com/science/2022/11/squid-galaxy-may-be-a-cosmic-accelerator-for-high-energy-cosmic-rays/
+
+https://susam.net/blog/zero-point-leet-seconds.html
+> https://news.ycombinator.com/item?id=33491350
+
+https://futurism.com/the-byte/nasa-jpl-psyche-independent-review
+> https://news.ycombinator.com/item?id=33487598
+
 https://noirlab.edu/public/news/noirlab2227/
 > https://news.ycombinator.com/item?id=33479323
 

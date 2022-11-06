@@ -130,6 +130,9 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 # News
+https://mazinahmed.net/blog/tfplan-release/
+> https://www.youtube.com/watch?v=8fnbkZwZsRg&t=1298s
+
 https://github.com/tierrun
 > https://news.ycombinator.com/item?id=33429972
 

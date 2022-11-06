@@ -52,6 +52,20 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094#3/18.90/29.53
+
+https://pinafore.social/
+> https://news.ycombinator.com/item?id=33487747
+
+https://github.com/mastodon/mastodon/releases/tag/v4.0.0rc1
+> https://news.ycombinator.com/item?id=33488957
+
+https://www.manyver.se/
+> https://news.ycombinator.com/item?id=33487197
+
+https://github.com/diracdeltas/tweets
+> https://news.ycombinator.com/item?id=33488996
+
 https://instances.social/
 > https://news.ycombinator.com/item?id=33482976
 

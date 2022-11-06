@@ -1,5 +1,9 @@
 https://www.w3.org/TR/activitypub/
 
+https://social.network.europa.eu/about/more
+> https://news.ycombinator.com/item?id=33491433
+> > https://tube.network.europa.eu/
+
 https://axbom.com/fediverse/
 > https://news.ycombinator.com/item?id=33472622
 

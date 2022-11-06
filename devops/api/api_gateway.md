@@ -22,7 +22,7 @@
           > https://github.com/open-policy-agent/gatekeeper
           > https://prometheus.io/
 https://github.com/dromara/soul
-            https://github.com/apache/incubator-shenyu https://shenyu.apache.org/
+            https://github.com/apache/incubator-shenyu https://shenyu.apache.org/ https://lists.apache.org/thread/w1tpmkngzvxj0jjdvxdo65r41k8xgs90
 
 https://blog.frankel.ch/apisix-api-gateway/
 
