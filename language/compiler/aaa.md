@@ -116,6 +116,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409
+> https://news.ycombinator.com/item?id=33508776
+
 https://news.ycombinator.com/item?id=33447041
 
 https://kristerw.github.io/2022/11/01/verifying-optimizations/

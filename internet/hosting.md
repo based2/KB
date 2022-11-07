@@ -38,6 +38,8 @@ https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 
 #
+https://github.com/dbrgn/galerio
+
 https://github.com/mikeroyal/Self-Hosting-Guide
 > https://news.ycombinator.com/item?id=33312336
 

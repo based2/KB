@@ -59,6 +59,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://grist.org/article/how-centuries-old-whaling-logs-are-filling-gaps-in-our-climate-knowledge/
+> https://news.ycombinator.com/item?id=33488865
+
+https://www.science.org/doi/10.1126/sciadv.ade1473
+> https://news.ycombinator.com/item?id=33501182
+
 https://www.theguardian.com/environment/2022/nov/05/brazil-indonesia-drc-cop27-conservation-opec-rainforests-aoe
 
 https://www.reddit.com/r/worldnews/comments/ynhocl/methane_clouds_spotted_in_chinas_northeast_by/

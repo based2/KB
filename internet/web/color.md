@@ -70,6 +70,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://www.littlecms.com/
+> https://littlecms.com/blog/2022/11/02/lcms2-2.14/
+
 https://retrocomputing.stackexchange.com/questions/12835/exactly-what-color-was-the-text-on-monochrome-terminals-with-green-on-black-and
 > https://news.ycombinator.com/item?id=33486902
 

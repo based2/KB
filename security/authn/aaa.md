@@ -69,6 +69,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://www.soul-network.com/
+> https://news.ycombinator.com/item?id=33505134
+
 https://memgraph.com/blog/how-to-upgrade-an-antiquated-identity-and-access-management-system
 > https://news.ycombinator.com/item?id=33432662
 

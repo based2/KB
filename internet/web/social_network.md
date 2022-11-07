@@ -52,6 +52,17 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=33511016
+
+https://jfm.carcosa.net/blog/computing/usenet/
+> https://news.ycombinator.com/item?id=33510169
+
+https://www.bloomberg.com/news/articles/2022-11-07/mastodon-struggles-to-keep-up-with-surge-of-new-users-fleeing-twitter
+> https://news.ycombinator.com/item?id=33510670
+
+https://martinfowler.com/articles/your-org-run-mastodon.html
+> https://news.ycombinator.com/item?id=33509613
+
 https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094#3/18.90/29.53
 
 https://pinafore.social/

@@ -262,7 +262,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
-https://lists.apache.org/thread/x71rsvb69bsrc52zjbtl7rt94wqtkvdr Apache Camel 3.14.6 (LTS) Released
+https://lists.apache.org/thread/9rtvg7chrg694nnrshmf90967qj8hysv HttpComponents Core 5.2 GA
+
+https://lists.apache.org/thread/x71rsvb69bsrc52zjbtl7rt94wqtkvdr Apache Camel 3.14.6 - LTS
 
 https://github.com/FusionAuth/java-http
 > https://news.ycombinator.com/item?id=33318725

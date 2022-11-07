@@ -1,3 +1,14 @@
+https://github.com/TalEliyahu/awesome-CISO-maturity-models
+
+https://tomcat.apache.org/security-8.html#Fixed_in_Apache_Tomcat_8.5.83
+
+https://python-security.readthedocs.io/vuln/sha3-buffer-overflow.html RCE
+
+https://www.debian.org/lts/security/2022/dla-3173 RCE
+
+https://blog.phylum.io/pypi-malware-replaces-crypto-addresses-in-developers-clipboard
+> https://news.ycombinator.com/item?id=33510487
+
 https://chromereleases.googleblog.com/2022/10/stable-channel-update-for-desktop_27.html
 
 https://www.usenix.org/conference/usenixsecurity22/presentation/dotan SGX, TEE

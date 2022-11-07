@@ -24,6 +24,8 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+http://www.radare2.online/
+
 https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.2_build
 
 https://haroohie.club/blog/2022-10-19-chokuretsu-compression/ 

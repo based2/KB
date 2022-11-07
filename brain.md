@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.nyu.edu/about/news-publications/news/2022/november/our-brains--time-stamp--sounds-to-process-the-words-we-hear.html
+> https://news.ycombinator.com/item?id=33507798
+
 https://www.science.org/doi/10.1126/sciadv.abq7592
 
 https://www.technologynetworks.com/neuroscience/news/nerve-impulses-converted-to-light-for-next-generation-prosthetics-367053

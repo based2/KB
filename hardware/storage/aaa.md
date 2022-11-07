@@ -1,4 +1,7 @@
 # News
+https://pilabor.com/blog/2022/10/audio-cd-ripping-hardware/
+> https://news.ycombinator.com/item?id=33499646
+
 https://arstechnica.com/science/2020/04/the-chemistry-of-why-baking-degraded-reel-to-reel-tapes-can-reverse-damage/
 
 https://www.backblaze.com/blog/backblaze-drive-stats-for-q3-2022/

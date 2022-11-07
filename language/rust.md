@@ -11,6 +11,9 @@ https://blog.logrocket.com/introducing-the-rust-borrow-checker/
 https://rust-lang-nursery.github.io/rust-cookbook/intro.html
 > https://news.ycombinator.com/item?id=26101066
 
+https://blessed.rs/crates
+> https://news.ycombinator.com/item?id=33506132
+
 https://blog.frankel.ch/start-rust/9/
 
 https://rust-unofficial.github.io/patterns/

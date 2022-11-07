@@ -127,6 +127,8 @@ https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-
 
 # Incidents
 
+https://about.gitlab.com/releases/2022/11/02/security-release-gitlab-15-5-2-released/
+
 https://sysdig.com/blog/massive-cryptomining-operation-github-actions/
 > https://news.ycombinator.com/item?id=33345806
 

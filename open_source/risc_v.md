@@ -1,3 +1,6 @@
+https://www.mdpi.com/2079-9292/11/19/2990/htm
+> https://news.ycombinator.com/item?id=33501004
+
 https://github.com/gsmecher/minimax
 > https://news.ycombinator.com/item?id=33422717
 

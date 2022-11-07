@@ -20,3 +20,6 @@ https://www.thenile.dev/blog/launch-infra-saas
 https://github.com/uselotus/lotus
 > https://news.ycombinator.com/item?id=33494284
 
+https://scastiel.dev/implement-ppp-fair-pricing-for-your-product
+> https://news.ycombinator.com/item?id=33509258
+

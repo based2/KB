@@ -29,9 +29,14 @@ https://pgroonga.github.io/
 # Dev
 https://news.ycombinator.com/item?id=26582109
 
+https://search.feep.dev/
+> https://news.ycombinator.com/item?id=33494221
+
 # Images
 https://github.com/emnh/PixelArtSearch/blob/master/README.md
 > https://news.ycombinator.com/item?id=26738006
+
+https://www.pinecone.io/learn/clip-image-search/
 
 # Audio
 https://github.com/jina-ai/examples/tree/master/audio-ews

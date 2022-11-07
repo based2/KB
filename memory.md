@@ -89,3 +89,6 @@ https://www.devever.net/~hl/power9tags
 
 https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator
 > https://news.ycombinator.com/item?id=33379079
+
+https://mcuoneclipse.com/2022/11/06/how-to-make-sure-no-dynamic-memory-is-used/
+> https://news.ycombinator.com/item?id=33502184

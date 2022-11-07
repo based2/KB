@@ -73,6 +73,8 @@ https://arstechnica.com/gadgets/2022/09/att-wont-upgrade-older-phones-for-new-5g
 https://spectrum.ieee.org/faa-5g
 > https://news.ycombinator.com/item?id=33201601
 
+https://www.fiercewireless.com/sponsored/multibeam-antennas-are-critical-component-future-mobile-connectivity
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html

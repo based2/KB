@@ -11,6 +11,8 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://pixelfed.org/
+
 https://www.the5to9.xyz/p/photopea-free-photoshop-alternative-making-millions
 > https://news.ycombinator.com/item?id=33334521
 

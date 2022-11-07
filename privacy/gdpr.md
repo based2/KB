@@ -6,6 +6,10 @@ https://lincnil.github.io/Guide-RGPD-du-developpeur/ FR GPLv3
 
 https://ec.europa.eu/newsroom/article29/items/612080/en National Data Protection Authorities
 
+https://github.com/elixir-luxembourg/daisy Data Information System (DAISY) is a data bookkeeping application designed to help Biomedical Research institutions with their GDPR compliance.
+
+https://web.dev/cookie-notice-best-practices/
+
 https://gdpr.algolia.com/
 
 https://gdprchecklist.io/

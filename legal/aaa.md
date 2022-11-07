@@ -57,6 +57,12 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://typographyforlawyers.com/
+> https://news.ycombinator.com/item?id=33510827
+
+https://ipde.com/blog/2022/11/04/a-wild-hearing-chief-judge-connolly-flips-over-rock-finds-mavexar-llc-crawling-around-controlling-patent-litigation-and-giving-hapless-patent-owners-just-5-10/
+> https://news.ycombinator.com/item?id=33504777
+
 https://www.cambridge.org/core/journals/german-law-journal/article/basic-law-a-fifty-year-assessment/D4B8A18D8050DC8B453D13DCC66F5828#
 > https://news.ycombinator.com/item?id=33353694
 

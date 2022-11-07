@@ -102,3 +102,6 @@ https://github.com/features/packages#pricing
 https://github.blog/2021-06-21-github-packages-container-registry-generally-available/
 
 https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-container-registry
+
+https://blog.aawadia.dev/2022/11/02/docker-registry-ci/
+> https://news.ycombinator.com/item?id=33500807
