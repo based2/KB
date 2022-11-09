@@ -92,3 +92,8 @@ https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator
 
 https://mcuoneclipse.com/2022/11/06/how-to-make-sure-no-dynamic-memory-is-used/
 > https://news.ycombinator.com/item?id=33502184
+
+https://pqsrc.cr.yp.to/libsecded-20220828/README.html
+> https://news.ycombinator.com/item?id=33517148
+
+https://prog.world/how-clickhouse-removes-its-own-code-from-memory-and-switches-to-using-huge-pages/

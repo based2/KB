@@ -23,5 +23,7 @@ https://github.com/osrg/gobgp
 
 https://www.reddit.com/r/blueteamsec/comments/trfzfn/russian_isp_announced_twitters_address_space_via/
 
+https://blog.apnic.net/2022/11/07/what-can-be-learned-from-bgp-hijacks-targeting-cryptocurrency-services/
+
 # Incident
 https://www.coinbase.com/blog/celer-bridge-incident-analysis

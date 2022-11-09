@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://not-matthias.github.io/posts/discord-party-mode/
+> https://news.ycombinator.com/item?id=33521819
+
 http://www.radare2.online/
 
 https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.2_build

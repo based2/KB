@@ -143,6 +143,12 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f
+> https://news.ycombinator.com/item?id=33516918
+
+https://blog.thunderbird.net/2022/11/thunderbird-supernova-preview-the-new-calendar-design/
+> https://news.ycombinator.com/item?id=33534801
+
 https://github.com/ProtonMail/proton-bridge/issues/220
 > https://news.ycombinator.com/item?id=33432296
 

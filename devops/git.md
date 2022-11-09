@@ -271,6 +271,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html
+> https://news.ycombinator.com/item?id=33532062
+
 https://donatstudios.com/yagni-git-gc
 
 https://news.ycombinator.com/item?id=33261862 Ask HN: Apps that are built with Git as the back end?

@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://textshader.com/
+> https://news.ycombinator.com/item?id=33501177
+
+https://svija.love/vibe
+> https://news.ycombinator.com/item?id=33518845
+
 https://github.com/jj811208/watching-you
 > https://news.ycombinator.com/item?id=33490456
 

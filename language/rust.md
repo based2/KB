@@ -406,6 +406,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://implfuture.dev/blog/rewriting-the-modern-web-in-rust
+> https://www.reddit.com/r/rust/comments/xur9wj/rewriting_the_modern_web_in_rust/
+
+https://nrc.github.io/error-docs/
+> https://news.ycombinator.com/item?id=33529147
+
 https://zig.news/kprotty/simple-scalable-unbounded-queue-34c2
 > https://news.ycombinator.com/item?id=33472877
 

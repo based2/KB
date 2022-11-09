@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://medium.com/@mickgordon/my-full-statement-regarding-doom-eternal-5f98266b27ce
+> https://news.ycombinator.com/item?id=33532078
+
 https://www.youtube.com/watch?v=2K7T5LXQPJI
 > https://news.ycombinator.com/item?id=33490381
 

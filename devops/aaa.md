@@ -244,6 +244,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.prodvana.io/blog/declarative-configs
+> https://news.ycombinator.com/item?id=33535807
+
 https://openssf.org/blog/2022/09/29/how-ospos-can-be-a-key-lever-for-open-source-sustainability-and-security/
 
 https://github.com/yyx990803/vite-vs-next-turbo-hmr/discussions/8

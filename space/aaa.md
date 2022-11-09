@@ -149,6 +149,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://orbitalindex.com/archive/2022-11-09-Issue-193/
+
 https://en.m.wikipedia.org/wiki/Michael_D._Griffin
 
 https://aerospace.org/article/new-long-march-5b-uncontrolled-reentry-tracked-aerospaces-experts

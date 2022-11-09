@@ -2,6 +2,8 @@ https://blog.jgc.org/2022/03/using-minitel-1b-as-serial-terminal.html
 
 https://fr.wikipedia.org/wiki/Mitra_15
 
+https://arstechnica.com/information-technology/2022/11/redditor-discovers-legendary-1956-computer-in-grandparents-basement/
+
 https://www.cs.huji.ac.il/~springer/DigitalNeedle/index.html
 > https://news.ycombinator.com/item?id=26945694
 

@@ -97,6 +97,11 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69
+> https://news.ycombinator.com/item?id=33516297
+
+https://words.filippo.io/dispatches/certificate-interning/
+
 https://vanitynotes.com/posts/20221101-the-real-problem-with-go
 > https://news.ycombinator.com/item?id=33439021
 

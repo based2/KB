@@ -41,6 +41,9 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://words.filippo.io/so-i-lost-my-openbsd-fde-password/
+> https://news.ycombinator.com/item?id=33513876
+
 https://novamostra.com/2022/10/23/byopm/
 > https://news.ycombinator.com/item?id=33420089
 

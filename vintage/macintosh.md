@@ -115,6 +115,9 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 #
+https://512pixels.net/2022/11/the-sad-saga-of-the-500-mhz-power-mac-g4/
+> https://news.ycombinator.com/item?id=33532523
+
 http://muezza.ca/thoughts/favourite_computer/
 > https://news.ycombinator.com/item?id=33124986
 

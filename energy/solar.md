@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://electrek.co/2022/11/08/france-require-parking-lots-be-covered-in-solar-panels/
+> https://news.ycombinator.com/item?id=33534232
+
 http://solarprotocol.net/index.html
 
 https://www.cam.ac.uk/stories/floating-artificial-leaves

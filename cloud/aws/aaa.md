@@ -80,6 +80,9 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://aws.amazon.com/en/blogs/aws/a-new-aws-region-opens-in-switzerland/
+> https://news.ycombinator.com/item?id=33535971
+
 https://news.ycombinator.com/item?id=33490314
 
 https://src-bin.com/an-aws-account-just-for-getting-into-other-aws-accounts/

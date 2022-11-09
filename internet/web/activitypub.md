@@ -1,4 +1,5 @@
-https://www.w3.org/TR/activitypub/
+https://www.w3.org/TR/activitypub/#Overview
+> https://news.ycombinator.com/item?id=33519238
 
 https://social.network.europa.eu/about/more
 > https://news.ycombinator.com/item?id=33491433

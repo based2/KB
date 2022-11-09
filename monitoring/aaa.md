@@ -83,6 +83,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://lists.apache.org/thread/m9yxlw625t1yhjqh3y0dx4kvfj54w3zd Apache SkyWalking Java Agent 8.13.0 released
+
 https://github.com/stepci/stepci
 > https://news.ycombinator.com/item?id=33468052
 

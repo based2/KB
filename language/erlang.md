@@ -126,6 +126,11 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://markm208.github.io/exbook/
+> https://news.ycombinator.com/item?id=33503306
+
+https://news.ycombinator.com/item?id=33534235 Erlang and Telecoms Market
+
 https://www.evanmiller.org/why-i-program-in-erlang.html
 > https://news.ycombinator.com/item?id=33426041
 

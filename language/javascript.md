@@ -203,6 +203,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://news.ycombinator.com/item?id=33532465
+
 https://remix.run/blog/remixing-shopify
 > https://news.ycombinator.com/item?id=33405997
 

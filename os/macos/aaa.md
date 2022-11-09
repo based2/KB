@@ -56,6 +56,9 @@ https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/
 https://worthdoingbadly.com/hv/
 > https://news.ycombinator.com/item?id=31638173
 
+https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/
+> https://news.ycombinator.com/item?id=33533132
+
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 
@@ -299,6 +302,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://lifehacker.com/your-mac-has-a-hidden-white-noise-generator-1849760988
+> https://news.ycombinator.com/item?id=33534478
+
 https://www.bloomberg.com/news/newsletters/2022-10-23/should-i-buy-the-new-ipad-pro-what-s-new-about-apple-s-base-model-ipad-l9lejqfk
 
 https://hacks.mozilla.org/2022/10/improving-firefox-responsiveness-on-macos/

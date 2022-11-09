@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.world-nuclear-news.org/Articles/Watts-Bar-2-steam-generator-replacement-completed
+
 https://transparency.entsoe.eu/
 > https://news.ycombinator.com/item?id=33490735
 

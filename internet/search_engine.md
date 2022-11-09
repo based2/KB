@@ -77,6 +77,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9
+> https://news.ycombinator.com/item?id=33532158
+
 https://thejollyteapot.com/2022/10/28/something-is-rotten-in-the-state-of-bing-search
 > https://news.ycombinator.com/item?id=33372685
 

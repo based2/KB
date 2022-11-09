@@ -23,3 +23,5 @@ https://github.com/uselotus/lotus
 https://scastiel.dev/implement-ppp-fair-pricing-for-your-product
 > https://news.ycombinator.com/item?id=33509258
 
+https://news.ycombinator.com/item?id=33502567
+

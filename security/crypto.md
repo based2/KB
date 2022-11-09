@@ -116,6 +116,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://ia804703.us.archive.org/2/items/cryptographers-way-bradford-hardie/Cryptographers-Way.Bradford-Hardie.pdf
+> https://news.ycombinator.com/item?id=33517174
+
 https://cronokirby.com/posts/2022/08/the-paper-that-keeps-showing-up/ “Unifying Zero-Knowledge Proofs of Knowledge”, by Ueli Maurer [Mau09]
 > https://news.ycombinator.com/item?id=33370104
 

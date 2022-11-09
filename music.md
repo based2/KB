@@ -167,6 +167,12 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://www.cell.com/current-biology/fulltext/S0960-9822(22)01535-4
+> https://news.ycombinator.com/item?id=33519700
+
+https://www.musicradar.com/news/how-aphex-twin-made-saw-85-92
+> https://news.ycombinator.com/item?id=33529405
+
 https://languagelog.ldc.upenn.edu/nll/?p=56794 Spectral slices of overtone singing, animated
 > https://news.ycombinator.com/item?id=33342245
 

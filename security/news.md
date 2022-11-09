@@ -1,3 +1,9 @@
+https://googleprojectzero.blogspot.com/2022/11/a-very-powerful-clipboard-samsung-in-the-wild-exploit-chain.html
+
+https://breakdev.org/zip-motw-bug-analysis/
+
+https://www.politico.eu/article/greece-spyware-scandal-cybersecurity/
+
 https://github.com/TalEliyahu/awesome-CISO-maturity-models
 
 https://tomcat.apache.org/security-8.html#Fixed_in_Apache_Tomcat_8.5.83

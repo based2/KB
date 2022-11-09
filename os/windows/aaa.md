@@ -133,6 +133,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.theregister.com/2022/11/08/windows_tests_ads_in_windows_11/
+> https://news.ycombinator.com/item?id=33532448
+
 https://cloudblogs.microsoft.com/opensource/2022/10/25/towards-debuggability-and-secure-deployments-of-ebpf-programs-on-windows/
 
 https://github.com/cscaminaci/DynamicGroupTool

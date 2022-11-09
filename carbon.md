@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/
+> https://news.ycombinator.com/item?id=33532335
+
 https://grist.org/article/how-centuries-old-whaling-logs-are-filling-gaps-in-our-climate-knowledge/
 > https://news.ycombinator.com/item?id=33488865
 

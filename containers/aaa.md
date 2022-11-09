@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://earthly.dev/blog/chroot/
+> https://news.ycombinator.com/item?id=33526668
+
 https://www.datadoghq.com/container-report/
 
 https://next.redhat.com/project/linuxkit/ immutable linux distro

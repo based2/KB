@@ -264,6 +264,9 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/
+> https://news.ycombinator.com/item?id=33518443
+
 https://github.com/patrkris/pisk
 > https://news.ycombinator.com/item?id=33449475
 

@@ -294,6 +294,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/
+> https://news.ycombinator.com/item?id=33516422
+
 https://news.ycombinator.com/item?id=33445368
 
 https://snarky.ca/unravelling-if-statements/
