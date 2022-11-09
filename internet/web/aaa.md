@@ -103,6 +103,8 @@ https://github.com/maxcountryman/warc-parquet
 
 https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots
 
+https://crawlee.dev/
+
 # News
 https://www.wired.com/story/submarine-internet-cables-egypt/
 

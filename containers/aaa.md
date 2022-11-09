@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://podman-desktop.io/
+> https://news.ycombinator.com/item?id=33536978
+
 https://earthly.dev/blog/chroot/
 > https://news.ycombinator.com/item?id=33526668
 

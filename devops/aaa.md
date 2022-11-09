@@ -630,6 +630,8 @@ https://github.com/sigoden/argc handy way to handle sh/bash cli parameters
 https://endoflife.date/
 > https://news.ycombinator.com/item?id=30499023
 
+https://endoflife.date/recommendations
+
 https://crooked-hideout.blogspot.com/2012/01/ableton-live-set-is-gzipped-xml-ruby.html
 > https://rubydoc.info/github/guard/guard/master/frames
 > https://news.ycombinator.com/item?id=30485195

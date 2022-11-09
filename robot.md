@@ -11,6 +11,8 @@ https://foxglove.dev/
 https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers
 
 # Drone
+https://www.theverge.com/2022/11/8/23447502/alphabet-wing-drones-doordash-air-logan-australia
+
 https://spectrum.ieee.org/edible-robots
 
 https://www.economist.com/britain/2022/07/21/a-superhighway-for-drones-to-fly-between-british-cities

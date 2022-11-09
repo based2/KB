@@ -249,6 +249,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+
 https://bernsteinbear.com/blog/inline-caches-in-skybison/
 > https://news.ycombinator.com/item?id=33517871
 

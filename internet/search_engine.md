@@ -77,6 +77,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://blog.kagi.com/age-pagerank-over
+> https://news.ycombinator.com/item?id=33537513
+
 https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9
 > https://news.ycombinator.com/item?id=33532158
 

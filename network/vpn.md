@@ -61,6 +61,8 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://www.theverge.com/2022/11/9/23448934/google-vpn-windows-mac-pc-desktop-support
+
 https://github.com/iCepa/iCepa
 
 https://github.com/cbeuw/Cloak

@@ -19,6 +19,9 @@ https://stackoverflow.com/questions/169453/bad-gateway-502-error-with-apache-mod
 
 https://dev.to/gwenshap/investigating-15s-http-response-time-in-aws-ecs-2gge
 
+# NAT
+https://www.reddit.com/r/aws/comments/yqkzax/just_released_alternat_a_high_availability_aws/
+
 # News
 https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/
 > https://www.reddit.com/r/aws/comments/x77115/serverless_messaging_latency_compared/

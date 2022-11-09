@@ -138,6 +138,9 @@ https://www.tweag.io/blog/2022-05-05-existential-optics/
 https://github.com/hemanth/functional-programming-jargon
 > https://news.ycombinator.com/item?id=31944352
 
+https://tromp.github.io/cl/Binary_lambda_calculus.html
+> https://news.ycombinator.com/item?id=33537663
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721

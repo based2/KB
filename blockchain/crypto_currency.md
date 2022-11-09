@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.coindesk.com/business/2022/11/09/cryptocom-halts-solana-usdc-and-usdt-deposits-withdrawals/
+> https://news.ycombinator.com/item?id=33537595
+
 https://news.ycombinator.com/item?id=33535161
 
 https://news.ycombinator.com/item?id=33520585
