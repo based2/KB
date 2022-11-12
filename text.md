@@ -126,6 +126,10 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://arxiv.org/abs/2211.05166 Grammatical Error Correction: A Survey of the State of the Art
+
+https://raphlinus.github.io/text/2022/11/08/minikin.html
+
 https://github.com/qntm/base2048 twitter
 
 https://github.com/kohlschutter/boilerpipe

@@ -220,6 +220,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.oreilly.com/radar/formal-informal-languages/
+
+https://www.quantamagazine.org/a-brain-inspired-chip-can-run-ai-with-far-less-energy-20221110/
+> https://news.ycombinator.com/item?id=33560018
+
+https://github.com/facebookresearch/nle
+> https://news.ycombinator.com/item?id=33571652
+
 https://tinygrad.org/
 > https://news.ycombinator.com/item?id=33462337
 

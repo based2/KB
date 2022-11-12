@@ -1,3 +1,14 @@
+https://vigilance.fr/vulnerabilite/Rust-tokio-corruption-de-memoire-via-Closed-Oneshot-Channel-39902
+
+https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/ sqllite
+> https://news.ycombinator.com/item?id=33546491
+
+https://www.openwall.com/lists/oss-security/2022/11/10/1 CVE-2022-45063: xterm <375 code execution via font ops
+> https://news.ycombinator.com/item?id=33546415
+
+https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-screen-bypass/
+> https://news.ycombinator.com/item?id=33544883
+
 https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-auth-bypass-bugs-in-remote-access-tool/
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-winget-package-manager-failing-due-to-cdn-issues/

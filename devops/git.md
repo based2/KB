@@ -271,6 +271,10 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/o2sh/onefetch Cli Git information tool to display project information and code statistics
+
+https://lwn.net/SubscriberLink/914041/4a512be97032a2f6/ Git evolve: tracking changes to changes
+
 https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html
 > https://news.ycombinator.com/item?id=33532062
 

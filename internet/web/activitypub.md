@@ -8,6 +8,9 @@ https://social.network.europa.eu/about/more
 https://axbom.com/fediverse/
 > https://news.ycombinator.com/item?id=33472622
 
+https://berk.es/2022/11/08/fediverse-inefficiencies/
+> https://news.ycombinator.com/item?id=33543376
+
 https://news.ycombinator.com/item?id=33482516 Ask HN: Which ActivityPub software to use for a personal server?
 
 https://join-lemmy.org/news/2022-11-02-_First_release_of_LemmyBB

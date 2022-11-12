@@ -47,6 +47,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://safing.io/
+
 https://github.com/ngrok/firewall_toolkit
 
 https://www.tweag.io/blog/2022-11-01-hard-user-separation-with-nixos/

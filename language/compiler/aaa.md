@@ -69,6 +69,8 @@ https://github.com/alt-romes/llvm-c-search
 
 https://github.com/wsmoses/Enzyme The Enzyme High-Performance Automatic Differentiator of LLVM
 
+https://news.ycombinator.com/item?id=33568081 LLVM-MOS 6502 Back end [pdf] (llvm.org)
+
 https://discourse.llvm.org/t/llvm-14-0-0-release/61224
 
 ## Clang

@@ -69,6 +69,8 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://electricbookworks.com/thinking/scale-of-the-web-authority-of-print/
+
 https://thereader.mitpress.mit.edu/the-new-art-of-making-books-on-bookworks/
 > https://news.ycombinator.com/item?id=33417088
 

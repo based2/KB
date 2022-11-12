@@ -77,6 +77,15 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://dsalaj.com/2022/10/25/similarity-search-and-deduplication.html
+> https://news.ycombinator.com/item?id=33567123
+
+https://appleinsider.com/articles/22/11/11/key-staff-driving-apple-search-engine-leave-to-rejoin-google
+> https://news.ycombinator.com/item?id=33561584
+
+https://underthehood.meltwater.com/blog/2022/11/11/how-we-upgraded-an-old-3pb-large-elasticsearch-cluster-without-downtime-part-1-introduction/
+> https://news.ycombinator.com/item?id=33562359
+
 https://blog.kagi.com/age-pagerank-over
 > https://news.ycombinator.com/item?id=33537513
 

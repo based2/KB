@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://www.kalzumeus.com/2022/11/11/tether-required-recapitalization-again/
+> https://news.ycombinator.com/item?id=33562902
+
 https://amycastor.com/2022/08/04/bitcoin-mining-in-the-crypto-crash-the-mining-companies-creative-accounting/
 > https://news.ycombinator.com/item?id=33437610
 

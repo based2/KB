@@ -8,12 +8,15 @@ https://tools.ietf.org/html/rfc2119
 
 https://www.rfc-editor.org/rfc/rfc8962.html
 
-https://www.bortzmeyer.org/rfcs.html`
+https://www.bortzmeyer.org/rfcs.html
 
 https://datatracker.ietf.org/doc/html/rfc6919#page-3
 
 https://tools.ietf.org/html/rfc1
 > https://news.ycombinator.com/item?id=26721377
+
+https://datatracker.ietf.org/doc/draft-ietf-quic-v2/
+> https://news.ycombinator.com/item?id=33550018
 
 https://mailarchive.ietf.org/arch/msg/cfrg/bgtU9USX4iPGsryrCayfQle4gZ8/
 

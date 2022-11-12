@@ -25,6 +25,9 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.pv-magazine.com/2022/11/09/hydrogen-producing-rooftop-solar-panels-nearing-commercialization/
+> https://news.ycombinator.com/item?id=33569895
+
 https://www.canarymedia.com/articles/air-travel/iceland-land-of-fire-and-ice-and-carbon-free-flights
 
 https://www.ruetir.com/2022/10/29/volkswagen-develops-hydrogen-car-that-can-travel-2000-kilometers-on-one-tank/?h2feed

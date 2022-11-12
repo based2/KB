@@ -11,6 +11,9 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://brushify.art/ watercolor filter
+> https://news.ycombinator.com/item?id=33561232
+
 https://pixelfed.org/
 
 https://www.the5to9.xyz/p/photopea-free-photoshop-alternative-making-millions

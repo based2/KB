@@ -41,6 +41,9 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://infosec.rodeo/posts/thoughts-on-aws-iam/
+> https://news.ycombinator.com/item?id=33566419
+
 https://www.firemon.com/aws-permission-boundaries-for-dummies/
 > https://news.ycombinator.com/item?id=33192295
 

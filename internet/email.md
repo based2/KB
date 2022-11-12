@@ -143,6 +143,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://notmuchmail.org/
+> https://news.ycombinator.com/item?id=33568388
+
 https://cgit.freebsd.org/src/commit/?id=a67b925ff3e58b072a60b633e442ee1d33e47f7f
 > https://news.ycombinator.com/item?id=33516918
 

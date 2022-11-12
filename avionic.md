@@ -16,6 +16,10 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.youtube.com/watch?v=zTFhnpf-IE0
+
+https://news.ycombinator.com/item?id=33573875
+
 https://taskandpurpose.com/tech-tactics/1983-negev-mid-air-collision/
 > https://news.ycombinator.com/item?id=33380680
 

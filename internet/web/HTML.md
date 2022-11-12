@@ -146,6 +146,11 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=33553895 i
+
+https://blog.jim-nielsen.com/2022/browsers-json-formdata/
+> https://news.ycombinator.com/item?id=33544323
+
 https://ericwbailey.website/published/aria-label-is-a-code-smell/
 > https://news.ycombinator.com/item?id=33409501
 

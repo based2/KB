@@ -25,6 +25,9 @@ https://dependencytrack.org/
 https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 
 #
+https://github.com/EISMGard/github-audit-tool
+> https://news.ycombinator.com/item?id=33555783
+
 https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.html
 
 https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/

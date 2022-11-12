@@ -243,6 +243,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/zaboople/klonk/blob/master/TheGURQ.md undo redo
+> https://news.ycombinator.com/item?id=33560275
+
 https://arxiv.org/abs/2207.12456 Overwatch: Learning Patterns in Code Edit Sequences
 
 https://ethanschoonover.com/solarized/

@@ -406,6 +406,15 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/
+> https://news.ycombinator.com/item?id=33552816
+
+https://github.com/dlrobertson/capsicum-rs
+> https://news.ycombinator.com/item?id=33545272
+
+https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html
+> https://news.ycombinator.com/item?id=33561855
+
 https://implfuture.dev/blog/rewriting-the-modern-web-in-rust
 > https://www.reddit.com/r/rust/comments/xur9wj/rewriting_the_modern_web_in_rust/
 

@@ -115,6 +115,9 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 #
+https://annamancini.substack.com/p/how-the-apple-archive-ended-up-at
+> https://news.ycombinator.com/item?id=33548131
+
 https://512pixels.net/2022/11/the-sad-saga-of-the-500-mhz-power-mac-g4/
 > https://news.ycombinator.com/item?id=33532523
 

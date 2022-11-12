@@ -23,5 +23,8 @@ https://emoji.supply/kitchen/
 
 https://mutant.tech/
 
+https://crocidb.com/post/rendering-doom-with-emojis/
+> https://news.ycombinator.com/item?id=33565697
+
 https://wh0.github.io/2020/01/02/scissors.html
 > https://news.ycombinator.com/item?id=33360171

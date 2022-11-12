@@ -24,6 +24,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://github.com/aleixrodriala/wa-tunnel whatsapp
+> https://news.ycombinator.com/item?id=33568994
+
 https://www.haproxy.org/download/1.2/doc/architecture.txt
 
 https://mitmproxy.org/posts/releases/mitmproxy9/

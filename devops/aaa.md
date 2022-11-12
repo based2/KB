@@ -244,6 +244,15 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://zihan.ga/post/gitpod-is-in-big-trouble
+> https://news.ycombinator.com/item?id=33569604
+
+https://blog.vivekhaldar.com/post/10669678292/size-is-the-best-predictor-of-code-quality
+> https://news.ycombinator.com/item?id=33566329
+
+https://dagger.io/blog/python-sdk
+> https://news.ycombinator.com/item?id=33546415
+
 https://www.prodvana.io/blog/declarative-configs
 > https://news.ycombinator.com/item?id=33535807
 

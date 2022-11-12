@@ -21,6 +21,9 @@ https://kimono-koans.github.io/git/
 https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-with-zfs/
 > https://news.ycombinator.com/item?id=33310207
 
+https://zfsbootmenu.org/
+> https://news.ycombinator.com/item?id=33571656
+
 # Distributed
 https://www.lustre.org/
 

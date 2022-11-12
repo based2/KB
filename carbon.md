@@ -59,6 +59,9 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://openenergymonitor.org/
+> https://news.ycombinator.com/item?id=33542171
+
 https://www.theverge.com/2022/11/9/23449935/nasa-jpss-2-polar-satellite-earth-launch
 
 https://www.technologyreview.com/2022/11/09/1062847/inside-alphabet-xs-new-effort-to-combat-climate-change-with-seagrass/

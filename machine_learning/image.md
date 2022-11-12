@@ -66,6 +66,10 @@ https://andys.page/posts/how-to-draw/
 https://rentry.co/sdupdates list
 > https://news.ycombinator.com/item?id=33416632
 
+https://news.ycombinator.com/item?id=33569094
+
+https://news.ycombinator.com/item?id=33539192 mobile
+
 https://vectorart.ai/
 > https://news.ycombinator.com/item?id=33308248
 

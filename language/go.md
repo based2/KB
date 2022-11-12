@@ -97,6 +97,12 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://go.dev/blog/13years
+> https://news.ycombinator.com/item?id=33557611
+
+https://github.com/Dominic-Wassef/ghostly gpl
+> https://news.ycombinator.com/item?id=33570575
+
 https://teivah.medium.com/maps-and-memory-leaks-in-go-a85ebe6e7e69
 > https://news.ycombinator.com/item?id=33516297
 

@@ -1,3 +1,6 @@
+https://www.nature.com/articles/d41586-022-03689-2
+> https://news.ycombinator.com/item?id=33569029
+
 https://news.ycombinator.com/item?id=33192074
 
 https://www.quantamagazine.org/mathematicians-find-a-new-class-of-digitally-delicate-primes-20210330/
@@ -8,6 +11,8 @@ https://vimeo.com/ondemand/cficc Counting From Infinity: Yitang Zhang and the Tw
 
 https://www.quantamagazine.org/mathematicians-clear-hurdle-in-quest-to-decode-prime-numbers-20220113/
 > https://news.ycombinator.com/item?id=29929935
+
+http://www.novaspivack.com/science/we-have-discovered-a-new-pattern-in-the-prime-numbers-parallax-compression
 
 https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/
 > https://news.ycombinator.com/item?id=30564287

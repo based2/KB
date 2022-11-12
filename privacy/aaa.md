@@ -99,6 +99,10 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.wired.com/story/big-information-relx-privacy-surveillance-data/
+
+https://gizmodo.com/apple-iphone-privacy-analytics-class-action-suit-1849774313
+
 https://twitter.com/mysk_co/status/1588308341780262912
 > https://news.ycombinator.com/item?id=33520775
 

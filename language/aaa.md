@@ -297,6 +297,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/wa-lang/wa 凹语言-专注于 WASM 平台的简单、可维护的编译型通用语言 Simple, maintainable, compiled language for developing WebAssembly software
+> https://news.ycombinator.com/item?id=33544641
+
+https://nim-lang.org/blog/2022/11/11/a-cost-model-for-nim.html
+> https://news.ycombinator.com/item?id=33558526
+
 https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/
 > https://news.ycombinator.com/item?id=33516422
 

@@ -75,6 +75,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11
+> https://news.ycombinator.com/item?id=33572787
+
 https://arstechnica.com/gadgets/2020/08/hbo-max-cranks-up-the-widevine-drm-leaves-linux-users-in-the-cold/
 > https://news.ycombinator.com/item?id=33482767
 

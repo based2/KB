@@ -26,6 +26,9 @@ https://news.ycombinator.com/item?id=26533270
 -> New pattern matching
 
 # Async
+https://superfastpython.com/python-asyncio/
+> https://news.ycombinator.com/item?id=33547323
+
 https://github.com/klen/py-frameworks-bench
 
 https://mnemic.readthedocs.io/en/main/index.html
@@ -249,6 +252,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://news.ycombinator.com/item?id=33547813
+
 https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
 
 https://bernsteinbear.com/blog/inline-caches-in-skybison/

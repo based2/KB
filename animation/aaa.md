@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://oimo.io/works/bubbles/
+> https://news.ycombinator.com/item?id=33566924
+
+https://crowd-jpeg.vercel.app/
+> https://news.ycombinator.com/item?id=33566897
+
 https://textshader.com/
 > https://news.ycombinator.com/item?id=33501177
 

@@ -62,3 +62,5 @@ https://www.autoweek.com/news/technology/a41012991/toyota-hydrogen-truck-prototy
 
 https://gitlab.com/traffxml
 > https://news.ycombinator.com/item?id=33272373
+
+https://news.ycombinator.com/item?id=33558072

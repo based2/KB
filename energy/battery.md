@@ -7,6 +7,15 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.tesla.com/blog/opening-north-american-charging-standard
+> https://news.ycombinator.com/item?id=33564558
+
+https://www.mnemonic.io/resources/blog/reverse-engineering-an-ev-charger/
+> https://news.ycombinator.com/item?id=33564088
+
+https://www.bbc.com/future/article/20221110-how-australia-became-the-worlds-greatest-lithium-supplier
+> https://news.ycombinator.com/item?id=33561916
+
 https://www.theregister.com/2022/10/31/car_battery_cartel_proposal/
 
 https://www.scanofthemonth.com/scans/batteries

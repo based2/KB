@@ -145,6 +145,9 @@ https://questdb.io/blog/2022/09/12/importing-3m-rows-with-io-uring/
 
 https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission
 
+https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822
+> https://news.ycombinator.com/item?id=33540091
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -241,8 +244,11 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://arxiv.org/abs/2211.05118 Mapping Out the HPC Dependency Chaos
+> https://news.ycombinator.com/item?id=33562265
+> > https://spack.io/
+
 https://blog.nandankumar.info/system-design-domain-name-system-dns-load-balancing-clustering
->
 
 https://cohost.org/jamesmunns/post/167078-systems-engineering
 > https://news.ycombinator.com/item?id=33439052

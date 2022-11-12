@@ -52,6 +52,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/
+> https://news.ycombinator.com/item?id=33562163
+
+https://blog.freeradical.zone/post/surviving-thriving-through-2022-11-05-meltdown/
+> https://news.ycombinator.com/item?id=33571275
+
 https://news.ycombinator.com/item?id=33511016
 
 https://jfm.carcosa.net/blog/computing/usenet/

@@ -65,6 +65,10 @@ https://www.researchgate.net/publication/319392963_A_Swingogram_Representation_f
 
 https://kindofbloop.com/
 
+https://www.nature.com/articles/s42005-022-00995-z Downbeat delays are a key component of swing in jazz
+> https://news.ycombinator.com/item?id=33562244
+> > https://nld-intern.ds.mpg.de/swingratio/
+
 # Electronic
 
 https://www.vitling.xyz/toys/acid-banger/
@@ -167,6 +171,12 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://openmpt.org/
+> https://news.ycombinator.com/item?id=33543135
+
+https://the.scapegoat.dev/turning-music-into-a-chore-is-what-made-me-an-artist/
+> https://news.ycombinator.com/item?id=33545349
+
 https://www.cell.com/current-biology/fulltext/S0960-9822(22)01535-4
 > https://news.ycombinator.com/item?id=33519700
 

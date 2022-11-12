@@ -112,6 +112,14 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://github.com/yarrick/iodine
+> https://news.ycombinator.com/item?id=33569653
+
+https://en.wikipedia.org/wiki/Domain_fronting
+
+http://nic.bestbuy/
+> https://news.ycombinator.com/item?id=33568059
+
 https://blog.apnic.net/2019/11/12/stop-using-ridiculously-low-dns-ttls/
 > https://news.ycombinator.com/item?id=33527642
 

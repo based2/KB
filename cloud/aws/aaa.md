@@ -80,6 +80,9 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/
+> https://news.ycombinator.com/item?id=33559132
+
 https://aws.amazon.com/en/blogs/aws/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/
 
 https://aws.amazon.com/en/blogs/aws/a-new-aws-region-opens-in-switzerland/

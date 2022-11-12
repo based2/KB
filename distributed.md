@@ -139,6 +139,9 @@ https://github.com/logsem/aneris coq, ocaml
 # concurrencyngs
 
 # News
+https://blog.the-pans.com/discover-paxos/
+> 
+
 https://www.youtube.com/watch?v=cNICGEwmXLU "Systems that run forever self-heal and scale" by Joe Armstrong (2013)
 
 https://cloudblogs.microsoft.com/opensource/2018/12/13/introducing-ambrosia-new-platform-distributed-applications/

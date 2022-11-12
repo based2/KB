@@ -23,6 +23,41 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.youtube.com/watch?v=2D5PcagsgDQ
+
+https://news.ycombinator.com/item?id=33574025
+
+https://news.ycombinator.com/item?id=33570274
+
+https://news.ycombinator.com/item?id=33556712
+
+https://news.ycombinator.com/item?id=33547863
+
+https://www.coindesk.com/markets/2022/11/11/cryptocom-preliminary-audit-shows-that-20-of-its-assets-are-in-shiba-inu-coin/
+> https://news.ycombinator.com/item?id=33567276
+
+https://www.reuters.com/technology/ftx-says-will-file-us-bankruptcy-latest-blow-crypto-2022-11-11/
+> https://news.ycombinator.com/item?id=33561234
+
+https://bam.kalzumeus.com/archive/demystifying-financial-leverage/ 
+
+https://news.ycombinator.com/item?id=33572187
+
+https://www.theatlantic.com/technology/archive/2022/11/sam-bankman-fried-bankruptcy-crypto-ftx/672104/
+
+https://arxiv.org/abs/2201.07220 Do not rug on me: Zero-dimensional Scam Detection - Uniswap
+> https://news.ycombinator.com/item?id=33572361
+
+https://www.coindesk.com/business/2022/11/12/ftx-crypto-wallets-see-mysterious-late-night-outflows-totalling-more-than-380m/
+> https://news.ycombinator.com/item?id=33570274
+
+https://www.businessinsider.com/ftx-investor-sequoia-removes-sam-bankman-fried-profile-2022-11?r=US&IR=T
+> https://news.ycombinator.com/item?id=33571734
+
+https://news.ycombinator.com/item?id=33547102
+
+https://news.ycombinator.com/item?id=33549059
+
 https://www.coindesk.com/business/2022/11/09/cryptocom-halts-solana-usdc-and-usdt-deposits-withdrawals/
 > https://news.ycombinator.com/item?id=33537595
 

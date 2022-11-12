@@ -62,6 +62,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://mastodon.archive.org/about/more
+> https://news.ycombinator.com/item?id=33566346
+
 http://discmaster.textfiles.com/
 > https://news.ycombinator.com/item?id=33255458
 

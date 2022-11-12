@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/
+> https://news.ycombinator.com/item?id=33569719
+
 https://www.world-nuclear-news.org/Articles/Watts-Bar-2-steam-generator-replacement-completed
 
 https://transparency.entsoe.eu/
