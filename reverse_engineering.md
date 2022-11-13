@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html
+> https://news.ycombinator.com/item?id=33585673
+
 https://not-matthias.github.io/posts/discord-party-mode/
 > https://news.ycombinator.com/item?id=33521819
 

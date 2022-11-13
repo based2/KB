@@ -51,3 +51,5 @@ https://wolthera.info/2022/10/svg-text-layout-for-krita/
 
 https://blog.noredink.com/post/699829728548372480/svgs-as-elm-code
 > https://news.ycombinator.com/item?id=33444832
+
+https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html

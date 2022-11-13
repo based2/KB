@@ -65,6 +65,9 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://perl.plover.com/Regex/article.html
+> https://news.ycombinator.com/item?id=33568887
+
 https://patents.google.com/patent/US3568156A/en Ken Thompson's NFA regex patent (1971)
 > https://news.ycombinator.com/item?id=33566557
 

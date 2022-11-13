@@ -118,6 +118,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm
+> https://news.ycombinator.com/item?id=33585154
+
 https://discourse.llvm.org/t/rfc-mdl-a-micro-architecture-description-language-for-llvm/66409
 > https://news.ycombinator.com/item?id=33508776
 

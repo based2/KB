@@ -139,8 +139,9 @@ https://github.com/logsem/aneris coq, ocaml
 # concurrencyngs
 
 # News
+https://martin.kleppmann.com/2022/10/12/verifying-distributed-systems-isabelle.html
+
 https://blog.the-pans.com/discover-paxos/
-> 
 
 https://www.youtube.com/watch?v=cNICGEwmXLU "Systems that run forever self-heal and scale" by Joe Armstrong (2013)
 

@@ -149,6 +149,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.space.com/space-force-x-37b-space-plane-otv-6-mission-ends
+> https://news.ycombinator.com/item?id=33575551
+
 https://orbitalindex.com/archive/2022-11-09-Issue-193/
 
 https://en.m.wikipedia.org/wiki/Michael_D._Griffin

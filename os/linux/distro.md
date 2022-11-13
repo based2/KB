@@ -71,6 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos
+> https://news.ycombinator.com/item?id=33581708
+
 https://www.theregister.com/2022/11/09/canonical_conference/?td=rt-3a
 
 https://www.telecomtv.com/content/digital-platforms-services/rakuten-dumps-red-hat-turns-to-true-open-source-linux-os-45803/

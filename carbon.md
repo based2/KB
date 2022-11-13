@@ -59,6 +59,15 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/
+> https://news.ycombinator.com/item?id=33575425
+
+https://theconversation.com/global-carbon-emissions-at-record-levels-with-no-signs-of-shrinking-new-data-shows-humanity-has-a-monumental-task-ahead-193108
+
+https://apnews.com/article/space-launches-europe-united-nations-climate-and-environment-5f55e91792c1ab5889a80575b1084d0e
+
+https://apnews.com/article/technology-science-business-sally-ride-a596bcb1d8983877c91aff6c98d7aa9a
+
 https://openenergymonitor.org/
 > https://news.ycombinator.com/item?id=33542171
 

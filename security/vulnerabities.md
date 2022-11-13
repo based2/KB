@@ -194,6 +194,8 @@ https://en.wikipedia.org/wiki/DROWN_attack TLS RSA
 https://en.wikipedia.org/wiki/Mirai_(malware)
 
 ## 2015
+https://en.wikipedia.org/wiki/Hyperjacking
+
 https://en.wikipedia.org/wiki/Row_hammer
 
 https://en.wikipedia.org/wiki/Logjam_(computer_security) Diffie–Hellman key exchange

@@ -220,6 +220,13 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.benfrederickson.com/numerical-optimization/
+
+https://philosophybear.substack.com/p/language-models-are-nearly-agis-but
+> https://news.ycombinator.com/item?id=33585693
+
+https://socialwarming.substack.com/p/the-approaching-tsunami-of-addictive
+
 https://www.oreilly.com/radar/formal-informal-languages/
 
 https://www.quantamagazine.org/a-brain-inspired-chip-can-run-ai-with-far-less-energy-20221110/

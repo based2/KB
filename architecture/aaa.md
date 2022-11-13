@@ -244,6 +244,11 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.fearofoblivion.com/build-a-modular-monolith-first
+> https://news.ycombinator.com/item?id=33585104
+
+https://medium.com/@kris-nova/hachyderm-infrastructure-74f518bc7472
+
 https://arxiv.org/abs/2211.05118 Mapping Out the HPC Dependency Chaos
 > https://news.ycombinator.com/item?id=33562265
 > > https://spack.io/

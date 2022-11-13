@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://bevyengine.org/news/bevy-0-9/
+
 https://www.theverge.com/2022/11/9/23449382/microsoft-directstorage-1-1-gpu-decompression-load-times-drivers-official
 
 https://news.ycombinator.com/item?id=33453547 Ask HN: Why don't games allow you to automate some gameplay via programming?

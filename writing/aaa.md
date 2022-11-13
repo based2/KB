@@ -69,6 +69,9 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes
+> https://news.ycombinator.com/item?id=33586129
+
 https://electricbookworks.com/thinking/scale-of-the-web-authority-of-print/
 
 https://thereader.mitpress.mit.edu/the-new-art-of-making-books-on-bookworks/

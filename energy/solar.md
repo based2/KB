@@ -16,6 +16,11 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.fastcompany.com/90806146/solar-panel-waste-may-not-be-nearly-as-bad-as-we-once-thought
+> https://news.ycombinator.com/item?id=33584765
+
+https://jelleseegers.com/
+
 https://electrek.co/2022/11/08/france-require-parking-lots-be-covered-in-solar-panels/
 > https://news.ycombinator.com/item?id=33534232
 

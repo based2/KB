@@ -17,6 +17,9 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency
+> https://news.ycombinator.com/item?id=33581983
+
 https://www.jetstack.io/blog/announcing-paranoia/
 > https://news.ycombinator.com/item?id=33245457
 

@@ -1,3 +1,14 @@
+https://www.mandiant.com/resources/blog/esxi-hypervisors-malware-persistence
+
+https://codeberg.org/shufflecake
+
+https://util.unicode.org/UnicodeJsps/confusables.jsp
+
+https://github.com/sweetalert2/sweetalert2/issues/2552
+
+https://blog.acolyer.org/2020/11/16/pigasus/
+> https://news.ycombinator.com/item?id=33578550
+
 https://vigilance.fr/vulnerabilite/Rust-tokio-corruption-de-memoire-via-Closed-Oneshot-Channel-39902
 
 https://blog.trailofbits.com/2022/11/10/divergent-representations-variable-overflows-c-compiler/ sqllite

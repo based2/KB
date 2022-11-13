@@ -73,3 +73,9 @@ https://www.vox.com/the-goods/23433132/best-bottled-water-is-tap-environment-hea
 
 https://lite.cnn.com/en/article/h_a1fc0bf7958049a62752160ff8ac5878
 > https://news.ycombinator.com/item?id=33492181
+
+https://www.space.com/greenland-ice-melting-satellite-data-climate-change
+
+https://hal.archives-ouvertes.fr/hal-00298762/document Biotic pump of atmospheric moisture as driver of the hydrological cycle on land
+
+https://en.wikipedia.org/wiki/Flying_river

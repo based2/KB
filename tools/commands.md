@@ -44,6 +44,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://ananthakumaran.in/2022/11/12/trace-http-requests.html
+> https://news.ycombinator.com/item?id=33570334
+
 https://github.com/asdf-vm/asdf/blob/master/test/banned_commands.bats
 > https://news.ycombinator.com/item?id=33384006
 

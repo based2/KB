@@ -51,6 +51,10 @@ https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam
 https://aws-controllers-k8s.github.io/community/docs/community/overview/
 
 #
+https://aws.amazon.com/en/blogs/containers/implementing-pod-security-standards-in-amazon-eks/
+
+https://aws.amazon.com/en/blogs/containers/multi-cluster-management-for-kubernetes-with-cluster-api-and-argo-cd/
+
 https://aws.amazon.com/en/blogs/containers/reducing-aws-fargate-startup-times-with-zstd-compressed-container-images/
 
 https://aws.amazon.com/en/blogs/mt/announcing-aws-observability-accelerator-to-configure-comprehensive-observability-for-amazon-eks/

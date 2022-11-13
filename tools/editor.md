@@ -195,6 +195,9 @@ https://lists.gnu.org/archive/html/emacs-devel/2022-10/msg01609.html
 https://github.com/rougier/nano-emacs
 > https://news.ycombinator.com/item?id=33403169
 
+https://xenodium.com/emacs-quick-kill-process/
+> https://news.ycombinator.com/item?id=33578948
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -243,6 +246,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://viewsourcecode.org/snaptoken/kilo/
+> https://news.ycombinator.com/item?id=33581856
+
 https://github.com/zaboople/klonk/blob/master/TheGURQ.md undo redo
 > https://news.ycombinator.com/item?id=33560275
 

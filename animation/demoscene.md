@@ -29,3 +29,5 @@ https://www.pouet.net/prod.php?which=83222 MySQL Raytracer
 
 https://milkytracker.org/
 > https://news.ycombinator.com/item?id=33462695
+
+https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/

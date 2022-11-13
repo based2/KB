@@ -171,6 +171,9 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 > https://news.ycombinator.com/item?id=30467328
 
 # News
+https://observablehq.com/@toja/euclidean-rhythms
+> https://news.ycombinator.com/item?id=33580074
+
 https://openmpt.org/
 > https://news.ycombinator.com/item?id=33543135
 

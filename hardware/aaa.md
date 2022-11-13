@@ -160,6 +160,8 @@ https://blog.seas.upenn.edu/rethinking-the-computer-chip-in-the-age-of-ai/
 https://www.makeuseof.com/best-dumb-tvs/
 > https://news.ycombinator.com/item?id=33141439
 
+https://frame.work/de/en/blog/in-defense-of-dumb-tvs
+
 https://michael.stapelberg.ch/posts/2022-10-09-remote-power-button/
 > https://news.ycombinator.com/item?id=33141517
 

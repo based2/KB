@@ -29,6 +29,15 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+http://www.icrobotics.co.uk/wiki/index.php/Turning_the_Raspberry_Pi_Into_an_FM_Transmitter
+> https://news.ycombinator.com/item?id=33572912
+
+https://forum.krakenrf.com/t/where-has-the-passive-radar-code-gone/98
+> https://news.ycombinator.com/item?id=33581696
+> > https://github.com/mfkiwl/krakensdr_pr
+
+https://destevez.net/2022/11/using-gse-and-dvb-s2-for-ip-traffic/
+
 https://destevez.net/2022/10/decoding-integral/
 > https://news.ycombinator.com/item?id=33396988
 

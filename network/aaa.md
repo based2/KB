@@ -114,6 +114,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://book.systemsapproach.org/
+
 https://www.youtube.com/watch?v=xxRAppnmirY rh ebpf
 > https://github.com/redhat-et/bpfd
 > bpfctl

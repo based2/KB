@@ -406,6 +406,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://karimjedda.com/carefully-exploring-rust/
+> https://news.ycombinator.com/item?id=33581901
+
 https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/
 > https://news.ycombinator.com/item?id=33552816
 

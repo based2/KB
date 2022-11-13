@@ -14,6 +14,8 @@ http://ipfs.io/ Kademlia + BitTorrent
 > > https://news.ycombinator.com/item?id=29656139
 > https://nitter.1d4.us/fiatjaf/status/1289246273669697536
 
+https://ipfs-gateway.cloud/
+
 https://blog.ipfs.io/2021-06-10-guide-to-ipfs-connectivity-in-browsers/
 > https://news.ycombinator.com/item?id=30440410
 

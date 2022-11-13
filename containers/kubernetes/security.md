@@ -66,6 +66,9 @@ https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf817
 https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-accounts-using-akeyless-vault-platform/
 
 # News
+https://github.com/jodevsa/wireguard-operator
+> https://www.reddit.com/r/kubernetes/comments/ytevgz/wireguard_operator/
+
 https://blog.rewanthtammana.com/kubernetes-crd-validation-with-cel-and-kubebuilder-marker-comments
 
 https://sysdig.com/blog/how-to-honeypot-vcluster-falco/

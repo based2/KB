@@ -247,6 +247,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/
+> https://news.ycombinator.com/item?id=33579365
+
 https://github.com/bumble-tech/private-detector
 
 https://arxiv.org/abs/2211.01324

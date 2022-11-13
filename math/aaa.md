@@ -109,6 +109,9 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://johnhw.github.io/umap_primes/index.md.html
+> https://news.ycombinator.com/item?id=33580136
+
 https://news.ycombinator.com/item?id=33512338
 
 https://mathstodon.xyz/tags/proofInAToot

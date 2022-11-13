@@ -42,6 +42,8 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://www.reddit.com/r/java/comments/yjtwhc/virtual_threads_work_great_until_something_goes/
+
 https://vertx.io/blog/eclipse-vert-x-4-3-4/
 > https://github.com/vert-x3/vertx-virtual-threads-incubator
 

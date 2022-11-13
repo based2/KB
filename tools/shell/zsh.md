@@ -14,5 +14,8 @@ https://z.digitalclouds.dev/community/zsh_plugin_standard/
 
 https://www.stefanjudis.com/today-i-learned/suffix-aliases-in-zsh/
 
+https://pickard.cc/posts/why-does-zsh-start-slowly/
+> https://news.ycombinator.com/item?id=33580350
+
 https://scriptingosx.com/2019/06/moving-to-zsh/
 > https://news.ycombinator.com/item?id=32186638
