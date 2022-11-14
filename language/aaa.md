@@ -297,6 +297,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://publi.codes/
+> https://news.ycombinator.com/item?id=33597723
+
 https://github.com/wa-lang/wa 凹语言-专注于 WASM 平台的简单、可维护的编译型通用语言 Simple, maintainable, compiled language for developing WebAssembly software
 > https://news.ycombinator.com/item?id=33544641
 

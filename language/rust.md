@@ -279,6 +279,9 @@ https://seri.tools/blog/announcing-rust9x/ Rust9x: Compile Rust code for Windows
 
 https://github.com/google/crubit/blob/main/docs/design.md High-level design of C++/Rust interop
 
+https://slint-ui.com/blog/rust-and-cpp.html
+> https://news.ycombinator.com/item?id=33590308
+
 ## MacOs
 https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
 > https://news.ycombinator.com/item?id=27467453
@@ -406,6 +409,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://github.com/rust-lang/datafrog
+> https://news.ycombinator.com/item?id=33583508
+
 https://karimjedda.com/carefully-exploring-rust/
 > https://news.ycombinator.com/item?id=33581901
 

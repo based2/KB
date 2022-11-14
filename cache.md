@@ -38,6 +38,9 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html
+> https://news.ycombinator.com/item?id=33596546
+
 https://en.algorithmica.org/hpc/cpu-cache/associativity/
 
 https://github.com/twitter/pelikan Twitter's unified cache backend

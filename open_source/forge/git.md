@@ -29,6 +29,9 @@ https://github.com/ssdong/git-command-visualizer Scala
 https://sourcehut.org/blog/2021-03-15-whats-cooking-march-2021/
 
 #
+https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html
+> https://news.ycombinator.com/item?id=33592381
+
 https://blog.gitea.io/2022/10/a-message-from-lunny-on-gitea-ltd.-and-the-gitea-project/
 > https://news.ycombinator.com/item?id=33394280
 

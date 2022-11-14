@@ -71,6 +71,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://github.com/picolibc/picolibc
+> https://news.ycombinator.com/item?id=33596966
+
 https://vorpus.org/blog/why-does-calloc-exist/
 > https://news.ycombinator.com/item?id=33579884
 

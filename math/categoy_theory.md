@@ -27,3 +27,6 @@ https://www.quantamagazine.org/with-category-theory-mathematics-escapes-from-equ
 https://1lab.dev/
 
 https://news.ycombinator.com/item?id=33423474
+
+https://topology.mitpress.mit.edu/
+> https://news.ycombinator.com/item?id=33601318

@@ -6,6 +6,9 @@ https://www.fpcomplete.com/blog/pains-path-parsing/
 https://news.ycombinator.com/item?id=26991332
 
 #
+https://datatracker.ietf.org/doc/html/draft-sporny-hashlink-07
+> https://news.ycombinator.com/item?id=33597657
+
 https://github.com/aydinnyunus/exifLooter finds geolocation on all image urls and directories
 > https://news.ycombinator.com/item?id=32286730
 

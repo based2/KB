@@ -252,6 +252,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://docs.hylang.org/en/stable/tutorial.html
+> https://news.ycombinator.com/item?id=33600941
+
+https://www.benfrederickson.com/python-catastrophic-regular-expressions-and-the-gil/
+> https://news.ycombinator.com/item?id=33582664
+
 https://peps.python.org/pep-0632/ Deprecate distutils module
 
 https://news.ycombinator.com/item?id=33547813

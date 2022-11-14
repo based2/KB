@@ -220,6 +220,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://vickiboykis.com/2022/11/10/how-i-learn-machine-learning/
+
 https://www.benfrederickson.com/numerical-optimization/
 
 https://philosophybear.substack.com/p/language-models-are-nearly-agis-but

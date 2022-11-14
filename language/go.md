@@ -97,6 +97,12 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://levelup.gitconnected.com/why-i-switched-from-rust-to-go-on-the-backend-28bda21dbee9
+> https://news.ycombinator.com/item?id=33595149
+
+https://hmarr.com/blog/go-allocation-hunting/
+> https://news.ycombinator.com/item?id=33594676
+
 https://go.dev/blog/13years
 > https://news.ycombinator.com/item?id=33557611
 

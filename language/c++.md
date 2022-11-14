@@ -29,6 +29,9 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://pabloariasal.github.io/2022/11/12/couring-1/
+> https://news.ycombinator.com/item?id=33583766
+
 https://mariusbancila.ro/blog/2022/11/08/three-new-utility-functions-in-cpp23/
 > https://news.ycombinator.com/item?id=33529048
 

@@ -1,3 +1,15 @@
+https://www.reuters.com/technology/exclusive-russian-software-disguised-american-finds-its-way-into-us-army-cdc-2022-11-14/
+
+https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information
+> https://news.ycombinator.com/item?id=33590238
+
+https://www.mandiant.com/resources/blog/apt29-windows-credential-roaming
+> https://securityaffairs.co/wordpress/138322/apt/apt29-windows-credential-roaming.html
+> > https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-30170
+
+https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/
+> https://news.ycombinator.com/item?id=33594440
+
 https://www.mandiant.com/resources/blog/esxi-hypervisors-malware-persistence
 
 https://codeberg.org/shufflecake

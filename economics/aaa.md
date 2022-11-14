@@ -168,6 +168,9 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/
+> https://news.ycombinator.com/item?id=33598263
+
 https://www.bls.gov/charts/job-openings-and-labor-turnover/unemp-per-job-opening.htm
 > https://news.ycombinator.com/item?id=33453819
 

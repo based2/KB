@@ -106,6 +106,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://simonschreibt.de/wft/gif-like-a-pro/
+> https://news.ycombinator.com/item?id=33590382
+
+https://godotengine.org/article/movie-maker-mode-arrives-in-godot-4
+> https://news.ycombinator.com/item?id=33598256
+
 https://www.ctrl.blog/entry/jellyfin-vs-plex.html
 > https://news.ycombinator.com/item?id=33579209
 

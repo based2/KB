@@ -11,6 +11,8 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://github.com/danielgatis/rembg
+
 https://brushify.art/ watercolor filter
 > https://news.ycombinator.com/item?id=33561232
 

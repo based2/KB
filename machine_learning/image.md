@@ -247,6 +247,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://medium.com/voxel51/announcing-fiftyone-0-18-with-app-performance-improvements-sidebar-modes-and-custom-attributes-63d04dfa1116
+
 https://arstechnica.com/information-technology/2022/11/deviantart-upsets-artists-with-its-new-ai-art-generator-dreamup/
 > https://news.ycombinator.com/item?id=33579365
 

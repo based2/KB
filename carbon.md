@@ -3,6 +3,8 @@ https://skepticalscience.com/EmmissionsAcceleration.html
 https://www.climatechangetracker.org/
 > https://news.ycombinator.com/item?id=29295018
 
+https://climatetrace.org/map
+
 https://www.co2.earth/daily-co2
 
 https://www.oxygenlevels.org/
@@ -59,6 +61,15 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://www.ibm.com/uk-en/products/linuxone-emperor-4
+> https://news.ycombinator.com/item?id=33601144
+
+https://www.theguardian.com/books/2022/nov/14/the-big-idea-we-need-to-reverse-climate-change-not-just-stop-it
+
+https://www.npr.org/2022/11/13/1136376981/al-gore-climate-change
+> https://news.ycombinator.com/item?id=33594078
+> > https://climatetrace.org/map
+
 https://www.isi.edu/~hardaker/news/20221106-ietf-c02-analysis/
 > https://news.ycombinator.com/item?id=33575425
 

@@ -21,6 +21,11 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://divestos.org/
+> https://news.ycombinator.com/item?id=33599095
+
+https://mikeos.sourceforge.net/
+
 https://github.com/Zeal-Operating-System/ZealOS
 > https://news.ycombinator.com/item?id=33581333
 
