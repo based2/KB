@@ -1,4 +1,10 @@
+https://github.com/google/AFL
+
 https://github.com/dogancanbakir/pirebok
+
+https://blog.doyensec.com/2022/11/15/learning-ajp.html
+
+https://blog.impalabs.com/2211_hyperpom.html
 
 https://security.googleblog.com/2022/09/fuzzing-beyond-memory-corruption.html
 

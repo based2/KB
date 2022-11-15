@@ -23,6 +23,12 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.reuters.com/markets/currencies/banking-giants-new-york-fed-start-12-week-digital-dollar-pilot-2022-11-15/
+> https://news.ycombinator.com/item?id=33610372
+
+https://bettermarkets.org/newsroom/ftx-was-registered-with-and-licensed-by-the-cftc-which-failed-to-properly-regulate-or-supervise-it-and-its-innumerable-former-cftc-officials/
+> https://news.ycombinator.com/item?id=33605945
+
 https://www.youtube.com/watch?v=2D5PcagsgDQ
 
 https://news.ycombinator.com/item?id=33574025

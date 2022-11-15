@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://phys.org/news/2022-10-revolutionary-technique-hydrogen-efficiently.html
+> https://news.ycombinator.com/item?id=33611725
+
 https://www.waveswell.com/why-wave-power/
 
 https://www.wired.com/story/nord-stream-pipeline-explosion-dark-ships/

@@ -141,6 +141,11 @@ https://en.wikipedia.org/wiki/MNIST_database
 https://www.amazon.science/blog/amazon-releases-51-language-dataset-for-language-understanding
 > https://news.ycombinator.com/item?id=31097029
 
+https://news.ycombinator.com/item?id=33610834
+
+https://galactica.org/
+> https://news.ycombinator.com/item?id=33611265
+
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333
@@ -220,6 +225,12 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://jott.live/markdown/ml_pipes
+> https://news.ycombinator.com/item?id=33605547
+
+https://roberdam.com/en/wisper.html
+> https://news.ycombinator.com/item?id=33608437
+
 https://vickiboykis.com/2022/11/10/how-i-learn-machine-learning/
 
 https://www.benfrederickson.com/numerical-optimization/

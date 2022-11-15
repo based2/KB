@@ -47,6 +47,9 @@ https://www.bookstackapp.com/ php
 https://news.ycombinator.com/item?id=30392849
 
 # News
+https://twitter.com/wikiland/status/1592477366739415040
+> https://news.ycombinator.com/item?id=33609240
+
 https://lingualibre.org/wiki/LinguaLibre:Main_Page
 
 http://rcmap.hatnote.com/#en

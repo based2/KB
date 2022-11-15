@@ -64,6 +64,9 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://reasonstobecheerful.world/bamboo-building-construction-hong-kong/
+> https://news.ycombinator.com/item?id=33606916
+
 https://blog.frontiersin.org/2022/11/03/60-of-home-compostable-plastic-doesnt-fully-break-down-ending-up-in-our-soil/
 > https://news.ycombinator.com/item?id=33476960
 

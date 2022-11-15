@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://more.graphics/hexagon-pattern
+> https://news.ycombinator.com/item?id=33606820
+
+https://floor796.com/
+> https://news.ycombinator.com/item?id=33612401
+
 https://oimo.io/works/bubbles/
 > https://news.ycombinator.com/item?id=33566924
 

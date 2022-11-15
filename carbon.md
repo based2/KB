@@ -17,6 +17,10 @@ https://www.electricitymap.org/map
 
 https://en.wikipedia.org/wiki/European_Union_Emissions_Trading_System
 
+https://drawdown.org/
+
+https://laffairedusiecle.net/qui-sommes-nous/
+
 https://ember-climate.org/data/carbon-price-viewer/
 
 https://www.climeworks.com/

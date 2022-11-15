@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.21analytics.ch/blog/docker-from-scratch-for-rust-applications/
+>
+
 https://podman-desktop.io/
 > https://news.ycombinator.com/item?id=33536978
 

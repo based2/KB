@@ -29,6 +29,9 @@ https://github.com/ssdong/git-command-visualizer Scala
 https://sourcehut.org/blog/2021-03-15-whats-cooking-march-2021/
 
 #
+https://sourcehut.org/blog/2022-11-15-four-years/
+> https://news.ycombinator.com/item?id=33607098
+
 https://blog.codeberg.org/codeberg-is-moving-and-what-this-means-to-you.html
 > https://news.ycombinator.com/item?id=33592381
 

@@ -85,6 +85,8 @@ https://techcommunity.microsoft.com/t5/excel-blog/announcing-new-text-and-array-
 
 https://news.ycombinator.com/item?id=33317169
 
+https://news.ycombinator.com/item?id=33611431
+
 # Terminal
 https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md
 > https://news.ycombinator.com/item?id=26991887

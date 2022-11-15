@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.paypal.com/re/smarthelp/article/what-is-the-inactivity-fee-(eu-countries)-faq4427
+> https://news.ycombinator.com/item?id=33601868
+
 https://cbsaustin.com/news/local/up-to-30-of-online-reviews-are-fake-and-most-consumers-cant-tell-the-difference
 > https://news.ycombinator.com/item?id=33442487
 

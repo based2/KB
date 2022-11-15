@@ -1,3 +1,20 @@
+https://engineering.fb.com/2021/09/29/security/mariana-trench/
+
+https://hardenedvault.net/blog/2022-11-13-msg_msg-recon-mitigation-ved/
+
+https://www.wix.engineering/post/threat-and-vulnerability-hunting-with-application-server-error-logs
+
+https://portswigger.net/research/stealing-passwords-from-infosec-mastodon-without-bypassing-csp
+> https://www.reddit.com/r/netsec/comments/yvzaxb/stealing_passwords_from_infosec_mastodon_without/
+
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espionage-asia-governments-cert-authority
+> https://arstechnica.com/information-technology/2022/11/state-sponsored-hackers-in-china-compromise-certificate-authority/
+
+https://vigilance.fr/vulnerabilite/MIT-krb5-Samba-debordement-d-entier-via-krb5-parse-pac-39841
+
+https://theevilbit.github.io/posts/cve-2022-32929/ Bypass iOS backup's TCC protection
+> https://news.ycombinator.com/item?id=33611738
+
 https://www.reuters.com/technology/exclusive-russian-software-disguised-american-finds-its-way-into-us-army-cdc-2022-11-14/
 
 https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information

@@ -71,6 +71,11 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=33607994
+
+https://fedoramagazine.org/announcing-fedora-37/
+> https://news.ycombinator.com/item?id=33609387
+
 https://www.tomoliver.net/posts/using-an-slr-as-a-webcam-nixos
 > https://news.ycombinator.com/item?id=33581708
 

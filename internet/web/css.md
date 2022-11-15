@@ -208,6 +208,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://carlmultimedia.com/px-vs-rem-vs-em/
+> https://news.ycombinator.com/item?id=33605188
+
 https://frontendmastery.com/posts/the-evolution-of-scalable-css/
 > https://news.ycombinator.com/item?id=33572264
 

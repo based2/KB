@@ -21,6 +21,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://www.abortretry.fail/p/be-is-nice-end-of-story
+> https://news.ycombinator.com/item?id=33604498
+
 https://divestos.org/
 > https://news.ycombinator.com/item?id=33599095
 

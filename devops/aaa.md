@@ -127,6 +127,8 @@ https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-
 
 # Incidents
 
+https://www.jenkins.io/security/advisory/2022-11-15/
+
 https://www.reddit.com/r/Terraform/comments/ykiemv/terraform_cloud_is_down/
 
 https://about.gitlab.com/releases/2022/11/02/security-release-gitlab-15-5-2-released/

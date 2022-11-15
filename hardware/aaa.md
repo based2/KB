@@ -81,6 +81,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://posts.decontextualize.com/pocket-sp/
+> https://news.ycombinator.com/item?id=33612865
+
 https://www.phoronix.com/review/amd-epyc-9004-genoa
 > https://news.ycombinator.com/item?id=33553221
 

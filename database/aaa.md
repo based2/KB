@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly
+> https://news.ycombinator.com/item?id=33611759
+
 https://news.ycombinator.com/item?id=33345464
 
 https://github.com/gluesql/gluesql rust

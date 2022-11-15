@@ -149,6 +149,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/
+
+https://www.science.org/content/article/giant-satellite-outshines-stars-sparking-fresh-concerns-astronomers
+> https://news.ycombinator.com/item?id=33605626
+
 https://www.space.com/space-force-x-37b-space-plane-otv-6-mission-ends
 > https://news.ycombinator.com/item?id=33575551
 

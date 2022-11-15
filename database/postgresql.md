@@ -264,6 +264,8 @@ https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
 # News
+https://www.cybertec-postgresql.com/en/explain-that-parameterized-statement/
+
 https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/
 > https://news.ycombinator.com/item?id=33518443
 

@@ -29,5 +29,7 @@ https://stratechery.com/2022/thin-platforms/
 
 https://news.ycombinator.com/item?id=32763595
 
+https://news.ycombinator.com/item?id=33585201
+
 
 

@@ -52,6 +52,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://endpts.com/eli-lilly-pulls-millions-in-twitter-advertising-after-fake-account-debacle-report/
+> https://news.ycombinator.com/item?id=33597219
+
+https://www.computerworld.com/article/2373699/enterprise-software/6-stupid-mistakes-companies-make-with-their-online-communities.amp.html
+> https://news.ycombinator.com/item?id=33584319
+
 https://communityrule.info/
 
 https://nora.codes/post/scaling-mastodon-in-the-face-of-an-exodus/

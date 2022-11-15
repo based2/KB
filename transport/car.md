@@ -18,6 +18,12 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://apnews.com/article/technology-business-3a3816bd26418cc612d5b9b56d86f3a8
+> https://news.ycombinator.com/item?id=33609770
+
+https://ir.lucidmotors.com/news-releases/news-release-details/lucid-air-touring-and-air-pure-now-ready-road-market-leading/
+> https://news.ycombinator.com/item?id=33611477
+
 https://interestingengineering.com/innovation/lasers-trick-autonomous-cars-lidars
 
 https://arstechnica.com/cars/2022/10/teslas-autopilot-is-the-subject-of-a-federal-criminal-investigation/

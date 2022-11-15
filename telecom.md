@@ -127,6 +127,16 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.nict.go.jp/en/press/2022/11/10-1.html
+> https://news.ycombinator.com/item?id=33583802
+
+https://www.potaroo.net/ispcol/2022-11/optics.html
+> https://news.ycombinator.com/item?id=33583877
+
+https://www.apple.com/newsroom/2022/11/emergency-sos-via-satellite-available-today-on-iphone-14-lineup/
+> https://news.ycombinator.com/item?id=33608671
+> https://news.ycombinator.com/item?id=33611586
+
 https://www.theregister.com/2022/11/04/vonage_ftc_order/
 
 https://www.theverge.com/2022/11/4/23441356/starlink-data-caps-throttling-residential-internet-priority-basic-access

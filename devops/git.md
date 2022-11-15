@@ -271,6 +271,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/
+> https://news.ycombinator.com/item?id=33612410
+
 https://github.com/o2sh/onefetch Cli Git information tool to display project information and code statistics
 
 https://lwn.net/SubscriberLink/914041/4a512be97032a2f6/ Git evolve: tracking changes to changes

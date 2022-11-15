@@ -96,6 +96,9 @@ https://github.com/losfair/mvsqlite
 
 https://github.com/bloomberg/comdb2
 
+https://github.com/vlcn-io/cr-sqlite crdt
+> https://news.ycombinator.com/item?id=33606311
+
 # History
 https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701

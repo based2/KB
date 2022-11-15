@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://gizmodo.com/bitcoin-crypto-bank-of-international-settlements-1849784466
+> https://news.ycombinator.com/item?id=33610476
+
 https://www.kalzumeus.com/2022/11/11/tether-required-recapitalization-again/
 > https://news.ycombinator.com/item?id=33562902
 
