@@ -409,6 +409,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://arewestackefficientyet.com/
+> https://news.ycombinator.com/item?id=33637092
+
 https://github.com/lunatic-solutions/submillisecond-live-view
 > https://news.ycombinator.com/item?id=33610297
 

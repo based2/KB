@@ -86,6 +86,9 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://www.maria.cloud/
+> https://news.ycombinator.com/item?id=33622406
+
 https://github.com/phronmophobic/membrane ui
 > https://news.ycombinator.com/item?id=33566620
 

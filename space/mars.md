@@ -19,6 +19,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.sciencedaily.com/releases/2022/11/221117102806.htm
+> https://news.ycombinator.com/item?id=33643931
+
 https://www.theregister.com/2022/10/31/northern_mars_ocean/
 
 https://www.newscientist.com/article/2344445-quakes-on-mars-reveal-there-may-be-magma-beneath-the-surface/

@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://dsego.github.io/demystifying-fourier/
+> https://news.ycombinator.com/item?id=33636639
+
 https://www.campus-fm.com/
 > https://news.ycombinator.com/item?id=33608892
 

@@ -38,6 +38,9 @@ https://github.com/moyix/fauxpilot
 > https://news.ycombinator.com/item?id=32327711
 > > https://news.ycombinator.com/item?id=33210306
 
+https://joel.tools/codegen/
+> https://news.ycombinator.com/item?id=33632610
+
 https://replit.com/site/ghostwriter
 > https://news.ycombinator.com/item?id=33407199
 

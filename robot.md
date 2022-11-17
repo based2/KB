@@ -59,6 +59,14 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://abcnews.go.com/International/wireStory/israel-deploys-remote-controlled-robotic-guns-west-bank-93392154
+> https://news.ycombinator.com/item?id=33638699
+
+https://news.ycombinator.com/item?id=33630179
+
+https://news.cornell.edu/stories/2022/11/autonomous-robots-help-modernize-grape-wine-industry
+> https://news.ycombinator.com/item?id=33639351
+
 https://kayra.org/
 
 https://spectrum.ieee.org/robotic-surgery

@@ -149,6 +149,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://aktuelles.uni-frankfurt.de/englisch/cosmic-chocolate-pralines-general-neutron-star-structure-revealed/
+> https://news.ycombinator.com/item?id=33630819
+
 https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/
 
 https://www.science.org/content/article/giant-satellite-outshines-stars-sparking-fresh-concerns-astronomers

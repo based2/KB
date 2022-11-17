@@ -32,6 +32,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://www.percona.com/blog/get-your-backup-to-half-of-its-size-introducing-zstd-support-in-percona-xtrabackup/
+> https://news.ycombinator.com/item?id=33644798
+
 https://github.com/amadvance/snapraid
 > https://news.ycombinator.com/item?id=33440857
 

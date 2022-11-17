@@ -213,6 +213,11 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+http://leapsecond.com/java/gpsclock.htm
+> https://news.ycombinator.com/item?id=33620933
+
+https://news.ycombinator.com/item?id=33608004
+
 https://tylercipriani.com/blog/2022/10/17/whole-house-circadian-lighting-with-home-assistant/
 > https://news.ycombinator.com/item?id=33509282
 

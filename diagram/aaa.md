@@ -146,6 +146,9 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://github.com/wbkd/awesome-node-based-uis
+> https://news.ycombinator.com/item?id=33639610
+
 https://lmy.medium.com/7-tools-for-visualizing-a-codebase-41b7cddb1a14
 > https://github.com/pmsipilot/docker-compose-viz
 > https://github.com/scottrogowski/code2flow

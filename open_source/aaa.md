@@ -234,6 +234,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://puri.sm/posts/swinging-back-to-open-standards/
+> https://news.ycombinator.com/item?id=33642439
+
 https://taler.net/en/news/2022-11.html
 > https://news.ycombinator.com/item?id=33570478
 

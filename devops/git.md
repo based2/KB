@@ -271,6 +271,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://blog.waleedkhan.name/bringing-revsets-to-git/
+
 https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/
 > https://news.ycombinator.com/item?id=33612410
 

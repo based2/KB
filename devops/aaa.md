@@ -248,6 +248,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/
+> https://news.ycombinator.com/item?id=33646504
+
 https://zihan.ga/post/gitpod-is-in-big-trouble
 > https://news.ycombinator.com/item?id=33569604
 

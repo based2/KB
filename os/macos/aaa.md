@@ -59,6 +59,9 @@ https://worthdoingbadly.com/hv/
 https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/
 > https://news.ycombinator.com/item?id=33533132
 
+https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodate-an-intel-8080-artifact/
+> https://news.ycombinator.com/item?id=33635720
+
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 

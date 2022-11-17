@@ -1,3 +1,5 @@
+https://scs.community/
+
 https://www.cnpatterns.org/patterns-library
 
 https://www.schneier.com/blog/archives/2021/05/the-misaligned-incentives-for-cloud-security.html
@@ -224,6 +226,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://herrherrmann.net/migrating-1-terabyte-of-files-from-onedrive-to-nextcloud/
+> https://news.ycombinator.com/item?id=33637192
+
 https://cispe.cloud/cispe-files-complaint-against-microsoft-with-european-commission/
 > https://arstechnica.com/tech-policy/2022/11/microsoft-irreparably-damaging-eus-cloud-ecosystem-industry-group-claims/
 

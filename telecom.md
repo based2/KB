@@ -127,6 +127,10 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.zdnet.com/article/thanks-to-open-source-5g-cracks-50-of-the-telecom-market/
+
+https://arstechnica.com/tech-policy/2022/11/cable-companys-accidental-email-to-rival-discusses-plan-to-block-competition/
+
 https://www.nict.go.jp/en/press/2022/11/10-1.html
 > https://news.ycombinator.com/item?id=33583802
 

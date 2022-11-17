@@ -101,11 +101,17 @@ https://github.com/plewto/Pigiron
 # Annotation
 https://news.ycombinator.com/item?id=30968391
 
+# Search
+https://ramanlabs.in/static/videointel.html
+> https://news.ycombinator.com/item?id=33607401
+
 # Archive
 https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-free-online-thanks-to-the-korean-film-archive.html
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://news.ycombinator.com/item?id=33638975
+
 https://simonschreibt.de/wft/gif-like-a-pro/
 > https://news.ycombinator.com/item?id=33590382
 

@@ -23,6 +23,17 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://davidgerard.co.uk/blockchain/2022/11/17/declaration-of-john-jay-ray-ftx-is-worse-than-enron/
+
+https://twitter.com/deitaone/status/1593223502160875523
+> https://news.ycombinator.com/item?id=33638184
+
+https://www.axios.com/2022/11/17/crypto-dominoes-ftx-collapse-winklevoss-gemini-blockfi
+> https://news.ycombinator.com/item?id=33639397
+
+https://insideadviser.com.au/asx-drops-plan-to-replace-chess-with-blockchain-writes-off-250m/
+> https://news.ycombinator.com/item?id=33636607
+
 https://www.reuters.com/markets/currencies/banking-giants-new-york-fed-start-12-week-digital-dollar-pilot-2022-11-15/
 > https://news.ycombinator.com/item?id=33610372
 

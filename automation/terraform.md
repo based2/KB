@@ -132,6 +132,8 @@ https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 https://www.reddit.com/r/Terraform/comments/ye4igl/tf_in_azure_what_kind_of_azure_user_do_you_use_to/
 
 # News
+https://blog.cloudflare.com/terraforming-cloudflare-at-cloudflare/
+
 https://mazinahmed.net/blog/tfplan-release/
 > https://www.youtube.com/watch?v=8fnbkZwZsRg&t=1298s
 

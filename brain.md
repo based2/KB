@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://mind-vis.github.io/
+> https://news.ycombinator.com/item?id=33632337
+
 https://news.ycombinator.com/item?id=33590425
 
 https://www.nature.com/articles/s41562-022-01453-0

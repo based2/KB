@@ -1,3 +1,11 @@
+https://news.ycombinator.com/item?id=33621562
+
+https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/
+> https://news.ycombinator.com/item?id=33628562
+
+https://lists.gnu.org/archive/html/grub-devel/2022-11/msg00059.html
+> https://news.ycombinator.com/item?id=33642634
+
 https://engineering.fb.com/2021/09/29/security/mariana-trench/
 
 https://hardenedvault.net/blog/2022-11-13-msg_msg-recon-mitigation-ved/

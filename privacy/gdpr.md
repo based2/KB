@@ -60,6 +60,11 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=33644336
+
+https://www.cnil.fr/en/discord-inc-fined-800-000-euros
+> https://news.ycombinator.com/item?id=33637977
+
 https://news.ycombinator.com/item?id=33427004
 
 https://gitlab.adullact.net/soluris/madis

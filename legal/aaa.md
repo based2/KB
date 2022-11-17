@@ -57,6 +57,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://ffii.org/nokia-and-airbus-elected-as-judges-at-the-kangaroo-unified-patent-court-kupc/
+> https://news.ycombinator.com/item?id=33630823
+
 https://typographyforlawyers.com/
 > https://news.ycombinator.com/item?id=33510827
 

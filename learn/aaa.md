@@ -85,6 +85,9 @@ https://projecteuler.net/
 http://infolab.stanford.edu/~ullman/focs.html Foundations of Computer Science
 > https://news.ycombinator.com/item?id=30099634
 
+https://www.fecundity.com/logic/download.html
+> https://news.ycombinator.com/item?id=33622428
+
 # Meta
 https://metacognitive.me/memory-palace/
 > https://news.ycombinator.com/item?id=28640429

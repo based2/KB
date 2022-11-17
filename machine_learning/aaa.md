@@ -225,6 +225,15 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://ploomber.io/blog/experiment-tracking/
+>
+
+https://jmcdonnell.substack.com/p/the-near-future-of-ai-is-action-driven
+> https://news.ycombinator.com/item?id=33634570
+
+https://github.com/jataware/cartwright recurrent neural network paired with heuristic methods that automatically infer geospatial, temporal and feature columns
+> https://news.ycombinator.com/item?id=33640672
+
 https://jott.live/markdown/ml_pipes
 > https://news.ycombinator.com/item?id=33605547
 

@@ -12,6 +12,8 @@ https://libli.org/
 > https://news.ycombinator.com/item?id=30586171
  
 #
+https://matrix.org/blog/2022/11/17/matrix-v-1-5-release
+
 https://www.process-one.net/blog/matrix-protocol-added-to-ejabberd/
 > https://news.ycombinator.com/item?id=33190005
 
