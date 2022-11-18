@@ -59,6 +59,10 @@ http://janusgraph.org/
 
 https://memgraph.com/blog/lost-in-documentation-let-our-docs-recommendation-system-guide-you-along
 
+## Store
+https://github.com/quoll/asami clojure
+> https://news.ycombinator.com/item?id=33621939
+
 # Language
 
 https://jena.apache.org/tutorials/sparql.html

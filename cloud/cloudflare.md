@@ -3,6 +3,8 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://blog.cloudflare.com/d1-open-alpha/
+
 https://blog.cloudflare.com/snippets-announcement/
 
 https://blog.cloudflare.com/botnet-threat-feed-for-isp/

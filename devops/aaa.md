@@ -127,6 +127,10 @@ https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-
 
 # Incidents
 
+https://www.bleepingcomputer.com/news/security/researchers-release-exploit-details-for-backstage-pre-auth-rce-bug/
+
+https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-command-injection-bug-in-bitbucket-server/
+
 https://www.jenkins.io/security/advisory/2022-11-15/
 
 https://www.reddit.com/r/Terraform/comments/ykiemv/terraform_cloud_is_down/
@@ -248,6 +252,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/saml-to/devcontainer-features/blob/main/src/assume-aws-role/README.md
+
+https://blog.alexellis.io/blazing-fast-ci-with-microvms/
+> https://news.ycombinator.com/item?id=33656767
+
 https://engineering.fb.com/2022/11/16/culture/meta-code-review-time-improving/
 > https://news.ycombinator.com/item?id=33646504
 

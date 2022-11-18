@@ -52,6 +52,8 @@ https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/
 
 # Incident
 
+https://news.ycombinator.com/item?id=33659845
+
 https://blog.min.io/nutanix-objects-violates-minios-open-source-license/
 > https://news.ycombinator.com/item?id=32148007
 

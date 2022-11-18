@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.bbc.com/future/article/20221116-the-floating-solar-panels-that-track-the-sun
+> https://news.ycombinator.com/item?id=33656823
+
 https://www.fastcompany.com/90806146/solar-panel-waste-may-not-be-nearly-as-bad-as-we-once-thought
 > https://news.ycombinator.com/item?id=33584765
 

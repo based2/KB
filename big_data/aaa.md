@@ -255,6 +255,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.d3indepth.com/
+
 https://www.bkent.net/Doc/darxrp.htm
 > https://news.ycombinator.com/item?id=33563636
 

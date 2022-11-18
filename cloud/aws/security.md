@@ -22,7 +22,11 @@ https://notdodo.medium.com/aws-ec2-auto-scaling-privilege-escalation-d518f8e7f91
 
 https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 
+https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
+
 #
+https://www.reddit.com/r/aws/comments/yx9yr5/multiple_mfa_devices_in_iam_amazon_web_services/
+
 https://levelup.gitconnected.com/aws-client-side-encryption-with-kms-using-java-v2-sdk-and-s3-upload-73b525314a5b
 
 https://www.datadoghq.com/state-of-aws-security/

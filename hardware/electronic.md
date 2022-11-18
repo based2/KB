@@ -46,6 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://github.com/tbnobody/OpenDTU Software for ESP32 to talk to Hoymiles Inverters
+
 https://blog.thea.codes/starfish-a-control-board-with-the-rp2040/
 > https://news.ycombinator.com/item?id=33483141
 

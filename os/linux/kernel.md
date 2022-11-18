@@ -12,6 +12,11 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://blogs.oracle.com/linux/post/taming-tracepoints-in-the-linux-kernel
+
+https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/ Rust in the 6.2 kernel
+> https://news.ycombinator.com/item?id=33653409
+
 https://lwn.net/SubscriberLink/913568/435d437c9bf7edd3/ Better CPU selection for timer expiration
 > https://news.ycombinator.com/item?id=33517505
 

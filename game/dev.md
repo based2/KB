@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/
+
 https://bevyengine.org/news/bevy-0-9/
 
 https://www.theverge.com/2022/11/9/23449382/microsoft-directstorage-1-1-gpu-decompression-load-times-drivers-official

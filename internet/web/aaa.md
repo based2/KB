@@ -105,6 +105,8 @@ https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots
 
 https://crawlee.dev/
 
+https://news.ycombinator.com/item?id=33654177
+
 # News
 https://www.wired.com/story/submarine-internet-cables-egypt/
 

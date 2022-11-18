@@ -39,6 +39,9 @@ https://www.alexedwards.net/blog/i18n-managing-translations
 https://huseyinbabal.com/2021/11/14/maintainable-go-projects/
 > https://news.ycombinator.com/item?id=29217649
 
+https://google.github.io/styleguide/go/
+> https://news.ycombinator.com/item?id=33652343
+
 # Build
 https://stackoverflow.com/questions/24069664/what-does-go-install-do
 

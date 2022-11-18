@@ -89,6 +89,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system
+> 
+
 https://github.com/microsoft/TypeScript/pull/51387
 > https://news.ycombinator.com/item?id=33440030
 

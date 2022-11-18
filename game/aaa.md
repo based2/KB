@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://baseballgames.dreamhosters.com/BbDiceHome.htm
+> https://news.ycombinator.com/item?id=33654610
+
 https://github.com/victorqribeiro/fingerPool
 
 https://www.looneylabs.com/games/zendo

@@ -1,3 +1,7 @@
+https://www.cncf.io/blog/2022/11/10/murre-the-lightweight-k8s-metrics-monitoring-tool/
+
+https://www.cncf.io/blog/2022/10/25/opentelemetry-demo-now-generally-available/
+
 https://dzone.com/articles/searchable-logs-on-kubernetes-in-minutes
 
 https://www.reddit.com/r/kubernetes/comments/wk42l9/dont_do_this_with_your_k8s_health_checks/

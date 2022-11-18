@@ -45,6 +45,8 @@ https://blog.frankel.ch/maven-flatten-plugin/
 
 https://andresalmiray.com/a-pom-by-any-other-name/
 
+https://lists.apache.org/thread/6m8dg4os3of033d8lc4klyv85npggkg9 Apache Maven Install Plugin 3.1.0 Released
+
 https://lists.apache.org/thread/sgf3oxvc0o5wnblwq2plhhr3vzhy0tmz Apache Maven Shade Plugin 3.4.1
 
 https://lists.apache.org/thread/snnlfsk24wmdp8tp79b2k11ln34hk6ks Apache Maven 4.0.0-alpha-2 released

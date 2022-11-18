@@ -64,6 +64,17 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://metakube.com/docs/intro
+
+https://itnext.io/5-new-cncf-projects-to-watch-in-2023-af5234ba6e87
+> https://tlr.dev/
+> https://www.opencost.io/
+> https://openfunction.dev/
+> https://external-secrets.io/
+> https://clusterpedia.io/
+
+https://github.com/jetpack-io/launchpad
+
 https://github.com/datreeio/CRDs-catalog
 > https://news.ycombinator.com/item?id=33639307
 

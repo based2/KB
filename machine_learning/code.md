@@ -34,12 +34,15 @@ https://github.com/maxwell-bland/copilot-in-the-terminal
 https://github.blog/2022-09-07-research-quantifying-github-copilots-impact-on-developer-productivity-and-happiness/
 > https://news.ycombinator.com/item?id=32753213
 
-https://github.com/moyix/fauxpilot
+https://github.com/moyix/fauxpilot oss
 > https://news.ycombinator.com/item?id=32327711
 > > https://news.ycombinator.com/item?id=33210306
 
 https://joel.tools/codegen/
 > https://news.ycombinator.com/item?id=33632610
+
+https://github.com/abhagsain/ai-cli
+> https://news.ycombinator.com/item?id=33651326
 
 https://replit.com/site/ghostwriter
 > https://news.ycombinator.com/item?id=33407199

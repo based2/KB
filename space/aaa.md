@@ -16,17 +16,6 @@ https://www.mindat.org/
 
 https://www.youtube.com/watch?v=tLaUM2XbyJc Mars Mission Update: June 2021
 
-https://www.eso.org/public/archives/releases/sciencepapers/eso2014/eso2014a.pdf
-A triple star system with a misaligned and warped circumstellar disk shaped by disk tearing
-
-https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html
-
-https://stellarium.org/
-> https://news.ycombinator.com/item?id=30574809
-
-https://stellarium.org/release/2022/10/01/stellarium-1.0.html
-> https://news.ycombinator.com/item?id=33050270
-
 # Probe
 ## Voyager
 https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/
@@ -84,63 +73,7 @@ https://destevez.net/2021/08/an-update-about-change-5-whereabouts/
 
 https://destevez.net/2021/10/tianwen-1-communications-relay-orbit/
 
-# Physic
-## Astronomy
-
-https://jwst.nasa.gov/content/webbLaunch/deploymentExplorer.html
-
-https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html
-> https://news.ycombinator.com/item?id=28991537
-
-https://craffic.co.in/astronomers-simulate-virtual-universe-download-free/
-
-https://www.icrar.org/repeating-transient/
-> https://news.ycombinator.com/item?id=30099010
-
-https://news.northwestern.edu/stories/2022/01/nearly-1000-mysterious-strands-revealed-in-milky-ways-center/
-> https://news.ycombinator.com/item?id=30159468
-
-https://arxiv.org/abs/2201.11633 Tick-Tock: The Imminent Merger of a Supermassive Black Hole Binary
-> https://news.ycombinator.com/item?id=30228095
-> > https://www.science.org/content/article/crash-titans-imminent-merger-giant-black-holes-predicted
-
-### Asteroid
-https://www.nasa.gov/press-release/nasa-invites-media-to-new-osiris-rex-asteroid-bennu-study-briefing
-> https://www.nasa.gov/feature/nasas-tour-of-asteroid-bennu-selected-for-prestigious-computer-graphics-film-festival
-> > https://news.ycombinator.com/item?id=28127565
-
-https://www.nature.com/articles/s41467-022-27988-4 Orbital stability analysis and photometric characterization of the second Earth Trojan asteroid 2020 XL5
-
-### Black hole
-https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/
-> https://news.ycombinator.com/item?id=27989875
-
-https://www.wired.com/story/a-bizarre-form-of-water-may-exist-all-over-the-universe/
-
-https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-relativistic-ray-tracing/
-> https://news.ycombinator.com/item?id=30678731
-
-https://arxiv.org/abs/2112.05829 Self-lensing flares from black hole binaries II: observing black hole shadows via light-curve tomography
-
-###
-https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/
-
-https://www.techradar.com/news/supernova-shoots-a-dying-star-made-of-metal-out-of-milky-way-at-2-million-mph
-> https://news.ycombinator.com/item?id=28204986
-
-https://ui.adsabs.harvard.edu/abs/2001Ap%26SS.275..349K/abstract
-> https://news.ycombinator.com/item?id=28131664
-
-
-https://petapixel.com/2021/09/15/a-closer-look-how-i-created-a-248mp-photo-of-the-sun/
-> https://news.ycombinator.com/item?id=28549643
-
 # History
-## Supernova
-https://en.m.wikipedia.org/wiki/SN_1054
-
-https://en.wikipedia.org/wiki/SN_1572
-
 ## Apollo
 http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html
 > https://news.ycombinator.com/item?id=27775089
@@ -149,8 +82,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
-https://aktuelles.uni-frankfurt.de/englisch/cosmic-chocolate-pralines-general-neutron-star-structure-revealed/
-> https://news.ycombinator.com/item?id=33630819
+https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/
+> https://news.ycombinator.com/item?id=33657575
 
 https://arstechnica.com/science/2022/11/the-first-cubesat-to-fly-and-operate-at-the-moon-has-successfully-arrived/
 
@@ -166,8 +99,6 @@ https://en.m.wikipedia.org/wiki/Michael_D._Griffin
 
 https://aerospace.org/article/new-long-march-5b-uncontrolled-reentry-tracked-aerospaces-experts
 > https://news.ycombinator.com/item?id=33491215
-
-https://arstechnica.com/science/2022/11/squid-galaxy-may-be-a-cosmic-accelerator-for-high-energy-cosmic-rays/
 
 https://susam.net/blog/zero-point-leet-seconds.html
 > https://news.ycombinator.com/item?id=33491350

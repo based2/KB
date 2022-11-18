@@ -39,8 +39,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://releases.openstack.org/zed/
+
+https://medium.com/kata-containers/getting-rust-y-introducing-kata-containers-3-0-0-e951f359985d
+
 https://www.21analytics.ch/blog/docker-from-scratch-for-rust-applications/
->
 
 https://podman-desktop.io/
 > https://news.ycombinator.com/item?id=33536978

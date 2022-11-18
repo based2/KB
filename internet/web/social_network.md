@@ -54,6 +54,18 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://seths.blog/2022/11/some-thoughts-on-mastodon/
+> https://news.ycombinator.com/item?id=33660627
+
+https://daniel.do/article/the-je-ne-sais-quoi-of-TikTok/
+> https://news.ycombinator.com/item?id=33649715
+
+https://post.news/?r=Bo9HV
+> https://news.ycombinator.com/item?id=33655193
+
+https://subreply.com/trending
+> https://news.ycombinator.com/item?id=33659327
+
 https://endpts.com/eli-lilly-pulls-millions-in-twitter-advertising-after-fake-account-debacle-report/
 > https://news.ycombinator.com/item?id=33597219
 

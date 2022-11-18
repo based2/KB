@@ -208,6 +208,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://codepen.io/Takuma_BMe/pen/BaVdNLK
+> https://news.ycombinator.com/item?id=33652245
+
 https://webkit.org/blog/13096/css-has-pseudo-class/#styling-form-states-without-js
 > https://news.ycombinator.com/item?id=33646121
 

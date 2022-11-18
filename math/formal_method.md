@@ -71,6 +71,8 @@ https://github.com/stateright/stateright
 http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties
 
 # News
+https://news.ycombinator.com/item?id=33621077
+
 https://incredible.pm/
 > https://news.ycombinator.com/item?id=33460489
 

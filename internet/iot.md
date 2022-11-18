@@ -1,3 +1,6 @@
+https://levelup.gitconnected.com/how-we-accidentally-burned-40-000-by-calling-recursive-patterns-571fe5ede90
+> https://news.ycombinator.com/item?id=33655367
+
 https://www.electronicdesign.com/technologies/embedded-revolution/article/21250006/luos-lets-get-cyberphysical-the-expanding-role-of-cps
 > https://news.ycombinator.com/item?id=33271734
 

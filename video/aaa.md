@@ -110,6 +110,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.phoronix.com/news/Virgl-Encode-H264-H265
+> https://news.ycombinator.com/item?id=33656970
+
 https://news.ycombinator.com/item?id=33638975
 
 https://simonschreibt.de/wft/gif-like-a-pro/

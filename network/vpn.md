@@ -61,6 +61,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://tailscale.com/blog/introducing-tailscale-funnel/
+> https://news.ycombinator.com/item?id=33648341
+
 https://www.theverge.com/2022/11/9/23448934/google-vpn-windows-mac-pc-desktop-support
 
 https://github.com/iCepa/iCepa

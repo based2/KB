@@ -47,6 +47,8 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://news.ycombinator.com/item?id=33659284
+
 https://hacks.mozilla.org/2022/10/revamp-of-mdn-web-docs-contribution-docs/
 
 https://www.karlsutt.com/articles/communicating-effectively-as-a-developer/

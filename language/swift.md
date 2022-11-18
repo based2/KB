@@ -1,3 +1,6 @@
+https://www.swift.org/blog/focus-areas-2023/
+> https://news.ycombinator.com/item?id=33658376
+
 https://belkadan.com/blog/2022/10/Swift-in-the-OS/
 
 https://www.pointfree.co/episodes/ep185-tour-of-parser-printers-introduction

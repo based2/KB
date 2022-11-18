@@ -121,6 +121,8 @@ https://www.davehall.com.au/blog/2022/10/19/tracking-infrastructure-with-ssm-and
 
 https://github.com/JamesWoolfenden/sato CF2Terraform
 
+https://github.com/1debit/alternat/
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -132,6 +134,8 @@ https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 https://www.reddit.com/r/Terraform/comments/ye4igl/tf_in_azure_what_kind_of_azure_user_do_you_use_to/
 
 # News
+https://github.com/EppO/terraform-provider-environment
+
 https://blog.cloudflare.com/terraforming-cloudflare-at-cloudflare/
 
 https://mazinahmed.net/blog/tfplan-release/

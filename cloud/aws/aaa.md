@@ -80,6 +80,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html
+
 https://aws.amazon.com/en/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/
 > https://news.ycombinator.com/item?id=33559132
 

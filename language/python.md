@@ -103,6 +103,8 @@ https://github.com/bloomberg/memray
 https://www.youtube.com/watch?v=vVUnCXKuNOg
 > https://github.com/plasma-umass/scalene
 
+https://home.robusta.dev/blog/whyprofiler-the-worlds-first-hybrid-cpu-profiler-now-for-jupyter-notebook-and-python
+
 # Package
 https://antonz.org/python-packaging/
 > https://news.ycombinator.com/item?id=26733423

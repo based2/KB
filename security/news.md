@@ -1,3 +1,20 @@
+https://blog.pcisecuritystandards.org/just-published-pci-mobile-payments-on-cots
+
+https://vigilance.fr/vulnerabilite/Jupyter-Core-execution-de-code-via-Current-Working-Directory-39934
+
+https://lists.apache.org/thread/z5l2onp3mwrjx2h29c9q0hyq2tolprbl CVE-2022-45047: Apache MINA SSHD: Java unsafe deserialization vulnerability
+
+https://lists.apache.org/thread/ntyj7jhzh7cvw47c4dzzjo4cbrnlqvo7 CVE-2022-27949: Apache Airflow: sensitive values in rendered template
+
+https://0x36.github.io/CVE-2022-32932/ CVE-2022-32932: ZinComputeProgramUpdateMutables() OOB write due to double fetch issue
+
+https://vigilance.fr/vulnerabilite/Go-contournement-de-filtrage-entrant-via-Nul-Set-Environment-Variables-39936
+
+https://portswigger.net/daily-swig/ibexa-dxp-patched-for-graphql-password-hash-leak-vulnerability
+
+https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/
+> https://news.ycombinator.com/item?id=33649297
+
 https://news.ycombinator.com/item?id=33621562
 
 https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/
