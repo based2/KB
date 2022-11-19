@@ -225,6 +225,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml
+> https://news.ycombinator.com/item?id=33666694
+
 https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/ galactica
 
 https://ploomber.io/blog/experiment-tracking/

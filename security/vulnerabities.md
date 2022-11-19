@@ -51,6 +51,8 @@ https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/
 https://github.com/tg12/PoC_CVEs
 
 # News
+https://eng.lyft.com/vulnerability-management-at-lyft-enforcing-the-cascade-part-1-234d1561b994
+
 https://github.blog/changelog/2022-10-28-yellow-security-vulnerability-repository-banner-is-being-removed/
 
 https://blog.ceriksen.com/2022/09/24/the-privileges-required-trap-in-cvss-3-1/

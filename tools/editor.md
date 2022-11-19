@@ -246,6 +246,12 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/vangberg/foreign-dispatch/tree/main/autocomplete
+> https://news.ycombinator.com/item?id=33637818
+
+https://harry.vangberg.name/posts/foreign-dispatch/
+> https://news.ycombinator.com/item?id=33652218
+
 https://viewsourcecode.org/snaptoken/kilo/
 > https://news.ycombinator.com/item?id=33581856
 

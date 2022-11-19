@@ -70,6 +70,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://iamkate.com/data/12-bit-rainbow/
+> https://news.ycombinator.com/item?id=33651724
+
 https://www.littlecms.com/
 > https://littlecms.com/blog/2022/11/02/lcms2-2.14/
 

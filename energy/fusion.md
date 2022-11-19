@@ -26,6 +26,11 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.nature.com/articles/s41567-022-01809-3 Evidence for suprathermal ion distribution in burning plasmas
+> https://arstechnica.com/science/2022/11/laser-driven-fusions-internal-energies-not-matching-up-with-predictions/
+> > https://news.ycombinator.com/item?id=33668945
+> https://www.newsweek.com/nuclear-fusion-ions-discovered-behaving-strangely-1759380
+
 https://www.lefigaro.fr/sciences/fusion-nucleaire-la-russie-envoie-vers-la-france-un-aimant-geant-essentiel-pour-le-programme-iter-20221101
 
 https://www.instructables.com/Build-A-Fusion-Reactor/

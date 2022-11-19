@@ -38,6 +38,10 @@ https://github.com/ossu/computer-science
 https://psyche.co/guides/how-research-from-psychology-can-help-you-study-effectively
 > https://news.ycombinator.com/item?id=28382821
 
+https://www.hedycode.com/
+
+https://news.ycombinator.com/item?id=33670353
+
 # Manuals
 
 https://manuzoid.com/

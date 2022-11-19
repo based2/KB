@@ -58,6 +58,8 @@ https://en.algorithmica.org/hpc/data-structures/s-tree/
 
 https://fanf.dreamwidth.org/138486.html Compacting a qp-trie (BIND)
 
+https://www.youtube.com/watch?v=4ELJDEjDpqk
+
 # binary index trees (Fenwick trees)
 https://jornhub.dev/articles/fenwick-trees/
 > https://news.ycombinator.com/item?id=28354637

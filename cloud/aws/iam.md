@@ -41,6 +41,8 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://www.reddit.com/r/aws/comments/yz4xn4/simplify_crossaccount_access_for_your_aws/
+
 https://infosec.rodeo/posts/thoughts-on-aws-iam/
 > https://news.ycombinator.com/item?id=33566419
 

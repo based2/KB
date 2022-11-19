@@ -69,6 +69,8 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://fusionauth.io/blog/2022/09/13/what-is-webauthn-why-do-you-care
+
 https://www.soul-network.com/
 > https://news.ycombinator.com/item?id=33505134
 

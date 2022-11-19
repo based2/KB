@@ -1,3 +1,7 @@
+https://blog.sonarsource.com/checkmk-rce-chain-2/ nagios
+
+https://news.italy24.press/trends/200849.html April 14, 2017 - BEC 5 million
+
 https://blog.pcisecuritystandards.org/just-published-pci-mobile-payments-on-cots
 
 https://vigilance.fr/vulnerabilite/Jupyter-Core-execution-de-code-via-Current-Working-Directory-39934
@@ -986,10 +990,6 @@ https://confluence.atlassian.com/doc/questions-for-confluence-security-advisory-
 > https://arstechnica.com/information-technology/2022/07/atlassian-warns-hardcoded-password-flaw-is-likely-to-be-exploited-in-the-wild/
 > https://twitter.com/fluepke/status/1550471087560982531
 > https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-confluence-bug-exploited-in-attacks/
-
-https://docs.crowdsec.net/docs/intro
-> https://linuxfr.org/news/crowdsec-la-cybersecurite-collaborative-open-source-et-gratuite-pour-linux
-> https://www.reddit.com/r/CrowdSec/
 
 https://engineering.fb.com/2022/07/20/security/how-meta-and-the-security-industry-collaborate-to-secure-the-internet/
 > https://news.ycombinator.com/item?id=32168727
@@ -2515,8 +2515,6 @@ https://kaizoku.dev/htb-devoops#heading-further-discovery-and-vulnerability-asse
 > https://news.ycombinator.com/item?id=30405959
 
 https://securityconference.org/publikationen/munich-security-report-2022/
-
-https://www.misp-project.org/
 
 https://sprocketfox.io/xssfox/2022/02/09/terraformsupply/
 

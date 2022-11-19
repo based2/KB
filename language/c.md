@@ -71,6 +71,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://punkx.org/c-pointer-game/
+> https://www.reddit.com/r/programming/comments/yy0uj6/the_c_pointer_card_game_pointers_arrays_and/
+
 https://github.com/picolibc/picolibc
 > https://news.ycombinator.com/item?id=33596966
 

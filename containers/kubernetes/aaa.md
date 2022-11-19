@@ -64,6 +64,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://medium.com/@kris-nova/why-fix-kubernetes-and-systemd-782840e50104
+> https://aurae.io/
+
 https://metakube.com/docs/intro
 
 https://itnext.io/5-new-cncf-projects-to-watch-in-2023-af5234ba6e87

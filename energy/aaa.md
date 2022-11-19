@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://electrek.co/2022/11/18/white-house-modernize-the-us-power-grid/
+> https://news.ycombinator.com/item?id=33662242
+
 https://phys.org/news/2022-10-revolutionary-technique-hydrogen-efficiently.html
 > https://news.ycombinator.com/item?id=33611725
 

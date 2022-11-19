@@ -97,6 +97,9 @@ https://github.com/sonic-pi-net/sonic-pi
 
 https://sonicstate.com/news/2022/08/28/the-chemical-brothers-midi-setup/
 
+https://trondal.com/sid/
+> https://news.ycombinator.com/item?id=33637292
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084

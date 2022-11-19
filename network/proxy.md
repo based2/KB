@@ -24,6 +24,8 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://github.com/fatedier/frp fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
+
 https://github.com/aleixrodriala/wa-tunnel whatsapp
 > https://news.ycombinator.com/item?id=33568994
 

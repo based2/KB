@@ -1,5 +1,17 @@
 https://github.com/cisagov/RedEye
 
+https://docs.crowdsec.net/docs/intro
+> https://linuxfr.org/news/crowdsec-la-cybersecurite-collaborative-open-source-et-gratuite-pour-linux
+> https://www.reddit.com/r/CrowdSec/
+
+https://iplists.firehol.org/
+
+https://openphish.com/
+
+https://urlhaus.abuse.ch/
+
+https://yaraify.abuse.ch/
+
 https://git.encryp.ch/g00g1/no-portscan
 > https://news.ycombinator.com/item?id=29252505
 > > https://github.com/mrash/fwknop Single Packet Authorization

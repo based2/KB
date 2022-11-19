@@ -80,6 +80,10 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://www.reddit.com/r/aws/comments/ywwiku/now_openaws_region_in_spain_eusouth2/
+
+https://aws.amazon.com/en/blogs/networking-and-content-delivery/use-cloudfront-continuous-deployment-to-safely-validate-cdn-changes/
+
 https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html
 
 https://aws.amazon.com/en/about-aws/whats-new/2022/11/amazon-time-sync-internet-public-ntp-service/

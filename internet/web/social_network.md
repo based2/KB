@@ -54,6 +54,10 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://docs.pixelfed.org/running-pixelfed/
+
+https://theodorejsalvo.com/cheap-and-quick-mastodon-alias/
+
 https://seths.blog/2022/11/some-thoughts-on-mastodon/
 > https://news.ycombinator.com/item?id=33660627
 

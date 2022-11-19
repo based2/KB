@@ -64,6 +64,10 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.motionity.app/
+
+https://github.com/Rezmason/matrix
+
 https://more.graphics/hexagon-pattern
 > https://news.ycombinator.com/item?id=33606820
 

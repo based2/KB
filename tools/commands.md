@@ -44,6 +44,8 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/owenthereal/ccat Colorizing `cat` in Go
+
 https://ananthakumaran.in/2022/11/12/trace-http-requests.html
 > https://news.ycombinator.com/item?id=33570334
 

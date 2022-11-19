@@ -77,6 +77,10 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://metaphor.systems/
+
+https://github.com/neuml/txtai
+
 https://dsalaj.com/2022/10/25/similarity-search-and-deduplication.html
 > https://news.ycombinator.com/item?id=33567123
 

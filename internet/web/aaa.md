@@ -107,6 +107,8 @@ https://crawlee.dev/
 
 https://news.ycombinator.com/item?id=33654177
 
+https://shot-scraper.datasette.io/en/stable/
+
 # News
 https://www.wired.com/story/submarine-internet-cables-egypt/
 

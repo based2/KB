@@ -65,6 +65,8 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
 # News
+https://exergo.ch/portfolio-item/co2network/
+
 https://gizmodo.com/al-gores-new-tool-can-zoom-in-on-emissions-in-your-town-1849786018
 > https://news.ycombinator.com/item?id=33657307
 

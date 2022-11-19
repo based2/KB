@@ -110,6 +110,11 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://github.com/mli/autocut Video editor, python
+
+https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/
+> https://lobste.rs/s/ytly69/resize_video_with_ffmpeg_for_mastodon
+
 https://www.phoronix.com/news/Virgl-Encode-H264-H265
 > https://news.ycombinator.com/item?id=33656970
 

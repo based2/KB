@@ -244,6 +244,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.hillelwayne.com/post/software-mimicry/
+> https://news.ycombinator.com/item?id=33666188
+
 https://twitter.com/jasoncwarner/status/1592227285024636928
 > https://news.ycombinator.com/item?id=33601658
 

@@ -11,6 +11,8 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://arc.tencent.com/en/ai-demos/faceRestoration
+
 https://github.com/danielgatis/rembg
 
 https://brushify.art/ watercolor filter

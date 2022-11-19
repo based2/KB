@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://cedwards.xyz/use-this-kernel-parameter-in-your-kiosk/ panic=60
+> https://news.ycombinator.com/item?id=33663816
+
 https://blogs.oracle.com/linux/post/taming-tracepoints-in-the-linux-kernel
 
 https://lwn.net/SubscriberLink/914458/a6d5816bad1890e4/ Rust in the 6.2 kernel

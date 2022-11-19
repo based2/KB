@@ -15,6 +15,15 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://rakura.fr/
+
+https://huggingface.co/spaces/huggingface-projects/wordalle
+
+https://github.com/Sanakan8472/copy-dialog-lunar-lander/releases/tag/v1.0
+
+https://github.com/ByteOverlord/Watch_Quake
+> https://news.ycombinator.com/item?id=33667199
+
 https://baseballgames.dreamhosters.com/BbDiceHome.htm
 > https://news.ycombinator.com/item?id=33654610
 

@@ -135,6 +135,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399 How does Windows decide whether your computer has limited or full Internet access?
+> https://news.ycombinator.com/item?id=33664608
+
 https://www.theregister.com/2022/11/08/windows_tests_ads_in_windows_11/
 > https://news.ycombinator.com/item?id=33532448
 

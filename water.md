@@ -1,3 +1,5 @@
+https://www.theguardian.com/environment/2022/nov/19/pfas-world-health-organization-who-drinking-water
+
 https://thenevadaindependent.com/article/as-lake-mead-drops-a-privately-operated-intake-runs-dry-and-a-bankruptcy-ensuesefbfbc
 
 https://www.theperspective.se/2022/04/22/article/blue-gold-turned-into-sand-will-the-waters-return-to-the-aral-sea/

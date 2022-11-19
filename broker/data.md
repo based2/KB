@@ -20,3 +20,6 @@ https://www.carvertical.com
 https://lite.cnn.com/en/article/h_f4d60444969c5c3c0e30df75b3c58754
 
 https://incogni.com/
+
+https://www.nature.com/articles/d41586-022-03578-8
+> https://news.ycombinator.com/item?id=33666533

@@ -25,3 +25,6 @@ https://scastiel.dev/implement-ppp-fair-pricing-for-your-product
 
 https://news.ycombinator.com/item?id=33502567
 
+https://www.lennysnewsletter.com/p/measuring-cohort-retention
+> https://news.ycombinator.com/item?id=33666565
+

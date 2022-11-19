@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://hackernoon.com/defis-rise-to-shame-its-problems-and-how-to-fix-them
+> https://news.ycombinator.com/item?id=33669888
+
 https://davidgerard.co.uk/blockchain/2022/11/17/declaration-of-john-jay-ray-ftx-is-worse-than-enron/
 
 https://twitter.com/deitaone/status/1593223502160875523

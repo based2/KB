@@ -123,6 +123,8 @@ https://github.com/JamesWoolfenden/sato CF2Terraform
 
 https://github.com/1debit/alternat/
 
+https://www.reddit.com/r/aws/comments/yv1tx4/aws_control_tower_vs_terraform/
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -132,6 +134,10 @@ https://github.com/andreipintica/azure-terrafy-handsonlab
 https://www.reddit.com/r/AZURE/comments/vm4wxq/terraform/
 
 https://www.reddit.com/r/Terraform/comments/ye4igl/tf_in_azure_what_kind_of_azure_user_do_you_use_to/
+
+https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki
+
+https://www.reddit.com/r/AZURE/comments/yy772q/manage_azure_policy_with_terraform_my_latest_post/
 
 # News
 https://github.com/EppO/terraform-provider-environment
