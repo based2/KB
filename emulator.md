@@ -21,3 +21,6 @@ https://www.libretro.com/index.php/retroarch-1-9-13-automatic-frame-delay/
 
 https://github.com/binji/smolnes
 > https://news.ycombinator.com/item?id=33374025
+
+https://github.com/jart/blink
+> 

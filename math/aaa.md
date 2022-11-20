@@ -109,6 +109,8 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://tetration.org/
+
 https://news.ycombinator.com/item?id=33653108
 
 https://www.nature.com/articles/s41586-022-05172-4

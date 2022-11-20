@@ -44,6 +44,11 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/scusi/spipe go
+
+https://stackoverflow.com/questions/74508128/would-it-be-a-good-idea-if-posix-commands-had-a-flag-to-output-standardized-json
+> https://news.ycombinator.com/item?id=33680442
+
 https://github.com/owenthereal/ccat Colorizing `cat` in Go
 
 https://ananthakumaran.in/2022/11/12/trace-http-requests.html

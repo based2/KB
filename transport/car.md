@@ -18,6 +18,11 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.whichcar.com.au/news/tesla-killers-next-wave-electric-vehicles
+> https://news.ycombinator.com/item?id=33684966
+
+https://news.ycombinator.com/item?id=33672931
+
 https://apnews.com/article/technology-business-3a3816bd26418cc612d5b9b56d86f3a8
 > https://news.ycombinator.com/item?id=33609770
 

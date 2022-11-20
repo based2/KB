@@ -1,3 +1,16 @@
+https://hackerone.com/reports/1087489
+
+https://techcrunch.com/2022/11/16/iran-hackers-federal-agency-log4shell/
+
+https://lists.apache.org/list?announce@apache.org:2022-11 Apache Shiro 1.10.1 released
+
+https://workerbox.net/ Secure sandbox for you to run end user JavaScript safely away from your own application
+> https://news.ycombinator.com/item?id=33673047
+> https://www.figma.com/blog/how-we-built-the-figma-plugin-system/
+
+https://support.lenovo.com/us/en/product_security/LEN-94952
+> https://www.securitynewspaper.com/2022/11/09/update-firmware-of-these-lenovo-thinkbook-ideapad-and-yoga-laptops-models-as-3-critical-vulnerabilities-allow-them-to-be-hacked-forever-even-after-removing-the-hard-drive/
+
 https://blog.sonarsource.com/checkmk-rce-chain-2/ nagios
 
 https://news.italy24.press/trends/200849.html April 14, 2017 - BEC 5 million

@@ -38,30 +38,6 @@ https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html
 https://www.puredarwin.org/
 > https://news.ycombinator.com/item?id=31943198
 
-# VM
-https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac
-> https://news.ycombinator.com/item?id=33143016
-
-https://github.com/foxlet/macOS-Simple-KVM
-
-https://github.com/kholia/OSX-KVM
-> https://news.ycombinator.com/item?id=29426862
-
-https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta
-> https://news.ycombinator.com/item?id=31645140
-
-https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/
-> https://news.ycombinator.com/item?id=31662978
-
-https://worthdoingbadly.com/hv/
-> https://news.ycombinator.com/item?id=31638173
-
-https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/
-> https://news.ycombinator.com/item?id=33533132
-
-https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodate-an-intel-8080-artifact/
-> https://news.ycombinator.com/item?id=33635720
-
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 
@@ -138,6 +114,33 @@ https://news.ycombinator.com/item?id=32971599 Ask HN: Xcode users – how do you
 
 https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 > https://news.ycombinator.com/item?id=33187858
+
+# VM
+https://weblog.antranigv.am/posts/2022/11/running-arm64-aarch64-freebsd-on-qemu-utm-app-on-apple-silicon/
+> https://news.ycombinator.com/item?id=33679818
+
+https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac
+> https://news.ycombinator.com/item?id=33143016
+
+https://github.com/foxlet/macOS-Simple-KVM
+
+https://github.com/kholia/OSX-KVM
+> https://news.ycombinator.com/item?id=29426862
+
+https://developer.apple.com/documentation/virtualization/running_intel_binaries_in_linux_vms_with_rosetta
+> https://news.ycombinator.com/item?id=31645140
+
+https://threedots.ovh/blog/2022/06/quick-look-at-rosetta-on-linux/
+> https://news.ycombinator.com/item?id=31662978
+
+https://worthdoingbadly.com/hv/
+> https://news.ycombinator.com/item?id=31638173
+
+https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/
+> https://news.ycombinator.com/item?id=33533132
+
+https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodate-an-intel-8080-artifact/
+> https://news.ycombinator.com/item?id=33635720
 
 # M2
 https://www.macworld.com/article/819644/m2-macbook-air-usb-c-67w-35w-dual-compact-charger.html

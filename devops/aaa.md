@@ -127,6 +127,8 @@ https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-
 
 # Incidents
 
+https://lists.apache.org/thread/htxbr8oc464hxrgroftnz3my70whk93b CVE-2022-37866: Apache Ivy: Ivy Path traversal
+
 https://www.bleepingcomputer.com/news/security/researchers-release-exploit-details-for-backstage-pre-auth-rce-bug/
 
 https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-command-injection-bug-in-bitbucket-server/
@@ -252,6 +254,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/
+> https://news.ycombinator.com/item?id=33684130
+
 https://github.com/saml-to/devcontainer-features/blob/main/src/assume-aws-role/README.md
 
 https://blog.alexellis.io/blazing-fast-ci-with-microvms/

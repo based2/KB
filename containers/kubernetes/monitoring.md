@@ -1,5 +1,7 @@
 https://www.cncf.io/blog/2022/11/10/murre-the-lightweight-k8s-metrics-monitoring-tool/
 
+https://www.groundcover.com/blog/prometheus-grafana-kubernetes
+
 https://www.cncf.io/blog/2022/10/25/opentelemetry-demo-now-generally-available/
 
 https://dzone.com/articles/searchable-logs-on-kubernetes-in-minutes

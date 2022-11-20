@@ -5,7 +5,15 @@ https://blog.adamretter.org.uk/vocabulary-reuse-part2/
 
 https://protege.stanford.edu/
 
+# Data
+https://github.com/datafoodconsortium
+> https://linuxfr.org/news/le-dfc-met-en-place-un-outil-collaboratif-pour-faciliter-la-gestion-communautaire-de-ses-thesaurus
+
 #
+http://vocbench.uniroma2.it/
+
+http://semanticturkey.uniroma2.it/
+
 https://terminusdb.com/blog/graphql-rdf-bridge-using-star-wars-dataset/
 > https://news.ycombinator.com/item?id=33371156
 

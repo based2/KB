@@ -125,6 +125,8 @@ https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready
 https://lists.apache.org/thread/8cz89d40h6t6wzplxjm523w91lmm6djw CVE-2022-41672: Apache Airflow: Session still functional after user is deactivated
 
 #
+https://wellquite.org/posts/lshift/pushing_back/
+
 https://nats.io/blog/matrix-dendrite-kafka-to-nats/
 
 https://github.com/bkupidura/broker-ha Golang MQTT broker with clustering capabilities

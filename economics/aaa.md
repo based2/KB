@@ -141,6 +141,8 @@ https://themarketplace.guide/dont-overreact-to-weak-signals
 
 https://www.fintopea.com/
 
+https://en.wikipedia.org/wiki/Newcomb%27s_paradox
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317
@@ -168,6 +170,9 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://brinklindsey.substack.com/p/the-anti-promethean-backlash
+> https://news.ycombinator.com/item?id=33681748
+
 https://statmodeling.stat.columbia.edu/2022/11/14/which-one-of-these-will-be-the-biggest-unicorn-failure-ever/
 > https://news.ycombinator.com/item?id=33598263
 

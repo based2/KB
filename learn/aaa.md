@@ -114,6 +114,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://maggieappleton.com/tools-for-thought
+> https://news.ycombinator.com/item?id=33666160
+
 https://www.scotthyoung.com/blog/2022/10/26/variable-mastery/
 > https://news.ycombinator.com/item?id=33354355
 

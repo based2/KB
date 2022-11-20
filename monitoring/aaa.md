@@ -83,6 +83,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://failingfast.io/opentelemetry-observability/
+> https://news.ycombinator.com/item?id=33684045
+
 https://engineering.fb.com/2022/11/09/developer-tools/tulip-schematizing-metas-data-platform/
 
 https://github.com/AnalogJ/scrutiny

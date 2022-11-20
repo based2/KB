@@ -58,6 +58,8 @@ https://zio.dev/
 https://alvinalexander.com/scala/zio-cheatsheet/
 
 ## Akka
+https://github.com/apache/incubator-pekko
+
 https://blog.softwaremill.com/akka-streams-pitfalls-to-avoid-part-2-f93e60746c58
 
 https://www.oreilly.com/content/implementing-the-pipes-and-filters-pattern-using-actors-in-akka-for-java/
@@ -81,6 +83,19 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://www.reddit.com/r/scala/comments/yruu34/sbt_180_released/
+
+https://alexn.org/blog/2022/10/27/immutable-collections-your-default/
+
+https://towardsdatascience.com/data-transformations-in-scala-with-gallia-version-0-4-0-is-out-f0b8df3e48f3
+> https://github.com/galliaproject/gallia-core
+
+https://www.scala-lang.org/blog/2022/11/07/scala-3.2.1-released.html
+
+https://www.reddit.com/r/scala/comments/yz9off/error_handling_for_cats_effect_io/
+
+https://alexn.org/blog/2022/09/28/the-trouble-with-checked-exceptions-part-2/
+
 https://degoes.net/articles/zio-config
 
 https://softwaremill.com/migrating-from-akka-http-to-tapir/

@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://astrid.tech/2022/07/07/0/blink-mini-disassembly/
+> https://news.ycombinator.com/item?id=33683122
+
 https://www.righto.com/2022/11/the-unusual-bootstrap-drivers-inside.html
 > https://news.ycombinator.com/item?id=33585673
 

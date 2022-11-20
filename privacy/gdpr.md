@@ -52,6 +52,19 @@ https://www.dataprotectioncontrol.org/spec/
 
 https://www.pixeldetracking.com/fr/comment-les-editeurs-se-moquent-de-la-cnil
 
+## Twitter
+1. Go to the following URL: https://help.twitter.com/en/forms/privacy
+
+2. Under “How can we help?” select “I want to ask a question regarding privacy on Twitter”
+
+3. Then, under “Please tell us more” select “Cancellation of data”
+
+4. In the form and text box under “Please enter your question” write your Twitter username and email address,
+
+5. and say you are requesting “erasure of personal data” under Article 17 of the GDPR. 
+
+6. For your question, you could ask “can you send me an email confirmation when my personal data has been erased?”
+
 # Users
 https://privacybot.io/
 > https://news.ycombinator.com/item?id=27146828

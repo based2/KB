@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.energy.gov/science/articles/launching-new-class-us-supercomputing
+
 https://electrek.co/2022/11/18/white-house-modernize-the-us-power-grid/
 > https://news.ycombinator.com/item?id=33662242
 

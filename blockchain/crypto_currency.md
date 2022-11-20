@@ -23,6 +23,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.gizmotimes.com/blockchain/cryptocurrency/ftx-bankruptcy-filing-list-of-companies/45029
+
+https://hackernoon.com/cbdc-race-has-started-what-should-we-expect-from-it
+
 https://hackernoon.com/defis-rise-to-shame-its-problems-and-how-to-fix-them
 > https://news.ycombinator.com/item?id=33669888
 

@@ -116,6 +116,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://github.com/tromp/cuckoo
+
 https://cr.yp.to/papers/lprrr-20221114.pdf 
 
 https://ia804703.us.archive.org/2/items/cryptographers-way-bradford-hardie/Cryptographers-Way.Bradford-Hardie.pdf

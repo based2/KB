@@ -32,6 +32,8 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://www.youtube.com/watch?v=Tldf1rT0Rn0 webkit
+
 https://madprops.github.io/grasshopper/
 > https://news.ycombinator.com/item?id=33608699
 

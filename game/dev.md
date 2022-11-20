@@ -109,6 +109,11 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://github.com/jotson/ridiculous_coding
+
+https://tic80.com/
+> https://news.ycombinator.com/item?id=33678782
+
 https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/
 
 https://bevyengine.org/news/bevy-0-9/

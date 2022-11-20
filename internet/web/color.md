@@ -70,6 +70,8 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://codepen.io/kaliedarik/pen/YzvYadX
+
 https://iamkate.com/data/12-bit-rainbow/
 > https://news.ycombinator.com/item?id=33651724
 

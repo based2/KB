@@ -82,6 +82,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.theregister.com/2022/11/18/artemis_i_science/
+
 https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/
 > https://news.ycombinator.com/item?id=33657575
 

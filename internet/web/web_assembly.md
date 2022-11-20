@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/justjake/quickjs-emscripten
+> https://news.ycombinator.com/item?id=33678641
+
 https://wasmedge.org/book/en/
 
 https://luna-demo.vercel.app/

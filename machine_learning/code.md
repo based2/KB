@@ -38,6 +38,10 @@ https://github.com/moyix/fauxpilot oss
 > https://news.ycombinator.com/item?id=32327711
 > > https://news.ycombinator.com/item?id=33210306
 
+https://www.kite.com/blog/product/kite-is-saying-farewell/
+> https://news.ycombinator.com/item?id=33685209
+> > https://github.com/kiteco
+
 https://joel.tools/codegen/
 > https://news.ycombinator.com/item?id=33632610
 

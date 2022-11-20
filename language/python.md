@@ -254,6 +254,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/
+> https://news.ycombinator.com/item?id=33655678
+
 https://docs.hylang.org/en/stable/tutorial.html
 > https://news.ycombinator.com/item?id=33600941
 

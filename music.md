@@ -173,7 +173,13 @@ https://justune.eu/#/ I made a guitar tuner app using Flutter and Rust
 https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6
 > https://news.ycombinator.com/item?id=30467328
 
+https://github.com/jcard0na/haxo-hw
+> https://news.ycombinator.com/item?id=33682813
+
 # News
+https://539kernel.com/
+> https://news.ycombinator.com/item?id=33680869
+
 https://muted.io/sequencer/
 > https://news.ycombinator.com/item?id=33604959
 

@@ -54,6 +54,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://dl.acm.org/doi/10.1145/3555637 Leveraging Structured Trusted-Peer Assessments to Combat Misinformation
+
 https://docs.pixelfed.org/running-pixelfed/
 
 https://theodorejsalvo.com/cheap-and-quick-mastodon-alias/

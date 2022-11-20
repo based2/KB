@@ -297,6 +297,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://julesjacobs.com/pdf/locks.pdf Higher-Order Leak and Deadlock Free Locks
+
 https://publi.codes/
 > https://news.ycombinator.com/item?id=33597723
 
