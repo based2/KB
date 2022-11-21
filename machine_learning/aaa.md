@@ -2,6 +2,9 @@ https://www.mlyearning.org/
 
 https://www.enisa.europa.eu/news/artificial-intelligence-how-to-make-machine-learning-cyber-secure
 
+https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles
+> https://news.ycombinator.com/item?id=33683986
+
 https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html
 
 https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-Shannon-Demonstrates-Machine-Learning

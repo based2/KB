@@ -105,6 +105,8 @@ https://github.com/google/fully-homomorphic-encryption
 
 https://github.com/zama-ai/concrete-numpy
 
+https://news.ycombinator.com/item?id=33690736
+
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 
@@ -116,6 +118,10 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://arxiv.org/abs/2211.10095
+
+https://arxiv.org/abs/2211.10076
+
 https://github.com/tromp/cuckoo
 
 https://cr.yp.to/papers/lprrr-20221114.pdf 

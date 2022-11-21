@@ -105,6 +105,7 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 
 # News
 https://sqlite.org/releaselog/3_40_0.html
+> https://news.ycombinator.com/item?id=33696837
 
 https://github.com/thevahidal/soul/blob/main/docs/ws-examples.md
 > https://news.ycombinator.com/item?id=33484693

@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://electronics.stackexchange.com/questions/643070/why-does-the-e12-resistor-sequence-use-27-and-33-instead-of-26-and-32
+> https://news.ycombinator.com/item?id=33677340
+
 https://github.com/tbnobody/OpenDTU Software for ESP32 to talk to Hoymiles Inverters
 
 https://blog.thea.codes/starfish-a-control-board-with-the-rp2040/

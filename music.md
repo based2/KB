@@ -177,6 +177,9 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://teropa.info/musicmouse/
+> https://news.ycombinator.com/item?id=33668954
+
 https://539kernel.com/
 > https://news.ycombinator.com/item?id=33680869
 

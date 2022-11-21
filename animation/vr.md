@@ -1,3 +1,6 @@
+https://blog.natalie.ee/posts/building-dynamic-vrchat-world/
+> https://news.ycombinator.com/item?id=33654310
+
 https://www.wired.com/2014/04/underwire-0402-murdershewrote/
 > https://news.ycombinator.com/item?id=33546151
 

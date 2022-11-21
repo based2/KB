@@ -5,6 +5,7 @@ https://ircv3.net/
 > https://news.ycombinator.com/item?id=27211798
 
 https://ircv3.net/2022/11/20/spec-round-up
+> https://news.ycombinator.com/item?id=33682835
 
 https://gist.github.com/rain-1/c4be54e6506116c7b99e8f474a3b1ca8
 > https://news.ycombinator.com/item?id=28500040

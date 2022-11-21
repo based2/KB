@@ -39,6 +39,8 @@ https://cv6.poinsignon.org/
 https://www.arin.net/resources/guide/ipv6/first_request/
 > https://news.ycombinator.com/item?id=33403943
 
+https://blog.apnic.net/2022/11/21/deploying-ipv6-mostly-access-networks/
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

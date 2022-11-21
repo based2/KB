@@ -45,3 +45,9 @@ https://news.ycombinator.com/item?id=33481306
 
 https://arxiv.org/abs/2209.07663
 > https://news.ycombinator.com/item?id=33494796
+
+https://github.com/1712n/yachay-public/tree/master/conf_geotagging_model
+> https://news.ycombinator.com/item?id=33693390
+
+https://deepimagination.cc/Magic3D/
+> https://news.ycombinator.com/item?id=33689096

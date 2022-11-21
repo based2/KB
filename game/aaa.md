@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+http://www.ericharshbarger.org/dice/go_first_dice.html
+> https://news.ycombinator.com/item?id=33669658
+
 https://rakura.fr/
 
 https://huggingface.co/spaces/huggingface-projects/wordalle

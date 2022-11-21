@@ -59,6 +59,9 @@ https://arxiv.org/abs/2205.12425 Katara: Synthesizing CRDTs with Verified Liftin
 
 https://josephg.com/blog/crdts-are-the-future/
 
+https://jzhao.xyz/posts/bft-json-crdt/
+> https://news.ycombinator.com/item?id=33694568
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

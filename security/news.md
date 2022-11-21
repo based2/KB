@@ -1,3 +1,17 @@
+https://vigilance.fr/vulnerabilite/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941
+
+https://www.bleepingcomputer.com/news/security/apps-with-over-3-million-installs-leak-admin-search-api-keys/
+
+https://www.bleepingcomputer.com/news/security/google-releases-165-yara-rules-to-detect-cobalt-strike-attacks/
+
+https://emily.id.au/tailscale
+> https://news.ycombinator.com/item?id=33695886
+
+https://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected-by.html openssl
+> https://news.ycombinator.com/item?id=33693873
+
+https://arstechnica.com/tech-policy/2022/11/id-me-made-baseless-pandemic-fraud-claims-to-win-contracts-congress-says/
+
 https://hackerone.com/reports/1087489
 
 https://techcrunch.com/2022/11/16/iran-hackers-federal-agency-log4shell/

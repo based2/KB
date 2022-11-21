@@ -213,6 +213,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/
+> https://news.ycombinator.com/item?id=33693779
+
 https://www.nature.com/articles/d41586-022-03783-5
 > https://news.ycombinator.com/item?id=33658541
 

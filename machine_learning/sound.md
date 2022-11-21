@@ -62,6 +62,8 @@ https://github.com/Anjok07/ultimatevocalremovergui
 https://www.rewind.ai/
 > https://news.ycombinator.com/item?id=33421751
 
+https://news.ycombinator.com/item?id=33697469
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

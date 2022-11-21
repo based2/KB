@@ -82,6 +82,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://timesofindia.indiatimes.com/india/1st-single-piece-3d-printed-rocket-engine-built-by-desi-startup-successfully-tested/articleshow/95388764.cms
+
+https://www.hyperganic.com/blog/we-just-built-the-worlds-largest-3d-printed-aerospike-rocket-engine/
+> https://news.ycombinator.com/item?id=33694984
+
 https://www.theregister.com/2022/11/18/artemis_i_science/
 
 https://arstechnica.com/science/2022/08/european-space-chief-says-continent-will-lead-in-space-based-solar-power/

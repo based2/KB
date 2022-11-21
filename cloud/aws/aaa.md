@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/
+
 https://hackingthe.cloud/aws/avoiding-detection/steal-keys-undetected/
 
 https://www.bleepingcomputer.com/news/security/popular-python-and-php-libraries-hijacked-to-steal-aws-keys/

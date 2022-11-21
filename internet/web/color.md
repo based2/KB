@@ -70,6 +70,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://arantius.github.io/web-color-wheel/
+> https://news.ycombinator.com/item?id=33693411
+
 https://codepen.io/kaliedarik/pen/YzvYadX
 
 https://iamkate.com/data/12-bit-rainbow/
