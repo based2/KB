@@ -24,7 +24,7 @@ https://nn.labml.ai/cfr/index.html Regret Minimization in Games with Incomplete 
  > http://modelai.gettysburg.edu/2013/cfr/cfr.pdf
 
 http://blog.cityboundsim.com/
-http://blog.cityboundsim.com/developer-diary-7-the-economic-model-a/
+> http://blog.cityboundsim.com/developer-diary-7-the-economic-model-a/
 
 https://medium.com/re-form/simcity-that-i-used-to-know-d5d8c49e3e1d
 

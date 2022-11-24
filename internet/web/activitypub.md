@@ -5,6 +5,16 @@ https://social.network.europa.eu/about/more
 > https://news.ycombinator.com/item?id=33491433
 > > https://tube.network.europa.eu/
 
+https://go-fed.org/
+> https://news.ycombinator.com/item?id=33735101
+
+https://jointakahe.org/
+> https://news.ycombinator.com/item?id=33731739
+
+https://github.com/LemmyNet/activitypub-federation-rust
+
+https://aeracode.org/2022/11/24/takahe-030/
+
 https://axbom.com/fediverse/
 > https://news.ycombinator.com/item?id=33472622
 

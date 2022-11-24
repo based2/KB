@@ -52,6 +52,8 @@ https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-nex
 > https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
+https://spring.io/blog/2022/11/24/spring-boot-3-0-goes-ga Jakarta EE 10 with an EE 9 baseline
+
 https://www.reddit.com/r/java/comments/xylztu/spring_boot_3_ships_november_2022_delays_java/
 
 https://piotrminkowski.com/2022/08/02/a-deep-dive-into-spring-boot-configuration/

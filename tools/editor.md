@@ -198,6 +198,9 @@ https://github.com/rougier/nano-emacs
 https://xenodium.com/emacs-quick-kill-process/
 > https://news.ycombinator.com/item?id=33578948
 
+https://lists.gnu.org/archive/html/emacs-devel/2022-11/msg01443.html
+> https://news.ycombinator.com/item?id=33715321
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

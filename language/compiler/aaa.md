@@ -118,6 +118,12 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://ccache.dev/
+> https://news.ycombinator.com/item?id=33715945
+
+https://elm-lang.org/news/compiler-errors-for-humans
+> https://news.ycombinator.com/item?id=33731626
+
 https://news.ycombinator.com/item?id=33662534
 
 https://www.cs.mcgill.ca/~cs573/winter2001/AttLinux_syntax.htm

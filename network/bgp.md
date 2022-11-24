@@ -25,5 +25,7 @@ https://www.reddit.com/r/blueteamsec/comments/trfzfn/russian_isp_announced_twitt
 
 https://blog.apnic.net/2022/11/07/what-can-be-learned-from-bgp-hijacks-targeting-cryptocurrency-services/
 
+https://blog.cloudflare.com/prepends-considered-harmful/
+
 # Incident
 https://www.coinbase.com/blog/celer-bridge-incident-analysis

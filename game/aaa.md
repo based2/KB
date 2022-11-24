@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://twitter.com/jagarikin/status/1593771091738374144
+> https://news.ycombinator.com/item?id=33716796
+
 http://www.ericharshbarger.org/dice/go_first_dice.html
 > https://news.ycombinator.com/item?id=33669658
 

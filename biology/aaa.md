@@ -42,6 +42,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://learngenomics.dev/
+> https://news.ycombinator.com/item?id=33734846
+
 https://www.mpg.de/19348003/1010-terr-back-to-the-future-of-photosynthesis-153410-x
 
 https://news.ohsu.edu/2022/10/12/ohsu-scientists-discover-mechanism-of-hearing

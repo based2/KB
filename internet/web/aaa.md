@@ -110,6 +110,9 @@ https://news.ycombinator.com/item?id=33654177
 https://shot-scraper.datasette.io/en/stable/
 
 # News
+https://ooh.directory/
+> https://news.ycombinator.com/item?id=33719983
+
 https://www.wired.com/story/submarine-internet-cables-egypt/
 
 https://www.recall-app.com/

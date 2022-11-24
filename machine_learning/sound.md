@@ -64,6 +64,9 @@ https://www.rewind.ai/
 
 https://news.ycombinator.com/item?id=33697469
 
+https://github.com/rhasspy/rhasspy
+> https://news.ycombinator.com/item?id=33705938
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

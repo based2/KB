@@ -37,6 +37,9 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://gpuopen.com/brotli-g-sdk-announce/
+> https://news.ycombinator.com/item?id=33706380
+
 https://umap-learn.readthedocs.io/en/latest/
 
 https://github.com/madler/pigz

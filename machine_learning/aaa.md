@@ -228,6 +228,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://explosion.ai/blog/metal-performance-shaders
+
+https://sidsite.com/posts/kubeflow-hyperparam-opt/
+> https://news.ycombinator.com/item?id=33712243
+
 https://www.pnas.org/doi/10.1073/pnas.2206625119
 
 https://github.com/ocaml-multicore/effects-examples/blob/master/algorithmic_differentiation.ml

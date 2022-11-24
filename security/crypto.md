@@ -118,6 +118,10 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://phys.org/news/2022-11-mathematical-theorem-encryption-algorithm.html
+
+https://news.ycombinator.com/item?id=33735690
+
 https://arxiv.org/abs/2211.10095
 
 https://arxiv.org/abs/2211.10076

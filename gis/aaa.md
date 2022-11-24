@@ -213,6 +213,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://garrit.xyz/posts/2022-11-24-smart-move-google
+> https://news.ycombinator.com/item?id=33729345
+
 https://github.com/jamealg/KT-companion A hiking and backpacking trail companion progressive web app, trek
 > https://news.ycombinator.com/item?id=33420852
 

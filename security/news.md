@@ -1,3 +1,9 @@
+https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/
+> https://news.ycombinator.com/item?id=33713765
+
+https://sysdig.com/blog/analysis-of-supply-chain-attacks-through-public-docker-images/
+> https://news.ycombinator.com/item?id=33721688
+
 https://vigilance.fr/vulnerabilite/Tumbler-Server-Side-Request-Forgery-via-MP4-File-39941
 
 https://www.bleepingcomputer.com/news/security/apps-with-over-3-million-installs-leak-admin-search-api-keys/

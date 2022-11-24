@@ -146,6 +146,8 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://news.ycombinator.com/item?id=33704254
+
 https://github.com/wbkd/awesome-node-based-uis
 > https://news.ycombinator.com/item?id=33639610
 

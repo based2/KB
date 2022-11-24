@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-the-second-international-counter-ransomware-initiative-summit/
+
 https://www.gizmotimes.com/blockchain/cryptocurrency/ftx-bankruptcy-filing-list-of-companies/45029
 
 https://hackernoon.com/cbdc-race-has-started-what-should-we-expect-from-it

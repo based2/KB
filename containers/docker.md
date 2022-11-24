@@ -57,6 +57,10 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://mastodon.world/@dfr/109398481906495685 bsd
+
+https://github.com/omerbsezer/Fast-Docker
+
 https://github.com/ktock/buildg
 
 https://thoughts.theden.sh/posts/docker-ramdisk-macos-benchmark/

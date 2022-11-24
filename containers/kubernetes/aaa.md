@@ -64,6 +64,11 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://learnkubernetes.withgoogle.com/
+> https://news.ycombinator.com/item?id=33718496
+
+https://github.com/omerbsezer/Fast-Kubernetes
+
 https://cast.ai/blog/kubernetes-cordon-how-it-works-and-when-to-use-it/ drain
 > https://news.ycombinator.com/item?id=33690916
 

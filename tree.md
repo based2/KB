@@ -60,6 +60,9 @@ https://fanf.dreamwidth.org/138486.html Compacting a qp-trie (BIND)
 
 https://www.youtube.com/watch?v=4ELJDEjDpqk
 
+https://sanket.tech/posts/invert_binary_tree_assembly/
+> https://news.ycombinator.com/item?id=33732071
+
 # binary index trees (Fenwick trees)
 https://jornhub.dev/articles/fenwick-trees/
 > https://news.ycombinator.com/item?id=28354637

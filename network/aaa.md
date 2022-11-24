@@ -114,6 +114,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.thingiverse.com/thing:4687836 Ethernet | RJ45 clip to secure/repair/fix broken tab
+> https://news.ycombinator.com/item?id=33732969
+
 https://book.systemsapproach.org/
 
 https://www.youtube.com/watch?v=xxRAppnmirY rh ebpf

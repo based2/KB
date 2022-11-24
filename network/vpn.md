@@ -61,6 +61,11 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://news.ycombinator.com/item?id=33725770
+
+https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_2357011c-043b-4efd-8dbe-152b3f7bf253
+> https://news.ycombinator.com/item?id=33731145
+
 https://tailscale.com/blog/introducing-tailscale-funnel/
 > https://news.ycombinator.com/item?id=33648341
 

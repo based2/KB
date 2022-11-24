@@ -66,6 +66,9 @@ https://andys.page/posts/how-to-draw/
 https://rentry.co/sdupdates list
 > https://news.ycombinator.com/item?id=33416632
 
+https://getimg.ai/text-to-image
+> https://news.ycombinator.com/item?id=33735565
+
 https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/
 > https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/
 

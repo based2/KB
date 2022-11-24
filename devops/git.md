@@ -272,6 +272,7 @@ https://github.com/ossf/scorecard#goals github
   
 # News
 https://github.com/MichaelMure/git-bug/releases/tag/v0.8.0
+> https://news.ycombinator.com/item?id=33730417
 
 https://blog.waleedkhan.name/bringing-revsets-to-git/
 
