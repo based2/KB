@@ -70,3 +70,8 @@ https://news.ycombinator.com/item?id=33482166 RS-232 protocol
 
 https://ouroboros.rocks/
 > https://news.ycombinator.com/item?id=33515022
+
+https://lwn.net/Articles/914030/ Moving past TCP in the data center, part 2
+> https://news.ycombinator.com/item?id=33738711
+
+https://programming-journal.org/2023/7/6/

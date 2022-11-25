@@ -29,6 +29,12 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://klafyvel.me/blog/articles/fft-arduino/
+> https://news.ycombinator.com/item?id=33717847
+
+https://blog.thea.codes/the-design-of-the-juno-dco/
+> https://news.ycombinator.com/item?id=33729957
+
 https://ccrma.stanford.edu/~jos/mdft/
 > https://news.ycombinator.com/item?id=33668004
 

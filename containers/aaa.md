@@ -39,6 +39,10 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://aws.amazon.com/en/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/
+> https://news.ycombinator.com/item?id=33745815
+> https://github.com/containerd/nerdctl
+
 https://releases.openstack.org/zed/
 
 https://medium.com/kata-containers/getting-rust-y-introducing-kata-containers-3-0-0-e951f359985d

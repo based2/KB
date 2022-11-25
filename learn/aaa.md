@@ -114,6 +114,8 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.freetechbooks.com/
+
 https://maggieappleton.com/tools-for-thought
 > https://news.ycombinator.com/item?id=33666160
 

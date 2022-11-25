@@ -140,6 +140,12 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://kernel.org/doc/html/latest/dev-tools/kunit/
+
+https://news.ycombinator.com/item?id=33742438
+
+https://news.ycombinator.com/item?id=33742130
+
 https://www.jetbrains.com/aqua/
 > https://news.ycombinator.com/item?id=33477056
 

@@ -27,6 +27,9 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://news.cnrs.fr/articles/first-ever-physical-model-consistent-with-the-history-of-the-earth-moon-system
+> https://news.ycombinator.com/item?id=33742283
+
 https://www.nasa.gov/directorates/spacetech/niac/2021_Phase_I/FLOAT/
 
 https://www.sciencedirect.com/science/article/abs/pii/S0960148122001550 Uninterrupted photovoltaic power for lunar colonization without the need for storage

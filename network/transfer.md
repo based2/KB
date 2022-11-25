@@ -54,3 +54,6 @@ https://www.ditto.live/
 
 https://news.ycombinator.com/item?id=32984103 Launch HN: Prequel (YC W21) – Sync data to your customer’s data warehouse
 
+https://www.sciencedirect.com/science/article/abs/pii/S1570870522002128
+> https://news.ycombinator.com/item?id=33742467
+

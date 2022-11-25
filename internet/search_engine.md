@@ -32,6 +32,9 @@ https://news.ycombinator.com/item?id=26582109
 https://search.feep.dev/
 > https://news.ycombinator.com/item?id=33494221
 
+https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/
+> https://news.ycombinator.com/item?id=33717323
+
 # Images
 https://github.com/emnh/PixelArtSearch/blob/master/README.md
 > https://news.ycombinator.com/item?id=26738006
@@ -77,6 +80,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://news.ycombinator.com/item?id=33734259
+
 https://metaphor.systems/
 
 https://github.com/neuml/txtai

@@ -24,6 +24,11 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/
+> https://news.ycombinator.com/item?id=33742563
+
+https://diziet.dreamwidth.org/12934.html IP over HTTP
+
 https://github.com/fatedier/frp fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet
 
 https://github.com/aleixrodriala/wa-tunnel whatsapp

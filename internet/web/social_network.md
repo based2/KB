@@ -54,6 +54,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/
+> https://news.ycombinator.com/item?id=33716429
+
 https://news.ycombinator.com/item?id=33697183
 > https://til.simonwillison.net/mastodon/verifying-github-on-mastodon
 

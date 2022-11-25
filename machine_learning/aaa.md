@@ -189,6 +189,9 @@ https://news.ycombinator.com/item?id=29289431
 
 https://thenextweb.com/news/machine-learning-has-an-alarming-threat-undetectable-backdoors
 
+https://busy-beavers.tigyog.app/rice
+> https://news.ycombinator.com/item?id=33742326
+
 ##
 https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemiologic_research.8.aspx
 > https://news.ycombinator.com/item?id=31037416

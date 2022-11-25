@@ -17,6 +17,11 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://www.reddit.com/r/netsec/comments/z4gf0w/containers_rootful_rootless_privileged_and_super/
+
+https://sysdig.com/blog/analysis-of-supply-chain-attacks-through-public-docker-images/
+> https://news.ycombinator.com/item?id=33721688
+
 https://www.chainguard.dev/unchained/software-dark-matter-is-the-enemy-of-software-transparency
 > https://news.ycombinator.com/item?id=33581983
 

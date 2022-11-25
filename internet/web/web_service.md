@@ -10,6 +10,7 @@ https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
 
 https://hurl.dev/index.html
 > https://news.ycombinator.com/item?id=28758226
+> https://news.ycombinator.com/item?id=33744106
 
 https://curlconverter.com/
 > https://news.ycombinator.com/item?id=30642281

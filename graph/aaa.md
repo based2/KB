@@ -77,6 +77,10 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://www.guardsquare.com/blog/call-graphs-the-bread-and-butter-of-program-analysis
+
+https://subconscious.substack.com/p/noosphere-a-protocol-for-thought
+
 https://github.com/apache/age
 > https://news.ycombinator.com/item?id=33444780
 

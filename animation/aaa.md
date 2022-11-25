@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.bit-101.com/blog/2022/11/coding-curves/
+> https://news.ycombinator.com/item?id=33743945
+
 https://www.motionity.app/
 
 https://github.com/Rezmason/matrix

@@ -1,3 +1,20 @@
+https://www.infoq.com/news/2022/11/XmlSecureResolver/
+
+https://www.cyberscoop.com/dhs-bug-bounty-122-vulnerabilities-27-critical-hackers/
+
+https://news.ycombinator.com/item?id=33741089
+
+https://www.actionnewsjax.com/news/local/investigates-very-scary-cell-phone-issue-dialing-911/ZNT76HVHRRCB5AUVRTT7JL43DM/
+> https://news.ycombinator.com/item?id=33739583
+
+https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/
+> https://news.ycombinator.com/item?id=33741307
+> https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-3890
+
+https://www.bleepingcomputer.com/news/security/pro-russian-hacktivists-take-down-eu-parliament-site-in-ddos-attack/
+
+https://www.bleepingcomputer.com/news/security/mali-gpu-patch-gap-leaves-android-users-vulnerable-to-attacks/
+
 https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/
 > https://news.ycombinator.com/item?id=33713765
 

@@ -57,6 +57,8 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://news.ycombinator.com/item?id=33746360
+
 https://iroh.computer/
 > https://news.ycombinator.com/item?id=33376205
 
