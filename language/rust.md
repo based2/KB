@@ -409,6 +409,11 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blogs.harvard.edu/kapolos/rusty-ownership-and-the-lifecycles-stone/49/
+> https://news.ycombinator.com/item?id=33762444
+
+https://mdwdotla.medium.com/using-rust-at-a-startup-a-cautionary-tale-42ab823d9454
+
 https://arewestackefficientyet.com/
 > https://news.ycombinator.com/item?id=33637092
 

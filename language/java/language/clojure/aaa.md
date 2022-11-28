@@ -86,6 +86,12 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://github.com/borkdude/grasp
+> https://news.ycombinator.com/item?id=33757247
+
+https://yogthos.net/posts/2022-11-26-nREPL-system-interaction.html
+> https://news.ycombinator.com/item?id=33761877
+
 https://www.maria.cloud/
 > https://news.ycombinator.com/item?id=33622406
 

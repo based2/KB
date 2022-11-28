@@ -39,6 +39,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://beringresearch.github.io/macpine/
+> https://news.ycombinator.com/item?id=33769274
+
 https://aws.amazon.com/en/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/
 > https://news.ycombinator.com/item?id=33745815
 > https://github.com/containerd/nerdctl

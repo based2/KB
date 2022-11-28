@@ -76,8 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/stepstone-tech/doom-graalvm
+
 https://news.ycombinator.com/item?id=33730173
-> 
 
 https://wasmer.io/posts/announcing-wasmer-3.0
 > https://news.ycombinator.com/item?id=33721685

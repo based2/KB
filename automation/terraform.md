@@ -140,6 +140,8 @@ https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki
 https://www.reddit.com/r/AZURE/comments/yy772q/manage_azure_policy_with_terraform_my_latest_post/
 
 # News
+https://www.ansible.com/blog/walking-on-clouds-with-ansible
+
 https://github.com/EppO/terraform-provider-environment
 
 https://blog.cloudflare.com/terraforming-cloudflare-at-cloudflare/

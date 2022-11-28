@@ -64,6 +64,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://github.com/gardener/landscaper/blob/master/docs/motivation/motivation.md
+
 https://learnkubernetes.withgoogle.com/
 > https://news.ycombinator.com/item?id=33718496
 

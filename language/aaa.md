@@ -214,6 +214,8 @@ https://news.ycombinator.com/item?id=33194773
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100
 
+https://documentation.softwareag.com/adabas/sql241/reference/intro.htm
+
 https://blog.microfocus.com/cobol-still-standing-the-test-of-time/
 > https://news.ycombinator.com/item?id=28539391
 
@@ -241,6 +243,8 @@ https://www.theregister.com/2022/03/16/new_cobol_contender/
 
 https://github.com/openmainframeproject/cobol-programming-course
 > https://news.ycombinator.com/item?id=31227251
+
+https://news.ycombinator.com/item?id=33774085
 
 ## LISP
 http://www.paulgraham.com/bel.html
@@ -297,6 +301,13 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/
+> https://news.ycombinator.com/item?id=33771922
+
+http://blog.pkh.me/p/37-gcc-undefined-behaviors-are-getting-wild.html
+
+https://github.com/google/mangle Datalog
+
 https://julesjacobs.com/pdf/locks.pdf Higher-Order Leak and Deadlock Free Locks
 
 https://publi.codes/

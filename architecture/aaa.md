@@ -229,6 +229,9 @@ https://www.postman.com/state-of-api/
 
 https://news.ycombinator.com/item?id=33316763 Ask HN: Any good guide which include best practices for library developers?
 
+https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/
+> https://news.ycombinator.com/item?id=33779549
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966

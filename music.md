@@ -102,6 +102,9 @@ https://sonicstate.com/news/2022/08/28/the-chemical-brothers-midi-setup/
 https://trondal.com/sid/
 > https://news.ycombinator.com/item?id=33637292
 
+https://old.reddit.com/r/DJs/comments/z60ahl/automated_dj_software/
+> https://news.ycombinator.com/item?id=33764681
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084

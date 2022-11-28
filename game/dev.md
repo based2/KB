@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://news.ycombinator.com/item?id=33766051
+
 https://github.com/jotson/ridiculous_coding
 
 https://tic80.com/

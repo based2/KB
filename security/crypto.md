@@ -118,6 +118,9 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.realworldtech.com/forum/?threadid=209249&curpostid=209596
+> https://news.ycombinator.com/item?id=33775334
+
 https://phys.org/news/2022-11-mathematical-theorem-encryption-algorithm.html
 
 https://news.ycombinator.com/item?id=33735690

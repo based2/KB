@@ -29,6 +29,9 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://www.cppstories.com/2022/const-options-cpp20/
+> https://news.ycombinator.com/item?id=33774373
+
 https://pabloariasal.github.io/2022/11/12/couring-1/
 > https://news.ycombinator.com/item?id=33583766
 

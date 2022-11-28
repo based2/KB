@@ -62,6 +62,9 @@ https://josephg.com/blog/crdts-are-the-future/
 https://jzhao.xyz/posts/bft-json-crdt/
 > https://news.ycombinator.com/item?id=33694568
 
+https://madebyevan.com/algos/crdt-fractional-indexing/
+> https://news.ycombinator.com/item?id=33764449
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

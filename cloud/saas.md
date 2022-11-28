@@ -28,3 +28,6 @@ https://news.ycombinator.com/item?id=33502567
 https://www.lennysnewsletter.com/p/measuring-cohort-retention
 > https://news.ycombinator.com/item?id=33666565
 
+https://github.com/getlago/lago/wiki/Engineers%27-billing-nightmares
+> https://news.ycombinator.com/item?id=33755400
+

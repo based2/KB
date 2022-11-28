@@ -46,6 +46,12 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://tomverbeure.github.io/2022/11/18/Primitive-Transformations-with-Yosys-Techmap.html
+> https://news.ycombinator.com/item?id=33755344
+
+http://www.technoblogy.com/show?3UKF
+> https://news.ycombinator.com/item?id=33775143
+
 https://electronics.stackexchange.com/questions/643070/why-does-the-e12-resistor-sequence-use-27-and-33-instead-of-26-and-32
 > https://news.ycombinator.com/item?id=33677340
 

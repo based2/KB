@@ -140,6 +140,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://simonwillison.net/2022/Nov/26/productivity/
+> https://news.ycombinator.com/item?id=33762438
+
 https://kernel.org/doc/html/latest/dev-tools/kunit/
 
 https://news.ycombinator.com/item?id=33742438

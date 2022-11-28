@@ -30,6 +30,8 @@ https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 
 https://determinate.systems/posts/nix-run
 
+https://github.com/cachix/devenv
+
 #
 https://github.com/teaxyz/cli nft
 > https://news.ycombinator.com/item?id=33681216

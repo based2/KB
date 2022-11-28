@@ -81,6 +81,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.science.org/doi/10.1126/sciadv.add7118
+
 https://www.tomshardware.com/news/intel-officially-introduces-pay-as-you-go-chip-licensing
 > https://news.ycombinator.com/item?id=33734711
 > https://news.ycombinator.com/item?id=33717331

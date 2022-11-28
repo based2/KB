@@ -1,3 +1,7 @@
+https://chromereleases.googleblog.com/2022/11/stable-channel-update-for-desktop_24.html
+
+https://vigilance.fr/vulnerabilite/org-ini4j-deni-de-service-via-fetch-39965
+
 https://www.infoq.com/news/2022/11/XmlSecureResolver/
 
 https://www.cyberscoop.com/dhs-bug-bounty-122-vulnerabilities-27-critical-hackers/
@@ -4898,6 +4902,8 @@ https://www.openwall.com/lists/oss-security/2021/04/08/1 linux ebpf
 > https://news.ycombinator.com/item?id=26757760
 
 https://www.schneier.com/blog/archives/2021/04/backdoor-added-but-found-in-php.html
+
+https://www.douglas.stebila.ca/research/papers/EPRINT-GoeSte22/
 
 https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
 > https://news.ycombinator.com/item?id=26726902

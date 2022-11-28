@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://github.com/drwhut/tabletop-club
+> https://news.ycombinator.com/item?id=33775085
+
 https://blog.gingerbeardman.com/2016/08/19/game-archaeology-no-mans-sky/
 
 https://twitter.com/jagarikin/status/1593771091738374144

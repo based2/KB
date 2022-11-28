@@ -73,6 +73,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://techcrunch.com/2022/11/28/facebook-gdpr-penalty/
+
 https://news.ycombinator.com/item?id=33644336
 
 https://www.cnil.fr/en/discord-inc-fined-800-000-euros

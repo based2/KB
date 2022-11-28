@@ -38,6 +38,8 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://news.ycombinator.com/item?id=33749677
+
 https://justinblank.com/notebooks/performanceoptimizationscanhaveunexpectedlylargeeffectswhencombinedwithcaches.html
 > https://news.ycombinator.com/item?id=33596546
 

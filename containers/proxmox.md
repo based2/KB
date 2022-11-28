@@ -1,3 +1,5 @@
+https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-3
+
 https://linuxfr.org/news/proxmox-virtual-environment-7-2-est-disponible
 
 https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/ filesystem

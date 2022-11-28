@@ -231,6 +231,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/
+> https://news.ycombinator.com/item?id=33772690
+
 https://explosion.ai/blog/metal-performance-shaders
 
 https://sidsite.com/posts/kubeflow-hyperparam-opt/

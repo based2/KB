@@ -234,6 +234,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful?pk_campaign=rss
+
 https://incubator.apache.org/cookbook/
 
 https://programm.froscon.org/2022/speakers.html .de

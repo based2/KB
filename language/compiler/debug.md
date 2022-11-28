@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://www.logikalsolutions.com/wordpress/information-technology/core-dumps-2/
+
 https://github.com/osandov/drgn
 > https://news.ycombinator.com/item?id=33486962
 

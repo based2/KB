@@ -255,6 +255,17 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/comet-ml/kangas
+
+https://www.cloudquery.io/blog/building-cloudquery
+> https://news.ycombinator.com/item?id=33776491
+
+https://www.moderndescartes.com/essays/data_oriented_python/
+> https://news.ycombinator.com/item?id=33754827
+
+https://hughjonesd.github.io/doctest/
+> https://news.ycombinator.com/item?id=33757766
+
 https://www.d3indepth.com/
 
 https://www.bkent.net/Doc/darxrp.htm

@@ -18,6 +18,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
 # News
+https://github.com/bitcoin/bitcoin/issues/26585 ddos
+> https://news.ycombinator.com/item?id=33764320
+
 https://gizmodo.com/bitcoin-crypto-bank-of-international-settlements-1849784466
 > https://news.ycombinator.com/item?id=33610476
 

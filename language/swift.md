@@ -17,6 +17,9 @@ https://forums.swift.org/t/moving-the-swift-programming-language-book-to-open-so
 
 https://github.com/unixzii/swiftui-for-react-devs
 
+https://notes.alinpanaitiu.com/SwiftUI%20is%20convenient,%20but%20slow
+> https://news.ycombinator.com/item?id=33772876
+
 https://troz.net/post/2022/swiftui-mac-2022/
 > https://news.ycombinator.com/item?id=31967965
 

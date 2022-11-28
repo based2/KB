@@ -70,6 +70,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://wd.gt/
+> https://news.ycombinator.com/item?id=33777705
+
 https://github.com/wader/jqjq
 > https://news.ycombinator.com/item?id=33741688
 

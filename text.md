@@ -126,6 +126,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://news.ycombinator.com/item?id=33767301
+
 https://resoomer.com/
 
 https://libs.suckless.org/libgrapheme/

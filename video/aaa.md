@@ -40,6 +40,9 @@ https://github.com/svt/encore Scalable video transcoding tool, built on Open Sou
 
 https://github.com/leandromoreira/ffmpeg-libav-tutorial
 
+https://img.ly/blog/ultimate-guide-to-ffmpeg/
+> https://news.ycombinator.com/item?id=33771445
+
 https://github.com/savonet/liquidsoap OCaml
 
 DaVinci resolve - https://www.blackmagicdesign.com/fr/products/davinciresolve/
@@ -110,6 +113,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://freetubeapp.io/
+> https://news.ycombinator.com/item?id=33766192
+
 https://github.com/mli/autocut Video editor, python
 
 https://www.paulox.net/2022/11/17/resize-a-video-with-ffmpeg-for-mastodon/

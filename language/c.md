@@ -3,6 +3,9 @@ https://en.wikipedia.org/wiki/The_C_Programming_Language
 http://c-faq.com/
 > https://news.ycombinator.com/item?id=28502484
 
+https://tmewett.com/c-tips/
+> https://news.ycombinator.com/item?id=33773043
+
 https://lemire.me/blog/2021/10/27/in-c-how-do-you-know-if-the-dynamic-allocation-succeeded/
 > https://news.ycombinator.com/item?id=29123678
 

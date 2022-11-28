@@ -44,3 +44,6 @@ https://www.uber.com/en-SE/blog/rethinking-gps/
 > https://news.ycombinator.com/item?id=32795169
 
 https://www.reuters.com/world/us/pentagon-warns-gps-interference-ligado-broadband-network-2022-09-09/
+
+https://www.gpsrchive.com/Shared/Satellites/GPS%20vs%20GLONASS%20vs%20Galileo.html
+> https://news.ycombinator.com/item?id=33764903

@@ -23,6 +23,13 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.bleepingcomputer.com/news/security/attackers-bypass-coinbase-and-metamask-2fa-via-teamviewer-fake-support-chat/
+> https://news.ycombinator.com/item?id=33777407
+
+https://www.coindesk.com/tech/2022/11/26/major-canadian-crypto-exchange-coinsquare-says-client-data-breached/
+
+https://news.ycombinator.com/item?id=33774822
+
 https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/01/fact-sheet-the-second-international-counter-ransomware-initiative-summit/
 
 https://www.gizmotimes.com/blockchain/cryptocurrency/ftx-bankruptcy-filing-list-of-companies/45029

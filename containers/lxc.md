@@ -14,6 +14,9 @@ https://earthly.dev/blog/lxc-vs-docker/
 https://lwn.net/Articles/907613/ LXC and LXD: a different container story
 > https://news.ycombinator.com/item?id=32953225
 
+https://beringresearch.github.io/macpine/lxd_macpine/
+> https://news.ycombinator.com/item?id=33762657
+
 https://discuss.linuxcontainers.org/t/lxd-5-0-lts-has-been-released/13723
 
 https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/

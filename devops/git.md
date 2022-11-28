@@ -271,6 +271,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/
+> https://news.ycombinator.com/item?id=33766396
+
 https://github.com/MichaelMure/git-bug/releases/tag/v0.8.0
 > https://news.ycombinator.com/item?id=33730417
 

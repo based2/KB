@@ -1,4 +1,7 @@
 # News
+https://blog.gwlab.page/building-nas-with-zfs-afp-for-time-machine-d8d67add1980
+> https://news.ycombinator.com/item?id=33762254
+
 https://pilabor.com/blog/2022/10/audio-cd-ripping-hardware/
 > https://news.ycombinator.com/item?id=33499646
 

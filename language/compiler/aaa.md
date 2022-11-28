@@ -118,6 +118,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://programming-journal.org/2021/5/8/
+> https://news.ycombinator.com/item?id=33754222
+
 https://ccache.dev/
 > https://news.ycombinator.com/item?id=33715945
 

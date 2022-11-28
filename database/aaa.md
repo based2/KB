@@ -68,6 +68,14 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://blog.zm.is/database-optimisation-analytics-burnout/
+> https://lobste.rs/s/hnxsxx/database_optimisation_analytics
+
+https://blogs.oracle.com/optimizer/post/optimizer-transformations-or-expansion
+
+https://sirupsen.com/index-merges
+> https://news.ycombinator.com/item?id=33765570
+
 https://planetscale.com/blog/how-planetscale-boost-serves-your-sql-queries-instantly
 > https://news.ycombinator.com/item?id=33611759
 
