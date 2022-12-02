@@ -61,6 +61,10 @@ https://github.com/libjxl/libjxl/releases/tag/v0.7.0
 > https://news.ycombinator.com/item?id=32970037
 
 # News
+https://computerhistory.org/blog/postscript-a-digital-printing-press/
+
+https://news.ycombinator.com/item?id=33820907
+
 https://framagit.org/jubako/spec Container format to store things in organized manner
 
 https://www.autodidacts.io/taxonomy-is-hard/

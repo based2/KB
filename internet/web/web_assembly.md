@@ -76,6 +76,12 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://extism.org/blog/announcing-extism/
+> https://news.ycombinator.com/item?id=33816186
+
+https://wasmer.io/posts/wasmer-takes-webassembly-libraries-manistream-with-wai
+> https://news.ycombinator.com/item?id=33833826
+
 https://github.com/stepstone-tech/doom-graalvm
 
 https://news.ycombinator.com/item?id=33730173

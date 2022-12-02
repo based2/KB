@@ -151,6 +151,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://jam.dev/blog/how-to-move-fast-and-not-break-things/
+> https://news.ycombinator.com/item?id=33831232
+
 https://github.com/opf/openproject/releases/tag/v12.3.2
 
 https://upbase.io/

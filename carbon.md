@@ -64,7 +64,12 @@ https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-sh
 # Simulator
 https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 
+https://www.terraformation.com/
+
 # News
+https://www.maxinomics.com/blog/europe-makes-shipping-vessels-pay-for-carbon-emissions
+> https://news.ycombinator.com/item?id=33833017
+
 https://arstechnica.com/science/2022/11/the-road-to-low-carbon-concrete/
 
 https://exergo.ch/portfolio-item/co2network/

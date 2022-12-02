@@ -1,3 +1,23 @@
+https://souffle-lang.github.io/index.html
+> https://news.ycombinator.com/item?id=33806419
+
+https://news.ycombinator.com/item?id=33807130
+
+https://zerforschung.org/posts/hive-en/
+> https://news.ycombinator.com/item?id=33808262
+
+https://news.ycombinator.com/item?id=33827088
+
+https://knightcolumbia.org/blog/why-were-suing-nso-group?_preview_=7bd805e6dc
+> https://news.ycombinator.com/item?id=33824217
+
+https://lapcatsoftware.com/articles/MontereyCVE.html
+> https://news.ycombinator.com/item?id=33833751
+
+https://news.ycombinator.com/item?id=33818183
+
+https://news.ycombinator.com/item?id=33831127
+
 https://chromereleases.googleblog.com/2022/11/stable-channel-update-for-desktop_24.html
 
 https://vigilance.fr/vulnerabilite/org-ini4j-deni-de-service-via-fetch-39965

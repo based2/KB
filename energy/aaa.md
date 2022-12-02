@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://devecitech.com/
+> https://news.ycombinator.com/item?id=33833883
+
 https://www.power-eng.com/nuclear/westinghouse-sees-a-tech-disrupter-in-its-evinci-microreactor/
 > https://news.ycombinator.com/item?id=33724468
 

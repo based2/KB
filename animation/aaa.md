@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://aatishb.com/patterncollider/
+> https://news.ycombinator.com/item?id=33818693
+
 https://www.bit-101.com/blog/2022/11/coding-curves/
 > https://news.ycombinator.com/item?id=33743945
 

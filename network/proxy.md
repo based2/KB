@@ -1,6 +1,9 @@
 https://trafficserver.apache.org/
 > https://news.ycombinator.com/item?id=29079268
 
+https://www.haproxy.com/blog/announcing-haproxy-2-7/
+> https://news.ycombinator.com/item?id=33829458
+
 https://www.haskellforall.com/2021/09/forward-and-reverse-proxies-explained.html
 > https://news.ycombinator.com/item?id=28380327
 

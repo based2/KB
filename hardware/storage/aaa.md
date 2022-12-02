@@ -1,4 +1,7 @@
 # News
+https://www.kinograph.cc/
+> https://news.ycombinator.com/item?id=33815337
+
 https://blog.gwlab.page/building-nas-with-zfs-afp-for-time-machine-d8d67add1980
 > https://news.ycombinator.com/item?id=33762254
 

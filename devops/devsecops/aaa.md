@@ -25,6 +25,8 @@ https://dependencytrack.org/
 https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 
 #
+https://about.gitlab.com/blog/2022/11/30/achieve-slsa-level-2-compliance-with-gitlab/
+
 https://github.com/ossillate-inc/packj
 
 https://securitylabs.datadoghq.com/articles/guarddog-identify-malicious-pypi-packages/

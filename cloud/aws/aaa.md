@@ -82,6 +82,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://hackmd.io/RBnMLnVUR3O9_TkqCvHfRg fgpa Optimizing AWS F1 DMA
+
 https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/abstract-and-introduction.html
 
 https://www.reddit.com/r/aws/comments/ywwiku/now_openaws_region_in_spain_eusouth2/

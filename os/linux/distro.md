@@ -71,6 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://nixos.org/blog/announcements
+> https://news.ycombinator.com/item?id=33815085
+
 https://github.com/PartialVolume/shredos.x86_64 Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe
 
 https://github.com/DGAC/inseca debian sec

@@ -1,5 +1,8 @@
 https://matejknopp.com/post/introducing-nativeshell/
 
+https://github.com/kennytilton/flutter-mx/blob/main/README.md
+> https://news.ycombinator.com/item?id=33820608
+
 https://github.com/flutter/flutter/issues/51752 Problems That Hooks Solve
 > https://news.ycombinator.com/item?id=28975947
 

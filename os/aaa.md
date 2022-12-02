@@ -21,6 +21,8 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://www.genode.org/documentation/release-notes/22.11
+
 https://daniel.haxx.se/blog/2022/11/25/89-operating-systems/
 > https://news.ycombinator.com/item?id=33742790
 

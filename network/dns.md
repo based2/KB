@@ -112,6 +112,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://github.com/aaronjanse/dns-over-wikipedia
+> https://news.ycombinator.com/item?id=33830759
+
 https://cddo.blog.gov.uk/2022/11/15/is-it-time-to-retire-the-gb-top-level-domain/
 > https://news.ycombinator.com/item?id=33689935
 

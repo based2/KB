@@ -76,6 +76,9 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://www.slynyrd.com/blog/2022/11/28/pixelblog-41-isometric-pixel-art
+> https://news.ycombinator.com/item?id=33814573
+
 https://github.com/ShaunLawrie/PwshPaint
 > https://news.ycombinator.com/item?id=33399632
 

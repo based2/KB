@@ -44,6 +44,12 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://www.washingtonpost.com/technology/2022/11/30/trustcor-internet-authority-mozilla/
+> https://news.ycombinator.com/item?id=33810755
+
+https://bugs.chromium.org/p/apvi/issues/detail?id=100
+> https://news.ycombinator.com/item?id=33823946
+
 https://github.com/Hakky54/certificate-ripper
 
 https://www.ssllabs.com/ssltest/analyze.html?d=paypal.com&s=64.4.250.36&hideResults=on

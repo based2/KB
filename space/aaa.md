@@ -48,6 +48,8 @@ https://en.wikipedia.org/wiki/Electrodynamic_tether
 https://www.thedrive.com/the-war-zone/43328/u-s-satellites-are-being-attacked-everyday-according-to-space-force-general
 > https://news.ycombinator.com/item?id=29402923
 
+https://news.ycombinator.com/item?id=33802167
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112

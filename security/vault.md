@@ -40,6 +40,9 @@ https://www.passbolt.com/
 
 # Incident
 
+https://blog.lastpass.com/2022/11/notice-of-recent-security-incident/
+> https://news.ycombinator.com/item?id=33806803
+
 https://twitter.com/KeePassXC/status/1575081535442628609
 > https://news.ycombinator.com/item?id=33006728
 

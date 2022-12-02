@@ -255,6 +255,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://jakespracher.medium.com/machines-and-chaos-9f0e87eebe86
+> https://news.ycombinator.com/item?id=33823468
+
+https://www.countbayesie.com/blog/2022/11/30/understanding-convolutions-in-probability-a-mad-science-perspective
+> https://news.ycombinator.com/item?id=33819952
+
 https://github.com/comet-ml/kangas
 
 https://www.cloudquery.io/blog/building-cloudquery

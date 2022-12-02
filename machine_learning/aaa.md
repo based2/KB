@@ -231,6 +231,24 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/
+> https://news.ycombinator.com/item?id=33804909
+
+https://news.ycombinator.com/item?id=33818531
+
+https://news.ycombinator.com/item?id=33823170
+
+https://www.deepmind.com/blog/mastering-stratego-the-classic-game-of-imperfect-information
+> https://news.ycombinator.com/item?id=33822145
+
+https://pytorch.org/get-started/pytorch-2.0/
+> https://news.ycombinator.com/item?id=33832511
+
+https://news.ycombinator.com/item?id=33832358
+
+https://beta.openai.com/docs/models/overview
+> https://news.ycombinator.com/item?id=33780720
+
 https://www.sequoiacap.com/article/generative-ai-a-creative-new-world/
 > https://news.ycombinator.com/item?id=33772690
 

@@ -65,6 +65,9 @@ https://jzhao.xyz/posts/bft-json-crdt/
 https://madebyevan.com/algos/crdt-fractional-indexing/
 > https://news.ycombinator.com/item?id=33764449
 
+https://zed.dev/blog/crdts
+> https://news.ycombinator.com/item?id=33820975
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

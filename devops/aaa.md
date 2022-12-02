@@ -127,6 +127,8 @@ https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-
 
 # Incidents
 
+https://about.gitlab.com/releases/2022/11/30/security-release-gitlab-15-6-1-released/
+
 https://lists.apache.org/thread/htxbr8oc464hxrgroftnz3my70whk93b CVE-2022-37866: Apache Ivy: Ivy Path traversal
 
 https://www.bleepingcomputer.com/news/security/researchers-release-exploit-details-for-backstage-pre-auth-rce-bug/
@@ -235,6 +237,9 @@ https://travis-ci.community/t/security-bulletin/12081
 SourceForge nobody Apache HTTPD configuration
 
 # New versions
+
+https://about.gitlab.com/releases/2022/11/22/gitlab-15-6-released/
+
 https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/
 > https://news.ycombinator.com/item?id=33360035
 
@@ -254,6 +259,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://about.gitlab.com/blog/2022/10/31/a-snapshot-of-modern-devops-practices-today/
+> https://news.ycombinator.com/item?id=33828910
+
 https://news.ycombinator.com/item?id=33745899
 
 https://uselessdevblog.wordpress.com/2022/11/10/stop-lying-to-yourself-you-will-never-fix-it-later/

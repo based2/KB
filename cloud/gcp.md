@@ -27,6 +27,11 @@ https://securityintelligence.com/posts/attacker-achieve-persistence-google-cloud
 > https://www.reddit.com/r/netsec/comments/ya7ryu/how_an_attacker_can_achieve_persistence_in_google/
 
 # News
+https://news.ycombinator.com/item?id=33821959
+
+https://cloud.google.com/storage/pricing-announce-apr23
+> https://news.ycombinator.com/item?id=33836388
+
 https://about.gitlab.com/handbook/engineering/incubation/cloud-seed/
 
 https://devclass.com/2022/10/12/google-introduces-cloud-developer-workstations-with-a-jetbrains-flavor-but-cannot-avoid-visual-studio-code/

@@ -211,6 +211,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://web.dev/viewport-units/
+> https://news.ycombinator.com/item?id=33812528
+
 https://blog.jim-nielsen.com/2022/css-for-urls-and-http-headers/
 > https://news.ycombinator.com/item?id=33774624
 

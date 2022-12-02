@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://kennedn.com/blog/posts/snowdon/
+> https://news.ycombinator.com/item?id=33815831
+
 https://astrid.tech/2022/07/07/0/blink-mini-disassembly/
 > https://news.ycombinator.com/item?id=33683122
 

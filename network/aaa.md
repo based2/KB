@@ -62,6 +62,8 @@ https://github.com/netenglabs/suzieq Suzieq - Healthier Networks Through Network
 https://www.mattkeeter.com/blog/2022-08-11-udp/ From Oscilloscope to Wireshark: A UDP Story
 > https://news.ycombinator.com/item?id=32428032
 
+https://news.ycombinator.com/item?id=33820330
+
 # Tests
 https://docs.gns3.com/docs/
 

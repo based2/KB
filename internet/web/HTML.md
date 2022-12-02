@@ -146,6 +146,11 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://beautiful-soup-4.readthedocs.io/en/latest/
+
+https://github.com/ericchiang/pup
+> https://news.ycombinator.com/item?id=33805732
+
 https://news.ycombinator.com/item?id=33553895 i
 
 https://blog.jim-nielsen.com/2022/browsers-json-formdata/

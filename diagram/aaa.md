@@ -48,6 +48,9 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://text-to-diagram.com/
+> https://news.ycombinator.com/item?id=33818511
+
 https://github.com/shubhamgrg04/awesome-diagramming
 
 https://github.com/AykutSarac/jsoncrack.com

@@ -2,6 +2,8 @@ https://github.com/google/AFL
 
 https://github.com/dogancanbakir/pirebok
 
+https://tlakh.xyz/fuzzing-ping.html
+
 https://blog.doyensec.com/2022/11/15/learning-ajp.html
 
 https://blog.impalabs.com/2211_hyperpom.html

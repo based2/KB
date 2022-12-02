@@ -127,6 +127,13 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://github.com/magma
+
+https://broadbandmap.fcc.gov/home map
+> https://news.ycombinator.com/item?id=33809377
+
+https://www.fcc.gov/document/fcc-partially-grants-spacex-gen2-broadband-satellite-application
+
 https://www.mercurynews.com/2022/11/21/he-rallied-41-neighbors-to-build-lightning-fast-fiber-optic-community/
 
 https://www.zdnet.com/article/thanks-to-open-source-5g-cracks-50-of-the-telecom-market/

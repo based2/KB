@@ -13,6 +13,8 @@ https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
 https://www.nlpdemystified.org/
 > https://news.ycombinator.com/item?id=31421232
 
+https://news.ycombinator.com/item?id=33815146
+
 https://www.technologyreview.com/2022/01/20/1043885/meta-ai-facebook-learning-algorithm-nlp-vision-speech-agi/
 
 https://nlpcloud.io/effectively-using-gpt-j-gpt-neo-gpt-3-alternatives-few-shot-learning.html

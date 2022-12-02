@@ -33,6 +33,9 @@ https://determinate.systems/posts/nix-run
 https://github.com/cachix/devenv
 
 #
+https://smaller.fish/posts/snap_updates
+> https://news.ycombinator.com/item?id=33835083
+
 https://github.com/teaxyz/cli nft
 > https://news.ycombinator.com/item?id=33681216
 

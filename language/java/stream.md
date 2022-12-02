@@ -22,6 +22,8 @@ https://www.reddit.com/r/java/comments/nuuhdz/streamtolist_is_weird/
 https://medium.com/geekculture/pitfalls-of-java-parallel-streams-731fe0c1eb5f
 
 #
+https://www.reddit.com/r/java/comments/z99un5/vinyl_relational_streams_for_java/
+
 https://www.infoq.com/articles/apache-beam-intro/
 
 https://github.com/paulhoule/pidove

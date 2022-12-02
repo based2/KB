@@ -24,6 +24,9 @@ https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-wi
 https://zfsbootmenu.org/
 > https://news.ycombinator.com/item?id=33571656
 
+https://github.com/openzfs/zfs/releases/tag/zfs-2.1.7
+> https://news.ycombinator.com/item?id=33826501
+
 # Distributed
 https://www.lustre.org/
 

@@ -53,3 +53,6 @@ https://xai.sh/2020/10/16/Move-running-process-into-tmux-session.html
 
 https://checksum.sh/
 > https://news.ycombinator.com/item?id=33375554
+
+https://yotam.net/posts/the-audacity-of-piping-curl-to-bash/
+> https://news.ycombinator.com/item?id=33830915

@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://sqlfordevs.com/ebook
+> https://news.ycombinator.com/item?id=33833836
+
 https://blog.zm.is/database-optimisation-analytics-burnout/
 > https://lobste.rs/s/hnxsxx/database_optimisation_analytics
 

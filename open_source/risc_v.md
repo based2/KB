@@ -1,3 +1,6 @@
+https://www.cnx-software.com/2022/12/02/pine64-ox64-sbc-bl808-risc-v-multi-protocol-wisoc-64mb-ram/
+> https://news.ycombinator.com/item?id=33829553
+
 https://www.mdpi.com/2079-9292/11/19/2990/htm
 > https://news.ycombinator.com/item?id=33501004
 

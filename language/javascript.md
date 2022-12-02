@@ -349,6 +349,9 @@ https://medium.com/@sveltestorm/sveltestorm-5-0-a-svelte-ide-like-no-other-c79da
 
 https://veritabs.netlify.app/
 
+https://escape.tech/blog/from-vue2-to-svelte/
+> https://news.ycombinator.com/item?id=33827075
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296

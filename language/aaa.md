@@ -301,6 +301,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://program-repair.org/
+
+https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction
+> https://news.ycombinator.com/item?id=33830211
+
 https://predr.ag/blog/falsehoods-programmers-believe-about-undefined-behavior/
 > https://news.ycombinator.com/item?id=33771922
 

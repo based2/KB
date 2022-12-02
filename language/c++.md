@@ -1,6 +1,9 @@
 https://grenouillebouillie.wordpress.com/2022/05/09/the-hidden-cost-of-exception-handling/
 > https://news.ycombinator.com/item?id=33557022
 
+https://devblogs.microsoft.com/oldnewthing/20190830-00/?p=102823
+> https://news.ycombinator.com/item?id=33802815
+
 https://www.efinancialcareers.com/news/2022/11/why-is-there-a-drought-in-the-talent-pool-for-c-developers
 > https://news.ycombinator.com/item?id=33436268
 

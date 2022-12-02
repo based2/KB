@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=33820575
+
 https://www.bleepingcomputer.com/news/security/attackers-bypass-coinbase-and-metamask-2fa-via-teamviewer-fake-support-chat/
 > https://news.ycombinator.com/item?id=33777407
 

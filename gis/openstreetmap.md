@@ -38,6 +38,9 @@ https://github.com/headwaymaps/headway Self-hostable maps stack, powered by Open
 > https://news.ycombinator.com/item?id=32875795
 
 #
+https://www.geodesk.com/
+> https://news.ycombinator.com/item?id=33812983
+
 https://demo.f4map.com/#camera.theta=0.9
 > https://news.ycombinator.com/item?id=33485985
 
