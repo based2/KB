@@ -113,6 +113,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.collabora.com/news-and-blog/blog/2022/12/02/tracing-stateless-video-hardware-decoding-in-v4l2/
+
 https://freetubeapp.io/
 > https://news.ycombinator.com/item?id=33766192
 

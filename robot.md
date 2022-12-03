@@ -59,6 +59,8 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://news.ycombinator.com/item?id=33843366
+
 https://www.eurekalert.org/news-releases/971504 High-power electrostatic actuators to realize artificial muscles
 
 https://abcnews.go.com/International/wireStory/israel-deploys-remote-controlled-robotic-guns-west-bank-93392154

@@ -44,6 +44,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://text.npr.org/1140558146
+
 https://www.theguardian.com/artanddesign/2022/oct/28/mondrian-painting-has-been-hanging-upside-down-for-75-years
 > https://news.ycombinator.com/item?id=33370228
 

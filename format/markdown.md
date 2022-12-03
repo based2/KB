@@ -57,3 +57,5 @@ https://www.russellbeattie.com/notes/posts/why-is-markdown-popular.html
 
 https://ipfs.io/ipfs/bafybeid7lt7snuzcvcmfqs5a5hlc5fmk3xmflz4hx2qa7c674vm3rpsdvm/why-we-should-have-markdown-rendered-websites.html
 > https://news.ycombinator.com/item?id=33548134
+
+https://news.ycombinator.com/item?id=33843009

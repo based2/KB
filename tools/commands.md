@@ -44,6 +44,8 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://xmind.app/m/WwtB/
+
 https://github.com/scusi/spipe go
 
 https://stackoverflow.com/questions/74508128/would-it-be-a-good-idea-if-posix-commands-had-a-flag-to-output-standardized-json

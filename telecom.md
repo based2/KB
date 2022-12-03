@@ -127,6 +127,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://newatlas.com/telecommunications/tbird-laser-satellite-data-transmission-speed-record/
+
 https://github.com/magma
 
 https://broadbandmap.fcc.gov/home map

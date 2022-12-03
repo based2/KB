@@ -135,6 +135,8 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.howtogeek.com/816348/did-you-know-shiftctrlaltwinl-opens-linkedin-on-windows/
+
 https://devblogs.microsoft.com/oldnewthing/20221115-00/?p=107399 How does Windows decide whether your computer has limited or full Internet access?
 > https://news.ycombinator.com/item?id=33664608
 

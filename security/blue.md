@@ -44,3 +44,5 @@ https://docs.velociraptor.app/
 > https://github.com/Velocidex/cloudvelo An experimental Velociraptor implementation using cloud infrastructure
 
 https://github.com/blueteam0ps/memOptix/ A Jupyter notebook to assist with the analysis of the output generated from Volatility memory extraction framework
+
+https://github.com/kitabisa/teler

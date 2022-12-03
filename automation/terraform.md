@@ -125,6 +125,12 @@ https://github.com/1debit/alternat/
 
 https://www.reddit.com/r/aws/comments/yv1tx4/aws_control_tower_vs_terraform/
 
+https://www.meshcloud.io/de/blog/aws-landing-zone-comparison/
+
+https://awstip.com/provisioning-infrastructure-on-aws-with-gitlab-using-gitlab-managed-terraform-state-d06c13c9efd1
+
+https://blog.symops.com/2022/11/10/stop-playing-whac-a-mole-start-using-least-privilege/
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -139,10 +145,17 @@ https://github.com/Azure/terraform-azurerm-caf-enterprise-scale/wiki
 
 https://www.reddit.com/r/AZURE/comments/yy772q/manage_azure_policy_with_terraform_my_latest_post/
 
+https://thesaadahmed.medium.com/a-basic-ci-cd-pipeline-for-infrastructure-as-a-code-in-azure-devops-84393a57137c
+
 # News
+https://github.com/busser/tftree
+
+https://brendanthompson.com/posts/2022/11/terraform-dynamic-blocks
+> https://www.reddit.com/r/Terraform/comments/z7dygi/terraform_dynamic_blocks_and_how_to_use_them_my/
+
 https://www.ansible.com/blog/walking-on-clouds-with-ansible
 
-https://github.com/EppO/terraform-provider-environment
+https://github.com/EppO/terraform-provider-environment exposes Shell environment variables
 
 https://blog.cloudflare.com/terraforming-cloudflare-at-cloudflare/
 

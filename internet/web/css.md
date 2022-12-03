@@ -211,6 +211,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://austingil.com/px-or-rem-in-css/
+> https://news.ycombinator.com/item?id=33846512
+
 https://web.dev/viewport-units/
 > https://news.ycombinator.com/item?id=33812528
 

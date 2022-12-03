@@ -67,6 +67,12 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://videos.assemblee-nationale.fr/video.12415008_6362776827e53.souverainete-et-independance-energetique-de-la-france--auditions-diverses-2-novembre-2022
+> https://www.youtube.com/watch?v=oweVFXFFh04
+> https://www.connaissancedesenergies.org/fiche-pedagogique/hydroelectricite-stations-de-transfert-denergie-par-pompage-step
+> https://theshiftproject.org/
+> https://www.carbone4.com/
+
 https://www.maxinomics.com/blog/europe-makes-shipping-vessels-pay-for-carbon-emissions
 > https://news.ycombinator.com/item?id=33833017
 

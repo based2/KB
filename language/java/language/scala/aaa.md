@@ -83,6 +83,8 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://zio.dev/zio-flow/zflow/
+
 https://www.reddit.com/r/scala/comments/yruu34/sbt_180_released/
 
 https://alexn.org/blog/2022/10/27/immutable-collections-your-default/

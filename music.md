@@ -182,6 +182,9 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://aatishb.com/dissonance/
+> https://news.ycombinator.com/item?id=33829384
+
 https://teropa.info/musicmouse/
 > https://news.ycombinator.com/item?id=33668954
 

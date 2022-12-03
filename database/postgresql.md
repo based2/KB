@@ -263,6 +263,8 @@ https://www.enterprisedb.com/blog/introducing-cloudnativepg-new-open-source-kube
 https://nhost.io/blog/individual-postgres-instances
 > https://news.ycombinator.com/item?id=32986325
 
+https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
+
 # News
 https://www.cybertec-postgresql.com/en/explain-that-parameterized-statement/
 

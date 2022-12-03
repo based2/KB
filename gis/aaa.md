@@ -213,6 +213,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://blog.dahl.dev/posts/plotting-swedens-real-estate-prices-on-a-heatmap-with-deckgl-and-cloudflare/
+
 https://garrit.xyz/posts/2022-11-24-smart-move-google
 > https://news.ycombinator.com/item?id=33729345
 

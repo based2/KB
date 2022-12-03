@@ -500,6 +500,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.solidjs.com/
+
 https://github.com/eslint/eslint/discussions/16557
 > https://news.ycombinator.com/item?id=33772530
 
@@ -810,8 +812,6 @@ https://github.com/PipedreamHQ/pipedream
 
 https://github.com/windowjs/windowjs
 > https://news.ycombinator.com/item?id=29874029
-
-https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 
 https://www.state-designer.com/
 

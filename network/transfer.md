@@ -57,3 +57,6 @@ https://news.ycombinator.com/item?id=32984103 Launch HN: Prequel (YC W21) – Sy
 https://www.sciencedirect.com/science/article/abs/pii/S1570870522002128
 > https://news.ycombinator.com/item?id=33742467
 
+https://www.seafile.com/en/home/
+> https://linuxfr.org/news/seafform-version-0-6-formulaires-integres-avec-seafile
+

@@ -255,6 +255,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://voxel51.com/docs/fiftyone/tutorials/pandas_comparison.html
+
 https://jakespracher.medium.com/machines-and-chaos-9f0e87eebe86
 > https://news.ycombinator.com/item?id=33823468
 

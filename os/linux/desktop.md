@@ -75,6 +75,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://pointieststick.com/2022/12/02/this-week-in-kde-custom-tiling/
+
 https://github.com/glouw/paperview
 
 https://github.com/rochus-keller/LeanQt/releases/tag/2022-11-11

@@ -64,6 +64,16 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://github.com/projectsveltos
+> https://news.ycombinator.com/item?id=33847564
+> https://kyverno.io/
+> https://projectcontour.io/
+> https://www.tigera.io/project-calico/
+
+https://engineering.empathy.co/progressive-delivery-in-kubernetes-analysis/
+
+https://thenewstack.io/introduction-to-kubernetes-imperative-commands/
+
 https://github.com/gardener/landscaper/blob/master/docs/motivation/motivation.md
 
 https://learnkubernetes.withgoogle.com/

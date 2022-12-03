@@ -15,6 +15,12 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.embeddedrelated.com/showarticle/1033.php
+>
+
+https://github.com/bvschaik/julius
+> https://news.ycombinator.com/item?id=33828262
+
 https://en.wikipedia.org/wiki/Libro_de_los_Juegos
 > https://news.ycombinator.com/item?id=33827036
 

@@ -87,6 +87,8 @@ https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-
 https://blog.quarkslab.com/ansible-security-assessment.html
 
 # News
+https://linuxfr.org/news/presentation-de-monkeyble-framework-de-test-bout-en-bout-pour-ansible
+
 https://github.com/omerbsezer/Fast-Ansible
 
 https://news.ycombinator.com/item?id=33122409

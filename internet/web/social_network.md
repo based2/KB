@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=31879820
 https://www.modernhn.com/
 > https://news.ycombinator.com/item?id=32768590
 
+https://news.ycombinator.com/item?id=33845946
+
 # Slashdot
 # Reddit
 
@@ -54,6 +56,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=33844302
+
 https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/
 > https://news.ycombinator.com/item?id=33716429
 

@@ -109,7 +109,15 @@ https://news.ycombinator.com/item?id=33654177
 
 https://shot-scraper.datasette.io/en/stable/
 
+# Desktop
+https://github.com/DustinBrett/daedalOS Desktop environment in the browser
+
+https://puter.com/
+> https://news.ycombinator.com/item?id=33838179
+
 # News
+https://www.w3.org/TR/window-placement/
+
 https://ooh.directory/
 > https://news.ycombinator.com/item?id=33719983
 

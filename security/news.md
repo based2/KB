@@ -1,3 +1,31 @@
+https://medium.com/@b0red0m/new-malware-discovered-wormable-iot-scada-95-10-f2ddc2e956bb
+
+https://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/
+> https://blog.cloudflare.com/black-lies/
+
+https://certitude.consulting/blog/en/bypassing-web-application-firewalls/
+
+https://www.synacktiv.com/sites/default/files/2022-11/vlc_vnc_int_overflow-CVE-2022-41325.pdf
+
+https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-and-network-service-accounts-to-local-system/
+> https://www.reddit.com/r/netsec/comments/zaj9f0/certpotato_using_adcs_to_privesc_from_service/
+
+https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage
+
+https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html
+> https://news.ycombinator.com/item?id=33841298
+
+https://github.com/samyk/magspoof
+> https://news.ycombinator.com/item?id=33846515
+
+https://www.spacex.com/starshield/
+> https://news.ycombinator.com/item?id=33838595
+
+https://github.com/bettercap/bettercap
+> https://news.ycombinator.com/item?id=33843148
+
+https://undeadly.org/cgi?action=article;sid=20221202230711 ikev2
+
 https://souffle-lang.github.io/index.html
 > https://news.ycombinator.com/item?id=33806419
 

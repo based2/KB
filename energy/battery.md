@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://techxplore.com/news/2022-10-stretchable-battery-packaging-moisture-gas.html
+
 https://www.nature.com/articles/s42004-022-00626-2
 > https://news.ycombinator.com/item?id=33805202
 
