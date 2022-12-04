@@ -23,6 +23,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://davidgerard.co.uk/blockchain/2022/11/30/el-salvadors-chivo-wallet-disasters-a-slapstick-saga-of-software-disaster/
+
+https://news.ycombinator.com/item?id=33819923
+
 https://gizmodo.com/defi-hackers-binance-crypto-1849846635
 
 https://news.ycombinator.com/item?id=33820575

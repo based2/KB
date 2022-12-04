@@ -234,6 +234,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.gimp.org/news/2022/11/21/gimp-27-birthday/
+> https://news.ycombinator.com/item?id=33808435
+
 https://www.kooslooijesteijn.net/blog/make-volunteer-driven-open-source-projects-successful?pk_campaign=rss
 
 https://incubator.apache.org/cookbook/

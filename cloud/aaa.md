@@ -132,6 +132,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 # Incidents
 https://status.apps.rackspace.com/index/viewincidents?group=2
 > https://news.ycombinator.com/item?id=33835483
+> https://news.ycombinator.com/item?id=33851863
+> https://news.ycombinator.com/item?id=33839941
 
 https://status.linode.com/incidents/bqlkm3ttppdl
 > https://news.ycombinator.com/item?id=33465645
@@ -229,6 +231,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://owncloud.com/news/infinite-scale-release/
+
 https://herrherrmann.net/migrating-1-terabyte-of-files-from-onedrive-to-nextcloud/
 > https://news.ycombinator.com/item?id=33637192
 

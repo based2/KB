@@ -5,3 +5,8 @@ https://news.ycombinator.com/item?id=26912321
 
 http://www.supersimplestorageservice.com/
 > https://news.ycombinator.com/item?id=30972694
+
+https://garagehq.deuxfleurs.fr/ OpS distributed object storage service tailored for self-hosting
+> https://news.ycombinator.com/item?id=33853539
+
+https://min.io/

@@ -47,6 +47,8 @@ https://www.bookstackapp.com/ php
 https://news.ycombinator.com/item?id=30392849
 
 # News
+https://botsin.space/@congressedits
+
 https://news.ycombinator.com/item?id=33842406
 
 https://observablehq.com/@winkjs/how-to-visualize-timeline-of-a-wiki-article

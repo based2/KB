@@ -27,6 +27,10 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://www.youtube.com/watch?v=SHLDluKhuU8
+
+https://twitter.com/1517fund/status/1598771038271442944
+
 https://news.cnrs.fr/articles/first-ever-physical-model-consistent-with-the-history-of-the-earth-moon-system
 > https://news.ycombinator.com/item?id=33742283
 

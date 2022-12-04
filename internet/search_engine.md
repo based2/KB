@@ -80,6 +80,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://www.lesbonscomptes.com/recoll/pages/index-recoll.html
+> https://news.ycombinator.com/item?id=33816014
+
 https://news.ycombinator.com/item?id=33734259
 
 https://metaphor.systems/

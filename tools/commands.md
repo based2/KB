@@ -45,6 +45,7 @@ https://earthly.dev/blog/awk-examples/
 
 # News
 https://xmind.app/m/WwtB/
+> https://news.ycombinator.com/item?id=33846708
 
 https://github.com/scusi/spipe go
 

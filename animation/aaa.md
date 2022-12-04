@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://fffuel.co/pppixelate/
+
 https://aatishb.com/patterncollider/
 > https://news.ycombinator.com/item?id=33818693
 

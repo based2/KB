@@ -75,6 +75,14 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://plasma-bigscreen.org/ tv
+
+https://emacsconf.org/2022/talks/wayland/
+> https://news.ycombinator.com/item?id=33849556
+
+https://github.com/algon-320/vime
+> https://news.ycombinator.com/item?id=33850477
+
 https://pointieststick.com/2022/12/02/this-week-in-kde-custom-tiling/
 
 https://github.com/glouw/paperview

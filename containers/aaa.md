@@ -5,6 +5,7 @@ https://www.opensourcerers.org/2020/11/16/container-images-multi-architecture-ma
 https://blog.container-solutions.com/what-is-policy-as-code
 
 https://containerssh.io/
+> https://containerssh.io/usecases/lab/
 
 https://searchservervirtualization.techtarget.com/tip/5-open-source-software-applications-for-virtualization
 > https://cockpit-project.org/
@@ -42,6 +43,7 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://devfile.io/
 
 https://rwmj.wordpress.com/2022/12/01/creating-a-modifiable-gzipped-disk-image/
+> https://news.ycombinator.com/item?id=33827903
 
 https://beringresearch.github.io/macpine/
 > https://news.ycombinator.com/item?id=33769274

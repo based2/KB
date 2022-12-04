@@ -261,6 +261,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/
+
 https://www.theregister.com/2022/12/02/ml_attention_center_model_freed/
 
 https://medium.com/voxel51/announcing-fiftyone-0-18-with-app-performance-improvements-sidebar-modes-and-custom-attributes-63d04dfa1116

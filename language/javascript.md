@@ -203,6 +203,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://ethanmick.com/five-great-react-ui-libraries-you-didnt-know-existed/
+
 https://blog.appsignal.com/2022/11/15/nodejs-19-release-whats-new.html
 
 https://twitter.com/tomaka17/status/1377302768713629704
@@ -500,6 +502,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/
+> https://news.ycombinator.com/item?id=33830674
+
 https://www.solidjs.com/
 
 https://github.com/eslint/eslint/discussions/16557

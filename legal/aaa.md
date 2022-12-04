@@ -59,6 +59,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://oll.libertyfund.org/title/dymes-constitution-of-athens
+> https://news.ycombinator.com/item?id=33838454
+
 https://ffii.org/nokia-and-airbus-elected-as-judges-at-the-kangaroo-unified-patent-court-kupc/
 > https://news.ycombinator.com/item?id=33630823
 

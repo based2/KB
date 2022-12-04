@@ -1,3 +1,7 @@
+https://wokwi.com/
+
+https://deno.com/blog/the-future-of-web-is-on-the-edge
+
 https://levelup.gitconnected.com/how-we-accidentally-burned-40-000-by-calling-recursive-patterns-571fe5ede90
 > https://news.ycombinator.com/item?id=33655367
 

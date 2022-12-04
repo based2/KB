@@ -1,3 +1,16 @@
+
+https://news.ycombinator.com/item?id=33817117
+
+https://zuplo.com/blog/2022/12/01/api-key-authentication/
+> https://news.ycombinator.com/item?id=33819092
+
+https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/
+> https://news.ycombinator.com/item?id=33838826
+
+https://rachelbythebay.com/w/2018/04/27/uid/
+> https://news.ycombinator.com/item?id=33850659
+> > https://github.com/ulid/spec
+
 https://medium.com/@b0red0m/new-malware-discovered-wormable-iot-scada-95-10-f2ddc2e956bb
 
 https://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/

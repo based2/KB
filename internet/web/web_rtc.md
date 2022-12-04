@@ -26,6 +26,9 @@ https://terminal7.dev/
 
 https://wormhole.app/
 
+https://github.com/chr15m/bugout
+> https://news.ycombinator.com/item?id=33809309
+
 https://github.com/miroslavpejic85/mirotalk Zoom – Google meet Open Source alternative for smart working, php
 > https://news.ycombinator.com/item?id=29628895
 > https://news.ycombinator.com/item?id=29891050

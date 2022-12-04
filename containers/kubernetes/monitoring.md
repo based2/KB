@@ -1,3 +1,6 @@
+https://github.com/ganochenkodg/metrics-filter
+> https://www.reddit.com/r/kubernetes/comments/zbgenw/filter_for_prometheus_metrics/
+
 https://www.cncf.io/blog/2022/11/10/murre-the-lightweight-k8s-metrics-monitoring-tool/
 
 https://www.groundcover.com/blog/prometheus-grafana-kubernetes

@@ -60,6 +60,9 @@ https://github.com/lifthrasiir/j40 J40: Independent, self-contained JPEG XL deco
 https://github.com/libjxl/libjxl/releases/tag/v0.7.0
 > https://news.ycombinator.com/item?id=32970037
 
+https://kasmweb.com/docs/latest/how_to/lossless.html
+> https://news.ycombinator.com/item?id=33839326
+
 # News
 https://computerhistory.org/blog/postscript-a-digital-printing-press/
 

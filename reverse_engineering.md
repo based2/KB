@@ -24,6 +24,8 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+http://blog.petersobot.com/fixing-the-andromeda
+
 https://kennedn.com/blog/posts/snowdon/
 > https://news.ycombinator.com/item?id=33815831
 

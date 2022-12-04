@@ -102,6 +102,8 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://www.robalni.org/posts/20220428-counting-set-bits-in-an-interesting-way.txt
+
 http://trout.me.uk/lisp/vlist.pdf Fast Functional Lists, Hash-Lists, Deques and Variable Length Arrays
 
 https://www.corsix.org/content/galois-field-instructions-2021-cpus

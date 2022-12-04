@@ -210,6 +210,9 @@ https://arnesonium.com/2022/11/pattern-matching-tail-recursion-emacs-lisp
 https://paredit.org/
 > https://news.ycombinator.com/item?id=33751935
 
+https://codeberg.org/gopiandcode/emacs-viewer
+> https://news.ycombinator.com/item?id=33829934
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

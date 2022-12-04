@@ -56,6 +56,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/
+> https://news.ycombinator.com/item?id=33832866
+
+https://discord.com/creators
+> https://news.ycombinator.com/item?id=33820947
+
 https://news.ycombinator.com/item?id=33844302
 
 https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/

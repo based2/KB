@@ -109,6 +109,13 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://clintbellanger.net/articles/isometric_math/
+
+https://news.ycombinator.com/item?id=33829832 Game engine black book Doom
+> https://news.ycombinator.com/item?id=33829832
+
+https://news.ycombinator.com/item?id=33829815
+
 https://news.ycombinator.com/item?id=33766051
 
 https://github.com/jotson/ridiculous_coding

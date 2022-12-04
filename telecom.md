@@ -127,9 +127,19 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://news.ycombinator.com/item?id=33807788
+
+https://medium.com/@googler_ram/open-source-cellular-network-analytics-for-android-80fa89b8ac6b
+
+https://arxiv.org/abs/2211.05206 
+
+https://philtel.org/
+> https://news.ycombinator.com/item?id=33851030
+
 https://newatlas.com/telecommunications/tbird-laser-satellite-data-transmission-speed-record/
 
 https://github.com/magma
+> https://news.ycombinator.com/item?id=33827787
 
 https://broadbandmap.fcc.gov/home map
 > https://news.ycombinator.com/item?id=33809377

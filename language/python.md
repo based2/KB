@@ -254,6 +254,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://www.saaspegasus.com/guides/django-deployment/
+> https://news.ycombinator.com/item?id=33837885
+
 https://peps.python.org/pep-0701/
 
 https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/

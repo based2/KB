@@ -18,6 +18,10 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://semiengineering.com/cybersecurity-risks-of-automotive-ota/
+
+https://www.youtube.com/watch?v=3TFz1xqp3us
+
 https://www.whichcar.com.au/news/tesla-killers-next-wave-electric-vehicles
 > https://news.ycombinator.com/item?id=33684966
 

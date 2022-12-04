@@ -151,6 +151,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156
+> https://news.ycombinator.com/item?id=33849068
+
 https://jam.dev/blog/how-to-move-fast-and-not-break-things/
 > https://news.ycombinator.com/item?id=33831232
 

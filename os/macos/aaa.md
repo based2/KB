@@ -308,6 +308,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://eclecticlight.co/2022/11/30/an-a-to-z-of-keys-and-keyboards-startup-and-login/
+> https://news.ycombinator.com/item?id=33814682
+
 https://lifehacker.com/your-mac-has-a-hidden-white-noise-generator-1849760988
 > https://news.ycombinator.com/item?id=33534478
 

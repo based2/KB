@@ -19,6 +19,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://gizmodo.com/mars-megatsunami-asteroid-impact-1849840566
+> https://news.ycombinator.com/item?id=33830602
+
 https://www.sciencedaily.com/releases/2022/11/221117102806.htm
 > https://news.ycombinator.com/item?id=33643931
 

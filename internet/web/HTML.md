@@ -146,6 +146,10 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://kittygiraudel.com/2022/09/30/templating-in-html/
+
+https://github.com/orf/hq
+
 https://beautiful-soup-4.readthedocs.io/en/latest/
 
 https://github.com/ericchiang/pup

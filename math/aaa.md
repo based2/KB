@@ -109,6 +109,9 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://chalkdustmagazine.com/blog/the-first-negative-dimension/
+> https://news.ycombinator.com/item?id=33835788
+
 https://tetration.org/
 
 https://news.ycombinator.com/item?id=33653108

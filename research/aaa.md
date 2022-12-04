@@ -38,6 +38,9 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://www.art-sciencefactory.com/complexity-map_feb09.html
+>
+
 https://www.nber.org/papers/w28279
 
 https://osf.io/preprints/metaarxiv/cd5j9/ Many Researchers Using Same Data and Hypothesis Reveals Uncertainty

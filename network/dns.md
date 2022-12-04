@@ -57,6 +57,8 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 # 
+https://alexanderell.is/posts/cnames/
+
 https://news.ycombinator.com/item?id=33214281 Ask HN: Are Whois Abuse Reports Useful?
 
 https://blog.thc.org/disposable-root-servers

@@ -301,6 +301,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=33829645 php
+
 https://program-repair.org/
 
 https://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction

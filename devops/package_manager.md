@@ -33,6 +33,8 @@ https://determinate.systems/posts/nix-run
 https://github.com/cachix/devenv
 
 #
+https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
+
 https://smaller.fish/posts/snap_updates
 > https://news.ycombinator.com/item?id=33835083
 
