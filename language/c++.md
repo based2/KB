@@ -32,6 +32,12 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://probablydance.com/2022/12/05/fine-grained-locking-with-two-bit-mutexes/
+> https://news.ycombinator.com/item?id=33882909
+
+https://www.sandordargo.com/blog/2022/12/07/inout_ptr-and-out_ptr
+> https://news.ycombinator.com/item?id=33894040
+
 https://www.cppstories.com/2022/const-options-cpp20/
 > https://news.ycombinator.com/item?id=33774373
 

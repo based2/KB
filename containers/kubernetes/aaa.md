@@ -64,6 +64,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://thenewstack.io/why-loft-labs-is-donating-devspace-to-cncf/
+> https://github.com/loft-sh/devspace
+
 https://github.com/projectsveltos
 > https://news.ycombinator.com/item?id=33847564
 > https://kyverno.io/

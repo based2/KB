@@ -25,6 +25,10 @@ https://dependencytrack.org/
 https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 
 #
+https://github.com/R9295/panoptisch python
+
+https://owasp.org/blog/2022/11/10/top-10-cicd.html
+
 https://about.gitlab.com/blog/2022/11/30/achieve-slsa-level-2-compliance-with-gitlab/
 
 https://github.com/ossillate-inc/packj

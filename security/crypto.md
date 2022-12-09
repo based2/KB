@@ -118,6 +118,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=33900098
+
 https://www.realworldtech.com/forum/?threadid=209249&curpostid=209596
 > https://news.ycombinator.com/item?id=33775334
 

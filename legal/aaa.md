@@ -59,6 +59,8 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://news.ycombinator.com/item?id=33866466
+
 https://oll.libertyfund.org/title/dymes-constitution-of-athens
 > https://news.ycombinator.com/item?id=33838454
 

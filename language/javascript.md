@@ -502,6 +502,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://vitejs.dev/blog/announcing-vite4.html
+> https://news.ycombinator.com/item?id=33923537
+
 https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/
 > https://news.ycombinator.com/item?id=33830674
 

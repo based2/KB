@@ -114,7 +114,10 @@ https://news.ycombinator.com/item?id=27409410
 https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
-#
+# News
+https://macos9.app/
+> https://news.ycombinator.com/item?id=33868197
+
 https://annamancini.substack.com/p/how-the-apple-archive-ended-up-at
 > https://news.ycombinator.com/item?id=33548131
 

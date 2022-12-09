@@ -23,6 +23,14 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.ecb.europa.eu/paym/digital_euro/investigation/profuse/shared/files/dedocs/ecb.dedocs221207_annex1_front_end_prototype_providers_technical_onboarding_package.en.pdf?96894d1ebc6c998d75233c57bf1c66eb
+
+https://news.ycombinator.com/item?id=33884403
+
+https://news.ycombinator.com/item?id=33910544
+
+https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway
+
 https://davidgerard.co.uk/blockchain/2022/11/30/el-salvadors-chivo-wallet-disasters-a-slapstick-saga-of-software-disaster/
 
 https://news.ycombinator.com/item?id=33819923

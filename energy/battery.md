@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.thedrive.com/news/hyundai-announces-massive-new-ev-battery-plant-in-georgia-to-open-in-2025
+
 https://oilprice.com/Energy/Energy-General/Volkswagen-Group-CEO-High-Energy-Cost-Make-New-EV-Plants-Unfeasible.html
 
 https://techxplore.com/news/2022-10-stretchable-battery-packaging-moisture-gas.html

@@ -10,6 +10,10 @@ https://github.com/sigstore/rekor Software Supply Chain Transparency Log
 https://openssf.org/press-release/2022/10/25/sigstore-announces-general-availability-at-sigstorecon/
 
 #
+https://news.ycombinator.com/item?id=33921115
+
+https://news.ycombinator.com/item?id=33909503
+
 https://www.youtube.com/watch?v=9w7ajCIWg-g CISPA Ed25519 Signature Schemes: Theory and Practice
 > https://news.ycombinator.com/item?id=29591557
 

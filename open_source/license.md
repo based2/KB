@@ -52,6 +52,9 @@ https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/
 
 # Incident
 
+https://torrentfreak.com/company-hijacks-blenders-cc-by-licensed-film-youtube-strikes-user-221205/
+> https://news.ycombinator.com/item?id=33863073
+
 https://news.ycombinator.com/item?id=33659845
 
 https://blog.min.io/nutanix-objects-violates-minios-open-source-license/

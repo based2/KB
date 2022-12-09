@@ -14,6 +14,12 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://bret.dk/pi-zero-showdown/
+> https://news.ycombinator.com/item?id=33862810
+
+https://cromwell-intl.com/open-source/samba-active-directory/freebsd-raspberry-pi.html
+> https://news.ycombinator.com/item?id=33863269
+
 https://teaandtechtime.com/pieca-a-raspberry-pi-camera-system-for-leica-m-mount-lenses/
 > https://news.ycombinator.com/item?id=33479160
 

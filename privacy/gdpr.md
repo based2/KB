@@ -73,6 +73,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/
+> https://news.ycombinator.com/item?id=33921861
+
 https://techcrunch.com/2022/11/28/facebook-gdpr-penalty/
 
 https://news.ycombinator.com/item?id=33644336

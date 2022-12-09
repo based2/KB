@@ -48,6 +48,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 
 # Incident
+https://community.hachyderm.io/blog/2022/12/03/leaving-the-basement/
+> https://news.ycombinator.com/item?id=33855250
+
 https://news.ycombinator.com/item?id=33643952
 
 https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned
@@ -56,6 +59,13 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=33915734
+
+https://news.ycombinator.com/item?id=33855416
+
+https://hazelweakly.me/blog/scaling-mastodon/
+> https://lobste.rs/s/ziqye2/scaling_mastodon_compendium
+
 https://www.techdirt.com/2022/11/02/hey-elon-let-me-help-you-speed-run-the-content-moderation-learning-curve/
 > https://news.ycombinator.com/item?id=33832866
 

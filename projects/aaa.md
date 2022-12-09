@@ -118,6 +118,8 @@ https://drmaciver.substack.com/p/task-estimation-101
 
 https://morris.github.io/e7/#?t=
 
+https://stevemcconnell.com/17-theses-software-estimation-expanded/
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -151,6 +153,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://news.ycombinator.com/item?id=33914672
+
 https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156
 > https://news.ycombinator.com/item?id=33849068
 

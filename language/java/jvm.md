@@ -61,6 +61,9 @@ https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_
 https://www.youtube.com/watch?v=88E86quLmQA&t=1750s ZGC: The Next Generation Low-Latency Garbage Collector
 
 # News
+https://minborgsjavapot.blogspot.com/2022/12/java-20-sneak-peek-on-panama-ffm-api.html
+> https://news.ycombinator.com/item?id=33901450
+
 https://chriswhocodes.com/
 > https://www.reddit.com/r/java/comments/z6qy27/jvm_options_explorer/
 

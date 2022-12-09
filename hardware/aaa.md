@@ -81,6 +81,11 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.semianalysis.com/p/why-america-will-lose-semiconductors
+
+https://www.bigmessowires.com/nibbler/
+> https://news.ycombinator.com/item?id=33860648
+
 https://www.science.org/doi/10.1126/sciadv.add7118
 
 https://www.tomshardware.com/news/intel-officially-introduces-pay-as-you-go-chip-licensing
@@ -368,6 +373,9 @@ https://developer.nvidia.com/blog/nvidia-hopper-architecture-in-depth/
 https://mitxela.com/projects/ddc-oled The smallest and worst HDMI display ever
 > https://news.ycombinator.com/item?id=30869140
 
+https://github.com/ChalkElec/write-edid
+> https://news.ycombinator.com/item?id=33890398
+
 https://www.tomshardware.com/news/nvidia-unveils-144-core-grace-cpu-superchip-claims-arm-chip-15x-faster-than-amds-epyc-rome
 > https://news.ycombinator.com/item?id=30788218
 
@@ -390,7 +398,6 @@ https://blog.robertelder.org/semiconductor-example-uses/
 > https://news.ycombinator.com/item?id=30711621
 
 https://www.tomshardware.com/news/intel-enables-ecc-on-12th-gen-core-cpus
->
 
 https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=19331
 > https://news.ycombinator.com/item?id=30699555

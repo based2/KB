@@ -140,6 +140,8 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://github.com/stepci/stepci
+
 https://blogs.gnome.org/shell-dev/2022/12/02/automated-testing-of-gnome-shell/
 
 https://www.blazemeter.com/blog/debug-jmeter

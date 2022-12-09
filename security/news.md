@@ -1,3 +1,30 @@
+https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m
+> https://news.ycombinator.com/item?id=33890098
+
+https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html
+> https://news.ycombinator.com/item?id=33911698
+
+https://mjg59.dreamwidth.org/62175.html webauth
+> https://www.reddit.com/r/netsec/comments/z988sb/rfc_8628_lets_you_phish_people_even_if_theyre/
+
+https://hackingthe.cloud/aws/enumeration/loot_public_ebs_snapshots/
+
+https://medium.com/tenable-techblog/netgear-router-network-misconfiguration-70ac695c81a6
+
+https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/
+
+https://www.bleepingcomputer.com/news/security/hackers-hijack-linux-devices-using-proot-isolated-filesystems/
+
+https://www.openwall.com/lists/oss-security/2022/12/05/1
+
+https://chromereleases.googleblog.com/2022/12/stable-channel-update-for-desktop.html
+
+https://vigilance.fr/vulnerabilite/Chrome-corruption-de-memoire-via-V8-Type-Confusion-40014
+> https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-trois-vulnerabilites-40025
+
+https://vigilance.fr/vulnerabilite/GNU-Emacs-execution-de-code-via-Shell-Metacharacters-39995
+
+https://techcrunch.com/2022/12/02/florida-tax-bug-data-exposed/
 
 https://news.ycombinator.com/item?id=33817117
 

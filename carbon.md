@@ -67,6 +67,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.cnbc.com/2022/12/05/microsoft-backed-start-up-heirloom-uses-limestone-to-capture-co2.html
+
 https://videos.assemblee-nationale.fr/video.12415008_6362776827e53.souverainete-et-independance-energetique-de-la-france--auditions-diverses-2-novembre-2022
 > https://www.youtube.com/watch?v=oweVFXFFh04
 > https://www.connaissancedesenergies.org/fiche-pedagogique/hydroelectricite-stations-de-transfert-denergie-par-pompage-step

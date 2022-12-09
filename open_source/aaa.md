@@ -234,6 +234,11 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.theregister.com/2022/11/22/france_no_windows_google/
+> https://news.ycombinator.com/item?id=33862832
+
+https://cryptpad.org/
+
 https://www.gimp.org/news/2022/11/21/gimp-27-birthday/
 > https://news.ycombinator.com/item?id=33808435
 

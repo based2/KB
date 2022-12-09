@@ -254,6 +254,23 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://pythoninsider.blogspot.com/2022/12/python-3111-3109-3916-3816-3716-and.html
+> https://news.ycombinator.com/item?id=33889831
+
+https://news.ycombinator.com/item?id=33899425
+
+https://github.com/exaloop/codon
+> https://news.ycombinator.com/item?id=33908576
+
+https://pythonspeed.com/articles/stop-using-python-3.7/
+> https://news.ycombinator.com/item?id=33919066
+
+https://github.com/pynecone-io/pynecone
+> https://news.ycombinator.com/item?id=33922754
+
+https://nuitka.net/posts/all-in-with-nuitka.html
+> https://news.ycombinator.com/item?id=33919830
+
 https://www.saaspegasus.com/guides/django-deployment/
 > https://news.ycombinator.com/item?id=33837885
 

@@ -89,10 +89,14 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://swr.vercel.app/blog/swr-v2
+
+https://bun.sh/blog/bun-v0.3.0
+> https://news.ycombinator.com/item?id=33894702
+
 https://github.com/zephyr-js/zephyr
 
 https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system
-> 
 
 https://github.com/microsoft/TypeScript/pull/51387
 > https://news.ycombinator.com/item?id=33440030

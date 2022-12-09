@@ -75,6 +75,12 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.theregister.com/2022/12/08/forthcoming_xfce_418_on_show/
+> https://news.ycombinator.com/item?id=33923627
+
+https://gitlab.freedesktop.org/pipewire/pipewire/-/releases/0.3.62
+> https://news.ycombinator.com/item?id=33920086
+
 https://plasma-bigscreen.org/ tv
 
 https://emacsconf.org/2022/talks/wayland/

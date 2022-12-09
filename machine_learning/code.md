@@ -38,6 +38,9 @@ https://github.com/moyix/fauxpilot oss
 > https://news.ycombinator.com/item?id=32327711
 > > https://news.ycombinator.com/item?id=33210306
 
+https://alphacode.deepmind.com/
+> https://news.ycombinator.com/item?id=33914122
+
 https://note89.github.io/the-advent-of-code-ai-edition/
 > https://news.ycombinator.com/item?id=33842904
 

@@ -48,6 +48,8 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://third-bit.com/2022/12/04/i-want-a-memory-diagram-generator/
+
 https://text-to-diagram.com/
 > https://news.ycombinator.com/item?id=33818511
 

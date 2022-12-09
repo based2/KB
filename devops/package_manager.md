@@ -33,6 +33,8 @@ https://determinate.systems/posts/nix-run
 https://github.com/cachix/devenv
 
 #
+https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-via-must-mkdir-and-open-with-perms-39990
+
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 https://smaller.fish/posts/snap_updates

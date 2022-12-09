@@ -12,6 +12,9 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.theregister.com/2022/12/09/linux_kernel_61_column/
+> https://news.ycombinator.com/item?id=33923044
+
 https://cedwards.xyz/use-this-kernel-parameter-in-your-kiosk/ panic=60
 > https://news.ycombinator.com/item?id=33663816
 

@@ -64,6 +64,8 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://news.ycombinator.com/item?id=33881818
+
 https://cordis.europa.eu/article/id/442115-zero-waste-production-of-alumina-in-europe
 
 https://reasonstobecheerful.world/bamboo-building-construction-hong-kong/

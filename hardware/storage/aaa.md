@@ -1,4 +1,9 @@
 # News
+https://dev.yorhel.nl/ncdu
+> https://news.ycombinator.com/item?id=33893815
+
+https://eclecticlight.co/2022/12/05/how-to-estimate-an-ssds-working-life/
+
 https://www.kinograph.cc/
 > https://news.ycombinator.com/item?id=33815337
 

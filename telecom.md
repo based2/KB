@@ -127,6 +127,17 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://news.ycombinator.com/item?id=33895150
+
+https://www.dtu.dk/english/news/all-news/new-data-transmission-record?id=213f1735-036d-44c9-b229-d25d74dd3f02
+> https://news.ycombinator.com/item?id=33925823
+
+https://news.mit.edu/2022/communications-system-achieves-fastest-laser-link-space-yet-1130
+> https://news.ycombinator.com/item?id=33898075
+
+https://www.jeffgeerling.com/blog/2022/1-million-watts-rf-how-fm-supertower-works
+> https://news.ycombinator.com/item?id=33905695
+
 https://news.ycombinator.com/item?id=33807788
 
 https://medium.com/@googler_ram/open-source-cellular-network-analytics-for-android-80fa89b8ac6b

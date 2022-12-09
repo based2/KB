@@ -126,6 +126,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://daniel.haxx.se/blog/2022/12/06/faster-base64-in-curl/
+> https://news.ycombinator.com/item?id=33877374
+
 https://news.ycombinator.com/item?id=33767301
 
 https://resoomer.com/

@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer
+> https://news.ycombinator.com/item?id=33920019
+
 https://www.paypal.com/re/smarthelp/article/what-is-the-inactivity-fee-(eu-countries)-faq4427
 > https://news.ycombinator.com/item?id=33601868
 

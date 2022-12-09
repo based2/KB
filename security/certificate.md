@@ -37,6 +37,9 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incident
+https://bugs.chromium.org/p/apvi/issues/detail?id=100#c1
+> https://www.reddit.com/r/netsec/comments/za48rr/platform_certificates_used_to_sign_android_malware/
+
 https://ian.sh/etugra
 > https://news.ycombinator.com/item?id=33642615
 
@@ -44,6 +47,9 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem
+> https://news.ycombinator.com/item?id=33876949
+
 https://www.washingtonpost.com/technology/2022/11/30/trustcor-internet-authority-mozilla/
 > https://news.ycombinator.com/item?id=33810755
 

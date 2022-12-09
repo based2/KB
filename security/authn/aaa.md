@@ -59,6 +59,9 @@ https://github.com/aserto-dev/topaz open-source authorization combining the best
 https://prezu.ca/post/2021-07-30-totp-1/
 > https://news.ycombinator.com/item?id=28324626
 
+https://authzed.com/blog/annotated-zanzibar-launch/
+> https://news.ycombinator.com/item?id=33910685
+
 https://github.com/authzed/spicedb/releases/tag/v1.0.0
 
 # eID
@@ -69,6 +72,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://github.com/cloudentity/oauth2c
+> https://news.ycombinator.com/item?id=33920885
+
 https://fusionauth.io/docs/v1/tech/core-concepts/modes
 
 https://fusionauth.io/blog/2022/09/13/what-is-webauthn-why-do-you-care

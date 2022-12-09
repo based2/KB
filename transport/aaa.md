@@ -66,3 +66,5 @@ https://gitlab.com/traffxml
 > https://news.ycombinator.com/item?id=33272373
 
 https://news.ycombinator.com/item?id=33558072
+
+https://news.ycombinator.com/item?id=33897943

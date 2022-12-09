@@ -68,6 +68,11 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://news.ycombinator.com/item?id=33916240
+
+https://www.featurebase.com/blog/range-encoded-bitmaps
+> https://news.ycombinator.com/item?id=33894223
+
 https://sqlfordevs.com/ebook
 > https://news.ycombinator.com/item?id=33833836
 

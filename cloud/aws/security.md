@@ -25,6 +25,10 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://haiderm.com/securing-aws-simple-notification-service-sns/
+
+https://www.reddit.com/r/aws/comments/zdb1s1/why_are_the_docs_for_aws_cognito_useless/
+
 https://aws.amazon.com/en/verified-permissions/
 
 https://www.reddit.com/r/aws/comments/yx9yr5/multiple_mfa_devices_in_iam_amazon_web_services/

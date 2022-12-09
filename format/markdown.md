@@ -59,3 +59,10 @@ https://ipfs.io/ipfs/bafybeid7lt7snuzcvcmfqs5a5hlc5fmk3xmflz4hx2qa7c674vm3rpsdvm
 > https://news.ycombinator.com/item?id=33548134
 
 https://news.ycombinator.com/item?id=33843009
+
+https://github.com/jgm/djot
+> https://news.ycombinator.com/item?id=33867636
+> https://htmlpreview.github.io/?https://github.com/jgm/djot/blob/master/doc/syntax.html
+
+https://github.com/charmbracelet/glow cli
+> https://news.ycombinator.com/item?id=33925741

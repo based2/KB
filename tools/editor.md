@@ -89,6 +89,9 @@ https://www.vim.org/vim90.php
 https://thevaluable.dev/vim-advanced/
 > https://news.ycombinator.com/item?id=33811705
 
+https://www.neovimconf.live/
+> https://news.ycombinator.com/item?id=33921251
+
 https://spacevim.org/SpaceVim-release-v2.0.0/
 > https://news.ycombinator.com/item?id=31986851
 

@@ -10,7 +10,7 @@ http://plantuml.com/
 http://plantuml-depend.sourceforge.net/
 
 https://c4model.com/ https://fundingcircle.github.io/fc4-framework/ https://github.com/structurizr/java
->  https://icepanel.io/c4-model/ https://news.ycombinator.com/item?id=28684447
+> https://icepanel.io/c4-model/ https://news.ycombinator.com/item?id=28684447
 
 https://jsonnet.org/
 
@@ -147,6 +147,9 @@ https://resources.scylladb.com/scylladb-engineering/on-coordinated-omission
 
 https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threefold-performance-increase-2721924a2822
 > https://news.ycombinator.com/item?id=33540091
+
+https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35
+> https://news.ycombinator.com/item?id=33921731
 
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/

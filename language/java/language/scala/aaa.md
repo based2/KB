@@ -83,6 +83,9 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0
+> https://news.ycombinator.com/item?id=33865932
+
 https://zio.dev/zio-flow/zflow/
 
 https://www.reddit.com/r/scala/comments/yruu34/sbt_180_released/

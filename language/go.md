@@ -100,6 +100,11 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://news.ycombinator.com/item?id=33920318
+
+https://github.com/joetifa2003/mm-go
+> https://news.ycombinator.com/item?id=33870619
+
 https://github.com/sasha-s/go-deadlock
 
 https://levelup.gitconnected.com/why-i-switched-from-rust-to-go-on-the-backend-28bda21dbee9

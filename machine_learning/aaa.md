@@ -192,6 +192,9 @@ https://thenextweb.com/news/machine-learning-has-an-alarming-threat-undetectable
 https://busy-beavers.tigyog.app/rice
 > https://news.ycombinator.com/item?id=33742326
 
+https://taylor.town/synthetic-intelligence
+> https://news.ycombinator.com/item?id=33920514
+
 ##
 https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemiologic_research.8.aspx
 > https://news.ycombinator.com/item?id=31037416
@@ -231,6 +234,20 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O
+> https://news.ycombinator.com/item?id=33913161
+
+https://www.nature.com/articles/s41467-022-35149-w
+
+https://scottaaronson.blog/?p=6823
+
+https://news.ycombinator.com/item?id=33910542
+
+https://news.ycombinator.com/item?id=33905450
+
+https://www.engraved.blog/building-a-virtual-machine-inside/
+> https://news.ycombinator.com/item?id=33847479
+
 https://www.assemblyai.com/blog/an-introduction-to-poisson-flow-generative-models/
 > https://news.ycombinator.com/item?id=33804909
 

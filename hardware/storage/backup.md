@@ -32,6 +32,14 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://rsnapshot.org/
+
+https://support.apple.com/en-us/HT202303#advanced
+> https://news.ycombinator.com/item?id=33897793
+
+https://github.com/eamonnsullivan/backup-scripts
+> https://news.ycombinator.com/item?id=33922267
+
 https://www.percona.com/blog/get-your-backup-to-half-of-its-size-introducing-zstd-support-in-percona-xtrabackup/
 > https://news.ycombinator.com/item?id=33644798
 

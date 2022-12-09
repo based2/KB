@@ -130,6 +130,11 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.csoonline.com/article/3681450/researchers-found-security-pitfalls-in-ibm-s-cloud-infrastructure.html
+> https://news.ycombinator.com/item?id=33918764
+
+https://www.reddit.com/r/aws/comments/zdhjo9/seem_like_useast2_is_messed_up_right_now/
+
 https://status.apps.rackspace.com/index/viewincidents?group=2
 > https://news.ycombinator.com/item?id=33835483
 > https://news.ycombinator.com/item?id=33851863
@@ -231,6 +236,15 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=33876975
+
+https://blogs.microsoft.com/blog/2022/12/09/microsoft-acquires-lumenisity-an-innovator-in-hollow-core-fiber-hcf-cable/
+
+https://redmonk.com/sogrady/2022/12/09/faster-horse/
+
+https://www.hetzner.com/news/12-22-cloud-usa/
+> https://news.ycombinator.com/item?id=33863625
+
 https://owncloud.com/news/infinite-scale-release/
 
 https://herrherrmann.net/migrating-1-terabyte-of-files-from-onedrive-to-nextcloud/

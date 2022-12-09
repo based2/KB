@@ -61,6 +61,8 @@ https://objective-see.org/tools.html
 > https://news.ycombinator.com/item?id=32979796
 
 # Dev
+https://lapcatsoftware.com/articles/xcrun.html
+
 https://developer.apple.com/documentation/xcode-release-notes/xcode-14_1-release-notes
 
 https://www.macstrategy.com/article.php?283
@@ -114,6 +116,9 @@ https://news.ycombinator.com/item?id=32971599 Ask HN: Xcode users – how do you
 
 https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 > https://news.ycombinator.com/item?id=33187858
+
+https://jvns.ca/blog/2018/01/28/mac-freeze/
+>
 
 # VM
 https://weblog.antranigv.am/posts/2022/11/running-arm64-aarch64-freebsd-on-qemu-utm-app-on-apple-silicon/

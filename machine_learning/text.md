@@ -55,4 +55,9 @@ https://github.com/1712n/yachay-public/tree/master/conf_geotagging_model
 https://deepimagination.cc/Magic3D/
 > https://news.ycombinator.com/item?id=33689096
 
+https://github.com/huggingface/swift-coreml-transformers
+
 https://www.enist.org/autograff_thesis.pdf
+
+https://stratechery.com/2022/ai-homework/
+> https://news.ycombinator.com/item?id=33867039

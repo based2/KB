@@ -26,6 +26,9 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/
+> https://news.ycombinator.com/item?id=33868136
+
 https://iode.tech/en/news/iodeos-is-open-source/
 > https://news.ycombinator.com/item?id=33504306
 

@@ -109,6 +109,12 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://jsxgraph.mentat.org/
+
+https://news.ycombinator.com/item?id=33890753
+
+https://en.wikipedia.org/wiki/Hoberman_sphere
+
 https://chalkdustmagazine.com/blog/the-first-negative-dimension/
 > https://news.ycombinator.com/item?id=33835788
 

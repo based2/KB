@@ -40,6 +40,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://bt.ht/alpine/
+> https://news.ycombinator.com/item?id=33908848
+
 https://devfile.io/
 
 https://rwmj.wordpress.com/2022/12/01/creating-a-modifiable-gzipped-disk-image/

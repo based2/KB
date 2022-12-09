@@ -116,6 +116,11 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/bluecatengineering/dora
+> https://news.ycombinator.com/item?id=33895187
+
+https://news.ycombinator.com/item?id=33904105
+
 https://www.thingiverse.com/thing:4687836 Ethernet | RJ45 clip to secure/repair/fix broken tab
 > https://news.ycombinator.com/item?id=33732969
 

@@ -2,6 +2,8 @@ https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
 https://cree-led.com/news/photophyll-select/
 
+https://www.researchgate.net/publication/330676601_Degradation_of_optical_materials_in_solid-state_lighting_systems
+
 https://phys.org/news/2022-11-low-cost-terahertz-camera.html
 
 https://www.nature.com/articles/d41586-022-03455-4

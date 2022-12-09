@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.gridwatch.templar.co.uk/
+> https://news.ycombinator.com/item?id=33921576
+
 https://devecitech.com/
 > https://news.ycombinator.com/item?id=33833883
 

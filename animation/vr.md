@@ -1,3 +1,8 @@
+https://research.nvidia.com/publication/2022-08_holographic-glasses-virtual-reality
+> https://news.ycombinator.com/item?id=33924883
+
+https://mignano.substack.com/p/fictional-reality-why-the-real-metaverse
+
 https://blog.natalie.ee/posts/building-dynamic-vrchat-world/
 > https://news.ycombinator.com/item?id=33654310
 

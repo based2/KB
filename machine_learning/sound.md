@@ -67,6 +67,10 @@ https://news.ycombinator.com/item?id=33697469
 https://github.com/rhasspy/rhasspy
 > https://news.ycombinator.com/item?id=33705938
 
+https://news.ycombinator.com/item?id=33877893
+
+https://news.ycombinator.com/item?id=33884716
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

@@ -127,6 +127,10 @@ https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-
 
 # Incidents
 
+https://news.ycombinator.com/item?id=33906591
+
+https://sysdig.com/blog/massive-cryptomining-operation-github-actions/
+
 https://about.gitlab.com/releases/2022/11/30/security-release-gitlab-15-6-1-released/
 
 https://lists.apache.org/thread/htxbr8oc464hxrgroftnz3my70whk93b CVE-2022-37866: Apache Ivy: Ivy Path traversal
@@ -259,6 +263,14 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/
+> https://news.ycombinator.com/item?id=33918879
+
+https://arogozhnikov.github.io/2022/11/29/delimiter-comes-first.html
+> https://news.ycombinator.com/item?id=33918430
+
+https://news.ycombinator.com/item?id=33917962
+
 https://github.com/dlenski/wtf Whitespace Total Fixer, Identifies and/or fixes inconsistent whitespace
 
 https://about.gitlab.com/blog/2022/10/31/a-snapshot-of-modern-devops-practices-today/

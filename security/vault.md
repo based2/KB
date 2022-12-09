@@ -51,6 +51,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 #
+https://bitwarden.com/blog/passwordless-authentication-access-your-bitwarden-web-vault-without-a-password/
+
 https://github.com/apple/password-manager-resources
 
 https://keepassxc.org/blog/2022-10-29-2.7.4-released

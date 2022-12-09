@@ -1,4 +1,7 @@
-https://pub.dev/ Find and use packages to build Dart and Flutter apps.
+https://pub.dev/ Find and use packages to build Dart and Flutter apps
+
+https://medium.com/dartlang/the-road-to-dart-3-afdd580fbefa
+> https://news.ycombinator.com/item?id=33908134
 
 https://medium.com/flutter/flutter-hot-reload-f3c5994e2cee
 

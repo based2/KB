@@ -116,6 +116,8 @@ https://puter.com/
 > https://news.ycombinator.com/item?id=33838179
 
 # News
+https://www.w3.org/TR/viss2-core/
+
 https://www.w3.org/TR/window-placement/
 
 https://ooh.directory/

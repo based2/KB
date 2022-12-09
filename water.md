@@ -84,3 +84,6 @@ https://www.space.com/greenland-ice-melting-satellite-data-climate-change
 https://hal.archives-ouvertes.fr/hal-00298762/document Biotic pump of atmospheric moisture as driver of the hydrological cycle on land
 
 https://en.wikipedia.org/wiki/Flying_river
+
+https://www.cyclingnews.com/news/pfc-bans-are-going-to-change-the-face-of-all-waterproof-garments/
+> https://news.ycombinator.com/item?id=33855993

@@ -25,6 +25,10 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.reuters.com/business/energy/bp-doubles-down-hydrogen-fuel-future-2022-12-05/
+
+https://www.bmwblog.com/2022/12/02/bmw-ix5-hydrogen-production-overview/
+
 https://www.autocar.co.uk/car-news/new-cars/government-gives-%C2%A311m-backing-hydrogen-toyota-hilux-project
 
 https://www.pv-magazine.com/2022/11/09/hydrogen-producing-rooftop-solar-panels-nearing-commercialization/

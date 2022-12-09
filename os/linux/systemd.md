@@ -38,6 +38,9 @@ https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
 https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/
 
 #
+https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdOomdNowDisabled
+> https://news.ycombinator.com/item?id=33894469
+
 https://www.theregister.com/2022/11/03/version_252_systemd/?td=rt-3a Version 252 of systemd, as expected, locks down the Linux boot process
 
 https://www.phoronix.com/news/systemd-252 systemd-measure

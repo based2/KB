@@ -71,6 +71,12 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://matthias-research.github.io/pages/tenMinutePhysics/index.html
+> https://news.ycombinator.com/item?id=33925047
+
+https://www.chemistryworld.com/features/the-terahertz-gap-into-the-dead-zone/3004857.article
+> https://news.ycombinator.com/item?id=33855494
+
 https://github.com/cando-developers/cando Cando chemistry language
 
 https://phys.org/news/2022-10-scientists-material-plastic-metal.html

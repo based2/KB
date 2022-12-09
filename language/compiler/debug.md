@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/
+> https://news.ycombinator.com/item?id=33915696
+
 https://www.logikalsolutions.com/wordpress/information-technology/core-dumps-2/
 
 https://github.com/osandov/drgn

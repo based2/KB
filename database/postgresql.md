@@ -266,6 +266,14 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://news.ycombinator.com/item?id=33899482
+
+https://neon.tech/blog/time-travel-with-postgres/
+> https://news.ycombinator.com/item?id=33897790
+
+https://neon.tech/blog/serverless-driver-for-postgres/
+> https://news.ycombinator.com/item?id=33909616
+
 https://www.cybertec-postgresql.com/en/explain-that-parameterized-statement/
 
 https://postgresml.org/blog/scaling-postgresml-to-one-million-requests-per-second/

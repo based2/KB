@@ -68,6 +68,12 @@ https://madebyevan.com/algos/crdt-fractional-indexing/
 https://zed.dev/blog/crdts
 > https://news.ycombinator.com/item?id=33820975
 
+https://driftingin.space/posts/you-might-not-need-a-crdt
+> https://news.ycombinator.com/item?id=33865672
+
+https://josephg.com/blog/crdts-go-brrr/
+> https://news.ycombinator.com/item?id=33903563
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

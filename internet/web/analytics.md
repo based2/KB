@@ -33,6 +33,9 @@ https://kvirkvelia.com/ads-plugin-steals-30-of-your-money/
 https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weapon.html
 > https://news.ycombinator.com/item?id=30411049
 
+https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB
+> https://news.ycombinator.com/item?id=33916113
+
 # News
 https://dub.sh/
 > https://news.ycombinator.com/item?id=32939407

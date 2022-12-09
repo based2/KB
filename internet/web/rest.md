@@ -12,6 +12,8 @@ https://www.postman.com/
 > https://blog.postman.com/postman-now-supports-grpc/
 > > https://news.ycombinator.com/item?id=30176745
 
+https://news.ycombinator.com/item?id=33906520
+
 https://httpie.io/ Python
 
 https://opensource.com/article/21/10/linux-wget-command

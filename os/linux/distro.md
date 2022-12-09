@@ -71,6 +71,11 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=33904336
+
+https://asahilinux.org/2022/12/gpu-drivers-now-in-asahi-linux/
+> https://news.ycombinator.com/item?id=33891197
+
 https://nixos.org/blog/announcements
 > https://news.ycombinator.com/item?id=33815085
 

@@ -41,6 +41,9 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html
+> https://news.ycombinator.com/item?id=33917070
+
 https://words.filippo.io/so-i-lost-my-openbsd-fde-password/
 > https://news.ycombinator.com/item?id=33513876
 

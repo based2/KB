@@ -15,6 +15,8 @@ https://mcaptcha.org/ AGPL, rust
 > https://github.com/mCaptcha
   
 # News
+https://blog.mozilla.org/en/privacy-security/mozilla-anti-tracking-milestones-timeline/
+
 https://www.reddit.com/r/GIMP/comments/ygbr4o/dangerous_google_ad_disguising_itself_as/
 > https://news.ycombinator.com/item?id=33384236
 
