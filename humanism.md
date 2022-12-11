@@ -2,6 +2,8 @@ https://en.wikipedia.org/wiki/Humanism
 
 https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights
 
+https://en.wikipedia.org/wiki/Human_Rights_League_(France)
+
 https://www.un.org/en/
 
 https://en.wikipedia.org/wiki/Geneva_Conventions

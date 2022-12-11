@@ -502,6 +502,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://snyk.io/blog/secure-javascript-url-validation/
+
+https://github.com/crisdosyago/sirdb
+
 https://vitejs.dev/blog/announcing-vite4.html
 > https://news.ycombinator.com/item?id=33923537
 

@@ -27,6 +27,12 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://aperiodic.dev/blog/posts/skipping-entry/
+
+https://www.nasa.gov/specials/trackartemis/
+
+https://www.nasaspaceflight.com/2022/12/hakuto-r-m1/
+
 https://news.ycombinator.com/item?id=33881936
 
 https://www.youtube.com/watch?v=SHLDluKhuU8

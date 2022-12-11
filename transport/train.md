@@ -15,6 +15,17 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://bernardgreenberg.com/Subway/
+
+https://virtualuncle.com/2022/04/26/giant-vr-robots-are-building-railways-in-japan/
+> https://news.ycombinator.com/item?id=33946425
+
+https://www.trains.com/trn/news-reviews/news-wire/groundbreaking-marks-start-of-work-on-penn-station-access/
+> https://news.ycombinator.com/item?id=33935514
+
+https://www.trains.com/trn/news-reviews/news-wire/amtrak-asks-federal-regulators-to-investigate-union-pacific-handling-of-sunset-limited/
+> https://news.ycombinator.com/item?id=33937635
+
 https://verkehrsforschung.dlr.de/en/projects/ngt-cargo
 
 https://www.economist.com/science-and-technology/2022/09/28/keeping-trains-apart-is-crucial-to-safety

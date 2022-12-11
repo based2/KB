@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://interestingengineering.com/innovation/mod-tesla-travelled-1600-miles-without-charger
+
 https://semiengineering.com/cybersecurity-risks-of-automotive-ota/
 
 https://www.youtube.com/watch?v=3TFz1xqp3us

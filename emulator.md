@@ -23,4 +23,5 @@ https://github.com/binji/smolnes
 > https://news.ycombinator.com/item?id=33374025
 
 https://github.com/jart/blink
-> 
+
+https://zipcpu.com/zipcpu/2022/12/03/no-boot.html

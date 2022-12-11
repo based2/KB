@@ -41,6 +41,9 @@ https://keys.pub/
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
 # News
+https://www.yubico.com/blog/a-yubico-faq-about-passkeys/
+> https://news.ycombinator.com/item?id=33930545
+
 https://blog.chromium.org/2022/12/introducing-passkeys-in-chrome.html
 > https://news.ycombinator.com/item?id=33917070
 

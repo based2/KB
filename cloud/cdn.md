@@ -17,3 +17,5 @@ https://csswizardry.com/2019/05/self-host-your-static-assets/
 
 https://www.foxy.io/blog/cloudfront-vs-cloudflare-and-how-to-reduce-response-times-for-both-by-35/
 > https://news.ycombinator.com/item?id=33275500
+
+https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889

@@ -73,6 +73,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/
+
 https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/
 > https://news.ycombinator.com/item?id=33921861
 

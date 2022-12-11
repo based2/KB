@@ -69,6 +69,10 @@ https://rentry.co/sdupdates list
 https://getimg.ai/text-to-image
 > https://news.ycombinator.com/item?id=33735565
 
+https://stability.ai/blog/stablediffusion2-1-release7-dec-2022
+
+https://huggingface.co/dreamlike-art/dreamlike-diffusion-1.0
+
 https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/
 > https://vickiboykis.com/2022/11/18/some-notes-on-the-stable-diffusion-safety-filter/
 

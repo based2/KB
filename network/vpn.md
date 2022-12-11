@@ -61,6 +61,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/
+> https://news.ycombinator.com/item?id=33944772
+
 https://news.ycombinator.com/item?id=33725770
 
 https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_2357011c-043b-4efd-8dbe-152b3f7bf253

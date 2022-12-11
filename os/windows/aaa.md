@@ -135,6 +135,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.neowin.net/news/here-are-5-not-so-great-features-coming-soon-to-windows-11/
+> https://news.ycombinator.com/item?id=33943777
+
 https://news.ycombinator.com/item?id=33869967
 
 https://www.howtogeek.com/816348/did-you-know-shiftctrlaltwinl-opens-linkedin-on-windows/

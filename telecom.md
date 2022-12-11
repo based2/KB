@@ -127,6 +127,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://news.ycombinator.com/item?id=33946110
+
 https://news.ycombinator.com/item?id=33895150
 
 https://www.dtu.dk/english/news/all-news/new-data-transmission-record?id=213f1735-036d-44c9-b229-d25d74dd3f02

@@ -56,3 +56,6 @@ https://checksum.sh/
 
 https://yotam.net/posts/the-audacity-of-piping-curl-to-bash/
 > https://news.ycombinator.com/item?id=33830915
+
+https://utcc.utoronto.ca/~cks/space/blog/unix/LoginShellMarkerHistory
+> https://news.ycombinator.com/item?id=33941302

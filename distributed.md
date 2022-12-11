@@ -74,6 +74,9 @@ https://driftingin.space/posts/you-might-not-need-a-crdt
 https://josephg.com/blog/crdts-go-brrr/
 > https://news.ycombinator.com/item?id=33903563
 
+https://supabase.com/blog/postgres-crdt
+> https://news.ycombinator.com/item?id=33931971
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

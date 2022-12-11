@@ -71,6 +71,11 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://www.thistothat.com/
+> https://news.ycombinator.com/item?id=33930706
+
+https://physicsworld.com/a/a-periodic-table-for-topological-materials/
+
 https://matthias-research.github.io/pages/tenMinutePhysics/index.html
 > https://news.ycombinator.com/item?id=33925047
 
@@ -151,7 +156,6 @@ https://news.rice.edu/news/2020/rice-lab-turns-trash-valuable-graphene-flash
 > https://news.ycombinator.com/item?id=30533343
 
 https://phys.org/news/2022-02-inexpensive-catalyst-production-oxygen.html
->
 
 https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds_number_1977.pdf
 > https://news.ycombinator.com/item?id=30437503
@@ -159,7 +163,6 @@ https://science.curie.fr/wp-content/uploads/2016/04/Purcell_life_at_low_reynolds
 https://lithub.com/how-einstein-arrived-at-his-theory-of-general-relativity/
 
 https://phys.org/news/2022-02-quantum-friction-carbon-nanotubes-long-standing.html
->
 
 https://news.mit.edu/2022/polymer-lightweight-material-2d-0202
 > https://news.ycombinator.com/item?id=30180839

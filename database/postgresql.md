@@ -266,6 +266,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://www.amazingcto.com/postgres-for-everything/
+> https://news.ycombinator.com/item?id=33934139
+
 https://news.ycombinator.com/item?id=33899482
 
 https://neon.tech/blog/time-travel-with-postgres/

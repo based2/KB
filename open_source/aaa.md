@@ -234,6 +234,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://developer.gs.com/blog/posts/goldmansachs-ospo-one-year-in
+
 https://www.theregister.com/2022/11/22/france_no_windows_google/
 > https://news.ycombinator.com/item?id=33862832
 

@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://mamoniem.com/behind-the-pretty-frames-death-stranding/
+
 https://vorixo.github.io/devtricks/procgen/
 
 https://clintbellanger.net/articles/isometric_math/

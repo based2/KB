@@ -32,6 +32,8 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://ittavern.com/getting-started-with-tmux/
+
 https://blog.meain.io/2022/terminal-drag-and-drop/
 > https://news.ycombinator.com/item?id=33836308
 

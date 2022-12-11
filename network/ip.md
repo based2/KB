@@ -44,6 +44,8 @@ https://blog.apnic.net/2022/11/21/deploying-ipv6-mostly-access-networks/
 https://www.route48.org/
 
 https://news.ycombinator.com/item?id=33894933
+> https://adminhacks.com/broken-IPv6.html
+> > https://news.ycombinator.com/item?id=33941324
 
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf

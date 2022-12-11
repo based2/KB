@@ -99,6 +99,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://news.ycombinator.com/item?id=33942503
+
 https://thenewoil.org/
 
 https://forums.macrumors.com/threads/icloud-for-windows-corrupting-videos-downloading-other-peoples-photos.2370666/

@@ -41,6 +41,15 @@ https://github.com/moyix/fauxpilot oss
 https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
+# News
+https://github.com/KanHarI/gpt-commit-summarizer
+> https://news.ycombinator.com/item?id=33947087
+
+https://betterprogramming.pub/pair-programming-with-ai-writing-a-distributed-fault-tolerant-redis-client-using-chatgpt-239dc0a90550
+
+https://brainfisheatfishbrain.com/post/chatgpt-code-reviews/
+> https://news.ycombinator.com/item?id=33932708
+
 https://note89.github.io/the-advent-of-code-ai-edition/
 > https://news.ycombinator.com/item?id=33842904
 

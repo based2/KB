@@ -84,6 +84,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://todayuknews.com/economy/europes-next-generation-of-weather-satellites-set-for-launch/
+
 https://www.esa.int/ESA_Multimedia/Images/2022/12/Webb_tracks_clouds_on_Saturn_s_moon_Titan
 
 https://timesofindia.indiatimes.com/india/1st-single-piece-3d-printed-rocket-engine-built-by-desi-startup-successfully-tested/articleshow/95388764.cms

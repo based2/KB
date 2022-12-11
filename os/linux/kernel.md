@@ -12,6 +12,10 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/SubscriberLink/914632/192f456167443313/ Bugs and fixes in the kernel history
+
+https://www.collabora.com/news-and-blog/news-and-events/kernelci-now-testing-linux-rust-code.html
+
 https://www.theregister.com/2022/12/09/linux_kernel_61_column/
 > https://news.ycombinator.com/item?id=33923044
 

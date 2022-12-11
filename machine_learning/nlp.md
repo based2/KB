@@ -8,6 +8,9 @@ https://github.com/nicolay-r/ARElight Mass-Media Processing Application for Rela
 https://github.com/winkjs/wink-nlp
 > https://news.ycombinator.com/item?id=33734147
 
+# News
+https://news.ycombinator.com/item?id=33933772
+
 https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp
 
 https://www.nlpdemystified.org/

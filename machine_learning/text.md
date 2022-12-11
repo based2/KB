@@ -4,6 +4,19 @@ https://explosion.ai/blog/coref
 
 https://explosion.ai/blog/floret-vectors
 
+# News
+https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook
+> https://news.ycombinator.com/item?id=33925163
+
+https://www.learngpt.com/
+> https://news.ycombinator.com/item?id=33923907
+
+https://www.aiweirdness.com/writing-like-a-robot/
+> https://news.ycombinator.com/item?id=33938619
+
+https://notesbylex.com/disputing-a-parking-fine-with-chatgpt.html
+> https://news.ycombinator.com/item?id=33937753
+
 https://ai.facebook.com/blog/cicero-ai-negotiates-persuades-and-cooperates-with-people/
 > https://news.ycombinator.com/item?id=33706750
 

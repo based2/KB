@@ -33,4 +33,7 @@ https://www.fastruby.io/blog/rails/naming-things-is-hard.html
 
 https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
 
+https://www.simplethread.com/taming-names-in-software-development/
+> https://news.ycombinator.com/item?id=33939114
+
 # naming thi

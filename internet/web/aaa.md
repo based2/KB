@@ -116,6 +116,11 @@ https://puter.com/
 > https://news.ycombinator.com/item?id=33838179
 
 # News
+https://pluralistic.net/2022/12/10/e2e/
+
+https://www.w3.org/TR/webmention/
+> https://news.ycombinator.com/item?id=33941690
+
 https://www.w3.org/TR/viss2-core/
 
 https://www.w3.org/TR/window-placement/

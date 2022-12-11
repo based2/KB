@@ -59,6 +59,14 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://curia.europa.eu/juris/document/document.jsf;jsessionid=6026C4123D1A36D8BD94C42B96E1C570?text=&docid=268842&pageIndex=0&doclang=FR&mode=req&dir=&occ=first&part=1&cid=216805
+
+https://news.ycombinator.com/item?id=33935566
+
+https://twitter.com/zemotion/status/1600529480099196928
+> https://news.ycombinator.com/item?id=33938704
+> https://www.tageblatt.lu/headlines/affaire-dieschburg-zhang-pas-doriginalite-pas-de-droits-pas-de-plagiat/
+
 https://news.ycombinator.com/item?id=33866466
 
 https://oll.libertyfund.org/title/dymes-constitution-of-athens

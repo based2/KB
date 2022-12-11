@@ -143,6 +143,8 @@ https://www.fintopea.com/
 
 https://en.wikipedia.org/wiki/Newcomb%27s_paradox
 
+https://www.researchgate.net/publication/340833938_The_EU_VAT_Treatment_of_Shares_and_Other_Securities
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

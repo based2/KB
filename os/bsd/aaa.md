@@ -38,6 +38,9 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://lwn.net/SubscriberLink/915640/53bc300d11179c62/ mimmutable() for OpenBSD
+> https://news.ycombinator.com/item?id=33930105
+
 https://www.openbsdhandbook.com/openbsd_for_linux_users/
 > https://news.ycombinator.com/item?id=33731772
 

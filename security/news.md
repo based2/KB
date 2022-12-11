@@ -1,3 +1,21 @@
+https://mjg59.dreamwidth.org/62598.html
+> https://news.ycombinator.com/item?id=33929620
+
+https://nebuchadnezzar-megolm.github.io/ Practically-exploitable Cryptographic Vulnerabilities in Matrix
+> https://news.ycombinator.com/item?id=33930776
+
+https://www.bleepingcomputer.com/news/security/hackers-earn-989-750-for-63-zero-days-exploited-at-pwn2own-toronto/
+> https://news.ycombinator.com/item?id=33939590
+
+https://indeedjobscam.pages.dev/
+> https://news.ycombinator.com/item?id=33929659
+
+https://crypto.junod.info/posts/recursive-hash/
+> https://news.ycombinator.com/item?id=33942309
+
+https://hachyderm.io/@em0/109494729273725207
+> https://news.ycombinator.com/item?id=33942679
+
 https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m
 > https://news.ycombinator.com/item?id=33890098
 
@@ -66,8 +84,9 @@ https://github.com/bettercap/bettercap
 
 https://undeadly.org/cgi?action=article;sid=20221202230711 ikev2
 
-https://souffle-lang.github.io/index.html
+https://souffle-lang.github.io/index.html Systematic, Ontological, Undiscovered Fact Finding Logic Engine 
 > https://news.ycombinator.com/item?id=33806419
+> https://github.com/souffle-lang/souffle/blob/master/LICENSE
 
 https://news.ycombinator.com/item?id=33807130
 

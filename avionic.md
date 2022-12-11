@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://spectrum.ieee.org/airship
+> https://news.ycombinator.com/item?id=33944767
+
 https://www.bbc.com/news/business-63758937
 
 https://sciencebasedlife.wordpress.com/2012/11/01/the-kopp-etchells-effect/

@@ -80,6 +80,9 @@ https://ml.berkeley.edu/blog/posts/clip-art/
 > https://news.ycombinator.com/item?id=27696369
 
 # GPT
+https://dugas.ch/artificial_curiosity/GPT_architecture.html
+> https://news.ycombinator.com/item?id=33942597
+
 https://news.ycombinator.com/item?id=26534000
 
 https://stefanzukin.com/enigma/
@@ -203,6 +206,9 @@ https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemio
 https://arxiv.org/abs/2106.09898 Bad Characters: Imperceptible NLP Attacks
 > https://news.ycombinator.com/item?id=29734399
 
+https://www.mufeedvh.com/llm-security/
+> https://news.ycombinator.com/item?id=33918026
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -234,6 +240,11 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://learnprompting.org/
+>
+
+https://www.assemblyai.com/blog/deepminds-alphatensor-explained/
+
 https://news.livebook.dev/announcing-bumblebee-gpt2-stable-diffusion-and-more-in-elixir-3Op73O
 > https://news.ycombinator.com/item?id=33913161
 

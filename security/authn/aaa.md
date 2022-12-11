@@ -72,6 +72,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://mjg59.dreamwidth.org/62746.html
+> https://news.ycombinator.com/item?id=33939871
+
 https://github.com/cloudentity/oauth2c
 > https://news.ycombinator.com/item?id=33920885
 
