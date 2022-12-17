@@ -1,4 +1,6 @@
 # News
+https://blocksandfiles.com/2022/12/15/pure-dell-hpe-and-ibm-face-turkish-competitor-inspired-by-vast-datas-hw-architecture/
+
 https://dev.yorhel.nl/ncdu
 > https://news.ycombinator.com/item?id=33893815
 

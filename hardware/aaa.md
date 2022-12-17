@@ -81,6 +81,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://arstechnica.com/gadgets/2022/12/dell-concept-laptop-has-pop-out-components-disassembles-screwdriver-free/
+
 https://www.semianalysis.com/p/why-america-will-lose-semiconductors
 
 https://www.bigmessowires.com/nibbler/

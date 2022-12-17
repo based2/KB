@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.cbsnews.com/dfw/news/f-35-fighter-jet-pilot-ejected-after-landing-at-fort-worth-naval-air-base/
+> https://news.ycombinator.com/item?id=34012814
+
 https://spectrum.ieee.org/airship
 > https://news.ycombinator.com/item?id=33944767
 

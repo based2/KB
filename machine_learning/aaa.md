@@ -240,6 +240,18 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://openai.com/blog/new-and-improved-embedding-model/
+> https://news.ycombinator.com/item?id=34003394
+
+https://medium.com/syncedreview/geoffrey-hintons-forward-forward-algorithm-charts-a-new-path-for-neural-networks-a02a3f9645a4
+
+https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb
+> https://news.ycombinator.com/item?id=34020025
+
+https://news.ycombinator.com/item?id=33954702
+
+https://news.ycombinator.com/item?id=33955125
+
 https://learnprompting.org/
 >
 

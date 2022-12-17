@@ -100,6 +100,10 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://news.ycombinator.com/item?id=34004118
+
+https://news.ycombinator.com/item?id=33984072
+
 https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/
 > https://news.ycombinator.com/item?id=33942581
 

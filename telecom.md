@@ -127,6 +127,11 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://social.afront.org/@kwf/109492743645650432
+> https://news.ycombinator.com/item?id=33949885
+
+https://www.t-mobile.com/news/network/t-mobile-publishes-2022-report-on-state-of-fixed-wireless-strong
+
 https://news.ycombinator.com/item?id=33946110
 
 https://news.ycombinator.com/item?id=33895150

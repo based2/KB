@@ -47,6 +47,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://blog.kanbach.org/post/firewalls-under-the-hood-ufw/
+
 https://safing.io/
 
 https://github.com/ngrok/firewall_toolkit

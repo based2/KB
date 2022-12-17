@@ -79,3 +79,5 @@ https://github.com/michaelengel/xv6-d1
 
 https://stevens.netmeister.org/631/ Advanced Programming in the UNIX Environment, CS631 - APUE
 > https://news.ycombinator.com/item?id=33140795
+
+https://news.ycombinator.com/item?id=34017934

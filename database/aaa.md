@@ -68,6 +68,12 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.theregister.com/2022/12/15/new_ibm_power_cpu_for_oracle/
+> https://news.ycombinator.com/item?id=34011470
+
+https://www.prequel.co/blog/database-drivers-naughty-or-nice
+> https://news.ycombinator.com/item?id=33955983
+
 https://news.ycombinator.com/item?id=33916240
 
 https://www.featurebase.com/blog/range-encoded-bitmaps

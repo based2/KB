@@ -109,6 +109,11 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://www.quantamagazine.org/nasty-geometry-breaks-decades-old-tiling-conjecture-20221215/
+> https://news.ycombinator.com/item?id=34013096
+
+https://news.ycombinator.com/item?id=33952515
+
 https://jsxgraph.mentat.org/
 
 https://news.ycombinator.com/item?id=33890753

@@ -47,3 +47,6 @@ https://dl.acm.org/doi/pdf/10.1145/66068.66075 On Prolog and the Occur Check Pro
 https://ciao-lang.org/ciao/build/doc/ciao.html/
 > https://news.ycombinator.com/item?id=32948756
 > > https://ciao-lang.org/
+
+https://logtalk.org/rationale.html
+> https://news.ycombinator.com/item?id=33942105

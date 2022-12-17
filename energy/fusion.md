@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.sciencemediacentre.org/expert-reaction-to-fusion-announcement-from-the-lawrence-livermore-national-laboratory/
+> https://news.ycombinator.com/item?id=33958678
+
 https://www.nature.com/articles/s41567-022-01809-3 Evidence for suprathermal ion distribution in burning plasmas
 > https://arstechnica.com/science/2022/11/laser-driven-fusions-internal-energies-not-matching-up-with-predictions/
 > > https://news.ycombinator.com/item?id=33668945

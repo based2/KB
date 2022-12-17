@@ -5,6 +5,16 @@ https://explosion.ai/blog/coref
 https://explosion.ai/blog/floret-vectors
 
 # News
+https://www.mosaicml.com/blog/introducing-pubmed-gpt
+
+https://github.com/openai/tiktoken
+> https://news.ycombinator.com/item?id=34008839
+
+https://billwadge.com/2022/12/15/just-how-smart-are-you-chatgpt-i-quiz-chatgpt-about-math/
+> https://news.ycombinator.com/item?id=34007544
+
+https://news.ycombinator.com/item?id=33950542
+
 https://abuqader.substack.com/p/i-fine-tuned-flan-t5-can-it-cook
 > https://news.ycombinator.com/item?id=33925163
 

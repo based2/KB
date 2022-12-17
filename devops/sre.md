@@ -37,6 +37,9 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://oschvr.com/posts/what-id-like-as-sre/
+> https://news.ycombinator.com/item?id=34006463
+
 https://medium.com/@hugo.oliveira.rocha/what-we-learned-after-i-deleted-the-main-production-database-by-mistake-13c0a5815de5
 > https://news.ycombinator.com/item?id=32903367
 

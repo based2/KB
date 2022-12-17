@@ -135,6 +135,11 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://legacyupdate.net/
+> https://news.ycombinator.com/item?id=34019900
+
+https://news.ycombinator.com/item?id=33954176
+
 https://www.neowin.net/news/here-are-5-not-so-great-features-coming-soon-to-windows-11/
 > https://news.ycombinator.com/item?id=33943777
 

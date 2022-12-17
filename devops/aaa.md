@@ -263,6 +263,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://about.gitlab.com/blog/2022/12/15/get-ready-for-new-gitlab-web-ide/
+> https://news.ycombinator.com/item?id=34001687
+
 https://github.com/refined-github/refined-github
 
 https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/

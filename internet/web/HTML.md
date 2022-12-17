@@ -146,6 +146,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=33952114
+
 https://kittygiraudel.com/2022/09/30/templating-in-html/
 
 https://github.com/orf/hq

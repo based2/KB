@@ -26,7 +26,6 @@ https://gradio.app/real_time_speech_recognition/
 
 https://birdnetpi.com/
 > https://news.ycombinator.com/item?id=31072485
-> 
 > https://news.ycombinator.com/item?id=31785736
 
 https://speechresearch.github.io/naturalspeech/
@@ -70,6 +69,9 @@ https://github.com/rhasspy/rhasspy
 https://news.ycombinator.com/item?id=33877893
 
 https://news.ycombinator.com/item?id=33884716
+
+https://www.riffusion.com/about
+> https://news.ycombinator.com/item?id=33999162
 
 # speech2Text
 https://openai.com/blog/whisper/

@@ -16,6 +16,15 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://pv-magazine-usa.com/2022/12/15/california-pulls-the-plug-on-rooftop-solar/
+> https://news.ycombinator.com/item?id=34015491
+
+https://www.reuters.com/world/asia-pacific/tokyo-makes-solar-panels-mandatory-new-homes-built-after-2025-2022-12-15/
+> https://news.ycombinator.com/item?id=34015658
+
+https://spectrum.ieee.org/agrivoltaics-optimize-yield
+> https://news.ycombinator.com/item?id=34017538
+
 https://www.canarymedia.com/articles/solar/a-100mw-solar-farm-in-texas-will-mount-panels-directly-on-the-ground
 > https://news.ycombinator.com/item?id=33926683
 

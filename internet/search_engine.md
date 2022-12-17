@@ -80,6 +80,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://death.andgravity.com/pwned
+> https://news.ycombinator.com/item?id=34020067
+
 https://news.ycombinator.com/item?id=33944614
 
 https://news.ycombinator.com/item?id=33853773

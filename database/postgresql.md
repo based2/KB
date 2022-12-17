@@ -266,6 +266,12 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://supabase.com/blog/postgres-foreign-data-wrappers-rust
+> https://news.ycombinator.com/item?id=34001493
+
+https://github.com/IvorySQL/IvorySQL
+> https://news.ycombinator.com/item?id=34007403
+
 https://www.amazingcto.com/postgres-for-everything/
 > https://news.ycombinator.com/item?id=33934139
 

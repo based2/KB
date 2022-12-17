@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://zulko.github.io/blog/2014/09/20/vector-animations-with-python/
+> https://news.ycombinator.com/item?id=33942743
+
 https://fffuel.co/pppixelate/
 
 https://aatishb.com/patterncollider/

@@ -106,6 +106,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://www.compileralchemy.com/books/sqlite-internals/
+
 https://news.ycombinator.com/item?id=33944271
 
 https://www.philipotoole.com/how-i-found-a-bug-in-sqlite/

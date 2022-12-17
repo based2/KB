@@ -254,6 +254,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://sourcery.ai/blog/dependency-rules/
+> https://news.ycombinator.com/item?id=33999191
+
+https://www.pypy.org/posts/2022/07/toy-optimizer.html
+> https://news.ycombinator.com/item?id=34005860
+
 https://pythoninsider.blogspot.com/2022/12/python-3111-3109-3916-3816-3716-and.html
 > https://news.ycombinator.com/item?id=33889831
 

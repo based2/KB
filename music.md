@@ -182,6 +182,9 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://www.theregister.com/2022/12/14/firefox_108/
+> https://news.ycombinator.com/item?id=33990049
+
 https://aatishb.com/dissonance/
 > https://news.ycombinator.com/item?id=33829384
 

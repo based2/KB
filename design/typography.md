@@ -34,3 +34,6 @@ https://www.warp.dev/blog/adventures-text-rendering-kerning-glyph-atlases
 
 https://brailleinstitute.org/freefont Atkinson Hyperlegible Font
 > https://news.ycombinator.com/item?id=32799872
+
+https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influences_readability
+> 

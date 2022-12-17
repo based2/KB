@@ -145,6 +145,8 @@ https://en.wikipedia.org/wiki/Newcomb%27s_paradox
 
 https://www.researchgate.net/publication/340833938_The_EU_VAT_Treatment_of_Shares_and_Other_Securities
 
+https://news.ycombinator.com/item?id=33985969
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317
@@ -172,6 +174,9 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://www.bbc.com/news/business-64004673
+> https://news.ycombinator.com/item?id=34018332
+
 https://brinklindsey.substack.com/p/the-anti-promethean-backlash
 > https://news.ycombinator.com/item?id=33681748
 

@@ -215,6 +215,14 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://overturemaps.org/
+> https://news.ycombinator.com/item?id=33999873
+
+https://arstechnica.com/gadgets/2022/12/linux-amazon-meta-and-microsoft-want-to-break-the-google-maps-monopoly/
+
+https://gizmodo.com/linux-google-maps-meta-aws-microsoft-tomtom-1849899375
+> https://news.ycombinator.com/item?id=34017532
+
 https://news.ycombinator.com/item?id=33903016
 
 https://blog.dahl.dev/posts/plotting-swedens-real-estate-prices-on-a-heatmap-with-deckgl-and-cloudflare/

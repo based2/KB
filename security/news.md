@@ -1,3 +1,29 @@
+https://www.phoronix.com/news/Linux-6.2-x86-mm
+
+https://tailscale.com/blog/tailnet-lock/
+> https://news.ycombinator.com/item?id=33986430
+
+https://www.nist.gov/news-events/news/2022/12/nist-retires-sha-1-cryptographic-algorithm
+> https://news.ycombinator.com/item?id=34001347
+
+https://tmp.bearblog.dev/disk-encryption-aws-is-close-to-useless-and-potentially-harmful/
+> https://news.ycombinator.com/item?id=34014429
+
+https://element.io/blog/bundesmessenger-is-a-milestone-in-germanys-ground-breaking-vision/
+> https://news.ycombinator.com/item?id=34014519
+
+https://www.synacktiv.com/sites/default/files/2022-11/vlc_vnc_int_overflow-CVE-2022-41325.pdf
+
+https://onekey.com/blog/security-advisory-asus-m25-nas-vulnerability/
+
+https://www.bleepingcomputer.com/news/security/cisco-discloses-high-severity-ip-phone-zero-day-with-exploit-code/
+
+https://claroty.com/team82/research/js-on-security-off-abusing-json-based-sql-to-bypass-waf
+
+https://www.bleepingcomputer.com/news/security/air-gapped-pcs-vulnerable-to-data-theft-via-power-supply-radiation/
+
+https://vigilance.fr/vulnerabilite/FreeBSD-buffer-overflow-via-ping-39980
+
 https://mjg59.dreamwidth.org/62598.html
 > https://news.ycombinator.com/item?id=33929620
 

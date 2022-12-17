@@ -37,6 +37,8 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incident
+https://arstechnica.com/information-technology/2022/12/microsoft-digital-certificates-have-once-again-been-abused-to-sign-malware/
+
 https://bugs.chromium.org/p/apvi/issues/detail?id=100#c1
 > https://www.reddit.com/r/netsec/comments/za48rr/platform_certificates_used_to_sign_android_malware/
 

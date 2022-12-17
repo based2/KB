@@ -75,6 +75,15 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://alexxcons.github.io/blogpost_8.html
+> https://news.ycombinator.com/item?id=33999812
+
+https://blog.jacobstoner.com/use-a-laptop-or-tablet-as-a-2nd-display-on-linux-with-a-dummy-monitor-and-rdp/
+> https://news.ycombinator.com/item?id=34010970
+
+https://itvision.altervista.org/linux-desktop-environments-system-usage.html
+> https://news.ycombinator.com/item?id=33951719
+
 https://www.theregister.com/2022/12/08/forthcoming_xfce_418_on_show/
 > https://news.ycombinator.com/item?id=33923627
 

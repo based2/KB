@@ -8,6 +8,12 @@ protocols
 https://www.multipath-tcp.org/
 > https://news.ycombinator.com/item?id=33220975
 
+# News
+https://z-wavealliance.org/news_p/z-wave-alliance-announces-z-wave-source-code-project-is-complete-now-open-and-widely-available-to-members/
+> https://news.ycombinator.com/item?id=33999999
+
+https://blog.ipspace.net/2022/12/quick-look-aws-srd.html
+
 https://github.com/MayaPosch/NymphCast/
 > https://news.ycombinator.com/item?id=27482699
 

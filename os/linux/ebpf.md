@@ -53,6 +53,8 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://open-nfp.org/the-classroom/p4-ebpf-and-linux-tc-offload/
+
 https://openziti.io/using-ebpf-tc-to-securely-mangle-packets-in-the-kernel-and-pass-them-to-my-secure-networking-application
 
 https://github.com/eeriedusk/knockles

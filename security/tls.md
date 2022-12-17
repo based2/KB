@@ -108,6 +108,8 @@ https://community.letsencrypt.org/t/2022-01-25-issue-with-tls-alpn-01-validation
 https://letsencrypt.org/repository/
 > https://news.ycombinator.com/item?id=32339222
 
+https://community.letsencrypt.org/t/enabling-acme-caa-account-and-method-binding/189588
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 
@@ -133,6 +135,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://undeadly.org/cgi?action=article;sid=20221212183516
+
 https://words.filippo.io/dispatches/openssl-punycode/
 
 https://news.ycombinator.com/item?id=33437158

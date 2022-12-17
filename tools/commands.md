@@ -44,6 +44,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://will-keleher.com/posts/What-can-you-do-with-a-pid.html
+> https://news.ycombinator.com/item?id=34016518
+
 https://github.com/niedzielski/cb
 > https://news.ycombinator.com/item?id=33904757
 

@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://members.newdesigncongress.org/the-coming-game-engine-inflection-point/
+> 
+
 https://mamoniem.com/behind-the-pretty-frames-death-stranding/
 
 https://vorixo.github.io/devtricks/procgen/

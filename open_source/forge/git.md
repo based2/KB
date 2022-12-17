@@ -29,6 +29,12 @@ https://github.com/ssdong/git-command-visualizer Scala
 https://sourcehut.org/blog/2021-03-15-whats-cooking-march-2021/
 
 #
+https://blog.codeberg.org/codeberg-launches-forgejo.html
+> https://news.ycombinator.com/item?id=34011581
+
+https://forgejo.org/2022-12-15-hello-forgejo/
+> https://news.ycombinator.com/item?id=34012307
+
 https://sourcehut.org/blog/2022-11-15-four-years/
 > https://news.ycombinator.com/item?id=33607098
 

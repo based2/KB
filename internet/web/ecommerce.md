@@ -5,6 +5,8 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://news.ycombinator.com/item?id=34000502
+
 https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer
 > https://news.ycombinator.com/item?id=33920019
 

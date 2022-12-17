@@ -157,6 +157,8 @@ https://github.com/logsem/aneris coq, ocaml
 # concurrencyngs
 
 # News
+https://lobste.rs/s/ymzfdl/aurae_runtime
+
 https://martin.kleppmann.com/2022/10/12/verifying-distributed-systems-isabelle.html
 
 https://blog.the-pans.com/discover-paxos/

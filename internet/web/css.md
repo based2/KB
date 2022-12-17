@@ -211,6 +211,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/
+> https://news.ycombinator.com/item?id=34006622
+
 https://stackdiary.com/css-media-queries/
 > https://news.ycombinator.com/item?id=33921023
 

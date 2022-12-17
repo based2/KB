@@ -16,6 +16,12 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.theguardian.com/environment/2022/dec/15/dismantling-sellafield-epic-task-shutting-down-decomissioned-nuclear-site
+> https://news.ycombinator.com/item?id=33997375
+
+https://jackdevanney.substack.com/p/nuclear-power-is-too-slow
+> https://news.ycombinator.com/item?id=34015330
+
 https://www.canarymedia.com/articles/ev-charging/highway-ev-charging-will-need-a-ton-of-power-sooner-than-you-think
 
 https://www.gridwatch.templar.co.uk/

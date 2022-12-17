@@ -255,6 +255,11 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://unovis.dev/
+> https://news.ycombinator.com/item?id=33959591
+
+https://www.influxdata.com/blog/querying-parquet-millisecond-latency/
+
 https://en.wikibooks.org/wiki/Haskell/Zippers
 > https://news.ycombinator.com/item?id=33855212
 > > https://ferd.ca/yet-another-article-on-zippers.html
@@ -741,6 +746,9 @@ https://www.microprediction.com/get-predictions
 
 https://github.com/castledio/castled Reverse ETL
 > https://medium.com/castled/reverse-etl-opening-the-floodgates-for-operational-analytics-b09610c1120d
+
+https://github.com/airbytehq/airbyte ETL
+> https://news.ycombinator.com/item?id=34016063
 
 https://flowingdata.com/2021/12/29/anonymized-data-is-rarely-anonymous/
 > https://news.ycombinator.com/item?id=29734713

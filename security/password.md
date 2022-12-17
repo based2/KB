@@ -40,7 +40,12 @@ https://keys.pub/
 
 https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
 
+https://supabase.com/blog/vault-now-in-beta
+> https://news.ycombinator.com/item?id=34015167
+
 # News
+https://news.ycombinator.com/item?id=33994221
+
 https://www.yubico.com/blog/a-yubico-faq-about-passkeys/
 > https://news.ycombinator.com/item?id=33930545
 

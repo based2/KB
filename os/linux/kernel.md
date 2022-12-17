@@ -12,6 +12,12 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/ml/linux-doc/20221214185714.868374-1-tytso@mit.edu/
+> https://news.ycombinator.com/item?id=33996786
+
+https://lwn.net/Articles/917504/ The 6.1 kernel is out
+> https://news.ycombinator.com/item?id=33949611
+
 https://lwn.net/SubscriberLink/914632/192f456167443313/ Bugs and fixes in the kernel history
 
 https://www.collabora.com/news-and-blog/news-and-events/kernelci-now-testing-linux-rust-code.html

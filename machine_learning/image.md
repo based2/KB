@@ -265,6 +265,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://laion.ai/blog/laion-5b/
+> https://news.ycombinator.com/item?id=33953891
+
 https://arstechnica.com/information-technology/2022/11/disney-creates-ai-fountain-of-youth-for-actors/
 
 https://www.theregister.com/2022/12/02/ml_attention_center_model_freed/

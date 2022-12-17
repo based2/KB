@@ -67,6 +67,12 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=34017411
+
+https://news.ycombinator.com/item?id=33999340
+
+https://news.ycombinator.com/item?id=34002518
+
 https://www.france24.com/en/environment/20221208-biodiversity-ocean-dead-zones-are-proliferating
 
 https://www.cnbc.com/2022/12/05/microsoft-backed-start-up-heirloom-uses-limestone-to-capture-co2.html

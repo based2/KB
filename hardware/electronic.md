@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://www.withdiode.com/projects/62716731-5e1e-4622-86af-90d8e6b5123b
+> https://news.ycombinator.com/item?id=33991007
+
 https://tomverbeure.github.io/2022/11/18/Primitive-Transformations-with-Yosys-Techmap.html
 > https://news.ycombinator.com/item?id=33755344
 

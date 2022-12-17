@@ -354,6 +354,9 @@ https://veritabs.netlify.app/
 https://escape.tech/blog/from-vue2-to-svelte/
 > https://news.ycombinator.com/item?id=33827075
 
+https://svelte.dev/blog/announcing-sveltekit-1.0
+> https://news.ycombinator.com/item?id=33986555
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296
@@ -502,6 +505,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://blog.jquery.com/2022/12/13/jquery-3-6-2-released/
+> https://news.ycombinator.com/item?id=33987376
+
+https://htmx.org/docs/
+> https://news.ycombinator.com/item?id=33987578
+
 https://snyk.io/blog/secure-javascript-url-validation/
 
 https://github.com/crisdosyago/sirdb

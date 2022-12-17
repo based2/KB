@@ -30,3 +30,5 @@ https://news.ycombinator.com/item?id=26539292
 
 https://docs.microblog.pub/
 > https://news.ycombinator.com/item?id=33145095
+
+https://techpolicy.press/priorities-to-make-the-fediverse-sustainable/

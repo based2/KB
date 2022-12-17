@@ -409,6 +409,14 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html
+> https://news.ycombinator.com/item?id=34001702
+
+https://jack.wrenn.fyi/blog/deflect/
+> https://news.ycombinator.com/item?id=34001435
+
+https://www.ncameron.org/blog/rust-in-2023/
+
 https://blog.readyset.io/bounds-checks/
 > https://www.reddit.com/r/programming/comments/z9hjpk/how_much_does_rusts_bounds_checking_actually_cost/
 

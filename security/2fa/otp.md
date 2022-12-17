@@ -28,6 +28,9 @@ https://medium.com/@jewbixcube/paypal-allows-bypassing-two-factor-auth-with-a-bu
 https://cube0x0.github.io/Relaying-YubiKeys/
 
 # News
+https://github.blog/2022-12-14-raising-the-bar-for-software-security-next-steps-for-github-com-2fa/
+> https://news.ycombinator.com/item?id=33986593
+
 https://news.ycombinator.com/item?id=33600669
 
 https://github.blog/changelog/2022-11-01-high-impact-package-maintainers-now-require-2fa/

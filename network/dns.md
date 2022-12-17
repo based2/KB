@@ -114,6 +114,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/
+> https://news.ycombinator.com/item?id=33995265
+
 https://github.com/aaronjanse/dns-over-wikipedia
 > https://news.ycombinator.com/item?id=33830759
 
