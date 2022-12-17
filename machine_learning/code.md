@@ -42,6 +42,11 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://betterprogramming.pub/leverage-openais-language-model-for-automated-commit-summaries-8181cef30375
+> https://github.com/KanHarI/gpt-commit-summarizer
+
+https://matt.si/2022-12/chatgpt/
+
 https://github.com/KanHarI/gpt-commit-summarizer
 > https://news.ycombinator.com/item?id=33947087
 

@@ -25,6 +25,8 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://pydoit.org/
+
 https://github.com/StackStorm/st2
 > https://news.ycombinator.com/item?id=33736003
 

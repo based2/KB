@@ -127,12 +127,18 @@ https://www.youtube.com/watch?v=BSF04i3zNGw OpenMower - The affordable Open Sour
 https://osfc.io/archive
 
 # Firmware
+https://libreboot.org/news/libreboot20221214.html
+> https://news.ycombinator.com/item?id=33996015
+
 https://freshtomato.org/ Broadcom
 > https://news.ycombinator.com/item?id=28520468
 
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html
+> 
+
 https://librepcb.org/blog/2022-10-03_release_0.1.7/
 > https://news.ycombinator.com/item?id=33217270
 

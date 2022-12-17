@@ -26,4 +26,6 @@ https://susam.net/maze/simplicity-of-irc.html
 https://github.com/ergochat/ergo
 > https://news.ycombinator.com/item?id=31832115
 
+https://matt-rickard.com/the-fall-of-freenode
+
 

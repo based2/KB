@@ -115,6 +115,8 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://oldvcr.blogspot.com/2022/12/the-strange-case-of-beos-srs-and-silent.html
+
 https://macos9.app/
 > https://news.ycombinator.com/item?id=33868197
 

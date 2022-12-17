@@ -301,6 +301,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://man.sr.ht/~icefox/garnet/generics.md
+> https://lobste.rs/s/hot5by/garnet_generics_problem
+
 https://news.ycombinator.com/item?id=33933047
 
 https://news.ycombinator.com/item?id=33829645 php

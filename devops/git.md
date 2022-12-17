@@ -250,6 +250,9 @@ https://render.com/docs/monorepo-support
 
 https://github.com/typeofweb/ignore-monorepo-buildstep
 
+https://earthly.dev/blog/monorepo-tools/
+> https://www.reddit.com/r/programming/comments/zmlp7h/monorepo_build_tools/
+
 # Interap
 https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
 

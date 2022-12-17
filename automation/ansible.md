@@ -88,6 +88,7 @@ https://blog.quarkslab.com/ansible-security-assessment.html
 
 # News
 https://linuxfr.org/news/presentation-de-monkeyble-framework-de-test-bout-en-bout-pour-ansible
+> https://github.com/HewlettPackard/monkeyble
 
 https://github.com/omerbsezer/Fast-Ansible
 

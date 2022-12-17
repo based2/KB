@@ -23,6 +23,8 @@ https://dev.to/gwenshap/investigating-15s-http-response-time-in-aws-ecs-2gge
 https://www.reddit.com/r/aws/comments/yqkzax/just_released_alternat_a_high_availability_aws/
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2022/12/aws-gateway-load-balancer-endpoint-ipv6-traffic/
+
 https://aws.amazon.com/en/blogs/aws/introducing-vpc-lattice-simplify-networking-for-service-to-service-communication-preview/
 
 https://bitesizedserverless.com/bite/serverless-messaging-latency-compared/

@@ -83,6 +83,20 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://laminar.dev/ ui
+> https://github.com/raquo/Waypoint router
+
+https://scalablytyped.org/docs/readme.html
+
+https://www.youtube.com/watch?v=QRcD9Zc7eq4 KEYNOTE Simply Scala Martin Odersky
+> Scala Caprese https://www.slideshare.net/Odersky/capabilities-for-resources-and-effects-252161040
+
+https://www.youtube.com/watch?v=axphlFa3xB4
+
+https://github.com/arainko/ducktape
+
+https://virtuslab.com/blog/scala-toolkit-makes-scala-powerful-straight-out-of-the-box/
+
 https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0
 > https://news.ycombinator.com/item?id=33865932
 

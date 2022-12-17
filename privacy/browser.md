@@ -13,6 +13,8 @@ https://github.com/dothq/browser
 
 https://mcaptcha.org/ AGPL, rust
 > https://github.com/mCaptcha
+
+https://github.com/wenlng/go-captcha
   
 # News
 https://blog.mozilla.org/en/privacy-security/mozilla-anti-tracking-milestones-timeline/

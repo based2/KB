@@ -40,6 +40,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/firecracker-microvm/firecracker/blob/main/docs/snapshotting/snapshot-support.md
+
 https://bt.ht/alpine/
 > https://news.ycombinator.com/item?id=33908848
 

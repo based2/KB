@@ -75,6 +75,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://thisweek.gnome.org/posts/2022/12/twig-74/
+> https://news.ycombinator.com/item?id=34026965
+
+https://pointieststick.com/2022/12/16/this-week-in-kde-wayland-fractional-scaling-oh-and-we-also-fixed-multi-screen/
+
 https://alexxcons.github.io/blogpost_8.html
 > https://news.ycombinator.com/item?id=33999812
 

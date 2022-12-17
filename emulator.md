@@ -25,3 +25,5 @@ https://github.com/binji/smolnes
 https://github.com/jart/blink
 
 https://zipcpu.com/zipcpu/2022/12/03/no-boot.html
+
+https://www.phoronix.com/news/QEMU-7.2-Released

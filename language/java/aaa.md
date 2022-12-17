@@ -262,6 +262,8 @@ https://github.com/ufuu/JDK10 1.0
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
 # News
+https://itnext.io/jakarta-rest-3-1-by-examples-dbe13fe6988c
+
 https://alexn.org/blog/2022/10/24/scala-3-optional-braces/
 
 https://github.com/openblocks-dev/openblocks

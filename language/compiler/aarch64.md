@@ -1,3 +1,5 @@
+https://gist.github.com/zingaburga/805669eb891c820bd220418ee3f0d6bd ARM’s Scalable Vector Extensions: A Critical Look at SVE2 For Integer Workloads
+
 https://cohost.org/zeux/post/286620-arm-pragmatism-not
 > https://news.ycombinator.com/item?id=33584311
 

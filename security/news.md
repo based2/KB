@@ -1,3 +1,15 @@
+https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-esxi-and-vrealize-security-flaws/
+
+https://vigilance.fr/vulnerabilite/SnakeYaml-execution-de-code-via-Deserializing-40129
+
+https://vigilance.fr/vulnerabilite/OpenSAML-Java-multiples-vulnerabilites-40140
+
+https://aws.amazon.com/en/about-aws/whats-new/2022/12/amazon-route-53-threat-intelligence-recorded-future/
+
+https://lists.apache.org/thread/bf0y1lprjc475jdn3q1pk9cmrlwmb7xq
+
+https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls
+
 https://www.phoronix.com/news/Linux-6.2-x86-mm
 
 https://tailscale.com/blog/tailnet-lock/

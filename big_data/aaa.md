@@ -255,6 +255,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://github.com/great-expectations/great_expectations
+
 https://unovis.dev/
 > https://news.ycombinator.com/item?id=33959591
 

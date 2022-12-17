@@ -15,8 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://play.devnewton.fr/webkorisu/
+
 https://www.embeddedrelated.com/showarticle/1033.php
->
 
 https://github.com/bvschaik/julius
 > https://news.ycombinator.com/item?id=33828262

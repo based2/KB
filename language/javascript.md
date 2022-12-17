@@ -505,6 +505,8 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses
+
 https://blog.jquery.com/2022/12/13/jquery-3-6-2-released/
 > https://news.ycombinator.com/item?id=33987376
 

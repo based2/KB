@@ -35,6 +35,8 @@ https://github.com/reacherhq/check-if-email-exists
 > https://news.ycombinator.com/item?id=27705742
 
 # Spam
+https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/
+
 https://www.gated.com/
 
 https://spa.mnesty.com/
