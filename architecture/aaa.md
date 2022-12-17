@@ -250,6 +250,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://warrant.dev/learn/multitenancy
+
 https://www.infoq.com/news/2022/06/data-mesh-topologies/
 > https://news.ycombinator.com/item?id=33996808
 

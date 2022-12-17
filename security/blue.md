@@ -46,3 +46,7 @@ https://docs.velociraptor.app/
 https://github.com/blueteam0ps/memOptix/ A Jupyter notebook to assist with the analysis of the output generated from Volatility memory extraction framework
 
 https://github.com/kitabisa/teler
+
+https://blog.doyensec.com/2022/12/13/safeurl.html
+> https://www.reddit.com/r/netsec/comments/zkw9s3/a_server_side_request_forgery_protection_library/
+> > https://github.com/stripe/smokescreen

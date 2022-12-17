@@ -99,3 +99,4 @@ https://pqsrc.cr.yp.to/libsecded-20220828/README.html
 https://prog.world/how-clickhouse-removes-its-own-code-from-memory-and-switches-to-using-huge-pages/
 
 https://www.ravenbrook.com/project/mps/
+> https://news.ycombinator.com/item?id=34028258

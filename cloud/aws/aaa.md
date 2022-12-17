@@ -66,6 +66,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://blog.lightspin.io/aws-ecr-public-vulnerability
+> https://www.reddit.com/r/netsec/comments/zkxpai/aws_ecr_public_vulnerability/
+
 https://securitylabs.datadoghq.com/articles/appsync-vulnerability-disclosure/
 
 https://hackingthe.cloud/aws/avoiding-detection/steal-keys-undetected/

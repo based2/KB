@@ -36,6 +36,8 @@ https://chromium.woolyss.com/f/HTML-Google-Tag-Manager-the-new-anti-adblock-weap
 https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB
 > https://news.ycombinator.com/item?id=33916113
 
+https://www.adexchanger.com/commerce/meet-performance-max-the-blackest-black-box-of-all-google-ad-products/
+
 # News
 https://dub.sh/
 > https://news.ycombinator.com/item?id=32939407

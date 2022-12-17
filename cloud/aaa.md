@@ -236,6 +236,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://julian-wieg.medium.com/visualizing-multi-cloud-iam-concepts-63525967c0a7
+
 https://news.ycombinator.com/item?id=33876975
 
 https://blogs.microsoft.com/blog/2022/12/09/microsoft-acquires-lumenisity-an-innovator-in-hollow-core-fiber-hcf-cable/

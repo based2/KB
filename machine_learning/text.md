@@ -5,6 +5,8 @@ https://explosion.ai/blog/coref
 https://explosion.ai/blog/floret-vectors
 
 # News
+https://arxiv.org/abs/2212.07919 ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning
+
 https://www.mosaicml.com/blog/introducing-pubmed-gpt
 
 https://github.com/openai/tiktoken

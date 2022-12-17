@@ -1,3 +1,6 @@
+https://ciechanow.ski/gps/
+> https://www.reddit.com/r/programming/comments/zo6ovp/best_explanation_of_how_gps_actually_works_with/
+
 https://arstechnica.com/gadgets/2020/03/why-are-u-2-jet-pilots-wearing-garmin-satellite-navigation-smartwatches/
 
 https://www.redhat.com/architect/architects-guide-gps-and-gps-data-formats

@@ -1,3 +1,32 @@
+https://sgtdede.gitbook.io/hacking/oscp-2022/guide-en
+> https://sgtdede.gitbook.io/hacking/oscp-2022/guide-fr
+> https://www.reddit.com/r/netsec/comments/znwtht/oscp_guide_2022/
+
+https://worthdoingbadly.com/macdirtycow/
+> https://news.ycombinator.com/item?id=34032402
+
+https://blog.talosintelligence.com/html-smugglers-turn-to-svg-images/
+
+https://github.com/preludeorg/build
+
+https://github.com/frkngksl/Shoggoth
+
+https://krebsonsecurity.com/2022/12/six-charged-in-mass-takedown-of-ddos-for-hire-sites/
+
+https://krebsonsecurity.com/2022/12/fbis-vetted-info-sharing-network-infragard-hacked/
+
+https://cloudsek.com/threatintelligence/multiple-rce-vulnerabilities-affecting-veeam-backup-replication/
+
+https://attackshipsonfi.re/p/exploiting-api-framework-flexibility
+> https://www.reddit.com/r/netsec/comments/zo3lts/exploiting_api_framework_flexibility/
+
+https://www.cyberark.com/resources/threat-research-blog/decentralized-identity-attack-surface-part-2
+
+https://github.com/BishopFox/unredacter
+> https://news.ycombinator.com/item?id=34031568
+
+https://www.darkreading.com/attacks-breaches/researcher-finds-akamai-waf-bypass-to-trigger-rce
+
 https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-esxi-and-vrealize-security-flaws/
 
 https://vigilance.fr/vulnerabilite/SnakeYaml-execution-de-code-via-Deserializing-40129
@@ -74,6 +103,7 @@ https://www.bleepingcomputer.com/news/security/hackers-hijack-linux-devices-usin
 https://www.openwall.com/lists/oss-security/2022/12/05/1
 
 https://chromereleases.googleblog.com/2022/12/stable-channel-update-for-desktop.html
+> https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-4262 JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
 
 https://vigilance.fr/vulnerabilite/Chrome-corruption-de-memoire-via-V8-Type-Confusion-40014
 > https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-trois-vulnerabilites-40025

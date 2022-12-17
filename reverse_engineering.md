@@ -24,6 +24,8 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://news.ycombinator.com/item?id=34028601
+
 https://www.malachisoord.com/2020/04/08/washing-machine-cycle-notifications/
 
 http://blog.petersobot.com/fixing-the-andromeda

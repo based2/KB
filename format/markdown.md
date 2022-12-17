@@ -66,3 +66,6 @@ https://github.com/jgm/djot
 
 https://github.com/charmbracelet/glow cli
 > https://news.ycombinator.com/item?id=33925741
+
+https://github.com/willmcgugan/textual-markdown
+> https://news.ycombinator.com/item?id=34028765

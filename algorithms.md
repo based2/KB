@@ -75,6 +75,9 @@ https://www.researchgate.net/publication/301583449_Yet_Another_Sorting_Algorithm
 https://github.com/scandum/blitsort
 > https://news.ycombinator.com/item?id=33810539
 
+https://tweedegolf.nl/en/blog/79/sorting-with-simd
+> https://news.ycombinator.com/item?id=34029603
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184

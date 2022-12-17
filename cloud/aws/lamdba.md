@@ -73,6 +73,8 @@ https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 https://github.com/aws-samples/aws-lambda-unit-test-example
 
 # News
+https://viniciusl.com.br/posts/2022/12/08-from-million-invocations-to-thousand-with-correct-caching/
+
 https://www.youtube.com/watch?v=EplOzQqgstA
 
 https://aws.amazon.com/en/blogs/compute/node-js-18-x-runtime-now-available-in-aws-lambda/
