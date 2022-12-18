@@ -32,6 +32,8 @@ https://www.modernhn.com/
 
 https://news.ycombinator.com/item?id=33845946
 
+https://news.ycombinator.com/item?id=34037462
+
 # Slashdot
 # Reddit
 
@@ -61,6 +63,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://help.twitter.com/en/rules-and-policies/social-platforms-policy
+> https://news.ycombinator.com/item?id=34040165
+
+https://infosec.exchange/@postmodern/109523637731779949
+> https://news.ycombinator.com/item?id=34036265
+
 https://news.ycombinator.com/item?id=33999296
 
 https://news.ycombinator.com/item?id=33915734

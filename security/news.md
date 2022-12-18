@@ -1,3 +1,8 @@
+https://www.cyberscoop.com/apt28-fancy-bear-satellite/
+
+https://www.willsroot.io/2022/12/entrybleed.html
+> https://lobste.rs/s/kejfdt/entrybleed_breaking_kaslr_under_kpti
+
 https://sgtdede.gitbook.io/hacking/oscp-2022/guide-en
 > https://sgtdede.gitbook.io/hacking/oscp-2022/guide-fr
 > https://www.reddit.com/r/netsec/comments/znwtht/oscp_guide_2022/

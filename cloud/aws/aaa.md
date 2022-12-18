@@ -85,6 +85,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2022/12/aws-datasync-support-tags-task-executions/
+
 https://matduggan.com/make-a-mastodon-bot-on-aws-free-tier/
 
 https://metrist.io/aws-status/

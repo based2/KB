@@ -505,6 +505,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.twilio.com/blog/comparing-nextjs-nestjs-nuxt-gatsby
+> https://news.ycombinator.com/item?id=34036208
+> > https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/
+> > https://vite-plugin-ssr.com/
+> > > https://github.com/inlang/inlang
+
 https://portswigger.net/research/the-seventh-way-to-call-a-javascript-function-without-parentheses
 
 https://blog.jquery.com/2022/12/13/jquery-3-6-2-released/

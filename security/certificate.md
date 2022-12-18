@@ -49,6 +49,8 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://news.ycombinator.com/item?id=34036681
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/CARootStoreTrustProblem
 > https://news.ycombinator.com/item?id=33876949
 

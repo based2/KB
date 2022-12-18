@@ -153,6 +153,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://www.leadingsapiens.com/peter-drucker-knowledge-work/
+
 https://news.ycombinator.com/item?id=33914672
 
 https://debugger.medium.com/its-time-for-maximum-viable-product-eec9d5211156

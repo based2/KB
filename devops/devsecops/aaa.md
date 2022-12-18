@@ -26,6 +26,7 @@ https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 
 #
 https://github.com/google/osv-scanner
+> https://news.ycombinator.com/item?id=34016188
 
 https://github.blog/changelog/2022-12-15-secret-scanning-is-now-available-for-free-on-public-repositories/
 > https://news.ycombinator.com/item?id=34007637

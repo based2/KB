@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.recurrentauto.com/research/winter-ev-range-loss
+> https://news.ycombinator.com/item?id=34038582
+
 https://interestingengineering.com/innovation/mod-tesla-travelled-1600-miles-without-charger
 
 https://semiengineering.com/cybersecurity-risks-of-automotive-ota/

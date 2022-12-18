@@ -64,6 +64,9 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # News
+https://itnext.io/kubernetes-tips-using-scripts-inside-configmaps-9df03e17ac35
+> https://www.reddit.com/r/kubernetes/comments/zobo34/would_storing_a_bash_script_inside_a_configmap/
+
 https://kubernetes.io/blog/2022/12/09/kubernetes-v1-26-release/
 
 https://thenewstack.io/why-loft-labs-is-donating-devspace-to-cncf/

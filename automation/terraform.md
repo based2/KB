@@ -131,6 +131,14 @@ https://awstip.com/provisioning-infrastructure-on-aws-with-gitlab-using-gitlab-m
 
 https://blog.symops.com/2022/11/10/stop-playing-whac-a-mole-start-using-least-privilege/
 
+https://blog.symops.com/2022/11/17/rds-access/
+
+https://airiam.io/
+
+https://github.com/JamesWoolfenden/pike
+
+https://news.ycombinator.com/item?id=34038663
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -148,6 +156,12 @@ https://www.reddit.com/r/AZURE/comments/yy772q/manage_azure_policy_with_terrafor
 https://thesaadahmed.medium.com/a-basic-ci-cd-pipeline-for-infrastructure-as-a-code-in-azure-devops-84393a57137c
 
 # News
+https://github.com/gofireflyio/aiac
+
+https://github.com/AppsFlyer/terra-crust
+
+https://piotrminkowski.com/2022/12/14/sealed-secrets-on-kubernetes-with-argocd-and-terraform/
+
 https://github.com/busser/tftree
 
 https://brendanthompson.com/posts/2022/11/terraform-dynamic-blocks

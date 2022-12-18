@@ -114,6 +114,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://github.com/bramses/bramses-highly-opinionated-vault-2023
+> https://news.ycombinator.com/item?id=34034414
+
 https://www.freetechbooks.com/
 
 https://maggieappleton.com/tools-for-thought

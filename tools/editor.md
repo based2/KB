@@ -216,6 +216,9 @@ https://paredit.org/
 https://codeberg.org/gopiandcode/emacs-viewer
 > https://news.ycombinator.com/item?id=33829934
 
+https://news.ycombinator.com/item?id=34036590
+> https://news.ycombinator.com/item?id=34036590
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

@@ -35,6 +35,9 @@ https://bellard.org/bpg/
 https://qoiformat.org/
 > https://news.ycombinator.com/item?id=30885668
 
+https://nullprogram.com/blog/2022/12/18/
+> https://news.ycombinator.com/item?id=34035024
+
 https://github.com/foobaz/pngloss
 > https://news.ycombinator.com/item?id=31663164
 

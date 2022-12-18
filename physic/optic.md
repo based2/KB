@@ -4,6 +4,9 @@ https://cree-led.com/news/photophyll-select/
 
 https://www.researchgate.net/publication/330676601_Degradation_of_optical_materials_in_solid-state_lighting_systems
 
+https://spectrum.ieee.org/optical-computing-picosecond-gates
+> https://news.ycombinator.com/item?id=34021701
+
 https://phys.org/news/2022-11-low-cost-terahertz-camera.html
 
 https://www.nature.com/articles/d41586-022-03455-4

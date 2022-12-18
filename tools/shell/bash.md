@@ -72,6 +72,9 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/
+> https://news.ycombinator.com/item?id=34036692
+
 https://github.com/ddworken/hishtory
 > https://news.ycombinator.com/item?id=33428726
 

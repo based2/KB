@@ -42,6 +42,8 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html
+
 https://betterprogramming.pub/leverage-openais-language-model-for-automated-commit-summaries-8181cef30375
 > https://github.com/KanHarI/gpt-commit-summarizer
 

@@ -65,7 +65,11 @@ https://medium.com/avmconsulting-blog/secrets-management-in-kubernetes-378cbf817
 
 https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-accounts-using-akeyless-vault-platform/
 
+https://www.reddit.com/r/kubernetes/comments/zcfj1p/kubesealconvert_the_missing_part_of_sealed_secrets/
+
 # News
+https://www.armosec.io/blog/kubernetes-security-cspm-blind-spot/
+
 https://github.com/jodevsa/wireguard-operator
 > https://www.reddit.com/r/kubernetes/comments/ytevgz/wireguard_operator/
 

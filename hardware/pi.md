@@ -14,6 +14,9 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://github.com/MDCservice/EsPiFF
+> https://news.ycombinator.com/item?id=34036011
+
 https://bret.dk/pi-zero-showdown/
 > https://news.ycombinator.com/item?id=33862810
 

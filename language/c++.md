@@ -1,3 +1,6 @@
+https://bolinlang.com/does-it-inline
+> https://news.ycombinator.com/item?id=34033557
+
 https://www.humprog.org/~stephen/blog/2022/12/12/ Interoperability: what's rich is still poor
 
 https://grenouillebouillie.wordpress.com/2022/05/09/the-hidden-cost-of-exception-handling/
