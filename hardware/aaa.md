@@ -64,6 +64,8 @@ https://github.com/rvaiya/warpd A modal keyboard-driven virtual pointer
 > https://news.ycombinator.com/item?id=33221901
 > https://github.com/EsportToys/AutoWarpd
 
+https://arstechnica.com/gadgets/2022/12/corsair-says-bug-not-keylogger-behind-some-k100-keyboards-creepy-behavior/
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184

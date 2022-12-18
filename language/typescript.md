@@ -89,6 +89,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://techsparx.com/nodejs/typescript/decorators/introduction.html
+
 https://www.tsmean.com/articles/how-to-write-a-typescript-library/
 
 https://swr.vercel.app/blog/swr-v2

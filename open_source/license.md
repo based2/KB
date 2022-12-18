@@ -50,6 +50,8 @@ https://opencoreventures.com/blog/2022-10-preventing-the-bait-and-switch-open-co
 https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/
 > https://news.ycombinator.com/item?id=33589631
 
+https://en.wikipedia.org/wiki/Digital_commons_(economics)
+
 # Incident
 
 https://torrentfreak.com/company-hijacks-blenders-cc-by-licensed-film-youtube-strikes-user-221205/

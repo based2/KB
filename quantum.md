@@ -79,6 +79,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.tomshardware.com/news/spinq-introduces-trio-of-portable-quantum-computers
+
 https://quantum-computing.ibm.com/
 
 https://backreaction.blogspot.com/2022/11/quantum-winter-is-coming.html

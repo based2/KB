@@ -269,7 +269,7 @@ https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-ranc
 https://supabase.com/blog/postgres-foreign-data-wrappers-rust
 > https://news.ycombinator.com/item?id=34001493
 
-https://github.com/IvorySQL/IvorySQL
+https://github.com/IvorySQL/IvorySQL Open Source Oracle Compatible PostgreSQL
 > https://news.ycombinator.com/item?id=34007403
 
 https://www.amazingcto.com/postgres-for-everything/

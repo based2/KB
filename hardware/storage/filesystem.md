@@ -37,6 +37,8 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://www.phoronix.com/news/SquashFS-IDMAPPED-Mounts
+
 https://www.phoronix.com/news/Linux-6.2-Btrfs-EXT4
 > https://news.ycombinator.com/item?id=33961106
 

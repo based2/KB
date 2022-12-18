@@ -75,6 +75,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://gitlab.adullact.net/marche-sll/etudes-de-veille#alternative-%C3%A0-log4j fr
+> https://linuxfr.org/news/le-poste-de-travail-linux-un-objectif-gouvernemental
+
 https://thisweek.gnome.org/posts/2022/12/twig-74/
 > https://news.ycombinator.com/item?id=34026965
 

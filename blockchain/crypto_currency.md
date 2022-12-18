@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.lynalden.com/defi-problems/
+
 https://news.ycombinator.com/item?id=33941312
 
 https://www.ecb.europa.eu/paym/digital_euro/investigation/profuse/shared/files/dedocs/ecb.dedocs221207_annex1_front_end_prototype_providers_technical_onboarding_package.en.pdf?96894d1ebc6c998d75233c57bf1c66eb

@@ -1,3 +1,6 @@
+https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again
+> https://news.ycombinator.com/item?id=34043099
+
 https://www.cyberscoop.com/apt28-fancy-bear-satellite/
 
 https://www.willsroot.io/2022/12/entrybleed.html

@@ -25,6 +25,9 @@ https://github.com/rgrinberg/opium
 https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974
 > https://news.ycombinator.com/item?id=34013767
 
+https://ocamlpro.github.io/ocaml-canvas/
+> https://news.ycombinator.com/item?id=33954958
+
 https://tarides.com/blog/2022-10-17-ocaml-5-beta-release
 > https://news.ycombinator.com/item?id=33239965
 

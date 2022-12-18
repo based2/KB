@@ -118,6 +118,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.phoronix.com/news/AMD-Zen-4-Znver4-LLVM-Added
+
 https://www.bigmessowires.com/2022/12/16/avr-gcc-compiler-makes-questionable-code/
 > https://news.ycombinator.com/item?id=34029750
 
