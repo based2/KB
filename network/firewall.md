@@ -47,6 +47,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://www.wundertech.net/pfsense-vs-opnsense/
+> https://news.ycombinator.com/item?id=34067098
+
 https://blog.cloudflare.com/in-ukraine-and-beyond-what-it-takes-to-keep-vulnerable-groups-online/
 
 https://blog.kanbach.org/post/firewalls-under-the-hood-ufw/

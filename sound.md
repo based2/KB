@@ -108,6 +108,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://github.com/pion/opus
+> https://news.ycombinator.com/item?id=34062440
+
 https://arstechnica.com/information-technology/2022/11/metas-ai-powered-audio-codec-promises-10x-compression-over-mp3/
 
 https://www.audioholics.com/room-acoustics/bass-the-physical-sensation-of-sound

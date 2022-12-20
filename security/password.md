@@ -25,25 +25,10 @@ https://www.useapassphrase.com/
 https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
-# Vault
-
-https://www.vaultproject.io/
-> https://blog.wescale.fr/2019/09/11/vault-cookbook/
-
-https://domopi.eu/bitwarden_rs-devient-vaultwarden/
-
-https://www.mozilla.org/en-US/firefox/lockwise/
-> https://github.com/mozilla-lockwise
-
-https://keys.pub/
-> https://news.ycombinator.com/item?id=28815003
-
-https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
-
-https://supabase.com/blog/vault-now-in-beta
-> https://news.ycombinator.com/item?id=34015167
-
 # News
+https://bugzilla.mozilla.org/show_bug.cgi?id=1621599
+> https://news.ycombinator.com/item?id=34063735
+
 https://news.ycombinator.com/item?id=33994221
 
 https://www.yubico.com/blog/a-yubico-faq-about-passkeys/

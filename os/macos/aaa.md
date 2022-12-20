@@ -118,7 +118,6 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 > https://news.ycombinator.com/item?id=33187858
 
 https://jvns.ca/blog/2018/01/28/mac-freeze/
->
 
 # VM
 https://weblog.antranigv.am/posts/2022/11/running-arm64-aarch64-freebsd-on-qemu-utm-app-on-apple-silicon/
@@ -148,6 +147,9 @@ https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodat
 > https://news.ycombinator.com/item?id=33635720
 
 # M2
+https://www.jeffgeerling.com/blog/2022/limiting-handbrake-threads-prevent-throttling-on-m2-macbook-air
+> https://news.ycombinator.com/item?id=34058609
+
 https://www.macworld.com/article/819644/m2-macbook-air-usb-c-67w-35w-dual-compact-charger.html
 
 https://www.techpowerup.com/298936/report-apple-to-move-a-part-of-its-embedded-cores-to-risc-v-stepping-away-from-arm-isa

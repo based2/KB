@@ -92,6 +92,8 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://github.com/dolthub/maphash
+
 https://en.wikipedia.org/wiki/Rolling_hash
 
 https://shkspr.mobi/blog/2022/11/illegal-hashes/

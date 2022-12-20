@@ -99,6 +99,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://kotaku.com/fortnite-epic-games-ftc-fine-privacy-refunds-skins-1849910311
+> https://news.ycombinator.com/item?id=34068255
+
 https://news.ycombinator.com/item?id=33994205
 
 https://www.theverge.com/2022/12/16/23512952/anker-eufy-delete-promises-camera-privacy-encryption-authentication

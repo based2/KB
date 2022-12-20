@@ -254,6 +254,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/
+> https://news.ycombinator.com/item?id=34061252
+
 https://sourcery.ai/blog/dependency-rules/
 > https://news.ycombinator.com/item?id=33999191
 

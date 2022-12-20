@@ -100,6 +100,11 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://f4t.dev/software/go-performance-memory/
+> https://news.ycombinator.com/item?id=34060377
+
+https://www.dolthub.com/blog/2022-12-19-maphash/
+
 https://news.ycombinator.com/item?id=34004118
 
 https://news.ycombinator.com/item?id=33984072

@@ -8,3 +8,6 @@ https://ijdykeman.github.io/ml/2017/10/12/wang-tile-procedural-generation.html
 
 https://watabou.github.io/city-generator/?size=15&seed=81810084&greens=0&farms=1&citadel=1&urban_castle=1&plaza=1&temple=1&walls=0&shantytown=0&coast=0&river=1&gates=-1
 > https://news.ycombinator.com/item?id=30338074
+
+https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/
+> https://news.ycombinator.com/item?id=34064652

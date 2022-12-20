@@ -21,6 +21,9 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://www.turris.com/en/omnia/overview/
+> https://news.ycombinator.com/item?id=34070404
+
 https://github.com/albfan/miraclecast
 > https://news.ycombinator.com/item?id=33935162
 

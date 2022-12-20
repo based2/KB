@@ -1,4 +1,18 @@
 https://www.vaultproject.io/
+> https://blog.wescale.fr/2019/09/11/vault-cookbook/
+
+https://domopi.eu/bitwarden_rs-devient-vaultwarden/
+
+https://www.mozilla.org/en-US/firefox/lockwise/
+> https://github.com/mozilla-lockwise
+
+https://keys.pub/
+> https://news.ycombinator.com/item?id=28815003
+
+https://medium.com/hashicorp-engineering/encryption-with-transit-data-keys-bfe5241ae194
+
+https://supabase.com/blog/vault-now-in-beta
+> https://news.ycombinator.com/item?id=34015167
 
 https://piotrminkowski.com/2021/12/30/vault-on-kubernetes-with-spring-cloud/
 
@@ -51,6 +65,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 #
+https://github.com/Infisical/infisical
+> https://news.ycombinator.com/item?id=34055132
+
 https://bitwarden.com/blog/passwordless-authentication-access-your-bitwarden-web-vault-without-a-password/
 
 https://github.com/apple/password-manager-resources

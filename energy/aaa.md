@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://arstechnica.com/cars/2022/12/porsches-synthetic-gasoline-factory-comes-online-today-in-chile/
+
 https://www.theguardian.com/environment/2022/dec/15/dismantling-sellafield-epic-task-shutting-down-decomissioned-nuclear-site
 > https://news.ycombinator.com/item?id=33997375
 

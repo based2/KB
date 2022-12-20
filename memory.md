@@ -100,3 +100,6 @@ https://prog.world/how-clickhouse-removes-its-own-code-from-memory-and-switches-
 
 https://www.ravenbrook.com/project/mps/
 > https://news.ycombinator.com/item?id=34028258
+
+https://www.sigarch.org/fast-memcpy-a-system-design/
+> https://news.ycombinator.com/item?id=34058421

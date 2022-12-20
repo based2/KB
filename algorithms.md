@@ -105,6 +105,11 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/
+> https://news.ycombinator.com/item?id=34058856
+
+https://github.com/glassroom/heinsen_routing prediction
+
 https://www.mattkeeter.com/blog/2022-12-10-xor/
 
 https://www.robalni.org/posts/20220428-counting-set-bits-in-an-interesting-way.txt

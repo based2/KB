@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475
+> https://news.ycombinator.com/item?id=34037794
+
 https://news.ycombinator.com/item?id=34039256
 > https://www.youtube.com/watch?v=_bDXXWQxK38 https://www.helionenergy.com
 

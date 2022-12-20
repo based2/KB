@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.theregister.com/2022/12/20/crypto_ponzi_scheme_cofounder_pleads/
+> https://news.ycombinator.com/item?id=34068339
+
 https://www.lynalden.com/defi-problems/
 
 https://news.ycombinator.com/item?id=33941312

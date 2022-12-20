@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.helmholtz-berlin.de/pubbin/news_seite?nid=24348&sprache=en&seitenid=1
+> https://news.ycombinator.com/item?id=34055981
+
 https://pv-magazine-usa.com/2022/12/15/california-pulls-the-plug-on-rooftop-solar/
 > https://news.ycombinator.com/item?id=34015491
 

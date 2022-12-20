@@ -8,6 +8,8 @@ https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-fo
 
 https://lethain.com/physics-of-cloud-expansion/
 
+
+
 # Hybrid - Agnostic Cloud
 https://thenewstack.io/an-architects-guide-to-multicloud/
 
@@ -236,6 +238,14 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.winglang.io/
+> https://news.ycombinator.com/item?id=34051325
+
+https://blog.kronis.dev/articles/modulith-because-we-need-to-scale-but-we-also-cannot-afford-micro-services
+> https://news.ycombinator.com/item?id=34049844
+
+https://github.com/turbot/steampipe sql
+
 https://julian-wieg.medium.com/visualizing-multi-cloud-iam-concepts-63525967c0a7
 
 https://news.ycombinator.com/item?id=33876975

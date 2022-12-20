@@ -215,6 +215,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://tafc.space/qna/the-topologists-world-map/
+> https://news.ycombinator.com/item?id=34064764
+
 https://overturemaps.org/
 > https://news.ycombinator.com/item?id=33999873
 

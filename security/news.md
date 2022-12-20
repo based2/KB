@@ -1,3 +1,17 @@
+https://www.theregister.com/2022/12/20/mcgraw_hills_s3_buckets_exposed/
+
+https://learnsecurity.amazon.com/en/index.html
+> https://news.ycombinator.com/item?id=34067082
+
+https://github.com/veracrypt/VeraCrypt/issues/1007
+> https://news.ycombinator.com/item?id=34071301
+
+https://www.bunniestudios.com/blog/?p=6606
+> https://news.ycombinator.com/item?id=34061511
+
+https://www.bbc.com/news/business-64036529
+> https://news.ycombinator.com/item?id=34064191
+
 https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000-taxpayers-private-data-again
 > https://news.ycombinator.com/item?id=34043099
 

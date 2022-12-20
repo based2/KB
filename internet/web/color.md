@@ -70,6 +70,8 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://news.ycombinator.com/item?id=34069781
+
 https://arantius.github.io/web-color-wheel/
 > https://news.ycombinator.com/item?id=33693411
 

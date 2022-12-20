@@ -113,6 +113,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://blog.tempus-ex.com/hello-video-codec/
+> https://news.ycombinator.com/item?id=34055101
+
 https://airlied.blogspot.com/2022/12/vulkan-video-decoding-radv-status.html
 > https://news.ycombinator.com/item?id=33996897
 

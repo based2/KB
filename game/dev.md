@@ -109,11 +109,13 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://github.com/melonjs/melonJS
+> https://news.ycombinator.com/item?id=34049896
+
 https://spritely.institute/news/growing-a-networked-garden-with-spritely-goblins.html
 > https://news.ycombinator.com/item?id=34031136
 
 https://members.newdesigncongress.org/the-coming-game-engine-inflection-point/
-> 
 
 https://mamoniem.com/behind-the-pretty-frames-death-stranding/
 

@@ -1,3 +1,6 @@
+https://github.com/cpredef/predef
+> https://news.ycombinator.com/item?id=34069170
+
 https://bolinlang.com/does-it-inline
 > https://news.ycombinator.com/item?id=34033557
 

@@ -14,3 +14,6 @@ https://github.com/partiql/partiql-ir-generator PIG is a compiler framework, dom
 
 https://kylehovey.github.io/blog/automata-nebula
 > https://news.ycombinator.com/item?id=33578376
+
+https://github.com/lukew3/mathgenerator
+> https://news.ycombinator.com/item?id=34047076

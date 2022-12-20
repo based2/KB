@@ -34,6 +34,9 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://raku-advent.blog/2022/12/20/sigils/
+> https://news.ycombinator.com/item?id=34064014
+
 https://blog.ehoneahobed.com/building-a-simple-shell-in-c-part-3
 > https://news.ycombinator.com/item?id=33583537
 

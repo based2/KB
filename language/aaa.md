@@ -301,6 +301,16 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www.devever.net/~hl/nexuses#
+> https://news.ycombinator.com/item?id=34062652
+
+https://blog.picnic.nl/why-picnic-picked-java-e53fafe0df1b
+> https://news.ycombinator.com/item?id=34064310
+
+https://potassco.org/
+
+https://wiki.c2.com/?ExceptionPatterns
+
 https://man.sr.ht/~icefox/garnet/generics.md
 > https://lobste.rs/s/hot5by/garnet_generics_problem
 

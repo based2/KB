@@ -219,6 +219,8 @@ https://codeberg.org/gopiandcode/emacs-viewer
 https://news.ycombinator.com/item?id=34036590
 > https://news.ycombinator.com/item?id=34036590
 
+https://news.ycombinator.com/item?id=34052468
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

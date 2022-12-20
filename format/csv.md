@@ -12,3 +12,5 @@ https://www.sqlite.org/csv.html
 
 https://www.moderncsv.com/beta/
 > https://news.ycombinator.com/item?id=31575962
+
+https://github.com/BurntSushi/xsv rust
