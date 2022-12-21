@@ -127,6 +127,9 @@ https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-
 
 # Incidents
 
+https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/
+> https://news.ycombinator.com/item?id=34077678
+
 https://news.ycombinator.com/item?id=33906591
 
 https://sysdig.com/blog/massive-cryptomining-operation-github-actions/
@@ -380,6 +383,9 @@ https://stackoverflow.blog/2022/09/19/i-spent-two-years-trying-to-do-what-backst
 > https://news.ycombinator.com/item?id=32909343
 > > https://clutch.sh/docs/about/what-is-clutch
 > https://backstage.io/
+
+https://stackoverflow.blog/2022/12/21/i-spent-two-years-trying-to-do-what-backstage-does-for-free/
+> https://news.ycombinator.com/item?id=34080955
 
 https://devinterrupted.substack.com/p/solving-the-next-engineering-challenge
 > https://www.reddit.com/r/programming/comments/xk6d6e/completing_the_promise_of_cicd_with_continuous/

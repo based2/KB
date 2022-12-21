@@ -32,6 +32,9 @@ https://determinate.systems/posts/nix-run
 
 https://github.com/cachix/devenv
 
+https://www.jetpack.io/blog/devbox-0-2-0/
+> https://news.ycombinator.com/item?id=34073950
+
 #
 https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-via-must-mkdir-and-open-with-perms-39990
 

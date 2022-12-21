@@ -510,6 +510,9 @@ https://guix.gnu.org/en/blog/2020/securing-updates/
 https://prototypefund.de/en/
 > https://news.ycombinator.com/item?id=29683331
 
+https://www.darktable.org/2022/12/darktable-4.2.0-released/
+> https://news.ycombinator.com/item?id=34082365
+
 https://www.darktable.org/2021/12/darktable-3.8.0-released/ HEIF/HEIC
 > https://news.ycombinator.com/item?id=29672729
 

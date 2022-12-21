@@ -265,6 +265,13 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://twitter.com/justlv/status/1605276764598665217
+> https://news.ycombinator.com/item?id=34076077
+
+https://github.com/nod-ai/SHARK/blob/main/shark/examples/shark_inference/stable_diffusion/stable_diffusion_amd.md
+> https://nod.ai/sd-on-rdna3/
+> > https://news.ycombinator.com/item?id=34078222
+
 https://laion.ai/blog/laion-5b/
 > https://news.ycombinator.com/item?id=33953891
 

@@ -238,6 +238,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.cnbc.com/2022/12/21/google-leaked-doc-microsoft-azure-losing-money-on-29-bln-in-revenue.html
+> https://news.ycombinator.com/item?id=34080735
+
 https://www.winglang.io/
 > https://news.ycombinator.com/item?id=34051325
 

@@ -7,6 +7,9 @@ https://floooh.github.io/2021/12/17/cycle-stepped-z80.html
 https://github.com/copy/v86
 > https://news.ycombinator.com/item?id=31270543
 
+https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/?cr=fr
+> https://news.ycombinator.com/item?id=34078828
+
 https://dolphin-emu.org/blog/2022/07/07/dolphin-progress-report-may-and-june-2022/
 > https://news.ycombinator.com/item?id=32016759
 

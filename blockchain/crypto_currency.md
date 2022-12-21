@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://usa.visa.com/solutions/crypto/auto-payments-for-self-custodial-wallets.html
+> https://news.ycombinator.com/item?id=34061520
+
 https://www.theregister.com/2022/12/20/crypto_ponzi_scheme_cofounder_pleads/
 > https://news.ycombinator.com/item?id=34068339
 

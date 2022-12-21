@@ -116,6 +116,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.ycombinator.com/item?id=34076787
+
 https://imihajlov.tk/blog/posts/eth-to-spi/
 > https://news.ycombinator.com/item?id=34035628
 

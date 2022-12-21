@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://news.ycombinator.com/item?id=34084008
+
 https://apnews.com/article/technology-canada-business-denver-9f9694650c23036ed3ee2e7c917d8e22
 
 https://electrek.co/2022/12/20/audi-is-converting-all-factories-to-produce-electric-vehicles/

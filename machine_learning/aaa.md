@@ -152,6 +152,9 @@ https://news.ycombinator.com/item?id=33610834
 https://galactica.org/
 > https://news.ycombinator.com/item?id=33611265
 
+https://github.com/tensorflow/datasets
+> https://news.ycombinator.com/item?id=34079690
+
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333

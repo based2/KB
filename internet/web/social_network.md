@@ -63,6 +63,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://blog.mozilla.org/en/mozilla/mozilla-launch-fediverse-instance-social-media-alternative/
+> https://news.ycombinator.com/item?id=34073877
+
+https://grahammacphee.com/writing/mastodon-blog-comments
+> https://news.ycombinator.com/item?id=34082138
+
 https://help.twitter.com/en/rules-and-policies/social-platforms-policy
 > https://news.ycombinator.com/item?id=34040165
 

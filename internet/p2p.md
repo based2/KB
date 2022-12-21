@@ -57,6 +57,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://jami.net/
+> https://news.ycombinator.com/item?id=34082718
+
 https://p2panda.org/
 
 https://news.ycombinator.com/item?id=33746360

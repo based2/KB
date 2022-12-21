@@ -1,3 +1,15 @@
+https://www.theregister.com/2022/12/21/microsoft_fix_hyperv_patch/
+
+https://www.theregister.com/2022/12/21/cisco_dna_center_wrong_firmware/
+
+https://www.theregister.com/2022/12/20/europe_plans_to_standardize_passenger/
+
+https://www.phoronix.com/news/Linux-m68k-strcmp-Always-Broken
+> https://news.ycombinator.com/item?id=34085233
+
+https://www.openwall.com/lists/oss-security/2022/12/21/3 CVE-2022-4415: local information leak due to systemd-coredump not respecting fs.suid_dumpable kernel setting
+> https://news.ycombinator.com/item?id=34079682
+
 https://www.theregister.com/2022/12/20/mcgraw_hills_s3_buckets_exposed/
 
 https://learnsecurity.amazon.com/en/index.html

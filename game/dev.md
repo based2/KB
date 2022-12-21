@@ -109,6 +109,12 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://www.inklestudios.com/ink/ narrative scripting lang
+> 
+
+https://foon.uk/how-flash-2022/
+> https://news.ycombinator.com/item?id=34079543
+
 https://github.com/melonjs/melonJS
 > https://news.ycombinator.com/item?id=34049896
 

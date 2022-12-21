@@ -59,6 +59,8 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://news.ycombinator.com/item?id=34082771
+
 https://www.eso.org/public/teles-instr/technology/interferometry/
 > https://news.ycombinator.com/item?id=33607242
 

@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.timesaerospace.aero/news/general-aviation/raytheon-completes-engine-run-of-hybrid-electric-flight-demonstrator
+> https://news.ycombinator.com/item?id=34082537
+
 https://www.cbsnews.com/dfw/news/f-35-fighter-jet-pilot-ejected-after-landing-at-fort-worth-naval-air-base/
 > https://news.ycombinator.com/item?id=34012814
 

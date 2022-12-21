@@ -92,3 +92,7 @@ https://aws.amazon.com/en/blogs/compute/troubleshooting-amazon-api-gateway-with-
 
 ## Function
 https://aws.amazon.com/en/blogs/compute/introducing-amazon-api-gateway-service-integration-for-aws-step-functions/
+
+##
+https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-known-issues.html
+> https://news.ycombinator.com/item?id=34079591

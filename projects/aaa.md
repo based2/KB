@@ -153,6 +153,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://noidea.dog/glue
+> https://news.ycombinator.com/item?id=34074744
+
 https://www.leadingsapiens.com/peter-drucker-knowledge-work/
 
 https://news.ycombinator.com/item?id=33914672

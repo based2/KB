@@ -308,6 +308,7 @@ https://blog.picnic.nl/why-picnic-picked-java-e53fafe0df1b
 > https://news.ycombinator.com/item?id=34064310
 
 https://potassco.org/
+> https://news.ycombinator.com/item?id=34071325
 
 https://wiki.c2.com/?ExceptionPatterns
 

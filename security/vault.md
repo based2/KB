@@ -65,6 +65,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 #
+https://mprimi.github.io/portable-secret/
+> https://news.ycombinator.com/item?id=34083366
+
 https://github.com/Infisical/infisical
 > https://news.ycombinator.com/item?id=34055132
 

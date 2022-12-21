@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://wasmlabs.dev/articles/docker-without-containers/
+> https://news.ycombinator.com/item?id=34078532
+
 https://extism.org/blog/announcing-extism/
 > https://news.ycombinator.com/item?id=33816186
 

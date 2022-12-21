@@ -14,6 +14,9 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://www.tomshardware.com/news/raspberry-pi-5-after-2023
+> https://news.ycombinator.com/item?id=34078415
+
 https://github.com/MDCservice/EsPiFF
 > https://news.ycombinator.com/item?id=34036011
 

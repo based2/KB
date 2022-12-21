@@ -74,6 +74,12 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/
+> https://news.ycombinator.com/item?id=34067173
+
+https://github.com/microsoft/checkedc
+> https://news.ycombinator.com/item?id=34084455
+
 https://gustedt.wordpress.com/2022/12/18/checked-integer-arithmetic-in-the-prospect-of-c23/
 
 https://gustedt.gitlabpages.inria.fr/c23-library/

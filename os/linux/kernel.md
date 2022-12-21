@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://www.theregister.com/2022/12/20/kernel_62_fs_improvements/
+
 https://lwn.net/ml/linux-doc/20221214185714.868374-1-tytso@mit.edu/
 > https://news.ycombinator.com/item?id=33996786
 

@@ -67,6 +67,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://whowhatwhy.org/science/environment/this-super-tree-could-help-feed-the-world-and-fight-climate-change/
+> https://news.ycombinator.com/item?id=34081716
+
 https://news.ycombinator.com/item?id=34017411
 
 https://news.ycombinator.com/item?id=33999340
