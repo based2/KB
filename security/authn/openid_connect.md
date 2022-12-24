@@ -8,11 +8,12 @@ https://news.ycombinator.com/item?id=26576727 OAuth Attack Vectors
 https://news.ycombinator.com/item?id=26603259 OAuth 2.0 Auth(entication) Vulnerabilities
 
 # vENDORS
-https://www.okta.com
-
 https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 
 #
+https://blog.m5e.de/post/state-of-openid-connect-providers/
+> https://news.ycombinator.com/item?id=34093857
+
 https://github.com/ory/hydra/releases/tag/v2.0.0
 > https://news.ycombinator.com/item?id=33451181
 

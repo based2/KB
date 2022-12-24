@@ -127,6 +127,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.arrl.org/news/view/rep-lesko-introduces-bill-to-replace-symbol-rate-limit-with-bandwidth-limit
+
 https://social.afront.org/@kwf/109492743645650432
 > https://news.ycombinator.com/item?id=33949885
 

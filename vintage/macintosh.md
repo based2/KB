@@ -94,6 +94,9 @@ https://beyondloom.com/decker/index.html
 > > https://beyondloom.com/decker/lil.html
 > https://news.ycombinator.com/item?id=33478246
 
+https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/
+> https://news.ycombinator.com/item?id=34095022
+
 # ResEdit
 https://www.macintoshrepository.org/1317-resedit-2-1-3
 

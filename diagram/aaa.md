@@ -6,6 +6,9 @@ https://www.plantuml.com - Graphviz
 > > https://crashedmind.github.io/PlantUMLHitchhikersGuide/about/AboutPlantUML.html
 > > https://github.com/plantuml-stdlib/C4-PlantUML
 
+https://jorzel.github.io/how-to-visualize-your-system-architecture-using-the-c4-model/
+> https://news.ycombinator.com/item?id=34097396 C4
+
 https://www.youtube.com/watch?v=Za1-v4Zkq5E C4
 > https://news.ycombinator.com/item?id=31807021
 
@@ -48,6 +51,12 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://d2lang.com/tour/intro/
+> https://news.ycombinator.com/item?id=34064921
+
+https://infinitecanvas.tools/
+> https://news.ycombinator.com/item?id=34096668
+
 https://www.alma.sh/
 > https://news.ycombinator.com/item?id=33934744
 

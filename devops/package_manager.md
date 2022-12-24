@@ -35,6 +35,10 @@ https://github.com/cachix/devenv
 https://www.jetpack.io/blog/devbox-0-2-0/
 > https://news.ycombinator.com/item?id=34073950
 
+# Incident
+https://askubuntu.com/questions/1341002/apt-install-g-10-installs-clang-10-instead-of-g-10/1341007#1341007
+> https://news.ycombinator.com/item?id=34103049
+
 #
 https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-via-must-mkdir-and-open-with-perms-39990
 

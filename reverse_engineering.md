@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://nullpt.rs/reverse-engineering-tiktok-vm-1
+> https://news.ycombinator.com/item?id=34109771
+
 https://news.ycombinator.com/item?id=34028601
 
 https://www.malachisoord.com/2020/04/08/washing-machine-cycle-notifications/

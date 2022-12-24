@@ -1,4 +1,7 @@
 # News
+https://blogs.intellique.com/cgi-bin/tech/2022/01/27
+> https://news.ycombinator.com/item?id=34111326
+
 https://blocksandfiles.com/2022/12/15/pure-dell-hpe-and-ibm-face-turkish-competitor-inspired-by-vast-datas-hw-architecture/
 
 https://dev.yorhel.nl/ncdu

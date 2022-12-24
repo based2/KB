@@ -17,6 +17,8 @@ https://mcaptcha.org/ AGPL, rust
 https://github.com/wenlng/go-captcha
   
 # News
+https://news.ycombinator.com/item?id=34095258 bing
+
 https://news.ycombinator.com/item?id=34032484
 
 https://blog.mozilla.org/en/privacy-security/mozilla-anti-tracking-milestones-timeline/

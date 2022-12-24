@@ -105,6 +105,8 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://austinhenley.com/blog/challengingalgorithms.html
+
 https://lemire.me/blog/2022/12/19/implementing-strlen-using-sve/
 > https://news.ycombinator.com/item?id=34058856
 

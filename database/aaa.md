@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://ochagavia.nl/blog/implementing-the-mysql-server-protocol-for-fun-and-profit/
+> https://news.ycombinator.com/item?id=34094471
+
 https://www.theregister.com/2022/12/15/new_ibm_power_cpu_for_oracle/
 > https://news.ycombinator.com/item?id=34011470
 

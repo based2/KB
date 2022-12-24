@@ -53,6 +53,16 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://hackernoon.com/psa-lastpass-does-not-encrypt-everything-in-your-vault-8722d69b2032
+
+https://news.ycombinator.com/item?id=34097142
+
+https://news.ycombinator.com/item?id=34115280
+
+https://github.com/cfbao/lastpass-vault-parser
+> https://news.ycombinator.com/item?id=34105368
+
+https://news.ycombinator.com/item?id=34114259
 
 https://blog.lastpass.com/2022/11/notice-of-recent-security-incident/
 > https://news.ycombinator.com/item?id=33806803
@@ -64,7 +74,7 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
-#
+# News
 https://mprimi.github.io/portable-secret/
 > https://news.ycombinator.com/item?id=34083366
 

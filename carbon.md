@@ -67,6 +67,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.science.org/content/article/ocean-geoengineering-scheme-aces-its-first-field-test
+> https://news.ycombinator.com/item?id=34093616
+
 https://whowhatwhy.org/science/environment/this-super-tree-could-help-feed-the-world-and-fight-climate-change/
 > https://news.ycombinator.com/item?id=34081716
 

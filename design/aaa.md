@@ -45,6 +45,9 @@ https://brutalita.com/ Experimental font and editor, edit in your browser and do
 > https://news.ycombinator.com/item?id=29921137
 
 #
+https://hackernoon.com/apples-icons-have-that-shape-for-a-very-good-reason-720d4e7c8a14
+> https://news.ycombinator.com/item?id=34115041
+
 https://review.wolfarchitects.design/
 > https://news.ycombinator.com/item?id=33272763
 

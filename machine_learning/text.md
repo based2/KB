@@ -5,6 +5,9 @@ https://explosion.ai/blog/coref
 https://explosion.ai/blog/floret-vectors
 
 # News
+https://www.patterns.app/blog/2022/12/21/finetune-llm-tech-support/
+> https://news.ycombinator.com/item?id=34093799
+
 https://arxiv.org/abs/2212.07919 ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning
 
 https://www.mosaicml.com/blog/introducing-pubmed-gpt

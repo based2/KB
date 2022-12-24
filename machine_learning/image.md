@@ -268,6 +268,11 @@ https://palette.fm/
 https://twitter.com/justlv/status/1605276764598665217
 > https://news.ycombinator.com/item?id=34076077
 
+https://news.ycombinator.com/item?id=34087037
+
+https://twitter.com/justlv/status/1605276764598665217
+> https://news.ycombinator.com/item?id=34076077
+
 https://github.com/nod-ai/SHARK/blob/main/shark/examples/shark_inference/stable_diffusion/stable_diffusion_amd.md
 > https://nod.ai/sd-on-rdna3/
 > > https://news.ycombinator.com/item?id=34078222

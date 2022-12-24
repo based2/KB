@@ -162,6 +162,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://daniel.haxx.se/blog/2022/12/23/the-curl-fragment-trick/
+> https://news.ycombinator.com/item?id=34105931
+
 https://www.useragents.me/
 > https://news.ycombinator.com/item?id=34032605
 

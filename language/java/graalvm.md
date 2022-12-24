@@ -16,6 +16,9 @@ https://chrisseaton.com/truffleruby/jokerconf17/
 https://www.loicmathieu.fr/wordpress/en/informatique/debugger-une-image-native-graalvm-avec-gdb/
 
 # News
+https://www.infoq.com/news/2022/12/openjdk-galahad-Dec22/
+> https://news.ycombinator.com/item?id=34085585
+
 https://betterprogramming.pub/graalvm-native-image-for-mobile-development-49eb87a00eee
 > https://news.ycombinator.com/item?id=33484061
 

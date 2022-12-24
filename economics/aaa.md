@@ -147,6 +147,9 @@ https://www.researchgate.net/publication/340833938_The_EU_VAT_Treatment_of_Share
 
 https://news.ycombinator.com/item?id=33985969
 
+https://taeric.github.io/trading-with-bdds.html
+> https://news.ycombinator.com/item?id=34098570
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

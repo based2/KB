@@ -20,6 +20,8 @@ https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
 
+https://www.usenix.org/conference/usenixsecurity23/presentation/gilsenan
+
 https://news.ycombinator.com/item?id=33491711
 
 https://medium.com/@jewbixcube/paypal-allows-bypassing-two-factor-auth-with-a-button-click-claims-its-for-your-protection-ce1d0dc9a28a

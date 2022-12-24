@@ -255,6 +255,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://news.ycombinator.com/item?id=34099517 med
+
 https://github.com/numpy/numpy/releases/tag/v1.24.0
 https://news.ycombinator.com/item?id=34046434
 

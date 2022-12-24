@@ -42,6 +42,9 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://brev.dev/blog/ai-wont-replace-you-write-bash
+> https://news.ycombinator.com/item?id=34085906
+
 https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html
 
 https://betterprogramming.pub/leverage-openais-language-model-for-automated-commit-summaries-8181cef30375

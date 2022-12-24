@@ -1,3 +1,18 @@
+https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/
+> https://news.ycombinator.com/item?id=34077678
+
+https://www.zerodayinitiative.com/advisories/ZDI-22-1690/
+> https://news.ycombinator.com/item?id=34098804
+
+https://news.ycombinator.com/item?id=34097166
+
+https://news.ycombinator.com/item?id=34086411
+
+https://jfrog.com/blog/pypi-malware-creators-are-starting-to-employ-anti-debug-techniques/
+> https://news.ycombinator.com/item?id=34103039
+
+https://github.com/PabloMK7/ENLBufferPwn
+
 https://www.theregister.com/2022/12/21/microsoft_fix_hyperv_patch/
 
 https://www.theregister.com/2022/12/21/cisco_dna_center_wrong_firmware/

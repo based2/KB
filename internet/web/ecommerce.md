@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.nngroup.com/articles/optional-registration/
+> https://news.ycombinator.com/item?id=34098288
+
 https://news.ycombinator.com/item?id=34000502
 
 https://github.com/getlago/lago/wiki/Stripe%27s-real-pricing:-a-primer

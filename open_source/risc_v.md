@@ -1,6 +1,12 @@
 https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html
 > https://news.ycombinator.com/item?id=34024914
 
+https://semiengineering.com/risc-v-pushes-into-the-mainstream/
+> https://news.ycombinator.com/item?id=34105528
+
+https://semiengineering.com/24217870-2/
+> https://news.ycombinator.com/item?id=34106651
+
 https://www.eetimes.com/examining-the-top-five-fallacies-about-risc-v/
 > https://news.ycombinator.com/item?id=34013369
 

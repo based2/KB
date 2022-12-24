@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://github.com/pdfcpu/pdfcpu go
+> https://news.ycombinator.com/item?id=34104946
+
 https://github.com/desgeeko/pdfsyntax
 > https://news.ycombinator.com/item?id=33646951
 

@@ -17,3 +17,6 @@ https://kylehovey.github.io/blog/automata-nebula
 
 https://github.com/lukew3/mathgenerator
 > https://news.ycombinator.com/item?id=34047076
+
+https://futhark-lang.org/blog/2022-12-22-literate-audio.html
+> https://news.ycombinator.com/item?id=34092401

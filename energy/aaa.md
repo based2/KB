@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=34092934
+
 https://www.ge.com/renewableenergy/wind-energy/offshore-wind/haliade-x-offshore-turbine
 
 https://arstechnica.com/cars/2022/12/porsches-synthetic-gasoline-factory-comes-online-today-in-chile/

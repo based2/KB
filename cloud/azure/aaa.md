@@ -21,6 +21,9 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://nuxx.net/blog/2022/12/23/how-asus-and-a-microsoft-bug-almost-broke-remote-work/
+> https://news.ycombinator.com/item?id=34107061
+
 https://news.ycombinator.com/item?id=33743567
 
 https://github.com/Azure/azure-cli/security/advisories/GHSA-47xc-9rr2-q7p4

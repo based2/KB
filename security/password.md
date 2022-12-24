@@ -26,6 +26,9 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://www.franzoni.eu/password-requirements-myths-madness/
+> https://news.ycombinator.com/item?id=34098369
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=1621599
 > https://news.ycombinator.com/item?id=34063735
 

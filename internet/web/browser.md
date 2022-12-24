@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://peter.sh/experiments/chromium-command-line-switches/
+> https://news.ycombinator.com/item?id=34087808
+
 https://developer.chrome.com/blog/prerender-pages/
 
 https://news.ycombinator.com/item?id=33893376

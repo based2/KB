@@ -23,6 +23,11 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://dirtybubblemedia.substack.com/p/is-binanceus-a-fake-exchange
+> https://news.ycombinator.com/item?id=34079629
+
+https://news.ycombinator.com/item?id=34115643
+
 https://usa.visa.com/solutions/crypto/auto-payments-for-self-custodial-wallets.html
 > https://news.ycombinator.com/item?id=34061520
 

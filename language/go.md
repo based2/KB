@@ -100,6 +100,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md
+> https://news.ycombinator.com/item?id=34085337
+
 https://f4t.dev/software/go-performance-memory/
 > https://news.ycombinator.com/item?id=34060377
 

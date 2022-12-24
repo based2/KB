@@ -53,9 +53,11 @@ https://rwmj.wordpress.com/2022/12/01/creating-a-modifiable-gzipped-disk-image/
 https://beringresearch.github.io/macpine/
 > https://news.ycombinator.com/item?id=33769274
 
-https://aws.amazon.com/en/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/
-> https://news.ycombinator.com/item?id=33745815
-> https://github.com/containerd/nerdctl
+https://github.com/runfinch/finch
+> https://aws.amazon.com/en/blogs/opensource/introducing-finch-an-open-source-client-for-container-development/
+> > https://news.ycombinator.com/item?id=33745815
+> > https://github.com/containerd/nerdctl
+> https://news.ycombinator.com/item?id=34115098
 
 https://releases.openstack.org/zed/
 

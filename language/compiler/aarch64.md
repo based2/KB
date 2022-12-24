@@ -3,7 +3,10 @@ https://gist.github.com/zingaburga/805669eb891c820bd220418ee3f0d6bd ARM’s Scal
 https://cohost.org/zeux/post/286620-arm-pragmatism-not
 > https://news.ycombinator.com/item?id=33584311
 
-https://cpufun.substack.com/p/atomics-in-aarch64
+https://cpufun.substack.com/p/atomics-in-aarch64 
+
+https://github.com/pkivolowitz/asm_book
+> https://news.ycombinator.com/item?id=34102962
 
 https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/
 > https://news.ycombinator.com/item?id=27526155

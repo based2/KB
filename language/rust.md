@@ -409,6 +409,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://google.github.io/comprehensive-rust/
+> https://news.ycombinator.com/item?id=34091271
+
 https://steveklabnik.com/writing/ten-years-of-ru---ewriting-my-website
 
 https://blog.rust-lang.org/2022/12/15/Rust-1.66.0.html

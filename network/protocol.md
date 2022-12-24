@@ -9,6 +9,12 @@ https://www.multipath-tcp.org/
 > https://news.ycombinator.com/item?id=33220975
 
 # News
+https://f-droid.org/2022/12/18/unifiedpush.html
+> https://news.ycombinator.com/item?id=34094497
+
+https://andysylvester.com/2022/12/22/rsscloud-wordpress-feedland-and-dave-winer/
+> https://news.ycombinator.com/item?id=34108469
+
 https://z-wavealliance.org/news_p/z-wave-alliance-announces-z-wave-source-code-project-is-complete-now-open-and-widely-available-to-members/
 > https://news.ycombinator.com/item?id=33999999
 
