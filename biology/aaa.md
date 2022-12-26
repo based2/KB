@@ -42,6 +42,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://interestingengineering.com/innovation/biogenic-limestone-from-microalgae
+
 https://news.ycombinator.com/item?id=34017883
 
 https://learngenomics.dev/

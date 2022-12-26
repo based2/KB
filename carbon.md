@@ -67,6 +67,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://theintercept.com/2022/12/24/oil-gas-climate-disinformation/
+
 https://www.science.org/content/article/ocean-geoengineering-scheme-aces-its-first-field-test
 > https://news.ycombinator.com/item?id=34093616
 

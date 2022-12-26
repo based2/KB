@@ -221,6 +221,9 @@ https://news.ycombinator.com/item?id=34036590
 
 https://news.ycombinator.com/item?id=34052468
 
+https://www.emacswiki.org/emacs/MovingTheCtrlKey
+> https://news.ycombinator.com/item?id=34126080
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

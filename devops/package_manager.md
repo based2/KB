@@ -30,6 +30,9 @@ https://www.haskellforall.com/2022/08/stop-calling-everything-nix.html
 
 https://determinate.systems/posts/nix-run
 
+https://remy.grunblatt.org/nix-and-nixos-my-pain-points.html
+> https://news.ycombinator.com/item?id=34115340
+
 https://github.com/cachix/devenv
 
 https://www.jetpack.io/blog/devbox-0-2-0/

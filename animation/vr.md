@@ -1,3 +1,6 @@
+https://community.secondlife.com/blogs/entry/12081-second-life-on-github/
+> https://news.ycombinator.com/item?id=34118562
+
 https://research.nvidia.com/publication/2022-08_holographic-glasses-virtual-reality
 > https://news.ycombinator.com/item?id=33924883
 

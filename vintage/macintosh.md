@@ -97,6 +97,9 @@ https://beyondloom.com/decker/index.html
 https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-years-of-hypercard/
 > https://news.ycombinator.com/item?id=34095022
 
+https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/
+> https://news.ycombinator.com/item?id=34122072
+
 # ResEdit
 https://www.macintoshrepository.org/1317-resedit-2-1-3
 

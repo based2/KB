@@ -44,6 +44,8 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/AmineZouitine/rmt.rs Trash
+
 https://eklitzke.org/the-cult-of-dd
 
 https://will-keleher.com/posts/What-can-you-do-with-a-pid.html

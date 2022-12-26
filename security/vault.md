@@ -53,6 +53,11 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://markuta.com/cracking-lastpass-vaults/
+> https://news.ycombinator.com/item?id=34125590
+
+https://news.ycombinator.com/item?id=34125790
+
 https://hackernoon.com/psa-lastpass-does-not-encrypt-everything-in-your-vault-8722d69b2032
 
 https://news.ycombinator.com/item?id=34097142
@@ -75,6 +80,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://rohanrd.xyz/posts/self-hosting-password-manager/
+
 https://mprimi.github.io/portable-secret/
 > https://news.ycombinator.com/item?id=34083366
 

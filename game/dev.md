@@ -109,8 +109,13 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://github.com/LemonHaze420/DCPopulous
+> https://news.ycombinator.com/item?id=34132484
+
+http://history.chess.free.fr/gigachess.htm
+
 https://www.inklestudios.com/ink/ narrative scripting lang
-> 
+> https://news.ycombinator.com/item?id=34080026
 
 https://foon.uk/how-flash-2022/
 > https://news.ycombinator.com/item?id=34079543

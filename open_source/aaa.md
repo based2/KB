@@ -157,6 +157,8 @@ https://fediverse.party/en/miscellaneous
 
 https://joinmobilizon.org/en/
 
+https://wordsmith.social/elilla/a-futuristic-mastodon-introduction-for-2021
+
 # Notes
 https://joplinapp.org/
 > https://news.ycombinator.com/item?id=27520906

@@ -185,6 +185,10 @@ https://blog.jgc.org/2022/06/the-mysterious-behaviour-of-flying.html
 https://www.amusingplanet.com/2022/02/the-pneumatic-clocks-of-paris.html
 > https://news.ycombinator.com/item?id=32137679
 
+https://literature-clock.jenevoldsen.com/
+> https://github.com/JohannesNE/literature-clock
+> > https://news.ycombinator.com/item?id=34124843
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 
@@ -213,6 +217,13 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://research.redhat.com/events/toward-knowledge-driven-system-management-to-control-timeliness/
+
+https://www.sundialzone.com/en/sundial
+
+https://isocpp.org//blog/2022/12/libstdcpp-gets-c20-chrono
+> https://news.ycombinator.com/item?id=34119878
+
 https://engineering.fb.com/2022/11/21/production-engineering/precision-time-protocol-at-meta/
 > https://news.ycombinator.com/item?id=33693779
 

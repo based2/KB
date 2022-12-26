@@ -27,6 +27,9 @@ https://github.com/codic12/worm nim x11
 https://leftwm.org/
 
 # X11
+https://x11cp.org/
+> https://news.ycombinator.com/item?id=34124992
+
 https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/
 > https://news.ycombinator.com/item?id=29091070
 
@@ -75,6 +78,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://pointieststick.com/2022/12/16/this-week-in-kde-wayland-fractional-scaling-oh-and-we-also-fixed-multi-screen/
+> https://news.ycombinator.com/item?id=34130795
+
 https://gitlab.adullact.net/marche-sll/etudes-de-veille#alternative-%C3%A0-log4j fr
 > https://linuxfr.org/news/le-poste-de-travail-linux-un-objectif-gouvernemental
 

@@ -103,3 +103,5 @@ https://www.ravenbrook.com/project/mps/
 
 https://www.sigarch.org/fast-memcpy-a-system-design/
 > https://news.ycombinator.com/item?id=34058421
+
+https://news.ycombinator.com/item?id=34126239 ECC

@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://mijailovic.net/2022/12/25/hkpropel/
+> https://news.ycombinator.com/item?id=34125958
+
 https://nullpt.rs/reverse-engineering-tiktok-vm-1
 > https://news.ycombinator.com/item?id=34109771
 

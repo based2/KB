@@ -40,6 +40,12 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://neurosciencenews.com/mri-light-sensor-22130/
+> https://news.ycombinator.com/item?id=34127683
+
+https://www.sainsburywellcome.org/web/research-news/brain-circuit-converts-spatial-goals-escape-actions-discovered
+> https://news.ycombinator.com/item?id=34124489
+
 https://www.nature.com/immersive/d41586-022-03810-5/index.html
 > https://news.ycombinator.com/item?id=34033389
 

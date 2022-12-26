@@ -87,3 +87,5 @@ https://en.wikipedia.org/wiki/Flying_river
 
 https://www.cyclingnews.com/news/pfc-bans-are-going-to-change-the-face-of-all-waterproof-garments/
 > https://news.ycombinator.com/item?id=33855993
+
+https://news.ycombinator.com/item?id=34133869

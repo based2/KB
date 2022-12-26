@@ -21,8 +21,10 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://www.youtube.com/watch?v=P1TsVW4P5DI&themeRefresh=1 The Dawn and Dusk of Sun Microsystems
+> https://news.ycombinator.com/item?id=34110784
+
 https://www.haiku-os.org/get-haiku/r1beta4/release-notes/
->
 
 https://www.genode.org/documentation/release-notes/22.11
 

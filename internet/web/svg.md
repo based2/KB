@@ -56,3 +56,5 @@ https://www.eisfunke.com/article/svg-the-good-the-bad-and-the-ugly.html
 
 https://reanimate.github.io/
 > https://news.ycombinator.com/item?id=34074380
+
+https://github.com/vercel/satori Convert HTML and CSS to SVG

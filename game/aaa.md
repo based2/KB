@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://charperbonaroo.github.io/bls/#0 Bitmap Logic Simulator
+> https://news.ycombinator.com/item?id=34115767
+
 https://news.ycombinator.com/item?id=34039226
 
 https://toulou.itch.io/strgsnek

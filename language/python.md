@@ -254,6 +254,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://lwn.net/Articles/917280/
+> https://news.ycombinator.com/item?id=34128944
+
 https://0xda.de/blog/2022/12/a-not-so-unfortunate-sharp-edge-in-pipenv/
 > https://news.ycombinator.com/item?id=34077221
 

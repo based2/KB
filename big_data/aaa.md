@@ -215,6 +215,9 @@ https://benn.substack.com/p/is-bi-dead
 
 https://linkis.apache.org/ computation middleware layer to decouple the upper applications and the underlying data engines
 
+https://github.com/apitable/apitable alt airtable
+> https://github.com/apitable/apitable
+
 # CI
 https://hypervector.io/
 

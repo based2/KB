@@ -243,6 +243,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://arxiv.org/abs/2208.11247
+
+https://uxofai.com/
+> https://news.ycombinator.com/item?id=34122658
+
+http://www.stat.columbia.edu/~gelman/research/published/augie4.pdf The Boxer, the Wrestler, and the Coin Flip: A Paradox of Robust Bayesian Inference and Belief Functions
+> https://news.ycombinator.com/item?id=34113569
+
 https://statmodeling.stat.columbia.edu/2022/12/22/do-simpler-machine-learning-models-exist-and-how-can-we-find-them/
 > https://news.ycombinator.com/item?id=34096988
 

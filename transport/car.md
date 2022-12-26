@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://electrek.co/2022/12/24/tesla-army-of-robots-build-cybertruck/
+> https://news.ycombinator.com/item?id=34128966
+
 https://www.teslarati.com/califonia-banning-tesla-fsd/
 > https://news.ycombinator.com/item?id=34116481
 

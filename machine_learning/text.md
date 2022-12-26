@@ -5,6 +5,9 @@ https://explosion.ai/blog/coref
 https://explosion.ai/blog/floret-vectors
 
 # News
+https://harishgarg.com/writing/building-a-chat-app-with-gpt-3-reactjs-and-nextjs-a-step-by-step-guide/
+> https://news.ycombinator.com/item?id=34134407
+
 https://www.patterns.app/blog/2022/12/21/finetune-llm-tech-support/
 > https://news.ycombinator.com/item?id=34093799
 

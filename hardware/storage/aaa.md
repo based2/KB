@@ -1,4 +1,6 @@
 # News
+https://news.ycombinator.com/item?id=34131436
+
 https://blogs.intellique.com/cgi-bin/tech/2022/01/27
 > https://news.ycombinator.com/item?id=34111326
 

@@ -42,6 +42,9 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://musings.yasyf.com/never-write-a-bash-command-again-with-gpt-3/
+> https://news.ycombinator.com/item?id=34102363
+
 https://brev.dev/blog/ai-wont-replace-you-write-bash
 > https://news.ycombinator.com/item?id=34085906
 

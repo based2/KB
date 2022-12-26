@@ -266,6 +266,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://shyim.me/blog/devenv-compose-developer-environment-for-php-with-nix/
+> https://news.ycombinator.com/item?id=34130585
+
 https://docs.gitlab.com/ee/user/project/web_ide_beta/
 > https://news.ycombinator.com/item?id=34078225
 

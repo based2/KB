@@ -89,6 +89,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://news.ycombinator.com/item?id=34132866
+
 https://github.com/redwoodjs/redwood
 
 https://techsparx.com/nodejs/typescript/decorators/introduction.html

@@ -203,6 +203,9 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://www.tremor.so/ chart
+> https://github.com/tremorlabs/tremor
+
 https://react-wrap-balancer.vercel.app/
 > https://news.ycombinator.com/item?id=34097941
 

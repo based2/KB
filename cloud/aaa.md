@@ -8,8 +8,6 @@ https://www.micahlerner.com/2021/06/17/firecracker-lightweight-virtualization-fo
 
 https://lethain.com/physics-of-cloud-expansion/
 
-
-
 # Hybrid - Agnostic Cloud
 https://thenewstack.io/an-architects-guide-to-multicloud/
 
@@ -238,6 +236,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.lockedinspace.com/posts/001.html
+> https://news.ycombinator.com/item?id=34131337
+
 https://www.cnbc.com/2022/12/21/google-leaked-doc-microsoft-azure-losing-money-on-29-bln-in-revenue.html
 > https://news.ycombinator.com/item?id=34080735
 

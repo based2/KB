@@ -146,6 +146,10 @@ https://dougallj.wordpress.com/2022/11/09/why-is-rosetta-2-fast/
 https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodate-an-intel-8080-artifact/
 > https://news.ycombinator.com/item?id=33635720
 
+#
+https://github.com/below/HelloSilicon introduction to ARM64 assembly on Apple Silicon Macs
+> https://news.ycombinator.com/item?id=34128776
+
 # M2
 https://www.jeffgeerling.com/blog/2022/limiting-handbrake-threads-prevent-throttling-on-m2-macbook-air
 > https://news.ycombinator.com/item?id=34058609
@@ -168,6 +172,9 @@ https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-perfor
 > https://news.ycombinator.com/item?id=31643610
 
 # M1
+https://github.com/tpwrules/nixos-m1
+> https://news.ycombinator.com/item?id=34134109
+
 https://news.ycombinator.com/item?id=33405359 Ask HN: How to intentionally throttle CPU on a M1 MacBook?
 
 https://www.sevarg.net/2021/01/09/arm-mac-mini-and-boinc/

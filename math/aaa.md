@@ -481,6 +481,9 @@ https://github.com/ajnirp/stochastic_sierpinski
 
 https://github.com/thehottgame/TheHoTTGame Homotopy Type Theory (HoTT) Game
 
+https://arxiv.org/abs/2212.11082 Introduction to Homotopy Type Theory
+> https://news.ycombinator.com/item?id=34124215
+
 https://11011110.github.io/blog/2021/12/23/raytracing-diamonds.html
 > https://news.ycombinator.com/item?id=29695281
 

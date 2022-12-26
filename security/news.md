@@ -1,3 +1,5 @@
+https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/
+
 https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/
 > https://news.ycombinator.com/item?id=34077678
 

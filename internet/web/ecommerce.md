@@ -5,6 +5,8 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.engadget.com/ftc-orders-mastercard-open-debit-transactions-competing-payment-networks-234358951.html
+
 https://www.nngroup.com/articles/optional-registration/
 > https://news.ycombinator.com/item?id=34098288
 

@@ -77,6 +77,8 @@ https://news.ycombinator.com/item?id=30085702 Show HN: API to generate charts in
 https://cleanup.pictures/
 > https://saic-mdal.github.io/lama-project/
 
+https://jfhr.me/optimizing-images-with-the-html-picture-tag/
+
 https://github.com/feramhq/Perspec
 
 https://minimator.app/#/create

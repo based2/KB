@@ -115,7 +115,16 @@ https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 https://puter.com/
 > https://news.ycombinator.com/item?id=33838179
 
+# Forum
+https://github.com/Demindiro/agreper
+
 # News
+https://hypermedia.systems/
+> https://news.ycombinator.com/item?id=34134545
+
+https://localghost.dev/blog/building-a-website-like-it-s-1999-in-2022/
+> https://news.ycombinator.com/item?id=34113978
+
 https://pluralistic.net/2022/12/10/e2e/
 
 https://www.w3.org/TR/webmention/
