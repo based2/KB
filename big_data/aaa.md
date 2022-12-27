@@ -118,6 +118,9 @@ https://news.ycombinator.com/item?id=30007523 Show HN: Mercury – Publish Jupyt
 
 https://github.com/agermanidis/pigeon Quickly annotate data from the comfort of your Jupyter notebook
 
+https://www.maxwellrules.com/misc/nvim_jupyter.html
+> https://news.ycombinator.com/item?id=34145680
+
 ##
 http://zeppelin.apache.org/
 

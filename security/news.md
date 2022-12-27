@@ -1,3 +1,12 @@
+https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22
+
+https://streaming.media.ccc.de/jev22
+
+https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/
+> https://news.ycombinator.com/item?id=34145799
+
+https://github.com/zhuowei/WDBFontOverwrite poc to overwrite fonts on iOS using CVE-2022-46689.
+
 https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/
 
 https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/
@@ -1587,6 +1596,7 @@ https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-113
 > https://bugalert.org/content/notices/2022-06-02-confluence.html?src=tw
 > > https://www.reddit.com/r/netsec/comments/v3lxem/unauthenticated_remote_code_execution_in/
 > https://www.darkreading.com/attacks-breaches/atlassian-confluence-server-vulnerability-active-attack-ransomware
+> https://www.digitalviolence.org/#/
 
 https://www.bleepingcomputer.com/news/security/new-dogwalk-windows-zero-day-bug-gets-free-unofficial-patches/
 

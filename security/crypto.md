@@ -120,6 +120,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/
+
 https://lib25519.cr.yp.to/
 
 https://news.ycombinator.com/item?id=33900098

@@ -76,6 +76,11 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://dioxuslabs.com/
+> https://github.com/dioxuslabs/dioxus
+> https://news.ycombinator.com/item?id=34140206
+> https://news.ycombinator.com/item?id=34137381
+
 https://www.redhat.com/en/blog/red-hat-and-webassembly
 
 https://devclass.com/2022/12/21/fermyons-new-spin-and-how-webassembly-has-miniscule-compute-requirements-compared-to-more-costly-containers/

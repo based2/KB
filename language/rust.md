@@ -282,6 +282,11 @@ https://github.com/google/crubit/blob/main/docs/design.md High-level design of C
 https://slint-ui.com/blog/rust-and-cpp.html
 > https://news.ycombinator.com/item?id=33590308
 
+https://maxwellrules.com/programming/rusty-python.html
+> https://news.ycombinator.com/item?id=34145691
+
+https://dragly.org/2022/08/27/speeding-up-loading-openexr-in-python/
+
 ## MacOs
 https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
 > https://news.ycombinator.com/item?id=27467453
@@ -409,6 +414,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://github.com/rust-lang/rust/pull/105586
+> https://news.ycombinator.com/item?id=34145972
+
 https://google.github.io/comprehensive-rust/
 > https://news.ycombinator.com/item?id=34091271
 

@@ -243,6 +243,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://www.nebuly.com/blog/geoffrey-hinton-forward-forward
+
+https://openai.com/blog/improving-language-model-behavior/
+
 https://arxiv.org/abs/2208.11247
 
 https://uxofai.com/

@@ -236,6 +236,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.gnuhealth.org/
+
 https://hashman.ca/conservancy-2018/
 
 https://developer.gs.com/blog/posts/goldmansachs-ospo-one-year-in

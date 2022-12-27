@@ -82,6 +82,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334
+> https://news.ycombinator.com/item?id=34131553
+
 https://github.com/neuml/txtai
 
 https://death.andgravity.com/pwned

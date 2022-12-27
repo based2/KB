@@ -182,6 +182,12 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://tabledit.com/index.shtml
+
+https://news.ycombinator.com/item?id=34124203
+
+https://aikelab.net/tarai/
+
 https://github.com/clumsycomputer/clumsy-math
 
 https://www.theregister.com/2022/12/14/firefox_108/

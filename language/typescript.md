@@ -89,6 +89,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://zod.dev/ first schema validation with static type inference
+
 https://news.ycombinator.com/item?id=34132866
 
 https://github.com/redwoodjs/redwood

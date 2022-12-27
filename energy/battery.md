@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.lowtechmagazine.com/2018/05/ditch-the-batteries-off-the-grid-compressed-air-energy-storage.html
+> https://news.ycombinator.com/item?id=34145540
+
 https://electrek.co/2022/12/14/redwood-materials-announces-south-carolina-home-us-battery-campus/
 
 https://www.sydney.edu.au/news-opinion/news/2022/12/07/low-cost-battery-built-with-four-times-the-capacity-of-lithium.html

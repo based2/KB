@@ -109,6 +109,9 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
 # News
+https://www.youtube.com/watch?v=4CBFUojXoq4 Andrej Bauer: "The countable reals"
+> https://news.ycombinator.com/item?id=34127524
+
 https://www.quantamagazine.org/nasty-geometry-breaks-decades-old-tiling-conjecture-20221215/
 > https://news.ycombinator.com/item?id=34013096
 

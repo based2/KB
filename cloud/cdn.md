@@ -19,3 +19,6 @@ https://www.foxy.io/blog/cloudfront-vs-cloudflare-and-how-to-reduce-response-tim
 > https://news.ycombinator.com/item?id=33275500
 
 https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889
+
+https://github.com/leandromoreira/cdn-up-and-running
+> https://news.ycombinator.com/item?id=34137065

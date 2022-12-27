@@ -53,6 +53,10 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/
+
+https://www.schneier.com/blog/archives/2022/12/lastpass-breach.html
+
 https://markuta.com/cracking-lastpass-vaults/
 > https://news.ycombinator.com/item?id=34125590
 

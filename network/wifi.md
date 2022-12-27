@@ -21,6 +21,11 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://rachelbythebay.com/w/2022/12/22/wpa3/
+
+https://help.keenetic.com/hc/en-us/articles/360010536300-What-you-need-to-know-about-Wi-Fi-6-IEEE-802-11ax-
+> https://news.ycombinator.com/item?id=34136065
+
 https://wifinigel.blogspot.com/2018/05/the-5ghz-problem-for-wi-fi-networks-dfs.html
 > https://news.ycombinator.com/item?id=34134905
 

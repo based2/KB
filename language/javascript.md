@@ -203,6 +203,11 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://github.com/esamattis/react-zorm
+
+https://alexsidorenko.com/blog/useeffect/
+> https://news.ycombinator.com/item?id=34142168
+
 https://www.tremor.so/ chart
 > https://github.com/tremorlabs/tremor
 

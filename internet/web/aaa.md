@@ -119,6 +119,9 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://www.theregister.com/2022/12/26/opinion_column_alexa/
+> https://news.ycombinator.com/item?id=34142932
+
 https://hypermedia.systems/
 > https://news.ycombinator.com/item?id=34134545
 

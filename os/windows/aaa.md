@@ -135,6 +135,8 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://news.ycombinator.com/item?id=34143197
+
 https://legacyupdate.net/
 > https://news.ycombinator.com/item?id=34019900
 

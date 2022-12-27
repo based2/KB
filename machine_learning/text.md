@@ -5,6 +5,8 @@ https://explosion.ai/blog/coref
 https://explosion.ai/blog/floret-vectors
 
 # News
+https://medium.com/@johnidouglasmarangon/building-a-text-classification-model-with-spacy-3-x-57e59fa50547
+
 https://harishgarg.com/writing/building-a-chat-app-with-gpt-3-reactjs-and-nextjs-a-step-by-step-guide/
 > https://news.ycombinator.com/item?id=34134407
 

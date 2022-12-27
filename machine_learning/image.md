@@ -265,6 +265,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://arxiv.org/abs/2211.13224 Text to Image Diffusion Models Are Zero-Shot Segmentors
+> https://news.ycombinator.com/item?id=34136879
+
 https://twitter.com/justlv/status/1605276764598665217
 > https://news.ycombinator.com/item?id=34076077
 

@@ -59,6 +59,9 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://docs.rigsofrods.org/gameplay/beginners-guide/
+> https://news.ycombinator.com/item?id=34143119
+
 https://triplea-game.org/
 > https://news.ycombinator.com/item?id=33449168
 

@@ -99,6 +99,14 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.ccc.de/en/updates/2022/afghanistan-biometrie
+> https://news.ycombinator.com/item?id=34146283
+
+https://ai.googleblog.com/2022/12/differential-privacy-accounting-by.html
+
+https://schluss.org/wp-content/uploads/2022/12/What-does-it-mean-users-in-full-control-over-their-data-CONCEPT.pdf
+> https://news.ycombinator.com/item?id=34137709
+
 https://amulyagarimella.github.io/privazy/ tiktok
 
 https://www.forbes.com/sites/emilybaker-white/2022/12/22/tiktok-tracks-forbes-journalists-bytedance/

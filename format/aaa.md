@@ -67,6 +67,9 @@ https://kasmweb.com/docs/latest/how_to/lossless.html
 > https://news.ycombinator.com/item?id=33839326
 
 # News
+https://github.com/corkami/pics/blob/master/binary/README.md
+> https://news.ycombinator.com/item?id=34142407
+
 https://computerhistory.org/blog/postscript-a-digital-printing-press/
 
 https://news.ycombinator.com/item?id=33820907

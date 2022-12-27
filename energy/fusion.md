@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://phys.org/news/2022-12-giant-laser-star-trek-fusion.html
+
 https://theconversation.com/why-fusion-ignition-is-being-hailed-as-a-major-breakthrough-in-fusion-a-nuclear-physicist-explains-196475
 > https://news.ycombinator.com/item?id=34037794
 
