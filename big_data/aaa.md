@@ -261,6 +261,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b
+
 https://news.ycombinator.com/item?id=34099517 med
 
 https://github.com/numpy/numpy/releases/tag/v1.24.0

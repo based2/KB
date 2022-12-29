@@ -12,6 +12,9 @@ https://www.vocbit.com/ Improve your vocabulary by Quiz
 
 https://apps.ankiweb.net/
 
+https://www.juliensobczak.com/inspect/2022/05/30/anki-srs.html Anki SRS Algorithm : Spaced repetition explained with code
+> https://news.ycombinator.com/item?id=34152100
+
 https://refold.la/roadmap/stage-1/a/anki-setup
 
 https://github.com/andymatuschak/orbit

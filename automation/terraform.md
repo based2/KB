@@ -156,6 +156,11 @@ https://www.reddit.com/r/AZURE/comments/yy772q/manage_azure_policy_with_terrafor
 https://thesaadahmed.medium.com/a-basic-ci-cd-pipeline-for-infrastructure-as-a-code-in-azure-devops-84393a57137c
 
 # News
+https://itnext.io/pains-in-terraform-collaboration-249a56b4534e
+
+https://github.com/paololazzari/terraform-repl
+> https://www.reddit.com/r/Terraform/comments/zrsx8o/terraformrepl_a_terraform_console_wrapper_for_a/
+
 https://github.com/gofireflyio/aiac
 
 https://github.com/AppsFlyer/terra-crust

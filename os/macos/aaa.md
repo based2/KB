@@ -120,6 +120,9 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 https://jvns.ca/blog/2018/01/28/mac-freeze/
 
 # VM
+https://eclecticlight.co/2022/12/28/macos-virtualisation-refactored-and-sandboxed-in-viable-updates/
+> https://news.ycombinator.com/item?id=34161272
+
 https://weblog.antranigv.am/posts/2022/11/running-arm64-aarch64-freebsd-on-qemu-utm-app-on-apple-silicon/
 > https://news.ycombinator.com/item?id=33679818
 
@@ -299,6 +302,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://nyansatan.github.io/lightning/
+> https://news.ycombinator.com/item?id=34158318
+
 https://github.com/rui314/mold/releases/tag/v1.8.0 Mold linker: targeting macOS/iOS now requires a commercial license
 > https://news.ycombinator.com/item?id=34141912
 

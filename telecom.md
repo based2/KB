@@ -127,6 +127,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://spectrum.ieee.org/satellite-cellphone#toggle-gdpr
+> https://news.ycombinator.com/item?id=34155783
+
 https://www.arrl.org/news/view/rep-lesko-introduces-bill-to-replace-symbol-rate-limit-with-bandwidth-limit
 
 https://social.afront.org/@kwf/109492743645650432

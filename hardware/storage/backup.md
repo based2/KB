@@ -32,6 +32,9 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://www.borgbackup.org/
+> https://news.ycombinator.com/item?id=34152369
+
 https://rsnapshot.org/
 
 https://support.apple.com/en-us/HT202303#advanced

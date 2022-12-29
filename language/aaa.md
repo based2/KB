@@ -300,6 +300,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://matt.might.net/articles/26-languages-part1/
+> https://news.ycombinator.com/item?id=34161410
+
 https://www.devever.net/~hl/nexuses#
 > https://news.ycombinator.com/item?id=34062652
 

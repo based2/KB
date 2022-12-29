@@ -99,6 +99,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://digit.so36.net/Data/20221227_HIP_EBSP_IBIS.pdf
+> https://news.ycombinator.com/item?id=34151382
+
 https://www.ccc.de/en/updates/2022/afghanistan-biometrie
 > https://news.ycombinator.com/item?id=34146283
 

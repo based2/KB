@@ -38,6 +38,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://thevaluable.dev/guide-terminal-shell-console/
+> https://news.ycombinator.com/item?id=34146212
+
 https://ittavern.com/getting-started-with-tmux/
 
 https://blog.meain.io/2022/terminal-drag-and-drop/

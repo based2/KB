@@ -5,6 +5,15 @@ https://explosion.ai/blog/coref
 https://explosion.ai/blog/floret-vectors
 
 # News
+https://lspace.swyx.io/p/reverse-prompt-eng
+> https://news.ycombinator.com/item?id=34165522
+
+https://github.com/Kav-K/GPT3Discord
+> https://news.ycombinator.com/item?id=34168467
+
+https://spindas.dreamwidth.org/4207.html
+> https://news.ycombinator.com/item?id=34166193
+
 https://medium.com/@johnidouglasmarangon/building-a-text-classification-model-with-spacy-3-x-57e59fa50547
 
 https://harishgarg.com/writing/building-a-chat-app-with-gpt-3-reactjs-and-nextjs-a-step-by-step-guide/

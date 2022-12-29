@@ -54,6 +54,7 @@ https://www.passbolt.com/
 
 # Incident
 https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/
+> https://news.ycombinator.com/item?id=34147977
 
 https://www.schneier.com/blog/archives/2022/12/lastpass-breach.html
 
@@ -84,6 +85,10 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://github.com/biox/pa
+> https://news.ycombinator.com/item?id=34159631
+> > https://words.filippo.io/dispatches/passage/
+
 https://rohanrd.xyz/posts/self-hosting-password-manager/
 
 https://mprimi.github.io/portable-secret/

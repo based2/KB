@@ -18,6 +18,10 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.geektime.co.il/waze-will-alert-you-about-roads-with-history-of-crashes/
+> https://www.theverge.com/2022/12/28/23529380/waze-history-of-crashes-beta-release-traffic-crash-data
+> > 
+
 https://electrek.co/2022/12/24/tesla-army-of-robots-build-cybertruck/
 > https://news.ycombinator.com/item?id=34128966
 

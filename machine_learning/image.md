@@ -66,6 +66,9 @@ https://andys.page/posts/how-to-draw/
 https://rentry.co/sdupdates list
 > https://news.ycombinator.com/item?id=33416632
 
+https://github.com/justjake/Gauss osx
+> https://news.ycombinator.com/item?id=34157363
+
 https://getimg.ai/text-to-image
 > https://news.ycombinator.com/item?id=33735565
 

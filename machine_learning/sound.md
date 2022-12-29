@@ -76,6 +76,8 @@ https://www.riffusion.com/about
 https://www.songtell.com/
 > https://news.ycombinator.com/item?id=34025377
 
+https://github.com/riffusion/riffusion/releases/tag/v0.3.0
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

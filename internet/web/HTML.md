@@ -146,6 +146,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://livedom.bentkowski.info/ parsers
+
 https://bt.ht/1kb/
 
 https://github.com/idriskhenchil/Fort.js

@@ -254,6 +254,11 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://www.petermcconnell.com/posts/perf_eng_with_py12/
+
+https://numba.pydata.org/
+> https://news.ycombinator.com/item?id=34148455
+
 https://lwn.net/Articles/917280/
 > https://news.ycombinator.com/item?id=34128944
 

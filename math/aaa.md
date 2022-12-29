@@ -108,6 +108,9 @@ https://scottlocklin.wordpress.com/2021/06/20/why-everyone-should-learn-the-slid
 https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 > https://news.ycombinator.com/item?id=32902520
 
+https://notepadcalculator.com/
+> https://news.ycombinator.com/item?id=34153883
+
 # News
 https://www.youtube.com/watch?v=4CBFUojXoq4 Andrej Bauer: "The countable reals"
 > https://news.ycombinator.com/item?id=34127524

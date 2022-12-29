@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://emiruz.com/post/2022-12-28-composable-sql/
+> https://news.ycombinator.com/item?id=34159699
+
 https://www.moderndescartes.com/essays/sql_join/
 > https://news.ycombinator.com/item?id=34092645
 

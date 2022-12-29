@@ -17,6 +17,9 @@ https://cowles.yale.edu/3a/parlour-miner-collusion-and-bitcoin-protocol.pdf
 
 https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchain.html
 
+# Incident
+https://www.bleepingcomputer.com/news/security/btccom-lost-3-million-worth-of-cryptocurrency-in-cyberattack/
+
 # News
 https://finance.yahoo.com/news/bitcoin-hashrate-drops-nearly-40-034118180.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAACbPWp8SBCMUANsgOniGimiuosekATSo41L1nn3ZJK4BSnkq2n-fDv_429wj1dONKuv36BoscaXs6ET04BebD4gM83o-wVd-Qv25sgJe-mdWN7O9WRQksHCiSpgM8Uy8V3egxD1kKNm6vm1JMwI7WAUXXhxQdfdaRdrJ0EihxZJl
 > https://news.ycombinator.com/item?id=34139380

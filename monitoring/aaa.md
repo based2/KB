@@ -83,6 +83,12 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://coroot.com/blog/minimizing-observability-tax
+> https://news.ycombinator.com/item?id=34149804
+
+https://github.com/cyring/CoreFreq CPU 64bit
+> https://news.ycombinator.com/item?id=34117471
+
 https://navendu.me/posts/introduction-to-monitoring-microservices/
 > https://news.ycombinator.com/item?id=33918044
 

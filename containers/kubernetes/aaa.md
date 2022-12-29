@@ -63,7 +63,22 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
+# Incident
+https://www.cyberark.com/resources/threat-research-blog/what-i-learned-from-analyzing-a-caching-vulnerability-in-istio
+
+https://raesene.github.io/blog/2022/12/21/Kubernetes-persistence-with-Tocan-and-Teisteanas/
+
+https://www.armosec.io/blog/cve-2022-47633-kyvernos-container-image-signature-verification/
+> https://www.reddit.com/r/kubernetes/comments/zshfp4/cve202247633_kyvernos_signature_verification_can/
+
 # News
+https://github.com/jatalocks/kube-reqsizer
+
+https://github.com/yannh/kubeconform
+
+https://github.com/lensapp/lens/issues/6823
+> https://www.reddit.com/r/kubernetes/comments/zw3a2e/mirantis_is_up_to_more_shenanigans_with_lens/
+
 https://itnext.io/kubernetes-tips-using-scripts-inside-configmaps-9df03e17ac35
 > https://www.reddit.com/r/kubernetes/comments/zobo34/would_storing_a_bash_script_inside_a_configmap/
 

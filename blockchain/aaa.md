@@ -83,14 +83,14 @@ https://rubenerd.com/please-stop-saying-git-is-a-blockchain/
 https://www.jonstokes.com/p/the-blockchain-in-historical-perspective
 > https://news.ycombinator.com/item?id=32094566
 
-https://techcrunch.com/2022/06/30/nft-opensea-data-breach/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAANH__wtPgDyU94xsIhHbw9PAGu7yUH5-pqhN2LWWe3stMU95mvC52XlWxQbFD_eX3CDdN2ZCgeF4WMEC7WRhod3QslCyA_ZOEN4XgQoLSfj2jPmOHdtzp1b9Vsp10I2vq6uaxzOLZIAHQqf-fcSlIiH8w_aKJdQmsiKHycpU-PUI
+https://techcrunch.com/2022/06/30/nft-opensea-data-breach/
 
 https://www.theregister.com/2022/06/22/research_challenges_assumptions_about_distributed/
 > https://news.ycombinator.com/item?id=31876547
 
 https://vitalik.ca/general/2022/06/15/using_snarks.html Some ways to use ZK-SNARKs for privacy
 
-https://www.ardanlabs.com/blog/2022/06/practical-uses-blockchain-technology.html?hmsr=joyk.com&utm_source=joyk.com&utm_medium=referral
+https://www.ardanlabs.com/blog/2022/06/practical-uses-blockchain-technology.html
 
 https://ont.io/
 

@@ -1,4 +1,25 @@
+https://www.bleepingcomputer.com/news/security/fin7-hackers-create-auto-attack-platform-to-breach-exchange-servers/
+
+https://www.bleepingcomputer.com/news/security/brave-launches-frodopir-a-privacy-focused-database-query-system/
+
+https://downrightnifty.me/blog/2022/12/26/hacking-google-home.html
+
+https://itnext.io/video-security-the-original-ztna-f51f4e41f9e
+
+https://medium.com/@doctoreww/day-2-your-car-is-trackable-by-law-1d5f74388850
+
+https://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/
+
+https://cymulate.com/blog/blindside-a-new-technique-for-edr-evasion-with-hardware-breakpoints
+
+https://seclists.org/oss-sec/2022/q4/57
+> https://seclists.org/oss-sec/2022/q4/57https://blog.hacktivesecurity.com/index.php/2022/12/21/cve-2022-2602-dirtycred-file-exploitation-applied-on-an-io_uring-uaf/
+> > https://exploiter.dev/blog/2022/CVE-2022-2602.html dirtycred io_uring 
+
+https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/
+
 https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22
+> https://www.reddit.com/r/netsec/comments/zvwgn6/passthechallenge_defeating_windows_defender/
 
 https://streaming.media.ccc.de/jev22
 
@@ -12,8 +33,9 @@ https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-
 https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/
 > https://news.ycombinator.com/item?id=34077678
 
-https://www.zerodayinitiative.com/advisories/ZDI-22-1690/
+https://www.zerodayinitiative.com/advisories/ZDI-22-1690/ linux 5.15 ksmbd smb3
 > https://news.ycombinator.com/item?id=34098804
+> https://www.theregister.com/2022/12/24/back_to_work_linux_admins/
 
 https://news.ycombinator.com/item?id=34097166
 

@@ -136,8 +136,10 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
-https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html
-> 
+https://community.twistedfields.com/t/a-closer-look-at-acorn-our-open-source-precision-farming-rover/108
+> https://news.ycombinator.com/item?id=34161997
+
+https://www.circuitvalley.com/2022/06/pensource-usb-c-industrial-camera-c-mount-fpga-imx-mipi-usb-3-crosslinknx.html 
 
 https://librepcb.org/blog/2022-10-03_release_0.1.7/
 > https://news.ycombinator.com/item?id=33217270

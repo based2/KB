@@ -67,6 +67,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.technologyreview.com/2022/12/24/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/
+> https://www.reddit.com/r/worldnews/comments/zw181j/a_startup_says_its_begun_releasing_particles_into/
+
 https://theintercept.com/2022/12/24/oil-gas-climate-disinformation/
 
 https://www.science.org/content/article/ocean-geoengineering-scheme-aces-its-first-field-test

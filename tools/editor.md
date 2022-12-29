@@ -92,6 +92,8 @@ https://thevaluable.dev/vim-advanced/
 https://www.neovimconf.live/
 > https://news.ycombinator.com/item?id=33921251
 
+https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118
+
 https://spacevim.org/SpaceVim-release-v2.0.0/
 > https://news.ycombinator.com/item?id=31986851
 
@@ -99,7 +101,8 @@ https://github.com/neovim/neovim/releases/tag/v0.7.0
 > https://news.ycombinator.com/item?id=31039569
 
 # Nano
-
+https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
+> https://news.ycombinator.com/item?id=34159341
 
 # Emacs - Elisp
 https://www.gnu.org/software/emacs/
@@ -275,6 +278,12 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://blog.sanctum.geek.nz/actually-using-ed/
+> https://news.ycombinator.com/item?id=34162312
+
+https://lite-xl.com/
+> https://news.ycombinator.com/item?id=34152137
+
 https://github.com/vangberg/foreign-dispatch/tree/main/autocomplete
 > https://news.ycombinator.com/item?id=33637818
 

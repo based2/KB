@@ -52,6 +52,8 @@ https://arxiv.org/abs/2208.04991 Understanding User Awareness and Behaviors Conc
 https://threadreaderapp.com/thread/1586390728761933825.html
 
 # Incident
+https://news.ycombinator.com/item?id=34153448
+
 https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS resolution will break on v1.25.0 in certain configurations
 
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance

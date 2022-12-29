@@ -68,6 +68,10 @@ https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-ac
 https://www.reddit.com/r/kubernetes/comments/zcfj1p/kubesealconvert_the_missing_part_of_sealed_secrets/
 
 # News
+https://edgebit.io/enclaver/docs/0.x/deploy-kubernetes/ AWS Nitro
+> https://github.com/edgebitio/enclaver
+> https://www.reddit.com/r/kubernetes/comments/zsnofg/my_company_open_sourced_our_tool_to_mix_pods_with/
+
 https://www.armosec.io/blog/kubernetes-security-cspm-blind-spot/
 
 https://github.com/jodevsa/wireguard-operator

@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://github.com/Chia-Network/chia-blockchain/discussions/14155
+> https://news.ycombinator.com/item?id=34171122
+
 https://dirtybubblemedia.substack.com/p/is-binanceus-a-fake-exchange
 > https://news.ycombinator.com/item?id=34079629
 

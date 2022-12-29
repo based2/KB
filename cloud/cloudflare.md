@@ -3,6 +3,9 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://github.com/microfeed/microfeed
+> https://news.ycombinator.com/item?id=34147825
+
 https://blog.cloudflare.com/adjusting-pricing-introducing-annual-plans-and-accelerating-innovation/
 
 https://news.ycombinator.com/item?id=33667236

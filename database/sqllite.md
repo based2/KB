@@ -106,6 +106,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://misfra.me/2022/sqlite-automatic-indexes/
+
 https://www.compileralchemy.com/books/sqlite-internals/
 > https://news.ycombinator.com/item?id=34032990
 
