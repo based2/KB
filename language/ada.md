@@ -1,3 +1,7 @@
+https://ada-lang.io/
+
+https://github.com/ohenley/awesome-ada
+
 https://en.wikibooks.org/wiki/Ada_Programming/Building
 
 https://ajxs.me/blog/Giving_Ada_a_chance.html
@@ -63,6 +67,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://blog.adacore.com/coroutines-in-ada-a-clean-but-heavy-implementation
+
 https://blog.adacore.com/new-learn-course-introduction-to-embedded-systems-programming
 
 https://github.com/AdaCore/aws Ada Web Server

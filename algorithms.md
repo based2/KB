@@ -105,6 +105,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://blog.galowicz.de/
+> https://news.ycombinator.com/item?id=34161864
+
 https://jsm.ece.wisc.edu/docs/wu-isca2020.pdf uGEMM: Unary Computing Architecture for GEMM Application
 
 https://news.ycombinator.com/item?id=34128140 Stanford Lecture: Don Knuth - Twintrees, Baxter Permutations, and Floorplans (2022)

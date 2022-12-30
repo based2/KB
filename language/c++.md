@@ -1,3 +1,6 @@
+https://github.com/pebal/sgcl real-time Garbage Collector for C++
+> https://news.ycombinator.com/item?id=34181484
+
 https://github.com/cpredef/predef
 > https://news.ycombinator.com/item?id=34069170
 

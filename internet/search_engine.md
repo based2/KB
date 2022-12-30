@@ -276,6 +276,7 @@ http://infolab.stanford.edu/pub/papers/google.pdf
 
 https://kagi.com/
 > https://news.ycombinator.com/item?id=29835756
+> https://news.ycombinator.com/item?id=34179949
 
 https://bing.ly/ nft
 

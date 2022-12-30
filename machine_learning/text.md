@@ -5,6 +5,10 @@ https://explosion.ai/blog/coref
 https://explosion.ai/blog/floret-vectors
 
 # News
+https://github.com/lucidrains/PaLM-rlhf-pytorch
+
+https://news.ycombinator.com/item?id=34181339
+
 https://lspace.swyx.io/p/reverse-prompt-eng
 > https://news.ycombinator.com/item?id=34165522
 

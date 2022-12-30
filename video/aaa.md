@@ -113,6 +113,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://forum.handbrake.fr/viewtopic.php?t=42690
+> https://it.slashdot.org/story/22/12/29/1831201/handbrake-160-debuts-av1-transcoding-support-for-the-masses
+
 https://github.com/LMP88959/NTSC-CRT
 > https://news.ycombinator.com/item?id=34085913
 

@@ -102,6 +102,10 @@ https://github.com/asciibeats/elixir_ranch
 
 https://github.com/szTheory/real-world-phoenix
 
+https://www.germanvelasco.com/blog/phoenix-1-7-is-view-less
+> https://news.ycombinator.com/item?id=34188461
+> > https://www.batteriesincl.com/posts/heyya-snapshot-testing/
+
 https://github.com/lucasvegi/Elixir-Code-Smells
 > https://news.ycombinator.com/item?id=31323334
 
@@ -111,6 +115,8 @@ https://seanmoriarity.com/2022/06/16/jit-gpu-accelerated-deep-learning-for-elixi
 https://news.ycombinator.com/item?id=32850016
 
 https://elixirforum.com/t/ash-framework-2-0/51119
+
+https://ash-hq.org/
 
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/

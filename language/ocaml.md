@@ -22,6 +22,8 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://sancho.dev/blog/learning-ocaml
+
 https://discuss.ocaml.org/t/ocaml-5-0-0-is-out/10974
 > https://news.ycombinator.com/item?id=34013767
 

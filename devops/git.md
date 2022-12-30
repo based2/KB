@@ -274,6 +274,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/h2obrain/about/blob/main/odyssey.md
+> https://github.com/h2obrain/about/blob/main/snippets/snippets.md
+
 https://opensource.com/article/22/11/git-tools
 
 https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/

@@ -105,8 +105,6 @@ https://web.archive.org/web/20210122221327/http://www.lbackup.org/synchronizing_
 
 https://news.ycombinator.com/item?id=28957573 Ask HN: Best way to host a website for 500 years?
 
-
-
 https://b3n.org/automatic-ripping-machine/
 > https://news.ycombinator.com/item?id=30043497
 > > https://github.com/automatic-ripping-machine/automatic-ripping-machine
@@ -114,4 +112,6 @@ https://b3n.org/automatic-ripping-machine/
 https://news.ycombinator.com/item?id=30577625
 
 #
+https://github.com/divyenduz/backup-scheduler
+
 https://news.ycombinator.com/item?id=31012219 Ask HN: How to balance between delete compliance and backups

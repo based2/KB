@@ -67,6 +67,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://media.ccc.de/v/petit-foo-co2ampel
+
 https://www.technologyreview.com/2022/12/24/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/
 > https://www.reddit.com/r/worldnews/comments/zw181j/a_startup_says_its_begun_releasing_particles_into/
 

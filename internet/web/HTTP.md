@@ -38,6 +38,8 @@ https://blog.cloudflare.com/early-hints/
 
 https://lists.gnu.org/archive/html/info-gnu/2021-09/msg00011.html
 
+https://daniel.haxx.se/blog/2022/11/10/append-data-to-the-url-query/
+
 https://daniel.haxx.se/blog/2021/09/27/common-mistakes-when-using-libcurl/
 
 https://bradgessler.com/articles/419-never-gonna-give-you-up/
@@ -162,6 +164,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://blog.cloudflare.com/the-state-of-http-in-2022/
+
 https://daniel.haxx.se/blog/2022/12/23/the-curl-fragment-trick/
 > https://news.ycombinator.com/item?id=34105931
 

@@ -211,6 +211,10 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.wisdomgeek.com/development/web-development/css-has-a-parent-selector-now/
+
+https://alistapart.com/article/holygrail/
+
 https://webkit.org/blog/13607/help-choose-from-options-for-css-nesting-syntax/
 > https://news.ycombinator.com/item?id=34006622
 

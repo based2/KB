@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://miketaylr.com/posts/2022/12/how-the-IE-11-ua-string-broke-sites-in-firefox.html
+> https://news.ycombinator.com/item?id=34178880
+
 https://gist.github.com/RobertAKARobin/850a408e04d5414e67d308a2b5847378 Safari's date-picker is the cause of 1/3 of our customer support issues
 > https://news.ycombinator.com/item?id=34145216
 

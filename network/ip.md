@@ -47,6 +47,8 @@ https://news.ycombinator.com/item?id=33894933
 > https://adminhacks.com/broken-IPv6.html
 > > https://news.ycombinator.com/item?id=33941324
 
+https://www.reddit.com/r/aws/comments/zxv6gj/whats_the_point_of_ipv6_native_subsets_if_they/
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

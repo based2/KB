@@ -78,6 +78,13 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.itsfoss.com/maui-shell-unveiled/
+
+https://streaming.media.ccc.de/jev22/relive/49255 Write a Wayland Compositor
+> https://news.ycombinator.com/item?id=34185442
+
+https://media.ccc.de/v/chaos-we-2022-3-warum-der-linux-desktop-unsicherer-als-windows-ist-und-wass-wir-dagegen-tun-knnen-
+
 https://pointieststick.com/2022/12/16/this-week-in-kde-wayland-fractional-scaling-oh-and-we-also-fixed-multi-screen/
 > https://news.ycombinator.com/item?id=34130795
 

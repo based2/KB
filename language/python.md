@@ -254,6 +254,13 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku
+
+https://mostlypython.substack.com/p/why-im-still-using-python
+> https://news.ycombinator.com/item?id=34186283
+
+https://www.pypy.org/posts/2022/12/pypy-v7311-release.html
+
 https://www.petermcconnell.com/posts/perf_eng_with_py12/
 
 https://numba.pydata.org/

@@ -25,6 +25,10 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://aws.amazon.com/en/blogs/security/approaches-for-authenticating-external-applications-in-a-machine-to-machine-scenario/
+
+https://aws.amazon.com/en/blogs/security/aws-cirt-announces-the-release-of-five-publicly-available-workshops/
+
 https://www.matano.dev/blog/2022/12/28/crowdstrike-support
 
 https://github.com/hardikSinghBehl/aws-reference-projects/tree/main/anti-malware-scanning

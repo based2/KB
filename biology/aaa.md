@@ -42,6 +42,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://newatlas.com/science/first-virovore-eats-viruses/
+> https://science.slashdot.org/story/22/12/29/2234215/first-virovore-discovered-an-organism-that-eats-viruses
+
 https://news.ucr.edu/articles/2022/12/21/decoding-secret-language-photosynthesis
 > https://news.ycombinator.com/item?id=34138509
 

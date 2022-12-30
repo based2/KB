@@ -97,6 +97,9 @@ https://www.p3r.one/gpt-j/
 https://github.com/kingoflolz/mesh-transformer-jax GPT-J opensource
 > https://news.ycombinator.com/item?id=27727009
 
+https://arxiv.org/abs/2212.03827 Discovering Latent Knowledge in Language Models Without Supervision
+> https://lobste.rs/s/es6md1/discovering_latent_knowledge_language
+
 # IML - Interpretable machine learning
 https://blog.ml.cmu.edu/2021/04/23/a-learning-theoretic-perspective-on-local-explainability/
 
@@ -243,6 +246,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://zhengdongwang.com/2022/12/28/2022-letter.html
+> https://news.ycombinator.com/item?id=34187973
+
 https://news.ycombinator.com/item?id=34148599
 
 https://www.nebuly.com/blog/geoffrey-hinton-forward-forward

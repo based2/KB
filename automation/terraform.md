@@ -156,6 +156,9 @@ https://www.reddit.com/r/AZURE/comments/yy772q/manage_azure_policy_with_terrafor
 https://thesaadahmed.medium.com/a-basic-ci-cd-pipeline-for-infrastructure-as-a-code-in-azure-devops-84393a57137c
 
 # News
+https://www.reddit.com/r/Terraform/comments/zxbhyh/introducing_tfmodulecom_a_stand_alone_private/
+> 
+
 https://itnext.io/pains-in-terraform-collaboration-249a56b4534e
 
 https://github.com/paololazzari/terraform-repl

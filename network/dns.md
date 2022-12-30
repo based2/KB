@@ -40,6 +40,8 @@ https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions
 
 https://forums.aws.amazon.com/thread.jspa?messageID=598211 SSHFP records
 
+https://media.ccc.de/v/basel-4229-dnssec-im-jahr-2022
+
 # DNS over TLS
 
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times

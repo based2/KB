@@ -50,6 +50,8 @@ https://www.thedrive.com/the-war-zone/43328/u-s-satellites-are-being-attacked-ev
 
 https://news.ycombinator.com/item?id=33802167
 
+https://phys.org/news/2022-12-latest-satellite-unfold-space.html
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112

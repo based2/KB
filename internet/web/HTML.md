@@ -146,6 +146,10 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+http://endless.horse/
+> https://news.ycombinator.com/item?id=34177935
+> > https://endless.dog/
+
 https://livedom.bentkowski.info/ parsers
 
 https://bt.ht/1kb/

@@ -72,6 +72,9 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://gist.github.com/sj26/88e1c6584397bb7c13bd11108a579746 Bash retry function with exponential backoff
+> https://news.ycombinator.com/item?id=34161661
+
 https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/
 > https://news.ycombinator.com/item?id=34036692
 

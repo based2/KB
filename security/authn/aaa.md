@@ -72,6 +72,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://authjs.dev/
+> https://news.ycombinator.com/item?id=34184669
+
 https://www.authelia.com/
 > https://github.com/authelia/authelia
 

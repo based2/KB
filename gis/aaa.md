@@ -215,6 +215,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://oceanservice.noaa.gov/geodesy/international-foot.html
+> https://news.ycombinator.com/item?id=34184903
+
+https://media.ccc.de/v/fossgis2020-3058-neuentwicklung-der-gdi-de-testsuite
+
 https://tafc.space/qna/the-topologists-world-map/
 > https://news.ycombinator.com/item?id=34064764
 

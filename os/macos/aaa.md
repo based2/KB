@@ -175,6 +175,9 @@ https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-perfor
 > https://news.ycombinator.com/item?id=31643610
 
 # M1
+https://daniel.haxx.se/blog/2022/12/30/an-m1-for-curl/
+> https://news.ycombinator.com/item?id=34183020
+
 https://github.com/tpwrules/nixos-m1
 > https://news.ycombinator.com/item?id=34134109
 

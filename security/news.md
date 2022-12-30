@@ -1,3 +1,12 @@
+https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-recently-fixed-wifi-router-bug/
+
+https://theintercept.com/2022/12/29/dhs-buildings-security-employees/
+> https://news.slashdot.org/story/22/12/29/1930207/department-of-homeland-security-cant-even-secure-its-buildings-against-people-it-fired
+
+https://raiderauth.com/ framework for manipulating the HTTP processes of persistent sessions
+> https://github.com/OWASP/raider
+> https://docs.raiderauth.com/en/latest/
+
 https://www.securityweek.com/earspy-spying-phone-calls-ear-speaker-vibrations-captured-accelerometer
 > https://news.ycombinator.com/item?id=34161265
 

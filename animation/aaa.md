@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.cmyr.net/blog/hyperbezier.html
+
 https://news.ycombinator.com/item?id=34173761
 
 https://github.com/jnsmalm/pixi3d 3D rendering library for the web

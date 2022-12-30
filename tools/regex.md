@@ -66,6 +66,7 @@ https://github.com/google/re2j
 
 # News
 https://pomsky-lang.org/
+> https://news.ycombinator.com/item?id=34183944
 
 https://perl.plover.com/Regex/article.html
 > https://news.ycombinator.com/item?id=33568887

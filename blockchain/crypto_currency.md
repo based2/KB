@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://blog.midas.investments/midas-closure-reasons-and-pivot-to-cedefi/
+> https://slashdot.org/story/22/12/30/0124251/another-crypto-investment-firm-shuts-down-taking-over-55-of-customers-funds
+
 https://www.bleepingcomputer.com/news/security/crypto-platform-3commas-admits-hackers-stole-api-keys/
 
 https://github.com/Chia-Network/chia-blockchain/discussions/14155
