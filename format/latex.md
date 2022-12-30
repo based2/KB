@@ -27,3 +27,6 @@ https://laurmaedje.github.io/posts/comemo/
 
 https://github.com/matjp/dvi-decode
 > https://news.ycombinator.com/item?id=33368595
+
+https://www.scypress.com/book_download.html
+> https://news.ycombinator.com/item?id=34161044

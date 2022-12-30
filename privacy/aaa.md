@@ -99,6 +99,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.tbray.org/ongoing/When/202x/2022/12/29/Privacy-is-OK
+
 https://digit.so36.net/Data/20221227_HIP_EBSP_IBIS.pdf
 > https://news.ycombinator.com/item?id=34151382
 

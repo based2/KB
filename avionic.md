@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field
+> https://news.ycombinator.com/item?id=34177252
+
 https://www.timesaerospace.aero/news/general-aviation/raytheon-completes-engine-run-of-hybrid-electric-flight-demonstrator
 > https://news.ycombinator.com/item?id=34082537
 

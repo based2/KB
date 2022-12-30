@@ -72,6 +72,9 @@ https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
 # News
+https://www.authelia.com/
+> https://github.com/authelia/authelia
+
 https://bitwarden.com/blog/industry-leaders-security-rankings-music-streaming-services/
 
 https://mjg59.dreamwidth.org/62746.html

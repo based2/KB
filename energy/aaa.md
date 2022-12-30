@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.theregister.com/2022/12/16/gates_nuclear_power_russia/?td=keepreading
+
 https://news.ycombinator.com/item?id=34092934
 
 https://www.ge.com/renewableenergy/wind-energy/offshore-wind/haliade-x-offshore-turbine

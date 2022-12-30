@@ -51,6 +51,9 @@ https://arxiv.org/abs/2208.04991 Understanding User Awareness and Behaviors Conc
 
 https://threadreaderapp.com/thread/1586390728761933825.html
 
+https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
+> https://news.ycombinator.com/item?id=34177331
+
 # Incident
 https://news.ycombinator.com/item?id=34153448
 

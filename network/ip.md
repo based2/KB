@@ -72,6 +72,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://blog.cloudflare.com/consequences-of-ip-blocking/
+> https://news.ycombinator.com/item?id=34178168
+
 https://auctions.ipv4.global/prior-sales
 > https://news.ycombinator.com/item?id=33274590
 

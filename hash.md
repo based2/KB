@@ -71,6 +71,12 @@ https://www.ietf.org/id/draft-peabody-dispatch-new-uuid-format-03.html
 https://pvk.ca/Blog/2022/07/11/plan-b-for-uuids-double-aes-128/
 > https://news.ycombinator.com/item?id=32355750
 
+https://planetscale.com/blog/why-we-chose-nanoids-for-planetscales-api
+> https://news.ycombinator.com/item?id=34172989
+
+https://blog.daveallie.com/ulid-primary-keys
+> https://news.ycombinator.com/item?id=34175639
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

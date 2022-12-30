@@ -64,6 +64,8 @@ https://encore.dev/guide/go.mod
 https://fyne.io/
 > https://news.ycombinator.com/item?id=31785556
 
+https://github.com/charmbracelet/bubbletea
+
 # Links
 https://news.ycombinator.com/item?id=25881212`
 
@@ -100,6 +102,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://withinboredom.info/blog/2022/12/29/golang-is-evil-on-shitty-networks/
+> https://news.ycombinator.com/item?id=34179426
+
 https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md
 > https://news.ycombinator.com/item?id=34085337
 

@@ -47,6 +47,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://github.com/ciniml/WireGuard-ESP32-Arduino
+> https://news.ycombinator.com/item?id=34171406
+
 https://www.wundertech.net/pfsense-vs-opnsense/
 > https://news.ycombinator.com/item?id=34067098
 

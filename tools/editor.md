@@ -278,6 +278,12 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://helix-editor.com/
+> https://github.com/helix-editor/helix
+
+https://sim.ssnf.xyz/
+> https://news.ycombinator.com/item?id=34172728
+
 https://blog.sanctum.geek.nz/actually-using-ed/
 > https://news.ycombinator.com/item?id=34162312
 

@@ -266,6 +266,11 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://www.crunchydata.com/blog/state-of-json-in-postgres-2022
+
+https://postgrest.org/en/stable/index.html
+> https://news.ycombinator.com/item?id=34172205
+
 https://www.timescale.com/blog/12-days-of-postgresql-tools-and-projects/
 > https://news.ycombinator.com/item?id=34067247
 

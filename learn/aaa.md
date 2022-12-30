@@ -117,6 +117,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/ greek
+> https://news.ycombinator.com/item?id=34171863
+
 https://github.com/bramses/bramses-highly-opinionated-vault-2023
 > https://news.ycombinator.com/item?id=34034414
 

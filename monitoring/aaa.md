@@ -83,6 +83,14 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://betterprogramming.pub/how-to-monitor-a-spring-boot-app-with-prometheus-and-grafana-22e2338f97fc
+> https://news.ycombinator.com/item?id=34173740
+
+https://github.com/ClementTsang/bottom
+
+https://davquar.it/post/self-hosting/ntopng-fritzbox-monitoring/
+> https://news.ycombinator.com/item?id=34170868
+
 https://coroot.com/blog/minimizing-observability-tax
 > https://news.ycombinator.com/item?id=34149804
 

@@ -44,6 +44,12 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://www.linuxcommand.org/tlcl.php
+> https://news.ycombinator.com/item?id=34161081
+
+https://drew.shoes/posts/sup/ net send win
+> https://news.ycombinator.com/item?id=34157636
+
 https://github.com/AmineZouitine/rmt.rs Trash
 
 https://eklitzke.org/the-cult-of-dd

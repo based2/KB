@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.bleepingcomputer.com/news/security/crypto-platform-3commas-admits-hackers-stole-api-keys/
+
 https://github.com/Chia-Network/chia-blockchain/discussions/14155
 > https://news.ycombinator.com/item?id=34171122
 

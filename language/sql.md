@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://prql-lang.org/ rust
+> https://news.ycombinator.com/item?id=34181319
+
 https://emiruz.com/post/2022-12-28-composable-sql/
 > https://news.ycombinator.com/item?id=34159699
 

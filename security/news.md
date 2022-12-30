@@ -1,3 +1,11 @@
+https://www.securityweek.com/earspy-spying-phone-calls-ear-speaker-vibrations-captured-accelerometer
+> https://news.ycombinator.com/item?id=34161265
+
+https://openssf.org/blog/2022/12/29/openssf-year-in-review/
+
+https://blog.yossarian.net/2022/12/28/ReDoS-vulnerabilities-and-misaligned-incentives
+> https://news.ycombinator.com/item?id=34161221
+
 https://www.bleepingcomputer.com/news/security/fin7-hackers-create-auto-attack-platform-to-breach-exchange-servers/
 
 https://www.bleepingcomputer.com/news/security/brave-launches-frodopir-a-privacy-focused-database-query-system/

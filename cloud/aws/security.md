@@ -25,6 +25,8 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://www.matano.dev/blog/2022/12/28/crowdstrike-support
+
 https://github.com/hardikSinghBehl/aws-reference-projects/tree/main/anti-malware-scanning
 
 https://haiderm.com/securing-aws-simple-notification-service-sns/

@@ -7,8 +7,11 @@ https://news.ycombinator.com/item?id=26576727 OAuth Attack Vectors
 
 https://news.ycombinator.com/item?id=26603259 OAuth 2.0 Auth(entication) Vulnerabilities
 
-# vENDORS
+# Vendors
 https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
+
+# Incident
+https://vigilance.fr/vulnerabilite/mod-auth-openidc-redirection-via-Logout-Parameter-40178
 
 #
 https://blog.m5e.de/post/state-of-openid-connect-providers/
