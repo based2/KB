@@ -414,6 +414,12 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/
+> https://news.ycombinator.com/item?id=34196294
+
+https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/
+> https://news.ycombinator.com/item?id=34195291
+
 https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/
 
 https://github.com/rust-lang/rust/pull/105586

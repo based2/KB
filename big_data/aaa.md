@@ -193,6 +193,10 @@ https://archivve.visualizevalue.com/
 https://brooker.co.za/blog/2022/09/02/ecdf.html
 > https://news.ycombinator.com/item?id=32699078
 
+https://flowingdata.com/2022/12/29/best-of-2022/
+
+https://www.visualcapitalist.com/cp/visualizing-sp-500-performance-in-2022-by-sector/
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
@@ -261,6 +265,16 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://medium.com/@omarlaraqui/build-efficient-tests-for-your-spark-data-pipeline-using-bdds-with-cucumber-61f1bdc08faf
+
+https://newsroom.ucla.edu/releases/universities-struggle-to-leverage-data
+> https://news.ycombinator.com/item?id=34198838
+
+https://github.com/zakird/crux-top-lists
+>
+
+https://julkaar9.github.io/pynimate
+
 https://towardsdatascience.com/11-dimensionality-reduction-techniques-you-should-know-in-2021-dcb9500d388b
 
 https://news.ycombinator.com/item?id=34099517 med
@@ -336,7 +350,6 @@ https://www.i-programmer.info/news/150-training-a-education/15816-2022-10-22-15-
 > https://news.ycombinator.com/item?id=33377236
 
 https://lakefs.io/7-winning-habits-of-effective-data-engineers/
->
 
 https://airbyte.com/blog/data-engineering-past-present-and-future
 > https://news.ycombinator.com/item?id=33317126
@@ -371,6 +384,7 @@ https://github.com/nocodb/nocodb Open Source Airtable Alternative - turns any My
 https://quarto.org/
 
 https://docarray.jina.ai/get-started/what-is/
+> https://news.ycombinator.com/item?id=33058004
 
 https://www.njtierney.com/post/2022/08/09/ggplot-pyramid/
 
@@ -754,8 +768,6 @@ https://github.com/rmcelreath/stat_rethinking_2022
 
 https://mchow.com/posts/2020-02-11-dplyr-in-python/
 > https://github.com/tidyverse/dplyr dplyr: A grammar of data manipulation in R
-
-https://docarray.jina.ai/get-started/what-is/
 
 https://www.microprediction.com/get-predictions
 

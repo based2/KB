@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://sebastian.itch.io/digital-logic-sim
+> https://news.ycombinator.com/item?id=34203029
+
 https://epsilon537.github.io/boxlambda/exit-mig-enter-litedram/
 
 https://github.com/janestreet/hardcaml

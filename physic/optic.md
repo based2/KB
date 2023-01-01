@@ -2,6 +2,8 @@ https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
 https://cree-led.com/news/photophyll-select/
 
+https://www.rochester.edu/newscenter/a-laser-that-could-reshape-the-landscape-of-integrated-photonics-538162/
+
 https://www.researchgate.net/publication/330676601_Degradation_of_optical_materials_in_solid-state_lighting_systems
 
 https://spectrum.ieee.org/optical-computing-picosecond-gates

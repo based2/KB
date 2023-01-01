@@ -1,3 +1,18 @@
+https://pytorch.org/blog/compromised-nightly-dependency/
+> https://news.ycombinator.com/item?id=34202662
+
+https://github.com/mlcsec/ASRenum-BOF
+
+https://0xbigshaq.github.io/2022/12/30/luajit-sandbox-escape/
+
+https://0xsp.com/security%20research%20%20development%20srd/backdoor-discovered-in-pldt-home-fiber-routers/
+
+https://canarytokens.org
+> https://news.ycombinator.com/item?id=34157751
+
+https://steve-s.gitbook.io/0xtriboulet/deceiving-defender/deceiving-defender-the-big-stack-bypass
+> https://news.ycombinator.com/item?id=34195372
+
 https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-recently-fixed-wifi-router-bug/
 
 https://theintercept.com/2022/12/29/dhs-buildings-security-employees/

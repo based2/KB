@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://muffinman.io/blog/draw-svg-rope-using-javascript/
+> https://news.ycombinator.com/item?id=34197379
+
 https://www.cmyr.net/blog/hyperbezier.html
 
 https://news.ycombinator.com/item?id=34173761

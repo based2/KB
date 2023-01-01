@@ -59,6 +59,12 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/
+> https://news.ycombinator.com/item?id=34186098
+
+https://brandur.org/fragments/deleted-record-insert
+> https://news.ycombinator.com/item?id=34202606
+
 https://prql-lang.org/ rust
 > https://news.ycombinator.com/item?id=34181319
 

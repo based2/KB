@@ -246,6 +246,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://generallyintelligent.com/avalon/
+
+https://www.amazon.science/blog/in-reinforcement-learning-slower-networks-can-learn-faster
+
 https://zhengdongwang.com/2022/12/28/2022-letter.html
 > https://news.ycombinator.com/item?id=34187973
 

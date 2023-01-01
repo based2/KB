@@ -83,6 +83,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://news.ycombinator.com/item?id=34198463
+
 https://www.tomshardware.com/news/huawe-euv-scanner
 
 https://www.cnx-software.com/2022/12/16/pinetab2-linux-tablet-rockchip-rk3566-soc-up-to-8gb-ram-128gb-emmc-flash/

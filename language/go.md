@@ -102,6 +102,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://interpreterbook.com/
+> https://news.ycombinator.com/item?id=34203622
+
 https://fasterthanli.me/articles/lies-we-tell-ourselves-to-keep-using-golang#the-author-is-a-platypus
 > https://news.ycombinator.com/item?id=34188528
 

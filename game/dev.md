@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://godotengine.org/article/2022-retrospective
+> 
+
 https://github.com/LemonHaze420/DCPopulous
 > https://news.ycombinator.com/item?id=34132484
 

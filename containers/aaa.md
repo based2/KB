@@ -40,6 +40,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://blog.mikesir87.io/2021/07/build-once-deploy-everywhere-for-spas/
+
 https://github.com/firecracker-microvm/firecracker/blob/main/docs/snapshotting/snapshot-support.md
 
 https://bt.ht/alpine/

@@ -61,6 +61,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://github.com/rishavnandi/ansible_selfhost_vpn
+> https://www.reddit.com/r/ansible/comments/zsoask/a_simple_ansible_playbook_to_setup_a_self_hosted/
+
 https://research.nccgroup.com/2022/12/09/public-report-vpn-by-google-one-security-assessment/
 > https://news.ycombinator.com/item?id=33944772
 

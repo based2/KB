@@ -71,6 +71,9 @@ https://www.scienceinter.com/2022/06/quantum-particles-can-feel-effects-of.html
 
 https://www.nature.com/articles/s41566-022-01011-0 Nanokelvin-resolution thermometry with a photonic microscale sensor at room temperature
 
+https://azeemba.com/posts/degenerate-matter.html
+> https://news.ycombinator.com/item?id=34198846
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/
@@ -79,6 +82,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://spectrum.ieee.org/ibm-condor
+
 https://www.tomshardware.com/news/spinq-introduces-trio-of-portable-quantum-computers
 
 https://quantum-computing.ibm.com/

@@ -126,6 +126,12 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://lemire.me/blog/2022/12/30/quickly-checking-that-a-string-belongs-to-a-small-set/
+> https://news.ycombinator.com/item?id=34184627
+
+https://raphlinus.github.io/text/2020/10/26/text-layout.html
+> https://news.ycombinator.com/item?id=34173290
+
 https://en.wikipedia.org/wiki/Overlapping_markup
 > https://news.ycombinator.com/item?id=33951613
 

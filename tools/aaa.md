@@ -59,3 +59,7 @@ https://yotam.net/posts/the-audacity-of-piping-curl-to-bash/
 
 https://utcc.utoronto.ca/~cks/space/blog/unix/LoginShellMarkerHistory
 > https://news.ycombinator.com/item?id=33941302
+
+https://ianthehenry.com/posts/a-cozy-nest-for-your-scripts/
+> https://github.com/ianthehenry/sd
+> > https://news.ycombinator.com/item?id=34194889

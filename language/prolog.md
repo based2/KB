@@ -50,3 +50,6 @@ https://ciao-lang.org/ciao/build/doc/ciao.html/
 
 https://logtalk.org/rationale.html
 > https://news.ycombinator.com/item?id=33942105
+
+https://old.reddit.com/r/prolog/comments/zswi13/prolog_at_work/
+> https://news.ycombinator.com/item?id=34164221

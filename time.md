@@ -189,6 +189,9 @@ https://literature-clock.jenevoldsen.com/
 > https://github.com/JohannesNE/literature-clock
 > > https://news.ycombinator.com/item?id=34124843
 
+https://poleclock.com/
+> https://news.ycombinator.com/item?id=34196340
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

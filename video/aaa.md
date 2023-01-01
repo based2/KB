@@ -113,6 +113,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://jott.live/markdown/images_as_emoji
+> https://news.ycombinator.com/item?id=34182010
+
+https://thebrokenrail.com/2022/12/31/xfinity-stream-on-linux.html
+> https://news.ycombinator.com/item?id=34202107
+
 https://forum.handbrake.fr/viewtopic.php?t=42690
 > https://it.slashdot.org/story/22/12/29/1831201/handbrake-160-debuts-av1-transcoding-support-for-the-masses
 

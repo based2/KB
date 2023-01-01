@@ -83,6 +83,16 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://blog.jetbrains.com/scala/2022/11/30/intellij-scala-plugin-2022-3-is-out/
+
+https://eed3si9n.com/fast-scala3-parsing-with-tree-sitter/
+
+https://valentin.willscher.de/posts/scala-errorhandling/
+
+https://typelevel.org/blog/2022/11/10/fabric.html JSON
+
+https://github.com/lampepfl/dotty/pull/16310
+
 https://laminar.dev/ ui
 > https://github.com/raquo/Waypoint router
 

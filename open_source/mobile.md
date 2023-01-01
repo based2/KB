@@ -26,6 +26,11 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://old.reddit.com/r/GrapheneOS/comments/bddq5u/os_security_ios_vs_grapheneos_vs_stock_android/
+
+https://lineageos.org/Changelog-27/
+> https://news.ycombinator.com/item?id=34195764
+
 https://blog.thunderbird.net/2022/12/thunderbird-for-android-preview-modern-message-redesign/
 > https://news.ycombinator.com/item?id=33868136
 

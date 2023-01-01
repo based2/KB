@@ -336,6 +336,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://morrick.me/archives/9696 Mac OS Ventura Issues
+> https://news.ycombinator.com/item?id=34199652
+
 https://eclecticlight.co/2022/11/30/an-a-to-z-of-keys-and-keyboards-startup-and-login/
 > https://news.ycombinator.com/item?id=33814682
 

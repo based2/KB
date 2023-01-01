@@ -14,6 +14,9 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://blog.cavelab.dev/2022/12/rpi-security-alarm/
+> https://news.ycombinator.com/item?id=34191749
+
 https://news.ycombinator.com/item?id=34169554
 
 https://www.tomshardware.com/news/raspberry-pi-5-after-2023

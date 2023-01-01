@@ -112,6 +112,12 @@ https://notepadcalculator.com/
 > https://news.ycombinator.com/item?id=34153883
 
 # News
+https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf Complementary foundations for mathematics: when do we choose?
+> https://news.ycombinator.com/item?id=34197169
+
+https://arxiv.org/abs/2210.17517 Lila: A Unified Benchmark for Mathematical Reasoning
+> https://news.ycombinator.com/item?id=34193243
+
 https://www.youtube.com/watch?v=4CBFUojXoq4 Andrej Bauer: "The countable reals"
 > https://news.ycombinator.com/item?id=34127524
 

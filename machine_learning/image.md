@@ -263,11 +263,22 @@ https://twitter.com/adamhrv/status/1568167824962486272 High difficulty computer 
 https://github.com/Ikomia-dev/IkomiaApi
 > https://news.ycombinator.com/item?id=33364442
 
+https://www.rf100.org/
+> https://news.ycombinator.com/item?id=34163642
+
+https://mmrotate.readthedocs.io/en/latest/
+
 # Color
 https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/
+> https://news.ycombinator.com/item?id=34200883
+
+https://epic-kitchens.github.io/VISOR/
+> https://news.ycombinator.com/item?id=33086153
+
 https://arxiv.org/abs/2211.13224 Text to Image Diffusion Models Are Zero-Shot Segmentors
 > https://news.ycombinator.com/item?id=34136879
 

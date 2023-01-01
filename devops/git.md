@@ -274,6 +274,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://lwn.net/Articles/898522/
+> https://news.ycombinator.com/item?id=34193244
+
 https://github.com/h2obrain/about/blob/main/odyssey.md
 > https://github.com/h2obrain/about/blob/main/snippets/snippets.md
 

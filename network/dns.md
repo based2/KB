@@ -57,6 +57,8 @@ https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 > https://news.ycombinator.com/item?id=34177331
 
 # Incident
+https://news.ycombinator.com/item?id=34194555
+
 https://news.ycombinator.com/item?id=34153448
 
 https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS resolution will break on v1.25.0 in certain configurations

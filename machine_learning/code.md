@@ -1,3 +1,6 @@
+# Data
+https://huggingface.co/datasets/bigcode/the-stack
+
 # Code assistant
 https://copilot.github.com/
 > https://news.ycombinator.com/item?id=27676266

@@ -1,4 +1,6 @@
 # News
+https://bigdanzblog.wordpress.com/2022/12/21/using-mass-storage-devices-on-simh-pdp-11-rt-11-paper-tape-diskette-dectape/
+
 https://news.ycombinator.com/item?id=34131436
 
 https://blogs.intellique.com/cgi-bin/tech/2022/01/27

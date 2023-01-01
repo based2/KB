@@ -126,6 +126,9 @@ https://mosh.org/
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://crypto.stackexchange.com/questions/31807/why-does-my-ssh-private-key-still-work-after-changing-some-bytes-in-the-file
+> https://news.ycombinator.com/item?id=34193895
+
 https://mosh.org/mosh-1.4.0-released.html
 > https://news.ycombinator.com/item?id=33439542
 

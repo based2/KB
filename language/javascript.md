@@ -203,6 +203,10 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://baseweb.design/
+
+https://hyperfetch.bettertyped.com/blog/hyper-fetch-3-0/
+
 https://tamagui.dev/blog/version-one
 > https://news.ycombinator.com/item?id=34186742
 
@@ -519,6 +523,11 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://workers.js.org/
+
+https://blog.standardnotes.com/40921/no-react-native-is-not-the-future
+> https://news.ycombinator.com/item?id=34197613
+
 https://www.twilio.com/blog/comparing-nextjs-nestjs-nuxt-gatsby
 > https://news.ycombinator.com/item?id=34036208
 > > https://www.smashingmagazine.com/2022/07/new-pattern-jamstack-segmented-rendering/

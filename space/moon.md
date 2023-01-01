@@ -27,6 +27,9 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://caseyhandmer.wordpress.com/2022/07/03/powering-the-lunar-base-version-2/
+> https://news.ycombinator.com/item?id=34199763
+
 https://makerfairerome.eu/en/nasa-advance-lunar-construction-technology-for-moon-missions/
 
 https://uploads-ssl.webflow.com/62b9fb2aad2275b3dcfe568b/62b9ffb2260d25fa0699a273_60dca6b6295541011969786d_HB-final-digital.pdf

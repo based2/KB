@@ -1,6 +1,9 @@
 https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html
 > https://news.ycombinator.com/item?id=34024914
 
+https://www.cnx-software.com/2022/12/29/boufallo-lab-bl616-bl618-risc-v-mcu-wifi-6-bluetooth-5-2-zigbee/
+> https://news.ycombinator.com/item?id=34173534
+
 https://cordlandwehr.wordpress.com/2022/12/29/getting-a-first-picture-on-my-nezha-risc-v-board/
 
 https://www.semianalysis.com/p/ventana-risc-v-cpus-beating-next

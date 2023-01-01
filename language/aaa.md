@@ -300,6 +300,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://borretti.me/article/introducing-austral Systems Language with Linear Types and Capabilities
+> https://news.ycombinator.com/item?id=34168452
+
 https://lobste.rs/s/cd8mty/more_use_rust_is_inevitable_open_source#c_jmdaim
 
 https://matt.might.net/articles/26-languages-part1/

@@ -165,6 +165,7 @@ https://github.com/mockoon/mockoon
 
 # News
 https://blog.cloudflare.com/the-state-of-http-in-2022/
+> https://news.ycombinator.com/item?id=34201082
 
 https://daniel.haxx.se/blog/2022/12/23/the-curl-fragment-trick/
 > https://news.ycombinator.com/item?id=34105931

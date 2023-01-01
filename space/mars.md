@@ -19,6 +19,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.directedplay.com/first-tv-image-of-mars
+> https://news.ycombinator.com/item?id=34198740
+
 https://mars.nasa.gov/explore/mars-now/
 > https://news.ycombinator.com/item?id=33972408
 

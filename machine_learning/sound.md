@@ -94,3 +94,6 @@ https://15.ai/
 
 https://felixkreuk.github.io/text2audio_arxiv_samples/
 > https://news.ycombinator.com/item?id=33039203
+
+https://murf.ai/
+> https://news.ycombinator.com/item?id=34204073
