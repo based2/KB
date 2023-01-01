@@ -12,6 +12,8 @@ https://urlhaus.abuse.ch/
 
 https://yaraify.abuse.ch/
 
+https://cinsscore.com
+
 https://git.encryp.ch/g00g1/no-portscan
 > https://news.ycombinator.com/item?id=29252505
 > > https://github.com/mrash/fwknop Single Packet Authorization

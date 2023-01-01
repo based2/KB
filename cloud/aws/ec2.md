@@ -104,6 +104,8 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
+https://blog.stephane-robert.info/post/aws-system-management-ssm/
+
 https://blog.symops.com/2022/08/24/decoding-aws-reserved-instances/
 
 https://aws.amazon.com/en/about-aws/whats-new/2022/11/amazon-ec2-opt-out-shared-amazon-machine-images/

@@ -64,4 +64,7 @@ https://graphjin.com/
 > https://news.ycombinator.com/item?id=31541219
 
 #
+https://intercoolerjs.org/2016/01/18/rescuing-rest.html
+> https://intercoolerjs.org/ -> https://htmx.org/
+
 https://news.ycombinator.com/item?id=28797627 Is RESTFul Paradigm a Type of FFI (Foreign Function Interface)?

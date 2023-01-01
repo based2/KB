@@ -201,6 +201,7 @@ https://en.wikipedia.org/wiki/Hyperjacking
 https://en.wikipedia.org/wiki/Row_hammer
 
 https://en.wikipedia.org/wiki/Logjam_(computer_security) Diffie–Hellman key exchange
+> https://weakdh.org/
 
 https://en.wikipedia.org/wiki/FREAK TLS
 

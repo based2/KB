@@ -209,6 +209,9 @@ https://fortran-lang.org/learn/intrinsics
 
 https://news.ycombinator.com/item?id=33194773
 
+https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html
+> https://news.ycombinator.com/item?id=34206951
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100

@@ -25,6 +25,8 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://github.com/NixOS/nixops
+
 https://kcl-lang.io/
 > https://github.com/KusionStack/KCLVM#what-is-it-for Constraint-based record & functional language by AliBaba/Ant Group
 > > https://news.ycombinator.com/item?id=34134305

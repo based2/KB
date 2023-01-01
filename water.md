@@ -91,3 +91,5 @@ https://www.cyclingnews.com/news/pfc-bans-are-going-to-change-the-face-of-all-wa
 https://news.ycombinator.com/item?id=34133869
 
 https://news.ycombinator.com/item?id=34151880
+
+https://www.shutterbulky.com/harvesting-untapped-source-of-freshwater/

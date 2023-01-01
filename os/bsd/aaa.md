@@ -191,6 +191,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://git.hardenedbsd.org/shawn.webb/articles/-/blob/master/hardenedbsd/2023-01_decade/article.md
+
 https://ravynos.com/
 
 https://www.youtube.com/watch?v=DoLGyp17y3c&list=PLskKNopggjc6_N7kpccFZuccgJwHD3TPf

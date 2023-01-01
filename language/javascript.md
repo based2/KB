@@ -65,6 +65,8 @@ https://tauri.app/
 
 https://github.com/webfansplz/temir
 
+https://blog.vuejs.org/posts/2022-year-in-review.html
+
 ## ReactJS - Facebook
 https://github.com/reactjs/react-basic
 

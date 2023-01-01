@@ -37,6 +37,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+http://elm-chan.org/fsw/ff/00index_e.html FatFs – Generic FAT Filesystem Module
+> https://news.ycombinator.com/item?id=34210076
+
 https://www.phoronix.com/news/SquashFS-IDMAPPED-Mounts
 
 https://www.phoronix.com/news/Linux-6.2-Btrfs-EXT4

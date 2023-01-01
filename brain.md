@@ -40,6 +40,8 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://news.ycombinator.com/item?id=34208926
+
 https://neurosciencenews.com/mri-light-sensor-22130/
 > https://news.ycombinator.com/item?id=34127683
 

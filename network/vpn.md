@@ -61,6 +61,11 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 # News
+https://dev.to/tangramvision/what-they-don-t-tell-you-about-setting-up-a-wireguard-vpn-1h2g
+
+https://github.com/ciniml/WireGuard-ESP32-Arduino
+> https://news.ycombinator.com/item?id=34171406
+
 https://github.com/rishavnandi/ansible_selfhost_vpn
 > https://www.reddit.com/r/ansible/comments/zsoask/a_simple_ansible_playbook_to_setup_a_self_hosted/
 

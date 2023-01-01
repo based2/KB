@@ -14,6 +14,8 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://blogs.oracle.com/developers/post/building-the-worlds-largest-raspberry-pi-cluster
+
 https://blog.cavelab.dev/2022/12/rpi-security-alarm/
 > https://news.ycombinator.com/item?id=34191749
 

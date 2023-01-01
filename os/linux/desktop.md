@@ -78,6 +78,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://linuxfr.org/news/xfce-4-18-est-sorti
+
+https://blog.liw.fi/posts/2022/goalposts/
+> https://news.ycombinator.com/item?id=34206055
+
 https://news.itsfoss.com/maui-shell-unveiled/
 
 https://streaming.media.ccc.de/jev22/relive/49255 Write a Wayland Compositor

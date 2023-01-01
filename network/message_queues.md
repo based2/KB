@@ -86,6 +86,8 @@ https://github.com/confluentinc/parallel-consumer
 
 https://medium.com/wix-engineering/migrating-to-a-multi-cluster-managed-kafka-with-0-downtime-b936655f888e
 
+https://github.com/cjhanks/Kafka-NSPAWN
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

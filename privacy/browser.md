@@ -17,6 +17,8 @@ https://mcaptcha.org/ AGPL, rust
 https://github.com/wenlng/go-captcha
   
 # News
+https://events.in.gov/event/attorney_general_todd_rokita_secures_20_million_settlement_with_google_under_same_indiana_law_being_used_against_tiktok
+
 https://news.ycombinator.com/item?id=34095258 bing
 
 https://news.ycombinator.com/item?id=34032484

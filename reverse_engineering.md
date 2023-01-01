@@ -24,6 +24,8 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://blog.the.al/2023/01/01/ds4-reverse-engineering.html
+
 https://mijailovic.net/2022/12/25/hkpropel/
 > https://news.ycombinator.com/item?id=34125958
 

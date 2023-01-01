@@ -246,6 +246,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/
+
 https://generallyintelligent.com/avalon/
 
 https://www.amazon.science/blog/in-reinforcement-learning-slower-networks-can-learn-faster
