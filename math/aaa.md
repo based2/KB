@@ -112,6 +112,9 @@ https://notepadcalculator.com/
 > https://news.ycombinator.com/item?id=34153883
 
 # News
+https://mafs.dev/
+> https://news.ycombinator.com/item?id=34214896
+
 https://en.m.wikipedia.org/wiki/Lie_group
 
 https://home.sandiego.edu/~shulman/papers/jmm2022-complementary.pdf Complementary foundations for mathematics: when do we choose?

@@ -97,3 +97,8 @@ https://felixkreuk.github.io/text2audio_arxiv_samples/
 
 https://murf.ai/
 > https://news.ycombinator.com/item?id=34204073
+
+https://news.ycombinator.com/item?id=34211457
+> https://github.com/neonbjb/tortoise-tts
+
+https://news.ycombinator.com/item?id=34217252

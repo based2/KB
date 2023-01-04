@@ -63,6 +63,10 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.tbray.org/ongoing/When/202x/2022/12/30/Mastodon-Privacy-and-Search
+
+https://news.ycombinator.com/item?id=34219422
+
 https://noahpinion.substack.com/p/the-internet-wants-to-be-fragmented
 > https://news.ycombinator.com/item?id=34205828
 

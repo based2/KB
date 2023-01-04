@@ -38,6 +38,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/noborus/ov pager
+> https://news.ycombinator.com/item?id=34242275
+
 https://thevaluable.dev/guide-terminal-shell-console/
 > https://news.ycombinator.com/item?id=34146212
 

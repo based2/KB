@@ -1,3 +1,14 @@
+
+https://github.com/ARPSyndicate/awesome-intelligence
+> https://news.ycombinator.com/item?id=34245102
+
+https://words.filippo.io/dispatches/go-1-20-cryptography/
+> https://news.ycombinator.com/item?id=34247615
+
+https://palant.info/2023/01/02/south-koreas-online-security-dead-end/
+
+https://objective-see.org/blog/blog_0x71.html
+
 https://gizmodo.com/black-hat-what-to-do-big-tech-company-steals-your-code-1849378076?mc_cid=c31e4596be
 
 https://pytorch.org/blog/compromised-nightly-dependency/

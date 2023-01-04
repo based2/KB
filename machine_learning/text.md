@@ -5,6 +5,15 @@ https://explosion.ai/blog/coref
 https://explosion.ai/blog/floret-vectors
 
 # News
+https://github.com/jaketae/storyteller
+
+https://news.ycombinator.com/item?id=34219812
+
+https://www.ycombinator.com/launches/HiY-chatsonic-like-chatgpt-but-with-real-time-data-images-voice-search
+> https://news.ycombinator.com/item?id=34209768
+
+https://metaroids.com/news/an-open-source-version-of-chatgpt-is-coming/
+
 https://github.com/lucidrains/PaLM-rlhf-pytorch
 
 https://news.ycombinator.com/item?id=34181339

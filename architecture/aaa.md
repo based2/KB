@@ -250,6 +250,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/
+> https://news.ycombinator.com/item?id=34221157
+
 https://media.ccc.de/v/archunit-software-architektur-bewahren
 
 https://news.ycombinator.com/item?id=33962478

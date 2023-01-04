@@ -66,6 +66,8 @@ https://andys.page/posts/how-to-draw/
 https://rentry.co/sdupdates list
 > https://news.ycombinator.com/item?id=33416632
 
+https://github.com/godly-devotion/mochi-diffusion
+
 https://github.com/justjake/Gauss osx
 > https://news.ycombinator.com/item?id=34157363
 
@@ -273,6 +275,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://exposing.ai/megaface/
+> https://news.ycombinator.com/item?id=34213036
+
 https://blog.aqnichol.com/2022/12/31/large-scale-vehicle-classification/
 > https://news.ycombinator.com/item?id=34200883
 

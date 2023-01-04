@@ -246,6 +246,9 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/bigscience-workshop/petals
+> https://news.ycombinator.com/item?id=34215665
+
 https://gigasquidsoftware.com/blog/2022/12/31/vector-symbolic-architectures-in-clojure/
 
 https://generallyintelligent.com/avalon/

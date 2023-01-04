@@ -1,3 +1,6 @@
+https://www.cppstories.com/2022/cpp-status-2022/
+> https://news.ycombinator.com/item?id=34213200
+
 https://github.com/pebal/sgcl real-time Garbage Collector for C++
 > https://news.ycombinator.com/item?id=34181484
 

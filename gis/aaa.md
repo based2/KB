@@ -215,6 +215,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://sepal.io/ google earth, gcp
+> https://github.com/openforis/sepal
+
 https://oceanservice.noaa.gov/geodesy/international-foot.html
 > https://news.ycombinator.com/item?id=34184903
 

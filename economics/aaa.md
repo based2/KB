@@ -177,6 +177,9 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://commoncog.com/cash-flow-games/
+> https://news.ycombinator.com/item?id=34190849
+
 https://www.bbc.com/news/business-64004673
 > https://news.ycombinator.com/item?id=34018332
 

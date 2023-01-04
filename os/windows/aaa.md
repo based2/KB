@@ -140,6 +140,12 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://gabrielsieben.tech/2023/01/02/debloating-windows-10-with-one-command-and-no-scripts/
+> https://news.ycombinator.com/item?id=34221653
+
+https://ntdotdev.wordpress.com/2023/01/01/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-11/
+> https://news.ycombinator.com/item?id=34216619
+
 https://news.ycombinator.com/item?id=34143197
 
 https://legacyupdate.net/

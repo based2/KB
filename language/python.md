@@ -141,6 +141,8 @@ https://arxiv.org/abs/2208.14755 Python Type Hints are Turing Complete
 https://github.com/keithasaurus/koda-validate
 > https://news.ycombinator.com/item?id=33331791
 
+https://github.com/microsoft/pyright
+
 # Security
 https://pypi.org/project/pip-audit/
 
@@ -254,6 +256,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://sethmlarson.dev/urllib3-in-2022
+> https://news.ycombinator.com/item?id=34245853
+
 https://www.splitgraph.com/blog/poetry-dependency-resolver-sudoku
 
 https://mostlypython.substack.com/p/why-im-still-using-python

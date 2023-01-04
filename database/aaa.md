@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://ottertune.com/blog/2022-databases-retrospective/
+> https://news.ycombinator.com/item?id=34220524
+
 https://github.com/marsupialtail/quokka/blob/master/blog/why.md Why I wrote a SQL engine in (only) Python
 > https://news.ycombinator.com/item?id=34189422
 

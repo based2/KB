@@ -138,6 +138,9 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 # News
+https://baida.dev/articles/https-explained-with-carrier-pigeons
+> https://news.ycombinator.com/item?id=34194112
+
 https://undeadly.org/cgi?action=article;sid=20221212183516
 
 https://words.filippo.io/dispatches/openssl-punycode/

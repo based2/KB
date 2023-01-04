@@ -102,6 +102,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://jesseduffield.com/Type-Keys/
+> https://news.ycombinator.com/item?id=34216761
+
 https://interpreterbook.com/
 > https://news.ycombinator.com/item?id=34203622
 

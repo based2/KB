@@ -236,6 +236,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://terrateam.io/blog/flying-away-from-aws
+> https://news.ycombinator.com/item?id=34238150
+
 https://gitlab.com/sylva-projects/sylva/-/blob/main/White_Paper_Operators_Sylva.pdf telco eu caas
 
 https://www.lockedinspace.com/posts/001.html

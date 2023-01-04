@@ -336,6 +336,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://512pixels.net/2022/12/whats-left-in-the-apple-silicon-transition/
+> https://news.ycombinator.com/item?id=34189661
+
 https://morrick.me/archives/9696 Mac OS Ventura Issues
 > https://news.ycombinator.com/item?id=34199652
 
