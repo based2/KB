@@ -14,3 +14,5 @@ https://github.com/martinSusz/rkdeveloptool/wiki/Generating--quasi-reproducible-
 
 https://libreboot.org/news/libreboot20221214.html
 > https://news.ycombinator.com/item?id=33996015
+
+https://mjg59.dreamwidth.org/63787.html

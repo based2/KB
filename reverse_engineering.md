@@ -24,6 +24,11 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://www.bunniestudios.com/blog/?p=6656
+
+https://medium.com/tenable-techblog/g-3po-a-protocol-droid-for-ghidra-4b46fa72f1ff
+> https://news.ycombinator.com/item?id=34250872
+
 https://www.righto.com/2023/01/inside-8086-processors-instruction.html
 > https://news.ycombinator.com/item?id=34221374
 

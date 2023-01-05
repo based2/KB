@@ -82,6 +82,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://news.ycombinator.com/item?id=34245386
+
 https://arstechnica.com/science/2023/01/companies-are-relying-on-quantum-annealers-for-useful-computations/
 
 https://spectrum.ieee.org/ibm-condor

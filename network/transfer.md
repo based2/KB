@@ -62,4 +62,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S1570870522002128
 https://www.seafile.com/en/home/
 > https://linuxfr.org/news/seafform-version-0-6-formulaires-integres-avec-seafile
 
+https://www.linuxjournal.com/content/fault-tolerant-sftp-scripting-retry-failed-transfers-automatically
+> https://news.ycombinator.com/item?id=34250184
+
 

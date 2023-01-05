@@ -261,6 +261,9 @@ https://github.com/ufuu/JDK10 1.0
 > https://news.ycombinator.com/item?id=27163964
 > https://www.reddit.com/r/java/comments/nd3xfp/java_version_11_jdk_10_and_very_early_java/
 
+https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
+> https://news.ycombinator.com/item?id=34255996
+
 # News
 https://www.infoq.com/articles/java-jvm-trends-2022/
 

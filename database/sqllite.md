@@ -106,6 +106,18 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs
+
+https://til.simonwillison.net/sqlite/geopoly
+
+https://fly.io/blog/wal-mode-in-litefs/
+> https://news.ycombinator.com/item?id=34247738
+
+https://changelog.com/podcast/201
+> https://news.ycombinator.com/item?id=34258858
+
+https://litesync.io/en/index.html
+
 https://misfra.me/2022/sqlite-automatic-indexes/
 
 https://www.compileralchemy.com/books/sqlite-internals/

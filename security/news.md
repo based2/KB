@@ -1,3 +1,4 @@
+https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/
 
 https://github.com/ARPSyndicate/awesome-intelligence
 > https://news.ycombinator.com/item?id=34245102

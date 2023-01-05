@@ -51,6 +51,9 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://github.com/open-source-labs/Svelvet
+> https://news.ycombinator.com/item?id=34265781
+
 https://github.com/AlexeyBoiko/DgrmJS
 
 https://d2lang.com/tour/intro/

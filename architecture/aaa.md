@@ -151,6 +151,11 @@ https://netflixtechblog.com/seeing-through-hardware-counters-a-journey-to-threef
 https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35
 > https://news.ycombinator.com/item?id=33921731
 
+https://siboehm.com/articles/22/CUDA-MMM
+
+https://jott.live/markdown/1.5tflop_m1
+> https://news.ycombinator.com/item?id=34259213
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -250,6 +255,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://siboehm.com/articles/22/CUDA-MMM
+> https://news.ycombinator.com/item?id=34256392
+
 https://www.bitsaboutmoney.com/archive/the-infrastructure-behind-atms/
 > https://news.ycombinator.com/item?id=34221157
 

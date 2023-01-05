@@ -25,6 +25,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://www.autohotkey.com/v2/
+> https://news.ycombinator.com/item?id=34248234
+
 https://github.com/NixOS/nixops
 
 https://kcl-lang.io/

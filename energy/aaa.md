@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.pv-magazine.com/2023/01/02/residential-thermo-acoustic-heat-pump-produces-water-up-to-80-c/
+> https://news.ycombinator.com/item?id=34233719
+
 https://www.cell.com/joule/fulltext/S2542-4351(22)00410-X
 
 https://www.theregister.com/2022/12/16/gates_nuclear_power_russia/?td=keepreading

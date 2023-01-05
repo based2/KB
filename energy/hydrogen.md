@@ -25,6 +25,8 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://actu.epfl.ch/news/a-step-towards-solar-fuels-out-of-thin-air/
+
 https://spectrum.ieee.org/electrolysis-of-seawater
 > 
 

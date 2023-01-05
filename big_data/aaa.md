@@ -265,6 +265,8 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://www.aqueducthq.com/post/stop-using-airflow-for-data-science
+
 https://openforis.org/ Free open-source solutions for environmental monitoring, rstudio, java
 
 https://medium.com/@omarlaraqui/build-efficient-tests-for-your-spark-data-pipeline-using-bdds-with-cucumber-61f1bdc08faf

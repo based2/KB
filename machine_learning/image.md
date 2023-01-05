@@ -275,6 +275,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://ahrm.github.io/jekyll/update/2023/01/02/three-eyed-forehead.html
+> https://news.ycombinator.com/item?id=34229786
+
 https://exposing.ai/megaface/
 > https://news.ycombinator.com/item?id=34213036
 

@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://planetscale.com/blog/faster-mysql-with-http3
+> https://news.ycombinator.com/item?id=34247817
+
 https://ottertune.com/blog/2022-databases-retrospective/
 > https://news.ycombinator.com/item?id=34220524
 

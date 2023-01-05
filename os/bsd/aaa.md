@@ -191,6 +191,9 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://www.dragonflybsd.org/release64/
+> https://news.ycombinator.com/item?id=34253409
+
 https://blog.netbsd.org/tnf/entry/reproducible_builds_summit_venice_2022
 > https://news.ycombinator.com/item?id=34216218
 

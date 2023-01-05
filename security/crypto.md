@@ -120,8 +120,13 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://gist.github.com/juliusgeo/969c722b2152e53e4f6bb94ca2696c7a
+> https://news.ycombinator.com/item?id=34247340
+
 https://www.schneier.com/blog/archives/2023/01/breaking-rsa-with-a-quantum-computer.html
 > https://news.ycombinator.com/item?id=34235350
+> > https://scottaaronson.blog/?p=6957
+> > > https://news.ycombinator.com/item?id=34260124
 
 https://blog.janestreet.com/zero-knowledge-fpgas-hardcaml/
 

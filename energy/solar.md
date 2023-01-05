@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.caltech.edu/about/news/caltech-to-launch-space-solar-power-technology-demo-into-orbit-in-january
+> https://news.ycombinator.com/item?id=34263601
+
 https://www.helmholtz-berlin.de/pubbin/news_seite?nid=24348&sprache=en&seitenid=1
 > https://news.ycombinator.com/item?id=34055981
 

@@ -37,6 +37,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://randthoughts.github.io/i-tried-paragons-ntfs3-and-it-didnt-go-well/
+> https://news.ycombinator.com/item?id=34264522
+
 http://elm-chan.org/fsw/ff/00index_e.html FatFs – Generic FAT Filesystem Module
 > https://news.ycombinator.com/item?id=34210076
 

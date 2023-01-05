@@ -414,6 +414,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://serokell.io/blog/rust-generics
+> https://news.ycombinator.com/item?id=34243644
+
 https://www.forrestthewoods.com/blog/should-small-rust-structs-be-passed-by-copy-or-by-borrow/
 > https://news.ycombinator.com/item?id=34196294
 

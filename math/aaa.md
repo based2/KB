@@ -112,6 +112,9 @@ https://notepadcalculator.com/
 > https://news.ycombinator.com/item?id=34153883
 
 # News
+https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/
+> https://news.ycombinator.com/item?id=34236889
+
 https://mafs.dev/
 > https://news.ycombinator.com/item?id=34214896
 

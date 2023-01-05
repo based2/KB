@@ -68,3 +68,6 @@ https://gitlab.com/traffxml
 https://news.ycombinator.com/item?id=33558072
 
 https://news.ycombinator.com/item?id=33897943
+
+https://shiftrobotics.io/
+> https://news.ycombinator.com/item?id=34264406

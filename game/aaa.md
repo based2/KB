@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://store.epicgames.com/en-US/p/kerbal-space-program
+> https://news.ycombinator.com/item?id=34265392
+
 https://github.com/linleyh/liberation-circuit
 
 https://charperbonaroo.github.io/bls/#0 Bitmap Logic Simulator

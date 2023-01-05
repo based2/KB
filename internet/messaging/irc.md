@@ -28,4 +28,7 @@ https://github.com/ergochat/ergo
 
 https://matt-rickard.com/the-fall-of-freenode
 
+https://rachelbythebay.com/w/2021/05/26/irc/
+> https://news.ycombinator.com/item?id=34249908
+
 

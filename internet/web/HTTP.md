@@ -157,6 +157,9 @@ https://www.infoq.com/presentations/facebook-quic-http3/
 
 https://blog.cloudflare.com/cloudflare-gateway-http3-inspection/
 
+https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/
+> https://news.ycombinator.com/item?id=34231934
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

@@ -102,6 +102,8 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://mtlynch.io/book-reports/go-programming-blueprints/
+
 https://jesseduffield.com/Type-Keys/
 > https://news.ycombinator.com/item?id=34216761
 

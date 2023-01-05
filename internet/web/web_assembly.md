@@ -76,6 +76,12 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://00f.net/2023/01/04/webassembly-benchmark-2023/
+> https://news.ycombinator.com/item?id=34252268
+
+https://www.vimonlineeditor.com/
+> https://news.ycombinator.com/item?id=34262825
+
 https://news.ycombinator.com/item?id=34217938
 
 https://dioxuslabs.com/

@@ -25,8 +25,10 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
-https://github.com/skuep/AIOC
+https://hackaday.com/2023/01/04/all-about-usb-c-resistors-and-emarkers/
+> https://news.ycombinator.com/item?id=34246785
 
+https://github.com/skuep/AIOC
 
 https://hackaday.com/2022/12/31/dirty-usb-c-tricks-one-port-for-the-price-of-two/
 > https://news.ycombinator.com/item?id=34203880

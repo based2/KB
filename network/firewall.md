@@ -47,6 +47,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://gist.github.com/hamid-rostami/5ed34fe1948f40685f7035de36be7035
+> https://news.ycombinator.com/item?id=34264083
+
 https://blog.ipfire.org/post/ipfire-2-27-core-update-172-released
 
 https://www.wundertech.net/pfsense-vs-opnsense/
