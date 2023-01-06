@@ -63,6 +63,9 @@ https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 ## Stable diffusion
 https://andys.page/posts/how-to-draw/
 
+https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/
+> https://news.ycombinator.com/item?id=34266221
+
 https://rentry.co/sdupdates list
 > https://news.ycombinator.com/item?id=33416632
 

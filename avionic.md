@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 # News
+https://www.mt-propeller.com/en/entw/about_firsts.htm#11
+> https://news.ycombinator.com/item?id=34279625
+
 https://www.ncei.noaa.gov/news/airport-runway-names-shift-magnetic-field
 > https://news.ycombinator.com/item?id=34177252
 

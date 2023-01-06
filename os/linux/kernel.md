@@ -12,6 +12,8 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
 # News
+https://lwn.net/Articles/915728/ The intersection of shadow stacks and CRIU
+
 https://cgit.freedesktop.org/~dvdhrm/kmscon/plain/README
 
 https://www.theregister.com/2022/12/20/kernel_62_fs_improvements/

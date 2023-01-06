@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://newscenter.lbl.gov/2023/01/03/cool-new-method-of-refrigeration/
+> https://news.ycombinator.com/item?id=34265084
+
 https://www.pv-magazine.com/2023/01/02/residential-thermo-acoustic-heat-pump-produces-water-up-to-80-c/
 > https://news.ycombinator.com/item?id=34233719
 

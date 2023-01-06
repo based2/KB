@@ -127,6 +127,12 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://news.ycombinator.com/item?id=34266158
+
+https://advancedwireless.org/salt-lake-city/
+
+https://powderwireless.net/
+
 https://techcrunch.com/2023/01/05/delta-launches-free-wifi/
 
 https://media.ccc.de/v/chaos-we-2022-6-selfnet-von-a-bis-z-ohne-internet-ist-alles-doof#t=20

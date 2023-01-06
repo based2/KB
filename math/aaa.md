@@ -111,7 +111,17 @@ https://mainichi.jp/english/articles/20220916/p2a/00m/0sc/017000c
 https://notepadcalculator.com/
 > https://news.ycombinator.com/item?id=34153883
 
+https://inversethought.com/jordi/mark1.pdf
+
 # News
+https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html
+> https://news.ycombinator.com/item?id=34277908
+
+https://hypertextbook.com/chaos/
+> https://news.ycombinator.com/item?id=34244977
+
+https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-design-our-cells
+
 https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/
 > https://news.ycombinator.com/item?id=34236889
 

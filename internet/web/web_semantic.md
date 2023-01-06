@@ -10,6 +10,8 @@ https://github.com/datafoodconsortium
 > https://linuxfr.org/news/le-dfc-met-en-place-un-outil-collaboratif-pour-faciliter-la-gestion-communautaire-de-ses-thesaurus
 
 #
+https://news.ycombinator.com/item?id=34275951
+
 http://vocbench.uniroma2.it/
 
 http://semanticturkey.uniroma2.it/

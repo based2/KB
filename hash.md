@@ -77,6 +77,8 @@ https://planetscale.com/blog/why-we-chose-nanoids-for-planetscales-api
 https://blog.daveallie.com/ulid-primary-keys
 > https://news.ycombinator.com/item?id=34175639
 
+https://yadukrishnan.live/ulid-sortable-unique-identifier
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

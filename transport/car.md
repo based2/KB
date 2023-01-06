@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://arstechnica.com/cars/2023/01/mercedes-benz-to-build-an-ev-fast-charging-network-starting-in-the-us/
+> https://news.ycombinator.com/item?id=34274942
+
 https://wkk.usa.mybluehost.me/mazda-just-proved-that-synthetic-fuels-could-be-the-future/
 > https://news.ycombinator.com/item?id=34217752
 

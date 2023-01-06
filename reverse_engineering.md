@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://blog.the.al/2023/01/01/ds4-reverse-engineering.html
+> https://news.ycombinator.com/item?id=34257935
+
 https://www.bunniestudios.com/blog/?p=6656
 
 https://medium.com/tenable-techblog/g-3po-a-protocol-droid-for-ghidra-4b46fa72f1ff

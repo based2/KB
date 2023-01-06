@@ -256,6 +256,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://martinheinz.dev/blog/88
+
+https://snarky.ca/classifying-python-virtual-environment-workflows/
+
+https://www.petermcconnell.com/posts/perf_eng_with_py12/
+
 https://sethmlarson.dev/urllib3-in-2022
 > https://news.ycombinator.com/item?id=34245853
 

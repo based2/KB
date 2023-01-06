@@ -33,6 +33,9 @@ https://x11cp.org/
 https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/
 > https://news.ycombinator.com/item?id=29091070
 
+https://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html
+> https://news.ycombinator.com/item?id=34271321
+
 # Audio
 
 # Printer
@@ -78,6 +81,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.logikalsolutions.com/wordpress/information-technology/kde-abandonware/
+> https://lobste.rs/s/rkh5ju/kde_abandonware
+
 https://linuxfr.org/news/xfce-4-18-est-sorti
 
 https://blog.liw.fi/posts/2022/goalposts/

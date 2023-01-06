@@ -1,3 +1,14 @@
+https://vigilance.fr/vulnerabilite/FortiManager-elevation-de-privileges-via-Passwordless-Admin-40219
+
+https://blog.abdulrah33m.com/prototype-pollution-in-python/
+> https://lobste.rs/s/yvwhlv/prototype_pollution_python
+
+https://www.theregister.com/2023/01/05/twitter_leak_200m_accounts/
+
+https://www.theregister.com/2023/01/06/flaws_rust_projects_ddos/
+
+https://www.theregister.com/2023/01/06/jp_morgan_lawsuit_essilor/
+
 https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/
 
 https://github.com/ARPSyndicate/awesome-intelligence

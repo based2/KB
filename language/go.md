@@ -102,6 +102,11 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://threedots.tech/post/list-of-recommended-libraries/
+
+https://pushup.adhoc.dev/
+> https://lobste.rs/s/6cmwxd/pushup_page_oriented_web_framework_for_go
+
 https://mtlynch.io/book-reports/go-programming-blueprints/
 
 https://jesseduffield.com/Type-Keys/

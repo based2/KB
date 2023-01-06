@@ -9,6 +9,9 @@ https://www.multipath-tcp.org/
 > https://news.ycombinator.com/item?id=33220975
 
 # News
+https://rachelbythebay.com/w/2023/01/05/syscall/
+> https://news.ycombinator.com/item?id=34271215
+
 https://withinboredom.info/blog/2023/01/03/the-cargo-cult-of-tcp_nodelay-when-to-use-it/
 > https://news.ycombinator.com/item?id=34239656
 

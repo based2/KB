@@ -47,6 +47,9 @@ https://www.bookstackapp.com/ php
 https://news.ycombinator.com/item?id=30392849
 
 # News
+https://arstechnica.com/tech-policy/2023/01/wikipedia-admin-jailed-for-32-years-after-alleged-saudi-spy-infiltration/
+> https://news.ycombinator.com/item?id=34278322
+
 https://botsin.space/@congressedits
 
 https://news.ycombinator.com/item?id=33842406

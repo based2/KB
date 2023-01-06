@@ -2,6 +2,9 @@ https://github.com/google/AFL
 
 https://github.com/dogancanbakir/pirebok
 
+https://github.com/dpanic/fuzzer
+> https://news.ycombinator.com/item?id=34282390
+
 https://tlakh.xyz/fuzzing-ping.html
 
 https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html

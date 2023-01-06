@@ -28,6 +28,8 @@ https://copilot.github.com/
     https://github.com/github/copilot-docs/tree/main/docs
     > https://news.ycombinator.com/item?id=29016506
 
+https://twitter.com/svpino/status/1611357154514186241
+
 https://githubcopilotinvestigation.com/
 > https://news.ycombinator.com/item?id=33240341
 

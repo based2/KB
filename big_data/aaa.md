@@ -265,6 +265,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local
+> https://news.ycombinator.com/item?id=34265206
+
 https://www.aqueducthq.com/post/stop-using-airflow-for-data-science
 
 https://openforis.org/ Free open-source solutions for environmental monitoring, rstudio, java

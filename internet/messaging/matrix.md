@@ -12,6 +12,8 @@ https://libli.org/
 > https://news.ycombinator.com/item?id=30586171
  
 #
+https://news.ycombinator.com/item?id=34278361
+
 https://github.com/matrix-org/matrix.org/commit/01ab983f58adb18440f16b9bfa9e3633ab8a60da
 
 https://matrix.org/blog/2022/11/17/matrix-v-1-5-release

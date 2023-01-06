@@ -34,6 +34,8 @@ https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured
 > https://news.ycombinator.com/item?id=33297000
 
 #
+https://news.microsoft.com/europe/2023/01/05/consistent-global-pricing-for-the-microsoft-cloud/
+
 https://blogs.microsoft.com/eupolicy/2022/12/15/eu-data-boundary-cloud-rollout/
 
 https://news.ycombinator.com/item?id=33572390 Tell HN: Domain fronting to be blocked on Azure

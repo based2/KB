@@ -109,6 +109,12 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://www.enworld.org/threads/hello-i-am-lawyer-with-a-psa-almost-everyone-is-wrong-about-the-ogl-and-srd-clearing-up-confusion.694192/
+> https://news.ycombinator.com/item?id=34271687
+
+https://github.com/zladx/LADX-Disassembly/wiki/Game-engine-documentation
+> https://news.ycombinator.com/item?id=34269742
+
 https://u3d.io/
 
 https://godotengine.org/article/2022-retrospective

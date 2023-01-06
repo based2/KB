@@ -414,6 +414,15 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # News
+https://www.jernesto.com/articles/who_needs_haskell.html
+> https://news.ycombinator.com/item?id=34275856
+
+https://quick-lint-js.com/blog/cpp-vs-rust-build-times/
+> https://news.ycombinator.com/item?id=34271293
+
+https://marabos.nl/atomics/
+> https://news.ycombinator.com/item?id=34271739
+
 https://serokell.io/blog/rust-generics
 > https://news.ycombinator.com/item?id=34243644
 

@@ -154,6 +154,9 @@ https://github.com/wildarch/jepsen.rqlite/blob/main/doc/blog.md
 
 https://github.com/logsem/aneris coq, ocaml
 
+https://p-org.github.io/P/whatisP/
+> https://news.ycombinator.com/item?id=34273979
+
 # concurrencyngs
 
 # News
