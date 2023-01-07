@@ -139,6 +139,8 @@ https://github.com/JamesWoolfenden/pike
 
 https://news.ycombinator.com/item?id=34038663
 
+https://medium.com/@senior-devops/terraform-without-wrappers-in-multi-region-multi-account-environments-33aacb56ed26
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -155,9 +157,16 @@ https://www.reddit.com/r/AZURE/comments/yy772q/manage_azure_policy_with_terrafor
 
 https://thesaadahmed.medium.com/a-basic-ci-cd-pipeline-for-infrastructure-as-a-code-in-azure-devops-84393a57137c
 
+# GCP
+https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b63245e31a88
+
+# K8s
+https://github.com/jrhouston/tfk8s
+
 # News
+https://blog.tinystacks.com/tools-for-managing-terraform-drift
+
 https://www.reddit.com/r/Terraform/comments/zxbhyh/introducing_tfmodulecom_a_stand_alone_private/
-> 
 
 https://itnext.io/pains-in-terraform-collaboration-249a56b4534e
 

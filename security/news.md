@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/toyota-mercedes-bmw-api-flaws-exposed-owners-personal-info/
+
 https://vigilance.fr/vulnerabilite/FortiManager-elevation-de-privileges-via-Passwordless-Admin-40219
 
 https://blog.abdulrah33m.com/prototype-pollution-in-python/
@@ -9,7 +11,8 @@ https://www.theregister.com/2023/01/06/flaws_rust_projects_ddos/
 
 https://www.theregister.com/2023/01/06/jp_morgan_lawsuit_essilor/
 
-https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/
+https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/ ###
+> https://news.ycombinator.com/item?id=34265805
 
 https://github.com/ARPSyndicate/awesome-intelligence
 > https://news.ycombinator.com/item?id=34245102

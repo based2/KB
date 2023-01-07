@@ -60,6 +60,8 @@ https://thisxdoesnotexist.com/
 # text2img
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
+https://muse-model.github.io/
+
 ## Stable diffusion
 https://andys.page/posts/how-to-draw/
 
@@ -278,6 +280,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://medium.com/voxel51/fiftyone-computer-vision-labels-tips-and-tricks-jan-06-2023-2d08eedab7f4
+
 https://ahrm.github.io/jekyll/update/2023/01/02/three-eyed-forehead.html
 > https://news.ycombinator.com/item?id=34229786
 

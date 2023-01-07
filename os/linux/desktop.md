@@ -81,6 +81,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://twitter.com/plagman2/status/1610200412854046720
+
 https://www.logikalsolutions.com/wordpress/information-technology/kde-abandonware/
 > https://lobste.rs/s/rkh5ju/kde_abandonware
 

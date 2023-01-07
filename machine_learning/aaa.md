@@ -246,6 +246,10 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit
+
+https://news.ycombinator.com/item?id=34268432
+
 https://github.com/bigscience-workshop/petals
 > https://news.ycombinator.com/item?id=34215665
 

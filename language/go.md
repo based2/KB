@@ -102,6 +102,8 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://github.com/golang/go/issues/57644
+
 https://threedots.tech/post/list-of-recommended-libraries/
 
 https://pushup.adhoc.dev/

@@ -220,6 +220,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://www.epochalypse.today/
+> https://news.ycombinator.com/item?id=34284759
+
 https://research.redhat.com/events/toward-knowledge-driven-system-management-to-control-timeliness/
 
 https://www.sundialzone.com/en/sundial

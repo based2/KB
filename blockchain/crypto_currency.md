@@ -23,6 +23,13 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=34254377
+
+https://www.reuters.com/technology/who-is-alex-mashinsky-man-behind-alleged-celsius-crypto-fraud-2023-01-05/
+
+https://decrypt.co/118573/mutant-ape-planet-multiple-nft-rug-pulls
+> https://news.ycombinator.com/item?id=34283652
+
 https://www.wired.com/story/what-is-pig-butchering-scam/
 
 https://news.ycombinator.com/item?id=34273366

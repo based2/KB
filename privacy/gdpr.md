@@ -73,6 +73,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=34277412
+
 https://gdprhub.eu/index.php?title=Welcome_to_GDPRhub
 
 https://theintercept.com/2022/09/07/facebook-personal-data-no-accountability/

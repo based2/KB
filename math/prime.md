@@ -19,3 +19,6 @@ https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numb
 
 https://www.quantamagazine.org/graduate-students-side-project-proves-prime-number-conjecture-20220606/
 > https://news.ycombinator.com/item?id=31640297
+
+https://wvsant.blogspot.com/2022/12/tiny-prime-combinations.html
+> https://news.ycombinator.com/item?id=34259001

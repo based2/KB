@@ -280,6 +280,8 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://news.ycombinator.com/item?id=34274609
+
 https://news.ycombinator.com/item?id=34279062
 
 https://arun.is/blog/desk-setup/

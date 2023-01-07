@@ -126,6 +126,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://news.ycombinator.com/item?id=34264467
+
+https://news.ycombinator.com/item?id=34257818
+
 https://news.ycombinator.com/item?id=34255189
 
 https://billychasen.medium.com/twilios-toll-fraud-problem-28b3aef39243

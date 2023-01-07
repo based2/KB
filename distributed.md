@@ -77,6 +77,8 @@ https://josephg.com/blog/crdts-go-brrr/
 https://supabase.com/blog/postgres-crdt
 > https://news.ycombinator.com/item?id=33931971
 
+https://arxiv.org/abs/2210.12605
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913
