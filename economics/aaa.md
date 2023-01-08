@@ -180,6 +180,8 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://prospect.org/world/best-tax-system-on-earth-faroe-islands/
+
 https://commoncog.com/cash-flow-games/
 > https://news.ycombinator.com/item?id=34190849
 

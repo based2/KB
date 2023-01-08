@@ -109,6 +109,12 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://www.traffickinggame.com/ai-assisted-graphics/
+> https://news.ycombinator.com/item?id=34299111
+
+https://nullprogram.com/blog/2023/01/08/
+> https://news.ycombinator.com/item?id=34295328
+
 https://www.enworld.org/threads/hello-i-am-lawyer-with-a-psa-almost-everyone-is-wrong-about-the-ogl-and-srd-clearing-up-confusion.694192/
 > https://news.ycombinator.com/item?id=34271687
 

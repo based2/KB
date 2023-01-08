@@ -120,6 +120,8 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 https://jvns.ca/blog/2018/01/28/mac-freeze/
 
 # VM
+https://github.com/utmapp/UTM/releases/tag/v4.1.5
+
 https://eclecticlight.co/2022/12/28/macos-virtualisation-refactored-and-sandboxed-in-viable-updates/
 > https://news.ycombinator.com/item?id=34161272
 

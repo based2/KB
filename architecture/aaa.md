@@ -255,6 +255,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.mooreds.com/wordpress/archives/3578
+
 https://siboehm.com/articles/22/CUDA-MMM
 > https://news.ycombinator.com/item?id=34256392
 

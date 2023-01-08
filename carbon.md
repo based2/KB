@@ -67,6 +67,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.euronews.com/green/2022/08/19/on-your-bike-if-we-all-cycled-like-the-dutch-global-emissions-drop-nearly-700-million-tonn
+> https://news.ycombinator.com/item?id=34297799
+
 https://media.ccc.de/v/petit-foo-co2ampel
 
 https://www.technologyreview.com/2022/12/24/1066041/a-startup-says-its-begun-releasing-particles-into-the-atmosphere-in-an-effort-to-tweak-the-climate/

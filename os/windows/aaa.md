@@ -108,6 +108,9 @@ https://news.ycombinator.com/item?id=29278370
        where /r .\ file_to_find.md
 
 # WSL
+* WSL 1 implements the feature by ABI emulation.
+* WSL 2 runs the real Linux kernel using the hardware-accelerated virtualization (Hyper-V).
+
 https://github.com/mintty/wsltty
 
 https://github.com/nullpo-head/wsl-distrod

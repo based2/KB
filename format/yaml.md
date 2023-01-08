@@ -10,3 +10,5 @@ https://nestedtext.org/en/latest/alternatives.html#yaml
 
 https://hitchdev.com/strictyaml/
 > https://news.ycombinator.com/item?id=31965395
+
+https://github.com/xinau/awesome-cue

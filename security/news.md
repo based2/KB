@@ -1,3 +1,31 @@
+https://labs.guard.io/masquerads-googles-ad-words-massively-abused-by-threat-actors-targeting-organizations-gpus-42ae73ee8a1e
+
+https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys
+
+https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-proofs/
+
+https://github.com/jafarlihi/connmap
+
+https://fourcore.io/blogs/bring-your-own-vulnerable-driver-attack
+
+https://archcloudlabs.com/projects/cve-2022-46330/ windows
+
+https://worthdoingbadly.com/macappsios/
+> https://news.ycombinator.com/item?id=34292795
+
+https://www.microsoft.com/en-us/security/blog/2023/01/05/unraveling-the-techniques-of-mac-ransomware/
+> https://objective-see.org/downloads/MacMalware_2022.pdf
+
+https://github.com/volution/z-tokens
+
+https://alexplaskett.github.io/macos-ios-security-research/
+
+https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/
+
+https://www.bleepingcomputer.com/news/security/air-france-and-klm-notify-customers-of-account-hacks/
+
+https://semiengineering.com/how-secure-are-risc-v-chips/
+
 https://www.bleepingcomputer.com/news/security/toyota-mercedes-bmw-api-flaws-exposed-owners-personal-info/
 
 https://vigilance.fr/vulnerabilite/FortiManager-elevation-de-privileges-via-Passwordless-Admin-40219

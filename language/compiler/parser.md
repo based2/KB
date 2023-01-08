@@ -23,3 +23,5 @@ https://news.ycombinator.com/item?id=34092352
 
 https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser
 > https://news.ycombinator.com/item?id=31311218
+
+https://dl.acm.org/doi/abs/10.1145/3385412.3386032

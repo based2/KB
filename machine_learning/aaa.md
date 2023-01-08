@@ -204,6 +204,9 @@ https://busy-beavers.tigyog.app/rice
 https://taylor.town/synthetic-intelligence
 > https://news.ycombinator.com/item?id=33920514
 
+https://www.frontiersin.org/articles/10.3389/fevo.2021.806283/full
+> https://news.ycombinator.com/item?id=34297771
+
 ##
 https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemiologic_research.8.aspx
 > https://news.ycombinator.com/item?id=31037416
@@ -246,6 +249,8 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
 # News
+https://github.com/lightvector/KataGo/releases/tag/v1.12.0
+
 https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit
 
 https://news.ycombinator.com/item?id=34268432

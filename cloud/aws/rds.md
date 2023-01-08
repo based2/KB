@@ -23,6 +23,8 @@ https://jayendrapatil.com/rds-read-replicas/
 https://www.securekloud.com/image/white-papers/SecureKloud_Exploring-Amazon-RDS-MySQL-Second-Tier-Read-Replica.pdf
 
 # News
+https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/blue-green-deployments.html
+
 https://geopet85.github.io/2022/05/15/rds-partitioned-tables-export.html
 > https://news.ycombinator.com/item?id=31389442
 

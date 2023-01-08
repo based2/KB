@@ -127,6 +127,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://knowablemagazine.org/article/technology/2022/fiber-optics-take-pulse-planet
+> https://news.ycombinator.com/item?id=34288999
+
 https://news.ycombinator.com/item?id=34266158
 
 https://advancedwireless.org/salt-lake-city/

@@ -14,3 +14,6 @@ https://garagehq.deuxfleurs.fr/ OpS distributed object storage service tailored 
 https://www.openio.io/
 
 https://min.io/
+
+https://owncloud.dev/ocis/
+> https://reva.link/

@@ -86,6 +86,8 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://github.com/athensresearch/athens KW
+
 https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html
 > https://news.ycombinator.com/item?id=34052268
 

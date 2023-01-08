@@ -58,3 +58,5 @@ https://reanimate.github.io/
 > https://news.ycombinator.com/item?id=34074380
 
 https://github.com/vercel/satori Convert HTML and CSS to SVG
+
+https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg

@@ -74,6 +74,11 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://vorpus.org/blog/why-does-calloc-exist/
+
+http://staff.washington.edu/gmobus/Academics/TCES202/Moodle/OO-ProgrammingInC.html
+> https://news.ycombinator.com/item?id=34296789
+
 https://streaming.media.ccc.de/jev22/relive/49151 Relive: 50 years of C, the good, the bad and the ugly
 
 https://grack.com/blog/2022/12/20/deriving-a-bit-twiddling-hack/

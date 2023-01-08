@@ -140,6 +140,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks
+> https://news.ycombinator.com/item?id=34293631
+
 https://github.com/stepci/stepci
 
 https://blogs.gnome.org/shell-dev/2022/12/02/automated-testing-of-gnome-shell/

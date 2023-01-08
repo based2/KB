@@ -30,3 +30,5 @@ https://github.com/matjp/dvi-decode
 
 https://www.scypress.com/book_download.html
 > https://news.ycombinator.com/item?id=34161044
+
+https://fanpu.io/blog/2023/latex-tips/

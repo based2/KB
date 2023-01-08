@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://fakemoneynews.substack.com/p/shorting-tether-for-fun-and-profit
+> https://news.ycombinator.com/item?id=34299618
+
 https://news.ycombinator.com/item?id=34254377
 
 https://www.reuters.com/technology/who-is-alex-mashinsky-man-behind-alleged-celsius-crypto-fraud-2023-01-05/

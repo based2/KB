@@ -31,6 +31,8 @@ https://arxiv.org/abs/2103.03198 Catala
 
 https://resources.jetbrains.com/storage/products/mps/docs/MPS_DTO_Case_Study.pdf
 
+https://www.plainlanguage.gov/
+
 # Open data
 https://www.lumendatabase.org/ Collects and analyzes legal complaints and requests for removal of online materials
 

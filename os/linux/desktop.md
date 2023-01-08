@@ -36,6 +36,9 @@ https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i
 https://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html
 > https://news.ycombinator.com/item?id=34271321
 
+https://utcc.utoronto.ca/~cks/space/blog/unix/XIconificationManyWays
+> https://news.ycombinator.com/item?id=34271218
+
 # Audio
 
 # Printer
@@ -81,6 +84,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://github.com/Airblader/i3
+
 https://twitter.com/plagman2/status/1610200412854046720
 
 https://www.logikalsolutions.com/wordpress/information-technology/kde-abandonware/

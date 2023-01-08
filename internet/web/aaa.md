@@ -119,6 +119,8 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://gafam.theglassroom.org/#landscape-of-acquisitions
+
 https://www.theregister.com/2022/12/26/opinion_column_alexa/
 > https://news.ycombinator.com/item?id=34142932
 

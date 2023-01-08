@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://electrek.co/2023/01/07/18-mw-wind-turbine-china/
+
 https://news.ycombinator.com/item?id=34268506
 
 https://newscenter.lbl.gov/2023/01/03/cool-new-method-of-refrigeration/

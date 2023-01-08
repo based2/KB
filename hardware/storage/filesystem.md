@@ -40,6 +40,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://guix.gnu.org/en/blog/2023/the-filesystem-hierarchy-standard-comes-to-guix-containers/
+> https://refspecs.linuxfoundation.org/fhs.shtml
+
 https://randthoughts.github.io/i-tried-paragons-ntfs3-and-it-didnt-go-well/
 > https://news.ycombinator.com/item?id=34264522
 

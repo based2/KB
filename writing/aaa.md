@@ -69,6 +69,8 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://medium.com/incerto/how-i-write-8b495eae0330
+
 https://news.ycombinator.com/item?id=33896711
 
 https://tvtropes.org/pmwiki/pmwiki.php/Main/Tropes

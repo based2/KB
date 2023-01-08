@@ -265,6 +265,17 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://jrashford.com/2022/08/02/loading-data-into-pandas-5-tips-and-tricks-you-may-or-may-not-know/
+
+https://annot8.io/
+> https://github.com/dstl/baleen3 uk
+
+https://www.viper-df.org/
+> https://news.ycombinator.com/item?id=34292775
+
+https://kevinheavey.github.io/modern-polars/
+> https://news.ycombinator.com/item?id=34275818
+
 https://clickhouse.com/blog/extracting-converting-querying-local-files-with-sql-clickhouse-local
 > https://news.ycombinator.com/item?id=34265206
 

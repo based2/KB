@@ -182,6 +182,10 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://news.ycombinator.com/item?id=34294839
+
+https://news.ycombinator.com/item?id=34288383
+
 https://tabledit.com/index.shtml
 
 https://news.ycombinator.com/item?id=34124203

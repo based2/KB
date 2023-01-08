@@ -236,6 +236,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://agstack.org/
+
 https://www.gnuhealth.org/
 
 https://hashman.ca/conservancy-2018/

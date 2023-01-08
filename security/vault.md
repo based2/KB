@@ -90,6 +90,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://www.heylogin.com/ de
+
 https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html
 > https://news.ycombinator.com/item?id=34219434
 

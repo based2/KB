@@ -73,6 +73,10 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=34298987
+
+https://news.ycombinator.com/item?id=34286288
+
 https://news.ycombinator.com/item?id=34277412
 
 https://gdprhub.eu/index.php?title=Welcome_to_GDPRhub

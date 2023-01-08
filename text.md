@@ -126,6 +126,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://www.openstenoproject.org/plover/ steno
+> https://news.ycombinator.com/item?id=34298063
+
 https://www.linode.com/docs/guides/differences-between-grep-sed-awk/
 > https://news.ycombinator.com/item?id=34280281
 

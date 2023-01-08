@@ -38,6 +38,8 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/gnachman/iterm2-website/commit/e2c8f19911fd1cf3a125cb24fe593184f67e50a9
+
 https://github.com/noborus/ov pager
 > https://news.ycombinator.com/item?id=34242275
 

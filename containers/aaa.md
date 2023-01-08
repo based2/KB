@@ -40,6 +40,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://news.ycombinator.com/item?id=34285539
+
+https://queue.acm.org/detail.cfm?id=2898444
+> https://news.ycombinator.com/item?id=34290798
+
 https://busybox.net/
 > https://news.ycombinator.com/item?id=34240471
 

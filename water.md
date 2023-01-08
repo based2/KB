@@ -98,3 +98,6 @@ https://www.wired.com/story/alaskas-arctic-waterways-are-turning-a-foreboding-or
 
 https://pws.byu.edu/great-salt-lake
 > https://news.ycombinator.com/item?id=34276519
+
+https://www.visualcapitalist.com/cp/mapping-the-worlds-river-basins-by-continent/
+> 

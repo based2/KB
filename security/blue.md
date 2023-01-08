@@ -52,3 +52,5 @@ https://github.com/kitabisa/teler
 https://blog.doyensec.com/2022/12/13/safeurl.html
 > https://www.reddit.com/r/netsec/comments/zkw9s3/a_server_side_request_forgery_protection_library/
 > > https://github.com/stripe/smokescreen
+
+https://guardara-community.gitlab.io/documentation/docs/intro.html

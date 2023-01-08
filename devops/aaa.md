@@ -274,6 +274,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://hackaday.com/2023/01/08/the-github-silverware-drawer-dilemma-or-finding-active-repository-forks/
+
 https://shyim.me/blog/devenv-compose-developer-environment-for-php-with-nix/
 > https://news.ycombinator.com/item?id=34130585
 

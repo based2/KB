@@ -11,6 +11,10 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://gimelstudio.github.io/ diag
+> https://news.ycombinator.com/item?id=34297576
+> > https://jtree.treenotation.org/designer/
+
 https://arc.tencent.com/en/ai-demos/faceRestoration
 
 https://github.com/danielgatis/rembg

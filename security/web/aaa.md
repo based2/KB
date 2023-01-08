@@ -13,3 +13,5 @@ https://httptoolkit.tech/blog/cache-your-cors/
 https://simplelocalize.io/blog/posts/what-is-cors/
 
 https://ieftimov.com/posts/deep-dive-cors-history-how-it-works-best-practices/
+
+https://news.ycombinator.com/item?id=34298263
