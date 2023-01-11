@@ -39,6 +39,9 @@ https://who-t.blogspot.com/2023/01/x-servers-no-longer-allow-byte-swapped.html
 https://utcc.utoronto.ca/~cks/space/blog/unix/XIconificationManyWays
 > https://news.ycombinator.com/item?id=34271218
 
+https://magcius.github.io/xplain/article/x-basics.html
+> https://news.ycombinator.com/item?id=34328777
+
 # Audio
 
 # Printer
@@ -65,6 +68,10 @@ https://usebottles.com/blog/release-2022.1.28/
 
 https://github.com/casualsnek/cassowary run a Windows virtual machine and use Windows applications on Linux as if they were native applications, built upon FreeRDP and remote apps technology
 > https://news.ycombinator.com/item?id=30214762
+
+# Mac
+https://www.gitclear.com/blog/linux_touchpad_update_january_2023
+> https://news.ycombinator.com/item?id=34300973
 
 ## RDP
 https://smackeyacky.blogspot.com/2022/03/rdp-clients-for-debian-incomplete-review.html

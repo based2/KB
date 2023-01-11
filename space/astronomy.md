@@ -59,6 +59,10 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://www.nasa.gov/feature/goddard/2023/nasa-s-webb-confirms-its-first-exoplanet/
+
+https://www.space.com/comet-c2022-e3-ztf-visible-naked-eye-january-2023
+
 https://news.ycombinator.com/item?id=34082771
 
 https://www.eso.org/public/teles-instr/technology/interferometry/

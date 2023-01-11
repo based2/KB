@@ -82,6 +82,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.technologyreview.com/2023/01/06/1066317/whats-next-for-quantum-computing/
+
 https://news.ycombinator.com/item?id=34245386
 
 https://arstechnica.com/science/2023/01/companies-are-relying-on-quantum-annealers-for-useful-computations/

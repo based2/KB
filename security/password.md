@@ -26,6 +26,9 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://arstechnica.com/information-technology/2023/01/a-fifth-of-passwords-used-by-federal-agency-cracked-in-security-audit/
+> https://news.ycombinator.com/item?id=34334113
+
 https://www.franzoni.eu/password-requirements-myths-madness/
 > https://news.ycombinator.com/item?id=34098369
 

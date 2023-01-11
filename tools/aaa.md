@@ -63,3 +63,6 @@ https://utcc.utoronto.ca/~cks/space/blog/unix/LoginShellMarkerHistory
 https://ianthehenry.com/posts/a-cozy-nest-for-your-scripts/
 > https://github.com/ianthehenry/sd
 > > https://news.ycombinator.com/item?id=34194889
+
+https://mitxela.com/projects/dotfiles_management
+> https://news.ycombinator.com/item?id=34296396

@@ -29,6 +29,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://arachnoid.com/software_defined_radios/
+
 https://betterexplained.com/articles/colorized-math-equations/
 
 https://www.sparkfun.com/news/5497 LoRa: Field Testing Antennas

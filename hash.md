@@ -55,6 +55,8 @@ https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format#sec
 https://www.honeybadger.io/blog/uuids-and-ulids/
 > https://news.ycombinator.com/item?id=28948815
 
+https://github.com/f4b6a3/tsid-creator
+
 https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/
 > https://news.ycombinator.com/item?id=29849791
 

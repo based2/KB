@@ -24,6 +24,12 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://www.trashworldnews.com/yoda-stories/
+> https://news.ycombinator.com/item?id=34314585
+
+https://www.righto.com/2023/01/the-8086-processors-microcode-pipeline.html
+> https://news.ycombinator.com/item?id=34329201
+
 https://blog.the.al/2023/01/01/ds4-reverse-engineering.html
 > https://news.ycombinator.com/item?id=34257935
 

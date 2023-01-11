@@ -15,6 +15,14 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://boardgamegeek.com/blogpost/140765/publisher-diary-reiner-knizias-zoo-vadis-or-how-br
+> https://news.ycombinator.com/item?id=34321599
+
+https://news.ycombinator.com/item?id=34338629
+
+https://www.youtube.com/watch?v=ZpCrBBj6AWE zork g ai
+> https://news.ycombinator.com/item?id=34300765
+
 https://en.wikipedia.org/wiki/Colossal_Cave_Adventure
 > https://news.ycombinator.com/item?id=34299699
 

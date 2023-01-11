@@ -42,3 +42,6 @@ https://shoelace.style/
 https://levelup.gitconnected.com/are-web-components-dead-12e404e0f4b0
 
 https://shoelace.style/
+
+https://htmlwithsuperpowers.netlify.app/
+> https://news.ycombinator.com/item?id=34333282

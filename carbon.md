@@ -67,6 +67,16 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://terraformindustries.wordpress.com/2023/01/09/terraform-industries-whitepaper-2-0/
+> https://news.ycombinator.com/item?id=34317130
+
+https://www.nytimes.com/2023/01/11/climate/climate-propane-influence-campaign.html
+
+https://climate.copernicus.eu/copernicus-2022-was-year-climate-extremes-record-high-temperatures-and-rising-concentrations
+
+https://www.holoniq.com/notes/2022-climate-tech-vc-funding-totals-70-1b-up-89-from-37-0b-in-2021
+> https://news.ycombinator.com/item?id=34302609
+
 https://www.euronews.com/green/2022/08/19/on-your-bike-if-we-all-cycled-like-the-dutch-global-emissions-drop-nearly-700-million-tonn
 > https://news.ycombinator.com/item?id=34297799
 

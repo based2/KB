@@ -182,6 +182,8 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://newt.phys.unsw.edu.au/jw/timpani-horn/timpani-horn.html
+
 https://news.ycombinator.com/item?id=34294839
 
 https://news.ycombinator.com/item?id=34288383

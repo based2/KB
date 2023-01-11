@@ -99,6 +99,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://dfeldman.medium.com/its-time-to-stop-texting-6fcce2014e36
+> https://news.ycombinator.com/item?id=34342166
+
+https://gizmodo.com/apple-iphone-france-ads-fine-illegal-data-1849950163
+> https://news.ycombinator.com/item?id=34299433
+
 https://arstechnica.com/gadgets/2023/01/razers-400-soundbar-has-a-creepy-camera-to-help-emit-surround-sound/
 
 https://www.freshpaint.io/blog/what-the-latest-hhs-guidance-on-hipaa-means-for-health-tech-companies

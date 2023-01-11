@@ -118,6 +118,12 @@ https://elixirforum.com/t/ash-framework-2-0/51119
 
 https://ash-hq.org/
 
+https://hexdocs.pm/owl/readme.html cli
+> https://news.ycombinator.com/item?id=34300893
+
+https://www.stephenlewis.me/blog/naming-phoenix-context-functions
+> https://news.ycombinator.com/item?id=34336396
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

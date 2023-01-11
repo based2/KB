@@ -85,6 +85,9 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://www.cloudthread.io/product/tagging-assistant
+> https://news.ycombinator.com/item?id=34339928
+
 https://github.com/eleven-sh/cli
 > https://news.ycombinator.com/item?id=34142602
 

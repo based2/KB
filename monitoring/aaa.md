@@ -83,6 +83,12 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # News
+https://www.elastic.co/guide/en/kibana/8.5/telemetry-settings-kbn.html
+> https://news.ycombinator.com/item?id=34321015
+
+https://github.com/axiomhq/zig-hyperloglog
+> https://news.ycombinator.com/item?id=34312335
+
 https://www.earth.li/~noodles/blog/2023/01/finally-using-bpftrace.html
 
 https://cpucycles.cr.yp.to/

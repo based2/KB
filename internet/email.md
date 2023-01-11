@@ -145,6 +145,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://www.netmeister.org/blog/email.html
+> https://news.ycombinator.com/item?id=34327982
+
 https://news.ycombinator.com/item?id=34150040
 
 https://www.mailhardener.com/kb/hardening-unused-domains

@@ -34,6 +34,9 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://pirateweather.net/
+> https://news.ycombinator.com/item?id=34329988
+
 https://news.ycombinator.com/item?id=34295443
 
 https://sf.atmo.ai/temperature@37.62099,-122.31522,9.34,20,0,1666986316

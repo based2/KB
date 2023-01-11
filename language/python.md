@@ -249,6 +249,9 @@ https://twitter.com/ethanhs/status/1464308141105967104 webassembly
 https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 > https://news.ycombinator.com/item?id=27744870
 
+https://github.com/HackSoftware/Django-Styleguide
+> https://news.ycombinator.com/item?id=34337667
+
 # History
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
@@ -256,6 +259,17 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://plone.org/news-and-events/news/2022/plone-6-0-released
+> https://news.ycombinator.com/item?id=34331713
+
+https://blog.exaloop.io/python-llvm/
+> https://news.ycombinator.com/item?id=34312474
+
+https://stackoverflow.com/questions/75001262/performance-is-30-worse-on-python-3-11-1-vs-python-3-10-9-when-using-all-an
+
+https://lwn.net/Articles/919563/
+> https://news.ycombinator.com/item?id=34330932
+
 https://news.ycombinator.com/item?id=34289581
 
 https://martinheinz.dev/blog/88

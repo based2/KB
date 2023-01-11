@@ -45,6 +45,8 @@ https://www.france24.com/en/live-news/20211115-space-debris-event-forces-iss-cre
 > https://leolabs-space.medium.com/analysis-of-the-cosmos-1408-breakup-71b32de5641f
 > > https://news.ycombinator.com/item?id=29294360
 
+https://www.reuters.com/world/europe/russia-launch-backup-soyuz-spacecraft-iss-following-leak-2023-01-11/
+
 ## Tianhe
 https://www.globaltimes.cn/page/202107/1227953.shtml
 

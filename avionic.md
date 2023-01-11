@@ -15,7 +15,13 @@ https://faadronezone.faa.gov/#/
 #
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
+#
+https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC&title=NOTAM+SYSTEM+EQUIPMENT+OUTAGE_FYI&titleDate=01/11/23
+> https://news.ycombinator.com/item?id=34337158
+
 # News
+https://en.wikipedia.org/wiki/ETOPS
+
 https://www.mt-propeller.com/en/entw/about_firsts.htm#11
 > https://news.ycombinator.com/item?id=34279625
 

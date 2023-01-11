@@ -65,4 +65,6 @@ https://www.seafile.com/en/home/
 https://www.linuxjournal.com/content/fault-tolerant-sftp-scripting-retry-failed-transfers-automatically
 > https://news.ycombinator.com/item?id=34250184
 
+https://github.com/wsw70/syncthing-map
+
 

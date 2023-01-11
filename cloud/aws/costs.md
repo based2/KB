@@ -23,3 +23,6 @@ https://www.oraculi.io/blog/tips-to-avoid-surprises-in-your-aws-bill
 https://pauley.me/post/2022/spot-instance-pricing/
 > https://news.ycombinator.com/item?id=33287827
 
+https://bootcamp.uxdesign.cc/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a
+> https://news.ycombinator.com/item?id=34315499
+

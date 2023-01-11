@@ -281,6 +281,11 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://hackaday.com/2023/01/10/imhex-an-open-hex-editor-for-the-modern-hacker/
+
+https://github.com/SpartanJ/ecode
+> https://news.ycombinator.com/item?id=34320844
+
 https://helix-editor.com/
 > https://github.com/helix-editor/helix
 

@@ -1,3 +1,6 @@
+https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685
+> https://news.ycombinator.com/item?id=34337996
+
 https://www.cppstories.com/2022/cpp-status-2022/
 > https://news.ycombinator.com/item?id=34213200
 

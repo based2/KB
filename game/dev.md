@@ -109,6 +109,12 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://fyrox.rs/blog/post/feature-highlights-0-29/
+> https://news.ycombinator.com/item?id=34318307
+
+https://github.com/open-duelyst/duelyst
+> https://news.ycombinator.com/item?id=34331144
+
 https://www.traffickinggame.com/ai-assisted-graphics/
 > https://news.ycombinator.com/item?id=34299111
 
@@ -117,6 +123,7 @@ https://nullprogram.com/blog/2023/01/08/
 
 https://www.enworld.org/threads/hello-i-am-lawyer-with-a-psa-almost-everyone-is-wrong-about-the-ogl-and-srd-clearing-up-confusion.694192/
 > https://news.ycombinator.com/item?id=34271687
+> https://news.ycombinator.com/item?id=34264777
 
 https://github.com/zladx/LADX-Disassembly/wiki/Game-engine-documentation
 > https://news.ycombinator.com/item?id=34269742

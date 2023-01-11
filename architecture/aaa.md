@@ -156,6 +156,8 @@ https://siboehm.com/articles/22/CUDA-MMM
 https://jott.live/markdown/1.5tflop_m1
 > https://news.ycombinator.com/item?id=34259213
 
+https://github.com/google/highway
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -199,6 +201,9 @@ https://christophermeiklejohn.com/filibuster/2022/03/19/understanding-faults.htm
 https://brooker.co.za/blog/2022/02/28/retries.html
 
 https://monzo.com/blog/2022/05/26/humans-who-can-rpc-securing-staff-access-to-microservices
+
+https://code-held.com/2022/07/28/microservices/
+> https://news.ycombinator.com/item?id=34329656
 
 # Serverless - functions
 
@@ -255,6 +260,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=34317942
+
 https://www.mooreds.com/wordpress/archives/3578
 
 https://siboehm.com/articles/22/CUDA-MMM

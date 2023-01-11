@@ -45,3 +45,6 @@ https://alexanderell.is/posts/websockets-from-scratch/
 > https://news.ycombinator.com/item?id=32634038
 
 https://github.com/vi/websocat
+
+https://github.com/cirospaciari/socketify.py
+> https://news.ycombinator.com/item?id=34322929

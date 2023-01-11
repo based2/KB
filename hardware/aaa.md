@@ -83,6 +83,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://lateblt.tripod.com/bit68.txt
+> https://news.ycombinator.com/item?id=34333638
+
 https://chipsandcheese.com/2023/01/07/microbenchmarking-amds-rdna-3-graphics-architecture/
 
 https://news.ycombinator.com/item?id=34198463

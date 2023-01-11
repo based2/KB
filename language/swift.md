@@ -1,3 +1,8 @@
+https://kean.blog/post/pulse-3
+
+https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/
+> https://news.ycombinator.com/item?id=34339153
+
 https://www.swift.org/blog/focus-areas-2023/
 > https://news.ycombinator.com/item?id=33658376
 

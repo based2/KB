@@ -130,6 +130,9 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://status.elastic.co/
+> https://news.ycombinator.com/item?id=34337518
+
 https://www.csoonline.com/article/3681450/researchers-found-security-pitfalls-in-ibm-s-cloud-infrastructure.html
 > https://news.ycombinator.com/item?id=33918764
 
@@ -236,6 +239,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=34323674
+
 https://terrateam.io/blog/flying-away-from-aws
 > https://news.ycombinator.com/item?id=34238150
 

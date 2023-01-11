@@ -42,6 +42,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://singularityhub.com/2023/01/09/visualizing-the-inside-of-cells-at-previously-impossible-resolutions-provides-vivid-insights-into-how-they-work/
+> https://news.ycombinator.com/item?id=34317757
+
+https://www.quantamagazine.org/starfish-whisperer-develops-a-physical-language-of-life-20230111/
+
 https://newatlas.com/science/first-virovore-eats-viruses/
 > https://science.slashdot.org/story/22/12/29/2234215/first-virovore-discovered-an-organism-that-eats-viruses
 

@@ -248,7 +248,18 @@ https://news.ycombinator.com/item?id=28343118
 https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 > https://news.ycombinator.com/item?id=29216291
 
+https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
+> https://news.ycombinator.com/item?id=34338578
+
 # News
+https://www.xilinx.com/applications/data-center/v70.html
+> https://news.ycombinator.com/item?id=34324987
+
+https://arxiv.org/abs/2301.04104 Mastering Diverse Domains through World Models
+> https://news.ycombinator.com/item?id=34338777
+
+https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/
+
 https://github.com/lightvector/KataGo/releases/tag/v1.12.0
 
 https://docs.google.com/document/d/1uvAbEhbgS_M-uDMTzmOWRlYxqCkogKRXdbKYYT98ooc/edit

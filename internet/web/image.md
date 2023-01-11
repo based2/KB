@@ -45,6 +45,12 @@ https://jfhr.me/optimizing-images-with-the-html-picture-tag/
 > https://news.ycombinator.com/item?id=33397054
 
 # Photography
+https://johnpweiss.com/blog/183699/minimalism-and-the-art-of-photography
+> https://news.ycombinator.com/item?id=34322813
+
+https://simonsarris.substack.com/p/photo-editing-respecting-context
+> https://news.ycombinator.com/item?id=34335562
+
 https://www.dpreview.com/news/3788652829/digikam-free-open-source-raw-photo-management-macos-windows-and-linux-updated
 
 https://tylercipriani.com/blog/2021/06/29/commandline-hdr-image-processing/

@@ -71,6 +71,12 @@ https://news.ycombinator.com/item?id=27351769
 https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
 
+#
+https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
+> https://github.com/advisories/GHSA-27h2-hvpr-p74q
+> > https://news.ycombinator.com/item?id=34335244
+
+
 # News
 https://authjs.dev/
 > https://news.ycombinator.com/item?id=34184669

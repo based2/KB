@@ -33,6 +33,9 @@ https://kiwink.io/ Visual light communication - LED
 
 https://github.com/Luos-io/luos_engine
 
+https://blog.kchung.co/taking-over-a-dead-iot-company/
+> https://news.ycombinator.com/item?id=34325695
+
 # MQTT
 https://joinbase.io/blog/intro-oidbs/ OIDBS: An Open Source MQTT Driven Benchmark Suite for Massive IoT Data
 > https://news.ycombinator.com/item?id=33304677

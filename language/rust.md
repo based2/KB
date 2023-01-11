@@ -413,6 +413,10 @@ https://dtolnay.github.io/rust-quiz/33
 https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
+# Incident
+https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH host keys
+> https://news.ycombinator.com/item?id=34336906
+
 # News
 https://www.jernesto.com/articles/who_needs_haskell.html
 > https://news.ycombinator.com/item?id=34275856

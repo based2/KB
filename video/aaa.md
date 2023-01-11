@@ -113,6 +113,15 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://github.com/obsproject/obs-studio/releases/tag/29.0.0
+> https://news.ycombinator.com/item?id=34313906
+
+https://gist.github.com/Olshansk/8046a7bfff7c82aca67d961d4d3d1d1a
+> https://news.ycombinator.com/item?id=34333556
+
+https://lynne.ee/vulkan-video-decoding.html
+> https://news.ycombinator.com/item?id=34315700
+
 https://themaister.net/blog/2023/01/05/vulkan-video-shenanigans-ffmpeg-radv-integration-experiments/
 > https://news.ycombinator.com/item?id=34282827
 

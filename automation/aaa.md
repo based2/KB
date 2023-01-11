@@ -25,6 +25,11 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://github.com/klothoplatform/klotho
+> https://news.ycombinator.com/item?id=34330545
+
+https://www.val.town/ cloud script
+
 https://www.autohotkey.com/v2/
 > https://news.ycombinator.com/item?id=34248234
 

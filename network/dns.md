@@ -127,6 +127,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://circleid.com/posts/20230110-removal-of-price-caps-for-.org-and-.info-found-improper-by-irp
+> https://news.ycombinator.com/item?id=34331563
+
 https://daniel.haxx.se/blog/2022/12/14/idn-is-crazy/
 > https://news.ycombinator.com/item?id=33995265
 

@@ -212,6 +212,9 @@ https://news.ycombinator.com/item?id=33194773
 https://milancurcic.com/2019/05/22/map-filter-reduce-in-fortran-2018.html
 > https://news.ycombinator.com/item?id=34206951
 
+https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-powerhouse/
+> https://news.ycombinator.com/item?id=34329913
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100
@@ -303,6 +306,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www.fixscript.org/blog/introduction
+> https://news.ycombinator.com/item?id=34315137
+
+https://outerproduct.net/trivial/2023-01-11_nan.html
+> https://news.ycombinator.com/item?id=34337454
+
 https://borretti.me/article/introducing-austral Systems Language with Linear Types and Capabilities
 > https://news.ycombinator.com/item?id=34168452
 

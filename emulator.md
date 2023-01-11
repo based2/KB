@@ -32,6 +32,9 @@ https://news.ycombinator.com/item?id=34254103
 
 https://github.com/jart/blink
 
+https://yuzu-emu.org/entry/yuzu-progress-report-dec-2022/
+> https://news.ycombinator.com/item?id=34334914
+
 https://zipcpu.com/zipcpu/2022/12/03/no-boot.html
 
 https://www.phoronix.com/news/QEMU-7.2-Released

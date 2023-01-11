@@ -265,6 +265,8 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 > https://news.ycombinator.com/item?id=34255996
 
 # News
+https://nipafx.dev/inside-java-newscast-39/
+
 https://www.infoq.com/articles/java-jvm-trends-2022/
 
 https://itnext.io/jakarta-rest-3-1-by-examples-dbe13fe6988c

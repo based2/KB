@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=34333097
+
 https://fakemoneynews.substack.com/p/shorting-tether-for-fun-and-profit
 > https://news.ycombinator.com/item?id=34299618
 

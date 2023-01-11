@@ -18,6 +18,13 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://news.ycombinator.com/item?id=34324270
+
+https://news.ycombinator.com/item?id=34339640
+
+https://insideevs.com/news/630075/mercedes-first-to-offer-level-3-self-driving-in-the-us/
+> https://news.ycombinator.com/item?id=34334925
+
 https://arstechnica.com/cars/2023/01/mercedes-benz-to-build-an-ev-fast-charging-network-starting-in-the-us/
 > https://news.ycombinator.com/item?id=34274942
 

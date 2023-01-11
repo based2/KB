@@ -102,6 +102,11 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/
+> https://news.ycombinator.com/item?id=34322314
+
+https://callistaenterprise.se/blogg/teknik/2023/01/01/chip8-with-rust-and-go/
+
 https://github.com/sourcegraph/conc
 
 https://github.com/golang/go/issues/57644

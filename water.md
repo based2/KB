@@ -100,4 +100,6 @@ https://pws.byu.edu/great-salt-lake
 > https://news.ycombinator.com/item?id=34276519
 
 https://www.visualcapitalist.com/cp/mapping-the-worlds-river-basins-by-continent/
-> 
+
+https://engaging-data.com/ca-reservoir-dashboard/
+> https://news.ycombinator.com/item?id=34319453

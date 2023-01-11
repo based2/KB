@@ -27,6 +27,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://pinggy.io/
+> https://news.ycombinator.com/item?id=34337592
+
 https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/
 > https://news.ycombinator.com/item?id=33742563
 

@@ -52,6 +52,8 @@ https://blog.hansenpartnership.com/the-community-corrosive-effects-of-clas/
 
 https://en.wikipedia.org/wiki/Digital_commons_(economics)
 
+https://news.ycombinator.com/item?id=34321649
+
 # Incident
 
 https://torrentfreak.com/company-hijacks-blenders-cc-by-licensed-film-youtube-strikes-user-221205/

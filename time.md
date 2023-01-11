@@ -101,6 +101,8 @@ https://www.youtube.com/watch?v=iBRCL090PxA The Antikythera Mechanism Episode 11
 https://terokarvinen.com/2021/calendar-txt/
 > https://news.ycombinator.com/item?id=31574125
 
+https://phys.org/news/2023-01-lidar-reveals-ancient-mesoamerican-aligned.html
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster

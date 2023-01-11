@@ -236,6 +236,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://cannon.wtf/marketing-advice-from-open-source-founders/
+> https://news.ycombinator.com/item?id=34311935
+
 https://agstack.org/
 
 https://www.gnuhealth.org/

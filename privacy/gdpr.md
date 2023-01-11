@@ -73,6 +73,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.wired.com/story/meta-surveillance-capitalism/
+> https://news.ycombinator.com/item?id=34299722
+
 https://news.ycombinator.com/item?id=34298987
 
 https://news.ycombinator.com/item?id=34286288

@@ -81,6 +81,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://sancho.dev/blog/tailwind-and-design-systems
+> https://news.ycombinator.com/item?id=34336576
+
 https://news.ycombinator.com/item?id=33878873
 
 https://medium.com/@1075746765/ant-design-5-0-is-released-27b2552f14a3

@@ -274,6 +274,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://blog.waleedkhan.name/git-ui-features/
+> https://news.ycombinator.com/item?id=34301543
+
 https://www.highflux.io/blog/what-makes-git-hard-to-use
 
 https://lwn.net/Articles/898522/

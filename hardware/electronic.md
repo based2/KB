@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://www.allaboutcircuits.com/textbook/
+> https://news.ycombinator.com/item?id=34320892
+
 https://sebastian.itch.io/digital-logic-sim
 > https://news.ycombinator.com/item?id=34203029
 

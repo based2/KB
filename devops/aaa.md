@@ -126,6 +126,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://about.gitlab.com/releases/2023/01/09/security-release-gitlab-15-7-2-released/
+
 https://news.ycombinator.com/item?id=34264467
 
 https://news.ycombinator.com/item?id=34257818
@@ -274,6 +276,17 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://taskfile.dev/
+> https://news.ycombinator.com/item?id=34320340
+
+https://github.com/casey/just
+> https://news.ycombinator.com/item?id=34315779
+
+https://github.com/samsquire/mazzle
+> https://devops-pipeline.com/
+
+https://rosszurowski.com/log/2022/makefiles
+
 https://hackaday.com/2023/01/08/the-github-silverware-drawer-dilemma-or-finding-active-repository-forks/
 
 https://shyim.me/blog/devenv-compose-developer-environment-for-php-with-nix/

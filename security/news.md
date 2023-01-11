@@ -1,3 +1,13 @@
+
+https://breakingthe3ma.app/
+> https://news.ycombinator.com/item?id=34314504
+
+https://www.semafor.com/article/01/11/2023/hackers-access-guardian-staff-salary-passport-information
+
+https://www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/
+
+https://lists.apache.org/thread/fzoondwxgx20l9yhfmmdycw97po5gxo7 CVE-2022-45787: Apache James MIME4J: Temporary File Information Disclosure in MIME4J TempFileStorageProvider
+
 https://labs.guard.io/masquerads-googles-ad-words-massively-abused-by-threat-actors-targeting-organizations-gpus-42ae73ee8a1e
 
 https://blog.dixitaditya.com/manipulating-aes-traffic-using-a-chain-of-proxies-and-hardcoded-keys

@@ -95,6 +95,9 @@ http://infolab.stanford.edu/~ullman/focs.html Foundations of Computer Science
 https://www.fecundity.com/logic/download.html
 > https://news.ycombinator.com/item?id=33622428
 
+https://thecomputersciencebook.com/book/
+> https://news.ycombinator.com/item?id=34336213
+
 # Meta
 https://metacognitive.me/memory-palace/
 > https://news.ycombinator.com/item?id=28640429
@@ -117,6 +120,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://arbesman.substack.com/p/open-ended-software-as-human-beings
+> https://news.ycombinator.com/item?id=34324169
+
 https://www.europeana.eu/en
 
 https://seumasjeltzz.github.io/LinguaeGraecaePerSeIllustrata/ greek

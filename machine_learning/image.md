@@ -258,6 +258,9 @@ https://openai.com/dall-e-2/
 # Detection
 https://github.com/WongKinYiu/yolov7
 
+https://github.com/ultralytics/ultralytics
+> https://news.ycombinator.com/item?id=34323026
+
 https://arxiv.org/abs/2207.02696 YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 > https://news.ycombinator.com/item?id=32121125
 

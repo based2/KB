@@ -60,6 +60,9 @@ https://www.mandiant.com/resources/blog/reviewing-macos-unified-logs
 https://objective-see.org/tools.html
 > https://news.ycombinator.com/item?id=32979796
 
+https://hynek.me/articles/macos-dyld-env/
+> https://news.ycombinator.com/item?id=34309530
+
 # Dev
 https://lapcatsoftware.com/articles/xcrun.html
 
@@ -307,6 +310,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://www.theverge.com/2023/1/10/23549429/microled-apple-watch-rumor-custom-design-samsung
+
 https://nyansatan.github.io/lightning/
 > https://news.ycombinator.com/item?id=34158318
 

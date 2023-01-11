@@ -35,6 +35,9 @@ http://clojure-goes-fast.com/blog/shenandoah-in-production/
 
 https://blog.gceasy.io/2021/10/15/interesting-garbage-collection-patterns/
 
+https://www.azul.com/blog/what-should-i-know-about-garbage-collection-as-a-java-developer/
+> https://news.ycombinator.com/item?id=34320947
+
 https://dzone.com/articles/debugging-ram-java-garbage-collection-java-heap-de
 > https://www.reddit.com/r/java/comments/s1cbl5/debugging_ram_part_1_java_garbage_collection_java/
 

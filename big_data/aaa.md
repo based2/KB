@@ -232,6 +232,9 @@ https://hypervector.io/
 https://timeflow.systems/what-is-the-data-lakehouse-pattern/
 > https://news.ycombinator.com/item?id=28531009
 
+https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison
+> https://news.ycombinator.com/item?id=34342190
+
 # Data Mesh
 https://cnr.sh/essays/what-the-heck-data-mesh
 > https://news.ycombinator.com/item?id=27999348
@@ -265,6 +268,12 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://tech.marksblogg.com/postgresql-to-bigquery.html
+> https://news.ycombinator.com/item?id=34323258
+
+https://github.com/Kanaries/graphic-walker
+> https://news.ycombinator.com/item?id=34324919
+
 https://jrashford.com/2022/08/02/loading-data-into-pandas-5-tips-and-tricks-you-may-or-may-not-know/
 
 https://annot8.io/

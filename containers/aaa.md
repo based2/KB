@@ -31,6 +31,9 @@ https://github.com/Friz-zy/awesome-linux-containers
 https://firecracker-microvm.github.io/
 > https://news.ycombinator.com/item?id=28893884
 
+https://www.amazon.science/publications/firecracker-lightweight-virtualization-for-serverless-applications
+> https://news.ycombinator.com/item?id=34336808
+
 # Perf
 https://github.com/google/cadvisor
 

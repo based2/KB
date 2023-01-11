@@ -51,6 +51,11 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://github.com/wbkd/react-flow-mindmap-app
+
+https://blog.icepanel.io/2023/01/03/common-diagramming-mistakes/
+> https://news.ycombinator.com/item?id=34338995
+
 https://github.com/open-source-labs/Svelvet
 > https://news.ycombinator.com/item?id=34265781
 

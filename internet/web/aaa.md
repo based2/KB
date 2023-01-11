@@ -119,6 +119,17 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://newsletter.danhon.com/archive/s14e06-congratulations-your-app-has-apps-in-it-now/
+> https://news.ycombinator.com/item?id=34332375
+
+https://www.apple.com/newsroom/2023/01/introducing-apple-business-connect/
+> https://news.ycombinator.com/item?id=34340012
+
+https://levelup.gitconnected.com/historical-source-code-that-every-developer-should-see-a7e6c6cbd764
+
+https://en.wikipedia.org/wiki/Robert_Cailliau
+> https://news.ycombinator.com/item?id=34289313
+
 https://gafam.theglassroom.org/#landscape-of-acquisitions
 
 https://www.theregister.com/2022/12/26/opinion_column_alexa/

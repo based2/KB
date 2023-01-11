@@ -77,6 +77,10 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://networkx.org/documentation/stable/release/release_3.0.html
+> https://news.ycombinator.com/item?id=34321135
+> https://python-graphblas.readthedocs.io/en/latest/
+
 https://aws.amazon.com/en/about-aws/whats-new/2023/01/neptune-graph-explorer-open-source-visual-exploration-tool-low-code-users/
 > https://github.com/aws/graph-explorer
 > https://news.ycombinator.com/item?id=34246186

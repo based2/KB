@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.sapiens.org/culture/lebanon-solar-power/
+> https://news.ycombinator.com/item?id=34332820
+
 https://www.caltech.edu/about/news/caltech-to-launch-space-solar-power-technology-demo-into-orbit-in-january
 > https://news.ycombinator.com/item?id=34263601
 

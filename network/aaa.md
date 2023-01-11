@@ -116,6 +116,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.ycombinator.com/item?id=34339331
+
 https://www.newscientist.com/article/2342833-chip-can-transmit-all-of-the-internets-traffic-every-second/
 > https://news.ycombinator.com/item?id=33296750
 
