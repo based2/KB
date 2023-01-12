@@ -109,6 +109,8 @@ https://github.com/zama-ai/concrete-numpy
 
 https://news.ycombinator.com/item?id=33690736
 
+https://github.com/zama-ai/tfhe-rs
+
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 

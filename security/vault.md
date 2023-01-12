@@ -53,6 +53,8 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://www.reddit.com/r/netsec/comments/104y60m/how_the_lastpass_breach_affects_lastpass_sso/
+
 https://tonyarcieri.com/4-fatal-flaws-in-deterministic-password-managers
 
 https://infosec.exchange/@epixoip/109585049354200263
@@ -90,6 +92,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://blog.1password.com/how-1password-protects-your-data/
+> https://news.ycombinator.com/item?id=34355607
+
 https://www.heylogin.com/ de
 
 https://dustri.org/b/the-quest-for-a-family-friendly-password-manager.html

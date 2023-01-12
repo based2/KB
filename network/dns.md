@@ -65,7 +65,9 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
-# 
+#
+https://dotat.at/@/2023-01-10-qsbr.html
+
 https://nanelo.com/ Duture-proof Nameservers, made and hosted in the EU. Scaling from small sites to enterprises.
 > https://news.ycombinator.com/item?id=34273374
 > https://nanelo.instatus.com/
@@ -127,6 +129,8 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBindBugIn6016
+
 https://circleid.com/posts/20230110-removal-of-price-caps-for-.org-and-.info-found-improper-by-irp
 > https://news.ycombinator.com/item?id=34331563
 

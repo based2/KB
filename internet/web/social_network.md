@@ -63,6 +63,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11
+> https://news.ycombinator.com/item?id=34354506
+
 https://mignano.medium.com/the-end-of-social-media-a88ffed21f86
 
 https://news.ycombinator.com/item?id=34294699

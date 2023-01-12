@@ -16,8 +16,12 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://www.independent.co.uk/news/world/americas/canada-flights-system-outage-grounded-b2260500.html
+> https://news.ycombinator.com/item?id=34347520
+
 https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC&title=NOTAM+SYSTEM+EQUIPMENT+OUTAGE_FYI&titleDate=01/11/23
 > https://news.ycombinator.com/item?id=34337158
+> https://news.ycombinator.com/item?id=34348388
 
 # News
 https://en.wikipedia.org/wiki/ETOPS

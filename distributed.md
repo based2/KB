@@ -79,6 +79,9 @@ https://supabase.com/blog/postgres-crdt
 
 https://arxiv.org/abs/2210.12605
 
+https://www.vldb.org/pvldb/vol16/p856-power.pdf
+> https://news.ycombinator.com/item?id=34329779
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

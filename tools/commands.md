@@ -44,6 +44,8 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://news.ycombinator.com/item?id=34342438 ls
+
 https://deepu.tech/rust-terminal-tools-linux-mac-windows-fish-zsh/
 
 https://www.linuxcommand.org/tlcl.php

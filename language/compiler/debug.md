@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://thenewstack.io/internode-cache-thrashing-hunting-a-numa-performance-bug/
+
 https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/
 > https://news.ycombinator.com/item?id=33915696
 

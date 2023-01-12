@@ -126,6 +126,9 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://blog.aquasec.com/can-you-trust-your-vscode-extensions#
+> https://www.reddit.com/r/netsec/comments/105xfqa/vscode_supply_chain_attacks_protect_your_ide_from/
+
 https://about.gitlab.com/releases/2023/01/09/security-release-gitlab-15-7-2-released/
 
 https://news.ycombinator.com/item?id=34264467
@@ -276,6 +279,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://rosszurowski.com/log/2022/makefiles
+> https://news.ycombinator.com/item?id=34330198
+
 https://taskfile.dev/
 > https://news.ycombinator.com/item?id=34320340
 

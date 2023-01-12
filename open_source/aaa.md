@@ -236,6 +236,11 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.gnu.org/software/global/global.html
+
+https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/
+> https://news.ycombinator.com/item?id=34337793
+
 https://cannon.wtf/marketing-advice-from-open-source-founders/
 > https://news.ycombinator.com/item?id=34311935
 

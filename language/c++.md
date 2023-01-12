@@ -1,3 +1,6 @@
+https://www.oilshell.org/blog/2023/01/garbage-collector.html
+> https://news.ycombinator.com/item?id=34350260
+
 https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685
 > https://news.ycombinator.com/item?id=34337996
 

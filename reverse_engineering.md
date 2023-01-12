@@ -24,6 +24,9 @@ https://github.com/badamczewski/PowerUp .Net
 https://github.com/echtdefault/Janus
 
 #
+https://www.righto.com/2023/01/reverse-engineering-airspeedmach.html
+> https://news.ycombinator.com/item?id=34358190
+
 https://www.trashworldnews.com/yoda-stories/
 > https://news.ycombinator.com/item?id=34314585
 

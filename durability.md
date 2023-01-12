@@ -64,6 +64,9 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://report.opensustain.tech/chapters/index.html
+> https://news.ycombinator.com/item?id=34339575
+
 https://news.ycombinator.com/item?id=34182324
 
 https://news.ycombinator.com/item?id=34076685

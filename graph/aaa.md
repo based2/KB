@@ -19,6 +19,9 @@ https://lyonwj.com/blog/graph-visualization-with-graphql-react-force-graph
 
 https://breandan.net/2020/06/30/graph-computation/
 
+https://wundergraph.com/index
+> https://news.ycombinator.com/item?id=34355009
+
 # Draw
 https://github.com/nidi3/graphviz-java
 
@@ -58,6 +61,9 @@ https://age.apache.org/# Postgresql
 http://janusgraph.org/
 
 https://memgraph.com/blog/lost-in-documentation-let-our-docs-recommendation-system-guide-you-along
+
+https://kuzudb.com/blog/what-every-gdbms-should-do-and-vision.html
+> https://news.ycombinator.com/item?id=34358912
 
 ## Store
 https://github.com/quoll/asami clojure

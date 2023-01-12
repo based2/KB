@@ -29,6 +29,7 @@ https://github.com/klothoplatform/klotho
 > https://news.ycombinator.com/item?id=34330545
 
 https://www.val.town/ cloud script
+> https://news.ycombinator.com/item?id=34343122
 
 https://www.autohotkey.com/v2/
 > https://news.ycombinator.com/item?id=34248234

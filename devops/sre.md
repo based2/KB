@@ -37,6 +37,8 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://news.ycombinator.com/item?id=34355408
+
 https://aws.amazon.com/en/builders-library/reliability-and-constant-work/
 > https://news.ycombinator.com/item?id=34103426
 

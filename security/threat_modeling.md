@@ -3,7 +3,8 @@ https://shellsharks.com/threat-modeling
 > > https://www.ssi.gouv.fr/guide/ebios-risk-manager-the-method/
 
 https://github.com/TalEliyahu/Threat_Model_Examples
-> 
+
+https://www.reddit.com/r/netsec/comments/1057mto/i_made_an_open_source_browser_extension_to_aid_in/
 
 https://github.com/mozilla/seasponge archived
 

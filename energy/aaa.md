@@ -16,6 +16,12 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://carbonswitch.com/do-heat-pumps-work-in-cold-weather/
+> https://news.ycombinator.com/item?id=34352309
+
+https://archy.deberker.com/the-uk-is-wasting-a-lot-of-wind-power/
+> https://news.ycombinator.com/item?id=34358795
+
 https://electrek.co/2023/01/07/18-mw-wind-turbine-china/
 
 https://news.ycombinator.com/item?id=34268506

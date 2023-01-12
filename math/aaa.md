@@ -114,6 +114,8 @@ https://notepadcalculator.com/
 https://inversethought.com/jordi/mark1.pdf
 
 # News
+https://news.ycombinator.com/item?id=34358663
+
 https://fredrikj.net/blog/2011/03/100-mpmath-one-liners-for-pi/
 
 https://golem.ph.utexas.edu/category/2023/01/a_curious_integral.html

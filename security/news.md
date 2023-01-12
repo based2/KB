@@ -1,3 +1,25 @@
+https://vigilance.fr/vulnerabilite/XStream-deni-de-service-via-Recursive-Map-Collections-40267
+
+https://vigilance.fr/vulnerabilite/Netty-injection-d-entete-via-DefaultHttpHeaders-set-40269
+
+https://arstechnica.com/information-technology/2023/01/fortinet-says-hackers-exploited-critical-vulnerability-to-infect-vpn-customers/
+
+https://www.wired.com/story/siemens-s7-1500-logic-controller-flaw/
+
+https://github.com/jmau111-org/windows_security
+> https://news.ycombinator.com/item?id=34337614
+
+https://www.matthewlinkous.com/p/encryption-worthy
+> https://news.ycombinator.com/item?id=34326399
+
+https://github.com/numanturle/CVE-2022-44877 Centos Web Panel 7 RCE
+
+https://github.com/cloudflare/circl
+> https://news.ycombinator.com/item?id=34359211
+
+https://portswigger.net/daily-swig/new-tool-protects-against-vulnerabilities-in-popular-file-converter-imagemagick
+
+https://github.com/opentdf/opentdf
 
 https://breakingthe3ma.app/
 > https://news.ycombinator.com/item?id=34314504

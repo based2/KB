@@ -3,6 +3,9 @@ https://www.coursera.org/projects/prolog-for-beginners-fhqrd
 
 https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/article/fifty-years-of-prolog-and-beyond/3A5329B6E3639879301A6D44346FD1DD
 
+https://github.com/toblotron/praxis-ide
+> https://news.ycombinator.com/item?id=34344412
+
 https://drops.dagstuhl.de/opus/volltexte/2018/8453/
 > https://news.ycombinator.com/item?id=26913859
 

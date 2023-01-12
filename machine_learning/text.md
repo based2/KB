@@ -9,6 +9,8 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://garymarcus.substack.com/p/large-language-models-like-chatgpt
+
 https://news.ycombinator.com/item?id=34338127
 
 https://techcrunch.com/2023/01/09/anthropics-claude-improves-on-chatgpt-but-still-suffers-from-limitations/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAD2tiGhJGISkXUnA0EieVN-r-wRCliCe1kAcRhM1I5e0Ep8gO4FyFk_3x7kOOhmWfLU4sVL-bXlvJLt3HPCo3sIKdvbZFAxDySLXZSVMEkm2fjxK07iTsLJL8BHEloVACA8aDW1J0ERkddXa2SUQvy1n8nK9YbENoAlkejl_4zbq

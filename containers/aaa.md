@@ -43,6 +43,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://vladimir.varank.in/notes/2023/01/go-runtime-vs-cfs-quota/
+
 https://news.ycombinator.com/item?id=34285539
 
 https://queue.acm.org/detail.cfm?id=2898444

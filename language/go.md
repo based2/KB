@@ -102,6 +102,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://www.flipt.io/blog/embedding-react-in-go
+> https://news.ycombinator.com/item?id=34344701
+
 https://blog.carlmjohnson.net/post/2023/golang-120-language-changes/
 > https://news.ycombinator.com/item?id=34322314
 

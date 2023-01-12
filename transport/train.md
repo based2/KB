@@ -15,6 +15,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains/
+> https://news.ycombinator.com/item?id=34353802
+
 https://media.ccc.de/v/fire-shonks-2022-49109-die-bequemsten-gepckablagen-im-fernverkehr-der-deutschen-bahn
 
 https://bernardgreenberg.com/Subway/

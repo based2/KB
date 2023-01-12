@@ -34,6 +34,8 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://spectrum.ieee.org/space-weather
+
 https://pirateweather.net/
 > https://news.ycombinator.com/item?id=34329988
 

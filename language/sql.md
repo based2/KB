@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://misfra.me/2023/ctes-as-lookup-tables/
+> https://news.ycombinator.com/item?id=34346411
+
 https://dinesh.wiki/posts/materialized_view_sql_queries_on_steroids/
 > https://news.ycombinator.com/item?id=34186098
 

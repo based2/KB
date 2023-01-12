@@ -252,6 +252,12 @@ https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
 # News
+https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening
+> https://news.ycombinator.com/item?id=34356042
+
+https://www.infoq.com/news/2023/01/hinton-forward-algorithm/
+> https://news.ycombinator.com/item?id=34350662
+
 https://www.xilinx.com/applications/data-center/v70.html
 > https://news.ycombinator.com/item?id=34324987
 

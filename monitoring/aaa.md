@@ -82,6 +82,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 # Meta
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
+# Incident
+https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
+
 # News
 https://www.elastic.co/guide/en/kibana/8.5/telemetry-settings-kbn.html
 > https://news.ycombinator.com/item?id=34321015

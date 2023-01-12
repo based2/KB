@@ -140,6 +140,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://blog.janestreet.com/the-joy-of-expect-tests/
+> https://news.ycombinator.com/item?id=34350749
+
 https://www.jamesshore.com/v2/projects/testing-without-mocks/testing-without-mocks
 > https://news.ycombinator.com/item?id=34293631
 

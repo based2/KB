@@ -64,6 +64,9 @@ https://graphjin.com/
 > https://news.ycombinator.com/item?id=31541219
 
 #
+https://github.com/fern-api/fern
+> 
+
 https://intercoolerjs.org/2016/01/18/rescuing-rest.html
 > https://intercoolerjs.org/ -> https://htmx.org/
 

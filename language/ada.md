@@ -67,6 +67,8 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates
+
 https://blog.adacore.com/coroutines-in-ada-a-clean-but-heavy-implementation
 
 https://blog.adacore.com/new-learn-course-introduction-to-embedded-systems-programming

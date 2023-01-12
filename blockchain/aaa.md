@@ -50,6 +50,8 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://www.bloomberg.com/news/articles/2023-01-12/ferrari-ends-blockchain-pact-with-swiss-firm-velas-as-deals-sour
+
 https://www.tbray.org/ongoing/When/202x/2022/11/19/AWS-Blockchain
 > https://news.ycombinator.com/item?id=33686168
 

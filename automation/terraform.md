@@ -164,6 +164,8 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://news.ycombinator.com/item?id=34338318
+
 https://blog.tinystacks.com/tools-for-managing-terraform-drift
 
 https://www.reddit.com/r/Terraform/comments/zxbhyh/introducing_tfmodulecom_a_stand_alone_private/

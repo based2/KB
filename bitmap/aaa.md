@@ -76,6 +76,9 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://rawtext.club/~sloum/lid.html
+> https://news.ycombinator.com/item?id=34358828
+
 https://sheep.horse/2022/12/pixel_accurate_atkinson_dithering_for_images_in_ht.html
 > https://news.ycombinator.com/item?id=34052253
 

@@ -67,6 +67,10 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.theguardian.com/world/2023/jan/11/uae-to-launch-cop28-presidency-with-oil-boss-tipped-for-leading-role
+
+https://news.ycombinator.com/item?id=34358759
+
 https://terraformindustries.wordpress.com/2023/01/09/terraform-industries-whitepaper-2-0/
 > https://news.ycombinator.com/item?id=34317130
 
