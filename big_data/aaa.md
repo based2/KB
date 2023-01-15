@@ -103,6 +103,9 @@ https://mljar.com/blog/dashboard-python-jupyter-notebook/
 https://github.com/vizzuhq/ipyvizzu-story
 > https://news.ycombinator.com/item?id=32798800
 
+https://github.com/google/evcxr/blob/1a2d6c40c467267801c7382edfa28028f99bbd9a/evcxr_jupyter/samples/evcxr_jupyter_tour.ipynb rust
+> https://news.ycombinator.com/item?id=34380914
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 > https://news.ycombinator.com/item?id=27145515
@@ -268,6 +271,13 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://rkward.kde.org/ r ui
+
+https://github.com/red-data-tools/YouPlot
+> https://news.ycombinator.com/item?id=34364807
+
+https://github.com/dkogan/vnlog
+
 https://tech.marksblogg.com/postgresql-to-bigquery.html
 > https://news.ycombinator.com/item?id=34323258
 

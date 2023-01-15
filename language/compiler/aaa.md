@@ -121,6 +121,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://tom7.org/abc/
+> https://news.ycombinator.com/item?id=34367780
+
 https://specbranch.com/posts/intro-to-micro-optimization/
 
 https://mark.masmcode.com/

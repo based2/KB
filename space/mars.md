@@ -19,6 +19,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.usgs.gov/special-topics/planetary-geologic-mapping/news/a-martian-mons-mystery-paleo-climate-change-and
+> https://news.ycombinator.com/item?id=34375921
+
 https://idlewords.com/2023/1/why_not_mars.htm
 > https://news.ycombinator.com/item?id=34213549
 

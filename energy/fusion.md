@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.world-nuclear-news.org/Articles/ITER-to-replace-23km-of-cooling-pipes-on-thermal-s?feed=feed
+
 https://phys.org/news/2023-01-international-fusion-energy-delays-chief.html
 
 https://phys.org/news/2022-12-giant-laser-star-trek-fusion.html

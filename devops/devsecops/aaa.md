@@ -25,6 +25,9 @@ https://dependencytrack.org/
 https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 
 #
+https://github.com/Legit-Labs/legitify
+> https://github.com/Legit-Labs/legitify/releases/tag/v0.2.0
+
 https://github.com/google/osv-scanner
 > https://news.ycombinator.com/item?id=34016188
 

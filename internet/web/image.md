@@ -45,6 +45,9 @@ https://jfhr.me/optimizing-images-with-the-html-picture-tag/
 > https://news.ycombinator.com/item?id=33397054
 
 # Photography
+https://exiftool.org/
+> https://news.ycombinator.com/item?id=34373928
+
 https://johnpweiss.com/blog/183699/minimalism-and-the-art-of-photography
 > https://news.ycombinator.com/item?id=34322813
 

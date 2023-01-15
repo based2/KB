@@ -30,6 +30,9 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html
+> https://news.ycombinator.com/item?id=34351304
+
 https://codav.itch.io/projectm
 > https://news.ycombinator.com/item?id=33292424
 

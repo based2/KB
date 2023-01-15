@@ -22,6 +22,8 @@ https://www.independent.co.uk/news/world/americas/canada-flights-system-outage-g
 https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC&title=NOTAM+SYSTEM+EQUIPMENT+OUTAGE_FYI&titleDate=01/11/23
 > https://news.ycombinator.com/item?id=34337158
 > https://news.ycombinator.com/item?id=34348388
+> https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/
+> > https://news.ycombinator.com/item?id=34381219
 
 # News
 https://en.wikipedia.org/wiki/ETOPS

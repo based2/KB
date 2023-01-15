@@ -32,6 +32,8 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://github.com/PabloLec/RecoverPy
+
 https://www.borgbackup.org/
 > https://news.ycombinator.com/item?id=34152369
 

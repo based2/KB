@@ -21,3 +21,5 @@ https://devlog.hexops.com/2022/perfecting-webgpu-native/
 
 https://github.com/google/forma
 > https://news.ycombinator.com/item?id=34015953
+
+https://acko.net/blog/use-gpu-goes-trad/

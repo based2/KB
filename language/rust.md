@@ -250,6 +250,8 @@ https://fettblog.eu/rust-enums-wrapping-errors/
 > https://news.ycombinator.com/item?id=28799931
 
 # Book
+https://news.ycombinator.com/item?id=34360179
+
 https://github.com/ANSSI-FR/rust-guide
 
 https://rust-unofficial.github.io/patterns/
@@ -418,6 +420,11 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://github.com/sansyrox/robyn
+> https://news.ycombinator.com/item?id=34384936
+
+https://www.theregister.com/2023/01/13/microsoft_rust_azure_sphere/
+
 https://www.jernesto.com/articles/who_needs_haskell.html
 > https://news.ycombinator.com/item?id=34275856
 

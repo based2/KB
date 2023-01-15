@@ -1,8 +1,20 @@
+https://www.mail-archive.com/announce@apache.org/msg07843.html CVE-2022-45143 Apache Tomcat - JsonErrorReportValve injection
+
+https://sector7.computest.nl/post/2023-01-xar/
+
+https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-deux-vulnerabilites-40277
+
+https://www.theregister.com/2023/01/13/happy_friday_13th_microsoft_defender/
+
+https://www.pcmag.com/news/ceo-arrested-for-selling-1-billion-in-fake-cisco-hardware-on-amazon-ebay
+
 https://vigilance.fr/vulnerabilite/XStream-deni-de-service-via-Recursive-Map-Collections-40267
 
 https://vigilance.fr/vulnerabilite/Netty-injection-d-entete-via-DefaultHttpHeaders-set-40269
 
 https://arstechnica.com/information-technology/2023/01/fortinet-says-hackers-exploited-critical-vulnerability-to-infect-vpn-customers/
+> https://paulponraj.com/sophisticated-linux-implant-discovered-compromising-fortinet-network-security-devices/
+> > https://news.ycombinator.com/item?id=34381121
 
 https://www.wired.com/story/siemens-s7-1500-logic-controller-flaw/
 

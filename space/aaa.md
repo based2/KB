@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://eos.org/articles/nasas-double-asteroid-redirection-test-is-a-smashing-success
+> https://news.ycombinator.com/item?id=34383529
+
 https://todayuknews.com/economy/europes-next-generation-of-weather-satellites-set-for-launch/
 
 https://www.esa.int/ESA_Multimedia/Images/2022/12/Webb_tracks_clouds_on_Saturn_s_moon_Titan

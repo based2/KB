@@ -129,7 +129,11 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://labs.apnic.net/index.php/2022/02/11/dns4eu/
+> https://news.ycombinator.com/item?id=34350324
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBindBugIn6016
+> https://news.ycombinator.com/item?id=34349558
 
 https://circleid.com/posts/20230110-removal-of-price-caps-for-.org-and-.info-found-improper-by-irp
 > https://news.ycombinator.com/item?id=34331563

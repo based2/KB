@@ -236,6 +236,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://science.nasa.gov/open-science-overview
+
 https://www.gnu.org/software/global/global.html
 
 https://marcin.juszkiewicz.com.pl/2019/10/15/how-to-survive-fosdem/

@@ -6,7 +6,6 @@ https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-kno
 
 https://softwarebits.substack.com/p/old-pattern-powering-modern-tech
 
-
 https://www.backblaze.com/blog/are-ssds-really-more-reliable-than-hard-drives/
 > https://news.ycombinator.com/item?id=28708290
 

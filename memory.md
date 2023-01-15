@@ -107,3 +107,4 @@ https://www.sigarch.org/fast-memcpy-a-system-design/
 https://news.ycombinator.com/item?id=34126239 ECC
 
 https://bakhi.github.io/devmem/
+> https://news.ycombinator.com/item?id=34343771

@@ -50,6 +50,7 @@ http://www.adapplang.com/
 
 # Libraries
 https://alire.ada.dev/
+> https://news.ycombinator.com/item?id=34367928
 
 # Spark
 https://www.adacore.com/about-spark

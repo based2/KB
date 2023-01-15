@@ -21,6 +21,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://minnie.tuhs.org/pipermail/tuhs/2017-May/011552.html
+> https://news.ycombinator.com/item?id=34379109
+
 https://github.com/vvaltchev/tilck
 > https://news.ycombinator.com/item?id=34295165
 > > https://github.com/nuta/kerla rust

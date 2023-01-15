@@ -76,6 +76,9 @@ https://www.riffusion.com/about
 https://www.songtell.com/
 > https://news.ycombinator.com/item?id=34025377
 
+https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/
+> https://news.ycombinator.com/item?id=34361651
+
 https://github.com/riffusion/riffusion/releases/tag/v0.3.0
 
 # speech2Text

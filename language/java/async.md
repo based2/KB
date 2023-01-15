@@ -8,6 +8,8 @@ https://micronaut.io/ MS
 
 https://projectreactor.io/
 
+https://netty.io/news/2023/01/12/4-1-87-Final.html
+
 https://vertx.io/ Reactor pattern, Eclipse
 > https://slinkydeveloper.com/Assertions-With-Vertx-Futures-And-JUnit5/
 > https://slinkydeveloper.com/Vert-x-Container-images-with-jlink/

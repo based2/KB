@@ -252,6 +252,9 @@ https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
 # News
+https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe/
+> https://news.ycombinator.com/item?id=34370310
+
 https://futurism.com/deep-learning-expert-gpt-startups-rude-awakening
 > https://news.ycombinator.com/item?id=34356042
 

@@ -525,6 +525,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://precedent.vercel.app/
+> https://news.ycombinator.com/item?id=34370660
+
+https://jakearchibald.com/2023/unhandled-rejections/
+> https://news.ycombinator.com/item?id=34347079
+
 https://blog.appsignal.com/2022/09/28/minimize-heap-allocations-in-nodejs.html
 
 https://rtpg.co/2023/01/08/ideas-for-a-javascript-stricter-mode.html

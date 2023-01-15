@@ -127,6 +127,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://www.kentik.com/blog/cuba-and-the-geopolitics-of-submarine-cables/
+> https://news.ycombinator.com/item?id=34374090
+
 https://knowablemagazine.org/article/technology/2022/fiber-optics-take-pulse-planet
 > https://news.ycombinator.com/item?id=34288999
 

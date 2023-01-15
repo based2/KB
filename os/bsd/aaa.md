@@ -38,6 +38,8 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://marc.info/?l=openbsd-tech&m=167353049316451&w=2
+
 https://undeadly.org/cgi?action=article;sid=20230111063250
 
 https://www.sizeofvoid.org/posts/2022-26-12-openbsd-kde-status-report-2022/

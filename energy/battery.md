@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.moderndescartes.com/essays/factobattery/
+> https://news.ycombinator.com/item?id=34362042
+
 https://insideevs.com/news/621173/cavotec-brugg-econnect-3mw-mcs-connector/
 
 https://www.worktruckonline.com/10176367/how-to-improve-ev-battery-performance-in-cold-weather

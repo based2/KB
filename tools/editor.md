@@ -96,7 +96,6 @@ https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcu
 
 https://news.ycombinator.com/item?id=34287407
 
-
 https://spacevim.org/SpaceVim-release-v2.0.0/
 > https://news.ycombinator.com/item?id=31986851
 
@@ -281,6 +280,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://www.trickster.dev/post/vim-is-touch-typing-on-steroids/
+> https://news.ycombinator.com/item?id=34349484
+
 https://hackaday.com/2023/01/10/imhex-an-open-hex-editor-for-the-modern-hacker/
 
 https://github.com/SpartanJ/ecode

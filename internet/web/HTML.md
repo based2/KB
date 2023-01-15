@@ -148,6 +148,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://sive.rs/shc
+
 http://endless.horse/
 > https://news.ycombinator.com/item?id=34177935
 > > https://endless.dog/

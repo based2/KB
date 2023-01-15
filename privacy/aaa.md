@@ -99,6 +99,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.theregister.com/2023/01/14/in_brief_security/
+
 https://dfeldman.medium.com/its-time-to-stop-texting-6fcce2014e36
 > https://news.ycombinator.com/item?id=34342166
 

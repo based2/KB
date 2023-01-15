@@ -310,6 +310,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://blog.metaobject.com/2023/01/setting-bozo-bit-on-apple.html
+> https://news.ycombinator.com/item?id=34371438
+
 https://www.theverge.com/2023/1/10/23549429/microled-apple-watch-rumor-custom-design-samsung
 
 https://nyansatan.github.io/lightning/
@@ -317,6 +320,7 @@ https://nyansatan.github.io/lightning/
 
 https://github.com/rui314/mold/releases/tag/v1.8.0 Mold linker: targeting macOS/iOS now requires a commercial license
 > https://news.ycombinator.com/item?id=34141912
+> https://news.ycombinator.com/item?id=34382908
 
 https://www.andrewheiss.com/blog/2016/02/10/libreoffice-base-sqlite-odbc-osx/
 

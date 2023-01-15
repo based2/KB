@@ -1,5 +1,7 @@
 https://quarkus.io/container-first/
 
+https://github.com/quarkiverse/quarkus-openapi-generator/blob/main/README.md
+
 https://blogs.oracle.com/javamagazine/post/java-leyden-static-images
 
 https://blog.payara.fish/whats-new-eclipse-microprofile-6.0

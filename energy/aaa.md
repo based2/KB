@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/
+> https://news.ycombinator.com/item?id=34366767
+
 https://carbonswitch.com/do-heat-pumps-work-in-cold-weather/
 > https://news.ycombinator.com/item?id=34352309
 

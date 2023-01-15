@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.sigidwiki.com/wiki/Category:Digital
+> https://news.ycombinator.com/item?id=34336836
+
 https://arachnoid.com/software_defined_radios/
 
 https://betterexplained.com/articles/colorized-math-equations/

@@ -91,6 +91,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://hyprland.org/
+> https://news.ycombinator.com/item?id=34380359
+
 https://github.com/Airblader/i3
 
 https://twitter.com/plagman2/status/1610200412854046720

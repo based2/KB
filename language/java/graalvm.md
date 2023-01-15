@@ -17,6 +17,7 @@ https://www.loicmathieu.fr/wordpress/en/informatique/debugger-une-image-native-g
 
 # News
 https://piotrminkowski.com/2023/01/04/native-java-with-graalvm-and-virtual-threads-on-kubernetes/
+> https://www.reddit.com/r/java/comments/1032lbg/native_java_with_graalvm_and_virtual_threads_on/
 
 https://www.infoq.com/news/2022/12/openjdk-galahad-Dec22/
 > https://news.ycombinator.com/item?id=34085585

@@ -23,6 +23,9 @@ https://github.com/badamczewski/PowerUp .Net
 
 https://github.com/echtdefault/Janus
 
+https://labs.p1sec.com/2023/01/09/releasing-hermes-dec-an-open-source-disassembler-and-decompiler-for-the-react-native-hermes-bytecode/
+> https://github.com/P1sec/hermes-dec/
+
 #
 https://www.righto.com/2023/01/reverse-engineering-airspeedmach.html
 > https://news.ycombinator.com/item?id=34358190

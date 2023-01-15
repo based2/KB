@@ -306,6 +306,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/
+> https://news.ycombinator.com/item?id=34368597
+
 https://www.fixscript.org/blog/introduction
 > https://news.ycombinator.com/item?id=34315137
 
@@ -956,6 +959,8 @@ https://news.ycombinator.com/item?id=29077933 devutils
 > https://github.com/ludovicianul/dvt
 > https://news.ycombinator.com/item?id=29982286
 > https://news.ycombinator.com/item?id=32699420
+> https://www.kodytools.com/
+> > https://news.ycombinator.com/item?id=34381895
 
 http://coconut-lang.org/ functional programming language that compiles to Python
 > https://news.ycombinator.com/item?id=29104961

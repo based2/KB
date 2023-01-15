@@ -167,6 +167,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://github.com/ducaale/xh
+
 https://blog.cloudflare.com/the-state-of-http-in-2022/
 > https://news.ycombinator.com/item?id=34201082
 

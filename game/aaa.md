@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://news.ycombinator.com/item?id=34370440
+
 https://boardgamegeek.com/blogpost/140765/publisher-diary-reiner-knizias-zoo-vadis-or-how-br
 > https://news.ycombinator.com/item?id=34321599
 

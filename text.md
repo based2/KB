@@ -70,7 +70,10 @@ https://gregtatum.com/writing/2021/diacritical-marks/
 
 https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
 
-https://blog.unicode.org/2022/09/announcing-unicode-standard-version-150.html
+https://blog.unicode.org/2022/09/announcing-unicode-standard-version-150.
+
+https://shapecatcher.com/
+> 
 
 # ASCII
 http://www.figlet.org/fontdb.cgi

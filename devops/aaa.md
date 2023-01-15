@@ -126,6 +126,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://circleci.com/blog/jan-4-2023-incident-report/
+> https://news.ycombinator.com/item?id=34374049
+> https://www.reddit.com/r/netsec/comments/10b7jhw/circleci_incident_report_for_january_4_2023/
+
 https://blog.aquasec.com/can-you-trust-your-vscode-extensions#
 > https://www.reddit.com/r/netsec/comments/105xfqa/vscode_supply_chain_attacks_protect_your_ide_from/
 

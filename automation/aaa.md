@@ -25,6 +25,12 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://milwaukeemaven.blogspot.com/2022/08/write-admin-tools-from-day-one.html
+> https://news.ycombinator.com/item?id=34363642
+
+https://blog.cedriccharly.com/post/20210523-how-cue-wins/
+> https://news.ycombinator.com/item?id=34367943
+
 https://github.com/klothoplatform/klotho
 > https://news.ycombinator.com/item?id=34330545
 

@@ -124,6 +124,9 @@ https://hexdocs.pm/owl/readme.html cli
 https://www.stephenlewis.me/blog/naming-phoenix-context-functions
 > https://news.ycombinator.com/item?id=34336396
 
+https://fly.io/phoenix-files/liveview-async-task/
+> https://news.ycombinator.com/item?id=34364251
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

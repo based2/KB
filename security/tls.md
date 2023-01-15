@@ -137,7 +137,13 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://github.com/torvalds/linux/blob/master/Documentation/networking/tls.txt
 > https://news.ycombinator.com/item?id=15164568
 
+#
+https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzing-ssh/
+> https://news.ycombinator.com/item?id=34358516
+
 # News
+
+
 https://baida.dev/articles/https-explained-with-carrier-pigeons
 > https://news.ycombinator.com/item?id=34194112
 
