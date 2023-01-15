@@ -274,6 +274,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://medium.com/@vs28031996/remove-git-history-with-bfg-repo-cleaner-866808826eea
+
 https://blog.waleedkhan.name/git-ui-features/
 > https://news.ycombinator.com/item?id=34301543
 

@@ -9,6 +9,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://old.reddit.com/r/ChatGPT/comments/10bpzjb/chatgpt_scores_80_correct12_out_of_15_on_sample/
+> https://news.ycombinator.com/item?id=34386449
+
 https://garymarcus.substack.com/p/large-language-models-like-chatgpt
 
 https://news.ycombinator.com/item?id=34338127

@@ -1,6 +1,9 @@
 https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html
 > https://news.ycombinator.com/item?id=34024914
 
+https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/
+> https://news.ycombinator.com/item?id=34386309
+
 https://github.com/mortbopet/Ripes Graphical processor simulator and assembly editor for the RISC-V ISA
 > https://news.ycombinator.com/item?id=34205311
 

@@ -1,3 +1,15 @@
+https://www.bleepingcomputer.com/news/security/cisco-warns-of-auth-bypass-bug-with-public-exploit-in-eol-routers/
+
+https://www.bleepingcomputer.com/news/security/threema-claims-encryption-flaws-never-had-a-real-world-impact/
+
+https://krebsonsecurity.com/2023/01/microsoft-patch-tuesday-january-2023-edition/#more-62425
+
+https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-to-view-credit-reports/
+
+https://www.notamonadtutorial.com/pinocchio-virtual-machine-nearly-practical-verifiable-computation/
+
+https://dawidpotocki.com/en/2023/01/13/msi-insecure-boot/
+
 https://www.mail-archive.com/announce@apache.org/msg07843.html CVE-2022-45143 Apache Tomcat - JsonErrorReportValve injection
 
 https://sector7.computest.nl/post/2023-01-xar/

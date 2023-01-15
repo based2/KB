@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.bleepingcomputer.com/news/security/metamask-warns-of-new-address-poisoning-cryptocurrency-scam/
+
 https://www.sec.gov/news/press-release/2023-7
 
 https://news.ycombinator.com/item?id=34352120

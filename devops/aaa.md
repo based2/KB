@@ -129,6 +129,9 @@ https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-
 https://circleci.com/blog/jan-4-2023-incident-report/
 > https://news.ycombinator.com/item?id=34374049
 > https://www.reddit.com/r/netsec/comments/10b7jhw/circleci_incident_report_for_january_4_2023/
+> https://techcrunch.com/2023/01/14/circleci-hackers-stole-customer-source-code/
+> > https://news.ycombinator.com/item?id=34386017
+> https://www.bleepingcomputer.com/news/security/circlecis-hack-caused-by-malware-stealing-engineers-2fa-backed-session/
 
 https://blog.aquasec.com/can-you-trust-your-vscode-extensions#
 > https://www.reddit.com/r/netsec/comments/105xfqa/vscode_supply_chain_attacks_protect_your_ide_from/

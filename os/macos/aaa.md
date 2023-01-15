@@ -64,6 +64,9 @@ https://hynek.me/articles/macos-dyld-env/
 > https://news.ycombinator.com/item?id=34309530
 
 # Dev
+https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store
+> https://news.ycombinator.com/item?id=34379156
+
 https://lapcatsoftware.com/articles/xcrun.html
 
 https://developer.apple.com/documentation/xcode-release-notes/xcode-14_1-release-notes
@@ -310,6 +313,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://twitter.com/danqing_liu/status/1614308997653499905
+
 https://blog.metaobject.com/2023/01/setting-bozo-bit-on-apple.html
 > https://news.ycombinator.com/item?id=34371438
 

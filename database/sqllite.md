@@ -106,6 +106,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://www.sqlite.org/fasterthanfs.html
+> https://news.ycombinator.com/item?id=34387407
+
 https://kentcdodds.com/blog/i-migrated-from-a-postgres-cluster-to-distributed-sqlite-with-litefs
 
 https://til.simonwillison.net/sqlite/geopoly

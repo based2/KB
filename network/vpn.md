@@ -60,6 +60,13 @@ https://arstechnica.com/information-technology/2021/09/film-studios-sue-liquidvp
 https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-top-role-company-2021-09-23/
 > https://news.ycombinator.com/item?id=28642784
 
+#
+https://www.synology.com/en-global/security/advisory/Synology_SA_22_26
+
+https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently and silently changes resolv.conf
+
+https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
+
 # News
 https://dev.to/tangramvision/what-they-don-t-tell-you-about-setting-up-a-wireguard-vpn-1h2g
 

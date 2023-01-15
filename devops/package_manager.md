@@ -42,10 +42,13 @@ https://www.jetpack.io/blog/devbox-0-2-0/
 https://askubuntu.com/questions/1341002/apt-install-g-10-installs-clang-10-instead-of-g-10/1341007#1341007
 > https://news.ycombinator.com/item?id=34103049
 
-#
 https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-via-must-mkdir-and-open-with-perms-39990
 
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
+
+#
+https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates
+> https://news.ycombinator.com/item?id=34387409
 
 https://smaller.fish/posts/snap_updates
 > https://news.ycombinator.com/item?id=33835083

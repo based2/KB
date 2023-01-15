@@ -26,6 +26,8 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://kevin.burke.dev/kevin/invalid-username-or-password-useless/
+
 https://techcrunch.com/2023/01/10/interior-department-watchdog-passwords/
 
 https://arstechnica.com/information-technology/2023/01/a-fifth-of-passwords-used-by-federal-agency-cracked-in-security-audit/

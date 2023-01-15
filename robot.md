@@ -42,6 +42,9 @@ https://www.robotshop.com/community/robots/show/how-to-make-the-least-expensive-
 
 https://info.deeplearning.ai/uks-drone-superhighway-largest-open-source-language-model-ai-protects-bees-countering-biased-labels
 
+https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229338?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229338
+> https://news.ycombinator.com/item?id=34382635
+
 # Water
 https://www.darpa.mil/news-events/2021-12-20
 
@@ -59,6 +62,8 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.youtube.com/watch?v=Wu1kpnCylKQ
+
 https://ieeexplore.ieee.org/document/9415699 ABENICS: Active Ball Joint Mechanism With Three-DoF Based on Spherical Gear Meshings
 > https://news.ycombinator.com/item?id=34160356
 

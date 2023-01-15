@@ -374,6 +374,8 @@ https://veritabs.netlify.app/
 https://escape.tech/blog/from-vue2-to-svelte/
 > https://news.ycombinator.com/item?id=33827075
 
+https://github.com/react2svelte
+
 https://svelte.dev/blog/announcing-sveltekit-1.0
 > https://news.ycombinator.com/item?id=33986555
 
@@ -525,6 +527,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.thealphadev.com/2022/12/javascript-console-tricks.html
+> 
+
 https://precedent.vercel.app/
 > https://news.ycombinator.com/item?id=34370660
 

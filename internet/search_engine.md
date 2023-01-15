@@ -82,6 +82,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://snide.irisa.fr/
+
 https://news.ycombinator.com/item?id=34174867
 
 https://iai.tv/articles/all-knowing-machines-are-a-fantasy-auid-2334

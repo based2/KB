@@ -153,6 +153,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://www.edbatista.com/2022/03/power-struggles-among-nice-people.html
+
 https://www.baldurbjarnason.com/2022/theory-building/
 > https://news.ycombinator.com/item?id=34328069
 

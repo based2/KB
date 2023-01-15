@@ -14,6 +14,11 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://hackaday.com/2022/10/10/a-raspberry-pi-phone-for-the-modern-era/
+
+https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now
+> https://news.ycombinator.com/item?id=33071408
+
 https://blogs.oracle.com/developers/post/building-the-worlds-largest-raspberry-pi-cluster
 
 https://blog.cavelab.dev/2022/12/rpi-security-alarm/

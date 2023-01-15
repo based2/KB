@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.pv-magazine.com/2023/01/13/the-case-for-flywheel-storage-in-the-philippines/
+> https://news.ycombinator.com/item?id=34370740
+
 https://arstechnica.com/science/2023/01/i-disconnected-from-the-electric-grid-for-8-months-in-manhattan/
 > https://news.ycombinator.com/item?id=34366767
 

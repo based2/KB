@@ -271,6 +271,9 @@ https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
 # News
+https://statmodeling.stat.columbia.edu/2023/01/14/bayesian-statistics-and-machine-learning-how-do-they-differ/
+> https://news.ycombinator.com/item?id=34387081
+
 https://rkward.kde.org/ r ui
 
 https://github.com/red-data-tools/YouPlot

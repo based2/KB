@@ -47,6 +47,8 @@ https://andresalmiray.com/a-pom-by-any-other-name/
 
 https://www.morling.dev/blog/maven-what-are-you-waiting-for/
 
+https://lists.apache.org/thread/kc3mcww1w8fmv6prd6dpdfjyb44lhs2h Maven Surefire - Version 3.0.0-M8
+
 https://maven.apache.org/docs/3.8.7/release-notes.html
 > https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12316922&version=12352690
 

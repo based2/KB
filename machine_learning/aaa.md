@@ -252,6 +252,11 @@ https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
 # News
+https://mlu-explain.github.io/
+
+https://medium.com/@alexgulakov/200-links-for-must-reads-on-machine-learning-in-2023-def28906aa65
+> https://news.ycombinator.com/item?id=34388540
+
 https://www.cold-takes.com/how-we-could-stumble-into-ai-catastrophe/
 > https://news.ycombinator.com/item?id=34370310
 

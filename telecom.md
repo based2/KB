@@ -127,6 +127,10 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://news.ycombinator.com/item?id=31245280
+
+https://m.cnbeta.com.tw/view/1337769.htm
+
 https://www.kentik.com/blog/cuba-and-the-geopolitics-of-submarine-cables/
 > https://news.ycombinator.com/item?id=34374090
 

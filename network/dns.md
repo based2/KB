@@ -67,6 +67,7 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 
 #
 https://dotat.at/@/2023-01-10-qsbr.html
+> https://news.ycombinator.com/item?id=34347232
 
 https://nanelo.com/ Duture-proof Nameservers, made and hosted in the EU. Scaling from small sites to enterprises.
 > https://news.ycombinator.com/item?id=34273374

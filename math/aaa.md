@@ -114,6 +114,10 @@ https://notepadcalculator.com/
 https://inversethought.com/jordi/mark1.pdf
 
 # News
+https://arxiv.org/abs/2201.12601 pi
+
+https://github.com/andrewcmyers/constrain
+
 https://news.ycombinator.com/item?id=34358663
 
 https://fredrikj.net/blog/2011/03/100-mpmath-one-liners-for-pi/
