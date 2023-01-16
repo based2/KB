@@ -14,6 +14,8 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://www.instructables.com/DIY-Raspberry-Orange-Pi-NAS-That-Really-Looks-Like/
+
 https://hackaday.com/2022/10/10/a-raspberry-pi-phone-for-the-modern-era/
 
 https://www.jeffgeerling.com/blog/2022/you-cant-buy-raspberry-pi-right-now

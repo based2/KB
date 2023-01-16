@@ -47,6 +47,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://github.com/yvguim/mysafeip
+> https://linuxfr.org/news/mysafeip-un-tiers-de-confiance-pour-votre-pare-feu
+
 https://gist.github.com/hamid-rostami/5ed34fe1948f40685f7035de36be7035
 > https://news.ycombinator.com/item?id=34264083
 

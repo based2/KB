@@ -259,6 +259,13 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/emmett-framework/granian
+> https://news.ycombinator.com/item?id=34399125
+
+https://github.com/furkanonder/beetrace
+
+https://github.com/Udayraj123/OMRChecker
+
 https://plone.org/news-and-events/news/2022/plone-6-0-released
 > https://news.ycombinator.com/item?id=34331713
 

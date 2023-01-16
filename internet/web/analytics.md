@@ -38,6 +38,9 @@ https://ads.google.com/status/publisher/incidents/EsQcYmPW6wkQvc9NZ4WB
 
 https://www.adexchanger.com/commerce/meet-performance-max-the-blackest-black-box-of-all-google-ad-products/
 
+https://shkspr.mobi/blog/2023/01/the-iab-loves-tracking-users-but-it-hates-users-tracking-them/
+> https://news.ycombinator.com/item?id=34400024
+
 # News
 https://dub.sh/
 > https://news.ycombinator.com/item?id=32939407

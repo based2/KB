@@ -27,6 +27,9 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://www.appsmith.com/blog/peeking-into-https-traffic-with-a-proxy
+> https://lobste.rs/s/28i4wl/peeking_into_https_traffic_with_proxy
+
 https://pinggy.io/
 > https://news.ycombinator.com/item?id=34337592
 

@@ -47,6 +47,9 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://useadrenaline.com/
+> https://news.ycombinator.com/item?id=34389456
+
 https://musings.yasyf.com/never-write-a-bash-command-again-with-gpt-3/
 > https://news.ycombinator.com/item?id=34102363
 

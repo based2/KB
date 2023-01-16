@@ -63,6 +63,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://github.com/misskey-dev/misskey
+> https://news.ycombinator.com/item?id=34395814
+
 https://news.ycombinator.com/item?id=34387834
 
 https://blog.medium.com/medium-embraces-mastodon-19dcb873eb11

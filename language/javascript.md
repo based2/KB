@@ -527,8 +527,10 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/
+> https://news.ycombinator.com/item?id=34402752
+
 https://www.thealphadev.com/2022/12/javascript-console-tricks.html
-> 
 
 https://precedent.vercel.app/
 > https://news.ycombinator.com/item?id=34370660

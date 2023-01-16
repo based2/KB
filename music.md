@@ -113,6 +113,9 @@ https://github.com/PolyMeilex/Neothesia
 > https://news.ycombinator.com/item?id=30569329
 
 #
+https://muted.io/cheat-sheet/
+> https://news.ycombinator.com/item?id=34387982
+
 https://github.com/jameshball/osci-render
 
 https://modarchive.org/

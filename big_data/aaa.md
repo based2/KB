@@ -124,6 +124,8 @@ https://github.com/agermanidis/pigeon Quickly annotate data from the comfort of 
 https://www.maxwellrules.com/misc/nvim_jupyter.html
 > https://news.ycombinator.com/item?id=34145680
 
+https://rachitsingh.com/collaborating-jupyter/
+
 ##
 http://zeppelin.apache.org/
 
@@ -270,7 +272,16 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
 
+# ML
+https://github.com/approximatelabs/sketch
+> https://news.ycombinator.com/item?id=34400443
+
 # News
+https://github.com/Mojang/DataFixerUpper
+> https://news.ycombinator.com/item?id=34395916
+
+https://subhadip.ca/unixlinux/awk-commands-equivalent-to-sql-query-data-manipulation/4/ csv
+
 https://statmodeling.stat.columbia.edu/2023/01/14/bayesian-statistics-and-machine-learning-how-do-they-differ/
 > https://news.ycombinator.com/item?id=34387081
 

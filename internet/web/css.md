@@ -211,6 +211,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://ishadeed.com/article/conditional-css/
+
 https://www.wisdomgeek.com/development/web-development/css-has-a-parent-selector-now/
 
 https://alistapart.com/article/holygrail/

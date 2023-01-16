@@ -109,6 +109,11 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://godotengine.org/article/whats-missing-in-godot-for-aaa/
+> https://news.ycombinator.com/item?id=34401530
+
+https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-beat-lag-1607
+
 https://fyrox.rs/blog/post/feature-highlights-0-29/
 > https://news.ycombinator.com/item?id=34318307
 

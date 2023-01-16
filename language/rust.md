@@ -180,6 +180,8 @@ https://kerkour.com/cooperative-vs-preemptive-scheduling
 
 https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/
 
+https://greptime.com/blogs/2023-01-12-hidden-control-flow
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106

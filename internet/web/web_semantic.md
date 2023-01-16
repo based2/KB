@@ -16,6 +16,9 @@ http://vocbench.uniroma2.it/
 
 http://semanticturkey.uniroma2.it/
 
+https://grafbase.com/blog/simplify-building-realtime-applications-with-graphql-live-queries
+> 
+
 https://terminusdb.com/blog/graphql-rdf-bridge-using-star-wars-dataset/
 > https://news.ycombinator.com/item?id=33371156
 

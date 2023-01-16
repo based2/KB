@@ -148,6 +148,11 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://www.devever.net/~hl/stringtemplates
+> https://news.ycombinator.com/item?id=34395712
+
+https://web.dev/top-cwv-2023/
+
 https://sive.rs/shc
 
 http://endless.horse/

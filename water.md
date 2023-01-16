@@ -106,3 +106,6 @@ https://engaging-data.com/ca-reservoir-dashboard/
 
 https://www.outtherecolorado.com/news/a-quick-breakdown-of-colorados-weather-modification-program/article_d01b73ea-906d-11ed-8b71-9b0fe103f14e.html
 > https://news.ycombinator.com/item?id=34380470
+
+https://www.nytimes.com/2023/01/16/us/arizona-water-rio-verde-scottsdale.html
+> https://news.ycombinator.com/item?id=34402359

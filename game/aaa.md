@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://cookieplmonster.github.io/2023/01/15/remastering-colin-mcrae-rally-3-silentpatch/
+> https://news.ycombinator.com/item?id=34390794
+
 https://news.ycombinator.com/item?id=34370440
 
 https://boardgamegeek.com/blogpost/140765/publisher-diary-reiner-knizias-zoo-vadis-or-how-br

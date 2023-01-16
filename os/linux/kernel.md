@@ -11,7 +11,13 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
+# Windows
+https://lwn.net/Articles/824380/
+> https://news.ycombinator.com/item?id=34391142
+
 # News
+https://www.phoronix.com/news/Linux-Splitlock-Hurts-Gaming
+
 https://lwn.net/Articles/915728/ The intersection of shadow stacks and CRIU
 
 https://cgit.freedesktop.org/~dvdhrm/kmscon/plain/README

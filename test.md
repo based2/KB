@@ -28,6 +28,9 @@ https://stepci.com/
 > https://news.ycombinator.com/item?id=33151474
 
 #
+https://nhaehnle.blogspot.com/2023/01/software-testing-and-why-im-unhappy.html
+> https://news.ycombinator.com/item?id=34386039
+
 https://arborist.dev/blog/breaking-test-assumptions
 > https://www.reddit.com/r/programming/comments/y4nv3x/breaking_test_assumptions/
 

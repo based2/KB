@@ -44,6 +44,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.britishmuseum.org/research/projects/late-hokusai-thought-technique-society
+> https://news.ycombinator.com/item?id=34403383
+
 https://text.npr.org/1140558146
 
 https://www.theguardian.com/artanddesign/2022/oct/28/mondrian-painting-has-been-hanging-upside-down-for-75-years

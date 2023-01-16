@@ -76,6 +76,9 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://marioslab.io/posts/rendering-like-its-1996/dos-nostalgia/
+> https://news.ycombinator.com/item?id=34391963
+
 https://c6y.github.io/tilix-reference/
 > https://news.ycombinator.com/item?id=34352133
 

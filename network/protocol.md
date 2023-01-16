@@ -9,6 +9,9 @@ https://www.multipath-tcp.org/
 > https://news.ycombinator.com/item?id=33220975
 
 # News
+https://www.rfc-editor.org/rfc/rfc3117.txt On the Design of Application Protocols
+> https://news.ycombinator.com/item?id=34389476
+
 https://news.ycombinator.com/item?id=34329958
 
 https://rachelbythebay.com/w/2023/01/05/syscall/

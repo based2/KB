@@ -17,6 +17,9 @@ https://en.wikipedia.org/wiki/Human_Rights_League_(France)
 https://www.anticor.org/
 
 # News
+https://theintercept.com/2023/01/11/guantanamo-bay-letter-biden/
+> https://news.ycombinator.com/item?id=34389076
+
 https://www.xinjiangpolicefiles.org/
 > https://news.ycombinator.com/item?id=31488436
 

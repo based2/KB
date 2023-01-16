@@ -1,3 +1,6 @@
+https://beaglesecurity.com/blog/article/cisco-attack-by-yanluowang-ransomware-gang.html
+> https://news.ycombinator.com/item?id=34397893
+
 https://www.bleepingcomputer.com/news/security/cisco-warns-of-auth-bypass-bug-with-public-exploit-in-eol-routers/
 
 https://www.bleepingcomputer.com/news/security/threema-claims-encryption-flaws-never-had-a-real-world-impact/

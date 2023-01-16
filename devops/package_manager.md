@@ -39,6 +39,9 @@ https://www.jetpack.io/blog/devbox-0-2-0/
 > https://news.ycombinator.com/item?id=34073950
 
 # Incident
+https://www.fortinet.com/blog/threat-research/supply-chain-attack-using-identical-pypi-packages-colorslib-httpslib-libhttps
+> https://news.ycombinator.com/item?id=34388990
+
 https://askubuntu.com/questions/1341002/apt-install-g-10-installs-clang-10-instead-of-g-10/1341007#1341007
 > https://news.ycombinator.com/item?id=34103049
 
@@ -47,6 +50,9 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 #
+https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/
+> https://news.ycombinator.com/item?id=34390585
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204ServerPhasedUpdates
 > https://news.ycombinator.com/item?id=34387409
 

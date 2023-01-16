@@ -96,6 +96,9 @@ https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcu
 
 https://news.ycombinator.com/item?id=34287407
 
+http://appsweets.net/wasavi/ js
+> https://news.ycombinator.com/item?id=34393791
+
 https://spacevim.org/SpaceVim-release-v2.0.0/
 > https://news.ycombinator.com/item?id=31986851
 

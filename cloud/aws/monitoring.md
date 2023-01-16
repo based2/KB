@@ -2,8 +2,11 @@ https://aws.amazon.com/en/blogs/aws/amazon-kinesis-data-streams-on-demand-stream
 
 https://itnext.io/aws-vpc-flow-logs-an-overview-and-example-with-cloudwatch-logs-insights-894b02a03199
 
-# News
+#
 https://vigilance.fr/vulnerabilite/AWStats-Cross-Site-Scripting-via-Hostinfo-Plugin-40020
+
+# News
+https://github.com/hseera/cloudwatch-dashboard-builder
 
 https://itnext.io/testing-aws-cloudwatch-alarms-75caebcf6da8
 

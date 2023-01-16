@@ -91,6 +91,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://jackevansevo.github.io/revisiting-kde.html
+> https://news.ycombinator.com/item?id=34390655
+
 https://hyprland.org/
 > https://news.ycombinator.com/item?id=34380359
 

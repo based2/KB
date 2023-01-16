@@ -71,6 +71,8 @@ https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art
 https://rentry.co/sdupdates list
 > https://news.ycombinator.com/item?id=33416632
 
+https://news.ycombinator.com/item?id=34395508 license
+
 https://github.com/godly-devotion/mochi-diffusion
 
 https://github.com/justjake/Gauss osx

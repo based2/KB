@@ -306,6 +306,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://mort.coffee/home/fast-interpreters/
+> https://news.ycombinator.com/item?id=34390348
+
+https://www.youtube.com/watch?v=U6I-Kwj-AvY Maximum Count of Positive Integer and Negative Integer
+
 https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/
 > https://news.ycombinator.com/item?id=34368597
 

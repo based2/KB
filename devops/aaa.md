@@ -286,6 +286,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://bentnib.org/posts/2015-04-17-propositions-as-filenames-essence-of-make.html
+> https://news.ycombinator.com/item?id=34404672
+
+https://michael.stapelberg.ch/posts/2023-01-15-gokrazy-instance-centric-config/
+
 https://rosszurowski.com/log/2022/makefiles
 > https://news.ycombinator.com/item?id=34330198
 

@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://jappie.me/the-peculiar-event-sourced-deadlock.html
+> https://news.ycombinator.com/item?id=34393943
+
 https://misfra.me/2023/ctes-as-lookup-tables/
 > https://news.ycombinator.com/item?id=34346411
 

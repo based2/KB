@@ -79,6 +79,9 @@ https://www.songtell.com/
 https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/
 > https://news.ycombinator.com/item?id=34361651
 
+https://github.com/alexcrist/autotone pitch
+> https://news.ycombinator.com/item?id=34396303
+
 https://github.com/riffusion/riffusion/releases/tag/v0.3.0
 
 # speech2Text

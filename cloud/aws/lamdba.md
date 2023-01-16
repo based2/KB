@@ -73,6 +73,9 @@ https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 https://github.com/aws-samples/aws-lambda-unit-test-example
 
 # News
+https://aws.amazon.com/en/about-aws/whats-new/2023/01/aws-lambda-maximum-concurrency-amazon-sqs-event-source/
+> https://www.reddit.com/r/aws/comments/10aqmty/aws_lambda_now_supports_maximum_concurrency_for/
+
 https://viniciusl.com.br/posts/2022/12/08-from-million-invocations-to-thousand-with-correct-caching/
 
 https://www.youtube.com/watch?v=EplOzQqgstA

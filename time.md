@@ -194,6 +194,9 @@ https://literature-clock.jenevoldsen.com/
 https://poleclock.com/
 > https://news.ycombinator.com/item?id=34196340
 
+https://somethingorotherwhatever.com/wobble-clock/
+> https://news.ycombinator.com/item?id=34399970
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

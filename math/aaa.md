@@ -114,7 +114,10 @@ https://notepadcalculator.com/
 https://inversethought.com/jordi/mark1.pdf
 
 # News
+https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/
+
 https://arxiv.org/abs/2201.12601 pi
+> https://news.ycombinator.com/item?id=34389145
 
 https://github.com/andrewcmyers/constrain
 

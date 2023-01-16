@@ -38,6 +38,8 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://www.whitehouse.gov/ostp/news-updates/2023/01/12/ostp-releases-framework-for-strengthening-federal-scientific-integrity-policies-and-practices/
+
 https://www.hhmi.org/science-education/programs/resources/making-right-moves
 
 https://www.art-sciencefactory.com/complexity-map_feb09.html

@@ -41,6 +41,9 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://aws.amazon.com/en/blogs/aws-cloud-financial-management/changes-to-aws-billing-cost-management-and-account-consoles-permissions/
+> https://www.reddit.com/r/aws/comments/109hsys/changes_to_billing_cost_management_and_account/
+
 https://news.ycombinator.com/item?id=34038663
 
 https://www.reddit.com/r/aws/comments/yz4xn4/simplify_crossaccount_access_for_your_aws/

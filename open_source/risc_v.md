@@ -141,6 +141,9 @@ https://github.com/lekkit/rvvm
 > https://news.ycombinator.com/item?id=27918744
 
 # News
+https://ekaitz.elenq.tech/bootstrapGcc0.html
+> https://news.ycombinator.com/item?id=34386645
+
 https://www.tomshardware.com/news/risc-v-laptop-world-first
 > https://news.ycombinator.com/item?id=33084508
 

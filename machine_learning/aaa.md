@@ -252,6 +252,20 @@ https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
 # News
+https://thenextweb.com/news/why-tensorflow-for-python-is-dying-a-slow-death
+> https://news.ycombinator.com/item?id=34396546
+
+https://www.semianalysis.com/p/nvidiaopenaitritonpytorch
+> https://news.ycombinator.com/item?id=34398791
+
+https://semiengineering.com/will-floating-point-8-solve-ai-ml-overhead/
+> https://news.ycombinator.com/item?id=34393903
+
+https://cprimozic.net/blog/reverse-engineering-a-small-neural-network/
+> https://news.ycombinator.com/item?id=34399142
+
+https://www.bnl.gov/newsroom/news.php?a=120993
+
 https://mlu-explain.github.io/
 
 https://medium.com/@alexgulakov/200-links-for-must-reads-on-machine-learning-in-2023-def28906aa65

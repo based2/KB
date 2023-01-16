@@ -352,6 +352,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://www.gimp.org/news/2022/12/02/gimp-2.10.32-apple-silicon/
+> https://news.ycombinator.com/item?id=34392193
+
 https://512pixels.net/2022/12/whats-left-in-the-apple-silicon-transition/
 > https://news.ycombinator.com/item?id=34189661
 

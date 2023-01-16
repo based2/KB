@@ -76,6 +76,9 @@ https://shapecatcher.com/
 > 
 
 # ASCII
+https://bestasciitable.com/
+> https://news.ycombinator.com/item?id=34399598
+
 http://www.figlet.org/fontdb.cgi
 
 https://queue.acm.org/detail.cfm?id=1871406 To move forward with programming languages we need to break free from the tyranny of ASCII.

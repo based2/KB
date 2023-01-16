@@ -25,6 +25,8 @@ https://dependencytrack.org/
 https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 
 #
+https://semgrep.dev/blog/2022/static-analysis-speed
+
 https://github.com/Legit-Labs/legitify
 > https://github.com/Legit-Labs/legitify/releases/tag/v0.2.0
 

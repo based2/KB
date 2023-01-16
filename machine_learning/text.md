@@ -9,6 +9,11 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used
+> https://news.ycombinator.com/item?id=34402648
+
+https://news.ycombinator.com/item?id=34390123
+
 https://old.reddit.com/r/ChatGPT/comments/10bpzjb/chatgpt_scores_80_correct12_out_of_15_on_sample/
 > https://news.ycombinator.com/item?id=34386449
 
