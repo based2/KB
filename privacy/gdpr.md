@@ -73,6 +73,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.simpleanalytics.com/en/google-analytics-countries
+> https://news.ycombinator.com/item?id=34388100
+
 https://yourdigitalrights.org
 > https://news.ycombinator.com/item?id=34358622
 

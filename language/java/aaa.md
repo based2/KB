@@ -265,6 +265,9 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 > https://news.ycombinator.com/item?id=34255996
 
 # News
+https://jakewharton.com/using-jlink-to-cross-compile-minimal-jres/
+> https://news.ycombinator.com/item?id=34409893
+
 https://chriskiehl.com/article/practical-lenses
 > https://news.ycombinator.com/item?id=34392885
 

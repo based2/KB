@@ -44,6 +44,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://news.ycombinator.com/item?id=34416748
+
 https://www.britishmuseum.org/research/projects/late-hokusai-thought-technique-society
 > https://news.ycombinator.com/item?id=34403383
 

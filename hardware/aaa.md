@@ -83,6 +83,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://news.ycombinator.com/item?id=34407013
+
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsCanNeedRebooting
 > https://news.ycombinator.com/item?id=34386443
 

@@ -67,4 +67,8 @@ https://www.linuxjournal.com/content/fault-tolerant-sftp-scripting-retry-failed-
 
 https://github.com/wsw70/syncthing-map
 
+https://github.com/Contextualist/acp
+> https://news.ycombinator.com/item?id=34408197
+
+
 

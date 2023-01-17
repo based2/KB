@@ -1,6 +1,9 @@
 https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html
 > https://news.ycombinator.com/item?id=34024914
 
+https://medium.com/graalvm/graalvm-native-image-meets-risc-v-899be38eddd9
+> https://www.reddit.com/r/java/comments/10eb11p/graalvm_native_image_meets_riscv/
+
 https://cordlandwehr.wordpress.com/2023/01/14/running-plasma-on-visionfive-2/
 > https://news.ycombinator.com/item?id=34386309
 

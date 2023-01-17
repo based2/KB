@@ -34,6 +34,8 @@ https://reflectoring.io/assertj-lists/
 https://maxxedev.github.io/2021/03/07/mocking-static-methods-and-constructors-with-mockito.html
 https://site.mockito.org/
 
+https://github.com/mockito/mockito/releases/tag/v5.0.0 java11
+
 # Integration tests - End2end
 https://maven.apache.org/surefire/maven-failsafe-plugin/
 

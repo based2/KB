@@ -53,6 +53,9 @@ https://github.com/drpancake/chard Simple async/await background tasks for Djang
 https://www.aeracode.org/2018/02/19/python-async-simplified/
 > https://news.ycombinator.com/item?id=33283938
 
+https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent
+> https://news.ycombinator.com/item?id=34395138
+
 # Build
 https://github.com/mesonbuild/meson
 

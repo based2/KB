@@ -27,3 +27,6 @@ https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser
 https://dl.acm.org/doi/abs/10.1145/3385412.3386032
 
 https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/
+
+https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html
+> https://news.ycombinator.com/item?id=34410776

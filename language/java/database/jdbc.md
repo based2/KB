@@ -26,6 +26,11 @@ https://github.com/Wisser/Jailer
 https://github.com/eXsio/querydsl-entityql#-query-execution
 
 # News
+https://questdb.io/blog/2023/01/03/change-data-capture-with-questdb-and-debezium/
+
+https://gavinray97.github.io/blog/postgres-wire-protocol-jdk-21
+> https://www.reddit.com/r/java/comments/10dlqs8/building_a_postgresql_wire_protocol_server_using/
+
 https://blogs.oracle.com/mysql/post/mysql-connectorj-has-new-maven-coordinates
 
 https://vladmihalcea.com/9-postgresql-high-performance-performance-tips/

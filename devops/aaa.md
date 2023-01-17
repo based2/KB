@@ -126,6 +126,11 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/
+> https://www.reddit.com/r/netsec/comments/10elkgc/security_audit_of_git/
+> https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/
+> > https://news.ycombinator.com/item?id=34417103
+
 https://circleci.com/blog/jan-4-2023-incident-report/
 > https://news.ycombinator.com/item?id=34374049
 > https://www.reddit.com/r/netsec/comments/10b7jhw/circleci_incident_report_for_january_4_2023/
@@ -286,6 +291,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://trofi.github.io/posts/238-new-make-shuffle-mode.html
+> https://news.ycombinator.com/item?id=34413375
+
 https://bentnib.org/posts/2015-04-17-propositions-as-filenames-essence-of-make.html
 > https://news.ycombinator.com/item?id=34404672
 

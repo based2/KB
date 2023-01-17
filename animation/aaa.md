@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://box2d.org/posts/2023/01/starting-box2d-3.0/
+
 https://muffinman.io/blog/draw-svg-rope-using-javascript/
 > https://news.ycombinator.com/item?id=34197379
 

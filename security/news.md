@@ -1,3 +1,5 @@
+https://www.mozilla.org/en-US/security/advisories/mfsa2023-01/
+
 https://beaglesecurity.com/blog/article/cisco-attack-by-yanluowang-ransomware-gang.html
 > https://news.ycombinator.com/item?id=34397893
 
@@ -12,6 +14,7 @@ https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-
 https://www.notamonadtutorial.com/pinocchio-virtual-machine-nearly-practical-verifiable-computation/
 
 https://dawidpotocki.com/en/2023/01/13/msi-insecure-boot/
+> https://news.ycombinator.com/item?id=34388533
 
 https://www.mail-archive.com/announce@apache.org/msg07843.html CVE-2022-45143 Apache Tomcat - JsonErrorReportValve injection
 

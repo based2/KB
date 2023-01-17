@@ -61,6 +61,7 @@ https://thisxdoesnotexist.com/
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
 https://muse-model.github.io/
+> https://news.ycombinator.com/item?id=34388473
 
 ## Stable diffusion
 https://andys.page/posts/how-to-draw/

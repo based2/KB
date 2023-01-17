@@ -145,6 +145,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # News
+https://news.ycombinator.com/item?id=34411009
+
 https://www.mailhardener.com/blog/why-mailhardener-recommends-spf-softfail-over-fail
 > https://news.ycombinator.com/item?id=34344590
 

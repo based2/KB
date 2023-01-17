@@ -42,6 +42,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://news.ycombinator.com/item?id=34413287
+
 https://www.pasteur.fr/en/press-area/press-documents/using-paleogenomics-elucidate-10000-years-immune-system-evolution
 > https://news.ycombinator.com/item?id=34402481
 

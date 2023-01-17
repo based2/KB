@@ -143,6 +143,8 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://www.mupuf.org/blog/2021/02/08/setting-up-a-ci-system-preparing-your-test-machine/
+
 https://news.ycombinator.com/item?id=34384656
 
 https://blog.janestreet.com/the-joy-of-expect-tests/ expect

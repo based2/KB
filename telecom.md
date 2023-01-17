@@ -127,6 +127,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # News
+https://every.to/cybernaut/the-quest-for-a-dumber-phone
+> https://news.ycombinator.com/item?id=34415704
+
 https://news.ycombinator.com/item?id=31245280
 
 https://m.cnbeta.com.tw/view/1337769.htm

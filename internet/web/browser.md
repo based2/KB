@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://blog.mozilla.org/en/products/firefox/extensions-addons/heres-whats-going-on-in-the-world-of-extensions/
+> https://news.ycombinator.com/item?id=34418372
+
 https://servo.org/blog/2023/01/16/servo-2023/
 > https://news.ycombinator.com/item?id=34400214
 

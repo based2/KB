@@ -252,6 +252,17 @@ https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
 # News
+https://news.ycombinator.com/item?id=34416715
+
+https://ai.google/our-focus/
+> https://news.ycombinator.com/item?id=34412196
+
+https://maxhodak.com/nonfiction/2023/01/14/the-next-button.html
+> https://news.ycombinator.com/item?id=34385431
+
+http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized
+>
+
 https://thenextweb.com/news/why-tensorflow-for-python-is-dying-a-slow-death
 > https://news.ycombinator.com/item?id=34396546
 

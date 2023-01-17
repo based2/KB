@@ -62,6 +62,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://github.com/meganetaaan/stack-chan
+> https://news.ycombinator.com/item?id=34407338
+
 https://www.youtube.com/watch?v=Wu1kpnCylKQ
 
 https://ieeexplore.ieee.org/document/9415699 ABENICS: Active Ball Joint Mechanism With Three-DoF Based on Spherical Gear Meshings

@@ -102,6 +102,11 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://mezhenskyi.dev/posts/go-linux-processes/
+
+https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/
+> https://news.ycombinator.com/item?id=34406127
+
 https://www.flipt.io/blog/embedding-react-in-go
 > https://news.ycombinator.com/item?id=34344701
 

@@ -89,6 +89,9 @@ http://xahlee.info/SpecialPlaneCurves_dir/specialPlaneCurves.html
 https://sdkgames.itch.io/ecocoru
 > https://news.ycombinator.com/item?id=32800421
 
+https://www.cantorsparadise.com/elliptic-curves-the-great-mystery-61599a93c61d
+> https://news.ycombinator.com/item?id=34394594
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705

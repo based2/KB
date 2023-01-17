@@ -306,6 +306,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://joeduffyblog.com/2015/12/19/safe-native-code/
+> https://news.ycombinator.com/item?id=34388441
+
 https://mort.coffee/home/fast-interpreters/
 > https://news.ycombinator.com/item?id=34390348
 

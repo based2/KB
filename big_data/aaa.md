@@ -277,6 +277,12 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://csvbase.com/blog/2
+> https://news.ycombinator.com/item?id=34410072
+
+https://www.plusdocs.com/
+> https://news.ycombinator.com/item?id=34416386
+
 https://github.com/Mojang/DataFixerUpper
 > https://news.ycombinator.com/item?id=34395916
 

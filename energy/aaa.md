@@ -16,6 +16,11 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future
+> https://news.ycombinator.com/item?id=34397715
+
+https://news.ycombinator.com/item?id=34396331
+
 https://www.pv-magazine.com/2023/01/13/the-case-for-flywheel-storage-in-the-philippines/
 > https://news.ycombinator.com/item?id=34370740
 

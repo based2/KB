@@ -63,6 +63,11 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://searchtodon.social/Adventures-in-Mastoland.html
+> https://news.ycombinator.com/item?id=34400143
+
+fakestream
+
 https://github.com/misskey-dev/misskey
 > https://news.ycombinator.com/item?id=34395814
 

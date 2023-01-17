@@ -164,6 +164,8 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://github.com/circa10a/terraform-provider-mailform
+
 https://news.ycombinator.com/item?id=34338318
 
 https://blog.tinystacks.com/tools-for-managing-terraform-drift

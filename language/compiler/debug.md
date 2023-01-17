@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://gcc.gnu.org/bugzilla/show_bug.cgi?id=323#c225
+> https://news.ycombinator.com/item?id=34412302
+
 https://thenewstack.io/internode-cache-thrashing-hunting-a-numa-performance-bug/
 
 https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/

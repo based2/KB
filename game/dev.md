@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://bevyengine.org/news/scaling-bevy-development/
+> https://news.ycombinator.com/item?id=34387062
+
 https://godotengine.org/article/whats-missing-in-godot-for-aaa/
 > https://news.ycombinator.com/item?id=34401530
 
