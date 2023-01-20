@@ -164,6 +164,8 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://github.com/rootsami/terradrift
+
 https://github.com/circa10a/terraform-provider-mailform
 
 https://news.ycombinator.com/item?id=34338318

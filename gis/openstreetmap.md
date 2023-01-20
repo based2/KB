@@ -39,6 +39,7 @@ https://github.com/headwaymaps/headway Self-hostable maps stack, powered by Open
 
 #
 https://jakecoppinger.com/2023/01/lane-accurate-street-maps-with-openstreetmap-writing-a-vector-tileserver-for-osm2streets/
+> https://news.ycombinator.com/item?id=34439069
 
 https://blog.andygol.co.ua/en/2022/12/24/creating-overture-map-and-future-of-osm/
 > https://news.ycombinator.com/item?id=34122719

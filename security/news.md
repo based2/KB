@@ -1,3 +1,48 @@
+https://blog.trailofbits.com/2023/01/17/rpc-investigator-microsoft-windows-remote-procedure-call/
+
+https://semgrep.dev/blog/2022/xml-security-in-java
+
+https://www.crowdstrike.com/blog/exploiting-cve-2021-3490-for-container-escapes/
+
+https://www.cyberark.com/resources/threat-research-blog/inglourious-drivers-a-journey-of-finding-vulnerabilities-in-drivers
+
+https://spectrum.ieee.org/dell-tried-to-hide-bad-capacitors-problem
+> https://news.ycombinator.com/item?id=34386682
+
+https://news.ycombinator.com/item?id=34423395
+
+https://erri120.github.io/posts/2023-01-18/
+> https://news.ycombinator.com/item?id=34428667
+
+https://www.doppler.com/blog/the-current-secrets-rotation-process-is-broken
+> https://news.ycombinator.com/item?id=34444294
+
+https://xakcop.com/post/hyundai-hack-2/
+> https://news.ycombinator.com/item?id=34420306
+
+https://tailscale.com/security-bulletins/#ts-2023-001/
+> https://news.ycombinator.com/item?id=34420142
+
+https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/
+> https://news.ycombinator.com/item?id=34441672
+
+https://www.troyhunt.com/pwned-or-bot/
+> https://news.ycombinator.com/item?id=34438251
+
+https://seclists.org/oss-sec/2023/q1/42 sudoedit
+> https://news.ycombinator.com/item?id=34445602
+
+https://www.reuters.com/technology/t-mobile-says-investigating-data-breach-affecting-37-mln-accounts-2023-01-19/
+> https://news.ycombinator.com/item?id=34447883
+> https://news.ycombinator.com/item?id=34446850
+
+https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html
+> https://news.ycombinator.com/item?id=34443813
+
+https://fr.ulule.com/serious-game-ebios-rm/
+
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21674
+
 https://www.mozilla.org/en-US/security/advisories/mfsa2023-01/
 
 https://beaglesecurity.com/blog/article/cisco-attack-by-yanluowang-ransomware-gang.html

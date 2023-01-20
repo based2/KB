@@ -277,6 +277,15 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://www.jeremiak.com/blog/datasette-the-data-hammer/
+> https://news.ycombinator.com/item?id=34416467
+
+https://github.com/onekey-sec/unblob
+> https://news.ycombinator.com/item?id=34434249
+
+https://pandoc.org/releases.html
+> https://news.ycombinator.com/item?id=34438115
+
 https://csvbase.com/blog/2
 > https://news.ycombinator.com/item?id=34410072
 

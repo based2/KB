@@ -16,6 +16,15 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://batchrocket.eu/en/
+> https://news.ycombinator.com/item?id=34439494
+
+https://blest.co.jp/eng/service/be-h/
+> https://news.ycombinator.com/item?id=34439588
+
+https://www.energy.gov/ne/articles/nrc-certifies-first-us-small-modular-reactor-design
+> https://news.ycombinator.com/item?id=34457663
+
 https://knowablemagazine.org/article/technology/2023/heat-pumps-becoming-technology-future
 > https://news.ycombinator.com/item?id=34397715
 

@@ -252,6 +252,25 @@ https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
 # News
+https://www.medpagetoday.com/special-reports/exclusives/102705
+> https://news.ycombinator.com/item?id=34448462
+
+https://github.com/hwchase17/langchain
+> https://news.ycombinator.com/item?id=34422627
+
+https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/
+> https://news.ycombinator.com/item?id=34431056
+
+https://wvsant.blogspot.com/2021/08/the-magic-of-growing-trees.html
+> https://news.ycombinator.com/item?id=34431477
+
+https://pytorch.org/tutorials/prototype/vulkan_workflow.html
+> https://news.ycombinator.com/item?id=34453881
+
+https://news.ycombinator.com/item?id=34455555
+
+https://artificialintelligenceact.eu/
+
 https://news.ycombinator.com/item?id=34416715
 
 https://ai.google/our-focus/
@@ -261,7 +280,7 @@ https://maxhodak.com/nonfiction/2023/01/14/the-next-button.html
 > https://news.ycombinator.com/item?id=34385431
 
 http://www.roguebasin.com/index.php/Dijkstra_Maps_Visualized
->
+> https://news.ycombinator.com/item?id=34410879
 
 https://thenextweb.com/news/why-tensorflow-for-python-is-dying-a-slow-death
 > https://news.ycombinator.com/item?id=34396546

@@ -527,6 +527,13 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://news.ycombinator.com/item?id=34430458
+
+https://www.builder.io/blog/structured-clone
+
+https://github.com/tc39/proposal-pipeline-operator
+> https://news.ycombinator.com/item?id=34454184
+
 https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-2/
 > https://news.ycombinator.com/item?id=34402752
 

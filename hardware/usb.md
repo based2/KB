@@ -25,6 +25,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://arstechnica.com/gadgets/2022/10/usb-c-can-hit-120gbps-with-newly-published-usb4-version-2-0-spec/
+> https://news.ycombinator.com/item?id=34424978
+
 https://tomu.im/
 > https://news.ycombinator.com/item?id=34315533
 

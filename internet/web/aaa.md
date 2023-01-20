@@ -122,6 +122,9 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://socketsupply.co/blog/socket-runtime/
+> https://news.ycombinator.com/item?id=34446668
+
 https://newsletter.danhon.com/archive/s14e06-congratulations-your-app-has-apps-in-it-now/
 > https://news.ycombinator.com/item?id=34332375
 

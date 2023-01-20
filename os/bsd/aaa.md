@@ -195,6 +195,9 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://github.com/chettrick/discobsd
+> https://news.ycombinator.com/item?id=34446251
+
 https://www.dragonflybsd.org/release64/
 > https://news.ycombinator.com/item?id=34253409
 

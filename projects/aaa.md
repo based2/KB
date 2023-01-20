@@ -120,6 +120,9 @@ https://morris.github.io/e7/#?t=
 
 https://stevemcconnell.com/17-theses-software-estimation-expanded/
 
+https://www.doomcheck.com/
+> https://news.ycombinator.com/item?id=34440872
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

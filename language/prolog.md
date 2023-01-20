@@ -56,3 +56,6 @@ https://logtalk.org/rationale.html
 
 https://old.reddit.com/r/prolog/comments/zswi13/prolog_at_work/
 > https://news.ycombinator.com/item?id=34164221
+
+https://github.com/SuperDisk/tar.pl
+> https://news.ycombinator.com/item?id=34427081

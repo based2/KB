@@ -31,3 +31,6 @@ https://services.google.com/fh/files/blogs/gcat_threathorizons_full_sept2022.pdf
 https://www.misp-project.org/
 > https://github.com/MISP/MISP
 
+https://memgraph.com/blog/stay-ahead-of-cyber-threats-with-graph-databases
+> https://news.ycombinator.com/item?id=34453854
+

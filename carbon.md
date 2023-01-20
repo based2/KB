@@ -67,6 +67,14 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://pubs.rsc.org/en/content/articlehtml/2020/ee/c9ee02873k
+> https://news.ycombinator.com/item?id=34429623
+
+https://www.reuters.com/world/americas/first-brazil-logging-raids-under-lula-aim-curb-amazon-deforestation-2023-01-19/
+
+https://www.sylvera.com/blog/guardian-offsets-response
+> https://news.ycombinator.com/item?id=34451955
+
 https://news.yahoo.com/ny-gov-hochul-proposes-ban-on-new-gas-hookups-to-fight-climate-change-233047717.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAB-CpgrGY-uZRuL1x42-Dn3cXWgEHxezqxNVvv_YeFVEw57DKFPknikCO_w2aYcvOJAuPdMWxiRoAgrX3v0ODIDu75dBNwHyfvgEauBvLY6MxZf8Oe-t0id3mhWD3vF5KDFYFzg4XvzbTCceRVLCr6RXJV2UtfgsWjns2-Nh-TFo
 > https://news.ycombinator.com/item?id=34373075
 

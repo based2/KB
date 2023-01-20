@@ -106,6 +106,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/hctree/doc/hctree/doc/hctree/index.html
+> https://news.ycombinator.com/item?id=34434025
+
 https://www.sqlite.org/fasterthanfs.html
 > https://news.ycombinator.com/item?id=34387407
 

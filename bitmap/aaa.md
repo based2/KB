@@ -76,6 +76,9 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+http://vectorpoem.com/playscii/
+> https://news.ycombinator.com/item?id=34438068
+
 https://marioslab.io/posts/rendering-like-its-1996/dos-nostalgia/
 > https://news.ycombinator.com/item?id=34391963
 

@@ -98,6 +98,9 @@ https://github.com/se2p/pynguin
 https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html
 > https://news.ycombinator.com/item?id=30301880
 
+https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest
+> https://news.ycombinator.com/item?id=34450736
+
 # Profiler
 
 https://github.com/bloomberg/memray
@@ -262,6 +265,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://thonny.org/
+> https://news.ycombinator.com/item?id=34424854
+
 https://github.com/emmett-framework/granian
 > https://news.ycombinator.com/item?id=34399125
 

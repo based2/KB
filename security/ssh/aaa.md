@@ -126,6 +126,9 @@ https://mosh.org/
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://undeadly.org/cgi?action=article;sid=20230119075627
+> https://news.ycombinator.com/item?id=34450059
+
 https://iximiuz.com/en/posts/ssh-tunnels/
 
 https://hoop.dev/blog/jump-servers/

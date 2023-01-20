@@ -66,3 +66,9 @@ https://ianthehenry.com/posts/a-cozy-nest-for-your-scripts/
 
 https://mitxela.com/projects/dotfiles_management
 > https://news.ycombinator.com/item?id=34296396
+
+https://www.scriptkit.com/
+> https://news.ycombinator.com/item?id=34457508
+
+https://lwn.net/Articles/820829/ The state of the AWK
+> https://news.ycombinator.com/item?id=34438560

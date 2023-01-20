@@ -39,6 +39,8 @@ https://www.jetpack.io/blog/devbox-0-2-0/
 > https://news.ycombinator.com/item?id=34073950
 
 # Incident
+https://arstechnica.com/information-technology/2023/01/more-malicious-packages-posted-to-online-repository-this-time-its-pypi/
+
 https://www.fortinet.com/blog/threat-research/supply-chain-attack-using-identical-pypi-packages-colorslib-httpslib-libhttps
 > https://news.ycombinator.com/item?id=34388990
 

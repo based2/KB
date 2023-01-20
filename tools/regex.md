@@ -65,6 +65,9 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://codex-kappa-dusky.vercel.app/
+> https://news.ycombinator.com/item?id=34424767
+
 https://pomsky-lang.org/
 > https://news.ycombinator.com/item?id=34183944
 

@@ -94,6 +94,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/
+> https://news.ycombinator.com/item?id=34427553
+
 https://blog.1password.com/how-1password-protects-your-data/
 > https://news.ycombinator.com/item?id=34355607
 

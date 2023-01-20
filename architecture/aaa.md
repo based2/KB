@@ -260,6 +260,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://github.com/DovAmir/awesome-design-patterns
+
 https://news.ycombinator.com/item?id=34317942
 
 https://www.mooreds.com/wordpress/archives/3578

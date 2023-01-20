@@ -9,6 +9,14 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://news.ycombinator.com/item?id=34414716
+
+https://github.com/BlinkDL/ChatRWKV
+> 
+
+https://arxiv.org/abs/2301.04655
+> https://news.ycombinator.com/item?id=34453877
+
 https://every.to/superorganizers/gpt-3-is-the-best-journal-you-ve-ever-used
 > https://news.ycombinator.com/item?id=34402648
 

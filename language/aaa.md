@@ -306,6 +306,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www.idris-lang.org/
+> https://news.ycombinator.com/item?id=34454158
+
 https://joeduffyblog.com/2015/12/19/safe-native-code/
 > https://news.ycombinator.com/item?id=34388441
 

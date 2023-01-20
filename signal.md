@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://phys.org/news/2023-01-blocking-radio-electromagnetic-flip.html
+> https://news.ycombinator.com/item?id=34424300
+
 https://blog.revolutionanalytics.com/2014/01/the-fourier-transform-explained-in-one-sentence.html
 > https://news.ycombinator.com/item?id=34389037
 

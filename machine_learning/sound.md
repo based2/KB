@@ -82,6 +82,9 @@ https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/
 https://github.com/alexcrist/autotone pitch
 > https://news.ycombinator.com/item?id=34396303
 
+https://muzic-sage.vercel.app/
+> https://news.ycombinator.com/item?id=34448334
+
 https://github.com/riffusion/riffusion/releases/tag/v0.3.0
 
 # speech2Text

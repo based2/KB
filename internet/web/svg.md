@@ -60,3 +60,5 @@ https://reanimate.github.io/
 https://github.com/vercel/satori Convert HTML and CSS to SVG
 
 https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg
+
+https://simblob.blogspot.com/2023/01/making-of-circle-drawing.html

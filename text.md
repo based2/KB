@@ -73,7 +73,6 @@ https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-de
 https://blog.unicode.org/2022/09/announcing-unicode-standard-version-150.
 
 https://shapecatcher.com/
-> 
 
 # ASCII
 https://bestasciitable.com/
@@ -132,6 +131,12 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://github.com/christianvoigt/argdown
+> https://news.ycombinator.com/item?id=34428680
+
+https://github.com/open-taggy
+> https://news.ycombinator.com/item?id=34454713
+
 https://www.openstenoproject.org/plover/ steno
 > https://news.ycombinator.com/item?id=34298063
 

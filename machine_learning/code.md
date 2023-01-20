@@ -47,6 +47,9 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/
+> https://news.ycombinator.com/item?id=34444953
+
 https://useadrenaline.com/
 > https://news.ycombinator.com/item?id=34389456
 

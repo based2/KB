@@ -156,6 +156,9 @@ https://desfontain.es/privacy/more-useful-results-dp.html
 # off-by-one error
 
 #
+https://github.com/MinBZK/woo-besluit-broncode-digid-app
+> https://news.ycombinator.com/item?id=34425614
+
 https://queue.acm.org/detail.cfm?id=3561799
 > https://www.reddit.com/r/netsec/comments/xn53z7/zero_trust_from_zero_to_one_hundred/
 

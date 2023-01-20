@@ -8,6 +8,7 @@ http://www.zoo-project.org/
 http://www.openjump.org/
 
 http://geoserver.org/
+> https://news.ycombinator.com/item?id=34425734
 
 https://www.openstreetmap.com/
 -> cert issue

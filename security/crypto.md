@@ -122,6 +122,11 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://notes.ekzhang.com/papers/moral-crypto
+
+https://eprint.iacr.org/2023/032.pdf A Gentle Tutorial for Lattice-Based Cryptanalysis
+> https://news.ycombinator.com/item?id=34458975
+
 https://www.notamonadtutorial.com/arithmetization-schemes-for-zk-snarks/
 
 https://gist.github.com/juliusgeo/969c722b2152e53e4f6bb94ca2696c7a

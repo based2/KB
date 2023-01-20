@@ -187,6 +187,9 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://blog.metabrainz.org/2022/02/16/acousticbrainz-making-a-hard-decision-to-end-the-project/
+> https://news.ycombinator.com/item?id=34439239
+
 https://newt.phys.unsw.edu.au/jw/timpani-horn/timpani-horn.html
 
 https://news.ycombinator.com/item?id=34294839

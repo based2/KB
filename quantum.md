@@ -82,6 +82,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two
+> https://news.ycombinator.com/item?id=34424150
+
 https://www.uni-konstanz.de/en/university/news-and-media/current-announcements/news/die-thermodynamik-des-quantencomputers/
 
 https://www.technologyreview.com/2023/01/06/1066317/whats-next-for-quantum-computing/

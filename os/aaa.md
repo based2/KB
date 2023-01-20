@@ -21,6 +21,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://computerhistory.org/blog/the-lisa-apples-most-influential-failure/
+> https://news.ycombinator.com/item?id=34440757
+
 https://www.morphos-team.net/ 68k .sa
 > https://www.morphos-team.net/hardware amiga, apple
 

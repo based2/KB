@@ -126,8 +126,11 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://news.ycombinator.com/item?id=34442360
+
 https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/
 > https://www.reddit.com/r/netsec/comments/10elkgc/security_audit_of_git/
+> https://www.openwall.com/lists/oss-security/2023/01/17/4
 > https://github.blog/2023-01-17-git-security-vulnerabilities-announced-2/
 > > https://news.ycombinator.com/item?id=34417103
 
@@ -291,6 +294,18 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://bvnf.space/blog/008-sudo-make-install.html
+> https://news.ycombinator.com/item?id=34422519
+
+https://andydote.co.uk/2023/01/16/feature-flags-ci/
+> https://news.ycombinator.com/item?id=34409878
+
+https://jamsync.dev/about
+> https://news.ycombinator.com/item?id=34439461
+
+https://f-droid.org/2023/01/15/towards-a-reproducible-fdroid.html
+> https://news.ycombinator.com/item?id=34457143
+
 https://trofi.github.io/posts/238-new-make-shuffle-mode.html
 > https://news.ycombinator.com/item?id=34413375
 

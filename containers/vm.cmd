@@ -9,3 +9,6 @@ https://klarasystems.com/webinars/webinar-open-source-virtualization-getting-sta
 https://klarasystems.com/articles/virtualization-showdown-freebsd-bhyve-linux-kvm/
 
 https://xcp-ng.org/blog/2022/12/16/xen-4-17-is-released/
+
+https://blog.dziban.net/coroutines/
+> https://news.ycombinator.com/item?id=34420959

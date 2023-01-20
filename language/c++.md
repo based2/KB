@@ -1,5 +1,10 @@
+https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2023/p2759r0.pdf
+
 https://www.oilshell.org/blog/2023/01/garbage-collector.html
 > https://news.ycombinator.com/item?id=34350260
+
+https://rachelbythebay.com/bb/
+> https://news.ycombinator.com/item?id=34451454
 
 https://devblogs.microsoft.com/oldnewthing/20230109-00/?p=107685
 > https://news.ycombinator.com/item?id=34337996

@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://www.adama-platform.com/2023/01/18/daunting-over-stretched.html
+> https://news.ycombinator.com/item?id=34432735
+
 https://bevyengine.org/news/scaling-bevy-development/
 > https://news.ycombinator.com/item?id=34387062
 

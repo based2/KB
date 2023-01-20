@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://github.com/TheMozg/awk-raycaster
+> https://news.ycombinator.com/item?id=34442528
+
 https://cookieplmonster.github.io/2023/01/15/remastering-colin-mcrae-rally-3-silentpatch/
 > https://news.ycombinator.com/item?id=34390794
 

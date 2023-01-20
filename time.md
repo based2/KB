@@ -225,6 +225,12 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://brandur.org/fragments/base32-slugs
+> https://news.ycombinator.com/item?id=34436625
+
+https://timeretain.com/
+> https://news.ycombinator.com/item?id=34457730
+
 https://www.epochalypse.today/
 > https://news.ycombinator.com/item?id=34284759
 

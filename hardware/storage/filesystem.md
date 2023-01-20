@@ -40,6 +40,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://bombich.com/blog/2023/01/18/folders-high-file-counts
+> https://news.ycombinator.com/item?id=34439830
+
 https://www.phoronix.com/news/NetBSD-HAMMER2-Port
 
 https://guix.gnu.org/en/blog/2023/the-filesystem-hierarchy-standard-comes-to-guix-containers/

@@ -63,6 +63,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.diffchecker.com/DmAjUJGK/
+> https://news.ycombinator.com/item?id=34448524
+
 https://searchtodon.social/Adventures-in-Mastoland.html
 > https://news.ycombinator.com/item?id=34400143
 

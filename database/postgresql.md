@@ -266,6 +266,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://supabase.com/blog/choosing-a-postgres-primary-key
+> https://news.ycombinator.com/item?id=34451344
+
 https://www.crunchydata.com/blog/state-of-json-in-postgres-2022
 
 https://postgrest.org/en/stable/index.html

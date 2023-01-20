@@ -27,6 +27,9 @@ https://securityintelligence.com/posts/attacker-achieve-persistence-google-cloud
 > https://www.reddit.com/r/netsec/comments/ya7ryu/how_an_attacker_can_achieve_persistence_in_google/
 
 # News
+https://cloud.google.com/blog/products/networking/using-ipv6-unique-local-addresses-or-ula-in-google-cloud?hl=en
+> https://news.ycombinator.com/item?id=34429980
+
 https://news.ycombinator.com/item?id=33821959
 
 https://cloud.google.com/storage/pricing-announce-apr23

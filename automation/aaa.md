@@ -25,6 +25,9 @@ https://cuelang.org/docs/about/
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
 # News
+https://blog.ipspace.net/2023/01/network-automation-expert-beginners.html
+> https://news.ycombinator.com/item?id=34417116
+
 https://milwaukeemaven.blogspot.com/2022/08/write-admin-tools-from-day-one.html
 > https://news.ycombinator.com/item?id=34363642
 

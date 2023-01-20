@@ -153,6 +153,8 @@ https://taeric.github.io/trading-with-bdds.html
 https://www.janestreet.com/tech-talks/building-an-exchange/
 > https://news.ycombinator.com/item?id=34274510
 
+https://news.ycombinator.com/item?id=34443471
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

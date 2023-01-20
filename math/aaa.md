@@ -117,6 +117,9 @@ https://notepadcalculator.com/
 https://inversethought.com/jordi/mark1.pdf
 
 # News
+https://iheartla.github.io/
+> https://news.ycombinator.com/item?id=34448858
+
 https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/
 
 https://arxiv.org/abs/2201.12601 pi
