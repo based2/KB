@@ -123,6 +123,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # Incident
+https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
+> https://www.reddit.com/r/netsec/comments/10heryo/libgit2_fails_to_verify_ssh_keys_by_default/
+
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News

@@ -1,3 +1,5 @@
+https://mixed-news.com/en/microsoft-kills-altspacevr-and-with-it-a-piece-of-vr-history/
+
 https://holokit.io/
 > https://news.ycombinator.com/item?id=34334061
 

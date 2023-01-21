@@ -144,6 +144,10 @@ https://news.ycombinator.com/item?id=30838564
 https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
+#
+https://mailchimp.com/january-2023-security-incident/
+> https://news.ycombinator.com/item?id=34464063
+
 # News
 https://news.ycombinator.com/item?id=34411009
 

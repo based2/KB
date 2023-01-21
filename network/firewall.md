@@ -47,6 +47,9 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://github.com/aerleon/aerleon
+> https://www.reddit.com/r/netsec/comments/10g9qss/aerleon_a_vendor_agnostic_firewall_management/
+
 https://github.com/yvguim/mysafeip
 > https://linuxfr.org/news/mysafeip-un-tiers-de-confiance-pour-votre-pare-feu
 

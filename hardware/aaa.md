@@ -83,6 +83,13 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.cnx-software.com/2023/01/20/quiet-ultrathin-airjet-solid-state-active-cooling-could-replace-fans/
+
+https://www.theregister.com/2023/01/21/mouse_muscle_cyborg_light/
+
+https://utcc.utoronto.ca/~cks/space/blog/tech/PowerPCInstructionOddity
+> https://news.ycombinator.com/item?id=34463718
+
 https://news.ycombinator.com/item?id=34407013
 
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BMCsCanNeedRebooting

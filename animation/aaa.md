@@ -65,6 +65,7 @@ https://dynamicsjs.com/
 
 # News
 https://codersblock.com/blog/the-surprising-things-that-css-can-animate/
+> https://news.ycombinator.com/item?id=34451002
 
 https://box2d.org/posts/2023/01/starting-box2d-3.0/
 

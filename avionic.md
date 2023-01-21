@@ -24,6 +24,7 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://news.ycombinator.com/item?id=34348388
 > https://fortune.com/2023/01/13/faa-computer-failure-grounded-thousands-flights-caused-2-contractors-introduced-data-errors-notam-system/
 > > https://news.ycombinator.com/item?id=34381219
+> https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
 https://en.wikipedia.org/wiki/ETOPS

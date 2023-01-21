@@ -1,3 +1,13 @@
+https://www.reddit.com/r/msp/comments/10f4vnr/all_data_and_logs_missing_from_117_in_it_glue/
+
+https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html
+
+https://twitter.com/riotgames/status/1616548651823935488 riot game
+
+https://offsec.tools/
+
+https://eprint.iacr.org/2023/034.pdf
+
 https://blog.trailofbits.com/2023/01/17/rpc-investigator-microsoft-windows-remote-procedure-call/
 
 https://semgrep.dev/blog/2022/xml-security-in-java
@@ -31,6 +41,7 @@ https://www.troyhunt.com/pwned-or-bot/
 
 https://seclists.org/oss-sec/2023/q1/42 sudoedit
 > https://news.ycombinator.com/item?id=34445602
+> https://www.reddit.com/r/netsec/comments/10fhsfu/sudoedit_can_edit_arbitrary_files_cve202322809/
 
 https://www.reuters.com/technology/t-mobile-says-investigating-data-breach-affecting-37-mln-accounts-2023-01-19/
 > https://news.ycombinator.com/item?id=34447883

@@ -143,6 +143,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.theregister.com/2023/01/21/microsoft_office_count_update/
+> https://news.ycombinator.com/item?id=34465941
+
 https://gabrielsieben.tech/2023/01/02/debloating-windows-10-with-one-command-and-no-scripts/
 > https://news.ycombinator.com/item?id=34221653
 

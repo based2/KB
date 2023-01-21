@@ -14,6 +14,8 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://kentindell.github.io/2021/03/05/pico-priority-inversion/
+
 https://www.instructables.com/DIY-Raspberry-Orange-Pi-NAS-That-Really-Looks-Like/
 
 https://hackaday.com/2022/10/10/a-raspberry-pi-phone-for-the-modern-era/

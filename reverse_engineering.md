@@ -27,6 +27,12 @@ https://labs.p1sec.com/2023/01/09/releasing-hermes-dec-an-open-source-disassembl
 > https://github.com/P1sec/hermes-dec/
 
 #
+https://www.righto.com/2023/01/inside-globus-ink-mechanical-navigation.html
+> https://news.ycombinator.com/item?id=34468212
+
+https://people.ece.cornell.edu/land/courses/ece4760/RP2040/C_SDK_DMA_machine/DMA_machine_rp2040.html
+> https://news.ycombinator.com/item?id=34466985
+
 https://grazfather.github.io/posts/2019-12-08-glitcher/
 > https://news.ycombinator.com/item?id=34414322
 

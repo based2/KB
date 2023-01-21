@@ -306,6 +306,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://cfallin.org/blog/2023/01/20/cranelift-isle/
+
 https://www.idris-lang.org/
 > https://news.ycombinator.com/item?id=34454158
 

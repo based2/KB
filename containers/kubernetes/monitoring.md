@@ -12,3 +12,7 @@ https://dzone.com/articles/searchable-logs-on-kubernetes-in-minutes
 https://www.reddit.com/r/kubernetes/comments/wk42l9/dont_do_this_with_your_k8s_health_checks/
 
 https://itnext.io/performance-testing-with-iter8-now-with-custom-metrics-8c97bb7449c8
+
+https://docs.odigos.io/intro Distributed traces
+> https://news.ycombinator.com/item?id=34442603
+> https://github.com/keyval-dev/odigos

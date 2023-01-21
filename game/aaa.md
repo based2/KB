@@ -15,6 +15,17 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.hmilch.net/h/lemmings.html
+
+https://www.quantamagazine.org/mathematicians-roll-dice-and-get-rock-paper-scissors-20230119/
+> https://news.ycombinator.com/item?id=34452895
+
+https://susam.net/invaders.html
+> https://news.ycombinator.com/item?id=34464865
+
+https://ski.ihoc.net/
+> https://news.ycombinator.com/item?id=34410870
+
 https://github.com/TheMozg/awk-raycaster
 > https://news.ycombinator.com/item?id=34442528
 

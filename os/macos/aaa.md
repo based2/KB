@@ -357,6 +357,10 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://tidbits.com/2023/01/11/iphones-and-ipads-now-require-a-passcode-on-every-backup-sync/
+> https://news.ycombinator.com/item?id=34463677
+> > https://theevilbit.github.io/posts/cve-2022-32929/
+
 https://www.gimp.org/news/2022/12/02/gimp-2.10.32-apple-silicon/
 > https://news.ycombinator.com/item?id=34392193
 

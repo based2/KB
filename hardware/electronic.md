@@ -46,6 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://news.ycombinator.com/item?id=34463869
+
 https://www.allaboutcircuits.com/textbook/
 > https://news.ycombinator.com/item?id=34320892
 

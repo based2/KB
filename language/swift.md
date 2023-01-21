@@ -1,5 +1,8 @@
 https://kean.blog/post/pulse-3
 
+https://forums.swift.org/t/vscode-swift-v1-0-0/62668
+> https://news.ycombinator.com/item?id=34466693
+
 https://www.infoq.com/news/2022/12/apple-swift-foundation-rewrite/
 > https://news.ycombinator.com/item?id=34339153
 

@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.carscoops.com/2023/01/norwegian-shipping-company-bans-electrified-vehicles-over-fire-fears/
+
 https://www.roads.org.uk/motorway
 > https://news.ycombinator.com/item?id=34379483
 

@@ -9,6 +9,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md
+> https://news.ycombinator.com/item?id=34462926
+
 https://news.ycombinator.com/item?id=34414716
 
 https://github.com/BlinkDL/ChatRWKV

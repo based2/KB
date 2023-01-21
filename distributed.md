@@ -165,6 +165,8 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://www.yugabyte.com/blog/yugabytedb-savepoints-distributed-transactions/
+
 https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
 
 https://architecturenotes.co/fallacies-of-distributed-systems/

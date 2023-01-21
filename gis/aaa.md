@@ -216,6 +216,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://waterdata.usgs.gov/blog/snow-tiles-demo/?ref=refind
+> https://news.ycombinator.com/item?id=34451143
+
 https://sepal.io/ google earth, gcp
 > https://github.com/openforis/sepal
 

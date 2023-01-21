@@ -63,7 +63,10 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://pluralistic.net/2023/01/21/potemkin-ai/
+
 https://www.diffchecker.com/DmAjUJGK/
+> https://arstechnica.com/tech-policy/2023/01/twitter-retroactively-changes-developer-agreement-to-ban-third-party-clients/
 > https://news.ycombinator.com/item?id=34448524
 
 https://searchtodon.social/Adventures-in-Mastoland.html

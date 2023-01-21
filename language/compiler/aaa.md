@@ -74,6 +74,8 @@ https://news.ycombinator.com/item?id=33568081 LLVM-MOS 6502 Back end [pdf] (llvm
 https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html
 > https://news.ycombinator.com/item?id=34077125
 
+https://m680x0.github.io/blog/2022/02/varlen-encoder.html
+
 https://discourse.llvm.org/t/llvm-14-0-0-release/61224
 
 ## Clang

@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/
+> https://news.ycombinator.com/item?id=34460819
+
 https://en.wikipedia.org/wiki/Eight-circuit_model_of_consciousness
 
 https://www.science.org/doi/10.1126/science.adc8810

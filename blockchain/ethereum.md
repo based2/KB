@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://vitalik.eth.limo/general/2023/01/20/stealth.html
+
 https://news.ycombinator.com/item?id=33878216
 
 https://www.bloomberg.com/news/articles/2022-11-06/ethereum-eth-to-get-fee-cuts-that-others-won-t-in-upgrade

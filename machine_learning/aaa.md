@@ -252,6 +252,8 @@ https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
 # News
+https://arxiv.org/abs/2301.07098
+
 https://www.medpagetoday.com/special-reports/exclusives/102705
 > https://news.ycombinator.com/item?id=34448462
 

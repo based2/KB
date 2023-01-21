@@ -109,3 +109,5 @@ https://www.outtherecolorado.com/news/a-quick-breakdown-of-colorados-weather-mod
 
 https://www.nytimes.com/2023/01/16/us/arizona-water-rio-verde-scottsdale.html
 > https://news.ycombinator.com/item?id=34402359
+
+https://time.com/6248517/arizona-growing-population-drought-housing/

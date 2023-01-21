@@ -15,6 +15,9 @@ https://www.w3.org/blog/news/archives/9059 web_gpu
 
 https://benedikt-bitterli.me/gpu-fluid.html
 
+https://summer-afternoon.vlucendo.com/
+> https://news.ycombinator.com/item?id=34461808
+
 https://peterbeshai.com/blog/2017-05-26-beautifully-animate-points-with-webgl-and-regl/
 
 https://github.com/burg/glsl-simulator/wiki/Project-Proposal

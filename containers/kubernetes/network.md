@@ -19,3 +19,5 @@ https://itnext.io/steps-to-emulate-pod-network-1c34209d0f53
 https://medium.com/@bareckidarek/tcp-packets-traffic-visualization-for-kubernetes-by-k8spacket-and-grafana-bb87cb106f30
 
 https://clivern.com/working-with-nginx-ingress-controller/
+
+https://navendu.me/posts/kubernetes-gateway-with-apisix/

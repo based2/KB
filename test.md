@@ -143,6 +143,11 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://matthewc.dev/musings/unit-tests/
+> https://news.ycombinator.com/item?id=34467523
+
+https://pact.io/ microservices
+
 https://www.mupuf.org/blog/2021/02/08/setting-up-a-ci-system-preparing-your-test-machine/
 
 https://news.ycombinator.com/item?id=34384656

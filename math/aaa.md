@@ -117,6 +117,9 @@ https://notepadcalculator.com/
 https://inversethought.com/jordi/mark1.pdf
 
 # News
+https://octave.org/index
+> https://news.ycombinator.com/item?id=34464512
+
 https://iheartla.github.io/
 > https://news.ycombinator.com/item?id=34448858
 

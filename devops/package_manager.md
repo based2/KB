@@ -52,6 +52,9 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 #
+https://pradyunsg.me/blog/2023/01/21/thoughts-on-python-packaging/
+> https://news.ycombinator.com/item?id=34464657
+
 https://chriswarrick.com/blog/2023/01/15/how-to-improve-python-packaging/
 > https://news.ycombinator.com/item?id=34390585
 

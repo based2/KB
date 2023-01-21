@@ -104,6 +104,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://aleclownes.com/2016/10/03/palindromic-rolling-hash.html
+> https://news.ycombinator.com/item?id=34411500
+
 https://lobste.rs/s/kgpv2l/error_detecting_correcting_codes
 
 https://news.ycombinator.com/item?id=34119778

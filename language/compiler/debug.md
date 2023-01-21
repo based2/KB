@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://pernos.co/examples/use-after-free
+
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=323#c225
 > https://news.ycombinator.com/item?id=34412302
 

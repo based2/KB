@@ -122,6 +122,8 @@ https://philzimmermann.com/EN/essays/WhyIWrotePGP.html
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://eprint.iacr.org/2023/040.pdf
+
 https://notes.ekzhang.com/papers/moral-crypto
 
 https://eprint.iacr.org/2023/032.pdf A Gentle Tutorial for Lattice-Based Cryptanalysis
