@@ -83,6 +83,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.reuters.com/technology/wolfspeed-plans-multi-billion-dollar-chip-factory-germany-handelsblatt-2023-01-21/
+
 https://www.cnx-software.com/2023/01/20/quiet-ultrathin-airjet-solid-state-active-cooling-could-replace-fans/
 
 https://www.theregister.com/2023/01/21/mouse_muscle_cyborg_light/

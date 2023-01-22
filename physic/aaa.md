@@ -71,8 +71,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://news.ycombinator.com/item?id=34443891
+
 https://pioneerworks.org/broadcast/picture-this-periodic-table
->
 
 https://smp.uq.edu.au/pitch-drop-experiment
 > https://news.ycombinator.com/item?id=34125674

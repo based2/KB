@@ -156,6 +156,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://pomofocus.io/
+> https://news.ycombinator.com/item?id=34478168
+
 https://rachsmith.com/the-hardest-part-of-being-a-jnr/
 > https://news.ycombinator.com/item?id=34405432
 

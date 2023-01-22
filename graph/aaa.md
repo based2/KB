@@ -80,8 +80,10 @@ https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-pla
 https://bugfix-66.com/58bee9560b2c92da2cdb693cf82543d0c93c65349fb751b552521129377e925a
 > https://www.reddit.com/r/programming/comments/10bx63k/an_example_of_a_graph_algorithm_in_idiomatic_go/
 
-https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/
-> https://news.ycombinator.com/item?id=34439701
+https://arxiv.org/abs/2203.03456
+> https://news.ycombinator.com/item?id=34479148
+> https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/
+> > https://news.ycombinator.com/item?id=34439701
 
 ## Cayley - groups
 http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  OF  CAYLEY  GRAPHS

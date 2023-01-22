@@ -131,6 +131,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://rhodesmill.org/brandon/2012/one-sentence-per-line/
+> https://news.ycombinator.com/item?id=34438665
+
 https://github.com/christianvoigt/argdown
 > https://news.ycombinator.com/item?id=34428680
 

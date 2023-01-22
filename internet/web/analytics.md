@@ -41,6 +41,9 @@ https://www.adexchanger.com/commerce/meet-performance-max-the-blackest-black-box
 https://shkspr.mobi/blog/2023/01/the-iab-loves-tracking-users-but-it-hates-users-tracking-them/
 > https://news.ycombinator.com/item?id=34400024
 
+https://cyber.dabamos.de/88x31/
+> https://news.ycombinator.com/item?id=34465455
+
 # News
 https://dub.sh/
 > https://news.ycombinator.com/item?id=32939407

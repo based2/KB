@@ -16,6 +16,9 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://lwn.net/SubscriberLink/920158/313ec4305df220bb/ no libc
+> https://news.ycombinator.com/item?id=34479284
+
 https://www.phoronix.com/news/Linux-Splitlock-Hurts-Gaming
 
 https://lwn.net/Articles/915728/ The intersection of shadow stacks and CRIU

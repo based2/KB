@@ -53,6 +53,9 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://rot256.dev/post/pass/
+> https://news.ycombinator.com/item?id=34477901
+
 https://www.bleepingcomputer.com/news/security/nortonlifelock-warns-that-hackers-breached-password-manager-accounts/
 
 https://www.reddit.com/r/netsec/comments/104y60m/how_the_lastpass_breach_affects_lastpass_sso/

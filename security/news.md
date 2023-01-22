@@ -1,3 +1,19 @@
+https://seclists.org/oss-sec/2023/q1/20 CVE-2023-0179: Linux kernel stack buffer overflow in nftables: PoC and writeup
+
+https://media.defense.gov/2023/Jan/18/2003145994/-1/-1/0/CSI_IPV6_SECURITY_GUIDANCE.PDF
+> https://news.ycombinator.com/item?id=34478810
+
+https://vpnoverview.com/news/wifi-routers-used-to-produce-3d-images-of-humans/
+> https://news.ycombinator.com/item?id=34480760
+
+https://9to5mac.com/2023/01/18/icloud-advanced-data-protection-ios/
+
+https://github.com/aegistudio/enigma filesystem windows
+> https://news.ycombinator.com/item?id=34474039
+
+https://blog.thinkst.com/2023/01/swipe-right-on-our-new-credit-card-tokens.html
+> https://news.ycombinator.com/item?id=34476507
+
 https://www.reddit.com/r/msp/comments/10f4vnr/all_data_and_logs_missing_from_117_in_it_glue/
 
 https://muirey03.blogspot.com/2023/01/cve-2022-42864-diabolical-cookies.html

@@ -237,6 +237,10 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://blog.documentfoundation.org/blog/2023/01/20/libreoffice-draw-guide-7-4-updated/
+
+https://librearts.org/2023/01/year-in-preview/
+
 https://science.nasa.gov/open-science-overview
 
 https://www.gnu.org/software/global/global.html

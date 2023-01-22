@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://arstechnica.com/gaming/2019/10/explaining-how-fighting-games-use-delay-based-and-rollback-netcode/
+> https://news.ycombinator.com/item?id=34399790
+
 https://www.adama-platform.com/2023/01/18/daunting-over-stretched.html
 > https://news.ycombinator.com/item?id=34432735
 

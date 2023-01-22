@@ -158,6 +158,8 @@ https://jott.live/markdown/1.5tflop_m1
 
 https://github.com/google/highway
 
+https://arxiv.org/pdf/2301.02432.pdf
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

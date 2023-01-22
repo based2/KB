@@ -71,6 +71,10 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://lists.debian.org/debian-devel-announce/2023/01/msg00004.html
+
+https://communityblog.fedoraproject.org/cpe-weekly-update-week-3-2023/
+
 https://lwn.net/SubscriberLink/919940/0df8e6f5ecfb284c/
 > https://news.ycombinator.com/item?id=34426745
 

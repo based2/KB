@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+http://voidstar.tech/rct_crash/
+> https://news.ycombinator.com/item?id=34449822
+
 https://pernos.co/examples/use-after-free
 
 https://gcc.gnu.org/bugzilla/show_bug.cgi?id=323#c225

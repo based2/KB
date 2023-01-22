@@ -40,6 +40,9 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
 # News
+https://gist.github.com/chapmanjacobd/bc6e31c8bc3647e0bcb0c43bc0464a9c sim disk failure with btrfs single mode
+> https://news.ycombinator.com/item?id=34475088
+
 https://bombich.com/blog/2023/01/18/folders-high-file-counts
 > https://news.ycombinator.com/item?id=34439830
 

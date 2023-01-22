@@ -91,6 +91,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://pointieststick.com/2023/01/20/this-week-in-kde-the-best-plasma-5-version-ever/
+
 https://jackevansevo.github.io/revisiting-kde.html
 > https://news.ycombinator.com/item?id=34390655
 

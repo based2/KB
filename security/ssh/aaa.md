@@ -129,6 +129,8 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://www.youtube.com/watch?v=hv7JwhwT0iQ
+
 https://undeadly.org/cgi?action=article;sid=20230119075627
 > https://news.ycombinator.com/item?id=34450059
 

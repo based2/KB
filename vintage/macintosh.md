@@ -121,6 +121,8 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://oldvcr.blogspot.com/2023/01/bringing-tls-to-magic-cap-datarover.html
+
 https://bitsavers.org/pdf/apple/mac/prototypes/1985_YACC/
 
 https://www.quantulum.co.uk/blog/new-timepiece-for-a-classic-mac-part-1/
