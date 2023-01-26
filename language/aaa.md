@@ -306,6 +306,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://preshing.com/20150316/semaphores-are-surprisingly-versatile/
+> https://news.ycombinator.com/item?id=34519238
+
 https://cfallin.org/blog/2023/01/20/cranelift-isle/
 
 https://www.idris-lang.org/

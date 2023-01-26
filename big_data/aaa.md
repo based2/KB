@@ -277,6 +277,8 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://sdap.apache.org/ Science Data Analytics Platform - Alpha
+
 https://streampipes.apache.org/feature-overview.html
 
 https://www.jeremiak.com/blog/datasette-the-data-hammer/

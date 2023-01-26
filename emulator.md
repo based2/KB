@@ -10,6 +10,9 @@ https://github.com/copy/v86
 https://86box.net/
 > https://news.ycombinator.com/item?id=34144479
 
+http://48k.ca/trs80gp.html
+> https://news.ycombinator.com/item?id=34514499
+
 https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/?cr=fr
 > https://news.ycombinator.com/item?id=34078828
 

@@ -16,6 +16,9 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://codentium.com/building-a-linux-kernel-with-rust-support-on-gentoo/
+> https://news.ycombinator.com/item?id=34526155
+
 https://lwn.net/SubscriberLink/920158/313ec4305df220bb/ no libc
 > https://news.ycombinator.com/item?id=34479284
 

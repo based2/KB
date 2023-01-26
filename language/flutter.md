@@ -10,6 +10,9 @@ https://fredgrott.medium.com/flutter-widget-unit-test-wrappers-33cbff8c8a39
 
 https://gpalma.pt/blog/flutter-web-web-assembly/
 
+https://9to5google.com/2023/01/25/flutter-forward-teaser/
+> https://news.ycombinator.com/item?id=34523512
+
 https://betterprogramming.pub/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18
 > https://news.ycombinator.com/item?id=29857409
 

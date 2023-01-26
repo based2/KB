@@ -47,6 +47,9 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
+> https://news.ycombinator.com/item?id=34521149
+
 https://zura.wiki/post/never-write-a-commit-message-again-with-the-help-of-gpt-3/
 > https://news.ycombinator.com/item?id=34444953
 

@@ -53,6 +53,12 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://old.reddit.com/r/sysadmin/comments/10kp4ye/lastpass_breach_gets_worse/
+> https://news.ycombinator.com/item?id=34516275
+
+https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/
+> https://news.ycombinator.com/item?id=34497898
+
 https://rot256.dev/post/pass/
 > https://news.ycombinator.com/item?id=34477901
 
@@ -97,6 +103,11 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://infisical.com/
+> https://news.ycombinator.com/item?id=34510516
+
+https://news.ycombinator.com/item?id=34532021
+
 https://bitwarden.com/blog/bitwarden-extends-passwordless-leadership-with-acquisition/
 > https://news.ycombinator.com/item?id=34427553
 

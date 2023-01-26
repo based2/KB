@@ -75,43 +75,6 @@ https://www.errno.fr/BloodhoundForLinux.html
 https://github.com/geohot/qira
 > https://news.ycombinator.com/item?id=26845775
 
-# Random
-
-https://blog.filippo.io/the-ecb-penguin/
-
-https://www.johndcook.com/blog/2021/04/29/reinventing-rng/
-
-https://www.brainonfire.net/blog/2021/05/06/cryptographic-shuffle/
-> https://news.ycombinator.com/item?id=27074850
-
-https://aws.amazon.com/en/blogs/opensource/better-random-number-generation-for-openssl-libc-and-linux-mainline/
-> https://www.reddit.com/r/crypto/comments/7ffc9h/better_random_number_generation_for_openssl_libc/
-
-https://www.bunniestudios.com/blog/?p=6094 Upgrading Precursor’s TRNG
-> https://news.ycombinator.com/item?id=27576305
-
-https://www.bit-101.com/blog/2021/07/perlin-vs-simplex/
-> https://news.ycombinator.com/item?id=27871078
-
-https://tom-kaitchuck.medium.com/designing-a-new-prng-1c4ffd27124d
-> https://en.wikipedia.org/wiki/Spectral_test
-
-https://news.ycombinator.com/item?id=30611708
-
-https://news.ycombinator.com/item?id=30877296 Ask HN: Why don't PCs have better entropy sources?
-
-https://aleph.se/andart2/math/the-cursed-d65536/
-> https://news.ycombinator.com/item?id=31679207
-
-https://www.valerionappi.it/brng-en/
-> https://news.ycombinator.com/item?id=31680466
-
-https://www.expunctis.com/2019/03/07/Not-so-random.html
-> https://news.ycombinator.com/item?id=32797830
-
-https://onerng.info/
-> https://news.ycombinator.com/item?id=33223232
-
 #
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 

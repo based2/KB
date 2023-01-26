@@ -117,6 +117,9 @@ https://notepadcalculator.com/
 https://inversethought.com/jordi/mark1.pdf
 
 # News
+https://tsplp.research.uconn.edu/computational-challenge/
+> https://news.ycombinator.com/item?id=34529117
+
 https://octave.org/index
 > https://news.ycombinator.com/item?id=34464512
 

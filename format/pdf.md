@@ -74,3 +74,5 @@ https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-lea
 
 https://github.com/captn3m0/pystitcher
 > https://news.ycombinator.com/item?id=29738723
+
+https://news.ycombinator.com/item?id=34530710 2word

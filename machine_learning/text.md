@@ -9,6 +9,12 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://colab.research.google.com/drive/1VJbLwZon7LbimViUSXgG9OJF7BdRukww?usp=sharing
+> https://news.ycombinator.com/item?id=34524134
+
+https://punchlines.ai/
+> https://news.ycombinator.com/item?id=34532208
+
 https://simonwillison.net/2023/Jan/13/semantic-search-answers/
 
 https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md

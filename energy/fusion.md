@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://firstlightfusion.com/media/first-light-fusion-signs-agreement-with-uk-atomic-energy-authoritygratulates-nif-on-its-maiden-gain-result-2
+> https://news.ycombinator.com/item?id=34516067
+
 https://www.world-nuclear-news.org/Articles/ITER-to-replace-23km-of-cooling-pipes-on-thermal-s?feed=feed
 
 https://phys.org/news/2023-01-international-fusion-energy-delays-chief.html

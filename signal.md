@@ -29,8 +29,10 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.windytan.com/2014/02/mystery-signal-from-helicopter.html
+> https://news.ycombinator.com/item?id=34511666
+
 https://destevez.net/2023/01/decoding-lunar-flashlight/
-> 
 
 https://github.com/pa3gsb/Radioberry-2.x
 

@@ -422,6 +422,16 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/
+
+https://matklad.github.io/2023/01/25/next-rust-compiler.html
+
+https://blog.rust-lang.org/2023/01/26/Rust-1.67.0.html
+> https://news.ycombinator.com/item?id=34535538
+
+https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html
+> https://news.ycombinator.com/item?id=34504948
+
 https://matt-rickard.com/rebuilding-in-rust
 
 https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/

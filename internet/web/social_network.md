@@ -63,6 +63,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://tlon.io/
+> https://news.ycombinator.com/item?id=34526038
+
 https://pluralistic.net/2023/01/21/potemkin-ai/
 
 https://www.diffchecker.com/DmAjUJGK/

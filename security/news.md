@@ -1,3 +1,47 @@
+https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/
+
+https://github.com/vonahisec/CVE-2022-47966-Scan
+
+https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/
+
+https://www.reuters.com/world/europe/dutch-hacker-obtained-virtually-all-austrians-personal-data-police-say-2023-01-25/
+> https://news.ycombinator.com/item?id=34528219
+
+https://support.apple.com/en-us/HT213154
+> https://news.ycombinator.com/item?id=34495879
+
+https://metalbear.co/blog/fun-with-macoss-sip/
+> https://news.ycombinator.com/item?id=34514656
+
+https://www.theverge.com/2023/1/24/23569600/apple-iphone-5s-security-update-ios-12
+> https://news.ycombinator.com/item?id=34512442
+
+https://palant.info/2023/01/25/ipinside-koreas-mandatory-spyware/
+> https://news.ycombinator.com/item?id=34516013
+
+https://www.securityweek.com/hive-ransomware-operation-apparently-shut-down-by-law-enforcement/
+
+https://ranum.com/security/computer_security/editorials/dumb/index.html
+> https://news.ycombinator.com/item?id=34513806
+
+https://news.ycombinator.com/item?id=34525936 Yandex Git repository leaked
+
+https://news.ycombinator.com/item?id=34509037
+
+https://lists.apache.org/thread/txoq8c7lmm2b8r69xyldckrrv68tl58c Apache Commons Crypto 1.2.0 - AES-NI, wraps OpenSSL and JCE
+
+https://apps.web.maine.gov/online/aeviewer/ME/40/766753f1-f9c7-4dc5-9a5c-fe0f3ff51c06.shtml PayPal data breach notification
+> https://news.ycombinator.com/item?id=34530067
+
+https://www.nostr.net/
+> https://news.ycombinator.com/item?id=34526562
+
+https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/
+> https://news.ycombinator.com/item?id=34533396
+
+https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets
+> https://news.ycombinator.com/item?id=34532373
+
 https://seclists.org/oss-sec/2023/q1/20 CVE-2023-0179: Linux kernel stack buffer overflow in nftables: PoC and writeup
 
 https://media.defense.gov/2023/Jan/18/2003145994/-1/-1/0/CSI_IPV6_SECURITY_GUIDANCE.PDF

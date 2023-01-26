@@ -88,6 +88,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/SigNoz/logs-benchmark
+> https://news.ycombinator.com/item?id=34500822
+
 https://www.elastic.co/guide/en/kibana/8.5/telemetry-settings-kbn.html
 > https://news.ycombinator.com/item?id=34321015
 

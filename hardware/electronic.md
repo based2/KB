@@ -46,6 +46,11 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://flex-logix.com/efpga/what-are-eflx-efpga-benefits-and-what-differentiates-us.html
+
+https://teaandtechtime.com/designing-my-very-own-asic-with-tiny-tapeout/
+> https://news.ycombinator.com/item?id=34523800
+
 https://news.ycombinator.com/item?id=34463869
 
 https://www.allaboutcircuits.com/textbook/

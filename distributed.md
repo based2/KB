@@ -82,6 +82,9 @@ https://arxiv.org/abs/2210.12605
 https://www.vldb.org/pvldb/vol16/p856-power.pdf
 > https://news.ycombinator.com/item?id=34329779
 
+https://docs.rs/yrs/0.16.0/yrs/
+> https://news.ycombinator.com/item?id=34532874
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

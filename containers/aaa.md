@@ -43,6 +43,12 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://containers.dev/
+> https://news.ycombinator.com/item?id=34513877
+
+https://github.com/containers/composefs
+> https://news.ycombinator.com/item?id=34524651
+
 https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192
 > https://news.ycombinator.com/item?id=34371073
 

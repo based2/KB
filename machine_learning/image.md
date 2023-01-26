@@ -57,6 +57,9 @@ https://github.com/Rayhane-mamah/Efficient-VDVAE
 https://thisxdoesnotexist.com/
 > https://news.ycombinator.com/item?id=32969263
 
+https://opencognitives.com/mann-e/
+> https://news.ycombinator.com/item?id=34522311
+
 # text2img
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 

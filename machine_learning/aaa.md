@@ -251,7 +251,14 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
+# Incident
+https://status.openai.com/#
+> https://news.ycombinator.com/item?id=34526741
+
 # News
+https://arxiv.org/abs/2301.10677 Imitating Human Behaviour with Diffusion Models
+> https://news.ycombinator.com/item?id=34529401
+
 https://thegradient.pub/othello/
 > https://news.ycombinator.com/item?id=34474043
 

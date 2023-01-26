@@ -61,6 +61,8 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://news.ycombinator.com/item?id=34529340
+
 https://www.cbsnews.com/news/ai-powered-robot-lawyer-takes-its-first-court-case/
 > https://news.ycombinator.com/item?id=34320319
 

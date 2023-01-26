@@ -2,6 +2,9 @@
 https://www.universetoday.com/143011/how-do-we-colonize-ceres/
 
 #
+https://www.jpl.nasa.gov/news/nasa-system-predicts-small-asteroid-to-pass-close-by-earth-this-week
+> https://news.ycombinator.com/item?id=34530761
+
 https://www.nasa.gov/press-release/nasa-invites-media-to-new-osiris-rex-asteroid-bennu-study-briefing
 > https://www.nasa.gov/feature/nasas-tour-of-asteroid-bennu-selected-for-prestigious-computer-graphics-film-festival
 > > https://news.ycombinator.com/item?id=28127565

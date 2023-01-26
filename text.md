@@ -131,6 +131,12 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://inventlikeanowner.com/blog/the-story-behind-asins-amazon-standard-identification-numbers/
+> https://news.ycombinator.com/item?id=34501344
+
+https://www.calligrapher.ai/
+> https://news.ycombinator.com/item?id=34530011
+
 https://rhodesmill.org/brandon/2012/one-sentence-per-line/
 > https://news.ycombinator.com/item?id=34438665
 

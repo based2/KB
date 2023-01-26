@@ -318,6 +318,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://arstechnica.com/gadgets/2023/01/entry-level-m2-pro-macbook-pros-have-slower-ssd-performance-than-m1-versions/
+> https://news.ycombinator.com/item?id=34522979
+
 https://twitter.com/danqing_liu/status/1614308997653499905
 
 https://blog.metaobject.com/2023/01/setting-bozo-bit-on-apple.html

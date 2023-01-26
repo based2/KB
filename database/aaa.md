@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://github.com/rest-go/rest
+> https://news.ycombinator.com/item?id=34529258
+
 https://maxdemarzi.com/2023/01/11/bullshit-graph-database-performance-benchmarks/
 > https://news.ycombinator.com/item?id=34342371
 

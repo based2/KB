@@ -24,7 +24,13 @@ https://cuelang.org/docs/about/
 # Test
 https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 
+https://github.com/tinystacks/precloud
+> https://news.ycombinator.com/item?id=34531943
+
 # News
+https://automatisch.io/
+> https://news.ycombinator.com/item?id=34519639
+
 https://blog.ipspace.net/2023/01/network-automation-expert-beginners.html
 > https://news.ycombinator.com/item?id=34417116
 

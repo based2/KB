@@ -108,3 +108,6 @@ https://news.ycombinator.com/item?id=34126239 ECC
 
 https://bakhi.github.io/devmem/
 > https://news.ycombinator.com/item?id=34343771
+
+https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-beast/
+> https://news.ycombinator.com/item?id=34523038

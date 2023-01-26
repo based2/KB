@@ -266,6 +266,12 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65
+> https://news.ycombinator.com/item?id=34517474
+
+https://rhaas.blogspot.com/2023/01/surviving-without-superuser-coming-to.html
+> 
+
 https://supabase.com/blog/choosing-a-postgres-primary-key
 > https://news.ycombinator.com/item?id=34451344
 

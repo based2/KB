@@ -21,6 +21,9 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://twitter.com/MSFT365Status/status/1618149579341369345
+> https://news.ycombinator.com/item?id=34515566
+
 https://www.mnemonic.io/resources/blog/acsessed-cross-tenant-network-bypass-in-azure-cognitive-search/
 
 https://nuxx.net/blog/2022/12/23/how-asus-and-a-microsoft-bug-almost-broke-remote-work/

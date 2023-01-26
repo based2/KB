@@ -67,6 +67,11 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.cnbc.com/2023/01/18/mexico-cracks-down-on-solar-geoengineering-stalling-make-sunsets.html
+> https://news.ycombinator.com/item?id=34528132
+
+https://albedocc.lsce.ipsl.fr/images/Presentations/AlbedoCC_Bright_.pdf 2019
+
 https://pubs.rsc.org/en/content/articlehtml/2020/ee/c9ee02873k
 > https://news.ycombinator.com/item?id=34429623
 

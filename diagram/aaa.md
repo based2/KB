@@ -173,6 +173,9 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://www.knotend.com/
+> https://news.ycombinator.com/item?id=34533218
+
 https://news.ycombinator.com/item?id=33704254
 
 https://github.com/wbkd/awesome-node-based-uis

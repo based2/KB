@@ -294,6 +294,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=34516252 devrel
+
+https://www.commandbar.com/blog/the-art-of-the-changelog
+> https://news.ycombinator.com/item?id=34518223
+
 https://news.ycombinator.com/item?id=34464636 confluence
 
 https://bvnf.space/blog/008-sudo-make-install.html

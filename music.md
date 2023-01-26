@@ -57,6 +57,9 @@ https://www.mvanga.com/blog/basic-music-theory-in-200-lines-of-python
 > https://news.ycombinator.com/item?id=26859907
 
 # Jazz
+https://jazzomat.hfm-weimar.de/dbformat/dboverview.html solo transcriptions db
+> https://news.ycombinator.com/item?id=34517777
+
 https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/
 > https://news.ycombinator.com/item?id=27525047
 
