@@ -274,6 +274,12 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://blog.jcoglan.com/2017/05/08/merging-with-diff3/
+> https://news.ycombinator.com/item?id=34557827
+
+https://github.com/jmforsythe/Git-Heat-Map
+> https://news.ycombinator.com/item?id=34563851
+
 https://initialcommit.com/blog/git-sim
 > https://news.ycombinator.com/item?id=34477976
 

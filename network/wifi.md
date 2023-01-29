@@ -21,6 +21,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://news.ycombinator.com/item?id=34567704
+
 https://github.com/morrownr/USB-WiFi linux
 > https://news.ycombinator.com/item?id=34302435
 

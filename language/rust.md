@@ -182,6 +182,8 @@ https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/
 
 https://greptime.com/blogs/2023-01-12-hidden-control-flow
 
+https://news.ycombinator.com/item?id=34567550
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -422,6 +424,9 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://github.com/sger/RustBooks
+> https://news.ycombinator.com/item?id=34556318
+
 https://predr.ag/blog/some-rust-breaking-changes-do-not-require-major-version/
 
 https://matklad.github.io/2023/01/25/next-rust-compiler.html

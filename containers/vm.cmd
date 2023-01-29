@@ -12,3 +12,5 @@ https://xcp-ng.org/blog/2022/12/16/xen-4-17-is-released/
 
 https://blog.dziban.net/coroutines/
 > https://news.ycombinator.com/item?id=34420959
+
+https://xenbits.xenproject.org/xsa/advisory-423.txt

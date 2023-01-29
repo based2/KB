@@ -25,6 +25,9 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
 # News
+https://www.popularmechanics.com/science/green-tech/a42665011/japan-hydrogen-energy-failure/
+> https://www.reddit.com/r/energy/comments/10od56b/japan_tried_to_build_a_hydrogen_society_it/
+
 https://apnews.com/article/technology-india-business-climate-and-environment-2331ebc2e2d5bfce16452865b4e6673c
 
 https://news.umich.edu/cheap-sustainable-hydrogen-through-solar-power/

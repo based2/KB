@@ -53,6 +53,10 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://sourceforge.net/p/keepass/discussion/329220/thread/a146e5cf6b/
+> https://socprime.com/blog/cve-2023-24055-detection-notorious-vulnerability-in-keepass-potentially-exposing-cleartext-passwords/
+> https://vigilance.fr/vulnerabilite/KeePass-sur-Fedora-journalisation-d-information-sensible-via-Clear-Timeout-37729
+
 https://old.reddit.com/r/sysadmin/comments/10kp4ye/lastpass_breach_gets_worse/
 > https://news.ycombinator.com/item?id=34516275
 
@@ -103,6 +107,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://twitter.com/ThrillScience/status/1619705241167106048
+> https://news.ycombinator.com/item?id=34568518
+
 https://infisical.com/
 > https://news.ycombinator.com/item?id=34510516
 

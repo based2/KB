@@ -120,6 +120,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://github.com/cksystemsteaching/selfie
+> https://news.ycombinator.com/item?id=34554007
+
 https://www.dsebastien.net/2022-08-03-the-feynman-technique/
 
 https://arbesman.substack.com/p/open-ended-software-as-human-beings

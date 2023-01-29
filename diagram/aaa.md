@@ -173,6 +173,9 @@ https://github.com/asciitosvg/asciitosvg
 https://mannhowie.com/finite-state-machines
 
 # News
+https://github.com/AlexITC/collabuml
+> https://news.ycombinator.com/item?id=34555283
+
 https://www.knotend.com/
 > https://news.ycombinator.com/item?id=34533218
 

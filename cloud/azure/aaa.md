@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-caused-by-wan-router-ip-change/
+
 https://twitter.com/MSFT365Status/status/1618149579341369345
 > https://news.ycombinator.com/item?id=34515566
 

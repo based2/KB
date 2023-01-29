@@ -131,6 +131,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://github.com/neuml/paperetl
+
 https://inventlikeanowner.com/blog/the-story-behind-asins-amazon-standard-identification-numbers/
 > https://news.ycombinator.com/item?id=34501344
 

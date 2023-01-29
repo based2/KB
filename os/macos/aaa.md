@@ -162,6 +162,9 @@ https://github.com/below/HelloSilicon introduction to ARM64 assembly on Apple Si
 > https://news.ycombinator.com/item?id=34128776
 
 # M2
+https://www.ifixit.com/News/71442/tearing-down-the-14-macbook-pro-with-apples-help
+> https://news.ycombinator.com/item?id=34565006
+
 https://www.apple.com/newsroom/2023/01/apple-unveils-macbook-pro-featuring-m2-pro-and-m2-max/
 > https://news.ycombinator.com/item?id=34412610
 

@@ -28,6 +28,9 @@ https://github.com/tinystacks/precloud
 > https://news.ycombinator.com/item?id=34531943
 
 # News
+https://www.autohotkey.com/boards/viewtopic.php?t=112989
+> https://news.ycombinator.com/item?id=34562103
+
 https://automatisch.io/
 > https://news.ycombinator.com/item?id=34519639
 

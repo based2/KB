@@ -1,3 +1,16 @@
+https://cloud.google.com/blog/products/identity-security/how-confidential-space-and-mpc-can-help-secure-digital-assets/?hl=en
+> https://news.ycombinator.com/item?id=34571175
+
+https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-windows-cryptoapi-spoofing-bug/
+
+https://www.bleepingcomputer.com/news/security/lexmark-warns-of-rce-bug-affecting-100-printer-models-poc-released/
+
+https://www.bleepingcomputer.com/news/security/researchers-to-release-vmware-vrealize-log-rce-exploit-patch-now/
+
+https://www.bleepingcomputer.com/news/security/cisa-federal-agencies-hacked-using-legitimate-remote-desktop-tools/
+
+https://www.zscaler.com/blogs/security-research/album-stealer-targets-facebook-adult-only-content-seekers
+
 https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/
 
 https://github.com/vonahisec/CVE-2022-47966-Scan

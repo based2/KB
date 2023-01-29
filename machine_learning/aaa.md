@@ -256,6 +256,14 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://github.com/helblazer811/ManimML
+> https://news.ycombinator.com/item?id=34562808
+
+https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
+> https://news.ycombinator.com/item?id=34566275
+
+https://www.nist.gov/itl/ai-risk-management-framework
+
 https://arxiv.org/abs/2301.10677 Imitating Human Behaviour with Diffusion Models
 > https://news.ycombinator.com/item?id=34529401
 

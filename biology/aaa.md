@@ -42,6 +42,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://research.gatech.edu/more-e-coli-meets-eye-bme-lab-discovers-evidence-multicellularity-single-cell-organism
+> https://news.ycombinator.com/item?id=34546273
+
 https://news.ycombinator.com/item?id=34517921
 > https://en.wikipedia.org/wiki/Membrane_computing
 

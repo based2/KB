@@ -9,6 +9,8 @@ https://medium.com/kubeshop-i/an-open-source-approach-to-self-hosting-a-gitops-p
 
 https://www.reddit.com/r/kubernetes/comments/zebz3q/the_argo_project_has_officially_graduated/
 
+https://www.reddit.com/r/kubernetes/comments/10mov2j/kubefirst_free_and_open_source_gitops_internal/
+
 # Spinnaker
 
 # Prox

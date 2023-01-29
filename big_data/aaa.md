@@ -277,6 +277,9 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://drtomasaragon.github.io/posts/2023-01-14-my-journey-from-r-to-julia/
+> https://news.ycombinator.com/item?id=34566340
+
 https://sdap.apache.org/ Science Data Analytics Platform - Alpha
 
 https://streampipes.apache.org/feature-overview.html

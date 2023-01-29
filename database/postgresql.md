@@ -266,6 +266,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://gilslotd.com/blog/features_id_postgresql
+> https://news.ycombinator.com/item?id=34560332
+
 https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-yes-we-can-358e61171d65
 > https://news.ycombinator.com/item?id=34517474
 

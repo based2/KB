@@ -306,6 +306,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/Vexu/bog
+> https://news.ycombinator.com/item?id=34567815
+
+https://cyberscript.dev/
+> https://news.ycombinator.com/item?id=34553236
+
 https://preshing.com/20150316/semaphores-are-surprisingly-versatile/
 > https://news.ycombinator.com/item?id=34519238
 

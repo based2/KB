@@ -41,6 +41,8 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://www.reddit.com/r/aws/comments/10npb52/aws_sso_strategy_for_access_to_all_member_accounts/
+
 https://aws.amazon.com/en/blogs/aws-cloud-financial-management/changes-to-aws-billing-cost-management-and-account-consoles-permissions/
 > https://www.reddit.com/r/aws/comments/109hsys/changes_to_billing_cost_management_and_account/
 

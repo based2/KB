@@ -102,6 +102,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://cloud.ergo.services/#Framework
+> https://github.com/ergo-services/ergo
+
 https://mezhenskyi.dev/posts/go-linux-processes/
 
 https://blog.carlmjohnson.net/post/2023/golang-120-arenas-errors-responsecontroller/

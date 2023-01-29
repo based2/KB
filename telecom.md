@@ -126,6 +126,9 @@ https://www.dslreports.com/forum/wisp
 
 https://startyourownisp.com/
 
+#
+https://news.ycombinator.com/item?id=34570065
+
 # News
 https://techxplore.com/news/2023-01-enable-multi-kilometer-sub-terahertz-communications-extremely.html
 > https://news.ycombinator.com/item?id=34448750

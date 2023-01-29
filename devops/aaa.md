@@ -126,6 +126,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+
+https://about.gitlab.com/releases/2023/01/17/critical-security-release-gitlab-15-7-5-released/
+
+
 https://news.ycombinator.com/item?id=34442360
 
 https://x41-dsec.de/security/research/news/2023/01/17/git-security-audit-ostif/

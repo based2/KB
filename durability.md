@@ -64,6 +64,12 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://www.galaxus.ch/en/page/refreshingly-honest-digitec-galaxus-now-displays-warranty-score-and-return-rate-25950
+> https://news.ycombinator.com/item?id=34536344
+
+https://gridbeam.xyz/
+> https://news.ycombinator.com/item?id=34565675
+
 https://report.opensustain.tech/chapters/index.html
 > https://news.ycombinator.com/item?id=34339575
 
