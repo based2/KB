@@ -118,6 +118,7 @@ https://www.dneg.com/xstudio-is-here/
 https://codecs.multimedia.cx/2023/01/ffhistory-conclusion/
 
 https://scrollyvideo.js.org/
+> https://www.diplateevo.com/scrollyvideo/
 
 https://github.com/obsproject/obs-studio/releases/tag/29.0.0
 > https://news.ycombinator.com/item?id=34313906

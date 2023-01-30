@@ -71,3 +71,6 @@ https://news.ycombinator.com/item?id=33897943
 
 https://shiftrobotics.io/
 > https://news.ycombinator.com/item?id=34264406
+
+https://www.elidourado.com/p/cargo-airships
+> https://news.ycombinator.com/item?id=34579915

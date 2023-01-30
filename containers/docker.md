@@ -57,6 +57,8 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://www.jenkins.io/blog/2022/12/27/run-jenkins-agent-as-a-service/
+
 https://github.com/lavie/runlike Given an existing docker container, prints the command line necessary to run a copy of it.
 > https://news.ycombinator.com/item?id=34450880
 

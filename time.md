@@ -227,6 +227,12 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
 # News
+https://rachelbythebay.com/w/2023/01/29/bash/
+> https://news.ycombinator.com/item?id=34573980
+
+https://dotat.at/@/2022-12-04-leap-seconds.html
+> https://news.ycombinator.com/item?id=34578077
+
 https://news.ycombinator.com/item?id=34496287
 
 https://news.ycombinator.com/item?id=34532383

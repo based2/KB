@@ -9,6 +9,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://eli5.gg/
+> https://news.ycombinator.com/item?id=34584393
+
 https://colab.research.google.com/drive/1VJbLwZon7LbimViUSXgG9OJF7BdRukww?usp=sharing
 > https://news.ycombinator.com/item?id=34524134
 

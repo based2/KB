@@ -7,6 +7,8 @@ https://github.com/dpanic/fuzzer
 
 https://tlakh.xyz/fuzzing-ping.html
 
+https://thevaluable.dev/practical-guide-fzf-example/
+
 https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html
 
 https://blog.doyensec.com/2022/11/15/learning-ajp.html

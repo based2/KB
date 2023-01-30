@@ -91,6 +91,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://memgraph.com/blog/pagerank-algorithm-for-graph-databases
+> https://news.ycombinator.com/item?id=34577832
+
 https://networkx.org/documentation/stable/release/release_3.0.html
 > https://news.ycombinator.com/item?id=34321135
 > https://python-graphblas.readthedocs.io/en/latest/

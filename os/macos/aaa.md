@@ -321,6 +321,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://medium.com/@aplaceofmind/ventura-is-not-macos-its-macios-1d00f12fa01e
+> https://news.ycombinator.com/item?id=34575553
+
 https://arstechnica.com/gadgets/2023/01/entry-level-m2-pro-macbook-pros-have-slower-ssd-performance-than-m1-versions/
 > https://news.ycombinator.com/item?id=34522979
 

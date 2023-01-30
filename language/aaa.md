@@ -306,6 +306,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://itnext.io/writing-code-without-plain-text-files-cb8f1ed2c0ad
+
 https://github.com/Vexu/bog
 > https://news.ycombinator.com/item?id=34567815
 

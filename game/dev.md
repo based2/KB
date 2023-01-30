@@ -109,6 +109,14 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://timallanwheeler.com/blog/2023/01/27/2d-player-collision-against-static-geometry/
+
+https://github.com/snesrev/zelda3
+> https://news.ycombinator.com/item?id=34573418
+
+https://donhopkins.medium.com/designing-user-interfaces-to-simulation-games-bd7a9d81e62d
+> https://news.ycombinator.com/item?id=34573406
+
 https://github.com/ozkl/doomgeneric
 > 
 

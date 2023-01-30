@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://nautil.us/when-will-fusion-energy-light-our-homes-259169/
+> https://news.ycombinator.com/item?id=34580959
+
 https://firstlightfusion.com/media/first-light-fusion-signs-agreement-with-uk-atomic-energy-authoritygratulates-nif-on-its-maiden-gain-result-2
 > https://news.ycombinator.com/item?id=34516067
 

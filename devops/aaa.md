@@ -277,6 +277,8 @@ SourceForge nobody Apache HTTPD configuration
 
 # New versions
 
+https://about.gitlab.com/releases/2022/12/22/gitlab-15-7-released/
+
 https://about.gitlab.com/releases/2022/11/22/gitlab-15-6-released/
 
 https://www.mikeperham.com/2022/10/27/introducing-sidekiq-7.0/
@@ -298,6 +300,14 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.jenkins.io/blog/2023/01/12/jenkins-newsletter/
+
+https://news.ycombinator.com/item?id=34583080 runtime
+> https://asdf-vm.com/
+
+https://discourse.llvm.org/t/fyi-llvm-project-repo-has-exceeded-github-upload-size-limit/63293
+> https://news.ycombinator.com/item?id=34580907
+
 https://news.ycombinator.com/item?id=34516252 devrel
 
 https://www.commandbar.com/blog/the-art-of-the-changelog

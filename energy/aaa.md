@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php
+> https://news.ycombinator.com/item?id=34575601
+
 https://energyandcleanair.org/weekly-snapshot-russian-fossil-fuel-exports-09-to-15-january-2023/
 
 https://batchrocket.eu/en/

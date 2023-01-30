@@ -232,6 +232,12 @@ https://news.ycombinator.com/item?id=34052468
 https://www.emacswiki.org/emacs/MovingTheCtrlKey
 > https://news.ycombinator.com/item?id=34126080
 
+https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer
+> https://news.ycombinator.com/item?id=34580943
+
+https://bjornwestergard.com/log/2022-04-19-hypertext-emacs.gmi
+> https://news.ycombinator.com/item?id=34583734
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

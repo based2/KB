@@ -51,6 +51,9 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://www.terrastruct.com/blog/post/diagram-layout-engines-crossing-minimization/
+> https://news.ycombinator.com/item?id=34576941
+
 https://github.com/wbkd/react-flow-mindmap-app
 
 https://blog.icepanel.io/2023/01/03/common-diagramming-mistakes/

@@ -1,3 +1,9 @@
+https://sh1mmer.me/ exploit capable of completely unenrolling enterprise-managed Chromebooks
+> https://news.ycombinator.com/item?id=34578900
+
+https://www.jefftk.com/p/how-likely-is-losing-a-google-account
+> https://news.ycombinator.com/item?id=34581090
+
 https://cloud.google.com/blog/products/identity-security/how-confidential-space-and-mpc-can-help-secure-digital-assets/?hl=en
 > https://news.ycombinator.com/item?id=34571175
 

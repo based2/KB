@@ -96,6 +96,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://news.ycombinator.com/item?id=34572500
+
 https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9 inherit_environment_variables_from_pid_1
 > https://news.ycombinator.com/item?id=34470666
 

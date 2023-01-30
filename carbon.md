@@ -67,6 +67,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/
+> https://news.ycombinator.com/item?id=34571885
+
 https://www.cnbc.com/2023/01/18/mexico-cracks-down-on-solar-geoengineering-stalling-make-sunsets.html
 > https://news.ycombinator.com/item?id=34528132
 

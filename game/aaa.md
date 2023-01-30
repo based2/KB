@@ -15,6 +15,8 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.chronophoto.app/game.html
+
 https://www.hmilch.net/h/lemmings.html
 
 https://www.quantamagazine.org/mathematicians-roll-dice-and-get-rock-paper-scissors-20230119/

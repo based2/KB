@@ -105,6 +105,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://www.cs.toronto.edu/~lczhang/sandre_float2021.pdf
+> https://news.ycombinator.com/item?id=34578094
+
 https://byorgey.wordpress.com/2023/01/01/competitive-programming-in-haskell-better-binary-search/
 > https://news.ycombinator.com/item?id=34204642
 

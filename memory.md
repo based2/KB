@@ -111,3 +111,6 @@ https://bakhi.github.io/devmem/
 
 https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-beast/
 > https://news.ycombinator.com/item?id=34523038
+
+https://semiengineering.com/choosing-the-correct-high-bandwidth-memory/
+> https://news.ycombinator.com/item?id=34577056

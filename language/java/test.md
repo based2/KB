@@ -101,6 +101,8 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 https://github.com/vitaliy-sk/PerfUnit
 
 # News
+https://piotrminkowski.com/2023/01/30/useful-unknown-java-libraries/
+
 https://www.infoq.com/news/2022/09/junit-5-9/
 
 https://speakerdeck.com/marcphilipp/evolving-junit-5

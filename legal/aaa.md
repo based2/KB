@@ -3,9 +3,6 @@ https://en.wikipedia.org/wiki/Civil_law_(legal_system)#Subgroups
 # case law
 https://reasonablypolymorphic.com/blog/exploring-case-law/
 
-# US
-https://en.wikipedia.org/wiki/American_Service-Members%27_Protection_Act
-
 # Brexit - data rights
 https://www.theguardian.com/politics/2021/jun/30/openstreetmap-looks-to-relocate-to-eu-due-to-brexit-limitations
 > https://news.ycombinator.com/item?id=27685629
@@ -17,6 +14,8 @@ https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argu
 > https://news.ycombinator.com/item?id=26952429
 
 # US
+https://en.wikipedia.org/wiki/American_Service-Members%27_Protection_Act
+
 https://www.judyrecords.com/
 > https://news.ycombinator.com/item?id=30399881
 
@@ -25,6 +24,9 @@ https://ffii.org/unified-patent-court-is-100x-more-expensive-and-an-sme-killer-e
 
 https://www.regulations.gov/
 
+https://www.wsj.com/articles/j-js-talc-bankruptcy-case-thrown-out-by-appeals-court-11675096308
+> https://news.ycombinator.com/item?id=34583670
+
 # Language
 https://arxiv.org/abs/2103.03198 Catala
 > https://news.ycombinator.com/item?id=27059899
@@ -32,6 +34,9 @@ https://arxiv.org/abs/2103.03198 Catala
 https://resources.jetbrains.com/storage/products/mps/docs/MPS_DTO_Case_Study.pdf
 
 https://www.plainlanguage.gov/
+
+https://arxiv.org/abs/2011.07966 Mlang : A Modern Compiler for the French Tax Code
+> https://news.ycombinator.com/item?id=34579236
 
 # Open data
 https://www.lumendatabase.org/ Collects and analyzes legal complaints and requests for removal of online materials

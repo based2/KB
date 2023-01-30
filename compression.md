@@ -37,6 +37,9 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://aras-p.info/blog/2023/01/29/Float-Compression-0-Intro/
+> https://news.ycombinator.com/item?id=34577987
+
 https://gpuopen.com/brotli-g-sdk-announce/
 > https://news.ycombinator.com/item?id=33706380
 

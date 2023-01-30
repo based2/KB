@@ -17,3 +17,5 @@ https://libreboot.org/news/libreboot20221214.html
 
 https://mjg59.dreamwidth.org/63787.html
 > https://news.ycombinator.com/item?id=34256583
+
+https://patrick.georgi.family/2021/02/13/on-microcode/

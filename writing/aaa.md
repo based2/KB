@@ -69,6 +69,9 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit
+> https://news.ycombinator.com/item?id=34576085
+
 https://ralphammer.com/how-to-draw-ideas/
 > https://news.ycombinator.com/item?id=34382655
 

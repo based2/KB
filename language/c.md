@@ -74,6 +74,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://build-your-own.org/blog/20230127_byor/
+> https://news.ycombinator.com/item?id=34572263
+
 https://interrupt.memfault.com/blog/zero-to-main-1
 > https://news.ycombinator.com/item?id=34459053
 

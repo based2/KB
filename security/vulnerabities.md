@@ -267,6 +267,8 @@ https://www.win.tue.nl/hashclash/rogue-ca/ MD5
 
 https://en.wikipedia.org/wiki/Dual_EC_DRBG
 
+https://en.wikipedia.org/wiki/Conficker
+
 ## 2007
 https://en.wikipedia.org/wiki/2007_cyberattacks_on_Estonia
 
