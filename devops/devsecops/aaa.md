@@ -25,6 +25,8 @@ https://dependencytrack.org/
 https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 
 #
+https://news.ycombinator.com/item?id=34630532
+
 https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/
 
 https://thomasroot.com/2023/01/16/trivy-operator-improve-container-runtime-security/

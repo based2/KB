@@ -71,6 +71,12 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=34598987
+
+https://news.ycombinator.com/item?id=34599094
+
+https://rwmj.wordpress.com/2023/02/02/fedora-now-has-frame-pointers/
+
 https://blendos.co/
 > https://news.ycombinator.com/item?id=34578197
 

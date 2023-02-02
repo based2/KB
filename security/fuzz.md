@@ -9,6 +9,9 @@ https://tlakh.xyz/fuzzing-ping.html
 
 https://thevaluable.dev/practical-guide-fzf-example/
 
+https://security.googleblog.com/2023/02/taking-next-step-oss-fuzz-in-2023.html
+> https://news.ycombinator.com/item?id=34626197
+
 https://www.pypy.org/posts/2022/12/jit-bug-finding-smt-fuzzing.html
 
 https://blog.doyensec.com/2022/11/15/learning-ajp.html

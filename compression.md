@@ -37,6 +37,9 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 # News
+https://phoboslab.org/log/2023/02/qoa-time-domain-audio-compression
+> https://news.ycombinator.com/item?id=34625573
+
 https://aras-p.info/blog/2023/01/29/Float-Compression-0-Intro/
 > https://news.ycombinator.com/item?id=34577987
 

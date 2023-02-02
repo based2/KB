@@ -109,6 +109,12 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608
+> https://news.ycombinator.com/item?id=34594547
+
+https://blog.littlepolygon.com/posts/missile/
+> https://news.ycombinator.com/item?id=34630730
+
 https://timallanwheeler.com/blog/2023/01/27/2d-player-collision-against-static-geometry/
 
 https://github.com/snesrev/zelda3

@@ -102,6 +102,11 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > > https://news.ycombinator.com/item?id=31956938
 
 # News
+https://go.dev/doc/go1.20
+> https://news.ycombinator.com/item?id=34616352
+
+https://news.ycombinator.com/item?id=34607738
+
 https://cloud.ergo.services/#Framework
 > https://github.com/ergo-services/ergo
 

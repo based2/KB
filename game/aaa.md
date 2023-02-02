@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://play-cs.com/en/servers
+> https://news.ycombinator.com/item?id=34628386
+
 https://www.chronophoto.app/game.html
 
 https://www.hmilch.net/h/lemmings.html

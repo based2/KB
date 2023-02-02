@@ -64,6 +64,9 @@ https://usebottles.com/
 > https://lutris.net/
 > https://www.playonlinux.com
 
+https://www.winehq.org/announce/8.1
+> https://news.ycombinator.com/item?id=34633511
+
 https://usebottles.com/blog/release-2022.1.28/
 
 https://github.com/casualsnek/cassowary run a Windows virtual machine and use Windows applications on Linux as if they were native applications, built upon FreeRDP and remote apps technology
@@ -91,6 +94,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.neowin.net/news/libreoffice-75-launches-with-better-dark-mode-support-and-much-more/
+> https://news.ycombinator.com/item?id=34628567
+
 https://github.com/fvwmorg/fvwm3
 > https://news.ycombinator.com/item?id=34523046
 

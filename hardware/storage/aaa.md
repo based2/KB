@@ -1,4 +1,7 @@
 # News
+https://retrocomputing.stackexchange.com/questions/26311/how-did-it-come-that-sata-hdds-use-ata-while-sata-cd-drives-use-scsi-as-protocol
+> https://news.ycombinator.com/item?id=34630974
+
 https://bigdanzblog.wordpress.com/2022/12/21/using-mass-storage-devices-on-simh-pdp-11-rt-11-paper-tape-diskette-dectape/
 
 https://news.ycombinator.com/item?id=34131436

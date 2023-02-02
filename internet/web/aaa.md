@@ -122,6 +122,14 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://web.dev/interop-2023/
+> https://news.ycombinator.com/item?id=34613961
+
+https://www.tni.org/en/article/seizing-the-means-of-computation
+
+https://news.mit.edu/2023/world-wide-web-consortium-is-now-public-interest-nonprofit-organization-0202
+> https://news.ycombinator.com/item?id=34630424
+
 https://socketsupply.co/blog/socket-runtime/
 > https://news.ycombinator.com/item?id=34446668
 

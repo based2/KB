@@ -20,6 +20,9 @@ https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
 
+https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_988c21d1-13b5-4498-aa85-3315926ae530
+> https://news.ycombinator.com/item?id=34617486
+
 https://www.bleepingcomputer.com/news/security/comcast-xfinity-accounts-hacked-in-widespread-2fa-bypass-attacks/
 
 https://www.usenix.org/conference/usenixsecurity23/presentation/gilsenan

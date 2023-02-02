@@ -29,6 +29,11 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=34607113
+
+https://apenwarr.ca/log/20140801
+> https://news.ycombinator.com/item?id=34624795
+
 https://www.windytan.com/2014/02/mystery-signal-from-helicopter.html
 > https://news.ycombinator.com/item?id=34511666
 

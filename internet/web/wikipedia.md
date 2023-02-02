@@ -18,6 +18,8 @@ http://static.wiki/
 https://news.ycombinator.com/item?id=28277749
 
 # Wiki
+https://news.ycombinator.com/item?id=34610517
+
 https://www.today.com/parents/jessica-wade-wikipedia-women-scientists-rcna51628
 > https://news.ycombinator.com/item?id=33223953
 

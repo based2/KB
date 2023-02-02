@@ -265,6 +265,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://hynek.me/articles/why-i-like-nox/
+> https://news.ycombinator.com/item?id=34611994
+
 https://thonny.org/
 > https://news.ycombinator.com/item?id=34424854
 

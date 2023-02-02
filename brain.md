@@ -40,6 +40,8 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://news.ycombinator.com/item?id=34601012
+
 https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/
 > https://news.ycombinator.com/item?id=34460819
 

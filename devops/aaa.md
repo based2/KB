@@ -127,8 +127,10 @@ https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-
 
 # Incidents
 
-https://about.gitlab.com/releases/2023/01/17/critical-security-release-gitlab-15-7-5-released/
+https://lwn.net/SubscriberLink/921787/949cf79f2599f734/
+> https://news.ycombinator.com/item?id=34631275
 
+https://about.gitlab.com/releases/2023/01/17/critical-security-release-gitlab-15-7-5-released/
 
 https://news.ycombinator.com/item?id=34442360
 
@@ -300,6 +302,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=34600985
+
 https://www.jenkins.io/blog/2023/01/12/jenkins-newsletter/
 
 https://news.ycombinator.com/item?id=34583080 runtime

@@ -43,6 +43,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/
+> https://news.ycombinator.com/item?id=34628889
+
 https://containers.dev/
 > https://news.ycombinator.com/item?id=34513877
 

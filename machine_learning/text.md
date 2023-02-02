@@ -9,6 +9,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://openai.com/blog/chatgpt-plus/
+> https://news.ycombinator.com/item?id=34614796
+
 https://eli5.gg/
 > https://news.ycombinator.com/item?id=34584393
 

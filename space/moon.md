@@ -27,6 +27,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://news.ycombinator.com/item?id=34633099
+
 https://caseyhandmer.wordpress.com/2022/07/03/powering-the-lunar-base-version-2/
 > https://news.ycombinator.com/item?id=34199763
 

@@ -28,6 +28,9 @@ https://github.com/tinystacks/precloud
 > https://news.ycombinator.com/item?id=34531943
 
 # News
+https://trigger.dev/
+> https://news.ycombinator.com/item?id=34610686
+
 https://www.johndcook.com/blog/2023/01/29/small-scale-automation/
 > https://news.ycombinator.com/item?id=34573254
 

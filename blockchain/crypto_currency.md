@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=34632875
+
 https://www.financialexpress.com/blockchain/iran-and-russia-to-issue-new-stablecoin/2950035/
 > https://news.ycombinator.com/item?id=34404578
 

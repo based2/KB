@@ -78,8 +78,9 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > https://github.com/advisories/GHSA-27h2-hvpr-p74q
 > > https://news.ycombinator.com/item?id=34335244
 
-
 # News
+https://www.netbsd.org/docs/guide/en/chap-pam.html
+
 https://github.com/mellow-hype/santa-linux poc macos
 > https://www.reddit.com/r/netsec/comments/10bt2e1/santalinux_a_proof_of_concept_binary/
 

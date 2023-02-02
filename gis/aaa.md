@@ -216,6 +216,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://socviz.co/maps.html Choropleth maps with ggplot and R
+> https://news.ycombinator.com/item?id=34611736
+
 https://waterdata.usgs.gov/blog/snow-tiles-demo/?ref=refind
 > https://news.ycombinator.com/item?id=34451143
 

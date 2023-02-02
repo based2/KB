@@ -120,6 +120,11 @@ https://blog.archive.org/2023/01/29/a-calculated-move-calculators-now-emulated-a
 > https://news.ycombinator.com/item?id=34566139
 
 # News
+https://www.quantamagazine.org/mathematicians-prove-this-knot-cannot-solve-major-problem-20230202/
+
+https://gregorygundersen.com/blog/2023/02/01/estimating-square-roots/
+> https://news.ycombinator.com/item?id=34625148
+
 https://tsplp.research.uconn.edu/computational-challenge/
 > https://news.ycombinator.com/item?id=34529117
 

@@ -141,6 +141,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://www.efinancialcareers.com/news/2022/01/elixir-jobs
+> https://news.ycombinator.com/item?id=34612919
+
 https://markm208.github.io/exbook/
 > https://news.ycombinator.com/item?id=33503306
 

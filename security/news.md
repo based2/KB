@@ -1,3 +1,14 @@
+https://arstechnica.com/information-technology/2023/02/thousands-of-qnap-devices-remain-unpatched-against-9-8-severity-vulnerability/
+
+https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html
+> https://news.ycombinator.com/item?id=34608750
+
+https://www.nixcraft.com/t/the-following-security-updates-require-ubuntu-pro-with-esm-apps-enable/4492
+> https://news.ycombinator.com/item?id=34630473
+
+https://ronin-rb.dev/blog/2023/02/01/ronin-2-0-0-finally-released.html
+> https://news.ycombinator.com/item?id=34625494
+
 https://sh1mmer.me/ exploit capable of completely unenrolling enterprise-managed Chromebooks
 > https://news.ycombinator.com/item?id=34578900
 

@@ -256,6 +256,8 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://news.ycombinator.com/item?id=34596187
+
 https://canvatechblog.com/deep-learning-for-infinite-multi-lingual-keywords-bc158e24b0eb
 
 https://github.com/tysam-code/hlb-CIFAR10

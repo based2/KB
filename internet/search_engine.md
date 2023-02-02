@@ -82,6 +82,11 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://github.com/neuml/txtai
+> 
+
+https://news.ycombinator.com/item?id=34633043
+
 https://searchengineland.com/yandex-search-ranking-factors-leak-392323
 > https://news.ycombinator.com/item?id=34577480
 
