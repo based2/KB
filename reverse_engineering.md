@@ -27,6 +27,9 @@ https://labs.p1sec.com/2023/01/09/releasing-hermes-dec-an-open-source-disassembl
 > https://github.com/P1sec/hermes-dec/
 
 #
+https://tyrrrz.me/blog/reverse-engineering-youtube-revisited
+> https://news.ycombinator.com/item?id=34653813
+
 https://news.ycombinator.com/item?id=34528433
 
 https://www.righto.com/2023/01/reverse-engineering-intel-8086.html

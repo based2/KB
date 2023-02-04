@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://medium.com/@alephium/an-introduction-to-the-stateful-utxo-model-8de3b0f76749
+
 https://vitalik.eth.limo/general/2023/01/20/stealth.html
 
 https://news.ycombinator.com/item?id=33878216

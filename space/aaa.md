@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://ideas.esa.int/servlet/hype/IMT?documentTableId=45087148846182772&userAction=Browse&templateName=&documentId=3187b4b0a219dbb07731d5f690776a8b
+> https://news.ycombinator.com/item?id=34646614
+
 https://eos.org/articles/nasas-double-asteroid-redirection-test-is-a-smashing-success
 > https://news.ycombinator.com/item?id=34383529
 

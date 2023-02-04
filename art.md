@@ -44,6 +44,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://animationobsessive.substack.com/p/how-to-paint-like-hayao-miyazaki
+> https://news.ycombinator.com/item?id=34640833
+
 https://news.ycombinator.com/item?id=34416748
 
 https://www.britishmuseum.org/research/projects/late-hokusai-thought-technique-society

@@ -59,6 +59,9 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://www.sciencedaily.com/releases/2023/02/230201134112.htm
+> https://news.ycombinator.com/item?id=34654569
+
 https://www.science.org/doi/10.1126/science.abq7781
 > https://news.ycombinator.com/item?id=34457900
 

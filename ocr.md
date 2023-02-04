@@ -68,6 +68,8 @@ https://github.com/sayanarijit/qrscan
 
 https://www.nayuki.io/page/creating-a-qr-code-step-by-step
 
+https://ants.gouv.fr/nos-missions/les-solutions-numeriques/2d-doc
+
 # Object labelling
 https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera
 

@@ -1,3 +1,6 @@
+https://plei.one/blog/flutter-desktop-not-there-yet/
+> https://news.ycombinator.com/item?id=34643291
+
 https://matejknopp.com/post/introducing-nativeshell/
 
 https://github.com/kennytilton/flutter-mx/blob/main/README.md

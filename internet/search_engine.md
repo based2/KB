@@ -82,8 +82,11 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
-https://github.com/neuml/txtai
-> 
+https://news.ycombinator.com/item?id=34643512
+
+https://lists.apache.org/thread/g9wmdnyk53m1fgxgr8qtb8gf2rl9w4g4 Apache Lucene 9.5.0 released
+
+https://github.com/neuml/txtai 
 
 https://news.ycombinator.com/item?id=34633043
 

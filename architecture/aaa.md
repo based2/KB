@@ -60,6 +60,10 @@ https://endoflife.date/
 
 https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/
 
+# Migration
+https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent
+> https://news.ycombinator.com/item?id=34650908
+
 # Performance
 https://en.wikipedia.org/wiki/Amdahl%27s_law
 

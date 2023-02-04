@@ -52,6 +52,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 #
+https://blog.sigstore.dev/towards-easier-more-secure-signature-technology-for-the-java-ecosystem-with-sigstore-60d6a02490a8
+
 https://news.ycombinator.com/item?id=34577844
 
 https://blog.sigstore.dev/announcing-the-1-0-release-of-sigstore-python-4f5d718b468d

@@ -277,6 +277,12 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://inlong.apache.org/
+
+https://lists.apache.org/thread/085z8zlswyox8vm365tmqv14wzrzbkzj Apache Flink 1.16.1 released
+
+https://lists.apache.org/thread/3cd2koxqnho440gw7889dbmyy8j3onq4 Apache Arrow 11.0.0 released
+
 https://www.robinlinacre.com/recommend_sql/
 > https://news.ycombinator.com/item?id=34578324
 

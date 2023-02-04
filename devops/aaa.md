@@ -126,6 +126,9 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1
+
+https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-jira-service-management-auth-flaw/
 
 https://lwn.net/SubscriberLink/921787/949cf79f2599f734/
 > https://news.ycombinator.com/item?id=34631275

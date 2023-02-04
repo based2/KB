@@ -9,6 +9,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://github.com/LAION-AI/Open-Assistant
+> https://news.ycombinator.com/item?id=34654937
+
 https://tally.work/
 > https://news.ycombinator.com/item?id=34621532
 

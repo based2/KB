@@ -83,6 +83,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://eitherway.io/posts/esp32-buyers-guide/
+> https://news.ycombinator.com/item?id=34653729
+
 https://news.ycombinator.com/item?id=34524150
 
 https://fabiensanglard.net/mjolnir/index.html

@@ -82,6 +82,8 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 https://news.ycombinator.com/item?id=34637960
 
 https://www.netbsd.org/docs/guide/en/chap-pam.html
+> https://news.ycombinator.com/item?id=34623041
+> > https://github.com/m00dy/pam-backdoor/blob/master/pam-backdoor
 
 https://github.com/mellow-hype/santa-linux poc macos
 > https://www.reddit.com/r/netsec/comments/10bt2e1/santalinux_a_proof_of_concept_binary/

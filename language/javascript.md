@@ -317,6 +317,8 @@ https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296
 
 https://compodoc.app/
 
+https://blog.alexeykarpov.com/clean-architecture-in-frontend
+
 # Elm
 https://elm-pages.com/blog/introducing-v2/
 > https://news.ycombinator.com/item?id=28057494
@@ -378,6 +380,8 @@ https://github.com/react2svelte
 
 https://svelte.dev/blog/announcing-sveltekit-1.0
 > https://news.ycombinator.com/item?id=33986555
+
+https://stwui.vercel.app/
 
 #
 https://www.solidjs.com/ https://markojs.com/
@@ -457,6 +461,8 @@ https://www.spearmintjs.com/
 
 https://github.com/markwylde/just-tap
 > https://news.ycombinator.com/item?id=33382975
+
+https://americanexpress.io/cleaner-unit-tests-with-custom-matchers/
 
 # Web
 https://web.dev/streams/

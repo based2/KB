@@ -8,6 +8,9 @@ protocols
 https://www.multipath-tcp.org/
 > https://news.ycombinator.com/item?id=33220975
 
+https://twobithistory.org/2021/03/08/arpanet-protocols.html
+> https://news.ycombinator.com/item?id=34637863
+
 # News
 https://www.rfc-editor.org/rfc/rfc3117.txt On the Design of Application Protocols
 > https://news.ycombinator.com/item?id=34389476

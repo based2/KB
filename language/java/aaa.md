@@ -265,6 +265,8 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 > https://news.ycombinator.com/item?id=34255996
 
 # News
+https://www.itprotoday.com/programming-languages/oracle-java-price-hike-could-be-opportunity-openjdk-vendors
+
 https://jakewharton.com/using-jlink-to-cross-compile-minimal-jres/
 > https://news.ycombinator.com/item?id=34409893
 

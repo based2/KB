@@ -1,3 +1,15 @@
+https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/
+
+https://fourcore.io/blogs/hackers-using-microsoft-onenote-attachments-to-spread-malware
+
+https://www.pixiepointsecurity.com/blog/nday-cve-2021-34462.html
+
+https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608
+
+https://www.bleepingcomputer.com/news/security/truthfinder-instant-checkmate-confirm-data-breach-affecting-20m-customers/
+
+https://www.bleepingcomputer.com/news/security/ny-attorney-general-forces-spyware-vendor-to-alert-victims/
+
 https://news.ycombinator.com/item?id=34641025
 
 https://arstechnica.com/information-technology/2023/02/thousands-of-qnap-devices-remain-unpatched-against-9-8-severity-vulnerability/

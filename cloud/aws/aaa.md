@@ -88,6 +88,9 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://aws.amazon.com/en/storagegateway/vtl/
+> https://news.ycombinator.com/item?id=34628001
+
 https://bas.codes/posts/aws-architecture-overengineering
 
 https://boto3.amazonaws.com/v1/documentation/api/latest/guide/resources.html

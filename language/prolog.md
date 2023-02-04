@@ -59,3 +59,6 @@ https://old.reddit.com/r/prolog/comments/zswi13/prolog_at_work/
 
 https://github.com/SuperDisk/tar.pl
 > https://news.ycombinator.com/item?id=34427081
+
+https://www.scryer.pl/
+> https://news.ycombinator.com/item?id=34640416

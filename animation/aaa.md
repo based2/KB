@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=34639946
+
+https://motion-canvas.github.io/
+> https://news.ycombinator.com/item?id=34655101
+> https://github.com/motion-canvas/motion-canvas
+
 https://codersblock.com/blog/the-surprising-things-that-css-can-animate/
 > https://news.ycombinator.com/item?id=34451002
 

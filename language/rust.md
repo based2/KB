@@ -427,6 +427,9 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://www.memorysafety.org/blog/remy-rakic-compile-times/
+> https://news.ycombinator.com/item?id=34639070
+
 https://blog.frankel.ch/http-api-rust/
 
 https://github.com/sger/RustBooks

@@ -266,6 +266,8 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://www.crunchydata.com/blog/using-postgres-filter
+
 https://gilslotd.com/blog/features_id_postgresql
 > https://news.ycombinator.com/item?id=34560332
 
@@ -273,7 +275,6 @@ https://blog.chiselstrike.com/sqlite-based-databases-on-the-postgres-protocol-ye
 > https://news.ycombinator.com/item?id=34517474
 
 https://rhaas.blogspot.com/2023/01/surviving-without-superuser-coming-to.html
-> 
 
 https://supabase.com/blog/choosing-a-postgres-primary-key
 > https://news.ycombinator.com/item?id=34451344

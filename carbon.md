@@ -67,6 +67,10 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.mit.edu/2019/mit-engineers-develop-new-way-remove-carbon-dioxide-air-1025
+> https://news.ycombinator.com/item?id=34653838
+> > https://verdox.com/ https://www.businesswire.com/news/home/20220422005027/en/Verdox-Wins-1M-XPRIZE-Carbon-Removal-Award-Together-with-Partner-Carbfix
+
 https://www.airgradient.com/open-airgradient/instructions/diy-pro-v37/
 > https://news.ycombinator.com/item?id=34571885
 

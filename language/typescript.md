@@ -48,8 +48,8 @@ https://eslint.org/
 https://snyk.io/blog/snyk-code-now-available-free-sast/
 
 # Deno
-https://deno.com/blog/v1.27
-> https://news.ycombinator.com/item?id=33361450
+https://deno.com/blog/the-future-and-past-is-server-side-rendering
+> https://news.ycombinator.com/item?id=34644558
 
 https://docs.astro.build/en/getting-started/
 > https://news.ycombinator.com/item?id=32401159
@@ -67,6 +67,9 @@ https://thenewstack.io/denos-fresh-uses-server-side-rendering-for-faster-apps/
 
 https://deno.com/blog/v1.28
 > https://news.ycombinator.com/item?id=33593668
+
+https://deno.com/blog/v1.27
+> https://news.ycombinator.com/item?id=33361450
 
 https://deno.com/blog/v1.26
 > https://news.ycombinator.com/item?id=33020747

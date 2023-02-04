@@ -16,6 +16,12 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://phys.org/news/2023-02-ultra-stable-protein-nanowire-electric-bacteria.html
+> https://news.ycombinator.com/item?id=34636819
+
+https://www.ndsu.edu/agriculture/extension/publications/air-air-heat-exchangers-healthier-energy-efficient-homes
+> https://news.ycombinator.com/item?id=34652754
+
 https://www.eia.gov/energyexplained/gasoline/where-our-gasoline-comes-from.php
 > https://news.ycombinator.com/item?id=34575601
 
