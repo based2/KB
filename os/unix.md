@@ -81,3 +81,5 @@ https://stevens.netmeister.org/631/ Advanced Programming in the UNIX Environment
 > https://news.ycombinator.com/item?id=33140795
 
 https://news.ycombinator.com/item?id=34017934
+
+https://minnie.tuhs.org/pipermail/tuhs/2023-February/027644.html suid

@@ -44,6 +44,8 @@ https://shkspr.mobi/blog/2023/01/the-iab-loves-tracking-users-but-it-hates-users
 https://cyber.dabamos.de/88x31/
 > https://news.ycombinator.com/item?id=34465455
 
+https://news.ycombinator.com/item?id=34639924
+
 # News
 https://dub.sh/
 > https://news.ycombinator.com/item?id=32939407

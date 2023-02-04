@@ -32,6 +32,10 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://news.ycombinator.com/item?id=34648755
+
+https://news.ycombinator.com/item?id=34640350
+
 https://www.mozilla.org/en-US/firefox/109.0/releasenotes/
 
 https://github.com/agateau/tmfi

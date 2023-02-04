@@ -78,6 +78,8 @@ https://github.com/scandum/blitsort
 https://tweedegolf.nl/en/blog/79/sorting-with-simd
 > https://news.ycombinator.com/item?id=34029603
 
+https://news.ycombinator.com/item?id=34646199
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184
@@ -105,6 +107,11 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://lemire.me/blog/2022/11/16/a-fast-function-to-check-your-floating-point-rounding-mode/
+
+https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/
+> https://news.ycombinator.com/item?id=34618984
+
 https://www.cs.toronto.edu/~lczhang/sandre_float2021.pdf
 > https://news.ycombinator.com/item?id=34578094
 

@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=34641025
+
 https://arstechnica.com/information-technology/2023/02/thousands-of-qnap-devices-remain-unpatched-against-9-8-severity-vulnerability/
 
 https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html

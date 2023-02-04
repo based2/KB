@@ -1,4 +1,7 @@
 # News
+https://www.pugetsystems.com/blog/2023/02/02/update-on-samsung-ssd-reliability/
+> https://news.ycombinator.com/item?id=34648149
+
 https://retrocomputing.stackexchange.com/questions/26311/how-did-it-come-that-sata-hdds-use-ata-while-sata-cd-drives-use-scsi-as-protocol
 > https://news.ycombinator.com/item?id=34630974
 

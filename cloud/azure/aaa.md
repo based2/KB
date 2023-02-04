@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://news.ycombinator.com/item?id=34643157 Microsoft 365 trial offer blocks access to Windows 10 desktops
+
 https://www.theregister.com/2023/01/30/wan_router_ip_address_change/
 > https://news.ycombinator.com/item?id=34579562
 
@@ -42,6 +44,8 @@ https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured
 > https://news.ycombinator.com/item?id=33297000
 
 #
+https://github.com/Azure/Bridge-To-Kubernetes
+
 https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/
 > https://news.ycombinator.com/item?id=34407821
 

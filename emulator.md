@@ -40,4 +40,6 @@ https://yuzu-emu.org/entry/yuzu-progress-report-dec-2022/
 
 https://zipcpu.com/zipcpu/2022/12/03/no-boot.html
 
+https://news.ycombinator.com/item?id=34634297
+
 https://www.phoronix.com/news/QEMU-7.2-Released

@@ -36,6 +36,8 @@ https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-co
 > https://www.eecs.harvard.edu/~michaelm/postscripts/handbook2001.pdf The Power of Two Random Choices: A Survey of Techniques and Results
 
 # News
+https://news.ycombinator.com/item?id=34622913 Anki GPT
+
 https://github.com/inlets/mixctl
 
 https://blog.cloudflare.com/load-balancing-with-weighted-pools/

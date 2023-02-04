@@ -207,6 +207,9 @@ https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at
 https://fasterthanli.me/articles/why-is-my-rust-build-so-slow
 > https://news.ycombinator.com/item?id=29742694
 
+https://blog.axo.dev/2023/02/cargo-dist
+> https://news.ycombinator.com/item?id=34614497
+
 # Test
 
 https://ferrous-systems.com/blog/test-embedded-app/

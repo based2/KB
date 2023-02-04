@@ -256,6 +256,11 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://news.ycombinator.com/item?id=34637650
+
+https://arxiv.org/abs/1706.03762
+> https://news.ycombinator.com/item?id=34649113
+
 https://news.ycombinator.com/item?id=34596187
 
 https://canvatechblog.com/deep-learning-for-infinite-multi-lingual-keywords-bc158e24b0eb
