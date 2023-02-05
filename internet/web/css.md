@@ -68,6 +68,8 @@ https://www.brycewray.com/posts/2022/10/tailwind-css-v3-2-revisiting-feature-cre
 
 https://tailwindcss.com/blog/tailwindcss-v3-2
 
+https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916
@@ -211,6 +213,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://open-props.style/
+
 https://maxbittker.github.io/broider/
 > https://news.ycombinator.com/item?id=34553190
 

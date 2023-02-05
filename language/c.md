@@ -74,6 +74,8 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://thephd.dev//c-undefined-behavior-and-the-sledgehammer-guideline
+
 https://utcc.utoronto.ca/~cks/space/blog/programming/CAsAbstractMachine
 > https://news.ycombinator.com/item?id=34623007
 

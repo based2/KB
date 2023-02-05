@@ -54,3 +54,7 @@ https://blog.doyensec.com/2022/12/13/safeurl.html
 > > https://github.com/stripe/smokescreen
 
 https://guardara-community.gitlab.io/documentation/docs/intro.html
+
+https://github.com/rabobank-cdc/DeTTECT
+
+https://github.com/siriussecurity/dettectinator

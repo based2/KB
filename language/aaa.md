@@ -308,6 +308,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://jaredforsyth.com/posts/type-inference-that-sticks/
+> https://news.ycombinator.com/item?id=34658021
+
 https://web.archive.org/web/20210420194827/https://www.briansteffens.com/2017/02/20/from-math-to-machine.html
 
 https://itnext.io/writing-code-without-plain-text-files-cb8f1ed2c0ad

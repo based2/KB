@@ -63,6 +63,11 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.nostr.how/
+> https://news.ycombinator.com/item?id=34656925
+
+https://thenewstack.io/how-to-build-your-own-decentralized-twitter/
+
 https://tlon.io/
 > https://news.ycombinator.com/item?id=34526038
 

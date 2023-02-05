@@ -216,6 +216,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://brr.fyi/posts/south-pole-topography
+> https://news.ycombinator.com/item?id=34665174
+
+https://somethingaboutmaps.wordpress.com/2022/12/19/projection-connections-a-very-nerdy-poster/
+
 https://socviz.co/maps.html Choropleth maps with ggplot and R
 > https://news.ycombinator.com/item?id=34611736
 

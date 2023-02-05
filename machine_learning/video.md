@@ -43,6 +43,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://www.creativebloq.com/news/ai-anime-labour-shortage
+> https://news.ycombinator.com/item?id=34657234
+
 https://www.neuralframes.com/
 > https://news.ycombinator.com/item?id=34389041
 

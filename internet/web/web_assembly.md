@@ -76,6 +76,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://bugs.chromium.org/p/v8/issues/detail?id=7748
+
 https://nickb.dev/blog/wasm-compression-benchmarks-and-the-cost-of-missing-compression-apis/
 > https://news.ycombinator.com/item?id=34609093
 

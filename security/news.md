@@ -1,3 +1,18 @@
+https://arxiv.org/pdf/2302.01131.pdf An Attack on The Speculative Vectorization: Leakage from Higher Dimensional Speculation
+
+https://arxiv.org/pdf/2302.01024.pdf SSO-MONITOR: Fully-Automatic Large-Scale Landscape, Security, and Privacy; Analyses of Single Sign-On in the Wild
+
+https://github.com/google/security-research/security/advisories/GHSA-9x5g-vmxf-4qj8
+
+https://lobi.to/talks/papertickets/
+> https://news.ycombinator.com/item?id=34664146
+
+https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors
+
+https://paulponraj.com/vulnerabilities-in-ev-charging-management-systems-pose-threats-to-energy-supply-and-driver-data/
+
+https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi
+
 https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/
 
 https://fourcore.io/blogs/hackers-using-microsoft-onenote-attachments-to-spread-malware
@@ -9,6 +24,8 @@ https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608
 https://www.bleepingcomputer.com/news/security/truthfinder-instant-checkmate-confirm-data-breach-affecting-20m-customers/
 
 https://www.bleepingcomputer.com/news/security/ny-attorney-general-forces-spyware-vendor-to-alert-victims/
+
+https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble
 
 https://news.ycombinator.com/item?id=34641025
 

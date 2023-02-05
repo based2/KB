@@ -119,6 +119,9 @@ https://inversethought.com/jordi/mark1.pdf
 https://blog.archive.org/2023/01/29/a-calculated-move-calculators-now-emulated-at-internet-archive/
 > https://news.ycombinator.com/item?id=34566139
 
+https://en.wikipedia.org/wiki/Curta
+> https://news.ycombinator.com/item?id=34661411
+
 # News
 https://phys.org/news/2023-01-mathematics.html
 > https://news.ycombinator.com/item?id=34654920

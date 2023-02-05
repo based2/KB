@@ -238,6 +238,8 @@ https://mbork.pl/2023-01-30_The_benefits_of_everything_being_a_buffer
 https://bjornwestergard.com/log/2022-04-19-hypertext-emacs.gmi
 > https://news.ycombinator.com/item?id=34583734
 
+https://www.masteringemacs.org/article/polymode-multiple-major-modes-how-to-use-sql-python-in-one-buffer
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

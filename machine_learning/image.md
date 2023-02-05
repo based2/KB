@@ -289,6 +289,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://www.stableattribution.com
+
 https://medium.com/voxel51/fiftyone-computer-vision-labels-tips-and-tricks-jan-06-2023-2d08eedab7f4
 
 https://ahrm.github.io/jekyll/update/2023/01/02/three-eyed-forehead.html

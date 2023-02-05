@@ -60,5 +60,7 @@ https://github.com/gpujs/gpu.js
 
 https://luic.github.io/WebGL-Performance-Benchmark/
 
+https://github.com/PurpleKingdomGames/ultraviolet WebGL shaders in Scala 3
+
 
 

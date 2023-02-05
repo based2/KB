@@ -73,6 +73,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://tutanota.com/blog/posts/facebook-tracking-business-model-illegal-europe/
+
 https://www.simpleanalytics.com/en/google-analytics-countries
 > https://news.ycombinator.com/item?id=34388100
 

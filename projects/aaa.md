@@ -156,6 +156,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://redmonk.com/sogrady/2022/12/13/org-structure-devx/
+
 https://pomofocus.io/
 > https://news.ycombinator.com/item?id=34478168
 

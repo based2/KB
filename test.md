@@ -143,6 +143,12 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning
+
+https://thenewstack.io/ai-machine-learning-and-the-future-of-software-development/
+
+https://concerningquality.com/model-based-testing-theory/
+
 https://matthewc.dev/musings/unit-tests/
 > https://news.ycombinator.com/item?id=34467523
 

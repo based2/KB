@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://news.ycombinator.com/item?id=33757709
+
 https://www.teslarati.com/rivian-ford-chevy-fried-electrify-america-video/
 > https://news.ycombinator.com/item?id=34580631
 

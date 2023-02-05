@@ -277,6 +277,8 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://research.swtch.com/sample
+
 https://inlong.apache.org/
 
 https://lists.apache.org/thread/085z8zlswyox8vm365tmqv14wzrzbkzj Apache Flink 1.16.1 released

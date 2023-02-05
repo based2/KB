@@ -197,6 +197,8 @@ https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/
 > https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
 
 # Test
+https://wiki.python.org/moin/PythonTestingToolsTaxonomy
+
 https://docs.locust.io/en/stable/what-is-locust.html Load
 
 https://adamj.eu/tech/2022/01/14/make-simple-mocks-with-simplenamespace/
@@ -265,6 +267,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://medium.com/@peterkong/comparison-of-python-documentation-generators-660203ca3804
+
 https://github.com/tylerlaberge/PyPattyrn
 
 https://hynek.me/articles/why-i-like-nox/

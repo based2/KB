@@ -62,6 +62,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+http://ascii.textfiles.com/archives/5443
+> https://news.ycombinator.com/item?id=34665878
+
 https://news.ycombinator.com/item?id=34530122
 
 https://github.com/internetarchive/dweb-mirror

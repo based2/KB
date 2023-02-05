@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://pikuma.com/blog/math-for-game-developers
+
 https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608
 > https://news.ycombinator.com/item?id=34594547
 

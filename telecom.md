@@ -127,7 +127,12 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+https://www.euronews.com/next/2023/02/05/italy-telecoms
+> https://www.heise.de/news/Italiens-Cyber-Sicherheitsbehoerde-warnt-vor-weltweitem-Ransomware-Angriff-7485377.html
+
 https://news.ycombinator.com/item?id=34570065
+
+https://news.ycombinator.com/item?id=34665023
 
 # News
 https://techxplore.com/news/2023-01-enable-multi-kilometer-sub-terahertz-communications-extremely.html

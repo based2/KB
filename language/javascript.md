@@ -205,6 +205,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://www.lloydatkinson.net/posts/2022/react-conditional-rendering-with-type-safety-and-exhaustive-checking/
+
 https://baseweb.design/
 
 https://hyperfetch.bettertyped.com/blog/hyper-fetch-3-0/
@@ -318,6 +320,8 @@ https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296
 https://compodoc.app/
 
 https://blog.alexeykarpov.com/clean-architecture-in-frontend
+
+https://analogjs.org/
 
 # Elm
 https://elm-pages.com/blog/introducing-v2/
@@ -533,6 +537,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://devhints.io/jsdoc
+> https://news.ycombinator.com/item?id=34664091
+
 https://news.ycombinator.com/item?id=34430458
 
 https://www.builder.io/blog/structured-clone

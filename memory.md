@@ -114,3 +114,5 @@ https://www.nextplatform.com/2023/01/24/building-the-perfect-memory-bandwidth-be
 
 https://semiengineering.com/choosing-the-correct-high-bandwidth-memory/
 > https://news.ycombinator.com/item?id=34577056
+
+https://johnnysswlab.com/frugal-programming-saving-memory-subsystem-bandwidth/

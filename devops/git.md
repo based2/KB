@@ -274,6 +274,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://gavinhoward.com/2023/02/a-git-sin-re-signing-an-entire-git-repo/
+
 https://blog.jcoglan.com/2017/05/08/merging-with-diff3/
 > https://news.ycombinator.com/item?id=34557827
 

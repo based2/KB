@@ -85,3 +85,5 @@ https://www.emergetools.com/blog/posts/SwiftProtocolConformance
 
 http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html;jsessionid=3D05FE03C26DFB1ED18895AE258C0656.v5-web013
 > https://news.ycombinator.com/item?id=32430975
+
+https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/

@@ -122,6 +122,9 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://h5p.org/ HTML5 Package
+> https://linuxfr.org/news/h5p-un-outil-libre-pour-creer-des-activites-interactives
+
 https://web.dev/interop-2023/
 > https://news.ycombinator.com/item?id=34613961
 

@@ -73,6 +73,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://meodai.github.io/poline/
+> https://news.ycombinator.com/item?id=34662722
+
 https://www.zephray.me/post/grayscale_lcd/
 
 https://arnaud-carre.github.io/2022-12-30-amiga-ham/

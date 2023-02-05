@@ -83,6 +83,10 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://scalameta.org/metals/
+
+https://degoes.net/articles/scala-resurrection
+
 https://blog.jetbrains.com/scala/2022/11/30/intellij-scala-plugin-2022-3-is-out/
 
 https://eed3si9n.com/fast-scala3-parsing-with-tree-sitter/

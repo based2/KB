@@ -1,3 +1,6 @@
+https://merlijn.sebrechts.be/blog/2022-09-05-wasm-k8s-controllers/
+> https://news.ycombinator.com/item?id=34663968
+
 https://github.com/prometheus-operator/prometheus-operator/blob/master/bundle.yaml
 
 https://news.ycombinator.com/item?id=28947927
