@@ -63,6 +63,10 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=34695571
+
+https://patrickcurry.com/socials/mastodon/tools/
+
 https://www.nostr.how/
 > https://news.ycombinator.com/item?id=34656925
 

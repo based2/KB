@@ -59,6 +59,12 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://zrok.io/
+> https://news.ycombinator.com/item?id=34709487
+
+https://github.com/transmission/transmission/releases/tag/4.0.0
+> https://news.ycombinator.com/item?id=34703478
+
 https://jami.net/
 > https://news.ycombinator.com/item?id=34082718
 

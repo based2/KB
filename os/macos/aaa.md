@@ -370,6 +370,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://weblog.antranigv.am/posts/2023/02/hardcoded-folder-icons-in-macos/
+> https://news.ycombinator.com/item?id=34709690
+
 https://tidbits.com/2023/01/11/iphones-and-ipads-now-require-a-passcode-on-every-backup-sync/
 > https://news.ycombinator.com/item?id=34463677
 > > https://theevilbit.github.io/posts/cve-2022-32929/

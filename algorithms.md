@@ -107,6 +107,12 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://soegaard.github.io/blog/metapict/#7
+> https://news.ycombinator.com/item?id=34706261
+
+https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/
+> https://news.ycombinator.com/item?id=34726919
+
 https://lemire.me/blog/2022/11/16/a-fast-function-to-check-your-floating-point-rounding-mode/
 
 https://aras-p.info/blog/2023/02/01/Float-Compression-3-Filters/

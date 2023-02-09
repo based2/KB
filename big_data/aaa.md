@@ -277,6 +277,11 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://motherduck.com/blog/big-data-is-dead/
+> https://news.ycombinator.com/item?id=34694926
+
+https://news.ycombinator.com/item?id=34724207
+
 https://research.swtch.com/sample
 
 https://inlong.apache.org/

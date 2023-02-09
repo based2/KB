@@ -42,5 +42,8 @@ https://rest-assured.io/
 GraphQL
 https://apisyouwonthate.com/blog/representing-state-in-rest-and-graphql
 
+https://github.com/obi1kenobi/trustfall
+> https://news.ycombinator.com/item?id=34705246
+
 OSGI
 http://karaf.apache.org/

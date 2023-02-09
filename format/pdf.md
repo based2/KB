@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://pdfux.com/
+> https://news.ycombinator.com/item?id=34722432
+
 https://support.mozilla.org/en-US/kb/save-web-pages-pdf-firefox-android
 > https://news.ycombinator.com/item?id=34138594
 

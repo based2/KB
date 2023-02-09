@@ -28,6 +28,8 @@ https://github.com/tinystacks/precloud
 > https://news.ycombinator.com/item?id=34531943
 
 # News
+https://news.ycombinator.com/item?id=34723989
+
 https://trigger.dev/
 > https://news.ycombinator.com/item?id=34610686
 

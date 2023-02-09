@@ -1,3 +1,9 @@
+https://www.brilliantmonocle.com/
+> https://news.ycombinator.com/item?id=34694056
+
+https://github.com/thomwolf/Magic-Sand
+> https://news.ycombinator.com/item?id=34722313
+
 https://webspaces.space/introduction.html
 
 https://mixed-news.com/en/microsoft-kills-altspacevr-and-with-it-a-piece-of-vr-history/

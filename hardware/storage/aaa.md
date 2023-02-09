@@ -1,3 +1,15 @@
+# S3
+https://juicefs.com/en/ .cn
+> https://news.ycombinator.com/item?id=34706227
+
+# SMB
+
+# WebDAV
+https://github.com/fstanis/awesome-webdav
+
+https://sabre.io/
+> https://news.ycombinator.com/item?id=34727223
+
 # News
 https://www.pugetsystems.com/blog/2023/02/02/update-on-samsung-ssd-reliability/
 > https://news.ycombinator.com/item?id=34648149

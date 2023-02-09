@@ -256,6 +256,11 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://news.ycombinator.com/item?id=34726647
+
+https://arxiv.org/abs/2302.02083 Theory of Mind May Have Spontaneously Emerged in Large Language Models
+> https://news.ycombinator.com/item?id=34730365
+
 https://news.ycombinator.com/item?id=34637650
 
 https://arxiv.org/abs/1706.03762

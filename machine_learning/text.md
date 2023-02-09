@@ -9,6 +9,12 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web
+> https://news.ycombinator.com/item?id=34724477
+
+https://jaykmody.com/blog/gpt-from-scratch/
+> https://news.ycombinator.com/item?id=34726115
+
 https://github.com/LAION-AI/Open-Assistant
 > https://news.ycombinator.com/item?id=34654937
 

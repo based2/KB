@@ -1,3 +1,7 @@
+https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices
+> https://news.ycombinator.com/item?id=34712729
+> https://news.ycombinator.com/item?id=34693629
+
 https://arxiv.org/pdf/2302.01131.pdf An Attack on The Speculative Vectorization: Leakage from Higher Dimensional Speculation
 
 https://arxiv.org/pdf/2302.01024.pdf SSO-MONITOR: Fully-Automatic Large-Scale Landscape, Security, and Privacy; Analyses of Single Sign-On in the Wild

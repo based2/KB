@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://sunroof.withgoogle.com/
+> https://news.ycombinator.com/item?id=34699395
+
 https://www.swissinfo.ch/eng/business/switzerland-s-largest--open-air--solar-farm-planned-at-bern-airport/48202614
 
 https://www.sapiens.org/culture/lebanon-solar-power/

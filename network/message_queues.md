@@ -88,6 +88,9 @@ https://medium.com/wix-engineering/migrating-to-a-multi-cluster-managed-kafka-wi
 
 https://github.com/cjhanks/Kafka-NSPAWN
 
+https://www.confluent.io/blog/windowing-in-kafka-streams/
+> https://news.ycombinator.com/item?id=34716797
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

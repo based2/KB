@@ -109,6 +109,11 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://news.ycombinator.com/item?id=34709249
+
+https://www.bjmalicoat.com/projects/localizingunitygames
+> https://news.ycombinator.com/item?id=34729806
+
 https://pikuma.com/blog/math-for-game-developers
 
 https://www.construct.net/en/blogs/ashleys-blog-2/rts-devlog-extreme-pathfinding-1608

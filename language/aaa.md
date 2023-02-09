@@ -308,6 +308,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://accu.org/journals/overload/31/173/teodorescu/
+> https://news.ycombinator.com/item?id=34706532
+
+https://pling.jondgoodwin.com/post/cyclone/
+> https://news.ycombinator.com/item?id=34704772
+
 https://jaredforsyth.com/posts/type-inference-that-sticks/
 > https://news.ycombinator.com/item?id=34658021
 

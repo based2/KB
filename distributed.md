@@ -168,6 +168,9 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf
+> https://news.ycombinator.com/item?id=34704488
+
 https://www.yugabyte.com/blog/yugabytedb-savepoints-distributed-transactions/
 
 https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb

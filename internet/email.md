@@ -34,7 +34,14 @@ https://github.com/soywod/himalaya
 https://github.com/reacherhq/check-if-email-exists
 > https://news.ycombinator.com/item?id=27705742
 
+# Incident
+https://files.catbox.moe/p860p2.png
+> https://news.ycombinator.com/item?id=34730559
+
 # Spam
+https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/
+> https://news.ycombinator.com/item?id=34724585
+
 https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/
 
 https://www.gated.com/

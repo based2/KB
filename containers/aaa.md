@@ -43,6 +43,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://www.linode.com/docs/guides/podman-vs-docker/
+> https://news.ycombinator.com/item?id=34719137
+
 https://fly.io/blog/carving-the-scheduler-out-of-our-orchestrator/
 > https://news.ycombinator.com/item?id=34628889
 
@@ -207,7 +210,6 @@ https://matt-rickard.com/dont-use-kubernetes-yet/
 > https://news.ycombinator.com/item?id=31795160
 
 https://buoyant.io/2022/06/07/ebpf-sidecars-and-the-future-of-the-service-mesh/
->
 
 https://www.phoronix.com/scan.php?page=news_item&px=Distrobox-1.3-Released
 > https://github.com/89luca89/distrobox/releases/tag/1.3.0
@@ -215,7 +217,6 @@ https://www.phoronix.com/scan.php?page=news_item&px=Distrobox-1.3-Released
 https://alpinelinux.org/posts/Alpine-3.16.0-released.html
 
 https://github.com/l7mp/stunner Ingress gateway for WebRTC
->
 
 https://www.techrepublic.com/article/install-podman-ubuntu/
 

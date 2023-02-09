@@ -116,6 +116,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://giuliomagnifico.blog/networking/2023/01/05/home-network_v4.html
+> https://news.ycombinator.com/item?id=34723971
+
 https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/
 > https://news.ycombinator.com/item?id=34623604
 

@@ -240,6 +240,9 @@ https://bjornwestergard.com/log/2022-04-19-hypertext-emacs.gmi
 
 https://www.masteringemacs.org/article/polymode-multiple-major-modes-how-to-use-sql-python-in-one-buffer
 
+https://emacs.stackexchange.com/questions?tab=Votes
+> https://news.ycombinator.com/item?id=34721278
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

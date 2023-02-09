@@ -44,7 +44,13 @@ https://engineering.q42.nl/optimizing-full-screen-images/
 https://jfhr.me/optimizing-images-with-the-html-picture-tag/
 > https://news.ycombinator.com/item?id=33397054
 
+https://www.screenstab.com/editor/
+> https://news.ycombinator.com/item?id=34729849
+
 # Photography
+https://www.photoprism.app/
+> https://news.ycombinator.com/item?id=34716924
+
 https://exiftool.org/
 > https://news.ycombinator.com/item?id=34373928
 

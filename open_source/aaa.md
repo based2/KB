@@ -237,6 +237,15 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://lwn.net/SubscriberLink/922545/ea7cde57282a2db0/
+> https://news.ycombinator.com/item?id=34727455
+
+https://matrix.org/blog/2023/02/09/finally-a-hybrid-conference-that-worked
+> https://news.ycombinator.com/item?id=34727914
+
+https://fosdem.org/2023/schedule/events/
+> https://news.ycombinator.com/item?id=34728919
+
 https://words.filippo.io/full-time-maintainer/
 > https://news.ycombinator.com/item?id=34633713
 

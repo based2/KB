@@ -135,6 +135,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://arstechnica.com/tech-policy/2023/02/comcast-gave-false-map-data-to-fcc-and-didnt-admit-it-until-ars-got-involved/
+> https://news.ycombinator.com/item?id=34725776
+
 https://techxplore.com/news/2023-01-enable-multi-kilometer-sub-terahertz-communications-extremely.html
 > https://news.ycombinator.com/item?id=34448750
 

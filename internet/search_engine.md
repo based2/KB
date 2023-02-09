@@ -82,6 +82,13 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://news.ycombinator.com/item?id=34715003
+
+https://news.ycombinator.com/item?id=34723275
+
+https://podtext.ai/
+> https://news.ycombinator.com/item?id=34727695
+
 https://news.ycombinator.com/item?id=34643512
 
 https://lists.apache.org/thread/g9wmdnyk53m1fgxgr8qtb8gf2rl9w4g4 Apache Lucene 9.5.0 released

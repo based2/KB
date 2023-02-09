@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/
+> https://news.ycombinator.com/item?id=34707055
+
 https://news.ycombinator.com/item?id=34601012
 
 https://www.lifesitenews.com/news/world-economic-forum-speaker-touts-technology-that-allows-your-boss-to-monitor-your-brain-activity/
