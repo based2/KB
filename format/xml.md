@@ -43,6 +43,8 @@ https://reprog.wordpress.com/2010/09/03/bibliographic-data-part-2-dublin-cores-d
 > https://news.ycombinator.com/item?id=28710081
  
 #
+https://news.ycombinator.com/item?id=34736710
+
 https://borretti.me/article/brief-defense-of-xml
 > https://news.ycombinator.com/item?id=34272651
 

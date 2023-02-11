@@ -37,6 +37,8 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://news.ycombinator.com/item?id=34739558
+
 https://www.learningfromincidents.io/posts/oops-learning-from-the-incident-you-didnt-have
 > https://news.ycombinator.com/item?id=34393320
 

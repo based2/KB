@@ -28,6 +28,8 @@ https://microsoftedge.github.io/edgevr/posts/a-story-of-a-bug-found-fuzzing/
 https://secret.club/2022/05/11/fuzzing-solana.html
 > https://news.ycombinator.com/item?id=31346190
 
+https://www.reddit.com/r/netsec/comments/10z2wpa/firefly_an_advanced_blackbox_fuzzer_and_not_just/
+
 https://blog.silentsignal.eu/2021/10/14/fuzzy-snapshots-of-firefox-ipc/
 
 https://github.com/Rog3rSm1th/Frelatage Python fuzzer

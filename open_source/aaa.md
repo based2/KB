@@ -237,6 +237,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/
+> https://news.ycombinator.com/item?id=34755352
+
 https://lwn.net/SubscriberLink/922545/ea7cde57282a2db0/
 > https://news.ycombinator.com/item?id=34727455
 

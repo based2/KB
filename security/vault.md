@@ -53,6 +53,8 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html
+
 https://sourceforge.net/p/keepass/discussion/329220/thread/a146e5cf6b/
 > https://socprime.com/blog/cve-2023-24055-detection-notorious-vulnerability-in-keepass-potentially-exposing-cleartext-passwords/
 > https://vigilance.fr/vulnerabilite/KeePass-sur-Fedora-journalisation-d-information-sensible-via-Clear-Timeout-37729

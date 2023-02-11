@@ -27,6 +27,9 @@ https://www.jamesridgway.co.uk/testing-dotfiles-with-test-kitchen-and-inspec/
 https://github.com/tinystacks/precloud
 > https://news.ycombinator.com/item?id=34531943
 
+# Incident
+https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
+
 # News
 https://news.ycombinator.com/item?id=34723989
 

@@ -43,3 +43,7 @@ https://utcc.utoronto.ca/~cks/space/blog/unix/EgrepFgrepStuckWith
 
 https://zwischenzugs.com/2022/02/02/grep-flags-the-good-stuff/
 > https://news.ycombinator.com/item?id=30179533
+
+https://github.com/dwisiswant0/gfx
+
+https://github.com/dwisiswant0/secpat2gf

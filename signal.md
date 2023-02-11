@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://lwn.net/Articles/921497/
+> https://news.ycombinator.com/item?id=34736662
+
 https://news.ycombinator.com/item?id=34607113
 
 https://apenwarr.ca/log/20140801

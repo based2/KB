@@ -71,6 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.gentoo.org/news/2023/02/09/new-year.html
+> https://news.ycombinator.com/item?id=34750614
+
 https://www.slax.org/blog/27718-New-Slax-released.html
 
 https://ostreedev.github.io/ostree/ fedora

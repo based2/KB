@@ -1,3 +1,6 @@
+https://mburakerman.github.io/blog/web-rendering-patterns
+> https://news.ycombinator.com/item?id=34721450
+
 https://vuejs.org/
 
 https://www.reactjs.org/

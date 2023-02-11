@@ -56,6 +56,8 @@ https://news.ycombinator.com/item?id=34321649
 
 https://news.ycombinator.com/item?id=34636092 mit
 
+https://julien.ponge.org/blog/mozilla-public-license-v2-a-good-middleground/
+
 # Incident
 
 https://torrentfreak.com/company-hijacks-blenders-cc-by-licensed-film-youtube-strikes-user-221205/

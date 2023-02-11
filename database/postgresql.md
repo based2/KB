@@ -266,6 +266,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year
+> https://news.ycombinator.com/item?id=34734021
+
 https://www.crunchydata.com/blog/using-postgres-filter
 
 https://gilslotd.com/blog/features_id_postgresql

@@ -277,6 +277,8 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://news.ycombinator.com/item?id=34741195
+
 https://motherduck.com/blog/big-data-is-dead/
 > https://news.ycombinator.com/item?id=34694926
 

@@ -56,6 +56,9 @@ https://www.aeracode.org/2018/02/19/python-async-simplified/
 https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent
 > https://news.ycombinator.com/item?id=34395138
 
+https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/
+> https://news.ycombinator.com/item?id=34754276
+
 # Build
 https://github.com/mesonbuild/meson
 
@@ -267,6 +270,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://google.github.io/styleguide/pyguide.html
+> https://news.ycombinator.com/item?id=34750397
+
 https://medium.com/@peterkong/comparison-of-python-documentation-generators-660203ca3804
 
 https://github.com/tylerlaberge/PyPattyrn

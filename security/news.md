@@ -1,3 +1,26 @@
+https://petapixel.com/2023/02/10/mysterious-green-laser-beams-over-hawaii-came-from-chinese-satellite/
+> https://news.ycombinator.com/item?id=34753462
+
+https://github.com/tc39/proposal-symbol-proto TC39 proposal for mitigating prototype pollution
+
+https://hacksys.io/blogs/adobe-reader-resetform-cagg-rce-cve-2023-21608
+
+https://gartner.com.ring0.lol/
+
+https://github.com/voidz0r/CVE-2022-44268 PoC for the CVE-2022-44268 - ImageMagick arbitrary file read
+
+https://www.reddit.com/r/netsec/comments/10tsvla/dos_and_arbitrary_file_read_in_imagemagick_the/
+
+https://www.reddit.com/r/netsec/comments/10x5fag/openssh_preauth_double_free_cve202325136_writeup/
+
+https://www.reddit.com/r/netsec/comments/10wi9kr/recovery_script_for_esxiargs_ransomware/
+
+https://www.greynoise.io/blog/exploit-vector-analysis-of-emerging-esxiargs-ransomware
+
+https://www.varonis.com/blog/neo4jection-secrets-data-and-cloud-exploits neo4j
+
+https://lists.apache.org/thread/w36zsm00pzohoq9bc8cpjo9f6xb16081 CVE-2023-25194: Apache Kafka: Possible RCE/Denial of service attack via SASL JAAS JndiLoginModule configuration using Kafka Connect
+
 https://www.nist.gov/news-events/news/2023/02/nist-selects-lightweight-cryptography-algorithms-protect-small-devices
 > https://news.ycombinator.com/item?id=34712729
 > https://news.ycombinator.com/item?id=34693629
@@ -6,9 +29,7 @@ https://arxiv.org/pdf/2302.01131.pdf An Attack on The Speculative Vectorization:
 
 https://arxiv.org/pdf/2302.01024.pdf SSO-MONITOR: Fully-Automatic Large-Scale Landscape, Security, and Privacy; Analyses of Single Sign-On in the Wild
 
-https://github.com/google/security-research/security/advisories/GHSA-9x5g-vmxf-4qj8
-
-https://lobi.to/talks/papertickets/
+https://lobi.to/talks/papertickets/ UK Department for Transport, the ITSO specification
 > https://news.ycombinator.com/item?id=34664146
 
 https://maskray.me/blog/2023-01-08-all-about-sanitizer-interceptors
@@ -18,8 +39,6 @@ https://paulponraj.com/vulnerabilities-in-ev-charging-management-systems-pose-th
 https://www.akamai.com/blog/security-research/exploiting-critical-spoofing-vulnerability-microsoft-cryptoapi
 
 https://www.sonarsource.com/blog/openemr-remote-code-execution-in-your-healthcare-system/
-
-https://fourcore.io/blogs/hackers-using-microsoft-onenote-attachments-to-spread-malware
 
 https://www.pixiepointsecurity.com/blog/nday-cve-2021-34462.html
 
@@ -38,9 +57,6 @@ https://arstechnica.com/information-technology/2023/02/thousands-of-qnap-devices
 https://mta.openssl.org/pipermail/openssl-announce/2023-January/000248.html
 > https://news.ycombinator.com/item?id=34608750
 
-https://www.nixcraft.com/t/the-following-security-updates-require-ubuntu-pro-with-esm-apps-enable/4492
-> https://news.ycombinator.com/item?id=34630473
-
 https://ronin-rb.dev/blog/2023/02/01/ronin-2-0-0-finally-released.html
 > https://news.ycombinator.com/item?id=34625494
 
@@ -53,8 +69,6 @@ https://www.jefftk.com/p/how-likely-is-losing-a-google-account
 https://cloud.google.com/blog/products/identity-security/how-confidential-space-and-mpc-can-help-secure-digital-assets/?hl=en
 > https://news.ycombinator.com/item?id=34571175
 
-https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-windows-cryptoapi-spoofing-bug/
-
 https://www.bleepingcomputer.com/news/security/lexmark-warns-of-rce-bug-affecting-100-printer-models-poc-released/
 
 https://www.bleepingcomputer.com/news/security/researchers-to-release-vmware-vrealize-log-rce-exploit-patch-now/
@@ -63,23 +77,12 @@ https://www.bleepingcomputer.com/news/security/cisa-federal-agencies-hacked-usin
 
 https://www.zscaler.com/blogs/security-research/album-stealer-targets-facebook-adult-only-content-seekers
 
-https://sysdig.com/blog/cve-2023-0210-linux-kernel-unauthenticated-remote-heap-overflow/
-
 https://github.com/vonahisec/CVE-2022-47966-Scan
 
 https://blog.assetnote.io/2023/01/24/yellowfin-auth-bypass-to-rce/
 
 https://www.reuters.com/world/europe/dutch-hacker-obtained-virtually-all-austrians-personal-data-police-say-2023-01-25/
 > https://news.ycombinator.com/item?id=34528219
-
-https://support.apple.com/en-us/HT213154
-> https://news.ycombinator.com/item?id=34495879
-
-https://metalbear.co/blog/fun-with-macoss-sip/
-> https://news.ycombinator.com/item?id=34514656
-
-https://www.theverge.com/2023/1/24/23569600/apple-iphone-5s-security-update-ios-12
-> https://news.ycombinator.com/item?id=34512442
 
 https://palant.info/2023/01/25/ipinside-koreas-mandatory-spyware/
 > https://news.ycombinator.com/item?id=34516013
@@ -104,21 +107,11 @@ https://www.nostr.net/
 https://svrooij.io/2023/01/25/disconnect-your-smart-appliance/
 > https://news.ycombinator.com/item?id=34533396
 
-https://quitesimple.org/page/fun-gentoo-shuffle-rop-gadgets
-> https://news.ycombinator.com/item?id=34532373
-
-https://seclists.org/oss-sec/2023/q1/20 CVE-2023-0179: Linux kernel stack buffer overflow in nftables: PoC and writeup
-
 https://media.defense.gov/2023/Jan/18/2003145994/-1/-1/0/CSI_IPV6_SECURITY_GUIDANCE.PDF
 > https://news.ycombinator.com/item?id=34478810
 
 https://vpnoverview.com/news/wifi-routers-used-to-produce-3d-images-of-humans/
 > https://news.ycombinator.com/item?id=34480760
-
-https://9to5mac.com/2023/01/18/icloud-advanced-data-protection-ios/
-
-https://github.com/aegistudio/enigma filesystem windows
-> https://news.ycombinator.com/item?id=34474039
 
 https://blog.thinkst.com/2023/01/swipe-right-on-our-new-credit-card-tokens.html
 > https://news.ycombinator.com/item?id=34476507
@@ -139,14 +132,13 @@ https://semgrep.dev/blog/2022/xml-security-in-java
 
 https://www.crowdstrike.com/blog/exploiting-cve-2021-3490-for-container-escapes/
 
-https://www.cyberark.com/resources/threat-research-blog/inglourious-drivers-a-journey-of-finding-vulnerabilities-in-drivers
-
 https://spectrum.ieee.org/dell-tried-to-hide-bad-capacitors-problem
 > https://news.ycombinator.com/item?id=34386682
 
-https://news.ycombinator.com/item?id=34423395
+https://arxiv.org/abs/2301.00250 DensePose From WiFi
+> https://news.ycombinator.com/item?id=34423395
 
-https://erri120.github.io/posts/2023-01-18/
+https://erri120.github.io/posts/2023-01-18/ Breaking EA Desktop's pathetic Encryption
 > https://news.ycombinator.com/item?id=34428667
 
 https://www.doppler.com/blog/the-current-secrets-rotation-process-is-broken
@@ -164,20 +156,11 @@ https://blog.silentsignal.eu/2022/09/28/another-tale-of-ibm-i-as-400-hacking/
 https://www.troyhunt.com/pwned-or-bot/
 > https://news.ycombinator.com/item?id=34438251
 
-https://seclists.org/oss-sec/2023/q1/42 sudoedit
-> https://news.ycombinator.com/item?id=34445602
-> https://www.reddit.com/r/netsec/comments/10fhsfu/sudoedit_can_edit_arbitrary_files_cve202322809/
-
 https://www.reuters.com/technology/t-mobile-says-investigating-data-breach-affecting-37-mln-accounts-2023-01-19/
 > https://news.ycombinator.com/item?id=34447883
 > https://news.ycombinator.com/item?id=34446850
 
-https://googleprojectzero.blogspot.com/2023/01/exploiting-null-dereferences-in-linux.html
-> https://news.ycombinator.com/item?id=34443813
-
 https://fr.ulule.com/serious-game-ebios-rm/
-
-https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-21674
 
 https://www.mozilla.org/en-US/security/advisories/mfsa2023-01/
 
@@ -194,16 +177,11 @@ https://krebsonsecurity.com/2023/01/identity-thieves-bypassed-experian-security-
 
 https://www.notamonadtutorial.com/pinocchio-virtual-machine-nearly-practical-verifiable-computation/
 
-https://dawidpotocki.com/en/2023/01/13/msi-insecure-boot/
-> https://news.ycombinator.com/item?id=34388533
-
 https://www.mail-archive.com/announce@apache.org/msg07843.html CVE-2022-45143 Apache Tomcat - JsonErrorReportValve injection
 
 https://sector7.computest.nl/post/2023-01-xar/
 
 https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-deux-vulnerabilites-40277
-
-https://www.theregister.com/2023/01/13/happy_friday_13th_microsoft_defender/
 
 https://www.pcmag.com/news/ceo-arrested-for-selling-1-billion-in-fake-cisco-hardware-on-amazon-ebay
 
@@ -216,9 +194,6 @@ https://arstechnica.com/information-technology/2023/01/fortinet-says-hackers-exp
 > > https://news.ycombinator.com/item?id=34381121
 
 https://www.wired.com/story/siemens-s7-1500-logic-controller-flaw/
-
-https://github.com/jmau111-org/windows_security
-> https://news.ycombinator.com/item?id=34337614
 
 https://www.matthewlinkous.com/p/encryption-worthy
 > https://news.ycombinator.com/item?id=34326399
@@ -249,19 +224,10 @@ https://www.notamonadtutorial.com/verifiable-encryption-using-zero-knowledge-pro
 
 https://github.com/jafarlihi/connmap
 
-https://fourcore.io/blogs/bring-your-own-vulnerable-driver-attack
-
-https://archcloudlabs.com/projects/cve-2022-46330/ windows
-
-https://worthdoingbadly.com/macappsios/
-> https://news.ycombinator.com/item?id=34292795
-
 https://www.microsoft.com/en-us/security/blog/2023/01/05/unraveling-the-techniques-of-mac-ransomware/
 > https://objective-see.org/downloads/MacMalware_2022.pdf
 
 https://github.com/volution/z-tokens
-
-https://alexplaskett.github.io/macos-ios-security-research/
 
 https://tomforb.es/i-scanned-every-package-on-pypi-and-found-57-live-aws-keys/
 
@@ -282,9 +248,6 @@ https://www.theregister.com/2023/01/06/flaws_rust_projects_ddos/
 
 https://www.theregister.com/2023/01/06/jp_morgan_lawsuit_essilor/
 
-https://soatok.blog/2022/12/29/what-we-do-in-the-etc-shadow-cryptography-with-passwords/ ###
-> https://news.ycombinator.com/item?id=34265805
-
 https://github.com/ARPSyndicate/awesome-intelligence
 > https://news.ycombinator.com/item?id=34245102
 
@@ -292,8 +255,6 @@ https://words.filippo.io/dispatches/go-1-20-cryptography/
 > https://news.ycombinator.com/item?id=34247615
 
 https://palant.info/2023/01/02/south-koreas-online-security-dead-end/
-
-https://objective-see.org/blog/blog_0x71.html
 
 https://gizmodo.com/black-hat-what-to-do-big-tech-company-steals-your-code-1849378076?mc_cid=c31e4596be
 
@@ -343,48 +304,24 @@ https://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stac
 
 https://cymulate.com/blog/blindside-a-new-technique-for-edr-evasion-with-hardware-breakpoints
 
-https://seclists.org/oss-sec/2022/q4/57
-> https://seclists.org/oss-sec/2022/q4/57https://blog.hacktivesecurity.com/index.php/2022/12/21/cve-2022-2602-dirtycred-file-exploitation-applied-on-an-io_uring-uaf/
-> > https://exploiter.dev/blog/2022/CVE-2022-2602.html dirtycred io_uring 
-
-https://0x434b.dev/overview-of-glibc-heap-exploitation-techniques/
-
-https://research.ifcr.dk/pass-the-challenge-defeating-windows-defender-credential-guard-31a892eee22
-> https://www.reddit.com/r/netsec/comments/zvwgn6/passthechallenge_defeating_windows_defender/
-
 https://streaming.media.ccc.de/jev22
-
-https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/
-> https://news.ycombinator.com/item?id=34145799
-
-https://github.com/zhuowei/WDBFontOverwrite poc to overwrite fonts on iOS using CVE-2022-46689.
 
 https://blog.exodusintel.com/2022/12/19/linux-kernel-exploiting-a-netfilter-use-after-free-in-kmalloc-cg/
 
 https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/
 > https://news.ycombinator.com/item?id=34077678
 
-https://www.zerodayinitiative.com/advisories/ZDI-22-1690/ linux 5.15 ksmbd smb3
-> https://news.ycombinator.com/item?id=34098804
-> https://www.theregister.com/2022/12/24/back_to_work_linux_admins/
+https://adamfallon.com/databreach/csv/elasticsearch/2022/12/22/elasticsearch-facebook-data-leak.html
+> https://news.ycombinator.com/item?id=34097166
 
-https://news.ycombinator.com/item?id=34097166
+https://apps.dtic.mil/sti/pdfs/AD0758206.pdf AD-758 206 COMPUTER SECURITY TECHNOLOGY PLANNING STUDY, 1972
+> https://news.ycombinator.com/item?id=34086411
 
-https://news.ycombinator.com/item?id=34086411
-
-https://jfrog.com/blog/pypi-malware-creators-are-starting-to-employ-anti-debug-techniques/
-> https://news.ycombinator.com/item?id=34103039
-
-https://github.com/PabloMK7/ENLBufferPwn
-
-https://www.theregister.com/2022/12/21/microsoft_fix_hyperv_patch/
+https://github.com/PabloMK7/ENLBufferPwn Nintendo
 
 https://www.theregister.com/2022/12/21/cisco_dna_center_wrong_firmware/
 
 https://www.theregister.com/2022/12/20/europe_plans_to_standardize_passenger/
-
-https://www.phoronix.com/news/Linux-m68k-strcmp-Always-Broken
-> https://news.ycombinator.com/item?id=34085233
 
 https://www.openwall.com/lists/oss-security/2022/12/21/3 CVE-2022-4415: local information leak due to systemd-coredump not respecting fs.suid_dumpable kernel setting
 > https://news.ycombinator.com/item?id=34079682
@@ -408,15 +345,9 @@ https://news.bloombergtax.com/daily-tax-report/irs-accidentally-releases-112-000
 
 https://www.cyberscoop.com/apt28-fancy-bear-satellite/
 
-https://www.willsroot.io/2022/12/entrybleed.html
-> https://lobste.rs/s/kejfdt/entrybleed_breaking_kaslr_under_kpti
-
 https://sgtdede.gitbook.io/hacking/oscp-2022/guide-en
 > https://sgtdede.gitbook.io/hacking/oscp-2022/guide-fr
 > https://www.reddit.com/r/netsec/comments/znwtht/oscp_guide_2022/
-
-https://worthdoingbadly.com/macdirtycow/
-> https://news.ycombinator.com/item?id=34032402
 
 https://blog.talosintelligence.com/html-smugglers-turn-to-svg-images/
 
@@ -435,7 +366,7 @@ https://attackshipsonfi.re/p/exploiting-api-framework-flexibility
 
 https://www.cyberark.com/resources/threat-research-blog/decentralized-identity-attack-surface-part-2
 
-https://github.com/BishopFox/unredacter
+https://github.com/BishopFox/unredacter Never ever ever use pixelation as a redaction technique
 > https://news.ycombinator.com/item?id=34031568
 
 https://www.darkreading.com/attacks-breaches/researcher-finds-akamai-waf-bypass-to-trigger-rce
@@ -448,11 +379,9 @@ https://vigilance.fr/vulnerabilite/OpenSAML-Java-multiples-vulnerabilites-40140
 
 https://aws.amazon.com/en/about-aws/whats-new/2022/12/amazon-route-53-threat-intelligence-recorded-future/
 
-https://lists.apache.org/thread/bf0y1lprjc475jdn3q1pk9cmrlwmb7xq
+https://lists.apache.org/thread/bf0y1lprjc475jdn3q1pk9cmrlwmb7xq CVE-2022-46364: Apache CXF SSRF Vulnerability
 
 https://antonio-cooler.gitbook.io/coolervoid-tavern/detecting-heap-memory-pitfalls
-
-https://www.phoronix.com/news/Linux-6.2-x86-mm
 
 https://tailscale.com/blog/tailnet-lock/
 > https://news.ycombinator.com/item?id=33986430
@@ -478,7 +407,7 @@ https://www.bleepingcomputer.com/news/security/air-gapped-pcs-vulnerable-to-data
 
 https://vigilance.fr/vulnerabilite/FreeBSD-buffer-overflow-via-ping-39980
 
-https://mjg59.dreamwidth.org/62598.html
+https://mjg59.dreamwidth.org/62598.html End-to-end encrypted messages need more than libsignal
 > https://news.ycombinator.com/item?id=33929620
 
 https://nebuchadnezzar-megolm.github.io/ Practically-exploitable Cryptographic Vulnerabilities in Matrix
@@ -493,11 +422,8 @@ https://indeedjobscam.pages.dev/
 https://crypto.junod.info/posts/recursive-hash/
 > https://news.ycombinator.com/item?id=33942309
 
-https://hachyderm.io/@em0/109494729273725207
+https://hachyderm.io/@em0/109494729273725207 What happens to your smartphone when it gets stolen?
 > https://news.ycombinator.com/item?id=33942679
-
-https://github.com/google/security-research/security/advisories/GHSA-pw56-c55x-cm9m
-> https://news.ycombinator.com/item?id=33890098
 
 https://rez0.blog/hacking/2022/12/02/hacking-on-a-plane.html
 > https://news.ycombinator.com/item?id=33911698
@@ -511,9 +437,7 @@ https://medium.com/tenable-techblog/netgear-router-network-misconfiguration-70ac
 
 https://blog.nietaanraken.nl/posts/gitub-popular-repository-namespace-retirement-bypass/
 
-https://www.bleepingcomputer.com/news/security/hackers-hijack-linux-devices-using-proot-isolated-filesystems/
-
-https://www.openwall.com/lists/oss-security/2022/12/05/1
+https://www.openwall.com/lists/oss-security/2022/12/05/1 CVE-2022-4170: rxvt-unicode code execution via background OSC
 
 https://chromereleases.googleblog.com/2022/12/stable-channel-update-for-desktop.html
 > https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-4262 JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
@@ -533,11 +457,9 @@ https://zuplo.com/blog/2022/12/01/api-key-authentication/
 https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/
 > https://news.ycombinator.com/item?id=33838826
 
-https://rachelbythebay.com/w/2018/04/27/uid/
+https://rachelbythebay.com/w/2018/04/27/uid/ User IDs probably shouldn't be passed around as ints
 > https://news.ycombinator.com/item?id=33850659
 > > https://github.com/ulid/spec
-
-https://medium.com/@b0red0m/new-malware-discovered-wormable-iot-scada-95-10-f2ddc2e956bb
 
 https://www.securesystems.de/blog/subdomain-enumeration-with-DNSSEC/
 > https://blog.cloudflare.com/black-lies/
@@ -551,7 +473,7 @@ https://sensepost.com/blog/2022/certpotato-using-adcs-to-privesc-from-virtual-an
 
 https://www.theverge.com/2022/11/30/23486753/anker-eufy-security-camera-cloud-private-encryption-authentication-storage
 
-https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html
+https://frycos.github.io/vulns4free/2022/12/02/rce-in-20-minutes.html pgadmin
 > https://news.ycombinator.com/item?id=33841298
 
 https://github.com/samyk/magspoof
@@ -579,12 +501,9 @@ https://news.ycombinator.com/item?id=33827088
 https://knightcolumbia.org/blog/why-were-suing-nso-group?_preview_=7bd805e6dc
 > https://news.ycombinator.com/item?id=33824217
 
-https://lapcatsoftware.com/articles/MontereyCVE.html
-> https://news.ycombinator.com/item?id=33833751
+https://news.ycombinator.com/item?id=33818183 Launch HN: JumpWire (YC W22) – Easily encrypt customer data in your databases
 
-https://news.ycombinator.com/item?id=33818183
-
-https://news.ycombinator.com/item?id=33831127
+https://news.ycombinator.com/item?id=33831127 Remotely unlock/start/locate any remotely connected Honda/Nissan [resolved]
 
 https://chromereleases.googleblog.com/2022/11/stable-channel-update-for-desktop_24.html
 
@@ -594,7 +513,8 @@ https://www.infoq.com/news/2022/11/XmlSecureResolver/
 
 https://www.cyberscoop.com/dhs-bug-bounty-122-vulnerabilities-27-critical-hackers/
 
-https://news.ycombinator.com/item?id=33741089
+https://techmonitor.ai/government-computing/hikvision-ban-uk-government-oliver-dowden
+> https://news.ycombinator.com/item?id=33741089
 
 https://www.actionnewsjax.com/news/local/investigates-very-scary-cell-phone-issue-dialing-911/ZNT76HVHRRCB5AUVRTT7JL43DM/
 > https://news.ycombinator.com/item?id=33739583
@@ -627,7 +547,7 @@ https://allsoftwaresucks.blogspot.com/2022/11/why-cve-2022-3602-was-not-detected
 
 https://arstechnica.com/tech-policy/2022/11/id-me-made-baseless-pandemic-fraud-claims-to-win-contracts-congress-says/
 
-https://hackerone.com/reports/1087489
+https://hackerone.com/reports/1087489 Github access token exposure
 
 https://techcrunch.com/2022/11/16/iran-hackers-federal-agency-log4shell/
 
@@ -661,12 +581,12 @@ https://portswigger.net/daily-swig/ibexa-dxp-patched-for-graphql-password-hash-l
 https://krebsonsecurity.com/2022/11/researchers-quietly-cracked-zeppelin-ransomware-keys/
 > https://news.ycombinator.com/item?id=33649297
 
-https://news.ycombinator.com/item?id=33621562
+https://news.ycombinator.com/item?id=33621562 Tesla has used space characters in internal emails to identify leaks
 
 https://tomforb.es/infosys-leaked-fulladminaccess-aws-keys-on-pypi-for-over-a-year/
 > https://news.ycombinator.com/item?id=33628562
 
-https://lists.gnu.org/archive/html/grub-devel/2022-11/msg00059.html
+https://lists.gnu.org/archive/html/grub-devel/2022-11/msg00059.html Multiple GRUB2 vulnerabilities - 2022/11/15
 > https://news.ycombinator.com/item?id=33642634
 
 https://engineering.fb.com/2021/09/29/security/mariana-trench/
@@ -683,17 +603,10 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/espiona
 
 https://vigilance.fr/vulnerabilite/MIT-krb5-Samba-debordement-d-entier-via-krb5-parse-pac-39841
 
-https://theevilbit.github.io/posts/cve-2022-32929/ Bypass iOS backup's TCC protection
-> https://news.ycombinator.com/item?id=33611738
-
 https://www.reuters.com/technology/exclusive-russian-software-disguised-american-finds-its-way-into-us-army-cdc-2022-11-14/
 
 https://www.rnz.co.nz/news/national/478715/spy-agency-uses-computer-network-exploitation-to-take-digital-information
 > https://news.ycombinator.com/item?id=33590238
-
-https://www.mandiant.com/resources/blog/apt29-windows-credential-roaming
-> https://securityaffairs.co/wordpress/138322/apt/apt29-windows-credential-roaming.html
-> > https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-30170
 
 https://blog.nlnetlabs.nl/open-source-software-vs-the-cyber-resilience-act/
 > https://news.ycombinator.com/item?id=33594440
@@ -722,11 +635,7 @@ https://bugs.xdavidhu.me/google/2022/11/10/accidental-70k-google-pixel-lock-scre
 
 https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-auth-bypass-bugs-in-remote-access-tool/
 
-https://www.bleepingcomputer.com/news/microsoft/microsoft-winget-package-manager-failing-due-to-cdn-issues/
-
 https://www.bleepingcomputer.com/news/security/lenovo-fixes-flaws-that-can-be-used-to-disable-uefi-secure-boot/
-
-https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-proxynotshell-exchange-zero-days-exploited-in-attacks/
 
 https://googleprojectzero.blogspot.com/2022/11/a-very-powerful-clipboard-samsung-in-the-wild-exploit-chain.html
 

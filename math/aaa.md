@@ -123,6 +123,8 @@ https://en.wikipedia.org/wiki/Curta
 > https://news.ycombinator.com/item?id=34661411
 
 # News
+https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/
+
 https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/
 > https://news.ycombinator.com/item?id=34708756
 

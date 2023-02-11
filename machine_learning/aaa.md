@@ -256,6 +256,11 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://jax.readthedocs.io/en/latest/autodidax.html
+> https://news.ycombinator.com/item?id=34732361
+
+https://news.ycombinator.com/item?id=34752489
+
 https://news.ycombinator.com/item?id=34726647
 
 https://arxiv.org/abs/2302.02083 Theory of Mind May Have Spontaneously Emerged in Large Language Models

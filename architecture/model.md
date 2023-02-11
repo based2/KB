@@ -5,6 +5,8 @@ http://tunguska.sourceforge.net/about.html
 https://arxiv.org/abs/2105.05398 Sound, Precise, and Fast Abstract Interpretation with Tristate Numbers
 
 #
+https://news.ycombinator.com/item?id=34753657
+
 https://preserves.dev/
 > https://news.ycombinator.com/item?id=34354614
 
