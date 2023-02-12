@@ -237,6 +237,12 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://jonatron.github.io/fosdem2023whisper/links.html
+> https://news.ycombinator.com/item?id=34761374
+
+https://libreboot.org/news/usa-libre-part2.html usa, New Hampshire
+> https://news.ycombinator.com/item?id=34764805
+
 https://www.atlanticcouncil.org/in-depth-research-reports/report/open-source-software-as-infrastructure/
 > https://news.ycombinator.com/item?id=34755352
 

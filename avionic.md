@@ -27,6 +27,8 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://news.ycombinator.com/item?id=34728405
+
 https://airfactsjournal.com/2020/11/the-20-an-hour-cessna-172-experiment/
 > https://news.ycombinator.com/item?id=34728405
 

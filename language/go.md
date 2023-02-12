@@ -101,6 +101,10 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 > https://news.ycombinator.com/item?id=31955334
 > > https://news.ycombinator.com/item?id=31956938
 
+# Interop
+https://github.com/ebitengine/purego library for calling C functions from Go without Cgo
+> https://news.ycombinator.com/item?id=34763681
+
 # News
 https://go.dev/doc/go1.20
 > https://news.ycombinator.com/item?id=34616352

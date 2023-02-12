@@ -85,6 +85,9 @@ https://www.vldb.org/pvldb/vol16/p856-power.pdf
 https://docs.rs/yrs/0.16.0/yrs/
 > https://news.ycombinator.com/item?id=34532874
 
+https://vlcn.io/blog/gentle-intro-to-crdts.html
+> https://news.ycombinator.com/item?id=34746716
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

@@ -70,6 +70,9 @@ https://tailwindcss.com/blog/tailwindcss-v3-2
 
 https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/
 
+https://betterprogramming.pub/the-rise-and-fall-of-bootstrap-68d4cd703666
+> https://news.ycombinator.com/item?id=34759665
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916

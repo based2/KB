@@ -1,3 +1,6 @@
+https://gizmodo.com/tiktok-pentagon-dating-apps-banned-government-phones-1850098991
+> https://news.ycombinator.com/item?id=34764759
+
 https://petapixel.com/2023/02/10/mysterious-green-laser-beams-over-hawaii-came-from-chinese-satellite/
 > https://news.ycombinator.com/item?id=34753462
 

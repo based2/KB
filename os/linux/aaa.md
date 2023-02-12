@@ -96,6 +96,12 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://us.starlabs.systems/pages/starfighter
+> https://news.ycombinator.com/item?id=34759507
+
+https://blocksandfiles.com/2023/02/10/rakuten-symphonys-distributed-stateful-cloud-native-5g-edge-play/
+> https://news.ycombinator.com/item?id=34762779
+
 https://news.ycombinator.com/item?id=34572500
 
 https://gist.github.com/milesrichardson/8f1c9c7088f8a4e889019d7ce0559ec9 inherit_environment_variables_from_pid_1

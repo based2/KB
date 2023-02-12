@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.macrumors.com/2023/02/09/myst-mobile-ios-game/
+> https://news.ycombinator.com/item?id=34734522
+
 https://news.ycombinator.com/item?id=34706098
 
 https://play-cs.com/en/servers

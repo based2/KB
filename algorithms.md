@@ -107,6 +107,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://perso.ens-lyon.fr/jean-michel.muller/advertising.pdf
+> https://news.ycombinator.com/item?id=34734143
+
 https://github.com/BrunoLevy/geogram
 > https://news.ycombinator.com/item?id=34752234
 

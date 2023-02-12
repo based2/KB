@@ -269,6 +269,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://mats3.io/background/rationale-for-mats/
+> https://news.ycombinator.com/item?id=34765578
+
 https://github.com/DovAmir/awesome-design-patterns
 
 https://news.ycombinator.com/item?id=34317942

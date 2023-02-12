@@ -65,6 +65,10 @@ https://memgraph.com/blog/lost-in-documentation-let-our-docs-recommendation-syst
 https://kuzudb.com/blog/what-every-gdbms-should-do-and-vision.html
 > https://news.ycombinator.com/item?id=34358912
 
+https://www.theregister.com/2023/02/12/software_freedom_conservancy_fights_agplv3/ neo4j vs PureThink ONgDB
+> https://www.graphfoundation.org/ongdb/
+> https://news.ycombinator.com/item?id=34763955
+
 ## Store
 https://github.com/quoll/asami clojure
 > https://news.ycombinator.com/item?id=33621939

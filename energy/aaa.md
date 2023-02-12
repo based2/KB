@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.sciencedirect.com/science/article/pii/S0960148122012290
+> https://news.ycombinator.com/item?id=34762901
+
 https://www.vestas.com/en/media/company-news/2023/vestas-unveils-circularity-solution-to-end-landfill-for-c3710818
 > https://news.ycombinator.com/item?id=34716743
 

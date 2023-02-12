@@ -15,6 +15,8 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 # News
+https://news.ycombinator.com/item?id=34758525
+
 https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains/
 > https://news.ycombinator.com/item?id=34353802
 

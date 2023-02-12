@@ -13,7 +13,9 @@ https://86box.net/
 http://48k.ca/trs80gp.html
 > https://news.ycombinator.com/item?id=34514499
 
-https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/?cr=fr
+https://dolphin-emu.org/blog/2023/02/12/dolphin-progress-report-december-2022-january-2023/
+
+https://dolphin-emu.org/blog/2022/12/21/dolphin-progress-report-september-october-november-2022/
 > https://news.ycombinator.com/item?id=34078828
 
 https://dolphin-emu.org/blog/2022/07/07/dolphin-progress-report-may-and-june-2022/

@@ -47,6 +47,9 @@ https://www.france24.com/en/live-news/20211115-space-debris-event-forces-iss-cre
 
 https://www.reuters.com/world/europe/russia-launch-backup-soyuz-spacecraft-iss-following-leak-2023-01-11/
 
+https://spacepolicyonline.com/news/another-russian-spacecraft-at-iss-has-a-coolant-leak/
+> https://news.ycombinator.com/item?id=34763756
+
 ## Tianhe
 https://www.globaltimes.cn/page/202107/1227953.shtml
 

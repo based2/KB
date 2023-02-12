@@ -387,6 +387,8 @@ https://svelte.dev/blog/announcing-sveltekit-1.0
 
 https://stwui.vercel.app/
 
+https://escape.tech/blog/from-vue2-to-svelte/
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296

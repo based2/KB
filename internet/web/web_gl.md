@@ -62,5 +62,8 @@ https://luic.github.io/WebGL-Performance-Benchmark/
 
 https://github.com/PurpleKingdomGames/ultraviolet WebGL shaders in Scala 3
 
+https://github.com/aappleby/Wideboard linux kernel
+> https://news.ycombinator.com/item?id=34758336
+
 
 

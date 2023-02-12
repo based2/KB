@@ -198,6 +198,9 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://www.unitedbsd.com/d/590-testing-the-lua-kernel-interpreter netbsd, lua
+> https://news.ycombinator.com/item?id=34762748
+
 https://github.com/chettrick/discobsd
 > https://news.ycombinator.com/item?id=34446251
 

@@ -32,6 +32,10 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://github.com/fathyb/carbonyl
+
+https://www.theregister.com/2023/02/10/microsoft_edge_pdf_acrobat/
+
 https://news.ycombinator.com/item?id=34711367
 
 https://news.ycombinator.com/item?id=34648755

@@ -17,6 +17,8 @@ https://mcaptcha.org/ AGPL, rust
 https://github.com/wenlng/go-captcha
   
 # News
+https://support.mozilla.org/en-US/kb/containers
+
 https://addons.mozilla.org/en-US/firefox/addon/facebook-container/
 > https://news.ycombinator.com/item?id=34435745
 

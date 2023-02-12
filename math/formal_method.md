@@ -51,6 +51,9 @@ https://github.com/informalsystems/modelator-py
 https://www.hillelwayne.com/post/learntla/
 > https://news.ycombinator.com/item?id=31952643
 
+https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/
+> https://news.ycombinator.com/item?id=34750798
+
 # Z3 Microsoft
 https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb
 > https://news.ycombinator.com/item?id=27045771

@@ -76,6 +76,8 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://evanw.github.io/float-toy/
+
 https://news.ycombinator.com/item?id=34741240
 
 http://vectorpoem.com/playscii/

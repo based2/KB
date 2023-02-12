@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.drawaurora.com/
+> https://news.ycombinator.com/item?id=34734570
+
+https://distill.pub/2020/communicating-with-interactive-articles/
+> https://news.ycombinator.com/item?id=34762683
+
 https://news.ycombinator.com/item?id=34639946
 
 https://motion-canvas.github.io/

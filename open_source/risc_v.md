@@ -1,6 +1,8 @@
 https://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html
 > https://news.ycombinator.com/item?id=34024914
 
+https://www.cnx-software.com/2023/02/12/starfive-visionfive-2-sbc-review-debian-12/
+
 https://balthazar.space/wiki/Balthazar
 > https://news.ycombinator.com/item?id=34754855
 

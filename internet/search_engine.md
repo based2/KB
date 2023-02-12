@@ -82,6 +82,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://web.archive.org/web/20070621141150/http://isrl.uiuc.edu/~chip/projects/timeline/1990archie.htm
+
 https://news.ycombinator.com/item?id=34715003
 
 https://news.ycombinator.com/item?id=34723275

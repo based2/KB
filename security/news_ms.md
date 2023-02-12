@@ -1,3 +1,13 @@
+https://posts.specterops.io/telemetry-layering-89185b5348ba
+
+https://www.reddit.com/r/netsec/comments/110brgq/cheriot_rethinking_security_for_lowcost_embedded/
+
+https://github.com/0x00Check/ExploitLeakedHandle
+
+https://github.com/Dec0ne/HWSyscalls
+
+https://news.ycombinator.com/item?id=34759028 failed to rotate certificates for winget CDN on time
+
 https://www.localpotato.com/localpotato_html/LocalPotato.html ntml
 
 https://www.techspot.com/news/97535-windows-11-spyware-machine-out-users-control.html

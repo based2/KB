@@ -47,6 +47,9 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://www.imagine.ai/ 2node.js
+> https://news.ycombinator.com/item?id=34757682
+
 https://www.patterns.app/blog/2023/01/18/crunchbot-sql-analyst-gpt/
 > https://news.ycombinator.com/item?id=34521149
 

@@ -143,6 +143,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://www.worthe-it.co.za/blog/2023-02-09-i-was-saved-by-test-driven-development.html
+> 
+
 https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning
 
 https://thenewstack.io/ai-machine-learning-and-the-future-of-software-development/

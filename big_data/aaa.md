@@ -106,6 +106,9 @@ https://github.com/vizzuhq/ipyvizzu-story
 https://github.com/google/evcxr/blob/1a2d6c40c467267801c7382edfa28028f99bbd9a/evcxr_jupyter/samples/evcxr_jupyter_tour.ipynb rust
 > https://news.ycombinator.com/item?id=34380914
 
+https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23
+> https://news.ycombinator.com/item?id=34736064
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 > https://news.ycombinator.com/item?id=27145515
@@ -202,6 +205,9 @@ https://flowingdata.com/2022/12/29/best-of-2022/
 
 https://www.visualcapitalist.com/cp/visualizing-sp-500-performance-in-2022-by-sector/
 
+https://github.com/moshi4/pyCirclize
+> https://news.ycombinator.com/item?id=34759665
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
@@ -277,6 +283,8 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/
+
 https://news.ycombinator.com/item?id=34741195
 
 https://motherduck.com/blog/big-data-is-dead/

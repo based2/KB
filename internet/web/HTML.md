@@ -148,6 +148,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog
+> https://news.ycombinator.com/item?id=34759527
+
 https://danq.me/2023/01/11/nocode/
 > https://news.ycombinator.com/item?id=34464951
 

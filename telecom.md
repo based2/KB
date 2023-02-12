@@ -75,6 +75,8 @@ https://spectrum.ieee.org/faa-5g
 
 https://www.fiercewireless.com/sponsored/multibeam-antennas-are-critical-component-future-mobile-connectivity
 
+https://blocksandfiles.com/2023/02/10/rakuten-symphonys-distributed-stateful-cloud-native-5g-edge-play/
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
@@ -114,6 +116,8 @@ https://blog.gatunka.com/2015/06/30/isdn-the-untraveled-path-of-mobile-computing
 > https://news.ycombinator.com/item?id=27051670
 
 # Mesh
+https://www.theregister.com/2023/02/09/inaccurate_broadband_coverage_maps_usa/
+
 https://www.nytimes.com/2021/07/16/nyregion/nyc-mesh-community-internet.html
 > https://news.ycombinator.com/item?id=27872243
 

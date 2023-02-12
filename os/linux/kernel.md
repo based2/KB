@@ -16,6 +16,9 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://social.treehouse.systems/@marcan/109850332098739010
+> https://news.ycombinator.com/item?id=34760833
+
 https://lwn.net/Articles/920259/
 
 https://codentium.com/building-a-linux-kernel-with-rust-support-on-gentoo/
