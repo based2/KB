@@ -27,6 +27,12 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://www.blueorigin.com/news/blue-alchemist-powers-our-lunar-future/
+> https://news.ycombinator.com/item?id=34790028
+
+https://arstechnica.com/science/2023/02/blue-origin-makes-a-big-lunar-announcement-without-any-fanfare/
+> https://news.ycombinator.com/item?id=34774110
+
 https://www.theregister.com/2023/02/10/nasas_flashlight_cubesat_moon/
 
 https://www.livescience.com/plasmasphere-moon-tidal-force

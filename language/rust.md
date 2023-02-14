@@ -427,6 +427,15 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://bluss.github.io//rust/fun/2015/10/11/stuff-the-identity-function-does/
+> https://news.ycombinator.com/item?id=34761055
+
+https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer
+> https://news.ycombinator.com/item?id=34775549
+
+https://fosdem.org/2023/schedule/event/rust_coreutils/
+> https://news.ycombinator.com/item?id=34780886
+
 https://www.memorysafety.org/blog/remy-rakic-compile-times/
 > https://news.ycombinator.com/item?id=34639070
 

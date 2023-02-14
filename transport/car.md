@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.theverge.com/2023/2/14/23599300/hyundai-kia-car-theft-software-update-free-tiktok-challenge
+> https://news.ycombinator.com/item?id=34793414
+
 https://news.ycombinator.com/item?id=33757709
 
 https://www.teslarati.com/rivian-ford-chevy-fried-electrify-america-video/

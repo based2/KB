@@ -26,6 +26,9 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://david-gilbertson.medium.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5
+> https://news.ycombinator.com/item?id=34787426
+
 https://kevin.burke.dev/kevin/invalid-username-or-password-useless/
 
 https://techcrunch.com/2023/01/10/interior-department-watchdog-passwords/

@@ -60,6 +60,9 @@ https://thisxdoesnotexist.com/
 https://opencognitives.com/mann-e/
 > https://news.ycombinator.com/item?id=34522311
 
+https://pix2pixzero.github.io/
+> https://news.ycombinator.com/item?id=34782287
+
 # text2img
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 

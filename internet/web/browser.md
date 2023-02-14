@@ -32,6 +32,15 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://arstechnica.com/gadgets/2023/02/microsoft-will-forcibly-remove-internet-explorer-from-most-windows-10-pcs-today/
+> https://news.ycombinator.com/item?id=34791023
+
+https://www.mozilla.org/en-US/firefox/110.0/releasenotes/
+> https://news.ycombinator.com/item?id=34792511
+
+https://webkit.org/blog/13851/declarative-shadow-dom/
+> https://news.ycombinator.com/item?id=34778224
+
 https://github.com/fathyb/carbonyl
 
 https://www.theregister.com/2023/02/10/microsoft_edge_pdf_acrobat/

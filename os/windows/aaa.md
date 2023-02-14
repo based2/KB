@@ -111,6 +111,9 @@ https://news.ycombinator.com/item?id=29278370
 * WSL 1 implements the feature by ABI emulation.
 * WSL 2 runs the real Linux kernel using the hardware-accelerated virtualization (Hyper-V).
 
+https://devblogs.microsoft.com/commandline/d3d12-gpu-video-acceleration-in-the-windows-subsystem-for-linux-now-available/
+> https://news.ycombinator.com/item?id=34781163
+
 https://github.com/mintty/wsltty
 
 https://github.com/nullpo-head/wsl-distrod

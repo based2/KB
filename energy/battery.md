@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.reuters.com/business/autos-transportation/ford-halts-production-shipment-f-150-lightning-electric-truck-cnbc-2023-02-14/
+> https://news.ycombinator.com/item?id=34794866
+
 https://www.cbc.ca/news/canada/nova-scotia/battery-power-laptop-phone-research-dalhousie-university-1.6724175
 > https://news.ycombinator.com/item?id=34582931
 

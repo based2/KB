@@ -46,6 +46,12 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://elektrotanya.com/
+> https://news.ycombinator.com/item?id=34787288
+
+https://app.siliwiz.com/
+> https://news.ycombinator.com/item?id=34752173
+
 https://www.withdiode.com/
 
 https://flex-logix.com/efpga/what-are-eflx-efpga-benefits-and-what-differentiates-us.html

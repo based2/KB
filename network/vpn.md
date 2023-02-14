@@ -1,5 +1,8 @@
 https://www.wireguard.com/
 
+https://rob-turner.net/post/vx-lan/
+> https://news.ycombinator.com/item?id=34788989
+
 https://lwn.net/SubscriberLink/910766/7678f8c4ede60928/ Identity management for WireGuard
 > https://news.ycombinator.com/item?id=33261288
 

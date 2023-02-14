@@ -18,6 +18,7 @@ https://github.com/wenlng/go-captcha
   
 # News
 https://support.mozilla.org/en-US/kb/containers
+> https://news.ycombinator.com/item?id=34766801
 
 https://addons.mozilla.org/en-US/firefox/addon/facebook-container/
 > https://news.ycombinator.com/item?id=34435745

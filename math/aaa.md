@@ -122,7 +122,13 @@ https://blog.archive.org/2023/01/29/a-calculated-move-calculators-now-emulated-a
 https://en.wikipedia.org/wiki/Curta
 > https://news.ycombinator.com/item?id=34661411
 
+https://github.com/4silvertooth/QwikTape
+> https://news.ycombinator.com/item?id=34752265
+
 # News
+https://gregorygundersen.com/blog/2023/02/11/dimensional-analysis/
+> https://news.ycombinator.com/item?id=34761162
+
 https://www.quantamagazine.org/mathematicians-complete-quest-to-build-spherical-cubes-20230210/
 
 https://jvns.ca/blog/2023/02/08/why-does-0-1-plus-0-2-equal-0-30000000000000004/

@@ -111,6 +111,9 @@ https://news.ycombinator.com/item?id=33690736
 
 https://github.com/zama-ai/tfhe-rs
 
+https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/
+> https://news.ycombinator.com/item?id=34783447
+
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 
@@ -155,6 +158,9 @@ https://onerng.info/
 > https://news.ycombinator.com/item?id=33223232
 
 https://randombytes.cr.yp.to/
+
+https://www.grc.com/otg/uheprng.htm
+> https://news.ycombinator.com/item?id=34786921
 
 #
 https://en.wikipedia.org/wiki/Forward_secrecy

@@ -47,6 +47,9 @@ https://jfhr.me/optimizing-images-with-the-html-picture-tag/
 https://www.screenstab.com/editor/
 > https://news.ycombinator.com/item?id=34729849
 
+https://screenshot.rocks/
+> https://news.ycombinator.com/item?id=34790781
+
 # Photography
 https://www.photoprism.app/
 > https://news.ycombinator.com/item?id=34716924

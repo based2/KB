@@ -47,6 +47,12 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://techcrunch.com/2023/02/14/githubs-copilot-for-business-is-now-generally-available/
+> https://news.ycombinator.com/item?id=34794148
+
+https://github.com/Nutlope/aicommits
+> https://news.ycombinator.com/item?id=34790721
+
 https://www.imagine.ai/ 2node.js
 > https://news.ycombinator.com/item?id=34757682
 

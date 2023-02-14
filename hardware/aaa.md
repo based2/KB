@@ -66,6 +66,10 @@ https://github.com/rvaiya/warpd A modal keyboard-driven virtual pointer
 
 https://arstechnica.com/gadgets/2022/12/corsair-says-bug-not-keylogger-behind-some-k100-keyboards-creepy-behavior/
 
+# Mouse
+https://github.com/madprops/blog/blob/main/mouse.md
+> https://news.ycombinator.com/item?id=34739163
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184

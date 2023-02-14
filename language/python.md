@@ -270,6 +270,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://blog.glyph.im/2023/02/data-classification.html
+> https://news.ycombinator.com/item?id=34787092
+
+https://beta.ruff.rs/docs/
+> https://news.ycombinator.com/item?id=34788020
+
 https://google.github.io/styleguide/pyguide.html
 > https://news.ycombinator.com/item?id=34750397
 

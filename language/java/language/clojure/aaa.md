@@ -86,6 +86,14 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://www.pixelated-noise.com/blog/2023/02/09/flatten-routes/index.html
+> https://news.ycombinator.com/item?id=34761342
+
+https://github.com/hyperfiddle/electric ui
+> https://news.ycombinator.com/item?id=34771771
+
+https://news.ycombinator.com/item?id=34774498
+
 https://github.com/athensresearch/athens KW
 
 https://yogthos.net/posts/2022-12-18-StructuringClojureApplications.html

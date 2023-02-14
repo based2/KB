@@ -212,6 +212,9 @@ https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemio
 > https://news.ycombinator.com/item?id=31037416
 
 ## Attacks
+https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/
+> https://news.ycombinator.com/item?id=34777646
+
 https://arxiv.org/abs/2106.09898 Bad Characters: Imperceptible NLP Attacks
 > https://news.ycombinator.com/item?id=29734399
 

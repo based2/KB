@@ -86,6 +86,7 @@ https://gitlab.com/mhammons/slinc C
 https://scalameta.org/metals/
 
 https://degoes.net/articles/scala-resurrection
+> https://news.ycombinator.com/item?id=34756737
 
 https://blog.jetbrains.com/scala/2022/11/30/intellij-scala-plugin-2022-3-is-out/
 

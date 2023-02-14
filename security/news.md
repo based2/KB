@@ -1,3 +1,8 @@
+https://vulncheck.com/blog/cve-2022-47966-payload zoho manageengine
+
+https://blog.trailofbits.com/2023/02/14/curl-audit-fuzzing-libcurl-command-line-interface/
+> https://news.ycombinator.com/item?id=34788890
+
 https://gizmodo.com/tiktok-pentagon-dating-apps-banned-government-phones-1850098991
 > https://news.ycombinator.com/item?id=34764759
 

@@ -90,6 +90,7 @@ https://github.com/riffusion/riffusion/releases/tag/v0.3.0
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360
+> https://news.ycombinator.com/item?id=34770898
 
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/

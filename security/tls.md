@@ -142,6 +142,9 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://arxiv.org/abs/2302.05311 TurboTLS: TLS connection establishment with 1 less round trip
+> https://news.ycombinator.com/item?id=34793411 
+
 https://news.ycombinator.com/item?id=34736416
 
 https://groups.google.com/a/ccadb.org/g/public/c/kqtoGeEv5Fc

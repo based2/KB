@@ -27,6 +27,12 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://arstechnica.com/cars/2023/02/the-us-air-force-successfully-tested-this-ai-controlled-jet-fighter/
+> https://news.ycombinator.com/item?id=34789930
+
+https://avherald.com/h?article=50526a09
+> https://news.ycombinator.com/item?id=34787477
+
 https://news.ycombinator.com/item?id=34728405
 
 https://airfactsjournal.com/2020/11/the-20-an-hour-cessna-172-experiment/

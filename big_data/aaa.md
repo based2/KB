@@ -283,6 +283,9 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://docs.kanaries.net/rath/tutorials/data-painter/
+> https://news.ycombinator.com/item?id=34789698
+
 https://vickiboykis.com/2022/12/05/the-cloudy-layers-of-modern-day-programming/
 
 https://news.ycombinator.com/item?id=34741195

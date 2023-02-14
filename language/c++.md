@@ -57,6 +57,9 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://outerproduct.net/boring/2023-02-11_term-loop.html
+> https://news.ycombinator.com/item?id=34761625
+
 https://probablydance.com/2022/12/05/fine-grained-locking-with-two-bit-mutexes/
 > https://news.ycombinator.com/item?id=33882909
 

@@ -25,6 +25,8 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://research.exoticsilicon.com/articles/eject_command_hacking
+
 https://news.ycombinator.com/item?id=34723176
 
 https://nomadbsd.org/

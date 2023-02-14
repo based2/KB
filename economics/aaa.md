@@ -155,6 +155,8 @@ https://www.janestreet.com/tech-talks/building-an-exchange/
 
 https://news.ycombinator.com/item?id=34443471
 
+https://news.ycombinator.com/item?id=34766728
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

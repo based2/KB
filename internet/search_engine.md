@@ -82,6 +82,14 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://arstechnica.com/gadgets/2023/02/google-employees-criticize-ceo-for-dumpster-fire-response-to-chatgpt/
+> https://news.ycombinator.com/item?id=34790264
+
+https://www.theregister.com/2023/02/14/microsoft_ai_bing_error/
+> https://news.ycombinator.com/item?id=34791558
+
+https://github.com/adamlui/userscripts/tree/master/chatgpt/duckduckgpt
+
 https://web.archive.org/web/20070621141150/http://isrl.uiuc.edu/~chip/projects/timeline/1990archie.htm
 
 https://news.ycombinator.com/item?id=34715003

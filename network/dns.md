@@ -57,6 +57,9 @@ https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 > https://news.ycombinator.com/item?id=34177331
 
 # Incident
+https://whois.nic.sh/
+> https://news.ycombinator.com/item?id=34781525
+
 https://news.ycombinator.com/item?id=34194555
 
 https://news.ycombinator.com/item?id=34153448

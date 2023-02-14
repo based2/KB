@@ -12,6 +12,9 @@ https://libli.org/
 > https://news.ycombinator.com/item?id=30586171
  
 #
+https://fosdem.org/2023/schedule/event/matrix20/
+> https://news.ycombinator.com/item?id=34776132
+
 https://thirdroom.io/preview
 
 https://news.ycombinator.com/item?id=34278361

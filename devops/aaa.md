@@ -305,6 +305,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://twitter.com/karrisaarinen/status/1623857893090152448
+> https://news.ycombinator.com/item?id=34773860
+
 https://news.ycombinator.com/item?id=34600985
 
 https://www.jenkins.io/blog/2023/01/12/jenkins-newsletter/
