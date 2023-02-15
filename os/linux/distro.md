@@ -71,6 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://ubuntu.com/blog/real-time-ubuntu-is-now-generally-available
+> https://news.ycombinator.com/item?id=34802231
+
 https://www.gentoo.org/news/2023/02/09/new-year.html
 > https://news.ycombinator.com/item?id=34750614
 

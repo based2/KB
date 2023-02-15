@@ -131,6 +131,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+https://www.dw.com/en/lufthansa-system-failure-causes-massive-travel-chaos/a-64705780
+> https://news.ycombinator.com/item?id=34802309
+
 https://www.euronews.com/next/2023/02/05/italy-telecoms
 > https://www.heise.de/news/Italiens-Cyber-Sicherheitsbehoerde-warnt-vor-weltweitem-Ransomware-Angriff-7485377.html
 

@@ -22,6 +22,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+http://adam.chlipala.net/mlcomp/
+> https://news.ycombinator.com/item?id=34805229
+
 https://kcsrk.info/webman/manual/index.html
 
 https://ocamlpro.com/fr/blog/2021_09_02_generating_static_and_portable_executables_with_ocaml

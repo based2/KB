@@ -166,6 +166,9 @@ https://www.grc.com/otg/uheprng.htm
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://arxiv.org/abs/cond-mat/0208453 Neural Cryptography
+> https://news.ycombinator.com/item?id=34787539
+
 https://eprint.iacr.org/2023/040.pdf
 
 https://notes.ekzhang.com/papers/moral-crypto

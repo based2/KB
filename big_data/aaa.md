@@ -283,6 +283,9 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.7.0.html
+> https://news.ycombinator.com/item?id=34802928
+
 https://docs.kanaries.net/rath/tutorials/data-painter/
 > https://news.ycombinator.com/item?id=34789698
 

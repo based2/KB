@@ -239,6 +239,11 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s02-stoica.pdf From Cloud Computing to Sky Computing
+
+https://www.linode.com/blog/linode/a-bold-new-approach-to-the-cloud/
+> https://news.ycombinator.com/item?id=34799273
+
 https://www.nextplatform.com/2023/02/06/the-on-premises-empire-strikes-back-at-aws/
 
 https://lucperkins.dev/blog/service-mesh-use-cases/

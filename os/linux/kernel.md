@@ -16,6 +16,15 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://github.com/axboe/liburing/wiki/io_uring-and-networking-in-2023
+> https://news.ycombinator.com/item?id=34798281
+
+https://www.phoronix.com/news/Linux-Retire-Itanium-IA64-Patch
+> https://news.ycombinator.com/item?id=34806313
+
+https://rwmj.wordpress.com/2023/02/14/frame-pointers-vs-dwarf-my-verdict/
+> https://news.ycombinator.com/item?id=34789247
+
 https://social.treehouse.systems/@marcan/109850332098739010
 > https://news.ycombinator.com/item?id=34760833
 

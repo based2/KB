@@ -305,6 +305,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://betterprogramming.pub/devops-self-service-centric-pipeline-security-and-guardrails-b3f1252c3c42 DevOps Self-Service Centric Pipeline Security and Guardrails
+
 https://twitter.com/karrisaarinen/status/1623857893090152448
 > https://news.ycombinator.com/item?id=34773860
 

@@ -80,6 +80,8 @@ https://tweedegolf.nl/en/blog/79/sorting-with-simd
 
 https://news.ycombinator.com/item?id=34646199
 
+https://www.reddit.com/r/programming/comments/112r5dx/shelfsort_a_fast_stable_sorting_algorithm_in/
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184

@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/apple-fixes-new-webkit-zero-day-exploited-to-hack-iphones-macs/
+
 https://support.apple.com/en-us/HT213154
 > https://news.ycombinator.com/item?id=34495879
 

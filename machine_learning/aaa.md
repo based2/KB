@@ -259,6 +259,11 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://twitter.com/DrJimFan/status/1625538305889820673 DeepMind has open-sourced the heart of AlphaGo and AlphaZero
+> https://news.ycombinator.com/item?id=34801636
+
+https://mitpress.mit.edu/9780262546379/the-little-learner/
+
 https://jax.readthedocs.io/en/latest/autodidax.html
 > https://news.ycombinator.com/item?id=34732361
 

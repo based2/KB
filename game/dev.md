@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://github.com/dfloer/SC2k-docs
+> https://news.ycombinator.com/item?id=34799905
+
 https://news.ycombinator.com/item?id=34709249
 
 https://www.bjmalicoat.com/projects/localizingunitygames

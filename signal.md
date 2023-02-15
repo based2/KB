@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.science.org/doi/10.1126/sciadv.adf6182 Compact holographic sound fields enable rapid one-step assembly of matter in 3D
+> https://news.ycombinator.com/item?id=34795527
+
 https://lwn.net/Articles/921497/
 > https://news.ycombinator.com/item?id=34736662
 

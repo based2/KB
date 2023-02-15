@@ -116,3 +116,6 @@ https://semiengineering.com/choosing-the-correct-high-bandwidth-memory/
 > https://news.ycombinator.com/item?id=34577056
 
 https://johnnysswlab.com/frugal-programming-saving-memory-subsystem-bandwidth/
+
+https://github.com/matt-kimball/allocscope memory tracking tool
+> https://news.ycombinator.com/item?id=34804721

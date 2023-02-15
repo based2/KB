@@ -1,3 +1,13 @@
+https://www.bleepingcomputer.com/news/security/citrix-fixes-severe-flaws-in-workspace-virtual-apps-and-desktops/
+
+https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
+
+https://www.reddit.com/r/netsec/comments/1127gak/hackdojo_search_engine_for_top_security/
+
+https://www.mail-archive.com/haproxy@formilux.org/msg43229.html haproxy
+
+https://forbiddenstories.org/fr/story-killers/team-jorge-desinformation/
+
 https://vulncheck.com/blog/cve-2022-47966-payload zoho manageengine
 
 https://blog.trailofbits.com/2023/02/14/curl-audit-fuzzing-libcurl-command-line-interface/

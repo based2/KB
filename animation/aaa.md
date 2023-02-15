@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://digitalcomics.co/
+> https://news.ycombinator.com/item?id=34800742
+
 https://www.drawaurora.com/
 > https://news.ycombinator.com/item?id=34734570
 

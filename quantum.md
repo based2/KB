@@ -82,6 +82,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://lab.quantumflytrap.com/lab?mode=waves
+> https://news.ycombinator.com/item?id=34804699
+
 https://newsroom.ibm.com/2022-11-09-IBM-Unveils-400-Qubit-Plus-Quantum-Processor-and-Next-Generation-IBM-Quantum-System-Two
 > https://news.ycombinator.com/item?id=34424150
 

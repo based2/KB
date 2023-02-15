@@ -95,6 +95,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://mitpress.mit.edu/9780262546379/the-little-learner/
+> https://news.ycombinator.com/item?id=34801457
+
 https://memgraph.com/blog/pagerank-algorithm-for-graph-databases
 > https://news.ycombinator.com/item?id=34577832
 

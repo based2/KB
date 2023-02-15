@@ -99,6 +99,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://arstechnica.com/gadgets/2023/02/googles-privacy-sandbox-advertising-system-arrives-on-android-in-beta/
+> https://news.ycombinator.com/item?id=34802247
+
 https://wiki.debian.org/PrivacyIssues
 > https://news.ycombinator.com/item?id=34773502
 

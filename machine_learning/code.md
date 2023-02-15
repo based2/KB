@@ -47,6 +47,8 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://www.styra.com/blog/ai-generated-infrastructure-as-code-the-good-the-bad-and-the-ugly/
+
 https://techcrunch.com/2023/02/14/githubs-copilot-for-business-is-now-generally-available/
 > https://news.ycombinator.com/item?id=34794148
 

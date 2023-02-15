@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2023-patch-tuesday-fixes-3-exploited-zero-days-77-flaws/
+
 https://posts.specterops.io/telemetry-layering-89185b5348ba
 
 https://www.reddit.com/r/netsec/comments/110brgq/cheriot_rethinking_security_for_lowcost_embedded/

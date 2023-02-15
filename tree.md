@@ -46,6 +46,9 @@ https://github.com/birchb1024/frangipanni text2tree
 https://strlen.com/treesheets/
 > https://github.com/aardappel/treesheets
 
+https://jimkang.com/quadtreevis/
+> https://news.ycombinator.com/item?id=34786075
+
 # B-tree
 https://hbfs.wordpress.com/2021/07/20/binary-trees-are-optimal-except-when-theyre-not/
 > https://news.ycombinator.com/item?id=27903576

@@ -126,6 +126,9 @@ https://github.com/4silvertooth/QwikTape
 > https://news.ycombinator.com/item?id=34752265
 
 # News
+https://adam.chlipala.net/mlcomp/
+> https://news.ycombinator.com/item?id=34809023
+
 https://gregorygundersen.com/blog/2023/02/11/dimensional-analysis/
 > https://news.ycombinator.com/item?id=34761162
 

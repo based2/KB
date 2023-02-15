@@ -164,6 +164,9 @@ https://github.com/google/highway
 
 https://arxiv.org/pdf/2301.02432.pdf
 
+https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy
+> https://news.ycombinator.com/item?id=34810610
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

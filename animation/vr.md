@@ -1,3 +1,5 @@
+https://9to5mac.com/2023/02/15/apple-headset-release-date-delayed/
+
 https://www.brilliantmonocle.com/
 > https://news.ycombinator.com/item?id=34694056
 

@@ -141,6 +141,10 @@ https://news.ycombinator.com/item?id=34038663
 
 https://medium.com/@senior-devops/terraform-without-wrappers-in-multi-region-multi-account-environments-33aacb56ed26
 
+https://www.sivamuthukumar.com/blog/eks-aws-observability-accelerator
+
+https://medium.com/@wendellbarcellos/enforce-and-validate-aws-tags-with-atlantis-opa-terraform-46f7bfd453cb
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -157,6 +161,8 @@ https://www.reddit.com/r/AZURE/comments/yy772q/manage_azure_policy_with_terrafor
 
 https://thesaadahmed.medium.com/a-basic-ci-cd-pipeline-for-infrastructure-as-a-code-in-azure-devops-84393a57137c
 
+https://blog.stevengonsalvez.com/github-oidc-with-terraform-and-azure
+
 # GCP
 https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b63245e31a88
 
@@ -164,6 +170,14 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://blog.cloudmonk.me/crossplane-and-terraform
+
+https://github.com/terraform-linters/tflint-ruleset-opa
+
+https://nearform.hashnode.dev/terraform-tools-comparing-terragrunt-and-terraspace
+
+https://betterprogramming.pub/deep-state-create-terraform-code-from-the-state-file-b64b3c924af3
+
 https://github.com/rootsami/terradrift
 
 https://github.com/circa10a/terraform-provider-mailform
