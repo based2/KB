@@ -63,6 +63,9 @@ https://opencognitives.com/mann-e/
 https://pix2pixzero.github.io/
 > https://news.ycombinator.com/item?id=34782287
 
+https://til.simonwillison.net/macos/sips
+> 
+
 # text2img
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
@@ -292,6 +295,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://arxiv.org/abs/2302.08113
+
 https://www.stableattribution.com
 
 https://medium.com/voxel51/fiftyone-computer-vision-labels-tips-and-tricks-jan-06-2023-2d08eedab7f4

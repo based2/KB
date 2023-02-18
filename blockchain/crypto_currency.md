@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.reuters.com/technology/norway-seizes-record-58-million-crypto-stolen-by-north-korea-2023-02-16/
+
 https://news.ycombinator.com/item?id=34788894
 
 https://www.wired.com/story/sinbad-crypto-mixer-north-korean-hackers/

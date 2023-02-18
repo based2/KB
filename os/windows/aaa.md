@@ -146,6 +146,8 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://news.ycombinator.com/item?id=34825296
+
 https://news.ycombinator.com/item?id=34647699
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-issue-behind-remote-desktop-freezes/

@@ -67,6 +67,18 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://maritime-executive.com/article/amazon-funds-seaweed-farming-test-of-co2-capture-at-offshore-wind-farm
+> https://news.ycombinator.com/item?id=34839380
+
+https://twitter.com/andrewlfanning/status/1613895888992190465
+> https://news.ycombinator.com/item?id=34841703
+
+https://news.mit.edu/2023/carbon-dioxide-out-seawater-ocean-decorbonization-0216
+> https://news.ycombinator.com/item?id=34831782
+
+https://www.theregister.com/2023/02/18/dustbowl_doe_climate/
+> https://news.ycombinator.com/item?id=34847224
+
 https://nautil.us/how-seawater-might-soak-up-more-carbon-261446/
 
 https://news.mit.edu/2019/mit-engineers-develop-new-way-remove-carbon-dioxide-air-1025

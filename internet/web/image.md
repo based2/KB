@@ -50,6 +50,9 @@ https://www.screenstab.com/editor/
 https://screenshot.rocks/
 > https://news.ycombinator.com/item?id=34790781
 
+https://zuru.tech/blog/the-dangers-behind-image-resizing
+> https://news.ycombinator.com/item?id=34816918
+
 # Photography
 https://www.photoprism.app/
 > https://news.ycombinator.com/item?id=34716924

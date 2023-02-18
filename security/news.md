@@ -1,3 +1,30 @@
+https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-1-getting-the-rce-167c2bb320e6
+
+https://www.mail-archive.com/haproxy@formilux.org/msg43229.html
+
+https://www.cyberark.com/resources/threat-research-blog/phishing-as-a-service
+
+https://blog.doyensec.com/2023/02/14/pesd-extension-public-release.html
+
+https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-clamav-q8DThCy
+
+https://www.theregister.com/2013/08/06/xerox_copier_flaw_means_dodgy_numbers_and_dangerous_designs/
+> https://news.ycombinator.com/item?id=34815391
+
+https://blog.trailofbits.com/2020/11/25/high-fidelity-build-instrumentation-with-blight/
+
+https://llsoftsec.github.io/llsoftsecbook/ Low-Level Software Security for Compiler Developers
+> https://news.ycombinator.com/item?id=34845954
+
+https://github.com/owasp-change/owasp-change.github.io
+> https://news.ycombinator.com/item?id=34845288
+
+https://vigilance.fr/vulnerabilite/Intel-Ethernet-Controllers-quatre-vulnerabilites-40585
+
+https://labs.taszk.io/articles/post/reunzip/
+
+https://www.usenix.org/conference/enigma2021/presentation/gaynor
+
 https://www.bleepingcomputer.com/news/security/citrix-fixes-severe-flaws-in-workspace-virtual-apps-and-desktops/
 
 https://www.flashback.sh/blog/weekend-destroyer-wd-pr4100-rce
@@ -7,6 +34,8 @@ https://www.reddit.com/r/netsec/comments/1127gak/hackdojo_search_engine_for_top_
 https://www.mail-archive.com/haproxy@formilux.org/msg43229.html haproxy
 
 https://forbiddenstories.org/fr/story-killers/team-jorge-desinformation/
+> https://www.washingtonpost.com/investigations/interactive/2023/eliminalia-fake-news-misinformation/
+> > https://news.ycombinator.com/item?id=34836352
 
 https://vulncheck.com/blog/cve-2022-47966-payload zoho manageengine
 

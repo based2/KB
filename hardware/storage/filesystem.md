@@ -39,7 +39,15 @@ https://itnext.io/direct-i-o-writes-the-best-way-to-improve-your-credit-score-bd
 https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 > https://news.ycombinator.com/item?id=27460885
 
+# Windows
+https://winfsp.dev/
+> https://winfsp.dev/doc/Known-File-Systems/
+
 # News
+https://news.ycombinator.com/item?id=34818040
+
+https://omar.website/tabfs/
+
 https://gist.github.com/chapmanjacobd/bc6e31c8bc3647e0bcb0c43bc0464a9c sim disk failure with btrfs single mode
 > https://news.ycombinator.com/item?id=34475088
 

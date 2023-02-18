@@ -70,6 +70,9 @@ https://arstechnica.com/gadgets/2022/12/corsair-says-bug-not-keylogger-behind-so
 https://github.com/madprops/blog/blob/main/mouse.md
 > https://news.ycombinator.com/item?id=34739163
 
+https://www.xythobuz.de/trackball_v1.html
+> https://news.ycombinator.com/item?id=34833098
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184

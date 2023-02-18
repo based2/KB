@@ -27,6 +27,9 @@ https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a
 https://pgroonga.github.io/
 
 # Dev
+https://www.reuters.com/technology/microsoft-limits-bing-chats-5-questions-per-session-2023-02-18/
+> https://news.ycombinator.com/item?id=34843212
+
 https://news.ycombinator.com/item?id=26582109
 
 https://search.feep.dev/
@@ -82,6 +85,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://news.ycombinator.com/item?id=34830465
+
 https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss
 > https://news.ycombinator.com/item?id=34804627
 

@@ -497,6 +497,9 @@ https://www.ashbyhq.com/blog/engineering/detecting-event-loop-blockers
 
 https://nodejs.org/en/blog/announcements/nodejs16-eol/ Changing the End-of-Life Date for Node.js 16 to September 11th, 2023
 
+https://codesandbox.io/blog/announcing-sandpack-2
+> https://news.ycombinator.com/item?id=34824635
+
 ## NPM
 
 https://overreacted.io/npm-audit-broken-by-design/
@@ -539,6 +542,19 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://www.theregister.com/2023/02/15/corejs_russia_open_source/
+
+https://news.ycombinator.com/item?id=34850396
+
+https://github.com/thoughtindustries/helium frontend web development framework for building highly contextual, dynamic and personalized learning experiences
+> https://news.ycombinator.com/item?id=34814579
+
+https://www.innoq.com/en/articles/2023/02/blueprints-how-objects-work-in-javascript/
+> https://news.ycombinator.com/item?id=34817268
+
+https://vue-mjs.web-templates.io/blog/javascript
+> https://news.ycombinator.com/item?id=34829855
+
 https://news.ycombinator.com/item?id=34738792
 
 https://devhints.io/jsdoc

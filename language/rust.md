@@ -203,6 +203,9 @@ https://ferrous-systems.com/blog/21st-century-embedded-tooling/
 https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/
 > https://news.ycombinator.com/item?id=31740768
 
+https://shnatsel.medium.com/smoke-testing-rust-http-clients-b8f2ee5db4e6
+> https://lobste.rs/s/fdrio2/smoke_testing_rust_http_clients_2020
+
 # Build
 https://fasterthanli.me/articles/why-is-my-rust-build-so-slow
 > https://news.ycombinator.com/item?id=29742694
@@ -427,6 +430,9 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again
+> https://news.ycombinator.com/item?id=34835631
+
 https://mmapped.blog/posts/15-when-rust-hurts.html
 > https://news.ycombinator.com/item?id=34803379
 

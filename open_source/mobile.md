@@ -26,6 +26,8 @@ https://linuxfr.org/news/quel-telephone-plus-ou-moins-libre-en-2021#toc-base-ras
 https://www.ecologie.gouv.fr/indice-reparabilite
 
 # News
+https://www.cnx-software.com/2023/02/17/ploopy-3d-printed-open-source-hardware-headphones-raspberry-pi-rp2040-mcu-ti-pcm3060-24-bit-dac/
+
 https://old.reddit.com/r/GrapheneOS/comments/bddq5u/os_security_ios_vs_grapheneos_vs_stock_android/
 
 https://lineageos.org/Changelog-27/

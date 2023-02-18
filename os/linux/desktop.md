@@ -94,6 +94,12 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://pointieststick.com/2023/02/17/this-week-in-kde-a-smooth-release-of-plasma-5-27/
+> https://news.ycombinator.com/item?id=34845348
+
+https://numenvoice.com/
+> https://news.ycombinator.com/item?id=34816000
+
 https://www.neowin.net/news/libreoffice-75-launches-with-better-dark-mode-support-and-much-more/
 > https://news.ycombinator.com/item?id=34628567
 

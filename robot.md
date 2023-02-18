@@ -45,6 +45,9 @@ https://info.deeplearning.ai/uks-drone-superhighway-largest-open-source-language
 https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229338?returnurl=https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229338
 > https://news.ycombinator.com/item?id=34382635
 
+https://aera.mit.edu/projects/aerobatic-maneuvers-for-fixed-wing-vtol-aircraft
+> https://news.ycombinator.com/item?id=34816297
+
 # Water
 https://www.darpa.mil/news-events/2021-12-20
 

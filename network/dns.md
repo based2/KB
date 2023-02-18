@@ -57,6 +57,9 @@ https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 > https://news.ycombinator.com/item?id=34177331
 
 # Incident
+https://www.bleepingcomputer.com/news/security/godaddy-hackers-stole-source-code-installed-malware-in-multi-year-breach/
+> https://news.ycombinator.com/item?id=34838251
+
 https://whois.nic.sh/
 > https://news.ycombinator.com/item?id=34781525
 

@@ -63,6 +63,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.theverge.com/2023/2/17/23605073/twitter-blue-charge-sms-2fa
+
 https://news.ycombinator.com/item?id=34695571
 
 https://patrickcurry.com/socials/mastodon/tools/

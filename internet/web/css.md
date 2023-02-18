@@ -125,6 +125,9 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/
+> https://news.ycombinator.com/item?id=34814070
+
 https://ishadeed.com/article/unusual-use-cases-pseudo-elements/
 
 https://www.joshwcomeau.com/css/introducing-shadow-palette-generator/

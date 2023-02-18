@@ -48,3 +48,5 @@ https://github.com/vi/websocat
 
 https://github.com/cirospaciari/socketify.py
 > https://news.ycombinator.com/item?id=34322929
+
+https://github.com/WICG/direct-sockets

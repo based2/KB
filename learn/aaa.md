@@ -98,6 +98,8 @@ https://www.fecundity.com/logic/download.html
 https://thecomputersciencebook.com/book/
 > https://news.ycombinator.com/item?id=34336213
 
+https://news.ycombinator.com/item?id=34814178
+
 # Meta
 https://metacognitive.me/memory-palace/
 > https://news.ycombinator.com/item?id=28640429

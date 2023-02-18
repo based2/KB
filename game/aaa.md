@@ -15,6 +15,15 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://www.nethack.org/v367/release.html
+> https://news.ycombinator.com/item?id=34830961
+
+https://www.wolfmud.org/history.html
+> https://news.ycombinator.com/item?id=34817321
+
+https://www.youtube.com/watch?v=q3NQQ7bPf6U
+> https://news.ycombinator.com/item?id=34846546
+
 https://www.macrumors.com/2023/02/09/myst-mobile-ios-game/
 > https://news.ycombinator.com/item?id=34734522
 

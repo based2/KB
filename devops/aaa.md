@@ -126,6 +126,9 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://techcrunch.com/2023/02/17/atlassian-and-envoy-briefly-blame-each-other-for-data-breach/
+> https://news.ycombinator.com/item?id=34836665
+
 https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-1
 
 https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-jira-service-management-auth-flaw/
@@ -305,6 +308,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.tinybird.co/blog-posts/better-ci-pipeline-with-data
+> https://news.ycombinator.com/item?id=34836027
+
+https://itamargilad.com/velocity-vs-impact/
+> https://news.ycombinator.com/item?id=34832669
+
 https://betterprogramming.pub/devops-self-service-centric-pipeline-security-and-guardrails-b3f1252c3c42 DevOps Self-Service Centric Pipeline Security and Guardrails
 
 https://twitter.com/karrisaarinen/status/1623857893090152448

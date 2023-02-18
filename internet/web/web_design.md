@@ -81,6 +81,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://www.noya.io/home
+> https://news.ycombinator.com/item?id=34848583
+
 https://www.hashicorp.com/blog/introducing-helios-hashicorp-s-new-design-system
 > https://news.ycombinator.com/item?id=34600107
 

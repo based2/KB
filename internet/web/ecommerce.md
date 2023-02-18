@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.marketplacepulse.com/articles/amazon-takes-a-50-cut-of-sellers-revenue
+> https://news.ycombinator.com/item?id=34849838
+
 https://www.engadget.com/ftc-orders-mastercard-open-debit-transactions-competing-payment-networks-234358951.html
 
 https://www.nngroup.com/articles/optional-registration/

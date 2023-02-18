@@ -323,6 +323,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable
+> https://news.ycombinator.com/item?id=34841742
+
 https://news.ycombinator.com/item?id=34650452
 
 https://medium.com/@aplaceofmind/ventura-is-not-macos-its-macios-1d00f12fa01e

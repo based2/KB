@@ -9,6 +9,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://studio.ribbonfarm.com/p/text-is-all-you-need
+> https://news.ycombinator.com/item?id=34847912
+
 https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
 > https://www.reddit.com/r/programming/comments/112u2ye/what_is_chatgpt_doing_and_why_does_it_work/
 

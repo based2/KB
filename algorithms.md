@@ -109,6 +109,12 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://arxiv.org/abs/2302.06675 Symbolic Discovery of Optimization Algorithms
+> https://news.ycombinator.com/item?id=34843163
+
+https://muscar.eu/shar-binary-search-meta.html
+> https://news.ycombinator.com/item?id=34848678
+
 https://perso.ens-lyon.fr/jean-michel.muller/advertising.pdf
 > https://news.ycombinator.com/item?id=34734143
 

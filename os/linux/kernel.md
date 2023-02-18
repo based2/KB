@@ -11,11 +11,16 @@ https://github.com/a13xp0p0v/linux-kernel-defence-map
 
 https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 
+https://blog.bofh.it/debian/id_465 I replaced grub with systemd-boot
+> https://news.ycombinator.com/item?id=34816863
+
 # Windows
 https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://kernel.dk/io_uring%20and%20networking%20in%202023.pdf
+
 https://github.com/axboe/liburing/wiki/io_uring-and-networking-in-2023
 > https://news.ycombinator.com/item?id=34798281
 

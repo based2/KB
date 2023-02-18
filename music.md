@@ -115,6 +115,9 @@ https://github.com/dwhinham/mt32-pi
 https://github.com/PolyMeilex/Neothesia
 > https://news.ycombinator.com/item?id=30569329
 
+https://github.com/vlcoo/P3synth
+> https://news.ycombinator.com/item?id=34831423
+
 #
 https://muted.io/cheat-sheet/
 > https://news.ycombinator.com/item?id=34387982

@@ -47,6 +47,10 @@ https://andresalmiray.com/a-pom-by-any-other-name/
 
 https://www.morling.dev/blog/maven-what-are-you-waiting-for/
 
+https://lists.apache.org/thread/bk4nmbbrkk8sxknos63zkfqwnd0p7jm4 Maven Javadoc Plugin 3.5.0 released
+
+https://lists.apache.org/thread/0tfr7t2j2ddbv4gjvxm47yohtk3dg6b3 Apache Maven 3.9.0 released
+
 https://lists.apache.org/thread/dgtmomzj49tr1k822hknkvkr988nzkbs Apache Maven 4.0.0-alpha-4 released
 
 https://lists.apache.org/thread/kc3mcww1w8fmv6prd6dpdfjyb44lhs2h Maven Surefire - Version 3.0.0-M8

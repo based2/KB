@@ -57,6 +57,10 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://news.ycombinator.com/item?id=34844716
+
+https://news.ycombinator.com/item?id=34844334
+
 https://outerproduct.net/boring/2023-02-11_term-loop.html
 > https://news.ycombinator.com/item?id=34761625
 

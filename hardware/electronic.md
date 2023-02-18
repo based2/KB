@@ -46,6 +46,10 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop
+
+https://news.ycombinator.com/item?id=34832047
+
 https://elektrotanya.com/
 > https://news.ycombinator.com/item?id=34787288
 

@@ -126,6 +126,8 @@ https://github.com/4silvertooth/QwikTape
 > https://news.ycombinator.com/item?id=34752265
 
 # News
+https://en.wikipedia.org/wiki/Multi-objective_optimization
+
 https://adam.chlipala.net/mlcomp/
 > https://news.ycombinator.com/item?id=34809023
 

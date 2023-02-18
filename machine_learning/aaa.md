@@ -259,6 +259,15 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://arxiv.org/abs/2302.07730 Transformer models: an introduction and catalog
+> https://news.ycombinator.com/item?id=34816184
+
+https://knowingmachines.org/critical-field-guide
+> https://news.ycombinator.com/item?id=34818081
+
+https://nautil.us/researchers-discover-a-more-flexible-approach-to-machine-learning-261703/
+> https://news.ycombinator.com/item?id=34847182
+
 https://twitter.com/DrJimFan/status/1625538305889820673 DeepMind has open-sourced the heart of AlphaGo and AlphaZero
 > https://news.ycombinator.com/item?id=34801636
 

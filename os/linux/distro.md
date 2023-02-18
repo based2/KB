@@ -71,6 +71,18 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://bugs.launchpad.net/ubuntu/+source/ubuntu-meta/+bug/1930914 ubuntu-minimal depends on ubuntu-advantage-tools
+> https://news.ycombinator.com/item?id=34846287
+
+https://lwn.net/SubscriberLink/922968/4a69aa7f1f2332d7/
+> https://news.ycombinator.com/item?id=34837219
+
+https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with
+> https://news.ycombinator.com/item?id=34833229
+
+https://lists.debian.org/debian-devel-announce/2023/02/msg00003.html Debian 12 “Bookworm” Enters Its Soft Freeze
+> https://news.ycombinator.com/item?id=34849902
+
 https://ubuntu.com/blog/real-time-ubuntu-is-now-generally-available
 > https://news.ycombinator.com/item?id=34802231
 

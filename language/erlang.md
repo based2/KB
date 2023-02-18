@@ -141,6 +141,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://mattpo.pe/posts/from-erlang-to-lunatic/
+> https://news.ycombinator.com/item?id=34846590
+
 https://www.efinancialcareers.com/news/2022/01/elixir-jobs
 > https://news.ycombinator.com/item?id=34612919
 

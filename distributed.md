@@ -171,6 +171,9 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://github.com/LeonHartley/Coerce-rs
+> https://news.ycombinator.com/item?id=34832904
+
 https://www.cidrdb.org/cidr2023/papers/p83-yadav.pdf
 > https://news.ycombinator.com/item?id=34704488
 

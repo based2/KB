@@ -10,6 +10,8 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://news.ycombinator.com/item?id=34832660
+
 https://www.tomshardware.com/news/loongson-has-gpu
 
 https://chipsandcheese.com/2022/05/21/igpu-cache-setups-compared-including-m1/

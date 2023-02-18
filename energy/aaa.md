@@ -16,6 +16,11 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=34825600
+
+https://pv-magazine-usa.com/2023/01/31/hvdc-transmission-line-to-connect-three-iso-regions/
+> https://news.ycombinator.com/item?id=34841284
+
 https://www.sciencedirect.com/science/article/pii/S0960148122012290
 > https://news.ycombinator.com/item?id=34762901
 

@@ -27,6 +27,10 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://en.wikipedia.org/wiki/Detroit_ZMC-2
+
+https://news.ycombinator.com/item?id=34847550
+
 https://arstechnica.com/cars/2023/02/the-us-air-force-successfully-tested-this-ai-controlled-jet-fighter/
 > https://news.ycombinator.com/item?id=34789930
 

@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.scientificamerican.com/article/how-octopus-arms-bypass-the-brain/
+> https://news.ycombinator.com/item?id=34824427
+
 https://www.quantamagazine.org/researchers-discover-a-more-flexible-approach-to-machine-learning-20230207/
 > https://news.ycombinator.com/item?id=34707055
 

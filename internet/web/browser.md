@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://adguard.com/en/blog/firefox-manifestv3-chrome-adblocking.html
+> https://news.ycombinator.com/item?id=34849739
+
 https://arstechnica.com/gadgets/2023/02/microsoft-will-forcibly-remove-internet-explorer-from-most-windows-10-pcs-today/
 > https://news.ycombinator.com/item?id=34791023
 

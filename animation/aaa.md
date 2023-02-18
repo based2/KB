@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://yuanchuan.dev/daily-sketch-2 css
+> https://news.ycombinator.com/item?id=34831191
+
 https://digitalcomics.co/
 > https://news.ycombinator.com/item?id=34800742
 

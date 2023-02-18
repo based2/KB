@@ -1,3 +1,6 @@
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis
+> https://news.ycombinator.com/item?id=34827298
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2023-patch-tuesday-fixes-3-exploited-zero-days-77-flaws/
 
 https://posts.specterops.io/telemetry-layering-89185b5348ba

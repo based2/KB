@@ -216,6 +216,15 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.esri.com/arcgis-blog/products/arcgis-pro/aec/super-resolution-image-to-image-translation-using-deep-learning-in-arcgis-pro/
+> https://news.ycombinator.com/item?id=34835480
+
+https://github.com/thegeekyasian/geo-assist
+> https://news.ycombinator.com/item?id=34817779
+
+https://www.kschaul.com/post/2023/02/16/how-the-post-is-replacing-mapbox-with-open-source-solutions/
+> https://news.ycombinator.com/item?id=34836700
+
 https://brr.fyi/posts/south-pole-topography
 > https://news.ycombinator.com/item?id=34665174
 
