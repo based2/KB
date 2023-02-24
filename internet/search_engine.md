@@ -66,6 +66,7 @@ https://eugeneyan.com/writing/search-query-matching/
 
 # HN
 https://hn.algolia.com/
+
 https://deephn.org/
 
 # JS Client local database search
@@ -85,6 +86,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://www.pinecone.io/learn/splade/
+> https://news.ycombinator.com/item?id=34895094
+
 https://news.ycombinator.com/item?id=34830465
 
 https://dockyard.com/blog/2023/01/11/semantic-search-with-phoenix-axon-bumblebee-and-exfaiss

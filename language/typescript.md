@@ -95,6 +95,10 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://jnkr.tech/blog/visitor-pattern
+
+https://www.convex.dev/
+
 https://github.com/koskimas/kysely sql
 > https://news.ycombinator.com/item?id=34506657
 

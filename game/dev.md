@@ -109,6 +109,11 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://www.ambient.run/
+> 
+
+https://news.ycombinator.com/item?id=34852219
+
 https://github.com/dfloer/SC2k-docs
 > https://news.ycombinator.com/item?id=34799905
 

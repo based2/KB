@@ -51,6 +51,9 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/
+> https://news.ycombinator.com/item?id=34906378
+
 https://flowchart.fun/
 
 https://g-script.io/

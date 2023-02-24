@@ -135,7 +135,7 @@ https://blog.symops.com/2022/11/17/rds-access/
 
 https://airiam.io/
 
-https://github.com/JamesWoolfenden/pike
+https://github.com/JamesWoolfenden/pike iam permissions
 
 https://news.ycombinator.com/item?id=34038663
 
@@ -144,6 +144,14 @@ https://medium.com/@senior-devops/terraform-without-wrappers-in-multi-region-mul
 https://www.sivamuthukumar.com/blog/eks-aws-observability-accelerator
 
 https://medium.com/@wendellbarcellos/enforce-and-validate-aws-tags-with-atlantis-opa-terraform-46f7bfd453cb
+
+https://medium.com/heyjobs-tech/how-to-create-an-opensearch-cluster-using-terraform-926b4a62b489
+
+https://medium.com/@senior-devops/how-to-extend-terraform-with-direnv-a4a3fef092c5
+
+https://medium.com/develeap/rds-logs-optimizer-dont-overpay-for-storing-your-logs-83a402d2dd44
+
+https://github.com/develeap/rds-logs-optimizer
 
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
@@ -170,6 +178,12 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://github.com/kreuzwerker/terraform-provider-docker
+
+https://github.com/loafoe/terraform-provider-ssh
+
+https://github.com/PacoVK/tapir registry
+
 https://blog.cloudmonk.me/crossplane-and-terraform
 
 https://github.com/terraform-linters/tflint-ruleset-opa

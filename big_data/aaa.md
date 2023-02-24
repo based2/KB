@@ -283,6 +283,13 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://www.datadoghq.com/blog/engineering/husky-deep-dive/
+
+https://dcai.csail.mit.edu/
+> https://news.ycombinator.com/item?id=34906593
+
+https://github.com/Kanaries/Rath
+
 https://matplotlib.org/stable/users/prev_whats_new/whats_new_3.7.0.html
 > https://news.ycombinator.com/item?id=34802928
 

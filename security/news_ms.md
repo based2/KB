@@ -1,3 +1,13 @@
+https://www.bleepingcomputer.com/news/security/citrix-fixes-severe-flaws-in-workspace-virtual-apps-and-desktops/
+
+https://www.bleepingcomputer.com/news/security/hackers-backdoor-microsoft-iis-servers-with-new-frebniis-malware/
+
+https://www.bleepingcomputer.com/news/microsoft/emergency-vmware-esxi-update-fixes-windows-server-2022-vm-boot-issues/
+
+https://www.bleepingcomputer.com/news/security/microsoft-urges-exchange-admins-to-remove-some-antivirus-exclusions/
+
+https://www.bleepingcomputer.com/news/security/microsoft-exchange-proxyshell-flaws-exploited-in-new-crypto-mining-attack/
+
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/frebniis-malware-iis
 > https://news.ycombinator.com/item?id=34827298
 

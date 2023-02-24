@@ -131,6 +131,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+https://en.vietnamplus.vn/last-undersea-internet-cable-connecting-vietnam-with-the-world-breaks-down/248731.vnp
+> https://news.ycombinator.com/item?id=34900916
+
 https://www.dw.com/en/lufthansa-system-failure-causes-massive-travel-chaos/a-64705780
 > https://news.ycombinator.com/item?id=34802309
 
@@ -142,6 +145,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.heise.de/news/Quantenkommunikation-Deutsche-Telekom-leitet-Aufbau-der-EU-Hochsicherheitsnetze-7520669.html
+
 https://arstechnica.com/tech-policy/2023/02/comcast-gave-false-map-data-to-fcc-and-didnt-admit-it-until-ars-got-involved/
 > https://news.ycombinator.com/item?id=34725776
 

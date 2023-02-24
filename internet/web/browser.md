@@ -32,6 +32,20 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://news.ycombinator.com/item?id=34906722
+
+https://news.ycombinator.com/item?id=34886732
+
+https://www.theregister.com/2023/02/23/microsoft_edge_banner_chrome/
+> https://news.ycombinator.com/item?id=34911233
+
+https://airplanes3d.net/index_e.html
+
+https://neugierig.org/software/blog/2022/12/chrome.html
+
+https://antoinevastel.com/bot%20detection/2023/02/19/new-headless-chrome.html
+> https://news.ycombinator.com/item?id=34857087
+
 https://adguard.com/en/blog/firefox-manifestv3-chrome-adblocking.html
 > https://news.ycombinator.com/item?id=34849739
 

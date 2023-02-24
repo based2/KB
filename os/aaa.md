@@ -21,6 +21,14 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://media.mbusa.com/releases/software-architects-mercedes-benz-previews-its-operating-system-mbos
+> https://news.ycombinator.com/item?id=34902388
+
+https://github.com/o-oconnell/minixfromscratch
+> https://news.ycombinator.com/item?id=34911672
+
+http://vm.marist.edu/~pipeline/pipeline.pdf IBM CMS/TSO Pipelines
+
 https://github.com/vocho/openqnx/blob/master/trunk/lib/c/1/open.c
 > https://news.ycombinator.com/item?id=34619135
 

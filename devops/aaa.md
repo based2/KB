@@ -126,6 +126,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://confluence.atlassian.com/jira/jira-service-management-server-and-data-center-advisory-cve-2023-22501-1188786458.html
+
 https://techcrunch.com/2023/02/17/atlassian-and-envoy-briefly-blame-each-other-for-data-breach/
 > https://news.ycombinator.com/item?id=34836665
 
@@ -284,6 +286,7 @@ https://travis-ci.community/t/security-bulletin/12081
 SourceForge nobody Apache HTTPD configuration
 
 # New versions
+https://about.gitlab.com/releases/2023/02/22/gitlab-15-9-released/
 
 https://about.gitlab.com/releases/2022/12/22/gitlab-15-7-released/
 

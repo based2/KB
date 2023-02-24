@@ -294,6 +294,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://www.scintilla.org/
+> https://news.ycombinator.com/item?id=34857556
+
 https://www.trickster.dev/post/vim-is-touch-typing-on-steroids/
 > https://news.ycombinator.com/item?id=34349484
 

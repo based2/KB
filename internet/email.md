@@ -156,6 +156,15 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://proton.me/blog/gluon-imap-library
+> https://news.ycombinator.com/item?id=34909169
+
+https://poste.io/
+> https://news.ycombinator.com/item?id=34901703
+
+https://explained-from-first-principles.com/email/
+> https://news.ycombinator.com/item?id=34846606
+
 https://github.com/mjl-/mox
 > https://news.ycombinator.com/item?id=34848256
 

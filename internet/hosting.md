@@ -38,6 +38,9 @@ https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 
 #
+https://grifel.dev/decentralization/
+> https://news.ycombinator.com/item?id=34860655
+
 https://github.com/kd2org/karadav/
 > https://linuxfr.org/news/karadav-un-serveur-webdav-leger-compatible-avec-les-applications-owncloud-et-nextcloud
 

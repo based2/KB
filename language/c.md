@@ -74,6 +74,12 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://dorinlazar.ro/220710-trying-to-modernize-goaccess.en/
+> https://news.ycombinator.com/item?id=34860073
+
+https://blog.joren.ga/less-known-c
+> https://news.ycombinator.com/item?id=34855331
+
 https://nullprogram.com/blog/2023/02/13/ Let's implement buffered, formatted output
 
 https://en.cppreference.com/w/c/23

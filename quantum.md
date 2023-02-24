@@ -74,6 +74,8 @@ https://www.nature.com/articles/s41566-022-01011-0 Nanokelvin-resolution thermom
 https://azeemba.com/posts/degenerate-matter.html
 > https://news.ycombinator.com/item?id=34198846
 
+https://news.ycombinator.com/item?id=34896557
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/

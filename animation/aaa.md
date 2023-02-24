@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://github.com/motion-canvas/motion-canvas
+> https://news.ycombinator.com/item?id=34897707
+
 https://yuanchuan.dev/daily-sketch-2 css
 > https://news.ycombinator.com/item?id=34831191
 

@@ -90,6 +90,11 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://news.ycombinator.com/item?id=34907885
+
+https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html arm
+> https://news.ycombinator.com/item?id=34856866
+
 https://interconnect.substack.com/p/chinas-semiconductor-theranos-hsmc
 
 https://eitherway.io/posts/esp32-buyers-guide/

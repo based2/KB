@@ -1,6 +1,8 @@
 https://www.freshports.org/
 
 # OpenBSD
+https://marc.info/?l=openbsd-tech&m=167702364728145&w=2
+
 https://www.openbsd.org/69.html
 > https://www.openbsd.org/69.html
 
@@ -38,6 +40,12 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://x61.sh/log/2023/02/20230217T112354-nextcloud_openbsd.html
+> https://news.ycombinator.com/item?id=34835795
+
+https://sha256.net/privsep.html
+> https://news.ycombinator.com/item?id=34858190
+
 http://muezza.ca/thoughts/openbsd_imac_g4/
 > https://news.ycombinator.com/item?id=34666305
 

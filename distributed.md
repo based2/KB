@@ -171,6 +171,10 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://news.ycombinator.com/item?id=34897723
+
+https://book.mixu.net/distsys/
+
 https://github.com/LeonHartley/Coerce-rs
 > https://news.ycombinator.com/item?id=34832904
 

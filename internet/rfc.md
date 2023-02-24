@@ -42,3 +42,5 @@ https://github.com/ysoftwareab/ietf-rfcs-abnf
 https://tools.ietf.org/
 > https://news.ycombinator.com/item?id=31714358
 > > https://datatracker.ietf.org/
+
+https://www.rfc-editor.org/rfc/rfc1925 The Twelve Networking Truths

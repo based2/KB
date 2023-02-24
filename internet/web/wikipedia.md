@@ -48,6 +48,9 @@ https://www.bookstackapp.com/ php
 
 https://news.ycombinator.com/item?id=30392849
 
+#
+https://news.ycombinator.com/item?id=34893472
+
 # News
 https://techcrunch.com/2023/01/18/wikipedia-gets-its-first-makeover-in-over-a-decade-and-its-fairly-subtle/
 

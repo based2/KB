@@ -40,6 +40,10 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://news.ycombinator.com/item?id=34892044
+
+https://www.cnbc.com/2023/02/18/synchron-backed-by-bezos-and-gates-tests-brain-computer-interface.html
+
 https://www.scientificamerican.com/article/how-octopus-arms-bypass-the-brain/
 > https://news.ycombinator.com/item?id=34824427
 

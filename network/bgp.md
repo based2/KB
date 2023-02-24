@@ -29,5 +29,8 @@ https://blog.cloudflare.com/prepends-considered-harmful/
 
 https://goldensyrupgames.com/blog/2023-01-14-gobgp-windows/
 
+https://aaka.sh/posts/20230129-bgp-at-home.html
+> https://news.ycombinator.com/item?id=34853136
+
 # Incident
 https://www.coinbase.com/blog/celer-bridge-incident-analysis

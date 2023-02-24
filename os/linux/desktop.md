@@ -94,6 +94,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://github.com/jszczerbinsky/lwp
+> https://news.ycombinator.com/item?id=34913485
+
 https://pointieststick.com/2023/02/17/this-week-in-kde-a-smooth-release-of-plasma-5-27/
 > https://news.ycombinator.com/item?id=34845348
 

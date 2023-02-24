@@ -254,11 +254,19 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
+# Detextion
+https://gonzoknows.com/posts/GPTZero-Case-Study/
+> https://news.ycombinator.com/item?id=34858307
+
 # Incident
 https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://news.ycombinator.com/item?id=34905210
+
+https://github.com/mosecorg/mosec rust
+
 https://arxiv.org/abs/2302.07730 Transformer models: an introduction and catalog
 > https://news.ycombinator.com/item?id=34816184
 

@@ -308,6 +308,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://animaomnium.github.io/what-austral-proves/
+> https://news.ycombinator.com/item?id=34845895
+
 https://accu.org/journals/overload/31/173/teodorescu/
 > https://news.ycombinator.com/item?id=34706532
 

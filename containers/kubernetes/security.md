@@ -68,6 +68,8 @@ https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-ac
 https://www.reddit.com/r/kubernetes/comments/zcfj1p/kubesealconvert_the_missing_part_of_sealed_secrets/
 
 # News
+https://sysdig.com/blog/top-owasp-kubernetes/
+
 https://sysdig.com/blog/top-15-kubectl-plugins-for-security-engineers/
 > https://news.ycombinator.com/item?id=34835460
 

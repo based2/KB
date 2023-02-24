@@ -72,6 +72,11 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://robbiesblog.com/domain-names-owned-by-tesco/12146
+> https://news.ycombinator.com/item?id=34861789
+
+https://berthub.eu/articles/posts/optimizing-optimizing-400-percent-speedup/
+
 https://www.dns0.eu/
 > https://news.ycombinator.com/item?id=34691313
 

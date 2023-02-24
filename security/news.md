@@ -1,3 +1,32 @@
+https://news.ycombinator.com/item?id=34909251
+
+https://www.rawstory.com/millions-of-dna-tests-leaked-after-hackers-breach-company-s-forgotten-database/
+
+https://vigilance.fr/vulnerabilite/Python-Cryptography-corruption-de-memoire-via-Cipher-update-into-40626
+
+https://www.bleepingcomputer.com/news/security/vmware-warns-admins-of-critical-carbon-black-app-control-flaw/
+
+https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-fortinet-bug-to-backdoor-servers/
+
+https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-sma-privesc-9DVkFpJ8
+
+https://chromereleases.googleblog.com/2023/02/stable-channel-desktop-update_22.html
+
+https://github.com/nextcloud/security-advisories/security/advisories/GHSA-273v-9h7x-p68v
+
+https://www.gkbrk.com/2016/05/hotel-music/
+> https://news.ycombinator.com/item?id=34912300
+
+https://www.mozilla.org/en-US/security/advisories/mfsa2023-07/
+
+https://blog.newsblur.com/2021/06/28/story-of-a-hacking/
+> https://news.ycombinator.com/item?id=34860226
+
+https://www.wired.com/story/palantir-germany-gotham-dragnet/
+> https://news.ycombinator.com/item?id=34858321
+
+https://www.reddit.com/r/programming/comments/1165bld/whisper_wraps_any_go_ioreadwriter_in_a_secure/
+
 https://infosecwriteups.com/how-i-hacked-into-a-telecom-network-part-1-getting-the-rce-167c2bb320e6
 
 https://www.mail-archive.com/haproxy@formilux.org/msg43229.html

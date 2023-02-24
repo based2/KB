@@ -64,7 +64,7 @@ https://pix2pixzero.github.io/
 > https://news.ycombinator.com/item?id=34782287
 
 https://til.simonwillison.net/macos/sips
-> 
+> https://news.ycombinator.com/item?id=34849734
 
 # text2img
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/

@@ -32,6 +32,13 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.zdnet.com/article/amazons-kuiper-satellite-broadband-takes-a-big-step-forward-despite-spacex-objections/
+
+https://www.reneweuropegroup.eu/news/2023-02-14/iris2-the-eus-response-to-elon-musks-starlink-satellites-project
+> https://news.ycombinator.com/item?id=34855694
+
+https://en.wikipedia.org/wiki/Hohmann_transfer_orbit
+
 https://news.ycombinator.com/item?id=34838668
 
 https://ideas.esa.int/servlet/hype/IMT?documentTableId=45087148846182772&userAction=Browse&templateName=&documentId=3187b4b0a219dbb07731d5f690776a8b

@@ -10,6 +10,8 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://www.collabora.com/news-and-blog/news-and-events/pancsf-a-new-drm-driver-for-mali-csf-based-gpus.html
+
 https://news.ycombinator.com/item?id=34832660
 
 https://www.tomshardware.com/news/loongson-has-gpu

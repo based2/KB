@@ -9,6 +9,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://www.hpc-ai.tech/blog/colossal-ai-chatgpt
+> https://news.ycombinator.com/item?id=34858460
+
 https://studio.ribbonfarm.com/p/text-is-all-you-need
 > https://news.ycombinator.com/item?id=34847912
 

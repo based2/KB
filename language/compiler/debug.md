@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://news.ycombinator.com/item?id=34897645
+
 http://voidstar.tech/rct_crash/
 > https://news.ycombinator.com/item?id=34449822
 
