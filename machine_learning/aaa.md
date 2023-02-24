@@ -263,6 +263,9 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
+> https://news.ycombinator.com/item?id=34925944
+
 https://news.ycombinator.com/item?id=34905210
 
 https://github.com/mosecorg/mosec rust

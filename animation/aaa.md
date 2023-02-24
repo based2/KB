@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://l-m.dev/cs/softbody-dynamics-terminal/
+> https://news.ycombinator.com/item?id=34870190
+
 https://github.com/motion-canvas/motion-canvas
 > https://news.ycombinator.com/item?id=34897707
 

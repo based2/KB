@@ -63,6 +63,8 @@ https://objective-see.org/tools.html
 https://hynek.me/articles/macos-dyld-env/
 > https://news.ycombinator.com/item?id=34309530
 
+https://krypted.com/mac-os-x/free-space-required-for-modern-macos-upgrades/
+
 # Dev
 https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store
 > https://news.ycombinator.com/item?id=34379156
@@ -323,6 +325,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://appleinsider.com/articles/23/02/14/apple-issues-firmware-update-for-magsafe-3-charging-cable
+
 https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable
 > https://news.ycombinator.com/item?id=34841742
 

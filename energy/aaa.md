@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html
+
 https://news.ycombinator.com/item?id=34825600
 
 https://pv-magazine-usa.com/2023/01/31/hvdc-transmission-line-to-connect-three-iso-regions/

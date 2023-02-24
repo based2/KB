@@ -19,6 +19,8 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://news.ycombinator.com/item?id=34873357
+
 https://kernel.dk/io_uring%20and%20networking%20in%202023.pdf
 
 https://github.com/axboe/liburing/wiki/io_uring-and-networking-in-2023

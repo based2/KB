@@ -216,6 +216,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://dilpreet.co/projects/eduard
+> https://news.ycombinator.com/item?id=34919659
+
 https://www.esri.com/arcgis-blog/products/arcgis-pro/aec/super-resolution-image-to-image-translation-using-deep-learning-in-arcgis-pro/
 > https://news.ycombinator.com/item?id=34835480
 

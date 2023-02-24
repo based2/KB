@@ -84,6 +84,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.nature.com/articles/d41586-022-04532-4
+> https://news.ycombinator.com/item?id=34901474
+
 https://lab.quantumflytrap.com/lab?mode=waves
 > https://news.ycombinator.com/item?id=34804699
 

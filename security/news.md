@@ -1,3 +1,9 @@
+https://vigilance.fr/vulnerabilite/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642
+
+https://vigilance.fr/vulnerabilite/Emacs-trois-vulnerabilites-40643
+
+https://lists.apache.org/thread/81rhvkrk6kz5bkg50494v6yqy8oojv92 CVE-2023-25956: Apache Airflow AWS Provider: Arbitrary file read via AWS provider
+
 https://news.ycombinator.com/item?id=34909251
 
 https://www.rawstory.com/millions-of-dna-tests-leaked-after-hackers-breach-company-s-forgotten-database/
@@ -13,6 +19,9 @@ https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/ci
 https://chromereleases.googleblog.com/2023/02/stable-channel-desktop-update_22.html
 
 https://github.com/nextcloud/security-advisories/security/advisories/GHSA-273v-9h7x-p68v
+
+https://www.troyhunt.com/down-the-cloudflare-stripe-owasp-rabbit-hole-a-tale-of-6-rabbits-deep/
+> https://news.ycombinator.com/item?id=34866407
 
 https://www.gkbrk.com/2016/05/hotel-music/
 > https://news.ycombinator.com/item?id=34912300

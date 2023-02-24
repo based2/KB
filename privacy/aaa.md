@@ -99,6 +99,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://arxiv.org/abs/2302.08927 Unique Identification of 50,000+ Virtual Reality Users from Head & Hand Motion Data
+> https://news.ycombinator.com/item?id=34924412
+
+https://foundation.mozilla.org/en/campaigns/googles-data-safety-labels/
+> https://news.ycombinator.com/item?id=34923813
+
 https://www.theregister.com/2023/02/18/white_castle_fingerprints_fine/
 > https://news.ycombinator.com/item?id=34846786
 

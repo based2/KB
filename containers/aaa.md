@@ -43,6 +43,15 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://whynothugo.nl/journal/2023/02/18/in-praise-of-alpine-and-apk/
+> https://news.ycombinator.com/item?id=34870476
+
+https://www.redhat.com/sysadmin/quadlet-podman
+> https://news.ycombinator.com/item?id=34873687
+
+https://github.com/containers/podman/releases/tag/v4.4.0
+> https://news.ycombinator.com/item?id=34874014
+
 https://www.linode.com/docs/guides/podman-vs-docker/
 > https://news.ycombinator.com/item?id=34719137
 

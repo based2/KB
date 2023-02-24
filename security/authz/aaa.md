@@ -16,3 +16,6 @@ https://colinking.substack.com/p/the-on3-authz-problem
 https://neilmadden.blog/2022/02/19/is-datalog-a-good-language-for-authorization/
 
 https://blogs.itemis.com/en/an-open-source-policy-language-for-attribute-stream-based-access-control-asbac
+
+https://www.infoq.com/news/2023/02/aws-policy-language-cedar/
+> https://news.ycombinator.com/item?id=34865768
