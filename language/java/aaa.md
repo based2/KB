@@ -265,6 +265,9 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 > https://news.ycombinator.com/item?id=34255996
 
 # News
+https://openjdk.org/jeps/430
+> https://news.ycombinator.com/item?id=35012862
+
 https://www.theregister.com/2023/02/20/gartner_java_licensing/
 
 https://mail.openjdk.org/pipermail/valhalla-spec-experts/2023-February/002223.html

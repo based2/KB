@@ -268,6 +268,8 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://www.crunchydata.com/blog/postgres-query-optimization-left-join-vs-union-all
+
 https://news.ycombinator.com/item?id=34903454
 
 https://psql-tips.org/psql_tips_080.html

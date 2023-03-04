@@ -272,6 +272,12 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/
+> https://news.ycombinator.com/item?id=34994439
+
+https://blogs.newardassociates.com/blog/2023/embracing-old-tech.html
+> https://news.ycombinator.com/item?id=35000680
+
 https://mats3.io/background/rationale-for-mats/
 > https://news.ycombinator.com/item?id=34765578
 

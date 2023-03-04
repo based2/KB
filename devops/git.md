@@ -274,6 +274,12 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/gov4git/gov4git
+> https://news.ycombinator.com/item?id=35005511
+
+https://diziet.dreamwidth.org/14666.html Never use git submodules
+> https://news.ycombinator.com/item?id=35006213
+
 https://gavinhoward.com/2023/02/a-git-sin-re-signing-an-entire-git-repo/
 
 https://blog.jcoglan.com/2017/05/08/merging-with-diff3/

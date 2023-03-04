@@ -83,11 +83,16 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # Incident
+https://vigilance.fr/vulnerabilite/Centreon-Web-trois-vulnerabilites-40704
+
 https://www.dsecbypass.com/en/centreon-map-vulnerability/
 
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://blog.cloudflare.com/how-cloudflare-runs-prometheus-at-scale/
+> https://news.ycombinator.com/item?id=35009761
+
 https://github.com/traceo-dev/traceo
 > https://news.ycombinator.com/item?id=34867736
 

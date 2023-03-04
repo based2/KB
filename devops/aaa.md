@@ -88,6 +88,9 @@ https://alexgaynor.net/2021/oct/07/whats-in-a-version-number/
 https://github.com/ptaoussanis/encore/blob/master/BREAK-VERSIONING.md
 > https://lobste.rs/s/kg6rov/break_versioning
 
+https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation.md
+> https://news.ycombinator.com/item?id=35008074
+
 # CI
 
 https://www.jenkins.io/
@@ -126,6 +129,12 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.reddit.com/r/netsec/comments/11ezoz5/using_jfrog_artifactory_make_sure_it_doesnt/
+
+https://www.reddit.com/r/netsec/comments/11flrfv/gitpod_remote_code_execution_0day_vulnerability/
+
+https://vigilance.fr/vulnerabilite/Atlassian-Confluence-Server-DC-obtention-d-information-via-Synchrony-Service-40702
+
 https://confluence.atlassian.com/jira/jira-service-management-server-and-data-center-advisory-cve-2023-22501-1188786458.html
 
 https://techcrunch.com/2023/02/17/atlassian-and-envoy-briefly-blame-each-other-for-data-breach/
@@ -311,6 +320,14 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://about.gitlab.com/blog/2023/03/02/gitlab-premium-update/
+> https://news.ycombinator.com/item?id=34996382
+
+https://news.ycombinator.com/item?id=34996727
+
+https://github.blog/2023-03-03-github-desktop-3-2-preview-your-pull-request/
+> https://news.ycombinator.com/item?id=35013615
+
 https://www.uber.com/en-JP/blog/devpod-improving-developer-productivity-at-uber/
 
 https://www.tinybird.co/blog-posts/better-ci-pipeline-with-data

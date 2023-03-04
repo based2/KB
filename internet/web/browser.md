@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser
+> https://news.ycombinator.com/item?id=35013937
+
 https://github.com/psilva261/opossum
 > https://news.ycombinator.com/item?id=34868843
 

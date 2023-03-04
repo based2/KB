@@ -162,6 +162,9 @@ https://randombytes.cr.yp.to/
 https://www.grc.com/otg/uheprng.htm
 > https://news.ycombinator.com/item?id=34786921
 
+https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
+>
+
 #
 https://en.wikipedia.org/wiki/Forward_secrecy
 

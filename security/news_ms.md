@@ -1,3 +1,5 @@
+https://www.cyberark.com/resources/threat-research-blog/persistence-techniques-that-persist
+
 https://www.bleepingcomputer.com/news/security/citrix-fixes-severe-flaws-in-workspace-virtual-apps-and-desktops/
 
 https://www.bleepingcomputer.com/news/security/hackers-backdoor-microsoft-iis-servers-with-new-frebniis-malware/

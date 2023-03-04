@@ -226,7 +226,11 @@ https://bibliodyssey.blogspot.com/2010/04/time-after-time.html
 https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 > https://news.ycombinator.com/item?id=29722365
 
+https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
+
 # News
+https://concerningquality.com/logical-time-determinism/
+
 https://news.ycombinator.com/item?id=34925583
 
 https://ciechanow.ski/mechanical-watch/

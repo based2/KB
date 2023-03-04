@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://github.com/midzer/wolf4sdl
+> https://news.ycombinator.com/item?id=35008377
+
 https://www.nethack.org/v367/release.html
 > https://news.ycombinator.com/item?id=34830961
 

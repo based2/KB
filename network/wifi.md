@@ -23,6 +23,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://blog.arduino.cc/2023/03/01/step-up-your-game-with-giga-r1-wifi/
+
 https://onezero.medium.com/what-makes-it-possible-to-browse-the-internet-at-35-000-feet-1afaea83eb5
 
 https://news.ycombinator.com/item?id=34567704

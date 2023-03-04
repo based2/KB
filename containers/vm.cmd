@@ -16,3 +16,6 @@ https://blog.dziban.net/coroutines/
 https://xenbits.xenproject.org/xsa/advisory-423.txt
 
 https://news.ycombinator.com/item?id=34638424
+
+https://blog.reds.ch/?p=1379 Accessing the RAM of a QEMU Emulated System from another Process
+>

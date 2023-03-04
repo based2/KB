@@ -270,6 +270,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/Asabeneh/30-Days-Of-Python
+> https://news.ycombinator.com/item?id=35011005
+
 https://djngo.com/
 > https://news.ycombinator.com/item?id=34913333
 

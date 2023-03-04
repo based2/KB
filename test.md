@@ -143,6 +143,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://mattwynne.net/new-beginning
+> https://news.ycombinator.com/item?id=35007609 
+
 https://www.worthe-it.co.za/blog/2023-02-09-i-was-saved-by-test-driven-development.html
 > 
 

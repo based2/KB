@@ -171,6 +171,12 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html
+> https://news.ycombinator.com/item?id=34986267
+
+https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/
+> https://news.ycombinator.com/item?id=34986691
+
 https://news.ycombinator.com/item?id=34897723
 
 https://book.mixu.net/distsys/

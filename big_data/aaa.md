@@ -283,6 +283,8 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://news.ycombinator.com/item?id=35002720
+
 https://www.kdnuggets.com/2023/02/importance-probability-data-science.html
 > https://news.ycombinator.com/item?id=34897028
 

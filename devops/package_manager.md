@@ -5,6 +5,9 @@ https://sporks.space/2022/09/03/downgrading-binary-packages-with-pkg-on-freebsd/
 https://gitlab.com/volian/nala apt
 
 # Nix
+https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/
+> https://news.ycombinator.com/item?id=35016101
+
 https://blog.sekun.dev/posts/create-rust-binaries-and-docker-images-with-nix/
 
 https://grahamc.com/blog/nix-and-layered-docker-images
@@ -55,6 +58,11 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 #
+https://news.ycombinator.com/item?id=34990057
+
+https://github.com/universe-software/shradiko
+> https://news.ycombinator.com/item?id=35018496
+
 https://news.ycombinator.com/item?id=34835857
 
 https://stephan.lachnit.xyz/posts/2023-02-08-debian-sbuild-mmdebstrap-apt-cacher-ng/

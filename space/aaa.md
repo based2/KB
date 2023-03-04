@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://thoriumsim.com/ A Starship Bridge Simulator
+> https://news.ycombinator.com/item?id=34984973
+
 https://www.zdnet.com/article/amazons-kuiper-satellite-broadband-takes-a-big-step-forward-despite-spacex-objections/
 
 https://www.reneweuropegroup.eu/news/2023-02-14/iris2-the-eus-response-to-elon-musks-starlink-satellites-project

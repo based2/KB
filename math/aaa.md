@@ -125,6 +125,9 @@ https://en.wikipedia.org/wiki/Curta
 https://github.com/4silvertooth/QwikTape
 > https://news.ycombinator.com/item?id=34752265
 
+https://github.com/fellerts/procal
+> https://news.ycombinator.com/item?id=35020767
+
 # News
 https://www.diegovera.org/projects
 > https://news.ycombinator.com/item?id=34903533
@@ -163,6 +166,8 @@ https://iheartla.github.io/
 > https://news.ycombinator.com/item?id=34448858
 
 https://www.quantamagazine.org/in-a-moment-mathematicians-merge-probability-and-number-theory-20230112/
+
+https://news.ycombinator.com/item?id=35016579
 
 https://arxiv.org/abs/2201.12601 pi
 > https://news.ycombinator.com/item?id=34389145

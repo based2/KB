@@ -259,10 +259,31 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://news.artnet.com/art-world/fake-instagram-photography-ai-generated-joe-avery-2260674
+> https://news.ycombinator.com/item?id=35019187
+
 https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://www.quantamagazine.org/an-applied-mathematician-strengthens-ai-with-pure-math-20230301/
+> https://news.ycombinator.com/item?id=34993973
+
+https://github.com/microsoft/unilm
+> https://news.ycombinator.com/item?id=34980449
+
+https://arxiv.org/abs/2303.00031 Tiny Classifier Circuits: Evolving Accelerators for Tabular Data
+> https://news.ycombinator.com/item?id=35005384
+
+https://github.com/facebookresearch/llama/pull/73/files
+> https://news.ycombinator.com/item?id=35007978
+
+https://kaspergroesludvigsen.medium.com/facebook-disclose-the-carbon-footprint-of-their-new-llama-models-9629a3c5c28b
+> https://news.ycombinator.com/item?id=35019093
+
+https://github.com/kir-gadjello/zipslicer
+> https://news.ycombinator.com/item?id=35013939
+
 https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
 > https://news.ycombinator.com/item?id=34925944
 

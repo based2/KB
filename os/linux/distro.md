@@ -71,6 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://yorickpeterse.com/articles/switching-to-fedora-silverblue/
+> https://news.ycombinator.com/item?id=35013084
+
 https://bugs.launchpad.net/ubuntu/+source/ubuntu-meta/+bug/1930914 ubuntu-minimal depends on ubuntu-advantage-tools
 > https://news.ycombinator.com/item?id=34846287
 

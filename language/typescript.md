@@ -95,6 +95,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/total-typescript/ts-reset
+> https://news.ycombinator.com/item?id=35005984
+
 https://jnkr.tech/blog/visitor-pattern
 
 https://www.convex.dev/

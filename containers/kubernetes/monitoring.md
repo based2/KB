@@ -16,3 +16,6 @@ https://itnext.io/performance-testing-with-iter8-now-with-custom-metrics-8c97bb7
 https://docs.odigos.io/intro Distributed traces
 > https://news.ycombinator.com/item?id=34442603
 > https://github.com/keyval-dev/odigos
+
+https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta
+> https://news.ycombinator.com/item?id=34989869

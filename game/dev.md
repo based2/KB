@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://github.com/godotengine/godot/releases/tag/4.0-stable
+> https://news.ycombinator.com/item?id=34982889
+
 https://www.ambient.run/
 > 
 

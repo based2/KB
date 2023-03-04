@@ -53,6 +53,12 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://news.ycombinator.com/item?id=35013041
+
+https://news.ycombinator.com/item?id=34982387
+
+https://www.reddit.com/r/netsec/comments/11gh394/backups_of_all_customer_vault_data_including/
+
 https://blog.quarkslab.com/post-exploitation-abusing-the-keepass-plugin-cache.html
 
 https://sourceforge.net/p/keepass/discussion/329220/thread/a146e5cf6b/

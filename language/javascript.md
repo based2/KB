@@ -542,6 +542,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/jamiebuilds/the-super-tiny-compiler
+> https://news.ycombinator.com/item?id=35004064
+
 https://vercel.com/blog/vercel-cache-api-nextjs-cache
 
 https://www.theregister.com/2023/02/15/corejs_russia_open_source/

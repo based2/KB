@@ -99,6 +99,13 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://tutanota.com/blog/posts/germany-against-client-side-scanning-csam
+> https://news.ycombinator.com/item?id=34996552
+
+https://news.ycombinator.com/item?id=35003940
+
+https://news.ycombinator.com/item?id=35016303
+
 https://arxiv.org/abs/2302.08927 Unique Identification of 50,000+ Virtual Reality Users from Head & Hand Motion Data
 > https://news.ycombinator.com/item?id=34924412
 

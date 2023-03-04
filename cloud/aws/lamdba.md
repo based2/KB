@@ -73,6 +73,11 @@ https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 https://github.com/aws-samples/aws-lambda-unit-test-example
 
 # News
+https://www.lastweekinaws.com/blog/aws-is-asleep-at-the-lambda-wheel/
+> https://news.ycombinator.com/item?id=35002024
+
+https://www.readysetcloud.io/blog/allen.helton/automate-your-life-and-save-time-with-serverless-technology/
+
 https://aws.amazon.com/en/about-aws/whats-new/2023/01/aws-lambda-maximum-concurrency-amazon-sqs-event-source/
 > https://www.reddit.com/r/aws/comments/10aqmty/aws_lambda_now_supports_maximum_concurrency_for/
 

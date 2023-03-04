@@ -30,6 +30,8 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://vermaden.wordpress.com/2023/03/02/freebsd-home-audio-studio/
+> https://news.ycombinator.com/item?id=34992615
 
 https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html
 > https://news.ycombinator.com/item?id=34351304

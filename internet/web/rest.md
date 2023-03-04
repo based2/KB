@@ -63,6 +63,9 @@ https://github.com/graphql-editor/graphql-zeus
 https://graphjin.com/
 > https://news.ycombinator.com/item?id=31541219
 
+https://www.airplane.dev/blog/graphql-vs-rest-apis-a-complete-guide
+> https://news.ycombinator.com/item?id=35014395
+
 #
 https://github.com/fern-api/fern
 > 

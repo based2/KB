@@ -29,6 +29,14 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://swarm.space/product/swarm-m138-modem/
+> https://news.ycombinator.com/item?id=34982520
+
+https://signia.tldraw.dev/docs/what-are-signals
+
+https://www.rtl-sdr.com/detecting-starlink-satellites-with-a-portable-raspberry-pi-rtl-sdr/
+> https://news.ycombinator.com/item?id=35014143
+
 https://www.science.org/doi/10.1126/sciadv.adf6182 Compact holographic sound fields enable rapid one-step assembly of matter in 3D
 > https://news.ycombinator.com/item?id=34795527
 

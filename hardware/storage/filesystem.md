@@ -44,6 +44,8 @@ https://winfsp.dev/
 > https://winfsp.dev/doc/Known-File-Systems/
 
 # News
+https://www.kernel.org/doc/html/latest/filesystems/9p.html
+
 https://github.com/Overv/vramfs
 > https://news.ycombinator.com/item?id=34855134
 

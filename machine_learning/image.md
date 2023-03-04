@@ -295,6 +295,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://github.com/yu-takagi/StableDiffusionReconstruction
+> https://news.ycombinator.com/item?id=35012981
+
 https://tuning-encoder.github.io/
 > https://news.ycombinator.com/item?id=34920307
 

@@ -1,3 +1,17 @@
+https://blog.wireshark.org/2023/03/announcing-the-wireshark-foundation/
+
+https://www.schneier.com/blog/archives/2023/02/banning-tiktok.html
+> https://news.ycombinator.com/item?id=34994752
+
+https://news.ycombinator.com/item?id=34982007
+
+https://lude.rs/h4ck1ng/draw.io_cves.html
+
+https://news.ycombinator.com/item?id=35018410
+
+https://www.theregister.com/2023/03/04/dhs_secret_service_ice_stingray/
+> https://news.ycombinator.com/item?id=35020809
+
 https://vigilance.fr/vulnerabilite/libgit2-Man-in-the-Middle-via-No-Default-Certificate-check-40642
 
 https://vigilance.fr/vulnerabilite/Emacs-trois-vulnerabilites-40643

@@ -89,6 +89,9 @@ http://www.network-science.de/ascii/
 https://blog.asciinema.org/post/smaller-faster/
 > https://news.ycombinator.com/item?id=29387761
 
+https://madned.substack.com/p/ascii-double-murder
+> https://news.ycombinator.com/item?id=35004503
+
 #
 https://blogs.oracle.com/mysql/mysql%3a-character-sets%2c-unicode%2c-and-uca-compliant-collations
 
@@ -134,6 +137,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://github.com/pop-os/cosmic-text
+> https://news.ycombinator.com/item?id=35004705
+
 https://github.com/neuml/paperetl
 
 https://inventlikeanowner.com/blog/the-story-behind-asins-amazon-standard-identification-numbers/

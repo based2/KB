@@ -38,6 +38,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://aj.codes/posts/be-careful-using-tmux-and-environment-variables/
+> https://news.ycombinator.com/item?id=35021587
+
 https://fathy.fr/carbonyl
 > https://news.ycombinator.com/item?id=34547259
 

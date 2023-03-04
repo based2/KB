@@ -25,6 +25,8 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://sysdig.com/blog/cloud-breach-terraform-data-theft/
+
 https://d1.awsstatic.com/events/Summits/reinvent2022/NET207_A-deep-dive-on-the-current-security-threat-landscape-with-AWS.pdf
 
 https://aws.amazon.com/en/blogs/security/three-key-security-themes-from-aws-reinvent-2022/

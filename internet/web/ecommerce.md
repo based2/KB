@@ -5,6 +5,12 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0
+> https://news.ycombinator.com/item?id=35017120
+
+https://www.onemedical.com/mediacenter/one-medical-joins-amazon/
+> https://news.ycombinator.com/item?id=35015789
+
 https://www.marketplacepulse.com/articles/amazon-takes-a-50-cut-of-sellers-revenue
 > https://news.ycombinator.com/item?id=34849838
 

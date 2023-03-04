@@ -1,5 +1,8 @@
 https://www.nngroup.com/articles/top-10-mistakes-web-design/
 
+https://pencil.evolus.vn/
+> https://news.ycombinator.com/item?id=34988045
+
 https://webdesign.tutsplus.com/articles/employing-aida-principles-in-web-design--webdesign-6997
 
 https://figma-to-react.vercel.app/

@@ -14,6 +14,10 @@ https://en.wikipedia.org/wiki/Positive_train_control
 https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
+#
+https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-ohio-train-crash
+> https://news.ycombinator.com/item?id=35013030
+
 # News
 https://news.ycombinator.com/item?id=34758525
 

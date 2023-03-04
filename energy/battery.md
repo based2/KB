@@ -7,6 +7,12 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://arstechnica.com/cars/2023/03/heres-what-redwood-learned-in-its-first-year-of-ev-battery-recycling/
+> https://news.ycombinator.com/item?id=34996861
+
+https://thecradle.co/article-view/22122
+> https://news.ycombinator.com/item?id=35006869
+
 https://ambri.com/technology/
 > https://news.ycombinator.com/item?id=34914779
 

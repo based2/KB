@@ -2,6 +2,8 @@
 https://www.universetoday.com/143011/how-do-we-colonize-ceres/
 
 #
+https://news.ycombinator.com/item?id=34990844
+
 https://www.jpl.nasa.gov/news/nasa-system-predicts-small-asteroid-to-pass-close-by-earth-this-week
 > https://news.ycombinator.com/item?id=34530761
 
