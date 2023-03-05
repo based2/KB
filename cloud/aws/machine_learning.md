@@ -1,3 +1,8 @@
+https://bigscience.huggingface.co/blog/bloom
+> https://medium.com/mlearning-ai/bloom-176b-how-to-run-a-real-large-language-model-in-your-own-cloud-e5f6bdfb3bb1
+
+https://aws.amazon.com/en/blogs/machine-learning/introducing-aws-ai-service-cards-a-new-resource-to-enhance-transparency-and-advance-responsible-ai/
+
 https://aws.amazon.com/en/blogs/machine-learning/expedite-conversation-design-with-the-automated-chatbot-designer-in-amazon-lex/?tag=amazon0d16-21
 
 https://aws.amazon.com/en/blogs/compute/deploying-machine-learning-models-with-serverless-templates/

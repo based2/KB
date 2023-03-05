@@ -25,6 +25,8 @@ https://dependencytrack.org/
 https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 
 #
+https://thenewstack.io/how-to-implement-a-security-scanner-for-docker-images/
+
 https://www.synacktiv.com/en/publications/cicd-secrets-extraction-tips-and-tricks.html
 
 https://github.com/praetorian-inc/noseyparker/releases/tag/v0.12.0

@@ -65,6 +65,8 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.theregister.com/2023/03/03/mars_mesh_exploration/
+
 https://news.ycombinator.com/item?id=34516628
 
 https://www.theverge.com/23560592/boston-dynamics-atlas-robot-bipedal-work-video-construction-site

@@ -17,6 +17,9 @@ https://mcaptcha.org/ AGPL, rust
 https://github.com/wenlng/go-captcha
   
 # News
+https://www.simpleanalytics.com/blog/norway-takes-a-stance-against-google-analytics
+> https://news.ycombinator.com/item?id=35029183
+
 https://news.ycombinator.com/item?id=34916815
 
 https://support.mozilla.org/en-US/kb/containers

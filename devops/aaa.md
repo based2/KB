@@ -129,6 +129,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://thenewstack.io/xss-vulnerability-discovered-in-backstage-software-catalog/
+
 https://www.reddit.com/r/netsec/comments/11ezoz5/using_jfrog_artifactory_make_sure_it_doesnt/
 
 https://www.reddit.com/r/netsec/comments/11flrfv/gitpod_remote_code_execution_0day_vulnerability/
@@ -320,6 +322,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://thenewstack.io/platform-engineering-benefits-developers-and-companies-too/
+
 https://about.gitlab.com/blog/2023/03/02/gitlab-premium-update/
 > https://news.ycombinator.com/item?id=34996382
 

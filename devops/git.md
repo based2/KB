@@ -274,6 +274,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://lore.kernel.org/git/20171225035215.GC1257@thunk.org/ Theodore Ts'o on how he uses Git when working on Linux - 2017
+> https://news.ycombinator.com/item?id=35030729
+
 https://github.com/gov4git/gov4git
 > https://news.ycombinator.com/item?id=35005511
 

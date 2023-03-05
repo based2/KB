@@ -21,6 +21,11 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://meatfighter.com/tetromino-computer/
+
+https://www.hyperion-entertainment.com/index.php/news
+> https://news.ycombinator.com/item?id=35021797
+
 https://media.mbusa.com/releases/software-architects-mercedes-benz-previews-its-operating-system-mbos
 > https://news.ycombinator.com/item?id=34902388
 

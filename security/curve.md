@@ -37,6 +37,9 @@ https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number
 https://bada55.cr.yp.to/
 
 # News
+https://substrate.stackexchange.com/questions/982/why-does-the-all-0-public-key-have-a-known-private-key-in-sr25519-and-ed25519
+> https://news.ycombinator.com/item?id=35031405
+
 https://www.rfc-editor.org/rfc/rfc7748 Elliptic Curves for Security
 > https://news.ycombinator.com/item?id=33022273
 

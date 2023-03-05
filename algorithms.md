@@ -82,6 +82,8 @@ https://news.ycombinator.com/item?id=34646199
 
 https://www.reddit.com/r/programming/comments/112r5dx/shelfsort_a_fast_stable_sorting_algorithm_in/
 
+https://lobste.rs/s/6y0xqj/x86_simd_sort_c_header_file_library_for
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184
@@ -125,6 +127,8 @@ https://soegaard.github.io/blog/metapict/#7
 > https://news.ycombinator.com/item?id=34706261
 
 https://news.ycombinator.com/item?id=34732912
+
+https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/
 
 https://randomascii.wordpress.com/2014/01/27/theres-only-four-billion-floatsso-test-them-all/
 > https://news.ycombinator.com/item?id=34726919

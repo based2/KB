@@ -57,6 +57,9 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://github.com/ivmai/bdwgc
+> https://news.ycombinator.com/item?id=35023833
+
 https://julien.jorge.st/posts/en/effortless-performance-improvements-in-cpp-std-unordered_map/
 > https://news.ycombinator.com/item?id=34992189
 

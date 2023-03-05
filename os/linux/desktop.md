@@ -94,6 +94,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/2879 hdr
+
+https://blog.orhun.dev/introducing-runst/
+> https://news.ycombinator.com/item?id=35028838
+
 https://github.com/jszczerbinsky/lwp
 > https://news.ycombinator.com/item?id=34913485
 

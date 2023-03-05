@@ -19,6 +19,9 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://github.com/erpalma/throttled lenovo
+> https://news.ycombinator.com/item?id=35025838
+
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=d4563201f33a022fc0353033d9dfeb1606a88330
 > https://news.ycombinator.com/item?id=35013477
 

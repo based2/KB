@@ -41,6 +41,9 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://www.reddit.com/r/aws/comments/11g8xxt/create_a_break_glass_role_for_emergency_use_in/
+> https://github.com/awslabs/aws-break-glass-role
+
 https://www.reddit.com/r/aws/comments/10npb52/aws_sso_strategy_for_access_to_all_member_accounts/
 
 https://aws.amazon.com/en/blogs/aws-cloud-financial-management/changes-to-aws-billing-cost-management-and-account-consoles-permissions/

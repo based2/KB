@@ -31,6 +31,8 @@ https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
 
 https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/
 
+https://github.com/dair-ai/Prompt-Engineering-Guide
+
 # Tools
 ## TensorFlow
 https://ai.googleblog.com/2021/06/frill-on-device-speech-representations.html
@@ -266,6 +268,22 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/
+
+https://blog.allenai.org/introducing-accord-b9689deb34a A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts
+
+https://github.com/google-research/tuning_playbook
+
+https://bdtechtalks.com/2023/01/16/what-is-rlhf/
+
+https://bdtechtalks.com/2023/01/23/adversarial-machine-learning-book/
+
+https://www.agisafetyfundamentals.com/ai-alignment-curriculum
+> https://news.ycombinator.com/item?id=35031023
+
+https://github.com/shawwn/llama-dl
+> https://news.ycombinator.com/item?id=35026902
+
 https://www.quantamagazine.org/an-applied-mathematician-strengthens-ai-with-pure-math-20230301/
 > https://news.ycombinator.com/item?id=34993973
 

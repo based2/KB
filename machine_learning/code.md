@@ -47,6 +47,12 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://blog.almaer.com/developer-docs-genai-%e2%9d%a4%ef%b8%8f/
+
+https://github.com/TheAppleTucker/backend-GPT
+
+https://twitter.com/AlexAlexandrius/status/1617876020593557506
+
 https://www.styra.com/blog/ai-generated-infrastructure-as-code-the-good-the-bad-and-the-ugly/
 
 https://techcrunch.com/2023/02/14/githubs-copilot-for-business-is-now-generally-available/

@@ -19,6 +19,9 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # News
+https://www.deutschland.de/en/topic/life/49-euro-ticket-deutschlandticket-for-buses-and-trains
+> https://news.ycombinator.com/item?id=35028212
+
 https://news.ycombinator.com/item?id=34758525
 
 https://restofworld.org/2023/mexico-metro-drivers-whatsapp-trains/

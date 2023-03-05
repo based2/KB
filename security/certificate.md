@@ -51,6 +51,9 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://medium.com/@sleevi_/x-520-whats-in-a-name-da6ea8954b4f
+> 
+
 https://rachelbythebay.com/w/2023/01/04/cert/
 > https://news.ycombinator.com/item?id=34252917
 > https://lobste.rs/s/ii98um/why_i_still_have_old_school_cert_on_my_https

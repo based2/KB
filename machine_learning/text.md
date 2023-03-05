@@ -9,6 +9,8 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://scale.com/blog/chatgpt-vs-claude
+
 https://www.hpc-ai.tech/blog/colossal-ai-chatgpt
 > https://news.ycombinator.com/item?id=34858460
 

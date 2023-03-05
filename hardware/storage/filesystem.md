@@ -44,6 +44,9 @@ https://winfsp.dev/
 > https://winfsp.dev/doc/Known-File-Systems/
 
 # News
+https://lwn.net/SubscriberLink/853308/c386b5aab35db7b6/ Btrfs on zoned block devices
+> https://news.ycombinator.com/item?id=26885390
+> 
 https://www.kernel.org/doc/html/latest/filesystems/9p.html
 
 https://github.com/Overv/vramfs

@@ -47,6 +47,8 @@ https://andresalmiray.com/a-pom-by-any-other-name/
 
 https://www.morling.dev/blog/maven-what-are-you-waiting-for/
 
+https://lists.apache.org/thread/7bydj87w9wy1sfw1fqk90pkng6sb2o4d Maven Compiler Plugin 3.11.0
+
 https://lists.apache.org/thread/bk4nmbbrkk8sxknos63zkfqwnd0p7jm4 Maven Javadoc Plugin 3.5.0 released
 
 https://lists.apache.org/thread/0tfr7t2j2ddbv4gjvxm47yohtk3dg6b3 Apache Maven 3.9.0 released

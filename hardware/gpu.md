@@ -10,6 +10,9 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://social.treehouse.systems/@clamchowder/109962463320713837 peek into your GPU's cache setup?
+> https://github.com/clamchowder/MicrobenchmarksGui
+
 https://www.collabora.com/news-and-blog/news-and-events/pancsf-a-new-drm-driver-for-mali-csf-based-gpus.html
 
 https://news.ycombinator.com/item?id=34832660

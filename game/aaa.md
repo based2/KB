@@ -15,6 +15,15 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://ehmorris.com/lander/
+> https://news.ycombinator.com/item?id=35032506
+
+https://github.com/MiSTer-devel/ao486_MiSTer
+> https://news.ycombinator.com/item?id=35008302
+
+https://rogule.com
+> https://news.ycombinator.com/item?id=35026863
+
 https://github.com/midzer/wolf4sdl
 > https://news.ycombinator.com/item?id=35008377
 

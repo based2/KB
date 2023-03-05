@@ -34,6 +34,10 @@ https://github.com/soywod/himalaya
 https://github.com/reacherhq/check-if-email-exists
 > https://news.ycombinator.com/item?id=27705742
 
+https://tweedegolf.nl/en/blog/86/introducing-mailcrab
+> https://news.ycombinator.com/item?id=35010794
+> https://github.com/tweedegolf/mailcrab Rust, ASLv2
+
 # Incident
 https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559

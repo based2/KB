@@ -283,6 +283,14 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://flowingdata.com/2023/01/25/cinematic-visualization/
+
+https://thenewstack.io/nasas-thirst-for-open-source-software-and-for-open-science/
+
+https://github.com/starburstdata/trino
+
+https://lists.apache.org/thread/v342g5oyyttxxox006xmbwv3dltrpf99 Apache Celeborn (incubating) 0.2.0
+
 https://news.ycombinator.com/item?id=35002720
 
 https://www.kdnuggets.com/2023/02/importance-probability-data-science.html

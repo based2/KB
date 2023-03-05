@@ -123,6 +123,8 @@ https://stevemcconnell.com/17-theses-software-estimation-expanded/
 https://www.doomcheck.com/
 > https://news.ycombinator.com/item?id=34440872
 
+https://github.com/kimmobrunfeldt/git-hours
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -156,6 +158,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://unstructed.tech/2023/03/05/multi-tasking-is-for-robots-and-humans/
+
 https://lethain.com/eng-strategies/
 > https://news.ycombinator.com/item?id=34859979
 

@@ -65,6 +65,13 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://medium.com/@davidslifka_86286/what-the-mastodon-ecosystem-needs-to-scale-cb845f30cfe8
+
+https://www.vox.com/the-goods/23580200/lucky-girl-syndrome-tiktok-manifesting
+> https://news.ycombinator.com/item?id=35026446
+
+https://news.ycombinator.com/item?id=35009630
+
 https://www.theverge.com/2023/2/17/23605073/twitter-blue-charge-sms-2fa
 
 https://news.ycombinator.com/item?id=34695571

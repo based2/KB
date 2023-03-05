@@ -95,6 +95,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://kuzudb.com/blog/wcoj.html Why (Graph) DBMSs Need New Join Algorithms: The Story of Worst-case Optimal Join Algorithms
+> https://news.ycombinator.com/item?id=34959895
+
 https://mitpress.mit.edu/9780262546379/the-little-learner/
 > https://news.ycombinator.com/item?id=34801457
 

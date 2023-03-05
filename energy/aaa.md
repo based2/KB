@@ -16,6 +16,10 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://techxplore.com/news/2023-03-million-citizens-power-europe-renewable.html
+
+https://techxplore.com/news/2023-03-machine-stabilizes-mechanical-friction-conditions.html
+
 https://www.thesciverse.com/2022/06/japan-tested-giant-turbine-that.html
 
 https://news.ycombinator.com/item?id=34825600

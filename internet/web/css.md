@@ -219,6 +219,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://edwardtufte.github.io/tufte-css/
+> https://news.ycombinator.com/item?id=35032334
+
 https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning/
 > https://news.ycombinator.com/item?id=34981523
 

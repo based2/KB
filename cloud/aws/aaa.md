@@ -90,6 +90,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://github.com/skypilot-org/skypilot
+
 https://slack.engineering/what-we-learned-from-building-govslack/
 
 https://aws.amazon.com/en/storagegateway/vtl/

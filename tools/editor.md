@@ -99,6 +99,8 @@ https://news.ycombinator.com/item?id=34287407
 http://appsweets.net/wasavi/ js
 > https://news.ycombinator.com/item?id=34393791
 
+https://sebastiancarlos.com/splitting-windows-on-vim-ccdb02900b67
+
 https://spacevim.org/SpaceVim-release-v2.0.0/
 > https://news.ycombinator.com/item?id=31986851
 
@@ -294,6 +296,10 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/Exafunction/codeium.vim
+
+https://stackoverflow.blog/2020/11/09/modern-ide-vs-vim-emacs/
+
 https://www.scintilla.org/
 > https://news.ycombinator.com/item?id=34857556
 

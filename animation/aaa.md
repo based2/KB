@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://nannou.cc/ Creative-coding framework for Rust
+> https://news.ycombinator.com/item?id=35027543
+
 https://l-m.dev/cs/softbody-dynamics-terminal/
 > https://news.ycombinator.com/item?id=34870190
 

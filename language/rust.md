@@ -430,6 +430,17 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://thenewstack.io/rust-project-reveals-new-constitution-in-wake-of-crisis/
+
+https://betterprogramming.pub/a-little-bit-of-rust-d9f2afc09238
+
+https://github.com/douchuan/jvm
+
+https://github.com/lpoulain/Rust-JVM
+
+https://viruta.org/reducing-binary-size-generics.html
+> https://news.ycombinator.com/item?id=35028441
+
 https://www.youtube.com/watch?v=r35cBkPRNMI Living with Rust Long-Term - Jon Gjengset
 > https://news.ycombinator.com/item?id=35019770
 

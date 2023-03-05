@@ -83,6 +83,22 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://virtuslab.com/blog/scala-toolkit-makes-scala-powerful-straight-out-of-the-box/
+
+https://scalajobs.com/blog/concise-enumeration-in-scala/
+
+https://eed3si9n.com/cross-build-anything-with-bazel/
+
+https://blog.jetbrains.com/scala/2023/02/09/performance-tips-for-intellij-scala-plugin/
+
+https://medium.com/virtuslab/exploring-scala-cli-the-new-scala-runner-4b958245c2e0
+
+https://antonkw.github.io/scala/fs2-kafka-pt2/
+
+https://www.reddit.com/r/scala/comments/113vixw/the_great_concurrency_smackdown_zio_versus_jdk_by/
+
+https://lists.apache.org/thread/v4rrosf8obbfmvgbfxzgkpho8qqdnll8 Apache NLPCraft 1.0.0 - incubating
+
 https://scalameta.org/metals/
 
 https://degoes.net/articles/scala-resurrection

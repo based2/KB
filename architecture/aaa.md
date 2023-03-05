@@ -272,6 +272,11 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://systemdesign.one/system-design-pastebin/
+
+https://stratoflow.com/legacy-software-systems/
+> https://news.ycombinator.com/item?id=35030796
+
 https://event-driven.io/en/dont_let_event_driven_architecture_buzzwords_fool_you/
 > https://news.ycombinator.com/item?id=34994439
 

@@ -11,6 +11,12 @@ https://sabre.io/
 > https://news.ycombinator.com/item?id=34727223
 
 # News
+https://blog.robertelder.org/importance-of-ecc-memory/
+> https://news.ycombinator.com/item?id=35011009
+
+https://oldvcr.blogspot.com/2023/03/refurb-weekend-cobalt-raq-2.html
+> https://news.ycombinator.com/item?id=35027386
+
 https://www.pugetsystems.com/blog/2023/02/02/update-on-samsung-ssd-reliability/
 > https://news.ycombinator.com/item?id=34648149
 

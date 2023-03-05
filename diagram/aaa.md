@@ -51,6 +51,9 @@ http://resurgencewebdesign.com/jschema/
 https://dundalek.com/grammkit/
 
 #
+https://d2lang.com/blog/dark-mode/
+> https://www.reddit.com/r/programming/comments/11io6sn/dark_mode_responsive_diagrams/
+
 https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/
 > https://news.ycombinator.com/item?id=34906378
 

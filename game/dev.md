@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://medium.com/building-the-metaverse/creating-a-text-adventure-game-with-chatg-cffeff4d7cfd
+
 https://github.com/godotengine/godot/releases/tag/4.0-stable
 > https://news.ycombinator.com/item?id=34982889
 

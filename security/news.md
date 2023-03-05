@@ -1,3 +1,16 @@
+https://arstechnica.com/tech-policy/2023/01/google-develops-free-terrorism-moderation-tool-for-smaller-websites/
+
+https://dzone.com/articles/what-are-bitb-phishing-attacks
+
+https://tidbits.com/2023/01/16/an-annotated-field-guide-to-identifying-phish/
+
+https://www2.deloitte.com/my/en/pages/risk/articles/91-percent-of-all-cyber-attacks-begin-with-a-phishing-email-to-an-unexpected-victim.html
+
+https://utcc.utoronto.ca/~cks/space/blog/tech/InternetPKIViaWebPKI
+> https://lobste.rs/s/2yp6wh/future_internet_pki_schemes_need_be
+
+https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-security-misconfiguration-vulnerability-of-4g-lte-indoor-routers
+
 https://blog.wireshark.org/2023/03/announcing-the-wireshark-foundation/
 
 https://www.schneier.com/blog/archives/2023/02/banning-tiktok.html

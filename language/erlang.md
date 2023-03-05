@@ -134,6 +134,10 @@ https://www.poeticoding.com/how-phoenix-liveview-works/
 https://info.codecast.io/blog/how-to-use-phoenix-channels
 > https://news.ycombinator.com/item?id=28061247
 
+https://phoenixframework.org/blog/phoenix-1.7-final-released
+> https://fly.io/phoenix-files/phoenix-dev-blog-streams/
+> > https://news.ycombinator.com/item?id=35020551
+
 # Gleam
 https://gleam.run/
 

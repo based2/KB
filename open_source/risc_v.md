@@ -1,6 +1,8 @@
 https://github.com/LekKit/RVVM
 > https://news.ycombinator.com/item?id=35009545
 
+https://lobste.rs/s/l1tg27/commercially_available_risc_v_silicon
+
 https://www.earth.li/~noodles/blog/2023/02/visionfive-2-impressions.html
 > https://news.ycombinator.com/item?id=34844027
 

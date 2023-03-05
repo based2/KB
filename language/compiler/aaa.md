@@ -123,6 +123,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://lemire.me/blog/2023/03/03/float-parsing-benchmark-regular-visual-studio-clangcl-and-linux-gcc/
+> https://news.ycombinator.com/item?id=35011028
+
 https://news.ycombinator.com/item?id=34583577
 
 https://tom7.org/abc/

@@ -169,6 +169,11 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://eprint.iacr.org/2023/318 Transformation for Lifting Discrete Logarithm Based Cryptography to Post-Quantum Cryptography
+
+https://stream.syscoi.com/2019/05/14/tables-of-soyga-the-first-cellular-automaton-anders-sandberg/
+> https://news.ycombinator.com/item?id=35023440
+
 https://arxiv.org/abs/cond-mat/0208453 Neural Cryptography
 > https://news.ycombinator.com/item?id=34787539
 

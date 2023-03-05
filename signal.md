@@ -33,6 +33,7 @@ https://swarm.space/product/swarm-m138-modem/
 > https://news.ycombinator.com/item?id=34982520
 
 https://signia.tldraw.dev/docs/what-are-signals
+> https://news.ycombinator.com/item?id=35009417
 
 https://www.rtl-sdr.com/detecting-starlink-satellites-with-a-portable-raspberry-pi-rtl-sdr/
 > https://news.ycombinator.com/item?id=35014143

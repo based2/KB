@@ -116,6 +116,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://arstechnica.com/gadgets/2023/01/the-state-of-matter-smart-home-gear-post-ces-2023/
+
 https://www.phoronix.com/news/Linux-6.3-Networking-BIG-TCP
 
 https://news.ycombinator.com/item?id=34821818

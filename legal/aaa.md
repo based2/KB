@@ -66,6 +66,8 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://www.oreilly.com/radar/what-does-copyright-say-about-generative-models/
+
 https://jolt.law.harvard.edu/digest/intel-and-the-x86-architecture-a-legal-perspective
 
 https://news.ycombinator.com/item?id=34529340

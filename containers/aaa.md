@@ -43,6 +43,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://iximiuz.com/en/posts/containers-vs-pods/
+> https://cloud.redhat.com/blog/the-dawn-of-openshift-sandboxed-containers-overview
+
 https://whynothugo.nl/journal/2023/02/18/in-praise-of-alpine-and-apk/
 > https://news.ycombinator.com/item?id=34870476
 

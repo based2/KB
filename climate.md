@@ -67,6 +67,11 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://pubs.rsc.org/en/Content/ArticleLanding/2023/EE/D2EE03804H
+
+https://app.electricitymaps.com/map
+> https://github.com/carboniferio/carbonifer
+
 https://maritime-executive.com/article/amazon-funds-seaweed-farming-test-of-co2-capture-at-offshore-wind-farm
 > https://news.ycombinator.com/item?id=34839380
 

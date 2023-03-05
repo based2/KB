@@ -70,6 +70,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://json-schema.org/blog/posts/the-last-breaking-change
+> https://www.reddit.com/r/programming/comments/11iqnos/the_last_breaking_change_json_schema_blog/
+
 https://akawashiro.github.io/jendeley/ JSON-based document organizing software, mit, node.js, pdf, react, ts
 > https://github.com/akawashiro/jendeley
 > https://akawashiro.github.io/jendeley/

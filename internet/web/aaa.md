@@ -122,6 +122,8 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://github.com/t-mart/kill-sticky
+
 https://localfirstweb.dev/
 > https://www.reddit.com/r/programming/comments/115hcuh/localfirst_web_development/
 

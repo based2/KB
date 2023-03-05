@@ -157,6 +157,10 @@ https://news.ycombinator.com/item?id=34443471
 
 https://news.ycombinator.com/item?id=34766728
 
+https://openbb.co/
+> https://github.com/OpenBB-finance/OpenBBTerminal
+> > https://news.ycombinator.com/item?id=35028262
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

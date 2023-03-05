@@ -153,6 +153,14 @@ https://medium.com/develeap/rds-logs-optimizer-dont-overpay-for-storing-your-log
 
 https://github.com/develeap/rds-logs-optimizer
 
+https://conormaher.com/robust-logical-isolation-using-aws-sts-scope-down-policies
+
+https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8?gi=b831e00a952a
+
+https://aws.plainenglish.io/alternative-way-provision-aws-resource-via-terraform-using-iam-assume-role-reference-c80a73e45f03
+
+https://github.com/aws-samples/aws-scps-with-terraform
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -171,6 +179,8 @@ https://thesaadahmed.medium.com/a-basic-ci-cd-pipeline-for-infrastructure-as-a-c
 
 https://blog.stevengonsalvez.com/github-oidc-with-terraform-and-azure
 
+https://ssmertin.com/articles/exposing-azure-storage-on-domain-apex-with-letsencrypt-ssl/
+
 # GCP
 https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b63245e31a88
 
@@ -178,6 +188,11 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://www.hashicorp.com/blog/writing-terraform-for-unsupported-resources
+> https://github.com/devops-rob/terraform-provider-terracurl
+
+https://medium.com/@calinflorescu3/splitting-a-monolithic-terraform-state-d26e866de629
+
 https://github.com/kreuzwerker/terraform-provider-docker
 
 https://github.com/loafoe/terraform-provider-ssh

@@ -145,6 +145,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://arstechnica.com/gadgets/2023/03/qualcomm-wants-to-replace-esims-with-isims-has-the-first-certified-soc/
+
 https://www.heise.de/news/Quantenkommunikation-Deutsche-Telekom-leitet-Aufbau-der-EU-Hochsicherheitsnetze-7520669.html
 
 https://arstechnica.com/tech-policy/2023/02/comcast-gave-false-map-data-to-fcc-and-didnt-admit-it-until-ars-got-involved/

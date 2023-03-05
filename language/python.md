@@ -270,6 +270,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://sethmlarson.dev/nox-pyenv-all-python-versions
+> https://news.ycombinator.com/item?id=35023065
+
 https://github.com/Asabeneh/30-Days-Of-Python
 > https://news.ycombinator.com/item?id=35011005
 

@@ -42,6 +42,11 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.ebi.ac.uk/biomodels/
+> https://news.ycombinator.com/item?id=35026493
+
+https://cell.substack.com/p/biology-breakthroughs-2022
+
 https://research.gatech.edu/more-e-coli-meets-eye-bme-lab-discovers-evidence-multicellularity-single-cell-organism
 > https://news.ycombinator.com/item?id=34546273
 

@@ -106,6 +106,8 @@ https://github.com/ebitengine/purego library for calling C functions from Go wit
 > https://news.ycombinator.com/item?id=34763681
 
 # News
+https://github.com/charmbracelet/log
+
 https://nelsonparente.medium.com/googles-wire-automated-dependency-injection-in-go-4e98864c3dd5
 > https://news.ycombinator.com/item?id=34848778
 

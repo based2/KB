@@ -216,6 +216,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://aws.amazon.com/en/blogs/publicsector/mapping-litter-plastic-pollution-citizen-science/
+
 https://dilpreet.co/projects/eduard
 > https://news.ycombinator.com/item?id=34919659
 

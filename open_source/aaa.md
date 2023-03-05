@@ -237,6 +237,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://bytesdataaction.substack.com/p/open-core-profit
+> https://news.ycombinator.com/item?id=35025865
+
 https://github.com/laudspeaker/laudspeaker Cross Channel Customer Messaging Platform
 > https://news.ycombinator.com/item?id=34835559
 
