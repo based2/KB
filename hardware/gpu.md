@@ -10,6 +10,9 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/
+> https://news.ycombinator.com/item?id=35035100
+
 https://social.treehouse.systems/@clamchowder/109962463320713837 peek into your GPU's cache setup?
 > https://github.com/clamchowder/MicrobenchmarksGui
 

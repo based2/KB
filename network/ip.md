@@ -49,6 +49,9 @@ https://news.ycombinator.com/item?id=33894933
 
 https://www.reddit.com/r/aws/comments/zxv6gj/whats_the_point_of_ipv6_native_subsets_if_they/
 
+https://www.apalrd.net/posts/2023/network_ipv6/
+> https://news.ycombinator.com/item?id=35041829
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

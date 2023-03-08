@@ -20,6 +20,8 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://news.ycombinator.com/item?id=35065785
+
 https://dangerzone.rocks/
 
 https://pdfux.com/

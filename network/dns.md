@@ -72,6 +72,9 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://domainnamewire.com/2019/03/01/montefiore-investment-acquires-domain-name-registrar-gandi/
+> https://news.ycombinator.com/item?id=35047055
+
 https://www.quad9.net/news/blog/sony-s-legal-attack-on-quad9-censorship-and-freedom-of-speech/
 > https://news.ycombinator.com/item?id=35026403
 

@@ -47,6 +47,9 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://github.com/rareranger/chatgpt-linux-assistant
+> https://news.ycombinator.com/item?id=35067120
+
 https://blog.almaer.com/developer-docs-genai-%e2%9d%a4%ef%b8%8f/
 
 https://github.com/TheAppleTucker/backend-GPT

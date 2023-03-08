@@ -295,6 +295,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://slidesgpt.com/?new
+> https://news.ycombinator.com/item?id=35066876
+
 https://github.com/yu-takagi/StableDiffusionReconstruction
 > https://news.ycombinator.com/item?id=35012981
 

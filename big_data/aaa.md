@@ -283,6 +283,8 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://news.ycombinator.com/item?id=35056903
+
 https://flowingdata.com/2023/01/25/cinematic-visualization/
 
 https://thenewstack.io/nasas-thirst-for-open-source-software-and-for-open-science/

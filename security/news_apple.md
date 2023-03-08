@@ -1,6 +1,9 @@
 
 
 # 
+https://support.apple.com/en-en/guide/security/secbbd20b00b/web
+> https://news.ycombinator.com/item?id=35056379
+
 macOS Big Sur 11.7.4 This update has no published CVE entries. 	macOS Big Sur 	15 Feb 2023
 
 https://support.apple.com/en-en/HT213633

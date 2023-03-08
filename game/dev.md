@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://bevyengine.org/news/bevy-0-10/
+> https://news.ycombinator.com/item?id=35045224
+
 https://medium.com/building-the-metaverse/creating-a-text-adventure-game-with-chatg-cffeff4d7cfd
 
 https://github.com/godotengine/godot/releases/tag/4.0-stable

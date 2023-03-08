@@ -51,6 +51,9 @@ https://personal.garrettfuller.org/blog/2019/07/22/basilisk-ii-classic-mac-emula
 https://blog.gingerbeardman.com/2021/04/21/building-basiliskii-for-ios/
 > https://news.ycombinator.com/item?id=33136935
 
+https://github.com/zajo/appler
+> https://news.ycombinator.com/item?id=35066530
+
 # HyperCard
 https://hypercard.org/
 

@@ -1,3 +1,6 @@
+https://signalk.org/
+> https://news.ycombinator.com/item?id=35066178
+
 https://caseyhandmer.wordpress.com/2022/11/20/we-need-more-water-than-rain-can-provide-refilling-rivers-with-desalination/
 > https://news.ycombinator.com/item?id=33684466
 

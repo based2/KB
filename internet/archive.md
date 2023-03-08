@@ -31,7 +31,9 @@ https://yarchive.net/ Usenet Archives Collected by Norman Yarvin
 https://www.webdesignmuseum.org/web-design-history/timeline-1990-1994
 
 https://telehack.com/
-> 
+
+https://archive.org/about/dmca.php Internet Archive gets DMCA exemption to help archive vintage software (2003)
+> https://news.ycombinator.com/item?id=35065513
 
 ## Ads
 http://cyber.dabamos.de/88x31/

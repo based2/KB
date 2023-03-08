@@ -322,6 +322,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/
+> https://news.ycombinator.com/item?id=35067224
+
 https://thenewstack.io/platform-engineering-benefits-developers-and-companies-too/
 
 https://about.gitlab.com/blog/2023/03/02/gitlab-premium-update/

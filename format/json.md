@@ -70,6 +70,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://github.com/unum-cloud/ujrpc
+> https://news.ycombinator.com/item?id=35042316
+
 https://json-schema.org/blog/posts/the-last-breaking-change
 > https://www.reddit.com/r/programming/comments/11iqnos/the_last_breaking_change_json_schema_blog/
 

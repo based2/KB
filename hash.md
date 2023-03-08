@@ -104,6 +104,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
 # News
+https://orlp.net/blog/worlds-smallest-hash-table/
+> https://news.ycombinator.com/item?id=35037690
+
 https://aleclownes.com/2016/10/03/palindromic-rolling-hash.html
 > https://news.ycombinator.com/item?id=34411500
 

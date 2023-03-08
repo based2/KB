@@ -67,6 +67,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.theguardian.com/environment/2023/mar/06/revealed-1000-super-emitting-methane-leaks-risk-triggering-climate-tipping-points
+
 https://pubs.rsc.org/en/Content/ArticleLanding/2023/EE/D2EE03804H
 
 https://app.electricitymaps.com/map

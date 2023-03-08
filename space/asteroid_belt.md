@@ -2,6 +2,9 @@
 https://www.universetoday.com/143011/how-do-we-colonize-ceres/
 
 #
+https://arxiv.org/abs/2302.12353 Autonomous Restructuring of Asteroids into Rotating Space Stations
+> https://news.ycombinator.com/item?id=35043493
+
 https://news.ycombinator.com/item?id=34990844
 
 https://www.jpl.nasa.gov/news/nasa-system-predicts-small-asteroid-to-pass-close-by-earth-this-week

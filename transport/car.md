@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.cnbc.com/2023/03/08/us-investigating-tesla-after-steering-wheels-detached-from-model-y.html
+> https://news.ycombinator.com/item?id=35070028
+
 https://www.cbsnews.com/news/u-s-postal-service-starts-nationwide-electric-vehicle-fleet-buying-9250-evs-and-thousands-of-charging-stations/
 > https://news.ycombinator.com/item?id=34991053
 

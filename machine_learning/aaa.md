@@ -268,6 +268,9 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://github.com/markasoftware/llama-cpu
+> https://news.ycombinator.com/item?id=35065796
+
 https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/
 
 https://blog.allenai.org/introducing-accord-b9689deb34a A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts

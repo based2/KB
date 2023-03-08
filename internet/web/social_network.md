@@ -65,6 +65,13 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://eugeneyan.com/writing/content-moderation/
+
+https://ahelwer.ca/post/2023-03-08-google-groups/
+> https://news.ycombinator.com/item?id=35070618
+
+https://news.ycombinator.com/item?id=35041358
+
 https://medium.com/@davidslifka_86286/what-the-mastodon-ecosystem-needs-to-scale-cb845f30cfe8
 
 https://www.vox.com/the-goods/23580200/lucky-girl-syndrome-tiktok-manifesting

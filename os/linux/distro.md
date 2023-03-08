@@ -71,6 +71,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.phoronix.com/news/Vanilla-OS-2.0-Debian
+> https://news.ycombinator.com/item?id=35069437
+
 https://yorickpeterse.com/articles/switching-to-fedora-silverblue/
 > https://news.ycombinator.com/item?id=35013084
 

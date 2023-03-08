@@ -92,6 +92,9 @@ https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360
 > https://news.ycombinator.com/item?id=34770898
 
+https://writeout.ai/
+> https://news.ycombinator.com/item?id=35070405
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

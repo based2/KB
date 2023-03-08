@@ -1,3 +1,12 @@
+https://utcc.utoronto.ca/~cks/space/blog/tech/SSDBlockDiscardHowSecure
+> https://news.ycombinator.com/item?id=35069189
+
+https://www.bunniestudios.com/blog/?p=6712 Infra-Red, In Situ (IRIS) Inspection of Silicon
+> https://news.ycombinator.com/item?id=35068614
+
+https://arstechnica.com/tech-policy/2023/03/rising-scams-use-ai-to-mimic-voices-of-loved-ones-in-financial-distress/
+> https://news.ycombinator.com/item?id=35045335
+
 https://arstechnica.com/tech-policy/2023/01/google-develops-free-terrorism-moderation-tool-for-smaller-websites/
 
 https://dzone.com/articles/what-are-bitb-phishing-attacks

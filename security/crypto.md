@@ -169,6 +169,8 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/
+
 https://eprint.iacr.org/2023/318 Transformation for Lifting Discrete Logarithm Based Cryptography to Post-Quantum Cryptography
 
 https://stream.syscoi.com/2019/05/14/tables-of-soyga-the-first-cellular-automaton-anders-sandberg/

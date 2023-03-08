@@ -9,6 +9,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post
+> https://news.ycombinator.com/item?id=35042431
+
 https://scale.com/blog/chatgpt-vs-claude
 
 https://www.hpc-ai.tech/blog/colossal-ai-chatgpt

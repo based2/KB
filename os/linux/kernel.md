@@ -19,6 +19,9 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://www.phoronix.com/news/Intel-rcuref-Linux-Speed-Up
+> https://news.ycombinator.com/item?id=35067603
+
 https://github.com/erpalma/throttled lenovo
 > https://news.ycombinator.com/item?id=35025838
 

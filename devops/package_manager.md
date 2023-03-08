@@ -41,6 +41,8 @@ https://github.com/cachix/devenv
 https://www.jetpack.io/blog/devbox-0-2-0/
 > https://news.ycombinator.com/item?id=34073950
 
+https://news.ycombinator.com/item?id=35039244
+
 # Incident
 https://www.scmagazine.com/analysis/devops/npm-repository-15000-phishing-packages
 > https://news.ycombinator.com/item?id=34925171

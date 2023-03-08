@@ -44,6 +44,8 @@ https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured
 > https://news.ycombinator.com/item?id=33297000
 
 #
+https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/howto-enforce-signed-saml-authentication preview authn
+
 https://github.com/Azure/Bridge-To-Kubernetes
 
 https://azure.microsoft.com/en-us/blog/general-availability-of-azure-openai-service-expands-access-to-large-advanced-ai-models-with-added-enterprise-benefits/
