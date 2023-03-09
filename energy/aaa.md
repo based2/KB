@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you
+> https://news.ycombinator.com/item?id=35060298
+
 https://techxplore.com/news/2023-03-million-citizens-power-europe-renewable.html
 
 https://techxplore.com/news/2023-03-machine-stabilizes-mechanical-friction-conditions.html

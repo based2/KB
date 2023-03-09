@@ -98,6 +98,9 @@ https://www.greatgreenwall.org/about-great-green-wall
 
 https://news.ycombinator.com/item?id=33247892
 
+https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/
+> https://news.ycombinator.com/item?id=35081277
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 

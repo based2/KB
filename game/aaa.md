@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://lutzroeder.github.io/digger/
+> https://news.ycombinator.com/item?id=35055993
+
 https://ehmorris.com/lander/
 > https://news.ycombinator.com/item?id=35032506
 

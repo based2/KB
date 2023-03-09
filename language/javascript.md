@@ -545,6 +545,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://medium.com/@LinusSchlumberger/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42
+> https://news.ycombinator.com/item?id=35079971
+
 https://news.ycombinator.com/item?id=35043720
 
 https://github.com/jamiebuilds/the-super-tiny-compiler

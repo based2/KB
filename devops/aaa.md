@@ -129,6 +129,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://blog.aquasec.com/jenkins-server-vulnerabilities
+
 https://thenewstack.io/xss-vulnerability-discovered-in-backstage-software-catalog/
 
 https://www.reddit.com/r/netsec/comments/11ezoz5/using_jfrog_artifactory_make_sure_it_doesnt/

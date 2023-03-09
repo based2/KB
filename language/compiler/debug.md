@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://randomascii.wordpress.com/2023/03/08/when-debug-symbols-get-large/
+> https://news.ycombinator.com/item?id=35078563
+
 https://github.com/epasveer/seer
 > https://www.reddit.com/r/programming/comments/11i4fw7/seer_a_new_gui_frontend_to_gdbmi_updated_v115/
 

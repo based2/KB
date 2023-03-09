@@ -296,6 +296,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://matklad.github.io/2023/03/08/an-engine-for-an-editor.html
+> https://news.ycombinator.com/item?id=35068891
+
 https://github.com/Exafunction/codeium.vim
 
 https://stackoverflow.blog/2020/11/09/modern-ide-vs-vim-emacs/

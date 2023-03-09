@@ -1,3 +1,19 @@
+https://www.bleepingcomputer.com/news/security/sonicwall-devices-infected-by-malware-that-survives-firmware-upgrades/
+
+https://www.bleepingcomputer.com/news/security/veeam-fixes-bug-that-lets-hackers-breach-backup-infrastructure/
+
+https://cyberlibrarian.ca/blog/2023/03/04/printer-honeypot-part1.html
+> https://news.ycombinator.com/item?id=35074856
+
+https://www.npr.org/2023/03/09/1162191035/personal-information-of-u-s-house-members-exposed-in-health-data-breach
+> https://news.ycombinator.com/item?id=35084961
+
+https://github.com/EasyCrypt/easycrypt Computer-Aided Cryptographic Proofs
+> https://news.ycombinator.com/item?id=35055212
+
+https://krebsonsecurity.com/2023/03/whos-behind-the-netwire-remote-access-trojan/
+> https://news.ycombinator.com/item?id=35085087
+
 https://utcc.utoronto.ca/~cks/space/blog/tech/SSDBlockDiscardHowSecure
 > https://news.ycombinator.com/item?id=35069189
 

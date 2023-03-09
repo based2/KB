@@ -268,6 +268,9 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html
+> https://news.ycombinator.com/item?id=35078410
+
 https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 

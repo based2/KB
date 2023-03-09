@@ -66,6 +66,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://riskybiznews.substack.com/p/risky-biz-news-canadas-tax-revenue
+> https://news.ycombinator.com/item?id=35072517
+
 https://www.oreilly.com/radar/what-does-copyright-say-about-generative-models/
 
 https://jolt.law.harvard.edu/digest/intel-and-the-x86-architecture-a-legal-perspective

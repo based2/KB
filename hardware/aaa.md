@@ -66,6 +66,9 @@ https://github.com/rvaiya/warpd A modal keyboard-driven virtual pointer
 
 https://arstechnica.com/gadgets/2022/12/corsair-says-bug-not-keylogger-behind-some-k100-keyboards-creepy-behavior/
 
+https://fluxkeyboard.com/
+> https://news.ycombinator.com/item?id=35083665
+
 # Mouse
 https://github.com/madprops/blog/blob/main/mouse.md
 > https://news.ycombinator.com/item?id=34739163
@@ -90,6 +93,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://oxide.computer/blog/building-big-systems-with-remote-hardware-teams
+> https://news.ycombinator.com/item?id=35070100
+
 https://news.ycombinator.com/item?id=34907885
 
 https://jforberg.se/blog/posts/2023-02-19-rockpro64/rockpro64.html arm

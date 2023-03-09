@@ -86,6 +86,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://detailed.com/google-control/
+> https://news.ycombinator.com/item?id=35072537
+
 https://news.ycombinator.com/item?id=35025535
 
 https://www.pinecone.io/learn/splade/

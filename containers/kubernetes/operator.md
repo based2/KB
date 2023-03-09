@@ -1,3 +1,6 @@
+https://metalbear.co/blog/writing-a-kubernetes-operator/
+> https://news.ycombinator.com/item?id=35081033
+
 https://merlijn.sebrechts.be/blog/2022-09-05-wasm-k8s-controllers/
 > https://news.ycombinator.com/item?id=34663968
 

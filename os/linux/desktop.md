@@ -94,6 +94,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html
+> https://news.ycombinator.com/item?id=35081510
+
 https://gitlab.gnome.org/GNOME/mutter/-/merge_requests/2879 hdr
 
 https://blog.orhun.dev/introducing-runst/

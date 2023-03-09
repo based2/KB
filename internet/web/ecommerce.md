@@ -5,6 +5,8 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://medusajs.com/blog/ecommerce-history/
+
 https://www.thetimes.co.uk/article/roald-dahl-collection-books-changes-text-puffin-uk-2023-rm2622vl0
 > https://news.ycombinator.com/item?id=35017120
 

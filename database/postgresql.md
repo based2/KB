@@ -135,7 +135,10 @@ https://www.cisecurity.org/benchmark/postgresql/
 https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security
 
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox 
-  
+
+https://github.com/inqueryio/inquery
+> https://news.ycombinator.com/item?id=35082508
+
 # Operations
 
 https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production

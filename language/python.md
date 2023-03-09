@@ -59,6 +59,9 @@ https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent
 https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/
 > https://news.ycombinator.com/item?id=34754276
 
+https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/
+> https://news.ycombinator.com/item?id=35073136
+
 # Build
 https://github.com/mesonbuild/meson
 
@@ -270,6 +273,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://www.taichi-lang.org/
+
 https://peps.python.org/pep-0709/
 > https://news.ycombinator.com/item?id=35069345
 

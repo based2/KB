@@ -1,5 +1,8 @@
 https://docs.microsoft.com/en-us/sysinternals/
 
+https://en.wikipedia.org/wiki/Ralf_Brown%27s_Interrupt_List
+> https://news.ycombinator.com/item?id=35039133
+
 # LTS
 https://docs.microsoft.com/en-us/windows/whats-new/ltsc/
 > https://news.ycombinator.com/item?id=27369828

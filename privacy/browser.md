@@ -17,6 +17,9 @@ https://mcaptcha.org/ AGPL, rust
 https://github.com/wenlng/go-captcha
   
 # News
+https://support.brave.com/hc/en-us/articles/9982188779405-What-does-Copy-clean-link-mean-
+> https://news.ycombinator.com/item?id=35084792
+
 https://www.simpleanalytics.com/blog/norway-takes-a-stance-against-google-analytics
 > https://news.ycombinator.com/item?id=35029183
 

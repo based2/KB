@@ -109,6 +109,11 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://news.ycombinator.com/item?id=35074357
+
+https://dukope.itch.io/mars-after-midnight/devlog/495856/gameplay-loop
+> https://news.ycombinator.com/item?id=35057346
+
 https://bevyengine.org/news/bevy-0-10/
 > https://news.ycombinator.com/item?id=35045224
 

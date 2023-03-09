@@ -127,6 +127,9 @@ https://www.stephenlewis.me/blog/naming-phoenix-context-functions
 https://fly.io/phoenix-files/liveview-async-task/
 > https://news.ycombinator.com/item?id=34364251
 
+https://fly.io/phoenix-files/single-file-elixir-scripts/
+> https://news.ycombinator.com/item?id=35076824
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

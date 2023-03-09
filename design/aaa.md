@@ -45,6 +45,9 @@ https://brutalita.com/ Experimental font and editor, edit in your browser and do
 > https://news.ycombinator.com/item?id=29921137
 
 #
+https://apenwarr.ca/log/20201227 Systems design explains the world (2021)
+> https://news.ycombinator.com/item?id=35078590
+
 https://bjango.com/articles/opticaladjustments/
 
 https://hackernoon.com/apples-icons-have-that-shape-for-a-very-good-reason-720d4e7c8a14

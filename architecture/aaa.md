@@ -257,6 +257,9 @@ https://news.ycombinator.com/item?id=33316763 Ask HN: Any good guide which inclu
 https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-githubs-rest-api-with-api-versioning/
 > https://news.ycombinator.com/item?id=33779549
 
+https://apirank.dev/
+> https://news.ycombinator.com/item?id=35084108
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966

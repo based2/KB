@@ -1,3 +1,6 @@
+https://globalgroundsupport.com/vr-deicer-simulator/
+> https://news.ycombinator.com/item?id=35086869
+
 https://michael-mcanally.medium.com/building-my-own-private-metaverse-c06a83d4123d
 
 https://shopify.github.io/spatial-commerce-projects/WonkaVision/

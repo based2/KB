@@ -265,6 +265,9 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 > https://news.ycombinator.com/item?id=34255996
 
 # News
+https://www.infoq.com/news/2023/03/java-20-so-far/
+> https://news.ycombinator.com/item?id=35083879
+
 https://openjdk.org/jeps/430
 > https://news.ycombinator.com/item?id=35012862
 

@@ -72,6 +72,8 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://linuxfr.org/users/psychofox/journaux/rip-gandi-net
+
 https://domainnamewire.com/2019/03/01/montefiore-investment-acquires-domain-name-registrar-gandi/
 > https://news.ycombinator.com/item?id=35047055
 
