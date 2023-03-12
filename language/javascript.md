@@ -205,6 +205,9 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://www.joshwcomeau.com/react/common-beginner-mistakes/
+> https://news.ycombinator.com/item?id=35108672
+
 https://emnudge.dev/blog/react-hostage
 > https://news.ycombinator.com/item?id=35061672
 
@@ -545,6 +548,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://github.com/web-infra-dev/rspack
+> https://news.ycombinator.com/item?id=35089240
+
 https://medium.com/@LinusSchlumberger/all-javascript-and-typescript-features-of-the-last-3-years-629c57e73e42
 > https://news.ycombinator.com/item?id=35079971
 

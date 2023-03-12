@@ -95,6 +95,12 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://artsy.github.io/blog/2023/03/01/typescript-magic/
+> 
+
+https://www.richard-towers.com/2023/03/11/typescripting-the-technical-interview.html
+> https://news.ycombinator.com/item?id=35120084
+
 https://github.com/total-typescript/ts-reset
 > https://news.ycombinator.com/item?id=35005984
 

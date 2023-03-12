@@ -216,6 +216,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://protomaps.com/blog/serverless-maps-now-open-source
+> https://news.ycombinator.com/item?id=35089776
+
 https://aws.amazon.com/en/blogs/publicsector/mapping-litter-plastic-pollution-citizen-science/
 
 https://dilpreet.co/projects/eduard

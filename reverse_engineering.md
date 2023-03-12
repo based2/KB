@@ -27,6 +27,9 @@ https://labs.p1sec.com/2023/01/09/releasing-hermes-dec-an-open-source-disassembl
 > https://github.com/P1sec/hermes-dec/
 
 #
+https://www.righto.com/2023/03/8086-register-codes.html
+> https://news.ycombinator.com/item?id=35124055
+
 https://www.righto.com/2023/03/reverse-engineering-electronics-in.html Reverse-engineering the electronics in the Globus analog navigational computer
 
 https://www.youtube.com/watch?v=p5tMaWsuGk0 The secrets of Apple Lightning - Part 1

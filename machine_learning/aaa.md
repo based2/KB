@@ -268,6 +268,20 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://simonwillison.net/2023/Mar/11/llama/
+> https://news.ycombinator.com/item?id=35111646
+
+https://pytorch.org/docs/stable/fx.html
+> https://news.ycombinator.com/item?id=35107221
+
+https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html
+
+https://dev.l1x.be/posts/2023/12/08/using-llama-with-m1-mac/
+> https://news.ycombinator.com/item?id=35122689
+
+https://github.com/ggerganov/llama.cpp
+> https://news.ycombinator.com/item?id=35100086
+
 https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html
 > https://news.ycombinator.com/item?id=35078410
 

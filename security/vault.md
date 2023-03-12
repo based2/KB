@@ -22,6 +22,7 @@ https://oteemo.com/2019/06/20/hashicorp-vault-is-overhyped-and-mozilla-sops-with
 Ansible vault
 
 https://github.com/mozilla/sops
+> https://news.ycombinator.com/item?id=35111379
 
 https://github.com/bitnami-labs/sealed-secrets
 

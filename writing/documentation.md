@@ -47,6 +47,9 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://textual.textualize.io/
+> https://news.ycombinator.com/item?id=35123383
+
 https://marketplace.visualstudio.com/items?itemName=dev-docs.dev-docs
 > https://news.ycombinator.com/item?id=34619788
 

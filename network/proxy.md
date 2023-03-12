@@ -27,6 +27,12 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://github.com/pgrok/pgrok
+> https://news.ycombinator.com/item?id=35119261
+
+https://blog.cloudflare.com/introducing-oxy/
+> https://news.ycombinator.com/item?id=35096691
+
 https://github.com/Water-Melon/Menet TCP-based reverse proxy to help you expose a local server behind a NAT. It can be dynamically configured through HTTP requests.
 
 https://www.appsmith.com/blog/peeking-into-https-traffic-with-a-proxy

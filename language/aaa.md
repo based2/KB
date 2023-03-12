@@ -144,6 +144,8 @@ https://tromp.github.io/cl/Binary_lambda_calculus.html
 http://www.rntz.net/files/thesis.pdf Deconstructing Datalog
 > https://news.ycombinator.com/item?id=34991276
 
+https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721

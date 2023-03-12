@@ -66,6 +66,9 @@ https://pix2pixzero.github.io/
 https://til.simonwillison.net/macos/sips
 > https://news.ycombinator.com/item?id=34849734
 
+https://github.com/microsoft/visual-chatgpt
+> https://news.ycombinator.com/item?id=35090163
+
 # text2img
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
@@ -295,6 +298,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://mingukkang.github.io/GigaGAN/
+> https://news.ycombinator.com/item?id=35089661
+
 https://slidesgpt.com/?new
 > https://news.ycombinator.com/item?id=35066876
 

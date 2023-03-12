@@ -3,6 +3,8 @@ https://github.com/queer/boxxy puts bad Linux applications in a box with only th
 > https://news.ycombinator.com/item?id=34730520
 
 # News
+http://sbudella.altervista.org/blog/20230308-coredns-conjecture.html
+
 https://research.nccgroup.com/2023/02/06/rustproofing-linux-part-1-4-leaking-addresses/
 
 https://www.cyberark.com/resources/threat-research-blog/the-linux-kernel-and-the-cursed-driver NTFS3 driver in Linux

@@ -188,6 +188,10 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://engineering.placer.ai/managing-airflow-resources-the-iac-way-with-terraform-ea5b8db573ad
+
+https://medium.com/google-cloud/open-policy-agent-evaluate-infrastructure-score-8cdf13c7cc46
+
 https://www.hashicorp.com/blog/writing-terraform-for-unsupported-resources
 > https://github.com/devops-rob/terraform-provider-terracurl
 

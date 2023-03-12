@@ -161,6 +161,8 @@ https://openbb.co/
 > https://github.com/OpenBB-finance/OpenBBTerminal
 > > https://news.ycombinator.com/item?id=35028262
 
+https://news.ycombinator.com/item?id=35084227
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317
@@ -188,6 +190,15 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://home.treasury.gov/news/press-releases/jy1337
+> https://news.ycombinator.com/item?id=35127063
+
+https://news.ycombinator.com/item?id=35104641
+
+https://fortune.com/2023/03/11/silicon-valley-bank-svb-ceo-greg-becker-dodd-frank-trump-rollback-systemically-important-fdic/
+> https://news.ycombinator.com/item?id=35115963
+> https://news.ycombinator.com/item?id=35118428
+
 https://prospect.org/world/best-tax-system-on-earth-faroe-islands/
 
 https://commoncog.com/cash-flow-games/

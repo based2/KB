@@ -130,6 +130,9 @@ https://fly.io/phoenix-files/liveview-async-task/
 https://fly.io/phoenix-files/single-file-elixir-scripts/
 > https://news.ycombinator.com/item?id=35076824
 
+https://underjord.io/userspace-drivers-in-elixir.html
+> https://news.ycombinator.com/item?id=35081074
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

@@ -64,6 +64,8 @@ https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html
 
 https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-digital-identity_en
 
+https://news.ycombinator.com/item?id=35095063
+
 #
 https://suricrasia.online/iceberg/ The Cursed Computer Iceberg Meme
 > https://news.ycombinator.com/item?id=26766722

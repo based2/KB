@@ -1,3 +1,11 @@
+https://research.aurainfosec.io/pentest/threat-on-your-desk-evil-usbc-dock/
+> https://news.ycombinator.com/item?id=35080692
+
+https://news.ycombinator.com/item?id=35123839
+
+https://arstechnica.com/gadgets/2023/03/customers-fume-as-hp-blocks-third-party-ink-from-more-of-its-printers/
+> https://news.ycombinator.com/item?id=35090388
+
 https://www.bleepingcomputer.com/news/security/sonicwall-devices-infected-by-malware-that-survives-firmware-upgrades/
 
 https://www.bleepingcomputer.com/news/security/veeam-fixes-bug-that-lets-hackers-breach-backup-infrastructure/

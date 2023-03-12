@@ -11,6 +11,9 @@ https://imglarger.com/
 https://resizer.in/
 
 # News
+https://blog.qwertyforce.dev/posts/automatic_image_mining
+> https://news.ycombinator.com/item?id=35121228
+
 https://gimelstudio.github.io/ diag
 > https://news.ycombinator.com/item?id=34297576
 > > https://jtree.treenotation.org/designer/

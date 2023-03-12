@@ -283,6 +283,12 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://techcrunch.com/2023/03/09/y-combinator-backed-patterns-is-building-a-platform-to-abstract-away-data-science-busywork/
+> https://news.ycombinator.com/item?id=35108349
+
+https://www.blef.fr/get-started-dbt/
+> https://news.ycombinator.com/item?id=35080707
+
 https://news.ycombinator.com/item?id=35056903
 
 https://flowingdata.com/2023/01/25/cinematic-visualization/

@@ -1,5 +1,8 @@
 https://gist.github.com/zingaburga/805669eb891c820bd220418ee3f0d6bd ARM’s Scalable Vector Extensions: A Critical Look at SVE2 For Integer Workloads
 
+https://nickdesaulniers.github.io/blog/2023/03/10/disambiguating-arm/
+> https://news.ycombinator.com/item?id=35100297
+
 https://maskray.me/blog/2023-03-05-linker-notes-on-aarch64
 > https://news.ycombinator.com/item?id=35039478
 

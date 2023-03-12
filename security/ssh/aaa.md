@@ -129,6 +129,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://github.com/maxgoedjen/secretive Store SSH keys in the Secure Enclave
+> https://news.ycombinator.com/item?id=35090238
+
 https://www.openssh.com/txt/release-9.2 OpenSSH version 9.2, fix 9.1
 > https://news.ycombinator.com/item?id=34633575
 > > https://lwn.net/ml/oss-security/20230202130212.GA15689@localhost.localdomain/

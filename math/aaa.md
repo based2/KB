@@ -132,6 +132,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://tromp.github.io/cl/cl.html
+
 https://www.diegovera.org/projects
 > https://news.ycombinator.com/item?id=34903533
 

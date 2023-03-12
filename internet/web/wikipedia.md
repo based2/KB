@@ -52,6 +52,9 @@ https://news.ycombinator.com/item?id=30392849
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://github.com/yashsinghcodes/wik
+> https://news.ycombinator.com/item?id=35119681
+
 https://techcrunch.com/2023/01/18/wikipedia-gets-its-first-makeover-in-over-a-decade-and-its-fairly-subtle/
 
 https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-01-16/Special_report

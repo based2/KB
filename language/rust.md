@@ -186,6 +186,8 @@ https://news.ycombinator.com/item?id=34567550
 
 https://without.boats/blog/the-registers-of-rust/
 
+https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106

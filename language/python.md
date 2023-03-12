@@ -274,6 +274,7 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 
 # News
 https://www.taichi-lang.org/
+> https://news.ycombinator.com/item?id=35084841
 
 https://peps.python.org/pep-0709/
 > https://news.ycombinator.com/item?id=35069345

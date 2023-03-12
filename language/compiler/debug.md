@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://werat.dev/blog/what-a-good-debugger-can-do/
+> https://news.ycombinator.com/item?id=35092998
+
 https://randomascii.wordpress.com/2023/03/08/when-debug-symbols-get-large/
 > https://news.ycombinator.com/item?id=35078563
 

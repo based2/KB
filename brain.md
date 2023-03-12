@@ -40,6 +40,12 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/
+> https://news.ycombinator.com/item?id=35111371
+
+https://www.nature.com/articles/s41562-022-01516-2
+> https://news.ycombinator.com/item?id=35098830
+
 https://news.ycombinator.com/item?id=34892044
 
 https://www.cnbc.com/2023/02/18/synchron-backed-by-bezos-and-gates-tests-brain-computer-interface.html

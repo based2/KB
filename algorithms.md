@@ -84,6 +84,9 @@ https://www.reddit.com/r/programming/comments/112r5dx/shelfsort_a_fast_stable_so
 
 https://lobste.rs/s/6y0xqj/x86_simd_sort_c_header_file_library_for
 
+https://gist.github.com/tavurth/94eb823807b38b2a8d9400680071599a Hilbert Sort algorithm for sorting of one-dimensional data in a higher-dimensional space using the Hilbert curve
+> https://www.reddit.com/r/programming/comments/11nkcon/the_hilbert_sort_algorithm_sorting_of/
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184

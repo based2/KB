@@ -265,6 +265,9 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 > https://news.ycombinator.com/item?id=34255996
 
 # News
+https://pkolaczk.github.io/dont-share-file-channels/
+> https://news.ycombinator.com/item?id=35125962
+
 https://www.infoq.com/news/2023/03/java-20-so-far/
 > https://news.ycombinator.com/item?id=35083879
 

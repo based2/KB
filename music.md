@@ -108,6 +108,9 @@ https://trondal.com/sid/
 https://old.reddit.com/r/DJs/comments/z60ahl/automated_dj_software/
 > https://news.ycombinator.com/item?id=33764681
 
+https://github.com/Valent-in/pulseq
+> https://news.ycombinator.com/item?id=35107896
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084
