@@ -48,6 +48,8 @@ https://www.alphagalileo.org/en-gb/Item-Display/ItemId/229338?returnurl=https://
 https://aera.mit.edu/projects/aerobatic-maneuvers-for-fixed-wing-vtol-aircraft
 > https://news.ycombinator.com/item?id=34816297
 
+https://www.flyzipline.com/
+
 # Water
 https://www.darpa.mil/news-events/2021-12-20
 

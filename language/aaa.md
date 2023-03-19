@@ -314,6 +314,10 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=35209102 oberon
+
+https://news.ycombinator.com/item?id=35217860
+
 https://capitalex.codeberg.page/give-me-flexibility-and-give-me-types/
 > https://www.reddit.com/r/ProgrammingLanguages/comments/119ifzi/give_me_flexibility_and_give_me_types/
 

@@ -10,7 +10,16 @@ https://github.com/fstanis/awesome-webdav
 https://sabre.io/
 > https://news.ycombinator.com/item?id=34727223
 
+# Incident
+https://www.tomshardware.com/news/fake-samsung-980-pro
+> https://news.ycombinator.com/item?id=35222843
+
 # News
+https://ddramdisk.store/
+> https://news.ycombinator.com/item?id=35195029
+
+https://news.ycombinator.com/item?id=35191706 cd
+
 https://blog.robertelder.org/importance-of-ecc-memory/
 > https://news.ycombinator.com/item?id=35011009
 

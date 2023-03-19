@@ -9,6 +9,8 @@ https://tlakh.xyz/fuzzing-ping.html
 
 https://thevaluable.dev/practical-guide-fzf-example/
 
+https://github.com/ant4g0nist/webgl-fuzzer
+
 https://security.googleblog.com/2023/02/taking-next-step-oss-fuzz-in-2023.html
 > https://news.ycombinator.com/item?id=34626197
 

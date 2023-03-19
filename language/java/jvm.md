@@ -46,6 +46,15 @@ https://users.cecs.anu.edu.au/~steveb/pubs/papers/lxr-pldi-2022.pdf Low-Latency,
 
 https://tschatzl.github.io/2022/09/16/jdk19-g1-parallel-gc-changes.html
 
+https://tschatzl.github.io/2023/03/14/jdk20-g1-parallel-gc-changes.html
+> https://news.ycombinator.com/item?id=35196721
+
+## ZGC
+https://www.youtube.com/watch?v=88E86quLmQA&t=1750s ZGC: The Next Generation Low-Latency Garbage Collector
+
+https://dl.acm.org/doi/pdf/10.1145/3538532
+> https://news.ycombinator.com/item?id=35203683
+
 # Test
 https://github.com/ota4j-team/opentest4j
 
@@ -59,9 +68,6 @@ https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/
 
 # Fiber
 https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/
-
-# ZGC
-https://www.youtube.com/watch?v=88E86quLmQA&t=1750s ZGC: The Next Generation Low-Latency Garbage Collector
 
 # News
 https://minborgsjavapot.blogspot.com/2023/01/java-21-performance-improvements.html

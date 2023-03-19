@@ -9,6 +9,13 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://github.com/ymosy/chatbox
+
+https://viper.cs.columbia.edu/
+> https://news.ycombinator.com/item?id=35198998
+
+https://andreasthinks.me/posts/Copbot/explainer.html
+
 https://www.lesswrong.com/posts/D7PumeYTDPfBTp3i7/the-waluigi-effect-mega-post
 > https://news.ycombinator.com/item?id=35042431
 

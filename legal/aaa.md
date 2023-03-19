@@ -66,6 +66,12 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://www.lawfareblog.com/section-230-wont-protect-chatgpt
+> https://news.ycombinator.com/item?id=35222801
+
+https://www.federalregister.gov/documents/2023/03/16/2023-05321/copyright-registration-guidance-works-containing-material-generated-by-artificial-intelligence
+> https://news.ycombinator.com/item?id=35191206
+
 https://riskybiznews.substack.com/p/risky-biz-news-canadas-tax-revenue
 > https://news.ycombinator.com/item?id=35072517
 

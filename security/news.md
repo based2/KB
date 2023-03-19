@@ -1,3 +1,23 @@
+https://research.nccgroup.com/2023/03/15/a-race-to-report-a-toctou-analysis-of-a-bug-collision-in-intel-smm/
+
+https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/
+> https://news.ycombinator.com/item?id=35204830
+
+https://isc.sans.edu/diary/Old+Backdoor+New+Obfuscation/29646
+> https://news.ycombinator.com/item?id=35188134
+
+https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html
+> https://news.ycombinator.com/item?id=35208721
+> https://news.ycombinator.com/item?id=35207787
+
+https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce node.js
+
+https://www.errno.fr/TTYPushback.html
+> https://www.reddit.com/r/netsec/comments/11no2gj/the_oldest_privesc_injecting_careless/
+
+https://research.exoticsilicon.com/articles/unbreaking_utf8_on_the_console openbsd
+> https://www.reddit.com/r/netsec/comments/11o7v86/fixing_cringeworthy_bugs_in_the_openbsd_console/
+
 https://research.aurainfosec.io/pentest/threat-on-your-desk-evil-usbc-dock/
 > https://news.ycombinator.com/item?id=35080692
 
@@ -73,6 +93,7 @@ https://vigilance.fr/vulnerabilite/Python-Cryptography-corruption-de-memoire-via
 https://www.bleepingcomputer.com/news/security/vmware-warns-admins-of-critical-carbon-black-app-control-flaw/
 
 https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-fortinet-bug-to-backdoor-servers/
+> https://www.theregister.com/2023/03/17/chinese_cyberspies_fortinet_bug/
 
 https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-esa-sma-privesc-9DVkFpJ8
 

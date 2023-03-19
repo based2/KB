@@ -1,3 +1,7 @@
+https://www.theregister.com/2023/03/19/microsoft_fix_bitlocker_bypass/
+
+https://www.theregister.com/2023/03/14/microsoft_patch_tuesday/ Outlook
+
 https://www.cyberark.com/resources/threat-research-blog/persistence-techniques-that-persist
 
 https://www.bleepingcomputer.com/news/security/citrix-fixes-severe-flaws-in-workspace-virtual-apps-and-desktops/

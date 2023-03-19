@@ -60,6 +60,9 @@ https://julien.ponge.org/blog/mozilla-public-license-v2-a-good-middleground/
 
 # Incident
 
+https://www.theregister.com/2023/03/17/john_deere_sfc_gpl/
+> https://www.reddit.com/r/programming/comments/11ui5kb/the_sfc_urges_john_deere_to_surrender_source_code/
+
 https://torrentfreak.com/company-hijacks-blenders-cc-by-licensed-film-youtube-strikes-user-221205/
 > https://news.ycombinator.com/item?id=33863073
 

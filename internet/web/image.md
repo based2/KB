@@ -56,6 +56,9 @@ https://zuru.tech/blog/the-dangers-behind-image-resizing
 https://wordasimage.github.io/Word-As-Image-Page/
 > https://news.ycombinator.com/item?id=35037217
 
+https://giannirosato.com/blog/post/image-comparison/
+> https://news.ycombinator.com/item?id=35212522
+
 # Photography
 https://www.photoprism.app/
 > https://news.ycombinator.com/item?id=34716924

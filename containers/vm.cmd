@@ -1,3 +1,7 @@
+https://www.packer.io/
+
+https://www.phoronix.com/news/Xen-Rust-Start
+
 https://sudonull.com/post/137275-Breaking-BIOS-enabling-VT-x-virtualization-support-on-Acer-Aspire-One-netbook
 > https://news.ycombinator.com/item?id=33650347
 

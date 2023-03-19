@@ -94,6 +94,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.phoronix.com/news/KDE-More-Wayland-Fixes-March
+
+https://pointieststick.com/2023/03/17/this-week-in-kde-more-wayland-fixes/
+> https://news.ycombinator.com/item?id=35207532
+
 https://www.da.vidbuchanan.co.uk/blog/netflix-on-asahi.html
 > https://news.ycombinator.com/item?id=35081510
 

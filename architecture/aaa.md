@@ -275,6 +275,15 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://neverworkintheory.org/2023/03/16/self-admitted-technical-debt.html
+> https://news.ycombinator.com/item?id=35185000
+
+https://tomasp.net/techdims/
+> https://news.ycombinator.com/item?id=35180559
+
+https://en.wikipedia.org/wiki/Zero_one_infinity_rule
+> https://news.ycombinator.com/item?id=35211499
+
 https://systemdesign.one/system-design-pastebin/
 
 https://stratoflow.com/legacy-software-systems/

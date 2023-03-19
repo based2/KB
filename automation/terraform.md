@@ -8,7 +8,10 @@ https://terraform-docs.io/
 https://thecontinuousturning.substack.com/p/terraform-at-scale
 
 https://www.runatlantis.io/
+
 https://www.hashicorp.com/blog/cdk-for-terraform-enabling-python-and-typescript-support
+
+https://www.weekly.tf/
 
 https://hyperscience.com/tech-blog/running-scheduled-jobs-in-aws/
 
@@ -161,6 +164,10 @@ https://aws.plainenglish.io/alternative-way-provision-aws-resource-via-terraform
 
 https://github.com/aws-samples/aws-scps-with-terraform
 
+https://hashnode.localstack.cloud/smooth-transition-from-aws-to-localstack-for-your-dev-environment
+
+https://terrateam.io/docs/cdktf/faq
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -181,6 +188,8 @@ https://blog.stevengonsalvez.com/github-oidc-with-terraform-and-azure
 
 https://ssmertin.com/articles/exposing-azure-storage-on-domain-apex-with-letsencrypt-ssl/
 
+https://medium.com/@ECD3/managing-terraform-state-in-azure-best-practices-for-multiple-environments-c2f28bab2316
+
 # GCP
 https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b63245e31a88
 
@@ -188,6 +197,16 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://faun.pub/demystify-terraform-provisioners-f75e738a824?gi=c06a89cc2400
+
+https://blog.jennasrunbooks.com/silence-refreshing-state-highlight-changes-in-github-actions-terraform-plan-output
+
+https://medium.com/google-cloud/open-policy-agent-evaluate-infrastructure-score-8cdf13c7cc46
+
+https://github.com/cds-snc/terraform-plan
+
+https://medium.com/@neonforge/say-goodbye-to-manual-deployments-automate-your-infrastructure-with-terraform-and-buildkite-f07d6593c0e3
+
 https://engineering.placer.ai/managing-airflow-resources-the-iac-way-with-terraform-ea5b8db573ad
 
 https://medium.com/google-cloud/open-policy-agent-evaluate-infrastructure-score-8cdf13c7cc46

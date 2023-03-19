@@ -271,6 +271,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://www.postgresql.fastware.com/blog/inside-logical-replication-in-postgresql
+> https://news.ycombinator.com/item?id=35203571
+
 https://blog.hydra.so/blog/2023-03-02-columnar-updates-and-deletes
 
 https://www.crunchydata.com/blog/postgres-query-optimization-left-join-vs-union-all

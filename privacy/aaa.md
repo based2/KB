@@ -99,6 +99,10 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.reddit.com/r/programming/comments/11ul1br/acropalypse_a_serious_privacy_vulnerability_in/ google pîxel
+
+https://www.theregister.com/2023/03/17/eufy_lawsuit/
+
 https://techcrunch.com/2023/03/10/cerebral-shared-millions-patient-data-advertisers/
 > https://news.ycombinator.com/item?id=35094866
 

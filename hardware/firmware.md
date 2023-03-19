@@ -12,6 +12,10 @@ http://www.mtmscientific.com/mios.html
 
 https://github.com/martinSusz/rkdeveloptool/wiki/Generating--quasi-reproducible-BootROM-firmware-for-Rock-Chips-SoC
 
+https://libreboot.org/news/libreboot20230319.html
+> https://news.ycombinator.com/item?id=35218868
+> https://www.phoronix.com/news/Libreboot-20230319
+
 https://libreboot.org/news/libreboot20221214.html
 > https://news.ycombinator.com/item?id=33996015
 

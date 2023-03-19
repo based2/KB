@@ -19,6 +19,10 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://www.phoronix.com/news/Linux-6.3-AMD-SEV-Throttling
+
+https://www.phoronix.com/news/AMDGPU-Linux-6.4-Steam-Deck-PWR
+
 https://www.phoronix.com/news/Intel-rcuref-Linux-Speed-Up
 > https://news.ycombinator.com/item?id=35067603
 

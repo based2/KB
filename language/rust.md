@@ -393,6 +393,8 @@ https://lkml.org/lkml/2022/9/19/1105#1105.php
 https://github.com/viperproject/prusti-dev
 > https://news.ycombinator.com/item?id=33190973
 
+https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -430,10 +432,18 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # Incident
+https://github.com/eleijonmarck/do-not-compile-this-code
+> https://news.ycombinator.com/item?id=35213400
+
 https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH host keys
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard
+> https://news.ycombinator.com/item?id=35206734
+
+https://vercel.com/blog/turborepo-migration-go-rust
+
 https://blog.rust-lang.org/2023/03/09/Rust-1.68.0.html
 > https://news.ycombinator.com/item?id=35081797
 

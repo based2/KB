@@ -16,6 +16,12 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://arstechnica.com/science/2023/03/company-launches-nuclear-waste-disposal-testing-collaboration/
+
+https://news.ycombinator.com/item?id=35216655
+
+https://news.ycombinator.com/item?id=35209911
+
 https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you
 > https://news.ycombinator.com/item?id=35060298
 

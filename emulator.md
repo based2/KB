@@ -1,5 +1,10 @@
 https://github.com/ptitSeb/box64 Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
-> 
+
+https://github.com/Isysxp/Pico_1140 pdp
+> https://news.ycombinator.com/item?id=35191372
+
+https://github.com/henrikpersson/potatis
+> https://news.ycombinator.com/item?id=35126891
 
 https://github.com/nepx/halfix x86 PC emulator that runs both natively and in the browser, via WebAssembly
 > https://news.ycombinator.com/item?id=33146693

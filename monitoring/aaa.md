@@ -83,6 +83,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # Incident
+https://vigilance.fr/vulnerabilite/Centreon-Web-multiples-vulnerabilites-40808
+
 https://status.datadoghq.com/
 > https://news.ycombinator.com/item?id=35067093
 

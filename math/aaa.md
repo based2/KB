@@ -95,6 +95,9 @@ https://www.cantorsparadise.com/elliptic-curves-the-great-mystery-61599a93c61d
 https://johncarlosbaez.wordpress.com/2023/03/06/dividing-a-square-into-7-similar-rectangles/
 > https://news.ycombinator.com/item?id=35052681
 
+https://erich-friedman.github.io/packing/index.html
+> https://news.ycombinator.com/item?id=35179598
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705

@@ -96,6 +96,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://www.math.utah.edu/~mayer/linux/bmark.html
+
 https://nwb.sh/btrfs_swapfile_hibernation/
 > https://news.ycombinator.com/item?id=35088230
 

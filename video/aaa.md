@@ -113,6 +113,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html
+> https://news.ycombinator.com/item?id=35201667
+
+https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/
+> https://news.ycombinator.com/item?id=35211171
+
 https://news.ycombinator.com/item?id=34713202
 
 https://github.com/ldodds/scifi-terminals

@@ -23,6 +23,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.theregister.com/2023/03/17/miles_guo_charged/
+
 https://labs.guard.io/streamjacking-hijacking-hundreds-of-youtube-channels-per-day-propagating-elon-musk-branded-730944bbbfe6
 
 https://www.reuters.com/technology/norway-seizes-record-58-million-crypto-stolen-by-north-korea-2023-02-16/

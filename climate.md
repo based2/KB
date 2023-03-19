@@ -67,6 +67,15 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.mit.edu/2023/low-cost-device-can-measure-air-pollution-anywhere-0316
+> https://news.ycombinator.com/item?id=35186431
+
+https://www.theguardian.com/global-development/2023/mar/09/greening-the-desert-architect-tayyun-regenerating-jordan-native-forests
+> https://news.ycombinator.com/item?id=35217139
+
+https://northernwoodlands.org/articles/article/introduction-forest-carbon
+> https://news.ycombinator.com/item?id=35175821
+
 https://www.nature.com/articles/d41586-023-00687-w
 > https://news.ycombinator.com/item?id=35081218
 

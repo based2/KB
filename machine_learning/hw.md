@@ -1,0 +1,1 @@
+https://www.phoronix.com/news/Qualcomm-QAIC-User-Space

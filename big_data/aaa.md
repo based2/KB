@@ -283,6 +283,12 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://en.wikipedia.org/wiki/Jaccard_index
+> https://news.ycombinator.com/item?id=35222649
+
+https://thenybble.de/posts/json-analysis/
+> https://news.ycombinator.com/item?id=35209982
+
 https://techcrunch.com/2023/03/09/y-combinator-backed-patterns-is-building-a-platform-to-abstract-away-data-science-busywork/
 > https://news.ycombinator.com/item?id=35108349
 

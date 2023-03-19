@@ -34,6 +34,9 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://www.oilshell.org/blog/2023/03/release-0.14.2.html
+> https://news.ycombinator.com/item?id=35193975
+
 https://www.nushell.sh/
 > https://news.ycombinator.com/item?id=35124056
 

@@ -256,11 +256,16 @@ https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias
 https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 > https://news.ycombinator.com/item?id=34338578
 
+https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2&isAllowed=y
+
 # Detextion
 https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai
+> https://news.ycombinator.com/item?id=35210015
+
 https://news.artnet.com/art-world/fake-instagram-photography-ai-generated-joe-avery-2260674
 > https://news.ycombinator.com/item?id=35019187
 
@@ -268,6 +273,14 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://huggingface.co/blog/rlhf
+
+https://xenova.github.io/transformers.js/
+> https://news.ycombinator.com/item?id=35189794
+
+https://www.tbray.org/ongoing/When/202x/2023/03/14/Binging
+> https://news.ycombinator.com/item?id=35203262
+
 https://simonwillison.net/2023/Mar/11/llama/
 > https://news.ycombinator.com/item?id=35111646
 

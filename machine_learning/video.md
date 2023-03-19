@@ -43,6 +43,8 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://sadtalker.github.io/
+
 https://www.tomshardware.com/news/testing-nvidia-broadcast-eye-contact
 
 https://www.creativebloq.com/news/ai-anime-labour-shortage

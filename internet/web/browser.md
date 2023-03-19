@@ -32,6 +32,15 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://twitter.com/brendaneich/status/1636809903494004736
+> https://news.ycombinator.com/item?id=35203390
+
+https://thomask.sdf.org/blog/2023/03/18/the-dark-defaults-of-microsoft-edge.html
+> https://news.ycombinator.com/item?id=35207830
+
+https://genodians.org/nfeske/2022-01-27-browser-odyssey
+> https://news.ycombinator.com/item?id=35206642
+
 https://news.ycombinator.com/item?id=35031072 Tell HN: Microsoft Teams is blocking Firefox Nightly
 
 https://farlow.dev/2023/03/02/hacking-the-nintendo-dsi-browser

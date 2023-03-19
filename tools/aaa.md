@@ -72,3 +72,6 @@ https://www.scriptkit.com/
 
 https://lwn.net/Articles/820829/ The state of the AWK
 > https://news.ycombinator.com/item?id=34438560
+
+https://cirw.in/blog/bracketed-paste
+> https://news.ycombinator.com/item?id=35222990

@@ -129,7 +129,18 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://cyberscoop.com/atlassian-hack-employee-data-seigedsec/
+> https://news.ycombinator.com/item?id=35223690
+
+https://dagster.io/blog/fake-stars
+> https://news.ycombinator.com/item?id=35207020
+
+https://ophionsecurity.com/blog/access-organization-secrets-in-github
+> https://www.jenkins.io/security/advisory/2023-03-08/
+> https://www.reddit.com/r/netsec/comments/11nss9y/unauthorized_access_to_organization_secrets_in/
+
 https://blog.aquasec.com/jenkins-server-vulnerabilities
+> https://www.reddit.com/r/netsec/comments/11m090x/coreplague_severe_vulnerabilities_in_jenkins/
 
 https://thenewstack.io/xss-vulnerability-discovered-in-backstage-software-catalog/
 
@@ -324,6 +335,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/540
+> https://news.ycombinator.com/item?id=35207641
+
 https://blog.cachix.org/posts/2023-03-08-cachix-1-3-uploads-unleashed/
 > https://news.ycombinator.com/item?id=35067224
 

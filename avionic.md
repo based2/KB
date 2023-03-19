@@ -27,6 +27,10 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet
+
+https://www.lofiatc.com/?icao=panc
+
 https://news.ycombinator.com/item?id=34895061
 
 https://spyballoonsim.hornetsnestguild.com/

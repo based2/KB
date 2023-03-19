@@ -64,6 +64,8 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://news.ycombinator.com/item?id=35207390
+
 http://ascii.textfiles.com/archives/5443
 > https://news.ycombinator.com/item?id=34665878
 
