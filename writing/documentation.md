@@ -47,6 +47,9 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://github.com/context-labs/autodoc ai ts
+> https://news.ycombinator.com/item?id=35297766
+
 https://textual.textualize.io/
 > https://news.ycombinator.com/item?id=35123383
 

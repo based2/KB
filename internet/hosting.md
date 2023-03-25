@@ -56,6 +56,7 @@ https://github.com/meienberger/runtipi
 
 https://forum.yunohost.org/t/yunohost-11-0-bullseye-release-sortie-de-yunohost-11-0-bullseye/20590
 > https://linuxfr.org/news/sortie-de-yunohost-11-0-bullseye
+> > https://news.ycombinator.com/item?id=35300482
 
 https://github.com/GetPublii/Publii Desktop Static-Site CMS, gpl
 > https://news.ycombinator.com/item?id=32204408

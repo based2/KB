@@ -62,3 +62,8 @@ https://github.com/vercel/satori Convert HTML and CSS to SVG
 https://yuanchuan.dev/experimenting-a-new-syntax-to-write-svg
 
 https://simblob.blogspot.com/2023/01/making-of-circle-drawing.html
+
+https://www.svgbackgrounds.com/
+
+https://tinyvg.tech/
+> https://news.ycombinator.com/item?id=35227635

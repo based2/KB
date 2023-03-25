@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=35229045 Where can I find a primer on how computers boot?
+
 https://github.com/oreboot/oreboot rust
 > https://github.com/matklad/cargo-xtask/
 

@@ -170,11 +170,20 @@ https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
 https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/
+> https://github.com/kudelskisecurity/ecdsa-polynomial-nonce-recurrence-attack
+> https://www.reddit.com/r/crypto/comments/11k37nn/polynonce_a_novel_attack_against_ecdsa/
+
+https://trustedcomputinggroup.org/wp-content/uploads/TCGVRT0007-Advisory-FINAL.pdf
+> https://www.reddit.com/r/crypto/comments/11lo5jr/tpm_20_library_memory_corruption_vulnerabilities/
+
+https://eprint.iacr.org/2023/331 A Vulnerability in Implementations of SHA-3, SHAKE, EdDSA, and Other NIST-Approved Algorithm
 
 https://eprint.iacr.org/2023/318 Transformation for Lifting Discrete Logarithm Based Cryptography to Post-Quantum Cryptography
 
 https://stream.syscoi.com/2019/05/14/tables-of-soyga-the-first-cellular-automaton-anders-sandberg/
 > https://news.ycombinator.com/item?id=35023440
+
+https://cryptologie.net/article/587/a-new-series-of-videos-on-zero-knowledge-proof-composition-and-recursion-part-1/
 
 https://arxiv.org/abs/cond-mat/0208453 Neural Cryptography
 > https://news.ycombinator.com/item?id=34787539

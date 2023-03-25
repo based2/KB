@@ -1,3 +1,6 @@
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23415 Windows Critical ICMP Remote Code Execution Vulnerability
+> https://news.ycombinator.com/item?id=35229631
+
 https://www.theregister.com/2023/03/19/microsoft_fix_bitlocker_bypass/
 
 https://www.theregister.com/2023/03/14/microsoft_patch_tuesday/ Outlook

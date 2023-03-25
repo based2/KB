@@ -1,3 +1,23 @@
+https://www.hackster.io/news/researchers-spot-silicon-level-hardware-trojans-in-chips-release-their-algorithm-for-all-to-try-ba00bbd56248
+> https://news.ycombinator.com/item?id=35305264
+
+https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/
+> https://news.ycombinator.com/item?id=35285390
+
+https://arxiv.org/abs/2211.07613 Fundamentally Understanding and Solving RowHammer
+> https://news.ycombinator.com/item?id=35302597
+
+https://www.openbsd.org/papers/csw2023.pdf Synthetic Memory Protections An update on ROP Mitigations
+> https://news.ycombinator.com/item?id=35302767
+
+https://www.bleepingcomputer.com/news/security/cloudpanel-installations-use-the-same-ssl-certificate-private-key/
+
+https://vigilance.fr/vulnerabilite/NetBackup-Appliance-execution-de-code-via-SSH-Restriction-Bypass-40861
+
+https://vigilance.fr/vulnerabilite/Samba-vulnerabilite-devoilee-le-29-03-2023-40846
+
+https://developer.mozilla.org/en-US/docs/Web/Security/Subresource_Integrity
+
 https://research.nccgroup.com/2023/03/15/a-race-to-report-a-toctou-analysis-of-a-bug-collision-in-intel-smm/
 
 https://www.tomanthony.co.uk/blog/googles-manual-actions-hack/
@@ -29,6 +49,7 @@ https://arstechnica.com/gadgets/2023/03/customers-fume-as-hp-blocks-third-party-
 https://www.bleepingcomputer.com/news/security/sonicwall-devices-infected-by-malware-that-survives-firmware-upgrades/
 
 https://www.bleepingcomputer.com/news/security/veeam-fixes-bug-that-lets-hackers-breach-backup-infrastructure/
+> https://www.bleepingcomputer.com/news/security/exploit-released-for-veeam-bug-allowing-cleartext-credential-theft/
 
 https://cyberlibrarian.ca/blog/2023/03/04/printer-honeypot-part1.html
 > https://news.ycombinator.com/item?id=35074856

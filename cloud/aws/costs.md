@@ -26,3 +26,5 @@ https://pauley.me/post/2022/spot-instance-pricing/
 https://bootcamp.uxdesign.cc/how-a-single-developer-dropped-aws-costs-by-90-then-disappeared-2b46a115103a
 > https://news.ycombinator.com/item?id=34315499
 
+https://carlos.bueno.org/2023/03/aws-dismal-guide.html
+

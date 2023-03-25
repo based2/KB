@@ -1,6 +1,9 @@
 
 
-# 
+#
+https://obdev.at/products/littlesnitch-mini/index.html
+> https://news.ycombinator.com/item?id=35267707
+
 https://support.apple.com/en-en/guide/security/secbbd20b00b/web
 > https://news.ycombinator.com/item?id=35056379
 

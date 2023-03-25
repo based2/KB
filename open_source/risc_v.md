@@ -1,6 +1,9 @@
 https://github.com/LekKit/RVVM
 > https://news.ycombinator.com/item?id=35009545
 
+https://tinker-board.asus.com/product/tinker-v.html?s=09
+> https://news.ycombinator.com/item?id=35232326
+
 https://muxup.com/2023q1/whats-new-for-risc-v-in-llvm-16
 > https://news.ycombinator.com/item?id=35215826
 

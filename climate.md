@@ -67,6 +67,12 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://industrydecarbonization.com/news/making-steel-with-electricity.html
+> https://news.ycombinator.com/item?id=35300437
+
+https://www.theguardian.com/environment/2023/mar/20/ipcc-climate-crisis-report-delivers-final-warning-on-15c
+> https://news.ycombinator.com/item?id=35231012
+
 https://news.mit.edu/2023/low-cost-device-can-measure-air-pollution-anywhere-0316
 > https://news.ycombinator.com/item?id=35186431
 

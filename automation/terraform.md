@@ -197,6 +197,8 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic
+
 https://faun.pub/demystify-terraform-provisioners-f75e738a824?gi=c06a89cc2400
 
 https://blog.jennasrunbooks.com/silence-refreshing-state-highlight-changes-in-github-actions-terraform-plan-output

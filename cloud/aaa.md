@@ -239,6 +239,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://techcrunch.com/2023/03/20/the-cloud-backlash-has-begun-why-big-data-is-pulling-compute-back-on-premises/
+> https://news.ycombinator.com/item?id=35235775
+
 https://www.nspa.nato.int/news/2023/nspa-to-support-and-leverage-luxembourg-cyber-defence-cloud-lcdc-project
 
 https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8

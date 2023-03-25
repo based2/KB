@@ -71,6 +71,11 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.theregister.com/2023/03/23/tails_511_securesurfing_live_distro/
+
+https://asahilinux.org/2023/03/road-to-vulkan/
+> https://news.ycombinator.com/item?id=35233479
+
 https://www.theregister.com/2023/03/17/first_beta_of_fedora_38/
 
 https://serpentos.com/

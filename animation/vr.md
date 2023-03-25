@@ -1,3 +1,6 @@
+https://nymag.com/intelligencer/article/mark-zuckerberg-metaverse-meta-horizon-worlds.html
+> https://news.ycombinator.com/item?id=35231159
+
 https://globalgroundsupport.com/vr-deicer-simulator/
 > https://news.ycombinator.com/item?id=35086869
 

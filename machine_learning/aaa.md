@@ -33,6 +33,8 @@ https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/
 
 https://github.com/dair-ai/Prompt-Engineering-Guide
 
+https://systemds.apache.org/docs/3.1.0/
+
 # Tools
 ## TensorFlow
 https://ai.googleblog.com/2021/06/frill-on-device-speech-representations.html
@@ -263,6 +265,12 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://openai.com/blog/march-20-chatgpt-outage
+> https://news.ycombinator.com/item?id=35291112
+
+https://github.com/greshake/llm-security
+> https://news.ycombinator.com/item?id=35301657
+
 https://www.theguardian.com/technology/2023/mar/16/voice-system-used-to-verify-identity-by-centrelink-can-be-fooled-by-ai
 > https://news.ycombinator.com/item?id=35210015
 
@@ -273,6 +281,23 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://reflect.app/
+> https://news.ycombinator.com/item?id=35303670
+
+https://www.technologyreview.com/2023/03/25/1070275/chatgpt-revolutionize-economy-decide-what-looks-like/
+> https://news.ycombinator.com/item?id=35305887
+
+https://github.com/determined-ai/determined hpe
+> https://news.ycombinator.com/item?id=35286389
+> > https://slurm.schedmd.com/documentation.html
+
+https://react-lm.github.io/ ReAct: Synergizing Reasoning and Acting in Language Models
+
+https://arxiv.org/abs/2303.09752 CoLT5: Faster Long-Range Transformers with Conditional Computation
+
+https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+> https://news.ycombinator.com/item?id=35227358
+
 https://huggingface.co/blog/rlhf
 
 https://xenova.github.io/transformers.js/

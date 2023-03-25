@@ -99,6 +99,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://news.ycombinator.com/item?id=35289979
+
+https://www.theregister.com/2023/03/23/south_korea_privacy_fines_mcdonalds/
+
+https://petsymposium.org/popets/2023/popets-2023-0013.php
+
 https://www.reddit.com/r/programming/comments/11ul1br/acropalypse_a_serious_privacy_vulnerability_in/ google pîxel
 
 https://www.theregister.com/2023/03/17/eufy_lawsuit/

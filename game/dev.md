@@ -109,6 +109,15 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://garden.bradwoods.io/notes/design/juice
+> https://news.ycombinator.com/item?id=35273139
+
+https://www.ambient.run/post/introducing-ambient
+
+https://grantshandy.github.io/posts/raycasting/
+
+https://systemdesign.one/leaderboard-system-design/
+
 https://news.ycombinator.com/item?id=35074357
 
 https://dukope.itch.io/mars-after-midnight/devlog/495856/gameplay-loop

@@ -86,6 +86,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://www.theverge.com/2023/3/25/23656336/microsoft-chatbot-rivals-stop-using-bing-search-index
+
 https://detailed.com/google-control/
 > https://news.ycombinator.com/item?id=35072537
 

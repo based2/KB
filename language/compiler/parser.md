@@ -1,5 +1,8 @@
 https://arxiv.org/pdf/2005.06444.pdf Pika parsing: reformulating packrat parsing as a dynamic programmingalgorithm solves the left recursion and error recovery problems
 
+https://github.com/xtofalex/naja-verilog
+> https://news.ycombinator.com/item?id=35287901
+
 https://norswap.com/pubs/thesis.pdf
 > https://news.ycombinator.com/item?id=27143732
 

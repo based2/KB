@@ -21,6 +21,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+http://www.pdos.org/
+> https://news.ycombinator.com/item?id=35300259
+
 https://meatfighter.com/tetromino-computer/
 
 https://www.hyperion-entertainment.com/index.php/news

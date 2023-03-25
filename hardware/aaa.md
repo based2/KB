@@ -93,6 +93,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://blog.jgc.org/2023/03/barebones-project-showing-how-to-get.html
+> https://news.ycombinator.com/item?id=35304839
+
 https://chipsandcheese.com/2023/03/12/a-peek-at-sapphire-rapids/
 > https://news.ycombinator.com/item?id=35126110
 

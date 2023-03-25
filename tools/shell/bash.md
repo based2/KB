@@ -116,3 +116,6 @@ https://mywiki.wooledge.org/BashPitfalls
 
 https://github.com/remileduc/sherver
 > https://news.ycombinator.com/item?id=29648135
+
+https://argbash.dev/
+> https://news.ycombinator.com/item?id=35230766

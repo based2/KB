@@ -25,6 +25,8 @@ https://github.com/SNCFdevelopers/Pypixgrid
 https://leafletjs.com/
 > https://news.ycombinator.com/item?id=28203242
 
+https://sedona.apache.org/latest-snapshot/
+
 # Tiles cache
 https://nzjrs.github.io/osm-gps-map/
 

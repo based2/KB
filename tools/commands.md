@@ -44,6 +44,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://www.commandlinefu.com/commands/browse
+> https://news.ycombinator.com/item?id=35228884
+
 https://xeiaso.net/blog/%F0%9F%A5%BA sudo
 > https://news.ycombinator.com/item?id=34454165
 

@@ -32,6 +32,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://en.wikipedia.org/wiki/Max_q
+
+https://www.space.com/relativity-space-terran-1-test-launch-failure
+> https://news.ycombinator.com/item?id=35277245
+
 https://thoriumsim.com/ A Starship Bridge Simulator
 > https://news.ycombinator.com/item?id=34984973
 

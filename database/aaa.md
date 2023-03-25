@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.bitesizedengineering.com/p/database-isolation-levels-explained
+> https://news.ycombinator.com/item?id=35300185
+
 https://build-your-own.org/database/
 > https://news.ycombinator.com/item?id=35212654
 

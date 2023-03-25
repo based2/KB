@@ -6,3 +6,5 @@ https://aws.amazon.com/en/blogs/aws/introducing-a-public-registry-for-aws-cloudf
 https://themythicalengineer.com/setup-aws-cloudwatch-monitoring-and-alarms.html
 
 https://www.vantage.sh/blog/using-cloudformation-stacksets-to-onboard-hundreds-of-member-aws-accounts
+
+https://github.com/rogerwelin/cfnctl

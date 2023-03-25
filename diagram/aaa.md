@@ -50,7 +50,12 @@ http://resurgencewebdesign.com/jschema/
 # Grammar
 https://dundalek.com/grammkit/
 
+https://news.ycombinator.com/item?id=35224439
+
 #
+https://www.ilograph.com/blog/posts/concrete-diagramming-models/
+> https://news.ycombinator.com/item?id=35302395
+
 https://d2lang.com/blog/dark-mode/
 > https://www.reddit.com/r/programming/comments/11io6sn/dark_mode_responsive_diagrams/
 

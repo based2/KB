@@ -11,6 +11,9 @@ https://blog.apnic.net/2019/08/23/what-can-you-learn-from-an-ip-address/
 
 https://cidr.xyz/
 
+https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/
+> https://news.ycombinator.com/item?id=35231276
+
 # IPv6
 https://news.ycombinator.com/item?id=32894168
 

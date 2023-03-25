@@ -43,6 +43,9 @@ https://www.jetpack.io/blog/devbox-0-2-0/
 
 https://news.ycombinator.com/item?id=35039244
 
+https://tinkering.xyz/nix-docs/
+> https://news.ycombinator.com/item?id=34987042
+
 # Incident
 https://www.scmagazine.com/analysis/devops/npm-repository-15000-phishing-packages
 > https://news.ycombinator.com/item?id=34925171
@@ -60,6 +63,9 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 #
+https://spack.io/ Scientific software package manager for supercomputers, Linux, and macOS
+> https://news.ycombinator.com/item?id=35237269
+
 https://news.ycombinator.com/item?id=34990057
 
 https://github.com/universe-software/shradiko

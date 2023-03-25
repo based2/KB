@@ -95,6 +95,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/microsoft/TypeScript/issues/42151
+> https://news.ycombinator.com/item?id=35233429
+
 https://artsy.github.io/blog/2023/03/01/typescript-magic/
 > 
 

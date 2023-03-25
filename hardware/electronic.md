@@ -46,6 +46,11 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors
+> https://news.ycombinator.com/item?id=35285769
+
+https://github.com/pfalstad/circuitjs1
+
 https://lcamtuf.substack.com/p/setting-up-an-electronics-workshop
 
 https://news.ycombinator.com/item?id=34832047

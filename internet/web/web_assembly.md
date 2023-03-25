@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us
+> https://news.ycombinator.com/item?id=35236272
+
 https://thenewstack.io/performance-measured-how-good-is-your-webassembly/
 
 https://github.com/kettle11/tangle Radically simple multiplayer / networked WebAssembly

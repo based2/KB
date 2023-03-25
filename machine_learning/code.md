@@ -47,6 +47,9 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://github.com/sahil280114/codealpaca
+> https://news.ycombinator.com/item?id=35302858
+
 https://news.ycombinator.com/item?id=35191303
 
 https://github.com/rareranger/chatgpt-linux-assistant

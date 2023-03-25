@@ -301,6 +301,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://ds-fusion.github.io/ font
+> https://news.ycombinator.com/item?id=35226586
+
 https://mingukkang.github.io/GigaGAN/
 > https://news.ycombinator.com/item?id=35089661
 

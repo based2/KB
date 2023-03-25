@@ -74,6 +74,11 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
+> https://news.ycombinator.com/item?id=35285521
+
+https://news.ycombinator.com/item?id=35299951
+
 https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops
 > https://news.ycombinator.com/item?id=35010447
 

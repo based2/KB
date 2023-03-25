@@ -14,6 +14,9 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://www.phoronix.com/review/orange-pi-5
+> https://news.ycombinator.com/item?id=35298339
+
 https://kentindell.github.io/2021/03/05/pico-priority-inversion/
 
 https://www.instructables.com/DIY-Raspberry-Orange-Pi-NAS-That-Really-Looks-Like/

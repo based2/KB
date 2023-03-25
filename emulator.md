@@ -1,5 +1,8 @@
 https://github.com/ptitSeb/box64 Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices
 
+https://previous.unixdude.net/ next
+> https://news.ycombinator.com/item?id=35227600
+
 https://github.com/Isysxp/Pico_1140 pdp
 > https://news.ycombinator.com/item?id=35191372
 

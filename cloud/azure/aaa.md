@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.theregister.com/2023/03/23/microsoft_admits_azure_resource_manager/
+
 https://news.ycombinator.com/item?id=34643157 Microsoft 365 trial offer blocks access to Windows 10 desktops
 
 https://www.theregister.com/2023/01/30/wan_router_ip_address_change/
@@ -86,6 +88,8 @@ https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37968
 
 # News
+https://www.bleepingcomputer.com/news/security/new-cisa-tool-detects-hacking-activity-in-microsoft-cloud-services/
+
 https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/
 > https://news.ycombinator.com/item?id=33194974
 

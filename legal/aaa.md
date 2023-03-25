@@ -66,6 +66,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://www.bloomberg.com/news/articles/2023-03-20/using-chatgpt-at-work-nearly-half-of-firms-are-drafting-policies-on-its-use?leadSource=uverify%20wall
+> https://news.ycombinator.com/item?id=35232975
+
 https://www.lawfareblog.com/section-230-wont-protect-chatgpt
 > https://news.ycombinator.com/item?id=35222801
 

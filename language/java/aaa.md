@@ -44,6 +44,9 @@ https://mizosoft.github.io/methanol/
 > https://www.reddit.com/r/java/comments/nctvb6/response_caching_with_javas_http_client_methanol/
 
 # JEE
+https://github.com/minborg/articles/tree/jep442/2023/March/22-jep442-FFM-Third-Preview
+> https://news.ycombinator.com/item?id=35233484
+
 https://jakarta.ee/news/jakarta-ee-10-released/
 > https://news.ycombinator.com/item?id=32938457
 

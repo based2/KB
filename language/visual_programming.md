@@ -71,3 +71,6 @@ https://sunmao-ui.com/
 
 https://jasonmorrissc.github.io/post/2022-02-24_no-code/
 > https://news.ycombinator.com/item?id=31843378
+
+https://bergie.iki.fi/blog/fbp-ai-human-collaboration/
+> https://news.ycombinator.com/item?id=35229222

@@ -9,6 +9,14 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://github.com/andyk/recursive_llm
+> https://news.ycombinator.com/item?id=35234276
+
+https://newatlas.com/technology/stanford-alpaca-cheap-gpt/
+> https://news.ycombinator.com/item?id=35238338
+
+https://promptperfect.jina.ai/
+
 https://github.com/ymosy/chatbox
 
 https://viper.cs.columbia.edu/

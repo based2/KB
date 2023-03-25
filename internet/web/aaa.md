@@ -112,6 +112,9 @@ https://news.ycombinator.com/item?id=33654177
 
 https://shot-scraper.datasette.io/en/stable/
 
+https://jamesturk.github.io/scrapeghost/ chatgpt
+> https://news.ycombinator.com/item?id=35305655
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 
@@ -122,6 +125,8 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://www.useragents.me/
+
 https://github.com/t-mart/kill-sticky
 
 https://localfirstweb.dev/

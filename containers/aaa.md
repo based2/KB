@@ -43,6 +43,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 # News
+https://github.com/fafrd/aquarium ai
+> https://news.ycombinator.com/item?id=35304078
+
 https://iximiuz.com/en/posts/containers-vs-pods/
 > https://cloud.redhat.com/blog/the-dawn-of-openshift-sandboxed-containers-overview
 
