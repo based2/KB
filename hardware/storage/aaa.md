@@ -10,6 +10,8 @@ https://github.com/fstanis/awesome-webdav
 https://sabre.io/
 > https://news.ycombinator.com/item?id=34727223
 
+https://github.com/9001/copyparty
+
 # Incident
 https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843

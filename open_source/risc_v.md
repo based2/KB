@@ -1,6 +1,9 @@
 https://github.com/LekKit/RVVM
 > https://news.ycombinator.com/item?id=35009545
 
+https://github.com/OpenXiangShan/XiangShan
+> https://news.ycombinator.com/item?id=35312960
+
 https://tinker-board.asus.com/product/tinker-v.html?s=09
 > https://news.ycombinator.com/item?id=35232326
 

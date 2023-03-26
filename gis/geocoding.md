@@ -15,6 +15,11 @@ https://ai.googleblog.com/2021/09/efficient-partitioning-of-road-networks.html
 http://www.paulplowman.com/stuff/house-address-twins-proximity/
 > https://news.ycombinator.com/item?id=31797222
 
+https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems
+> https://news.ycombinator.com/item?id=35312238
+
+https://blog.opencagedata.com/post/dont-believe-chatgpt
+
 # Reverse
 https://github.com/thampiman/reverse-geocoder
 > https://news.ycombinator.com/item?id=9281222

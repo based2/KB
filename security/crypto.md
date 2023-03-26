@@ -169,6 +169,8 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.schneier.com/blog/archives/2023/02/side-channel-attack-against-crystals-kyber.html
+
 https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/
 > https://github.com/kudelskisecurity/ecdsa-polynomial-nonce-recurrence-attack
 > https://www.reddit.com/r/crypto/comments/11k37nn/polynonce_a_novel_attack_against_ecdsa/

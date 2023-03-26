@@ -38,6 +38,9 @@ https://www.karltarvas.com/2020/10/25/macos-app-sandboxing-via-sandbox-exec.html
 https://www.puredarwin.org/
 > https://news.ycombinator.com/item?id=31943198
 
+https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.html gnustep
+> https://news.ycombinator.com/item?id=35311293
+
 # Security
 https://support.apple.com/fr-fr/guide/security/sec469d47bd8/web
 

@@ -65,6 +65,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.bbc.com/news/world-us-canada-65060733 Utah is first US state to limit teen social media access
+
 https://eugeneyan.com/writing/content-moderation/
 
 https://ahelwer.ca/post/2023-03-08-google-groups/

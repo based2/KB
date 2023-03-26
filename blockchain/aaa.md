@@ -50,6 +50,8 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://www.yahoo.com/now/california-dmv-puts-car-titles-140000450.html
+
 https://www.fnlondon.com/articles/banks-should-abandon-their-blockchain-fantasies-20230209
 
 https://fortune.com/crypto/2023/01/26/california-announces-dmv-run-blockchain-through-partnership-with-tezos/

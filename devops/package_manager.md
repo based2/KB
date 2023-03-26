@@ -47,6 +47,11 @@ https://tinkering.xyz/nix-docs/
 > https://news.ycombinator.com/item?id=34987042
 
 # Incident
+https://jfrog.com/blog/attackers-are-starting-to-target-net-developers-with-malicious-code-nuget-packages/
+> https://www.reddit.com/r/netsec/comments/11wltir/attackers_are_starting_to_target_net_developers/
+
+https://snyk.io/blog/malicious-packages-open-source-ecosystems/
+
 https://www.scmagazine.com/analysis/devops/npm-repository-15000-phishing-packages
 > https://news.ycombinator.com/item?id=34925171
 

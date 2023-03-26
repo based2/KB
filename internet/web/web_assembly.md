@@ -76,6 +76,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://thenewstack.io/javascript-vs-wasm-which-is-more-energy-efficient-and-faster/
+
 https://www.wingolog.org/archives/2023/03/20/a-world-to-win-webassembly-for-the-rest-of-us
 > https://news.ycombinator.com/item?id=35236272
 

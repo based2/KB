@@ -103,6 +103,9 @@ https://www.pinecone.io/learn/locality-sensitive-hashing-random-projection/
 
 https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 
+# 
+https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
+
 # News
 https://orlp.net/blog/worlds-smallest-hash-table/
 > https://news.ycombinator.com/item?id=35037690

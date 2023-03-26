@@ -17,6 +17,8 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://securitylabs.datadoghq.com/articles/container-security-fundamentals-part-2/
+
 https://about.gitlab.com/releases/2022/12/22/gitlab-15-7-released/#gitlab-runner-157
 
 https://www.reddit.com/r/netsec/comments/z4gf0w/containers_rootful_rootless_privileged_and_super/

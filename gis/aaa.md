@@ -218,6 +218,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://theundeniablestreetview.com/ ua
+> https://news.ycombinator.com/item?id=35312352
+
 https://protomaps.com/blog/serverless-maps-now-open-source
 > https://news.ycombinator.com/item?id=35089776
 

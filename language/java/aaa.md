@@ -267,7 +267,12 @@ https://github.com/ufuu/JDK10 1.0
 https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 > https://news.ycombinator.com/item?id=34255996
 
+#
+https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
+
 # News
+https://www.infoworld.com/article/3686611/oracle-per-employee-java-pricing-causes-concern.html
+
 https://pkolaczk.github.io/dont-share-file-channels/
 > https://news.ycombinator.com/item?id=35125962
 

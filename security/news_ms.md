@@ -1,3 +1,16 @@
+https://www.theregister.com/2023/03/24/microsoft_snipping_tool_fix/
+
+https://krebsonsecurity.com/2023/03/microsoft-patch-tuesday-march-2023-edition/
+
+https://msrc.microsoft.com/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability/
+> https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/
+
+https://blog.doyensec.com//2023/03/21/windows-installer.html
+> https://www.reddit.com/r/netsec/comments/11xk542/windows_installer_eop_cve202321800/
+
+https://pvs-studio.com/en/blog/posts/csharp/1038/
+> https://www.reddit.com/r/netsec/comments/11xdtu5/converting_string_to_enum_at_the_cost_of_50_gb/
+
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-23415 Windows Critical ICMP Remote Code Execution Vulnerability
 > https://news.ycombinator.com/item?id=35229631
 

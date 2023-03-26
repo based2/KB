@@ -71,6 +71,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://bigthink.com/hard-science/high-energy-neutrinos-rare-cosmic-events/
+> https://news.ycombinator.com/item?id=35304097
+
 https://news.ycombinator.com/item?id=34887594
 
 https://news.ycombinator.com/item?id=34620659

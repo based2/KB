@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.theregister.com/2023/03/24/microsoft_geolocation_fail_uzbekistan/
+
 https://www.theregister.com/2023/03/23/microsoft_admits_azure_resource_manager/
 
 https://news.ycombinator.com/item?id=34643157 Microsoft 365 trial offer blocks access to Windows 10 desktops

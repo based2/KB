@@ -314,6 +314,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html
+> https://news.ycombinator.com/item?id=35305546
+
 https://tratt.net/laurie/blog/2023/how_big_should_a_programming_language_be.html
 > https://news.ycombinator.com/item?id=35286221
 

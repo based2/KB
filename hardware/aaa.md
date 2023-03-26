@@ -93,6 +93,11 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.theregister.com/2023/03/24/huawei_eda_14nm_chips/
+
+https://spectrum.ieee.org/inverse-lithography
+> https://news.ycombinator.com/item?id=35309081
+
 https://blog.jgc.org/2023/03/barebones-project-showing-how-to-get.html
 > https://news.ycombinator.com/item?id=35304839
 

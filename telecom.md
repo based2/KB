@@ -145,6 +145,10 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://krebsonsecurity.com/2023/03/why-you-should-opt-out-of-sharing-data-with-your-mobile-provider/
+
+https://www.theverge.com/2023/3/14/23639450/amazon-project-kuiper-satellite-dish-internet
+
 https://arstechnica.com/gadgets/2023/03/qualcomm-wants-to-replace-esims-with-isims-has-the-first-certified-soc/
 
 https://www.heise.de/news/Quantenkommunikation-Deutsche-Telekom-leitet-Aufbau-der-EU-Hochsicherheitsnetze-7520669.html

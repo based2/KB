@@ -94,6 +94,9 @@ https://advancedweb.hu/how-to-remove-the-rds-master-user-password-from-the-terra
 
 https://infosecwriteups.com/using-pgp-to-enhance-security-and-non-repudiation-of-terraform-ops-93c0b4bb209f
 
+https://sysdig.com/blog/terraform-security-best-practices/
+> https://www.reddit.com/r/netsec/comments/11xj4j2/guide_terraform_security/
+
 # CI/CD
 https://docs.gitlab.com/ee/user/infrastructure/iac/
 > https://gitlab.com/gitlab-org/terraform-images

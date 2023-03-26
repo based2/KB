@@ -124,6 +124,9 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://www.youtube.com/watch?v=63WcU7LBKFg
+> https://news.ycombinator.com/item?id=35303934
+
 https://corecursive.com/shipping-graphing-calculator/
 > https://news.ycombinator.com/item?id=34639890
 

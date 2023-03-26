@@ -335,6 +335,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://blog.container-solutions.com/paula-kennedy-on-platform-team-responsibilities-patterns-and-anti-patterns
+
 https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html
 
 https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/ Gitea Actions, Restrict access token permissions, Secrets

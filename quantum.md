@@ -84,6 +84,12 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://arstechnica.com/science/2023/02/google-shows-current-generation-qubits-good-enough-for-error-correction/
+
+https://phys.org/news/2023-02-flip-flop-qubit-quantum-bit-silicon.html
+
+https://phys.org/news/2023-02-quantum.html
+
 https://www.nature.com/articles/d41586-022-04532-4
 > https://news.ycombinator.com/item?id=34901474
 

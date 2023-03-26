@@ -135,6 +135,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.math.columbia.edu/~woit/wordpress/?p=674
+
 https://tromp.github.io/cl/cl.html
 
 https://www.diegovera.org/projects

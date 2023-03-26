@@ -44,6 +44,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://alexsaveau.dev/blog/projects/performance/files/fuc/fast-unix-commands
+> https://news.ycombinator.com/item?id=35307538
+
 https://www.commandlinefu.com/commands/browse
 > https://news.ycombinator.com/item?id=35228884
 

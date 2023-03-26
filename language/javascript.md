@@ -65,6 +65,8 @@ https://tauri.app/
 
 https://github.com/webfansplz/temir
 
+https://thenewstack.io/vue-2023/
+
 https://blog.vuejs.org/posts/2022-year-in-review.html
 
 ## ReactJS - Facebook
@@ -551,6 +553,12 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://sailsjs.com/ mvc node.js
+
+https://blog.logrocket.com/exploring-competitive-features-node-js-v18-v19/
+
+https://dioxmio.medium.com/typescript-is-overrated-802ab6e3b82b
+
 https://github.com/web-infra-dev/rspack
 > https://news.ycombinator.com/item?id=35089240
 

@@ -71,6 +71,12 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://linuxiac.com/opensuse-grows-in-popularity/
+> https://news.ycombinator.com/item?id=35313903
+
+https://blog.mnus.de/2023/03/archlinux-zfs/
+> https://news.ycombinator.com/item?id=35313943
+
 https://www.theregister.com/2023/03/23/tails_511_securesurfing_live_distro/
 
 https://asahilinux.org/2023/03/road-to-vulkan/

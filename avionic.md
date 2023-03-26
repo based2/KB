@@ -27,6 +27,9 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://www.elidourado.com/p/50-years-supersonic-ban
+> https://news.ycombinator.com/item?id=35304241
+
 https://kottke.org/13/11/plane-landstakes-off-in-only-20-feet
 
 https://www.lofiatc.com/?icao=panc

@@ -85,6 +85,9 @@ https://github.com/alexcrist/autotone pitch
 https://muzic-sage.vercel.app/
 > https://news.ycombinator.com/item?id=34448334
 
+https://google-research.github.io/seanet/musiclm/examples/
+> https://github.com/lucidrains/musiclm-pytorch
+
 https://github.com/riffusion/riffusion/releases/tag/v0.3.0
 
 # speech2Text

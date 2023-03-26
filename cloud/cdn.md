@@ -22,3 +22,5 @@ https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889
 
 https://github.com/leandromoreira/cdn-up-and-running
 > https://news.ycombinator.com/item?id=34137065
+
+https://www.fastly.com/blog/fast-forward-lets-build-the-good-internet-together

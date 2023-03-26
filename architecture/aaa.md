@@ -260,6 +260,8 @@ https://github.blog/2022-11-28-to-infinity-and-beyond-enabling-the-future-of-git
 https://apirank.dev/
 > https://news.ycombinator.com/item?id=35084108
 
+https://www.informit.com/articles/article.aspx?p=3171761
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966
@@ -275,6 +277,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.infoq.com/articles/framework-architectural-decisions/
+> https://news.ycombinator.com/item?id=35300755
+
 https://neverworkintheory.org/2023/03/16/self-admitted-technical-debt.html
 > https://news.ycombinator.com/item?id=35185000
 

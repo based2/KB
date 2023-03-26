@@ -34,6 +34,8 @@ https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearl
 weatherspark .no
 
 # News
+https://weathermachine.io/
+
 https://www.nature.com/articles/s41612-020-00143-w
 > https://news.ycombinator.com/item?id=34568159
 

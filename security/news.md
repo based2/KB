@@ -1,3 +1,10 @@
+https://www.schneier.com/blog/archives/2023/02/ais-as-computer-hackers.html
+
+https://www.ic3.gov/Media/Y2022/PSA221221
+
+https://arxiv.org/abs/2303.12340
+> https://www.theregister.com/2023/03/23/critical_infrastructure_hardware_flaws/
+
 https://www.hackster.io/news/researchers-spot-silicon-level-hardware-trojans-in-chips-release-their-algorithm-for-all-to-try-ba00bbd56248
 > https://news.ycombinator.com/item?id=35305264
 
@@ -29,6 +36,7 @@ https://isc.sans.edu/diary/Old+Backdoor+New+Obfuscation/29646
 https://www.da.vidbuchanan.co.uk/blog/exploiting-acropalypse.html
 > https://news.ycombinator.com/item?id=35208721
 > https://news.ycombinator.com/item?id=35207787
+> https://github.com/infobyte/CVE-2023-21036
 
 https://mizu.re/post/ejs-server-side-prototype-pollution-gadgets-to-rce node.js
 
@@ -50,6 +58,8 @@ https://www.bleepingcomputer.com/news/security/sonicwall-devices-infected-by-mal
 
 https://www.bleepingcomputer.com/news/security/veeam-fixes-bug-that-lets-hackers-breach-backup-infrastructure/
 > https://www.bleepingcomputer.com/news/security/exploit-released-for-veeam-bug-allowing-cleartext-credential-theft/
+> > https://www.horizon3.ai/veeam-backup-and-replication-cve-2023-27532-deep-dive/
+> > > https://www.reddit.com/r/netsec/comments/11zj3v5/veeam_backup_and_replication_cve202327532_deep/
 
 https://cyberlibrarian.ca/blog/2023/03/04/printer-honeypot-part1.html
 > https://news.ycombinator.com/item?id=35074856

@@ -19,3 +19,7 @@ https://docs.odigos.io/intro Distributed traces
 
 https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta
 > https://news.ycombinator.com/item?id=34989869
+
+https://www.cncf.io/blog/2023/03/13/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/
+> https://github.com/resmoio/kubernetes-event-exporter
+

@@ -51,6 +51,8 @@ https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/
 https://github.com/tg12/PoC_CVEs
 
 # News
+https://thenewstack.io/youll-soon-be-using-vulnerability-exploitability-exchange/
+
 https://github.com/trinitor/CVE-Vulnerability-Information-Downloader
 
 https://eng.lyft.com/vulnerability-management-at-lyft-enforcing-the-cascade-part-1-234d1561b994
@@ -246,6 +248,9 @@ https://en.wikipedia.org/wiki/Transport_Layer_Security#BEAST_attack
 
 limb overflow in OpenSSL
 
+https://en.wikipedia.org/wiki/Wi-Fi_Protected_Setup#Online%20brute-force%20attack Wifi WPS PIN
+https://code.google.com/archive/p/reaver-wps/wikis/README.wiki
+
 ## 2010
 https://en.wikipedia.org/wiki/Stuxnet
 
@@ -281,6 +286,9 @@ https://en.wikipedia.org/wiki/Turbulence_(NSA)
 https://en.wikipedia.org/wiki/Billion_laughs_attack
 
 https://en.wikipedia.org/wiki/HTTP_request_smuggling
+
+Wifi WEP
+> https://en.wikipedia.org/wiki/Aircrack-ng
 
 ## 2004
 https://en.wikipedia.org/wiki/Bluesnarfing

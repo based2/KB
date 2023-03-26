@@ -283,6 +283,8 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://thenewstack.io/the-speed-layer-design-pattern-for-analytics/
+
 https://tilde.cat/posts/analyzing-multi-gigabyte-json-files-locally-with-serde/
 
 https://en.wikipedia.org/wiki/Jaccard_index

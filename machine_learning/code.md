@@ -47,6 +47,8 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81
+
 https://github.com/sahil280114/codealpaca
 > https://news.ycombinator.com/item?id=35302858
 

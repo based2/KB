@@ -148,6 +148,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://imkev.dev/fetchpriority-opportunity
+
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog
 > https://news.ycombinator.com/item?id=34759527
 

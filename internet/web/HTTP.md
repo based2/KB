@@ -167,6 +167,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://csvbase.com/blog/2 How does it know I want csv? — An HTTP trick
+
 https://netty.io/news/2023/02/02/multiple_releases_incubator.html
 
 https://lists.apache.org/thread/j6tvqxnf9wwvxsvlgph4hcdjm23prby7 Apache Portable Runtime Utility (APR-util) 1.6.3 Released

@@ -173,3 +173,5 @@ https://alexanderpruss.blogspot.com/2022/02/game-boy-wordle-how-to-compress-1297
 
 http://ronja.twibright.com/optar/ Twibright Optar – OPTical ARchiver – a codec for encoding data on paper
 > https://news.ycombinator.com/item?id=30820836
+
+https://lists.apache.org/thread/kcbfdljy8cmk91t9z0wscpn77h0g0tfp

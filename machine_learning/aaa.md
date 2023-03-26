@@ -265,6 +265,19 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://www.schneier.com/blog/archives/2023/02/putting-undetectable-backdoors-in-machine-learning-models.html
+
+https://www.vice.com/en/article/dy7axa/how-i-broke-into-a-bank-account-with-an-ai-generated-voice
+
+https://www.schneier.com/blog/archives/2023/03/prompt-injection-attacks-on-large-language-models.html
+
+https://www.theregister.com/2023/03/23/openai_ceo_leak/?td=rt-3a
+
+https://protectai.com/blog/hacking-ai-system-takeover-exploit-in-mlflow
+
+https://blog.luitjes.it/posts/injectgpt-most-polite-exploit-ever/
+> https://www.reddit.com/r/netsec/comments/121gpay/injectgpt_remote_code_execution_by_asking_nicely/
+
 https://openai.com/blog/march-20-chatgpt-outage
 > https://news.ycombinator.com/item?id=35291112
 
@@ -281,6 +294,22 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://www.amazon.science/research-awards/call-for-proposals/aws-ai-generative-ai-call-for-proposals-spring-2023
+
+https://shashankrajput.github.io/Generative.pdf
+
+https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes
+> https://news.ycombinator.com/item?id=35312694
+
+https://en.wikipedia.org/wiki/Wittgenstein%27s_ladder
+> https://news.ycombinator.com/item?id=35287561
+
+https://old.reddit.com/r/blender/comments/121lhfq/i_lost_everything_that_made_me_love_my_job/
+> https://news.ycombinator.com/item?id=35308498
+
+https://www.atmosera.com/ai/understanding-chatgpt/
+>
+
 https://reflect.app/
 > https://news.ycombinator.com/item?id=35303670
 

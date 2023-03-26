@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.theregister.com/2023/03/26/boeing_starliner_iss_delay/
+
 https://en.wikipedia.org/wiki/Max_q
 
 https://www.space.com/relativity-space-terran-1-test-launch-failure

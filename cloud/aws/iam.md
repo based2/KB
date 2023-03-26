@@ -41,6 +41,8 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://www.cloudquery.io/blog/guide-aws-org-delegation
+
 https://www.reddit.com/r/aws/comments/11g8xxt/create_a_break_glass_role_for_emergency_use_in/
 > https://github.com/awslabs/aws-break-glass-role
 

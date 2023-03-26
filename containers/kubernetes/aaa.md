@@ -72,6 +72,10 @@ https://www.armosec.io/blog/cve-2022-47633-kyvernos-container-image-signature-ve
 > https://www.reddit.com/r/kubernetes/comments/zshfp4/cve202247633_kyvernos_signature_verification_can/
 
 # News
+https://sysdig.com/blog/kubernetes-cpu-requests-limits-autoscaling/
+
+https://blog.palark.com/cncf-cloud-native-projects-usage-stats-2022/
+
 https://www.kubernetes.dev/blog/2023/03/01/introducing-kwok/
 > https://news.ycombinator.com/item?id=34978264
 

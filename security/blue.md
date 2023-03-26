@@ -58,3 +58,6 @@ https://guardara-community.gitlab.io/documentation/docs/intro.html
 https://github.com/rabobank-cdc/DeTTECT
 
 https://github.com/siriussecurity/dettectinator
+
+https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home
+> https://www.reddit.com/r/netsec/comments/11r311u/kali_linux_20231_introduces_purple_distro_for/
