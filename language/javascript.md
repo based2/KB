@@ -400,6 +400,9 @@ https://stwui.vercel.app/
 
 https://escape.tech/blog/from-vue2-to-svelte/
 
+https://tyhopp.com/notes/thoughts-on-svelte
+> https://news.ycombinator.com/item?id=35324430
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296

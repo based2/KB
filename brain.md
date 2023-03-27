@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://en.wikipedia.org/wiki/Frequency_format_hypothesis
+> https://news.ycombinator.com/item?id=35313088
+
 https://www.smithsonianmag.com/smart-news/see-the-first-complete-map-of-an-insects-brain-180981778/
 > https://news.ycombinator.com/item?id=35111371
 

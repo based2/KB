@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://ergomake.dev/blog/docker-compose-as-a-universal-interface/
+> https://news.ycombinator.com/item?id=35327743
+
 https://news.ycombinator.com/item?id=34723989
 
 https://trigger.dev/

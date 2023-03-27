@@ -9,6 +9,12 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://www.careered.ai/tool/cover-letter
+> https://news.ycombinator.com/item?id=35306805
+
+https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/
+> https://news.ycombinator.com/item?id=35312609
+
 https://github.com/andyk/recursive_llm
 > https://news.ycombinator.com/item?id=35234276
 

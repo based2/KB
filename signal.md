@@ -29,6 +29,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=35323872
+
 https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/
 
 https://swarm.space/product/swarm-m138-modem/

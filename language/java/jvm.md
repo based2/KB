@@ -70,6 +70,12 @@ https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/
 https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/
 
 # News
+https://eme64.github.io/blog/2023/02/23/SuperWord-Introduction.html
+
+https://ionutbalosin.com/2023/03/jvm-performance-comparison-for-jdk-17/
+
+https://tschatzl.github.io/2023/03/14/jdk20-g1-parallel-gc-changes.html
+
 https://minborgsjavapot.blogspot.com/2023/01/java-21-performance-improvements.html
 > https://www.reddit.com/r/java/comments/10lthgz/jdk_21_performance_improvements_revealed/
 

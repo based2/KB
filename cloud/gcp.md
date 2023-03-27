@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://issuetracker.google.com/issues/268606830?pli=1 5M item limit for Google Drive: File unable to generate or upload due to 403
+
 https://securityintelligence.com/posts/attacker-achieve-persistence-google-cloud-platform-cloud-shell/
 > https://www.reddit.com/r/netsec/comments/ya7ryu/how_an_attacker_can_achieve_persistence_in_google/
 

@@ -129,6 +129,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://mjg59.dreamwidth.org/65874.html
+> https://news.ycombinator.com/item?id=35321418
+
 https://github.com/maxgoedjen/secretive Store SSH keys in the Secure Enclave
 > https://news.ycombinator.com/item?id=35090238
 

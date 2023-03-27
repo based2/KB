@@ -93,6 +93,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.allaboutcircuits.com/news/nvidia-unveils-culitho-breakthrough-in-computational-lithography/
+> https://news.ycombinator.com/item?id=35301207
+
 https://www.theregister.com/2023/03/24/huawei_eda_14nm_chips/
 
 https://spectrum.ieee.org/inverse-lithography

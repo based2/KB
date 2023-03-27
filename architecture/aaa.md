@@ -12,8 +12,6 @@ http://plantuml-depend.sourceforge.net/
 https://c4model.com/ https://fundingcircle.github.io/fc4-framework/ https://github.com/structurizr/java
 > https://icepanel.io/c4-model/ https://news.ycombinator.com/item?id=28684447
 
-https://jsonnet.org/
-
 https://varlink.org/Ideals
 
 https://github.com/edn-format/edn
@@ -36,6 +34,9 @@ https://github.com/joelparkerhenderson/architecture_decision_record/blob/master/
 
 https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315
 > https://news.ycombinator.com/item?id=26602156
+
+https://jsonnet.org/
+> https://news.ycombinator.com/item?id=35325488
 
 # Examples
 https://archive.org/details/jonah-edwards-presentation

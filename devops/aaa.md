@@ -94,9 +94,10 @@ https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation
 # CI
 
 https://www.jenkins.io/
-https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
-https://itnext.io/git-notes-your-ci-process-46b2fd5ac52
-https://axelfontaine.com/blog/final-nail.html
+> https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
+> https://itnext.io/git-notes-your-ci-process-46b2fd5ac52
+> https://axelfontaine.com/blog/final-nail.html
+> https://www.jenkins.io/changelog-stable/
 
 https://tekton.dev/
 
@@ -310,6 +311,8 @@ https://travis-ci.community/t/security-bulletin/12081
 SourceForge nobody Apache HTTPD configuration
 
 # New versions
+https://about.gitlab.com/releases/2023/03/22/gitlab-15-10-released/
+
 https://about.gitlab.com/releases/2023/02/22/gitlab-15-9-released/
 
 https://about.gitlab.com/releases/2022/12/22/gitlab-15-7-released/

@@ -106,6 +106,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlite.org/forum/forumpost/7fecf11e42c71a91?raw Craziest thing I ever used SQLite for: partial file deduplication (2022)
+> https://news.ycombinator.com/item?id=35317419
+
 https://github.com/0x6b/libgsqlite
 > https://news.ycombinator.com/item?id=35208113
 

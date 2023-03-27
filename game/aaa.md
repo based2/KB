@@ -15,6 +15,9 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 # News
+https://github.com/shadlyd15/DoomLinux
+> https://news.ycombinator.com/item?id=35306599
+
 https://lutzroeder.github.io/digger/
 > https://news.ycombinator.com/item?id=35055993
 

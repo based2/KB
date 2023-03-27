@@ -44,6 +44,9 @@ https://winfsp.dev/
 > https://winfsp.dev/doc/Known-File-Systems/
 
 # News
+https://hondu.co/blog/file-expiration-using-bpf
+> https://news.ycombinator.com/item?id=35301939
+
 https://lwn.net/SubscriberLink/853308/c386b5aab35db7b6/ Btrfs on zoned block devices
 > https://news.ycombinator.com/item?id=26885390
 > 

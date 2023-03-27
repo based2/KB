@@ -72,6 +72,9 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576 Random numbers in bash et al
+> https://news.ycombinator.com/item?id=35326648
+
 https://gist.github.com/sj26/88e1c6584397bb7c13bd11108a579746 Bash retry function with exponential backoff
 > https://news.ycombinator.com/item?id=34161661
 

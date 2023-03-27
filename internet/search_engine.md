@@ -86,6 +86,8 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://lists.apache.org/thread/6lvh9ylj6vo5s9ngf41d4y43qd2h450m solr
+
 https://developers.google.com/search/blog/2023/02/google-search-and-ai-content
 
 https://www.theverge.com/2023/3/25/23656336/microsoft-chatbot-rivals-stop-using-bing-search-index

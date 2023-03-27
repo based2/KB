@@ -1,3 +1,11 @@
+https://www.ccc.de/system/uploads/329/original/Angriff_auf_Video-Ident_v1.2.pdf
+
+https://github.com/priamai/sigmatau
+
+https://www.cisa.gov/news-events/news/getting-ahead-ransomware-epidemic-cisas-pre-ransomware-notifications-help-organizations-stop-attacks
+
+https://www.reddit.com/r/netsec/comments/123ldeb/new_ost2_class_vulnerabilities_1002_cfamily/
+
 https://www.schneier.com/blog/archives/2023/02/ais-as-computer-hackers.html
 
 https://www.ic3.gov/Media/Y2022/PSA221221

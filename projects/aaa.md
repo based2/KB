@@ -125,6 +125,9 @@ https://www.doomcheck.com/
 
 https://github.com/kimmobrunfeldt/git-hours
 
+https://pm.stackexchange.com/questions/34768/why-are-developers-expected-to-estimate-tasks-at-all
+> https://news.ycombinator.com/item?id=35316808
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 

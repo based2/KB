@@ -113,6 +113,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.phoronix.com/news/OBS-Studio-AV1-HEVC-RTMP
+> https://news.ycombinator.com/item?id=35325193
+
 https://ai.googleblog.com/2023/03/vid2seq-pretrained-visual-language.html
 > https://news.ycombinator.com/item?id=35201667
 

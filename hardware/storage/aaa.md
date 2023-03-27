@@ -17,6 +17,11 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://louwrentius.com/benchmarking-cheap-ssds-for-fun-no-profit-be-warned.html
+> https://news.ycombinator.com/item?id=35325883
+
+https://news.ycombinator.com/item?id=35302700 dvd
+
 https://ddramdisk.store/
 > https://news.ycombinator.com/item?id=35195029
 

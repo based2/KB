@@ -265,6 +265,8 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://mobile.twitter.com/random_walker/status/1636923058370891778?s=20
+
 https://www.schneier.com/blog/archives/2023/02/putting-undetectable-backdoors-in-machine-learning-models.html
 
 https://www.vice.com/en/article/dy7axa/how-i-broke-into-a-bank-account-with-an-ai-generated-voice
@@ -294,6 +296,22 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c
+> https://news.ycombinator.com/item?id=35313171
+
+https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14
+> https://news.ycombinator.com/item?id=35315542
+
+https://norvig.com/Lisp-retro.html
+> https://news.ycombinator.com/item?id=35312833
+
+https://news.ycombinator.com/item?id=35327112
+
+https://blog.langchain.dev/retrieval/
+> https://news.ycombinator.com/item?id=35301943
+
+https://til.simonwillison.net/llms/python-react-pattern
+
 https://www.amazon.science/research-awards/call-for-proposals/aws-ai-generative-ai-call-for-proposals-spring-2023
 
 https://shashankrajput.github.io/Generative.pdf

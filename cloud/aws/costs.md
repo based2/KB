@@ -28,3 +28,6 @@ https://bootcamp.uxdesign.cc/how-a-single-developer-dropped-aws-costs-by-90-then
 
 https://carlos.bueno.org/2023/03/aws-dismal-guide.html
 
+https://medium.com/life-at-chime/how-we-reduced-our-aws-bill-by-seven-figures-5144206399cb
+> https://www.reddit.com/r/programming/comments/122vsyx/how_we_reduced_our_aws_bill_by_7_figures/
+

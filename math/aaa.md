@@ -135,6 +135,12 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://iagoleal.com/posts/algebraic-path/
+> https://news.ycombinator.com/item?id=35312716
+
+https://www.quantamagazine.org/the-symmetry-that-makes-solving-math-equations-easy-20230324/
+> https://news.ycombinator.com/item?id=35301033
+
 https://www.math.columbia.edu/~woit/wordpress/?p=674
 
 https://tromp.github.io/cl/cl.html

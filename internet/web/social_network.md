@@ -50,6 +50,12 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 
 # Incident
+https://www.reuters.com/legal/parts-twitter-source-code-leaked-online-court-filing-shows-2023-03-27/
+> https://news.ycombinator.com/item?id=35323472
+
+https://www.tomshardware.com/news/windows-keeps-feeding-tabloid-news
+> https://news.ycombinator.com/item?id=35323121
+
 https://news.ycombinator.com/item?id=34980810
 
 https://news.ycombinator.com/item?id=33943029

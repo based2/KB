@@ -68,6 +68,9 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 #
+https://blog.orhun.dev/alpine-packaging-setup/
+> https://news.ycombinator.com/item?id=35324938
+
 https://spack.io/ Scientific software package manager for supercomputers, Linux, and macOS
 > https://news.ycombinator.com/item?id=35237269
 

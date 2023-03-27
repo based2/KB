@@ -90,6 +90,11 @@ https://google-research.github.io/seanet/musiclm/examples/
 
 https://github.com/riffusion/riffusion/releases/tag/v0.3.0
 
+https://news.ycombinator.com/item?id=35328698
+
+https://twitter.com/ggerganov/status/1640022482307502085
+> https://news.ycombinator.com/item?id=35317322
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

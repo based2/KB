@@ -13,6 +13,9 @@ https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-
 
 https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities
 
+https://json-ld.org/
+> https://news.ycombinator.com/item?id=35321493
+
 https://json5.org/
 > https://news.ycombinator.com/item?id=28668282
 > https://aseemk.substack.com/p/ignore-the-f-ing-haters-json5

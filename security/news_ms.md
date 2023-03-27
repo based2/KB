@@ -1,3 +1,11 @@
+https://www.reddit.com/r/blueteamsec/comments/121cjl0/using_endpoint_privilege_management_with/
+
+https://techcommunity.microsoft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/ba-p/3762078
+
+https://vigilance.fr/vulnerabilite/ComponentSpace-SAML-for-ASP-NET-Man-in-the-Middle-40876
+
+https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-deux-vulnerabilites-40873
+
 https://www.theregister.com/2023/03/24/microsoft_snipping_tool_fix/
 
 https://krebsonsecurity.com/2023/03/microsoft-patch-tuesday-march-2023-edition/

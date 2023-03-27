@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-action-leads-lifetime-industry-ban-operators-extended-vehicle-warranty-scam
+> https://news.ycombinator.com/item?id=35321996
+
 https://www.cnbc.com/2023/03/08/us-investigating-tesla-after-steering-wheels-detached-from-model-y.html
 > https://news.ycombinator.com/item?id=35070028
 

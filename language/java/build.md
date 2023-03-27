@@ -145,6 +145,8 @@ https://inside.java/2021/09/10/what-are-modules-about/
 > https://news.ycombinator.com/item?id=28489881
 
 # News
+https://www.i-programmer.info/news/80-java/16176-sigstore-java-sign-and-verify-your-java-builds.html
+
 https://spring.io/blog/2022/10/21/introducing-spring-modulith
 
 https://snyk.io/blog/best-practices-for-managing-java-dependencies/

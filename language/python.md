@@ -266,6 +266,9 @@ https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 https://github.com/HackSoftware/Django-Styleguide
 > https://news.ycombinator.com/item?id=34337667
 
+https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/
+> https://news.ycombinator.com/item?id=35313565
+
 # History
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 
