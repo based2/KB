@@ -1,3 +1,5 @@
+https://blogs.microsoft.com/blog/2023/03/28/introducing-microsoft-security-copilot-empowering-defenders-at-the-speed-of-ai/
+
 https://www.reddit.com/r/blueteamsec/comments/121cjl0/using_endpoint_privilege_management_with/
 
 https://techcommunity.microsoft.com/t5/exchange-team-blog/throttling-and-blocking-email-from-persistently-vulnerable/ba-p/3762078

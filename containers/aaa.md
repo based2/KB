@@ -42,6 +42,9 @@ https://github.com/google/cadvisor
 http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
+#
+https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
+
 # News
 https://github.com/fafrd/aquarium ai
 > https://news.ycombinator.com/item?id=35304078

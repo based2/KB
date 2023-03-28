@@ -33,3 +33,6 @@ https://milkytracker.org/
 https://scalibq.wordpress.com/2022/09/16/area-5150-a-reflection/
 
 https://news.ycombinator.com/item?id=33696216
+
+https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/
+> https://news.ycombinator.com/item?id=35335037

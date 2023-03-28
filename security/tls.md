@@ -138,10 +138,14 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 #
+https://www.openssl.org/news/secadv/20230322.txt
+
 https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzing-ssh/
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://www.openssl.org/blog/blog/2023/03/28/1.1.1-EOL/
+
 https://arxiv.org/abs/2302.05311 TurboTLS: TLS connection establishment with 1 less round trip
 > https://news.ycombinator.com/item?id=34793411 
 

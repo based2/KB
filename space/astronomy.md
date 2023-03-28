@@ -59,6 +59,8 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://phys.org/news/2023-03-webb-coronagraphs-reveal-exoplanets-infrared.html
+
 https://www.sciencedaily.com/releases/2023/02/230201134112.htm
 > https://news.ycombinator.com/item?id=34654569
 

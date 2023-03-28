@@ -136,6 +136,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://hackaday.com/2023/03/24/enjoy-an-open-source-espresso/
+> https://news.ycombinator.com/item?id=35320729
+
 https://github.com/jakkra/ZSWatch
 > https://news.ycombinator.com/item?id=34384941
 

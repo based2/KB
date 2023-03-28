@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://www.onsclom.net/posts/simulator-state
+> https://news.ycombinator.com/item?id=35336632
+
 https://garden.bradwoods.io/notes/design/juice
 > https://news.ycombinator.com/item?id=35273139
 

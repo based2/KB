@@ -23,6 +23,8 @@ https://jayendrapatil.com/rds-read-replicas/
 https://www.securekloud.com/image/white-papers/SecureKloud_Exploring-Amazon-RDS-MySQL-Second-Tier-Read-Replica.pdf
 
 # News
+https://www.timescale.com/blog/scaling-postgresql-with-amazon-s3-an-object-storage-for-low-cost-infinite-database-scalability/
+
 https://github.com/BohdanPetryshyn/basti
 
 https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/blue-green-deployments.html

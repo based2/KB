@@ -1,6 +1,11 @@
-
+https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware
 
 #
+https://0day.work/parsing-the-ds_store-file-format/
+> https://news.ycombinator.com/item?id=35334124
+
+https://www.macrumors.com/2023/03/27/apple-releases-ios-16-4/
+
 https://obdev.at/products/littlesnitch-mini/index.html
 > https://news.ycombinator.com/item?id=35267707
 

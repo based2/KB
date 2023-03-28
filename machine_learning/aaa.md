@@ -265,6 +265,9 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears
+> https://news.ycombinator.com/item?id=35330438
+
 https://mobile.twitter.com/random_walker/status/1636923058370891778?s=20
 
 https://www.schneier.com/blog/archives/2023/02/putting-undetectable-backdoors-in-machine-learning-models.html
@@ -296,6 +299,14 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/
+> https://news.ycombinator.com/item?id=35332537
+
+https://github.com/Lightning-AI/lit-llama
+> https://news.ycombinator.com/item?id=35344787
+
+https://secondbreakfast.co/ai-vs-agi-vs-consciousness-vs-super-intelligence-vs-agency
+
 https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c
 > https://news.ycombinator.com/item?id=35313171
 

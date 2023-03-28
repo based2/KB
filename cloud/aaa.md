@@ -111,6 +111,9 @@ https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.pdf
 
 https://planetscale.com/blog/one-million-connections
 
+https://neon.tech/blog/quicker-serverless-postgres
+> https://news.ycombinator.com/item?id=35342464
+
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 

@@ -65,6 +65,9 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://regex.ai/
+> https://news.ycombinator.com/item?id=35334848
+
 https://codex-kappa-dusky.vercel.app/
 > https://news.ycombinator.com/item?id=34424767
 

@@ -269,6 +269,8 @@ https://github.com/HackSoftware/Django-Styleguide
 https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/
 > https://news.ycombinator.com/item?id=35313565
 
+https://fly.io/blog/standout-features-in-django-4-2/
+
 # History
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 

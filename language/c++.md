@@ -57,6 +57,10 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://lemire.me/blog/2023/03/27/c20-consteval-and-constexpr-functions/
+
+https://news.ycombinator.com/item?id=35338151
+
 https://github.com/ivmai/bdwgc
 > https://news.ycombinator.com/item?id=35023833
 

@@ -72,6 +72,9 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://old.reddit.com/r/webdev/comments/124pf8n/confirmed_namecheap_is_holding_onto_domains/
+> https://news.ycombinator.com/item?id=35344122
+
 https://news.ycombinator.com/item?id=35207415
 
 https://social.afront.org/@pbarker/109993372907209176

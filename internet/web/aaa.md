@@ -125,6 +125,9 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://web.dev/push-notifications-in-all-modern-browsers/
+> https://news.ycombinator.com/item?id=35337798
+
 https://www.useragents.me/
 
 https://github.com/t-mart/kill-sticky

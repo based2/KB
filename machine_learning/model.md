@@ -1,3 +1,6 @@
+https://www.cerebras.net/blog/cerebras-gpt-a-family-of-open-compute-efficient-large-language-models/
+> https://news.ycombinator.com/item?id=35343763
+
 https://www.yitay.net/blog/flan-ul2-20b
 > https://news.ycombinator.com/item?id=35302564
 

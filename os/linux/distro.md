@@ -30,6 +30,9 @@ https://www.redhat.com/en/blog/whats-new-rhel-90-beta
 
 https://getfedora.org/
 
+https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina
+> https://news.ycombinator.com/item?id=35337146
+
 # Canonical/Ubuntu
 
 https://en.wikipedia.org/wiki/Ubuntu

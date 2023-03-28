@@ -13,6 +13,8 @@ https://garagehq.deuxfleurs.fr/ OpS distributed object storage service tailored 
 
 https://www.openio.io/
 
+https://github.com/aquarist-labs/s3gw
+
 https://min.io/
 
 https://owncloud.dev/ocis/

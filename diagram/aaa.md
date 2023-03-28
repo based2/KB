@@ -53,8 +53,10 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://kroki.io/
+
 https://github.com/statelyai/xstate
->
+> https://news.ycombinator.com/item?id=35328995
 
 https://www.ilograph.com/blog/posts/concrete-diagramming-models/
 > https://news.ycombinator.com/item?id=35302395

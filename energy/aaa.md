@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.nytimes.com/2023/03/22/climate/japan-hot-springs-geothermal-energy.html
+> https://news.ycombinator.com/item?id=35343590
+
 https://www.theguardian.com/environment/2023/mar/20/ukraine-is-a-false-justification-americas-destructive-new-rush-for-natural-gas
 
 https://arstechnica.com/science/2023/03/company-launches-nuclear-waste-disposal-testing-collaboration/

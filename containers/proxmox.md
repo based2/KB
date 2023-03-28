@@ -1,3 +1,5 @@
+https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-4
+
 https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-3
 
 https://linuxfr.org/news/proxmox-virtual-environment-7-2-est-disponible

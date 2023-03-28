@@ -283,6 +283,12 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://github.com/fugue-project/fugue
+> https://news.ycombinator.com/item?id=35323279
+
+https://airwalker.io/
+> https://news.ycombinator.com/item?id=35340169
+
 https://thenewstack.io/the-speed-layer-design-pattern-for-analytics/
 
 https://tilde.cat/posts/analyzing-multi-gigabyte-json-files-locally-with-serde/

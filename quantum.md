@@ -76,6 +76,8 @@ https://azeemba.com/posts/degenerate-matter.html
 
 https://news.ycombinator.com/item?id=34896557
 
+https://en.wikipedia.org/wiki/Spin_wave
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/

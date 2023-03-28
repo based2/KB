@@ -58,6 +58,9 @@ https://news.ycombinator.com/item?id=34636092 mit
 
 https://julien.ponge.org/blog/mozilla-public-license-v2-a-good-middleground/
 
+https://www.weka.io/blog/file-system/weka-responds-to-unfounded-allegations-made-by-minio-regarding-open-source-licensing/
+> https://news.ycombinator.com/item?id=35328316
+
 # Incident
 
 https://www.theregister.com/2023/03/17/john_deere_sfc_gpl/

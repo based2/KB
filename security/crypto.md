@@ -169,6 +169,9 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://tobtu.com/blog/2023/3/breaking-xor-shift-prng/
+> https://www.reddit.com/r/RNG/comments/124372b/breaking_a_prng_is_it_called_xor_shift_or_xor_shit/
+
 https://www.schneier.com/blog/archives/2023/02/side-channel-attack-against-crystals-kyber.html
 
 https://research.kudelskisecurity.com/2023/03/06/polynonce-a-tale-of-a-novel-ecdsa-attack-and-bitcoin-tears/

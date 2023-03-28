@@ -143,6 +143,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/
+> https://news.ycombinator.com/item?id=35339521
+
 https://mattwynne.net/new-beginning
 > https://news.ycombinator.com/item?id=35007609 
 

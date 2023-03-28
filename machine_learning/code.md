@@ -47,6 +47,17 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://laion.ai/blog/open-flamingo/
+> https://news.ycombinator.com/item?id=35347588
+
+https://github.com/TaxyAI/browser-extension
+> https://news.ycombinator.com/item?id=35344354
+
+https://about.sourcegraph.com/blog/open-sourcing-cody
+> https://news.ycombinator.com/item?id=35339010
+
+https://klaviyo.tech/gpt-4-for-coding-16-observations-and-tips-40d5b9a6a061
+
 https://blog.fixie.ai/introducing-fixie-ai-a-new-way-to-build-with-large-language-models-d4e1aeee6b81
 
 https://github.com/sahil280114/codealpaca

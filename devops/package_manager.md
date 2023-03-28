@@ -46,6 +46,9 @@ https://news.ycombinator.com/item?id=35039244
 https://tinkering.xyz/nix-docs/
 > https://news.ycombinator.com/item?id=34987042
 
+https://determinate.systems/posts/nuenv
+> https://news.ycombinator.com/item?id=35342195
+
 # Incident
 https://jfrog.com/blog/attackers-are-starting-to-target-net-developers-with-malicious-code-nuget-packages/
 > https://www.reddit.com/r/netsec/comments/11wltir/attackers_are_starting_to_target_net_developers/

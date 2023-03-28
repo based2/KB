@@ -395,6 +395,8 @@ https://github.com/viperproject/prusti-dev
 
 https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/
 
+https://rustsec.org/
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

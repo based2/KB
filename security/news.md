@@ -1,3 +1,19 @@
+https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/
+
+https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/
+> https://news.ycombinator.com/item?id=35344831
+
+https://www.libreoffice.org/about-us/security/advisories/cve-2022-38745/
+
+https://github.com/nextcloud/security-advisories/security/advisories/GHSA-v243-x6jc-42mp nextcloud
+
+https://github.com/nextcloud/security-advisories/security/advisories/GHSA-8v5c-f752-fgpv nextcloud
+
+https://lists.apache.org/thread/r9vn12dp5yofn1h3wd5x4h7c3vmmr5d9 CVE-2023-28326: Apache OpenMeetings: allows user impersonation
+
+https://wrv.github.io/h26forge.pdf The Most Dangerous Codec in the World: Finding and Exploiting Vulnerabilities in H.264 Decoders
+> https://lobste.rs/s/b7x1pm/finding_exploiting_vulnerabilities_h
+
 https://www.ccc.de/system/uploads/329/original/Angriff_auf_Video-Ident_v1.2.pdf
 
 https://github.com/priamai/sigmatau
@@ -659,9 +675,6 @@ https://news.ycombinator.com/item?id=33817117
 https://zuplo.com/blog/2022/12/01/api-key-authentication/
 > https://news.ycombinator.com/item?id=33819092
 
-https://arstechnica.com/gadgets/2022/12/samsungs-android-app-signing-key-has-leaked-is-being-used-to-sign-malware/
-> https://news.ycombinator.com/item?id=33838826
-
 https://rachelbythebay.com/w/2018/04/27/uid/ User IDs probably shouldn't be passed around as ints
 > https://news.ycombinator.com/item?id=33850659
 > > https://github.com/ulid/spec
@@ -729,8 +742,6 @@ https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-up
 > https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-3890
 
 https://www.bleepingcomputer.com/news/security/pro-russian-hacktivists-take-down-eu-parliament-site-in-ddos-attack/
-
-https://www.bleepingcomputer.com/news/security/mali-gpu-patch-gap-leaves-android-users-vulnerable-to-attacks/
 
 https://www.defense.gov/News/Releases/Release/Article/3225919/department-of-defense-releases-zero-trust-strategy-and-roadmap/
 > https://news.ycombinator.com/item?id=33713765
@@ -863,8 +874,6 @@ https://chromereleases.googleblog.com/2022/10/stable-channel-update-for-desktop_
 
 https://www.usenix.org/conference/usenixsecurity22/presentation/dotan SGX, TEE
 > https://news.ycombinator.com/item?id=33491662
-
-https://android-developers.googleblog.com/2020/06/system-hardening-in-android-11.html
 
 https://eclecticlight.co/2022/11/06/last-week-on-my-mac-home-truths-about-macos/
 > https://news.ycombinator.com/item?id=33491781
@@ -1158,9 +1167,6 @@ https://twitter.com/fo0_/status/1580146963579740160 #Telegram leak votre usernam
 
 https://www.theregister.com/2022/10/12/drone-roof-attack/
 > https://news.ycombinator.com/item?id=33191061
-
-https://www.bleepingcomputer.com/news/google/android-leaks-some-traffic-even-when-always-on-vpn-is-enabled/
-> https://news.ycombinator.com/item?id=33194105
 
 https://securedrop.org/news/securedrop-2_5_0-pre-release-announcement/
 > https://news.ycombinator.com/item?id=33189871
@@ -2147,8 +2153,6 @@ https://grimminck.medium.com/building-a-threat-intelligence-feed-using-the-twitt
 > https://news.ycombinator.com/item?id=31544816
 > https://www.reddit.com/r/netsec/comments/uzlwtt/building_a_threat_intelligence_feed_using_the/
 
-https://www.microsoft.com/security/blog/2022/05/27/android-apps-with-millions-of-downloads-exposed-to-high-severity-vulnerabilities/
-
 https://threadreaderapp.com/thread/1526593840928411650.html 
 
 https://blog.sigstore.dev/privacy-in-sigstore-57cac15af0d0
@@ -2201,8 +2205,6 @@ https://darknetlive.com/post/psa-security-vuln-in-tor-browser/
 https://tails.boum.org/security/prototype_pollution/index.en.html
 
 https://threatpost.com/snake-keylogger-pdfs/179703/
-
-https://www.numerama.com/cyberguerre/974259-google-denonce-une-societe-qui-a-exploite-5-failles-secretes-dans-chrome-et-android.html
 
 https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-037.pdf Path Traversal SPL Injection in Splunk
 
@@ -2411,11 +2413,6 @@ https://forums.lenovo.com/t5/Forum-Housekeeping/Lenovo-forums-do-store-user-pass
 > https://news.ycombinator.com/item?id=31121105
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-26-04-2022-38107
-
-https://blog.checkpoint.com/2022/04/21/largest-mobile-chipset-manufacturers-used-vulnerable-audio-decoder-2-3-of-android-users-privacy-around-the-world-were-at-risk/
-> https://vulncat.fortify.com/en/detail?id=desc.internal.cpp.out_of_bounds_read
-> > https://arstechnica.com/information-technology/2022/04/critical-bug-could-have-let-hackers-commandeer-millions-of-android-devices/
-> https://www.techdirt.com/2022/04/25/secretive-private-company-shows-no-one-not-even-the-nsa-is-immune-from-always-on-surveillance/
 
 https://www.heise.de/news/Statischer-SSH-Schluessel-macht-Cloudsicherheitssystem-Cisco-Umbrella-zu-schaffen-7061311.html
 
@@ -5460,8 +5457,6 @@ https://unparalleled.eu/blog/2021/20210518-using-xterm-to-navigate-the-huge-colo
 
 https://news.ycombinator.com/item?id=27192997
 
-https://www.sciencedirect.com/science/article/pii/S266628172100007X android
-
 https://www.openwall.com/lists/oss-security/2021/05/17/1
 
 https://alex.kaskaso.li/post/terraform-plan-rce
@@ -5588,9 +5583,6 @@ https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb
 https://techcommunity.microsoft.com/t5/exchange-team-blog/released-april-2021-exchange-server-security-updates/ba-p/2254617
 
 https://deno.com/blog/02-03-2021-outage-post-mortem
-
-https://www.forbes.com/sites/zakdoffman/2021/04/10/shock-new-warning-for-millions-of-whatsapp-users-on-apple-iphone-and-google-android-phones/?sh=66ebf4d27585
-https://news.ycombinator.com/item?id=26769537
 
 https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/
 > https://news.ycombinator.com/item?id=26768299

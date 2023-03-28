@@ -67,6 +67,8 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.hackster.io/news/qualcomm-debuts-two-new-entry-level-robotics-platforms-9e3219a240ca
+
 https://antonilo.github.io/vision_locomotion/
 > https://news.ycombinator.com/item?id=35319807
 

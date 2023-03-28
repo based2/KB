@@ -314,6 +314,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/HigherOrderCO/HVM Higher-order Virtual Machine
+> https://news.ycombinator.com/item?id=35336113
+
+https://zicklag.github.io/blog/interaction-nets-combinators-calculus/
+> https://news.ycombinator.com/item?id=35344514
+
 https://epicandmonicisnotiso.blogspot.com/2023/03/an-apologia-of-lazy-evaluation.html
 > https://news.ycombinator.com/item?id=35305546
 

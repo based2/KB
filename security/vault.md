@@ -121,6 +121,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://cabel.com/2023/03/27/apple-passwords-deserve-an-app/
+> https://news.ycombinator.com/item?id=35329950
+
 https://twitter.com/ThrillScience/status/1619705241167106048
 > https://news.ycombinator.com/item?id=34568518
 
