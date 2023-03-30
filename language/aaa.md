@@ -314,6 +314,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://medium.com/@kaleberg7/apl-an-array-oriented-programming-language-b03fb39401c1
+> https://news.ycombinator.com/item?id=35369084
+
 https://github.com/HigherOrderCO/HVM Higher-order Virtual Machine
 > https://news.ycombinator.com/item?id=35336113
 

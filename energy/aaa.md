@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.theguardian.com/environment/2023/feb/23/climate-friendly-us-program-plastics-fuel-cancer
+> https://news.ycombinator.com/item?id=35364166
+
 https://www.nytimes.com/2023/03/22/climate/japan-hot-springs-geothermal-energy.html
 > https://news.ycombinator.com/item?id=35343590
 

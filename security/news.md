@@ -1,3 +1,19 @@
+https://papers.mathyvanhoef.com/usenix2023-wifi.pdf
+> https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/
+
+https://www.bleepingcomputer.com/news/security/inaudible-ultrasound-attack-can-stealthily-control-your-phone-smart-speaker/
+
+https://vigilance.fr/vulnerabilite/Apache-Calcite-Avatica-JDBC-Driver-execution-de-code-via-Instantiation-40923
+
+https://www.ietf.org/blog/mls-secure-and-usable-end-to-end-encryption/
+> https://news.ycombinator.com/item?id=35354226
+
+https://ergomake.dev/blog/hsts-introduction/
+> https://news.ycombinator.com/item?id=35371541
+
+https://blog.google/threat-analysis-group/spyware-vendors-use-0-days-and-n-days-against-popular-platforms/
+> https://news.ycombinator.com/item?id=35358535
+
 https://www.chromium.org/Home/chromium-security/root-ca-policy/moving-forward-together/
 
 https://krebsonsecurity.com/2023/03/uk-sets-up-fake-booter-sites-to-muddy-ddos-market/

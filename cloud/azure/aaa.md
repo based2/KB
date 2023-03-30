@@ -21,6 +21,9 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration
+> https://news.ycombinator.com/item?id=35364383
+
 https://www.theregister.com/2023/03/24/microsoft_geolocation_fail_uzbekistan/
 
 https://www.theregister.com/2023/03/23/microsoft_admits_azure_resource_manager/

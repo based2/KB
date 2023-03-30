@@ -1,6 +1,10 @@
 https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware
 
 #
+https://www.bleepingcomputer.com/news/apple/apple-fixes-recently-disclosed-webkit-zero-day-on-older-iphones/
+
+https://lapcatsoftware.com/articles/2023/3/4.html
+
 https://0day.work/parsing-the-ds_store-file-format/
 > https://news.ycombinator.com/item?id=35334124
 

@@ -83,6 +83,14 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://fosstodon.org/@scala_lang
+
+https://stevechy.github.io/toyzioactortest/zio/actors/2023/03/22/zio-actor-experiments.html
+
+https://eed3si9n.com/sbt-2.0-rfc-process
+
+https://blog.jetbrains.com/scala/2023/03/29/intellij-scala-plugin-2023-1-is-out/
+
 https://virtuslab.com/blog/scala-toolkit-makes-scala-powerful-straight-out-of-the-box/
 
 https://scalajobs.com/blog/concise-enumeration-in-scala/

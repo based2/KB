@@ -133,6 +133,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/new-alienfox-toolkit-steals-credentials-for-18-cloud-services/
+
 https://status.elastic.co/
 > https://news.ycombinator.com/item?id=34337518
 

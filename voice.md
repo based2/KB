@@ -14,5 +14,8 @@ https://ttstool.com/
 
 https://podcast.adobe.com/
 
+https://sites.research.google/usm/
+> https://news.ycombinator.com/item?id=35365399
+
 # History
 https://www.hackster.io/nickbild/ay-3-8910-speech-synthesis-fe5f43

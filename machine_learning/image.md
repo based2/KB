@@ -69,6 +69,9 @@ https://til.simonwillison.net/macos/sips
 https://github.com/microsoft/visual-chatgpt
 > https://news.ycombinator.com/item?id=35090163
 
+https://thenumb.at/Neural-Graphics/
+> https://news.ycombinator.com/item?id=35374117
+
 # text2img
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 

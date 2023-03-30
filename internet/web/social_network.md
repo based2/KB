@@ -71,6 +71,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://twittercommunity.com/t/announcing-new-access-tiers-for-the-twitter-api/188728
+> https://news.ycombinator.com/item?id=35374698
+
+https://snarfed.org/the-twitter-api-is-now-effectively-unmaintained
+> https://news.ycombinator.com/item?id=35370152
+
 https://daringfireball.net/2023/03/wavelength
 > https://news.ycombinator.com/item?id=35334613
 

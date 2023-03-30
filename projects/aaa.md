@@ -161,6 +161,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://jacobian.org/2023/mar/28/incompetent-but-nice/
+> https://news.ycombinator.com/item?id=35344703
+
 https://unstructed.tech/2023/03/05/multi-tasking-is-for-robots-and-humans/
 
 https://lethain.com/eng-strategies/

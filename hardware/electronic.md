@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://tinytapeout.com/
+> 
+
 https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors
 > https://news.ycombinator.com/item?id=35285769
 

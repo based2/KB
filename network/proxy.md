@@ -27,6 +27,12 @@ https://github.com/ekzhang/bore rust
 https://openreplay.com/
 
 # News
+https://tailscale.com/blog/tailscale-funnel-beta/
+> https://news.ycombinator.com/item?id=35374302
+
+https://www.sozu.io/
+> https://news.ycombinator.com/item?id=35360878
+
 https://github.com/pgrok/pgrok
 > https://news.ycombinator.com/item?id=35119261
 

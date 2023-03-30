@@ -15,6 +15,8 @@ https://krebsonsecurity.com/2023/03/microsoft-patch-tuesday-march-2023-edition/
 https://msrc.microsoft.com/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability/
 > https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/
 
+https://www.bleepingcomputer.com/news/security/microsoft-shares-tips-on-detecting-outlook-zero-day-exploitation/
+
 https://blog.doyensec.com//2023/03/21/windows-installer.html
 > https://www.reddit.com/r/netsec/comments/11xk542/windows_installer_eop_cve202321800/
 

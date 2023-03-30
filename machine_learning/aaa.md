@@ -299,6 +299,11 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://news.ycombinator.com/item?id=35370915
+
+https://lachlangray.blot.im/the-cambrian-period-of-ai
+> https://news.ycombinator.com/item?id=35376059
+
 https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/
 > https://news.ycombinator.com/item?id=35332537
 

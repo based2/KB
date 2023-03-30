@@ -95,6 +95,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/neuledge/engine-js orm
+
 https://thenewstack.io/typescript-5-0-new-decorators-standard-smaller-npm/
 
 https://github.com/microsoft/TypeScript/issues/42151

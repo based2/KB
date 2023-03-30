@@ -219,6 +219,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it
+> https://news.ycombinator.com/item?id=35361628
+
 https://developer.chrome.com/blog/tether-elements-to-each-other-with-css-anchor-positioning/
 > https://news.ycombinator.com/item?id=34981523
 

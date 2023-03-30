@@ -283,6 +283,9 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://github.com/ai-sidekick/sidekick
+> https://news.ycombinator.com/item?id=35375540
+
 https://github.com/fugue-project/fugue
 > https://news.ycombinator.com/item?id=35323279
 

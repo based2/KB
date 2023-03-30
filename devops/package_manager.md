@@ -50,6 +50,12 @@ https://determinate.systems/posts/nuenv
 > https://news.ycombinator.com/item?id=35342195
 
 # Incident
+https://blog.phylum.io/phylum-discovers-npm-package-mathjs-min-contains-discord-token-grabber
+> https://www.reddit.com/r/javascript/comments/126o0td/attackers_are_hiding_malware_in_minified_packages/
+
+https://blog.sandworm.dev/one-in-two-new-npm-packages-is-seo-spam-right-now
+> https://news.ycombinator.com/item?id=35370728
+
 https://jfrog.com/blog/attackers-are-starting-to-target-net-developers-with-malicious-code-nuget-packages/
 > https://www.reddit.com/r/netsec/comments/11wltir/attackers_are_starting_to_target_net_developers/
 

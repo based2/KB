@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://paper-chan.moe/folia/
+> https://news.ycombinator.com/item?id=35376598
+
 https://www.onsclom.net/posts/simulator-state
 > https://news.ycombinator.com/item?id=35336632
 
