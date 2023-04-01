@@ -124,6 +124,12 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.sfexaminer.com/forum/put-algebra-1-back-in-eighth-grade/article_01ca608e-be01-11ed-9d12-5fb4111a4db8.html
+> https://news.ycombinator.com/item?id=35379809
+
+https://www.coursem8.com/
+> https://news.ycombinator.com/item?id=35398480
+
 https://github.com/cksystemsteaching/selfie
 > https://news.ycombinator.com/item?id=34554007
 

@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://eu.detroitnews.com/story/business/autos/2023/03/29/stellantis-carlos-tavares-freedom-mobility-forum-raw-materials-electric-vehicles/70059274007/
+> https://news.ycombinator.com/item?id=35380993
+
 https://www.theguardian.com/environment/2023/feb/23/climate-friendly-us-program-plastics-fuel-cancer
 > https://news.ycombinator.com/item?id=35364166
 

@@ -84,6 +84,9 @@ https://github.com/seq-lang/seq
 https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf
 > https://news.ycombinator.com/item?id=30453919
 
+https://aplcart.info/
+> https://news.ycombinator.com/item?id=35396696
+
 ## K
 https://news.ycombinator.com/item?id=27842541
 
@@ -103,6 +106,9 @@ https://github.com/SinaKhalili/Folders.py
 > https://news.ycombinator.com/item?id=29913880
 
 https://tsk.bearblog.dev/cool-tricks-in-k/
+
+https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a group
+> https://news.ycombinator.com/item?id=35380459
 
 # Hackathon
 https://www.juricho.me/posts/online-hackathon/

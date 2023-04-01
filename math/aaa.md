@@ -205,7 +205,7 @@ https://alleninstitute.org/what-we-do/cell-science/news-press/articles/interior-
 https://www.quantamagazine.org/long-out-of-math-an-ai-programmer-cracks-a-pure-math-problem-20230103/
 > https://news.ycombinator.com/item?id=34236889
 
-https://mafs.dev/
+https://mafs.dev/ react
 > https://news.ycombinator.com/item?id=34214896
 
 https://en.m.wikipedia.org/wiki/Lie_group

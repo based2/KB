@@ -119,3 +119,5 @@ https://semiengineering.com/flip-chip-integration-of-a-gasb-semiconductor-optica
 > https://news.ycombinator.com/item?id=31977495
 
 https://pubs.rsc.org/en/content/articlelanding/2020/ce/c9ce01838g Controllable growth of transition metal dichalcogenide multilayer flakes with kirigami structures
+
+https://gizmodo.com/glasses-fog-anti-no-fog-without-spray-heating-gold-laye-1849887511

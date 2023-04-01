@@ -207,6 +207,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://www.dylanpaulus.com/posts/making-react-fast
+
 https://www.robinwieruch.de/react-starter/
 > https://news.ycombinator.com/item?id=35280454
 

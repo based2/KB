@@ -240,6 +240,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://lifeofaudrey.com/2018/07/03/osbridge.html
+> https://news.ycombinator.com/item?id=35378771
+
 https://www.fsf.org/news/free-software-awards-winners-announced-eli-zaretskii-tad-skewedzeppelin-gnu-jami
 
 https://bytesdataaction.substack.com/p/open-core-profit

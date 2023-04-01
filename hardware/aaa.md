@@ -76,6 +76,10 @@ https://github.com/madprops/blog/blob/main/mouse.md
 https://www.xythobuz.de/trackball_v1.html
 > https://news.ycombinator.com/item?id=34833098
 
+# Screen
+https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/
+> https://news.ycombinator.com/item?id=35387160
+
 # LED
 https://gregdavill.com/blog/d20 2,400 LED icosahedron (20 sided)
 > https://news.ycombinator.com/item?id=28615184
@@ -93,6 +97,9 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://semiengineering.com/mini-consortia-forming-around-chiplets/
+> https://news.ycombinator.com/item?id=35369917
+
 https://www.allaboutcircuits.com/news/nvidia-unveils-culitho-breakthrough-in-computational-lithography/
 > https://news.ycombinator.com/item?id=35301207
 

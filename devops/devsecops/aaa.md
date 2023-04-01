@@ -24,6 +24,9 @@ https://dependencytrack.org/
 
 https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 
+https://github.blog/2023-03-28-introducing-self-service-sboms/
+> https://news.ycombinator.com/item?id=35371291
+
 #
 https://thenewstack.io/how-to-implement-a-security-scanner-for-docker-images/
 

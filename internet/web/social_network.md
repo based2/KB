@@ -71,6 +71,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm
+> https://news.ycombinator.com/item?id=35391433
+
 https://twittercommunity.com/t/announcing-new-access-tiers-for-the-twitter-api/188728
 > https://news.ycombinator.com/item?id=35374698
 

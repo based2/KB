@@ -12,7 +12,7 @@ https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-S
 
 https://tvm.apache.org/vta
 
-https://dataflowr.github.io/website/
+https://dataflowr.github.io/website/ deep learning yourself
 
 https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/
 
@@ -299,6 +299,15 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://arxiv.org/abs/2110.10819 Shaking the foundations: delusions in sequence models for interaction and control
+> https://lobste.rs/s/u4brkc/shaking_foundations_delusions_sequence
+
+https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tuned-finance/
+> https://news.ycombinator.com/item?id=35395464
+
+https://maxliani.wordpress.com/2023/03/24/dnnd-2-tensors-and-convolution/
+>
+
 https://news.ycombinator.com/item?id=35370915
 
 https://lachlangray.blot.im/the-cambrian-period-of-ai
@@ -307,16 +316,10 @@ https://lachlangray.blot.im/the-cambrian-period-of-ai
 https://www.erichgrunewald.com/posts/the-prospect-of-an-ai-winter/
 > https://news.ycombinator.com/item?id=35332537
 
-https://github.com/Lightning-AI/lit-llama
-> https://news.ycombinator.com/item?id=35344787
-
 https://secondbreakfast.co/ai-vs-agi-vs-consciousness-vs-super-intelligence-vs-agency
 
 https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c
 > https://news.ycombinator.com/item?id=35313171
-
-https://blog.lastmileai.dev/using-openais-retrieval-plugin-with-llama-d2e0b6732f14
-> https://news.ycombinator.com/item?id=35315542
 
 https://norvig.com/Lisp-retro.html
 > https://news.ycombinator.com/item?id=35312833
@@ -358,9 +361,6 @@ https://react-lm.github.io/ ReAct: Synergizing Reasoning and Acting in Language 
 
 https://arxiv.org/abs/2303.09752 CoLT5: Faster Long-Range Transformers with Conditional Computation
 
-https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
-> https://news.ycombinator.com/item?id=35227358
-
 https://huggingface.co/blog/rlhf
 
 https://xenova.github.io/transformers.js/
@@ -369,25 +369,13 @@ https://xenova.github.io/transformers.js/
 https://www.tbray.org/ongoing/When/202x/2023/03/14/Binging
 > https://news.ycombinator.com/item?id=35203262
 
-https://simonwillison.net/2023/Mar/11/llama/
-> https://news.ycombinator.com/item?id=35111646
-
 https://pytorch.org/docs/stable/fx.html
 > https://news.ycombinator.com/item?id=35107221
 
 https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html
 
-https://dev.l1x.be/posts/2023/12/08/using-llama-with-m1-mac/
-> https://news.ycombinator.com/item?id=35122689
-
-https://github.com/ggerganov/llama.cpp
-> https://news.ycombinator.com/item?id=35100086
-
 https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html
 > https://news.ycombinator.com/item?id=35078410
-
-https://github.com/markasoftware/llama-cpu
-> https://news.ycombinator.com/item?id=35065796
 
 https://arstechnica.com/information-technology/2023/03/microsoft-unveils-kosmos-1-an-ai-language-model-with-visual-perception-abilities/
 
@@ -402,9 +390,6 @@ https://bdtechtalks.com/2023/01/23/adversarial-machine-learning-book/
 https://www.agisafetyfundamentals.com/ai-alignment-curriculum
 > https://news.ycombinator.com/item?id=35031023
 
-https://github.com/shawwn/llama-dl
-> https://news.ycombinator.com/item?id=35026902
-
 https://www.quantamagazine.org/an-applied-mathematician-strengthens-ai-with-pure-math-20230301/
 > https://news.ycombinator.com/item?id=34993973
 
@@ -414,17 +399,8 @@ https://github.com/microsoft/unilm
 https://arxiv.org/abs/2303.00031 Tiny Classifier Circuits: Evolving Accelerators for Tabular Data
 > https://news.ycombinator.com/item?id=35005384
 
-https://github.com/facebookresearch/llama/pull/73/files
-> https://news.ycombinator.com/item?id=35007978
-
-https://kaspergroesludvigsen.medium.com/facebook-disclose-the-carbon-footprint-of-their-new-llama-models-9629a3c5c28b
-> https://news.ycombinator.com/item?id=35019093
-
 https://github.com/kir-gadjello/zipslicer
 > https://news.ycombinator.com/item?id=35013939
-
-https://ai.facebook.com/blog/large-language-model-llama-meta-ai/
-> https://news.ycombinator.com/item?id=34925944
 
 https://news.ycombinator.com/item?id=34905210
 
@@ -594,9 +570,6 @@ https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb
 https://news.ycombinator.com/item?id=33954702
 
 https://news.ycombinator.com/item?id=33955125
-
-https://learnprompting.org/
->
 
 https://www.assemblyai.com/blog/deepminds-alphatensor-explained/
 

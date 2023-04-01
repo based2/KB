@@ -74,6 +74,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://itsfoss.com/immutable-linux-distros/
+> https://news.ycombinator.com/item?id=35383672
+
 https://linuxiac.com/opensuse-grows-in-popularity/
 > https://news.ycombinator.com/item?id=35313903
 

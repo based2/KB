@@ -296,6 +296,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://helix-editor.com/news/release-23-03-highlights/
+> https://news.ycombinator.com/item?id=35384691
+
 https://techcrunch.com/2023/03/27/microsoft-rebuilds-teams-promises-2x-faster-performance/
 > https://news.ycombinator.com/item?id=35328057
 

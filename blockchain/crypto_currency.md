@@ -23,6 +23,11 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://bittrex.com/discover/important-message-for-bittrex-u-s-customers
+> https://news.ycombinator.com/item?id=35392010
+
+https://news.ycombinator.com/item?id=35397418
+
 https://news.ycombinator.com/item?id=35327996
 
 https://news.ycombinator.com/item?id=35304662

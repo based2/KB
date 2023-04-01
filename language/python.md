@@ -15,54 +15,9 @@ https://hynek.me/articles/python-subclassing-redux/
 https://death.andgravity.com/namedtuples
 > https://news.ycombinator.com/item?id=27906752
 
-# Functional
-https://github.com/pytoolz/toolz
-
-# Scheduler
-https://martinheinz.dev/blog/39
-
-# Switch
-https://news.ycombinator.com/item?id=26533270
--> New pattern matching
-
-# Async
-https://superfastpython.com/python-asyncio/
-> https://news.ycombinator.com/item?id=33547323
-
-https://github.com/klen/py-frameworks-bench
-
-https://mnemic.readthedocs.io/en/main/index.html
-> https://news.ycombinator.com/item?id=27409661
-
-https://snarky.ca/unravelling-the-async-with-statement/
-
-https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/
-
-https://www.erichgrunewald.com/posts/gradually-migrating-python-code-to-asyncio/
-> https://news.ycombinator.com/item?id=30886927
-
-https://superfastpython.com/python-concurrency-choose-api/
-> https://news.ycombinator.com/item?id=32408577
-
-https://sdiehl.github.io/gevent-tutorial/
-> https://news.ycombinator.com/item?id=32641788
-
-https://github.com/drpancake/chard Simple async/await background tasks for Django
-> https://news.ycombinator.com/item?id=32799358
-
-https://www.aeracode.org/2018/02/19/python-async-simplified/
-> https://news.ycombinator.com/item?id=33283938
-
-https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent
-> https://news.ycombinator.com/item?id=34395138
-
-https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/
-> https://news.ycombinator.com/item?id=34754276
-
-https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/
-> https://news.ycombinator.com/item?id=35073136
-
 # Build
+https://venthur.de/2021-03-31-python-makefiles.html
+
 https://github.com/mesonbuild/meson
 
 https://gms.tf/the-rise-of-meson.html
@@ -107,6 +62,77 @@ https://p403n1x87.github.io/running-c-unit-tests-with-pytest.html
 https://semaphoreci.com/blog/property-based-testing-python-hypothesis-pytest
 > https://news.ycombinator.com/item?id=34450736
 
+https://wiki.python.org/moin/PythonTestingToolsTaxonomy
+
+https://docs.locust.io/en/stable/what-is-locust.html Load
+
+https://adamj.eu/tech/2022/01/14/make-simple-mocks-with-simplenamespace/
+
+# Packaging
+https://monadical.com/posts/how-to-package-python-for-apt-deb.html#
+
+# Doc
+https://www.sphinx-doc.org/en/master/
+
+# IDE
+
+https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/
+> https://news.ycombinator.com/item?id=27127387
+> https://notebook.basthon.fr/
+> https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
+
+# Switch
+https://news.ycombinator.com/item?id=26533270
+-> New pattern matching
+
+# Functional
+https://github.com/pytoolz/toolz
+
+# Scheduler
+https://martinheinz.dev/blog/39
+
+# Async
+https://superfastpython.com/python-asyncio/
+> https://news.ycombinator.com/item?id=33547323
+
+https://github.com/klen/py-frameworks-bench
+
+https://mnemic.readthedocs.io/en/main/index.html
+> https://news.ycombinator.com/item?id=27409661
+
+https://snarky.ca/unravelling-the-async-with-statement/
+
+https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/
+
+https://www.erichgrunewald.com/posts/gradually-migrating-python-code-to-asyncio/
+> https://news.ycombinator.com/item?id=30886927
+
+https://superfastpython.com/python-concurrency-choose-api/
+> https://news.ycombinator.com/item?id=32408577
+
+https://sdiehl.github.io/gevent-tutorial/
+> https://news.ycombinator.com/item?id=32641788
+
+https://github.com/drpancake/chard Simple async/await background tasks for Django
+> https://news.ycombinator.com/item?id=32799358
+
+https://www.aeracode.org/2018/02/19/python-async-simplified/
+> https://news.ycombinator.com/item?id=33283938
+
+https://roberts.pm/index.php?p=article&path=p2pd&category=most-recent
+> https://news.ycombinator.com/item?id=34395138
+
+https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/
+> https://news.ycombinator.com/item?id=34754276
+
+https://textual.textualize.io/blog/2023/03/08/overhead-of-python-asyncio-tasks/
+> https://news.ycombinator.com/item?id=35073136
+
+https://snarky.ca/unravelling-async-for-loops/
+> https://news.ycombinator.com/item?id=28509391
+
+https://textual.textualize.io/blog/2023/03/15/no-async-async-with-python/
+
 # Profiler
 
 https://github.com/bloomberg/memray
@@ -118,8 +144,17 @@ https://www.youtube.com/watch?v=vVUnCXKuNOg
 https://home.robusta.dev/blog/whyprofiler-the-worlds-first-hybrid-cpu-profiler-now-for-jupyter-notebook-and-python
 
 # Package
+
 https://antonz.org/python-packaging/
 > https://news.ycombinator.com/item?id=26733423
+
+https://bitecode.substack.com/p/why-not-tell-people-to-simply-use
+> https://news.ycombinator.com/item?id=35379008
+
+## Pypi
+https://github.blog/changelog/2021-03-22-the-python-package-index-is-now-a-github-secret-scanning-integrator/
+
+https://news.ycombinator.com/item?id=26565970
 
 # Types
 https://news.ycombinator.com/item?id=26529998
@@ -179,35 +214,8 @@ https://news.ycombinator.com/item?id=27675305
 
 https://automatetheboringstuff.com/
 
-# Async
-https://snarky.ca/unravelling-async-for-loops/
-> https://news.ycombinator.com/item?id=28509391
-
 # Gplot
 https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/
-
-# Build
-https://venthur.de/2021-03-31-python-makefiles.html
-
-# Packaging
-https://monadical.com/posts/how-to-package-python-for-apt-deb.html#
-
-# Doc
-https://www.sphinx-doc.org/en/master/
-
-# IDE
-
-https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/
-> https://news.ycombinator.com/item?id=27127387
-> https://notebook.basthon.fr/
-> https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
-
-# Test
-https://wiki.python.org/moin/PythonTestingToolsTaxonomy
-
-https://docs.locust.io/en/stable/what-is-locust.html Load
-
-https://adamj.eu/tech/2022/01/14/make-simple-mocks-with-simplenamespace/
 
 # Data
 ## Validation
@@ -233,11 +241,6 @@ https://pythonextensionpatterns.readthedocs.io/en/latest/index.html
 
 https://github.com/bsdz/calcengine
 > https://news.ycombinator.com/item?id=27768826
-
-# Pypi
-https://github.blog/changelog/2021-03-22-the-python-package-index-is-now-a-github-secret-scanning-integrator/
-
-https://news.ycombinator.com/item?id=26565970
 
 # Interops
 https://hpyproject.org/blog/posts/2021/03/hello-hpy/
@@ -278,6 +281,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://ohadravid.github.io/posts/2023-03-rusty-python/
+> https://news.ycombinator.com/item?id=35367520
+
 https://www.taichi-lang.org/
 > https://news.ycombinator.com/item?id=35084841
 

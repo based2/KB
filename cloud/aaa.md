@@ -133,6 +133,9 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://blog.pingsafe.com/shiba-inu-cloud-credentials-leaked-in-a-major-security-breach-394ad54382c1 2022
+> https://news.ycombinator.com/item?id=35389306
+
 https://www.bleepingcomputer.com/news/security/new-alienfox-toolkit-steals-credentials-for-18-cloud-services/
 
 https://status.elastic.co/

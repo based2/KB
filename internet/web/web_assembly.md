@@ -76,6 +76,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://github.com/naver/lispe/wiki/6.17-A-WebAssembly-version-of-LispE
+
 https://www.fermyon.com/blog/introducing-spin-v1
 
 https://thenewstack.io/javascript-vs-wasm-which-is-more-energy-efficient-and-faster/

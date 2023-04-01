@@ -42,6 +42,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://github.com/RosettaCommons/RFdiffusion
+> https://news.ycombinator.com/item?id=35377926
+
 https://www.ebi.ac.uk/biomodels/
 > https://news.ycombinator.com/item?id=35026493
 

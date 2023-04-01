@@ -35,6 +35,9 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://atoptics.co.uk/fz694.htm
+> https://news.ycombinator.com/item?id=35382614
+
 https://www.meteosource.com/
 > https://news.ycombinator.com/item?id=35375131
 

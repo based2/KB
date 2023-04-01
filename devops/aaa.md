@@ -341,6 +341,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/frain-dev/convoy
+> https://news.ycombinator.com/item?id=35369983
+
+https://matt-rickard.com/reflections-on-10-000-hours-of-devops
+> https://news.ycombinator.com/item?id=35387954
+
 https://blog.container-solutions.com/paula-kennedy-on-platform-team-responsibilities-patterns-and-anti-patterns
 
 https://mmapped.blog/posts/17-scaling-rust-builds-with-bazel.html

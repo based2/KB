@@ -219,6 +219,12 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://web.dev/viewport-units/
+
+https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
+
+https://www.dylanpaulus.com/posts/css-box-model
+
 https://www.aha.io/engineering/articles/css-is-hard-no-matter-how-good-you-are-at-it
 > https://news.ycombinator.com/item?id=35361628
 

@@ -274,6 +274,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://git-scm.com/docs/git-worktree/2.39.0
+> https://www.dylanpaulus.com/posts/git-worktree
+
 https://gut-cli.dev/
 > https://news.ycombinator.com/item?id=35371469
 

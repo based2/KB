@@ -1,6 +1,10 @@
 https://www.simutrans.com/en/
 > https://news.ycombinator.com/item?id=30278595
 
+#
+https://www.freightwaves.com/news/video-shows-ghost-co-driver-added-to-truckers-eld-to-skirt-hos-rules
+> https://news.ycombinator.com/item?id=35387584
+
 https://www.theverge.com/2022/11/11/23453665/volkswagen-star-trek-office-chair-video
 
 https://gcaptain.com/yara-birkeland-worlds-first-autonomous-zero-emission-ship/

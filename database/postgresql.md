@@ -271,6 +271,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://www.infoq.com/articles/wonders-of-postgres-logical-decoding-messages/
+> https://news.ycombinator.com/item?id=35393040
+
 https://cloud.google.com/blog/products/databases/run-alloydb-anywhere?hl=en
 > https://news.ycombinator.com/item?id=35357252
 

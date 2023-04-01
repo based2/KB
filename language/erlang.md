@@ -22,6 +22,8 @@ https://blog.erlang.org/My-OTP-24-Highlights/
 
 https://www.erlang.org/doc/design_principles/users_guide.html
 
+https://medium.com/erlang-battleground/erlang-otp-garbage-collector-48bb28767b87
+
 # BEAM VM
 https://beam-wisdoms.clau.se/en/latest/
 > https://news.ycombinator.com/item?id=26889048

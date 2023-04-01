@@ -72,6 +72,12 @@ https://www.armosec.io/blog/cve-2022-47633-kyvernos-container-image-signature-ve
 > https://www.reddit.com/r/kubernetes/comments/zshfp4/cve202247633_kyvernos_signature_verification_can/
 
 # News
+https://betterprogramming.pub/why-i-will-never-use-alpine-linux-ever-again-a324fd0cbfd6
+> https://www.reddit.com/r/kubernetes/comments/11kb8wy/why_i_will_never_use_alpine_linux_ever_again/
+
+https://questdb.io/blog/databases-on-k8s/
+> https://www.reddit.com/r/kubernetes/comments/11g6lgp/running_databases_on_kubernetes/
+
 https://news.ycombinator.com/item?id=35345389
 
 https://rcwz.pl/2023-03-26-kubernetes-is-hard/

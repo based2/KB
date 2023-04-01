@@ -3,6 +3,8 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://www.vantage.sh/blog/cloudflare-r2-aws-s3-comparison
+
 https://news.ycombinator.com/item?id=35004020
 
 https://news.ycombinator.com/item?id=34639212

@@ -1,3 +1,14 @@
+https://dragon863.github.io/blog/alexa.html
+> https://news.ycombinator.com/item?id=35399590
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=135636
+> https://news.ycombinator.com/item?id=35384610
+
+https://arstechnica.com/information-technology/2023/03/hackers-exploit-wordpress-plugin-flaw-that-gives-full-control-of-millions-of-sites/
+
+https://krebsonsecurity.com/2023/03/german-police-raid-ddos-friendly-host-flyhosting/
+> https://news.ycombinator.com/item?id=35391370
+
 https://papers.mathyvanhoef.com/usenix2023-wifi.pdf
 > https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/
 

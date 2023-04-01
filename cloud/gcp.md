@@ -23,6 +23,12 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/
+> https://news.ycombinator.com/item?id=35397071
+
+https://old.reddit.com/r/google/comments/123fjx8/google_has_applied_a_5_million_items_limit_for/
+> https://news.ycombinator.com/item?id=35395001
+
 https://issuetracker.google.com/issues/268606830?pli=1 5M item limit for Google Drive: File unable to generate or upload due to 403
 
 https://securityintelligence.com/posts/attacker-achieve-persistence-google-cloud-platform-cloud-shell/

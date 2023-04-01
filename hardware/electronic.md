@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://jmw.name/projects/exploring-pdns/
+> https://news.ycombinator.com/item?id=35368795
+
 https://tinytapeout.com/
 > 
 

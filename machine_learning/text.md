@@ -9,6 +9,23 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://news.ycombinator.com/item?id=35392063 Ask HN: Science Fiction books that predict where ChatGPT might lead us?
+
+https://yakgpt.vercel.app/
+> https://news.ycombinator.com/item?id=35374593
+
+https://vicuna.lmsys.org/
+> https://news.ycombinator.com/item?id=35378683
+
+https://simonwillison.net/2023/Mar/17/beat-chatgpt-in-a-browser/
+> https://news.ycombinator.com/item?id=35391115
+
+https://arxiv.org/abs/2303.17580
+> https://news.ycombinator.com/item?id=35390153
+
+https://sharegpt.com/c/ICZsSl7 simulate a BBS system
+> https://news.ycombinator.com/item?id=35396165
+
 https://www.careered.ai/tool/cover-letter
 > https://news.ycombinator.com/item?id=35306805
 

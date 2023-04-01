@@ -193,6 +193,8 @@ https://ssmertin.com/articles/exposing-azure-storage-on-domain-apex-with-letsenc
 
 https://medium.com/@ECD3/managing-terraform-state-in-azure-best-practices-for-multiple-environments-c2f28bab2316
 
+https://www.reddit.com/r/Terraform/comments/124zo2n/bicep_vs_terraform/
+
 # GCP
 https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b63245e31a88
 
@@ -200,6 +202,10 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://www.reddit.com/r/Terraform/comments/125jibe/open_source_tacos_kubernetes_operator/
+> https://www.padok.fr/en/blog/burrito-tacos
+> https://github.com/padok-team/burrito
+
 https://www.ansible.com/blog/providing-terraform-with-that-ansible-magic
 
 https://faun.pub/demystify-terraform-provisioners-f75e738a824?gi=c06a89cc2400

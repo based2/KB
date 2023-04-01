@@ -67,3 +67,6 @@ https://www.svgbackgrounds.com/
 
 https://tinyvg.tech/
 > https://news.ycombinator.com/item?id=35227635
+
+https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/
+> https://news.ycombinator.com/item?id=35381755

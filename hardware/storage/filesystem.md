@@ -44,6 +44,9 @@ https://winfsp.dev/
 > https://winfsp.dev/doc/Known-File-Systems/
 
 # News
+https://axcient.com/blog/using-dtrace-to-find-block-sizes-of-zfs-nfs-and-iscsi/
+> https://lobste.rs/s/1tmy0w/using_dtrace_find_block_sizes_zfs_nfs
+
 https://hondu.co/blog/file-expiration-using-bpf
 > https://news.ycombinator.com/item?id=35301939
 

@@ -160,6 +160,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+http://www.igregious.com/2023/03/gmail-is-breaking-email.html
+> https://news.ycombinator.com/item?id=35380823
+
 https://news.ycombinator.com/item?id=35235732
 
 https://github.com/stalwartlabs/smtp-server

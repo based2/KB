@@ -61,6 +61,9 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://www.youtube.com/watch?v=dgd88zE3O38
+> https://news.ycombinator.com/item?id=35394297
+
 https://github.com/Anuken/Mindustry
 
 https://docs.rigsofrods.org/gameplay/beginners-guide/

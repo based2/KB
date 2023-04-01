@@ -1,3 +1,6 @@
+https://iliana.fyi/blog/acropalypse-now/
+> https://news.ycombinator.com/item?id=35378109
+
 https://arstechnica.com/information-technology/2023/03/android-app-from-china-executed-0-day-exploit-on-millions-of-devices/
 > https://news.ycombinator.com/item?id=35340171
 

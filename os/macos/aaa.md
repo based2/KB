@@ -69,6 +69,8 @@ https://hynek.me/articles/macos-dyld-env/
 https://krypted.com/mac-os-x/free-space-required-for-modern-macos-upgrades/
 
 # Dev
+https://github.com/shapehq/tartelet github
+
 https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store
 > https://news.ycombinator.com/item?id=34379156
 

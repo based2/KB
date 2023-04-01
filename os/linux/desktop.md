@@ -94,6 +94,10 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.winehq.org/announce/8.5
+
+https://pointieststick.com/2023/03/31/this-week-in-kde-its-the-little-things-that-count/
+
 https://www.phoronix.com/news/KDE-More-Wayland-Fixes-March
 
 https://pointieststick.com/2023/03/17/this-week-in-kde-more-wayland-fixes/

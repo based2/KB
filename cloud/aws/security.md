@@ -25,6 +25,9 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://aws.amazon.com/en/about-aws/whats-new/2023/03/application-load-balancer-tls-1-3/
+> https://www.reddit.com/r/aws/comments/12611nu/tls_13_with_elb_and_alb_the_wait_is_over/
+
 https://sysdig.com/blog/cloud-breach-terraform-data-theft/
 
 https://d1.awsstatic.com/events/Summits/reinvent2022/NET207_A-deep-dive-on-the-current-security-threat-landscape-with-AWS.pdf

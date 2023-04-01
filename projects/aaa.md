@@ -161,6 +161,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent
+
 https://jacobian.org/2023/mar/28/incompetent-but-nice/
 > https://news.ycombinator.com/item?id=35344703
 

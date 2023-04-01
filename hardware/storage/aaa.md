@@ -17,6 +17,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://htwingnut.com/2022/09/11/ssd-as-long-term-storage-testing/
+> https://news.ycombinator.com/item?id=35382252
+
 https://github.com/pojntfx/go-nbd
 > https://news.ycombinator.com/item?id=35359473
 
