@@ -558,6 +558,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 # Dynamic.js libjs
 
 # News
+https://csswizardry.com/2023/01/why-not-document-write/
+> https://news.ycombinator.com/item?id=35398901
+
 https://krausest.github.io/js-framework-benchmark/2022/table_chrome_103.0.5060.53_osx.html
 
 https://sailsjs.com/ mvc node.js

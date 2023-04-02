@@ -299,6 +299,8 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://news.ycombinator.com/item?id=35405338
+
 https://arxiv.org/abs/2110.10819 Shaking the foundations: delusions in sequence models for interaction and control
 > https://lobste.rs/s/u4brkc/shaking_foundations_delusions_sequence
 

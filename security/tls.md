@@ -138,6 +138,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 #
+https://vigilance.fr/vulnerabilite/Undertow-Man-in-the-Middle-via-TLS-Client-40911 jboss
+
 https://www.openssl.org/news/secadv/20230322.txt
 
 https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzing-ssh/

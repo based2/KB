@@ -28,6 +28,8 @@ https://github.blog/2023-03-28-introducing-self-service-sboms/
 > https://news.ycombinator.com/item?id=35371291
 
 #
+https://github.com/boringtools/git-alerts
+
 https://thenewstack.io/how-to-implement-a-security-scanner-for-docker-images/
 
 https://www.synacktiv.com/en/publications/cicd-secrets-extraction-tips-and-tricks.html

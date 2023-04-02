@@ -27,6 +27,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://news.ycombinator.com/item?id=35391984
+
 https://www.space.com/rolls-royce-funding-microreactor-moon-base
 > https://news.ycombinator.com/item?id=35218780
 

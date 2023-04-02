@@ -171,6 +171,9 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://www.exhypothesi.com/clocks-and-causality/
+> https://news.ycombinator.com/item?id=35399603
+
 https://opensource.googleblog.com/2023/03/introducing-service-weaver-framework-for-writing-distributed-applications.html
 > https://news.ycombinator.com/item?id=34986267
 

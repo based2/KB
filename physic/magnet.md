@@ -7,3 +7,6 @@ https://www.nature.com/articles/s41586-022-04504-8 The field-free Josephson diod
 > > https://physicsworld.com/a/scientists-unveil-josephson-diode/
 
 https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.021043 Low-Temperature Competing Magnetic Energy Scales in the Topological Ferrimagnet TbMn6Sn
+
+https://phys.org/news/2023-03-magnon-based-paradigm-shift.html
+> https://news.ycombinator.com/item?id=35399551

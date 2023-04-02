@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.popsci.com/environment/renewable-energy-generation-coal-2022/
+> https://news.ycombinator.com/item?id=35408249
+
 https://eu.detroitnews.com/story/business/autos/2023/03/29/stellantis-carlos-tavares-freedom-mobility-forum-raw-materials-electric-vehicles/70059274007/
 > https://news.ycombinator.com/item?id=35380993
 

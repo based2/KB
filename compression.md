@@ -36,6 +36,9 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
+#
+https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
+
 # News
 https://timbaumann.info/svd-image-compression-demo/
 > https://news.ycombinator.com/item?id=34731679

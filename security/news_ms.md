@@ -1,3 +1,9 @@
+https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview
+> https://news.ycombinator.com/item?id=35413594
+
+https://blog.agilehunt.com/blogs/security/msrc-critical-google-iap-authorization-bypass-allows-access-to-internal-envirnment-leading-to-zero-interaction-account-takeover
+> https://www.reddit.com/r/netsec/comments/11pbxzy/clipchamp_microsoft_office_product_google_iap/
+
 https://ameliorated.io/
 > https://news.ycombinator.com/item?id=35398294
 

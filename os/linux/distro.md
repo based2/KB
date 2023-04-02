@@ -74,6 +74,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.theregister.com/2023/03/31/new_openmandriva_rome_2303/
+
 https://itsfoss.com/immutable-linux-distros/
 > https://news.ycombinator.com/item?id=35383672
 

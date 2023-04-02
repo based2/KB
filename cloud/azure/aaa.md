@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.theregister.com/2023/03/30/wiz_bing_takeover/
+
 https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration
 > https://news.ycombinator.com/item?id=35364383
 

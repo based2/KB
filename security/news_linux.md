@@ -3,6 +3,8 @@ https://github.com/queer/boxxy puts bad Linux applications in a box with only th
 > https://news.ycombinator.com/item?id=34730520
 
 # News
+https://albocoder.github.io/exploit/2023/03/13/KernelFileExploit.html CVE-2022-27666
+
 https://www.neowin.net/news/google-discloses-centos-linux-kernel-vulnerabilities-following-failure-to-issue-timely-fixes/
 > https://news.ycombinator.com/item?id=35289537
 

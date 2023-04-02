@@ -44,3 +44,5 @@ https://tools.ietf.org/
 > > https://datatracker.ietf.org/
 
 https://www.rfc-editor.org/rfc/rfc1925 The Twelve Networking Truths
+
+https://www.rfc-editor.org/rfc/rfc9402.html Concat Notation

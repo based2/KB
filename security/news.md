@@ -1,3 +1,13 @@
+https://blog.adacore.com/the-end-of-binary-protocol-parser-vulnerabilities
+> https://news.ycombinator.com/item?id=35405682
+
+https://www.mannulinux.org/2023/03/exploiting-hibernate-injection-in-order.html java oracle
+
+https://www.sonarsource.com/blog/it-s-a-snmp-trap-gaining-code-execution-on-librenms/
+
+https://blog.ceriksen.com/2023/04/01/leveraging-llms-for-solving-bounty-hunting-pain-points/
+> https://www.reddit.com/r/netsec/comments/128eokl/leveraging_llms_for_solving_bounty_hunting_pain/
+
 https://dragon863.github.io/blog/alexa.html
 > https://news.ycombinator.com/item?id=35399590
 

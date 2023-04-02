@@ -11,5 +11,7 @@ https://www.pagetable.com/?p=1721
 
 https://minimalissimo.com/articles/roller-jet-printer
 
+https://news.ycombinator.com/item?id=35407295
+
 # 3D
 https://news.ycombinator.com/item?id=29121318

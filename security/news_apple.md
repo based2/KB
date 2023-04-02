@@ -1,6 +1,8 @@
 https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware
 
 #
+https://n4r1b.com/posts/2023/03/the-intersection-of-apples-usb-lower-filter-and-iphone-wpd-integration/
+
 https://www.bleepingcomputer.com/news/apple/apple-fixes-recently-disclosed-webkit-zero-day-on-older-iphones/
 
 https://lapcatsoftware.com/articles/2023/3/4.html

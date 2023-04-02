@@ -38,6 +38,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://sw.kovidgoyal.net/kitty/keyboard-protocol/
+> https://news.ycombinator.com/item?id=35397994
+
 https://tabby.sh/
 > https://news.ycombinator.com/item?id=35111397
 
