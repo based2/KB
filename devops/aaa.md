@@ -341,6 +341,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/hocus-dev/hocus
+> https://news.ycombinator.com/item?id=35427343
+
 https://github.com/frain-dev/convoy
 > https://news.ycombinator.com/item?id=35369983
 

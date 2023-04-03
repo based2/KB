@@ -153,6 +153,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://gleam.run/news/v0.28-monorepos-fast-maps-and-more/
+> https://news.ycombinator.com/item?id=35425855
+
 https://mattpo.pe/posts/from-erlang-to-lunatic/
 > https://news.ycombinator.com/item?id=34846590
 

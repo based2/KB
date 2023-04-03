@@ -32,6 +32,12 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616
+> https://news.ycombinator.com/item?id=35421554
+
+https://mullvad.net/en/browser
+> https://news.ycombinator.com/item?id=35421034
+
 https://www.theregister.com/2023/04/01/google_mv2_chrome_extensions/
 
 https://webkit.org/blog/13966/webkit-features-in-safari-16-4/

@@ -85,6 +85,8 @@ https://github.com/maxatome/go-testdeep Extremely flexible golang deep compariso
 
 https://blog.fuzzbuzz.io/go-fuzzing-basics/
 
+https://github.com/jordanlewis/gcassert
+
 ## Profiler
 https://eng.uber.com/pprof-go-profiler/
 > https://news.ycombinator.com/item?id=27118541

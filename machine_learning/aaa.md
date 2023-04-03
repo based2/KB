@@ -299,6 +299,9 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b
+> https://news.ycombinator.com/item?id=35424835
+
 https://news.ycombinator.com/item?id=35405338
 
 https://arxiv.org/abs/2110.10819 Shaking the foundations: delusions in sequence models for interaction and control

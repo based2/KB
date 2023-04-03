@@ -4,6 +4,9 @@ https://github.com/LekKit/RVVM
 https://github.com/OpenXiangShan/XiangShan
 > https://news.ycombinator.com/item?id=35312960
 
+https://www.omglinux.com/star64-is-a-risc-v-single-board-pc/
+> https://news.ycombinator.com/item?id=35428379
+
 https://semiengineering.com/do-necessary-tools-exist-for-risc-v-verification/
 > https://news.ycombinator.com/item?id=35386815
 

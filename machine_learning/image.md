@@ -304,6 +304,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://twitter.com/DrJimFan/status/1642921475849203712
+> https://news.ycombinator.com/item?id=35426586
+
 https://arxiv.org/pdf/2302.04222.pdf GLAZE: Protecting Artists from Style Mimicry by Text-To-Images models
 
 https://ds-fusion.github.io/ font

@@ -17,6 +17,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://puzpuzpuz.dev/the-secret-life-of-fsync
+> https://news.ycombinator.com/item?id=35399818
+
 https://htwingnut.com/2022/09/11/ssd-as-long-term-storage-testing/
 > https://news.ycombinator.com/item?id=35382252
 

@@ -27,3 +27,6 @@ https://mjg59.dreamwidth.org/63787.html
 https://www.phoronix.com/news/AMD-openSIL-Open-Source
 
 https://patrick.georgi.family/2021/02/13/on-microcode/
+
+https://github.com/system76/firmware-open
+> https://news.ycombinator.com/item?id=35431119

@@ -30,6 +30,9 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://daily.jstor.org/what-it-sounds-like-when-doves-cry/
+> https://news.ycombinator.com/item?id=35407578
+
 https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3
 > https://news.ycombinator.com/item?id=35396156
 

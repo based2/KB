@@ -110,6 +110,8 @@ https://tsk.bearblog.dev/cool-tricks-in-k/
 https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a group
 > https://news.ycombinator.com/item?id=35380459
 
+https://news.ycombinator.com/item?id=35422570
+
 # Hackathon
 https://www.juricho.me/posts/online-hackathon/
 
@@ -320,6 +322,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/stepchowfun/proofs/tree/main/proofs/AdmissibilityGraph
+
 https://medium.com/@kaleberg7/apl-an-array-oriented-programming-language-b03fb39401c1
 > https://news.ycombinator.com/item?id=35369084
 

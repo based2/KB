@@ -107,6 +107,9 @@ https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://thenumb.at/Hashtables/
+> https://news.ycombinator.com/item?id=35412788
+
 https://orlp.net/blog/worlds-smallest-hash-table/
 > https://news.ycombinator.com/item?id=35037690
 

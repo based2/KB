@@ -74,6 +74,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/
+> https://news.ycombinator.com/item?id=35428847
+
 https://www.theregister.com/2023/03/31/new_openmandriva_rome_2303/
 
 https://itsfoss.com/immutable-linux-distros/

@@ -1,4 +1,7 @@
 # llama Facebook
+https://twitter.com/jeremyphoward/status/1642726595436883969
+> https://news.ycombinator.com/item?id=35426679
+
 https://github.com/ggerganov/llama.cpp/pull/613
 > https://news.ycombinator.com/item?id=35393284
 

@@ -272,6 +272,9 @@ https://github.com/HackSoftware/Django-Styleguide
 https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/
 > https://news.ycombinator.com/item?id=35313565
 
+https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/
+> https://news.ycombinator.com/item?id=35428225
+
 https://fly.io/blog/standout-features-in-django-4-2/
 
 # History
