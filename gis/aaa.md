@@ -218,6 +218,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://news.ycombinator.com/item?id=35444450
+
+https://tomcritchlow.com/2023/04/03/blog-maps/
+> https://news.ycombinator.com/item?id=35431328
+
 https://news.ycombinator.com/item?id=35397051
 
 https://theundeniablestreetview.com/ ua

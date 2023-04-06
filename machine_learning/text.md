@@ -9,6 +9,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://platform.openai.com/tokenizer
+> https://news.ycombinator.com/item?id=35453400
+
 https://news.ycombinator.com/item?id=35392063 Ask HN: Science Fiction books that predict where ChatGPT might lead us?
 
 https://yakgpt.vercel.app/

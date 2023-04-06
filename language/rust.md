@@ -441,6 +441,18 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://github.com/ArroyoSystems/arroyo Distributed stream processing engine
+> https://www.reddit.com/r/programming/comments/12cvc8y/arroyo_a_new_opensource_sql_stream_processing/
+
+https://thedav.is/post/rusts-poor-composability/
+> https://news.ycombinator.com/item?id=35468168
+
+https://www.biscuitsec.org/blog/biscuit-3-0/
+> https://news.ycombinator.com/item?id=35464000
+
+https://www.svix.com/blog/heap-fragmentation-in-rust-applications/
+> https://news.ycombinator.com/item?id=35470371
+
 https://slint-ui.com/blog/announcing-slint-1.0.html
 
 https://blog.adamchalmers.com/why-rust-on-backend/

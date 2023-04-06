@@ -6,6 +6,8 @@ https://www.fpcomplete.com/blog/pains-path-parsing/
 https://news.ycombinator.com/item?id=26991332
 
 #
+https://news.ycombinator.com/item?id=35442116
+
 https://datatracker.ietf.org/doc/html/draft-sporny-hashlink-07
 > https://news.ycombinator.com/item?id=33597657
 

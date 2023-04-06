@@ -35,6 +35,9 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://til.simonwillison.net/googlecloud/video-frame-ocr
+> https://news.ycombinator.com/item?id=35435979
+
 https://atoptics.co.uk/fz694.htm
 > https://news.ycombinator.com/item?id=35382614
 

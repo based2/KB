@@ -103,6 +103,9 @@ https://blog.archive.org/2017/08/11/hypercard-on-the-archive-celebrating-30-year
 https://www.mondo2000.com/2018/06/18/the-inspiration-for-hypercard/
 > https://news.ycombinator.com/item?id=34122072
 
+https://orangejuiceliberationfront.com/how-hypercard-got-its-color-back/
+> https://news.ycombinator.com/item?id=35431678
+
 # ResEdit
 https://www.macintoshrepository.org/1317-resedit-2-1-3
 
@@ -124,6 +127,8 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://news.ycombinator.com/item?id=35432734
+
 https://www.youtube.com/watch?v=63WcU7LBKFg
 > https://news.ycombinator.com/item?id=35303934
 

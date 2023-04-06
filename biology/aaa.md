@@ -42,6 +42,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://bair.berkeley.edu/blog/2019/11/04/proteins/
+> https://lobste.rs/s/tvahev/can_we_learn_language_proteins_2019
+
 https://news.ycombinator.com/item?id=35414262
 
 https://github.com/RosettaCommons/RFdiffusion

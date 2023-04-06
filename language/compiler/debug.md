@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://getsentry.github.io/symbolicator/
+> https://news.ycombinator.com/item?id=35438171
+
 https://werat.dev/blog/what-a-good-debugger-can-do/
 > https://news.ycombinator.com/item?id=35092998
 

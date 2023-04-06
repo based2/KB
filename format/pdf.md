@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://www.pdfa.org/sponsored-standards/
+> https://news.ycombinator.com/item?id=35460432
+
 https://news.ycombinator.com/item?id=35065785
 
 https://dangerzone.rocks/

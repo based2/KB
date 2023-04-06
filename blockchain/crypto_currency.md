@@ -23,6 +23,11 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=35445124
+
+https://www.theguardian.com/business/2023/apr/06/crypto-exchange-binances-australian-financial-services-licence-cancelled-by-asic
+> https://news.ycombinator.com/item?id=35467144
+
 https://bittrex.com/discover/important-message-for-bittrex-u-s-customers
 > https://news.ycombinator.com/item?id=35392010
 

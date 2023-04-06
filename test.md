@@ -143,6 +143,11 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://redis.com/blog/datasets-for-test-databases/
+
+https://blog.janestreet.com/the-joy-of-expect-tests/
+> https://www.reddit.com/r/programming/comments/12de37u/what_if_writing_tests_was_a_joyful_experience/
+
 https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/
 > https://news.ycombinator.com/item?id=35339521
 

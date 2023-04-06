@@ -72,6 +72,8 @@ https://www.armosec.io/blog/cve-2022-47633-kyvernos-container-image-signature-ve
 > https://www.reddit.com/r/kubernetes/comments/zshfp4/cve202247633_kyvernos_signature_verification_can/
 
 # News
+https://news.ycombinator.com/item?id=35424551
+
 https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html
 > https://news.ycombinator.com/item?id=35424551
 

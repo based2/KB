@@ -154,6 +154,8 @@ http://www.rntz.net/files/thesis.pdf Deconstructing Datalog
 
 https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html
 
+https://news.ycombinator.com/item?id=35449494
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721

@@ -299,6 +299,23 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://news.ycombinator.com/item?id=35430188
+
+https://openai.com/blog/our-approach-to-ai-safety
+> https://news.ycombinator.com/item?id=35458526
+
+https://aiindex.stanford.edu/report/
+> https://news.ycombinator.com/item?id=35437726
+
+https://cloud.google.com/blog/topics/systems/tpu-v4-enables-performance-energy-and-co2e-efficiency-gains?hl=en
+> https://news.ycombinator.com/item?id=35460219
+
+https://worldcoin.org/blog/engineering/intro-to-zkml
+> https://news.ycombinator.com/item?id=35456984
+
+https://confusedbit.dev/posts/how_does_gpt_work/
+> https://news.ycombinator.com/item?id=35466201
+
 https://medium.com/javascript-scene/sudolang-a-powerful-pseudocode-programming-language-for-llms-d64d42aa719b
 > https://news.ycombinator.com/item?id=35424835
 

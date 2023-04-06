@@ -28,6 +28,9 @@ https://shop.boox.com/products/mira
 > https://news.ycombinator.com/item?id=29428285
 
 # Keyboard
+https://github.com/bfritscher/carnac
+> https://news.ycombinator.com/item?id=35454666
+
 https://github.com/aru-py/programmer-colemak
 
 https://torvaney.github.io/projects/t9-optimised.html
@@ -97,6 +100,17 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://news.ycombinator.com/item?id=35432759
+
+https://arstechnica.com/gadgets/2023/04/microsofts-new-surface-dock-tosses-the-proprietary-port-uses-thunderbolt-4/
+> https://news.ycombinator.com/item?id=35448187
+
+https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600
+> https://hothardware.com/news/ddr5-mrdimms-standardized-up-to-17600
+
+https://www.youtube.com/watch?v=nNpuiJitKwk A Brief History of Semiconductor Packaging
+> https://news.ycombinator.com/item?id=35427216
+
 https://semiengineering.com/mini-consortia-forming-around-chiplets/
 > https://news.ycombinator.com/item?id=35369917
 

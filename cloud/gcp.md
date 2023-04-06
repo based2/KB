@@ -23,6 +23,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://twitter.com/googledrive/status/1643049029251776515
+> https://news.ycombinator.com/item?id=35434314
+
 https://arstechnica.com/gadgets/2023/03/google-drive-does-a-surprise-rollout-of-file-limits-locking-out-some-users/
 > https://news.ycombinator.com/item?id=35397071
 

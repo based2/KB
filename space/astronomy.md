@@ -59,6 +59,11 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://news.ycombinator.com/item?id=35450978
+
+https://galaxym.ovh/
+> https://news.ycombinator.com/item?id=35461777
+
 https://phys.org/news/2023-03-webb-coronagraphs-reveal-exoplanets-infrared.html
 
 https://www.sciencedaily.com/releases/2023/02/230201134112.htm

@@ -38,6 +38,9 @@ https://github.com/headwaymaps/headway Self-hostable maps stack, powered by Open
 > https://news.ycombinator.com/item?id=32875795
 
 #
+https://wcedmisten.fyi/post/visualizing-hospital-accessibility/
+> https://news.ycombinator.com/item?id=35434435
+
 https://www.openstreetmap.org/user/rtnf/diary/400836 tile hosting
 
 https://jakecoppinger.com/2023/01/lane-accurate-street-maps-with-openstreetmap-writing-a-vector-tileserver-for-osm2streets/

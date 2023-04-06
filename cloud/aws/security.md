@@ -20,11 +20,13 @@ https://notdodo.medium.com/aws-ec2-auto-scaling-privilege-escalation-d518f8e7f91
 
 # KMS
 
-https://wolfman.dev/posts/aws-kms-for-envelope-encryption/
+https://wolfman.dev/posts/aws-kms-for-envelope-encryption/ SecurityNotifications arn:partition:iam:*:*
 
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://www.slideshare.net/MichaelFelch/welcome-to-the-jungle-pentesting-aws
+
 https://aws.amazon.com/en/about-aws/whats-new/2023/03/application-load-balancer-tls-1-3/
 > https://www.reddit.com/r/aws/comments/12611nu/tls_13_with_elb_and_alb_the_wait_is_over/
 

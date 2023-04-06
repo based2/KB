@@ -53,6 +53,9 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://github.com/cilium/pwru
+> https://news.ycombinator.com/item?id=35450007
+
 https://stdnoerr.github.io/writeup/2022/08/21/eBPF-exploitation-(ft.-D-3CTF-d3bpf).html
 > https://news.ycombinator.com/item?id=34371123
 

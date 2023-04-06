@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.jdsupra.com/legalnews/court-ruling-could-affect-the-future-6662722/ dao
+> https://news.ycombinator.com/item?id=35468103
+
 https://medium.com/@alephium/an-introduction-to-the-stateful-utxo-model-8de3b0f76749
 
 https://vitalik.eth.limo/general/2023/01/20/stealth.html

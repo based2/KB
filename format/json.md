@@ -73,6 +73,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://corecursive.com/json-vs-xml-douglas-crockford/#
+> https://news.ycombinator.com/item?id=35467711
+
 https://github.com/unum-cloud/ujrpc
 > https://news.ycombinator.com/item?id=35042316
 

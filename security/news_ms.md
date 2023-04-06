@@ -1,3 +1,11 @@
+https://blogs.microsoft.com/on-the-issues/2023/04/06/stopping-cybercriminals-from-abusing-security-tools/
+
+https://www.darkrelay.com/post/cve-2023-23397-critical-microsoft-outlook-privilege-escalation-vulnerability
+> https://www.reddit.com/r/netsec/comments/12cjx12/cve202323397_microsoft_outlook_elevation_of/
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1441918#c82
+> https://news.ycombinator.com/item?id=35458746
+
 https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-sandbox/windows-sandbox-overview
 > https://news.ycombinator.com/item?id=35413594
 

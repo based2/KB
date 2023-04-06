@@ -283,6 +283,20 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 
 # News
+https://news.ycombinator.com/item?id=35423569 Panda 2.0
+> https://news.ycombinator.com/item?id=35423569
+
+https://www.biorxiv.org/content/10.1101/704080v2
+> https://news.ycombinator.com/item?id=35441997
+
+https://www.quadratichq.com/
+> https://news.ycombinator.com/item?id=35456509
+
+https://perspective.finos.org/
+> https://news.ycombinator.com/item?id=35455850
+
+https://news.ycombinator.com/item?id=35445312 k-means
+
 https://github.com/ai-sidekick/sidekick
 > https://news.ycombinator.com/item?id=35375540
 

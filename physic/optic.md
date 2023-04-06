@@ -2,6 +2,11 @@ https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
 https://cree-led.com/news/photophyll-select/
 
+https://www.nature.com/articles/s41567-023-01993-w
+> https://news.ycombinator.com/item?id=35433982
+
+https://news.ycombinator.com/item?id=35436224
+
 https://phys.org/news/2023-01-optical-tractor-macroscopic.html
 
 https://math.ucr.edu/home/baez/physics/Quantum/see_a_photon.html

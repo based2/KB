@@ -109,6 +109,8 @@ https://stackoverflow.com/questions/66210505/running-a-terraform-command-via-air
 https://www.kensodev.com/posts/2022/05/17/managing-github-with-terraform-and-saml-without-github-enterprise/
 
 # AWS
+https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-service-catalog-terraform.html
+
 https://github.com/sashee/terraform-change-rds-password
 
 https://betterprogramming.pub/implementing-an-email-masking-proof-of-concept-using-aws-simple-email-service-ses-and-aws-rust-c6aa34f1e1df
@@ -202,6 +204,9 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://symops.com/
+> https://news.ycombinator.com/item?id=35468981
+
 https://www.reddit.com/r/Terraform/comments/125jibe/open_source_tacos_kubernetes_operator/
 > https://www.padok.fr/en/blog/burrito-tacos
 > https://github.com/padok-team/burrito

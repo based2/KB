@@ -21,6 +21,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://www.haiku-os.org/blog/apl/2023-04-02_hds_modernisation/
+> https://news.ycombinator.com/item?id=35467981
+
 http://www.pdos.org/
 > https://news.ycombinator.com/item?id=35300259
 

@@ -1,4 +1,7 @@
 # llama Facebook
+https://github.com/cocktailpeanut/dalai
+> 
+
 https://twitter.com/jeremyphoward/status/1642726595436883969
 > https://news.ycombinator.com/item?id=35426679
 
@@ -37,6 +40,8 @@ https://github.com/markasoftware/llama-cpu
 
 
 #
+https://news.ycombinator.com/item?id=35454003
+
 https://lightning.ai/pages/blog/gradient-accumulation/
 > https://news.ycombinator.com/item?id=35368053
 

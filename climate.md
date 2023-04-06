@@ -67,6 +67,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.nature.com/articles/d41586-023-00940-2
+> https://news.ycombinator.com/item?id=35442001
+
 https://industrydecarbonization.com/news/making-steel-with-electricity.html
 > https://news.ycombinator.com/item?id=35300437
 

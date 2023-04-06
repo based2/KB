@@ -86,6 +86,9 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://github.com/eval/deps-try
+> https://news.ycombinator.com/item?id=35462784
+
 https://tonsky.me/blog/clojure-sublimed-3/
 > https://news.ycombinator.com/item?id=35091917
 

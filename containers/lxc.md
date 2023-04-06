@@ -20,3 +20,6 @@ https://beringresearch.github.io/macpine/lxd_macpine/
 https://discuss.linuxcontainers.org/t/lxd-5-0-lts-has-been-released/13723
 
 https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/
+
+https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container
+> https://news.ycombinator.com/item?id=35451863

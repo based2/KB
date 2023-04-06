@@ -405,6 +405,9 @@ https://escape.tech/blog/from-vue2-to-svelte/
 https://tyhopp.com/notes/thoughts-on-svelte
 > https://news.ycombinator.com/item?id=35324430
 
+https://editable.website/
+> https://news.ycombinator.com/item?id=35456083
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296

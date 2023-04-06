@@ -1,0 +1,299 @@
+{
+  "Id": "StaticWebPolicy",
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "S3GetObjectAllow",
+      "Action": [
+        "s3:GetObject"
+      ],
+      "Effect": "Allow",
+      "Resource": "arn:aws:s3:::labcode-1/*",
+      "Principal": "*"
+    }
+  ]
+}
+
+http://labcode-1.s3-website-us-east-1.amazonaws.com
+
+Beach Wave Conditions
+
+#!/bin/bash
+sudo yum update -y
+sudo yum install -y httpd
+sudo yum install -y git
+export META_INST_ID=`curl http://169.254.169.254/latest/meta-data/instance-id`
+export META_INST_TYPE=`curl http://169.254.169.254/latest/meta-data/instance-type`
+export META_INST_AZ=`curl http://169.254.169.254/latest/meta-data/placement/availability-zone`
+cd /var/www/html
+echo "<!DOCTYPE html>" >> index.html
+echo "<html lang="en">" >> index.html
+echo "<head>" >> index.html
+echo "    <meta charset="UTF-8">" >> index.html
+echo "    <meta name="viewport" content="width=device-width, initial-scale=1.0">" >> index.html
+echo "    <style>" >> index.html
+echo "        @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');" >> index.html
+echo "        html {" >> index.html
+echo "            position: relative;" >> index.html
+echo "            overflow-x: hidden !important;" >> index.html
+echo "        }" >> index.html
+echo "        * {" >> index.html
+echo "            box-sizing: border-box;" >> index.html
+echo "        }" >> index.html
+echo "        body {" >> index.html
+echo "            font-family: 'Open Sans', sans-serif;" >> index.html
+echo "            color: #324e63;" >> index.html
+echo "        }" >> index.html
+echo "        .wrapper {" >> index.html
+echo "            width: 100%;" >> index.html
+echo "            width: 100%;" >> index.html
+echo "            height: auto;" >> index.html
+echo "            min-height: 90vh;" >> index.html
+echo "            padding: 50px 20px;" >> index.html
+echo "            padding-top: 100px;" >> index.html
+echo "            display: flex;" >> index.html
+echo "        }" >> index.html
+echo "        .instance-card {" >> index.html
+echo "            width: 100%;" >> index.html
+echo "            min-height: 380px;" >> index.html
+echo "            margin: auto;" >> index.html
+echo "            box-shadow: 12px 12px 2px 1px rgba(13, 28, 39, 0.4);" >> index.html
+echo "            background: #fff;" >> index.html
+echo "            border-radius: 15px;" >> index.html
+echo "            border-width: 1px;" >> index.html
+echo "            max-width: 500px;" >> index.html
+echo "            position: relative;" >> index.html
+echo "            border: thin groove #9c83ff;" >> index.html
+echo "        }" >> index.html
+echo "        .instance-card__cnt {" >> index.html
+echo "            margin-top: 35px;" >> index.html
+echo "            text-align: center;" >> index.html
+echo "            padding: 0 20px;" >> index.html
+echo "            padding-bottom: 40px;" >> index.html
+echo "            transition: all .3s;" >> index.html
+echo "        }" >> index.html
+echo "        .instance-card__name {" >> index.html
+echo "            font-weight: 700;" >> index.html
+echo "            font-size: 24px;" >> index.html
+echo "            color: #6944ff;" >> index.html
+echo "            margin-bottom: 15px;" >> index.html
+echo "        }" >> index.html
+echo "        .instance-card-inf__item {" >> index.html
+echo "            padding: 10px 35px;" >> index.html
+echo "            min-width: 150px;" >> index.html
+echo "        }" >> index.html
+echo "        .instance-card-inf__title {" >> index.html
+echo "            font-weight: 700;" >> index.html
+echo "            font-size: 27px;" >> index.html
+echo "            color: #324e63;" >> index.html
+echo "        }" >> index.html
+echo "        .instance-card-inf__txt {" >> index.html
+echo "            font-weight: 500;" >> index.html
+echo "            margin-top: 7px;" >> index.html
+echo "        }" >> index.html
+echo "    </style>" >> index.html
+echo "    <title>Amazon EC2 Status</title>" >> index.html
+echo "</head>" >> index.html
+echo "<body>" >> index.html
+echo "    <div class="wrapper">" >> index.html
+echo "        <div class="instance-card">" >> index.html
+echo "            <div class="instance-card__cnt">" >> index.html
+echo "                <div class="instance-card__name">Your EC2 Instance is running!</div>" >> index.html
+echo "                <div class="instance-card-inf">" >> index.html
+echo "                    <div class="instance-card-inf__item">" >> index.html
+echo "                        <div class="instance-card-inf__txt">Instance Id</div>" >> index.html
+echo "                        <div class="instance-card-inf__title">" $META_INST_ID "</div>" >> index.html
+echo "                    </div>" >> index.html
+echo "                    <div class="instance-card-inf__item">" >> index.html
+echo "                        <div class="instance-card-inf__txt">Instance Type</div>" >> index.html
+echo "                        <div class="instance-card-inf__title">" $META_INST_TYPE "</div>" >> index.html
+echo "                    </div>" >> index.html
+echo "                    <div class="instance-card-inf__item">" >> index.html
+echo "                        <div class="instance-card-inf__txt">Availability zone</div>" >> index.html
+echo "                        <div class="instance-card-inf__title">" $META_INST_AZ "</div>" >> index.html
+echo "                    </div>" >> index.html
+echo "                </div>" >> index.html
+echo "            </div>" >> index.html
+echo "        </div>" >> index.html
+echo "</body>" >> index.html
+echo "</html>" >> index.html
+sudo service httpd start
+
+m4.large
+
+t3.large
+c5.large
+r5.large
+Threads valides par cœur	1,2	1,2	1,2
+Vitesse d'horloge soutenue (GHz)	2.5	3.4	3.1
+Mémoire (GiB)	8	4	16
+
+3306 DB
+18.206.24.162
+
+undefined
+ILoveLearning!123
+
+supportPassword!123
+support-engineer-1
+273176505736
+https://us-east-1.console.aws.amazon.com/iam/home#/users/support-engineer-1?section=groups
+https://273176505736.signin.aws.amazon.com/console
+
+vpc-01e3fb9e5ac02fbaa
+172.31.0.10
+subnet-0dfc3954eb54be369
+
+dev 54.84.214.167 192.168.0.10 192.168.0.0/24 i-0c6cee2e96ce38ac6
+fin 172.31.0.10 172.31.0.0/24 i-033754ffc6424e201
+
+sudo mount -t efs -o tls fs-01f9583435f0052c1:/ efs
+sudo mount -t nfs4 -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2,noresvport fs-01f9583435f0052c1.efs.us-east-1.amazonaws.com:/ efs
+https://docs.aws.amazon.com/efs/latest/ug/mounting-fs.html
+
+sudo yum install -y amazon-efs-utils
+mkdir data
+cd data
+sudo bash -c "cat >> efs-1-setup.log"
+efs-1 mounted in site A
+Control+C
+cat efs-1-setup.log
+> efs-1 mounted in site A
+
+sudo yum install -y amazon-efs-utils
+mkdir data
+sudo mount -t efs -o tls fs-01f9583435f0052c1:/ data
+
+sudo mount -t nfs4 -o nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2 volumeID.efs.zone.amazonaws.com:/ /your/mountpoint
+fstab
+volumeID.efs.zone.amazonaws.com:/ /your/mountpoint nfs4 nfsvers=4.1,rsize=1048576,wsize=1048576,hard,timeo=600,retrans=2 0 0
+
+df -h
+127.0.0.1:/     8.0E     0  8.0E   0% /home/ec2-user/data
+
+52.207.97.109
+
+----
+
+Which AWS service allows customers to purchase unused Amazon EC2 capacity at an often discounted rate?
+>Spot Instances
+
+A company is developing a new application that will be hosted in the AWS Cloud. The company needs to make changes to the application and the AWS resources that it uses.
+Which of the following is a characteristic of the AWS Cloud that would meet this specific requirement?
+>Agility is the ability to deploy resources such as computing, storage, or databases in a matter of minutes.
+
+The pay-as-you-go pricing model for AWS services:
+>With cloud computing, you can trade capital expenses for variable expenses.
+
+Which of the following is a shared control between the customer and AWS?
+>Awarness and training
+AWS trains AWS employees, but a customer must train its own employees. Therefore, this responsibility is a shared control.
+
+A company has deployed several relational databases on Amazon EC2 instances. Every month, the database software vendor releases new security patches that need to be applied to the databases.
+What is the MOST efficient way to apply the security patches?
+>Use AWS Systems Manager to automate
+This scenario is a primary use case of Systems Manager.
+
+A user needs to automatically discover, classify, and protect sensitive data stored in Amazon S3.
+Which AWS service can meet these requirements?
+> Secrets Manager helps you protect secrets needed to access your applications, services, and IT resources. Secrets Manager does not perform S3 data classification and automatic discovery.
+
+Which service enables customers to audit and monitor changes in AWS resources?
+>AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.
+
+Which of the following allows an application running on an Amazon EC2 instance to securely write data to an Amazon S3 bucket without using long-term credentials?
+>An IAM role that is assigned to an EC2 instance is an instance profile. The IAM policies that are associated with that role grant the instance access to the AWS services that are defined in the policy.
+
+During a compliance review, one of the auditors requires a copy of the AWS SOC 2 report.
+Which service should be used to submit this request?
+>  AWS Artifact is a web service that allows you to download AWS security and compliance documents such as ISO certifications and SOC reports.
+
+A user needs to launch a workload in multiple AWS environments. Each copy of the workload must have the same configuration.
+What is the MOST operationally efficient way to accomplish this task?
+> CloudFormation provisions your resources in a safe, repeatable manner. With CloudFormation, you can build and rebuild your infrastructure and applications without the need to perform manual actions or write custom scripts.
+
+A cloud practitioner is developing a disaster recovery plan and intends to replicate data between multiple geographic areas.
+Which component of the AWS Cloud should the company use to meet these requirements?
+>A Region is a named set of AWS resources in the same geographic area. A Region comprises at least two Availability Zones. Regions would be the appropriate way to replicate data in a DR plan.
+
+A company is planning to launch an ecommerce site in a single AWS Region to a worldwide user base.
+Which AWS services will allow the company to reach users and provide low latency and high transfer speeds? (Select TWO.)
+>Global Accelerator is used to send user traffic through the AWS global network infrastructure. Global Accelerator improves your internet user performance by up to 60%.
+CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency and high transfer speeds.
+
+Which AWS services can be used to provide network connectivity between an on-premises network and a VPC? (Select TWO.)
+>Direct Connect can provide network connectivity between on-premises environments and the AWS Cloud.
+AWS VPN can provide a secure tunnel between a customer's network and their VPC.
+
+Which of the following AWS Cloud services can be used to run a customer-managed relational database?
+> Amazon EC2 provides a virtual computing environment that can host a wide variety of applications, including relational databases.
+
+Which AWS dashboard displays relevant and timely information to help users manage events in progress, and provides proactive notifications to help plan for scheduled activities?
+> The Personal Health Dashboard gives you a personalized view of the status of the AWS services that power your applications. You can quickly see when AWS is experiencing issues that can affect you. The Personal Health Dashboard also helps you plan for maintenance that is scheduled for resources that you are running on AWS.
+https://docs.aws.amazon.com/health/latest/ug/what-is-aws-health.html
+
+What does AWS Marketplace allow users to do? (Select TWO.)
+>AWS Marketplace provides the sales channel to sell software and solutions to other AWS customers.
+You can use AWS Marketplace to deploy third-party software that runs in the AWS environment.
+
+What is the MINIMUM AWS Support plan that provides technical support through phone calls?
+> ou can call or chat with technical support by using the Business Support plan or the Enterprise Support plan. The Business Support plan is the minimum plan that provides this feature.
+
+A company must meet compliance and software licensing requirements that state a workload must be hosted on a physical server.
+Which Amazon EC2 instance pricing option will meet these requirements?
+> An EC2 Dedicated Host is a physical server with EC2 instance capacity that is fully dedicated to your use.
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-hosts-overview.html
+
+Incorrect. Dedicated Instances are EC2 instances that run in a VPC on hardware that is dedicated to a single customer.
+Other instances for that customer can be hosted on the same hardware.
+https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/dedicated-instance.html
+
+How can consolidated billing within AWS Organizations help lower overall monthly expenses?
+> BY pooling usage across multiple accounts to achieve a pricing discount
+Some AWS services are priced in tiers, which specify unit costs for defined amounts of AWS usage. As your usage increases, your usage crosses thresholds into new pricing tiers that specify lower unit costs for additional usage in a month. Your AWS usage is measured monthly. To measure usage, AWS treats all accounts in an organization as a single account. Member accounts do not reach tier thresholds individually. Instead, all usage in the organization is aggregated for each service, which ensures faster access to lower-priced tiers.
+
+--
+Quelles caractéristiques AWS rendent AWS rentable pour une charge de travail avec une demande utilisateur impactant la dynamique des coûts ? (Sélectionnez DEUX réponses.)
+>elasticité
+À mesure que les charges de travail des applications évoluent, l'élasticité permet aux applications de se mettre à l'échelle pour fournir la bonne quantité de ressources informatiques. Cette approche est rentable et ne gaspille pas de ressources.
+
+Quel service AWS aidera les utilisateurs à déterminer si une application exécutée sur une instance Amazon EC2 possède une capacité de processeur suffisante ?
+> CloudWatch contrôle les ressources AWS et les applications qui s'exécutent sur AWS en temps réel. Par exemple, vous pouvez contrôler l'utilisation du processeur, l'I/O disque et l'utilisation du réseau pour une instance EC2 qui héberge une application.
+
+Quel service AWS aide les utilisateurs à respecter les exigences de conformité contractuelles et réglementaires en matière de sécurité des données en utilisant des appareils dédiés dans l'AWS Cloud ?
+> CloudHSM vous aide vous conformer aux exigences réglementaires, contractuelles ou internes à votre entreprise en matière de sécurité des données grâce à des appareils dédiés du module de sécurité matériel (HSM) au sein de l'AWS Cloud.
+
+Un utilisateur a besoin de découvrir, classer et protéger automatiquement les données sensibles stockées dans Amazon S3.
+Quel service AWS peut répondre à ces exigences ?
+> Macie est un service d'évaluation automatique de la sécurité qui permet d'améliorer la sécurité et la conformité des applications déployées sur AWS.
+https://aws.amazon.com/macie/
+
+Quel service AWS identifie les groupes de sécurité qui permettent un accès illimité aux ressources AWS d'un utilisateur ?
+>Trusted Advisor vérifie les groupes de sécurité pour détecter des règles permettant un accès sans restriction à une ressource. L'accès sans restriction accroît les risques d'activités malveillantes, telles que le piratage, les attaques par déni de service ou la perte de données.
+
+Quels sont les avantages à déployer une application avec des instances Amazon EC2 dans plusieurs zones de disponibilité ? (Sélectionnez DEUX réponses.)
+>Le déploiement des instances EC2 dans plusieurs zones de disponibilité empêche un point d'échec unique. Les zones de disponibilité sont conçues pour la redondance physique et pour fournir une résilience avec des performances ininterrompues.
+augmnter la dipso
+Si vous hébergez toutes vos instances dans un seul emplacement touché par une panne, aucune de vos instances ne sera disponible. Les zones de disponibilité sont conçues pour la redondance physique et pour fournir une résilience avec des performances ininterrompues.
+
+
+Parmi les actions suivantes, lesquelles une entreprise peut-elle faire en utilisant les outils AWS Billing and Cost Management ? (Sélectionnez DEUX réponses.)
+> répartir els couts:;Les outils de Billing and Cost Management incluent des outils tels que Cost Explorer et AWS Budgets. Cost Explorer fournit une interface que vous pouvez utiliser pour visualiser, comprendre et gérer vos coûts et votre utilisation AWS au fil du temps. Cost Explorer peut répartir les coûts par jour, service et comptes liés.
+créer des budgets
+
+--
+AWS VPN is not cheap:
+
+    about $72 USD/month for the VPN endpoint
+
+    plus $0.05 per hour of client connectivity ($36 USD per month if connected 24/7)
+
+The cheap answer is:
+
+    Load up a T3.small or micro instance
+
+    Install an OpenVPN server on it (like Pritunl)
+
+    Use the AWS CLI to start up and shutdown the EC2 instance when it's needed/when you're finished with it
+
+    Connect to your AWS network from your home network using an OpenVPN client

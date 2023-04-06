@@ -95,6 +95,9 @@ https://news.ycombinator.com/item?id=35328698
 https://twitter.com/ggerganov/status/1640022482307502085
 > https://news.ycombinator.com/item?id=35317322
 
+https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/
+> https://news.ycombinator.com/item?id=35461414
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360
@@ -102,6 +105,9 @@ https://openai.com/blog/whisper/
 
 https://writeout.ai/
 > https://news.ycombinator.com/item?id=35070405
+
+https://www.ermine.ai/
+> https://news.ycombinator.com/item?id=35441337
 
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/

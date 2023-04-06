@@ -47,6 +47,11 @@ https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
 # News
+https://news.ycombinator.com/item?id=35441941
+
+https://github.com/TabbyML/tabby
+> https://news.ycombinator.com/item?id=35470915
+
 https://www.sqlchat.ai/
 
 https://www.sequoiacap.com/article/ai-powered-developer-tools/

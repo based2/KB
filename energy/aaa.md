@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.tesla.com/ns_videos/Tesla-Master-Plan-Part-3.pdf
+> https://news.ycombinator.com/item?id=35465896
+
 https://www.popsci.com/environment/renewable-energy-generation-coal-2022/
 > https://news.ycombinator.com/item?id=35408249
 

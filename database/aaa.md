@@ -68,6 +68,11 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://docs.oracle.com/en/database/oracle/oracle-database/23/adfns/using-lock-free-reservation.html#GUID-60D87F8F-AD9B-40A6-BB3C-193FFF0E60BB
+
+https://medium.com/@imashadowphantom/mariadb-com-is-dead-long-live-mariadb-org-b8a0ca50a637
+> https://news.ycombinator.com/item?id=35467243
+
 https://planetscale.com/blog/how-read-mysql-explains
 > https://news.ycombinator.com/item?id=35370972
 

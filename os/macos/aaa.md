@@ -169,6 +169,9 @@ https://github.com/below/HelloSilicon introduction to ARM64 assembly on Apple Si
 > https://news.ycombinator.com/item?id=34128776
 
 # M2
+https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4
+> https://news.ycombinator.com/item?id=35470392
+
 https://news.ycombinator.com/item?id=34629461
 
 https://www.ifixit.com/News/71442/tearing-down-the-14-macbook-pro-with-apples-help

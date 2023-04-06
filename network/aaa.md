@@ -116,6 +116,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.ycombinator.com/item?id=35447094
+
 https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile
 > https://news.ycombinator.com/item?id=35426781
 

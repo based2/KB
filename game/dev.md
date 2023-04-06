@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/
+
 https://news.ycombinator.com/item?id=35412505
 
 https://brianmckenna.org/blog/verse_types

@@ -1,3 +1,22 @@
+https://medium.com/@evan.connelly/post-account-takeover-account-takeover-of-internal-tesla-accounts-bc720603e67d
+> https://www.reddit.com/r/netsec/comments/12bvtx8/post_account_takeover_account_takeover_of/
+
+https://thestack.technology/western-digital-hacked/
+> https://news.ycombinator.com/item?id=35449006
+
+https://www.theregister.com/2023/04/04/siri_alexa_cortana_google_nuit/
+> https://news.ycombinator.com/item?id=35437397
+
+https://news.ycombinator.com/item?id=35445867
+
+https://kentindell.github.io/2023/04/03/can-injection/
+> https://news.ycombinator.com/item?id=35452963
+
+https://arstechnica.com/gadgets/2023/04/bitcoin-whitepaper-is-hidden-away-in-macoss-system-folders-for-some-reason/
+> https://news.ycombinator.com/item?id=35470143
+> https://news.ycombinator.com/item?id=35461011
+> https://news.ycombinator.com/item?id=35461226
+
 https://blog.adacore.com/the-end-of-binary-protocol-parser-vulnerabilities
 > https://news.ycombinator.com/item?id=35405682
 

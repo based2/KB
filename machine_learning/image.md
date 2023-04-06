@@ -304,6 +304,21 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://deviationgame.com/
+> https://news.ycombinator.com/item?id=35457344
+
+https://course.fast.ai/Lessons/part2.html
+> https://news.ycombinator.com/item?id=35449831
+
+https://segment-anything.com/
+> https://news.ycombinator.com/item?id=35455566
+
+https://ai.facebook.com/blog/segment-anything-foundation-model-image-segmentation/
+> https://news.ycombinator.com/item?id=35453625
+
+https://arstechnica.com/information-technology/2023/04/meta-introduces-ai-model-that-can-isolate-and-mask-objects-within-images/
+> https://news.ycombinator.com/item?id=35468304
+
 https://twitter.com/DrJimFan/status/1642921475849203712
 > https://news.ycombinator.com/item?id=35426586
 

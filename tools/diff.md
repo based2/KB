@@ -26,6 +26,11 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://en.wikipedia.org/wiki/Open_Source_Tripwire
+> https://github.com/Tripwire/tripwire-open-source
+
+https://community.atlassian.com/t5/Trust-Security-articles/Introducing-vmdiff-a-tool-to-find-everything-that-changes-on/ba-p/2321969
+
 https://blog.robertelder.org/diff-algorithm/
 
 https://github.com/kspalaiologos/qbdiff binary

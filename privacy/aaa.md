@@ -99,6 +99,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://news.ycombinator.com/item?id=35450448
+
 https://www.flyingpenguin.com/?p=46374
 
 https://news.ycombinator.com/item?id=35289979

@@ -135,6 +135,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://github.com/DSLsofMath/DSLsofMath
+> https://news.ycombinator.com/item?id=35459488
+
 https://iagoleal.com/posts/algebraic-path/
 > https://news.ycombinator.com/item?id=35312716
 

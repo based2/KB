@@ -1,3 +1,6 @@
+https://www.theverge.com/2023/4/5/23671673/apple-vr-ar-mixed-reality-headset-worst-possible-time
+> https://news.ycombinator.com/item?id=35469141
+
 https://nymag.com/intelligencer/article/mark-zuckerberg-metaverse-meta-horizon-worlds.html
 > https://news.ycombinator.com/item?id=35231159
 

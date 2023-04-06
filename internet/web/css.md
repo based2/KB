@@ -219,6 +219,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://jonneal.dev/blog/observing-css/
+
 https://web.dev/viewport-units/
 
 https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b

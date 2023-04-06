@@ -130,6 +130,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.securesystems.de/blog/a-fresh-look-at-user-enumeration-in-microsoft-teams/
+
 https://www.githubstatus.com/incidents/z3c6q056q332
 > https://news.ycombinator.com/item?id=35357851
 
@@ -341,6 +343,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.reddit.com/r/programming/comments/12d4sgp/the_hidden_cost_of_parallel_processing_in_github/
+
+https://octopus.com/blog/devops-uses-capability-not-maturity
+> https://news.ycombinator.com/item?id=35466718
+
 https://github.com/hocus-dev/hocus
 > https://news.ycombinator.com/item?id=35427343
 
