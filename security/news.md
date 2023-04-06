@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-zimbra-bug-exploited-in-attacks-against-nato-countries/ CVE-2022-27926 
+
 https://medium.com/@evan.connelly/post-account-takeover-account-takeover-of-internal-tesla-accounts-bc720603e67d
 > https://www.reddit.com/r/netsec/comments/12bvtx8/post_account_takeover_account_takeover_of/
 
