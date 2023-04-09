@@ -76,6 +76,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://levelup.gitconnected.com/two-programmers-turned-a-live-streaming-platform-into-a-1-000-000-000-company-rejected-a-google-1a1350038e33
+
 https://www.technologyreview.com/2023/03/13/1069649/hyper-realistic-beauty-filters-bold-glamour/
 
 https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm

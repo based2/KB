@@ -67,6 +67,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.sailcargo.inc/
+> https://news.ycombinator.com/item?id=35505647
+
 https://www.newsweek.com/viral-post-liquid-tree-algae-carbon-dioxide-1792214
 
 https://labos1point5.org/

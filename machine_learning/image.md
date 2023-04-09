@@ -304,6 +304,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://www.theregister.com/2023/04/08/synthetaic_ceo_chinese_spy_balloon/
+
 https://github.com/ai-forever/Kandinsky-2
 
 https://arxiv.org/abs/2302.14045

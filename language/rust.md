@@ -441,6 +441,8 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://matklad.github.io/2021/07/09/inline-in-rust.html
+
 https://framesurge.sh/perseus/en-US/
 > https://news.ycombinator.com/item?id=35500528
 

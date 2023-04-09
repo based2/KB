@@ -190,6 +190,9 @@ https://www.firefly-iii.org/
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
 # News
+https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany
+> https://news.ycombinator.com/item?id=35501937
+
 https://home.treasury.gov/news/press-releases/jy1337
 > https://news.ycombinator.com/item?id=35127063
 

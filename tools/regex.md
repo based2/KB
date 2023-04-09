@@ -65,6 +65,8 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://tavianator.com/2023/irregex.html
+
 https://regex.ai/
 > https://news.ycombinator.com/item?id=35334848
 

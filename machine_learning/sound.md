@@ -111,6 +111,8 @@ https://writeout.ai/
 https://www.ermine.ai/
 > https://news.ycombinator.com/item?id=35441337
 
+https://github.com/schibsted/WAAS GUI and API for OpenAI Whisper
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

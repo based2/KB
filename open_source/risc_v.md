@@ -4,6 +4,8 @@ https://github.com/LekKit/RVVM
 https://github.com/OpenXiangShan/XiangShan
 > https://news.ycombinator.com/item?id=35312960
 
+https://danielmangum.com/posts/risc-v-bytes-exploring-custom-esp32-bootloader/
+
 https://arxiv.org/abs/2304.02410
 > https://news.ycombinator.com/item?id=35472750
 

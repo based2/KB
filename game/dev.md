@@ -109,6 +109,12 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://haxe.org/download/
+> https://news.ycombinator.com/item?id=35484322
+> > https://www.elitemastereric.com/Haxe-430/
+
+https://github.com/eduard-permyakov/permafrost-engine OpenGL RTS game engine written in C
+
 https://simonschreibt.de/gat/dont-starve-diablo-parallax-7/
 
 https://news.ycombinator.com/item?id=35412505

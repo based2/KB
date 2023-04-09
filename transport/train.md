@@ -19,6 +19,9 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # News
+https://www.businessinsider.com/french-california-high-speed-rail-north-africa-biden-trump-2022-10?r=US&IR=T
+> https://news.ycombinator.com/item?id=35504068
+
 https://www.spoon-tamago.com/toei-project-unseen-maintenance-trains/
 
 https://www.deutschland.de/en/topic/life/49-euro-ticket-deutschlandticket-for-buses-and-trains

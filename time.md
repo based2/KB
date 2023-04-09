@@ -229,6 +229,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://brr.fyi/posts/sunset
+> https://news.ycombinator.com/item?id=35500966
+
 https://concerningquality.com/logical-time-determinism/
 
 https://news.ycombinator.com/item?id=34925583

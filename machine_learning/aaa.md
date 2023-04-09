@@ -298,7 +298,16 @@ https://news.artnet.com/art-world/fake-instagram-photography-ai-generated-joe-av
 https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
+https://arxiv.org/abs/1903.01003
+> https://news.ycombinator.com/item?id=35489342
+
 # News
+https://old.reddit.com/r/ChatGPT/comments/12diapw/gpt4_week_3_chatbots_are_yesterdays_news_ai/
+> https://news.ycombinator.com/item?id=35499852
+
+https://www.openpetition.eu/petition/online/securing-our-digital-future-a-cern-for-open-source-large-scale-ai-research-and-its-safety
+> https://news.ycombinator.com/item?id=35501845
+
 https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning
 
 https://news.ycombinator.com/item?id=35501732

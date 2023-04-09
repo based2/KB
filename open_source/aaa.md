@@ -241,6 +241,10 @@ https://libregraphicsmag.com/index.html
 
 # News
 https://www.univention.com/blog-en/2023/03/digital-sovereignty-administration/
+> https://github.com/univention/univention-corporate-server agpl, samba
+> https://opencode.de/en
+> > https://wikijs.opencode.de/en/Hilfestellungen_und_Richtlinien/Plattformguidelines
+> > > https://wikijs.opencode.de/de/katalog
 
 https://lifeofaudrey.com/2018/07/03/osbridge.html
 > https://news.ycombinator.com/item?id=35378771

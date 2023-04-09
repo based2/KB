@@ -95,6 +95,8 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://betterprogramming.pub/not-your-grandfathers-logs-a-java-library-s-new-approach-to-observability-ebd4a90d198d
+
 https://github.com/apache/skywalking/blob/master/docs/en/changes/changes-9.4.0.md
 
 https://github.com/hawkw/tinymetrics minimal, allocation-free Prometheus/OpenMetrics metrics implementation for `no-std` and embedded Rust

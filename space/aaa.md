@@ -32,6 +32,10 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=35486972
+
+https://www.spacedaily.com/reports/An_unprecedented_journey_to_Jupiter_999.html
+
 https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/
 
 https://www.newyorker.com/magazine/1972/11/11/i-an-accident-in-space

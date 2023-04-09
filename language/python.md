@@ -284,6 +284,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://discuss.python.org/t/pep-684-a-per-interpreter-gil/19583?page=2
+> https://news.ycombinator.com/item?id=35500778
+
 https://ohadravid.github.io/posts/2023-03-rusty-python/
 > https://news.ycombinator.com/item?id=35367520
 

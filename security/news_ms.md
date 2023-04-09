@@ -125,3 +125,4 @@ https://www.mandiant.com/resources/blog/apt29-windows-credential-roaming
 https://www.bleepingcomputer.com/news/microsoft/microsoft-winget-package-manager-failing-due-to-cdn-issues/
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-proxynotshell-exchange-zero-days-exploited-in-attacks/
+> https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/

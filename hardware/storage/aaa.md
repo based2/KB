@@ -2,7 +2,9 @@
 https://juicefs.com/en/ .cn
 > https://news.ycombinator.com/item?id=34706227
 
-# SMB
+# SMB Microsoft
+
+# NFS Unix
 
 # WebDAV
 https://github.com/fstanis/awesome-webdav
@@ -17,6 +19,10 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.usenix.org/conference/atc19/presentation/panda IASO: A Fail-Slow Detection and Mitigation Framework for Distributed Storage Services
+
+https://www.micahlerner.com/2023/03/28/ambry-linkedins-scalable-geo-distributed-object-store.html
+
 https://puzpuzpuz.dev/the-secret-life-of-fsync
 > https://news.ycombinator.com/item?id=35399818
 
