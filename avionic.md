@@ -27,6 +27,9 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://www.faa.gov/airport-design-challenge
+> https://news.ycombinator.com/item?id=35494382
+
 https://publishing.aip.org/publications/latest-content/prepare-for-landing-making-airports-more-efficient/
 
 https://www.elidourado.com/p/50-years-supersonic-ban

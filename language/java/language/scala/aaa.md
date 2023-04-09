@@ -83,6 +83,11 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # News
+https://scalajobs.com/blog/functional-error-handling-in-scala/
+
+https://scalajobs.com/blog/top-10-pattern-matching-tips-in-scala/
+> https://www.reddit.com/r/scala/comments/12bb1bg/top_10_pattern_matching_tips_in_scala/
+
 https://fosstodon.org/@scala_lang
 
 https://stevechy.github.io/toyzioactortest/zio/actors/2023/03/22/zio-actor-experiments.html

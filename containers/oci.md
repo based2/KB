@@ -3,6 +3,8 @@
 # Formats
 
 #
+https://eng.d2iq.com/blog/a-tale-of-two-container-image-tools-skopeo-and-crane/
+
 https://theevilskeleton.gitlab.io/2022/08/29/traditional-packaging-is-not-suitable-for-modern-applications.html
 > https://news.ycombinator.com/item?id=32922901
 

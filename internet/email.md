@@ -160,6 +160,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://fullystacked.net/posts/modern-html-email/
+> https://news.ycombinator.com/item?id=35497799
+
 http://www.igregious.com/2023/03/gmail-is-breaking-email.html
 > https://news.ycombinator.com/item?id=35380823
 

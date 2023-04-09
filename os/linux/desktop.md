@@ -94,6 +94,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://nicolasfella.de/posts/softwareplatform-month-2/
+
 https://www.winehq.org/announce/8.5
 
 https://pointieststick.com/2023/03/31/this-week-in-kde-its-the-little-things-that-count/

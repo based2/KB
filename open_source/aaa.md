@@ -240,6 +240,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.univention.com/blog-en/2023/03/digital-sovereignty-administration/
+
 https://lifeofaudrey.com/2018/07/03/osbridge.html
 > https://news.ycombinator.com/item?id=35378771
 

@@ -2,6 +2,8 @@ https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
 https://cree-led.com/news/photophyll-select/
 
+https://spectrum.ieee.org/lasers-on-silicon
+
 https://www.nature.com/articles/s41567-023-01993-w
 > https://news.ycombinator.com/item?id=35433982
 

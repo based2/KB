@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.electricrate.com/data-center/electricity-prices-by-country/
+> https://news.ycombinator.com/item?id=35495579
+
 https://www.tesla.com/ns_videos/Tesla-Master-Plan-Part-3.pdf
 > https://news.ycombinator.com/item?id=35465896
 

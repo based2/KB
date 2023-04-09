@@ -133,6 +133,10 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://old.reddit.com/r/selfhosted/comments/12fg9d9/oracle_free_tier_reclamation/
+
+https://www.bleepingcomputer.com/news/technology/western-digital-struggles-to-fix-massive-my-cloud-outage-offers-workaround/
+
 https://blog.pingsafe.com/shiba-inu-cloud-credentials-leaked-in-a-major-security-breach-394ad54382c1 2022
 > https://news.ycombinator.com/item?id=35389306
 

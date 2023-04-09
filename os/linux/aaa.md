@@ -29,6 +29,9 @@ https://www.redhat.com/sysadmin/7-linux-namespaces
 https://0xax.gitbooks.io/linux-insides/content/
 > https://news.ycombinator.com/item?id=31377904
 
+https://mentorembedded.github.io/advancedlinuxprogramming/
+> https://news.ycombinator.com/item?id=35500197
+
 # Selinux
 
 https://selinuxproject.org/page/Main_Page

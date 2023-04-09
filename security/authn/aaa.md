@@ -81,6 +81,8 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://www.univention.com/solutions/public-administration-and-education-sector/identity-management-ucs/
+
 https://news.ycombinator.com/item?id=34637960
 
 https://www.netbsd.org/docs/guide/en/chap-pam.html

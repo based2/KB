@@ -76,6 +76,9 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://www.pygame.org/project/5157/8204 PyDPainter - Relase 1.0.5 - A usable pixel art program written in Python
+> https://news.ycombinator.com/item?id=35496718
+
 https://news.ycombinator.com/item?id=35052423
 
 https://evanw.github.io/float-toy/

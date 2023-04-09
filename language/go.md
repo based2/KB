@@ -107,6 +107,9 @@ https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-consider
 https://github.com/ebitengine/purego library for calling C functions from Go without Cgo
 > https://news.ycombinator.com/item?id=34763681
 
+#
+https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
+
 # News
 https://build-your-own.org/blog/20230316_go_full_slice/
 > https://news.ycombinator.com/item?id=35210730

@@ -20,6 +20,8 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://www.reddit.com/r/programming/comments/12eekuw/i_interviewed_bruno_lowagie_who_successfully/
+
 https://www.pdfa.org/sponsored-standards/
 > https://news.ycombinator.com/item?id=35460432
 

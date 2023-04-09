@@ -1,3 +1,29 @@
+https://vigilance.fr/vulnerabilite/Adobe-LiveCycle-execution-de-code-via-Java-Deserialization-40978
+
+https://arstechnica.com/information-technology/2023/02/google-adds-client-side-encryption-to-gmail-and-calendar-should-you-care/#p3
+
+https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html
+
+https://www.bleepingcomputer.com/news/security/how-to-prevent-callback-phishing-attacks-on-your-organization/
+
+https://www.whitehouse.gov/briefing-room/statements-releases/2023/03/02/fact-sheet-biden-harris-administration-announces-national-cybersecurity-strategy/
+> https://www.lawfareblog.com/biden-harris-administration-releases-new-national-cybersecurity-strategy
+
+https://bugprove.com/knowledge-hub/enhancing-device-security-beyond-firmware-encryption/
+> https://www.reddit.com/r/netsec/comments/125nqvq/beyond_firmware_encryption_enhancing_embedded/
+
+https://github.com/gbrls/kurl
+> https://www.reddit.com/r/netsec/comments/12czbjb/announcing_kurl/
+
+https://kernelpanic.cryptid.fr/en/blog/nonsense-mayhem-samesite-cors-and-csrf-part-2
+
+https://doyensec.com/resources/Doyensec_SvelteKit_CSRF_Protection_Bypass_Advisory.pdf
+
+https://csis.gmu.edu/ksun/publications/WiFi_Interception_SP23.pdf
+> https://www.theregister.com/2023/04/07/wifi_access_icmp/ CVE-2022-25667 - ICMP Redirect attack, wifi
+
+https://www.theregister.com/2023/04/07/msi_cyberattack_bios/
+
 https://www.bleepingcomputer.com/news/security/cisa-warns-of-zimbra-bug-exploited-in-attacks-against-nato-countries/ CVE-2022-27926 
 
 https://medium.com/@evan.connelly/post-account-takeover-account-takeover-of-internal-tesla-accounts-bc720603e67d

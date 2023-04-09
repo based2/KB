@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://github.com/ramimac/aws-customer-security-incidents
+
 https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/
 > https://www.reddit.com/r/netsec/comments/123oj5k/using_an_undocumented_amplify_api_to_leak_aws/
 
@@ -93,6 +95,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://www.redshiftresearchproject.org/white_papers/downloads/introduction_to_the_fundamentals_of_amazon_redshift.pdf
+
 https://github.com/skypilot-org/skypilot
 
 https://slack.engineering/what-we-learned-from-building-govslack/

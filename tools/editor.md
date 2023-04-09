@@ -245,6 +245,9 @@ https://www.masteringemacs.org/article/polymode-multiple-major-modes-how-to-use-
 https://emacs.stackexchange.com/questions?tab=Votes
 > https://news.ycombinator.com/item?id=34721278
 
+https://www.n16f.net/blog/making-ielm-more-comfortable/
+> https://news.ycombinator.com/item?id=35497834
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

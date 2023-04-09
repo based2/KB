@@ -1,3 +1,9 @@
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28284 edge
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-exchange-online-cars-deprecation-until-2024/
+
+https://www.theregister.com/2023/04/06/microsoft_outlook_onedrive_storage/
+
 https://blogs.microsoft.com/on-the-issues/2023/04/06/stopping-cybercriminals-from-abusing-security-tools/
 
 https://www.darkrelay.com/post/cve-2023-23397-critical-microsoft-outlook-privilege-escalation-vulnerability
@@ -31,6 +37,7 @@ https://krebsonsecurity.com/2023/03/microsoft-patch-tuesday-march-2023-edition/
 
 https://msrc.microsoft.com/blog/2023/03/microsoft-mitigates-outlook-elevation-of-privilege-vulnerability/
 > https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/
+> https://www.reddit.com/r/netsec/comments/12cjx12/cve202323397_microsoft_outlook_elevation_of/
 
 https://www.bleepingcomputer.com/news/security/microsoft-shares-tips-on-detecting-outlook-zero-day-exploitation/
 

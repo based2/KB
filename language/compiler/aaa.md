@@ -65,6 +65,8 @@ https://www.youtube.com/watch?v=3pRhvQi7Z10 2019 LLVM Developers’ Meeting: “
 
 https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups
 
+https://www.npopov.com/2023/04/07/LLVM-middle-end-pipeline.html
+
 https://github.com/alt-romes/llvm-c-search
 
 https://github.com/wsmoses/Enzyme The Enzyme High-Performance Automatic Differentiator of LLVM

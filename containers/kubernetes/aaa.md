@@ -14,6 +14,8 @@ https://lambda.grofers.com/learnings-from-two-years-of-kubernetes-in-production-
 
 # Kubelet
 
+https://raesene.github.io/blog/2023/04/08/lets-talk-about-kubelet-authorization/
+
 https://prodfiler.com/blog/the-mystery-of-kubelet-eating-cpu-and-iops/
 
 https://github.com/virtual-kubelet/systemk Systemk: virtual kubelet for systemd
@@ -72,6 +74,11 @@ https://www.armosec.io/blog/cve-2022-47633-kyvernos-container-image-signature-ve
 > https://www.reddit.com/r/kubernetes/comments/zshfp4/cve202247633_kyvernos_signature_verification_can/
 
 # News
+https://sysdig.com/blog/kubernetes-1-27-whats-new/
+> https://www.reddit.com/r/kubernetes/comments/12bm39b/kubernetes_127_will_be_out_next_week_learn_whats/
+
+https://itnext.io/use-containerd-to-handle-k8s-gcr-io-deprecation-dba870b9df5
+
 https://news.ycombinator.com/item?id=35424551
 
 https://www.hoelzel.it/kubernetes/2023/04/01/k3s-is-Often-the-Better-Choice.html

@@ -1,3 +1,5 @@
+https://medium.com/predict/the-lidar-revolution-52e888a0ce41
+
 https://www.theverge.com/2023/4/5/23671673/apple-vr-ar-mixed-reality-headset-worst-possible-time
 > https://news.ycombinator.com/item?id=35469141
 

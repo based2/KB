@@ -73,6 +73,8 @@ https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 https://github.com/aws-samples/aws-lambda-unit-test-example
 
 # News
+https://www.reddit.com/r/aws/comments/12f1hrc/introducing_aws_lambda_response_streaming/
+
 https://www.lastweekinaws.com/blog/aws-is-asleep-at-the-lambda-wheel/
 > https://news.ycombinator.com/item?id=35002024
 

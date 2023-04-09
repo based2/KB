@@ -70,6 +70,7 @@ https://www.marcobehler.com/guides/load-testing
 
 https://k6.io/ JS, Go
 > https://github.com/grafana/k6
+> https://dev.to/mxglt/k6-outil-simple-et-rapide-de-load-testing-1oad
 
 # CDC
 https://martinfowler.com/articles/consumerDrivenContracts.html

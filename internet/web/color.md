@@ -73,6 +73,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle
+> https://news.ycombinator.com/item?id=35489168
+
 https://meodai.github.io/poline/
 > https://news.ycombinator.com/item?id=34662722
 

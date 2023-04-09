@@ -19,6 +19,8 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://murray-lab.caltech.edu/CTX/V01/SceneView/intro_c.html
+
 https://www.theregister.com/2023/02/23/zhurong_rover_mars/
 
 https://www.usgs.gov/special-topics/planetary-geologic-mapping/news/a-martian-mons-mystery-paleo-climate-change-and

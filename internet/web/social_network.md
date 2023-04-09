@@ -52,6 +52,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 
 # Incident
+https://www.theregister.com/2023/04/07/twitter_code_cve_substack/
+> https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-29218
+
 https://www.reuters.com/legal/parts-twitter-source-code-leaked-online-court-filing-shows-2023-03-27/
 > https://news.ycombinator.com/item?id=35323472
 
@@ -73,6 +76,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.technologyreview.com/2023/03/13/1069649/hyper-realistic-beauty-filters-bold-glamour/
+
 https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm
 > https://news.ycombinator.com/item?id=35391433
 

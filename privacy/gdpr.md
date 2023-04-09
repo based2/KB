@@ -1,6 +1,8 @@
 https://gdpr.eu/
 https://en.wikipedia.org/wiki/Secure_by_design
 
+https://www.privacyguides.org/
+
 https://lincnil.github.io/Guide-RGPD-du-developpeur/ FR GPLv3
 > https://github.com/LINCnil/Guide-RGPD-du-developpeur
 
@@ -73,6 +75,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://github.com/pldubouilh/spotify-gdpr-dump-analysis
+> https://news.ycombinator.com/item?id=35492137
+
 https://beepb00p.xyz/myinfra.html
 
 https://medium.com/@lukeberner/information-disclosure-to-gdpr-breach-a-google-tale-f9e99fd5d648

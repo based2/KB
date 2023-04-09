@@ -1,4 +1,6 @@
 # llama Facebook
+https://github.com/tatsu-lab/stanford_alpaca
+
 https://github.com/cocktailpeanut/dalai
 > 
 
@@ -38,8 +40,15 @@ https://dev.l1x.be/posts/2023/12/08/using-llama-with-m1-mac/
 https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
-
 #
+https://palm-e.github.io/
+
+https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html
+
+https://github.com/nomic-ai/gpt4all
+
+https://blog.eleuther.ai/trlx-exploratory-analysis/
+
 https://news.ycombinator.com/item?id=35454003
 
 https://lightning.ai/pages/blog/gradient-accumulation/

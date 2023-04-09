@@ -117,3 +117,5 @@ https://time.com/6248517/arizona-growing-population-drought-housing/
 
 https://benholmen.com/blog/shower-temperature-control/
 > https://news.ycombinator.com/item?id=34611335
+
+https://news.ycombinator.com/item?id=35500818

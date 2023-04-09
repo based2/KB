@@ -64,6 +64,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 > https://news.ycombinator.com/item?id=28642784
 
 #
+https://mmmds.pl/cyberghostvpn-mitm-rce-lpe/
+> https://www.reddit.com/r/netsec/comments/12d8qp0/cyberghostvpn_linux_client_vulnerable_to_mitm_rce/
+
 https://www.synology.com/en-global/security/advisory/Synology_SA_22_26
 
 https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently and silently changes resolv.conf

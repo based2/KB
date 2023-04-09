@@ -32,6 +32,8 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://textbrowser.github.io/dooble/
+
 https://www.construct.net/en/blogs/ashleys-blog-2/safari-releases-development-1616
 > https://news.ycombinator.com/item?id=35421554
 

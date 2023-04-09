@@ -299,6 +299,18 @@ https://status.openai.com/#
 > https://news.ycombinator.com/item?id=34526741
 
 # News
+https://hazyresearch.stanford.edu/blog/2023-03-27-long-learning
+
+https://news.ycombinator.com/item?id=35501732
+
+https://aisafety.world/
+
+https://info.deeplearning.ai/voice-clones-go-viral-no-copyright-for-generated-images-text-driven-video-style-transfer-romanias-ai-adviser
+
+https://www.politico.eu/article/meet-the-first-ai-presidential-advisor-romanian-pm-says-nicolae-ciuca-nicu-sebe-kris-shrishak/
+
+https://blog.google/technology/ai/try-bard/
+
 https://news.ycombinator.com/item?id=35430188
 
 https://openai.com/blog/our-approach-to-ai-safety

@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://ibbd3j.csb.app/
+> https://www.reddit.com/r/programming/comments/12fe32c/fish_simulation_in_react/
+
 https://alex.miller.garden/grid-world/
 > https://news.ycombinator.com/item?id=35455770
 

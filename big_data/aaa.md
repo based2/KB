@@ -281,8 +281,15 @@ https://jsvine.github.io/intro-to-visidata/index.html
 # ML
 https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
+> > https://slurm.schedmd.com/SC22/Slurm-and-or-vs-Kubernetes.pdf
 
 # News
+https://docs.pydantic.dev/blog/pydantic-v2-alpha/
+> https://news.ycombinator.com/item?id=35490449
+
+https://www.dursi.ca/post/hpc-is-dying-and-mpi-is-killing-it
+> https://news.ycombinator.com/item?id=35476404
+
 https://news.ycombinator.com/item?id=35423569 Panda 2.0
 > https://news.ycombinator.com/item?id=35423569
 

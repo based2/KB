@@ -23,6 +23,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://cointelegraph.com/news/do-kwon-converted-stolen-funds-from-luna-to-bitcoin-s-korean-prosecutors
+> https://news.ycombinator.com/item?id=35499996
+
 https://news.ycombinator.com/item?id=35445124
 
 https://www.theguardian.com/business/2023/apr/06/crypto-exchange-binances-australian-financial-services-licence-cancelled-by-asic

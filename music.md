@@ -180,6 +180,8 @@ https://www.charlesbrooks.info/architecture-in-music
 
 https://ianthehenry.com/posts/binary-instrument/
 
+https://github.com/sdatkinson/neural-amp-modeler
+
 https://fretastic.com/guitar
 > https://news.ycombinator.com/item?id=30250777
 

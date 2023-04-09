@@ -51,6 +51,8 @@ https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/
 https://github.com/tg12/PoC_CVEs
 
 # News
+https://thenewstack.io/vex-standardization-for-a-vulnerability-exploit-data-exchange-format/
+
 https://thenewstack.io/youll-soon-be-using-vulnerability-exploitability-exchange/
 
 https://github.com/trinitor/CVE-Vulnerability-Information-Downloader
@@ -80,9 +82,13 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 ## 2023
+Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirect
+
 Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues
 
 ## 2022
+CVE-2022-25667 ICMP Redirect attack
+
 PQC Rainbow signature scheme
 
 ## 2021
@@ -203,6 +209,8 @@ https://en.wikipedia.org/wiki/DROWN_attack TLS RSA
 https://en.wikipedia.org/wiki/Mirai_(malware)
 
 ## 2015
+FoxGlove/Marshalling Pickles  Java Object Deserialization
+
 https://en.wikipedia.org/wiki/Hyperjacking
 
 https://en.wikipedia.org/wiki/Row_hammer

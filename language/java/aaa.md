@@ -271,6 +271,11 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://blog.backslasher.net/1.5GB-string.html
+> https://news.ycombinator.com/item?id=35496712
+
+https://blog.microideation.com/2023/04/08/complete-guide-to-jshell-the-underrated-java-playground-available-with-jdk-9-onwards/
+
 https://openjdk.org/jeps/431 JEP 431: Sequenced Collections
 
 https://blog.jetbrains.com/idea/2023/03/java-20-and-intellij-idea/

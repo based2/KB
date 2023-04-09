@@ -106,6 +106,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://gitlab.com/cznic/sqlite go
+> https://news.ycombinator.com/item?id=35488980
+
 https://kerkour.com/high-performance-rust-with-sqlite
 > https://news.ycombinator.com/item?id=35399905
 

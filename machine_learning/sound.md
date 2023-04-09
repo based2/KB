@@ -98,6 +98,8 @@ https://twitter.com/ggerganov/status/1640022482307502085
 https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-take-note/
 > https://news.ycombinator.com/item?id=35461414
 
+https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

@@ -29,6 +29,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://en.wikipedia.org/wiki/QSL_card
+
 https://www.army.mil/article/242980/army_researchers_detect_broadest_frequencies_ever_with_novel_quantum_receiver
 > https://news.ycombinator.com/item?id=35427774
 

@@ -32,6 +32,12 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.optica.org/en-us/about/newsroom/news_releases/2023/april/researchers_devise_new_membrane_mirrors_for_large/
+
+https://www.newyorker.com/magazine/1972/11/11/i-an-accident-in-space
+
+https://arstechnica.com/science/2023/04/ula-continues-investigation-of-centaur-stage-anomaly/
+
 https://webbtelescope.org/contents/media/images/2023/117/01GWQD6PSGTBK7VQBZST09YYKW?news=true
 
 https://www.theregister.com/2023/03/26/boeing_starliner_iss_delay/

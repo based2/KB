@@ -1,6 +1,10 @@
 https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware
 
 #
+https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos
+
+https://www.bleepingcomputer.com/news/apple/apple-fixes-two-zero-days-exploited-to-hack-iphones-and-macs/
+
 https://n4r1b.com/posts/2023/03/the-intersection-of-apples-usb-lower-filter-and-iphone-wpd-integration/
 
 https://www.bleepingcomputer.com/news/apple/apple-fixes-recently-disclosed-webkit-zero-day-on-older-iphones/

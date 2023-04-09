@@ -324,6 +324,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/bbeaupain/hella-http
+> https://www.reddit.com/r/java/comments/12f2h79/i_built_an_ultra_high_performance_http_server_in/
+
+https://www.routledge.com/The-Garbage-Collection-Handbook-The-Art-of-Automatic-Memory-Management/Jones-Hosking-Moss/p/book/9781032218038
+> https://news.ycombinator.com/item?id=35492307
+
 https://github.com/stepchowfun/proofs/tree/main/proofs/AdmissibilityGraph
 
 https://medium.com/@kaleberg7/apl-an-array-oriented-programming-language-b03fb39401c1

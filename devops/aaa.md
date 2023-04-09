@@ -343,6 +343,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://reproducible-builds.org/reports/2023-03/
+
 https://www.reddit.com/r/programming/comments/12d4sgp/the_hidden_cost_of_parallel_processing_in_github/
 
 https://octopus.com/blog/devops-uses-capability-not-maturity

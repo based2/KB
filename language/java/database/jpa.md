@@ -51,6 +51,9 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 # News
+https://medium.com/predictly-on-tech/insert-without-select-using-jpa-a88e5db46e85
+> https://www.reddit.com/r/java/comments/12ajami/insert_without_select_using_jpa/
+
 https://vladmihalcea.com/spring-data-jpa-specification/
 > https://www.reddit.com/r/java/comments/125pa8q/the_best_way_to_use_the_spring_data_jpa/
 

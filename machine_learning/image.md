@@ -304,6 +304,12 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://github.com/ai-forever/Kandinsky-2
+
+https://arxiv.org/abs/2302.14045
+
+https://huggingface.co/spaces/AIML-TUDA/FairDiffusionExplorer
+
 https://deviationgame.com/
 > https://news.ycombinator.com/item?id=35457344
 

@@ -37,6 +37,9 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incident
+https://twitter.com/elonmusk/status/1644505414296322048
+> 
+
 https://www.bleepingcomputer.com/news/security/emsisoft-says-hackers-are-spoofing-its-certs-to-breach-networks/
 
 https://arstechnica.com/information-technology/2022/12/microsoft-digital-certificates-have-once-again-been-abused-to-sign-malware/
@@ -52,7 +55,7 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 
 # News
 https://medium.com/@sleevi_/x-520-whats-in-a-name-da6ea8954b4f
-> 
+> https://news.ycombinator.com/item?id=35493759
 
 https://rachelbythebay.com/w/2023/01/04/cert/
 > https://news.ycombinator.com/item?id=34252917

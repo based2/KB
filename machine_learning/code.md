@@ -46,7 +46,13 @@ https://github.com/moyix/fauxpilot oss
 https://alphacode.deepmind.com/
 > https://news.ycombinator.com/item?id=33914122
 
+# Containers
+https://www.slim.ai/
+> https://thenewstack.io/building-and-securing-containers-with-slim-ai/
+
 # News
+https://neverworkintheory.org/2023/03/09/combining-gin-and-pmd-for-code-improvements.html
+
 https://news.ycombinator.com/item?id=35441941
 
 https://github.com/TabbyML/tabby

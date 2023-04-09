@@ -8,6 +8,7 @@ https://blog.vnaik.com/posts/web-attacks.html
 https://w3c.github.io/webappsec-post-spectre-webdev/
 
 https://www.signal-arnaques.com/
+> https://www.signal-arnaques.com/scam/view/622563
 
 https://www.internet-signalement.gouv.fr/PortailWeb/planets/Accueil!input.action
 

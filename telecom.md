@@ -131,6 +131,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+free.fr zimbra
+
 https://en.vietnamplus.vn/last-undersea-internet-cable-connecting-vietnam-with-the-world-breaks-down/248731.vnp
 > https://news.ycombinator.com/item?id=34900916
 
