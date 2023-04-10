@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.canarymedia.com/articles/recycling-renewables/the-biggest-ev-battery-recycling-plant-in-the-us-is-open-for-business
+> https://news.ycombinator.com/item?id=35513612
+
 https://spectrum.ieee.org/solid-state-battery-no-anode
 > https://news.ycombinator.com/item?id=35384608
 

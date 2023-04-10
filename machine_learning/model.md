@@ -41,6 +41,8 @@ https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
 #
+https://news.ycombinator.com/item?id=35514228
+
 https://palm-e.github.io/
 
 https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html

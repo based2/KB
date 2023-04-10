@@ -86,6 +86,9 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 # News
+https://grep.help/
+> https://news.ycombinator.com/item?id=35510949
+
 https://courses.cs.washington.edu/courses/cse373/17au/project3/project3-3.html
 
 https://lists.apache.org/thread/6lvh9ylj6vo5s9ngf41d4y43qd2h450m solr

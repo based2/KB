@@ -57,6 +57,8 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://news.ycombinator.com/item?id=35510899
+
 https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/
 > https://news.ycombinator.com/item?id=35464152
 

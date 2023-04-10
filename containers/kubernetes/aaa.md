@@ -74,6 +74,8 @@ https://www.armosec.io/blog/cve-2022-47633-kyvernos-container-image-signature-ve
 > https://www.reddit.com/r/kubernetes/comments/zshfp4/cve202247633_kyvernos_signature_verification_can/
 
 # News
+https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/
+
 https://sysdig.com/blog/kubernetes-1-27-whats-new/
 > https://www.reddit.com/r/kubernetes/comments/12bm39b/kubernetes_127_will_be_out_next_week_learn_whats/
 

@@ -95,6 +95,9 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://samthor.au/2023/aws-amplify-is-a-grift/
+> https://news.ycombinator.com/item?id=35514002
+
 https://www.redshiftresearchproject.org/white_papers/downloads/introduction_to_the_fundamentals_of_amazon_redshift.pdf
 
 https://github.com/skypilot-org/skypilot

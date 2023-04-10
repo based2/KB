@@ -86,6 +86,9 @@ https://babashka.org/ Graalvm
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
 # News
+https://docs.datomic.com/cloud/other-tools/REBL.html
+> https://news.ycombinator.com/item?id=35507001
+
 https://github.com/eval/deps-try
 > https://news.ycombinator.com/item?id=35462784
 

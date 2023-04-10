@@ -18,6 +18,12 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.wired.com/story/dashcam-footage-shows-driverless-cars-cruise-waymo-clogging-san-francisco/
+> https://news.ycombinator.com/item?id=35511052
+
+https://davidmuller.github.io/posts/2023/04/10/how-i-fixed-a-parasitic-drain-in-408-days.html
+> https://news.ycombinator.com/item?id=35513636
+
 https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-action-leads-lifetime-industry-ban-operators-extended-vehicle-warranty-scam
 > https://news.ycombinator.com/item?id=35321996
 

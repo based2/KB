@@ -40,6 +40,9 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://www.openbsd.org/73.html
+> https://news.ycombinator.com/item?id=35512401
+
 https://undeadly.org/cgi?action=article;sid=20230308063109
 > https://news.ycombinator.com/item?id=35066281
 
