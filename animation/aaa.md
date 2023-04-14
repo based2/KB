@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.stef.be/dpaint/
+> https://news.ycombinator.com/item?id=35567997
+
 https://ibbd3j.csb.app/
 > https://www.reddit.com/r/programming/comments/12fe32c/fish_simulation_in_react/
 

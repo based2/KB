@@ -31,6 +31,10 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://news.ycombinator.com/item?id=35559890
+
+https://github.com/cloudknit-io/cloudknit
+
 https://ergomake.dev/blog/docker-compose-as-a-universal-interface/
 > https://news.ycombinator.com/item?id=35327743
 

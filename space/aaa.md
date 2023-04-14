@@ -32,6 +32,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.spacex.com/launches/mission/?missionId=starship-flight-test
+
+https://www.esa.int/ESA_Multimedia/Transmissions/2023/04/Jupiter_Icy_Moons_Explorer_live_launch
+> https://news.ycombinator.com/item?id=35551870
+
 https://news.ycombinator.com/item?id=35486972
 
 https://www.spacedaily.com/reports/An_unprecedented_journey_to_Jupiter_999.html

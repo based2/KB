@@ -135,6 +135,9 @@ https://fly.io/phoenix-files/single-file-elixir-scripts/
 https://underjord.io/userspace-drivers-in-elixir.html
 > https://news.ycombinator.com/item?id=35081074
 
+https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/
+> https://news.ycombinator.com/item?id=35559925
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

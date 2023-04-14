@@ -56,6 +56,10 @@ https://terratest.gruntwork.io/
 
 https://www.terraform.io/language/modules/testing-experiment
 
+https://medium.com/saas-infra/terraform-testing-made-easy-with-python-exploring-tftest-925bb207eabd
+
+https://medium.com/saas-infra/put-your-terraform-to-the-test-e2e-testing-with-python-and-tftest-73deff4c468a
+
 # Linter
 
 https://github.com/terraform-linters/tflint
@@ -173,6 +177,8 @@ https://hashnode.localstack.cloud/smooth-transition-from-aws-to-localstack-for-y
 
 https://terrateam.io/docs/cdktf/faq
 
+https://noiselesstech.net/2023/03/24/how-to-upload-a-docker-container-to-aws-ecr-using-terraform/
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -197,6 +203,10 @@ https://medium.com/@ECD3/managing-terraform-state-in-azure-best-practices-for-mu
 
 https://www.reddit.com/r/Terraform/comments/124zo2n/bicep_vs_terraform/
 
+https://clouddevdan.co.uk/private-endpoints-and-terraform-a-tale-of-time
+
+https://medium.com/twodigits/rotate-customer-managed-keys-in-data-factory-with-terraform-eb3a789ea2fc
+
 # GCP
 https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b63245e31a88
 
@@ -204,6 +214,10 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://github.com/future-architect/tftarget
+
+https://github.com/kreuzwerker/terraform-provider-docker
+
 https://symops.com/
 > https://news.ycombinator.com/item?id=35468981
 

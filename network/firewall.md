@@ -47,6 +47,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 # News
+https://linuxfr.org/news/dynfi-firewall-lance-sa-v-3-0
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxIpFwmarkMasks
 > https://news.ycombinator.com/item?id=34764853
 

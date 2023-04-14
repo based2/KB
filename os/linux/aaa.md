@@ -99,6 +99,11 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://lwn.net/SubscriberLink/928581/841b747332791ac4/
+> https://news.ycombinator.com/item?id=35557848
+
+https://filippo.io/linux-syscall-table/
+
 https://pubnix.pink/
 
 https://www.math.utah.edu/~mayer/linux/bmark.html

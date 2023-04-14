@@ -133,6 +133,8 @@ https://snarky.ca/unravelling-async-for-loops/
 
 https://textual.textualize.io/blog/2023/03/15/no-async-async-with-python/
 
+https://fly.io/blog/running-tasks-concurrently-in-django-asynchronous-views/
+
 # Profiler
 
 https://github.com/bloomberg/memray

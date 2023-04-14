@@ -271,6 +271,9 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://www.infoq.com/news/2023/04/virtual-threads-arrives-jdk21/
+> https://news.ycombinator.com/item?id=35535906
+
 https://blog.backslasher.net/1.5GB-string.html
 > https://news.ycombinator.com/item?id=35496712
 

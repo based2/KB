@@ -41,6 +41,15 @@ https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
 #
+https://www.jasonwei.net/blog/emergence
+> https://news.ycombinator.com/item?id=35515562
+
+https://til.simonwillison.net/llms/dolly-2
+> https://news.ycombinator.com/item?id=35550530
+
+https://github.com/databrickslabs/dolly/tree/master/data
+> https://news.ycombinator.com/item?id=35541861
+
 https://news.ycombinator.com/item?id=35514228
 
 https://palm-e.github.io/

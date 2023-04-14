@@ -299,6 +299,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://sqrtminusone.xyz/posts/2023-04-13-emacs/
+> https://news.ycombinator.com/item?id=35555481
+
 https://helix-editor.com/news/release-23-03-highlights/
 > https://news.ycombinator.com/item?id=35384691
 

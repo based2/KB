@@ -284,6 +284,13 @@ https://github.com/approximatelabs/sketch
 > > https://slurm.schedmd.com/SC22/Slurm-and-or-vs-Kubernetes.pdf
 
 # News
+https://github.com/Kanaries/pygwalker
+
+https://arxiv.org/abs/2304.04265
+> https://news.ycombinator.com/item?id=35521087
+
+https://news.ycombinator.com/item?id=35524256
+
 https://en.wikipedia.org/wiki/68%E2%80%9395%E2%80%9399.7_rule
 > https://news.ycombinator.com/item?id=35501780
 

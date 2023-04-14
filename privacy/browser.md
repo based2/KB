@@ -17,6 +17,12 @@ https://mcaptcha.org/ AGPL, rust
 https://github.com/wenlng/go-captcha
   
 # News
+https://consentomatic.au.dk/
+> https://news.ycombinator.com/item?id=35562230
+
+https://blog.mozilla.org/en/mozilla/firefox-rolls-out-total-cookie-protection-by-default-to-all-users-worldwide/
+> https://news.ycombinator.com/item?id=35545809
+
 https://support.brave.com/hc/en-us/articles/9982188779405-What-does-Copy-clean-link-mean-
 > https://news.ycombinator.com/item?id=35084792
 

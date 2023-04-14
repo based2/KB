@@ -1,3 +1,6 @@
+https://offsec.almond.consulting/ghostscript-cve-2023-28879.html
+> https://news.ycombinator.com/item?id=35529444
+
 https://vigilance.fr/vulnerabilite/Adobe-LiveCycle-execution-de-code-via-Java-Deserialization-40978
 
 https://arstechnica.com/information-technology/2023/02/google-adds-client-side-encryption-to-gmail-and-calendar-should-you-care/#p3

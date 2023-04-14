@@ -52,6 +52,9 @@ https://news.ycombinator.com/item?id=30392849
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://www.jamez.it/project/wikibinge/
+> https://news.ycombinator.com/item?id=35572434
+
 https://github.com/yashsinghcodes/wik
 > https://news.ycombinator.com/item?id=35119681
 

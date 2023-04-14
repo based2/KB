@@ -99,6 +99,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/
+> https://news.ycombinator.com/item?id=35557103
+
+https://www.theregister.com/2023/04/13/reveal_all_recommendation_algorithms/
+> https://news.ycombinator.com/item?id=35555799
+
 https://www.pcmag.com/news/google-to-ban-financial-lending-apps-from-accessing-user-photos-contacts
 > https://news.ycombinator.com/item?id=35494366
 

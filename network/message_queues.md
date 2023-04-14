@@ -132,6 +132,9 @@ https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready
 https://lists.apache.org/thread/8cz89d40h6t6wzplxjm523w91lmm6djw CVE-2022-41672: Apache Airflow: Session still functional after user is deactivated
 
 #
+https://www.prequel.co/blog/sql-maxis-why-we-ditched-rabbitmq-and-replaced-it-with-a-postgres-queue
+> https://news.ycombinator.com/item?id=35526846
+
 http://joshvoigts.com/articles/queues-should-be-empty/
 > https://news.ycombinator.com/item?id=34843965
 

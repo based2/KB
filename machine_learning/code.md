@@ -51,6 +51,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://aws.amazon.com/en/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/
+> https://news.ycombinator.com/item?id=35554460
+
 https://neverworkintheory.org/2023/03/09/combining-gin-and-pmd-for-code-improvements.html
 
 https://news.ycombinator.com/item?id=35441941

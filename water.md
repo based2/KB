@@ -119,3 +119,6 @@ https://benholmen.com/blog/shower-temperature-control/
 > https://news.ycombinator.com/item?id=34611335
 
 https://news.ycombinator.com/item?id=35500818
+
+https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/
+> https://news.ycombinator.com/item?id=35559145

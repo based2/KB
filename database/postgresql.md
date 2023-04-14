@@ -271,6 +271,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://database.dev/
+> https://news.ycombinator.com/item?id=35570758
+
 https://tcdi.github.io/plrust/plrust.html
 > https://news.ycombinator.com/item?id=35501065 PL/rust
 

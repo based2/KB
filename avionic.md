@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://www.seattletimes.com/business/boeing-aerospace/boeing-737-max-production-hit-by-a-new-defect-in-supplier-part/
+> https://news.ycombinator.com/item?id=35569136
+
 https://www.independent.co.uk/news/world/americas/canada-flights-system-outage-grounded-b2260500.html
 > https://news.ycombinator.com/item?id=34347520
 

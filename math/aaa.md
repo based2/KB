@@ -135,6 +135,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-tilings/
+> https://news.ycombinator.com/item?id=35513475
+
 https://github.com/DSLsofMath/DSLsofMath
 > https://news.ycombinator.com/item?id=35459488
 

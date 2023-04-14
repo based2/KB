@@ -69,6 +69,8 @@ https://hynek.me/articles/macos-dyld-env/
 https://krypted.com/mac-os-x/free-space-required-for-modern-macos-upgrades/
 
 # Dev
+https://news.ycombinator.com/item?id=35525047
+
 https://github.com/shapehq/tartelet github
 
 https://rambo.codes/posts/2021-01-08-distributing-mac-apps-outside-the-app-store
@@ -385,6 +387,8 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html
+
 https://weblog.antranigv.am/posts/2023/02/hardcoded-folder-icons-in-macos/
 > https://news.ycombinator.com/item?id=34709690
 

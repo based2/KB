@@ -17,3 +17,6 @@ https://aws.amazon.com/en/about-aws/whats-new/2022/07/fine-grained-access-contro
 https://aws.amazon.com/fr/blogs/machine-learning/distributed-training-with-amazon-eks-and-torch-distributed-elastic/
 
 https://medium.com/insiderengineering/monitoring-amazon-emr-step-failures-2a5ad1f04092
+
+https://aws.amazon.com/en/bedrock/ build and scale generative AI applications with foundation models (FMs)
+> https://news.ycombinator.com/item?id=35559497

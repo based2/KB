@@ -171,6 +171,11 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://uniffle.apache.org/ High performance, general purpose remote shuffle service for distributed computing engines
+
+https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html
+> https://news.ycombinator.com/item?id=35521650
+
 https://www.exhypothesi.com/clocks-and-causality/
 > https://news.ycombinator.com/item?id=35399603
 

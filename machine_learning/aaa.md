@@ -265,6 +265,9 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://twitter.com/cyrilzakka/status/1646532570597982208
+> https://news.ycombinator.com/item?id=35557256
+
 https://www.darkreading.com/risk/employees-feeding-sensitive-business-data-chatgpt-raising-security-fears
 > https://news.ycombinator.com/item?id=35330438
 
@@ -302,6 +305,18 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://huyenchip.com/2023/04/11/llm-engineering.html
+> https://news.ycombinator.com/item?id=35565212
+
+https://ai.googleblog.com/2023/04/beyond-automatic-differentiation.html
+> https://news.ycombinator.com/item?id=35570742
+
+https://eugeneyan.com/writing/llm-experiments/
+> https://news.ycombinator.com/item?id=35544851
+
+https://news.livebook.dev/distributed2-machine-learning-notebooks-with-elixir-and-livebook---launch-week-1---day-2-1aIlaw
+> https://news.ycombinator.com/item?id=35525661
+
 https://old.reddit.com/r/ChatGPT/comments/12diapw/gpt4_week_3_chatbots_are_yesterdays_news_ai/
 > https://news.ycombinator.com/item?id=35499852
 

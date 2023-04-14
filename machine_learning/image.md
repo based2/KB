@@ -304,6 +304,11 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://github.com/facebookresearch/AnimatedDrawings
+
+https://enchanting-trader-463.notion.site/Midjourney-AI-Guide-41eca43809dd4d8fa676e648436fc29c
+> https://news.ycombinator.com/item?id=35547756
+
 https://github.com/sail-sg/EditAnything
 > https://news.ycombinator.com/item?id=35509429
 
