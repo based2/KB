@@ -12,6 +12,8 @@ https://github.com/bettercap/bettercap
 # Portal
 https://news.ycombinator.com/item?id=27771846
 
+https://de.wikipedia.org/wiki/Captive_Portal
+
 # Bridge
 https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/
 > https://news.ycombinator.com/item?id=27464907

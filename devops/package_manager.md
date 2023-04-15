@@ -50,6 +50,9 @@ https://determinate.systems/posts/nuenv
 > https://news.ycombinator.com/item?id=35342195
 
 # Incident
+https://giraffesecurity.dev/posts/google-remote-code-execution/
+> https://www.reddit.com/r/netsec/comments/12mtclt/remote_code_execution_vulnerability_in_google/
+
 https://blog.phylum.io/phylum-discovers-npm-package-mathjs-min-contains-discord-token-grabber
 > https://www.reddit.com/r/javascript/comments/126o0td/attackers_are_hiding_malware_in_minified_packages/
 

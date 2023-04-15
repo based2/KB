@@ -103,6 +103,7 @@ https://lwn.net/SubscriberLink/928581/841b747332791ac4/
 > https://news.ycombinator.com/item?id=35557848
 
 https://filippo.io/linux-syscall-table/
+> https://news.ycombinator.com/item?id=35574259
 
 https://pubnix.pink/
 

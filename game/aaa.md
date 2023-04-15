@@ -14,7 +14,14 @@ https://danielyxie.github.io/bitburner/
 https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
+#
+https://imgur.com/a/ggyfAnX
+> https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful
+> > https://news.ycombinator.com/item?id=35577895
+
 # News
+https://news.ycombinator.com/item?id=35566416
+
 https://news.ycombinator.com/item?id=35510067
 
 https://news.ycombinator.com/item?id=35501335

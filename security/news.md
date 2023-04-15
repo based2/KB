@@ -1,3 +1,11 @@
+https://www.sonarsource.com/blog/pretalx-vulnerabilities-how-to-get-accepted-at-every-conference/ pretalx
+> https://www.reddit.com/r/netsec/comments/12lplzy/escalating_file_write_into_rce_in_python/
+
+https://guardyourdomain.com/blog/fake-university-scam/
+> https://www.reddit.com/r/netsec/comments/12lw6qh/fraud_friday_investigation_into_a_fake_university/
+
+https://tin-z.github.io/chatgpt/go/cve/2023/04/14/escaping_chatgpt_memory.html Lost in ChatGPT's memories: escaping ChatGPT-3.5 memory issues to write CVE PoCs
+
 https://offsec.almond.consulting/ghostscript-cve-2023-28879.html
 > https://news.ycombinator.com/item?id=35529444
 

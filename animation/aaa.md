@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://fairanimateddrawings.com/site/home
+> https://news.ycombinator.com/item?id=35561203
+
+https://github.com/facebookresearch/AnimatedDrawings
+> https://news.ycombinator.com/item?id=35565681
+
 https://www.stef.be/dpaint/
 > https://news.ycombinator.com/item?id=35567997
 

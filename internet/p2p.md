@@ -59,6 +59,9 @@ http://www.loper-os.org/?p=3926
 https://en.wikipedia.org/wiki/Napster
 
 # News
+https://github.com/holepunchto/hypershell
+> https://news.ycombinator.com/item?id=35576823
+
 https://zrok.io/
 > https://news.ycombinator.com/item?id=34709487
 

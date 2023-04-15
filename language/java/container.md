@@ -64,3 +64,5 @@ https://piotrminkowski.com/2022/06/22/introduction-to-ksqldb-on-kubernetes-with-
 https://wildfly-security.github.io/wildfly-elytron/blog/ejb-over-tls/
 
 https://thenewstack.io/how-to-optimize-java-apps-on-kubernetes/
+
+https://github.com/helidon-io/helidon/releases/tag/4.0.0-ALPHA6

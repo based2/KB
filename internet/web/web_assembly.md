@@ -76,6 +76,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.infoworld.com/article/3692456/hands-on-with-java-and-wasm.html
+
 https://wasmer.io/posts/announcing-wcgi
 > https://news.ycombinator.com/item?id=35469276
 

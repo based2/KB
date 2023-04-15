@@ -46,6 +46,11 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 
 https://github.com/Place1/wg-access-server
 
+#
+https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/
+
+https://vulncheck.ai/blog/new-cve-2022-1388
+
 # News
 https://linuxfr.org/news/dynfi-firewall-lance-sa-v-3-0
 

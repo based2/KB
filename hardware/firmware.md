@@ -30,3 +30,9 @@ https://patrick.georgi.family/2021/02/13/on-microcode/
 
 https://github.com/system76/firmware-open
 > https://news.ycombinator.com/item?id=35431119
+
+https://libreboot.org/news/hp8200sff.html
+> https://news.ycombinator.com/item?id=35577240
+
+https://www.phoronix.com/news/AMD-openSIL-Detailed
+> https://news.ycombinator.com/item?id=35570151

@@ -265,6 +265,14 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://doublespeak.chat/#/handbook
+
+https://www.lesswrong.com/posts/jkY6QdCfAXHJk3kea/the-petertodd-phenomenon
+> https://news.ycombinator.com/item?id=35578579
+
+https://simonwillison.net/2023/Apr/14/worst-that-can-happen/
+> https://news.ycombinator.com/item?id=35572290
+
 https://twitter.com/cyrilzakka/status/1646532570597982208
 > https://news.ycombinator.com/item?id=35557256
 
@@ -305,6 +313,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/
+> https://news.ycombinator.com/item?id=35577636
+
+https://txt.cohere.ai/what-are-transformer-models/
+> https://news.ycombinator.com/item?id=35576918
+
 https://huyenchip.com/2023/04/11/llm-engineering.html
 > https://news.ycombinator.com/item?id=35565212
 

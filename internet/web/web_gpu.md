@@ -26,3 +26,6 @@ https://acko.net/blog/use-gpu-goes-trad/
 
 https://developer.chrome.com/blog/webgpu-release/
 > https://news.ycombinator.com/item?id=35465729
+
+https://webgpufundamentals.org/
+> https://news.ycombinator.com/item?id=35579334

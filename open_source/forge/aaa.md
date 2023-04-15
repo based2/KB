@@ -14,6 +14,8 @@ https://pijul.org/posts/2022-01-08-beta/
 > https://news.ycombinator.com/item?id=29991417
 
 # News
+https://sp-codes.de/
+
 https://fosshost.org/
 > https://radixproject.org/
 > https://news.ycombinator.com/item?id=33848529

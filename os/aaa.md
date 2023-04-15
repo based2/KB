@@ -21,6 +21,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://john-millikin.com/running-sunos-4-in-qemu-sparc
+> https://news.ycombinator.com/item?id=35549517
+
 https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm
 
 https://raymii.org/s/blog/OpenVMS_9.2_for_x86_is_finally_available_for_hobbyists.html

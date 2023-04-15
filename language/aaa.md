@@ -324,6 +324,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://animaomnium.github.io/optional-if-expressions/
+> https://news.ycombinator.com/item?id=35568511
+
 https://github.com/bbeaupain/hella-http
 > https://www.reddit.com/r/java/comments/12f2h79/i_built_an_ultra_high_performance_http_server_in/
 

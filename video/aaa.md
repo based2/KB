@@ -113,6 +113,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.dji.com/en/inspire-3
+> https://news.ycombinator.com/item?id=35574416
+> > https://en.wikipedia.org/wiki/CinemaDNG
+
+https://news.ycombinator.com/item?id=35566602
+
 https://www.phoronix.com/news/VVenC-1.8
 >
 

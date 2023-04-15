@@ -53,6 +53,8 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://github.com/FlowiseAI/Flowise
+
 https://kroki.io/
 
 https://github.com/statelyai/xstate
