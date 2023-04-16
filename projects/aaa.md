@@ -161,6 +161,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://newsletter.abinoda.com/p/changing-requirements
+> https://news.ycombinator.com/item?id=35510349
+
 https://github.com/schibsted/meeting-concluder
 
 https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/

@@ -125,6 +125,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://intuitiveexplanations.com/tech/kalyn
+> https://news.ycombinator.com/item?id=35549692
+
 https://pubby.games/codegen.html
 > https://news.ycombinator.com/item?id=35294111
 

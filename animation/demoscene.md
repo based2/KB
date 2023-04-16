@@ -36,3 +36,9 @@ https://news.ycombinator.com/item?id=33696216
 
 https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/
 > https://news.ycombinator.com/item?id=35335037
+
+https://github.com/dmishin/fft-image-experiments
+
+https://github.com/still-scene/t3
+> https://www.pouet.net/prod.php?which=94176
+> https://demozoo.org/productions/322659/

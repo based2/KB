@@ -40,6 +40,8 @@ https://www.ifixit.com/News/64865/iphone-14-teardown
 https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-become-first-state-with-a--right-to-repair--law
 > https://news.ycombinator.com/item?id=33403305
 
+https://fr.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill
+> https://news.ycombinator.com/item?id=35532479
 #
 https://github.com/lima-vm/lima
 

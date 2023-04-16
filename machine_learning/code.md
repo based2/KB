@@ -24,6 +24,7 @@ https://copilot.github.com/
 > https://news.ycombinator.com/item?id=27998109
 > https://openai.com/blog/openai-codex/
 > https://news.ycombinator.com/item?id=28131745
+> https://news.ycombinator.com/item?id=35516887
 
     https://github.com/github/copilot-docs/tree/main/docs
     > https://news.ycombinator.com/item?id=29016506

@@ -48,6 +48,8 @@ https://eslint.org/
 https://snyk.io/blog/snyk-code-now-available-free-sast/
 
 # Deno
+https://news.ycombinator.com/item?id=35525222
+
 https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html
 > https://news.ycombinator.com/item?id=34767795
 
@@ -95,6 +97,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://desislav.dev/blog/tsfp/
+> https://news.ycombinator.com/item?id=35588513
+
 https://github.com/wundergraph/wundergraph
 > https://news.ycombinator.com/item?id=35450687
 

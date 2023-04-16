@@ -274,6 +274,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://gitlab.com/leipert-projects/git-recon#git-recon
+
 https://git-scm.com/docs/git-worktree/2.39.0
 > https://www.dylanpaulus.com/posts/git-worktree
 

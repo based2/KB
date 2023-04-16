@@ -122,3 +122,6 @@ https://news.ycombinator.com/item?id=35500818
 
 https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafloor-comes-from-cascadia-fault-could-offer-clues-to-earthquake-hazards/
 > https://news.ycombinator.com/item?id=35559145
+
+https://news.ycombinator.com/item?id=35524375
+> https://tidesandcurrents.noaa.gov/sltrends/

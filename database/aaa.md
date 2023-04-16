@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.querifylabs.com/blog/relational-operators-in-apache-calcite
+> https://news.ycombinator.com/item?id=35520059
+
 https://cacm.acm.org/magazines/2022/8/262905-the-seattle-report-on-database-research/fulltext
 
 https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/

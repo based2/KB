@@ -1,3 +1,9 @@
+https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf
+> https://news.ycombinator.com/item?id=35562357
+
+https://www.schneier.com/blog/archives/2006/03/monolith.html
+> https://news.ycombinator.com/item?id=35586725
+
 https://archive.org/details/shmoocon2023
 
 https://certification.enisa.europa.eu/

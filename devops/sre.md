@@ -113,3 +113,5 @@ https://www.willett.io/posts/precepts/
 
 https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/
 > https://news.ycombinator.com/item?id=33233827
+
+https://last9.io/blog/mttf-vs-mtbf-vs-mttd-vs-mttr/

@@ -53,3 +53,6 @@ https://www.reuters.com/world/us/pentagon-warns-gps-interference-ligado-broadban
 
 https://www.gpsrchive.com/Shared/Satellites/GPS%20vs%20GLONASS%20vs%20Galileo.html
 > https://news.ycombinator.com/item?id=33764903
+
+https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/
+> https://news.ycombinator.com/item?id=35550339

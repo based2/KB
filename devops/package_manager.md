@@ -49,6 +49,8 @@ https://tinkering.xyz/nix-docs/
 https://determinate.systems/posts/nuenv
 > https://news.ycombinator.com/item?id=35342195
 
+https://blinry.org/nix-time-travel/
+
 # Incident
 https://giraffesecurity.dev/posts/google-remote-code-execution/
 > https://www.reddit.com/r/netsec/comments/12mtclt/remote_code_execution_vulnerability_in_google/

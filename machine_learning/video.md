@@ -43,6 +43,8 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://phenaki.research.google/
+
 https://www.macrumors.com/2023/03/27/apple-reportedly-acquires-waveone/
 
 https://sadtalker.github.io/

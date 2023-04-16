@@ -72,6 +72,8 @@ https://faun.pub/aws-lambda-security-paradox-3002475dbe97
 # Test
 https://github.com/aws-samples/aws-lambda-unit-test-example
 
+https://timmoth.com/posts/zR8YliXKAEavWTLQr4ESYQ
+
 # News
 https://www.reddit.com/r/aws/comments/12f1hrc/introducing_aws_lambda_response_streaming/
 

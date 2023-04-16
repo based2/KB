@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://www.alexcharlton.co/projects/booking-com-de-stresser
+> https://news.ycombinator.com/item?id=35590734
+
 https://medusajs.com/blog/ecommerce-history/
 
 https://www.theverge.com/2023/3/28/23659868/amazon-returns-warning-product-reviews-tag-feature

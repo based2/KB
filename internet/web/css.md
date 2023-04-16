@@ -219,6 +219,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.css-components.net/ react
+> https://news.ycombinator.com/item?id=35518336
+
 https://jonneal.dev/blog/observing-css/
 
 https://web.dev/viewport-units/

@@ -44,6 +44,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.pouet.net/prod.php?which=94150
+
 https://animationobsessive.substack.com/p/how-to-paint-like-hayao-miyazaki
 > https://news.ycombinator.com/item?id=34640833
 

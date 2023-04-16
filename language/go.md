@@ -108,9 +108,15 @@ https://github.com/ebitengine/purego library for calling C functions from Go wit
 > https://news.ycombinator.com/item?id=34763681
 
 #
+https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
+> https://pkg.go.dev/vuln/GO-2022-0646
+> https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck
+
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://lemire.me/blog/2023/04/14/interfaces-are-not-free-in-go/
+
 https://github.com/golang-standards/project-layout/issues/117
 > https://gist.github.com/candlerb/3cb11576b2d73800b58f3b548dc2ba4a
 

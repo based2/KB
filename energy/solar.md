@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.eetimes.com/innovative-approaches-tackle-self-cleaning-solar-panels/
+> https://news.ycombinator.com/item?id=35576473
+
 https://sunroof.withgoogle.com/
 > https://news.ycombinator.com/item?id=34699395
 

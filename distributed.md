@@ -88,6 +88,8 @@ https://docs.rs/yrs/0.16.0/yrs/
 https://vlcn.io/blog/gentle-intro-to-crdts.html
 > https://news.ycombinator.com/item?id=34746716
 
+https://news.ycombinator.com/item?id=35530040
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913
@@ -171,6 +173,9 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html Distributed transactions can scale
+> https://news.ycombinator.com/item?id=35520044
+
 https://uniffle.apache.org/ High performance, general purpose remote shuffle service for distributed computing engines
 
 https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html

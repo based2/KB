@@ -77,6 +77,9 @@ https://github.com/wojtekmaj/react-lifecycle-methods-diagram
 
 https://overreacted.io/before-you-memo/
 
+https://react.gg/visualized
+> https://news.ycombinator.com/item?id=35516804
+
 https://wattenberger.com/blog/react-and-d3
 > https://news.ycombinator.com/item?id=26628679
 

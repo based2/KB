@@ -338,6 +338,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://www.macrumors.com/2023/04/14/15-inch-macbook-air-m2-like-chip-logs/
+
 https://appleinsider.com/articles/23/02/14/apple-issues-firmware-update-for-magsafe-3-charging-cable
 
 https://notes.alinpanaitiu.com/Making%20macOS%20apps%20uninstallable

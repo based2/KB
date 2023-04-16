@@ -1,3 +1,6 @@
+https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
+
+#
 https://www.fo-sec.com/articles/10-defender-bypass-methods
 > https://www.reddit.com/r/netsec/comments/12n8buu/10_methods_to_bypass_windows_defender_for/
 

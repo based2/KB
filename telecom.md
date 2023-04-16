@@ -131,7 +131,7 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
-free.fr zimbra
+https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/
 
 https://en.vietnamplus.vn/last-undersea-internet-cable-connecting-vietnam-with-the-world-breaks-down/248731.vnp
 > https://news.ycombinator.com/item?id=34900916
@@ -147,6 +147,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://coveragemap.com/ us
+> https://news.ycombinator.com/item?id=35585789
+
 https://krebsonsecurity.com/2023/03/why-you-should-opt-out-of-sharing-data-with-your-mobile-provider/
 
 https://www.theverge.com/2023/3/14/23639450/amazon-project-kuiper-satellite-dish-internet

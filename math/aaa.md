@@ -138,7 +138,11 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/
+> https://news.ycombinator.com/item?id=35548911
+
 https://katex.org/
+> https://news.ycombinator.com/item?id=35588985
 
 https://www.matrixcalculus.org/
 > https://news.ycombinator.com/item?id=35568311

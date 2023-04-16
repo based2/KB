@@ -139,6 +139,9 @@ https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-rele
 https://github.com/inqueryio/inquery
 > https://news.ycombinator.com/item?id=35082508
 
+https://imfeld.dev/notes/postgresql_row_level_security
+> https://news.ycombinator.com/item?id=35587196
+
 # Operations
 
 https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production

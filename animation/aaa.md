@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://github.com/nomic-ai/deepscatter
+> https://news.ycombinator.com/item?id=35511139
+
 https://fairanimateddrawings.com/site/home
 > https://news.ycombinator.com/item?id=35561203
 

@@ -68,6 +68,9 @@ https://www.akeyless.io/blog/secrets-injection-with-native-kubernetes-service-ac
 https://www.reddit.com/r/kubernetes/comments/zcfj1p/kubesealconvert_the_missing_part_of_sealed_secrets/
 
 # News
+https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/
+> https://news.ycombinator.com/item?id=35515873
+
 https://kubernetes.io/blog/2023/03/10/forensic-container-analysis/
 
 https://thenewstack.io/developer-guardrails-with-custom-kubernetes-resource-validators/

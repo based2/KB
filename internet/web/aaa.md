@@ -27,6 +27,8 @@ https://docs.bearblog.dev/seo/
 https://johnnyreilly.com/2023/01/15/how-i-ruined-my-seo
 > https://news.ycombinator.com/item?id=34389421
 
+https://news.ycombinator.com/item?id=35576406
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

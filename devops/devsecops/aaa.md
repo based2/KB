@@ -34,8 +34,12 @@ https://github.blog/2023-03-28-introducing-self-service-sboms/
 https://omnibor.io/
 
 #
+https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck
+
+https://neverworkintheory.org/2023/04/14/software-supply-chain-attacks.html
 
 https://blog.josefsson.org/2023/04/15/sigstore-protects-apt-archives-apt-verify-apt-sigstore/
+> https://news.ycombinator.com/item?id=35586012
 
 https://github.com/boringtools/git-alerts
 

@@ -20,6 +20,9 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://www.wired.com/story/space-invaders-45-years-tomohiro-nishikado/
+> https://news.ycombinator.com/item?id=35592439
+
 https://news.ycombinator.com/item?id=35566416
 
 https://news.ycombinator.com/item?id=35510067

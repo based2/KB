@@ -274,6 +274,8 @@ https://www.lesswrong.com/posts/jkY6QdCfAXHJk3kea/the-petertodd-phenomenon
 
 https://simonwillison.net/2023/Apr/14/worst-that-can-happen/
 > https://news.ycombinator.com/item?id=35572290
+> https://ihavemanythoughts.substack.com/p/peak-llm
+> > https://news.ycombinator.com/item?id=35591337
 
 https://twitter.com/cyrilzakka/status/1646532570597982208
 > https://news.ycombinator.com/item?id=35557256

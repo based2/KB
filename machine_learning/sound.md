@@ -113,6 +113,10 @@ https://www.ermine.ai/
 
 https://github.com/schibsted/WAAS GUI and API for OpenAI Whisper
 
+https://github.com/marqo-ai/marqo/blob/mainline/examples/SpeechProcessing/article/article.md
+> https://news.ycombinator.com/item?id=35535945
+> > https://github.com/marqo-ai/marqo
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

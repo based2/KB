@@ -284,6 +284,9 @@ https://github.com/approximatelabs/sketch
 > > https://slurm.schedmd.com/SC22/Slurm-and-or-vs-Kubernetes.pdf
 
 # News
+https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI
+> https://news.ycombinator.com/item?id=35570027
+
 https://amakelov.github.io/blog/pl/
 
 https://github.com/Kanaries/pygwalker

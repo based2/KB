@@ -17,6 +17,7 @@ https://www.rte-france.com/eco2mix
 
 # News
 https://www.lazard.com/media/nltb551p/lazards-lcoeplus-april-2023.pdf
+> https://news.ycombinator.com/item?id=35587963
 
 https://www.electricrate.com/data-center/electricity-prices-by-country/
 > https://news.ycombinator.com/item?id=35495579

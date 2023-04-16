@@ -327,6 +327,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://ossinsight.io/collections/programming-language/
+> https://news.ycombinator.com/item?id=35550611
+
 https://animaomnium.github.io/optional-if-expressions/
 > https://news.ycombinator.com/item?id=35568511
 

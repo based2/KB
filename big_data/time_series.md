@@ -40,3 +40,5 @@ https://tigyog.app/d/L-8D8R2yeXLY/r/an-everyday-look-at-time-series
 
 https://www.nature.com/articles/s41567-022-01852-0 Higher-order organization of multivariate time series
 > https://news.ycombinator.com/item?id=34221756
+
+https://last9.io/blog/high-cardinality-no-problem-stream-aggregation-ftw/

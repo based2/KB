@@ -169,6 +169,11 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://arxiv.org/abs/2304.06222 Comprehensive Survey on the Implementations, Attacks, and Countermeasures of the Current NIST Lightweight Cryptography Standard
+
+https://words.filippo.io/dispatches/near-miss/ CVE-2023-24532 go crypto/elliptic package
+> https://news.ycombinator.com/item?id=35528898
+
 https://tobtu.com/blog/2023/3/breaking-xor-shift-prng/
 > https://www.reddit.com/r/RNG/comments/124372b/breaking_a_prng_is_it_called_xor_shift_or_xor_shit/
 
