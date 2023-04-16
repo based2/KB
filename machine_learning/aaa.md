@@ -265,6 +265,8 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://www.schneier.com/blog/archives/2023/04/llms-and-phishing.html
+
 https://doublespeak.chat/#/handbook
 
 https://www.lesswrong.com/posts/jkY6QdCfAXHJk3kea/the-petertodd-phenomenon
@@ -313,6 +315,14 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://hazyresearch.stanford.edu/blog/2023-04-12-batch
+
+https://lifearchitect.ai/chinchilla/
+> https://news.ycombinator.com/item?id=35584317
+
+https://github.com/mlc-ai/web-llm
+> https://news.ycombinator.com/item?id=35583349
+
 https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/
 > https://news.ycombinator.com/item?id=35577636
 

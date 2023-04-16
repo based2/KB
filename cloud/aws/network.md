@@ -23,6 +23,8 @@ https://dev.to/gwenshap/investigating-15s-http-response-time-in-aws-ecs-2gge
 https://www.reddit.com/r/aws/comments/yqkzax/just_released_alternat_a_high_availability_aws/
 
 # News
+https://onecloudplease.com/blog/exploring-amazon-vpc-lattice
+
 https://www.reddit.com/r/aws/comments/127u4fr/amazon_vpc_lattice_now_ga/
 
 https://www.reddit.com/r/aws/comments/10dbp51/aws_waf_get_list_of_incoming_ip_that_breaches_the/

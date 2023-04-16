@@ -99,6 +99,8 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://en.wikipedia.org/wiki/ELinOS
+
 https://lwn.net/SubscriberLink/928581/841b747332791ac4/
 > https://news.ycombinator.com/item?id=35557848
 

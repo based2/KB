@@ -22,6 +22,8 @@ https://vitalik.ca/general/2021/07/29/gini.html
 
 https://en.wikipedia.org/wiki/Ideal_money
 
+https://wid.world/
+
 # Bank
 https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf
 > https://news.ycombinator.com/item?id=27419984

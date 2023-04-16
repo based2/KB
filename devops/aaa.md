@@ -343,6 +343,10 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://wezfurlong.org/blog/2013/Jun/watchman/
+> https://facebook.github.io/watchman/
+> https://github.com/facebook/watchman
+
 https://joblib.readthedocs.io/en/latest/index.html
 > https://news.ycombinator.com/item?id=35546804
 

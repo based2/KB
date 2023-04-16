@@ -113,6 +113,15 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html 2012
+> https://news.ycombinator.com/item?id=35584650
+
+https://giannirosato.com/blog/post/nvenc-v-qsv/
+> https://news.ycombinator.com/item?id=35587509
+
+https://github.com/ChocolateApp/Chocolate
+> https://news.ycombinator.com/item?id=35582910
+
 https://www.dji.com/en/inspire-3
 > https://news.ycombinator.com/item?id=35574416
 > > https://en.wikipedia.org/wiki/CinemaDNG

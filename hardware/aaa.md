@@ -79,6 +79,9 @@ https://github.com/madprops/blog/blob/main/mouse.md
 https://www.xythobuz.de/trackball_v1.html
 > https://news.ycombinator.com/item?id=34833098
 
+https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace
+> https://news.ycombinator.com/item?id=35586008
+
 # Screen
 https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/
 > https://news.ycombinator.com/item?id=35387160

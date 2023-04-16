@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+http://gabarro.org/ccn/gen_fourier.html
+> https://news.ycombinator.com/item?id=35582084
+
 https://news.ycombinator.com/item?id=35503743
 
 https://en.wikipedia.org/wiki/QSL_card

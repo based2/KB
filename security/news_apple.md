@@ -1,5 +1,8 @@
 https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware
 
+https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database
+> https://news.ycombinator.com/item?id=35581375
+
 #
 https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos
 

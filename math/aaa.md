@@ -98,6 +98,9 @@ https://johncarlosbaez.wordpress.com/2023/03/06/dividing-a-square-into-7-similar
 https://erich-friedman.github.io/packing/index.html
 > https://news.ycombinator.com/item?id=35179598
 
+https://dmsm.github.io/scissors-congruence/ An interactive demo of the Wallace–Bolyai–Gerwien theorem
+> https://news.ycombinator.com/item?id=35535821
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705
@@ -135,6 +138,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://katex.org/
+
 https://www.matrixcalculus.org/
 > https://news.ycombinator.com/item?id=35568311
 

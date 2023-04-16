@@ -91,6 +91,8 @@ CVE-2022-25667 ICMP Redirect attack
 
 PQC Rainbow signature scheme
 
+Baton Drop https://github.com/Wack0/CVE-2022-21894
+
 ## 2021
 https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab Active Directory
 
@@ -327,6 +329,8 @@ https://www.linux.gr/DeCSS/decss.html
 
 https://en.wikipedia.org/wiki/NSAKEY
 
+CVE-1999-0667 The ARP protocol allows any host to spoof ARP replies and poison the ARP cache to conduct IP address spoofing or a denial of service.
+
 ## 1995
 Roos RC4
 
@@ -349,6 +353,9 @@ https://en.wikipedia.org/wiki/Brain_(computer_virus)
 
 ## 1980
 https://en.wikipedia.org/wiki/Differential_cryptanalysis DES
+
+## 1970
+https://users.cs.utah.edu/~elb/folklore/xerox.txt
 
 ## 1957
 phreaking 2600 hertz

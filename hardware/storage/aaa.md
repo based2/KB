@@ -1,12 +1,29 @@
-# S3
+# Object Storage
+https://github.com/noobaa/noobaa-core/blob/master/README.md Red Hat
+
+https://github.com/minio/minio
+> https://news.ycombinator.com/item?id=32148007 Nutanix
+> > https://www.nutanix.com/uk/go/2022-gartner-mq-files
+> https://news.ycombinator.com/item?id=35299665 Weka https://www.weka.io/blog/file-system/weka-responds-to-unfounded-allegations-made-by-minio-regarding-open-source-licensing/
+> > https://www.weka.io/resources/white-papers/wekaio-architectural-whitepaper/#wekafsarchitecture
+
+https://garagehq.deuxfleurs.fr/
+> https://news.ycombinator.com/item?id=33853539
+
+https://github.com/seaweedfs/seaweedfs
+
+## S3
 https://juicefs.com/en/ .cn
 > https://news.ycombinator.com/item?id=34706227
 
+# Block Storage
+onTAP
 # SMB Microsoft
 
 # NFS Unix
 
-# WebDAV
+# HTTPS
+## WebDAV
 https://github.com/fstanis/awesome-webdav
 
 https://sabre.io/
@@ -14,12 +31,25 @@ https://sabre.io/
 
 https://github.com/9001/copyparty
 
+https://jackrabbit.apache.org/jcr/components/jackrabbit-webdav-library.html
+
+## Java JCR
+https://jackrabbit.apache.org/jcr/jackrabbit-architecture.html
+
 # Incident
 https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+http://www.benedikt-stockebrand.de/rdist-intro_en.html 2012
+> https://news.ycombinator.com/item?id=35552605
+
+https://paulstamatiou.com/digital-clutter/
+> https://news.ycombinator.com/item?id=35584866
+
 https://www.usenix.org/conference/atc19/presentation/panda IASO: A Fail-Slow Detection and Mitigation Framework for Distributed Storage Services
+
+https://mogilefs.github.io/mogilefs-docs/HighLevelOverview.html ASLv2
 
 https://www.micahlerner.com/2023/03/28/ambry-linkedins-scalable-geo-distributed-object-store.html
 

@@ -3,6 +3,8 @@ https://github.com/queer/boxxy puts bad Linux applications in a box with only th
 > https://news.ycombinator.com/item?id=34730520
 
 # News
+https://github.com/google/security-research/security/advisories/GHSA-mj4w-6495-6crx Linux Kernel: Spectre v2 SMT mitigations problem
+
 https://maskray.me/blog/2023-04-12-elf-hash-function
 > https://news.ycombinator.com/item?id=35536399
 

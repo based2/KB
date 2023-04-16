@@ -25,6 +25,8 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/ SecurityNotifications
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://www.reddit.com/r/netsec/comments/12nsrz1/vulnerability_scanner_for_aws_customermanaged/
+
 https://www.slideshare.net/MichaelFelch/welcome-to-the-jungle-pentesting-aws
 
 https://aws.amazon.com/en/about-aws/whats-new/2023/03/application-load-balancer-tls-1-3/

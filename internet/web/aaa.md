@@ -115,6 +115,9 @@ https://shot-scraper.datasette.io/en/stable/
 https://jamesturk.github.io/scrapeghost/ chatgpt
 > https://news.ycombinator.com/item?id=35305655
 
+https://github.com/wabarc/wayback
+> https://news.ycombinator.com/item?id=35586845
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 

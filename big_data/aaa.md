@@ -284,6 +284,8 @@ https://github.com/approximatelabs/sketch
 > > https://slurm.schedmd.com/SC22/Slurm-and-or-vs-Kubernetes.pdf
 
 # News
+https://amakelov.github.io/blog/pl/
+
 https://github.com/Kanaries/pygwalker
 
 https://arxiv.org/abs/2304.04265

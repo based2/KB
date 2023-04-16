@@ -112,6 +112,9 @@ https://gist.github.com/chrispsn/3450fe6172a7cc441d0819379ed3a32a group
 
 https://news.ycombinator.com/item?id=35422570
 
+https://github.com/m-ender/hexagony
+> https://news.ycombinator.com/item?id=35581768
+
 # Hackathon
 https://www.juricho.me/posts/online-hackathon/
 

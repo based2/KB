@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://sealvault.org/blog/2023/04/token-transfer-tla/
+
 https://blog.kraken.com/post/17865/ethereum-shanghai-upgrade-what-you-need-to-know/
 
 https://www.jdsupra.com/legalnews/court-ruling-could-affect-the-future-6662722/ dao

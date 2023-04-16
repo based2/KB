@@ -1,3 +1,5 @@
+https://samwho.dev/load-balancing/
+> https://news.ycombinator.com/item?id=35588797
 
 http://www.haproxy.org/
 

@@ -1,3 +1,13 @@
+https://archive.org/details/shmoocon2023
+
+https://certification.enisa.europa.eu/
+
+https://www.enisa.europa.eu/cybersecurity-maturity-assessment-for-small-and-medium-enterprises/#/
+
+https://gist.github.com/rain-1/cc67caa8873ee38098aefb0f35f46014 WorLLMs.md
+
+https://vigilance.fr/vulnerabilite/Chrome-corruption-de-memoire-via-V8-Type-Confusion-41059
+
 https://www.sonarsource.com/blog/pretalx-vulnerabilities-how-to-get-accepted-at-every-conference/ pretalx
 > https://www.reddit.com/r/netsec/comments/12lplzy/escalating_file_write_into_rce_in_python/
 

@@ -30,6 +30,9 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://www.lofiatc.com/?icao=kmth
+> https://news.ycombinator.com/item?id=35583228
+
 https://www.faa.gov/airport-design-challenge
 > https://news.ycombinator.com/item?id=35494382
 

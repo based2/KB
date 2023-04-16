@@ -102,6 +102,9 @@ https://news.ycombinator.com/item?id=34814178
 
 https://news.ycombinator.com/item?id=35107804
 
+https://exercism.org/
+> https://news.ycombinator.com/item?id=35582079
+
 # Meta
 https://metacognitive.me/memory-palace/
 > https://news.ycombinator.com/item?id=28640429

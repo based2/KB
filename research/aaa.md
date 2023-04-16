@@ -38,6 +38,9 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://researchintegrityjournal.biomedcentral.com/articles/10.1186/s41073-022-00126-w
+> https://news.ycombinator.com/item?id=35583465
+
 https://stanforddaily.com/2023/02/17/internal-review-found-falsified-data-in-stanford-presidents-alzheimers-research-colleagues-allege/
 > https://news.ycombinator.com/item?id=34847734
 

@@ -9,6 +9,12 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://github.com/santiagobasulto/ipython-gpt
+> https://news.ycombinator.com/item?id=35580959
+
+https://drive.google.com/file/d/10iR5hKwFqAKhL3umx8muOWSRm7hs5FqX/view OpenAssistant Conversations - Democratizing Large Language Model Alignment
+> https://news.ycombinator.com/item?id=35582417
+
 https://platform.openai.com/tokenizer
 > https://news.ycombinator.com/item?id=35453400
 

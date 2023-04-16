@@ -1,3 +1,6 @@
+https://www.fo-sec.com/articles/10-defender-bypass-methods
+> https://www.reddit.com/r/netsec/comments/12n8buu/10_methods_to_bypass_windows_defender_for/
+
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28284 edge
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-exchange-online-cars-deprecation-until-2024/

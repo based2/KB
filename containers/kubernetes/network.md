@@ -21,3 +21,7 @@ https://medium.com/@bareckidarek/tcp-packets-traffic-visualization-for-kubernete
 https://clivern.com/working-with-nginx-ingress-controller/
 
 https://navendu.me/posts/kubernetes-gateway-with-apisix/
+
+https://docs.netchecks.io/
+
+https://github.com/inovex/illuminatio

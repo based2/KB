@@ -66,6 +66,8 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://news.ycombinator.com/item?id=35585174
+
 https://www.politico.eu/article/italian-privacy-regulator-bans-chatgpt/
 > https://news.ycombinator.com/item?id=35385075
 

@@ -98,6 +98,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+http://gabarro.org/ccn/algebraic_graph_calculus.html
+> https://news.ycombinator.com/item?id=35584187
+
 https://gephi.org/gephi-lite/
 
 https://kuzudb.com/blog/wcoj.html Why (Graph) DBMSs Need New Join Algorithms: The Story of Worst-case Optimal Join Algorithms

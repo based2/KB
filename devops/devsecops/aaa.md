@@ -1,3 +1,7 @@
+https://github.com/slsa-framework/slsa
+
+https://github.com/ossf/s2c2f
+
 https://en.wikipedia.org/wiki/Wardley_map
 
 https://en.wikipedia.org/wiki/Cynefin_framework
@@ -27,7 +31,12 @@ https://thenewstack.io/openssf-brings-sbom-and-sdpx-to-python/
 https://github.blog/2023-03-28-introducing-self-service-sboms/
 > https://news.ycombinator.com/item?id=35371291
 
+https://omnibor.io/
+
 #
+
+https://blog.josefsson.org/2023/04/15/sigstore-protects-apt-archives-apt-verify-apt-sigstore/
+
 https://github.com/boringtools/git-alerts
 
 https://thenewstack.io/how-to-implement-a-security-scanner-for-docker-images/

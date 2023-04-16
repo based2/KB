@@ -2,7 +2,9 @@ https://www.governmentattic.org/39docs/NSAmilitaryCryptalyticsPt3_1977.pdf
 
 http://cdn.getlynx.io/2019-03-17_Lynx_Whitepaper_v1.1.pdf
 
-https://news.ycombinator.com/item?id=26526108 Cryptography behind the top cryptocurrencies 
+https://news.ycombinator.com/item?id=26526108 Cryptography behind the top cryptocurrencies
+
+https://www.imf.org/en/Publications/Policy-Papers/Issues/2023/04/12/IMF-Approach-to-Central-Bank-Digital-Currency-Capacity-Development-532177
 
 # Experiments
 https://clickclickclick.click/

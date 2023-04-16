@@ -99,6 +99,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.zdnet.com/article/intel-wont-back-down-on-chip-id-feature/
+> https://news.ycombinator.com/item?id=35571236
+
 https://www.reuters.com/technology/european-data-protection-board-discussing-ai-policy-thursday-meeting-2023-04-13/
 > https://news.ycombinator.com/item?id=35557103
 

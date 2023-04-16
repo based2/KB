@@ -38,6 +38,10 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/kovidgoyal/kitty/pull/5969
+> https://news.ycombinator.com/item?id=35585923
+> > https://wezfurlong.org/wezterm/
+
 https://sw.kovidgoyal.net/kitty/keyboard-protocol/
 > https://news.ycombinator.com/item?id=35397994
 

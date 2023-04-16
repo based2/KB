@@ -240,6 +240,10 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/
+> https://news.ycombinator.com/item?id=35585117
+> > https://redhatofficial.github.io/#!/main
+
 https://www.univention.com/blog-en/2023/03/digital-sovereignty-administration/
 > https://github.com/univention/univention-corporate-server agpl, samba
 > https://opencode.de/en

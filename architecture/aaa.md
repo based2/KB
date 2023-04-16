@@ -281,6 +281,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://blog.nelhage.com/post/efficiency-vs-resiliency/
+> https://news.ycombinator.com/item?id=35586607
+
 https://dspace.mit.edu/handle/1721.1/79551 System design and the cost of architectural complexity
 > https://news.ycombinator.com/item?id=35470905
 
