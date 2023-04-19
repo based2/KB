@@ -54,6 +54,9 @@ https://www.hillelwayne.com/post/learntla/
 https://buttondown.email/hillelwayne/archive/creatively-misusing-tla/
 > https://news.ycombinator.com/item?id=34750798
 
+https://www.hillelwayne.com/post/graphing-tla/
+> https://news.ycombinator.com/item?id=35601958
+
 # Z3 Microsoft
 https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb
 > https://news.ycombinator.com/item?id=27045771

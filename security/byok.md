@@ -59,3 +59,5 @@ https://ericchiang.github.io/post/tpm-keys/
 
 https://www.jeffgeerling.com/blog/2023/secure-computing-zymbits-d35
 > https://news.ycombinator.com/item?id=35472175
+
+https://hardenedvault.net/blog/2023-04-18-java-card-runtime-memory-corruption/

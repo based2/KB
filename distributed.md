@@ -148,6 +148,9 @@ https://github.com/tigerbeetledb/tigerbeetle zig
 https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-and-its-rust-counterpart/
 > https://news.ycombinator.com/item?id=33187677
 
+https://questdb.io/blog/inner-workings-distributed-databases/
+> https://news.ycombinator.com/item?id=35602983
+
 # Test
 https://fsantanna.github.io/structured-concurrency.html
 > https://news.ycombinator.com/item?id=30754854

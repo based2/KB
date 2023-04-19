@@ -35,6 +35,8 @@ https://medium.com/@jewbixcube/paypal-allows-bypassing-two-factor-auth-with-a-bu
 https://cube0x0.github.io/Relaying-YubiKeys/
 
 # News
+https://news.ycombinator.com/item?id=35625065
+
 https://smallstep.com/blog/access-your-homelab-anywhere/
 > https://news.ycombinator.com/item?id=35429424
 

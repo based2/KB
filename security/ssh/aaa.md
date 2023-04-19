@@ -129,6 +129,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH
+> https://news.ycombinator.com/item?id=35587981
+
 https://davidisaksson.dev/posts/closing-stale-ssh-connections/
 > https://news.ycombinator.com/item?id=35504402
 

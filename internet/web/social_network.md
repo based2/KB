@@ -76,6 +76,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://masto.ai/@mg/110212843144499061
+> https://news.ycombinator.com/item?id=35597540
+
 https://www.theregister.com/2023/04/14/twitter_strikes_back_substack/
 
 https://gantry.io/blog/papers-to-know-20230110/ Monolith: The Recommendation System Behind TikTok

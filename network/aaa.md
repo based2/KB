@@ -84,6 +84,9 @@ https://github.com/Shopify/toxiproxy
 
 https://speedscale.com/speedscale-v1/
 
+https://www.redhat.com/sysadmin/stop-using-telnet-test-port
+> https://news.ycombinator.com/item?id=35621441
+
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
 

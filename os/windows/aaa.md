@@ -149,6 +149,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://github.com/vexx32/PSKoans
+> https://news.ycombinator.com/item?id=35588451
+
 https://github.com/microsoft/PowerToys/releases/tag/v0.69.1
 
 https://gizmodo.com/windows-11-system-requirements-not-met-watermark-messag-1850114052

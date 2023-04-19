@@ -59,3 +59,5 @@ https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm
 
 https://secretsofconsulting.blogspot.com/2017/02/fuzz-testing-and-fuzz-history.html
 > https://news.ycombinator.com/item?id=32967944
+
+https://github.com/quarkslab/pastis

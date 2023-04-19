@@ -1,6 +1,9 @@
 # llama Facebook
 https://github.com/tatsu-lab/stanford_alpaca
 
+https://www.together.xyz/blog/redpajama
+> https://news.ycombinator.com/item?id=35600860
+
 https://github.com/cocktailpeanut/dalai
 > 
 
@@ -41,6 +44,12 @@ https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
 #
+https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models
+> https://news.ycombinator.com/item?id=35629127
+
+https://github.com/Stability-AI/StableLM
+> https://news.ycombinator.com/item?id=35629141
+
 https://www.jasonwei.net/blog/emergence
 > https://news.ycombinator.com/item?id=35515562
 

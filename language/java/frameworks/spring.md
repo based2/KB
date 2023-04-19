@@ -52,6 +52,9 @@ https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-nex
 > https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
+https://github.com/krud-dev/boost
+> https://boost.krud.dev/getting-started/boost-101
+
 https://vladmihalcea.com/join-fetch-pagination-spring/
 > https://www.reddit.com/r/java/comments/11ykqgz/the_best_way_to_use_join_fetch_and_pagination/
 

@@ -137,6 +137,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://buttondown.email/hillelwayne/archive/tag-systems/
+> https://news.ycombinator.com/item?id=35597934
+
 https://blog.adacore.com/introduction-to-vss-library
 
 https://github.com/pop-os/cosmic-text

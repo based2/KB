@@ -274,6 +274,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://www.postgresql.org/docs/current/ecpg.html
+> https://news.ycombinator.com/item?id=35598251
+
 https://database.dev/
 > https://news.ycombinator.com/item?id=35570758
 

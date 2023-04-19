@@ -113,6 +113,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://chipsandcheese.com/2023/04/16/codecs-for-the-4k-era-hevc-av1-vvc-and-beyond/
+> https://news.ycombinator.com/item?id=35594044
+
 https://blog.pkh.me/p/13-the-ffmpeg-libav-situation.html 2012
 > https://news.ycombinator.com/item?id=35584650
 

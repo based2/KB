@@ -1,3 +1,21 @@
+https://blog.wesleyac.com/posts/why-not-javascript-cdn
+
+https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/releases/v2.16.1
+
+https://www.oracle.com/security-alerts/cpuapr2023.html
+
+https://www.bleepingcomputer.com/news/security/hackers-actively-exploit-critical-rce-bug-in-papercut-servers/
+
+https://www.bleepingcomputer.com/news/security/google-patches-another-actively-exploited-chrome-zero-day/
+
+https://www.securityengineering.dev/apt28-cisco-routers-vulnerability-april-2023/
+> https://www.reddit.com/r/netsec/comments/12rn4iv/apt28_attacks_on_cisco_routers_what_we_know_so_far/
+
+https://blog.elcomsoft.com/2020/08/breaking-luks-encryption/
+> https://news.ycombinator.com/item?id=35605790
+
+https://www.bleepingcomputer.com/news/security/sap-releases-security-updates-for-two-critical-severity-flaws/
+
 https://www.cisa.gov/sites/default/files/2023-04/principles_approaches_for_security-by-design-default_508_0.pdf
 > https://news.ycombinator.com/item?id=35562357
 

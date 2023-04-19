@@ -286,6 +286,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://astral.sh/
+> https://news.ycombinator.com/item?id=35617198
+
 https://lukeplant.me.uk/blog/posts/the-different-uses-of-python-type-hints/
 > https://news.ycombinator.com/item?id=35536085
 

@@ -133,6 +133,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r
+
 https://old.reddit.com/r/selfhosted/comments/12fg9d9/oracle_free_tier_reclamation/
 
 https://www.bleepingcomputer.com/news/technology/western-digital-struggles-to-fix-massive-my-cloud-outage-offers-workaround/
@@ -251,6 +253,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.swissinfo.ch/eng/sci-tech/first-batch-of-swiss-data-uploaded-to-foreign-operated-server/48439016
+> https://www.reddit.com/r/worldnews/comments/12o9szz/first_batch_of_swiss_data_uploaded_to/
+
 https://www.enisa.europa.eu/news/every-cloud-cybersecurity-market-has-a-silver-lining
 
 https://www.hetzner.com/press-release/arm64-cloud/

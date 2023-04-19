@@ -201,6 +201,9 @@ https://somethingorotherwhatever.com/wobble-clock/
 
 https://dvaluch.web.cern.ch/hh3/
 
+https://oimo.io/works/clock/
+> https://news.ycombinator.com/item?id=35620291
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

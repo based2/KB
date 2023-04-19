@@ -85,6 +85,9 @@ https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/
 https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
+#
+https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
+
 # News
 https://internet-explorer-ssl.github.io/
 
@@ -411,6 +414,7 @@ https://aquila.network/
 
 https://search.marginalia.nu/ Favors text-heavy sites and punishes modern web design
 > https://news.ycombinator.com/item?id=28550764
+> https://news.ycombinator.com/item?id=35611923
 
 https://jpreston.xyz/custom-search-engine.html
 > https://news.ycombinator.com/item?id=28509997

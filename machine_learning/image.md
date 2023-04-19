@@ -72,6 +72,10 @@ https://github.com/microsoft/visual-chatgpt
 https://thenumb.at/Neural-Graphics/
 > https://news.ycombinator.com/item?id=35374117
 
+# Data
+https://github.com/allenai/mmc4
+> https://news.ycombinator.com/item?id=35619159
+
 # text2img
 https://deephaven.io/blog/2022/08/08/AI-generated-blog-thumbnails/
 
@@ -304,6 +308,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://llava-vl.github.io/
+> https://news.ycombinator.com/item?id=35621023
+
 https://www.shruggingface.com/blog/how-i-used-stable-diffusion-and-dreambooth-to-create-a-painted-portrait-of-my-dog
 > https://news.ycombinator.com/item?id=35592847
 

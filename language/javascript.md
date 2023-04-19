@@ -517,6 +517,8 @@ https://vramework.io/blog/20211030-service-injection/
 https://www.ashbyhq.com/blog/engineering/detecting-event-loop-blockers
 > https://news.ycombinator.com/item?id=30713567
 
+https://nodejs.org/en/blog/release/v20.0.0
+
 https://nodejs.org/en/blog/announcements/nodejs16-eol/ Changing the End-of-Life Date for Node.js 16 to September 11th, 2023
 
 https://codesandbox.io/blog/announcing-sandpack-2

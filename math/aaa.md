@@ -101,6 +101,9 @@ https://erich-friedman.github.io/packing/index.html
 https://dmsm.github.io/scissors-congruence/ An interactive demo of the Wallace–Bolyai–Gerwien theorem
 > https://news.ycombinator.com/item?id=35535821
 
+https://geometry-central.net/
+> https://news.ycombinator.com/item?id=35580061
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705

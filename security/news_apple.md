@@ -4,6 +4,15 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://support.apple.com/en-us/HT213725 macos
+
+https://support.apple.com/en-us/HT213723 ios
+
+https://www.theregister.com/2023/04/10/apple_fix_ios_macos/
+
+https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/
+> 
+
 https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos
 
 https://www.bleepingcomputer.com/news/apple/apple-fixes-two-zero-days-exploited-to-hack-iphones-and-macs/

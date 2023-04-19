@@ -169,6 +169,9 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a
+> https://news.ycombinator.com/item?id=35596502
+
 https://arxiv.org/abs/2304.06222 Comprehensive Survey on the Implementations, Attacks, and Countermeasures of the Current NIST Lightweight Cryptography Standard
 
 https://words.filippo.io/dispatches/near-miss/ CVE-2023-24532 go crypto/elliptic package

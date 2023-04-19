@@ -1,3 +1,10 @@
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-android-bug-exploited-by-chinese-app-to-spy-on-users/
+
+https://www.bleepingcomputer.com/news/security/kyocera-android-app-with-1m-installs-can-be-abused-to-drop-malware/
+
+https://blog.trailofbits.com/2023/03/30/acropalypse-polytracker-blind-spots/
+> https://www.reddit.com/r/netsec/comments/128bk1k/how_to_avoid_the_acropalypse/
+
 https://iliana.fyi/blog/acropalypse-now/
 > https://news.ycombinator.com/item?id=35378109
 

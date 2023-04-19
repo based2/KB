@@ -40,6 +40,11 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://spectrum.ieee.org/neurotechnology-diy
+> https://news.ycombinator.com/item?id=35629114
+
+https://news.ycombinator.com/item?id=35621309
+
 https://en.wikipedia.org/wiki/Frequency_format_hypothesis
 > https://news.ycombinator.com/item?id=35313088
 

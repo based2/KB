@@ -265,6 +265,9 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # Incident
+https://incidentdatabase.ai/
+> https://news.ycombinator.com/item?id=35628345
+
 https://www.schneier.com/blog/archives/2023/04/llms-and-phishing.html
 
 https://doublespeak.chat/#/handbook
@@ -317,6 +320,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.latent.space/p/agents
+> https://news.ycombinator.com/item?id=35629033
+
+https://minigpt-4.github.io/
+> https://news.ycombinator.com/item?id=35598281
+
 https://hazyresearch.stanford.edu/blog/2023-04-12-batch
 
 https://lifearchitect.ai/chinchilla/

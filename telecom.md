@@ -147,6 +147,14 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.theverge.com/2023/4/19/23689628/google-fi-wireless-new-name-rebrand-smartwatch-connectivity-support
+
+https://www.fcc.gov/broadbandlabels
+> https://news.ycombinator.com/item?id=35621861
+
+https://rs-ojict.pubpub.org/pub/lqhigiva/release/2
+> https://news.ycombinator.com/item?id=35596267
+
 https://coveragemap.com/ us
 > https://news.ycombinator.com/item?id=35585789
 

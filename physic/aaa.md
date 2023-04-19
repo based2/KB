@@ -71,6 +71,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/
+> https://news.ycombinator.com/item?id=35614442
+
 https://bigthink.com/hard-science/high-energy-neutrinos-rare-cosmic-events/
 > https://news.ycombinator.com/item?id=35304097
 

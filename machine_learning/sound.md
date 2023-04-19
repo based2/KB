@@ -100,6 +100,11 @@ https://thewalrus.ca/ai-is-coming-for-voice-actors-artists-everywhere-should-tak
 
 https://ai.googleblog.com/2023/03/universal-speech-model-usm-state-of-art.html
 
+https://kuai-lab.github.io/soundini-gallery/
+
+https://speechresearch.github.io/naturalspeech2/
+> https://news.ycombinator.com/item?id=35627790
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

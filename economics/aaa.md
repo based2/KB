@@ -78,6 +78,9 @@ https://law.stanford.edu/press/investors-beware-crooked-financial-advisors-can-s
 https://www.moderntreasury.com/journal/accounting-for-developers-part-iii
 > https://news.ycombinator.com/item?id=33274239
 
+https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-account-with-4-15-annual-yield?leadSource=uverify%20wall
+> https://news.ycombinator.com/item?id=35603168
+
 ## Trading
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 > https://news.ycombinator.com/item?id=27763965

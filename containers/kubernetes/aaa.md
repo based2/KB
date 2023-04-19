@@ -74,6 +74,9 @@ https://www.armosec.io/blog/cve-2022-47633-kyvernos-container-image-signature-ve
 > https://www.reddit.com/r/kubernetes/comments/zshfp4/cve202247633_kyvernos_signature_verification_can/
 
 # News
+https://github.com/empath-nirvana/magic-happens
+> https://news.ycombinator.com/item?id=35604715
+
 https://github.com/vladimirvivien/ktop
 
 https://www.hoelzel.it/kubernetes/2023/04/15/rancher-desktop.html

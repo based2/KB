@@ -36,3 +36,6 @@ https://libreboot.org/news/hp8200sff.html
 
 https://www.phoronix.com/news/AMD-openSIL-Detailed
 > https://news.ycombinator.com/item?id=35570151
+
+https://www.theregister.com/2023/04/17/opinion_column/
+> https://news.ycombinator.com/item?id=35599884

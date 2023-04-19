@@ -32,5 +32,7 @@ https://goldensyrupgames.com/blog/2023-01-14-gobgp-windows/
 https://aaka.sh/posts/20230129-bgp-at-home.html
 > https://news.ycombinator.com/item?id=34853136
 
+https://www.bleepingcomputer.com/news/security/all-dutch-govt-networks-to-use-rpki-to-prevent-bgp-hijacking/
+
 # Incident
 https://www.coinbase.com/blog/celer-bridge-incident-analysis

@@ -1,6 +1,18 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
 
 #
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28252
+
+https://asec.ahnlab.com/en/51343/
+
+https://www.microsoft.com/en-us/security/blog/2023/04/18/nation-state-threat-actor-mint-sandstorm-refines-tradecraft-to-attack-high-value-targets/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-laps-is-incompatible-with-legacy-policies/
+
+https://www.bleepingcomputer.com/news/security/windows-admins-warned-to-patch-critical-msmq-queuejumper-bug/
+
+https://www.bleepingcomputer.com/news/security/windows-zero-day-vulnerability-exploited-in-ransomware-attacks/
+
 https://www.fo-sec.com/articles/10-defender-bypass-methods
 > https://www.reddit.com/r/netsec/comments/12n8buu/10_methods_to_bypass_windows_defender_for/
 

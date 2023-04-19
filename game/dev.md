@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html
+> https://news.ycombinator.com/item?id=35625543
+
 https://haxe.org/download/
 > https://news.ycombinator.com/item?id=35484322
 > > https://www.elitemastereric.com/Haxe-430/

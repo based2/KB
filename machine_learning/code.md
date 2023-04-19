@@ -52,6 +52,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
+> https://news.ycombinator.com/item?id=35612494
+
 https://aws.amazon.com/en/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/
 > https://news.ycombinator.com/item?id=35554460
 

@@ -125,6 +125,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.phoronix.com/news/GCC-13.1-Next-Week-Plan
+
 https://intuitiveexplanations.com/tech/kalyn
 > https://news.ycombinator.com/item?id=35549692
 
