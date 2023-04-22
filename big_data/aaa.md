@@ -284,6 +284,10 @@ https://github.com/approximatelabs/sketch
 > > https://slurm.schedmd.com/SC22/Slurm-and-or-vs-Kubernetes.pdf
 
 # News
+https://evidence.dev/
+
+https://www.rilldata.com/blog/why-we-built-rill-with-duckdb
+
 https://news.livebook.dev/data-wrangling-in-elixir-with-explorer-the-power-of-rust-the-elegance-of-r---launch-week-1---day-5-1xqwCI
 > https://news.ycombinator.com/item?id=35570027
 

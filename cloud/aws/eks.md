@@ -50,6 +50,9 @@ https://blog.lightspin.io/exploiting-eks-authentication-vulnerability-in-aws-iam
 
 https://aws-controllers-k8s.github.io/community/docs/community/overview/
 
+# Storage
+https://github.com/yandex-cloud/k8s-csi-s3
+
 #
 https://aws.amazon.com/fr/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-26/
 

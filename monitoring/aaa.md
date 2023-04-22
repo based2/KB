@@ -75,6 +75,10 @@ https://news.ycombinator.com/item?id=31780076 Show HN: Root Cause as a Service â
 https://www.devraven.io/ Monitoring for Developers
 > https://news.ycombinator.com/item?id=32296783
 
+#
+https://eng.lyft.com/building-a-large-scale-unsupervised-model-anomaly-detection-system-part-1-aca4766a823c
+> https://news.ycombinator.com/item?id=35658173
+
 # Distributed
 https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and ClickHouse, go
 > https://news.ycombinator.com/item?id=29711433
@@ -95,6 +99,12 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/uptrace/uptrace
+> https://news.ycombinator.com/item?id=35650732
+
+https://github.com/highlight/highlight/blob/main/README.md
+> https://news.ycombinator.com/item?id=35643255
+
 https://supabase.com/blog/supabase-logs-self-hosted
 > https://news.ycombinator.com/item?id=35518786
 

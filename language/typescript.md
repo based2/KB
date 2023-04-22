@@ -97,6 +97,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://grifel.dev/bun-dev-experience/
+
 https://desislav.dev/blog/tsfp/
 > https://news.ycombinator.com/item?id=35588513
 

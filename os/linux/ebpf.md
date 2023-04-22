@@ -53,6 +53,9 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://lwn.net/Articles/926882/ Standardizing BPF
+> https://news.ycombinator.com/item?id=35649459
+
 https://github.com/cilium/pwru
 > https://news.ycombinator.com/item?id=35450007
 

@@ -99,6 +99,17 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://wideangle.co/blog/dark-patterns-examples-of-manipulative-consent-requests
+> https://news.ycombinator.com/item?id=35653719
+
+https://news.ycombinator.com/item?id=35653867
+
+https://arstechnica.com/gadgets/2023/04/apple-plans-mental-health-focused-journaling-app-for-ios-17/
+> https://news.ycombinator.com/item?id=35662345
+
+https://www.eff.org/deeplinks/2023/04/earn-it-bill-back-again-seeking-scan-our-messages-and-photos
+> https://news.ycombinator.com/item?id=35655282
+
 https://www.nist.gov/privacy-framework
 > https://news.ycombinator.com/item?id=35615601
 

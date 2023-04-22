@@ -43,7 +43,14 @@ https://www.jeffgeerling.com/blog/2021/wiretrustee-sata-pi-board-true-sata-nas
 https://winfsp.dev/
 > https://winfsp.dev/doc/Known-File-Systems/
 
+https://github.com/maharmstone/btrfs
+> https://www.lilysthings.org/blog/windows-on-btrfs/
+> > https://news.ycombinator.com/item?id=35660186
+
 # News
+https://www.fileside.app/blog/2023-03-17_windows-file-paths/
+> https://news.ycombinator.com/item?id=35654574
+
 https://axcient.com/blog/using-dtrace-to-find-block-sizes-of-zfs-nfs-and-iscsi/
 > https://lobste.rs/s/1tmy0w/using_dtrace_find_block_sizes_zfs_nfs
 
@@ -52,7 +59,7 @@ https://hondu.co/blog/file-expiration-using-bpf
 
 https://lwn.net/SubscriberLink/853308/c386b5aab35db7b6/ Btrfs on zoned block devices
 > https://news.ycombinator.com/item?id=26885390
-> 
+
 https://www.kernel.org/doc/html/latest/filesystems/9p.html
 
 https://github.com/Overv/vramfs

@@ -4,11 +4,21 @@ https://explosion.ai/blog/coref
 
 https://explosion.ai/blog/floret-vectors
 
+# Data
+https://txt.cohere.com/embedding-archives-wikipedia/
+> https://news.ycombinator.com/item?id=35643959
+
 # Search
 https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://github.com/nestordemeure/question_extractor
+> https://news.ycombinator.com/item?id=35635091
+
+https://www.chatpdf.com/
+> https://news.ycombinator.com/item?id=35626312
+
 https://github.com/santiagobasulto/ipython-gpt
 > https://news.ycombinator.com/item?id=35580959
 

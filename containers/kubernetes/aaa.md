@@ -66,6 +66,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # Incident
+https://www.bleepingcomputer.com/news/security/kubernetes-rbac-abused-to-create-persistent-cluster-backdoors/
+
 https://www.cyberark.com/resources/threat-research-blog/what-i-learned-from-analyzing-a-caching-vulnerability-in-istio
 
 https://raesene.github.io/blog/2022/12/21/Kubernetes-persistence-with-Tocan-and-Teisteanas/
@@ -74,6 +76,8 @@ https://www.armosec.io/blog/cve-2022-47633-kyvernos-container-image-signature-ve
 > https://www.reddit.com/r/kubernetes/comments/zshfp4/cve202247633_kyvernos_signature_verification_can/
 
 # News
+https://www.opencost.io/blog/azure-opencost
+
 https://github.com/empath-nirvana/magic-happens
 > https://news.ycombinator.com/item?id=35604715
 

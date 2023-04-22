@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://www.bleepingcomputer.com/news/security/ghosttoken-gcp-flaw-let-attackers-backdoor-google-accounts/
+
 https://twitter.com/googledrive/status/1643049029251776515
 > https://news.ycombinator.com/item?id=35434314
 

@@ -119,6 +119,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://blog.dave.tf/post/jumbo-frames/
+> https://news.ycombinator.com/item?id=35647779
+
 https://news.ycombinator.com/item?id=35447094
 
 https://systemsapproach.substack.com/p/was-mpls-traffic-engineering-worthwhile

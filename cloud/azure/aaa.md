@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/
+
 https://www.legitsecurity.com/blog/remote-code-execution-vulnerability-in-azure-pipelines-can-lead-to-software-supply-chain-attack
 
 https://www.theregister.com/2023/03/30/wiz_bing_takeover/

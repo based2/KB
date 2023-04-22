@@ -240,6 +240,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://twitter.com/zemarmot/status/1646272510701236229
+> https://news.ycombinator.com/item?id=35630681
+
 https://opencoreventures.com/blog/2023-04-red-hat-model-only-worked-red-hat/
 > https://news.ycombinator.com/item?id=35585117
 > > https://redhatofficial.github.io/#!/main

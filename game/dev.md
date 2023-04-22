@@ -109,6 +109,13 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://news.ycombinator.com/item?id=35646315
+
+https://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html
+> https://news.ycombinator.com/item?id=35659092
+
+https://www.sciencedirect.com/science/article/pii/S2352409X23001803
+
 https://farawaytimes.blogspot.com/2023/02/how-to-make-good-small-games.html
 > https://news.ycombinator.com/item?id=35625543
 

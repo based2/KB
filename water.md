@@ -125,3 +125,6 @@ https://www.washington.edu/news/2023/04/10/warm-liquid-spewing-from-oregon-seafl
 
 https://news.ycombinator.com/item?id=35524375
 > https://tidesandcurrents.noaa.gov/sltrends/
+
+https://news.mongabay.com/2023/04/norway-proposes-opening-germany-sized-area-of-its-continental-shelf-to-deep-sea-mining/
+> https://news.ycombinator.com/item?id=35658090

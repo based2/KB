@@ -281,6 +281,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://alexkondov.com/use-databases-without-putting-domain-logic-in-them/
+> https://news.ycombinator.com/item?id=35643432
+
 https://blog.nelhage.com/post/efficiency-vs-resiliency/
 > https://news.ycombinator.com/item?id=35586607
 

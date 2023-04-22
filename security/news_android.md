@@ -1,3 +1,6 @@
+https://blog.thalium.re/posts/fuzzing-samsung-system-services/
+
+#
 https://www.bleepingcomputer.com/news/security/cisa-warns-of-android-bug-exploited-by-chinese-app-to-spy-on-users/
 
 https://www.bleepingcomputer.com/news/security/kyocera-android-app-with-1m-installs-can-be-abused-to-drop-malware/

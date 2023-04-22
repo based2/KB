@@ -39,6 +39,8 @@ https://mrogalski.eu/ansi-art/
 
 https://www.asciiart.eu/
 
+https://www.timeout.com/news/these-incredible-drone-displays-show-what-unfinished-buildings-could-look-like-103122
+
 ## Tools
 https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460

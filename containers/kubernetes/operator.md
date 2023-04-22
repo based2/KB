@@ -1,6 +1,8 @@
 https://metalbear.co/blog/writing-a-kubernetes-operator/
 > https://news.ycombinator.com/item?id=35081033
 
+https://thetechtrailblazer.blog/2023/04/18/a-kubernetes-operator-in-rust/
+
 https://merlijn.sebrechts.be/blog/2022-09-05-wasm-k8s-controllers/
 > https://news.ycombinator.com/item?id=34663968
 

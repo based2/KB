@@ -123,4 +123,9 @@ https://github.com/matt-kimball/allocscope memory tracking tool
 https://en.wikipedia.org/wiki/Electrochemical_RAM
 
 https://dl.acm.org/doi/pdf/10.1145/3132402.3132430
-> https://news.ycombinator.com/item?id=35588274 
+> https://news.ycombinator.com/item?id=35588274
+
+https://github.com/mjansson/rpmalloc
+> https://news.ycombinator.com/item?id=35624611
+
+https://www.koreaherald.com/view.php?mp=1&np=1&ud=20230422000063

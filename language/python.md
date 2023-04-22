@@ -279,6 +279,9 @@ https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/
 
 https://fly.io/blog/standout-features-in-django-4-2/
 
+# Interop
+https://news.ycombinator.com/item?id=35651791 go
+
 # History
 https://www.youtube.com/watch?v=4RSht_aV7AU Why python 
 

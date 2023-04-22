@@ -141,6 +141,14 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication
+> https://news.ycombinator.com/item?id=35643978
+
+https://tck.mn/transalg/
+
+https://keith-mcnulty.medium.com/only-one-pair-of-distinct-integers-satisfy-this-equation-76ea45469a96
+> https://news.ycombinator.com/item?id=35635491
+
 https://www.quantamagazine.org/mathematicians-find-hidden-structure-in-a-common-type-of-space-20230412/
 > https://news.ycombinator.com/item?id=35548911
 

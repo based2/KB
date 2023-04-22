@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md sms
+> https://news.ycombinator.com/item?id=35660796
+
 https://bugzilla.mozilla.org/show_bug.cgi?id=1441918
 > https://news.ycombinator.com/item?id=35511713
 

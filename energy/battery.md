@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://thedriven.io/2023/04/21/worlds-largest-battery-maker-announces-major-breakthrough-in-battery-density/
+> https://news.ycombinator.com/item?id=35649935
+
 https://www.canarymedia.com/articles/batteries/this-nasa-tech-might-just-spur-a-major-grid-battery-breakthrough
 > https://news.ycombinator.com/item?id=35602061
 

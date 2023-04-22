@@ -12,3 +12,9 @@ https://github.com/gkamer8/praetor-data
 
 https://github.com/biobootloader/wolverine
 > https://news.ycombinator.com/item?id=35518178
+
+https://promptperfect.jina.ai/
+> https://news.ycombinator.com/item?id=35660751
+
+https://musings.yasyf.com/compressgpt-decrease-token-usage-by-70/
+> https://news.ycombinator.com/item?id=35661452

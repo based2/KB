@@ -122,6 +122,9 @@ https://github.com/marqo-ai/marqo/blob/mainline/examples/SpeechProcessing/articl
 > https://news.ycombinator.com/item?id=35535945
 > > https://github.com/marqo-ai/marqo
 
+https://huggingface.co/spaces/sanchit-gandhi/whisper-jax
+> https://news.ycombinator.com/item?id=35663772
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074
@@ -145,3 +148,6 @@ https://news.ycombinator.com/item?id=34217252
 
 https://valle-demo.github.io/
 > https://news.ycombinator.com/item?id=34270311
+
+https://github.com/suno-ai/bark
+> https://news.ycombinator.com/item?id=35643219

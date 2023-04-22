@@ -63,6 +63,8 @@ https://derekyu.com/makegames/pixelart2.html
 https://developer.apple.com/news/?id=3sgp4ps7 Challenge: Pixel perfect design
 > https://news.ycombinator.com/item?id=31715995
 
+https://news.ycombinator.com/item?id=35654621
+
 # Font
 https://github.com/robhagemans/hoard-of-bitfonts
 > https://news.ycombinator.com/item?id=27773601

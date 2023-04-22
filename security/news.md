@@ -1,3 +1,15 @@
+https://www.bleepingcomputer.com/news/security/vmware-fixes-vrealize-bug-that-let-attackers-run-code-as-root/
+
+https://www.bleepingcomputer.com/news/security/fortra-shares-findings-on-goanywhere-mft-zero-day-attacks/
+
+https://www.usenix.org/conference/usenixsecurity23/presentation/vasquez
+> https://www.reddit.com/r/netsec/comments/12us6v9/the_most_dangerous_codec_in_the_world_finding_and/
+
+https://healeycodes.com/sandboxing-javascript-code
+> https://news.ycombinator.com/item?id=35633934
+
+https://hackaday.com/2023/04/17/puf-away-for-hardware-fingerprinting/
+
 https://blog.wesleyac.com/posts/why-not-javascript-cdn
 
 https://gitlab.ow2.org/lemonldap-ng/lemonldap-ng/-/releases/v2.16.1

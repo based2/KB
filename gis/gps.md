@@ -56,3 +56,6 @@ https://www.gpsrchive.com/Shared/Satellites/GPS%20vs%20GLONASS%20vs%20Galileo.ht
 
 https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/
 > https://news.ycombinator.com/item?id=35550339
+
+https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html
+> https://news.ycombinator.com/item?id=35643705

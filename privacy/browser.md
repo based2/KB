@@ -17,6 +17,8 @@ https://mcaptcha.org/ AGPL, rust
 https://github.com/wenlng/go-captcha
   
 # News
+https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/
+
 https://consentomatic.au.dk/
 > https://news.ycombinator.com/item?id=35562230
 

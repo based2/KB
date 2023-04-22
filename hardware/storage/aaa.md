@@ -12,6 +12,8 @@ https://garagehq.deuxfleurs.fr/
 
 https://github.com/seaweedfs/seaweedfs
 
+https://github.com/yandex-cloud/geesefs non-fuse
+
 ## S3
 https://juicefs.com/en/ .cn
 > https://news.ycombinator.com/item?id=34706227
@@ -41,6 +43,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://github.com/AnalogJ/scrutiny
+
 http://www.benedikt-stockebrand.de/rdist-intro_en.html 2012
 > https://news.ycombinator.com/item?id=35552605
 

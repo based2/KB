@@ -16,3 +16,6 @@ https://github.com/maxmunzel/kvass
 
 https://dinesh.wiki/posts/build-your-own-persistent-kv-store/
 > https://news.ycombinator.com/item?id=34793714
+
+https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/
+> https://news.ycombinator.com/item?id=35634673

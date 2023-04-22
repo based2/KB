@@ -67,6 +67,12 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=35649062
+
+https://github.com/lugenx/ecohabit
+
+https://www.copernicus.eu/en/news/news/observer-european-state-climate-report-providing-detailed-data-europes-changing-climate
+
 https://www.sailcargo.inc/
 > https://news.ycombinator.com/item?id=35505647
 

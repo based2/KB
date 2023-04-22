@@ -327,6 +327,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://dl.acm.org/doi/10.1145/3579990.3580020 Looplets: A Language for Structure Coiteration
+> https://news.ycombinator.com/item?id=35658319
+
 https://ossinsight.io/collections/programming-language/
 > https://news.ycombinator.com/item?id=35550611
 

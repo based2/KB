@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://lost-at-sql.therobinlord.com/
+> https://news.ycombinator.com/item?id=35665142
+
 https://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new
 > https://news.ycombinator.com/item?id=35562430
 

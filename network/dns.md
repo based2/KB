@@ -57,6 +57,9 @@ https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 > https://news.ycombinator.com/item?id=34177331
 
 # Incident
+https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/
+> https://news.ycombinator.com/item?id=35635538
+
 https://www.bleepingcomputer.com/news/security/godaddy-hackers-stole-source-code-installed-malware-in-multi-year-breach/
 > https://news.ycombinator.com/item?id=34838251
 
@@ -72,6 +75,10 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://github.com/veggiedefender/browsertunnel
+
+https://news.ycombinator.com/item?id=35638764
+
 https://old.reddit.com/r/webdev/comments/124pf8n/confirmed_namecheap_is_holding_onto_domains/
 > https://news.ycombinator.com/item?id=35344122
 

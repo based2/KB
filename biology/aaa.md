@@ -42,6 +42,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://tderflinger.com/en/companies-producing-biopolymers-for-packaging
+> https://news.ycombinator.com/item?id=35644282
+
 https://www.quantamagazine.org/primitive-asgard-cells-show-life-on-the-brink-of-complexity-20230411/
 > https://news.ycombinator.com/item?id=35537248
 

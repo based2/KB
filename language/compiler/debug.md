@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://blog.trailofbits.com/2023/04/18/a-winters-tale-improving-types-and-messages-in-gdbs-python-api/
+
 https://getsentry.github.io/symbolicator/
 > https://news.ycombinator.com/item?id=35438171
 

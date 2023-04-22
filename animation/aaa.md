@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.babylonjs.com/
+> https://news.ycombinator.com/item?id=35645857
+
 https://github.com/nomic-ai/deepscatter
 > https://news.ycombinator.com/item?id=35511139
 

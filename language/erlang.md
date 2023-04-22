@@ -156,6 +156,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://www.erlang.org/blog/more-optimizations/
+> https://news.ycombinator.com/item?id=35625656
+
 https://github.com/GetFirefly/firefly
 > https://news.ycombinator.com/item?id=35622622
 

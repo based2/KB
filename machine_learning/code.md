@@ -25,6 +25,8 @@ https://copilot.github.com/
 > https://openai.com/blog/openai-codex/
 > https://news.ycombinator.com/item?id=28131745
 > https://news.ycombinator.com/item?id=35516887
+> https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not
+> > https://news.ycombinator.com/item?id=35657982
 
     https://github.com/github/copilot-docs/tree/main/docs
     > https://news.ycombinator.com/item?id=29016506
@@ -52,6 +54,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://blog.google/technology/ai/code-with-bard/
+> https://news.ycombinator.com/item?id=35653648
+
 https://martinfowler.com/articles/2023-chatgpt-xu-hao.html
 > https://news.ycombinator.com/item?id=35612494
 

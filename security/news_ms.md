@@ -1,6 +1,16 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
 
 #
+https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-update-causes-windows-hardware-stack-protection-mess/
+
+https://hnd3884.github.io/posts/CVE-2023-29084-Command-injection-in-ManageEngine-ADManager-plus/
+
+https://www.cyberark.com/resources/threat-research-blog/breaking-docker-named-pipes-systematically-docker-desktop-privilege-escalation-part-2
+> https://www.reddit.com/r/netsec/comments/12t24m6/multiple_vulnerabilities_found_in_docker_desktop/
+
+https://www.synacktiv.com/publications/windows-secrets-extraction-a-summary
+> https://www.reddit.com/r/netsec/comments/12u3fst/windows_secrets_extraction/
+
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-28252
 
 https://asec.ahnlab.com/en/51343/

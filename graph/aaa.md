@@ -72,6 +72,9 @@ https://www.theregister.com/2023/02/12/software_freedom_conservancy_fights_agplv
 https://www.dylanpaulus.com/posts/postgres-is-a-graph-database
 > https://news.ycombinator.com/item?id=35386948
 
+https://docs.cozodb.org/en/latest/releases/v0.6.html
+> https://news.ycombinator.com/item?id=35641164
+
 ## Store
 https://github.com/quoll/asami clojure
 > https://news.ycombinator.com/item?id=33621939

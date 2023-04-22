@@ -137,6 +137,10 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://www.stefanjudis.com/today-i-learned/how-to-split-javascript-strings-with-intl-segmenter/
+
+https://news.ycombinator.com/item?id=35650699
+
 https://buttondown.email/hillelwayne/archive/tag-systems/
 > https://news.ycombinator.com/item?id=35597934
 

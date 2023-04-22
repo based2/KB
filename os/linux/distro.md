@@ -74,6 +74,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://canonical.com/blog/canonical-releases-ubuntu-23-04-lunar-lobster
+> https://news.ycombinator.com/item?id=35644787
+
 https://lists.debian.org/debian-devel-announce/2023/04/msg00000.html
 
 https://www.zdnet.com/article/pop-os-has-a-complicated-name-but-it-makes-using-linux-so-easy/

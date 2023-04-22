@@ -214,6 +214,18 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://medium.com/geekculture/useful-terraform-commands-in-a-flow-diagram-10ca1b13f73a
+
+https://github.com/jatalocks/terracove
+
+https://github.com/hatchet-dev/hatchet
+
+https://medium.com/scalr/opa-series-part-1-open-policy-agent-and-terraform-scaling-terraform-80fa11c0ded0
+
+https://medium.com/@ledevedeccorentin/terraform-iac-testing-localstack-terratest-9946dafe98b6
+
+https://betterprogramming.pub/iac-secrets-management-from-github-secrets-to-aws-secrets-manager-63bb4fdd5992
+
 https://github.com/future-architect/tftarget
 
 https://github.com/kreuzwerker/terraform-provider-docker

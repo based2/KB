@@ -57,6 +57,12 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://lemire.me/blog/2023/04/20/defining-interfaces-in-c-concepts-versus-inheritance/
+> https://news.ycombinator.com/item?id=35644635
+
+https://lemire.me/blog/2023/04/18/defining-interfaces-in-c-with-concepts-c20/
+> https://news.ycombinator.com/item?id=35624899
+
 https://news.ycombinator.com/item?id=35510899
 
 https://awesomekling.github.io/MutexProtected-A-C++-Pattern-for-Easier-Concurrency/
