@@ -19,6 +19,9 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://lwn.net/Articles/929851/ 
+> https://news.ycombinator.com/item?id=35681522
+
 https://lwn.net/Articles/926649/ User-space shadow stacks (maybe) for 6.4
 
 https://lwn.net/Articles/925371/ An EEVDF CPU scheduler for Linux

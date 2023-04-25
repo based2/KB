@@ -114,6 +114,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://www.corsix.org/content/converting-fp32-to-fp16
+> https://news.ycombinator.com/item?id=35671367
+
 https://arxiv.org/abs/2302.06675 Symbolic Discovery of Optimization Algorithms
 > https://news.ycombinator.com/item?id=34843163
 

@@ -33,6 +33,9 @@ https://github.blog/2023-03-28-introducing-self-service-sboms/
 
 https://omnibor.io/
 
+https://anonymoushash.vmbrasseur.com/2023/04/24/software-bill-of-materials-sbom
+> https://news.ycombinator.com/item?id=35690258
+
 #
 https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck
 

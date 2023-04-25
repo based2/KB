@@ -119,6 +119,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.phoronix.com/news/Intel-i219-LM-Linux-60p-Fix
+> https://news.ycombinator.com/item?id=35677261
+
 https://blog.dave.tf/post/jumbo-frames/
 > https://news.ycombinator.com/item?id=35647779
 

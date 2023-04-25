@@ -57,6 +57,8 @@ https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 > https://news.ycombinator.com/item?id=34177331
 
 # Incident
+https://www.bleepingcomputer.com/news/security/decoy-dog-malware-toolkit-found-after-analyzing-70-billion-dns-queries/
+
 https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/
 > https://news.ycombinator.com/item?id=35635538
 

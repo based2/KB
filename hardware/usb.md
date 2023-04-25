@@ -25,6 +25,8 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://github.com/cecio/USBvalve
+
 https://ounapuu.ee/posts/2023/02/15/shrinkflation/
 > https://news.ycombinator.com/item?id=34800830
 

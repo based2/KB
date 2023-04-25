@@ -120,6 +120,9 @@ https://arstechnica.com/science/2022/08/wood-ink-creates-flat-structures-that-se
 https://phys.org/news/2022-10-tree-insight-devastating-storms.html
 > https://news.ycombinator.com/item?id=33351881
 
+https://www.pnas.org/doi/10.1073/pnas.2218380120
+> https://news.ycombinator.com/item?id=35692844
+
 ## Root
 https://images.wur.nl/digital/collection/coll13/search
 > https://news.ycombinator.com/item?id=29672733

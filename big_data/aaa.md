@@ -283,7 +283,12 @@ https://github.com/approximatelabs/sketch
 > https://news.ycombinator.com/item?id=34400443
 > > https://slurm.schedmd.com/SC22/Slurm-and-or-vs-Kubernetes.pdf
 
+https://phasellm.com/researchgpt
+> https://news.ycombinator.com/item?id=35702407
+
 # News
+https://news.ycombinator.com/item?id=35661961
+
 https://evidence.dev/
 
 https://www.rilldata.com/blog/why-we-built-rill-with-duckdb

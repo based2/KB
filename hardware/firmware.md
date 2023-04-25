@@ -1,3 +1,5 @@
+https://arstechnica.com/gadgets/2023/04/some-ryzen-7000x3d-processors-are-burning-out-high-voltages-may-be-to-blame/
+
 https://news.ycombinator.com/item?id=35229045 Where can I find a primer on how computers boot?
 
 https://github.com/oreboot/oreboot rust

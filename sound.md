@@ -123,6 +123,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/
+> https://news.ycombinator.com/item?id=35700080
+
 https://peel.fm/
 
 https://github.com/pion/opus

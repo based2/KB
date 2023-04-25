@@ -27,6 +27,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://news.ycombinator.com/item?id=35703732
+
 https://apolloinrealtime.org/13/
 
 https://history.nasa.gov/alsj/TM-2005-213610.pdf

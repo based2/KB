@@ -138,6 +138,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 #
+https://vigilance.fr/vulnerabilite/OpenSSL-lecture-de-memoire-hors-plage-prevue-via-AES-XTS-41095
+
 https://vigilance.fr/vulnerabilite/Undertow-Man-in-the-Middle-via-TLS-Client-40911 jboss
 
 https://www.openssl.org/news/secadv/20230322.txt

@@ -169,6 +169,9 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.dataparty.xyz/blog/wtf-is-a-kdf/
+> https://news.ycombinator.com/item?id=35673066
+
 https://gist.github.com/atoponce/07d8d4c833873be2f68c34f9afc5a78a
 > https://news.ycombinator.com/item?id=35596502
 

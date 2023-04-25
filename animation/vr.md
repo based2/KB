@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=35692829
+
 https://www.katsnyderux.com/post/visual-attention-in-virtual-reality
 
 https://medium.com/predict/the-lidar-revolution-52e888a0ce41

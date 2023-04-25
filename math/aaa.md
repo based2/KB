@@ -141,6 +141,12 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://visualpde.com/
+> https://news.ycombinator.com/item?id=35677599
+
+https://jingnanshi.com/blog/groebner_basis.html
+> https://news.ycombinator.com/item?id=35703741
+
 https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication
 > https://news.ycombinator.com/item?id=35643978
 

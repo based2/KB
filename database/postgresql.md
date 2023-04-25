@@ -274,6 +274,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql
+> https://news.ycombinator.com/item?id=35684220
+
 https://www.postgresql.org/docs/current/ecpg.html
 > https://news.ycombinator.com/item?id=35598251
 

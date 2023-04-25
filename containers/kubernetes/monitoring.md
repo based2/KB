@@ -23,3 +23,5 @@ https://www.akitasoftware.com/blog-posts/launching-akitas-open-beta
 https://www.cncf.io/blog/2023/03/13/how-to-use-kubernetes-events-for-effective-alerting-and-monitoring/
 > https://github.com/resmoio/kubernetes-event-exporter
 
+https://www.reddit.com/r/programming/comments/12sridb/introducing_flora_newly_launched_ebpf/
+

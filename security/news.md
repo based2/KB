@@ -1,3 +1,29 @@
+https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf lte
+
+https://www.horizon3.ai/cve-2023-27524-insecure-default-configuration-in-apache-superset-leads-to-remote-code-execution/
+> https://www.reddit.com/r/netsec/comments/12yh4qi/cve202327524_insecure_default_configuration_in/
+
+https://www.bleepingcomputer.com/news/security/intel-cpus-vulnerable-to-new-transient-execution-side-channel-attack/
+
+https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-zero-day-exploit-chain-used-at-pwn2own/
+
+https://arstechnica.com/gadgets/2023/04/zero-trust-for-zoom-calls-chromeos-getting-universal-microphone-camera-toggles/
+
+https://arstechnica.com/information-technology/2023/04/exploit-released-for-9-8-severity-papercut-flaw-already-under-attack/
+
+https://matradomski.com/posts/local_license_key_verification_theory/
+> https://news.ycombinator.com/item?id=35691459
+
+https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise
+
+https://github.com/spwpun/ntp-4.2.8p15-cves
+> https://github.com/spwpun/ntp-4.2.8p15-cves/issues/1
+
+https://www.reddit.com/r/france/comments/12wi48w/sms_frauduleux_et_imsicatchers_les_dessous_dune/
+> https://www.eff.org/fr/deeplinks/2020/06/your-phone-vulnerable-because-2g-it-doesnt-have-be
+
+https://krebsonsecurity.com/2023/04/3cx-breach-was-a-double-supply-chain-compromise/
+
 https://www.bleepingcomputer.com/news/security/vmware-fixes-vrealize-bug-that-let-attackers-run-code-as-root/
 
 https://www.bleepingcomputer.com/news/security/fortra-shares-findings-on-goanywhere-mft-zero-day-attacks/

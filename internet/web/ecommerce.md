@@ -5,6 +5,10 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://news.ycombinator.com/item?id=35697560
+
+https://news.ycombinator.com/item?id=35696041
+
 https://www.alexcharlton.co/projects/booking-com-de-stresser
 > https://news.ycombinator.com/item?id=35590734
 

@@ -94,6 +94,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://github.com/elkowar/eww
+> https://news.ycombinator.com/item?id=35700963
+
+https://itvision.altervista.org/why.linux.is.not.ready.for.the.desktop.current.html
+
 https://nicolasfella.de/posts/softwareplatform-month-2/
 
 https://www.winehq.org/announce/8.5

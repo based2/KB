@@ -328,6 +328,28 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset
+> https://news.ycombinator.com/item?id=35667764
+
+https://arxiv.org/abs/2304.11062
+> https://news.ycombinator.com/item?id=35682424
+
+https://cloud.google.com/blog/transform/can-generative-ai-help-humans-understand-animals-earth-species-project-conservation?hl=en
+> https://news.ycombinator.com/item?id=3
+
+https://news.ycombinator.com/item?id=35694553
+
+https://arxiv.org/abs/2304.12210
+> https://news.ycombinator.com/item?id=35702490
+
+https://arxiv.org/abs/2301.10743
+> https://news.ycombinator.com/item?id=35703367
+
+https://www.parand.com/a-completely-non-technical-explanation-of-ai.html
+> https://news.ycombinator.com/item?id=35701572
+
+https://www.wired.com/story/stack-overflow-will-charge-ai-giants-for-training-data/
+
 https://github.com/griptape-ai/griptape
 > https://news.ycombinator.com/item?id=35655777
 

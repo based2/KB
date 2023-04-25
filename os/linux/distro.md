@@ -74,6 +74,10 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=35691597
+
+https://forum.manjaro.org/t/manjaro-22-1-talos-released/139155
+
 https://canonical.com/blog/canonical-releases-ubuntu-23-04-lunar-lobster
 > https://news.ycombinator.com/item?id=35644787
 

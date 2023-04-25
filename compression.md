@@ -40,6 +40,8 @@ https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://github.com/richgel999/sserangecoding
+
 https://news.ycombinator.com/item?id=35446847
 
 https://richg42.blogspot.com/2023/04/a-dead-simple-lossless-or-lossy-lz4.html

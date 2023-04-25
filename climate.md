@@ -67,6 +67,11 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=35667796
+
+https://www.xprize.org/prizes/wildfire
+> https://news.ycombinator.com/item?id=35657181
+
 https://news.ycombinator.com/item?id=35649062
 
 https://github.com/lugenx/ecohabit

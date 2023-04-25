@@ -1,6 +1,9 @@
 # llama Facebook
 https://github.com/tatsu-lab/stanford_alpaca
 
+https://github.com/minosvasilias/godot-dodo
+> https://news.ycombinator.com/item?id=35681357
+
 https://www.together.xyz/blog/redpajama
 > https://news.ycombinator.com/item?id=35600860
 

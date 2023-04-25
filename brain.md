@@ -40,6 +40,8 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://spectrum.ieee.org/organoid-intelligence-computing-on-brain
+
 https://www.nature.com/articles/d41586-023-01391-5
 > https://news.ycombinator.com/item?id=35654783
 

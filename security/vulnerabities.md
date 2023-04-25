@@ -87,6 +87,8 @@ Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirect
 Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues
 
 ## 2022
+https://en.wikipedia.org/wiki/Retbleed x86-64 arm
+
 CVE-2022-25667 ICMP Redirect attack
 
 PQC Rainbow signature scheme
@@ -152,6 +154,8 @@ https://en.wikipedia.org/wiki/Microarchitectural_Data_Sampling Intel hyper-threa
 https://en.wikipedia.org/wiki/Universal_Plug_and_Play#Callback_Vulnerability
 
 ## 2018
+https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)
+
 https://en.wikipedia.org/wiki/Foreshadow speculative execution on intel proc
 
 https://en.wikipedia.org/wiki/SigSpoof GPG

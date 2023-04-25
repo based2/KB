@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.qmcpack.org/node/5
+
 https://www.lazard.com/media/nltb551p/lazards-lcoeplus-april-2023.pdf
 > https://news.ycombinator.com/item?id=35587963
 

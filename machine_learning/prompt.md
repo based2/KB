@@ -18,3 +18,6 @@ https://promptperfect.jina.ai/
 
 https://musings.yasyf.com/compressgpt-decrease-token-usage-by-70/
 > https://news.ycombinator.com/item?id=35661452
+
+https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting
+> https://news.ycombinator.com/item?id=35668387

@@ -17,6 +17,9 @@ https://mcaptcha.org/ AGPL, rust
 https://github.com/wenlng/go-captcha
   
 # News
+https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy
+> https://news.ycombinator.com/item?id=35703789
+
 https://www.ghacks.net/2023/04/17/firefox-may-interact-with-cookie-prompts-automatically-soon/
 
 https://consentomatic.au.dk/

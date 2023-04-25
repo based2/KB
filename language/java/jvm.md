@@ -49,6 +49,9 @@ https://tschatzl.github.io/2022/09/16/jdk19-g1-parallel-gc-changes.html
 https://tschatzl.github.io/2023/03/14/jdk20-g1-parallel-gc-changes.html
 > https://news.ycombinator.com/item?id=35196721
 
+https://inside.java/2023/04/23/levelup-zgc/
+> https://news.ycombinator.com/item?id=35681725
+
 ## ZGC
 https://www.youtube.com/watch?v=88E86quLmQA&t=1750s ZGC: The Next Generation Low-Latency Garbage Collector
 

@@ -33,6 +33,8 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://arstechnica.com/cars/2023/03/united-airlines-reveals-first-evtol-passenger-route-starting-in-2025/
+
 https://www.lofiatc.com/?icao=kmth
 > https://news.ycombinator.com/item?id=35583228
 

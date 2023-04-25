@@ -71,6 +71,8 @@ https://www.zdnet.com/article/java-finally-goes-all-in-on-open-source-with-the-r
 
 https://arjan-tijms.omnifaces.org/2021/03/the-cn4j-profile-as-common-ee-and-mp.html
 
+https://newsroom.eclipse.org/eclipse-newsletter/2023/march/jakarta-ee-11-first-big-leap-jakarta
+
 # Validation
 https://github.com/mvallim/java-fluent-validator
 
@@ -271,6 +273,8 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://www.reddit.com/r/java/comments/12soujh/why_i_love_enums_and_think_they_should_be_used/
+
 https://openjdk.org/jeps/8305968 JEP draft: Integrity and Strong Encapsulation
 > https://news.ycombinator.com/item?id=35631072
 

@@ -57,6 +57,10 @@ https://musing.io/
 
 # Language
 duolingo
+> https://news.ycombinator.com/item?id=35662260
+
+https://www.languagetransfer.org/
+
 https://languagelearningwithnetflix.com/
 > https://news.ycombinator.com/item?id=27420959
 

@@ -125,6 +125,9 @@ https://github.com/marqo-ai/marqo/blob/mainline/examples/SpeechProcessing/articl
 https://huggingface.co/spaces/sanchit-gandhi/whisper-jax
 > https://news.ycombinator.com/item?id=35663772
 
+https://github.com/modal-labs/quillman
+> https://news.ycombinator.com/item?id=35701534
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

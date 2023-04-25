@@ -68,6 +68,11 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://avi.im/blag/2023/hekaton-paper-typo/
+
+https://avi.im/blag/2023/internet-mvcc/
+> https://news.ycombinator.com/item?id=35701790
+
 https://static.sched.com/hosted_files/kccnceu2023/3d/KubeCon-2023-Scaling-Databases-Activision.pdf k8s mysql vitess
 > https://news.ycombinator.com/item?id=35655910
 > https://vitess.io/

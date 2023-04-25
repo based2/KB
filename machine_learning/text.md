@@ -13,6 +13,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://github.com/1rgs/clarity-reader
+> https://news.ycombinator.com/item?id=35702757
+
 https://github.com/nestordemeure/question_extractor
 > https://news.ycombinator.com/item?id=35635091
 

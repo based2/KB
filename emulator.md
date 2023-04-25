@@ -3,6 +3,9 @@ https://github.com/ptitSeb/box64 Box64 - Linux Userspace x86_64 Emulator with a 
 https://www.pcjs.org/documents/manuals/intel/80386/
 > https://news.ycombinator.com/item?id=35325038
 
+https://www.qemu.org/2023/04/20/qemu-8-0-0/
+> https://news.ycombinator.com/item?id=35688320
+
 https://yuzu-emu.org/entry/yuzu-progress-report-mar-2023/ Nintendo Switch Emulator
 > https://news.ycombinator.com/item?id=35522230
 

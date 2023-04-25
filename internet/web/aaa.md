@@ -29,6 +29,9 @@ https://johnnyreilly.com/2023/01/15/how-i-ruined-my-seo
 
 https://news.ycombinator.com/item?id=35576406
 
+https://dariusz.wieckiewicz.org/en/bing-jail/
+> https://news.ycombinator.com/item?id=35677086
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

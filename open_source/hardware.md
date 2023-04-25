@@ -136,6 +136,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/
+> https://news.ycombinator.com/item?id=35685604
+
 https://2023.oshwa.org/speaker-schedule/
 
 https://mrchromebox.tech/

@@ -99,6 +99,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.nitrokey.com/news/2023/smartphones-popular-qualcomm-chip-secretly-share-private-information-us-chip-maker
+> https://news.ycombinator.com/item?id=35698547
+
 https://wideangle.co/blog/dark-patterns-examples-of-manipulative-consent-requests
 > https://news.ycombinator.com/item?id=35653719
 

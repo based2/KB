@@ -54,6 +54,12 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://www.theregister.com/2023/04/21/chatgpt_insecure_code/
+> https://news.ycombinator.com/item?id=35680600
+
+https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/
+> https://news.ycombinator.com/item?id=35683265
+
 https://blog.google/technology/ai/code-with-bard/
 > https://news.ycombinator.com/item?id=35653648
 

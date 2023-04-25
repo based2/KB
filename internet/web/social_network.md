@@ -36,6 +36,9 @@ https://news.ycombinator.com/item?id=34037462
 
 https://news.ycombinator.com/item?id=35460732
 
+https://wearefastflash.com/blog/hackernews
+> https://news.ycombinator.com/item?id=35676444
+
 # Slashdot
 # Reddit
 
@@ -76,6 +79,13 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://maxread.substack.com/p/the-ai-business-influencer-guys-must
+> https://news.ycombinator.com/item?id=35689381
+
+https://news.ycombinator.com/item?id=35701341
+
+https://www.npr.org/2023/04/21/1171236695/twitter-strips-state-affiliated-government-funded-labels-from-npr-rt-china
+
 https://core.telegram.org/bots/webapps
 > https://news.ycombinator.com/item?id=35662176
 

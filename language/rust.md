@@ -443,6 +443,11 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://rust-gcc.github.io/2023/04/24/gccrs-and-gcc13-release.html
+> https://news.ycombinator.com/item?id=35695383
+
+https://blog.rust-lang.org/2023/04/20/Rust-1.69.0.html
+
 https://www.catmonad.xyz/blog/nibbles_02.html
 > https://news.ycombinator.com/item?id=35588203
 

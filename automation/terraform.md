@@ -214,6 +214,8 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 https://github.com/jrhouston/tfk8s
 
 # News
+https://alexwlchan.net/2023/terraform-template-docs/
+
 https://medium.com/geekculture/useful-terraform-commands-in-a-flow-diagram-10ca1b13f73a
 
 https://github.com/jatalocks/terracove

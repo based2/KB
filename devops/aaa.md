@@ -316,6 +316,8 @@ https://travis-ci.community/t/security-bulletin/12081
 SourceForge nobody Apache HTTPD configuration
 
 # New versions
+https://about.gitlab.com/releases/2023/04/22/gitlab-15-11-released/
+
 https://about.gitlab.com/releases/2023/03/22/gitlab-15-10-released/
 
 https://about.gitlab.com/releases/2023/02/22/gitlab-15-9-released/
@@ -343,6 +345,15 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://glorifiedgluer.com/blog/2023/developing-with-nix-and-make/
+> https://news.ycombinator.com/item?id=35688878
+
+https://featurevisor.com/
+> https://news.ycombinator.com/item?id=35691803
+
+https://mattsanetra.uk/blog/graph-build-proposal/
+> https://news.ycombinator.com/item?id=35676825
+
 https://wezfurlong.org/blog/2013/Jun/watchman/
 > https://facebook.github.io/watchman/
 > https://github.com/facebook/watchman

@@ -274,6 +274,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/
+
 https://alanastorm.com/review-of-james-coglands-building-git/
 > https://news.ycombinator.com/item?id=35626698
 

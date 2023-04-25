@@ -103,6 +103,17 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://github.com/ow/samsung-frame-art
+
+https://www.anandtech.com/show/18823/sk-hynix-now-sampling-24gb-hbm3-stacks-prepping-for-mass-production
+
+https://github.com/DavidS95/Smokeless_UMAF
+> https://news.ycombinator.com/item?id=35694810
+
+https://www.augmental.tech/ MouthPad
+> https://news.ycombinator.com/item?id=35684828
+> > https://support.apple.com/guide/mac-help/mchlb2d4782b/mac
+
 https://news.ycombinator.com/item?id=35479265
 
 https://news.ycombinator.com/item?id=35432759

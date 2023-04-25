@@ -76,3 +76,5 @@ https://mirotalk.hashnode.dev/how-to-test-whether-a-stunturn-server-is-working-p
 https://fosdem.org/2023/schedule/event/om_webrtc/
 
 https://github.com/joeymalvinni/webrtc-ip
+
+https://blogs.igalia.com/llepage/webrtc-gstreamer-and-html5-part-1/

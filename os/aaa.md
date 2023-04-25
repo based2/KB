@@ -21,6 +21,12 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://github.com/inferno-os/inferno-os
+> https://news.ycombinator.com/item?id=35682918
+
+https://www.haiku-os.org/blog/waddlesplash/2023-04-24_condition_variables/
+> https://news.ycombinator.com/item?id=35690656
+
 https://john-millikin.com/running-sunos-4-in-qemu-sparc
 > https://news.ycombinator.com/item?id=35549517
 

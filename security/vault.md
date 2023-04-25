@@ -121,6 +121,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://blog.1password.com/privacy-preserving-app-telemetry/
+> https://news.ycombinator.com/item?id=35691383
+
 https://twitter.com/KeePassXC/status/1649417549510062081
 > https://news.ycombinator.com/item?id=35655639
 

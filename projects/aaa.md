@@ -161,6 +161,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://www.benkuhn.net/newmgr/
+> https://news.ycombinator.com/item?id=35681322
+
 https://muldoon.cloud/programming/2020/04/17/programming-rules-thumb.html
 
 https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html

@@ -289,6 +289,12 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://github.com/mitsuhiko/rye
+> https://news.ycombinator.com/item?id=35678238
+
+https://peps.python.org/pep-0713/
+> https://news.ycombinator.com/item?id=35702434
+
 https://astral.sh/
 > https://news.ycombinator.com/item?id=35617198
 
