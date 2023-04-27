@@ -204,6 +204,9 @@ https://dvaluch.web.cern.ch/hh3/
 https://oimo.io/works/clock/
 > https://news.ycombinator.com/item?id=35620291
 
+https://www.smithsonianmag.com/history/the-time-thief-who-stole-106-rare-clocks-in-a-daring-heist-180981979/
+> https://news.ycombinator.com/item?id=35690631
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

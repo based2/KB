@@ -25,6 +25,9 @@ https://www.usenix.org/conference/nsdi21/presentation/abhashkumar
 > https://news.ycombinator.com/item?id=29588378
 
 # 5G
+https://circleid.com/posts/20230127-the-disappointment-of-5g
+> https://news.ycombinator.com/item?id=35726052
+
 > https://therecord.media/new-5g-protocol-vulnerabilities-allow-location-tracking/
 > > https://news.ycombinator.com/item?id=26610705
 
@@ -147,6 +150,14 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.businessinsider.com/humane-ai-device-projects-phone-call-hand-former-apple-designer-2023-4?r=US&IR=T
+
+https://www.reuters.com/technology/space/spacex-rogers-connect-mobiles-phones-satellites-remote-canadian-areas-2023-04-26/
+> https://news.ycombinator.com/item?id=35716872
+
+https://www.theregister.com/2023/04/27/ntt_network_sharing_blockchain/
+> https://news.ycombinator.com/item?id=35724912
+
 https://www.theverge.com/2023/4/19/23689628/google-fi-wireless-new-name-rebrand-smartwatch-connectivity-support
 
 https://www.fcc.gov/broadbandlabels

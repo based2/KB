@@ -39,6 +39,9 @@ https://en.wikipedia.org/wiki/Ubuntu
 
 https://ubuntu.com/blog/ubuntu-pro-beta-release
 
+https://ubuntu.com/download/server/arm
+> https://news.ycombinator.com/item?id=35731949
+
 # Oracle Oracle
 
 # Gentoo

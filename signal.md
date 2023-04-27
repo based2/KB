@@ -29,6 +29,12 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html
+> https://news.ycombinator.com/item?id=35699311
+
+https://incompliancemag.com/article/scif-and-radio-frequency-secured-facility-design/
+> https://news.ycombinator.com/item?id=35729283
+
 https://pyrf.readthedocs.io/en/latest/
 > https://news.ycombinator.com/item?id=35694652
 

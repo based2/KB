@@ -35,6 +35,12 @@ https://medium.com/@jewbixcube/paypal-allows-bypassing-two-factor-auth-with-a-bu
 https://cube0x0.github.io/Relaying-YubiKeys/
 
 # News
+https://www.bleepingcomputer.com/news/google/google-will-add-end-to-end-encryption-to-google-authenticator/
+> https://news.ycombinator.com/item?id=35720460
+
+https://defcon.social/@mysk/110262313275622023
+> https://news.ycombinator.com/item?id=35708869
+
 https://www.bleepingcomputer.com/news/google/google-authenticator-now-backs-up-your-2fa-codes-to-the-cloud/
 
 https://news.ycombinator.com/item?id=35625065

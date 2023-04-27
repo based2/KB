@@ -149,6 +149,8 @@ https://phoenixframework.org/blog/phoenix-1.7-final-released
 > https://fly.io/phoenix-files/phoenix-dev-blog-streams/
 > > https://news.ycombinator.com/item?id=35020551
 
+https://fly.io/phoenix-files/phoenix-dev-blog-sounds-like-a-bug/
+
 # Gleam
 https://gleam.run/
 

@@ -64,6 +64,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+http://redump.org/
+> https://news.ycombinator.com/item?id=35698354
+
 https://www.sbstatesman.com/2023/04/04/if-we-lose-the-internet-archive-were-screwed/
 > https://news.ycombinator.com/item?id=35468753
 

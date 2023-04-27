@@ -32,6 +32,11 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.theverge.com/2023/4/26/23699365/spacex-starship-damage-launch-pad-debris
+> https://news.ycombinator.com/item?id=35729163
+
+https://gizmodo.com/nasa-power-hack-extends-voyager-2-mission-science-1850378890
+
 https://arxiv.org/abs/2304.09215
 > https://news.ycombinator.com/item?id=35671526
 

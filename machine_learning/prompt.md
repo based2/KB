@@ -21,3 +21,6 @@ https://musings.yasyf.com/compressgpt-decrease-token-usage-by-70/
 
 https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting
 > https://news.ycombinator.com/item?id=35668387
+
+https://austinhenley.com/blog/futureofprogramming2023.html
+> https://news.ycombinator.com/item?id=35731539

@@ -106,6 +106,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://github.com/bradleyboy/tuql
+> https://news.ycombinator.com/item?id=35699017
+
 https://phiresky.github.io/blog/2020/sqlite-performance-tuning/
 > https://news.ycombinator.com/item?id=35547819
 

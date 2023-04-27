@@ -149,6 +149,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-22h2-is-the-final-version-of-windows-10/
+> https://news.ycombinator.com/item?id=35732376
+
 https://github.com/vexx32/PSKoans
 > https://news.ycombinator.com/item?id=35588451
 

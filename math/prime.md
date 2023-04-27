@@ -1,6 +1,9 @@
 https://www.nature.com/articles/d41586-022-03689-2
 > https://news.ycombinator.com/item?id=33569029
 
+https://www.3blue1brown.com/lessons/prime-spirals
+> https://news.ycombinator.com/item?id=35708359
+
 https://news.ycombinator.com/item?id=33192074
 
 https://www.quantamagazine.org/mathematicians-find-a-new-class-of-digitally-delicate-primes-20210330/

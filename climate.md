@@ -67,6 +67,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://eco.kde.org/blog/2023-04-26-sustainable-by-design/
+> https://news.ycombinator.com/item?id=35725706
+
 https://news.ycombinator.com/item?id=35667796
 
 https://www.xprize.org/prizes/wildfire

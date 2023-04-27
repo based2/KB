@@ -30,6 +30,8 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://news.ycombinator.com/item?id=35729104 mic
+
 https://crates.io/crates/fundsp/0.13.0
 > 
 

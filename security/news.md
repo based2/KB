@@ -1,3 +1,6 @@
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure
+> https://news.ycombinator.com/item?id=35696787
+
 https://syssec.kaist.ac.kr/pub/2023/wisec2023_tuan.pdf lte
 
 https://www.horizon3.ai/cve-2023-27524-insecure-default-configuration-in-apache-superset-leads-to-remote-code-execution/

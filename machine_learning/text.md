@@ -13,6 +13,15 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://www.superusapp.com/chatgpt2d/
+> https://news.ycombinator.com/item?id=35709088
+
+https://github.com/deepdoctection/deepdoctection
+> https://news.ycombinator.com/item?id=35719937
+
+https://labs.kagi.com/fastgpt
+> https://news.ycombinator.com/item?id=35719482
+
 https://github.com/1rgs/clarity-reader
 > https://news.ycombinator.com/item?id=35702757
 

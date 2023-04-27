@@ -129,6 +129,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://github.com/moul/quicssh quic
+> https://news.ycombinator.com/item?id=35729260
+
 https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHVersusSSH
 > https://news.ycombinator.com/item?id=35587981
 

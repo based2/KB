@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/
+> https://news.ycombinator.com/item?id=35705063
+
 https://news.ycombinator.com/item?id=35646315
 
 https://richg42.blogspot.com/2023/04/faster-lz-is-not-answer-to-150-250-gb.html

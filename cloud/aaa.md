@@ -133,6 +133,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://vigilance.fr/vulnerabilite/cloud-init-obtention-d-information-via-les-journaux-41139
+
 https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r
 
 https://old.reddit.com/r/selfhosted/comments/12fg9d9/oracle_free_tier_reclamation/

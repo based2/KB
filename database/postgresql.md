@@ -274,6 +274,9 @@ https://nhost.io/blog/individual-postgres-instances
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
 # News
+https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/
+> https://news.ycombinator.com/item?id=35716963
+
 https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql
 > https://news.ycombinator.com/item?id=35684220
 

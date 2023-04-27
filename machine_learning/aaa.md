@@ -328,6 +328,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.moderndescartes.com/essays/why_brain/
+> https://news.ycombinator.com/item?id=35716216
+
+https://e2eml.school/transformers.html
+> https://news.ycombinator.com/item?id=35697627
+
 https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset
 > https://news.ycombinator.com/item?id=35667764
 

@@ -13,6 +13,11 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://github.com/aappleby/PicoRVD RISC-V based CH32V003
+> https://news.ycombinator.com/item?id=35696547
+
+https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/
+
 https://blog.trailofbits.com/2023/04/18/a-winters-tale-improving-types-and-messages-in-gdbs-python-api/
 
 https://getsentry.github.io/symbolicator/

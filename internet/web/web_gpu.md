@@ -29,3 +29,6 @@ https://developer.chrome.com/blog/webgpu-release/
 
 https://webgpufundamentals.org/
 > https://news.ycombinator.com/item?id=35579334
+
+https://eliemichel.github.io/LearnWebGPU/
+> https://news.ycombinator.com/item?id=35698587

@@ -52,6 +52,9 @@ https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-nex
 > https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
+https://spring.io/blog/2023/04/22/spring-boot-3-1-0-rc1-available-now
+> https://www.reddit.com/r/java/comments/12vd13k/spring_boot_31_rc1_is_here_with_support_for/
+
 https://github.com/krud-dev/boost
 > https://boost.krud.dev/getting-started/boost-101
 

@@ -51,6 +51,8 @@ https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup
 https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alternative-to-single-use-plastics
 > https://news.ycombinator.com/item?id=27614580
 
+https://news.ycombinator.com/item?id=35729558
+
 # Laptop
 https://halestrom.net/darksleep/blog/047_x131e_repair/
 > https://news.ycombinator.com/item?id=28254571

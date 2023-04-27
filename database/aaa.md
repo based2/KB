@@ -68,6 +68,11 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.xtdb.com/v2
+
+https://blog.datomic.com/2023/04/datomic-is-free.html clojure
+> https://news.ycombinator.com/item?id=35727967
+
 https://avi.im/blag/2023/hekaton-paper-typo/
 
 https://avi.im/blag/2023/internet-mvcc/
