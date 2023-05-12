@@ -46,6 +46,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://alpinelinux.org/posts/Alpine-3.18.0-released.html
+
 https://www.theregister.com/2023/02/27/bitnami_arm_support/
 
 https://www.flatcar.org/

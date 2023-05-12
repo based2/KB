@@ -59,6 +59,9 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://skyandtelescope.org/astronomy-news/the-james-webb-space-telescope-reveals-fomalhauts-disk-in-unprecedented-detail/
+> https://news.ycombinator.com/item?id=35874704
+
 https://news.ycombinator.com/item?id=35450978
 
 https://galaxym.ovh/

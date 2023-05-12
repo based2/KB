@@ -14,6 +14,8 @@ https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messa
 > https://news.ycombinator.com/item?id=27587911
 
 # News
+https://news.ycombinator.com/item?id=35870692
+
 https://gotify.net/
 
 https://news.ycombinator.com/item?id=33171996 rcs

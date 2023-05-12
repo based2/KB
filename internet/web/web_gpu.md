@@ -32,3 +32,6 @@ https://webgpufundamentals.org/
 
 https://eliemichel.github.io/LearnWebGPU/
 > https://news.ycombinator.com/item?id=35698587
+
+https://compute.toys/
+> https://news.ycombinator.com/item?id=35883891

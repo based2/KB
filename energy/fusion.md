@@ -2,6 +2,9 @@ https://interestingengineering.com/world-first-tokamak-exhaust-system-paves-way-
 
 https://www.iter.org
 
+
+https://news.ycombinator.com/item?id=35887537
+
 https://www.ipp.mpg.de/5322229/01_23
 
 https://www.bbc.com/news/science-environment-57512229

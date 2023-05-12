@@ -47,6 +47,11 @@ https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
 #
+https://news.ycombinator.com/item?id=35876147
+
+https://openai.com/research/language-models-can-explain-neurons-in-language-models
+> https://news.ycombinator.com/item?id=35877402
+
 https://stability.ai/blog/stability-ai-launches-the-first-of-its-stablelm-suite-of-language-models
 > https://news.ycombinator.com/item?id=35629127
 

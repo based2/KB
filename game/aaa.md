@@ -20,6 +20,11 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://gandalf.lakera.ai/
+
+https://moderatormayhem.engine.is/
+> https://news.ycombinator.com/item?id=35904734
+
 https://infinityarcade.com/news
 > https://news.ycombinator.com/item?id=35644504
 

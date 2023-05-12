@@ -75,5 +75,8 @@ https://github.com/kd2org/karadav/
 https://darke.handmade.network/ Version control and file synchronization system
 > https://news.ycombinator.com/item?id=35677236
 
+https://syncthing.net/
+> https://news.ycombinator.com/item?id=35879039
+
 
 

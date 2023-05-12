@@ -129,6 +129,9 @@ https://www.maxwellrules.com/misc/nvim_jupyter.html
 
 https://rachitsingh.com/collaborating-jupyter/
 
+https://github.com/ipyflow/ipyflow
+> https://news.ycombinator.com/item?id=35885066
+
 ##
 http://zeppelin.apache.org/
 
@@ -287,6 +290,8 @@ https://phasellm.com/researchgpt
 > https://news.ycombinator.com/item?id=35702407
 
 # News
+https://news.ycombinator.com/item?id=35864661
+
 https://news.ycombinator.com/item?id=35661961
 
 https://evidence.dev/

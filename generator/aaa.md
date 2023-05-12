@@ -22,3 +22,6 @@ https://futhark-lang.org/blog/2022-12-22-literate-audio.html
 > https://news.ycombinator.com/item?id=34092401
 
 https://www.trickster.dev/post/understanding-python-generators-for-scraping-and-automation/
+
+https://www.saaspegasus.com/about/how-pegasus-works/
+> https://news.ycombinator.com/item?id=35887766

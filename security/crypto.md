@@ -114,6 +114,8 @@ https://github.com/zama-ai/tfhe-rs
 https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a-primer/
 > https://news.ycombinator.com/item?id=34783447
 
+https://blog.cryptographyengineering.com/2023/05/11/on-ashton-kutcher-and-secure-multi-party-computation/
+
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 

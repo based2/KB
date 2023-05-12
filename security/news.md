@@ -1,3 +1,27 @@
+https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/
+> https://news.ycombinator.com/item?id=35843566
+> https://news.ycombinator.com/item?id=35843566&p=2
+> https://hardware.slashdot.org/story/22/10/09/2330258/intel-confirms-alder-lake-bios-source-code-leaked
+> https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0371/
+
+https://www.cedarpolicy.com/en
+> https://news.ycombinator.com/item?id=35890784
+
+https://crnkovic.dev/testing-converso/
+> https://news.ycombinator.com/item?id=35894831
+
+https://www.techdirt.com/2023/05/11/twitter-launches-not-actually-encrypted-encrypted-dms/
+
+https://news.ycombinator.com/item?id=35888509
+
+https://blog.pentesterlab.com/exploring-algorithm-confusion-attacks-on-jwt-exploiting-ecdsa-23f7ff83390f
+
+https://blog.talosintelligence.com/vuln-spotlight-ibm-aix-privilege-escalation/
+
+https://blog.scrt.ch/2023/05/01/solr-rce-from-exposed-administration-interface/
+
+https://github.com/official-stockfish/Stockfish/pull/4558
+
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IPv6OurPassiveExposure
 > https://news.ycombinator.com/item?id=35696787
 

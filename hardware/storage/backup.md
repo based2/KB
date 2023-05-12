@@ -117,6 +117,8 @@ https://b3n.org/automatic-ripping-machine/
 https://news.ycombinator.com/item?id=30577625
 
 #
+https://computerhistory.org/blog/a-backup-of-historical-proportions/
+
 https://github.com/divyenduz/backup-scheduler
 
 https://news.ycombinator.com/item?id=31012219 Ask HN: How to balance between delete compliance and backups

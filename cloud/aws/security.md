@@ -25,6 +25,10 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/ SecurityNotifications
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://www.reddit.com/r/aws/comments/13d6im9/an_aws_iam_wishlist/
+
+https://aws.amazon.com/about-aws/whats-new/2023/05/aws-management-console-private-access/
+
 https://github.com/aws-samples/service-control-policy-examples
 
 https://www.reddit.com/r/netsec/comments/12nsrz1/vulnerability_scanner_for_aws_customermanaged/

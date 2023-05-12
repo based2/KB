@@ -75,6 +75,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=35886235
+
 https://github.com/pldubouilh/spotify-gdpr-dump-analysis
 > https://news.ycombinator.com/item?id=35492137
 

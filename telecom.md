@@ -150,6 +150,11 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://sunbeamwireless.com/
+> https://news.ycombinator.com/item?id=35868552
+
+https://news.ycombinator.com/item?id=35901420
+
 https://www.businessinsider.com/humane-ai-device-projects-phone-call-hand-former-apple-designer-2023-4?r=US&IR=T
 
 https://www.reuters.com/technology/space/spacex-rogers-connect-mobiles-phones-satellites-remote-canadian-areas-2023-04-26/

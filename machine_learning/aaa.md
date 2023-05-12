@@ -328,6 +328,11 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://chat.lmsys.org/?leaderboard
+> https://news.ycombinator.com/item?id=35895605
+
+https://news.ycombinator.com/item?id=35901538
+
 https://www.moderndescartes.com/essays/why_brain/
 > https://news.ycombinator.com/item?id=35716216
 

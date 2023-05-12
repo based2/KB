@@ -273,6 +273,9 @@ https://nhost.io/blog/individual-postgres-instances
 
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
+# Incident
+https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-Row-Security-User-ID-Changes-41249
+
 # News
 https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/
 > https://news.ycombinator.com/item?id=35716963

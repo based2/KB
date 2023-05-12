@@ -3,6 +3,9 @@ https://github.com/queer/boxxy puts bad Linux applications in a box with only th
 > https://news.ycombinator.com/item?id=34730520
 
 # News
+https://seclists.org/oss-sec/2023/q2/133 CVE-2023-32233
+> https://news.ycombinator.com/item?id=35879660
+
 https://www.memorysafety.org/blog/sudo-and-su/
 > https://news.ycombinator.com/item?id=35714347
 

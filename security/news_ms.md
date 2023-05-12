@@ -1,6 +1,10 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
 
 #
+https://support.microsoft.com/en-us/topic/kb5025885-how-to-manage-the-windows-boot-manager-revocations-for-secure-boot-changes-associated-with-cve-2023-24932-41a975df-beb2-40c1-99a3-b3ff139f832d
+
+https://krebsonsecurity.com/2023/05/microsoft-patch-tuesday-may-2023-edition/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-update-causes-windows-hardware-stack-protection-mess/
 
 https://hnd3884.github.io/posts/CVE-2023-29084-Command-injection-in-ManageEngine-ADManager-plus/

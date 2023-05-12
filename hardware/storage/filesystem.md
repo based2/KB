@@ -48,6 +48,9 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://blog.koehntopp.info/2023/05/05/50-years-in-filesystems-1974.html
+> https://news.ycombinator.com/item?id=35884667
+
 https://www.fileside.app/blog/2023-03-17_windows-file-paths/
 > https://news.ycombinator.com/item?id=35654574
 

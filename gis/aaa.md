@@ -70,6 +70,9 @@ https://zenodo.org/record/7070952 Swiss Dwellings: A large dataset of apartment 
 
 https://worldstrat.github.io/
 
+https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles
+> https://news.ycombinator.com/item?id=35896176
+
 ## Space
 https://mars26.com/
 > https://news.ycombinator.com/item?id=26965583
@@ -218,6 +221,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://ashvardanian.com/posts/abusing-vector-search/
+> https://news.ycombinator.com/item?id=35887983
+
 https://news.ycombinator.com/item?id=35444450
 
 https://tomcritchlow.com/2023/04/03/blog-maps/

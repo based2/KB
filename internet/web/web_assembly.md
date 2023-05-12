@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/
+> https://news.ycombinator.com/item?id=35873552
+
 https://www.infoworld.com/article/3692456/hands-on-with-java-and-wasm.html
 
 https://wasmer.io/posts/announcing-wcgi

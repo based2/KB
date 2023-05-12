@@ -13,6 +13,22 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://news.ycombinator.com/item?id=35886288
+
+https://huggingface.co/blog/assisted-generation
+
+https://bard.google.com/?hl=en
+> https://news.ycombinator.com/item?id=35891154
+
+https://github.com/huggingface/chat-ui
+> https://news.ycombinator.com/item?id=35907564
+
+https://www.boringreport.org/
+> https://news.ycombinator.com/item?id=35905437
+
+https://www.anthropic.com/index/100k-context-windows
+> https://news.ycombinator.com/item?id=35904773
+
 https://www.superusapp.com/chatgpt2d/
 > https://news.ycombinator.com/item?id=35709088
 

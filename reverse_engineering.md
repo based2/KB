@@ -27,6 +27,11 @@ https://labs.p1sec.com/2023/01/09/releasing-hermes-dec-an-open-source-disassembl
 > https://github.com/P1sec/hermes-dec/
 
 #
+https://github.com/l4rz/reverse-engineering-dell-idrac-to-get-rid-of-gpu-throttling
+> https://news.ycombinator.com/item?id=35890554
+
+https://github.com/NationalSecurityAgency/ghidra/releases/tag/Ghidra_10.3_build
+
 https://tratt.net/laurie/blog/2023/displaying_my_washing_machines_remaining_time_with_curl_jq_pizauth.html miele
 > https://news.ycombinator.com/item?id=35536202
 

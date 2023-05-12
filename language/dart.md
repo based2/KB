@@ -9,3 +9,6 @@ https://github.com/dart-lang/language/blob/master/working/0546-patterns/patterns
 
 https://journal.stuffwithstuff.com/2015/09/08/the-hardest-program-ive-ever-written/
 > https://news.ycombinator.com/item?id=30566111
+
+https://medium.com/dartlang/announcing-dart-3-53f065a10635
+> https://news.ycombinator.com/item?id=35888268

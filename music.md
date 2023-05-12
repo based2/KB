@@ -111,6 +111,9 @@ https://old.reddit.com/r/DJs/comments/z60ahl/automated_dj_software/
 https://github.com/Valent-in/pulseq
 > https://news.ycombinator.com/item?id=35107896
 
+https://www.synthtopia.com/content/2023/05/10/synthstrom-deluge-goes-open-source/
+> https://news.ycombinator.com/item?id=35902820
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084
