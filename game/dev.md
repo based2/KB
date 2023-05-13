@@ -109,6 +109,12 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://novalis.org/blog/2023-05-02-rarely-seen-game-mechanics.html
+> https://news.ycombinator.com/item?id=35910363
+
+https://twitter.com/StylizedStation/status/1657047281378508800
+> https://news.ycombinator.com/item?id=35927263
+
 https://kevzettler.com/2023/04/25/multiplayer-voxel-game-engine/
 > https://news.ycombinator.com/item?id=35705063
 

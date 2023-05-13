@@ -103,6 +103,12 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.nytimes.com/2023/05/11/technology/us-chiplets-tech.html
+> https://news.ycombinator.com/item?id=35917361
+
+https://www.csis.org/analysis/chinas-new-strategy-waging-microchip-tech-war
+> https://news.ycombinator.com/item?id=35926452
+
 https://github.com/ow/samsung-frame-art
 
 https://www.anandtech.com/show/18823/sk-hynix-now-sampling-24gb-hbm3-stacks-prepping-for-mass-production

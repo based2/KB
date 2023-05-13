@@ -43,6 +43,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://atlarge-research.com/pdfs/2022-systor-apis.pdf
+> https://news.ycombinator.com/item?id=35920811
+
 https://github.com/AnalogJ/scrutiny
 
 http://www.benedikt-stockebrand.de/rdist-intro_en.html 2012

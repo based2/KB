@@ -133,6 +133,9 @@ https://puter.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/
+> https://news.ycombinator.com/item?id=35900024
+
 https://web.dev/push-notifications-in-all-modern-browsers/
 > https://news.ycombinator.com/item?id=35337798
 

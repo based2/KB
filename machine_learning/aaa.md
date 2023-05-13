@@ -273,6 +273,9 @@ https://www.giskard.ai/safegpt
 > https://news.ycombinator.com/item?id=35652452
 
 # Incident
+https://twitter.com/marvinvonhagen/status/1657060506371346432
+> https://news.ycombinator.com/item?id=35921375
+
 https://incidentdatabase.ai/
 > https://news.ycombinator.com/item?id=35628345
 
@@ -328,6 +331,17 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://ai.google/static/documents/palm2techreport.pdf
+> https://news.ycombinator.com/item?id=35891444
+
+https://evadb.readthedocs.io/en/stable/index.html
+> https://news.ycombinator.com/item?id=35913173
+
+https://news.ycombinator.com/item?id=35927239
+
+https://nadh.in/blog/this-time-it-feels-different/
+> https://news.ycombinator.com/item?id=35926904
+
 https://chat.lmsys.org/?leaderboard
 > https://news.ycombinator.com/item?id=35895605
 

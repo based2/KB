@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://glean.io/blog-posts/why-i-stopped-worrying-and-learned-to-love-denormalized-tables
+> https://news.ycombinator.com/item?id=35924259
+
 https://news.ycombinator.com/item?id=35906604
 
 https://www.xtdb.com/v2

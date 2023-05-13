@@ -129,6 +129,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://tailscale.com/blog/session-recording-beta/
+> https://news.ycombinator.com/item?id=35905677
+
 https://github.com/moul/quicssh quic
 > https://news.ycombinator.com/item?id=35729260
 

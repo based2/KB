@@ -16,6 +16,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/
+> https://news.ycombinator.com/item?id=35928460
+
 https://www.eetimes.com/innovative-approaches-tackle-self-cleaning-solar-panels/
 > https://news.ycombinator.com/item?id=35576473
 

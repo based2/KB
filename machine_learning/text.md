@@ -13,6 +13,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/
+> https://news.ycombinator.com/item?id=35923651
+
 https://news.ycombinator.com/item?id=35886288
 
 https://huggingface.co/blog/assisted-generation

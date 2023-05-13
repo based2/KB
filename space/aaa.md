@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://apnews.com/article/jupiter-juice-spacecraft-antenna-570d9f3c3fe780c05f4b096f1f6f870c
+> https://news.ycombinator.com/item?id=35924758
+
 https://www.theverge.com/2023/4/26/23699365/spacex-starship-damage-launch-pad-debris
 > https://news.ycombinator.com/item?id=35729163
 

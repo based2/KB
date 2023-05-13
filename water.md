@@ -128,3 +128,6 @@ https://news.ycombinator.com/item?id=35524375
 
 https://news.mongabay.com/2023/04/norway-proposes-opening-germany-sized-area-of-its-continental-shelf-to-deep-sea-mining/
 > https://news.ycombinator.com/item?id=35658090
+
+https://www.thedial.world/issue-4/law-of-the-sea-climate-change
+> https://news.ycombinator.com/item?id=35911990

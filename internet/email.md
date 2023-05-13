@@ -160,6 +160,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://sorry.idont.date/
+> https://news.ycombinator.com/item?id=35920844
+
 https://fullystacked.net/posts/modern-html-email/
 > https://news.ycombinator.com/item?id=35497799
 

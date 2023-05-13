@@ -114,6 +114,8 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://news.ycombinator.com/item?id=35886900
+
 https://www.corsix.org/content/converting-fp32-to-fp16
 > https://news.ycombinator.com/item?id=35671367
 

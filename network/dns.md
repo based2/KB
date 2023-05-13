@@ -77,6 +77,14 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://news.ycombinator.com/item?id=35920336
+
+https://shkspr.mobi/blog/2023/05/the-new-zip-tld-is-going-to-cause-some-problems/
+> https://news.ycombinator.com/item?id=35927509
+
+https://implement-dns.wizardzines.com/
+> https://news.ycombinator.com/item?id=35916064
+
 https://github.com/veggiedefender/browsertunnel
 
 https://news.ycombinator.com/item?id=35638764

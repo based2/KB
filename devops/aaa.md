@@ -349,6 +349,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/
+> https://news.ycombinator.com/item?id=35922207
+
 https://github.blog/2023-05-09-push-protection-is-generally-available-and-free-for-all-public-repositories/
 > https://news.ycombinator.com/item?id=35897170
 

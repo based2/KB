@@ -39,6 +39,9 @@ https://news.ycombinator.com/item?id=35460732
 https://wearefastflash.com/blog/hackernews
 > https://news.ycombinator.com/item?id=35676444
 
+https://histre.com/hn/ tags
+> https://news.ycombinator.com/item?id=35904988
+
 # Slashdot
 # Reddit
 
@@ -55,6 +58,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 
 # Incident
+https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-support-agent-got-hacked/
+
 https://www.theregister.com/2023/04/07/twitter_code_cve_substack/
 > https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-29218
 

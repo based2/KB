@@ -53,6 +53,9 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart
+> https://news.ycombinator.com/item?id=35919421
+
 https://github.com/FlowiseAI/Flowise
 
 https://kroki.io/

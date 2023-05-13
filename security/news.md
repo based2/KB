@@ -1,3 +1,6 @@
+https://www.phoronix.com/news/Intel-12-May-2023-Microcode
+> https://news.ycombinator.com/item?id=35924054
+
 https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/
 > https://news.ycombinator.com/item?id=35843566
 > https://news.ycombinator.com/item?id=35843566&p=2

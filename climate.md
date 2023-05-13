@@ -67,6 +67,17 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://edition.cnn.com/2023/04/17/us/methane-oil-and-gas-epa-climate/index.html
+> https://news.ycombinator.com/item?id=35922426
+
+https://news.ycombinator.com/item?id=35922020
+
+https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml
+> https://news.ycombinator.com/item?id=35922802
+
+https://en.wikipedia.org/wiki/Ocean_temperature
+> https://news.ycombinator.com/item?id=35926821
+
 https://news.ycombinator.com/item?id=35863124
 
 https://eco.kde.org/blog/2023-04-26-sustainable-by-design/

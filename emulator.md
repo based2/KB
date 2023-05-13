@@ -6,6 +6,9 @@ https://www.pcjs.org/documents/manuals/intel/80386/
 https://www.qemu.org/2023/04/20/qemu-8-0-0/
 > https://news.ycombinator.com/item?id=35688320
 
+https://thomasokken.com/free42/
+> https://news.ycombinator.com/item?id=35900205
+
 https://yuzu-emu.org/entry/yuzu-progress-report-mar-2023/ Nintendo Switch Emulator
 > https://news.ycombinator.com/item?id=35522230
 

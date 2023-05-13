@@ -59,3 +59,6 @@ https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/
 
 https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-guided-tractors-grind-to-a-halt-20230418-p5d1de.html
 > https://news.ycombinator.com/item?id=35643705
+
+https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Japan-plans-expansion-of-homegrown-GPS-network-to-11-satellites
+> https://news.ycombinator.com/item?id=35928663

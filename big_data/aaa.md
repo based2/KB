@@ -290,6 +290,13 @@ https://phasellm.com/researchgpt
 > https://news.ycombinator.com/item?id=35702407
 
 # News
+https://news.ycombinator.com/item?id=35912374
+
+https://news.ycombinator.com/item?id=35919667 posit
+
+https://github.com/windmill-labs/windmill
+> https://news.ycombinator.com/item?id=35920082
+
 https://news.ycombinator.com/item?id=35864661
 
 https://news.ycombinator.com/item?id=35661961

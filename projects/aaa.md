@@ -161,6 +161,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+> https://news.ycombinator.com/item?id=35927149
+
 https://www.benkuhn.net/newmgr/
 > https://news.ycombinator.com/item?id=35681322
 

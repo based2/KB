@@ -25,3 +25,5 @@ https://www.quantamagazine.org/graduate-students-side-project-proves-prime-numbe
 
 https://wvsant.blogspot.com/2022/12/tiny-prime-combinations.html
 > https://news.ycombinator.com/item?id=34259001
+
+https://news.ycombinator.com/item?id=35913222

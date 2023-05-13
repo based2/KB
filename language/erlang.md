@@ -138,6 +138,9 @@ https://underjord.io/userspace-drivers-in-elixir.html
 https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/
 > https://news.ycombinator.com/item?id=35559925
 
+https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f
+> https://news.ycombinator.com/item?id=35914216
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

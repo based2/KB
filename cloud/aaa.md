@@ -114,6 +114,9 @@ https://planetscale.com/blog/one-million-connections
 https://neon.tech/blog/quicker-serverless-postgres
 > https://news.ycombinator.com/item?id=35342464
 
+https://www.readysetcloud.io/blog/allen.helton/serverless-integration-speed-test/
+> https://news.ycombinator.com/item?id=35902942
+
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 
@@ -255,6 +258,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf New Directions in Cloud Programming 2021
+> https://news.ycombinator.com/item?id=35898768
+
 https://www.swissinfo.ch/eng/sci-tech/first-batch-of-swiss-data-uploaded-to-foreign-operated-server/48439016
 > https://www.reddit.com/r/worldnews/comments/12o9szz/first_batch_of_swiss_data_uploaded_to/
 
