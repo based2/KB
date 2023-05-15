@@ -122,3 +122,6 @@ https://arxiv.org/abs/1810.04314 The Fundamental Theorem of Algebra in ACL2
 > https://news.ycombinator.com/item?id=27989162
 
 https://kookamara.com/jared/dissertation.pdf A Self-Verifying Theorem Prover
+
+https://github.com/zwegner/x86-sat
+> https://news.ycombinator.com/item?id=35946078

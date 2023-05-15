@@ -289,6 +289,9 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # News
+https://martinheinz.dev/blog/97
+> https://news.ycombinator.com/item?id=35950618
+
 https://github.com/mitsuhiko/rye
 > https://news.ycombinator.com/item?id=35678238
 

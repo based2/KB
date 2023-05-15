@@ -99,6 +99,13 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.science.org/content/article/benchtop-dna-printers-are-coming-soon-and-biosecurity-experts-are-worried
+> https://news.ycombinator.com/item?id=35946161
+
+https://news.ycombinator.com/item?id=35950454
+
+https://news.ycombinator.com/item?id=35949043
+
 https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/
 > https://news.ycombinator.com/item?id=35930518
 

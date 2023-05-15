@@ -154,3 +154,6 @@ https://valle-demo.github.io/
 
 https://github.com/suno-ai/bark
 > https://news.ycombinator.com/item?id=35643219
+
+https://github.com/suno-ai/bark/blob/main/README.md
+> https://news.ycombinator.com/item?id=35943108

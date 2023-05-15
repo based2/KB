@@ -122,6 +122,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://hpbn.co/
+> https://news.ycombinator.com/item?id=35937554
+
 https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/
 
 https://www.phoronix.com/news/Intel-i219-LM-Linux-60p-Fix

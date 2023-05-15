@@ -7,6 +7,12 @@ https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-develop
 
 https://kadekillary.work/posts/1000x-eng/
 
+https://github.com/brexhq/prompt-engineering
+> https://news.ycombinator.com/item?id=35942583
+
+https://simonwillison.net/2023/Apr/25/dual-llm-pattern/
+> https://news.ycombinator.com/item?id=35925758
+
 https://openprompt.co/
 
 https://learnprompting.org/

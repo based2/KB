@@ -101,6 +101,8 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://ivan-kurchenko.medium.com/telemetry-with-scala-part-3-otel4s-c5c150303164
+
 https://newsletter.pragmaticengineer.com/p/datadogs-65myear-customer-mystery
 > https://news.ycombinator.com/item?id=35904881
 

@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/
+
 https://github.com/aappleby/PicoRVD RISC-V based CH32V003
 > https://news.ycombinator.com/item?id=35696547
 

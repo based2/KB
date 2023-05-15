@@ -82,7 +82,16 @@ https://github.com/typelevel/fs2
 # interop
 https://gitlab.com/mhammons/slinc C
 
+# Security
+https://eed3si9n.com/sbt-1.8.3
+
 # News
+https://www.reddit.com/r/scala/comments/138l6id/another_two_cents_about_the_current_situation/
+
+https://github.com/buntec/ff4s
+
+https://www.reddit.com/r/scala/comments/13i6mka/pawe%C5%82_marks_the_future_of_scala_scalar_conference/
+
 https://scalajobs.com/blog/functional-error-handling-in-scala/
 
 https://scalajobs.com/blog/top-10-pattern-matching-tips-in-scala/

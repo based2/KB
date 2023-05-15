@@ -274,6 +274,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://git.zx2c4.com/cgit/
+> https://news.ycombinator.com/item?id=35945497
+
 https://git.codemadness.org/stagit/
 
 https://www.leshenko.net/p/ugit/#

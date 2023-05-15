@@ -261,6 +261,9 @@ https://www.jetbrains.com/en/idea/
 https://vscodium.com/
 > https://news.ycombinator.com/item?id=31604932
 
+https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0
+> https://news.ycombinator.com/item?id=35944373
+
 https://open-vsx.org/
 > https://github.com/eclipse/openvsx
 > https://www.eclipse.org/community/eclipse_newsletter/2020/march/1.php

@@ -70,11 +70,6 @@ https://aegeorge42.github.io/
 https://mchromiak.github.io/articles/2021/Jun/01/Decision-Transformer-Reinforcement-Learning-via-Sequence-Modeling-RL-as-sequence/
 > https://news.ycombinator.com/item?id=27659122
 
-### Transformer
-https://arxiv.org/abs/2106.06981 Thinking Like Transformers
-> https://news.ycombinator.com/item?id=27528004
- > https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html
-
 ## Perf
 https://arxiv.org/abs/2005.04305
 > https://news.ycombinator.com/item?id=27458975
@@ -335,6 +330,14 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/
+> https://news.ycombinator.com/item?id=35945988
+
+https://twitter.com/jlowin/status/1658117052425543682
+> https://news.ycombinator.com/item?id=35948742
+
+https://news.ycombinator.com/item?id=35951023
+
 https://illustrated-machine-learning.github.io/index.html
 
 https://www.economist.com/leaders/2023/05/11/what-does-a-leaked-google-memo-reveal-about-the-future-of-ai
@@ -361,9 +364,6 @@ https://news.ycombinator.com/item?id=35901538
 
 https://www.moderndescartes.com/essays/why_brain/
 > https://news.ycombinator.com/item?id=35716216
-
-https://e2eml.school/transformers.html
-> https://news.ycombinator.com/item?id=35697627
 
 https://epochai.org/blog/will-we-run-out-of-ml-data-evidence-from-projecting-dataset
 > https://news.ycombinator.com/item?id=35667764
@@ -400,8 +400,6 @@ https://www.deepmind.com/blog/announcing-google-deepmind
 > https://news.ycombinator.com/item?id=35643049
 > https://news.ycombinator.com/item?id=35642994
 
-https://blog.eleuther.ai/transformer-math/
-
 https://www.latent.space/p/agents
 > https://news.ycombinator.com/item?id=35629033
 
@@ -415,9 +413,6 @@ https://lifearchitect.ai/chinchilla/
 
 https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/
 > https://news.ycombinator.com/item?id=35577636
-
-https://txt.cohere.ai/what-are-transformer-models/
-> https://news.ycombinator.com/item?id=35576918
 
 https://huyenchip.com/2023/04/11/llm-engineering.html
 > https://news.ycombinator.com/item?id=35565212
@@ -535,9 +530,6 @@ https://arxiv.org/abs/2303.09752 CoLT5: Faster Long-Range Transformers with Cond
 
 https://huggingface.co/blog/rlhf
 
-https://xenova.github.io/transformers.js/
-> https://news.ycombinator.com/item?id=35189794
-
 https://www.tbray.org/ongoing/When/202x/2023/03/14/Binging
 > https://news.ycombinator.com/item?id=35203262
 
@@ -616,9 +608,6 @@ https://github.com/tysam-code/hlb-CIFAR10
 
 https://github.com/helblazer811/ManimML
 > https://news.ycombinator.com/item?id=34562808
-
-https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
-> https://news.ycombinator.com/item?id=34566275
 
 https://www.nist.gov/itl/ai-risk-management-framework
 
@@ -1116,9 +1105,6 @@ https://openai.com/blog/techniques-for-training-large-neural-networks/
 https://numenta.com/blog/2022/05/24/ai-is-harming-our-planet
 > https://news.ycombinator.com/item?id=31662560
 
-https://machinelearning.apple.com/research/neural-engine-transformers
-> https://news.ycombinator.com/item?id=31666476
-
 https://thegradient.pub/ai-scientific-revolution/
 > https://news.ycombinator.com/item?id=31642810
 
@@ -1269,8 +1255,6 @@ https://blog.heim.xyz/palm-training-cost/
 
 https://news.ycombinator.com/item?id=30955699 Show HN: Programmatic – a REPL for creating labeled data
 
-https://blog.nelhage.com/post/transformers-for-software-engineers/
-
 https://cprimozic.net/blog/neural-network-experiments-and-visualizations/
 > https://news.ycombinator.com/item?id=30895478
 
@@ -1286,8 +1270,6 @@ https://www.microsoft.com/en-us/research/blog/jigsaw-fixes-bugs-in-machine-writt
 
 https://blog.kxy.ai/5-reasons-you-should-never-use-pca-for-feature-selection/
 > https://news.ycombinator.com/item?id=30876293
-
-https://carolchen.me/blog/transformer-inference-arithmetic/
 
 https://benanne.github.io/2022/01/31/diffusion.html
 
@@ -1378,9 +1360,6 @@ https://arxiv.org/abs/2110.13100 Parameter Prediction for Unseen Deep Architectu
 
 https://github.com/deepmind/ithaca Restoring and attributing ancient texts using deep neural networks
 
-https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/
-> https://news.ycombinator.com/item?id=30629214
-
 https://mfaizan.github.io/2022/03/08/why-tensors.html
 > https://news.ycombinator.com/item?id=30610238
 
@@ -1433,8 +1412,6 @@ https://sebastianraschka.com/blog/2022/ml-pytorch-book.html
 https://github.com/webonnx/wonnx GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web.
 
 https://tinyverse.substack.com/p/introducing-hotgdev-open-ideas-meets
-
-https://newscatcherapi.com/blog/how-to-classify-text-with-python-transformers-and-scikit-learn
 
 https://www.theregister.com/2022/02/22/microsoft_singularity_ai_infrastructure/
 
@@ -1660,9 +1637,6 @@ https://www.darpa.mil/news-events/2021-12-21
 
 https://blog.vespa.ai/billion-scale-knn/
 
-https://lorenzopieri.com/rl_transformers/
-> https://news.ycombinator.com/item?id=29617087
-
 https://tvm.apache.org/2021/12/15/tvm-unity
 
 https://www.distributional-rl.org/
@@ -1728,9 +1702,6 @@ https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html
 
 https://elicit.org/
 > https://news.ycombinator.com/item?id=29262357
-
-http://peterbloem.nl/blog/transformers
-> https://news.ycombinator.com/item?id=29280909
 
 https://santurcesoftware.com/machine-learning-san-juan-traffic
 > https://news.ycombinator.com/item?id=29259530
@@ -1803,8 +1774,6 @@ https://arxiv.org/abs/2103.14749 Pervasive Label Errors in Test Sets Destabilize
 https://pycaret.org/
 
 https://news.mit.edu/2021/artificial-intelligence-brain-language-1025
-
-https://studios.disneyresearch.com/2021/06/19/adaptive-convolutions-for-structure-aware-style-transfer/
 
 https://www.slideshare.net/GaelVaroquaux/dirty-data-science-machine-learning-on-noncurated-data
 > https://news.ycombinator.com/item?id=29013054
@@ -2009,8 +1978,6 @@ https://cleantechnica.com/2021/08/22/teslas-dojo-supercomputer-breaks-all-establ
 > https://news.ycombinator.com/item?id=28266156
 
 https://cleantechnica.com/2021/08/21/a-comment-on-tesla-ai-day-have-you-ever/
-
-https://github.com/will-thompson-k/tldr-transformers
 
 https://arxiv.org/abs/2108.02497
 

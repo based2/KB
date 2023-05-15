@@ -52,6 +52,14 @@ https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
 #
+https://eugeneyan.com/writing/open-llms/
+> https://news.ycombinator.com/item?id=35947556
+
+https://erichartford.com/uncensored-models
+> https://news.ycombinator.com/item?id=35946060
+
+https://www.openlayer.com/
+
 https://matt-rickard.com/context-free-grammar-parsing-with-llms
 
 https://news.ycombinator.com/item?id=35876147

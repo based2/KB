@@ -1,3 +1,11 @@
+https://vigilance.fr/vulnerabilite/SnakeYAML-deni-de-service-via-Error-Pretty-printer-41256
+
+https://www.starlab.io/blog/dm-verity-in-embedded-device-security
+> https://lobste.rs/s/7579yq/introduction_dm_verity_embedded_device
+
+https://github.com/SysSec-KAIST/LTESniffer
+> https://news.ycombinator.com/item?id=35952206
+
 https://horuspass.com/send ?
 
 https://www.phoronix.com/news/Intel-12-May-2023-Microcode
@@ -12,6 +20,8 @@ https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boo
 
 https://www.cedarpolicy.com/en
 > https://news.ycombinator.com/item?id=35890784
+> https://github.com/cedar-policy
+> > https://news.ycombinator.com/item?id=35950253
 
 https://crnkovic.dev/testing-converso/
 > https://news.ycombinator.com/item?id=35894831

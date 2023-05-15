@@ -20,6 +20,9 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://ncase.me/door/
+> https://news.ycombinator.com/item?id=35800492
+
 https://gandalf.lakera.ai/
 
 https://moderatormayhem.engine.is/

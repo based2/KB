@@ -14,6 +14,8 @@ https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 https://vigilance.fr/vulnerabilite/mod-auth-openidc-redirection-via-Logout-Parameter-40178
 
 #
+https://news.ycombinator.com/item?id=35806024
+
 https://github.com/supertokens/supertokens-core
 > https://news.ycombinator.com/item?id=35895840
 

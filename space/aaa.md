@@ -35,6 +35,7 @@ https://everydayastronaut.com/soviet-rocket-engines/
 https://www.sciencenews.org/article/first-time-astrophysicists-star-eating-planet
 
 https://www.esa.int/Science_Exploration/Space_Science/Juice/Juice_s_RIME_antenna_breaks_free
+> https://news.ycombinator.com/item?id=35938691
 
 https://apnews.com/article/jupiter-juice-spacecraft-antenna-570d9f3c3fe780c05f4b096f1f6f870c
 > https://news.ycombinator.com/item?id=35924758

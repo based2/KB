@@ -13,6 +13,14 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://news.ycombinator.com/item?id=35946260
+
+https://www.thisworddoesnotexist.com/
+> https://news.ycombinator.com/item?id=35950094
+
+https://github.com/dsdanielpark/Bard-API
+> https://news.ycombinator.com/item?id=35943808
+
 https://blog.theapricot.io/posts/chatgpt-vs-bard/
 > https://news.ycombinator.com/item?id=35931753
 

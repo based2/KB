@@ -75,6 +75,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://pluralistic.net/2023/05/15/finnegans-snooze/#dirty-old-town
+> https://news.ycombinator.com/item?id=35951452
+
 https://news.ycombinator.com/item?id=35886235
 
 https://github.com/pldubouilh/spotify-gdpr-dump-analysis

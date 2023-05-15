@@ -32,6 +32,12 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://web.dev/import-maps-in-all-modern-browsers/
+> https://news.ycombinator.com/item?id=35800711
+
+https://www.theverge.com/2023/5/3/23709297/microsoft-edge-force-outlook-teams-web-links-open
+> https://news.ycombinator.com/item?id=35800158
+
 https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md sms
 > https://news.ycombinator.com/item?id=35660796
 

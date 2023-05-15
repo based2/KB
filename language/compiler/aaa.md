@@ -125,6 +125,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.infoq.com/news/2023/05/gcc13-c2x-features/
+> https://news.ycombinator.com/item?id=35949368
+
 https://www.tweag.io/blog/2022-12-22-making-ghc-faster-at-emitting-code/
 > https://news.ycombinator.com/item?id=35936539
 

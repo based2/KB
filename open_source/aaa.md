@@ -29,6 +29,9 @@ https://libreops.cc/
 https://www.osci.io/
 > https://www.spice-space.org/index.html
 
+http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
+> https://news.ycombinator.com/item?id=35939383
+
 # Funding
 https://news.ycombinator.com/item?id=26578898
 

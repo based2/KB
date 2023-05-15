@@ -100,6 +100,9 @@ https://valetudo.cloud/ cloud-free vacuum robots empowering thousands of users.
 
 https://news.ycombinator.com/item?id=31777326 mouse
 
+https://github.com/toverainc/willow A Practical, Open Source, Privacy-Focused Platform for Voice Assistants and other Applications
+> https://news.ycombinator.com/item?id=35948462
+
 ## Farm
 https://farm.bot/pages/open-source -> Dataset?
 > https://news.ycombinator.com/item?id=27628101

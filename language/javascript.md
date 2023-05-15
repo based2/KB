@@ -341,6 +341,9 @@ https://blog.alexeykarpov.com/clean-architecture-in-frontend
 
 https://analogjs.org/
 
+https://blog.angular.io/angular-v16-is-here-4d7a28ec680d
+> https://news.ycombinator.com/item?id=35807125
+
 # Elm
 https://elm-pages.com/blog/introducing-v2/
 > https://news.ycombinator.com/item?id=28057494
@@ -577,6 +580,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://xstate.js.org/docs/
+> https://news.ycombinator.com/item?id=35941749
+
 https://rety.verou.me/
 
 https://decode.sh/building-a-code-pen-type-editor-from-scratch

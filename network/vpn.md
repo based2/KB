@@ -74,6 +74,9 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
 # News
+https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn
+> https://news.ycombinator.com/item?id=35828046
+
 https://mullvad.net/en/blog/2023/4/20/mullvad-vpn-was-subject-to-a-search-warrant-customer-data-not-compromised/
 > https://news.ycombinator.com/item?id=35638917
 
