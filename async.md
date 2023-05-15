@@ -28,6 +28,9 @@ https://dmitrykakurin.medium.com/concurrency-in-go-pony-erlang-elixir-and-rust-3
 
 https://jeremydmiller.com/2022/09/06/developing-error-handling-strategies-for-asynchronous-messaging/
 
+https://dl.acm.org/doi/pdf/10.1145/3519939.3523443 A Flexible Type System for Fearless Concurrency
+> https://news.ycombinator.com/item?id=35917717
+
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815

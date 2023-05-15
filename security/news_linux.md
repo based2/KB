@@ -2,6 +2,9 @@
 https://github.com/queer/boxxy puts bad Linux applications in a box with only their files.
 > https://news.ycombinator.com/item?id=34730520
 
+https://people.skolelinux.org/pere/blog/OpenSnitch_in_Debian_ready_for_prime_time.html
+> https://news.ycombinator.com/item?id=35936044
+
 # News
 https://seclists.org/oss-sec/2023/q2/133 CVE-2023-32233
 > https://news.ycombinator.com/item?id=35879660

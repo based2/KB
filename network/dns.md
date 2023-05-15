@@ -56,6 +56,9 @@ https://threadreaderapp.com/thread/1586390728761933825.html
 https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 > https://news.ycombinator.com/item?id=34177331
 
+# Security
+https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/
+
 # Incident
 https://www.bleepingcomputer.com/news/security/decoy-dog-malware-toolkit-found-after-analyzing-70-billion-dns-queries/
 

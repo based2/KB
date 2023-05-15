@@ -131,3 +131,8 @@ https://news.mongabay.com/2023/04/norway-proposes-opening-germany-sized-area-of-
 
 https://www.thedial.world/issue-4/law-of-the-sea-climate-change
 > https://news.ycombinator.com/item?id=35911990
+
+https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lead-from-water/
+> https://news.ycombinator.com/item?id=35934163
+
+https://techxplore.com/news/2023-04-advanced-sand-drought.html

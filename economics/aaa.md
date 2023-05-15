@@ -194,6 +194,9 @@ https://www.firefly-iii.org/
 
 https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individual income tax, from 1970-present
 
+https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/
+> https://news.ycombinator.com/item?id=35932530
+
 # News
 https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany
 > https://news.ycombinator.com/item?id=35501937

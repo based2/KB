@@ -274,6 +274,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://git.codemadness.org/stagit/
+
+https://www.leshenko.net/p/ugit/#
+> https://news.ycombinator.com/item?id=35932074
+
 https://bytes.zone/posts/modeling-git-internals-in-alloy-part-3-operations-on-blobs-and-trees/
 
 https://alanastorm.com/review-of-james-coglands-building-git/

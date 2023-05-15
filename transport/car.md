@@ -18,6 +18,14 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://topcarnews.net/hyundais-new-steering-system-may-make-parking-jobs-way-easier-s237901.html
+
+https://github.com/autorope/donkeycar
+> https://news.ycombinator.com/item?id=35926993
+
+https://www.noahpinion.blog/p/all-the-arguments-against-evs-are
+> https://news.ycombinator.com/item?id=35938162
+
 https://finance.yahoo.com/news/vw-rivian-nissan-bmw-lose-140645246.html
 > https://news.ycombinator.com/item?id=35603376
 

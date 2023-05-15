@@ -131,6 +131,8 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://collabfund.com/blog/one-big-web-a-few-ways-the-world-works/
+
 https://borretti.me/article/effective-spaced-repetition
 > https://news.ycombinator.com/item?id=35511357
 

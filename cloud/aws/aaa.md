@@ -95,6 +95,8 @@ https://frichetten.com/blog/xss_in_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
 # News
+https://github.com/open-guides/og-aws
+
 https://www.theregister.com/2023/04/17/amazon_annual_shareholder_letter_aws/
 > https://news.ycombinator.com/item?id=35603457
 

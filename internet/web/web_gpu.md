@@ -35,3 +35,5 @@ https://eliemichel.github.io/LearnWebGPU/
 
 https://compute.toys/
 > https://news.ycombinator.com/item?id=35883891
+
+https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu

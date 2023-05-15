@@ -68,6 +68,8 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://www.alpla.com/en/products-innovation/case-studies/tethered-caps
+
 https://futo.org/workshops/
 > https://news.ycombinator.com/item?id=35009447
 

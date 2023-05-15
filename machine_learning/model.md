@@ -8,7 +8,12 @@ https://www.together.xyz/blog/redpajama
 > https://news.ycombinator.com/item?id=35600860
 
 https://github.com/cocktailpeanut/dalai
-> 
+
+https://github.com/s-JoL/Open-Llama
+> https://news.ycombinator.com/item?id=35934458
+
+https://gist.github.com/rain-1/8cc12b4b334052a21af8029aa9c4fafc
+> https://news.ycombinator.com/item?id=35937505
 
 https://twitter.com/jeremyphoward/status/1642726595436883969
 > https://news.ycombinator.com/item?id=35426679
@@ -47,6 +52,8 @@ https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
 #
+https://matt-rickard.com/context-free-grammar-parsing-with-llms
+
 https://news.ycombinator.com/item?id=35876147
 
 https://openai.com/research/language-models-can-explain-neurons-in-language-models

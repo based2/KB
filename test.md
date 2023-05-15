@@ -146,6 +146,8 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://brie.dev/2022-http-testing-hurl/
+
 https://redis.com/blog/datasets-for-test-databases/
 
 https://blog.janestreet.com/the-joy-of-expect-tests/

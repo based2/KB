@@ -26,6 +26,8 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://security.humanativaspa.it/cracked-password-analytics-with-kraken/
+
 https://dumbpasswordrules.com/
 
 https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/wheeler

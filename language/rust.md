@@ -305,7 +305,13 @@ https://maxwellrules.com/programming/rusty-python.html
 
 https://dragly.org/2022/08/27/speeding-up-loading-openexr-in-python/
 
+https://hails.org/@hailey/110360791283096989
+> https://news.ycombinator.com/item?id=35927475
+
 ## MacOs
+https://github.com/ryanmcgrath/cacao
+> https://news.ycombinator.com/item?id=35934799
+
 https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
 > https://news.ycombinator.com/item?id=27467453
 

@@ -170,6 +170,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://blog.adamchalmers.com/multipart/
+
 https://csvbase.com/blog/2 How does it know I want csv? — An HTTP trick
 
 https://netty.io/news/2023/02/02/multiple_releases_incubator.html

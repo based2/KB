@@ -258,6 +258,11 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://dev.37signals.com/our-cloud-spend-in-2022/
+
+https://blog.metaobject.com/2023/05/setting-up-hetzner-arm-instances-with.html
+> https://news.ycombinator.com/item?id=35934287
+
 https://www.cidrdb.org/cidr2021/papers/cidr2021_paper16.pdf New Directions in Cloud Programming 2021
 > https://news.ycombinator.com/item?id=35898768
 

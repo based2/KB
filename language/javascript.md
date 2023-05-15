@@ -69,6 +69,8 @@ https://thenewstack.io/vue-2023/
 
 https://blog.vuejs.org/posts/2022-year-in-review.html
 
+https://github.com/webfansplz/vite-plugin-vue-devtools
+
 ## ReactJS - Facebook
 https://github.com/reactjs/react-basic
 
@@ -575,6 +577,17 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://rety.verou.me/
+
+https://decode.sh/building-a-code-pen-type-editor-from-scratch
+
+https://github.com/ranbuch/accessibility
+
+https://web.archive.org/web/20140205182624/http://vijayan.ca/blog/2012/02/21/javascript-type-model
+
+https://18alan.space/posts/how-hard-is-it-to-build-a-frontend-framework.html
+> https://news.ycombinator.com/item?id=35937464
+
 https://csswizardry.com/2023/01/why-not-document-write/
 > https://news.ycombinator.com/item?id=35398901
 

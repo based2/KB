@@ -218,6 +218,9 @@ https://www.notion.so/blog/sharding-postgres-at-notion
 
 https://tapoueh.org/blog/2021/12/postgres-ha-roles-are-dynamic
 
+# Restoration
+https://www.highgo.ca/2023/05/09/various-restoration-techniques-using-postgresql-point-in-time-recovery/
+
 # Generator
 https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enums
 > https://news.ycombinator.com/item?id=27570058

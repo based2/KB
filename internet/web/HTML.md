@@ -148,6 +148,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://htmlwithsuperpowers.netlify.app/
+
 https://htmx.org/posts/2023-04-11-htmx-1-9-0-is-released/
 > https://news.ycombinator.com/item?id=35530289
 

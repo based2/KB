@@ -1,5 +1,8 @@
+https://horuspass.com/send ?
+
 https://www.phoronix.com/news/Intel-12-May-2023-Microcode
 > https://news.ycombinator.com/item?id=35924054
+> https://www.reddit.com/r/netsec/comments/13ghgpr/intel_issues_new_cpu_microcode_going_back_to_gen8/
 
 https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boot-security/
 > https://news.ycombinator.com/item?id=35843566

@@ -117,6 +117,9 @@ https://b3n.org/automatic-ripping-machine/
 https://news.ycombinator.com/item?id=30577625
 
 #
+https://github.com/basnijholt/rsync-time-machine.py
+> https://news.ycombinator.com/item?id=35933238
+
 https://computerhistory.org/blog/a-backup-of-historical-proportions/
 
 https://github.com/divyenduz/backup-scheduler

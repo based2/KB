@@ -25,3 +25,5 @@ https://navendu.me/posts/kubernetes-gateway-with-apisix/
 https://docs.netchecks.io/
 
 https://github.com/inovex/illuminatio
+
+https://www.armosec.io/blog/kubernetes-ingress-security/

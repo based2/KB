@@ -30,6 +30,9 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-cancelling-headphones-fix-yourself-bluetooth
+> https://news.ycombinator.com/item?id=35900369
+
 https://news.ycombinator.com/item?id=35729104 mic
 
 https://crates.io/crates/fundsp/0.13.0

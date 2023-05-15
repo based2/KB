@@ -349,6 +349,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://anvaka.github.io/map-of-github/#2/0/0
+> https://news.ycombinator.com/item?id=35931402
+
 https://sschueller.github.io/posts/ci-cd-with-kicad-and-gitlab/
 > https://news.ycombinator.com/item?id=35922207
 

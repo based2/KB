@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/
+> https://news.ycombinator.com/item?id=35908617
+
 https://novalis.org/blog/2023-05-02-rarely-seen-game-mechanics.html
 > https://news.ycombinator.com/item?id=35910363
 

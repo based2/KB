@@ -141,6 +141,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=35929333
+
 https://visualpde.com/
 > https://news.ycombinator.com/item?id=35677599
 

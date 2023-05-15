@@ -42,6 +42,15 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://phys.org/news/2023-04-genomes-species-redefine-mammalian-tree.html
+> https://news.ycombinator.com/item?id=35924483
+
+https://phys.org/news/2023-04-hidden-rna-mechanism-humans.html
+> https://news.ycombinator.com/item?id=35924495
+
+https://www.nature.com/articles/s42004-023-00885-7
+> https://news.ycombinator.com/item?id=35927948
+
 https://tderflinger.com/en/companies-producing-biopolymers-for-packaging
 > https://news.ycombinator.com/item?id=35644282
 

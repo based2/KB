@@ -84,6 +84,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://progress-up.live/
+
 https://news.ycombinator.com/item?id=35658387
 
 https://news.ycombinator.com/item?id=35529240
@@ -92,10 +94,8 @@ https://www.refactoringui.com/
 > https://news.ycombinator.com/item?id=35529240
 
 https://github.com/Mirrorful/mirrorful
-> 
 
 https://blog.bitsrc.io/rebuilding-loggis-design-system-on-top-of-material-ui-9555fede0466
-> 
 
 https://www.paritybit.ca/blog/styling-external-links.html
 > https://lobste.rs/s/izsv9d/styling_external_links

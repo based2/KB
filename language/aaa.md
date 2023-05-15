@@ -327,6 +327,10 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://bitfieldconsulting.com/golang/crisp-code
+
+https://www.amazingcto.com/best-way-to-handle-errors-for-a-programming-language/
+
 https://news.ycombinator.com/item?id=35913241
 
 https://dl.acm.org/doi/10.1145/3579990.3580020 Looplets: A Language for Structure Coiteration

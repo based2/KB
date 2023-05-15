@@ -33,6 +33,10 @@ https://hpjansson.org/blag/2021/09/16/chafa-1-8-terminal-graphics-with-a-side-of
 
 https://github.com/salt-die/nurses Portmanteau of Numpy and Curses
 
+https://www.arewesixelyet.com/ Lists the support for the SIXEL graphics format across various terminal emulators
+> https://en.wikipedia.org/wiki/Sixel
+> https://news.ycombinator.com/item?id=35936331
+
 # Plot
 https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759

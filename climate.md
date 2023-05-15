@@ -67,6 +67,10 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.kansascity.com/news/nation-world/national/article275377256.html
+
+https://www.channelnewsasia.com/singapore/heat-hot-temperature-37-degrees-celsius-record-highest-daily-maximum-3486581
+
 https://edition.cnn.com/2023/04/17/us/methane-oil-and-gas-epa-climate/index.html
 > https://news.ycombinator.com/item?id=35922426
 

@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://www.cbsnews.com/news/hazardous-materials-airplanes/
+> https://news.ycombinator.com/item?id=35939883
+
 https://www.paddleyourownkanoo.com/2023/04/09/seattle-discovers-its-new-1-billion-airport-terminal-cant-fit-the-long-haul-planes-it-was-designed-to-handle/
 > https://news.ycombinator.com/item?id=35519351
 

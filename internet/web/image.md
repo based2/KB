@@ -59,6 +59,8 @@ https://wordasimage.github.io/Word-As-Image-Page/
 https://giannirosato.com/blog/post/image-comparison/
 > https://news.ycombinator.com/item?id=35212522
 
+https://clipdrop.co/relight
+
 # Photography
 https://www.digikam.org/news/2023-04-16-8.0.0_release_announcement/
 

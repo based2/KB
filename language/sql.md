@@ -59,6 +59,8 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://www.sommarskog.se/dynamic_sql.html
+
 https://lost-at-sql.therobinlord.com/
 > https://news.ycombinator.com/item?id=35665142
 

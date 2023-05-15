@@ -87,6 +87,9 @@ https://speedscale.com/speedscale-v1/
 https://www.redhat.com/sysadmin/stop-using-telnet-test-port
 > https://news.ycombinator.com/item?id=35621441
 
+https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/
+> https://news.ycombinator.com/item?id=35936999
+
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
 
@@ -119,6 +122,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://jvns.ca/blog/2016/03/16/tcpdump-is-amazing/
+
 https://www.phoronix.com/news/Intel-i219-LM-Linux-60p-Fix
 > https://news.ycombinator.com/item?id=35677261
 

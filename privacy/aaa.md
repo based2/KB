@@ -99,6 +99,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.telegraph.co.uk/money/consumer-affairs/hp-printers-computers-ink-cartridges-rivals/
+> https://news.ycombinator.com/item?id=35930518
+
+https://ag.ny.gov/press-release/2023/attorney-general-james-secures-615000-companies-supplied-fake-comments-influence
+> https://news.ycombinator.com/item?id=35934504
+
 https://news.ycombinator.com/item?id=35919133
 
 https://news.ycombinator.com/item?id=35888024

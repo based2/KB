@@ -11,6 +11,8 @@ https://foxglove.dev/
 https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers
 
 # Drone
+https://newatlas.com/drones/undefined-ion-propulsion-drone/
+
 https://www.theverge.com/2022/11/8/23447502/alphabet-wing-drones-doordash-air-logan-australia
 
 https://spectrum.ieee.org/edible-robots

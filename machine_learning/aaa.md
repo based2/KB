@@ -216,6 +216,8 @@ https://journals.lww.com/epidem/abstract/1999/01000/causal_diagrams_for_epidemio
 > https://news.ycombinator.com/item?id=31037416
 
 ## Attacks
+https://arxiv.org/abs/2209.15259 On the Impossible Safety of Large AI Models
+
 https://arstechnica.com/information-technology/2023/02/ai-powered-bing-chat-spills-its-secrets-via-prompt-injection-attack/
 > https://news.ycombinator.com/item?id=34777646
 
@@ -273,6 +275,8 @@ https://www.giskard.ai/safegpt
 > https://news.ycombinator.com/item?id=35652452
 
 # Incident
+https://news.ycombinator.com/item?id=35929122
+
 https://twitter.com/marvinvonhagen/status/1657060506371346432
 > https://news.ycombinator.com/item?id=35921375
 
@@ -331,6 +335,14 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://illustrated-machine-learning.github.io/index.html
+
+https://www.economist.com/leaders/2023/05/11/what-does-a-leaked-google-memo-reveal-about-the-future-of-ai
+> https://news.ycombinator.com/item?id=35936489
+
+https://www.asanai.net/2023/05/14/just-a-statistical-text-predictor/
+> https://news.ycombinator.com/item?id=35938418
+
 https://ai.google/static/documents/palm2techreport.pdf
 > https://news.ycombinator.com/item?id=35891444
 

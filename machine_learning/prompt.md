@@ -1,6 +1,12 @@
 https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
 > https://news.ycombinator.com/item?id=35227358
 
+https://pavkam.dev/2023-04-19-work-with-ai-nonsense/
+
+https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/
+
+https://kadekillary.work/posts/1000x-eng/
+
 https://openprompt.co/
 
 https://learnprompting.org/
@@ -8,7 +14,6 @@ https://learnprompting.org/
 https://boostpixels.com/guide
 
 https://github.com/gkamer8/praetor-data
-> 
 
 https://github.com/biobootloader/wolverine
 > https://news.ycombinator.com/item?id=35518178
