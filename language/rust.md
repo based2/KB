@@ -449,6 +449,12 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://dl.acm.org/doi/pdf/10.1145/3510457.3513031 Verifying Dynamic Trait Objects in Rust (2022)
+> https://news.ycombinator.com/item?id=35956275
+
+https://billydm.github.io/blog/daw-frontend-development-struggles/
+> https://news.ycombinator.com/item?id=35937419
+
 https://crates.io/crates/hyper http
 > https://news.ycombinator.com/item?id=35920773
 

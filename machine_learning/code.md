@@ -54,6 +54,13 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://github.com/smol-ai/developer
+> https://news.ycombinator.com/item?id=35945467
+
+https://blog.google/technology/developers/google-colab-ai-coding-features/
+> https://news.ycombinator.com/item?id=35977294
+> > https://github.com/paul-gauthier/aider
+
 https://www.theregister.com/2023/04/21/chatgpt_insecure_code/
 > https://news.ycombinator.com/item?id=35680600
 

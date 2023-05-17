@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.pedalpc.com/
+> https://news.ycombinator.com/item?id=35959859
+
 https://industrydecarbonization.com/news/how-iceland-sold-the-same-green-electricity-twice.html
 
 https://renewables-map.robinhawkes.com/#5/55/-3.2

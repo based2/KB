@@ -61,6 +61,9 @@ https://giannirosato.com/blog/post/image-comparison/
 
 https://clipdrop.co/relight
 
+https://www.cs.unm.edu/~brayer/vision/fourier.html
+> https://news.ycombinator.com/item?id=35945234
+
 # Photography
 https://www.digikam.org/news/2023-04-16-8.0.0_release_announcement/
 

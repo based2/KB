@@ -27,6 +27,8 @@ https://labs.p1sec.com/2023/01/09/releasing-hermes-dec-an-open-source-disassembl
 > https://github.com/P1sec/hermes-dec/
 
 #
+https://medium.com/@cy1337/first-look-ghidras-10-3-emulator-7f74dd55e12d
+
 https://www.righto.com/2023/05/8086-processor-group-decode-rom.html
 > https://news.ycombinator.com/item?id=35939168
 

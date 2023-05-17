@@ -330,6 +330,11 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.anthropic.com/index/claudes-constitution
+
+https://artificialintelligenceact.eu/
+> https://news.ycombinator.com/item?id=35966543
+
 https://stratechery.com/2023/google-i-o-and-the-coming-ai-battles/
 > https://news.ycombinator.com/item?id=35945988
 

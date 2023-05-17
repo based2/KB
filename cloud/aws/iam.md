@@ -41,6 +41,8 @@ https://github.com/99designs/aws-vault
 https://github.com/synfinatic/aws-sso-cli
 
 # News
+https://www.awsiamactions.io/
+
 https://xebia.com/blog/what-happens-when-you-leak-aws-credentials-and-how-aws-minimizes-the-damage/ The AWSCompromisedKeyQuarantineV2 policy is attached to the IAM user
 > https://news.ycombinator.com/item?id=35466675
 

@@ -101,6 +101,8 @@ https://infosecwriteups.com/using-pgp-to-enhance-security-and-non-repudiation-of
 https://sysdig.com/blog/terraform-security-best-practices/
 > https://www.reddit.com/r/netsec/comments/11xj4j2/guide_terraform_security/
 
+https://medium.com/@dd.deepak06/terraform-iaac-compliance-testing-487f3b86b1af
+
 # CI/CD
 https://docs.gitlab.com/ee/user/infrastructure/iac/
 > https://gitlab.com/gitlab-org/terraform-images
@@ -111,6 +113,11 @@ https://plugins.jenkins.io/terraform/
 https://stackoverflow.com/questions/66210505/running-a-terraform-command-via-airflow-operator
 
 https://www.kensodev.com/posts/2022/05/17/managing-github-with-terraform-and-saml-without-github-enterprise/
+
+# Registry
+https://github.com/PacoVK/tapir registry
+
+https://servian.dev/terraform-local-providers-and-registry-mirror-configuration-b963117dfffa
 
 # AWS
 https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-service-catalog-terraform.html
@@ -179,8 +186,16 @@ https://terrateam.io/docs/cdktf/faq
 
 https://noiselesstech.net/2023/03/24/how-to-upload-a-docker-container-to-aws-ecr-using-terraform/
 
+https://noiselesstech.net/2023/05/04/how-to-create-a-cron-job-docker-container-using-aws-ecs-fargate-fully-automated-with-terraform/
+
+https://sg12.cloud/serverless-data-processing-flow-with-kinesis-data-firehose-and-terraform/
+
+https://github.com/ThiagoPanini/terraglue
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
+
+https://blog.playgroundtech.io/enabling-ci-cd-for-microservices-using-aws-app-runner-github-aws-codepipeline-and-terraform-a6dcc208c9a4
 
 # Azure
 https://github.com/andreipintica/azure-terrafy-handsonlab
@@ -213,7 +228,21 @@ https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b
 # K8s
 https://github.com/jrhouston/tfk8s
 
+# Org
+
+https://github.com/Madh93/tpm package manager for Terraform providers
+
+https://github.com/sirrend/terrap-cli
+
+https://github.com/cisco-open/stacks
+
+https://github.com/jaceq/terraeasy
+
 # News
+https://medium.com/@migara/im-mutable-infrastructure-and-terraform-f50e78de0912
+
+https://github.com/develeap/terraform-provider-chatgpt
+
 https://alexwlchan.net/2023/terraform-template-docs/
 
 https://medium.com/geekculture/useful-terraform-commands-in-a-flow-diagram-10ca1b13f73a
@@ -263,8 +292,6 @@ https://medium.com/@calinflorescu3/splitting-a-monolithic-terraform-state-d26e86
 https://github.com/kreuzwerker/terraform-provider-docker
 
 https://github.com/loafoe/terraform-provider-ssh
-
-https://github.com/PacoVK/tapir registry
 
 https://blog.cloudmonk.me/crossplane-and-terraform
 

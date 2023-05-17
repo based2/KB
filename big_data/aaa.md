@@ -24,6 +24,9 @@ https://ggcarvalho.dev/posts/montecarlo/
 https://datasetsearch.research.google.com/
 > https://news.ycombinator.com/item?id=27068551
 
+https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/
+> https://news.ycombinator.com/item?id=35977057
+
 ## Unstructured
 https://github.com/capitalone/DataProfiler
 > https://news.ycombinator.com/item?id=27106335
@@ -289,7 +292,13 @@ https://github.com/approximatelabs/sketch
 https://phasellm.com/researchgpt
 > https://news.ycombinator.com/item?id=35702407
 
+https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f
+> https://news.ycombinator.com/item?id=35973265
+
 # News
+https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/
+> https://news.ycombinator.com/item?id=35972092
+
 https://news.ycombinator.com/item?id=35912374
 
 https://news.ycombinator.com/item?id=35919667 posit

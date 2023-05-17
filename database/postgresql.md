@@ -280,6 +280,11 @@ https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-ranc
 https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-Row-Security-User-ID-Changes-41249
 
 # News
+https://medium.com/the-prefect-blog/more-memory-more-problems-b182d7807e3c
+
+https://ottertune.com/blog/how-to-fix-slow-postgresql-queries/
+> https://news.ycombinator.com/item?id=35963572
+
 https://ottertune.com/blog/the-part-of-postgresql-we-hate-the-most/
 > https://news.ycombinator.com/item?id=35716963
 

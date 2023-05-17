@@ -46,6 +46,15 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://github.com/dyrector-io/dyrectorio
+>
+
+https://gigatexal.blog/pages/getting-podman-on-ubuntu/getting-podman-on-ubuntu.html
+> https://news.ycombinator.com/item?id=35967691
+
+https://github.com/loft-sh/devpod
+> https://news.ycombinator.com/item?id=35964590
+
 https://github.com/89luca89/distrobox
 > https://news.ycombinator.com/item?id=35939240
 

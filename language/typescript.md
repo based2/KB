@@ -97,6 +97,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://bun.sh/blog/bun-v0.6.0
+
 https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/
 > https://news.ycombinator.com/item?id=35927282
 

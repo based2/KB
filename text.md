@@ -31,7 +31,10 @@ https://www.linuxjournal.com/article/6652 How to Index Anything
 
 https://github.com/valeriansaliou/sonic
 > https://news.ycombinator.com/item?id=33315237
- 
+
+https://blog.sqlitecloud.io/real-time-full-text-site-search-with-sqlite-fts5-extension
+> https://news.ycombinator.com/item?id=35975355
+
 ##
 https://neuml.github.io/txtai/workflow/
 > 

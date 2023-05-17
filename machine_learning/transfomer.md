@@ -8,6 +8,8 @@ https://kipp.ly/blog/transformer-inference-arithmetic/
 
 https://carolchen.me/blog/transformer-inference-arithmetic/
 
+https://news.ycombinator.com/item?id=35977891
+
 https://txt.cohere.ai/what-are-transformer-models/
 > https://news.ycombinator.com/item?id=35576918
 

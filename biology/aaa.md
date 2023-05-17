@@ -42,6 +42,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://phys.org/news/2023-05-large-scale-genetic-modification-method-reveals.html
+> https://news.ycombinator.com/item?id=35962468
+
 https://phys.org/news/2023-04-genomes-species-redefine-mammalian-tree.html
 > https://news.ycombinator.com/item?id=35924483
 

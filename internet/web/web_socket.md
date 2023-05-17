@@ -19,6 +19,8 @@ https://www.mnot.net/blog/2022/02/20/websockets
     
 SSE
 
+https://news.ycombinator.com/item?id=35953171
+
 https://germano.dev/sse-websockets/
 > https://news.ycombinator.com/item?id=30312897
 

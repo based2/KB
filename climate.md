@@ -67,6 +67,13 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.abc.net.au/news/2023-05-17/chevron-australia-carbon-capture-storage-gorgon-third-capacity/102357652
+
+https://www.bloomberg.com/news/articles/2023-04-27/global-climate-talks-target-reclusive-turkmenistan-over-methane 
+
+https://r744.com/co2-heat-pumps-found-to-offer-high-efficiency-at-low-ambient-temperature-in-electric-vehicles/
+> https://news.ycombinator.com/item?id=35968068
+
 https://www.kansascity.com/news/nation-world/national/article275377256.html
 
 https://www.channelnewsasia.com/singapore/heat-hot-temperature-37-degrees-celsius-record-highest-daily-maximum-3486581

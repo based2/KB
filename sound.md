@@ -30,6 +30,9 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://engineering.atspotify.com/2022/06/meet-basic-pitch/
+> https://news.ycombinator.com/item?id=35955934
+
 https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-cancelling-headphones-fix-yourself-bluetooth
 > https://news.ycombinator.com/item?id=35900369
 

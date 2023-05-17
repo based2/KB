@@ -20,6 +20,9 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://www.playhextraction.com/how-to-play
+> https://news.ycombinator.com/item?id=35945006
+
 https://ncase.me/door/
 > https://news.ycombinator.com/item?id=35800492
 

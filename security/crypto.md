@@ -171,6 +171,9 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://soatok.blog/2023/04/03/asymmetric-cryptographic-commitments/
+> https://news.ycombinator.com/item?id=35979333
+
 https://blog.dataparty.xyz/blog/wtf-is-a-kdf/
 > https://news.ycombinator.com/item?id=35673066
 

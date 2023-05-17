@@ -1,3 +1,5 @@
+https://vigilance.fr/vulnerabilite/Chrome-six-vulnerabilites-41275
+
 https://vigilance.fr/vulnerabilite/SnakeYAML-deni-de-service-via-Error-Pretty-printer-41256
 
 https://www.starlab.io/blog/dm-verity-in-embedded-device-security

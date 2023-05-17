@@ -283,6 +283,9 @@ https://github.com/borisdayma/dalle-mini
 https://openai.com/dall-e-2/
 > https://news.ycombinator.com/item?id=30932095
 
+https://stability.ai/blog/stablestudio-open-source-community-driven-future-dreamstudio-release
+> https://news.ycombinator.com/item?id=35975578
+
 # Detection
 https://github.com/WongKinYiu/yolov7
 
@@ -306,11 +309,15 @@ https://www.rf100.org/
 
 https://mmrotate.readthedocs.io/en/latest/
 
+https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
+
 # Color
 https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://news.ycombinator.com/item?id=35977053
+
 https://llava-vl.github.io/
 > https://news.ycombinator.com/item?id=35621023
 

@@ -87,6 +87,9 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # Incident
+https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage
+> https://news.ycombinator.com/item?id=35971986
+
 https://discuss.elastic.co/t/kibana-8-7-1-security-updates/332330
 
 https://vigilance.fr/vulnerabilite/Centreon-Web-multiples-vulnerabilites-40808
@@ -101,6 +104,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/hat-open/hat-syslog
+> https://news.ycombinator.com/item?id=35955155
+
 https://ivan-kurchenko.medium.com/telemetry-with-scala-part-3-otel4s-c5c150303164
 
 https://newsletter.pragmaticengineer.com/p/datadogs-65myear-customer-mystery

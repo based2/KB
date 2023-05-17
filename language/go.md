@@ -115,6 +115,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://github.com/golang/go/issues/58894  all: add opt-in transparent telemetry to Go toolchain #58894
+> https://news.ycombinator.com/item?id=35974653
+
 https://www.dolthub.com/blog/2023-04-14-keep-calm-and-panic/
 
 https://lemire.me/blog/2023/04/14/interfaces-are-not-free-in-go/

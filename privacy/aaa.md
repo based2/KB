@@ -99,6 +99,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://arstechnica.com/information-technology/2023/05/microsoft-is-scanning-the-inside-of-password-protected-zip-files-for-malware/
+> https://news.ycombinator.com/item?id=35968852
+
 https://www.science.org/content/article/benchtop-dna-printers-are-coming-soon-and-biosecurity-experts-are-worried
 > https://news.ycombinator.com/item?id=35946161
 

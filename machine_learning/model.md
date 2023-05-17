@@ -52,6 +52,15 @@ https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
 #
+https://github.com/eth-sri/lmql
+> https://news.ycombinator.com/item?id=35956484
+
+https://news.ycombinator.com/item?id=35976415
+> https://news.ycombinator.com/item?id=35976415
+
+https://github.com/microsoft/guidance
+> https://news.ycombinator.com/item?id=35963936
+
 https://eugeneyan.com/writing/open-llms/
 > https://news.ycombinator.com/item?id=35947556
 
