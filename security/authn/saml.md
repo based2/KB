@@ -2,3 +2,5 @@ https://saml.to/
 > https://news.ycombinator.com/item?id=29808203
 
 AWS SAML signature limitation
+
+https://nodauf.dev/p/practical-guide-for-golden-saml/

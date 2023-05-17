@@ -58,6 +58,23 @@ https://github.com/Azure/azure-cli/security/advisories/GHSA-47xc-9rr2-q7p4
 https://msrc-blog.microsoft.com/2022/10/19/investigation-regarding-misconfigured-microsoft-storage-location-2/
 > https://news.ycombinator.com/item?id=33297000
 
+https://orca.security/resources/blog/synlapse-critical-azure-synapse-analytics-service-vulnerability/
+
+https://www.theregister.com/2022/03/30/sentinelone_microsoft_azure_iot/
+
+https://orca.security/resources/blog/autowarp-microsoft-azure-automation-service-vulnerability/
+> https://news.ycombinator.com/item?id=30589845
+
+https://unit42.paloaltonetworks.com/azure-container-instances/
+
+https://www.bleepingcomputer.com/news/security/omigod-microsoft-azure-vms-exploited-to-drop-mirai-miners/
+
+https://zolder.io/public-sharepoint-sites-the-new-open-shares/
+
+https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-under-exploitation/
+
+https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
+
 #
 https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/howto-enforce-signed-saml-authentication preview authn
 

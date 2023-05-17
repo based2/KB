@@ -151,3 +151,8 @@ https://shopify.engineering/relationships-between-ruby-top-100-packages-dependen
 > https://news.ycombinator.com/item?id=33276137
 
 https://www.reddit.com/r/programming/comments/xk3yuw/even_with_dryrun_pip_will_execute_arbitrary_code/
+
+https://therecord.media/npm-enrolls-top-100-package-maintainers-into-mandatory-2fa/
+> https://github.blog/2021-12-07-enrolling-npm-publishers-enhanced-login-verification-two-factor-authentication-enforcement/
+> https://snyk.io/blog/peacenotwar-malicious-npm-node-ipc-package-vulnerability/
+> > https://www.reddit.com/r/netsec/comments/tfvsxp/npm_supply_chain_attack_nodeipc_and_peacenotwar/

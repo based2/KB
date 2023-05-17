@@ -158,3 +158,141 @@ https://www.bleepingcomputer.com/news/microsoft/microsoft-winget-package-manager
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-proxynotshell-exchange-zero-days-exploited-in-attacks/
 > https://www.theregister.com/2023/03/27/nyc_lawyers_security_data/
+
+https://www.bleepingcomputer.com/news/microsoft/actively-exploited-windows-motw-zero-day-gets-unofficial-patch/
+
+https://arstechnica.com/information-technology/2022/10/researchers-id-12k-microsoft-servers-that-are-a-ddosers-best-friend/
+> https://news.ycombinator.com/item?id=33379021
+
+https://arstechnica.com/information-technology/2022/10/how-a-microsoft-blunder-opened-millions-of-pcs-to-potent-malware-attacks/
+> https://news.ycombinator.com/item?id=33211945
+
+https://labs.withsecure.com/advisories/microsoft-office-365-message-encryption-insecure-mode-of-operation
+> https://news.ycombinator.com/item?id=33203253
+> https://www.theregister.com/2022/10/14/microsoft_office_365_message_encryption/
+
+https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5017308-causing-issues-with-group-policy-settings/
+
+https://arstechnica.com/information-technology/2022/09/microsoft-teams-stores-cleartext-auth-tokens-wont-be-quickly-patched/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2022-patch-tuesday-fixes-zero-day-used-in-attacks-63-flaws/
+
+https://github.com/winterknife/PINKPANTHER Windows x64 handcrafted token stealing kernel-mode shellcode
+
+https://www.bleepingcomputer.com/news/microsoft/new-dfscoerce-ntlm-relay-attack-allows-windows-domain-takeover/
+
+https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-042.pdf CVE-2022-30136 Critical Vulnerability in Windows NFS
+
+https://www.reddit.com/r/programming/comments/veigea/a_microsoft_office_365_feature_could_help/
+
+https://techcommunity.microsoft.com/t5/security-compliance-and-identity/alert-when-a-group-is-added-to-a-sensitive-active-directory/ba-p/3436868
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-better-security-defaults-for-all-azure-ad-tenants/
+
+https://www.bleepingcomputer.com/news/security/microsoft-detects-massive-surge-in-linux-xorddos-malware-activity/
+
+https://www.bleepingcomputer.com/news/security/microsoft-teams-windows-11-hacked-on-first-day-of-pwn2own/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-emergency-updates-fix-windows-ad-authentication-issues/
+
+https://www.bleepingcomputer.com/news/security/windows-11-tool-to-add-google-play-secretly-installed-malware/
+
+https://www.theregister.com/2022/05/11/microsoft_patch_tuesday/
+> https://www.bleepingcomputer.com/news/microsoft/microsoft-may-windows-updates-cause-ad-authentication-failures/
+
+https://remyhax.xyz/posts/do-harm/ Windows Delivery Optimization
+> https://www.reddit.com/r/netsec/comments/uh5klt/doing_harm/
+
+https://research.ifcr.dk/certifried-active-directory-domain-privilege-escalation-cve-2022-26923-9e098fe298f4
+> https://www.specterops.io/assets/resources/Certified_Pre-Owned.pdf
+> https://posts.specterops.io/certified-pre-owned-d95910965cd2
+> https://www.reddit.com/r/netsec/comments/umsbzx/certifried_active_directory_domain_privilege/
+
+https://cybergeeks.tech/powershell-scripts-used-to-run-malicious-shellcode-reverse-shell-vs-bind-shell/
+
+https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-026.pdf Security Advisory 2022-026 Critical Vulnerabilities in Microsoft Windows April 13, 2022 — v1.0
+> https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5012592-update-brings-default-browser-improvements/
+> https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2022-patch-tuesday-fixes-119-flaws-2-zero-days/
+> https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5012599-and-kb5012591-updates-released/
+> https://therecord.media/experts-warn-of-concerns-around-microsoft-rpc-bug/?web_view=true
+> > https://www.cert.ssi.gouv.fr/alerte/CERTFR-2022-ALE-003/
+> https://www.bleepingcomputer.com/news/microsoft/critical-windows-rpc-cve-2022-26809-flaw-raises-concerns-patch-now/
+> https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2022-24536 DNS RCE
+
+https://www.bleepingcomputer.com/news/microsoft/windows-zero-day-flaw-giving-admin-rights-gets-unofficial-patch-again/
+
+https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-a-bitlocker-exclusion-policy-for-usb-drives/
+
+https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-elevation-de-privileges-37828
+
+https://www.bleepingcomputer.com/news/security/microsoft-defender-tags-office-updates-as-ransomware-activity/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/
+> https://news.ycombinator.com/item?id=30675908
+
+https://0ut3r.space/2022/03/06/windows-defender/
+> https://news.ycombinator.com/item?id=30580444
+
+https://www.tomshardware.com/news/windows-data-wiping-tool-leaves-data-on-disk
+> https://news.ycombinator.com/item?id=30440757
+
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-22005 SharePoint RCE
+
+https://www.bleepingcomputer.com/news/security/cisa-urges-orgs-to-patch-actively-exploited-windows-serioussam-bug/
+
+https://research.ifcr.dk/spoolfool-windows-print-spooler-privilege-escalation-cve-2022-22718-bf7752b68d81
+> https://www.reddit.com/r/netsec/comments/snu42f/spoolfool_windows_print_spooler_privilege/
+
+https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-patch-actively-exploited-windows-bug/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-new-critical-windows-http-vulnerability-is-wormable/
+
+https://www.microsoft.com/security/blog/2022/01/10/new-macos-vulnerability-powerdir-could-lead-to-unauthorized-user-data-access/
+
+https://billdemirkapi.me/unpacking-cve-2021-40444-microsoft-office-rce/
+> https://news.ycombinator.com/item?id=29854983
+
+https://goteleport.com/blog/passwordless-remote-access-to-windows-servers/
+
+https://positive.security/blog/ms-officecmd-rce
+> https://www.reddit.com/r/netsec/comments/raxp38/windows_10_rce_the_exploit_is_in_the_link/
+
+https://www.synack.com/blog/this-microsoft-windows-rce-vulnerability-gives-an-attacker-complete-control/ CVE-2021-34535
+> https://news.ycombinator.com/item?id=29422434
+
+https://www.gosecure.net/blog/2021/11/22/gosecure-investigates-abusing-windows-server-update-services-wsus-to-enable-ntlm-relaying-attacks/
+
+https://googleprojectzero.blogspot.com/2021/10/using-kerberos-for-authentication-relay.html
+
+https://www.microsoft.com/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/
+
+https://hothardware.com/news/microsoft-hosting-malware-on-office365-and-onedrive
+
+https://therecord.media/windows-10-ios-15-ubuntu-chrome-fall-at-chinas-tianfu-hacking-contest/
+
+https://www.theregister.com/2021/09/27/microsoft_exchange_autodiscover/
+
+https://msrc-blog.microsoft.com/2020/05/13/solving-uninitialized-stack-memory-on-windows/
+
+https://research.nccgroup.com/2021/07/15/cve-2021-31956-exploiting-the-windows-kernel-ntfs-with-wnf-part-1/
+
+https://www.bleepingcomputer.com/news/security/microsoft-365-to-let-secops-lock-hacked-active-directory-accounts/
+
+https://github.com/afwu/PrintNightmare CVE-2021-1675: Remote code execution in Windows Spooler Service
+> https://www.reddit.com/r/netsec/comments/oadasi/printnightmare_cve20211675_remote_code_execution/
+> https://blog.0patch.com/2021/07/free-micropatches-for-printnightmare.html
+> https://www.reddit.com/r/netsec/comments/ocau2t/free_micropatches_for_printnightmare/
+> > https://arstechnica.com/gadgets/2021/07/microsofts-emergency-patch-fails-to-fix-critical-printnightmare-vulnerability/
+> https://krebsonsecurity.com/2021/07/microsoft-issues-emergency-patch-for-windows-flaw/
+> > https://news.ycombinator.com/item?id=27761601
+> https://github.com/byt3bl33d3r/ItWasAllADream
+> https://blog.cymulate.com/printnightmare-cve/
+> https://www.reddit.com/r/netsec/comments/pdqmpe/what_you_need_to_know_about_printnightmare/
+> https://www.reddit.com/r/sysadmin/comments/pymph2/what_are_you_currently_doing_to_handle_printing/
+> https://www.reddit.com/r/sysadmin/comments/pynmps/i_might_lose_my_job_because_of_microsofts_gross/
+
+https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-microsoft-teams-through-malicious-tabs-a7e5ff07b138
+
+https://makosecblog.com/malware-dev/dll-unhooking-csharp/
+
+https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/

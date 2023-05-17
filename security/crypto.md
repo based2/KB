@@ -165,7 +165,6 @@ https://www.grc.com/otg/uheprng.htm
 > https://news.ycombinator.com/item?id=34786921
 
 https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
->
 
 #
 https://en.wikipedia.org/wiki/Forward_secrecy
@@ -212,6 +211,8 @@ https://arxiv.org/abs/cond-mat/0208453 Neural Cryptography
 https://eprint.iacr.org/2023/040.pdf
 
 https://notes.ekzhang.com/papers/moral-crypto
+
+https://www.schneier.com/blog/archives/2022/08/nists-post-quantum-cryptography-standards.html
 
 https://eprint.iacr.org/2023/032.pdf A Gentle Tutorial for Lattice-Based Cryptanalysis
 > https://news.ycombinator.com/item?id=34458975

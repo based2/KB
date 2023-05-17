@@ -65,3 +65,5 @@ https://hardenedvault.net/blog/2023-04-18-java-card-runtime-memory-corruption/
 https://cloud.google.com/blog/products/identity-security/rsa-google-intel-confidential-computing-more-secure?hl=en
 
 https://services.google.com/fh/files/misc/intel_tdx_-_full_report_041423.pdf
+
+https://lwn.net/Articles/877607/ FIPS-compliant random numbers for the kernel

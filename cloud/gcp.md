@@ -43,6 +43,14 @@ https://issuetracker.google.com/issues/268606830?pli=1 5M item limit for Google 
 https://securityintelligence.com/posts/attacker-achieve-persistence-google-cloud-platform-cloud-shell/
 > https://www.reddit.com/r/netsec/comments/ya7ryu/how_an_attacker_can_achieve_persistence_in_google/
 
+https://kloudle.com/blog/piercing-the-cloud-armor-the-8kb-bypass-in-google-cloud-platform-waf
+> https://portswigger.net/daily-swig/google-waf-bypassed-via-oversized-post-requests
+> https://www.reddit.com/r/netsec/comments/t5k0qt/bypassing_googles_cloud_armor_firewall_with_an_8/
+> https://news.ycombinator.com/item?id=30649328
+
+https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-google-cloud-ssrf/
+> https://news.ycombinator.com/item?id=29847033
+
 # News
 https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio
 > https://news.ycombinator.com/item?id=35924997

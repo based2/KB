@@ -23,6 +23,10 @@ https://buoyant.io/mtls-guide/
 
 https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/
 
+https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/
+> https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/0/CTR_Kubernetes_Hardening_Guidance_1.1_20220315.PDF
+> https://www.reddit.com/r/netsec/comments/teulap/nsa_cisa_release_updated_kubernetes_hardening/
+
 # Scanner
 https://github.com/quay/clair Red Hat
 

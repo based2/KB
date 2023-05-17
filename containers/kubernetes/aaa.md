@@ -75,6 +75,16 @@ https://raesene.github.io/blog/2022/12/21/Kubernetes-persistence-with-Tocan-and-
 https://www.armosec.io/blog/cve-2022-47633-kyvernos-container-image-signature-verification/
 > https://www.reddit.com/r/kubernetes/comments/zshfp4/cve202247633_kyvernos_signature_verification_can/
 
+https://thehackernews.com/2022/03/new-vulnerability-in-cri-o-engine-lets.html?m=1
+> https://news.ycombinator.com/item?id=30721877
+> https://www.crowdstrike.com/blog/cr8escape-new-vulnerability-discovered-in-cri-o-container-engine-cve-2022-0811/
+> https://sysdig.com/blog/cve-2022-0811-cri-o/
+> > https://www.reddit.com/r/netsec/comments/tg8ex1/mitigating_cve20220811_arbitrary_code_execution/
+
+https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
+> https://blog.aquasec.com/cve-2022-0185-linux-kernel-container-escape-in-kubernetes
+> https://pwning.systems/posts/escaping-containers-for-fun/
+
 # News
 https://news.ycombinator.com/item?id=35971454
 

@@ -34,6 +34,13 @@ https://medium.com/@jewbixcube/paypal-allows-bypassing-two-factor-auth-with-a-bu
 
 https://cube0x0.github.io/Relaying-YubiKeys/
 
+https://shkspr.mobi/blog/2022/03/whats-the-risk-from-fake-yubikeys/
+> https://www.blackhillsinfosec.com/how-to-weaponize-the-yubikey/
+> https://news.ycombinator.com/item?id=30577162
+
+https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-targeting-microsoft-office-365-users/
+> https://news.ycombinator.com/item?id=30363537
+
 # News
 https://lobste.rs/s/azphsq/experimenting_with_multi_factor
 

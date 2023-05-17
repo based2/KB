@@ -13,7 +13,6 @@ https://support.apple.com/en-us/HT213723 ios
 https://www.theregister.com/2023/04/10/apple_fix_ios_macos/
 
 https://citizenlab.ca/2023/04/nso-groups-pegasus-spyware-returns-in-2022/
-> 
 
 https://www.zerodayinitiative.com/blog/2023/4/5/bash-privileged-mode-vulnerabilities-in-parallels-desktop-and-cdpath-handling-in-macos
 
@@ -69,3 +68,68 @@ https://lapcatsoftware.com/articles/MontereyCVE.html
 
 https://theevilbit.github.io/posts/cve-2022-32929/ Bypass iOS backup's TCC protection
 > https://news.ycombinator.com/item?id=33611738
+
+https://lapcatsoftware.com/articles/bluetooth.html apple
+> https://news.ycombinator.com/item?id=32181165
+
+https://www.bleepingcomputer.com/news/security/new-cloudmensis-malware-backdoors-macs-to-steal-victims-data/
+
+https://www.bleepingcomputer.com/news/security/microsoft-releases-poc-exploit-for-macos-sandbox-escape-vulnerability/
+
+https://www.apple.com/newsroom/2022/07/apple-expands-commitment-to-protect-users-from-mercenary-spyware/
+> https://news.ycombinator.com/item?id=32003756
+
+https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concepts for Linus Henze's CoreTrust and DriverKit bugs (CVE-2022-26766, CVE-2022-26763)
+
+https://www.sentinelone.com/blog/apples-macos-ventura-7-new-security-changes-to-be-aware-of/
+> https://news.ycombinator.com/item?id=31799922
+
+https://sensorstechforum.com/cve-2022-22675-vulnerability/ ios macos
+
+https://support.apple.com/en-us/HT213219 About the security content of iOS 15.4.1 and iPadOS 15.4.1
+> https://news.ycombinator.com/item?id=30870744
+> https://sensorstechforum.com/cve-2022-22675-kernel-privileges/
+> https://www.bleepingcomputer.com/news/security/apple-emergency-update-fixes-zero-days-used-to-hack-iphones-macs/
+
+https://blog.svenpeter.dev/posts/m1_sprr_gxf/ Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels (GXF)
+> https://news.ycombinator.com/item?id=27078614
+
+https://www.theregister.com/2022/02/22/apple_airtags_protections_bypass/
+> https://www.schneier.com/blog/archives/2022/02/bypassing-apples-airtag-security.html
+
+https://9to5mac.com/2022/02/17/t2-mac-security-vulnerability-passware/
+> https://news.ycombinator.com/item?id=30374224
+
+https://support.apple.com/en-gb/HT213053 About the security content of iOS 15.3 and iPadOS 15.3
+
+https://support.apple.com/en-us/HT213054 About the security content of macOS Monterey 12.2
+> https://news.ycombinator.com/item?id=30091980
+
+https://www.ryanpickren.com/safari-uxss
+> https://news.ycombinator.com/item?id=30076309
+
+https://fingerprintjs.com/blog/indexeddb-api-browser-vulnerability-safari-15/
+> https://news.ycombinator.com/item?id=29947396
+
+https://arstechnica.com/information-technology/2022/01/5-months-on-apple-has-yet-to-fix-ios-bug-that-sends-devices-into-a-crash-spiral/
+> https://news.ycombinator.com/item?id=29762490
+> https://news.ycombinator.com/item?id=29840431
+
+https://www.blackhat.com/asia-21/briefings/schedule/index.html#apple-neural-engine-internal-from-ml-algorithm-to-hw-registers-22039 FaceID
+> https://news.ycombinator.com/item?id=29483347
+> > https://www.youtube.com/watch?v=1wvBDUnPNEo
+> > > https://stackoverflow.com/questions/10061532/why-choose-sha512-over-sha384
+> > > > https://en.wikipedia.org/wiki/Length_extension_attack
+
+https://developer.apple.com/forums/thread/682332
+> https://news.ycombinator.com/item?id=29303023
+
+https://medium.com/@bobbyrsec/zero-day-hijacking-icloud-credentials-with-apple-airtags-stored-xss-6997da43a216
+> https://news.ycombinator.com/item?id=28684660
+
+https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/
+> https://news.ycombinator.com/item?id=28690929
+
+https://habr.com/en/post/579714/ iOS
+> https://news.ycombinator.com/item?id=28637276
+> https://support.apple.com/en-us/HT212807 https://support.apple.com/en-us/HT212601

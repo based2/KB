@@ -94,6 +94,30 @@ https://frichetten.com/blog/xss_in_aws_console/
 > https://www.reddit.com/r/netsec/comments/nrlln6/xss_in_the_aws_console/
 https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in-aws
 
+https://sysdig.com/blog/aws-secure-ssh-ec2-threats/
+> https://www.reddit.com/r/netsec/comments/vc5zeg/what_if_you_dont_secure_ssh_on_ec2_analysis_of/
+
+https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
+> https://www.reddit.com/r/netsec/comments/u1zl4k/cve202225165_privilege_escalation_to_system_in/
+
+https://blog.lightspin.io/aws-rds-critical-security-vulnerability
+> https://www.reddit.com/r/netsec/comments/u1kgfw/aws_rds_vulnerability_leads_to_aws_internal/
+> > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-004/
+> https://portswigger.net/daily-swig/internal-aws-credentials-swiped-by-researcher-via-sql-payload
+> > https://www.reddit.com/r/programming/comments/u2nory/internal_aws_credentials_swiped_by_researcher_via/
+
+https://www.cloudyali.io/blogs/finding-unencrypted-aws-ebs-volumes-at-scale
+
+https://alas.aws.amazon.com/cve/html/CVE-2021-44790.html Amazon Linux
+> https://access.redhat.com/security/cve/CVE-2021-44790
+
+https://orca.security/resources/blog/aws-cloudformation-vulnerability/
+> https://news.ycombinator.com/item?id=29922522
+
+https://orca.security/resources/blog/aws-glue-vulnerability/
+> https://news.ycombinator.com/item?id=29923004
+> https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
+
 # News
 https://github.com/open-guides/og-aws
 

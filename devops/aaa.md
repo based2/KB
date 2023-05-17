@@ -317,6 +317,27 @@ https://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm
 https://travis-ci.community/t/security-bulletin/12081
 > https://news.ycombinator.com/item?id=28523350
 
+https://liman.io/blog/gitlab-security-vulnerability-jupyter-notebooks
+
+https://news.ycombinator.com/item?id=30938036 GitHub and Gitlab exposes all user's public SSH keys
+> https://rushter.com/blog/public-ssh-keys/
+
+https://about.gitlab.com/releases/2022/03/31/critical-security-release-gitlab-14-9-2-released/
+> https://www.bleepingcomputer.com/news/security/critical-gitlab-vulnerability-lets-attackers-take-over-accounts/
+> > https://news.ycombinator.com/item?id=30878924
+> https://news.ycombinator.com/item?id=30872415
+> https://www.cert.ssi.gouv.fr/avis/CERTFR-2022-AVI-304/
+> https://www.theregister.com/2022/04/01/gitlab_security_advisory/
+> https://media.cert.europa.eu/static/SecurityAdvisories/2022/CERT-EU-SA2022-024.pdf
+
+https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/
+> https://news.ycombinator.com/item?id=30478636
+
+https://github.blog/2022-04-12-git-security-vulnerability-announced/ CVE-2022-24765 affects users working on multi-user machines where a malicious actor could create a .git directory in a shared location above a victim’s current working directory
+> https://news.ycombinator.com/item?id=31009675
+
+https://about.gitlab.com/releases/2022/02/03/security-release-gitlab-14-7-1-released/
+
 SourceForge nobody Apache HTTPD configuration
 
 # New versions

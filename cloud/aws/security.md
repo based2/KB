@@ -100,3 +100,5 @@ https://github.com/SummitRoute/imdsv2_wall_of_shame
 https://github.com/awslabs/aws-security-assessment-solution
 
 https://github.com/awslabs/aws-waf-security-automations
+
+https://aws.amazon.com/en/blogs/opensource/aws-investing-an-additional-10-million-in-open-source-supply-chain-security/
