@@ -1,3 +1,6 @@
+https://github.com/ray-project/llm-numbers
+> https://news.ycombinator.com/item?id=35978864
+
 https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
 > https://news.ycombinator.com/item?id=35227358
 
@@ -35,3 +38,6 @@ https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting
 
 https://austinhenley.com/blog/futureofprogramming2023.html
 > https://news.ycombinator.com/item?id=35731539
+
+https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized
+> https://news.ycombinator.com/item?id=35983707

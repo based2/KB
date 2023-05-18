@@ -71,6 +71,8 @@ https://www.youtube.com/watch?v=4ELJDEjDpqk
 https://sanket.tech/posts/invert_binary_tree_assembly/
 > https://news.ycombinator.com/item?id=33732071
 
+https://news.ycombinator.com/item?id=35979374
+
 # binary index trees (Fenwick trees)
 https://jornhub.dev/articles/fenwick-trees/
 > https://news.ycombinator.com/item?id=28354637

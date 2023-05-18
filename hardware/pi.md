@@ -14,6 +14,8 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://arstechnica.com/gadgets/2023/05/raspberry-pi-ceo-supply-should-be-unconstrained-in-second-half-of-2023/
+
 https://www.phoronix.com/review/orange-pi-5
 > https://news.ycombinator.com/item?id=35298339
 

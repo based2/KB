@@ -99,6 +99,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://xteddy.org/lsm/
+> https://news.ycombinator.com/item?id=35992593
+
 https://www.makeuseof.com/things-you-can-do-with-kde-connect-on-linux/
 > https://news.ycombinator.com/item?id=35917030
 

@@ -65,6 +65,9 @@ https://www.cs.unm.edu/~brayer/vision/fourier.html
 > https://news.ycombinator.com/item?id=35945234
 
 # Photography
+https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/
+> https://news.ycombinator.com/item?id=35972047
+
 https://www.digikam.org/news/2023-04-16-8.0.0_release_announcement/
 
 https://www.photoprism.app/

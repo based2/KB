@@ -125,6 +125,12 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://xmorphic.dev/
+> https://news.ycombinator.com/item?id=35956474
+
+https://garden.bradwoods.io/notes/css/blend-modes
+> https://news.ycombinator.com/item?id=35993094
+
 https://webkit.org/blog/13813/try-css-nesting-today-in-safari-technology-preview/
 > https://news.ycombinator.com/item?id=34814070
 

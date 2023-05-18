@@ -1,3 +1,5 @@
+https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
+
 https://yingqianwang.github.io/DistgLF/
 
 https://filter.mot.omg.lol/
@@ -309,7 +311,7 @@ https://www.rf100.org/
 
 https://mmrotate.readthedocs.io/en/latest/
 
-https://www.midjourney.com/home/?callbackUrl=%2Fapp%2F
+https://blog.roboflow.com/yolo-nas-how-to-train-on-custom-dataset/
 
 # Color
 https://palette.fm/

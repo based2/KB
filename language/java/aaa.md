@@ -240,6 +240,8 @@ https://github.com/quarkusio/quarkus/issues/10298
 
 https://www.jrebel.com/products/jrebel $
 
+https://news.ycombinator.com/item?id=35972112
+
 # Data
 http://adambien.blog/roller/abien/entry/combining_jsonobjects_with_jsonmerge_and
 

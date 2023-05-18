@@ -1,3 +1,6 @@
+https://www.bloomberg.com/news/features/2023-05-18/apple-s-mixed-reality-headset-may-define-tim-cook-s-legacy
+> https://news.ycombinator.com/item?id=35987545
+
 https://news.ycombinator.com/item?id=35692829
 
 https://www.katsnyderux.com/post/visual-attention-in-virtual-reality

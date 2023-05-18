@@ -122,6 +122,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://penvm.dev/
+> https://news.ycombinator.com/item?id=35979133
+
 https://hpbn.co/
 > https://news.ycombinator.com/item?id=35937554
 

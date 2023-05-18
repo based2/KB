@@ -59,6 +59,9 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/
+> https://news.ycombinator.com/item?id=35982507
+
 https://bigthink.com/starts-with-a-bang/betelgeuse-explode/
 > https://news.ycombinator.com/item?id=35951029
 

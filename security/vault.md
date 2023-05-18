@@ -54,6 +54,8 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://vigilance.fr/vulnerabilite/KeePass-obtention-d-information-via-Password-Leftover-Character-41257
+
 https://ambiso.github.io/bitwarden-pin/
 > https://news.ycombinator.com/item?id=35219281
 

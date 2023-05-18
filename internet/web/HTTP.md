@@ -170,6 +170,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408
+> https://news.ycombinator.com/item?id=35982732
+
 https://blog.adamchalmers.com/multipart/
 
 https://csvbase.com/blog/2 How does it know I want csv? — An HTTP trick

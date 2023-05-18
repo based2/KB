@@ -46,6 +46,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://fale.io/blog/2023/05/17/manage-podman-containers-with-systemd-and-quadlet
+
+https://github.com/abiosoft/colima
+> https://news.ycombinator.com/item?id=35983349
+
 https://github.com/dyrector-io/dyrectorio
 >
 

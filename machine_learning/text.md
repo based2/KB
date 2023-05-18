@@ -13,6 +13,11 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://arxiv.org/abs/2305.07759  How Small Can Language Models Be and Still Speak Coherent English?
+> https://news.ycombinator.com/item?id=35958133
+
+https://kai-greshake.de/posts/inject-my-pdf/
+
 https://news.ycombinator.com/item?id=35946260
 
 https://www.thisworddoesnotexist.com/

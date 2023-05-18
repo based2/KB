@@ -19,6 +19,8 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://docs.kernel.org/admin-guide/tainted-kernels.html
+
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=a5624566431de76b17862383d9ae254d9606cba9
 > https://news.ycombinator.com/item?id=35936963
 

@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.jezzamon.com/fourier/
+> https://news.ycombinator.com/item?id=35973408
+
 https://incoherency.co.uk/blog/stories/krc-2-regenerative-receiver-review.html
 > https://news.ycombinator.com/item?id=35699311
 

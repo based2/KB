@@ -330,6 +330,11 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/
+
+https://blog.cloudflare.com/langchain-and-cloudflare/
+> https://news.ycombinator.com/item?id=35987413
+
 https://www.anthropic.com/index/claudes-constitution
 
 https://artificialintelligenceact.eu/

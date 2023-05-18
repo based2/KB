@@ -150,6 +150,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://arstechnica.com/tech-policy/2023/05/telcos-detail-plan-to-charge-big-tech-firms-for-access-to-internet-users/
+> https://news.ycombinator.com/item?id=35991990
+
 https://sunbeamwireless.com/
 > https://news.ycombinator.com/item?id=35868552
 

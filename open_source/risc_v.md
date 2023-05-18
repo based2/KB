@@ -4,6 +4,8 @@ https://github.com/LekKit/RVVM
 https://github.com/OpenXiangShan/XiangShan
 > https://news.ycombinator.com/item?id=35312960
 
+https://www.jeffgeerling.com/blog/2023/what-eben-upton-said-about-risc-v
+
 https://news.ycombinator.com/item?id=35951867
 
 https://news.ycombinator.com/item?id=35869778

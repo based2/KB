@@ -90,6 +90,9 @@ https://vlcn.io/blog/gentle-intro-to-crdts.html
 
 https://news.ycombinator.com/item?id=35530040
 
+https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-Fugue-c49ef2a411c0404196170ac8daf066c0
+> https://news.ycombinator.com/item?id=35988046
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

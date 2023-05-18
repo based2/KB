@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=Xkh5sa3vjTE&t=206s Sealed class
 
 https://blogs.oracle.com/javamagazine/post/java-class-file-constant-pool
 > https://www.reddit.com/r/java/comments/t9ohpb/inside_java_class_files_understanding_the/
+
+https://software.rajivprab.com/2019/08/14/nuances-of-overloading-and-overriding-in-java/
+> https://news.ycombinator.com/item?id=35989696

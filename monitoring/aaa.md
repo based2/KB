@@ -104,6 +104,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://www.pulumi.com/blog/reducing-our-error-rate/
+> https://news.ycombinator.com/item?id=35983024
+
 https://github.com/hat-open/hat-syslog
 > https://news.ycombinator.com/item?id=35955155
 
@@ -358,7 +361,6 @@ https://sobolevn.me/2020/03/do-not-log
 > https://news.ycombinator.com/item?id=29810389
 
 https://safing.io/portmaster/
->
 
 https://github.com/theicfire/logregex
 > https://news.ycombinator.com/item?id=29741250

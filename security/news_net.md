@@ -4,6 +4,9 @@ https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 
 #
+https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/
+> https://news.ycombinator.com/item?id=35983866
+
 https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-switch-bugs-with-public-exploit-code/
 
 https://github.com/SysSec-KAIST/LTESniffer
