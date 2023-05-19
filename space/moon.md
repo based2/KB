@@ -133,3 +133,5 @@ https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Opening_a_
 https://news.northropgrumman.com/news/releases/northrop-grumman-announces-team-for-nasas-next-generation-lunar-terrain-vehicle
 > https://news.ycombinator.com/item?id=29297825
 
+https://www.nasa.gov/press-release/nasa-selects-blue-origin-as-second-artemis-lunar-lander-provider
+> https://news.ycombinator.com/item?id=36003735

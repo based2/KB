@@ -64,6 +64,8 @@ https://clipdrop.co/relight
 https://www.cs.unm.edu/~brayer/vision/fourier.html
 > https://news.ycombinator.com/item?id=35945234
 
+https://github.com/OpenStitching/stitching
+
 # Photography
 https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/
 > https://news.ycombinator.com/item?id=35972047

@@ -33,6 +33,9 @@ https://dl.acm.org/doi/pdf/10.1145/3519939.3523443 A Flexible Type System for Fe
 
 https://www.reddit.com/r/scala/comments/13i9ayb/the_great_concurrency_smackdown_zio_versus_jdk_by/
 
+https://tonsky.me/blog/humble-signals/
+> https://news.ycombinator.com/item?id=35973151
+
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815

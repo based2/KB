@@ -370,6 +370,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://timor.site/2023/04/the-best-way-to-get-nvm-working-in-ci/cd-systems/
+> https://news.ycombinator.com/item?id=35999822
+
+https://github.com/Blue-Secure/ssh-login-teams-alert-webhook
+> https://news.ycombinator.com/item?id=36000027
+
 https://anvaka.github.io/map-of-github/#2/0/0
 > https://news.ycombinator.com/item?id=35931402
 

@@ -327,6 +327,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/nature-lang/nature
+
 https://bitfieldconsulting.com/golang/crisp-code
 
 https://www.amazingcto.com/best-way-to-handle-errors-for-a-programming-language/

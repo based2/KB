@@ -74,6 +74,9 @@ https://github.com/microsoft/visual-chatgpt
 https://thenumb.at/Neural-Graphics/
 > https://news.ycombinator.com/item?id=35374117
 
+https://vcai.mpi-inf.mpg.de/projects/DragGAN/
+> https://news.ycombinator.com/item?id=35998649
+
 # Data
 https://github.com/allenai/mmc4
 > https://news.ycombinator.com/item?id=35619159

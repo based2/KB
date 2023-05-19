@@ -47,6 +47,8 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://www.etsy.com/codeascraft/code-as-craft-blog-post-docs-as-code-at-etsy
+
 https://news.ycombinator.com/item?id=35582854
 
 https://github.com/context-labs/autodoc ai ts

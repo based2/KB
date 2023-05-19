@@ -26,6 +26,8 @@ https://simonhearne.com/2021/layout-shifts-webfonts/
 > https://news.ycombinator.com/item?id=30129571
 
 #
+https://news.ycombinator.com/item?id=35985085
+
 https://uxtools.co/challenges/
 
 # Gesture

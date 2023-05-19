@@ -53,6 +53,8 @@ https://news.ycombinator.com/item?id=35525222
 https://matklad.github.io/2023/02/12/a-love-letter-to-deno.html
 > https://news.ycombinator.com/item?id=34767795
 
+https://github.com/astrodon/astrodon
+
 https://deno.com/blog/the-future-and-past-is-server-side-rendering
 > https://news.ycombinator.com/item?id=34644558
 
@@ -97,6 +99,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-rc/
+
 https://bun.sh/blog/bun-v0.6.0
 
 https://devblogs.microsoft.com/typescript/introducing-deopt-explorer/

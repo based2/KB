@@ -44,6 +44,9 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/Xfennec/progress
+> https://news.ycombinator.com/item?id=36000407
+
 https://rome.tools/blog/2023/05/10/rome12_1/ formatting, in rust
 > https://news.ycombinator.com/item?id=35929195
 

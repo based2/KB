@@ -125,6 +125,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.cs.nott.ac.uk/~pszgmh/choice-trees.pdf Calculating Compilers for Concurrency
+
 https://www.infoq.com/news/2023/05/gcc13-c2x-features/
 > https://news.ycombinator.com/item?id=35949368
 

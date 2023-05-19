@@ -26,6 +26,9 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://michal.sapka.me/2023/passkeys/
+> https://news.ycombinator.com/item?id=35973591
+
 https://blog.1password.com/passage-by-1password/
 > https://news.ycombinator.com/item?id=35988348
 

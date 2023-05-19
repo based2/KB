@@ -41,3 +41,6 @@ https://austinhenley.com/blog/futureofprogramming2023.html
 
 https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized
 > https://news.ycombinator.com/item?id=35983707
+
+https://simonwillison.net/2023/May/18/cli-tools-for-llms/
+> https://news.ycombinator.com/item?id=35994037

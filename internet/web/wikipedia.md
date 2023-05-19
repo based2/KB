@@ -52,6 +52,8 @@ https://news.ycombinator.com/item?id=30392849
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://en.wikiversity.org/wiki/Wikiversity:Main_Page
+
 https://www.jamez.it/project/wikibinge/
 > https://news.ycombinator.com/item?id=35572434
 

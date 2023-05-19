@@ -1,3 +1,14 @@
+https://www.usenix.org/publications/loginonline/workload-security-rings
+
+https://samuelstevens.me/research/encryption/
+
+https://security.stolovitz.com/ Sensible Security - The free, concrete, and evidence-informed cybersecurity guide for sensible people.
+> https://news.ycombinator.com/item?id=36002570
+
+https://vigilance.fr/vulnerabilite/Python-urllib-contournement-de-filtrage-entrant-via-Space-Handling-41277
+
+https://vigilance.fr/vulnerabilite/Kitty-execution-de-code-via-Application-x-sh-Mime-Type-41284
+
 https://vigilance.fr/vulnerabilite/Chrome-six-vulnerabilites-41275
 
 https://vigilance.fr/vulnerabilite/SnakeYAML-deni-de-service-via-Error-Pretty-printer-41256

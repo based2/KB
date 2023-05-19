@@ -1,6 +1,9 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
 
 #
+https://www.theregister.com/2023/05/18/microsoft_azure_system_authentication/
+> https://news.ycombinator.com/item?id=35999394
+
 https://support.microsoft.com/en-us/topic/kb5025885-how-to-manage-the-windows-boot-manager-revocations-for-secure-boot-changes-associated-with-cve-2023-24932-41a975df-beb2-40c1-99a3-b3ff139f832d
 
 https://krebsonsecurity.com/2023/05/microsoft-patch-tuesday-may-2023-edition/

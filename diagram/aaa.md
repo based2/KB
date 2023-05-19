@@ -53,6 +53,11 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://www.eraser.io/diagramgpt
+
+https://www.zxch3n.com/tidy/tidy/ High-performance tidy trees visualization
+> https://news.ycombinator.com/item?id=35995953
+
 https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart
 > https://news.ycombinator.com/item?id=35919421
 

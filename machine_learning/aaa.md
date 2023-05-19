@@ -222,6 +222,8 @@ https://arxiv.org/abs/2106.09898 Bad Characters: Imperceptible NLP Attacks
 https://www.mufeedvh.com/llm-security/
 > https://news.ycombinator.com/item?id=33918026
 
+https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2023-04/adversarial_machine_learning_and_cybersecurity_v7_pdf_1.pdf
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -270,6 +272,17 @@ https://www.giskard.ai/safegpt
 > https://news.ycombinator.com/item?id=35652452
 
 # Incident
+https://twitter.com/BrivaelLp/status/1659601867142250498
+
+https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/
+> https://news.ycombinator.com/item?id=36003595
+
+https://www.wsj.com/articles/apple-restricts-use-of-chatgpt-joining-other-companies-wary-of-leaks-d44d7d34
+> https://news.ycombinator.com/item?id=36000079
+
+http://neil-clarke.com/it-continues/
+> https://news.ycombinator.com/item?id=35999896
+
 https://news.ycombinator.com/item?id=35929122
 
 https://twitter.com/marvinvonhagen/status/1657060506371346432
@@ -330,6 +343,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://thenewstack.io/flyte-an-open-source-orchestrator-for-ml-ai-workflows/
+
 https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/
 
 https://blog.cloudflare.com/langchain-and-cloudflare/

@@ -20,6 +20,9 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://orb.farm/
+> https://news.ycombinator.com/item?id=35999835
+
 https://www.playhextraction.com/how-to-play
 > https://news.ycombinator.com/item?id=35945006
 

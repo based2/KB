@@ -106,6 +106,11 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://github.com/rqlite/rqlite/releases/tag/v7.18.0
+
+https://cgsql.dev/
+> https://news.ycombinator.com/item?id=35981828
+
 https://sqlite.org/releaselog/3_42_0.html
 > https://news.ycombinator.com/item?id=35962213
 

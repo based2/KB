@@ -86,6 +86,9 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://kubernetes.io/docs/tasks/configure-pod-container/resize-container-resources/
+> https://www.reddit.com/r/kubernetes/comments/13llb65/dynamic_sizing_for_k8_is_coming/
+
 https://news.ycombinator.com/item?id=35971454
 
 https://www.opencost.io/blog/azure-opencost

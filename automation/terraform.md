@@ -243,6 +243,9 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://unfriendlygrinch.info/posts/terraform-check-block/
+> https://unfriendlygrinch.info/posts/terraform-check-block-continued/
+
 https://medium.com/@migara/im-mutable-infrastructure-and-terraform-f50e78de0912
 
 https://github.com/develeap/terraform-provider-chatgpt

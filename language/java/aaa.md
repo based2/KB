@@ -275,6 +275,8 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://www.youtube.com/watch?v=V7iW27F9oog Design Patterns Revisited in Modern Java by Venkat Subramaniam
+
 https://bugs.openjdk.org/browse/JDK-8266571 Sequenced Collections
 > https://www.reddit.com/r/java/comments/12za83u/sequenced_collections_integrated_into_the_jdk/
 

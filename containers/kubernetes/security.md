@@ -73,6 +73,9 @@ https://www.reddit.com/r/kubernetes/comments/zcfj1p/kubesealconvert_the_missing_
 
 https://blog.gitguardian.com/how-to-handle-secrets-in-kubernetes/
 
+https://thenewstack.io/hashicorp-vault-operator-manages-kubernetes-secrets/
+> https://github.com/hashicorp/vault-secrets-operator/
+
 # News
 https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/
 > https://news.ycombinator.com/item?id=35515873

@@ -25,3 +25,6 @@ https://www.trickster.dev/post/understanding-python-generators-for-scraping-and-
 
 https://www.saaspegasus.com/about/how-pegasus-works/
 > https://news.ycombinator.com/item?id=35887766
+
+https://dukope.itch.io/mars-after-midnight/devlog/532640/face-generator-updates
+> https://news.ycombinator.com/item?id=35998310

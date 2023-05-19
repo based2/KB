@@ -77,6 +77,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://blog.nawaz.org/posts/2023/May/20-years-of-gentoo/
+> https://news.ycombinator.com/item?id=35989311
+
 https://news.ycombinator.com/item?id=35691597
 
 https://forum.manjaro.org/t/manjaro-22-1-talos-released/139155

@@ -5,6 +5,9 @@ https://www.medusa-commerce.com/
 > https://news.ycombinator.com/item?id=28481913
 
 #
+https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4fcb90b5-e352-47e2-a6a0-f1702a4a628f
+> https://news.ycombinator.com/item?id=35997351
+
 https://www.kitguru.net/channel/generaltech/matthew-wilson/asus-uk-pr-believes-it-is-legal-to-buy-positive-reviews/
 > https://news.ycombinator.com/item?id=35928816
 

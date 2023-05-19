@@ -15,6 +15,8 @@ https://www.reddit.com/r/kubernetes/comments/10mov2j/kubefirst_free_and_open_sou
 
 https://github.com/argoproj-labs/argocd-autopilot/
 
+https://piotrminkowski.com/2023/05/05/manage-kubernetes-operators-with-argocd/
+
 # Spinnaker
 
 # Prox

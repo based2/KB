@@ -67,6 +67,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.theguardian.com/environment/2023/may/19/fossil-fuel-firms-owe-climate-reparations-of-209bn-a-year-says-study
+
 https://www.abc.net.au/news/2023-05-17/chevron-australia-carbon-capture-storage-gorgon-third-capacity/102357652
 
 https://www.bloomberg.com/news/articles/2023-04-27/global-climate-talks-target-reclusive-turkmenistan-over-methane 

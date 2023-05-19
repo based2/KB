@@ -136,3 +136,6 @@ https://news.northwestern.edu/stories/2023/05/metal-filtering-sponge-removes-lea
 > https://news.ycombinator.com/item?id=35934163
 
 https://techxplore.com/news/2023-04-advanced-sand-drought.html
+
+https://www.science.org/doi/10.1126/science.abo2812
+> https://news.ycombinator.com/item?id=35999438

@@ -3,6 +3,9 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://blog.cloudflare.com/d1-turning-it-up-to-11/ database serverless sqlite json
+> https://news.ycombinator.com/item?id=36001474
+
 https://github.com/jiacai2050/pageview-worker
 > https://lobste.rs/s/pt03dq/pageview_worker_page_view_backend_based
 

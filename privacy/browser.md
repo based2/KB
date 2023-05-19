@@ -15,6 +15,9 @@ https://mcaptcha.org/ AGPL, rust
 > https://github.com/mCaptcha
 
 https://github.com/wenlng/go-captcha
+
+https://consentomatic.au.dk/
+> https://github.com/cavi-au/Consent-O-Matic
   
 # News
 https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy

@@ -580,6 +580,11 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/
+
+https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/
+> https://news.ycombinator.com/item?id=35980543
+
 https://xstate.js.org/docs/
 > https://news.ycombinator.com/item?id=35941749
 

@@ -188,6 +188,8 @@ https://without.boats/blog/the-registers-of-rust/
 
 https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust
 
+https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106

@@ -19,8 +19,7 @@ https://thenewstack.io/kubernetes-distribution-or-vanilla-kubernetes/
 
 
 > https://tanzu.vmware.com/en/kubernetes-grid TKGI
-  > require vSphere license at minima
-> 
+> > require vSphere license at minima
 
 # Linux
 https://www.reddit.com/r/kubernetes/comments/rssg6b/which_distro_should_i_choose_kubernetes/
@@ -35,3 +34,6 @@ https://github.com/bottlerocket-os/bottlerocket AWS
 
 https://www.talos.dev/v1.0/introduction/what-is-talos/
 > https://news.ycombinator.com/item?id=31798362
+
+#
+https://thenewstack.io/mirantis-updates-k0s-lightweight-kubernetes-distro/ K0s

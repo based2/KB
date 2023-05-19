@@ -1,3 +1,6 @@
+https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/
+> https://news.ycombinator.com/item?id=36000221
+
 https://news.ycombinator.com/item?id=35303574 nvidia
 
 https://github.com/hollance/neural-engine apple

@@ -99,6 +99,11 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://medium.com/predict/privacy-in-the-metaverse-might-be-impossible-new-research-study-64935481c6de
+
+https://www.quantable.com/analytics/who-wants-to-be-tracked/
+> https://news.ycombinator.com/item?id=35985285
+
 https://www.irishtimes.com/business/2023/05/17/irelands-dpc-said-to-hit-meta-with-record-privacy-fine-over-us-data-transfers/
 > https://news.ycombinator.com/item?id=35985639
 

@@ -1,3 +1,8 @@
+https://www.technologyreview.com/2023/04/19/1071849/snap-ar-mirrors/
+
+https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html
+> https://news.ycombinator.com/item?id=35989440
+
 https://www.bloomberg.com/news/features/2023-05-18/apple-s-mixed-reality-headset-may-define-tim-cook-s-legacy
 > https://news.ycombinator.com/item?id=35987545
 

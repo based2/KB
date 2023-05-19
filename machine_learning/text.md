@@ -13,6 +13,10 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://damngood.tools/tools/chat-pdf
+
+https://huggingface.co/chat/
+
 https://arxiv.org/abs/2305.07759  How Small Can Language Models Be and Still Speak Coherent English?
 > https://news.ycombinator.com/item?id=35958133
 

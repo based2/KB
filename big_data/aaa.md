@@ -214,6 +214,8 @@ https://www.visualcapitalist.com/cp/visualizing-sp-500-performance-in-2022-by-se
 https://github.com/moshi4/pyCirclize
 > https://news.ycombinator.com/item?id=34759665
 
+https://datavizproject.com/
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
@@ -296,6 +298,12 @@ https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5
 > https://news.ycombinator.com/item?id=35973265
 
 # News
+https://motherduck.com/blog/the-simple-joys-of-scaling-up/
+> https://news.ycombinator.com/item?id=35988984
+
+https://synthetichealth.github.io/synthea/
+> https://news.ycombinator.com/item?id=36002437
+
 https://datascientyst.com/pandas-vs-julia-comparison-cheat-sheet/
 > https://news.ycombinator.com/item?id=35972092
 

@@ -105,6 +105,8 @@ https://kuai-lab.github.io/soundini-gallery/
 https://speechresearch.github.io/naturalspeech2/
 > https://news.ycombinator.com/item?id=35627790
 
+https://hypebeast.com/2023/5/grimes-ai-software-elf-tech-voice-music
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

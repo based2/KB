@@ -221,6 +221,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://nilsbakker.nl/portfolio/3d-tiles/
+> https://news.ycombinator.com/item?id=36000631
+
 https://ashvardanian.com/posts/abusing-vector-search/
 > https://news.ycombinator.com/item?id=35887983
 

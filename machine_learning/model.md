@@ -1,4 +1,8 @@
 # llama Facebook
+https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot
+
+https://bair.berkeley.edu/blog/2023/04/03/koala/
+
 https://github.com/tatsu-lab/stanford_alpaca
 
 https://github.com/minosvasilias/godot-dodo
@@ -51,7 +55,14 @@ https://dev.l1x.be/posts/2023/12/08/using-llama-with-m1-mac/
 https://github.com/markasoftware/llama-cpu
 > https://news.ycombinator.com/item?id=35065796
 
+https://github.com/pengxiao-song/LawGPT cn
+
 #
+https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
+
+https://cleanlab.ai/blog/datalab/
+> https://lobste.rs/s/bjj7hs/datalab_linter_for_ml_datasets
+
 https://github.com/eth-sri/lmql
 > https://news.ycombinator.com/item?id=35956484
 

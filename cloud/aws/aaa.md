@@ -119,6 +119,8 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://aws.amazon.com/en/blogs/aws/retiring-the-aws-documentation-on-github/
+
 https://github.com/open-guides/og-aws
 
 https://www.theregister.com/2023/04/17/amazon_annual_shareholder_letter_aws/

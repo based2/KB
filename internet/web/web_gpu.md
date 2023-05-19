@@ -37,3 +37,9 @@ https://compute.toys/
 > https://news.ycombinator.com/item?id=35883891
 
 https://cohost.org/mcc/post/1406157-i-want-to-talk-about-webgpu
+
+https://bevyengine.org/news/bevy-webgpu/
+> https://news.ycombinator.com/item?id=35994106
+
+https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh
+> https://news.ycombinator.com/item?id=35968754
