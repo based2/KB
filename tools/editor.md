@@ -261,6 +261,8 @@ https://www.jetbrains.com/en/idea/
 https://vscodium.com/
 > https://news.ycombinator.com/item?id=31604932
 
+https://microsoft.github.io/monaco-editor/
+
 https://gist.github.com/hyperupcall/99e355405611be6c4e0a38b6e3e8aad0
 > https://news.ycombinator.com/item?id=35944373
 
@@ -302,6 +304,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://www.tweag.io/blog/2023-03-09-announcing-topiary/
+> https://news.ycombinator.com/item?id=36008139
+
 https://sqrtminusone.xyz/posts/2023-04-13-emacs/
 > https://news.ycombinator.com/item?id=35555481
 

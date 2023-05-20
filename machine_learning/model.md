@@ -1,4 +1,6 @@
 # llama Facebook
+https://www.reddit.com/r/LocalLLaMA/
+
 https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot
 
 https://bair.berkeley.edu/blog/2023/04/03/koala/

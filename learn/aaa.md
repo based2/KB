@@ -109,6 +109,8 @@ https://news.ycombinator.com/item?id=35107804
 https://exercism.org/
 > https://news.ycombinator.com/item?id=35582079
 
+https://news.ycombinator.com/item?id=35957811 CS 61B Data Structures, Spring 2023 UC Berkeley
+
 # Meta
 https://metacognitive.me/memory-palace/
 > https://news.ycombinator.com/item?id=28640429

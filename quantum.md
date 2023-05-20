@@ -86,6 +86,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.qrisp.de/general/tutorial.html#solving-the-traveling-salesman-problem-tsp
+> https://github.com/fraunhoferfokus/Qrisp
+
 https://academy.meetiqm.com/curriculum/index.html
 > https://news.ycombinator.com/item?id=35481074
 

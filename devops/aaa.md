@@ -370,6 +370,10 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=32864909
+
+https://www.theregister.com/2023/05/19/servicenow_intergated_cloud_observability/?td=rt-3a
+
 https://timor.site/2023/04/the-best-way-to-get-nvm-working-in-ci/cd-systems/
 > https://news.ycombinator.com/item?id=35999822
 

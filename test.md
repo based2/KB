@@ -146,6 +146,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://github.com/mutairibassam/mocki-ui
+> https://news.ycombinator.com/item?id=36014983
+
 https://piotrminkowski.com/2023/05/09/contract-testing-with-quarkus-and-pact/
 
 https://brie.dev/2022-http-testing-hurl/

@@ -207,6 +207,8 @@ https://oimo.io/works/clock/
 https://www.smithsonianmag.com/history/the-time-thief-who-stole-106-rare-clocks-in-a-daring-heist-180981979/
 > https://news.ycombinator.com/item?id=35690631
 
+https://www.lykahb.com/projects/clock.html
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 
@@ -237,6 +239,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://benjoffe.com/weekle
+> https://news.ycombinator.com/item?id=36007128
+
 https://brr.fyi/posts/sunset
 > https://news.ycombinator.com/item?id=35500966
 

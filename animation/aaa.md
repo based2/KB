@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://easings.net/
+
 https://warms.maxbittker.repl.co/
 > https://news.ycombinator.com/item?id=35944159
 

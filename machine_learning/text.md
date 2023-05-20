@@ -13,6 +13,8 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://news.ycombinator.com/item?id=36012360
+
 https://damngood.tools/tools/chat-pdf
 
 https://huggingface.co/chat/

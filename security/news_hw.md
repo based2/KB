@@ -1,3 +1,5 @@
+https://github.com/google/security-research/tree/master/pocs/cpus/ret2aslr
+
 https://www.starlab.io/blog/dm-verity-in-embedded-device-security
 > https://lobste.rs/s/7579yq/introduction_dm_verity_embedded_device
 

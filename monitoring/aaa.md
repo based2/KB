@@ -104,6 +104,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md
+> https://news.ycombinator.com/item?id=36008564
+
 https://github.com/GyulyVGC/sniffnet rust
 > https://news.ycombinator.com/item?id=35991811
 

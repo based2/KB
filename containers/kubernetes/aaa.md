@@ -86,6 +86,11 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://www.usenix.org/conference/srecon23americas/presentation/malla Logs Told Us It Was DNS, It Looked like DNS, It Had to Be DNS, It Wasn't DNS
+> https://news.ycombinator.com/item?id=35968340
+
+https://piotrminkowski.com/2023/05/20/contract-testing-on-kubernetes-with-microcks/ test
+
 https://kubernetes.io/docs/tasks/configure-pod-container/resize-container-resources/
 > https://www.reddit.com/r/kubernetes/comments/13llb65/dynamic_sizing_for_k8_is_coming/
 

@@ -29,6 +29,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://destevez.net/2023/05/an-erasure-fec-for-ssdv/
+
 https://www.jezzamon.com/fourier/
 > https://news.ycombinator.com/item?id=35973408
 

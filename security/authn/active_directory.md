@@ -53,3 +53,8 @@ https://csandker.io/2022/11/10/Untangling-Azure-II-Privileged-Access.html
 > https://www.reddit.com/r/netsec/comments/ys4ibe/untangling_azure_active_directory_permissions_ii/
 
 https://lazyadmin.nl/it/pdq-deploy-inventory/
+
+https://www.securesystems.de/blog/active-directory-spotlight-attacking-the-microsoft-configuration-manager/
+
+https://github.com/grimlockx/ADCSKiller
+> https://www.reddit.com/r/netsec/comments/13lqatw/automate_the_process_of_discovering_and/

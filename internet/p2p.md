@@ -121,3 +121,4 @@ https://www.salon.com/2000/09/29/gnutella_paradox/
 
 https://github.com/freenet/locutus
 > https://news.ycombinator.com/item?id=30979002
+> https://news.ycombinator.com/item?id=36007984

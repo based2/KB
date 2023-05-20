@@ -1,3 +1,5 @@
+https://re.jrc.ec.europa.eu/pvg_tools/en/
+
 https://theconversation.com/the-sunlight-that-powers-solar-panels-also-damages-them-gallium-doping-is-providing-a-solution-164935
 > https://news.ycombinator.com/item?id=27941312
 

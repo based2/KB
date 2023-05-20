@@ -4,6 +4,8 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://www.theregister.com/2023/05/19/apple_security_alerts/
+
 https://cipherkeeper.substack.com/p/apples-first-rapid-security-response
 
 https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-21st-2023-macs-in-the-crosshairs/

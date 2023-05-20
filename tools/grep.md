@@ -50,3 +50,5 @@ https://github.com/dwisiswant0/secpat2gf
 
 https://ast-grep.github.io/
 > https://news.ycombinator.com/item?id=35890322
+
+https://github.com/segf00lt/sreutils

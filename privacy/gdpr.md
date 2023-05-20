@@ -75,6 +75,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.theregister.com/2023/05/18/meta_facing_third_gdpr_fine/
+
 https://pluralistic.net/2023/05/15/finnegans-snooze/#dirty-old-town
 > https://news.ycombinator.com/item?id=35951452
 

@@ -31,6 +31,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.theregister.com/2023/05/17/microsoft_bet_on_fusion/?td=rt-9cs
+
 https://github.com/readme/featured/nuclear-fusion-open-source
 > https://news.ycombinator.com/item?id=35524611
 

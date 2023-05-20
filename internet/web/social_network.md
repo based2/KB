@@ -60,6 +60,8 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 
 # Incident
+https://community.hachyderm.io/blog/2023/05/17/crypto-spam-attacks-on-fediverse/
+
 https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-support-agent-got-hacked/
 
 https://www.theregister.com/2023/04/07/twitter_code_cve_substack/

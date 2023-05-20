@@ -115,6 +115,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://lemire.me/blog/2023/05/19/the-absurd-cost-of-finalizers-in-go/
+> https://news.ycombinator.com/item?id=36002765
+
 https://github.com/adhocteam/pushup making modern, page-oriented web apps
 
 https://github.com/golang/go/issues/58894  all: add opt-in transparent telemetry to Go toolchain #58894

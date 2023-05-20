@@ -19,6 +19,8 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # News
+https://www.independent.co.uk/news/world/asia/chinese-workers-productivity-build-nanlong-railway-station-nine-hours-longyan-a8173881.html
+
 https://www.businessinsider.com/french-california-high-speed-rail-north-africa-biden-trump-2022-10?r=US&IR=T
 > https://news.ycombinator.com/item?id=35504068
 

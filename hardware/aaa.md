@@ -103,6 +103,13 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.nextplatform.com/2023/05/17/india-declares-cpu-independence-with-aum-hpc-processor/
+
+https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html
+> https://news.ycombinator.com/item?id=36006446
+
+https://news.ycombinator.com/item?id=36009701
+
 https://databasearchitects.blogspot.com/2023/04/the-great-cpu-stagnation.html
 > https://news.ycombinator.com/item?id=35989462
 

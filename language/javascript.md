@@ -580,6 +580,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://github.com/josephernest/Swap micro-library which facilitates AJAX-style navigation in web pages
+> https://news.ycombinator.com/item?id=35991783
+
 https://shaneosullivan.wordpress.com/2023/05/17/using-bun-js-as-a-bundler/
 
 https://chriscoyier.net/2023/05/17/tracking-blocked-scripts/

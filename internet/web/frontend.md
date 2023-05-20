@@ -22,5 +22,8 @@ https://github.com/ToolJet/ToolJet
 https://telemetry.timseverien.com/
 > https://news.ycombinator.com/item?id=35458974
 
+https://dodov.dev/blog/how-to-debug-browser-redirects
+> https://news.ycombinator.com/item?id=35970712
+
 
 

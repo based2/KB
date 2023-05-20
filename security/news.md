@@ -1,3 +1,6 @@
+https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first
+> https://news.ycombinator.com/item?id=36012227
+
 https://www.usenix.org/publications/loginonline/workload-security-rings
 
 https://samuelstevens.me/research/encryption/

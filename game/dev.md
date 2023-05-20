@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://zxq9.com/erlmud/html/000-001_introduction.html
+> https://news.ycombinator.com/item?id=36008706
+
 https://eev.ee/blog/2021/01/26/gamedev-from-scratch-1-scaffolding/
 > https://news.ycombinator.com/item?id=35908617
 

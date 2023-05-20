@@ -99,6 +99,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.universalhub.com/2023/boston-globe-agrees-pay-4-million-settle-online
+
 https://medium.com/predict/privacy-in-the-metaverse-might-be-impossible-new-research-study-64935481c6de
 
 https://www.quantable.com/analytics/who-wants-to-be-tracked/

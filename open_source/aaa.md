@@ -243,6 +243,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.codeweavers.com/about/news/press/20230517 CodeWeavers Transitions to Employee Ownership Trust
+
 https://twitter.com/zemarmot/status/1646272510701236229
 > https://news.ycombinator.com/item?id=35630681
 

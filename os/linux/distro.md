@@ -21,6 +21,8 @@ https://developers.redhat.com/products/rhel/download
 
 https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
 
+https://www.theregister.com/2023/05/19/rhel_92/
+
 https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9
 > https://news.ycombinator.com/item?id=31447904
 

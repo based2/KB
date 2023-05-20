@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://nyxt.atlas.engineer/
+> https://news.ycombinator.com/item?id=36006423
+
 https://forums.macrumors.com/threads/update-to-12-6-5-and-or-safari-16-4-1-17615-causing-corrupted-jpegs-on-websites.2387412/
 > https://news.ycombinator.com/item?id=36002215
 

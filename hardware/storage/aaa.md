@@ -43,6 +43,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://arstechnica.com/gadgets/2023/05/sandisk-extreme-ssds-keep-abruptly-failing-firmware-fix-for-only-some-promised/
+
 https://www.infoq.com/articles/dropbox-magic-pocket-exabyte-storage/
 > https://dropbox.tech/infrastructure/inside-the-magic-pocket
 

@@ -94,6 +94,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://pointieststick.com/2023/05/20/this-week-in-kde-preliminary-hdr-support/
+
 https://github.com/elkowar/eww
 > https://news.ycombinator.com/item?id=35700963
 

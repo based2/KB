@@ -25,6 +25,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.europarl.europa.eu/news/en/press-room/20230414IPR80133/crypto-assets-green-light-to-new-rules-for-tracing-transfers-in-the-eu
+> https://news.ycombinator.com/item?id=36010621
+
 https://arstechnica.com/tech-policy/2023/05/landmark-crypto-rules-make-exchanges-liable-for-customer-losses-in-eu/
 > https://news.ycombinator.com/item?id=35975015
 

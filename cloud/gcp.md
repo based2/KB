@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://www.theregister.com/2023/05/10/google_cloud_paris_outage_persists/?td=keepreading
+
 https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV
 > https://news.ycombinator.com/item?id=35711349
 > https://news.ycombinator.com/item?id=35732384

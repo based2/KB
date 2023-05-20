@@ -20,6 +20,9 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://rooms.xyz/
+> https://news.ycombinator.com/item?id=36009430
+
 https://orb.farm/
 > https://news.ycombinator.com/item?id=35999835
 

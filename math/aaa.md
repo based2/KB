@@ -144,6 +144,12 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/
+> https://news.ycombinator.com/item?id=36009667
+
+https://reality.mentat.org/essays/reality/introduction
+> https://news.ycombinator.com/item?id=36005600
+
 https://news.ycombinator.com/item?id=35929333
 
 https://visualpde.com/

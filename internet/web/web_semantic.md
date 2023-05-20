@@ -1,3 +1,7 @@
+https://en.wikipedia.org/wiki/Semantic_Web
+
+https://en.wikipedia.org/wiki/Ontology_(computer_science)
+
 https://jena.apache.org/tutorials/rdf_api.html
 
 # RDF
@@ -10,6 +14,8 @@ https://github.com/datafoodconsortium
 > https://linuxfr.org/news/le-dfc-met-en-place-un-outil-collaboratif-pour-faciliter-la-gestion-communautaire-de-ses-thesaurus
 
 #
+https://news.ycombinator.com/item?id=36011067
+
 https://www.w3.org/blog/news/archives/9906 First Public Working Drafts: Update of the RDF and SPARQL families of specification towards version 1.2
 > https://news.ycombinator.com/item?id=36001509
 

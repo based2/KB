@@ -80,6 +80,8 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://arstechnica.com/information-technology/2023/05/critics-say-googles-new-zip-and-mov-domains-will-be-a-boon-to-scammers/
+
 https://news.ycombinator.com/item?id=35920336
 
 https://shkspr.mobi/blog/2023/05/the-new-zip-tld-is-going-to-cause-some-problems/

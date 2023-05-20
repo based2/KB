@@ -139,3 +139,8 @@ https://techxplore.com/news/2023-04-advanced-sand-drought.html
 
 https://www.science.org/doi/10.1126/science.abo2812
 > https://news.ycombinator.com/item?id=35999438
+
+https://onthepublicrecord.org/2009/04/29/california%e2%80%99s-water-rights-and-investment/
+
+https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/
+> https://news.ycombinator.com/item?id=36009291

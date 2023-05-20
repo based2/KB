@@ -31,3 +31,5 @@ https://carlos.bueno.org/2023/03/aws-dismal-guide.html
 https://medium.com/life-at-chime/how-we-reduced-our-aws-bill-by-seven-figures-5144206399cb
 > https://www.reddit.com/r/programming/comments/122vsyx/how_we_reduced_our_aws_bill_by_7_figures/
 
+https://github.com/jatalocks/awesome-cloud-cost
+> https://www.reddit.com/r/devops/comments/13l6rde/best_tips_for_reducing_cloud_costs/

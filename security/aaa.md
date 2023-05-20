@@ -91,6 +91,8 @@ https://en.wikipedia.org/wiki/Mersenne_Twister
 
 https://www.researchgate.net/publication/304258841_Comparison_of_different_entropy_measures
 
+https://blog.cloudflare.com/inside-the-entropy/
+
 # Antivirus
 https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
 > https://news.ycombinator.com/item?id=27509888

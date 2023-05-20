@@ -62,6 +62,9 @@ https://httptoolkit.tech/blog/status-targeted-caching-headers/
 ## Apache HTTPD
 https://httpd.apache.org/
 
+https://utcc.utoronto.ca/~cks/space/blog/web/Apache24LongLife
+> https://news.ycombinator.com/item?id=36009892
+
 ## Nginx
 https://www.nginx.com/pricing/
 

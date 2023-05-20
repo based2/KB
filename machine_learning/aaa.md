@@ -343,6 +343,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
+> https://news.ycombinator.com/item?id=35813322
+
+https://www.pinecone.io/learn/langchain/
+> https://news.ycombinator.com/item?id=36001465
+
 https://thenewstack.io/flyte-an-open-source-orchestrator-for-ml-ai-workflows/
 
 https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/

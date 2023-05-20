@@ -136,6 +136,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://github.com/redrays-io/SAP_Cloud_Connector_SSFS_Decryption
+
 https://vigilance.fr/vulnerabilite/cloud-init-obtention-d-information-via-les-journaux-41139
 
 https://www.wiz.io/blog/brokensesame-accidental-write-permissions-to-private-registry-allowed-potential-r
