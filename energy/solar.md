@@ -18,6 +18,11 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html
+> https://news.ycombinator.com/item?id=35848343
+
+https://www.theguardian.com/us-news/2023/may/21/solar-farms-energy-power-california-mojave-desert
+
 https://mercurialtrends.com/agrivoltaics-a-sustainable-synergy-between-agriculture-and-solar-energy/
 > https://news.ycombinator.com/item?id=35928460
 

@@ -70,6 +70,9 @@ https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 > https://news.ycombinator.com/item?id=34425067
 
 # News
+https://toml.io/en/
+> https://news.ycombinator.com/item?id=36018817
+
 https://github.com/pyrustic/jesth
 > https://news.ycombinator.com/item?id=35991018
 

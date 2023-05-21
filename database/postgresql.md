@@ -134,8 +134,6 @@ https://www.cisecurity.org/benchmark/postgresql/
 
 https://www.tangramvision.com/blog/hands-on-with-postgresql-authorization-part-2-row-level-security
 
-https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox 
-
 https://github.com/inqueryio/inquery
 > https://news.ycombinator.com/item?id=35082508
 
@@ -281,9 +279,15 @@ https://blog.val.town/blog/migrating-from-supabase
 > https://news.ycombinator.com/item?id=36004925
 
 # Incident
+https://www.postgresql.org/about/news/postgresql-153-148-1311-1215-and-1120-released-2637/
+
 https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-Row-Security-User-ID-Changes-41249
 
+https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
+
 # News
+https://www.crunchydata.com/blog/pgvector-performance-for-developers
+
 https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer
 > https://news.ycombinator.com/item?id=35981238
 

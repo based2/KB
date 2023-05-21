@@ -1,3 +1,5 @@
+https://huggingface.co/
+
 # llama Facebook
 https://www.reddit.com/r/LocalLLaMA/
 
@@ -60,6 +62,9 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://blog.scottlogic.com/2023/05/04/langchain-mini.html
+> https://news.ycombinator.com/item?id=35820931
+
 https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
 
 https://cleanlab.ai/blog/datalab/

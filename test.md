@@ -146,6 +146,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://echoserver.dev/
+> https://news.ycombinator.com/item?id=36019664
+
 https://github.com/mutairibassam/mocki-ui
 > https://news.ycombinator.com/item?id=36014983
 

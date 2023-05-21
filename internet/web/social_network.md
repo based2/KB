@@ -88,6 +88,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://github.com/NotJoeMartinez/yt-fts
+> https://news.ycombinator.com/item?id=36009774
+
 https://www.linen.dev/s/linen/t/10511167/linen-dev-the-500kb-slack-alternative
 > https://news.ycombinator.com/item?id=35718417
 

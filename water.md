@@ -144,3 +144,5 @@ https://onthepublicrecord.org/2009/04/29/california%e2%80%99s-water-rights-and-i
 
 https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disinfect-drinking-water/
 > https://news.ycombinator.com/item?id=36009291
+
+https://onthepublicrecord.org/2009/03/04/why-districts-are-slow-to-charge-market-rates-for-water/

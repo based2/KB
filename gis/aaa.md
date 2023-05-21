@@ -221,6 +221,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.eumetsat.int/features/discover-first-images-mtg-i1
+> https://news.ycombinator.com/item?id=35817708
+
+https://amazonminingwatch.org/en#4.39/-7.2/-77.65
+
 https://nilsbakker.nl/portfolio/3d-tiles/
 > https://news.ycombinator.com/item?id=36000631
 

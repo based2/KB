@@ -6,6 +6,8 @@ https://www.snort.org/ Network Intrusion Detection and Prevention System
 #
 https://claroty.com/team82/research/chaining-five-vulnerabilities-to-exploit-netgear-nighthawk-rax30-routers-at-pwn2own-toronto-2022
 
+https://www.bleepingcomputer.com/news/hardware/asus-routers-knocked-offline-worldwide-by-bad-security-update/
+
 https://www.downtowndougbrown.com/2023/05/what-happened-with-asus-routers-this-morning/
 > https://news.ycombinator.com/item?id=35983866
 > > https://arstechnica.com/information-technology/2023/05/asus-fixes-error-that-caused-mass-router-outage-worldwide-for-2-days/

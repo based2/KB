@@ -70,3 +70,6 @@ https://tinyvg.tech/
 
 https://leonidasv.com/til-svg-specs-almost-got-raw-socket-support/
 > https://news.ycombinator.com/item?id=35381755
+
+https://badgers.space/
+> https://news.ycombinator.com/item?id=36020001

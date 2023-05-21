@@ -298,6 +298,12 @@ https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5
 > https://news.ycombinator.com/item?id=35973265
 
 # News
+https://emiruz.com/post/2023-04-30-prolog-for-data-science/
+> https://news.ycombinator.com/item?id=35855398
+
+https://cptn.io/ spring, npm
+> https://news.ycombinator.com/item?id=35864661
+
 https://opendatadiscovery.org/
 
 https://motherduck.com/blog/the-simple-joys-of-scaling-up/

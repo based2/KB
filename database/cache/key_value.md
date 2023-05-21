@@ -19,3 +19,6 @@ https://dinesh.wiki/posts/build-your-own-persistent-kv-store/
 
 https://artem.krylysov.com/blog/2023/04/19/how-rocksdb-works/
 > https://news.ycombinator.com/item?id=35634673
+
+https://medium.com/paypal-tech/unlocking-the-power-of-junodb-paypals-key-value-store-goes-open-source-ee85f935bdc1
+> https://news.ycombinator.com/item?id=35998359

@@ -4,6 +4,9 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/
+> https://news.ycombinator.com/item?id=36020196
+
 https://www.theregister.com/2023/05/19/apple_security_alerts/
 
 https://cipherkeeper.substack.com/p/apples-first-rapid-security-response

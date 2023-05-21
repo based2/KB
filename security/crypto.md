@@ -116,6 +116,9 @@ https://jeremykun.com/2023/02/13/googles-fully-homomorphic-encryption-compiler-a
 
 https://blog.cryptographyengineering.com/2023/05/11/on-ashton-kutcher-and-secure-multi-party-computation/
 
+https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler
+> https://news.ycombinator.com/item?id=35826723
+
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 

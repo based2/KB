@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://twitter.com/ID_AA_Carmack/status/1654528504724062217
+> https://news.ycombinator.com/item?id=35840224
+
 https://easings.net/
 
 https://warms.maxbittker.repl.co/

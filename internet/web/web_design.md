@@ -20,6 +20,8 @@ https://penpot.app/ The Open-Source design & prototyping platform
 https://www.nngroup.com/articles/marginalia-of-web-design/
 > https://news.ycombinator.com/item?id=27891669
 
+https://webaim.org/articles/evaluationguide/
+
 # Forms
 https://www.the-art-of-web.com/html/html5-form-validation/
 

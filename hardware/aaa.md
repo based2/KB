@@ -103,6 +103,17 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
 # News
+https://www.diy-thermocam.net/
+> https://news.ycombinator.com/item?id=35848872
+
+https://www.theregister.com/2023/05/20/nvidia_ceo_gpu_ai_chips/
+
+https://tinytapeout.com/siliwiz/introduction/ basic understanding of how semiconductors work and are manufactured at a fundamental level
+> https://news.ycombinator.com/item?id=36016982
+
+https://bytewelder.com/posts/2023/05/20/building-a-handheld-pc.html
+> https://news.ycombinator.com/item?id=36019208
+
 https://www.nextplatform.com/2023/05/17/india-declares-cpu-independence-with-aum-hpc-processor/
 
 https://www.intel.com/content/www/us/en/developer/articles/technical/envisioning-future-simplified-architecture.html

@@ -134,6 +134,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+https://www.bleepingcomputer.com/news/security/dish-network-likely-paid-ransom-after-recent-ransomware-attack/
+
 https://rootly.com/blog/the-rogers-outage-of-2022-3-crucial-takeaways-for-sres
 
 https://adriano.fyi/post/2023/2023-04-16-att-traffic-shaping-makes-websites-unusable/
@@ -152,6 +154,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://spectrum.ieee.org/5g-rollout-disappointments
+> https://news.ycombinator.com/item?id=35847899
+
 https://arstechnica.com/tech-policy/2023/05/verizon-abandons-its-confusing-mess-of-six-unlimited-wireless-plans/
 
 https://arstechnica.com/tech-policy/2023/05/telcos-detail-plan-to-charge-big-tech-firms-for-access-to-internet-users/

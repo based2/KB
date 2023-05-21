@@ -80,6 +80,12 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://domainincite.com/28757-verisign-will-get-web-icann-rules
+> https://news.ycombinator.com/item?id=35850031
+
+https://github.com/jessejanderson/skylink did
+> https://news.ycombinator.com/item?id=35857134
+
 https://arstechnica.com/information-technology/2023/05/critics-say-googles-new-zip-and-mov-domains-will-be-a-boon-to-scammers/
 
 https://news.ycombinator.com/item?id=35920336

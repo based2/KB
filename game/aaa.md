@@ -20,6 +20,15 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://pioneerspacesim.net/#slide0
+> https://news.ycombinator.com/item?id=35832876
+
+https://spacetraders.io/ api
+> https://news.ycombinator.com/item?id=35856036
+
+https://puzzlemoji.com/
+> https://news.ycombinator.com/item?id=36010778
+
 https://rooms.xyz/
 > https://news.ycombinator.com/item?id=36009430
 

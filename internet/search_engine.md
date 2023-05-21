@@ -89,6 +89,9 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://digital.staatsbibliothek-berlin.de/
+> https://news.ycombinator.com/item?id=35854834
+
 https://neeva.com/blog/may-announcement
 > https://news.ycombinator.com/item?id=36013783
 

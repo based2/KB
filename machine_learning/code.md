@@ -54,6 +54,11 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://nogithub.codeberg.page/
+> https://news.ycombinator.com/item?id=35859142
+
+https://news.ycombinator.com/item?id=36017420 sql
+
 https://github.com/smol-ai/developer
 > https://news.ycombinator.com/item?id=35945467
 

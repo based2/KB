@@ -122,6 +122,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html
+> https://news.ycombinator.com/item?id=35810281
+
 https://penvm.dev/
 > https://news.ycombinator.com/item?id=35979133
 

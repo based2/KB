@@ -30,6 +30,9 @@ https://aerc-mail.org/
 
 https://github.com/soywod/himalaya
 
+https://gluer.org/blog/2023/trying-gnus-as-an-email-client/
+> https://news.ycombinator.com/item?id=35998390
+
 # Test
 https://github.com/reacherhq/check-if-email-exists
 > https://news.ycombinator.com/item?id=27705742

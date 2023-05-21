@@ -33,3 +33,5 @@ https://ahelwer.ca/post/2023-01-11-tree-sitter-tlaplus/
 
 https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html
 > https://news.ycombinator.com/item?id=34410776
+
+https://news.ycombinator.com/item?id=35798829

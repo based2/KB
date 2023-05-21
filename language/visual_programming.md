@@ -74,3 +74,5 @@ https://jasonmorrissc.github.io/post/2022-02-24_no-code/
 
 https://bergie.iki.fi/blog/fbp-ai-human-collaboration/
 > https://news.ycombinator.com/item?id=35229222
+
+https://news.ycombinator.com/item?id=36013586

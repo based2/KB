@@ -1,6 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
 
 #
+https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/ outlook
+
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29336
+
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-24932
+
 https://www.theregister.com/2023/05/18/microsoft_azure_system_authentication/
 > https://news.ycombinator.com/item?id=35999394
 

@@ -243,6 +243,11 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://lwn.net/Articles/925782/ The end of accounting search -> gnucash
+> https://news.ycombinator.com/item?id=36021197
+
+https://sill.code.gouv.fr/
+
 https://www.codeweavers.com/about/news/press/20230517 CodeWeavers Transitions to Employee Ownership Trust
 
 https://twitter.com/zemarmot/status/1646272510701236229

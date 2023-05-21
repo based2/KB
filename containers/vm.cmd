@@ -24,3 +24,6 @@ https://news.ycombinator.com/item?id=34638424
 https://blog.reds.ch/?p=1379 Accessing the RAM of a QEMU Emulated System from another Process
 
 https://memn0ps.github.io/hypervisor-development-in-rust-part-1/
+
+https://github.com/zachallaun/secd
+> https://news.ycombinator.com/item?id=35837747

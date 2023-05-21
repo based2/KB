@@ -24,6 +24,9 @@ https://roadmap.cloudsecdocs.com/
 # FaaS
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
+https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/
+> https://news.ycombinator.com/item?id=35846443
+
 # Limits
 ## Budget Cost Capping
 
@@ -116,6 +119,8 @@ https://neon.tech/blog/quicker-serverless-postgres
 
 https://www.readysetcloud.io/blog/allen.helton/serverless-integration-speed-test/
 > https://news.ycombinator.com/item?id=35902942
+
+https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4
 
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP

@@ -30,6 +30,9 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches
+> https://news.ycombinator.com/item?id=36000932
+
 https://engineering.atspotify.com/2022/06/meet-basic-pitch/
 > https://news.ycombinator.com/item?id=35955934
 

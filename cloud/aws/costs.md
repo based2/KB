@@ -33,3 +33,6 @@ https://medium.com/life-at-chime/how-we-reduced-our-aws-bill-by-seven-figures-51
 
 https://github.com/jatalocks/awesome-cloud-cost
 > https://www.reddit.com/r/devops/comments/13l6rde/best_tips_for_reducing_cloud_costs/
+
+https://pauley.me/post/2023/spot-price-trends/
+> https://news.ycombinator.com/item?id=35802157

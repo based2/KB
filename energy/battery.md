@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.reuters.com/markets/commodities/chiles-boric-announces-plan-nationalize-lithium-industry-2023-04-21/
+> https://news.ycombinator.com/item?id=35860473
+
 https://news.ycombinator.com/item?id=36000824
 
 https://arstechnica.com/science/2023/05/researchers-craft-a-fully-edible-battery/

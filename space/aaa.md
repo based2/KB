@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://phys.org/news/2023-05-nasa-resurrect-spitzer-space-telescope.html
+
 https://www.space.com/china-space-plane-lands-may-2023
 
 https://www.sciencenews.org/article/first-time-astrophysicists-star-eating-planet

@@ -1,3 +1,6 @@
+https://twitter.com/cixliv/status/1660038281034350592
+> https://news.ycombinator.com/item?id=36020437
+
 https://www.technologyreview.com/2023/04/19/1071849/snap-ar-mirrors/
 
 https://www.pcworld.com/article/1919392/spacetop-is-the-first-laptop-without-a-screen.html

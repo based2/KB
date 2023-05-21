@@ -32,6 +32,9 @@ https://0xax.gitbooks.io/linux-insides/content/
 https://mentorembedded.github.io/advancedlinuxprogramming/
 > https://news.ycombinator.com/item?id=35500197
 
+https://linuxstans.com/linux-books/
+> https://news.ycombinator.com/item?id=36018512
+
 # Selinux
 
 https://selinuxproject.org/page/Main_Page

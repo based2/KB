@@ -87,6 +87,9 @@ https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf
 https://aplcart.info/
 > https://news.ycombinator.com/item?id=35396696
 
+https://www.sacrideo.us/suggestivity-and-idioms-in-apl/
+> https://news.ycombinator.com/item?id=35857072
+
 ## K
 https://news.ycombinator.com/item?id=27842541
 
@@ -236,6 +239,9 @@ https://craftofcoding.wordpress.com/2023/01/10/why-fortran-is-a-scientific-power
 
 https://fosdem.org/2023/schedule/event/llvmflang/attachments/slides/5699/export/events/attachments/llvmflang/slides/5699/fosdem_flang_status_update.pdf
 
+https://github.com/muellermichel/Hybrid-Fortran gpu
+> https://news.ycombinator.com/item?id=35972584
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100
@@ -327,6 +333,10 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://madhadron.com/programming/seven_ur_languages.html
+> https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/
+> > https://news.ycombinator.com/item?id=35874575
+
 https://github.com/nature-lang/nature
 
 https://bitfieldconsulting.com/golang/crisp-code

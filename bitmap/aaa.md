@@ -78,7 +78,10 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
-https://www.pygame.org/project/5157/8204 PyDPainter - Relase 1.0.5 - A usable pixel art program written in Python
+https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/
+> https://news.ycombinator.com/item?id=35866283
+
+https://www.pygame.org/project/5157/8204 PyDPainter - Release 1.0.5 - A usable pixel art program written in Python
 > https://news.ycombinator.com/item?id=35496718
 
 https://news.ycombinator.com/item?id=35052423

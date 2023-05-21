@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.fleeteurope.com/en/connected/europe/features/all-new-vehicles-must-have-black-box-crash-recorders?a=JMA06&t%5B0%5D=Safety&curl=1
+
 https://topcarnews.net/hyundais-new-steering-system-may-make-parking-jobs-way-easier-s237901.html
 
 https://github.com/autorope/donkeycar

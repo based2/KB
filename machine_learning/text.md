@@ -13,6 +13,12 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://spectrum.ieee.org/gpt-4-calm-down
+> https://news.ycombinator.com/item?id=36017309
+
+https://arxiv.org/abs/2304.02819 GPT detectors are biased against non-native English writers
+> https://news.ycombinator.com/item?id=36019580
+
 https://news.ycombinator.com/item?id=36012360
 
 https://damngood.tools/tools/chat-pdf

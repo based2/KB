@@ -144,6 +144,11 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://tensegritywiki.com/index.php?title=Tensegrity
+> https://news.ycombinator.com/item?id=35859752
+
+https://www.leadingsapiens.com/viktor-frankl-laws-dimensional-ontology/
+
 https://marckhoury.github.io/blog/counterintuitive-properties-of-high-dimensional-space/
 > https://news.ycombinator.com/item?id=36009667
 

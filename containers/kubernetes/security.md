@@ -76,6 +76,13 @@ https://blog.gitguardian.com/how-to-handle-secrets-in-kubernetes/
 https://thenewstack.io/hashicorp-vault-operator-manages-kubernetes-secrets/
 > https://github.com/hashicorp/vault-secrets-operator/
 
+# Forensic
+https://github.com/checkpoint-restore/criu checkpoint/restore for Linux
+
+https://github.com/falcosecurity/falcosidekick
+
+https://github.com/draios/sysdig-inspect
+
 # News
 https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/
 > https://news.ycombinator.com/item?id=35515873

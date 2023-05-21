@@ -212,6 +212,12 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://react-spectrum.adobe.com/react-aria/react-aria-components.html
+> https://news.ycombinator.com/item?id=35848421
+
+https://github.com/vadimdemedes/ink cli
+> https://news.ycombinator.com/item?id=35863837
+
 https://www.dylanpaulus.com/posts/making-react-fast
 
 https://www.robinwieruch.de/react-starter/

@@ -130,7 +130,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+
 https://about.gitlab.com/releases/2023/05/10/security-release-gitlab-15-11-3-released/
+
+https://about.gitlab.com/releases/2023/05/05/critical-security-release-gitlab-15-11-2-released/
 
 https://vigilance.fr/vulnerabilite/Git-trois-vulnerabilites-41134
 
@@ -370,6 +373,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.googlecloudpresscorner.com/2023-05-02-GitLab-and-Google-Cloud-Partner-to-Expand-AI-Assisted-Capabilities-with-Customizable-Gen-AI-Foundation-Models
+> https://news.ycombinator.com/item?id=35812378
+
 https://news.ycombinator.com/item?id=32864909
 
 https://www.theregister.com/2023/05/19/servicenow_intergated_cloud_observability/?td=rt-3a

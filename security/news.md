@@ -1,3 +1,6 @@
+https://unforgettable.dk/
+> https://news.ycombinator.com/item?id=36011786
+
 https://www.thalesgroup.com/en/worldwide/security/press_release/thales-seizes-control-esa-demonstration-satellite-first
 > https://news.ycombinator.com/item?id=36012227
 

@@ -272,6 +272,8 @@ https://www.giskard.ai/safegpt
 > https://news.ycombinator.com/item?id=35652452
 
 # Incident
+https://arxiv.org/abs/2305.10596 Towards Invisiblle Backdoor Attacks in the Frequency Domain against Deep Neural Networks
+
 https://twitter.com/BrivaelLp/status/1659601867142250498
 
 https://www.theatlantic.com/technology/archive/2023/05/chatbot-cheating-college-campuses/674073/
@@ -343,6 +345,11 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/
+> https://news.ycombinator.com/item?id=35844574
+
+https://www.theregister.com/2023/05/09/ibm_launches_watsonx/?td=keepreading
+
 https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 > https://news.ycombinator.com/item?id=35813322
 

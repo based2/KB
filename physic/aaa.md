@@ -44,6 +44,9 @@ https://ciechanow.ski/naval-architecture/
 https://physicsworld.com/a/introducing-the-non-radiating-antenna/
 > https://news.ycombinator.com/item?id=28107996
 
+https://www.feynmanlectures.caltech.edu/
+> https://news.ycombinator.com/item?id=36017793
+
 # Particle
 https://phys.org/news/2021-07-exotic-particle-tetraquark.html
 > https://news.ycombinator.com/item?id=28008771

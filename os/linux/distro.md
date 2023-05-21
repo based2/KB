@@ -15,6 +15,9 @@ https://github.com/hwittenborn/makedeb
 https://manjaro.org/
 https://forum.manjaro.org/t/manjaro-21-0-ornara-released/59399
 
+https://archlinux.org/news/git-migration-completed/
+> https://news.ycombinator.com/item?id=36019870
+
 # IBM/Red Hat
 
 https://developers.redhat.com/products/rhel/download

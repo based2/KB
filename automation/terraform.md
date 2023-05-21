@@ -243,6 +243,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://x61.sh/log/2023/05/19052023172439-terraform_proxmox_openbsd.html
+
 https://dev.to/zenika/how-to-deploy-a-secured-ovh-managed-kubernetes-cluster-using-terraform-in-2023-17o7
 
 https://unfriendlygrinch.info/posts/terraform-check-block/

@@ -107,6 +107,8 @@ https://spacevim.org/SpaceVim-release-v2.0.0/
 https://github.com/neovim/neovim/releases/tag/v0.7.0
 > https://news.ycombinator.com/item?id=31039569
 
+https://news.ycombinator.com/item?id=35816361
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -247,6 +249,9 @@ https://emacs.stackexchange.com/questions?tab=Votes
 
 https://www.n16f.net/blog/making-ielm-more-comfortable/
 > https://news.ycombinator.com/item?id=35497834
+
+https://github.com/susam/devil
+> https://news.ycombinator.com/item?id=35849788
 
 # IDE
 ## Eclipse

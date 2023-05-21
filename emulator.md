@@ -3,6 +3,12 @@ https://github.com/ptitSeb/box64 Box64 - Linux Userspace x86_64 Emulator with a 
 https://www.pcjs.org/documents/manuals/intel/80386/
 > https://news.ycombinator.com/item?id=35325038
 
+#
+https://news.ycombinator.com/item?id=35880466
+
+https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/?cr=fr
+> https://news.ycombinator.com/item?id=36019485
+
 https://www.qemu.org/2023/04/20/qemu-8-0-0/
 > https://news.ycombinator.com/item?id=35688320
 

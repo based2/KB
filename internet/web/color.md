@@ -73,6 +73,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://kiru.io/blog/posts/2023/extracting-colors-from-images-seems-hard/
+> https://news.ycombinator.com/item?id=35973777
+
 https://www.theverge.com/23650428/colorblindness-design-ui-accessibility-wordle
 > https://news.ycombinator.com/item?id=35489168
 

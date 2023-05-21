@@ -19,6 +19,13 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://lwn.net/Articles/930173/ A kernel without buffer heads
+> https://news.ycombinator.com/item?id=35813950
+
+https://www.phoronix.com/news/Linux-6.4-More-Rust
+
+https://www.phoronix.com/news/Aquacomputer-Leakshield-Linux
+
 https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d
 > https://news.ycombinator.com/item?id=36005879
 

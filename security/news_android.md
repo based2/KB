@@ -1,6 +1,11 @@
 https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 
 #
+https://www.bleepingcomputer.com/news/security/cybercrime-gang-pre-infects-millions-of-android-devices-with-malware/
+
+https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/
+> https://news.ycombinator.com/item?id=36020431
+
 https://www.theregister.com/2023/05/11/bh_asia_mobile_phones/
 > https://news.ycombinator.com/item?id=35908120
 

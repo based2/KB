@@ -1,3 +1,11 @@
+https://www.gov.uk/government/consultations/preventing-the-use-of-sim-farms-for-fraud/preventing-the-use-of-sim-farms-for-fraud-consultation-accessible
+> https://news.ycombinator.com/item?id=35841632
+
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-samsung-aslr-bypass-flaw-exploited-in-attacks/
+
+https://www.bleepingcomputer.com/news/technology/hp-rushes-to-fix-bricked-printers-after-faulty-firmware-update/
+> https://news.ycombinator.com/item?id=36019492
+
 https://github.com/google/security-research/tree/master/pocs/cpus/ret2aslr
 
 https://www.starlab.io/blog/dm-verity-in-embedded-device-security
@@ -14,6 +22,10 @@ https://securityonline.info/intel-oem-private-key-leak-a-blow-to-uefi-secure-boo
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0371/
 
 https://www.bleepingcomputer.com/news/security/intel-cpus-vulnerable-to-new-transient-execution-side-channel-attack/
+
+https://news.ycombinator.com/item?id=35835697 MSI
+
+https://twitter.com/binarly_io/status/1654287041339998208
 
 https://hackaday.com/2023/04/17/puf-away-for-hardware-fingerprinting/
 
