@@ -1,6 +1,9 @@
 https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 
 #
+https://arstechnica.com/information-technology/2023/05/app-with-50000-google-play-installs-sent-attackers-mic-recordings-every-15-minutes/
+> https://news.ycombinator.com/item?id=36062396
+
 https://www.bleepingcomputer.com/news/security/cybercrime-gang-pre-infects-millions-of-android-devices-with-malware/
 
 https://arstechnica.com/information-technology/2023/05/potentially-millions-of-android-tvs-and-phones-come-with-malware-preinstalled/

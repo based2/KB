@@ -42,6 +42,9 @@ https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/
 https://bisqwit.iki.fi/story/howto/dither/jy/
 > https://news.ycombinator.com/item?id=29447302
 
+https://surma.dev/things/ditherpunk/
+> https://news.ycombinator.com/item?id=36023706
+
 # Pixel
 https://news.ycombinator.com/item?id=27536525
 

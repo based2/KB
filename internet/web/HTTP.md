@@ -85,6 +85,9 @@ https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/
 
 https://trunc.org/learning/everything-you-dont-need-to-know-about-nginx-error-logs
 
+https://nginx.org/en/CHANGES http3 experiment
+> https://news.ycombinator.com/item?id=36047524
+
 ##
 https://caddyserver.com/
 > https://news.ycombinator.com/item?id=29378030

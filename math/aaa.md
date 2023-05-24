@@ -144,6 +144,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://hackaday.io/project/191142-analog-lorenz-attractor-computer
+> https://news.ycombinator.com/item?id=36062233
+
 https://tensegritywiki.com/index.php?title=Tensegrity
 > https://news.ycombinator.com/item?id=35859752
 

@@ -57,6 +57,9 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 https://github.com/Snaipe/Criterion
 
 #
+https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107
+> https://news.ycombinator.com/item?id=36040457
+
 https://serge-sans-paille.github.io/pythran-stories/how-unity-builds-crept-into-the-firefox-build-system.html
 > https://news.ycombinator.com/item?id=35825683
 

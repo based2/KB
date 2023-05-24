@@ -129,3 +129,6 @@ https://github.com/mjansson/rpmalloc
 > https://news.ycombinator.com/item?id=35624611
 
 https://www.koreaherald.com/view.php?mp=1&np=1&ud=20230422000063
+
+https://samwho.dev/memory-allocation/
+> https://news.ycombinator.com/item?id=36029087

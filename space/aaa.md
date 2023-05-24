@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://fermatslibrary.com/s/venus-is-not-earth-s-closest-neighbor
+> https://news.ycombinator.com/item?id=36055826
+
 https://phys.org/news/2023-05-nasa-resurrect-spitzer-space-telescope.html
 
 https://www.space.com/china-space-plane-lands-may-2023

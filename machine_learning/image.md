@@ -321,6 +321,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://codi-gen.github.io/
+> https://news.ycombinator.com/item?id=36038311
+
 https://news.ycombinator.com/item?id=35977053
 
 https://llava-vl.github.io/

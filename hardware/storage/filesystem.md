@@ -48,6 +48,9 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html
+> https://news.ycombinator.com/item?id=36051710
+
 https://lore.kernel.org/lkml/20230509165657.1735798-1-kent.overstreet@linux.dev/T/#mf171fd06ffa420fe1bcf0f49a2b44a361ca6ac44 cow
 > https://news.ycombinator.com/item?id=35899527
 

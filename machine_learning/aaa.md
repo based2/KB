@@ -272,6 +272,9 @@ https://www.giskard.ai/safegpt
 > https://news.ycombinator.com/item?id=35652452
 
 # Incident
+https://status.openai.com/incidents/jbt079x532bg
+> https://news.ycombinator.com/item?id=36063166
+
 https://arxiv.org/abs/2305.10596 Towards Invisiblle Backdoor Attacks in the Frequency Domain against Deep Neural Networks
 
 https://twitter.com/BrivaelLp/status/1659601867142250498
@@ -345,6 +348,10 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://stratechery.com/2023/windows-and-the-ai-platform-shift/
+
+https://news.ycombinator.com/item?id=36034211
+
 https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitrary-models-to-get-tighter-confidence-intervals/
 > https://news.ycombinator.com/item?id=35844574
 

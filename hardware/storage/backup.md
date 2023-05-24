@@ -117,6 +117,9 @@ https://b3n.org/automatic-ripping-machine/
 https://news.ycombinator.com/item?id=30577625
 
 #
+https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD
+> https://news.ycombinator.com/item?id=36061574
+
 https://github.com/basnijholt/rsync-time-machine.py
 > https://news.ycombinator.com/item?id=35933238
 

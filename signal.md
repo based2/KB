@@ -29,6 +29,12 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/
+> https://news.ycombinator.com/item?id=36043552
+
+https://www.duckware.com/tech/solving-intermittent-cable-modem-issues.html
+> https://news.ycombinator.com/item?id=36010467
+
 https://tomverbeure.github.io/2023/05/06/HP-11720A-Pulse-Modulator.html
 > https://news.ycombinator.com/item?id=35848276
 

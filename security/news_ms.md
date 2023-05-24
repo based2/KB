@@ -1,6 +1,15 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
 
 #
+https://www.theverge.com/2023/5/24/23735639/microsoft-surface-pro-x-camera-not-working-error-fix
+> https://news.ycombinator.com/item?id=36060373
+
+https://github.com/microsoft/win32-app-isolation
+> https://news.ycombinator.com/item?id=36059982
+
+https://blog.checkpoint.com/securing-the-cloud/malicious-vscode-extensions-with-more-than-45k-downloads-steal-pii-and-enable-backdoors/
+> https://news.ycombinator.com/item?id=36029020
+
 https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-002/ outlook
 
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-29336

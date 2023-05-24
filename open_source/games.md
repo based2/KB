@@ -29,6 +29,9 @@ https://www.scummvm.org/
 https://chezsoi.org/lucas/blog/pages/images-libres-de-droits.html
 
 # Dev
+https://github.com/fishfolk/jumpy rust bevy
+> https://news.ycombinator.com/item?id=36058743
+
 https://unvanquished.net/10-years-and-unvanquished/
 
 https://www.gamingonlinux.com/2022/04/2022-is-officially-the-year-of-linux-gaming/

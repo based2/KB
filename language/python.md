@@ -289,12 +289,18 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 #
+https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/
+> https://news.ycombinator.com/item?id=36061407
+
 https://blog.yossarian.net/2023/05/21/PGP-signatures-on-PyPI-worse-than-useless
 
 https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://jax.readthedocs.io/en/latest/pytrees.html
+> https://news.ycombinator.com/item?id=36029368
+
 https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
 > https://news.ycombinator.com/item?id=36018621
 

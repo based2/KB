@@ -4,6 +4,11 @@ https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 
 #
+https://www.bleepingcomputer.com/news/security/barracuda-warns-of-email-gateways-breached-via-zero-day-flaw/
+
+https://blog.mikrotik.com/security/cve-2023-32154.html
+> https://news.ycombinator.com/item?id=36029915
+
 https://claroty.com/team82/research/chaining-five-vulnerabilities-to-exploit-netgear-nighthawk-rax30-routers-at-pwn2own-toronto-2022
 
 https://www.bleepingcomputer.com/news/hardware/asus-routers-knocked-offline-worldwide-by-bad-security-update/

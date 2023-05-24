@@ -1,5 +1,8 @@
 https://www.wireguard.com/
 
+https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html
+> https://news.ycombinator.com/item?id=36040803
+
 https://rob-turner.net/post/vx-lan/
 > https://news.ycombinator.com/item?id=34788989
 

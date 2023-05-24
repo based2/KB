@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.bleepingcomputer.com/news/microsoft/microsoft-365-hit-by-new-outage-causing-connectivity-issues/
+
 https://www.bleepingcomputer.com/news/microsoft/new-microsoft-365-outage-causes-exchange-online-connectivity-issues/
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/

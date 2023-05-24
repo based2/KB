@@ -1,6 +1,9 @@
 https://e2eml.school/transformers.html
 > https://news.ycombinator.com/item?id=35697627
 
+https://magazine.sebastianraschka.com/p/why-the-original-transformer-figure
+> https://news.ycombinator.com/item?id=36057183
+
 https://blog.eleuther.ai/transformer-math/
 
 https://kipp.ly/blog/transformer-inference-arithmetic/
@@ -46,3 +49,5 @@ https://arxiv.org/abs/2106.06981 Thinking Like Transformers
 > https://news.ycombinator.com/item?id=27528004
 > https://nlp.stanford.edu/~johnhew/rnns-hierarchy.html
 
+https://arxiv.org/abs/2305.13048
+> https://news.ycombinator.com/item?id=36038868

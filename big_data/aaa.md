@@ -298,6 +298,9 @@ https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5
 > https://news.ycombinator.com/item?id=35973265
 
 # News
+https://github.com/psychic-api/psychic unstructured
+> https://news.ycombinator.com/item?id=36032081
+
 https://emiruz.com/post/2023-04-30-prolog-for-data-science/
 > https://news.ycombinator.com/item?id=35855398
 

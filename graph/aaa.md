@@ -103,6 +103,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9
+> https://news.ycombinator.com/item?id=36020520
+
 https://permutation-groups.glitch.me/
 > https://news.ycombinator.com/item?id=35697623
 

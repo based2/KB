@@ -13,6 +13,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/
+> https://news.ycombinator.com/item?id=36034074
+
 https://spectrum.ieee.org/gpt-4-calm-down
 > https://news.ycombinator.com/item?id=36017309
 

@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://www.brimdata.io/blog/debugging-data-first-class-errors/
+> https://news.ycombinator.com/item?id=36033566
+
 https://blog.sergiodj.net/posts/ubuntu-debuginfod-source-code-indexing/
 
 https://github.com/aappleby/PicoRVD RISC-V based CH32V003

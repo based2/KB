@@ -14,11 +14,17 @@ https://www.kernel.org/doc/html/v4.15/dev-tools/coccinelle.html
 https://blog.bofh.it/debian/id_465 I replaced grub with systemd-boot
 > https://news.ycombinator.com/item?id=34816863
 
+https://nick-black.com/dankwiki/index.php/Io_uring
+> https://news.ycombinator.com/item?id=36030958
+
 # Windows
 https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 # News
+https://www.phoronix.com/news/AMD-One-Liner-System-Resume
+> https://news.ycombinator.com/item?id=36057248
+
 https://lwn.net/Articles/930173/ A kernel without buffer heads
 > https://news.ycombinator.com/item?id=35813950
 

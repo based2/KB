@@ -32,6 +32,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://developer.chrome.com/blog/introducing-popover-api/
+> https://news.ycombinator.com/item?id=36052689
+
 https://nyxt.atlas.engineer/
 > https://news.ycombinator.com/item?id=36006423
 

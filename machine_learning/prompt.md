@@ -44,3 +44,9 @@ https://blog.yenniejun.com/p/all-languages-are-not-created-tokenized
 
 https://simonwillison.net/2023/May/18/cli-tools-for-llms/
 > https://news.ycombinator.com/item?id=35994037
+
+https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/
+> https://news.ycombinator.com/item?id=36025507
+
+https://github.com/ianarawjo/ChainForge
+> https://news.ycombinator.com/item?id=36056907

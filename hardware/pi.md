@@ -14,6 +14,9 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://kelu124.gitbooks.io/echomods/content/RPI.html low-cost, open source technological kit to allow scientists, academics, hackers, makers or OSHW fans to ultrasound imaging
+> https://news.ycombinator.com/item?id=36058576
+
 https://www.linux.it/~ema/posts/secure-boot-rpi/
 > https://news.ycombinator.com/item?id=35815382
 

@@ -46,6 +46,11 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://developers.redhat.com/articles/2023/05/23/podman-desktop-now-generally-available
+> https://news.ycombinator.com/item?id=36046222
+
+https://leaningtech.com/mini-webvm-your-linux-box-from-dockerfile-via-wasm/
+
 https://fale.io/blog/2023/05/17/manage-podman-containers-with-systemd-and-quadlet
 
 https://github.com/abiosoft/colima

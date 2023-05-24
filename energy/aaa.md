@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://yle.fi/a/74-20033326
+> https://news.ycombinator.com/item?id=36057889
+
 https://www.gatesnotes.com/Wyoming-TerraPower
 > https://news.ycombinator.com/item?id=35838407
 

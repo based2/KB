@@ -35,3 +35,6 @@ https://www.saashub.com/
 
 https://www.getlago.com/
 
+https://github.com/btw-so/open-source-alternatives
+> https://news.ycombinator.com/item?id=36057989
+

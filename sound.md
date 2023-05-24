@@ -30,6 +30,12 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://github.com/w-okada/voice-changer
+> https://news.ycombinator.com/item?id=36042916
+
+https://ieeexplore.ieee.org/document/1521350
+> https://news.ycombinator.com/item?id=36038466
+
 https://www.phoronix.com/news/MIDI-2.0-Linux-Kernel-Patches
 > https://news.ycombinator.com/item?id=36000932
 
@@ -42,7 +48,6 @@ https://www.theguardian.com/technology/2023/may/11/fairbuds-xl-review-noise-canc
 https://news.ycombinator.com/item?id=35729104 mic
 
 https://crates.io/crates/fundsp/0.13.0
-> 
 
 https://daily.jstor.org/what-it-sounds-like-when-doves-cry/
 > https://news.ycombinator.com/item?id=35407578

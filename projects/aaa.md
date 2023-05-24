@@ -161,6 +161,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://particular.net/blog/antirequirements
+> https://news.ycombinator.com/item?id=36049467
+
 https://www.joshwcomeau.com/blog/hands-free-coding/
 > https://news.ycombinator.com/item?id=35998716
 

@@ -4,6 +4,9 @@ https://www.pcjs.org/documents/manuals/intel/80386/
 > https://news.ycombinator.com/item?id=35325038
 
 #
+https://github.com/polpo/picogus isa sound card
+> https://news.ycombinator.com/item?id=36061326
+
 https://news.ycombinator.com/item?id=35880466
 
 https://dolphin-emu.org/blog/2023/05/21/dolphin-progress-report-february-march-april-2023/?cr=fr

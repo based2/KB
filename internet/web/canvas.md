@@ -26,3 +26,6 @@ https://github.com/mbrlabs/Lorien
 https://github.com/kkoomen/pointless
 
 https://github.com/LHRUN/paint-board
+
+https://shaneosullivan.wordpress.com/2023/05/23/instant-colour-fill-with-html-canvas/
+> https://news.ycombinator.com/item?id=36049386

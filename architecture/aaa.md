@@ -281,6 +281,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://martinfowler.com/articles/dependency-composition.html
+> https://news.ycombinator.com/item?id=36048704
+
 https://www.epicweb.dev/epic-stack
 > https://news.ycombinator.com/item?id=35903878
 

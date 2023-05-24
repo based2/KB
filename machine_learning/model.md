@@ -62,6 +62,17 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://mlc.ai/blog/2023/05/22/bringing-open-large-language-models-to-consumer-devices
+
+https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture
+> https://news.ycombinator.com/item?id=36053662
+
+https://www.infoq.com/news/2023/05/meta-dinov2-vision/
+> https://news.ycombinator.com/item?id=36053592
+
+https://github.com/imartinez/privateGPT
+> https://news.ycombinator.com/item?id=36024503
+
 https://blog.scottlogic.com/2023/05/04/langchain-mini.html
 > https://news.ycombinator.com/item?id=35820931
 

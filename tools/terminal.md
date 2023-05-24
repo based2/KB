@@ -42,6 +42,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/raphamorim/rio
+> https://news.ycombinator.com/item?id=36057687
+
 https://susam.net/blog/from-xon-xoff-to-forward-incremental-search.html
 > https://news.ycombinator.com/item?id=35850690
 

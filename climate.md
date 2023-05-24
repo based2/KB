@@ -67,6 +67,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Ice_loss_from_Greenland_and_Antarctica_hits_new_record
+> https://news.ycombinator.com/item?id=36057052
+
 https://text.npr.org/1172679786
 > https://news.ycombinator.com/item?id=36021530
 

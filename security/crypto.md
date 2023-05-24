@@ -173,6 +173,9 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://kerkour.com/sha256-length-extension-attacks
+> https://news.ycombinator.com/item?id=36058754
+
 https://sha-mbles.github.io/
 > https://news.ycombinator.com/item?id=35962667
 

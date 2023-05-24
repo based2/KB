@@ -134,6 +134,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+https://arstechnica.com/tech-policy/2023/05/48-states-sue-phone-company-that-allegedly-catered-to-needs-of-robocallers/
+
 https://www.bleepingcomputer.com/news/security/dish-network-likely-paid-ransom-after-recent-ransomware-attack/
 
 https://rootly.com/blog/the-rogers-outage-of-2022-3-crucial-takeaways-for-sres

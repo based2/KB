@@ -3,6 +3,9 @@ https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage
 > https://news.ycombinator.com/item?id=35341065
 
 #
+https://microsoft.github.io/devicescript/
+> https://news.ycombinator.com/item?id=36059878
+
 https://csa-iot.org/newsroom/matter-1-1-release-enhancements-for-developers-and-devices/
 
 https://wokwi.com/

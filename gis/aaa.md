@@ -221,6 +221,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://gis.chat/
+> https://news.ycombinator.com/item?id=36040612
+
 https://www.eumetsat.int/features/discover-first-images-mtg-i1
 > https://news.ycombinator.com/item?id=35817708
 
