@@ -66,6 +66,8 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://news.ycombinator.com/item?id=36092914 Lawyer caught submitting ChatGPT-fabricated citations to SDNY
+
 https://news.ycombinator.com/item?id=36016653
 
 https://www.theverge.com/2022/11/8/23446821/microsoft-openai-github-copilot-class-action-lawsuit-ai-copyright-violation-training-data

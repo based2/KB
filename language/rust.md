@@ -310,6 +310,9 @@ https://dragly.org/2022/08/27/speeding-up-loading-openexr-in-python/
 https://hails.org/@hailey/110360791283096989
 > https://news.ycombinator.com/item?id=35927475
 
+https://blog.janestreet.com/oxidizing-ocaml-locality/
+> https://www.reddit.com/r/programming/comments/13so19f/oxidizing_ocaml_locality/
+
 ## MacOs
 https://github.com/ryanmcgrath/cacao
 > https://news.ycombinator.com/item?id=35934799
@@ -451,6 +454,10 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://pingcap.medium.com/the-rust-compilation-model-calamity-1a8ce781cf6c
+
+https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023
+
 https://github.com/google/comprehensive-rust
 > https://news.ycombinator.com/item?id=36048261
 
@@ -839,6 +846,8 @@ https://kerkour.com/bugs-rust-compiler-helps-prevent
 
 https://michaelsalim.co.uk/blog/rust-from-0-to-80-for-js-dev/
 > https://news.ycombinator.com/item?id=31220791
+
+https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/
 
 https://book.goose.rs/config/defaults.html tests
 

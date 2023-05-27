@@ -1,3 +1,7 @@
+https://en.wikipedia.org/wiki/Transport_Layer_Security TCP
+> https://en.wikipedia.org/wiki/Datagram_Transport_Layer_Security UDP
+> https://en.wikipedia.org/wiki/Tcpcrypt
+
 # OpenSSL
 https://www.openssl.org/news/newslog.html
 
@@ -138,6 +142,10 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 #
+https://vigilance.fr/vulnerabilite/OpenBSD-double-liberation-de-memoire-via-SSL-clear-41342
+
+https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-30-05-2023-41317
+
 https://vigilance.fr/vulnerabilite/OpenSSL-lecture-de-memoire-hors-plage-prevue-via-AES-XTS-41095
 
 https://vigilance.fr/vulnerabilite/Undertow-Man-in-the-Middle-via-TLS-Client-40911 jboss

@@ -141,6 +141,10 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://permiso.io/blog/s/unmasking-guivil-new-cloud-threat-actor/
+
+https://www.cadosecurity.com/updates-to-legion-a-cloud-credential-harvester-and-smtp-hijacker/
+
 https://github.com/redrays-io/SAP_Cloud_Connector_SSFS_Decryption
 
 https://vigilance.fr/vulnerabilite/cloud-init-obtention-d-information-via-les-journaux-41139
@@ -265,6 +269,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.nextplatform.com/2023/05/24/in-the-multicloud-world-the-datas-the-thing/
+
 https://fullstackdeeplearning.com/cloud-gpus/
 > https://news.ycombinator.com/item?id=36025099
 

@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/List_of_open-source_video_games
 
+https://www.wesnoth.org/
+
 https://www.openttd.org/news/2021/04/01/openttd-1-11-0.html
 > https://news.ycombinator.com/item?id=26660154
 
@@ -29,6 +31,12 @@ https://www.scummvm.org/
 https://chezsoi.org/lucas/blog/pages/images-libres-de-droits.html
 
 # Dev
+https://godotengine.org/
+
+https://www.libsdl.org/
+
+https://opengameart.org/
+
 https://github.com/fishfolk/jumpy rust bevy
 > https://news.ycombinator.com/item?id=36058743
 
@@ -64,6 +72,8 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://news.ycombinator.com/item?id=36088672
+
 https://www.youtube.com/watch?v=dgd88zE3O38
 > https://news.ycombinator.com/item?id=35394297
 

@@ -144,6 +144,12 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=36056488
+
+https://breckyunits.com/a-mathematical-model-of-copyright.html
+
+https://news.ycombinator.com/item?id=36069847
+
 https://hackaday.io/project/191142-analog-lorenz-attractor-computer
 > https://news.ycombinator.com/item?id=36062233
 
@@ -165,6 +171,8 @@ https://visualpde.com/
 
 https://jingnanshi.com/blog/groebner_basis.html
 > https://news.ycombinator.com/item?id=35703741
+
+https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor
 
 https://www.modular.com/blog/the-worlds-fastest-unified-matrix-multiplication
 > https://news.ycombinator.com/item?id=35643978

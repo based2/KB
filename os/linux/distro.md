@@ -82,6 +82,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://devclass.com/2023/05/25/azure-linux-released-at-build-where-microsoft-revealed-why-it-did-not-fork-fedora/
+
 https://blog.nawaz.org/posts/2023/May/20-years-of-gentoo/
 > https://news.ycombinator.com/item?id=35989311
 

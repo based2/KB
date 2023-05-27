@@ -113,6 +113,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://there.oughta.be/a/bullet-time-video-booth
+> https://news.ycombinator.com/item?id=36087252
+
 https://gmunk.com/TRON-Legacy
 > https://news.ycombinator.com/item?id=35836115
 

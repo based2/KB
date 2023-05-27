@@ -30,6 +30,8 @@ https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
 #
+https://ieeexplore.ieee.org/document/1521350
+
 https://github.com/w-okada/voice-changer
 > https://news.ycombinator.com/item?id=36042916
 

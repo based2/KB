@@ -97,6 +97,9 @@ https://www.hunters.ai/blog/hunters-research-detecting-obfuscated-attacker-ip-in
 https://sysdig.com/blog/aws-secure-ssh-ec2-threats/
 > https://www.reddit.com/r/netsec/comments/vc5zeg/what_if_you_dont_secure_ssh_on_ec2_analysis_of/
 
+https://nvd.nist.gov/vuln/detail/CVE-2022-2385 EKS auth
+> https://hackerone.com/reports/1580493
+
 https://rhinosecuritylabs.com/aws/cve-2022-25165-aws-vpn-client/
 > https://www.reddit.com/r/netsec/comments/u1zl4k/cve202225165_privilege_escalation_to_system_in/
 

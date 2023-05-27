@@ -1,3 +1,10 @@
+https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info
+> https://news.ycombinator.com/item?id=36094760
+
+https://www.bleepingcomputer.com/news/security/hot-pixels-attack-checks-cpu-temp-power-changes-to-steal-data/
+
+https://github.blog/2023-05-25-rooting-with-root-cause-finding-a-variant-of-a-project-zero-bug/
+
 https://www.gov.uk/government/consultations/preventing-the-use-of-sim-farms-for-fraud/preventing-the-use-of-sim-farms-for-fraud-consultation-accessible
 > https://news.ycombinator.com/item?id=35841632
 

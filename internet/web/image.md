@@ -66,6 +66,9 @@ https://www.cs.unm.edu/~brayer/vision/fourier.html
 
 https://github.com/OpenStitching/stitching
 
+https://pixian.ai/ background removal
+> https://news.ycombinator.com/item?id=36064639
+
 # Photography
 https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/
 > https://news.ycombinator.com/item?id=35972047

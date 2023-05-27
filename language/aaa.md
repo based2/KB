@@ -333,6 +333,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/
+> https://news.ycombinator.com/item?id=36071674
+
 https://madhadron.com/programming/seven_ur_languages.html
 > https://buttondown.email/hillelwayne/archive/the-seven-specification-ur-languages/
 > > https://news.ycombinator.com/item?id=35874575

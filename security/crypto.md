@@ -173,6 +173,15 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://eprint.iacr.org/2023/715
+
+https://www.acm.org/media-center/2023/may/dissertation-award-2022
+> https://news.ycombinator.com/item?id=36064515
+
+https://cryptolyzer.readthedocs.io/en/latest/changelog/
+
+https://dustri.org/b/time-to-sunset-otr.html
+
 https://kerkour.com/sha256-length-extension-attacks
 > https://news.ycombinator.com/item?id=36058754
 

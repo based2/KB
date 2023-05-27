@@ -133,6 +133,9 @@ https://github.com/modal-labs/quillman
 https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html
 > https://news.ycombinator.com/item?id=36013571
 
+https://github.com/w-okada/voice-changer
+> https://news.ycombinator.com/item?id=36042916
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

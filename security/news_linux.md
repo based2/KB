@@ -12,7 +12,14 @@ https://www.inversecos.com/2022/06/detecting-linux-anti-forensics-log.html
 https://github.com/netblue30/firejail SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities
 > https://news.ycombinator.com/item?id=30820387
 
+https://github.com/niveb/NoCrypt A small experimental project to make a defense tool to prevent ransomware attacks on Linux systems.
+> https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
+
 # News
+https://bugprove.com/knowledge-hub/cve-2023-31070-broadcom-bcm-47xx-sdk-emf-slab-out-of-bounds-write/
+
+https://news.ycombinator.com/item?id=36093669 terminal 1989
+
 https://seclists.org/oss-sec/2023/q2/133 CVE-2023-32233
 > https://news.ycombinator.com/item?id=35879660
 

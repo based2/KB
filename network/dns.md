@@ -60,6 +60,11 @@ https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/
 
 # Incident
+https://vigilance.fr/vulnerabilite/MaraDNS-usurpation-via-Revoked-Domain-Name-41321
+
+https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/
+> https://news.ycombinator.com/item?id=36086537
+
 https://www.bleepingcomputer.com/news/security/decoy-dog-malware-toolkit-found-after-analyzing-70-billion-dns-queries/
 
 https://www.nslookup.io/domains/repo.maven.apache.org/dns-records/
@@ -80,6 +85,9 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://twobithistory.org/2018/09/30/chaosnet.html
+> https://news.ycombinator.com/item?id=36079416
+
 https://domainincite.com/28757-verisign-will-get-web-icann-rules
 > https://news.ycombinator.com/item?id=35850031
 

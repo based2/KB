@@ -64,6 +64,9 @@ https://usebottles.com/
 > https://lutris.net/
 > https://www.playonlinux.com
 
+https://www.winehq.org/announce/8.9
+> https://news.ycombinator.com/item?id=36092224
+
 https://www.winehq.org/announce/8.1
 > https://news.ycombinator.com/item?id=34633511
 

@@ -31,6 +31,8 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://news.ycombinator.com/item?id=36089084 200% problem, horizontal abstractions
+
 https://medium.com/@marc-leblanc/secrets-management-at-deployment-time-with-hashicorp-vault-and-waypoint-c03da884e7e
 
 https://news.ycombinator.com/item?id=35559890

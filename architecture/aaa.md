@@ -281,6 +281,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://blog.quastor.org/p/khan-academy-rewrote-backend python -> go
+
 https://martinfowler.com/articles/dependency-composition.html
 > https://news.ycombinator.com/item?id=36048704
 

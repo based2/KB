@@ -1,3 +1,8 @@
+https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html
+> https://news.ycombinator.com/item?id=36065175
+
+https://news.ycombinator.com/item?id=36092831
+
 https://ai.facebook.com/blog/meta-training-inference-accelerator-AI-MTIA/
 > https://news.ycombinator.com/item?id=36000221
 

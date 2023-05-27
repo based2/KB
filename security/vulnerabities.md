@@ -1,6 +1,10 @@
 https://www.cve.org/
 > https://github.com/CVEProject/cve-schema/blob/master/schema/v5.0/CVE_JSON_5.0_schema.json
 
+https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System
+
+https://www.first.org/epss/
+
 https://cert.europa.eu/blog/tlp-version-2-primer
 
 # References
@@ -13,6 +17,8 @@ https://nvd.nist.gov/vuln
 https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 https://github.com/advisories
+
+https://www.talosintelligence.com/vulnerability_info
 
 https://ossindex.sonatype.org/
 
@@ -30,6 +36,12 @@ https://www.cvedetails.com/
 
 https://github.com/trickest/cve
 > https://news.ycombinator.com/item?id=30357373
+
+https://www.cert.ssi.gouv.fr/
+
+https://wid.cert-bund.de/portal/wid/kurzinformationen
+
+https://vigilance.fr/
 
 https://hardening-security.com/vulnerabilities
 Detailed gathered insights about cyber security vulnerabilities and their real world influences including economic impacts and black market trading.
@@ -49,6 +61,8 @@ https://theoryof.predictable.software/articles/a-closer-look-at-cvss-scores/
 > https://github.com/usnistgov/vulntology NIST Vulnerability Data Ontology
 
 https://github.com/tg12/PoC_CVEs
+
+https://www.openvas.org/
 
 # News
 https://thenewstack.io/vex-standardization-for-a-vulnerability-exploit-data-exchange-format/

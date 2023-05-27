@@ -25,5 +25,7 @@ https://telemetry.timseverien.com/
 https://dodov.dev/blog/how-to-debug-browser-redirects
 > https://news.ycombinator.com/item?id=35970712
 
+https://github.com/nucliweb/webperf-snippets
+
 
 

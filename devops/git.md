@@ -274,6 +274,10 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/charmbracelet/soft-serve
+
+https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/
+
 https://git.zx2c4.com/cgit/
 > https://news.ycombinator.com/item?id=35945497
 

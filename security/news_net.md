@@ -4,6 +4,14 @@ https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 
 #
+https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-vulnerabilities-in-firewall-and-vpn-devices/
+
+https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways
+
+https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sg-web-multi-S9g4Nkgv
+
+https://blog.gbrls.space/blog/cve-2023-33617-writeup/
+
 https://www.bleepingcomputer.com/news/security/barracuda-warns-of-email-gateways-breached-via-zero-day-flaw/
 
 https://blog.mikrotik.com/security/cve-2023-32154.html

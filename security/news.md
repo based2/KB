@@ -1,3 +1,20 @@
+https://www.scmagazine.com/news/identity-and-access/onemain-pays-4-5m-after-ignored-security-flaws-caused-data-breaches
+
+https://news.ycombinator.com/item?id=36094122
+
+https://jshelter.org/
+
+https://blog.thc.org/infecting-ssh-public-keys-with-backdoors
+> https://news.ycombinator.com/item?id=36075144
+> https://lobste.rs/s/nezmn0/infecting_ssh_public_keys_with_backdoors
+
+https://www.feistyduck.com/library/openssl-cookbook/
+> https://www.feistyduck.com/bulletproof-tls-newsletter/issue_100_openssl_cookbook_released_under_cc_by_nc
+
+https://redrays.io/exploring-p4-protocol-usage-implementation-and-cve-2021-37535/
+
+https://relentless-coding.org/projects/jsdetox/info
+
 https://news.ycombinator.com/item?id=36056320
 
 https://unforgettable.dk/

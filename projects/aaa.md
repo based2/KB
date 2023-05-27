@@ -161,6 +161,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://github.com/zakirullin/cognitive-load
+
 https://particular.net/blog/antirequirements
 > https://news.ycombinator.com/item?id=36049467
 

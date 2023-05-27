@@ -53,6 +53,8 @@ https://aws-controllers-k8s.github.io/community/docs/community/overview/
 https://github.com/aws-samples/hardeneks
 
 # Storage
+https://github.com/awslabs/data-on-eks
+
 https://github.com/yandex-cloud/k8s-csi-s3
 
 #

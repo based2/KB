@@ -36,4 +36,7 @@ https://journal.stuffwithstuff.com/2016/06/16/long-names-are-long/
 https://www.simplethread.com/taming-names-in-software-development/
 > https://news.ycombinator.com/item?id=33939114
 
+https://www.rfc-editor.org/rfc/rfc1178 Choosing a Name for Your Computer
+> https://news.ycombinator.com/item?id=36028410
+
 # naming thi

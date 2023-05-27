@@ -212,6 +212,11 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://fluent2.microsoft.design/
+> https://news.ycombinator.com/item?id=36078831
+
+https://frontendmastery.com/posts/the-evolution-of-react-patterns/
+
 https://react-spectrum.adobe.com/react-aria/react-aria-components.html
 > https://news.ycombinator.com/item?id=35848421
 
@@ -586,6 +591,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://github.com/DukeLuo/eslint-plugin-check-file
+
 https://github.com/josephernest/Swap micro-library which facilitates AJAX-style navigation in web pages
 > https://news.ycombinator.com/item?id=35991783
 

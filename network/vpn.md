@@ -41,6 +41,9 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/
+> https://news.ycombinator.com/item?id=36085642
+
 https://privsec.dev/apps/protonvpn-ip-leakage-on-linux-and-workaround/
 > https://news.ycombinator.com/item?id=33137708
 
@@ -77,6 +80,9 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
 # News
+https://github.com/patte/fly-tailscale-exit
+> https://news.ycombinator.com/item?id=36064305
+
 https://www.jeffgeerling.com/blog/2023/build-your-own-private-wireguard-vpn-pivpn
 > https://news.ycombinator.com/item?id=35828046
 

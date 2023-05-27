@@ -73,6 +73,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 http://argonaut.io/doc/quickstart/ scala
 
 # News
+https://github.com/tidwall/jj JSON Stream Editor
+> https://news.ycombinator.com/item?id=36067958
+
 https://github.com/filosganga/jsonpath
 
 https://github.com/schibsted/jslt JSLT java

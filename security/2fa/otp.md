@@ -118,6 +118,7 @@ https://www.perfecto.io/blog/two-factor-authentication tests
 https://www.yubico.com/blog/google-chrome-u2f-api-decommission-what-the-change-means-for-your-users-and-how-to-prepare/
 > https://news.ycombinator.com/item?id=30224777
 > > https://webauthn.io/
+> > > https://news.ycombinator.com/item?id=36063998
 
 https://github.com/drduh/YubiKey-Guide
 > https://news.ycombinator.com/item?id=30081348

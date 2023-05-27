@@ -74,6 +74,9 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://xorvoid.com/sectorc.html
+> https://news.ycombinator.com/item?id=36064971
+
 https://www.deusinmachina.net/p/c-strings-and-my-slow-descent-to
 
 https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-981.pdf cerberus c semantic

@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.jefftk.com/p/you-dont-always-need-indexes
+> https://news.ycombinator.com/item?id=36071397
+
 https://www.theregister.com/2023/05/18/consistent_operating_costs_for_databases/?td=keepreading
 
 https://planetscale.com/blog/how-does-database-sharding-work

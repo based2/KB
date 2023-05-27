@@ -14,6 +14,9 @@ https://github.com/datafoodconsortium
 > https://linuxfr.org/news/le-dfc-met-en-place-un-outil-collaboratif-pour-faciliter-la-gestion-communautaire-de-ses-thesaurus
 
 #
+https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory_of_Semantic_Processing A Spreading Activation Theory of Semantic Processing - 1975
+> https://news.ycombinator.com/item?id=36084457
+
 https://news.ycombinator.com/item?id=36011067
 
 https://www.w3.org/blog/news/archives/9906 First Public Working Drafts: Update of the RDF and SPARQL families of specification towards version 1.2

@@ -89,6 +89,8 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://old.reddit.com/r/rust/comments/13t0z29/websurfx_an_opensource_alternative_to_searx_that/
+
 https://digital.staatsbibliothek-berlin.de/
 > https://news.ycombinator.com/item?id=35854834
 

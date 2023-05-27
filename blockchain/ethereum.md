@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://ceremony.ethereum.org/
+> https://news.ycombinator.com/item?id=36076364
+
 https://sealvault.org/blog/2023/04/token-transfer-tla/
 
 https://blog.kraken.com/post/17865/ethereum-shanghai-upgrade-what-you-need-to-know/
@@ -133,7 +136,6 @@ https://twitter.com/thomasg_eth/status/1492663192404779013
 > https://news.ycombinator.com/item?id=30322715
 
 https://www.saurik.com/optimism.html
-> 
 
 https://maxread.substack.com/p/mapping-the-celebrity-nft-complex
 
@@ -141,7 +143,6 @@ https://finbold.com/wormhole-confirms-all-300-million-in-funds-have-been-restore
 > https://news.ycombinator.com/item?id=30196343
 
 https://blockworks.co/in-second-largest-defi-hack-ever-blockchain-bridge-loses-320m-ether/
-> 
 
 https://www.theblockcrypto.com/linked/132841/256-million-in-eth-stolen-from-cross-chain-protocol-wormhole
 > https://news.ycombinator.com/item?id=30184454

@@ -109,6 +109,13 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://github.com/softdorothy/GliderPRO
+> https://news.ycombinator.com/item?id=36028244
+
+https://github.com/minosvasilias/godot-dodo
+
+https://www.gameuidatabase.com/
+
 https://boardgame.io/
 > https://github.com/boardgameio/boardgame.io
 

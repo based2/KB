@@ -19,6 +19,9 @@ https://txt.cohere.ai/what-are-transformer-models/
 https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
+#
+https://arxiv.org/abs/2305.16300
+
 https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
 > https://news.ycombinator.com/item?id=34566275
 

@@ -1,3 +1,5 @@
+https://www.linuxfoundation.org/press/open-metaverse-foundation
+
 https://twitter.com/cixliv/status/1660038281034350592
 > https://news.ycombinator.com/item?id=36020437
 

@@ -296,6 +296,8 @@ https://alhassy.com/making-vscode-itself-a-java-repl?x-host=www.alhassy.com
 https://code.visualstudio.com/blogs/2022/12/07/remote-even-better
 > https://news.ycombinator.com/item?id=33945796
 
+https://devblogs.microsoft.com/visualstudio/all-in-one-search-available-in-17-6/
+
 ##
 https://blogs.apache.org/netbeans/entry/announce-apache-netbeans-14-released
 > https://news.ycombinator.com/item?id=32835722

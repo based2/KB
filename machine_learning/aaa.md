@@ -348,6 +348,24 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=36064910
+
+https://ai4comm.media.mit.edu/
+> https://news.ycombinator.com/item?id=36079180
+
+https://a16z.com/2023/05/25/ai-canon/
+> https://news.ycombinator.com/item?id=36072268
+
+https://arxiv.org/abs/2305.14314 QLoRA: Efficient Finetuning of Quantized LLMs
+> https://news.ycombinator.com/item?id=36064568
+
+https://news.ycombinator.com/item?id=36072524 ChatGPT plugins now support Postgres and Supabase
+> https://macroapp.io/blog/the-context-warehouse
+
+https://news.ycombinator.com/item?id=36070090
+
+https://news.ycombinator.com/item?id=36083093
+
 https://stratechery.com/2023/windows-and-the-ai-platform-shift/
 
 https://news.ycombinator.com/item?id=36034211
@@ -402,8 +420,10 @@ https://news.ycombinator.com/item?id=35927239
 https://nadh.in/blog/this-time-it-feels-different/
 > https://news.ycombinator.com/item?id=35926904
 
-https://chat.lmsys.org/?leaderboard
+https://chat.lmsys.org/?leaderboard chatbot
 > https://news.ycombinator.com/item?id=35895605
+> > https://lmsys.org/blog/2023-05-25-leaderboard/
+> > > https://news.ycombinator.com/item?id=36075977
 
 https://news.ycombinator.com/item?id=35901538
 

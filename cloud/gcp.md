@@ -23,6 +23,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure
+> https://news.ycombinator.com/item?id=36086858
+
 https://www.theregister.com/2023/05/10/google_cloud_paris_outage_persists/?td=keepreading
 
 https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY#73mBtVKKfeJGJ1yaY7hV

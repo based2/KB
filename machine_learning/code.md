@@ -54,6 +54,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://news.ycombinator.com/item?id=36071342
+> https://news.ycombinator.com/item?id=36056408
+
 https://www.oneusefulthing.org/p/it-is-starting-to-get-strange
 > https://news.ycombinator.com/item?id=36038635
 

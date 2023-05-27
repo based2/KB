@@ -123,6 +123,10 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # Incident
+https://blog.thc.org/infecting-ssh-public-keys-with-backdoors
+> https://news.ycombinator.com/item?id=36075144
+> https://lobste.rs/s/nezmn0/infecting_ssh_public_keys_with_backdoors
+
 https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 > https://www.reddit.com/r/netsec/comments/10heryo/libgit2_fails_to_verify_ssh_keys_by_default/
 

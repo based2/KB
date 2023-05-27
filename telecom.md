@@ -134,6 +134,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+https://www.lightreading.com/5g-and-beyond/t-mobiles-5g-network-threatened-by-pennsylvania-home-security-system/d/d-id/784989
+
 https://arstechnica.com/tech-policy/2023/05/48-states-sue-phone-company-that-allegedly-catered-to-needs-of-robocallers/
 
 https://www.bleepingcomputer.com/news/security/dish-network-likely-paid-ransom-after-recent-ransomware-attack/
@@ -156,6 +158,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.sacredheartsc.com/blog/building-a-personal-voip-system/
+> https://news.ycombinator.com/item?id=36092718
+
 https://spectrum.ieee.org/5g-rollout-disappointments
 > https://news.ycombinator.com/item?id=35847899
 

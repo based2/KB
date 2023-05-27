@@ -51,6 +51,9 @@ https://determinate.systems/posts/nuenv
 
 https://blinry.org/nix-time-travel/
 
+https://blog.replit.com/super-colliding-nix-stores
+> https://news.ycombinator.com/item?id=36073919
+
 # Incident
 https://giraffesecurity.dev/posts/google-remote-code-execution/
 > https://www.reddit.com/r/netsec/comments/12mtclt/remote_code_execution_vulnerability_in_google/
@@ -80,6 +83,8 @@ https://askubuntu.com/questions/1341002/apt-install-g-10-installs-clang-10-inste
 https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-via-must-mkdir-and-open-with-perms-39990
 
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
+
+https://blog.remirepo.net/
 
 #
 https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html

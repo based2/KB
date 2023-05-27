@@ -21,7 +21,13 @@ https://nick-black.com/dankwiki/index.php/Io_uring
 https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
+#
+https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption after upgrade to 6.3.3 kernel
+> https://news.ycombinator.com/item?id=36082788
+
 # News
+https://www.phoronix.com/news/Intel-RFC-DRM-Netlink-RAS
+
 https://www.phoronix.com/news/AMD-One-Liner-System-Resume
 > https://news.ycombinator.com/item?id=36057248
 

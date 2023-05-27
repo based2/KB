@@ -216,6 +216,10 @@ https://github.com/moshi4/pyCirclize
 
 https://datavizproject.com/
 
+https://twitter.com/mbostock/status/1661814623962812416
+> https://news.ycombinator.com/item?id=36075587
+> > https://observablehq.com/plot/why-plot
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
@@ -255,10 +259,20 @@ https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehou
 > https://news.ycombinator.com/item?id=34342190
 
 # Data Mesh
+https://www.datamesh-architecture.com/
+
 https://cnr.sh/essays/what-the-heck-data-mesh
 > https://news.ycombinator.com/item?id=27999348
 
 https://martinfowler.com/articles/data-monolith-to-mesh.html
+
+https://kyuubi.apache.org/ Serverless SQL on Lakehouse
+
+https://eventmesh.apache.org/
+
+https://www.datamesh-architecture.com/tech-stacks/aws-s3-athena
+
+https://aws.amazon.com/en/big-data/datalakes-and-analytics/modern-data-architecture/
 
 # Data Frame
 https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/
@@ -298,6 +312,15 @@ https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5
 > https://news.ycombinator.com/item?id=35973265
 
 # News
+https://news.ycombinator.com/item?id=36055490
+
+https://news.ycombinator.com/item?id=36095289
+
+https://vikramsg.github.io/blog_pandas_groupby_with_numpy/
+
+https://www.jobrunr.io/en/?tab=developer
+> https://news.ycombinator.com/item?id=36076667
+
 https://github.com/psychic-api/psychic unstructured
 > https://news.ycombinator.com/item?id=36032081
 
@@ -733,8 +756,6 @@ https://projectnessie.org/
 
 https://github.com/dolthub/dolt
 > https://news.ycombinator.com/item?id=31847416
-
-https://kyuubi.apache.org/ Serverless SQL on Lakehouse
 
 https://dcic-world.org/
 > https://news.ycombinator.com/item?id=31807877

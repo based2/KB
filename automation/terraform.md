@@ -192,6 +192,8 @@ https://sg12.cloud/serverless-data-processing-flow-with-kinesis-data-firehose-an
 
 https://github.com/ThiagoPanini/terraglue
 
+https://blog.jennasrunbooks.com/aws-lambda-function-iam-user-password-expiry-notice-ses-boto3-terraform?utm_source=www.weekly.tf&utm_medium=referral&utm_campaign=weekly-tf-issue-122-migrating-from-terraform-cloud-iam-user-password-expiry-notice-moving-resources-between-states-check-block-pytest-terraform-plugin-terraform-repl
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -222,6 +224,8 @@ https://clouddevdan.co.uk/private-endpoints-and-terraform-a-tale-of-time
 
 https://medium.com/twodigits/rotate-customer-managed-keys-in-data-factory-with-terraform-eb3a789ea2fc
 
+https://medium.com/@ECD3/managing-terraform-state-in-azure-best-practices-for-multiple-environments-c2f28bab2316
+
 # GCP
 https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b63245e31a88
 
@@ -238,11 +242,18 @@ https://github.com/cisco-open/stacks
 
 https://github.com/jaceq/terraeasy
 
+# testing
+https://github.com/cloud-custodian/pytest-terraform
+
 #
 https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://github.com/andreineculau/tfrep
+
+https://fivexl.io/blog/terraform-mv/
+
 https://x61.sh/log/2023/05/19052023172439-terraform_proxmox_openbsd.html
 
 https://dev.to/zenika/how-to-deploy-a-secured-ovh-managed-kubernetes-cluster-using-terraform-in-2023-17o7

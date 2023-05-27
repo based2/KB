@@ -16,6 +16,14 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://www.regentcraft.com/
+> https://news.ycombinator.com/item?id=36051831
+
+https://interestingengineering.com/transportation/us-startups-bladeless-vtol-can-reach-up-to-08-mach
+
+https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2
+> https://news.ycombinator.com/item?id=36087442
+
 https://www.lockheedmartin.com/en-us/products/quesst.html
 
 https://www.cbsnews.com/news/hazardous-materials-airplanes/

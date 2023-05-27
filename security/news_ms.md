@@ -1,6 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
 
 #
+https://cyolo.io/blog/dll-hijacking-strikes-back-exploiting-windows-on-arm-rdp-client-cve-2023-24905/
+
+https://tinyapps.org/blog/202304230700_xp_wpa.html
+> https://www.theregister.com/2023/05/26/windows_xp_activation_keygen/
+> > https://news.ycombinator.com/item?id=36090901
+
 https://www.theverge.com/2023/5/24/23735639/microsoft-surface-pro-x-camera-not-working-error-fix
 > https://news.ycombinator.com/item?id=36060373
 

@@ -4,6 +4,10 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://danrevah.github.io/2023/05/15/CVE-2023-26818-Bypass-TCC-with-Telegram/
+
+https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/
+
 https://old.reddit.com/r/techsupport/comments/13nqarb/suspicious_ios_keepass_client/
 > https://news.ycombinator.com/item?id=36020196
 

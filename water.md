@@ -146,3 +146,5 @@ https://news.stanford.edu/2023/05/18/new-technology-uses-ordinary-sunlight-disin
 > https://news.ycombinator.com/item?id=36009291
 
 https://onthepublicrecord.org/2009/03/04/why-districts-are-slow-to-charge-market-rates-for-water/
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285548

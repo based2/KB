@@ -62,6 +62,16 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://gorilla.cs.berkeley.edu
+> https://news.ycombinator.com/item?id=36073241
+
+https://github.com/kyegomez/tree-of-thoughts
+> https://news.ycombinator.com/item?id=36085538
+
+https://leanpub.com/langchain/read
+
+https://www.honeycomb.io/blog/hard-stuff-nobody-talks-about-llm
+
 https://mlc.ai/blog/2023/05/22/bringing-open-large-language-models-to-consumer-devices
 
 https://www.artisana.ai/articles/meta-ai-unleashes-megabyte-a-revolutionary-scalable-model-architecture

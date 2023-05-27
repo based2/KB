@@ -32,6 +32,10 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
+
+https://www.theregister.com/2023/05/26/new_betas_of_firefox_and_tbird/
+
 https://developer.chrome.com/blog/introducing-popover-api/
 > https://news.ycombinator.com/item?id=36052689
 
@@ -125,6 +129,9 @@ https://github.com/agateau/tmfi
 
 https://blog.mozilla.org/en/products/firefox/extensions-addons/heres-whats-going-on-in-the-world-of-extensions/
 > https://news.ycombinator.com/item?id=34418372
+
+https://servo.org/
+> https://news.ycombinator.com/item?id=36092852
 
 https://servo.org/blog/2023/01/16/servo-2023/
 > https://news.ycombinator.com/item?id=34400214

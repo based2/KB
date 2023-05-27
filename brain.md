@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.reuters.com/science/elon-musks-neuralink-gets-us-fda-approval-human-clinical-study-brain-implants-2023-05-25/
+> https://news.ycombinator.com/item?id=36077392
+
 https://spectrum.ieee.org/organoid-intelligence-computing-on-brain
 
 https://www.nature.com/articles/d41586-023-01391-5

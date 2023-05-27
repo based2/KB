@@ -56,6 +56,8 @@ https://hubblo-org.github.io/scaphandre-documentation/index.html
 
 https://www.iqair.com
 
+https://methane.jpl.nasa.gov/
+
 # Sea
 ## Transport
 https://www.cnet.com/roadshow/news/michelin-inflatable-boat-sails-decarbonize-shipping-tankers/
@@ -67,6 +69,21 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.washingtonpost.com/nation/2023/05/26/california-coastline-changes-cliffs-climate-change/
+> https://news.ycombinator.com/item?id=36090658
+
+https://edition.cnn.com/2023/05/27/world/meteorologists-conspiracy-harassment-abuse-climate-intl/index.html
+> https://news.ycombinator.com/item?id=36094515
+
+https://climeworks.com/direct-air-capture
+> https://news.ycombinator.com/item?id=36093771
+
+https://www.businessinsider.com/amazon-shipment-zero-gives-up-most-important-part-climate-pledge-2023-5?r=US&IR=T
+> https://news.ycombinator.com/item?id=36078746
+
+https://theclimatebrink.substack.com/p/emissions-are-no-longer-following
+> https://news.ycombinator.com/item?id=36079311
+
 https://www.esa.int/Applications/Observing_the_Earth/FutureEO/CryoSat/Ice_loss_from_Greenland_and_Antarctica_hits_new_record
 > https://news.ycombinator.com/item?id=36057052
 

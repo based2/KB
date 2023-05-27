@@ -102,6 +102,8 @@ http://minuszerodegrees.net/5150/post/5150%20-%20POST%20-%20Manufacturing%20test
 
 https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 
+https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
+
 # News
 https://www.diy-thermocam.net/
 > https://news.ycombinator.com/item?id=35848872

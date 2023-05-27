@@ -10,6 +10,10 @@ https://f-droid.org/
 
 https://guardianproject.info/
 
+#
+https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53
+> https://news.ycombinator.com/item?id=36089104
+
 https://www.nitrokey.com/news/2021/nitrophone-most-secure-android-planet
 > https://news.ycombinator.com/item?id=28390230
 

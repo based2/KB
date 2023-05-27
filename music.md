@@ -191,6 +191,9 @@ https://ianthehenry.com/posts/binary-instrument/
 
 https://github.com/sdatkinson/neural-amp-modeler
 
+https://www.fretboardfly.com/home
+> https://news.ycombinator.com/item?id=36084503
+
 https://fretastic.com/guitar
 > https://news.ycombinator.com/item?id=30250777
 

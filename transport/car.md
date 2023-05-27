@@ -18,6 +18,11 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html
+> https://news.ycombinator.com/item?id=36079236
+
+https://techcrunch.com/2023/05/25/elon-musk-says-tesla-might-open-source-more-code-to-other-automakers/
+
 https://www.fleeteurope.com/en/connected/europe/features/all-new-vehicles-must-have-black-box-crash-recorders?a=JMA06&t%5B0%5D=Safety&curl=1
 
 https://topcarnews.net/hyundais-new-steering-system-may-make-parking-jobs-way-easier-s237901.html

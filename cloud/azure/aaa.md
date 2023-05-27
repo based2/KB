@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.bleepingcomputer.com/news/security/microsoft-365-phishing-attacks-use-encrypted-rpmsg-messages/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-365-hit-by-new-outage-causing-connectivity-issues/
 
 https://www.bleepingcomputer.com/news/microsoft/new-microsoft-365-outage-causes-exchange-online-connectivity-issues/

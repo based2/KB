@@ -48,6 +48,9 @@ https://jvns.ca/blog/2021/09/16/debugging-in-a-repl-is-fun/
 https://github.com/robusta-dev/debug-toolkit
 > https://www.reddit.com/r/netsec/comments/rs3n0w/i_wrote_a_replacement_for_pyrasite_to_inject_code/
 
+https://blog.koehntopp.info/2023/03/14/tracing-python.html
+> https://news.ycombinator.com/item?id=36054868
+
 # Testing
 https://news.ycombinator.com/item?id=26565785
 
@@ -298,6 +301,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://ricardoanderegg.com/posts/makefile-python-project-tricks/
+> https://news.ycombinator.com/item?id=36092007
+
 https://jax.readthedocs.io/en/latest/pytrees.html
 > https://news.ycombinator.com/item?id=36029368
 

@@ -1,4 +1,9 @@
+https://github.com/amnesica/KryptEY
+> https://news.ycombinator.com/item?id=36091710
+
 https://blog.thalium.re/posts/fuzzing-samsung-system-services/
+
+https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
 https://arstechnica.com/information-technology/2023/05/app-with-50000-google-play-installs-sent-attackers-mic-recordings-every-15-minutes/

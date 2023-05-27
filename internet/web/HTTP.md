@@ -176,6 +176,12 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://httptoolkit.com/blog/http-search-method/
+> https://news.ycombinator.com/item?id=36095032
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418 cloudflare ipv6
+> https://news.ycombinator.com/item?id=36090344
+
 https://medium.com/airbnb-engineering/improving-performance-with-http-streaming-ba9e72c66408
 > https://news.ycombinator.com/item?id=35982732
 

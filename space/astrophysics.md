@@ -59,6 +59,12 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely
+> https://news.ycombinator.com/item?id=36082798
+
+https://www.nature.com/articles/d41586-023-01732-4
+> https://news.ycombinator.com/item?id=36086099
+
 https://www.quantamagazine.org/new-math-shows-when-solar-systems-become-unstable-20230516/
 > https://news.ycombinator.com/item?id=35982507
 

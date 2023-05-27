@@ -13,6 +13,8 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://composable-models.github.io/llm_debate/
+
 https://wccftech.com/intel-aurora-genai-chatgpt-competitor-generative-ai-model-with-1-trillion-parameters/
 > https://news.ycombinator.com/item?id=36034074
 

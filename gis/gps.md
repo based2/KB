@@ -62,3 +62,5 @@ https://www.smh.com.au/national/farmers-crippled-by-satellite-failure-as-gps-gui
 
 https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Japan-plans-expansion-of-homegrown-GPS-network-to-11-satellites
 > https://news.ycombinator.com/item?id=35928663
+
+https://www.theverge.com/23663107/apple-watch-ultra-gps-running

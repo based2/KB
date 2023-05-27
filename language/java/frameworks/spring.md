@@ -121,3 +121,5 @@ https://spring.io/blog/2022/01/05/spring-framework-cve-2021-22060-has-been-publi
 
 https://vived.substack.com/p/spring-cleaning-a-review-of-new-tools?sd=pf
 
+https://piotrminkowski.com/2023/05/26/spring-boot-development-mode-with-testcontainers-and-docker/
+

@@ -132,3 +132,5 @@ https://www.koreaherald.com/view.php?mp=1&np=1&ud=20230422000063
 
 https://samwho.dev/memory-allocation/
 > https://news.ycombinator.com/item?id=36029087
+
+https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/

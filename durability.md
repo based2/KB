@@ -1,5 +1,7 @@
 https://www.indicereparabilite.fr/
 
+https://www.seaplastics.org
+
 # IT
 https://repair.wiki/w/Repair_Wiki
 
