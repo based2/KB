@@ -87,6 +87,9 @@ https://blog.fuzzbuzz.io/go-fuzzing-basics/
 
 https://github.com/jordanlewis/gcassert
 
+https://medium.com/gopher-time/enhancing-unit-testing-in-go-with-mocking-the-embedding-pattern-360a1753eb4
+> https://news.ycombinator.com/item?id=36103747
+
 ## Profiler
 https://eng.uber.com/pprof-go-profiler/
 > https://news.ycombinator.com/item?id=27118541
@@ -115,6 +118,8 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://github.com/pawelgaczynski/gain io_uring
+
 https://boyter.org/posts/how-to-start-go-project-2023/
 > https://news.ycombinator.com/item?id=36046662
 

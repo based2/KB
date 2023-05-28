@@ -21,6 +21,9 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
 # News
+https://github.com/mit-pdos/biscuit go
+> https://blog.jetbrains.com/go/2023/05/16/os-in-go-why-not/
+
 https://github.com/reactos/reactos
 > https://news.ycombinator.com/item?id=36093305
 

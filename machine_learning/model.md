@@ -62,6 +62,10 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://arxiv.org/abs/2305.15771
+
+https://github.com/chroma-core/chroma db
+
 https://gorilla.cs.berkeley.edu
 > https://news.ycombinator.com/item?id=36073241
 

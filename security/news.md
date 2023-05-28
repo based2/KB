@@ -1,3 +1,19 @@
+https://publications.cispa.saarland/3934/
+
+https://www.digital-identity-wallet.eu/
+> https://news.ycombinator.com/item?id=36105002
+
+https://salt.security/blog/a-new-oauth-vulnerability-that-may-impact-hundreds-of-online-services expo oauth mobile dev
+> https://nvd.nist.gov/vuln/detail/CVE-2023-28131
+> https://blog.expo.dev/security-advisory-for-developers-using-authsessions-useproxy-options-and-auth-expo-io-e470fe9346df?gi=dc9fcebee5f4
+
+https://www.reversinglabs.com/blog/secure-your-development-secrets-3-essential-steps
+> https://news.ycombinator.com/item?id=36098382
+
+https://www.akamai.com/blog/security-research/dark-frost-botnet-unexpected-author-profile
+
+https://www.ietf.org/archive/id/draft-farrell-tenyearsafter-00.html
+
 https://www.scmagazine.com/news/identity-and-access/onemain-pays-4-5m-after-ignored-security-flaws-caused-data-breaches
 
 https://news.ycombinator.com/item?id=36094122

@@ -348,6 +348,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://ericsink.com/entries/depth.html
+> https://news.ycombinator.com/item?id=36055066
+
 https://news.ycombinator.com/item?id=36064910
 
 https://ai4comm.media.mit.edu/

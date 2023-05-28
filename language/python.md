@@ -301,6 +301,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://www.nathanfurnal.xyz/posts/py-find-unused-deps/
+
 https://ricardoanderegg.com/posts/makefile-python-project-tricks/
 > https://news.ycombinator.com/item?id=36092007
 

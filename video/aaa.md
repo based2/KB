@@ -94,6 +94,9 @@ https://news.ycombinator.com/item?id=29000175
 https://www.slashfilm.com/673162/heres-why-movie-dialogue-has-gotten-more-difficult-to-understand-and-three-ways-to-fix-it/
 > https://news.ycombinator.com/item?id=29417309
 
+https://kottke.org/23/05/watch-tarkovskys-best-films-online-for-free
+> https://news.ycombinator.com/item?id=36096652
+
 # Tracking
 https://github.com/midiblocks/handsfree
 > https://news.ycombinator.com/item?id=27404196

@@ -68,6 +68,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 # Incident
 https://github.com/ramimac/aws-customer-security-incidents
 
+https://www.scmagazine.com/news/cloud-security/legion-malware-expands-scope-to-target-aws-cloudwatch-monitoring-tool
+
 https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/
 > https://www.reddit.com/r/netsec/comments/123oj5k/using_an_undocumented_amplify_api_to_leak_aws/
 

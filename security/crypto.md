@@ -173,6 +173,11 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security
+> https://news.ycombinator.com/item?id=36104547
+
+https://news.ycombinator.com/item?id=36092179 A comprehensive classification scheme to research approaches in modern cryptography, with examples.
+
 https://eprint.iacr.org/2023/715
 
 https://www.acm.org/media-center/2023/may/dissertation-award-2022

@@ -42,6 +42,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://no-color.org/
+> https://news.ycombinator.com/item?id=36098488
+
 https://github.com/raphamorim/rio
 > https://news.ycombinator.com/item?id=36057687
 

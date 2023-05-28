@@ -179,6 +179,10 @@ https://github.com/mockoon/mockoon
 https://httptoolkit.com/blog/http-search-method/
 > https://news.ycombinator.com/item?id=36095032
 
+https://httpwg.org/http-extensions/draft-ietf-httpbis-safe-method-w-body.html
+> https://news.ycombinator.com/item?id=36096343
+> https://www.reddit.com/r/programming/comments/13tmtox/the_http_query_method/
+
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418 cloudflare ipv6
 > https://news.ycombinator.com/item?id=36090344
 

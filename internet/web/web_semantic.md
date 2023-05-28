@@ -4,6 +4,9 @@ https://en.wikipedia.org/wiki/Ontology_(computer_science)
 
 https://jena.apache.org/tutorials/rdf_api.html
 
+https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System
+> https://vocbench.uniroma2.it/
+
 # RDF
 https://blog.adamretter.org.uk/vocabulary-reuse-part2/
 
@@ -12,6 +15,8 @@ https://protege.stanford.edu/
 # Data
 https://github.com/datafoodconsortium
 > https://linuxfr.org/news/le-dfc-met-en-place-un-outil-collaboratif-pour-faciliter-la-gestion-communautaire-de-ses-thesaurus
+
+https://op.europa.eu/en/web/eu-vocabularies/akn4eu
 
 #
 https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory_of_Semantic_Processing A Spreading Activation Theory of Semantic Processing - 1975

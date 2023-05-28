@@ -38,6 +38,8 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://scienceunicorn.blogspot.com/2014/01/the-emotional-lives-of-scientists.html
+
 https://news.ycombinator.com/item?id=35928936
 
 https://www.nature.com/articles/d41586-023-01391-5

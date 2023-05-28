@@ -120,41 +120,60 @@ https://github.com/PacoVK/tapir registry
 https://servian.dev/terraform-local-providers-and-registry-mirror-configuration-b963117dfffa
 
 # AWS
-https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-service-catalog-terraform.html
-
-https://github.com/sashee/terraform-change-rds-password
-
-https://betterprogramming.pub/implementing-an-email-masking-proof-of-concept-using-aws-simple-email-service-ses-and-aws-rust-c6aa34f1e1df
-
-https://github.com/JamesWoolfenden/pike Determining the permissions or policy required for IAC code
-
-https://dev.to/boodyvo/deploy-a-static-website-on-aws-with-terraform-2el3
-
-https://github.com/awslabs/terraform-iam-policy-validator
+https://www.hashicorp.com/blog/terraform-aws-provider-5-0-adds-updates-to-default-tags
+> https://github.com/hashicorp/terraform-provider-aws/blob/main/ROADMAP.md
 
 https://medium.com/adevinta-tech-blog/enforcing-and-controlling-infrastructure-as-code-40f38c89fb2e
 
 https://medium.com/meliopayments/finding-the-right-balance-between-terraform-and-cloudformation-31651349a390
 
-https://www.davehall.com.au/blog/2022/10/19/tracking-infrastructure-with-ssm-and-terraform/
-
 https://github.com/JamesWoolfenden/sato CF2Terraform
 
-https://github.com/1debit/alternat/
+https://www.davehall.com.au/blog/2022/10/19/tracking-infrastructure-with-ssm-and-terraform/
 
 https://www.reddit.com/r/aws/comments/yv1tx4/aws_control_tower_vs_terraform/
 
-https://www.meshcloud.io/de/blog/aws-landing-zone-comparison/
-
 https://awstip.com/provisioning-infrastructure-on-aws-with-gitlab-using-gitlab-managed-terraform-state-d06c13c9efd1
 
-https://blog.symops.com/2022/11/10/stop-playing-whac-a-mole-start-using-least-privilege/
+## Landing zone
+https://www.meshcloud.io/de/blog/aws-landing-zone-comparison/
 
-https://blog.symops.com/2022/11/17/rds-access/
+https://github.com/aws-samples/aws-scps-with-terraform
+
+## IAM
+
+https://github.com/awslabs/terraform-iam-policy-validator
+
+https://github.com/JamesWoolfenden/pike Determining the permissions or policy required for IAC code
 
 https://airiam.io/
 
-https://github.com/JamesWoolfenden/pike iam permissions
+https://blog.symops.com/2022/11/10/stop-playing-whac-a-mole-start-using-least-privilege/
+
+## Cognito
+https://github.com/DNXLabs/terraform-aws-cognito
+
+## EC2
+
+https://github.com/maathor/terraform-aws-ssm-bastion/
+
+## RDS
+https://github.com/sashee/terraform-change-rds-password
+
+https://blog.symops.com/2022/11/17/rds-access/
+
+https://medium.com/develeap/rds-logs-optimizer-dont-overpay-for-storing-your-logs-83a402d2dd44
+
+https://github.com/develeap/rds-logs-optimizer
+
+##
+https://dev.to/boodyvo/deploy-a-static-website-on-aws-with-terraform-2el3
+
+https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-service-catalog-terraform.html
+
+https://betterprogramming.pub/implementing-an-email-masking-proof-of-concept-using-aws-simple-email-service-ses-and-aws-rust-c6aa34f1e1df
+
+https://github.com/1debit/alternat/
 
 https://news.ycombinator.com/item?id=34038663
 
@@ -168,17 +187,11 @@ https://medium.com/heyjobs-tech/how-to-create-an-opensearch-cluster-using-terraf
 
 https://medium.com/@senior-devops/how-to-extend-terraform-with-direnv-a4a3fef092c5
 
-https://medium.com/develeap/rds-logs-optimizer-dont-overpay-for-storing-your-logs-83a402d2dd44
-
-https://github.com/develeap/rds-logs-optimizer
-
 https://conormaher.com/robust-logical-isolation-using-aws-sts-scope-down-policies
 
 https://towardsaws.com/enabling-ci-cd-for-single-page-application-using-aws-s3-aws-codepipeline-and-terraform-fb52f338a4e8?gi=b831e00a952a
 
 https://aws.plainenglish.io/alternative-way-provision-aws-resource-via-terraform-using-iam-assume-role-reference-c80a73e45f03
-
-https://github.com/aws-samples/aws-scps-with-terraform
 
 https://hashnode.localstack.cloud/smooth-transition-from-aws-to-localstack-for-your-dev-environment
 
@@ -193,6 +206,8 @@ https://sg12.cloud/serverless-data-processing-flow-with-kinesis-data-firehose-an
 https://github.com/ThiagoPanini/terraglue
 
 https://blog.jennasrunbooks.com/aws-lambda-function-iam-user-password-expiry-notice-ses-boto3-terraform?utm_source=www.weekly.tf&utm_medium=referral&utm_campaign=weekly-tf-issue-122-migrating-from-terraform-cloud-iam-user-password-expiry-notice-moving-resources-between-states-check-block-pytest-terraform-plugin-terraform-repl
+
+https://betterprogramming.pub/sending-aws-lambda-logs-to-an-observability-service-like-datadog-or-new-relic-e75ba8d9e461
 
 ## Serverless
 https://github.com/Plenituz/barbe-serverless

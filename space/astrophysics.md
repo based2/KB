@@ -54,11 +54,15 @@ https://petapixel.com/2021/09/15/a-closer-look-how-i-created-a-248mp-photo-of-th
 > https://news.ycombinator.com/item?id=28549643
 
 ## Supernova
+https://en.wikipedia.org/wiki/Supernova
+
 https://en.m.wikipedia.org/wiki/SN_1054
 
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://earthsky.org/astronomy-essentials/safe-distance-from-a-supernova-earth/
+
 https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely
 > https://news.ycombinator.com/item?id=36082798
 

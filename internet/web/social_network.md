@@ -88,6 +88,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.businessinsider.com/elon-musk-pull-twitter-european-commission-digital-services-act-2023-5?r=US&IR=T
+
 https://github.com/NotJoeMartinez/yt-fts
 > https://news.ycombinator.com/item?id=36009774
 

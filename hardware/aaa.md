@@ -105,6 +105,12 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/
+> https://news.ycombinator.com/item?id=36102406
+
+https://jprahman.substack.com/p/intel-cpu-die-topology
+> https://news.ycombinator.com/item?id=36101199
+
 https://www.diy-thermocam.net/
 > https://news.ycombinator.com/item?id=35848872
 

@@ -158,6 +158,12 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=36104213
+
+https://arstechnica.com/tech-policy/2023/05/biden-admin-wants-europe-to-reject-forced-payments-from-big-tech-to-isps/
+
+https://www.cbsnews.com/news/senators-issued-satellite-phones-new-security-measures/
+
 https://www.sacredheartsc.com/blog/building-a-personal-voip-system/
 > https://news.ycombinator.com/item?id=36092718
 

@@ -103,6 +103,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://ybogomolov.me/making-illegal-states-unrepresentable/
+
 https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-rc/
 
 https://bun.sh/blog/bun-v0.6.0

@@ -67,6 +67,8 @@ https://www.mattkeeter.com/blog/2022-08-11-udp/ From Oscilloscope to Wireshark: 
 
 https://news.ycombinator.com/item?id=33820330
 
+https://krisnova.net/posts/network-instrumentation/
+
 # Tests
 https://docs.gns3.com/docs/
 

@@ -57,8 +57,23 @@ https://github.com/awslabs/data-on-eks
 
 https://github.com/yandex-cloud/k8s-csi-s3
 
+# Monitoring
+https://stackoverflow.com/questions/73161371/fluentbit-not-sending-eks-logs-to-s3
+
+https://kube-logging.dev/docs/quickstarts/example-s3/
+
+https://medium.com/@itsmesr/streaming-application-logs-from-eks-to-cloudwatch-using-fluentd-c64610ffa48e
+
+https://aws.amazon.com/en/about-aws/whats-new/2021/11/amazon-eks-aws-fargate-supports-fluent-bit-kubernetes-filter/
+
+https://docs.fluentbit.io/manual/pipeline/filters/aws-metadata
+
+https://www.onepane.ai/blog/fluent-bit-modify-log-data-with-modify-filter-plugin-example
+
 #
-https://aws.amazon.com/fr/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-26/
+https://aws.amazon.com/en/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-27/
+
+https://aws.amazon.com/en/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-26/
 
 https://www.tremolosecurity.com/post/securely-calling-aws-apis-from-kubernetes
 

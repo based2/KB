@@ -13,6 +13,8 @@ https://news.ycombinator.com/item?id=29392702
 > https://tika.apache.org/    
 > https://pdfbox.apache.org/
 
+https://github.com/apache/lucene/pull/12311
+
 https://github.com/searx/searx
 > https://sagrista.info/blog/2021/searx-or-duckduckgo/
 > > https://news.ycombinator.com/item?id=29198575

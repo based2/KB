@@ -65,6 +65,8 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://gnosis.cx/regex/HTML/text/ch004.xhtml
+
 https://tavianator.com/2023/irregex.html
 
 https://regex.ai/

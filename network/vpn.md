@@ -69,6 +69,8 @@ https://arstechnica.com/information-technology/2021/09/film-studios-sue-liquidvp
 https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-top-role-company-2021-09-23/
 > https://news.ycombinator.com/item?id=28642784
 
+https://www.ic3.gov/Media/News/2021/211117-2.pdf fatpipe vpn
+
 #
 https://mmmds.pl/cyberghostvpn-mitm-rce-lpe/
 > https://www.reddit.com/r/netsec/comments/12d8qp0/cyberghostvpn_linux_client_vulnerable_to_mitm_rce/

@@ -35,3 +35,5 @@ https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_
 > https://news.ycombinator.com/item?id=34410776
 
 https://news.ycombinator.com/item?id=35798829
+
+https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html

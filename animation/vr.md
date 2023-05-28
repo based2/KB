@@ -1,3 +1,6 @@
+https://immersiveweb.dev/
+> https://news.ycombinator.com/item?id=36097258
+
 https://www.linuxfoundation.org/press/open-metaverse-foundation
 
 https://twitter.com/cixliv/status/1660038281034350592

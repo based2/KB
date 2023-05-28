@@ -430,6 +430,8 @@ https://editable.website/
 https://github.com/yashash-pugalia/win11-svelte
 > https://news.ycombinator.com/item?id=35896505
 
+https://github.com/ItalyPaleAle/svelte-spa-router
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296

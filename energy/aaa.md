@@ -16,6 +16,11 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202300748
+
+https://spectrum.ieee.org/relay-changed-the-power-industry
+> https://news.ycombinator.com/item?id=36099242
+
 https://yle.fi/a/74-20033326
 > https://news.ycombinator.com/item?id=36057889
 

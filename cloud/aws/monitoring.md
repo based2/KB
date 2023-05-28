@@ -6,6 +6,10 @@ https://itnext.io/aws-vpc-flow-logs-an-overview-and-example-with-cloudwatch-logs
 https://vigilance.fr/vulnerabilite/AWStats-Cross-Site-Scripting-via-Hostinfo-Plugin-40020
 
 # News
+https://medium.com/dnx-labs/exporting-cloudwatch-logs-automatically-to-s3-with-a-lambda-function-80e1f7ea0187
+
+https://streamalert.io/
+
 https://github.com/hseera/cloudwatch-dashboard-builder
 
 https://itnext.io/testing-aws-cloudwatch-alarms-75caebcf6da8

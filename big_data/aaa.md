@@ -312,6 +312,11 @@ https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5
 > https://news.ycombinator.com/item?id=35973265
 
 # News
+https://www.yulingyao.com/blog/2023/overfit/
+
+https://statmodeling.stat.columbia.edu/2023/05/20/if-you-do-not-know-what-you-would-have-done-under-all-possible-scenarios-then-you-cannot-know-the-type-i-error-rate-for-your-analysis/
+> https://news.ycombinator.com/item?id=36028740
+
 https://news.ycombinator.com/item?id=36055490
 
 https://news.ycombinator.com/item?id=36095289

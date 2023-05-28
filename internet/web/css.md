@@ -225,6 +225,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.kodingkitty.com/blog/blend-modes/
+> https://news.ycombinator.com/item?id=36104195
+
 https://typescale.com/
 > https://news.ycombinator.com/item?id=36000260
 

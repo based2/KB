@@ -404,6 +404,9 @@ https://github.com/EtherDream/http-server-online
 
 https://gemini.circumlunar.space/docs/faq.gmi
 
+https://daniel.haxx.se/blog/2023/05/28/the-gemini-protocol-seen-by-this-http-client-person/
+> https://news.ycombinator.com/item?id=36104533
+
 https://andregarzia.com/2022/01/gemini-is-a-little-gem.html
 > https://news.ycombinator.com/item?id=30072085
 > > TLS RECOMMENDED approach is  to implement a lightweight "TOFU" certificate-pinning system which treats self-signed certificates as first-class citizens

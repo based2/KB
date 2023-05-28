@@ -312,6 +312,7 @@ https://hails.org/@hailey/110360791283096989
 
 https://blog.janestreet.com/oxidizing-ocaml-locality/
 > https://www.reddit.com/r/programming/comments/13so19f/oxidizing_ocaml_locality/
+> https://news.ycombinator.com/item?id=36094799
 
 ## MacOs
 https://github.com/ryanmcgrath/cacao
@@ -454,6 +455,11 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://github.com/matklad/cargo-xtask
+
+https://www.jntrnr.com/why-i-left-rust/
+> https://news.ycombinator.com/item?id=36101501
+
 https://pingcap.medium.com/the-rust-compilation-model-calamity-1a8ce781cf6c
 
 https://thephd.dev/i-am-no-longer-speaking-at-rustconf-2023

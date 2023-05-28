@@ -101,6 +101,8 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 https://github.com/vitaliy-sk/PerfUnit
 
 # News
+https://github.com/adobe/S3Mock
+
 https://www.htmlunit.org/changes-report.html#a3.0.0
 
 https://www.reddit.com/r/java/comments/10qskhw/logcaptor_280_released/

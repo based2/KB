@@ -15,6 +15,9 @@ https://github.com/seaweedfs/seaweedfs
 https://github.com/yandex-cloud/geesefs non-fuse
 
 ## S3
+https://towardsdatascience.com/streaming-big-data-files-from-cloud-storage-634e54818e75
+> https://github.com/kahing/goofys
+
 https://juicefs.com/en/ .cn
 > https://news.ycombinator.com/item?id=34706227
 
