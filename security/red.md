@@ -7,3 +7,5 @@ https://github.com/Drew-Alleman/DataSurgeon
 > https://www.reddit.com/r/programming/comments/11hst52/datasurgeon_quickly_extracts_ips_email_addresses/
 
 https://www.trustedsec.com/blog/walking-the-tightrope-maximizing-information-gathering-while-avoiding-detection-for-red-teams/
+
+https://github.com/sKillseries/kali-automation-install

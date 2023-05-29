@@ -25,6 +25,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://github.com/calebmadrigal/trackerjacker
+
 https://github.com/vanhoefm/macstealer CVE-2022-47522
 > https://news.ycombinator.com/item?id=35582798
 

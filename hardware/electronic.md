@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://predictabledesigns.com/how-much-does-it-cost-to-develop-and-manufacture-new-electronic-product/
+
+
 https://www.allaboutcircuits.com/textbook/
 
 https://lushprojects.com/circuitjs/circuitjs.html

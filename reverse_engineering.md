@@ -4,6 +4,8 @@ https://github.com/cea-sec/miasm
 https://ghidra-sre.org/
 > https://news.ycombinator.com/item?id=33226050
 
+https://cutter.re/
+
 https://github.com/qilingframework/qiling Advanced binary emulation framework
 
 https://piroguetoolsuite.github.io/
@@ -26,7 +28,12 @@ https://github.com/echtdefault/Janus
 https://labs.p1sec.com/2023/01/09/releasing-hermes-dec-an-open-source-disassembler-and-decompiler-for-the-react-native-hermes-bytecode/
 > https://github.com/P1sec/hermes-dec/
 
+https://imhex.werwolv.net/
+
 #
+https://towardsdatascience.com/cnn-for-reverse-engineering-an-approach-for-function-identification-1c6af88bca43
+> https://github.com/alonstern/function-identification
+
 https://blog.trailofbits.com/2022/08/25/magnifier-an-experiment-with-interactive-decompilation/
 
 https://github.com/rizinorg/cutter/releases/tag/v2.2.1

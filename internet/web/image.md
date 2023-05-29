@@ -69,6 +69,12 @@ https://github.com/OpenStitching/stitching
 https://pixian.ai/ background removal
 > https://news.ycombinator.com/item?id=36064639
 
+https://github.com/meowtec/Imagine
+
+https://www.pixelicious.xyz/
+
+https://github.com/gotson/komga
+
 # Photography
 https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/
 > https://news.ycombinator.com/item?id=35972047

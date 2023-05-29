@@ -29,7 +29,12 @@ https://blog.demofox.org/2021/12/29/why-cant-you-design-noise-in-frequency-space
 https://cleanvoice.ai/
 > https://news.ycombinator.com/item?id=29288618
 
+https://github.com/wwmm/easyeffects
+> https://news.ycombinator.com/item?id=36108927
+
 #
+https://github.com/trummerschlunk/master_me
+
 https://ieeexplore.ieee.org/document/1521350
 
 https://github.com/w-okada/voice-changer

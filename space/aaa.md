@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.theregister.com/2023/05/26/south_korea_nuri_launch_success/
+
 https://spacenews.com/nasa-safety-panel-skeptical-of-starliner-readiness-for-crewed-flight/
 > https://news.ycombinator.com/item?id=36085531
 

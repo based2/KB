@@ -57,6 +57,9 @@ https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-googl
 > https://news.ycombinator.com/item?id=29847033
 
 # News
+https://cloud.google.com/blog/products/application-development/cloud-workstations-managed-development-environment-is-now-ga?hl=en
+> https://news.ycombinator.com/item?id=36106716
+
 https://www.tomshardware.com/news/google-a3-supercomputer-h100-googleio
 > https://news.ycombinator.com/item?id=35924997
 

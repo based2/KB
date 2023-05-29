@@ -1,5 +1,8 @@
 https://huggingface.co/
 
+https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
+> https://news.ycombinator.com/item?id=35813322
+
 # llama Facebook
 https://www.reddit.com/r/LocalLLaMA/
 
@@ -65,6 +68,8 @@ https://github.com/pengxiao-song/LawGPT cn
 https://arxiv.org/abs/2305.15771
 
 https://github.com/chroma-core/chroma db
+
+https://redis.com/blog/chatgpt-memory-project/
 
 https://gorilla.cs.berkeley.edu
 > https://news.ycombinator.com/item?id=36073241

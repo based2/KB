@@ -28,3 +28,8 @@ https://www.saaspegasus.com/about/how-pegasus-works/
 
 https://dukope.itch.io/mars-after-midnight/devlog/532640/face-generator-updates
 > https://news.ycombinator.com/item?id=35998310
+
+https://curlconverter.com/
+
+https://github.com/ritz078/transform
+> https://transform.tools/

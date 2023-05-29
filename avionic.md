@@ -16,6 +16,10 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://news.ycombinator.com/item?id=36104746
+
+https://apnews.com/article/china-comac-c919-first-commercial-flight-6c2208ac5f1ed13e18a5b311f4d8e1ad
+
 https://www.regentcraft.com/
 > https://news.ycombinator.com/item?id=36051831
 

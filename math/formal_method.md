@@ -62,6 +62,9 @@ https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%2
 > https://news.ycombinator.com/item?id=27045771
 
 # 
+https://leanprover.github.io/functional_programming_in_lean/
+> https://news.ycombinator.com/item?id=36107796
+
 https://cs.brown.edu/~sk/Publications/Papers/Published/wk-examplar/paper.pdf
 > https://news.ycombinator.com/item?id=31372023
 

@@ -128,6 +128,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://www.theregister.com/2023/05/01/centralized_secrets_management_picks_up/?td=keepreading
+
 https://blog.1password.com/privacy-preserving-app-telemetry/
 > https://news.ycombinator.com/item?id=35691383
 

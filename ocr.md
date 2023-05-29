@@ -76,7 +76,12 @@ https://www.strayrobots.io/blog/3d-labeling-without-a-depth-camera
 # Video
 https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351
 
+# 
+https://github.com/clovaai/donut
+
 # News
+https://automeris.io/WebPlotDigitizer/
+
 https://github.com/ColonelParrot/jscanify
 
 https://github.com/kirkegaardlab/deeptangle

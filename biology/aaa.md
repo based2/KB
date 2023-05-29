@@ -38,10 +38,14 @@ https://www.science.org/doi/10.1126/scirobotics.abf1571
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiature Connector 2013
 > https://news.ycombinator.com/item?id=32886596
 
+https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-ability-influence-cell-behavior/
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.wired.com/story/wired30-crispr-edited-salad-greens/
+
 https://phys.org/news/2023-05-large-scale-genetic-modification-method-reveals.html
 > https://news.ycombinator.com/item?id=35962468
 

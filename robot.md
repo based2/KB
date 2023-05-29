@@ -72,6 +72,10 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://enchanted.tools/
+
+https://github.com/ami-iit/paper_nava_2023_icra_fault-control-ironcub
+
 https://interestingengineering.com/innovation/ai-arms-controlled-by-humans
 
 https://techxplore.com/news/2023-03-wheeled-robot-leaf-angles-corn.html

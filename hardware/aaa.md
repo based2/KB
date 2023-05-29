@@ -105,6 +105,11 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://www.servethehome.com/nvidia-computex-2023-keynote-nvidia-dgx-gh200-mgx-and-spectrum-x-specturm-4-arm/
+
+https://www.phonescoop.com/articles/article.php?a=23023
+> https://news.ycombinator.com/item?id=36109916
+
 https://chipsandcheese.com/2023/05/28/arms-cortex-a53-tiny-but-important/
 > https://news.ycombinator.com/item?id=36102406
 

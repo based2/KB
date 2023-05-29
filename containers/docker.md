@@ -204,7 +204,7 @@ https://blogs.gnome.org/alexl/2020/05/13/putting-container-updates-on-a-diet/
 https://earthly.dev/blog/earthly-v0-6/
 > https://news.ycombinator.com/item?id=29416147
 
-https://github.com/jesseduffield/lazydocker
+https://github.com/jesseduffield/lazydocker terminal
 > https://news.ycombinator.com/item?id=29400741
 
 https://blog.replit.com/nix-vs-docker

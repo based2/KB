@@ -27,5 +27,8 @@ https://dodov.dev/blog/how-to-debug-browser-redirects
 
 https://github.com/nucliweb/webperf-snippets
 
+https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/
+> https://news.ycombinator.com/item?id=36110576
+
 
 

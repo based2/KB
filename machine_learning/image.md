@@ -77,6 +77,19 @@ https://thenumb.at/Neural-Graphics/
 https://vcai.mpi-inf.mpg.de/projects/DragGAN/
 > https://news.ycombinator.com/item?id=35998649
 
+https://github.com/zsyOAOA/DifFace
+> https://colab.research.google.com/drive/1BNtoPPRuJwNDvqfwDOOmD9XJyF05Zh4m?usp=sharing
+
+https://scribblediffusion.com/
+
+https://github.com/camenduru/stable-diffusion-webui-colab
+
+https://github.com/camenduru
+
+https://github.com/chaiNNer-org/chaiNNer
+
+https://github.com/lkwq007/stablediffusion-infinity/blob/master/docs/setup_guide.md outpainting
+
 # Data
 https://github.com/allenai/mmc4
 > https://news.ycombinator.com/item?id=35619159
@@ -105,6 +118,8 @@ https://github.com/mlc-ai/web-stable-diffusion
 https://news.ycombinator.com/item?id=34395508 license
 
 https://github.com/godly-devotion/mochi-diffusion
+
+https://github.com/cmdr2/stable-diffusion-ui
 
 https://github.com/justjake/Gauss osx
 > https://news.ycombinator.com/item?id=34157363

@@ -44,6 +44,10 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/magnific0/wondershaper net cap
+
+https://dystroy.org/broot/
+
 https://github.com/Textualize/trogon Auto-generate friendly terminal user interfaces for command line apps
 > https://news.ycombinator.com/item?id=36020717
 

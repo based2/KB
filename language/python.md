@@ -84,6 +84,8 @@ https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/
 > https://notebook.basthon.fr/
 > https://jupyterlite.readthedocs.io/en/latest/_static/lab/index.html
 
+https://codewith.mu/en/
+
 # Switch
 https://news.ycombinator.com/item?id=26533270
 -> New pattern matching
@@ -301,6 +303,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://calmcode.io/
+
 https://www.nathanfurnal.xyz/posts/py-find-unused-deps/
 
 https://ricardoanderegg.com/posts/makefile-python-project-tricks/

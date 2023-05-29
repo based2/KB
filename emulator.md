@@ -3,6 +3,10 @@ https://github.com/ptitSeb/box64 Box64 - Linux Userspace x86_64 Emulator with a 
 https://www.pcjs.org/documents/manuals/intel/80386/
 > https://news.ycombinator.com/item?id=35325038
 
+https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.html
+> https://news.ycombinator.com/item?id=36104608
+> > http://users.freenet.am/~softland/tutorials/Petite.v2.3.MUP.txt
+
 #
 https://github.com/polpo/picogus isa sound card
 > https://news.ycombinator.com/item?id=36061326

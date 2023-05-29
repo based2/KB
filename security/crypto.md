@@ -173,6 +173,8 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.johndcook.com/blog/2017/08/14/testing-rngs-with-practrand/
+
 https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security
 > https://news.ycombinator.com/item?id=36104547
 

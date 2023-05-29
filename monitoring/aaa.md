@@ -41,6 +41,10 @@ https://expediadotcom.github.io/haystack/
 
 http://ganglia.sourceforge.net/
 
+https://glogg.bonnefon.org/
+
+https://github.com/variar/klogg
+
 # Syslog
 https://techblog.bozho.net/the-syslog-hell/
 > https://news.ycombinator.com/item?id=27104469
@@ -87,6 +91,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # Incident
+https://labs.jumpsec.com/advisory-cve-2022-37832-mutiny-network-monitoring-appliance-hardcoded-credentials/
+
 https://newsletter.pragmaticengineer.com/p/inside-the-datadog-outage
 > https://news.ycombinator.com/item?id=35971986
 
@@ -104,6 +110,15 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/binwiederhier/ntfy
+> https://ntfy.sh/
+
+https://github.com/statping-ng/statping-ng
+
+https://github.com/louislam/uptime-kuma
+
+https://github.com/GyulyVGC/sniffnet
+
 https://www.dataset.com/blog/systems-engineering-before-algorithms/
 
 https://gitlab.com/glitchtip/glitchtip-backend/-/blob/master/README.md

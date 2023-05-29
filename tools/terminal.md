@@ -42,6 +42,12 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/pvolok/mprocs
+
+https://www.terminalgif.com/
+
+https://fasterthanli.me/articles/a-terminal-case-of-linux color rust
+
 https://no-color.org/
 > https://news.ycombinator.com/item?id=36098488
 

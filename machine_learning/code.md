@@ -54,6 +54,12 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://www.cursor.so/ vs
+
+https://githubnext.com/projects/copilot-cli/
+
+https://github.blog/2023-05-17-inside-github-working-with-the-llms-behind-github-copilot/
+
 https://news.ycombinator.com/item?id=36071342
 > https://news.ycombinator.com/item?id=36056408
 

@@ -239,6 +239,11 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://www.javaadvent.com/2019/12/measuring-time-from-java-to-kernel-and-back.html
+
+https://ingep.net/breadboardwatch/
+> https://news.ycombinator.com/item?id=36099098
+
 https://benjoffe.com/weekle
 > https://news.ycombinator.com/item?id=36007128
 

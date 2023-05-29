@@ -71,6 +71,8 @@ https://krypted.com/mac-os-x/free-space-required-for-modern-macos-upgrades/
 https://dortania.github.io/OpenCore-Legacy-Patcher/
 > https://news.ycombinator.com/item?id=35538223
 
+https://sveinbjorn.org/sloth lsof
+
 # Dev
 https://news.ycombinator.com/item?id=35525047
 

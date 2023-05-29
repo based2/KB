@@ -27,6 +27,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://www.nytimes.com/2023/05/29/world/asia/china-space-moon-2030.html
+
 https://ispace-inc.com/news-en/?p=4691
 > https://news.ycombinator.com/item?id=36087804
 

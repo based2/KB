@@ -29,6 +29,11 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://dev.to/johnvick/rf-rotary-joints-in-radar-systems-enhancing-performance-and-flexibility-3n4d
+
+https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it
+> https://news.ycombinator.com/item?id=36107139
+
 https://www.planetanalog.com/a-brief-introduction-of-rf-test-chambers-and-ranges/
 > https://news.ycombinator.com/item?id=36043552
 

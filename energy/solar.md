@@ -18,6 +18,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html
+> https://news.ycombinator.com/item?id=36112641
+
 https://phys.org/news/2023-05-scientists-link-photosynthesis-state.html
 > https://news.ycombinator.com/item?id=35848343
 

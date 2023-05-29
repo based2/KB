@@ -19,6 +19,14 @@ https://robert.ocallahan.org/2017/12/maintaining-independent-browser-is.html
 # Test
 https://intoli.com/blog/firefox-extensions-with-selenium/
 
+# Terminal
+https://lynx.browser.org/
+
+https://www.brow.sh/
+
+https://fathy.fr/carbonyl
+> https://github.com/fathyb/carbonyl terminal
+
 #
 https://en.wikipedia.org/wiki/Amazon_Silk
 
@@ -112,8 +120,6 @@ https://www.mozilla.org/en-US/firefox/110.0/releasenotes/
 
 https://webkit.org/blog/13851/declarative-shadow-dom/
 > https://news.ycombinator.com/item?id=34778224
-
-https://github.com/fathyb/carbonyl
 
 https://www.theregister.com/2023/02/10/microsoft_edge_pdf_acrobat/
 

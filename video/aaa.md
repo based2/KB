@@ -116,6 +116,28 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://github.com/Casterlabs/Multistream
+
+https://github.com/mifi/editly
+
+https://aitum.tv/#vertical obs
+
+https://sourceforge.net/projects/videosubfinder/
+
+https://github.com/datarhei/restreamer
+
+https://snapcraft.io/4ktube
+
+https://github.com/paulpacifico/shutter-encoder
+> https://www.shutterencoder.com/en/
+> > https://news.ycombinator.com/item?id=36113280
+
+https://github.com/bluenviron/mediamtx webrtc
+> https://console.substack.com/p/console-159#%C2%A7mediamtx
+> > https://news.ycombinator.com/item?id=36107640
+> https://github.com/pikvm/ustreamer mjpeg-http
+
+
 https://there.oughta.be/a/bullet-time-video-booth
 > https://news.ycombinator.com/item?id=36087252
 

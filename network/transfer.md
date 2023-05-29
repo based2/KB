@@ -78,5 +78,10 @@ https://darke.handmade.network/ Version control and file synchronization system
 https://syncthing.net/
 > https://news.ycombinator.com/item?id=35879039
 
+https://github.com/magic-wormhole/magic-wormhole python
+> https://github.com/Jacalz/rymdport go
+
+https://altcopy.net/
+
 
 

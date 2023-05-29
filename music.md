@@ -203,6 +203,8 @@ https://muted.io/guitar-chords/ Show HN: A Little Tool to Visualize Guitar Chord
 https://justune.eu/#/ I made a guitar tuner app using Flutter and Rust
 > https://news.ycombinator.com/item?id=33150260
 
+https://guitarix.org/
+
 https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6
 > https://news.ycombinator.com/item?id=30467328
 
@@ -210,6 +212,10 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://github.com/sergree/matchering
+
+https://www.adsrsounds.com/product/software/adsr-sample-manager/
+
 https://www.cell.com/current-biology/fulltext/S0960-9822%2823%2900243-9
 > https://news.ycombinator.com/item?id=35286068
 

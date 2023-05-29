@@ -146,6 +146,8 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://github.com/sharkdp/hyperfine
+
 https://echoserver.dev/
 > https://news.ycombinator.com/item?id=36019664
 

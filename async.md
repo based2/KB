@@ -36,6 +36,10 @@ https://www.reddit.com/r/scala/comments/13i9ayb/the_great_concurrency_smackdown_
 https://tonsky.me/blog/humble-signals/
 > https://news.ycombinator.com/item?id=35973151
 
+https://github.com/libuv/libuv/pull/3952
+> https://news.ycombinator.com/item?id=36106196
+> > https://github.com/axboe/liburing/issues/467
+
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815

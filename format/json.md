@@ -72,6 +72,9 @@ https://json-schema.org/blog/posts/bundling-json-schema-compound-documents
 
 http://argonaut.io/doc/quickstart/ scala
 
+# Visu
+https://github.com/AykutSarac/jsoncrack.com
+
 # News
 https://github.com/tidwall/jj JSON Stream Editor
 > https://news.ycombinator.com/item?id=36067958

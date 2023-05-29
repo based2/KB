@@ -59,6 +59,8 @@ https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 # Security
 https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/
 
+https://github.com/C3n7ral051nt4g3ncy/WebOSINT
+
 # Incident
 https://vigilance.fr/vulnerabilite/MaraDNS-usurpation-via-Revoked-Domain-Name-41321
 
@@ -85,6 +87,8 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://www.enisa.europa.eu/publications/dns-identity
+
 https://twobithistory.org/2018/09/30/chaosnet.html
 > https://news.ycombinator.com/item?id=36079416
 

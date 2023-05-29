@@ -1,3 +1,5 @@
+https://vigilance.fr/vulnerabilite/Keycloak-acces-en-lecture-et-ecriture-via-Untrusted-Certificate-41352
+
 https://publications.cispa.saarland/3934/
 
 https://www.digital-identity-wallet.eu/
@@ -19,6 +21,8 @@ https://www.scmagazine.com/news/identity-and-access/onemain-pays-4-5m-after-igno
 https://news.ycombinator.com/item?id=36094122
 
 https://jshelter.org/
+
+https://labs.jumpsec.com/advisory-cve-2023-30382-half-life-local-privilege-escalation/
 
 https://blog.thc.org/infecting-ssh-public-keys-with-backdoors
 > https://news.ycombinator.com/item?id=36075144
@@ -757,6 +761,8 @@ https://learnsecurity.amazon.com/en/index.html
 
 https://github.com/veracrypt/VeraCrypt/issues/1007
 > https://news.ycombinator.com/item?id=34071301
+> https://blog.elcomsoft.com/2021/06/breaking-veracrypt-obtaining-and-extracting-on-the-fly-encryption-keys/
+> https://veracrypt.eu/en/Unencrypted%20Data%20in%20RAM.html
 
 https://www.bunniestudios.com/blog/?p=6606
 > https://news.ycombinator.com/item?id=34061511

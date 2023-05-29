@@ -64,6 +64,10 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/
+> https://news.ycombinator.com/item?id=36110527
+> > https://mcaptcha.org/
+
 https://news.ycombinator.com/item?id=35937375
 
 http://redump.org/

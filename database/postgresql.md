@@ -140,6 +140,8 @@ https://github.com/inqueryio/inquery
 https://imfeld.dev/notes/postgresql_row_level_security
 > https://news.ycombinator.com/item?id=35587196
 
+https://postgrest.org/en/stable/references/admin.html
+
 # Operations
 
 https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production

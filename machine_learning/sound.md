@@ -112,6 +112,8 @@ https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360
 > https://news.ycombinator.com/item?id=34770898
 
+https://github.com/hayabhay/whisper-ui
+
 https://writeout.ai/
 > https://news.ycombinator.com/item?id=35070405
 

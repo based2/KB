@@ -46,6 +46,10 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm
+> https://news.ycombinator.com/item?id=36110253
+> > https://next.redhat.com/2023/02/01/running-webassembly-workloads-on-container-runtimes/
+
 https://ogris.de/howtos/freebsd-jails.html
 > https://news.ycombinator.com/item?id=36068682
 
@@ -60,7 +64,6 @@ https://github.com/abiosoft/colima
 > https://news.ycombinator.com/item?id=35983349
 
 https://github.com/dyrector-io/dyrectorio
->
 
 https://gigatexal.blog/pages/getting-podman-on-ubuntu/getting-podman-on-ubuntu.html
 > https://news.ycombinator.com/item?id=35967691

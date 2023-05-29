@@ -46,8 +46,11 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.pagetable.com/?p=1107
+> https://news.ycombinator.com/item?id=36110680
+
 https://www.tomshardware.com/news/tape-storage-trundles-on-increases-yearly-volume-to-128-exabytes
->
+> https://news.ycombinator.com/item?id=36056408
 
 https://www.microsoft.com/en-us/research/project/project-silica/
 > https://news.ycombinator.com/item?id=36089007

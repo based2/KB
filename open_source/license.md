@@ -62,6 +62,7 @@ https://www.weka.io/blog/file-system/weka-responds-to-unfounded-allegations-made
 > https://news.ycombinator.com/item?id=35328316
 
 # Incident
+https://twitter.com/josefprusa/status/1663110426526117889
 
 https://www.theregister.com/2023/03/17/john_deere_sfc_gpl/
 > https://www.reddit.com/r/programming/comments/11ui5kb/the_sfc_urges_john_deere_to_surrender_source_code/

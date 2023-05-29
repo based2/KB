@@ -69,6 +69,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.nature.com/articles/s41893-023-01132-6
+
 https://news.ycombinator.com/item?id=36101616 venice
 
 https://www.washingtonpost.com/nation/2023/05/26/california-coastline-changes-cliffs-climate-change/

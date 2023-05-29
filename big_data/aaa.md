@@ -189,6 +189,11 @@ https://trino.io/
 
 https://questdb.io/
 
+https://github.com/man-group/ArcticDB https://arcticdb.io/
+> https://github.com/man-group/ArcticDB/blob/master/LICENSE.txt BSL
+> > https://itsfoss.com/making-the-business-source-license-open-source-compliant/
+> > > https://mariadb.com/bsl-faq-adopting/?ref=itsfoss.com
+
 # Visu
 https://treevis.net/
 
@@ -312,7 +317,12 @@ https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5
 > https://news.ycombinator.com/item?id=35973265
 
 # News
+
+https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet
+> https://news.ycombinator.com/item?id=36111392
+
 https://www.yulingyao.com/blog/2023/overfit/
+> https://news.ycombinator.com/item?id=36105572
 
 https://statmodeling.stat.columbia.edu/2023/05/20/if-you-do-not-know-what-you-would-have-done-under-all-possible-scenarios-then-you-cannot-know-the-type-i-error-rate-for-your-analysis/
 > https://news.ycombinator.com/item?id=36028740

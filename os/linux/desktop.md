@@ -97,6 +97,10 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://github.com/soyersoyer/cameractrls/blob/main/README.md
+
+https://github.com/Schneegans/Burn-My-Windows
+
 https://pointieststick.com/2023/05/20/this-week-in-kde-preliminary-hdr-support/
 
 https://github.com/elkowar/eww

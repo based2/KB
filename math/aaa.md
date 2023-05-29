@@ -144,6 +144,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://projecteuclid.org/journals/notre-dame-journal-of-formal-logic/volume-47/issue-4/The-Halting-Problem-Is-Decidable-on-a-Set-of-Asymptotic/10.1305/ndjfl/1168352664.full
+> https://news.ycombinator.com/item?id=36105717
+
 https://news.ycombinator.com/item?id=36056488
 
 https://breckyunits.com/a-mathematical-model-of-copyright.html

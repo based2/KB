@@ -88,6 +88,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://psyche.co/ideas/the-antidote-to-fake-news-is-to-nourish-our-epistemic-wellbeing
+> 
+
+https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/
+> https://news.ycombinator.com/item?id=36105629
+
 https://www.businessinsider.com/elon-musk-pull-twitter-european-commission-digital-services-act-2023-5?r=US&IR=T
 
 https://github.com/NotJoeMartinez/yt-fts

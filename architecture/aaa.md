@@ -349,6 +349,8 @@ https://www.infoq.com/news/2022/06/data-mesh-topologies/
 
 https://stackoverflow.blog/2022/11/28/when-to-use-grpc-vs-graphql/
 
+https://hypirion.com/musings/graphql-and-type-systems
+
 https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
 > https://news.ycombinator.com/item?id=33934159
 

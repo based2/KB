@@ -78,7 +78,7 @@ https://arstechnica.com/gadgets/2022/09/breaking-down-how-usb4-goes-where-no-usb
 https://www.angstronomics.com/p/usb4-v2
 > https://news.ycombinator.com/item?id=32694753
 
-https://github.com/pbatard/rufus/releases/tag/v3.19
+https://rufus.ie/en/#
 
 https://www.engadget.com/eu-reaches-deal-to-make-usb-c-a-common-charger-for-most-electronic-devices-104605067.html?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAIMYBO9tpW5AsjhoceaQSgbUrXTQaQNrjp77S8gk1Hl3YLN8q7u4zyiIIQnwZxpFPvYWMBe7X24p-RjoPdvQjgDOddTRymT_-262JafBtbF_61D-M0JA3DkVF3YRldER-xOzZUY4PnhJimrMgnkCOQBgYcpf09uOVJMomtvGuz2A
 > https://news.ycombinator.com/item?id=31652291

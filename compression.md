@@ -40,6 +40,8 @@ https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://github.com/M2Team/NanaZip
+
 https://zlib.net/pigz/
 > https://news.ycombinator.com/item?id=35914447
 

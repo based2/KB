@@ -272,6 +272,9 @@ https://www.giskard.ai/safegpt
 > https://news.ycombinator.com/item?id=35652452
 
 # Incident
+https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/
+> https://news.ycombinator.com/item?id=36113551
+
 https://status.openai.com/incidents/jbt079x532bg
 > https://news.ycombinator.com/item?id=36063166
 
@@ -348,6 +351,15 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.reforge.com/blog/ai-products-arms-race
+> https://news.ycombinator.com/item?id=36113534
+
+https://methexis.substack.com/p/production-ai-systems-are-really
+> https://news.ycombinator.com/item?id=36111596
+
+https://theaireport.substack.com/p/ai-report-3
+> https://news.ycombinator.com/item?id=36108195
+
 https://ericsink.com/entries/depth.html
 > https://news.ycombinator.com/item?id=36055066
 
@@ -377,9 +389,6 @@ https://statmodeling.stat.columbia.edu/2023/05/04/using-predictions-from-arbitra
 > https://news.ycombinator.com/item?id=35844574
 
 https://www.theregister.com/2023/05/09/ibm_launches_watsonx/?td=keepreading
-
-https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
-> https://news.ycombinator.com/item?id=35813322
 
 https://www.pinecone.io/learn/langchain/
 > https://news.ycombinator.com/item?id=36001465

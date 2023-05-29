@@ -43,6 +43,8 @@ https://wid.cert-bund.de/portal/wid/kurzinformationen
 
 https://vigilance.fr/
 
+https://www.enisa.europa.eu/topics/vulnerability-disclosure/?tab=details
+
 https://hardening-security.com/vulnerabilities
 Detailed gathered insights about cyber security vulnerabilities and their real world influences including economic impacts and black market trading.
 
@@ -190,6 +192,7 @@ https://robotattack.org/
 https://en.wikipedia.org/wiki/EFAIL Email encryption
 
 https://en.wikipedia.org/wiki/Spectre_(security_vulnerability)
+> https://leaky.page/
 
 https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)
 

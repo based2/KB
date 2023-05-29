@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://wasmlabs.dev/articles/hardening-drupal-with-webassembly/
+> https://news.ycombinator.com/item?id=36113542
+
 https://www.neversaw.us/2023/05/10/understanding-wasm/part1/virtualization/
 
 https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/

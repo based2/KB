@@ -53,10 +53,15 @@ https://docs.google.com/presentation/d/1HwLNSyHxy203eptO9cbTmr7CH23sBGtTrfOmJf9n
 https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 > https://news.ycombinator.com/item?id=32979601
 
+https://pcapplusplus.github.io/docs/quickstart
+
 # Test
 https://github.com/Snaipe/Criterion
 
 #
+https://sillycross.github.io/2021/08/23/2021-08-23/
+> https://lobste.rs/s/1xt4ik/trick_for_reflection_c
+
 https://devblogs.microsoft.com/oldnewthing/20230427-00/?p=108107
 > https://news.ycombinator.com/item?id=36040457
 

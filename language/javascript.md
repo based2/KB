@@ -593,6 +593,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/
+> https://news.ycombinator.com/item?id=36113430
+
 https://github.com/DukeLuo/eslint-plugin-check-file
 
 https://github.com/josephernest/Swap micro-library which facilitates AJAX-style navigation in web pages
