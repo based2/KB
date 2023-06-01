@@ -86,6 +86,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://news.ycombinator.com/item?id=36152766
+
 https://metalbear.co/blog/getting-started-with-ephemeral-containers/
 
 https://www.usenix.org/conference/srecon23americas/presentation/malla Logs Told Us It Was DNS, It Looked like DNS, It Had to Be DNS, It Wasn't DNS

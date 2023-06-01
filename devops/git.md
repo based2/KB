@@ -274,6 +274,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://adamj.eu/tech/2023/05/29/git-detect-in-progress-operation/
+
 https://github.com/charmbracelet/soft-serve
 
 https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/

@@ -21,6 +21,8 @@ https://towardsdatascience.com/streaming-big-data-files-from-cloud-storage-634e5
 https://juicefs.com/en/ .cn
 > https://news.ycombinator.com/item?id=34706227
 
+https://news.ycombinator.com/item?id=36140494
+
 # Block Storage
 onTAP
 # SMB Microsoft

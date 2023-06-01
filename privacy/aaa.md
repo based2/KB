@@ -101,6 +101,14 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.eff.org/deeplinks/2023/05/save-news-we-must-ban-surveillance-advertising
+> https://news.ycombinator.com/item?id=36147796
+
+https://arstechnica.com/tech-policy/2023/06/ftc-amazon-ring-workers-illegally-spied-on-users-of-home-security-cameras/
+
+https://escapebigtech.info/posts/privacy-one-of-the-most-fundamental-human-rights-yet-constantly-under-threat/
+> https://news.ycombinator.com/item?id=36150543
+
 https://blog.pypi.org/posts/2023-05-26-reducing-stored-ip-data/
 > https://news.ycombinator.com/item?id=36087403
 

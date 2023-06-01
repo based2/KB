@@ -1,3 +1,5 @@
+https://www.tomshardware.com/news/gigabyte-firmware-update-backdoor
+
 https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info
 > https://news.ycombinator.com/item?id=36094760
 

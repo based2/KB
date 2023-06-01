@@ -69,6 +69,12 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://github.com/Hjdskes/powersave
+> https://news.ycombinator.com/item?id=36146599
+
+https://english.elpais.com/science-tech/2023-06-01/seven-of-the-nine-thresholds-that-allow-for-human-life-on-earth-have-already-been-crossed.html
+> https://news.ycombinator.com/item?id=36155933
+
 https://www.nature.com/articles/s41893-023-01132-6
 
 https://news.ycombinator.com/item?id=36101616 venice

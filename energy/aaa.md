@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/
+> https://news.ycombinator.com/item?id=36156423
+
 https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202300748
 
 https://spectrum.ieee.org/relay-changed-the-power-industry

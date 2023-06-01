@@ -194,6 +194,9 @@ https://github.com/sdatkinson/neural-amp-modeler
 https://www.fretboardfly.com/home
 > https://news.ycombinator.com/item?id=36084503
 
+https://www.nevertwenty.live/
+> https://news.ycombinator.com/item?id=36146579
+
 https://fretastic.com/guitar
 > https://news.ycombinator.com/item?id=30250777
 

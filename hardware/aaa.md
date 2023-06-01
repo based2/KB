@@ -2,6 +2,9 @@ https://github.com/FrameworkComputer/ExpansionCards
 
 https://www.os2museum.com/wp/eisa-specification-3-1/
 
+https://hardwary.com/
+> https://news.ycombinator.com/item?id=36154517
+
 #
 http://www.righto.com/2021/06/deep-dive-into-how-teensy.html
 
@@ -105,6 +108,12 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://www.devever.net/~hl/backstage-cast
+> https://news.ycombinator.com/item?id=36127543
+
+https://old.reddit.com/r/sysadmin/comments/13wmowy/psa_epyc_7002_cpus_may_hang_after_1042_days_of/
+> https://news.ycombinator.com/item?id=36149375
+
 https://www.servethehome.com/nvidia-computex-2023-keynote-nvidia-dgx-gh200-mgx-and-spectrum-x-specturm-4-arm/
 
 https://www.phonescoop.com/articles/article.php?a=23023

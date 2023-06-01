@@ -40,6 +40,12 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/
+> https://news.ycombinator.com/item?id=36145823
+
+https://www.frontiersin.org/articles/10.3389/fninf.2019.00014/full
+> https://news.ycombinator.com/item?id=36150443
+
 https://www.reuters.com/science/elon-musks-neuralink-gets-us-fda-approval-human-clinical-study-brain-implants-2023-05-25/
 > https://news.ycombinator.com/item?id=36077392
 

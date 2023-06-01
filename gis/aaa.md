@@ -221,6 +221,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://twitter.com/albtaiuti/status/1663560641985257472
+
+https://www.jasondavies.com/maps/voronoi/capitals/
+> https://news.ycombinator.com/item?id=36153917
+
 https://tankaru.github.io/OpenSwitchMapsWeb/index.html#'+location.href;})();
 
 https://baremaps.apache.org/

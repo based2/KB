@@ -140,6 +140,7 @@ https://mnmnotmail.org/
 
 https://jmap.io/
 > https://news.ycombinator.com/item?id=14734091
+> https://news.ycombinator.com/item?id=36127703
 
 https://www.mailoo.org/
 

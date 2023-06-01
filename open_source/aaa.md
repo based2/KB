@@ -144,6 +144,9 @@ https://www.mumble.info/
 https://briarproject.org/
 > https://news.ycombinator.com/item?id=27649123
 
+https://blog.zulip.com/2023/05/31/zulip-7-0-released/
+> https://news.ycombinator.com/item?id=36141107
+
 # Logs
 https://glogg.bonnefon.org/
 
@@ -243,6 +246,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/
+
 https://lwn.net/Articles/925782/ The end of accounting search -> gnucash
 > https://news.ycombinator.com/item?id=36021197
 

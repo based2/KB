@@ -72,6 +72,9 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://nationalpost.com/news/canada/quebec-government-moves-to-ban-planned-obsolescence-ensure-products-can-be-repaired
+> https://news.ycombinator.com/item?id=36156402
+
 https://arstechnica.com/tech-policy/2023/05/france-is-fighting-to-save-your-iphone-from-an-early-death/
 
 https://www.alpla.com/en/products-innovation/case-studies/tethered-caps

@@ -40,6 +40,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://brave.com/vertical-tabs/
+> https://news.ycombinator.com/item?id=36154692
+
 https://hacks.mozilla.org/2017/08/inside-a-super-fast-css-engine-quantum-css-aka-stylo/
 
 https://www.theregister.com/2023/05/26/new_betas_of_firefox_and_tbird/

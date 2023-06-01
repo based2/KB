@@ -76,6 +76,9 @@ https://www.pixelicious.xyz/
 https://github.com/gotson/komga
 
 # Photography
+https://bjoernkarmann.dk/project/paragraphica
+> https://news.ycombinator.com/item?id=36149876
+
 https://www.pixelmator.com/blog/2023/05/16/photomator-for-mac-is-out-now/
 > https://news.ycombinator.com/item?id=35972047
 

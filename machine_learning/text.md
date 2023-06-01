@@ -13,6 +13,14 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking
+> https://news.ycombinator.com/item?id=36132693
+
+https://github.com/hyperonym/basaran
+
+https://opentranslate.app/
+> https://news.ycombinator.com/item?id=36150806
+
 https://aiprice.dev/
 
 https://knowsuchagency.notion.site/Hacking-around-ChatGPT-s-Character-Limits-with-the-Code-Interpreter-d31dcba26e5a432a839bf94c69c7c39f

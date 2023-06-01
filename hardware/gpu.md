@@ -10,6 +10,11 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/
+> https://news.ycombinator.com/item?id=36133226
+
+https://github.com/cyrusvahidi/jtfs-gpu
+
 https://chipsandcheese.com/2023/03/05/van-gogh-amds-steam-deck-apu/
 > https://news.ycombinator.com/item?id=35035100
 

@@ -87,6 +87,8 @@ https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 https://blog.remirepo.net/
 
 #
+https://blog.pypi.org/posts/2023-06-01-2fa-enforcement-for-upload/
+
 https://github.com/popey/unsnap
 
 https://blog.pypi.org/posts/2023-05-25-securing-pypi-with-2fa/

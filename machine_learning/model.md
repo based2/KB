@@ -65,6 +65,15 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://twitter.com/Thom_Wolf/status/1663986216771936263
+> https://news.ycombinator.com/item?id=36145185
+
+https://www.anyscale.com/blog/announcing-aviary-open-source-multi-llm-serving-solution
+> https://news.ycombinator.com/item?id=36143750
+
+https://github.com/lancedb/lance
+> https://news.ycombinator.com/item?id=36144450
+
 https://arxiv.org/abs/2305.15771
 
 https://github.com/chroma-core/chroma db

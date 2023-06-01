@@ -127,6 +127,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://slices-sc.eu/wp-content/uploads/2022/10/2022_COMCOM_SLICES-a-scientific-instrument-for-the-networking-community.pdf
+
 https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html
 > https://news.ycombinator.com/item?id=35810281
 

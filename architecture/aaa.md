@@ -68,6 +68,8 @@ https://herbcaudill.com/words/20190219-rewrite-refactor-reinvent
 # Performance
 https://en.wikipedia.org/wiki/Amdahl%27s_law
 
+https://cvw.cac.cornell.edu/vector/default
+
 https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/
 > https://news.ycombinator.com/item?id=32635910
 

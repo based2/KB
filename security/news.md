@@ -1,3 +1,14 @@
+https://twitter.com/chrisplummer/status/1664075886545575941
+> https://news.ycombinator.com/item?id=36146553
+
+https://news.ycombinator.com/item?id=36149904
+
+https://netherlands.postsen.com/trends/198695/Securitytxt-now-mandatory-for-Dutch-government-websites.html
+> https://news.ycombinator.com/item?id=36149004
+
+https://openai.com/blog/openai-cybersecurity-grant-program
+> https://news.ycombinator.com/item?id=36154135
+
 https://vigilance.fr/vulnerabilite/Keycloak-acces-en-lecture-et-ecriture-via-Untrusted-Certificate-41352
 
 https://publications.cispa.saarland/3934/

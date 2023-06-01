@@ -52,3 +52,9 @@ https://github.com/cirospaciari/socketify.py
 > https://news.ycombinator.com/item?id=34322929
 
 https://github.com/WICG/direct-sockets
+
+https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs
+> https://news.ycombinator.com/item?id=36138642
+
+https://github.com/suhaildawood/SvelteKit-integrated-WebSocket
+> https://news.ycombinator.com/item?id=36146800

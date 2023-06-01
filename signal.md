@@ -29,6 +29,12 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://digilent.com/shop/analog-discovery-3/
+> https://news.ycombinator.com/item?id=36141482
+
+http://www.projectmf.org/
+> https://news.ycombinator.com/item?id=36145007
+
 https://dev.to/johnvick/rf-rotary-joints-in-radar-systems-enhancing-performance-and-flexibility-3n4d
 
 https://resources.altium.com/p/mysterious-50-ohm-impedance-where-it-came-and-why-we-use-it

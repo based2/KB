@@ -1,3 +1,6 @@
+https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details
+> https://news.ycombinator.com/item?id=36151375
+
 https://immersiveweb.dev/
 > https://news.ycombinator.com/item?id=36097258
 

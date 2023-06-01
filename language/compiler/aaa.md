@@ -128,6 +128,12 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler
+> https://news.ycombinator.com/item?id=36147394
+
+https://www.distcc.org/
+> https://news.ycombinator.com/item?id=36148475
+
 https://www.cs.nott.ac.uk/~pszgmh/choice-trees.pdf Calculating Compilers for Concurrency
 
 https://www.infoq.com/news/2023/05/gcc13-c2x-features/

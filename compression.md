@@ -40,6 +40,12 @@ https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://shkspr.mobi/blog/2023/06/selectively-compressed-images-a-hybrid-format/
+> https://news.ycombinator.com/item?id=36150300
+
+https://sneller.io/blog/decompressing-at-over-10-gigabytes-per-second/
+> https://news.ycombinator.com/item?id=36137535
+
 https://github.com/M2Team/NanaZip
 
 https://zlib.net/pigz/

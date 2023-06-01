@@ -351,6 +351,23 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=36131549
+
+https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/
+> https://news.ycombinator.com/item?id=36143963
+
+https://openai.com/research/improving-mathematical-reasoning-with-process-supervision
+> https://news.ycombinator.com/item?id=36140861
+
+https://github.com/OAI/moonwalk
+> https://news.ycombinator.com/item?id=36144674
+
+https://www.nber.org/digest/measuring-productivity-impact-generative-ai
+> https://news.ycombinator.com/item?id=36152510
+
+https://github.com/JosephSBoyle/skip_gram/blob/346f79ff948ef3d279558a9460c44e7f7598fb7d/skip_gram/main.py
+> https://news.ycombinator.com/item?id=36149620
+
 https://www.reforge.com/blog/ai-products-arms-race
 > https://news.ycombinator.com/item?id=36113534
 

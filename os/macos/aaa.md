@@ -327,6 +327,9 @@ https://authzed.com/blog/onboarding-with-an-m1/
 > https://news.ycombinator.com/item?id=26843228
 
 # Apple
+https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month
+> https://news.ycombinator.com/item?id=36140128
+
 https://eclecticlight.co/2022/04/18/m1-thunderbolt-ports-dont-fully-support-usb-3-1-gen-2/
 > https://news.ycombinator.com/item?id=31068479
 

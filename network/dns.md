@@ -42,6 +42,9 @@ https://forums.aws.amazon.com/thread.jspa?messageID=598211 SSHFP records
 
 https://media.ccc.de/v/basel-4229-dnssec-im-jahr-2022
 
+https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement
+> https://news.ycombinator.com/item?id=36147285
+
 # DNS over TLS
 
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times

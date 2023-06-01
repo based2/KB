@@ -161,6 +161,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://borretti.me/article/language-pragmatics
+> https://news.ycombinator.com/item?id=36130194
+
 https://news.ycombinator.com/item?id=36112176
 
 https://fagnerbrack.com/the-risk-of-fixing-time-and-scope-in-non-lean-software-projects-ed3293c0a1c7

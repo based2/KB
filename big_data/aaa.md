@@ -317,6 +317,8 @@ https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5
 > https://news.ycombinator.com/item?id=35973265
 
 # News
+https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools
+> https://news.ycombinator.com/item?id=36151441
 
 https://www.quadratichq.com/blog/2023-05-15-coordinate-system-for-infinite-spreadsheet
 > https://news.ycombinator.com/item?id=36111392

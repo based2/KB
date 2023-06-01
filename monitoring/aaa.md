@@ -110,6 +110,8 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://blog.pragmaticengineer.com/pagerduty-alternatives/
+
 https://github.com/binwiederhier/ntfy
 > https://ntfy.sh/
 

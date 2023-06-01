@@ -86,6 +86,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://cs.uwaterloo.ca/~csk/slide/
+> https://news.ycombinator.com/item?id=36138304
+
 https://progress-up.live/
 
 https://news.ycombinator.com/item?id=35658387
