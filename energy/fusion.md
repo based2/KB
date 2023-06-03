@@ -2,7 +2,6 @@ https://interestingengineering.com/world-first-tokamak-exhaust-system-paves-way-
 
 https://www.iter.org
 
-
 https://news.ycombinator.com/item?id=35887537
 
 https://www.ipp.mpg.de/5322229/01_23
@@ -31,6 +30,8 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.sciencealert.com/a-compact-fusion-reactor-barely-3-feet-across-has-hit-a-huge-milestone
+
 https://www.theregister.com/2023/05/17/microsoft_bet_on_fusion/?td=rt-9cs
 
 https://github.com/readme/featured/nuclear-fusion-open-source

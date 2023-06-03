@@ -55,6 +55,8 @@ https://blog.replit.com/super-colliding-nix-stores
 > https://news.ycombinator.com/item?id=36073919
 
 # Incident
+https://www.theregister.com/2023/06/02/novel_pypi_attack_reversinglabs/
+
 https://giraffesecurity.dev/posts/google-remote-code-execution/
 > https://www.reddit.com/r/netsec/comments/12mtclt/remote_code_execution_vulnerability_in_google/
 

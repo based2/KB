@@ -1,3 +1,6 @@
+https://papa.bretmulvey.com/post/124027987928/hash-functions
+> https://news.ycombinator.com/item?id=36176461
+
 https://github.com/noraj/haiti CLI tool (and library) to identify the hash type of a given hash
 
 https://ferd.ca/simhashing-hopefully-made-simple.html
@@ -107,6 +110,9 @@ https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://github.com/dosyago/discohash
+> https://news.ycombinator.com/item?id=36176089
+
 https://brevzin.github.io/c++/2023/05/23/map-api/
 
 https://thenumb.at/Hashtables/

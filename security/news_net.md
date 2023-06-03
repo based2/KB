@@ -4,6 +4,8 @@ https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 
 #
+https://www.bleepingcomputer.com/news/security/zyxel-shares-tips-to-protect-firewalls-from-ongoing-attacks/
+
 https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-vulnerabilities-in-firewall-and-vpn-devices/
 
 https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways

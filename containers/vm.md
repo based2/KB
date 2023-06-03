@@ -29,3 +29,5 @@ https://memn0ps.github.io/hypervisor-development-in-rust-part-1/
 
 https://github.com/zachallaun/secd
 > https://news.ycombinator.com/item?id=35837747
+
+https://gist.github.com/0xquad/6090af4fe2c5b5fc6299 virtualbox ipv6

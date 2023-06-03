@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://lwss.github.io/Kisak-Strike/
+> https://news.ycombinator.com/item?id=36177057
+
 https://github.com/softdorothy/GliderPRO
 > https://news.ycombinator.com/item?id=36028244
 

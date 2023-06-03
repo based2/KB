@@ -86,6 +86,14 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://kshnsink.hashnode.dev/resource-management-in-kubernetes-cluster-understanding-resources
+
+https://www.plural.sh/blog/why-is-kubernetes-adoption-so-hard/
+> https://news.ycombinator.com/item?id=36152766
+
+https://medium.com/k0sproject/introducing-k0smotron-c2ed6535ddc8
+> https://news.ycombinator.com/item?id=36164509
+
 https://news.ycombinator.com/item?id=36152766
 
 https://metalbear.co/blog/getting-started-with-ephemeral-containers/

@@ -25,6 +25,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.investopedia.com/fbi-to-launch-crypto-crimefighting-unit-5219591
+
+https://www.theregister.com/2023/06/02/elon_musk_dogecoin_insider_trading/
+
 https://www.europarl.europa.eu/news/en/press-room/20230414IPR80133/crypto-assets-green-light-to-new-rules-for-tracing-transfers-in-the-eu
 > https://news.ycombinator.com/item?id=36010621
 

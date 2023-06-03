@@ -133,6 +133,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://vigilance.fr/vulnerabilite/GitLab-usurpation-via-Unverified-Email-41180
+
 https://access.redhat.com/errata/RHSA-2023:3280 git
 
 https://www.bleepingcomputer.com/news/security/gitlab-strongly-recommends-patching-max-severity-flaw-asap/
@@ -383,6 +385,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://wholesomedonut.prose.sh/using-fossil-not-git
+> https://lobste.rs/s/emgzrz/using_fossil
+
+https://github.blog/2023-06-02-applying-gitops-principles-to-your-operations/
+
 https://github.com/makeplane/plane
 > https://news.ycombinator.com/item?id=36129594
 

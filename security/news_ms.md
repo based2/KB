@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
 
 #
+https://pvs-studio.com/en/blog/posts/csharp/1054/
+
 https://cyolo.io/blog/dll-hijacking-strikes-back-exploiting-windows-on-arm-rdp-client-cve-2023-24905/
 
 https://tinyapps.org/blog/202304230700_xp_wpa.html

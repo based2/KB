@@ -158,6 +158,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime#xj4y7vzkg
+> https://news.ycombinator.com/item?id=36164462
+
 https://news.ycombinator.com/item?id=36104213
 
 https://arstechnica.com/tech-policy/2023/05/biden-admin-wants-europe-to-reject-forced-payments-from-big-tech-to-isps/

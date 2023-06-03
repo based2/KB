@@ -151,8 +151,10 @@ https://www.thanassis.space/asn1.html
 > https://news.ycombinator.com/item?id=29681175
 
 https://github.com/wader/fq Tool, language and decoders for inspecting binary data
+>  https://fosdem.org/2023/schedule/event/bintools_fq/
 > https://github.com/wader/fq/tree/master/format
 > https://news.ycombinator.com/item?id=29657094
+> https://news.ycombinator.com/item?id=36175000
 
 https://zig.news/xq/a-challenger-to-the-throne-of-vector-graphics-svg-is-dead-long-live-tinyvg-4on8
 > https://news.ycombinator.com/item?id=29629792

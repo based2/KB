@@ -125,6 +125,8 @@ https://desfontain.es/privacy/more-useful-results-dp.html
 # off-by-one error
 
 #
+https://tech.slashdot.org/story/23/06/02/1746232/google-wallet-for-android-now-supports-digital-ids
+
 https://github.com/MinBZK/woo-besluit-broncode-digid-app
 > https://news.ycombinator.com/item?id=34425614
 

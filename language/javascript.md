@@ -212,6 +212,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://github.com/reactwg/server-components/discussions/5
+
 https://usehooks.com/
 > https://news.ycombinator.com/item?id=36129622
 

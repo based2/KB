@@ -27,3 +27,5 @@ https://docs.netchecks.io/
 https://github.com/inovex/illuminatio
 
 https://www.armosec.io/blog/kubernetes-ingress-security/
+
+https://www.learncloudnative.com/blog/2023-05-31-kubeproxy-iptables

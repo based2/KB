@@ -54,6 +54,14 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://explosion.ai/blog/against-llm-maximalism
+
+https://arxiv.org/abs/2305.12050
+> https://news.ycombinator.com/item?id=36176584
+
+https://ai.googleblog.com/2023/05/large-sequence-models-for-software.html
+> https://news.ycombinator.com/item?id=36165208
+
 https://www.cursor.so/ vs
 
 https://githubnext.com/projects/copilot-cli/

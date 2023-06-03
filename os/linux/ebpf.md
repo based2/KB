@@ -107,3 +107,6 @@ https://linuxplumbersconf.org/event/11/contributions/954/ Use of eBPF in CPU sch
 
 https://deepfence.io/aya-your-trusty-ebpf-companion/
 > https://news.ycombinator.com/item?id=32266926
+
+https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats
+> https://news.ycombinator.com/item?id=36176947

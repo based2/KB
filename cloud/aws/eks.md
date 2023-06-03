@@ -71,6 +71,8 @@ https://docs.fluentbit.io/manual/pipeline/filters/aws-metadata
 https://www.onepane.ai/blog/fluent-bit-modify-log-data-with-modify-filter-plugin-example
 
 #
+https://aws.amazon.com/en/blogs/containers/announcing-pull-through-cache-for-registry-k8s-io-in-amazon-elastic-container-registry/
+
 https://aws.amazon.com/en/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-27/
 
 https://aws.amazon.com/en/blogs/containers/amazon-eks-now-supports-kubernetes-version-1-26/

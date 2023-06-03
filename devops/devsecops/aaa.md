@@ -37,6 +37,8 @@ https://anonymoushash.vmbrasseur.com/2023/04/24/software-bill-of-materials-sbom
 > https://news.ycombinator.com/item?id=35690258
 
 #
+https://sarifweb.azurewebsites.net/
+
 https://sap.github.io/risk-explorer-for-software-supply-chains/
 
 https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck

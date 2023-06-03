@@ -20,6 +20,9 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/
+> https://news.ycombinator.com/item?id=36169513
+
 https://www.theverge.com/2023/4/25/23697532/microsoft-edge-browser-url-leak-bing-privacy
 > https://news.ycombinator.com/item?id=35703789
 

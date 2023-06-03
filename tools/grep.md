@@ -54,3 +54,6 @@ https://ast-grep.github.io/
 https://github.com/segf00lt/sreutils
 
 https://github.com/tristanisham/minigrep-zig
+
+https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology
+> https://news.ycombinator.com/item?id=36173519

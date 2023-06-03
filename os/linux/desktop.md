@@ -97,6 +97,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://github.com/rvaiya/keyd
+> https://news.ycombinator.com/item?id=36161582
+
 https://github.com/soyersoyer/cameractrls/blob/main/README.md
 
 https://github.com/Schneegans/Burn-My-Windows

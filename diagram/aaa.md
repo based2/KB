@@ -53,6 +53,8 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://pikchr.org/home/doc/trunk/homepage.md
+
 https://juliusgamanyi.com/2020/06/25/wardley-maps-illustrated-through-gerstner-part-3-loop-2/
 > https://news.ycombinator.com/item?id=36080263
 

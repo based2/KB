@@ -67,6 +67,9 @@ https://github.com/authzed/spicedb/releases/tag/v1.0.0
 # eID
 https://news.ycombinator.com/item?id=27351769
 
+https://pgp.governikus.de/?lang=EN
+> https://news.ycombinator.com/item?id=36141170
+
 # Greenpass
 https://gir.st/blog/greenpass.html
 > https://news.ycombinator.com/item?id=27589913
@@ -81,6 +84,8 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://authress.io/knowledge-base/articles/auth-situation-report
+
 https://developer.chrome.com/docs/privacy-sandbox/fedcm/
 
 https://fsfe.org/news/2023/news-20230418-01.en.html

@@ -44,6 +44,11 @@ https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 https://github.com/awaitility/awaitility
 
 # News
+https://mail.openjdk.org/pipermail/loom-dev/2023-May/005509.html
+
+https://blog.fastthread.io/2023/02/28/pitfalls-to-avoid-when-switching-to-virtual-threads/
+> https://www.reddit.com/r/java/comments/13yd7jj/pitfalls_to_avoid_when_switching_to_virtual/
+
 https://www.reddit.com/r/java/comments/yjtwhc/virtual_threads_work_great_until_something_goes/
 
 https://vertx.io/blog/eclipse-vert-x-4-3-4/

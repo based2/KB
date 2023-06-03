@@ -190,6 +190,9 @@ https://greptime.com/blogs/2023-03-09-bridging-async-and-sync-rust
 
 https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-async-closures/
 
+https://onevariable.com/blog/phase-locked-state-machines/
+> https://news.ycombinator.com/item?id=36162704
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -313,6 +316,9 @@ https://hails.org/@hailey/110360791283096989
 https://blog.janestreet.com/oxidizing-ocaml-locality/
 > https://www.reddit.com/r/programming/comments/13so19f/oxidizing_ocaml_locality/
 > https://news.ycombinator.com/item?id=36094799
+
+https://www.jelmer.uk/port-py-to-rust.html
+> https://news.ycombinator.com/item?id=36171422
 
 ## MacOs
 https://github.com/ryanmcgrath/cacao
@@ -455,6 +461,11 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://perso.crans.org/vanille/treebor/
+> https://www.youtube.com/watch?v=zQ76zLXesxA
+> https://www.ralfj.de/blog/2023/06/02/tree-borrows.html
+> > https://lobste.rs/s/yuoncd/from_stacks_trees_new_aliasing_model_for
+
 https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html
 
 https://github.com/matklad/cargo-xtask

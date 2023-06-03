@@ -252,6 +252,8 @@ https://github.com/bsdz/calcengine
 # Interops
 https://hpyproject.org/blog/posts/2021/03/hello-hpy/
 
+https://github.com/lingfo/lingfo
+
 # Refactor
 https://github.com/isidentical/refactor
 > https://news.ycombinator.com/item?id=28027016

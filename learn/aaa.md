@@ -133,6 +133,10 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana
+> https://news.ycombinator.com/item?id=36169523
+> https://en.wikipedia.org/wiki/Autopoiesis
+
 https://captimes.com/news/local/education/charting-their-own-path-shabazz-lets-students-take-control-of-how-they-learn/article_a74709fb-b5b9-572e-920f-42fe4fd7b577.html
 
 https://collabfund.com/blog/one-big-web-a-few-ways-the-world-works/

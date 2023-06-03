@@ -1,3 +1,17 @@
+https://www.bleepingcomputer.com/news/security/exploit-released-for-rce-flaw-in-popular-reportlab-pdf-library/
+
+https://www.traceable.ai/blog-post/a-deep-dive-on-the-most-critical-api-vulnerability-bola-broken-object-level-authorization
+
+https://www.mprnews.org/story/2023/06/02/minneapolis-students-use-rickroll-prank-to-highlight-district-computer-security-flaws
+
+https://www.blumira.com/moveit-transfer-vulnerability/
+> https://www.bleepingcomputer.com/news/security/new-moveit-transfer-zero-day-mass-exploited-in-data-theft-attacks/
+
+https://www.redteam-pentesting.de/en/advisories/rt-sa-2022-004/-starface-authentication-with-password-hash-possible
+
+https://brute.fail/
+> https://news.ycombinator.com/item?id=36169954
+
 https://twitter.com/chrisplummer/status/1664075886545575941
 > https://news.ycombinator.com/item?id=36146553
 

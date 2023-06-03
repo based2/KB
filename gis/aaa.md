@@ -221,6 +221,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/
+> https://news.ycombinator.com/item?id=36159864
+
 https://twitter.com/albtaiuti/status/1663560641985257472
 
 https://www.jasondavies.com/maps/voronoi/capitals/

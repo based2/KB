@@ -25,6 +25,9 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://github.com/usbarmory
+> https://news.ycombinator.com/item?id=36174359
+
 https://www.jitx.com/blog/automating-everything-in-a-usb-cable-tester-pcb-design
 > https://news.ycombinator.com/item?id=36074959
 

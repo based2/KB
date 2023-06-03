@@ -150,3 +150,7 @@ https://onthepublicrecord.org/2009/03/04/why-districts-are-slow-to-charge-market
 https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0285548
 
 https://www.livescience.com/planet-earth/antarctica/climate-change-could-trigger-gigantic-deadly-tsunamis-from-antarctica-new-study-warns
+
+https://yro.slashdot.org/story/23/06/02/2112207/arizona-limits-construction-around-phoenix-as-its-water-supply-dwindles
+
+https://www.theguardian.com/environment/2023/jun/02/dupont-pfas-settlement-water-chemical-contamination

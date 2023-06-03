@@ -225,6 +225,10 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://web.dev/color-spaces-and-functions/
+
+https://fullystacked.net/posts/scope-in-css/
+
 https://csspro.com/
 > https://news.ycombinator.com/item?id=36148807
 

@@ -1,3 +1,7 @@
+https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model-to-the-risc-v-community/
+> https://news.ycombinator.com/item?id=36168836
+
+#
 https://www.tomshardware.com/news/gigabyte-firmware-update-backdoor
 
 https://www.tomshardware.com/news/hot-pixel-attack-steals-data-from-apple-and-nvidia-chips-using-frequency-power-and-temperature-info

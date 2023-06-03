@@ -19,6 +19,9 @@ https://github.com/datafoodconsortium
 https://op.europa.eu/en/web/eu-vocabularies/akn4eu
 
 #
+https://carlineng.com/?postid=data-modeling-divide#blog
+> https://cloud.google.com/looker/docs/what-is-lookml?hl=fr
+
 https://www.researchgate.net/publication/200045115_A_Spreading_Activation_Theory_of_Semantic_Processing A Spreading Activation Theory of Semantic Processing - 1975
 > https://news.ycombinator.com/item?id=36084457
 

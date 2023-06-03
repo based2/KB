@@ -90,6 +90,9 @@ https://github.com/chaiNNer-org/chaiNNer
 
 https://github.com/lkwq007/stablediffusion-infinity/blob/master/docs/setup_guide.md outpainting
 
+https://arxiv.org/abs/2305.11490
+> https://github.com/hyn2028/llm-cxr
+
 # Data
 https://github.com/allenai/mmc4
 > https://news.ycombinator.com/item?id=35619159

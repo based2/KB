@@ -18,6 +18,11 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.fastcompany.com/90888672/switzerland-turning-the-gap-between-train-tracks-into-a-solar-carpet
+> https://hardware.slashdot.org/story/23/06/02/2125206/switzerland-is-turning-the-gap-between-train-tracks-into-a-solar-carpet
+
+https://gizmodo.com/scientists-beam-space-based-solar-power-earth-first-tim-1850500731
+
 https://www.engadget.com/japan-will-try-to-beam-solar-power-from-space-by-2025-214338244.html
 > https://news.ycombinator.com/item?id=36112641
 

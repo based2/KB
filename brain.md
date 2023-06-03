@@ -40,6 +40,17 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://elifesciences.org/reviewed-preprints/87414v1 mice
+> https://news.ycombinator.com/item?id=36172677
+
+https://www.uclahealth.org/news/deep-brain-stimulation-during-sleep-strengthens-memory
+> https://news.ycombinator.com/item?id=36170157
+
+https://www.bihealth.org/en/notices/intelligent-brains-take-longer-to-solve-difficult-problems
+> https://news.ycombinator.com/item?id=36172461
+
+https://www.nature.com/articles/s42256-023-00666-w
+
 https://thebulletin.org/2023/05/qa-how-darpa-hacked-a-science-writers-brain-and-turned-her-into-a-sharpshooter/
 > https://news.ycombinator.com/item?id=36145823
 

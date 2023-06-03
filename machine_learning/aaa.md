@@ -271,6 +271,11 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 https://www.giskard.ai/safegpt
 > https://news.ycombinator.com/item?id=35652452
 
+https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=sv-SE&safesearch=off
+> https://news.ycombinator.com/item?id=36174893
+
+https://github.com/GreyDGL/PentestGPT
+
 # Incident
 https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/
 > https://news.ycombinator.com/item?id=36113551
@@ -351,6 +356,15 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://nlp.seas.harvard.edu//NamedTensor.html 2019 Tensor Considered Harmful -> Named Tensor
+> https://github.com/harvardnlp/NamedTensor
+
+https://www.marl-book.com/
+> https://news.ycombinator.com/item?id=36170800
+
+https://eprint.iacr.org/2023/763
+> https://news.ycombinator.com/item?id=36160591
+
 https://news.ycombinator.com/item?id=36131549
 
 https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/

@@ -1,6 +1,8 @@
 https://github.com/sysprog21/lkmpg/
 > https://news.ycombinator.com/item?id=28036619
 
+https://github.com/0xAX/linux-insides
+
 https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/
 > https://news.ycombinator.com/item?id=28574624
 

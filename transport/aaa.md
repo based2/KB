@@ -2,6 +2,9 @@ https://www.simutrans.com/en/
 > https://news.ycombinator.com/item?id=30278595
 
 #
+https://www.darpa.mil/news-events/-2023-05-18
+> https://news.ycombinator.com/item?id=36141671
+
 https://www.naval-technology.com/features/darpa-silent-mhd-magnetic-drives-for-replacing-naval-propellers/
 > https://news.ycombinator.com/item?id=36077034
 

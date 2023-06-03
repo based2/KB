@@ -3,10 +3,10 @@ https://huggingface.co/
 https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 > https://news.ycombinator.com/item?id=35813322
 
-# llama Facebook
+# llama Facebook - Forbids commercial use, weights required
 https://www.reddit.com/r/LocalLLaMA/
 
-https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot
+https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot NonCommercial
 
 https://bair.berkeley.edu/blog/2023/04/03/koala/
 
@@ -65,6 +65,21 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://brayniac.io/blog/ai-agents
+
+https://backpackmodels.science/
+
+https://www.forbes.com/sites/moorinsights/2023/06/02/a-quantum-leap-in-ai-ionq-aims-to-create-quantum-machine-learning-models-at-the-level-of-general-human-intelligence/?sh=1a46102f7b88
+
+https://www.promptingguide.ai/models/collection
+
+https://magazine.sebastianraschka.com/p/ahead-of-ai-9-llm-tuning-and-dataset
+
+https://github.com/facebookincubator/AITemplate cuda
+> https://news.ycombinator.com/item?id=36167948
+
+https://news.ycombinator.com/item?id=36152787
+
 https://twitter.com/Thom_Wolf/status/1663986216771936263
 > https://news.ycombinator.com/item?id=36145185
 

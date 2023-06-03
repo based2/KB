@@ -1,3 +1,6 @@
+https://blog.system76.com/post/major-updates-for-system76-open-firmware-june-2023
+> https://news.ycombinator.com/item?id=36166649
+
 https://p.ost2.fyi/courses/course-v1:OpenSecurityTraining2+Arch4031_x86-64_RV_coreboot+2021_v1/about
 
 https://arstechnica.com/gadgets/2023/04/some-ryzen-7000x3d-processors-are-burning-out-high-voltages-may-be-to-blame/

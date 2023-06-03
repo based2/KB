@@ -66,6 +66,8 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://yro.slashdot.org/story/23/06/02/2023242/us-judge-orders-lawyers-to-sign-ai-pledge-warning-chatbots-make-stuff-up
+
 https://news.ycombinator.com/item?id=36092914 Lawyer caught submitting ChatGPT-fabricated citations to SDNY
 
 https://news.ycombinator.com/item?id=36016653

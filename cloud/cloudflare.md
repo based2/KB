@@ -3,6 +3,11 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 > https://www.reddit.com/r/netsec/comments/ujnjkg/cloudflare_pages_part_1_the_fellowship_of_the/
 
 # News
+https://durafetch.com/
+> https://github.com/emadda/durafetch-server
+
+https://news.ycombinator.com/item?id=36173999
+
 https://blog.cloudflare.com/workers-tcp-socket-api-connect-databases/
 > https://www.infoq.com/news/2023/05/cloudflare-workers-connect-api/
 > > https://news.ycombinator.com/item?id=36111683

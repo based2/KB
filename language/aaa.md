@@ -162,6 +162,9 @@ https://lawrencecpaulson.github.io/2023/03/08/Fun_Semantics.html
 
 https://news.ycombinator.com/item?id=35449494
 
+https://github.com/graninas/functional-declarative-design-methodology
+> https://www.reddit.com/r/haskell/comments/13y5oke/functional_declarative_design_a_comprehensive/
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721

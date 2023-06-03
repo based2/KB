@@ -215,6 +215,9 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://metabrainz.org/datasets
+> https://news.ycombinator.com/item?id=36150062
+
 https://github.com/sergree/matchering
 
 https://www.adsrsounds.com/product/software/adsr-sample-manager/

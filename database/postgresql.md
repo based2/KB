@@ -29,6 +29,9 @@ https://notes.eatonphil.com/exploring-plpgsql.html
 
 https://philbooth.me/blog/some-useful-non-obvious-postgres-patterns
 
+https://www.dbaprogress.com/postgreslibrary/postgres-scripts
+> https://news.ycombinator.com/item?id=36174077
+
 ## JSON
 https://blog.crunchydata.com/blog/generating-json-directly-from-postgres
 > https://news.ycombinator.com/item?id=27848085

@@ -4,6 +4,10 @@ https://github.com/LekKit/RVVM
 https://github.com/OpenXiangShan/XiangShan
 > https://news.ycombinator.com/item?id=35312960
 
+#
+https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v
+> https://news.ycombinator.com/item?id=36140177
+
 https://xcp-ng.org/blog/2023/05/23/new-xen-updates-on-risc-v/
 
 https://www.jeffgeerling.com/blog/2023/what-eben-upton-said-about-risc-v

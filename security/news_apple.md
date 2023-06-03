@@ -4,14 +4,20 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+
 https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/
 > https://news.ycombinator.com/item?id=36141755
+> https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-hackers-bypass-sip-root-restrictions/
 
 https://securelist.com/operation-triangulation/109842/ https://docs.mvt.re/en/latest/
 > https://securelist.com/trng-2023/ ios
 > > https://news.ycombinator.com/item?id=36151220
 > https://arstechnica.com/information-technology/2023/06/clickless-ios-exploits-infect-kaspersky-iphones-with-never-before-seen-malware/
 > > https://news.ycombinator.com/item?id=36154455
+> https://usa.kaspersky.com/blog/triangulation-attack-on-ios/28444/
+> > https://news.ycombinator.com/item?id=36161392
+> https://github.com/KasperskyLab/triangle_check
+> > https://news.ycombinator.com/item?id=36164340
 
 https://danrevah.github.io/2023/05/15/CVE-2023-26818-Bypass-TCC-with-Telegram/
 

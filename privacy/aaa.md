@@ -101,6 +101,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://news.bloombergtax.com/daily-tax-report-international/belgium-stops-unlawful-sharing-of-accidental-americans-data
+
 https://www.eff.org/deeplinks/2023/05/save-news-we-must-ban-surveillance-advertising
 > https://news.ycombinator.com/item?id=36147796
 

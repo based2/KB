@@ -76,3 +76,5 @@ https://badgers.space/
 
 https://www.crunchydata.com/blog/svg-images-from-postgis
 > https://news.ycombinator.com/item?id=36139042
+
+https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use/

@@ -24,16 +24,19 @@ https://developers.redhat.com/products/rhel/download
 
 https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
 
+https://getfedora.org/
+
 https://www.theregister.com/2023/05/19/rhel_92/
 
 https://developers.redhat.com/articles/2022/05/18/whats-new-red-hat-enterprise-linux-9
 > https://news.ycombinator.com/item?id=31447904
 
-https://www.redhat.com/en/blog/whats-new-rhel-85
-
 https://www.redhat.com/en/blog/whats-new-rhel-90-beta
 
-https://getfedora.org/
+https://www.redhat.com/en/blog/whats-new-rhel-85
+
+https://www.phoronix.com/news/Red-Hat-Less-LibreOffice
+> https://news.ycombinator.com/item?id=36169845
 
 https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina
 > https://news.ycombinator.com/item?id=35337146
@@ -82,6 +85,10 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.ypsidanger.com/the-distribution-model-is-changing/
+
+https://daynix.github.io/2023/06/03/developing-qemu-on-asahi-linux-linux-port-for-apple-silicon.html
+
 https://devclass.com/2023/05/25/azure-linux-released-at-build-where-microsoft-revealed-why-it-did-not-fork-fedora/
 
 https://blog.nawaz.org/posts/2023/May/20-years-of-gentoo/

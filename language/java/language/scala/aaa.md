@@ -1,5 +1,7 @@
 https://www.scala-lang.org/
 
+https://docs.scala-lang.org/scala3/reference/
+
 https://www.scala-sbt.org/
 https://www.reddit.com/r/scala/comments/pmibfe/sbt_can_be_tricky_maybe_this_will_help/
 
@@ -86,6 +88,20 @@ https://gitlab.com/mhammons/slinc C
 https://eed3si9n.com/sbt-1.8.3
 
 # News
+https://www.reddit.com/r/scala/comments/13r5uhp/reconnecting_with_scala_whats_new/
+
+https://blog.rockthejvm.com/enums-scala-3/
+
+https://eed3si9n.com/sbt-1.9.0
+> https://www.reddit.com/r/scala/comments/13ydtv2/sbt_190_released/
+
+https://scala-lang.org/blog/2023/05/30/scala-3.3.0-released.html LTS
+> https://www.reddit.com/r/scala/comments/13vr2sr/scala_330_lts_released/
+
+https://github.com/softwaremill/realworld-tapir-zio
+
+https://eed3si9n.com/tree-sitter-scala-0.20.0
+
 https://www.reddit.com/r/scala/comments/138l6id/another_two_cents_about_the_current_situation/
 
 https://github.com/buntec/ff4s
