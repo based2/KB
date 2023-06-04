@@ -1,5 +1,3 @@
-
-
 https://harrisonsand.com/gsm-security/
 
 https://alpercinar.com/open-cell-id/
@@ -134,6 +132,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+https://www.reuters.com/world/africa/senegal-government-cuts-mobile-internet-access-amid-deadly-rioting-2023-06-04/
+
 https://www.lightreading.com/5g-and-beyond/t-mobiles-5g-network-threatened-by-pennsylvania-home-security-system/d/d-id/784989
 
 https://arstechnica.com/tech-policy/2023/05/48-states-sue-phone-company-that-allegedly-catered-to-needs-of-robocallers/
@@ -158,6 +158,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.theregister.com/2023/06/02/amazon_mvno_us/
+
 https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime#xj4y7vzkg
 > https://news.ycombinator.com/item?id=36164462
 

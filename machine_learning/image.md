@@ -93,6 +93,8 @@ https://github.com/lkwq007/stablediffusion-infinity/blob/master/docs/setup_guide
 https://arxiv.org/abs/2305.11490
 > https://github.com/hyn2028/llm-cxr
 
+https://github.com/dibrale/samist
+
 # Data
 https://github.com/allenai/mmc4
 > https://news.ycombinator.com/item?id=35619159
@@ -105,6 +107,9 @@ https://muse-model.github.io/
 
 https://github.com/deep-floyd/IF
 > https://news.ycombinator.com/item?id=35717871
+
+https://styledrop.github.io/ google muse
+> https://news.ycombinator.com/item?id=36176302
 
 ## Stable diffusion
 https://andys.page/posts/how-to-draw/

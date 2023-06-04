@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://arxiv.org/abs/2306.00323
+> https://news.ycombinator.com/item?id=36181333
+
 https://elifesciences.org/reviewed-preprints/87414v1 mice
 > https://news.ycombinator.com/item?id=36172677
 

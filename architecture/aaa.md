@@ -283,6 +283,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c
+> https://news.ycombinator.com/item?id=36183763
+
 https://blog.quastor.org/p/khan-academy-rewrote-backend python -> go
 
 https://martinfowler.com/articles/dependency-composition.html

@@ -14,6 +14,9 @@ https://rpilocator.com/
 https://winavr.sourceforge.net/
 
 #
+https://howchoo.com/pi/raspberry-pi-gadget-mode
+> https://news.ycombinator.com/item?id=36176954
+
 https://github.com/platformio/platform-raspberrypi/pull/36
 > https://news.ycombinator.com/item?id=36090536
 

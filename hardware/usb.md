@@ -25,6 +25,8 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://www.techspot.com/news/98932-msi-reveals-first-usb4-expansion-card-delivering-100w.html
+
 https://github.com/usbarmory
 > https://news.ycombinator.com/item?id=36174359
 

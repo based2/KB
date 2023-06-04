@@ -13,6 +13,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation
+> https://news.ycombinator.com/item?id=36179333
+
 https://www.alignmentforum.org/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking
 > https://news.ycombinator.com/item?id=36132693
 

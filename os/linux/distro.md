@@ -85,6 +85,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://blogs.gentoo.org/gsoc/2023/06/04/week-1-modern-c-porting/
+
 https://www.ypsidanger.com/the-distribution-model-is-changing/
 
 https://daynix.github.io/2023/06/03/developing-qemu-on-asahi-linux-linux-port-for-apple-silicon.html

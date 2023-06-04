@@ -274,6 +274,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://github.com/jayphelps/git-blame-someone-else
+> https://news.ycombinator.com/item?id=36180249
+
 https://www.worthe-it.co.za/blog/2023-06-02-leveling-up-your-git-server-sharing-repos.html
 > https://news.ycombinator.com/item?id=36162789
 

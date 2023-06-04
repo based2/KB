@@ -93,6 +93,8 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://news.ycombinator.com/item?id=36183824
+
 https://www.enisa.europa.eu/publications/dns-identity
 
 https://twobithistory.org/2018/09/30/chaosnet.html

@@ -144,6 +144,10 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.quantamagazine.org/hobbyist-finds-maths-elusive-einstein-tile-20230404/
+> https://www.nature.com/articles/d41586-023-01801-8 aperiodic tile
+> > https://news.ycombinator.com/item?id=36164221
+
 https://news.mit.edu/2023/gilbert-strang-made-linear-algebra-fun-0531
 
 https://github.com/sagemath/sage/wiki/Sage-10.0-Release-Tour

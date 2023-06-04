@@ -336,6 +336,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://verdagon.dev/blog/linear-types-borrowing
+> https://news.ycombinator.com/item?id=36156790
+
 https://akrzemi1.wordpress.com/2023/04/23/the-obvious-final-step/
 > https://news.ycombinator.com/item?id=36071674
 

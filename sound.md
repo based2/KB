@@ -33,6 +33,9 @@ https://github.com/wwmm/easyeffects
 > https://news.ycombinator.com/item?id=36108927
 
 #
+https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/
+> https://news.ycombinator.com/item?id=36179111
+
 https://github.com/trummerschlunk/master_me
 
 https://ieeexplore.ieee.org/document/1521350

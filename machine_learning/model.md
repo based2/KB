@@ -12,6 +12,9 @@ https://bair.berkeley.edu/blog/2023/04/03/koala/
 
 https://github.com/tatsu-lab/stanford_alpaca
 
+https://twitter.com/natfriedman/status/1665402680376987648 m2
+> https://news.ycombinator.com/item?id=36187466
+
 https://github.com/minosvasilias/godot-dodo
 > https://news.ycombinator.com/item?id=35681357
 
@@ -65,6 +68,13 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://docs.cohere.com/docs/llmu
+
+https://twitter.com/jawj/status/1665292410232995842 XB
+> https://news.ycombinator.com/item?id=36184315
+
+https://github.com/keyvank/femtoGPT
+
 https://brayniac.io/blog/ai-agents
 
 https://backpackmodels.science/

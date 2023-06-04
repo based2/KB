@@ -305,6 +305,10 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://www.bitecode.dev/p/why-and-how-to-hide-the-python-stack
+
+https://peps.python.org/pep-0695/
+
 https://calmcode.io/
 
 https://www.nathanfurnal.xyz/posts/py-find-unused-deps/

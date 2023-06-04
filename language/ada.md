@@ -55,6 +55,8 @@ https://alire.ada.dev/
 # Spark
 https://www.adacore.com/about-spark
 
+https://www.adacore.com/uploads/techPapers/Safe-Dynamic-Memory-Management-in-Ada-and-SPARK.pdf
+
 https://blog.adacore.com/from-rust-to-spark-formally-proven-bip-buffers
 > https://news.ycombinator.com/item?id=27060180
 

@@ -203,6 +203,9 @@ https://news.ycombinator.com/item?id=31925871 Show HN: Calculator for US individ
 https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto/
 > https://news.ycombinator.com/item?id=35932530
 
+https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-listings-in-jeopardy
+> https://news.ycombinator.com/item?id=36171591
+
 # News
 https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany
 > https://news.ycombinator.com/item?id=35501937

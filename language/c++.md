@@ -59,6 +59,9 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/
+> https://news.ycombinator.com/item?id=36185817
+
 https://www.sandordargo.com/blog/2023/05/24/cpp23-constexpr
 
 https://sillycross.github.io/2021/08/23/2021-08-23/

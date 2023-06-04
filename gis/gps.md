@@ -1,5 +1,7 @@
 https://ciechanow.ski/gps/
 > https://www.reddit.com/r/programming/comments/zo6ovp/best_explanation_of_how_gps_actually_works_with/
+> https://news.ycombinator.com/item?id=36180316
+> https://news.ycombinator.com/item?id=29981188
 
 https://arstechnica.com/gadgets/2020/03/why-are-u-2-jet-pilots-wearing-garmin-satellite-navigation-smartwatches/
 
@@ -23,9 +25,6 @@ https://spectrum.ieee.org/satellite-refueling-heats-up
 https://breakingdefense.com/2021/11/sandias-atomic-avocado-could-allow-gps-free-pnt/
 > https://news.ycombinator.com/item?id=29213751
 > https://news.ycombinator.com/item?id=29370720
-
-https://ciechanow.ski/gps/
-> https://news.ycombinator.com/item?id=29981188
 
 https://www.gpsworld.com/russia-expected-to-ditch-glonass-for-loran-in-ukraine-invasion/
 > https://news.ycombinator.com/item?id=30385174

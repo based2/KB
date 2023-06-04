@@ -31,6 +31,8 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://www.infoq.com/news/2023/05/Infracopilot-conversation-editor/
+
 https://www.thinksys.com/cloud/infrastructure-drift-detection-management/
 
 https://news.ycombinator.com/item?id=36089084 200% problem, horizontal abstractions

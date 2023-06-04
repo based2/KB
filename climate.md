@@ -69,6 +69,12 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://climatereanalyzer.org/clim/sst_daily/
+> https://news.ycombinator.com/item?id=36187203
+> > https://news.ycombinator.com/item?id=36188272
+
+https://www.reuters.com/investigates/special-report/climate-change-finance/
+
 https://www.science.org/doi/10.1126/science.abk0063
 
 https://github.com/Hjdskes/powersave

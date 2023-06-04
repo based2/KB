@@ -19,6 +19,8 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.esa.int/Enabling_Support/Operations/Mars_Express_milestones_two-year_mission_enters_third_decade
+
 https://www.nature.com/articles/d41586-023-01422-1
 > https://news.ycombinator.com/item?id=35698653
 

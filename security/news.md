@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=36179196 Ask HN: What’s the deal with random people sending me money over PayPal?
+
+https://blog.eclecticiq.com/chinese-threat-actor-used-modified-cobalt-strike-variant-to-attack-taiwanese-critical-infrastructure
+> https://nvd.nist.gov/vuln/detail/CVE-2023-21839
+
 https://www.bleepingcomputer.com/news/security/exploit-released-for-rce-flaw-in-popular-reportlab-pdf-library/
 
 https://www.traceable.ai/blog-post/a-deep-dive-on-the-most-critical-api-vulnerability-bola-broken-object-level-authorization

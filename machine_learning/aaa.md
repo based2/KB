@@ -268,6 +268,9 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
 
 # sec
+https://owasp.org/www-project-top-10-for-large-language-model-applications/
+> https://www.reddit.com/r/programming/comments/13yc9gw/owasp_is_creating_a_top_10_dangers_list_for_large/
+
 https://www.giskard.ai/safegpt
 > https://news.ycombinator.com/item?id=35652452
 
@@ -356,6 +359,26 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.koreatimes.co.kr/www/tech/2023/05/133_350568.html kr hyperclova
+
+https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148
+
+https://simonwillison.net/2023/Jun/4/closed-model-training/
+> https://news.ycombinator.com/item?id=36187994
+> https://trust.openai.com/
+
+https://matthewdowney.github.io/clojure-neural-networks-from-scratch-mnist
+> https://news.ycombinator.com/item?id=36177971
+> > Deep Learning with Python by François Chollet
+
+https://news.ycombinator.com/item?id=36181518 OpenAI's plans according to Sam Altman
+
+https://www.businessinsider.com/openai-google-anthropic-ai-training-models-content-data-use-2023-6?r=US&IR=T
+> https://news.ycombinator.com/item?id=36180308
+
+https://theaireport.substack.com/p/ai-report-4-autogpt-and-open-source
+> https://news.ycombinator.com/item?id=36186348
+
 https://nlp.seas.harvard.edu//NamedTensor.html 2019 Tensor Considered Harmful -> Named Tensor
 > https://github.com/harvardnlp/NamedTensor
 

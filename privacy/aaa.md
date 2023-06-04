@@ -34,6 +34,8 @@ https://www.ecomply.io/blog-en/measuring-privacy-how-to-compute-the-dpia-thresho
 
 https://core.ac.uk/download/pdf/267979739.pdf
 
+https://www.onoff.app/en/
+
 # Fingerprinting
 https://jonatron.github.io/webgl-fingerprinting/
 > https://news.ycombinator.com/item?id=26844928
@@ -101,6 +103,11 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep
+> https://news.ycombinator.com/item?id=36187550
+
+https://www.reuters.com/technology/japan-privacy-watchdog-warns-chatgpt-maker-openai-data-collection-2023-06-02/
+
 https://news.bloombergtax.com/daily-tax-report-international/belgium-stops-unlawful-sharing-of-accidental-americans-data
 
 https://www.eff.org/deeplinks/2023/05/save-news-we-must-ban-surveillance-advertising

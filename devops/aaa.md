@@ -151,6 +151,9 @@ https://vigilance.fr/vulnerabilite/Git-trois-vulnerabilites-41134
 
 https://www.securesystems.de/blog/a-fresh-look-at-user-enumeration-in-microsoft-teams/
 
+https://tylercipriani.com/blog/2023/03/31/private-ish-github-repos/
+> https://news.ycombinator.com/item?id=36184948
+
 https://www.githubstatus.com/incidents/z3c6q056q332
 > https://news.ycombinator.com/item?id=35357851
 
@@ -385,6 +388,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/
+
 https://wholesomedonut.prose.sh/using-fossil-not-git
 > https://lobste.rs/s/emgzrz/using_fossil
 

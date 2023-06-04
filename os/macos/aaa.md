@@ -149,6 +149,7 @@ https://weblog.antranigv.am/posts/2022/11/running-arm64-aarch64-freebsd-on-qemu-
 > https://news.ycombinator.com/item?id=33679818
 
 https://developer.apple.com/documentation/virtualization/running_gui_linux_in_a_virtual_machine_on_a_mac
+> https://news.ycombinator.com/item?id=36184400
 > https://news.ycombinator.com/item?id=33143016
 
 https://github.com/foxlet/macOS-Simple-KVM

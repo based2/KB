@@ -135,6 +135,8 @@ https://www.reddit.com/r/aws/comments/yv1tx4/aws_control_tower_vs_terraform/
 
 https://awstip.com/provisioning-infrastructure-on-aws-with-gitlab-using-gitlab-managed-terraform-state-d06c13c9efd1
 
+https://medium.com/@hettiarachchi.yashodha/enforcing-machine-to-machine-authentication-for-services-behind-an-aws-alb-part-2-e06707e6f366
+
 ## Landing zone
 https://www.meshcloud.io/de/blog/aws-landing-zone-comparison/
 
@@ -265,6 +267,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://github.com/datarootsio/tf-profile
+
 https://github.com/andreineculau/tfrep
 
 https://fivexl.io/blog/terraform-mv/

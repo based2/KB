@@ -25,6 +25,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.theblock.co/post/232751/binance-privacy-coins-delisting-europe
+> https://news.ycombinator.com/item?id=36184082
+
 https://www.investopedia.com/fbi-to-launch-crypto-crimefighting-unit-5219591
 
 https://www.theregister.com/2023/06/02/elon_musk_dogecoin_insider_trading/

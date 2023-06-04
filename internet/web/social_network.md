@@ -88,6 +88,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://climatejustice.rocks/@kathhayhoe/110436657882930430
+> https://news.ycombinator.com/item?id=36185731
+
 https://www.wired.com/story/bluesky-my-feeds-custom-algorithms/
 
 https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_discuss_pricing_bad/

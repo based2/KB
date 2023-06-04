@@ -88,6 +88,9 @@ https://gitlab.com/mhammons/slinc C
 https://eed3si9n.com/sbt-1.8.3
 
 # News
+https://macros.scala.school/phantom-types
+> https://news.ycombinator.com/item?id=36178124
+
 https://www.reddit.com/r/scala/comments/13r5uhp/reconnecting_with_scala_whats_new/
 
 https://blog.rockthejvm.com/enums-scala-3/
