@@ -37,6 +37,9 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incident
+https://github.com/acmesh-official/acme.sh/issues/4659
+> https://news.ycombinator.com/item?id=36252310
+
 https://twitter.com/elonmusk/status/1644505414296322048
 > 
 

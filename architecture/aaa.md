@@ -283,6 +283,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://flyingbarron.medium.com/is-there-such-a-thing-as-a-system-thats-too-reliable-9a367ba850ac
+
 https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c
 > https://news.ycombinator.com/item?id=36183763
 

@@ -461,6 +461,9 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://github.com/hydro-project/hydroflow
+> https://news.ycombinator.com/item?id=36227416
+
 https://perso.crans.org/vanille/treebor/
 > https://www.youtube.com/watch?v=zQ76zLXesxA
 > https://www.ralfj.de/blog/2023/06/02/tree-borrows.html

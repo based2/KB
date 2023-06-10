@@ -20,6 +20,12 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://github.com/gorhill/uBlock/releases/tag/1.50.0
+> https://news.ycombinator.com/item?id=36227411
+
+https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/
+> https://news.ycombinator.com/item?id=36243955
+
 https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/
 > https://news.ycombinator.com/item?id=36169513
 

@@ -140,6 +140,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://thephd.dev/cuneicode-and-the-future-of-text-in-c
+> https://news.ycombinator.com/item?id=36224893
+
 https://stephenramsay.net/posts/groff-mom.html
 > https://news.ycombinator.com/item?id=35971338
 

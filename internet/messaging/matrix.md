@@ -10,7 +10,10 @@ https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network
 
 https://libli.org/
 > https://news.ycombinator.com/item?id=30586171
- 
+
+#
+https://fs0c131y.com/posts/2019-04-19_tchap-the-super-not-secure-app-of-the-french-government/
+
 #
 https://fosdem.org/2023/schedule/event/matrix20/
 > https://news.ycombinator.com/item?id=34776132

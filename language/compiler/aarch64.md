@@ -1,3 +1,6 @@
+https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/
+> https://news.ycombinator.com/item?id=36223283
+
 https://gist.github.com/zingaburga/805669eb891c820bd220418ee3f0d6bd ARM’s Scalable Vector Extensions: A Critical Look at SVE2 For Integer Workloads
 
 https://ariadne.space/2023/04/13/writing-portable-arm64-assembly/

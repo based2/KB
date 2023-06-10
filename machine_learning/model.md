@@ -1,5 +1,8 @@
 https://huggingface.co/
 
+https://github.com/kyegomez/tree-of-thoughts
+> https://news.ycombinator.com/item?id=36085538
+
 https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 > https://news.ycombinator.com/item?id=35813322
 
@@ -11,6 +14,9 @@ https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot NonCommercial
 https://bair.berkeley.edu/blog/2023/04/03/koala/
 
 https://github.com/tatsu-lab/stanford_alpaca
+
+https://ggml.ai/
+> https://news.ycombinator.com/item?id=36215651
 
 https://twitter.com/natfriedman/status/1665402680376987648 m2
 > https://news.ycombinator.com/item?id=36187466
@@ -68,6 +74,10 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://llm.garden/
+
+https://arxiv.org/abs/2201.11903 Chain-of-Thought Prompting Elicits Reasoning in Large Language Models
+
 https://docs.cohere.com/docs/llmu
 
 https://twitter.com/jawj/status/1665292410232995842 XB
@@ -107,9 +117,6 @@ https://redis.com/blog/chatgpt-memory-project/
 
 https://gorilla.cs.berkeley.edu
 > https://news.ycombinator.com/item?id=36073241
-
-https://github.com/kyegomez/tree-of-thoughts
-> https://news.ycombinator.com/item?id=36085538
 
 https://leanpub.com/langchain/read
 

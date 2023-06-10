@@ -68,6 +68,11 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/
+> https://news.ycombinator.com/item?id=36208420
+
+https://github.com/undb-xyz/undb
+
 https://www.jefftk.com/p/you-dont-always-need-indexes
 > https://news.ycombinator.com/item?id=36071397
 

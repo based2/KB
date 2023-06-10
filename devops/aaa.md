@@ -388,6 +388,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://ff4j.github.io/
+> https://news.ycombinator.com/item?id=36225227
+
 https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/
 
 https://wholesomedonut.prose.sh/using-fossil-not-git

@@ -106,6 +106,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://github.com/little-brother/sqlite-gui
+
 https://wasmlabs.dev/articles/sqlite-wasi-support/
 > https://news.ycombinator.com/item?id=36054521
 

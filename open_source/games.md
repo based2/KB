@@ -72,6 +72,9 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://gitlab.com/OpenMW/openmw
+> https://news.ycombinator.com/item?id=36257963
+
 https://news.ycombinator.com/item?id=36088672
 
 https://www.youtube.com/watch?v=dgd88zE3O38

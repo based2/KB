@@ -271,6 +271,12 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://sifted.eu/articles/evroc-plan-hyperscale-cloud-news
+> https://news.ycombinator.com/item?id=36264429
+
+https://docs.digitalocean.com/products/networking/ddos/
+> https://news.ycombinator.com/item?id=36270348
+
 https://discourse.nixos.org/t/the-nixos-foundations-call-to-action-s3-costs-require-community-support/28672
 > https://news.ycombinator.com/item?id=36173020
 

@@ -103,6 +103,11 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.branch.io/resources/blog/the-dark-horse-of-wwdc-2023-privacy-policies-finally-get-real/
+
+https://www.optoutproject.net/
+> https://news.ycombinator.com/item?id=36263654
+
 https://privacyinternational.org/long-read/4909/wfh-watched-home-office-365-and-workplace-surveillance-creep
 > https://news.ycombinator.com/item?id=36187550
 

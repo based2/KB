@@ -279,6 +279,9 @@ https://web.cs.umass.edu/publication/docs/2010/UM-CS-2010-060.pdf?ssp=1&setlang=
 
 https://github.com/GreyDGL/PentestGPT
 
+https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare
+> https://news.ycombinator.com/item?id=36243951
+
 # Incident
 https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/
 > https://news.ycombinator.com/item?id=36113551
@@ -359,6 +362,18 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://arxiv.org/abs/2306.00029
+> https://news.ycombinator.com/item?id=36233881
+
+https://aisnakeoil.substack.com/p/licensing-is-neither-feasible-nor
+> https://news.ycombinator.com/item?id=36270303
+
+https://arxiv.org/abs/2208.07339
+> https://news.ycombinator.com/item?id=36271112
+
+https://vickiboykis.com/what_are_embeddings/
+> https://news.ycombinator.com/item?id=36266432
+
 https://www.koreatimes.co.kr/www/tech/2023/05/133_350568.html kr hyperclova
 
 https://blog.esciencecenter.nl/language-modeling-the-first-100-years-357556816148

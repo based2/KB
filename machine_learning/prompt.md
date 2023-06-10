@@ -50,3 +50,6 @@ https://www.engine.study/blog/modding-age-of-empires-ii-with-a-sprite-diffuser/
 
 https://github.com/ianarawjo/ChainForge
 > https://news.ycombinator.com/item?id=36056907
+
+https://resources.wolframcloud.com/PromptRepository/
+> https://news.ycombinator.com/item?id=36239563

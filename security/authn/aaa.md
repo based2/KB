@@ -84,6 +84,7 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+
 https://authress.io/knowledge-base/articles/auth-situation-report
 
 https://developer.chrome.com/docs/privacy-sandbox/fedcm/
@@ -223,6 +224,8 @@ https://blog.mozilla.org/netpolicy/2021/11/04/mozilla-publishes-position-paper-o
 
 https://github.com/mishushakov/signin-with-matrix
 > https://news.ycombinator.com/item?id=29240154
+
+https://fs0c131y.com/posts/2019-10-08_origin-of-alicem/
 
 https://www.authelia.com/docs/
 > https://github.com/authelia/authelia

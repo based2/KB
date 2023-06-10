@@ -21,6 +21,9 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/
+> https://news.ycombinator.com/item?id=36259745
+
 https://www.bleepingcomputer.com/news/security/microsoft-365-phishing-attacks-use-encrypted-rpmsg-messages/
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-365-hit-by-new-outage-causing-connectivity-issues/

@@ -20,7 +20,12 @@ https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/
 # Ternary
 https://sweis.medium.com/revisiting-radix-economy-8f642d9f3c6a
 
+https://wiki.alopex.li/TernaryComputer
+
 # News
+https://github.com/nanochess/bootOS
+> https://news.ycombinator.com/item?id=36232900
+
 https://the-analog-thing.org/
 > https://news.ycombinator.com/item?id=36165513
 

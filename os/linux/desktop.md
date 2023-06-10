@@ -97,6 +97,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://en.opensuse.org/Portal:Aeon
+
+https://tech.lgbt/@xogium/110507457689374019
+> https://news.ycombinator.com/item?id=36265245
+
 https://github.com/rvaiya/keyd
 > https://news.ycombinator.com/item?id=36161582
 

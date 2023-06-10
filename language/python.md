@@ -305,6 +305,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://docs.python.org/3/howto/functional.html
+> https://news.ycombinator.com/item?id=36256987
+
 https://www.bitecode.dev/p/why-and-how-to-hide-the-python-stack
 
 https://peps.python.org/pep-0695/

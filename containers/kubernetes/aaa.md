@@ -9,8 +9,12 @@ https://blog.dave.tf/post/new-kubernetes/ A better Kubernetes, from the ground u
 
 https://twitter.com/__brennerm/status/1332368840013955074 Overview of built-in #Kubernetes workload resources
 
-https://microconfig.io/server.html  Microconfig Server Beta
+https://microconfig.io/server.html Microconfig Server Beta
 https://lambda.grofers.com/learnings-from-two-years-of-kubernetes-in-production-b0ec21aa2814
+
+https://stackoverflow.com/questions/59070300/how-to-delete-replication-controller-and-its-pods-in-kubernetes
+
+https://stackoverflow.com/questions/59861523/how-to-delete-orphaned-replicasets-with-kubernetes?rq=3
 
 # Kubelet
 

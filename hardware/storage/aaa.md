@@ -48,6 +48,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.techspot.com/news/99003-seagate-mass-produced-hamr-hard-drives-debut-32tb.html
+> https://news.ycombinator.com/item?id=36267550
+
 https://www.pagetable.com/?p=1107
 > https://news.ycombinator.com/item?id=36110680
 

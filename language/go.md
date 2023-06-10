@@ -118,6 +118,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://bitfieldconsulting.com/golang/examples
+> https://news.ycombinator.com/item?id=36270851
+
 https://bitfieldconsulting.com/golang/random-testing
 
 https://github.com/pawelgaczynski/gain io_uring

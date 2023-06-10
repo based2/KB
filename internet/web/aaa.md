@@ -129,6 +129,9 @@ https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 https://puter.com/
 > https://news.ycombinator.com/item?id=33838179
 
+https://desktop.kerahq.com/
+> https://news.ycombinator.com/item?id=36260589
+
 # Forum
 https://github.com/Demindiro/agreper
 

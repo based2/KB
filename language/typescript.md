@@ -103,6 +103,12 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/kaleidawave/ezno/discussions/21
+> https://news.ycombinator.com/item?id=36232348
+
+https://github.com/geoffreytools/free-types
+> https://news.ycombinator.com/item?id=36253769
+
 https://ybogomolov.me/making-illegal-states-unrepresentable/
 
 https://devblogs.microsoft.com/typescript/announcing-typescript-5-1-rc/

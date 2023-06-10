@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://twitter.com/justjake/status/1667478906591666176
+
 https://www.dig.security/post/gcp-cloudsql-vulnerability-leads-to-internal-container-access-and-data-exposure
 > https://news.ycombinator.com/item?id=36086858
 

@@ -82,6 +82,9 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
 # News
+https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail
+> https://news.ycombinator.com/item?id=36233187
+
 https://console.substack.com/p/console-160#%C2%A7interview-with-sti-of-pivpn-simple-vpn-installer
 
 https://mullvad.net/en/blog/2023/5/29/removing-the-support-for-forwarded-ports/

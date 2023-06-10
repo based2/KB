@@ -40,6 +40,10 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.npr.org/2023/06/08/1181009210/octopuses-tweak-the-rna-in-their-brains-to-adjust-to-warmer-and-cooler-waters
+
+https://en.wikipedia.org/wiki/Neuromorphic_engineering
+
 https://arxiv.org/abs/2306.00323
 > https://news.ycombinator.com/item?id=36181333
 

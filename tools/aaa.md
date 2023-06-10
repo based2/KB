@@ -75,3 +75,6 @@ https://lwn.net/Articles/820829/ The state of the AWK
 
 https://cirw.in/blog/bracketed-paste
 > https://news.ycombinator.com/item?id=35222990
+
+https://github.com/izabera/cube.sed
+> https://news.ycombinator.com/item?id=36258925

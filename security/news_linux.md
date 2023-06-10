@@ -16,6 +16,9 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure
+> https://news.ycombinator.com/item?id=36267557
+
 https://seanpesce.blogspot.com/2023/05/bypassing-selinux-with-initmodule.html
 
 https://bugprove.com/knowledge-hub/cve-2023-31070-broadcom-bcm-47xx-sdk-emf-slab-out-of-bounds-write/

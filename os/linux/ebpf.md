@@ -110,3 +110,5 @@ https://deepfence.io/aya-your-trusty-ebpf-companion/
 
 https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threats
 > https://news.ycombinator.com/item?id=36176947
+
+https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1

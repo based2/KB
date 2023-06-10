@@ -20,3 +20,5 @@ https://medium.com/insiderengineering/monitoring-amazon-emr-step-failures-2a5ad1
 
 https://aws.amazon.com/en/bedrock/ build and scale generative AI applications with foundation models (FMs)
 > https://news.ycombinator.com/item?id=35559497
+
+https://medium.com/ubuntu-ai/kubeflow-mlflow-on-eks-136b672e9afa

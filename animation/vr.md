@@ -1,3 +1,9 @@
+https://notes.andymatuschak.org/Vision%20Pro
+> https://news.ycombinator.com/item?id=36219585
+
+https://spectrum.ieee.org/apple-vision-pro
+> https://news.ycombinator.com/item?id=36265316
+
 https://www.theverge.com/2023/6/1/23744576/meta-quest-3-vr-headset-price-details
 > https://news.ycombinator.com/item?id=36151375
 

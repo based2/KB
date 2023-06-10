@@ -13,6 +13,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://simonwillison.net/2023/Jun/8/gpt-tokenizers/
+> https://news.ycombinator.com/item?id=36248633
+
 https://www.oneusefulthing.org/p/setting-time-on-fire-and-the-temptation
 > https://news.ycombinator.com/item?id=36179333
 

@@ -598,6 +598,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://github.com/algolia/autocomplete
+> https://news.ycombinator.com/item?id=36236578
+
 https://www.nray.dev/blog/300ms-faster-reducing-wikipedias-total-blocking-time/
 > https://news.ycombinator.com/item?id=36113430
 

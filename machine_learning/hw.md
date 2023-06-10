@@ -1,3 +1,6 @@
+https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html
+> https://news.ycombinator.com/item?id=36221010
+
 https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html
 > https://news.ycombinator.com/item?id=36065175
 

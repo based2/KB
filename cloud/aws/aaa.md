@@ -124,6 +124,8 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://aws.amazon.com/en/blogs/mobile/introducing-merged-apis-on-aws-appsync/
+
 https://aws.amazon.com/en/blogs/aws/retiring-the-aws-documentation-on-github/
 
 https://github.com/open-guides/og-aws

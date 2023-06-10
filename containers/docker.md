@@ -99,7 +99,6 @@ https://github.com/lavie/runlike Given an existing docker container, prints the 
 > https://news.ycombinator.com/item?id=34450880
 
 https://github.com/sickcodes/Docker-OSX
-> 
 
 https://sacra.com/p/docker-plg-pivot/
 > https://news.ycombinator.com/item?id=34372140

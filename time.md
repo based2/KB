@@ -239,6 +239,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/
+> https://news.ycombinator.com/item?id=36249671
+
 https://www.javaadvent.com/2019/12/measuring-time-from-java-to-kernel-and-back.html
 
 https://ingep.net/breadboardwatch/

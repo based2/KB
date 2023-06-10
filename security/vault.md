@@ -54,6 +54,8 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://www.bleepingcomputer.com/news/security/keepass-v254-fixes-bug-that-leaked-cleartext-master-password/
+
 https://sourceforge.net/p/keepass/discussion/329220/thread/f3438e6283/
 
 https://www.pcworld.com/article/1923963/an-exploit-can-reveal-your-keepass-master-password-in-plaintext.html

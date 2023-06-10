@@ -225,6 +225,9 @@ https://twitter.com/mbostock/status/1661814623962812416
 > https://news.ycombinator.com/item?id=36075587
 > > https://observablehq.com/plot/why-plot
 
+https://www.tremor.so/components reactjs
+> https://news.ycombinator.com/item?id=36244886
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/
@@ -316,7 +319,18 @@ https://phasellm.com/researchgpt
 https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5ab6f
 > https://news.ycombinator.com/item?id=35973265
 
+https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/
+> https://news.ycombinator.com/item?id=36263349
+
 # News
+https://blog.getdaft.io/p/introducing-daft-a-high-performance
+> https://news.ycombinator.com/item?id=36225694
+
+https://github.com/ArroyoSystems/arroyo sql stream, rust
+> https://news.ycombinator.com/item?id=36214393
+
+https://astralcodexten.substack.com/p/attempts-to-put-statistics-in-context
+
 https://dcic-world.org/2023-02-21/booklet_intro.html
 
 https://airbyte.com/blog/data-modeling-unsung-hero-data-engineering-architecture-pattern-tools

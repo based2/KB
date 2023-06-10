@@ -69,6 +69,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.cdr.fyi/
+
 https://climatereanalyzer.org/clim/sst_daily/
 > https://news.ycombinator.com/item?id=36187203
 > > https://news.ycombinator.com/item?id=36188272

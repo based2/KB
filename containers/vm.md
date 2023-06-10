@@ -31,3 +31,5 @@ https://github.com/zachallaun/secd
 > https://news.ycombinator.com/item?id=35837747
 
 https://gist.github.com/0xquad/6090af4fe2c5b5fc6299 virtualbox ipv6
+
+https://github.com/jart/blink/releases/tag/1.0.0

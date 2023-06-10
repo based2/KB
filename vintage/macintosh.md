@@ -127,6 +127,10 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://infinitemac.org/
+> https://news.ycombinator.com/item?id=36244565
+> > http://outliners.scripting.com/default.html MORE
+
 https://news.ycombinator.com/item?id=35432734
 
 https://www.youtube.com/watch?v=63WcU7LBKFg

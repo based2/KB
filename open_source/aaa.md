@@ -246,6 +246,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6
+> https://news.ycombinator.com/item?id=36225016
+
 https://github.blog/2023-06-01-elevating-open-source-contributors-to-open-source-maintainers/
 
 https://lwn.net/Articles/925782/ The end of accounting search -> gnucash
