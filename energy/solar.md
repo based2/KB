@@ -18,6 +18,8 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.solarpaces.org/published-at-the-journal-of-energy-storage-a-synthesis-parameter-of-molten-salt-nanofluids-for-solar-thermal-energy-storage-applications/
+
 https://www.fastcompany.com/90888672/switzerland-turning-the-gap-between-train-tracks-into-a-solar-carpet
 > https://hardware.slashdot.org/story/23/06/02/2125206/switzerland-is-turning-the-gap-between-train-tracks-into-a-solar-carpet
 

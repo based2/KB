@@ -1,5 +1,7 @@
 https://www.linuxfoundation.org/webinars/introduction-to-project-alpha-omega/
 
+https://www.memorysafety.org/
+
 # Tools
 https://github.com/queer/boxxy puts bad Linux applications in a box with only their files.
 > https://news.ycombinator.com/item?id=34730520

@@ -9,6 +9,8 @@ https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 # llama Facebook - Forbids commercial use, weights required
 https://www.reddit.com/r/LocalLLaMA/
 
+https://github.com/openlm-research/open_llama
+
 https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot NonCommercial
 
 https://bair.berkeley.edu/blog/2023/04/03/koala/
@@ -74,6 +76,12 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://bdtechtalks.com/2023/05/22/what-is-lora/
+
+https://medium.com/@brian_90925/llms-and-the-emerging-ml-tech-stack-6fa66ee4561a
+
+https://lmsys.org/about/
+
 https://llm.garden/
 
 https://arxiv.org/abs/2201.11903 Chain-of-Thought Prompting Elicits Reasoning in Large Language Models

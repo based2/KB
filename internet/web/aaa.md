@@ -136,6 +136,9 @@ https://desktop.kerahq.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://tinyawards.net/
+> https://news.ycombinator.com/item?id=36267362
+
 https://developer.mozilla.org/en-US/blog/baseline-unified-view-stable-web-features/
 > https://news.ycombinator.com/item?id=35900024
 

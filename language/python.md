@@ -140,6 +140,9 @@ https://textual.textualize.io/blog/2023/03/15/no-async-async-with-python/
 
 https://fly.io/blog/running-tasks-concurrently-in-django-asynchronous-views/
 
+https://charlesleifer.com/blog/asyncio/
+> https://news.ycombinator.com/item?id=36277089
+
 # Profiler
 
 https://github.com/bloomberg/memray
@@ -272,6 +275,9 @@ https://twitter.com/ethanhs/status/1464308141105967104 webassembly
 > https://news.ycombinator.com/item?id=29376105
 
 # Django
+https://spookylukey.github.io/django-views-the-right-way/index.html
+> https://news.ycombinator.com/item?id=36273892
+
 https://simonwillison.net/2021/Jul/6/django-sql-dashboard/
 > https://news.ycombinator.com/item?id=27744870
 

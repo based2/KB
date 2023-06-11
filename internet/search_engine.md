@@ -91,6 +91,10 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://blog.google/products/search/about-this-image-google-search/
+
+https://nosearch.online/
+
 https://www.naver.com/ kr
 
 https://pages.cs.wisc.edu/~chronis/files/efficiently_searching_sorted_arrays.pdf

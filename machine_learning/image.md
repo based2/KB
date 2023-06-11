@@ -111,6 +111,8 @@ https://github.com/deep-floyd/IF
 https://styledrop.github.io/ google muse
 > https://news.ycombinator.com/item?id=36176302
 
+https://deepfloyd.ai/deepfloyd-if
+
 ## Stable diffusion
 https://andys.page/posts/how-to-draw/
 

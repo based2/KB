@@ -44,6 +44,8 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://news.ycombinator.com/item?id=36256931 play
+
 https://github.com/magnific0/wondershaper net cap
 
 https://dystroy.org/broot/

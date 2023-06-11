@@ -64,6 +64,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://meta.mathoverflow.net/questions/5669/at-what-point-should-mo-recognise-it-needs-to-leave-stack-exchange-inc
+> https://news.ycombinator.com/item?id=36276335
+
 https://news.ycombinator.com/item?id=36174815
 
 https://blog.archive.org/2023/05/29/let-us-serve-you-but-dont-bring-us-down/

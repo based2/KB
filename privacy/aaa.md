@@ -103,6 +103,10 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.apple.com/newsroom/2023/05/apple-google-partner-on-an-industry-specification-to-address-unwanted-tracking/ BLUETOOTH
+
+https://datatracker.ietf.org/doc/draft-detecting-unwanted-location-trackers/
+
 https://www.branch.io/resources/blog/the-dark-horse-of-wwdc-2023-privacy-policies-finally-get-real/
 
 https://www.optoutproject.net/

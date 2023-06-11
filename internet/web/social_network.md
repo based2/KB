@@ -88,6 +88,11 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://blog.joinmastodon.org/2023/05/a-new-onboarding-experience-on-mastodon/
+
+https://www.platformer.news/p/twitter-stiffs-google
+> https://news.ycombinator.com/item?id=36274884
+
 https://climatejustice.rocks/@kathhayhoe/110436657882930430
 > https://news.ycombinator.com/item?id=36185731
 
@@ -97,7 +102,6 @@ https://old.reddit.com/r/apolloapp/comments/13ws4w3/had_a_call_with_reddit_to_di
 > https://news.ycombinator.com/item?id=36141083
 
 https://psyche.co/ideas/the-antidote-to-fake-news-is-to-nourish-our-epistemic-wellbeing
-> 
 
 https://bgr.com/tech/youtube-removed-dislike-counts-so-this-guy-made-rotten-tomatoes-for-youtube-videos/
 > https://news.ycombinator.com/item?id=36105629

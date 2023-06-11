@@ -157,6 +157,9 @@ https://galactica.org/
 https://github.com/tensorflow/datasets
 > https://news.ycombinator.com/item?id=34079690
 
+https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama ASLv2
+> https://news.ycombinator.com/item?id=36277789
+
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333
@@ -282,6 +285,8 @@ https://github.com/GreyDGL/PentestGPT
 https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare
 > https://news.ycombinator.com/item?id=36243951
 
+https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working
+
 # Incident
 https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/
 > https://news.ycombinator.com/item?id=36113551
@@ -362,6 +367,16 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-launches-new-ai-models-opens-generative-ai-studio?hl=en
+
+https://underjord.io/why-ml-on-erlang.html
+> https://news.ycombinator.com/item?id=36255546
+
+https://cloud.google.com/blog/products/ai-machine-learning/generative-ai-support-on-vertexai?hl=en
+> https://news.ycombinator.com/item?id=36274789
+
+https://techcrunch.com/2023/06/09/age-of-ai-everything-you-need-to-know-about-artificial-intelligence/?guccounter=1
+
 https://arxiv.org/abs/2306.00029
 > https://news.ycombinator.com/item?id=36233881
 

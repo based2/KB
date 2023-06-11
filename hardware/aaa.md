@@ -108,6 +108,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://www.tomshardware.com/news/gddr6-vram-prices-plummet
+
 https://www.theregister.com/2023/06/09/boade_x86_intel_collab/
 
 https://github.com/noisymime/speeduino

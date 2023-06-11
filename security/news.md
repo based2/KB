@@ -1,3 +1,7 @@
+https://vigilance.fr/vulnerabilite/Diffie-Hellman-Key-Agreement-Protocol-surcharge-via-Long-Exponents-41432
+
+https://thenewstack.io/aws-open-sources-security-tools/
+
 https://news.ycombinator.com/item?id=36179196 Ask HN: What’s the deal with random people sending me money over PayPal?
 
 https://blog.eclecticiq.com/chinese-threat-actor-used-modified-cobalt-strike-variant-to-attack-taiwanese-critical-infrastructure

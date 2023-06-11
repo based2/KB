@@ -173,6 +173,8 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://github.com/ANSSI-FR/cry-me
+
 https://news.ycombinator.com/item?id=36170690
 
 https://blog.cryptographyengineering.com/2023/05/08/prfs-prps-and-other-fantastic-things/

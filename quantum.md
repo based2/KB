@@ -88,6 +88,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://phys.org/news/2023-05-noise-canceling-qubits-minimize-errors-quantum.html
+
 https://phys.org/news/2023-06-quantum-visualization-technique-insight-photosynthesis.html
 > https://news.ycombinator.com/item?id=36215180
 

@@ -161,6 +161,8 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://hauleth.dev/post/beam-process-memory-usage/
+
 https://github.com/WhatsApp/erlfuzz
 
 https://www.erlang.org/blog/more-optimizations/
