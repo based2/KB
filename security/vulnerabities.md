@@ -66,6 +66,8 @@ https://github.com/tg12/PoC_CVEs
 
 https://www.openvas.org/
 
+https://pkg.go.dev/vuln/
+
 # News
 https://thenewstack.io/vex-standardization-for-a-vulnerability-exploit-data-exchange-format/
 

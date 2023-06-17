@@ -141,6 +141,9 @@ https://fly.io/phoenix-files/elixir-and-rust-is-a-good-mix/
 https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f
 > https://news.ycombinator.com/item?id=35914216
 
+https://underjord.io/scripting-with-elixir.html
+> https://news.ycombinator.com/item?id=36289580
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016
@@ -161,6 +164,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://fly.io/phoenix-files/a-liveview-is-a-process/
+> https://news.ycombinator.com/item?id=36339891
+
 https://hauleth.dev/post/beam-process-memory-usage/
 
 https://github.com/WhatsApp/erlfuzz

@@ -88,6 +88,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://one-sec.app/
+
 https://blog.joinmastodon.org/2023/05/a-new-onboarding-experience-on-mastodon/
 
 https://www.platformer.news/p/twitter-stiffs-google

@@ -6,6 +6,9 @@ https://github.com/kyegomez/tree-of-thoughts
 https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 > https://news.ycombinator.com/item?id=35813322
 
+https://github.com/simonw/llm
+> https://llm.datasette.io/en/stable/index.html
+
 # llama Facebook - Forbids commercial use, weights required
 https://www.reddit.com/r/LocalLLaMA/
 
@@ -76,6 +79,19 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://github.com/jncraton/languagemodels
+
+https://huggingface.co/TheBloke/falcon-40b-instruct-GGML
+
+https://faraday.dev/
+
+https://venturebeat.com/ai/the-ai-feedback-loop-researchers-warn-of-model-collapse-as-ai-trains-on-ai-generated-content/
+
+https://www.artisana.ai/articles/metas-plan-to-offer-free-commercial-ai-models-puts-pressure-on-google-and
+> https://news.ycombinator.com/item?id=36360452
+
+https://mlc.ai/mlc-llm/
+
 https://bdtechtalks.com/2023/05/22/what-is-lora/
 
 https://medium.com/@brian_90925/llms-and-the-emerging-ml-tech-stack-6fa66ee4561a

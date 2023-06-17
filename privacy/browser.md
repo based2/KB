@@ -20,6 +20,9 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/
+> https://news.ycombinator.com/item?id=36295364
+
 https://github.com/gorhill/uBlock/releases/tag/1.50.0
 > https://news.ycombinator.com/item?id=36227411
 

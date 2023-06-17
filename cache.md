@@ -87,3 +87,6 @@ http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html;jsession
 > https://news.ycombinator.com/item?id=32430975
 
 https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-the-hardest-things-in-computer-science/
+
+https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/
+> https://news.ycombinator.com/item?id=36333034

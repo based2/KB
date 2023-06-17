@@ -123,6 +123,8 @@ https://jamesturk.github.io/scrapeghost/ chatgpt
 https://github.com/wabarc/wayback
 > https://news.ycombinator.com/item?id=35586845
 
+https://trafilatura.readthedocs.io/en/latest/
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 
@@ -136,6 +138,9 @@ https://desktop.kerahq.com/
 https://github.com/Demindiro/agreper
 
 # News
+https://www.applemust.com/w3c-announces-new-web-standard-for-online-payments/
+> https://news.ycombinator.com/item?id=36341750
+
 https://tinyawards.net/
 > https://news.ycombinator.com/item?id=36267362
 

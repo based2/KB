@@ -116,3 +116,6 @@ https://sive.rs/1s Writing one sentence per line
 
 https://github.com/zineland/zine simple and opinionated tool to build your own magazine, rust
 > https://news.ycombinator.com/item?id=30966362
+
+https://arxiv.org/abs/2204.09672
+> https://news.ycombinator.com/item?id=36340504

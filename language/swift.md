@@ -1,3 +1,6 @@
+https://www.hackingwithswift.com/100/swiftui
+> https://news.ycombinator.com/item?id=36359652
+
 https://www.hackingwithswift.com/articles/258/whats-new-in-swift-5-9
 
 https://kean.blog/post/pulse-3

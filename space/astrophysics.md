@@ -61,6 +61,10 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://www.stsci.edu/contents/news-releases/2023/news-2023-017
+
+https://noirlab.edu/public/news/noirlab2317/?lang
+
 https://earthsky.org/astronomy-essentials/safe-distance-from-a-supernova-earth/
 
 https://www.theguardian.com/science/2023/may/26/its-new-territory-why-is-betelgeuse-is-glowing-so-brightly-and-behaving-so-strangely

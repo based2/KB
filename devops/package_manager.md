@@ -92,6 +92,8 @@ https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 https://blog.remirepo.net/
 
 #
+https://pypa.github.io/pipx/#how-is-it-different-from-pip https://pypa.github.io/pipx/ https://github.com/pypa/pipx
+
 https://blog.pypi.org/posts/2023-06-01-2fa-enforcement-for-upload/
 
 https://github.com/popey/unsnap

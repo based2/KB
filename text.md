@@ -140,6 +140,14 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://evanhahn.com/utf-21/
+> https://news.ycombinator.com/item?id=36269343
+
+https://ionathan.ch/2023/06/06/angarr.html
+> https://news.ycombinator.com/item?id=36369553
+
+https://www.oilshell.org/blog/2023/06/surrogate-pair.html
+
 https://thephd.dev/cuneicode-and-the-future-of-text-in-c
 > https://news.ycombinator.com/item?id=36224893
 

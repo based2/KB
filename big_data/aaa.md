@@ -323,6 +323,13 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://trickest.com/blog/parsing-github-logs-with-trickest/
+> https://news.ycombinator.com/item?id=36341160
+
+https://news.ycombinator.com/item?id=36358672
+
+https://blog.danthegoodman.com/icedb-v2
+
 https://blog.getdaft.io/p/introducing-daft-a-high-performance
 > https://news.ycombinator.com/item?id=36225694
 

@@ -22,6 +22,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://buttondown.email/anmonteiro/archive/melange-hits-v10/
+> https://news.ycombinator.com/item?id=36296185
+
 https://www.lortex.org/articles/value-speculation-ocaml/
 > https://news.ycombinator.com/item?id=35844078
 

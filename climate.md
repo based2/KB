@@ -69,6 +69,11 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://climatecasino.net/2023/06/wtf-is-happening-an-overview/
+> https://news.ycombinator.com/item?id=36295136
+
+https://news.ycombinator.com/item?id=36339253
+
 https://www.cdr.fyi/
 
 https://climatereanalyzer.org/clim/sst_daily/

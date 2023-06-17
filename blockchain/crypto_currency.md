@@ -18,6 +18,8 @@ https://www.impots.gouv.fr/portail/formulaire/3916/declaration-par-un-resident-d
 
 src: https://connect.ed-diamond.com/gnu-linux-magazine/glmfhs-116/les-impacts-fiscaux-des-cryptomonnaies
 
+https://www.coindesk.com/policy/2023/06/16/binance-under-investigation-in-france-accused-of-aggravated-money-laundering/
+
 # DE
 https://news.ycombinator.com/item?id=31366660
 
@@ -25,6 +27,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.reuters.com/technology/urgent-binance-sec-strike-deal-move-all-us-customer-funds-wallet-keys-back-2023-06-17/
+
 https://www.theblock.co/post/232751/binance-privacy-coins-delisting-europe
 > https://news.ycombinator.com/item?id=36184082
 

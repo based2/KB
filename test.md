@@ -108,6 +108,9 @@ https://www.amazon.science/publications/non-stationary-a-b-tests
 
 https://www.evanmiller.org/how-not-to-run-an-ab-test.html
 
+https://posthog.com/blog/ab-testing-mistakes
+> https://news.ycombinator.com/item?id=36354280
+
 #
 https://thenewstack.io/the-impedance-mismatch-test-is-your-data-layer-a-complex-mess/
 > https://news.ycombinator.com/item?id=27923631
@@ -146,6 +149,9 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://github.com/martinpiper/BDD6502
+> https://news.ycombinator.com/item?id=36318281
+
 https://news.ycombinator.com/item?id=36275901
 
 https://github.com/axboe/fio linux

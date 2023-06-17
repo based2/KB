@@ -88,6 +88,16 @@ https://gitlab.com/mhammons/slinc C
 https://eed3si9n.com/sbt-1.8.3
 
 # News
+https://blog.fanf.eu/posts/two-more-old-cents-on-scala-3-migration/
+
+https://www.lihaoyi.com/post/comlihaoyiScalaExecutablePseudocodethatsEasyBoringandFast.html
+
+https://github.com/orgs/playframework/discussions/11242
+
+https://github.com/AugustNagro/magnum db client
+
+https://github.com/reactivecore/kreuzberg js
+
 https://macros.scala.school/phantom-types
 > https://news.ycombinator.com/item?id=36178124
 

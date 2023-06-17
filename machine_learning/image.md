@@ -346,6 +346,11 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://stable-diffusion-art.com/qr-code/
+> https://news.ycombinator.com/item?id=36285630
+
+https://matt-rickard.com/controlnet-qr-codes
+
 https://codi-gen.github.io/
 > https://news.ycombinator.com/item?id=36038311
 

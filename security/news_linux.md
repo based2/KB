@@ -2,6 +2,9 @@ https://www.linuxfoundation.org/webinars/introduction-to-project-alpha-omega/
 
 https://www.memorysafety.org/
 
+https://privsec.dev/posts/linux/desktop-linux-hardening/
+> https://news.ycombinator.com/item?id=36291169
+
 # Tools
 https://github.com/queer/boxxy puts bad Linux applications in a box with only their files.
 > https://news.ycombinator.com/item?id=34730520
@@ -18,6 +21,8 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://github.com/hardenedlinux/harbian-audit/releases/tag/V0.7.0
+
 https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure
 > https://news.ycombinator.com/item?id=36267557
 

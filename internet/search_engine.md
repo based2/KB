@@ -48,6 +48,8 @@ https://github.com/emnh/PixelArtSearch/blob/master/README.md
 
 https://www.pinecone.io/learn/clip-image-search/
 
+https://ddmm.ai/
+
 # Audio
 https://github.com/jina-ai/examples/tree/master/audio-ews
 
@@ -91,6 +93,10 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://news.ycombinator.com/item?id=36345345
+
+https://news.ycombinator.com/item?id=36356876
+
 https://blog.google/products/search/about-this-image-google-search/
 
 https://nosearch.online/

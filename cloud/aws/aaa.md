@@ -68,6 +68,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 # Incident
 https://github.com/ramimac/aws-customer-security-incidents
 
+https://blog.doyensec.com/2023/06/13/messing-around-with-aws-batch-for-privilege-escalations.html
+
 https://www.scmagazine.com/news/cloud-security/legion-malware-expands-scope-to-target-aws-cloudwatch-monitoring-tool
 
 https://frichetten.com/blog/undocumented-amplify-api-leak-account-id/

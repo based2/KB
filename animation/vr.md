@@ -1,3 +1,12 @@
+https://www.david-smith.org/blog/2023/06/12/new-post/
+> https://news.ycombinator.com/item?id=36297477
+
+https://soraven.com/apple-vision-pro-the-mvp-for-ar-42273a11dbe
+> https://news.ycombinator.com/item?id=36293250
+
+https://www.tiltfive.com/
+> https://news.ycombinator.com/item?id=36345851
+
 https://notes.andymatuschak.org/Vision%20Pro
 > https://news.ycombinator.com/item?id=36219585
 

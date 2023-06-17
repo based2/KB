@@ -18,3 +18,5 @@ https://github.com/apple/ml-ane-transformers
 > https://news.ycombinator.com/item?id=35282325
 
 https://www.phoronix.com/news/Qualcomm-QAIC-User-Space
+
+https://github.com/artyom-beilis/dlprimitives

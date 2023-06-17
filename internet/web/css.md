@@ -225,6 +225,12 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://paulrobertlloyd.com/2023/162/a1/css_day/
+> https://news.ycombinator.com/item?id=36298038
+
+https://ericwbailey.website/published/dont-use-custom-css-scrollbars/
+> https://news.ycombinator.com/item?id=36302002
+
 https://web.dev/color-spaces-and-functions/
 
 https://fullystacked.net/posts/scope-in-css/

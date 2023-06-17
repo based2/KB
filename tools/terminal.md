@@ -42,6 +42,11 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://news.ycombinator.com/item?id=36334329
+
+https://susam.net/blog/control-escape-meta-tricks.html
+> https://news.ycombinator.com/item?id=36353865
+
 https://github.com/pvolok/mprocs
 
 https://www.terminalgif.com/

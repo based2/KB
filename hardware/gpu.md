@@ -10,6 +10,9 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://github.com/vosen/ZLUDA cuda to intel
+> https://news.ycombinator.com/item?id=36341211
+
 https://developer.nvidia.com/blog/announcing-nvidia-dgx-gh200-first-100-terabyte-gpu-memory-system/
 > https://news.ycombinator.com/item?id=36133226
 

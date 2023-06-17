@@ -144,6 +144,18 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/
+> https://news.ycombinator.com/item?id=36353172
+
+https://www.people.vcu.edu/~rhammack/BookOfProof/
+> https://news.ycombinator.com/item?id=36353322
+
+https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf
+> https://news.ycombinator.com/item?id=36268320
+
+https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf
+> https://news.ycombinator.com/item?id=36340930
+
 https://www.quantamagazine.org/hobbyist-finds-maths-elusive-einstein-tile-20230404/
 > https://www.nature.com/articles/d41586-023-01801-8 aperiodic tile
 > > https://news.ycombinator.com/item?id=36164221

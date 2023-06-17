@@ -109,6 +109,9 @@ https://github.com/neovim/neovim/releases/tag/v0.7.0
 
 https://news.ycombinator.com/item?id=35816361
 
+https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/
+> https://news.ycombinator.com/item?id=36312027
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -313,6 +316,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://github.com/sharkdp/hexyl
+> https://news.ycombinator.com/item?id=36359925
+
 https://www.tweag.io/blog/2023-03-09-announcing-topiary/
 > https://news.ycombinator.com/item?id=36008139
 

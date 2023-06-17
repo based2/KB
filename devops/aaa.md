@@ -133,6 +133,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://vigilance.fr/vulnerabilite/Jenkins-Core-Cross-Site-Request-Forgery-via-Escaped-Values-POST-Request-41500
+
 https://vigilance.fr/vulnerabilite/GitLab-usurpation-via-Unverified-Email-41180
 
 https://access.redhat.com/errata/RHSA-2023:3280 git
@@ -388,6 +390,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.bassi.io/articles/2017/08/10/dev-v-ops/
+> https://news.ycombinator.com/item?id=36281178
+
 https://ff4j.github.io/
 > https://news.ycombinator.com/item?id=36225227
 

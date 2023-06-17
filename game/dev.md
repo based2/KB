@@ -109,6 +109,13 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://news.ycombinator.com/item?id=36370114
+
+https://generalrobots.substack.com/p/dimension-hopper-part-1
+> https://news.ycombinator.com/item?id=36295227
+
+https://eieio.games/game-diary/game-2-sisyphus/
+
 https://lwss.github.io/Kisak-Strike/
 > https://news.ycombinator.com/item?id=36177057
 

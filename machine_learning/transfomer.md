@@ -20,6 +20,8 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://news.ycombinator.com/item?id=36311871
+
 https://arxiv.org/abs/2306.00238
 > https://news.ycombinator.com/item?id=36176756
 

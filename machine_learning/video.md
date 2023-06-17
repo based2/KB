@@ -43,6 +43,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://stable-diffusion-art.com/video-to-video/
+> https://news.ycombinator.com/item?id=36288294
+
 https://github.com/nateraw/stable-diffusion-videos
 
 https://www.technologyreview.com/2023/06/01/1073858/surreal-ai-generative-video-changing-film/

@@ -20,6 +20,8 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://fabiensanglard.net/happy/
+
 https://www.humanornot.ai/
 
 https://thehistoryofhowweplay.wordpress.com/2023/05/14/arcade-authorship-high-score-table-credits/

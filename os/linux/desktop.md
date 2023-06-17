@@ -97,6 +97,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.linuxcapable.com/how-to-install-kde-plasma-on-debian-linux/
+
 https://en.opensuse.org/Portal:Aeon
 
 https://tech.lgbt/@xogium/110507457689374019

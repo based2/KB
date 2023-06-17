@@ -26,6 +26,8 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://www.0xf.at/
+
 https://github.com/robinmoisson/staticrypt
 > https://shkspr.mobi/blog/2023/02/how-to-password-protect-a-static-html-page-with-no-js/
 > > https://news.ycombinator.com/item?id=36276710

@@ -4,6 +4,8 @@ https://github.com/LekKit/RVVM
 https://github.com/OpenXiangShan/XiangShan
 > https://news.ycombinator.com/item?id=35312960
 
+https://github.com/mnurzia/rv/blob/main/README.md
+
 #
 https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v
 > https://news.ycombinator.com/item?id=36140177

@@ -1,5 +1,6 @@
 https://old.reddit.com/r/Android/comments/11t16lk/qualcomm_has_open_sourced_its_aptx_and_aptx_hd/
-> 
 
 https://skydoves.medium.com/7-android-resources-to-level-up-as-a-developer-4ce6d8ff2b45
 > https://news.ycombinator.com/item?id=33942293
+
+https://wingolog.org/archives/2023/06/15/parallel-futures-in-mobile-application-development

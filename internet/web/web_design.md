@@ -86,6 +86,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://webstudio.is/
+> https://news.ycombinator.com/item?id=36345645
+
 https://pudding.cool/2023/05/dark-patterns/
 
 https://cs.uwaterloo.ca/~csk/slide/

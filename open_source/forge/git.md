@@ -29,6 +29,8 @@ https://github.com/ssdong/git-command-visualizer Scala
 https://sourcehut.org/blog/2021-03-15-whats-cooking-march-2021/
 
 #
+https://gitbucket.github.io/ scala
+
 https://github.com/charmbracelet/soft-serve
 > https://news.ycombinator.com/item?id=35328885
 

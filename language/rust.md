@@ -11,6 +11,9 @@ https://blog.logrocket.com/introducing-the-rust-borrow-checker/
 https://rust-lang-nursery.github.io/rust-cookbook/intro.html
 > https://news.ycombinator.com/item?id=26101066
 
+https://www.lurklurk.org/effective-rust/
+> https://news.ycombinator.com/item?id=36338529
+
 https://blessed.rs/crates
 > https://news.ycombinator.com/item?id=33506132
 
@@ -461,6 +464,14 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://arxiv.org/abs/2306.08127
+
+https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/
+> https://news.ycombinator.com/item?id=36337500
+
+https://epage.github.io/blog/2023/06/iterating-on-test/
+> https://news.ycombinator.com/item?id=36368246
+
 https://github.com/hydro-project/hydroflow
 > https://news.ycombinator.com/item?id=36227416
 

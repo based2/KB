@@ -2,7 +2,13 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://blog.cybercx.co.nz/bypassing-bios-password
+> https://news.ycombinator.com/item?id=36337687
+
+https://www.bleepingcomputer.com/news/security/russian-hackers-use-powershell-usb-malware-to-drop-backdoors/
+
 https://krebsonsecurity.com/2023/06/barracuda-urges-replacing-not-patching-its-email-security-gateways/
+> https://www.bleepingcomputer.com/news/security/barracuda-esg-zero-day-attacks-linked-to-suspected-chinese-hackers/
 
 https://www.tomshardware.com/news/gigabyte-firmware-update-backdoor
 

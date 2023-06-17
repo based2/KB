@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://antonz.org/fancy-ql/
+> https://news.ycombinator.com/item?id=36369018
+
 https://www.iso.org/standard/76584.html ISO/IEC 9075-2:2023 Information technology — Database languages SQL — Part 2: Foundation (SQL/Foundation)
 > https://news.ycombinator.com/item?id=36154102
 

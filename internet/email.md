@@ -166,6 +166,8 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://undeadly.org/cgi?action=article;sid=20230617111340
+
 https://sorry.idont.date/
 > https://news.ycombinator.com/item?id=35920844
 

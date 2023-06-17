@@ -68,6 +68,9 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html
+> https://news.ycombinator.com/item?id=36354981
+
 https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/
 > https://news.ycombinator.com/item?id=36208420
 

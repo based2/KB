@@ -600,6 +600,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://digest.browsertech.com/archive/browsertech-digest-9801/
+> https://news.ycombinator.com/item?id=36290467
+
 https://github.com/algolia/autocomplete
 > https://news.ycombinator.com/item?id=36236578
 

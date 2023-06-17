@@ -70,6 +70,10 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # Incident
+https://vigilance.fr/vulnerabilite/Kubernetes-acces-en-lecture-et-ecriture-via-ImagePolicyWebhook-Bypass-41504
+
+https://vigilance.fr/vulnerabilite/Kubernetes-acces-en-lecture-et-ecriture-via-Seccomp-Profile-Bypass-41503
+
 https://www.bleepingcomputer.com/news/security/kubernetes-rbac-abused-to-create-persistent-cluster-backdoors/
 
 https://www.cyberark.com/resources/threat-research-blog/what-i-learned-from-analyzing-a-caching-vulnerability-in-istio
@@ -90,6 +94,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://itnext.io/kubernetes-cost-optimization-made-easy-efficient-tools-for-streamlining-finops-be0b6a54d2bb
+
 https://kshnsink.hashnode.dev/resource-management-in-kubernetes-cluster-understanding-resources
 
 https://www.plural.sh/blog/why-is-kubernetes-adoption-so-hard/

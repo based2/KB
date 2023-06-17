@@ -174,6 +174,9 @@ https://news.ycombinator.com/item?id=35084227
 https://www.qmr.ai/most-important-papers-for-quantitative-traders/
 > https://news.ycombinator.com/item?id=36154622
 
+https://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html
+> https://news.ycombinator.com/item?id=36358754
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

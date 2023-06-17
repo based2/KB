@@ -4,6 +4,22 @@ https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 
 #
+https://www.theregister.com/2023/06/16/third_moveit_bug_fixed/
+
+https://github.com/kitabisa/teler-waf/discussions/45
+
+https://www.horizon3.ai/moveit-transfer-cve-2023-34362-deep-dive-and-indicators-of-compromise/
+
+https://summoning.team/blog/vmware-vrealize-network-insight-rce-cve-2023-20887/
+
+https://vigilance.fr/vulnerabilite/Pulse-Secure-Client-elevation-de-privileges-via-Path-File-Operations-41509
+
+https://vigilance.fr/vulnerabilite/FortiOS-dereferencement-de-pointeur-NULL-via-SSL-VPN-Service-41521
+
+https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-rce-flaw-in-fortigate-ssl-vpn-devices-patch-now/
+
+https://www.bleepingcomputer.com/news/security/cisco-fixes-anyconnect-bug-giving-windows-system-privileges/
+
 https://www.bleepingcomputer.com/news/security/zyxel-shares-tips-to-protect-firewalls-from-ongoing-attacks/
 
 https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-vulnerabilities-in-firewall-and-vpn-devices/

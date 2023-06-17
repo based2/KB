@@ -52,6 +52,9 @@ https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-conte
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://lapcatsoftware.com/articles/2023/6/3.html
+> https://news.ycombinator.com/item?id=36297404
+
 https://linuxfr.org/news/dynfi-firewall-lance-sa-v-3-0
 
 https://utcc.utoronto.ca/~cks/space/blog/linux/LinuxIpFwmarkMasks

@@ -3,6 +3,8 @@ https://plei.one/blog/flutter-desktop-not-there-yet/
 
 https://matejknopp.com/post/introducing-nativeshell/
 
+https://github.com/flet-dev/flet python
+
 https://github.com/kennytilton/flutter-mx/blob/main/README.md
 > https://news.ycombinator.com/item?id=33820608`
 

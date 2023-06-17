@@ -78,6 +78,9 @@ https://www.fiercewireless.com/sponsored/multibeam-antennas-are-critical-compone
 
 https://blocksandfiles.com/2023/02/10/rakuten-symphonys-distributed-stateful-cloud-native-5g-edge-play/
 
+https://arxiv.org/abs/2306.09286
+> https://news.ycombinator.com/item?id=36370555
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
@@ -132,6 +135,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+https://news.ycombinator.com/item?id=36370927
+
 https://www.reuters.com/world/africa/senegal-government-cuts-mobile-internet-access-amid-deadly-rioting-2023-06-04/
 
 https://www.lightreading.com/5g-and-beyond/t-mobiles-5g-network-threatened-by-pennsylvania-home-security-system/d/d-id/784989

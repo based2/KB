@@ -1,6 +1,12 @@
 https://github.com/amnesica/KryptEY
 > https://news.ycombinator.com/item?id=36091710
 
+https://github.com/Anof-cyber/MobSecco
+
+https://medium.com/@Ano_F_/recreating-cordova-mobile-apps-to-bypass-security-implementations-8845ff7bdc58
+
+https://datalocaltmp.github.io/visualizing-android-code-coverage-pt-1.html
+
 https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/

@@ -38,6 +38,9 @@ https://github.com/headwaymaps/headway Self-hostable maps stack, powered by Open
 > https://news.ycombinator.com/item?id=32875795
 
 #
+https://streets.gl/
+> https://news.ycombinator.com/item?id=36282861
+
 https://wcedmisten.fyi/post/visualizing-hospital-accessibility/
 > https://news.ycombinator.com/item?id=35434435
 

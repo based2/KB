@@ -97,6 +97,12 @@ https://www.hogbaysoftware.com/posts/bike-rich-text/
 
 https://github.com/wymeditor/wymeditor
 
+https://github.com/steven-tey/novel
+> https://news.ycombinator.com/item?id=36360789
+> > https://github.com/yjs/yjs Shared data types for building collaborative software
+> > https://www.blocknotejs.org/
+> > https://github.com/blacksmithgu/datacore
+
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model
 https://domevents.dev/
@@ -148,6 +154,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://unsuckjs.com/
+> https://news.ycombinator.com/item?id=36343544
+
 https://github.com/mgdm/htmlq
 
 https://htmlwithsuperpowers.netlify.app/

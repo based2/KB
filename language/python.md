@@ -287,6 +287,9 @@ https://github.com/HackSoftware/Django-Styleguide
 https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/
 > https://news.ycombinator.com/item?id=35313565
 
+https://valberg.dk/django-sse-postgresql-listen-notify.html
+> https://news.ycombinator.com/item?id=36359376
+
 https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/
 > https://news.ycombinator.com/item?id=35428225
 
@@ -311,6 +314,11 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://www.bitecode.dev/p/the-best-python-feature-you-cannot
+
+https://github.com/faster-cpython/ideas/blob/main/3.13/README.md
+> https://news.ycombinator.com/item?id=36339777
+
 https://docs.python.org/3/howto/functional.html
 > https://news.ycombinator.com/item?id=36256987
 

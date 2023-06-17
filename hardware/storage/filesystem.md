@@ -48,6 +48,9 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://lwn.net/SubscriberLink/934692/5046d466490d9220/ Merging bcachefs
+> https://news.ycombinator.com/item?id=36366002
+
 https://news.ycombinator.com/item?id=36081540
 
 https://blog.koehntopp.info/2023/05/17/50-years-in-filesystems-towards-2004-lfs.html

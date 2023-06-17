@@ -116,6 +116,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://ybouane.com/ffmpeg-ui
+> https://news.ycombinator.com/item?id=36335674
+
+https://gyroflow.xyz/
+> https://news.ycombinator.com/item?id=36360018
+
 https://github.com/Casterlabs/Multistream
 
 https://github.com/mifi/editly

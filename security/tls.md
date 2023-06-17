@@ -12,6 +12,9 @@ List TLS versions supported:
 https://smallstep.com/blog/if-openssl-were-a-gui/
 > https://news.ycombinator.com/item?id=31697636
 
+https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/
+> https://news.ycombinator.com/item?id=36352547
+
 # Others
 
 * Amazon: https://aws.amazon.com/en/blogs/security/introducing-s2n-a-new-open-source-tls-implementation/
@@ -142,6 +145,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 #
+https://news.ycombinator.com/item?id=36342808
+
 https://vigilance.fr/vulnerabilite/OpenBSD-double-liberation-de-memoire-via-SSL-clear-41342
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-30-05-2023-41317

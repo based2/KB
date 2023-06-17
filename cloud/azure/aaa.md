@@ -21,6 +21,10 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://msrc.microsoft.com/blog/2023/06/microsoft-response-to-layer-7-distributed-denial-of-service-ddos-attacks/
+
+https://news.ycombinator.com/item?id=36347915
+
 https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/
 > https://news.ycombinator.com/item?id=36259745
 
@@ -125,6 +129,10 @@ https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37968
 
 # News
+https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-portal-outage-was-caused-by-traffic-spike-/
+
+https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/
+
 https://www.bleepingcomputer.com/news/security/new-cisa-tool-detects-hacking-activity-in-microsoft-cloud-services/
 
 https://metrist.io/blog/how-we-found-azures-unannounced-breaking-change/

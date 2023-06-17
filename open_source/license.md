@@ -64,6 +64,9 @@ https://www.weka.io/blog/file-system/weka-responds-to-unfounded-allegations-made
 http://marble.onl/posts/software-licenses-masquerading-as-open-source.html
 
 # Incident
+https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267
+> https://news.ycombinator.com/item?id=36370257
+
 https://twitter.com/josefprusa/status/1663110426526117889
 
 https://www.theregister.com/2023/03/17/john_deere_sfc_gpl/

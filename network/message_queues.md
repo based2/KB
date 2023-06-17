@@ -91,6 +91,8 @@ https://github.com/cjhanks/Kafka-NSPAWN
 https://www.confluent.io/blog/windowing-in-kafka-streams/
 > https://news.ycombinator.com/item?id=34716797
 
+https://news.ycombinator.com/item?id=36344313
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132
@@ -132,6 +134,9 @@ https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready
 https://lists.apache.org/thread/8cz89d40h6t6wzplxjm523w91lmm6djw CVE-2022-41672: Apache Airflow: Session still functional after user is deactivated
 
 #
+https://github.com/df308/x9
+> https://news.ycombinator.com/item?id=36292788
+
 https://news.ycombinator.com/item?id=36186176
 
 https://jack-vanlightly.com/blog/2023/5/15/kafka-vs-redpanda-performance-do-the-claims-add-up

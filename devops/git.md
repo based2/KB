@@ -274,6 +274,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://gitless.com/ no updates
+> https://news.ycombinator.com/item?id=36370225
+
+https://changelog.complete.org/archives/10516-using-git-annex-for-data-archiving
+
 https://github.com/jayphelps/git-blame-someone-else
 > https://news.ycombinator.com/item?id=36180249
 

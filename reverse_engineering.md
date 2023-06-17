@@ -30,7 +30,17 @@ https://labs.p1sec.com/2023/01/09/releasing-hermes-dec-an-open-source-disassembl
 
 https://imhex.werwolv.net/
 
+https://github.com/ant4g0nist/decompiler
+
 #
+https://github.com/Theldus/bread bios
+
+https://news.ycombinator.com/item?id=36323266 zx-spectrum
+
+https://blog.nietaanraken.nl/posts/pandare-flirt/
+
+https://blog.doyensec.com/2023/06/01/r2pickledec.html python
+
 https://towardsdatascience.com/cnn-for-reverse-engineering-an-approach-for-function-identification-1c6af88bca43
 > https://github.com/alonstern/function-identification
 

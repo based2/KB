@@ -44,6 +44,10 @@ https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
 # News
+https://github.com/joone/loz chatgpt
+
+https://github.com/Slackadays/Clipboard
+
 https://news.ycombinator.com/item?id=36256931 play
 
 https://github.com/magnific0/wondershaper net cap

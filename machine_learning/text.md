@@ -13,6 +13,10 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://simonwillison.net/2023/Jun/8/gpt-tokenizers/
+
+https://news.ycombinator.com/item?id=36337043
+
 https://mashable.com/article/open-ai-rollout-chatgpt-plugins
 
 https://simonwillison.net/2023/Jun/8/gpt-tokenizers/

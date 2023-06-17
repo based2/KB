@@ -266,6 +266,11 @@ https://lawrencecpaulson.github.io//2023/01/11/AI_at_Stanford.html
 
 https://dspace.mit.edu/bitstream/handle/1721.1/6884/AITR-231.pdf?sequence=2&isAllowed=y
 
+https://news.ycombinator.com/item?id=36347229
+
+https://matt.might.net/articles/hello-perceptron/
+> https://news.ycombinator.com/item?id=36350655
+
 # Detextion
 https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
@@ -286,6 +291,9 @@ https://www.kolide.com/blog/ai-browser-extensions-are-a-security-nightmare
 > https://news.ycombinator.com/item?id=36243951
 
 https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-and-open-working
+
+https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/
+> https://news.ycombinator.com/item?id=36335374
 
 # Incident
 https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/
@@ -367,6 +375,15 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.heise.de/news/GovTech-Baden-Wuerttemberg-hat-ersten-KI-Landesassistenten-F13-von-Aleph-Alpha-9190507.html
+
+https://www.nature.com/articles/s42256-023-00668-8
+> https://news.ycombinator.com/item?id=36334797
+> > https://en.wikipedia.org/wiki/Reservoir_computing
+
+https://www.axios.com/2023/05/26/generative-ai-revolution-computer-interfaces-chatgpt
+> https://news.ycombinator.com/item?id=36342762
+
 https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-launches-new-ai-models-opens-generative-ai-studio?hl=en
 
 https://underjord.io/why-ml-on-erlang.html

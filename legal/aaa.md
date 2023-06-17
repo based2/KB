@@ -27,6 +27,9 @@ https://www.regulations.gov/
 https://www.wsj.com/articles/j-js-talc-bankruptcy-case-thrown-out-by-appeals-court-11675096308
 > https://news.ycombinator.com/item?id=34583670
 
+# FR
+https://politique.pappers.fr/
+
 # Language
 https://arxiv.org/abs/2103.03198 Catala
 > https://news.ycombinator.com/item?id=27059899

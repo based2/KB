@@ -90,6 +90,9 @@ https://gist.github.com/tavurth/94eb823807b38b2a8d9400680071599a Hilbert Sort al
 https://www.nature.com/articles/s41586-023-06004-9
 > https://news.ycombinator.com/item?id=36228125
 
+https://justine.lol/sorting/
+> https://news.ycombinator.com/item?id=36297476
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184

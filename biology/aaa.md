@@ -44,6 +44,9 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.cell.com/cell/fulltext/S0092-8674(23)00523-8
+> https://news.ycombinator.com/item?id=36278739
+
 https://pioreactor.com/
 
 https://www.wired.com/story/wired30-crispr-edited-salad-greens/

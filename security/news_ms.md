@@ -1,6 +1,19 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
 
 #
+https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann ooxml signature
+> https://news.ycombinator.com/item?id=36292413
+
+https://vigilance.fr/vulnerabilite/Microsoft-SQL-Server-execution-de-code-41522
+
+https://www.tarlogic.com/blog/linked-servers-adsi-passwords/
+
+https://www.bleepingcomputer.com/news/security/microsoft-windows-kernel-cve-2023-32019-fix-is-disabled-by-default/
+
+https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5027231-also-breaks-chrome-for-cisco-watchguard-edr-users/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2023-patch-tuesday-fixes-78-flaws-38-rce-bugs/
+
 https://pvs-studio.com/en/blog/posts/csharp/1054/
 
 https://cyolo.io/blog/dll-hijacking-strikes-back-exploiting-windows-on-arm-rdp-client-cve-2023-24905/
@@ -322,3 +335,5 @@ https://medium.com/tenable-techblog/stealing-tokens-emails-files-and-more-in-mic
 https://makosecblog.com/malware-dev/dll-unhooking-csharp/
 
 https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-appears-to-have-lost-the-source-code-of-an-office-component/

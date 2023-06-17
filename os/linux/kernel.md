@@ -3,6 +3,9 @@ https://github.com/sysprog21/lkmpg/
 
 https://github.com/0xAX/linux-insides
 
+https://www.kernel.org/doc/Documentation/memory-barriers.txt
+> https://news.ycombinator.com/item?id=36341301
+
 https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/
 > https://news.ycombinator.com/item?id=28574624
 
@@ -28,6 +31,14 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/
+> https://news.ycombinator.com/item?id=36287963
+
+https://www.phoronix.com/news/MIDI-2.0-Support-Linux-6.5
+> https://news.ycombinator.com/item?id=36254672
+
+https://linux-regtracking.leemhuis.info/about/#tldr
+
 https://www.phoronix.com/news/Intel-RFC-DRM-Netlink-RAS
 
 https://www.phoronix.com/news/AMD-One-Liner-System-Resume

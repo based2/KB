@@ -1,3 +1,17 @@
+https://cryptohack.org/
+
+https://www.macrumors.com/2023/06/15/ios-17-iphone-passcode-reset-72-hours/
+
+https://venturebeat.com/security/top-10-cybersecurity-findings-from-verizons-2023-data-breach-report/
+
+https://socradar.io/csp-bypass-unveiled-the-hidden-threat-of-bookmarklets/
+> https://www.reddit.com/r/netsec/comments/13xde05/csp_bypass_unveiled_the_hidden_threat_of/
+
+https://alexsci.com/blog/hsts-adoption/?
+> https://www.reddit.com/r/netsec/comments/1461qoi/against_hsts_preload/
+
+https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-obtention-d-information-41524
+
 https://vigilance.fr/vulnerabilite/Diffie-Hellman-Key-Agreement-Protocol-surcharge-via-Long-Exponents-41432
 
 https://thenewstack.io/aws-open-sources-security-tools/
