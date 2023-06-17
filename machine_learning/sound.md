@@ -110,6 +110,8 @@ https://hypebeast.com/2023/5/grimes-ai-software-elf-tech-voice-music
 https://ai.honu.io/papers/musicgen/
 > https://news.ycombinator.com/item?id=36271926
 
+https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

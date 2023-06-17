@@ -274,6 +274,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://news.ycombinator.com/item?id=36334957
+
 https://gitless.com/ no updates
 > https://news.ycombinator.com/item?id=36370225
 

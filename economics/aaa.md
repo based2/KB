@@ -177,6 +177,9 @@ https://www.qmr.ai/most-important-papers-for-quantitative-traders/
 https://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html
 > https://news.ycombinator.com/item?id=36358754
 
+https://www.janestreet.com/static/pdfs/trading-interview.pdf
+> https://news.ycombinator.com/item?id=36354259
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

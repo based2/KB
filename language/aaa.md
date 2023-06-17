@@ -674,8 +674,9 @@ https://npf.io/2022/05/why-infer/
 https://pages.cs.wisc.edu/~remzi/Naur.pdf
 > https://news.ycombinator.com/item?id=31500174
 
-https://flix.dev/
+https://flix.dev/ inspired by OCaml and Haskell with ideas from Rust and Scala. On JVM.
 > https://news.ycombinator.com/item?id=31448889
+> https://github.com/flix/flix
 
 https://ayende.com/blog/197282-B/modern-programming-languages-require-generics?key=37e0cfa91b16417bae269c4bdd17f522
 > https://news.ycombinator.com/item?id=31475765

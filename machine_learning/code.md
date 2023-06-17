@@ -54,6 +54,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://mallonbacka.com/blog/2023/04/github-copilot-accessibility/
+> 
+
 https://explosion.ai/blog/against-llm-maximalism
 
 https://arxiv.org/abs/2305.12050

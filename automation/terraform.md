@@ -267,6 +267,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://medium.com/illumination/terraform-beyond-if-else-e00e9cd54b6
+
 https://github.com/datarootsio/tf-profile
 
 https://github.com/andreineculau/tfrep

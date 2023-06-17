@@ -375,6 +375,11 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://betterprogramming.pub/placing-30-000-customer-orders-with-llms-f1f73872e2eb
+
+https://crfm.stanford.edu/2023/06/15/eu-ai-act.html
+> https://news.ycombinator.com/item?id=36352137
+
 https://www.heise.de/news/GovTech-Baden-Wuerttemberg-hat-ersten-KI-Landesassistenten-F13-von-Aleph-Alpha-9190507.html
 
 https://www.nature.com/articles/s42256-023-00668-8

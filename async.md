@@ -1,3 +1,5 @@
+https://www.reactivesystems.eu/2023/06/15/what-kind-of-asynchronous-is-right-for-you.html
+
 https://deadlockempire.github.io/
 > https://news.ycombinator.com/item?id=29431308
 
@@ -39,6 +41,9 @@ https://tonsky.me/blog/humble-signals/
 https://github.com/libuv/libuv/pull/3952
 > https://news.ycombinator.com/item?id=36106196
 > > https://github.com/axboe/liburing/issues/467
+
+https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/
+> https://news.ycombinator.com/item?id=36330541
 
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads

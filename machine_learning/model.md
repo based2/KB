@@ -79,6 +79,9 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://shishirpatil.github.io/gorilla/
+> https://news.ycombinator.com/item?id=36333290
+
 https://github.com/jncraton/languagemodels
 
 https://huggingface.co/TheBloke/falcon-40b-instruct-GGML

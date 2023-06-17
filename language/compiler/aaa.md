@@ -128,6 +128,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://arxiv.org/abs/2203.08069
+> https://news.ycombinator.com/item?id=36349110
+
 https://developers.redhat.com/articles/2023/05/31/improvements-static-analysis-gcc-13-compiler
 > https://news.ycombinator.com/item?id=36147394
 

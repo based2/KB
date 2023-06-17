@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://terrateam.io/blog/the-future-of-terraform-is-clickops
+> https://www.reddit.com/r/Terraform/comments/14a4hld/the_future_of_terraform_clickops/
+
 https://www.infoq.com/news/2023/05/Infracopilot-conversation-editor/
 
 https://www.thinksys.com/cloud/infrastructure-drift-detection-management/

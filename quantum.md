@@ -88,6 +88,8 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.tomshardware.com/news/intel-announce-tunnel-falls-quantum-research-chip 12 qubit
+
 https://phys.org/news/2023-05-noise-canceling-qubits-minimize-errors-quantum.html
 
 https://phys.org/news/2023-06-quantum-visualization-technique-insight-photosynthesis.html

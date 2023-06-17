@@ -19,6 +19,9 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # News
+https://subwaysheds.com/#10.42/40.7022/-73.9346
+> https://news.ycombinator.com/item?id=36240264
+
 https://www.alpharail.co.nz/why-do-railway-tracks-have-crushed-stones-alongside-them/
 > https://news.ycombinator.com/item?id=36183788
 

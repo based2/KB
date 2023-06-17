@@ -27,3 +27,5 @@ https://www.nature.com/articles/d41586-022-03578-8
 > https://news.ycombinator.com/item?id=33666533
 
 https://themarkup.org/privacy/2023/06/01/life360-sued-for-selling-location-data
+
+https://news.ycombinator.com/item?id=36361075

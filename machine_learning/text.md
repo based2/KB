@@ -13,7 +13,11 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://dl.acm.org/doi/10.1145/3589246.3595371
+> https://news.ycombinator.com/item?id=36256869
+
 https://simonwillison.net/2023/Jun/8/gpt-tokenizers/
+> https://news.ycombinator.com/item?id=36248633
 
 https://news.ycombinator.com/item?id=36337043
 

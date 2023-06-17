@@ -31,6 +31,11 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://cse.engin.umich.edu/stories/new-technique-for-memory-page-placement-integrated-into-linux-kernel
+> https://news.ycombinator.com/item?id=36333043
+
+https://www.phoronix.com/news/Patch-For-Nouveau-Linux-6.3
+
 https://www.downtowndougbrown.com/2023/06/upgrading-my-chumby-8-kernel-part-5-graphics/
 > https://news.ycombinator.com/item?id=36287963
 

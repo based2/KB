@@ -69,6 +69,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://cleantechnica.com/2023/05/15/ucla-says-we-can-hack-the-ocean-to-store-carbon-dioxide/
+
 https://climatecasino.net/2023/06/wtf-is-happening-an-overview/
 > https://news.ycombinator.com/item?id=36295136
 

@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://www.gbstudio.dev/
+> https://news.ycombinator.com/item?id=36372284
+
 https://news.ycombinator.com/item?id=36370114
 
 https://generalrobots.substack.com/p/dimension-hopper-part-1

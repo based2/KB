@@ -53,3 +53,6 @@ https://github.com/ianarawjo/ChainForge
 
 https://resources.wolframcloud.com/PromptRepository/
 > https://news.ycombinator.com/item?id=36239563
+
+https://yonom.substack.com/p/native-json-output-from-gpt-4
+> https://news.ycombinator.com/item?id=36330972

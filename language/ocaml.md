@@ -22,6 +22,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://www.janestreet.com/tech-talks/playing-atari-games-in-ocaml/
+> https://news.ycombinator.com/item?id=36336519
+
 https://buttondown.email/anmonteiro/archive/melange-hits-v10/
 > https://news.ycombinator.com/item?id=36296185
 

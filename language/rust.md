@@ -464,6 +464,15 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://github.com/terhechte/Ebou mastodon client
+> https://news.ycombinator.com/item?id=36366021
+
+https://github.com/maplant/marche forum
+> https://news.ycombinator.com/item?id=36358973
+
+https://docs.rs/minijinja/1.0.0/minijinja/ template engine
+> https://news.ycombinator.com/item?id=36367886
+
 https://arxiv.org/abs/2306.08127
 
 https://this-week-in-rust.org/blog/2023/06/14/this-week-in-rust-499/

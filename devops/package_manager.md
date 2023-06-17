@@ -57,6 +57,9 @@ https://blog.replit.com/super-colliding-nix-stores
 https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942
 > https://news.ycombinator.com/item?id=36261492
 
+https://www.jetpack.io/blog/why-did-nix-adopt-flakes/
+> https://news.ycombinator.com/item?id=36362225
+
 # Incident
 https://www.theregister.com/2023/06/02/novel_pypi_attack_reversinglabs/
 

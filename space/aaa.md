@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus
+> https://news.ycombinator.com/item?id=36333762
+
 https://arxiv.org/abs/2306.06657
 > https://news.ycombinator.com/item?id=36371376
 

@@ -20,6 +20,8 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://news.ycombinator.com/item?id=36373364
+
 https://fabiensanglard.net/happy/
 
 https://www.humanornot.ai/

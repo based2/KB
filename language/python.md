@@ -314,6 +314,11 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://www.pythonguis.com/
+> https://news.ycombinator.com/item?id=36329507
+
+https://www.pypy.org/posts/2023/06/pypy-v7312-release.html
+
 https://www.bitecode.dev/p/the-best-python-feature-you-cannot
 
 https://github.com/faster-cpython/ideas/blob/main/3.13/README.md

@@ -1,3 +1,8 @@
+https://github.com/gabotechs/signway url
+> https://lobste.rs/s/r0l1nn/signway_bring_power_pre_signed_urls_your
+
+https://lists.apache.org/thread/152ohv9k1tb97kdlq4jw7wx4fh45gnkq nifi
+
 https://cryptohack.org/
 
 https://www.macrumors.com/2023/06/15/ios-17-iphone-passcode-reset-72-hours/

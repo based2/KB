@@ -48,6 +48,10 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://github.com/philipl/pifs πfs
+> https://news.ycombinator.com/item?id=36357466
+> >  https://en.wikipedia.org/wiki/Champernowne_constant https://oeis.org/A076478
+
 https://lwn.net/SubscriberLink/934692/5046d466490d9220/ Merging bcachefs
 > https://news.ycombinator.com/item?id=36366002
 

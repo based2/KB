@@ -9,6 +9,9 @@ https://repair.wiki/w/Repair_Wiki
 https://frame.work/
 > https://news.ycombinator.com/item?id=27143545
 
+https://www.theverge.com/2023/6/14/23761037/microsoft-surface-spare-replacement-parts-microsoft-store
+> https://news.ycombinator.com/item?id=36330467
+
 # Right to repair
 https://www.theregister.com/2021/06/18/first_federal_right_to_repair_bill/
 > https://news.ycombinator.com/item?id=27575933

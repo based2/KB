@@ -149,6 +149,8 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 > https://news.ycombinator.com/item?id=32897892
 
 # News
+https://chipsandcheese.com/2023/06/14/latency-testing-is-hard-rdna-3-power-saving/
+
 https://github.com/martinpiper/BDD6502
 > https://news.ycombinator.com/item?id=36318281
 

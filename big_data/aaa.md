@@ -323,6 +323,9 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://faculty.washington.edu/sbrunton/DataBookV2.pdf
+> https://news.ycombinator.com/item?id=36374528
+
 https://trickest.com/blog/parsing-github-logs-with-trickest/
 > https://news.ycombinator.com/item?id=36341160
 

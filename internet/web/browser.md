@@ -40,6 +40,8 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://news.ycombinator.com/item?id=36351322
+
 https://www.phoronix.com/news/Firefox-116-PipeWire-Camera
 
 https://techdows.com/2023/06/microsoft-edge-removes-reset-sync.html

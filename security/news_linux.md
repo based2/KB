@@ -21,6 +21,13 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://www.phoronix.com/news/Google-Restricting-IO_uring
+
+https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html
+> https://news.ycombinator.com/item?id=36350693
+> > https://chompie.rip/Blog+Posts/Put+an+io_uring+on+it+-+Exploiting+the+Linux+Kernel
+> > > https://news.ycombinator.com/item?id=36353845
+
 https://github.com/hardenedlinux/harbian-audit/releases/tag/V0.7.0
 
 https://bjornpagen.com/en_US/desktop%20linux%20is%20insecure
