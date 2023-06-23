@@ -439,6 +439,12 @@ https://github.com/yashash-pugalia/win11-svelte
 
 https://github.com/ItalyPaleAle/svelte-spa-router
 
+https://svelte.dev/blog/svelte-4
+> https://news.ycombinator.com/item?id=36432272
+
+https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/
+> https://news.ycombinator.com/item?id=36427583
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296
@@ -600,6 +606,12 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://nextjs.org/blog/june-2023-update
+> https://news.ycombinator.com/item?id=36440575
+
+https://utcc.utoronto.ca/~cks/space/blog/web/BrowserSmartCutPasteCanBeGood
+> https://news.ycombinator.com/item?id=36381054
+
 https://digest.browsertech.com/archive/browsertech-digest-9801/
 > https://news.ycombinator.com/item?id=36290467
 

@@ -36,6 +36,9 @@ https://github.com/Rikorose/DeepFilterNet
 > https://news.ycombinator.com/item?id=36221534
 
 #
+http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/
+> https://news.ycombinator.com/item?id=36377875
+
 https://www.polytechnique-insights.com/en/columns/science/loudspeakers-new-materials-in-acoustics/
 > https://news.ycombinator.com/item?id=36179111
 

@@ -75,6 +75,9 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr
+> https://news.ycombinator.com/item?id=36430280
+
 https://www.theregister.com/2023/06/02/microsoft_linkedin_fine_potential/
 
 https://www.theregister.com/2023/05/18/meta_facing_third_gdpr_fine/

@@ -115,3 +115,6 @@ https://github.com/VectorCamp/vectorscan Intel fork
 
 https://regexr.com/
 > https://news.ycombinator.com/item?id=30103085
+
+https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/
+> https://news.ycombinator.com/item?id=36413260

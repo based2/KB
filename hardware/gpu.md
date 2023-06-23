@@ -10,6 +10,9 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://fabiensanglard.net/cuda/index.html
+> https://news.ycombinator.com/item?id=36376872
+
 https://github.com/vosen/ZLUDA cuda to intel
 > https://news.ycombinator.com/item?id=36341211
 

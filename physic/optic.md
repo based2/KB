@@ -2,6 +2,9 @@ https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
 https://cree-led.com/news/photophyll-select/
 
+https://www.allaboutcircuits.com/news/a-closer-look-at-lightsolvers-laser-based-processing-unit-lpu/
+> https://news.ycombinator.com/item?id=36380533
+
 https://physics.aps.org/articles/v16/s64
 > https://news.ycombinator.com/item?id=35883777
 

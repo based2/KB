@@ -86,6 +86,9 @@ https://news.ycombinator.com/item?id=34294699
 
 https://yadukrishnan.live/ulid-sortable-unique-identifier
 
+https://blog.devgenius.io/analyzing-new-unique-identifier-formats-uuidv6-uuidv7-and-uuidv8-d6cc5cd7391a
+> https://news.ycombinator.com/item?id=36438367
+
 #
 https://obua.com/publications/cosmo-id/3/
 > https://news.ycombinator.com/item?id=28940334

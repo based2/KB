@@ -144,6 +144,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://mbernste.github.io/posts/sourcecoding/
+> https://news.ycombinator.com/item?id=36380198
+
 https://www.quantamagazine.org/flow-proof-helps-mathematicians-find-stability-in-chaos-20230615/
 > https://news.ycombinator.com/item?id=36353172
 

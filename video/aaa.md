@@ -60,6 +60,8 @@ https://github.com/obsproject/obs-studio/releases/tag/27.1.1
 
 https://jellyfin.org/
 > https://news.ycombinator.com/item?id=28664802
+> https://github.com/jellyfin/jellyfin
+> > https://news.ycombinator.com/item?id=36378689
 
 https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs
 

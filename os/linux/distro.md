@@ -85,6 +85,17 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=36436668
+
+https://rockylinux.org/news/2023-06-22-press-release/
+> https://news.ycombinator.com/item?id=36439253
+
+https://www.jeffgeerling.com/blog/2023/dear-red-hat-are-you-dumb
+> https://news.ycombinator.com/item?id=36436786
+
+https://www.suse.com/c/closing-the-leap-gap-src/
+> https://news.ycombinator.com/item?id=36443398
+
 https://www.debian.org/News/2023/20230610 Bookworm
 > https://news.ycombinator.com/item?id=36269934
 

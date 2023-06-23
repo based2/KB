@@ -143,6 +143,9 @@ https://www.atomic14.com/2023/05/14/is-this-the-future-of-home-automation.html
 https://github.com/w-okada/voice-changer
 > https://news.ycombinator.com/item?id=36042916
 
+https://ddkang.github.io/blog/2023/06/13/fighting/
+> https://news.ycombinator.com/item?id=36414683
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

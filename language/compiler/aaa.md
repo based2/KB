@@ -128,6 +128,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/
+> https://news.ycombinator.com/item?id=36377280
+
 https://arxiv.org/abs/2203.08069
 > https://news.ycombinator.com/item?id=36349110
 

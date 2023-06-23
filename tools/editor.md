@@ -112,6 +112,9 @@ https://news.ycombinator.com/item?id=35816361
 https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/
 > https://news.ycombinator.com/item?id=36312027
 
+https://peppe.rs/posts/plain_text_journaling/
+> 
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -316,6 +319,15 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://kakoune.org/why-kakoune/why-kakoune.html
+> https://news.ycombinator.com/item?id=36424256
+
+https://phaazon.net/blog/more-hindsight-vim-helix-kakoune
+> https://news.ycombinator.com/item?id=36427267
+
+https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization
+> https://news.ycombinator.com/item?id=36433262
+
 https://github.com/sharkdp/hexyl
 > https://news.ycombinator.com/item?id=36359925
 

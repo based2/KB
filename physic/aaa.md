@@ -5,6 +5,9 @@ http://hyperphysics.phy-astr.gsu.edu/hbase/emcon.html#emcon
 
 https://ptable.com/#Propri%C3%A9t%C3%A9s
 
+https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence
+> https://news.ycombinator.com/item?id=36376875
+
 https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article
 > https://news.ycombinator.com/item?id=27634549
 

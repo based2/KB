@@ -27,6 +27,9 @@ https://www.brow.sh/
 https://fathy.fr/carbonyl
 > https://github.com/fathyb/carbonyl terminal
 
+https://kmandla.wordpress.com/2011/01/13/a-comparison-of-text-based-browsers/
+> https://news.ycombinator.com/item?id=36371512
+
 #
 https://en.wikipedia.org/wiki/Amazon_Silk
 
@@ -40,6 +43,8 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://news.ycombinator.com/item?id=36377805
+
 https://news.ycombinator.com/item?id=36351322
 
 https://www.phoronix.com/news/Firefox-116-PipeWire-Camera
@@ -256,9 +261,6 @@ https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/
 
 https://webkit.org/blog/13152/webkit-features-in-safari-16-0/
 > https://news.ycombinator.com/item?id=32814573
-
-https://awesomekling.github.io/Ladybird-a-new-cross-platform-browser-project/
-> https://news.ycombinator.com/item?id=32809126
 
 https://github.com/brave/brave-browser/wiki/Deviations-from-Chromium-(features-we-disable-or-remove)/
 > https://news.ycombinator.com/item?id=32740396

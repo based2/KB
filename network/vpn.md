@@ -72,6 +72,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 https://www.ic3.gov/Media/News/2021/211117-2.pdf fatpipe vpn
 
 #
+https://lecromee.github.io/posts/swing_vpn_ddosing_sites/
+> https://news.ycombinator.com/item?id=36382700
+
 https://mmmds.pl/cyberghostvpn-mitm-rce-lpe/
 > https://www.reddit.com/r/netsec/comments/12d8qp0/cyberghostvpn_linux_client_vulnerable_to_mitm_rce/
 
@@ -82,6 +85,9 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
 # News
+https://blog.azirevpn.com/port-forwarding/
+> https://news.ycombinator.com/item?id=36381181
+
 https://mcoliver.substack.com/p/quick-vpn-setup-with-aws-lightsail
 > https://news.ycombinator.com/item?id=36233187
 

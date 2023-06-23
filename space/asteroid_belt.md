@@ -1,7 +1,13 @@
+
+https://github.com/easylist/easylist/issues/16372
+> https://news.ycombinator.com/item?id=36399208
+
 # Ceres
 https://www.universetoday.com/143011/how-do-we-colonize-ceres/
 
 #
+https://www.nature.com/articles/s41550-023-02012-x
+
 https://arxiv.org/abs/2302.12353 Autonomous Restructuring of Asteroids into Rotating Space Stations
 > https://news.ycombinator.com/item?id=35043493
 

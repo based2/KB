@@ -86,6 +86,9 @@ https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351
 https://github.com/clovaai/donut
 
 # News
+https://www.scantips.com/
+> https://news.ycombinator.com/item?id=36415518
+
 https://automeris.io/WebPlotDigitizer/
 
 https://github.com/ColonelParrot/jscanify

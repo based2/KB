@@ -1,3 +1,12 @@
+https://www.apple.com/newsroom/2023/06/developer-tools-to-create-spatial-experiences-for-apple-vision-pro-now-available/
+> https://news.ycombinator.com/item?id=36423648
+
+https://developer.apple.com/documentation/visionOS
+> https://news.ycombinator.com/item?id=36431826
+
+https://kguttag.com/2023/06/16/apple-vision-pro-part-2-hardware-issues/
+> https://news.ycombinator.com/item?id=36377954
+
 https://www.david-smith.org/blog/2023/06/12/new-post/
 > https://news.ycombinator.com/item?id=36297477
 

@@ -60,6 +60,10 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 
 # Incident
+https://old.reddit.com/r/whatsapp/comments/14g6jt0/corrupted_whatsapp_database/
+
+https://mstdn.social/@rysiek/110548129223290575
+
 https://community.hachyderm.io/blog/2023/05/17/crypto-spam-attacks-on-fediverse/
 
 https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-support-agent-got-hacked/
@@ -88,6 +92,16 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/
+> https://news.ycombinator.com/item?id=36429988
+
+https://revolt.chat/
+> https://news.ycombinator.com/item?id=36433842
+> https://github.com/revoltchat
+
+https://dearrow.ajay.app/
+> https://news.ycombinator.com/item?id=36437950
+
 https://github.com/JonLatane/jonline
 > https://news.ycombinator.com/item?id=36330012
 

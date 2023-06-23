@@ -66,6 +66,9 @@ https://graphjin.com/
 https://www.airplane.dev/blog/graphql-vs-rest-apis-a-complete-guide
 > https://news.ycombinator.com/item?id=35014395
 
+https://netflixtechblog.com/migrating-netflix-to-graphql-safely-8e1e4d4f1e72
+https://news.ycombinator.com/item?id=36381764
+
 #
 https://github.com/fern-api/fern
 > 

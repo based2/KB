@@ -120,6 +120,9 @@ https://www.euronews.com/culture/2023/05/12/daft-punk-release-10th-anniversary-e
 https://www.ableton.com/en/push/
 > https://news.ycombinator.com/item?id=36041432
 
+https://daily.jstor.org/tape-heads/
+> https://news.ycombinator.com/item?id=36436088
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084

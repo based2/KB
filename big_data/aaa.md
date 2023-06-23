@@ -172,6 +172,7 @@ https://nextjournal.com/mk/clerk-preview Clojure
 
 https://github.com/nextjournal/clerk
 > https://news.ycombinator.com/item?id=29107392
+> https://news.ycombinator.com/item?id=36380636
 
 https://github.com/ToolJet/ToolJet/
 > https://news.ycombinator.com/item?id=27421408
@@ -323,6 +324,8 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://news.ycombinator.com/item?id=36427374
+
 https://faculty.washington.edu/sbrunton/DataBookV2.pdf
 > https://news.ycombinator.com/item?id=36374528
 

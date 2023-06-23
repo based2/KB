@@ -173,6 +173,9 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://people.seas.harvard.edu/~salil/research/timelock-abs.html
+> https://news.ycombinator.com/item?id=36380592
+
 https://github.com/ANSSI-FR/cry-me
 
 https://news.ycombinator.com/item?id=36170690

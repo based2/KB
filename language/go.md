@@ -118,6 +118,17 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/
+> https://news.ycombinator.com/item?id=36397380
+
+https://hypirion.com/musings/spectral-contexts-in-go
+
+https://www.theregister.com/2023/05/17/googles_go_data_collection/
+> https://news.ycombinator.com/item?id=36380292
+
+https://go.googlesource.com/proposal/+/ac09a140c3d26f8bb62cbad8969c8b154f93ead6/design/60773-execution-tracer-overhaul.md
+> https://news.ycombinator.com/item?id=36378167
+
 https://github.com/hishamk/statetrooper
 > https://news.ycombinator.com/item?id=36370396
 

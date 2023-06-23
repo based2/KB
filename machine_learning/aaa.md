@@ -375,6 +375,20 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=36432598
+
+https://arxiv.org/abs/2306.11827
+> https://news.ycombinator.com/item?id=36430442
+
+https://github.com/aeon-toolkit/aeon
+> https://news.ycombinator.com/item?id=36432369
+
+https://shurutech.com/getting-started-langchain-with-examples/
+> https://news.ycombinator.com/item?id=36439927
+
+https://www.quantamagazine.org/neural-networks-need-data-to-learn-even-if-its-fake-20230616/
+> https://news.ycombinator.com/item?id=36367491
+
 https://betterprogramming.pub/placing-30-000-customer-orders-with-llms-f1f73872e2eb
 
 https://crfm.stanford.edu/2023/06/15/eu-ai-act.html

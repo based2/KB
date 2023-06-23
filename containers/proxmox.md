@@ -1,3 +1,6 @@
+
+https://news.ycombinator.com/item?id=36430787
+
 https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-4
 
 https://www.proxmox.com/en/news/press-releases/proxmox-virtual-environment-7-3

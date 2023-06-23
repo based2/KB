@@ -283,6 +283,16 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=36438477
+
+https://brooker.co.za/blog/2023/05/10/open-closed.html
+
+https://jasony.me/publication/hotos23-qdlp.pdf
+> https://news.ycombinator.com/item?id=36434358
+
+https://cerebralab.com/Imaginary_Problems_Are_the_Root_of_Bad_Software
+> https://news.ycombinator.com/item?id=36380711
+
 https://flyingbarron.medium.com/is-there-such-a-thing-as-a-system-thats-too-reliable-9a367ba850ac
 
 https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c

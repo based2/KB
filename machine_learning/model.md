@@ -14,6 +14,9 @@ https://www.reddit.com/r/LocalLLaMA/
 
 https://github.com/openlm-research/open_llama
 
+https://huggingface.co/openlm-research/open_llama_13b
+> https://news.ycombinator.com/item?id=36381136
+
 https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot NonCommercial
 
 https://bair.berkeley.edu/blog/2023/04/03/koala/
@@ -79,6 +82,12 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://falconllm.tii.ae/
+> https://news.ycombinator.com/item?id=36376111
+
+https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c
+> https://news.ycombinator.com/item?id=36374936
+
 https://shishirpatil.github.io/gorilla/
 > https://news.ycombinator.com/item?id=36333290
 

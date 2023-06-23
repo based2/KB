@@ -7,6 +7,9 @@ https://github.com/OpenXiangShan/XiangShan
 https://github.com/mnurzia/rv/blob/main/README.md
 
 #
+https://milkv.io/duo
+> https://news.ycombinator.com/item?id=36377439
+
 https://linuxfoundation.eu/newsroom/rise-project-launches-to-accelerate-development-of-risc-v
 > https://news.ycombinator.com/item?id=36140177
 

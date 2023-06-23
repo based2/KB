@@ -77,6 +77,9 @@ https://docs.cozodb.org/en/latest/releases/v0.6.html
 
 https://arxiv.org/abs/2305.11162
 
+https://www.edgedb.com/blog/edgedb-3-0
+> https://news.ycombinator.com/item?id=36435434
+
 ## Store
 https://github.com/quoll/asami clojure
 > https://news.ycombinator.com/item?id=33621939

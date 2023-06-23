@@ -4,6 +4,10 @@ https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 
 #
+https://www.usenix.org/system/files/sec22-feng.pdf
+> https://news.ycombinator.com/item?id=36382514
+> > https://www.ietf.org/rfc/bcp/bcp38.html
+
 https://www.theregister.com/2023/06/16/third_moveit_bug_fixed/
 
 https://github.com/kitabisa/teler-waf/discussions/45

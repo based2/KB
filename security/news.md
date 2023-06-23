@@ -1,3 +1,14 @@
+https://securedrop.org/news/security-advisory-update-encrypted-usb-drives-and-replace-short-passphrases/
+> https://news.ycombinator.com/item?id=36427116
+
+https://fosstodon.org/@suprjami/110381691990708727
+> https://news.ycombinator.com/item?id=36434308
+
+https://krebsonsecurity.com/2023/06/sms-phishers-harvested-phone-numbers-shipment-data-from-ups-tracking-tool/
+> https://news.ycombinator.com/item?id=36437254
+
+https://news.ycombinator.com/item?id=36382456
+
 https://github.com/gabotechs/signway url
 > https://lobste.rs/s/r0l1nn/signway_bring_power_pre_signed_urls_your
 

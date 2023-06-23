@@ -54,6 +54,12 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://gist.github.com/johnwheeler/ba661c122543d06a5ca6326ffc8c734a
+> https://news.ycombinator.com/item?id=36437925
+
+https://iamnotarobot.substack.com/p/generating-sql-with-llms-for-fun
+> https://news.ycombinator.com/item?id=36440760
+
 https://mallonbacka.com/blog/2023/04/github-copilot-accessibility/
 > 
 

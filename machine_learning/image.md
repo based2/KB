@@ -346,6 +346,17 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://arxiv.org/abs/2305.20030
+> 
+
+https://github.com/kyegomez/VisualNexus
+> https://news.ycombinator.com/item?id=36439854
+
+https://news.ycombinator.com/item?id=36418648
+
+https://stability.ai/blog/sdxl-09-stable-diffusion
+> https://news.ycombinator.com/item?id=36435559
+
 https://stable-diffusion-art.com/qr-code/
 > https://news.ycombinator.com/item?id=36285630
 

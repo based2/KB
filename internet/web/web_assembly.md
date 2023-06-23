@@ -76,6 +76,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://changelog.com/posts/webassembly-runtimes-will-replace-container-runtimes-by-2030
+> https://news.ycombinator.com/item?id=36434852
+
 https://wasmlabs.dev/articles/hardening-drupal-with-webassembly/
 > https://news.ycombinator.com/item?id=36113542
 

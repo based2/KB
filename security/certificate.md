@@ -57,6 +57,9 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://www.agwa.name/blog/post/roots_intermediates_and_resellers
+> https://news.ycombinator.com/item?id=36379265
+
 https://www.agwa.name/blog/post/the_certificate_issuer_field_is_a_lie
 > https://news.ycombinator.com/item?id=36352945
 

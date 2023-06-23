@@ -80,6 +80,9 @@ https://github.com/stateright/stateright
 http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties
 
 # News
+https://ilyasergey.net/assets/pdf/papers/sisyphus-pldi23.pdf
+> https://news.ycombinator.com/item?id=36418539
+
 https://hal.science/hal-04096390 Testing a Formally Verified Compiler
 
 https://i2forge.com/landing

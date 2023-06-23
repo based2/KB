@@ -13,6 +13,11 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://news.ycombinator.com/item?id=36422730
+
+https://github.com/tzapio/tzap
+> https://news.ycombinator.com/item?id=36377918
+
 https://dl.acm.org/doi/10.1145/3589246.3595371
 > https://news.ycombinator.com/item?id=36256869
 

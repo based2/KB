@@ -64,6 +64,11 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://incoherency.co.uk/blog/stories/oscillating-engine-simulator.html
+> https://news.ycombinator.com/item?id=36425758
+
+https://rive.app/blog/rive-as-a-lottie-alternative
+
 https://twitter.com/ID_AA_Carmack/status/1654528504724062217
 > https://news.ycombinator.com/item?id=35840224
 
@@ -349,6 +354,8 @@ https://css-tricks.com/a-handy-little-system-for-animated-entrances-in-css/
 > https://news.ycombinator.com/item?id=29376174
 
 https://animejs.com/
+> https://news.ycombinator.com/item?id=36442274
+> > https://github.com/gnat/surreal
 
 https://fjolt.com/article/3d-web-gl-javascript-gradient-effect
 

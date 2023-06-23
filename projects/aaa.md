@@ -161,6 +161,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://bertrandmeyer.com/2023/06/15/new-article-scenarios-versus-oo-requirements/
+> https://news.ycombinator.com/item?id=36360446
+
 https://www.dcaulfield.com/onboarding-antipatterns
 > https://news.ycombinator.com/item?id=36259679
 

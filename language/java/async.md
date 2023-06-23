@@ -101,3 +101,6 @@ https://github.com/centiservice/mats3
 > https://news.ycombinator.com/item?id=28750222
 https://github.com/preslavmihaylov/booknotes/tree/master/java/programming-concurrency-jvm
 
+https://korennoy.com/2023/06/09/adding-io_uring-to-java/
+> https://news.ycombinator.com/item?id=36431320
+

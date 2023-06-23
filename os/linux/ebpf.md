@@ -112,3 +112,6 @@ https://www.deepfence.io/blog/ebpfguard-a-library-for-inline-mitigation-of-threa
 > https://news.ycombinator.com/item?id=36176947
 
 https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1
+
+https://twitter.com/tianyin_xu/status/1671857283263868930
+> https://news.ycombinator.com/item?id=36438831
