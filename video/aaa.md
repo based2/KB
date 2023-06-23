@@ -118,6 +118,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.collabora.com/news-and-blog/blog/2023/06/20/a-roadmap-for-virtio-video-on-chromeos-part1/
+
 https://ybouane.com/ffmpeg-ui
 > https://news.ycombinator.com/item?id=36335674
 

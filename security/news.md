@@ -1,3 +1,11 @@
+https://secfault-security.com/blog/libreoffice.html
+
+https://blog.torproject.org/new-release-tor-browser-125/
+
+https://vigilance.fr/vulnerabilite/Apache-Traffic-Server-acces-en-ecriture-via-PUSH-Method-41558
+
+https://vigilance.fr/vulnerabilite/Apache-Calcite-Man-in-the-Middle-via-getURLConnection-41576
+
 https://securedrop.org/news/security-advisory-update-encrypted-usb-drives-and-replace-short-passphrases/
 > https://news.ycombinator.com/item?id=36427116
 

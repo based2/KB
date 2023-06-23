@@ -54,6 +54,14 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://twitter.com/alexgraveley/status/1671213996735594503
+> https://news.ycombinator.com/item?id=36408700
+
+https://stackoverflow.co/labs/
+> https://news.ycombinator.com/item?id=36404743
+
+https://codeium.com/blog/codeium-for-enterprises-on-prem-github-copilot
+
 https://gist.github.com/johnwheeler/ba661c122543d06a5ca6326ffc8c734a
 > https://news.ycombinator.com/item?id=36437925
 

@@ -59,6 +59,9 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://github.com/SFML/SFML/releases/tag/2.6.0
+> https://news.ycombinator.com/item?id=36412524
+
 https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr/
 > https://news.ycombinator.com/item?id=36185817
 

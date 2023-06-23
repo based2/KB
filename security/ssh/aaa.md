@@ -10,6 +10,8 @@ https://www.chiark.greenend.org.uk/~sgtatham/putty/
 
 https://goteleport.com/blog/ssh-config/
 
+https://guacamole.apache.org/
+
 https://news.ycombinator.com/item?id=24599837
 
 https://keyper.dbsentry.com/post/anatomy-of-openssh-krl/

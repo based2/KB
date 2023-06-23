@@ -393,6 +393,17 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://vercel.com/blog/version-skew-protection
+
+https://github.blog/2023-06-15-exploring-github-with-the-redesigned-navigation-now-in-public-beta/
+> https://news.ycombinator.com/item?id=36409990
+
+https://docs.gitlab.com/ee/user/free_user_limit.html
+> https://news.ycombinator.com/item?id=36407245
+
+https://www.systeminit.com/blog-second-wave-devops/
+> https://news.ycombinator.com/item?id=36419537
+
 https://devpod.sh/
 > https://news.ycombinator.com/item?id=36407477
 

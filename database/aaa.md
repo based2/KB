@@ -75,6 +75,7 @@ https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/
 > https://news.ycombinator.com/item?id=36208420
 
 https://github.com/undb-xyz/undb
+> https://news.ycombinator.com/item?id=36404622
 
 https://www.jefftk.com/p/you-dont-always-need-indexes
 > https://news.ycombinator.com/item?id=36071397

@@ -166,6 +166,12 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://kumomta.com/blog/announcing-general-availability-of-kumomta
+> https://news.ycombinator.com/item?id=36447282
+
+https://simplelogin.io/
+> https://news.ycombinator.com/item?id=36415357
+
 https://undeadly.org/cgi?action=article;sid=20230617111340
 
 https://sorry.idont.date/

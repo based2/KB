@@ -296,6 +296,9 @@ https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/
 > https://news.ycombinator.com/item?id=36335374
 
 # Incident
+https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web
+> https://news.ycombinator.com/item?id=36419001
+
 https://www.altnews.in/wrestlers-detained-in-delhi-ai-image-of-smiling-vinesh-sangeeta-phogat-viral/
 > https://news.ycombinator.com/item?id=36113551
 
@@ -375,6 +378,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent
+> https://news.ycombinator.com/item?id=36406139
+
 https://news.ycombinator.com/item?id=36432598
 
 https://arxiv.org/abs/2306.11827

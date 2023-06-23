@@ -125,6 +125,9 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://defensivecss.dev/articles/intro-defensive-css/
+> https://news.ycombinator.com/item?id=36407218
+
 https://xmorphic.dev/
 > https://news.ycombinator.com/item?id=35956474
 

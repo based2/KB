@@ -42,6 +42,9 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://theorangeone.net/posts/youre-doing-2fa-wrong/
+> https://news.ycombinator.com/item?id=36415745
+
 https://joskvw.com/2faconcept.html
 > https://news.ycombinator.com/item?id=36249695
 

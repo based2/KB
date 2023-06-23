@@ -319,6 +319,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://blog.jetbrains.com/fleet/2023/02/fleet-below-deck-part-vi-ui-with-noria/
+> https://news.ycombinator.com/item?id=36412733
+
 https://kakoune.org/why-kakoune/why-kakoune.html
 > https://news.ycombinator.com/item?id=36424256
 

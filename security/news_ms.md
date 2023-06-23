@@ -1,6 +1,8 @@
-https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019
+https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.descope.com/blog/post/noauth
+
 https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann ooxml signature
 > https://news.ycombinator.com/item?id=36292413
 

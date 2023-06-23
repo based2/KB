@@ -10,6 +10,9 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://wccftech.com/amd-ceo-teases-rocm-support-coming-to-radeon-consumer-gpus-soon/
+> https://news.ycombinator.com/item?id=36411951
+
 https://fabiensanglard.net/cuda/index.html
 > https://news.ycombinator.com/item?id=36376872
 

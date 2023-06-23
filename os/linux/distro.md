@@ -41,6 +41,15 @@ https://www.phoronix.com/news/Red-Hat-Less-LibreOffice
 https://www.redhat.com/en/blog/red-hat-30th-anniversary-celebrating-red-hat-day-north-carolina
 > https://news.ycombinator.com/item?id=35337146
 
+https://www.interconnects.ai/p/how-rlhf-works
+> https://news.ycombinator.com/item?id=36418807
+
+https://lwn.net/Articles/935592/
+> https://news.ycombinator.com/item?id=36420259
+
+https://www.redhat.com/en/blog/furthering-evolution-centos-stream
+> https://news.ycombinator.com/item?id=36417070
+
 # Canonical/Ubuntu
 
 https://en.wikipedia.org/wiki/Ubuntu

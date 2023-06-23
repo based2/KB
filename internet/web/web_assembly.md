@@ -76,6 +76,11 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.infoworld.com/article/3700569/wasix-undermines-webassembly-system-interface-spec-bytecode-alliance-says.html
+
+https://surma.dev/things/rust-to-webassembly/
+> https://news.ycombinator.com/item?id=36406531
+
 https://changelog.com/posts/webassembly-runtimes-will-replace-container-runtimes-by-2030
 > https://news.ycombinator.com/item?id=36434852
 

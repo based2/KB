@@ -221,6 +221,9 @@ https://www.notion.so/blog/sharding-postgres-at-notion
 
 https://tapoueh.org/blog/2021/12/postgres-ha-roles-are-dynamic
 
+https://github.com/vitabaks/postgresql_cluster
+> https://news.ycombinator.com/item?id=36426128
+
 # Restoration
 https://www.highgo.ca/2023/05/09/various-restoration-techniques-using-postgresql-point-in-time-recovery/
 
@@ -291,10 +294,17 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://github.com/vishesh92/pg-primer
+> https://news.ycombinator.com/item?id=36409340
+
+https://github.com/shayonj/pg_easy_replicate
+> https://news.ycombinator.com/item?id=36405761
+
 https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/
 > https://news.ycombinator.com/item?id=36429986
 
 https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel
+> https://news.ycombinator.com/item?id=36420890
 
 https://postgresml.org/blog/making-postgres-30-percent-faster-in-production
 

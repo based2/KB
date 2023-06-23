@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://www.gosecure.net/blog/2023/06/21/aws-waf-clients-left-vulnerable-to-sql-injection-due-to-unorthodox-mssql-design-choice/
+
 https://github.com/ramimac/aws-customer-security-incidents
 
 https://blog.doyensec.com/2023/06/13/messing-around-with-aws-batch-for-privilege-escalations.html

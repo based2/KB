@@ -61,6 +61,9 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://avi-loeb.medium.com/we-have-discovered-spherules-from-the-path-of-the-first-recognized-interstellar-meteor-im1-d6cd94946b53
+> https://news.ycombinator.com/item?id=36417585
+
 https://www.stsci.edu/contents/news-releases/2023/news-2023-017
 
 https://noirlab.edu/public/news/noirlab2317/?lang

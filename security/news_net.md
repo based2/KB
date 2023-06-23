@@ -4,6 +4,11 @@ https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 
 #
+https://www.heise.de/news/Sicherheitsluecke-Exploit-Code-fuer-Cisco-AnyConnect-und-Secure-Client-9195908.html
+
+https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/
+> https://news.ycombinator.com/item?id=36417095
+
 https://www.usenix.org/system/files/sec22-feng.pdf
 > https://news.ycombinator.com/item?id=36382514
 > > https://www.ietf.org/rfc/bcp/bcp38.html

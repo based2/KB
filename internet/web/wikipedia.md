@@ -52,6 +52,8 @@ https://news.ycombinator.com/item?id=30392849
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://diff.wikimedia.org/2023/06/21/new-dataset-uncovers-wikipedia-browsing-habits-while-protecting-users/
+
 https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-05-22/News_and_notes
 > https://news.ycombinator.com/item?id=36029115
 

@@ -48,6 +48,8 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://www.phoronix.com/news/XFS-Large-Extent-Counts
+
 https://github.com/philipl/pifs πfs
 > https://news.ycombinator.com/item?id=36357466
 > >  https://en.wikipedia.org/wiki/Champernowne_constant https://oeis.org/A076478

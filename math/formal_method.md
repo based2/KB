@@ -9,6 +9,9 @@ http://why3.lri.fr/
 > > > https://www.theregister.com/2021/06/15/coq_programming_language_change/ coc
 > https://en.m.wikipedia.org/wiki/Calculus_of_constructions
 
+https://softwarefoundations.cis.upenn.edu/lf-current/Basics.html
+> https://news.ycombinator.com/item?id=36425214
+
 https://github.com/stepchowfun/proofs
 
 https://danilafe.com/blog/coq_dawn/

@@ -200,6 +200,9 @@ https://github.com/keithasaurus/koda-validate
 
 https://github.com/microsoft/pyright
 
+https://bernsteinbear.com/blog/typed-python/
+> https://news.ycombinator.com/item?id=36408248
+
 # Security
 https://pypi.org/project/pip-audit/
 

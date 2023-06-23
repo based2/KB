@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Fediverse
+
 # HN
 https://news.ycombinator.com/newsguidelines.html
 > https://news.ycombinator.com/item?id=31128903
@@ -60,7 +62,11 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 
 # Incident
+https://www.theregister.com/2023/06/20/reddit_confirms_blackcat_extortion_attempt/
+> https://news.ycombinator.com/item?id=36415106
+
 https://old.reddit.com/r/whatsapp/comments/14g6jt0/corrupted_whatsapp_database/
+> https://news.ycombinator.com/item?id=36443056
 
 https://mstdn.social/@rysiek/110548129223290575
 
@@ -92,6 +98,11 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://lemmy.ml/post/1465740
+
+https://blog.mastodon.world/welcome-lemmy-world
+> https://news.ycombinator.com/item?id=36410547
+
 https://www.pcgamer.com/discord-is-opening-the-monetization-floodgates-get-ready-for-microtransaction-stores-and-paid-exclusive-memes/
 > https://news.ycombinator.com/item?id=36429988
 

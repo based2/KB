@@ -59,6 +59,8 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://modern-sql.com/concept/null
+
 https://antonz.org/fancy-ql/
 > https://news.ycombinator.com/item?id=36369018
 

@@ -135,6 +135,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 #
+https://blog.cloudflare.com/introducing-radar-internet-quality-page/
+
 https://news.ycombinator.com/item?id=36370927
 
 https://www.reuters.com/world/africa/senegal-government-cuts-mobile-internet-access-amid-deadly-rioting-2023-06-04/

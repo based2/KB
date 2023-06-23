@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.bloomberg.com/graphics/2023-ford-ev-battery-plant-funding-biden-green-technology/
+
 https://www.theguardian.com/science/2022/sep/01/crab-lobster-shells-could-used-make-renewable-batteries
 
 https://www.techspot.com/news/99102-european-union-votes-bring-back-replaceable-phone-batteries.html

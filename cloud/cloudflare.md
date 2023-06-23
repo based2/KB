@@ -6,6 +6,8 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 https://news.ycombinator.com/item?id=36294750
 
 # News
+https://blog.cloudflare.com/faster-workers-kv-architecture/
+
 https://durafetch.com/
 > https://github.com/emadda/durafetch-server
 

@@ -118,6 +118,15 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://gothrough.dev/
+> https://news.ycombinator.com/item?id=36406770
+
+https://cedwards.xyz/defer-for-shell/
+> https://news.ycombinator.com/item?id=36412105
+
+https://go.dev/blog/go1.21rc
+> https://news.ycombinator.com/item?id=36423622
+
 https://stephenn.com/2023/06/gopher-wrangling.-effective-error-handling-in-go/
 > https://news.ycombinator.com/item?id=36397380
 

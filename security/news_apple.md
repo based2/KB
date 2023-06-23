@@ -4,6 +4,7 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://www.washingtonpost.com/technology/2023/06/21/apple-hacks-russia-kaspersky-nsa/
 
 https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/
 > https://news.ycombinator.com/item?id=36141755

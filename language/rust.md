@@ -323,6 +323,8 @@ https://blog.janestreet.com/oxidizing-ocaml-locality/
 https://www.jelmer.uk/port-py-to-rust.html
 > https://news.ycombinator.com/item?id=36171422
 
+https://blog.janestreet.com/oxidizing-ocaml-ownership/
+
 ## MacOs
 https://github.com/ryanmcgrath/cacao
 > https://news.ycombinator.com/item?id=35934799

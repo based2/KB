@@ -46,6 +46,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://jamsocket.com/
+> https://news.ycombinator.com/item?id=36407259
+
 https://github.com/anuvu/puzzlefs
 
 https://community.arm.com/arm-community-blogs/b/infrastructure-solutions-blog/posts/container-runtimes-wasmedge-arm

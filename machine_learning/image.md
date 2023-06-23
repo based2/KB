@@ -346,6 +346,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/
+> https://news.ycombinator.com/item?id=36407272
+
 https://arxiv.org/abs/2305.20030
 > 
 

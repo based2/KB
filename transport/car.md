@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.theverge.com/2023/6/20/23767041/tesla-hacker-elon-mode-hands-free-full-self-driving-autopilot
+> https://news.ycombinator.com/item?id=36412170
+
 https://techxplore.com/news/2023-04-self-driving-cars-language-cyclists-roads.html
 
 https://media.ford.com/content/fordmedia/fna/us/en/news/2023/05/25/ford-ev-customers-to-gain-access-to-12-000-tesla-superchargers--.html

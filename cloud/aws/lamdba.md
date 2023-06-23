@@ -75,6 +75,8 @@ https://github.com/aws-samples/aws-lambda-unit-test-example
 https://timmoth.com/posts/zR8YliXKAEavWTLQr4ESYQ
 
 # News
+https://aws.plainenglish.io/aws-lambda-monitoring-a-full-guide-3cc68c6052fd
+
 https://www.reddit.com/r/java/comments/1310zuw/aws_lambda_now_supports_java_17/
 
 https://aws.amazon.com/en/about-aws/whats-new/2023/04/aws-lambda-python-3-10/

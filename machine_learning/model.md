@@ -82,6 +82,30 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://gfrison.com/patents/gilp-symbolic-machine-learning-knowledge-graphs/
+
+https://adamfallon.com/ai/llms/deep-learning/machine-learning/artificial-intelligence/openai/vector/embeddings/2023/06/23/experiments-in-llms-2.html
+
+https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/
+> https://news.ycombinator.com/item?id=36409489
+
+https://github.com/refuel-ai/autolabel
+> https://news.ycombinator.com/item?id=36409201
+
+https://vllm.ai/
+> https://news.ycombinator.com/item?id=36409082
+
+https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72
+
+https://arxiv.org/abs/2306.05426
+> https://news.ycombinator.com/item?id=36425375
+
+https://github.com/zwang4/awesome-machine-learning-in-compilers
+> https://news.ycombinator.com/item?id=36417908
+
+https://lastmileai.dev/workbooks/clj2y933l000mr0avd2ck42s9
+> https://news.ycombinator.com/item?id=36419793
+
 https://falconllm.tii.ae/
 > https://news.ycombinator.com/item?id=36376111
 

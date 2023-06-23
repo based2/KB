@@ -106,6 +106,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://fly.io/ruby-dispatch/smooth-fly-dev/
+> https://news.ycombinator.com/item?id=36443596
+
 https://github.com/little-brother/sqlite-gui
 
 https://wasmlabs.dev/articles/sqlite-wasi-support/
