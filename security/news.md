@@ -1,3 +1,10 @@
+https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment
+> https://news.ycombinator.com/item?id=36459519
+
+https://www.scmagazine.com/news/zero-trust/fortinet-critical-rce-flaw
+
+https://www.theregister.com/2023/06/23/camaro_dragon_usb_malware_spreads/
+
 https://secfault-security.com/blog/libreoffice.html
 
 https://blog.torproject.org/new-release-tor-browser-125/

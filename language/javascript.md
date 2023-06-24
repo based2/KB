@@ -212,6 +212,9 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://reactnative.dev/blog/2023/06/21/0.72-metro-package-exports-symlinks
+> https://news.ycombinator.com/item?id=36446840
+
 https://million.dev/
 
 https://github.com/reactwg/server-components/discussions/5

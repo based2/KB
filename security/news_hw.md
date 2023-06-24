@@ -2,6 +2,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://dl.acm.org/doi/pdf/10.1145/3593856.3595903
+> https://news.ycombinator.com/item?id=36446787
+
 https://blog.cybercx.co.nz/bypassing-bios-password
 > https://news.ycombinator.com/item?id=36337687
 

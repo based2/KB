@@ -63,6 +63,9 @@ https://www.weka.io/blog/file-system/weka-responds-to-unfounded-allegations-made
 
 http://marble.onl/posts/software-licenses-masquerading-as-open-source.html
 
+https://github.com/pjakma/fopl
+> https://news.ycombinator.com/item?id=36457546
+
 # Incident
 https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267
 > https://news.ycombinator.com/item?id=36370257

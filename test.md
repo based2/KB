@@ -28,6 +28,8 @@ https://stepci.com/
 > https://news.ycombinator.com/item?id=33151474
 
 #
+https://martinfowler.com/bliki/HumbleObject.html
+
 https://news.ycombinator.com/item?id=35629050
 
 https://nhaehnle.blogspot.com/2023/01/software-testing-and-why-im-unhappy.html

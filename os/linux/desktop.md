@@ -97,6 +97,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://get.opensuse.org/tumbleweed/
+> https://news.ycombinator.com/item?id=36455510
+
 https://www.linuxcapable.com/how-to-install-kde-plasma-on-debian-linux/
 
 https://en.opensuse.org/Portal:Aeon

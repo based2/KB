@@ -271,6 +271,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://github.com/rcarmo/ground-init local cloud-init
+>
+
 https://world.hey.com/dhh/we-have-left-the-cloud-251760fb
 
 https://llm-utils.org/Nvidia+H100+and+A100+GPUs+-+comparing+available+capacity+at+GPU+cloud+providers

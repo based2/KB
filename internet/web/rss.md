@@ -30,3 +30,6 @@ https://kn100.me/rss-perils/
 
 https://github.com/davidesantangelo/dato.rss
 > https://news.ycombinator.com/item?id=31782461
+
+https://www.rssboard.org/rss-autodiscovery
+> https://news.ycombinator.com/item?id=36432595

@@ -127,6 +127,9 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators
+> https://news.ycombinator.com/item?id=36445093
+
 https://infinitemac.org/
 > https://news.ycombinator.com/item?id=36244565
 > > http://outliners.scripting.com/default.html MORE

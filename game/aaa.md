@@ -20,6 +20,12 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://roguetemple.com/z/hyper/dev.php How to create a game using hyperbolic geometry?
+> https://news.ycombinator.com/item?id=36448270
+
+https://www.eveonline.com/news/view/information-is-power-excel-release
+> https://news.ycombinator.com/item?id=36427385
+
 https://nanochess.org/video_chess.html
 > https://news.ycombinator.com/item?id=36431917
 

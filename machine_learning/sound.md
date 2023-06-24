@@ -112,6 +112,9 @@ https://ai.honu.io/papers/musicgen/
 
 https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/
 
+https://google-research.github.io/seanet/audiopalm/examples/
+> https://news.ycombinator.com/item?id=36443676
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360
@@ -145,6 +148,9 @@ https://github.com/w-okada/voice-changer
 
 https://ddkang.github.io/blog/2023/06/13/fighting/
 > https://news.ycombinator.com/item?id=36414683
+
+https://www.techradar.com/news/meta-says-its-new-speech-generating-ai-tool-is-too-dangerous-to-release
+> https://news.ycombinator.com/item?id=36458366
 
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/

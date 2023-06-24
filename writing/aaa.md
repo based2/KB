@@ -119,3 +119,9 @@ https://github.com/zineland/zine simple and opinionated tool to build your own m
 
 https://arxiv.org/abs/2204.09672
 > https://news.ycombinator.com/item?id=36340504
+
+https://www.stylemanual.gov.au/
+> https://news.ycombinator.com/item?id=36457205
+
+https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html
+> https://news.ycombinator.com/item?id=36457051

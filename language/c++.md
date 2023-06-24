@@ -59,6 +59,15 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26
+> https://news.ycombinator.com/item?id=36457347
+
+https://caseymuratori.com/blog_0015
+> https://news.ycombinator.com/item?id=36455794
+
+https://verdagon.dev/blog/vale-memory-safe-cpp
+> https://news.ycombinator.com/item?id=36448759
+
 https://github.com/SFML/SFML/releases/tag/2.6.0
 > https://news.ycombinator.com/item?id=36412524
 

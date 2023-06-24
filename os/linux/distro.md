@@ -94,6 +94,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/
+> https://news.ycombinator.com/item?id=36452101
+
 https://news.ycombinator.com/item?id=36436668
 
 https://rockylinux.org/news/2023-06-22-press-release/

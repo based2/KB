@@ -24,6 +24,8 @@ https://phys.org/news/2021-09-sunlight-driven-photocatalytic-hydrogen-production
 
 https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest-u-s-nuclear-plant-gets-federal-funding/
 
+https://en.wikipedia.org/wiki/Spin_isomers_of_hydrogen
+
 # News
 https://spectrum.ieee.org/green-hydrogen-offshore-wind
 > https://news.ycombinator.com/item?id=36270884

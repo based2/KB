@@ -296,6 +296,8 @@ https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/
 > https://news.ycombinator.com/item?id=36335374
 
 # Incident
+https://blog.val.town/blog/introducing-valrun
+
 https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web
 > https://news.ycombinator.com/item?id=36419001
 

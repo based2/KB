@@ -119,6 +119,8 @@ https://github.com/PacoVK/tapir registry
 
 https://servian.dev/terraform-local-providers-and-registry-mirror-configuration-b963117dfffa
 
+https://github.com/philips-labs/terraform-registry?utm_source=www.weekly.tf
+
 # AWS
 https://www.hashicorp.com/blog/terraform-aws-provider-5-0-adds-updates-to-default-tags
 > https://github.com/hashicorp/terraform-provider-aws/blob/main/ROADMAP.md
@@ -154,6 +156,8 @@ https://blog.symops.com/2022/11/10/stop-playing-whac-a-mole-start-using-least-pr
 
 ## Cognito
 https://github.com/DNXLabs/terraform-aws-cognito
+
+https://medium.com/webstep/use-terraform-to-create-an-aws-cloudfront-distribution-from-s3-secured-with-cognito-signed-cookie-26cdfddb306c
 
 ## EC2
 
@@ -207,9 +211,13 @@ https://sg12.cloud/serverless-data-processing-flow-with-kinesis-data-firehose-an
 
 https://github.com/ThiagoPanini/terraglue
 
-https://blog.jennasrunbooks.com/aws-lambda-function-iam-user-password-expiry-notice-ses-boto3-terraform?utm_source=www.weekly.tf&utm_medium=referral&utm_campaign=weekly-tf-issue-122-migrating-from-terraform-cloud-iam-user-password-expiry-notice-moving-resources-between-states-check-block-pytest-terraform-plugin-terraform-repl
+https://blog.jennasrunbooks.com/aws-lambda-function-iam-user-password-expiry-notice-ses-boto3-terraform
 
 https://betterprogramming.pub/sending-aws-lambda-logs-to-an-observability-service-like-datadog-or-new-relic-e75ba8d9e461
+
+https://www.tecracer.com/blog/2023/05/terraform-ci/cd-pipelines-use-aws-codepipeline-to-build-fully-managed-deployment-pipelines-for-terraform..html
+
+https://medium.com/@hettiarachchi.yashodha/enforcing-machine-to-machine-authentication-for-services-behind-an-aws-alb-part-2-e06707e6f366 m2m authn
 
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
@@ -262,11 +270,17 @@ https://github.com/jaceq/terraeasy
 # testing
 https://github.com/cloud-custodian/pytest-terraform
 
+https://medium.com/illuminations-mirror/basic-terraform-provider-debugging-c20532268c3b
+
 #
 https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://medium.com/@ladibnasr/enforcing-secure-and-cost-effective-infrastructure-as-code-with-terraform-opa-and-infracost-22b4b4c880c2
+
+https://medium.com/@arniesaha/reusing-existing-terraform-state-while-migrating-to-crossplane-ea50a492bb61
+
 https://medium.com/illumination/terraform-beyond-if-else-e00e9cd54b6
 
 https://github.com/datarootsio/tf-profile

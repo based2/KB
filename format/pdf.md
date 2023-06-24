@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html
+> https://news.ycombinator.com/item?id=36454556
+
 https://github.com/jpakkane/capypdf
 
 https://www.reddit.com/r/programming/comments/12eekuw/i_interviewed_bruno_lowagie_who_successfully/

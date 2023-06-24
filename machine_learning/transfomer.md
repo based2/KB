@@ -20,6 +20,10 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://news.ycombinator.com/item?id=36450942
+
+https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/
+
 https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder
 
 https://news.ycombinator.com/item?id=36311871

@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine
+> https://news.ycombinator.com/item?id=36448791
+
 https://tlpnetwork.com/news/2023/06/scientists-discover-phosphorus-on-enceladus
 > https://news.ycombinator.com/item?id=36333762
 

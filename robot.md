@@ -75,6 +75,8 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://nuttx.apache.org/
+
 https://www.theregister.com/2023/06/22/pangolin_health_robot/
 
 https://zephyrproject.org/zephyr-project-welcomes-analog-devices-arduino-and-technology-innovation-institute-as-new-members/

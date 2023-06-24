@@ -106,6 +106,12 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://effect.systems/blog/egraph-extraction.html
+> https://news.ycombinator.com/item?id=36453592
+
+https://www.quantamagazine.org/computer-scientists-inch-closer-to-major-algorithmic-goal-20230623/
+>
+
 https://editor.herowand.com/
 
 https://medium.com/tebs-lab/deep-neural-networks-as-computational-graphs-867fcaa56c9

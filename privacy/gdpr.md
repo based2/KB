@@ -75,6 +75,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/
+
 https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr
 > https://news.ycombinator.com/item?id=36430280
 

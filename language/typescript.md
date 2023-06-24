@@ -103,6 +103,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://alexharri.com/blog/typescript-structural-typing
+> https://news.ycombinator.com/item?id=36457557
+
 https://github.com/Embraser01/typoas
 
 https://github.com/kaleidawave/ezno/discussions/21

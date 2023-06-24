@@ -26,6 +26,9 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://github.com/joxeankoret/diaphora
+> https://news.ycombinator.com/item?id=36424375
+
 https://www.reddit.com/r/netsec/comments/13u3i8i/windiff_webbased_tool_to_browse_and_compare/
 
 https://en.wikipedia.org/wiki/Open_Source_Tripwire

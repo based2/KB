@@ -3,3 +3,5 @@ https://www.nngroup.com/articles/campbells-law/
 
 https://github.com/andrewrk/poop
 > https://news.ycombinator.com/item?id=36366179
+
+https://www.crunchydata.com/blog/high-compression-metrics-storage-with-postgres-hyperloglog

@@ -82,6 +82,15 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://inflection.ai/inflection-1
+> https://news.ycombinator.com/item?id=36458625
+
+https://huggingface.co/blog/evaluating-mmlu-leaderboard
+> https://news.ycombinator.com/item?id=36449424
+
+https://openpm.ai/
+> https://news.ycombinator.com/item?id=36447683
+
 https://gfrison.com/patents/gilp-symbolic-machine-learning-knowledge-graphs/
 
 https://adamfallon.com/ai/llms/deep-learning/machine-learning/artificial-intelligence/openai/vector/embeddings/2023/06/23/experiments-in-llms-2.html

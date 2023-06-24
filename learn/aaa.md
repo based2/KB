@@ -136,6 +136,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://github.com/hwgilbert16/scholarsome
+> https://news.ycombinator.com/item?id=36454783
+
 https://www.open.edu/openlearn/money-management/management/leadership-and-management/managing/systems-explained-humberto-maturana
 > https://news.ycombinator.com/item?id=36169523
 > https://en.wikipedia.org/wiki/Autopoiesis

@@ -7,6 +7,9 @@ https://github.com/OpenXiangShan/XiangShan
 https://github.com/mnurzia/rv/blob/main/README.md
 
 #
+https://lupyuen.codeberg.page/articles/riscv.html
+> https://news.ycombinator.com/item?id=36453810
+
 https://milkv.io/mars
 > https://news.ycombinator.com/item?id=36407850
 

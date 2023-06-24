@@ -40,6 +40,9 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://news.ycombinator.com/item?id=29045198
 
 # News
+https://www.u-tokyo.ac.jp/focus/en/press/z0508_00289.html
+> https://news.ycombinator.com/item?id=36451924
+
 https://www.scientificamerican.com/article/brain-waves-synchronize-when-people-interact/
 > https://news.ycombinator.com/item?id=36367854
 

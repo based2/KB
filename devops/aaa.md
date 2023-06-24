@@ -117,6 +117,12 @@ https://news.ycombinator.com/item?id=33131480 Show HN: Garnix, fast and easy CI 
 
 ArgoCD
 
+https://pet2cattle.com/2023/02/argocd-pull-request-applicationsets
+
+https://colinwilson.uk/2022/08/22/secrets-management-with-external-secrets-argo-cd-and-gitops/
+
+https://colinwilson.uk/2022/03/27/secret-management-with-gitops-and-argo-cd-vault-plugin/
+
 https://news.ycombinator.com/item?id=26872904
 
 https://github.com/lesfurets/git-octopus
@@ -133,6 +139,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/microsoft-teams-bug-allows-malware-delivery-from-external-accounts/
+
 https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/
 > https://news.ycombinator.com/item?id=36442206
 
@@ -393,6 +401,17 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://0ver.org/
+
+https://www.gameoftrees.org/
+> https://undeadly.org/cgi?action=article;sid=20230624054334
+> > https://news.ycombinator.com/item?id=36456887
+
+https://medium.com/containers-101/stop-using-branches-for-deploying-to-different-gitops-environments-7111d0632402
+
+https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html
+> https://news.ycombinator.com/item?id=36446158
+
 https://vercel.com/blog/version-skew-protection
 
 https://github.blog/2023-06-15-exploring-github-with-the-redesigned-navigation-now-in-public-beta/

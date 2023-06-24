@@ -43,6 +43,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.134
+> https://news.ycombinator.com/item?id=36455533
+
 https://news.ycombinator.com/item?id=36377805
 
 https://news.ycombinator.com/item?id=36351322

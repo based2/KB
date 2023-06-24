@@ -344,6 +344,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/
+
 https://lna7n.org/2021/04/16/a-survival-guide-to-macos-from-linux.html
 
 https://old.reddit.com/r/apple/comments/110dozc/there_is_something_wrong_with_the_mouse_cursor/

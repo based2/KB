@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://spectrum.ieee.org/iron-fuel
+> https://news.ycombinator.com/item?id=36447566
+
 https://www.smithsonianmag.com/smart-news/this-new-device-generates-electricity-from-thin-air-180982263/
 > https://news.ycombinator.com/item?id=36156423
 
