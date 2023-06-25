@@ -54,6 +54,9 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/
+> https://news.ycombinator.com/item?id=36467400
+
 https://keepassxc.org/blog/2023-06-20-cve-202335866/
 > https://news.ycombinator.com/item?id=36405283
 

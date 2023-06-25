@@ -136,6 +136,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://www.cs.cmu.edu/~15122/about.shtml
+> https://news.ycombinator.com/item?id=36468383
+
 https://github.com/hwgilbert16/scholarsome
 > https://news.ycombinator.com/item?id=36454783
 

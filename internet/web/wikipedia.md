@@ -48,10 +48,16 @@ https://www.bookstackapp.com/ php
 
 https://news.ycombinator.com/item?id=30392849
 
+https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
+> https://news.ycombinator.com/item?id=36462354
+
 #
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://www.smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/
+> https://news.ycombinator.com/item?id=36459310
+
 https://diff.wikimedia.org/2023/06/21/new-dataset-uncovers-wikipedia-browsing-habits-while-protecting-users/
 
 https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-05-22/News_and_notes

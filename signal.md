@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://digilent.com/blog/whats-different-with-the-analog-discovery-3/
+> https://news.ycombinator.com/item?id=36461674
+
 https://www.nist.gov/news-events/news/2023/06/nist-lays-groundwork-future-ultra-precise-timing-links-geosynchronous
 > https://news.ycombinator.com/item?id=36435698
 

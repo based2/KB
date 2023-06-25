@@ -82,6 +82,13 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://github.com/Barqawiz/IntelliNode
+
+https://learn.microsoft.com/en-us/semantic-kernel/overview/
+
+https://stack.convex.dev/the-magic-of-embeddings
+> https://news.ycombinator.com/item?id=36454494
+
 https://inflection.ai/inflection-1
 > https://news.ycombinator.com/item?id=36458625
 

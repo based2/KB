@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://simondalvai.com/blog/godot-itchio-upload/
+> https://news.ycombinator.com/item?id=36466698
+
 https://www.gbstudio.dev/
 > https://news.ycombinator.com/item?id=36372284
 

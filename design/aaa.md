@@ -45,6 +45,8 @@ https://brutalita.com/ Experimental font and editor, edit in your browser and do
 > https://news.ycombinator.com/item?id=29921137
 
 #
+https://news.ycombinator.com/item?id=36467942
+
 https://apenwarr.ca/log/20201227 Systems design explains the world (2021)
 > https://news.ycombinator.com/item?id=35078590
 

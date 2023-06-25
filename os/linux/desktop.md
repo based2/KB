@@ -97,6 +97,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.linuxmint.com/rel_victoria_cinnamon_whatsnew.php
+
 https://get.opensuse.org/tumbleweed/
 > https://news.ycombinator.com/item?id=36455510
 

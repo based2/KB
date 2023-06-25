@@ -324,6 +324,8 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://mltechniques.com/2023/06/16/generative-ai-synthetic-data-vendor-comparison-and-benchmarking-best-practices/
+
 https://news.ycombinator.com/item?id=36427374
 
 https://faculty.washington.edu/sbrunton/DataBookV2.pdf

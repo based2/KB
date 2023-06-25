@@ -165,6 +165,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html
+
 https://www.theregister.com/2023/06/02/amazon_mvno_us/
 
 https://www.bloomberg.com/news/articles/2023-06-02/amazon-talking-with-verizon-dish-t-mobile-to-offer-mobile-with-prime#xj4y7vzkg

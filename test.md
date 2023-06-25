@@ -28,6 +28,9 @@ https://stepci.com/
 > https://news.ycombinator.com/item?id=33151474
 
 #
+https://stratoflow.com/types-of-software-testing/
+> https://news.ycombinator.com/item?id=36467092
+
 https://martinfowler.com/bliki/HumbleObject.html
 
 https://news.ycombinator.com/item?id=35629050
@@ -149,6 +152,10 @@ https://github.com/Mikuu/Micoo
 
 https://github.com/lost-pixel/lost-pixel  visual regression testing framework for modern web 🖼 First class integration with Storybook, Ladle & other frontend libraries
 > https://news.ycombinator.com/item?id=32897892
+
+# SMTP mail
+https://github.com/axllent/mailpit
+> https://news.ycombinator.com/item?id=36448686
 
 # News
 https://chipsandcheese.com/2023/06/14/latency-testing-is-hard-rdna-3-power-saving/

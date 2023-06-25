@@ -15,6 +15,9 @@ https://libli.org/
 https://fs0c131y.com/posts/2019-04-19_tchap-the-super-not-secure-app-of-the-french-government/
 
 #
+https://blog.erethon.com/blog/2023/06/21/what-happens-when-a-matrix-server-disappears/
+> https://lobste.rs/s/qk6sdm/what_happens_when_matrix_server
+
 https://fosdem.org/2023/schedule/event/matrix20/
 > https://news.ycombinator.com/item?id=34776132
 

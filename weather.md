@@ -35,6 +35,9 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://intergalactic.systems/posts/post-1965946732.html
+> https://news.ycombinator.com/item?id=36467043
+
 https://til.simonwillison.net/googlecloud/video-frame-ocr
 > https://news.ycombinator.com/item?id=35435979
 

@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.reviewjournal.com/business/energy/nasa-opposes-lithium-mining-at-nevada-site-used-to-calibrate-satellites-2798847/
+
 https://www.esa.int/Enabling_Support/Space_Transportation/Full_ignition_for_ESA_s_reusable_rocket_engine
 > https://news.ycombinator.com/item?id=36448791
 

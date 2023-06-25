@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=36466133
+
 https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment
 > https://news.ycombinator.com/item?id=36459519
 

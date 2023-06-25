@@ -75,6 +75,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://www.nextinpact.com/article/71946/la-cnil-inflige-amende-40-millions-deuros-a-criteo
+
 https://www.theregister.com/2023/06/23/telesign_gdpr_complaint/
 
 https://wideangle.co/blog/is-recaptcha-illegal-under-gdpr

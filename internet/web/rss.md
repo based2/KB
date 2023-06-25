@@ -33,3 +33,6 @@ https://github.com/davidesantangelo/dato.rss
 
 https://www.rssboard.org/rss-autodiscovery
 > https://news.ycombinator.com/item?id=36432595
+
+https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed
+> https://news.ycombinator.com/item?id=36461701

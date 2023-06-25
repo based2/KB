@@ -60,6 +60,9 @@ https://discourse.nixos.org/t/s3-update-and-recap-of-community-call/28942
 https://www.jetpack.io/blog/why-did-nix-adopt-flakes/
 > https://news.ycombinator.com/item?id=36362225
 
+https://drakerossman.com/blog/how-to-add-home-manager-to-nixos
+> https://news.ycombinator.com/item?id=36458780
+
 # Incident
 https://www.theregister.com/2023/06/02/novel_pypi_attack_reversinglabs/
 

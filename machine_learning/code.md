@@ -54,6 +54,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/
+> https://news.ycombinator.com/item?id=36459827
+
 https://twitter.com/alexgraveley/status/1671213996735594503
 > https://news.ycombinator.com/item?id=36408700
 

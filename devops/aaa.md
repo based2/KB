@@ -401,6 +401,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://chadxz.dev/platform/
+> https://news.ycombinator.com/item?id=36465220
+
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations
+> https://news.ycombinator.com/item?id=36465886
+
 https://0ver.org/
 
 https://www.gameoftrees.org/

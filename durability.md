@@ -75,6 +75,9 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries
+> https://news.ycombinator.com/item?id=36466153
+
 https://nationalpost.com/news/canada/quebec-government-moves-to-ban-planned-obsolescence-ensure-products-can-be-repaired
 > https://news.ycombinator.com/item?id=36156402
 

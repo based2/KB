@@ -113,6 +113,9 @@ https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://samwho.dev/hashing/
+> https://lobste.rs/s/yrn8fk/hashing
+
 https://xoranth.net/verb-parse/
 
 https://github.com/dosyago/discohash

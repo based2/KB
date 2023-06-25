@@ -246,6 +246,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://ploum.net/2023-06-19-more-rms.html
+> https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less
+
 https://gist.github.com/lleyton/9c0b75d065f37333ea9851b6cad1d1e6
 > https://news.ycombinator.com/item?id=36225016
 

@@ -380,6 +380,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://fleuret.org/francois/#lbdl
+> https://news.ycombinator.com/item?id=36467927
+
 https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent
 > https://news.ycombinator.com/item?id=36406139
 

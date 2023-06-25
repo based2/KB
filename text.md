@@ -124,6 +124,8 @@ https://medium.com/besedo-engineering/text-summarization-part-2-state-of-the-art
 https://labs.kagi.com/ai/sum
 > https://news.ycombinator.com/item?id=34646389
 
+https://news.ycombinator.com/item?id=36470297
+
 # Spell corrector
 https://norvig.com/spell-correct.html
 > https://news.ycombinator.com/item?id=28551468

@@ -1,3 +1,5 @@
+https://distrowatch.com/search.php?basedon=Red+Hat&status=Active
+
 # Debian
 https://en.wikipedia.org/wiki/Mozilla_software_rebranded_by_Debian
 https://www.mail-archive.com/debian-ctte@lists.debian.org/msg08586.html
@@ -94,6 +96,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://linuxfr.org/news/l-affaire-des-sources-memo-des-clones-de-red-hat-entreprise-linux-rhel
+
 https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/
 > https://news.ycombinator.com/item?id=36452101
 

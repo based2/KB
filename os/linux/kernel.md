@@ -31,6 +31,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727
+> https://news.ycombinator.com/item?id=36453305
+
 https://fosstodon.org/@gabrielesvelto/110592904713090347
 > https://news.ycombinator.com/item?id=36455627
 

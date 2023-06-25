@@ -93,6 +93,8 @@ https://www.nature.com/articles/s41586-023-06004-9
 https://justine.lol/sorting/
 > https://news.ycombinator.com/item?id=36297476
 
+https://www.phoronix.com/news/Intel-x86-simd-sort-2.0
+
 # Data Structure
 https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
 > https://news.ycombinator.com/item?id=27745184
