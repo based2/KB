@@ -69,6 +69,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.consilium.europa.eu/fr/policies/green-deal/fit-for-55-the-eu-plan-for-a-green-transition/
+
 https://www.swissinfo.ch/eng/politics/swiss-to-decide-on-net-zero-climate-law/48593158
 > https://news.ycombinator.com/item?id=36382167
 
