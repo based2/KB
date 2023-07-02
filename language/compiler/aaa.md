@@ -81,6 +81,8 @@ https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html
 
 https://m680x0.github.io/blog/2022/02/varlen-encoder.html
 
+https://www.phoronix.com/news/LLVM-Fat-LTO-Objects
+
 https://discourse.llvm.org/t/llvm-14-0-0-release/61224
 
 ## Clang
@@ -128,6 +130,11 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.cs.cornell.edu/~asampson/blog/flattening.html
+> https://news.ycombinator.com/item?id=36559346
+
+https://johnnysswlab.com/hiding-memory-latency-with-in-order-cpu-cores-or-how-compilers-optimize-your-code/
+
 https://stefan-marr.de/2023/06/squeezing-a-little-more-performance-out-of-bytecode-interpreters/
 > https://news.ycombinator.com/item?id=36377280
 

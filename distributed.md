@@ -96,6 +96,8 @@ https://loro-dev.notion.site/crdt-richtext-Rust-implementation-of-Peritext-and-F
 https://jsonjoy.com/blog/list-crdt-benchmarks
 > https://news.ycombinator.com/item?id=36030866
 
+https://news.ycombinator.com/item?id=36519448
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913
@@ -182,6 +184,9 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://queue.acm.org/detail.cfm?id=1142044 The Rise and Fall of CORBA
+> https://news.ycombinator.com/item?id=36546954
+
 https://muratbuffalo.blogspot.com/2023/04/the-end-of-myth-distributed.html Distributed transactions can scale
 > https://news.ycombinator.com/item?id=35520044
 

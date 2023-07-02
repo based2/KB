@@ -180,6 +180,11 @@ https://www.jdawiseman.com/books/pricing-money/Pricing_Money_JDAWiseman.html
 https://www.janestreet.com/static/pdfs/trading-interview.pdf
 > https://news.ycombinator.com/item?id=36354259
 
+https://polygon.io/blog/case-study-algorithmict-trading-with-go/
+> https://news.ycombinator.com/item?id=36539235
+
+https://www.bloomberg.com/opinion/articles/2022-09-28/the-deli-was-allegedly-a-fraud
+
 ## Personal finance
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317

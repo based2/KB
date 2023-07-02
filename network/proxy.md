@@ -30,6 +30,12 @@ https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service
 https://openreplay.com/
 
 # News
+https://hjr265.me/blog/simple-rate-limiter-with-redis/
+> lobster
+
+https://tabserve.dev/
+> https://news.ycombinator.com/item?id=36543398
+
 https://github.com/leandromoreira/nginx-lua-redis-rate-measuring
 
 https://tailscale.com/blog/tailscale-funnel-beta/

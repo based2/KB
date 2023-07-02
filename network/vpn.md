@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://news.ycombinator.com/item?id=36554818
+
 https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/
 > https://news.ycombinator.com/item?id=36085642
 
@@ -85,6 +87,11 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
 # News
+https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off tor .de
+> https://news.ycombinator.com/item?id=36560136
+
+https://news.ycombinator.com/item?id=36531485
+
 https://blog.azirevpn.com/port-forwarding/
 > https://news.ycombinator.com/item?id=36381181
 

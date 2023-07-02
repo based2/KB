@@ -22,6 +22,8 @@ https://blog.bofh.it/debian/id_465 I replaced grub with systemd-boot
 https://nick-black.com/dankwiki/index.php/Io_uring
 > https://news.ycombinator.com/item?id=36030958
 
+https://git.kernel.org/pub/scm/git/git.git/plain/Documentation/technical/pack-heuristics.txt
+
 # Windows
 https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
@@ -31,6 +33,15 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.phoronix.com/news/Linux-6.5-CXL
+
+https://www.phoronix.com/news/Apple-Studio-Display-Linux-Drv
+
+https://www.phoronix.com/news/Linux-65-User-Mode-Stack-Expand
+
+https://www.phoronix.com/news/SLAB-Officially-Deprecated
+> https://news.ycombinator.com/item?id=36538795
+
 https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727
 > https://news.ycombinator.com/item?id=36453305
 

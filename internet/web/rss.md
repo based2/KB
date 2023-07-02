@@ -36,3 +36,6 @@ https://www.rssboard.org/rss-autodiscovery
 
 https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed
 > https://news.ycombinator.com/item?id=36461701
+
+https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago
+> https://news.ycombinator.com/item?id=36532136

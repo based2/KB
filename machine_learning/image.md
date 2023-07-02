@@ -95,6 +95,8 @@ https://arxiv.org/abs/2305.11490
 
 https://github.com/dibrale/samist
 
+https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/
+
 # Data
 https://github.com/allenai/mmc4
 > https://news.ycombinator.com/item?id=35619159

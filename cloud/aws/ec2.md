@@ -104,6 +104,8 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
+https://aws.amazon.com/fr/blogs/hpc/application-deep-dive-into-the-graviton3e-based-amazon-ec2-hpc7g-instance/
+
 https://www.reddit.com/r/aws/comments/126vkbj/ami_2022_repo_always_behind_amazon_linux_2_on/
 
 https://www.phoronix.com/review/amazon-linux-2023

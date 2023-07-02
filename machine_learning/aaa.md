@@ -296,6 +296,9 @@ https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/
 > https://news.ycombinator.com/item?id=36335374
 
 # Incident
+https://twitter.com/huggingface/status/1675242955962032129
+> https://news.ycombinator.com/item?id=36555455
+
 https://blog.val.town/blog/introducing-valrun
 
 https://www.tomshardware.com/news/over-100000-chatgpt-account-credentials-made-available-on-the-dark-web
@@ -380,6 +383,13 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://ai.stanford.edu/courses/
+> https://news.ycombinator.com/item?id=36562502
+
+https://leandojo.org/
+
+https://www.run.house/blog/a-pytorch-approach-to-ml-infrastructure
+
 https://fleuret.org/francois/#lbdl
 > https://news.ycombinator.com/item?id=36467927
 

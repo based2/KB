@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=36559165
+
 https://spectrum.ieee.org/iron-fuel
 > https://news.ycombinator.com/item?id=36447566
 

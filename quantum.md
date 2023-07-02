@@ -88,6 +88,10 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.eurekalert.org/news-releases/994232
+
+https://www.quantinuum.com/news/quantinuum-h-series-quantum-computer-accelerates-through-3-more-performance-records-for-quantum-volume-217-218-and-219
+
 https://www.tomshardware.com/news/intel-announce-tunnel-falls-quantum-research-chip 12 qubit
 
 https://phys.org/news/2023-05-noise-canceling-qubits-minimize-errors-quantum.html

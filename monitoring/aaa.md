@@ -112,6 +112,11 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/0xrawsec/kunai sysmon
+
+https://github.com/teslamotors/fleet-telemetry
+> https://news.ycombinator.com/item?id=36525940
+
 https://docs.victoriametrics.com/VictoriaLogs/
 > https://news.ycombinator.com/item?id=36429526
 

@@ -12,6 +12,12 @@ https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
+https://www.thefinalhop.com/fluhorse-the-flutter-based-android-malware-thats-raising-eyebrows/
+> https://news.ycombinator.com/item?id=36545929
+
+https://arstechnica.com/gadgets/2023/06/uk-police-blame-android-for-record-number-of-false-emergency-calls/
+> https://news.ycombinator.com/item?id=36479440
+
 https://www.theregister.com/2023/05/27/predator_analysis_talos/
 
 https://arstechnica.com/information-technology/2023/05/app-with-50000-google-play-installs-sent-attackers-mic-recordings-every-15-minutes/

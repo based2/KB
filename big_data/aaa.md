@@ -324,6 +324,13 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://github.com/dkogan/feedgnuplot
+
+https://themarkup.org/hello-world/2023/07/01/what-are-data-clean-rooms
+
+https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en
+> https://news.ycombinator.com/item?id=36515986
+
 https://mltechniques.com/2023/06/16/generative-ai-synthetic-data-vendor-comparison-and-benchmarking-best-practices/
 
 https://news.ycombinator.com/item?id=36427374

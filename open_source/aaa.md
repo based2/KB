@@ -246,6 +246,10 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://donraab.medium.com/the-benefits-of-participating-in-the-openjdk-quality-outreach-program-590b86382f20
+
+https://meeksfamily.uk/~michael/data/2022-11-12-sustained-freedom.pdf
+
 https://ploum.net/2023-06-19-more-rms.html
 > https://lobste.rs/s/ii7fpk/we_need_more_richard_stallman_not_less
 

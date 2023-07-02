@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://www.permit.io/blog/zanzibar-vs-opa
+> https://news.ycombinator.com/item?id=36504609
+
 https://terrateam.io/blog/the-future-of-terraform-is-clickops
 > https://www.reddit.com/r/Terraform/comments/14a4hld/the_future_of_terraform_clickops/
 

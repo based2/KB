@@ -97,6 +97,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph
+
 https://www.linuxmint.com/rel_victoria_cinnamon_whatsnew.php
 
 https://get.opensuse.org/tumbleweed/

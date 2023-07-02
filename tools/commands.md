@@ -43,14 +43,21 @@ https://blog.healthchecks.io/2022/09/schedule-cron-job-the-funky-way/ Schedule C
 https://earthly.dev/blog/awk-examples/
 > https://news.ycombinator.com/item?id=28707463
 
+# Net
+https://github.com/orf/gping
+> https://news.ycombinator.com/item?id=36548676
+
+https://github.com/magnific0/wondershaper net cap Command-line utility for limiting an adapter's bandwidth
+
+https://drew.shoes/posts/sup/ net send win
+> https://news.ycombinator.com/item?id=34157636
+
 # News
 https://github.com/joone/loz chatgpt
 
 https://github.com/Slackadays/Clipboard
 
 https://news.ycombinator.com/item?id=36256931 play
-
-https://github.com/magnific0/wondershaper net cap
 
 https://dystroy.org/broot/
 
@@ -81,9 +88,6 @@ https://deepu.tech/rust-terminal-tools-linux-mac-windows-fish-zsh/
 
 https://www.linuxcommand.org/tlcl.php
 > https://news.ycombinator.com/item?id=34161081
-
-https://drew.shoes/posts/sup/ net send win
-> https://news.ycombinator.com/item?id=34157636
 
 https://github.com/AmineZouitine/rmt.rs Trash
 

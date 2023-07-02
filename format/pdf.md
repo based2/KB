@@ -20,6 +20,8 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://news.ycombinator.com/item?id=36543557
+
 https://nibblestew.blogspot.com/2023/06/pdf-subpage-navigation.html
 > https://news.ycombinator.com/item?id=36454556
 

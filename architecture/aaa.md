@@ -170,6 +170,9 @@ https://arxiv.org/pdf/2301.02432.pdf
 https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy
 > https://news.ycombinator.com/item?id=34810610
 
+https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/
+> https://news.ycombinator.com/item?id=36561974
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421

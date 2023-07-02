@@ -54,6 +54,20 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://news.ycombinator.com/item?id=36538344
+
+https://github.com/0xpayne/gpt-migrate
+> https://news.ycombinator.com/item?id=36558032
+
+https://about.gitlab.com/solutions/code-suggestions/
+> https://news.ycombinator.com/item?id=36524201
+
+https://martinfowler.com/articles/building-boba.html
+> https://news.ycombinator.com/item?id=36523480
+
+https://github.com/gorilla-llm/gorilla-cli
+> https://news.ycombinator.com/item?id=36524078
+
 https://devblogs.microsoft.com/visualstudio/github-copilot-visual-studio-intellisense/
 > https://news.ycombinator.com/item?id=36459827
 

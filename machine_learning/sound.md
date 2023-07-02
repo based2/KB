@@ -152,6 +152,9 @@ https://ddkang.github.io/blog/2023/06/13/fighting/
 https://www.techradar.com/news/meta-says-its-new-speech-generating-ai-tool-is-too-dangerous-to-release
 > https://news.ycombinator.com/item?id=36458366
 
+https://eddieonai.substack.com/p/ai-weekly-update-breaking-boundaries
+> https://news.ycombinator.com/item?id=36552075
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

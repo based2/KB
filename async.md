@@ -45,6 +45,8 @@ https://github.com/libuv/libuv/pull/3952
 https://www.collabora.com/news-and-blog/blog/2023/06/15/wireplumber-event-dispatcher-new-simplified-way-handling-pipewire-events/
 > https://news.ycombinator.com/item?id=36330541
 
+https://blog.yoshuawuyts.com/tree-structured-concurrency/
+
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815

@@ -118,6 +118,10 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://blog.jetbrains.com/go/2023/06/30/goland-2023-2-eap-7/
+
+https://blog.felixge.de/waiting-for-go1-21-execution-tracing-with-less-than-one-percent-overhead/
+
 https://xeiaso.net/blog/nosleep
 > https://news.ycombinator.com/item?id=36465085
 

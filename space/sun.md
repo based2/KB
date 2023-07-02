@@ -8,6 +8,9 @@ https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 > https://news.ycombinator.com/item?id=28864749
 
 # News
+https://www.astrobin.com/full/qti3dk/0/
+> https://news.ycombinator.com/item?id=36542673
+
 https://www.scientificamerican.com/article/our-sun-was-born-in-a-stellar-family-far-far-from-here/
 > https://news.ycombinator.com/item?id=35687813
 

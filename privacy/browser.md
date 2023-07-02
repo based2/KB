@@ -20,6 +20,9 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://gizmodo.com/3-billion-chrome-users-are-about-to-see-this-privacy-sa-1850595391
+> https://news.ycombinator.com/item?id=36551994
+
 https://www.neowin.net/news/edge-sends-images-you-view-online-to-microsoft-here-is-how-to-disable-that/
 > https://news.ycombinator.com/item?id=36295364
 

@@ -93,6 +93,8 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://quickwit.io/blog/compressed-indexable-bitset
+
 https://news.ycombinator.com/item?id=36345345
 
 https://news.ycombinator.com/item?id=36356876

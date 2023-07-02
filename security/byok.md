@@ -67,3 +67,5 @@ https://cloud.google.com/blog/products/identity-security/rsa-google-intel-confid
 https://services.google.com/fh/files/misc/intel_tdx_-_full_report_041423.pdf
 
 https://lwn.net/Articles/877607/ FIPS-compliant random numbers for the kernel
+
+https://www.theregister.com/2023/06/30/confidential_computing_standards/

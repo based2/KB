@@ -68,6 +68,14 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://db.cs.cmu.edu/mmap-cidr2022/
+> https://news.ycombinator.com/item?id=36563187
+
+https://databasearchitects.blogspot.com/2023/02/five-decades-of-database-research.html
+
+https://github.com/kkuchta/tabdb
+> https://news.ycombinator.com/item?id=36548055
+
 https://www.cs.cmu.edu/~pavlo/blog/2017/03/building-a-new-database-management-system-in-academia.html
 > https://news.ycombinator.com/item?id=36354981
 

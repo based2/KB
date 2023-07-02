@@ -16,7 +16,7 @@ https://github.com/deislabs/wagi WebAssembly Gateway Interface, Rust
 
 https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust
 
-# Compile
+# Compiler
 
 https://github.com/appcypher/awesome-wasm-langs
 
@@ -76,6 +76,15 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html
+> https://news.ycombinator.com/item?id=36556668
+
+https://www.neversaw.us/2023/06/30/understanding-wasm/part2/whence-wasm/
+> https://news.ycombinator.com/item?id=36550981
+
+https://wazero.io/
+> https://news.ycombinator.com/item?id=36551617
+
 https://www.infoworld.com/article/3700569/wasix-undermines-webassembly-system-interface-spec-bytecode-alliance-says.html
 
 https://surma.dev/things/rust-to-webassembly/

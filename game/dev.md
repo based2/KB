@@ -109,6 +109,15 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://opengoal.dev/blog/progress-report-june-2023/
+> https://news.ycombinator.com/item?id=36554172
+
+https://archive.org/details/far-cry-1.34-complete
+> https://news.ycombinator.com/item?id=36547801
+
+https://kaboomjs.com/blog/3000
+> https://news.ycombinator.com/item?id=36545357
+
 https://simondalvai.com/blog/godot-itchio-upload/
 > https://news.ycombinator.com/item?id=36466698
 

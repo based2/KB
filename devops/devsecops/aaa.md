@@ -37,6 +37,13 @@ https://anonymoushash.vmbrasseur.com/2023/04/24/software-bill-of-materials-sbom
 > https://news.ycombinator.com/item?id=35690258
 
 #
+https://github.com/jwilk/git-landmine
+> https://news.ycombinator.com/item?id=36556436 git integrated shell prompts for example are not safe to use in untrusted git repos.
+
+https://inbox.sourceware.org/overseers/ZJ3Tihvu6GbOb8%2FR@elastic.org/T/
+> https://sourceware.org/git/gitsigur.git
+> https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
+
 https://www.helpnetsecurity.com/2023/06/07/developers-security-tasks/
 >
 

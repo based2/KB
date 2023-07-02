@@ -1,3 +1,31 @@
+https://github.com/florylsk/RecycledInjector
+> https://www.reddit.com/r/netsec/comments/14olph5/fully_undetected_shellcode_loader_featuring_edr/
+
+https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/
+
+https://www.bleepingcomputer.com/news/security/cisa-issues-ddos-warning-after-attacks-hit-multiple-us-orgs/
+
+https://arstechnica.com/security/2023/06/torrent-of-image-based-phishing-emails-are-harder-to-detect-and-more-convincing/
+
+https://briarproject.org/news/2023-briar-mailbox-released/
+> https://news.ycombinator.com/item?id=36541798
+
+https://www.scmagazine.com/news/vulnerability-management/critical-authentication-bypass-found-in-arcserve-backup-system
+
+https://css-tricks.com/css-keylogger/
+
+https://github.com/JetP1ane/Callisto
+
+https://news.ycombinator.com/item?id=36542298
+
+https://www.theregister.com/2023/06/29/cwe_top_25_2023/
+
+https://news.ycombinator.com/item?id=36523774
+
+https://about.gitlab.com/blog/2023/06/29/fake-gitlab-job-scam/
+
+https://people.inf.ethz.ch/omutlu/pub/RowPress_isca23.pdf
+
 https://news.ycombinator.com/item?id=36466133
 
 https://www.federalregister.gov/documents/2023/05/03/2023-08929/incentives-for-advanced-cybersecurity-investment

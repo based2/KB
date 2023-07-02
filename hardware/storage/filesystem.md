@@ -48,6 +48,9 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/
+> https://lobste.rs/s/uz3afh/nfsv4_server_inside_freebsd_vnet_jail
+
 https://www.phoronix.com/news/XFS-Large-Extent-Counts
 
 https://github.com/philipl/pifs πfs

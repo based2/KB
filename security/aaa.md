@@ -93,6 +93,8 @@ https://www.researchgate.net/publication/304258841_Comparison_of_different_entro
 
 https://blog.cloudflare.com/inside-the-entropy/
 
+https://news.ycombinator.com/item?id=36560104
+
 # Antivirus
 https://raywoodcockslatest.wordpress.com/2021/06/13/bitdefender-criticism/
 > https://news.ycombinator.com/item?id=27509888

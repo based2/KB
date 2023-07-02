@@ -19,3 +19,5 @@ https://blogs.itemis.com/en/an-open-source-policy-language-for-attribute-stream-
 
 https://www.infoq.com/news/2023/02/aws-policy-language-cedar/
 > https://news.ycombinator.com/item?id=34865768
+
+https://github.com/ubicloud/ubicloud/blob/main/doc/authorization.md abac

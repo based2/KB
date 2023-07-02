@@ -134,8 +134,9 @@ https://www.dslreports.com/forum/wisp
 
 https://startyourownisp.com/
 
-#
-https://blog.cloudflare.com/introducing-radar-internet-quality-page/
+# I
+https://www.phonearena.com/news/verizon-outage-lasting-hours_id148539
+> https://news.ycombinator.com/item?id=36545700
 
 https://news.ycombinator.com/item?id=36370927
 
@@ -165,6 +166,22 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://puri.sm/posts/introducing-the-liberty-phone/
+> https://news.ycombinator.com/item?id=36543018
+
+https://www.scmp.com/news/china/science/article/3226159/china-uses-laser-10-times-faster-satellite-ground-communication-major-breakthrough
+
+https://virtuallyfun.com/2023/07/01/64bit-computing-on-a-budget/
+> https://news.ycombinator.com/item?id=36560242
+
+https://blog.cloudflare.com/introducing-radar-internet-quality-page/
+
+https://matan-h.com/google-has-a-secret-browser-hidden-inside-the-settings/
+> https://news.ycombinator.com/item?id=36478206
+
+https://techxplore.com/news/2023-06-lasers-enable-internet-backbone-satellite.html
+> https://news.ycombinator.com/item?id=36479716
+
 https://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html
 
 https://www.theregister.com/2023/06/02/amazon_mvno_us/

@@ -17,6 +17,8 @@ https://www.liftaircraft.com/
 https://www.flightreader.com/ dji
 > https://news.ycombinator.com/item?id=35859281
 
+https://petapixel.com/2023/02/16/researchers-turn-dead-birds-into-drones-that-could-spy-on-people/
+
 https://newatlas.com/drones/undefined-ion-propulsion-drone/
 
 https://www.theverge.com/2022/11/8/23447502/alphabet-wing-drones-doordash-air-logan-australia

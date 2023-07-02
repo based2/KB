@@ -1,3 +1,6 @@
+https://arstechnica.com/gadgets/2023/06/devs-find-that-vision-pro-cant-do-true-room-scale-vr-but-thats-no-surprise/
+> 
+
 https://www.macstories.net/news/developers-early-experiments-with-visionos/
 > https://news.ycombinator.com/item?id=36438736
 

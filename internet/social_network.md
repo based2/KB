@@ -62,6 +62,9 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 https://www.telnetbbsguide.com/
 
 # Incident
+https://kolektiva.social/@admin/110637031574056150
+> https://news.ycombinator.com/item?id=36553489
+
 https://www.theregister.com/2023/06/20/reddit_confirms_blackcat_extortion_attempt/
 > https://news.ycombinator.com/item?id=36415106
 
@@ -98,6 +101,16 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://gitlab.futo.org/polycentric/polycentric
+
+https://news.ycombinator.com/item?id=36554098
+
+https://sfba.social/@sysop408/110639474671754723
+> https://news.ycombinator.com/item?id=36553236
+> https://news.ycombinator.com/item?id=36553762
+
+https://thenewstack.io/how-hashyderm-scaled-up-after-elon-musk-twitter-takeover/
+
 https://lemmy.ml/post/1465740
 
 https://blog.mastodon.world/welcome-lemmy-world

@@ -1,3 +1,10 @@
+# Training
+
+# Inference
+Google TPU v4
+Telsa
+
+#
 https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html
 > https://news.ycombinator.com/item?id=36221010
 
@@ -20,3 +27,8 @@ https://github.com/apple/ml-ane-transformers
 https://www.phoronix.com/news/Qualcomm-QAIC-User-Space
 
 https://github.com/artyom-beilis/dlprimitives
+
+https://techcrunch.com/2023/06/30/secretive-hardware-startup-humanes-first-product-is-the-ai-pin/?guccounter=1
+
+https://www.mosaicml.com/blog/amd-mi250
+> https://news.ycombinator.com/item?id=36547406

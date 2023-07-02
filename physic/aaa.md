@@ -5,6 +5,10 @@ http://hyperphysics.phy-astr.gsu.edu/hbase/emcon.html#emcon
 
 https://www.theregister.com/2023/06/23/mit_superconducting_discovery/
 
+https://news.ycombinator.com/item?id=36499875
+
+https://news.ycombinator.com/item?id=36499884
+
 https://ptable.com/#Propri%C3%A9t%C3%A9s
 
 https://news.uchicago.edu/story/tempest-teacup-uchicago-physicists-make-breakthrough-creating-turbulence

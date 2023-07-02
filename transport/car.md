@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.bloomberg.com/news/articles/2023-06-26/china-s-gac-unveils-world-s-first-ammonia-car-engine
+> https://news.ycombinator.com/item?id=36535676
+
 https://www.theverge.com/2023/6/20/23767041/tesla-hacker-elon-mode-hands-free-full-self-driving-autopilot
 > https://news.ycombinator.com/item?id=36412170
 

@@ -27,6 +27,12 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.cointime.com/flash-news/the-cross-15135
+> https://news.ycombinator.com/item?id=36557859
+
+https://phillips.technology/blog/huobi-crypto-aws/
+> https://www.reddit.com/r/netsec/comments/14mxf4h/huobis_leaky_bucket_risked_massive_crypto_breach/
+
 https://www.reuters.com/technology/urgent-binance-sec-strike-deal-move-all-us-customer-funds-wallet-keys-back-2023-06-17/
 
 https://www.theblock.co/post/232751/binance-privacy-coins-delisting-europe

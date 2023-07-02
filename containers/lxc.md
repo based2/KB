@@ -23,3 +23,5 @@ https://www.adaltas.com/en/2022/05/13/nixos-flakes-lxd-vm/
 
 https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-another-lxc-container
 > https://news.ycombinator.com/item?id=35451863
+
+https://github.com/canonical/lxd-ui

@@ -103,6 +103,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.theregister.com/2023/06/29/apple_online_safety_bill_opposition/
+
 https://ilga.gov/legislation/fulltext.asp?DocName=&SessionId=112&GA=103&DocTypeId=HB&DocNum=3902&GAID=17&LegID=149171&SpecSess=&Session=
 > https://news.ycombinator.com/item?id=36359296
 

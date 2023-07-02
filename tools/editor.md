@@ -261,6 +261,8 @@ https://github.com/susam/devil
 
 https://www.masteringemacs.org/article/how-to-get-started-tree-sitter
 
+https://github.com/p3r7/awesome-elisp
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

@@ -106,6 +106,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://sqlpkg.org/
+> https://news.ycombinator.com/item?id=36549808
+
 https://fly.io/ruby-dispatch/smooth-fly-dev/
 > https://news.ycombinator.com/item?id=36443596
 

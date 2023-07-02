@@ -96,6 +96,12 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/
+> https://news.ycombinator.com/item?id=36546838
+
+https://twitter.com/rocky_linux/status/1674368033438199809
+> https://news.ycombinator.com/item?id=36525962
+
 https://linuxfr.org/news/l-affaire-des-sources-memo-des-clones-de-red-hat-entreprise-linux-rhel
 
 https://sfconservancy.org/blog/2023/jun/23/rhel-gpl-analysis/

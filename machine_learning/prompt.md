@@ -56,3 +56,10 @@ https://resources.wolframcloud.com/PromptRepository/
 
 https://yonom.substack.com/p/native-json-output-from-gpt-4
 > https://news.ycombinator.com/item?id=36330972
+
+https://cleanlab.ai/blog/prompt-selection/
+> https://news.ycombinator.com/item?id=36523647
+
+https://prompthub.deepset.ai/
+
+https://matt-rickard.com/personal-lessons-from-llms

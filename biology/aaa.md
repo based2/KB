@@ -44,6 +44,11 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.livescience.com/health/genetics/meet-fanzor-the-1st-crispr-like-system-found-in-complex-life
+> https://news.ycombinator.com/item?id=36545339
+
+https://www.biorxiv.org/content/10.1101/2023.06.07.544109v1
+
 https://www.cell.com/cell/fulltext/S0092-8674(23)00523-8
 > https://news.ycombinator.com/item?id=36278739
 

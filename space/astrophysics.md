@@ -61,6 +61,12 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://www.nature.com/articles/d41586-023-02167-7
+> https://news.ycombinator.com/item?id=36520925
+
+https://drexel.edu/news/archive/2023/June/Drexel-Physicists-Produce-New-Images-of-Milky-Way-Galaxy
+> https://news.ycombinator.com/item?id=36525455
+
 https://avi-loeb.medium.com/we-have-discovered-spherules-from-the-path-of-the-first-recognized-interstellar-meteor-im1-d6cd94946b53
 > https://news.ycombinator.com/item?id=36417585
 

@@ -35,6 +35,8 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://github.com/Avicted/Skogsnet
+
 https://intergalactic.systems/posts/post-1965946732.html
 > https://news.ycombinator.com/item?id=36467043
 

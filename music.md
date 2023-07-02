@@ -123,6 +123,9 @@ https://www.ableton.com/en/push/
 https://daily.jstor.org/tape-heads/
 > https://news.ycombinator.com/item?id=36436088
 
+https://www.maxlaumeister.com/tonematrix/
+> https://news.ycombinator.com/item?id=36524055
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084
@@ -210,6 +213,9 @@ https://justune.eu/#/ I made a guitar tuner app using Flutter and Rust
 > https://news.ycombinator.com/item?id=33150260
 
 https://guitarix.org/
+
+https://chord-alt.vercel.app/
+> https://news.ycombinator.com/item?id=36497414
 
 https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6
 > https://news.ycombinator.com/item?id=30467328

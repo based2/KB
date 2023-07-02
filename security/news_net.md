@@ -3,7 +3,14 @@ https://suricata.io/
 https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 
+https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wifi-access-points-on-open-networks/
+> https://github.com/SpiderLabs/snappy
+
 #
+https://github.com/mouldybread/DCS-6100LH
+
+https://cybergeeks.tech/a-technical-analysis-of-the-saltwater-backdoor-used-in-barracuda-0-day-vulnerability-cve-2023-2868-exploitation/
+
 https://www.heise.de/news/Sicherheitsluecke-Exploit-Code-fuer-Cisco-AnyConnect-und-Secure-Client-9195908.html
 
 https://httptoolkit.com/blog/bunny-cdn-caching-vulnerability/

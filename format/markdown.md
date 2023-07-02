@@ -75,3 +75,9 @@ https://editor.vrite.io/
 
 https://commonmark.org/help/tutorial/index.html
 > https://news.ycombinator.com/item?id=36463625
+
+https://rust-lang.github.io/mdBook/
+> https://news.ycombinator.com/item?id=36528984
+
+https://johnmacfarlane.net/beyond-markdown.html
+> https://news.ycombinator.com/item?id=36556261

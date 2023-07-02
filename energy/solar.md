@@ -18,6 +18,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/
+> 
+
 https://colorandcontrast.com/#/
 > https://news.ycombinator.com/item?id=36449072
 

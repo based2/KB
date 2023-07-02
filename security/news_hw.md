@@ -2,6 +2,14 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://eprint.iacr.org/2023/923 Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED
+> https://news.ycombinator.com/item?id=36526023
+
+https://arxiv.org/abs/2306.16391 m1
+
+https://arxiv.org/abs/2306.17061
+> https://news.ycombinator.com/item?id=36552549
+
 https://dl.acm.org/doi/pdf/10.1145/3593856.3595903
 > https://news.ycombinator.com/item?id=36446787
 

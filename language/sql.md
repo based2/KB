@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://databasearchitects.blogspot.com/2015/01/fun-with-char.html
+> https://news.ycombinator.com/item?id=36518026
+
 https://modern-sql.com/concept/null
 
 https://antonz.org/fancy-ql/

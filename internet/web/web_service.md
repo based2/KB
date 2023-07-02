@@ -11,6 +11,8 @@ https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/
 https://hurl.dev/index.html
 > https://news.ycombinator.com/item?id=28758226
 > https://news.ycombinator.com/item?id=33744106
+> https://hurl.dev/blog/2023/06/30/announcing-hurl-4.0.0.html
+> > https://news.ycombinator.com/item?id=36539144
 
 https://curlconverter.com/
 > https://news.ycombinator.com/item?id=30642281

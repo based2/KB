@@ -13,6 +13,11 @@ https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysi
 https://people.csail.mit.edu/rivest/pubs/SRA81.pdf
 > https://news.ycombinator.com/item?id=27734693
 
+https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf
+> https://news.ycombinator.com/item?id=36557077
+
+https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf
+
 https://arxiv.org/abs/2107.04940 You Really Shouldn't Roll Your Own Crypto: An Empirical Study of Vulnerabilities in Cryptographic Libraries
 > https://news.ycombinator.com/item?id=27947661
 

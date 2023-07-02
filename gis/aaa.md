@@ -221,6 +221,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://arxiv.org/abs/2306.00020
+
+https://hivekit.io/
+> https://news.ycombinator.com/item?id=36519393
+
 https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/
 > https://news.ycombinator.com/item?id=36159864
 

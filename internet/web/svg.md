@@ -78,3 +78,6 @@ https://www.crunchydata.com/blog/svg-images-from-postgis
 > https://news.ycombinator.com/item?id=36139042
 
 https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use/
+
+https://kurtextrem.de/posts/svg-in-js
+> https://news.ycombinator.com/item?id=36559254

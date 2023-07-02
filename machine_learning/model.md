@@ -17,6 +17,8 @@ https://github.com/openlm-research/open_llama
 https://huggingface.co/openlm-research/open_llama_13b
 > https://news.ycombinator.com/item?id=36381136
 
+https://github.com/ggerganov/llama.cpp/pull/2059
+
 https://stability.ai/blog/stablevicuna-open-source-rlhf-chatbot NonCommercial
 
 https://bair.berkeley.edu/blog/2023/04/03/koala/
@@ -82,6 +84,10 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://news.ycombinator.com/item?id=36536847
+
+https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-new-and-updated-models-to-azure-openai-service/ba-p/3860351
+
 https://github.com/Barqawiz/IntelliNode
 
 https://learn.microsoft.com/en-us/semantic-kernel/overview/

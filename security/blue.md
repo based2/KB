@@ -65,3 +65,7 @@ https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home
 https://archive.org/details/shmoocon2023/Shmoocon2023-Brandon_DeVault-Les_Miserable_Persistence-Hunting_Through_Scheduled_Tasks.mp4
 > https://learn.microsoft.com/en-en/sysinternals/downloads/sysmon
 > https://github.com/Oofles/scheduled-tasks
+
+https://www.thefinalhop.com/decoy-defenses-how-honeypots-sweeten-cybersecurity-strategies/
+
+https://github.com/mschwager/route-detect

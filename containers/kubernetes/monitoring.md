@@ -25,3 +25,10 @@ https://www.cncf.io/blog/2023/03/13/how-to-use-kubernetes-events-for-effective-a
 
 https://www.reddit.com/r/programming/comments/12sridb/introducing_flora_newly_launched_ebpf/
 
+https://skywalking.apache.org/docs/main/next/en/setup/backend/backend-k8s/
+> https://armeria.dev/
+
+https://skywalking.apache.org/docs/main/next/en/setup/backend/backend-k8s-monitoring/
+
+
+

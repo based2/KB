@@ -43,6 +43,11 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://www.abuseipdb.com/whois/2600:1901:0:38d7::
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1823332
+> https://news.ycombinator.com/item?id=36543834
+
 https://github.com/Alex313031/thorium/releases/tag/M114.0.5735.134
 > https://news.ycombinator.com/item?id=36455533
 

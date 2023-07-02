@@ -86,6 +86,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://news.ycombinator.com/item?id=36543540
+
 https://news.ycombinator.com/item?id=36468535
 
 https://github.com/arwes/arwes

@@ -22,6 +22,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/
+> https://news.ycombinator.com/item?id=36542937
+
 https://www.janestreet.com/tech-talks/playing-atari-games-in-ocaml/
 > https://news.ycombinator.com/item?id=36336519
 

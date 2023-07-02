@@ -71,6 +71,8 @@ https://blog.vuejs.org/posts/2022-year-in-review.html
 
 https://github.com/webfansplz/vite-plugin-vue-devtools
 
+https://github.com/rustq/vue-skia
+
 ## ReactJS - Facebook
 https://github.com/reactjs/react-basic
 
