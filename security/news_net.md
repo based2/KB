@@ -7,6 +7,9 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 > https://github.com/SpiderLabs/snappy
 
 #
+https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145
+> https://news.ycombinator.com/item?id=36615849
+
 https://github.com/mouldybread/DCS-6100LH
 
 https://cybergeeks.tech/a-technical-analysis-of-the-saltwater-backdoor-used-in-barracuda-0-day-vulnerability-cve-2023-2868-exploitation/

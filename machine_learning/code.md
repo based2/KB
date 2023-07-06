@@ -54,6 +54,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://twitter.com/OpenAI/status/1677015057316872192
+> https://news.ycombinator.com/item?id=36620434
+
 https://news.ycombinator.com/item?id=36538344
 
 https://github.com/0xpayne/gpt-migrate

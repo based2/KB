@@ -173,6 +173,9 @@ https://www.phoronix.com/news/Intel-AVX-512-Quicksort-Numpy
 https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructions/
 > https://news.ycombinator.com/item?id=36561974
 
+https://owen.cafe/posts/six-times-faster-than-c/
+> https://news.ycombinator.com/item?id=36618344
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -286,6 +289,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html
+> https://news.ycombinator.com/item?id=36621263
+
 https://agiledata.org/essays/classNormalization.html
 > https://news.ycombinator.com/item?id=36448523
 

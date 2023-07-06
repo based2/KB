@@ -43,6 +43,9 @@ https://research.kudelskisecurity.com/2022/05/11/practical-bruteforce-of-aes-102
 ## AES-GCM
 https://news.ycombinator.com/item?id=27338479
 
+https://words.filippo.io/dispatches/xaes-256-gcm-11/
+> https://news.ycombinator.com/item?id=36620969
+
 #
 https://eprint.iacr.org/2021/442
 
@@ -178,6 +181,9 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://a16zcrypto.com/posts/article/building-cicada-private-on-chain-voting-using-time-lock-puzzles/
+> https://news.ycombinator.com/item?id=36607081
+
 https://people.seas.harvard.edu/~salil/research/timelock-abs.html
 > https://news.ycombinator.com/item?id=36380592
 

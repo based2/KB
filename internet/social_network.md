@@ -101,6 +101,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://twitter.com/llanga/status/1676846870520291329
+> https://news.ycombinator.com/item?id=36612835
+
 https://gitlab.futo.org/polycentric/polycentric
 
 https://news.ycombinator.com/item?id=36554098

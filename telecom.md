@@ -135,6 +135,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams
+> https://news.ycombinator.com/item?id=36619187
+
 https://www.phonearena.com/news/verizon-outage-lasting-hours_id148539
 > https://news.ycombinator.com/item?id=36545700
 

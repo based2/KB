@@ -13,6 +13,9 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://openai.com/blog/gpt-4-api-general-availability
+> https://news.ycombinator.com/item?id=36621120
+
 https://news.ycombinator.com/item?id=36556293
 
 https://news.ycombinator.com/item?id=36422730

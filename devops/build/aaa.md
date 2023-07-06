@@ -6,6 +6,8 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://www.tweag.io/blog/2023-07-06-buck2/
+
 https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/
 > https://news.ycombinator.com/item?id=36466958
 

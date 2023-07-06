@@ -176,6 +176,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://news.ycombinator.com/item?id=36613106
+
 https://httptoolkit.com/blog/http-search-method/
 > https://news.ycombinator.com/item?id=36095032
 

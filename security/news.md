@@ -1,3 +1,5 @@
+https://vigilance.fr/vulnerability/Xstream-code-execution-via-unmarshaling-41663
+
 https://github.com/florylsk/RecycledInjector
 > https://www.reddit.com/r/netsec/comments/14olph5/fully_undetected_shellcode_loader_featuring_edr/
 
@@ -3823,6 +3825,7 @@ https://nolanlawson.com/2021/12/17/introducing-fuite-a-tool-for-finding-memory-l
 
 https://csrc.nist.gov/publications/detail/sp/800-160/vol-2-rev-1/final
 
+NSO
 https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4shell
 > https://www.alibabacloud.com/blog/zero-day-attack-analysis-and-dissemination-method-disclosure-for-hadoop-yarn-rpc_598248
 > > https://www.cyberkendra.com/2021/12/worst-log4j-rce-zeroday-dropped-on.html
@@ -3916,6 +3919,7 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > https://thenewstack.io/log4j-the-pain-just-keeps-going-and-going/
 > > https://news.ycombinator.com/item?id=32155610
 > https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA(2022)733637
+> https://www.theguardian.com/us-news/2023/jun/29/israel-nso-surveillance-spyware-pegasus-simonds-biden-national-security
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

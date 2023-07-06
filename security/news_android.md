@@ -12,6 +12,8 @@ https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
+https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684
+
 https://www.thefinalhop.com/fluhorse-the-flutter-based-android-malware-thats-raising-eyebrows/
 > https://news.ycombinator.com/item?id=36545929
 

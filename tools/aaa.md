@@ -78,3 +78,6 @@ https://cirw.in/blog/bracketed-paste
 
 https://github.com/izabera/cube.sed
 > https://news.ycombinator.com/item?id=36258925
+
+https://ianthehenry.com/posts/my-kind-of-repl/
+> https://news.ycombinator.com/item?id=36600639

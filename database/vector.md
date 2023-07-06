@@ -9,3 +9,6 @@ https://zilliz.com/blog/scalar-quantization-and-product-quantization
 
 https://fennel.ai/blog/vector-search-in-200-lines-of-rust/
 > https://news.ycombinator.com/item?id=36338365
+
+https://twitter.com/elamje/status/1677020153161080853
+> https://news.ycombinator.com/item?id=36620562

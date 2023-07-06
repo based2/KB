@@ -127,6 +127,9 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.
 https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf
 > https://news.ycombinator.com/item?id=28750103
 
+https://distributed-computing-musings.com/2023/04/vector-clocks-so-what-time-is-it/
+> https://news.ycombinator.com/item?id=36584809
+
 # Database
 https://dbos-project.github.io/blog/intro-blog.html
 > https://news.ycombinator.com/item?id=32705025

@@ -144,6 +144,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://news.ycombinator.com/item?id=36563467
+
 https://deno.com/blog/2023-06-25-outage-post-mortem
 > https://news.ycombinator.com/item?id=36549077
 
@@ -277,13 +279,17 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://fly.io/blog/litefs-cloud/
+> https://news.ycombinator.com/item?id=36602970
+
+https://news.ycombinator.com/item?id=36617433
+
 https://dropbox.tech/infrastructure/how-the-data-center-site-selection-process-works-at-dropbox
 > https://news.ycombinator.com/item?id=36505502
 
 https://9to5mac.com/2023/06/28/moving-data-from-icloud-law/
 
 https://github.com/rcarmo/ground-init local cloud-init
->
 
 https://world.hey.com/dhh/we-have-left-the-cloud-251760fb
 

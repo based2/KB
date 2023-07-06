@@ -27,6 +27,9 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://blog.everstrike.io/wash-trading-gone-wrong-how-a-crypto-exchange-accidentally-obliterated-itself/
+> https://news.ycombinator.com/item?id=36610006
+
 https://www.cointime.com/flash-news/the-cross-15135
 > https://news.ycombinator.com/item?id=36557859
 

@@ -43,6 +43,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://www.igalia.com/chats/ladybird
+https://news.ycombinator.com/item?id=36620450
+
 https://www.abuseipdb.com/whois/2600:1901:0:38d7::
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1823332

@@ -40,10 +40,21 @@ https://mnlipp.github.io/jgrapes/
 
 https://r2dbc.io/2021/08/31/r2dbc-0.9.m2-available
 
+https://github.com/helidon-io/helidon/blob/helidon-3.x/CHANGELOG.md
+
 # Test
 https://github.com/awaitility/awaitility
 
 # News
+https://medium.com/helidon/helidon-mysql-document-store-cdc254a6b32f
+
+https://medium.com/helidon/helidon-4-0-0-alpha4-release-d113a9079a97
+
+https://quarkus.io/quarkus3/
+
+https://vertx.io/blog/eclipse-vert-x-4-4-4/
+> https://github.com/vert-x3/wiki/wiki/4.4.4-Release-Notes
+
 https://mail.openjdk.org/pipermail/loom-dev/2023-May/005509.html
 
 https://blog.fastthread.io/2023/02/28/pitfalls-to-avoid-when-switching-to-virtual-threads/

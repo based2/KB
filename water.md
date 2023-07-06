@@ -154,3 +154,6 @@ https://www.livescience.com/planet-earth/antarctica/climate-change-could-trigger
 https://yro.slashdot.org/story/23/06/02/2112207/arizona-limits-construction-around-phoenix-as-its-water-supply-dwindles
 
 https://www.theguardian.com/environment/2023/jun/02/dupont-pfas-settlement-water-chemical-contamination
+
+https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult
+> https://news.ycombinator.com/item?id=36602909

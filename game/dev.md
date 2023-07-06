@@ -109,6 +109,14 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://nik-os.com/agl/00_intro.html
+
+https://github.com/raysan5/raylib
+> https://news.ycombinator.com/item?id=36583743
+
+https://godotengine.org/article/godot-4-1-is-here/
+> https://news.ycombinator.com/item?id=36614114
+
 https://opengoal.dev/blog/progress-report-june-2023/
 > https://news.ycombinator.com/item?id=36554172
 

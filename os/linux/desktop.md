@@ -97,6 +97,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.omgubuntu.co.uk/2023/07/ubuntu-23-10-new-app-store-deb-support
+
 https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph
 
 https://www.linuxmint.com/rel_victoria_cinnamon_whatsnew.php

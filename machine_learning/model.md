@@ -84,6 +84,16 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://sidsite.com/posts/bpe/
+> https://news.ycombinator.com/item?id=36596302
+
+https://github.com/InternLM/InternLM
+> https://news.ycombinator.com/item?id=36612306
+
+https://sidsite.com/posts/bpe/
+
+https://github.com/artidoro/qlora
+
 https://news.ycombinator.com/item?id=36536847
 
 https://techcommunity.microsoft.com/t5/ai-cognitive-services-blog/introducing-new-and-updated-models-to-azure-openai-service/ba-p/3860351

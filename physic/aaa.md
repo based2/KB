@@ -1,5 +1,8 @@
 https://ophysics.com/index.html
 
+https://news.mit.edu/2023/mit-physicists-generate-first-snapshots-fermion-pairs-0706
+> https://news.ycombinator.com/item?id=36620413
+
 http://hyperphysics.phy-astr.gsu.edu/hbase/emcon.html#emcon
 > https://news.ycombinator.com/item?id=28285808
 

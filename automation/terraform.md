@@ -119,7 +119,9 @@ https://github.com/PacoVK/tapir registry
 
 https://servian.dev/terraform-local-providers-and-registry-mirror-configuration-b963117dfffa
 
-https://github.com/philips-labs/terraform-registry?utm_source=www.weekly.tf
+https://github.com/philips-labs/terraform-registry github
+
+https://github.com/devoteamgcloud/petra gcp
 
 # AWS
 https://www.hashicorp.com/blog/terraform-aws-provider-5-0-adds-updates-to-default-tags
@@ -219,6 +221,8 @@ https://www.tecracer.com/blog/2023/05/terraform-ci/cd-pipelines-use-aws-codepipe
 
 https://medium.com/@hettiarachchi.yashodha/enforcing-machine-to-machine-authentication-for-services-behind-an-aws-alb-part-2-e06707e6f366 m2m authn
 
+https://itnext.io/efficient-kubernetes-cluster-deployment-accelerating-setup-with-eks-blueprints-68324b582ec9
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -267,6 +271,8 @@ https://github.com/cisco-open/stacks
 
 https://github.com/jaceq/terraeasy
 
+https://github.com/spilliams/terrascope monorepo
+
 # testing
 https://github.com/cloud-custodian/pytest-terraform
 
@@ -277,6 +283,10 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://grem1.in/post/terraform-lockfiles-maxymvlasov/
+
+https://github.com/iangrunt/terraform-console-example for each debug
+
 https://medium.com/@ladibnasr/enforcing-secure-and-cost-effective-infrastructure-as-code-with-terraform-opa-and-infracost-22b4b4c880c2
 
 https://medium.com/@arniesaha/reusing-existing-terraform-state-while-migrating-to-crossplane-ea50a492bb61

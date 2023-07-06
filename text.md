@@ -142,6 +142,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/
+> https://news.ycombinator.com/item?id=36616799
+
 https://evanhahn.com/utf-21/
 > https://news.ycombinator.com/item?id=36269343
 

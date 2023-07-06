@@ -38,6 +38,8 @@ https://en.wikipedia.org/wiki/Trust_on_first_use
 https://www.schneier.com/academic/archives/1999/12/attack_trees.html
 
 # Identity
+https://www.identityblog.com/?p=352
+
 https://thenewstack.io/did-you-hear-decentralized-identifiers-are-coming/
 > https://www.w3.org/TR/did-core/
 

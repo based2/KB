@@ -139,6 +139,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676
+
 https://news.ycombinator.com/item?id=36523843
 
 https://www.bleepingcomputer.com/news/security/microsoft-teams-bug-allows-malware-delivery-from-external-accounts/
@@ -403,6 +405,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/Flet/rejected-github-profile-achievements
+> https://news.ycombinator.com/item?id=36607439
+
 https://www.softwareatscale.dev/p/quadratic-ci-cost-growth
 
 https://wiringbits.net/blog/github-repository-setup

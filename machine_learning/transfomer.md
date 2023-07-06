@@ -20,6 +20,9 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://arxiv.org/abs/2307.02486
+> https://news.ycombinator.com/item?id=36614774
+
 https://news.ycombinator.com/item?id=36450942
 
 https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/

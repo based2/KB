@@ -20,6 +20,13 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://research.wmz.ninja/projects/phd/index.html
+> https://news.ycombinator.com/item?id=36597534
+
+https://www.timeextension.com/features/the-making-of-noctis-the-no-mans-sky-forerunner-whose-creator-retreated-from-the-world
+> https://news.ycombinator.com/item?id=36610343
+> https://80.style/
+
 https://roguetemple.com/z/hyper/dev.php How to create a game using hyperbolic geometry?
 > https://news.ycombinator.com/item?id=36448270
 
