@@ -317,6 +317,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://discuss.python.org/t/a-fast-free-threading-python/27903/99
+> https://news.ycombinator.com/item?id=36643670
+
 https://til.simonwillison.net/python/stdlib-cli-tools
 > https://news.ycombinator.com/item?id=36515531
 

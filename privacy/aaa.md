@@ -103,6 +103,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://mastodon.gamedev.place/@Nifflas/110668040598715116
+> https://news.ycombinator.com/item?id=36644895
+
+https://security.stackexchange.com/questions/271146/spying-on-a-smartphone-remotely-by-the-authorities-feasibility-and-operation
+> https://news.ycombinator.com/item?id=36644952
+
 https://news.ycombinator.com/item?id=36616037
 
 https://arxiv.org/abs/2307.00143

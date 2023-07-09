@@ -42,6 +42,9 @@ https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1
 # Worm
 https://news.ycombinator.com/item?id=29045198
 
+https://github.com/openworm/OpenWorm  the first comprehensive computational Caenorhabditis elegans (C. elegans)
+> https://news.ycombinator.com/item?id=36628258
+
 # News
 https://www.u-tokyo.ac.jp/focus/en/press/z0508_00289.html
 > https://news.ycombinator.com/item?id=36451924

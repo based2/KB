@@ -176,6 +176,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/
+> https://news.ycombinator.com/item?id=36641607
+
 https://news.ycombinator.com/item?id=36613106
 
 https://httptoolkit.com/blog/http-search-method/

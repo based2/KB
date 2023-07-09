@@ -3,3 +3,5 @@ https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/lambda-calculus-hando
 
 https://mvanier.livejournal.com/2897.html Y combinator
 > https://news.ycombinator.com/item?id=27673177
+
+https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html

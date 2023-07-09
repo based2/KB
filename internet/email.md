@@ -166,6 +166,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://jfloren.net/b/2023/7/7/0 pgp
+> https://news.ycombinator.com/item?id=36639530
+
 https://www.mail-archive.com/misc@opensmtpd.org/msg05909.html
 
 https://www.windowscentral.com/software-apps/office-365/new-desktop-outlook-is-a-bad-idea-heres-why

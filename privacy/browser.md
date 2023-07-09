@@ -1,3 +1,9 @@
+https://addons.mozilla.org/en-US/firefox/addon/qwantcom-for-firefox/
+
+
+
+
+
 https://privacybadger.org/
 > https://news.ycombinator.com/item?id=31677745
 
@@ -20,6 +26,9 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://brave.com/privacy-updates/27-localhost-permission/
+> https://news.ycombinator.com/item?id=36574775
+
 https://gizmodo.com/3-billion-chrome-users-are-about-to-see-this-privacy-sa-1850595391
 > https://news.ycombinator.com/item?id=36551994
 

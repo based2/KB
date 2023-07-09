@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://joonaa.dev/blog/02/bevy-xpbd-0-1-0
+> https://news.ycombinator.com/item?id=36642867
+
 https://nik-os.com/agl/00_intro.html
 
 https://github.com/raysan5/raylib

@@ -83,6 +83,7 @@ https://calver.org/
 https://lumosql.org/src/not-forking/doc/trunk/README.md
 
 https://0ver.org/
+> https://news.ycombinator.com/item?id=36641226
 > https://news.ycombinator.com/item?id=28154187
 
 https://alexgaynor.net/2021/oct/07/whats-in-a-version-number/
@@ -139,6 +140,20 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://status.gitlab.com/pages/incident/5b36dc6502d06804c08349f7/64a83eb2b0a484053ca79b8e
+> https://gitlab.com/gitlab-com/gl-infra/production/-/issues/15997
+> https://news.ycombinator.com/item?id=36634089
+> https://news.ycombinator.com/item?id=36634430
+> https://www.theregister.com/2023/07/07/gitlab_outage/
+
+https://www.theregister.com/2023/06/28/microsofts_github_gmp_project/
+
+https://intellij-support.jetbrains.com/hc/en-us/community/posts/8125278285586-Internal-Local-ports-63342-6942
+
+https://intellij-support.jetbrains.com/hc/en-us/community/posts/206339909-Stop-phpStorm-from-using-port-63342
+
+https://intellij-support.jetbrains.com/hc/en-us/community/posts/207027695-how-to-turn-on-rewrite-module-in-web-server-at-port-63342
+
 https://vigilance.fr/vulnerability/GitLab-CE-EE-group-modification-41676
 
 https://news.ycombinator.com/item?id=36523843
@@ -417,8 +432,6 @@ https://chadxz.dev/platform/
 
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ReportConfigFileLocations
 > https://news.ycombinator.com/item?id=36465886
-
-https://0ver.org/
 
 https://www.gameoftrees.org/
 > https://undeadly.org/cgi?action=article;sid=20230624054334

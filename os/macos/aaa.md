@@ -44,6 +44,10 @@ https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.h
 # Security
 https://support.apple.com/guide/security/sec469d47bd8/web
 
+nettop -l
+(sudo pfctl -sr 2>/dev/null; echo "block drop quick on lo0 proto tcp from any to any port = 63342") | sudo pfctl -ef -
+sudo pfctl -sr 2>/dev/null
+
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
 > https://news.ycombinator.com/item?id=31864974

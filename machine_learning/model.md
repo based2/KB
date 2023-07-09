@@ -14,6 +14,9 @@ https://www.reddit.com/r/LocalLLaMA/
 
 https://github.com/openlm-research/open_llama
 
+https://www.llamaindex.ai/
+> https://news.ycombinator.com/item?id=36641393
+
 https://huggingface.co/openlm-research/open_llama_13b
 > https://news.ycombinator.com/item?id=36381136
 
@@ -84,6 +87,9 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/
+> https://news.ycombinator.com/item?id=36642315
+
 https://sidsite.com/posts/bpe/
 > https://news.ycombinator.com/item?id=36596302
 

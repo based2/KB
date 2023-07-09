@@ -36,6 +36,11 @@ https://frida.re/news/2023/06/23/frida-16-1-0-released/
 > https://www.reddit.com/r/netsec/comments/14m1ikl/frida_1610_is_out_w_a_brand_new_backend_that/
 
 #
+https://fasterthanli.me/articles/cracking-electron-apps-open
+
+https://www.righto.com/2023/07/8086-pins.html
+> https://news.ycombinator.com/item?id=36645821
+
 https://github.com/DegateCommunity/Degate
 > https://news.ycombinator.com/item?id=36518085
 

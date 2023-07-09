@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://justinjaffray.com/joins-13-ways/?a=b
+> https://news.ycombinator.com/item?id=36575784
+
 https://databasearchitects.blogspot.com/2015/01/fun-with-char.html
 > https://news.ycombinator.com/item?id=36518026
 
