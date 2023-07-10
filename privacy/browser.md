@@ -1,8 +1,8 @@
 https://addons.mozilla.org/en-US/firefox/addon/qwantcom-for-firefox/
 
+https://github.com/mozilla/multi-account-containers/issues/303
 
-
-
+https://addons.mozilla.org/en-US/firefox/addon/containers-helper/
 
 https://privacybadger.org/
 > https://news.ycombinator.com/item?id=31677745

@@ -338,6 +338,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects
+> https://news.ycombinator.com/item?id=36662899
+
 https://verdagon.dev/blog/linear-types-borrowing
 > https://news.ycombinator.com/item?id=36156790
 

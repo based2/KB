@@ -162,10 +162,15 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 #
+https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird102.13
+
 https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/
+> 
+
 https://jfloren.net/b/2023/7/7/0 pgp
 > https://news.ycombinator.com/item?id=36639530
 

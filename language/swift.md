@@ -5,6 +5,9 @@ https://www.hackingwithswift.com/articles/258/whats-new-in-swift-5-9
 
 https://kean.blog/post/pulse-3
 
+https://holyswift.app/difference-between-implicit-and-explicit-animations-in-swiftui/
+> https://news.ycombinator.com/item?id=36655764
+
 https://forums.swift.org/t/vscode-swift-v1-0-0/62668
 > https://news.ycombinator.com/item?id=34466693
 

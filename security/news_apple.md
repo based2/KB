@@ -4,6 +4,9 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://www.bleepingcomputer.com/news/apple/apple-releases-emergency-update-to-fix-zero-day-exploited-in-attacks/
+> https://news.ycombinator.com/item?id=36672010
+
 https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-iphone-bugs-abused-in-spyware-attacks/
 
 https://www.washingtonpost.com/technology/2023/06/21/apple-hacks-russia-kaspersky-nsa/

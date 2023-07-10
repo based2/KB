@@ -466,6 +466,8 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://nnethercote.github.io/2023/07/11/codegen-units-in-the-rust-compiler.html
+
 https://cedwards.xyz/rusts-nightly-syndrome/
 > https://lobste.rs/s/x4fuzh/rust_s_nightly_syndrome
 

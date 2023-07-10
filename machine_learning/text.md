@@ -13,6 +13,8 @@ https://neeva.com/blog/introducing-neevaai
 > https://news.ycombinator.com/item?id=34332114
 
 # News
+https://news.ycombinator.com/item?id=36667374 danswer
+
 https://openai.com/blog/gpt-4-api-general-availability
 > https://news.ycombinator.com/item?id=36621120
 

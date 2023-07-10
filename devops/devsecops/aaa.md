@@ -16,6 +16,8 @@ https://justine.lol/make/ Using Landlock to Sandbox GNU Make
 > https://news.ycombinator.com/item?id=32376322
 
 # SBOM
+https://spdx.dev
+
 https://www.ntia.gov/files/ntia/publications/sbom_formats_survey-version-2021.pdf
 
 https://cyclonedx.org/specification/overview/
@@ -37,6 +39,8 @@ https://anonymoushash.vmbrasseur.com/2023/04/24/software-bill-of-materials-sbom
 > https://news.ycombinator.com/item?id=35690258
 
 #
+https://github.com/obi1kenobi/cargo-semver-checks
+
 https://github.com/jwilk/git-landmine
 > https://news.ycombinator.com/item?id=36556436 git integrated shell prompts for example are not safe to use in untrusted git repos.
 

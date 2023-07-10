@@ -1,3 +1,9 @@
+https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr
+> https://news.ycombinator.com/item?id=36668732
+
+https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/
+> https://news.ycombinator.com/item?id=36654471
+
 https://arstechnica.com/gadgets/2023/06/devs-find-that-vision-pro-cant-do-true-room-scale-vr-but-thats-no-surprise/
 > 
 

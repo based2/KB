@@ -94,6 +94,9 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://github.com/kubernetes/kubernetes/pull/116429
+> https://news.ycombinator.com/item?id=36663060
+
 https://blog.min.io/building-an-ml-training-pipeline-with-minio-and-kubeflow-v2-0/
 
 https://itnext.io/kubernetes-cost-optimization-made-easy-efficient-tools-for-streamlining-finops-be0b6a54d2bb

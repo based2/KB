@@ -181,6 +181,8 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://articles.59.ca/doku.php?id=em:20482030
+
 https://a16zcrypto.com/posts/article/building-cicada-private-on-chain-voting-using-time-lock-puzzles/
 > https://news.ycombinator.com/item?id=36607081
 

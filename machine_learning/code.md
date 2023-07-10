@@ -27,6 +27,7 @@ https://copilot.github.com/
 > https://news.ycombinator.com/item?id=35516887
 > https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not
 > > https://news.ycombinator.com/item?id=35657982
+> https://www.theregister.com/2023/07/01/microsoft_github_copilot/?td=keepreading
 
     https://github.com/github/copilot-docs/tree/main/docs
     > https://news.ycombinator.com/item?id=29016506

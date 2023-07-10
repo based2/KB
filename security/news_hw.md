@@ -2,6 +2,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://www.emproof.com/bypassing-readout-protection-in-nordic-semiconductor-microcontrollers/
+> https://news.ycombinator.com/item?id=36654372
+
 https://www.thefinalhop.com/the-spy-shadow-trojan-unveiling-the-first-uefi-motherboard-bios-trojan/
 
 https://eprint.iacr.org/2023/923 Video-Based Cryptanalysis: Extracting Cryptographic Keys from Video Footage of a Device’s Power LED

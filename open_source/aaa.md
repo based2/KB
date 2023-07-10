@@ -106,6 +106,9 @@ https://garage44.org/posts/pyrite/pyrite-conferencing.html
 https://illlustrations.co/
 > https://news.ycombinator.com/item?id=28349738
 
+https://github.com/Shelf-nu/shelf.nu
+> https://news.ycombinator.com/item?id=36666702
+
 ## System
 https://www.7-zip.org/download.html
 

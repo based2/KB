@@ -4,6 +4,9 @@ https://xenbits.xen.org/gitweb/?p=xen.git;a=log;h=refs/tags/RELEASE-4.17.1
 
 https://www.phoronix.com/news/Xen-Rust-Start
 
+https://jvns.ca/blog/2023/07/10/lima--a-nice-way-to-run-linux-vms-on-mac/
+> https://news.ycombinator.com/item?id=36668964
+
 https://www.systanddeploy.com/2023/06/runinsandbox-quick-way-to-runextract.html
 > https://news.ycombinator.com/item?id=36462508
 

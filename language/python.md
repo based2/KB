@@ -317,6 +317,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/
+> https://news.ycombinator.com/item?id=36663509
+
 https://discuss.python.org/t/a-fast-free-threading-python/27903/99
 > https://news.ycombinator.com/item?id=36643670
 

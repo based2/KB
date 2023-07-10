@@ -611,6 +611,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://dodov.dev/blog/origins-of-jsx-and-why-it-exists
+> https://news.ycombinator.com/item?id=36666485
+
 https://nextjs.org/blog/june-2023-update
 > https://news.ycombinator.com/item?id=36440575
 

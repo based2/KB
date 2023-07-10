@@ -81,3 +81,6 @@ https://developer.chrome.com/blog/migrate-way-from-data-urls-in-svg-use/
 
 https://kurtextrem.de/posts/svg-in-js
 > https://news.ycombinator.com/item?id=36559254
+
+https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/
+> https://news.ycombinator.com/item?id=36664604

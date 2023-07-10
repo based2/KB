@@ -129,6 +129,9 @@ https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37968
 
 # News
+https://azure.microsoft.com/en-us/blog/dev-optimized-cloud-based-workstations-microsoft-dev-box-is-now-generally-available/
+> https://news.ycombinator.com/item?id=36671795
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-portal-outage-was-caused-by-traffic-spike-/
 
 https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/

@@ -383,6 +383,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://github.com/Open-Weights/Definition license
+> https://news.ycombinator.com/item?id=36654729
+
 https://ai.stanford.edu/courses/
 > https://news.ycombinator.com/item?id=36562502
 

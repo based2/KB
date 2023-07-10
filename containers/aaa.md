@@ -46,6 +46,10 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://hocus.dev/blog/qemu-vs-firecracker/
+> https://news.ycombinator.com/item?id=36666782
+> > https://qemu.readthedocs.io/en/latest/system/i386/microvm.html
+
 https://www.phoronix.com/news/OpenZFS-2.2-rc1
 
 https://rbranson.medium.com/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054

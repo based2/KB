@@ -64,6 +64,8 @@ https://drakerossman.com/blog/how-to-add-home-manager-to-nixos
 > https://news.ycombinator.com/item?id=36458780
 
 # Incident
+https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/?td=keepreading
+
 https://www.theregister.com/2023/06/02/novel_pypi_attack_reversinglabs/
 
 https://giraffesecurity.dev/posts/google-remote-code-execution/

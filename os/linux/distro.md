@@ -96,6 +96,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.oracle.com/news/announcement/blog/keep-linux-open-and-free-2023-07-10/
+> https://news.ycombinator.com/item?id=36667582
+
 https://www.theregister.com/2023/07/07/openkylin_is_ubuntu/
 
 https://hackaday.com/2023/06/30/rocky-strikes-back-at-red-hat/

@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://electroagenda.com/en/hilbert-transform/
+> https://news.ycombinator.com/item?id=36666260
+
 https://digilent.com/blog/whats-different-with-the-analog-discovery-3/
 > https://news.ycombinator.com/item?id=36461674
 
