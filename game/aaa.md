@@ -20,6 +20,9 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/
+> https://news.ycombinator.com/item?id=36680535
+
 https://news.ycombinator.com/item?id=36668472
 
 https://research.wmz.ninja/projects/phd/index.html

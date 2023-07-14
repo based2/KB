@@ -103,6 +103,13 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://arstechnica.com/tech-policy/2023/07/big-tech-can-transfer-europeans-data-to-us-in-win-for-facebook-and-google/
+> https://news.ycombinator.com/item?id=36678834
+
+https://news.ycombinator.com/item?id=36666807
+
+https://noyb.eu/en/privacy-shield-20-first-reaction-max-schrems
+
 https://mastodon.gamedev.place/@Nifflas/110668040598715116
 > https://news.ycombinator.com/item?id=36644895
 

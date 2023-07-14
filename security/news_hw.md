@@ -2,6 +2,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://github.com/grossartig/vanmoof-encryption-key-exporter
+> https://news.ycombinator.com/item?id=36719651
+
 https://www.emproof.com/bypassing-readout-protection-in-nordic-semiconductor-microcontrollers/
 > https://news.ycombinator.com/item?id=36654372
 

@@ -40,6 +40,9 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://xenocara.org/Wayland_on_OpenBSD.html
+> https://news.ycombinator.com/item?id=36659859
+
 https://marc.info/?l=openbsd-cvs&m=168861927203498&w=2 pfsync
 > https://news.ycombinator.com/item?id=36614897
 

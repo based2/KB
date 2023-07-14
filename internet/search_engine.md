@@ -93,6 +93,9 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://xata.io/blog/postgres-full-text-search-engine
+> https://news.ycombinator.com/item?id=36699016
+
 https://quickwit.io/blog/compressed-indexable-bitset
 
 https://news.ycombinator.com/item?id=36345345

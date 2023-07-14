@@ -324,6 +324,10 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://news.ycombinator.com/item?id=36718046
+
+https://news.ycombinator.com/item?id=36684866
+
 https://github.com/dkogan/feedgnuplot
 
 https://themarkup.org/hello-world/2023/07/01/what-are-data-clean-rooms

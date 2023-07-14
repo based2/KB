@@ -88,6 +88,9 @@ https://trunc.org/learning/everything-you-dont-need-to-know-about-nginx-error-lo
 https://nginx.org/en/CHANGES http3 experiment
 > https://news.ycombinator.com/item?id=36047524
 
+https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/
+> https://news.ycombinator.com/item?id=36648821
+
 ##
 https://caddyserver.com/
 > https://news.ycombinator.com/item?id=29378030

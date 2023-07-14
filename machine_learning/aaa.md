@@ -296,6 +296,9 @@ https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/
 > https://news.ycombinator.com/item?id=36335374
 
 # Incident
+https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai
+> https://news.ycombinator.com/item?id=36657540
+
 https://twitter.com/huggingface/status/1675242955962032129
 > https://news.ycombinator.com/item?id=36555455
 

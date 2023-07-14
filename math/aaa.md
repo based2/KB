@@ -144,6 +144,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=36659347
+
 https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/
 
 https://tilings.math.uni-bielefeld.de/

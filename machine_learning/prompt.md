@@ -63,3 +63,5 @@ https://cleanlab.ai/blog/prompt-selection/
 https://prompthub.deepset.ai/
 
 https://matt-rickard.com/personal-lessons-from-llms
+
+https://news.ycombinator.com/item?id=36677034

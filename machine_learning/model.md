@@ -87,6 +87,9 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://www.trygloo.com/blog/classify-text-llms-learnings
+> https://news.ycombinator.com/item?id=36681839
+
 https://developer.nvidia.com/blog/train-your-ai-model-once-and-deploy-on-any-cloud-with-nvidia-and-runai/
 > https://news.ycombinator.com/item?id=36642315
 

@@ -86,6 +86,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://web.dev/inp/
+> https://news.ycombinator.com/item?id=36682468
+
 https://news.ycombinator.com/item?id=36543540
 
 https://news.ycombinator.com/item?id=36468535

@@ -169,6 +169,11 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.tomshardware.com/news/li-fi-standard-released
+> https://news.ycombinator.com/item?id=36707789
+
+https://www.euractiv.com/section/digital/news/behind-europes-agenda-for-undersea-internet-cables/
+
 https://puri.sm/posts/introducing-the-liberty-phone/
 > https://news.ycombinator.com/item?id=36543018
 

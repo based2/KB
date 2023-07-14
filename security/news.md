@@ -1,3 +1,13 @@
+https://news.ycombinator.com/item?id=36690516
+
+https://cwe.mitre.org/top25/index.html
+> https://news.ycombinator.com/item?id=36707321
+
+https://www.bleepingcomputer.com/news/security/critical-rce-found-in-popular-ghostscript-open-source-pdf-library/
+> https://news.ycombinator.com/item?id=36715958
+
+https://news.ycombinator.com/item?id=36678795
+
 https://vigilance.fr/vulnerability/Xstream-code-execution-via-unmarshaling-41663
 
 https://github.com/florylsk/RecycledInjector
@@ -3920,6 +3930,8 @@ https://www.infosecurity-magazine.com/news/cryptojackers-disable-alibaba/ Log4sh
 > > https://news.ycombinator.com/item?id=32155610
 > https://www.europarl.europa.eu/thinktank/en/document/EPRS_ATA(2022)733637
 > https://www.theguardian.com/us-news/2023/jun/29/israel-nso-surveillance-spyware-pegasus-simonds-biden-national-security
+> https://daringfireball.net/linked/2020/04/04/facebook-nso-group
+> > https://news.ycombinator.com/item?id=36683199
 
 https://vigilance.fr/vulnerabilite/OpenSSL-vulnerabilite-devoilee-le-14-12-2021-37030
 > https://www.cert.ssi.gouv.fr/avis/CERTFR-2021-AVI-955/

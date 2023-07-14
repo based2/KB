@@ -134,6 +134,9 @@ https://puter.com/
 https://desktop.kerahq.com/
 > https://news.ycombinator.com/item?id=36260589
 
+https://buddypond.com
+> https://news.ycombinator.com/item?id=36714522
+
 # Forum
 https://github.com/Demindiro/agreper
 

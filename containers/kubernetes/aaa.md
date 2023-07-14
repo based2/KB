@@ -94,6 +94,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://github.com/kubero-dev/kubero gitops webhook?
+
 https://github.com/kubernetes/kubernetes/pull/116429
 > https://news.ycombinator.com/item?id=36663060
 

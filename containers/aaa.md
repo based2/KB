@@ -46,6 +46,9 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://container.training
+> https://news.ycombinator.com/item?id=36647211
+
 https://hocus.dev/blog/qemu-vs-firecracker/
 > https://news.ycombinator.com/item?id=36666782
 > > https://qemu.readthedocs.io/en/latest/system/i386/microvm.html

@@ -86,6 +86,9 @@ https://dropbear.sh/blog/elf-patching.html
 https://justine.lol/sizetricks/#elf
 > https://news.ycombinator.com/item?id=32642874
 
+https://nathanotterness.com/2021/10/tiny_elf_modernized.html
+> https://news.ycombinator.com/item?id=36662353
+
 # Window manager
 https://www.freedesktop.org/wiki/
 

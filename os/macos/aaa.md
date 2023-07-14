@@ -50,27 +50,6 @@ https://support.apple.com/guide/security/sec469d47bd8/web
 * Filter on loop back - port:63342 - IDE Jetbrains IDEA web server
     (sudo pfctl -sr 2>/dev/null; echo "block drop quick on lo0 proto tcp from any to any port = 63342") | sudo pfctl -ef -
 
-* Filter on loop back - port:444 - macOS sharingd.444
-    (sudo pfctl -sr 2>/dev/null; echo "block drop quick on 127.0.0.1 proto tcp from any to any port = 444") | sudo pfctl -ef -
-
-lessRadioMa.419                                                                                                                                       0 B             0 B
-   udp4 *:*<->*:*
-
-
-   rapportd.393                                                                                                                                              0 B             0 B
-      udp4 *:*<->*:*
-      udp4 *:*<->*:*
-   trustd.396                                                                                                                                               94 KiB          12 KiB
-   identityservice.400                                                                                                                                       0 B             0 B
-      udp4 *:*<->*:*
-   WiFiAgent.402                                                                                                                                             0 B             0 B
-      udp4 *:*<->*:*
-   assistantd.404                                                                                                                                           31 KiB        1958 B
-   ControlCenter.412                                                                                                                                         0 B             0 B
-      udp4 *:*<->*:*
-   WirelessRadioMa.419                                                                                                                                       0 B             0 B
-      udp4 *:*<->*:*
-
 * List PF filter rules
     sudo pfctl -sr 2>/dev/null
 
@@ -104,6 +83,8 @@ https://dortania.github.io/OpenCore-Legacy-Patcher/
 https://sveinbjorn.org/sloth lsof
 
 # Dev
+https://news.ycombinator.com/item?id=36658553
+
 https://news.ycombinator.com/item?id=35525047
 
 https://github.com/shapehq/tartelet github

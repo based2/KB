@@ -97,6 +97,12 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://linuxiac.com/linux-hits-3-percent-market-share/
+> https://news.ycombinator.com/item?id=36676103
+
+https://kde.org/en/for/travelers/
+> https://news.ycombinator.com/item?id=36651387
+
 https://www.omgubuntu.co.uk/2023/07/ubuntu-23-10-new-app-store-deb-support
 
 https://drakerossman.com/blog/wayland-on-nixos-confusion-conquest-triumph

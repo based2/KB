@@ -129,6 +129,9 @@ https://posts.specterops.io/abusing-azure-container-registry-tasks-1f407bfaa465
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-37968
 
 # News
+https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/azure-ad-is-becoming-microsoft-entra-id/ba-p/2520436
+> https://news.ycombinator.com/item?id=36684754
+
 https://azure.microsoft.com/en-us/blog/dev-optimized-cloud-based-workstations-microsoft-dev-box-is-now-generally-available/
 > https://news.ycombinator.com/item?id=36671795
 

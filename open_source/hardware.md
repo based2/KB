@@ -139,6 +139,9 @@ https://freshtomato.org/ Broadcom
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
 # News
+https://hackaday.com/2023/07/04/quetzal-1-satellite-goes-open-source/
+> https://news.ycombinator.com/item?id=36643125
+
 https://community.amd.com/t5/business/empowering-the-industry-with-open-system-firmware-amd-opensil/ba-p/599644
 
 https://linuxgizmos.com/open-source-smartwatch-integrates-esp32-mcu/

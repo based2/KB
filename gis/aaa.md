@@ -175,6 +175,9 @@ https://maps.nicholsonroad.com/zones/ vancouver
 https://openhistoricalmap.org/#map=5/51.500/-0.100&layers=O&date=1900&daterange=1800,2022
 > https://news.ycombinator.com/item?id=31382414
 
+https://vincentmeertens.com/project/timemaps/
+> https://news.ycombinator.com/item?id=36692450
+
 ## Tiles
 https://www.linuxbabe.com/ubuntu/set-up-tegola-vector-tile-server-ubuntu-20-04
 
@@ -221,6 +224,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://arstechnica.com/gadgets/2023/07/apple-introduces-offline-maps-but-how-does-it-compare-with-google-maps/
+
 https://arxiv.org/abs/2306.00020
 
 https://hivekit.io/

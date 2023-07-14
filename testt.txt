@@ -171,8 +171,6 @@ volumeID.efs.zone.amazonaws.com:/ /your/mountpoint nfs4 nfsvers=4.1,rsize=104857
 df -h
 127.0.0.1:/     8.0E     0  8.0E   0% /home/ec2-user/data
 
-52.207.97.109
-
 ----
 
 Which AWS service allows customers to purchase unused Amazon EC2 capacity at an often discounted rate?
