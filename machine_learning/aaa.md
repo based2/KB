@@ -386,6 +386,28 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://x.ai
+> https://news.ycombinator.com/item?id=36696473
+
+https://www.tus.ac.jp/en/mediarelations/archive/20230706_1542.html
+> https://news.ycombinator.com/item?id=36735774
+
+https://arxiv.org/abs/2306.00229 minotaur simd
+> https://news.ycombinator.com/item?id=36701160
+
+https://github.com/Explosion-Scratch/claude-unofficial-api
+> https://news.ycombinator.com/item?id=36729090
+
+https://www.theregister.com/2023/07/14/china_generative_ai_rules/
+> https://news.ycombinator.com/item?id=36719014
+
+https://aclanthology.org/2023.findings-acl.426/
+> https://twitter.com/LukeGessler/status/1679211291292889100
+> > https://news.ycombinator.com/item?id=36707193
+
+https://floneum.com/blog/anouncing_floneum
+> https://news.ycombinator.com/item?id=36697595
+
 https://github.com/Open-Weights/Definition license
 > https://news.ycombinator.com/item?id=36654729
 
@@ -697,7 +719,6 @@ https://www.bloomberg.com/company/press/bloomberggpt-50-billion-parameter-llm-tu
 > https://news.ycombinator.com/item?id=35395464
 
 https://maxliani.wordpress.com/2023/03/24/dnnd-2-tensors-and-convolution/
->
 
 https://news.ycombinator.com/item?id=35370915
 

@@ -97,6 +97,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023
+> https://news.ycombinator.com/item?id=36725105
+
 https://linuxiac.com/linux-hits-3-percent-market-share/
 > https://news.ycombinator.com/item?id=36676103
 

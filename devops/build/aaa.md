@@ -6,6 +6,11 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative
+> https://news.ycombinator.com/item?id=36744450
+
+https://news.ycombinator.com/item?id=36744955
+
 https://www.tweag.io/blog/2023-07-06-buck2/
 
 https://izzys.casa/2023/06/everything-you-never-wanted-to-know-about-cmake-redux/

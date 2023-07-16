@@ -19,6 +19,7 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://vigilance.fr/vulnerabilite/LemonLDAP-NG-acces-utilisateur-via-Weak-Session-ID-2FA-Verification-Bypass-41758
 
 https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_988c21d1-13b5-4498-aa85-3315926ae530
 > https://news.ycombinator.com/item?id=34617486
@@ -42,6 +43,9 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://benkettle.xyz/posts/plat/
+> https://news.ycombinator.com/item?id=36726077
+
 https://news.ycombinator.com/item?id=36464531
 
 https://theorangeone.net/posts/youre-doing-2fa-wrong/

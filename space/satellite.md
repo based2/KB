@@ -32,7 +32,9 @@ https://phys.org/news/2022-12-latest-satellite-unfold-space.html
 https://jiangteng2019.github.io/satellite-track/
 
 https://www.sciencenews.org/article/satellites-spacex-problem-space-pollution
-> 
+
+https://guce.techcrunch.com/copyConsent?sessionId=3_cc-session_2d2127f2-0ddd-417e-a128-f05a02d09e59&lang=en-US
+> https://news.ycombinator.com/item?id=36693879
 
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000

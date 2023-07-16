@@ -27,6 +27,11 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=36734269
+
+https://www.coindesk.com/policy/2023/07/13/sale-of-xrp-on-exchanges-not-investment-contracts-court-rules-in-sec-case-against-ripple/
+> https://news.ycombinator.com/item?id=36712403
+
 https://www.reuters.com/markets/us-sec-sues-celsius-network-its-founder-2023-07-13/
 > https://news.ycombinator.com/item?id=36710558
 

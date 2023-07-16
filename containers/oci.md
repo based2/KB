@@ -3,6 +3,9 @@
 # Formats
 
 #
+https://www.chainguard.dev/unchained/oci-announces-upcoming-changes-for-registries
+> https://news.ycombinator.com/item?id=36712084
+
 https://fossil-scm.org/home/doc/trunk/www/containers.md
 > https://news.ycombinator.com/item?id=35696176
 

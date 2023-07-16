@@ -135,6 +135,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://arstechnica.com/space/2023/07/viasats-new-broadband-satellite-could-be-a-total-loss/
+
 https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams
 > https://news.ycombinator.com/item?id=36619187
 
@@ -169,6 +171,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://chipsandcheese.com/2023/07/12/kryo-qualcomms-last-in-house-mobile-core/
+> https://news.ycombinator.com/item?id=36703881
+
 https://www.tomshardware.com/news/li-fi-standard-released
 > https://news.ycombinator.com/item?id=36707789
 

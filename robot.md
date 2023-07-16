@@ -10,6 +10,11 @@ https://foxglove.dev/
 
 https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers
 
+#
+https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576
+> https://news.ycombinator.com/item?id=36744135
+
+
 # Drone
 https://www.liftaircraft.com/
 > https://news.ycombinator.com/item?id=36381177

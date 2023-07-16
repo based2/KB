@@ -103,6 +103,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.msn.com/en-us/news/technology/how-will-atsc-30-transform-tv-advertising/ar-AA1dGfvZ
+> https://news.ycombinator.com/item?id=36696920
+
+https://www.theverge.com/2023/7/12/23791496/meta-google-tax-filing-warren-sanders-pixel
+> https://news.ycombinator.com/item?id=36693994
+
 https://arstechnica.com/tech-policy/2023/07/big-tech-can-transfer-europeans-data-to-us-in-win-for-facebook-and-google/
 > https://news.ycombinator.com/item?id=36678834
 

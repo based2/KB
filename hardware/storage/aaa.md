@@ -48,6 +48,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.servethehome.com/iosafe-1522-nas-review-fireproof-waterproof-powered-by-synology/
+> https://news.ycombinator.com/item?id=36689888
+
 https://blog.min.io/filesystem-on-object-store-is-a-bad-idea/ s3fs-fuse
 
 https://www.jeffgeerling.com/blog/2023/how-i-installed-truenas-on-my-new-asustor-nas

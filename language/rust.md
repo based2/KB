@@ -466,6 +466,12 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html
+> https://news.ycombinator.com/item?id=36722158
+
+https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html
+> https://news.ycombinator.com/item?id=36709361
+
 https://www.jetbrains.com/rust/
 > https://news.ycombinator.com/item?id=36681597
 

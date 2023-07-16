@@ -1,3 +1,5 @@
+https://when-then-zen.christine.website/skills/paracosm-immersion
+
 https://github.com/zhuowei/VisionOSStereoScreenshots/tree/alvr
 > https://news.ycombinator.com/item?id=36668732
 

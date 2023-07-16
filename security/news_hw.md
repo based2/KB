@@ -2,6 +2,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://tortel.li/post/insecure-scope/
+> https://news.ycombinator.com/item?id=36745664
+
 https://github.com/grossartig/vanmoof-encryption-key-exporter
 > https://news.ycombinator.com/item?id=36719651
 

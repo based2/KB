@@ -8,6 +8,12 @@ https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.htm
 > > http://users.freenet.am/~softland/tutorials/Petite.v2.3.MUP.txt
 
 #
+https://xenia.jp
+> https://news.ycombinator.com/item?id=36702731
+
+https://rpcs3.net
+> https://news.ycombinator.com/item?id=36690498
+
 https://www.os2museum.com/wp/failing-to-fail/ dos
 
 https://www.winuae.net/2023/06/01/winuae-5-0-0/ amiga

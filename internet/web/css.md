@@ -228,6 +228,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://ishadeed.com/article/threads-app-css/
+> https://news.ycombinator.com/item?id=36745289
+
 https://github.com/kkuchta/css-only-chat
 > https://news.ycombinator.com/item?id=36543372
 

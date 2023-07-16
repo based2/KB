@@ -53,6 +53,24 @@ https://support.apple.com/guide/security/sec469d47bd8/web
 * List PF filter rules
     sudo pfctl -sr 2>/dev/null
 
+* Turn Wi-Fi Off via Command Line in Mac OS X
+networksetup -setairportpower airport off
+networksetup -setairportpower en0 off
+
+/System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I
+AirPort: Off
+
+https://gist.github.com/albertbori/1798d88a93175b9da00b
+> https://github.com/bouzou4/osx-eth-wifi-toggle
+
+* What starts
+sudo launchctl list | sed 1d | awk ' !/0x|apple|com\.vix|edu\.|org\./ { print $3 } '
+
+ls /Library/LaunchDaemons
+
+* print cupsd
+https://discussions.apple.com/thread/2078738
+
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
 > https://news.ycombinator.com/item?id=31864974

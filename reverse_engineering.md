@@ -36,6 +36,11 @@ https://frida.re/news/2023/06/23/frida-16-1-0-released/
 > https://www.reddit.com/r/netsec/comments/14m1ikl/frida_1610_is_out_w_a_brand_new_backend_that/
 
 #
+https://news.ycombinator.com/item?id=36742444
+
+https://github.com/jhallen/exorsim Motorola M6800 (6800) Exorciser / SWTPC emulator
+> https://news.ycombinator.com/item?id=36733100
+
 https://fasterthanli.me/articles/cracking-electron-apps-open
 
 https://www.righto.com/2023/07/8086-pins.html

@@ -34,10 +34,16 @@ https://darekkay.com/blog/static-site-comments/
 https://github.com/volution/kawipiko
 > https://news.ycombinator.com/item?id=32630350
 
+https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice
+> https://news.ycombinator.com/item?id=36734423
+
 https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 
 #
+https://blog.wesleyac.com/posts/how-i-run-my-servers
+> https://news.ycombinator.com/item?id=36744090
+
 https://grifel.dev/decentralization/
 > https://news.ycombinator.com/item?id=34860655
 

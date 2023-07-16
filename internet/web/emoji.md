@@ -28,6 +28,9 @@ https://crocidb.com/post/rendering-doom-with-emojis/
 
 https://wh0.github.io/2020/01/02/scissors.html
 > https://news.ycombinator.com/item?id=33360171
-> 
+
 > https://mastodon.social/@simevidas/109919980697679274
 > https://news.ycombinator.com/item?id=34925446
+
+https://blog.emojipedia.org/new-emojis-in-2023/
+> https://news.ycombinator.com/item?id=36735032

@@ -2,6 +2,8 @@ https://spectrum.ieee.org/spin-glass-nanomagnet-ai
 
 https://en.wikipedia.org/wiki/Skyrmion
 
+https://news.ycombinator.com/item?id=36709652
+
 https://news.ycombinator.com/item?id=33812029
 
 https://www.nature.com/articles/s41586-022-04504-8 The field-free Josephson diode in a van der Waals heterostructure

@@ -70,6 +70,9 @@ https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 > https://news.ycombinator.com/item?id=34425067
 
 # News
+https://juniper.github.io/libxo/libxo-manual.html
+> https://news.ycombinator.com/item?id=36728013
+
 https://pag.art/
 
 https://toml.io/en/

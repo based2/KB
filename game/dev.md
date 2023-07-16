@@ -109,6 +109,14 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://www.sandromaglione.com/techblog/introduction-to-godot-game-engine-beginner
+
+https://old.reddit.com/r/indiegames/comments/150jcyz/simulating_two_gears_in_my_game/
+> https://news.ycombinator.com/item?id=36739848
+
+https://book.leveldesignbook.com
+> https://news.ycombinator.com/item?id=36726824
+
 https://joonaa.dev/blog/02/bevy-xpbd-0-1-0
 > https://news.ycombinator.com/item?id=36642867
 

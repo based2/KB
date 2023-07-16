@@ -29,6 +29,15 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://blog.adafruit.com/2023/07/15/reverse-engineering-the-8086-processors-address-and-data-pin-circuits/
+> https://news.ycombinator.com/item?id=36735817
+
+https://www.rtl-sdr.com/receiving-unintentional-voice-transmissions-from-gps-satellites/
+> https://news.ycombinator.com/item?id=36739320
+
+https://wirelesspi.com/on-microchip-at86rf215-radios/
+> https://news.ycombinator.com/item?id=36732803
+
 https://electroagenda.com/en/hilbert-transform/
 > https://news.ycombinator.com/item?id=36666260
 

@@ -33,6 +33,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://news.ycombinator.com/item?id=36693109
+
 https://www.theregister.com/2023/06/26/linux_kernel_6_4_released/?td=keepreading
 
 https://www.phoronix.com/news/Linux-6.5-CXL

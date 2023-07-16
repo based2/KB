@@ -127,6 +127,15 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.phoronix.com/news/Linux-Device-Memory-TCP
+> https://news.ycombinator.com/item?id=36737958
+
+https://www.sniffnet.net
+> https://news.ycombinator.com/item?id=36728672
+
+https://blog.wireshark.org/2023/07/wireshark-is-25/
+> https://news.ycombinator.com/item?id=36734214
+
 https://slices-sc.eu/wp-content/uploads/2022/10/2022_COMCOM_SLICES-a-scientific-instrument-for-the-networking-community.pdf
 
 https://vanhunteradams.com/Pico/Ethernet/UPD_TX.html

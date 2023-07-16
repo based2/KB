@@ -70,6 +70,11 @@ https://en.wikipedia.org/wiki/Ada_(programming_language)
 http://archive.adaic.com/projects/atwork/paris.html
 
 # News
+https://devclass.com/2022/11/08/spark-as-good-as-rust-for-safer-coding-adacore-cites-nvidia-case-study/
+
+https://www2.seas.gwu.edu/~adagroup/sigada-website/lawlis.html 1992
+> https://news.ycombinator.com/item?id=36741990
+
 https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates
 
 https://blog.adacore.com/coroutines-in-ada-a-clean-but-heavy-implementation

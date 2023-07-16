@@ -3,3 +3,6 @@ https://bost.ocks.org/mike/
 > https://observablehq.com/@mbostock
 
 https://github.com/dkogan/feedgnuplot  General purpose pipe-oriented plotting tool
+
+https://penrose.cs.cmu.edu/blog/v3
+>

@@ -1,6 +1,11 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://arstechnica.com/security/2023/07/microsoft-takes-pains-to-obscure-role-in-0-days-that-caused-email-breach/
+> https://news.ycombinator.com/item?id=36740133
+
+https://vigilance.fr/vulnerabilite/Microsoft-Edge-Chromium-trois-vulnerabilites-41757
+
 https://www.descope.com/blog/post/noauth
 
 https://www.usenix.org/conference/usenixsecurity23/presentation/rohlmann ooxml signature

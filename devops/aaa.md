@@ -420,6 +420,16 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=36746014
+
+https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/
+> https://news.ycombinator.com/item?id=36735633
+
+https://github.blog/2023-07-12-github-merge-queue-is-generally-available/
+> https://news.ycombinator.com/item?id=36707239
+
+https://news.ycombinator.com/item?id=36682012
+
 https://github.com/Flet/rejected-github-profile-achievements
 > https://news.ycombinator.com/item?id=36607439
 

@@ -332,6 +332,8 @@ https://github.com/kovisoft/paredit
 https://applied-langua.ge/posts/zero-feet.html
 > https://news.ycombinator.com/item?id=33201363
 
+https://news.ycombinator.com/item?id=36704396
+
 # Book
 https://news.ycombinator.com/item?id=32788281
 

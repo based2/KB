@@ -20,6 +20,8 @@ https://github.com/advisories
 
 https://www.talosintelligence.com/vulnerability_info
 
+https://repology.org/security/recent-cves
+
 https://ossindex.sonatype.org/
 
 https://go.dev/blog/vuln

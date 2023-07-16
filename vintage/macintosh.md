@@ -127,6 +127,9 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/
+> https://news.ycombinator.com/item?id=36739283
+
 https://computeradsfromthepast.substack.com/p/byte-interview-with-the-creators
 > https://news.ycombinator.com/item?id=36445093
 

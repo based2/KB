@@ -27,6 +27,9 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 > https://news.ycombinator.com/item?id=28260568
 
 # News
+https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/
+> 
+
 https://www.nytimes.com/2023/05/29/world/asia/china-space-moon-2030.html
 
 https://ispace-inc.com/news-en/?p=4691

@@ -7,6 +7,9 @@ https://github.com/OpenXiangShan/XiangShan
 https://github.com/mnurzia/rv/blob/main/README.md
 
 #
+https://beagleboard.org/beaglev-ahead
+> https://news.ycombinator.com/item?id=36695682
+
 http://www.robalni.org/riscv/instructions.html
 > https://news.ycombinator.com/item?id=36656858
 

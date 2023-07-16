@@ -20,6 +20,12 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://github.com/sylefeb/a5k
+> https://news.ycombinator.com/item?id=36738347
+
+https://vividfax.itch.io/fudge Reverse Tetris
+> https://news.ycombinator.com/item?id=36731131
+
 https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser/
 > https://news.ycombinator.com/item?id=36680535
 

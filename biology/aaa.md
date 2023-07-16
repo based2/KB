@@ -44,6 +44,8 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://phys.org/news/2023-06-dna-complex-functions.amp
+
 https://www.nature.com/articles/s41586-023-06288-x
 
 https://www.livescience.com/health/genetics/meet-fanzor-the-1st-crispr-like-system-found-in-complex-life

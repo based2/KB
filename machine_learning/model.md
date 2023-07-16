@@ -87,6 +87,14 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://minimaxir.com/2023/07/langchain-problem/
+> https://news.ycombinator.com/item?id=36725982
+
+https://github.com/Futrell/ziplm
+> https://news.ycombinator.com/item?id=36732430
+
+https://txt.cohere.com/aya-multilingual/
+
 https://www.trygloo.com/blog/classify-text-llms-learnings
 > https://news.ycombinator.com/item?id=36681839
 

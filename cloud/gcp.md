@@ -61,6 +61,9 @@ https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-googl
 > https://news.ycombinator.com/item?id=29847033
 
 # News
+https://blog.google/technology/ai/notebooklm-google-ai/
+> https://news.ycombinator.com/item?id=36697119
+
 https://cloud.google.com/blog/products/databases/announcing-vector-support-in-postgresql-services-to-power-ai-enabled-applications?hl=en
 > https://news.ycombinator.com/item?id=36551936
 

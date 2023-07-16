@@ -130,6 +130,11 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.usenix.org/conference/atc23/presentation/tollner
+
+https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/
+> https://news.ycombinator.com/item?id=36714967
+
 https://www.cs.cornell.edu/~asampson/blog/flattening.html
 > https://news.ycombinator.com/item?id=36559346
 

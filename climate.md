@@ -69,6 +69,17 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.climateprediction.net
+> https://news.ycombinator.com/item?id=36746465
+
+https://www.theguardian.com/us-news/2023/jul/16/big-oil-climate-pledges-extreme-heat-fossil-fuel
+> https://news.ycombinator.com/item?id=36746772
+
+https://www.nature.com/articles/s41893-023-01155-z/tables/1
+> https://news.ycombinator.com/item?id=36746559
+
+https://cinea.ec.europa.eu/programmes/life_en
+
 https://www.consilium.europa.eu/fr/policies/green-deal/fit-for-55-the-eu-plan-for-a-green-transition/
 
 https://www.swissinfo.ch/eng/politics/swiss-to-decide-on-net-zero-climate-law/48593158

@@ -9,6 +9,9 @@ https://stellarium.org/
 https://stellarium.org/release/2022/10/01/stellarium-1.0.html
 > https://news.ycombinator.com/item?id=33050270
 
+https://arepo-code.org
+> https://news.ycombinator.com/item?id=36729361
+
 # Physic
 ## Astronomy
 
@@ -61,6 +64,9 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://cns.utexas.edu/news/research/chemical-cartography-reveals-milky-ways-spiral-arms
+> https://news.ycombinator.com/item?id=36738050
+
 https://www.nature.com/articles/d41586-023-02167-7
 > https://news.ycombinator.com/item?id=36520925
 

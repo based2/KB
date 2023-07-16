@@ -5,6 +5,9 @@ https://www.memorysafety.org/
 https://privsec.dev/posts/linux/desktop-linux-hardening/
 > https://news.ycombinator.com/item?id=36291169
 
+https://firejail.wordpress.com
+> https://news.ycombinator.com/item?id=36681912
+
 # Tools
 https://github.com/queer/boxxy puts bad Linux applications in a box with only their files.
 > https://news.ycombinator.com/item?id=34730520

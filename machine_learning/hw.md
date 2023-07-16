@@ -5,6 +5,9 @@ Google TPU v4
 Telsa
 
 #
+https://arxiv.org/abs/2307.02666
+> https://news.ycombinator.com/item?id=36690320
+
 https://www.micahlerner.com/2023/04/16/telamalloc-efficient-on-chip-memory-allocation-for-production-machine-learning-accelerators.html
 > https://news.ycombinator.com/item?id=36221010
 

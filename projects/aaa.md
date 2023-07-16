@@ -128,6 +128,9 @@ https://github.com/kimmobrunfeldt/git-hours
 https://pm.stackexchange.com/questions/34768/why-are-developers-expected-to-estimate-tasks-at-all
 > https://news.ycombinator.com/item?id=35316808
 
+https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html
+> https://news.ycombinator.com/item?id=36720573
+
 # Decision
 https://jacobian.org/2021/jan/30/soccr/
 
@@ -161,6 +164,14 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://www.sledgeworx.io/kpis-for-software-engineers/
+
+https://vadimkravcenko.com/shorts/good-mentor/
+> https://news.ycombinator.com/item?id=36729377
+
+https://tidyfirst.substack.com/p/fresh-work-80155
+> https://news.ycombinator.com/item?id=36712793
+
 https://news.ycombinator.com/item?id=36615286
 
 https://news.ycombinator.com/item?id=36466248

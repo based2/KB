@@ -18,8 +18,11 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
-https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/
-> 
+https://www.sciencedaily.com/releases/2023/03/230322140357.htm
+
+https://www.solarpaces.org/new-chinese-csp-project-three-gorges-renewables-trials-double-solar-field/
+
+https://cowboystatedaily.com/2023/06/27/baseball-sized-hail-smashing-into-panels-at-150-mph-destroys-scottsbluff-solar-farm/ 
 
 https://colorandcontrast.com/#/
 > https://news.ycombinator.com/item?id=36449072

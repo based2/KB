@@ -65,3 +65,9 @@ https://prompthub.deepset.ai/
 https://matt-rickard.com/personal-lessons-from-llms
 
 https://news.ycombinator.com/item?id=36677034
+
+https://github.com/mshumer/gpt-prompt-engineer
+> https://news.ycombinator.com/item?id=36677034
+
+https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated
+> https://news.ycombinator.com/item?id=36743784

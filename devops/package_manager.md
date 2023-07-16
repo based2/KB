@@ -63,6 +63,10 @@ https://www.jetpack.io/blog/why-did-nix-adopt-flakes/
 https://drakerossman.com/blog/how-to-add-home-manager-to-nixos
 > https://news.ycombinator.com/item?id=36458780
 
+https://repology.org
+
+https://blog.remirepo.net/
+
 # Incident
 https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/?td=keepreading
 
@@ -97,9 +101,10 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
-https://blog.remirepo.net/
-
 #
+https://ochagavia.nl/blog/the-magic-of-dependency-resolution/
+> https://news.ycombinator.com/item?id=36682961
+
 https://pypa.github.io/pipx/#how-is-it-different-from-pip https://pypa.github.io/pipx/ https://github.com/pypa/pipx
 
 https://blog.pypi.org/posts/2023-06-01-2fa-enforcement-for-upload/

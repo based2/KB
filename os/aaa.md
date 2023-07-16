@@ -25,6 +25,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://synit.org
+> https://news.ycombinator.com/item?id=36735620
+
 https://yotam.net/posts/linux-namespaces-are-a-poor-mans-plan9-namespaces/
 > https://news.ycombinator.com/item?id=36414493
 

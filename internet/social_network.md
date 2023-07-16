@@ -101,6 +101,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://social.overheid.nl/@avhuffelen/110700825255524685
+> https://news.ycombinator.com/item?id=36695635
+
+https://vijayprema.com/using-lemmy-from-my-existing-mastodon/
+> https://news.ycombinator.com/item?id=36726234
+
 https://twitter.com/llanga/status/1676846870520291329
 > https://news.ycombinator.com/item?id=36612835
 

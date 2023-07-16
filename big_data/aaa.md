@@ -324,6 +324,12 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://lets-plot.org
+> https://news.ycombinator.com/item?id=36741476
+
+https://snakemake.github.io
+> https://news.ycombinator.com/item?id=36735616
+
 https://news.ycombinator.com/item?id=36718046
 
 https://news.ycombinator.com/item?id=36684866

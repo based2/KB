@@ -10,4 +10,7 @@ Multiple contains:
 https://github.com/robert-bor/aho-corasick
 
 #
+https://wouter.coekaerts.be/2023/breaking-string
+> https://news.ycombinator.com/item?id=36687970
+
 https://www.reddit.com/r/java/comments/tsn5o9/rope_implementation_in_java/

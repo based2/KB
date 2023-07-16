@@ -40,6 +40,9 @@ https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://hackmd.io/@dabo/rkP8Pcf9t How to store a permutation compactly - 2022
+> https://news.ycombinator.com/item?id=36718877
+
 https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/
 
 https://shkspr.mobi/blog/2023/06/selectively-compressed-images-a-hybrid-format/

@@ -12,3 +12,8 @@ https://fennel.ai/blog/vector-search-in-200-lines-of-rust/
 
 https://twitter.com/elamje/status/1677020153161080853
 > https://news.ycombinator.com/item?id=36620562
+
+https://venturebeat.com/ai/pinecone-leads-explosion-in-vector-databases-for-generative-ai/
+
+https://zilliz.com/blog/vector-similarity-search
+> 

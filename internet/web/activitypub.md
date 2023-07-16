@@ -37,3 +37,6 @@ https://github.com/cloudflare/wildebeest
 > https://news.ycombinator.com/item?id=34350897
 
 https://fed.brid.gy/docs#error-handling
+
+https://hub.sunny.garden/2023/06/28/what-does-authorized_fetch-actually-do/
+> https://news.ycombinator.com/item?id=36688735

@@ -137,6 +137,9 @@ https://github.com/vlcoo/P3synth
 > https://news.ycombinator.com/item?id=34831423
 
 #
+https://musescore.org/en/4.1
+> https://news.ycombinator.com/item?id=36699738
+
 https://muted.io/cheat-sheet/
 > https://news.ycombinator.com/item?id=34387982
 

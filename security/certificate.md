@@ -41,7 +41,6 @@ https://github.com/acmesh-official/acme.sh/issues/4659
 > https://news.ycombinator.com/item?id=36252310
 
 https://twitter.com/elonmusk/status/1644505414296322048
-> 
 
 https://www.bleepingcomputer.com/news/security/emsisoft-says-hackers-are-spoofing-its-certs-to-breach-networks/
 
@@ -57,6 +56,9 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://www.getlocalcert.net
+> https://news.ycombinator.com/item?id=36674224
+
 https://www.agwa.name/blog/post/roots_intermediates_and_resellers
 > https://news.ycombinator.com/item?id=36379265
 

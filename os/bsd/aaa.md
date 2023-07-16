@@ -1,6 +1,9 @@
 https://www.freshports.org/
 
 # OpenBSD
+https://www.openbsd.org/innovations.html
+> https://news.ycombinator.com/item?id=36722994
+
 https://marc.info/?l=openbsd-tech&m=167702364728145&w=2
 
 https://www.openbsd.org/69.html

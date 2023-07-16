@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/
+> https://news.ycombinator.com/item?id=36724736
+
 https://news.ycombinator.com/item?id=36104746
 
 https://apnews.com/article/china-comac-c919-first-commercial-flight-6c2208ac5f1ed13e18a5b311f4d8e1ad

@@ -39,3 +39,6 @@ https://www.rssboard.org/news/211/every-mastodon-user-has-rss-feed
 
 https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago
 > https://news.ycombinator.com/item?id=36532136
+
+https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge
+> https://news.ycombinator.com/item?id=36729424

@@ -1,3 +1,10 @@
+https://www.open-scap.org/tools/
+
+https://www.safetydetectives.com/blog/avast-scandal-why-we-stopped-recommending-avast-avg/
+> https://news.ycombinator.com/item?id=36728825
+
+https://go.dev/blog/govulncheck v1
+
 https://news.ycombinator.com/item?id=36690516
 
 https://cwe.mitre.org/top25/index.html
