@@ -168,8 +168,10 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://github.com/stalwartlabs/mail-server
+> https://news.ycombinator.com/item?id=36769173
+
 https://www.thunderbird.net/en-US/thunderbird/115.0/whatsnew/
-> 
 
 https://jfloren.net/b/2023/7/7/0 pgp
 > https://news.ycombinator.com/item?id=36639530

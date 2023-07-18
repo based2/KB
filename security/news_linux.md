@@ -24,6 +24,8 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://www.bleepingcomputer.com/news/security/fake-linux-vulnerability-exploit-drops-data-stealing-malware/
+
 https://www.phoronix.com/news/Google-Restricting-IO_uring
 
 https://security.googleblog.com/2023/06/learnings-from-kctf-vrps-42-linux.html

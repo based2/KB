@@ -47,6 +47,9 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://www.appsmith.com/blog/write-a-great-readme
+> https://news.ycombinator.com/item?id=36773022
+
 https://www.etsy.com/codeascraft/code-as-craft-blog-post-docs-as-code-at-etsy
 
 https://news.ycombinator.com/item?id=35582854

@@ -22,6 +22,8 @@ https://www.talosintelligence.com/vulnerability_info
 
 https://repology.org/security/recent-cves
 
+https://alas.aws.amazon.com/
+
 https://ossindex.sonatype.org/
 
 https://go.dev/blog/vuln

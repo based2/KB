@@ -15,11 +15,16 @@ https://en.wikipedia.org/wiki/Tibia_(video_game)
 > https://news.ycombinator.com/item?id=30324846
 
 #
+https://sep.stanford.edu/sep/jon/raven/
+> https://news.ycombinator.com/item?id=36752123
+
 https://imgur.com/a/ggyfAnX
 > https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://gandalf.lakera.ai/
+
 https://github.com/sylefeb/a5k
 > https://news.ycombinator.com/item?id=36738347
 

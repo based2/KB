@@ -53,6 +53,9 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://flowchart.fun/blog/post/styling-flowcharts-using-css
+> https://news.ycombinator.com/item?id=36771637
+
 https://github.com/gtk7032/pglineage
 
 https://github.com/revalo/iceberg
@@ -79,6 +82,7 @@ https://kroki.io/
 
 https://github.com/statelyai/xstate
 > https://news.ycombinator.com/item?id=35328995
+> https://xstate.js.org/docs/
 
 https://www.ilograph.com/blog/posts/concrete-diagramming-models/
 > https://news.ycombinator.com/item?id=35302395

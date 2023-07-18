@@ -324,6 +324,13 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://github.com/binpash/pash
+> https://news.ycombinator.com/item?id=36779037
+
+https://superfastpython.com/numpy-share-array-processes/
+
+https://news.ycombinator.com/item?id=36758122
+
 https://lets-plot.org
 > https://news.ycombinator.com/item?id=36741476
 

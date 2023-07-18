@@ -88,6 +88,8 @@ https://gitlab.com/mhammons/slinc C
 https://eed3si9n.com/sbt-1.8.3
 
 # News
+https://github.com/tailcallhq/tailcall API composition in microservices architecture
+
 https://blog.fanf.eu/posts/two-more-old-cents-on-scala-3-migration/
 
 https://www.lihaoyi.com/post/comlihaoyiScalaExecutablePseudocodethatsEasyBoringandFast.html

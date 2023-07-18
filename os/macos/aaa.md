@@ -48,7 +48,7 @@ https://support.apple.com/guide/security/sec469d47bd8/web
     nettop -l
 
 * Filter on loop back - port:63342 - IDE Jetbrains IDEA web server
-    (sudo pfctl -sr 2>/dev/null; echo "block drop quick on lo0 proto tcp from any to any port = 63342") | sudo pfctl -ef -
+     (sudo pfctl -sr 2>/dev/null; echo "block drop quick on all  proto tcp from any to any port = 49806") | sudo pfctl -e -f - 2>/dev/null
 
 * List PF filter rules
     sudo pfctl -sr 2>/dev/null
@@ -60,8 +60,16 @@ networksetup -setairportpower en0 off
 /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I
 AirPort: Off
 
+networksetup -listnetworkserviceorder
+
+networksetup -removenetworkservice
+
 https://gist.github.com/albertbori/1798d88a93175b9da00b
 > https://github.com/bouzou4/osx-eth-wifi-toggle
+
+sudo networksetup -removenetworkservice Wi-Fi
+
+sudo networksetup -removenetworkservice "Bluetooth PAN"
 
 * What starts
 sudo launchctl list | sed 1d | awk ' !/0x|apple|com\.vix|edu\.|org\./ { print $3 } '

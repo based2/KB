@@ -144,6 +144,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://hg.sr.ht/~dalke/rectfillcurve
+> https://news.ycombinator.com/item?id=36762283
+
 http://www.numberworld.org/y-cruncher/internals/multiplication.html
 > https://news.ycombinator.com/item?id=36700938
 

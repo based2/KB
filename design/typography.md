@@ -39,3 +39,5 @@ https://fonts.google.com/knowledge/readability_and_accessibility/how_type_influe
 
 https://commitmono.com
 > https://news.ycombinator.com/item?id=36689756
+
+https://news.ycombinator.com/item?id=36775398

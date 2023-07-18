@@ -46,6 +46,9 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 > https://news.ycombinator.com/item?id=36628258
 
 # News
+https://stability.ai/research/minds-eye
+> https://news.ycombinator.com/item?id=36766700
+
 https://www.u-tokyo.ac.jp/focus/en/press/z0508_00289.html
 > https://news.ycombinator.com/item?id=36451924
 

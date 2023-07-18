@@ -420,6 +420,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://thenewstack.io/system-initiative-a-devops-makeover-by-ex-chef-adam-jacob/
+
+https://graphite.dev/blog/what-is-a-merge-queue
+> https://news.ycombinator.com/item?id=36777600
+
 https://news.ycombinator.com/item?id=36746014
 
 https://shkspr.mobi/blog/2023/07/the-pull-request-hack-is-fucking-magic/

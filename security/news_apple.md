@@ -4,6 +4,8 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://www.cyberark.com/resources/all-blog-posts/a-deep-dive-into-penetration-testing-of-macos-applications-part-1
+
 https://fingerprint.com/blog/apple-macos-mdns-brute-force/
 > https://news.ycombinator.com/item?id=36712788
 

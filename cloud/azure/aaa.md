@@ -21,6 +21,16 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-hit-by-new-outage-blocking-emails/
+
+https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/?guccounter=1
+> https://news.ycombinator.com/item?id=36770235
+
+https://techcrunch.com/2023/07/12/chinese-hackers-us-government-microsoft-email/?guccounter=1
+
+https://gizmodo.com/microsoft-china-cyberattack-government-email-accounts-1850631322
+> https://news.ycombinator.com/item?id=36697272
+
 https://msrc.microsoft.com/blog/2023/06/microsoft-response-to-layer-7-distributed-denial-of-service-ddos-attacks/
 
 https://news.ycombinator.com/item?id=36347915

@@ -1,3 +1,10 @@
+https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0557/
+
+https://www.w3.org/TR/secure-payment-confirmation/
+
+https://pdos.csail.mit.edu/~baford/vm/
+> https://news.ycombinator.com/item?id=36777576
+
 https://www.open-scap.org/tools/
 
 https://www.safetydetectives.com/blog/avast-scandal-why-we-stopped-recommending-avast-avg/

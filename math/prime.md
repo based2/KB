@@ -27,3 +27,6 @@ https://wvsant.blogspot.com/2022/12/tiny-prime-combinations.html
 > https://news.ycombinator.com/item?id=34259001
 
 https://news.ycombinator.com/item?id=35913222
+
+https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/
+> https://news.ycombinator.com/item?id=36757400

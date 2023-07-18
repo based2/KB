@@ -95,3 +95,5 @@ https://github.com/captn3m0/pystitcher
 > https://news.ycombinator.com/item?id=29738723
 
 https://news.ycombinator.com/item?id=34530710 2word
+
+https://github.com/freedomofpress/dangerzone to pixel

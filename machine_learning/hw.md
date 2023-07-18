@@ -5,6 +5,9 @@ Google TPU v4
 Telsa
 
 #
+https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi
+> https://news.ycombinator.com/item?id=36778730
+
 https://arxiv.org/abs/2307.02666
 > https://news.ycombinator.com/item?id=36690320
 

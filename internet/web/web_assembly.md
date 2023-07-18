@@ -76,6 +76,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://thenewstack.io/the-need-to-roll-up-your-sleeves-for-webassembly/
+
 https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html
 > https://news.ycombinator.com/item?id=36556668
 

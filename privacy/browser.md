@@ -26,6 +26,9 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://github.com/yokoffing/Betterfox
+> https://news.ycombinator.com/item?id=36775054
+
 https://brave.com/privacy-updates/27-localhost-permission/
 > https://news.ycombinator.com/item?id=36574775
 

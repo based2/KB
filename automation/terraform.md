@@ -123,9 +123,13 @@ https://github.com/philips-labs/terraform-registry github
 
 https://github.com/devoteamgcloud/petra gcp
 
+https://github.com/nrkno/terraform-registry
+
 # AWS
 https://www.hashicorp.com/blog/terraform-aws-provider-5-0-adds-updates-to-default-tags
 > https://github.com/hashicorp/terraform-provider-aws/blob/main/ROADMAP.md
+
+https://catalog.workshops.aws/contributing-to-the-terraform-provider/en-US
 
 https://medium.com/adevinta-tech-blog/enforcing-and-controlling-infrastructure-as-code-40f38c89fb2e
 
@@ -140,6 +144,8 @@ https://www.reddit.com/r/aws/comments/yv1tx4/aws_control_tower_vs_terraform/
 https://awstip.com/provisioning-infrastructure-on-aws-with-gitlab-using-gitlab-managed-terraform-state-d06c13c9efd1
 
 https://medium.com/@hettiarachchi.yashodha/enforcing-machine-to-machine-authentication-for-services-behind-an-aws-alb-part-2-e06707e6f366
+
+https://medium.com/@farhanangullia/scheduling-automated-terraform-operations-on-aws-32778cfe1985
 
 ## Landing zone
 https://www.meshcloud.io/de/blog/aws-landing-zone-comparison/
@@ -223,6 +229,8 @@ https://medium.com/@hettiarachchi.yashodha/enforcing-machine-to-machine-authenti
 
 https://itnext.io/efficient-kubernetes-cluster-deployment-accelerating-setup-with-eks-blueprints-68324b582ec9
 
+https://systemweakness.com/aws-waf-with-terraform-1dafa305c4a1
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -273,6 +281,8 @@ https://github.com/jaceq/terraeasy
 
 https://github.com/spilliams/terrascope monorepo
 
+https://github.com/refl3ction/tfgen
+
 # testing
 https://github.com/cloud-custodian/pytest-terraform
 
@@ -283,6 +293,10 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://github.com/shihanng/tfvar
+
+https://medium.com/google-cloud/iac-ci-cd-integration-for-terraform-vet-d67ef528a982
+
 https://grem1.in/post/terraform-lockfiles-maxymvlasov/
 
 https://github.com/iangrunt/terraform-console-example for each debug

@@ -289,6 +289,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures
+
 https://news.ycombinator.com/item?id=36676810
 
 https://www.collabora.com/news-and-blog/news-and-events/zink-on-imagination-gpus.html

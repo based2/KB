@@ -10,6 +10,9 @@ https://github.com/simonw/llm
 > https://llm.datasette.io/en/stable/index.html
 
 # llama Facebook - Forbids commercial use, weights required
+https://ai.meta.com/llama/ v2
+> https://news.ycombinator.com/item?id=36774627
+
 https://www.reddit.com/r/LocalLLaMA/
 
 https://github.com/openlm-research/open_llama
@@ -87,6 +90,11 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://thegradient.pub/understanding-evaluation-metrics-for-language-models/
+
+https://github.com/Forethought-Technologies/AutoChain
+> https://news.ycombinator.com/item?id=36775475
+
 https://minimaxir.com/2023/07/langchain-problem/
 > https://news.ycombinator.com/item?id=36725982
 

@@ -97,6 +97,8 @@ https://github.com/dibrale/samist
 
 https://www.deeplearning.ai/the-batch/the-paella-model-for-fast-image-generation-explained/
 
+https://ai.meta.com/blog/yann-lecun-ai-model-i-jepa/
+
 # Data
 https://github.com/allenai/mmc4
 > https://news.ycombinator.com/item?id=35619159

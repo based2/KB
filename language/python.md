@@ -277,6 +277,9 @@ https://github.com/facebookincubator/cinder
 https://twitter.com/ethanhs/status/1464308141105967104 webassembly
 > https://news.ycombinator.com/item?id=29376105
 
+https://cython.readthedocs.io/en/latest/src/changes.html
+> https://news.ycombinator.com/item?id=36778617
+
 # Django
 https://spookylukey.github.io/django-views-the-right-way/index.html
 > https://news.ycombinator.com/item?id=36273892

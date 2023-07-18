@@ -159,3 +159,5 @@ https://practical.engineering/blog/2023/6/28/why-is-desalination-so-difficult
 > https://news.ycombinator.com/item?id=36602909
 
 https://www.greatlakesnow.org/2023/07/book-review-water-scientist-offers-positive-vision-avoid-dystopian-future/
+
+https://www.france24.com/en/live-news/20230711-critical-negotiations-on-deep-sea-mining-kick-off-in-jamaica

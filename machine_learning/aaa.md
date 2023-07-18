@@ -386,6 +386,14 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai
+
+https://islamov.ai/stable-diffusion-webgpu/
+> https://news.ycombinator.com/item?id=36766523
+
+https://arxiv.org/abs/2304.09871
+> https://news.ycombinator.com/item?id=36771484
+
 https://x.ai
 > https://news.ycombinator.com/item?id=36696473
 

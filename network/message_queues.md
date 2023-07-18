@@ -93,6 +93,8 @@ https://www.confluent.io/blog/windowing-in-kafka-streams/
 
 https://news.ycombinator.com/item?id=36344313
 
+https://medium.com/@ferditatlisu/bee-the-fastest-kafka-ui-bf08b6b225b7
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

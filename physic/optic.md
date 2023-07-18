@@ -141,3 +141,5 @@ https://pubs.rsc.org/en/content/articlelanding/2020/ce/c9ce01838g Controllable g
 https://gizmodo.com/glasses-fog-anti-no-fog-without-spray-heating-gold-laye-1849887511
 
 https://opg.optica.org/abstract.cfm?URI=OFC-2023-Th4A.4
+
+https://news.ycombinator.com/item?id=36686721

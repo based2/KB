@@ -7,6 +7,8 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 > https://github.com/SpiderLabs/snappy
 
 #
+https://www.bleepingcomputer.com/news/security/new-critical-citrix-adc-and-gateway-flaw-exploited-as-zero-day/
+
 https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145
 > https://news.ycombinator.com/item?id=36615849
 

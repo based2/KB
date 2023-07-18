@@ -134,3 +134,5 @@ https://samwho.dev/memory-allocation/
 > https://news.ycombinator.com/item?id=36029087
 
 https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/
+
+https://memory-spy.wizardzines.com/

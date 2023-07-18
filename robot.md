@@ -82,6 +82,8 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent
+
 https://nuttx.apache.org/
 
 https://www.theregister.com/2023/06/22/pangolin_health_robot/
