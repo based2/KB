@@ -74,6 +74,9 @@ https://www.nature.com/articles/s42005-022-00995-z Downbeat delays are a key com
 
 https://en.wikipedia.org/wiki/Cornstalk_fiddle
 
+https://jazz-library.com/articles/comping/
+> https://news.ycombinator.com/item?id=36782201
+
 # Electronic
 
 https://www.vitling.xyz/toys/acid-banger/

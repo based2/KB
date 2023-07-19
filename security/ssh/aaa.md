@@ -125,6 +125,12 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # Incident
+https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt
+
+remotely exploitable RCE vulnerability in ssh-agent's PKCS#11 support - CVE-2023-38408
+
+https://www.openssh.com/releasenotes.html#9.3p2
+
 https://blog.thc.org/infecting-ssh-public-keys-with-backdoors
 > https://news.ycombinator.com/item?id=36075144
 > https://lobste.rs/s/nezmn0/infecting_ssh_public_keys_with_backdoors
@@ -135,6 +141,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://undeadly.org/cgi?action=article;sid=20230719180438
+>
+
 https://news.ycombinator.com/item?id=36722570
 
 https://tailscale.com/blog/session-recording-beta/

@@ -64,6 +64,8 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://www.theguardian.com/science/2023/jul/19/two-faced-star-with-helium-and-hydrogen-sides-baffles-astronomers-janus
+
 https://cns.utexas.edu/news/research/chemical-cartography-reveals-milky-ways-spiral-arms
 > https://news.ycombinator.com/item?id=36738050
 

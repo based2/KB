@@ -53,6 +53,9 @@ https://drew.shoes/posts/sup/ net send win
 > https://news.ycombinator.com/item?id=34157636
 
 # News
+https://tavianator.com/2023/bfs_3.0.html find
+> https://lobste.rs/s/qohs5y/bfs_3_0_fastest_find_yet
+
 https://github.com/joone/loz chatgpt
 
 https://github.com/Slackadays/Clipboard

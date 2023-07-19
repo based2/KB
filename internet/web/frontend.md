@@ -30,5 +30,8 @@ https://github.com/nucliweb/webperf-snippets
 https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/
 > https://news.ycombinator.com/item?id=36110576
 
+https://themer.dev/blog/the-single-most-important-factor-that-differentiates-front-end-frameworks
+> https://news.ycombinator.com/item?id=36791506
+
 
 

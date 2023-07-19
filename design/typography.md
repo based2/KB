@@ -41,3 +41,9 @@ https://commitmono.com
 > https://news.ycombinator.com/item?id=36689756
 
 https://news.ycombinator.com/item?id=36775398
+
+https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type
+> https://news.ycombinator.com/item?id=36790280
+
+https://github.com/be5invis/Iosevka
+> https://news.ycombinator.com/item?id=36785409

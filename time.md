@@ -105,6 +105,8 @@ https://terokarvinen.com/2021/calendar-txt/
 
 https://phys.org/news/2023-01-lidar-reveals-ancient-mesoamerican-aligned.html
 
+https://news.ycombinator.com/item?id=36785707
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster

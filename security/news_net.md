@@ -7,6 +7,11 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 > https://github.com/SpiderLabs/snappy
 
 #
+https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt
+
+https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent
+> https://news.ycombinator.com/item?id=36790196
+
 https://www.bleepingcomputer.com/news/security/new-critical-citrix-adc-and-gateway-flaw-exploited-as-zero-day/
 
 https://forum.torproject.org/t/tor-project-tors-history-of-d-dos-attacks-strategy-for-mitigation/8145

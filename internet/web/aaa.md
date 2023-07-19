@@ -32,6 +32,9 @@ https://news.ycombinator.com/item?id=35576406
 https://dariusz.wieckiewicz.org/en/bing-jail/
 > https://news.ycombinator.com/item?id=35677086
 
+https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html
+> https://news.ycombinator.com/item?id=36788813
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

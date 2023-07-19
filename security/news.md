@@ -1,3 +1,18 @@
+https://apnews.com/article/cybersecurity-smart-devices-fcc-cyber-trust-mark-74af5829296ba65cddd2b2287b47422a
+
+https://www.cleafy.com/cleafy-labs/uncovering-driban-fraud-operations-chapter-3
+
+https://blog.blacklanternsecurity.com/p/cve-2023-3433-and-cve-2023-3434-jami
+
+https://scotthelme.co.uk/celebrating-250-000-000-scans-on-security-headers/
+> https://news.ycombinator.com/item?id=36784362
+
+https://github.com/RupertBenWiser/Web-Environment-Integrity/blob/main/explainer.md
+> https://news.ycombinator.com/item?id=36785516
+
+https://tech.target.com/blog/cybersecurity-easysweep
+> https://news.ycombinator.com/item?id=36788831
+
 https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0557/
 
 https://www.w3.org/TR/secure-payment-confirmation/

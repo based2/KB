@@ -13,6 +13,9 @@ https://github.com/simonw/llm
 https://ai.meta.com/llama/ v2
 > https://news.ycombinator.com/item?id=36774627
 
+https://simonwillison.net/2023/Jul/18/accessing-llama-2/
+> https://news.ycombinator.com/item?id=36778041
+
 https://www.reddit.com/r/LocalLLaMA/
 
 https://github.com/openlm-research/open_llama

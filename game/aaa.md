@@ -23,7 +23,8 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
-https://gandalf.lakera.ai/
+https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders
+> https://news.ycombinator.com/item?id=36787746
 
 https://github.com/sylefeb/a5k
 > https://news.ycombinator.com/item?id=36738347
@@ -82,6 +83,7 @@ https://ncase.me/door/
 > https://news.ycombinator.com/item?id=35800492
 
 https://gandalf.lakera.ai/
+> https://www.schneier.com/blog/archives/2023/07/practice-your-security-prompting-skills.html
 
 https://moderatormayhem.engine.is/
 > https://news.ycombinator.com/item?id=35904734

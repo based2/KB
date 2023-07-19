@@ -249,6 +249,12 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://filezilla-project.org/cra.php
+> https://news.ycombinator.com/item?id=36783814
+
+https://news.apache.org/foundation/entry/save-open-source-the-impending-tragedy-of-the-cyber-resilience-act
+> https://news.ycombinator.com/item?id=36783445
+
 https://donraab.medium.com/the-benefits-of-participating-in-the-openjdk-quality-outreach-program-590b86382f20
 
 https://meeksfamily.uk/~michael/data/2022-11-12-sustained-freedom.pdf

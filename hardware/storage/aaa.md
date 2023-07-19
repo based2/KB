@@ -48,6 +48,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.cyberdemon.org/2023/07/19/bunch-of-bits.html
+
 https://www.servethehome.com/iosafe-1522-nas-review-fireproof-waterproof-powered-by-synology/
 > https://news.ycombinator.com/item?id=36689888
 

@@ -5,6 +5,9 @@ Google TPU v4
 Telsa
 
 #
+https://gpux.ai/blog/sdxl_50_faster
+> https://news.ycombinator.com/item?id=36787473
+
 https://www.qualcomm.com/news/releases/2023/07/qualcomm-works-with-meta-to-enable-on-device-ai-applications-usi
 > https://news.ycombinator.com/item?id=36778730
 

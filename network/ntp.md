@@ -12,6 +12,9 @@ https://sookocheff.com/post/time/how-does-ntp-work/
 > https://news.ycombinator.com/item?id=30404415
 
 # News
+https://0x7f.dev/post/ntp-implementation-in-elixir/
+> https://news.ycombinator.com/item?id=36780898
+
 https://cert-portal.siemens.com/productcert/pdf/ssa-211752.pdf
 
 https://cert-portal.siemens.com/productcert/pdf/ssa-669737.pdf

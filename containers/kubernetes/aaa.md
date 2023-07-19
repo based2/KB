@@ -56,6 +56,11 @@ https://google.github.io/kctf/
 
 https://k9scli.io/
 
+https://github.com/derailed/k9s
+> https://news.ycombinator.com/item?id=36781077
+
+https://github.com/ahmetb/kubectx
+
 # Database
 https://thenewstack.io/a-case-for-databases-on-kubernetes-from-a-former-skeptic/
 

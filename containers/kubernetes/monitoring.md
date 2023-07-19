@@ -30,5 +30,7 @@ https://skywalking.apache.org/docs/main/next/en/setup/backend/backend-k8s/
 
 https://skywalking.apache.org/docs/main/next/en/setup/backend/backend-k8s-monitoring/
 
+https://github.com/stern/stern
+
 
 

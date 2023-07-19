@@ -113,7 +113,9 @@ https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/mo
 > https://news.ycombinator.com/item?id=36312027
 
 https://peppe.rs/posts/plain_text_journaling/
-> 
+
+https://www.lazyvim.org/
+> https://news.ycombinator.com/item?id=36753225
 
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/

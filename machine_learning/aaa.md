@@ -295,6 +295,8 @@ https://www.opensafely.org/about/#core-design-features-for-privacy-transparency-
 https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/
 > https://news.ycombinator.com/item?id=36335374
 
+https://boringappsec.substack.com/p/edition-21-a-framework-to-securely
+
 # Incident
 https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai
 > https://news.ycombinator.com/item?id=36657540
@@ -386,6 +388,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.bloomberg.com/news/articles/2023-07-19/apple-preps-ajax-generative-ai-apple-gpt-to-rival-openai-and-google
+> https://news.ycombinator.com/item?id=36788708
+
+https://fablestudio.github.io/showrunner-agents/
+> https://news.ycombinator.com/item?id=36782314
+
 https://www.ben-evans.com/benedictevans/2023/7/2/working-with-ai
 
 https://islamov.ai/stable-diffusion-webgpu/

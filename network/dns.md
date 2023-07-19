@@ -93,6 +93,8 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://cyberwarzone.com/dutch-authority-bans-third-party-registration-of-nl-domains-citing-privacy-and-abuse-concerns/
+
 https://messwithdns.net/
 
 https://blog.cloudflare.com/a-step-by-step-guide-to-transferring-domains-to-cloudflare/

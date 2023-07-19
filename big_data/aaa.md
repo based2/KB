@@ -112,6 +112,9 @@ https://github.com/google/evcxr/blob/1a2d6c40c467267801c7382edfa28028f99bbd9a/ev
 https://blog.jupyter.org/introducing-the-new-jupyterlab-desktop-bca1982bdb23
 > https://news.ycombinator.com/item?id=34736064
 
+https://nbdev.fast.ai/blog/posts/2022-08-25-jupyter-git/
+> https://news.ycombinator.com/item?id=36784583
+
 ## Dataflow, a self-hosted Observable Notebook Editor
 https://observablehq.com/@asg017/introducing-dataflow
 > https://news.ycombinator.com/item?id=27145515

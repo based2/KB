@@ -108,6 +108,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://turingpi.com/product/turing-rk1/
+> https://news.ycombinator.com/item?id=36791066
+
 https://www.theregister.com/2023/06/16/intel_poland_packaging/
 
 https://www.tomshardware.com/news/gddr6-vram-prices-plummet

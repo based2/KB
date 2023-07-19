@@ -289,6 +289,15 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/
+> https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses
+
+https://blog.europython.eu/kraken-technologies-how-we-organize-our-very-large-pythonmonolith/
+> https://news.ycombinator.com/item?id=36778318
+
+https://swizec.com/blog/you-can-t-stop-the-business-or-why-rewrites-fail/
+> https://news.ycombinator.com/item?id=36755701
+
 https://bytewax.io/blog/data-parallel-task-parallel-and-agent-actor-architectures
 
 https://news.ycombinator.com/item?id=36676810

@@ -196,6 +196,12 @@ https://smallcultfollowing.com/babysteps/blog/2023/05/09/giving-lending-and-asyn
 https://onevariable.com/blog/phase-locked-state-machines/
 > https://news.ycombinator.com/item?id=36162704
 
+https://interrupt.memfault.com/blog/embedded-async-rust
+> https://news.ycombinator.com/item?id=36790238
+
+https://maciej.codes/2022-06-09-local-async.html
+> https://news.ycombinator.com/item?id=36782884
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -466,6 +472,9 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://ferrous-systems.com/blog/a-decade-of-rust/
+> https://news.ycombinator.com/item?id=36785318
+
 https://leptos.dev/
 
 https://airlied.blogspot.com/2023/07/tinygrad-rusticl-aco-why-not.html
