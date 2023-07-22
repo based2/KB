@@ -327,6 +327,12 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://two-wrongs.com/it-takes-long-to-become-gaussian
+> https://news.ycombinator.com/item?id=36797188
+
+https://www.gnu.org/software/pspp/ statistical analysis of sampled data
+> https://news.ycombinator.com/item?id=36822994
+
 https://github.com/binpash/pash
 > https://news.ycombinator.com/item?id=36779037
 

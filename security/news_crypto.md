@@ -1,4 +1,6 @@
 
+https://vigilance.fr/vulnerabilite/Apereo-CAS-Server-vulnerabilite-via-OpenID-Connect-Provider-41808
+
 https://vigilance.fr/vulnerabilite/RabbitMQ-chiffrement-faible-via-Predictable-Credential-Obfuscation-Seed-39478
 
 https://vigilance.fr/vulnerabilite/Keycloak-execution-de-code-via-SAML-Protocol-Mapper-Javascript-Upload-39469

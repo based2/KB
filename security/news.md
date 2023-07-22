@@ -1,3 +1,25 @@
+https://news.ycombinator.com/item?id=36804404
+
+https://cybernews.com/security/deutsche-ing-postbank-impacted-moveit-hack-clop/
+> https://www.bleepingcomputer.com/news/security/deutsche-bank-confirms-provider-breach-exposed-customer-data/
+
+https://vigilance.fr/vulnerabilite/Mozilla-Thunderbird-usurpation-via-Text-Direction-Override-Character-41809
+> https://www.mozilla.org/en-US/security/advisories/mfsa2023-27/
+
+https://news.ycombinator.com/item?id=36812765
+
+https://github.com/RupertBenWiser/Web-Environment-Integrity
+> https://news.ycombinator.com/item?id=36817305
+
+https://blog.yoav.ws/posts/web_platform_change_you_do_not_like/
+> https://news.ycombinator.com/item?id=36818409
+
+https://www.theregister.com/2023/07/19/google_cuts_internet/
+> https://news.ycombinator.com/item?id=36797471
+
+https://cybernews.com/security/deutsche-ing-postbank-impacted-moveit-hack-clop/
+> https://www.bleepingcomputer.com/news/security/deutsche-bank-confirms-provider-breach-exposed-customer-data/
+
 https://apnews.com/article/cybersecurity-smart-devices-fcc-cyber-trust-mark-74af5829296ba65cddd2b2287b47422a
 
 https://www.cleafy.com/cleafy-labs/uncovering-driban-fraud-operations-chapter-3

@@ -82,6 +82,9 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://arstechnica.com/gadgets/2023/07/this-lidar-equipped-30-pound-robot-dog-can-be-yours-for-1600/
+> https://news.ycombinator.com/item?id=36824225
+
 https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent
 
 https://nuttx.apache.org/

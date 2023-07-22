@@ -69,6 +69,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=36824607
+
 https://www.climateprediction.net
 > https://news.ycombinator.com/item?id=36746465
 

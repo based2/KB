@@ -145,6 +145,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 #
+https://vigilance.fr/vulnerabilite/OpenSSL-surcharge-via-DH-Keys-Parameters-Checking-41797
+
 https://www.agwa.name/blog/post/last_weeks_lets_encrypt_downtime
 > https://news.ycombinator.com/item?id=36432885
 

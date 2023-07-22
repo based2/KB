@@ -1,3 +1,6 @@
+https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/
+> https://news.ycombinator.com/item?id=36823516
+
 # VPC
 https://blog.scottlogic.com/2021/10/11/vpcs-aws.html
 

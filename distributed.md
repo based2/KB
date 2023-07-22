@@ -187,6 +187,8 @@ https://p-org.github.io/P/whatisP/
 # concurrencyngs
 
 # News
+https://www.multiplayer.app/blog/6-best-practices-for-backend-design-in-distributed-system/
+
 https://queue.acm.org/detail.cfm?id=1142044 The Rise and Fall of CORBA
 > https://news.ycombinator.com/item?id=36546954
 

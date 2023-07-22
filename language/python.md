@@ -320,6 +320,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://gto76.github.io/python-cheatsheet/
+> https://news.ycombinator.com/item?id=36806753
+
 https://github.com/dabeaz-course/python-mastery
 > https://news.ycombinator.com/item?id=36785005
 

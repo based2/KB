@@ -23,6 +23,12 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://www.filfre.net/2023/07/diablo/
+> https://news.ycombinator.com/item?id=36815781
+
+https://humanshader.com/
+> https://news.ycombinator.com/item?id=36779855
+
 https://www.theguardian.com/society/2023/jul/14/video-games-gambling-big-spenders
 > https://news.ycombinator.com/item?id=36787746
 

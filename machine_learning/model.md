@@ -93,6 +93,21 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://llmconstellation.olafblitz.repl.co/
+> https://news.ycombinator.com/item?id=36810230
+
+https://github.com/psychic-api/rag-stack
+> https://news.ycombinator.com/item?id=36803533
+
+https://matt-rickard.com/why-did-meta-open-source-llama
+> https://news.ycombinator.com/item?id=36817938
+
+https://www.alessiofanelli.com/blog/llama2-isnt-open-source
+> https://news.ycombinator.com/item?id=36815255
+
+https://stability.ai/blog/freewilly-large-instruction-fine-tuned-models
+> https://news.ycombinator.com/item?id=36818923
+
 https://thegradient.pub/understanding-evaluation-metrics-for-language-models/
 
 https://github.com/Forethought-Technologies/AutoChain

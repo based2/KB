@@ -289,6 +289,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://maheshba.bitbucket.io/blog/2023/07/12/Design.html
+> https://news.ycombinator.com/item?id=36823375
+
 https://buttondown.email/hillelwayne/archive/more-software-projects-need-defenses-of-design/
 > https://lobste.rs/s/pcmwh1/more_software_projects_need_defenses
 

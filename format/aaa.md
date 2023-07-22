@@ -8,6 +8,12 @@ https://microformats.org/wiki/Main_Page
 > https://news.ycombinator.com/item?id=32643152
 
 # images
+https://cloudinary.com/blog/jpeg-xl-how-it-started-how-its-going
+> https://news.ycombinator.com/item?id=36801448
+
+https://www.w3.org/TR/png-3/
+> https://news.ycombinator.com/item?id=36799345
+
 https://jpegxl.info/
 > https://news.ycombinator.com/item?id=27577328
 

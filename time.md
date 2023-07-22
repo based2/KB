@@ -241,6 +241,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://www.evanjones.ca/nanosecond-collisions.html
+> https://news.ycombinator.com/item?id=36810818
+
 https://www.micahlerner.com/2022/07/03/sundial-fault-tolerant-clock-synchronization-for-datacenters.html
 
 https://www.instructables.com/Mechanical-Apple-Watch-From-Real-E-Waste-Apple-Wat/

@@ -86,6 +86,12 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://home.cern/news/news/accelerators/accelerator-report-quench-lhc-inner-triplet-magnet-causes-small-leak-major
+> https://news.ycombinator.com/item?id=36811018
+
+https://newsreleases.sandia.gov/healing_metals/
+> https://news.ycombinator.com/item?id=36822530
+
 https://www.av8n.com/physics/rotations.htm
 
 https://phys.org/news/2023-06-buckle-class-materials.html

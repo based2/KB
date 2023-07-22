@@ -9,6 +9,8 @@ https://github.com/winkjs/wink-nlp
 > https://news.ycombinator.com/item?id=33734147
 
 # News
+https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn
+
 https://news.ycombinator.com/item?id=35729586
 
 https://news.ycombinator.com/item?id=34579576

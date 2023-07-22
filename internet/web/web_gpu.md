@@ -43,3 +43,6 @@ https://bevyengine.org/news/bevy-webgpu/
 
 https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh
 > https://news.ycombinator.com/item?id=35968754
+
+https://acko.net/blog/subpixel-distance-transform/
+> https://news.ycombinator.com/item?id=36809404

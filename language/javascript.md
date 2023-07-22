@@ -450,6 +450,9 @@ https://svelte.dev/blog/svelte-4
 https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/
 > https://news.ycombinator.com/item?id=36427583
 
+https://primocms.org/ cmd, MIT
+> https://news.ycombinator.com/item?id=36813086
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296

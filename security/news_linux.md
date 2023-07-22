@@ -24,6 +24,14 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://blog.aquasec.com/detecting-ebpf-malware-with-tracee
+
+https://www.rsbac.org/
+> https://lobste.rs/s/tl6toa/rsbac_extending_linux_security_beyond
+> > http://tomoyo.osdn.jp/
+
+https://vigilance.fr/vulnerabilite/Samba-cinq-vulnerabilites-41798
+
 https://www.bleepingcomputer.com/news/security/fake-linux-vulnerability-exploit-drops-data-stealing-malware/
 
 https://www.phoronix.com/news/Google-Restricting-IO_uring

@@ -74,6 +74,8 @@ https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_
 
 # News
 https://andreabergia.com/blog/2023/07/i-have-written-a-jvm-in-rust/
+> https://github.com/andreabergia/rjvm ASLv2
+> https://news.ycombinator.com/item?id=36811554
 
 https://www.infoworld.com/article/3689880/jdk-21-the-new-features-in-java-21.html
 

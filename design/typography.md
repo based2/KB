@@ -47,3 +47,6 @@ https://fonts.google.com/knowledge/choosing_type/a_checklist_for_choosing_type
 
 https://github.com/be5invis/Iosevka
 > https://news.ycombinator.com/item?id=36785409
+
+https://www.linyangchen.com/Typography-Fell-Types-font
+> https://news.ycombinator.com/item?id=36807108

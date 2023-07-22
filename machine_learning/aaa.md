@@ -297,6 +297,9 @@ https://developer.nvidia.com/blog/nvidia-ai-red-team-an-introduction/
 
 https://boringappsec.substack.com/p/edition-21-a-framework-to-securely
 
+https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/
+> https://news.ycombinator.com/item?id=36798496
+
 # Incident
 https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai
 > https://news.ycombinator.com/item?id=36657540
@@ -388,6 +391,15 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=36799600
+
+https://hazyresearch.stanford.edu/blog/2023-07-17-flash2
+
+https://www.youtube.com/watch?v=Ae9EKCyI1xU
+>
+
+https://github.com/vercel-labs/ai
+
 https://www.bloomberg.com/news/articles/2023-07-19/apple-preps-ajax-generative-ai-apple-gpt-to-rival-openai-and-google
 > https://news.ycombinator.com/item?id=36788708
 

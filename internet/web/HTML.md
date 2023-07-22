@@ -154,6 +154,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://developer.mozilla.org/en-US/play
+> https://news.ycombinator.com/item?id=36798157
+
 https://github.com/PyHAT-stack/awesome-python-htmx
 
 https://htmx.org/posts/2023-07-14-htmx-1-9-3-is-released/

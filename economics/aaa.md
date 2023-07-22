@@ -25,6 +25,9 @@ https://en.wikipedia.org/wiki/Ideal_money
 https://wid.world/
 
 # Bank
+https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading
+> https://news.ycombinator.com/item?id=36820105
+
 https://www.experian.com/assets/decision-analytics/white-papers/bust-out-fraud-white-paper.pdf
 > https://news.ycombinator.com/item?id=27419984
 

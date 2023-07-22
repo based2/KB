@@ -67,6 +67,11 @@ https://repology.org
 
 https://blog.remirepo.net/
 
+https://www.jetpack.io/blog/introducing-nixhub/
+> https://news.ycombinator.com/item?id=36805730
+
+rpm -qpR
+
 # Incident
 https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/?td=keepreading
 

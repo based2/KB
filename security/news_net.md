@@ -7,6 +7,12 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 > https://github.com/SpiderLabs/snappy
 
 #
+https://github.com/punk-security/dnsReaper
+
+https://www.fullspectrum.dev/cisco-spa112-forever-day-cve-2023-20126/
+
+https://github.com/securekomodo/citrixInspector
+
 https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt
 
 https://blog.qualys.com/vulnerabilities-threat-research/2023/07/19/cve-2023-38408-remote-code-execution-in-opensshs-forwarded-ssh-agent

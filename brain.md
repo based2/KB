@@ -46,6 +46,11 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 > https://news.ycombinator.com/item?id=36628258
 
 # News
+https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full
+> https://news.ycombinator.com/item?id=36825481
+
+https://news.ycombinator.com/item?id=36807533
+
 https://stability.ai/research/minds-eye
 > https://news.ycombinator.com/item?id=36766700
 

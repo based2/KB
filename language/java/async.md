@@ -46,6 +46,10 @@ https://github.com/helidon-io/helidon/blob/helidon-3.x/CHANGELOG.md
 https://github.com/awaitility/awaitility
 
 # News
+https://vigilance.fr/vulnerabilite/Netty-deni-de-service-via-SniHandler-41791
+
+https://netty.io/news/2023/07/20/4-1-95-Final.html
+
 https://medium.com/helidon/helidon-mysql-document-store-cdc254a6b32f
 
 https://medium.com/helidon/helidon-4-0-0-alpha4-release-d113a9079a97

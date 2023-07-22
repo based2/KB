@@ -47,6 +47,10 @@ https://andresalmiray.com/a-pom-by-any-other-name/
 
 https://www.morling.dev/blog/maven-what-are-you-waiting-for/
 
+https://lists.apache.org/thread/30jcjszl53jp1z8hzjkrnxyv3o362ngz Apache Maven 4.0.0-alpha-7
+
+https://lists.apache.org/thread/ydxl67r7ddh6tkhckkj51j8tksd8ok0m Apache Maven 3.9.3
+
 https://lists.apache.org/thread/smvt1lldgtbkmmnyct46j3df32ds5h19 Maven Install Plugin 3.1.1 released
 
 https://lists.apache.org/thread/ppqvkt413fpsyh0kqjcr4dl5vy3m1lgg Apache Maven 3.9.1 released

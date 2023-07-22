@@ -115,6 +115,9 @@ https://ai.facebook.com/blog/voicebox-generative-ai-model-speech/
 https://google-research.github.io/seanet/audiopalm/examples/
 > https://news.ycombinator.com/item?id=36443676
 
+https://github.com/guillaumekln/faster-whisper
+> https://news.ycombinator.com/item?id=36808698
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

@@ -38,6 +38,9 @@ https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
 https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/
 
 #
+https://systemd-by-example.com/
+> https://news.ycombinator.com/item?id=36817510
+
 https://forum.proxmox.com/threads/systemd-100-cpu-hang.124767/
 > https://news.ycombinator.com/item?id=35308796
 

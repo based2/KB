@@ -84,3 +84,9 @@ https://news.ycombinator.com/item?id=34017934
 
 https://minnie.tuhs.org/pipermail/tuhs/2023-February/027644.html suid
 > https://news.ycombinator.com/item?id=34650523
+
+https://tavianator.com/2018/spawn_of_satan.html
+> https://news.ycombinator.com/item?id=36783509
+
+https://www.tech-insider.org/unix/research/1992/0622.html
+> https://news.ycombinator.com/item?id=36817482

@@ -223,6 +223,9 @@ https://guardyourdomain.com/phishing-site-takedown/
 > https://www.reddit.com/r/netsec/comments/qiigxj/how_to_takedown_a_phishing_site_this_method_has/
 
 # News
+https://very.bignutty.xyz/notes/9hfv05qcs5xf7irr .ml
+> https://news.ycombinator.com/item?id=36817179
+
 https://labs.apnic.net/index.php/2022/02/11/dns4eu/
 > https://news.ycombinator.com/item?id=34350324
 

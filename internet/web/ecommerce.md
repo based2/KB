@@ -7,6 +7,9 @@ https://www.medusa-commerce.com/
 https://www.coupang.com/ kr
 
 #
+https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm fednow
+> https://news.ycombinator.com/item?id=36801491
+
 https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4fcb90b5-e352-47e2-a6a0-f1702a4a628f
 > https://news.ycombinator.com/item?id=35997351
 

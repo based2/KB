@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://github.com/bartobri/no-more-secrets
+> https://news.ycombinator.com/item?id=36799776
+
 https://incoherency.co.uk/blog/stories/oscillating-engine-simulator.html
 > https://news.ycombinator.com/item?id=36425758
 
@@ -294,7 +297,7 @@ https://peterfidelman.github.io/constructor/ HTML5-based physics simulation for 
 > https://news.ycombinator.com/item?id=30887695
 
 https://github.com/Swordfish90/cool-retro-term
-> https://github.com/Swordfish90/cool-retro-term
+> https://news.ycombinator.com/item?id=36798774
 
 https://entropygames.net/
 

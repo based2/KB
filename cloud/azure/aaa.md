@@ -21,6 +21,11 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.descope.com/blog/post/noauth openid
+> https://msrc.microsoft.com/blog/2023/06/potential-risk-of-privilege-escalation-in-azure-ad-applications/
+> > https://techcommunity.microsoft.com/t5/microsoft-entra-azure-ad-blog/the-false-identifier-anti-pattern/ba-p/3846013
+> https://www.securityweek.com/researchers-flag-account-takeover-flaw-in-microsoft-azure-ad-oauth-apps/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-hit-by-new-outage-blocking-emails/
 
 https://techcrunch.com/2023/07/17/microsoft-lost-keys-government-hacked/?guccounter=1
@@ -97,6 +102,9 @@ https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-u
 https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
 
 #
+https://www.wiz.io/blog/storm-0558-compromised-microsoft-key-enables-authentication-of-countless-micr
+> https://news.ycombinator.com/item?id=36823007
+
 https://learn.microsoft.com/en-us/azure/active-directory/manage-apps/howto-enforce-signed-saml-authentication preview authn
 
 https://github.com/Azure/Bridge-To-Kubernetes

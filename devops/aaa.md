@@ -19,6 +19,7 @@ https://blog.container-solutions.com/fluxcd-argocd-or-jenkins-x-which-is-the-rig
 https://news.ycombinator.com/item?id=25843210
 
 https://devops.stackexchange.com/questions/1254/does-the-cattle-not-pets-distinction-apply-as-equally-to-machine-instances-as
+
 https://devops.stackexchange.com/questions/2731/downloading-docker-images-from-docker-hub-without-using-docker
 
 http://devopsku.be/
@@ -140,6 +141,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://intellij-support.jetbrains.com/hc/en-us/community/posts/360010173220-jcef-helper-using-VRAM-how-to-prevent-this
+
 https://status.gitlab.com/pages/incident/5b36dc6502d06804c08349f7/64a83eb2b0a484053ca79b8e
 > https://gitlab.com/gitlab-com/gl-infra/production/-/issues/15997
 > https://news.ycombinator.com/item?id=36634089
@@ -420,6 +423,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://plane.so/ jira AGPL3 python
+> https://news.ycombinator.com/item?id=36824450
+
 https://thenewstack.io/system-initiative-a-devops-makeover-by-ex-chef-adam-jacob/
 
 https://graphite.dev/blog/what-is-a-merge-queue

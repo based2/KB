@@ -10,6 +10,9 @@ https://github.com/sigstore/rekor Software Supply Chain Transparency Log
 https://openssf.org/press-release/2022/10/25/sigstore-announces-general-availability-at-sigstorecon/
 
 #
+https://github.com/docusealco/docuseal
+> https://news.ycombinator.com/item?id=36798593
+
 https://eprint.iacr.org/2023/042.pdf
 
 https://news.ycombinator.com/item?id=34181912
