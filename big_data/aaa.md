@@ -327,6 +327,9 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://pyro.ai/
+> https://news.ycombinator.com/item?id=36903862
+
 https://two-wrongs.com/it-takes-long-to-become-gaussian
 > https://news.ycombinator.com/item?id=36797188
 

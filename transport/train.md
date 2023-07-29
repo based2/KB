@@ -19,6 +19,9 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # News
+https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/
+> https://news.ycombinator.com/item?id=36916150
+
 https://eci.ec.europa.eu/035/public/#/screen/home
 > https://news.ycombinator.com/item?id=36450569
 

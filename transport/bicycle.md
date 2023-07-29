@@ -11,3 +11,5 @@ https://github.com/peng-zhihui/XUAN-Bike Autonomous bicycle
 
 https://www.bikeradar.com/news/shimano-three-pulley-rear-derailleur-patent/
 > https://news.ycombinator.com/item?id=34857116
+
+https://news.ycombinator.com/item?id=36914085

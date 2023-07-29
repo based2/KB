@@ -164,6 +164,9 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+http://blog.syncpup.com/posts/erlang-the-unix-way.html
+>
+
 https://fly.io/phoenix-files/a-liveview-is-a-process/
 > https://news.ycombinator.com/item?id=36339891
 

@@ -7,6 +7,8 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 > https://github.com/SpiderLabs/snappy
 
 #
+https://www.tcpdump.org/index.html#latest-releases out-of-bounds write vulnerability CVE-2023-1801
+
 https://github.com/punk-security/dnsReaper
 
 https://www.fullspectrum.dev/cisco-spa112-forever-day-cve-2023-20126/

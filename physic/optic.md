@@ -1,5 +1,8 @@
 https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
+https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html
+> https://news.ycombinator.com/item?id=36904892
+
 https://cree-led.com/news/photophyll-select/
 
 https://phys.org/news/2023-01-photonic-hopfions-particle.html

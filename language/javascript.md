@@ -262,6 +262,7 @@ https://alexsidorenko.com/blog/useeffect/
 
 https://www.tremor.so/ chart
 > https://github.com/tremorlabs/tremor
+> https://news.ycombinator.com/item?id=36911481
 
 https://react-wrap-balancer.vercel.app/
 > https://news.ycombinator.com/item?id=34097941
@@ -614,6 +615,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://github.com/domfarolino/observable
+> https://news.ycombinator.com/item?id=36909525
+
 https://marmelab.com/blog/2023/06/05/react-angularjs-moment.html
 
 https://devdojo.com/pines

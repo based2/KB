@@ -93,6 +93,8 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://eugeneyan.com/writing/system-design-for-discovery/
+
 https://gwern.net/search
 > https://news.ycombinator.com/item?id=36822880
 

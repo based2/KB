@@ -15,6 +15,9 @@ https://github.com/seaweedfs/seaweedfs
 https://github.com/yandex-cloud/geesefs non-fuse
 
 ## S3
+https://www.allthingsdistributed.com/2023/07/building-and-operating-a-pretty-big-storage-system.html
+> https://news.ycombinator.com/item?id=36894932
+
 https://towardsdatascience.com/streaming-big-data-files-from-cloud-storage-634e54818e75
 > https://github.com/kahing/goofys
 

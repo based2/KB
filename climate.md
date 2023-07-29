@@ -69,6 +69,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://berthub.eu/articles/posts/on-climate-change-and-management/
+> https://news.ycombinator.com/item?id=36915937
+
 https://news.ycombinator.com/item?id=36824607
 
 https://www.climateprediction.net

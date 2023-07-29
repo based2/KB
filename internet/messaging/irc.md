@@ -31,4 +31,7 @@ https://matt-rickard.com/the-fall-of-freenode
 https://rachelbythebay.com/w/2021/05/26/irc/
 > https://news.ycombinator.com/item?id=34249908
 
+https://koshka.love/babel/irc-forever.html
+> https://news.ycombinator.com/item?id=36918655
+
 

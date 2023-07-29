@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://github.com/remysucre/blog/blob/main/posts/sql-eq.md
+> https://news.ycombinator.com/item?id=36889656
+
 https://justinjaffray.com/joins-13-ways/?a=b
 > https://news.ycombinator.com/item?id=36575784
 

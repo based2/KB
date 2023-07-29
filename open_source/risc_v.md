@@ -7,6 +7,12 @@ https://github.com/OpenXiangShan/XiangShan
 https://github.com/mnurzia/rv/blob/main/README.md
 
 #
+https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/
+> https://news.ycombinator.com/item?id=36902877
+
+https://github.com/mrLSD/riscv-fs
+> https://news.ycombinator.com/item?id=36915108
+
 https://beagleboard.org/beaglev-ahead
 > https://news.ycombinator.com/item?id=36695682
 

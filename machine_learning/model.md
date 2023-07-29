@@ -13,6 +13,9 @@ https://github.com/simonw/llm
 https://ai.meta.com/llama/ v2
 > https://news.ycombinator.com/item?id=36774627
 
+https://together.ai/blog/llama-2-7b-32k
+> https://news.ycombinator.com/item?id=36916762
+
 https://simonwillison.net/2023/Jul/18/accessing-llama-2/
 > https://news.ycombinator.com/item?id=36778041
 

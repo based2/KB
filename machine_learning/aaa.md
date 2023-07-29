@@ -300,6 +300,8 @@ https://boringappsec.substack.com/p/edition-21-a-framework-to-securely
 https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-hackers-making-ai-safer/
 > https://news.ycombinator.com/item?id=36798496
 
+https://llm-attacks.org/
+
 # Incident
 https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai
 > https://news.ycombinator.com/item?id=36657540
@@ -391,6 +393,11 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/
+
+https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/
+> https://news.ycombinator.com/item?id=36917561
+
 https://news.ycombinator.com/item?id=36799600
 
 https://hazyresearch.stanford.edu/blog/2023-07-17-flash2

@@ -59,6 +59,9 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://fwsgonzo.medium.com/using-c-as-a-scripting-language-part-8-d366fd98676
+> https://news.ycombinator.com/item?id=36917867
+
 https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26
 > https://news.ycombinator.com/item?id=36457347
 

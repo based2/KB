@@ -101,6 +101,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=36919659
+
 https://flak.tedunangst.com/post/azorius-01
 > https://news.ycombinator.com/item?id=36801562
 

@@ -79,6 +79,10 @@ ls /Library/LaunchDaemons
 * print cupsd
 https://discussions.apple.com/thread/2078738
 
+https://stackoverflow.com/questions/5510563/how-to-start-syslogd-server-on-mac-to-accept-remote-logging-messages
+
+/SpeechSynthesis.framework
+
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
 > https://news.ycombinator.com/item?id=31864974

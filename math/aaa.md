@@ -144,6 +144,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.quantamagazine.org/mathematicians-break-bounds-in-coloring-problem-20230719/
+
 https://hg.sr.ht/~dalke/rectfillcurve
 > https://news.ycombinator.com/item?id=36762283
 

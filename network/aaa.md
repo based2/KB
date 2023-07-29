@@ -127,6 +127,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/
+> https://news.ycombinator.com/item?id=36904338
+
 https://www.phoronix.com/news/Linux-Device-Memory-TCP
 > https://news.ycombinator.com/item?id=36737958
 

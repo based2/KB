@@ -144,6 +144,9 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://mail.tarsnap.com/tarsnap-announce/msg00050.html
+> https://news.ycombinator.com/item?id=36888954
+
 https://webcache.googleusercontent.com/search?q=cache:2T9NpG8thZgJ:https://community.fly.io/t/service-interruption-cant-destroy-machine-deploy-or-restart/14227&cd=9&hl=en&ct=clnk&gl=au
 > https://news.ycombinator.com/item?id=36808296
 

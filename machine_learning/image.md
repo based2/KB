@@ -350,6 +350,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://sdxl.replicate.dev/
+> https://news.ycombinator.com/item?id=36907580
+
 https://github.com/vitoplantamura/OnnxStream
 > https://news.ycombinator.com/item?id=36803408
 

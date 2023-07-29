@@ -112,6 +112,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/
+> https://news.ycombinator.com/item?id=36917214
+
 https://github.com/0xrawsec/kunai sysmon
 
 https://github.com/teslamotors/fleet-telemetry

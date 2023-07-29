@@ -32,6 +32,9 @@ https://arxiv.org/abs/2201.11633 Tick-Tock: The Imminent Merger of a Supermassiv
 > https://news.ycombinator.com/item?id=30228095
 > > https://www.science.org/content/article/crash-titans-imminent-merger-giant-black-holes-predicted
 
+https://www.grainger.com/know-how/inspiration/kh-yerkes-observatory-restoring-worlds-largest-refracting-telescope
+> https://news.ycombinator.com/item?id=36891873
+
 ### Black hole
 https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/
 > https://news.ycombinator.com/item?id=27989875

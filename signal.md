@@ -29,6 +29,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=36917424
+
 https://blog.adafruit.com/2023/07/15/reverse-engineering-the-8086-processors-address-and-data-pin-circuits/
 > https://news.ycombinator.com/item?id=36735817
 

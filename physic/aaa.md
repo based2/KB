@@ -86,6 +86,9 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://www.science.org/content/article/spectacular-superconductor-claim-making-news-here-s-why-experts-are-doubtful
+> https://news.ycombinator.com/item?id=36916254
+
 https://home.cern/news/news/accelerators/accelerator-report-quench-lhc-inner-triplet-magnet-causes-small-leak-major
 > https://news.ycombinator.com/item?id=36811018
 

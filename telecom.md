@@ -171,6 +171,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.counterpointresearch.com/us-smartphone-shipments-q2-2023/
+> https://news.ycombinator.com/item?id=36906472
+
 https://chipsandcheese.com/2023/07/12/kryo-qualcomms-last-in-house-mobile-core/
 > https://news.ycombinator.com/item?id=36703881
 

@@ -103,6 +103,14 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide
+> https://news.ycombinator.com/item?id=36913268
+
+https://www.facebookuserprivacysettlement.com/
+> https://news.ycombinator.com/item?id=36918050
+
+https://news.ycombinator.com/item?id=36919175 uk
+
 https://thehill.com/homenews/administration/4110850-fbi-improperly-used-702-surveillance-powers-on-us-senator/
 > https://news.ycombinator.com/item?id=36822654
 

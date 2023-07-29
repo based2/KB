@@ -4,6 +4,18 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://support.apple.com/en-us/HT213847
+
+https://support.apple.com/en-us/HT213841
+
+https://support.apple.com/en-us/HT213842
+
+https://support.apple.com/en-us/HT213843
+
+https://support.apple.com/en-us/HT213844
+
+https://support.apple.com/en-us/HT213845
+
 https://github.com/felix-pb/kfd/blob/main/writeups/exploiting-puafs.md ios
 
 https://www.cyberark.com/resources/all-blog-posts/a-deep-dive-into-penetration-testing-of-macos-applications-part-1

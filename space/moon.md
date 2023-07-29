@@ -26,6 +26,8 @@ https://en.wikipedia.org/wiki/469219_Kamo%CA%BBoalewa
 https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece.html
 > https://news.ycombinator.com/item?id=28260568
 
+https://news.ycombinator.com/item?id=36889610
+
 # News
 https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/
 > 

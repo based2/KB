@@ -29,3 +29,6 @@ https://www.nature.com/articles/d41586-022-03578-8
 https://themarkup.org/privacy/2023/06/01/life360-sued-for-selling-location-data
 
 https://news.ycombinator.com/item?id=36361075
+
+https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/
+> https://news.ycombinator.com/item?id=36919225

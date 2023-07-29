@@ -39,6 +39,10 @@ https://www.iflscience.com/physics/neutrons-in-the-double-slit-experiment-really
 https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1
 > https://news.ycombinator.com/item?id=36559370
 
+# Memory
+https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/
+> https://news.ycombinator.com/item?id=36891510
+
 # Worm
 https://news.ycombinator.com/item?id=29045198
 

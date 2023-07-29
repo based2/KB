@@ -1,3 +1,17 @@
+https://blog.trailofbits.com/2023/06/15/finding-bugs-with-mlir-and-vast/
+
+https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet
+> https://news.ycombinator.com/item?id=36910146
+
+https://techreport.com/news/google-tries-to-defend-its-web-environment-integrity-as-critics-slam-it-as-dangerous/
+> https://news.ycombinator.com/item?id=36916444
+
+https://www.theregister.com/2023/07/29/apple_developer_api/
+> https://news.ycombinator.com/item?id=36918719
+
+https://developer.apple.com/news/?id=z6fu1dcu
+> https://news.ycombinator.com/item?id=36900782
+
 https://news.ycombinator.com/item?id=36804404
 
 https://cybernews.com/security/deutsche-ing-postbank-impacted-moveit-hack-clop/

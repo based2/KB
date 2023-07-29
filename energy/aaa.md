@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://thedebrief.org/forget-solar-panels-here-come-rain-panels/
+> https://news.ycombinator.com/item?id=36907674
+
 https://www.fraunhofer.de/en/research/lighthouse-projects-fraunhofer-initiatives/fraunhofer-lighthouse-projects/elkawe.html
 > https://news.ycombinator.com/item?id=36823524
 

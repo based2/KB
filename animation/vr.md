@@ -1,3 +1,6 @@
+https://blog.rfox.eu/en/Hardware/Cyberdecks.html
+> https://news.ycombinator.com/item?id=36920010
+
 https://news.ycombinator.com/item?id=36800041
 
 https://when-then-zen.christine.website/skills/paracosm-immersion
@@ -9,7 +12,6 @@ https://web.media.mit.edu/~gordonw/CompressiveLightFieldProjector/
 > https://news.ycombinator.com/item?id=36654471
 
 https://arstechnica.com/gadgets/2023/06/devs-find-that-vision-pro-cant-do-true-room-scale-vr-but-thats-no-surprise/
-> 
 
 https://www.macstories.net/news/developers-early-experiments-with-visionos/
 > https://news.ycombinator.com/item?id=36438736

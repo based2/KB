@@ -12,6 +12,9 @@ https://twobithistory.org/2021/03/08/arpanet-protocols.html
 > https://news.ycombinator.com/item?id=34637863
 
 # News
+https://capnproto.org/news/2023-07-28-capnproto-1.0.html
+> https://news.ycombinator.com/item?id=36908309
+
 https://blog.phnx.im/rfc-9420-mls/
 > https://news.ycombinator.com/item?id=36815705
 

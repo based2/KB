@@ -164,6 +164,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://steveblank.com/2023/07/25/lean-meets-wicked-problems/
+> https://news.ycombinator.com/item?id=36893695
+
 https://commoncog.com/seeing-expertise-milestone-worth-aiming-for/
 > https://news.ycombinator.com/item?id=36784864
 

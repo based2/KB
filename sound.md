@@ -158,6 +158,9 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://archive.org/details/usc-sound-effect-archive?tab=collection
+> https://news.ycombinator.com/item?id=36902050
+
 https://hackaday.com/2015/02/04/logic-noise-sweet-sweet-oscillator-sounds/
 > https://news.ycombinator.com/item?id=35700080
 

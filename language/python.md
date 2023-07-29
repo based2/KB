@@ -320,6 +320,12 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474
+> https://news.ycombinator.com/item?id=36913328
+
+https://lpython.org/blog/2023/07/lpython-novel-fast-retargetable-python-compiler/
+> https://news.ycombinator.com/item?id=36916182
+
 https://gto76.github.io/python-cheatsheet/
 > https://news.ycombinator.com/item?id=36806753
 
