@@ -96,6 +96,11 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.debian.org/News/2023/20230722
+
+https://drewdevault.com/2023/07/25/Alpine-does-not-make-news.html
+> https://news.ycombinator.com/item?id=36867992
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/LongTermSupportNoMoreFree
 > https://news.ycombinator.com/item?id=36903481
 

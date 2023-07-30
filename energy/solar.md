@@ -18,6 +18,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.semafor.com/article/07/28/2023/why-solar-power-is-booming-in-south-africa
+> https://news.ycombinator.com/item?id=36920731
+
 https://www.sciencedaily.com/releases/2023/03/230322140357.htm
 
 https://www.solarpaces.org/new-chinese-csp-project-three-gorges-renewables-trials-double-solar-field/

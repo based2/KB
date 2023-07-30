@@ -472,6 +472,9 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://www.shuttle.rs/blog/2022/06/30/error-handling
+> https://news.ycombinator.com/item?id=36825992
+
 https://ferrous-systems.com/blog/a-decade-of-rust/
 > https://news.ycombinator.com/item?id=36785318
 

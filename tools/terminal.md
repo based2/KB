@@ -42,6 +42,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/
+> https://news.ycombinator.com/item?id=36887721
+
 https://news.ycombinator.com/item?id=36334329
 
 https://susam.net/blog/control-escape-meta-tricks.html

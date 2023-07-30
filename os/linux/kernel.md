@@ -33,6 +33,12 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.phoronix.com/news/AMD-GPU-Linux-6.6-New-Stuff
+> https://news.ycombinator.com/item?id=36891609
+
+https://lwn.net/SubscriberLink/939217/6c6ec0264dcf28f7/ Flags for fchmodat()
+> https://news.ycombinator.com/item?id=36904191
+
 https://dxuuu.xyz/bpfilter.html
 > https://news.ycombinator.com/item?id=36892168
 

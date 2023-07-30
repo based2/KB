@@ -10,6 +10,9 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://scsfg.io/
+> https://news.ycombinator.com/item?id=36879991
+
 https://ceremony.ethereum.org/
 > https://news.ycombinator.com/item?id=36076364
 

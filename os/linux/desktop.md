@@ -75,6 +75,9 @@ https://usebottles.com/blog/release-2022.1.28/
 https://github.com/casualsnek/cassowary run a Windows virtual machine and use Windows applications on Linux as if they were native applications, built upon FreeRDP and remote apps technology
 > https://news.ycombinator.com/item?id=30214762
 
+https://github.com/grassmunk/Chicago95
+> https://news.ycombinator.com/item?id=36929096
+
 # Mac
 https://www.gitclear.com/blog/linux_touchpad_update_january_2023
 > https://news.ycombinator.com/item?id=34300973
@@ -97,6 +100,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/
+> https://news.ycombinator.com/item?id=36880235
+
+https://pointieststick.com/2023/07/28/this-week-in-kde-sounds-like-plasma-6/
+
 https://blog.system76.com/post/cosmic-skies-of-a-colorado-july-2023
 > https://news.ycombinator.com/item?id=36725105
 

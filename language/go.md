@@ -118,6 +118,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://functionallyimperative.com/p/the-bigger-the-interface-the-weaker
+> https://news.ycombinator.com/item?id=36908369
+
 https://eli.thegreenplace.net/2023/preview-ranging-over-functions-in-go/
 > https://news.ycombinator.com/item?id=36820282
 

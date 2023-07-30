@@ -17,6 +17,9 @@ https://en.wikipedia.org/wiki/Human_Rights_League_(France)
 https://www.anticor.org/
 
 # News
+https://www.eff.org/press/releases/electronic-frontier-foundation-present-annual-eff-awards-alexandra-asanovna-elbakyan
+> https://news.ycombinator.com/item?id=36899608
+
 https://www.conspiracywatch.info/
 
 https://theintercept.com/2023/01/11/guantanamo-bay-letter-biden/

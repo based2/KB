@@ -67,6 +67,9 @@ https://github.com/pjakma/fopl
 > https://news.ycombinator.com/item?id=36457546
 
 # Incident
+https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email
+> https://news.ycombinator.com/item?id=36926852
+
 https://arstechnica.com/civis/threads/brand-new-laptop-recreates-1981%E2%80%99s-ibm-pc-complete-with-8088-cpu-and-640kb-of-ram.1492119/page-3#post-41883267
 > https://news.ycombinator.com/item?id=36370257
 

@@ -110,6 +110,9 @@ https://robert.ocallahan.org/2021/12/do-we-really-need-link-step.html
 > https://github.com/rui314/mold
 > https://news.ycombinator.com/item?id=29754918
 
+https://github.com/rui314/mold 2.0
+> https://news.ycombinator.com/item?id=36876783
+
 https://www.lurklurk.org/linkers/linkers.html
 > https://news.ycombinator.com/item?id=30565280
 
@@ -130,6 +133,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://github.com/vnmakarov/mir
+> https://lobste.rs/s/zaevwg/mir_lightweight_jit_compiler_based_on_mir
+
 https://www.usenix.org/conference/atc23/presentation/tollner
 
 https://ahgamut.github.io/2023/07/13/patching-gcc-cosmo/

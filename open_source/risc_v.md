@@ -7,6 +7,9 @@ https://github.com/OpenXiangShan/XiangShan
 https://github.com/mnurzia/rv/blob/main/README.md
 
 #
+https://lupyuen.codeberg.page/articles/semihost.html
+> https://news.ycombinator.com/item?id=36901287
+
 https://semiengineering.com/implementing-fast-barriers-for-a-shared-memory-cluster-of-1024-risc-v-cores/
 > https://news.ycombinator.com/item?id=36902877
 

@@ -141,6 +141,9 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.theverge.com/2023/7/27/23797305/microsoft-teams-eu-antitrust-investigation-office-bundling-slack
+> https://news.ycombinator.com/item?id=36892451
+
 https://intellij-support.jetbrains.com/hc/en-us/community/posts/360010173220-jcef-helper-using-VRAM-how-to-prevent-this
 
 https://status.gitlab.com/pages/incident/5b36dc6502d06804c08349f7/64a83eb2b0a484053ca79b8e
@@ -423,6 +426,22 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.redmine.org/
+> https://news.ycombinator.com/item?id=36825913
+> > https://www.openproject.org/blog/openproject-an-alternative-to-redmine/
+
+https://caepe.sh/enterprise-devops-primer/
+> https://news.ycombinator.com/item?id=36888539
+
+https://trout.run/ webhook
+> https://news.ycombinator.com/item?id=36903531
+
+https://www.infoq.com/news/2023/06/CI-product-feedback/
+> https://news.ycombinator.com/item?id=36888442
+
+https://martinfowler.com/bliki/TeamTopologies.html
+> https://news.ycombinator.com/item?id=36874485
+
 https://plane.so/ jira AGPL3 python
 > https://news.ycombinator.com/item?id=36824450
 

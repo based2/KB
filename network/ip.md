@@ -82,6 +82,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://github.com/nicholaschiasson/fcidr
+> https://news.ycombinator.com/item?id=36881529
+
 https://www.reddit.com/r/programming/comments/13row6i/ipinfos_free_ip_address_location_database/
 
 https://www.chiark.greenend.org.uk/~ianmdlvl/hippotat/current/docs/ asinine IP over HTTP

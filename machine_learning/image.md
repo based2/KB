@@ -350,6 +350,14 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/
+> https://news.ycombinator.com/item?id=36880756
+
+https://github.com/SwordHolderSH/Mang2Vec
+> https://news.ycombinator.com/item?id=36862376
+
+https://news.ycombinator.com/item?id=36910366 Evaluating generated images
+
 https://sdxl.replicate.dev/
 > https://news.ycombinator.com/item?id=36907580
 
@@ -360,7 +368,6 @@ https://blog.usmanity.com/comparing-adobe-firefly-dalle-2-and-openjourney/
 > https://news.ycombinator.com/item?id=36407272
 
 https://arxiv.org/abs/2305.20030
-> 
 
 https://github.com/kyegomez/VisualNexus
 > https://news.ycombinator.com/item?id=36439854

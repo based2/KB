@@ -108,6 +108,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://spectrum.ieee.org/high-na-euv
+> https://news.ycombinator.com/item?id=36926228
+
 https://docs.oxide.computer/guides/introduction
 > https://news.ycombinator.com/item?id=36806539
 

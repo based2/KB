@@ -25,3 +25,6 @@ https://security.stackexchange.com/questions/269507/is-ram-wiped-before-use-in-a
 > https://news.ycombinator.com/item?id=35451863
 
 https://github.com/canonical/lxd-ui
+
+https://www.phoronix.com/news/LXD-Maintainership-Canonical
+> https://news.ycombinator.com/item?id=36898225

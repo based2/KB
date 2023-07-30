@@ -68,6 +68,8 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://atlasgo.io/blog/2023/07/19/bridging-the-gap-between-iac-and-schema-management
+
 https://db.cs.cmu.edu/mmap-cidr2022/
 > https://news.ycombinator.com/item?id=36563187
 

@@ -65,6 +65,9 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://github.com/travisdowns/polyregex
+> https://news.ycombinator.com/item?id=36809239
+
 https://gnosis.cx/regex/HTML/text/ch004.xhtml
 
 https://tavianator.com/2023/irregex.html

@@ -340,6 +340,13 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://thenewstack.io/meet-val-a-new-language-alternative-to-c-rust/ adobe
+> https://news.ycombinator.com/item?id=36901985
+
+https://johnnysswlab.com/how-branches-influence-the-performance-of-your-code-and-what-can-you-do-about-it/
+
+https://buttondown.email/hillelwayne/archive/when-to-prefer-inheritance-to-composition/
+
 https://news.ycombinator.com/item?id=36805142
 
 https://utcc.utoronto.ca/~cks/space/blog/programming/InheritanceSeparateAspects

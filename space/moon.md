@@ -29,8 +29,10 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 https://news.ycombinator.com/item?id=36889610
 
 # News
+https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/
+> https://news.ycombinator.com/item?id=36875481
+
 https://www.newscientist.com/article/2382565-indias-chandrayaan-3-launches-to-explore-moons-water-rich-south-pole/
-> 
 
 https://www.nytimes.com/2023/05/29/world/asia/china-space-moon-2030.html
 

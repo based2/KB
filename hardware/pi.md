@@ -17,6 +17,11 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://www.msn.com/en-us/money/technology/how-to-overclock-a-raspberry-pi-4-for-improved-performance/ar-AA1ewsvT
+> https://news.ycombinator.com/item?id=36923822
+
+https://news.ycombinator.com/item?id=36920036
+
 https://howchoo.com/pi/raspberry-pi-gadget-mode
 > https://news.ycombinator.com/item?id=36176954
 

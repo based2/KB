@@ -320,6 +320,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module
+> https://news.ycombinator.com/item?id=36890241
+
 https://discuss.python.org/t/a-steering-council-notice-about-pep-703-making-the-global-interpreter-lock-optional-in-cpython/30474
 > https://news.ycombinator.com/item?id=36913328
 

@@ -12,6 +12,10 @@ https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
+https://techcrunch.com/2023/07/24/spyhide-stalkerware-android/
+
+https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ocr-to-steal-credentials-from-images/
+
 https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-41684
 
 https://www.thefinalhop.com/fluhorse-the-flutter-based-android-malware-thats-raising-eyebrows/

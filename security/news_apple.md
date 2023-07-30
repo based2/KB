@@ -4,6 +4,11 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52
+> https://news.ycombinator.com/item?id=36921602
+
+https://www.macrumors.com/2023/07/24/ios-16-6-actively-exploited-vulnerabilities/
+
 https://support.apple.com/en-us/HT213847
 
 https://support.apple.com/en-us/HT213841
@@ -15,6 +20,8 @@ https://support.apple.com/en-us/HT213843
 https://support.apple.com/en-us/HT213844
 
 https://support.apple.com/en-us/HT213845
+
+https://news.ycombinator.com/item?id=36876125
 
 https://github.com/felix-pb/kfd/blob/main/writeups/exploiting-puafs.md ios
 
@@ -123,6 +130,8 @@ https://theevilbit.github.io/posts/cve-2022-32929/ Bypass iOS backup's TCC prote
 https://lapcatsoftware.com/articles/bluetooth.html apple
 > https://news.ycombinator.com/item?id=32181165
 
+https://www.microsoft.com/en-us/security/blog/2022/12/19/gatekeepers-achilles-heel-unearthing-a-macos-vulnerability/
+
 https://www.bleepingcomputer.com/news/security/new-cloudmensis-malware-backdoors-macs-to-steal-victims-data/
 
 https://www.bleepingcomputer.com/news/security/microsoft-releases-poc-exploit-for-macos-sandbox-escape-vulnerability/
@@ -184,3 +193,5 @@ https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-atta
 https://habr.com/en/post/579714/ iOS
 > https://news.ycombinator.com/item?id=28637276
 > https://support.apple.com/en-us/HT212807 https://support.apple.com/en-us/HT212601
+
+https://www.microsoft.com/en-us/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/

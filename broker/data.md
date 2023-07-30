@@ -32,3 +32,6 @@ https://news.ycombinator.com/item?id=36361075
 
 https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/
 > https://news.ycombinator.com/item?id=36919225
+
+https://www.tlo.com/vehicle-sightings
+> https://news.ycombinator.com/item?id=36881133

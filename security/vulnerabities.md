@@ -104,6 +104,10 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 ## 2023
+https://www.midnightblue.nl/tetraburst
+
+https://en.wikipedia.org/wiki/MOVEit
+
 Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirect
 
 Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues

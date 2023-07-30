@@ -141,10 +141,12 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://www.libssh2.org/changes.html
+
 https://github.com/Foxboron/ssh-tpm-agent
+> https://news.ycombinator.com/item?id=36920105
 
 https://undeadly.org/cgi?action=article;sid=20230719180438
->
 
 https://news.ycombinator.com/item?id=36722570
 

@@ -73,6 +73,9 @@ https://worldstrat.github.io/
 https://cloud.google.com/blog/products/maps-platform/create-immersive-3d-map-experiences-photorealistic-3d-tiles
 > https://news.ycombinator.com/item?id=35896176
 
+https://overturemaps.org/overture-maps-foundation-releases-first-world-wide-open-map-dataset/
+> https://news.ycombinator.com/item?id=36879461
+
 ## Space
 https://mars26.com/
 > https://news.ycombinator.com/item?id=26965583

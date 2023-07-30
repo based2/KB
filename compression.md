@@ -40,6 +40,8 @@ https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://mastodon.gamedev.place/@reduz/110793898203887642 array godot
+
 https://github.com/avaneev/lzav
 > https://news.ycombinator.com/item?id=36795530
 

@@ -24,6 +24,16 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://www.bleepingcomputer.com/news/security/linux-version-of-abyss-locker-ransomware-targets-vmware-esxi-servers/
+
+https://otx.alienvault.com/indicator/cve/CVE-2023-3090 CONFIG_IPVLAN
+
+https://otx.alienvault.com/indicator/cve/CVE-2023-32629 ubuntu overlay fs
+
+https://otx.alienvault.com/indicator/cve/CVE-2023-35001 vm register CAP_NET_ADMIN
+
+https://otx.alienvault.com/indicator/cve/CVE-2023-3390 netfilter/nf_tables_api.c. Mishandled error handling with NFT_MSG_NEWRULE
+
 https://blog.aquasec.com/detecting-ebpf-malware-with-tracee
 
 https://www.rsbac.org/

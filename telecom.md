@@ -81,6 +81,9 @@ https://blocksandfiles.com/2023/02/10/rakuten-symphonys-distributed-stateful-clo
 https://arxiv.org/abs/2306.09286
 > https://news.ycombinator.com/item?id=36370555
 
+https://www.reuters.com/technology/intel-ericsson-work-together-custom-5g-chip-2023-07-25/
+> https://news.ycombinator.com/item?id=36899561
+
 # Interference
 
 https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html
@@ -171,6 +174,18 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://arstechnica.com/space/2023/07/amazon-is-getting-ready-to-launch-a-lot-of-broadband-satellites/
+> https://news.ycombinator.com/item?id=36822141
+
+https://www.opensignal.com/2023/07/25/arrival-of-esim-is-altering-how-consumers-interact-with-operators
+> https://news.ycombinator.com/item?id=36889385
+
+https://www.androidauthority.com/samsung-profits-drop-by-95-percent-3351038/
+> https://news.ycombinator.com/item?id=36921522
+
+https://cophone.io/
+> https://news.ycombinator.com/item?id=36906140
+
 https://www.counterpointresearch.com/us-smartphone-shipments-q2-2023/
 > https://news.ycombinator.com/item?id=36906472
 

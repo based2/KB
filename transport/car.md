@@ -18,6 +18,11 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.washingtonpost.com/business/2023/07/25/chevy-bolt-ev/
+> https://news.ycombinator.com/item?id=36877818
+
+https://www.abc.net.au/news/2023-07-30/nt-world-record-darwin-underwater-drive/102665924
+
 https://www.bloomberg.com/news/articles/2023-06-26/china-s-gac-unveils-world-s-first-ammonia-car-engine
 > https://news.ycombinator.com/item?id=36535676
 

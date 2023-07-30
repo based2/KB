@@ -2,6 +2,12 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://lock.cmpxchg8b.com/zenbleed.html
+> https://www.tomshardware.com/news/zenbleed-bug-allows-data-theft-from-amds-zen-2-processors-patches-released
+
+https://arxiv.org/abs/2007.15919
+> https://news.ycombinator.com/item?id=36881989
+
 https://shop.hak5.org/products/omg-cable
 > https://news.ycombinator.com/item?id=36767073
 

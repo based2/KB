@@ -1,3 +1,5 @@
+https://www.david-smith.org/blog/2023/07/27/vision-lab-tips/
+
 https://blog.rfox.eu/en/Hardware/Cyberdecks.html
 > https://news.ycombinator.com/item?id=36920010
 

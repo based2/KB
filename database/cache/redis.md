@@ -36,3 +36,6 @@ https://kvrocks.apache.org/
 
 https://docs.keydb.dev/
 > https://news.ycombinator.com/item?id=36018149
+
+https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis
+> https://news.ycombinator.com/item?id=36920630

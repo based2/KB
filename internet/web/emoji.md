@@ -34,3 +34,6 @@ https://wh0.github.io/2020/01/02/scissors.html
 
 https://blog.emojipedia.org/new-emojis-in-2023/
 > https://news.ycombinator.com/item?id=36735032
+
+https://spiffy.tech/is-this-an-emoji
+> https://news.ycombinator.com/item?id=36923235

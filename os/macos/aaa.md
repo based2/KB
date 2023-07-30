@@ -45,10 +45,10 @@ https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.h
 https://support.apple.com/guide/security/sec469d47bd8/web
 
 * Who talk to me
-    nettop -l
+    nettop -ln
 
 * Filter on loop back - port:63342 - IDE Jetbrains IDEA web server
-     (sudo pfctl -sr 2>/dev/null; echo "block drop quick on all  proto tcp from any to any port = 49806") | sudo pfctl -e -f - 2>/dev/null
+     (sudo pfctl -sr 2>/dev/null; echo "block drop quick on all proto tcp from any to any port = 49806") | sudo pfctl -e -f - 2>/dev/null
 
 * List PF filter rules
     sudo pfctl -sr 2>/dev/null
@@ -82,6 +82,11 @@ https://discussions.apple.com/thread/2078738
 https://stackoverflow.com/questions/5510563/how-to-start-syslogd-server-on-mac-to-accept-remote-logging-messages
 
 /SpeechSynthesis.framework
+
+https://superuser.com/questions/962917/is-it-safe-to-manually-delete-frameworks-of-unused-programs-from-the-mac-os-x-l
+> https://www.mothersruin.com/software/SuspiciousPackage/
+
+parsecd api.smoot.apple.com bag-smoot.v.aaplimg.com 3.73.166.250
 
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
@@ -181,6 +186,8 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 https://jvns.ca/blog/2018/01/28/mac-freeze/
 
 # VM
+https://news.ycombinator.com/item?id=36889092
+
 https://github.com/utmapp/UTM/releases/tag/v4.1.5
 
 https://eclecticlight.co/2022/12/28/macos-virtualisation-refactored-and-sandboxed-in-viable-updates/

@@ -50,6 +50,9 @@ https://eprint.iacr.org/2016/889.pdf Ouroboros: A Provably Secure Proof-of-Stake
 https://www.youtube.com/watch?v=TCA0h73q3qQ&list=PLnPTB0CuBOBw9H7dynFu9U25vqFWRw1UX Christian Badertscher | Ouroboros Genesis, CCS in Toronto 2018.
 
 # News
+https://blockworks.co/news/worldcoin-privacy-concerns
+> https://news.ycombinator.com/item?id=36907248
+
 https://decrypt.co/123628/salesforce-web3-big-brands-nft-loyalty-programs
 
 https://news.ycombinator.com/item?id=35938877

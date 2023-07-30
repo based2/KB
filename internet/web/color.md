@@ -73,6 +73,9 @@ https://gitlab.freedesktop.org/pq/color-and-hdr/-/blob/main/doc/pixels_color.md
 https://news.ycombinator.com/item?id=26934352
 
 # News
+https://www.alanzucconi.com/2015/09/30/colour-sorting/
+> https://news.ycombinator.com/item?id=36902699
+
 https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(23)00147-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS136466132300147X%3Fshowall%3Dtrue
 > https://news.ycombinator.com/item?id=36655314
 

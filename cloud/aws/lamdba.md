@@ -75,6 +75,9 @@ https://github.com/aws-samples/aws-lambda-unit-test-example
 https://timmoth.com/posts/zR8YliXKAEavWTLQr4ESYQ
 
 # News
+https://matduggan.com/serverless-functions-post-mortem/
+> https://lobste.rs/s/ucf9dz/serverless_functions_post_mortem
+
 https://aws.plainenglish.io/aws-lambda-monitoring-a-full-guide-3cc68c6052fd
 
 https://www.reddit.com/r/java/comments/1310zuw/aws_lambda_now_supports_java_17/

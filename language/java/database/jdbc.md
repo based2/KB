@@ -26,6 +26,8 @@ https://github.com/Wisser/Jailer
 https://github.com/eXsio/querydsl-entityql#-query-execution
 
 # News
+https://www.reddit.com/r/java/comments/15ca0hn/flyway_became_closed_source/
+
 https://questdb.io/blog/2023/01/03/change-data-capture-with-questdb-and-debezium/
 
 https://gavinray97.github.io/blog/postgres-wire-protocol-jdk-21

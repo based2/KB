@@ -69,6 +69,22 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.un.org/en/story/2023/07/1139162
+> https://news.ycombinator.com/item?id=36900153
+
+https://news.ycombinator.com/item?id=36823424
+
+https://www.washingtonpost.com/climate-environment/2023/07/25/atlantic-ocean-amoc-climate-change/
+> https://news.ycombinator.com/item?id=36885002
+
+https://news.ycombinator.com/item?id=36907456
+
+https://text.npr.org/1190519762
+> https://news.ycombinator.com/item?id=36909345
+
+https://scitechdaily.com/single-atom-catalyst-could-cut-methane-pollution-90-from-millions-of-engines/
+> https://news.ycombinator.com/item?id=36926784
+
 https://berthub.eu/articles/posts/on-climate-change-and-management/
 > https://news.ycombinator.com/item?id=36915937
 

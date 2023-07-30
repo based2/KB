@@ -100,7 +100,12 @@ https://www.morling.dev/blog/towards-continuous-performance-regression-testing/
 
 https://github.com/vitaliy-sk/PerfUnit
 
+# CVE
+https://otx.alienvault.com/indicator/cve/CVE-2023-26119 htmlunit
+
 # News
+https://info.michael-simons.eu/2023/07/27/the-best-way-to-use-testcontainers-from-your-spring-boot-tests/
+
 https://github.com/adobe/S3Mock
 
 https://www.htmlunit.org/changes-report.html#a3.0.0

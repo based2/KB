@@ -48,6 +48,9 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://gvisor.dev/blog/2023/06/27/directfs/
+> https://news.ycombinator.com/item?id=36901543
+
 https://vermaden.wordpress.com/2023/07/01/nfsv4-server-inside-freebsd-vnet-jail/
 > https://lobste.rs/s/uz3afh/nfsv4_server_inside_freebsd_vnet_jail
 

@@ -39,6 +39,8 @@ https://anonymoushash.vmbrasseur.com/2023/04/24/software-bill-of-materials-sbom
 > https://news.ycombinator.com/item?id=35690258
 
 #
+https://thenewstack.io/how-devsecops-teams-should-approach-api-security/
+
 https://github.com/obi1kenobi/cargo-semver-checks
 
 https://github.com/jwilk/git-landmine
@@ -49,7 +51,6 @@ https://inbox.sourceware.org/overseers/ZJ3Tihvu6GbOb8%2FR@elastic.org/T/
 > https://git-scm.com/book/en/v2/Git-Tools-Signing-Your-Work
 
 https://www.helpnetsecurity.com/2023/06/07/developers-security-tasks/
->
 
 https://sarifweb.azurewebsites.net/
 

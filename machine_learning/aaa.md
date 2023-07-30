@@ -160,6 +160,10 @@ https://github.com/tensorflow/datasets
 https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama ASLv2
 > https://news.ycombinator.com/item?id=36277789
 
+https://news.mit.edu/2023/new-dataset-arctic-images-will-spur-artificial-intelligence-research-0724
+> https://www.ll.mit.edu/r-d/datasets
+> https://news.ycombinator.com/item?id=36907324
+
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333
@@ -301,6 +305,8 @@ https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-h
 > https://news.ycombinator.com/item?id=36798496
 
 https://llm-attacks.org/
+> https://llm-attacks.org/zou2023universal.pdf
+> > https://news.ycombinator.com/item?id=36921808
 
 # Incident
 https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai
@@ -393,7 +399,29 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.bloomberg.com/news/articles/2023-07-26/meta-to-charge-cloud-providers-for-ai-tech-that-it-said-was-free
+> https://news.ycombinator.com/item?id=36886165
+
+https://blog.google/outreach-initiatives/public-policy/google-microsoft-openai-anthropic-frontier-model-forum/
+> https://news.ycombinator.com/item?id=36875288
+
+https://gwern.net/aunn
+> https://news.ycombinator.com/item?id=36891609
+
+https://github.com/alantech/marsha lang
+> https://news.ycombinator.com/item?id=36864021
+
+https://onnxruntime.ai/
+> https://news.ycombinator.com/item?id=36863522
+
+https://arxiv.org/abs/2307.14334
+> https://news.ycombinator.com/item?id=36888948
+
+https://kenschutte.com/gzip-knn-paper2/
+> https://news.ycombinator.com/item?id=36921552
+
 https://www.quantamagazine.org/computer-scientists-discover-limits-of-major-research-algorithm-20210817/
+> https://news.ycombinator.com/item?id=36917466
 
 https://venturebeat.com/ai/hugging-face-github-and-more-unite-to-defend-open-source-in-eu-ai-legislation/
 > https://news.ycombinator.com/item?id=36917561
@@ -403,7 +431,6 @@ https://news.ycombinator.com/item?id=36799600
 https://hazyresearch.stanford.edu/blog/2023-07-17-flash2
 
 https://www.youtube.com/watch?v=Ae9EKCyI1xU
->
 
 https://github.com/vercel-labs/ai
 

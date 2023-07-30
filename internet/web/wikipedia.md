@@ -55,6 +55,9 @@ https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page
+>
+
 https://www.smashingmagazine.com/2023/06/behind-curtains-wikipedia-redesign/
 > https://news.ycombinator.com/item?id=36459310
 

@@ -36,6 +36,9 @@ https://frida.re/news/2023/06/23/frida-16-1-0-released/
 > https://www.reddit.com/r/netsec/comments/14m1ikl/frida_1610_is_out_w_a_brand_new_backend_that/
 
 #
+https://research.nccgroup.com/2023/07/20/tool-release-cartographer/
+> https://github.com/nccgroup/Cartographer
+
 https://fabiensanglard.net/ega/
 > https://news.ycombinator.com/item?id=36898749
 

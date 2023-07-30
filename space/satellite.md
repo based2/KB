@@ -36,6 +36,9 @@ https://www.sciencenews.org/article/satellites-spacex-problem-space-pollution
 https://guce.techcrunch.com/copyConsent?sessionId=3_cc-session_2d2127f2-0ddd-417e-a128-f05a02d09e59&lang=en-US
 > https://news.ycombinator.com/item?id=36693879
 
+https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assisted-crash-in-atlantic-in-space-first
+> https://news.ycombinator.com/item?id=36918798
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112

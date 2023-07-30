@@ -46,6 +46,8 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://news.ycombinator.com/item?id=36885598
+
 https://podman-desktop.io/blog/podman-desktop-release-1.2
 > https://news.ycombinator.com/item?id=36723445
 

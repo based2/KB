@@ -50,6 +50,9 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 > https://news.ycombinator.com/item?id=36628258
 
 # News
+https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging
+> https://news.ycombinator.com/item?id=36929090
+
 https://www.frontiersin.org/articles/10.3389/fnsys.2017.00093/full
 > https://news.ycombinator.com/item?id=36825481
 

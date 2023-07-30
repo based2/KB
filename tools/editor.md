@@ -265,6 +265,9 @@ https://www.masteringemacs.org/article/how-to-get-started-tree-sitter
 
 https://github.com/p3r7/awesome-elisp
 
+https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/
+> https://news.ycombinator.com/item?id=36929514
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

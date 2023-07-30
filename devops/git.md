@@ -274,6 +274,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://benhoyt.com/writings/gogit/
+> https://news.ycombinator.com/item?id=36924267
+
 https://news.ycombinator.com/item?id=36782018
 
 https://news.ycombinator.com/item?id=36334957

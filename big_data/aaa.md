@@ -73,6 +73,9 @@ https://epirhandbook.com/
 https://jupyter.org/
 https://github.com/jupyter/notebook
 
+https://blog.jupyter.org/announcing-jupyter-notebook-7-8d6d66126dcf
+> https://news.ycombinator.com/item?id=36886605
+
 https://fiftysevendegreesofrad.github.io/JupyterNotes/piano.html
 > https://news.ycombinator.com/item?id=26860627
 
@@ -327,6 +330,17 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://tellingstorieswithdata.com/
+
+https://github.com/apache/incubator-wayang
+> https://news.ycombinator.com/item?id=36880477
+
+https://third-bit.com/sdxpy/
+
+https://news.ycombinator.com/item?id=36894939
+
+https://ourworldindata.org/limits-personal-experience
+
 https://pyro.ai/
 > https://news.ycombinator.com/item?id=36903862
 

@@ -144,6 +144,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://news.ycombinator.com/item?id=36913988 ring
+
 https://mail.tarsnap.com/tarsnap-announce/msg00050.html
 > https://news.ycombinator.com/item?id=36888954
 
@@ -287,6 +289,11 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://siliconangle.com/2023/07/29/leaked-court-docs-tell-us-aws-azure-google-cloud-market-shares/
+
+https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/
+> https://news.ycombinator.com/item?id=36928043
+
 https://www.bleepingcomputer.com/news/security/cisa-shares-free-tools-to-help-secure-data-in-the-cloud/
 
 https://news.ycombinator.com/item?id=36663803

@@ -103,11 +103,17 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://news.ycombinator.com/item?id=36913606
+
 https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide
 > https://news.ycombinator.com/item?id=36913268
 
 https://www.facebookuserprivacysettlement.com/
 > https://news.ycombinator.com/item?id=36918050
+> https://news.ycombinator.com/item?id=36916892
+
+https://torrentfreak.com/internet-provider-must-pay-47m-bond-to-appeal-piracy-liability-judgment-230729/
+> https://news.ycombinator.com/item?id=36927583
 
 https://news.ycombinator.com/item?id=36919175 uk
 

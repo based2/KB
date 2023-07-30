@@ -7,6 +7,18 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 > https://github.com/SpiderLabs/snappy
 
 #
+https://www.midnightblue.nl/tetraburst
+> https://news.ycombinator.com/item?id=36867355
+> https://twitter.com/mattjay/status/1684623084228136960
+> > https://news.ycombinator.com/item?id=36905476
+> https://www.vice.com/en/article/4a3n3j/backdoor-in-police-radios-tetra-burst
+> > https://news.ycombinator.com/item?id=36846242
+
+https://www.theguardian.com/us-news/2023/jul/29/pentagon-us-air-force-critical-compromise
+> https://news.ycombinator.com/item?id=36922069
+
+https://www.bleepingcomputer.com/news/security/ivanti-patches-new-zero-day-exploited-in-norwegian-govt-attacks/
+
 https://www.tcpdump.org/index.html#latest-releases out-of-bounds write vulnerability CVE-2023-1801
 
 https://github.com/punk-security/dnsReaper
@@ -214,3 +226,5 @@ https://www.vdoo.com/blog/realtek-wifi-vulnerabilities-zero-day
 
 https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
 > https://news.ycombinator.com/item?id=26726902
+
+https://otx.alienvault.com/indicator/cve/CVE-2019-12261

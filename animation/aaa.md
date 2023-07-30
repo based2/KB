@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://apps.amandaghassaei.com/VortexShedding/
+> https://news.ycombinator.com/item?id=36904555
+
+https://graphite.rs/
+> https://news.ycombinator.com/item?id=36901406
+
 https://github.com/bartobri/no-more-secrets
 > https://news.ycombinator.com/item?id=36799776
 

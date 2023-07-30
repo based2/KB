@@ -69,6 +69,9 @@ https://news.ycombinator.com/item?id=33820330
 
 https://krisnova.net/posts/network-instrumentation/
 
+https://unix.stackexchange.com/questions/447440/ufw-iptables-not-blocking-dhcp-udp-port-67#447524
+> https://news.ycombinator.com/item?id=36894198
+
 # Tests
 https://docs.gns3.com/docs/
 
@@ -127,6 +130,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://blog.fluxninja.com/blog/why-adaptive-rate-limiting-is-a-game-changer
+> https://news.ycombinator.com/item?id=36827418
+
 https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/
 > https://news.ycombinator.com/item?id=36904338
 

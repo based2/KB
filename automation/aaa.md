@@ -31,6 +31,8 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/?utm_source=www.weekly.tf
+
 https://masterpoint.io/updates/passing-on-crossplane/
 
 https://www.permit.io/blog/zanzibar-vs-opa

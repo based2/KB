@@ -144,6 +144,15 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+http://www.darkmedievaltimes.net/programming/for_loops_in_mathematics.html
+> https://news.ycombinator.com/item?id=36912507
+
+https://people.math.harvard.edu/~knill/mathmovies/
+> https://news.ycombinator.com/item?id=36875042
+
+https://thenumb.at/Functions-are-Vectors/
+> https://news.ycombinator.com/item?id=36921446
+
 https://www.quantamagazine.org/mathematicians-break-bounds-in-coloring-problem-20230719/
 
 https://hg.sr.ht/~dalke/rectfillcurve

@@ -101,6 +101,11 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://erinkissane.com/mastodon-is-easy-and-fun-except-when-it-isnt
+> https://news.ycombinator.com/item?id=36915137
+
+https://www.bleepingcomputer.com/news/technology/apple-rejects-new-name-x-for-twitter-ios-app-because-rules/
+
 https://news.ycombinator.com/item?id=36919659
 
 https://flak.tedunangst.com/post/azorius-01

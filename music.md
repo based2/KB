@@ -140,6 +140,9 @@ https://github.com/vlcoo/P3synth
 > https://news.ycombinator.com/item?id=34831423
 
 #
+https://openpipes.org/
+> https://news.ycombinator.com/item?id=36873573
+
 https://musescore.org/en/4.1
 > https://news.ycombinator.com/item?id=36699738
 

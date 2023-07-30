@@ -103,6 +103,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://vladimirzdrazil.com/posts/object-keys-keyof-t/
+
 https://devblogs.microsoft.com/typescript/announcing-typescript-5-2-beta/
 > https://news.ycombinator.com/item?id=36539014
 

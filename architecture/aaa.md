@@ -289,6 +289,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://encore.dev/blog/long-term-ownership
+
 https://maheshba.bitbucket.io/blog/2023/07/12/Design.html
 > https://news.ycombinator.com/item?id=36823375
 

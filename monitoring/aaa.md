@@ -112,6 +112,13 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://longform.asmartbear.com/product-metrics/
+
+https://mcfunley.com/whom-the-gods-would-destroy-they-first-give-real-time-analytics
+> https://news.ycombinator.com/item?id=36870140
+
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusBlackboxAndDNS
+
 https://last9.io/blog/native-support-for-opentelemetry-metrics-in-prometheus/
 > https://news.ycombinator.com/item?id=36917214
 

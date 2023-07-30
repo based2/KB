@@ -228,6 +228,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://github.com/martyjacobsdev/Blade-Runner-Tailwind
+> https://news.ycombinator.com/item?id=36895806
+
 https://ishadeed.com/article/threads-app-css/
 > https://news.ycombinator.com/item?id=36745289
 

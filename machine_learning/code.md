@@ -55,6 +55,15 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://stackoverflow.blog/2023/07/27/announcing-overflowai/
+> https://news.ycombinator.com/item?id=36892311
+
+https://github.com/continuedev/continue
+> https://news.ycombinator.com/item?id=36882146
+
+https://github.com/smallcloudai/refact
+> https://news.ycombinator.com/item?id=36907436
+
 https://twitter.com/OpenAI/status/1677015057316872192
 > https://news.ycombinator.com/item?id=36620434
 

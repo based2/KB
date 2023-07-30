@@ -16,6 +16,13 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://electrek.co/2023/07/27/us-grid-interconnections-ferc/
+> https://news.ycombinator.com/item?id=36907508
+
+https://www.freethink.com/energy/enhanced-geothermal-system
+
+https://news.ycombinator.com/item?id=36921675
+
 https://thedebrief.org/forget-solar-panels-here-come-rain-panels/
 > https://news.ycombinator.com/item?id=36907674
 

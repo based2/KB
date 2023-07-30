@@ -77,6 +77,9 @@ https://blog.unicode.org/2022/09/announcing-unicode-standard-version-150.
 
 https://shapecatcher.com/
 
+https://mcilloni.ovh/2023/07/23/unicode-is-hard/
+> https://news.ycombinator.com/item?id=36865287
+
 # ASCII
 https://bestasciitable.com/
 > https://news.ycombinator.com/item?id=34399598

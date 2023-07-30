@@ -21,6 +21,9 @@ https://github.com/dahliaOS/pangolin_desktop
 > https://news.ycombinator.com/item?id=30460120
 
 # News
+https://9to5google.com/2023/07/25/google-abandons-assistant-speakers-fuchsia/
+> https://news.ycombinator.com/item?id=36871673
+
 https://arstechnica.com/gadgets/2023/01/big-layoffs-at-googles-fuchsia-os-call-the-projects-future-into-question/
 > https://news.ycombinator.com/item?id=34515277
 

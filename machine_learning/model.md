@@ -1,5 +1,8 @@
 https://huggingface.co/
 
+https://github.com/huggingface/text-generation-inference/issues/726
+> https://news.ycombinator.com/item?id=36921038
+
 https://github.com/kyegomez/tree-of-thoughts
 > https://news.ycombinator.com/item?id=36085538
 
@@ -12,6 +15,12 @@ https://github.com/simonw/llm
 # llama Facebook - Forbids commercial use, weights required
 https://ai.meta.com/llama/ v2
 > https://news.ycombinator.com/item?id=36774627
+
+https://www.philschmid.de/llama-2
+> https://news.ycombinator.com/item?id=36824265
+
+https://replicate.com/blog/run-llama-locally
+> https://news.ycombinator.com/item?id=36865495
 
 https://together.ai/blog/llama-2-7b-32k
 > https://news.ycombinator.com/item?id=36916762
@@ -96,6 +105,24 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://app.twelvelabs.io/blog/foundation-models-are-going-multimodal
+> https://news.ycombinator.com/item?id=36896335
+
+https://arxiv.org/abs/2307.14936
+> https://news.ycombinator.com/item?id=36902663
+
+https://github.com/BerriAI/litellm
+> https://news.ycombinator.com/item?id=36887711
+
+https://lucaspauker.com/articles/llms-unleashed-the-power-of-fine-tuning
+> https://news.ycombinator.com/item?id=36896710
+
+https://www.heimdallapp.org/
+> https://news.ycombinator.com/item?id=36913518
+
+https://chie.app/posts/introduce-the-chie-app/
+> https://news.ycombinator.com/item?id=36906450
+
 https://llmconstellation.olafblitz.repl.co/
 > https://news.ycombinator.com/item?id=36810230
 

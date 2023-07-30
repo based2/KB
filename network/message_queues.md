@@ -95,6 +95,9 @@ https://news.ycombinator.com/item?id=36344313
 
 https://medium.com/@ferditatlisu/bee-the-fastest-kafka-ui-bf08b6b225b7
 
+https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/
+> https://news.ycombinator.com/item?id=36870278
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

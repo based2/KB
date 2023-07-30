@@ -144,6 +144,12 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://thesephist.com/posts/hyperlink/
+> https://news.ycombinator.com/item?id=36866242
+
+https://www.eugenewei.com/blog/2018/5/21/invisible-asymptotes
+> https://news.ycombinator.com/item?id=36908757
+
 https://github.com/underpig1/octos
 > https://news.ycombinator.com/item?id=36824595
 

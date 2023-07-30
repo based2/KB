@@ -66,6 +66,11 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/
+
+https://blog.sicuranext.com/aws-waf-bypass/
+> https://www.reddit.com/r/netsec/comments/15a6gxh/aws_waf_bypass_invalid_json_object_and_unicode/
+
 https://www.gosecure.net/blog/2023/06/21/aws-waf-clients-left-vulnerable-to-sql-injection-due-to-unorthodox-mssql-design-choice/
 
 https://github.com/ramimac/aws-customer-security-incidents
@@ -128,6 +133,9 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://www.lastweekinaws.com/blog/breaking-aws-begins-charging-for-public-ipv4-addresses/
+> https://news.ycombinator.com/item?id=36910994
+
 https://www.awsdocsgpt.com/
 > https://news.ycombinator.com/item?id=36619481
 

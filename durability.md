@@ -49,6 +49,7 @@ https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-
 
 https://fr.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill
 > https://news.ycombinator.com/item?id=35532479
+
 #
 https://github.com/lima-vm/lima
 
@@ -75,6 +76,9 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://www.techdirt.com/2023/07/27/__trashed-4/
+> https://news.ycombinator.com/item?id=36892506
+
 https://www.theverge.com/2023/6/24/23771064/european-union-battery-regulation-ecodesign-user-replacable-batteries
 > https://news.ycombinator.com/item?id=36466153
 

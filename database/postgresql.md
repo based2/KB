@@ -289,6 +289,10 @@ https://blog.val.town/blog/migrating-from-supabase
 > https://news.ycombinator.com/item?id=36004925
 
 # Incident
+https://otx.alienvault.com/indicator/cve/CVE-2023-2454
+
+https://otx.alienvault.com/indicator/cve/CVE-2023-2455
+
 https://www.postgresql.org/about/news/postgresql-153-148-1311-1215-and-1120-released-2637/
 
 https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-Row-Security-User-ID-Changes-41249
@@ -296,6 +300,16 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://twitter.com/BdKozlovski/status/1684098236426878976
+> https://news.ycombinator.com/item?id=36888496
+
+https://www.crunchydata.com/blog/remote-access-anything-from-postgres
+
+https://news.ycombinator.com/item?id=36922957
+
+https://hakibenita.com/postgresql-correlation-brin-multi-minmax
+> https://news.ycombinator.com/item?id=36889365
+
 https://news.ycombinator.com/item?id=36895220
 
 https://www.kylehailey.com/post/postgres-partition-pains-lockmanager-waits

@@ -182,6 +182,8 @@ https://klarasystems.com/articles/modern-inetd-in-freebsd/
 https://cdn.coverstand.com/33057/739644/0483e8ca86f15b6c0ce9d6f4660f93665bff176a.2.pdf
 
 ## News
+https://vermaden.wordpress.com/2023/07/30/amd-based-freebsd-desktop/
+
 https://cloud7.news/article/freebsd-13-2-review/
 
 https://lists.freebsd.org/archives/freebsd-announce/2022-December/000059.html
@@ -229,6 +231,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os
+
 https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727
 
 https://www.unitedbsd.com/d/590-testing-the-lua-kernel-interpreter netbsd, lua

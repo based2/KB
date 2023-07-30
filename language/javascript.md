@@ -615,6 +615,10 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://github.com/ChrisCavs/aimless.js random
+
+https://www.macarthur.me/posts/maps-for-dom-nodes
+
 https://github.com/domfarolino/observable
 > https://news.ycombinator.com/item?id=36909525
 

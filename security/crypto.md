@@ -181,6 +181,12 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://web.cs.ucdavis.edu/~rogaway/papers/moral.html
+> https://news.ycombinator.com/item?id=36901885
+
+https://www.quantamagazine.org/the-cryptographer-who-ensures-we-can-trust-our-computers-20230727/
+> https://news.ycombinator.com/item?id=36903103
+
 https://news.ycombinator.com/item?id=36780297
 
 https://news.ycombinator.com/item?id=36686156

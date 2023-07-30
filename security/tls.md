@@ -120,6 +120,8 @@ https://community.letsencrypt.org/t/enabling-acme-caa-account-and-method-binding
 https://www.devever.net/~hl/acme-caa-live dv
 > https://news.ycombinator.com/item?id=34035148
 
+https://letsencrypt.org/2023/03/23/improving-resliiency-and-reliability-with-ari.html
+
 # DNS
 https://www.reddit.com/r/netsec/comments/cp78zv/140_domains_of_deloitte_are_vulnerable_by/
 
@@ -166,6 +168,9 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://datatracker.ietf.org/doc/html/draft-ietf-tls-esni-16 hello
+> https://news.ycombinator.com/item?id=36889882
+
 https://subtls.pages.dev/
 > https://news.ycombinator.com/item?id=35884437
 

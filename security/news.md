@@ -1,4 +1,39 @@
+https://www.securesystems.de/blog/svg-security-risks-not-just-a-scalable-graphic/
+> https://www.reddit.com/r/netsec/comments/15av32g/svg_security_risks_not_just_a_scalable_graphic/
+> > https://www.bleepingcomputer.com/news/security/opensea-nft-platform-bugs-let-hackers-steal-crypto-wallets/
+
+https://blog.trailofbits.com/2023/07/26/announcing-the-trail-of-bits-testing-handbook/
+
+https://www.neowin.net/news/hackers-continue-to-distribute-malware-through-hacked-verified-pages-on-facebook/
+
+https://www.peterullrich.com/how-malicious-libraries-can-steal-all-your-application-secrets
+> https://news.ycombinator.com/item?id=36826438
+
+https://news.ycombinator.com/item?id=36902209
+
+https://news.ycombinator.com/item?id=36881061
+
+https://www.bleepingcomputer.com/news/security/sec-now-requires-companies-to-disclose-cyberattacks-in-4-days/
+> https://news.ycombinator.com/item?id=36887879
+
+https://www.bleepingcomputer.com/news/security/zimbra-patches-zero-day-vulnerability-exploited-in-xss-attacks/
+
+https://www.wsj.com/amp/articles/surgery-technology-data-black-boxes-a8bc483b
+
+https://www.theverge.com/2023/7/18/23798153/fcc-cyber-trust-mark-biden-security
+
 https://blog.trailofbits.com/2023/06/15/finding-bugs-with-mlir-and-vast/
+
+https://www.sonarsource.com/blog/a-twist-in-the-code-openmeetings-vulnerabilities-through-unexpected-application-state/
+
+https://httptoolkit.com/blog/apple-private-access-tokens-attestation/
+> https://news.ycombinator.com/item?id=36862494
+
+https://github.com/chromium/chromium/commit/6f47a22906b2899412e79a2727355efa9cc8f5bd
+> https://news.ycombinator.com/item?id=36876301
+
+https://dombytes.com/post/oops-google-did-it-again/
+> https://news.ycombinator.com/item?id=36921634
 
 https://www.fsf.org/blogs/community/web-environment-integrity-is-an-all-out-attack-on-the-free-internet
 > https://news.ycombinator.com/item?id=36910146
@@ -12,9 +47,19 @@ https://www.theregister.com/2023/07/29/apple_developer_api/
 https://developer.apple.com/news/?id=z6fu1dcu
 > https://news.ycombinator.com/item?id=36900782
 
+https://www.theregister.com/2023/07/29/cisa_nsa_idor_australia/
+> https://news.ycombinator.com/item?id=36921767
+
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-breach-risks-from-idor-web-app-vulnerabilities/
+
+https://techcrunch.com/2023/07/27/us-government-contractor-says-moveit-hackers-accessed-health-data-of-at-least-8-million-individuals/?guccounter=1
+> https://news.ycombinator.com/item?id=36912224
+
+https://www.bleepingcomputer.com/news/security/8-million-people-hit-by-data-breach-at-us-govt-contractor-maximus/ moveit
+
 https://news.ycombinator.com/item?id=36804404
 
-https://cybernews.com/security/deutsche-ing-postbank-impacted-moveit-hack-clop/
+https://cybernews.com/security/deutsche-ing-postbank-impacted-moveit-hack-clop/ moveit
 > https://www.bleepingcomputer.com/news/security/deutsche-bank-confirms-provider-breach-exposed-customer-data/
 
 https://vigilance.fr/vulnerabilite/Mozilla-Thunderbird-usurpation-via-Text-Direction-Override-Character-41809

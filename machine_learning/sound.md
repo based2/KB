@@ -118,6 +118,9 @@ https://google-research.github.io/seanet/audiopalm/examples/
 https://github.com/guillaumekln/faster-whisper
 > https://news.ycombinator.com/item?id=36808698
 
+https://www.assemblyai.com/blog/lemur/
+> https://news.ycombinator.com/item?id=36900294
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

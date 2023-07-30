@@ -3,6 +3,9 @@ https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage
 > https://news.ycombinator.com/item?id=35341065
 
 #
+https://interrupt.memfault.com/blog/monitoring-battery-life
+> https://news.ycombinator.com/item?id=36893965
+
 https://www.espressif.com/sites/default/files/documentation/ESP32-C3%20Wireless%20Adventure.pdf
 > https://news.ycombinator.com/item?id=36336112
 

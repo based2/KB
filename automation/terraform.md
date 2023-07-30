@@ -231,6 +231,8 @@ https://itnext.io/efficient-kubernetes-cluster-deployment-accelerating-setup-wit
 
 https://systemweakness.com/aws-waf-with-terraform-1dafa305c4a1
 
+https://tratnayake.dev/a-misadventure-with-terraform-sets-pagerduty-schedules
+
 ## Serverless
 https://github.com/Plenituz/barbe-serverless
 
@@ -293,6 +295,10 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://github.com/asannou/tfmermaid-action
+
+https://github.com/pcasteran/terraform-graph-beautifier
+
 https://github.com/shihanng/tfvar
 
 https://medium.com/google-cloud/iac-ci-cd-integration-for-terraform-vet-d67ef528a982
