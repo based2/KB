@@ -141,6 +141,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://vigilance.fr/vulnerabilite/LLVM-Toolchain-quatre-vulnerabilites-41876
+
+https://www.jenkins.io/security/advisory/2023-07-26/
+
 https://www.theverge.com/2023/7/27/23797305/microsoft-teams-eu-antitrust-investigation-office-bundling-slack
 > https://news.ycombinator.com/item?id=36892451
 
@@ -426,6 +430,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://risor.io/
+> https://news.ycombinator.com/item?id=36984098
+
+https://github.blog/2023-07-12-introducing-passwordless-authentication-on-github-com/
+
 https://www.redmine.org/
 > https://news.ycombinator.com/item?id=36825913
 > > https://www.openproject.org/blog/openproject-an-alternative-to-redmine/

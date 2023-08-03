@@ -19,6 +19,9 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # News
+https://www.hydrogeninsight.com/transport/no-more-hydrogen-trains-rail-company-that-launched-worlds-first-h2-line-last-year-opts-for-all-electric-future/2-1-1495801
+> https://news.ycombinator.com/item?id=36989604
+
 https://southseattleemerald.com/2023/07/18/plans-develop-for-high-speed-rail-in-the-pnw/
 > https://news.ycombinator.com/item?id=36916150
 

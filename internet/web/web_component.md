@@ -45,3 +45,6 @@ https://shoelace.style/
 
 https://htmlwithsuperpowers.netlify.app/
 > https://news.ycombinator.com/item?id=34333282
+
+https://daverupert.com/2023/07/why-not-webcomponents/
+> https://news.ycombinator.com/item?id=36976670

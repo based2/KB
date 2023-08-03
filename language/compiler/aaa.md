@@ -85,6 +85,9 @@ https://www.phoronix.com/news/LLVM-Fat-LTO-Objects
 
 https://discourse.llvm.org/t/llvm-14-0-0-release/61224
 
+https://mcyoung.xyz/2023/08/01/llvm-ir/
+> https://lobste.rs/s/avpooi/gentle_introduction_llvm_ir
+
 ## Clang
 https://reviews.llvm.org/D108643
 
@@ -133,6 +136,12 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf flowgraph
+> https://news.ycombinator.com/item?id=36985208
+
+https://bartwronski.com/2021/01/18/is-this-a-branch/
+> https://news.ycombinator.com/item?id=36922883
+
 https://github.com/vnmakarov/mir
 > https://lobste.rs/s/zaevwg/mir_lightweight_jit_compiler_based_on_mir
 

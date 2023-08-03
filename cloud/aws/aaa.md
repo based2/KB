@@ -133,6 +133,11 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://awsgravitonweekly.com/posts/aws-graviton-weekly-47
+
+https://aws.amazon.com/en/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/
+> https://www.reddit.com/r/aws/comments/15c4pog/aws_public_ipv4_address_charge_public_ip_insights/
+
 https://www.lastweekinaws.com/blog/breaking-aws-begins-charging-for-public-ipv4-addresses/
 > https://news.ycombinator.com/item?id=36910994
 

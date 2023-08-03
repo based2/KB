@@ -164,3 +164,5 @@ https://www.france24.com/en/live-news/20230711-critical-negotiations-on-deep-sea
 
 https://www.theregister.com/2023/07/27/thames_water_to_datacenters_cut/
 > https://news.ycombinator.com/item?id=36894760
+
+https://techxplore.com/news/2023-07-pressure-driven-distillation-fast-purification.html

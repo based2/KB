@@ -154,6 +154,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://catskull.net/html.html
+> https://news.ycombinator.com/item?id=36966653
+
 https://developer.mozilla.org/en-US/play
 > https://news.ycombinator.com/item?id=36798157
 

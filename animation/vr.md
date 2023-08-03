@@ -1,3 +1,8 @@
+https://www.theverge.com/2023/8/3/23818718/apple-pixar-3d-tech-alliance-openusd-metaverse
+
+https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/
+> https://news.ycombinator.com/item?id=36977863
+
 https://www.david-smith.org/blog/2023/07/27/vision-lab-tips/
 
 https://blog.rfox.eu/en/Hardware/Cyberdecks.html

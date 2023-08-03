@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=35985085
 
 https://uxtools.co/challenges/
 
+https://news.ycombinator.com/item?id=36931344 x
+
 # Gesture
 http://depts.washington.edu/acelab/proj/dollar/index.html
 > https://news.ycombinator.com/item?id=27046822

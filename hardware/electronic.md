@@ -46,8 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
-https://predictabledesigns.com/how-much-does-it-cost-to-develop-and-manufacture-new-electronic-product/
+https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/
 
+https://predictabledesigns.com/how-much-does-it-cost-to-develop-and-manufacture-new-electronic-product/
 
 https://www.allaboutcircuits.com/textbook/
 
@@ -58,7 +59,6 @@ https://jmw.name/projects/exploring-pdns/
 > https://news.ycombinator.com/item?id=35368795
 
 https://tinytapeout.com/
-> 
 
 https://lcamtuf.substack.com/p/comparing-hobby-pcb-vendors
 > https://news.ycombinator.com/item?id=35285769

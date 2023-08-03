@@ -103,6 +103,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://iapp.org/news/a/a-view-from-dc-adtech-is-built-on-a-privacy-fault-line/
+> https://news.ycombinator.com/item?id=36972134
+
+https://techcrunch.com/2023/08/01/california-privacy-agency-connected-cars/?guccounter=1
+> https://news.ycombinator.com/item?id=36977606
+
 https://news.ycombinator.com/item?id=36913606
 
 https://www.eff.org/deeplinks/2023/07/uk-government-very-close-eroding-encryption-worldwide

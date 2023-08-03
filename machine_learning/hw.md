@@ -5,6 +5,9 @@ Google TPU v4
 Telsa
 
 #
+https://sfcompute.org/
+> https://news.ycombinator.com/item?id=36933603
+
 https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/
 > https://news.ycombinator.com/item?id=36872514
 

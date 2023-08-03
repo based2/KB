@@ -227,6 +227,9 @@ https://news.ycombinator.com/item?id=27675305
 
 https://automatetheboringstuff.com/
 
+https://pyflo.net/
+> https://news.ycombinator.com/item?id=36936797
+
 # Gplot
 https://www.alexpghayes.com/blog/many-models-workflows-in-python-part-i/
 
@@ -320,6 +323,20 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://github.com/nicholasmireles/DotDict
+> https://news.ycombinator.com/item?id=36977606
+
+https://github.com/reflex-dev/reflex
+> https://news.ycombinator.com/item?id=36972398
+
+https://briefcase.readthedocs.io/en/stable/
+> https://news.ycombinator.com/item?id=36984071
+
+https://sethmlarson.dev/pep-440
+> https://news.ycombinator.com/item?id=36985414
+
+https://news.ycombinator.com/item?id=36940871 pypy
+
 https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module
 > https://news.ycombinator.com/item?id=36890241
 

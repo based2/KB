@@ -118,6 +118,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.resizemp4.com/
+> https://news.ycombinator.com/item?id=36947615
+
 https://restofworld.org/2023/youtube-ai-dubbing-automated-translation/
 > https://news.ycombinator.com/item?id=36920656
 

@@ -140,6 +140,9 @@ https://github.com/vlcoo/P3synth
 > https://news.ycombinator.com/item?id=34831423
 
 #
+https://suricrasia.online/opus-databending-drumkit/
+> https://news.ycombinator.com/item?id=36958612
+
 https://openpipes.org/
 > https://news.ycombinator.com/item?id=36873573
 
@@ -233,6 +236,9 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://tidalcycles.org/
+> https://news.ycombinator.com/item?id=36967413
+
 https://metabrainz.org/datasets
 > https://news.ycombinator.com/item?id=36150062
 

@@ -74,6 +74,8 @@ https://spekka.github.io/ Streaming Productivity Enhancements for Akka
 
 https://scalqa.org/doc/
 
+https://pekko.apache.org/what-is-pekko.html
+
 ## Monix
 https://monix.io/
 
@@ -88,6 +90,16 @@ https://gitlab.com/mhammons/slinc C
 https://eed3si9n.com/sbt-1.8.3
 
 # News
+https://softwaremill.com/go-like-channels-in-scala-receive-send-and-default-clauses/
+
+https://scala-lang.org/2023/07/17/signature-polymorphic-methods.html
+
+https://blog.rockthejvm.com/otp-authentication-scala-http4s/
+
+https://github.com/sbt/sbt-license-report/releases/tag/v1.6.0
+
+https://eed3si9n.com/sbt-1.9.3
+
 https://github.com/tailcallhq/tailcall API composition in microservices architecture
 
 https://blog.fanf.eu/posts/two-more-old-cents-on-scala-3-migration/

@@ -1,6 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/
+> https://news.ycombinator.com/item?id=36979532
+
+https://www.theverge.com/2023/8/3/23818363/microsoft-windows-11-stagingtool-leak-secret-features
+> https://news.ycombinator.com/item?id=36987113
+
 https://news.ycombinator.com/item?id=36902560
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2023-patch-tuesday-warns-of-6-zero-days-132-flaws/

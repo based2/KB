@@ -9,6 +9,9 @@ https://news.ycombinator.com/item?id=26435783 .DS_Store
 https://github.com/serhii-londar/open-source-mac-os-apps
 
 # Config
+https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/
+> https://news.ycombinator.com/item?id=36981580
+
 http://apple.stackexchange.com/questions/98782/i-cant-find-a-setting-to-disable-wins-in-network-settings
      sudo launchctl unload -w /System/Library/LaunchDaemons/com.apple.netbiosd.plist
 

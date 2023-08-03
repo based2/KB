@@ -289,6 +289,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/
+
 https://siliconangle.com/2023/07/29/leaked-court-docs-tell-us-aws-azure-google-cloud-market-shares/
 
 https://www.kalzumeus.com/2014/04/03/fantasy-tarsnap/

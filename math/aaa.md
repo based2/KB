@@ -144,6 +144,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://ianthehenry.com/posts/fibonacci/
+> https://news.ycombinator.com/item?id=36942033
+
 http://www.darkmedievaltimes.net/programming/for_loops_in_mathematics.html
 > https://news.ycombinator.com/item?id=36912507
 

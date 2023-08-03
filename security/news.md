@@ -1,3 +1,24 @@
+https://www.nullpt.rs/evading-anti-debugging-techniques
+> https://news.ycombinator.com/item?id=36961445
+
+https://chargebackstop.com/blog/card-networks-exploitation/
+> https://news.ycombinator.com/item?id=36971888
+
+https://cofense.com/blog/google-amp-the-newest-of-evasive-phishing-tactic/
+> https://news.ycombinator.com/item?id=36982960
+
+https://support.twilio.com/hc/en-us/articles/8360406023067-SMS-Traffic-Pumping-Fraud
+> https://news.ycombinator.com/item?id=36981090
+
+https://lists.apache.org/thread/fzxsb8rcgs7jm5vp9wypvqp4hwbn0t1j nifi
+
+https://github.com/dbarzin/deming  managing, planning, tracking and reporting the effectiveness of security controls. PHP, GPLv3
+> https://linuxfr.org/news/deming-gestion-de-votre-systeme-de-management-de-la-securite-de-l-information-open-source
+
+https://thehill.com/policy/defense/3740921-defense-department-fails-another-audit-but-makes-progress/
+
+https://nostarch.com/math-security
+
 https://www.securesystems.de/blog/svg-security-risks-not-just-a-scalable-graphic/
 > https://www.reddit.com/r/netsec/comments/15av32g/svg_security_risks_not_just_a_scalable_graphic/
 > > https://www.bleepingcomputer.com/news/security/opensea-nft-platform-bugs-let-hackers-steal-crypto-wallets/

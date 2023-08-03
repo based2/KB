@@ -144,6 +144,8 @@ https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f
 https://underjord.io/scripting-with-elixir.html
 > https://news.ycombinator.com/item?id=36289580
 
+https://news.ycombinator.com/item?id=36986769
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

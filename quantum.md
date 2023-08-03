@@ -80,6 +80,9 @@ https://en.wikipedia.org/wiki/Spin_wave
 
 https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gravity-20230525/
 
+https://www.nature.com/articles/s41586-023-06330-y
+> https://news.ycombinator.com/item?id=36984869
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/

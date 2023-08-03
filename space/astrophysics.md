@@ -67,6 +67,8 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_test_images_tease_of_riches_to_come
+
 https://www.theguardian.com/science/2023/jul/19/two-faced-star-with-helium-and-hydrogen-sides-baffles-astronomers-janus
 
 https://cns.utexas.edu/news/research/chemical-cartography-reveals-milky-ways-spiral-arms

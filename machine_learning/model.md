@@ -19,6 +19,13 @@ https://ai.meta.com/llama/ v2
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
 
+https://blog.skypilot.co/finetuning-llama2-operational-guide/
+> https://news.ycombinator.com/item?id=36975245
+
+https://huggingface.co/upstage/Llama-2-70b-instruct-v2
+
+https://news.ycombinator.com/item?id=36983702
+
 https://replicate.com/blog/run-llama-locally
 > https://news.ycombinator.com/item?id=36865495
 
@@ -105,6 +112,18 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://arxiv.org/abs/2307.03172
+
+https://tij.ink/analysis.html
+
+https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
+
+https://eugeneyan.com/writing/llm-patterns/
+
+https://avehtari.github.io/modelselection/CV-FAQ.html Cross-validation FAQ
+> https://news.ycombinator.com/item?id=36931228
+> > https://mlu-explain.github.io/cross-validation/
+
 https://app.twelvelabs.io/blog/foundation-models-are-going-multimodal
 > https://news.ycombinator.com/item?id=36896335
 

@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/
+> https://news.ycombinator.com/item?id=36940937
+
 https://www.brimdata.io/blog/debugging-data-first-class-errors/
 > https://news.ycombinator.com/item?id=36033566
 

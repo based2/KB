@@ -12,6 +12,11 @@ https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
+https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/
+> https://news.ycombinator.com/item?id=36984302
+
+https://www.bleepingcomputer.com/news/security/hackers-steal-signal-whatsapp-user-data-with-fake-android-chat-app/
+
 https://techcrunch.com/2023/07/24/spyhide-stalkerware-android/
 
 https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ocr-to-steal-credentials-from-images/

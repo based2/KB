@@ -108,6 +108,10 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=36961734
+
+https://www.noahpinion.blog/p/interview-chris-miller-historian
+
 https://spectrum.ieee.org/high-na-euv
 > https://news.ycombinator.com/item?id=36926228
 

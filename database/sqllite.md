@@ -106,6 +106,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://www.i-programmer.info/news/84-database/16493-turn-your-sqlite-database-into-a-server.html
+
 https://www.sqlite.org/cgi/src/doc/begin-concurrent/doc/begin_concurrent.md
 > https://news.ycombinator.com/item?id=36893193
 

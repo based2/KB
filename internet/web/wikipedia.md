@@ -55,6 +55,9 @@ https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-08-01/News_and_notes
+> https://news.ycombinator.com/item?id=36958958
+
 https://www.wikifunctions.org/wiki/Wikifunctions:Main_Page
 >
 

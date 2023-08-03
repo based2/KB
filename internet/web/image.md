@@ -76,6 +76,9 @@ https://www.pixelicious.xyz/
 https://github.com/gotson/komga
 
 # Photography
+http://mkweb.bcgsc.ca/fun/hdtr/
+> https://news.ycombinator.com/item?id=36978931
+
 https://camerapixels.app/2020/05/01/focus-stacking-for-macro-photography-using-adobe-photoshop/
 
 https://bjoernkarmann.dk/project/paragraphica

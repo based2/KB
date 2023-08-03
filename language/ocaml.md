@@ -22,6 +22,8 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation/12676
+
 https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/
 > https://news.ycombinator.com/item?id=36542937
 

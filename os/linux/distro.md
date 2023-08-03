@@ -96,6 +96,12 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/
+> https://news.ycombinator.com/item?id=36973287
+
+https://www.phoronix.com/news/CBL-Mariner-2.0-Adds-Clippy
+> https://news.ycombinator.com/item?id=36987979
+
 https://www.debian.org/News/2023/20230722
 
 https://drewdevault.com/2023/07/25/Alpine-does-not-make-news.html

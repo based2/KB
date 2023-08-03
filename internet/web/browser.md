@@ -43,6 +43,11 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://mastodon.social/@nekohayo/110775656176571435
+> https://news.ycombinator.com/item?id=36982507
+
+https://www.phoronix.com/news/Firefox-116-Available
+
 https://www.xda-developers.com/microsoft-trying-too-hard-edge/
 
 https://www.davidrevoy.com/article982/fighting-for-the-open-web

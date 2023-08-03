@@ -81,6 +81,9 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html
+> https://news.ycombinator.com/item?id=36939491
+
 https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/
 > https://news.ycombinator.com/item?id=35866283
 

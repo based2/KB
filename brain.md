@@ -50,6 +50,9 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 > https://news.ycombinator.com/item?id=36628258
 
 # News
+https://aaronhertzmann.com/2020/04/19/lines-as-edges.html
+> https://news.ycombinator.com/item?id=36969473
+
 https://news.cuanschutz.edu/news-stories/scientists-may-have-found-mechanism-behind-cognitive-decline-in-aging
 > https://news.ycombinator.com/item?id=36929090
 

@@ -10,3 +10,5 @@ https://www.vantage.sh/blog/using-cloudformation-stacksets-to-onboard-hundreds-o
 https://github.com/rogerwelin/cfnctl
 
 https://aws.amazon.com/blogs/devops/cloudformation-coverage/
+
+https://aws.amazon.com/en/about-aws/whats-new/2023/07/access-resource-stack-drift-information-aws-cloudformation-stacksets/

@@ -46,6 +46,9 @@ https://lucas-mcgregor.medium.com/no-one-wants-to-talk-to-your-chatbot-9d8bb1a70
 https://tatsu-lab.github.io/alpaca_eval/
 > https://news.ycombinator.com/item?id=36895300
 
+https://github.com/khoj-ai/khoj
+> https://news.ycombinator.com/item?id=36933452
+
 # News
 https://www.transcribeglass.com/features.html
 > https://news.ycombinator.com/item?id=36914979

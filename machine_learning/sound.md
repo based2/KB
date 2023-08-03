@@ -121,6 +121,9 @@ https://github.com/guillaumekln/faster-whisper
 https://www.assemblyai.com/blog/lemur/
 > https://news.ycombinator.com/item?id=36900294
 
+https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
+> https://news.ycombinator.com/item?id=36972347
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360
@@ -160,6 +163,9 @@ https://www.techradar.com/news/meta-says-its-new-speech-generating-ai-tool-is-to
 
 https://eddieonai.substack.com/p/ai-weekly-update-breaking-boundaries
 > https://news.ycombinator.com/item?id=36552075
+
+https://www.imperialviolet.org/2023/07/29/voice-recognition.html
+> https://news.ycombinator.com/item?id=36928605
 
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/

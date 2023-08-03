@@ -16,4 +16,13 @@ https://twitter.com/elamje/status/1677020153161080853
 https://venturebeat.com/ai/pinecone-leads-explosion-in-vector-databases-for-generative-ai/
 
 https://zilliz.com/blog/vector-similarity-search
-> 
+
+https://unum-cloud.github.io/usearch/
+> https://news.ycombinator.com/item?id=36942993
+
+https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheatsheet-cb330e55fca
+> https://news.ycombinator.com/item?id=36943318
+
+https://supabase.com/blog/fewer-dimensions-are-better-pgvector
+> https://news.ycombinator.com/item?id=36984416
+

@@ -66,6 +66,11 @@ https://blog.sulami.xyz/posts/cleaning-up-git-history/
 https://www.presslabs.com/docs/code/gitfs/
 > https://news.ycombinator.com/item?id=28263356
 
+|-+=  git gc --auto --quiet
+ | \-+- git repack -d -l -q --cruft --cruft-expiration=2.weeks.ago
+ |   \--- git pack-objects --local --quiet --delta-base-offset .git/objects/pack/.tmp-XXXXX-pack --keep-true-parents --honor-pack-keep
+
+
 # Changelog
 https://github.com/orhun/git-cliff Summary
 > https://news.ycombinator.com/item?id=28423843 
@@ -274,6 +279,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://sites.google.com/a/chromium.org/dev/developers/fast-intro-to-git-internals
+
 https://benhoyt.com/writings/gogit/
 > https://news.ycombinator.com/item?id=36924267
 
@@ -490,6 +497,7 @@ https://github.com/o2sh/onefetch
 
 https://github.com/martinvonz/jj
 > https://news.ycombinator.com/item?id=30398662
+> https://news.ycombinator.com/item?id=36952796
 
 https://gitbom.dev/
 > https://news.ycombinator.com/item?id=30374558

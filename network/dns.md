@@ -93,6 +93,13 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://news.ycombinator.com/item?id=36986417
+
+https://news.ycombinator.com/item?id=36984419
+
+https://eighty-twenty.org/2023/07/31/dns-as-a-cdn
+> https://news.ycombinator.com/item?id=36945177
+
 https://jvns.ca/blog/2023/07/28/why-is-dns-still-hard-to-learn/
 > https://news.ycombinator.com/item?id=36909427
 

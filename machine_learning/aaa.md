@@ -309,6 +309,8 @@ https://llm-attacks.org/
 > > https://news.ycombinator.com/item?id=36921808
 
 # Incident
+https://poison-llm.github.io/
+
 https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai
 > https://news.ycombinator.com/item?id=36657540
 
@@ -399,6 +401,14 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.technologyreview.com/2023/07/28/1076843/cryptography-ai-labeling-problem-c2pa-provenance/
+> https://news.ycombinator.com/item?id=36945816
+
+https://www.3blue1brown.com/topics/neural-networks
+
+https://explained.ai/matrix-calculus/
+> https://news.ycombinator.com/item?id=36933512
+
 https://www.bloomberg.com/news/articles/2023-07-26/meta-to-charge-cloud-providers-for-ai-tech-that-it-said-was-free
 > https://news.ycombinator.com/item?id=36886165
 

@@ -127,6 +127,14 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://blog.persistent.info/2023/08/infinite-mac-cd-roms.html
+> https://news.ycombinator.com/item?id=36977624
+
+https://computeradsfromthepast.substack.com/p/bonus-the-wizards-behind-the-macintosh
+
+https://www.bigmessowires.com/2023/07/28/tetris-max-2-9-1-and-macintosh-system-6-0-8-bugs/
+> https://news.ycombinator.com/item?id=36916530
+
 https://blog.gingerbeardman.com/2023/07/15/the-famous-f40-vector-illustration/
 > https://news.ycombinator.com/item?id=36739283
 

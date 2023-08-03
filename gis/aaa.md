@@ -113,6 +113,13 @@ https://minecraft.geoportail.lu/
 
 https://eng.uber.com/nebulagl/
 
+#
+https://www.madisontrust.com/information-center/worlds-largest-landowners/
+> https://news.ycombinator.com/item?id=36987885
+
+https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face
+> https://news.ycombinator.com/item?id=36985197
+
 # Maps
 https://mult.dev/
 

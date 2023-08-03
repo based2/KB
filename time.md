@@ -211,6 +211,9 @@ https://www.smithsonianmag.com/history/the-time-thief-who-stole-106-rare-clocks-
 
 https://www.lykahb.com/projects/clock.html
 
+https://sophiehoulden.com/randomstuff/epitime/?revised
+> https://news.ycombinator.com/item?id=36943091
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

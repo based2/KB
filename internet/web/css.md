@@ -228,6 +228,11 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/
+> https://news.ycombinator.com/item?id=36943515
+
+https://engineering.kablamo.com.au/posts/2023/media-queries-and-responsive-design/
+
 https://github.com/martyjacobsdev/Blade-Runner-Tailwind
 > https://news.ycombinator.com/item?id=36895806
 

@@ -137,4 +137,7 @@ https://news.ycombinator.com/item?id=31012219 Ask HN: How to balance between del
 
 https://github.com/laurent22/rsync-time-backup
 
+https://www.ecb.torontomu.ca/~elf/hack/recovery.html
+> https://news.ycombinator.com/item?id=36942994
+
 

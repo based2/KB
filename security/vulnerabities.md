@@ -195,6 +195,8 @@ https://github.com/xoreaxeaxeax/rosenbridge https://en.wikipedia.org/wiki/Altern
 https://www.europol.europa.eu/media-press/newsroom/news/mastermind-behind-eur-1-billion-cyber-bank-robbery-arrested-in-spain
 
 ## 2017
+https://en.wikipedia.org/wiki/IDN_homograph_attack
+
 https://en.wikipedia.org/wiki/WannaCry_ransomware_attack
 
 https://robotattack.org/

@@ -29,6 +29,15 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://github.com/DTolm/VkFFT
+> https://news.ycombinator.com/item?id=36968273
+
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/bem.10163
+> https://news.ycombinator.com/item?id=36980767
+
+https://github.com/r4d10n/retrogram-rtlsdr
+> https://news.ycombinator.com/item?id=36943874
+
 https://news.ycombinator.com/item?id=36917424
 
 https://blog.adafruit.com/2023/07/15/reverse-engineering-the-8086-processors-address-and-data-pin-circuits/
@@ -208,6 +217,9 @@ https://github.com/openairplay/airplay2-receiver
 
 https://support.usr.com/support/6000/6000-ug/two.html How a Cable Modem Works
 > https://news.ycombinator.com/item?id=32287571
+
+https://praveshkoirala.com/2023/06/13/a-non-mathematical-introduction-to-kalman-filters-for-programmers/
+> https://news.ycombinator.com/item?id=36971975
 
 https://jbconsulting.substack.com/p/is-the-kalman-filter-just-a-low-pass
 > https://news.ycombinator.com/item?id=32271351

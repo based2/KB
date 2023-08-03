@@ -42,6 +42,8 @@ https://tweedegolf.nl/en/blog/86/introducing-mailcrab
 > https://github.com/tweedegolf/mailcrab Rust, ASLv2
 
 # Incident
+https://vigilance.fr/vulnerabilite/Perl-Mail-DKIM-absence-de-signature-via-Lowercase-Domain-Check-41878
+
 https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
@@ -168,6 +170,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://www.pmail.com/
+> https://news.ycombinator.com/item?id=36988047
+
 https://github.com/stalwartlabs/mail-server
 > https://news.ycombinator.com/item?id=36769173
 

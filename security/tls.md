@@ -168,6 +168,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://news.ycombinator.com/item?id=36964491
+
 https://datatracker.ietf.org/doc/html/draft-ietf-tls-esni-16 hello
 > https://news.ycombinator.com/item?id=36889882
 

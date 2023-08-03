@@ -144,6 +144,12 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://erynwells.me/blog/2023/08/netscape-meteors/
+> https://news.ycombinator.com/item?id=36982856
+
+https://www.techdirt.com/2023/08/02/googles-plan-to-drm-the-web-goes-against-everything-google-once-stood-for/
+> https://news.ycombinator.com/item?id=36981953
+
 https://thesephist.com/posts/hyperlink/
 > https://news.ycombinator.com/item?id=36866242
 

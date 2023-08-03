@@ -80,12 +80,40 @@ https://github.com/squint-cljs/cherry
 
 https://tech.toryanderson.com/2021/09/17/clojurescript-reagent-image-previewing-selector/
 
+https://code.thheller.com/blog/shadow-cljs/2023/07/13/the-lost-arts-of-cljs-frontend.html
+
 # Native
 https://babashka.org/ Graalvm
 
 https://github.com/borkdude/nbb Not babashka. Node.js babashka!?
 
+# Interop
+https://github.com/phronmophobic/clong
+
+# Game
+https://github.com/damn/gdl
+> https://www.reddit.com/r/Clojure/comments/157rbg1/gdl_a_new_simple_and_powerful_clojure_dsl_for/
+
+https://github.com/ertugrulcetin/enion
+
 # News
+https://clojure-goes-fast.com/blog/clojures-deadly-sin/
+> https://www.reddit.com/r/Clojure/comments/15b5dj9/clojures_deadly_sin/
+
+https://github.com/damn/x.x
+
+https://www.juxt.pro/blog/clojure-in-revisited-signal/
+> https://github.com/cnuernber/charred
+
+https://dustingetz.electricfiddle.net/electric-fiddle.essay!Essay/electric-y-combinator
+> https://electric.hyperfiddle.net/
+> https://github.com/hyperfiddle/electric/
+> https://www.reddit.com/r/Clojure/comments/158c4lk/electric_y_combinator_electric_clojure/
+
+https://github.com/KingMob/TrueGrit
+
+https://github.com/julienvincent/nvim-paredit
+
 https://docs.datomic.com/cloud/other-tools/REBL.html
 > https://news.ycombinator.com/item?id=35507001
 

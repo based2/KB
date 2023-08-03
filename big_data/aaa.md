@@ -330,6 +330,14 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://en.wikipedia.org/wiki/It%C3%B4_calculus
+> https://news.ycombinator.com/item?id=36984056
+
+https://wesmckinney.com/book/
+
+https://www.uni-leipzig.de/en/newsdetail/artikel/breakthrough-in-monte-carlo-computer-simulations-2023-07-26
+> https://news.ycombinator.com/item?id=36932980
+
 https://tellingstorieswithdata.com/
 
 https://github.com/apache/incubator-wayang

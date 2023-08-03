@@ -16,6 +16,15 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://iaac.net/project/moss-voltaics/
+> https://news.ycombinator.com/item?id=36953371
+
+https://blog.gridstatus.io/net-load-ramps/
+> https://news.ycombinator.com/item?id=36986367
+
+https://apnews.com/article/georgia-power-nuclear-reactor-vogtle-9555e3f9169f2d58161056feaa81a425
+> https://news.ycombinator.com/item?id=36947393
+
 https://electrek.co/2023/07/27/us-grid-interconnections-ferc/
 > https://news.ycombinator.com/item?id=36907508
 

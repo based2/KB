@@ -88,6 +88,9 @@ https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351
 https://github.com/clovaai/donut
 
 # News
+https://github.com/Dicklesworthstone/llama2_aided_tesseract
+> https://news.ycombinator.com/item?id=36976333
+
 https://www.scantips.com/
 > https://news.ycombinator.com/item?id=36415518
 

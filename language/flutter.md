@@ -1,3 +1,7 @@
+
+https://leancode.co/blog/flutter-pros-and-cons-2023-summary
+> https://lobste.rs/s/knpvos/flutter_pros_cons_2023_summary
+
 https://plei.one/blog/flutter-desktop-not-there-yet/
 > https://news.ycombinator.com/item?id=34643291
 

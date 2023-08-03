@@ -2,6 +2,13 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/
+> https://news.ycombinator.com/item?id=36988262
+
+https://collidepower.com/
+
+https://googleprojectzero.blogspot.com/2023/08/mte-as-implemented-part-1.html
+
 https://lock.cmpxchg8b.com/zenbleed.html
 > https://www.tomshardware.com/news/zenbleed-bug-allows-data-theft-from-amds-zen-2-processors-patches-released
 

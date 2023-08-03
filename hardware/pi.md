@@ -17,6 +17,9 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://blog.usedbytes.com/2021/12/pico-serial-bootloader/
+> https://news.ycombinator.com/item?id=36957161
+
 https://www.msn.com/en-us/money/technology/how-to-overclock-a-raspberry-pi-4-for-improved-performance/ar-AA1ewsvT
 > https://news.ycombinator.com/item?id=36923822
 

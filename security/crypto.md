@@ -181,6 +181,11 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://max.levch.in/post/724289457144070144/shamir-secret-sharing
+> https://news.ycombinator.com/item?id=36941720
+
+https://blog.lambdaclass.com/first-lambda-ingo-zk-ctf-zk-challenges-using-lambdaworks/
+
 https://web.cs.ucdavis.edu/~rogaway/papers/moral.html
 > https://news.ycombinator.com/item?id=36901885
 

@@ -49,6 +49,9 @@ https://susam.in/maze/timing-with-curl.html
 > https://news.ycombinator.com/item?id=29054593
 > https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl
 
+https://daniel.haxx.se/blog/2023/07/31/introducing-curl-command-line-variables/
+> https://news.ycombinator.com/item?id=36942424
+
 https://www.neelc.org/posts/chase-how-not-to-design-a-website/
 > https://news.ycombinator.com/item?id=29224182
 

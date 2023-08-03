@@ -82,6 +82,10 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/
+
+https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/
+
 https://github.com/nicholaschiasson/fcidr
 > https://news.ycombinator.com/item?id=36881529
 

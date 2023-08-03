@@ -71,3 +71,7 @@ https://github.com/mshumer/gpt-prompt-engineer
 
 https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated
 > https://news.ycombinator.com/item?id=36743784
+
+https://github.com/hegelai/prompttools
+> https://news.ycombinator.com/item?id=36958175
+

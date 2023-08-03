@@ -93,6 +93,9 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://brave.com/image-video-search/
+> https://news.ycombinator.com/item?id=36988744
+
 https://www.theverge.com/23802382/search-engine-google-neeva-android
 > https://news.ycombinator.com/item?id=36890172
 

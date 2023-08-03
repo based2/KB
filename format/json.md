@@ -76,6 +76,9 @@ http://argonaut.io/doc/quickstart/ scala
 https://github.com/AykutSarac/jsoncrack.com
 
 # News
+https://jless.io/
+> https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer
+
 https://github.com/tidwall/jj JSON Stream Editor
 > https://news.ycombinator.com/item?id=36067958
 

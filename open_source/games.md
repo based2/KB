@@ -31,6 +31,9 @@ https://www.scummvm.org/
 https://chezsoi.org/lucas/blog/pages/images-libres-de-droits.html
 
 # Dev
+https://askmisterwizard.com/2019/LinuxAirCombat/LinuxAirCombat.htm
+> https://news.ycombinator.com/item?id=36934029
+
 https://godotengine.org/
 
 https://www.libsdl.org/

@@ -55,6 +55,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://www.lighton.ai/en/blog/blog-4/introducing-alfred-40b-0723-38
+> https://news.ycombinator.com/item?id=36961101
+
 https://stackoverflow.blog/2023/07/27/announcing-overflowai/
 > https://news.ycombinator.com/item?id=36892311
 

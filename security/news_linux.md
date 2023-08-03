@@ -8,6 +8,9 @@ https://privsec.dev/posts/linux/desktop-linux-hardening/
 https://firejail.wordpress.com
 > https://news.ycombinator.com/item?id=36681912
 
+https://pboyd.io/posts/securing-a-linux-vm/
+> https://news.ycombinator.com/item?id=36934052
+
 # Tools
 https://github.com/queer/boxxy puts bad Linux applications in a box with only their files.
 > https://news.ycombinator.com/item?id=34730520
@@ -24,6 +27,12 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems
+> https://news.ycombinator.com/item?id=36952867
+
+https://www.phoronix.com/news/AMD-Linux-Fix-SR-Wakeups
+> https://news.ycombinator.com/item?id=36989323
+
 https://www.bleepingcomputer.com/news/security/linux-version-of-abyss-locker-ransomware-targets-vmware-esxi-servers/
 
 https://otx.alienvault.com/indicator/cve/CVE-2023-3090 CONFIG_IPVLAN

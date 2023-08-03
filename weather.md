@@ -35,6 +35,9 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/
+> https://news.ycombinator.com/item?id=36944978
+
 https://github.com/Avicted/Skogsnet
 
 https://intergalactic.systems/posts/post-1965946732.html

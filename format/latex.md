@@ -33,3 +33,6 @@ https://www.scypress.com/book_download.html
 
 https://fanpu.io/blog/2023/latex-tips/
 > https://news.ycombinator.com/item?id=34299304
+
+https://www.alanshawn.com/latex3-tutorial/
+> https://news.ycombinator.com/item?id=36942967

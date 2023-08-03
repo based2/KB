@@ -69,6 +69,10 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.theguardian.com/world/2023/jul/31/german-supermarket-penny-trial-climate-cost-food-meat-cheese
+
+https://csi.climatecentral.org/csi-contour-map/tavg/2023-07-28/
+
 https://news.un.org/en/story/2023/07/1139162
 > https://news.ycombinator.com/item?id=36900153
 

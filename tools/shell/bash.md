@@ -72,6 +72,9 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://bobcopeland.com/blog/2012/10/goto-in-bash/
+> https://news.ycombinator.com/item?id=36984530
+
 https://gist.github.com/rbitr/9c68379d3e0b79c9f06eb3f867624576 Random numbers in bash et al
 > https://news.ycombinator.com/item?id=35326648
 

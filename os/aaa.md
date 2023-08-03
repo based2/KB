@@ -25,6 +25,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/
+> https://news.ycombinator.com/item?id=36977107
+
 https://synit.org
 > https://news.ycombinator.com/item?id=36735620
 
