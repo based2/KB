@@ -615,6 +615,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://ramdajs.com/ functional
+> https://news.ycombinator.com/item?id=37003275
+
 https://developer.mozilla.org/en-US/docs/Web/API/structuredClone
 
 https://github.com/ChrisCavs/aimless.js random

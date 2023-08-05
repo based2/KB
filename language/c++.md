@@ -59,6 +59,11 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://devtalk.blender.org/t/speed-up-c-compilation/30508
+> https://news.ycombinator.com/item?id=37014842
+
+https://news.ycombinator.com/item?id=36982459
+
 https://fwsgonzo.medium.com/using-c-as-a-scripting-language-part-8-d366fd98676
 > https://news.ycombinator.com/item?id=36917867
 

@@ -1,3 +1,6 @@
+https://blog.elcomsoft.com/2023/06/volume-encryption-in-synology-dsm-7-2-luks-with-questionable-key-management/
+
+https://vigilance.fr/vulnerabilite/Python-cryptography-absence-de-signature-via-SSH-Certificates-Critical-Options-41925
 
 https://vigilance.fr/vulnerabilite/Apereo-CAS-Server-vulnerabilite-via-OpenID-Connect-Provider-41808
 

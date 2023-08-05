@@ -47,6 +47,8 @@ https://andresalmiray.com/a-pom-by-any-other-name/
 
 https://www.morling.dev/blog/maven-what-are-you-waiting-for/
 
+https://lists.apache.org/thread/8lj6byvgoo9939mt5xm0d0wsy2m5j2k9 Apache Maven 3.9.4
+
 https://lists.apache.org/thread/30jcjszl53jp1z8hzjkrnxyv3o362ngz Apache Maven 4.0.0-alpha-7
 
 https://lists.apache.org/thread/ydxl67r7ddh6tkhckkj51j8tksd8ok0m Apache Maven 3.9.3

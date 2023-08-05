@@ -12,6 +12,11 @@ https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
+https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/
+> https://news.ycombinator.com/item?id=37012138
+
+https://www.bleepingcomputer.com/news/security/google-explains-how-android-malware-slips-onto-google-play-store/
+
 https://krebsonsecurity.com/2023/08/how-malicious-android-apps-slip-into-disguise/
 > https://news.ycombinator.com/item?id=36984302
 

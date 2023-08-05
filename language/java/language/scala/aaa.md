@@ -76,6 +76,14 @@ https://scalqa.org/doc/
 
 https://pekko.apache.org/what-is-pekko.html
 
+https://pekko.apache.org/download.html#pekko-http
+
+https://pekko.apache.org/docs/pekko-http/current/
+
+https://pekko.apache.org/download.html#pekko-connectors-kafka
+
+https://pekko.apache.org/docs/pekko-connectors-kafka/current/
+
 ## Monix
 https://monix.io/
 

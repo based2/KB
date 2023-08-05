@@ -1,6 +1,19 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.linkedin.com/pulse/microsoftthe-truth-even-worse-than-you-think-amit-yoran
+
+https://www.tenable.com/security/research/tra-2023-25 Unauthorized Access to Cross-Tenant Applications in Microsoft Power Platform
+
+https://support.microsoft.com/en-us/topic/kb5025885-how-to-manage-the-windows-boot-manager-revocations-for-secure-boot-changes-associated-with-cve-2023-24932-41a975df-beb2-40c1-99a3-b3ff139f832d
+
+https://www.theregister.com/2023/08/03/microsoft_teams_cozy_bear/
+
+https://securityintelligence.com/posts/msmq-queuejumper-rce-vulnerability-technical-analysis/
+
+https://www.zerodayinitiative.com/blog/2023/8/1/exploiting-a-flaw-in-bitmap-handling-in-windows-user-mode-printer-drivers
+> https://news.ycombinator.com/item?id=37002187
+
 https://arstechnica.com/security/2023/08/microsoft-cloud-security-blasted-for-its-culture-of-toxic-obfuscation/
 > https://news.ycombinator.com/item?id=36979532
 

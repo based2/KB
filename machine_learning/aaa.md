@@ -169,6 +169,11 @@ https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333
 
 # Limits
+https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)
+
+https://152334h.github.io/blog/non-determinism-in-gpt-4/
+> https://news.ycombinator.com/item?id=37006224
+
 https://www.newyorker.com/magazine/2021/03/29/what-data-cant-do
 > https://news.ycombinator.com/item?id=26646541
 
@@ -309,6 +314,9 @@ https://llm-attacks.org/
 > > https://news.ycombinator.com/item?id=36921808
 
 # Incident
+https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm
+> https://www.reddit.com/r/netsec/comments/15hrfbq/dont_you_forget_nlp_prompt_injection_with_control/
+
 https://poison-llm.github.io/
 
 https://www.theverge.com/2023/7/9/23788741/sarah-silverman-openai-meta-chatgpt-llama-copyright-infringement-chatbots-artificial-intelligence-ai
@@ -401,6 +409,10 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.nngroup.com/articles/ai-paradigm/
+
+https://labs.google/sge/
+
 https://www.technologyreview.com/2023/07/28/1076843/cryptography-ai-labeling-problem-c2pa-provenance/
 > https://news.ycombinator.com/item?id=36945816
 

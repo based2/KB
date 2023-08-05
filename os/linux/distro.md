@@ -96,6 +96,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.lpi.org/en/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/
+> https://news.ycombinator.com/item?id=37005937
+
 https://fedoramagazine.org/coming-soon-fedora-for-apple-silicon-macs/
 > https://news.ycombinator.com/item?id=36973287
 

@@ -43,6 +43,8 @@ https://www.biorxiv.org/content/10.1101/2023.06.27.546656v1
 https://www.quantamagazine.org/insect-brains-melt-and-rewire-during-metamorphosis-20230726/
 > https://news.ycombinator.com/item?id=36891510
 
+https://www.sciencedaily.com/releases/2023/07/230731170151.htm
+
 # Worm
 https://news.ycombinator.com/item?id=29045198
 

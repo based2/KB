@@ -228,6 +228,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://css-pattern.com/
+
 https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/
 > https://news.ycombinator.com/item?id=36943515
 

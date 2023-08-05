@@ -39,6 +39,8 @@ https://guce.techcrunch.com/copyConsent?sessionId=3_cc-session_2d2127f2-0ddd-417
 https://www.theguardian.com/science/2023/jul/28/british-satellite-guided-to-assisted-crash-in-atlantic-in-space-first
 > https://news.ycombinator.com/item?id=36918798
 
+https://www.visualcapitalist.com/cp/space-debris-by-country/
+
 ## ISS
 https://twitter.com/SciGuySpace/status/1420795248205312000
 > https://news.ycombinator.com/item?id=27999112

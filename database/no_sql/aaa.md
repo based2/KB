@@ -25,6 +25,8 @@ https://duckdb.org/2022/10/28/lightweight-compression.html
 
 https://duckdb.org/2022/07/27/art-storage.html
 
+https://news.ycombinator.com/item?id=37003918
+
 https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/
 > https://news.ycombinator.com/item?id=35539464
 

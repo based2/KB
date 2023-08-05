@@ -138,6 +138,8 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://giansegato.com/essays/edutainment-is-not-learning
+
 https://www.cs.cmu.edu/~15122/about.shtml
 > https://news.ycombinator.com/item?id=36468383
 

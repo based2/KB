@@ -144,6 +144,9 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://heather-buchel.com/blog/2023/07/just-normal-web-things/
+> https://news.ycombinator.com/item?id=37013396
+
 https://erynwells.me/blog/2023/08/netscape-meteors/
 > https://news.ycombinator.com/item?id=36982856
 

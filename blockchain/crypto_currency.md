@@ -27,6 +27,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.bbc.com/news/technology-66390639
+
 https://news.ycombinator.com/item?id=36734269
 
 https://www.coindesk.com/policy/2023/07/13/sale-of-xrp-on-exchanges-not-investment-contracts-court-rules-in-sec-case-against-ripple/

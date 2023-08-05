@@ -13,5 +13,10 @@ https://minimalissimo.com/articles/roller-jet-printer
 
 https://news.ycombinator.com/item?id=35407295
 
+https://haunted.computer/@netspooky/110832978569741892
+
+# I
+https://access.redhat.com/security/cve/CVE-2023-34241 cups
+
 # 3D
 https://news.ycombinator.com/item?id=29121318

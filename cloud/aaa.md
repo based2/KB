@@ -144,6 +144,13 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://sysdig.com/blog/2023-global-cloud-threat-report/
+
+https://www.bleepingcomputer.com/news/technology/spotify-down-music-searches-pages-account-signups-not-working/
+
+https://labs.guard.io/phishforce-vulnerability-uncovered-in-salesforces-email-services-exploited-for-phishing-32024ad4b5fa?gi=1cd0b456adfd
+> https://www.reddit.com/r/netsec/comments/15g8pt1/vulnerability_uncovered_in_salesforces_email/
+
 https://news.ycombinator.com/item?id=36913988 ring
 
 https://mail.tarsnap.com/tarsnap-announce/msg00050.html
@@ -289,6 +296,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral
+
 https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/
 
 https://siliconangle.com/2023/07/29/leaked-court-docs-tell-us-aws-azure-google-cloud-market-shares/

@@ -350,6 +350,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://github.com/ErwannMillon/Color-diffusion
+> https://news.ycombinator.com/item?id=36991293
+
 https://techcrunch.com/2023/07/26/stability-ai-releases-its-latest-image-generating-model-stable-diffusion-xl-1-0/
 > https://news.ycombinator.com/item?id=36880756
 

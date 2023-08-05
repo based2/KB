@@ -30,6 +30,9 @@ https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service
 https://openreplay.com/
 
 # News
+https://lists.apache.org/thread/4rb4m61o6ltmrxmb3gm50y8s5bhzdybl Apache Traffic Server 9.2.1 and 8.1.7 are Released
+> https://docs.trafficserver.apache.org/en/9.2.x/release-notes/whats-new.en.html
+
 https://hjr265.me/blog/simple-rate-limiter-with-redis/
 > lobster
 

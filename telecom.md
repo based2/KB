@@ -138,6 +138,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://docs.fcc.gov/public/attachments/DOC-395728A1.txt
+> https://news.ycombinator.com/item?id=36999016
+
 https://arstechnica.com/space/2023/07/viasats-new-broadband-satellite-could-be-a-total-loss/
 
 https://www.newarab.com/news/algeria-blocks-internet-stop-cheating-during-final-exams
@@ -174,6 +177,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/
+> https://news.ycombinator.com/item?id=37001369
+
 https://arstechnica.com/space/2023/07/amazon-is-getting-ready-to-launch-a-lot-of-broadband-satellites/
 > https://news.ycombinator.com/item?id=36822141
 

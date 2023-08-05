@@ -73,6 +73,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incident
+https://vigilance.fr/vulnerabilite/NuGet-execution-de-code-41922
+
 https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/?td=keepreading
 
 https://www.theregister.com/2023/06/02/novel_pypi_attack_reversinglabs/
@@ -107,6 +109,10 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 #
+https://docs.renovatebot.com/
+
+https://aquaproj.github.io/docs/ go
+
 https://ochagavia.nl/blog/the-magic-of-dependency-resolution/
 > https://news.ycombinator.com/item?id=36682961
 

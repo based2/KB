@@ -2,6 +2,13 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://googleprojectzero.blogspot.com/2023/08/summary-mte-as-implemented.html arm
+
+https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7008.html
+
+https://www.tomshardware.com/news/zenbleed-bug-allows-data-theft-from-amds-zen-2-processors-patches-released
+> https://www.reddit.com/r/netsec/comments/15dezb8/amd_zenbleed_bug_leaks_data_from_zen_2_ryzen_epyc/
+
 https://electrek.co/2023/08/03/hackers-manage-unlock-tesla-software-locked-features/
 > https://news.ycombinator.com/item?id=36988262
 

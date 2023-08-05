@@ -33,6 +33,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.theregister.com/2023/07/31/linus_torvalds_ftpm/ amd rng
+
 https://www.phoronix.com/news/AMD-GPU-Linux-6.6-New-Stuff
 > https://news.ycombinator.com/item?id=36891609
 

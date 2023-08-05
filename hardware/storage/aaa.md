@@ -51,6 +51,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.retrotechnology.com/herbs_stuff/guzis.html
+
 https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2023/
 >
 

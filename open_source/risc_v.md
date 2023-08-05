@@ -7,6 +7,8 @@ https://github.com/OpenXiangShan/XiangShan
 https://github.com/mnurzia/rv/blob/main/README.md
 
 #
+https://liliputing.com/qualcomm-nxp-bosch-infineon-and-nordic-team-up-to-work-on-risc-v-products/
+
 https://linuxfr.org/news/premiers-pas-avec-la-carte-visionfive-2
 
 https://lupyuen.codeberg.page/articles/semihost.html

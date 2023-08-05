@@ -8,6 +8,9 @@ https://github.com/quarkiverse/quarkus-openapi-generator/blob/main/README.md
 
 https://blogs.oracle.com/javamagazine/post/java-leyden-static-images
 
+https://piotrd.hashnode.dev/containerized-jvm-oomkilled-problem
+> https://www.reddit.com/r/java/comments/15fjlsz/jvm_kubernetes_and_fragmented_memory/
+
 https://blog.payara.fish/whats-new-eclipse-microprofile-6.0
 
 https://piranha.cloud/gettingstarted.html

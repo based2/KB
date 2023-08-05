@@ -55,6 +55,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://www.windmill.dev/blog/windmill-ai
+> https://news.ycombinator.com/item?id=37000920
+
 https://www.lighton.ai/en/blog/blog-4/introducing-alfred-40b-0723-38
 > https://news.ycombinator.com/item?id=36961101
 

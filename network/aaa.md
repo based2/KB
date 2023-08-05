@@ -130,6 +130,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://tailscale.com/blog/how-nat-traversal-works/
+> https://news.ycombinator.com/item?id=36969018
+
 https://blog.fluxninja.com/blog/why-adaptive-rate-limiting-is-a-game-changer
 > https://news.ycombinator.com/item?id=36827418
 

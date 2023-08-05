@@ -93,6 +93,9 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://kagi.com/stats
+> https://news.ycombinator.com/item?id=37006082
+
 https://brave.com/image-video-search/
 > https://news.ycombinator.com/item?id=36988744
 

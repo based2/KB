@@ -8,6 +8,8 @@ https://www.shapeoperator.com/2016/12/12/sunset-geometry/
 > https://news.ycombinator.com/item?id=28864749
 
 # News
+https://www.theregister.com/2023/08/04/gle73_cme_warning/
+
 https://www.astrobin.com/full/qti3dk/0/
 > https://news.ycombinator.com/item?id=36542673
 

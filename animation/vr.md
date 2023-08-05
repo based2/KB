@@ -1,3 +1,8 @@
+https://www.uploadvr.com/immersed-visor-4k-oled-microdisplay-productivity-headset/
+> https://news.ycombinator.com/item?id=37012611
+
+https://arstechnica.com/gadgets/2023/07/here-are-the-rules-for-apples-new-vision-pro-dev-kit-your-family-cant-see-it/
+
 https://www.theverge.com/2023/8/3/23818718/apple-pixar-3d-tech-alliance-openusd-metaverse
 
 https://www.meta.com/en-gb/blog/quest/reality-labs-research-display-systems-siggraph-2023-butterscotch-varifocal-flamera/

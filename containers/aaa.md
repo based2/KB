@@ -43,9 +43,14 @@ http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
 #
+https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
+
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://hocus.dev/blog/virtualizing-development-environments/
+> https://news.ycombinator.com/item?id=37001345
+
 https://news.ycombinator.com/item?id=36963439 mesh
 
 https://www.phoronix.com/news/Alpine-Linux-Prolific-Packager

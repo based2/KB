@@ -299,6 +299,9 @@ https://suor.github.io/blog/2023/03/26/ban-1-plus-n-in-django/
 https://valberg.dk/django-sse-postgresql-listen-notify.html
 > https://news.ycombinator.com/item?id=36359376
 
+https://www.django-unicorn.com/
+> https://news.ycombinator.com/item?id=36982245
+
 https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/
 > https://news.ycombinator.com/item?id=35428225
 

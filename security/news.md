@@ -1,3 +1,14 @@
+https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/
+> https://news.ycombinator.com/item?id=37013704
+
+https://github.com/patriksimek/vm2/security/advisories/GHSA-g644-9gfx-q4q4 node.js
+
+https://www.bleepingcomputer.com/news/security/cybercriminals-train-ai-chatbots-for-phishing-malware-attacks/
+
+https://www.bleepingcomputer.com/news/security/new-papercut-critical-bug-exposes-unpatched-servers-to-rce-attacks/
+
+https://blog.assetnote.io/2023/07/22/pre-auth-rce-metabase/
+
 https://www.nullpt.rs/evading-anti-debugging-techniques
 > https://news.ycombinator.com/item?id=36961445
 

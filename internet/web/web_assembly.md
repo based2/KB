@@ -64,6 +64,8 @@ https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 
 https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
 
+https://www.flux.utah.edu/paper/watson-thesis
+
 # Libraries
 https://ffmpegwasm.netlify.app/
 > https://news.ycombinator.com/item?id=28251801
@@ -78,6 +80,11 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://wasix.org/docs posix
+
+https://github.com/WebAssembly/WASI
+> https://news.ycombinator.com/item?id=37010196
+
 https://thenewstack.io/the-need-to-roll-up-your-sleeves-for-webassembly/
 
 https://rybicki.io/blog/2023/06/27/rust-crate-into-typescript-library.html

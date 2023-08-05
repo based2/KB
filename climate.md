@@ -69,6 +69,17 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://innovationorigins.com/en/satellite-supergroup-spots-methane-super-emitters-with-staggering-accuracy/
+
+https://svs.gsfc.nasa.gov/5110
+
+https://news.ycombinator.com/item?id=37004900
+
+https://www.abc.net.au/news/2023-08-04/south-america-extreme-heat-mid-winter-climate-change-scientists/102678662
+> https://news.ycombinator.com/item?id=36999338
+
+https://news.ycombinator.com/item?id=37002758
+
 https://www.theguardian.com/world/2023/jul/31/german-supermarket-penny-trial-climate-cost-food-meat-cheese
 
 https://csi.climatecentral.org/csi-contour-map/tavg/2023-07-28/

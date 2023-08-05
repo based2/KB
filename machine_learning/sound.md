@@ -124,6 +124,8 @@ https://www.assemblyai.com/blog/lemur/
 https://ai.meta.com/blog/audiocraft-musicgen-audiogen-encodec-generative-ai-audio/
 > https://news.ycombinator.com/item?id=36972347
 
+https://news.ycombinator.com/item?id=37004708
+
 # speech2Text
 https://openai.com/blog/whisper/
 > https://news.ycombinator.com/item?id=32927360

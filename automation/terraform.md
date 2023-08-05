@@ -125,6 +125,9 @@ https://github.com/devoteamgcloud/petra gcp
 
 https://github.com/nrkno/terraform-registry
 
+https://nrkbeta.no/2023/01/19/the-road-to-nrks-private-terraform-registry/
+> https://news.ycombinator.com/item?id=37010588
+
 # AWS
 https://www.hashicorp.com/blog/terraform-aws-provider-5-0-adds-updates-to-default-tags
 > https://github.com/hashicorp/terraform-provider-aws/blob/main/ROADMAP.md
@@ -269,6 +272,13 @@ https://medium.com/@ECD3/managing-terraform-state-in-azure-best-practices-for-mu
 https://medium.com/@vladislavmarkevich/cloudrun-canary-releases-with-terraform-b63245e31a88
 
 # K8s
+
+https://registry.terraform.io/providers/hashicorp/kubernetes/latest/docs
+
+https://registry.terraform.io/providers/hashicorp/helm/latest
+
+https://github.com/Jstrategia-dev/terraform-provider-kustomize
+
 https://github.com/jrhouston/tfk8s
 
 # Org
@@ -295,6 +305,9 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale
+> https://news.ycombinator.com/item?id=37004617
+
 https://github.com/asannou/tfmermaid-action
 
 https://github.com/pcasteran/terraform-graph-beautifier

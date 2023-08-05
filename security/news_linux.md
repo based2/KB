@@ -27,6 +27,8 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://access.redhat.com/security/cve/CVE-2023-2828 bind dns
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdRestartHidesProblems
 > https://news.ycombinator.com/item?id=36952867
 

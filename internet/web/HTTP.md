@@ -175,6 +175,9 @@ https://calendar.perfplanet.com/2022/http-3-prioritization-demystified/
 https://utcc.utoronto.ca/~cks/space/blog/web/AvoidingHTTP3ForNow
 > https://news.ycombinator.com/item?id=35407420
 
+https://mitmproxy.org/posts/releases/mitmproxy10/
+> https://news.ycombinator.com/item?id=36999169
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

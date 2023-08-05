@@ -112,6 +112,15 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://blog.min.io/ai-ml-best-practices-during-a-gold-rush/
+> https://news.ycombinator.com/item?id=37005159
+
+https://github.com/Xpitfire/symbolicai
+> https://news.ycombinator.com/item?id=36997269
+
+https://simonwillison.net/2023/Aug/3/weird-world-of-llms/
+> https://news.ycombinator.com/item?id=36994532
+
 https://arxiv.org/abs/2307.03172
 
 https://tij.ink/analysis.html

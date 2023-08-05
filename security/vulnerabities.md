@@ -7,6 +7,8 @@ https://www.first.org/epss/
 
 https://cert.europa.eu/blog/tlp-version-2-primer
 
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a
+
 # References
 https://cert.europa.eu/publications/security-advisories
 

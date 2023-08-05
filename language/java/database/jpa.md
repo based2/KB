@@ -51,6 +51,9 @@ https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/
 https://www.jmdoudoux.fr/java/dej/chap-jpa.htm
 
 # News
+https://docs.jboss.org/hibernate/orm/6.3/introduction/html_single/Hibernate_Introduction.html
+> https://www.reddit.com/r/java/comments/15g630v/a_guide_to_hibernate_6_by_gavin_king/
+
 https://medium.com/predictly-on-tech/insert-without-select-using-jpa-a88e5db46e85
 > https://www.reddit.com/r/java/comments/12ajami/insert_without_select_using_jpa/
 

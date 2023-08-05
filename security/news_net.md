@@ -7,6 +7,12 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 > https://github.com/SpiderLabs/snappy
 
 #
+https://www.reddit.com/r/netsec/comments/15dotaq/cve202327997_critical_fortinet_fortigate_rce/
+
+https://pentests.nl/pentest-blog/cve-2023-28130-command-injection-in-check-point-gaia-portal//
+
+https://www.exploitsecurity.io/post/cve-2023-33383-authentication-bypass-via-an-out-of-bounds-read-vulnerability
+
 https://www.midnightblue.nl/tetraburst
 > https://news.ycombinator.com/item?id=36867355
 > https://twitter.com/mattjay/status/1684623084228136960
@@ -17,7 +23,8 @@ https://www.midnightblue.nl/tetraburst
 https://www.theguardian.com/us-news/2023/jul/29/pentagon-us-air-force-critical-compromise
 > https://news.ycombinator.com/item?id=36922069
 
-https://www.bleepingcomputer.com/news/security/ivanti-patches-new-zero-day-exploited-in-norwegian-govt-attacks/
+https://www.bleepingcomputer.com/news/security/ivanti-patches-new-zero-day-exploited-in-norwegian-govt-attacks/ CVE-2023-35078
+> https://www.theregister.com/2023/07/26/ivanti_patch_norway_ciso/
 
 https://www.tcpdump.org/index.html#latest-releases out-of-bounds write vulnerability CVE-2023-1801
 

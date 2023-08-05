@@ -279,6 +279,9 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
   
 # News
+https://jesseduffield.com/Lazygit-5-Years-On/
+> https://news.ycombinator.com/item?id=37009879
+
 https://sites.google.com/a/chromium.org/dev/developers/fast-intro-to-git-internals
 
 https://benhoyt.com/writings/gogit/

@@ -38,7 +38,12 @@ https://omnibor.io/
 https://anonymoushash.vmbrasseur.com/2023/04/24/software-bill-of-materials-sbom
 > https://news.ycombinator.com/item?id=35690258
 
+https://www.mend.io/sbom/
+
 #
+https://blog.phylum.io/targeted-npm-malware-attempts-to-steal-developers-source-code-and-secrets/
+> https://www.reddit.com/r/netsec/comments/15hd257/targeted_npm_malware_attempts_to_steal_company/
+
 https://thenewstack.io/how-devsecops-teams-should-approach-api-security/
 
 https://github.com/obi1kenobi/cargo-semver-checks

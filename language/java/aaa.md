@@ -15,6 +15,8 @@ https://download.java.net/java/early_access/jdk17/docs/api/new-list.html
 
 # Servers
 
+https://github.com/eclipse-ee4j/glassfish/releases/tag/7.0.7
+
 https://jelastic.com/blog/glassfish-payara-clustering-automated/
 
 https://www.wildfly.org/news/2022/01/21/WildFly-2022/
