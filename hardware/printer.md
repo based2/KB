@@ -15,7 +15,12 @@ https://news.ycombinator.com/item?id=35407295
 
 https://haunted.computer/@netspooky/110832978569741892
 
+https://connor.zip/posts/2023-06-08-airprint-with-cups
+> https://news.ycombinator.com/item?id=36965927
+
 # I
+https://vigilance.fr/vulnerabilite/HP-LaserJet-elevation-de-privileges-via-Uncontrolled-Search-Path-Element-41924
+
 https://access.redhat.com/security/cve/CVE-2023-34241 cups
 
 # 3D

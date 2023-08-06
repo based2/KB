@@ -343,6 +343,9 @@ https://www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/
 https://hackaday.com/2022/10/14/an-open-source-hdmi-capture-card/
 > https://news.ycombinator.com/item?id=33201931
 
+https://hackaday.com/2023/08/03/displayport-taming-the-altmode/
+> https://news.ycombinator.com/item?id=36996723
+
 https://www.allaboutcircuits.com/news/researchers-develop-transistor-free-compute-in-memory-architecture/
 > https://news.ycombinator.com/item?id=33175038
 

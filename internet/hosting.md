@@ -41,6 +41,8 @@ https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 
 #
+https://521dimensions.notion.site/VPS-Benchmarks-for-Self-hosters-c6eca7c5f16d4bb8aeb989174fc58ffe
+
 https://blog.wesleyac.com/posts/how-i-run-my-servers
 > https://news.ycombinator.com/item?id=36744090
 

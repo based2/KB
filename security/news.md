@@ -1,3 +1,19 @@
+https://github.com/dckc/awesome-ocap
+
+https://www.securityweek.com/threat-actors-abuse-cloudflare-tunnel-for-persistent-access-data-theft/
+> https://news.ycombinator.com/item?id=37023806
+
+https://samcurry.net/points-com/
+
+https://blog.isosceles.com/an-introduction-to-exploit-reliability/
+> https://news.ycombinator.com/item?id=36974959
+
+https://www.securityweek.com/firefox-116-patches-high-severity-vulnerabilities/
+> https://news.ycombinator.com/item?id=36972358
+
+https://philosophy.stackexchange.com/questions/101259/does-capability-design-force-a-re-eximantion-of-anonymity/101260#101260
+> https://lobste.rs/s/e2bmr2/does_capability_design_force_re
+
 https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/
 > https://news.ycombinator.com/item?id=37013704
 

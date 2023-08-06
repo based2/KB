@@ -48,6 +48,9 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://www.phoronix.com/news/XFS-Maintainer-Steps-Down
+> https://news.ycombinator.com/item?id=36970193
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/NFSv4MountsNewFilesystemType
 > https://news.ycombinator.com/item?id=37008437
 

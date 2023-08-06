@@ -117,6 +117,9 @@ https://styledrop.github.io/ google muse
 
 https://deepfloyd.ai/deepfloyd-if
 
+https://research.nvidia.com/labs/par/Perfusion/
+> https://news.ycombinator.com/item?id=37020620
+
 ## Stable diffusion
 https://andys.page/posts/how-to-draw/
 

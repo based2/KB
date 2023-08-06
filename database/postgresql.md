@@ -77,6 +77,8 @@ https://ardentperf.com/2022/07/16/postgresql-performance-puzzle/
 > https://lobste.rs/s/k42r7b/postgresql_performance_puzzle
 
 ## Index
+https://stackoverflow.com/questions/970562/postgres-and-indexes-on-foreign-keys-and-primary-keys
+
 http://leopard.in.ua/2015/04/13/postgresql-indexes/
 
 https://www.i-programmer.info/news/84-database/14855-a-deep-dive-into-postgresql-indexes.html
@@ -300,6 +302,9 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://github.com/supabase/postgres_lsp
+> https://news.ycombinator.com/item?id=37020610
+
 https://hydra-so.notion.site/Hydra-1-0-beta-318504444825401e8ce21796dcadd589
 > https://news.ycombinator.com/item?id=36987920
 

@@ -64,6 +64,9 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://www.funet.fi/
+> https://news.ycombinator.com/item?id=37015585
+
 https://mastodon.archive.org/@textfiles/110697893762381822
 > https://news.ycombinator.com/item?id=36728745
 

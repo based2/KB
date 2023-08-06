@@ -136,6 +136,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml
+
 https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf flowgraph
 > https://news.ycombinator.com/item?id=36985208
 

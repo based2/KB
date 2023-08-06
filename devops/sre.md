@@ -39,6 +39,8 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://medium.com/@hans.knechtions/building-a-successful-sre-team-283232bc2694
+
 https://github.com/FeatureProbe/FeatureProbe
 
 https://docs.google.com/document/d/1HB9CUfavNbeP1cU8QPl9kjYuiME2_90P5DDRjqxYyIo/edit

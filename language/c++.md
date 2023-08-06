@@ -59,6 +59,8 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://www.foonathan.net/2023/08/stop-writing-functions/
+
 https://devtalk.blender.org/t/speed-up-c-compilation/30508
 > https://news.ycombinator.com/item?id=37014842
 

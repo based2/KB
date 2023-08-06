@@ -1,4 +1,9 @@
+https://vigilance.fr/vulnerabilite/Go-surcharge-via-Large-RSA-Keys-41932
+
+https://vigilance.fr/vulnerabilite/Python-cryptography-absence-de-signature-via-SSH-Certificates-Critical-Options-41925
+
 https://blog.elcomsoft.com/2023/06/volume-encryption-in-synology-dsm-7-2-luks-with-questionable-key-management/
+> https://news.ycombinator.com/item?id=37015305
 
 https://vigilance.fr/vulnerabilite/Python-cryptography-absence-de-signature-via-SSH-Certificates-Critical-Options-41925
 

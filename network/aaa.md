@@ -72,6 +72,11 @@ https://krisnova.net/posts/network-instrumentation/
 https://unix.stackexchange.com/questions/447440/ufw-iptables-not-blocking-dhcp-udp-port-67#447524
 > https://news.ycombinator.com/item?id=36894198
 
+https://bloodhound.readthedocs.io/en/latest/data-analysis/bloodhound-gui.html
+
+https://github.com/BloodHoundAD/BloodHound/releases/tag/v4.3.1 5? neo4j Azure Powershell
+> https://github.com/SpecterOps/bloodhound-tools empty https://github.com/SpecterOps/chronology/blob/master/affiliated-tools.csv
+
 # Tests
 https://docs.gns3.com/docs/
 

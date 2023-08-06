@@ -19,6 +19,8 @@ https://ai.meta.com/llama/ v2
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
 
+https://github.com/srush/llama2.rs
+
 https://blog.skypilot.co/finetuning-llama2-operational-guide/
 > https://news.ycombinator.com/item?id=36975245
 
@@ -112,6 +114,17 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://mgalkin.medium.com/graph-machine-learning-icml-2023-9b5e4306a1cc
+
+https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical
+
+https://www.assemblyai.com/blog/how-rlhf-preference-model-tuning-works-and-how-things-may-go-wrong/
+
+https://arxiv.org/abs/2307.01850
+
+https://mkone.ai/blog/introducing-mk1
+> https://news.ycombinator.com/item?id=37016413
+
 https://blog.min.io/ai-ml-best-practices-during-a-gold-rush/
 > https://news.ycombinator.com/item?id=37005159
 

@@ -144,6 +144,12 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of
+> https://news.ycombinator.com/item?id=37023117
+
+https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html
+> https://news.ycombinator.com/item?id=37020001
+
 https://heather-buchel.com/blog/2023/07/just-normal-web-things/
 > https://news.ycombinator.com/item?id=37013396
 

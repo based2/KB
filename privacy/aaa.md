@@ -103,6 +103,8 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.theregister.com/2023/08/04/read_lips_siri_wants_to/
+
 https://themarkup.org/the-breakdown/2023/08/03/how-to-quickly-get-to-the-important-truth-inside-any-privacy-policy
 
 https://iapp.org/news/a/a-view-from-dc-adtech-is-built-on-a-privacy-fault-line/

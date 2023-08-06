@@ -99,6 +99,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://github.com/IBM/k8s-netsim
+
 https://k0smotron.io/
 > https://opensourcewatch.beehiiv.com/p/mirantis-unveils-k0smotron-opensource-streamlined-kubernetes-management-project
 > > https://news.ycombinator.com/item?id=37002020

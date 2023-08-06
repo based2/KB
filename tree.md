@@ -77,6 +77,8 @@ https://news.ycombinator.com/item?id=35979374
 https://jornhub.dev/articles/fenwick-trees/
 > https://news.ycombinator.com/item?id=28354637
 
+https://photonlines.substack.com/p/grokking-avl-and-ravl-trees
+
 # Visu
 https://tweeview.ml/
 > https://news.ycombinator.com/item?id=28514298

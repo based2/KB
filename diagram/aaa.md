@@ -53,6 +53,13 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://meatfighter.com/turings-maze/
+
+https://forum.archimatetool.com/
+
+https://www.archsense.dev/
+> https://news.ycombinator.com/item?id=37020421
+
 https://flowchart.fun/blog/post/styling-flowcharts-using-css
 > https://news.ycombinator.com/item?id=36771637
 

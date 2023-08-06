@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://phys.org/news/2023-07-algorithm-ensnares-potentially-hazardous-asteroid.html
+
 https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/
 > https://news.ycombinator.com/item?id=36913835
 

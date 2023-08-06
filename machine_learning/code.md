@@ -1,3 +1,6 @@
+https://github.com/jamesmurdza/awesome-ai-devtools
+> https://news.ycombinator.com/item?id=37020843
+
 # Data
 https://huggingface.co/datasets/bigcode/the-stack
 

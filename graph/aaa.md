@@ -80,6 +80,9 @@ https://arxiv.org/abs/2305.11162
 https://www.edgedb.com/blog/edgedb-3-0
 > https://news.ycombinator.com/item?id=36435434
 
+## Test
+https://mihai.page/testing-graph-databases/
+
 ## Store
 https://github.com/quoll/asami clojure
 > https://news.ycombinator.com/item?id=33621939

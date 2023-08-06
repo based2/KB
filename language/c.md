@@ -74,6 +74,8 @@ https://www.irill.org/videos/videosGHM/Jim_Meyering-Goodbye_World.html Jim Meyer
 https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
 
 # News
+https://www.researchgate.net/publication/367190325_SLIMalloc_II_Making_C_Safer_than_the_Memory-Safe_Languages
+
 https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/c11-generic/
 
 https://news.ycombinator.com/item?id=36786239

@@ -8,4 +8,8 @@ https://kubernetes.io/blog/2022/09/02/cosi-kubernetes-object-storage-management/
 https://koor.tech/blog/2022/kubernetes-deserves-more-than-ephemeral-data-persist-it-with-rook/
 > https://www.reddit.com/r/kubernetes/comments/x3aovu/the_history_of_provisioning_storage_in_k8s_and/
 
+https://cubefs.io/docs/master/overview/introduction.html#multi-engine
+
 # Backup
+
+https://longhorn.io/

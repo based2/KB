@@ -63,6 +63,10 @@ https://www.jetpack.io/blog/why-did-nix-adopt-flakes/
 https://drakerossman.com/blog/how-to-add-home-manager-to-nixos
 > https://news.ycombinator.com/item?id=36458780
 
+https://paperless.blog/nix-shell-template
+
+#
+
 https://repology.org
 
 https://blog.remirepo.net/

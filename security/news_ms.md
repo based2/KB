@@ -1,6 +1,11 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://news.ycombinator.com/item?id=36951339
+
+https://msrc.microsoft.com/blog/2023/08/microsoft-mitigates-power-platform-custom-code-information-disclosure-vulnerability/
+> https://news.ycombinator.com/item?id=37008150
+
 https://www.linkedin.com/pulse/microsoftthe-truth-even-worse-than-you-think-amit-yoran
 
 https://www.tenable.com/security/research/tra-2023-25 Unauthorized Access to Cross-Tenant Applications in Microsoft Power Platform

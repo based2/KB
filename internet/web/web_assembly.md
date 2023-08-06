@@ -80,6 +80,8 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://landscape.cncf.io/wasm
+
 https://wasix.org/docs posix
 
 https://github.com/WebAssembly/WASI

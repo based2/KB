@@ -148,6 +148,13 @@ https://wiki.alopex.li/ElixirForCynicalCurmudgeons
 > https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons
 > https://news.ycombinator.com/item?id=36986769
 
+https://docs.rs/crate/rustler/latest
+> https://news.ycombinator.com/item?id=37018859
+> > https://dashbit.co/blog/rustler-precompiled
+> https://www.erlang.org/doc/tutorial/nif.html Native Implemented Functions - NIFs
+
+https://github.com/rodrigocaldeira/nif_cgo
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

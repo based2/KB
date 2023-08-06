@@ -314,6 +314,9 @@ https://llm-attacks.org/
 > > https://news.ycombinator.com/item?id=36921808
 
 # Incident
+https://explore.zoom.us/en/terms/
+> https://news.ycombinator.com/item?id=37021160
+
 https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm
 > https://www.reddit.com/r/netsec/comments/15hrfbq/dont_you_forget_nlp_prompt_injection_with_control/
 
@@ -409,6 +412,13 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://huggingface.co/papers/2308.01544
+> https://news.ycombinator.com/item?id=36999003
+
+https://photonlines.substack.com/p/a-brief-visual-introduction-to-gradients
+
+https://arxiv.org/abs/2308.01131
+
 https://www.nngroup.com/articles/ai-paradigm/
 
 https://labs.google/sge/

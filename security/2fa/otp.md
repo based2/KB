@@ -1,4 +1,5 @@
 https://en.wikipedia.org/wiki/One-time_password
+
 https://www.rcdevs.com/
 
 http://slackhq.com/post/114696167740/march-2015-security-incident-and-launch-of-2fa
@@ -43,6 +44,9 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees
+> https://news.ycombinator.com/item?id=37021769
+
 https://benkettle.xyz/posts/plat/
 > https://news.ycombinator.com/item?id=36726077
 

@@ -141,6 +141,9 @@ https://rachitsingh.com/collaborating-jupyter/
 https://github.com/ipyflow/ipyflow
 > https://news.ycombinator.com/item?id=35885066
 
+https://jupyter-ai.readthedocs.io/en/latest/
+> https://news.ycombinator.com/item?id=37021571
+
 ##
 http://zeppelin.apache.org/
 
@@ -330,6 +333,8 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://www.nextplatform.com/2023/08/01/vast-data-intentionally-blurs-the-line-between-storage-and-database/
+
 https://en.wikipedia.org/wiki/It%C3%B4_calculus
 > https://news.ycombinator.com/item?id=36984056
 

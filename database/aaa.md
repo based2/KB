@@ -68,6 +68,8 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://dev.mysql.com/doc/relnotes/mysql/8.1/en/news-8-1-0.html
+
 https://www.bytebase.com/blog/postgres-vs-mysql/
 > https://news.ycombinator.com/item?id=36945115
 

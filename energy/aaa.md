@@ -16,6 +16,15 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report
+> https://news.ycombinator.com/item?id=37022771
+
+https://showme.missouri.edu/2023/scientists-create-novel-approach-to-control-energy-waves-in-4d/
+> https://news.ycombinator.com/item?id=36996075
+
+https://www.bloomberg.com/news/articles/2023-08-04/atlantic-s-biggest-offshore-wind-turbine-to-rise-next-week-in-us
+> https://news.ycombinator.com/item?id=37008374
+
 https://iaac.net/project/moss-voltaics/
 > https://news.ycombinator.com/item?id=36953371
 

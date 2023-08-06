@@ -149,6 +149,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://github.com/massgravel/Microsoft-Activation-Scripts
+> https://news.ycombinator.com/item?id=37022047
+
 https://www.computerworld.com/article/3704148/the-windows-desktop-is-dying.html
 > https://news.ycombinator.com/item?id=36987795
 

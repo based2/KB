@@ -1,3 +1,6 @@
+https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/
+> https://news.ycombinator.com/item?id=36960625
+
 https://www.uploadvr.com/immersed-visor-4k-oled-microdisplay-productivity-headset/
 > https://news.ycombinator.com/item?id=37012611
 

@@ -117,6 +117,9 @@ https://peppe.rs/posts/plain_text_journaling/
 https://www.lazyvim.org/
 > https://news.ycombinator.com/item?id=36753225
 
+https://muhammadraza.me/2023/vim-onliners/
+> https://news.ycombinator.com/item?id=37002420
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -267,6 +270,8 @@ https://github.com/p3r7/awesome-elisp
 
 https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/
 > https://news.ycombinator.com/item?id=36929514
+
+https://cmdln.org/2023/03/25/how-i-org-in-2023/
 
 # IDE
 ## Eclipse

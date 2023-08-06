@@ -26,6 +26,8 @@ https://juicefs.com/en/ .cn
 
 https://news.ycombinator.com/item?id=36140494
 
+https://rclone.org/
+
 # Block Storage
 onTAP
 # SMB Microsoft
@@ -51,6 +53,13 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://sincerely.dev/papers/cheops22-purandare.pdf
+
+https://www.tomshardware.com/news/billion-year-data-archive-expands-beyond-moon-next-stop-mars
+
+https://www.smartmontools.org/
+> https://news.ycombinator.com/item?id=36954853
+
 https://www.retrotechnology.com/herbs_stuff/guzis.html
 
 https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2023/

@@ -98,6 +98,10 @@ https://github.com/ertugrulcetin/enion
 
 # News
 https://clojure-goes-fast.com/blog/clojures-deadly-sin/
+
+https://yizhepku.github.io/clojure-crac/
+
+https://clojure-goes-fast.com/blog/clojures-deadly-sin/
 > https://www.reddit.com/r/Clojure/comments/15b5dj9/clojures_deadly_sin/
 
 https://github.com/damn/x.x

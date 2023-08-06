@@ -89,6 +89,10 @@ https://x61.sh/log/2022/10/20221027T115439-rspamd-dashboard.html
 
 https://github.com/Fcmam5/jelban-js
 
+https://www.stavros.io/posts/spam-spammers-back/ gpt
+> https://news.ycombinator.com/item?id=37018253
+> https://github.com/skorokithakis/spamgpt
+
 # Security
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/

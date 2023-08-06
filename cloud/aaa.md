@@ -296,6 +296,12 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html
+
+https://cast.ai/blog/the-rise-and-fall-of-spot-instance-pricing/
+
+https://eclecticlight.co/2023/08/05/from-cyberdog-to-dataless-files-a-brief-history-of-icloud/
+
 https://www.anandtech.com/show/19995/cloud-provider-gets-23-billion-debt-using-nvidias-h100-as-collateral
 
 https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/

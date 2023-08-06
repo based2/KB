@@ -19,6 +19,9 @@ https://openapi.tools/
 https://github.com/OpenAPITools/openapi-generator
 > https://news.ycombinator.com/item?id=33220552
 
+https://github.com/mquan/api2ai
+> https://news.ycombinator.com/item?id=37020783
+
 # WS
 https://www.igorkromin.net/index.php/2018/12/06/setting-jax-ws-webservice-client-timeout-values-correctly-within-a-weblogic-12c-container/
 

@@ -169,6 +169,9 @@ https://en.vietnamplus.vn/last-undersea-internet-cable-connecting-vietnam-with-t
 https://www.dw.com/en/lufthansa-system-failure-causes-massive-travel-chaos/a-64705780
 > https://news.ycombinator.com/item?id=34802309
 
+https://arstechnica.com/information-technology/2023/05/t-mobile-discloses-2nd-data-breach-of-2023-this-one-leaking-account-pins-and-more/
+> https://news.ycombinator.com/item?id=35785829
+
 https://www.euronews.com/next/2023/02/05/italy-telecoms
 > https://www.heise.de/news/Italiens-Cyber-Sicherheitsbehoerde-warnt-vor-weltweitem-Ransomware-Angriff-7485377.html
 
@@ -177,6 +180,10 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.theregister.com/2023/08/05/huawei_deutsche_bahn_germany/
+
+https://www.nokia.com/about-us/news/releases/2023/08/03/nokia-first-to-announce-manufacturing-of-broadband-network-electronics-products-for-bead-program-in-us/
+
 https://www.techdirt.com/2023/08/04/comcast-centurylink-fail-to-derail-community-owned-gigabit-fiber-network-in-bountiful-utah/
 > https://news.ycombinator.com/item?id=37001369
 

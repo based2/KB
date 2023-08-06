@@ -44,6 +44,11 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://cadnano.org/welcome.html dna
+
+https://www.nature.com/articles/s42255-023-00850-7
+> https://news.ycombinator.com/item?id=37012058
+
 https://phys.org/news/2023-06-dna-complex-functions.amp
 
 https://www.nature.com/articles/s41586-023-06288-x

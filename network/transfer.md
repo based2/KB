@@ -83,5 +83,9 @@ https://github.com/magic-wormhole/magic-wormhole python
 
 https://altcopy.net/
 
+https://developer.ibm.com/articles/j-zerocopy/ java.nio.channels.FileChannel
+
+https://www.symmetricds.org/
+
 
 

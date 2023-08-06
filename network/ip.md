@@ -57,6 +57,9 @@ https://www.reddit.com/r/aws/comments/zxv6gj/whats_the_point_of_ipv6_native_subs
 https://www.apalrd.net/posts/2023/network_ipv6/
 > https://news.ycombinator.com/item?id=35041829
 
+https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/
+> https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero
@@ -82,6 +85,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://munsirado.medium.com/unmasking-cloudflare-hosted-sites-unveiling-the-real-ip-address-b1d8a45c4554
+> https://news.ycombinator.com/item?id=37014696
+
 https://web.archive.org/web/20130302161137/http://www.vincentverhagen.nl/2009/06/13/what-does-the-pipe-value-mean-in-the-output-of-ping/
 
 https://blog.apnic.net/2021/06/17/how-a-small-free-ip-tool-survived/

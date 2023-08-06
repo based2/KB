@@ -432,6 +432,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://developers.redhat.com/articles/2023/08/03/3-reasons-drop-docker-podman
+> https://news.ycombinator.com/item?id=37020212
+
 https://jamesconroyfinn.com/github-actions-and-vanity-metrics
 > https://news.ycombinator.com/item?id=37010449
 
