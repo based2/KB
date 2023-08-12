@@ -31,3 +31,5 @@ https://www.phoronix.com/news/LXD-Maintainership-Canonical
 
 https://github.com/stgraber/incus
 > https://news.ycombinator.com/item?id=36985384
+
+https://discuss.linuxcontainers.org/t/introducing-incus/17781

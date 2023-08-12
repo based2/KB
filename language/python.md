@@ -326,6 +326,11 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://www.phoronix.com/news/Python-3.12-RC1
+
+https://peps.python.org/pep-0723/
+> https://news.ycombinator.com/item?id=37026041
+
 https://www.bitecode.dev/p/python-cocktail-mix-a-context-manager
 > https://news.ycombinator.com/item?id=37020530
 

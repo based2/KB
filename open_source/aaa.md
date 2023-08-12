@@ -249,6 +249,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://sfconservancy.org/blog/2023/jul/27/trademark-history-and-rust/
+
 https://www.gnu.org/software/units/
 > https://news.ycombinator.com/item?id=36987372
 

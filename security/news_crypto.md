@@ -41,6 +41,8 @@ https://securityaffairs.co/wordpress/128418/security/nhs-okta-advanced-server-ac
 https://research.ifcr.dk/certipy-2-0-bloodhound-new-escalations-shadow-credentials-golden-certificates-and-more-34d1c26f0dc6
 > https://www.reddit.com/r/netsec/comments/sw9w19/certipy_20_bloodhound_new_domain_privilege/
 
+https://www.zerolayers.io/p/issue-3#%C2%A7pysaml-and-cve
+
 https://seclists.org/oss-sec/2022/q1/34 CVE-2021-4122: cryptsetup 2.x: decryption through LUKS2 reencryption crash recovery
 > https://news.ycombinator.com/item?id=30101193
 

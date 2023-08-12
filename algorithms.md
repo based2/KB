@@ -122,6 +122,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf
+> https://news.ycombinator.com/item?id=37028310
+
 https://lemire.me/blog/2023/07/27/decoding-base16-sequences-quickly/
 
 https://en.algorithmica.org/hpc/simd/masking/

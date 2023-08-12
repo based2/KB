@@ -51,4 +51,14 @@ https://medium.com/flutter/whats-new-in-flutter-2-10-5aafb0314b12
 
 https://medium.com/flutter/announcing-flutter-2-8-31d2cb7e19f5
 > https://news.ycombinator.com/item?id=29488980
- 
+
+# Interop
+https://pub.dev/packages/chaquopy
+
+https://github.com/srplab/starcore_for_flutter/issues/27
+
+https://flet.dev/
+> https://flet.dev/roadmap
+> https://pub.dev/documentation/flet/latest/
+
+https://kivy.org/

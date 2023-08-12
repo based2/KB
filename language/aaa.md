@@ -340,6 +340,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://thunderseethe.dev/posts/type-inference/
+> https://news.ycombinator.com/item?id=36591079
+
 https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/
 > https://news.ycombinator.com/item?id=37003854
 

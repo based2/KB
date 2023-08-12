@@ -17,6 +17,9 @@ https://matrix.org/blog/2023/08/bridges-vulnerability-disclosure/
 https://fs0c131y.com/posts/2019-04-19_tchap-the-super-not-secure-app-of-the-french-government/
 
 #
+https://libera.chat/news/matrix-bridge-disabled-retrospective
+> https://news.ycombinator.com/item?id=37080717
+
 https://libera.chat/news/temporarily-disabling-the-matrix-bridge
 
 https://conduit.rs/

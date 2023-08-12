@@ -25,6 +25,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d
+> https://news.ycombinator.com/item?id=37036851
+
 https://arstechnica.com/gadgets/2023/08/google-is-finally-separating-chrome-from-chromeos-for-easier-updates/
 > https://news.ycombinator.com/item?id=36977107
 

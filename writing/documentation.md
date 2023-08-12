@@ -47,6 +47,9 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://fly.io/blog/livebook-for-app-documentation/
+> https://news.ycombinator.com/item?id=36995940
+
 https://www.appsmith.com/blog/write-a-great-readme
 > https://news.ycombinator.com/item?id=36773022
 

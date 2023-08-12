@@ -6,6 +6,10 @@ https://github.com/OpenXiangShan/XiangShan
 
 https://github.com/mnurzia/rv/blob/main/README.md
 
+# Sec
+https://arxiv.org/abs/2308.02945
+> https://news.ycombinator.com/item?id=37081891
+
 #
 https://www.nextplatform.com/2023/08/02/unleashing-an-open-source-torrent-on-cpus-and-ai-engines/
 

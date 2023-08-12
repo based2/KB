@@ -108,6 +108,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/
+> https://news.ycombinator.com/item?id=37034906
+
 https://news.ycombinator.com/item?id=36961734
 
 https://www.noahpinion.blog/p/interview-chris-miller-historian

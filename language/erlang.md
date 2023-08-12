@@ -144,6 +144,9 @@ https://gist.github.com/evadne/c9aeca424d30f024ba048158bcad385f
 https://underjord.io/scripting-with-elixir.html
 > https://news.ycombinator.com/item?id=36289580
 
+https://elixir-lang.org/blog/2023/06/22/type-system-updates-research-dev/
+> https://news.ycombinator.com/item?id=36591313
+
 https://wiki.alopex.li/ElixirForCynicalCurmudgeons
 > https://lobste.rs/s/rsxxbh/elixir_for_cynical_curmudgeons
 > https://news.ycombinator.com/item?id=36986769

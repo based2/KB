@@ -147,6 +147,10 @@ https://imfeld.dev/notes/postgresql_row_level_security
 
 https://postgrest.org/en/stable/references/admin.html
 
+https://www.pgaudit.org/
+> https://github.com/pgaudit/pgaudit
+> > https://news.ycombinator.com/item?id=37082827
+
 # Operations
 
 https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production
@@ -302,6 +306,12 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://supabase.com/blog/supavisor-1-million
+> https://news.ycombinator.com/item?id=37089925
+
+https://supabase.com/blog/supabase-local-dev
+> https://news.ycombinator.com/item?id=37059400
+
 https://github.com/supabase/postgres_lsp
 > https://news.ycombinator.com/item?id=37020610
 

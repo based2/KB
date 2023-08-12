@@ -19,6 +19,11 @@ https://ai.meta.com/llama/ v2
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
 
+https://medium.com/llamaindex-blog/data-agents-eed797d7972f
+
+https://agi-sphere.com/llama-2/
+> https://news.ycombinator.com/item?id=37028150
+
 https://github.com/srush/llama2.rs
 
 https://blog.skypilot.co/finetuning-llama2-operational-guide/

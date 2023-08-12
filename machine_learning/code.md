@@ -58,6 +58,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://github.com/modal-labs/devlooper
+> https://news.ycombinator.com/item?id=37035448
+
 https://www.windmill.dev/blog/windmill-ai
 > https://news.ycombinator.com/item?id=37000920
 

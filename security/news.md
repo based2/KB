@@ -1,3 +1,14 @@
+https://labs.hakaioffsec.com/nginx-alias-traversal/
+> https://news.ycombinator.com/item?id=36580417
+> > https://github.com/yandex/gixy/blob/master/docs/en/plugins/aliastraversal.md
+
+https://www.nullpt.rs/compiling-browser-to-bypass-antibot-measures
+
+https://www.wired.com/story/card-shuffler-hack/
+
+https://www.wired.com/story/mtba-charliecard-hack-defcon-2023/
+> https://news.ycombinator.com/item?id=37091662
+
 https://github.com/dckc/awesome-ocap
 
 https://www.securityweek.com/threat-actors-abuse-cloudflare-tunnel-for-persistent-access-data-theft/

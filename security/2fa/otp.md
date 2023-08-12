@@ -44,6 +44,8 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://blog.neilsabol.site/post/free-multiotp-mfa-oath-totp-cloud-hosting-azure-app-service/
+
 https://discord.com/blog/how-discord-rolled-out-yubikeys-for-all-employees
 > https://news.ycombinator.com/item?id=37021769
 

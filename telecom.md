@@ -180,6 +180,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://github.com/fonoster/routr
+
 https://www.theregister.com/2023/08/05/huawei_deutsche_bahn_germany/
 
 https://www.nokia.com/about-us/news/releases/2023/08/03/nokia-first-to-announce-manufacturing-of-broadband-network-electronics-products-for-bead-program-in-us/

@@ -581,6 +581,12 @@ https://pnpm.io/
 https://github.com/webfansplz/vtui-npm
 
 #
+https://github.com/WebKit/WebKit/blob/ab10a90523e06df54bbb8a98e1aed913f79d0af9/Source/JavaScriptCore/runtime/JSArrayBufferView.cpp
+> https://news.ycombinator.com/item?id=36575712
+
+https://github.com/TylerGlaiel/Crashlogs
+> https://news.ycombinator.com/item?id=36577290
+
 https://github.com/mechaniac/Map-of-Javascript
 
 https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript

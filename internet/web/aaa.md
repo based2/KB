@@ -128,6 +128,12 @@ https://github.com/wabarc/wayback
 
 https://trafilatura.readthedocs.io/en/latest/
 
+https://platform.openai.com/docs/gptbot
+> https://news.ycombinator.com/item?id=37030568
+
+https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots
+> https://news.ycombinator.com/item?id=37047746
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 

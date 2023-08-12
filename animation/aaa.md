@@ -64,6 +64,10 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://oimo.io/works/water/
+> https://news.ycombinator.com/item?id=37026592
+> https://github.com/saharan/works/tree/main/water
+
 https://apps.amandaghassaei.com/VortexShedding/
 > https://news.ycombinator.com/item?id=36904555
 

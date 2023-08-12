@@ -121,6 +121,9 @@ https://research.nvidia.com/labs/par/Perfusion/
 > https://news.ycombinator.com/item?id=37020620
 
 ## Stable diffusion
+
+> https://news.ycombinator.com/item?id=36586079
+
 https://andys.page/posts/how-to-draw/
 
 https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/
@@ -353,6 +356,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://github.com/lllyasviel/Fooocus
+>
+
 https://github.com/ErwannMillon/Color-diffusion
 > https://news.ycombinator.com/item?id=36991293
 

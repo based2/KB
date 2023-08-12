@@ -91,6 +91,8 @@ https://superuser.com/questions/962917/is-it-safe-to-manually-delete-frameworks-
 
 parsecd api.smoot.apple.com bag-smoot.v.aaplimg.com 3.73.166.250
 
+https://blog.neilsabol.site/post/quickly-easily-adding-pf-packet-filter-firewall-rules-macos-osx/
+
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
 > https://news.ycombinator.com/item?id=31864974

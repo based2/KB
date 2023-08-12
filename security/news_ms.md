@@ -1,6 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.gosecure.net/blog/2023/08/09/how-unparalleled-rdp-monitoring-reveal-attackers-tradecraft/
+> https://news.ycombinator.com/item?id=37078460
+
+https://www.schneier.com/blog/archives/2023/08/microsoft-signing-key-stolen-by-chinese.html
+> https://news.ycombinator.com/item?id=37033595
+
 https://news.ycombinator.com/item?id=36951339
 
 https://msrc.microsoft.com/blog/2023/08/microsoft-mitigates-power-platform-custom-code-information-disclosure-vulnerability/

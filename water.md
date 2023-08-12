@@ -168,3 +168,6 @@ https://www.theregister.com/2023/07/27/thames_water_to_datacenters_cut/
 https://techxplore.com/news/2023-07-pressure-driven-distillation-fast-purification.html
 
 https://www.abc.net.au/news/2023-07-19/australian-scientist-water-purification-sticker-helping-cambodia/102609532
+
+https://www.reuters.com/world/us/arizona-restricts-phoenix-home-construction-amid-water-shortage-2023-06-02/
+> https://news.ycombinator.com/item?id=37091812

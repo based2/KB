@@ -38,6 +38,12 @@ https://github.com/headwaymaps/headway Self-hostable maps stack, powered by Open
 > https://news.ycombinator.com/item?id=32875795
 
 #
+https://www.magicearth.com/crowd-sourced-traffic/
+> https://news.ycombinator.com/item?id=37047304
+
+https://blog.openstreetmap.org/2023/08/09/happy-birthday-openstreetmap-2/
+> https://news.ycombinator.com/item?id=37059481
+
 https://streets.gl/
 > https://news.ycombinator.com/item?id=36282861
 

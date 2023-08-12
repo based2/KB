@@ -75,3 +75,5 @@ https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated
 https://github.com/hegelai/prompttools
 > https://news.ycombinator.com/item?id=36958175
 
+https://chainforge.ai/docs/
+

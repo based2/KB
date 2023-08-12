@@ -412,6 +412,14 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://cprimozic.net/blog/growing-sparse-computational-graphs-with-rnns/
+
+https://www.i-programmer.info/news/105-artificial-intelligence/16308-stack-overflow-traffic-slumps-as-devs-turn-to-chatgtp.html
+
+https://www.sixthtone.com/news/1013462 AI Is Booming in China, But Its Grads Are Trapped in a Talent Gap
+
+https://bounded-regret.ghost.io/emergent-deception-optimization/
+
 https://huggingface.co/papers/2308.01544
 > https://news.ycombinator.com/item?id=36999003
 

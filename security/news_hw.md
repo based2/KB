@@ -2,6 +2,11 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1833315
+> https://news.ycombinator.com/item?id=37063459
+
 https://googleprojectzero.blogspot.com/2023/08/summary-mte-as-implemented.html arm
 
 https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7008.html

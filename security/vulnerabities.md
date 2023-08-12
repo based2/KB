@@ -106,6 +106,9 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 ## 2023
+https://downfall.page/ GDS intel
+>
+
 https://www.midnightblue.nl/tetraburst
 
 https://en.wikipedia.org/wiki/MOVEit
@@ -153,6 +156,10 @@ https://www.kb.cert.org/vuls/id/589825/ Blurtooth
 https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit
 
 ## 2020
+sunburst
+> https://en.wikipedia.org/wiki/SolarWinds
+> https://www.lawfaremedia.org/article/solarwinds-and-holiday-bear-campaign-case-study-classroom
+
 https://samy.pl/slipstream/ NAT
 
 https://www.fragattacks.com/ wifi
@@ -279,6 +286,9 @@ https://en.wikipedia.org/wiki/XKeyscore
 
 ## 2013
 https://en.wikipedia.org/wiki/Edward_Snowden
+> https://en.wikipedia.org/wiki/HTTPS_Everywhere
+> https://www.rfc-editor.org/rfc/rfc9446.html Reflections on Ten Years Past the Snowden Revelations
+> > https://news.ycombinator.com/item?id=37091989
 
 https://en.wikipedia.org/wiki/BREACH
 

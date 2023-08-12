@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://www.ipp.mpg.de/5322229/01_23
+> https://news.ycombinator.com/item?id=37092212
+
 https://www.sciencealert.com/a-compact-fusion-reactor-barely-3-feet-across-has-hit-a-huge-milestone
 
 https://www.theregister.com/2023/05/17/microsoft_bet_on_fusion/?td=rt-9cs
@@ -160,3 +163,5 @@ https://spectrum.ieee.org/zap-energy-fusion-reactor
 https://cfs.energy/news-and-media/commonwealth-fusion-systems-closes-1-8-billion-series-b-round
 
 https://www.sciencealert.com/for-the-first-time-a-fusion-reaction-has-generated-more-energy-than-absorbed-by-the-fuel
+
+https://news.ycombinator.com/item?id=37035444

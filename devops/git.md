@@ -272,13 +272,11 @@ https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/
 https://www.producthunt.com/posts/gitlive
 > https://www.reddit.com/r/programming/comments/nqmnyl/extend_git_with_realtime_collaborative_superpowers/
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-
-# Scanner
-https://github.com/bridgecrewio/checkov
-
-https://github.com/ossf/scorecard#goals github
   
 # News
+https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control
+> https://news.ycombinator.com/item?id=37038457
+
 https://jesseduffield.com/Lazygit-5-Years-On/
 > https://news.ycombinator.com/item?id=37009879
 

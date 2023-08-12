@@ -27,6 +27,12 @@ https://zfsbootmenu.org/
 https://www.omgubuntu.co.uk/2023/01/ubuntu-zfs-support-status
 > https://news.ycombinator.com/item?id=34276488
 
+https://github.com/openzfs/zfs/pull/15022
+> https://news.ycombinator.com/item?id=37039604
+
+https://github.com/openzfs/zfs/pull/13392
+> https://news.ycombinator.com/item?id=36588240
+
 https://github.com/openzfs/zfs/releases/tag/zfs-2.1.7
 > https://news.ycombinator.com/item?id=33826501
 

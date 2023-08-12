@@ -26,6 +26,9 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://blog.jgc.org/2010/12/write-your-passwords-down.html
+> https://news.ycombinator.com/item?id=37033814
+
 https://www.macrumors.com/2023/07/12/macos-sonoma-apple-passwords-third-party-browsers/
 > https://news.ycombinator.com/item?id=36719244
 

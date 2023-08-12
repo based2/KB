@@ -144,6 +144,9 @@ https://github.com/ipyflow/ipyflow
 https://jupyter-ai.readthedocs.io/en/latest/
 > https://news.ycombinator.com/item?id=37021571
 
+https://medium.com/@techlatest.net/tensorboard-integration-with-ai-ml-models-in-jupyter-notebook-a-blog-post-on-how-to-integrate-bfb243dd05cf
+> https://news.ycombinator.com/item?id=37035077
+
 ##
 http://zeppelin.apache.org/
 
@@ -333,6 +336,12 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://makie.org/ plot julia
+> https://news.ycombinator.com/item?id=36587875
+
+https://rachitsingh.com/notes/pandas-null/
+> https://lobste.rs/s/0u4nnf/dealing_with_pandas_s_nullable_float
+
 https://www.nextplatform.com/2023/08/01/vast-data-intentionally-blurs-the-line-between-storage-and-database/
 
 https://en.wikipedia.org/wiki/It%C3%B4_calculus

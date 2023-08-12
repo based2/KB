@@ -184,6 +184,13 @@ https://medium.com/develeap/rds-logs-optimizer-dont-overpay-for-storing-your-log
 https://github.com/develeap/rds-logs-optimizer
 
 ##
+https://www.hashicorp.com/license-faq
+
+https://spacelift.io/blog/hashicorps-license-change
+> https://news.ycombinator.com/item?id=37088548
+> > https://github.com/diggerhq/open-terraform
+> > > https://news.ycombinator.com/item?id=37088591
+
 https://dev.to/boodyvo/deploy-a-static-website-on-aws-with-terraform-2el3
 
 https://docs.aws.amazon.com/launchwizard/latest/userguide/launch-wizard-sap-service-catalog-terraform.html

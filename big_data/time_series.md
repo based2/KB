@@ -42,3 +42,6 @@ https://www.nature.com/articles/s41567-022-01852-0 Higher-order organization of 
 > https://news.ycombinator.com/item?id=34221756
 
 https://last9.io/blog/high-cardinality-no-problem-stream-aggregation-ftw/
+
+https://www.santafe.edu/research/results/working-papers/the-future-of-time-series
+> https://news.ycombinator.com/item?id=37033702

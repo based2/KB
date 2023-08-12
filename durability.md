@@ -76,6 +76,9 @@ https://www.economist.com/science-and-technology/2018/06/15/making-buildings-car
 > https://news.ycombinator.com/item?id=31942835
 
 # News
+https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/
+> https://news.ycombinator.com/item?id=37085138
+
 https://www.techdirt.com/2023/07/27/__trashed-4/
 > https://news.ycombinator.com/item?id=36892506
 

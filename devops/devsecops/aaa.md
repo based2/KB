@@ -15,6 +15,11 @@ https://sysdig.com/blog/gitops-iac-security-source/
 https://justine.lol/make/ Using Landlock to Sandbox GNU Make
 > https://news.ycombinator.com/item?id=32376322
 
+# Scanner
+https://github.com/bridgecrewio/checkov
+
+https://github.com/ossf/scorecard#goals github
+
 # SBOM
 https://spdx.dev
 

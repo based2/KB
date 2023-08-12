@@ -7,6 +7,11 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 > https://github.com/SpiderLabs/snappy
 
 #
+https://www.bleepingcomputer.com/news/security/hackers-increasingly-abuse-cloudflare-tunnels-for-stealthy-connections/
+
+https://www.csoonline.com/article/648207/pentagon-investigating-compromise-in-air-force-communications-report.html
+> https://news.ycombinator.com/item?id=37033555
+
 https://www.reddit.com/r/netsec/comments/15dotaq/cve202327997_critical_fortinet_fortigate_rce/
 
 https://pentests.nl/pentest-blog/cve-2023-28130-command-injection-in-check-point-gaia-portal//

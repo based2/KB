@@ -26,6 +26,7 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 
 # News
 https://insanity.industries/post/simple-networking/
+> https://news.ycombinator.com/item?id=37035221
 
 https://computer.rip/2023-07-29-Free-Public-WiFi.html
 > https://news.ycombinator.com/item?id=36937571

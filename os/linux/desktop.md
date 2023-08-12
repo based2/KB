@@ -78,6 +78,9 @@ https://github.com/casualsnek/cassowary run a Windows virtual machine and use Wi
 https://github.com/grassmunk/Chicago95
 > https://news.ycombinator.com/item?id=36929096
 
+https://usebottles.com/
+> https://news.ycombinator.com/item?id=36592930
+
 # Mac
 https://www.gitclear.com/blog/linux_touchpad_update_january_2023
 > https://news.ycombinator.com/item?id=34300973

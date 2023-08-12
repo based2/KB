@@ -149,7 +149,10 @@ https://sysdig.com/blog/2023-global-cloud-threat-report/
 https://www.bleepingcomputer.com/news/technology/spotify-down-music-searches-pages-account-signups-not-working/
 
 https://labs.guard.io/phishforce-vulnerability-uncovered-in-salesforces-email-services-exploited-for-phishing-32024ad4b5fa?gi=1cd0b456adfd
-> https://www.reddit.com/r/netsec/comments/15g8pt1/vulnerability_uncovered_in_salesforces_email/
+> https://www.reddit.com/r/netsec/comments/15g8pt1/vulnerability_uncovered_in_salesforces_email/https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197
+
+https://gist.github.com/yewtudotbe/c16a69ddad88a37c2a364a5ff5359197 oracle cloud
+> https://news.ycombinator.com/item?id=36570158
 
 https://news.ycombinator.com/item?id=36913988 ring
 

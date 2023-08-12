@@ -331,6 +331,10 @@ https://www.jelmer.uk/port-py-to-rust.html
 
 https://blog.janestreet.com/oxidizing-ocaml-ownership/
 
+https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/ Calling rust from Kotlin, Swift, Python, Ruby
+> https://mozilla.github.io/uniffi-rs/
+> > https://webidl.spec.whatwg.org/
+
 ## MacOs
 https://github.com/ryanmcgrath/cacao
 > https://news.ycombinator.com/item?id=35934799

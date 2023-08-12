@@ -29,6 +29,11 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 https://news.ycombinator.com/item?id=36889610
 
 # News
+https://www.space.com/russia-luna-25-moon-mission-launch-success
+
+https://www.space.com/india-chandrayaan-3-moon-orbit-photos
+>
+
 https://www.iflscience.com/enormous-structure-found-hiding-under-the-surface-of-the-moon-70118
 
 https://www.washingtonpost.com/technology/2023/07/25/nasa-moon-artemis/
