@@ -108,6 +108,12 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://jprahman.substack.com/p/sapphire-rapids-core-to-core-latency
+https://news.ycombinator.com/item?id=37097048
+
+https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_84e38add-1d2f-481e-90ea-ca9442084383
+> https://news.ycombinator.com/item?id=37102092
+
 https://chipsandcheese.com/2023/08/04/sandy-bridge-setting-intels-modern-foundation/
 > https://news.ycombinator.com/item?id=37034906
 

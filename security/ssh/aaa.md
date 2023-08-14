@@ -141,6 +141,8 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://www.openssh.com/releasenotes.html#9.4p1
+
 https://github.com/jaywonchung/pegasus
 
 https://www.libssh2.org/changes.html

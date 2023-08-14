@@ -81,6 +81,8 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://www.atariarchives.org/cgp/Ch02_Sec04.php
+
 https://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html
 > https://news.ycombinator.com/item?id=36939491
 

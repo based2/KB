@@ -180,6 +180,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.sciencedirect.com/science/article/abs/pii/S1084804518303023
+
 https://github.com/fonoster/routr
 
 https://www.theregister.com/2023/08/05/huawei_deutsche_bahn_germany/

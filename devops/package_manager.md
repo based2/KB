@@ -65,6 +65,9 @@ https://drakerossman.com/blog/how-to-add-home-manager-to-nixos
 
 https://paperless.blog/nix-shell-template
 
+https://github.com/CuBeRJAN/nix-problems
+> https://news.ycombinator.com/item?id=37089331
+
 #
 
 https://repology.org

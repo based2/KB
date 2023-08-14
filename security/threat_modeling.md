@@ -2,6 +2,8 @@ https://shellsharks.com/threat-modeling
 > https://www.reddit.com/r/netsec/comments/wdqnc5/threat_modeling_field_guide/
 > > https://www.ssi.gouv.fr/guide/ebios-risk-manager-the-method/
 
+https://www.threatintel.academy/diamond/
+
 https://github.com/TalEliyahu/Threat_Model_Examples
 
 https://www.reddit.com/r/netsec/comments/1057mto/i_made_an_open_source_browser_extension_to_aid_in/

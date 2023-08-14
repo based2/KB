@@ -93,6 +93,9 @@ https://www.stavros.io/posts/spam-spammers-back/ gpt
 > https://news.ycombinator.com/item?id=37018253
 > https://github.com/skorokithakis/spamgpt
 
+https://www.multicians.org/thvv/mail-history.html
+> https://news.ycombinator.com/item?id=37087791
+
 # Security
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/

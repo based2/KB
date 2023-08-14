@@ -1,3 +1,7 @@
+https://techcrunch.com/2023/08/12/fbi-ddos-for-hire-cyberattackers/?guccounter=1
+
+https://arxiv.org/abs/2308.02202
+
 https://labs.hakaioffsec.com/nginx-alias-traversal/
 > https://news.ycombinator.com/item?id=36580417
 > > https://github.com/yandex/gixy/blob/master/docs/en/plugins/aliastraversal.md

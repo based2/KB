@@ -52,6 +52,11 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 > https://news.ycombinator.com/item?id=36628258
 
 # News
+https://news.ycombinator.com/item?id=37084214
+
+https://www.biorxiv.org/content/10.1101/2023.01.29.525937v1
+> https://news.ycombinator.com/item?id=37095169
+
 https://aaronhertzmann.com/2020/04/19/lines-as-edges.html
 > https://news.ycombinator.com/item?id=36969473
 

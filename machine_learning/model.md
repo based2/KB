@@ -12,12 +12,19 @@ https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 https://github.com/simonw/llm
 > https://llm.datasette.io/en/stable/index.html
 
+# sec
+https://github.com/laiyer-ai/llm-guard
+> https://news.ycombinator.com/item?id=37103757
+
 # llama Facebook - Forbids commercial use, weights required
 https://ai.meta.com/llama/ v2
 > https://news.ycombinator.com/item?id=36774627
 
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
+
+https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications
+>
 
 https://medium.com/llamaindex-blog/data-agents-eed797d7972f
 

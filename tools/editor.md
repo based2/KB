@@ -120,6 +120,9 @@ https://www.lazyvim.org/
 https://muhammadraza.me/2023/vim-onliners/
 > https://news.ycombinator.com/item?id=37002420
 
+https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9
+> https://news.ycombinator.com/item?id=37099750
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -273,6 +276,9 @@ https://emacsredux.com/blog/2023/07/30/emacs-29-1-released/
 
 https://cmdln.org/2023/03/25/how-i-org-in-2023/
 
+https://susam.net/blog/sorting-in-emacs.html
+> https://news.ycombinator.com/item?id=37086176
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -317,6 +323,9 @@ https://code.visualstudio.com/blogs/2022/12/07/remote-even-better
 > https://news.ycombinator.com/item?id=33945796
 
 https://devblogs.microsoft.com/visualstudio/all-in-one-search-available-in-17-6/
+
+https://codelite.org/
+> https://news.ycombinator.com/item?id=37106296
 
 ##
 https://blogs.apache.org/netbeans/entry/announce-apache-netbeans-14-released

@@ -144,6 +144,10 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://pjonori.blog/posts/systems-math-explosions/
+
+https://news.ycombinator.com/item?id=37059742
+
 https://news.ycombinator.com/item?id=37007180 A Swift intro to Geometric Algebra - 2020 video
 
 https://dustingmixon.wordpress.com/2023/08/04/math-exposition-on-youtube/

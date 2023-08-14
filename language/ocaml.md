@@ -22,6 +22,9 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/
+> https://news.ycombinator.com/item?id=37097973
+
 https://discuss.ocaml.org/t/announcing-the-ocaml-wasm-organisation/12676
 
 https://blog.ajour.io/language-choices-do-they-matter-also-whats-this-ocaml/

@@ -59,6 +59,8 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://brianchristner.io/4000-stars-and-counting-a-trip-down-memory-lane/
+
 https://stackoverflow.com/questions/59417624/how-do-i-let-my-docker-volume-sync-to-my-filesystem-and-allow-writing-from-docke
 
 https://vsupalov.com/docker-arg-env-variable-guide/

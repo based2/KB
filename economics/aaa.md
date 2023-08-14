@@ -224,6 +224,8 @@ https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-l
 > https://news.ycombinator.com/item?id=36171591
 
 # News
+https://www.lynalden.com/open-networks/
+
 https://www.economist.com/business/2023/04/05/ey-gets-banned-from-new-audit-business-in-germany
 > https://news.ycombinator.com/item?id=35501937
 

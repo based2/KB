@@ -35,6 +35,10 @@ https://github.com/ant4g0nist/decompiler
 https://frida.re/news/2023/06/23/frida-16-1-0-released/
 > https://www.reddit.com/r/netsec/comments/14m1ikl/frida_1610_is_out_w_a_brand_new_backend_that/
 
+# Legacy
+https://www.righto.com/2023/08/datapoint-to-8086.html
+> https://news.ycombinator.com/item?id=37102482
+
 #
 https://github.com/codilime/veles
 > https://news.ycombinator.com/item?id=36997263

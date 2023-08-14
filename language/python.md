@@ -263,6 +263,9 @@ https://hpyproject.org/blog/posts/2021/03/hello-hpy/
 
 https://github.com/lingfo/lingfo
 
+https://github.com/denosaurs/deno_python
+> https://news.ycombinator.com/item?id=37086753
+
 # Refactor
 https://github.com/isidentical/refactor
 > https://news.ycombinator.com/item?id=28027016
@@ -326,6 +329,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://reactpy.dev/docs/index.html
+
 https://www.phoronix.com/news/Python-3.12-RC1
 
 https://peps.python.org/pep-0723/

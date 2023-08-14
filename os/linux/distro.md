@@ -96,6 +96,11 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://rhinolinux.org/ ubuntu
+
+https://jasoneckert.github.io/myblog/fedora-asahi-remix/
+> https://news.ycombinator.com/item?id=37100503
+
 https://www.lpi.org/en/blog/2023/07/30/ibm-red-hat-and-free-software-an-old-maddogs-view/
 > https://news.ycombinator.com/item?id=37005937
 

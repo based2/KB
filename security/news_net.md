@@ -6,6 +6,8 @@ https://www.snort.org/ Network Intrusion Detection and Prevention System
 https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wifi-access-points-on-open-networks/
 > https://github.com/SpiderLabs/snappy
 
+https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
+
 #
 https://www.bleepingcomputer.com/news/security/hackers-increasingly-abuse-cloudflare-tunnels-for-stealthy-connections/
 

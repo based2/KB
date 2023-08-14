@@ -25,6 +25,12 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://ofrak.com/tetris/ arm cpu unicorn emulator 32bit
+> https://news.ycombinator.com/item?id=37083309
+
+https://stopnoanime.github.io/three-airboat-sim/
+> https://news.ycombinator.com/item?id=37101267
+
 https://www.videogameschronicle.com/news/a-new-fan-made-port-of-wipeout-can-be-played-in-a-web-browser/
 > https://news.ycombinator.com/item?id=37092546
 

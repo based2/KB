@@ -118,6 +118,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://bitfieldconsulting.com/golang/iterators
+> https://news.ycombinator.com/item?id=37063105
+
 https://stephenn.com/2023/08/mastering-database-transactions-in-go-strategies-and-best-practices/
 
 https://github.com/cmd-stream/cmd-stream-go

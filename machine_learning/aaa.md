@@ -412,6 +412,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://dlsyscourse.org/lectures/
+> https://news.ycombinator.com/item?id=37101515
+
 https://cprimozic.net/blog/growing-sparse-computational-graphs-with-rnns/
 
 https://www.i-programmer.info/news/105-artificial-intelligence/16308-stack-overflow-traffic-slumps-as-devs-turn-to-chatgtp.html

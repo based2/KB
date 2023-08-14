@@ -59,6 +59,8 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html
+
 https://www.foonathan.net/2023/08/stop-writing-functions/
 
 https://devtalk.blender.org/t/speed-up-c-compilation/30508

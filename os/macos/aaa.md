@@ -45,6 +45,9 @@ https://heronsperch.blogspot.com/2023/03/compatibility-project-almost-complete.h
 > https://news.ycombinator.com/item?id=35311293
 
 # Security
+https://lapcatsoftware.com/articles/2023/6/1.html
+> https://news.ycombinator.com/item?id=37103188
+
 https://support.apple.com/guide/security/sec469d47bd8/web
 
 * Who talk to me
@@ -83,6 +86,8 @@ ls /Library/LaunchDaemons
 https://discussions.apple.com/thread/2078738
 
 https://stackoverflow.com/questions/5510563/how-to-start-syslogd-server-on-mac-to-accept-remote-logging-messages
+
+pkill airportd airPlayXPCHelpe WifiAgent WirelessRadioMa mobileassetd iCltcp4 adpudp4 airudp6 ituudp4 Calendar PerfPowerServic Perudp4 WeatherWidget pluudp6 sharingd bluetoothd Useudp4 shaudp4 amsengagementd
 
 /SpeechSynthesis.framework
 

@@ -35,6 +35,8 @@ https://dariusz.wieckiewicz.org/en/bing-jail/
 https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html
 > https://news.ycombinator.com/item?id=36788813
 
+https://www.animalz.co/blog/seo-and-chatgpt/
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

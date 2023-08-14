@@ -4,6 +4,9 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://eclecticlight.co/2023/08/12/why-macos-anti-malware-scans-can-behave-oddly/
+> https://news.ycombinator.com/item?id=37110941
+
 https://www.wsj.com/articles/apples-parental-controls-are-broken-55a2aa52
 > https://news.ycombinator.com/item?id=36921602
 

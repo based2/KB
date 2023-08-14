@@ -101,6 +101,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/
+> https://news.ycombinator.com/item?id=37099761
+
 https://matt-rickard.com/apples-hidden-social-network
 
 https://www.bbc.co.uk/rd/blog/2023-07-mastodon-distributed-decentralised-fediverse-activitypub

@@ -340,6 +340,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=37101563
+
 https://thunderseethe.dev/posts/type-inference/
 > https://news.ycombinator.com/item?id=36591079
 
