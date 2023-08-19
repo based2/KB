@@ -48,6 +48,12 @@ https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://github.com/devcontainers/templates
+> https://news.ycombinator.com/item?id=37107455
+
+https://github.com/nubosoftware/linux-remote-desktop vdi
+> https://news.ycombinator.com/item?id=37113973
+
 https://github.com/wolfi-dev
 > https://www.chainguard.dev/chainguard-images
 

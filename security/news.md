@@ -1,3 +1,41 @@
+https://krebsonsecurity.com/2023/08/karma-catches-up-to-global-phishing-service-16shop/
+
+https://mvsp.dev/
+> https://news.ycombinator.com/item?id=37152397
+
+https://www.theregister.com/2023/08/16/bank_of_ireland_outage/
+
+https://www.bleepingcomputer.com/news/security/maginotdns-attacks-exploit-weak-checks-for-dns-cache-poisoning/
+
+https://www.bleepingcomputer.com/news/security/ford-says-cars-with-wifi-vulnerability-still-safe-to-drive/
+
+https://www.bleepingcomputer.com/news/security/winrar-flaw-lets-hackers-run-programs-when-you-open-rar-archives/
+> https://news.ycombinator.com/item?id=37179505
+
+https://ftp.gnu.org/old-gnu/Manuals/coreutils-4.5.4/html_node/coreutils_149.html
+> https://news.ycombinator.com/item?id=37175754
+
+https://www.science.org/content/article/cyberattack-shutters-major-nsf-funded-telescopes-more-2-weeks
+> https://news.ycombinator.com/item?id=37184054
+
+https://www.sjoerdlangkemper.nl/2023/08/16/session-timeout/
+> https://news.ycombinator.com/item?id=37173339
+
+https://www.w3.org/blog/2023/web-environment-integrity-has-no-standing-at-w3c/
+> https://news.ycombinator.com/item?id=37093632
+
+https://www.securityweek.com/microsoft-discloses-codesys-flaws-allowing-shutdown-of-industrial-operations-spying/ plc
+> https://news.ycombinator.com/item?id=37123219
+
+https://blog.0x7d0.dev/history/how-they-bypass-youtube-video-download-throttling/
+> https://news.ycombinator.com/item?id=37117338
+
+https://github.com/dnakov/little-rat
+> https://news.ycombinator.com/item?id=37119942
+
+https://www.theregister.com/2023/08/15/so_much_for_captcha_then/
+> https://news.ycombinator.com/item?id=37133485
+
 https://techcrunch.com/2023/08/12/fbi-ddos-for-hire-cyberattackers/?guccounter=1
 
 https://arxiv.org/abs/2308.02202

@@ -158,6 +158,9 @@ https://docs.rs/crate/rustler/latest
 
 https://github.com/rodrigocaldeira/nif_cgo
 
+https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req
+> https://news.ycombinator.com/item?id=37170273
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

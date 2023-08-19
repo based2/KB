@@ -185,6 +185,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://susam.net/blog/timing-with-curl.html
+> https://news.ycombinator.com/item?id=37118045
+
 https://blog.google/technology/ai/ai-web-publisher-controls-sign-up/
 > https://news.ycombinator.com/item?id=36641607
 

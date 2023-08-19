@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # News
+https://github.com/Engine-Simulator/engine-sim-community-edition
+> https://news.ycombinator.com/item?id=37173555
+
 https://www.rafa.ee/articles/godot-peer-to-peer-multiplayer/
 > https://news.ycombinator.com/item?id=36986981
 

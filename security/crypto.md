@@ -127,6 +127,9 @@ https://blog.cryptographyengineering.com/2023/05/11/on-ashton-kutcher-and-secure
 https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler
 > https://news.ycombinator.com/item?id=35826723
 
+https://azeemba.com/posts/homomorphic-encryption-with-images.html
+> https://lobste.rs/s/epk42u/homomorphic_encryption_with_images
+
 #
 https://blog.trailofbits.com/2018/10/12/introduction-to-verifiable-delay-functions-vdfs/
 

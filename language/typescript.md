@@ -103,6 +103,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html
+> https://news.ycombinator.com/item?id=37171801
+
 https://trpc.io/
 > https://news.ycombinator.com/item?id=37098875
 

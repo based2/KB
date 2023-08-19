@@ -101,6 +101,11 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.thedailybeast.com/insiders-recall-how-rupert-murdoch-ruined-myspace
+
+https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/
+> https://news.ycombinator.com/item?id=37137110
+
 https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/
 > https://news.ycombinator.com/item?id=37099761
 

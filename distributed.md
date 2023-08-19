@@ -184,6 +184,9 @@ https://github.com/logsem/aneris coq, ocaml
 https://p-org.github.io/P/whatisP/
 > https://news.ycombinator.com/item?id=34273979
 
+https://tokio.rs/blog/2023-01-03-announcing-turmoil
+> https://news.ycombinator.com/item?id=37163187
+
 # concurrencyngs
 
 # News

@@ -77,3 +77,5 @@ https://github.com/hegelai/prompttools
 
 https://chainforge.ai/docs/
 
+https://news.ycombinator.com/item?id=37130531
+

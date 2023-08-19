@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://dothemath.ucsd.edu/2023/08/fusion-foolery/
+> https://news.ycombinator.com/item?id=37159887
+
 https://www.ipp.mpg.de/5322229/01_23
 > https://news.ycombinator.com/item?id=37092212
 

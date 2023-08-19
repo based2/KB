@@ -90,6 +90,8 @@ https://aplcart.info/
 https://www.sacrideo.us/suggestivity-and-idioms-in-apl/
 > https://news.ycombinator.com/item?id=35857072
 
+https://mathspp.com/blog/what-learning-apl-taught-me-about-python
+
 ## K
 https://news.ycombinator.com/item?id=27842541
 
@@ -340,6 +342,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://openjdk.org/projects/jdk/21/
+> https://news.ycombinator.com/item?id=37126530
+
+https://mathoverflow.net/questions/374089/does-there-exist-a-complete-implementation-of-the-risch-algorithm
+> https://news.ycombinator.com/item?id=37124059
+
 https://news.ycombinator.com/item?id=37101563
 
 https://thunderseethe.dev/posts/type-inference/

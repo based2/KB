@@ -12,6 +12,8 @@ https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
+https://www.bleepingcomputer.com/news/security/thousands-of-android-apks-use-compression-trick-to-thwart-analysis/
+
 https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/
 > https://news.ycombinator.com/item?id=37012138
 

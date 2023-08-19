@@ -12,6 +12,10 @@ https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 https://github.com/simonw/llm
 > https://llm.datasette.io/en/stable/index.html
 
+# Test
+https://github.com/mr-gpt/deepeval
+> https://news.ycombinator.com/item?id=37157323
+
 # sec
 https://github.com/laiyer-ai/llm-guard
 > https://news.ycombinator.com/item?id=37103757
@@ -23,8 +27,14 @@ https://ai.meta.com/llama/ v2
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
 
+https://twitter.com/tjake/status/1690780803876134912 java
+> https://news.ycombinator.com/item?id=37121686
+> https://github.com/tjake/Jlama
+
+https://github.com/Dicklesworthstone/llama_embeddings_fastapi_service
+> https://news.ycombinator.com/item?id=37133163
+
 https://www.anyscale.com/blog/fine-tuning-llama-2-a-comprehensive-case-study-for-tailoring-models-to-unique-applications
->
 
 https://medium.com/llamaindex-blog/data-agents-eed797d7972f
 
@@ -126,6 +136,24 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://huyenchip.com/2023/08/16/llm-research-open-challenges.html
+> https://news.ycombinator.com/item?id=37155080
+
+https://colinharman.substack.com/p/with-llms-enterprise-is-different
+> https://news.ycombinator.com/item?id=37184156
+
+https://www.tidepool.so/2023/08/17/why-you-probably-dont-need-to-fine-tune-an-llm/
+> https://news.ycombinator.com/item?id=37174850
+
+https://blog.allenai.org/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64
+> https://news.ycombinator.com/item?id=37181415
+
+https://github.com/normal-computing/outlines
+> https://news.ycombinator.com/item?id=37125118
+
+https://www.anyscale.com/blog/continuous-batching-llm-inference
+> https://news.ycombinator.com/item?id=37131477
+
 https://mgalkin.medium.com/graph-machine-learning-icml-2023-9b5e4306a1cc
 
 https://github.com/iamarunbrahma/finetuned-qlora-falcon7b-medical

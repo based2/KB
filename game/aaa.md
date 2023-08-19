@@ -25,6 +25,9 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://2009scape.org/
+> https://news.ycombinator.com/item?id=37183069
+
 https://ofrak.com/tetris/ arm cpu unicorn emulator 32bit
 > https://news.ycombinator.com/item?id=37083309
 

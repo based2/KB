@@ -1,3 +1,7 @@
+https://docs.flutter.dev/release/whats-new#16-august-2023-313-release
+
+https://jitsi.org/blog/introducing-the-jitsi-meet-flutter-sdk/
+> https://news.ycombinator.com/item?id=37116539
 
 https://leancode.co/blog/flutter-pros-and-cons-2023-summary
 > https://lobste.rs/s/knpvos/flutter_pros_cons_2023_summary

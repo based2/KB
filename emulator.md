@@ -8,6 +8,11 @@ https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.htm
 > > http://users.freenet.am/~softland/tutorials/Petite.v2.3.MUP.txt
 
 #
+https://neugierig.org/software/blog/2023/08/x86-x64-aarch64.html
+> https://news.ycombinator.com/item?id=37115614
+
+https://news.ycombinator.com/item?id=37108328
+
 https://github.com/nukeykt/Nuked-MD-FPGA
 > https://news.ycombinator.com/item?id=36992335
 

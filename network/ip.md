@@ -60,6 +60,9 @@ https://www.apalrd.net/posts/2023/network_ipv6/
 https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/
 > https://lobste.rs/s/6xaeam/ipv6_is_disaster_we_can_fix_it
 
+https://cr.yp.to/djbdns/ipv6mess.html
+> https://news.ycombinator.com/item?id=37119370
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

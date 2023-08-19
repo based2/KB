@@ -103,6 +103,12 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.theregister.com/2023/08/18/google_wiretapping_tax_data/
+
+https://adalytics.io/blog/are-youtube-ads-coppa-compliant
+
+https://news.ycombinator.com/item?id=37185461
+
 https://www.techpowerup.com/312122/psa-intel-graphics-drivers-now-collect-telemetry-by-default
 > https://news.ycombinator.com/item?id=37033475
 

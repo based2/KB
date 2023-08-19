@@ -214,6 +214,9 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://joshcollinsworth.com/blog/antiquated-react
+> https://news.ycombinator.com/item?id=37131802
+
 https://reactnative.dev/blog/2023/06/21/0.72-metro-package-exports-symlinks
 > https://news.ycombinator.com/item?id=36446840
 
@@ -621,6 +624,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://blog.yusu.ke/hono-htmx-cloudflare/
+> https://news.ycombinator.com/item?id=37165054
+
 https://ramdajs.com/ functional
 > https://news.ycombinator.com/item?id=37003275
 

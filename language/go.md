@@ -118,6 +118,17 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://www.dolthub.com/blog/2023-08-16-go-pitfalls/
+> https://news.ycombinator.com/item?id=37171423
+
+https://github.com/IBM/fp-go
+> https://news.ycombinator.com/item?id=37171149
+
+https://devclass.com/2023/08/09/go-1-21-released-with-experimental-wasi-fix-for-common-gotcha/
+
+https://go.dev/blog/compat go2
+> https://news.ycombinator.com/item?id=37122871
+
 https://bitfieldconsulting.com/golang/iterators
 > https://news.ycombinator.com/item?id=37063105
 

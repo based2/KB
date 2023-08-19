@@ -27,6 +27,9 @@ https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest
 https://en.wikipedia.org/wiki/Spin_isomers_of_hydrogen
 
 # News
+https://terraformindustries.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/
+>
+
 https://heatmap.news/economy/green-hydrogen-tax-credit-treasury
 
 https://news.ycombinator.com/item?id=36942305

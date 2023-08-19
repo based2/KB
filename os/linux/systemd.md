@@ -38,6 +38,9 @@ https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
 https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/
 
 #
+https://servicer.dev/
+> https://news.ycombinator.com/item?id=37132651
+
 https://systemd-by-example.com/
 > https://news.ycombinator.com/item?id=36817510
 

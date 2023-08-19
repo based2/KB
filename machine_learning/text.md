@@ -50,6 +50,9 @@ https://github.com/khoj-ai/khoj
 > https://news.ycombinator.com/item?id=36933452
 
 # News
+https://textfx.withgoogle.com/
+> https://news.ycombinator.com/item?id=37161441
+
 https://www.transcribeglass.com/features.html
 > https://news.ycombinator.com/item?id=36914979
 

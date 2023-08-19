@@ -103,6 +103,9 @@ https://arxiv.org/abs/2203.03456
 > https://www.quantamagazine.org/finally-a-fast-algorithm-for-shortest-paths-on-negative-graphs-20230118/
 > > https://news.ycombinator.com/item?id=34439701
 
+https://planarity.org/
+> https://news.ycombinator.com/item?id=37095700
+
 ## Cayley - groups
 http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  OF  CAYLEY  GRAPHS
 

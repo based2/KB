@@ -40,6 +40,9 @@ https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://bellard.org/ts_server/ts_zip.html
+> https://news.ycombinator.com/item?id=37152978
+
 https://github.com/ghoomy/universe/blob/main/computer%20science/overwrite-insert%20difference%20format.md
 > https://lobste.rs/s/o7ffm8/overwrite_insert_difference_format
 

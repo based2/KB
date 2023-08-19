@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://techxplore.com/news/2023-08-tech-breakthrough-boost-states-geothermal.html
+
 https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report
 > https://news.ycombinator.com/item?id=37022771
 

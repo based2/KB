@@ -29,6 +29,12 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.libinst.com/tpfd.htm
+> https://news.ycombinator.com/item?id=37175823
+
+https://gshock.casio.com/intl/technology/radio/
+> https://news.ycombinator.com/item?id=37152136
+
 https://today.uconn.edu/2023/06/biodegradable-ultrasound-opens-the-blood-brain-barrier/#
 
 https://www.nature.com/articles/s41586-023-06174-6

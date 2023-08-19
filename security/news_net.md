@@ -9,6 +9,8 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
 
 #
+https://www.theregister.com/2023/08/10/tunnelcrack_vpn/?td=rt-4a
+
 https://www.bleepingcomputer.com/news/security/hackers-increasingly-abuse-cloudflare-tunnels-for-stealthy-connections/
 
 https://www.csoonline.com/article/648207/pentagon-investigating-compromise-in-air-force-communications-report.html

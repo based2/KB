@@ -24,6 +24,9 @@ https://taras.glek.net/post/curious-case-of-maintaining-sufficient-free-space-wi
 https://zfsbootmenu.org/
 > https://news.ycombinator.com/item?id=33571656
 
+https://docs.zfsbootmenu.org/en/v2.2.x/#
+> https://news.ycombinator.com/item?id=37113917
+
 https://www.omgubuntu.co.uk/2023/01/ubuntu-zfs-support-status
 > https://news.ycombinator.com/item?id=34276488
 

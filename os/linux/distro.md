@@ -96,6 +96,16 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14
+> https://files.devuan.org/devuan_daedalus/Release_notes.txt
+> https://www.heise.de/news/Devuan-5-0-mit-rootless-startx-und-Wayland-ohne-elogind-9268057.html
+
+https://www.suse.com/news/EQT-announces-voluntary-public-purchase-offer-and-intention-to-delist-SUSE/
+> https://news.ycombinator.com/item?id=37166885
+
+https://openela.org/join/
+> https://www.theregister.com/2023/08/14/oracle_suse_ciq_openela/?td=rt-3a
+
 https://rhinolinux.org/ ubuntu
 
 https://jasoneckert.github.io/myblog/fedora-asahi-remix/

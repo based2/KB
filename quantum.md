@@ -91,6 +91,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://math.mit.edu/~shor/435-LN/
+> https://news.ycombinator.com/item?id=37126479
+
 https://www.eurekalert.org/news-releases/994232
 
 https://www.quantinuum.com/news/quantinuum-h-series-quantum-computer-accelerates-through-3-more-performance-records-for-quantum-volume-217-218-and-219

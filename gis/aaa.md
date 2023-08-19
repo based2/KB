@@ -235,6 +235,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://nso.group/@haifisch/110901720830132689#.
+> https://news.ycombinator.com/item?id=37155574
+
 https://nextbillion.ai/blog/optimizing-point-in-polygon-calculations-for-geospatial-applications
 
 https://arstechnica.com/gadgets/2023/07/apple-introduces-offline-maps-but-how-does-it-compare-with-google-maps/

@@ -162,6 +162,9 @@ https://github.com/axllent/mailpit
 > https://news.ycombinator.com/item?id=36448686
 
 # News
+https://questdb.io/blog/fuzz-testing-questdb/
+> https://news.ycombinator.com/item?id=37163980
+
 https://arxiv.org/abs/2203.05566
 
 https://chipsandcheese.com/2023/06/14/latency-testing-is-hard-rdna-3-power-saving/

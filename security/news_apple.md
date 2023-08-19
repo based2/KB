@@ -4,6 +4,13 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/?guccounter=1
+> https://news.ycombinator.com/item?id=37154473
+
+https://nvd.nist.gov/vuln/detail/CVE-2023-1174 minikube
+
+https://www.wired.com/story/apple-mac-background-task-management-flaw/
+
 https://eclecticlight.co/2023/08/12/why-macos-anti-malware-scans-can-behave-oddly/
 > https://news.ycombinator.com/item?id=37110941
 

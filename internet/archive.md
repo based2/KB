@@ -64,6 +64,15 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://blog.archive.org/2023/08/17/what-the-hachette-v-internet-archive-decision-means-for-our-library/
+> https://news.ycombinator.com/item?id=37166994
+
+https://openfarm.cc/
+> https://news.ycombinator.com/item?id=37125830
+
+https://blog.archive.org/2023/08/14/internet-archive-responds-to-recording-industry-lawsuit-targeting-obsolete-media/
+> https://news.ycombinator.com/item?id=37128044
+
 https://www.funet.fi/
 > https://news.ycombinator.com/item?id=37015585
 

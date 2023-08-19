@@ -149,6 +149,9 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://jv16powertools.com/blog/comparing-windows-uninstallers-and-making-uninstalr/
+> https://news.ycombinator.com/item?id=37186483
+
 https://github.com/massgravel/Microsoft-Activation-Scripts
 > https://news.ycombinator.com/item?id=37022047
 

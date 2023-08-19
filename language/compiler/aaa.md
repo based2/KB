@@ -136,6 +136,12 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=0e466e978c728697f18c67c4eace9ba4633f9ef5
+> https://news.ycombinator.com/item?id=37180559
+
+https://stefan-marr.de/downloads/oopsla23-larose-et-al-ast-vs-bytecode-interpreters-in-the-age-of-meta-compilation.pdf
+> https://news.ycombinator.com/item?id=37119482
+
 https://lobste.rs/s/yfyub2/compiler_development_rust_ocaml
 
 https://www.cs.tufts.edu/comp/150FP/archive/brenda-baker/structuring.pdf flowgraph

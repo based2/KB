@@ -141,6 +141,9 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.techradar.com/pro/security/gitlab-has-been-exploited-to-launch-a-novel-proxyjacking-attack
+> https://news.ycombinator.com/item?id=37181635
+
 https://dagrz.com/writing/aws-security/hacking-github-aws-oidc/
 > https://lobste.rs/s/ioglkz/hacking_github_aws_integrations_again
 
@@ -435,6 +438,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.systeminit.com/blog-open-source/
+> https://news.ycombinator.com/item?id=37149271
 
 > https://news.ycombinator.com/item?id=37081077
 

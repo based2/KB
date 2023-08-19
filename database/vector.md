@@ -26,3 +26,8 @@ https://navidre.medium.com/which-vector-database-should-i-use-a-comparison-cheat
 https://supabase.com/blog/fewer-dimensions-are-better-pgvector
 > https://news.ycombinator.com/item?id=36984416
 
+https://github.com/epsilla-cloud/vectordb
+> https://news.ycombinator.com/item?id=37122064
+
+https://news.ycombinator.com/item?id=37147140
+

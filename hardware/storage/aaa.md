@@ -53,6 +53,12 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://arstechnica.com/gadgets/2023/08/lawsuit-takes-western-digital-to-task-over-sandisk-ssds-allegedly-erasing-data/
+> https://news.ycombinator.com/item?id=37176121
+
+https://blog.jgc.org/2023/08/retrieving-1tb-of-data-from-faulty.html seagate
+> https://news.ycombinator.com/item?id=37160783
+
 https://sincerely.dev/papers/cheops22-purandare.pdf
 
 https://www.tomshardware.com/news/billion-year-data-archive-expands-beyond-moon-next-stop-mars

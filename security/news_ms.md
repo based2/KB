@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.bleepingcomputer.com/news/security/massive-400-000-proxy-botnet-built-with-stealthy-malware-infections/
+
 https://www.gosecure.net/blog/2023/08/09/how-unparalleled-rdp-monitoring-reveal-attackers-tradecraft/
 > https://news.ycombinator.com/item?id=37078460
 

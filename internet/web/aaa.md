@@ -136,6 +136,9 @@ https://platform.openai.com/docs/gptbot
 https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots
 > https://news.ycombinator.com/item?id=37047746
 
+https://github.com/adbar/trafilatura
+> https://news.ycombinator.com/item?id=37124424
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 

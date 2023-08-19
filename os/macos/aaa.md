@@ -98,6 +98,18 @@ parsecd api.smoot.apple.com bag-smoot.v.aaplimg.com 3.73.166.250
 
 https://blog.neilsabol.site/post/quickly-easily-adding-pf-packet-filter-firewall-rules-macos-osx/
 
+example for ipv6:
+
+block from any to { 2a00:1450:4007:1:1:1:1:1/21 }
+block from any to { 2a02:26f0:1:1:1:1:1:1/31 }
+block from any to { 2a02:26f0:1:1:1:1:1:1/31 }
+block from any to { 2600:1901:1:1:1:1:1:1/31 }
+block from any to { 2600:9000:1:1:1:1:1:1/31 }
+block from any to { 2606:4700:1:1:1:1:1:1/31 }
+block from any to { 2606:50c0:1:1:1:1:1:1/31 }
+
+
+
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
 > https://news.ycombinator.com/item?id=31864974

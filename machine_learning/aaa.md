@@ -314,6 +314,11 @@ https://llm-attacks.org/
 > > https://news.ycombinator.com/item?id=36921808
 
 # Incident
+https://retractionwatch.com/2023/08/15/who-are-you-dragan-rodriguez-fifteen-studies-have-the-same-fake-author-sleuth-finds/
+
+https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating
+> https://news.ycombinator.com/item?id=37127003
+
 https://explore.zoom.us/en/terms/
 > https://news.ycombinator.com/item?id=37021160
 
@@ -425,8 +430,6 @@ https://bounded-regret.ghost.io/emergent-deception-optimization/
 
 https://huggingface.co/papers/2308.01544
 > https://news.ycombinator.com/item?id=36999003
-
-https://photonlines.substack.com/p/a-brief-visual-introduction-to-gradients
 
 https://arxiv.org/abs/2308.01131
 
@@ -1492,9 +1495,6 @@ https://mlu-explain.github.io/
 
 https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html
 
-https://doriantaylor.com/the-specificity-gradient
-> https://news.ycombinator.com/item?id=31447853
-
 https://techxplore.com/news/2022-05-pace-machine.html
 
 https://arxiv.org/abs/2203.08913 Memorizing Transformers
@@ -1869,8 +1869,6 @@ https://woodrush.github.io/blog/posts/2022-01-16-neural-networks-in-pure-lisp.ht
 https://www.pnas.org/content/119/1/e2111505119 Inverting the structure–property map of truss metamaterials by deep learning
 > https://news.ycombinator.com/item?id=29992704
 
-https://www.camilab.co/post/la-retropropagation-de-gradient/
-
 https://news.ycombinator.com/item?id=30033690 Windows WSL with CUDA support
 
 https://numenta.com/blog/2021/05/27/fast-and-accurate-sparse-networks
@@ -1929,8 +1927,6 @@ https://dashbit.co/blog/elixir-and-machine-learning-nx-v0.1
 
 https://mindmatters.ai/2022/01/will-chatbots-replace-the-art-of-human-conversation/
 > https://news.ycombinator.com/item?id=29825612
-
-https://blog.demofox.org/2022/01/01/interleaved-gradient-noise-a-different-kind-of-low-discrepancy-sequence/
 
 https://lastweekin.ai/p/gpt-3-foundation-models-and-ai-nationalism
 
@@ -2144,8 +2140,6 @@ https://ai.googleblog.com/2021/10/predicting-spreadsheet-formulas-from.html
 > https://news.ycombinator.com/item?id=28936364
 
 https://www.unite.ai/ai-research-envisages-separate-volume-controls-for-dialog-music-and-sound-effects/
-
-https://medium.com/deep-learning-reviews/every-model-learned-by-gradient-descent-is-approximately-a-kernel-machine-paper-review-11bc11716485
 
 https://spectrum.ieee.org/elon-musk-brain-neuralink
 

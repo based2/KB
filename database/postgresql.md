@@ -279,7 +279,7 @@ https://github.com/CrunchyData/postgres-operator
 
 https://github.com/justinclift/docker-pgautoupgrade
 
-## K8s
+## k8s
 https://stackgres.io/
 > https://news.ycombinator.com/item?id=28865432
 
@@ -312,6 +312,12 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://tembo.io/blog/introducing-pg-later/
+> https://news.ycombinator.com/item?id=37172689
+
+https://blog.benthem.io/2023/08/16/what-actually-happens-when-you-run-copy-in-postgres.html
+> https://news.ycombinator.com/item?id=37164115
+
 https://supabase.com/blog/supavisor-1-million
 > https://news.ycombinator.com/item?id=37089925
 

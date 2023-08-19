@@ -123,9 +123,18 @@ https://muhammadraza.me/2023/vim-onliners/
 https://www.contextualize.ai/mpereira/20-years-of-vim-ef9acae9
 > https://news.ycombinator.com/item?id=37099750
 
+https://github.com/Cube9999/vi
+> https://news.ycombinator.com/item?id=37100833
+
+https://github.com/SirVer/ultisnips
+> https://news.ycombinator.com/item?id=37145275
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
+
+https://micro-editor.github.io/
+> https://news.ycombinator.com/item?id=37171294
 
 # Emacs - Elisp
 https://www.gnu.org/software/emacs/

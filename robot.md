@@ -82,6 +82,12 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
 # News
+https://xiaomiui.net/xiaomi-introduced-the-new-generation-robo-dog-xiaomi-cyberdog-2-49032/
+> https://news.ycombinator.com/item?id=37185429
+
+https://robopen.github.io/
+> https://news.ycombinator.com/item?id=37167698
+
 https://robotics-transformer2.github.io/
 
 https://blog.google/technology/ai/google-deepmind-rt2-robotics-vla-model/

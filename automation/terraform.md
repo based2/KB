@@ -312,6 +312,12 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://github.com/ergomake/layerform
+> https://news.ycombinator.com/item?id=37134293
+
+https://opentf.org/
+> https://news.ycombinator.com/item?id=37133054
+
 https://substrate.tools/blog/terraform-best-practices-for-reliability-at-any-scale
 > https://news.ycombinator.com/item?id=37004617
 

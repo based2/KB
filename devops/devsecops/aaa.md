@@ -21,6 +21,8 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
 
 # SBOM
+https://www.cisa.gov/sbom
+
 https://spdx.dev
 
 https://www.ntia.gov/files/ntia/publications/sbom_formats_survey-version-2021.pdf

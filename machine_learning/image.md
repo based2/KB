@@ -141,6 +141,8 @@ https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art
 https://rentry.co/sdupdates list
 > https://news.ycombinator.com/item?id=33416632
 
+https://news.ycombinator.com/item?id=37187663
+
 https://github.com/mlc-ai/web-stable-diffusion
 > https://news.ycombinator.com/item?id=35191687
 
@@ -334,6 +336,9 @@ https://openai.com/dall-e-2/
 
 https://stability.ai/blog/stablestudio-open-source-community-driven-future-dreamstudio-release
 > https://news.ycombinator.com/item?id=35975578
+
+https://github.com/varunshenoy/opendream
+> https://news.ycombinator.com/item?id=37136898
 
 # Detection
 https://github.com/WongKinYiu/yolov7

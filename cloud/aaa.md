@@ -21,6 +21,11 @@ https://github.com/nccgroup/ScoutSuite
 
 https://roadmap.cloudsecdocs.com/
 
+https://www.permit.io/blog/policy-engines
+> https://news.ycombinator.com/item?id=37165713
+
+https://tmobile.github.io/pacbot/
+
 # FaaS
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 
@@ -299,6 +304,10 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://news.ycombinator.com/item?id=37159712 www.koyeb.com
+
+https://medium.com/the-scale-factory/cloud-tenancy-types-to-suit-everyone-d2ebf2333958
+
 https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html
 
 https://cast.ai/blog/the-rise-and-fall-of-spot-instance-pricing/

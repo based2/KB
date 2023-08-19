@@ -73,6 +73,9 @@ https://jakelazaroff.com/words/tailwind-is-a-leaky-abstraction/
 https://betterprogramming.pub/the-rise-and-fall-of-bootstrap-68d4cd703666
 > https://news.ycombinator.com/item?id=34759665
 
+https://www.hyperui.dev/
+> https://news.ycombinator.com/item?id=37093776
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916
@@ -125,6 +128,8 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://news.ycombinator.com/item?id=37175870
+
 https://defensivecss.dev/articles/intro-defensive-css/
 > https://news.ycombinator.com/item?id=36407218
 
@@ -228,6 +233,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://fffuel.co/css-selectors/
+> https://news.ycombinator.com/item?id=37132754
+
 https://css-pattern.com/
 
 https://hypersphere.blog/blog/randomness-in-css-using-trigonometry/

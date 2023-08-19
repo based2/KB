@@ -1,3 +1,6 @@
+https://medium.com/dartlang/dart-3-1-a-retrospective-on-functional-style-programming-in-dart-3-a1f4b3a7cdda
+> https://news.ycombinator.com/item?id=37158068
+
 https://pub.dev/ Find and use packages to build Dart and Flutter apps
 
 https://medium.com/dartlang/the-road-to-dart-3-afdd580fbefa

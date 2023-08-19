@@ -159,6 +159,8 @@ https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-b
 sunburst
 > https://en.wikipedia.org/wiki/SolarWinds
 > https://www.lawfaremedia.org/article/solarwinds-and-holiday-bear-campaign-case-study-classroom
+> > https://www.cisa.gov/sbom
+> > > https://spdx.dev
 
 https://samy.pl/slipstream/ NAT
 

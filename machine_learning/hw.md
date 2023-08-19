@@ -5,6 +5,9 @@ Google TPU v4
 Telsa
 
 #
+https://blog.mlc.ai/2023/08/09/GPU-Accelerated-LLM-on-Orange-Pi
+> https://news.ycombinator.com/item?id=37132209
+
 https://sfcompute.org/
 > https://news.ycombinator.com/item?id=36933603
 

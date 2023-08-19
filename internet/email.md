@@ -42,6 +42,10 @@ https://tweedegolf.nl/en/blog/86/introducing-mailcrab
 > https://github.com/tweedegolf/mailcrab Rust, ASLv2
 
 # Incident
+https://news.ycombinator.com/item?id=37175503
+
+https://www.bleepingcomputer.com/news/microsoft/hotmail-email-delivery-fails-after-microsoft-misconfigures-dns/
+
 https://vigilance.fr/vulnerabilite/Perl-Mail-DKIM-absence-de-signature-via-Lowercase-Domain-Check-41878
 
 https://files.catbox.moe/p860p2.png
@@ -97,6 +101,9 @@ https://www.multicians.org/thvv/mail-history.html
 > https://news.ycombinator.com/item?id=37087791
 
 # Security
+
+https://mailvelope.com/en
+> https://news.ycombinator.com/item?id=37102810
 
 https://www.reddit.com/r/sysadmin/comments/aph6ee/lets_talk_about_email_spoofing_and_prevention_alt/
 

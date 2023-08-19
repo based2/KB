@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://www.theregister.com/2023/08/10/tunnelcrack_vpn/?td=rt-4a
+
 https://www.openwall.com/lists/oss-security/2023/08/03/1 mozilla
 > https://news.ycombinator.com/item?id=36997067
 
@@ -90,6 +92,12 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
 # News
+https://www.netmaker.io/
+>
+
+https://blog.torproject.org/releasing-mullvad-browser/
+> https://news.ycombinator.com/item?id=37159744
+
 https://news.ycombinator.com/item?id=36658690
 
 https://metrics.torproject.org/userstats-relay-country.html?start=2019-01-01&end=2023-07-02&country=de&events=off tor .de

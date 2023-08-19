@@ -138,6 +138,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://www.kentik.com/blog/dual-subsea-cable-cuts-disrupt-african-internet/
+> https://news.ycombinator.com/item?id=37167562
+
 https://docs.fcc.gov/public/attachments/DOC-395728A1.txt
 > https://news.ycombinator.com/item?id=36999016
 
@@ -180,6 +183,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.theregister.com/2023/08/18/germany_to_cut_huawei/
+
 https://www.sciencedirect.com/science/article/abs/pii/S1084804518303023
 
 https://github.com/fonoster/routr

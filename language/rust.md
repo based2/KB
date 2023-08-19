@@ -202,6 +202,9 @@ https://interrupt.memfault.com/blog/embedded-async-rust
 https://maciej.codes/2022-06-09-local-async.html
 > https://news.ycombinator.com/item?id=36782884
 
+https://ibraheem.ca/posts/too-many-web-servers/
+> https://news.ycombinator.com/item?id=37176960
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -469,6 +472,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # Incident
+https://github.com/serde-rs/serde/issues/2538
+> https://news.ycombinator.com/item?id=37183361
+
 https://github.com/eleijonmarck/do-not-compile-this-code
 > https://news.ycombinator.com/item?id=35213400
 
