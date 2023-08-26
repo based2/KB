@@ -26,6 +26,9 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/
+>
+
 https://www.techradar.com/computing/cyber-security/track-the-trackers-together-ghostery-opens-up-its-adblocker-library
 
 https://news.ycombinator.com/item?id=36822374

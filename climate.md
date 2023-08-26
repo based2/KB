@@ -69,6 +69,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.washingtonpost.com/world/2023/08/19/canada-wildfires-british-columbia-kelowna-emergency/
+> https://news.ycombinator.com/item?id=37190790
+
 https://news.ycombinator.com/item?id=37152675
 
 https://innovationorigins.com/en/satellite-supergroup-spots-methane-super-emitters-with-staggering-accuracy/

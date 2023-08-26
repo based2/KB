@@ -75,6 +75,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://gitlab.adullact.net/soluris/madis fr php
+
 https://ec.europa.eu/commission/presscorner/detail/en/ip_23_3721
 
 https://www.nextinpact.com/article/71946/la-cnil-inflige-amende-40-millions-deuros-a-criteo

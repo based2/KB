@@ -127,6 +127,9 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://oldvcr.blogspot.com/2023/08/maclynx-beta-5-utf-8-pull-down-menus.html
+> https://news.ycombinator.com/item?id=37211542
+
 https://www.bigmessowires.com/2023/08/05/searching-for-paul-c-pratt/
 >
 

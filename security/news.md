@@ -1,3 +1,6 @@
+https://www.404media.co/the-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion/
+> https://news.ycombinator.com/item?id=37222672
+
 https://krebsonsecurity.com/2023/08/karma-catches-up-to-global-phishing-service-16shop/
 
 https://mvsp.dev/

@@ -108,7 +108,54 @@ https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft
 http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
+# Releases
+https://joonaa.dev/blog/02/bevy-xpbd-0-1-0
+> https://news.ycombinator.com/item?id=36642867
+
+https://godotengine.org/article/godot-4-1-is-here/
+> https://news.ycombinator.com/item?id=36614114
+
+https://bevyengine.org/news/bevy-0-10/
+> https://news.ycombinator.com/item?id=35045224
+
+https://bevyengine.org/news/bevy-0-9/
+
+https://www.openttd.org/news/2022/10/31/openttd-13-0-beta1
+
+https://vcmi.eu/news/vcmi-1.0.0-release/
+
+https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1
+> https://news.ycombinator.com/item?id=32856034
+
+https://www.mapeditor.org/2022/08/11/tiled-1-9-1-released.html
+
+https://fyrox.rs/blog/post/feature-highlights-0-27/
+
+https://godotengine.org/article/godot-3-5-cant-stop-wont-stop
+> https://news.ycombinator.com/item?id=32357248
+
+https://bevyengine.org/news/bevy-0-8/
+> https://news.ycombinator.com/item?id=32287828
+
+https://bevyengine.org/news/bevy-0-7/
+> https://news.ycombinator.com/item?id=31043668
+
+https://www.phoronix.com/scan.php?page=news_item&px=SDL-2.23.1-Released
+
+https://github.com/icculus/SDL_sound/releases/tag/v2.0.1
+
+https://godotengine.org/article/release-candidate-godot-3-4-4-rc-1
+> https://news.ycombinator.com/item?id=30622830
+
+https://bevyengine.org/news/bevy-0-6/
+> https://news.ycombinator.com/item?id=29854416
+
 # News
+https://derekyu.com/makegames/risk.html
+
+https://github.com/rivet-gg/rivet infra
+> https://news.ycombinator.com/item?id=37188659
+
 https://github.com/Engine-Simulator/engine-sim-community-edition
 > https://news.ycombinator.com/item?id=37173555
 
@@ -126,16 +173,10 @@ https://old.reddit.com/r/indiegames/comments/150jcyz/simulating_two_gears_in_my_
 https://book.leveldesignbook.com
 > https://news.ycombinator.com/item?id=36726824
 
-https://joonaa.dev/blog/02/bevy-xpbd-0-1-0
-> https://news.ycombinator.com/item?id=36642867
-
 https://nik-os.com/agl/00_intro.html
 
 https://github.com/raysan5/raylib
 > https://news.ycombinator.com/item?id=36583743
-
-https://godotengine.org/article/godot-4-1-is-here/
-> https://news.ycombinator.com/item?id=36614114
 
 https://opengoal.dev/blog/progress-report-june-2023/
 > https://news.ycombinator.com/item?id=36554172
@@ -229,9 +270,6 @@ https://news.ycombinator.com/item?id=35074357
 
 https://dukope.itch.io/mars-after-midnight/devlog/495856/gameplay-loop
 > https://news.ycombinator.com/item?id=35057346
-
-https://bevyengine.org/news/bevy-0-10/
-> https://news.ycombinator.com/item?id=35045224
 
 https://medium.com/building-the-metaverse/creating-a-text-adventure-game-with-chatg-cffeff4d7cfd
 
@@ -346,16 +384,12 @@ https://tic80.com/
 
 https://a16z.com/2022/11/17/the-generative-ai-revolution-in-games/
 
-https://bevyengine.org/news/bevy-0-9/
-
 https://www.theverge.com/2022/11/9/23449382/microsoft-directstorage-1-1-gpu-decompression-load-times-drivers-official
 
 https://news.ycombinator.com/item?id=33453547 Ask HN: Why don't games allow you to automate some gameplay via programming?
 
 https://github.com/hackclub/sprig
 > https://news.ycombinator.com/item?id=33451148
-
-https://www.openttd.org/news/2022/10/31/openttd-13-0-beta1
 
 https://craigmbooth.com/blog/microgame-you-killed-a-bear/
 > https://news.ycombinator.com/item?id=33410053
@@ -376,15 +410,8 @@ https://kevingal.com/blog/boardgame.html
 https://dillonshook.com/what-it-takes-to-make-a-game-by-yourself/
 > https://news.ycombinator.com/item?id=32851196
 
-https://godotengine.org/article/dev-snapshot-godot-4-0-beta-1
-> https://news.ycombinator.com/item?id=32856034
-
-https://vcmi.eu/news/vcmi-1.0.0-release/
-
 https://w4games.com/2022/09/13/w4-games-raises-8-5-million-to-support-godot-engine-growth/
 > https://news.ycombinator.com/item?id=32827762
-
-https://www.mapeditor.org/2022/08/11/tiled-1-9-1-released.html
 
 https://chadnauseam.com/coding/gamedev/automated-testing-in-bevy/
 > https://news.ycombinator.com/item?id=32802402
@@ -422,11 +449,6 @@ https://w4games.com/2022/08/09/hello-world-w4-games/
 https://medium.com/super-jump/replayability-in-game-design-798fbb91a726
 > https://news.ycombinator.com/item?id=32375868
 
-https://fyrox.rs/blog/post/feature-highlights-0-27/
-
-https://godotengine.org/article/godot-3-5-cant-stop-wont-stop
-> https://news.ycombinator.com/item?id=32357248
-
 https://nassimcomics.substack.com/p/a-tutorial-like-you-have-never-seen
 > https://news.ycombinator.com/item?id=32297936
 
@@ -438,9 +460,6 @@ https://nicole.express/2022/sega-8-bit-conversion-kit.html
 https://benoitessiambre.com/simcb2.html Sim Central Bank Afterthoughts and Something About AI and Empathy
 
 https://blogs.igalia.com/dpiliaiev/gfxreconstruct-test-mobile-gpus/
-
-https://bevyengine.org/news/bevy-0-8/
-> https://news.ycombinator.com/item?id=32287828
 
 https://devpoga.org/blog/2022-07-23_neovim_godot/
 > https://news.ycombinator.com/item?id=32203642
@@ -469,8 +488,6 @@ https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SimEarth
 
 https://www.gamedeveloper.com/blogs/how-townscaper-works-a-story-four-games-in-the-making
 > https://news.ycombinator.com/item?id=31799818
-
-https://www.phoronix.com/scan.php?page=news_item&px=SDL-2.23.1-Released
 
 https://www.nintendoplayer.com/feature/vga/
 
@@ -546,9 +563,6 @@ https://github.com/ertugrulcetin/jme-clj
 https://github.com/CytopiaTeam/Cytopia
 > https://news.ycombinator.com/item?id=31066478
 
-https://bevyengine.org/news/bevy-0-7/
-> https://news.ycombinator.com/item?id=31043668
-
 https://news.ycombinator.com/item?id=30992587 elixir crdt
 
 https://heaps.io/index.html haxe
@@ -568,8 +582,6 @@ https://www.vega-strike.org/ Open Source Cross-Platform 3D Space Flight Simulato
 
 https://github.com/deepnight/ldtk 2d editor
 
-https://github.com/icculus/SDL_sound/releases/tag/v2.0.1
-
 https://news.ycombinator.com/item?id=30788475 Wolfenstein 3D secrets revealed by John Romero in lengthy post-mortem chat
 
 https://github.com/ftsf/nico
@@ -579,9 +591,6 @@ https://codeberg.org/unfa/Liblast GNU Affero General Public License
 https://blog.adacore.com/ada-gamedev-part-1-generic-sprite-and-tile-engine-geste
 
 https://blog.adacore.com/make-with-ada-the-eagle-has-landed
-
-https://godotengine.org/article/release-candidate-godot-3-4-4-rc-1
-> https://news.ycombinator.com/item?id=30622830
 
 https://github.com/ensisoft/gamestudio
 > https://news.ycombinator.com/item?id=30620897
@@ -621,9 +630,6 @@ https://www.gwern.net/CYOA
 
 https://romainstrock.com/blog/modeling-uncertainty-with-pytorch.html
 > https://news.ycombinator.com/item?id=29839806
-
-https://bevyengine.org/news/bevy-0-6/
-> https://news.ycombinator.com/item?id=29854416
 
 https://github.com/steveruizok/perfect-cursors
 

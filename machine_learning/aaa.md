@@ -314,6 +314,9 @@ https://llm-attacks.org/
 > > https://news.ycombinator.com/item?id=36921808
 
 # Incident
+https://www.engadget.com/microsoft-retracts-ai-written-article-advising-tourists-to-visit-a-food-bank-on-an-empty-stomach-182701884.html
+> https://news.ycombinator.com/item?id=37190172
+
 https://retractionwatch.com/2023/08/15/who-are-you-dragan-rodriguez-fifteen-studies-have-the-same-fake-author-sleuth-finds/
 
 https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating

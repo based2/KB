@@ -13,6 +13,8 @@ https://resizer.in/
 https://github.com/avaneev/avir c++, MIT
 
 # News
+https://www.opeeps.fun/ avatar
+
 https://blog.qwertyforce.dev/posts/automatic_image_mining
 > https://news.ycombinator.com/item?id=35121228
 

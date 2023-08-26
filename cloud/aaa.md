@@ -149,6 +149,9 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://themessenger.com/tech/bambu-owners-3d-printers-malfunction-cloud-print-twice
+> https://news.ycombinator.com/item?id=37187138
+
 https://sysdig.com/blog/2023-global-cloud-threat-report/
 
 https://www.bleepingcomputer.com/news/technology/spotify-down-music-searches-pages-account-signups-not-working/

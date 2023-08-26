@@ -100,15 +100,21 @@ https://blog.neilsabol.site/post/quickly-easily-adding-pf-packet-filter-firewall
 
 example for ipv6:
 
+block from any to { 2a00:1288:1:1:1:1:1:1/31 }
 block from any to { 2a00:1450:4007:1:1:1:1:1/21 }
+block from any to { 2a01:b740:1:1:1:1:1:1/31 }
 block from any to { 2a02:26f0:1:1:1:1:1:1/31 }
-block from any to { 2a02:26f0:1:1:1:1:1:1/31 }
+block from any to { 2a04:4e42:1:1:1:1:1:1/31 }
+block from any to { 2a06:98c1:1:1:1:1:1:1/31 }
+block from any to { 2001:4860:1:1:1:1:1:1/31 }
+block from any to { 2400:52e0:1:1:1:1:1:1/31 }
+block from any to { 2600:1f18:1:1:1:1:1:1/31 }
 block from any to { 2600:1901:1:1:1:1:1:1/31 }
 block from any to { 2600:9000:1:1:1:1:1:1/31 }
+block from any to { 2604:a880:1:1:1:1:1:1/31 }
 block from any to { 2606:4700:1:1:1:1:1:1/31 }
 block from any to { 2606:50c0:1:1:1:1:1:1/31 }
-
-
+block from any to { 2800:68:1:1:1:1:1:1/31 }
 
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755

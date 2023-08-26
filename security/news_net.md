@@ -9,6 +9,8 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
 
 #
+https://vigilance.fr/vulnerabilite/Varnish-Cache-acces-utilisateur-via-vmod-digest-42034
+
 https://www.theregister.com/2023/08/10/tunnelcrack_vpn/?td=rt-4a
 
 https://www.bleepingcomputer.com/news/security/hackers-increasingly-abuse-cloudflare-tunnels-for-stealthy-connections/

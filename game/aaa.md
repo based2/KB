@@ -25,6 +25,12 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+
+https://news.ycombinator.com/item?id=37192710
+
+https://plbrault.com/blog-posts/i-created-the-nerdierst-game-ever-en/
+> https://news.ycombinator.com/item?id=37115626
+
 https://2009scape.org/
 > https://news.ycombinator.com/item?id=37183069
 

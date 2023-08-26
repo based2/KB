@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://carloslagoa.com/blog/flipreps/flipreps.html
+> https://news.ycombinator.com/item?id=37190743
+
 https://verticalmag.com/news/dropped-ipad-implicated-in-fatal-chinook-helicopter-crash/
 > https://news.ycombinator.com/item?id=36724736
 

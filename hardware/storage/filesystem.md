@@ -57,6 +57,9 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://dbohdan.com/clean-mount-lists
+> https://news.ycombinator.com/item?id=37271611
+
 https://www.phoronix.com/news/XFS-Maintainer-Steps-Down
 > https://news.ycombinator.com/item?id=36970193
 
