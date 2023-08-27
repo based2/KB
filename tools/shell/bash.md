@@ -72,6 +72,12 @@ https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News
+https://bashsta.cc/
+> https://news.ycombinator.com/item?id=37265392
+
+https://github.com/13alvone/ctee
+> https://news.ycombinator.com/item?id=37283831
+
 https://news.ycombinator.com/item?id=37173730
 
 https://m10k.eu/2023/07/29/pkgex-parser.html

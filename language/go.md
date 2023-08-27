@@ -118,6 +118,13 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://github.com/osteele/gojekyll
+> https://news.ycombinator.com/item?id=37276424
+
+https://news.ycombinator.com/item?id=37244503
+
+https://medium.com/@yardenlaif/accessing-private-functions-methods-types-and-variables-in-go-951acccc05a6
+
 https://www.dolthub.com/blog/2023-08-16-go-pitfalls/
 > https://news.ycombinator.com/item?id=37171423
 

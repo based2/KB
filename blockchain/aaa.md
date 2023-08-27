@@ -15,6 +15,9 @@ https://www.eea.europa.eu/publications/blockchain-and-the-environment
 https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf “Proof-of-Work” Proves Not to Work
 > https://news.ycombinator.com/item?id=29210704
 
+https://blog.torproject.org/introducing-proof-of-work-defense-for-onion-services/
+> https://news.ycombinator.com/item?id=37255079
+
 # Proof of Space
 proof that a farmer has allocated a portion of their storage in a way
 that is very difficult to create in real time but efficient to pre-compute and store on a hard drive.

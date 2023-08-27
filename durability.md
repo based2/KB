@@ -75,6 +75,9 @@ https://www.reuters.com/investigates/special-report/environment-plastic-oil-recy
 https://www.economist.com/science-and-technology/2018/06/15/making-buildings-cars-and-planes-from-materials-based-on-plant-fibres
 > https://news.ycombinator.com/item?id=31942835
 
+https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer/
+> https://news.ycombinator.com/item?id=37263827
+
 # News
 https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/
 > https://news.ycombinator.com/item?id=37085138

@@ -16,6 +16,11 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=37168911
+
+https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html
+> https://news.ycombinator.com/item?id=37247758
+
 https://techxplore.com/news/2023-08-tech-breakthrough-boost-states-geothermal.html
 
 https://www.theverge.com/2023/8/1/23815450/us-offshore-wind-potential-berkley-report

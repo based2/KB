@@ -25,6 +25,9 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://openwrt.org/docs/techref/ubus
+> https://news.ycombinator.com/item?id=37279773
+
 https://insanity.industries/post/simple-networking/
 > https://news.ycombinator.com/item?id=37035221
 

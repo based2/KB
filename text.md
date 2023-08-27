@@ -145,6 +145,9 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://www.embopress.org/doi/full/10.15252/msb.202211325
+> https://news.ycombinator.com/item?id=37216702
+
 https://learn.microsoft.com/en-us/windows/powertoys/text-extractor
 
 https://saeedesmaili.com/demystifying-text-data-with-the-unstructured-python-library/

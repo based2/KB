@@ -136,6 +136,10 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://news.ycombinator.com/item?id=37275526 carbon
+
+https://news.ycombinator.com/item?id=37248177
+
 https://gcc.gnu.org/git/?p=gcc.git;a=commit;h=0e466e978c728697f18c67c4eace9ba4633f9ef5
 > https://news.ycombinator.com/item?id=37180559
 

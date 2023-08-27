@@ -46,3 +46,6 @@ https://www.phoronix.com/news/AMD-openSIL-Detailed
 
 https://www.theregister.com/2023/04/17/opinion_column/
 > https://news.ycombinator.com/item?id=35599884
+
+https://thestarman.pcministry.com/asm/mbr/GRUB.htm
+> https://news.ycombinator.com/item?id=37247678

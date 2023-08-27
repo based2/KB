@@ -149,6 +149,12 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://status.hashicorp.com/history
+> https://news.ycombinator.com/item?id=37255941
+
+https://techcrunch.com/2023/08/23/cloudnordic-azero-cloud-host-ransomware/
+> https://news.ycombinator.com/item?id=37246193
+
 https://themessenger.com/tech/bambu-owners-3d-printers-malfunction-cloud-print-twice
 > https://news.ycombinator.com/item?id=37187138
 
@@ -307,6 +313,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.datasette.cloud/blog/2023/welcome/
+> https://news.ycombinator.com/item?id=37196461
+
 https://news.ycombinator.com/item?id=37159712 www.koyeb.com
 
 https://medium.com/the-scale-factory/cloud-tenancy-types-to-suit-everyone-d2ebf2333958

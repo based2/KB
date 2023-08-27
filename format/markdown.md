@@ -84,3 +84,5 @@ https://johnmacfarlane.net/beyond-markdown.html
 
 https://app.markwhen.com/
 > https://news.ycombinator.com/item?id=36944152
+
+https://news.ycombinator.com/item?id=37254823

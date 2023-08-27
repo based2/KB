@@ -20,6 +20,10 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://status.duo.com/
+> https://news.ycombinator.com/item?id=37209684
+> https://www.theregister.com/2023/08/21/ciscos_duo_outage/
+
 https://vigilance.fr/vulnerabilite/LemonLDAP-NG-acces-utilisateur-via-Weak-Session-ID-2FA-Verification-Bypass-41758
 
 https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_988c21d1-13b5-4498-aa85-3315926ae530

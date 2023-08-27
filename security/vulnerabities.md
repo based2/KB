@@ -1,6 +1,8 @@
 https://www.cve.org/
 > https://github.com/CVEProject/cve-schema/blob/master/schema/v5.0/CVE_JSON_5.0_schema.json
 
+https://cve.mitre.org/cve/search_cve_list.html
+
 https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System
 
 https://www.first.org/epss/
@@ -75,6 +77,9 @@ https://www.openvas.org/
 https://pkg.go.dev/vuln/
 
 # News
+https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/
+> https://news.ycombinator.com/item?id=37267940
+
 https://thenewstack.io/vex-standardization-for-a-vulnerability-exploit-data-exchange-format/
 
 https://thenewstack.io/youll-soon-be-using-vulnerability-exploitability-exchange/

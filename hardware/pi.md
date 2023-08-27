@@ -17,6 +17,8 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://interrupt.memfault.com/blog/emulating-raspberry-pi-in-qemu
+
 https://blog.usedbytes.com/2021/12/pico-serial-bootloader/
 > https://news.ycombinator.com/item?id=36957161
 

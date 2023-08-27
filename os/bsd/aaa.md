@@ -231,6 +231,10 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://hellosystem.github.io/docs/
+> https://news.ycombinator.com/item?id=37262857
+> > https://ravynos.com/
+
 https://hackernoon.com/5-reasons-we-use-open-source-freebsd-as-our-enterprise-os
 
 https://evilpiepirate.org/git/bcachefs.git/tree/fs/bcachefs/bkey.c#n727

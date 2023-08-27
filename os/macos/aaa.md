@@ -214,6 +214,9 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 https://jvns.ca/blog/2018/01/28/mac-freeze/
 
 # VM
+https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/
+> https://news.ycombinator.com/item?id=37200909
+
 https://news.ycombinator.com/item?id=36889092
 
 https://github.com/utmapp/UTM/releases/tag/v4.1.5

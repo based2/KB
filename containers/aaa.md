@@ -34,6 +34,9 @@ https://firecracker-microvm.github.io/
 https://www.amazon.science/publications/firecracker-lightweight-virtualization-for-serverless-applications
 > https://news.ycombinator.com/item?id=34336808
 
+https://www.usenix.org/publications/loginonline/freebsd-firecracker
+> https://news.ycombinator.com/item?id=37253035
+
 # Perf
 https://github.com/google/cadvisor
 

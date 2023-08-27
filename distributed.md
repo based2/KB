@@ -190,6 +190,9 @@ https://tokio.rs/blog/2023-01-03-announcing-turmoil
 # concurrencyngs
 
 # News
+https://shachaf.net/w/consensus
+> https://news.ycombinator.com/item?id=37245109
+
 https://www.multiplayer.app/blog/6-best-practices-for-backend-design-in-distributed-system/
 
 https://queue.acm.org/detail.cfm?id=1142044 The Rise and Fall of CORBA

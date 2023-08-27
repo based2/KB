@@ -143,4 +143,7 @@ https://github.com/laurent22/rsync-time-backup
 https://www.ecb.torontomu.ca/~elf/hack/recovery.html
 > https://news.ycombinator.com/item?id=36942994
 
+https://blog.sapico.me/posts/how-i-backup-my-servers/
+> https://news.ycombinator.com/item?id=37255433
+
 

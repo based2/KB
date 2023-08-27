@@ -96,6 +96,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://stgraber.org/2023/08/24/stable-linux-mainline-builds/
+> https://news.ycombinator.com/item?id=37260141
+
 https://www.devuan.org/os/announce/daedalus-release-announce-2023-08-14
 > https://files.devuan.org/devuan_daedalus/Release_notes.txt
 > https://www.heise.de/news/Devuan-5-0-mit-rootless-startx-und-Wayland-ohne-elogind-9268057.html

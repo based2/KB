@@ -27,6 +27,14 @@ https://ai.meta.com/llama/ v2
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
 
+https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/
+
+https://ai.meta.com/blog/code-llama-large-language-model-coding/
+> https://news.ycombinator.com/item?id=37248494
+
+https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1
+> https://news.ycombinator.com/item?id=37270171
+
 https://twitter.com/tjake/status/1690780803876134912 java
 > https://news.ycombinator.com/item?id=37121686
 > https://github.com/tjake/Jlama
@@ -136,6 +144,18 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://zhenghaotan.com/blog/initial-impressions-of-msft-olive
+
+https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e Anti-hype LLM reading list
+
+https://arxiv.org/abs/2308.09687
+> https://news.ycombinator.com/item?id=37248694
+
+https://vectify.ai/blog/LargeDocumentSummarization
+> https://news.ycombinator.com/item?id=37268311
+
+https://blog.abacus.ai/blog/2023/08/22/giraffe-long-context-llms/
+
 https://huyenchip.com/2023/08/16/llm-research-open-challenges.html
 > https://news.ycombinator.com/item?id=37155080
 

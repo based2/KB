@@ -31,3 +31,5 @@ https://github.com/epsilla-cloud/vectordb
 
 https://news.ycombinator.com/item?id=37147140
 
+https://news.ycombinator.com/item?id=37193599
+

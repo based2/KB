@@ -151,6 +151,9 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://if50.substack.com/p/the-antagonists
+> https://news.ycombinator.com/item?id=37216412
+
 https://derekyu.com/makegames/risk.html
 
 https://github.com/rivet-gg/rivet infra

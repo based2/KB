@@ -139,6 +139,9 @@ https://www.adriancooney.ie/blog/web-scraping-via-javascript-heap-snapshots
 https://github.com/adbar/trafilatura
 > https://news.ycombinator.com/item?id=37124424
 
+https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm
+> https://news.ycombinator.com/item?id=37264676
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 
@@ -155,6 +158,8 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://defector.com/the-last-page-of-the-internet
+
 https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of
 > https://news.ycombinator.com/item?id=37023117
 

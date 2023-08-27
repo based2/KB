@@ -69,6 +69,12 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://fershad.com/writing/power-consumption-jpeg-webp-and-avif/
+> https://news.ycombinator.com/item?id=37271715
+
+https://www.nature.com/articles/s41586-023-06391-z
+> https://news.ycombinator.com/item?id=37266091
+
 https://www.washingtonpost.com/world/2023/08/19/canada-wildfires-british-columbia-kelowna-emergency/
 > https://news.ycombinator.com/item?id=37190790
 

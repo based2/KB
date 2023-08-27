@@ -108,6 +108,11 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://rmkit.dev/eink-is-so-retropunk/
+> https://news.ycombinator.com/item?id=37272652
+
+https://blog.st.com/stm32mp2/
+
 https://hothardware.com/news/future-intel-cpu-partition-threads
 > https://news.ycombinator.com/item?id=37163191
 

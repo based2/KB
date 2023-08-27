@@ -53,6 +53,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://blocksandfiles.com/2023/08/23/50tb-ibm-tape/
+> https://news.ycombinator.com/item?id=37261001
+
 https://arstechnica.com/gadgets/2023/08/lawsuit-takes-western-digital-to-task-over-sandisk-ssds-allegedly-erasing-data/
 > https://news.ycombinator.com/item?id=37176121
 

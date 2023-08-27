@@ -208,6 +208,9 @@ https://lemire.me/blog/2021/09/25/new-release-of-the-simdjson-library-version-1-
 https://github.com/DaveGamble/cJSON
 > https://news.ycombinator.com/item?id=30302933
 
+https://www.schemastore.org/json/
+> https://news.ycombinator.com/item?id=37203354
+
 
 
 

@@ -112,6 +112,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext
+> https://news.ycombinator.com/item?id=37275676
+
 https://thepalindrome.org/p/matrices-and-graphs
 > https://thepalindrome.org/p/matrices-and-graphs
 

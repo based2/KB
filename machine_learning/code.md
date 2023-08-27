@@ -58,6 +58,23 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals
+> https://news.ycombinator.com/item?id=37251466
+
+https://continue.dev/docs/walkthroughs/codellama
+> https://news.ycombinator.com/item?id=37251969
+
+https://about.sourcegraph.com/cody
+> https://news.ycombinator.com/item?id=37277722
+
+https://news.ycombinator.com/item?id=37240363 sql
+
+https://github.com/bsilverthorn/maccarone python
+> https://news.ycombinator.com/item?id=37254510
+
+https://github.com/mljar/plotai
+> https://news.ycombinator.com/item?id=37277722
+
 https://github.com/modal-labs/devlooper
 > https://news.ycombinator.com/item?id=37035448
 

@@ -12,6 +12,8 @@ https://twobithistory.org/2021/03/08/arpanet-protocols.html
 > https://news.ycombinator.com/item?id=34637863
 
 # News
+https://blog.lambdaclass.com/ipa-and-a-polynomial-commitment-scheme/
+
 https://datatracker.ietf.org/meeting/117/materials/slides-117-ccwg-bbrv3-algorithm-bug-fixes-and-public-internet-deployment-00 tcp
 > https://github.com/google/bbr/blob/v3/README.md
 > https://news.ycombinator.com/item?id=37020930

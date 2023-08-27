@@ -289,6 +289,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://slack.engineering/slacks-migration-to-a-cellular-architecture/
+> https://news.ycombinator.com/item?id=37274871
+
 https://encore.dev/blog/long-term-ownership
 
 https://maheshba.bitbucket.io/blog/2023/07/12/Design.html

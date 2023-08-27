@@ -435,6 +435,9 @@ https://www.memorysafety.org/blog/gary-guo-klint-rust-tools/
 
 https://rustsec.org/
 
+https://briansmith.org/rust-cryptography-should-be-written-in-rust-01
+> https://news.ycombinator.com/item?id=37273701
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -472,6 +475,9 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # Incident
+https://blog.phylum.io/rust-malware-staged-on-crates-io/
+> https://news.ycombinator.com/item?id=37259786
+
 https://github.com/serde-rs/serde/issues/2538
 > https://news.ycombinator.com/item?id=37183361
 
@@ -482,6 +488,14 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/
+
+https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html
+> https://news.ycombinator.com/item?id=37248781
+
+https://nnethercote.github.io/2023/08/25/how-to-speed-up-the-rust-compiler-in-august-2023.html
+> https://news.ycombinator.com/item?id=37256889
+
 https://www.shuttle.rs/blog/2022/06/30/error-handling
 > https://news.ycombinator.com/item?id=36825992
 

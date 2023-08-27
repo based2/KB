@@ -101,6 +101,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://thehill.com/opinion/technology/4165412-europe-is-changing-social-media-for-the-better-the-us-can-do-it-too/
+> https://news.ycombinator.com/item?id=37279868
+
 https://www.thedailybeast.com/insiders-recall-how-rupert-murdoch-ruined-myspace
 
 https://blog.redplanetlabs.com/2023/08/15/how-we-reduced-the-cost-of-building-twitter-at-twitter-scale-by-100x/

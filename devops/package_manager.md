@@ -116,6 +116,9 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 #
+https://utcc.utoronto.ca/~cks/space/blog/linux/PackagingTakesWork
+> https://news.ycombinator.com/item?id=37261640
+
 https://docs.renovatebot.com/
 
 https://aquaproj.github.io/docs/ go

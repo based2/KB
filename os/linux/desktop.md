@@ -103,6 +103,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=37279014 gnome shell
+
+https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/
+> https://news.ycombinator.com/item?id=37270048
+
 https://blogs.gnome.org/tbernard/2023/07/26/rethinking-window-management/
 > https://news.ycombinator.com/item?id=36880235
 

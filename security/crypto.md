@@ -184,6 +184,9 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/
+> https://news.ycombinator.com/item?id=37272217
+
 https://max.levch.in/post/724289457144070144/shamir-secret-sharing
 > https://news.ycombinator.com/item?id=36941720
 

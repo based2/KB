@@ -1,6 +1,17 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.errno.fr/BypassingBitlocker.html
+> https://news.ycombinator.com/item?id=37249623
+
+https://www.bleepingcomputer.com/news/software/msi-recent-wave-of-windows-blue-screens-linked-to-msi-motherboards/
+
+https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/
+> https://news.ycombinator.com/item?id=37250677
+
+https://www.theregister.com/2023/08/24/windows_11_update_bsod/
+> https://news.ycombinator.com/item?id=37268988
+
 https://www.bleepingcomputer.com/news/security/massive-400-000-proxy-botnet-built-with-stealthy-malware-infections/
 
 https://www.gosecure.net/blog/2023/08/09/how-unparalleled-rdp-monitoring-reveal-attackers-tradecraft/
@@ -8,6 +19,8 @@ https://www.gosecure.net/blog/2023/08/09/how-unparalleled-rdp-monitoring-reveal-
 
 https://www.schneier.com/blog/archives/2023/08/microsoft-signing-key-stolen-by-chinese.html
 > https://news.ycombinator.com/item?id=37033595
+
+https://www.bleepingcomputer.com/news/security/microsoft-powershell-gallery-vulnerable-to-spoofing-supply-chain-attacks/
 
 https://news.ycombinator.com/item?id=36951339
 

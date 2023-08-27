@@ -10,6 +10,8 @@ https://tlakh.xyz/fuzzing-ping.html
 https://thevaluable.dev/practical-guide-fzf-example/
 
 #
+https://aflplus.plus/libafl-book/
+
 https://news.ycombinator.com/item?id=36672390
 
 https://nebelwelt.net/publications/files/23SEC5.pdf fishfuzz

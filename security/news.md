@@ -1,3 +1,14 @@
+https://www.bleepingcomputer.com/news/security/data-breach-at-french-govt-agency-exposes-info-of-10-million-people/
+
+https://vigilance.fr/vulnerabilite/Apache-Tomcat-redirection-via-ROOT-FORM-Authentication-42126
+
+https://vigilance.fr/vulnerabilite/Spring-Security-contournement-de-filtrage-entrant-via-Un-Prefixed-Double-Wildcard-Pattern-42125
+
+https://vigilance.fr/vulnerabilite/7-Zip-corruption-de-memoire-via-SQFS-7Z-Files-42119
+
+https://www.404media.co/crypto-startup-prime-trust-files-for-bankruptcy-after-losing-password-to-38-9-million-crypto-wallet/
+> https://news.ycombinator.com/item?id=37268750
+
 https://www.404media.co/the-secret-weapon-hackers-can-use-to-dox-nearly-anyone-in-america-for-15-tlo-usinfosearch-transunion/
 > https://news.ycombinator.com/item?id=37222672
 

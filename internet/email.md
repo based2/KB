@@ -127,6 +127,9 @@ https://www.brightball.com/articles/deploying-dmarc-without-breaking-everything
 
 https://sequoia-pgp.org/blog/2022/03/24/202203-octopus-1.2.2/
 
+https://resend.com/blog/email-authentication-a-developers-guide
+> https://news.ycombinator.com/item?id=37263708
+
 ## STARTTLS
 https://sendgrid.com/blog/what-is-starttls/
 

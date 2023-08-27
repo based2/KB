@@ -91,6 +91,11 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements
+>
+
+https://news.ycombinator.com/item?id=37198673
+
 https://math.mit.edu/~shor/435-LN/
 > https://news.ycombinator.com/item?id=37126479
 

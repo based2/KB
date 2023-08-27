@@ -183,6 +183,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.techdirt.com/2023/08/25/ting-disrupting-mediocre-u-s-broadband-by-partnering-with-annoyed-cities-like-colorado-springs/
+
 https://www.kentik.com/blog/iraq-blocks-telegram-leaks-blackhole-bgp-routes/
 > https://news.ycombinator.com/item?id=37191332
 

@@ -89,6 +89,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://alistapart.com/article/dao/
+> https://news.ycombinator.com/item?id=37262562
+
 https://web.dev/inp/
 > https://news.ycombinator.com/item?id=36682468
 

@@ -76,6 +76,9 @@ https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 > https://news.ycombinator.com/item?id=34425067
 
 # News
+https://kdl.dev/
+> https://news.ycombinator.com/item?id=37249430
+
 https://bkhome.org/news/202112/why-iso-was-retired.html
 > https://news.ycombinator.com/item?id=36983704
 

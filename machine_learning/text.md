@@ -49,7 +49,13 @@ https://tatsu-lab.github.io/alpaca_eval/
 https://github.com/khoj-ai/khoj
 > https://news.ycombinator.com/item?id=36933452
 
+https://scriv.ai/guides/retrieval-augmented-generation-overview/
+> https://news.ycombinator.com/item?id=37261198
+
 # News
+https://www.phind.com/blog/code-llama-beats-gpt4
+> https://news.ycombinator.com/item?id=37267597
+
 https://textfx.withgoogle.com/
 > https://news.ycombinator.com/item?id=37161441
 

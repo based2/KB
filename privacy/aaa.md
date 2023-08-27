@@ -103,6 +103,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://www.techdirt.com/2023/08/25/just-23-of-americans-know-the-u-s-has-failed-to-pass-an-internet-era-privacy-law/
+> https://news.ycombinator.com/item?id=37263459
+
 https://www.theregister.com/2023/08/18/google_wiretapping_tax_data/
 
 https://adalytics.io/blog/are-youtube-ads-coppa-compliant

@@ -43,6 +43,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://www.ghacks.net/2023/08/23/firefox-users-may-import-chrome-extensions-now/
+> https://news.ycombinator.com/item?id=37253685
+
 https://www.phoronix.com/news/Firefox-117-Chrome-116-Bench
 >
 

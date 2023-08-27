@@ -152,7 +152,6 @@ https://www.pgaudit.org/
 > > https://news.ycombinator.com/item?id=37082827
 
 https://www.heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production
->
 
 https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/
 > https://news.ycombinator.com/item?id=37100641
@@ -301,6 +300,8 @@ https://blog.val.town/blog/migrating-from-supabase
 > https://news.ycombinator.com/item?id=36004925
 
 # Incident
+https://www.postgresql.org/about/news/postgresql-154-149-1312-1216-1121-and-postgresql-16-beta-3-released-2689/
+
 https://otx.alienvault.com/indicator/cve/CVE-2023-2454
 
 https://otx.alienvault.com/indicator/cve/CVE-2023-2455

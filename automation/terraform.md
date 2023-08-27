@@ -312,6 +312,10 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://opentf.org/announcement
+> https://news.ycombinator.com/item?id=37262440
+> https://github.com/opentffoundation/roadmap/issues
+
 https://github.com/ergomake/layerform
 > https://news.ycombinator.com/item?id=37134293
 

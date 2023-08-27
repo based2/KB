@@ -249,6 +249,11 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://opencoreventures.notion.site/Open-Core-Business-Model-525879f382cb430e81274f669a026c15
+
+https://graydon2.dreamwidth.org/306832.html
+> https://news.ycombinator.com/item?id=37272929
+
 https://www.hadess.net/2023/08/new-responsibilities.html
 > https://lwn.net/Articles/933525/ Red Hat dropping support for LibreOffice
 > https://news.ycombinator.com/item?id=37131263

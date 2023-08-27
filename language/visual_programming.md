@@ -79,3 +79,6 @@ https://news.ycombinator.com/item?id=36013586
 
 https://openexus.com/
 > https://news.ycombinator.com/item?id=36938356
+
+https://n8n.io/
+> https://news.ycombinator.com/item?id=37274052

@@ -24,6 +24,8 @@ https://nick-black.com/dankwiki/index.php/Io_uring
 
 https://git.kernel.org/pub/scm/git/git.git/plain/Documentation/technical/pack-heuristics.txt
 
+https://news.ycombinator.com/item?id=37198744
+
 # Windows
 https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
@@ -33,6 +35,12 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop
+> https://news.ycombinator.com/item?id=37278390
+
+https://lwn.net/Articles/940944/ new futex api
+> https://news.ycombinator.com/item?id=37256849
+
 https://seiya.me/blog/reading-linux-v0.01
 > https://news.ycombinator.com/item?id=37101588
 

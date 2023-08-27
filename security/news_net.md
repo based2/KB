@@ -3,12 +3,27 @@ https://suricata.io/
 https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 
+https://openwrt.org/advisory/start
+> https://openwrt.org/advisory/2022-10-17-1 This can be exploited by attackers which are not necessary part of the network, no authentication needed.
+> https://nvd.nist.gov/vuln/detail/CVE-2022-38333
+> https://news.ycombinator.com/item?id=37280338
+> https://cve.circl.lu/cve/CVE-2023-24182
+> https://cve.mitre.org/cgi-bin/cvekey.cgi?keyword=openwrt
+
 https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wifi-access-points-on-open-networks/
 > https://github.com/SpiderLabs/snappy
 
 https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
 
 #
+https://news.ycombinator.com/item?id=37250210
+
+https://news.ycombinator.com/item?id=37238254
+
+<->172.217.18.206:443
+0<->198.50.123.157:
+->99.86.1.211
+
 https://vigilance.fr/vulnerabilite/Varnish-Cache-acces-utilisateur-via-vmod-digest-42034
 
 https://www.theregister.com/2023/08/10/tunnelcrack_vpn/?td=rt-4a

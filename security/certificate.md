@@ -37,6 +37,12 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incident
+https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/
+> https://news.ycombinator.com/item?id=37249096
+
+https://arstechnica.com/security/2023/08/a-renegade-certificate-is-removed-from-windows-then-it-returns-confusion-ensues/
+> https://news.ycombinator.com/item?id=37268975
+
 https://www.bleepingcomputer.com/news/security/hackers-use-vpn-providers-code-certificate-to-sign-malware/
 
 https://github.com/acmesh-official/acme.sh/issues/4659

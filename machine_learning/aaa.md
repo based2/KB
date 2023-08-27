@@ -420,6 +420,20 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://notbyai.fyi/
+
+http://karpathy.github.io/2022/03/14/lecun1989/
+> https://news.ycombinator.com/item?id=37268610
+
+https://arxiv.org/abs/2308.08726 UI
+> https://news.ycombinator.com/item?id=37275331
+
+https://photonlines.substack.com/p/grokking-neural-networks
+> https://news.ycombinator.com/item?id=37248013
+
+https://arxiv.org/abs/2308.08945
+> https://news.ycombinator.com/item?id=37269376
+
 https://dlsyscourse.org/lectures/
 > https://news.ycombinator.com/item?id=37101515
 
@@ -1080,9 +1094,6 @@ https://openai.com/blog/new-and-improved-embedding-model/
 > https://news.ycombinator.com/item?id=34003394
 
 https://medium.com/syncedreview/geoffrey-hintons-forward-forward-algorithm-charts-a-new-path-for-neural-networks-a02a3f9645a4
-
-https://github.com/norvig/pytudes/blob/main/ipynb/AlphaCode.ipynb
-> https://news.ycombinator.com/item?id=34020025
 
 https://news.ycombinator.com/item?id=33954702
 

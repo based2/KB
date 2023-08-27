@@ -26,6 +26,9 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://ericdraken.com/pfsense-decrypt-ad-traffic/
+> https://news.ycombinator.com/item?id=37279109
+
 https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/
 >
 

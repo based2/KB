@@ -217,6 +217,7 @@ https://zwischenzugs.com/2022/01/04/practical-shell-patterns-i-actually-use/
 
 https://overthewire.org/wargames/
 > https://news.ycombinator.com/item?id=29724594
+> https://news.ycombinator.com/item?id=37281745
 
 https://redo.readthedocs.io/en/latest/
 

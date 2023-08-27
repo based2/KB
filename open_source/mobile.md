@@ -11,6 +11,9 @@ https://f-droid.org/
 https://guardianproject.info/
 
 #
+https://hackaday.com/2023/08/24/an-open-source-mobile-phone-based-on-the-esp32/
+> ycombinator
+
 https://github.com/thestinger/daniel.micay.dev/commit/79e44b41190cd5c64c4ccd9fec4301ee6008da53
 > https://news.ycombinator.com/item?id=36089104
 

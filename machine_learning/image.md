@@ -370,6 +370,16 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://news.ycombinator.com/item?id=37255280
+
+https://generated.photos/human-generator/
+> https://news.ycombinator.com/item?id=37237583
+
+https://github.com/TencentARC/GFPGAN
+
+https://github.com/facefusion/facefusion
+> https://news.ycombinator.com/item?id=37270648
+
 https://github.com/lllyasviel/Fooocus
 > https://news.ycombinator.com/item?id=37096626
 

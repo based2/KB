@@ -319,7 +319,9 @@ https://www.youtube.com/watch?v=4RSht_aV7AU Why python
 https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
-#
+# Incident
+https://vigilance.fr/vulnerabilite/Python-Core-lecture-et-ecriture-de-fichier-via-Normpath-Path-Truncation-42117
+
 https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/
 > https://news.ycombinator.com/item?id=36061407
 
@@ -329,6 +331,12 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/
+> https://news.ycombinator.com/item?id=37282385
+
+https://github.com/satwikkansal/wtfpython
+> https://news.ycombinator.com/item?id=37281692
+
 https://github.com/Textualize/textual
 > https://news.ycombinator.com/item?id=37174657
 
@@ -884,6 +892,7 @@ https://utcc.utoronto.ca/~cks/space/blog/python/VenvsWithProgramsOutside
 
 https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb
 > https://news.ycombinator.com/item?id=30543588
+> https://news.ycombinator.com/item?id=29699403
 
 https://github.com/bczsalba/pytermgui
 > https://news.ycombinator.com/item?id=30517299
@@ -1005,9 +1014,6 @@ https://news.ycombinator.com/item?id=29698198 Ask HN: Good Python projects to re
 
 https://github.com/nanobowers/py2cr
 > https://news.ycombinator.com/item?id=29697761
-
-https://github.com/norvig/pytudes
-> https://news.ycombinator.com/item?id=29699403
 
 https://pyherald.com/
 

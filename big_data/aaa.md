@@ -338,6 +338,21 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://www.finos.org/
+> https://github.com/finos/
+
+https://blog.shalvah.me/posts/understanding-percentiles
+> https://news.ycombinator.com/item?id=37244971
+
+https://www.hydra.so/
+> https://news.ycombinator.com/item?id=37247945
+
+https://dy.github.io/wavefont/
+> https://news.ycombinator.com/item?id=37256298
+
+https://arxiv.org/abs/2308.10825
+> https://news.ycombinator.com/item?id=37257027
+
 https://makie.org/ plot julia
 > https://news.ycombinator.com/item?id=36587875
 

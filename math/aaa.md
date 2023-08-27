@@ -144,6 +144,13 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=37276502
+
+https://siboehm.com/articles/22/Fast-MMM-on-CPU
+
+https://realtimecollisiondetection.net/blog/?p=69
+> https://news.ycombinator.com/item?id=37258753
+
 https://pjonori.blog/posts/systems-math-explosions/
 
 https://news.ycombinator.com/item?id=37059742

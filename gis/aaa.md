@@ -235,6 +235,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument
+> https://news.ycombinator.com/item?id=37267086
+
 https://nso.group/@haifisch/110901720830132689#.
 > https://news.ycombinator.com/item?id=37155574
 

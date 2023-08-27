@@ -113,6 +113,9 @@ https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://photonlines.substack.com/p/grokking-hash-array-mapped-tries
+> https://news.ycombinator.com/item?id=37248020
+
 https://github.com/orlp/polymur-hash
 > https://news.ycombinator.com/item?id=37176289
 

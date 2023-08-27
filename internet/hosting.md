@@ -37,6 +37,9 @@ https://github.com/volution/kawipiko
 https://utcc.utoronto.ca/~cks/space/blog/web/StaticWebsiteTheoryPractice
 > https://news.ycombinator.com/item?id=36734423
 
+https://rameshvarun.github.io/blog-cells/
+> https://news.ycombinator.com/item?id=37214742
+
 https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 

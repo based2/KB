@@ -161,6 +161,9 @@ https://github.com/rodrigocaldeira/nif_cgo
 https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req
 > https://news.ycombinator.com/item?id=37170273
 
+https://underjord.io/unpacking-elixir-concurrency.html
+> https://news.ycombinator.com/item?id=37259225
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

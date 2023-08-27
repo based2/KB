@@ -25,6 +25,11 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://blog.fponzi.me/2023-08-13-bare-metal-space-invaders.html
+> https://news.ycombinator.com/item?id=37270979
+
+https://factorio.com/blog/post/fff-373
+> https://news.ycombinator.com/item?id=37260637
 
 https://news.ycombinator.com/item?id=37192710
 

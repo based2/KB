@@ -1,3 +1,5 @@
+https://daily.jstor.org/we-might-have-accidentally-killed-the-only-life-we-ever-found-on-mars/
+> https://news.ycombinator.com/item?id=37249442
 
 https://solarsystem.nasa.gov/resources/2268/fresh-impact-on-mars/
 > https://news.ycombinator.com/item?id=27494786

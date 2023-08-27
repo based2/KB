@@ -285,6 +285,9 @@ https://github.com/openmainframeproject/cobol-programming-course
 
 https://news.ycombinator.com/item?id=33774085
 
+https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai
+> https://news.ycombinator.com/item?id=37277191
+
 ## LISP
 http://www.paulgraham.com/bel.html
 
