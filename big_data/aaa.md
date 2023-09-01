@@ -338,6 +338,8 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://news.ycombinator.com/item?id=37303695
+
 https://www.finos.org/
 > https://github.com/finos/
 

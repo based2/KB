@@ -8,6 +8,9 @@ https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.htm
 > > http://users.freenet.am/~softland/tutorials/Petite.v2.3.MUP.txt
 
 #
+https://ryujinx.org/ wii
+>
+
 https://github.com/86Box/86Box/releases/tag/v4.0
 > https://news.ycombinator.com/item?id=37278672
 

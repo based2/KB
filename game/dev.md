@@ -151,6 +151,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=37315840
+
 https://if50.substack.com/p/the-antagonists
 > https://news.ycombinator.com/item?id=37216412
 

@@ -140,6 +140,9 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://blog.1password.com/passkey-crates/
+> https://news.ycombinator.com/item?id=37311345
+
 https://bitwarden.com/products/secrets-manager/
 > https://news.ycombinator.com/item?id=37255511
 

@@ -12,6 +12,8 @@ https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
+https://www.forbes.com/sites/thomasbrewster/2023/08/30/malicious-signal-app-planted-on-google-play-by-china-linked-cyber-spies/
+
 https://www.wired.com/story/google-pixel-binary-transparency-security-feature/
 > https://news.ycombinator.com/item?id=37203197
 

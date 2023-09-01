@@ -29,6 +29,9 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 https://news.ycombinator.com/item?id=36889610
 
 # News
+https://www.isro.gov.in/LIBSResults.html
+> https://news.ycombinator.com/item?id=37342914
+
 https://www.space.com/russia-luna-25-moon-mission-launch-success
 
 https://www.space.com/india-chandrayaan-3-moon-orbit-photos

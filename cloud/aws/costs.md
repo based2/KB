@@ -36,3 +36,5 @@ https://github.com/jatalocks/awesome-cloud-cost
 
 https://pauley.me/post/2023/spot-price-trends/
 > https://news.ycombinator.com/item?id=35802157
+
+https://news.ycombinator.com/item?id=37309762

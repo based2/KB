@@ -9,6 +9,9 @@ https://github.com/winkjs/wink-nlp
 > https://news.ycombinator.com/item?id=33734147
 
 # News
+https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c
+> https://news.ycombinator.com/item?id=37341670
+
 https://codeconfessions.substack.com/p/decoding-the-acl-paper-gzip-and-knn
 
 https://news.ycombinator.com/item?id=35729586

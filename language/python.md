@@ -320,6 +320,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # Incident
+https://github.com/python/cpython/issues/108310
+
 https://vigilance.fr/vulnerabilite/Python-Core-lecture-et-ecriture-de-fichier-via-Normpath-Path-Truncation-42117
 
 https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/
@@ -331,6 +333,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://hachyderm.io/@nedbat/110962461917632486
+> https://news.ycombinator.com/item?id=37285653
+
 https://adamj.eu/tech/2021/05/11/python-type-hints-args-and-kwargs/
 > https://news.ycombinator.com/item?id=37282385
 

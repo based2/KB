@@ -58,6 +58,8 @@ https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-web
 
 https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch
 
+https://news.ycombinator.com/item?id=37303983
+
 # Security
 https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 > https://news.ycombinator.com/item?id=26994741

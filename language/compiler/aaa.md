@@ -88,6 +88,8 @@ https://discourse.llvm.org/t/llvm-14-0-0-release/61224
 https://mcyoung.xyz/2023/08/01/llvm-ir/
 > https://lobste.rs/s/avpooi/gentle_introduction_llvm_ir
 
+https://anoopelias.github.io/posts/llvm-compile-stages/
+
 ## Clang
 https://reviews.llvm.org/D108643
 

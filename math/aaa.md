@@ -144,6 +144,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/
+> https://news.ycombinator.com/item?id=37340290
+
 https://news.ycombinator.com/item?id=37276502
 
 https://siboehm.com/articles/22/Fast-MMM-on-CPU

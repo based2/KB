@@ -1,6 +1,9 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.techspot.com/news/99949-latest-skype-vulnerability-can-reveal-ip-address-but.html
+> https://news.ycombinator.com/item?id=37315918
+
 https://www.errno.fr/BypassingBitlocker.html
 > https://news.ycombinator.com/item?id=37249623
 

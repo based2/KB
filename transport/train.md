@@ -15,6 +15,8 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 #
+https://darkcoding.net/misc/openttd-trains-and-signals-for-beginners-a-tutorial/
+
 https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-ohio-train-crash
 > https://news.ycombinator.com/item?id=35013030
 

@@ -420,6 +420,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://openai.com/blog/teaching-with-ai
+> https://news.ycombinator.com/item?id=37340314
+
 https://notbyai.fyi/
 
 http://karpathy.github.io/2022/03/14/lecun1989/

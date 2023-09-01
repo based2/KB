@@ -4,6 +4,9 @@ https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/8/pdf/sec
 
 https://documentation.suse.com/sles/12-SP4/html/SLES-all/book-hardening.html
 
+https://blog.sigma-star.at/post/2023/08/negative-permissions/
+> https://news.ycombinator.com/item?id=37340523
+
 # Boot
 ## Shim
 https://github.com/lcp/mokutil

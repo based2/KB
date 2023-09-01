@@ -27,6 +27,9 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://www.phoronix.com/news/SELinux-Drops-NSA-References
+> https://news.ycombinator.com/item?id=37327842
+
 https://iterm2.com/news.html
 > https://news.ycombinator.com/item?id=37088524
 

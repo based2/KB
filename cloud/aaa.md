@@ -149,6 +149,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.theregister.com/2023/08/30/oracle_microsoft_cloud_australia_outage/
+
 https://status.hashicorp.com/history
 > https://news.ycombinator.com/item?id=37255941
 

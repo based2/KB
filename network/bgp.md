@@ -35,4 +35,7 @@ https://aaka.sh/posts/20230129-bgp-at-home.html
 https://www.bleepingcomputer.com/news/security/all-dutch-govt-networks-to-use-rpki-to-prevent-bgp-hijacking/
 
 # Incident
+https://blog.benjojo.co.uk/post/bgp-path-attributes-grave-error-handling
+> https://news.ycombinator.com/item?id=37305800
+
 https://www.coinbase.com/blog/celer-bridge-incident-analysis

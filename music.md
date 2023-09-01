@@ -140,6 +140,9 @@ https://github.com/vlcoo/P3synth
 > https://news.ycombinator.com/item?id=34831423
 
 #
+https://www.stohrermusic.com/2017/10/the-open-source-saxophone-project/
+> https://news.ycombinator.com/item?id=37303722
+
 https://suricrasia.online/opus-databending-drumkit/
 > https://news.ycombinator.com/item?id=36958612
 

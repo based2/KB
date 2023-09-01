@@ -133,6 +133,8 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://fig.io/blog/post/fig-joins-aws
+
 https://news.ycombinator.com/item?id=37254198
 
 https://awsgravitonweekly.com/posts/aws-graviton-weekly-47

@@ -35,6 +35,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.phoronix.com/news/Linux-6.6-IOmap-Improvements
+
 https://www.phoronix.com/news/Linux-6.5-x86-Fix-34p-Drop
 > https://news.ycombinator.com/item?id=37278390
 

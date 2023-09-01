@@ -122,6 +122,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough/
+> https://news.ycombinator.com/item?id=37295066
+
 https://paedubucher.ch/articles/2023-07-29-learning-algorithms.html
 
 https://people.eecs.berkeley.edu/~wkahan/JAVAhurt.pdf

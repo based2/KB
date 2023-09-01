@@ -25,6 +25,8 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://news.ycombinator.com/item?id=37322794
+
 https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d
 > https://news.ycombinator.com/item?id=37036851
 

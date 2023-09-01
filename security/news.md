@@ -1,3 +1,10 @@
+https://www.wired.com/story/poland-train-radio-stop-attack/
+> https://news.ycombinator.com/item?id=37303365
+
+https://news.ycombinator.com/item?id=37303569
+
+https://news.ycombinator.com/item?id=37320304
+
 https://www.bleepingcomputer.com/news/security/data-breach-at-french-govt-agency-exposes-info-of-10-million-people/
 
 https://vigilance.fr/vulnerabilite/Apache-Tomcat-redirection-via-ROOT-FORM-Authentication-42126

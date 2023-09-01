@@ -98,6 +98,10 @@ parsecd api.smoot.apple.com bag-smoot.v.aaplimg.com 3.73.166.250
 
 https://blog.neilsabol.site/post/quickly-easily-adding-pf-packet-filter-firewall-rules-macos-osx/
 
+https://murusfirewall.com/Documentation/OS%20X%20PF%20Manual.pdf
+
+https://manjusri.ucsc.edu/2015/03/10/PF-on-Mac-OS-X/
+
 example for ipv6:
 
 block from any to { 2a00:1288:1:1:1:1:1:1/31 }
@@ -115,6 +119,8 @@ block from any to { 2604:a880:1:1:1:1:1:1/31 }
 block from any to { 2606:4700:1:1:1:1:1:1/31 }
 block from any to { 2606:50c0:1:1:1:1:1:1/31 }
 block from any to { 2800:68:1:1:1:1:1:1/31 }
+
+interface: idx-XX
 
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
@@ -146,6 +152,8 @@ https://dortania.github.io/OpenCore-Legacy-Patcher/
 https://sveinbjorn.org/sloth lsof
 
 # Dev
+https://news.ycombinator.com/item?id=37333404 vm
+
 https://news.ycombinator.com/item?id=36658553
 
 https://news.ycombinator.com/item?id=35525047
@@ -486,6 +494,8 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://news.ycombinator.com/item?id=37333077 vm
+
 https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html
 
 https://weblog.antranigv.am/posts/2023/02/hardcoded-folder-icons-in-macos/

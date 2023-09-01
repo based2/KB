@@ -27,6 +27,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=37295817
+
 https://krebsonsecurity.com/2023/08/kroll-employee-sim-swapped-for-crypto-investor-data/
 
 https://www.bleepingcomputer.com/news/security/fbi-warns-of-increasing-cryptocurrency-recovery-scams/
