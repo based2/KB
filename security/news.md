@@ -1,3 +1,31 @@
+https://news.ycombinator.com/item?id=37731729
+
+https://www.scmagazine.com/news/predator-files-report-prompts-call-for-worldwide-ban-on-spyware
+
+https://news.ycombinator.com/item?id=37870557
+
+https://news.ycombinator.com/item?id=37886945
+
+https://www.wired.com/story/us-congress-spyware/
+
+https://news.ycombinator.com/item?id=37614816
+
+https://news.ycombinator.com/item?id=37849249
+
+https://cedwards.xyz/tofu-do-you-check/
+> https://news.ycombinator.com/item?id=37614194
+
+https://arstechnica.com/security/2023/09/incomplete-disclosures-by-apple-and-google-create-huge-blindspot-for-0-day-hunters/
+
+https://isc.sans.edu/diary/Potential+Weaponizing+of+Honeypot+Logs+Guest+Diary/30178 CVE-2022-44702
+> https://news.ycombinator.com/item?id=37348284
+
+https://krebsonsecurity.com/2023/09/why-is-us-being-used-to-phish-so-many-of-us/
+> https://news.ycombinator.com/item?id=37352282
+
+https://pulsesecurity.co.nz/advisories/tpm-luks-bypass
+> https://news.ycombinator.com/item?id=37351685
+
 https://www.wired.com/story/poland-train-radio-stop-attack/
 > https://news.ycombinator.com/item?id=37303365
 

@@ -53,6 +53,8 @@ https://drew.shoes/posts/sup/ net send win
 > https://news.ycombinator.com/item?id=34157636
 
 # News
+https://news.ycombinator.com/item?id=37879027 fcron
+
 https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e
 > https://news.ycombinator.com/item?id=37153862 $HOME -> $XDG_CONFIG_HOME
 

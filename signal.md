@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.sigidwiki.com/wiki/Signal_Identification_Guide
+> https://news.ycombinator.com/item?id=37869534
+
 https://destevez.net/2023/08/demodulation-of-the-5g-nr-downlink/
 
 https://www.libinst.com/tpfd.htm

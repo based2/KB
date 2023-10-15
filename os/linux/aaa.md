@@ -105,6 +105,9 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://www.brendangregg.com/linuxperf.html
+> https://news.ycombinator.com/item?id=37879706
+
 https://github.com/KDAB/hotspot perf ui
 
 https://xnacly.me/posts/2022/linux-for-powerusers/

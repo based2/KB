@@ -151,6 +151,9 @@ https://dortania.github.io/OpenCore-Legacy-Patcher/
 
 https://sveinbjorn.org/sloth lsof
 
+https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook
+> https://news.ycombinator.com/item?id=37865941
+
 # Dev
 https://news.ycombinator.com/item?id=37333404 vm
 

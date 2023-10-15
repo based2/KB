@@ -68,6 +68,10 @@ https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/
 https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 
 # Incident
+https://news.ycombinator.com/item?id=37815793
+
+https://news.ycombinator.com/item?id=37821821
+
 https://vigilance.fr/vulnerabilite/MaraDNS-usurpation-via-Revoked-Domain-Name-41321
 
 https://krebsonsecurity.com/2023/05/phishing-domains-tanked-after-meta-sued-freenom/
@@ -93,6 +97,8 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://linuxfr.org/users/zatalyz/journaux/quitter-gandi-en-prenant-le-chemin-le-plus-improbable
+
 https://news.ycombinator.com/item?id=37130060 .co
 
 https://fabiensanglard.net/mdns/index.html

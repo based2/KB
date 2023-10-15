@@ -87,6 +87,8 @@ https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-
 https://blog.quarkslab.com/ansible-security-assessment.html
 
 # News
+https://linuxfr.org/news/squest-passe-en-v2-retour-d-experience-sur-la-pile-ansible-rhaap-squest
+
 https://www.reddit.com/r/ansible/comments/zn233q/the_bullhorn_85_ansible_newsletter/
 
 https://ansible.ai/

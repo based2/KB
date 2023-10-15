@@ -59,6 +59,8 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://news.ycombinator.com/item?id=37844305
+
 https://sql.ophir.dev/
 
 https://korban.net/posts/postgres/2017-09-29-four-levels-of-time-handling-in-database/

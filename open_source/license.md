@@ -66,6 +66,9 @@ http://marble.onl/posts/software-licenses-masquerading-as-open-source.html
 https://github.com/pjakma/fopl
 > https://news.ycombinator.com/item?id=36457546
 
+https://writing.kemitchell.com/2023/10/13/Wrong-About-GPLs
+> https://news.ycombinator.com/item?id=37875588
+
 # Incident
 https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email
 > https://news.ycombinator.com/item?id=36926852

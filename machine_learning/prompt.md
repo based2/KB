@@ -79,3 +79,6 @@ https://chainforge.ai/docs/
 
 https://news.ycombinator.com/item?id=37130531
 
+https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md
+> https://news.ycombinator.com/item?id=37879077
+

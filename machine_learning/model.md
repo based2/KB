@@ -32,6 +32,8 @@ https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-
 https://ai.meta.com/blog/code-llama-large-language-model-coding/
 > https://news.ycombinator.com/item?id=37248494
 
+https://news.ycombinator.com/item?id=37846387
+
 https://github.com/trholding/llama2.c/releases/tag/L2E_v0.1
 > https://news.ycombinator.com/item?id=37270171
 
@@ -144,6 +146,11 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://news.ycombinator.com/item?id=37884541
+
+https://lightning.ai/pages/community/lora-insights/
+> https://news.ycombinator.com/item?id=37870930
+
 https://zhenghaotan.com/blog/initial-impressions-of-msft-olive
 
 https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e Anti-hype LLM reading list

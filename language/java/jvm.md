@@ -73,6 +73,9 @@ https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/
 https://www.reddit.com/r/scala/comments/p5z0yc/journey_to_the_centre_of_the_jvm_daniel_spiewak/
 
 # News
+https://horstmann.com/unblog/2023-09-19/index.html
+> https://news.ycombinator.com/item?id=37612975
+
 https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/
 > https://news.ycombinator.com/item?id=37298866
 

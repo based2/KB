@@ -88,6 +88,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
 # News
+https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/
+> https://news.ycombinator.com/item?id=37869220
+
 https://munsirado.medium.com/unmasking-cloudflare-hosted-sites-unveiling-the-real-ip-address-b1d8a45c4554
 > https://news.ycombinator.com/item?id=37014696
 

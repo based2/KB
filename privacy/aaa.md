@@ -103,6 +103,11 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://news.ycombinator.com/item?id=37887088
+
+https://atlasofsurveillance.org/
+> https://news.ycombinator.com/item?id=37873237
+
 https://www.techdirt.com/2023/08/25/just-23-of-americans-know-the-u-s-has-failed-to-pass-an-internet-era-privacy-law/
 > https://news.ycombinator.com/item?id=37263459
 

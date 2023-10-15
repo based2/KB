@@ -42,6 +42,11 @@ https://tweedegolf.nl/en/blog/86/introducing-mailcrab
 > https://github.com/tweedegolf/mailcrab Rust, ASLv2
 
 # Incident
+https://www.exim.org/static/doc/security/CVE-2023-zdi.txt
+
+https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/
+> https://www.securitynewspaper.com/2023/09/11/proton-mail-vulnerabilities-allow-stealing-decrypted-emails-and-impersonate-users/
+
 https://news.ycombinator.com/item?id=37175503
 
 https://www.bleepingcomputer.com/news/microsoft/hotmail-email-delivery-fails-after-microsoft-misconfigures-dns/

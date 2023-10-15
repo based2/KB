@@ -126,3 +126,7 @@ http://www.madsci.org/posts/archives/2003-07/1057952816.Ph.r.html
 
 https://www.autoevolution.com/news/europes-first-hydrogen-fuel-cell-sea-going-ferry-is-powered-purely-by-renewable-energy-172235.html
 > https://news.ycombinator.com/item?id=29026795
+
+https://news.ycombinator.com/item?id=37871468
+
+https://news.ycombinator.com/item?id=37873850

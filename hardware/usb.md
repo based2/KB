@@ -157,3 +157,5 @@ https://blog.ktz.me/a-usb-fan-controller-that-now-works-under-linux/
 
 https://www.phonearena.com/news/new-logos-announced-for-latest-usb-c-products_id135456
 > https://news.ycombinator.com/item?id=28739051
+
+https://news.ycombinator.com/item?id=37818659

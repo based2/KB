@@ -438,6 +438,8 @@ https://rustsec.org/
 https://briansmith.org/rust-cryptography-should-be-written-in-rust-01
 > https://news.ycombinator.com/item?id=37273701
 
+https://news.ycombinator.com/item?id=37869597
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010
@@ -488,6 +490,8 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://news.ycombinator.com/item?id=37880167
+
 https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/
 
 https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html

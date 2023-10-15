@@ -35,3 +35,5 @@ https://www.wired.com/story/nsa-ndaa-lobbying-privacy-loophole/
 
 https://www.tlo.com/vehicle-sightings
 > https://news.ycombinator.com/item?id=36881133
+
+https://www.techdirt.com/2023/10/12/dhs-releases-previously-withheld-report-detailing-agencies-abuse-of-location-data-purchased-from-data-brokers/

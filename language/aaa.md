@@ -345,6 +345,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+
+> https://news.ycombinator.com/item?id=37869445
+
 https://openjdk.org/projects/jdk/21/
 > https://news.ycombinator.com/item?id=37126530
 

@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=37344702 ms ova
+
+https://news.ycombinator.com/item?id=37343274 sync
+
 https://www.packer.io/
 
 https://xenbits.xen.org/gitweb/?p=xen.git;a=log;h=refs/tags/RELEASE-4.17.1

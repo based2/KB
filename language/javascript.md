@@ -460,6 +460,8 @@ https://claudioholanda.ch/en/blog/svelte-kit-after-3-billion-requests/
 https://primocms.org/ cmd, MIT
 > https://news.ycombinator.com/item?id=36813086
 
+https://news.ycombinator.com/item?id=37609515
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296
@@ -565,6 +567,9 @@ https://vramework.io/blog/20211030-service-injection/
 
 https://www.ashbyhq.com/blog/engineering/detecting-event-loop-blockers
 > https://news.ycombinator.com/item?id=30713567
+
+https://nodejs.org/en/blog/release/v20.8.1
+> https://news.ycombinator.com/item?id=37889790
 
 https://nodejs.org/en/blog/release/v20.0.0
 

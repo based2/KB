@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://github.com/nasa-jpl/open-source-rover
+> https://news.ycombinator.com/item?id=37616513
+
 https://phys.org/news/2023-07-algorithm-ensnares-potentially-hazardous-asteroid.html
 
 https://spaceweatherarchive.com/2023/07/23/spacex-punched-a-hole-in-the-ionosphere/

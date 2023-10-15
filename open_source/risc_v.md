@@ -11,6 +11,9 @@ https://arxiv.org/abs/2308.02945
 > https://news.ycombinator.com/item?id=37081891
 
 #
+https://www.beagleboard.org/boards/beaglev-ahead
+> https://news.ycombinator.com/item?id=37887341
+
 https://www.nextplatform.com/2023/08/02/unleashing-an-open-source-torrent-on-cpus-and-ai-engines/
 
 https://liliputing.com/qualcomm-nxp-bosch-infineon-and-nordic-team-up-to-work-on-risc-v-products/

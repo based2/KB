@@ -48,6 +48,8 @@ https://aws.amazon.com/en/blogs/compute/operating-lambda-performance-optimizatio
 
 https://github.com/alexcasalboni/aws-lambda-power-tuning
 
+https://news.ycombinator.com/item?id=37859607
+
 # DB
 https://aws.amazon.com/en/about-aws/whats-new/2022/04/amazon-aurora-serverless-v2/
 > https://news.ycombinator.com/item?id=31112502

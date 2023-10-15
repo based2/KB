@@ -13,6 +13,8 @@ https://www.erlang.org/blog/scalable-ets-counters/
 
 https://medium.com/@kansi/hot-code-loading-with-erlang-and-rebar3-8252af16605b#.985ei76fw
 
+https://news.ycombinator.com/item?id=37343475
+
 # OTP
 https://erlang.org/pipermail/erlang-announce/2022-May/000208.html OTP 25 has been released
 > https://news.ycombinator.com/item?id=31423027

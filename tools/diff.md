@@ -26,6 +26,8 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://blog.quarkslab.com/qbindiff-a-modular-diffing-toolkit.html
+
 https://github.com/joxeankoret/diaphora
 > https://news.ycombinator.com/item?id=36424375
 

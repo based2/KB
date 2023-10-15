@@ -146,4 +146,7 @@ https://www.ecb.torontomu.ca/~elf/hack/recovery.html
 https://blog.sapico.me/posts/how-i-backup-my-servers/
 > https://news.ycombinator.com/item?id=37255433
 
+https://blog.flozz.fr/2023/10/02/presentation-de-borgbackup-lun-des-meilleurs-outils-de-sauvegarde-disponibles-sous-linux/
+>  https://github.com/kopia/kopia
+
 

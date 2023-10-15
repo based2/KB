@@ -103,6 +103,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=37876896 wayland
+
 https://news.ycombinator.com/item?id=37279014 gnome shell
 
 https://pointieststick.com/2023/08/18/this-week-in-kde-double-click-by-default/

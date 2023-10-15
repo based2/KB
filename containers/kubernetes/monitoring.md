@@ -37,4 +37,6 @@ https://github.com/loveholidays/po-test
 https://lists.apache.org/thread/5kdkh90obh9rvxkybwpsmmqkpppygjqc Apache SkyWalking Cloud on Kubernetes 0.8.0 Released
 > https://github.com/apache/skywalking-swck/blob/v0.8.0/CHANGES.md
 
+https://4sysops.com/archives/static-pods-in-kubernetes/
+
 

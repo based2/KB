@@ -63,3 +63,6 @@ https://asia.nikkei.com/Business/Aerospace-Defense-Industries/Japan-plans-expans
 > https://news.ycombinator.com/item?id=35928663
 
 https://www.theverge.com/23663107/apple-watch-ultra-gps-running
+
+https://gpsjam.org/?lat=45.00000&lon=35.00000&z=3.0&date=2023-10-10
+> https://news.ycombinator.com/item?id=37868106

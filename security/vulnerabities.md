@@ -111,6 +111,10 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 ## 2023
+HTTP/2 Rapid Reset Attack
+
+Blastburst
+
 https://downfall.page/ GDS intel
 >
 

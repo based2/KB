@@ -144,6 +144,13 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/
+> https://news.ycombinator.com/item?id=37864244
+
+https://laurent.claessens-donadello.eu/pdf/lefrido.pdf
+
+https://arxiv.org/abs/2310.06786
+
 https://www.quantamagazine.org/why-mathematical-proof-is-a-social-compact-20230831/
 > https://news.ycombinator.com/item?id=37340290
 

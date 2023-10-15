@@ -122,6 +122,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://www.kalmanfilter.net/default.aspx
+> https://news.ycombinator.com/item?id=37879715
+
 https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough/
 > https://news.ycombinator.com/item?id=37295066
 

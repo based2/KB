@@ -236,6 +236,8 @@ https://www.mufeedvh.com/llm-security/
 
 https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2023-04/adversarial_machine_learning_and_cybersecurity_v7_pdf_1.pdf
 
+https://news.ycombinator.com/item?id=37877605
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -312,6 +314,8 @@ https://blog.google/technology/safety-security/googles-ai-red-team-the-ethical-h
 https://llm-attacks.org/
 > https://llm-attacks.org/zou2023universal.pdf
 > > https://news.ycombinator.com/item?id=36921808
+
+https://news.ycombinator.com/item?id=37872147
 
 # Incident
 https://www.engadget.com/microsoft-retracts-ai-written-article-advising-tourists-to-visit-a-food-bank-on-an-empty-stomach-182701884.html
@@ -420,6 +424,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://botorch.org/
+> https://news.ycombinator.com/item?id=37345938
+
 https://openai.com/blog/teaching-with-ai
 > https://news.ycombinator.com/item?id=37340314
 

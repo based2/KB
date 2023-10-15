@@ -27,6 +27,19 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://www.bleepingcomputer.com/news/security/gnome-linux-systems-exposed-to-rce-attacks-via-file-downloads/
+> https://news.ycombinator.com/item?id=37825196
+
+https://buildkite.com/blog/paved-with-good-intentions-the-story-of-fix-buildkite-agent-builds-permissions
+> https://news.ycombinator.com/item?id=37863694
+
+https://news.ycombinator.com/item?id=37842075
+
+https://news.ycombinator.com/item?id=37864831
+
+https://www.nginx.com/blog/http-2-rapid-reset-attack-impacting-f5-nginx-products/
+> https://news.ycombinator.com/item?id=37861589
+
 https://www.phoronix.com/news/SELinux-Drops-NSA-References
 > https://news.ycombinator.com/item?id=37327842
 

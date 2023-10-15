@@ -16,6 +16,10 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=37610623
+
+https://news.ycombinator.com/item?id=37878587
+
 https://news.ycombinator.com/item?id=37168911
 
 https://www.iisb.fraunhofer.de/en/research_areas/intelligent_energy_systems/DC-grids.html

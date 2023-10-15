@@ -135,6 +135,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://www.brianlinkletter.com/2023/02/network-emulators-and-network-simulators-2023/
+> https://news.ycombinator.com/item?id=37842161
+
 https://tailscale.com/blog/how-nat-traversal-works/
 > https://news.ycombinator.com/item?id=36969018
 

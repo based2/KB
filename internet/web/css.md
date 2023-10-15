@@ -128,6 +128,9 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/
+> https://news.ycombinator.com/item?id=37890725
+
 https://news.ycombinator.com/item?id=37175870
 
 https://defensivecss.dev/articles/intro-defensive-css/

@@ -16,13 +16,21 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
 
 #
+https://arstechnica.com/security/2023/09/china-state-hackers-are-camping-out-in-cisco-routers-us-and-japan-warn/
+> https://news.ycombinator.com/item?id=37720258
+
+https://linuxfr.org/users/usawa/journaux/avoir-l-alarme-a-l-oeil
+
+https://news.ycombinator.com/item?id=37842923
+
+https://news.ycombinator.com/item?id=37831004
+
+https://www.schneier.com/blog/archives/2023/10/cisco-cant-stop-using-hard-coded-passwords.html
+> https://news.ycombinator.com/item?id=37868429
+
 https://news.ycombinator.com/item?id=37250210
 
 https://news.ycombinator.com/item?id=37238254
-
-<->172.217.18.206:443
-0<->198.50.123.157:
-->99.86.1.211
 
 https://vigilance.fr/vulnerabilite/Varnish-Cache-acces-utilisateur-via-vmod-digest-42034
 

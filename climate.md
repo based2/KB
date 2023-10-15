@@ -69,6 +69,13 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=37818301
+
+https://www.whoi.edu/press-room/news-release/gulf-stream-is-warming-and-shifting/
+> https://news.ycombinator.com/item?id=37825784
+
+https://news.ycombinator.com/item?id=37874323
+
 https://fershad.com/writing/power-consumption-jpeg-webp-and-avif/
 > https://news.ycombinator.com/item?id=37271715
 

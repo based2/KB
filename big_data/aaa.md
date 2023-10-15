@@ -281,6 +281,8 @@ https://timeflow.systems/what-is-the-data-lakehouse-pattern/
 https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison
 > https://news.ycombinator.com/item?id=34342190
 
+# Data Vault
+
 # Data Mesh
 https://www.datamesh-architecture.com/
 
@@ -338,6 +340,14 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 > https://news.ycombinator.com/item?id=36263349
 
 # News
+https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/
+> https://news.ycombinator.com/item?id=37722248
+
+https://news.ycombinator.com/item?id=37842914
+
+https://openintro-ims2.netlify.app/
+> https://news.ycombinator.com/item?id=37854846
+
 https://news.ycombinator.com/item?id=37303695
 
 https://www.finos.org/

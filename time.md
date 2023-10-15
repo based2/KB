@@ -107,6 +107,9 @@ https://phys.org/news/2023-01-lidar-reveals-ancient-mesoamerican-aligned.html
 
 https://news.ycombinator.com/item?id=36785707
 
+https://davidseah.com/node/compact-calendar/
+> https://news.ycombinator.com/item?id=37869809
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster
@@ -244,6 +247,10 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://news.ycombinator.com/item?id=37880818
+
+https://news.ycombinator.com/item?id=37835013
+
 https://news.ycombinator.com/item?id=37339535
 
 https://www.evanjones.ca/nanosecond-collisions.html
