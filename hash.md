@@ -113,6 +113,8 @@ https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://github.com/OALabs/hashdb/blob/main/algorithms/mult21_add.py
+
 https://photonlines.substack.com/p/grokking-hash-array-mapped-tries
 > https://news.ycombinator.com/item?id=37248020
 

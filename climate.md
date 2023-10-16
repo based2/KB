@@ -69,6 +69,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=37903737
+
 https://news.ycombinator.com/item?id=37818301
 
 https://www.whoi.edu/press-room/news-release/gulf-stream-is-warming-and-shifting/

@@ -53,6 +53,9 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://socks-studio.com/2023/10/15/the-hidden-territory-usgss-1950s-to-1970s-isometric-geological-diagrams/
+> https://news.ycombinator.com/item?id=37898223
+
 https://meatfighter.com/turings-maze/
 
 https://forum.archimatetool.com/

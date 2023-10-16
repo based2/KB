@@ -127,6 +127,8 @@ https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=31864974
 > > https://github.com/jamf/CIS-for-macOS-Catalina-CP
 
+https://www.netify.ai/resources/applications/apple-updates
+
 https://github.com/drduh/macOS-Security-and-Privacy-Guide
 
 https://objective-see.com/products/knockknock.html

@@ -141,6 +141,8 @@ https://freshtomato.org/ Broadcom
 
 https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV firmware?
 
+https://news.ycombinator.com/item?id=37893555
+
 # News
 https://linuxfr.org/news/le-vhelio-sort-en-v1-0-0
 

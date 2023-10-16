@@ -318,6 +318,8 @@ https://llm-attacks.org/
 https://news.ycombinator.com/item?id=37872147
 
 # Incident
+https://www.bleepingcomputer.com/news/security/shelltorch-flaws-expose-ai-servers-to-code-execution-attacks/
+
 https://www.engadget.com/microsoft-retracts-ai-written-article-advising-tourists-to-visit-a-food-bank-on-an-empty-stomach-182701884.html
 > https://news.ycombinator.com/item?id=37190172
 
