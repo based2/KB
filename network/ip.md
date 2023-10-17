@@ -87,6 +87,10 @@ https://github.com/yggdrasil-network/yggdrasil-go Early-stage implementation of 
 https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945
 
+#
+https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
+>
+
 # News
 https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/
 > https://news.ycombinator.com/item?id=37869220

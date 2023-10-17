@@ -159,3 +159,6 @@ https://www.phonearena.com/news/new-logos-announced-for-latest-usb-c-products_id
 > https://news.ycombinator.com/item?id=28739051
 
 https://news.ycombinator.com/item?id=37818659
+
+https://www.usbmadesimple.co.uk/
+> https://news.ycombinator.com/item?id=37887058

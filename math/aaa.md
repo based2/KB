@@ -144,6 +144,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=37915044
+
 https://www.quantamagazine.org/echoes-of-electromagnetism-found-in-number-theory-20231012/
 > https://news.ycombinator.com/item?id=37864244
 

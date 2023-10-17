@@ -333,6 +333,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://astral.sh/blog/ruff-v0.1.0
+
 https://hachyderm.io/@nedbat/110962461917632486
 > https://news.ycombinator.com/item?id=37285653
 

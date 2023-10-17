@@ -16,6 +16,11 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
 
 #
+https://news.ycombinator.com/item?id=37906156
+
+https://rachelbythebay.com/w/2023/10/16/env/
+> https://news.ycombinator.com/item?id=37908655
+
 https://old.reddit.com/r/firewalla/comments/14gf1j1/major_security_breach_all_rules_ignored_and_all/
 
 https://arstechnica.com/security/2023/09/china-state-hackers-are-camping-out-in-cisco-routers-us-and-japan-warn/

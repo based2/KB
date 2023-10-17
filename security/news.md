@@ -1,3 +1,6 @@
+https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html
+> https://news.ycombinator.com/item?id=37914003
+
 https://news.ycombinator.com/item?id=37731729
 
 https://www.scmagazine.com/news/predator-files-report-prompts-call-for-worldwide-ban-on-spyware

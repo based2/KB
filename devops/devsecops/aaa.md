@@ -50,6 +50,8 @@ https://www.mend.io/sbom/
 https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 
 #
+https://www.permit.io/blog/devsecops-is-nothing-without-devex
+
 https://blog.phylum.io/targeted-npm-malware-attempts-to-steal-developers-source-code-and-secrets/
 > https://www.reddit.com/r/netsec/comments/15hd257/targeted_npm_malware_attempts_to_steal_company/
 

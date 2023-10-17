@@ -151,6 +151,10 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://github.com/ashtonmeuser/godot-wasm
+
+https://news.ycombinator.com/item?id=37917077
+
 https://news.ycombinator.com/item?id=37862606
 
 https://news.ycombinator.com/item?id=37315840

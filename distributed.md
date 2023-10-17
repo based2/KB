@@ -98,6 +98,8 @@ https://jsonjoy.com/blog/list-crdt-benchmarks
 
 https://news.ycombinator.com/item?id=36519448
 
+https://news.ycombinator.com/item?id=37915934
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913
