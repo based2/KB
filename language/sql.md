@@ -59,6 +59,9 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/
+> https://news.ycombinator.com/item?id=37962370
+
 https://news.ycombinator.com/item?id=37844305
 
 https://sql.ophir.dev/

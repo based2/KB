@@ -13,6 +13,9 @@ https://resizer.in/
 https://github.com/avaneev/avir c++, MIT
 
 # News
+https://contentcredentials.org/
+> https://lobste.rs/s/cxx6ti/content_credentials
+
 https://www.opeeps.fun/ avatar
 
 https://blog.qwertyforce.dev/posts/automatic_image_mining

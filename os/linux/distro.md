@@ -96,6 +96,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://wiki.musl-libc.org/projects-using-musl.html
+
 https://stgraber.org/2023/08/24/stable-linux-mainline-builds/
 > https://news.ycombinator.com/item?id=37260141
 

@@ -11,6 +11,13 @@ https://arxiv.org/abs/2308.02945
 > https://news.ycombinator.com/item?id=37081891
 
 #
+https://news.ycombinator.com/item?id=37965047
+
+https://thechipletter.substack.com/p/seven-projects-innovating-around
+> https://news.ycombinator.com/item?id=37814356
+
+https://cordis.europa.eu/project/id/101095947
+
 https://www.beagleboard.org/boards/beaglev-ahead
 > https://news.ycombinator.com/item?id=37887341
 

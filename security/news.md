@@ -1,3 +1,40 @@
+https://www.horizon3.ai/vmware-aria-operations-for-logs-cve-2023-34051-technical-deep-dive-and-iocs/
+
+https://elliotonsecurity.com/perfect-dll-hijacking/
+
+https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure
+
+https://vu.ls/blog/exploiting-zenbleed-from-chrome/
+
+https://www.sonarsource.com/blog/security-vulnerabilities-in-casaos/
+
+https://www.microsoft.com/en-us/security/blog/2023/10/18/multiple-north-korean-threat-actors-exploiting-the-teamcity-cve-2023-42793-vulnerability/
+
+https://eval.blog/research/microsoft-account-token-leaks-in-harvest/
+> https://news.ycombinator.com/item?id=37973937
+
+https://www.drijf.net/malloc/
+> https://lobste.rs/s/1zikcq/openbsd_s_built_memory_leak_detection
+
+https://cryptpad.org/ AGPL-3.0 license
+
+https://notes.valdikss.org.ru/jabber.ru-mitm/
+> https://news.ycombinator.com/item?id=37955264
+
+https://news.ycombinator.com/item?id=37960330
+
+https://www.beyondtrust.com/blog/entry/okta-support-unit-breach
+> https://krebsonsecurity.com/2023/10/hackers-stole-access-tokens-from-oktas-support-unit/
+> > https://news.ycombinator.com/item?id=37960969
+
+https://www.bleepingcomputer.com/news/security/critical-rce-flaws-found-in-solarwinds-access-audit-solution/
+> https://news.ycombinator.com/item?id=37957495
+
+https://dgl.cx/2023/09/ansi-terminal-security
+> https://news.ycombinator.com/item?id=37957397
+
+https://vigilance.fr/vulnerability/Apache-XML-Security-for-Java-logged-sensitive-information-via-debug-log-42675
+
 https://www.schneier.com/blog/archives/2023/10/security-vulnerability-of-switzerlands-e-voting-system.html
 > https://news.ycombinator.com/item?id=37914003
 

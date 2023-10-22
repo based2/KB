@@ -16,6 +16,8 @@ https://github.com/cpc2018/my-first-colo
 https://rohanrd.xyz/posts/why-you-should-start-self-hosting/
 > https://news.ycombinator.com/item?id=30781536
 
+https://news.ycombinator.com/item?id=37964917
+
 # Static
 https://outstatic.com/
 > https://news.ycombinator.com/item?id=33306029

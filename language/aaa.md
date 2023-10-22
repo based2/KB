@@ -345,6 +345,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/alipay/fury
+> https://news.ycombinator.com/item?id=37808366
+
+https://github.com/rochus-keller/OberonSystem3
+> https://news.ycombinator.com/item?id=37967800
 
 > https://news.ycombinator.com/item?id=37869445
 

@@ -162,6 +162,9 @@ https://github.com/axllent/mailpit
 > https://news.ycombinator.com/item?id=36448686
 
 # News
+https://github.com/Planetary-Computers/autotab-starter
+> https://news.ycombinator.com/item?id=37943931
+
 https://questdb.io/blog/fuzz-testing-questdb/
 > https://news.ycombinator.com/item?id=37163980
 

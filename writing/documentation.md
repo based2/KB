@@ -47,6 +47,11 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://news.ycombinator.com/item?id=37953833
+
+https://nota-lang.org/#def-nota
+> https://news.ycombinator.com/item?id=37950952
+
 https://news.ycombinator.com/item?id=37871577
 
 https://fly.io/blog/livebook-for-app-documentation/

@@ -2,7 +2,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
-
+https://forum.level1techs.com/t/mitigations-off-considered-harmful-or-spurious-sigill-on-amd-zen4/202049
+> https://news.ycombinator.com/item?id=37812556
 
 https://bugzilla.mozilla.org/show_bug.cgi?id=1833315
 > https://news.ycombinator.com/item?id=37063459

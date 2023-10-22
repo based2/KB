@@ -67,6 +67,12 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://academic.oup.com/mnras/article/493/3/3932/5736044
+> https://news.ycombinator.com/item?id=37972997
+
+https://www.sci.news/astronomy/all-objects-universe-pedagogical-plot-12372.html
+> https://news.ycombinator.com/item?id=37974804
+
 https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_test_images_tease_of_riches_to_come
 
 https://www.theguardian.com/science/2023/jul/19/two-faced-star-with-helium-and-hydrogen-sides-baffles-astronomers-janus

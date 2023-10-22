@@ -53,6 +53,9 @@ https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/
 https://blog.sigterm.se/posts/a-bonding-exercise/
 
 # News
+https://github.com/Exein-io/pulsar
+> https://news.ycombinator.com/item?id=37942791
+
 https://who.ldelossa.is/posts/unit-testing-ebpf/
 > https://news.ycombinator.com/item?id=35989911
 

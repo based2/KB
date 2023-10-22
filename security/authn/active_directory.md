@@ -58,3 +58,6 @@ https://www.securesystems.de/blog/active-directory-spotlight-attacking-the-micro
 
 https://github.com/grimlockx/ADCSKiller
 > https://www.reddit.com/r/netsec/comments/13lqatw/automate_the_process_of_discovering_and/
+
+https://github.com/The-Viper-One/PsMapExec
+> https://old.reddit.com/r/netsec/comments/17a42zp/psmapexec_windows_and_active_directory_lateral/

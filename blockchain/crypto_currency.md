@@ -27,6 +27,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=37969387
+
+https://news.ycombinator.com/item?id=37958143
+
 https://www.bleepingcomputer.com/news/security/hackers-use-binance-smart-chain-contracts-to-store-malicious-scripts/
 
 https://news.ycombinator.com/item?id=37295817

@@ -73,6 +73,8 @@ https://github.com/webfansplz/vite-plugin-vue-devtools
 
 https://github.com/rustq/vue-skia
 
+https://tomaszs2.medium.com/vue-3-3-6-faster-thanks-to-weakmaps-93d06e81dcb0
+
 ## ReactJS - Facebook
 https://github.com/reactjs/react-basic
 

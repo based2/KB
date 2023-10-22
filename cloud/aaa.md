@@ -319,6 +319,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://ngrok.com/blog-post/gslb-global-server-load-balancing
+
 https://news.ycombinator.com/item?id=37875943
 
 https://www.datasette.cloud/blog/2023/welcome/

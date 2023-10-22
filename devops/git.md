@@ -274,6 +274,11 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://gist.github.com/chapmanjacobd/cb8695e6b106c8c5d7285149266fab11
+
+https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/
+> https://lobste.rs/s/yiotbv/some_miscellaneous_git_facts
+
 https://news.ycombinator.com/item?id=37854995
 
 https://developers.redhat.com/articles/2023/08/02/beginners-guide-git-version-control

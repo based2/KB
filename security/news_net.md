@@ -16,6 +16,12 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
 
 #
+https://vulncheck.com/blog/cisco-implants
+> https://old.reddit.com/r/netsec/comments/179wm45/widespread_cisco_ios_xe_implants_in_the_wild/
+
+https://portswigger.net/research/the-single-packet-attack-making-remote-race-conditions-local
+> https://old.reddit.com/r/netsec/comments/17aqbk9/the_singlepacket_attack_making_remote/
+
 https://news.ycombinator.com/item?id=37906156
 
 https://rachelbythebay.com/w/2023/10/16/env/

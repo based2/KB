@@ -164,6 +164,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://www.nngroup.com/articles/common-knowledge-effect/
+> https://news.ycombinator.com/item?id=37964682
+
 https://news.ycombinator.com/item?id=36922517
 
 https://steveblank.com/2023/07/25/lean-meets-wicked-problems/

@@ -300,6 +300,7 @@ https://en.wikipedia.org/wiki/Edward_Snowden
 > https://en.wikipedia.org/wiki/HTTPS_Everywhere
 > https://www.rfc-editor.org/rfc/rfc9446.html Reflections on Ten Years Past the Snowden Revelations
 > > https://news.ycombinator.com/item?id=37091989
+> > https://letsencrypt.org/
 
 https://en.wikipedia.org/wiki/BREACH
 

@@ -426,6 +426,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.anthropic.com/index/decomposing-language-models-into-understandable-components
+> https://news.ycombinator.com/item?id=37806861
+
 https://botorch.org/
 > https://news.ycombinator.com/item?id=37345938
 

@@ -93,6 +93,9 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://docs.paradedb.com/blog/introducing_bm25
+> https://news.ycombinator.com/item?id=37809126
+
 https://adamsilver.io/blog/7-reasons-to-replace-advanced-search-with-filters-so-users-can-easily-find-what-they-need/
 > https://news.ycombinator.com/item?id=37270108
 

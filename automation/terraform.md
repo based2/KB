@@ -184,6 +184,9 @@ https://medium.com/develeap/rds-logs-optimizer-dont-overpay-for-storing-your-log
 https://github.com/develeap/rds-logs-optimizer
 
 ##
+https://www.bejarano.io/terraform-stateless-critique/
+> https://news.ycombinator.com/item?id=37809111
+
 https://www.hashicorp.com/license-faq
 
 https://spacelift.io/blog/hashicorps-license-change

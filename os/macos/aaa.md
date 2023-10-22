@@ -436,6 +436,8 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to/
+
 https://mastodon.social/@stroughtonsmith/110708615280659758
 
 https://blog.xpnsec.com/building-a-mach-o-memory-loader-part-1/

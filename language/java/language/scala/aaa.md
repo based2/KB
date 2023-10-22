@@ -98,6 +98,8 @@ https://gitlab.com/mhammons/slinc C
 https://eed3si9n.com/sbt-1.8.3
 
 # News
+http://fpilluminated.com/assets/fusing-transformations-of-strict-scala-collections-with-views.html
+
 https://softwaremill.com/go-like-channels-in-scala-receive-send-and-default-clauses/
 
 https://scala-lang.org/2023/07/17/signature-polymorphic-methods.html

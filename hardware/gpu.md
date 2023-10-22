@@ -10,6 +10,9 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://codeconfessions.substack.com/p/gpu-computing
+> https://news.ycombinator.com/item?id=37967126
+
 https://old.reddit.com/r/Amd/comments/15t0lsm/i_turned_a_95_amd_apu_into_a_16gb_vram_gpu_and_it/
 > https://news.ycombinator.com/item?id=37162762
 

@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # Releases
+https://www.ogre3d.org/2023/09/12/ogre-14-1-released
+> https://news.ycombinator.com/item?id=37967990
+
 https://joonaa.dev/blog/02/bevy-xpbd-0-1-0
 > https://news.ycombinator.com/item?id=36642867
 
@@ -151,6 +154,17 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html
+> https://news.ycombinator.com/item?id=37977632
+
+https://o3de.org/
+> https://news.ycombinator.com/item?id=37964999
+
+https://prdeving.wordpress.com/2023/10/13/mmo-architecture-client-connections-sockets-threads-and-connection-oriented-servers/
+> https://news.ycombinator.com/item?id=37963974
+
+https://news.ycombinator.com/item?id=37931373
+
 https://github.com/ashtonmeuser/godot-wasm
 
 https://news.ycombinator.com/item?id=37917077

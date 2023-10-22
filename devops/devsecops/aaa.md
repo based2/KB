@@ -50,6 +50,9 @@ https://www.mend.io/sbom/
 https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 
 #
+https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on
+> https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on
+
 https://www.permit.io/blog/devsecops-is-nothing-without-devex
 
 https://blog.phylum.io/targeted-npm-malware-attempts-to-steal-developers-source-code-and-secrets/

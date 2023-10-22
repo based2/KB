@@ -25,3 +25,6 @@ https://medium.com/ubuntu-ai/kubeflow-mlflow-on-eks-136b672e9afa
 
 https://aws.amazon.com/fr/blogs/aws/new-amazon-ec2-p5-instances-powered-by-nvidia-h100-tensor-core-gpus-for-accelerating-generative-ai-and-hpc-applications/
 > https://news.ycombinator.com/item?id=36882790
+
+https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/
+> https://news.ycombinator.com/item?id=37806323

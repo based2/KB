@@ -138,6 +138,10 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://news.ycombinator.com/item?id=37971038
+
+https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-breached-11-ukrainian-telcos-since-may/
+
 https://www.kentik.com/blog/dual-subsea-cable-cuts-disrupt-african-internet/
 > https://news.ycombinator.com/item?id=37167562
 

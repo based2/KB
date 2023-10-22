@@ -32,6 +32,12 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.dw.com/en/taking-on-spacex-why-germany-is-building-its-own-spaceport/a-67166692
+> https://news.ycombinator.com/item?id=37975166
+
+https://www.ivoyager.dev/
+> https://news.ycombinator.com/item?id=37941509
+
 https://github.com/nasa-jpl/open-source-rover
 > https://news.ycombinator.com/item?id=37616513
 

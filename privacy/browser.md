@@ -26,6 +26,8 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://news.ycombinator.com/item?id=37974187
+
 https://news.ycombinator.com/item?id=37862963
 
 https://news.ycombinator.com/item?id=37352803

@@ -339,7 +339,21 @@ https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5
 https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/
 > https://news.ycombinator.com/item?id=36263349
 
+#
+https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
+
 # News
+https://github.com/dask-contrib/dask-expr
+
+https://openrefine.org
+> https://news.ycombinator.com/item?id=37970800
+
+https://www.itl.nist.gov/div898/handbook/index.htm
+> https://news.ycombinator.com/item?id=37973151
+
+https://www.epsio.io/blog/how-to-create-a-streaming-sql-engine
+> https://news.ycombinator.com/item?id=37965319
+
 https://journal.stuffwithstuff.com/2023/08/04/representing-heterogeneous-data/
 > https://news.ycombinator.com/item?id=37722248
 

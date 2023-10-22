@@ -103,6 +103,8 @@ https://github.com/steven-tey/novel
 > > https://www.blocknotejs.org/
 > > https://github.com/blacksmithgu/datacore
 
+https://news.ycombinator.com/item?id=37974321
+
 # DOM
 https://en.wikipedia.org/wiki/Document_Object_Model
 https://domevents.dev/

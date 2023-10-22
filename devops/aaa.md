@@ -141,6 +141,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.microsoft.com/en-us/security/blog/2023/10/18/multiple-north-korean-threat-actors-exploiting-the-teamcity-cve-2023-42793-vulnerability/
+
 https://www.bleepingcomputer.com/news/security/cisa-fbi-urge-admins-to-patch-atlassian-confluence-immediately/
 
 https://news.ycombinator.com/item?id=37860075 CVE-2023-22515
@@ -446,6 +448,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://arxiv.org/abs/2310.10860
+> https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure
+
 https://news.ycombinator.com/item?id=37897351
 
 https://github.com/scastiel/book-pr

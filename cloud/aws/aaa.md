@@ -66,6 +66,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://blog.cloudsecuritypartners.com/rds-revealed-time-to-give-it-some-shade/
+> https://old.reddit.com/r/netsec/comments/179bi44/public_aws_rds/
+
 https://securitylabs.datadoghq.com/articles/exploring-github-to-aws-keyless-authentication-flaws/
 
 https://blog.sicuranext.com/aws-waf-bypass/

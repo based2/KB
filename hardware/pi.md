@@ -17,6 +17,8 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://news.ycombinator.com/item?id=37972991
+
 https://news.ycombinator.com/item?id=37920682
 
 https://interrupt.memfault.com/blog/emulating-raspberry-pi-in-qemu

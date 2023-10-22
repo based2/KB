@@ -53,6 +53,9 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://github.com/mipmip/inkscape-cloud-architect
+> https://news.ycombinator.com/item?id=37952885
+
 https://socks-studio.com/2023/10/15/the-hidden-territory-usgss-1950s-to-1970s-isometric-geological-diagrams/
 > https://news.ycombinator.com/item?id=37898223
 

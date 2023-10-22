@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=37964575
+
 https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/
 > https://news.ycombinator.com/item?id=36960625
 

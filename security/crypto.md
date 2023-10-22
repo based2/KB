@@ -180,10 +180,19 @@ https://www.grc.com/otg/uheprng.htm
 
 https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 
+
 #
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/W2VOzy0wz_E/m/LjmQyMurBQAJ Re: Kyber security level?
+> https://news.ycombinator.com/item?id=37874454
+
+https://blog.cr.yp.to/20231003-countcorrectly.html PQC Kyber
+> https://news.ycombinator.com/item?id=37756656
+
+https://media.ccc.de/v/rc3-2021-cwtv-230-kyber-and-post-quantum
+
 https://news.ycombinator.com/item?id=37866421
 
 https://esl.cs.brown.edu/blog/how-to-search-on-encrypted-data-introduction-part-1/

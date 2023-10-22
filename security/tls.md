@@ -170,6 +170,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://www.openssl.org/blog/blog/2023/10/20/ossl-rpk/
+
 https://community.cloudflare.com/t/early-hints-and-encrypted-client-hello-ech-are-currently-disabled-globally/567730
 
 https://confidentialcomputing.io/2023/03/06/unifying-remote-attestation-protocol-implementations/

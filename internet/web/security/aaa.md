@@ -22,5 +22,8 @@ https://www.20minutes.fr/societe/desintox/
 
 https://observers.france24.com/fr/tag/intox/
 
+https://j3s.sh/thought/recover-lost-text-by-coredumping-firefox.html
+> https://news.ycombinator.com/item?id=37974106
+
 
 

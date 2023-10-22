@@ -43,6 +43,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxExtraProfilesHack
+> https://news.ycombinator.com/item?id=37952719
+
 https://github.com/navorite/sessionic
 > https://news.ycombinator.com/item?id=37887184
 

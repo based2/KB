@@ -108,6 +108,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://chipsandcheese.com/2023/10/08/zen-5s-leaked-slides/
+> https://news.ycombinator.com/item?id=37812113
+
 https://news.ycombinator.com/item?id=37315802
 
 https://rmkit.dev/eink-is-so-retropunk/

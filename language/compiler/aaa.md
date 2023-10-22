@@ -90,6 +90,8 @@ https://mcyoung.xyz/2023/08/01/llvm-ir/
 
 https://anoopelias.github.io/posts/llvm-compile-stages/
 
+https://www.bitsand.cloud/posts/llvm-pass/
+
 ## Clang
 https://reviews.llvm.org/D108643
 
@@ -138,6 +140,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://news.ycombinator.com/item?id=37941680
+
 https://news.ycombinator.com/item?id=37881699
 
 https://news.ycombinator.com/item?id=37882177

@@ -81,6 +81,12 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://www.asciiart.eu/
+> https://news.ycombinator.com/item?id=37959687
+
+https://blog.glyphdrawing.club/amiga-ascii-art/
+> https://news.ycombinator.com/item?id=37973105
+
 https://www.atariarchives.org/cgp/Ch02_Sec04.php
 
 https://bitmath.blogspot.com/2023/07/propagating-bounds-through-bitwise.html

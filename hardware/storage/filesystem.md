@@ -59,6 +59,8 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://archive.fosdem.org/2022/schedule/event/misc_ntfs_rust/
+
 https://dbohdan.com/clean-mount-lists
 > https://news.ycombinator.com/item?id=37271611
 

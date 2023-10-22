@@ -47,3 +47,5 @@ https://mjtsai.com/blog/2022/05/24/swiftui-in-2022/
 
 https://alwaysprocessing.blog/series/objc-internals
 > https://news.ycombinator.com/item?id=37085604
+
+https://news.ycombinator.com/item?id=37947772

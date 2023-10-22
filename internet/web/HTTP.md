@@ -178,6 +178,9 @@ https://utcc.utoronto.ca/~cks/space/blog/web/AvoidingHTTP3ForNow
 https://mitmproxy.org/posts/releases/mitmproxy10/
 > https://news.ycombinator.com/item?id=36999169
 
+https://nghttp2.org/nghttp3/
+> https://news.ycombinator.com/item?id=37971633
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

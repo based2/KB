@@ -105,6 +105,12 @@ https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/
 https://tutox.fr/2022/01/13/comment-mettre-a-jour-son-bios-uefi-sous-linux/
 
 # News
+https://blog.liw.fi/posts/2023/debian-reasons/
+> https://news.ycombinator.com/item?id=37809276
+
+https://www.phoronix.com/news/Debian-12.2-Released
+> https://news.ycombinator.com/item?id=37812210
+
 https://www.brendangregg.com/linuxperf.html
 > https://news.ycombinator.com/item?id=37879706
 

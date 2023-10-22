@@ -192,6 +192,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+http://trojita.flaska.net/
+> https://news.ycombinator.com/item?id=37963252
+
 https://www.pmail.com/
 > https://news.ycombinator.com/item?id=36988047
 
