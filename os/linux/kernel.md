@@ -35,6 +35,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://admccartney.mur.at/programming/idkproc/
+> https://news.ycombinator.com/item?id=38009372
+
 https://news.ycombinator.com/item?id=37340080 amd gpu
 
 https://www.phoronix.com/news/Linux-6.6-IOmap-Improvements

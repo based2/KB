@@ -6,6 +6,11 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 https://news.ycombinator.com/item?id=36294750
 
 # News
+https://www.cloudflarestatus.com/incidents/s1hkh315y9s9
+> https://news.ycombinator.com/item?id=38014582
+
+https://blog.cloudflare.com/turnstile-ga/ no captcha
+
 https://blog.cloudflare.com/faster-workers-kv-architecture/
 
 https://durafetch.com/

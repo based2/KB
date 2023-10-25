@@ -448,6 +448,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=38012742
+
 https://arxiv.org/abs/2310.10860
 > https://lobste.rs/s/qvyf5k/can_we_make_idiot_proof_infrastructure
 

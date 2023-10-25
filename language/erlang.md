@@ -166,6 +166,9 @@ https://thibautbarrere.com/2022/09/09/implementing-a-disk-cache-for-elixir-req
 https://underjord.io/unpacking-elixir-concurrency.html
 > https://news.ycombinator.com/item?id=37259225
 
+https://underjord.io/unpacking-elixir-observability.html
+> https://news.ycombinator.com/item?id=38015038
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

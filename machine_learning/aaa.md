@@ -426,6 +426,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://animatedai.github.io
+> https://news.ycombinator.com/item?id=37999035
+
+https://www.nature.com/articles/d41586-023-03272-3
+> https://news.ycombinator.com/item?id=38017146
+
 https://www.anthropic.com/index/decomposing-language-models-into-understandable-components
 > https://news.ycombinator.com/item?id=37806861
 

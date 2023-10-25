@@ -274,6 +274,8 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://www.qword.net/2023/10/22/the-use-and-abuse-of-the-dev-branch
+
 https://gist.github.com/chapmanjacobd/cb8695e6b106c8c5d7285149266fab11
 
 https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/

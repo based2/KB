@@ -47,6 +47,9 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://github.com/rguiscard/fossil-notebook-demo
+> https://news.ycombinator.com/item?id=38011421
+
 https://news.ycombinator.com/item?id=37953833
 
 https://nota-lang.org/#def-nota

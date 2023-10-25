@@ -186,12 +186,17 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 #
+https://www.theregister.com/2023/10/25/prorussia_group_exploits_roundcube_zeroday/
+
 https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird102.13
 
 https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://mymangomail.com/
+> https://news.ycombinator.com/item?id=38017029
+
 http://trojita.flaska.net/
 > https://news.ycombinator.com/item?id=37963252
 

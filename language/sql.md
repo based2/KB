@@ -59,6 +59,8 @@ http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
 # News
+https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/
+
 https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/
 > https://news.ycombinator.com/item?id=37962370
 

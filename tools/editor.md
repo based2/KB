@@ -349,6 +349,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://news.ycombinator.com/item?id=38017541
+
 https://news.ycombinator.com/item?id=37326419
 
 https://www.pixelstech.net/article/1693110126-Chinese-Developers-Release-CEC-IDE-Claimed-as-First-Independently-Developed-IDE

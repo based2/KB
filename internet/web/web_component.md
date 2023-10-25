@@ -48,3 +48,5 @@ https://htmlwithsuperpowers.netlify.app/
 
 https://daverupert.com/2023/07/why-not-webcomponents/
 > https://news.ycombinator.com/item?id=36976670
+
+https://news.ycombinator.com/item?id=38012662

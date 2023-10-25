@@ -4,6 +4,10 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://news.ycombinator.com/item?id=38015277
+
+https://news.ycombinator.com/item?id=38017064
+
 https://www.zdnet.com/article/flipper-zero-can-lock-up-an-iphone-running-the-latest-ios-17/
 
 https://techcrunch.com/2023/08/16/this-70-device-can-spoof-an-apple-device-and-trick-you-into-sharing-your-password/?guccounter=1

@@ -69,6 +69,9 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air
+> https://news.ycombinator.com/item?id=38015169
+
 https://news.ycombinator.com/item?id=37903737
 
 https://news.ycombinator.com/item?id=37818301

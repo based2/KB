@@ -72,6 +72,9 @@ https://news.ycombinator.com/item?id=36381764
 https://github.com/exogee-technology/graphweaver
 
 #
+https://github.com/orbitalapi/orbital data gateway that automates the integration, transformation and discovery of data from data sources (API’s, databases, message brokers) across your enterprise
+> https://news.ycombinator.com/item?id=38012311
+
 https://github.com/fern-api/fern
 > 
 
