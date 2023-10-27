@@ -50,6 +50,9 @@ https://www.mend.io/sbom/
 https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 
 #
+https://github.com/analysis-tools-dev/static-analysis c
+> https://news.ycombinator.com/item?id=38024002
+
 https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on
 > https://lobste.rs/s/ztdrzq/less_is_more_empirical_study_on
 

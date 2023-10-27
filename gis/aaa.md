@@ -122,6 +122,8 @@ https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-
 > https://news.ycombinator.com/item?id=37015290
 
 # Maps
+https://dl.acm.org/doi/10.14778/3574245.3574253
+
 https://mult.dev/
 
 https://cycle.travel/

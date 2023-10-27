@@ -60,6 +60,7 @@ http://harelba.github.io/q/
 
 # News
 https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/
+> https://news.ycombinator.com/item?id=38016930
 
 https://www.red-gate.com/simple-talk/databases/sql-server/t-sql-programming-sql-server/dont-use-distinct-as-a-join-fixer/
 > https://news.ycombinator.com/item?id=37962370

@@ -1,3 +1,9 @@
+https://fusionauth.io/blog/grammarly-proves-ciam-not-optional
+> https://news.ycombinator.com/item?id=38039831
+
+https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts
+> https://news.ycombinator.com/item?id=38009291
+
 https://vigilance.fr/vulnerabilite/Go-surcharge-via-Large-RSA-Keys-41932
 
 https://vigilance.fr/vulnerabilite/Python-cryptography-absence-de-signature-via-SSH-Certificates-Critical-Options-41925

@@ -54,6 +54,8 @@ https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-conte
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://news.ycombinator.com/item?id=38021347
+
 https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS
 > https://news.ycombinator.com/item?id=37878077
 

@@ -53,6 +53,9 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://terrastruct.com/blog/post/draw-software-architecture-diagrams/
+> https://news.ycombinator.com/item?id=38035505
+
 https://github.com/mipmip/inkscape-cloud-architect
 > https://news.ycombinator.com/item?id=37952885
 

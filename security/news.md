@@ -1,3 +1,8 @@
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-16
+> https://news.ycombinator.com/item?id=38037779
+
+https://lists.apache.org/thread/h5pls9gj581r8chcqm2c5hkknx09p7sx airflow
+
 https://www.horizon3.ai/vmware-aria-operations-for-logs-cve-2023-34051-technical-deep-dive-and-iocs/
 
 https://elliotonsecurity.com/perfect-dll-hijacking/

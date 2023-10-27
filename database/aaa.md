@@ -68,6 +68,8 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://news.ycombinator.com/item?id=38023283
+
 https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea
 > https://news.ycombinator.com/item?id=37246740
 

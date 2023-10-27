@@ -65,6 +65,8 @@ https://aera.mit.edu/projects/aerobatic-maneuvers-for-fixed-wing-vtol-aircraft
 
 https://www.flyzipline.com/
 
+https://news.ycombinator.com/item?id=38042590
+
 # Water
 https://www.darpa.mil/news-events/2021-12-20
 

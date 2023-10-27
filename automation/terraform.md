@@ -184,6 +184,8 @@ https://medium.com/develeap/rds-logs-optimizer-dont-overpay-for-storing-your-log
 https://github.com/develeap/rds-logs-optimizer
 
 ##
+https://thenewstack.io/linux-foundation-adopting-terraform-fork-provokes-ire-of-hashicorp-ceo/
+
 https://www.bejarano.io/terraform-stateless-critique/
 > https://news.ycombinator.com/item?id=37809111
 

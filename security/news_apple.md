@@ -4,6 +4,8 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://news.ycombinator.com/item?id=38032253
+
 https://news.ycombinator.com/item?id=38015277
 
 https://news.ycombinator.com/item?id=38017064

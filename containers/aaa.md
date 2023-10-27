@@ -51,6 +51,8 @@ https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://thenewstack.io/the-moby-project-post-kubernetes-3-new-releases-in-2023/
+
 https://lwn.net/SubscriberLink/946526/a1c7bb28c62c9667/
 
 https://blog.networkprofile.org/vms-and-containers-i-am-running-2023/

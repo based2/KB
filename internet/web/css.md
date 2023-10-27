@@ -236,6 +236,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
 # News
+https://www.pollen.style/
+> https://lobste.rs/s/e7srxh/pollen_css_variables_build_system
+
 https://webkit.org/blog/14571/css-nesting-and-the-cascade/
 
 https://fffuel.co/css-selectors/

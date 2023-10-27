@@ -1,5 +1,7 @@
 https://github.com/google/AFL
 
+https://github.com/google/oss-fuzz
+
 https://github.com/dogancanbakir/pirebok
 
 https://github.com/dpanic/fuzzer

@@ -249,6 +249,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.verto.sh/
+> https://news.ycombinator.com/item?id=38024456
+
 https://opencoreventures.notion.site/Open-Core-Business-Model-525879f382cb430e81274f669a026c15
 
 https://graydon2.dreamwidth.org/306832.html

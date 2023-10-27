@@ -319,6 +319,12 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://kerkour.com/why-cloud-bandwidth-is-so-expensive
+> https://news.ycombinator.com/item?id=38025788
+
+https://oxide.computer/blog/the-cloud-computer
+> https://news.ycombinator.com/item?id=38023891
+
 https://a16z.com/the-cost-of-cloud-a-trillion-dollar-paradox/
 > https://news.ycombinator.com/item?id=38017239
 

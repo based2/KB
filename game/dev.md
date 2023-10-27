@@ -154,6 +154,9 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://github.com/GaijinEntertainment/DagorEngine
+> https://news.ycombinator.com/item?id=38030050
+
 https://web.stanford.edu/class/history34q/readings/Virtual_Worlds/LucasfilmHabitat.html
 > https://news.ycombinator.com/item?id=37977632
 

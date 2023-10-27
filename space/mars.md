@@ -21,6 +21,9 @@ https://destevez.net/2021/09/tianwen-1-attitude-in-mars-orbit/
 https://mashable.com/article/mars-nasa-earthquakes
 
 # News
+https://www.nature.com/articles/d41586-023-03271-4
+> https://news.ycombinator.com/item?id=38024899
+
 https://www.vice.com/en/article/bvjnj4/china-makes-alien-hunting-discovery-finds-recent-signs-of-water-on-mars
 
 https://nautil.us/a-supermassive-test-for-einsteins-famous-theory-312691/

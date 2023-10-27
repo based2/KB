@@ -144,6 +144,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=38024418
+
 https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/
 
 https://eli.thegreenplace.net/2023/cubic-spline-interpolation/

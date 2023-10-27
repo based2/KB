@@ -7,6 +7,9 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://www.economist.com/leaders/2023/10/26/sodium-batteries-offer-an-alternative-to-tricky-lithium
+> https://news.ycombinator.com/item?id=38025086
+
 https://www.wsws.org/en/articles/2023/08/11/dnyl-a11.html
 > https://news.ycombinator.com/item?id=37133438
 

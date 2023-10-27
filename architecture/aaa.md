@@ -56,6 +56,8 @@ https://scattered-thoughts.net/writing/an-opinionated-map-of-incremental-and-str
 https://ieeecs-media.computer.org/media/education/swebok/swebok-v3.pdf
 > https://news.ycombinator.com/item?id=26901070
 
+https://www.ilograph.com/architecture-center/index.html
+
 # End of life
 https://endoflife.date/
 

@@ -634,6 +634,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://nextjs.org/blog/next-14
+> https://news.ycombinator.com/item?id=38028480
+
 https://news.ycombinator.com/item?id=37244012
 
 https://blog.yusu.ke/hono-htmx-cloudflare/

@@ -22,6 +22,8 @@ https://www.reddit.com/r/java/comments/nuuhdz/streamtolist_is_weird/
 https://medium.com/geekculture/pitfalls-of-java-parallel-streams-731fe0c1eb5f
 
 #
+https://openjdk.org/jeps/461 Stream Gatherers
+
 https://cr.openjdk.org/~vklang/Gatherers.html
 
 https://foojay.io/today/why-the-cool-kids-use-event-loops/
