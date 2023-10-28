@@ -345,6 +345,10 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/
+
+https://stackoverflow.blog/2022/10/31/comparing-frameworks-for-cross-platform-apps-flutter-vs-react-native/
+
 https://github.com/alipay/fury
 > https://news.ycombinator.com/item?id=37808366
 

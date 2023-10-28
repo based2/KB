@@ -83,6 +83,9 @@ https://www.quantamagazine.org/renate-loll-blends-universes-to-unlock-quantum-gr
 https://www.nature.com/articles/s41586-023-06330-y
 > https://news.ycombinator.com/item?id=36984869
 
+https://thedebrief.org/scientists-successfully-simulate-backward-time-travel-with-a-25-chance-of-actually-changing-the-past/
+> https://news.ycombinator.com/item?id=38045112
+
 # Business
 
 https://www.theregister.com/2022/02/18/hpe_samsung_classiq/

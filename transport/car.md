@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://edition.cnn.com/travel/stella-terra-off-road-solar-powered-suv-morocco-hnk-spc/index.html
+
 https://www.washingtonpost.com/business/2023/07/25/chevy-bolt-ev/
 > https://news.ycombinator.com/item?id=36877818
 

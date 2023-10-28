@@ -25,6 +25,9 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://vertette.github.io/post/funfactoruplink
+> https://news.ycombinator.com/item?id=38047861
+
 https://blog.fponzi.me/2023-08-13-bare-metal-space-invaders.html
 > https://news.ycombinator.com/item?id=37270979
 

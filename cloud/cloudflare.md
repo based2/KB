@@ -6,6 +6,9 @@ https://blog.assetnote.io/2022/05/06/cloudflare-pages-pt1/
 https://news.ycombinator.com/item?id=36294750
 
 # News
+https://wasmer.io/posts/announcing-winterjs-service-workers
+> https://news.ycombinator.com/item?id=38047872
+
 https://www.cloudflarestatus.com/incidents/s1hkh315y9s9
 > https://news.ycombinator.com/item?id=38014582
 

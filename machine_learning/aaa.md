@@ -426,6 +426,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=38042954
+
 https://mathstodon.xyz/@tao/111287749336059662
 > https://news.ycombinator.com/item?id=38035672
 

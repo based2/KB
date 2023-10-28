@@ -20,3 +20,6 @@ https://www.forbes.com/sites/startswithabang/2021/07/07/how-close-are-we-to-the-
 
 https://www.mathpages.com/home/kmath641/kmath641.htm
 > https://news.ycombinator.com/item?id=37001587
+
+https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/
+> https://news.ycombinator.com/item?id=38048401

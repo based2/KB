@@ -64,7 +64,12 @@ https://www.hillelwayne.com/post/graphing-tla/
 https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb
 > https://news.ycombinator.com/item?id=27045771
 
-# 
+#
+https://proofassistants.stackexchange.com/questions/1093/can-the-language-of-proof-assistants-be-used-for-general-purpose-programming
+> https://news.ycombinator.com/item?id=38044420
+
+https://github.com/leanprover/lean4
+
 https://leanprover.github.io/functional_programming_in_lean/
 > https://news.ycombinator.com/item?id=36107796
 

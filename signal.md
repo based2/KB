@@ -29,6 +29,15 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+http://www.websdr.org/
+> https://news.ycombinator.com/item?id=38032257
+
+https://github.com/f4exb/sdrangel
+> https://news.ycombinator.com/item?id=38043809
+
+https://www.nasa.gov/directorates/stmd/nasa-tech-breathes-life-into-potentially-game-changing-antenna-design/
+> https://news.ycombinator.com/item?id=38043955
+
 https://www.sigidwiki.com/wiki/Signal_Identification_Guide
 > https://news.ycombinator.com/item?id=37869534
 

@@ -53,6 +53,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/
+> https://news.ycombinator.com/item?id=38034797
+
 https://blocksandfiles.com/2023/08/23/50tb-ibm-tape/
 > https://news.ycombinator.com/item?id=37261001
 

@@ -9,6 +9,8 @@ https://news.ycombinator.com/item?id=26435783 .DS_Store
 https://github.com/serhii-londar/open-source-mac-os-apps
 
 # Config
+https://endoflife.date/macos
+
 https://eclecticlight.co/2023/07/29/system-settings-that-arent-in-system-settings/
 > https://news.ycombinator.com/item?id=36981580
 

@@ -108,6 +108,12 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://www.jeffgeerling.com/blog/2023/everything-ive-learned-building-fastest-arm-desktop
+> https://news.ycombinator.com/item?id=38038682
+
+https://chipsandcheese.com/2023/10/27/cortex-x2-arm-aims-high/
+> https://news.ycombinator.com/item?id=38047743
+
 https://chipsandcheese.com/2023/10/08/zen-5s-leaked-slides/
 > https://news.ycombinator.com/item?id=37812113
 

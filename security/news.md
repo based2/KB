@@ -1,3 +1,17 @@
+https://nvd.nist.gov/vuln/detail/CVE-2023-41763 skype
+
+https://www.reuters.com/business/aerospace-defense/boeing-assessing-lockbit-hacking-gang-threat-sensitive-data-leak-2023-10-27/
+
+https://security.apple.com/blog/imessage-contact-key-verification/
+> https://www.iacr.org/archive/crypto2005/36210303/36210303.pdf
+
+https://blog.torproject.org/security-audit-report-tor-browser-ooni/
+> https://ghacks.net/2023/10/27/tor-browser-security-audit-reveals-2-high-security-issues/
+> https://news.ycombinator.com/item?id=38028843
+
+https://marc.info/?l=openbsd-tech&m=169841790407370&w=2
+> https://news.ycombinator.com/item?id=38039689
+
 https://sethmlarson.dev/security-developer-in-residence-weekly-report-16
 > https://news.ycombinator.com/item?id=38037779
 

@@ -42,7 +42,9 @@ https://tweedegolf.nl/en/blog/86/introducing-mailcrab
 > https://github.com/tweedegolf/mailcrab Rust, ASLv2
 
 # Incident
+
 https://www.exim.org/static/doc/security/CVE-2023-zdi.txt
+> https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/
 
 https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/
 > https://www.securitynewspaper.com/2023/09/11/proton-mail-vulnerabilities-allow-stealing-decrypted-emails-and-impersonate-users/

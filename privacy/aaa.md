@@ -103,6 +103,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/
+> https://news.ycombinator.com/item?id=38045342
+
 https://news.ycombinator.com/item?id=37887088
 
 https://atlasofsurveillance.org/

@@ -97,6 +97,8 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 #
+https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-windows-11-encrypted-dns-server-auto-discovery/
+
 https://linuxfr.org/users/zatalyz/journaux/quitter-gandi-en-prenant-le-chemin-le-plus-improbable
 
 https://news.ycombinator.com/item?id=37130060 .co

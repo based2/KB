@@ -21,6 +21,11 @@ https://github.com/bridgecrewio/checkov
 https://github.com/ossf/scorecard#goals github
 
 # SBOM
+https://scvs.owasp.org/scvs/v2-software-bill-of-materials/
+
+https://dependencytrack.org/
+> https://github.com/DependencyTrack
+
 https://www.cisa.gov/sbom
 
 https://spdx.dev
@@ -50,6 +55,8 @@ https://www.mend.io/sbom/
 https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 
 #
+https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/
+
 https://github.com/analysis-tools-dev/static-analysis c
 > https://news.ycombinator.com/item?id=38024002
 

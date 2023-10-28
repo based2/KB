@@ -39,6 +39,9 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/
+> https://news.ycombinator.com/item?id=38037141
+
 https://news.ycombinator.com/item?id=37263473
 
 https://medium.com/@hans.knechtions/building-a-successful-sre-team-283232bc2694

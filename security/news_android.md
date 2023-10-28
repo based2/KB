@@ -12,6 +12,9 @@ https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
+https://arstechnica.com/gadgets/2023/10/android-14s-ransomware-data-storage-bug-locks-out-users-remains-unfixed/
+> https://news.ycombinator.com/item?id=38043574
+
 https://fingerprint.com/blog/android-14-clipboard-security-leak/
 
 https://www.forbes.com/sites/thomasbrewster/2023/08/30/malicious-signal-app-planted-on-google-play-by-china-linked-cyber-spies/

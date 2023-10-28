@@ -47,6 +47,10 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 #
+https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/
+> https://old.reddit.com/r/netsec/comments/17h253u/cve202346747_preauth_remote_code_execution_in/
+> https://www.bleepingcomputer.com/news/security/f5-fixes-big-ip-auth-bypass-allowing-remote-code-execution-attacks/
+
 https://vigilance.fr/vulnerability/Sophos-Firewall-information-disclosure-via-SPX-Password-42657
 
 https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/
@@ -55,6 +59,8 @@ https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
 https://news.ycombinator.com/item?id=38021347
+
+https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2023-0012
 
 https://utcc.utoronto.ca/~cks/space/blog/unix/OpenBSDPfStatesAndDoS
 > https://news.ycombinator.com/item?id=37878077

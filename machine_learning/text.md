@@ -53,6 +53,8 @@ https://scriv.ai/guides/retrieval-augmented-generation-overview/
 > https://news.ycombinator.com/item?id=37261198
 
 # News
+https://news.ycombinator.com/item?id=38040591
+
 https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/
 > https://news.ycombinator.com/item?id=38020109
 

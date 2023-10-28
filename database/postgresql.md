@@ -313,6 +313,9 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://www.citusdata.com/blog/2023/10/26/making-postgres-tick-new-features-in-pg-cron/
+> https://news.ycombinator.com/item?id=38029671
+
 https://news.ycombinator.com/item?id=38014812
 
 https://old.reddit.com/r/scala/comments/17ac10z/announcing_typo_typed_postgresql_integration_for/

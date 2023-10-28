@@ -75,6 +75,8 @@ https://github.com/karmada-io/karmada Open, Multi-Cloud, Multi-Cluster Kubernete
 https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/
 
 # Incident
+https://www.armosec.io/blog/cve-2023-5043-nginx-ingress/
+
 https://vigilance.fr/vulnerabilite/Kubernetes-acces-en-lecture-et-ecriture-via-ImagePolicyWebhook-Bypass-41504
 
 https://vigilance.fr/vulnerabilite/Kubernetes-acces-en-lecture-et-ecriture-via-Seccomp-Profile-Bypass-41503

@@ -43,6 +43,9 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/
+> https://news.ycombinator.com/item?id=38048155
+
 https://news.ycombinator.com/item?id=37309818
 
 https://www.charlieholtz.com/articles/how-i-make-ai-movies
