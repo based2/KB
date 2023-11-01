@@ -96,6 +96,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756
+
 https://wiki.musl-libc.org/projects-using-musl.html
 
 https://stgraber.org/2023/08/24/stable-linux-mainline-builds/

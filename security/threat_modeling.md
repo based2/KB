@@ -36,3 +36,6 @@ https://www.misp-project.org/
 https://memgraph.com/blog/stay-ahead-of-cyber-threats-with-graph-databases
 > https://news.ycombinator.com/item?id=34453854
 
+https://blog.apnic.net/2021/10/19/threat-hunting-101-hunting-with-yara-rules/
+
+https://www.geeksforgeeks.org/threat-hunting-using-yara/

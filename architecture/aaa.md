@@ -291,6 +291,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://github.com/donnemartin/system-design-primer
+> https://news.ycombinator.com/item?id=38056547
+
 https://news.ycombinator.com/item?id=37970308
 
 https://www.infoq.com/news/2023/10/uber-up-cloud-microservices/

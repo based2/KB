@@ -27,6 +27,8 @@ https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest
 https://en.wikipedia.org/wiki/Spin_isomers_of_hydrogen
 
 # News
+https://newatlas.com/automotive/avl-water-injected-hydrogen-engine/
+
 https://terraformindustries.wordpress.com/2023/08/16/how-to-produce-green-hydrogen-for-1-kg/
 >
 

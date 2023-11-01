@@ -234,6 +234,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://ghostbsd.org/news/GhostBSD_23.10.1_Now_Available
+
 https://www.midnightbsd.org/notes/
 >
 

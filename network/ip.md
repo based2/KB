@@ -1,6 +1,8 @@
 https://datatracker.ietf.org/doc/html/rfc791
 > https://news.ycombinator.com/item?id=28389173
 
+https://datatracker.ietf.org/doc/html/rfc5211 2008 An Internet Transition Plan from IPv4 to IPv6
+
 http://ifconfig.co/
 > https://news.ycombinator.com/item?id=26632178
 
@@ -92,6 +94,8 @@ https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-
 >
 
 # News
+https://stackoverflow.com/questions/73128792/matching-simple-ip-addresses-in-yara-using-hexadecimal-strings
+
 https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/
 > https://news.ycombinator.com/item?id=37869220
 

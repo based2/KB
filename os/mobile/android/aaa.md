@@ -3,6 +3,8 @@ https://lineageos.org/
 
 https://tuxphones.com/postmarketos-linux-live-usb-fastboot-network-boot/
 
+https://arstechnica.com/gadgets/2023/10/android-14-review-theres-always-next-year/
+
 https://blog.google/products/android/introducing-privacy-sandbox-android/
 > https://news.ycombinator.com/item?id=30360590
 

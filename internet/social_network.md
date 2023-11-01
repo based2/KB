@@ -101,6 +101,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps
+> https://news.ycombinator.com/item?id=38055947
+
 https://thehill.com/opinion/technology/4165412-europe-is-changing-social-media-for-the-better-the-us-can-do-it-too/
 > https://news.ycombinator.com/item?id=37279868
 

@@ -26,6 +26,15 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://herman.bearblog.dev/how-bear-does-analytics-with-css/
+> https://news.ycombinator.com/item?id=38095699
+
+https://github.com/gorhill/uBlock/releases/tag/1.53.0
+> https://news.ycombinator.com/item?id=38094620
+
+https://andadinosaur.com/youtube-s-anti-adblock-and-ublock-origin
+> https://news.ycombinator.com/item?id=38061187
+
 https://news.ycombinator.com/item?id=37974187
 
 https://news.ycombinator.com/item?id=37862963

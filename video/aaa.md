@@ -118,6 +118,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://fullystacked.net/posts/av1/
+> https://news.ycombinator.com/item?id=38083588
+
+https://old.reddit.com/r/linux/comments/17het7f/xrdp_with_h264_codec_brings_immense_performance/
+> https://news.ycombinator.com/item?id=38050983
+
 https://code.videolan.org/videolan/dav1d/-/releases/1.3.0
 
 https://github.com/ozmartian/vidcutter

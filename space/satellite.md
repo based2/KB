@@ -66,6 +66,8 @@ https://spacepolicyonline.com/news/another-russian-spacecraft-at-iss-has-a-coola
 
 https://www.theregister.com/2023/08/05/iss_boiling_experiment/
 
+https://www.theregister.com/2023/10/26/spacewalking_cosmonauts_find_iss_leak/
+
 ## Tianhe
 https://www.globaltimes.cn/page/202107/1227953.shtml
 

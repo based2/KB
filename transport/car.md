@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091
+> https://news.ycombinator.com/item?id=38057110
+
 https://edition.cnn.com/travel/stella-terra-off-road-solar-powered-suv-morocco-hnk-spc/index.html
 
 https://www.washingtonpost.com/business/2023/07/25/chevy-bolt-ev/

@@ -169,6 +169,9 @@ https://eddieonai.substack.com/p/ai-weekly-update-breaking-boundaries
 https://www.imperialviolet.org/2023/07/29/voice-recognition.html
 > https://news.ycombinator.com/item?id=36928605
 
+https://github.com/huggingface/distil-whisper
+> https://news.ycombinator.com/item?id=38093353
+
 # text2Speech
 https://dongchaoyang.top/text-to-sound-synthesis-demo/
 > https://news.ycombinator.com/item?id=32384074

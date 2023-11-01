@@ -111,9 +111,13 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 ## 2023
+citrixbleed
+
 HTTP/2 Rapid Reset Attack
 
 Blastburst
+
+zenbleed
 
 https://downfall.page/ GDS intel
 >
@@ -249,12 +253,13 @@ https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/
 
 https://www.cyberark.com/resources/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-to-cloud-apps Golden SAML
 
-
 https://en.wikipedia.org/wiki/Triton_(malware)
 
 https://en.wikipedia.org/wiki/2017_Ukraine_ransomware_attacks
 
 ## 2016
+https://en.wikipedia.org/wiki/The_Shadow_Brokers - EternalBlue SMBv1 exploit
+
 https://en.wikipedia.org/wiki/Dirty_COW Linux
 
 https://en.wikipedia.org/wiki/Badlock Windows Samba  

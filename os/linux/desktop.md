@@ -103,6 +103,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://trinitydesktop.org/newsentry.php?entry=2023.10.29
+> https://news.ycombinator.com/item?id=38059082
+
+https://pointieststick.com/2023/10/27/these-past-2-weeks-in-kde-wayland-color-management-the-desktop-cube-returns-and-optional-shadows-in-spectacle/
+
 https://news.ycombinator.com/item?id=38031361
 
 https://news.ycombinator.com/item?id=37876896 wayland

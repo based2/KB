@@ -26,6 +26,9 @@ https://zfsbootmenu.org/
 
 https://news.ycombinator.com/item?id=37873486
 
+https://jro.io/truenas/openzfs/#draid
+> https://news.ycombinator.com/item?id=38050853
+
 https://docs.zfsbootmenu.org/en/v2.2.x/#
 > https://news.ycombinator.com/item?id=37113917
 
@@ -59,6 +62,8 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://news.ycombinator.com/item?id=38049287 metadata
+
 https://archive.fosdem.org/2022/schedule/event/misc_ntfs_rust/
 
 https://dbohdan.com/clean-mount-lists

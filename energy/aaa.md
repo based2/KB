@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://flameeyes.blog/2023/08/13/usb-power-delivery-for-hobby-projects/
+> https://news.ycombinator.com/item?id=38032169
+
 https://news.ycombinator.com/item?id=37610623
 
 https://news.ycombinator.com/item?id=37878587

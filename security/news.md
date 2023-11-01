@@ -1,3 +1,7 @@
+https://www.bloomberg.com/news/articles/2023-10-30/hackers-accessed-632-000-email-addresses-at-defense-doj
+
+https://freenet.org/blog/882/zero-knowledge-proofs-and-anonymous-reputation-in-freenet.html
+
 https://nvd.nist.gov/vuln/detail/CVE-2023-41763 skype
 
 https://www.reuters.com/business/aerospace-defense/boeing-assessing-lockbit-hacking-gang-threat-sensitive-data-leak-2023-10-27/

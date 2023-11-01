@@ -27,6 +27,9 @@ https://duckdb.org/2022/07/27/art-storage.html
 
 https://news.ycombinator.com/item?id=37003918
 
+https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html
+> https://news.ycombinator.com/item?id=38089980
+
 https://blog.ferretdb.io/ferretdb-1-0-ga-opensource-mongodb-alternative/
 > https://news.ycombinator.com/item?id=35539464
 

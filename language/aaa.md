@@ -182,8 +182,6 @@ https://itnext.io/im-changing-how-i-review-code-dbf212507e5f
 
 https://lp.jetbrains.com/qodana/
 
-sonar
-
 https://blog.palantir.com/code-review-best-practices-19e02780015f
 > https://news.ycombinator.com/item?id=28554036
 
@@ -287,6 +285,9 @@ https://news.ycombinator.com/item?id=33774085
 
 https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-era-ai
 > https://news.ycombinator.com/item?id=37277191
+
+https://github.com/IonicaBizau/node-cobol
+> https://news.ycombinator.com/item?id=38023870
 
 ## LISP
 http://www.paulgraham.com/bel.html

@@ -47,6 +47,8 @@ https://latex-cookbook.net/
 https://vlmantova.github.io/bookml/
 
 #
+https://news.ycombinator.com/item?id=38054267
+
 https://news.ycombinator.com/item?id=38045262
 
 https://github.com/rguiscard/fossil-notebook-demo

@@ -317,6 +317,9 @@ https://llm-attacks.org/
 
 https://news.ycombinator.com/item?id=37872147
 
+https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
+> https://lobste.rs/s/ftpxug/welcome_offensive_ml_framework
+
 # Incident
 https://www.bleepingcomputer.com/news/security/shelltorch-flaws-expose-ai-servers-to-code-execution-attacks/
 
@@ -426,6 +429,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://blog.research.google/2017/04/federated-learning-collaborative.html
+> https://eprint.iacr.org/2017/281
+
 https://news.ycombinator.com/item?id=38042954
 
 https://mathstodon.xyz/@tao/111287749336059662

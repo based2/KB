@@ -438,6 +438,9 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://www.latimes.com/business/technology/story/2023-10-27/apple-watches-violate-patents-held-by-orange-county-tech-company-us-international-trade-commission-finds
+> https://news.ycombinator.com/item?id=38059668
+
 https://arstechnica.com/gadgets/2023/07/with-macos-sonoma-intel-macs-are-still-getting-fewer-updates-than-they-used-to/
 
 https://mastodon.social/@stroughtonsmith/110708615280659758
@@ -503,6 +506,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures
+> https://news.ycombinator.com/item?id=38089342
+
 https://news.ycombinator.com/item?id=37333077 vm
 
 https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html

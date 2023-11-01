@@ -64,6 +64,8 @@ https://en.wikipedia.org/wiki/Intelink
 > https://news.ycombinator.com/item?id=28984602
 
 # News
+https://thenewstack.io/a-visit-to-the-physical-internet-archive/
+
 https://blog.archive.org/2023/08/17/what-the-hachette-v-internet-archive-decision-means-for-our-library/
 > https://news.ycombinator.com/item?id=37166994
 

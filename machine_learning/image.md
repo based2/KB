@@ -370,6 +370,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/
+
 https://news.ycombinator.com/item?id=37255280
 
 https://generated.photos/human-generator/

@@ -1,5 +1,9 @@
 https://suricata.io/
 
+https://www.malwarebytes.com/blog/news/2017/09/explained-yara-rules
+
+https://github.com/InQuest/awesome-yara
+
 https://www.snort.org/ Network Intrusion Detection and Prevention System
 > https://news.ycombinator.com/item?id=31534316
 

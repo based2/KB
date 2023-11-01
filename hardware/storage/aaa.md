@@ -53,6 +53,11 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://liliputing.com/adata-launches-the-first-usb4-external-ssd-with-speeds-up-to-3800-mb-s/
+:x
+https://www.microsoft.com/en-us/research/project/project-silica/
+> https://news.ycombinator.com/item?id=38056035
+
 https://michael.stapelberg.ch/posts/2023-10-25-my-all-flash-zfs-network-storage-build/
 > https://news.ycombinator.com/item?id=38034797
 

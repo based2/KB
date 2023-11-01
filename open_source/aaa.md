@@ -136,6 +136,9 @@ https://justine.lol/redbean2/
 > https://news.ycombinator.com/item?id=31764521
 > https://news.ycombinator.com/item?id=31952678
 
+https://redbean.dev/
+> https://news.ycombinator.com/item?id=38055832
+
 # IM
 https://framapiaf.org/about
 

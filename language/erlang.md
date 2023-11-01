@@ -189,6 +189,8 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/
+
 http://blog.syncpup.com/posts/erlang-the-unix-way.html
 >
 

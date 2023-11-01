@@ -69,6 +69,9 @@ https://petition.parliament.uk/
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
 # News
+https://umarbutler.com/how-i-built-the-largest-open-database-of-australian-law/ au
+> https://news.ycombinator.com/item?id=38057759
+
 https://yro.slashdot.org/story/23/06/02/2023242/us-judge-orders-lawyers-to-sign-ai-pledge-warning-chatbots-make-stuff-up
 
 https://news.ycombinator.com/item?id=36092914 Lawyer caught submitting ChatGPT-fabricated citations to SDNY

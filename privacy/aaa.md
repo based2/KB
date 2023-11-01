@@ -103,6 +103,13 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/
+> https://news.ycombinator.com/item?id=38081633
+
+https://www.aalto.fi/en/news/online-games-use-dark-designs-to-collect-player-data
+
+https://www.theregister.com/2023/10/26/privacy_advocate_challenges_youtube/
+
 https://9to5google.com/2023/10/27/google-anc-earbuds-heart-rate/
 > https://news.ycombinator.com/item?id=38045342
 

@@ -69,6 +69,13 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://theintercept.com/2023/10/29/william-nordhaus-climate-economics/
+
+https://theintercept.com/2023/10/25/cop28-uae-oil-climate-sultan-al-jaber/
+
+https://www.nature.com/articles/s41586-022-05108-y
+> https://news.ycombinator.com/item?id=38053586
+
 https://www.ucdavis.edu/climate/news/adding-crushed-rock-farmland-pulls-carbon-out-air
 > https://news.ycombinator.com/item?id=38015169
 

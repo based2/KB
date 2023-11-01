@@ -164,6 +164,12 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/
+> https://news.ycombinator.com/item?id=38095542
+
+https://sollecitom.github.io/software-product-development-blog/posts/2023/2023-10-21-product-manager-role-is-a-mistake/
+> https://news.ycombinator.com/item?id=38058638
+
 https://www.nngroup.com/articles/common-knowledge-effect/
 > https://news.ycombinator.com/item?id=37964682
 

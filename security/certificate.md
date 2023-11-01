@@ -37,6 +37,8 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incident
+https://news.ycombinator.com/item?id=38058658
+
 https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/
 > https://news.ycombinator.com/item?id=37249096
 

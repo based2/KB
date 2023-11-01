@@ -146,6 +146,8 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://news.ycombinator.com/item?id=38088538
+
 https://github.com/facebookresearch/MetaCLIP
 > https://news.ycombinator.com/item?id=38023544
 

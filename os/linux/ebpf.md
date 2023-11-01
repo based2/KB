@@ -118,3 +118,6 @@ https://blog.cloudnativefolks.org/ebpf-for-cybersecurity-part-1
 
 https://twitter.com/tianyin_xu/status/1671857283263868930
 > https://news.ycombinator.com/item?id=36438831
+
+https://odigos.io/blog/ebpf-instrumentation-faster-than-manual
+> https://news.ycombinator.com/item?id=38069659

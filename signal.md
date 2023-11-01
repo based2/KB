@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.radioworld.com/news-and-business/business-and-law/fcc-wants-to-bolster-amateur-radio
+> https://news.ycombinator.com/item?id=38052577
+
 http://www.websdr.org/
 > https://news.ycombinator.com/item?id=38032257
 

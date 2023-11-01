@@ -35,6 +35,15 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://mjg59.dreamwidth.org/68350.html
+> https://news.ycombinator.com/item?id=38095276
+
+https://news.ycombinator.com/item?id=38088856
+
+https://netflixtechblog.com/debugging-a-fuse-deadlock-in-the-linux-kernel-c75cd7989b6d?gi=8c4512a6f372
+
+https://www.phoronix.com/news/Linux-6.6-Great-Features
+
 https://admccartney.mur.at/programming/idkproc/
 > https://news.ycombinator.com/item?id=38009372
 

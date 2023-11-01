@@ -16,6 +16,8 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://www.futureflight.aero/news-article/2023-10-26/betas-electric-airplane-lands-air-force-base-florida
+
 https://airportsim.com/
 
 https://news.ycombinator.com/item?id=37916306

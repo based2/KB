@@ -189,6 +189,8 @@ https://p-org.github.io/P/whatisP/
 https://tokio.rs/blog/2023-01-03-announcing-turmoil
 > https://news.ycombinator.com/item?id=37163187
 
+https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing-distributed-systems/
+
 # concurrencyngs
 
 # News

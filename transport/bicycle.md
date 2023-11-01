@@ -13,3 +13,7 @@ https://www.bikeradar.com/news/shimano-three-pulley-rear-derailleur-patent/
 > https://news.ycombinator.com/item?id=34857116
 
 https://news.ycombinator.com/item?id=36914085
+
+https://pedalcell.com/
+
+https://vhelio.org/

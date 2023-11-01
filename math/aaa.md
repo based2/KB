@@ -144,6 +144,14 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/
+> https://news.ycombinator.com/item?id=38029182
+
+https://news.ycombinator.com/item?id=38049774
+
+https://www.feynmanlectures.caltech.edu/I_22.html
+> https://news.ycombinator.com/item?id=38044997
+
 https://news.ycombinator.com/item?id=38024418
 
 https://mathenchant.wordpress.com/2023/10/17/marvelous-arithmetics-of-distance/

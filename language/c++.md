@@ -59,6 +59,10 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/
+
+https://news.ycombinator.com/item?id=38056949
+
 https://reductor.dev/cpp/2023/08/10/the-downsides-of-coroutines.html
 
 https://www.foonathan.net/2023/08/stop-writing-functions/

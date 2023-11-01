@@ -58,6 +58,9 @@ https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-conte
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://github.com/IAmStoxe/wirehole
+> https://news.ycombinator.com/item?id=38051016
+
 https://news.ycombinator.com/item?id=38021347
 
 https://psirt.global.sonicwall.com/vuln-detail/SNWLID-2023-0012

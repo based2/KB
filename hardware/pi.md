@@ -17,6 +17,10 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://www.cnx-software.com/2023/10/29/review-razberry-7-pro-z-wave-raspberry-pi-hat-z-uno2-z-wave-board/
+
+https://www.cnx-software.com/2023/10/12/raspberry-pi-os-upgraded-to-debian-12-bookworm/
+
 https://news.ycombinator.com/item?id=37972991
 
 https://news.ycombinator.com/item?id=37920682

@@ -1,3 +1,6 @@
+https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html
+> https://news.ycombinator.com/item?id=38056599
+
 https://github.com/yunuscadirci/XboxOneDirectoryTraversal/
 
 https://www.bleepingcomputer.com/news/security/new-fractureiser-malware-used-curseforge-minecraft-mods-to-infect-windows-linux/

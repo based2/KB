@@ -112,6 +112,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://www.keephq.dev/post/vendor-lock-in-is-in-the-small-details
+> https://news.ycombinator.com/item?id=38086082
+
 https://grafana.com/blog/2023/08/29/grafana-pyroscope-1.0-release-continuous-profiling/
 
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogMonitoringTarpit

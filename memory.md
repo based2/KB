@@ -136,3 +136,6 @@ https://samwho.dev/memory-allocation/
 https://jvns.ca/blog/2023/05/25/new-playground--memory-spy/
 
 https://memory-spy.wizardzines.com/
+
+https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.txt
+> https://news.ycombinator.com/item?id=38052564

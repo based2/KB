@@ -16,3 +16,5 @@ https://medium.com/deep-learning-reviews/every-model-learned-by-gradient-descent
 
 https://cgad.ski/blog/when-gradient-descent-is-a-kernel-method.html
 > https://news.ycombinator.com/item?id=38045665
+
+https://blog.research.google/2023/09/re-weighted-gradient-descent-via.html

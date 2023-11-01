@@ -6,6 +6,11 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://engineering.fb.com/2023/10/23/developer-tools/5-things-you-didnt-know-about-buck2/
+
+https://www.kurtosis.com/
+> https://news.ycombinator.com/item?id=38048148
+
 https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative
 > https://news.ycombinator.com/item?id=36744450
 

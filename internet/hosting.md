@@ -18,6 +18,8 @@ https://rohanrd.xyz/posts/why-you-should-start-self-hosting/
 
 https://news.ycombinator.com/item?id=37964917
 
+https://rubenerd.com/revisiting-textpattern/
+
 # Static
 https://outstatic.com/
 > https://news.ycombinator.com/item?id=33306029
