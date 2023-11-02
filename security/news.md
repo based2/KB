@@ -1,3 +1,5 @@
+https://thecontractor.io/data-bouncing/
+
 https://www.bloomberg.com/news/articles/2023-10-30/hackers-accessed-632-000-email-addresses-at-defense-doj
 
 https://freenet.org/blog/882/zero-knowledge-proofs-and-anonymous-reputation-in-freenet.html

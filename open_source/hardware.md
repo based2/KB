@@ -144,6 +144,8 @@ https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV 
 https://news.ycombinator.com/item?id=37893555
 
 # News
+https://slimbook.es/en/faq#why-choose-slimbook
+
 https://github.com/fellowgeek/esp32-relay-board
 > https://news.ycombinator.com/item?id=38051380
 

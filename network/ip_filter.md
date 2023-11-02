@@ -417,9 +417,6 @@ block from any to 179.43.159.195
 block from any to 180.218.6.191
 # https://www.abuseipdb.com/check/182.180.57.72
 block from any to 182.180.57.72
-block from any to 185.199.111.133
-# https://www.abuseipdb.com/check/185.199.111.154
-block from any to 185.199.111.154
 # https://www.elastic.co/security-labs/introducing-the-ref5961-intrusion-set EAGERBEE
 block from any to 185.82.217.164
 # https://www.virustotal.com/gui/url/fa558b5ed8e8551d3b5236442ae59db9d79be5a8ed420f8758a7f209c10227ca/details https://www.abuseipdb.com/check/185.107.56.194

@@ -149,6 +149,9 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://status.grammarly.com/incidents/52qjsq1fcrr3
+> https://news.ycombinator.com/item?id=38115679
+
 https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-code-execution-flaw-in-vcenter-server/
 
 https://news.ycombinator.com/item?id=37820772

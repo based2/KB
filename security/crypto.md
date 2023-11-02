@@ -185,6 +185,9 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://last-chance-for-eidas.org/
+> https://news.ycombinator.com/item?id=38109494
+
 https://news.ycombinator.com/item?id=38092272
 
 https://groups.google.com/a/list.nist.gov/g/pqc-forum/c/W2VOzy0wz_E/m/LjmQyMurBQAJ Re: Kyber security level?

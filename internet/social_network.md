@@ -101,6 +101,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://martinfowler.com/articles/2023-social-media.html
+> https://news.ycombinator.com/item?id=38116498
+
 https://www.theguardian.com/lifeandstyle/2023/oct/28/its-quite-soul-destroying-how-we-fell-out-of-love-with-dating-apps
 > https://news.ycombinator.com/item?id=38055947
 

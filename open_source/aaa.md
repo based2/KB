@@ -252,6 +252,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://joinup.ec.europa.eu/collection/open-source-observatory-osor/osor-community-award-2023-voting#vote
+
 https://www.verto.sh/
 > https://news.ycombinator.com/item?id=38024456
 

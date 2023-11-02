@@ -53,6 +53,9 @@ https://scriv.ai/guides/retrieval-augmented-generation-overview/
 > https://news.ycombinator.com/item?id=37261198
 
 # News
+https://authory.com/blog/how-ai-detectors-are-destroying-livelihoods
+> https://news.ycombinator.com/item?id=38101219
+
 https://news.ycombinator.com/item?id=38040591
 
 https://jina.ai/news/jina-ai-launches-worlds-first-open-source-8k-text-embedding-rivaling-openai/

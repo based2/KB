@@ -57,3 +57,6 @@ https://github.com/tristanisham/minigrep-zig
 
 https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology
 > https://news.ycombinator.com/item?id=36173519
+
+https://developer.apple.com/forums/thread/738862
+> https://news.ycombinator.com/item?id=38104554

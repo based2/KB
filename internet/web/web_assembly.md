@@ -82,6 +82,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://developer.chrome.com/blog/wasmgc/
+> https://news.ycombinator.com/item?id=38109020
+
 https://research.swtch.com/v6/
 > https://news.ycombinator.com/item?id=38056476
 

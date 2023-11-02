@@ -59,6 +59,9 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection
+> https://news.ycombinator.com/item?id=38097984
+
 https://thenewstack.io/bjarne-stroustrups-plan-for-bringing-safety-to-c/
 
 https://news.ycombinator.com/item?id=38056949

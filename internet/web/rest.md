@@ -72,6 +72,9 @@ https://news.ycombinator.com/item?id=36381764
 https://github.com/exogee-technology/graphweaver
 
 #
+https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs
+> https://news.ycombinator.com/item?id=38103310
+
 https://github.com/orbitalapi/orbital data gateway that automates the integration, transformation and discovery of data from data sources (API’s, databases, message brokers) across your enterprise
 > https://news.ycombinator.com/item?id=38012311
 

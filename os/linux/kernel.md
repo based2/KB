@@ -35,6 +35,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help
+> https://news.ycombinator.com/item?id=38102023
+
 https://mjg59.dreamwidth.org/68350.html
 > https://news.ycombinator.com/item?id=38095276
 

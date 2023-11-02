@@ -40,6 +40,9 @@ https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology
+> https://news.ycombinator.com/item?id=38114526
+
 https://bellard.org/ts_server/ts_zip.html
 > https://news.ycombinator.com/item?id=37152978
 

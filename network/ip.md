@@ -82,6 +82,12 @@ https://www.cse.wustl.edu/~jain/cis788-99/ftp/voip_protocols/
 > https://news.ycombinator.com/item?id=27323442
 
 # Security
+https://www.virustotal.com/gui/home/url
+
+https://www.abuseipdb.com
+
+https://threatfox.abuse.ch/browse/
+
 https://github.com/yggdrasil-network/yggdrasil-go Early-stage implementation of an end-to-end encrypted IPv6 network
 > https://news.ycombinator.com/item?id=27577201
 
@@ -91,7 +97,6 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 
 #
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
->
 
 # News
 https://stackoverflow.com/questions/73128792/matching-simple-ip-addresses-in-yara-using-hexadecimal-strings

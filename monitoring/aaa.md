@@ -91,6 +91,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # Incident
+https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-managers-php-form-actions-42739
+
 https://vigilance.fr/vulnerabilite/Splunk-App-for-Lookup-File-Editing-traversee-de-repertoire-41397
 
 https://labs.jumpsec.com/advisory-cve-2022-37832-mutiny-network-monitoring-appliance-hardcoded-credentials/

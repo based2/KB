@@ -20,6 +20,8 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
 
 #
+https://www.crowdsec.net/blog/netgear-rce-and-how-vulnerabilities-persist-in-the-wild
+
 https://www.bleepingcomputer.com/news/security/citrix-bleed-exploit-lets-hackers-hijack-netscaler-accounts/
 
 https://vulncheck.com/blog/cisco-implants

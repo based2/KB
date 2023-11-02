@@ -147,6 +147,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 #
+https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759
+
 https://github.com/ImageMagick/ImageMagick/discussions/6826
 > https://news.ycombinator.com/item?id=38055816
 

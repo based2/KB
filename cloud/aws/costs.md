@@ -38,3 +38,5 @@ https://pauley.me/post/2023/spot-price-trends/
 > https://news.ycombinator.com/item?id=35802157
 
 https://news.ycombinator.com/item?id=37309762
+
+https://dzidas.com/cloud/2023/11/01/luck_or_skill/

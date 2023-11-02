@@ -117,7 +117,7 @@ https://news.ycombinator.com/item?id=33131480 Show HN: Garnix, fast and easy CI 
 
 # CD
 
-ArgoCD
+k8s: ArgoCD
 
 https://pet2cattle.com/2023/02/argocd-pull-request-applicationsets
 
@@ -141,6 +141,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://about.gitlab.com/releases/2023/10/31/security-release-gitlab-16-5-1-16-4-2-16-3-6-released/
+
 https://confluence.atlassian.com/security/cve-2023-22518-improper-authorization-vulnerability-in-confluence-data-center-and-server-1311473907.html
 > https://news.ycombinator.com/item?id=38085387
 
@@ -453,6 +455,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://phauer.com/2018/code-review-guidelines/#code-reviews-guidelines-for-the-author
+
 https://thenewstack.io/open-source-jira-alternative-plane-lands/
 
 https://www.openmymind.net/Fast-Path-To-Burnout-Not-Deploying/

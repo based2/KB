@@ -103,6 +103,9 @@ https://statut-diffusion-sirene.insee.fr/
 > https://www.reddit.com/r/france/comments/x3zic2/attention_aux_arnaques_jai_re%C3%A7u_cette_lettre/
 
 # News
+https://dig.watch/updates/eu-data-regulator-decided-to-ban-personalised-advetising-on-facebook-and-instagram
+> https://news.ycombinator.com/item?id=38111483
+
 https://stackdiary.com/german-court-bans-linkedin-from-ignoring-do-not-track-signals/
 > https://news.ycombinator.com/item?id=38081633
 
