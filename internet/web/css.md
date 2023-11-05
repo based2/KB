@@ -128,6 +128,9 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1
+> https://news.ycombinator.com/item?id=38145625
+
 https://chriscoyier.net/2023/10/03/being-picky-about-a-css-reset-for-fun-pleasure/
 > https://news.ycombinator.com/item?id=37890725
 

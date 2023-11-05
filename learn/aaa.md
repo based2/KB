@@ -118,6 +118,8 @@ https://news.ycombinator.com/item?id=35957811 CS 61B Data Structures, Spring 202
 https://courses.cs.washington.edu/courses/cse391/23sp/
 > https://news.ycombinator.com/item?id=36442209
 
+https://news.ycombinator.com/item?id=38150825
+
 # Meta
 https://metacognitive.me/memory-palace/
 > https://news.ycombinator.com/item?id=28640429
@@ -140,6 +142,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://github.com/ankitects/anki/releases/tag/23.10
+> https://news.ycombinator.com/item?id=38134777
+
 https://giansegato.com/essays/edutainment-is-not-learning
 
 https://www.cs.cmu.edu/~15122/about.shtml

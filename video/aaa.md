@@ -118,6 +118,12 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://rocknerd.co.uk/2023/11/04/the-next-frontier-in-ip-parasites-codec-royalties-on-content/
+> https://news.ycombinator.com/item?id=38149472
+
+https://bitmovin.com/av1/av1-encoding-guide/
+> https://news.ycombinator.com/item?id=38130089
+
 https://fullystacked.net/posts/av1/
 > https://news.ycombinator.com/item?id=38083588
 

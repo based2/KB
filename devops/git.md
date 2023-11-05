@@ -274,6 +274,14 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://calebhearth.com/git-method-history
+> https://news.ycombinator.com/item?id=38153309
+
+https://news.ycombinator.com/item?id=38124845
+
+https://github.com/iterative/dvc
+> https://news.ycombinator.com/item?id=38120493
+
 https://jvns.ca/blog/2023/11/01/confusing-git-terminology/
 > https://news.ycombinator.com/item?id=38112951
 

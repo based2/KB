@@ -188,6 +188,9 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://http.dev/999
+> https://news.ycombinator.com/item?id=38127131
+
 https://susam.net/blog/timing-with-curl.html
 > https://news.ycombinator.com/item?id=37118045
 

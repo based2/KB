@@ -172,6 +172,9 @@ https://news.ycombinator.com/item?id=29441272 Show HN: I wrote a book about usin
 https://news.ycombinator.com/item?id=29300081 AWS launching Lambda URLs, allowing executions without API Gateway -> taken down
 > https://github.com/aws/aws-sdk-js/blob/master/CHANGELOG.md Premature launch
 
+https://github.com/nsriram/lambda-the-terraform-way
+> https://news.ycombinator.com/item?id=25588898
+
 https://aws.amazon.com/en/blogs/compute/node-js-14-x-runtime-now-available-in-aws-lambda/
 
 https://aws.amazon.com/en/blogs/compute/python-3-9-runtime-now-available-in-aws-lambda/

@@ -65,6 +65,9 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://github.com/BurntSushi/rsc-regexp
+> https://news.ycombinator.com/item?id=38124114
+
 https://github.com/travisdowns/polyregex
 > https://news.ycombinator.com/item?id=36809239
 

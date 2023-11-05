@@ -273,6 +273,8 @@ https://github.com/isidentical/refactor
 # UI
 https://github.com/hoffstadt/DearPyGui
 
+https://news.ycombinator.com/item?id=38147052
+
 # Infra
 https://bluebanquise.com/
 

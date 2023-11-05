@@ -77,6 +77,9 @@ https://www.openvas.org/
 https://pkg.go.dev/vuln/
 
 # News
+https://infosec.exchange/@firstdotorg/111336457504674343
+> https://lobste.rs/s/yhhcss/official_release_cvss_v4_0
+
 https://daniel.haxx.se/blog/2023/08/26/cve-2020-19909-is-everything-that-is-wrong-with-cves/
 > https://news.ycombinator.com/item?id=37267940
 

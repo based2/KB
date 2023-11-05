@@ -39,6 +39,9 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 #
+https://www.audacityteam.org/blog/audacity-3-4/
+> https://news.ycombinator.com/item?id=38122396
+
 http://mikebeauchamp.com/misc/sennheiser-hd-555-to-hd-595-mod/
 > https://news.ycombinator.com/item?id=36377875
 

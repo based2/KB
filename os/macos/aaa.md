@@ -270,6 +270,9 @@ https://bytecellar.com/2022/11/16/a-secret-apple-silicon-extension-to-accommodat
 https://github.com/below/HelloSilicon introduction to ARM64 assembly on Apple Silicon Macs
 > https://news.ycombinator.com/item?id=34128776
 
+# M3
+https://news.ycombinator.com/item?id=38125771
+
 # M2
 https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4
 > https://news.ycombinator.com/item?id=35470392

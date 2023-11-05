@@ -65,6 +65,9 @@ https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%2
 > https://news.ycombinator.com/item?id=27045771
 
 #
+https://www.cs.ru.nl/~freek/100/
+> https://news.ycombinator.com/item?id=38109327
+
 https://www.di.ens.fr/~cousot/AI/IntroAbsInt.html
 > https://news.ycombinator.com/item?id=38029136
 

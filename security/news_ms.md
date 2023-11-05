@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-365-users-get-workaround-for-something-went-wrong-errors/
 
 https://www.techspot.com/news/99949-latest-skype-vulnerability-can-reveal-ip-address-but.html
@@ -398,3 +400,5 @@ https://makosecblog.com/malware-dev/dll-unhooking-csharp/
 https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-appears-to-have-lost-the-source-code-of-an-office-component/
+
+https://news.ycombinator.com/item?id=38124937

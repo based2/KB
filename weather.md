@@ -35,6 +35,9 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1
+> https://news.ycombinator.com/item?id=38122631
+
 https://news.ycombinator.com/item?id=37020684
 
 https://news.ku.dk/all_news/2023/07/pay-dirt-for-ice-core-scientists-in-east-greenland-as-they-reach-bedrock/

@@ -175,6 +175,9 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://undeadly.org/cgi?action=article;sid=20231103065952
+> https://news.ycombinator.com/item?id=38125407
+
 https://isc.sans.edu/diary/After+28+years+SSLv2+is+still+not+gone+from+the+internet+but+were+getting+there/29908
 > https://news.ycombinator.com/item?id=38026797
 

@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://stackstorm.com/
+> https://news.ycombinator.com/item?id=38149595
+
 https://news.ycombinator.com/item?id=37175170
 
 https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/?utm_source=www.weekly.tf

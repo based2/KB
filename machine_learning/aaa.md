@@ -164,6 +164,8 @@ https://news.mit.edu/2023/new-dataset-arctic-images-will-spur-artificial-intelli
 > https://www.ll.mit.edu/r-d/datasets
 > https://news.ycombinator.com/item?id=36907324
 
+https://news.ycombinator.com/item?id=38149093
+
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
 > https://news.ycombinator.com/item?id=27722333
@@ -237,6 +239,8 @@ https://www.mufeedvh.com/llm-security/
 https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2023-04/adversarial_machine_learning_and_cybersecurity_v7_pdf_1.pdf
 
 https://news.ycombinator.com/item?id=37877605
+
+https://news.ycombinator.com/item?id=38150096
 
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
@@ -429,6 +433,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023
+> https://news.ycombinator.com/item?id=38143984
+
 https://blog.research.google/2017/04/federated-learning-collaborative.html
 > https://eprint.iacr.org/2017/281
 

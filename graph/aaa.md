@@ -112,6 +112,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/
+> https://news.ycombinator.com/item?id=38120497
+
 https://cacm.acm.org/news/275684-historic-algorithms-help-unlock-shortest-path-problem-breakthrough/fulltext
 > https://news.ycombinator.com/item?id=37275676
 

@@ -88,6 +88,9 @@ https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351
 https://github.com/clovaai/donut
 
 # News
+https://github.com/Danlock/gogosseract
+> https://news.ycombinator.com/item?id=38146154
+
 https://www.indiegogo.com/projects/opencv-5-support-non-profit-open-source-cv-ai
 > https://news.ycombinator.com/item?id=38102772
 

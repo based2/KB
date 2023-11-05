@@ -149,6 +149,15 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/
+> https://lobste.rs/s/nqzcfd/post_mortem_on_cloudflare_control_plane
+
+https://news.ycombinator.com/item?id=38149644
+
+https://news.ycombinator.com/item?id=38146738
+
+https://news.ycombinator.com/item?id=38127313
+
 https://status.grammarly.com/incidents/52qjsq1fcrr3
 > https://news.ycombinator.com/item?id=38115679
 
@@ -324,6 +333,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://sigops.org/s/conferences/hotos/2023/papers/ghemawat.pdf Towards Modern Development of Cloud Applications
+> https://news.ycombinator.com/item?id=38146809
+
 https://kerkour.com/why-cloud-bandwidth-is-so-expensive
 > https://news.ycombinator.com/item?id=38025788
 

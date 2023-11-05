@@ -103,6 +103,11 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt
+> https://news.ycombinator.com/item?id=38141173
+
+https://store.kde.org/p/1350981 mondrian
+
 https://trinitydesktop.org/newsentry.php?entry=2023.10.29
 > https://news.ycombinator.com/item?id=38059082
 

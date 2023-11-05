@@ -103,6 +103,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/
+> https://news.ycombinator.com/item?id=38145194
+
 https://double-trouble.dev/post/typescript-tips/
 
 https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html

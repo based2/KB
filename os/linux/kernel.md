@@ -35,6 +35,10 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://news.ycombinator.com/item?id=38114943
+
+https://lore.kernel.org/lkml/20231101-rust-binder-v1-0-08ba9197f637@google.com/
+
 https://www.davidrevoy.com/article995/how-a-kernel-update-broke-my-stylus-need-help
 > https://news.ycombinator.com/item?id=38102023
 

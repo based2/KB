@@ -67,5 +67,8 @@ https://github.com/aappleby/Wideboard linux kernel
 
 https://tympanus.net/Tutorials/WebGLLensRefraction/
 
+https://gpuweb.github.io/gpuweb/explainer/
+> https://news.ycombinator.com/item?id=38153585
+
 
 

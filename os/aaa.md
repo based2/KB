@@ -25,6 +25,12 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://remexre.com/stahl/dream
+> https://news.ycombinator.com/item?id=38137119
+
+https://sparrowsnews.com/2023/11/01/vivo-unveils-blueos-operating-system/
+> https://news.ycombinator.com/item?id=38108564
+
 https://news.ycombinator.com/item?id=37322794
 
 https://mhatta.medium.com/gnu-hurd-strikes-back-4021433d506d

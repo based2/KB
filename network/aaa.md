@@ -77,6 +77,8 @@ https://bloodhound.readthedocs.io/en/latest/data-analysis/bloodhound-gui.html
 https://github.com/BloodHoundAD/BloodHound/releases/tag/v4.3.1 5? neo4j Azure Powershell
 > https://github.com/SpecterOps/bloodhound-tools empty https://github.com/SpecterOps/chronology/blob/master/affiliated-tools.csv
 
+https://news.ycombinator.com/item?id=38149303
+
 # Tests
 https://docs.gns3.com/docs/
 

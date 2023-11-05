@@ -187,6 +187,10 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.lightreading.com/5g/3gpp-publishes-5g-broadcast-specs
+
+https://www.brookings.edu/articles/dont-be-fooled-net-neutrality-is-about-more-than-just-blocking-and-throttling/
+
 https://www.bleepingcomputer.com/news/security/chilean-telecom-giant-gtd-hit-by-the-rorschach-ransomware-gang/
 
 https://news.ycombinator.com/item?id=37857159

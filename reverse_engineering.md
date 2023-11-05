@@ -40,6 +40,8 @@ https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
 
 #
+https://news.ycombinator.com/item?id=38142734
+
 http://www.righto.com/2023/10/reverse-engineering-ethernet-backoff-on.html
 > https://news.ycombinator.com/item?id=38086894
 

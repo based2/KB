@@ -4,6 +4,12 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://www.heise.de/news/Keylogger-keyboard-leaks-passwords-via-Apple-s-Find-My-location-network-9344806.html
+> https://news.ycombinator.com/item?id=38126302
+
+https://www.theverge.com/2023/11/3/23944901/apple-iphone-ios-17-flipper-zero-attack-bluetooth
+> https://news.ycombinator.com/item?id=38131322
+
 https://support.apple.com/en-us/HT212650 Lockdown Mode
 
 https://community.cloudflare.com/t/advanced-tracking-and-fingerprinting-protection-leaks-dns-queries-to-apple-dns-server/559364/6

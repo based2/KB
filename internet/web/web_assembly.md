@@ -82,6 +82,12 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://www.fermyon.com/blog/introducing-spin-v2
+> https://news.ycombinator.com/item?id=38140242
+
+https://v8.dev/blog/wasm-gc-porting
+> https://news.ycombinator.com/item?id=38125348
+
 https://developer.chrome.com/blog/wasmgc/
 > https://news.ycombinator.com/item?id=38109020
 

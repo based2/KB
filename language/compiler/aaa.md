@@ -140,6 +140,8 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://iss.oden.utexas.edu/Publications/Papers/PLDI1994.pdf The Program Structure Tree: Computing Control Regions in Linear Time
+
 https://news.ycombinator.com/item?id=37941680
 
 https://news.ycombinator.com/item?id=37881699

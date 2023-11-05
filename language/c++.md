@@ -59,6 +59,9 @@ https://pcapplusplus.github.io/docs/quickstart
 https://github.com/Snaipe/Criterion
 
 #
+https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/
+> https://news.ycombinator.com/item?id=38140833
+
 https://www.sandordargo.com/blog/2023/11/01/cpp23-garbage-collection
 > https://news.ycombinator.com/item?id=38097984
 

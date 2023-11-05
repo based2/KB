@@ -196,6 +196,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://www.exim.org/
+> https://news.ycombinator.com/item?id=38146711
+
 https://mymangomail.com/
 > https://news.ycombinator.com/item?id=38017029
 

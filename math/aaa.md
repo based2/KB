@@ -144,6 +144,15 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/
+> https://news.ycombinator.com/item?id=38115128
+
+https://arxiv.org/abs/2311.00049 Kolmogorov two hidden layer neural network model with a continuous, discontinuous bounded or unbounded activation function in the second hidden layer can precisely represent continuous, discontinuous bounded and all unbounded multivariate functions, respectively
+> https://news.ycombinator.com/item?id=38148470
+
+https://github.com/lukas-blecher/LaTeX-OCR
+> https://news.ycombinator.com/item?id=38126623
+
 https://www.quantamagazine.org/a-new-generation-of-mathematicians-pushes-prime-number-barriers-20231026/
 > https://news.ycombinator.com/item?id=38029182
 

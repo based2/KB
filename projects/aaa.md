@@ -164,6 +164,12 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://www.amazingcto.com/tests-are-bad-for-developers/
+> https://news.ycombinator.com/item?id=38111986
+
+https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/
+> https://news.ycombinator.com/item?id=38149366
+
 https://ludic.mataroa.blog/blog/what-the-goddamn-hell-is-going-on-in-the-tech-industry/
 > https://news.ycombinator.com/item?id=38095542
 

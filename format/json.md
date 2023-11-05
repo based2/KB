@@ -76,6 +76,9 @@ http://argonaut.io/doc/quickstart/ scala
 https://github.com/AykutSarac/jsoncrack.com
 
 # News
+https://dave.cheney.net/paste/gophercon-sg-2023.html
+> https://news.ycombinator.com/item?id=38150833
+
 https://jless.io/
 > https://lobste.rs/s/jhezxj/jless_command_line_json_yaml_viewer
 

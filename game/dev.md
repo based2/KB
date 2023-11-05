@@ -154,6 +154,12 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://bevyengine.org/news/bevy-0-12/
+> https://news.ycombinator.com/item?id=38144417
+
+https://www2.cs.sfu.ca/~bbart/personal/masters-thesis.pdf Representations and srategies for games with imperfect information (1996)
+> https://news.ycombinator.com/item?id=38144772
+
 https://github.com/GaijinEntertainment/DagorEngine
 > https://news.ycombinator.com/item?id=38030050
 

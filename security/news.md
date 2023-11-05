@@ -1,3 +1,5 @@
+https://www.scmagazine.com/resource/pci-dss-4-0-things-to-do-by-march-2024
+
 https://thecontractor.io/data-bouncing/
 
 https://www.bloomberg.com/news/articles/2023-10-30/hackers-accessed-632-000-email-addresses-at-defense-doj

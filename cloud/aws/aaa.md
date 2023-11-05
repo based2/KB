@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://thenewstack.io/github-iam-private-creds-are-being-cryptojacked-by-elektra-leak/
+
 AMAZON-AES https://www.darkreading.com/cloud/elektra-leak-attackers-harvest-aws-cloud-keys-github-campaign
 
 https://blog.cloudsecuritypartners.com/rds-revealed-time-to-give-it-some-shade/

@@ -27,6 +27,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=38122061
+
 https://news.ycombinator.com/item?id=37969387
 
 https://news.ycombinator.com/item?id=37958143

@@ -23,6 +23,7 @@ https://medium.com/geekculture/pitfalls-of-java-parallel-streams-731fe0c1eb5f
 
 #
 https://openjdk.org/jeps/461 Stream Gatherers
+> https://news.ycombinator.com/item?id=38126150
 
 https://cr.openjdk.org/~vklang/Gatherers.html
 
