@@ -335,6 +335,13 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://labs.quansight.org/blog/building-scipy-with-flang
+> https://news.ycombinator.com/item?id=38196412
+
+https://linuxfr.org/news/l-installation-et-la-distribution-de-paquets-python-1-4
+
+https://news.ycombinator.com/item?id=38151451
+
 https://engineering.fb.com/2023/08/07/developer-tools/fixit-2-linter-meta/
 
 https://prefix.dev/blog/introducing_rip

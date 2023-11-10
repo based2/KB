@@ -68,6 +68,8 @@ https://petition.parliament.uk/
 
 https://www.dol.gov/agencies/eta/tradeact/petitioners
 
+https://www.gouvernement.fr/actualite/agora-lappli-pour-dialoguer-avec-le-gouvernement
+
 # News
 https://umarbutler.com/how-i-built-the-largest-open-database-of-australian-law/ au
 > https://news.ycombinator.com/item?id=38057759

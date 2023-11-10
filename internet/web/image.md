@@ -76,6 +76,9 @@ https://www.pixelicious.xyz/
 https://github.com/gotson/komga
 
 # Photography
+https://www.dpreview.com/news/7271416294/sony-announces-a9-iii-world-s-first-full-frame-global-shutter-camera
+> https://news.ycombinator.com/item?id=38201302
+
 http://mkweb.bcgsc.ca/fun/hdtr/
 > https://news.ycombinator.com/item?id=36978931
 

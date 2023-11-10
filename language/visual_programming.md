@@ -82,3 +82,5 @@ https://openexus.com/
 
 https://n8n.io/
 > https://news.ycombinator.com/item?id=37274052
+
+https://news.ycombinator.com/item?id=38158127

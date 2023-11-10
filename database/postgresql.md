@@ -156,6 +156,9 @@ https://www.heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-pro
 https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/
 > https://news.ycombinator.com/item?id=37100641
 
+https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html
+> https://news.ycombinator.com/item?id=38173141
+
 # Operations
 
 https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production

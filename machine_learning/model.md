@@ -146,6 +146,12 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 #
+https://news.ycombinator.com/item?id=38167310
+
+https://news.ycombinator.com/item?id=38159927
+
+https://news.ycombinator.com/item?id=38166420
+
 https://news.ycombinator.com/item?id=38126764
 
 https://github.com/langchain-ai/langchain/tree/master/templates

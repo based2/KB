@@ -39,6 +39,9 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 #
+https://www.phoronix.com/news/AOMedia-IAMF-Audio-Spec
+> https://news.ycombinator.com/item?id=38218785
+
 https://www.audacityteam.org/blog/audacity-3-4/
 > https://news.ycombinator.com/item?id=38122396
 

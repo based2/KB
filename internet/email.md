@@ -42,6 +42,8 @@ https://tweedegolf.nl/en/blog/86/introducing-mailcrab
 > https://github.com/tweedegolf/mailcrab Rust, ASLv2
 
 # Incident
+https://www-heise-de.translate.goog/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de
+> https://news.ycombinator.com/item?id=38212453
 
 https://www.exim.org/static/doc/security/CVE-2023-zdi.txt
 > https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/

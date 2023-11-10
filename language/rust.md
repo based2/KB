@@ -205,6 +205,9 @@ https://maciej.codes/2022-06-09-local-async.html
 https://ibraheem.ca/posts/too-many-web-servers/
 > https://news.ycombinator.com/item?id=37176960
 
+https://without.boats/blog/a-four-year-plan/
+> https://news.ycombinator.com/item?id=38178592
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -490,6 +493,12 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://corrode.dev/why-rust/
+> https://news.ycombinator.com/item?id=38207959
+
+https://blog.rust-lang.org/2023/11/09/parallel-rustc.html
+> https://news.ycombinator.com/item?id=38216176
+
 https://news.ycombinator.com/item?id=38099145
 
 https://flawless.dev/

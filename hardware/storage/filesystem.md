@@ -29,6 +29,9 @@ https://news.ycombinator.com/item?id=37873486
 https://jro.io/truenas/openzfs/#draid
 > https://news.ycombinator.com/item?id=38050853
 
+https://www.phoronix.com/news/OpenZFS-RAIDZ-Expansion
+> https://news.ycombinator.com/item?id=38207005
+
 https://docs.zfsbootmenu.org/en/v2.2.x/#
 > https://news.ycombinator.com/item?id=37113917
 

@@ -433,6 +433,10 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=38177409
+
+https://news.ycombinator.com/item?id=38166431
+
 https://magazine.sebastianraschka.com/p/ai-and-open-source-in-2023
 > https://news.ycombinator.com/item?id=38143984
 

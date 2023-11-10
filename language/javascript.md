@@ -636,6 +636,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://phuoc.ng/collection/html-dom/
+> https://news.ycombinator.com/item?id=38162435
+
 https://news.ycombinator.com/item?id=38149437
 
 https://github.com/jquery/jquery/milestone/7

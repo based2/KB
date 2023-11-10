@@ -103,6 +103,10 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=38176280
+
+https://news.ycombinator.com/item?id=38192037
+
 https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt
 > https://news.ycombinator.com/item?id=38141173
 

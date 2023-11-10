@@ -343,6 +343,8 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=38178297
+
 https://www.england.nhs.uk/digitaltechnology/digitising-connecting-and-transforming-health-and-care/fdp-faqs/
 
 https://news.ycombinator.com/item?id=38038239

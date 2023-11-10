@@ -11,6 +11,8 @@ https://arxiv.org/abs/2308.02945
 > https://news.ycombinator.com/item?id=37081891
 
 #
+https://news.ycombinator.com/item?id=38163412
+
 https://news.ycombinator.com/item?id=38137373
 
 https://blog.adafruit.com/2023/10/25/wild-linux-running-on-risc-v-emulated-in-scratch-riscv-linux-scratch/

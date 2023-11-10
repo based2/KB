@@ -5,6 +5,8 @@ Google TPU v4
 Telsa
 
 #
+https://news.ycombinator.com/item?id=38167373
+
 https://www.nvidia.com/en-us/geforce/news/game-ready-driver-dlss-3-naraka-vermintide-rtx-vsr/
 
 https://bits-chips.nl/artikel/going-analog-may-tame-ais-exploding-energy-needs/

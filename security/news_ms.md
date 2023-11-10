@@ -1,6 +1,9 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://news.ycombinator.com/item?id=38219568
+> https://www.heise.de/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9358925.html
+
 https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-365-users-get-workaround-for-something-went-wrong-errors/

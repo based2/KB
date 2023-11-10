@@ -169,6 +169,11 @@ https://underjord.io/unpacking-elixir-concurrency.html
 https://underjord.io/unpacking-elixir-observability.html
 > https://news.ycombinator.com/item?id=38015038
 
+https://www.leemeichin.com/posts/switching-to-elixir.html
+> https://news.ycombinator.com/item?id=38214644
+
+https://news.ycombinator.com/item?id=38175413
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

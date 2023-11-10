@@ -38,6 +38,8 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://news.ycombinator.com/item?id=38160079
+
 https://blog.everydayscientist.com/replace-peer-review-with-peer-replication/
 > https://news.ycombinator.com/item?id=37021264
 

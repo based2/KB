@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://github.com/theori-io/nrsc5
+> https://news.ycombinator.com/item?id=38157466
+
 https://news.ycombinator.com/item?id=38123526
 
 https://news.ycombinator.com/item?id=38098740

@@ -9,3 +9,5 @@ https://github.com/microsoft/ToRA
 
 https://e2b.dev/blog/ai-agents-vs-developers
 
+https://news.ycombinator.com/item?id=38208321
+

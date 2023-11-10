@@ -271,6 +271,8 @@ https://github.com/below/HelloSilicon introduction to ARM64 assembly on Apple Si
 > https://news.ycombinator.com/item?id=34128776
 
 # M3
+https://news.ycombinator.com/item?id=38214806
+
 https://news.ycombinator.com/item?id=38125771
 
 # M2
@@ -441,6 +443,13 @@ https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-d
 > https://news.ycombinator.com/item?id=30809226
 
 #
+https://news.ycombinator.com/item?id=38179773
+
+https://news.ycombinator.com/item?id=38179780
+
+https://www.macrumors.com/2023/11/10/8gb-ram-in-m3-macbook-pro-proves-the-bottleneck/
+> https://news.ycombinator.com/item?id=38220942
+
 https://www.latimes.com/business/technology/story/2023-10-27/apple-watches-violate-patents-held-by-orange-county-tech-company-us-international-trade-commission-finds
 > https://news.ycombinator.com/item?id=38059668
 
@@ -509,6 +518,9 @@ https://github.com/insidegui/VirtualBuddy Virtualize macOS 12 and later on Apple
 https://dortania.github.io/OpenCore-Legacy-Patcher/MODELS.html
 
 # News
+https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.html
+> https://news.ycombinator.com/item?id=38215413
+
 https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures
 > https://news.ycombinator.com/item?id=38089342
 

@@ -18,6 +18,8 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://asia.nikkei.com/Business/Energy/Indonesia-launches-Southeast-Asia-s-largest-floating-solar-plant
+
 https://www.ornl.gov/news/researchers-use-commercial-quantum-computer-identify-molecular-candidate-development-more
 
 https://www.semafor.com/article/07/28/2023/why-solar-power-is-booming-in-south-africa

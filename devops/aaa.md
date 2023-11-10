@@ -457,6 +457,13 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=38196173
+
+https://news.ycombinator.com/item?id=38193640
+
+https://github.com/Cicada-Software/cicada
+> https://news.ycombinator.com/item?id=38163973
+
 https://corecursive.com/platform-takes-the-pain/
 
 https://phauer.com/2018/code-review-guidelines/#code-reviews-guidelines-for-the-author

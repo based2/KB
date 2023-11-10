@@ -1,3 +1,9 @@
+https://www.bloomberg.com/news/articles/2023-11-10/world-s-biggest-bank-forced-to-trade-via-usb-stick-after-hack
+> https://news.ycombinator.com/item?id=38217820
+
+https://www.memorysafety.org/blog/sudo-first-stable-release/
+> https://news.ycombinator.com/item?id=38161016
+
 https://www.scmagazine.com/resource/pci-dss-4-0-things-to-do-by-march-2024
 
 https://thecontractor.io/data-bouncing/

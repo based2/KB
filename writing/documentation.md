@@ -46,6 +46,9 @@ https://latex-cookbook.net/
 
 https://vlmantova.github.io/bookml/
 
+# ml
+https://news.ycombinator.com/item?id=38201995
+
 #
 https://news.ycombinator.com/item?id=38054267
 

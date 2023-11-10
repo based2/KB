@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/
+> https://news.ycombinator.com/item?id=38196644
+
 https://blog.jetbrains.com/dotnet/2023/07/27/introducing-predictive-debugging-a-game-changing-look-into-the-future/
 > https://news.ycombinator.com/item?id=36940937
 

@@ -87,6 +87,9 @@ https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-ro
 > https://news.ycombinator.com/item?id=38091046
 
 # News
+https://spectrum.ieee.org/warehouse-robots
+> https://news.ycombinator.com/item?id=38183514
+
 https://arxiv.org/abs/2310.10959
 > https://news.ycombinator.com/item?id=38029171
 

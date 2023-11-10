@@ -27,6 +27,9 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://cortextual.net/
+> https://news.ycombinator.com/item?id=38149839
+
 https://vertette.github.io/post/funfactoruplink
 > https://news.ycombinator.com/item?id=38047861
 

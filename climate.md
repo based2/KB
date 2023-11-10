@@ -69,6 +69,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=38181308
+
 https://theintercept.com/2023/10/29/william-nordhaus-climate-economics/
 
 https://theintercept.com/2023/10/25/cop28-uae-oil-climate-sultan-al-jaber/

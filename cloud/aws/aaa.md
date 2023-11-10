@@ -66,6 +66,9 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://old.reddit.com/r/aws/comments/17rxig8/aws_wants_to_start_charging_for_all_allocated/
+> https://news.ycombinator.com/item?id=38219882
+
 https://thenewstack.io/github-iam-private-creds-are-being-cryptojacked-by-elektra-leak/
 
 AMAZON-AES https://www.darkreading.com/cloud/elektra-leak-attackers-harvest-aws-cloud-keys-github-campaign
@@ -140,6 +143,10 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://news.ycombinator.com/item?id=38210056
+
+https://dev.to/aws/aws-open-source-news-178-nmf
+
 https://fig.io/blog/post/fig-joins-aws
 
 https://news.ycombinator.com/item?id=37254198

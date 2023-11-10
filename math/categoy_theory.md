@@ -33,3 +33,5 @@ https://news.ycombinator.com/item?id=33423474
 
 https://topology.mitpress.mit.edu/
 > https://news.ycombinator.com/item?id=33601318
+
+https://news.ycombinator.com/item?id=38162779

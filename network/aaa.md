@@ -137,6 +137,12 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://twitter.com/ghost_motley/status/1721646985688601023
+> https://news.ycombinator.com/item?id=38171475
+
+https://hackaday.com/2023/11/07/all-about-cats-and-what-ethernet-classifications-mean-beyond-bigger-number-better/
+> https://news.ycombinator.com/item?id=38188567
+
 https://github.com/cozis/microtcp
 > https://news.ycombinator.com/item?id=38086598
 

@@ -44,6 +44,8 @@ https://itsdangerous.palletsprojects.com/en/2.0.x/index.html
 https://fusionauth.io/learn/expert-advice/tokens/anatomy-of-jwt
 > https://news.ycombinator.com/item?id=30499618
 
+https://news.ycombinator.com/item?id=38205436
+
 # REST
 https://twobithistory.org/2020/06/28/rest.html
 

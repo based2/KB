@@ -131,6 +131,8 @@ https://twitter.com/rui314/status/1537279524341432320 mold/macOS is 11 times fas
 https://developer.ibm.com/tutorials/l-dynamic-libraries/
 > https://news.ycombinator.com/item?id=33174996
 
+https://news.ycombinator.com/item?id=38215535
+
 # Vectorization
 https://cvw.cac.cornell.edu/vector/default
 > https://news.ycombinator.com/item?id=27900592

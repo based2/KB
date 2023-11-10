@@ -43,6 +43,8 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://news.ycombinator.com/item?id=38181259
+
 https://www.theregister.com/2023/11/01/official_mozilla_debian_firefox/
 > https://news.ycombinator.com/item?id=38097858
 
