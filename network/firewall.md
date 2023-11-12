@@ -55,6 +55,8 @@ https://vigilance.fr/vulnerability/Sophos-Firewall-information-disclosure-via-SP
 
 https://www.rcesecurity.com/2023/04/securepwn-part-2-leaking-remote-memory-contents-cve-2023-22897/
 
+CVE-2023-28771 CVE-2023-33009 CVE-2023-33010 Zyxel
+
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News

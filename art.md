@@ -46,6 +46,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://pnote.eu/projects/invaders/map.html
+> https://news.ycombinator.com/item?id=38238658
+
 https://www.pouet.net/prod.php?which=94150
 
 https://animationobsessive.substack.com/p/how-to-paint-like-hayao-miyazaki

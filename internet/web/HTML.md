@@ -156,6 +156,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://html-first.com/
+> https://news.ycombinator.com/item?id=38241304
+
 https://htmx.org/essays/no-build-step/
 > https://news.ycombinator.com/item?id=37265097
 

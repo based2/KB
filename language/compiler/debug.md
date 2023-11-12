@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://alan.norbauer.com/articles/browser-debugging-tricks
+> https://news.ycombinator.com/item?id=38226743
+
 https://eslint.org/blog/2022/07/interesting-bugs-caught-by-no-constant-binary-expression/
 > https://news.ycombinator.com/item?id=38196644
 

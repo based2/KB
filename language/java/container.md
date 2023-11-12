@@ -2,6 +2,8 @@ https://quarkus.io/container-first/
 
 https://foojay.io/today/how-to-run-a-java-application-with-crac-in-a-docker-container/
 
+https://old.reddit.com/r/java/comments/17q50sm/slim_docker_images_for_java_piotrs_techblog/
+
 https://thenewstack.io/rethinking-java-scheduled-tasks-in-kubernetes/
 
 https://github.com/quarkiverse/quarkus-openapi-generator/blob/main/README.md

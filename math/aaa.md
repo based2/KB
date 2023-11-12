@@ -144,6 +144,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=38226567 pi
+
 https://www.quantamagazine.org/the-hidden-connection-that-changed-number-theory-20231101/
 > https://news.ycombinator.com/item?id=38115128
 

@@ -118,6 +118,9 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://daringfireball.net/2023/11/vision_pro_spatial_video_and_panoramic_photos
+> https://news.ycombinator.com/item?id=38239252
+
 https://news.ycombinator.com/item?id=38160703
 
 https://twitter.com/FFmpeg/status/1721275669336707152

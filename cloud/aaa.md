@@ -149,6 +149,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/sumo-logic-discloses-security-breach-advises-api-key-resets/
+
 https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/
 > https://lobste.rs/s/nqzcfd/post_mortem_on_cloudflare_control_plane
 
@@ -333,6 +335,8 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.hpcwire.com/2023/11/08/china-deploys-massive-risc-v-server-in-commercial-cloud/
+
 https://news.ycombinator.com/item?id=38204511
 
 https://sigops.org/s/conferences/hotos/2023/papers/ghemawat.pdf Towards Modern Development of Cloud Applications

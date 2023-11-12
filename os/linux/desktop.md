@@ -103,6 +103,12 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://fedoraproject.org/workstation/download
+
+https://news.ycombinator.com/item?id=38228649
+
+https://news.ycombinator.com/item?id=38229576
+
 https://news.ycombinator.com/item?id=38176280
 
 https://news.ycombinator.com/item?id=38192037

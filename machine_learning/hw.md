@@ -5,6 +5,11 @@ Google TPU v4
 Telsa
 
 #
+https://journal.hexmos.com/gpu-survival-toolkit/
+> https://news.ycombinator.com/item?id=38240421
+
+https://news.ycombinator.com/item?id=38222277
+
 https://news.ycombinator.com/item?id=38167373
 
 https://www.nvidia.com/en-us/geforce/news/game-ready-driver-dlss-3-naraka-vermintide-rtx-vsr/

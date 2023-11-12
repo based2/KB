@@ -325,6 +325,9 @@ https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 > https://lobste.rs/s/ftpxug/welcome_offensive_ml_framework
 
 # Incident
+https://www.wsj.com/tech/microsoft-temporarily-blocked-internal-access-to-chatgpt-citing-data-concerns-c1ca475d
+> https://news.ycombinator.com/item?id=38240402
+
 https://www.bleepingcomputer.com/news/security/shelltorch-flaws-expose-ai-servers-to-code-execution-attacks/
 
 https://www.engadget.com/microsoft-retracts-ai-written-article-advising-tourists-to-visit-a-food-bank-on-an-empty-stomach-182701884.html
@@ -433,6 +436,13 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://blog.normalcomputing.ai/posts/2023-11-09-thermodynamic-inversion/thermo-inversion.html
+> https://news.ycombinator.com/item?id=38225121
+
+https://news.ycombinator.com/item?id=38232006 fr
+
+https://news.ycombinator.com/item?id=38230730 news
+
 https://news.ycombinator.com/item?id=38177409
 
 https://news.ycombinator.com/item?id=38166431

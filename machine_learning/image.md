@@ -370,6 +370,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://twitter.com/krea_ai/status/1723067313392320607
+> https://news.ycombinator.com/item?id=38223822
+
 https://arstechnica.com/information-technology/2023/10/university-of-chicago-researchers-seek-to-poison-ai-art-generators-with-nightshade/
 
 https://news.ycombinator.com/item?id=37255280

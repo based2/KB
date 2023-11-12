@@ -164,6 +164,8 @@ https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code
 > https://news.ycombinator.com/item?id=28855654
 
 # News
+https://news.ycombinator.com/item?id=38239503
+
 https://archive.org/details/usc-sound-effect-archive?tab=collection
 > https://news.ycombinator.com/item?id=36902050
 

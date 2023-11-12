@@ -7,6 +7,11 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://news.ycombinator.com/item?id=38240691
+
+https://newsroom.toyota.eu/toyotas-advanced-battery-technology-roadmap/
+> https://news.ycombinator.com/item?id=37513791
+
 https://cleantechnica.com/2023/07/14/sulfur-selenium-solid-state-battery-from-nasa-breaks-energy-storage-boundaries/
 
 https://www.economist.com/leaders/2023/10/26/sodium-batteries-offer-an-alternative-to-tricky-lithium

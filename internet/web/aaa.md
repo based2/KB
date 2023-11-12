@@ -142,6 +142,8 @@ https://github.com/adbar/trafilatura
 https://blog.ericgoldman.org/archives/2023/08/web-scraping-for-me-but-not-for-thee-guest-blog-post.htm
 > https://news.ycombinator.com/item?id=37264676
 
+https://news.ycombinator.com/item?id=38230476
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 

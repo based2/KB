@@ -76,6 +76,8 @@ https://betterprogramming.pub/the-rise-and-fall-of-bootstrap-68d4cd703666
 https://www.hyperui.dev/
 > https://news.ycombinator.com/item?id=37093776
 
+https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-8/
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916

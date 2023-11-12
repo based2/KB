@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/One-time_password
 
+https://www.cisa.gov/sites/default/files/publications/fact-sheet-implementing-phishing-resistant-mfa-508c.pdf
+
 https://www.rcdevs.com/
 
 http://slackhq.com/post/114696167740/march-2015-security-incident-and-launch-of-2fa

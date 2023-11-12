@@ -10,3 +10,5 @@ https://news.ycombinator.com/item?id=35453769
 
 https://www.complete.org/usenet-over-nncp/
 > https://news.ycombinator.com/item?id=36157287
+
+https://news.ycombinator.com/item?id=38238796

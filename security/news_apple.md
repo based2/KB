@@ -4,6 +4,12 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://www.bleepingcomputer.com/news/security/new-macos-kandykorn-malware-targets-cryptocurrency-engineers/
+
+https://www.jamf.com/blog/bluenoroff-apt-targets-macos-rustbucket-malware/
+
+https://www.bleepingcomputer.com/news/security/bluenoroff-hackers-backdoor-macs-with-new-objcshellz-malware/
+
 https://www.heise.de/news/Keylogger-keyboard-leaks-passwords-via-Apple-s-Find-My-location-network-9344806.html
 > https://news.ycombinator.com/item?id=38126302
 

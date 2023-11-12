@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.sckcen.be/en/news/leaders-heavy-liquid-metal-technology-join-forces-deploying-lead-cooled-small-modular-reactors
+
 https://news.ycombinator.com/item?id=38220288
 
 https://flameeyes.blog/2023/08/13/usb-power-delivery-for-hobby-projects/

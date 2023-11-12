@@ -68,8 +68,11 @@ https://paperless.blog/nix-shell-template
 https://github.com/CuBeRJAN/nix-problems
 > https://news.ycombinator.com/item?id=37089331
 
-#
 
+> https://news.ycombinator.com/item?id=38237696
+
+#
+https://www.slice.zone/blog/nix-in-practice
 https://repology.org
 
 https://blog.remirepo.net/

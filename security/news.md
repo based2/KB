@@ -1,3 +1,17 @@
+https://www.mattblaze.org/photos/locks.html
+> https://news.ycombinator.com/item?id=38226799
+
+https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf
+> https://news.ycombinator.com/item?id=38239735
+
+https://krebsonsecurity.com/2023/11/its-still-easy-for-anyone-to-become-you-at-experian/
+
+https://news.ycombinator.com/item?id=38233938
+
+https://news.ycombinator.com/item?id=38229479
+
+https://news.ycombinator.com/item?id=38226291
+
 https://www.bloomberg.com/news/articles/2023-11-10/world-s-biggest-bank-forced-to-trade-via-usb-stick-after-hack
 > https://news.ycombinator.com/item?id=38217820
 

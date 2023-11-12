@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://www.lockheedmartin.com/en-us/news/features/2023/lockheed-martin-jets-into-nuclear-electrical-spacecraft-power.html
+> https://news.ycombinator.com/item?id=38242244
+
 https://www.futureflight.aero/news-article/2023-10-26/betas-electric-airplane-lands-air-force-base-florida
 
 https://airportsim.com/
