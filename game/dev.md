@@ -154,6 +154,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://ambient.run/
+
 https://bevyengine.org/news/bevy-0-12/
 > https://news.ycombinator.com/item?id=38144417
 

@@ -198,6 +198,8 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/
+
 https://www.exim.org/
 > https://news.ycombinator.com/item?id=38146711
 

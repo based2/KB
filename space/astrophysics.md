@@ -67,6 +67,9 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://www.tng-project.org/about/
+> https://news.ycombinator.com/item?id=38252449
+
 https://academic.oup.com/mnras/article/493/3/3932/5736044
 > https://news.ycombinator.com/item?id=37972997
 

@@ -47,6 +47,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 #
+https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Remediation-Service-42837
+
 https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/
 > https://old.reddit.com/r/netsec/comments/17h253u/cve202346747_preauth_remote_code_execution_in/
 > https://www.bleepingcomputer.com/news/security/f5-fixes-big-ip-auth-bypass-allowing-remote-code-execution-attacks/
@@ -60,6 +62,9 @@ CVE-2023-28771 CVE-2023-33009 CVE-2023-33010 Zyxel
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://www.macchaffee.com/blog/2023/wafs/
+> https://news.ycombinator.com/item?id=38255004
+
 https://github.com/IAmStoxe/wirehole
 > https://news.ycombinator.com/item?id=38051016
 

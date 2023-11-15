@@ -84,6 +84,8 @@ https://github.com/falcosecurity/falcosidekick
 https://github.com/draios/sysdig-inspect
 
 # News
+https://thenewstack.io/tetragon-1-0-promises-a-new-era-of-kubernetes-security-and-observability/
+
 https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/
 > https://news.ycombinator.com/item?id=35515873
 

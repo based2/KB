@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.japantimes.co.jp/business/2023/11/13/japan-space-business-budget/
+
 https://www.dw.com/en/taking-on-spacex-why-germany-is-building-its-own-spaceport/a-67166692
 > https://news.ycombinator.com/item?id=37975166
 

@@ -96,6 +96,14 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://ipng.ch/s/articles/2023/11/11/mellanox-sn2700.html
+> https://news.ycombinator.com/item?id=38247561
+
+https://almalinux.org/blog/2023-11-13-announcing-93-stable/
+
+https://inteltechniques.com/blog/2023/11/12/ubuntu-pro-shenanigans/
+> https://news.ycombinator.com/item?id=38254040
+
 https://news.ycombinator.com/item?id=38160382
 
 https://discourse.nixos.org/t/nixos-reproducible-builds-minimal-installation-iso-successfully-independently-rebuilt/34756

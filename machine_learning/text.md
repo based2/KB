@@ -53,6 +53,12 @@ https://scriv.ai/guides/retrieval-augmented-generation-overview/
 > https://news.ycombinator.com/item?id=37261198
 
 # News
+https://simonwillison.net/2023/Nov/15/gpts/
+> https://news.ycombinator.com/item?id=38277926
+
+https://jxnl.github.io/instructor/blog/2023/11/05/chain-of-density/
+> https://news.ycombinator.com/item?id=38251842
+
 https://authory.com/blog/how-ai-detectors-are-destroying-livelihoods
 > https://news.ycombinator.com/item?id=38101219
 

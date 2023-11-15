@@ -185,6 +185,11 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://en.wikipedia.org/wiki/Camellia_(cipher)
+
+https://peergos.org/posts/blake3
+> https://news.ycombinator.com/item?id=38249473
+
 https://last-chance-for-eidas.org/
 > https://news.ycombinator.com/item?id=38109494
 

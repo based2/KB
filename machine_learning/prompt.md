@@ -1,3 +1,5 @@
+https://cobusgreyling.medium.com/a-new-prompt-engineering-technique-has-been-introduced-called-step-back-prompting-b00e8954cacb
+
 https://github.com/ray-project/llm-numbers
 > https://news.ycombinator.com/item?id=35978864
 
@@ -81,4 +83,7 @@ https://news.ycombinator.com/item?id=37130531
 
 https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md
 > https://news.ycombinator.com/item?id=37879077
+
+https://arxiv.org/abs/2309.03409
+> https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/
 

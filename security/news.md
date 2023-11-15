@@ -1,3 +1,24 @@
+https://www.bleepingcomputer.com/news/security/genetics-firm-23andme-says-user-data-stolen-in-credential-stuffing-attack/
+
+https://thenewstack.io/britive-just-in-time-access-across-multiple-clouds/
+
+https://thenewstack.io/i-have-a-verifiable-credential-now-what/
+
+https://www.bleepingcomputer.com/news/security/new-wordpress-backdoor-creates-rogue-admin-to-hijack-websites/
+
+https://www.fastly.com/blog/firefox-fastly-take-another-step-toward-security-upgrade
+
+https://www.mandiant.com/resources/blog/gru-disruptive-playbook
+
+https://yle.fi/a/74-20059967
+
+https://ccb.belgium.be/fr/apprendre-en-jouant#:~:text=Un%20jeu%20pour%20devenir%20un%20Cyber%20H%C3%A9ros
+
+https://www.thestack.technology/rfc9420-ietf-mls-standard/
+> https://news.ycombinator.com/item?id=38228310
+
+https://www.theguardian.com/business/2023/nov/10/optus-cyber-attack-report-released-secret-court-case-deloitte
+
 https://www.mattblaze.org/photos/locks.html
 > https://news.ycombinator.com/item?id=38226799
 

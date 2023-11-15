@@ -35,6 +35,9 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://arstechnica.com/science/2023/11/ai-outperforms-conventional-weather-forecasting-for-the-first-time-google-study/
+> https://news.ycombinator.com/item?id=38277430
+
 https://blog.research.google/2023/11/metnet-3-state-of-art-neural-weather.html?m=1
 > https://news.ycombinator.com/item?id=38122631
 

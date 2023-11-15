@@ -112,6 +112,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://github.com/google/graph-mining#the-graph-mining-library
+
 https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/
 > https://news.ycombinator.com/item?id=38120497
 

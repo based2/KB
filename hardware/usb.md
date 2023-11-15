@@ -25,6 +25,8 @@ https://www.obdev.at/products/vusb/index.html Low-speed USB device for Atmel’s
 > https://news.ycombinator.com/item?id=28814566
 
 # News
+https://news.ycombinator.com/item?id=38256058
+
 https://www.theverge.com/2023/11/6/23948486/usb-c-cables-marking-speed-power-delivery-elgato
 > https://news.ycombinator.com/item?id=38162837
 

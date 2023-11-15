@@ -11,6 +11,9 @@ https://foxglove.dev/
 https://constructionphysics.substack.com/p/where-are-the-robotic-bricklayers
 
 #
+https://www.therobotreport.com/tangram-vision-packs-ai-skills-onto-hifi-3d-sensor/
+> https://news.ycombinator.com/item?id=38280382
+
 https://www.abc.net.au/news/2023-07-16/hundreds-of-drones-plunge-into-yarra-river/102607576
 > https://news.ycombinator.com/item?id=36744135
 
@@ -82,11 +85,18 @@ https://www.engadget.com/german-bionic-cray-x-5th-gen-exoskeleton-connectivity-f
 # Gesture
 https://developers.googleblog.com/2021/09/drone-control-via-gestures-using-mediapipe-hands.html
 
+https://depts.washington.edu/acelab/proj/dollar/index.html
+> https://news.ycombinator.com/item?id=38250114
+
 # ML
 https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298
 > https://news.ycombinator.com/item?id=38091046
 
+https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors
+
 # News
+https://techxplore.com/news/2023-09-multi-purpose-robot.html
+
 https://spectrum.ieee.org/warehouse-robots
 > https://news.ycombinator.com/item?id=38183514
 

@@ -43,3 +43,6 @@ https://argocd-vault-plugin.readthedocs.io/en/stable/howitworks/
 # Flux
 
 https://p1.dso.mil/#/ Platform One
+
+#
+https://thenewstack.io/harpoon-no-code-deployment-for-kubernetes/

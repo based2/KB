@@ -92,3 +92,5 @@ https://surfingcomplexity.blog/2022/11/25/cache-invalidation-really-is-one-of-th
 
 https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/
 > https://news.ycombinator.com/item?id=36333034
+
+https://ideal-dither.com/?p=8 The authors propose propose the eXtended Block Cache (XBC), a new structure to replace the Trace Cache (TC)

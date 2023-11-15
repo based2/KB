@@ -137,6 +137,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/Shopify/toxiproxy
+
 https://twitter.com/ghost_motley/status/1721646985688601023
 > https://news.ycombinator.com/item?id=38171475
 

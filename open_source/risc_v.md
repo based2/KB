@@ -11,6 +11,9 @@ https://arxiv.org/abs/2308.02945
 > https://news.ycombinator.com/item?id=37081891
 
 #
+https://www.phoronix.com/news/Linux-6.7-RISC-V
+> https://news.ycombinator.com/item?id=38230161
+
 https://news.ycombinator.com/item?id=38235465
 
 https://news.ycombinator.com/item?id=38163412

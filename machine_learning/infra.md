@@ -11,6 +11,14 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 https://news.ycombinator.com/item?id=37180017
 
 #
+https://github.com/getzep/zep
+
+https://thenewstack.io/freeplay-new-llm-dev-tool-for-java-developers-and-others/
+
+https://thenewstack.io/llamaindex-and-the-new-world-of-llm-orchestration-frameworks/
+
+https://thenewstack.io/with-conductor-orkes-tackles-llm-orchestration-workflows/
+
 https://news.ycombinator.com/item?id=38206973
 
 https://thenewstack.io/llm-app-ecosystem-whats-new-and-how-cloud-native-is-adapting/

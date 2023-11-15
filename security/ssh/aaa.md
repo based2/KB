@@ -141,6 +141,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://arstechnica.com/security/2023/11/hackers-can-steal-ssh-cryptographic-keys-in-new-cutting-edge-attack/
+> https://news.ycombinator.com/item?id=38250101
+
 https://www.openssh.com/releasenotes.html#9.4p1
 
 https://github.com/jaywonchung/pegasus

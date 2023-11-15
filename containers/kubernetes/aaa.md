@@ -101,6 +101,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://thenewstack.io/kubernetes-gateway-api-nixes-future-beta-releases/
+
 https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225?gi=2e8a65263c94
 > https://news.ycombinator.com/item?id=38042918
 

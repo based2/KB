@@ -94,6 +94,14 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://phys.org/news/2023-10-self-correcting-quantum.html
+
+https://arxiv.org/abs/2304.09900
+> https://news.ycombinator.com/item?id=38261913
+
+https://www.nature.com/articles/d41586-023-03511-7
+> https://news.ycombinator.com/item?id=38254866
+
 https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements
 >
 

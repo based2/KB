@@ -1,3 +1,6 @@
+https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/
+> https://news.ycombinator.com/item?id=38266340
+
 https://garyodernichts.blogspot.com/2023/10/exploiting-dns-response-parsing-on-wii-u.html
 > https://news.ycombinator.com/item?id=38056599
 

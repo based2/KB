@@ -289,6 +289,9 @@ https://www.silverliningsinfo.com/apps-services/ibm-watsonx-brings-cobol-cloud-e
 https://github.com/IonicaBizau/node-cobol
 > https://news.ycombinator.com/item?id=38023870
 
+https://cobolworx.com/pages/cobforgcc.html
+> https://news.ycombinator.com/item?id=38276518
+
 ## LISP
 http://www.paulgraham.com/bel.html
 

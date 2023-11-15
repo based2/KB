@@ -237,6 +237,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://www.crunchydata.com/community/events/postgis-day-2023
+
 https://element84.com/geospatial-tech-radar-23/#
 
 https://www.nasa.gov/press-release/nasa-shares-first-images-from-us-pollution-monitoring-instrument

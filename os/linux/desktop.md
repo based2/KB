@@ -103,6 +103,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.phoronix.com/news/Firefox-Change-Wayland-Release
+> https://news.ycombinator.com/item?id=38281264
+
 https://fedoraproject.org/workstation/download
 
 https://news.ycombinator.com/item?id=38228649

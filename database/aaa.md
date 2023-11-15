@@ -68,6 +68,13 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 https://queue.acm.org/detail.cfm?id=3501713
 
 # News
+https://thenewstack.io/polystores-the-data-management-game-changer/
+
+https://hpi.de/naumann/projects/rdbms-genealogy.html
+
+https://github.com/Dicklesworthstone/sqlalchemy_data_model_visualizer
+> https://news.ycombinator.com/item?id=38249730
+
 https://news.ycombinator.com/item?id=38023283
 
 https://blog.whimslab.io/how-modern-sql-databases-are-changing-web-development-4d1f15b0daea

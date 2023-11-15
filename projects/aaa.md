@@ -164,6 +164,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 #
+https://staysaasy.com/startups/2023/11/10/imprecise-asks.html
+> https://news.ycombinator.com/item?id=38231160
+
 https://www.amazingcto.com/tests-are-bad-for-developers/
 > https://news.ycombinator.com/item?id=38111986
 

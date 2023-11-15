@@ -100,6 +100,11 @@ https://news.ycombinator.com/item?id=36519448
 
 https://news.ycombinator.com/item?id=37915934
 
+https://news.ycombinator.com/item?id=38248900
+
+https://jakelazaroff.com/words/an-interactive-intro-to-crdts/
+> https://jakelazaroff.com/words/building-a-collaborative-pixel-art-editor-with-crdts/
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

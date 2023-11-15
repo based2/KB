@@ -149,6 +149,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://news.ycombinator.com/item?id=38255354
+
 https://www.bleepingcomputer.com/news/security/sumo-logic-discloses-security-breach-advises-api-key-resets/
 
 https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/

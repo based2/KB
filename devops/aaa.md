@@ -459,6 +459,10 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.systeminit.com/
+> https://github.com/systeminit/si
+> https://thenewstack.io/adam-jacob-rebuilding-devops-with-system-initiative/
+
 https://felix-knorr.net/posts/2023-11-11-github-actions.html
 > https://news.ycombinator.com/item?id=38240278
 

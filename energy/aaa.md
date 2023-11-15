@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://spectrum.ieee.org/baltic-power-grid
+> https://news.ycombinator.com/item?id=38250001
+
 https://www.sckcen.be/en/news/leaders-heavy-liquid-metal-technology-join-forces-deploying-lead-cooled-small-modular-reactors
 
 https://news.ycombinator.com/item?id=38220288

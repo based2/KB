@@ -1,4 +1,7 @@
+https://mistral.ai/news/announcing-mistral-7b/
+
 https://huggingface.co/
+> https://huggingface.co/training-cluster
 
 https://github.com/huggingface/text-generation-inference/issues/726
 > https://news.ycombinator.com/item?id=36921038
@@ -30,6 +33,9 @@ https://ai.meta.com/llama/ v2
 
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
+
+https://www.secondstate.io/articles/fast-llm-inference/
+> https://news.ycombinator.com/item?id=38246668
 
 https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/
 
@@ -149,7 +155,12 @@ https://github.com/markasoftware/llama-cpu
 
 https://github.com/pengxiao-song/LawGPT cn
 
-#
+# News
+https://github.com/stanfordnlp/dspy
+
+https://www.nature.com/articles/s41586-023-06647-8
+> https://news.ycombinator.com/item?id=38228320
+
 https://news.ycombinator.com/item?id=38167310
 
 https://news.ycombinator.com/item?id=38159927

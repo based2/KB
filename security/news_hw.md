@@ -1,10 +1,18 @@
 https://www.system-transparency.org/
 > https://news.ycombinator.com/item?id=38225724
 
+https://uefi.org/blog/firmware-sbom-proposal
+> https://news.ycombinator.com/item?id=38248758
+
 https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model-to-the-risc-v-community/
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/#p3
+
+https://cachewarpattack.com/ CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP
+> https://news.ycombinator.com/item?id=38268737
+
 https://www.theregister.com/2023/11/09/intel_downfall_lawsuit/
 > https://news.ycombinator.com/item?id=38238707
 

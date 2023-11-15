@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/signal-adds-quantum-resistant-encryption-to-its-e2ee-messaging-protocol/
+
 https://people.redhat.com/~hkario/marvin/
 
 https://fusionauth.io/blog/grammarly-proves-ciam-not-optional

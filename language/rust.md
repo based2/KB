@@ -475,6 +475,9 @@ https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-mac
 # Quiz
 https://dtolnay.github.io/rust-quiz/33
 
+# ml
+https://github.com/huggingface/candle
+
 # History
 https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
@@ -493,6 +496,16 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://www.jetbrains.com/rust/download/
+
+https://davidlattimore.github.io/making-supply-chain-attacks-harder.html#introducing-cackle-aka-cargo-acl
+
+https://seanmonstar.com/blog/hyper-v1/
+
+https://news.ycombinator.com/item?id=38261539
+
+https://news.ycombinator.com/item?id=38281135
+
 https://blog.rust-lang.org/inside-rust/2023/10/06/polonius-update.html
 > https://news.ycombinator.com/item?id=38239542
 

@@ -45,3 +45,5 @@ https://last9.io/blog/high-cardinality-no-problem-stream-aggregation-ftw/
 
 https://www.santafe.edu/research/results/working-papers/the-future-of-time-series
 > https://news.ycombinator.com/item?id=37033702
+
+https://news.ycombinator.com/item?id=38252963 Bitemporal – Binary JSON database system and event store

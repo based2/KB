@@ -242,6 +242,12 @@ https://news.ycombinator.com/item?id=37877605
 
 https://news.ycombinator.com/item?id=38150096
 
+https://techxplore.com/news/2023-10-ai-expose-critical-vulnerabilities-major.html
+
+https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/
+
+https://www.bleepingcomputer.com/news/security/shelltorch-flaws-expose-ai-servers-to-code-execution-attacks/
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -294,6 +300,12 @@ https://gonzoknows.com/posts/GPTZero-Case-Study/
 https://owasp.org/www-project-top-10-for-large-language-model-applications/
 > https://www.reddit.com/r/programming/comments/13yc9gw/owasp_is_creating_a_top_10_dangers_list_for_large/
 
+https://media.defense.gov/2023/Sep/12/2003298925/-1/-1/0/CSI-DEEPFAKE-THREATS.PDF
+
+https://www.technologyreview.com/2023/10/30/1082678/three-things-to-know-about-the-white-houses-executive-order-on-ai/
+
+https://redmonk.com/jgovernor/2023/10/18/introducing-the-ai-bill-of-materials/
+
 https://www.giskard.ai/safegpt
 > https://news.ycombinator.com/item?id=35652452
 
@@ -325,6 +337,12 @@ https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 > https://lobste.rs/s/ftpxug/welcome_offensive_ml_framework
 
 # Incident
+https://arxiv.org/abs/2310.07298
+> https://news.ycombinator.com/item?id=38272495
+
+https://embracethered.com/blog/posts/2023/google-bard-data-exfiltration/
+> https://news.ycombinator.com/item?id=38251957
+
 https://www.wsj.com/tech/microsoft-temporarily-blocked-internal-access-to-chatgpt-citing-data-concerns-c1ca475d
 > https://news.ycombinator.com/item?id=38240402
 
@@ -436,6 +454,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://thenewstack.io/make-sure-your-application-comes-correct-with-correctness-slos/
+
+https://rocm.docs.amd.com/en/latest/how_to/pytorch_install/pytorch_install.html
+
+https://news.ycombinator.com/item?id=38242510
+
 https://blog.normalcomputing.ai/posts/2023-11-09-thermodynamic-inversion/thermo-inversion.html
 > https://news.ycombinator.com/item?id=38225121
 

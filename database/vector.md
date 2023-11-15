@@ -33,3 +33,5 @@ https://news.ycombinator.com/item?id=37147140
 
 https://news.ycombinator.com/item?id=37193599
 
+https://blog.lancedb.com/llms-rag-the-missing-storage-layer-for-ai-28ded35fa984
+

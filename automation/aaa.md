@@ -31,6 +31,8 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://thenewstack.io/bridging-the-gap-between-infrastructure-as-code-and-gitops/
+
 https://medium.com/swissborg-engineering/how-scala-cli-shines-in-automation-e14c9bc80534
 
 https://www.automa.site/

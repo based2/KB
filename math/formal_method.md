@@ -65,6 +65,11 @@ https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%2
 > https://news.ycombinator.com/item?id=27045771
 
 #
+http://haroldbot.nl/
+> https://news.ycombinator.com/item?id=38274714
+
+https://kuruczgy.com/blog/2023/11/12/verified-rtree/
+
 https://www.cs.ru.nl/~freek/100/
 > https://news.ycombinator.com/item?id=38109327
 

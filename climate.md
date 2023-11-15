@@ -69,6 +69,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.reuters.com/business/environment/new-satellite-will-detect-share-co2-data-individual-facilities-2023-11-11/
+
 https://news.ycombinator.com/item?id=38227486
 
 https://news.ycombinator.com/item?id=38181308

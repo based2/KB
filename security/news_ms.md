@@ -1,8 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
-https://news.ycombinator.com/item?id=38219568
-> https://www.heise.de/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9358925.html
+https://www.bleepingcomputer.com/news/security/maldoc-in-pdfs-hiding-malicious-word-docs-in-pdf-files/
+
+https://devblogs.microsoft.com/commandline/new-enterprise-grade-security-controls-for-the-windows-subsystem-for-linux/
+
+https://www.heise.de/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9358925.html
+> https://news.ycombinator.com/item?id=38219568
 
 https://vigilance.fr/vulnerability/Microsoft-Exchange-four-vulnerabilities-42774
 

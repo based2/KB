@@ -143,6 +143,8 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://www.wsj.com/articles/amazons-new-approach-to-selling-enterprise-software-in-person-demos-5d1cfd23
+
 https://news.ycombinator.com/item?id=38210056
 
 https://dev.to/aws/aws-open-source-news-178-nmf

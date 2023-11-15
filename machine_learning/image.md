@@ -129,6 +129,9 @@ https://deepfloyd.ai/deepfloyd-if
 https://research.nvidia.com/labs/par/Perfusion/
 > https://news.ycombinator.com/item?id=37020620
 
+https://stablediffusionweb.com/PixArt-alpha#ai-art-generator
+> https://news.ycombinator.com/item?id=38254386
+
 ## Stable diffusion
 
 > https://news.ycombinator.com/item?id=36586079
@@ -365,11 +368,18 @@ https://mmrotate.readthedocs.io/en/latest/
 
 https://blog.roboflow.com/yolo-nas-how-to-train-on-custom-dataset/
 
+https://www.canva.dev/blog/engineering/ship-shape/
+> https://news.ycombinator.com/item?id=38249214
+
 # Color
 https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/
+
+https://www.technologyreview.com/2023/09/25/1080231/getty-images-promises-its-new-ai-doesnt-contain-copyrighted-art/
+
 https://twitter.com/krea_ai/status/1723067313392320607
 > https://news.ycombinator.com/item?id=38223822
 

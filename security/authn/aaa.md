@@ -84,6 +84,8 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://www.eff.org/what-is-a-passkey
+
 https://news.ycombinator.com/item?id=37900935
 
 https://github.com/ory/kratos/releases/tag/v1.0.0

@@ -50,3 +50,6 @@ https://daverupert.com/2023/07/why-not-webcomponents/
 > https://news.ycombinator.com/item?id=36976670
 
 https://news.ycombinator.com/item?id=38012662
+
+https://blog.jim-nielsen.com/2023/html-web-components/
+> https://news.ycombinator.com/item?id=38251330

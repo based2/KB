@@ -73,6 +73,9 @@ https://sanket.tech/posts/invert_binary_tree_assembly/
 
 https://news.ycombinator.com/item?id=35979374
 
+https://razberry.substack.com/p/btree-factorio
+> https://news.ycombinator.com/item?id=38279459
+
 # binary index trees (Fenwick trees)
 https://jornhub.dev/articles/fenwick-trees/
 > https://news.ycombinator.com/item?id=28354637

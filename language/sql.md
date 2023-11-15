@@ -58,6 +58,9 @@ https://drawsql.app/templates
 http://harelba.github.io/q/
 > https://news.ycombinator.com/item?id=27423276
 
+# ML
+https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
+
 # News
 https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/
 > https://news.ycombinator.com/item?id=38016930

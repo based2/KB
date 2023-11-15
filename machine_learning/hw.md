@@ -5,6 +5,15 @@ Google TPU v4
 Telsa
 
 #
+https://mythic.ai/products/m1076-analog-matrix-processor/
+> https://news.ycombinator.com/item?id=38277598
+
+https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure
+> https://news.ycombinator.com/item?id=38278171
+
+https://spectrum.ieee.org/generative-ai-training
+> https://news.ycombinator.com/item?id=38246032
+
 https://journal.hexmos.com/gpu-survival-toolkit/
 > https://news.ycombinator.com/item?id=38240421
 

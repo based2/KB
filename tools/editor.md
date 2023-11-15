@@ -352,6 +352,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://news.ycombinator.com/item?id=38262775
+
 https://news.ycombinator.com/item?id=38017541
 
 https://news.ycombinator.com/item?id=37326419

@@ -30,3 +30,6 @@ https://news.ycombinator.com/item?id=35913222
 
 https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/
 > https://news.ycombinator.com/item?id=36757400
+
+https://grossack.site/2023/11/08/37-median.html
+> https://news.ycombinator.com/item?id=38242946

@@ -44,8 +44,11 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://arstechnica.com/science/2023/10/biodiversity-library-will-help-preserve-genetic-diversity-in-endangered-species/
+
+https://www.ncbi.nlm.nih.gov/genbank/
+
 https://www.nature.com/articles/s41586-023-06457-y
->
 
 https://cadnano.org/welcome.html dna
 

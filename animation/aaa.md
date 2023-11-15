@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=38250913
+
 https://oimo.io/works/water/
 > https://news.ycombinator.com/item?id=37026592
 > https://github.com/saharan/works/tree/main/water
