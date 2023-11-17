@@ -4,3 +4,5 @@ https://arxiv.org/abs/2301.03149 "A Handbook of Integer Sequences" Fifty Years L
 > https://news.ycombinator.com/item?id=34337707
 
 https://news.ycombinator.com/item?id=36059774
+
+https://news.ycombinator.com/item?id=38302288

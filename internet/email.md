@@ -189,7 +189,11 @@ https://news.ycombinator.com/item?id=30838564
 https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
-#
+# i
+https://www.bleepingcomputer.com/news/security/google-hackers-exploited-zimbra-zero-day-in-attacks-on-govt-orgs/
+
+https://www.pentagrid.ch/en/blog/python-mail-libraries-certificate-verification/
+
 https://www.theregister.com/2023/10/25/prorussia_group_exploits_roundcube_zeroday/
 
 https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunderbird102.13

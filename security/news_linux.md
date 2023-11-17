@@ -27,6 +27,8 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://nvd.nist.gov/vuln/detail/CVE-2023-45853 zlib
+
 https://vigilance.fr/vulnerability/X-Org-Server-Xwayland-three-vulnerabilities-42705
 
 https://vigilance.fr/vulnerability/Samba-buffer-overflow-via-Heimdal-KDC-Freshness-Tokens-42639

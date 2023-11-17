@@ -291,6 +291,8 @@ https://cmdln.org/2023/03/25/how-i-org-in-2023/
 https://susam.net/blog/sorting-in-emacs.html
 > https://news.ycombinator.com/item?id=37086176
 
+https://news.ycombinator.com/item?id=38301644
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

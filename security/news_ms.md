@@ -1,6 +1,10 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-vms-broken-by-october-updates/
+
+https://github.com/tandasat/CVE-2023-36427/blob/main/report.md
+
 https://www.bleepingcomputer.com/news/security/maldoc-in-pdfs-hiding-malicious-word-docs-in-pdf-files/
 
 https://devblogs.microsoft.com/commandline/new-enterprise-grade-security-controls-for-the-windows-subsystem-for-linux/

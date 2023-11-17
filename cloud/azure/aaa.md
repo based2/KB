@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.paloaltonetworks.com/blog/prisma-cloud/secrets-leakage-user-error-azure-cli/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-flaw-after-being-called-irresponsible-by-tenable-ceo/
 
 https://www.descope.com/blog/post/noauth openid

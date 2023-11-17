@@ -67,6 +67,8 @@ https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/
 
 https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 
+https://red.flag.domains/
+
 # Incident
 https://news.ycombinator.com/item?id=37815793
 

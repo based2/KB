@@ -59,7 +59,7 @@ https://www.slim.ai/
 
 # News
 
-
+https://news.ycombinator.com/item?id=38285228
 
 https://docs.flux.ai/tutorials/adapt-copilot-to-your-goals
 > https://news.ycombinator.com/item?id=37251466

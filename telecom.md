@@ -189,6 +189,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/
+> https://news.ycombinator.com/item?id=38293082
+
 https://news.ycombinator.com/item?id=38180981
 
 https://www.lightreading.com/5g/3gpp-publishes-5g-broadcast-specs

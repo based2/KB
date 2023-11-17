@@ -16,6 +16,10 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=38291673
+
+https://news.ycombinator.com/item?id=38291015
+
 https://spectrum.ieee.org/baltic-power-grid
 > https://news.ycombinator.com/item?id=38250001
 

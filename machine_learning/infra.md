@@ -11,6 +11,9 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 https://news.ycombinator.com/item?id=37180017
 
 #
+https://github.com/lastmile-ai/aiconfig
+> https://news.ycombinator.com/item?id=38306410
+
 https://github.com/getzep/zep
 
 https://thenewstack.io/freeplay-new-llm-dev-tool-for-java-developers-and-others/

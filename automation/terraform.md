@@ -129,6 +129,8 @@ https://nrkbeta.no/2023/01/19/the-road-to-nrks-private-terraform-registry/
 > https://news.ycombinator.com/item?id=37010588
 
 # AWS
+https://pd.shipmonk.com/terraform-aws-drift-checks/
+
 https://www.hashicorp.com/blog/terraform-aws-provider-5-0-adds-updates-to-default-tags
 > https://github.com/hashicorp/terraform-provider-aws/blob/main/ROADMAP.md
 
@@ -184,6 +186,8 @@ https://medium.com/develeap/rds-logs-optimizer-dont-overpay-for-storing-your-log
 https://github.com/develeap/rds-logs-optimizer
 
 ##
+https://www.medium.com/@louis-fiori/cloudwatch-logs-enhanced-alerts-a50ea08d0845
+
 https://thenewstack.io/linux-foundation-adopting-terraform-fork-provokes-ire-of-hashicorp-ceo/
 
 https://www.bejarano.io/terraform-stateless-critique/
@@ -307,16 +311,27 @@ https://github.com/spilliams/terrascope monorepo
 
 https://github.com/refl3ction/tfgen
 
+https://medium.com/@alexandre.diasldev/en-deep-dive-atlantis-ba4111283e5
+
 # testing
+https://mattias.engineer/posts/terraform-testing-and-validation/
+
 https://github.com/cloud-custodian/pytest-terraform
 
 https://medium.com/illuminations-mirror/basic-terraform-provider-debugging-c20532268c3b
+
+# sec
+Secret rotation with time_rotating resource
 
 #
 https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://blog.terramate.io/hidden-costs-of-unoptimized-terraform-projects-23c8e350d325
+
+https://www.vantage.sh/blog/finops-as-code-with-terraform
+
 https://github.com/opentffoundation/roadmap/issues/24
 > https://news.ycombinator.com/item?id=37334486
 

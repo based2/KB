@@ -248,6 +248,9 @@ https://simonwillison.net/2023/Oct/14/multi-modal-prompt-injection/
 
 https://www.bleepingcomputer.com/news/security/shelltorch-flaws-expose-ai-servers-to-code-execution-attacks/
 
+https://github.com/protectai/ai-exploits
+> https://news.ycombinator.com/item?id=38291880
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582

@@ -97,6 +97,8 @@ https://www.codewithjason.com/when-i-do-tdd-and-when-i-dont/
 
 https://jeremydmiller.com/2022/10/04/real-life-tdd-example/
 
+https://linkedrecords.com/the-big-tdd-misunderstanding-8e22c2f1fc21
+
 # A/B
 https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests-60ce8f93fa15
 > https://news.ycombinator.com/item?id=27642296

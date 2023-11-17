@@ -335,6 +335,11 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://peps.python.org/pep-0730/
+
+https://stefan-marr.de/2023/11/python-global-interpreter-lock/
+> https://news.ycombinator.com/item?id=38302903
+
 https://labs.quansight.org/blog/building-scipy-with-flang
 > https://news.ycombinator.com/item?id=38196412
 

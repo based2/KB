@@ -125,6 +125,8 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # Incident
+https://old.reddit.com/r/netsec/comments/17v2411/passive_ssh_key_compromise_via_lattices/
+
 https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt
 
 remotely exploitable RCE vulnerability in ssh-agent's PKCS#11 support - CVE-2023-38408

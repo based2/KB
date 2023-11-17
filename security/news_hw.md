@@ -8,6 +8,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://lock.cmpxchg8b.com/reptar.html
+
 https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/#p3
 
 https://cachewarpattack.com/ CacheWarp: A new software fault attack on AMD SEV-ES and SEV-SNP

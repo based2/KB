@@ -17,6 +17,8 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://news.ycombinator.com/item?id=38308552
+
 https://news.ycombinator.com/item?id=38273488
 
 https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x
