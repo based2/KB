@@ -11,3 +11,6 @@ https://en.wikipedia.org/wiki/EPUB#:~:text=EPUB%20is%20an%20e%2Dbook,smartphones
 https://news.ycombinator.com/item?id=32789384
 
 https://koodo.960960.xyz/en
+
+ https://calibre-ebook.com/new-in/sixteen
+> https://news.ycombinator.com/item?id=38316846

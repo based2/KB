@@ -154,6 +154,11 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://linuxfr.org/news/des-nouvelles-de-xonotic
+> https://xonotic.org/posts/2023/xonotic-0-8-6-release/
+
+https://news.ycombinator.com/item?id=38309970
+
 https://ambient.run/
 
 https://bevyengine.org/news/bevy-0-12/

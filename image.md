@@ -12,6 +12,8 @@ https://resizer.in/
 
 https://github.com/avaneev/avir c++, MIT
 
+https://github.com/Tohrusky/Final2x
+
 # News
 https://contentcredentials.org/
 > https://lobste.rs/s/cxx6ti/content_credentials

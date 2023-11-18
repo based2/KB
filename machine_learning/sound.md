@@ -204,3 +204,5 @@ https://github.com/suno-ai/bark
 
 https://github.com/suno-ai/bark/blob/main/README.md
 > https://news.ycombinator.com/item?id=35943108
+
+https://news.ycombinator.com/item?id=38321324

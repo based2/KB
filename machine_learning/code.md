@@ -58,6 +58,7 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://tech.slashdot.org/story/23/11/16/2335234/make-it-real-ai-prototype-turns-drawings-into-working-software
 
 https://news.ycombinator.com/item?id=38285228
 

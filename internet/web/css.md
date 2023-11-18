@@ -240,6 +240,9 @@ https://jdan.github.io/98.css/
 https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 > https://news.ycombinator.com/item?id=27180183
 
+# I
+https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915
+
 # News
 https://css-loaders.com/
 

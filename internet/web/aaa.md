@@ -74,6 +74,8 @@ https://github.com/slidevjs/slidev
 https://eng.snap.com/quic-at-snap QUIC
 > https://news.ycombinator.com/item?id=27626394
 
+https://github.com/codrops/SlideshowAnimations/
+
 # Scraper
 https://github.com/speakol-ads/scrapy-x
 

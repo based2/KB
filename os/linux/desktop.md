@@ -4,7 +4,7 @@ https://pointieststick.com/2021/10/22/this-week-in-kde-fingerprint-reader-and-nv
 https://www.kdab.com/fun-and-scary-code-from-qt-and-kde/
 ## Gnome
 
-## 
+##
 https://lumina-desktop.org/
 > https://news.ycombinator.com/item?id=29053850
 
@@ -103,6 +103,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://blog.gtk.org/2023/11/15/introducing-graphics-offload/
+> https://news.ycombinator.com/item?id=38316953
+
 https://www.phoronix.com/news/Firefox-Change-Wayland-Release
 > https://news.ycombinator.com/item?id=38281264
 

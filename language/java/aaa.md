@@ -277,6 +277,8 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://programming.guide/worlds-most-copied-so-snippet.html
+
 https://old.reddit.com/r/java/comments/17skfzf/jactl_130_a_scripting_language_for_realtime_java/
 
 https://blogs.oracle.com/javamagazine/post/java-array-objects

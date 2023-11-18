@@ -457,6 +457,14 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://arstechnica.com/information-technology/2023/11/report-sutskever-led-board-coup-at-openai-that-ousted-altman-over-ai-safety-concerns/
+> https://news.ycombinator.com/item?id=38321003
+
+https://www.technologyreview.com/2023/10/26/1082398/exclusive-ilya-sutskever-openais-chief-scientist-on-his-hopes-and-fears-for-the-future-of-ai/
+> https://news.ycombinator.com/item?id=38316521
+
+https://news.ycombinator.com/item?id=38316378
+
 https://thenewstack.io/make-sure-your-application-comes-correct-with-correctness-slos/
 
 https://rocm.docs.amd.com/en/latest/how_to/pytorch_install/pytorch_install.html

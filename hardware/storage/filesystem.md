@@ -65,6 +65,8 @@ https://github.com/maharmstone/btrfs
 > > https://news.ycombinator.com/item?id=35660186
 
 # News
+https://blogs.oracle.com/linux/post/directory-entry-lookup-in-ext4
+
 https://news.ycombinator.com/item?id=38049287 metadata
 
 https://archive.fosdem.org/2022/schedule/event/misc_ntfs_rust/

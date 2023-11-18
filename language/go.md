@@ -111,6 +111,8 @@ https://github.com/ebitengine/purego library for calling C functions from Go wit
 > https://news.ycombinator.com/item?id=34763681
 
 #
+https://vigilance.fr/vulnerability/Go-file-read-write-via-path-filepath-42909
+
 https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 > https://pkg.go.dev/vuln/GO-2022-0646
 > https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck
@@ -118,6 +120,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/
+> https://news.ycombinator.com/item?id=38300425
+
 https://go.dev/blog/14years
 > https://news.ycombinator.com/item?id=38229001
 

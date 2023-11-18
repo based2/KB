@@ -17,6 +17,8 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://hardware.slashdot.org/story/23/11/17/0210233/scientists-use-raspberry-pi-tech-to-protect-nasa-telescope-data
+
 https://news.ycombinator.com/item?id=38308552
 
 https://news.ycombinator.com/item?id=38273488

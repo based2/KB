@@ -22,6 +22,8 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://slashdot.org/submission/17306055/google-disables-usage-of-two-factor-auth-recovery-code
+
 https://status.duo.com/
 > https://news.ycombinator.com/item?id=37209684
 > https://www.theregister.com/2023/08/21/ciscos_duo_outage/

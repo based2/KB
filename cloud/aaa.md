@@ -26,6 +26,8 @@ https://www.permit.io/blog/policy-engines
 
 https://tmobile.github.io/pacbot/
 
+view-source:https://www.datadoghq.com/state-of-cloud-security/
+
 # FaaS
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 

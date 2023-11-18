@@ -26,6 +26,8 @@ https://dev.to/gwenshap/investigating-15s-http-response-time-in-aws-ecs-2gge
 https://www.reddit.com/r/aws/comments/yqkzax/just_released_alternat_a_high_availability_aws/
 
 # News
+https://aws.amazon.com/about-aws/whats-new/2023/11/vpcs-subnets-support-more-sizes-ipv6-cidrs/
+
 https://tty.neveragain.de/2023/09/21/aws-cannot-escape-ipv4.html
 > https://news.ycombinator.com/item?id=37608900
 

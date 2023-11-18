@@ -121,6 +121,8 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 #
+https://blog.liblab.com/typescript-npm-packages-done-right/
+
 https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/
 > https://news.ycombinator.com/item?id=38263786
 

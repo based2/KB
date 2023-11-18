@@ -142,6 +142,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://github.com/zoonk/uneebee elixir
+> https://news.ycombinator.com/item?id=38316936 Open-source tool for creating courses like Duolingo
+
 https://github.com/ankitects/anki/releases/tag/23.10
 > https://news.ycombinator.com/item?id=38134777
 

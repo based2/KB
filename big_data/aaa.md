@@ -339,6 +339,8 @@ https://medium.com/@fareedkhandev/pandas-ai-the-future-of-data-analysis-8f0be9b5
 https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrating-llms-into-the-notebook-paradigm/
 > https://news.ycombinator.com/item?id=36263349
 
+https://news.ycombinator.com/item?id=38310502 bi
+
 #
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 

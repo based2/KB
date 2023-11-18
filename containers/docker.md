@@ -59,6 +59,9 @@ https://github.com/iximiuz/docker-to-linux
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://korben.info/explorer-optimiser-images-docker-avec-dive.html
+> https://github.com/wagoodman/dive
+
 https://mentorcruise.com/blog/how-to-dockerize-a-react-app-and-deploy-it-easily/
 > https://news.ycombinator.com/item?id=38098647
 

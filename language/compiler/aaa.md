@@ -92,6 +92,8 @@ https://anoopelias.github.io/posts/llvm-compile-stages/
 
 https://www.bitsand.cloud/posts/llvm-pass/
 
+https://www.phoronix.com/news/LLVM-PGO-Windows-Build ~22% Faster Builds
+
 ## Clang
 https://reviews.llvm.org/D108643
 

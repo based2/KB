@@ -15,6 +15,9 @@ https://sysdig.com/blog/gitops-iac-security-source/
 https://justine.lol/make/ Using Landlock to Sandbox GNU Make
 > https://news.ycombinator.com/item?id=32376322
 
+https://gitleaks.io/
+> https://github.com/gitleaks/gitleaks
+
 # Scanner
 https://github.com/bridgecrewio/checkov
 
@@ -55,6 +58,8 @@ https://www.mend.io/sbom/
 https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 
 #
+https://arstechnica.com/security/2023/11/developers-cant-seem-to-stop-exposing-credentials-in-publicly-accessible-code/
+
 https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/
 
 https://github.com/analysis-tools-dev/static-analysis c

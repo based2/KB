@@ -29,6 +29,11 @@ https://imgur.com/a/ggyfAnX
 > > https://news.ycombinator.com/item?id=35577895
 
 # News
+https://deathbyai.gg/
+> https://news.ycombinator.com/item?id=38318889
+
+https://blocks.ovh/
+
 https://news.ycombinator.com/item?id=38230626
 
 https://cortextual.net/

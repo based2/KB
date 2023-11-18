@@ -43,6 +43,10 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://tech.slashdot.org/story/23/11/16/2128257/the-eu-will-finally-free-windows-users-from-bing
+
+https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3/
+
 https://news.ycombinator.com/item?id=38181259
 
 https://www.theregister.com/2023/11/01/official_mozilla_debian_firefox/

@@ -27,6 +27,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://arstechnica.com/tech-policy/2023/11/secret-cryptomining-rig-found-hidden-in-the-floors-of-a-polish-court/
+
 https://news.ycombinator.com/item?id=38122061
 
 https://news.ycombinator.com/item?id=37969387

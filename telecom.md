@@ -138,6 +138,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://torrentfreak.com/brazil-regulator-claims-80-of-pirate-tv-boxes-were-blocked-last-week-231030/
+
 https://www.reuters.com/business/media-telecom/singtel-owned-optus-says-massive-australia-outage-was-after-software-upgrade-2023-11-13/
 
 https://news.ycombinator.com/item?id=37971038
@@ -189,6 +191,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.inforisktoday.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599
+
 https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/
 > https://news.ycombinator.com/item?id=38293082
 

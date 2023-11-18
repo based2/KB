@@ -185,6 +185,11 @@ https://words.filippo.io/dispatches/avoid-the-randomness-from-the-sky/
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://eprint.iacr.org/2022/1703
+> https://www.quantamagazine.org/cryptographers-devise-an-approach-for-total-search-privacy-20231106/
+> > https://nautil.us/cryptographers-solve-decades-old-privacy-problem-444899/
+> > > https://news.ycombinator.com/item?id=38320675
+
 https://en.wikipedia.org/wiki/Camellia_(cipher)
 
 https://peergos.org/posts/blake3

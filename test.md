@@ -164,6 +164,8 @@ https://github.com/axllent/mailpit
 > https://news.ycombinator.com/item?id=36448686
 
 # News
+https://news.ycombinator.com/item?id=38283398
+
 https://github.com/Planetary-Computers/autotab-starter
 > https://news.ycombinator.com/item?id=37943931
 

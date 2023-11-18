@@ -39,6 +39,8 @@ https://www.secondstate.io/articles/fast-llm-inference/
 
 https://ai.meta.com/research/publications/code-llama-open-foundation-models-for-code/
 
+https://github.com/llSourcell/Doctor-Dignity/
+
 https://ai.meta.com/blog/code-llama-large-language-model-coding/
 > https://news.ycombinator.com/item?id=37248494
 

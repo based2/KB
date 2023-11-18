@@ -52,6 +52,8 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 > https://news.ycombinator.com/item?id=36628258
 
 # News
+https://news.ycombinator.com/item?id=37912954
+
 https://news.ycombinator.com/item?id=38183798
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9599606/

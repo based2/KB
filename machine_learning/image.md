@@ -376,6 +376,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://github.com/RupertAvery/DiffusionToolkit
+
 https://www.technologyreview.com/2023/08/29/1078620/google-deepmind-has-launched-a-watermarking-tool-for-ai-generated-images/
 
 https://www.technologyreview.com/2023/09/25/1080231/getty-images-promises-its-new-ai-doesnt-contain-copyrighted-art/
