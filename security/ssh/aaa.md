@@ -125,6 +125,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # Incident
+https://eprint.iacr.org/2023/1711.pdf
+> https://www.bleepingcomputer.com/news/security/researchers-extract-rsa-keys-from-ssh-server-signing-errors/
+
 https://old.reddit.com/r/netsec/comments/17v2411/passive_ssh_key_compromise_via_lattices/
 
 https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt

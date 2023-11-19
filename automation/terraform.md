@@ -328,6 +328,10 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md
+
+https://news.ycombinator.com/item?id=38334102
+
 https://blog.terramate.io/hidden-costs-of-unoptimized-terraform-projects-23c8e350d325
 
 https://www.vantage.sh/blog/finops-as-code-with-terraform

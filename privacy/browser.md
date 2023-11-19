@@ -26,6 +26,8 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://www.bleepingcomputer.com/news/google/google-shares-plans-for-blocking-third-party-cookies-in-chrome/
+
 https://news.ycombinator.com/item?id=38241237
 
 https://news.ycombinator.com/item?id=38227886
@@ -51,7 +53,6 @@ https://ericdraken.com/pfsense-decrypt-ad-traffic/
 > https://news.ycombinator.com/item?id=37279109
 
 https://addons.mozilla.org/en-US/firefox/addon/ublock-origin-lite/
->
 
 https://www.techradar.com/computing/cyber-security/track-the-trackers-together-ghostery-opens-up-its-adblocker-library
 

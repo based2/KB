@@ -252,6 +252,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://opensource.net/governments-adopt-open-source-sovereignty/
+> https://news.ycombinator.com/item?id=38327882
+
 https://macwright.com/2023/11/13/placemark
 > https://news.ycombinator.com/item?id=38250459
 

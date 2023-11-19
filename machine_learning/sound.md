@@ -206,3 +206,6 @@ https://github.com/suno-ai/bark/blob/main/README.md
 > https://news.ycombinator.com/item?id=35943108
 
 https://news.ycombinator.com/item?id=38321324
+
+https://github.com/yl4579/StyleTTS2
+> https://news.ycombinator.com/item?id=38335255

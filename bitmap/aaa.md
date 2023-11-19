@@ -81,6 +81,8 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://news.ycombinator.com/item?id=38329736
+
 https://en.wikipedia.org/wiki/Bibi-binary
 > https://news.ycombinator.com/item?id=38110679
 

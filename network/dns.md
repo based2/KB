@@ -70,6 +70,8 @@ https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 https://red.flag.domains/
 
 # Incident
+https://news.ycombinator.com/item?id=38333127
+
 https://news.ycombinator.com/item?id=37815793
 
 https://news.ycombinator.com/item?id=37821821

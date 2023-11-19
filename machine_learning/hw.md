@@ -4,6 +4,8 @@
 Google TPU v4
 Telsa
 
+https://news.ycombinator.com/item?id=38334663
+
 #
 https://mythic.ai/products/m1076-analog-matrix-processor/
 > https://news.ycombinator.com/item?id=38277598
