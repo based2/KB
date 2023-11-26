@@ -98,6 +98,8 @@ https://medium.com/@ferditatlisu/bee-the-fastest-kafka-ui-bf08b6b225b7
 https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/
 > https://news.ycombinator.com/item?id=36870278
 
+https://www.responsive.dev/blog/guide-to-kafka-streams-rebalancing
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132
@@ -139,6 +141,9 @@ https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready
 https://lists.apache.org/thread/8cz89d40h6t6wzplxjm523w91lmm6djw CVE-2022-41672: Apache Airflow: Session still functional after user is deactivated
 
 #
+https://brandur.org/river
+> https://news.ycombinator.com/item?id=38349716
+
 https://www.warpstream.com/blog/kafka-is-dead-long-live-kafka S3 go
 > https://news.ycombinator.com/item?id=37036291
 

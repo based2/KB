@@ -42,6 +42,10 @@ CVE-2023-38831 .rar
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907
 
 # News
+https://bellard.org/nncp/
+
+https://www.gnu.org/philosophy/gif.html
+
 https://www.streamtvinsider.com/video/nokia-sues-amazon-hp-over-video-compression-technology
 > https://news.ycombinator.com/item?id=38114526
 

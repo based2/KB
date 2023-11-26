@@ -96,6 +96,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=38399460
+
 https://linuxfr.org/news/la-longuement-desiree-fedora-linux-39-est-disponible
 
 https://ipng.ch/s/articles/2023/11/11/mellanox-sn2700.html

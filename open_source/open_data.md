@@ -12,6 +12,8 @@ https://increment.com/containers/containerization-case-study/
 > https://news.ycombinator.com/item?id=27327849
 
 # News
+https://news.ycombinator.com/item?id=38421696
+
 https://www.taiuru.maori.nz/maori-data-sovereignty-licences/
 > https://news.ycombinator.com/item?id=28286362
 

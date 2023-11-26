@@ -163,7 +163,10 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 # POC
 https://github.com/tuvtran/project-based-learning
 
-#
+# News
+https://dev.37signals.com/the-radiating-programmer/
+> https://news.ycombinator.com/item?id=38347090
+
 https://staysaasy.com/startups/2023/11/10/imprecise-asks.html
 > https://news.ycombinator.com/item?id=38231160
 

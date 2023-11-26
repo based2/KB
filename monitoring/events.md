@@ -3,3 +3,5 @@ https://tidyfirst.substack.com/p/eventual-business-consistency
 
 https://blog.runreveal.com/kawa-the-event-processor-for-the-grug-brained-developer/
 > https://news.ycombinator.com/item?id=36989407
+
+https://news.ycombinator.com/item?id=38419513

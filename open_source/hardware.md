@@ -144,6 +144,9 @@ https://news.ycombinator.com/item?id=28581234 Where is the open source smart TV 
 https://news.ycombinator.com/item?id=37893555
 
 # News
+https://www.apertus.org/en camera
+> https://news.ycombinator.com/item?id=38421710
+
 https://news.ycombinator.com/item?id=38270446
 
 https://slimbook.es/en/faq#why-choose-slimbook

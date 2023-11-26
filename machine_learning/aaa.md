@@ -35,6 +35,9 @@ https://github.com/dair-ai/Prompt-Engineering-Guide
 
 https://systemds.apache.org/docs/3.1.0/
 
+# Learn
+https://news.ycombinator.com/item?id=38405823
+
 # Tools
 ## TensorFlow
 https://ai.googleblog.com/2021/06/frill-on-device-speech-representations.html
@@ -142,29 +145,6 @@ https://umap-learn.readthedocs.io/en/latest/basic_usage.html
 
 https://pair.withgoogle.com/explorables/
 > https://news.ycombinator.com/item?id=27739694
-
-# Data
-https://en.wikipedia.org/wiki/MNIST_database
-
-https://www.amazon.science/blog/amazon-releases-51-language-dataset-for-language-understanding
-> https://news.ycombinator.com/item?id=31097029
-
-https://news.ycombinator.com/item?id=33610834
-
-https://galactica.org/
-> https://news.ycombinator.com/item?id=33611265
-
-https://github.com/tensorflow/datasets
-> https://news.ycombinator.com/item?id=34079690
-
-https://www.cerebras.net/blog/slimpajama-a-627b-token-cleaned-and-deduplicated-version-of-redpajama ASLv2
-> https://news.ycombinator.com/item?id=36277789
-
-https://news.mit.edu/2023/new-dataset-arctic-images-will-spur-artificial-intelligence-research-0724
-> https://www.ll.mit.edu/r-d/datasets
-> https://news.ycombinator.com/item?id=36907324
-
-https://news.ycombinator.com/item?id=38149093
 
 # Speed
 https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition
@@ -276,6 +256,8 @@ https://github.com/mlc-ai/web-llm
 > https://news.ycombinator.com/item?id=35583349
 
 # Legal
+https://news.ycombinator.com/item?id=38373191
+
 https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination
 > https://news.ycombinator.com/item?id=31365053
 
@@ -457,6 +439,19 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://udlbook.github.io/udlbook/
+
+https://cset.georgetown.edu/wp-content/uploads/t0552_explainable_AI_plan_EN.pdf
+
+https://arxiv.org/abs/2311.10770
+> https://news.ycombinator.com/item?id=38364084
+
+https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html Q
+> https://news.ycombinator.com/item?id=38409033
+
+https://www.interconnects.ai/p/q-star
+> https://news.ycombinator.com/item?id=38407032
+
 https://news.ycombinator.com/item?id=38335055
 
 https://news.ycombinator.com/item?id=38331200

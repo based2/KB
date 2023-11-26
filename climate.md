@@ -69,6 +69,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.reuters.com/business/environment/worlds-largest-iceberg-breaks-free-heads-toward-southern-ocean-2023-11-24/
+
 https://www.theguardian.com/environment/2023/nov/19/carbon-dioxide-direct-air-capture
 
 https://www.reuters.com/business/environment/new-satellite-will-detect-share-co2-data-individual-facilities-2023-11-11/

@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=38406578
+
 https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/
 > https://news.ycombinator.com/item?id=38266340
 

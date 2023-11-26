@@ -125,6 +125,9 @@ http://www.weaselhat.com/2021/06/29/processing-semi-structured-data-in-the-unix-
 > https://news.ycombinator.com/item?id=28104657
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/unix/ShellsAndCurrentDirectory
+> https://news.ycombinator.com/item?id=38419914
+
 https://blog.plover.com/Unix/whitespace.html foo\ bar.txt
 > https://news.ycombinator.com/item?id=36933062
 > https://stackoverflow.com/questions/15783701/which-characters-need-to-be-escaped-when-using-bash

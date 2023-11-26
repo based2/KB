@@ -247,6 +247,8 @@ https://fosdem.org/2023/schedule/event/llvmflang/attachments/slides/5699/export/
 https://github.com/muellermichel/Hybrid-Fortran gpu
 > https://news.ycombinator.com/item?id=35972584
 
+https://wg5-fortran.org/f2023.html
+
 ## COBOL
 https://monadical.com/posts/cobol.html#
 > https://news.ycombinator.com/item?id=26726100
@@ -349,6 +351,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://flix.dev/
+> https://news.ycombinator.com/item?id=38419263
+
 https://thenewstack.io/vim-creator-bram-moolenaars-forgotten-programming-language-zimbu/
 
 https://stackoverflow.blog/2022/10/31/comparing-frameworks-for-cross-platform-apps-flutter-vs-react-native/

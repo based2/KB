@@ -57,6 +57,9 @@ https://github.com/zajo/appler
 # HyperCard
 https://hypercard.org/
 
+https://internet-janitor.itch.io/decker
+> https://news.ycombinator.com/item?id=38386495
+
 https://hypervariety.com/WildCard/
 > https://news.ycombinator.com/item?id=29284296
 

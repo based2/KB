@@ -154,6 +154,14 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=38371126
+
+https://github.com/emilk/egui/
+
+https://news.ycombinator.com/item?id=38403111
+
+https://news.ycombinator.com/item?id=38331349
+
 https://linuxfr.org/news/des-nouvelles-de-xonotic
 > https://xonotic.org/posts/2023/xonotic-0-8-6-release/
 

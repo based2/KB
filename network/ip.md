@@ -84,6 +84,8 @@ https://www.cse.wustl.edu/~jain/cis788-99/ftp/voip_protocols/
 > https://news.ycombinator.com/item?id=27323442
 
 # Security
+https://en.wikipedia.org/wiki/Fail2ban
+
 https://www.virustotal.com/gui/home/url
 
 https://www.abuseipdb.com
@@ -101,6 +103,18 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News
+https://diziet.dreamwidth.org/12934.html
+> https://news.ycombinator.com/item?id=33745580
+
+https://blog.cloudflare.com/cloudflare-servers-dont-own-ips-anymore/
+> https://news.ycombinator.com/item?id=33742563
+
+https://ipapi.is/blog/using-reverse-dns-data.html
+> https://news.ycombinator.com/item?id=38414279
+
+https://ip.guide/
+> https://news.ycombinator.com/item?id=38409164
+
 https://stackoverflow.com/questions/73128792/matching-simple-ip-addresses-in-yara-using-hexadecimal-strings
 
 https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/

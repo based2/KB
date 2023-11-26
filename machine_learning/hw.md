@@ -7,6 +7,10 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://news.ycombinator.com/item?id=38422807
+
+https://news.ycombinator.com/item?id=38404925
+
 https://mythic.ai/products/m1076-analog-matrix-processor/
 > https://news.ycombinator.com/item?id=38277598
 

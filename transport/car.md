@@ -18,6 +18,10 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://news.ycombinator.com/item?id=38383099
+
+https://news.ycombinator.com/item?id=38399551
+
 https://medium.com/@pareto_investor/toyota-ceo-our-ammonia-engine-is-the-end-of-evs-daf889608091
 > https://news.ycombinator.com/item?id=38057110
 

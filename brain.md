@@ -52,7 +52,14 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 > https://news.ycombinator.com/item?id=36628258
 
 # News
+https://news.utexas.edu/2023/11/21/bacteria-store-memories-and-pass-them-on-for-generations/
+> https://news.ycombinator.com/item?id=38372687
+
+https://www.quantamagazine.org/in-the-guts-second-brain-key-agents-of-health-emerge-20231121
+> https://news.ycombinator.com/item?id=38371808
+
 https://blog.physics-astronomy.com/2022/12/the-human-brain-builds-structures-in-11.html
+> https://news.ycombinator.com/item?id=38334538
 
 https://news.ycombinator.com/item?id=37912954
 

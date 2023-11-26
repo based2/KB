@@ -6,6 +6,12 @@ https://blog.zulip.com/2021/05/13/zulip-4-0-released/
 https://takebackourtech.org/xmpp-comeback/
 > https://news.ycombinator.com/item?id=29256618
 
+# Bot
+https://slack.com/help/articles/202026038-An-introduction-to-Slackbot
+
+https://github.com/antirez/botlib telegram
+> https://news.ycombinator.com/item?id=38408873
+
 # Incident
 https://news.ycombinator.com/item?id=32853107
 

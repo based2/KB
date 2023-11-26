@@ -11,6 +11,9 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 https://news.ycombinator.com/item?id=37180017
 
 #
+https://lmstudio.ai/
+> https://news.ycombinator.com/item?id=38377072
+
 https://github.com/lastmile-ai/aiconfig
 > https://news.ycombinator.com/item?id=38306410
 

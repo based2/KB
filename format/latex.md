@@ -36,3 +36,6 @@ https://fanpu.io/blog/2023/latex-tips/
 
 https://www.alanshawn.com/latex3-tutorial/
 > https://news.ycombinator.com/item?id=36942967
+
+https://typst.app/
+> https://news.ycombinator.com/item?id=38354422

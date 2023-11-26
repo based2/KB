@@ -27,6 +27,11 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://news.ycombinator.com/item?id=38422186
+
+https://www.evanjones.ca/setenv-is-not-thread-safe.html
+> https://news.ycombinator.com/item?id=38342642
+
 https://lobste.rs/s/6i6hkz/inherent_fragility_seccomp_2017
 
 https://www.qualys.com/2023/10/03/cve-2023-4911/looney-tunables-local-privilege-escalation-glibc-ld-so.txt

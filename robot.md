@@ -95,6 +95,9 @@ https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-ro
 https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors
 
 # News
+https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html
+> https://news.ycombinator.com/item?id=38408920
+
 https://techxplore.com/news/2023-09-multi-purpose-robot.html
 
 https://spectrum.ieee.org/warehouse-robots

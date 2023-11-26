@@ -496,6 +496,10 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://news.ycombinator.com/item?id=38408345
+
+https://foundation.rust-lang.org/news/the-rust-foundation-to-develop-training-and-certification-program/
+
 https://www.jetbrains.com/rust/download/
 
 https://davidlattimore.github.io/making-supply-chain-attacks-harder.html#introducing-cackle-aka-cargo-acl

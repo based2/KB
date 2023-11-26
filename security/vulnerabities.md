@@ -14,6 +14,8 @@ https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-215a
 # References
 https://cert.europa.eu/publications/security-advisories
 
+https://www.cisa.gov/news-events/cybersecurity-advisories
+
 https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 
 https://nvd.nist.gov/vuln

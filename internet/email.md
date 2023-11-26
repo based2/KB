@@ -41,6 +41,11 @@ https://tweedegolf.nl/en/blog/86/introducing-mailcrab
 > https://news.ycombinator.com/item?id=35010794
 > https://github.com/tweedegolf/mailcrab Rust, ASLv2
 
+https://github.com/kamranahmedse/local-ses
+> https://news.ycombinator.com/item?id=38341035
+
+https://mailpit.axllent.org/
+
 # Incident
 https://www-heise-de.translate.goog/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de
 > https://news.ycombinator.com/item?id=38212453
@@ -108,6 +113,8 @@ https://www.stavros.io/posts/spam-spammers-back/ gpt
 
 https://www.multicians.org/thvv/mail-history.html
 > https://news.ycombinator.com/item?id=37087791
+
+https://news.ycombinator.com/item?id=38379397
 
 # Security
 
@@ -202,6 +209,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://github.com/mail-in-a-box/mailinabox
+> https://news.ycombinator.com/item?id=38406478
+
 https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/
 
 https://www.exim.org/

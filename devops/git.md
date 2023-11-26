@@ -274,6 +274,8 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://github.blog/2023-11-20-highlights-from-git-2-43/
+
 https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/
 > https://news.ycombinator.com/item?id=38222596
 

@@ -1,3 +1,16 @@
+https://openjsf.org/announcement/2023/11/01/openjs-foundation-warns-consumer-privacy-and-security-at-risk-in-three-quarters-of-a-billion-websites/
+
+https://news.ycombinator.com/item?id=38422125
+
+https://www.cisa.gov/sites/default/files/2023-08/FY2024-2026_Cybersecurity_Strategic_Plan.pdf
+
+https://www.whitehouse.gov/briefing-room/presidential-actions/2023/08/09/executive-order-on-addressing-united-states-investments-in-certain-national-security-technologies-and-products-in-countries-of-concern/
+
+https://obsolescenceguaranteed.blogspot.com/2023/11/stack-buffer-overflow-attack-211bsd-on.html
+> https://news.ycombinator.com/item?id=38356702
+
+https://www.cisa.gov/news-events/news/cybersecurity-insurance-and-data-analysis-working-group-re-envisioned-help-drive-down-cyber-risk
+
 https://arxiv.org/abs/2311.09394
 
 https://www.bleepingcomputer.com/news/security/genetics-firm-23andme-says-user-data-stolen-in-credential-stuffing-attack/

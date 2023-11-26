@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://jsulpis.github.io/realtime-planet-shader/earth/
+> https://news.ycombinator.com/item?id=38360927
+
+https://cssanimotion.pages.dev/
+> https://news.ycombinator.com/item?id=38402776
+
 https://news.ycombinator.com/item?id=38250913
 
 https://oimo.io/works/water/

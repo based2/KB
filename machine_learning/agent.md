@@ -11,3 +11,5 @@ https://e2b.dev/blog/ai-agents-vs-developers
 
 https://news.ycombinator.com/item?id=38208321
 
+https://news.ycombinator.com/item?id=38403888
+

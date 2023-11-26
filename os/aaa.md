@@ -271,6 +271,7 @@ https://www.theregister.com/2022/03/29/non_c_operating_systems/
 
 https://mirage.io/blog/announcing-mirage-40 ocaml
 > https://news.ycombinator.com/item?id=30840571
+> https://news.ycombinator.com/item?id=38391446
 
 https://brutal.smnx.sh/articles/milestone-4
 > https://news.ycombinator.com/item?id=30829019

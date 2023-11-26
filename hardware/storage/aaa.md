@@ -56,6 +56,10 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://news.ycombinator.com/item?id=38371307
+
+https://news.ycombinator.com/item?id=38316002
+
 https://news.ycombinator.com/item?id=38263435
 
 https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw

@@ -191,9 +191,12 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.sdxcentral.com/articles/news/linux-foundation-wants-to-defragment-telecom-cnf-efforts/2023/11/
+
 https://arstechnica.com/security/2023/11/the-fcc-says-new-rules-will-curb-sim-swapping-im-pessimistic/
 
 https://www.inforisktoday.com/european-telecom-body-to-open-source-radio-encryption-system-a-23599
+> https://news.ycombinator.com/item?id=38353940
 
 https://9to5mac.com/2023/11/16/apple-rcs-coming-to-iphone/
 > https://news.ycombinator.com/item?id=38293082

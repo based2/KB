@@ -95,6 +95,8 @@ https://github.com/typelevel/fs2
 https://gitlab.com/mhammons/slinc C
 
 # Security
+https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950
+
 https://eed3si9n.com/sbt-1.8.3
 
 # News

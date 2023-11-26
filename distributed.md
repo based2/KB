@@ -1,3 +1,5 @@
+https://martinfowler.com/books/patterns-distributed.html
+
 http://charap.co/reading-group-paxos-vs-raft-have-we-reached-consensus-on-distributed-consensus/
 > https://news.ycombinator.com/item?id=27831576
 

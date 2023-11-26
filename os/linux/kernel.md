@@ -35,6 +35,10 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://lwn.net/Articles/949960/ The BPF-programmable network device
+
+https://news.ycombinator.com/item?id=38408711
+
 https://news.ycombinator.com/item?id=38290145
 
 https://news.ycombinator.com/item?id=38204679

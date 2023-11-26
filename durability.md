@@ -50,6 +50,8 @@ https://spectrumlocalnews.com/nys/central-ny/politics/2022/10/26/new-york-could-
 https://fr.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right-to-repair-bill
 > https://news.ycombinator.com/item?id=35532479
 
+https://news.ycombinator.com/item?id=38421896
+
 #
 https://github.com/lima-vm/lima
 

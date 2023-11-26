@@ -228,6 +228,8 @@ https://monzo.com/blog/2022/05/26/humans-who-can-rpc-securing-staff-access-to-mi
 https://code-held.com/2022/07/28/microservices/
 > https://news.ycombinator.com/item?id=34329656
 
+https://news.ycombinator.com/item?id=38404905
+
 # Serverless - functions
 
 # APIs

@@ -45,7 +45,9 @@ https://github.com/google/cadvisor
 http://nieh.net/pubs/ieeesp2021_kvm.pdf
 > https://news.ycombinator.com/item?id=27360600
 
-#
+
+https://news.ycombinator.com/item?id=38398969
+
 https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882

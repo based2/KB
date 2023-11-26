@@ -104,6 +104,8 @@ https://murusfirewall.com/Documentation/OS%20X%20PF%20Manual.pdf
 
 https://manjusri.ucsc.edu/2015/03/10/PF-on-Mac-OS-X/
 
+https://news.ycombinator.com/item?id=38404792
+
 example for ipv6:
 
 block from any to { 2a00:1288:1:1:1:1:1:1/31 }
@@ -128,6 +130,8 @@ https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
 > https://news.ycombinator.com/item?id=31864974
 > > https://github.com/jamf/CIS-for-macOS-Catalina-CP
+
+https://apple.stackexchange.com/questions/268512/how-to-setup-the-adaptive-firewall
 
 https://www.netify.ai/resources/applications/apple-updates
 
@@ -442,7 +446,12 @@ https://developer.apple.com/news/?id=mdkbobfo Account deletion within apps requi
 https://thenougatmachine.wordpress.com/2022/03/23/an-apple-original-on-dvd-the-definitive-unboxing-and-ux-review/
 > https://news.ycombinator.com/item?id=30809226
 
-#
+# News
+https://news.ycombinator.com/item?id=38421862
+
+https://fabiensanglard.net/xdr/index.html
+> https://news.ycombinator.com/item?id=38402092
+
 https://news.ycombinator.com/item?id=38179773
 
 https://news.ycombinator.com/item?id=38179780

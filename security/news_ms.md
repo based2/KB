@@ -1,6 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/ Attacking Windows Hello Fingerprint Authentication
+> https://old.reddit.com/r/netsec/comments/180vr1f/a_touch_of_pwn_attacking_windows_hello/
+
+https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2023-36025
+> https://krebsonsecurity.com/2023/11/microsoft-patch-tuesday-november-2023-edition/#more-65633
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-vms-broken-by-october-updates/
 
 https://github.com/tandasat/CVE-2023-36427/blob/main/report.md

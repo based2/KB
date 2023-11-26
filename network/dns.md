@@ -100,7 +100,13 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
-#
+# News
+https://thoughts.theden.sh/posts/dns-txt-record-fun/
+> https://news.ycombinator.com/item?id=38419272
+
+https://www.rfc-editor.org/rfc/rfc9460
+> https://news.ycombinator.com/item?id=38420555
+
 https://mullvad.net/en/blog/moving-our-encrypted-dns-servers-to-run-in-ram
 > https://news.ycombinator.com/item?id=38217355
 

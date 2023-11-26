@@ -34,6 +34,9 @@ https://ai.meta.com/llama/ v2
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
 
+https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/
+> https://news.ycombinator.com/item?id=38389386
+
 https://www.secondstate.io/articles/fast-llm-inference/
 > https://news.ycombinator.com/item?id=38246668
 
@@ -158,6 +161,15 @@ https://github.com/markasoftware/llama-cpu
 https://github.com/pengxiao-song/LawGPT cn
 
 # News
+https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/
+> https://news.ycombinator.com/item?id=38358032
+
+https://news.ycombinator.com/item?id=38405406
+
+https://news.ycombinator.com/item?id=38401805
+
+https://news.ycombinator.com/item?id=38338635
+
 https://github.com/stanfordnlp/dspy
 
 https://www.nature.com/articles/s41586-023-06647-8

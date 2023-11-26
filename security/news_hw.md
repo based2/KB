@@ -8,6 +8,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://eprint.iacr.org/2021/772.pdf falcon
+> https://news.ycombinator.com/item?id=38422340
+
 https://lock.cmpxchg8b.com/reptar.html
 
 https://arstechnica.com/security/2023/10/theres-a-new-way-to-flip-bits-in-dram-and-it-works-against-the-latest-defenses/#p3

@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36052
+
 https://www.paloaltonetworks.com/blog/prisma-cloud/secrets-leakage-user-error-azure-cli/
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-flaw-after-being-called-irresponsible-by-tenable-ceo/
@@ -43,6 +45,8 @@ https://gizmodo.com/microsoft-china-cyberattack-government-email-accounts-185063
 https://msrc.microsoft.com/blog/2023/06/microsoft-response-to-layer-7-distributed-denial-of-service-ddos-attacks/
 
 https://news.ycombinator.com/item?id=36347915
+
+https://news.ycombinator.com/item?id=33743567
 
 https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/
 > https://news.ycombinator.com/item?id=36259745
@@ -105,7 +109,9 @@ https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-u
 
 https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
 
-#
+# News
+https://github.com/synacktiv/Mindmaps
+
 https://www.cnbc.com/2023/07/28/microsoft-annual-report-highlights-importance-of-gpus.html
 > https://news.ycombinator.com/item?id=36914081
 

@@ -91,6 +91,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # Incident
+https://discuss.elastic.co/t/8-11-1-7-17-15-security-update-esa-2023-25/347149 elasticsearch
+
 https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-managers-php-form-actions-42739
 
 https://vigilance.fr/vulnerabilite/Splunk-App-for-Lookup-File-Editing-traversee-de-repertoire-41397

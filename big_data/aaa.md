@@ -345,6 +345,13 @@ https://news.ycombinator.com/item?id=38310502 bi
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=38415252
+
+https://intelpython.github.io/DPEP/main/ Data Parallel Extensions for Python
+> https://news.ycombinator.com/item?id=38400685
+
+https://news.ycombinator.com/item?id=38401212
+
 https://datascience.stanford.edu/programs/stanford-data-science-scholars-program/data-science-handbook
 > https://news.ycombinator.com/item?id=38239728
 

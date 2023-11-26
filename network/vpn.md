@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://maldbg.com/packed-android-proxy-framework Bright Data, hola
+
 https://www.theregister.com/2023/08/10/tunnelcrack_vpn/?td=rt-4a
 
 https://www.openwall.com/lists/oss-security/2023/08/03/1 mozilla
@@ -78,7 +80,9 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 
 https://www.ic3.gov/Media/News/2021/211117-2.pdf fatpipe vpn
 
-#
+# News
+https://wireskip.com/
+
 https://lecromee.github.io/posts/swing_vpn_ddosing_sites/
 > https://news.ycombinator.com/item?id=36382700
 
@@ -91,7 +95,7 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
-#
+# News
 https://torrentfreak.com/dozens-of-vpns-shadowsocks-named-in-leaked-russian-blocking-document-231117/
 
 https://obscuravpn.io/

@@ -20,6 +20,8 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
 
 #
+https://community.progress.com/s/article/WS-FTP-Server-Service-Pack-November-2023
+
 https://convergetp.com/2023/11/16/crushftp-zero-day-cve-2023-43177-discovered/
 
 https://github.com/yunuscadirci/DIALStranger

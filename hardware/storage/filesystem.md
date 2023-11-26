@@ -64,6 +64,10 @@ https://github.com/maharmstone/btrfs
 > https://www.lilysthings.org/blog/windows-on-btrfs/
 > > https://news.ycombinator.com/item?id=35660186
 
+# Incident
+https://github.com/openzfs/zfs/issues/15526
+> https://news.ycombinator.com/item?id=38405731
+
 # News
 https://blogs.oracle.com/linux/post/directory-entry-lookup-in-ext4
 

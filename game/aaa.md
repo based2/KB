@@ -18,7 +18,7 @@ https://en.wikipedia.org/wiki/RenderWare
 
 https://jvm-gaming.org/
 
-#
+# ML
 https://news.ycombinator.com/item?id=38307889
 
 https://sep.stanford.edu/sep/jon/raven/
@@ -28,7 +28,16 @@ https://imgur.com/a/ggyfAnX
 > https://tech.slashdot.org/story/23/04/14/175246/valve-restricts-accounts-of-2500-users-who-marked-a-negative-game-review-useful
 > > https://news.ycombinator.com/item?id=35577895
 
+https://news.ycombinator.com/item?id=38407521 diplomacy
+
 # News
+https://github.com/mystery-o-matic/mystery-o-matic.github.io
+> https://news.ycombinator.com/item?id=38420740
+
+https://news.ycombinator.com/item?id=38408205
+
+https://news.ycombinator.com/item?id=38336688
+
 https://news.ycombinator.com/item?id=38304661
 
 https://news.ycombinator.com/item?id=38331349

@@ -27,6 +27,8 @@ https://emilyriederer.netlify.app/post/column-name-contracts/
 https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989
 > https://news.ycombinator.com/item?id=26926225 panda
 
+https://news.ycombinator.com/item?id=38390714
+
 #
 https://www.grouparoo.com/blog/varchar-191
 > https://news.ycombinator.com/item?id=27186385

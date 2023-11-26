@@ -141,6 +141,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/
+> https://old.reddit.com/r/netsec/comments/181fc11/diamond_sleet_supply_chain_compromise_distributes/
+> https://en.wikipedia.org/wiki/CyberLink
+
 https://www.sonarsource.com/blog/vscode-security-markdown-vulnerabilities-in-extensions/
 
 https://news.ycombinator.com/item?id=38231656
@@ -461,6 +465,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/
+> https://news.ycombinator.com/item?id=38368073
+
+https://news.ycombinator.com/item?id=38372972
+
 https://www.systeminit.com/
 > https://github.com/systeminit/si
 > https://thenewstack.io/adam-jacob-rebuilding-devops-with-system-initiative/

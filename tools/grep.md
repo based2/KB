@@ -60,3 +60,6 @@ https://utcc.utoronto.ca/~cks/space/blog/linux/GNUGrepVersusEcology
 
 https://developer.apple.com/forums/thread/738862
 > https://news.ycombinator.com/item?id=38104554
+
+https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0
+> https://news.ycombinator.com/item?id=38424633

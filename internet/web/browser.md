@@ -43,6 +43,11 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://ploum.net/2023-11-25-offpunk2.html
+> https://news.ycombinator.com/item?id=38412886
+
+https://news.ycombinator.com/item?id=38349357
+
 https://tech.slashdot.org/story/23/11/16/2128257/the-eu-will-finally-free-windows-users-from-bing
 
 https://developer.chrome.com/blog/improvements-to-content-filtering-in-manifest-v3/

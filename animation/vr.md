@@ -1,3 +1,5 @@
+https://www.leemartin.com/wish-star-finder
+
 https://news.ycombinator.com/item?id=37964575
 
 https://www.apple.com/newsroom/2023/08/pixar-adobe-apple-autodesk-and-nvidia-form-alliance-for-openusd/

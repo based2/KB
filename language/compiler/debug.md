@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://news.ycombinator.com/item?id=38343398
+
 https://alan.norbauer.com/articles/browser-debugging-tricks
 > https://news.ycombinator.com/item?id=38226743
 

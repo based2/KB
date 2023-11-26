@@ -38,7 +38,14 @@ https://github.com/Rikorose/DeepFilterNet
 https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
-#
+# News
+https://news.ycombinator.com/item?id=38420282
+
+https://tytel.org/helm/
+> https://news.ycombinator.com/item?id=38414033
+
+https://news.ycombinator.com/item?id=38411105
+
 https://www.phoronix.com/news/AOMedia-IAMF-Audio-Spec
 > https://news.ycombinator.com/item?id=38218785
 

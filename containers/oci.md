@@ -3,6 +3,9 @@
 # Formats
 
 #
+https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957/2
+> https://news.ycombinator.com/item?id=38410423
+
 https://www.chainguard.dev/unchained/oci-announces-upcoming-changes-for-registries
 > https://news.ycombinator.com/item?id=36712084
 

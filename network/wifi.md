@@ -9,6 +9,8 @@ https://www.krackattacks.com/#tools From 2017
 
 https://github.com/bettercap/bettercap
 
+https://news.ycombinator.com/item?id=38183394
+
 # Portal
 https://news.ycombinator.com/item?id=27771846
 
@@ -25,7 +27,10 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
-https://news.ycombinator.com/item?id=38183394
+https://news.ycombinator.com/item?id=38391229
+
+https://www.supernetworks.org/pages/blog/secure%20router%20chaining
+> https://news.ycombinator.com/item?id=38402289
 
 https://rachelbythebay.com/w/2023/11/06/wpa3/
 > https://news.ycombinator.com/item?id=38170980

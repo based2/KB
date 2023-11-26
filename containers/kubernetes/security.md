@@ -1,3 +1,5 @@
+https://spiffe.io/docs/latest/spiffe-about/overview/
+
 https://www.bleepingcomputer.com/news/security/microsoft-finds-raspberry-robin-worm-in-hundreds-of-windows-networks/
 
 https://www.openpolicyagent.org/

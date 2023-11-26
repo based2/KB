@@ -58,3 +58,5 @@ https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs
 
 https://github.com/suhaildawood/SvelteKit-integrated-WebSocket
 > https://news.ycombinator.com/item?id=36146800
+
+https://news.ycombinator.com/item?id=38413660

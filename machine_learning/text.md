@@ -53,6 +53,19 @@ https://scriv.ai/guides/retrieval-augmented-generation-overview/
 > https://news.ycombinator.com/item?id=37261198
 
 # News
+https://github.com/Frost-group/The-Oracle-of-Zotero
+
+https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai
+> https://news.ycombinator.com/item?id=38382067
+
+https://www.anthropic.com/index/claude-2-1
+> https://news.ycombinator.com/item?id=38365934
+
+https://github.com/socketteer/loom
+> https://news.ycombinator.com/item?id=38398563
+
+https://news.ycombinator.com/item?id=38341708
+
 https://simonwillison.net/2023/Nov/15/gpts/
 > https://news.ycombinator.com/item?id=38277926
 

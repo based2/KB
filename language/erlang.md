@@ -174,6 +174,9 @@ https://www.leemeichin.com/posts/switching-to-elixir.html
 
 https://news.ycombinator.com/item?id=38175413
 
+https://engineering.ramp.com/elixir-at-ramp
+> https://news.ycombinator.com/item?id=38404835
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016
