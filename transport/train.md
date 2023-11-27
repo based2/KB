@@ -21,6 +21,8 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 > https://news.ycombinator.com/item?id=35013030
 
 # News
+https://news.ycombinator.com/item?id=38434574
+
 https://news.ycombinator.com/item?id=38411505
 
 https://news.ycombinator.com/item?id=38202729

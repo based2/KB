@@ -75,6 +75,9 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://naev.org/
+> https://news.ycombinator.com/item?id=38418262
+
 https://www.freedroid.org/
 
 https://gitlab.com/OpenMW/openmw

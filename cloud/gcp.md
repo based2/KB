@@ -23,6 +23,9 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://www.theregister.com/2023/11/27/google_drive_files_disappearing/
+> https://news.ycombinator.com/item?id=38431743
+
 https://www.notebookcheck.net/MrWhosetheboss-video-reveals-Google-s-Pixel-8-Pro-Tensor-G3-off-loads-all-generative-AI-tasks-to-the-cloud.760215.0.html
 > https://news.ycombinator.com/item?id=37966569
 

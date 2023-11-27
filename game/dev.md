@@ -154,6 +154,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=38431402
+
 https://news.ycombinator.com/item?id=38371126
 
 https://github.com/emilk/egui/

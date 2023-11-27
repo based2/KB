@@ -67,6 +67,8 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://arstechnica.com/science/2023/11/tasmanian-devil-event-has-the-power-of-hundreds-of-billions-of-suns/
+
 https://www.nature.com/articles/d41586-023-03677-0
 > https://news.ycombinator.com/item?id=38420754
 

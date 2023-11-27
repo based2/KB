@@ -209,3 +209,7 @@ https://news.ycombinator.com/item?id=38321324
 
 https://github.com/yl4579/StyleTTS2
 > https://news.ycombinator.com/item?id=38335255
+
+# News
+https://blog.untrod.com/2023/11/robot-dad.html
+> https://news.ycombinator.com/item?id=38433330

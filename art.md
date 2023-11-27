@@ -46,6 +46,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://rndr.studio/projects/openrndr/
+> https://news.ycombinator.com/item?id=38438750
+
 https://pnote.eu/projects/invaders/map.html
 > https://news.ycombinator.com/item?id=38238658
 
