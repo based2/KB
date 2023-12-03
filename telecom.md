@@ -191,6 +191,14 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://www.heise.de/news/5G-Projekt-der-Bahn-Gigabit-Mobilfunk-auf-Teststrecke-9546733.html
+
+https://submarine-cable-map-2023.telegeography.com/
+> https://news.ycombinator.com/item?id=38496816
+
+https://www.aboutamazon.com/news/innovation-at-amazon/amazon-project-kuiper-spacex-launch
+> https://news.ycombinator.com/item?id=38491428
+
 https://www.sdxcentral.com/articles/news/linux-foundation-wants-to-defragment-telecom-cnf-efforts/2023/11/
 
 https://arstechnica.com/security/2023/11/the-fcc-says-new-rules-will-curb-sim-swapping-im-pessimistic/

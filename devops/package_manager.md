@@ -121,6 +121,10 @@ https://vigilance.fr/vulnerabilite/snap-confine-lecture-et-ecriture-de-fichier-v
 https://www.qualys.com/2022/11/30/cve-2022-3328/advisory-snap.txt
 
 # News
+https://blog.trailofbits.com/2023/11/06/adding-build-provenance-to-homebrew/
+> https://github.com/in-toto/attestation
+> https://news.ycombinator.com/item?id=38504178
+
 https://www.forrestthewoods.com/blog/dependencies-belong-in-version-control/
 > https://news.ycombinator.com/item?id=38425042
 

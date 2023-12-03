@@ -90,5 +90,7 @@ https://www.symmetricds.org/
 https://landrop.app/
 >
 
+https://powersync.com/
+> https://news.ycombinator.com/item?id=38473743
 
 

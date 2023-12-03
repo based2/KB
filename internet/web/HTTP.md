@@ -181,6 +181,8 @@ https://mitmproxy.org/posts/releases/mitmproxy10/
 https://nghttp2.org/nghttp3/
 > https://news.ycombinator.com/item?id=37971633
 
+https://github.com/Tencent/tquic
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

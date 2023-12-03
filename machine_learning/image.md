@@ -376,6 +376,17 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://arxiv.org/pdf/2103.14030.pdf
+> https://github.com/ThalesGroup/darswin classification
+
+https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-multimodal-embeddings-and-text-models-are-now-available-in-amazon-bedrock/
+
+https://dangeng.github.io/visual_anagrams/
+> https://news.ycombinator.com/item?id=38477259
+
+https://noiselith.com/
+> https://news.ycombinator.com/item?id=38487112
+
 https://news.ycombinator.com/item?id=38432486
 
 https://news.ycombinator.com/item?id=38342670

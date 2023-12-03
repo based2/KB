@@ -81,6 +81,8 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 https://www.ic3.gov/Media/News/2021/211117-2.pdf fatpipe vpn
 
 # News
+https://news.ycombinator.com/item?id=38496669
+
 https://wireskip.com/
 
 https://lecromee.github.io/posts/swing_vpn_ddosing_sites/

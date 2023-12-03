@@ -231,6 +231,8 @@ https://www.bleepingcomputer.com/news/security/shelltorch-flaws-expose-ai-server
 https://github.com/protectai/ai-exploits
 > https://news.ycombinator.com/item?id=38291880
 
+https://news.ycombinator.com/item?id=38462932
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -260,6 +262,10 @@ https://news.ycombinator.com/item?id=38373191
 
 https://www.justice.gov/opa/pr/justice-department-and-eeoc-warn-against-disability-discrimination
 > https://news.ycombinator.com/item?id=31365053
+
+https://news.ycombinator.com/item?id=38472367
+
+https://news.ycombinator.com/item?id=38460325
 
 # History
 https://news.ycombinator.com/item?id=28343118
@@ -439,6 +445,23 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://github.com/Mozilla-Ocho/llamafile
+> https://news.ycombinator.com/item?id=38464057
+
+https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/
+> https://news.ycombinator.com/item?id=38461323
+
+https://qtransformer.github.io/
+> https://news.ycombinator.com/item?id=38471942
+
+https://news.ycombinator.com/item?id=38477197
+
+https://news.ycombinator.com/item?id=38475545
+
+https://news.ycombinator.com/item?id=38486394
+
+https://blogs.nvidia.com/blog/what-is-retrieval-augmented-generation/
+
 https://udlbook.github.io/udlbook/
 
 https://cset.georgetown.edu/wp-content/uploads/t0552_explainable_AI_plan_EN.pdf

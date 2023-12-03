@@ -109,6 +109,9 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # Releases
+https://godotengine.org/article/godot-4-2-arrives-in-style/
+> https://news.ycombinator.com/item?id=38472345
+
 https://www.ogre3d.org/2023/09/12/ogre-14-1-released
 > https://news.ycombinator.com/item?id=37967990
 
@@ -154,6 +157,10 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://github.com/victorqribeiro/towerDefense
+
+https://github.com/ThalesGroup/kessler-game ur5
+
 https://news.ycombinator.com/item?id=38431402
 
 https://news.ycombinator.com/item?id=38371126

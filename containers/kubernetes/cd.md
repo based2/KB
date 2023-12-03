@@ -45,4 +45,6 @@ https://argocd-vault-plugin.readthedocs.io/en/stable/howitworks/
 https://p1.dso.mil/#/ Platform One
 
 #
+https://github.com/ThalesGroup/helm-spray
+
 https://thenewstack.io/harpoon-no-code-deployment-for-kubernetes/

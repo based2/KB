@@ -164,6 +164,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://www.pathsensitive.com/2023/12/should-you-split-that-file.html
+> https://news.ycombinator.com/item?id=38489485
+
 https://dev.37signals.com/the-radiating-programmer/
 > https://news.ycombinator.com/item?id=38347090
 

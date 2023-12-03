@@ -351,6 +351,11 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://melang.org/ Time-Sharing Scheduling Coroutine Script Language
+> https://news.ycombinator.com/item?id=38497570
+> https://github.com/Water-Melon/Melon c
+> http://doc.melonc.io/ c
+
 https://flix.dev/
 > https://news.ycombinator.com/item?id=38419263
 

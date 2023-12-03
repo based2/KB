@@ -28,3 +28,7 @@ https://aws.amazon.com/fr/blogs/aws/new-amazon-ec2-p5-instances-powered-by-nvidi
 
 https://techcrunch.com/2023/09/28/amazon-launches-its-bedrock-generative-ai-service-in-general-availability/
 > https://news.ycombinator.com/item?id=37806323
+
+https://news.ycombinator.com/item?id=38448546
+
+https://news.ycombinator.com/item?id=38437607

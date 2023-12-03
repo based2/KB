@@ -68,6 +68,8 @@ https://agi-sphere.com/llama-2/
 
 https://github.com/srush/llama2.rs
 
+https://old.reddit.com/r/LocalLLaMA/comments/188197j/80_faster_50_less_memory_0_accuracy_loss_llama/
+
 https://blog.skypilot.co/finetuning-llama2-operational-guide/
 > https://news.ycombinator.com/item?id=36975245
 
@@ -160,7 +162,22 @@ https://github.com/markasoftware/llama-cpu
 
 https://github.com/pengxiao-song/LawGPT cn
 
+# Meta
+https://blog.j11y.io/2023-11-22_multifaceted/
+> https://news.ycombinator.com/item?id=38501589
+
 # News
+https://github.com/ThalesGroup/pybiscus
+
+https://news.ycombinator.com/item?id=38475501
+
+https://news.ycombinator.com/item?id=38472128
+
+https://news.ycombinator.com/item?id=38481970
+
+http://simonwillison.net/2023/Nov/29/llamafile/#atom-everything
+> https://news.ycombinator.com/item?id=38489533
+
 https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/
 > https://news.ycombinator.com/item?id=38358032
 

@@ -108,6 +108,18 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://lupyuen.codeberg.page/articles/plic2.html UART Interrupt and Platform-Level Interrupt Controller
+> https://news.ycombinator.com/item?id=38502979
+
+https://news.ycombinator.com/item?id=38487823
+
+https://www.ecns.cn/news/sci-tech/2023-11-29/detail-ihcvixpi0428703.shtml
+> https://news.ycombinator.com/item?id=38465895
+
+https://www.apple.com/newsroom/2023/11/apple-announces-expanded-partnership-with-amkor-for-silicon-packaging/
+
+https://news.ycombinator.com/item?id=38486075
+
 https://news.ycombinator.com/item?id=38266773
 
 https://news.ycombinator.com/item?id=38249664

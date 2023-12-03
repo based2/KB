@@ -52,7 +52,15 @@ https://github.com/khoj-ai/khoj
 https://scriv.ai/guides/retrieval-augmented-generation-overview/
 > https://news.ycombinator.com/item?id=37261198
 
+https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-neural-chat-7b-Model-Achieves-Top-Ranking-on-LLM/post/1549386
+> https://news.ycombinator.com/item?id=38507531
+
 # News
+https://arxiv.org/abs/2311.18805
+> https://news.ycombinator.com/item?id=38506140
+
+https://news.ycombinator.com/item?id=38476552
+
 https://github.com/Frost-group/The-Oracle-of-Zotero
 
 https://idratherbewriting.com/blog/writing-full-length-articles-with-claude-ai

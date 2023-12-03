@@ -17,6 +17,11 @@ https://github.com/aquasecurity/trivy
 > https://www.reddit.com/r/netsec/comments/ok4mpa/a_simple_security_scanner_for_vulnerabilities_and/
 
 # News
+https://www.uber.com/en-US/blog/our-journey-adopting-spiffe-spire/?uclick_id=118f4e52-3c02-4dbc-ad66-9633f9d2f7cd
+
+https://trivy.dev/
+> https://news.ycombinator.com/item?id=38460947
+
 https://github.com/containers/bubblewrap
 > https://news.ycombinator.com/item?id=36685514
 

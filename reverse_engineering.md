@@ -40,6 +40,11 @@ https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
 
 #
+https://clearbluejar.github.io/posts/decompilation-debugging-pretending-all-binaries-come-with-source-code/
+
+https://www.righto.com/2023/11/intel-386-clock-circuit.html
+> https://news.ycombinator.com/item?id=38475804
+
 https://news.ycombinator.com/item?id=38407106
 
 https://landaire.net/world-of-warships-deobfuscation/

@@ -2,6 +2,8 @@ https://shellsharks.com/threat-modeling
 > https://www.reddit.com/r/netsec/comments/wdqnc5/threat_modeling_field_guide/
 > > https://www.ssi.gouv.fr/guide/ebios-risk-manager-the-method/
 
+https://github.com/ThalesGroup/security-risk-assessment-tool
+
 https://www.threatintel.academy/diamond/
 
 https://github.com/TalEliyahu/Threat_Model_Examples
@@ -39,3 +41,5 @@ https://memgraph.com/blog/stay-ahead-of-cyber-threats-with-graph-databases
 https://blog.apnic.net/2021/10/19/threat-hunting-101-hunting-with-yara-rules/
 
 https://www.geeksforgeeks.org/threat-hunting-using-yara/
+
+

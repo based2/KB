@@ -1,5 +1,7 @@
 https://github.com/slsa-framework/slsa
 
+https://slsa.dev/spec/v1.0/levels
+
 https://github.com/ossf/s2c2f
 
 https://en.wikipedia.org/wiki/Wardley_map
@@ -57,7 +59,11 @@ https://www.mend.io/sbom/
 
 https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 
+https://news.ycombinator.com/item?id=38471475
+
 #
+https://github.com/ThalesGroup/besec
+
 https://arstechnica.com/security/2023/11/developers-cant-seem-to-stop-exposing-credentials-in-publicly-accessible-code/
 
 https://engineering.fb.com/2023/10/24/data-infrastructure/automating-dead-code-cleanup/

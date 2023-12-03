@@ -156,6 +156,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://tedium.co/2023/11/24/weird-html-hacks-history/
+> https://news.ycombinator.com/item?id=38485295
+
 https://html-first.com/
 > https://news.ycombinator.com/item?id=38241304
 

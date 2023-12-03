@@ -44,6 +44,8 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://news.ycombinator.com/item?id=38465378
+
 https://www.science.org/doi/10.1126/science.adg3053
 
 https://arstechnica.com/science/2023/10/biodiversity-library-will-help-preserve-genetic-diversity-in-endangered-species/

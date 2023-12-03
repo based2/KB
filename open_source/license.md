@@ -71,6 +71,8 @@ https://writing.kemitchell.com/2023/10/13/Wrong-About-GPLs
 
 https://news.ycombinator.com/item?id=38331173
 
+https://victoriametrics.com/blog/bsl-is-short-term-fix-why-we-choose-open-source/
+
 # Incident
 https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email
 > https://news.ycombinator.com/item?id=36926852

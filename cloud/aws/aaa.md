@@ -143,6 +143,9 @@ https://orca.security/resources/blog/aws-glue-vulnerability/
 > https://aws.amazon.com/en/security/security-bulletins/AWS-2022-002/
 
 # News
+https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/
+> https://news.ycombinator.com/item?id=38445747
+
 https://www.wsj.com/articles/amazons-new-approach-to-selling-enterprise-software-in-person-demos-5d1cfd23
 
 https://news.ycombinator.com/item?id=38210056

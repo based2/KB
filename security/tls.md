@@ -149,6 +149,8 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://news.ycombinator.com/item?id=15164568
 
 #
+https://github.com/ThalesGroup/pycryptoki
+
 https://vigilance.fr/vulnerability/GnuTLS-information-disclosure-via-RSA-PSK-Key-Exchange-Timing-Sidechannel-42941
 
 https://vigilance.fr/vulnerability/Squid-denial-of-service-via-SSL-Certificate-Validation-42759

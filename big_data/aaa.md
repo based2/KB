@@ -56,6 +56,8 @@ https://github.com/grailbio/reflow incremental data processing in the cloud
 # Format
 https://daffodil.apache.org/docs/dfdl/
 
+https://www.uber.com/en-US/blog/selective-column-reduction-for-datalake-storage-cost-efficiency/?uclick_id=118f4e52-3c02-4dbc-ad66-9633f9d2f7cd
+
 #
 https://github.com/diachron
 
@@ -345,6 +347,10 @@ https://news.ycombinator.com/item?id=38310502 bi
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=38502089 dataflow
+
+https://lobste.rs/s/crtnqb/using_polars_pandas_world
+
 https://news.ycombinator.com/item?id=38415252
 
 https://intelpython.github.io/DPEP/main/ Data Parallel Extensions for Python

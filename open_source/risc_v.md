@@ -10,6 +10,8 @@ https://github.com/mnurzia/rv/blob/main/README.md
 https://arxiv.org/abs/2308.02945
 > https://news.ycombinator.com/item?id=37081891
 
+https://github.com/chipsalliance/riscv-dv
+
 #
 https://www.phoronix.com/news/Linux-6.7-RISC-V
 > https://news.ycombinator.com/item?id=38230161

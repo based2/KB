@@ -78,6 +78,8 @@ https://www.hyperui.dev/
 
 https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-8/
 
+https://news.ycombinator.com/item?id=38475884
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916

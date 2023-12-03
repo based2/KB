@@ -101,6 +101,10 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 # News
+https://www.marginalia.nu/log/73-new-approach-to-ranking/
+> https://news.ycombinator.com/item?id=38504565
+> > https://en.wikipedia.org/wiki/Cosine_similarity
+
 https://thoughts.theden.sh/posts/dns-txt-record-fun/
 > https://news.ycombinator.com/item?id=38419272
 

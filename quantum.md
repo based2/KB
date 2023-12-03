@@ -94,6 +94,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.sciencenews.org/article/quantum-particles-gravity-spacetime-aharonov-bohm-effect
+> https://news.ycombinator.com/item?id=38483597
+
 https://phys.org/news/2023-10-self-correcting-quantum.html
 
 https://arxiv.org/abs/2304.09900

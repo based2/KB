@@ -55,10 +55,18 @@ https://vittorioromeo.info/index/blog/debug_performance_cpp.html
 
 https://pcapplusplus.github.io/docs/quickstart
 
+# Sec
+https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html
+> https://news.ycombinator.com/item?id=38478866
+
 # Test
 https://github.com/Snaipe/Criterion
 
 #
+https://news.ycombinator.com/item?id=38498934
+
+https://news.ycombinator.com/item?id=38472174
+
 https://herbsutter.com/2023/10/09/my-new-cppcon-talk-is-on-youtube-cooperative-c-evolution-toward-a-typescript-for-c/
 > https://news.ycombinator.com/item?id=38140833
 

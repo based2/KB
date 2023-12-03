@@ -465,6 +465,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/ThalesGroup/ecoCode sonarQube
+
 https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/
 > https://news.ycombinator.com/item?id=38368073
 

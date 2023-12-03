@@ -211,5 +211,10 @@ https://github.com/yl4579/StyleTTS2
 > https://news.ycombinator.com/item?id=38335255
 
 # News
+https://news.ycombinator.com/item?id=38497549
+
+https://ai.meta.com/research/seamless-communication/
+> https://news.ycombinator.com/item?id=38487359
+
 https://blog.untrod.com/2023/11/robot-dad.html
 > https://news.ycombinator.com/item?id=38433330

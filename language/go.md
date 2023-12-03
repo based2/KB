@@ -120,6 +120,12 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://www.dolthub.com/blog/2023-12-01-why-are-go-heaps-confusing/
+> https://news.ycombinator.com/item?id=38494016
+
+https://medium.com/@ozoniuss/optimizing-go-string-operations-with-practical-examples-83df39b776fb
+> https://news.ycombinator.com/item?id=38498381
+
 https://www.uber.com/en-NL/blog/nilaway-practical-nil-panic-detection-for-go/
 > https://news.ycombinator.com/item?id=38300425
 

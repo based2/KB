@@ -108,6 +108,9 @@ https://news.ycombinator.com/item?id=33247892
 https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/
 > https://news.ycombinator.com/item?id=35081277
 
+https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping
+> https://news.ycombinator.com/item?id=38494529
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 

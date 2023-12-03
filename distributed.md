@@ -110,6 +110,9 @@ https://jakelazaroff.com/words/an-interactive-intro-to-crdts/
 
 https://news.ycombinator.com/item?id=38289327
 
+https://bytes.zone/posts/modeling-crdts-in-alloy-counters/
+> https://news.ycombinator.com/item?id=38501437
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913
@@ -204,6 +207,9 @@ https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing
 # concurrencyngs
 
 # News
+https://github.com/infinyon/fluvio
+> https://news.ycombinator.com/item?id=38503671
+
 https://shachaf.net/w/consensus
 > https://news.ycombinator.com/item?id=37245109
 

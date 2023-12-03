@@ -50,3 +50,6 @@ https://blog.yoshuawuyts.com/tree-structured-concurrency/
 # Test
 https://www.braze.com/resources/articles/writing-effective-integration-tests-for-asynchronous-workloads
 > https://news.ycombinator.com/item?id=29489815
+
+#
+https://news.ycombinator.com/item?id=38503439

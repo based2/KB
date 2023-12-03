@@ -9,6 +9,11 @@ https://github.com/winkjs/wink-nlp
 > https://news.ycombinator.com/item?id=33734147
 
 # News
+https://github.com/ThalesGroup/t-keir
+
+https://keras.io/keras_3/
+> https://news.ycombinator.com/item?id=38446353
+
 https://medium.com/dataherald/fine-tuning-gpt-3-5-turbo-for-natural-language-to-sql-4445c1d37f7c
 > https://news.ycombinator.com/item?id=37341670
 

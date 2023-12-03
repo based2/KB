@@ -12,6 +12,10 @@ https://tlakh.xyz/fuzzing-ping.html
 https://thevaluable.dev/practical-guide-fzf-example/
 
 #
+https://www.cyberark.com/resources/threat-research-blog/fuzzer-v
+
+https://news.ycombinator.com/item?id=38445660
+
 https://aflplus.plus/libafl-book/
 
 https://news.ycombinator.com/item?id=36672390

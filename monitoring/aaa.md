@@ -1,7 +1,5 @@
 https://prometheus.io/
 
-https://alerta.io/
-
 https://grafana.com/
 
 https://www.monitorix.org/
@@ -116,6 +114,8 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/VictoriaMetrics/VictoriaMetrics
+
 https://korben.info/suivre-mises-a-jour-sites-web-automatiquement-avec-web-monitor.html
 > https://github.com/e1abrador/web.Monitor
 

@@ -1,3 +1,5 @@
+https://www.slideshare.net/DonatoOnofri/unmasking-the-dark-art-of-vectored-exception-handling-bypassing-xdr-and-edr-in-the-evolving-cyber-threat-landscape
+
 https://openjsf.org/announcement/2023/11/01/openjs-foundation-warns-consumer-privacy-and-security-at-risk-in-three-quarters-of-a-billion-websites/
 
 https://news.ycombinator.com/item?id=38422125

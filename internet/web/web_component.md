@@ -56,3 +56,5 @@ https://blog.jim-nielsen.com/2023/html-web-components/
 
 https://jakelazaroff.com/words/web-components-eliminate-javascript-framework-lock-in/
 > https://news.ycombinator.com/item?id=38434470
+
+https://daverupert.com/2023/07/why-not-webcomponents/

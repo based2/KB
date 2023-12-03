@@ -9,6 +9,9 @@ https://blog.cloudflare.com/cloudflare-incident-on-october-30-2023/
 https://news.ycombinator.com/item?id=36294750
 
 # News
+https://blog.cloudflare.com/cloudflare-gen-12-server-bigger-better-cooler-in-a-2u1n-form-factor/
+> https://news.ycombinator.com/item?id=38490575
+
 https://wasmer.io/posts/announcing-winterjs-service-workers
 > https://news.ycombinator.com/item?id=38047872
 

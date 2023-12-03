@@ -69,7 +69,15 @@ https://kokizzu.blogspot.com/2019/04/huge-list-of-database-benchmark.html
 # History
 https://queue.acm.org/detail.cfm?id=3501713
 
+# ml
+https://news.ycombinator.com/item?id=38496827
+
 # News
+https://en.oceanbase.com/blog/2596985600 Designing a Distributed SQL Engine: Challenges & Decisions
+
+https://sqlsync.dev/posts/stop-building-databases/
+> https://news.ycombinator.com/item?id=38489307
+
 https://thenewstack.io/polystores-the-data-management-game-changer/
 
 https://hpi.de/naumann/projects/rdbms-genealogy.html

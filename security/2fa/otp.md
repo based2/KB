@@ -22,6 +22,9 @@ https://blog.millerti.me/2021/06/18/previewing-chromes-cable-v2-support-for-weba
 https://yahes.space/posts/using-yubikey-with-pam-module/
 
 # Incidents
+https://bugzilla.mozilla.org/show_bug.cgi?id=1824831 Can't sign in with FIDO2 key on office.com
+> https://news.ycombinator.com/item?id=38502340
+
 https://slashdot.org/submission/17306055/google-disables-usage-of-two-factor-auth-recovery-code
 
 https://status.duo.com/
@@ -52,6 +55,13 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+
+> https://lobste.rs/s/zzdtkb/my_1fa_is_probably_better_than_your_mfa
+
+https://github.com/ThalesGroup/fido2-sample-android
+
+https://github.com/ThalesGroup/fido2-sample-ios
+
 https://news.ycombinator.com/item?id=38029654
 
 https://www.bleepingcomputer.com/news/security/google-released-first-quantum-resilient-fido2-key-implementation/

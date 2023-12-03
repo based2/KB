@@ -53,6 +53,11 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://plant.max-richter.dev/#
+
+https://github.com/excalidraw/excalidraw
+> https://news.ycombinator.com/item?id=38499375
+
 https://terrastruct.com/blog/post/draw-software-architecture-diagrams/
 > https://news.ycombinator.com/item?id=38035505
 

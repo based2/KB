@@ -214,6 +214,13 @@ https://github.com/DaveGamble/cJSON
 https://www.schemastore.org/json/
 > https://news.ycombinator.com/item?id=37203354
 
+https://news.ycombinator.com/item?id=38442050
+
+https://github.com/01mf02/jaq
+> https://news.ycombinator.com/item?id=38461249
+
+https://wundergraph.com/blog/astjson_high_performance_json_transformations_in_golang
+
 
 
 

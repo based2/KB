@@ -277,6 +277,13 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://openjdk.org/jeps/453 Structured Concurrency (Preview)
+
+https://www.infoworld.com/article/3687670/project-valhalla-a-look-inside-javas-epic-refactor.html
+> https://news.ycombinator.com/item?id=38504781
+
+https://news.ycombinator.com/item?id=38481859
+
 https://programming.guide/worlds-most-copied-so-snippet.html
 
 https://old.reddit.com/r/java/comments/17skfzf/jactl_130_a_scripting_language_for_realtime_java/

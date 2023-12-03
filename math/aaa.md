@@ -144,6 +144,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=38476206
+
 https://news.ycombinator.com/item?id=38422464
 
 https://news.ycombinator.com/item?id=38422606

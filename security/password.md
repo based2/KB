@@ -26,6 +26,8 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://old.reddit.com/r/netsec/comments/181joez/4_of_the_top_10_password_strength_tools_are/
+
 https://blog.jgc.org/2010/12/write-your-passwords-down.html
 > https://news.ycombinator.com/item?id=37033814
 

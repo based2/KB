@@ -75,6 +75,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=38443292
+
 https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/
 > https://news.ycombinator.com/item?id=38009963
 

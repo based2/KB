@@ -67,6 +67,16 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://news.ycombinator.com/item?id=38443399
+
+https://phys.org/news/2023-12-giant-void-puzzle-universe-expansion.html
+> https://news.ycombinator.com/item?id=38488219
+
+https://www.astronomy.com/science/astronomers-find-six-planets-orbiting-in-resonance/
+> https://news.ycombinator.com/item?id=38474364
+
+https://news.ycombinator.com/item?id=38481063
+
 https://arstechnica.com/science/2023/11/tasmanian-devil-event-has-the-power-of-hundreds-of-billions-of-suns/
 
 https://www.nature.com/articles/d41586-023-03677-0

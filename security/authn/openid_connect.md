@@ -16,6 +16,9 @@ https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 https://vigilance.fr/vulnerabilite/mod-auth-openidc-redirection-via-Logout-Parameter-40178
 
 #
+https://github.com/zitadel/oidc
+> https://news.ycombinator.com/item?id=38496264
+
 https://www.nango.dev/blog/why-is-oauth-still-hard
 
 https://hackernoon.com/you-probably-dont-need-oauth2openid-connect-heres-why

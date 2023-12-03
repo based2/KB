@@ -43,6 +43,16 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/
+> https://news.ycombinator.com/item?id=38495559
+
+https://news.ycombinator.com/item?id=38460456
+
+https://news.ycombinator.com/item?id=38441139
+
+https://www.mozilla.org/en-US/firefox/121.0beta/releasenotes/
+> https://news.ycombinator.com/item?id=38488850
+
 https://ploum.net/2023-11-25-offpunk2.html
 > https://news.ycombinator.com/item?id=38412886
 

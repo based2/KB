@@ -31,6 +31,11 @@ https://imgur.com/a/ggyfAnX
 https://news.ycombinator.com/item?id=38407521 diplomacy
 
 # News
+https://brickception.xyz/
+> https://news.ycombinator.com/item?id=38470764
+
+https://news.ycombinator.com/item?id=38472333
+
 https://news.ycombinator.com/item?id=38409425
 
 https://github.com/mystery-o-matic/mystery-o-matic.github.io

@@ -27,6 +27,8 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
 # News
+https://news.ycombinator.com/item?id=38478253
+
 https://news.ycombinator.com/item?id=38422186
 
 https://www.evanjones.ca/setenv-is-not-thread-safe.html

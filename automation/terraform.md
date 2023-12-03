@@ -152,6 +152,10 @@ https://medium.com/@hettiarachchi.yashodha/enforcing-machine-to-machine-authenti
 
 https://medium.com/@farhanangullia/scheduling-automated-terraform-operations-on-aws-32778cfe1985
 
+https://aws.amazon.com/about-aws/whats-new/2023/11/amazon-codecatalyst-supports-terraform/
+
+https://towardsaws.com/integrating-hashicorp-vault-with-aws-lambda-using-terraform-dfe199b0dc55
+
 ## Landing zone
 https://www.meshcloud.io/de/blog/aws-landing-zone-comparison/
 
@@ -328,6 +332,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://masterpoint.io/updates/terraform-null-label/
+
 https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md
 
 https://news.ycombinator.com/item?id=38334102

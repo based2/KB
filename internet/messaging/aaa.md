@@ -20,6 +20,19 @@ https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messa
 > https://news.ycombinator.com/item?id=27587911
 
 # News
+https://www.euronews.com/next/2023/11/30/frances-government-ministers-to-ditch-using-whatsapp-for-french-app-olvid-over-security-fe
+> https://news.ycombinator.com/item?id=38481403 AGPL only client, AWS
+> > https://fr.wikipedia.org/wiki/Olvid
+> > https://olvid.io/assets/documents/2020-12-15_Olvid-specifications.pdf
+> > https://github.com/olvid-io/olvid-android
+> > https://github.com/olvid-io/olvid-ios
+> > > Tchap - https://tchap.beta.gouv.fr/ https://joinup.ec.europa.eu/collection/open-source-observatory-osor/document/french-government-launches-house-developed-messaging-service-tchap
+> > > > https://github.com/tchapgouv
+> > > Citadel - Tales clone of Element Matrix https://thales.citadel.team/#/register
+> > > > https://github.com/ThalesGroup/Thales_secure_element_hal
+> > > > Osmose, Plano et Resana
+> > https://fr.wikipedia.org/wiki/M%C3%A9thode_d%27analyse_et_de_remont%C3%A9e_de_la_valeur MAREVA
+
 https://weechat.org/
 > https://blog.weechat.org/post/2023/06/24/Version-4.0.0
 > > https://news.ycombinator.com/item?id=36463877

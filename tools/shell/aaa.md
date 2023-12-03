@@ -34,6 +34,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/unix/V6ShellControlFlow
+
 https://utcc.utoronto.ca/~cks/space/blog/unix/RcShellWhitespaceHandling
 > https://lobste.rs/s/yttskl/how_rc_shell_handles_whitespace
 
