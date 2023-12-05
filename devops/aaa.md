@@ -74,6 +74,10 @@ https://www.usenix.org/publications/loginonline/low-context-devops
 https://kanboard.org/
 > https://news.ycombinator.com/item?id=36047861
 
+# Code review
+https://engineercodex.substack.com/p/how-google-takes-the-pain-out-of
+> https://news.ycombinator.com/item?id=38518473
+
 # Versioning
 https://semver.org/lang/
 
@@ -141,6 +145,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://about.gitlab.com/releases/2023/11/30/security-release-gitlab-16-6-1-released/
+
 https://www.microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/
 > https://old.reddit.com/r/netsec/comments/181fc11/diamond_sleet_supply_chain_compromise_distributes/
 > https://en.wikipedia.org/wiki/CyberLink
@@ -465,6 +471,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=38507381
+
 https://github.com/ThalesGroup/ecoCode sonarQube
 
 https://blog.matiaspan.dev/posts/exploring-dagger-streamlining-ci-cd-pipelines-with-code/

@@ -23,6 +23,10 @@ https://github.com/namin/llm-verified-with-monte-carlo-tree-search
 > https://news.ycombinator.com/item?id=38235407
 > https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/
 
+# Visu
+https://bbycroft.net/llm
+> https://news.ycombinator.com/item?id=38507672
+
 # sec
 https://github.com/laiyer-ai/llm-guard
 > https://news.ycombinator.com/item?id=37103757
@@ -162,11 +166,21 @@ https://github.com/markasoftware/llama-cpu
 
 https://github.com/pengxiao-song/LawGPT cn
 
+# Fine tuning
+https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the
+> https://news.ycombinator.com/item?id=38533105
+
 # Meta
 https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589
 
 # News
+https://yutongbai.com/lvm.html
+> https://news.ycombinator.com/item?id=38530948
+
+https://links-cdn.wandb.ai/wandb-public-images/links/samuel-shapley/v97owj28.html
+> https://news.ycombinator.com/item?id=38510536
+
 https://github.com/ThalesGroup/pybiscus
 
 https://news.ycombinator.com/item?id=38475501

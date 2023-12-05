@@ -82,6 +82,8 @@ https://github.com/geohot/qira
 > https://news.ycombinator.com/item?id=26845775
 
 #
+https://news.ycombinator.com/item?id=38535265
+
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility
 
 https://datatracker.ietf.org/doc/html/rfc4086 Randomness Requirements for Security

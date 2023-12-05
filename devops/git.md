@@ -274,6 +274,9 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/
+> https://news.ycombinator.com/item?id=38527866
+
 https://github.com/google/git-appraise code review
 
 https://github.com/AmrDeveloper/GQL

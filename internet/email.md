@@ -197,6 +197,8 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # i
+https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011
+
 https://www.bleepingcomputer.com/news/security/google-hackers-exploited-zimbra-zero-day-in-attacks-on-govt-orgs/
 
 https://www.pentagrid.ch/en/blog/python-mail-libraries-certificate-verification/
@@ -209,6 +211,11 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://www.larrymyers.com/posts/own-your-mx-record/
+
+https://blitiri.com.ar/p/chasquid/
+> https://news.ycombinator.com/item?id=38509678
+
 https://github.com/mail-in-a-box/mailinabox
 > https://news.ycombinator.com/item?id=38406478
 

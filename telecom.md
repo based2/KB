@@ -191,6 +191,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=38507446
+
 https://www.heise.de/news/5G-Projekt-der-Bahn-Gigabit-Mobilfunk-auf-Teststrecke-9546733.html
 
 https://submarine-cable-map-2023.telegeography.com/

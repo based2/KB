@@ -65,6 +65,8 @@ https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%2
 > https://news.ycombinator.com/item?id=27045771
 
 #
+https://news.ycombinator.com/item?id=38528582
+
 http://haroldbot.nl/
 > https://news.ycombinator.com/item?id=38274714
 

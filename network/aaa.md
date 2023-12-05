@@ -137,6 +137,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://termshark.io/
+> https://news.ycombinator.com/item?id=38531181
+
 https://news.ycombinator.com/item?id=38409318
 
 https://github.com/tbarbette/fastclick

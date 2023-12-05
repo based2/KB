@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://news.ycombinator.com/item?id=38522325
+
 https://www.bleepingcomputer.com/news/security/over-20-000-vulnerable-microsoft-exchange-servers-exposed-to-attacks/
 
 https://blackwinghq.com/blog/posts/a-touch-of-pwn-part-i/ Attacking Windows Hello Fingerprint Authentication

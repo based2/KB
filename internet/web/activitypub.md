@@ -40,3 +40,6 @@ https://fed.brid.gy/docs#error-handling
 
 https://hub.sunny.garden/2023/06/28/what-does-authorized_fetch-actually-do/
 > https://news.ycombinator.com/item?id=36688735
+
+https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC
+> https://news.ycombinator.com/item?id=38530597

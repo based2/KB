@@ -12,6 +12,8 @@ https://blog.thalium.re/posts/fuzzing-samsung-system-services/
 https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/
 
 #
+https://source.android.com/docs/security/bulletin/2023-12-01?hl=en CVE-2023-40088 CVE-2023-40077 CVE-2023-40076
+
 https://maldbg.com/packed-android-proxy-framework
 
 https://www.eff.org/press/releases/eff-urges-ftc-address-american-resellers-malware-android-tv-set-top-boxes

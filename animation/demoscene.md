@@ -54,3 +54,5 @@ https://en.wikipedia.org/wiki/.kkrieger
 
 http://www.quiss.org/boo/ BRR
 > https://news.ycombinator.com/item?id=36184078
+
+https://news.ycombinator.com/item?id=38515082

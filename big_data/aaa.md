@@ -347,6 +347,9 @@ https://news.ycombinator.com/item?id=38310502 bi
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/
+> https://news.ycombinator.com/item?id=38519277
+
 https://news.ycombinator.com/item?id=38502089 dataflow
 
 https://lobste.rs/s/crtnqb/using_polars_pandas_world

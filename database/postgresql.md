@@ -303,6 +303,8 @@ https://blog.val.town/blog/migrating-from-supabase
 > https://news.ycombinator.com/item?id=36004925
 
 # Incident
+https://www.postgresql.org/about/news/postgresql-161-155-1410-1313-1217-and-1122-released-2749/
+
 https://www.postgresql.org/about/news/postgresql-154-149-1312-1216-1121-and-postgresql-16-beta-3-released-2689/
 
 https://otx.alienvault.com/indicator/cve/CVE-2023-2454

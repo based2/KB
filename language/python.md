@@ -335,6 +335,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/
+> https://news.ycombinator.com/item?id=38517099
+
 https://peps.python.org/pep-0730/
 
 https://stefan-marr.de/2023/11/python-global-interpreter-lock/

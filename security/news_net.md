@@ -19,6 +19,11 @@ https://www.bleepingcomputer.com/news/security/snappy-a-tool-to-detect-rogue-wif
 
 https://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
 
+https://linuxfr.org/news/reaction-remplacant-de-fail2ban go
+> https://framagit.org/ppom/reaction agpl
+
+https://github.com/acriba/heimdall rust
+
 #
 https://francozappa.github.io/post/2023/bluffs-ccs23/
 

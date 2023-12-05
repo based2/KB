@@ -60,6 +60,9 @@ https://shopify.engineering/contributing-support-for-a-wasm-instruction-to-winch
 
 https://news.ycombinator.com/item?id=37303983
 
+https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html
+> https://news.ycombinator.com/item?id=38507594
+
 # Security
 https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf
 > https://news.ycombinator.com/item?id=26994741

@@ -133,3 +133,6 @@ https://www.autoevolution.com/news/europes-first-hydrogen-fuel-cell-sea-going-fe
 https://news.ycombinator.com/item?id=37871468
 
 https://news.ycombinator.com/item?id=37873850
+
+https://cleantechnica.com/2023/12/03/worlds-largest-floating-solar-power-plant-hydropower-reservoir/
+> https://news.ycombinator.com/item?id=38512019

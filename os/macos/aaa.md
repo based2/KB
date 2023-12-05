@@ -126,6 +126,8 @@ block from any to { 2800:68:1:1:1:1:1:1/31 }
 
 interface: idx-XX
 
+sudo lsof -i -P | grep LISTEN | grep :$PORT
+
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
 > https://news.ycombinator.com/item?id=31864974

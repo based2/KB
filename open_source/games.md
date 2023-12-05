@@ -75,6 +75,8 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://news.ycombinator.com/item?id=38510805
+
 https://naev.org/
 > https://news.ycombinator.com/item?id=38418262
 

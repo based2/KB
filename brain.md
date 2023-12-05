@@ -52,6 +52,9 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 > https://news.ycombinator.com/item?id=36628258
 
 # News
+https://qntm.org/mmacevedo
+> https://news.ycombinator.com/item?id=38536778
+
 https://www.theguardian.com/science/2023/dec/01/singing-to-babies-is-vital-to-help-them-understand-language-say-scientists
 > https://news.ycombinator.com/item?id=38500906
 
