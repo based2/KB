@@ -58,6 +58,10 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://news.ycombinator.com/item?id=38547033 source data into any desired target schema - mappers
+
+https://news.ycombinator.com/item?id=38545207
+
 https://www.pcmag.com/articles/ibms-plan-to-update-cobol-with-watson
 > https://news.ycombinator.com/item?id=38508250
 

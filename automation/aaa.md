@@ -31,6 +31,9 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://winglang.io/
+> https://news.ycombinator.com/item?id=38545538
+
 https://etcha.dev/
 > https://news.ycombinator.com/item?id=38320707
 

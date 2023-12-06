@@ -159,6 +159,9 @@ https://rlopzc.com/posts/securing-your-postgresql-db-with-roles--privileges/
 https://www.hezmatt.org/~mpalmer/blog/2023/11/07/postgresql-encryption-options.html
 > https://news.ycombinator.com/item?id=38173141
 
+http://peter.eisentraut.org/blog/2023/12/05/postgresql-and-fips-mode
+> https://news.ycombinator.com/item?id=38529522
+
 # Operations
 
 https://heap.io/blog/how-postgres-audit-tables-saved-us-from-taking-down-production
@@ -318,6 +321,8 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://github.com/nearform/temporal_tables
+
 https://news.ycombinator.com/item?id=38463731
 
 https://news.ycombinator.com/item?id=38417391

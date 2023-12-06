@@ -69,6 +69,9 @@ https://bugs.xdavidhu.me/google/2021/12/31/fixing-the-unfixable-story-of-a-googl
 > https://news.ycombinator.com/item?id=29847033
 
 # News
+https://cloud.google.com/blog/products/ai-machine-learning/introducing-cloud-tpu-v5p-and-ai-hypercomputer
+> https://news.ycombinator.com/item?id=38544824
+
 https://news.ycombinator.com/item?id=37847454
 
 https://blog.google/technology/ai/notebooklm-google-ai/

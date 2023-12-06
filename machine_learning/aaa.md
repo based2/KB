@@ -233,6 +233,9 @@ https://github.com/protectai/ai-exploits
 
 https://news.ycombinator.com/item?id=38462932
 
+https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/
+> https://news.ycombinator.com/item?id=38543322
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -327,7 +330,11 @@ https://news.ycombinator.com/item?id=37872147
 https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 > https://lobste.rs/s/ftpxug/welcome_offensive_ml_framework
 
+https://security.googleblog.com/2023/10/increasing-transparency-in-ai-security.html
+
 # Incident
+https://www.lasso.security/blog/1500-huggingface-api-tokens-were-exposed-leaving-millions-of-meta-llama-bloom-and-pythia-users-for-supply-chain-attacks
+
 https://arxiv.org/abs/2310.07298
 > https://news.ycombinator.com/item?id=38272495
 
@@ -445,6 +452,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://deepmind.google/technologies/gemini/
+> https://news.ycombinator.com/item?id=38544729
+
 https://github.com/Mozilla-Ocho/llamafile
 > https://news.ycombinator.com/item?id=38464057
 

@@ -25,6 +25,9 @@ https://linuxfr.org/news/reaction-remplacant-de-fail2ban go
 https://github.com/acriba/heimdall rust
 
 #
+https://claroty.com/team82/research/dicom-demystified-exploring-the-underbelly-of-medical-imaging
+> https://old.reddit.com/r/netsec/comments/186zo3l/dicom_protocol_vulnerabilities_and_attack_surface/
+
 https://francozappa.github.io/post/2023/bluffs-ccs23/
 
 https://www.intruder.io/research/we-hacked-ourselves-with-dns-rebinding

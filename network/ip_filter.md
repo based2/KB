@@ -38,6 +38,8 @@ block from any to 2.44.166.49
 block from any to 2.55.124.234
 # https://www.abuseipdb.com/check/2.56.58.83
 block from any to 2.56.58.83
+# A.ch
+block from any to 2.56.241.244
 block from any to 2.56.247.0/24
 # A.ch
 block from any to 2.56.247.173
@@ -69,6 +71,8 @@ block from any to 3.144.104.21
 block from any to 3.219.96.23
 # abuse.ch TF
 block from any to 3.220.60.95
+# https://www.abuseipdb.com/check/
+block from any to 3.238.174.177
 # https://www.abuseipdb.com/check/
 block from any to 3.239.49.220
 # https://www.abuseipdb.com/check/4.14.70.6
@@ -143,16 +147,24 @@ block from any to 23.234.231.99
 # https://www.abuseipdb.com/check/14.18.47.158
 block from any to 14.18.47.158
 # https://www.abuseipdb.com/check/
+block from any to 14.18.92.211
+# https://www.abuseipdb.com/check/
 block from any to 14.43.231.49
 # https://www.abuseipdb.com/check/
 block from any to 14.139.176.166
+# https://www.abuseipdb.com/check/
+block from any to 14.143.255.43
 block from any to 15.161.248.77
 # https://www.abuseipdb.com/check/
 block from any to 15.204.245.236
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/08/lazarus-collectionrat.txt
 block from any to 15.207.207.64
 # https://www.abuseipdb.com/check/
+block from any to 14.231.250.250
+# https://www.abuseipdb.com/check/
 block from any to 15.237.142.48
+# abuse.ch TF
+block from any to 16.63.153.117
 # https://www.abuseipdb.com/check/17.33.193.247
 block from any to 17.33.193.247
 # https://www.abuseipdb.com/check/17.57.146.170
@@ -309,6 +321,8 @@ block from any to 35.203.210.247
 block from any to 35.203.210.251
 block from any to 35.203.211.0/24
 # https://www.abuseipdb.com/check/
+block from any to 35.203.211.21
+# https://www.abuseipdb.com/check/
 block from any to 35.203.211.151
 # https://www.abuseipdb.com/check/
 block from any to 35.203.211.218
@@ -333,6 +347,8 @@ block from any to 37.27.20.125
 # https://www.abuseipdb.com/check/37.32.28.114
 block from any to 37.32.28.114
 # https://www.abuseipdb.com/check/
+block from any to 37.32.28.200
+# https://www.abuseipdb.com/check/
 block from any to 37.32.31.204
 # https://www.abuseipdb.com/check/37.39.54.159
 block from any to 37.39.54.159
@@ -345,6 +361,8 @@ block from any to 37.48.65.153
 block from any to 37.48.65.154
 # https://www.abuseipdb.com/check/
 block from any to 37.58.16.39
+# https://www.abuseipdb.com/check/
+block from any to 37.59.112.193
 # https://www.abuseipdb.com/check/
 block from any to 37.59.120.179
 # A.ch TF
@@ -415,6 +433,8 @@ block from any to 41.230.154.248
 # abuse.ch TF
 block from any to 41.227.155.126
 # https://www.abuseipdb.com/check/
+block from any to 42.58.105.141
+# https://www.abuseipdb.com/check/
 block from any to 42.192.83.19
 # abuse.ch TF
 block from any to 42.192.145.232
@@ -426,6 +446,8 @@ block from any to 42.200.78.78
 block from any to 42.202.101.247
 # https://www.abuseipdb.com/check/
 block from any to 43.128.72.234
+# https://www.abuseipdb.com/check/
+block from any to 43.128.79.198
 # https://www.abuseipdb.com/check/
 block from any to 43.128.242.87
 # https://www.abuseipdb.com/check/
@@ -502,10 +524,14 @@ block from any to 43.159.139.18
 block from any to 43.156.239.137
 # https://www.abuseipdb.com/check/43.163.242.195
 block from any to 43.163.242.195
+# abuse.ch TF
+block from any to 44.198.148.77
 # https://www.abuseipdb.com/check/
 block from any to 43.201.78.21
 # https://www.abuseipdb.com/check/
 block from any to 44.202.114.12
+# https://www.abuseipdb.com/check/
+block from any to 45.8.159.17
 # https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/
 block from any to 45.9.148.21
 # https://www.abuseipdb.com/check/
@@ -556,15 +582,29 @@ block from any to 45.90.58.103
 block from any to 45.128.232.15
 # https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf
 block from any to 45.128.232.143
+# A.ch TF
+block from any to 45.129.2.67
 # https://www.abuseipdb.com/check/45.129.14.106
 block from any to 45.129.14.106
+# https://www.abuseipdb.com/check/
+block from any to 45.129.14.120
+# https://www.abuseipdb.com/check/
+block from any to 45.130.146.133
 block from any to 45.133.194.106
+# A.ch TF
+block from any to 45.135.134.183
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 45.135.167.27
+# abuse.ch TF
+block from any to 45.140.169.224
+# https://www.abuseipdb.com/check/
+block from any to 45.172.153.100
 # https://www.abuseipdb.com/check/
 block from any to 45.143.200.46
 # https://www.abuseipdb.com/check/45.147.250.222
 block from any to 45.147.250.222
+# abuse.ch TF
+block from any to 45.152.115.128
 # abuse.ch TF
 block from any to 45.154.98.86
 block from any to 45.154.138.0/24
@@ -598,6 +638,8 @@ block from any to 45.175.156.69
 # https://www.abuseipdb.com/check/45.189.223.120
 block from any to 45.189.223.120
 # https://www.abuseipdb.com/check/
+block from any to 45.224.172.245
+# https://www.abuseipdb.com/check/
 block from any to 45.224.195.81
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 45.227.252.247
@@ -617,7 +659,11 @@ block from any to 45.236.60.47
 # https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf
 block from any to 46.8.198.196
 # https://www.abuseipdb.com/check/
+block from any to 46.17.43.67
+# https://www.abuseipdb.com/check/
 block from any to 46.19.139.138
+# A.ch TF
+block from any to 46.29.160.43
 #  https://www.abuseipdb.com/check/46.98.117.137
 block from any to 46.98.117.137
 # https://www.abuseipdb.com/check/46.101.84.41
@@ -643,6 +689,12 @@ block from any to 46.174.191.30
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 46.175.148.147
 # abuse.ch TF
+block from any to 46.246.14.14
+# abuse.ch TF
+block from any to 47.90.247.182
+# abuse.ch TF
+block from any to 47.106.39.1
+# abuse.ch TF
 block from any to 47.107.67.137
 # abuse.ch TF
 block from any to 47.116.25.208
@@ -665,9 +717,9 @@ block from any to 49.0.129.17
 # abuse.ch TF
 block from any to 49.12.245.198
 # https://www.abuseipdb.com/check/
-block from any to 9.77.31.253
-# abuse.ch TF
-block from any to 44.198.148.77
+block from any to 49.75.172.119
+# https://www.abuseipdb.com/check/
+block from any to 49.77.31.253
 # https://www.abuseipdb.com/check/
 block from any to 49.146.64.5
 # https://www.abuseipdb.com/check/
@@ -701,6 +753,8 @@ block from any to 51.68.46.25
 block from any to 51.79.230.42
 # https://www.abuseipdb.com/check/
 block from any to 51.81.77.246
+# abuse.ch TF
+block from any to 51.83.99.132
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 51.89.50.153
 block from any to 51.89.235.100
@@ -773,6 +827,10 @@ block from any to 54.76.103.105
 # https://www.netify.ai/resources/ips/54.77.160.229
 block from any to 54.77.160.229
 # abuse.ch TF
+block from any to 54.85.136.8
+# abuse.ch TF
+block from any to 54.86.130.105
+# abuse.ch TF
 block from any to 54.168.49.179
 # # https://www.abuseipdb.com/check/
 block from any to 54.176.246.92
@@ -826,11 +884,15 @@ block from any to 60.246.252.71
 # https://www.abuseipdb.com/check/
 block from any to 61.153.208.38
 block from any to 61.177.172.0/24
+#  https://www.abuseipdb.com/check/
+block from any to 61.177.172.136
 # https://www.abuseipdb.com/check/61.177.172.140
 block from any to 61.177.172.140
 #  https://www.abuseipdb.com/check/
 block from any to 61.177.172.160
-#  https://www.abuseipdb.com/check/
+# https://www.abuseipdb.com/check/
+block from any to 61.177.172.179
+# https://www.abuseipdb.com/check/
 block from any to 61.222.211.114
 # https://www.abuseipdb.com/check/61.231.73.128
 block from any to 61.231.73.128
@@ -863,6 +925,8 @@ block from any to 65.49.1.77
 block from any to 65.108.232.34
 # https://www.abuseipdb.com/check/
 block from any to 65.109.155.181
+# https://www.abuseipdb.com/check/
+block from any to 66.94.125.70
 # https://www.abuseipdb.com/check/
 block from any to 66.181.182.61
 # abuse.ch TF
@@ -970,6 +1034,8 @@ block from any to 79.124.58.18
 # https://www.abuseipdb.com/check/
 block from any to 79.132.125.226
 # https://www.abuseipdb.com/check/
+block from any to 79.137.203.173
+# https://www.abuseipdb.com/check/
 block from any to 79.137.203.139
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 79.143.87.166
@@ -1037,6 +1103,8 @@ block from any to 83.97.73.24
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 83.171.237.173
 # https://www.abuseipdb.com/check/
+block from any to 83.212.126.41
+# https://www.abuseipdb.com/check/
 block from any to 83.233.217.232
 block from any to 84.16.242.147
 # https://www.abuseipdb.com/check/
@@ -1056,10 +1124,17 @@ block from any to 85.163.46.109
 block from any to 85.193.65.110
 # https://www.abuseipdb.com/check/
 block from any to 85.130.205.97
+block from any to 85.209.11.0/24
+# https://www.abuseipdb.com/check/
+block from any to 85.209.11.25
 # https://www.abuseipdb.com/check/85.209.11.27
 block from any to 85.209.11.27
 # https://www.abuseipdb.com/check/
+block from any to 85.209.11.56
+# https://www.abuseipdb.com/check/
 block from any to 85.209.11.226
+# https://www.abuseipdb.com/check/
+block from any to 85.209.11.107
 # https://www.abuseipdb.com/check/
 block from any to 85.209.176.235
 # https://www.abuseipdb.com/check/85.73.189.207
@@ -1297,6 +1372,8 @@ block from any to 94.228.163.98
 block from any to 95.9.191.195
 # https://www.abuseipdb.com/check/
 block from any to 95.17.214.111
+# https://www.abuseipdb.com/check/
+block from any to 95.130.227.116
 # https://krebsonsecurity.com/2023/09/whos-behind-the-8base-ransomware-website/
 block from any to 95.216.51.74
 # https://www.abuseipdb.com/check/95.68.225.192
@@ -1307,6 +1384,10 @@ block from any to 95.73.126.243
 block from any to 95.90.12.120
 # https://www.abuseipdb.com/check/
 block from any to 95.130.227.116
+# https://www.abuseipdb.com/check/
+block from any to 95.217.31.63
+# https://www.abuseipdb.com/check/
+block from any to 95.217.240.71
 # https://www.abuseipdb.com/check/
 block from any to 95.229.93.114
 # https://www.abuseipdb.com/check/
@@ -1325,10 +1406,6 @@ block from any to 95.130.227.116
 block from any to 95.181.239.8
 # https://www.abuseipdb.com/check/95.214.27.118
 block from any to 95.214.27.118
-# https://www.abuseipdb.com/check/
-block from any to 95.217.31.63
-# https://www.abuseipdb.com/check/
-block from any to 95.217.240.71
 # https://www.abuseipdb.com/check/95.229.66.163
 block from any to 95.229.66.163
 # https://www.abuseipdb.com/check/
@@ -1369,6 +1446,8 @@ block from any to 102.220.23.5
 block from any to 102.220.23.35
 # A.ch TF
 block from any to 103.13.211.211
+# A.ch TF
+block from any to 103.114.106.29
 # https://www.abuseipdb.com/check/
 block from any to 103.25.58.141
 # https://www.abuseipdb.com/check/
@@ -1524,6 +1603,8 @@ block from any to 104.225.234.248
 # https://maldbg.com/ipstorm-golang-malware-windows
 block from any to 104.236.76.40
 # https://www.abuseipdb.com/check/
+block from any to 104.239.108.183
+# https://www.abuseipdb.com/check/
 block from any to 104.244.77.158
 # https://www.abuseipdb.com/check/
 block from any to 104.248.34.110
@@ -1562,6 +1643,8 @@ block from any to 107.170.245.28
 # https://www.abuseipdb.com/check/107.170.227.25
 block from any to 107.170.227.25
 # abuse.ch
+block from any to 107.172.25.67
+# abuse.ch
 block from any to 107.174.253.49
 # https://www.abuseipdb.com/check/
 block from any to 107.189.5.33
@@ -1569,7 +1652,7 @@ block from any to 107.189.5.33
 block from any to 107.189.30.69
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/08/lazarus-collectionrat.txt
 block from any to 108.61.186.55
-# # https://www.abuseipdb.com/check/
+# https://www.abuseipdb.com/check/
 block from any to 109.86.69.82
 # https://www.abuseipdb.com/check/
 block from any to 109.107.183.195
@@ -1626,8 +1709,12 @@ block from any to 112.72.238.113
 block from any to 112.135.200.235
 # https://www.abuseipdb.com/check/
 block from any to 113.118.188.181
-# # https://www.abuseipdb.com/check/
+# https://www.abuseipdb.com/check/
+block from any to 113.190.119.84
+# https://www.abuseipdb.com/check/
 block from any to 113.200.214.20
+# https://www.abuseipdb.com/check/
+block from any to 113.221.37.166
 # https://www.abuseipdb.com/check/
 block from any to 114.36.115.25
 # https://www.abuseipdb.com/check/
@@ -1640,6 +1727,8 @@ block from any to 114.119.154.186
 block from any to 114.130.156.170
 # https://www.abuseipdb.com/check/
 block from any to 114.119.132.58
+# https://www.abuseipdb.com/check/
+block from any to 114.132.58.184
 # https://www.abuseipdb.com/check/
 block from any to 114.239.11.218
 # https://www.abuseipdb.com/check/
@@ -1723,6 +1812,8 @@ block from any to 124.221.203.42
 # https://www.abuseipdb.com/check/
 block from any to 124.222.14.83
 # https://www.abuseipdb.com/check/
+block from any to 124.222.67.15
+# https://www.abuseipdb.com/check/
 block from any to 124.223.203.200
 # https://www.abuseipdb.com/check/
 block from any to 124.236.250.23
@@ -1732,6 +1823,8 @@ block from any to 125.71.200.138
 block from any to 125.141.139.9
 # https://www.abuseipdb.com/check/
 block from any to 125.209.85.187
+# https://www.abuseipdb.com/check/
+block from any to 125.209.127.138
 block from any to 128.65.195.82
 block from any to 128.140.11.116
 # abuse.ch TF
@@ -1788,6 +1881,10 @@ block from any to 138.199.38.57
 block from any to 138.201.103.170
 # abuse.ch TF
 block from any to 139.9.36.241
+# https://www.abuseipdb.com/check/
+block from any to 139.59.113.110
+# https://www.abuseipdb.com/check/
+block from any to 139.19.117.197
 # https://www.abuseipdb.com/check/139.59.132.180
 block from any to 139.59.132.180
 # abuse.ch TF
@@ -1808,8 +1905,10 @@ block from any to 139.180.136.28
 block from any to 139.198.170.142
 # Dod
 block from any to 140.60.144.191
-# CnC ASYNCRAT https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:MSIL/Asyncrat htttps://www.virustotal.com/gui/ip-address/140.82.121.3 https://www.abuseipdb.com/check/140.82.121.3
-block from any to 140.82.121.3
+# github, was CnC ASYNCRAT https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:MSIL/Asyncrat htttps://www.virustotal.com/gui/ip-address/140.82.121.3 https://www.abuseipdb.com/check/140.82.121.3
+# block from any to 140.82.121.3
+# https://www.abuseipdb.com/check/
+block from any to 140.86.39.162
 # https://www.abuseipdb.com/check/
 block from any to 140.206.118.82
 # https://www.abuseipdb.com/check/
@@ -1899,6 +1998,8 @@ block from any to 146.190.228.94
 # https://www.abuseipdb.com/check/
 block from any to 147.135.177.25
 block from any to 148.113.6.27
+# https://www.abuseipdb.com/check/
+block from any to 149.12.246.2
 # https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-007.pdf
 block from any to 149.28.197.120
 # abuse.ch TF
@@ -1913,6 +2014,8 @@ block from any to 149.202.60.205
 block from any to 149.210.78.118
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
 block from any to 149.255.58.47
+# https://www.abuseipdb.com/check/
+block from any to 150.109.246.107
 # https://www.abuseipdb.com/check/
 block from any to 150.158.35.200
 # https://www.abuseipdb.com/check/150.158.77.82
@@ -1961,10 +2064,15 @@ block from any to 152.199.19.161
 block from any to 152.199.23.37
 # https://www.abuseipdb.com/check/154.6.112.192
 block from any to 154.6.112.192
+block from any to 154.22.168.0/24
 # https://www.abuseipdb.com/check/
 block from any to 154.22.168.91
+# abuse.ch TF
+block from any to 154.22.168.159
 # https://www.abuseipdb.com/check/
 block from any to 154.22.168.163
+# abuse.ch TF
+block from any to 154.22.168.178
 # https://www.abuseipdb.com/check/
 block from any to 154.68.18.82
 # https://www.abuseipdb.com/check/154.72.194.207
@@ -1987,12 +2095,8 @@ block from any to 157.230.113.181
 block from any to 157.230.185.11
 # https://www.abuseipdb.com/check/
 block from any to 157.230.253.164
-# https://www.abuseipdb.com/check/157.245.202.6
-block from any to 157.245.202.6
 # https://www.abuseipdb.com/check/157.245.158.225
 block from any to 157.245.158.225
-# https://www.abuseipdb.com/check/
-block from any to 157.245.202.6
 # https://www.abuseipdb.com/check/
 block from any to 158.160.79.38
 # abuse.ch TF
@@ -2060,6 +2164,8 @@ block from any to 165.154.148.48
 # https://www.abuseipdb.com/check/
 block from any to 165.154.199.71
 # https://www.abuseipdb.com/check/
+block from any to 165.154.243.19
+# https://www.abuseipdb.com/check/
 block from any to 165.231.148.152
 # https://www.abuseipdb.com/check/
 block from any to 165.232.91.136
@@ -2075,6 +2181,8 @@ block from any to 167.114.119.142
 block from any to 167.114.174.149
 # abuse.ch TF
 block from any to 167.114.90.242
+# https://www.abuseipdb.com/check/
+block from any to 167.94.145.28
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
 block from any to 167.172.253.162
 # https://www.abuseipdb.com/check/
@@ -2130,6 +2238,7 @@ block from any to 172.67.170.105
 block from any to 172.67.194.231
 # https://www.abuseipdb.com/check/
 block from any to 72.217.16.35
+#block from any to 172.217.18.0/24
 # https://www.abuseipdb.com/check/172.217.18.195
 block from any to 172.217.18.195
 # https://www.abuseipdb.com/check/172.217.18.196
@@ -2147,12 +2256,16 @@ block from any to 172.217.20.163
 block from any to 172.217.20.170
 # https://www.abuseipdb.com/check/172.217.20.174
 block from any to 172.217.20.174
+# https://www.abuseipdb.com/check
+block from any to 172.233.16.199
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/12/xlling-in-excel-malicious-add-ins.txt
 block from any to 172.245.120.8
 # https://www.abuseipdb.com/check/173.181.133.181
 block from any to 173.181.133.181
 # https://www.abuseipdb.com/check/
 block from any to 174.138.76.181
+# https://www.abuseipdb.com/check/
+block from any to 176.64.18.53
 # https://www.abuseipdb.com/check/
 block from 175.24.178.231
 #  https://www.abuseipdb.com/check/
@@ -2187,6 +2300,8 @@ block from any to 175.214.129.143
 block from any to 176.31.163.140
 # https://www.abuseipdb.com/check/
 block from any to 176.98.87.172
+# https://www.abuseipdb.com/check/
+block from any to 176.111.174.162
 # https://www.abuseipdb.com/check/176.119.229.162
 block from any to 176.119.229.162
 # https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf
@@ -2213,9 +2328,13 @@ block from any to 177.67.244.36
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/prometei-botnet-improves.txt
 block from any to 177.73.237.55
 # https://www.abuseipdb.com/check/
+block from any to 177.170.15.112
+# https://www.abuseipdb.com/check/
 block from any to 177.222.177.198
 # https://www.abuseipdb.com/check/
 block from any to 176.124.198.239
+# https://www.abuseipdb.com/check/
+block from any to 178.22.168.219
 #  https://www.abuseipdb.com/check/178.62.155.249
 block from any to 178.62.155.249
 # https://maldbg.com/ipstorm-golang-malware-windows
@@ -2247,6 +2366,8 @@ block from any to 178.254.10.204
 block from any to 179.43.117.122
 # https://www.abuseipdb.com/check/
 block from any to 179.43.134.18
+# https://www.abuseipdb.com/check/
+block from any to 179.43.148.58
 # https://www.abuseipdb.com/check/179.43.159.195
 block from any to 179.43.159.195
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/12/breaking_the_silence_truebot_activity.txt
@@ -2255,6 +2376,11 @@ block from any to 179.60.150.53
 block from any to 179.125.166.201
 # https://www.abuseipdb.com/check/179.182.65.128
 block from any to 179.182.65.128
+block from any to 180.101.88.0/24
+# https://www.abuseipdb.com/check/
+block from any to 180.101.88.197
+# https://www.abuseipdb.com/check/
+block from any to 180.101.88.198
 # https://www.abuseipdb.com/check/
 block from any to 180.101.88.219
 # https://www.abuseipdb.com/check/180.101.88.241
@@ -2294,6 +2420,8 @@ block from any to 182.61.28.243
 # https://www.abuseipdb.com/check/
 block from any to 182.151.27.13
 # https://www.abuseipdb.com/check/
+block from any to 182.240.21.213
+# https://www.abuseipdb.com/check/
 block from any to 182.242.168.169
 # https://www.abuseipdb.com/check/
 block from any to 181.165.230.139
@@ -2330,6 +2458,10 @@ block from any to 185.45.192.24
 block from any to 185.55.243.110
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
 block from any to 185.98.131.156
+# abuse.ch TF
+block from any to 185.143.223.47
+# abuse.ch TF
+block from any to 185.143.223.61
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
 block from any to 185.147.15.22
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
@@ -2347,6 +2479,8 @@ block from any to 185.83.113.158
 # https://www.abuseipdb.com/check/
 block from any to 185.103.24.114
 # A.ch TF
+block from any to 185.143.223.47
+# A.ch TF
 block from any to 185.157.162.241
 # https://www.abuseipdb.com/check/
 block from any to 185.165.190.17
@@ -2357,9 +2491,15 @@ block from any to 185.176.43.106
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
 block from any to 185.182.57.100
 # https://www.abuseipdb.com/check/
+block from any to 185.220.100.241
+# https://www.abuseipdb.com/check/
 block from any to 185.216.119.133
 # https://www.abuseipdb.com/check/
 block from any to 185.220.100.251
+# https://www.abuseipdb.com/check/
+block from any to 185.223.152.19
+# https://www.abuseipdb.com/check/
+block from any to 185.224.128.160
 # https://www.abuseipdb.com/check/
 block from any to 183.103.113.124
 block from any to 185.107.56.0/24
@@ -2456,6 +2596,8 @@ block from any to 187.140.245.207
 block from any to 187.157.135.152
 # https://www.abuseipdb.com/check/187.168.5.80
 block from any to 187.168.5.80
+# https://www.abuseipdb.com/check/
+block from any to 187.170.31.197
 # https://www.abuseipdb.com/check/187.170.235.208
 block from any to 187.170.235.208
 # https://www.abuseipdb.com/check/
@@ -2593,6 +2735,8 @@ block from any to 193.200.116.163
 block from any to 193.203.238.145
 # https://www.abuseipdb.com/check/193.233.21.195
 block from any to 193.233.21.195
+# A.ch TF
+block from any to 193.233.132
 # abuse.ch
 block from any to 194.26.135.124
 # https://www.abuseipdb.com/check/
@@ -2602,7 +2746,11 @@ block from any to 194.26.29.16
 # https://www.abuseipdb.com/check/
 block from any to 194.33.191.217
 # https://www.abuseipdb.com/check/
+block from any to 194.33.191.223
+# https://www.abuseipdb.com/check/
 block from any to 194.36.98.124
+# https://www.abuseipdb.com/check/
+block from any to 194.36.209.24
 # https://www.abuseipdb.com/check/
 block from any to 194.38.22.71
 # abuse.ch 2023-11-01 14:50
@@ -2621,8 +2769,12 @@ block from any to 194.187.168.134
 block from any to 194.187.176.191
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/prometei-botnet-improves.txt
 block from any to 194.195.213.62
+# https://www.abuseipdb.com/check/
+block from any to 195.87.80.171
 # https://www.elastic.co/security-labs/introducing-the-ref5961-intrusion-set
 block from any to 195.123.245.79
+# https://www.abuseipdb.com/check/
+block from any to 195.133.23.90
 # https://www.abuseipdb.com/check/195.154.122.32
 block from any to 195.154.122.32
 # https://www.abuseipdb.com/check/195.154.123.61
@@ -2652,6 +2804,8 @@ block from any to 196.191.96.236
 # https://www.abuseipdb.com/check/
 block from any to 196.192.179.35
 # https://www.abuseipdb.com/check/
+block from any to 196.216.68.226
+# https://www.abuseipdb.com/check/
 block from any to 196.196.253.2
 # https://www.abuseipdb.com/check/
 block from any to 197.210.77.143
@@ -2659,6 +2813,8 @@ block from any to 197.210.77.143
 block from any to 197.240.8.14
 # https://www.abuseipdb.com/check/197.243.22.164
 block from any to 197.243.22.164
+# https://www.abuseipdb.com/check/
+block from any to 198.23.148.137
 # # https://www.abuseipdb.com/check/
 block from any to 198.23.149.3
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
@@ -2690,15 +2846,13 @@ block from any to 201.124.50.85
 #  https://www.abuseipdb.com/check/
 block from any to 201.173.86.191
 #  https://www.abuseipdb.com/check/
-block from any to  201.182.249.195
+block from any to 201.182.249.195
 #  https://www.abuseipdb.com/check/
 block from any to 201.202.13.159
 # https://www.abuseipdb.com/check/200.43.89.215
 block from any to 200.43.89.215
 #  https://www.abuseipdb.com/check/
 block from any to 200.59.72.31
-#  https://www.abuseipdb.com/check/
-block from any to 200.100.255.30
 #  https://www.abuseipdb.com/check/
 block from any to 201.94.166.130
 # https://www.abuseipdb.com/check/201.103.37.228
@@ -2745,7 +2899,13 @@ block from any to 202.238.19.139
 # https://www.abuseipdb.com/check/203.98.76.172
 block from any to 203.98.76.172
 # https://www.abuseipdb.com/check/
-block from any to  203.106.164.74
+block from any to 203.106.164.74
+# https://www.abuseipdb.com/check/
+block from any to 203.115.96.195
+# https://www.abuseipdb.com/check/
+block from any to 203.122.40.102
+# https://www.abuseipdb.com/check/
+block from any to 203.128.6.225
 # https://www.abuseipdb.com/check/203.138.147.67
 block from any to 203.138.147.67
 # https://www.abuseipdb.com/check/203.155.221.253
@@ -2758,8 +2918,12 @@ block from any to 204.44.93.242
 block from any to 205.147.101.170
 # # https://www.abuseipdb.com/check/
 block from any to 205.210.31.48
+# https://www.abuseipdb.com/check/
+block from any to 205.210.31.52
 # https://www.abuseipdb.com/check/205.210.31.93
 block from any to 205.210.31.93
+# https://www.abuseipdb.com/check/
+block from any to 206.0.178.55
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 206.188.196.86
 # https://www.abuseipdb.com/check/
@@ -2816,13 +2980,18 @@ block from any to 216.58.215.46
 block from any to 216.58.215.48
 # https://www.abuseipdb.com/check/216.58.213.68
 block from any to 216.58.213.68
+# https://www.abuseipdb.com/check/216
+block from any to 216.168.111.138
 # https://www.abuseipdb.com/check/216.58.214.163
 block from any to 216.58.214.163
 # https://www.virustotal.com/gui/ip-address/216.239.34.21 https://www.abuseipdb.com/check/216.239.34.21
 block from any to 216.239.34.21
-block from any to 216.58.215.54
+# https://www.abuseipdb.com/check/216.239.38.21
+block from any to 216.239.38.21
 # https://www.abuseipdb.com/check/216.58.214.163
 block from any to 216.58.214.163
+# https://www.abuseipdb.com/check/216
+block from any to 216.244.203.68
 # https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf
 block from any to 217.57.80.18
 # https://www.abuseipdb.com/check/
@@ -2850,6 +3019,8 @@ block from any to 218.92.0.34
 block from any to 218.92.0.45
 # https://www.abuseipdb.com/check/
 block from any to 218.92.0.51
+# https://www.abuseipdb.com/check/
+block from any to 218.92.0.56
 # https://www.abuseipdb.com/check/218.92.0.76
 block from any to 218.92.0.76
 # https://www.abuseipdb.com/check/218.92.0.100
@@ -2876,6 +3047,8 @@ block from any to 221.225.92.161
 block from any to 221.231.122.76
 # https://www.abuseipdb.com/check/
 block from any to 222.96.27.50
+# https://www.abuseipdb.com/check/
+block from any to 222.109.124.51
 # https://www.abuseipdb.com/check/
 block from any to 222.165.138.144
 # https://www.abuseipdb.com/check/222.128.168.110

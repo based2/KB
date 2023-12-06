@@ -1,3 +1,11 @@
+https://www.intruder.io/research/split-second-dns-rebinding-in-chrome-and-safari
+
+https://portswigger.net/research/blind-css-exfiltration
+
+https://www.ambionics.io/blog/owncloud-cve-2023-49103-cve-2023-49105
+
+https://news.ycombinator.com/item?id=38543155
+
 https://news.ycombinator.com/item?id=38530880
 
 https://www.slideshare.net/DonatoOnofri/unmasking-the-dark-art-of-vectored-exception-handling-bypassing-xdr-and-edr-in-the-evolving-cyber-threat-landscape

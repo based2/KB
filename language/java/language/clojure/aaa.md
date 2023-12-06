@@ -97,6 +97,8 @@ https://github.com/damn/gdl
 https://github.com/ertugrulcetin/enion
 
 # News
+https://news.ycombinator.com/item?id=38540761
+
 https://clojure-goes-fast.com/blog/clojures-deadly-sin/
 
 https://yizhepku.github.io/clojure-crac/

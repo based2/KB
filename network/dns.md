@@ -69,7 +69,14 @@ https://github.com/C3n7ral051nt4g3ncy/WebOSINT
 
 https://red.flag.domains/
 
+https://blogs.infoblox.com/cyber-threat-intelligence/introducing-dns-threat-actors/
+
+https://sec-consult.com/blog/detail/taking-over-a-country-kaminsky-style/
+> https://old.reddit.com/r/netsec/comments/187hd2f/trap_reset_poison_taking_over_a_country_kaminsky/
+
 # Incident
+https://blogs.infoblox.com/cyber-threat-intelligence/dns-early-detection-romcom/
+
 https://news.ycombinator.com/item?id=38333127
 
 https://news.ycombinator.com/item?id=37815793
@@ -101,6 +108,9 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 # News
+https://github.com/m57/dnsteal
+> https://news.ycombinator.com/item?id=38541272
+
 https://www.marginalia.nu/log/73-new-approach-to-ranking/
 > https://news.ycombinator.com/item?id=38504565
 > > https://en.wikipedia.org/wiki/Cosine_similarity

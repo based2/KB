@@ -129,6 +129,9 @@ https://www.readysetcloud.io/blog/allen.helton/serverless-integration-speed-test
 
 https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-prime-video-microservices-to-monolith-story-4bd0970423d4
 
+https://fly.io/blog/rethinking-serverless-with-flame/
+> https://news.ycombinator.com/item?id=38542764
+
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 

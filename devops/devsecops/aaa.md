@@ -62,6 +62,8 @@ https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 https://news.ycombinator.com/item?id=38471475
 
 #
+https://medium.com/@theowni/vulnerability-management-with-defectdojo-is-it-great-for-devsecops-3da455d2852b
+
 https://github.com/ThalesGroup/besec
 
 https://arstechnica.com/security/2023/11/developers-cant-seem-to-stop-exposing-credentials-in-publicly-accessible-code/

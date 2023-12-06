@@ -86,6 +86,9 @@ https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-
 
 https://blog.quarkslab.com/ansible-security-assessment.html
 
+#
+https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017
+
 # News
 https://linuxfr.org/news/squest-passe-en-v2-retour-d-experience-sur-la-pile-ansible-rhaap-squest
 

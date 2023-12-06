@@ -376,6 +376,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://yformer.github.io/efficient-sam/
+> https://news.ycombinator.com/item?id=38543029
+
 https://arxiv.org/pdf/2103.14030.pdf
 > https://github.com/ThalesGroup/darswin classification
 

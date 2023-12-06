@@ -8,6 +8,13 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://security.googleblog.com/2023/11/mte-promising-path-forward-for-memory.html
+
+https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/
+> https://news.ycombinator.com/item?id=38515571
+> > https://arstechnica.com/security/2023/12/just-about-every-windows-and-linux-device-vulnerable-to-new-logofail-firmware-attack/
+> > > https://news.ycombinator.com/item?id=38545022
+
 https://eprint.iacr.org/2021/772.pdf falcon
 > https://news.ycombinator.com/item?id=38422340
 
