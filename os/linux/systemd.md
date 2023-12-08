@@ -38,6 +38,8 @@ https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
 https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/
 
 #
+https://www.phoronix.com/news/systemd-255
+
 https://media.ccc.de/v/all-systems-go-2023-186-linux-tpms
 > https://news.ycombinator.com/item?id=38149441
 

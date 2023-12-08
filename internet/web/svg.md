@@ -84,3 +84,6 @@ https://kurtextrem.de/posts/svg-in-js
 
 https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/
 > https://news.ycombinator.com/item?id=36664604
+
+https://svg-tutorial.com/
+> https://news.ycombinator.com/item?id=38556116

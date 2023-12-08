@@ -473,6 +473,10 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.xwiki.org/xwiki/bin/view/Blog/Antispam111Released
+
+https://github.com/standard-webhooks/standard-webhooks
+
 https://news.ycombinator.com/item?id=38507381
 
 https://github.com/ThalesGroup/ecoCode sonarQube

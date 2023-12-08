@@ -156,6 +156,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/
+> https://news.ycombinator.com/item?id=38559247
+
 https://html-lang.org/
 > https://news.ycombinator.com/item?id=38519719
 

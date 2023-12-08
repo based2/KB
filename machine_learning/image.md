@@ -376,6 +376,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://arstechnica.com/information-technology/2023/12/metas-new-ai-image-generator-was-trained-on-1-1-billion-instagram-and-facebook-photos/
+> https://news.ycombinator.com/item?id=38557054
+
 https://yformer.github.io/efficient-sam/
 > https://news.ycombinator.com/item?id=38543029
 

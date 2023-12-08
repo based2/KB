@@ -100,6 +100,9 @@ https://blog.jabberhead.tk/2021/12/30/pgpainless-1-0-0-released/
 
 https://gnupg.org/blog/20220102-a-new-future-for-gnupg.html
 
+https://blog.pgpkeys.eu/critique-critique.html
+> https://news.ycombinator.com/item?id=38554943
+
 #
 https://media.ccc.de/v/34c3-9075-latticehacks
 

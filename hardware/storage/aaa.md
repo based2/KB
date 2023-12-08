@@ -31,6 +31,8 @@ https://rclone.org/
 https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity
 > https://news.ycombinator.com/item?id=38118577
 
+https://lobste.rs/s/maxyzv/s3_express_speculations
+
 # Block Storage
 onTAP
 # SMB Microsoft

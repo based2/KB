@@ -27,6 +27,9 @@ https://datasetsearch.research.google.com/
 https://blog.bigpicture.io/introducing-the-worlds-largest-open-source-company-dataset/
 > https://news.ycombinator.com/item?id=35977057
 
+https://www.dedp.online/
+> https://news.ycombinator.com/item?id=38557715
+
 ## Unstructured
 https://github.com/capitalone/DataProfiler
 > https://news.ycombinator.com/item?id=27106335

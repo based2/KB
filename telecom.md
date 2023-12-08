@@ -138,6 +138,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://blog.ipspace.net/2023/12/ams-ix-layer-2-strikes-again.html
+
 https://torrentfreak.com/brazil-regulator-claims-80-of-pirate-tv-boxes-were-blocked-last-week-231030/
 
 https://www.reuters.com/business/media-telecom/singtel-owned-optus-says-massive-australia-outage-was-after-software-upgrade-2023-11-13/
