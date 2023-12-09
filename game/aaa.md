@@ -31,6 +31,9 @@ https://imgur.com/a/ggyfAnX
 https://news.ycombinator.com/item?id=38407521 diplomacy
 
 # News
+https://shutdowngame.apc.org/
+> https://news.ycombinator.com/item?id=38566697
+
 https://news.ycombinator.com/item?id=38530833
 
 https://brickception.xyz/

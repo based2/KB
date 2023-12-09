@@ -78,6 +78,9 @@ https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 https://news.ycombinator.com/item?id=38529143 gif
 
 # News
+https://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html
+> https://news.ycombinator.com/item?id=38554281
+
 https://kdl.dev/
 > https://news.ycombinator.com/item?id=37249430
 

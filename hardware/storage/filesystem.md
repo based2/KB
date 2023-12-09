@@ -29,6 +29,8 @@ https://news.ycombinator.com/item?id=37873486
 https://jro.io/truenas/openzfs/#draid
 > https://news.ycombinator.com/item?id=38050853
 
+https://news.ycombinator.com/item?id=38553008
+
 https://www.phoronix.com/news/OpenZFS-RAIDZ-Expansion
 > https://news.ycombinator.com/item?id=38207005
 
@@ -72,6 +74,8 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843 ext4
+
 https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/
 > https://news.ycombinator.com/item?id=38513402
 

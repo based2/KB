@@ -1,3 +1,7 @@
+https://www.schneier.com/blog/archives/2023/12/spying-through-push-notifications.html
+
+https://engineering.fb.com/wp-content/uploads/2023/12/TheLabyrinthEncryptedMessageStorageProtocol_12-6-2023.pdf
+
 https://www.intruder.io/research/split-second-dns-rebinding-in-chrome-and-safari
 
 https://portswigger.net/research/blind-css-exfiltration

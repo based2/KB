@@ -30,6 +30,9 @@ https://www.youtube.com/watch?v=JurplDfPi3U
 https://www.neimagazine.com/news/newsukaea-shortlists-five-sites-for-step-fusion-plant-9162410
 
 # News
+https://newatlas.com/energy/worlds-largest-tokamak-fusion-reactor-powers-up/
+> https://news.ycombinator.com/item?id=38541451
+
 https://dothemath.ucsd.edu/2023/08/fusion-foolery/
 > https://news.ycombinator.com/item?id=37159887
 

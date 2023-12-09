@@ -93,6 +93,9 @@ https://www.midnightblue.nl/tetraburst
 > https://www.vice.com/en/article/4a3n3j/backdoor-in-police-radios-tetra-burst
 > > https://news.ycombinator.com/item?id=36846242
 
+https://www.cryptomuseum.com/radio/tetra/burst.htm
+> https://news.ycombinator.com/item?id=38583489
+
 https://www.theguardian.com/us-news/2023/jul/29/pentagon-us-air-force-critical-compromise
 > https://news.ycombinator.com/item?id=36922069
 

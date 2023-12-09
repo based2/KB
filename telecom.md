@@ -138,6 +138,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://asset-group.github.io/disclosures/5ghoul/ 5G Modem Firmware CVEs
+> https://news.ycombinator.com/item?id=38567149
+
 https://blog.ipspace.net/2023/12/ams-ix-layer-2-strikes-again.html
 
 https://torrentfreak.com/brazil-regulator-claims-80-of-pirate-tv-boxes-were-blocked-last-week-231030/

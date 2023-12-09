@@ -1,6 +1,8 @@
 https://samwho.dev/load-balancing/
 > https://news.ycombinator.com/item?id=35588797
 
+https://developers.cloudflare.com/reference-architecture/load-balancing-reference-architecture/
+
 http://www.haproxy.org/
 
 https://www.haproxy.com/blog/announcing-haproxy-2-4/

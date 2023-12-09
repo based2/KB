@@ -3,6 +3,8 @@
 # Formats
 
 #
+https://medium.com/building-la-haus/implement-seekable-oci-for-our-github-actions-workloads-1d75229cb5b3
+
 https://discourse.nixos.org/t/oci-images-is-there-something-similar-to-distroless-images-built-with-nix/35957/2
 > https://news.ycombinator.com/item?id=38410423
 

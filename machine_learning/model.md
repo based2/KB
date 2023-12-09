@@ -23,6 +23,9 @@ https://github.com/namin/llm-verified-with-monte-carlo-tree-search
 > https://news.ycombinator.com/item?id=38235407
 > https://www.microsoft.com/en-us/research/project/dafny-a-language-and-program-verifier-for-functional-correctness/
 
+https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/
+> https://news.ycombinator.com/item?id=38556771
+
 # Visu
 https://bbycroft.net/llm
 > https://news.ycombinator.com/item?id=38507672
@@ -32,9 +35,6 @@ https://github.com/laiyer-ai/llm-guard
 > https://news.ycombinator.com/item?id=37103757
 
 # llama Facebook - Forbids commercial use, weights required
-https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/
-> https://news.ycombinator.com/item?id=38556771
-
 https://ai.meta.com/llama/ v2
 > https://news.ycombinator.com/item?id=36774627
 
@@ -178,6 +178,9 @@ https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589
 
 # News
+https://avapls.com/
+> https://news.ycombinator.com/item?id=38572720
+
 https://www.anthropic.com/index/claude-2-1-prompting
 > https://news.ycombinator.com/item?id=38550675
 

@@ -153,6 +153,9 @@ https://www.youtube.com/watch?v=vVUnCXKuNOg
 
 https://home.robusta.dev/blog/whyprofiler-the-worlds-first-hybrid-cpu-profiler-now-for-jupyter-notebook-and-python
 
+https://bloomberg.github.io/memray/index.html
+> https://news.ycombinator.com/item?id=38561682
+
 # Package
 
 https://antonz.org/python-packaging/

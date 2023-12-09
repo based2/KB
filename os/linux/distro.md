@@ -96,6 +96,10 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=38583399
+
+https://alpinelinux.org/posts/Alpine-3.19.0-released.html
+
 https://news.ycombinator.com/item?id=38399460
 
 https://linuxfr.org/news/la-longuement-desiree-fedora-linux-39-est-disponible

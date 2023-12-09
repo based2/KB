@@ -20,6 +20,13 @@ https://darkcoding.net/misc/openttd-trains-and-signals-for-beginners-a-tutorial/
 https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-ohio-train-crash
 > https://news.ycombinator.com/item?id=35013030
 
+# I
+https://social.hackerspace.pl/@q3k/111528162462505087
+> https://news.ycombinator.com/item?id=38530885
+
+https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking/
+> https://news.ycombinator.com/item?id=38567687
+
 # News
 https://news.ycombinator.com/item?id=38530885
 
