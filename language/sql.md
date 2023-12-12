@@ -62,6 +62,9 @@ http://harelba.github.io/q/
 https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 
 # News
+https://arxiv.org/abs/2312.00638
+> https://news.ycombinator.com/item?id=38606146
+
 https://buttondown.email/jaffray/archive/the-case-of-a-curious-sql-query/
 > https://news.ycombinator.com/item?id=38016930
 

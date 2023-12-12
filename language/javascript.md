@@ -639,6 +639,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://supabase.com/blog/edge-functions-node-npm
+> https://news.ycombinator.com/item?id=38616691
+
 https://github.com/bellard/quickjs/commit/daa35bc1e5d43192098af9b51caeb4f18f73f9f9
 > https://news.ycombinator.com/item?id=38583535
 

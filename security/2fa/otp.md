@@ -55,6 +55,9 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://777.tf/blog/2023/12/08/using-fido-keys/
+> https://news.ycombinator.com/item?id=38567626
+
 https://blogs.infoblox.com/cyber-threat-intelligence/how-bad-guys-are-undermining-trust-in-multi-factor-authentication-mfa/
 
 > https://lobste.rs/s/zzdtkb/my_1fa_is_probably_better_than_your_mfa

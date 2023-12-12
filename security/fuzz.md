@@ -12,6 +12,8 @@ https://tlakh.xyz/fuzzing-ping.html
 https://thevaluable.dev/practical-guide-fzf-example/
 
 #
+https://albocoder.github.io/fuzzing/exploitation/linux%20kernel/hacking/ai/gpt/llm/2023/11/27/GPT-syzkaller.html
+
 https://www.cyberark.com/resources/threat-research-blog/fuzzer-v
 
 https://news.ycombinator.com/item?id=38445660

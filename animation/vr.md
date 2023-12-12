@@ -1,3 +1,6 @@
+https://www.apple.com/newsroom/2023/12/apple-introduces-spatial-video-capture-on-iphone-15-pro/
+> https://news.ycombinator.com/item?id=38605765
+
 https://www.leemartin.com/wish-star-finder
 
 https://news.ycombinator.com/item?id=37964575

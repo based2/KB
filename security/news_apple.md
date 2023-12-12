@@ -4,6 +4,8 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-recent-zero-days-on-older-iphones/
+
 https://www.bleepingcomputer.com/news/apple/apple-fixes-two-new-ios-zero-days-in-emergency-updates/
 
 https://www.bleepingcomputer.com/news/security/new-macos-kandykorn-malware-targets-cryptocurrency-engineers/

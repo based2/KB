@@ -40,6 +40,10 @@ https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
 
 #
+https://news.ycombinator.com/item?id=38598940
+
+https://news.ycombinator.com/item?id=38609747
+
 https://clearbluejar.github.io/posts/decompilation-debugging-pretending-all-binaries-come-with-source-code/
 
 https://www.righto.com/2023/11/intel-386-clock-circuit.html

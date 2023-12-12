@@ -142,3 +142,5 @@ https://github.com/sbcl/sbcl/blob/master/doc/internals-notes/arena-allocation.tx
 
 https://www.youtube.com/watch?v=0ihChIaN8d0
 > https://lobste.rs/s/pb0u52/getting_up_another_processes_memory
+
+https://news.ycombinator.com/item?id=38604990

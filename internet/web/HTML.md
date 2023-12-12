@@ -156,6 +156,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://www.htmhell.dev/adventcalendar/2023/8/
+> https://news.ycombinator.com/item?id=38605477
+
 https://meyerweb.com/eric/thoughts/2023/12/06/three-decades-of-html/
 > https://news.ycombinator.com/item?id=38559247
 

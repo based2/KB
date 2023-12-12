@@ -61,6 +61,10 @@ https://www.wsj.com/articles/facebook-files-xcheck-zuckerberg-elite-rules-116315
 # BBS
 https://www.telnetbbsguide.com/
 
+# tools
+https://cblgh.org/trustnet/
+> https://news.ycombinator.com/item?id=38590144
+
 # Incident
 https://kolektiva.social/@admin/110637031574056150
 > https://news.ycombinator.com/item?id=36553489

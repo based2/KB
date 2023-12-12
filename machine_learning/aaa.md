@@ -272,6 +272,8 @@ https://news.ycombinator.com/item?id=38460325
 
 https://news.ycombinator.com/item?id=38579170
 
+https://news.ycombinator.com/item?id=38615280
+
 # History
 https://news.ycombinator.com/item?id=28343118
 
@@ -454,6 +456,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.answer.ai/posts/2023-12-12-launch.html
+> https://news.ycombinator.com/item?id=38614232
+
 https://neurips2023.vizhub.ai/?brushed=%255B%255B286.2249755859375%252C22.458332061767578%255D%252C%255B293.3999938964844%252C24.508331298828125%255D%255D
 > https://news.ycombinator.com/item?id=38582870
 

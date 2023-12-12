@@ -110,6 +110,9 @@ https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-u
 https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
 
 # News
+https://github.com/bricks-cloud/BricksLLM OSS alternative to Azure OpenAI services
+> https://news.ycombinator.com/item?id=38603853
+
 https://news.ycombinator.com/item?id=38473608
 
 https://github.com/synacktiv/Mindmaps

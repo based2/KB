@@ -14,6 +14,11 @@ https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-
 https://github.com/ax/apk.sh/releases
 
 #
+https://www.bleepingcomputer.com/news/security/autospill-attack-steals-credentials-from-android-password-managers/
+
+https://security.googleblog.com/2023/12/hardening-cellular-basebands-in-android.html
+> https://news.ycombinator.com/item?id=38616922
+
 https://source.android.com/docs/security/bulletin/2023-12-01?hl=en CVE-2023-40088 CVE-2023-40077 CVE-2023-40076
 
 https://maldbg.com/packed-android-proxy-framework

@@ -1,6 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.microsoft.com/en-us/security/blog/2023/03/24/guidance-for-investigating-attacks-using-cve-2023-23397/
+
+https://www.bleepingcomputer.com/news/technology/avira-antivirus-causes-windows-computers-to-freeze-after-boot/
+
+https://krebsonsecurity.com/2023/12/microsoft-patch-tuesday-december-2023-edition/
+
 https://news.ycombinator.com/item?id=38522325
 
 https://www.bleepingcomputer.com/news/security/over-20-000-vulnerable-microsoft-exchange-servers-exposed-to-attacks/

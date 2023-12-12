@@ -63,3 +63,6 @@ https://developer.apple.com/forums/thread/738862
 
 https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0
 > https://news.ycombinator.com/item?id=38424633
+
+https://github.com/ast-grep/ast-grep
+> https://news.ycombinator.com/item?id=38590984

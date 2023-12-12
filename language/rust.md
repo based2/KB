@@ -230,6 +230,8 @@ https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at
 https://shnatsel.medium.com/smoke-testing-rust-http-clients-b8f2ee5db4e6
 > https://lobste.rs/s/fdrio2/smoke_testing_rust_http_clients_2020
 
+https://news.ycombinator.com/item?id=38601538
+
 # Build
 https://fasterthanli.me/articles/why-is-my-rust-build-so-slow
 > https://news.ycombinator.com/item?id=29742694

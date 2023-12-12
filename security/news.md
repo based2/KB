@@ -1,3 +1,7 @@
+https://rhinosecuritylabs.com/research/silverpeas-file-read-cves/
+
+https://news.ycombinator.com/item?id=38611175
+
 https://www.schneier.com/blog/archives/2023/12/spying-through-push-notifications.html
 
 https://engineering.fb.com/wp-content/uploads/2023/12/TheLabyrinthEncryptedMessageStorageProtocol_12-6-2023.pdf

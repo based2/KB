@@ -74,6 +74,9 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://github.com/littlefs-project/littlefs
+> https://news.ycombinator.com/item?id=38596335
+
 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057843 ext4
 
 https://metebalci.com/blog/a-minimum-complete-tutorial-of-linux-ext4-file-system/

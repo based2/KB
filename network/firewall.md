@@ -47,6 +47,10 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 #
+https://www.bleepingcomputer.com/news/security/sophos-backports-rce-fix-after-attacks-on-unsupported-firewalls/
+
+https://www.bleepingcomputer.com/news/security/over-1-450-pfsense-servers-exposed-to-rce-attacks-via-bug-chain/
+
 https://vigilance.fr/vulnerability/ZoneAlarm-Extreme-Security-privilege-escalation-via-Remediation-Service-42837
 
 https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/

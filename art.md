@@ -46,6 +46,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://zettl.blog/2023/12/wu-wei/
+> https://news.ycombinator.com/item?id=38605068
+
 https://rndr.studio/projects/openrndr/
 > https://news.ycombinator.com/item?id=38438750
 

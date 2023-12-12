@@ -354,6 +354,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/
+> https://news.ycombinator.com/item?id=38601435
+
 https://news.ycombinator.com/item?id=38401059
 
 https://news.ycombinator.com/item?id=38262775

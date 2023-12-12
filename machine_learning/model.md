@@ -26,6 +26,9 @@ https://github.com/namin/llm-verified-with-monte-carlo-tree-search
 https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/
 > https://news.ycombinator.com/item?id=38556771
 
+https://github.com/confident-ai/deepeval
+> https://news.ycombinator.com/item?id=38606787
+
 # Visu
 https://bbycroft.net/llm
 > https://news.ycombinator.com/item?id=38507672
@@ -178,6 +181,12 @@ https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589
 
 # News
+https://mistral.ai/news/mixtral-of-experts/
+> https://news.ycombinator.com/item?id=38598559
+
+https://www.cerebras.net/blog/introducing-gigagpt-gpt-3-sized-models-in-565-lines-of-code
+> https://news.ycombinator.com/item?id=38603207
+
 https://avapls.com/
 > https://news.ycombinator.com/item?id=38572720
 

@@ -58,6 +58,8 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://news.ycombinator.com/item?id=38611700 macos
+
 https://news.ycombinator.com/item?id=38547033 source data into any desired target schema - mappers
 
 https://news.ycombinator.com/item?id=38545207

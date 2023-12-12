@@ -138,6 +138,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/
+> https://news.ycombinator.com/item?id=38576530
+
 https://asset-group.github.io/disclosures/5ghoul/ 5G Modem Firmware CVEs
 > https://news.ycombinator.com/item?id=38567149
 
@@ -196,6 +199,10 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=38613552
+
+https://news.ycombinator.com/item?id=38603653
+
 https://news.ycombinator.com/item?id=38507446
 
 https://www.heise.de/news/5G-Projekt-der-Bahn-Gigabit-Mobilfunk-auf-Teststrecke-9546733.html

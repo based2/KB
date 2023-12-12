@@ -118,6 +118,11 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://www.phoronix.com/news/FFmpeg-CLI-MT-Merged
+> https://news.ycombinator.com/item?id=38613219
+
+https://news.ycombinator.com/item?id=38596353
+
 https://news.ycombinator.com/item?id=38502586
 
 https://news.ycombinator.com/item?id=38329969

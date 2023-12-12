@@ -144,6 +144,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=38590156
+
 https://www.quantamagazine.org/a-team-of-math-proves-a-critical-link-between-addition-and-sets-20231206/
 > https://news.ycombinator.com/item?id=38545522
 

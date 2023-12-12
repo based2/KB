@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/counter-strike-2-html-injection-bug-exposes-players-ip-addresses/
+
 https://news.ycombinator.com/item?id=38406578
 
 https://electrek.co/2023/11/14/rivian-software-update-bricks-infotainment-system-fix-not-obvious/

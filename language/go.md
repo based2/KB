@@ -66,6 +66,9 @@ https://fyne.io/
 
 https://github.com/charmbracelet/bubbletea
 
+https://github.com/a-h/templ html
+> https://news.ycombinator.com/item?id=38597599
+
 # Links
 https://news.ycombinator.com/item?id=25881212`
 

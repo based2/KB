@@ -56,6 +56,9 @@ https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/
 > https://news.ycombinator.com/item?id=38507531
 
 # News
+https://docs.anthropic.com/claude/docs/using-claude-for-sheets
+> https://news.ycombinator.com/item?id=38618273
+
 https://arxiv.org/abs/2311.18805
 > https://news.ycombinator.com/item?id=38506140
 
