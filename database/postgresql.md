@@ -322,6 +322,7 @@ https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-rele
 
 # News
 https://knock.app/blog/zero-downtime-postgres-upgrades
+> https://news.ycombinator.com/item?id=38616181
 
 https://supabase.com/blog/postgres-language-server-implementing-parser
 > https://news.ycombinator.com/item?id=38568252

@@ -216,6 +216,9 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://storybook.js.org/blog/storybook-react-server-components/
+> https://news.ycombinator.com/item?id=38627855
+
 https://tamagui.dev/
 > https://news.ycombinator.com/item?id=38406274
 

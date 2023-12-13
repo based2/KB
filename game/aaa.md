@@ -33,6 +33,12 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+
+> https://news.ycombinator.com/item?id=38589654
+
+https://wheybags.com/dungeons_and_directories/
+> https://news.ycombinator.com/item?id=38614054
+
 https://shutdowngame.apc.org/
 > https://news.ycombinator.com/item?id=38566697
 

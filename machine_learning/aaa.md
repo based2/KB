@@ -456,6 +456,10 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=38630349
+
+https://news.ycombinator.com/item?id=38628456
+
 https://www.answer.ai/posts/2023-12-12-launch.html
 > https://news.ycombinator.com/item?id=38614232
 

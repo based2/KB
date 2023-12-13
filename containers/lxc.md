@@ -33,3 +33,6 @@ https://github.com/stgraber/incus
 > https://news.ycombinator.com/item?id=36985384
 
 https://discuss.linuxcontainers.org/t/introducing-incus/17781
+
+https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/
+> https://news.ycombinator.com/item?id=38618696

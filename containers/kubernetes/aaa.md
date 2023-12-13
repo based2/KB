@@ -101,6 +101,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://layer5.io/blog/kubernetes/kubernetes-129-highlights-features-and-deprecations
+
 https://matduggan.com/why-kubernetes-needs-an-lts/
 > https://news.ycombinator.com/item?id=38516717
 

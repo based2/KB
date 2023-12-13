@@ -87,6 +87,9 @@ https://aryanvij02.medium.com/push-ups-with-python-mediapipe-open-a544bd9b4351
 # 
 https://github.com/clovaai/donut
 
+https://github.com/rogeriochaves/driver screen
+> https://news.ycombinator.com/item?id=38623175
+
 # News
 https://github.com/kharitonov-ivan/multi-object-tracking-in-python
 > https://news.ycombinator.com/item?id=38280490

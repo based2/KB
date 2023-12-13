@@ -114,6 +114,8 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/grafana/pyroscope
+
 https://two-wrongs.com/system-observability-metrics-sampling-tracing
 > https://lobste.rs/s/e1sdqj/system_observability_metrics_sampling
 > > https://peter.bourgon.org/blog/2018/08/22/observability-signals.html

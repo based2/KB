@@ -103,6 +103,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=38629626
+
 https://www.theregister.com/2023/11/29/rhel_10_dropping_x11/
 > https://news.ycombinator.com/item?id=38463143
 

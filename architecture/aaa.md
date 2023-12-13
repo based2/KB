@@ -60,6 +60,7 @@ https://www.ilograph.com/architecture-center/index.html
 
 # End of life
 https://endoflife.date/
+> https://news.ycombinator.com/item?id=38589742
 
 https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/
 

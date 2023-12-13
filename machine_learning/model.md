@@ -181,6 +181,12 @@ https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589
 
 # News
+https://future.mozilla.org/blog/introducing-memorycache/
+> https://news.ycombinator.com/item?id=38614824
+
+https://justine.lol/oneliners/
+> https://news.ycombinator.com/item?id=38629630
+
 https://mistral.ai/news/mixtral-of-experts/
 > https://news.ycombinator.com/item?id=38598559
 
