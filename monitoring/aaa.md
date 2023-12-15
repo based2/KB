@@ -77,6 +77,8 @@ https://news.ycombinator.com/item?id=31780076 Show HN: Root Cause as a Service â
 https://www.devraven.io/ Monitoring for Developers
 > https://news.ycombinator.com/item?id=32296783
 
+https://news.ycombinator.com/item?id=38659073
+
 #
 https://eng.lyft.com/building-a-large-scale-unsupervised-model-anomaly-detection-system-part-1-aca4766a823c
 > https://news.ycombinator.com/item?id=35658173

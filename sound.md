@@ -39,6 +39,8 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 # News
+https://0110.be/posts/Clap_detection_-_Trigger_your_anything
+
 https://somafm.com/
 > https://news.ycombinator.com/item?id=38596208
 

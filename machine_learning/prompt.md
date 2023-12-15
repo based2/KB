@@ -1,3 +1,6 @@
+https://platform.openai.com/docs/guides/prompt-engineering
+> https://news.ycombinator.com/item?id=38657029
+
 https://cobusgreyling.medium.com/a-new-prompt-engineering-technique-has-been-introduced-called-step-back-prompting-b00e8954cacb
 
 https://github.com/ray-project/llm-numbers

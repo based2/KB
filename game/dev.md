@@ -157,6 +157,11 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=38641105
+
+https://godotengine.org/article/collaboration-with-google-forge-2023/
+> https://news.ycombinator.com/item?id=38651818
+
 https://github.com/victorqribeiro/towerDefense
 
 https://github.com/ThalesGroup/kessler-game ur5

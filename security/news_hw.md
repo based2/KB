@@ -8,6 +8,11 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://blogs.vmware.com/security/2023/11/cve-2023-23583.html rex intel
+
+https://bughunters.google.com/blog/6084781186613248/the-tale-of-google-s-response-to-reptar-cpu-vulnerability
+> https://news.ycombinator.com/item?id=38637564
+
 https://security.googleblog.com/2023/11/mte-promising-path-forward-for-memory.html
 
 https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/

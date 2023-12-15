@@ -42,6 +42,8 @@ https://boyter.org/posts/how-i-built-my-own-index-for-searchcode/
 
 https://beta.sayhello.so/
 
+https://news.ycombinator.com/item?id=38637652
+
 # Images
 https://github.com/emnh/PixelArtSearch/blob/master/README.md
 > https://news.ycombinator.com/item?id=26738006

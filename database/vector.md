@@ -39,3 +39,6 @@ https://news.ycombinator.com/item?id=38420554
 
 https://news.ycombinator.com/item?id=38416994
 
+https://montyanderson.net/writing/embeddings
+> https://news.ycombinator.com/item?id=38645411
+

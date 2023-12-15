@@ -91,6 +91,9 @@ https://github.com/quoll/asami clojure
 
 https://jena.apache.org/tutorials/sparql.html
 
+# dag
+https://news.ycombinator.com/item?id=38645180
+
 # Algo
 https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 > https://news.ycombinator.com/item?id=27294401
@@ -112,6 +115,9 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://doc.cat-v.org/unix/v8/grap.pdf
+> https://news.ycombinator.com/item?id=38634667
+
 https://github.com/google/graph-mining#the-graph-mining-library
 
 https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/

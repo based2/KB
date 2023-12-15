@@ -189,6 +189,9 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/
+> https://news.ycombinator.com/item?id=38644479
+
 https://www.schneier.com/blog/archives/2023/08/you-cant-rush-post-quantum-computing-standards.html
 
 https://eprint.iacr.org/2022/1703

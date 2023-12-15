@@ -144,6 +144,12 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+http://julius-ross.com/Borsuk-Ulam/
+> https://news.ycombinator.com/item?id=38640098
+
+https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/
+> https://news.ycombinator.com/item?id=38643076
+
 https://www.quantamagazine.org/a-triplet-tree-forms-one-of-the-most-beautiful-structures-in-math-20231212/
 > https://news.ycombinator.com/item?id=38621753
 

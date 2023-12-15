@@ -26,7 +26,11 @@ https://github.com/netblue30/firejail SUID sandbox program that reduces the risk
 https://github.com/niveb/NoCrypt A small experimental project to make a defense tool to prevent ransomware attacks on Linux systems.
 > https://www.reddit.com/r/netsec/comments/13kc0b2/nocrypt_antiransomware_linux_kernel_module/
 
+https://github.com/secureblue/secureblue fedora
+
 # News
+https://blog.des.no/2020/08/netlink-auditing-and-counting-bytes/
+
 https://news.ycombinator.com/item?id=38478253
 
 https://news.ycombinator.com/item?id=38422186

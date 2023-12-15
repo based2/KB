@@ -180,7 +180,13 @@ https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the
 https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589
 
+https://www.amazon.science/blog/do-large-language-models-really-need-all-those-layers
+> https://news.ycombinator.com/item?id=38656039
+
 # News
+https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/
+> https://news.ycombinator.com/item?id=38620037
+
 https://future.mozilla.org/blog/introducing-memorycache/
 > https://news.ycombinator.com/item?id=38614824
 

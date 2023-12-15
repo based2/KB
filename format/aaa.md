@@ -77,6 +77,9 @@ https://www.da.vidbuchanan.co.uk/blog/hello-png.html
 
 https://news.ycombinator.com/item?id=38529143 gif
 
+https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/
+> https://news.ycombinator.com/item?id=38653110
+
 # News
 https://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html
 > https://news.ycombinator.com/item?id=38554281

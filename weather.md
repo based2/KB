@@ -137,3 +137,5 @@ https://weather.simonton.app/
 
 https://theoutline.com/post/3826/crap-weather-apps-meteorolgists
 > https://news.ycombinator.com/item?id=30212818
+
+https://news.ycombinator.com/item?id=38632250

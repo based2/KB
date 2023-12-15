@@ -16,6 +16,8 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://news.ycombinator.com/item?id=38652870
+
 https://news.ycombinator.com/item?id=38417415
 
 https://www.lockheedmartin.com/en-us/news/features/2023/lockheed-martin-jets-into-nuclear-electrical-spacecraft-power.html

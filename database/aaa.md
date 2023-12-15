@@ -73,6 +73,9 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://tontinton.com/posts/database-fundementals/
+> https://news.ycombinator.com/item?id=38655066
+
 https://planetscale.com/blog/challenges-of-supporting-foreign-key-constraints
 > https://news.ycombinator.com/item?id=38532746
 

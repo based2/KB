@@ -43,3 +43,7 @@ https://hub.sunny.garden/2023/06/28/what-does-authorized_fetch-actually-do/
 
 https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC
 > https://news.ycombinator.com/item?id=38530597
+
+https://news.ycombinator.com/item?id=38654910
+
+https://activitypods.org/blog/the-road-to-activitypods-2-0/

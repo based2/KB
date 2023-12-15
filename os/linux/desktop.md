@@ -103,6 +103,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.phoronix.com/news/COSMIC-December-2023
+> https://news.ycombinator.com/item?id=38656529
+
 https://news.ycombinator.com/item?id=38629626
 
 https://www.theregister.com/2023/11/29/rhel_10_dropping_x11/

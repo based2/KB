@@ -55,6 +55,8 @@ https://scriv.ai/guides/retrieval-augmented-generation-overview/
 https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Intel-neural-chat-7b-Model-Achieves-Top-Ranking-on-LLM/post/1549386
 > https://news.ycombinator.com/item?id=38507531
 
+http://huggingface.co/chat?model=mistralai/Mixtral-8x7B-Instruct-v0.1
+
 # News
 https://docs.anthropic.com/claude/docs/using-claude-for-sheets
 > https://news.ycombinator.com/item?id=38618273

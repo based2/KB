@@ -94,6 +94,9 @@ https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-ro
 
 https://www.tri.global/news/toyota-research-institute-unveils-breakthrough-teaching-robots-new-behaviors
 
+https://diffusion-policy.cs.columbia.edu/
+> https://news.ycombinator.com/item?id=38637917
+
 # News
 https://news.ycombinator.com/item?id=38445020
 

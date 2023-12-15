@@ -341,6 +341,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://medium.com/@hbakri/introducing-django-ninja-crud-ee937bd2ea65
+> https://news.ycombinator.com/item?id=38634562
+
 https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/
 > https://news.ycombinator.com/item?id=38517099
 

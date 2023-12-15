@@ -211,6 +211,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://www.theverge.com/2023/12/14/24000696/proton-mail-desktop-app-mac-windows-encrypted
+> https://news.ycombinator.com/item?id=38641048
+
 https://www.larrymyers.com/posts/own-your-mx-record/
 
 https://blitiri.com.ar/p/chasquid/

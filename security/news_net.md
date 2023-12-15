@@ -25,6 +25,13 @@ https://linuxfr.org/news/reaction-remplacant-de-fail2ban go
 https://github.com/acriba/heimdall rust
 
 #
+https://news.ycombinator.com/item?id=38643348
+
+https://news.ycombinator.com/item?id=38649226
+
+https://ds-security.com/post/wifi-camera-security-analysis/
+> https://news.ycombinator.com/item?id=38648119
+
 https://claroty.com/team82/research/dicom-demystified-exploring-the-underbelly-of-medical-imaging
 > https://old.reddit.com/r/netsec/comments/186zo3l/dicom_protocol_vulnerabilities_and_attack_surface/
 

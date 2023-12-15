@@ -337,6 +337,9 @@ https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 https://security.googleblog.com/2023/10/increasing-transparency-in-ai-security.html
 
 # Incident
+https://promptarmor.substack.com/p/data-exfiltration-from-writercom
+> https://news.ycombinator.com/item?id=38654533
+
 https://www.lasso.security/blog/1500-huggingface-api-tokens-were-exposed-leaving-millions-of-meta-llama-bloom-and-pythia-users-for-supply-chain-attacks
 
 https://arxiv.org/abs/2310.07298
@@ -456,6 +459,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=38632827
+
+https://news.ycombinator.com/item?id=38642199
+
+https://news.ycombinator.com/item?id=38615521
+
 https://news.ycombinator.com/item?id=38630349
 
 https://news.ycombinator.com/item?id=38628456

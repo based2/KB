@@ -101,6 +101,10 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/
+> https://news.ycombinator.com/item?id=38642638
+> > https://timoni.sh
+
 https://layer5.io/blog/kubernetes/kubernetes-129-highlights-features-and-deprecations
 
 https://matduggan.com/why-kubernetes-needs-an-lts/

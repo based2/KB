@@ -96,3 +96,5 @@ https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-ca
 https://ideal-dither.com/?p=8 The authors propose propose the eXtended Block Cache (XBC), a new structure to replace the Trace Cache (TC)
 
 https://news.ycombinator.com/item?id=38506558
+
+https://lemire.me/blog/2023/12/12/measuring-the-size-of-the-cache-line-empirically/

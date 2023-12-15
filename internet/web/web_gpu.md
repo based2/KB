@@ -46,3 +46,5 @@ https://www.willusher.io/graphics/2023/05/16/0-to-gltf-first-mesh
 
 https://acko.net/blog/subpixel-distance-transform/
 > https://news.ycombinator.com/item?id=36809404
+
+https://news.ycombinator.com/item?id=38639698

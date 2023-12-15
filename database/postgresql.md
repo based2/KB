@@ -305,6 +305,10 @@ https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-ranc
 https://blog.val.town/blog/migrating-from-supabase
 > https://news.ycombinator.com/item?id=36004925
 
+# SaaS
+https://supabase.com/blog/postgres-on-fly-by-supabase
+> https://news.ycombinator.com/item?id=38653212
+
 # Incident
 https://www.postgresql.org/about/news/postgresql-161-155-1410-1313-1217-and-1122-released-2749/
 

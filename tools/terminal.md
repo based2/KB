@@ -42,6 +42,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/sontek/snowmachine
+> https://news.ycombinator.com/item?id=38652339
+
 https://ryantravitz.com/blog/2023-02-18-pull-of-the-undercurl/
 > https://news.ycombinator.com/item?id=36887721
 

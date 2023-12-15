@@ -108,6 +108,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://spectrum.ieee.org/amd-mi300
+> https://news.ycombinator.com/item?id=38650937
+
 https://lupyuen.codeberg.page/articles/plic2.html UART Interrupt and Platform-Level Interrupt Controller
 > https://news.ycombinator.com/item?id=38502979
 

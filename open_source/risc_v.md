@@ -13,6 +13,9 @@ https://arxiv.org/abs/2308.02945
 https://github.com/chipsalliance/riscv-dv
 
 #
+https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain
+> https://news.ycombinator.com/item?id=38640406
+
 https://www.phoronix.com/news/Linux-6.7-RISC-V
 > https://news.ycombinator.com/item?id=38230161
 
