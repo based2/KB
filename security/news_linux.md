@@ -29,6 +29,8 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 https://github.com/secureblue/secureblue fedora
 
 # News
+https://vigilance.fr/vulnerability/Vim-use-after-free-via-ex-substitute-43103
+
 https://blog.des.no/2020/08/netlink-auditing-and-counting-bytes/
 
 https://news.ycombinator.com/item?id=38478253

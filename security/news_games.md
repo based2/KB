@@ -1,3 +1,7 @@
+https://www.shadowstackre.com/analysis/rhysida
+
+https://research.checkpoint.com/2019/hacking-fortnite/
+
 https://www.bleepingcomputer.com/news/security/counter-strike-2-html-injection-bug-exposes-players-ip-addresses/
 
 https://news.ycombinator.com/item?id=38406578

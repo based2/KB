@@ -164,6 +164,12 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://kitemaker.co/blog/more_product_fewer_pms
+> https://news.ycombinator.com/item?id=38652619
+
+https://mattrucker.com/risk-management-is-not-project-management/
+> https://news.ycombinator.com/item?id=38656007
+
 https://morai.eu/elevating-business-process-modeling-with-queryselector-use-case-with-the-bpi12-dataset/
 
 https://www.pathsensitive.com/2023/12/should-you-split-that-file.html

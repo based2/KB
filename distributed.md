@@ -113,6 +113,9 @@ https://news.ycombinator.com/item?id=38289327
 https://bytes.zone/posts/modeling-crdts-in-alloy-counters/
 > https://news.ycombinator.com/item?id=38501437
 
+https://www.farley.ai/posts/causal
+> https://news.ycombinator.com/item?id=38661580
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

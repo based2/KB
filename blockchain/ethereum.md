@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://bramcohen.com/p/remember-how-ethereum-was-supposed
+
 https://arxiv.org/abs/2311.03530 DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs
 
 https://cryptomaton.medium.com/a-deep-dive-into-how-curve-pools-70-million-reentrancy-exploit-was-possible-7e0db6b0cecf

@@ -52,6 +52,9 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 > https://news.ycombinator.com/item?id=36628258
 
 # News
+https://www.scotthyoung.com/blog/2022/02/15/act-r/
+> https://news.ycombinator.com/item?id=38663960
+
 https://qntm.org/mmacevedo
 > https://news.ycombinator.com/item?id=38536778
 

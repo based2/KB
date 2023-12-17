@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://phys.org/news/2023-12-nasa-life-sparking-energy-source-molecule.html
+> https://news.ycombinator.com/item?id=38661903
+
 https://arstechnica.com/space/2023/12/nasa-wants-to-see-gas-stations-in-space-but-so-far-its-tanks-are-empty/
 > https://news.ycombinator.com/item?id=38612585
 

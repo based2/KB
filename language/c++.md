@@ -59,6 +59,9 @@ https://pcapplusplus.github.io/docs/quickstart
 https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html
 > https://news.ycombinator.com/item?id=38478866
 
+https://forum.misra.org.uk/thread-1668.html
+> https://news.ycombinator.com/item?id=38674158
+
 # Test
 https://github.com/Snaipe/Criterion
 

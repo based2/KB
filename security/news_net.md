@@ -25,6 +25,17 @@ https://linuxfr.org/news/reaction-remplacant-de-fail2ban go
 https://github.com/acriba/heimdall rust
 
 #
+https://research.checkpoint.com/2023/rhadamanthys-v0-5-0-a-deep-dive-into-the-stealers-components/
+
+https://www.bleepingcomputer.com/news/security/stealthy-kv-botnet-hijacks-soho-routers-and-vpn-devices/
+
+https://www.bleepingcomputer.com/news/security/new-nkabuse-malware-abuses-nkn-blockchain-for-stealthy-comms/
+
+https://github.com/skysafe/reblog/tree/main/cve-2023-45866
+> https://news.ycombinator.com/item?id=38661182
+
+https://www.shadowstackre.com/analysis/qilin
+
 https://news.ycombinator.com/item?id=38643348
 
 https://news.ycombinator.com/item?id=38649226

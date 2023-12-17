@@ -42,3 +42,5 @@ https://news.ycombinator.com/item?id=38416994
 https://montyanderson.net/writing/embeddings
 > https://news.ycombinator.com/item?id=38645411
 
+https://docs.paradedb.com/blog/introducing_sparse
+

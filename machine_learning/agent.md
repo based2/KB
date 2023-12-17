@@ -17,3 +17,6 @@ https://news.ycombinator.com/item?id=38521998
 
 https://pearlagent.github.io/
 
+https://github.com/facebookresearch/Pearl
+> https://news.ycombinator.com/item?id=38671030
+

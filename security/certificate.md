@@ -66,6 +66,8 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://news.ycombinator.com/item?id=38674415
+
 https://blog.anchor.dev/getting-started-with-anchor-for-local-development-6dd2cd605c08
 > https://news.ycombinator.com/item?id=38098490
 

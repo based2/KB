@@ -73,6 +73,12 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://www.infoq.com/news/2023/11/mysql-read-write-splitting/
+
+https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all
+
+https://news.ycombinator.com/item?id=38661890
+
 https://tontinton.com/posts/database-fundementals/
 > https://news.ycombinator.com/item?id=38655066
 

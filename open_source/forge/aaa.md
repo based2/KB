@@ -14,6 +14,9 @@ https://pijul.org/posts/2022-01-08-beta/
 > https://news.ycombinator.com/item?id=29991417
 
 # News
+https://notgull.net/finding-a-forge/
+> https://news.ycombinator.com/item?id=38672386
+
 https://codeberg.org/forgejo/forgejo
 > https://forgejo.org/2023-07-release-v1/
 

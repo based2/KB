@@ -109,6 +109,8 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 > https://news.ycombinator.com/item?id=27718701
 
 # News
+https://news.ycombinator.com/item?id=38662900
+
 https://news.ycombinator.com/item?id=38540421 jsonb
 
 https://news.ycombinator.com/item?id=38484654

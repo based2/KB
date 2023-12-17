@@ -90,3 +90,5 @@ https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md
 https://arxiv.org/abs/2309.03409
 > https://arstechnica.com/information-technology/2023/09/telling-ai-model-to-take-a-deep-breath-causes-math-scores-to-soar-in-study/
 
+https://news.ycombinator.com/item?id=38673954
+

@@ -2,6 +2,8 @@ https://www.simutrans.com/en/
 > https://news.ycombinator.com/item?id=30278595
 
 #
+https://newatlas.com/marine/heave-oscillators-wave-energy-ship/
+
 https://motocompacto.honda.com/
 
 https://collindonnell.com/implementing-a-personal-transportation-hierarchy

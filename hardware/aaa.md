@@ -108,6 +108,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/
+> https://news.ycombinator.com/item?id=38675258
+
 https://spectrum.ieee.org/amd-mi300
 > https://news.ycombinator.com/item?id=38650937
 

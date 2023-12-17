@@ -13,6 +13,11 @@ https://oauth.net/2/pkce/
 https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 
 # Incident
+https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/
+> https://old.reddit.com/r/netsec/comments/18jwgm0/google_oauth_is_broken_sort_of/
+
+https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redirect-uri-Wildcard-43110
+
 https://vigilance.fr/vulnerabilite/mod-auth-openidc-redirection-via-Logout-Parameter-40178
 
 #

@@ -26,6 +26,8 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://www.bleepingcomputer.com/news/security/cisa-urges-tech-manufacturers-to-stop-using-default-passwords/
+
 https://www.troyhunt.com/a-decade-of-have-i-been-pwned/
 > https://news.ycombinator.com/item?id=38519257
 

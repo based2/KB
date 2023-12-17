@@ -50,6 +50,8 @@ https://vlmantova.github.io/bookml/
 https://news.ycombinator.com/item?id=38201995
 
 #
+https://lobste.rs/s/g3hxhf/how_do_you_write_good_tutorial_for_open
+
 https://news.ycombinator.com/item?id=38054267
 
 https://news.ycombinator.com/item?id=38045262

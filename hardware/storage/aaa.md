@@ -33,6 +33,8 @@ https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity
 
 https://lobste.rs/s/maxyzv/s3_express_speculations
 
+https://lobste.rs/s/g1omrn/cli_for_streams_data_s3_buckets
+
 # Block Storage
 onTAP
 # SMB Microsoft

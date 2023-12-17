@@ -79,6 +79,10 @@ https://www.openvas.org/
 https://pkg.go.dev/vuln/
 
 # News
+https://notcve.org/faq.html https://notcve.org/recent.php
+> https://lwn.net/ml/oss-security/c01c1617-641d-4ec2-847f-2e85ea4676f7@notcve.org/
+> > https://lwn.net/Articles/953738/
+
 https://old.reddit.com/r/netsec/comments/17ujo3z/cve_watcher_hunting_down_cves_before_the_patch/
 
 https://infosec.exchange/@firstdotorg/111336457504674343

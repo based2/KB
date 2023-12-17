@@ -82,6 +82,9 @@ https://github.com/geohot/qira
 > https://news.ycombinator.com/item?id=26845775
 
 #
+https://www.johndcook.com/blog/2023/12/15/pgp-fingerprint/
+> https://news.ycombinator.com/item?id=38666458
+
 https://news.ycombinator.com/item?id=38535265
 
 https://www.tbray.org/ongoing/When/202x/2021/04/24/Algorithm-Agility

@@ -42,6 +42,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/cboxdoerfer/fsearch
+> https://news.ycombinator.com/item?id=38676563
+
 https://github.com/sontek/snowmachine
 > https://news.ycombinator.com/item?id=38652339
 
