@@ -1,3 +1,6 @@
+https://www.ventoy.net/en/index.html
+> https://news.ycombinator.com/item?id=38672112
+
 https://fabiensanglard.net/usbcheat/index.html
 > https://news.ycombinator.com/item?id=31271038
 

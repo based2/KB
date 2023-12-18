@@ -44,3 +44,6 @@ https://montyanderson.net/writing/embeddings
 
 https://docs.paradedb.com/blog/introducing_sparse
 
+https://ashvardanian.com/posts/python-c-assembly-comparison/
+> https://news.ycombinator.com/item?id=38684461
+

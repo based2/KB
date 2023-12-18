@@ -73,7 +73,9 @@ https://github.com/pablo14/data-science-live-book
 
 https://epirhandbook.com/
 
-# Notebook
+# Notebooks
+https://news.ycombinator.com/item?id=38681115
+
 ## Jupyter - Python
 https://jupyter.org/
 https://github.com/jupyter/notebook

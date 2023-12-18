@@ -122,6 +122,8 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 ## 2023
+https://terrapin-attack.com/ SSH
+
 citrixbleed
 
 HTTP/2 Rapid Reset Attack

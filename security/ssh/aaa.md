@@ -125,6 +125,11 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # Incident
+https://terrapin-attack.com/
+> https://news.ycombinator.com/item?id=38684904
+
+https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134
+
 https://eprint.iacr.org/2023/1711.pdf
 > https://www.bleepingcomputer.com/news/security/researchers-extract-rsa-keys-from-ssh-server-signing-errors/
 

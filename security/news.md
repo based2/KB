@@ -1,3 +1,8 @@
+https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/
+> https://news.ycombinator.com/item?id=38682003
+
+https://www.theregister.com/2023/12/18/mr_cooper_breach_disclosure/
+
 https://rhinosecuritylabs.com/research/silverpeas-file-read-cves/
 
 https://news.ycombinator.com/item?id=38611175

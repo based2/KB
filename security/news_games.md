@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=38684034
+
 https://www.shadowstackre.com/analysis/rhysida
 
 https://research.checkpoint.com/2019/hacking-fortnite/

@@ -1,3 +1,5 @@
+https://en.wikipedia.org/wiki/Last_universal_common_ancestor
+
 https://berthub.eu/articles/posts/amazing-dna/
 
 https://scitechdaily.com/a-software-swiss-army-knife-for-genomic-data/
@@ -44,6 +46,9 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.nature.com/articles/s41467-023-37752-x
+> https://news.ycombinator.com/item?id=38672133
+
 https://news.ycombinator.com/item?id=38465378
 
 https://www.science.org/doi/10.1126/science.adg3053

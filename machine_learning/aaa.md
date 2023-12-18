@@ -459,6 +459,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://openreview.net/forum?id=idpCdOWtqXd60
+> https://news.ycombinator.com/item?id=38684925
+
 https://news.ycombinator.com/item?id=38661296
 
 https://news.ycombinator.com/item?id=38632827

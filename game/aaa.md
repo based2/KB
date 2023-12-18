@@ -33,6 +33,9 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://figgie.com/how-to-play
+> https://news.ycombinator.com/item?id=38679078
+
 https://www.jurassicsystems.com/
 >
 

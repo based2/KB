@@ -144,6 +144,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.3blue1brown.com/topics/calculus
+> https://news.ycombinator.com/item?id=38687809
+
 http://julius-ross.com/Borsuk-Ulam/
 > https://news.ycombinator.com/item?id=38640098
 

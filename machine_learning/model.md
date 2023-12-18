@@ -184,6 +184,9 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://simonwillison.net/2023/Dec/18/mistral/
+> https://news.ycombinator.com/item?id=38686221
+
 https://blog.llvm.org/posts/2023-12-07-tools-for-learning-llvm-tablegen/
 > https://news.ycombinator.com/item?id=38620037
 

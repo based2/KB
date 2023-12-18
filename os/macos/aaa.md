@@ -433,6 +433,10 @@ https://authzed.com/blog/onboarding-with-an-m1/
 > https://news.ycombinator.com/item?id=26843228
 
 # Apple
+https://www.theregister.com/2023/12/18/beeper_blocked_imessage_whacamole_continues/
+
+https://news.ycombinator.com/item?id=38689137
+
 https://www.theverge.com/23743095/apple-watch-band-release-x206-assembly-button-of-the-month
 > https://news.ycombinator.com/item?id=36140128
 
