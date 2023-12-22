@@ -73,6 +73,9 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://jepsen.io/analyses/mysql-8.0.34
+> https://news.ycombinator.com/item?id=38695750
+
 https://www.infoq.com/news/2023/11/mysql-read-write-splitting/
 
 https://lobste.rs/s/wntq5o/maybe_we_don_t_need_uuidv7_after_all

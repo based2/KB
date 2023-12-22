@@ -46,6 +46,9 @@ https://github.com/helidon-io/helidon/blob/helidon-3.x/CHANGELOG.md
 https://github.com/awaitility/awaitility
 
 # News
+https://softwaremill.com/announcing-jox-fast-and-scalable-channels-in-java/
+> https://old.reddit.com/r/java/comments/18m2b4p/announcing_jox_fast_and_scalable_channels_in_java/
+
 https://helidon.io/nima
 > https://news.ycombinator.com/item?id=37177203
 

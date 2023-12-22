@@ -184,6 +184,8 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://news.ycombinator.com/item?id=38730143
+
 https://simonwillison.net/2023/Dec/18/mistral/
 > https://news.ycombinator.com/item?id=38686221
 

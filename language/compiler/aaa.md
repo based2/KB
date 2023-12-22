@@ -135,6 +135,8 @@ https://developer.ibm.com/tutorials/l-dynamic-libraries/
 
 https://news.ycombinator.com/item?id=38215535
 
+https://maskray.me/blog/2023-12-17-exploring-the-section-layout-in-linker-output
+
 # Vectorization
 https://cvw.cac.cornell.edu/vector/default
 > https://news.ycombinator.com/item?id=27900592

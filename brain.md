@@ -51,6 +51,9 @@ https://news.ycombinator.com/item?id=29045198
 https://github.com/openworm/OpenWorm  the first comprehensive computational Caenorhabditis elegans (C. elegans)
 > https://news.ycombinator.com/item?id=36628258
 
+# ML
+https://news.ycombinator.com/item?id=38725930
+
 # News
 https://www.scotthyoung.com/blog/2022/02/15/act-r/
 > https://news.ycombinator.com/item?id=38663960

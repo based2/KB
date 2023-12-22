@@ -60,6 +60,10 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://utcc.utoronto.ca/~cks/space/blog/linux/GrubUnknownFilesystemWhy
+
+https://news.ycombinator.com/item?id=38699201
+
 https://news.ycombinator.com/item?id=38371307
 
 https://news.ycombinator.com/item?id=38316002

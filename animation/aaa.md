@@ -64,6 +64,12 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://kmalexander.com/free-stuff/fantasy-map-brushes/
+> https://news.ycombinator.com/item?id=38720412
+
+https://andrewkchan.dev/posts/fire.html
+> https://news.ycombinator.com/item?id=38698907
+
 https://meshnca.github.io/
 > https://news.ycombinator.com/item?id=38639946
 

@@ -141,6 +141,8 @@ https://andys.page/posts/how-to-draw/
 https://www.quantamagazine.org/the-physics-principle-that-inspired-modern-ai-art-20230105/
 > https://news.ycombinator.com/item?id=34266221
 
+https://old.reddit.com/r/java/comments/18jwa8n/stable_diffusion_pipeline_in_java/
+
 https://rentry.co/sdupdates list
 > https://news.ycombinator.com/item?id=33416632
 

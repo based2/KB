@@ -30,6 +30,9 @@ https://www.cnx-software.com/2021/09/07/intel-nuc-p14e-laptop-element-features-i
 https://shop.boox.com/products/mira
 > https://news.ycombinator.com/item?id=29428285
 
+https://spectrum.ieee.org/blue-pholed
+> https://news.ycombinator.com/item?id=38721604
+
 # Keyboard
 https://github.com/bfritscher/carnac
 > https://news.ycombinator.com/item?id=35454666

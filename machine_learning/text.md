@@ -57,6 +57,9 @@ https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/
 
 http://huggingface.co/chat?model=mistralai/Mixtral-8x7B-Instruct-v0.1
 
+https://labs.perplexity.ai/
+> https://news.ycombinator.com/item?id=38698782
+
 # News
 https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054
 > https://news.ycombinator.com/item?id=38673854

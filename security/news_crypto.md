@@ -1,3 +1,6 @@
+https://people.redhat.com/~hkario/marvin/
+> https://news.ycombinator.com/item?id=38692477
+
 https://vigilance.fr/vulnerability/Rust-out-of-bounds-memory-reading-via-openssl-x509-verify-X509VerifyParamRef-set-host-43023
 
 https://vigilance.fr/vulnerability/Rust-memory-corruption-via-openssl-x509-verify-X509VerifyParamRef-set-host-43024

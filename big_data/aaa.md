@@ -154,6 +154,9 @@ https://jupyter-ai.readthedocs.io/en/latest/
 https://medium.com/@techlatest.net/tensorboard-integration-with-ai-ml-models-in-jupyter-notebook-a-blog-post-on-how-to-integrate-bfb243dd05cf
 > https://news.ycombinator.com/item?id=37035077
 
+https://github.com/xetdata/xetcache
+> https://news.ycombinator.com/item?id=38696631
+
 ##
 http://zeppelin.apache.org/
 

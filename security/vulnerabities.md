@@ -144,6 +144,8 @@ Man-in-the-Middle Attacks without Rogue AP: When WPAs Meet ICMP Redirect
 Framing Frames: Bypassing Wi-Fi Encryption by Manipulating Transmit Queues
 
 ## 2022
+Marvin attack RSA https://people.redhat.com/~hkario/marvin/
+
 https://en.wikipedia.org/wiki/Retbleed x86-64 arm
 
 CVE-2022-25667 ICMP Redirect attack

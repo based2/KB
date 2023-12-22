@@ -127,6 +127,9 @@ https://mosh.org/
 # Incident
 https://terrapin-attack.com/
 > https://news.ycombinator.com/item?id=38684904
+> > https://terrapin-attack.com/patches.html https://www.openssh.com/txt/release-9.6
+> > https://www.chiark.greenend.org.uk/~sgtatham/putty/ 2023-12-18 PuTTY 0.80 released
+> > https://winscp.net/eng/docs/history#6.2.2 not yet released
 
 https://vigilance.fr/vulnerability/OpenSSH-weak-encryption-via-Terrapin-Prefix-Truncation-43134
 

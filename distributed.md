@@ -210,6 +210,8 @@ https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing
 # concurrencyngs
 
 # News
+https://www.youtube.com/watch?v=prM-0i58XBM
+
 https://github.com/infinyon/fluvio
 > https://news.ycombinator.com/item?id=38503671
 

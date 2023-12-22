@@ -211,6 +211,9 @@ https://github.com/yl4579/StyleTTS2
 > https://news.ycombinator.com/item?id=38335255
 
 # News
+https://github.com/TuneNN/TuneNN
+> https://news.ycombinator.com/item?id=38694719
+
 https://news.ycombinator.com/item?id=38532761
 
 https://news.ycombinator.com/item?id=38497549

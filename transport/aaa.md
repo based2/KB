@@ -2,6 +2,9 @@ https://www.simutrans.com/en/
 > https://news.ycombinator.com/item?id=30278595
 
 #
+https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart
+> https://news.ycombinator.com/item?id=38729707
+
 https://newatlas.com/marine/heave-oscillators-wave-energy-ship/
 
 https://motocompacto.honda.com/

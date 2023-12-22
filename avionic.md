@@ -16,6 +16,10 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://news.ycombinator.com/item?id=38719101
+
+https://news.ycombinator.com/item?id=38699343
+
 https://news.ycombinator.com/item?id=38652870
 
 https://news.ycombinator.com/item?id=38417415

@@ -34,3 +34,7 @@ https://felt.com/blog/svg-to-canvas-part-2-building-interactions
 > https://news.ycombinator.com/item?id=36217098
 
 https://scrawl-v8.rikweb.org.uk/demo/dom-018.html
+
+https://susam.net/fxyt.html
+> https://news.ycombinator.com/item?id=38719163
+> https://github.com/susam/fxyt

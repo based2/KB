@@ -21,6 +21,12 @@ https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redire
 https://vigilance.fr/vulnerabilite/mod-auth-openidc-redirection-via-Logout-Parameter-40178
 
 #
+https://fusionauth.io/articles/identity-basics/what-is-oidc
+> https://news.ycombinator.com/item?id=38729696
+
+https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/
+> https://news.ycombinator.com/item?id=38720544
+
 https://github.com/zitadel/oidc
 > https://news.ycombinator.com/item?id=38496264
 

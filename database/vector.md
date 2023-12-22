@@ -47,3 +47,5 @@ https://docs.paradedb.com/blog/introducing_sparse
 https://ashvardanian.com/posts/python-c-assembly-comparison/
 > https://news.ycombinator.com/item?id=38684461
 
+https://susam.net/blog/from-vector-spaces-to-periodic-functions.html
+

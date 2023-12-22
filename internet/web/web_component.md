@@ -58,3 +58,6 @@ https://jakelazaroff.com/words/web-components-eliminate-javascript-framework-loc
 > https://news.ycombinator.com/item?id=38434470
 
 https://daverupert.com/2023/07/why-not-webcomponents/
+
+https://blog.carlana.net/post/2023/web-component-alternative-futures/
+> https://news.ycombinator.com/item?id=38731355

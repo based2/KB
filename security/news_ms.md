@@ -1,6 +1,10 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.eye.security/blog/how-microsoft-might-have-lured-unsuspecting-end-users-into-the-hands-of-criminals
+
+https://www.akamai.com/blog/security-research/2023/dec/chaining-vulnerabilities-to-achieve-rce-part-one
+
 https://www.bleepingcomputer.com/news/security/microsoft-discovers-critical-rce-flaw-in-perforce-helix-core-server/
 
 https://www.bleepingcomputer.com/news/microsoft/decembers-windows-11-kb5033375-update-breaks-wi-fi-connectivity/

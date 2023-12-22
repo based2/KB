@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://webbtelescope.org/contents/news-releases/2023/news-2023-150
+> https://news.ycombinator.com/item?id=38695337
+
 https://phys.org/news/2023-12-nasa-life-sparking-energy-source-molecule.html
 > https://news.ycombinator.com/item?id=38661903
 

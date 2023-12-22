@@ -47,6 +47,12 @@ https://github.com/kamranahmedse/local-ses
 https://mailpit.axllent.org/
 
 # Incident
+https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/
+> https://news.ycombinator.com/item?id=38727987
+
+https://r.sec-consult.com/smtp
+> https://old.reddit.com/r/netsec/comments/18l574e/introducing_smtp_smuggling_a_novel_technique_for/
+
 https://www-heise-de.translate.goog/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de
 > https://news.ycombinator.com/item?id=38212453
 

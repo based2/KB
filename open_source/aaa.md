@@ -153,8 +153,13 @@ https://briarproject.org/
 https://blog.zulip.com/2023/05/31/zulip-7-0-released/
 > https://news.ycombinator.com/item?id=36141107
 
+# GroupWare
+https://www.sogo.nu/ go, gnustep
+> https://news.ycombinator.com/item?id=38707324
+> https://www.sogo.nu/support/faq/how-do-i-compile-sogo.html
+
 # Logs
-https://glogg.bonnefon.org/
+https://glogg.bonnefon.org/ big logs
 
 https://www.logswan.org/
 

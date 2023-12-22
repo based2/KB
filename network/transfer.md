@@ -93,4 +93,6 @@ https://landrop.app/
 https://powersync.com/
 > https://news.ycombinator.com/item?id=38473743
 
+https://susam.net/blog/file-transfer-with-ssh-tee-and-base64.html
+
 

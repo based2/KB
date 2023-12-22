@@ -148,6 +148,9 @@ https://news.ycombinator.com/item?id=38230476
 
 https://github.com/adbar/trafilatura
 
+https://www.marginalia.nu/log/94_warc_warc/
+> https://news.ycombinator.com/item?id=38729684
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 

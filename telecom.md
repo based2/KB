@@ -138,6 +138,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/
+> https://news.ycombinator.com/item?id=38698343
+
 https://arstechnica.com/tech-policy/2023/12/verizon-fell-for-fake-search-warrant-gave-victims-phone-data-to-stalker/
 > https://news.ycombinator.com/item?id=38576530
 
@@ -199,6 +202,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=38697195
+
 https://news.ycombinator.com/item?id=38650720
 
 https://news.ycombinator.com/item?id=38613552

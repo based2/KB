@@ -1,3 +1,8 @@
+https://www.bbc.co.uk/news/technology-67663128
+> https://news.ycombinator.com/item?id=38723309
+
+https://research.nccgroup.com/2023/12/19/retro-gaming-vulnerability-research-warcraft-2/
+
 https://news.ycombinator.com/item?id=38684034
 
 https://www.shadowstackre.com/analysis/rhysida

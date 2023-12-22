@@ -9,6 +9,9 @@ https://github.com/winkjs/wink-nlp
 > https://news.ycombinator.com/item?id=33734147
 
 # News
+https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms
+> https://news.ycombinator.com/item?id=38730070
+
 https://github.com/ThalesGroup/t-keir
 
 https://keras.io/keras_3/

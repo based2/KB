@@ -642,6 +642,17 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://www.builder.io/blog/structured-clone
+> https://news.ycombinator.com/item?id=38728435
+
+https://lukasatkinson.de/2015/mopping-it-up/
+
+https://news.ycombinator.com/item?id=38697650
+
+https://news.ycombinator.com/item?id=38697752 doc
+
+https://news.ycombinator.com/item?id=38701751
+
 https://github.com/lxsmnsyc/seroval stringify
 
 https://supabase.com/blog/edge-functions-node-npm

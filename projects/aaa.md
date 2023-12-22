@@ -164,6 +164,9 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://blog.dagworks.io/p/winning-hearts-and-minds-at-work Winning over hearts and minds work: ADKAR my favorite change management approach
+> https://news.ycombinator.com/item?id=38701043
+
 https://kitemaker.co/blog/more_product_fewer_pms
 > https://news.ycombinator.com/item?id=38652619
 
