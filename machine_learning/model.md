@@ -184,6 +184,12 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://github.com/apple/ml-ferret
+> https://news.ycombinator.com/item?id=38745348
+
+https://vgel.me/posts/faster-inference/
+> https://news.ycombinator.com/item?id=38733384
+
 https://news.ycombinator.com/item?id=38730143
 
 https://simonwillison.net/2023/Dec/18/mistral/

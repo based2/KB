@@ -20,6 +20,9 @@ https://www.brendangregg.com/blog/2021-09-26/the-speed-of-time.html
 https://changelog.com/posts/you-might-as-well-timestamp-it
 > https://news.ycombinator.com/item?id=26922759
 
+https://adam-p.ca/blog/2023/12/sort-by-timestamp/
+> https://news.ycombinator.com/item?id=38745637
+
 # Duration
 Building a command-line time tracker in shell script
 https://news.ycombinator.com/item?id=26545976

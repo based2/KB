@@ -95,6 +95,11 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann
+
+https://blog.mwmbl.org/articles/non-profit-search-engine/
+> https://news.ycombinator.com/item?id=38744224
+
 https://news.ycombinator.com/item?id=38470832
 
 https://docs.paradedb.com/blog/introducing_bm25

@@ -78,6 +78,9 @@ https://news.ycombinator.com/item?id=35979374
 https://razberry.substack.com/p/btree-factorio
 > https://news.ycombinator.com/item?id=38279459
 
+https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html
+> https://news.ycombinator.com/item?id=38748433
+
 # binary index trees (Fenwick trees)
 https://jornhub.dev/articles/fenwick-trees/
 > https://news.ycombinator.com/item?id=28354637

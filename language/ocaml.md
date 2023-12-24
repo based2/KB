@@ -22,6 +22,8 @@ https://aantron.github.io/dream/ Tidy Web framework for OCaml and ReasonML
 https://github.com/rgrinberg/opium
 
 # News
+https://gitlab.com/diskuv/samples/merrychristmas2023#ocaml-as-the-universal-translator-dksdk-merry-christmas-2023
+
 https://blog.janestreet.com/what-is-gained-and-lost-with-63-bit-integers/
 > https://news.ycombinator.com/item?id=37097973
 

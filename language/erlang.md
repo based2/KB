@@ -177,6 +177,9 @@ https://news.ycombinator.com/item?id=38175413
 https://engineering.ramp.com/elixir-at-ramp
 > https://news.ycombinator.com/item?id=38404835
 
+https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/
+> https://news.ycombinator.com/item?id=38747988
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

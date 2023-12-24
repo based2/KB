@@ -105,6 +105,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+http://networksciencebook.com/
+> https://news.ycombinator.com/item?id=38743683
+
 https://martinfowler.com/articles/2023-social-media.html
 > https://news.ycombinator.com/item?id=38116498
 

@@ -126,3 +126,6 @@ https://twitter.com/tianyin_xu/status/1671857283263868930
 
 https://odigos.io/blog/ebpf-instrumentation-faster-than-manual
 > https://news.ycombinator.com/item?id=38069659
+
+https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/
+> https://news.ycombinator.com/item?id=38720057

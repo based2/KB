@@ -274,6 +274,8 @@ https://news.ycombinator.com/item?id=38579170
 
 https://news.ycombinator.com/item?id=38615280
 
+https://news.ycombinator.com/item?id=38744785
+
 # History
 https://news.ycombinator.com/item?id=28343118
 
@@ -459,6 +461,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.suno.ai/
+> https://news.ycombinator.com/item?id=38743719
+
+https://arstechnica.com/apple/2023/12/apple-wants-ai-to-run-directly-on-its-hardware-instead-of-in-the-cloud/
+> https://news.ycombinator.com/item?id=38725167
+
 https://openreview.net/forum?id=idpCdOWtqXd60
 > https://news.ycombinator.com/item?id=38684925
 

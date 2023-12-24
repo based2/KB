@@ -284,53 +284,6 @@ https://github.com/apitable/apitable alt airtable
 # CI
 https://hypervector.io/
 
-# Data Lake
-https://timeflow.systems/what-is-the-data-lakehouse-pattern/
-> https://news.ycombinator.com/item?id=28531009
-
-https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison
-> https://news.ycombinator.com/item?id=34342190
-
-# Data Vault
-
-# Data Mesh
-https://www.datamesh-architecture.com/
-
-https://cnr.sh/essays/what-the-heck-data-mesh
-> https://news.ycombinator.com/item?id=27999348
-
-https://martinfowler.com/articles/data-monolith-to-mesh.html
-
-https://kyuubi.apache.org/ Serverless SQL on Lakehouse
-
-https://eventmesh.apache.org/
-
-https://www.datamesh-architecture.com/tech-stacks/aws-s3-athena
-
-https://aws.amazon.com/en/big-data/datalakes-and-analytics/modern-data-architecture/
-
-# Data Frame
-https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/
-> https://news.ycombinator.com/item?id=29417998
-
-https://www.pola.rs/
-> https://news.ycombinator.com/item?id=29584698
-
-https://www.analyticsvidhya.com/blog/2021/06/polars-the-fastest-dataframe-library-youve-never-heard-of/
-
-# Data Tests
-https://frictionlessdata.io/
-
-https://github.com/ExpediaGroup/quibble
-
-https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf
-
-https://www.micahlerner.com/2021/08/07/posh-a-data-aware-shell.html
-> https://news.ycombinator.com/item?id=28108347
-
-https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
-> https://news.ycombinator.com/item?id=28128360
-
 # Terminal
 https://jsvine.github.io/intro-to-visidata/index.html
 > https://news.ycombinator.com/item?id=28802777
@@ -355,6 +308,12 @@ https://news.ycombinator.com/item?id=38310502 bi
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://4dmodeller.github.io/fdmr/ 4d-Modeller – R library to make Bayesian spatiotemporal modeling easy
+> https://news.ycombinator.com/item?id=38742942
+
+https://statmodeling.stat.columbia.edu/2023/12/23/bayesians-moving-from-defense-to-offense-i-really-think-its-kind-of-irresponsible-now-not-to-use-the-information-from-all-those-thousands-of-medical-trials-that-came-before-is-that-very/
+> https://news.ycombinator.com/item?id=38744588
+
 https://andrewpwheeler.com/2023/11/19/forecasts-need-to-have-error-bars/
 > https://news.ycombinator.com/item?id=38519277
 

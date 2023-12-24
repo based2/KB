@@ -130,6 +130,8 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+https://oldvcr.blogspot.com/2023/12/when-power-macintosh-ran-netware.html
+
 https://news.ycombinator.com/item?id=38565629
 
 https://news.ycombinator.com/item?id=38203668

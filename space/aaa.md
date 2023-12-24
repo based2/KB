@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://latteluxurynews.com/2023/12/15/space-perspective-capsule-structure/
+> https://news.ycombinator.com/item?id=38746926
+
 https://webbtelescope.org/contents/news-releases/2023/news-2023-150
 > https://news.ycombinator.com/item?id=38695337
 

@@ -7,6 +7,9 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://arxiv.org/abs/2304.06835
+> https://news.ycombinator.com/item?id=38749057
+
 https://news.ycombinator.com/item?id=38646969
 
 https://news.ycombinator.com/item?id=38475635

@@ -73,6 +73,9 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://github.com/mathaou/termdbms
+> https://news.ycombinator.com/item?id=38744791
+
 https://jepsen.io/analyses/mysql-8.0.34
 > https://news.ycombinator.com/item?id=38695750
 

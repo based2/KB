@@ -42,6 +42,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://www.jeffquast.com/post/ucs-detect-test-results/
+> https://news.ycombinator.com/item?id=38707655
+
 https://github.com/wavetermdev/waveterm
 > https://news.ycombinator.com/item?id=38701899
 

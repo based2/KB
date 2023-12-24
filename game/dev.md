@@ -157,8 +157,11 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
-https://news.ycombinator.com/item?id=38706299
-> https://github.com/moddio/moddio2
+https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design
+> https://news.ycombinator.com/item?id=38719439
+
+https://github.com/moddio/moddio2
+> https://news.ycombinator.com/item?id=38706299
 
 https://news.ycombinator.com/item?id=38697000
 

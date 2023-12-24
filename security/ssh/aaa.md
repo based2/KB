@@ -154,6 +154,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://trofi.github.io/posts/295-ssh-over-https.html
+> https://news.ycombinator.com/item?id=38731402
+
 https://github.com/francoismichel/ssh3
 > https://news.ycombinator.com/item?id=38664729
 > https://lobste.rs/s/svptcn/ssh3_ssh_using_http_3_quic

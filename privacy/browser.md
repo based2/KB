@@ -26,6 +26,12 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://fsfe.org/news/2023/news-20231220-01.sl.html
+> https://news.ycombinator.com/item?id=38726389
+
+https://www.eff.org/deeplinks/2023/09/how-turn-googles-privacy-sandbox-ad-tracking-and-why-you-should
+> https://news.ycombinator.com/item?id=38728278
+
 https://www.bleepingcomputer.com/news/google/google-shares-plans-for-blocking-third-party-cookies-in-chrome/
 
 https://news.ycombinator.com/item?id=38241237

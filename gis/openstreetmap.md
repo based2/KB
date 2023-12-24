@@ -38,6 +38,9 @@ https://github.com/headwaymaps/headway Self-hostable maps stack, powered by Open
 > https://news.ycombinator.com/item?id=32875795
 
 #
+https://organicmaps.app/
+> https://news.ycombinator.com/item?id=38746187
+
 https://sandstorm.org/news/2023-12-05-osm-on-sandstorm
 > https://news.ycombinator.com/item?id=38532914
 

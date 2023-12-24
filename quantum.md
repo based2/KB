@@ -94,6 +94,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://spectrum.ieee.org/quantum-computing-skeptics
+> https://news.ycombinator.com/item?id=38745970
+
 https://news.ycombinator.com/item?id=38697309
 
 https://news.ycombinator.com/item?id=38653771

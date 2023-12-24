@@ -25,6 +25,9 @@ https://linuxfr.org/news/reaction-remplacant-de-fail2ban go
 https://github.com/acriba/heimdall rust
 
 #
+https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/
+> https://news.ycombinator.com/item?id=38732770
+
 https://research.checkpoint.com/2023/rhadamanthys-v0-5-0-a-deep-dive-into-the-stealers-components/
 
 https://www.bleepingcomputer.com/news/security/stealthy-kv-botnet-hijacks-soho-routers-and-vpn-devices/

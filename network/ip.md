@@ -103,6 +103,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News
+https://github.com/peterheinrich/InternetOverSpaghetti
+> https://news.ycombinator.com/item?id=38733004
+
 https://diziet.dreamwidth.org/12934.html
 > https://news.ycombinator.com/item?id=33745580
 

@@ -2,6 +2,14 @@ https://www.simutrans.com/en/
 > https://news.ycombinator.com/item?id=30278595
 
 #
+https://news.ycombinator.com/item?id=38746664
+
+https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/
+> https://news.ycombinator.com/item?id=38747747
+
+https://www.bloomberg.com/news/articles/2023-12-21/hyperloop-one-to-shut-down-after-raising-millions-to-reinvent-transit
+> https://news.ycombinator.com/item?id=38725442
+
 https://selmec.org.uk/articles/112-leonardo-da-vinci-s-self-powered-cart
 > https://news.ycombinator.com/item?id=38729707
 

@@ -54,6 +54,9 @@ https://github.com/openworm/OpenWorm  the first comprehensive computational Caen
 # ML
 https://news.ycombinator.com/item?id=38725930
 
+https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/
+> https://news.ycombinator.com/item?id=38731743
+
 # News
 https://www.scotthyoung.com/blog/2022/02/15/act-r/
 > https://news.ycombinator.com/item?id=38663960

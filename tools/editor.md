@@ -354,6 +354,13 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+http://www.nicemice.net/par/ Paragraph reformatter, vaguely similar to fmt, but better
+> https://news.ycombinator.com/item?id=38748120
+
+https://heynote.com/ Dedicated scratchpad for developers
+> https://github.com/heyman/heynote/
+> https://news.ycombinator.com/item?id=38733968
+
 https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/rethinking-undo/
 > https://news.ycombinator.com/item?id=38601435
 

@@ -18,6 +18,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.solariskit.com/
+> https://news.ycombinator.com/item?id=38747892
+
 https://www.pv-magazine.com/2023/11/17/watch-robots-install-solar-project-in-arizona-desert/
 
 https://asia.nikkei.com/Business/Energy/Indonesia-launches-Southeast-Asia-s-largest-floating-solar-plant
