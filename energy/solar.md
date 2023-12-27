@@ -18,6 +18,8 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://www.bloomberg.com/news/articles/2023-12-21/california-s-push-for-rooftop-solar-power-goes-dark
+
 https://www.solariskit.com/
 > https://news.ycombinator.com/item?id=38747892
 

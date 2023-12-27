@@ -184,6 +184,11 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+http://bactra.org/notebooks/nn-attention-and-transformers.html
+> https://news.ycombinator.com/item?id=38756888
+
+https://github.com/charstorm/llmbinge
+
 https://github.com/apple/ml-ferret
 > https://news.ycombinator.com/item?id=38745348
 

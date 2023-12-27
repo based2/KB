@@ -157,6 +157,15 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/
+> https://news.ycombinator.com/item?id=38760120
+
+https://www.filfre.net/2023/12/putting-the-j-in-the-rpg-part-2-playstation-for-the-win/
+> https://news.ycombinator.com/item?id=38775696
+
+https://www.theregister.com/2023/03/23/croquet_for_unity/
+> https://news.ycombinator.com/item?id=38769416
+
 https://www.newyorker.com/culture/annals-of-inquiry/the-personal-political-art-of-board-game-design
 > https://news.ycombinator.com/item?id=38719439
 

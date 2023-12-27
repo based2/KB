@@ -40,6 +40,13 @@ https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
 
 #
+https://hackaday.com/2023/12/21/teardown-of-fgm-148-javelin-missiles-guidance-computer/
+
+https://www.devever.net/~hl/ortega broadcom NIC
+> https://news.ycombinator.com/item?id=38772862
+
+https://www.thingsmadesimple.com/2022/11/28/ym3812-part-1-register-basics/
+
 https://www.righto.com/2023/12/386-xor-circuits.html
 
 https://news.ycombinator.com/item?id=38598940

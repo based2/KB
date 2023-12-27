@@ -46,6 +46,8 @@ https://histre.com/hn/ tags
 
 https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how
 
+https://news.ycombinator.com/item?id=38773957
+
 # Slashdot
 # Reddit
 

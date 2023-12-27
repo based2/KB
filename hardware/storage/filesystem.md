@@ -31,6 +31,8 @@ https://jro.io/truenas/openzfs/#draid
 
 https://news.ycombinator.com/item?id=38553008
 
+https://news.ycombinator.com/item?id=38770168
+
 https://www.phoronix.com/news/OpenZFS-RAIDZ-Expansion
 > https://news.ycombinator.com/item?id=38207005
 
@@ -72,11 +74,15 @@ https://github.com/maharmstone/btrfs
 # Incident
 https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1424461-openzfs-is-still-battling-a-data-corruption-issue?p=1424496#post1424496
 > https://news.ycombinator.com/item?id=38472124
+> > https://threedots.ovh/blog/2022/06/quick-look-at-user-mode-file-systems-on-macos-ventura/
 
 https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://github.com/macos-fuse-t/fuse-t kext-less implementation of FUSE for macOS that uses NFSv4
+> https://news.ycombinator.com/item?id=38775579
+
 https://github.com/littlefs-project/littlefs
 > https://news.ycombinator.com/item?id=38596335
 

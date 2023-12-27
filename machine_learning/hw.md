@@ -7,6 +7,12 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://www.amd.com/en/products/accelerators/instinct/mi300/mi300x.html
+> https://news.ycombinator.com/item?id=38760072
+
+https://vram.asmirnov.xyz/
+> https://news.ycombinator.com/item?id=38774026
+
 https://arxiv.org/abs/2304.06835
 > https://news.ycombinator.com/item?id=38749057
 

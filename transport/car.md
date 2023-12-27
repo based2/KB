@@ -18,6 +18,8 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://www.thedrive.com/news/russia-has-a-new-ev-prototype-and-yes-it-really-looks-like-this
+
 https://news.ycombinator.com/item?id=38472229
 
 https://news.ycombinator.com/item?id=38468123

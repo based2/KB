@@ -274,6 +274,9 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://baecher.dev/stdout/reproducible-git-bundles/
+> https://news.ycombinator.com/item?id=38764452
+
 https://news.ycombinator.com/item?id=38590080
 
 https://jvns.ca/blog/2023/12/04/mounting-git-commits-as-folders-with-nfs/

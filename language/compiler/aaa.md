@@ -30,6 +30,9 @@ https://gcc.gnu.org/wiki/DontUseInlineAsm
 https://en.wikipedia.org/wiki/SIMD
 
 #
+https://compilers.iecc.com/crenshaw/
+> https://news.ycombinator.com/item?id=38773049
+
 http://www.lighterra.com/papers/modernmicroprocessors/
 
 https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5

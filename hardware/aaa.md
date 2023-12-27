@@ -111,6 +111,16 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=38780519
+
+https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs
+> https://news.ycombinator.com/item?id=38773775
+
+https://tomverbeure.github.io/2023/12/26/Controlling-an-HP-1670G-with-Your-Linux-PC-X-Server.html
+
+https://www.theregister.com/2023/12/26/thermal_management_is_changing/
+> https://news.ycombinator.com/item?id=38772980
+
 https://chipsandcheese.com/2023/12/17/amds-cdna-3-compute-architecture/
 > https://news.ycombinator.com/item?id=38675258
 

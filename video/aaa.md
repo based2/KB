@@ -118,6 +118,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://news.ycombinator.com/item?id=38771444 Tools and Apps for Technical Theater
+
 https://github.com/TeamNewPipe/NewPipe/releases/tag/v0.26.0
 > https://news.ycombinator.com/item?id=38732781
 

@@ -66,6 +66,9 @@ CVE-2023-28771 CVE-2023-33009 CVE-2023-33010 Zyxel
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://ahelwer.ca/post/2018-02-13-z3-firewall/
+> https://github.com/Z3Prover/FirewallChecker
+
 https://www.macchaffee.com/blog/2023/wafs/
 > https://news.ycombinator.com/item?id=38255004
 

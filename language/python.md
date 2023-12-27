@@ -288,6 +288,9 @@ https://bluebanquise.com/
 https://github.com/facebookincubator/cinder
 > https://news.ycombinator.com/item?id=27043217
 
+https://github.com/python/cpython/pull/113465
+> https://news.ycombinator.com/item?id=38769874
+
 https://twitter.com/ethanhs/status/1464308141105967104 webassembly
 > https://news.ycombinator.com/item?id=29376105
 
@@ -341,6 +344,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://realpython.com/bpython-alternative-python-repl/
+> https://news.ycombinator.com/item?id=38776404
+
 https://medium.com/@hbakri/introducing-django-ninja-crud-ee937bd2ea65
 > https://news.ycombinator.com/item?id=38634562
 

@@ -87,3 +87,6 @@ https://alexplescan.com/posts/2023/07/08/easy-svg-sparklines/
 
 https://svg-tutorial.com/
 > https://news.ycombinator.com/item?id=38556116
+
+https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/
+> https://news.ycombinator.com/item?id=38752693

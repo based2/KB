@@ -33,6 +33,12 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://www.retro-exo.com/exodos.html
+> https://news.ycombinator.com/item?id=38777675
+
+https://generals.io/
+> https://news.ycombinator.com/item?id=38752385
+
 https://figgie.com/how-to-play
 > https://news.ycombinator.com/item?id=38679078
 

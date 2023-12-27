@@ -354,6 +354,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html
+> https://news.ycombinator.com/item?id=38772754
+
 http://www.nicemice.net/par/ Paragraph reformatter, vaguely similar to fmt, but better
 > https://news.ycombinator.com/item?id=38748120
 

@@ -151,6 +151,8 @@ https://github.com/adbar/trafilatura
 https://www.marginalia.nu/log/94_warc_warc/
 > https://news.ycombinator.com/item?id=38729684
 
+https://news.ycombinator.com/item?id=38774792 rss xpath
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 
@@ -167,6 +169,8 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://news.ycombinator.com/item?id=38779443 CGI
+
 https://defector.com/the-last-page-of-the-internet
 
 https://www.thebignewsletter.com/p/the-first-big-antitrust-trial-of

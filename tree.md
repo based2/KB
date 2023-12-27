@@ -116,6 +116,9 @@ https://eukaryotewritesblog.com/2021/05/02/theres-no-such-thing-as-a-tree/
 https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lidar-mapping
 > https://news.ycombinator.com/item?id=38494529
 
+https://en.wikipedia.org/wiki/Crown_shyness
+> https://news.ycombinator.com/item?id=38749170
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 

@@ -95,6 +95,9 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://www.openmymind.net/Your-Website-Search-Hurts-My-Feelings/
+> https://news.ycombinator.com/item?id=38771513
+
 https://blog.kerollmops.com/meilisearch-expands-search-power-with-arroy-s-filtered-disk-ann
 
 https://blog.mwmbl.org/articles/non-profit-search-engine/

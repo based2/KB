@@ -6,6 +6,9 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://text.causal.agency/001-make.txt
+> https://news.ycombinator.com/item?id=38774165
+
 https://engineering.fb.com/2023/10/23/developer-tools/5-things-you-didnt-know-about-buck2/
 
 https://www.kurtosis.com/

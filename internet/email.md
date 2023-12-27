@@ -72,6 +72,9 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # Spam
+http://unmitigatedrisk.com/?p=752
+> https://lobste.rs/s/8vsebl/effortless_certificate_lifecycle
+
 https://blog.thunderbird.net/2023/02/the-future-of-thunderbird-why-were-rebuilding-from-the-ground-up/
 > https://news.ycombinator.com/item?id=34724585
 
@@ -217,6 +220,9 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://www.djcbsoftware.nl/code/mu/
+> https://news.ycombinator.com/item?id=38768434
+
 https://www.theverge.com/2023/12/14/24000696/proton-mail-desktop-app-mac-windows-encrypted
 > https://news.ycombinator.com/item?id=38641048
 

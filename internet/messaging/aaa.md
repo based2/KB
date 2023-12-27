@@ -15,18 +15,23 @@ https://github.com/antirez/botlib telegram
 # Incident
 https://news.ycombinator.com/item?id=32853107
 
+## interop
+https://news.ycombinator.com/item?id=38778007
+
+https://blog.beeper.com/p/beeper-moving-forward
+> https://news.ycombinator.com/item?id=38722246
+
+https://blog.beeper.com/p/beeper-mini-is-back
+> https://news.ycombinator.com/item?id=38602575
+
 # History
 https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline
 > https://news.ycombinator.com/item?id=27587911
 
 # News
-https://blog.beeper.com/p/beeper-moving-forward
-> https://news.ycombinator.com/item?id=38722246
+https://news.ycombinator.com/item?id=38751750
 
 https://mk16.de/blog/comparison-of-self-meshing-vpns/
-
-https://blog.beeper.com/p/beeper-mini-is-back
-> https://news.ycombinator.com/item?id=38602575
 
 https://www.euronews.com/next/2023/11/30/frances-government-ministers-to-ditch-using-whatsapp-for-french-app-olvid-over-security-fe
 > https://news.ycombinator.com/item?id=38481403 AGPL only client, AWS

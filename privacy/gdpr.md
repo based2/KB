@@ -68,6 +68,9 @@ https://www.pixeldetracking.com/fr/comment-les-editeurs-se-moquent-de-la-cnil
 6. For your question, you could ask “can you send me an email confirmation when my personal data has been erased?”
 
 # Users
+https://github.com/mrishab/google-photos-delete-tool
+> https://news.ycombinator.com/item?id=38778769
+
 https://privacybot.io/
 > https://news.ycombinator.com/item?id=27146828
   > https://github.com/privacybot-berkeley/privacybot

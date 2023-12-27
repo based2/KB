@@ -46,6 +46,9 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://onlinelibrary.wiley.com/doi/10.1002/bies.201200143
+> https://news.ycombinator.com/item?id=38774547
+
 https://www.nature.com/articles/s41467-023-37752-x
 > https://news.ycombinator.com/item?id=38672133
 
@@ -235,4 +238,7 @@ https://news.ycombinator.com/item?id=29695013 Sequencing your DNA with a USB don
 
 https://www.science.org/doi/10.1126/science.abn5795 Proteins, proteins everywhere 2021
 > https://news.ycombinator.com/item?id=29682062
+
+https://news.rice.edu/news/2023/molecular-jackhammers-good-vibrations-eradicate-cancer-cells
+> https://news.ycombinator.com/item?id=38779667
 

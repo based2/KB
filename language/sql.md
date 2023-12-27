@@ -38,6 +38,9 @@ https://dbgate.org/ Open-source, cross-platform SQL+noSQL database client - Type
 > https://news.ycombinator.com/item?id=26899100
 
 #
+https://greptime.com/blogs/2023-12-26-range-query
+> https://news.ycombinator.com/item?id=38778548
+
 https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146
 > https://news.ycombinator.com/item?id=26822884
 https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html

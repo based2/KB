@@ -120,6 +120,11 @@ https://news.ycombinator.com/item?id=35422570
 https://github.com/m-ender/hexagony
 > https://news.ycombinator.com/item?id=35581768
 
+# Grid
+https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid
+> https://news.ycombinator.com/item?id=38778550
+
+
 # Hackathon
 https://www.juricho.me/posts/online-hackathon/
 

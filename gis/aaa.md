@@ -237,6 +237,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://secondcityzoning.org/
+> https://news.ycombinator.com/item?id=38777460
+
 https://www.crunchydata.com/community/events/postgis-day-2023
 
 https://element84.com/geospatial-tech-radar-23/#

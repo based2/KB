@@ -125,6 +125,9 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # Incident
+https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html
+> https://old.reddit.com/r/netsec/comments/18odl8g/ssh_proxycommand_unexpected_code_execution/
+
 https://terrapin-attack.com/
 > https://news.ycombinator.com/item?id=38684904
 > > https://terrapin-attack.com/patches.html https://www.openssh.com/txt/release-9.6

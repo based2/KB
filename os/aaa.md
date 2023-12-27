@@ -25,6 +25,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://wiki.osdev.org/Expanded_Main_Page
+> https://news.ycombinator.com/item?id=38773104
+
 https://news.ycombinator.com/item?id=38195053
 
 https://remexre.com/stahl/dream
