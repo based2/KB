@@ -132,6 +132,9 @@ https://github.com/SirVer/ultisnips
 https://pit-ray.github.io/win-vind/
 > https://news.ycombinator.com/item?id=38236684
 
+https://github.com/csdvrx/CuteVim
+> https://news.ycombinator.com/item?id=38766990
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341

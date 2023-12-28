@@ -344,6 +344,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://cloudevents.io/
+> https://news.ycombinator.com/item?id=38785386
+
 https://www.theregister.com/2023/12/14/linkedin_abandons_migration_to_microsoft/
 > https://news.ycombinator.com/item?id=38656038
 

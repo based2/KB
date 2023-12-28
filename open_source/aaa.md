@@ -257,6 +257,12 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://www.theregister.com/2023/12/27/bruce_perens_post_open/
+> https://news.ycombinator.com/item?id=38783500
+
+https://lucumr.pocoo.org/2023/12/25/life-and-death-of-open-source/
+> https://news.ycombinator.com/item?id=38768997
+
 https://librearts.org/2023/11/gimp-3-0-roadmap/
 > https://news.ycombinator.com/item?id=38401613
 

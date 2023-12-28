@@ -132,6 +132,9 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://pdx.su/blog/2023-10-25-css-is-fun-again/
+> https://news.ycombinator.com/item?id=38780091
+
 https://dev.to/grahamthedev/bubble-sortin-pure-css-no-js-3bb1
 > https://news.ycombinator.com/item?id=38145625
 

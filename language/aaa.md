@@ -356,6 +356,12 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://docs.julialang.org/en/v1/NEWS/
+> https://news.ycombinator.com/item?id=38783886
+
+https://squeak.js.org/scratch/#fullscreen
+> https://news.ycombinator.com/item?id=38782421
+
 https://lobste.rs/s/zzuirh/curiously_recurring_lifetime_issue
 
 https://news.ycombinator.com/item?id=38647103

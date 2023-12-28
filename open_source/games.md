@@ -75,6 +75,8 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://news.ycombinator.com/item?id=38784817
+
 https://news.ycombinator.com/item?id=38778313
 
 https://ahelwer.ca/post/2023-04-29-sunshine-moonlight/

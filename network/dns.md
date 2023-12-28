@@ -63,6 +63,9 @@ https://cyounkins.medium.com/encrypted-dns-ntp-deadlock-9e378940b79f
 > https://news.ycombinator.com/item?id=34177331
 
 # Security
+https://www.akamai.com/blog/security-research/weaponizing-dhcp-dns-spoofing-hands-on-guide
+> https://lobste.rs/s/9lc79n/weaponizing_dhcp_dns_spoofing_hands_on
+
 https://research.nccgroup.com/2023/04/27/state-of-dns-rebinding-in-2023/
 
 https://github.com/C3n7ral051nt4g3ncy/WebOSINT

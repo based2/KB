@@ -125,6 +125,8 @@ https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
 # Incident
+https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186
+
 https://vin01.github.io/piptagole/ssh/security/openssh/libssh/remote-code-execution/2023/12/20/openssh-proxycommand-libssh-rce.html
 > https://old.reddit.com/r/netsec/comments/18odl8g/ssh_proxycommand_unexpected_code_execution/
 

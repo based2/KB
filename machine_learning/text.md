@@ -60,7 +60,12 @@ http://huggingface.co/chat?model=mistralai/Mixtral-8x7B-Instruct-v0.1
 https://labs.perplexity.ai/
 > https://news.ycombinator.com/item?id=38698782
 
+https://minimaxir.com/2023/12/chatgpt-structured-data/
+> https://news.ycombinator.com/item?id=38782678
+
 # News
+https://news.ycombinator.com/item?id=38777485
+
 https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054
 > https://news.ycombinator.com/item?id=38673854
 

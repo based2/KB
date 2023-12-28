@@ -33,6 +33,6 @@ https://news.ycombinator.com/item?id=33585201
 
 https://www.circl.lu/pub/tr-567d30/ TR-567d30 - CIRCL Unveils Festive Nostalgic Initiatives - Gopher Protocol and Bulletin Board System Revival
 
-
+https://news.ycombinator.com/item?id=38785317
 
 

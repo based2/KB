@@ -35,5 +35,8 @@ https://themer.dev/blog/the-single-most-important-factor-that-differentiates-fro
 
 https://news.ycombinator.com/item?id=37974743
 
+https://wattenberger.com/thoughts/evolving-the-infinite-canvas
+> https://news.ycombinator.com/item?id=38773991
+
 
 

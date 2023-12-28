@@ -8,6 +8,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://t3n.de/news/tesla-autopilot-hack-geheimer-elon-modus-1598800/
+> https://news.ycombinator.com/item?id=38781535
+
 https://blogs.vmware.com/security/2023/11/cve-2023-23583.html rex intel
 
 https://bughunters.google.com/blog/6084781186613248/the-tale-of-google-s-response-to-reptar-cpu-vulnerability
@@ -239,6 +242,8 @@ https://www.notebookcheck.net/Lenovo-laptops-silently-stripped-of-important-feat
 https://raw.githubusercontent.com/chip-red-pill/udbgInstr/main/paper/undocumented_x86_insts_for_uarch_control.pdf
 > https://news.ycombinator.com/item?id=27764806
 > https://news.ycombinator.com/item?id=30231611
+
+https://arxiv.org/abs/2108.04575 2021-08 One Glitch to Rule Them All: Fault Injection Attacks Against AMD's Secure Encrypted Virtualization
 
 https://secret.club/2021/06/28/windows11-tpms.html
 > https://www.reddit.com/r/netsec/comments/ocum28/windows_11_tpms_and_digital_sovereignty/

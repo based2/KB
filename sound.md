@@ -39,6 +39,9 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 # News
+https://danmackinlay.name/notebook/audio_routers.html
+> https://news.ycombinator.com/item?id=38717878
+
 https://0110.be/posts/Clap_detection_-_Trigger_your_anything
 
 https://somafm.com/

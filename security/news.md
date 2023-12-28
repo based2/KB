@@ -1,6 +1,9 @@
 https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html
 > https://news.ycombinator.com/item?id=38776782
 
+https://streaming.media.ccc.de/37c3
+> https://news.ycombinator.com/item?id=38780601
+
 https://securityaffairs.com/156090/cyber-crime/westpole-ransomware-attack.html
 
 https://techcrunch.com/2023/12/18/new-sec-data-breach-disclosure-rules/

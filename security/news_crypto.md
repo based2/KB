@@ -1,3 +1,5 @@
+https://www.mozilla.org/en-US/security/advisories/mfsa2021-51/
+
 https://people.redhat.com/~hkario/marvin/
 > https://news.ycombinator.com/item?id=38692477
 

@@ -344,6 +344,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit
+> https://news.ycombinator.com/item?id=38784797
+
 https://realpython.com/bpython-alternative-python-repl/
 > https://news.ycombinator.com/item?id=38776404
 

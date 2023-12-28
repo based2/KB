@@ -15,12 +15,18 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 #
+https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/
+> https://news.ycombinator.com/item?id=38786581
+
 https://darkcoding.net/misc/openttd-trains-and-signals-for-beginners-a-tutorial/
 
 https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-ohio-train-crash
 > https://news.ycombinator.com/item?id=35013030
 
 # I
+https://streaming.media.ccc.de/37c3/relive/12142
+> https://news.ycombinator.com/item?id=38788360
+
 https://social.hackerspace.pl/@q3k/111528162462505087
 > https://news.ycombinator.com/item?id=38530885
 

@@ -184,6 +184,9 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://www.baseten.co/blog/faster-mixtral-inference-with-tensorrt-llm-and-quantization/
+> https://news.ycombinator.com/item?id=38786797
+
 http://bactra.org/notebooks/nn-attention-and-transformers.html
 > https://news.ycombinator.com/item?id=38756888
 

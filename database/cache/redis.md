@@ -39,3 +39,6 @@ https://docs.keydb.dev/
 
 https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis
 > https://news.ycombinator.com/item?id=36920630
+
+https://github.com/mozilla/sccache
+> https://news.ycombinator.com/item?id=38732717

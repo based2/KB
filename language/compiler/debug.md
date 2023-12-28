@@ -13,6 +13,9 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://medium.com/pinterest-engineering/lessons-from-debugging-a-tricky-direct-memory-leak-f638c722d9f2
+> https://news.ycombinator.com/item?id=38778072
+
 https://news.ycombinator.com/item?id=38653017
 > https://rr-project.org/
 

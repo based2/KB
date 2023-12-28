@@ -32,9 +32,9 @@ https://blog.goldfiglabs.com/2021/04/07/cloud-infrastructure-linting.html
 
 http://muratbuffalo.blogspot.com/2016/02/holistic-configuration-management-at.html
 
-ianceicys 3 hours ago [–]
-
-DevOps isn't about doing the jobs of two persons (software engineer + infra engineer) it's about automating away 1 and being WAY more efficient.
+HN ianceicys:
+DevOps isn't about doing the jobs of two persons (software engineer + infra engineer)
+it's about automating away 1 and being WAY more efficient.
 
 Take a look at how GitHub does DevOps: Make your team’s deploys as boring as hell and stop stressing about it: https://zachholman.com/posts/deploying-software
 
@@ -46,7 +46,8 @@ Take a look at how Microsoft does DevOps: https://www.youtube.com/watch?v=X4uziB
 
 Engineering has to build that REPEATABLE DevOps automation @ scale.
 
-The informed definition of DevOps is = "DevOps is the union of people, process, and products to enable continuous delivery of value to your end users." From Microsoft's Donovan Brown - https://www.youtube.com/watch?v=WW6x0jIPpr0
+The informed definition of DevOps is =
+"DevOps is the union of people, process, and products to enable continuous delivery of value to your end users." From Microsoft's Donovan Brown - https://www.youtube.com/watch?v=WW6x0jIPpr0
 
 https://github.com/jghoman/awesome-apache-airflow
 https://eatcodeplay.com/upgrading-to-airflow-2-0-massive-performance-wins-and-lessons-learned-8c6a15cec8e7
@@ -99,41 +100,6 @@ https://github.com/ptaoussanis/encore/blob/master/BREAK-VERSIONING.md
 
 https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation.md
 > https://news.ycombinator.com/item?id=35008074
-
-# CI
-
-https://www.jenkins.io/
-> https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/
-> https://itnext.io/git-notes-your-ci-process-46b2fd5ac52
-> https://axelfontaine.com/blog/final-nail.html
-> https://www.jenkins.io/changelog-stable/
-
-https://tekton.dev/
-
-https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/
-> https://news.ycombinator.com/item?id=26727790
-
-https://guix.gnu.org/en/cuirass/
-
-https://neverworkintheory.org/2021/10/18/bad-practices-in-continuous-integration.html
-
-https://news.ycombinator.com/item?id=33131480 Show HN: Garnix, fast and easy CI for Nix
-
-# CD
-
-k8s: ArgoCD
-
-https://pet2cattle.com/2023/02/argocd-pull-request-applicationsets
-
-https://colinwilson.uk/2022/08/22/secrets-management-with-external-secrets-argo-cd-and-gitops/
-
-https://colinwilson.uk/2022/03/27/secret-management-with-gitops-and-argo-cd-vault-plugin/
-
-https://news.ycombinator.com/item?id=26872904
-
-https://github.com/lesfurets/git-octopus
-
-https://github.com/ovotech/gitoops/blob/main/docs/blog.md
 
 # History
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment

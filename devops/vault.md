@@ -1,3 +1,5 @@
+security/vault.md
+
 https://vaultproject.io/intro/index.html
 
 https://en.wikipedia.org/wiki/Bitwarden
@@ -14,4 +16,4 @@ https://github.com/pinterest/knox
 
 https://www.doppler.com/
 
-http://korben.info/vault-un-outil-pour-les-developpeurs-qui-permet-de-securiser-les-secrets-des-applications-web.html
+https://korben.info/vault-un-outil-pour-les-developpeurs-qui-permet-de-securiser-les-secrets-des-applications-web.html

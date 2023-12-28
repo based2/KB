@@ -98,6 +98,9 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://valetudo.cloud/pages/general/why-valetudo.html
+> https://news.ycombinator.com/item?id=38788326
+
 https://news.ycombinator.com/item?id=38445020
 
 https://ethz.ch/en/news-and-events/eth-news/news/2023/11/autonomous-excavator-constructs-a-six-metre-high-dry-stone-wall.html

@@ -111,6 +111,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://github.com/hrvach/deskhop
+> https://news.ycombinator.com/item?id=38780519
+
 https://news.ycombinator.com/item?id=38780519
 
 https://www.tomshardware.com/pc-components/power-supplies/the-12vo-power-standard-appears-to-be-gaining-steam-new-standard-will-reduce-pc-cabling-and-costs

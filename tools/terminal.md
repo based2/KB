@@ -42,6 +42,8 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://linuxfr.org/news/comparaison-critique-de-systemes-d-invite-de-commande
+
 https://github.com/linhx/tbmk bookmarks
 > https://news.ycombinator.com/item?id=38770465
 

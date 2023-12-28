@@ -157,6 +157,11 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://problemkaputt.de/psx-spx.htm
+
+https://game-icons.net/
+> https://news.ycombinator.com/item?id=38788552
+
 https://www.jeremyong.com/c++/2023/12/24/cpp20-gamedev-naughty-nice/
 > https://news.ycombinator.com/item?id=38760120
 

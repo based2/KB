@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.perfectcircuit.com/signal/what-is-fm-synthesis
+> https://news.ycombinator.com/item?id=38755388
+
 https://www.wired.com/story/cicadas-are-so-loud-fiber-optic-cables-can-hear-them/
 > https://news.ycombinator.com/item?id=38500065
 

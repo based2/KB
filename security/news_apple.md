@@ -4,6 +4,15 @@ https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-
 > https://news.ycombinator.com/item?id=35581375
 
 #
+https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities
+> https://news.ycombinator.com/item?id=38788273
+
+https://securelist.com/operation-triangulation-the-last-hardware-mystery/111669/
+> https://news.ycombinator.com/item?id=38783112
+
+https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/
+> https://news.ycombinator.com/item?id=38784073
+
 https://news.ycombinator.com/item?id=38648725
 
 https://news.ycombinator.com/item?id=38656607
