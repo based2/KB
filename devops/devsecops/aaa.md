@@ -62,6 +62,10 @@ https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 https://news.ycombinator.com/item?id=38471475
 
 #
+https://www.debian.org/vote/2023/vote_002
+> https://lwn.net/Articles/956187/
+> > https://news.ycombinator.com/item?id=38787005
+
 https://medium.com/@theowni/vulnerability-management-with-defectdojo-is-it-great-for-devsecops-3da455d2852b
 
 https://github.com/ThalesGroup/besec

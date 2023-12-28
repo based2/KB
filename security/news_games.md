@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/ubisoft-says-its-investigating-reports-of-a-new-security-breach/
+
 https://www.bbc.co.uk/news/technology-67663128
 > https://news.ycombinator.com/item?id=38723309
 

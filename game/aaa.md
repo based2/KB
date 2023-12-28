@@ -33,6 +33,15 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://news.ycombinator.com/item?id=38791839
+> https://cyclops.sh/
+
+http://www.liero.be/
+> https://news.ycombinator.com/item?id=38796870
+
+https://loderunnerwebgame.com/game/
+> https://news.ycombinator.com/item?id=38792753
+
 https://pretendo.network/blog/12-23-23
 > https://news.ycombinator.com/item?id=38766570
 

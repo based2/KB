@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=38791870
+
+https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops
+> https://news.ycombinator.com/item?id=38791575
+
 https://fahrplan.events.ccc.de/congress/2023/fahrplan/timeline.html
 > https://news.ycombinator.com/item?id=38776782
 

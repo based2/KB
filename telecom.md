@@ -107,6 +107,8 @@ https://en.wikipedia.org/wiki/Project_Sanguine
 https://www.electrospaces.net/2022/03/the-phones-of-ukrainian-president.html
 > https://news.ycombinator.com/item?id=30840029
 
+https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-010.pdf
+
 # RADIO SDR
 https://github.com/cariboulabs/cariboulite
 > https://news.ycombinator.com/item?id=27539834

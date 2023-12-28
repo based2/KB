@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://www.bleepingcomputer.com/news/security/fake-vpn-chrome-extensions-force-installed-15-million-times/
+
 https://maldbg.com/packed-android-proxy-framework Bright Data, hola
 
 https://www.theregister.com/2023/08/10/tunnelcrack_vpn/?td=rt-4a

@@ -18,6 +18,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://solar.lowtechmagazine.com/2023/12/how-to-build-a-small-solar-power-system/
+> https://news.ycombinator.com/item?id=38787129
+
 https://www.bloomberg.com/news/articles/2023-12-21/california-s-push-for-rooftop-solar-power-goes-dark
 
 https://www.solariskit.com/

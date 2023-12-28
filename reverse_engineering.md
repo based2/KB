@@ -40,6 +40,8 @@ https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
 
 #
+https://wrongbaud.github.io/posts/hightec-tricore-linux-ghidra/
+
 https://hackaday.com/2023/12/21/teardown-of-fgm-148-javelin-missiles-guidance-computer/
 
 https://www.devever.net/~hl/ortega broadcom NIC

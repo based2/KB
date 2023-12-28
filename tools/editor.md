@@ -345,6 +345,8 @@ https://codelite.org/
 > https://news.ycombinator.com/item?id=37106296
 
 ##
+https://blogsystem5.substack.com/p/the-ides-we-had-30-years-ago-and
+
 https://blogs.apache.org/netbeans/entry/announce-apache-netbeans-14-released
 > https://news.ycombinator.com/item?id=32835722
 
@@ -357,6 +359,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://blog.sanctum.geek.nz/series/unix-as-ide/
+> https://news.ycombinator.com/item?id=38789528
+
 https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html
 > https://news.ycombinator.com/item?id=38772754
 

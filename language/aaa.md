@@ -356,6 +356,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/uw-pluverse/perses
+> https://news.ycombinator.com/item?id=38777946
+
 https://docs.julialang.org/en/v1/NEWS/
 > https://news.ycombinator.com/item?id=38783886
 

@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html
+> https://news.ycombinator.com/item?id=38779746
+
 https://github.com/Frooodle/Stirling-PDF
 > https://news.ycombinator.com/item?id=38765627
 

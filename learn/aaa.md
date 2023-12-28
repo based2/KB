@@ -142,6 +142,9 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists
+> https://news.ycombinator.com/item?id=38789332
+
 https://news.ycombinator.com/item?id=38760727
 
 https://news.ycombinator.com/item?id=38777647

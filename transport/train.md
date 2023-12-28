@@ -27,6 +27,8 @@ https://www.theguardian.com/us-news/2023/mar/03/us-rail-workers-east-palestine-o
 https://streaming.media.ccc.de/37c3/relive/12142
 > https://news.ycombinator.com/item?id=38788360
 
+https://media.ccc.de/v/37c3-12142-breaking_drm_in_polish_trains plc with geofencing by Newag
+
 https://social.hackerspace.pl/@q3k/111528162462505087
 > https://news.ycombinator.com/item?id=38530885
 

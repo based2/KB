@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/
+> https://news.ycombinator.com/item?id=38779968
+
 https://news.ycombinator.com/item?id=38750411
 
 https://news.ycombinator.com/item?id=38719101

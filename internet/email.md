@@ -220,6 +220,12 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://forwardemail.net/en
+> https://news.ycombinator.com/item?id=38788948
+
+https://taoshu.in/net/outlook-delist.html
+> https://news.ycombinator.com/item?id=38790854
+
 https://www.djcbsoftware.nl/code/mu/
 > https://news.ycombinator.com/item?id=38768434
 

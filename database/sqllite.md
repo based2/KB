@@ -112,6 +112,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://github.com/michalc/sqlite-memory-vfs
+> https://news.ycombinator.com/item?id=38786012
+
 https://news.ycombinator.com/item?id=38662900
 
 https://news.ycombinator.com/item?id=38540421 jsonb

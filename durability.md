@@ -81,6 +81,9 @@ https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer
 > https://news.ycombinator.com/item?id=37263827
 
 # News
+https://walterkirn.substack.com/p/generation-junk
+> https://news.ycombinator.com/item?id=38789411
+
 https://www.hagerty.com/media/maintenance-and-tech/zero-motorcycles-steps-up-and-makes-its-service-manuals-free/
 > https://news.ycombinator.com/item?id=37085138
 

@@ -26,6 +26,9 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 # News
+https://blog.google/products/chrome/google-chrome-december-2023-update/
+> https://www.bleepingcomputer.com/news/google/google-chrome-now-scans-for-compromised-passwords-in-the-background/
+
 https://www.bleepingcomputer.com/news/security/cisa-urges-tech-manufacturers-to-stop-using-default-passwords/
 
 https://www.troyhunt.com/a-decade-of-have-i-been-pwned/

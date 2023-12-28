@@ -426,6 +426,10 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://dubroy.com/blog/cold-blooded-software/
+> https://news.ycombinator.com/item?id=38793206
+> https://lobste.rs/s/hitos3/cold_blooded_software
+
 https://hbr.org/2016/09/excess-management-is-costing-the-us-3-trillion-per-year
 > https://news.ycombinator.com/item?id=34290539
 

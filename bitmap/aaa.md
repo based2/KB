@@ -81,6 +81,9 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://blog.glyphdrawing.club/ascii-art-from-a-commodity-into-an-obscurity/
+> https://news.ycombinator.com/item?id=38782039
+
 https://news.ycombinator.com/item?id=38329736
 
 https://en.wikipedia.org/wiki/Bibi-binary

@@ -378,6 +378,11 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://www.apposite.ai/sagebrush-ai-painter-the-simplest-way-to-create-with-ai.html
+> https://news.ycombinator.com/item?id=38788419
+
+https://light.princeton.edu/publication/nsf/
+
 https://github.com/cumulo-autumn/StreamDiffusion
 > https://news.ycombinator.com/item?id=38749434
 

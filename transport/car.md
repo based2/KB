@@ -18,6 +18,11 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://news.ycombinator.com/item?id=38795290
+
+https://electrek.co/2023/12/27/zeekr-launches-007-sedan-under-30000-over-50000-pre-orders/
+> https://news.ycombinator.com/item?id=38790185
+
 https://www.thedrive.com/news/russia-has-a-new-ev-prototype-and-yes-it-really-looks-like-this
 
 https://news.ycombinator.com/item?id=38472229

@@ -276,6 +276,9 @@ https://news.ycombinator.com/item?id=38615280
 
 https://news.ycombinator.com/item?id=38744785
 
+https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation
+> https://news.ycombinator.com/item?id=38795009
+
 # History
 https://news.ycombinator.com/item?id=28343118
 
@@ -461,6 +464,10 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://arxiv.org/abs/2312.10049 Knowledge Graph Reasoning Based on Attention GCN
+
+https://huggingface.co/papers/2312.15011
+
 https://www.suno.ai/
 > https://news.ycombinator.com/item?id=38743719
 
