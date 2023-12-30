@@ -88,6 +88,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incident
+https://www.welivesecurity.com/en/eset-research/pernicious-potpourri-python-packages-pypi/
+
 https://vigilance.fr/vulnerabilite/NuGet-execution-de-code-41922
 
 https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/?td=keepreading

@@ -115,6 +115,12 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://latentdictionary.com/
+> https://news.ycombinator.com/item?id=38815005
+
+https://graphwords.com/
+> https://news.ycombinator.com/item?id=38798496
+
 https://doc.cat-v.org/unix/v8/grap.pdf
 > https://news.ycombinator.com/item?id=38634667
 

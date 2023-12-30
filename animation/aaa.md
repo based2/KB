@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://nothings.org/gamedev/herringbone/
+> https://news.ycombinator.com/item?id=38803160
+
 https://roughjs.com/
 > https://news.ycombinator.com/item?id=38732049
 

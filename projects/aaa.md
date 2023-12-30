@@ -426,6 +426,12 @@ https://www.musicforprogramming.net/
 > https://news.ycombinator.com/item?id=27737887
 
 # News
+https://ieeexplore.ieee.org/document/10372494 Developer Productivity for Humans: Software Quality
+> https://news.ycombinator.com/item?id=38791489
+
+http://mikhailian.mova.org/node/284
+> https://news.ycombinator.com/item?id=38802996
+
 https://dubroy.com/blog/cold-blooded-software/
 > https://news.ycombinator.com/item?id=38793206
 > https://lobste.rs/s/hitos3/cold_blooded_software

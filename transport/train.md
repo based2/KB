@@ -36,6 +36,8 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html
+> https://news.ycombinator.com/item?id=38809154
 
 > https://news.ycombinator.com/item?id=38628635
 

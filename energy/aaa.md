@@ -16,6 +16,18 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/
+> https://news.ycombinator.com/item?id=38817518
+
+https://www.thelocal.de/20190117/stolften
+> https://news.ycombinator.com/item?id=38813856
+
+https://www.nationalgrid.com/national-grid-announces-commercial-operations-viking-link-worlds-longest-land-and-subsea
+> https://news.ycombinator.com/item?id=38807001
+
+https://www.bbc.com/news/science-environment-67718719
+> https://news.ycombinator.com/item?id=38803528
+
 https://www.eia.gov/todayinenergy/detail.php?id=61106
 > https://news.ycombinator.com/item?id=38785468
 

@@ -25,6 +25,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://spectrum.ieee.org/try-this-new-analog-computer
+> https://news.ycombinator.com/item?id=38798501
+
 https://news.ycombinator.com/item?id=38782948
 
 https://wiki.osdev.org/Expanded_Main_Page

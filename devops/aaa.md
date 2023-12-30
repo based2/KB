@@ -101,6 +101,9 @@ https://github.com/ptaoussanis/encore/blob/master/BREAK-VERSIONING.md
 https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation.md
 > https://news.ycombinator.com/item?id=35008074
 
+https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/
+> https://lobste.rs/s/qi7tel/semantic_versioning_is_terrible_mistake
+
 # History
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 

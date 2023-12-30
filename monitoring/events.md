@@ -7,3 +7,4 @@ https://blog.runreveal.com/kawa-the-event-processor-for-the-grug-brained-develop
 https://news.ycombinator.com/item?id=38419513
 
 https://docs.python.org/3/library/sys.monitoring.html
+> https://news.ycombinator.com/item?id=38791101

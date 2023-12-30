@@ -49,3 +49,6 @@ https://www.rfc-editor.org/rfc/rfc9402.html Concat Notation
 
 https://www.ietf.org/rfc/std/std80.txt ASCII format for Network Interchange
 > https://news.ycombinator.com/item?id=37020040
+
+https://www.rfc-editor.org/rfc/rfc9518.html
+> https://news.ycombinator.com/item?id=38814367

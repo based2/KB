@@ -274,6 +274,9 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://graphite.dev/blog/why-ban-merge-commits
+> https://news.ycombinator.com/item?id=38800454
+
 https://baecher.dev/stdout/reproducible-git-bundles/
 > https://news.ycombinator.com/item?id=38764452
 

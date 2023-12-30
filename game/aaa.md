@@ -36,6 +36,9 @@ https://news.ycombinator.com/item?id=38612164 role
 https://news.ycombinator.com/item?id=38791839
 > https://cyclops.sh/
 
+https://hexcodle.com/
+> https://news.ycombinator.com/item?id=38797472
+
 http://www.liero.be/
 > https://news.ycombinator.com/item?id=38796870
 

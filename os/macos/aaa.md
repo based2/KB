@@ -235,6 +235,9 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 https://jvns.ca/blog/2018/01/28/mac-freeze/
 
 # VM
+https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/
+> https://news.ycombinator.com/item?id=38803556
+
 https://eclecticlight.co/2023/08/17/run-a-macos-vm-on-apple-silicon-from-a-double-click-with-vimy/
 > https://news.ycombinator.com/item?id=37200909
 

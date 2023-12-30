@@ -122,6 +122,9 @@ https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-
 > https://news.ycombinator.com/item?id=37015290
 
 # Maps
+https://www.abc.net.au/news/2023-12-28/google-maps-sending-people-wrong-way-quairading-shire/103207090
+> https://news.ycombinator.com/item?id=38791519
+
 https://dl.acm.org/doi/10.14778/3574245.3574253
 
 https://mult.dev/

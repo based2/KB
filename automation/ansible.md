@@ -87,6 +87,8 @@ https://www.unixarena.com/2019/05/passing-variable-from-one-playbook-to-another-
 https://blog.quarkslab.com/ansible-security-assessment.html
 
 #
+https://vigilance.fr/vulnerability/Amazon-aws-Ansible-logged-sensitive-information-via-tower-callback-43193
+
 https://vigilance.fr/vulnerability/ansible-core-read-write-access-via-Internal-Templating-Actions-Unsafe-Designation-43017
 
 # News

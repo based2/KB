@@ -184,6 +184,9 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://github.com/EGjoni/DRUGS
+> https://news.ycombinator.com/item?id=38816429
+
 https://www.marble.onl/posts/fortran_llms.html
 
 https://www.baseten.co/blog/faster-mixtral-inference-with-tensorrt-llm-and-quantization/

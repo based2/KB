@@ -107,6 +107,12 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
+> https://news.ycombinator.com/item?id=38809642
+
+https://www.lesswrong.com/posts/djWftXndJ7iMPsjrp/the-dark-arts
+> https://news.ycombinator.com/item?id=38802105
+
 http://networksciencebook.com/
 > https://news.ycombinator.com/item?id=38743683
 

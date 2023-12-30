@@ -220,6 +220,8 @@ https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
 
 # News
+https://news.ycombinator.com/item?id=38809770 assistant
+
 https://forwardemail.net/en
 > https://news.ycombinator.com/item?id=38788948
 

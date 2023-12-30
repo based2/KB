@@ -27,6 +27,8 @@ http://biosrhythm.com/?page_id=1453 WiFi232 – An Internet Hayes Modem for your
 > https://news.ycombinator.com/item?id=14677297
 
 # News
+https://www.juve-patent.com/cases/huawei-and-bird-bird-successful-against-amazon-in-dispute-over-wifi-routers/
+
 https://ui.com/cloud-gateways/express
 > https://news.ycombinator.com/item?id=38504027
 

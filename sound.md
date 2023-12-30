@@ -39,6 +39,9 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 # News
+https://linuxdaw.org/
+> https://news.ycombinator.com/item?id=38815893
+
 https://danmackinlay.name/notebook/audio_routers.html
 > https://news.ycombinator.com/item?id=38717878
 

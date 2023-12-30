@@ -87,6 +87,9 @@ https://jornhub.dev/articles/fenwick-trees/
 
 https://photonlines.substack.com/p/grokking-avl-and-ravl-trees
 
+https://www.bzero.se/ldapd/btree.html
+> https://news.ycombinator.com/item?id=38805383
+
 # Visu
 https://tweeview.ml/
 > https://news.ycombinator.com/item?id=28514298

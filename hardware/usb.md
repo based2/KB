@@ -172,3 +172,6 @@ https://news.ycombinator.com/item?id=37818659
 
 https://www.usbmadesimple.co.uk/
 > https://news.ycombinator.com/item?id=37887058
+
+https://fabiensanglard.net/android_windows_driver/index.html
+> https://news.ycombinator.com/item?id=38813917

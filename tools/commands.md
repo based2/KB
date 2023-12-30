@@ -53,6 +53,12 @@ https://drew.shoes/posts/sup/ net send win
 > https://news.ycombinator.com/item?id=34157636
 
 # News
+https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils
+> https://news.ycombinator.com/item?id=38814599
+
+https://blog.robenkleene.com/2023/12/26/introducing-rep-ren/
+> https://news.ycombinator.com/item?id=38780716
+
 https://news.ycombinator.com/item?id=37879027 fcron
 
 https://gist.github.com/sharadhr/39b804236c1941e9c30d90af828ad41e

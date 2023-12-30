@@ -331,6 +331,8 @@ https://nedbatchelder.com/text/which-py.html Summary of P features
 > https://news.ycombinator.com/item?id=31475130
 
 # Incident
+https://vigilance.fr/vulnerability/pip-write-access-via-Mercurial-VCS-URL-Configuration-Options-43190
+
 https://github.com/python/cpython/issues/108310
 
 https://vigilance.fr/vulnerabilite/Python-Core-lecture-et-ecriture-de-fichier-via-Normpath-Path-Truncation-42117

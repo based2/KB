@@ -47,6 +47,9 @@ https://rameshvarun.github.io/blog-cells/
 https://soupault.app/blog/soupault-4.0.0-release/
 > https://lobste.rs/s/fhiw9d/soupault_4_0_0_as_extensible_as_jekyll
 
+https://blot.im/how
+> https://news.ycombinator.com/item?id=38809145
+
 #
 https://news.ycombinator.com/item?id=38752435
 

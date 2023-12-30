@@ -50,3 +50,9 @@ https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 > https://news.ycombinator.com/item?id=28128360
 
 DataMart
+
+# News
+https://research.google/pubs/napa-powering-scalable-data-warehousing-with-robust-query-performance-at-google/
+
+https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/
+> https://news.ycombinator.com/item?id=38811576
