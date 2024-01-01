@@ -83,6 +83,8 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 https://www.ic3.gov/Media/News/2021/211117-2.pdf fatpipe vpn
 
 # News
+https://news.ycombinator.com/item?id=38826564
+
 https://mk16.de/blog/comparison-of-self-meshing-vpns/
 
 https://news.ycombinator.com/item?id=38496669

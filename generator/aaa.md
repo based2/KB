@@ -33,3 +33,6 @@ https://curlconverter.com/
 
 https://github.com/ritz078/transform
 > https://transform.tools/
+
+https://benhoyt.com/writings/markov-chain/
+> https://news.ycombinator.com/item?id=38829772

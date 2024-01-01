@@ -10,3 +10,6 @@ https://github.com/zim-desktop-wiki/zim-desktop-wiki
 
 https://val.packett.cool/blog/tiddlypwa/
 > https://news.ycombinator.com/item?id=36885753
+
+https://bt.ht/posts/Switching_Things_Over_to_ikiwiki/
+> https://news.ycombinator.com/item?id=38814990

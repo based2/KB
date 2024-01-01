@@ -93,6 +93,10 @@ https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/us
 https://dmitryelj.medium.com/howto-using-a-pager-in-the-21st-century-6a57454ecde8
 > https://news.ycombinator.com/item?id=27015556
 
+# RF
+https://meshtastic.org/
+> https://news.ycombinator.com/item?id=38829448
+
 # Radio SDE
 https://fosdem.org/2021/schedule/event/fsr_pysdr_guide_to_sdr_and_dsp_using_python/
 > https://news.ycombinator.com/item?id=26990671

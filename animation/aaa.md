@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://int10h.org/blog/2021/03/simulating-non-crt-monitors-ffmpeg-flat-panels/
+> https://news.ycombinator.com/item?id=38821166
+
 https://nothings.org/gamedev/herringbone/
 > https://news.ycombinator.com/item?id=38803160
 

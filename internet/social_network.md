@@ -107,6 +107,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://blog.davep.org/2024/01/01/oshit.html
+> https://news.ycombinator.com/item?id=38831083
+
 https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis
 > https://news.ycombinator.com/item?id=38809642
 

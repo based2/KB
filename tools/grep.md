@@ -66,3 +66,6 @@ https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0
 
 https://github.com/ast-grep/ast-grep
 > https://news.ycombinator.com/item?id=38590984
+
+https://ugrep.com/
+> https://news.ycombinator.com/item?id=38819262

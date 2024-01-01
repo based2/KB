@@ -58,6 +58,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://github.com/jart/emacs-copilot
+> https://news.ycombinator.com/item?id=38822164 emacs
+
 https://news.ycombinator.com/item?id=38643406
 
 https://news.ycombinator.com/item?id=38611700 macos

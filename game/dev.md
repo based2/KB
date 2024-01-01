@@ -157,6 +157,12 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://bobbiec.github.io/white-elephant.html
+> https://news.ycombinator.com/item?id=38826763
+
+https://github.com/JSLegendDev/Pokemon-p5js
+> https://news.ycombinator.com/item?id=38829303
+
 http://mmos.ch/
 > https://news.ycombinator.com/item?id=38798489
 

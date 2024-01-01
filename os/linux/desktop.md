@@ -103,6 +103,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://medium.com/opsops/there-is-an-oom-kill-count-in-linux-e9936aa33102
+> https://news.ycombinator.com/item?id=38823719
+
 https://news.ycombinator.com/item?id=38780031
 
 https://www.phoronix.com/news/COSMIC-December-2023

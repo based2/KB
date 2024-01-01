@@ -39,6 +39,9 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 # News
+https://github.com/AzuraCast/AzuraCast
+> https://news.ycombinator.com/item?id=38822350
+
 https://linuxdaw.org/
 > https://news.ycombinator.com/item?id=38815893
 

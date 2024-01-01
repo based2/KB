@@ -240,6 +240,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/
+> https://news.ycombinator.com/item?id=38820616
+
 https://secondcityzoning.org/
 > https://news.ycombinator.com/item?id=38777460
 

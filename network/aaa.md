@@ -137,6 +137,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://techxplore.com/news/2023-12-electric-transmits-faster-wi-fi.html
+> https://news.ycombinator.com/item?id=38816802
+
 https://termshark.io/
 > https://news.ycombinator.com/item?id=38531181
 

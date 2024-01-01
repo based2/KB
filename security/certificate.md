@@ -37,6 +37,8 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incident
+https://news.ycombinator.com/item?id=38825623
+
 https://news.ycombinator.com/item?id=38058658
 
 https://airlockdigital.com/microsofts-revocation-of-the-verisign-class-3-public-primary-certification-authority-g5-root-certificate/
@@ -66,8 +68,10 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
-https://news.ycombinator.com/item?id=38674415
+https://ct.cloudflare.com/ Merkle Town: Explore the certificate transparency ecosystem
+> https://news.ycombinator.com/item?id=38829235
 
+https://news.ycombinator.com/item?id=38674415
 https://blog.anchor.dev/getting-started-with-anchor-for-local-development-6dd2cd605c08
 > https://news.ycombinator.com/item?id=38098490
 

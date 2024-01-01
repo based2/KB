@@ -33,6 +33,9 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://chhopsky.itch.io/an-easy-fix
+> https://news.ycombinator.com/item?id=38827582
+
 https://news.ycombinator.com/item?id=38791839
 > https://cyclops.sh/
 

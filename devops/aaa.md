@@ -446,6 +446,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+http://devops-pipeline.com/
+
 https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/
 > https://github.blog/2023-03-09-raising-the-bar-for-software-security-github-2fa-begins-march-13
 > https://www.bleepingcomputer.com/news/software/github-warns-users-to-enable-2fa-before-upcoming-deadline/

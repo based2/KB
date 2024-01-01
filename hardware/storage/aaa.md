@@ -60,6 +60,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://mattgadient.com/7-watts-idle-on-intel-12th-13th-gen-the-foundation-for-building-a-low-power-server-nas/
+> https://news.ycombinator.com/item?id=38823514
+
 https://utcc.utoronto.ca/~cks/space/blog/linux/GrubUnknownFilesystemWhy
 
 https://news.ycombinator.com/item?id=38699201

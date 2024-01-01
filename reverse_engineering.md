@@ -40,6 +40,9 @@ https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
 
 #
+https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html
+> https://news.ycombinator.com/item?id=38826187
+
 https://wrongbaud.github.io/posts/hightec-tricore-linux-ghidra/
 
 https://hackaday.com/2023/12/21/teardown-of-fgm-148-javelin-missiles-guidance-computer/

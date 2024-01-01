@@ -152,6 +152,9 @@ https://shuby.de/blog/post/decision-matrix
 https://algorithmsbook.com/files/dm.pdf
 > https://news.ycombinator.com/item?id=31123683
 
+https://www.hillelwayne.com/post/decision-table-patterns/
+> https://news.ycombinator.com/item?id=38822319
+
 # Analysis
 https://xyproblem.info/
 > https://news.ycombinator.com/item?id=27061704

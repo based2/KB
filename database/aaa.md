@@ -73,6 +73,9 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://erthalion.info/2023/12/29/statistics-and-benchmarking/
+> https://news.ycombinator.com/item?id=38809160
+
 https://github.com/mathaou/termdbms
 > https://news.ycombinator.com/item?id=38744791
 

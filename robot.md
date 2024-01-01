@@ -98,6 +98,9 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://lupyuen.codeberg.page/articles/nim.html
+> https://news.ycombinator.com/item?id=38828619
+
 https://valetudo.cloud/pages/general/why-valetudo.html
 > https://news.ycombinator.com/item?id=38788326
 

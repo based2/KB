@@ -328,6 +328,8 @@ https://en.wikipedia.org/wiki/ISeeYou Apple
 
 Lucky Thirteen: breaking the TLS and DTLS record protocol
 
+https://en.wikipedia.org/wiki/Ping_of_death
+
 ## 2012
 https://en.wikipedia.org/wiki/CRIME
 
@@ -417,6 +419,9 @@ Roos RC4
 https://en.wikipedia.org/wiki/WinNuke
 
 https://en.wikipedia.org/wiki/FTP_bounce_attack
+
+## 1996
+https://en.wikipedia.org/wiki/SYN_flood
 
 ## 1989
 

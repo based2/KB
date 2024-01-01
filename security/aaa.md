@@ -70,6 +70,9 @@ https://news.ycombinator.com/item?id=35095063
 
 https://venam.nixers.net/blog/unix/2023/02/28/access_control.html Secure the Border and Build the Wall, A Compendium of Access Control on Unix-Like OSes
 
+https://utcc.utoronto.ca/~cks/space/blog/tech/EmailAddressesBadPermanentIDs
+> https://news.ycombinator.com/item?id=38823817
+
 #
 https://suricrasia.online/iceberg/ The Cursed Computer Iceberg Meme
 > https://news.ycombinator.com/item?id=26766722

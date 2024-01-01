@@ -464,6 +464,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://simonwillison.net/2023/Dec/31/ai-in-2023/
+> https://news.ycombinator.com/item?id=38828594
+
 https://arxiv.org/abs/2312.10049 Knowledge Graph Reasoning Based on Attention GCN
 
 https://huggingface.co/papers/2312.15011

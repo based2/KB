@@ -29,6 +29,9 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 https://github.com/secureblue/secureblue fedora
 
 # News
+https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux
+> https://news.ycombinator.com/item?id=38801183
+
 https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/
 > https://news.ycombinator.com/item?id=38805439
 

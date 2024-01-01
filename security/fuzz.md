@@ -12,6 +12,11 @@ https://tlakh.xyz/fuzzing-ping.html
 https://thevaluable.dev/practical-guide-fzf-example/
 
 #
+https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/
+> https://news.ycombinator.com/item?id=38814560
+> > picoTCP
+> > https://github.com/iljavs/tcpfuzz
+
 https://albocoder.github.io/fuzzing/exploitation/linux%20kernel/hacking/ai/gpt/llm/2023/11/27/GPT-syzkaller.html
 
 https://www.cyberark.com/resources/threat-research-blog/fuzzer-v

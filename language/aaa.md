@@ -356,6 +356,15 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://www.crockford.com/misty/
+> https://news.ycombinator.com/item?id=38820305
+
+https://thehistoryoftheweb.com/building-coldfusion-for-the-web/
+> https://news.ycombinator.com/item?id=38821224
+
+https://bvisness.me/luax/ Lua Dialect with JSX
+> https://news.ycombinator.com/item?id=38813677
+
 https://github.com/uw-pluverse/perses
 > https://news.ycombinator.com/item?id=38777946
 
