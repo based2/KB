@@ -53,6 +53,9 @@ https://drew.shoes/posts/sup/ net send win
 > https://news.ycombinator.com/item?id=34157636
 
 # News
+https://github.com/uutils/coreutils
+> https://news.ycombinator.com/item?id=38851740
+
 https://jpospisil.com/2023/12/19/the-hidden-gems-of-moreutils
 > https://news.ycombinator.com/item?id=38814599
 

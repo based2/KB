@@ -35,6 +35,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://blog.lenot.re/a/introduction
+> https://news.ycombinator.com/item?id=38852360
+
 https://www.phoronix.com/news/Ubuntu-x86-64-v3-Experiment
 
 https://lwn.net/Articles/949960/ The BPF-programmable network device

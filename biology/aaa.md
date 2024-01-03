@@ -46,6 +46,8 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://news.ycombinator.com/item?id=38852534
+
 https://github.com/hunar4321/particle-life
 > https://news.ycombinator.com/item?id=38794625
 

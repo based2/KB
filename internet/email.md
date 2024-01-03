@@ -46,31 +46,6 @@ https://github.com/kamranahmedse/local-ses
 
 https://mailpit.axllent.org/
 
-# Incident
-https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/
-> https://news.ycombinator.com/item?id=38727987
-
-https://r.sec-consult.com/smtp
-> https://old.reddit.com/r/netsec/comments/18l574e/introducing_smtp_smuggling_a_novel_technique_for/
-
-https://www-heise-de.translate.goog/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de
-> https://news.ycombinator.com/item?id=38212453
-
-https://www.exim.org/static/doc/security/CVE-2023-zdi.txt
-> https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/
-
-https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/
-> https://www.securitynewspaper.com/2023/09/11/proton-mail-vulnerabilities-allow-stealing-decrypted-emails-and-impersonate-users/
-
-https://news.ycombinator.com/item?id=37175503
-
-https://www.bleepingcomputer.com/news/microsoft/hotmail-email-delivery-fails-after-microsoft-misconfigures-dns/
-
-https://vigilance.fr/vulnerabilite/Perl-Mail-DKIM-absence-de-signature-via-Lowercase-Domain-Check-41878
-
-https://files.catbox.moe/p860p2.png
-> https://news.ycombinator.com/item?id=34730559
-
 # Spam
 http://unmitigatedrisk.com/?p=752
 > https://lobste.rs/s/8vsebl/effortless_certificate_lifecycle
@@ -124,6 +99,9 @@ https://www.multicians.org/thvv/mail-history.html
 > https://news.ycombinator.com/item?id=37087791
 
 https://news.ycombinator.com/item?id=38379397
+
+https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023
+> https://news.ycombinator.com/item?id=38839763
 
 # Security
 
@@ -218,6 +196,31 @@ https://www.mozilla.org/en-US/security/known-vulnerabilities/thunderbird/#thunde
 
 https://mailchimp.com/january-2023-security-incident/
 > https://news.ycombinator.com/item?id=34464063
+
+https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/
+> https://news.ycombinator.com/item?id=38727987
+
+https://r.sec-consult.com/smtp
+> https://old.reddit.com/r/netsec/comments/18l574e/introducing_smtp_smuggling_a_novel_technique_for/
+
+https://www-heise-de.translate.goog/news/Microsoft-krallt-sich-Zugangsdaten-Achtung-vorm-neuen-Outlook-9357691.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de
+> https://news.ycombinator.com/item?id=38212453
+
+https://www.exim.org/static/doc/security/CVE-2023-zdi.txt
+> https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-010/
+
+https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/
+> https://www.securitynewspaper.com/2023/09/11/proton-mail-vulnerabilities-allow-stealing-decrypted-emails-and-impersonate-users/
+
+https://news.ycombinator.com/item?id=37175503
+
+https://www.bleepingcomputer.com/news/microsoft/hotmail-email-delivery-fails-after-microsoft-misconfigures-dns/
+
+https://vigilance.fr/vulnerabilite/Perl-Mail-DKIM-absence-de-signature-via-Lowercase-Domain-Check-41878
+
+https://files.catbox.moe/p860p2.png
+> https://news.ycombinator.com/item?id=34730559
+
 
 # News
 https://news.ycombinator.com/item?id=38809770 assistant

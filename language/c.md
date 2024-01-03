@@ -77,6 +77,8 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://liveplusplus.tech/
+
 https://github.com/AoiMoe/knrcc
 > https://news.ycombinator.com/item?id=38777123
 

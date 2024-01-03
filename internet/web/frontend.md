@@ -38,5 +38,8 @@ https://news.ycombinator.com/item?id=37974743
 https://wattenberger.com/thoughts/evolving-the-infinite-canvas
 > https://news.ycombinator.com/item?id=38773991
 
+https://ahastack.dev/
+> https://news.ycombinator.com/item?id=38854748
+
 
 

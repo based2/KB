@@ -43,6 +43,9 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 # News
+https://dillo-browser.github.io/
+> https://news.ycombinator.com/item?id=38847613
+
 https://news.ycombinator.com/item?id=38670729
 
 https://news.ycombinator.com/item?id=38531104

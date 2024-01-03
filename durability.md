@@ -81,6 +81,9 @@ https://news.ubc.ca/2023/08/16/microplastic-pollution-plants-could-be-the-answer
 > https://news.ycombinator.com/item?id=37263827
 
 # News
+https://fixmyblinds.com/
+> https://news.ycombinator.com/item?id=38844274
+
 https://walterkirn.substack.com/p/generation-junk
 > https://news.ycombinator.com/item?id=38789411
 

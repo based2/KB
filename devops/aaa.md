@@ -414,6 +414,8 @@ https://github.blog/2022-04-12-git-security-vulnerability-announced/ CVE-2022-24
 
 https://about.gitlab.com/releases/2022/02/03/security-release-gitlab-14-7-1-released/
 
+https://news.ycombinator.com/item?id=38840596
+
 SourceForge nobody Apache HTTPD configuration
 
 # New versions

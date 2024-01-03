@@ -43,6 +43,9 @@ https://blog.apnic.net/2021/11/11/openbsd-part-3-that-packet-filter/
 > https://news.ycombinator.com/item?id=29290663
 
 ## News
+https://dataswamp.org/~solene/2023-12-31-hardened-openbsd-workstation.html
+> https://news.ycombinator.com/item?id=38853406
+
 https://www.openbsd.org/74.html
 > https://news.ycombinator.com/item?id=37899319
 

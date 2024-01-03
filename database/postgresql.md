@@ -301,6 +301,8 @@ https://nhost.io/blog/individual-postgres-instances
 
 https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-rancher/
 
+https://ryan-schachte.com/blog/ha_postgres_zolando/
+
 # Rest
 https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html
 
@@ -328,6 +330,12 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://github.com/paradedb/paradedb
+> https://news.ycombinator.com/item?id=38847571
+
+https://jkatz05.com/post/postgres/postgresql-2024/
+> https://news.ycombinator.com/item?id=38848001
+
 https://news.ycombinator.com/item?id=38815150
 
 https://patrick.engineering/posts/postgres-internals/

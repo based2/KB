@@ -27,6 +27,9 @@ https://www.powermag.com/power-to-power-hydrogen-demonstration-involving-largest
 https://en.wikipedia.org/wiki/Spin_isomers_of_hydrogen
 
 # News
+https://www.theregister.com/2024/01/03/japan_to_test_datacenter_powered/
+> https://news.ycombinator.com/item?id=38854940
+
 https://news.ycombinator.com/item?id=38416451
 
 https://newatlas.com/automotive/avl-water-injected-hydrogen-engine/

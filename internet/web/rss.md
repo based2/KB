@@ -42,3 +42,6 @@ https://www.rssboard.org/news/213/atom-feed-format-born-20-years-ago
 
 https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge
 > https://news.ycombinator.com/item?id=36729424
+
+https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US
+

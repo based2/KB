@@ -94,6 +94,9 @@ https://arefmalek.github.io/blog/Airdraw/
 > https://news.ycombinator.com/item?id=38647938
 
 # News
+https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html
+> https://news.ycombinator.com/item?id=38844943
+
 https://github.com/kharitonov-ivan/multi-object-tracking-in-python
 > https://news.ycombinator.com/item?id=38280490
 

@@ -54,6 +54,9 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://blog.redteam-pentesting.de/2024/bitwarden-heist/
+> https://news.ycombinator.com/item?id=38853058
+
 https://news.ycombinator.com/item?id=38308408
 
 https://news.ycombinator.com/item?id=36697110

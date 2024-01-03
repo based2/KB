@@ -274,6 +274,12 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://wizardzines.com/comics/branches-have-no-rules/
+> https://lobste.rs/s/fqnqga/branches_have_no_rules
+
+https://github.com/aaronjensen/software-development/blob/master/commit-messages.md
+> https://news.ycombinator.com/item?id=38831991
+
 https://matklad.github.io/2023/12/31/git-things.html#Git-Things
 > https://news.ycombinator.com/item?id=38830194
 

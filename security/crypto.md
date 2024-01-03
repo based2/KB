@@ -191,6 +191,9 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.cr.yp.to/20240102-hybrid.html
+> https://news.ycombinator.com/item?id=38844117
+
 https://www.quantamagazine.org/celebrated-cryptography-algorithm-gets-an-upgrade-20231214/
 > https://news.ycombinator.com/item?id=38644479
 

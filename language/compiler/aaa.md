@@ -149,6 +149,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://wozniak.ca/blog/2024/01/02/1/index.html
+> https://news.ycombinator.com/item?id=38850400
+
 https://outflux.net/slides/2023/lpc/features.pdf Toolchain security features
 
 https://dl.acm.org/doi/10.1145/3622831

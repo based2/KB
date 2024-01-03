@@ -33,6 +33,9 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://abagames.github.io/crisp-game-lib-11-games/?pakupaku
+> https://news.ycombinator.com/item?id=38845510
+
 https://chhopsky.itch.io/an-easy-fix
 > https://news.ycombinator.com/item?id=38827582
 

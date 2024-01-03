@@ -113,6 +113,8 @@ https://news.ycombinator.com/item?id=36785707
 https://davidseah.com/node/compact-calendar/
 > https://news.ycombinator.com/item?id=37869809
 
+https://news.ycombinator.com/item?id=38838946
+
 #
 
 https://www.baeldung.com/java-temporal-adjuster

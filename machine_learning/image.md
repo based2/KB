@@ -378,6 +378,12 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/
+> https://news.ycombinator.com/item?id=38825158
+
+https://github.com/oracle-samples/sd4j
+> https://news.ycombinator.com/item?id=38831379
+
 https://www.apposite.ai/sagebrush-ai-painter-the-simplest-way-to-create-with-ai.html
 > https://news.ycombinator.com/item?id=38788419
 

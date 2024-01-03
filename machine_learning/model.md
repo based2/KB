@@ -184,6 +184,12 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://arxiv.org/abs/2312.17661
+> https://news.ycombinator.com/item?id=38851446
+
+https://browse.arxiv.org/html/2312.08361v1
+> https://news.ycombinator.com/item?id=38843069
+
 https://github.com/EGjoni/DRUGS
 > https://news.ycombinator.com/item?id=38816429
 

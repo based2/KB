@@ -211,6 +211,9 @@ https://github.com/yl4579/StyleTTS2
 > https://news.ycombinator.com/item?id=38335255
 
 # News
+https://arxiv.org/abs/2312.01479
+> https://news.ycombinator.com/item?id=38832317
+
 https://www.erichgrunewald.com/posts/introducing-midihum-an-ml-based-midi-humanizing-tool/
 > https://news.ycombinator.com/item?id=38814424
 

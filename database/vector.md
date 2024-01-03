@@ -49,3 +49,6 @@ https://ashvardanian.com/posts/python-c-assembly-comparison/
 
 https://susam.net/blog/from-vector-spaces-to-periodic-functions.html
 
+https://lantern.dev/blog/hnsw-index-creation
+> https://news.ycombinator.com/item?id=38844945
+

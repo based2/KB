@@ -38,6 +38,8 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://news.ycombinator.com/item?id=38850202
+
 https://news.ycombinator.com/item?id=36453790
 
 https://patents.google.com/patent/US7167953B2/en
