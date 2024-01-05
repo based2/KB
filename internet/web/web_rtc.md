@@ -81,3 +81,6 @@ https://blogs.igalia.com/llepage/webrtc-gstreamer-and-html5-part-1/
 
 https://github.com/ossrs/ffmpeg-webrtc/pull/1
 > https://news.ycombinator.com/item?id=36130191
+
+https://webrtcforthecurious.com/
+> https://news.ycombinator.com/item?id=38875542

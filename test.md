@@ -165,6 +165,9 @@ https://github.com/axllent/mailpit
 > https://news.ycombinator.com/item?id=36448686
 
 # News
+https://concerningquality.com/txn-isolation-testing/
+> https://news.ycombinator.com/item?id=38867841
+
 https://news.ycombinator.com/item?id=38283398
 
 https://github.com/Planetary-Computers/autotab-starter

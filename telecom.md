@@ -144,6 +144,12 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv
+> https://www.bleepingcomputer.com/news/security/hacker-hijacks-orange-spain-ripe-account-to-cause-bgp-havoc/
+> https://news.ycombinator.com/item?id=38858500
+
+https://www.bleepingcomputer.com/news/security/dish-network-goes-offline-after-likely-cyberattack-employees-cut-off/
+
 https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/
 > https://news.ycombinator.com/item?id=38698343
 

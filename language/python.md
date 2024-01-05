@@ -346,6 +346,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://www.da.vidbuchanan.co.uk/blog/python-swar.html
+> https://news.ycombinator.com/item?id=38874885
+
 https://www.bitecode.dev/p/whats-up-python-epic-cpython-commit
 > https://news.ycombinator.com/item?id=38784797
 

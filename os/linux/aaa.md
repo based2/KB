@@ -89,6 +89,9 @@ https://justine.lol/sizetricks/#elf
 https://nathanotterness.com/2021/10/tiny_elf_modernized.html
 > https://news.ycombinator.com/item?id=36662353
 
+https://mjg59.dreamwidth.org/69070.html
+> https://news.ycombinator.com/item?id=38847750
+
 # Window manager
 https://www.freedesktop.org/wiki/
 

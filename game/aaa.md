@@ -33,6 +33,9 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://lorendb.dev/posts/archiving-steam-games-for-fun-and-profit/
+> https://news.ycombinator.com/item?id=38878830
+
 https://abagames.github.io/crisp-game-lib-11-games/?pakupaku
 > https://news.ycombinator.com/item?id=38845510
 

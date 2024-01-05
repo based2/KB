@@ -94,3 +94,6 @@ https://arxiv.org/abs/2305.13048
 > https://news.ycombinator.com/item?id=36038868
 
 https://generativeai.pub/explainable-ai-visualizing-attention-in-transformers-4eb931a2c0f8
+
+https://osanseviero.github.io/hackerllama/blog/posts/random_transformer/
+> https://news.ycombinator.com/item?id=38859976

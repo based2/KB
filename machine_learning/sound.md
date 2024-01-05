@@ -211,6 +211,9 @@ https://github.com/yl4579/StyleTTS2
 > https://news.ycombinator.com/item?id=38335255
 
 # News
+https://github.com/facebookresearch/audio2photoreal
+> https://news.ycombinator.com/item?id=38870207
+
 https://arxiv.org/abs/2312.01479
 > https://news.ycombinator.com/item?id=38832317
 

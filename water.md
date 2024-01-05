@@ -175,3 +175,6 @@ https://www.reuters.com/world/us/arizona-restricts-phoenix-home-construction-ami
 https://news.ycombinator.com/item?id=38211798
 
 https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain-future
+
+https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/
+> https://news.ycombinator.com/item?id=38866256

@@ -5,6 +5,10 @@ https://www.netmeister.org/blog/urls.html
 https://www.fpcomplete.com/blog/pains-path-parsing/
 https://news.ycombinator.com/item?id=26991332
 
+# I
+https://social.lol/@robb/111704215593992932
+> https://news.ycombinator.com/item?id=38880713
+
 #
 https://news.ycombinator.com/item?id=38249404
 

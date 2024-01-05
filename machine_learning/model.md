@@ -184,6 +184,16 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://arxiv.org/abs/2401.02385
+> https://news.ycombinator.com/item?id=38885054
+> https://github.com/jzhang38/TinyLlama
+
+https://github.com/mikepapadim/llama-shepherd-cli
+> https://news.ycombinator.com/item?id=38866118
+
+https://github.com/DLYuanGod/TinyGPT-V
+> https://news.ycombinator.com/item?id=38859749
+
 https://arxiv.org/abs/2312.17661
 > https://news.ycombinator.com/item?id=38851446
 

@@ -464,6 +464,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+
+> https://news.ycombinator.com/item?id=38870249
+
 https://news.ycombinator.com/item?id=38830482
 
 https://simonwillison.net/2023/Dec/31/ai-in-2023/

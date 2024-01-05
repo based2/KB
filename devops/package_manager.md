@@ -88,6 +88,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incident
+https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/
+
 https://www.welivesecurity.com/en/eset-research/pernicious-potpourri-python-packages-pypi/
 
 https://vigilance.fr/vulnerabilite/NuGet-execution-de-code-41922

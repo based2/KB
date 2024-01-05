@@ -53,6 +53,9 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://github.com/GuntherRademacher/rr
+> https://news.ycombinator.com/item?id=38877399
+
 https://news.ycombinator.com/item?id=38526078
 
 https://plant.max-richter.dev/#

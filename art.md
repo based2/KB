@@ -46,6 +46,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://www.nms.ac.uk/explore-our-collections/stories/global-arts-cultures-and-design/grammar-of-ornament/
+> https://news.ycombinator.com/item?id=38866348
+
 https://zettl.blog/2023/12/wu-wei/
 > https://news.ycombinator.com/item?id=38605068
 

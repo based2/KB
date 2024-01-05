@@ -378,6 +378,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich
+> https://news.ycombinator.com/item?id=38851736
+
 https://machinelearningmastery.com/logistic-regression-for-image-classification-using-opencv/
 > https://news.ycombinator.com/item?id=38825158
 

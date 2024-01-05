@@ -10,6 +10,8 @@ https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95
 > https://news.ycombinator.com/item?id=28138161
 
 # News
+https://www.bleepingcomputer.com/news/security/orbit-chain-loses-86-million-in-the-last-fintech-hack-of-2023/
+
 https://bramcohen.com/p/remember-how-ethereum-was-supposed
 
 https://arxiv.org/abs/2311.03530 DAO Decentralization: Voting-Bloc Entropy, Bribery, and Dark DAOs

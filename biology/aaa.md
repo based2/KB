@@ -46,6 +46,9 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://news.mit.edu/2023/new-method-fluorescent-labels-living-cell-1128
+> https://news.ycombinator.com/item?id=38852562
+
 https://news.ycombinator.com/item?id=38852534
 
 https://github.com/hunar4321/particle-life

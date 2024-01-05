@@ -31,6 +31,8 @@ https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
 #
+https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199
+
 https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption after upgrade to 6.3.3 kernel
 > https://news.ycombinator.com/item?id=36082788
 

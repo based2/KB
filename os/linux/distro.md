@@ -96,6 +96,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.redhat.com/en/blog/fastest-road-centos-linux-red-hat-enterprise-linux eol
+> https://news.ycombinator.com/item?id=38878587
+
 https://www.journalduhacker.net/s/4s0joy/fedora_40_va_fusionner_usr_sbin_et_usr_bin
 
 https://www.slitaz.org/en/about/ mem

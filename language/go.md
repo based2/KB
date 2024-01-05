@@ -123,6 +123,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://commandcenter.blogspot.com/2024/01/what-we-got-right-what-we-got-wrong.html
+> https://news.ycombinator.com/item?id=38872362
+
 https://github.com/maypok86/otter
 > https://news.ycombinator.com/item?id=38745070
 

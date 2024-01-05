@@ -63,6 +63,8 @@ https://history-of-mathematics.org/
 https://proofwiki.org/wiki/Main_Page
 
 # Geometry
+https://www.quantamagazine.org/mathematicians-identify-the-best-versions-of-iconic-shapes-20240105/
+
 http://xperimex.com/blog/steiners-porism/
 > https://news.ycombinator.com/item?id=27741940
 

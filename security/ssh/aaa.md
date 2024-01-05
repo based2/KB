@@ -124,6 +124,10 @@ https://utcc.utoronto.ca/~cks/space/blog/tech/OpenSSHAndSHA1Deprecation
 https://mosh.org/
 > https://news.ycombinator.com/item?id=28150287
 
+#
+https://github.com/MegaManSec/SSH-Snake
+> https://news.ycombinator.com/item?id=38883094
+
 # Incident
 https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186
 

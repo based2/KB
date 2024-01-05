@@ -116,6 +116,8 @@ https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://news.ycombinator.com/item?id=38861034
+
 https://news.ycombinator.com/item?id=38673392
 
 https://github.com/OALabs/hashdb/blob/main/algorithms/mult21_add.py

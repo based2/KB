@@ -103,6 +103,9 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://github.com/astoilkov/main-thread-scheduling
+> https://news.ycombinator.com/item?id=38864791
+
 https://v5.chriskrycho.com/journal/how-to-do-a-typescript-conversion/
 > https://news.ycombinator.com/item?id=38145194
 

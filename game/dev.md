@@ -157,6 +157,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://bgammon.org/blog/20240101-hello-world/
+
 https://news.ycombinator.com/item?id=38854596
 
 https://bobbiec.github.io/white-elephant.html

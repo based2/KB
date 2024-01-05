@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://chaos.social/@f4grx/111697027153656114
+> https://news.ycombinator.com/item?id=38865518
+
 https://www.reuters.com/business/energy/spain-confirms-nuclear-power-phase-out-extends-renewable-projects-deadlines-2023-12-27/
 > https://news.ycombinator.com/item?id=38817518
 

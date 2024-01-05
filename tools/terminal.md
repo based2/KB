@@ -42,6 +42,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/tconbeer/harlequin sql
+> https://news.ycombinator.com/item?id=38882526
+
 https://linuxfr.org/news/comparaison-critique-de-systemes-d-invite-de-commande
 
 https://github.com/linhx/tbmk bookmarks
