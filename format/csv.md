@@ -17,3 +17,6 @@ https://github.com/BurntSushi/xsv rust
 
 https://github.com/jqnatividad/qsv
 > https://news.ycombinator.com/item?id=38733617
+
+https://github.com/YS-L/csvlens
+> https://news.ycombinator.com/item?id=38889820

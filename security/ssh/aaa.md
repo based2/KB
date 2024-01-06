@@ -127,6 +127,7 @@ https://mosh.org/
 #
 https://github.com/MegaManSec/SSH-Snake
 > https://news.ycombinator.com/item?id=38883094
+> https://old.reddit.com/r/netsec/comments/18yoezv/sshsnake_automated_selfpropagating/
 
 # Incident
 https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186

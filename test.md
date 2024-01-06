@@ -165,6 +165,9 @@ https://github.com/axllent/mailpit
 > https://news.ycombinator.com/item?id=36448686
 
 # News
+https://martinfowler.com/bliki/LegacySeam.html
+> https://news.ycombinator.com/item?id=38867528
+
 https://concerningquality.com/txn-isolation-testing/
 > https://news.ycombinator.com/item?id=38867841
 

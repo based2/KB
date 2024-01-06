@@ -178,3 +178,6 @@ https://e360.yale.edu/features/as-ocean-oxygen-levels-dip-fish-face-an-uncertain
 
 https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satellite-imagery-to-reveal-the-expanding-footprint-of-human-activity-at-sea/
 > https://news.ycombinator.com/item?id=38866256
+
+https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/
+> https://news.ycombinator.com/item?id=38890238

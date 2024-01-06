@@ -280,6 +280,8 @@ https://github.com/below/HelloSilicon introduction to ARM64 assembly on Apple Si
 > https://news.ycombinator.com/item?id=34128776
 
 # M3
+https://news.ycombinator.com/item?id=38884741
+
 https://news.ycombinator.com/item?id=38214806
 
 https://news.ycombinator.com/item?id=38125771

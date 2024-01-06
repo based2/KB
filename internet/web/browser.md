@@ -46,6 +46,12 @@ https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://lyra.horse/misc/chromium_vrp_tree.html bug bounty prices tree
+> https://news.ycombinator.com/item?id=38889833
+
+https://www.netsurf-browser.org/
+> https://news.ycombinator.com/item?id=38863933
+
 https://dillo-browser.github.io/
 > https://news.ycombinator.com/item?id=38847613
 

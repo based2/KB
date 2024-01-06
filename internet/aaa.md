@@ -35,4 +35,6 @@ https://www.circl.lu/pub/tr-567d30/ TR-567d30 - CIRCL Unveils Festive Nostalgic 
 
 https://news.ycombinator.com/item?id=38785317
 
+https://news.ycombinator.com/item?id=38873635
+
 

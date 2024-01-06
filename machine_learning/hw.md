@@ -7,6 +7,9 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://www.databricks.com/blog/llm-training-and-inference-intel-gaudi2-ai-accelerators
+> https://news.ycombinator.com/item?id=38887798
+
 https://www.amd.com/en/products/accelerators/instinct/mi300/mi300x.html
 > https://news.ycombinator.com/item?id=38760072
 

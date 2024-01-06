@@ -308,6 +308,8 @@ https://news.ycombinator.com/item?id=38310502 bi
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://www.johndcook.com/blog/2023/02/07/mediant-approximation-trick/
+
 http://hughjonesd.github.io/case-for-pipe-assignment.html
 > https://news.ycombinator.com/item?id=38813496
 

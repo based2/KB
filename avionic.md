@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout
+> https://news.ycombinator.com/item?id=38889774
+
 https://www.bloomberg.com/features/2016-bateman-airplane-safety-device/
 > https://news.ycombinator.com/item?id=38779968
 

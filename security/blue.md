@@ -69,3 +69,5 @@ https://archive.org/details/shmoocon2023/Shmoocon2023-Brandon_DeVault-Les_Misera
 https://www.thefinalhop.com/decoy-defenses-how-honeypots-sweeten-cybersecurity-strategies/
 
 https://github.com/mschwager/route-detect
+
+https://github.com/0x4D31/galah

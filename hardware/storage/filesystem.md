@@ -80,6 +80,9 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://thelig.ht/user-space-file-systems/
+> https://news.ycombinator.com/item?id=38883509
+
 https://github.com/macos-fuse-t/fuse-t kext-less implementation of FUSE for macOS that uses NFSv4
 > https://news.ycombinator.com/item?id=38775579
 

@@ -274,6 +274,9 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/
+> https://news.ycombinator.com/item?id=38888527
+
 https://wizardzines.com/comics/branches-have-no-rules/
 > https://lobste.rs/s/fqnqga/branches_have_no_rules
 

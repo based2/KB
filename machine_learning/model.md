@@ -184,6 +184,9 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d  Microsoft Phi-2 model changes licence to MIT
+> https://news.ycombinator.com/item?id=38889539
+
 https://arxiv.org/abs/2401.02385
 > https://news.ycombinator.com/item?id=38885054
 > https://github.com/jzhang38/TinyLlama

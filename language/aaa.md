@@ -356,6 +356,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=38883652
+
 https://github.com/attractivechaos/plb2
 > https://news.ycombinator.com/item?id=38850651
 

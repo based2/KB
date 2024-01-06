@@ -296,6 +296,8 @@ https://susam.net/blog/sorting-in-emacs.html
 
 https://news.ycombinator.com/item?id=38301644
 
+https://news.ycombinator.com/item?id=38886792
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

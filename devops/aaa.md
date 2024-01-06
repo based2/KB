@@ -114,6 +114,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/
+> https://johnstawinski.com/2024/01/05/worse-than-solarwinds-three-steps-to-hack-blockchains-github-and-ml-through-github-actions/
+> > https://old.reddit.com/r/netsec/comments/18zj1ui/intro_into_cicd_research_that_has_lead_to/
+
 https://www.prio-n.com/blog/cve-2023-42793-attacking-defending-JetBrains-TeamCity
 
 https://blog.securelayer7.net/confluence-authentication-bypass/

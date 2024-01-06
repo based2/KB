@@ -19,3 +19,5 @@ https://ieftimov.com/posts/deep-dive-cors-history-how-it-works-best-practices/
 https://news.ycombinator.com/item?id=34298263
 
 https://webauthn.wtf/
+
+https://cert.pl/en/posts/2024/01/artemis-security-scanner/

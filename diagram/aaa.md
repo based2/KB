@@ -53,6 +53,9 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://pikchr.org/home/doc/trunk/homepage.md
+> https://news.ycombinator.com/item?id=38885094
+
 https://github.com/GuntherRademacher/rr
 > https://news.ycombinator.com/item?id=38877399
 

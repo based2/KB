@@ -277,6 +277,13 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://github.com/ebarlas/java-httpserver-vthreads
+> https://old.reddit.com/r/java/comments/18vysrr/jdk_http_server_handles_100000_reqsec_with_100_ms/
+
+https://www.morling.dev/blog/one-billion-row-challenge/
+> https://github.com/gunnarmorling/1brc
+> https://old.reddit.com/r/java/comments/18w4oz4/gunnar_morling_the_one_billion_row_challenge/
+
 https://openjdk.org/jeps/453 Structured Concurrency (Preview)
 
 https://www.infoworld.com/article/3687670/project-valhalla-a-look-inside-javas-epic-refactor.html

@@ -146,6 +146,11 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://torstencurdt.com/tech/posts/modulo-of-negative-numbers/
+
+https://looo.lol/
+> https://news.ycombinator.com/item?id=38885758
+
 https://www.3blue1brown.com/topics/calculus
 > https://news.ycombinator.com/item?id=38687809
 

@@ -71,3 +71,6 @@ https://declassed.art/en/blog/2022/06/19/running-systemd-without-systemd-syslogd
 
 https://github.com/systemd/systemd/releases/tag/v251
 > https://systemd.io/UIDS-GIDS
+
+https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/
+> https://news.ycombinator.com/item?id=38889156

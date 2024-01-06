@@ -1,6 +1,8 @@
 https://www.hackingwithswift.com/100/swiftui
 > https://news.ycombinator.com/item?id=36359652
 
+https://news.ycombinator.com/item?id=38866170
+
 https://news.ycombinator.com/item?id=38198638
 
 https://news.ycombinator.com/item?id=38010021

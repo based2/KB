@@ -53,6 +53,8 @@ https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://www.linode.com/docs/guides/podman-vs-docker/
+
 https://github.com/ktock/container2wasm
 > https://news.ycombinator.com/item?id=38856559
 

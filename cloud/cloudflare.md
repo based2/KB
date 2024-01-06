@@ -9,6 +9,9 @@ https://blog.cloudflare.com/cloudflare-incident-on-october-30-2023/
 https://news.ycombinator.com/item?id=36294750
 
 # News
+https://github.com/gfodor/p2pcf
+> https://news.ycombinator.com/item?id=38884067
+
 https://blog.cloudflare.com/cloudflare-gen-12-server-bigger-better-cooler-in-a-2u1n-form-factor/
 > https://news.ycombinator.com/item?id=38490575
 

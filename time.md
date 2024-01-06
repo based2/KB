@@ -58,6 +58,9 @@ https://mm.icann.org/pipermail/tz/2022-March/031307.html
 
 https://github.com/k8tz/k8tz
 
+https://time.fyi/timezones
+> https://news.ycombinator.com/item?id=38876707
+
 # Scheduler
 https://news.ycombinator.com/item?id=26620738
 

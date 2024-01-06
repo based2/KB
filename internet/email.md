@@ -221,8 +221,10 @@ https://vigilance.fr/vulnerabilite/Perl-Mail-DKIM-absence-de-signature-via-Lower
 https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
-
 # News
+https://aosabook.org/en/v1/sendmail.html
+> https://news.ycombinator.com/item?id=38865218
+
 https://news.ycombinator.com/item?id=38809770 assistant
 
 https://forwardemail.net/en
