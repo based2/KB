@@ -13,6 +13,8 @@ https://arxiv.org/abs/2308.02945
 https://github.com/chipsalliance/riscv-dv
 
 #
+https://news.ycombinator.com/item?id=38895995
+
 https://www.bsc.es/news/bsc-news/bsc-presents-sargantana-the-new-generation-the-first-open-source-chips-designed-spain
 > https://news.ycombinator.com/item?id=38640406
 

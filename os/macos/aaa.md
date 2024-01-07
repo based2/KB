@@ -551,6 +551,9 @@ https://www.macworld.com/article/2130071/m3-macbook-pro-8gb-memory-too-little.ht
 https://github.com/AsahiLinux/docs/wiki/macOS-Sonoma-Boot-Failures
 > https://news.ycombinator.com/item?id=38089342
 
+https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/
+> https://news.ycombinator.com/item?id=37662510
+
 https://news.ycombinator.com/item?id=37333077 vm
 
 https://amitp.blogspot.com/2023/04/mac-keyboard-with-hidutil.html

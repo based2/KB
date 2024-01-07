@@ -62,3 +62,6 @@ https://github.com/suhaildawood/SvelteKit-integrated-WebSocket
 https://news.ycombinator.com/item?id=38413660
 
 https://news.ycombinator.com/item?id=38589764
+
+https://github.com/warmcat/libwebsockets
+> https://news.ycombinator.com/item?id=38896096

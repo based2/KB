@@ -236,6 +236,9 @@ https://news.ycombinator.com/item?id=38462932
 https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/
 > https://news.ycombinator.com/item?id=38543322
 
+https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems
+> https://news.ycombinator.com/item?id=38893614
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -278,6 +281,8 @@ https://news.ycombinator.com/item?id=38744785
 
 https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-microsoft-corporation
 > https://news.ycombinator.com/item?id=38795009
+
+https://news.ycombinator.com/item?id=38896259
 
 # History
 https://news.ycombinator.com/item?id=28343118

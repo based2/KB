@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://www.newscientist.com/article/mg26134722-100-worlds-first-tunnel-to-a-magma-chamber-could-unleash-unlimited-energy/
+> https://news.ycombinator.com/item?id=38895373
+
 https://chaos.social/@f4grx/111697027153656114
 > https://news.ycombinator.com/item?id=38865518
 

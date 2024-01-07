@@ -129,6 +129,8 @@ https://daily.jstor.org/tape-heads/
 https://www.maxlaumeister.com/tonematrix/
 > https://news.ycombinator.com/item?id=36524055
 
+https://news.ycombinator.com/item?id=38892685
+
 ## MIDI
 https://github.com/dwhinham/mt32-pi
 > https://news.ycombinator.com/item?id=28727084

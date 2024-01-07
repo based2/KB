@@ -373,11 +373,17 @@ https://blog.roboflow.com/yolo-nas-how-to-train-on-custom-dataset/
 https://www.canva.dev/blog/engineering/ship-shape/
 > https://news.ycombinator.com/item?id=38249214
 
+https://tolkunov.dev/posts/ai-or-not/
+> https://lobste.rs/s/ymf7h8/ai_not_detect_ai_generated_photos_using_ai
+
 # Color
 https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://anishathalye.com/inverting-photodna/
+> https://news.ycombinator.com/item?id=38895372
+
 https://www.wallpaper.com/art/exhibitions-shows/glitch-artists-explore-the-potential-in-imperfection-in-munich
 > https://news.ycombinator.com/item?id=38851736
 

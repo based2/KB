@@ -150,6 +150,8 @@ block from any to 4.14.70.6
 block from any to 4.180.245.121
 # https://www.abuseipdb.com/check/
 block from any to 4.193.144.219
+# https://blogs.blackberry.com/en/2023/09/silent-skimmer-online-payment-scraping-campaign-shifts-targets-from-apac-to-nala
+block from any to 4.216.137.19
 # https://www.abuseipdb.com/check/
 block from any to 4.233.192.143
 # A.ch TF
@@ -490,6 +492,8 @@ block from any to 23.200.212.0/24
 block from any to 23.234.231.99
 # https://www.virustotal.com/gui/url/e4e8d4636193129d25f46751dd1391678327d37d974edda81cd131987f496e8d/details
 block from any to 23.235.171.254
+# https://www.elastic.co/security-labs/elastic-catches-dprk-passing-out-kandykorn
+block from any to 23.254.226.90
 # a.ch TF
 block from any to 24.46.79.89
 # https://www.abuseipdb.com/check/
@@ -833,7 +837,7 @@ block from any to 38.113.162.153
 block from any to 38.134.107.17
 # abuse.ch TF
 block from any to 38.147.172.183
-#  https://www.abuseipdb.com/check/38.180.58.99
+# https://www.abuseipdb.com/check/38.180.58.99
 block from any to 38.180.58.99
 # abuse.ch TF
 block from any to 38.181.2.11
@@ -1666,6 +1670,8 @@ block from any to 52.188.84.174
 block from any to 52.192.163.129
 # abuse.ch TF
 block from any to 52.206.84.200
+# https://blogs.blackberry.com/en/2023/09/silent-skimmer-online-payment-scraping-campaign-shifts-targets-from-apac-to-nala
+block from any to 52.253.105.171
 # https://www.abuseipdb.com/check/
 block from any to 54.36.112.44
 # A.ch TF
@@ -1870,6 +1876,8 @@ block from any to 62.234.168.254
 # https://www.abuseipdb.com/check/
 block from any to 63.41.9.210
 block from any to 63.35.51.142
+# https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
+block from any to 64.44.141.15
 block from any to 64.62.197.0/24
 # https://www.abuseipdb.com/check/
 block from any to 64.62.197.10
@@ -2242,8 +2250,8 @@ block from any to 82.202.230.84
 block from any to 82.207.8.202
 # https://www.abuseipdb.com/check/
 block from any to 83.41.31.237
-# https://www.abuseipdb.com/check/
-block from any to 82.200.65.218
+# A.ch TF
+block from any to 83.97.20.86
 # https://www.abuseipdb.com/check/83.97.73.24
 block from any to 83.97.73.24
 # A.ch TF
@@ -2805,6 +2813,8 @@ block from any to 95.85.56.9
 block from any to 95.101.176.191
 # https://www.abuseipdb.com/check/
 block from any to 95.130.227.116
+# https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/
+block from any to 95.213.194.163
 # https://krebsonsecurity.com/2023/09/whos-behind-the-8base-ransomware-website/
 block from any to 95.216.51.74
 # https://www.abuseipdb.com/check/
@@ -2930,8 +2940,12 @@ block from any to 101.43.118.80
 block from any to 101.43.161.116
 # https://www.abuseipdb.com/check/
 block from any to 101.43.194.127
+# https://www.abuseipdb.com/check/101.46.51.170
+block from any to 101.46.51.170
 # https://www.abuseipdb.com/check/
 block from any to 101.89.165.209
+# https://www.elastic.co/security-labs/getting-gooey-with-guloader-downloader
+block from any to 101.99.75.183
 # https://github.com/blacklotuslabs/IOCs/blob/main/ZuoRAT_IoCs.txt
 block from any to 101.99.91.10
 # https://www.abuseipdb.com/check/
@@ -3186,6 +3200,8 @@ block from any to 104.131.131.82
 block from any to 104.131.128.21
 # https://www.abuseipdb.com/check/
 block from any to 104.131.144.9
+# https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
+block from any to 104.156.149.130
 # https://www.abuseipdb.com/check/
 block from any to 104.156.155.5
 # https://github.com/blacklotuslabs/IOCs/blob/main/KVbotnet_IOCs.txt
@@ -3196,6 +3212,10 @@ block from any to 104.156.254.41
 block from any to 104.157.2.130
 # https://www.abuseipdb.com/check/
 block from any to 104.168.24.196
+# https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
+block from any to 104.168.138.7
+# https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
+block from any to 104.168.167.88
 # https://www.abuseipdb.com/check/
 block from any to 104.193.111.38
 # https://www.abuseipdb.com/check/
@@ -3206,6 +3226,8 @@ block from any to 104.199.31.214
 block from any to 104.199.103.2
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
 block from any to 104.168.174.32
+# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 104.168.174.80
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
 block from any to 104.168.198.208
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
@@ -3233,10 +3255,12 @@ block from any to 104.236.179.241
 block from any to 104.223.43.123
 # https://www.abuseipdb.com/check/
 block from any to 104.225.234.248
-# A.ch TF
-block from any to 104.237.233.103
+# https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
+block from any to 104.234.147.28
 # https://maldbg.com/ipstorm-golang-malware-windows
 block from any to 104.236.76.40
+# A.ch TF
+block from any to 104.237.233.103
 # https://www.abuseipdb.com/check/
 block from any to 104.239.108.183
 # https://www.abuseipdb.com/check/
@@ -3261,6 +3285,10 @@ block from any to 104.249.26.239
 block from any to 104.254.246.59
 # https://www.abuseipdb.com/check/104.255.69.164
 block from any to 104.255.69.164
+# https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket
+block from any to 104.255.172.52
+# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 104.255.172.56
 # https://www.abuseipdb.com/check/
 block from any to 105.28.108.165
 # https://www.abuseipdb.com/check/
@@ -4040,7 +4068,11 @@ block from any to 143.110.245.172
 # https://www.abuseipdb.com/check/
 block from any to 143.0.200.226
 # https://www.abuseipdb.com/check/
+block from any to 143.92.62.29
+# https://www.abuseipdb.com/check/
 block from any to 143.110.220.40
+# https://www.abuseipdb.com/check/
+block from any to 143.110.245.172
 # https://www.abuseipdb.com/check/
 block from any to 143.198.166.42
 # https://www.virustotal.com/gui/ip-address/143.244.56.51/details
@@ -4131,6 +4163,8 @@ block from any to 149.28.197.120
 # abuse.ch TF
 block from any to 149.28.201.102
 block from any to 149.28.213.157
+# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 149.28.247.34
 # abuse.ch TF
 block from any to 149.40.49.119
 # https://www.abuseipdb.com/check/
@@ -4152,6 +4186,8 @@ block from any to 149.202.70.35
 block from any to 149.202.82.19
 # https://www.abuseipdb.com/check/149.210.78.118
 block from any to 149.210.78.118
+# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 149.248.52.31
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
 block from any to 149.255.58.47
 # https://www.abuseipdb.com/check/
@@ -4227,6 +4263,8 @@ block from any to 152.89.198.84
 block from any to 152.89.198.244
 # A.ch TF
 block from any to 152.89.217.215
+# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 152.89.247.87
 # https://www.abuseipdb.com/check/
 block from any to 152.136.171.156
 # https://www.abuseipdb.com/check/
@@ -4268,6 +4306,8 @@ block from any to 154.68.18.82
 block from any to 154.72.194.207
 # abuse.ch TF
 block from any to 154.92.14.85
+# https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/
+block from any to 154.127.59.186
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 154.181.248.88
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
@@ -4290,6 +4330,10 @@ block from any to 155.94.140.13
 block from any to 155.94.208.209
 # A.ch TF
 block from any to 155.138.140.156
+# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 155.138.219.140
+# https://www.elastic.co/security-labs/DPRK-strikes-using-a-new-variant-of-rustbucket https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 155.138.159.45
 # https://github.com/eset/malware-ioc/tree/master/gref
 block from any to 156.67.73.71
 # https://www.abuseipdb.com/check/
@@ -4348,6 +4392,8 @@ block from any to 157.245.158.225
 block from any to 157.245.220.196
 # https://www.abuseipdb.com/check/
 block from any to 157.245.216.87
+# https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/
+block from any to 158.69.149.52
 # https://www.abuseipdb.com/check/
 block from any to 158.160.118.66
 # https://www.abuseipdb.com/check/
@@ -4507,7 +4553,7 @@ block from any to 164.92.181.100
 # https://www.abuseipdb.com/check/
 block from any to 164.92.102.100
 # https://www.abuseipdb.com/check/
-block from any to 164.163.98.49
+block from any to 164.92.93.37
 # https://www.abuseipdb.com/check/
 block from any to 164.132.51.188
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
@@ -4631,10 +4677,8 @@ block from any to 170.64.210.206
 # https://www.abuseipdb.com/check/
 block from any to 170.64.210.207
 block from any to 170.79.219.0/24
-# https://www.abuseipdb.com/check/
-block from any to 170.64.220.104
 block from any to 170.79.220.0/24
-#  https://www.abuseipdb.com/check/
+# https://www.abuseipdb.com/check/
 block from any to 170.64.220.95
 # https://www.abuseipdb.com/check/
 block from any to 170.64.220.104
@@ -4670,6 +4714,8 @@ block from any to 171.243.226.90
 block from any to 172.58.204.92
 # https://www.abuseipdb.com/check/172.65.251.78
 block from any to 172.65.251.78
+# https://www.abuseipdb.com/check/
+block from any to 172.71.122.98
 # A.ch TF
 block from any to 172.81.61.59
 block from any to 172.86.75.0/24
@@ -4677,8 +4723,12 @@ block from any to 172.86.75.0/24
 block from any to 172.86.75.91
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 172.86.75.220
-# https://www.abuseipdb.com/check/
-block from any to 172.71.122.98
+# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 172.86.121.130
+# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 172.86.121.143
+# https://blog.sekoia.io/bluenoroffs-rustbucket-campaign/
+block from any to 172.93.181.221
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 172.105.215.208
 # https://www.abuseipdb.com/check/
@@ -5154,8 +5204,8 @@ block from any to 185.70.186.149
 block from any to 185.70.186.151
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 185.70.184.32
-# https://www.abuseipdb.com/check/
-block from any to 185.73.124.22
+# https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/
+block from any to 185.72.179.132
 # https://www.abuseipdb.com/check/185.73.124.228
 block from any to 185.73.124.228
 block from any to 185.74.4.0/24
@@ -5186,6 +5236,8 @@ block from any to 185.87.49.224
 block from any to 185.97.119.51
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
 block from any to 185.98.131.156
+# https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/
+block from any to 185.99.134.22
 # https://www.abuseipdb.com/check/
 block from any to 185.100.52.216
 block from any to 185.107.56.0/24
@@ -5307,10 +5359,8 @@ block from any to 185.196.20.125
 #block from any to 185.199.108.0/24
 # https://www.virustotal.com/gui/ip-address/185.199.108.133
 block from any to 185.199.108.133
-# https://www.virustotal.com/gui/ip-address/185.199.108.153
-block from any to 185.199.108.153
-# https://www.virustotal.com/gui/url/d3644b23fe295071b9db9ef72e7d5f2c49932e49155d6de1e47b5e8694118e4c
-block from any to 185.199.110.153
+# g-les.github.io https://www.virustotal.com/gui/url/d3644b23fe295071b9db9ef72e7d5f2c49932e49155d6de1e47b5e8694118e4c
+#block from any to 185.199.110.153
 # https://www.abuseipdb.com/check/
 block from any to 185.200.217.5
 block from any to 185.209.161.0/24
@@ -5320,6 +5370,8 @@ block from any to 185.209.161.89
 block from any to 185.209.161.162
 # https://www.abuseipdb.com/check/
 block from any to 185.210.19.109
+# https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/
+block from any to 185.212.128.28
 # https://www.abuseipdb.com/check/
 block from any to 185.216.26.142
 # https://www.abuseipdb.com/check/
@@ -5349,12 +5401,6 @@ block from any to 185.220.102.242
 block from any to 185.220.102.246
 # A.ch TF
 block from any to 185.220.204.33
-# https://www.abuseipdb.com/check/
-block from any to 185.227.153.103
-# https://www.abuseipdb.com/check/
-block from any to 185.200.217.5
-# https://www.abuseipdb.com/check/
-block from any to 185.220.100.247
 block from any to 185.221.85.3
 block from any to 185.221.87.23
 # A.ch TF
@@ -5633,6 +5679,8 @@ block from any to 192.0.78.24
 block from any to 192.0.101.246
 # https://www.abuseipdb.com/check/
 block from any to 192.42.116.28
+# https://www.elastic.co/security-labs/elastic-catches-dprk-passing-out-kandykorn
+block from any to 192.119.64.43
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
 block from any to 192.119.68.225
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
@@ -5941,10 +5989,6 @@ block from any to 198.199.101.115
 block from any to 198.235.24.0/24
 # https://www.abuseipdb.com/check/
 block from any to 198.235.24.198
-# https://www.abuseipdb.com/check/
-block from any to 198.235.24.205
-# https://www.abuseipdb.com/check/
-block from any to 198.235.24.208
 # https://www.abuseipdb.com/check/
 block from any to 198.235.24.205
 # https://www.abuseipdb.com/check/
@@ -6295,6 +6339,7 @@ block from any to 216.239.38.21
 # https://www.abuseipdb.com/check/216
 block from any to 216.244.203.68
 # https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf
+block from any to 217.57.80.1
 block from any to 217.57.80.18
 # https://www.abuseipdb.com/check/
 block from any to 217.64.104.107
@@ -6533,7 +6578,6 @@ block from any to 2406:da1b:160:5102:cc85:d393:2d16:91d1
 # https://www.abuseipdb.com/check/2600:3c07::f03c:93ff:fe61:f80b
 block from any to { 2600:1901:1:1:1:1:1:1/31 }
 # 2600:1901:0:38d7::: detectportal.firefox.com google https://www.abuseipdb.com/whois/2600:1901:0:38d7::
-# 2600:1901:0:38d7:::
 block from any to 2600:1901:0:92a9::
 block from any to 2600:1901:0:38d7::
 block from any to { 2600:1f18:1:1:1:1:1:1/31 }

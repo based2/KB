@@ -45,6 +45,8 @@ https://argocd-vault-plugin.readthedocs.io/en/stable/howitworks/
 https://p1.dso.mil/#/ Platform One
 
 #
+https://cd.foundation/blog/2023/10/12/speed-up-container-image-builds-tekton-pipelines/
+
 https://github.com/ThalesGroup/helm-spray
 
 https://thenewstack.io/harpoon-no-code-deployment-for-kubernetes/

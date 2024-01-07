@@ -146,6 +146,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://chrisdown.name/2020/01/13/1195725856-and-friends-the-origins-of-mysterious-numbers.html
+> https://news.ycombinator.com/item?id=38896787
+
 https://torstencurdt.com/tech/posts/modulo-of-negative-numbers/
 
 https://looo.lol/

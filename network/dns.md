@@ -383,6 +383,7 @@ https://nic.eu.org/
 > https://news.ycombinator.com/item?id=31650320
 
 https://www.dns.toys/
+> https://news.ycombinator.com/item?id=38899290
 > https://news.ycombinator.com/item?id=31637226
 > https://news.ycombinator.com/item?id=31704789
 

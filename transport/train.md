@@ -36,6 +36,9 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://maps.vasile.ch/transit-sbb/
+> https://news.ycombinator.com/item?id=38891712
+
 https://www.cnn.com/2023/12/27/business/daihatsu-japan-production-halt-safety-tests-intl-hnk/index.html
 > https://news.ycombinator.com/item?id=38809154
 

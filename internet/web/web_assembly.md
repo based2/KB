@@ -86,6 +86,7 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
 
 # News
 https://antonz.org/in-browser-code-playgrounds/
+> https://news.ycombinator.com/item?id=38891177
 
 https://dustinbrett.com/
 > https://news.ycombinator.com/item?id=38830132

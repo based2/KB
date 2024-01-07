@@ -3,7 +3,17 @@ https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware
 https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database
 > https://news.ycombinator.com/item?id=35581375
 
+https://objective-see.org/products/knockknock.html
+
+https://objective-see.org/products/blockblock.html
+
 #
+https://mullvad.net/en/blog/bug-in-macos-14-sonoma-prevents-our-app-from-working
+> https://news.ycombinator.com/item?id=37498979
+
+https://eclecticlight.co/2023/10/07/sonomas-log-gets-briefer-and-more-secretive/
+> https://news.ycombinator.com/item?id=37801354
+
 https://joshua.hu/apple-ios-patched-unpatched-vulnerabilities
 > https://news.ycombinator.com/item?id=38788273
 

@@ -8,6 +8,9 @@ https://neugierig.org/software/blog/2023/05/retrowin32-async-dll-tracing-zig.htm
 > > http://users.freenet.am/~softland/tutorials/Petite.v2.3.MUP.txt
 
 #
+https://github.com/rswier/swieros
+> https://news.ycombinator.com/item?id=38890540
+
 https://juiced.gs/emulators/
 
 https://devos50.github.io/blog/2023/ipod-touch-2g-qemu/

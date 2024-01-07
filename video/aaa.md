@@ -118,6 +118,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 > https://news.ycombinator.com/item?id=27055866
 
 # News
+https://news.ycombinator.com/item?id=38893684
+
 https://www.digitalcameraworld.com/news/this-holographic-camera-turns-any-window-into-an-invisible-camera
 > https://news.ycombinator.com/item?id=38881981
 

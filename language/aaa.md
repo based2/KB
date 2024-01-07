@@ -356,6 +356,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/
+> https://news.ycombinator.com/item?id=38876991
+
 https://news.ycombinator.com/item?id=38883652
 
 https://github.com/attractivechaos/plb2

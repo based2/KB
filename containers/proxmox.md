@@ -15,3 +15,5 @@ https://news.ycombinator.com/item?id=33695042
 https://gabrielsimmer.com/blog/messing-with-proxmox
 
 https://blog.stephane-robert.info/docs/virtualiser/type1/proxmox/ansible/
+
+https://www.servethehome.com/intel-x553-networking-and-proxmox-ve-8-1-3/

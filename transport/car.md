@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://carnewschina.com/2023/09/20/byds-yangwang-u8-launched-can-float-on-water-for-30-minutes-and-sail-3km-h/
+> https://news.ycombinator.com/item?id=38893534
+
 https://news.ycombinator.com/item?id=38795290
 
 https://electrek.co/2023/12/27/zeekr-launches-007-sedan-under-30000-over-50000-pre-orders/
