@@ -133,6 +133,20 @@ https://sequoia-pgp.org/blog/2022/03/24/202203-octopus-1.2.2/
 https://resend.com/blog/email-authentication-a-developers-guide
 > https://news.ycombinator.com/item?id=37263708
 
+## DKIM
+D0. https://datatracker.ietf.org/wg/dkim/documents/ DomainKeys Identified Mail (DKIM) Signatures
+> Errata: Updated by rfc8301, rfc8463, rfc8553, rfc8616
+> https://datatracker.ietf.org/doc/rfc8301/ Cryptographic Algorithm and Key Usage Update to DomainKeys Identified Mail (DKIM) RFC 8301     Scott Kitterman  2018-01-19
+> https://datatracker.ietf.org/doc/rfc8463/A New Cryptographic Signature Method for DomainKeys Identified Mail (DKIM) RFC 8463     John R. Levine    2018-09-12
+> https://datatracker.ietf.org/doc/rfc8553/ DNS Attrleaf Changes: Fixing Specifications That Use Underscored Node Names  RFC 8553 part of BCP 222 - RFC - Best Current Practice (March 2019)
+> https://datatracker.ietf.org/doc/rfc8616/ Email Authentication for Internationalized Mail RFC 8616     John R. Levine     2019-06-30
+> https://datatracker.ietf.org/doc/rfc6376/ DomainKeys Identified Mail (DKIM) Signatures RFC 6376 also known *as STD 76* Murray Kucherawy , Dave Crocker , Tony Hansen  2020-01-21
+> https://www.ietf.org/archive/id/draft-chuang-dkim-replay-problem-01.html DKIM Replay Problem Statement and Scenarios 10 February 2023   W. Chuang Google, Inc.; A. Robinson Google, Inc.; B. Gondwana, Fastmail Pty Ltd
+
+D1. https://dkim.org https://dkim.org/ietf-dkim.htm
+
+D2. https://jl.ly/Email/threemyths.html 04 Jul 2009  Three myths about DKIM John R. Levine
+
 ## STARTTLS
 https://sendgrid.com/blog/what-is-starttls/
 
@@ -222,6 +236,8 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=38988944
+
 https://aosabook.org/en/v1/sendmail.html
 > https://news.ycombinator.com/item?id=38865218
 

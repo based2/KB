@@ -94,6 +94,12 @@ https://arefmalek.github.io/blog/Airdraw/
 > https://news.ycombinator.com/item?id=38647938
 
 # News
+https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing
+> https://news.ycombinator.com/item?id=38950635
+
+https://www.diybookscanner.org/en/index.html
+> https://news.ycombinator.com/item?id=38877164
+
 https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html
 > https://news.ycombinator.com/item?id=38844943
 

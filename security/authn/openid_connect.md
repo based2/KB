@@ -13,6 +13,9 @@ https://oauth.net/2/pkce/
 https://fusionauth.io/blog/2020/07/08/auth-and-the-bottleneck-architecture/
 
 # Incident
+https://securityblog.omegapoint.se/en/writeup-keycloak-cve-2023-6027/
+> https://news.ycombinator.com/item?id=38964958
+
 https://trufflesecurity.com/blog/google-oauth-is-broken-sort-of/
 > https://old.reddit.com/r/netsec/comments/18jwgm0/google_oauth_is_broken_sort_of/
 

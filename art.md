@@ -46,6 +46,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://schollz.com/tinker/primitives/
+> https://news.ycombinator.com/item?id=38979370
+
 https://www.nms.ac.uk/explore-our-collections/stories/global-arts-cultures-and-design/grammar-of-ornament/
 > https://news.ycombinator.com/item?id=38866348
 

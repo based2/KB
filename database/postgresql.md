@@ -183,6 +183,9 @@ https://supabase.com/blog/2022/03/08/audit
 ## Backup
 https://abishekmuthian.com/backup-postgresql-to-cloud/
 
+https://pganalyze.com/blog/5mins-postgres-17-incremental-backups
+> https://news.ycombinator.com/item?id=38961463
+
 ## OOM
 https://info.crunchydata.com/blog/deep-postgresql-thoughts-the-linux-assassin
 
@@ -330,6 +333,14 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://elixirforum.com/t/partitioning-postgres-tables-by-timestamp-based-uuids/60916
+> https://news.ycombinator.com/item?id=38965965
+
+https://pganalyze.com/blog/exploring-postgres-vacuum-with-vacuum-simulator
+
+https://github.com/ossc-db/pg_rman
+> https://news.ycombinator.com/item?id=38915421
+
 https://github.com/paradedb/paradedb
 > https://news.ycombinator.com/item?id=38847571
 

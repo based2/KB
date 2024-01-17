@@ -157,6 +157,13 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=39001572
+
+https://news.ycombinator.com/item?id=38973023
+
+https://github.com/popcar2/GodotOS
+> https://news.ycombinator.com/item?id=38951172
+
 https://news.ycombinator.com/item?id=38897504
 
 https://bgammon.org/blog/20240101-hello-world/

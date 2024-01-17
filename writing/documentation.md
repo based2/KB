@@ -50,6 +50,9 @@ https://vlmantova.github.io/bookml/
 https://news.ycombinator.com/item?id=38201995
 
 #
+https://devdocs.io/
+> https://news.ycombinator.com/item?id=38972153
+
 https://www.ramijames.com/thoughts/docs-deserve-more-respect
 > https://news.ycombinator.com/item?id=38788788
 

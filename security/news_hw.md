@@ -8,6 +8,10 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://www.bleepingcomputer.com/news/security/framework-discloses-data-breach-after-accountant-gets-phished/
+
+https://0xbigshaq.github.io/2024/01/05/tp-link-tapo-c100/
+
 https://t3n.de/news/tesla-autopilot-hack-geheimer-elon-modus-1598800/
 > https://news.ycombinator.com/item?id=38781535
 

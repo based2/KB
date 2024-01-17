@@ -90,3 +90,6 @@ https://svg-tutorial.com/
 
 https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/
 > https://news.ycombinator.com/item?id=38752693
+
+https://prideout.net/blog/svg_knots/
+> https://news.ycombinator.com/item?id=38956861

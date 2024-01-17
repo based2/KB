@@ -25,6 +25,14 @@ https://linuxfr.org/news/reaction-remplacant-de-fail2ban go
 https://github.com/acriba/heimdall rust
 
 #
+https://www.theregister.com/2024/01/12/github_malware_popularity/
+
+https://www.theregister.com/2024/01/13/ivanti_zeroday_mandiant_analysis/
+> https://forums.ivanti.com/s/article/KB-CVE-2023-46805-Authentication-Bypass-CVE-2024-21887-Command-Injection-for-Ivanti-Connect-Secure-and-Ivanti-Policy-Secure-Gateways?language=en_US
+
+https://seemann.io/posts/2023-12-18-exploiting-quics-path-validation/
+> https://news.ycombinator.com/item?id=38979628
+
 https://00xbyte.github.io/posts/Don%27t-Believe-Your-Eyes-A-WhatsApp-Clickjacking-Vulnerability/
 > https://news.ycombinator.com/item?id=38732770
 

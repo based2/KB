@@ -1,3 +1,8 @@
+https://github.com/Valentin-Metz/writeup_factorio
+> https://old.reddit.com/r/netsec/comments/193ybt1/writeup_of_a_rce_in_factorio_by_supplying_a/
+
+https://www.bleepingcomputer.com/news/security/cisco-says-critical-unity-connection-bug-lets-attackers-get-root/
+
 https://www.bleepingcomputer.com/news/security/ubisoft-says-its-investigating-reports-of-a-new-security-breach/
 
 https://www.bbc.co.uk/news/technology-67663128

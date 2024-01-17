@@ -40,3 +40,6 @@ https://pauley.me/post/2023/spot-price-trends/
 https://news.ycombinator.com/item?id=37309762
 
 https://dzidas.com/cloud/2023/11/01/luck_or_skill/
+
+https://www.bitsand.cloud/posts/slashing-data-transfer-costs/
+> https://news.ycombinator.com/item?id=38998516

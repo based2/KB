@@ -111,6 +111,13 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://www.theregister.com/2024/01/10/google_tpu_patent_dispute/
+
+https://news.ycombinator.com/item?id=38938414
+
+https://transputer.net/welcome.asp
+> https://news.ycombinator.com/item?id=38901566
+
 https://news.ycombinator.com/item?id=38843675
 
 https://multimedia.cx/eggs/my-sbc-collection/

@@ -1,3 +1,6 @@
+https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability
+> https://news.ycombinator.com/item?id=38903032
+
 https://www.apple.com/newsroom/2023/12/apple-introduces-spatial-video-capture-on-iphone-15-pro/
 > https://news.ycombinator.com/item?id=38605765
 

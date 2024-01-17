@@ -25,6 +25,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://github.com/moturus/motor-os
+> https://news.ycombinator.com/item?id=38907568
+
 https://spectrum.ieee.org/try-this-new-analog-computer
 > https://news.ycombinator.com/item?id=38798501
 

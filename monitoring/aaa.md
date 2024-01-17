@@ -91,6 +91,8 @@ https://github.com/uptrace/uptrace Distributed Tracing Using OpenTelemetry and C
 https://rootly.io/blog/how-to-improve-upon-google-s-four-golden-signals-of-monitoring
 
 # Incident
+https://vigilance.fr/vulnerability/Centreon-Web-SQL-injection-43213
+
 https://discuss.elastic.co/t/8-11-1-7-17-15-security-update-esa-2023-25/347149 elasticsearch
 
 https://vigilance.fr/vulnerability/Cacti-SQL-injection-via-managers-php-form-actions-42739
@@ -116,6 +118,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://signoz.io/blog/opentelemetry-roundup-2023/
+> https://news.ycombinator.com/item?id=38971178
+
 https://github.com/grafana/pyroscope
 
 https://two-wrongs.com/system-observability-metrics-sampling-tracing

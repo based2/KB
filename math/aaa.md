@@ -146,6 +146,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/
+> https://news.ycombinator.com/item?id=38934226
+
 https://chrisdown.name/2020/01/13/1195725856-and-friends-the-origins-of-mysterious-numbers.html
 > https://news.ycombinator.com/item?id=38896787
 

@@ -148,7 +148,10 @@ https://netdevconf.info/1.2/papers/ktls.pdf
 > https://github.com/torvalds/linux/blob/master/Documentation/networking/tls.txt
 > https://news.ycombinator.com/item?id=15164568
 
-#
+# I
+https://blog.benjojo.co.uk/post/browsers-biggest-tls-mistake
+> https://news.ycombinator.com/item?id=38902414
+
 https://utcc.utoronto.ca/~cks/space/blog/web/WebProbeSpeedNewTLSCertificate
 > https://news.ycombinator.com/item?id=38620927
 

@@ -37,11 +37,16 @@ https://www.arewesixelyet.com/ Lists the support for the SIXEL graphics format a
 > https://en.wikipedia.org/wiki/Sixel
 > https://news.ycombinator.com/item?id=35936331
 
+https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con
+> https://news.ycombinator.com/item?id=38984096
+
 # Plot
 https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://news.ycombinator.com/item?id=38966601
+
 https://github.com/tconbeer/harlequin sql
 > https://news.ycombinator.com/item?id=38882526
 

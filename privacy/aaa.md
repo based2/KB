@@ -105,6 +105,17 @@ https://statut-diffusion-sirene.insee.fr/
 https://www.numerama.com/politique/1511774-le-gouvernement-envisage-de-prolonger-la-videosurveillance-par-ia-au-dela-des-jo-2024.html
 
 # News
+https://news.ycombinator.com/item?id=38993680
+
+https://news.ycombinator.com/item?id=38990755
+
+https://news.ycombinator.com/item?id=38971811
+
+https://news.ycombinator.com/item?id=38902407
+
+https://goodlawproject.org/nhs-to-investigate-palantir-influencer-campaign-as-possible-contract-breach/
+> https://news.ycombinator.com/item?id=38902983
+
 https://news.ycombinator.com/item?id=38886732
 
 https://news.ycombinator.com/item?id=38684252

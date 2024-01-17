@@ -1,3 +1,8 @@
+https://drgn.readthedocs.io/en/latest/case_studies/dm_crypt_key.html
+> https://news.ycombinator.com/item?id=38961533
+
+https://www.bleepingcomputer.com/news/security/kyberslash-attacks-put-quantum-encryption-projects-at-risk/
+
 https://www.mozilla.org/en-US/security/advisories/mfsa2021-51/
 
 https://people.redhat.com/~hkario/marvin/

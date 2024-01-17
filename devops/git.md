@@ -274,6 +274,12 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/
+> https://news.ycombinator.com/item?id=38942892
+
+https://github.com/extrawurst/gitui
+> https://news.ycombinator.com/item?id=38905019
+
 https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/
 > https://news.ycombinator.com/item?id=38888527
 

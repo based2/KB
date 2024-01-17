@@ -114,6 +114,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-zero-click-account-hijacking-vulnerability/
+
+https://about.gitlab.com/releases/2024/01/11/critical-security-release-gitlab-16-7-2-released/
+
 https://adnanthekhan.com/2023/12/20/one-supply-chain-attack-to-rule-them-all/
 > https://johnstawinski.com/2024/01/05/worse-than-solarwinds-three-steps-to-hack-blockchains-github-and-ml-through-github-actions/
 > > https://old.reddit.com/r/netsec/comments/18zj1ui/intro_into_cicd_research_that_has_lead_to/
@@ -452,6 +456,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.featbit.co/blogs/How-to-Integrate-Feature-Flags-with-GitHub-for-Efficient-Development-Workflows
+> https://news.ycombinator.com/item?id=38961424
+
 http://devops-pipeline.com/
 
 https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/

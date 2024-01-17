@@ -1,5 +1,9 @@
 https://www.gnu.org/software/bash/
 
+for i in {1..235}; do COMMAND-HERE "$i"
+chsh -s /bin/bash
+for i in {0..255}; echo "block from any to 192.168.1.$i" | pbcopy
+
 https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort Anybody can write good bash (with a little effort)
 
 https://zwischenzugs.com/2018/01/06/ten-things-i-wish-id-known-about-bash/

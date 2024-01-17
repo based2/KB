@@ -16,6 +16,14 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://news.ycombinator.com/item?id=38978705
+
+https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/
+> https://news.ycombinator.com/item?id=38917820
+
+https://www.reuters.com/business/aerospace-defense/alaska-737-cockpit-voice-recorder-data-erasure-renews-industry-safety-debate-2024-01-08/
+> https://news.ycombinator.com/item?id=38913212
+
 https://www.theguardian.com/us-news/2024/jan/06/alaska-airlines-grounds-boeing-737-max-9-planes-after-mid-air-window-blowout
 > https://news.ycombinator.com/item?id=38889774
 

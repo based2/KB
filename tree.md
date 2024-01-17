@@ -122,6 +122,8 @@ https://www.theguardian.com/us-news/2023/nov/30/new-york-city-tree-planting-lida
 https://en.wikipedia.org/wiki/Crown_shyness
 > https://news.ycombinator.com/item?id=38749170
 
+https://news.ycombinator.com/item?id=38961377
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 

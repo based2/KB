@@ -59,6 +59,7 @@ https://hypercard.org/
 
 https://internet-janitor.itch.io/decker
 > https://news.ycombinator.com/item?id=38386495
+> https://news.ycombinator.com/item?id=38985409
 
 https://hypervariety.com/WildCard/
 > https://news.ycombinator.com/item?id=29284296

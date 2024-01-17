@@ -12,6 +12,12 @@ https://tlakh.xyz/fuzzing-ping.html
 https://thevaluable.dev/practical-guide-fzf-example/
 
 #
+https://users.cs.utah.edu/~regehr/papers/cgo24.pdf
+> https://news.ycombinator.com/item?id=38962912
+
+https://spectrum.ieee.org/hardware-hacking
+> https://news.ycombinator.com/item?id=38906736
+
 https://events.ccc.de/congress/2023/hub/en/event/fuzzing_the_tcp_ip_stack/
 > https://news.ycombinator.com/item?id=38814560
 > > picoTCP

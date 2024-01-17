@@ -191,6 +191,11 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://github.com/aws/aws-lc-rs rust
+> https://news.ycombinator.com/item?id=38975912
+
+https://www.rfc-editor.org/rfc/rfc9497.html Oblivious Pseudorandom Functions (OPRFs) Using Prime-Order Groups
+
 https://blog.cr.yp.to/20240102-hybrid.html
 > https://news.ycombinator.com/item?id=38844117
 

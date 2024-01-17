@@ -52,3 +52,6 @@ https://susam.net/blog/from-vector-spaces-to-periodic-functions.html
 https://lantern.dev/blog/hnsw-index-creation
 > https://news.ycombinator.com/item?id=38844945
 
+https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf
+> https://news.ycombinator.com/item?id=38971221
+

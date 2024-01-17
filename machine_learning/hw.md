@@ -7,6 +7,10 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://news.ycombinator.com/item?id=38990561
+
+https://www.semianalysis.com/p/intel-genai-for-yield-tsmc-cfet-and
+
 https://www.databricks.com/blog/llm-training-and-inference-intel-gaudi2-ai-accelerators
 > https://news.ycombinator.com/item?id=38887798
 

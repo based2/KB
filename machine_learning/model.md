@@ -184,6 +184,19 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://grgv.xyz/blog/copycat2/
+> https://lobste.rs/s/evhzrv/task_vectors_analogy_making_llms
+
+https://paul.mou.dev/posts/2023-12-31-listening-with-llm/
+> https://github.com/moomou/moomou.github.io/blob/master/resume.html
+> https://news.ycombinator.com/item?id=38981216
+
+https://magazine.sebastianraschka.com/p/understanding-and-coding-self-attention
+
+https://globe.engineer/translator
+
+https://news.ycombinator.com/item?id=38965762
+
 https://huggingface.co/microsoft/phi-2/commit/7e10f3ea09c0ebd373aebc73bc6e6ca58204628d  Microsoft Phi-2 model changes licence to MIT
 > https://news.ycombinator.com/item?id=38889539
 

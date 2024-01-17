@@ -239,6 +239,14 @@ https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-
 https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems
 > https://news.ycombinator.com/item?id=38893614
 
+https://research.kudelskisecurity.com/2023/05/25/reducing-the-impact-of-prompt-injection-attacks-through-design/
+> https://perilous.tech/2023/10/24/prompt-injection-is-social-engineering-applied-to-applications/
+> >
+
+https://news.ycombinator.com/item?id=38974404
+
+https://news.ycombinator.com/item?id=38969533
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -347,6 +355,11 @@ https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 https://security.googleblog.com/2023/10/increasing-transparency-in-ai-security.html
 
 # Incident
+https://venturebeat.com/ai/new-study-from-anthropic-exposes-deceptive-sleeper-agents-lurking-in-ais-core/
+
+https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/
+> https://old.reddit.com/r/netsec/comments/1947pat/critical_pytorch_supply_chain_vulnerability/
+
 https://promptarmor.substack.com/p/data-exfiltration-from-writercom
 > https://news.ycombinator.com/item?id=38654533
 
@@ -469,6 +482,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=38972735
+
+https://tensornetwork.org/
 
 > https://news.ycombinator.com/item?id=38870249
 

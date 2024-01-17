@@ -116,6 +116,9 @@ https://bytes.zone/posts/modeling-crdts-in-alloy-counters/
 https://www.farley.ai/posts/causal
 > https://news.ycombinator.com/item?id=38661580
 
+https://interjectedfuture.com/trade-offs-between-different-crdts/
+> https://news.ycombinator.com/item?id=38916647
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

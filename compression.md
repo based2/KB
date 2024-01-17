@@ -230,3 +230,6 @@ http://ronja.twibright.com/optar/ Twibright Optar – OPTical ARchiver – a cod
 > https://news.ycombinator.com/item?id=30820836
 
 https://lists.apache.org/thread/kcbfdljy8cmk91t9z0wscpn77h0g0tfp
+
+https://shkspr.mobi/blog/2024/01/compressing-text-into-images/
+> https://news.ycombinator.com/item?id=38979549

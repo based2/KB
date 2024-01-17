@@ -77,6 +77,9 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://blog.regehr.org/archives/1393
+> https://news.ycombinator.com/item?id=38886718
+
 https://news.ycombinator.com/item?id=38885567
 
 https://liveplusplus.tech/

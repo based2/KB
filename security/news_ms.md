@@ -1,6 +1,14 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023%E2%80%9324955
+
+https://www.bleepingcomputer.com/news/security/cisa-critical-microsoft-sharepoint-bug-now-actively-exploited/
+
+https://www.theregister.com/2024/01/12/microsoft_sharepoint_vuln_exploit/
+
+https://starlabs.sg/blog/2023/09-sharepoint-pre-auth-rce-chain/
+
 https://adepts.of0x.cc/visual-studio-dcom/
 
 https://www.eye.security/blog/how-microsoft-might-have-lured-unsuspecting-end-users-into-the-hands-of-criminals

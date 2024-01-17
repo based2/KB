@@ -84,6 +84,9 @@ https://unit42.paloaltonetworks.com/jsonwebtoken-vulnerability-cve-2022-23529/
 > > https://news.ycombinator.com/item?id=34335244
 
 # News
+https://www.hanko.io/ de
+> https://github.com/teamhanko/hanko
+
 https://github.com/Quitten/Autorize
 > https://news.ycombinator.com/item?id=38801589
 

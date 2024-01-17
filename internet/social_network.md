@@ -107,6 +107,11 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://github.com/MozillaSocial/mozilla-social-android
+> https://news.ycombinator.com/item?id=38900632
+
+https://www.bleepingcomputer.com/news/security/x-users-fed-up-with-constant-stream-of-malicious-crypto-ads/
+
 https://blog.davep.org/2024/01/01/oshit.html
 > https://news.ycombinator.com/item?id=38831083
 

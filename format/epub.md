@@ -12,5 +12,8 @@ https://news.ycombinator.com/item?id=32789384
 
 https://koodo.960960.xyz/en
 
- https://calibre-ebook.com/new-in/sixteen
+https://calibre-ebook.com/new-in/sixteen
 > https://news.ycombinator.com/item?id=38316846
+
+https://github.com/every-day-things/citadel
+> https://news.ycombinator.com/item?id=38988019

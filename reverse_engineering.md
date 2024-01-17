@@ -40,6 +40,11 @@ https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
 
 #
+http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html
+> https://news.ycombinator.com/item?id=38951347
+
+https://blog.kenanb.com/code/low-level/2024/01/06/encoding-diagram-attempt.html
+
 https://www.righto.com/2023/12/amd-lance-ethernet-double-poly.html
 > https://news.ycombinator.com/item?id=38826187
 

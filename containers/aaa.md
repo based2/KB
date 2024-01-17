@@ -53,6 +53,14 @@ https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://www.ypsidanger.com/announcing-project-bluefin/
+> https://news.ycombinator.com/item?id=38992292
+
+https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/
+> https://news.ycombinator.com/item?id=38981844 systemd unit files
+
+https://news.ycombinator.com/item?id=38959668
+
 https://www.linode.com/docs/guides/podman-vs-docker/
 
 https://github.com/ktock/container2wasm

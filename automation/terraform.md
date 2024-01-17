@@ -332,6 +332,9 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://opentofu.org/blog/opentofu-is-going-ga/
+> https://news.ycombinator.com/item?id=38952222
+
 https://masterpoint.io/updates/terraform-null-label/
 
 https://github.com/opentofu/opentofu/blob/main/WEEKLY_UPDATES.md

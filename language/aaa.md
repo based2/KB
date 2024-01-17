@@ -356,6 +356,16 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=38966257
+
+https://news.ycombinator.com/item?id=38979356
+
+https://qsantos.fr/2024/01/04/dynamic-programming-is-not-black-magic/
+> https://news.ycombinator.com/item?id=38988948
+
+https://github.com/nirvanasupermind/owlet Programming Language for Ternary Computing
+> https://news.ycombinator.com/item?id=38964952
+
 https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/
 > https://news.ycombinator.com/item?id=38876991
 

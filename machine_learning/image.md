@@ -381,6 +381,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://midlibrary.io/styles
+> https://news.ycombinator.com/item?id=38976955
+
 https://anishathalye.com/inverting-photodna/
 > https://news.ycombinator.com/item?id=38895372
 

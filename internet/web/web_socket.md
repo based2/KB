@@ -65,3 +65,6 @@ https://news.ycombinator.com/item?id=38589764
 
 https://github.com/warmcat/libwebsockets
 > https://news.ycombinator.com/item?id=38896096
+
+https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c
+> https://news.ycombinator.com/item?id=38904574

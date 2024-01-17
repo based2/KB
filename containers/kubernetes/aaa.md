@@ -101,6 +101,8 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://encore.dev/blog/horror-stories-k8s
+
 https://news.ycombinator.com/item?id=38685393
 
 https://glasskube.eu/en/r/knowledge/5-helm-shortcomings/

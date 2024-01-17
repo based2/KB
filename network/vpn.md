@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://labs.watchtowr.com/welcome-to-2024-the-sslvpn-chaos-continues-ivanti-cve-2023-46805-cve-2024-21887/
+
 https://www.bleepingcomputer.com/news/security/fake-vpn-chrome-extensions-force-installed-15-million-times/
 
 https://maldbg.com/packed-android-proxy-framework Bright Data, hola

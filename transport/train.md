@@ -36,6 +36,11 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://www.japantimes.co.jp/business/2023/11/16/mexico-rail-rival-panama-canal/
+> https://news.ycombinator.com/item?id=38991317
+
+https://news.ycombinator.com/item?id=38964572
+
 https://maps.vasile.ch/transit-sbb/
 > https://news.ycombinator.com/item?id=38891712
 

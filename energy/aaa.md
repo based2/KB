@@ -16,6 +16,13 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=38941747
+
+https://news.cgtn.com/news/2024-01-06/How-the-world-s-first-fourth-generation-nuclear-power-plant-works-1q8JzrGNrj2/p.html
+> https://news.ycombinator.com/item?id=38903327
+
+https://energy.mit.edu/research/future-nuclear-energy-carbon-constrained-world/
+
 https://www.newscientist.com/article/mg26134722-100-worlds-first-tunnel-to-a-magma-chamber-could-unleash-unlimited-energy/
 > https://news.ycombinator.com/item?id=38895373
 

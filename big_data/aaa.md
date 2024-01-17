@@ -163,6 +163,10 @@ http://zeppelin.apache.org/
 ## Mito - Python  Panda
 https://towardsdatascience.com/introducing-mito-how-to-generate-pandas-code-while-editing-a-spreadsheet-96cf874b70c2
 
+##
+https://github.com/marimo-team/marimo
+> https://news.ycombinator.com/item?id=38971966
+
 ## Pluto - Julia
 https://plutojl.org/plutocon2021
 https://news.ycombinator.com/item?id=26745795

@@ -2,6 +2,8 @@ https://antonio-cooler.gitbook.io/coolervoid-tavern/ WAF from the scratch, Tips 
 
 https://www.ipfire.org/
 
+128.0.0.0/2
+
 https://blog.ipfire.org/post/security-announcement-mitigating-nat-slipstreaming
 
 https://blog.ipfire.org/post/beyond-the-far-side-thoughts-on-secure-and-private-machines-behind-ipfire
@@ -47,6 +49,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 #
+https://www.bleepingcomputer.com/news/security/juniper-warns-of-critical-rce-bug-in-its-firewalls-and-switches/
+
 https://www.bleepingcomputer.com/news/security/sophos-backports-rce-fix-after-attacks-on-unsupported-firewalls/
 
 https://www.bleepingcomputer.com/news/security/over-1-450-pfsense-servers-exposed-to-rce-attacks-via-bug-chain/

@@ -65,6 +65,12 @@ https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%2
 > https://news.ycombinator.com/item?id=27045771
 
 #
+http://www.axiom-developer.org/
+> https://news.ycombinator.com/item?id=38950000
+
+https://emallson.net/blog/a-beginners-companion-to-theorem-proving-in-lean/
+> https://news.ycombinator.com/item?id=38890873
+
 https://dafny.org/blog/2023/12/15/teaching-program-verification-in-dafny-at-amazon/
 
 https://news.ycombinator.com/item?id=38528582

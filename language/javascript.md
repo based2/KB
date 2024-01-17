@@ -216,6 +216,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://news.ycombinator.com/item?id=38977532
+
 https://storybook.js.org/blog/storybook-react-server-components/
 > https://news.ycombinator.com/item?id=38627855
 
@@ -635,6 +637,9 @@ https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073
 
 # Dynamic.js libjs
 
+#
+https://www.nodejs-security.com/blog/secure-javascript-coding-to-avoid-insecure-direct-object-references-idor
+
 # Incident
 https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bug-in-vm2-javascript-sandbox-library/
 > https://nvd.nist.gov/vuln/detail/CVE-2023-29017
@@ -642,6 +647,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://frontendmasters.com/blog/console-delight/
+
 https://www.onsclom.net/posts/javascript-tco
 > https://news.ycombinator.com/item?id=38823673
 

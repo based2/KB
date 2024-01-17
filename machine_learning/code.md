@@ -58,6 +58,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://github.com/vanna-ai/vanna
+> https://news.ycombinator.com/item?id=38992601
+
 https://arstechnica.com/gadgets/2024/01/ai-comes-for-your-pcs-keyboard-as-microsoft-adds-dedicated-copilot-key/
 > https://news.ycombinator.com/item?id=38881839
 

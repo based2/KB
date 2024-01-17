@@ -142,6 +142,17 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS
+> https://news.ycombinator.com/item?id=39002138
+
+https://tabokie.github.io/non-fiction/2024/01/13/log-kb.html
+> https://news.ycombinator.com/item?id=38978435
+
+https://news.ycombinator.com/item?id=38988987
+
+https://simjanos-dev.github.io/LinguaCafeHome/
+> https://news.ycombinator.com/item?id=38911088
+
 https://nick-black.com/dankwiki/index.php/Book_list_for_streetfighting_computer_scientists
 > https://news.ycombinator.com/item?id=38789332
 

@@ -54,6 +54,8 @@ https://support.apple.com/guide/security/sec469d47bd8/web
 
 * Who talk to me
     nettop -ln
+    sudo lsof -i -P
+    sudo lsof -i -P | grep LISTEN | grep :$PORT
 
 * Filter on loop back - port:63342 - IDE Jetbrains IDEA web server
      (sudo pfctl -sr 2>/dev/null; echo "block drop quick on all proto tcp from any to any port = 49806") | sudo pfctl -e -f - 2>/dev/null
@@ -61,9 +63,11 @@ https://support.apple.com/guide/security/sec469d47bd8/web
 * List PF filter rules
     sudo pfctl -sr 2>/dev/null
 
+    sudo pfctl -vnf /etc/pf.conf
+
 * Turn Wi-Fi Off via Command Line in Mac OS X
-networksetup -setairportpower airport off
-networksetup -setairportpower en0 off
+    networksetup -setairportpower airport off
+    networksetup -setairportpower en0 off
 
 /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport -I
 AirPort: Off
@@ -106,27 +110,21 @@ https://manjusri.ucsc.edu/2015/03/10/PF-on-Mac-OS-X/
 
 https://news.ycombinator.com/item?id=38404792
 
-example for ipv6:
+example for ipv6 IP ranges filter:
 
 block from any to { 2a00:1288:1:1:1:1:1:1/31 }
 block from any to { 2a00:1450:4007:1:1:1:1:1/21 }
-block from any to { 2a01:b740:1:1:1:1:1:1/31 }
-block from any to { 2a02:26f0:1:1:1:1:1:1/31 }
-block from any to { 2a04:4e42:1:1:1:1:1:1/31 }
-block from any to { 2a06:98c1:1:1:1:1:1:1/31 }
-block from any to { 2001:4860:1:1:1:1:1:1/31 }
-block from any to { 2400:52e0:1:1:1:1:1:1/31 }
-block from any to { 2600:1f18:1:1:1:1:1:1/31 }
-block from any to { 2600:1901:1:1:1:1:1:1/31 }
-block from any to { 2600:9000:1:1:1:1:1:1/31 }
-block from any to { 2604:a880:1:1:1:1:1:1/31 }
-block from any to { 2606:4700:1:1:1:1:1:1/31 }
-block from any to { 2606:50c0:1:1:1:1:1:1/31 }
-block from any to { 2800:68:1:1:1:1:1:1/31 }
 
 interface: idx-XX
 
-sudo lsof -i -P | grep LISTEN | grep :$PORT
+* /System/Library/PrivateFrameworks/
+
+https://stackoverflow.com/questions/2678047/what-are-private-frameworks-and-how-will-we-use-them
+
+https://stackoverflow.com/questions/65089767/class-amsupporturlconnectiondelegate-is-implemented-in-both
+> sudo xcode-select -r
+
+https://discussions.apple.com/thread/7271850?sortBy=best
 
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
@@ -235,6 +233,9 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 https://jvns.ca/blog/2018/01/28/mac-freeze/
 
 # VM
+https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/
+> https://news.ycombinator.com/item?id=38958266
+
 https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/
 > https://news.ycombinator.com/item?id=38803556
 
