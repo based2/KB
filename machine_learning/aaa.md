@@ -292,6 +292,8 @@ https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-micro
 
 https://news.ycombinator.com/item?id=38896259
 
+https://news.ycombinator.com/item?id=39026792
+
 # History
 https://news.ycombinator.com/item?id=28343118
 
@@ -355,6 +357,8 @@ https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 https://security.googleblog.com/2023/10/increasing-transparency-in-ai-security.html
 
 # Incident
+https://news.ycombinator.com/item?id=39019119
+
 https://venturebeat.com/ai/new-study-from-anthropic-exposes-deceptive-sleeper-agents-lurking-in-ais-core/
 
 https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/
@@ -482,6 +486,13 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=39000241
+
+https://news.ycombinator.com/item?id=39027428
+
+https://deepmind.google/discover/blog/alphageometry-an-olympiad-level-ai-system-for-geometry/
+> https://news.ycombinator.com/item?id=39029801
+
 https://news.ycombinator.com/item?id=38972735
 
 https://tensornetwork.org/

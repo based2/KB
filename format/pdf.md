@@ -20,6 +20,8 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://news.ycombinator.com/item?id=39027543
+
 https://nibblestew.blogspot.com/2023/12/tagged-pdf-funsies.html
 > https://news.ycombinator.com/item?id=38779746
 

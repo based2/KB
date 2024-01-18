@@ -135,6 +135,9 @@ https://pit-ray.github.io/win-vind/
 https://github.com/csdvrx/CuteVim
 > https://news.ycombinator.com/item?id=38766990
 
+https://github.com/SebastianMuskalla/ModelessVim
+> https://news.ycombinator.com/item?id=39008533
+
 # Nano
 https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/
 > https://news.ycombinator.com/item?id=34159341
@@ -361,6 +364,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://news.ycombinator.com/item?id=39031778
+
 https://blog.sanctum.geek.nz/series/unix-as-ide/
 > https://news.ycombinator.com/item?id=38789528
 

@@ -35,6 +35,8 @@ https://www.npmjs.com/package/rollup-plugin-lit-tailwindcss3
 
 https://contentblocksjs.com/
 
+https://news.ycombinator.com/item?id=39036693
+
 https://shoelace.style/
 > https://news.ycombinator.com/item?id=30900220
 > > https://github.com/SAP/ui5-webcomponents

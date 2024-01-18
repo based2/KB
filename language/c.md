@@ -77,6 +77,9 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://gustedt.wordpress.com/2024/01/16/white-space-does-matter-in-c23/
+> https://news.ycombinator.com/item?id=39024102
+
 https://blog.regehr.org/archives/1393
 > https://news.ycombinator.com/item?id=38886718
 

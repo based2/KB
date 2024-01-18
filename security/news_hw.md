@@ -8,6 +8,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html
+> https://news.ycombinator.com/item?id=39024228
+
 https://www.bleepingcomputer.com/news/security/framework-discloses-data-breach-after-accountant-gets-phished/
 
 https://0xbigshaq.github.io/2024/01/05/tp-link-tapo-c100/

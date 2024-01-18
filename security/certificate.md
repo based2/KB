@@ -37,6 +37,9 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incident
+https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html
+> https://news.ycombinator.com/item?id=39007384
+
 https://news.ycombinator.com/item?id=38825623
 
 https://news.ycombinator.com/item?id=38058658

@@ -344,6 +344,11 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://www.thestack.technology/vmware-is-killing-off-56-products-including-vsphere-hypervisor-and-nsx/
+> https://news.ycombinator.com/item?id=39048120
+
+https://news.ycombinator.com/item?id=39028672
+
 https://www.theregister.com/2024/01/08/gaiax_future/
 
 https://dl.acm.org/doi/10.1145/3593856.3595909

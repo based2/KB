@@ -58,6 +58,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://github.com/srikanth235/privy
+> https://news.ycombinator.com/item?id=39030170
+
 https://github.com/vanna-ai/vanna
 > https://news.ycombinator.com/item?id=38992601
 

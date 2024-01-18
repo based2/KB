@@ -274,6 +274,8 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://jyn.dev/2022/09/02/git-cheats.html
+
 https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/
 > https://news.ycombinator.com/item?id=38942892
 

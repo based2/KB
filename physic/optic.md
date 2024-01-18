@@ -1,5 +1,8 @@
 https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 
+https://global.canon/en/c-museum/special/exhibition2.html
+> https://news.ycombinator.com/item?id=39020258
+
 https://math.ucr.edu/home/baez/physics/Relativity/SpeedOfLight/c.html
 > https://news.ycombinator.com/item?id=36904892
 

@@ -23,6 +23,7 @@ https://intoli.com/blog/firefox-extensions-with-selenium/
 https://lynx.browser.org/
 
 https://www.brow.sh/
+> https://news.ycombinator.com/item?id=39022535
 
 https://fathy.fr/carbonyl
 > https://github.com/fathyb/carbonyl terminal

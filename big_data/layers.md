@@ -9,6 +9,8 @@ https://timeflow.systems/what-is-the-data-lakehouse-pattern/
 https://www.onehouse.ai/blog/apache-hudi-vs-delta-lake-vs-apache-iceberg-lakehouse-feature-comparison
 > https://news.ycombinator.com/item?id=34342190
 
+https://hudi.apache.org/ build streaming data lakes with incremental data pipelines on a self-managing database layer
+
 # Data Vault
 
 # Data Mesh
@@ -49,7 +51,14 @@ https://www.micahlerner.com/2021/08/07/posh-a-data-aware-shell.html
 https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback
 > https://news.ycombinator.com/item?id=28128360
 
-DataMart
+# DataMart
+
+# Data Format
+https://daffodil.apache.org/docs/dfdl/
+
+https://www.uber.com/en-US/blog/selective-column-reduction-for-datalake-storage-cost-efficiency/?uclick_id=118f4e52-3c02-4dbc-ad66-9633f9d2f7cd
+
+https://news.ycombinator.com/item?id=38999938
 
 # News
 https://research.google/pubs/napa-powering-scalable-data-warehousing-with-robust-query-performance-at-google/

@@ -121,6 +121,9 @@ https://media.ccc.de/v/rc3-2021-xhain-278-deine-software-die-si
 https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-schema-for-open-source-software/
 
 # Events
+## 2024
+PixieFall
+
 ## 2023
 https://terrapin-attack.com/ SSH
 

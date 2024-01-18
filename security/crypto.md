@@ -191,6 +191,11 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://ntietz.com/blog/rsa-deceptively-simple/
+> https://news.ycombinator.com/item?id=39029279
+
+https://www.bbc.com/news/technology-67997406
+
 https://github.com/aws/aws-lc-rs rust
 > https://news.ycombinator.com/item?id=38975912
 

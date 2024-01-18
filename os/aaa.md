@@ -25,6 +25,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://queue.acm.org/detail.cfm?id=3639445 isa
+> https://news.ycombinator.com/item?id=39031555
+
 https://github.com/moturus/motor-os
 > https://news.ycombinator.com/item?id=38907568
 

@@ -210,6 +210,9 @@ https://news.ycombinator.com/item?id=38321324
 https://github.com/yl4579/StyleTTS2
 > https://news.ycombinator.com/item?id=38335255
 
+https://github.com/collabora/WhisperSpeech
+> https://news.ycombinator.com/item?id=39036796
+
 # News
 https://github.com/facebookresearch/audio2photoreal
 > https://news.ycombinator.com/item?id=38870207

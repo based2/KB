@@ -16,6 +16,12 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://spectrum.ieee.org/micro-wind-power-kitepower
+> https://news.ycombinator.com/item?id=39043306
+
+https://www.samdumitriu.com/p/how-to-get-new-nuclear-built-faster
+> https://news.ycombinator.com/item?id=39035150
+
 https://news.ycombinator.com/item?id=38941747
 
 https://news.cgtn.com/news/2024-01-06/How-the-world-s-first-fourth-generation-nuclear-power-plant-works-1q8JzrGNrj2/p.html

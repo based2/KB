@@ -36,10 +36,6 @@ https://github.com/capitalone/DataProfiler
 
 https://uima.apache.org/
 
-## Datalake
-
-https://hudi.apache.org/ build streaming data lakes with incremental data pipelines on a self-managing database layer
-
 #
 https://github.com/Netflix/metaflow Build and manage real-life data science projects
 
@@ -55,11 +51,6 @@ https://heap.io/blog/accidentally-exponential-behavior-in-spark
 # Language
 https://github.com/grailbio/reflow incremental data processing in the cloud
 > https://news.ycombinator.com/item?id=27191360
-
-# Format
-https://daffodil.apache.org/docs/dfdl/
-
-https://www.uber.com/en-US/blog/selective-column-reduction-for-datalake-storage-cost-efficiency/?uclick_id=118f4e52-3c02-4dbc-ad66-9633f9d2f7cd
 
 #
 https://github.com/diachron

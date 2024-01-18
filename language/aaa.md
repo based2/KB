@@ -120,6 +120,8 @@ https://news.ycombinator.com/item?id=35422570
 https://github.com/m-ender/hexagony
 > https://news.ycombinator.com/item?id=35581768
 
+https://news.ycombinator.com/item?id=39026551
+
 # Grid
 https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid
 > https://news.ycombinator.com/item?id=38778550
@@ -356,6 +358,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/
+> https://news.ycombinator.com/item?id=39029908
+
 https://news.ycombinator.com/item?id=38966257
 
 https://news.ycombinator.com/item?id=38979356

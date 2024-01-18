@@ -165,6 +165,8 @@ https://github.com/axllent/mailpit
 > https://news.ycombinator.com/item?id=36448686
 
 # News
+https://news.ycombinator.com/item?id=39046844
+
 https://martinfowler.com/bliki/LegacySeam.html
 > https://news.ycombinator.com/item?id=38867528
 

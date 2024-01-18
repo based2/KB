@@ -80,6 +80,8 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://news.ycombinator.com/item?id=39042626
+
 https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html
 > https://news.ycombinator.com/item?id=38907821
 

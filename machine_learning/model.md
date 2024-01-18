@@ -176,6 +176,12 @@ https://github.com/pengxiao-song/LawGPT cn
 https://generallyintelligent.substack.com/p/fine-tuning-mistral-7b-on-magic-the
 > https://news.ycombinator.com/item?id=38533105
 
+# Test
+https://news.ycombinator.com/item?id=39042093
+
+https://developer.chrome.com/blog/supercharge-web-ai-testing
+> https://news.ycombinator.com/item?id=39017607
+
 # Meta
 https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589
@@ -184,6 +190,15 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://www.ikkaro.net/what-tinyml-is/
+> https://news.ycombinator.com/item?id=39014866
+
+https://stability.ai/news/stable-code-2024-llm-code-completion-release
+> https://news.ycombinator.com/item?id=39019532
+
+https://huggingface.co/spaces/EQTYLab/lineage-explorer
+> https://news.ycombinator.com/item?id=39044257
+
 https://grgv.xyz/blog/copycat2/
 > https://lobste.rs/s/evhzrv/task_vectors_analogy_making_llms
 
