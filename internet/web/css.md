@@ -251,6 +251,11 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915
 
 # News
+https://www.joshwcomeau.com/css/interactive-guide-to-grid/
+
+https://www.loadership.com/
+> https://news.ycombinator.com/item?id=39052219
+
 https://news.ycombinator.com/item?id=38655377
 
 https://news.ycombinator.com/item?id=38559607 css dither

@@ -23,6 +23,8 @@ https://github.com/mapbox/flamebearer flame graph tool for V8 and Node
 ## VueJS
 https://vuejs.org/
 
+https://github.com/vuejs/devtools-next
+
 https://vuejsdevelopers.com/2017/10/23/vue-js-tree-menu-recursive-components/
 
 https://github.com/vuejs/petite-vue
@@ -647,6 +649,8 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://j11y.io/cool-stuff/double-bitwise-not/
+
 https://frontendmasters.com/blog/console-delight/
 
 https://www.onsclom.net/posts/javascript-tco

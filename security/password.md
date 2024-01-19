@@ -26,6 +26,9 @@ https://zserge.com/posts/one-time-passwords/
 > https://www.reddit.com/r/programming/comments/n2ew7i/how_do_onetime_passwords_work/
 
 #
+https://www.troyhunt.com/inside-the-massive-naz-api-credential-stuffing-list/
+> https://news.ycombinator.com/item?id=39028122
+
 https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinbase-and-others-found-for-sale/
 > https://news.ycombinator.com/item?id=39041106
 

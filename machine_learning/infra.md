@@ -11,6 +11,8 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 https://news.ycombinator.com/item?id=37180017
 
 #
+https://news.ycombinator.com/item?id=39057005
+
 https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes
 > https://news.ycombinator.com/item?id=38547556
 

@@ -335,6 +335,9 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://gds.blog.gov.uk/2024/01/17/how-we-migrated-our-postgresql-database-with-11-seconds-downtime/
+> https://news.ycombinator.com/item?id=39048317
+
 https://wiki.postgresql.org/wiki/Operations_cheat_sheet
 > https://news.ycombinator.com/item?id=39042456
 

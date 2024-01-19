@@ -75,6 +75,14 @@ https://www.pixelicious.xyz/
 
 https://github.com/gotson/komga
 
+https://ai-cartoon-figure.club/home
+
+https://github.com/ihmily/image-matting
+
+https://github.com/pixpark/gpupixel/tree/main
+
+https://linuxfr.org/news/transformer-une-photo-en-bd-avec-le-filtre-comicbook-de-g-mic
+
 # Photography
 https://ansel.photos/en/
 > https://news.ycombinator.com/item?id=38390914

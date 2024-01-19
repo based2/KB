@@ -39,3 +39,5 @@ https://www.tlo.com/vehicle-sightings
 https://www.techdirt.com/2023/10/12/dhs-releases-previously-withheld-report-detailing-agencies-abuse-of-location-data-purchased-from-data-brokers/
 
 https://news.ycombinator.com/item?id=38102885
+
+https://www.bleepingcomputer.com/news/security/ftc-bans-one-more-data-broker-from-selling-your-location-info/

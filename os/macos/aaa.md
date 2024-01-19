@@ -233,6 +233,8 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 https://jvns.ca/blog/2018/01/28/mac-freeze/
 
 # VM
+https://news.ycombinator.com/item?id=39059100
+
 https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/
 > https://news.ycombinator.com/item?id=38958266
 

@@ -39,6 +39,8 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://news.ycombinator.com/item?id=39044727
+
 https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/
 > https://news.ycombinator.com/item?id=38037141
 

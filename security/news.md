@@ -1,3 +1,12 @@
+https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/
+> https://news.ycombinator.com/item?id=39061800
+
+https://www.theregister.com/2024/01/18/google_tag_coldriver_malware/
+
+https://www.theregister.com/2024/01/19/germany_fine_security/
+
+https://news.ycombinator.com/item?id=39059307
+
 https://eligrey.com/blog/link-fraud/
 > https://news.ycombinator.com/item?id=39003929
 

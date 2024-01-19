@@ -38,6 +38,9 @@ https://blog.sergeantbiggs.net/posts/hardening-applications-with-systemd/
 https://www.procustodibus.com/blog/2022/03/wireguard-dns-config-for-systemd/
 
 #
+https://michael.stapelberg.ch/posts/2024-01-17-systemd-indefinite-service-restarts/
+> https://news.ycombinator.com/item?id=39032752
+
 https://news.opensuse.org/2023/12/20/systemd-fde/ Full Disk Encryption in Tumbleweed and MicroOS
 
 https://www.phoronix.com/news/systemd-255

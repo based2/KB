@@ -236,6 +236,9 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html
+> https://news.ycombinator.com/item?id=39052196
+
 https://news.ycombinator.com/item?id=38988944
 
 https://aosabook.org/en/v1/sendmail.html

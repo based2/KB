@@ -142,6 +142,8 @@ https://github.com/vlcoo/P3synth
 > https://news.ycombinator.com/item?id=34831423
 
 #
+https://powersnail.com/ScoreInUrl/
+
 https://wavacity.com/
 > 
 

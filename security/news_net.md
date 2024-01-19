@@ -25,6 +25,10 @@ https://linuxfr.org/news/reaction-remplacant-de-fail2ban go
 https://github.com/acriba/heimdall rust
 
 #
+https://www.bleepingcomputer.com/news/security/teamviewer-abused-to-breach-networks-in-new-ransomware-attacks/
+
+https://www.mandiant.com/resources/blog/chinese-vmware-exploitation-since-2021
+
 https://www.theregister.com/2024/01/12/github_malware_popularity/
 
 https://www.theregister.com/2024/01/13/ivanti_zeroday_mandiant_analysis/

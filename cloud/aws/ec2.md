@@ -104,6 +104,9 @@ https://aws.amazon.com/en/blogs/compute/automating-the-creation-of-consistent-am
 https://moonbaseotago.github.io/2021/12/19/building-on-AWS/ risc-v
 
 # News
+https://lemire.me/blog/2024/01/18/how-much-memory-bandwidth-do-large-amazon-instances-offer/
+> https://news.ycombinator.com/item?id=39056099
+
 https://news.ycombinator.com/item?id=38465736
 
 https://www.bleepingcomputer.com/news/security/amazons-aws-ssm-agent-can-be-used-as-post-exploitation-rat-malware/

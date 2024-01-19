@@ -80,6 +80,9 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/
+> https://news.ycombinator.com/item?id=39060339
+
 https://news.ycombinator.com/item?id=39042626
 
 https://buredoranna.github.io/linux/ext4/2020/01/09/ext4-viz.html

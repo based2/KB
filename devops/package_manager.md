@@ -88,6 +88,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incident
+https://old.reddit.com/r/netsec/comments/19a9634/npm_package_found_delivering_rat_through_signed/
+
 https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/
 
 https://www.welivesecurity.com/en/eset-research/pernicious-potpourri-python-packages-pypi/

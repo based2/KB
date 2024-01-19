@@ -15,6 +15,8 @@ https://sookocheff.com/post/time/how-does-ntp-work/
 https://vigilance.fr/vulnerabilite/ntpsec-deni-de-service-via-NTS-Client-Request-Mode-3-41933
 
 # News
+https://news.ycombinator.com/item?id=39051246
+
 https://developers.cloudflare.com/time-services/nts
 
 https://0x7f.dev/post/ntp-implementation-in-elixir/

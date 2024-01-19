@@ -43,3 +43,5 @@ https://dzidas.com/cloud/2023/11/01/luck_or_skill/
 
 https://www.bitsand.cloud/posts/slashing-data-transfer-costs/
 > https://news.ycombinator.com/item?id=38998516
+
+https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernetes-versions-pricing/

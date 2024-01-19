@@ -146,6 +146,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://gmays.com/how-im-relearning-math-as-an-adult/
+> https://news.ycombinator.com/item?id=39047825
+
 https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/
 > https://news.ycombinator.com/item?id=38934226
 

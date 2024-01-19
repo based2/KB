@@ -486,6 +486,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://probml.github.io/pml-book/book2.html
+
 https://news.ycombinator.com/item?id=39000241
 
 https://news.ycombinator.com/item?id=39027428

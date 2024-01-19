@@ -14,6 +14,8 @@ https://pijul.org/posts/2022-01-08-beta/
 > https://news.ycombinator.com/item?id=29991417
 
 # I
+https://news.ycombinator.com/item?id=39056902
+
 https://outage.sr.ht/
 > https://news.ycombinator.com/item?id=38966035
 > > https://news.ycombinator.com/item?id=38939532
