@@ -146,6 +146,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions
+> https://news.ycombinator.com/item?id=39064174
+
 https://gmays.com/how-im-relearning-math-as-an-adult/
 > https://news.ycombinator.com/item?id=39047825
 

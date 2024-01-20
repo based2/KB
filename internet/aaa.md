@@ -37,4 +37,6 @@ https://news.ycombinator.com/item?id=38785317
 
 https://news.ycombinator.com/item?id=38873635
 
+https://news.ycombinator.com/item?id=39063732
+
 

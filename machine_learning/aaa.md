@@ -486,6 +486,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy#
+
 https://probml.github.io/pml-book/book2.html
 
 https://news.ycombinator.com/item?id=39000241

@@ -381,6 +381,11 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://www.faceswap.beauty/
+> https://news.ycombinator.com/item?id=39065429
+
+https://docs.facefusion.io/
+
 https://midlibrary.io/styles
 > https://news.ycombinator.com/item?id=38976955
 

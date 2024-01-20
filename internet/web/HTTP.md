@@ -183,6 +183,9 @@ https://nghttp2.org/nghttp3/
 
 https://github.com/Tencent/tquic
 
+https://eng.snap.com/quic-at-snap QUIC
+> https://news.ycombinator.com/item?id=27626394
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

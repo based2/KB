@@ -71,6 +71,8 @@ https://blog.ret2.io/2021/06/02/pwn2own-2021-jsc-exploit/
 
 https://www.flux.utah.edu/paper/watson-thesis
 
+https://arxiv.org/abs/2401.08287
+
 # Libraries
 https://ffmpegwasm.netlify.app/
 > https://news.ycombinator.com/item?id=28251801

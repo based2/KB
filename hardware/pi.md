@@ -17,6 +17,9 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://taoofmac.com/space/blog/2024/01/20/1800 The Orange Pi 5+
+> https://news.ycombinator.com/item?id=39070730
+
 https://news.ycombinator.com/item?id=38504134
 
 https://hardware.slashdot.org/story/23/11/17/0210233/scientists-use-raspberry-pi-tech-to-protect-nasa-telescope-data

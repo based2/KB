@@ -70,5 +70,7 @@ https://tympanus.net/Tutorials/WebGLLensRefraction/
 https://gpuweb.github.io/gpuweb/explainer/
 > https://news.ycombinator.com/item?id=38153585
 
+https://tympanus.net/codrops/2023/10/10/progressively-enhanced-webgl-lens-refraction/
+
 
 

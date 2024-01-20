@@ -37,6 +37,12 @@ https://bbycroft.net/llm
 https://github.com/laiyer-ai/llm-guard
 > https://news.ycombinator.com/item?id=37103757
 
+https://nightshade.cs.uchicago.edu/whatis.html
+> https://arxiv.org/abs/2310.13828
+> https://nightshade.cs.uchicago.edu/userguide.html
+> https://news.ycombinator.com/item?id=39067912
+> https://glaze.cs.uchicago.edu/what-is-glaze.html
+
 # llama Facebook - Forbids commercial use, weights required
 https://ai.meta.com/llama/ v2
 > https://news.ycombinator.com/item?id=36774627
@@ -190,6 +196,9 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://arxiv.org/abs/2401.05391
+> https://news.ycombinator.com/item?id=39069816
+
 https://www.ikkaro.net/what-tinyml-is/
 > https://news.ycombinator.com/item?id=39014866
 

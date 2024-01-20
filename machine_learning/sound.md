@@ -214,6 +214,9 @@ https://github.com/collabora/WhisperSpeech
 > https://news.ycombinator.com/item?id=39036796
 
 # News
+https://gitlab.com/literally-useful/voxos
+> https://news.ycombinator.com/item?id=39057005
+
 https://github.com/facebookresearch/audio2photoreal
 > https://news.ycombinator.com/item?id=38870207
 

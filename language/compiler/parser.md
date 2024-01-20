@@ -39,3 +39,6 @@ https://news.ycombinator.com/item?id=35798829
 https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html
 
 https://github.com/Mubelotix/faster-pest
+
+https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/
+> https://news.ycombinator.com/item?id=39066465

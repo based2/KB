@@ -53,26 +53,40 @@ https://witeboard.com/
 https://miro.com/en/tableau-en-ligne/
 
 # Presentations - Slide shows
-http://imakewebthings.com/deck.js/
+https://github.com/slidevjs/slidev vue.js vite
 
-https://revealjs.com/
+https://revealjs.com/ nodejs
+> https://github.com/hakimel/reveal.js/
+> https://slides.com/
+> https://github.com/13rac1/rjsmake
+> > https://pandoc.org/MANUAL.html#producing-slide-shows-with-pandoc
+> https://github.com/webpro/reveal-md
+> https://github.com/bigsense/presentations
+> https://slidesdown.github.io/learn.html
+> https://github.com/planetoftheweb/rayveal
+
+http://jdan.github.io/cleaver/
+> https://news.ycombinator.com/item?id=14211462
+
+https://github.com/LeaVerou/inspire.js
+> https://inspirejs.org/
 
 https://github.com/impress/impress.js
 
-https://marp.app/
+https://imakewebthings.com/deck.js/
+
+https://marp.app/ vs
 > https://blog.zwindler.fr/2021/09/13/marp-presentations-rapides-et-jolies-avec-markdown/
 
-https://mark.show/#
-> https://news.ycombinator.com/item?id=26931098
+https://github.com/FormidableLabs/spectacle
 
-https://susam.github.io/texme/examples/demo.html
+https://github.com/pomber/code-surfer
+
+https://news.ycombinator.com/item?id=26931098
+
+https://susam.github.io/texme/examples/demo.html Markdown + LaTeX
 
 https://houdini.how/about/
-
-https://github.com/slidevjs/slidev
-
-https://eng.snap.com/quic-at-snap QUIC
-> https://news.ycombinator.com/item?id=27626394
 
 https://github.com/codrops/SlideshowAnimations/
 

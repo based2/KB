@@ -1,3 +1,6 @@
+https://downloads.regulations.gov/FAA-2015-1621-0018/attachment_1.pdf
+> https://lobste.rs/s/1qyp4w/faa_safety_continuum_doctrine
+
 https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/
 > https://news.ycombinator.com/item?id=39061800
 

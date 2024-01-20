@@ -649,6 +649,11 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://lemire.me/blog/2023/12/05/how-fast-can-you-validate-utf-8-strings-in-javascript/
+> https://news.ycombinator.com/item?id=39071599
+
+https://lemire.me/blog/2023/12/08/fast-buffer-to-string-conversion-in-javascript-with-a-lookup-table/
+
 https://j11y.io/cool-stuff/double-bitwise-not/
 
 https://frontendmasters.com/blog/console-delight/

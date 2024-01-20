@@ -26,6 +26,9 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://mozilla.github.io/platform-tilt/
+> https://news.ycombinator.com/item?id=39061587
+
 https://fsfe.org/news/2023/news-20231220-01.sl.html
 > https://news.ycombinator.com/item?id=38726389
 

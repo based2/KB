@@ -191,3 +191,5 @@ https://www.poor.dev/terminal-anatomy/
 https://github.com/csdvrx/sixel-tmux
 > https://news.ycombinator.com/item?id=28756701
 
+https://github.com/maaslalani/slides go
+

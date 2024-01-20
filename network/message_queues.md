@@ -100,6 +100,8 @@ https://www.confluent.io/blog/cloud-native-data-streaming-kafka-engine/
 
 https://www.responsive.dev/blog/guide-to-kafka-streams-rebalancing
 
+https://github.com/Aiven-Open/karapace
+
 # Postgres
 https://webapp.io/blog/postgres-is-the-answer/
 > https://news.ycombinator.com/item?id=29599132

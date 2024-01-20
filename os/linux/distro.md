@@ -96,6 +96,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html
+
 https://www.redhat.com/en/blog/fastest-road-centos-linux-red-hat-enterprise-linux eol
 > https://news.ycombinator.com/item?id=38878587
 

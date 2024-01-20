@@ -50,6 +50,8 @@ https://soupault.app/blog/soupault-4.0.0-release/
 https://blot.im/how
 > https://news.ycombinator.com/item?id=38809145
 
+https://github.com/getzola/zola
+
 #
 https://news.ycombinator.com/item?id=38752435
 
