@@ -303,6 +303,8 @@ https://news.ycombinator.com/item?id=38310502 bi
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://baserow.io/
+
 https://endtimes.dev/why-lowercase-letters-save-data/
 > https://news.ycombinator.com/item?id=39065144
 > https://lobste.rs/s/alixhy/why_lowercase_letters_save_data

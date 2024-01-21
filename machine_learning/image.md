@@ -381,6 +381,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://thenextweb.com/news/new-ai-tool-democratised-image-generation
+> https://arxiv.org/abs/2311.16973
+
 https://www.faceswap.beauty/
 > https://news.ycombinator.com/item?id=39065429
 

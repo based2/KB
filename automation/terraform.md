@@ -332,6 +332,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://thenewstack.io/meet-openbao-an-open-source-fork-of-hashicorp-vagrant/
+
 https://opentofu.org/blog/opentofu-is-going-ga/
 > https://news.ycombinator.com/item?id=38952222
 

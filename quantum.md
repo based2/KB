@@ -94,6 +94,10 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://arstechnica.com/science/2023/12/quantum-computer-performs-error-resistant-operations-with-logical-qubits/
+
+https://arstechnica.com/science/2023/12/ibm-adds-error-correction-to-updated-quantum-computing-roadmap/
+
 https://spectrum.ieee.org/quantum-computing-skeptics
 > https://news.ycombinator.com/item?id=38745970
 
@@ -115,7 +119,6 @@ https://www.nature.com/articles/d41586-023-03511-7
 > https://news.ycombinator.com/item?id=38254866
 
 https://www.aalto.fi/en/news/research-group-detects-a-quantum-entanglement-wave-for-the-first-time-using-real-space-measurements
->
 
 https://news.ycombinator.com/item?id=37198673
 

@@ -81,3 +81,6 @@ https://github.com/izabera/cube.sed
 
 https://ianthehenry.com/posts/my-kind-of-repl/
 > https://news.ycombinator.com/item?id=36600639
+
+https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro/
+> https://news.ycombinator.com/item?id=39075316

@@ -42,10 +42,17 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3786702/ A Microfluidic D-subminiat
 
 https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-ability-influence-cell-behavior/
 
+https://thenextweb.com/news/dutch-biotech-startup-bags-e22m-for-proprietary-generative-ai-model
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.technologyreview.com/2023/11/10/1083222/covid-moonshot-drug-discovery-open-source/
+
+https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/
+> https://news.ycombinator.com/item?id=39072698
+
 https://technistuff.com/posts/simulating-a-minimal-cell/
 > https://news.ycombinator.com/item?id=39066165
 

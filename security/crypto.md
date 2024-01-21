@@ -191,6 +191,10 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.cryptographyengineering.com/2023/11/30/to-schnorr-and-beyond-part-2/
+
+https://blog.cryptographyengineering.com/2023/10/06/to-schnorr-and-beyond-part-1/
+
 https://ntietz.com/blog/rsa-deceptively-simple/
 > https://news.ycombinator.com/item?id=39029279
 

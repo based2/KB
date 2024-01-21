@@ -358,6 +358,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://pluto-lang.org/docs/Introduction
+
 https://buttondown.email/hillelwayne/archive/unusual-basis-types-in-programming-languages/
 > https://news.ycombinator.com/item?id=39029908
 

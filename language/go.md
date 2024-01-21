@@ -123,6 +123,8 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://gokrazy.org/
+
 https://blog.carlana.net/post/2024/golang-reflect-type-for/
 
 https://news.ycombinator.com/item?id=38984987

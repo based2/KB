@@ -42,3 +42,7 @@ https://github.com/Mubelotix/faster-pest
 
 https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/
 > https://news.ycombinator.com/item?id=39066465
+
+https://github.com/ohmjs/ohm
+> https://ohmjs.org/editor/
+> > https://dubroy.com/blog/visualizing-packrat-parsing/

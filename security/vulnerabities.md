@@ -125,13 +125,16 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 PixieFall
 
 ## 2023
-https://terrapin-attack.com/ SSH
+SMTP Smuggling – Spoofing E-Mails Worldwide
+
+https://en.wikipedia.org/wiki/Terrapin_attack
+> https://terrapin-attack.com/ SSH
 
 citrixbleed
 
 HTTP/2 Rapid Reset Attack
 
-Blastburst
+Blastburst image format
 
 zenbleed
 
@@ -157,7 +160,11 @@ PQC Rainbow signature scheme
 
 Baton Drop https://github.com/Wack0/CVE-2022-21894
 
+https://nvd.nist.gov/vuln/detail/CVE-2022-45124
+
 ## 2021
+https://en.wikipedia.org/wiki/HTTP_request_smuggling
+
 https://posts.specterops.io/shadow-credentials-abusing-key-trust-account-mapping-for-takeover-8ee1a53566ab Active Directory
 
 https://en.wikipedia.org/wiki/Log4Shell CVE-2021-44228
@@ -222,6 +229,9 @@ https://en.wikipedia.org/wiki/Microarchitectural_Data_Sampling Intel hyper-threa
 https://en.wikipedia.org/wiki/Universal_Plug_and_Play#Callback_Vulnerability
 
 ## 2018
+https://en.wikipedia.org/wiki/Facebook%E2%80%93Cambridge_Analytica_data_scandal
+> https://en.wikipedia.org/wiki/General_Data_Protection_Regulation
+
 https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability)
 
 https://en.wikipedia.org/wiki/Foreshadow speculative execution on intel proc
@@ -409,6 +419,8 @@ https://en.wikipedia.org/wiki/Code_Red_(computer_worm)
 https://en.wikipedia.org/wiki/ILOVEYOU Windows VB
 
 ## 1999
+https://en.wikipedia.org/wiki/Macro_virus
+
 https://www.linux.gr/DeCSS/decss.html
 
 https://en.wikipedia.org/wiki/NSAKEY

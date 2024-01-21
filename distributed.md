@@ -213,6 +213,9 @@ https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing
 # concurrencyngs
 
 # News
+https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+> https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
+
 https://www.youtube.com/watch?v=prM-0i58XBM
 
 https://github.com/infinyon/fluvio

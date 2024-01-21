@@ -39,6 +39,9 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 # News
+https://github.com/KRTirtho/spotube
+> https://news.ycombinator.com/item?id=39066136
+
 https://github.com/AzuraCast/AzuraCast
 > https://news.ycombinator.com/item?id=38822350
 

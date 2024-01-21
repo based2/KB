@@ -88,6 +88,8 @@ https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-a
 > https://news.ycombinator.com/item?id=35603168
 
 ## Trading
+https://www.schneier.com/blog/archives/2023/12/ai-decides-to-engage-in-insider-trading.html
+
 https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01
 > https://news.ycombinator.com/item?id=27763965
 

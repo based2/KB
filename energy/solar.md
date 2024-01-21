@@ -18,6 +18,9 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://thecomputerperson.wordpress.com/2016/08/03/enphase-envoy-s-data-scraping/
+> https://lobste.rs/s/213xiu/enphase_envoy_s_data_scraping_2016
+
 https://solar.lowtechmagazine.com/2023/12/how-to-build-a-small-solar-power-system/
 > https://news.ycombinator.com/item?id=38787129
 

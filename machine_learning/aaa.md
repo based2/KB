@@ -241,11 +241,14 @@ https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks
 
 https://research.kudelskisecurity.com/2023/05/25/reducing-the-impact-of-prompt-injection-attacks-through-design/
 > https://perilous.tech/2023/10/24/prompt-injection-is-social-engineering-applied-to-applications/
-> >
 
 https://news.ycombinator.com/item?id=38974404
 
 https://news.ycombinator.com/item?id=38969533
+
+https://techxplore.com/news/2023-12-customized-gpt-vulnerability.html
+
+https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/
 
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
@@ -270,6 +273,9 @@ https://people.dbmi.columbia.edu/~ehs7001/Buchanan-Shortliffe-1984/MYCIN%20Book.
 # Web
 https://github.com/mlc-ai/web-llm
 > https://news.ycombinator.com/item?id=35583349
+
+# Biz
+https://9to5mac.com/2023/12/05/ai-alliance/
 
 # Legal
 https://news.ycombinator.com/item?id=38373191
@@ -357,6 +363,8 @@ https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 https://security.googleblog.com/2023/10/increasing-transparency-in-ai-security.html
 
 # Incident
+https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html
+
 https://news.ycombinator.com/item?id=39019119
 
 https://venturebeat.com/ai/new-study-from-anthropic-exposes-deceptive-sleeper-agents-lurking-in-ais-core/
@@ -486,6 +494,13 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://hivekit.io/blog/building-ai-without-a-neural-network/
+
+https://techxplore.com/news/2023-12-deepmind-ai-social-capabilities.html
+
+https://www.cs.rice.edu/~eugeneng/papers/SOSP23.pdf Gemini: Fast Failure Recovery in Distributed Training with In-Memory Checkpoints
+> https://news.ycombinator.com/item?id=39074646
+
 https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy#
 
 https://probml.github.io/pml-book/book2.html

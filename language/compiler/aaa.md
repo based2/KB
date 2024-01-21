@@ -149,6 +149,9 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://hboehm.info/gc/
+> https://news.ycombinator.com/item?id=39077535
+
 https://news.ycombinator.com/item?id=38938402
 
 https://gist.github.com/FeepingCreature/5dff669aad380a123b15659e195fb96c amd64

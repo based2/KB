@@ -81,6 +81,8 @@ https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/
 > https://news.ycombinator.com/item?id=38653110
 
 # News
+https://news.ycombinator.com/item?id=39072427
+
 https://richg42.blogspot.com/2023/12/announcing-cpng-compatible-network.html
 > https://news.ycombinator.com/item?id=38554281
 

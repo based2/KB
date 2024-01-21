@@ -460,6 +460,10 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://martinfowler.com/articles/continuousIntegration.html
+> https://martinfowler.com/recent-changes.html
+> > https://news.ycombinator.com/item?id=39065631
+
 https://www.featbit.co/blogs/How-to-Integrate-Feature-Flags-with-GitHub-for-Efficient-Development-Workflows
 > https://news.ycombinator.com/item?id=38961424
 

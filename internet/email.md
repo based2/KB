@@ -198,6 +198,12 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # i
+https://media.ccc.de/v/37c3-11782-smtp_smuggling_spoofing_e-mails_worldwide SMTP Smuggling – Spoofing E-Mails Worldwide
+> https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/
+> > https://www.cisco.com/c/en/us/support/docs/security/email-security-appliance-c690x/221532-response-to-cisco-secure-email-smtp-smug.html
+> https://en.wikipedia.org/wiki/CERT_Coordination_Center
+> https://www.postfix.org/smtp-smuggling.html
+
 https://vigilance.fr/vulnerability/OpenDKIM-spoofing-via-Sender-Address-43011
 
 https://www.bleepingcomputer.com/news/security/google-hackers-exploited-zimbra-zero-day-in-attacks-on-govt-orgs/

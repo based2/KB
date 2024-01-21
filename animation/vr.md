@@ -1,3 +1,7 @@
+https://github.com/PixarAnimationStudios/OpenUSD
+
+https://thenewstack.io/openusd-could-enable-a-real-metaverse/
+
 https://www.theverge.com/2024/1/7/24024442/xreal-air-2-ultra-developer-ar-glasses-6dof-tracking-pricing-availability
 > https://news.ycombinator.com/item?id=38903032
 

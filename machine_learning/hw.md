@@ -7,6 +7,12 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://www.nvidia.com/en-gb/data-center/h200/
+
+https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure
+
+https://thenewstack.io/arm-pushes-ai-into-the-smallest-iot-devices-with-cortex-m52-chip/
+
 https://news.ycombinator.com/item?id=38990561
 
 https://www.semianalysis.com/p/intel-genai-for-yield-tsmc-cfet-and

@@ -5,3 +5,5 @@ https://www.bleepingcomputer.com/news/security/github-can-now-auto-block-commits
 https://pypi.org/project/pip-audit/
 
 https://github.com/NASA-SW-VnV/ikos/discussions/253
+
+https://www.shellcheck.net/

@@ -441,6 +441,8 @@ https://authzed.com/blog/onboarding-with-an-m1/
 > https://news.ycombinator.com/item?id=26843228
 
 # Apple
+https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/
+
 https://news.ycombinator.com/item?id=38773037
 
 https://www.theregister.com/2023/12/18/beeper_blocked_imessage_whacamole_continues/

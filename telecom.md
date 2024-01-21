@@ -144,6 +144,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://media.ccc.de/v/32c3-7133-beyond_your_cable_modem SIP VoIP
+
 https://www.bleepingcomputer.com/news/technology/major-t-mobile-outage-takes-down-account-access-mobile-app/
 
 https://benjojo.co.uk/u/benjojo/h/r1zj333N4L6cF7P1xv
@@ -214,6 +216,15 @@ https://www.euronews.com/next/2023/02/05/italy-telecoms
 https://news.ycombinator.com/item?id=34570065
 
 https://news.ycombinator.com/item?id=34665023
+
+https://nvd.nist.gov/vuln/detail/CVE-2022-27250
+
+https://research.checkpoint.com/2022/vulnerability-within-the-unisoc-baseband/
+> https://en.wikipedia.org/wiki/List_of_UNISOC_systems_on_chips
+
+http://archive.hack.lu/2010/Weinmann-All-Your-Baseband-Are-Belong-To-Us-slides.pdf
+
+https://media.ccc.de/v/27c3-4090-en-baseband_apocalypse
 
 # News
 https://news.ycombinator.com/item?id=38961899

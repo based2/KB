@@ -8,6 +8,10 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 > https://news.ycombinator.com/item?id=36168836
 
 #
+https://nvd.nist.gov/vuln/detail/CVE-2021-30260
+
+https://faculty.cc.gatech.edu/~genkin/papers/lendear.pdf Lend Me Your Ear: Passive Remote Physical Side Channels on PC
+
 https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-responses-through-leaked-gpu-local-memory/
 > https://lobste.rs/s/4uude2/leftoverlocals_listening_llm_responses
 

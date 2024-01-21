@@ -126,6 +126,9 @@ https://www.politico.eu/article/dutch-scandal-serves-as-a-warning-for-europe-ove
 > https://news.ycombinator.com/item?id=31013994
 
 # News
+https://arxiv.org/abs/1604.03655 A Discrete and Bounded Envy-Free Cake Cutting Protocol for Any Number of Agents
+> https://news.ycombinator.com/item?id=39060958
+
 https://github.com/Dicklesworthstone/bakery_algorithm
 > https://news.ycombinator.com/item?id=39056930
 
