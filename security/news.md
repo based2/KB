@@ -1,5 +1,7 @@
 https://media.ccc.de/v/37c3-12224-security_nightmares#t=0
 
+https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h22023.pdf
+
 https://downloads.regulations.gov/FAA-2015-1621-0018/attachment_1.pdf
 > https://lobste.rs/s/1qyp4w/faa_safety_continuum_doctrine
 

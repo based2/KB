@@ -25,6 +25,12 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://mail-archive.freebsd.org/cgi/getmsg.cgi?fetch=414797+0+current/freebsd-hackers
+> https://news.ycombinator.com/item?id=39081166
+
+https://www.notebookcheck.net/Huawei-claims-HarmonyOS-NEXT-kernel-is-3x-more-efficient-than-Linux.795125.0.html
+> https://news.ycombinator.com/item?id=39080993
+
 https://queue.acm.org/detail.cfm?id=3639445 isa
 > https://news.ycombinator.com/item?id=39031555
 

@@ -77,6 +77,9 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://lemire.me/blog/2024/01/21/c23-a-slightly-better-c/
+> https://news.ycombinator.com/item?id=39081948
+
 https://flak.tedunangst.com/post/memory-leak-proof-every-C-program
 > https://news.ycombinator.com/item?id=39059925
 

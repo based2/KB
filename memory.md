@@ -146,3 +146,5 @@ https://www.youtube.com/watch?v=0ihChIaN8d0
 https://news.ycombinator.com/item?id=38604990
 
 https://news.ycombinator.com/item?id=38732272
+
+https://news.ycombinator.com/item?id=39067423

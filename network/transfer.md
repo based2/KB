@@ -95,4 +95,7 @@ https://powersync.com/
 
 https://susam.net/blog/file-transfer-with-ssh-tee-and-base64.html
 
+https://www.sharedrop.io/
+> https://news.ycombinator.com/item?id=39079256
+> > https://github.com/spieglt/flyingcarpet
 

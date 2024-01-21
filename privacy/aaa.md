@@ -106,6 +106,7 @@ https://www.numerama.com/politique/1511774-le-gouvernement-envisage-de-prolonger
 
 # News
 https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159
+> https://news.ycombinator.com/item?id=39078417
 
 https://wingu.se/2023/11/30/only-apple-can-do-allow-apps-tracking-users-location-without-consensus.html
 

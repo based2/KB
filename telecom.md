@@ -144,6 +144,9 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://www.tietoevry.com/en/newsroom/all-news-and-releases/other-news/2024/01/mim-jan-20/
+> https://news.ycombinator.com/item?id=39066956
+
 https://media.ccc.de/v/32c3-7133-beyond_your_cable_modem SIP VoIP
 
 https://www.bleepingcomputer.com/news/technology/major-t-mobile-outage-takes-down-account-access-mobile-app/
