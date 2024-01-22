@@ -74,6 +74,9 @@ https://news.ycombinator.com/item?id=38331173
 https://victoriametrics.com/blog/bsl-is-short-term-fix-why-we-choose-open-source/
 
 # Incident
+https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl
+> https://news.ycombinator.com/item?id=39075136
+
 https://libreboot.org/news/gnuboot.html#gnu-boot-cease-and-desist-email
 > https://news.ycombinator.com/item?id=36926852
 

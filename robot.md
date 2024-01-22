@@ -101,6 +101,9 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+http://guillaumeslizewicz.com/posts/2023/vertical_printer/
+> https://news.ycombinator.com/item?id=39079335
+
 https://transitiverobotics.com/blog/self-hosting/
 
 https://venturebeat.com/automation/stanfords-mobile-aloha-robot-learns-from-humans-to-cook-clean-do-laundry/

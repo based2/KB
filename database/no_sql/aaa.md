@@ -1,6 +1,9 @@
 https://twitter.com/erickramirezau/status/1578063811495477248 Cassandra at Apple: 1000s of Clusters, 300k Nodes, 100 PB
 > https://news.ycombinator.com/item?id=33124631
 
+https://blog.datomic.com/2023/08/datomic-local-is-released.html
+> https://news.ycombinator.com/item?id=39080974
+
 https://news.ycombinator.com/item?id=38508324
 
 https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/

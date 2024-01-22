@@ -156,6 +156,9 @@ https://home.robusta.dev/blog/whyprofiler-the-worlds-first-hybrid-cpu-profiler-n
 https://bloomberg.github.io/memray/index.html
 > https://news.ycombinator.com/item?id=38561682
 
+https://madebyme.today/blog/python-dict-vs-curly-brackets/
+> https://news.ycombinator.com/item?id=39094237
+
 # Package
 
 https://antonz.org/python-packaging/

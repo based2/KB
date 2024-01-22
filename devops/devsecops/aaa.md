@@ -155,3 +155,5 @@ https://security.googleblog.com/2022/10/announcing-guac-great-pairing-with-slsa.
 
 https://swagitda.com/blog/posts/securing-the-supply-chain-of-nothing/
 > https://news.ycombinator.com/item?id=32885062
+
+https://news.ycombinator.com/item?id=39094387

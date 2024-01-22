@@ -97,6 +97,9 @@ https://www.shadowserver.org/what-we-do/network-reporting/
 https://github.com/yggdrasil-network/yggdrasil-go Early-stage implementation of an end-to-end encrypted IPv6 network
 > https://news.ycombinator.com/item?id=27577201
 
+https://github.com/joeavanzato/LogBoost
+> https://old.reddit.com/r/netsec/comments/19bdl6j/logboost_a_tool_for_parsing_and_enriching_ip/
+
 # History
 https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 > https://news.ycombinator.com/item?id=27673945

@@ -26,6 +26,10 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://news.ycombinator.com/item?id=39089364
+
+https://brave.com/privacy-updates/28-sunsetting-strict-fingerprinting-mode/
+
 https://mozilla.github.io/platform-tilt/
 > https://news.ycombinator.com/item?id=39061587
 

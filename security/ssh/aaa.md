@@ -166,6 +166,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://lists.apache.org/thread/37tdq312yltgrgf4lmmjw6lfybkpldsh
+> GH-445 OpenSSH "strict key exchange" protocol extension (CVE-2023-48795 mitigation)
+
 https://trofi.github.io/posts/295-ssh-over-https.html
 > https://news.ycombinator.com/item?id=38731402
 

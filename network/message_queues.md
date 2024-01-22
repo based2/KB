@@ -143,6 +143,9 @@ https://engineering.fb.com/2022/01/18/production-engineering/foqs-disaster-ready
 https://lists.apache.org/thread/8cz89d40h6t6wzplxjm523w91lmm6djw CVE-2022-41672: Apache Airflow: Session still functional after user is deactivated
 
 # News
+https://www.inngest.com/blog/building-the-inngest-queue-pt-i-fairness-multi-tenancy
+> https://news.ycombinator.com/item?id=39092849
+
 https://news.ycombinator.com/item?id=39041477
 
 https://github.com/thingsboard/tbmq

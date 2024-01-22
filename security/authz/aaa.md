@@ -24,3 +24,5 @@ https://github.com/ubicloud/ubicloud/blob/main/doc/authorization.md abac
 
 https://www.biscuitsec.org/
 > https://news.ycombinator.com/item?id=38635617
+
+https://www.nextlabs.com/products/technology/abac/

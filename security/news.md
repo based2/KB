@@ -2,6 +2,9 @@ https://media.ccc.de/v/37c3-12224-security_nightmares#t=0
 
 https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h22023.pdf
 
+https://medium.com/p/68ad70dc2499
+> https://old.reddit.com/r/netsec/comments/19ajnso/taking_over_whatsapp_accounts_by_reading/
+
 https://downloads.regulations.gov/FAA-2015-1621-0018/attachment_1.pdf
 > https://lobste.rs/s/1qyp4w/faa_safety_continuum_doctrine
 

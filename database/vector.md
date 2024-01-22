@@ -57,3 +57,5 @@ https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A
 
 https://news.ycombinator.com/item?id=39031653
 
+https://news.ycombinator.com/item?id=39067615
+

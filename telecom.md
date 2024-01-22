@@ -230,6 +230,8 @@ http://archive.hack.lu/2010/Weinmann-All-Your-Baseband-Are-Belong-To-Us-slides.p
 https://media.ccc.de/v/27c3-4090-en-baseband_apocalypse
 
 # News
+https://news.ycombinator.com/item?id=39093821
+
 https://news.ycombinator.com/item?id=38961899
 
 https://news.ycombinator.com/item?id=38900843

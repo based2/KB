@@ -29,6 +29,8 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 https://github.com/secureblue/secureblue fedora
 
 # News
+https://jfrog.com/blog/xorg-libx11-vulns-cve-2023-43786-cve-2023-43787-part-one/
+
 https://joev.dev/posts/unprivileged-process-injection-techniques-in-linux
 > https://news.ycombinator.com/item?id=38801183
 

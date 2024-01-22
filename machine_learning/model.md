@@ -196,6 +196,9 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all
+> https://news.ycombinator.com/item?id=39091777
+
 https://arxiv.org/abs/2401.05391
 > https://news.ycombinator.com/item?id=39069816
 

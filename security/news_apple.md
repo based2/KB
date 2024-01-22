@@ -9,7 +9,12 @@ https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware
 https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database
 > https://news.ycombinator.com/item?id=35581375
 
+https://support.apple.com/en-us/HT212510
+> https://news.ycombinator.com/item?id=39093978
+
 #
+https://www.bleepingcomputer.com/news/apple/apple-fixes-first-zero-day-bug-exploited-in-attacks-this-year/
+
 https://support.apple.com/en-us/HT214050 Magic Keyboard Firmware Update 2.0.6, fix: An attacker with physical access to the accessory may be able to extract its Bluetooth pairing key and monitor Bluetooth traffic
 
 https://medium.com/@icebre4ker/analysis-of-an-info-stealer-chapter-2-the-ios-app-0529e7b45405 ios

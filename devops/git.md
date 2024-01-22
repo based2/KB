@@ -70,7 +70,6 @@ https://www.presslabs.com/docs/code/gitfs/
  | \-+- git repack -d -l -q --cruft --cruft-expiration=2.weeks.ago
  |   \--- git pack-objects --local --quiet --delta-base-offset .git/objects/pack/.tmp-XXXXX-pack --keep-true-parents --honor-pack-keep
 
-
 # Changelog
 https://github.com/orhun/git-cliff Summary
 > https://news.ycombinator.com/item?id=28423843 
@@ -274,6 +273,8 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://news.ycombinator.com/item?id=39088551
+
 https://jyn.dev/2022/09/02/git-cheats.html
 
 https://blog.scottlowe.org/2023/12/15/conditional-git-configuration/

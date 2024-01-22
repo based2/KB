@@ -39,3 +39,7 @@ https://www.bleepingcomputer.com/news/security/hackers-auction-alleged-source-co
 # 2018
 
 https://www.bleepingcomputer.com/news/security/blizzard-fixes-dns-rebinding-flaw-that-put-all-the-companys-users-at-risk/
+
+# 2015
+
+https://news.ycombinator.com/item?id=39094374

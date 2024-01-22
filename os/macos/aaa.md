@@ -290,6 +290,8 @@ https://news.ycombinator.com/item?id=38214806
 https://news.ycombinator.com/item?id=38125771
 
 # M2
+https://news.ycombinator.com/item?id=39094181
+
 https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4
 > https://news.ycombinator.com/item?id=35470392
 

@@ -6,6 +6,8 @@ https://github.com/easylist/easylist/issues/16372
 https://www.universetoday.com/143011/how-do-we-colonize-ceres/
 
 #
+https://news.ycombinator.com/item?id=39084087
+
 https://news.ycombinator.com/item?id=38718020
 
 https://news.ycombinator.com/item?id=38214356
