@@ -240,6 +240,11 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://openinframap.org/
+> https://news.ycombinator.com/item?id=39109185
+
+https://news.ycombinator.com/item?id=39107483
+
 https://bendauphinee.com/writing/2023/12/30/to-know-where-you-are/
 > https://news.ycombinator.com/item?id=38820616
 

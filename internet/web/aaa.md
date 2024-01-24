@@ -167,6 +167,8 @@ https://www.marginalia.nu/log/94_warc_warc/
 
 https://news.ycombinator.com/item?id=38774792 rss xpath
 
+https://news.ycombinator.com/item?id=39104504
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 

@@ -58,6 +58,8 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://news.ycombinator.com/item?id=39119486
+
 https://news.ycombinator.com/item?id=39091819
 
 https://github.com/tldraw/draw-a-ui

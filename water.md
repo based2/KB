@@ -181,3 +181,5 @@ https://globalfishingwatch.org/press-release/new-research-harnesses-ai-and-satel
 
 https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/
 > https://news.ycombinator.com/item?id=38890238
+
+https://news.ycombinator.com/item?id=39110434

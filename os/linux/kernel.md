@@ -26,6 +26,8 @@ https://git.kernel.org/pub/scm/git/git.git/plain/Documentation/technical/pack-he
 
 https://news.ycombinator.com/item?id=37198744
 
+https://itsfoss.com/compile-linux-kernel/
+
 # Windows
 https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142

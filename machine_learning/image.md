@@ -381,6 +381,9 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://crowsonkb.github.io/hourglass-diffusion-transformers/
+> https://news.ycombinator.com/item?id=39107620
+
 https://thenextweb.com/news/new-ai-tool-democratised-image-generation
 > https://arxiv.org/abs/2311.16973
 

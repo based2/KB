@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=39117609
+
 https://news.ycombinator.com/item?id=39056403
 
 https://www.sciencealert.com/unique-locations-in-space-could-trigger-a-fierce-new-space-race

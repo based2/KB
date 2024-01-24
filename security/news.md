@@ -1,3 +1,11 @@
+https://news.ycombinator.com/item?id=39105906
+
+https://news.ycombinator.com/item?id=39106355
+
+https://news.ycombinator.com/item?id=39117903 chrome
+
+https://news.ycombinator.com/item?id=39105502
+
 https://media.ccc.de/v/37c3-12224-security_nightmares#t=0
 
 https://web-assets.esetstatic.com/wls/en/papers/threat-reports/eset-threat-report-h22023.pdf

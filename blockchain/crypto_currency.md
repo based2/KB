@@ -6,6 +6,9 @@ https://news.ycombinator.com/item?id=26526108 Cryptography behind the top crypto
 
 https://www.imf.org/en/Publications/Policy-Papers/Issues/2023/04/12/IMF-Approach-to-Central-Bank-Digital-Currency-Capacity-Development-532177
 
+https://github.com/Dicklesworthstone/introduction_to_temporal_logic
+> https://news.ycombinator.com/item?id=39094875
+
 # Experiments
 https://clickclickclick.click/
 

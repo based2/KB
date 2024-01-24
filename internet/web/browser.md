@@ -47,6 +47,10 @@ https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://news.ycombinator.com/item?id=39105114
+
+https://news.ycombinator.com/item?id=39111053
+
 https://mozilla.github.io/platform-tilt/
 > https://news.ycombinator.com/item?id=39061587
 

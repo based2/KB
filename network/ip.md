@@ -108,6 +108,10 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News
+https://news.ycombinator.com/item?id=39101643
+
+https://news.ycombinator.com/item?id=39097314
+
 https://news.ycombinator.com/item?id=39060187
 
 https://darkvisitors.com/ list of known AI agents on the internet

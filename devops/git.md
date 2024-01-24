@@ -210,6 +210,9 @@ https://stackoverflow.com/questions/15790120/what-is-the-first-line-of-git-forma
 https://calebhearth.com/sign-git-with-ssh
 > https://news.ycombinator.com/item?id=32831731
 
+https://iter.ca/post/gh-sig-pwn/
+> https://news.ycombinator.com/item?id=39086334
+
 ## Check
 https://github.com/Orange-Cyberdefense/versionshaker
 

@@ -59,3 +59,5 @@ https://news.ycombinator.com/item?id=39031653
 
 https://news.ycombinator.com/item?id=39067615
 
+https://news.ycombinator.com/item?id=39101682
+

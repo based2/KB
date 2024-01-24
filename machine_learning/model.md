@@ -29,6 +29,8 @@ https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai/
 https://github.com/confident-ai/deepeval
 > https://news.ycombinator.com/item?id=38606787
 
+https://news.ycombinator.com/item?id=39109304
+
 # Visu
 https://bbycroft.net/llm
 > https://news.ycombinator.com/item?id=38507672
@@ -196,6 +198,8 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://news.ycombinator.com/item?id=39120456
+
 https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all
 > https://news.ycombinator.com/item?id=39091777
 

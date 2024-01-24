@@ -119,6 +119,9 @@ https://www.farley.ai/posts/causal
 https://interjectedfuture.com/trade-offs-between-different-crdts/
 > https://news.ycombinator.com/item?id=38916647
 
+https://www.loro.dev/blog/loro-richtext
+> https://news.ycombinator.com/item?id=39102577
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

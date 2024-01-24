@@ -364,6 +364,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://zed.dev/blog/zed-is-now-open-source macos
+> https://news.ycombinator.com/item?id=39119835
+
 https://news.ycombinator.com/item?id=39031778
 
 https://blog.sanctum.geek.nz/series/unix-as-ide/

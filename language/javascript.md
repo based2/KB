@@ -218,6 +218,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://news.ycombinator.com/item?id=39121376
+
 https://news.ycombinator.com/item?id=38977532
 
 https://storybook.js.org/blog/storybook-react-server-components/

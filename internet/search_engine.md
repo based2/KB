@@ -95,6 +95,9 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://github.com/ashvardanian/SimSIMD
+> https://news.ycombinator.com/item?id=39111114
+
 https://rsdoiel.github.io/blog/2023/03/10/first-prototype-pse.html
 > https://news.ycombinator.com/item?id=38801698
 
