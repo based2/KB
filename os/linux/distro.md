@@ -96,6 +96,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://github.com/oasislinux/oasis
+> https://news.ycombinator.com/item?id=39142748
+
 https://blog.timschumi.net/2024/01/20/ah532-bios-investigation.html
 > https://news.ycombinator.com/item?id=39070871
 

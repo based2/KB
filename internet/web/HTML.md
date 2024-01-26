@@ -156,6 +156,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=39144360
+
 https://www.technologyreview.com/2023/12/21/1084525/internet-whimsy-html-energy/
 
 https://www.htmhell.dev/adventcalendar/2023/8/

@@ -55,6 +55,9 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://defguard.net/client/
+> https://news.ycombinator.com/item?id=39129355
+
 https://www.bleepingcomputer.com/news/security/what-to-do-when-receiving-unprompted-mfa-otp-codes/
 
 https://777.tf/blog/2023/12/08/using-fido-keys/

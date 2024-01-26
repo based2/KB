@@ -105,6 +105,11 @@ https://statut-diffusion-sirene.insee.fr/
 https://www.numerama.com/politique/1511774-le-gouvernement-envisage-de-prolonger-la-videosurveillance-par-ia-au-dela-des-jo-2024.html
 
 # News
+https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/
+> https://news.ycombinator.com/item?id=39132453
+
+https://news.ycombinator.com/item?id=39145252
+
 https://news.abplive.com/technology/google-incognito-new-disclaimer-canary-version-you-are-being-tracked-even-in-google-incognito-mode-new-disclaimer-is-up-privacy-lawsuit-1658159
 > https://news.ycombinator.com/item?id=39078417
 

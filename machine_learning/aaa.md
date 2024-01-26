@@ -494,6 +494,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=39121521
+
 https://www.iso.org/standard/81230.html
 
 https://news.ycombinator.com/item?id=39120679

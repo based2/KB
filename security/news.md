@@ -1,3 +1,10 @@
+https://github.com/rhboot/shim/commit/0226b56513b2b8bd5fd281bce77c40c9bf07c66d CVE-2023-40547 – avoid incorrectly trusting HTTP headers
+> https://news.ycombinator.com/item?id=39132300
+
+https://news.ycombinator.com/item?id=39144664
+
+https://news.ycombinator.com/item?id=39144906
+
 https://news.ycombinator.com/item?id=39105906
 
 https://news.ycombinator.com/item?id=39106355

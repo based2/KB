@@ -213,6 +213,8 @@ https://calebhearth.com/sign-git-with-ssh
 https://iter.ca/post/gh-sig-pwn/
 > https://news.ycombinator.com/item?id=39086334
 
+https://news.ycombinator.com/item?id=39124995
+
 ## Check
 https://github.com/Orange-Cyberdefense/versionshaker
 

@@ -23,3 +23,5 @@ https://www.mathpages.com/home/kmath641/kmath641.htm
 
 https://kavi.sblmnl.co.za/magnetically-modelling-magsafe/
 > https://news.ycombinator.com/item?id=38048401
+
+https://news.ycombinator.com/item?id=39121459

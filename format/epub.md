@@ -17,3 +17,6 @@ https://calibre-ebook.com/new-in/sixteen
 
 https://github.com/every-day-things/citadel
 > https://news.ycombinator.com/item?id=38988019
+
+https://willcrichton.net/notes/portable-epubs/#epub-content%2FEPUB%2Findex.xhtml$
+> https://news.ycombinator.com/item?id=39138042

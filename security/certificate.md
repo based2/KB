@@ -155,6 +155,9 @@ https://www.theregister.com/2021/11/19/web_trust_certificates/
 
 https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f
 
+https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/
+> https://news.ycombinator.com/item?id=39129806
+
 ## Expiration
 https://blog.code.horse/posts/2021-10-13-caskading-failures/
 

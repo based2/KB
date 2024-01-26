@@ -148,3 +148,5 @@ https://news.ycombinator.com/item?id=38604990
 https://news.ycombinator.com/item?id=38732272
 
 https://news.ycombinator.com/item?id=39067423
+
+https://veera.app/mesh_allocator.html

@@ -29,6 +29,13 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=39124243
+
+https://news.ycombinator.com/item?id=39140849
+
+https://www.tinysa.org/wiki/
+> https://news.ycombinator.com/item?id=39142560
+
 https://news.ycombinator.com/item?id=39111132
 
 https://www.elephantlisteningproject.org/all-about-infrasound/

@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://old.reddit.com/r/netsec/comments/19d14mj/ec2_privilege_escalation_through_user_data/
+
 https://hackingthe.cloud/aws/enumeration/bypass_cognito_user_enumeration_controls/
 
 https://old.reddit.com/r/aws/comments/17rxig8/aws_wants_to_start_charging_for_all_allocated/

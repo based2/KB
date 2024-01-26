@@ -198,6 +198,8 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://github.com/b4rtaz/distributed-llama
+
 https://news.ycombinator.com/item?id=39120456
 
 https://lightning.ai/lightning-ai/studios/code-lora-from-scratch?view=public&section=all

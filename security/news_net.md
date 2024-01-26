@@ -25,6 +25,13 @@ https://linuxfr.org/news/reaction-remplacant-de-fail2ban go
 https://github.com/acriba/heimdall rust
 
 #
+https://old.reddit.com/r/netsec/comments/19f9q8c/new_zyxel_rce_vulnerability_allows_remote/
+
+https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-rce-flaw-in-communications-software/
+
+https://st.fbk.eu/complementary/IOTSECFOR2021.html
+> https://news.ycombinator.com/item?id=39126618
+
 https://www.bleepingcomputer.com/news/security/teamviewer-abused-to-breach-networks-in-new-ransomware-attacks/
 
 https://www.mandiant.com/resources/blog/chinese-vmware-exploitation-since-2021

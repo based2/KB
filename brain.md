@@ -58,6 +58,9 @@ https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/
 > https://news.ycombinator.com/item?id=38731743
 
 # News
+https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/
+> https://news.ycombinator.com/item?id=39127028
+
 https://techxplore.com/news/2023-12-portable-non-invasive-mind-reading-ai-thoughts.html
 
 https://www.technologyreview.com/2023/12/11/1084926/human-brain-cells-chip-organoid-speech-recognition/

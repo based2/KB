@@ -251,6 +251,9 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915
 
 # News
+https://blog.danieljanus.pl/2024/01/26/lossy-css-compression/
+> https://news.ycombinator.com/item?id=39143768
+
 https://tympanus.net/codrops/2024/01/17/a-practical-introduction-to-scroll-driven-animations-with-css-scroll-and-view/
 
 https://www.joshwcomeau.com/css/interactive-guide-to-grid/

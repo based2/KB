@@ -60,6 +60,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://vermaden.wordpress.com/2024/01/25/tiny-ups-for-tiny-nas/
+> https://news.ycombinator.com/item?id=39131846
+
 https://blogsystem5.substack.com/p/hard-disk-leds-and-noisy-machines
 > https://news.ycombinator.com/item?id=38883408
 > https://news.ycombinator.com/item?id=38876374

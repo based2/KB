@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb
+> https://news.ycombinator.com/item?id=39121101
+
 https://spite.github.io/CSS3DClouds/
 > https://news.ycombinator.com/item?id=39086032
 

@@ -86,6 +86,8 @@ https://github.com/falcosecurity/falcosidekick
 https://github.com/draios/sysdig-inspect
 
 # News
+https://blog.doyensec.com/2024/01/23/k8s-scheduling-secure-design.html
+
 https://thenewstack.io/tetragon-1-0-promises-a-new-era-of-kubernetes-security-and-observability/
 
 https://blog.brakmic.com/keycloak-with-postgresql-on-kubernetes/

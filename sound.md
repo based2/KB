@@ -39,6 +39,8 @@ https://mofi.loud.red/
 > https://news.ycombinator.com/item?id=36480687
 
 # News
+https://news.ycombinator.com/item?id=39124510
+
 https://github.com/KRTirtho/spotube
 > https://news.ycombinator.com/item?id=39066136
 

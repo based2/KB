@@ -114,6 +114,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.jenkins.io/security/advisory/2024-01-24/#SECURITY-3314 jenkins
+
 https://www.bleepingcomputer.com/news/security/over-5-300-gitlab-servers-exposed-to-zero-click-account-takeover-attacks/
 
 https://www.cadosecurity.com/containerised-clicks-malicious-use-of-9hits-on-vulnerable-docker-hosts/
@@ -462,6 +464,9 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://susam.net/blog/jenkins-quicksort.html
+> https://news.ycombinator.com/item?id=39127897
+
 https://news.ycombinator.com/item?id=39119141
 
 https://martinfowler.com/articles/continuousIntegration.html

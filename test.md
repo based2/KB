@@ -165,6 +165,9 @@ https://github.com/axllent/mailpit
 > https://news.ycombinator.com/item?id=36448686
 
 # News
+https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring
+> https://news.ycombinator.com/item?id=39135192
+
 https://shadowtraffic.io/
 
 https://news.ycombinator.com/item?id=39046844

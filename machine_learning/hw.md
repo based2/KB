@@ -7,6 +7,8 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://news.ycombinator.com/item?id=39137502
+
 https://www.nvidia.com/en-gb/data-center/h200/
 
 https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure

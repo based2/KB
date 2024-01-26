@@ -11,6 +11,9 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 https://news.ycombinator.com/item?id=37180017
 
 #
+https://github.com/a16z-infra/llm-app-stack
+> https://news.ycombinator.com/item?id=39138440
+
 https://huggingface.co/jartine/llava-v1.5-7B-GGUF/blob/main/llamafile-server-0.1-llava-v1.5-7b-q4
 
 https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes

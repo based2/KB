@@ -1,6 +1,11 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.bleepingcomputer.com/news/security/microsoft-reveals-how-hackers-breached-its-exchange-online-accounts/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/
+> https://news.ycombinator.com/item?id=39146385
+
 https://arstechnica.com/security/2024/01/microsoft-network-breached-through-password-spraying-by-russian-state-hackers/link
 https://arstechnica.com/security/2024/01/microsoft-network-breached-through-password-spraying-by-russian-state-hackers/
 > https://www.microsoft.com/security/blog/2020/04/23/protecting-organization-password-spray-attacks/
