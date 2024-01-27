@@ -29,6 +29,9 @@ https://github.com/niveb/NoCrypt A small experimental project to make a defense 
 https://github.com/secureblue/secureblue fedora
 
 # News
+https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html
+> https://news.ycombinator.com/item?id=39154825
+
 https://jfrog.com/blog/xorg-libx11-vulns-cve-2023-43786-cve-2023-43787-part-two/
 
 https://jfrog.com/blog/xorg-libx11-vulns-cve-2023-43786-cve-2023-43787-part-one/

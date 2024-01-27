@@ -1,16 +1,11 @@
-https://support.apple.com/en-us/HT201222 Apple security releases
-
-https://objective-see.org/products/knockknock.html
-
-https://objective-see.org/products/blockblock.html
-
 https://www.uptycs.com/blog/macstealer-command-and-control-c2-malware
 
 https://www.malwarebytes.com/blog/news/2023/04/new-macos-malware-yoinks-a-trove-of-sensitive-information-including-a-users-entire-keychain-database
 > https://news.ycombinator.com/item?id=35581375
 
-https://support.apple.com/en-us/HT212510
-> https://news.ycombinator.com/item?id=39093978
+https://objective-see.org/products/knockknock.html
+
+https://objective-see.org/products/blockblock.html
 
 #
 https://www.bleepingcomputer.com/news/apple/apple-fixes-first-zero-day-bug-exploited-in-attacks-this-year/

@@ -55,6 +55,9 @@ https://lantern.dev/blog/hnsw-index-creation
 https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf
 > https://news.ycombinator.com/item?id=38971221
 
+https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf
+> https://news.ycombinator.com/item?id=38971221
+
 https://news.ycombinator.com/item?id=39031653
 
 https://news.ycombinator.com/item?id=39067615

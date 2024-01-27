@@ -110,21 +110,27 @@ https://manjusri.ucsc.edu/2015/03/10/PF-on-Mac-OS-X/
 
 https://news.ycombinator.com/item?id=38404792
 
-example for ipv6 IP ranges filter:
+example for ipv6:
 
 block from any to { 2a00:1288:1:1:1:1:1:1/31 }
 block from any to { 2a00:1450:4007:1:1:1:1:1/21 }
+block from any to { 2a01:b740:1:1:1:1:1:1/31 }
+block from any to { 2a02:26f0:1:1:1:1:1:1/31 }
+block from any to { 2a04:4e42:1:1:1:1:1:1/31 }
+block from any to { 2a06:98c1:1:1:1:1:1:1/31 }
+block from any to { 2001:4860:1:1:1:1:1:1/31 }
+block from any to { 2400:52e0:1:1:1:1:1:1/31 }
+block from any to { 2600:1f18:1:1:1:1:1:1/31 }
+block from any to { 2600:1901:1:1:1:1:1:1/31 }
+block from any to { 2600:9000:1:1:1:1:1:1/31 }
+block from any to { 2604:a880:1:1:1:1:1:1/31 }
+block from any to { 2606:4700:1:1:1:1:1:1/31 }
+block from any to { 2606:50c0:1:1:1:1:1:1/31 }
+block from any to { 2800:68:1:1:1:1:1:1/31 }
 
 interface: idx-XX
 
-* /System/Library/PrivateFrameworks/
-
-https://stackoverflow.com/questions/2678047/what-are-private-frameworks-and-how-will-we-use-them
-
-https://stackoverflow.com/questions/65089767/class-amsupporturlconnectiondelegate-is-implemented-in-both
-> sudo xcode-select -r
-
-https://discussions.apple.com/thread/7271850?sortBy=best
+sudo lsof -i -P | grep LISTEN | grep :$PORT
 
 https://blog.bejarano.io/hardening-macos/
 > https://news.ycombinator.com/item?id=27067755
@@ -233,11 +239,6 @@ https://oleb.net/2022/xcode-14-mac-concurrency-bugs/
 https://jvns.ca/blog/2018/01/28/mac-freeze/
 
 # VM
-https://news.ycombinator.com/item?id=39059100
-
-https://eclecticlight.co/2024/01/11/how-virtualisation-came-to-apple-silicon-macs/
-> https://news.ycombinator.com/item?id=38958266
-
 https://eclecticlight.co/2023/12/29/why-are-apple-silicon-vms-so-different/
 > https://news.ycombinator.com/item?id=38803556
 
@@ -290,8 +291,6 @@ https://news.ycombinator.com/item?id=38214806
 https://news.ycombinator.com/item?id=38125771
 
 # M2
-https://news.ycombinator.com/item?id=39094181
-
 https://www.phoronix.com/news/Apple-M2-Device-Tree-Linux-6.4
 > https://news.ycombinator.com/item?id=35470392
 
@@ -443,8 +442,6 @@ https://authzed.com/blog/onboarding-with-an-m1/
 > https://news.ycombinator.com/item?id=26843228
 
 # Apple
-https://www.wired.com/story/plaintext-apple-secret-40-year-old-mac-still-rules/
-
 https://news.ycombinator.com/item?id=38773037
 
 https://www.theregister.com/2023/12/18/beeper_blocked_imessage_whacamole_continues/

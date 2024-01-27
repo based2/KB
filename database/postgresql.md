@@ -306,8 +306,6 @@ https://thenewstack.io/implement-postgres-on-kubernetes-with-ondat-and-suse-ranc
 
 https://ryan-schachte.com/blog/ha_postgres_zolando/
 
-https://tembo.io/blog/tembo-operator/
-
 # Rest
 https://postgrest.org/en/stable/how-tos/providing-html-content-using-htmx.html
 

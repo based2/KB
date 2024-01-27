@@ -27,6 +27,7 @@ https://juicefs.com/en/ .cn
 https://news.ycombinator.com/item?id=36140494
 
 https://rclone.org/
+> https://news.ycombinator.com/item?id=39151937
 
 https://dansdatathoughts.substack.com/p/from-s3-to-r2-an-economic-opportunity
 > https://news.ycombinator.com/item?id=38118577
@@ -60,6 +61,8 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://news.ycombinator.com/item?id=39150431
+
 https://vermaden.wordpress.com/2024/01/25/tiny-ups-for-tiny-nas/
 > https://news.ycombinator.com/item?id=39131846
 

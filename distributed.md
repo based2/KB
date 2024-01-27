@@ -125,6 +125,9 @@ https://www.loro.dev/blog/loro-richtext
 https://interjectedfuture.com/crdts-turned-inside-out/
 > https://news.ycombinator.com/item?id=39130945
 
+https://interjectedfuture.com/trade-offs-between-different-crdts/
+> https://news.ycombinator.com/item?id=38916647
+
 ## UI
 https://syncedstore.org/docs/
 > https://news.ycombinator.com/item?id=29483913

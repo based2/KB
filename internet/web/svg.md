@@ -94,5 +94,8 @@ https://meyerweb.com/eric/thoughts/2023/12/21/pixelating-live-with-svg/
 https://prideout.net/blog/svg_knots/
 > https://news.ycombinator.com/item?id=38956861
 
+https://prideout.net/blog/svg_knots/
+> https://news.ycombinator.com/item?id=38956861
+
 https://github.com/berthubert/trifecta/issues/38
 > https://news.ycombinator.com/item?id=39079943

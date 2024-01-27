@@ -198,6 +198,15 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 > https://news.ycombinator.com/item?id=38656039
 
 # News
+https://brave.com/leo-mixtral/
+> https://news.ycombinator.com/item?id=39152763
+
+https://github.com/rasbt/LLMs-from-scratch
+> https://news.ycombinator.com/item?id=39156778
+
+https://arxiv.org/abs/2401.09486
+> https://news.ycombinator.com/item?id=39157735
+
 https://github.com/b4rtaz/distributed-llama
 
 https://news.ycombinator.com/item?id=39120456

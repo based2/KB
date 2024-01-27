@@ -71,15 +71,6 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
-https://news.ycombinator.com/item?id=39109811
-
-https://news.ycombinator.com/item?id=39112907
-
-https://laplab.me/posts/whats-that-touchscreen-in-my-room/
-> https://news.ycombinator.com/item?id=39063242
-
-https://news.ycombinator.com/item?id=38957084
-
 https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/
 > https://news.ycombinator.com/item?id=38802152
 

@@ -141,6 +141,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://github.com/vdjagilev/nmap-formatter
+
 https://news.ycombinator.com/item?id=39003469
 
 https://techxplore.com/news/2023-12-electric-transmits-faster-wi-fi.html

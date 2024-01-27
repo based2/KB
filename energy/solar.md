@@ -18,6 +18,8 @@ https://medium.com/@timothy_downs/how-many-requests-can-be-served-per-second-fro
 > https://news.ycombinator.com/item?id=29077825
 
 # News
+https://news.ycombinator.com/item?id=39157977
+
 https://news.ycombinator.com/item?id=39145379
 
 https://thecomputerperson.wordpress.com/2016/08/03/enphase-envoy-s-data-scraping/

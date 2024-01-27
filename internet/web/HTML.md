@@ -156,6 +156,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/
+> https://news.ycombinator.com/item?id=39139598
+
 https://news.ycombinator.com/item?id=39144360
 
 https://www.technologyreview.com/2023/12/21/1084525/internet-whimsy-html-energy/

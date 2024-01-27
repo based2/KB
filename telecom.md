@@ -220,21 +220,9 @@ https://news.ycombinator.com/item?id=34570065
 
 https://news.ycombinator.com/item?id=34665023
 
-https://nvd.nist.gov/vuln/detail/CVE-2022-27250
-
-https://research.checkpoint.com/2022/vulnerability-within-the-unisoc-baseband/
-> https://en.wikipedia.org/wiki/List_of_UNISOC_systems_on_chips
-
-http://archive.hack.lu/2010/Weinmann-All-Your-Baseband-Are-Belong-To-Us-slides.pdf
-
-https://media.ccc.de/v/27c3-4090-en-baseband_apocalypse
-
 # News
-https://news.ycombinator.com/item?id=39093821
-
-https://news.ycombinator.com/item?id=38961899
-
-https://news.ycombinator.com/item?id=38900843
+https://www.androidpolice.com/android-esim-transfer-tool/
+> https://news.ycombinator.com/item?id=39153330
 
 https://news.ycombinator.com/item?id=38856845
 

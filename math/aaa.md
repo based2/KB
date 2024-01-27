@@ -146,6 +146,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://writings.stephenwolfram.com/2024/01/the-story-continues-announcing-version-14-of-wolfram-language-and-mathematica/
+> https://news.ycombinator.com/item?id=38934226
+
 https://news.ycombinator.com/item?id=39122286
 
 https://math.stackexchange.com/questions/3266639/notation-for-partial-derivative-of-functions-of-functions

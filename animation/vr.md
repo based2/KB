@@ -1,3 +1,6 @@
+https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck
+> https://news.ycombinator.com/item?id=39156444
+
 https://github.com/PixarAnimationStudios/OpenUSD
 
 https://thenewstack.io/openusd-could-enable-a-real-metaverse/

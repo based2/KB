@@ -1,3 +1,6 @@
+https://developer.android.com/studio/platform
+> https://news.ycombinator.com/item?id=39158683
+
 https://github.com/martinmimigames/little-file-explorer
 > https://news.ycombinator.com/item?id=38789958
 

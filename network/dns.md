@@ -115,6 +115,9 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
 # News
+https://www.icann.org/en/public-comment/proceeding/proposed-top-level-domain-string-for-private-use-24-01-2024
+> https://news.ycombinator.com/item?id=39152306
+
 https://technitium.com/dns/
 > https://news.ycombinator.com/item?id=39024148
 

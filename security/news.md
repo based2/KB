@@ -54,6 +54,28 @@ https://csirtsnetwork.eu/
 
 https://www.nist.gov/cyberframework
 
+https://eligrey.com/blog/link-fraud/
+> https://news.ycombinator.com/item?id=39003929
+
+https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CONSIL:ST_17000_2023_INIT CRA
+
+https://blog.securelayer7.net/unauthorized-rce-in-adobe-coldfusion/
+
+https://security.humanativaspa.it/a-collection-of-weggli-patterns-for-c-cpp-vulnerability-research/
+
+https://www.horizon3.ai/writeup-for-cve-2023-39143-papercut-webdav-vulnerability/
+
+https://www.bleepingcomputer.com/news/security/over-150k-wordpress-sites-at-takeover-risk-via-vulnerable-plugin/
+
+https://www.bleepingcomputer.com/news/security/fake-401k-year-end-statements-used-to-steal-corporate-credentials/
+
+https://github.com/Sjlver/psst
+> https://news.ycombinator.com/item?id=38963197
+
+https://csirtsnetwork.eu/
+
+https://www.nist.gov/cyberframework
+
 https://news.ycombinator.com/item?id=38791870
 
 https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops
