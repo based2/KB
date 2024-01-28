@@ -40,6 +40,9 @@ https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
 
 #
+https://lostfilearchives.github.io/08/28/Dissection/
+> https://news.ycombinator.com/item?id=39166399
+
 http://www.righto.com/2021/11/reverse-engineering-yamaha-dx7.html
 > https://news.ycombinator.com/item?id=38951347
 

@@ -71,6 +71,9 @@ https://worthdoingbadly.com/coretrust/ Get root on macOS 12.3.1: proof-of-concep
 > https://news.ycombinator.com/item?id=33145136
 
 # News
+https://nishtahir.com/i-looked-through-attacks-in-my-access-logs-heres-what-i-found/
+> https://news.ycombinator.com/item?id=39165711
+
 https://ct.cloudflare.com/ Merkle Town: Explore the certificate transparency ecosystem
 > https://news.ycombinator.com/item?id=38829235
 

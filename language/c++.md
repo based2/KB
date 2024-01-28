@@ -66,6 +66,8 @@ https://forum.misra.org.uk/thread-1668.html
 https://github.com/Snaipe/Criterion
 
 #
+https://news.ycombinator.com/item?id=39159153
+
 https://news.ycombinator.com/item?id=38894424
 
 https://news.ycombinator.com/item?id=38742021

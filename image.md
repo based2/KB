@@ -15,6 +15,8 @@ https://github.com/avaneev/avir c++, MIT
 https://github.com/Tohrusky/Final2x
 
 # News
+https://news.ycombinator.com/item?id=39168474
+
 https://contentcredentials.org/
 > https://lobste.rs/s/cxx6ti/content_credentials
 

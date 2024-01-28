@@ -103,6 +103,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://nixsanctuary.com/when-and-where-it-gets-impossible-to-use-gnu-linux/
+
 https://medium.com/opsops/there-is-an-oom-kill-count-in-linux-e9936aa33102
 > https://news.ycombinator.com/item?id=38823719
 

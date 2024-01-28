@@ -124,3 +124,5 @@ https://regexr.com/
 
 https://www.noulakaz.net/2007/03/18/a-regular-expression-to-check-for-prime-numbers/
 > https://news.ycombinator.com/item?id=36413260
+
+https://ihateregex.io/

@@ -186,6 +186,9 @@ https://github.com/Tencent/tquic
 https://eng.snap.com/quic-at-snap QUIC
 > https://news.ycombinator.com/item?id=27626394
 
+https://github.com/icing/blog/blob/main/curl-h3-performance.md
+> https://news.ycombinator.com/item?id=39163948
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

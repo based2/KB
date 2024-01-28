@@ -105,6 +105,9 @@ https://www.redhat.com/sysadmin/stop-using-telnet-test-port
 https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/
 > https://news.ycombinator.com/item?id=35936999
 
+https://flent.org/
+> https://news.ycombinator.com/item?id=39156405
+
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
 

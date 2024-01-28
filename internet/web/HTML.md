@@ -151,6 +151,9 @@ https://www.bryanbraun.com/checkboxland/
 https://getcssscan.com/css-checkboxes-examples
 > https://news.ycombinator.com/item?id=33418445
 
+https://tonsky.me/blog/checkbox/
+> https://news.ycombinator.com/item?id=39161339
+
 # History
 https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003

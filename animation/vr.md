@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=39154829
+
 https://www.ign.com/articles/disney-unveils-the-holotile-floor-inching-us-closer-to-a-real-life-holodeck
 > https://news.ycombinator.com/item?id=39156444
 

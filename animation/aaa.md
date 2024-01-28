@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://cssanimotion.pages.dev/
+
 https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb
 > https://news.ycombinator.com/item?id=39121101
 

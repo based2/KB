@@ -80,6 +80,8 @@ https://news.ycombinator.com/item?id=38529143 gif
 https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/
 > https://news.ycombinator.com/item?id=38653110
 
+https://news.ycombinator.com/item?id=39163181
+
 # News
 https://news.ycombinator.com/item?id=39072427
 

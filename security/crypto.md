@@ -191,6 +191,8 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://celebratio.org/Albert_AA/article/455/
+
 https://blog.cryptographyengineering.com/2023/11/30/to-schnorr-and-beyond-part-2/
 
 https://blog.cryptographyengineering.com/2023/10/06/to-schnorr-and-beyond-part-1/

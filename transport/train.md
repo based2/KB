@@ -15,6 +15,9 @@ https://www.npmjs.com/package/amtrak
 > https://news.ycombinator.com/item?id=28477797
 
 #
+https://www.devever.net/~hl/traintoilet
+> https://news.ycombinator.com/item?id=39163797
+
 https://satoshi7190.github.io/Shinjuku-indoor-threejs-demo/
 > https://news.ycombinator.com/item?id=38786581
 
@@ -36,6 +39,8 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://news.ycombinator.com/item?id=39168469
+
 https://www.japantimes.co.jp/business/2023/11/16/mexico-rail-rival-panama-canal/
 > https://news.ycombinator.com/item?id=38991317
 

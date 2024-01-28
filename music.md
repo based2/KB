@@ -246,6 +246,8 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://news.ycombinator.com/item?id=39165596
+
 https://www.modartt.com/organteq_physical_modeling
 > https://news.ycombinator.com/item?id=38853087
 
