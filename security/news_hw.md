@@ -7,6 +7,8 @@ https://uefi.org/blog/firmware-sbom-proposal
 https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model-to-the-risc-v-community/
 > https://news.ycombinator.com/item?id=36168836
 
+https://news.ycombinator.com/item?id=39165342
+
 #
 https://nvd.nist.gov/vuln/detail/CVE-2021-30260
 

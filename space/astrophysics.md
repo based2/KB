@@ -67,6 +67,9 @@ https://en.m.wikipedia.org/wiki/SN_1054
 https://en.wikipedia.org/wiki/SN_1572
 
 # News
+https://mkremins.github.io/epitaph/
+> https://news.ycombinator.com/item?id=39200182
+
 https://news.ycombinator.com/item?id=39167364
 
 https://news.ycombinator.com/item?id=39084329

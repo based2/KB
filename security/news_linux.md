@@ -32,6 +32,8 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 > https://news.ycombinator.com/item?id=39165342
 
 # News
+https://news.ycombinator.com/item?id=39194093
+
 https://devcraft.io/2021/05/04/exiftool-arbitrary-code-execution-cve-2021-22204.html
 > https://news.ycombinator.com/item?id=39154825
 

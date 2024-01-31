@@ -34,6 +34,9 @@ https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 https://eli.thegreenplace.net/2023/faas-in-go-with-wasm-wasi-and-rust/
 > https://news.ycombinator.com/item?id=35846443
 
+https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html
+> https://news.ycombinator.com/item?id=39200239
+
 # Limits
 ## Budget Cost Capping
 

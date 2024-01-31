@@ -21,3 +21,6 @@ https://news.ycombinator.com/item?id=34298263
 https://webauthn.wtf/
 
 https://cert.pl/en/posts/2024/01/artemis-security-scanner/
+
+https://fly.io/blog/macaroons-escalated-quickly/
+> https://news.ycombinator.com/item?id=39204314

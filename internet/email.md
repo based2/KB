@@ -242,6 +242,9 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://mailready.info/
+> https://news.ycombinator.com/item?id=39189289
+
 https://news.ycombinator.com/item?id=39142075
 
 https://workspaceupdates.googleblog.com/2023/09/winding-down-google-sync-and-less-secure-apps-support.html

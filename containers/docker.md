@@ -55,7 +55,9 @@ https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-w
 #
 https://github.com/iximiuz/docker-to-linux
 
-#
+# I
+https://snyk.io/fr/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/
+
 https://www.techrepublic.com/article/how-to-fix-the-docker-and-ufw-security-flaw/
 
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/

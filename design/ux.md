@@ -26,6 +26,9 @@ https://simonhearne.com/2021/layout-shifts-webfonts/
 > https://news.ycombinator.com/item?id=30129571
 
 #
+https://github.com/kando-menu/kando
+> https://news.ycombinator.com/item?id=39206966
+
 https://shots.so/
 > https://news.ycombinator.com/item?id=39059854
 

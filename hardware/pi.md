@@ -17,6 +17,9 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://arstechnica.com/gadgets/2024/01/raspberry-pi-is-preparing-for-an-ipo-in-london-for-likely-more-than-500m/
+> https://news.ycombinator.com/item?id=39193572
+
 https://taoofmac.com/space/blog/2024/01/20/1800 The Orange Pi 5+
 > https://news.ycombinator.com/item?id=39070730
 

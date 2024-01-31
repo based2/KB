@@ -33,6 +33,9 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://neal.fun/infinite-craft/
+> https://news.ycombinator.com/item?id=39205020
+
 https://news.ycombinator.com/item?id=39159418
 
 https://tildes.net/~games/1dcj/there_has_never_been_a_better_time_to_game_on_linux

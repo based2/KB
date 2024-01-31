@@ -45,3 +45,6 @@ https://rss-bridge.org/bridge01/#bridge-CssSelectorBridge
 
 https://play.google.com/store/apps/details?id=com.niviva.rssreader.streamsphere&hl=en_US
 
+https://github.com/msasikanth/twine
+> https://news.ycombinator.com/item?id=39201643
+

@@ -42,6 +42,9 @@ https://aws.amazon.com/en/blogs/compute/error-handling-patterns-in-amazon-api-ga
 
 https://aws.amazon.com/en/blogs/compute/amazon-api-gateway-mapping-improvements/
 
+https://sr.ht/~benbusby/farside/
+> https://news.ycombinator.com/item?id=39198913
+
 ## VPC links (endpoint)
 
 https://docs.aws.amazon.com/en/apigateway/latest/developerguide/apigateway-developer-portal.html

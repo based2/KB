@@ -221,6 +221,9 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://spectrum.ieee.org/satellite-cellphone-starlink
+> https://news.ycombinator.com/item?id=39200189
+
 https://www.androidpolice.com/android-esim-transfer-tool/
 > https://news.ycombinator.com/item?id=39153330
 

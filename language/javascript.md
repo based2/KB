@@ -474,6 +474,9 @@ https://primocms.org/ cmd, MIT
 
 https://news.ycombinator.com/item?id=37609515
 
+https://svelte-native.technology/
+> https://news.ycombinator.com/item?id=39175393
+
 #
 https://www.solidjs.com/ https://markojs.com/
 > https://news.ycombinator.com/item?id=29388296

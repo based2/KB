@@ -157,6 +157,11 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=39169972
+
+https://github.com/boardzilla
+> https://news.ycombinator.com/item?id=39180953
+
 https://news.ycombinator.com/item?id=39006457
 
 https://news.ycombinator.com/item?id=39001572

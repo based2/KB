@@ -61,6 +61,8 @@ https://www.uber.com/en-US/blog/selective-column-reduction-for-datalake-storage-
 https://news.ycombinator.com/item?id=38999938
 
 # News
+https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/
+
 https://research.google/pubs/napa-powering-scalable-data-warehousing-with-robust-query-performance-at-google/
 
 https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/

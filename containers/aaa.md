@@ -53,6 +53,8 @@ https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://news.ycombinator.com/item?id=39188432
+
 https://www.ypsidanger.com/announcing-project-bluefin/
 > https://news.ycombinator.com/item?id=38992292
 

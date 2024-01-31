@@ -47,3 +47,6 @@ https://tube.jeena.net/w/nivehRx8J7ZwujfS2oCoPC
 https://news.ycombinator.com/item?id=38654910
 
 https://activitypods.org/blog/the-road-to-activitypods-2-0/
+
+https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/
+> https://news.ycombinator.com/item?id=39201453
