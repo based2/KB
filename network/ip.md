@@ -67,6 +67,8 @@ https://matduggan.com/ipv6-is-a-disaster-and-its-our-fault/
 https://cr.yp.to/djbdns/ipv6mess.html
 > https://news.ycombinator.com/item?id=37119370
 
+https://news.ycombinator.com/item?id=39229476
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

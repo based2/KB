@@ -56,6 +56,10 @@ https://nickjanetakis.com/blog/best-practices-around-production-ready-web-apps-w
 https://github.com/iximiuz/docker-to-linux
 
 # I
+https://vigilance.fr/vulnerabilite/BuildKit-quatre-vulnerabilites-43425
+
+https://vigilance.fr/vulnerabilite/Docker-Moby-elevation-de-privileges-via-Classic-Builder-Cache-Poisoning-43424
+
 https://snyk.io/fr/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/
 
 https://www.techrepublic.com/article/how-to-fix-the-docker-and-ufw-security-flaw/

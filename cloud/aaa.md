@@ -157,6 +157,8 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/
+
 https://www.bleepingcomputer.com/news/technology/box-cloud-storage-down-amid-critical-outage/
 
 https://news.ycombinator.com/item?id=38255354

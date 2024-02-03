@@ -144,6 +144,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://fck-nat.dev/v1.3.0/
+> https://news.ycombinator.com/item?id=39164010
+
 https://github.com/vdjagilev/nmap-formatter
 
 https://news.ycombinator.com/item?id=39003469

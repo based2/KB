@@ -114,6 +114,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://about.gitlab.com/releases/2024/01/25/critical-security-release-gitlab-16-8-1-released/
+
 https://www.scmagazine.com/news/gitlab-password-reset-bug-leaves-more-than-5-3k-servers-up-for-grabs
 > https://news.ycombinator.com/item?id=39159002
 
