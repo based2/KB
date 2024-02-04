@@ -61,12 +61,16 @@ https://vigilance.fr/vulnerabilite/BuildKit-quatre-vulnerabilites-43425
 https://vigilance.fr/vulnerabilite/Docker-Moby-elevation-de-privileges-via-Classic-Builder-Cache-Poisoning-43424
 
 https://snyk.io/fr/blog/leaky-vessels-docker-runc-container-breakout-vulnerabilities/
+> https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/
 
 https://www.techrepublic.com/article/how-to-fix-the-docker-and-ufw-security-flaw/
 
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/
+> https://news.ycombinator.com/item?id=39240471
+
 https://news.ycombinator.com/item?id=38988960
 
 https://news.ycombinator.com/item?id=38987109

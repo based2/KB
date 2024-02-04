@@ -31,6 +31,12 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://ruudvanasseldonk.com/2024/a-reasonable-configuration-language
+> https://news.ycombinator.com/item?id=39250320
+
+https://pkl-lang.org/blog/introducing-pkl.html
+> https://news.ycombinator.com/item?id=39232976
+
 http://devops-pipeline.com/
 > https://news.ycombinator.com/item?id=38823252
 

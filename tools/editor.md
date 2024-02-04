@@ -301,6 +301,10 @@ https://news.ycombinator.com/item?id=38301644
 
 https://news.ycombinator.com/item?id=38886792
 
+https://news.ycombinator.com/item?id=39190110
+
+https://news.ycombinator.com/item?id=39189881
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -364,6 +368,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://edeproject.org/
+> https://news.ycombinator.com/item?id=39238318
+
 https://zed.dev/blog/zed-is-now-open-source macos
 > https://news.ycombinator.com/item?id=39119835
 

@@ -6,6 +6,10 @@ https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage
 https://www.scmagazine.com/news/mozi-botnet-goes-dark-in-mysterious-circumstances
 
 #
+https://news.ycombinator.com/item?id=39225503
+
+https://news.ycombinator.com/item?id=39238010
+
 https://bigsense.io/
 
 https://wokwi.com/

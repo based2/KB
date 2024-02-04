@@ -4,6 +4,9 @@ https://news.ycombinator.com/item?id=37343274 sync
 
 https://www.packer.io/
 
+https://iovec.net/2024-01-29 Building a hypervisor, 1: KVM Introduction
+> https://news.ycombinator.com/item?id=39238300
+
 https://xenbits.xen.org/gitweb/?p=xen.git;a=log;h=refs/tags/RELEASE-4.17.1
 
 https://www.phoronix.com/news/Xen-Rust-Start

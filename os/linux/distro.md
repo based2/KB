@@ -67,6 +67,8 @@ https://ubuntu.com/download/server/arm
 https://www.gentoo.org/
 https://wiki.gentoo.org/wiki/Hardened_Gentoo
 
+https://news.ycombinator.com/item?id=39250609
+
 # Slackware
 https://docs.slackware.com/slackware:philosophy
 > https://news.ycombinator.com/item?id=26990734
@@ -96,6 +98,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html A new Debian package helper: debputy
+> https://news.ycombinator.com/item?id=39173031
+
 https://news.ycombinator.com/item?id=39173229
 
 https://news.ycombinator.com/item?id=39155142

@@ -13,6 +13,12 @@ https://arxiv.org/abs/2308.02945
 https://github.com/chipsalliance/riscv-dv
 
 #
+https://projectf.io/posts/riscv-arithmetic/
+> https://news.ycombinator.com/item?id=39202248
+
+https://lupyuen.codeberg.page/articles/tcc.html web zig
+> https://news.ycombinator.com/item?id=39245664
+
 https://github.com/fwsGonzo/rvscript
 > https://news.ycombinator.com/item?id=38993552
 

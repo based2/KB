@@ -20,6 +20,9 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://arxiv.org/abs/2401.09417 Vision Mamba: Efficient Visual Representation Learning with Bidirectional SSM
+> https://news.ycombinator.com/item?id=39214939
+
 https://manifestai.com/blogposts/faster-after-all/
 > https://news.ycombinator.com/item?id=39036355
 

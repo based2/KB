@@ -257,6 +257,14 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://github.com/caronc/apprise push notification python
+> https://news.ycombinator.com/item?id=39215732
+
+https://news.ycombinator.com/item?id=39227184
+
+https://fosdem.org/2024/schedule/streaming/
+> https://news.ycombinator.com/item?id=39238691
+
 https://news.ycombinator.com/item?id=39227184
 
 https://answer.apache.org/ go nodejs

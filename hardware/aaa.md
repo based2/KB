@@ -111,6 +111,9 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://spectrum.ieee.org/aluminum-nitride
+> https://news.ycombinator.com/item?id=39232002
+
 https://news.ycombinator.com/item?id=39165101
 
 https://www.theregister.com/2024/01/10/google_tpu_patent_dispute/

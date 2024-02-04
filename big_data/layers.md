@@ -60,6 +60,13 @@ https://www.uber.com/en-US/blog/selective-column-reduction-for-datalake-storage-
 
 https://news.ycombinator.com/item?id=38999938
 
+# Data warehouse
+https://tembo.io/blog/tembo-data-warehouse
+> https://news.ycombinator.com/item?id=39213309
+
+https://www.highlight.io/blog/clickhouse-materialized-views
+> https://news.ycombinator.com/item?id=39229935
+
 # News
 https://www.alibabacloud.com/blog/aliorc-a-combination-of-maxcompute-and-apache-orc_595359
 

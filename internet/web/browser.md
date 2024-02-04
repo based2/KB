@@ -47,6 +47,9 @@ https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/
+> https://news.ycombinator.com/item?id=39218638
+
 https://matan-h.com/another-secret-browser
 > https://news.ycombinator.com/item?id=39226754
 

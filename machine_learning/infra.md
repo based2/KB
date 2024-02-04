@@ -11,6 +11,12 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 https://news.ycombinator.com/item?id=37180017
 
 #
+https://getdera.com/
+> https://news.ycombinator.com/item?id=39215955
+
+https://www.mlblocks.com/
+> https://news.ycombinator.com/item?id=39217550
+
 https://github.com/a16z-infra/llm-app-stack
 > https://news.ycombinator.com/item?id=39138440
 

@@ -33,6 +33,12 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://www.missile-game.com/
+> https://news.ycombinator.com/item?id=39189285
+
+https://www.newscientist.com/article/2414826-dance-mat-style-game-helps-stop-older-people-falling/
+> https://news.ycombinator.com/item?id=39243885
+
 https://neal.fun/infinite-craft/
 > https://news.ycombinator.com/item?id=39205020
 

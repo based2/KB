@@ -46,6 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://news.ycombinator.com/item?id=39238807
+
 https://hackaday.com/2023/07/30/an-open-source-free-circuit-simulator/
 
 https://predictabledesigns.com/how-much-does-it-cost-to-develop-and-manufacture-new-electronic-product/

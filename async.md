@@ -52,6 +52,9 @@ https://www.braze.com/resources/articles/writing-effective-integration-tests-for
 > https://news.ycombinator.com/item?id=29489815
 
 #
+https://without.boats/blog/let-futures-be-futures/
+> https://news.ycombinator.com/item?id=39242962
+
 https://news.ycombinator.com/item?id=38916397
 
 https://news.ycombinator.com/item?id=38503439

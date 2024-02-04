@@ -191,6 +191,17 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=39233855
+
+https://words.filippo.io/dispatches/mlkem768/ go PQC
+> https://news.ycombinator.com/item?id=39214743
+
+https://www.atlasobscura.com/articles/a-brief-history-of-the-nsa-attempting-to-insert-backdoors-into-encrypted-data
+> https://news.ycombinator.com/item?id=39244254
+
+https://www.ethanheilman.com/x/12/index.html
+> https://news.ycombinator.com/item?id=39247497
+
 https://celebratio.org/Albert_AA/article/455/
 
 https://blog.cryptographyengineering.com/2023/11/30/to-schnorr-and-beyond-part-2/

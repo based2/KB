@@ -88,3 +88,6 @@ https://n8n.io/
 https://news.ycombinator.com/item?id=38158127
 
 https://news.ycombinator.com/item?id=39065637
+
+https://github.com/gabotechs/dep-tree Visualize the entropy of a codebase with a 3D force-directed graph
+> https://news.ycombinator.com/item?id=39206842

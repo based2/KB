@@ -48,6 +48,9 @@ https://thenextweb.com/news/dutch-biotech-startup-bags-e22m-for-proprietary-gene
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://www.cell.com/iscience/fulltext/S2589-0042(24)00125-1
+> https://news.ycombinator.com/item?id=39215723
+
 https://www.technologyreview.com/2023/11/10/1083222/covid-moonshot-drug-discovery-open-source/
 
 https://whyy.org/segments/the-placenta-went-viral-and-protomammals-were-born/

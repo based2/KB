@@ -149,6 +149,12 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://nixcademy.com/2024/01/30/cross-compilation-with-nix/
+> https://news.ycombinator.com/item?id=39201707
+
+https://compiler.club/compiling-pattern-matching/
+> https://news.ycombinator.com/item?id=39240944
+
 https://hboehm.info/gc/
 > https://news.ycombinator.com/item?id=39077535
 

@@ -69,6 +69,9 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://www.advancedfictionwriting.com/articles/snowflake-method/
+> https://news.ycombinator.com/item?id=39239044
+
 https://lunette.app/
 > https://news.ycombinator.com/item?id=35307656
 

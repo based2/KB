@@ -197,6 +197,8 @@ https://blog.j11y.io/2023-11-22_multifaceted/
 https://www.amazon.science/blog/do-large-language-models-really-need-all-those-layers
 > https://news.ycombinator.com/item?id=38656039
 
+https://news.ycombinator.com/item?id=39213410
+
 # News
 https://brave.com/leo-mixtral/
 > https://news.ycombinator.com/item?id=39152763

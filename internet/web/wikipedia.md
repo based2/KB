@@ -55,6 +55,8 @@ https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki
 https://news.ycombinator.com/item?id=34893472
 
 # News
+https://news.ycombinator.com/item?id=39214202
+
 https://news.ycombinator.com/item?id=38432445
 
 https://news.ycombinator.com/item?id=38189878

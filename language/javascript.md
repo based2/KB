@@ -218,6 +218,9 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://million.dev/blog/million-3.en-US
+> https://news.ycombinator.com/item?id=39231488
+
 https://storybook.js.org/blog/storybook-react-server-components/
 > https://news.ycombinator.com/item?id=38627855
 
@@ -647,6 +650,11 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://news.ycombinator.com/item?id=39233376
+
+https://twitter.com/vuejs/status/1753678155444101385
+> https://news.ycombinator.com/item?id=39240727
+
 https://www.onsclom.net/posts/javascript-tco
 > https://news.ycombinator.com/item?id=38823673
 

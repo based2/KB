@@ -58,6 +58,8 @@ https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/
 > https://news.ycombinator.com/item?id=38731743
 
 # News
+https://news.ycombinator.com/item?id=39219953
+
 https://news.ycombinator.com/item?id=39142149
 
 https://www.scientificamerican.com/article/brains-are-not-required-when-it-comes-to-thinking-and-solving-problems-simple-cells-can-do-it/

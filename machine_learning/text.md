@@ -63,6 +63,9 @@ https://labs.perplexity.ai/
 https://minimaxir.com/2023/12/chatgpt-structured-data/
 > https://news.ycombinator.com/item?id=38782678
 
+https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-interviews
+> https://news.ycombinator.com/item?id=39206731
+
 # News
 https://news.ycombinator.com/item?id=38777485
 

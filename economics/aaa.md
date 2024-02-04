@@ -88,6 +88,9 @@ https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-a
 > https://news.ycombinator.com/item?id=35603168
 
 ## Trading
+https://github.com/avhz/RustQuant
+> https://news.ycombinator.com/item?id=39226251
+
 https://news.ycombinator.com/item?id=39178750
 
 https://news.ycombinator.com/item?id=39146654
@@ -229,7 +232,11 @@ https://blog.everstrike.io/how-an-obscure-otc-traded-derivative-took-over-crypto
 https://www.axios.com/2023/06/02/supreme-court-sides-with-slack-putting-direct-listings-in-jeopardy
 > https://news.ycombinator.com/item?id=36171591
 
+https://news.ycombinator.com/item?id=39219789
+
 # News
+https://news.ycombinator.com/item?id=39233239
+
 https://ghostfol.io/en/start
 > https://news.ycombinator.com/item?id=37337482
 

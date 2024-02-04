@@ -80,6 +80,9 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://github.com/seaweedfs/seaweedfs
+> https://news.ycombinator.com/item?id=39235593
+
 https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/
 > https://news.ycombinator.com/item?id=39060339
 

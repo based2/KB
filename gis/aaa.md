@@ -240,6 +240,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://observablehq.com/@d3/tissots-indicatrix
+> https://news.ycombinator.com/item?id=39228088
+
 https://openinframap.org/
 > https://news.ycombinator.com/item?id=39109185
 

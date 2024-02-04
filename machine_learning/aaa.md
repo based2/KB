@@ -358,6 +358,12 @@ https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 https://security.googleblog.com/2023/10/increasing-transparency-in-ai-security.html
 
 # Incident
+https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html
+> https://news.ycombinator.com/item?id=39248649
+
+https://www.theregister.com/2024/02/01/jetbrains_unremovable_ai_assistant/
+> https://news.ycombinator.com/item?id=39238666
+
 https://promptarmor.substack.com/p/data-exfiltration-from-writercom
 > https://news.ycombinator.com/item?id=38654533
 
@@ -480,6 +486,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=39212905
+
+https://spectrum.ieee.org/mathematical-model-ai
+
+https://magazine.sebastianraschka.com/p/research-papers-in-january-2024
+
 https://news.ycombinator.com/item?id=39194683
 
 > https://news.ycombinator.com/item?id=38870249

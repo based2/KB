@@ -29,6 +29,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.arrl.org/news/the-first-amateur-radio-station-on-the-moon-js1ymg-is-now-transmitting
+> https://news.ycombinator.com/item?id=39247614
+
 https://news.ycombinator.com/item?id=39121447
 
 https://news.ycombinator.com/item?id=39124243

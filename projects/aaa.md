@@ -167,6 +167,10 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://news.ycombinator.com/item?id=39213809
+
+https://news.ycombinator.com/item?id=39232004
+
 https://news.ycombinator.com/item?id=39196724
 
 https://rampantgames.com/blog/?p=7745 Black Triangles

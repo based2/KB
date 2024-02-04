@@ -132,7 +132,12 @@ https://research.nvidia.com/labs/par/Perfusion/
 https://stablediffusionweb.com/PixArt-alpha#ai-art-generator
 > https://news.ycombinator.com/item?id=38254386
 
+https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html
+> https://news.ycombinator.com/item?id=39210458
+
 ## Stable diffusion
+https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/
+> https://news.ycombinator.com/item?id=39215242
 
 > https://news.ycombinator.com/item?id=36586079
 
@@ -381,6 +386,12 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://llava-vl.github.io/blog/2024-01-30-llava-1-6/
+> https://news.ycombinator.com/item?id=39206375
+
+https://www.iopaint.com/
+> https://github.com/Sanster/IOPaint
+
 https://crowsonkb.github.io/hourglass-diffusion-transformers/
 > https://news.ycombinator.com/item?id=39107620
 

@@ -38,6 +38,9 @@ https://www.quantamagazine.org/dna-has-four-bases-some-viruses-swap-in-a-fifth-2
 https://en.wikipedia.org/wiki/TRIZ
 
 # News
+https://www.analystnews.org/posts/plagiarism-paper-mills-and-profit-these-scientists-are-fighting-the-epidemic-of-fraudulent-science-research
+> https://news.ycombinator.com/item?id=39244601
+
 https://jeffhuang.com/struggle_for_each_paper/
 
 https://news.ycombinator.com/item?id=38872325

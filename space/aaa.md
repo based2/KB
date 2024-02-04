@@ -32,6 +32,20 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.reuters.com/technology/space/russian-cosmonaut-set-record-sunday-most-time-spent-space-reports-2024-02-04/
+
+https://www.astrial.com/en/index.html
+> https://news.ycombinator.com/item?id=39213748
+
+https://newspaceeconomy.ca/2023/05/28/the-tyranny-of-the-rocket-equation-an-in-depth-examination/
+> https://news.ycombinator.com/item?id=39243976
+
+https://www.lexaloffle.com/bbs/?pid=94322#p
+> https://news.ycombinator.com/item?id=39244867
+
+https://space.stackexchange.com/questions/14383/how-much-bigger-could-earth-be-before-rockets-wouldnt-work
+> https://news.ycombinator.com/item?id=39243303
+
 https://news.ycombinator.com/item?id=39213595
 
 https://news.ycombinator.com/item?id=39128977

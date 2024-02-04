@@ -39,7 +39,16 @@ https://frida.re/news/2023/06/23/frida-16-1-0-released/
 https://www.righto.com/2023/08/datapoint-to-8086.html
 > https://news.ycombinator.com/item?id=37102482
 
+https://and0uille.net/misc/debug90.html
+> https://news.ycombinator.com/item?id=39214966
+
 #
+https://www.mandiant.com/resources/blog/dynamic-capa-executable-behavior-cape-sandbox
+> https://github.com/mandiant/capa/
+
+https://jvns.ca/blog/2014/09/06/how-to-read-an-executable/
+> https://news.ycombinator.com/item?id=39231663
+
 https://lostfilearchives.github.io/08/28/Dissection/
 > https://news.ycombinator.com/item?id=39166399
 

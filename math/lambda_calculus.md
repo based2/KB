@@ -8,3 +8,6 @@ https://hirrolot.github.io/posts/how-to-keep-lambda-calculus-simple.html
 
 https://cs.brown.edu/~sk/Publications/Papers/Published/ck-core-calc-doc-lambda-ultimate-doc/paper.pdf
 > https://news.ycombinator.com/item?id=38808552
+
+http://tunes.org/~iepos/joy.html theory of concatenative combinators (2007)
+> https://news.ycombinator.com/item?id=39203404

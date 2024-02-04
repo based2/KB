@@ -144,6 +144,11 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.ycombinator.com/item?id=39243562
+
+https://two-wrongs.com/si-units-for-request-rate
+> https://news.ycombinator.com/item?id=39219573
+
 https://fck-nat.dev/v1.3.0/
 > https://news.ycombinator.com/item?id=39164010
 

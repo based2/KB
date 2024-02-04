@@ -16,6 +16,12 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=39234977
+
+https://news.ycombinator.com/item?id=39238076
+
+https://news.ycombinator.com/item?id=39246563
+
 https://news.ycombinator.com/item?id=38941747
 
 https://spectrum.ieee.org/micro-wind-power-kitepower

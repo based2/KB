@@ -144,6 +144,11 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://arstechnica.com/tech-policy/2024/01/sim-swapping-ring-stole-400m-in-crypto-from-a-us-company-officials-allege/
+
+https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/
+> https://news.ycombinator.com/item?id=39238039
+
 https://www.tietoevry.com/en/newsroom/all-news-and-releases/other-news/2024/01/mim-jan-20/
 > https://news.ycombinator.com/item?id=39066956
 
@@ -221,6 +226,11 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=39224249
+
+https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article
+> https://news.ycombinator.com/item?id=39219826
+
 https://spectrum.ieee.org/satellite-cellphone-starlink
 > https://news.ycombinator.com/item?id=39200189
 

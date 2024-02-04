@@ -8,6 +8,11 @@ https://objective-see.org/products/knockknock.html
 https://objective-see.org/products/blockblock.html
 
 #
+https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/ beta
+> https://news.ycombinator.com/item?id=39251206
+
+https://news.ycombinator.com/item?id=39238350
+
 https://www.bleepingcomputer.com/news/apple/apple-fixes-first-zero-day-bug-exploited-in-attacks-this-year/
 
 https://support.apple.com/en-us/HT214050 Magic Keyboard Firmware Update 2.0.6, fix: An attacker with physical access to the accessory may be able to extract its Bluetooth pairing key and monitor Bluetooth traffic
@@ -268,3 +273,5 @@ https://habr.com/en/post/579714/ iOS
 > https://support.apple.com/en-us/HT212807 https://support.apple.com/en-us/HT212601
 
 https://www.microsoft.com/en-us/security/blog/2021/10/28/microsoft-finds-new-macos-vulnerability-shrootless-that-could-bypass-system-integrity-protection/
+
+https://news.ycombinator.com/item?id=39226243

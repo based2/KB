@@ -1,3 +1,11 @@
+https://gitlab.inria.fr/cpaperma/nondet Non-deterministic execution of Python functions
+> https://news.ycombinator.com/item?id=39209684
+
+https://vulncheck.com/blog/too-many-honeypots
+> https://news.ycombinator.com/item?id=39229112
+
+https://www.bleepingcomputer.com/news/security/mastodon-vulnerability-allows-attackers-to-take-over-accounts/
+
 https://news.ycombinator.com/item?id=39187749
 
 https://embeddedsecurity.io/

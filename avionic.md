@@ -16,6 +16,9 @@ https://faadronezone.faa.gov/#/
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
 #
+https://github.com/n7space/aerugo rust rtos
+> https://news.ycombinator.com/item?id=39213595
+
 https://www.freethink.com/transportation/hydrogen-vtol
 
 https://news.ycombinator.com/item?id=38978705

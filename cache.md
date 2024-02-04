@@ -38,6 +38,9 @@ https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petab
 # cache invalidation
 
 # News
+https://arstechnica.com/gadgets/2024/02/google-search-kills-off-cached-webpages/
+> https://news.ycombinator.com/item?id=39235102
+
 https://robertwpearce.com/content-hashing-static-assets-to-break-caches-with-md5sum-and-bash.html
 > https://lobste.rs/s/ol0ec2/content_hashing_static_assets_break
 

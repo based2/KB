@@ -10,6 +10,12 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://www.youtube.com/watch?v=wTl4vEednkQ Breaking Bitlocker – Bypassing the Windows Disk Encryption
+> https://news.ycombinator.com/item?id=39243305
+
+https://github.com/anfractuosity/ramrecovery Simple demo of a cold boot attack using a Raspberry Pi
+> https://news.ycombinator.com/item?id=39242244
+
 https://nvd.nist.gov/vuln/detail/CVE-2021-30260
 
 https://faculty.cc.gatech.edu/~genkin/papers/lendear.pdf Lend Me Your Ear: Passive Remote Physical Side Channels on PC

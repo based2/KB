@@ -248,6 +248,8 @@ https://www.tremor.so/components reactjs
 
 https://www.react-graph-gallery.com/
 
+https://news.ycombinator.com/item?id=39211263
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/

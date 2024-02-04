@@ -24,7 +24,20 @@ https://linuxfr.org/news/reaction-remplacant-de-fail2ban go
 
 https://github.com/acriba/heimdall rust
 
+https://engineering.purdue.edu/kak/compsec/
+> https://news.ycombinator.com/item?id=39214193
+
 #
+https://securityscorecard.com/blog/threat-intelligence-research-volt-typhoon/
+
+https://blog.sicuranext.com/modsecurity-path-confusion-bugs-bypass/
+
+https://www.cisa.gov/news-events/directives/supplemental-direction-v1-ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure
+> https://news.ycombinator.com/item?id=39218446
+
+https://anydesk.com/en/public-statement
+> https://news.ycombinator.com/item?id=39235217
+
 https://old.reddit.com/r/netsec/comments/19f9q8c/new_zyxel_rce_vulnerability_allows_remote/
 
 https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-rce-flaw-in-communications-software/
@@ -120,9 +133,11 @@ https://www.bleepingcomputer.com/news/security/hackers-increasingly-abuse-cloudf
 https://www.csoonline.com/article/648207/pentagon-investigating-compromise-in-air-force-communications-report.html
 > https://news.ycombinator.com/item?id=37033555
 
+https://www.securityweek.com/chinese-gov-hackers-caught-hiding-in-cisco-router-firmware/
+
 https://www.reddit.com/r/netsec/comments/15dotaq/cve202327997_critical_fortinet_fortigate_rce/
 
-https://pentests.nl/pentest-blog/cve-2023-28130-command-injection-in-check-point-gaia-portal//
+https://pentests.nl/pentest-blog/cve-2023-28130-command-injection-in-check-point-gaia-portal/
 
 https://www.exploitsecurity.io/post/cve-2023-33383-authentication-bypass-via-an-out-of-bounds-read-vulnerability
 

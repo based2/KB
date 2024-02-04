@@ -21,3 +21,5 @@ https://news.mit.edu/2023/new-dataset-arctic-images-will-spur-artificial-intelli
 https://news.ycombinator.com/item?id=38149093
 
 https://news.ycombinator.com/item?id=38304290
+
+https://news.ycombinator.com/item?id=39241172

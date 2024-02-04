@@ -116,6 +116,11 @@ https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://github.com/corkami/collisions
+
+https://github.com/zitadel/passwap
+> https://news.ycombinator.com/item?id=39220133
+
 https://buer.haus/2024/01/16/reversing-and-tooling-a-signed-request-hash-in-obfuscated-javascript/
 
 https://news.ycombinator.com/item?id=38861034
