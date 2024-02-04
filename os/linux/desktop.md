@@ -103,6 +103,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=39252801
+
 https://news.ycombinator.com/item?id=39172377
 
 https://nixsanctuary.com/when-and-where-it-gets-impossible-to-use-gnu-linux/

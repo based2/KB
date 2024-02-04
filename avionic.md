@@ -15,13 +15,8 @@ https://faadronezone.faa.gov/#/
 #
 https://en.wikipedia.org/wiki/Coand%C4%83_effect
 
-#
-https://github.com/n7space/aerugo rust rtos
-> https://news.ycombinator.com/item?id=39213595
-
-https://www.freethink.com/transportation/hydrogen-vtol
-
-https://news.ycombinator.com/item?id=38978705
+# I
+https://www.theregister.com/2024/02/03/researchers_remotely_exploit_devices_used/
 
 https://theaircurrent.com/feed/dispatches/united-finds-loose-bolts-on-plug-doors-during-737-max-9-inspections/
 > https://news.ycombinator.com/item?id=38917820
@@ -94,6 +89,13 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://github.com/n7space/aerugo rust rtos
+> https://news.ycombinator.com/item?id=39213595
+
+https://www.freethink.com/transportation/hydrogen-vtol
+
+https://news.ycombinator.com/item?id=38978705
+
 https://news.ycombinator.com/item?id=37137130
 
 https://www.openaip.net/

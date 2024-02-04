@@ -46,6 +46,8 @@ https://blog.seanholloway.com/2022/03/13/visualizing-black-holes-with-general-re
 
 https://arxiv.org/abs/2112.05829 Self-lensing flares from black hole binaries II: observing black hole shadows via light-curve tomography
 
+https://www.mpifr-bonn.mpg.de/pressreleases/2024/4
+
 ###
 https://destevez.net/2021/08/imaging-cygnus-a-at-8-45-ghz-with-ata/
 

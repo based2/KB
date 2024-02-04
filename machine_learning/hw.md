@@ -7,6 +7,8 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://www.theregister.com/2024/02/02/meta_ai_chips/
+
 https://news.ycombinator.com/item?id=39137502
 
 https://www.nvidia.com/en-gb/data-center/h200/

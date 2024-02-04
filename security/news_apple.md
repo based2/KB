@@ -14,6 +14,7 @@ https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng
 https://news.ycombinator.com/item?id=39238350
 
 https://www.bleepingcomputer.com/news/apple/apple-fixes-first-zero-day-bug-exploited-in-attacks-this-year/
+> https://news.ycombinator.com/item?id=39252321
 
 https://support.apple.com/en-us/HT214050 Magic Keyboard Firmware Update 2.0.6, fix: An attacker with physical access to the accessory may be able to extract its Bluetooth pairing key and monitor Bluetooth traffic
 
