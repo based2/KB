@@ -1,4 +1,5 @@
 https://ydb.tech/ .ru
+> https://news.ycombinator.com/item?id=39240274
 
 https://twitter.com/erickramirezau/status/1578063811495477248 Cassandra at Apple: 1000s of Clusters, 300k Nodes, 100 PB
 > https://news.ycombinator.com/item?id=33124631

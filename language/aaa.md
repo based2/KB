@@ -126,7 +126,6 @@ https://news.ycombinator.com/item?id=39026551
 https://github.com/SPLWare/esProc/wiki/A-programming-language-coding-in-a-grid
 > https://news.ycombinator.com/item?id=38778550
 
-
 # Hackathon
 https://www.juricho.me/posts/online-hackathon/
 
@@ -358,6 +357,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=39239721
+
 https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/
 > https://news.ycombinator.com/item?id=38876991
 

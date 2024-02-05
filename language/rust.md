@@ -343,6 +343,9 @@ https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/ C
 > https://mozilla.github.io/uniffi-rs/
 > > https://webidl.spec.whatwg.org/
 
+https://security.googleblog.com/2024/02/improving-interoperability-between-rust-and-c.html
+> https://news.ycombinator.com/item?id=39263736
+
 ## MacOs
 https://github.com/ryanmcgrath/cacao
 > https://news.ycombinator.com/item?id=35934799
@@ -498,6 +501,8 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://github.com/cloudflare/foundations
+
 https://news.ycombinator.com/item?id=39236788
 
 https://news.ycombinator.com/item?id=39112486

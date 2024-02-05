@@ -469,6 +469,11 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://dansvetlov.me/sidekiq-internals/
+> https://news.ycombinator.com/item?id=39257174
+
+https://news.ycombinator.com/item?id=39267200
+
 https://susam.net/blog/jenkins-quicksort.html
 > https://news.ycombinator.com/item?id=39127897
 

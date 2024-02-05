@@ -2,6 +2,8 @@ https://www.simutrans.com/en/
 > https://news.ycombinator.com/item?id=30278595
 
 #
+https://news.ycombinator.com/item?id=39250025
+
 https://news.ycombinator.com/item?id=38746664
 
 https://www.usatoday.com/story/news/nation/2023/12/22/cummins-truck-engines-defeat-devices-feds-say/72013430007/

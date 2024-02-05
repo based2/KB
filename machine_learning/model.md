@@ -200,6 +200,8 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 https://news.ycombinator.com/item?id=39213410
 
 # News
+https://news.ycombinator.com/item?id=39263664
+
 https://shyam.blog/posts/beyond-self-attention/
 > https://news.ycombinator.com/item?id=39251909
 

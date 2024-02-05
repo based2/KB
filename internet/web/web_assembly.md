@@ -87,6 +87,9 @@ https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.ht
   > https://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html
 
 # News
+https://observablehq.com/@chaosalchemist/wasm-playground
+> https://news.ycombinator.com/item?id=39257529
+
 https://wasmcloud.com/blog/wasi-preview-2-officially-launches
 > https://news.ycombinator.com/item?id=39143054
 

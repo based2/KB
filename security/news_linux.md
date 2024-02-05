@@ -32,6 +32,9 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 > https://news.ycombinator.com/item?id=39165342
 
 # News
+https://www.openwall.com/lists/oss-security/2024/01/30/7
+> https://news.ycombinator.com/item?id=39264396
+
 https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/
 > https://news.ycombinator.com/item?id=39250076
 > https://news.ycombinator.com/item?id=39194093

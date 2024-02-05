@@ -58,6 +58,9 @@ https://en.wikipedia.org/wiki/Atanasoff%E2%80%93Berry_computer
 > https://news.ycombinator.com/item?id=33107108
 
 #
+https://www.ilikebigbits.com/2019_07_08_programming_in_1969.html
+> https://news.ycombinator.com/item?id=39261321
+
 https://multiplié.fr/en/5-21/objects/minimit
 
 https://retrocomputermuseum.co.uk/

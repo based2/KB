@@ -1,3 +1,9 @@
+https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/
+> https://news.ycombinator.com/item?id=39258546
+
+https://github.com/narfindustries/http-garden The HTTP Garden – A Parser Vulnerability Research Tool
+> https://news.ycombinator.com/item?id=39266112
+
 https://gitlab.inria.fr/cpaperma/nondet Non-deterministic execution of Python functions
 > https://news.ycombinator.com/item?id=39209684
 
