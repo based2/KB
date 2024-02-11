@@ -214,6 +214,9 @@ https://github.com/collabora/WhisperSpeech
 > https://news.ycombinator.com/item?id=39036796
 
 # News
+https://google-research.github.io/seanet/musiclm/examples/
+> https://news.ycombinator.com/item?id=34541693
+
 https://gitlab.com/literally-useful/voxos
 > https://news.ycombinator.com/item?id=39057005
 

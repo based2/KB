@@ -12,3 +12,5 @@ https://openjdk.java.net/jeps/405 JEP 405: Record Patterns (Preview)
 > https://news.ycombinator.com/item?id=31378896
 
 https://www.reddit.com/r/java/comments/tyyd75/ann_recordbuilder_v33_released/
+
+https://old.reddit.com/r/java/comments/1ame1m0/record_patterns_jep432_really/

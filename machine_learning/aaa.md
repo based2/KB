@@ -361,6 +361,8 @@ https://security.googleblog.com/2023/10/increasing-transparency-in-ai-security.h
 
 https://news.ycombinator.com/item?id=39294383
 
+https://blog.includesecurity.com/2024/02/improving-llm-security-against-prompt-injection-appsec-guidance-for-pentesters-and-developers-part-2/
+
 # Incident
 https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html
 > https://news.ycombinator.com/item?id=39248649
@@ -490,6 +492,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=39300679
+
 https://news.ycombinator.com/item?id=39212905
 
 https://spectrum.ieee.org/mathematical-model-ai

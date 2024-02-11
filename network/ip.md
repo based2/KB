@@ -69,6 +69,8 @@ https://cr.yp.to/djbdns/ipv6mess.html
 
 https://news.ycombinator.com/item?id=39229476
 
+https://old.reddit.com/r/programming/comments/1ao8bgn/is_github_ipv6_ready_yet_no/
+
 # Port
 http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf
 > https://news.ycombinator.com/item?id=26851687 Port zero

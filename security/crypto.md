@@ -193,6 +193,8 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://news.ycombinator.com/item?id=39284711
+
 https://news.ycombinator.com/item?id=39233855
 
 https://words.filippo.io/dispatches/mlkem768/ go PQC

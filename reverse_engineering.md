@@ -43,6 +43,8 @@ https://and0uille.net/misc/debug90.html
 > https://news.ycombinator.com/item?id=39214966
 
 #
+https://news.ycombinator.com/item?id=39324278
+
 https://www.mandiant.com/resources/blog/dynamic-capa-executable-behavior-cape-sandbox
 > https://github.com/mandiant/capa/
 

@@ -41,6 +41,8 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://www.bleepingcomputer.com/news/security/expressvpn-bug-has-been-leaking-some-dns-requests-for-years/
+
 https://vigilance.fr/vulnerabilite/OpenConnect-obtention-d-information-43433
 
 https://news.ycombinator.com/item?id=39067213

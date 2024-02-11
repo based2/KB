@@ -52,6 +52,8 @@ https://deno.com/blog/node-builtins-on-deploy
 > https://news.ycombinator.com/item?id=36084450
 > > https://wintercg.org/
 
+https://choubey.gitbook.io/internals-of-deno/
+
 https://news.ycombinator.com/item?id=39259068
 
 https://news.ycombinator.com/item?id=35525222

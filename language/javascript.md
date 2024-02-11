@@ -650,6 +650,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://blog.jquery.com/2024/02/06/jquery-4-0-0-beta/
+> https://news.ycombinator.com/item?id=39283733
+
 https://news.ycombinator.com/item?id=39295600
 
 https://bellard.org/quickjs/Changelog

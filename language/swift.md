@@ -1,6 +1,8 @@
 https://www.hackingwithswift.com/100/swiftui
 > https://news.ycombinator.com/item?id=36359652
 
+https://cs193p.sites.stanford.edu/2023
+
 https://news.ycombinator.com/item?id=38972131
 
 https://www.amimetic.co.uk/blog/a-concrete-example-of-why-apples-docs-are-terrible/

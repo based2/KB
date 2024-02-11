@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/
+> https://news.ycombinator.com/item?id=39336677
+
 https://cssanimotion.pages.dev/
 
 https://www.ctrl-alt-test.fr/2024/how-we-made-an-animated-movie-in-8kb

@@ -99,3 +99,5 @@ https://www.sharedrop.io/
 > https://news.ycombinator.com/item?id=39079256
 > > https://github.com/spieglt/flyingcarpet
 
+https://news.ycombinator.com/item?id=39292638
+

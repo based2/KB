@@ -11,6 +11,8 @@ https://tlakh.xyz/fuzzing-ping.html
 
 https://thevaluable.dev/practical-guide-fzf-example/
 
+https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/
+
 #
 https://news.ycombinator.com/item?id=39077536 Pfuzz, a web fuzzer following the Unix philosophy
 

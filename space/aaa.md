@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://www.space.com/jaxa-slim-moon-lander-lev-2-ball-robot
+
 https://news.ycombinator.com/item?id=39266396
 
 https://www.reuters.com/technology/space/russian-cosmonaut-set-record-sunday-most-time-spent-space-reports-2024-02-04/

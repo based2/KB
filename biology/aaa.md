@@ -48,6 +48,8 @@ https://thenextweb.com/news/dutch-biotech-startup-bags-e22m-for-proprietary-gene
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://news.ycombinator.com/item?id=39325821
+
 https://news.ycombinator.com/item?id=39331705
 
 https://www.cell.com/iscience/fulltext/S2589-0042(24)00125-1

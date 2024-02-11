@@ -225,6 +225,8 @@ https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing
 # concurrencyngs
 
 # News
+https://muratbuffalo.blogspot.com/2024/02/tunable-consistency-in-mongodb.html
+
 https://blog.schmizz.net/disaggregated-wal
 > https://news.ycombinator.com/item?id=39282054
 
