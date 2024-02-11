@@ -42,6 +42,8 @@ https://research.kudelskisecurity.com/2022/05/11/practical-bruteforce-of-aes-102
 
 https://eprint.iacr.org/2023/1846
 
+https://news.ycombinator.com/item?id=39322388
+
 ## AES-GCM
 https://news.ycombinator.com/item?id=27338479
 

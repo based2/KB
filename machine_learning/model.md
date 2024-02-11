@@ -199,7 +199,18 @@ https://www.amazon.science/blog/do-large-language-models-really-need-all-those-l
 
 https://news.ycombinator.com/item?id=39213410
 
+https://lilianweng.github.io/posts/2024-02-05-human-data-quality/
+
 # News
+https://news.ycombinator.com/item?id=39294810
+
+https://news.ycombinator.com/item?id=39295839
+
+https://ollama.ai/blog/openai-compatibility
+> https://news.ycombinator.com/item?id=39307330
+
+https://news.ycombinator.com/item?id=39315986
+
 https://news.ycombinator.com/item?id=39263664
 
 https://shyam.blog/posts/beyond-self-attention/

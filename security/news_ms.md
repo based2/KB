@@ -1,6 +1,10 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-clients-not-syncing-over-exchange-activesync/
+
 https://www.g1a55er.net/Windows-Local-Account-Unprotected-Key
 
 https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/

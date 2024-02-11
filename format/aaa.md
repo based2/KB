@@ -83,6 +83,9 @@ https://eng.aurelienpierre.com/2021/10/webp-is-so-great-except-its-not/
 https://news.ycombinator.com/item?id=39163181
 
 # News
+https://adaptivecards.io/
+> https://news.ycombinator.com/item?id=39294372
+
 https://pandoc.org/
 > https://news.ycombinator.com/item?id=39164002
 

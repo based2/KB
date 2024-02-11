@@ -69,6 +69,9 @@ https://github.com/cmod/websters-1913
 https://www.wiktionary.org/
 
 #
+https://thewritetoroam.com/2024/02/how-to-write-stuff-no-one-else-can
+> https://news.ycombinator.com/item?id=39319649
+
 https://www.advancedfictionwriting.com/articles/snowflake-method/
 > https://news.ycombinator.com/item?id=39239044
 

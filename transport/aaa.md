@@ -1,6 +1,8 @@
 https://www.simutrans.com/en/
 > https://news.ycombinator.com/item?id=30278595
 
+https://news.ycombinator.com/item?id=39323601
+
 #
 https://news.ycombinator.com/item?id=39250025
 

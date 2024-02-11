@@ -8,6 +8,8 @@ https://objective-see.org/products/knockknock.html
 https://objective-see.org/products/blockblock.html
 
 #
+https://www.theregister.com/2024/02/08/security_research_apple_fraud/
+
 https://forums.macrumors.com/threads/fileproviderctl-on-sonoma-14-4-here-we-f-ng-go-again.2418353/ beta
 > https://news.ycombinator.com/item?id=39251206
 

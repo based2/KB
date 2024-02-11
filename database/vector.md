@@ -67,3 +67,4 @@ https://news.ycombinator.com/item?id=39101682
 https://alexharri.com/blog/vector-networks figma
 > https://news.ycombinator.com/item?id=39241825
 
+https://thenewstack.io/what-does-a-platform-engineer-do-and-do-you-need-one/

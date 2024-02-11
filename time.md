@@ -258,6 +258,9 @@ https://ariadne.space/2021/12/29/glibc-is-still-not-y2038-compliant-by-default/
 https://www.thkukuk.de/blog/Y2038_glibc_utmp_64bit/
 
 # News
+https://engineering.fb.com/2024/02/07/production-engineering/simple-precision-time-protocol-sptp-meta/
+> https://news.ycombinator.com/item?id=39298652
+
 https://www.phoronix.com/news/Debian-Experimental-64bit-Time
 > https://news.ycombinator.com/item?id=39231883
 

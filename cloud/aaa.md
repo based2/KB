@@ -135,6 +135,11 @@ https://adrianco.medium.com/so-many-bad-takes-what-is-there-to-learn-from-the-pr
 https://fly.io/blog/rethinking-serverless-with-flame/
 > https://news.ycombinator.com/item?id=38542764
 
+https://news.ycombinator.com/item?id=39313891
+
+https://github.com/awslabs/llrt
+> https://news.ycombinator.com/item?id=39304188
+
 # Security
 https://github.com/securisec/cliam cloud agnostic IAM permissions enumerator. Covers AWS and GCP
 
@@ -352,6 +357,11 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://getdeploying.com/reference/data-egress
+> https://news.ycombinator.com/item?id=39324956
+
+https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/
+
 https://restate.dev/blog/solving-durable-executions-immutability-problem/
 > https://news.ycombinator.com/item?id=39260968
 

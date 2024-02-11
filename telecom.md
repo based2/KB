@@ -144,6 +144,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://news.ycombinator.com/item?id=39303357
+
 https://arstechnica.com/tech-policy/2024/01/sim-swapping-ring-stole-400m-in-crypto-from-a-us-company-officials-allege/
 
 https://www.cbsnews.com/sacramento/news/at-t-applies-to-end-obligation-to-service-landlines/

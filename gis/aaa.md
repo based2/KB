@@ -240,6 +240,9 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://support.nooelec.com/hc/en-us/articles/10407982882327-Receiving-Weather-Satellite-Images-Using-SatDump
+> https://news.ycombinator.com/item?id=39299419
+
 https://observablehq.com/@d3/tissots-indicatrix
 > https://news.ycombinator.com/item?id=39228088
 

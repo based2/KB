@@ -351,6 +351,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://rustpython.github.io/
+> https://news.ycombinator.com/item?id=39286458
+
 https://lucumr.pocoo.org/2024/2/4/rye-a-vision/ pkg
 > https://news.ycombinator.com/item?id=39249005
 

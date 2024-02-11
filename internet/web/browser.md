@@ -47,6 +47,17 @@ https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://blog.mozilla.org/en/mozilla/a-new-chapter-for-mozilla-laura-chambers-expanded-role/
+> https://news.ycombinator.com/item?id=39302624
+
+https://news.ycombinator.com/item?id=39314074
+
+https://news.ycombinator.com/item?id=39302744
+
+https://news.ycombinator.com/item?id=39319509
+
+https://www.theregister.com/2024/01/27/apple_europe_ios_analysis/?td=keepreading
+
 https://webkit.org/blog/14955/the-web-just-gets-better-with-interop/
 > https://news.ycombinator.com/item?id=39218638
 

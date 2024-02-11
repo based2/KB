@@ -45,6 +45,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/Textualize/toolong
+> https://news.ycombinator.com/item?id=39317580
+
 https://github.com/dankamongmen/notcurses
 > https://news.ycombinator.com/item?id=39215321
 

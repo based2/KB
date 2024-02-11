@@ -305,6 +305,8 @@ https://news.ycombinator.com/item?id=39190110
 
 https://news.ycombinator.com/item?id=39189881
 
+https://news.ycombinator.com/item?id=39330281
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -368,6 +370,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://reportmill.com/SnapCode/
+> https://news.ycombinator.com/item?id=39301586
+
 https://edeproject.org/
 > https://news.ycombinator.com/item?id=39238318
 

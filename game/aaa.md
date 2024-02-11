@@ -33,6 +33,9 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://jessicalieb.itch.io/birdlingo
+> https://news.ycombinator.com/item?id=39323893
+
 https://www.missile-game.com/
 > https://news.ycombinator.com/item?id=39189285
 

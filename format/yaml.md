@@ -21,3 +21,5 @@ https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell
 https://news.ycombinator.com/item?id=34509789
 
 https://news.ycombinator.com/item?id=39101828
+
+https://news.ycombinator.com/item?id=39304409

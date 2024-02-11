@@ -294,6 +294,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://netflixtechblog.com/rebuilding-netflix-video-processing-pipeline-with-microservices-4e5e6310e359?gi=d48b3333df75
+> https://news.ycombinator.com/item?id=39299599
+
 https://news.ycombinator.com/item?id=39173665
 
 https://wso2.com/whitepapers/towards-a-precise-definition-of-microflows-distinguishing-short-lived-orchestration-from-workflows/

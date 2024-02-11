@@ -25,6 +25,8 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://news.ycombinator.com/item?id=39308420
+
 https://www.phoronix.com/news/Redox-OS-Starts-2024
 
 https://lwn.net/SubscriberLink/959562/0578b8e463f790c1/ openbsd

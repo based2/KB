@@ -1,3 +1,14 @@
+https://www.bleepingcomputer.com/news/security/americans-lost-record-10-billion-to-fraud-in-2023-ftc-warns/
+
+https://news.ycombinator.com/item?id=39295206
+
+https://news.ycombinator.com/item?id=39308731
+
+https://news.ycombinator.com/item?id=39281939
+
+https://krebsonsecurity.com/2024/02/juniper-support-portal-exposed-customer-device-info/
+> https://news.ycombinator.com/item?id=39315875
+
 https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/
 > https://news.ycombinator.com/item?id=39258546
 

@@ -89,6 +89,8 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://news.ycombinator.com/item?id=39301034
+
 https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/
 > https://news.ycombinator.com/item?id=38497963
 

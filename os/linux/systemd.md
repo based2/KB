@@ -77,3 +77,5 @@ https://github.com/systemd/systemd/releases/tag/v251
 
 https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-maintainer/
 > https://news.ycombinator.com/item?id=38889156
+
+https://fosdem.org/2024/schedule/event/fosdem-2024-1987-systemd-boot-systemd-stub-ukis/

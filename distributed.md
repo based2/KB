@@ -160,6 +160,9 @@ https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf
 https://distributed-computing-musings.com/2023/04/vector-clocks-so-what-time-is-it/
 > https://news.ycombinator.com/item?id=36584809
 
+https://blog.fponzi.me/2024-02-02-lamport-clocks.html
+> https://news.ycombinator.com/item?id=39299482
+
 # Database
 https://dbos-project.github.io/blog/intro-blog.html
 > https://news.ycombinator.com/item?id=32705025
@@ -222,6 +225,11 @@ https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing
 # concurrencyngs
 
 # News
+https://blog.schmizz.net/disaggregated-wal
+> https://news.ycombinator.com/item?id=39282054
+
+https://news.ycombinator.com/item?id=39303160
+
 https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 > https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/
 

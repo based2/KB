@@ -94,6 +94,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://developer.nvidia.com/blog/cuda-quantum-introduces-more-capabilities-for-quantum-accelerated-supercomputing/
+> https://news.ycombinator.com/item?id=39310994
+
 https://arstechnica.com/science/2023/12/quantum-computer-performs-error-resistant-operations-with-logical-qubits/
 
 https://arstechnica.com/science/2023/12/ibm-adds-error-correction-to-updated-quantum-computing-roadmap/

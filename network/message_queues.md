@@ -109,6 +109,8 @@ https://webapp.io/blog/postgres-is-the-answer/
 https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql
 > https://news.ycombinator.com/item?id=30119285
 
+https://news.ycombinator.com/item?id=39315833
+
 # MQTT
 https://github.com/eclipse/mosquitto C Python
 > https://news.ycombinator.com/item?id=28695346

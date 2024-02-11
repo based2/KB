@@ -76,6 +76,10 @@ http://argonaut.io/doc/quickstart/ scala
 https://github.com/AykutSarac/jsoncrack.com
 
 # News
+https://news.ycombinator.com/item?id=39320003
+
+https://news.ycombinator.com/item?id=39319746
+
 https://jy95.github.io/docusaurus-json-schema-plugin/
 
 https://github.com/kellyjonbrazil/jc

@@ -52,6 +52,8 @@ https://blot.im/how
 
 https://github.com/getzola/zola
 
+https://news.ycombinator.com/item?id=39310688
+
 #
 https://news.ycombinator.com/item?id=38752435
 

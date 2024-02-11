@@ -189,6 +189,8 @@ https://eng.snap.com/quic-at-snap QUIC
 https://github.com/icing/blog/blob/main/curl-h3-performance.md
 > https://news.ycombinator.com/item?id=39163948
 
+https://news.ycombinator.com/item?id=39300573
+
 # Dev
 https://github.com/httptoolkit/httptoolkit-server
 > https://news.ycombinator.com/item?id=29624319

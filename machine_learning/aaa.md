@@ -250,6 +250,8 @@ https://techxplore.com/news/2023-12-customized-gpt-vulnerability.html
 
 https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-other-chatbots/
 
+https://arxiv.org/abs/2401.15883
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -356,6 +358,8 @@ https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Framework
 > https://lobste.rs/s/ftpxug/welcome_offensive_ml_framework
 
 https://security.googleblog.com/2023/10/increasing-transparency-in-ai-security.html
+
+https://news.ycombinator.com/item?id=39294383
 
 # Incident
 https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html

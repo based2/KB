@@ -52,6 +52,8 @@ https://fr.ifixit.com/News/73291/colorado-approves-first-ever-agricultural-right
 
 https://news.ycombinator.com/item?id=38421896
 
+https://news.ycombinator.com/item?id=39317819
+
 #
 https://github.com/lima-vm/lima
 

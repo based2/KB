@@ -53,6 +53,9 @@ https://drew.shoes/posts/sup/ net send win
 > https://news.ycombinator.com/item?id=34157636
 
 # News
+https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/
+> https://news.ycombinator.com/item?id=39305452
+
 https://www.redhat.com/sysadmin/6-lesser-known-commands
 > https://news.ycombinator.com/item?id=38959575
 

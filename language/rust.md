@@ -208,6 +208,8 @@ https://ibraheem.ca/posts/too-many-web-servers/
 https://without.boats/blog/a-four-year-plan/
 > https://news.ycombinator.com/item?id=38178592
 
+https://hegdenu.net/posts/debugging-tokio-instrumentation/
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -501,6 +503,8 @@ https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH
 > https://news.ycombinator.com/item?id=34336906
 
 # News
+https://news.ycombinator.com/item?id=39318305
+
 https://github.com/cloudflare/foundations
 
 https://news.ycombinator.com/item?id=39236788

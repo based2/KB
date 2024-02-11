@@ -103,6 +103,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://fedoramagazine.org/introducing-fedora-atomic-desktops/
+> https://news.ycombinator.com/item?id=39315880
+
 https://news.ycombinator.com/item?id=39252801
 
 https://news.ycombinator.com/item?id=39172377

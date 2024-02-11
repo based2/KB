@@ -71,6 +71,13 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.npr.org/2024/02/08/1230236546/famous-climate-scientist-michael-mann-wins-his-defamation-case
+
+https://news.ycombinator.com/item?id=39282020
+
+https://www.nytimes.com/2024/02/02/climate/sun-shade-climate-geoengineering.html
+> https://news.ycombinator.com/item?id=39316084
+
 https://news.ycombinator.com/item?id=39157010
 
 https://arstechnica.com/science/2023/12/40-of-us-electricity-is-now-emissions-free/
