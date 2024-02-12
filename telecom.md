@@ -228,6 +228,10 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=39350069
+
+https://news.ycombinator.com/item?id=39349389
+
 https://news.ycombinator.com/item?id=39224249
 
 https://www.jstage.jst.go.jp/article/elex/advpub/0/advpub_20.20230584/_article

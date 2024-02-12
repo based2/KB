@@ -68,6 +68,8 @@ https://www.highlight.io/blog/clickhouse-materialized-views
 > https://news.ycombinator.com/item?id=39229935
 
 # News
+https://news.ycombinator.com/item?id=39338626
+
 https://www.alibabacloud.com/blog/aliorc-a-combination-of-maxcompute-and-apache-orc_595359
 
 https://davidgomes.com/understanding-parquet-iceberg-and-data-lakehouses-at-broad/

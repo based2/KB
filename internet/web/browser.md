@@ -47,6 +47,8 @@ https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://news.ycombinator.com/item?id=39342887
+
 https://blog.mozilla.org/en/mozilla/a-new-chapter-for-mozilla-laura-chambers-expanded-role/
 > https://news.ycombinator.com/item?id=39302624
 

@@ -32,6 +32,9 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://skyandtelescope.org/astronomy-news/how-venus-ended-up-with-a-mini-moon-named-zoozve/
+> https://news.ycombinator.com/item?id=39336904
+
 https://www.space.com/jaxa-slim-moon-lander-lev-2-ball-robot
 
 https://news.ycombinator.com/item?id=39266396

@@ -169,6 +169,8 @@ https://www.tokyodev.com/articles/not-setting-up-find-my-bricked-my-macbook
 > https://news.ycombinator.com/item?id=37865941
 
 # Dev
+https://news.ycombinator.com/item?id=39346527
+
 https://news.ycombinator.com/item?id=37333404 vm
 
 https://news.ycombinator.com/item?id=36658553

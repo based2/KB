@@ -16,6 +16,9 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://newatlas.com/energy/minesto-tidal-kite/
+> https://news.ycombinator.com/item?id=39342532
+
 https://news.ycombinator.com/item?id=39295769
 
 https://news.ycombinator.com/item?id=39314550

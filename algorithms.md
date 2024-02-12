@@ -147,6 +147,7 @@ https://codeconfessions.substack.com/p/a-linear-algebra-trick-for-fibonacci-numb
 
 https://www.kalmanfilter.net/default.aspx
 > https://news.ycombinator.com/item?id=37879715
+> https://news.ycombinator.com/item?id=39343746
 
 https://questdb.io/blog/concurrent-lockfree-datastructure-design-walkthrough/
 > https://news.ycombinator.com/item?id=37295066

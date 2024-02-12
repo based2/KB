@@ -44,6 +44,8 @@ https://www.psu.edu/news/research/story/protein-based-nano-computer-evolves-abil
 
 https://thenextweb.com/news/dutch-biotech-startup-bags-e22m-for-proprietary-generative-ai-model
 
+https://news.ycombinator.com/item?id=39348902
+
 # History
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
