@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://www.bbc.com/news/world-asia-68166298
+
 https://news.ycombinator.com/item?id=39397338
 
 https://www.npr.org/2024/02/08/1230236546/famous-climate-scientist-michael-mann-wins-his-defamation-case

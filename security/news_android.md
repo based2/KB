@@ -24,6 +24,8 @@ https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guida
 
 https://vigilance.fr/vulnerability/Google-Android-Pixel-multiple-vulnerabilities-of-January-2024-43214
 
+https://www.bitdefender.com/blog/labs/unveiling-mobile-app-secrets-a-6-month-deep-dive-into-surprising-behavior-patterns/
+
 https://www.welivesecurity.com/en/eset-research/unlucky-kamran-android-malware-spying-urdu-speaking-residents-gilgit-baltistan/
 
 https://www.bleepingcomputer.com/news/security/autospill-attack-steals-credentials-from-android-password-managers/

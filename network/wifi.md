@@ -5,6 +5,7 @@ https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio
 
 # Security
 https://www.nzyme.org/ Defend your Wireless Networks
+
 https://www.krackattacks.com/#tools From 2017
 
 https://github.com/bettercap/bettercap
@@ -13,6 +14,9 @@ https://news.ycombinator.com/item?id=38183394
 
 https://wirelessbits.net/practical-wpa2-security-assessment-of-wireless-routers-f5f0d5aadfda
 > https://old.reddit.com/r/netsec/comments/1anj5oq/practical_wpa2_security_assessment_of_wireless/
+
+https://btxx.org/posts/x201/ Bypassing the WiFi Hardware Switch on the Lenovo X201 (2023)
+> https://news.ycombinator.com/item?id=39408889
 
 # Portal
 https://news.ycombinator.com/item?id=27771846

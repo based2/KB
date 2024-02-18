@@ -75,6 +75,9 @@ https://github.com/impress/impress.js
 
 https://imakewebthings.com/deck.js/
 
+https://tools.suckless.org/sent/
+> https://news.ycombinator.com/item?id=39421618
+
 https://marp.app/ vs
 > https://blog.zwindler.fr/2021/09/13/marp-presentations-rapides-et-jolies-avec-markdown/
 

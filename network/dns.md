@@ -48,6 +48,10 @@ https://utcc.utoronto.ca/~cks/space/blog/tech/DNSSECFailureDrivesDisablement
 https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/
 > https://news.ycombinator.com/item?id=36171696
 
+https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf
+> https://www.akamai.com/blog/security/dns-exploit-keytrap-posed-major-internet-threat
+> > https://www.bleepingcomputer.com/news/security/keytrap-attack-internet-access-disrupted-with-one-dns-packet/
+
 # DNS over TLS
 
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times

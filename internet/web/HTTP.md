@@ -97,6 +97,10 @@ https://nginx.org/en/CHANGES http3 experiment
 https://jvns.ca/blog/2023/07/08/open-sourcing-the-nginx-playground/
 > https://news.ycombinator.com/item?id=36648821
 
+https://freenginx.org/
+
+https://github.com/webserver-llc/angie
+
 ##
 https://caddyserver.com/
 > https://news.ycombinator.com/item?id=29378030

@@ -7,7 +7,11 @@ https://objective-see.org/products/knockknock.html
 
 https://objective-see.org/products/blockblock.html
 
+https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
+
 #
+https://news.ycombinator.com/item?id=39416602
+
 https://flaky.build/built-in-workaround-for-applications-hiding-under-the-macbook-pro-notch
 > https://news.ycombinator.com/item?id=39343919
 

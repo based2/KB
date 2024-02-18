@@ -39,6 +39,9 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77
+> https://news.ycombinator.com/item?id=39419098
+
 https://lwn.net/Articles/698014/ mmio
 
 https://lore.kernel.org/lkml/CAHk-=widprp4XoHUcsDe7e16YZjLYJWra-dK0hE1MnfPMf6C3Q@mail.gmail.com/T/#u

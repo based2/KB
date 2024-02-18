@@ -257,6 +257,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://linuxfr.org/news/libreoffice-24-2-nouvelle-annee-nouvelle-numerotation-nouvelle-version
+
 https://news.ycombinator.com/item?id=39396130
 
 https://news.ycombinator.com/item?id=39342109

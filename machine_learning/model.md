@@ -202,6 +202,12 @@ https://news.ycombinator.com/item?id=39213410
 https://lilianweng.github.io/posts/2024-02-05-human-data-quality/
 
 # News
+https://github.com/karpathy/minbpe Code for the Byte Pair Encoding algorithm, commonly used in LLM tokenization
+> https://news.ycombinator.com/item?id=39407407
+
+https://vgel.me/posts/representation-engineering/
+> https://news.ycombinator.com/item?id=39414532
+
 https://github.com/enjalot/latent-scope workflow + tool for visualizing and exploring datasets through the lens of latent spaces
 > https://news.ycombinator.com/item?id=39408934
 

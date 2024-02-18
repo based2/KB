@@ -104,7 +104,11 @@ https://statut-diffusion-sirene.insee.fr/
 
 https://www.numerama.com/politique/1511774-le-gouvernement-envisage-de-prolonger-la-videosurveillance-par-ia-au-dela-des-jo-2024.html
 
+https://linuxfr.org/users/oinska/journaux/ou-il-est-question-de-donnees-personnelles-bis
+
 # News
+https://news.ycombinator.com/item?id=39422399
+
 https://news.ycombinator.com/item?id=39326201
 
 https://news.ycombinator.com/item?id=39301830

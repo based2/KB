@@ -48,6 +48,8 @@ https://vigneshwarar.substack.com/p/hackernews-ranking-algorithm-how
 
 https://news.ycombinator.com/item?id=38773957
 
+https://news.ycombinator.com/item?id=39419126
+
 # Slashdot
 # Reddit
 

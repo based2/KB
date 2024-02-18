@@ -33,6 +33,14 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://dominofit.isotropic.us/
+> https://news.ycombinator.com/item?id=39420966
+
+https://brainbaking.com/post/2024/02/pimp-your-boardgame/
+> https://news.ycombinator.com/item?id=39417420
+
+https://news.ycombinator.com/item?id=39418283
+
 https://treksit.com/index.html
 > https://news.ycombinator.com/item?id=39408099
 

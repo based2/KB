@@ -367,6 +367,8 @@ https://arxiv.org/abs/2402.06664 LLM agents can autonomously hack websites
 > https://news.ycombinator.com/item?id=39403534
 
 # Incident
+https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit
+
 https://nokline.github.io/bugbounty/2024/02/04/ChatGPT-ATO.html
 
 https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html

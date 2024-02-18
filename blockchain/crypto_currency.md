@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.bitdefender.com/blog/labs/stream-jacking-2-0-deep-fakes-power-account-takeovers-on-youtube-to-maximize-crypto-doubling-scams/
+
 https://news.ycombinator.com/item?id=39077151
 
 https://www.bleepingcomputer.com/news/security/hacker-spins-up-1-million-virtual-servers-to-illegally-mine-crypto/
