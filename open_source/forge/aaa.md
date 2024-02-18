@@ -26,6 +26,8 @@ https://outage.sr.ht/
 > > https://news.ycombinator.com/item?id=38939532
 
 # News
+https://news.ycombinator.com/item?id=39393794
+
 https://notgull.net/finding-a-forge/
 > https://news.ycombinator.com/item?id=38672386
 

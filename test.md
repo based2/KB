@@ -164,7 +164,12 @@ https://github.com/lost-pixel/lost-pixel  visual regression testing framework fo
 https://github.com/axllent/mailpit
 > https://news.ycombinator.com/item?id=36448686
 
+# ML
+https://news.ycombinator.com/item?id=39405996
+
 # News
+https://news.ycombinator.com/item?id=39407821
+
 https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring
 > https://news.ycombinator.com/item?id=39135192
 

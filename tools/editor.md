@@ -307,6 +307,8 @@ https://news.ycombinator.com/item?id=39189881
 
 https://news.ycombinator.com/item?id=39330281
 
+https://news.ycombinator.com/item?id=39397942
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/

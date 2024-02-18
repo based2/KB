@@ -11,6 +11,9 @@ https://github.com/bettercap/bettercap
 
 https://news.ycombinator.com/item?id=38183394
 
+https://wirelessbits.net/practical-wpa2-security-assessment-of-wireless-routers-f5f0d5aadfda
+> https://old.reddit.com/r/netsec/comments/1anj5oq/practical_wpa2_security_assessment_of_wireless/
+
 # Portal
 https://news.ycombinator.com/item?id=27771846
 

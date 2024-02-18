@@ -112,6 +112,9 @@ https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500
 https://krebsonsecurity.com/2023/10/tech-ceo-sentenced-to-5-years-in-ip-address-scheme/
 
 # News
+https://lwn.net/Articles/960913/ So you think you understand IP fragmentation?
+> https://news.ycombinator.com/item?id=39381508
+
 https://www.theregister.com/2024/02/09/240_4_ipv4_block_activism/
 
 https://news.ycombinator.com/item?id=39101643

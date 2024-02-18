@@ -28,6 +28,10 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://ssd-disclosure.com/ssd-advisory-totolink-lr1200gb-auth-bypass/
+
+https://news.ycombinator.com/item?id=39400453
+
 https://securityscorecard.com/blog/threat-intelligence-research-volt-typhoon/
 
 https://blog.sicuranext.com/modsecurity-path-confusion-bugs-bypass/

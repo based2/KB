@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=39409535
+
 https://developer.android.com/studio/platform
 > https://news.ycombinator.com/item?id=39158683
 

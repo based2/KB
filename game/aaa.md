@@ -33,6 +33,14 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://treksit.com/index.html
+> https://news.ycombinator.com/item?id=39408099
+
+https://news.ycombinator.com/item?id=39390965
+
+https://frenchie14.itch.io/driftmania
+> https://news.ycombinator.com/item?id=39402142
+
 https://jessicalieb.itch.io/birdlingo
 > https://news.ycombinator.com/item?id=39323893
 

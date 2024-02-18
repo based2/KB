@@ -1,3 +1,14 @@
+https://archive.org/details/shmoocon2024
+
+https://voidzone.me/posts/diving-into-the-dicom-file-format/
+
+https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-blocks-attacks-against-home-networks/
+> https://news.ycombinator.com/item?id=39411976
+
+https://news.ycombinator.com/item?id=39373612 nginx
+
+https://news.ycombinator.com/item?id=39394674
+
 https://www.bleepingcomputer.com/news/security/americans-lost-record-10-billion-to-fraud-in-2023-ftc-warns/
 
 https://news.ycombinator.com/item?id=39295206

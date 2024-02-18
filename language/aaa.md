@@ -357,6 +357,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://btmc.substack.com/p/you-cant-handle-errors
+> https://news.ycombinator.com/item?id=39367543
+
 https://news.ycombinator.com/item?id=39239721
 
 https://rahul.gopinath.org/post/2024/01/04/lstar-learning-regular-languages/

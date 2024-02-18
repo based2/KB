@@ -101,6 +101,9 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://github.com/MakeYourPet/hexapod
+> https://news.ycombinator.com/item?id=39388269
+
 http://guillaumeslizewicz.com/posts/2023/vertical_printer/
 > https://news.ycombinator.com/item?id=39079335
 

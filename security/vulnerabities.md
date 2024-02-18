@@ -79,6 +79,8 @@ https://www.openvas.org/
 https://pkg.go.dev/vuln/
 
 # News
+https://news.ycombinator.com/item?id=39406088
+
 https://www.pluginvulnerabilities.com/2024/01/22/many-cve-records-are-listing-the-wrong-versions-of-software-as-being-affected/
 > https://old.reddit.com/r/netsec/comments/19d380l/many_cve_records_are_listing_the_wrong_versions/
 

@@ -46,3 +46,6 @@ https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-m
 https://github.com/ohmjs/ohm
 > https://ohmjs.org/editor/
 > > https://dubroy.com/blog/visualizing-packrat-parsing/
+
+https://dubroy.com/blog/visualizing-packrat-parsing/
+> https://news.ycombinator.com/item?id=39379552

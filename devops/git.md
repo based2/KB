@@ -278,6 +278,9 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://jvns.ca/blog/2024/02/16/popular-git-config-options/
+> https://frenchie14.itch.io/driftmania
+
 https://news.ycombinator.com/item?id=39327192
 
 https://news.ycombinator.com/item?id=39217149

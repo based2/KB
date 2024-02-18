@@ -13,6 +13,8 @@ https://pernos.co/blog/function-prologues/
 https://news.ycombinator.com/item?id=32709045
 
 # News
+https://news.ycombinator.com/item?id=39401521
+
 https://news.ycombinator.com/item?id=39333777
 
 https://blogs.oracle.com/linux/post/whats-inside-a-linux-kernel-core-dump

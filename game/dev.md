@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # Releases
+https://news.ycombinator.com/item?id=39412940
+
 https://godotengine.org/article/godot-4-2-arrives-in-style/
 > https://news.ycombinator.com/item?id=38472345
 
@@ -157,6 +159,9 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://godotengine.org/article/rendering-acyclic-graph/
+> https://news.ycombinator.com/item?id=39400572
+
 https://news.ycombinator.com/item?id=39169972
 
 https://github.com/boardzilla

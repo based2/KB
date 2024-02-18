@@ -42,7 +42,11 @@ https://www.righto.com/2023/08/datapoint-to-8086.html
 https://and0uille.net/misc/debug90.html
 > https://news.ycombinator.com/item?id=39214966
 
+https://news.ycombinator.com/item?id=39379480
+
 #
+https://news.ycombinator.com/item?id=39371831
+
 https://news.ycombinator.com/item?id=39324278
 
 https://www.mandiant.com/resources/blog/dynamic-capa-executable-behavior-cape-sandbox

@@ -17,6 +17,9 @@ https://www.unihiker.com/
 > https://news.ycombinator.com/item?id=36341287
 
 #
+https://www.dzombak.com/blog/2023/12/Considerations-for-a-long-running-Raspberry-Pi.html
+> https://news.ycombinator.com/item?id=39407631
+
 https://arstechnica.com/gadgets/2024/01/raspberry-pi-is-preparing-for-an-ipo-in-london-for-likely-more-than-500m/
 > https://news.ycombinator.com/item?id=39193572
 

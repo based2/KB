@@ -204,6 +204,8 @@ https://monetal.app/index_en.php
 https://bou.ke/blog/formulas/
 > https://news.ycombinator.com/item?id=28037317
 
+https://news.ycombinator.com/item?id=39392428
+
 https://news.ycombinator.com/item?id=28584965
 
 https://github.com/Gnucash/gnucash/releases/tag/4.7

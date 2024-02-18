@@ -41,5 +41,7 @@ https://wattenberger.com/thoughts/evolving-the-infinite-canvas
 https://ahastack.dev/
 > https://news.ycombinator.com/item?id=38854748
 
+https://news.ycombinator.com/item?id=39399281
+
 
 

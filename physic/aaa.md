@@ -1,5 +1,7 @@
 https://ophysics.com/index.html
 
+https://news.ycombinator.com/item?id=39374020
+
 https://nicf.net/articles/physics-for-mathematicians/
 > https://news.ycombinator.com/item?id=39305931
 

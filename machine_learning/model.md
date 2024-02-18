@@ -202,6 +202,16 @@ https://news.ycombinator.com/item?id=39213410
 https://lilianweng.github.io/posts/2024-02-05-human-data-quality/
 
 # News
+https://github.com/enjalot/latent-scope workflow + tool for visualizing and exploring datasets through the lens of latent spaces
+> https://news.ycombinator.com/item?id=39408934
+
+https://ollama.com/blog/windows-preview
+> https://news.ycombinator.com/item?id=39409650
+
+https://news.ycombinator.com/item?id=39372159
+
+https://news.ycombinator.com/item?id=39398631
+
 https://news.ycombinator.com/item?id=39335509
 
 https://news.ycombinator.com/item?id=39294810

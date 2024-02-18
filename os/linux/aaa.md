@@ -92,6 +92,8 @@ https://nathanotterness.com/2021/10/tiny_elf_modernized.html
 https://mjg59.dreamwidth.org/69070.html
 > https://news.ycombinator.com/item?id=38847750
 
+https://news.ycombinator.com/item?id=39367243
+
 # Window manager
 https://www.freedesktop.org/wiki/
 

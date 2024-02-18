@@ -188,6 +188,8 @@ https://klarasystems.com/articles/modern-inetd-in-freebsd/
 https://cdn.coverstand.com/33057/739644/0483e8ca86f15b6c0ce9d6f4660f93665bff176a.2.pdf
 
 ## News
+https://news.ycombinator.com/item?id=39399591
+
 https://news.ycombinator.com/item?id=39215309
 
 https://www.phoronix.com/review/freebsd-14-epyc

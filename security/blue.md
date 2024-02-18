@@ -71,3 +71,5 @@ https://www.thefinalhop.com/decoy-defenses-how-honeypots-sweeten-cybersecurity-s
 https://github.com/mschwager/route-detect
 
 https://github.com/0x4D31/galah
+
+https://www.rezonate.io/blog/top-10-features-to-enhance-your-okta-security-posture/#heading-0
