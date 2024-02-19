@@ -70,6 +70,8 @@ https://cblgh.org/trustnet/
 > https://news.ycombinator.com/item?id=38590144
 
 # Incident
+https://news.ycombinator.com/item?id=39432349
+
 https://kolektiva.social/@admin/110637031574056150
 > https://news.ycombinator.com/item?id=36553489
 

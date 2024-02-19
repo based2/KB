@@ -187,6 +187,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://news.ycombinator.com/item?id=39416277
+
 https://github.com/aws/s2n-tls
 > https://news.ycombinator.com/item?id=38508276
 

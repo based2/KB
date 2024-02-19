@@ -72,7 +72,8 @@ https://www.presslabs.com/docs/code/gitfs/
 
 # Changelog
 https://github.com/orhun/git-cliff Summary
-> https://news.ycombinator.com/item?id=28423843 
+> https://news.ycombinator.com/item?id=28423843
+> https://news.ycombinator.com/item?id=39428922
 
 https://keepachangelog.com/en/1.0.0/
 > https://news.ycombinator.com/item?id=29438221

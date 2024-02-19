@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=39433674
+
 https://archive.org/details/shmoocon2024
 
 https://voidzone.me/posts/diving-into-the-dicom-file-format/

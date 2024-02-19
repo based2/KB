@@ -159,6 +159,10 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://leanrada.com/htmz/
+> https://github.com/Kalabasa/htmz MIT
+> https://news.ycombinator.com/item?id=39429370
+
 https://webkit.org/blog/14933/bringing-back-horizontal-rules-in-select-elements/
 > https://news.ycombinator.com/item?id=39139598
 

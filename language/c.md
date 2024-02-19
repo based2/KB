@@ -77,6 +77,8 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://news.ycombinator.com/item?id=39429627
+
 https://zeux.io/2010/11/15/include-rules/
 > https://news.ycombinator.com/item?id=39249430
 

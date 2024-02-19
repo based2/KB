@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=39409140
+
 https://killedbyapixel.github.io/TinyCode/games/CrossMyHeart/
 > https://news.ycombinator.com/item?id=39336677
 

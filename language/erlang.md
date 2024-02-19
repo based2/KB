@@ -202,6 +202,8 @@ https://gleam.run/news/gleam-v0.15-released/
 > https://news.ycombinator.com/item?id=27061500
 
 # News
+https://news.ycombinator.com/item?id=39432085
+
 https://news.ycombinator.com/item?id=39397538
 
 https://fly.io/phoenix-files/elixir-and-phoenix-can-do-it-all/
