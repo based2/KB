@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=39452494
+
 https://news.ycombinator.com/item?id=39433674
 
 https://archive.org/details/shmoocon2024

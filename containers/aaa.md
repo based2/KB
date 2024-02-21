@@ -53,6 +53,10 @@ https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://news.ycombinator.com/item?id=39450551
+
+https://news.ycombinator.com/item?id=39440303
+
 https://news.ycombinator.com/item?id=39262650
 
 https://news.ycombinator.com/item?id=39188432

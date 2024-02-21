@@ -43,6 +43,8 @@ https://www.qblocks.cloud/blog/nvidia-gaugan2-ai-creates-landscape-images-from-t
 https://github.com/Rishit-dagli/Transformer-in-Transformer
 
 # News
+https://news.ycombinator.com/item?id=39458264
+
 https://openai.com/sora
 > https://news.ycombinator.com/item?id=39386156
 

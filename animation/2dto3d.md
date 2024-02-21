@@ -7,6 +7,8 @@ https://victorribeiro.com/random4/
 https://arxiv.org/abs/2110.06635 ADOP: Approximate Differentiable One-Pixel Point Rendering
 > https://news.ycombinator.com/item?id=28886155
 
+https://news.ycombinator.com/item?id=39453524
+
 # Photo23D
 
 https://www.optica.org/en-us/about/newsroom/news_releases/2022/september/lensless_camera_creates_3d_images_from_single_expo/

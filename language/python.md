@@ -284,6 +284,8 @@ https://news.ycombinator.com/item?id=38147052
 https://github.com/PySimpleGUI/PySimpleGUI
 > https://news.ycombinator.com/item?id=38579161
 
+https://news.ycombinator.com/item?id=39441677
+
 # Infra
 https://bluebanquise.com/
 

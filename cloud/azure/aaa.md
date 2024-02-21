@@ -110,6 +110,8 @@ https://www.cadosecurity.com/azure-omi-vulnerability-omigod-cve-2021-38647-now-u
 https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/
 
 # News
+https://news.ycombinator.com/item?id=39446866
+
 https://news.ycombinator.com/item?id=39397995
 
 https://ironpeak.be/blog/azure-detecting-aitm-attacks/

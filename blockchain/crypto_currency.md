@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://news.ycombinator.com/item?id=39446617
+
 https://www.bitdefender.com/blog/labs/stream-jacking-2-0-deep-fakes-power-account-takeovers-on-youtube-to-maximize-crypto-doubling-scams/
 
 https://news.ycombinator.com/item?id=39077151

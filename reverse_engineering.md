@@ -45,6 +45,10 @@ https://and0uille.net/misc/debug90.html
 https://news.ycombinator.com/item?id=39379480
 
 #
+https://news.ycombinator.com/item?id=39439782
+
+https://news.ycombinator.com/item?id=39438842
+
 https://news.ycombinator.com/item?id=39371831
 
 https://news.ycombinator.com/item?id=39324278

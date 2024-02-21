@@ -450,6 +450,8 @@ https://briansmith.org/rust-cryptography-should-be-written-in-rust-01
 
 https://news.ycombinator.com/item?id=37869597
 
+https://news.ycombinator.com/item?id=39440808
+
 ## Crypto
 https://github.com/facebookresearch/Cupcake
 > https://news.ycombinator.com/item?id=27589010

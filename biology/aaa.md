@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=39348902
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://iopscience.iop.org/article/10.1088/1742-6596/2461/1/012006
+
 https://linuxfr.org/users/omc/journaux/jouer-avec-lenia-modele-de-vie-artificielle-en-python
 
 https://www.nature.com/articles/s41467-024-45069-6

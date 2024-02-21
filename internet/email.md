@@ -242,6 +242,10 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://news.ycombinator.com/item?id=39446282
+
+https://news.ycombinator.com/item?id=39443574
+
 https://mailready.info/
 > https://news.ycombinator.com/item?id=39189289
 

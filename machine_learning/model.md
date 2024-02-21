@@ -52,6 +52,8 @@ https://ai.meta.com/llama/ v2
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
 
+https://news.ycombinator.com/item?id=39443972
+
 https://neuralmagic.com/blog/fast-llama-2-on-cpus-with-sparse-fine-tuning-and-deepsparse/
 > https://news.ycombinator.com/item?id=38389386
 
@@ -202,6 +204,10 @@ https://news.ycombinator.com/item?id=39213410
 https://lilianweng.github.io/posts/2024-02-05-human-data-quality/
 
 # News
+https://news.ycombinator.com/item?id=39453543
+
+https://news.ycombinator.com/item?id=39453271
+
 https://github.com/karpathy/minbpe Code for the Byte Pair Encoding algorithm, commonly used in LLM tokenization
 > https://news.ycombinator.com/item?id=39407407
 

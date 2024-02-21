@@ -168,6 +168,8 @@ https://github.com/axllent/mailpit
 https://news.ycombinator.com/item?id=39405996
 
 # News
+https://news.ycombinator.com/item?id=39455874
+
 https://news.ycombinator.com/item?id=39407821
 
 https://www.agileconnection.com/article/two-sides-software-testing-checking-and-exploring

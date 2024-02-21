@@ -291,6 +291,8 @@ block from any to 4.193.144.219
 block from any to 4.216.137.19
 # https://www.abuseipdb.com/check/
 block from any to 4.233.192.143
+# https://tracker.viriback.com/index.php?q=HookBot
+block from any to 4.236.181.235
 # A.ch TF
 block from any to 4.240.60.121
 # https://www.mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation
@@ -348,6 +350,8 @@ block from any to 5.51.198.41
 block from any to 5.58.5.87
 # https://www.abuseipdb.com/check/
 block from any to 5.58.8.4
+# Russia https://www.abuseipdb.com/check/
+block from any to 5.59.98.28
 # abuse.ch TF
 block from any to 5.61.37.91
 # abuse.ch TF
@@ -522,6 +526,8 @@ block from any to 8.210.77.104
 block from any to 8.213.208.58
 # Hong Kong https://objective-see.org/blog/blog_0x79.html
 block from any to 8.217.206.134
+# https://tracker.viriback.com/index.php?q=Unam
+block from any to 8.218.175.2
 # UK https://www.abuseipdb.com/
 block from any to 8.219.8.245
 # https://www.abuseipdb.com/
@@ -641,6 +647,8 @@ block from any to 14.162.145.33
 block from any to 14.192.208.95
 # China https://www.abuseipdb.com/check/
 block from any to 14.199.179.159
+# Thailand https://www.abuseipdb.com/check/
+block from any to 14.207.125.181
 # abuse.ch TF
 block from any to 14.224.174.212
 # abuse.ch TF
@@ -656,7 +664,7 @@ block from any to 14.231.250.250
 # https://www.abuseipdb.com/check/
 block from any to 14.238.7.210
 block from any to 15.161.248.77
-# US https://red.flag.domains/posts 2024-02-01 2024-01-11 2023-02-02 https://www.abuseipdb.com/check/15.197.130.221
+# US https://red.flag.domains/posts 2024-01-11/ 2023-11-20 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-01 2024-01-11 2023-02-02 https://www.abuseipdb.com/check/15.197.130.221
 block from any to 15.197.130.221
 # DFA https://red.flag.domains/posts/ 2024-02-13 registrar: KEY-SYSTEMS GmbH 2024-02-10 https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
 block from any to 15.197.142.173
@@ -783,11 +791,13 @@ block from any to 20.26.125.189
 block from any to 20.33.38.1
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 20.38.38.37
+# DFA https://red.flag.domains/posts/2023-11-21/ registrar: IONOS SE
+block from any to 20.39.210.20
 # abuse.ch TF
 block from any to 20.65.145.66
 # abuse.ch TF
 block from any to 20.77.91.250
-# DFA https://red.flag.domains/posts/2024-02-12/ registrar: IONOS SE
+# DFA https://red.flag.domains/posts/ 2024-02-21 registrar: EPAG Domainservices GmbH 2024-02-12 registrar: IONOS SE
 block from any to 20.82.179.191
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 20.81.43.192
@@ -912,7 +922,7 @@ block from any to 23.227.38.66
 block from any to 23.227.38.67
 # Canada https://red.flag.domains/posts/2024-01-24/ 16 15 11 https://www.abuseipdb.com/check/23.227.38.71
 block from any to 23.227.38.71
-# Canada https://red.flag.domains/posts/
+# Canada https://red.flag.domains/posts/2024-02-20/ registrar: EPAG Domainservices GmbH
 block from any to 23.227.38.72
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 23.227.203.241
@@ -963,6 +973,8 @@ block from any to 24.222.52.172
 block from any to 27.22.105.234
 # China https://www.abuseipdb.com/check/
 block from any to 27.23.90.241
+# China https://www.abuseipdb.com/check/
+block from any to 27.46.123.27
 # https://www.abuseipdb.com/check/
 block from any to 27.71.27.165
 # https://www.abuseipdb.com/check/
@@ -1076,6 +1088,8 @@ block from any to 31.141.208.193
 block from any to 31.163.192.152
 # https://www.abuseipdb.com/check/
 block from any to 31.171.155.68
+# https://red.flag.domains/posts/2024-02-20/ registrar: 1API GmbH
+block from any to 31.172.80.208
 # https://www.abuseipdb.com/check/
 block from any to 31.173.81.198
 # Russia https://www.abuseipdb.com/check/
@@ -1120,6 +1134,8 @@ block from any to 31.220.88.155
 block from any to 31.221.217.213
 # Turkey https://www.abuseipdb.com/check/
 block from any to 31.223.48.70
+# Qatar https://www.abuseipdb.com/check/
+block from any to 34.1.38.212
 # US https://www.abuseipdb.com/check/
 block from any to 34.16.177.150
 # US https://www.abuseipdb.com/check/
@@ -1139,7 +1155,13 @@ block from any to 34.70.156.99
 # US https://www.abuseipdb.com/check/
 block from any to 34.86.158.223
 # Finland https://www.abuseipdb.com/check/
+block from any to 34.88.147.0/24
+# Finland https://www.abuseipdb.com/check/
 block from any to 34.88.147.216
+# Finland https://www.abuseipdb.com/check/
+block from any to 34.88.147.216
+# US https://www.abuseipdb.com/check/
+block from any to 34.91.57.0
 # https://www.bitdefender.com/files/News/CaseStudies/study/431/Bitdefender-Labs-Report-X-creat6958-en-EN.pdf
 block from any to 34.92.13.119
 # https://www.bitdefender.com/files/News/CaseStudies/study/431/Bitdefender-Labs-Report-X-creat6958-en-EN.pdf
@@ -1244,6 +1266,8 @@ block from any to 34.149.60.199
 block from any to 34.149.100.209
 # Brazil https://www.abuseipdb.com/check/
 block from any to 34.151.224.43
+# https://red.flag.domains/posts/2024-02-20/ registrar: EPAG Domainservices GmbH
+block from any to 34.155.80.219
 block from any to 34.160.122.198
 # France https://red.flag.domains/posts/2024-01-24/ https://red.flag.domains/posts/2024-01-16/
 block from any to 34.163.19.189
@@ -1266,6 +1290,8 @@ block from any to 34.203.246.214
 block from any to 34.204.153.208
 # DFA https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
 block from any to 34.205.242.146
+# https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
+block from any to 34.239.169.49
 # abuse.ch TF
 block from any to 34.239.255.86
 # https://www.virustotal.com/gui/ip-address/35.186.224.25
@@ -1335,6 +1361,8 @@ block from any to 35.185.61.58
 block from any to 35.186.223.180
 # https://www.virustotal.com/gui/url/4bfdc15f88435de3d260fc86997aa23e4727fdb8a67b63f7fedba99aa26775c9
 block from any to 35.186.224.25
+# Australia https://www.abuseipdb.com/check/
+block from any to 35.189.49.183
 # Australia https://www.abuseipdb.com/check/
 block from any to 35.189.57.27
 # US https://red.flag.domains/posts/2024-01-10/
@@ -1457,6 +1485,8 @@ block from any to 35.230.28.251
 block from any to 35.232.69.230
 # US https://www.abuseipdb.com/check/
 block from any to 35.237.94.18
+# SPAM
+block from any to 35.241.186.140
 # US https://www.abuseipdb.com/check/
 block from any to 35.243.208.234
 # US https://www.abuseipdb.com/check/
@@ -1465,6 +1495,8 @@ block from any to 35.243.218.224
 block from any to 35.246.183.49
 # Brazil https://www.abuseipdb.com/check/
 block from any to 35.247.194.168
+# Brazil https://www.abuseipdb.com/check/
+block from any to 35.247.212.100
 # https://www.abuseipdb.com/check/
 block from any to 35.247.241.190
 # China https://www.abuseipdb.com/check/
@@ -1574,6 +1606,8 @@ block from any to 37.71.147.186
 block from any to 37.79.255.43
 # https://misp.cert.ssi.gouv.fr/feed-misp/62167543-c4e0-4f39-a23e-c09f0abe1822.json
 block from any to 37.99.163.162
+# Russia https://www.abuseipdb.com/check/
+block from any to 37.112.47.11
 # https://www.abuseipdb.com/check/
 block from any to 37.120.210.211
 # https://csirt-cti.net/2024/01/23/stately-taurus-targets-myanmar/
@@ -1724,6 +1758,8 @@ block from any to 40.92.56.81
 block from any to 40.92.56.94
 # https://www.abuseipdb.com/check/
 block from any to 40.92.58.18
+# Ireland https://www.abuseipdb.com/check/
+block from any to 40.92.58.23
 # https://www.abuseipdb.com/check/
 block from any to 40.92.59.92
 # https://www.abuseipdb.com/check/
@@ -1777,12 +1813,16 @@ block from any to 40.107.12.108
 block from any to 40.107.12.109
 # France https://www.abuseipdb.com/check/
 block from any to 40.107.12.102
+# France https://www.abuseipdb.com/check/
+block from any to 40.107.9.111
 # https://threatfox.abuse.ch/browse/malware/win.orcus_rat/
 block from any to 40.113.117.114
 # France https://www.abuseipdb.com/check/
 block from any to 40.107.12.117
 # France https://www.abuseipdb.com/check/
 block from any to 40.107.12.119
+# France https://www.abuseipdb.com/check/
+block from any to 40.107.12.120
 # France https://www.abuseipdb.com/check/
 block from any to 40.107.12.125
 # https://www.abuseipdb.com/check/
@@ -1798,6 +1838,8 @@ block from any to 41.77.84.69
 block from any to 41.80.114.40
 # Senegal https://www.abuseipdb.com/check/
 block from any to 41.82.133.163
+# Senegal https://www.abuseipdb.com/check/
+block from any to 41.82.208.182
 # QakBot - https://threatfox.abuse.ch/browse/
 block from any to 41.96.4.108
 # abuse.ch TF
@@ -2034,6 +2076,8 @@ block from any to 43.138.156.178
 block from any to 43.138.179.199
 # China https://www.abuseipdb.com/check/
 block from any to 43.138.185.98
+# China https://www.abuseipdb.com/check/
+block from any to 43.139.47.78
 # https://www.abuseipdb.com/check/
 block from any to 43.139.86.62
 # https://www.abuseipdb.com/check/
@@ -2135,6 +2179,12 @@ block from any to 43.155.134.14
 block from any to 43.155.135.216
 # Korea https://www.abuseipdb.com/check/
 block from any to 43.155.147.95
+# Korea https://www.abuseipdb.com/check/
+block from any to 43.155.157.0/24
+# Korea https://www.abuseipdb.com/check/
+block from any to 43.155.157.14
+# Korea https://www.abuseipdb.com/check/
+block from any to 43.155.154.239
 block from any to 43.155.175.0/24
 # https://www.abuseipdb.com/check/
 block from any to 43.155.175.9
@@ -2207,12 +2257,16 @@ block from any to 43.254.156.121
 block from any to 44.198.148.77
 # https://www.abuseipdb.com/check/
 block from any to 43.201.78.21
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 43.229.115.110
 # https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/
 block from any to 43.230.203.164
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 44.242.142.71
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 44.242.159.196
+# India https://www.abuseipdb.com/check/
+block from any to 43.242.212.25
 # Macao https://www.abuseipdb.com/check/
 block from any to 43.247.24.51
 # abuse.ch TF
@@ -2235,6 +2289,8 @@ block from any to 45.4.50.109
 block from any to 45.4.51.208
 # Brazil https://www.abuseipdb.com/check/
 block from any to 45.6.101.26
+# Brazil https://www.abuseipdb.com/check/
+block from any to 45.7.33.29
 # https://www.abuseipdb.com/check/
 block from any to 45.8.159.17
 # https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/
@@ -2395,6 +2451,8 @@ block from any to 45.76.209.51
 block from any to 45.77.11.52
 # UK https://www.abuseipdb.com/check/
 block from any to 45.77.58.206
+# https://tracker.viriback.com/index.php?q=HookBot
+block from any to 45.77.170.174
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 45.77.174.46
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -2421,6 +2479,8 @@ block from any to 45.79.168.26
 block from any to 45.79.196.203
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 45.80.148.166
+# US https://www.abuseipdb.com/check/
+block from any to 45.81.23.25
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 45.83.31.204
 # https://www.abuseipdb.com/check/
@@ -2463,6 +2523,8 @@ block from any to 45.93.20.0/24
 block from any to 45.93.20.60
 # https://www.abuseipdb.com/check/
 block from any to 45.93.20.118
+# Russia https://www.abuseipdb.com/check/
+block from any to 45.93.20.148
 # Russia https://www.abuseipdb.com/check/
 block from any to 45.93.20.229
 # A.ch TF
@@ -2541,6 +2603,8 @@ block from any to 45.134.83.0/24
 block from any to 45.134.83.162
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 45.134.83.165
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 45.134.225.246
 # A.ch TF
 block from any to 45.135.134.183
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
@@ -2623,6 +2687,8 @@ block from any to 45.147.160.5
 block from any to 45.147.160.196
 # DFA https://red.flag.domains/posts/2024-02-11/
 block from any to 45.145.166.126
+# https://red.flag.domains/posts/2024-02-21/ registrar: KEY-SYSTEMS GmbH
+block from any to 45.145.167.61
 # https://threatfox.abuse.ch/browse/malware/win.darkgate/
 block from any to 45.147.250.0/24
 # https://www.abuseipdb.com/check/
@@ -2751,6 +2817,8 @@ block from any to 45.156.128.6
 block from any to 45.156.128.19
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.129.29
+# Belgium https://www.abuseipdb.com/check/
+block from any to 45.156.128.36
 # https://www.abuseipdb.com/check/
 block from any to 45.148.10.81
 # https://www.abuseipdb.com/check/
@@ -2984,6 +3052,8 @@ block from any to 47.7.145.133
 block from any to 47.48.137.18
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 47.76.34.199
+# Hong Kong https://www.abuseipdb.com/check/
+block from any to 47.76.65.223
 # abuse.ch TF
 block from any to 47.90.247.182
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -3183,6 +3253,7 @@ block from any to 51.15.75.86
 block from any to 51.15.75.86
 # France https://www.abuseipdb.com/check/
 block from any to 51.15.133.92
+block from any to 51.15.140.0/24
 # https://www.abuseipdb.com/check/
 block from any to 51.15.140.163
 # https://www.abuseipdb.com/check/
@@ -3406,6 +3477,8 @@ block from any to 51.250.16.184
 block from any to 51.250.26.68
 # Russia https://www.abuseipdb.com/check/
 block from any to 51.250.47.221
+# Russia https://www.abuseipdb.com/check/
+block from any to 51.250.87.149
 # https://www.abuseipdb.com/check/51.250.106.150
 block from any to 51.250.106.150
 # Russia https://www.abuseipdb.com/check/
@@ -4035,6 +4108,8 @@ block from any to 68.183.85.57
 block from any to 68.183.93.52
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 68.183.111.170
+# Singapore https://www.abuseipdb.com/check/
+block from any to 68.183.182.171
 # https://www.abuseipdb.com/check/
 block from any to 68.183.183.172
 # https://www.abuseipdb.com/check/
@@ -4246,6 +4321,8 @@ block from any to 77.232.128.152
 # https://www.abuseipdb.com/check/
 block from any to 77.232.142.6
 block from any to 77.238.180.0/24
+# Russia https://www.abuseipdb.com/check/
+block from any to 77.239.215.13
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.239.235.5
 # Kazakhstan https://www.abuseipdb.com/check/
@@ -4486,6 +4563,8 @@ block from any to 81.88.57.68
 block from any to 81.161.229.134
 # A.ch TF
 block from any to 81.169.252.120
+# Sweden https://www.abuseipdb.com/check/
+block from any to 81.170.198.226
 # https://www.abuseipdb.com/check/
 block from any to 81.170.214.174
 # Netherlands https://blog.xlab.qianxin.com/bigpanzi-exposed-hidden-cyber-threat-behind-your-stb/
@@ -4506,6 +4585,8 @@ block from any to 82.64.65.83
 block from any to 82.64.174.9
 # France https://www.abuseipdb.com/check/
 block from any to 82.65.17.52
+# https://tracker.viriback.com/index.php?q=Unam
+block from any to 82.66.185.138
 # France https://www.abuseipdb.com/check/82.67.7.178 https://www.abuseipdb.com/check/82.67.7.178
 block from any to 82.67.7.0/24
 # France https://www.abuseipdb.com/check/82.67.7.178 https://www.abuseipdb.com/check/82.67.7.178
@@ -4540,6 +4621,8 @@ block from any to 82.118.235.238
 block from any to 82.146.40.165
 # https://www.abuseipdb.com/check/
 block from any to 82.147.84.248
+# https://tracker.viriback.com/index.php?q=Unam
+block from any to 82.147.85.242
 # abuse.ch TF
 block from any to 82.153.138.180
 # China https://www.abuseipdb.com/check/
@@ -4605,7 +4688,7 @@ block from any to 83.233.217.232
 # Russia https://www.abuseipdb.com/check/
 block from any to 83.239.130.2
 block from any to 84.16.242.147
-# DFA Lithuania https://red.flag.domains/posts/ 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
+# DFA Lithuania https://red.flag.domains/posts/ 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
 block from any to 84.32.84.32
 # https://www.abuseipdb.com/check/
 block from any to 84.53.198.23
@@ -4632,6 +4715,8 @@ block from any to 85.25.246.169
 block from any to 85.31.231.49
 # https://www.abuseipdb.com/check/85.73.189.207
 block from any to 85.73.189.207
+# US https://www.abuseipdb.com/check/
+block from any to 85.81.30.26
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 85.107.13.154
 # A.ch TF
@@ -4891,6 +4976,8 @@ block from any to 88.247.164.108
 block from any to 88.249.233.161
 # https://www.abuseipdb.com/check/
 block from any to 88.255.102.150
+# Russia https://www.abuseipdb.com/check/
+block from any to 89.22.151.11
 # Russia https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 89.22.232.145
 # Russia https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
@@ -4953,7 +5040,11 @@ block from any to 89.248.163.200
 # https://www.abuseipdb.com/check/
 block from any to 89.248.163.245
 # Netherlands https://www.abuseipdb.com/check/
+block from any to 89.248.165.0/24
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 89.248.165.184
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 89.248.165.218
 # https://www.abuseipdb.com/check/
 block from any to 89.248.170.88
 block from any to 89.252.140.0/24
@@ -5128,8 +5219,12 @@ block from any to 91.92.251.198
 block from any to 91.92.252.0/24
 #  https://www.abuseipdb.com/check/
 block from any to 91.92.252.45
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 91.92.252.147
 # DFA https://red.flag.domains/posts/2024-02-19/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 91.92.252.160
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 91.92.252.165
 # https://blog.xlab.qianxin.com/mirai-tbot-en/
 block from any to 91.92.252.214
 #  https://www.abuseipdb.com/check/
@@ -5276,10 +5371,12 @@ block from any to 91.214.124.54
 block from any to 91.214.124.57
 # https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
 block from any to 91.214.124.64
-# Russia https://red.flag.domains/posts/2024-01-18/
+# Russia https://red.flag.domains/posts/2024-01-18/ https://tracker.viriback.com/index.php?q=Godzilla
 block from any to 91.215.85.0/24
 # Russia https://red.flag.domains/posts/2024-01-18/
 block from any to 91.215.85.5
+# https://tracker.viriback.com/index.php?q=Godzilla
+block from any to 91.215.85.223
 # A.ch TF
 block from any to 91.215.85.23
 # A.ch TF
@@ -5429,6 +5526,8 @@ block from any to 92.118.39.153
 block from any to 92.118.39.240
 # https://github.com/eset/malware-ioc/tree/master/gref
 block from any to 92.118.189.164
+# Azerbaijan https://www.abuseipdb.com/check
+block from any to 92.119.58.101
 block from any to 92.122.50.0/24
 block from any to 92.123.104.0/24
 block from any to 92.123.104.7
@@ -5633,6 +5732,8 @@ block from any to 94.156.64.76
 block from any to 94.156.64.78
 # https://www.abuseipdb.com/check/
 block from any to 94.156.64.120
+# https://red.flag.domains/posts/2024-02-20/ registrar: Hosting Concepts B.V. d/b/a Openprovider
+block from any to 94.156.69.186
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 94.156.64.207
 block from any to 94.156.65.0/24
@@ -5716,6 +5817,8 @@ block from any to 92.246.136.161
 block from any to 92.246.136.222
 # Jordan Quasar RAT https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
 block from any to 94.249.3.0
+# Bosnia and Herzegovina https://www.abuseipdb.com/check/
+block from any to 94.250.77.226
 # Turkey https://www.abuseipdb.com/check/95.9.191.195
 block from any to 95.9.191.195
 # Spain https://www.abuseipdb.com/check/
@@ -5812,10 +5915,14 @@ block from any to 95.181.173.164
 block from any to 95.181.239.8
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 95.214.24.163
+# https://www.abuseipdb.com/check
+block from any to 95.214.27.0/24
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 95.214.27.12
 # https://www.abuseipdb.com/check/95.214.27.118
 block from any to 95.214.27.118
+# https://www.abuseipdb.com/check
+block from any to 95.214.27.140
 # https://www.abuseipdb.com/check/95.229.66.163
 block from any to 95.229.66.163
 # US https://www.abuseipdb.com/check/
@@ -5984,6 +6091,8 @@ block from any to 101.202.25.147
 # Kenya https://www.abuseipdb.com/check/
 block from any to 102.220.22.246
 block from any to 102.220.23.0/24
+# Kenya https://www.abuseipdb.com/check/
+block from any to 102.220.23.47
 # Cameroon https://blog.lumen.com/routers-roasting-on-an-open-firewall-the-kv-botnet-investigation/
 block from any to 102.244.184.0/24
 # Bangladesh https://www.abuseipdb.com/check/
@@ -5992,6 +6101,8 @@ block from any to 103.4.145.50
 block from any to 103.10.87.52
 # India https://www.abuseipdb.com/check/
 block from any to 103.12.133.70
+# https://tracker.viriback.com/index.php?q=HookBot
+block from any to 103.12.148.35
 # A.ch TF
 block from any to 103.13.211.211
 # India https://www.abuseipdb.com/check/
@@ -6151,6 +6262,8 @@ block from any to 103.145.191.118
 block from any to 103.146.16.52
 # A.ch TF
 block from any to 103.146.50.208
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 103.146.179.82
 # https://www.abuseipdb.com/check/
 block from any to 103.147.62.157
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -6286,6 +6399,8 @@ block from any to 103.245.109.37
 block from any to 103.249.84.137
 # Indonesia https://www.abuseipdb.com/check/
 block from any to 103.252.12.242
+# Singapore https://www.abuseipdb.com/check/
+block from any to 103.253.27.172
 # Pakistan https://www.abuseipdb.com/check/
 block from any to 103.255.67.81
 # https://www.abuseipdb.com/check/
@@ -6334,14 +6449,20 @@ block from any to 104.18.41.124
 block from any to 104.18.131.236
 # DFA https://red.flag.domains/posts/2024-02-13/ registrar: 1API GmbH
 block from any to 104.21.0.137
+# DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
+block from any to 104.21.2.49
 # US https://red.flag.domains/posts/2024-01-10/
 block from any to 104.21.11.225
+# DFA .flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
+block from any to 104.21.12.153
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.13.124
 # US https://red.flag.domains/posts/2024-01-13/
 block from any to 104.21.19.106
 # DFA https://red.flag.domains/posts/2023-02-26/ registrar: SAS Ligne Web Services - LWS
 block from any to 104.21.26.249
+# https://red.flag.domains/posts/2024-02-21/ registrar: GRANSY s.r.o.
+block from any to 104.21.50.72
 # DFA s/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
 block from any to 104.21.52.80
 # DFA https://red.flag.domains/posts/2023-11-19/ registrar: Realtime Register B.V.
@@ -6531,6 +6652,8 @@ block from any to 104.223.43.123
 block from any to 104.225.234.248
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 104.233.187.163
+# https://tracker.viriback.com/index.php?q=HookBot
+block from any to 104.233.210.167
 # US https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 104.234.11.0/24
 # US https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
@@ -6587,6 +6710,8 @@ block from any to 104.244.77.158
 block from any to 104.248.29.197
 # https://www.abuseipdb.com/check/
 block from any to 104.248.150.52
+# Singapore https://www.abuseipdb.com/check/
+block from any to 104.248.151.157
 # https://www.abuseipdb.com/check/
 block from any to 104.248.34.110
 # https://www.abuseipdb.com/check/
@@ -6671,6 +6796,10 @@ block from any to 106.75.139.209
 block from any to 106.75.153.59
 # China https://www.abuseipdb.com/check/
 block from any to 106.75.162.153
+# China https://www.abuseipdb.com/check/
+block from any to 106.75.166.249
+# China https://www.abuseipdb.com/check/
+block from any to 106.75.169.143
 # Taiwan https://www.abuseipdb.com/check/
 block from any to 106.107.181.141
 # https://www.abuseipdb.com/check/
@@ -6703,6 +6832,12 @@ block from any to 107.170.225.15
 block from any to 107.170.226.29
 # https://www.abuseipdb.com/check/107.170.227.25
 block from any to 107.170.227.25
+# US https://www.abuseipdb.com/check/
+block from any to 107.170.230.26
+# https://www.abuseipdb.com/check/
+block from any to 107.170.231.0/24
+# https://www.abuseipdb.com/check/
+block from any to 107.170.231.10
 # https://www.abuseipdb.com/check/
 block from any to 107.170.231.30
 # https://www.abuseipdb.com/check/
@@ -6749,6 +6884,8 @@ block from any to 107.174.245.122
 block from any to 107.174.253.49
 # abuse.ch
 block from any to 107.175.113.198
+# https://tracker.viriback.com/index.php?q=AgentTesla
+block from any to 107.175.221.154
 block from any to 107.178.226.0/24
 # https://www.abuseipdb.com/check/
 block from any to 107.178.226.216
@@ -7048,6 +7185,8 @@ block from any to 114.113.237.171
 block from any to 114.115.159.80
 # A.ch TF
 block from any to 114.115.210.125
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 114.116.231.53
 # Singapore https://www.abuseipdb.com/check/
 block from any to 114.119.128.126
 # https://www.abuseipdb.com/check/
@@ -7072,6 +7211,10 @@ block from any to 114.132.58.184
 block from any to 114.132.165.64
 # China https://www.abuseipdb.com/check/
 block from any to 114.217.15.3
+# China https://www.abuseipdb.com/check/
+block from any to 114.217.51.183
+# China https://www.abuseipdb.com/check/
+block from any to 114.228.6.183
 # https://www.abuseipdb.com/check/
 block from any to 114.239.11.218
 # https://www.abuseipdb.com/check/
@@ -7228,8 +7371,16 @@ block from any to 117.252.165.6
 block from any to 118.21.99.28
 # China https://www.abuseipdb.com/check/
 block from any to 118.25.148.66
+# Brazil https://www.abuseipdb.com/check/
+block from any to 118.26.105.0/24
+# Brazil https://www.abuseipdb.com/check/
+block from any to 118.26.105.144
+# Brazil https://www.abuseipdb.com/check/
+block from any to 118.26.105.236
 # https://www.abuseipdb.com/check/
 block from any to 118.37.157.169
+# Korea https://www.abuseipdb.com/check/
+block from any to 118.42.164.74
 # https://www.abuseipdb.com/check/
 block from any to 118.45.122.74
 # https://www.abuseipdb.com/check/
@@ -7273,6 +7424,8 @@ block from any to 118.126.124.10
 block from any to 118.201.79.222
 # China https://www.abuseipdb.com/check/
 block from any to 118.248.160.184
+# China https://www.abuseipdb.com/check/
+block from any to 118.249.86.212
 # https://www.abuseipdb.com/check/
 block from any to 119.6.108.13
 # https://www.abuseipdb.com/check/
@@ -7337,6 +7490,8 @@ block from any to 120.78.156.73
 block from any to 120.79.225.52
 # Nepal https://www.abuseipdb.com/check/120.89.98.71
 block from any to 120.89.98.71
+# Korea https://www.abuseipdb.com/check/
+block from any to 120.142.22.66
 # Australia https://www.abuseipdb.com/check/
 block from any to 120.157.139.213
 # https://www.abuseipdb.com/check/
@@ -7353,6 +7508,8 @@ block from any to 121.32.243.78
 block from any to 121.37.210.39
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 121.43.33.41
+# China https://www.abuseipdb.com/check/
+block from any to 121.43.104.129
 # https://www.abuseipdb.com/check/
 block from any to 121.52.147.5
 # China https://www.abuseipdb.com/check/
@@ -7431,6 +7588,8 @@ block from any to 122.168.194.41
 block from any to 122.170.10.21
 # India https://www.abuseipdb.com/check/
 block from any to 122.175.192.10
+# India https://www.abuseipdb.com/check/
+block from any to 122.178.192.245
 # https://www.abuseipdb.com/check/122.179.159.82
 block from any to 122.179.159.82
 # India https://www.abuseipdb.com/check/
@@ -7543,6 +7702,8 @@ block from any to 124.220.235.28
 block from any to 124.221.0.129
 # https://www.abuseipdb.com/check/
 block from any to 124.221.23.193
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 124.221.50.188
 # China https://www.abuseipdb.com/check/
 block from any to 124.221.159.246
 # abuse.ch TF
@@ -7682,7 +7843,7 @@ block from any to 132.145.115.97
 block from any to 132.145.208.65
 # US https://www.abuseipdb.com/check/
 block from any to 132.148.72.192
-# https://www.abuseipdb.com/check/
+# US https://www.abuseipdb.com/check/
 block from any to 132.148.76.25
 # https://www.abuseipdb.com/check/
 block from any to 132.248.65.8
@@ -7739,6 +7900,8 @@ block from any to 135.125.107.166
 block from any to 135.125.132.70
 # https://threatfox.abuse.ch/browse/
 block from any to 135.148.115.76
+# https://tracker.viriback.com/index.php?q=Unam
+block from any to 135.181.11.36
 # https://www.abuseipdb.com/check/
 block from any to 135.181.13.128
 # https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
@@ -7835,6 +7998,8 @@ block from any to 138.197.20.122
 block from any to 138.197.36.226
 # https://www.abuseipdb.com/check/
 block from any to 138.197.38.145
+# US https://www.abuseipdb.com/check/
+block from any to 138.197.116.7
 block from any to 138.197.118.0/24
 # https://www.abuseipdb.com/check/
 block from any to 138.197.118.170
@@ -8173,6 +8338,8 @@ block from any to 144.91.105.183
 block from any to 144.126.192.64
 # A.ch TF
 block from any to 144.217.254.230
+# https://threatfox.abuse.ch/browse/malware/win.dcrat/ https://tracker.viriback.com/index.php?q=Lucifer
+block from any to 145.14.145.0/24
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 145.14.145.231
 # Netherlands https://www.abuseipdb.com/check/
@@ -8467,6 +8634,8 @@ block from any to 151.236.25.0/24
 block from any to 151.236.25.10
 # Poland https://blog.xlab.qianxin.com/rimasuta-new-variant-switches-to-chacha20-encryption-en/
 block from any to 151.236.25.126
+# Iran https://www.abuseipdb.com/check/
+block from any to 151.247.241.160
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 151.248.115.41
 # https://www.abuseipdb.com/check/
@@ -8506,7 +8675,35 @@ block from any to 152.67.212.185
 # https://www.abuseipdb.com/check/
 block from any to 152.70.217.117
 # Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.61
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.65
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.69
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.71
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.75
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.84
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.85
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.86
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.88
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.92
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.93
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.98
+# Russia https://www.abuseipdb.com/check/
 block from any to 152.89.198.122
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.141
+# Russia https://www.abuseipdb.com/check/
+block from any to 152.89.198.143
 # Russia https://www.abuseipdb.com/check/
 block from any to 152.89.198.145
 # Russia
@@ -8771,6 +8968,8 @@ block from any to 158.220.90.199
 block from any to 158.220.96.15
 # https://www.abuseipdb.com/check/
 block from any to 158.220.121.149
+# https://red.flag.domains/posts/2024-02-20/ registrar: GRANSY s.r.o.
+block from any to 158.222.3.139
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 158.247.235.51
 # Hong Kong https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
@@ -8801,6 +9000,8 @@ block from any to 159.65.154.251
 block from any to 159.65.174.200
 # https://threatfox.abuse.ch/browse/malware/win.vidar/
 block from any to 159.69.101.193
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 159.65.205.179
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 159.69.207.158
 # https://www.abuseipdb.com/check/
@@ -8850,7 +9051,7 @@ block from any to 159.203.63.67
 block from any to 159.203.89.2
 # US https://blog.lumen.com/routers-roasting-on-an-open-firewall-the-kv-botnet-investigation/ https://www.bleepingcomputer.com/news/security/stealthy-kv-botnet-hijacks-soho-routers-and-vpn-devices/
 block from any to 159.203.113.25
-# https://www.abuseipdb.com/check/
+# US https://www.abuseipdb.com/check/
 block from any to 159.203.165.156
 block from any to 159.203.159.95
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -8921,6 +9122,8 @@ block from any to 161.132.41.71
 block from any to 162.0.235.58
 # https://www.abuseipdb.com/check/162.14.81.137
 block from any to 162.14.81.137
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 162.14.107.61
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/12/operation_blacksmith.txt
 block from any to 162.19.71.175
 # A.ch TF
@@ -9000,12 +9203,18 @@ block from any to 162.214.135.105
 block from any to 162.215.23.0/24
 # abuse.ch TF
 block from any to 162.215.23.169
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 162.215.23.219
 # abuse.ch TF
 block from any to 162.215.23.179
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 162.215.23.203
 # abuse.ch TF
 block from any to 162.215.23.215
 # abuse.ch TF
 block from any to 162.215.23.220
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 162.215.23.227
 # US
 block from any to 162.216.149.0/24
 # US https://www.abuseipdb.com/check/
@@ -9074,6 +9283,8 @@ block from any to 162.243.137.0/24
 # https://www.abuseipdb.com/check/
 block from any to 162.243.137.17
 # US https://www.abuseipdb.com/check/
+block from any to 162.243.139.14
+# US https://www.abuseipdb.com/check/
 block from any to 162.243.141.18
 # US https://www.abuseipdb.com/check/
 block from any to 162.243.143.57
@@ -9118,6 +9329,10 @@ block from any to 162.255.119.0/24
 block from any to 162.255.119.118
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: 1API GmbH www.
 block from any to 162.255.119.202
+# https://tracker.viriback.com/index.php?q=Unam
+block from any to 163.5.64.0/24
+# https://tracker.viriback.com/index.php?q=Unam
+block from any to 163.5.64.33
 # https://www.abuseipdb.com/check/
 block from any to 163.5.64.70
 # France https://www.abuseipdb.com/check/
@@ -9136,6 +9351,10 @@ block from any to 163.172.83.229
 block from any to 163.172.88.247
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
 block from any to 163.172.108.69
+# France https://www.abuseipdb.com/check/
+block from any to 163.172.175.22
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 163.197.211.60
 # https://www.abuseipdb.com/check/
 block from any to 164.90.202.195
 # A.ch TF
@@ -9203,6 +9422,8 @@ block from any to 165.154.132.129
 block from any to 165.154.134.228
 # https://www.abuseipdb.com/check/
 block from any to 165.154.148.48
+# US https://www.abuseipdb.com/check/
+block from any to 165.154.182.53
 # https://www.abuseipdb.com/check/
 block from any to 165.154.199.71
 # https://www.abuseipdb.com/check/
@@ -9231,6 +9452,8 @@ block from any to 165.231.36.198
 block from any to 165.231.36.203
 # UK https://red.flag.domains/posts/2024-01-11/
 block from any to 165.231.36.205
+# https://red.flag.domains/posts/2024-02-21/ registrar: GRANSY s.r.o.
+block from any to 165.231.36.222
 # Sweden https://www.abuseipdb.com/check/
 block from any to 165.231.148.152
 block from any to 165.231.193.0/24
@@ -9310,7 +9533,11 @@ block from any to 167.86.66.199
 # https://www.abuseipdb.com/check/
 block from any to 167.86.104.165
 # https://www.abuseipdb.com/check/
+block from any to 167.94.138.0/24
+# https://www.abuseipdb.com/check/
 block from any to 167.94.138.148
+# US https://www.abuseipdb.com/check/
+block from any to 167.94.138.152
 # https://www.abuseipdb.com/check/
 block from any to 167.94.145.28
 block from any to 167.94.146.0/24
@@ -9494,6 +9721,8 @@ block from any to 172.67.139.176
 block from any to 172.67.142.71
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
 block from any to 172.67.152.136
+# https://red.flag.domains/posts/2024-02-21/ registrar: GRANSY s.r.o.
+block from any to 172.67.158.204
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
 block from any to 172.67.170.0/24
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
@@ -9920,6 +10149,8 @@ block from any to 177.136.34.98
 block from any to 177.136.203.45
 # https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
 block from any to 177.138.248.251
+# Brazil https://www.abuseipdb.com/check/
+block from any to 177.145.20.48
 # https://www.abuseipdb.com/check/
 block from any to 177.170.15.112
 # Brazil https://www.abuseipdb.com/check/
@@ -9968,6 +10199,8 @@ block from any to 178.62.158.247
 block from any to 178.66.78.130
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 178.73.218.5
+# Norway https://www.abuseipdb.com/check/
+block from any to 178.74.54.95
 # https://www.abuseipdb.com/check/
 block from any to 178.79.139.171
 # https://www.abuseipdb.com/check/
@@ -10051,6 +10284,8 @@ block from any to 179.43.172.18
 block from any to 179.60.150.53
 # https://www.abuseipdb.com/check/
 block from any to 179.125.166.201
+# https://www.abuseipdb.com/check/
+block from any to 179.126.23.144
 # https://www.abuseipdb.com/check/179.182.65.128
 block from any to 179.182.65.128
 # China https://www.abuseipdb.com/check/
@@ -10177,6 +10412,8 @@ block from any to 182.61.28.243
 block from any to 182.52.90.208
 # India https://www.abuseipdb.com/check/
 block from any to 182.66.193.213
+# China https://www.abuseipdb.com/check/
+block from any to 182.92.169.110
 # https://www.abuseipdb.com/check/
 block from any to 182.138.158.166
 # China https://www.abuseipdb.com/check/
@@ -10229,6 +10466,8 @@ block from any to 183.104.160.181
 block from any to 183.106.16.29
 # Korea https://www.abuseipdb.com/check/
 block from any to 183.107.77.101
+# Korea https://www.abuseipdb.com/check/
+block from any to 183.111.79.176
 # https://www.welivesecurity.com/en/eset-research/nspx30-sophisticated-aitm-enabled-implant-evolving-since-2005/
 block from any to 183.134.93.171
 # China https://www.abuseipdb.com/check/
@@ -10610,8 +10849,12 @@ block from any to 185.196.9.139
 block from any to 185.196.9.231
 # https://www.abuseipdb.com/check/
 block from any to 185.196.220.81
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 185.167.96.0/24
 # https://www.abuseipdb.com/check/
 block from any to 185.167.96.138
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 185.167.96.150
 # https://www.abuseipdb.com/check/
 block from any to 185.167.97.244
 # A.ch TF
@@ -10723,6 +10966,8 @@ block from any to 185.246.128.25
 block from any to 185.246.128.133
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 185.246.222.15
+# https://www.abuseipdb.com/check/
+block from any to 185.247.172.242
 # https://red.flag.domains/posts/2024-02-02/
 block from any to 185.247.184.175
 # A.ch TF
@@ -10921,6 +11166,8 @@ block from any to 186.179.100.13
 block from any to 186.188.226.99
 # Brazil https://www.abuseipdb.com/check/
 block from any to 186.193.176.2
+# Brazil https://www.abuseipdb.com/check/
+block from any to 186.195.53.38
 # https://www.abuseipdb.com/check/
 block from any to 186.209.106.85
 # https://www.abuseipdb.com/check/
@@ -11027,6 +11274,8 @@ block from any to 188.49.75.61
 block from any to 188.50.174.224
 # abuse.ch TF
 block from any to 188.54.123.236
+# Turkiye https://www.abuseipdb.com/check/
+block from any to 188.59.178.11
 # https://www.abuseipdb.com/check/
 block from any to 188.86.113.88
 # Brazil DFA https://www.virustotal.com/gui/ip-address/188.114.96.2 https://www.abuseipdb.com/check/188.114.97.22 2024-02-15 registrar: Hostinger operations UAB 2024-01-30 https://red.flag.domains/posts/2024-01-11/ https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
@@ -11108,6 +11357,8 @@ block from any to 188.241.83.70
 block from any to 188.244.154.35
 # https://www.abuseipdb.com/check/
 block from any to 189.6.45.130
+# Brazil https://www.abuseipdb.com/check/
+block from any to 189.41.108.221
 # https://www.abuseipdb.com/check/
 block from any to 189.51.12.213
 # Brazil https://www.abuseipdb.com/check/
@@ -11220,6 +11471,8 @@ block from any to 190.123.44.228
 block from any to 190.215.240.102
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 190.215.241.146
+# Argentina https://www.abuseipdb.com/check/
+block from any to 190.210.152.148
 # https://www.abuseipdb.com/check/
 block from any to 190.210.182.179
 # Panama https://www.abuseipdb.com/check/
@@ -11592,12 +11845,16 @@ block from any to 194.87.31.0/24
 block from any to 194.87.31.20
 # DFA Trojan.MAC.RustDoor https://www.bitdefender.com/blog/labs/new-macos-backdoor-written-in-rust-shows-possible-link-with-windows-ransomware-group/
 block from any to 194.87.31.113
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 194.87.69.132
 # https://www.abuseipdb.com/check/
 block from any to 194.87.216.33
 # https://www.abuseipdb.com/check/
 block from any to 194.104.11.128
 # Ukraine https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
 block from any to 194.106.216.70
+# Iraq https://www.abuseipdb.com/check/
+block from any to 194.113.199.102
 # https://www.abuseipdb.com/check/
 block from any to 194.116.215.66
 # Lithuania https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
@@ -11614,6 +11871,8 @@ block from any to 194.147.140.154
 block from any to 194.152.206.17
 # Croatia https://www.abuseipdb.com/check/
 block from any to 194.152.214.16
+# https://red.flag.domains/posts/2024-02-20/ registrar: KEY-SYSTEMS GmbH
+block from any to 194.156.102.69
 # https://www.abuseipdb.com/check/
 block from any to 194.163.150.207
 # DFA https://red.flag.domains/posts/2024-02-18/ registrar: SAS Ligne Web Services - LWS
@@ -11695,6 +11954,8 @@ block from any to 195.218.254.102
 block from any to 195.221.58.3
 # Germany https://www.abuseipdb.com/check/
 block from any to 195.230.103.248
+# https://tracker.viriback.com/index.php?q=Mars
+block from any to 195.234.4.57
 # Uganda https://www.abuseipdb.com/check/
 block from any to 196.0.107.202
 # https://www.abuseipdb.com/check/
@@ -11751,10 +12012,16 @@ block from any to 196.196.38.248
 block from any to 196.196.98.16
 # Estonia https://red.flag.domains/posts/2024-01-19/
 block from any to 196.196.122.4
+# https://red.flag.domains/posts/2024-02-21/ registrar: GRANSY s.r.o.
+block from any to 196.196.153.173
 # DFA Sweden fibergrid.eu registrar: GRANSY s.r.o. https://red.flag.domains/posts/2023-02-01/
 block from any to 196.196.154.212
 # Sweden https://red.flag.domains/posts/2024-01-16/
 block from any to 196.196.155.5
+# https://red.flag.domains/posts/2024-02-20/ registrar: GRANSY s.r.o.
+block from any to 196.196.197.0/24
+# https://red.flag.domains/posts/2024-02-20/ registrar: GRANSY s.r.o.
+block from any to 196.196.197.240
 # Ireland https://red.flag.domains/posts/2024-01-16/
 block from any to 196.196.197.254
 # DFA Finland https://red.flag.domains/posts/2024-01-10/
@@ -11771,6 +12038,8 @@ block from any to 196.244.195.162
 block from any to 196.206.11.193
 # Poland https://red.flag.domains/posts/2024-01-16/
 block from any to 196.240.121.245
+# https://red.flag.domains/posts/2024-02-20/ registrar: GRANSY s.r.o.
+block from any to 196.245.159.153
 # US https://red.flag.domains/posts/2024-01-23/
 block from any to 196.247.30.69
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
@@ -11856,6 +12125,10 @@ block from any to 198.23.148.137
 # https://www.abuseipdb.com/check/
 block from any to 198.23.149.3
 # US https://www.abuseipdb.com/check/
+block from any to 198.23.172.0/24
+# US https://www.abuseipdb.com/check/
+block from any to 198.23.172.96
+# US https://www.abuseipdb.com/check/
 block from any to 198.23.172.110
 # https://www.abuseipdb.com/check/
 block from any to 198.23.192.149
@@ -11907,6 +12180,8 @@ block from any to 198.50.214.222
 block from any to 198.50.252.64
 # DFA https://www.bitdefender.com/blog/labs/investigating-worldwide-sms-scams-and-tens-of-millions-of-dollars-in-fraud/
 block from any to 198.58.118.167
+# US https://www.abuseipdb.com/check/
+block from any to 198.98.51.94
 # Canada https://www.abuseipdb.com/check/
 block from any to 198.100.153.166
 # https://www.abuseipdb.com/check/
@@ -11914,11 +12189,19 @@ block from any to 198.199.92.98
 # https://www.abuseipdb.com/check/
 block from any to 198.199.101.115
 # US https://www.abuseipdb.com/check/
+block from any to 198.199.105.59
+# US https://www.abuseipdb.com/check/
+block from any to 198.199.106.97
+# US https://www.abuseipdb.com/check/
 block from any to 198.199.107.35
 # https://www.abuseipdb.com/check/
 block from any to 198.199.108.17
 # US https://www.abuseipdb.com/check/
 block from any to 198.199.110.34
+# US https://www.abuseipdb.com/check/
+block from any to 198.199.111.0/24
+# US https://www.abuseipdb.com/check/
+block from any to 198.199.111.32
 # US https://www.abuseipdb.com/check/
 block from any to 198.199.111.219
 # https://www.abuseipdb.com/check/
@@ -12074,6 +12357,8 @@ block from any to 201.77.179.66
 # https://www.abuseipdb.com/check/
 block from any to 201.94.166.130
 # https://www.abuseipdb.com/check/
+block from any to 201.96.155.193
+# https://www.abuseipdb.com/check/
 block from any to 201.98.60.254
 # https://www.abuseipdb.com/check/201.103.37.228
 block from any to 201.103.37.228
@@ -12158,6 +12443,8 @@ block from any to 202.55.175.236
 block from any to 202.70.80.119
 # https://www.abuseipdb.com/check/
 block from any to 202.83.16.8
+# China https://www.abuseipdb.com/check/
+block from any to 202.98.252.213
 # China https://www.abuseipdb.com/check/
 block from any to 202.100.240.226
 # A.ch TF
@@ -12292,6 +12579,8 @@ block from any to 206.123.132.167
 block from any to 206.123.132.169
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 206.188.196.86
+# Singapore https://www.abuseipdb.com/check/
+block from any to 206.189.90.67
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 207.32.217.14
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -12404,6 +12693,8 @@ block from any to 211.149.248.96
 block from any to 211.159.173.202
 # https://www.abuseipdb.com/check/
 block from any to 211.212.197.51
+# Korea https://www.abuseipdb.com/check/
+block from any to 211.226.120.74
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/prometei-botnet-improves.txt
 block from any to 211.232.48.65
 # https://www.abuseipdb.com/check/
@@ -12461,6 +12752,8 @@ block from any to 212.109.199.237
 block from any to 212.118.4.38
 # abuse.ch TF
 block from any to 212.118.39.73
+# Iraq https://www.abuseipdb.com/check/
+block from any to 212.126.103.50
 # https://www.abuseipdb.com/check/
 block from any to 212.145.210.150
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -12471,6 +12764,8 @@ block from any to 212.193.30.14
 block from any to 212.193.62.180
 # https://misp.cert.ssi.gouv.fr/feed-misp/62167543-c4e0-4f39-a23e-c09f0abe1822.json
 block from any to 212.202.147.10
+# https://tracker.viriback.com/index.php?q=HookBot
+block from any to 212.224.88.253
 # https://misp.cert.ssi.gouv.fr/feed-misp/62167543-c4e0-4f39-a23e-c09f0abe1822.json
 block from any to 212.234.179.113
 # Iraq https://www.abuseipdb.com/check/
@@ -12493,6 +12788,8 @@ block from any to 213.134.176.175
 block from any to 213.135.78.244
 # https://www.abuseipdb.com/check/
 block from any to 213.142.149.173
+# https://red.flag.domains/posts/2024-02-20/ registrar: KEY-SYSTEMS GmbH
+block from any to 213.145.228.111
 # https://www.abuseipdb.com/check/
 block from any to 213.153.132.26
 # Belgium https://red.flag.domains/posts/ 2024-02-12 registrar: AMEN / Agence des Médias Numériques 2024-02-09 registrar: AMEN / Agence des Médias Numériques 2024-01-13 19
@@ -12795,6 +13092,8 @@ block from any to 219.95.129.5
 # https://www.abuseipdb.com/check/
 block from any to 219.140.8.129
 # China https://www.abuseipdb.com/check/
+block from any to 219.146.255.202
+# China https://www.abuseipdb.com/check/
 block from any to 219.157.201.82
 # A.ch TF
 block from any to 220.69.33.144
@@ -12857,6 +13156,8 @@ block from any to 221.213.12.66
 block from any to 221.225.92.161
 # https://www.abuseipdb.com/check/221.231.122.76
 block from any to 221.231.122.76
+# https://www.abuseipdb.com/check/
+block from any to 222.71.174.180
 # https://www.abuseipdb.com/check/
 block from any to 222.73.52.102
 # https://www.abuseipdb.com/check/
@@ -13102,6 +13403,8 @@ block from any to 2001:470:1:c84::279
 # Canada https://www.abuseipdb.com/check/
 block from any to 2001:470:1:c84::2ae
 # Canada https://www.abuseipdb.com/check/
+block from any to 2001:470:1:c84::9e
+# Canada https://www.abuseipdb.com/check/
 block from any to 2001:470:1:332::a6
 # Canada https://www.abuseipdb.com/check/
 block from any to 2001:470:1:c84::ae
@@ -13109,6 +13412,8 @@ block from any to 2001:470:1:c84::ae
 block from any to 2001:470:1:c84::e5
 # Canada https://www.abuseipdb.com/check/
 block from any to 2001:470:1:c84::e6
+# Canada https://www.abuseipdb.com/check/
+block from any to 2001:470:1:332::1f
 # https://www.abuseipdb.com/check/
 block from any to 2001:470:1:c84::103
 # Canada https://www.abuseipdb.com/check/

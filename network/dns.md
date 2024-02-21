@@ -118,6 +118,9 @@ https://github.com/kubernetes/kubernetes/issues/112135 Closed musl-based DNS res
 
 https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS Maintenance
 
+# History records
+https://dnsrepo.noc.org/
+
 # News
 https://news.ycombinator.com/item?id=39388412
 
