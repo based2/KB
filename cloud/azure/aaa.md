@@ -21,6 +21,8 @@ https://azure.microsoft.com/en/updates/
 https://azure.microsoft.com/en/blog/topics/announcements/
 
 # Incident
+https://www.bleepingcomputer.com/news/security/microsoft-expands-free-logging-capabilities-after-may-breach/
+
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36052
 
 https://www.paloaltonetworks.com/blog/prisma-cloud/secrets-leakage-user-error-azure-cli/

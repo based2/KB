@@ -25,6 +25,8 @@ https://wolfman.dev/posts/aws-kms-for-envelope-encryption/ SecurityNotifications
 https://www.cloudquery.io/blog/aws-kms-key-grants-deep-dive
 
 #
+https://trufflesecurity.com/blog/canaries
+
 https://blog.plerion.com/conditional-love-for-aws-metadata-enumeration/
 
 https://github.com/unknownhad/AWSAttacks

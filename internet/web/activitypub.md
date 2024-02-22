@@ -50,3 +50,5 @@ https://activitypods.org/blog/the-road-to-activitypods-2-0/
 
 https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/
 > https://news.ycombinator.com/item?id=39201453
+
+https://news.ycombinator.com/item?id=39471116

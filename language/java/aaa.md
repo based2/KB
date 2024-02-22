@@ -285,6 +285,8 @@ https://github.com/ebarlas/java-httpserver-vthreads
 https://www.morling.dev/blog/one-billion-row-challenge/
 > https://github.com/gunnarmorling/1brc
 > https://old.reddit.com/r/java/comments/18w4oz4/gunnar_morling_the_one_billion_row_challenge/
+> https://questdb.io/blog/billion-row-challenge-step-by-step/
+> > https://news.ycombinator.com/item?id=39467885
 
 https://openjdk.org/jeps/453 Structured Concurrency (Preview)
 

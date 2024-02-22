@@ -23,6 +23,8 @@ https://cloud.google.com/blog/topics/developers-practitioners/postgresql-interfa
 https://github.com/GoogleCloudPlatform/berglas
 
 # Incident
+https://www.bleepingcomputer.com/news/security/hackers-abuse-google-cloud-run-in-massive-banking-trojan-campaign/
+
 https://socradar.io/misconfigurations-in-google-kubernetes-engine-gke-lead-to-a-privilege-escalation-exploit-chain/
 
 https://www.theregister.com/2023/11/27/google_drive_files_disappearing/

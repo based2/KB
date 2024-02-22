@@ -10,6 +10,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://www.bleepingcomputer.com/news/security/voltschemer-attacks-use-wireless-chargers-to-inject-voice-commands-fry-phones/
+
 https://www.youtube.com/watch?v=wTl4vEednkQ Breaking Bitlocker – Bypassing the Windows Disk Encryption
 > https://news.ycombinator.com/item?id=39243305
 

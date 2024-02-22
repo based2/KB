@@ -144,6 +144,10 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://www.bleepingcomputer.com/news/security/ftc-to-ban-avast-from-selling-browsing-data-for-advertising-purposes/
+
+https://www.bleepingcomputer.com/news/mobile/massive-atandt-outage-impacts-us-mobile-subscribers/
+
 https://news.ycombinator.com/item?id=39303357
 
 https://arstechnica.com/tech-policy/2024/01/sim-swapping-ring-stole-400m-in-crypto-from-a-us-company-officials-allege/

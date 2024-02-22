@@ -28,6 +28,10 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://old.reddit.com/r/netsec/comments/1av6bwx/ivanti_connect_secure_under_attack_uncovering/
+
+https://old.reddit.com/r/netsec/comments/1avznfn/peap_phase2_authentication_in_linuxs_wpa/
+
 https://www.bleepingcomputer.com/news/security/solarwinds-fixes-critical-rce-bugs-in-access-rights-audit-solution/
 
 https://ssd-disclosure.com/ssd-advisory-totolink-lr1200gb-auth-bypass/
