@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=39452243
+
+https://news.ycombinator.com/item?id=39481774
+
+https://news.ycombinator.com/item?id=39479001
+
 https://news.ycombinator.com/item?id=39452494
 
 https://news.ycombinator.com/item?id=39433674

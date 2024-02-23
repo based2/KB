@@ -257,6 +257,8 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://thenewstack.io/igalia-the-open-source-powerhouse-youve-never-heard-of/
+
 https://linuxfr.org/news/libreoffice-24-2-nouvelle-annee-nouvelle-numerotation-nouvelle-version
 
 https://news.ycombinator.com/item?id=39396130

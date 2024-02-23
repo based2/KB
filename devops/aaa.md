@@ -471,6 +471,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=39482146
+
 https://github.com/homeinfra-org/infra .cn
 
 https://earthly.dev/blog/incremental-rust-builds/

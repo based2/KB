@@ -167,6 +167,8 @@ https://github.com/axllent/mailpit
 # ML
 https://news.ycombinator.com/item?id=39405996
 
+https://news.ycombinator.com/item?id=39486717
+
 # News
 https://news.ycombinator.com/item?id=39455874
 

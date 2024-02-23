@@ -146,6 +146,8 @@ https://startyourownisp.com/
 # I
 https://www.bleepingcomputer.com/news/security/ftc-to-ban-avast-from-selling-browsing-data-for-advertising-purposes/
 
+https://news.ycombinator.com/item?id=39465517
+
 https://www.bleepingcomputer.com/news/mobile/massive-atandt-outage-impacts-us-mobile-subscribers/
 
 https://news.ycombinator.com/item?id=39303357

@@ -53,3 +53,5 @@ https://news.ycombinator.com/item?id=39300317
 
 https://github.com/fiddyschmitt/SimpleKVM
 > https://news.ycombinator.com/item?id=39333309
+
+https://www.theregister.com/2024/02/23/linux_built_for_a_vm/

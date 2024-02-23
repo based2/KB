@@ -55,6 +55,8 @@ https://github.com/getzola/zola
 https://news.ycombinator.com/item?id=39310688
 
 #
+https://news.ycombinator.com/item?id=39467132 cms
+
 https://news.ycombinator.com/item?id=38752435
 
 https://521dimensions.notion.site/VPS-Benchmarks-for-Self-hosters-c6eca7c5f16d4bb8aeb989174fc58ffe

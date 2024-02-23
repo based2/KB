@@ -281,6 +281,9 @@ https://www.producthunt.com/posts/gitlive
 https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
   
 # News
+https://neodyme.io/en/blog/github_secrets/
+> https://news.ycombinator.com/item?id=39481933
+
 https://jvns.ca/blog/2024/02/16/popular-git-config-options/
 > https://frenchie14.itch.io/driftmania
 

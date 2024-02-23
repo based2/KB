@@ -142,6 +142,10 @@ https://adventuron.io/
 > https://news.ycombinator.com/item?id=28857494
 
 # News
+https://news.ycombinator.com/item?id=39465485
+
+https://news.ycombinator.com/item?id=39482641
+
 https://news.ycombinator.com/item?id=39148336
 
 https://github.com/open-spaced-repetition/fsrs4anki/wiki/ABC-of-FSRS

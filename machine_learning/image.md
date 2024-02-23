@@ -139,6 +139,8 @@ https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html
 https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/
 > https://news.ycombinator.com/item?id=39215242
 
+https://news.ycombinator.com/item?id=39466630
+
 > https://news.ycombinator.com/item?id=36586079
 
 https://andys.page/posts/how-to-draw/

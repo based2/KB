@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/insomniac-games-alerts-employees-hit-by-ransomware-data-breach/
+
 https://github.com/Valentin-Metz/writeup_factorio
 > https://old.reddit.com/r/netsec/comments/193ybt1/writeup_of_a_rce_in_factorio_by_supplying_a/
 

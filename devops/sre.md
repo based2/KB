@@ -129,3 +129,5 @@ https://last9.io/blog/mttf-vs-mtbf-vs-mttd-vs-mttr/
 
 https://www.evalapply.org/posts/cold-restart-total-outage/index.html
 > https://news.ycombinator.com/item?id=36792421
+
+https://news.ycombinator.com/item?id=39476446

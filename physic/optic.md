@@ -3,6 +3,8 @@ https://physics.aps.org/articles/v15/s5 A Transistor-Like Device for Light
 https://phydemo.app/ray-optics/
 > https://news.ycombinator.com/item?id=39309409
 
+https://news.ycombinator.com/item?id=39484590
+
 https://global.canon/en/c-museum/special/exhibition2.html
 > https://news.ycombinator.com/item?id=39020258
 

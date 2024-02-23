@@ -149,6 +149,10 @@ https://news.ycombinator.com/item?id=29423102
 https://ossia.io/posts/msstore/
 
 # News
+https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-installing-windows-11-23h2-on-eligible-pcs/
+
+https://news.ycombinator.com/item?id=39479678
+
 https://www.bleepingcomputer.com/news/microsoft/windows-task-manager-refresh-can-be-paused-using-ctrl-key/
 
 https://tinyapps.org/

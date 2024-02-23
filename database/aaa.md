@@ -73,6 +73,8 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://news.ycombinator.com/item?id=39475467
+
 https://linuxfr.org/users/spacefox/journaux/postgresql-ne-faites-pas-ca
 
 https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/

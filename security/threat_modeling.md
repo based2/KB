@@ -42,4 +42,6 @@ https://blog.apnic.net/2021/10/19/threat-hunting-101-hunting-with-yara-rules/
 
 https://www.geeksforgeeks.org/threat-hunting-using-yara/
 
+https://news.ycombinator.com/item?id=39482246
+
 
