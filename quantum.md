@@ -94,6 +94,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/
+> https://news.ycombinator.com/item?id=39489660
+
 https://news.ycombinator.com/item?id=39433231
 
 https://developer.nvidia.com/blog/cuda-quantum-introduces-more-capabilities-for-quantum-accelerated-supercomputing/

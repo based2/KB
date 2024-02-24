@@ -39,6 +39,10 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://www.phoronix.com/review/linux-68-features
+
+https://www.phoronix.com/news/Linux-RFC-FAMFS-File-System
+
 https://www.phoronix.com/news/Linux-Kernel-To-Rust-1.77
 > https://news.ycombinator.com/item?id=39419098
 

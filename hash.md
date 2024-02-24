@@ -1,3 +1,5 @@
+https://www.quantamagazine.org/scientists-find-optimal-balance-of-data-storage-and-time-20240208/
+
 https://papa.bretmulvey.com/post/124027987928/hash-functions
 > https://news.ycombinator.com/item?id=36176461
 

@@ -31,6 +31,8 @@ https://blog.trailofbits.com/2024/01/16/leftoverlocals-listening-to-llm-response
 https://blog.quarkslab.com/pixiefail-nine-vulnerabilities-in-tianocores-edk-ii-ipv6-network-stack.html
 > https://news.ycombinator.com/item?id=39024228
 
+https://www.bitdefender.com/blog/labs/vulnerabilities-identified-in-bosch-bcc100-thermostat/
+
 https://www.bleepingcomputer.com/news/security/framework-discloses-data-breach-after-accountant-gets-phished/
 
 https://0xbigshaq.github.io/2024/01/05/tp-link-tapo-c100/

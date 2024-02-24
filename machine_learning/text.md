@@ -70,6 +70,9 @@ https://github.com/Deeptechia/geppetto
 > https://news.ycombinator.com/item?id=39280358
 
 # News
+https://explainextended.com/2023/12/31/happy-new-year-15/
+> https://news.ycombinator.com/item?id=39488668
+
 https://news.ycombinator.com/item?id=38777485
 
 https://www.iflscience.com/new-mind-reading-braingpt-turns-thoughts-into-text-on-screen-72054

@@ -123,6 +123,9 @@ https://security.googleblog.com/2023/04/supply-chain-security-for-go-part-1.html
 https://linuxsecurity.com/advisories/suse/suse-2023-1009-1-bci-golang-security-update-whcdphjlttju
 
 # News
+https://go.dev/blog/generic-slice-functions
+> https://news.ycombinator.com/item?id=39477821
+
 https://lobste.rs/s/ysrbxd/i_wish_go_had_retry_block
 
 https://go.dev/doc/go1.22

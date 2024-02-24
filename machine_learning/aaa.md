@@ -366,6 +366,8 @@ https://blog.includesecurity.com/2024/02/improving-llm-security-against-prompt-i
 https://arxiv.org/abs/2402.06664 LLM agents can autonomously hack websites
 > https://news.ycombinator.com/item?id=39403534
 
+https://github.com/Azure/PyRIT
+
 # Incident
 https://news.ycombinator.com/item?id=39462087
 

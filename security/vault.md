@@ -54,6 +54,9 @@ https://www.passbolt.com/
 > https://linuxfr.org/news/passbolt-le-gestionnaire-de-mots-de-passe-pour-equipe-lance-ses-applications-mobiles
 
 # Incident
+https://www.bleepingcomputer.com/news/security/bitwarden-flaw-can-let-hackers-steal-passwords-using-iframes/
+> https://www.bleepingcomputer.com/news/security/bitwardens-new-auto-fill-option-adds-phishing-resistance/
+
 https://news.ycombinator.com/item?id=39308260
 
 https://blog.redteam-pentesting.de/2024/bitwarden-heist/

@@ -10,6 +10,8 @@ https://objective-see.org/products/blockblock.html
 https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
 
 #
+https://www.bitdefender.com/blog/labs/details-on-apples-shortcuts-vulnerability-a-deep-dive-into-cve-2024-23204/
+
 https://news.ycombinator.com/item?id=39416602
 
 https://flaky.build/built-in-workaround-for-applications-hiding-under-the-macbook-pro-notch

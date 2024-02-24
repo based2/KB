@@ -73,6 +73,10 @@ https://news.ycombinator.com/item?id=38331173
 
 https://victoriametrics.com/blog/bsl-is-short-term-fix-why-we-choose-open-source/
 
+https://www.zdnet.fr/blogs/l-esprit-libre/non-respect-de-la-licence-gpl-orange-condamne-en-appel-39964312.htm
+> https://lasso.entrouvert.org/ SSO
+> https://dev.entrouvert.org/projects/authentic
+
 # Incident
 https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl
 > https://news.ycombinator.com/item?id=39075136
