@@ -127,6 +127,8 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 ## 2024
+KeyTrap DNSSEC vulnerability
+
 PixieFall
 
 ## 2023

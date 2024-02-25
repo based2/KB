@@ -240,6 +240,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://news.ycombinator.com/item?id=39490381
+
 https://news.ycombinator.com/item?id=39419210
 
 https://news.ycombinator.com/item?id=39404268

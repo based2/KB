@@ -97,6 +97,9 @@ https://github.com/damn/gdl
 https://github.com/ertugrulcetin/enion
 
 # News
+https://github.com/nubank/morse
+> https://news.ycombinator.com/item?id=39486748
+
 https://news.ycombinator.com/item?id=38540761
 
 https://clojure-goes-fast.com/blog/clojures-deadly-sin/

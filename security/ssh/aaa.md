@@ -130,6 +130,9 @@ https://github.com/MegaManSec/SSH-Snake
 > https://old.reddit.com/r/netsec/comments/18yoezv/sshsnake_automated_selfpropagating/
 
 # Incident
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksAbruptlyDown
+> https://news.ycombinator.com/item?id=39488081
+
 https://vigilance.fr/vulnerability/OpenSSH-information-disclosure-via-DRAM-Mayhem-Bit-Flipping-43186
 
 https://lobste.rs/s/t4zg7d/ssh_proxycommand_unexpected_code

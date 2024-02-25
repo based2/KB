@@ -55,6 +55,8 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/
+
 https://github.com/ory/kratos/releases/tag/v1.1.0
 > https://news.ycombinator.com/item?id=39465740
 

@@ -51,6 +51,7 @@ https://www.mattb.nz/w/2023/06/02/calling-time-on-dnssec/
 https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf
 > https://www.akamai.com/blog/security/dns-exploit-keytrap-posed-major-internet-threat
 > > https://www.bleepingcomputer.com/news/security/keytrap-attack-internet-access-disrupted-with-one-dns-packet/
+> https://lwn.net/Articles/962924/#Comments
 
 # DNS over TLS
 
@@ -122,6 +123,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=39489427
+
 https://news.ycombinator.com/item?id=39388412
 
 https://news.ycombinator.com/item?id=39349121
