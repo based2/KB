@@ -123,6 +123,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html
+
 https://news.ycombinator.com/item?id=39489427
 
 https://news.ycombinator.com/item?id=39388412

@@ -7,6 +7,8 @@ https://charlieharrington.com/my-new-old-apple-macintosh-se30-computer/
 https://beyondloom.com/tools/ditherpaint.html
 
 # Emulation
+https://news.ycombinator.com/item?id=39495393
+
 https://jamesfriend.com.au/pce-js/
 
 https://jamesfriend.com.au/pce-js/pce-js-apps/

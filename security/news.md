@@ -1,3 +1,5 @@
+https://nvd.nist.gov/vuln/detail/CVE-2023-3824 PHP RCE
+
 https://news.ycombinator.com/item?id=39452243
 
 https://news.ycombinator.com/item?id=39481774

@@ -78,7 +78,11 @@ https://www.openvas.org/
 
 https://pkg.go.dev/vuln/
 
+https://github.com/Orange-Cyberdefense/CVE-repository
+
 # News
+https://blog.talosintelligence.com/how-cvss-4-0-changes-vulnerability-severity/
+
 https://news.ycombinator.com/item?id=39406088
 
 https://www.pluginvulnerabilities.com/2024/01/22/many-cve-records-are-listing-the-wrong-versions-of-software-as-being-affected/

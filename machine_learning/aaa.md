@@ -369,6 +369,8 @@ https://arxiv.org/abs/2402.06664 LLM agents can autonomously hack websites
 https://github.com/Azure/PyRIT
 
 # Incident
+https://news.ycombinator.com/item?id=39496096
+
 https://news.ycombinator.com/item?id=39462087
 
 https://www.theguardian.com/world/2024/feb/16/air-canada-chatbot-lawsuit

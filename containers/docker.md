@@ -68,6 +68,9 @@ https://www.techrepublic.com/article/how-to-fix-the-docker-and-ufw-security-flaw
 https://research.nccgroup.com/2020/12/10/abstract-shimmer-cve-2020-15257-host-networking-is-root-equivalent-again/
 
 # News
+https://github.com/dockur/windows
+> https://news.ycombinator.com/item?id=39502149
+
 https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/
 > https://news.ycombinator.com/item?id=39240471
 

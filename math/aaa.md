@@ -148,6 +148,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://www.linearalgebraforprogrammers.com/blog/matmul_animations
+> https://news.ycombinator.com/item?id=39479234
+
 https://www.quantamagazine.org/maze-proof-establishes-a-backbone-for-statistical-mechanics-20240207/
 > https://news.ycombinator.com/item?id=39311930
 

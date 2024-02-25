@@ -220,6 +220,9 @@ https://rustype.github.io/notes/notes/rust-typestate-series/rust-typestate-part-
 https://docs.rs/dtolnay/0.0.9/dtolnay/macro._02__reference_types.html
 > https://lobste.rs/s/1lfizu/accurate_mental_model_for_rust_s
 
+https://without.boats/blog/asynchronous-clean-up/
+> https://news.ycombinator.com/item?id=39497110
+
 # Debug
 https://github.com/sidkshatriya/me/blob/master/004-A-debugger-is-born.md
 > https://news.ycombinator.com/item?id=27135591

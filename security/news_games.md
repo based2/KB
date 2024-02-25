@@ -1,3 +1,5 @@
+https://www.theregister.com/2024/02/23/intel_core_13th_crash/
+
 https://www.bleepingcomputer.com/news/security/insomniac-games-alerts-employees-hit-by-ransomware-data-breach/
 
 https://github.com/Valentin-Metz/writeup_factorio

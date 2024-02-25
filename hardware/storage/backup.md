@@ -34,6 +34,8 @@ https://syncthing.net/
 https://adminblog.foucry.net/posts/info/sauvegarde-simple/
 
 # News
+https://blocksandfiles.com/2024/02/23/keepit-saas-app-data-protection/
+
 https://github.com/dusanx/saf
 > https://news.ycombinator.com/item?id=37182284
 

@@ -650,6 +650,9 @@ https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bu
 > > https://github.com/patriksimek/vm2/security/advisories/GHSA-7jxr-cg7f-gpgv
 
 # News
+https://github.com/mozilla/readability
+> https://news.ycombinator.com/item?id=39503522
+
 https://kirbysayshi.com/2020/03/21/considering-then-abandoning-jsx-for-structured-yaml-config.html
 > https://news.ycombinator.com/item?id=39490075
 

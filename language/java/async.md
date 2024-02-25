@@ -46,6 +46,10 @@ https://github.com/helidon-io/helidon/blob/helidon-3.x/CHANGELOG.md
 https://github.com/awaitility/awaitility
 
 # News
+https://www.infoworld.com/article/3713220/java-virtual-threads-hit-with-pinning-issue.html
+> https://news.ycombinator.com/item?id=39501185
+> https://inside.java/2024/02/17/virtual-threads-next-steps/
+
 https://softwaremill.com/announcing-jox-fast-and-scalable-channels-in-java/
 > https://old.reddit.com/r/java/comments/18m2b4p/announcing_jox_fast_and_scalable_channels_in_java/
 

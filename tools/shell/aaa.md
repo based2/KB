@@ -34,6 +34,8 @@ https://matklad.github.io//2021/07/30/shell-injection.html
 > https://news.ycombinator.com/item?id=28105100
 
 # News
+https://drewdevault.com/2023/04/18/2023-04-18-A-new-shell-for-Unix.html
+
 https://news.ycombinator.com/item?id=39315689
 
 https://news.ycombinator.com/item?id=39076573

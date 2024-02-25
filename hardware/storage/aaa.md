@@ -63,6 +63,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.youtube.com/watch?v=UxsRpMdmlGo Archival Floppy Disk Preservation and Use
+> https://news.ycombinator.com/item?id=39495973
+
 https://news.ycombinator.com/item?id=39443679
 
 https://news.ycombinator.com/item?id=39188886

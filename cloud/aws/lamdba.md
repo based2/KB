@@ -75,6 +75,8 @@ https://github.com/aws-samples/aws-lambda-unit-test-example
 https://timmoth.com/posts/zR8YliXKAEavWTLQr4ESYQ
 
 # News
+https://news.ycombinator.com/item?id=39500397
+
 https://aws.amazon.com/about-aws/whats-new/2023/11/aws-lambda-support-java-21/
 
 https://cloudweekly.io/p/deploying-nextjs-aws-lambda-using-sst

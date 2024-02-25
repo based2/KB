@@ -159,6 +159,11 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://github.com/ochadenas/cpudefense
+> https://news.ycombinator.com/item?id=39501262
+
+https://news.ycombinator.com/item?id=39493989
+
 https://news.ycombinator.com/item?id=39433104
 > https://github.com/bebrws/bevy-snake
 
