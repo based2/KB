@@ -1,3 +1,6 @@
+https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html
+> https://news.ycombinator.com/item?id=39509012
+
 https://nvd.nist.gov/vuln/detail/CVE-2023-3824 PHP RCE
 
 https://news.ycombinator.com/item?id=39452243

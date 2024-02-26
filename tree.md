@@ -124,6 +124,8 @@ https://en.wikipedia.org/wiki/Crown_shyness
 
 https://news.ycombinator.com/item?id=38961377
 
+https://news.ycombinator.com/item?id=39509287
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 

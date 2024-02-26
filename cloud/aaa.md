@@ -28,6 +28,10 @@ https://tmobile.github.io/pacbot/
 
 view-source:https://www.datadoghq.com/state-of-cloud-security/
 
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-057a
+> https://www.bleepingcomputer.com/news/security/russian-hackers-shift-to-cloud-attacks-us-and-allies-warn/
+
+
 # FaaS
 https://hasura.io/blog/choosing-a-faas-function-as-a-service-provider/
 

@@ -14,6 +14,8 @@ https://thevaluable.dev/practical-guide-fzf-example/
 https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/
 
 #
+https://blog.trailofbits.com/2024/02/23/continuously-fuzzing-python-c-extensions/
+
 https://news.ycombinator.com/item?id=39077536 Pfuzz, a web fuzzer following the Unix philosophy
 
 https://users.cs.utah.edu/~regehr/papers/cgo24.pdf

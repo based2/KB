@@ -35,6 +35,9 @@ https://github.com/dair-ai/Prompt-Engineering-Guide
 
 https://systemds.apache.org/docs/3.1.0/
 
+# Biz
+https://news.ycombinator.com/item?id=39511530
+
 # Learn
 https://news.ycombinator.com/item?id=38405823
 

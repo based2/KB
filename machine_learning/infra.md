@@ -11,6 +11,12 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 https://news.ycombinator.com/item?id=37180017
 
 #
+https://ai-infra.fun/
+> https://news.ycombinator.com/item?id=39508950
+
+https://github.com/SciPhi-AI/R2R
+> https://news.ycombinator.com/item?id=39510874
+
 https://github.com/datadreamer-dev/DataDreamer
 
 https://getdera.com/

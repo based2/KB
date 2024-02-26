@@ -53,6 +53,9 @@ https://drew.shoes/posts/sup/ net send win
 > https://news.ycombinator.com/item?id=34157636
 
 # News
+https://github.com/epogrebnyak/justpath
+> https://news.ycombinator.com/item?id=39493363
+
 https://news.ycombinator.com/item?id=39457875 cat
 
 https://devblogs.microsoft.com/commandline/introducing-sudo-for-windows/

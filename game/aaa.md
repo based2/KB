@@ -33,6 +33,10 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://news.ycombinator.com/item?id=39508002
+
+https://news.ycombinator.com/item?id=39504702
+
 https://news.ycombinator.com/item?id=39496103
 
 https://news.ycombinator.com/item?id=39434566

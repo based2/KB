@@ -10,6 +10,9 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://chipsandcheese.com/2024/02/25/ryzen-z1s-tiny-igpu/
+> https://news.ycombinator.com/item?id=39514778
+
 https://news.ycombinator.com/item?id=39344815
 
 https://news.ycombinator.com/item?id=39279163

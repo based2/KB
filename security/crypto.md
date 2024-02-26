@@ -193,6 +193,8 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://soatok.blog/2024/02/26/kem-trails-understanding-key-encapsulation-mechanisms/
+
 https://news.ycombinator.com/item?id=39464490
 
 https://news.ycombinator.com/item?id=39453660

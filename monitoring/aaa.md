@@ -120,6 +120,11 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://news.ycombinator.com/item?id=39494513
+
+https://github.com/tstack/lnav
+> https://news.ycombinator.com/item?id=39501425
+
 https://martinheinz.dev/blog/107 Monitoring Indoor Air Quality with Prometheus, Grafana and a CO2 Sensor
 > https://old.reddit.com/r/programming/comments/1ayvavn/monitoring_indoor_air_quality_with_prometheus/
 

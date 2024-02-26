@@ -252,6 +252,12 @@ https://news.ycombinator.com/item?id=39211263
 
 https://news.ycombinator.com/item?id=39319191
 
+https://superset.apache.org/
+> https://news.ycombinator.com/item?id=39511676
+
+https://altair-viz.github.io/index.html
+> https://news.ycombinator.com/item?id=39503193
+
 #
 https://js4ds.org/
 http://pixelastic.github.io/pokemonorbigdata/

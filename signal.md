@@ -21,6 +21,8 @@ https://github.com/gnuradio/gnuradio
 https://www.earlevel.com/main/2002/08/31/a-gentle-introduction-to-the-fft/
 > https://news.ycombinator.com/item?id=28926775
 
+https://news.ycombinator.com/item?id=39509414
+
 # VHF
 https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280

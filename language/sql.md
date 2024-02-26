@@ -68,6 +68,9 @@ http://harelba.github.io/q/
 https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 
 # News
+https://github.com/baverman/sqlbind
+> https://news.ycombinator.com/item?id=39514034
+
 https://github.com/cfahlgren1/natural-sql
 > https://news.ycombinator.com/item?id=39261486
 
