@@ -224,6 +224,8 @@ https://github.com/google/gf180mcu-pdk
 
 https://www.hackster.io/news/beagleboard-org-launches-high-performance-embedded-ai-64-bit-beaglebone-ai-64-board-91386326837d
 
+https://news.ycombinator.com/item?id=39543291
+
 https://www.phoronix.com/scan.php?page=news_item&px=HDMI-Closed-Spec-Hurts-Open
 > https://news.ycombinator.com/item?id=31579820
 

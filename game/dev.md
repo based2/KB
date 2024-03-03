@@ -159,6 +159,16 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://awkravchuk.itch.io/cl-fast-ecs/devlog/622054/gamedev-in-lisp-part-1-ecs-and-metalinguistic-abstraction
+> https://news.ycombinator.com/item?id=39572488
+
+https://news.ycombinator.com/item?id=39572858 bash
+
+https://news.ycombinator.com/item?id=39535106
+
+https://rapier.rs/docs/
+> https://news.ycombinator.com/item?id=39519894
+
 https://github.com/ochadenas/cpudefense
 > https://news.ycombinator.com/item?id=39501262
 

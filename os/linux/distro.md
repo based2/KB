@@ -98,6 +98,9 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://www.gobolinux.org/
+> https://news.ycombinator.com/item?id=39532650
+
 https://people.debian.org/~nthykier/blog/2023/a-new-debian-package-helper-debputy.html A new Debian package helper: debputy
 > https://news.ycombinator.com/item?id=39173031
 

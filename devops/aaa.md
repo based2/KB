@@ -473,6 +473,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://thenewstack.io/what-does-a-platform-engineer-do-and-do-you-need-one/
+
 https://news.ycombinator.com/item?id=39482146
 
 https://github.com/homeinfra-org/infra .cn

@@ -69,6 +69,8 @@ https://interviewing.io/blog/how-hard-is-it-to-cheat-with-chatgpt-in-technical-i
 https://github.com/Deeptechia/geppetto
 > https://news.ycombinator.com/item?id=39280358
 
+https://news.ycombinator.com/item?id=39579446
+
 # News
 https://explainextended.com/2023/12/31/happy-new-year-15/
 > https://news.ycombinator.com/item?id=39488668

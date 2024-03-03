@@ -149,6 +149,11 @@ https://vksegfault.github.io/posts/gentle-intro-gpu-inner-workings/
 > https://news.ycombinator.com/item?id=28728138
 
 # News
+https://news.ycombinator.com/item?id=39570423
+
+https://www.cs.cornell.edu/courses/cs6120/2023fa/self-guided/
+> https://news.ycombinator.com/item?id=39577878
+
 https://news.ycombinator.com/item?id=39300859
 
 https://nixcademy.com/2024/01/30/cross-compilation-with-nix/

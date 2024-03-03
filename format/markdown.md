@@ -93,3 +93,5 @@ https://github.com/VikParuchuri/marker
 https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces
 > https://news.ycombinator.com/item?id=39076908
 > > https://github.com/jgm/djot https://djot.net/
+
+https://news.ycombinator.com/item?id=39531600

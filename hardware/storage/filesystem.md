@@ -80,6 +80,8 @@ https://github.com/openzfs/zfs/issues/15526
 > https://news.ycombinator.com/item?id=38405731
 
 # News
+https://news.ycombinator.com/item?id=39566205
+
 https://github.com/seaweedfs/seaweedfs
 > https://news.ycombinator.com/item?id=39235593
 

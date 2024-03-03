@@ -1,3 +1,14 @@
+https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/
+> https://news.ycombinator.com/item?id=39566766
+
+https://news.ycombinator.com/item?id=39517573
+
+https://www.whitehouse.gov/wp-content/uploads/2024/02/Final-ONCD-Technical-Report.pdf
+> https://news.ycombinator.com/item?id=39542440
+
+https://www.nist.gov/news-events/news/2024/02/nist-releases-version-20-landmark-cybersecurity-framework
+> https://news.ycombinator.com/item?id=39541824
+
 https://web-in-security.blogspot.com/2021/01/insecure-features-in-pdfs.html
 > https://news.ycombinator.com/item?id=39509012
 

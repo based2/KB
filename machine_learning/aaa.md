@@ -1,5 +1,7 @@
 https://www.mlyearning.org/
 
+https://mlu-explain.github.io/
+
 https://www.enisa.europa.eu/news/artificial-intelligence-how-to-make-machine-learning-cyber-secure
 
 https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles
@@ -32,6 +34,8 @@ https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism
 https://engineering.fb.com/2021/06/28/data-center-engineering/asicmon/
 
 https://github.com/dair-ai/Prompt-Engineering-Guide
+
+https://news.ycombinator.com/item?id=39543152
 
 https://systemds.apache.org/docs/3.1.0/
 
@@ -255,6 +259,9 @@ https://www.scientificamerican.com/article/jailbroken-ai-chatbots-can-jailbreak-
 
 https://arxiv.org/abs/2401.15883
 
+https://arstechnica.com/ai/2024/03/researchers-create-ai-worms-that-can-spread-from-one-system-to-another/
+> https://news.ycombinator.com/item?id=39575308
+
 ## Bias
 https://queue.acm.org/detail.cfm?id=3466134
 > https://news.ycombinator.com/item?id=27589582
@@ -371,7 +378,11 @@ https://arxiv.org/abs/2402.06664 LLM agents can autonomously hack websites
 
 https://github.com/Azure/PyRIT
 
+https://news.ycombinator.com/item?id=39522908
+
 # Incident
+https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/
+
 https://news.ycombinator.com/item?id=39496096
 
 https://news.ycombinator.com/item?id=39462087
@@ -508,6 +519,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://www.di.ens.fr/%7Efbach/ltfp_book.pdf
+> https://news.ycombinator.com/item?id=39574436
+
 https://news.ycombinator.com/item?id=39472790
 
 https://news.ycombinator.com/item?id=39458363

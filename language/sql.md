@@ -27,6 +27,9 @@ https://www.growkudos.com/publications/10.1145%25252F3446871.3469759/reader
 https://codingtofreedom.com/oracle-sql-is-the-devil/
 > https://news.ycombinator.com/item?id=28483317
 
+https://sql-workbench.com/
+> https://news.ycombinator.com/item?id=39537794
+
 # Indexes
 https://use-the-index-luke.com/
 
@@ -68,6 +71,9 @@ http://harelba.github.io/q/
 https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 
 # News
+https://pql.dev/ Pql, a pipelined query language that compiles to SQL (written in Go)
+> https://news.ycombinator.com/item?id=39539252
+
 https://github.com/baverman/sqlbind
 > https://news.ycombinator.com/item?id=39514034
 

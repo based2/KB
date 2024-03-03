@@ -8,3 +8,6 @@ https://clash-lang.org/
 
 https://github.com/chipsalliance/chisel
 > https://news.ycombinator.com/item?id=38781273
+
+https://github.com/ZigEmbeddedGroup/microzig
+> https://news.ycombinator.com/item?id=39540886

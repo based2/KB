@@ -179,6 +179,8 @@ https://lemire.me/blog/2023/07/01/parsing-time-stamps-faster-with-simd-instructi
 https://owen.cafe/posts/six-times-faster-than-c/
 > https://news.ycombinator.com/item?id=36618344
 
+https://news.ycombinator.com/item?id=39564632
+
 ## Profiler
 https://www.markhansen.co.nz/profilerpedia/
 > https://news.ycombinator.com/item?id=28747421
@@ -294,6 +296,13 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=39554874
+
+https://two-wrongs.com/software-design-tree-and-program-families.html
+> https://news.ycombinator.com/item?id=39536437
+
+https://www.chokoon.com/post/how-google-s-page-rank-algorithm-changes-architectural-layout
+
 https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html
 > https://news.ycombinator.com/item?id=39494925
 

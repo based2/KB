@@ -204,6 +204,13 @@ https://news.ycombinator.com/item?id=39213410
 https://lilianweng.github.io/posts/2024-02-05-human-data-quality/
 
 # News
+https://news.ycombinator.com/item?id=39553967
+
+https://news.ycombinator.com/item?id=39532367
+
+https://arxiv.org/abs/2402.17764 The Era of 1-bit LLMs: ternary parameters for cost-effective computing
+> https://news.ycombinator.com/item?id=39535800
+
 https://news.ycombinator.com/item?id=39499207
 
 https://news.ycombinator.com/item?id=39491646

@@ -286,6 +286,9 @@ https://linkis.apache.org/ computation middleware layer to decouple the upper ap
 https://github.com/apitable/apitable alt airtable
 > https://github.com/apitable/apitable
 
+https://github.com/ankane/blazer
+> https://news.ycombinator.com/item?id=39524327
+
 # CI
 https://hypervector.io/
 
@@ -313,6 +316,11 @@ https://news.ycombinator.com/item?id=38310502 bi
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+http://rafalab.dfci.harvard.edu/dsbook-part-1/
+> https://news.ycombinator.com/item?id=39571439
+
+https://news.ycombinator.com/item?id=39551064
+
 https://news.ycombinator.com/item?id=39438491
 
 https://news.ycombinator.com/item?id=39383386

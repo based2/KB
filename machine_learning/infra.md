@@ -11,6 +11,9 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 https://news.ycombinator.com/item?id=37180017
 
 #
+https://floneum.com/blog/kalosm_0_2/
+> https://news.ycombinator.com/item?id=39540445
+
 https://ai-infra.fun/
 > https://news.ycombinator.com/item?id=39508950
 

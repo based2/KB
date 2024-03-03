@@ -49,3 +49,6 @@ https://github.com/ohmjs/ohm
 
 https://dubroy.com/blog/visualizing-packrat-parsing/
 > https://news.ycombinator.com/item?id=39379552
+
+https://markkarpov.com/tutorial/megaparsec.html
+>

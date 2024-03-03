@@ -159,6 +159,8 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://news.ycombinator.com/item?id=39560180
+
 https://leanrada.com/htmz/
 > https://github.com/Kalabasa/htmz MIT
 > https://news.ycombinator.com/item?id=39429370

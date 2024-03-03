@@ -79,6 +79,8 @@ https://www.openra.net/
 > https://news.ycombinator.com/item?id=28511076
 
 # News
+https://news.ycombinator.com/item?id=39528726
+
 https://news.ycombinator.com/item?id=39430200
 
 https://news.ycombinator.com/item?id=38784817

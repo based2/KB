@@ -133,6 +133,11 @@ https://oldvcr.blogspot.com/2022/10/refurb-weekend-powerbook-1400.html
 > https://news.ycombinator.com/item?id=33295729
 
 # News
+http://oldvcr.blogspot.com/2024/03/an-apple-district-managers-macintosh.html
+> https://news.ycombinator.com/item?id=39577957
+
+https://news.ycombinator.com/item?id=39576343
+
 https://news.ycombinator.com/item?id=39384731
 
 https://matduggan.com/fixing-macs-door-to-door/

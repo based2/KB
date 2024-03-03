@@ -82,7 +82,11 @@ https://blogs.infoblox.com/cyber-threat-intelligence/introducing-dns-threat-acto
 https://sec-consult.com/blog/detail/taking-over-a-country-kaminsky-style/
 > https://old.reddit.com/r/netsec/comments/187hd2f/trap_reset_poison_taking_over_a_country_kaminsky/
 
+https://decoded.avast.io/threatintel/opening-a-new-front-against-dns-based-threats/
+
 # Incident
+https://www.bleepingcomputer.com/news/security/savvy-seahorse-gang-uses-dns-cname-records-to-power-investor-scams/
+
 https://www.netspi.com/blog/technical/network-penetration-testing/exploiting-adidns/
 > https://www.akamai.com/blog/security-research/spoofing-dns-by-abusing-dhcp microsoft
 > > https://news.ycombinator.com/item?id=38570035

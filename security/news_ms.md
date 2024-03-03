@@ -1,6 +1,14 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://news.ycombinator.com/item?id=39581664
+
+https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/
+
+https://www.bleepingcomputer.com/news/security/windows-kernel-bug-fixed-last-month-exploited-as-zero-day-since-august/
+
+https://www.bleepingcomputer.com/news/microsoft/windows-february-2024-updates-fail-to-install-with-0x800f0922-errors/
+
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21412
 
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21410

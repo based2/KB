@@ -8,6 +8,9 @@ https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plas
 
 https://www.weflywright.com/technology#motors
 > https://news.ycombinator.com/item?id=28500744
+
+https://ciechanow.ski/airfoil/
+> https://news.ycombinator.com/item?id=39526057
   
 # Drone
 https://faadronezone.faa.gov/#/
@@ -89,6 +92,9 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://vatsim.net/
+> https://news.ycombinator.com/item?id=39537570
+
 https://news.ycombinator.com/item?id=39339149
 
 https://github.com/n7space/aerugo rust rtos

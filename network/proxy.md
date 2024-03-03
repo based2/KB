@@ -30,6 +30,10 @@ https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service
 https://openreplay.com/
 
 # News
+https://news.ycombinator.com/item?id=39540594
+
+https://news.ycombinator.com/item?id=39539056
+
 https://news.ycombinator.com/item?id=39211857
 
 https://lists.apache.org/thread/4rb4m61o6ltmrxmb3gm50y8s5bhzdybl Apache Traffic Server 9.2.1 and 8.1.7 are Released

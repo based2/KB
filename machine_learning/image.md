@@ -136,6 +136,9 @@ https://blog.research.google/2024/01/mobilediffusion-rapid-text-to-image.html
 > https://news.ycombinator.com/item?id=39210458
 
 ## Stable diffusion
+https://github.com/layerdiffusion/sd-forge-layerdiffusion
+> https://news.ycombinator.com/item?id=39577164
+
 https://old.reddit.com/r/StableDiffusion/comments/1ag5h5s/the_vae_used_for_stable_diffusion_1x2x_and_other/
 > https://news.ycombinator.com/item?id=39215242
 

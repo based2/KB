@@ -148,6 +148,19 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=39572106
+
+http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html
+> https://news.ycombinator.com/item?id=39518329
+
+https://news.ycombinator.com/item?id=39541452
+
+https://www.sympy.org/en/index.html
+> https://news.ycombinator.com/item?id=39537448
+
+https://enkimute.github.io/LookMaNoMatrices/
+> https://news.ycombinator.com/item?id=39538670
+
 https://www.linearalgebraforprogrammers.com/blog/matmul_animations
 > https://news.ycombinator.com/item?id=39479234
 

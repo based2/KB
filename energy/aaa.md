@@ -16,6 +16,8 @@ https://en.wikipedia.org/wiki/Duck_curve
 https://www.rte-france.com/eco2mix
 
 # News
+https://news.ycombinator.com/item?id=39539842
+
 https://news.ycombinator.com/item?id=39513051
 
 https://news.ycombinator.com/item?id=39455915

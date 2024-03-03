@@ -73,6 +73,9 @@ https://danpker.com/posts/faster-bash-startup/
 https://cuddly-octo-palm-tree.com/posts/2021-10-31-better-bash-functions/
 > https://news.ycombinator.com/item?id=29058140
 
+# debug
+https://news.ycombinator.com/item?id=39568728
+
 https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 # News

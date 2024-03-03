@@ -252,6 +252,8 @@ https://blog.netbsd.org/tnf/entry/netbsd_9_2_released
 > https://news.ycombinator.com/item?id=27191908
 
 # News
+https://hardenedbsd.org/article/shawn-webb/2024-03-01/hardenedbsd-february-2024-status-report
+
 https://www.tumfatig.net/2024/zfs-encryption-and-notification-service-on-omnios/
 
 https://ghostbsd.org/news/GhostBSD_23.10.1_Now_Available

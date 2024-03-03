@@ -175,6 +175,9 @@ https://github.com/graninas/functional-declarative-design-methodology
 
 https://typeclasses.substack.com/p/the-centrality-of-affine-traversal
 
+https://mmapped.blog/posts/25-domain-types.html
+> https://news.ycombinator.com/item?id=39521568
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721
@@ -357,6 +360,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=39526922
+
 https://news.ycombinator.com/item?id=39480331
 
 https://btmc.substack.com/p/you-cant-handle-errors

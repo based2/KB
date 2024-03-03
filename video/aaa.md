@@ -120,6 +120,9 @@ https://linderud.dev/blog/stream-to-chromecast-with-resolved-vlc-and-bash/
 https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-free-online-thanks-to-the-korean-film-archive.html
 > https://news.ycombinator.com/item?id=27055866
 
+# ML
+https://news.ycombinator.com/item?id=39512912
+
 # News
 https://joshuabird.com/blog/post/mocap-drones
 

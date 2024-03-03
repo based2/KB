@@ -214,6 +214,8 @@ https://github.com/collabora/WhisperSpeech
 > https://news.ycombinator.com/item?id=39036796
 
 # News
+https://www.suno.ai/
+
 https://google-research.github.io/seanet/musiclm/examples/
 > https://news.ycombinator.com/item?id=34541693
 

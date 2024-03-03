@@ -20,6 +20,9 @@ https://news.ycombinator.com/item?id=37964917
 
 https://rubenerd.com/revisiting-textpattern/
 
+# photo album
+https://news.ycombinator.com/item?id=39570692
+
 # Static
 https://outstatic.com/
 > https://news.ycombinator.com/item?id=33306029
@@ -53,6 +56,8 @@ https://blot.im/how
 https://github.com/getzola/zola
 
 https://news.ycombinator.com/item?id=39310688
+
+https://news.ycombinator.com/item?id=39538335
 
 #
 https://news.ycombinator.com/item?id=39467132 cms

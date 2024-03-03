@@ -120,6 +120,11 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://www.brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html
+> https://news.ycombinator.com/item?id=39579833
+
+https://news.ycombinator.com/item?id=39529775
+
 https://news.ycombinator.com/item?id=39494513
 
 https://github.com/tstack/lnav

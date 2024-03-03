@@ -1,5 +1,7 @@
 https://sre.google/books/building-secure-reliable-systems/
 
+https://news.ycombinator.com/item?id=39580346
+
 https://github.com/bregman-arie/sre-checklist
 
 https://principlesofchaos.org/
@@ -39,6 +41,8 @@ https://principles.green/
 https://awsmaniac.com/aws-outages/
 
 # News
+https://news.ycombinator.com/item?id=39554874
+
 https://news.ycombinator.com/item?id=39044727
 
 https://sre.google/resources/practices-and-processes/twenty-years-of-sre-lessons-learned/

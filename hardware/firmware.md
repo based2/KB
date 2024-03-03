@@ -49,3 +49,6 @@ https://www.theregister.com/2023/04/17/opinion_column/
 
 https://thestarman.pcministry.com/asm/mbr/GRUB.htm
 > https://news.ycombinator.com/item?id=37247678
+
+https://openipc.org/ alternative open firmware for your IP camera
+> https://news.ycombinator.com/item?id=39571025

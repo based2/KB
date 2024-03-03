@@ -111,6 +111,8 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://news.ycombinator.com/item?id=39522464
+
 https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101
 > https://news.ycombinator.com/item?id=39325659
 
