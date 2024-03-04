@@ -12,3 +12,5 @@ https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html
 > https://news.ycombinator.com/item?id=39235983
 
 https://news.ycombinator.com/item?id=39392104
+
+https://news.ycombinator.com/item?id=39575264

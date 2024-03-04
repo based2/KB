@@ -155,3 +155,5 @@ https://news.ycombinator.com/item?id=39324749 simd-scan
 
 https://www.mdpi.com/2079-9292/13/5/854 MeMPA: A Memory Mapped M-SIMD Co-Processor to Cope with the Memory Wall Issue
 > https://news.ycombinator.com/item?id=39517635
+
+https://news.ycombinator.com/item?id=39592702

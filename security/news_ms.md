@@ -1,6 +1,10 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.bleepingcomputer.com/news/security/cisa-warns-of-microsoft-streaming-bug-exploited-in-malware-attacks/
+
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21410
+
 https://news.ycombinator.com/item?id=39581664
 
 https://decoded.avast.io/janvojtesek/lazarus-and-the-fudmodule-rootkit-beyond-byovd-with-an-admin-to-kernel-zero-day/

@@ -148,6 +148,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=39588899
+
 https://news.ycombinator.com/item?id=39572106
 
 http://python-history.blogspot.com/2010/08/why-pythons-integer-division-floors.html

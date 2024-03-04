@@ -84,6 +84,8 @@ https://pekko.apache.org/download.html#pekko-connectors-kafka
 
 https://pekko.apache.org/docs/pekko-connectors-kafka/current/
 
+https://cwiki.apache.org/confluence/display/PEKKO/Pekko+Akka+Compatibility
+
 ## Monix
 https://monix.io/
 
@@ -100,6 +102,10 @@ https://vigilance.fr/vulnerability/sbt-directory-traversal-via-IO-unzip-42950
 https://eed3si9n.com/sbt-1.8.3
 
 # News
+https://scala-native.org/en/stable/
+
+https://old.reddit.com/r/scala/comments/1b35lgc/scala_340_and_333_lts_released/
+
 http://fpilluminated.com/assets/fusing-transformations-of-strict-scala-collections-with-views.html
 
 https://softwaremill.com/go-like-channels-in-scala-receive-send-and-default-clauses/

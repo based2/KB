@@ -52,6 +52,8 @@ https://spring.io/blog/2021/12/09/new-aot-engine-brings-spring-native-to-the-nex
 > https://www.reddit.com/r/java/comments/rcjdgz/new_aot_engine_brings_spring_native_to_the_next/
 
 # News
+https://old.reddit.com/r/java/comments/1b4rcz2/support_timeline_announcement_for_spring/
+
 https://old.reddit.com/r/java/comments/1amjzee/spring_boot_32_and_spring_framework_61_add_java/
 
 https://github.com/spring-projects/spring-framework/wiki/What%27s-New-in-Spring-Framework-6.x

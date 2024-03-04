@@ -123,6 +123,8 @@ https://www.openculture.com/2020/02/watch-more-than-400-classic-korean-films-fre
 # ML
 https://news.ycombinator.com/item?id=39512912
 
+https://news.ycombinator.com/item?id=39593256
+
 # News
 https://joshuabird.com/blog/post/mocap-drones
 

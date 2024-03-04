@@ -11,3 +11,5 @@ https://github.com/chipsalliance/chisel
 
 https://github.com/ZigEmbeddedGroup/microzig
 > https://news.ycombinator.com/item?id=39540886
+
+https://news.ycombinator.com/item?id=39591694

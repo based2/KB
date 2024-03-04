@@ -76,6 +76,7 @@ https://victoriametrics.com/blog/bsl-is-short-term-fix-why-we-choose-open-source
 https://www.zdnet.fr/blogs/l-esprit-libre/non-respect-de-la-licence-gpl-orange-condamne-en-appel-39964312.htm
 > https://lasso.entrouvert.org/ SSO
 > https://dev.entrouvert.org/projects/authentic
+> https://news.ycombinator.com/item?id=39587344
 
 https://news.ycombinator.com/item?id=39503266
 

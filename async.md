@@ -52,6 +52,8 @@ https://www.braze.com/resources/articles/writing-effective-integration-tests-for
 > https://news.ycombinator.com/item?id=29489815
 
 #
+https://old.reddit.com/r/scala/comments/1b6k0cs/scalas_asynchronousfilechannel_is_not_truly/
+
 https://without.boats/blog/let-futures-be-futures/
 > https://news.ycombinator.com/item?id=39242962
 

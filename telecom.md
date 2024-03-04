@@ -144,6 +144,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://www.bleepingcomputer.com/news/security/stealthy-gtpdoor-linux-malware-targets-mobile-operator-networks/
+
 https://www.bleepingcomputer.com/news/security/ftc-to-ban-avast-from-selling-browsing-data-for-advertising-purposes/
 
 https://news.ycombinator.com/item?id=39465517

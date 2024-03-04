@@ -115,6 +115,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://news.ycombinator.com/item?id=39592444
+
 https://thisisimportant.net/posts/content-as-a-graph/
 
 https://colah.github.io/posts/2015-08-Backprop/
