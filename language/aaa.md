@@ -360,6 +360,8 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://news.ycombinator.com/item?id=39614433
+
 https://news.ycombinator.com/item?id=39526922
 
 https://news.ycombinator.com/item?id=39480331

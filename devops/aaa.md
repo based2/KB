@@ -114,6 +114,14 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
+
+https://www.bleepingcomputer.com/news/security/hackers-abuse-qemu-to-covertly-tunnel-network-traffic-in-cyberattacks/
+
+https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
+
+https://www.theregister.com/2024/03/05/rapid7_jetbrains_vuln_disclosure_dispute/?td=rt-3a
+
 https://www.recordedfuture.com/flying-under-the-radar-abusing-github-malicious-infrastructure
 
 https://www.legitsecurity.com/blog/azure-devops-zero-click-ci/cd-vulnerability

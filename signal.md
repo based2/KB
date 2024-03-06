@@ -23,6 +23,8 @@ https://www.earlevel.com/main/2002/08/31/a-gentle-introduction-to-the-fft/
 
 https://news.ycombinator.com/item?id=39509414
 
+https://news.ycombinator.com/item?id=39588977
+
 # VHF
 https://smsgte.org/ug-sending-messages
 * https://news.ycombinator.com/item?id=29060280
@@ -31,6 +33,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=39616417
+
 https://destevez.net/2024/01/trying-to-decode-lev-1/
 
 https://news.ycombinator.com/item?id=39412198

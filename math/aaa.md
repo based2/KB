@@ -111,6 +111,8 @@ https://www.amygoodchild.com/blog/polygons-packing-expanding
 
 https://news.ycombinator.com/item?id=39201332
 
+https://news.ycombinator.com/item?id=39611662
+
 # Fractal
 https://blog.fract.al/post/62180302979/a-closer-look-at-fractals
 > https://news.ycombinator.com/item?id=27737705

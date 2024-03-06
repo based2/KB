@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=39613789
+
 https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/
 > https://news.ycombinator.com/item?id=39566766
 

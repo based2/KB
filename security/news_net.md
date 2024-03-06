@@ -28,6 +28,8 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://www.kroll.com/en/insights/publications/cyber/screenconnect-vulnerability-exploited-to-deploy-babyshark
+
 https://www.scmagazine.com/news/vmware-issues-no-patch-advisory-for-critical-flaw-in-old-sso-plugin
 
 https://old.reddit.com/r/netsec/comments/1av6bwx/ivanti_connect_secure_under_attack_uncovering/

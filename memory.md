@@ -157,3 +157,5 @@ https://www.mdpi.com/2079-9292/13/5/854 MeMPA: A Memory Mapped M-SIMD Co-Process
 > https://news.ycombinator.com/item?id=39517635
 
 https://news.ycombinator.com/item?id=39592702
+
+https://news.ycombinator.com/item?id=39607753

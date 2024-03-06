@@ -126,6 +126,8 @@ https://news.ycombinator.com/item?id=38961377
 
 https://news.ycombinator.com/item?id=39509287
 
+https://news.ycombinator.com/item?id=39618784
+
 ## Pine
 https://news.ycombinator.com/item?id=29066755 Nuts
 

@@ -49,6 +49,8 @@ https://data.finlex.fi/en/main Semantic Finlex – Finnish Law and Justice as Li
 
 https://github.com/etalab/codes-juridiques-francais/tree/master/codes-en-vigueur/code-de-la-route
 
+https://news.ycombinator.com/item?id=39612657
+
 # Copyright
 https://www.trtworld.com/magazine/indian-academics-throw-weight-behind-sci-hub-and-libgen-in-landmark-case-51780
 > https://news.ycombinator.com/item?id=29366621

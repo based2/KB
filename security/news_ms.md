@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://news.ycombinator.com/item?id=39604345
+
 https://www.bleepingcomputer.com/news/security/cisa-warns-of-microsoft-streaming-bug-exploited-in-malware-attacks/
 
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-21410

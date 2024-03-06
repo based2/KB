@@ -77,6 +77,8 @@ https://github.com/rustq/vue-skia
 
 https://tomaszs2.medium.com/vue-3-3-6-faster-thanks-to-weakmaps-93d06e81dcb0
 
+https://news.ycombinator.com/item?id=39609543
+
 ## ReactJS - Facebook
 https://github.com/reactjs/react-basic
 

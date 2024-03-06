@@ -37,6 +37,8 @@ https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt
 > https://news.ycombinator.com/item?id=28244246
 
 # Incident
+https://news.ycombinator.com/item?id=39609336
+
 https://www.theregister.com/2024/02/09/it_incident_report_the_clock/
 
 https://www.hezmatt.org/~mpalmer/blog/2024/01/16/pwned-certificates-on-the-fediverse.html
