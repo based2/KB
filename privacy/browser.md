@@ -26,6 +26,8 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://news.ycombinator.com/item?id=39620060
+
 https://reclaimthenet.org/microsoft-edge-sucks-up-chrome-data-without-permission
 > https://news.ycombinator.com/item?id=39232832
 

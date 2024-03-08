@@ -103,6 +103,8 @@ https://news.ycombinator.com/item?id=38379397
 https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023
 > https://news.ycombinator.com/item?id=38839763
 
+https://news.ycombinator.com/item?id=39627624
+
 # Security
 
 https://mailvelope.com/en

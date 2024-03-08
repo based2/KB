@@ -91,3 +91,6 @@ https://news.ycombinator.com/item?id=39065637
 
 https://github.com/gabotechs/dep-tree Visualize the entropy of a codebase with a 3D force-directed graph
 > https://news.ycombinator.com/item?id=39206842
+
+https://www.flyde.dev/
+>  https://news.ycombinator.com/item?id=39628285

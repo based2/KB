@@ -1,3 +1,11 @@
+https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html
+> https://news.ycombinator.com/item?id=39630985
+
+https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf
+> https://news.ycombinator.com/item?id=39640190
+
+https://news.ycombinator.com/item?id=39643951
+
 https://news.ycombinator.com/item?id=39613789
 
 https://arstechnica.com/tech-policy/2024/03/whatsapp-finally-forces-pegasus-spyware-maker-to-share-its-secret-code/

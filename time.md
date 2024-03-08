@@ -230,6 +230,9 @@ https://sophiehoulden.com/randomstuff/epitime/?revised
 https://incoherency.co.uk/blog/stories/harrison-clocks.html
 > https://news.ycombinator.com/item?id=38401550
 
+https://ironicsans.beehiiv.com/p/life-death-bulbdial-clock
+> https://news.ycombinator.com/item?id=39634195
+
 ## Animation
 https://observablehq.com/@roelandschoukens/astronomical-clock Praha
 

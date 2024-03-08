@@ -49,6 +49,8 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 #
+https://news.ycombinator.com/item?id=39638150
+
 https://www.theregister.com/2024/02/09/a_look_at_fortinet_week/
 
 https://www.bleepingcomputer.com/news/security/juniper-warns-of-critical-rce-bug-in-its-firewalls-and-switches/

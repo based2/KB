@@ -197,6 +197,8 @@ https://polygon.io/blog/case-study-algorithmict-trading-with-go/
 
 https://www.bloomberg.com/opinion/articles/2022-09-28/the-deli-was-allegedly-a-fraud
 
+https://news.ycombinator.com/item?id=39643833
+
 ## Personal finance
 https://monetal.app/index_en.php
 > https://news.ycombinator.com/item?id=36906623

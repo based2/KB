@@ -39,6 +39,11 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://blog.izissise.net/posts/initramfs/
+> https://news.ycombinator.com/item?id=39641322
+
+https://news.ycombinator.com/item?id=39644501
+
 https://news.ycombinator.com/item?id=39537735
 
 https://news.ycombinator.com/item?id=39498265

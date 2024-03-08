@@ -29,6 +29,8 @@ https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messa
 > https://news.ycombinator.com/item?id=27587911
 
 # News
+https://news.ycombinator.com/item?id=39633936
+
 https://news.ycombinator.com/item?id=38751750
 
 https://mk16.de/blog/comparison-of-self-meshing-vpns/

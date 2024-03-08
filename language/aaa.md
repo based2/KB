@@ -360,6 +360,9 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md
+> https://news.ycombinator.com/item?id=39615228
+
 https://news.ycombinator.com/item?id=39614433
 
 https://news.ycombinator.com/item?id=39526922

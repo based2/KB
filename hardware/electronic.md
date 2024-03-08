@@ -46,6 +46,8 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://news.ycombinator.com/item?id=39636469
+
 https://news.ycombinator.com/item?id=39619196
 
 https://atopile.io/getting-started/ Design circuit boards with code

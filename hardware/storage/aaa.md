@@ -63,6 +63,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://linuxblog.io/home-lab-beginners-guide-hardware/
+> https://news.ycombinator.com/item?id=39640992
+
 https://www.youtube.com/watch?v=UxsRpMdmlGo Archival Floppy Disk Preservation and Use
 > https://news.ycombinator.com/item?id=39495973
 

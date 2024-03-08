@@ -111,6 +111,9 @@ https://blog.crunchydata.com/blog/message-queuing-using-native-postgresql
 
 https://news.ycombinator.com/item?id=39315833
 
+https://hatchet.run/
+> https://news.ycombinator.com/item?id=39643136 dag
+
 # MQTT
 https://github.com/eclipse/mosquitto C Python
 > https://news.ycombinator.com/item?id=28695346

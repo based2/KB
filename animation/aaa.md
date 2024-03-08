@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://lisyarus.github.io/blog/programming/2023/02/21/exponential-smoothing.html
+> https://news.ycombinator.com/item?id=39637487
+
 https://news.ycombinator.com/item?id=39516465
 
 https://slidesynth.com/

@@ -150,6 +150,8 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://news.ycombinator.com/item?id=39630759
+
 https://news.ycombinator.com/item?id=39588899
 
 https://news.ycombinator.com/item?id=39572106

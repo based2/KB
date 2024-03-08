@@ -1,3 +1,5 @@
+# https://www.abuseipdb.com/check/
+block from any to 1.1.176.18
 # Thailand https://www.abuseipdb.com/check/
 block from any to 1.4.195.114
 # China https://www.abuseipdb.com/check/
@@ -42,14 +44,22 @@ block from any to 1.24.16.158
 block from any to 1.24.236.68
 # Taiwan https://www.abuseipdb.com/check/
 block from any to 1.34.87.20
+# https://www.abuseipdb.com/check/1.63.226.147
+block from any to 1.63.226.147
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 1.65.216.83
 # https://www.abuseipdb.com/check/
 block from any to 1.71.253.133
+# China https://www.abuseipdb.com/check/
+block from any to 1.85.216.66
+# China https://www.abuseipdb.com/check/
+block from any to 1.85.219.70
 # China abuse.ch TF
 block from any to 1.94.8.83
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 1.94.110.130
+# China https://www.abuseipdb.com/check/
+block from any to 1.116.38.108
 # https://www.abuseipdb.com/check/1.116.78.254
 block from any to 1.116.78.254
 # https://www.abuseipdb.com/check/1.157.109.217
@@ -66,8 +76,12 @@ block from any to 1.117.91.115
 block from any to 1.117.201.233
 # China https://www.abuseipdb.com/check/
 block from any to 1.119.194.253
+# https://www.abuseipdb.com/check/1.157.109.217
+block from any to 1.157.109.217
 # https://www.abuseipdb.com/check/
 block from any to 1.169.215.166
+# China https://www.abuseipdb.com/check/
+block from any to 1.174.20.156
 # SPAM
 block from any to 1.179.112.0/24
 # SPAM
@@ -344,7 +358,7 @@ block from any to 4.193.144.219
 block from any to 4.216.137.19
 # https://www.abuseipdb.com/check/
 block from any to 4.233.192.143
-# DNS https://red.flag.domains/posts/2024-03-04/ registrar: Hosting Concepts B.V. d/b/a Openprovider secure-sncf-connect[.fr]
+# DNS https://red.flag.domains/posts/ 2024-03-08 registrar: Hosting Concepts B.V. d/b/a Openprovider secure2-sncf-connect[.fr] 2024-03-04/ registrar: Hosting Concepts B.V. d/b/a Openprovider secure-sncf-connect[.fr]
 block from any to 4.235.112.125
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 4.236.181.235
@@ -807,7 +821,7 @@ block from any to 15.161.248.77
 block from any to 15.197.130.221
 # DFA https://red.flag.domains/posts/ 2024-02-27 registrar: KEY-SYSTEMS GmbH 2024-02-13 registrar: KEY-SYSTEMS GmbH 2024-02-10 https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
 block from any to 15.197.142.173
-# US https://red.flag.domains/posts/ 2024-03-02 registrar: KEY-SYSTEMS GmbH creditmutuels[.fr] 2024-03-01 registrar: KEY-SYSTEMS GmbH france-impotsgouv[.fr] 2024-02-28 registrar: KEY-SYSTEMS GmbH 2024-02-28 registrar: KEY-SYSTEMS GmbH banque-credit-agricole[.fr] 2024-02-22 registrar: Name.com LLC 2024-01-23 2024-01-14 2023-03-24 registrar: NETIM https://www.abuseipdb.com/check/15.197.148.33
+# US https://red.flag.domains/posts/ 2024-03-08 registrar: KEY-SYSTEMS GmbH renouvellement-carte-sms[.fr]  2024-03-02 registrar: KEY-SYSTEMS GmbH creditmutuels[.fr] 2024-03-01 registrar: KEY-SYSTEMS GmbH france-impotsgouv[.fr] 2024-02-28 registrar: KEY-SYSTEMS GmbH 2024-02-28 registrar: KEY-SYSTEMS GmbH banque-credit-agricole[.fr] 2024-02-22 registrar: Name.com LLC 2024-01-23 2024-01-14 2023-03-24 registrar: NETIM https://www.abuseipdb.com/check/15.197.148.33
 block from any to 15.197.148.33
 # US https://www.abuseipdb.com/check/
 block from any to 15.204.157.188
@@ -824,6 +838,8 @@ block from any to 15.207.207.64
 block from any to 15.207.223.7
 # https://www.abuseipdb.com/check/
 block from any to 15.235.3.1
+# https://publicwww.com/websites/%22hostpdf.co%22/ https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/
+block from any to 15.235.86.83
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 15.235.130.29
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
@@ -948,6 +964,8 @@ block from any to 20.12.24.35
 block from any to 20.13.131.52
 # US https://www.abuseipdb.com/check/
 block from any to 20.15.118.127
+# US https://www.abuseipdb.com/check/
+block from any to 20.25.0.130
 # https://www.abuseipdb.com/check/
 block from any to 20.26.44.173
 # UK https://red.flag.domains/posts/ 2024-02-12 registrar: Hosting Concepts B.V. d/b/a Openprovider 2024-02-11 2024-02-10 registrar: EPAG Domainservices GmbH 2024-02-09 registrar: EPAG Domainservices GmbH 2024-02-14 registrar: OVH
@@ -1270,6 +1288,8 @@ block from any to 31.14.40.90
 block from any to 31.18.196.225
 # https://www.abuseipdb.com/check/
 block from any to 31.24.200.23
+# https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
+block from any to 31.24.250.33
 # https://www.abuseipdb.com/check/
 block from any to 31.25.11.24
 # Czechia https://www.abuseipdb.com/check/
@@ -1762,6 +1782,8 @@ block from any to 35.203.210.251
 block from any to 35.203.211.0/24
 # UK https://www.abuseipdb.com/check/
 block from any to 35.203.211.55
+# UK https://www.abuseipdb.com/check/
+block from any to 35.203.211.102
 # UK https://www.abuseipdb.com/check/
 block from any to 35.203.211.150
 # UK https://www.abuseipdb.com/check/
@@ -2456,6 +2478,8 @@ block from any to 43.134.187.12
 block from any to 43.134.189.173
 # Singapore https://www.abuseipdb.com/check/
 block from any to 43.134.190.106
+# Singapore https://www.abuseipdb.com/check/
+block from any to 43.134.191.71
 # Singapore https://www.abuseipdb.com/check/
 block from any to 43.134.226.184
 # https://www.abuseipdb.com/check/
@@ -4555,6 +4579,8 @@ block from any to 54.228.140.140
 block from any to 54.228.182.80
 # SPAM
 block from any to 54.229.43.60
+# Angel Drainerhttps://blog.sucuri.net/2024/02/web3-crypto-malware-angel-drainer.html  https://publicwww.com/websites/%22hostpdf.co%22/ https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/
+block from any to 54.233.103.112
 # https://tracker.viriback.com/index.php?q=Serpent
 block from any to 54.234.189.192
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
@@ -4952,7 +4978,7 @@ block from any to 64.176.225.21
 block from any to 64.190.63.0/24
 # DFA Germany sedo.com https://red.flag.domains/posts/ 2024-02-18 registrar: InterNetX GmbH 2024-02-17 registrar: InterNetX GmbH https://www.abuseipdb.com/check/64.190.63.111
 block from any to 64.190.63.111
-# DNS https://red.flag.domains/posts/2024-03-01/ registrar: InterNetX GmbH cscdomains[.fr]
+# DNS https://red.flag.domains/posts/ 2024-03-08 registrar: InterNetX GmbH calvin-klein[.fr] 2024-03-01/ registrar: InterNetX GmbH cscdomains[.fr]
 block from any to 64.190.63.222
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
 block from any to 64.190.113.57
@@ -5173,6 +5199,8 @@ block from any to 69.172.75.177
 block from any to 69.160.30.171
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 70.31.125.60
+# DNS https://red.flag.domains/posts/2024-03-07/ registrar: KEY-SYSTEMS GmbH caissededepot[.fr] fr-comptes[.fr] groupement-vracnco[.fr] information-cnp[.fr] registrar: EPAG Domainservices GmbH g7paris[.fr]
+block from any to 70.32.1.32
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/01/new-zardoor-backdoor.txt
 block from any to 70.34.194.185
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/01/new-zardoor-backdoor.txt
@@ -5640,7 +5668,11 @@ block from any to 80.15.113.188
 # https://www.abuseipdb.com/check/
 block from any to 80.21.208.94
 # SPAM
+block from any to 80.66.77.0/24
+# SPAM
 block from any to 80.66.77.52
+# SPAM
+block from any to 80.66.77.56
 # Poland .ru https://www.abuseipdb.com/check/
 block from any to 80.66.83.0/24
 # Poland https://www.abuseipdb.com/check/
@@ -5758,7 +5790,7 @@ block from any to 81.70.153.38
 block from any to 81.71.98.103
 # https://www.abuseipdb.com/check/
 block from any to 81.82.78.203
-# Italy https://red.flag.domains/posts 2024-03-01 registrar: AMEN / Agence des Médias Numériques aldi-central[.fr] 2024-02-29 registrar: AMEN / Agence des Médias Numériques colissimointernational[.fr] labanquepostalegestion[.fr] 2024-02-15 registrar: AMEN / Agence des Médias Numériques 2024-02-12 registrar: AMEN / Agence des Médias Numériques 2024-02-09 registrar: AMEN / Agence des Médias Numériques 2024-01-23 2023-02-20 registrar: AMEN / Agence des Médias Numériques 2023-02-23 registrar: AMEN / Agence des Médias Numériques 2023-11-21 registrar: AMEN / Agence des Médias Numériques 2023-11-25 registrar: AMEN / Agence des Médias Numériques
+# Italy https://red.flag.domains/posts 2024-03-07 registrar: AMEN / Agence des Médias Numériques accessbourso[.fr] 2024-03-01 registrar: AMEN / Agence des Médias Numériques aldi-central[.fr] 2024-02-29 registrar: AMEN / Agence des Médias Numériques colissimointernational[.fr] labanquepostalegestion[.fr] 2024-02-15 registrar: AMEN / Agence des Médias Numériques 2024-02-12 registrar: AMEN / Agence des Médias Numériques 2024-02-09 registrar: AMEN / Agence des Médias Numériques 2024-01-23 2023-02-20 registrar: AMEN / Agence des Médias Numériques 2023-02-23 registrar: AMEN / Agence des Médias Numériques 2023-11-21 registrar: AMEN / Agence des Médias Numériques 2023-11-25 registrar: AMEN / Agence des Médias Numériques
 block from any to 81.88.57.68
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/# https://threatfox.abuse.ch/browse/malware/apk.hydra/ https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 81.161.229.0/24
@@ -5910,6 +5942,8 @@ block from any to 83.111.121.102
 block from any to 83.149.46.156
 # DNS https://red.flag.domains/posts/2024-03-06/ registrar: Infomaniak Network SA dgfip-financesgouv[.fr]
 block from any to 83.166.133.80
+# France https://www.abuseipdb.com/check/
+block from any to 83.167.143.89
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 83.171.237.173
 # https://www.abuseipdb.com/check/
@@ -5929,7 +5963,7 @@ block from any to 83.233.217.232
 # Russia https://www.abuseipdb.com/check/
 block from any to 83.239.130.2
 block from any to 84.16.242.147
-# DFA Lithuania https://red.flag.domains/posts/ 2024-03-06/ registrar: Hostinger operations UAB jacquemus-store[.fr] 2024-03-02 registrar: Hostinger operations UAB wesco-france[.fr] 2024-02-27 registrar: Hostinger operations UAB 2024-02-25 registrar: Hostinger operations UAB 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
+# DFA Lithuania https://red.flag.domains/posts/ /2024-03-08 registrar: Hostinger operations UAB univ-caen[.fr] 2024-03-06/ registrar: Hostinger operations UAB jacquemus-store[.fr] 2024-03-02 registrar: Hostinger operations UAB wesco-france[.fr] 2024-02-27 registrar: Hostinger operations UAB 2024-02-25 registrar: Hostinger operations UAB 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
 block from any to 84.32.84.32
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 84.32.131.51
@@ -5953,6 +5987,8 @@ block from any to 84.54.51.241
 block from any to 84.54.51.242
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 84.54.51.243
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 84.54.51.245
 # Netherlands
 block from any to 84.54.51.246
 # France https://www.abuseipdb.com/check/
@@ -6028,6 +6064,8 @@ block from any to 85.209.11.25
 block from any to 85.209.11.27
 # https://www.abuseipdb.com/check/
 block from any to 85.209.11.44
+# Russia https://www.abuseipdb.com/check/
+block from any to 85.209.11.48
 # https://www.abuseipdb.com/check/
 block from any to 85.209.11.56
 # https://www.abuseipdb.com/check/
@@ -6069,6 +6107,8 @@ block from any to 85.215.193.52
 block from any to 85.215.225.6
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer# https://threatfox.abuse.ch/browse/malware/win.redline_stealer//
 block from any to 85.215.237.245
+# DNS https://red.flag.domains/posts/2024-03-08/ registrar: KEY-SYSTEMS GmbH aide-carte[.fr]
+block from any to 85.215.241.87
 # DNS https://red.flag.domains/posts/2024-03-01/ registrar: KEY-SYSTEMS GmbH services-vitale[.fr]
 block from any to 85.215.243.32
 # Bulgaria  https://www.abuseipdb.com/check/
@@ -6588,6 +6628,10 @@ block from any to 91.92.251.198
 block from any to 91.92.251.254
 # Netherlands https://tracker.viriback.com/index.php?q=Neptune https://red.flag.domains/posts/2024-02-19/ registrar: Hosting Concepts B.V. d/b/a Openprovider https://tracker.viriback.com/index.php?q=Risepro
 block from any to 91.92.252.0/24
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 91.92.252.12
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 91.92.252.24
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.252.24
 #  https://www.abuseipdb.com/check/
@@ -7237,6 +7281,8 @@ block from any to 94.156.67.40
 block from any to 94.156.67.0/24
 # https://red.flag.domains/posts/2024-02-28/ registrar: Hosting Concepts B.V. d/b/a Openprovider espaceweb-secupass-sg-assurances[.fr]
 block from any to 94.156.67.144
+# DNS https://red.flag.domains/posts/2024-03-08/ registrar: Hosting Concepts B.V. d/b/a Openprovider appweb-securpass-sg-assurances[.fr]
+block from any to 94.156.67.174
 # https://www.abuseipdb.com/check/
 block from any to 94.156.64.76
 # https://www.abuseipdb.com/check/
@@ -7647,6 +7693,8 @@ block from any to 101.91.148.86
 block from any to 101.99.75.183
 # Malaysia https://github.com/blacklotuslabs/IOCs/blob/main/ZuoRAT_IoCs.txt
 block from any to 101.99.91.10
+# https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
+block from any to 101.100.240.29
 # Thailand https://www.abuseipdb.com/check/
 block from any to 101.108.13.89
 # Australia https://www.abuseipdb.com/check/
@@ -7699,6 +7747,8 @@ block from any to 103.12.148.35
 block from any to 103.13.211.211
 # India https://www.abuseipdb.com/check/
 block from any to 103.16.46.194
+# https://publicwww.com/websites/%22hostpdf.co%22/ https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/
+block from any to 103.21.221.99
 # https://www.abuseipdb.com/check/
 block from any to 103.24.219.189
 # https://www.abuseipdb.com/check/
@@ -7717,6 +7767,8 @@ block from any to 103.27.186.195
 block from any to 103.28.32.56
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 103.28.33.96
+# https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
+block from any to 103.28.87.20
 # https://www.abuseipdb.com/check/
 block from any to 103.30.114.118
 # India https://www.abuseipdb.com/check/
@@ -8259,6 +8311,10 @@ block from any to 104.21.91.56
 block from any to 104.21.91.143
 # https://red.flag.domains/posts/
 block from any to 104.21.92.11
+# DNS https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html
+block from any to 104.21.94.0/24
+# DNS https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html
+block from any to 104.21.94.69
 # DFA https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 104.21.94.146
 # https://red.flag.domains/posts/2024-02-23/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
@@ -10705,6 +10761,8 @@ block from any to 146.59.145.161
 block from any to 146.59.151.241
 # France https://www.abuseipdb.com/check/
 block from any to 146.59.197.193
+# https://publicwww.com/websites/%22hostpdf.co%22/ https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/
+block from any to 146.59.209.152
 # https://www.abuseipdb.com/check/
 block from any to 146.59.225.183
 # France https://www.abuseipdb.com/check/
@@ -10974,11 +11032,19 @@ block from any to 151.80.216.0/24
 block from any to 151.80.216.145
 # abuse.ch TF
 block from any to 151.80.216.146
+# abuse.ch TF
+block from any to 151.80.238.21
+# https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
+block from any to 151.80.239.113
 # DNS https://red.flag.domains/posts/2024-03-02/ registrar: 1API GmbH nikeboutique[.fr]
 block from any to 151.101.2.132
 # https://www.virustotal.com/gui/url/b23708c9db3519d1956e757fac059628396ce566f6409b78b22f21a3bac11ce0
 block from any to 151.101.2.217
+# https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
+block from any to 151.101.66.0/24
 block from any to 151.101.66.13
+# https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
+block from any to 151.101.66.159
 block from any to 151.101.64.134
 # polyfill.io
 # htt block from any to 151.101.65.26
@@ -11485,6 +11551,8 @@ block from any to 159.192.106.207
 block from any to 159.196.168.76
 # https://www.abuseipdb.com/check/
 block from any to 159.203.3.149
+# https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
+block from any to 159.203.4.10
 # Canada https://www.abuseipdb.com/check/
 block from any to 159.203.17.55
 # https://www.abuseipdb.com/check/
@@ -12312,6 +12380,8 @@ block from any to 170.106.194.16
 block from any to 170.130.55.139
 # US https://www.abuseipdb.com/check/
 block from any to 170.130.187.6
+# DNS https://red.flag.domains/posts/ 2024-03-07 registrar: KEY-SYSTEMS GmbH amazond[.fr] comptes-fr[.fr] contact-sante[.fr] hokachaussurefrance[.fr]
+block from any to 170.178.183.18
 # https://www.abuseipdb.com/check/
 block from any to 170.187.181.247
 # https://threatfox.abuse.ch/browse/malware/win.sliver/
@@ -12397,6 +12467,8 @@ block from any to 172.67.143.88
 block from any to 172.67.151.66
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
 block from any to 172.67.152.136
+# DNS https://red.flag.domains/posts/2024-03-06/ registrar: Hosting Concepts B.V. d/b/a Openprovider uni-qlofrance[.fr]
+block from any to 172.67.154.218
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.157.94
 # https://red.flag.domains/posts/2024-02-21/ registrar: GRANSY s.r.o.
@@ -12488,6 +12560,8 @@ block from any to 172.67.209.96
 block from any to 172.67.209.167
 # US https://red.flag.domains/posts/2024-01-22/
 block from any to 172.67.209.219
+# DNS https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html
+block from any to 172.67.220.140
 # https://red.flag.domains/posts/2024-02-26/ registrar: AMEN / Agence des Médias Numériques
 block from any to 172.67.211.235
 # https://tracker.viriback.com/index.php?q=Lokibot
@@ -13161,6 +13235,8 @@ block from any to 179.43.171.142
 block from any to 179.43.148.58
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 179.43.158.171
+# Swiss https://www.abuseipdb.com/check/
+block from any to 179.43.159.194
 # https://www.abuseipdb.com/check/179.43.159.195
 block from any to 179.43.159.195
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -13199,7 +13275,7 @@ block from any to 180.94.75.102
 block from any to 180.94.161.180
 # China
 block from any to 180.101.88.0/24
-# https://www.abuseipdb.com/check/
+# China https://www.abuseipdb.com/check/
 block from any to 180.101.88.196
 # https://www.abuseipdb.com/check/
 block from any to 180.101.88.197
@@ -13573,6 +13649,8 @@ block from any to 185.47.172.136
 block from any to 185.51.173.2
 # DFA Germany https://red.flag.domains/posts/ 2023-11-25/ registrar: OVH 2024-02-10 25 2024-01-18 16 registrar: OVH 2023-11-25 registrar: OVH 2023-11-21 registrar: OVH
 block from any to 185.53.177.0/24
+# DNS https://red.flag.domains/posts/2024-03-07/ registrar: EURODNS S.A. code-promo-amazon[.fr]
+block from any to 185.53.177.20
 # DFA Germany 25 https://red.flag.domains/posts/ 2024-03-06 (registrar: Hosting Concepts B.V. d/b/a Openprovider depistage-centre[.fr]  2023-11-25/ registrar: OVH 2024-01-18/ 2023-11-21 registrar: OVH
 block from any to 185.53.177.50
 # DFA Germany teaminternet.de 25 https://red.flag.domains/posts/ registrar: Hosting Concepts B.V. d/b/a Openprovider maeassurance[.fr]  2023-11-25/ registrar: OVH 2024-01-18/ https://red.flag.domains/posts/2023-02-03/ 2023-11-21 registrar: OVH
@@ -13587,13 +13665,13 @@ block from any to 185.53.177.54
 block from any to 185.53.178.0/24
 # https://red.flag.domains/posts/ 2024-03-06 registrar: Hosting Concepts B.V. d/b/a Openprovider racharge[.fr] 2023-11-25/ registrar: OVH
 block from any to 185.53.178.50
-# DFA Germany https://red.flag.domains/posts/2024-01-25/ 2023-11-21/ registrar: OVH
+# DFA Germany https://red.flag.domains/posts/ 2024-03-06 registrar: Hosting Concepts B.V. d/b/a Openprovider assurancemae[.fr] 2024-01-25/ 2023-11-21/ registrar: OVH
 block from any to 185.53.178.51
-# DFA Germany 25 https://red.flag.domains/posts/2024-01-16/ 2023-11-21/ registrar: OVH https://www.abuseipdb.com/check/185.53.178.52
+# DFA Germany 25 https://red.flag.domains/posts/ 2024-03-06 registrar: Hosting Concepts B.V. d/b/a Openprovider mercertp[.fr] 2024-01-16/ 2023-11-21/ registrar: OVH https://www.abuseipdb.com/check/185.53.178.52
 block from any to 185.53.178.52
 # DFA Germany https://red.flag.domains/posts/ 2023-11-25/ registrar: OVH 2024-01-18/ 2023-11-21/ registrar: OVH
 block from any to 185.53.178.53
-# DFA Germany 25 https://red.flag.domains/posts/2024-01-23/ https://red.flag.domains/posts/2024-01-18/ 2023-11-21/ registrar: OVH
+# DFA Germany 25 https://red.flag.domains/posts/  2024-03-06 registrar: Hosting Concepts B.V. d/b/a Openprovider lamae[.fr] 2024-03-06/ registrar: Hosting Concepts B.V. d/b/a Openprovider depistage-resultat[.fr] registrar: Hosting Concepts B.V. d/b/a Openprovider xn--dpistagecancer-ge-btb[.fr] registrar: Hosting Concepts B.V. d/b/a Openprovider xn--ma-cja[.fr] 2024-01-23/ https://red.flag.domains/posts/2024-01-18/ 2023-11-21/ registrar: OVH
 block from any to 185.53.178.54
 # https://www.abuseipdb.com/check/
 block from any to 185.54.178.117
@@ -14088,12 +14166,16 @@ block from any to 185.216.26.142
 block from any to 185.216.68.97
 # Bulgaria https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 185.216.70.0/24
+# DNS hostpdf[.]co https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/ https://publicwww.com/websites/%22hostpdf.co%22/
+block from any to 185.216.70.94
 # https://red.flag.domains/posts/2024-02-27/ registrar: OVH
 block from any to 185.216.70.145
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 185.216.70.228
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 185.216.70.229
+# Bulgaria https://www.abuseipdb.com/check/
+block from any to 185.216.70.233
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 185.216.70.234
 # Bulgaria https://www.abuseipdb.com/check/
@@ -14163,6 +14245,8 @@ block from any to 185.224.128.17
 block from any to 185.224.128.55
 # https://www.abuseipdb.com/check/
 block from any to 185.224.128.160
+# DNS https://red.flag.domains/posts/2024-03-07/ registrar: 1API GmbH ingbanque[.fr]
+block from any to 185.224.138.90
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 185.225.70.160
 # A.ch TF
@@ -14488,6 +14572,8 @@ block from any to 188.166.153.84
 block from any to 188.166.153.90
 # https://www.abuseipdb.com/check/
 block from any to 188.166.160.119
+# https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
+block from any to 188.166.167.147
 # abuse.ch TF
 block from any to 188.165.39.201
 block from any to 188.166.38.0/24
@@ -14688,8 +14774,14 @@ block from any to 192.0.77.2
 block from any to 192.0.77.37
 block from any to 192.0.77.39
 block from any to 192.0.77.48
+# DNS https://red.flag.domains/posts/2024-03-08/ registrar: KEY-SYSTEMS GmbH pasapaschaussures[.fr]
+block from any to 192.0.78.0/24
 # https://www.abuseipdb.com/check/
 block from any to 192.0.78.12
+# DNS https://red.flag.domains/posts/2024-03-08/ registrar: KEY-SYSTEMS GmbH pasapaschaussures[.fr]
+block from any to 192.0.78.145
+# DNS https://red.flag.domains/posts/2024-03-08/ registrar: KEY-SYSTEMS GmbH pasapaschaussures[.fr]
+block from any to 192.0.78.239
 # https://www.abuseipdb.com/check/
 block from any to 192.0.101.246
 # https://www.abuseipdb.com/check/
@@ -15027,7 +15119,7 @@ block from any to 193.142.58.127
 block from any to 193.142.147.248
 # https://red.flag.domains/posts/2024-02-26/ registrar: KEY-SYSTEMS GmbH
 block from any to 193.143.1.0/24
-# DFA https://red.flag.domains/posts/ 2024-03-06 registrar: EPAG Domainservices GmbH carte-renouvellement[.fr] 2024-03-04/ registrar: Hostinger operations UAB santeameli[.fr] 2024-03-01 registrar: AMEN / Agence des Médias Numériques info-droits-ameli[.fr] 2024-02-28 registrar: EPAG Domainservices GmbH chronopost-contravention[.fr] 2024-02-28 registrar: EPAG Domainservices GmbH 2024-02-26 registrar: KEY-SYSTEMS GmbH 2024-02-25 registrar: OVH, registrar: KEY-SYSTEMS GmbH, registrar: EPAG Domainservices GmbH 2024-02-24 registrar: One.com A/S 2024-02-23 registrar: EPAG Domainservices GmbH  2024-02-22 registrar: EPAG Domainservices GmbH 2024-02-20 registrar: EPAG Domainservices GmbH 2024-02-19 registrar: EPAG Domainservices GmbH
+# DFA https://red.flag.domains/posts/ 2024-03-07 registrar: EPAG Domainservices GmbH chronopost-transports[.fr] 2024-03-06 registrar: EPAG Domainservices GmbH carte-renouvellement[.fr] 2024-03-04/ registrar: Hostinger operations UAB santeameli[.fr] 2024-03-01 registrar: AMEN / Agence des Médias Numériques info-droits-ameli[.fr] 2024-02-28 registrar: EPAG Domainservices GmbH chronopost-contravention[.fr] 2024-02-28 registrar: EPAG Domainservices GmbH 2024-02-26 registrar: KEY-SYSTEMS GmbH 2024-02-25 registrar: OVH, registrar: KEY-SYSTEMS GmbH, registrar: EPAG Domainservices GmbH 2024-02-24 registrar: One.com A/S 2024-02-23 registrar: EPAG Domainservices GmbH  2024-02-22 registrar: EPAG Domainservices GmbH 2024-02-20 registrar: EPAG Domainservices GmbH 2024-02-19 registrar: EPAG Domainservices GmbH
 block from any to 193.143.1.54
 # https://red.flag.domains/posts/2024-02-26/ registrar: KEY-SYSTEMS GmbH 2024-02-25 registrar: KEY-SYSTEMS GmbH
 block from any to 193.143.1.229
@@ -15192,6 +15284,8 @@ block from any to 194.26.192.77
 block from any to 194.26.192.215
 # https://www.abuseipdb.com/check/
 block from any to 194.26.29.16
+# DNS https://red.flag.domains/posts/2024-03-08/ registrar: OVH colis-supportclient[.fr]
+block from any to 194.32.76.179
 # France https://www.abuseipdb.com/check/ https://tracker.viriback.com/index.php?q=Neptune
 block from any to 194.33.191.0/24
 # France https://www.abuseipdb.com/check/
@@ -16733,6 +16827,12 @@ block from any to 217.160.0.131
 block from any to 217.160.0.151
 # https://red.flag.domains/posts/2024-02-27/ registrar: IONOS SE
 block from any to 217.160.0.167
+# https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
+block from any to 217.160.0.169
+# DNS https://red.flag.domains/posts/2024-03-08/ registrar: IONOS SE mescomptesacces[.fr]
+block from any to 217.160.0.180
+# DNS https://red.flag.domains/posts/2024-03-08/ registrar: IONOS SE renouvellement-cartevitale[.fr]
+block from any to 217.160.0.213
 # https://red.flag.domains/posts/2023-11-25/ registrar: IONOS SE
 block from any to 217.160.0.245
 # A.ch TF

@@ -42,6 +42,8 @@ https://utcc.utoronto.ca/~cks/space/blog/unix/XIconificationManyWays
 https://magcius.github.io/xplain/article/x-basics.html
 > https://news.ycombinator.com/item?id=34328777
 
+https://news.ycombinator.com/item?id=39612957
+
 # Audio
 
 # Printer

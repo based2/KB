@@ -92,6 +92,8 @@ https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=13&adv_date=01112023&facId=DCC
 > https://www.theregister.com/2023/01/21/faa_outage_reasons/
 
 # News
+https://news.ycombinator.com/item?id=39640857
+
 https://www.futureflight.aero/news-article/2024-02-27/us-air-force-evaluating-pivotals-blackfly-ultralight-evtol-aircraft
 
 https://vatsim.net/

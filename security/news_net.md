@@ -28,6 +28,8 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://www.bleepingcomputer.com/news/security/qnap-warns-of-critical-auth-bypass-flaw-in-its-nas-devices/
+
 https://www.kroll.com/en/insights/publications/cyber/screenconnect-vulnerability-exploited-to-deploy-babyshark
 
 https://www.scmagazine.com/news/vmware-issues-no-patch-advisory-for-critical-flaw-in-old-sso-plugin

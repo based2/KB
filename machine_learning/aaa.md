@@ -519,6 +519,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=39631135
+
 https://www.di.ens.fr/%7Efbach/ltfp_book.pdf
 > https://news.ycombinator.com/item?id=39574436
 
