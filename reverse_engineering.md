@@ -45,6 +45,8 @@ https://and0uille.net/misc/debug90.html
 https://news.ycombinator.com/item?id=39379480
 
 #
+https://news.ycombinator.com/item?id=39654445
+
 https://usoldering.com/switch-lite/
 
 https://news.ycombinator.com/item?id=39439782

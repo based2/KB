@@ -233,6 +233,8 @@ https://github.com/01mf02/jaq
 
 https://wundergraph.com/blog/astjson_high_performance_json_transformations_in_golang
 
+https://news.ycombinator.com/item?id=39670922
+
 
 
 

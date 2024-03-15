@@ -90,6 +90,8 @@ https://photonlines.substack.com/p/grokking-avl-and-ravl-trees
 https://www.bzero.se/ldapd/btree.html
 > https://news.ycombinator.com/item?id=38805383
 
+https://news.ycombinator.com/item?id=39613767
+
 # Visu
 https://tweeview.ml/
 > https://news.ycombinator.com/item?id=28514298

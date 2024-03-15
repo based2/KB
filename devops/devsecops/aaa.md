@@ -62,6 +62,8 @@ https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 https://news.ycombinator.com/item?id=38471475
 
 #
+https://news.ycombinator.com/item?id=39657936
+
 https://news.ycombinator.com/item?id=38812321
 
 https://www.debian.org/vote/2023/vote_002

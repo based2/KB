@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=39674041
+
 https://vin01.github.io/piptagole/security-tools/soar/urlscan/hybrid-analysis/data-leaks/urlscan.io/cloudflare-radar%22/2024/03/07/url-database-leaks-private-urls.html
 > https://news.ycombinator.com/item?id=39630985
 

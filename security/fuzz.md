@@ -14,6 +14,8 @@ https://thevaluable.dev/practical-guide-fzf-example/
 https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/
 
 #
+https://news.ycombinator.com/item?id=39653312
+
 https://news.ycombinator.com/item?id=39562467
 
 https://blog.trailofbits.com/2024/02/23/continuously-fuzzing-python-c-extensions/

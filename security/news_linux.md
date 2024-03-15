@@ -11,6 +11,8 @@ https://firejail.wordpress.com
 https://pboyd.io/posts/securing-a-linux-vm/
 > https://news.ycombinator.com/item?id=36934052
 
+https://news.ycombinator.com/item?id=39660990
+
 # Tools
 https://github.com/queer/boxxy puts bad Linux applications in a box with only their files.
 > https://news.ycombinator.com/item?id=34730520

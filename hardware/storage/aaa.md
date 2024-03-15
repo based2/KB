@@ -38,6 +38,8 @@ https://lobste.rs/s/g1omrn/cli_for_streams_data_s3_buckets
 
 https://news.ycombinator.com/item?id=39360870
 
+https://news.ycombinator.com/item?id=39656657
+
 # Block Storage
 onTAP
 # SMB Microsoft

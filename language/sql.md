@@ -40,6 +40,8 @@ https://patchthenet.medium.com/introduction-to-sql-injection-sql-injection-for-b
 https://dbgate.org/ Open-source, cross-platform SQL+noSQL database client - Typescript,Svelte
 > https://news.ycombinator.com/item?id=26899100
 
+https://news.ycombinator.com/item?id=39660592
+
 #
 https://jlongster.com/future-sql-web
 > https://news.ycombinator.com/item?id=38823445
