@@ -167,6 +167,8 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt
+
 https://news.ycombinator.com/item?id=39715223
 
 https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/ How to embrace asynchronous communication for remote work

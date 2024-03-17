@@ -57,7 +57,7 @@ https://lumiere-video.github.io/
 
 https://news.ycombinator.com/item?id=39118963
 
-https://frigate.video/
+https://frigate.video/ Creating video from text
 > https://news.ycombinator.com/item?id=38321413
 
 https://co-tracker.github.io/

@@ -326,6 +326,8 @@ https://www.djangoproject.com/weblog/2023/apr/03/django-42-released/
 
 https://fly.io/blog/standout-features-in-django-4-2/
 
+https://news.ycombinator.com/item?id=39732932
+
 # Interop
 https://news.ycombinator.com/item?id=35651791 go
 

@@ -137,6 +137,8 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://news.ycombinator.com/item?id=39735669
+
 https://pdx.su/blog/2023-10-25-css-is-fun-again/
 > https://news.ycombinator.com/item?id=38780091
 

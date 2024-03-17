@@ -208,6 +208,8 @@ https://lilianweng.github.io/posts/2024-02-05-human-data-quality/
 https://news.ycombinator.com/item?id=39713634
 
 # News
+https://news.ycombinator.com/item?id=39737281
+
 https://arxiv.org/abs/2403.09611
 > https://news.ycombinator.com/item?id=39722498
 

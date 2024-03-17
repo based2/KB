@@ -69,3 +69,5 @@ https://services.google.com/fh/files/misc/intel_tdx_-_full_report_041423.pdf
 https://lwn.net/Articles/877607/ FIPS-compliant random numbers for the kernel
 
 https://www.theregister.com/2023/06/30/confidential_computing_standards/
+
+https://www.smartcard-hsm.com/2024/02/24/Key_Attestation_explained.html

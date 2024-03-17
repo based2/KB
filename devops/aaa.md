@@ -114,6 +114,10 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.errno.fr/bruteforcing_CVE-2024-23897.html jenkins
+
+https://blog.securelayer7.net/arbitrary-file-read-in-jenkins/
+
 https://www.ledger.com/blog/security-incident-report
 
 https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/

@@ -240,6 +240,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=39735300
+
 https://news.ycombinator.com/item?id=39533800
 
 https://news.ycombinator.com/item?id=39450140
