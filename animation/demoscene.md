@@ -56,3 +56,6 @@ http://www.quiss.org/boo/ BRR
 > https://news.ycombinator.com/item?id=36184078
 
 https://news.ycombinator.com/item?id=38515082
+
+https://www.onirom.fr/wiki/blog/25-09-2022_tiny_bitfield_based_text_renderer/
+> https://news.ycombinator.com/item?id=39717815

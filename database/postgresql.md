@@ -257,6 +257,8 @@ https://github.com/vramework/schemats Postgres to TypeScript Interfaces and Enum
 # Extensions
 https://github.com/jie123108/imgsmlr-server
 
+https://news.ycombinator.com/item?id=39704706
+
 # Search
 https://about.sourcegraph.com/blog/postgres-text-search-balancing-query-time-and-relevancy/
 > https://news.ycombinator.com/item?id=28873779
@@ -336,6 +338,12 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://github.com/ossc-db/pg_hint_plan
+> https://news.ycombinator.com/item?id=39712211
+
+https://kviklet.dev/blog/parsing-the-postgres-protocol/
+> https://news.ycombinator.com/item?id=39706582
+
 https://news.ycombinator.com/item?id=39619204
 
 https://news.ycombinator.com/item?id=39593384

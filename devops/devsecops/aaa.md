@@ -62,6 +62,10 @@ https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 https://news.ycombinator.com/item?id=38471475
 
 #
+https://old.reddit.com/r/netsec/comments/1bfjqc8/opening_pandoras_box_supply_chain_insider_threats/
+
+https://old.reddit.com/r/netsec/comments/1bffc84/a_look_at_software_composition_analysis_its_time/
+
 https://news.ycombinator.com/item?id=39657936
 
 https://news.ycombinator.com/item?id=38812321

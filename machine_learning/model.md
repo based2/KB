@@ -49,6 +49,8 @@ https://nightshade.cs.uchicago.edu/whatis.html
 https://ai.meta.com/llama/ v2
 > https://news.ycombinator.com/item?id=36774627
 
+https://news.ycombinator.com/item?id=39718558
+
 https://www.philschmid.de/llama-2
 > https://news.ycombinator.com/item?id=36824265
 
@@ -203,7 +205,16 @@ https://news.ycombinator.com/item?id=39213410
 
 https://lilianweng.github.io/posts/2024-02-05-human-data-quality/
 
+https://news.ycombinator.com/item?id=39713634
+
 # News
+https://arxiv.org/abs/2403.09611
+> https://news.ycombinator.com/item?id=39722498
+
+https://news.ycombinator.com/item?id=39720536
+
+https://news.ycombinator.com/item?id=39700256
+
 https://news.ycombinator.com/item?id=39648689
 
 https://news.ycombinator.com/item?id=39635483

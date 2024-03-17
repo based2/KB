@@ -35,6 +35,8 @@ https://mentorembedded.github.io/advancedlinuxprogramming/
 https://linuxstans.com/linux-books/
 > https://news.ycombinator.com/item?id=36018512
 
+https://news.ycombinator.com/item?id=39701358
+
 # Selinux
 
 https://selinuxproject.org/page/Main_Page

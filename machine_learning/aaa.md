@@ -40,6 +40,8 @@ https://news.ycombinator.com/item?id=39543152
 https://systemds.apache.org/docs/3.1.0/
 
 # Biz
+https://news.ycombinator.com/item?id=39709835
+
 https://news.ycombinator.com/item?id=39511530
 
 # Learn
@@ -380,6 +382,10 @@ https://github.com/Azure/PyRIT
 
 https://news.ycombinator.com/item?id=39522908
 
+https://lobste.rs/s/9jc7qb/hackers_can_read_private_ai_assistant
+
+https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data
+
 # Incident
 https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/
 
@@ -519,6 +525,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=39709912
+
 https://news.ycombinator.com/item?id=39638569
 
 https://news.ycombinator.com/item?id=39631135

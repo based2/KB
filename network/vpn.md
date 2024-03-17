@@ -112,6 +112,8 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
 # News
+https://news.ycombinator.com/item?id=39718389
+
 https://torrentfreak.com/dozens-of-vpns-shadowsocks-named-in-leaked-russian-blocking-document-231117/
 
 https://obscuravpn.io/

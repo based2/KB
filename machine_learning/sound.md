@@ -213,6 +213,8 @@ https://github.com/yl4579/StyleTTS2
 https://github.com/collabora/WhisperSpeech
 > https://news.ycombinator.com/item?id=39036796
 
+https://news.ycombinator.com/item?id=39720049
+
 # News
 https://www.suno.ai/
 

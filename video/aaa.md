@@ -126,6 +126,8 @@ https://news.ycombinator.com/item?id=39512912
 https://news.ycombinator.com/item?id=39593256
 
 # News
+https://news.ycombinator.com/item?id=39727651
+
 https://news.ycombinator.com/item?id=39671218
 
 https://joshuabird.com/blog/post/mocap-drones

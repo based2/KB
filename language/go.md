@@ -93,6 +93,9 @@ https://github.com/jordanlewis/gcassert
 https://medium.com/gopher-time/enhancing-unit-testing-in-go-with-mocking-the-embedding-pattern-360a1753eb4
 > https://news.ycombinator.com/item?id=36103747
 
+https://go.dev/blog/execution-traces-2024
+> https://news.ycombinator.com/item?id=39708591
+
 ## Profiler
 https://eng.uber.com/pprof-go-profiler/
 > https://news.ycombinator.com/item?id=27118541

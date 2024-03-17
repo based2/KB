@@ -94,6 +94,9 @@ https://arefmalek.github.io/blog/Airdraw/
 > https://news.ycombinator.com/item?id=38647938
 
 # News
+https://github.com/RajSolai/TextSnatcher Copy text from images, for the Linux Desktop
+> https://news.ycombinator.com/item?id=39711621
+
 https://sdk.docutain.com/blogartikel/edge-detection-for-image-processing
 > https://news.ycombinator.com/item?id=38950635
 

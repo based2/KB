@@ -150,6 +150,9 @@ https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
 # News
+https://github.com/trevorpogue/algebraic-nnhw Matrix Multiplication with Half the Multiplications
+> https://news.ycombinator.com/item?id=39714053
+
 https://news.ycombinator.com/item?id=39630759
 
 https://news.ycombinator.com/item?id=39588899

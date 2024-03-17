@@ -353,6 +353,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://github.com/fpgmaas/deptry/releases/tag/0.14.0 detect unused Python dependencies up to 10 times faster
+> https://news.ycombinator.com/item?id=39724132
+
 https://news.ycombinator.com/item?id=39670102
 
 https://news.ycombinator.com/item?id=39524874

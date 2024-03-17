@@ -120,6 +120,8 @@ https://courses.cs.washington.edu/courses/cse391/23sp/
 
 https://news.ycombinator.com/item?id=38150825
 
+https://news.ycombinator.com/item?id=39720388
+
 # Meta
 https://metacognitive.me/memory-palace/
 > https://news.ycombinator.com/item?id=28640429

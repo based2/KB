@@ -34,6 +34,8 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 > https://news.ycombinator.com/item?id=39165342
 
 # News
+https://www.vusec.net/projects/ghostrace/
+
 https://www.aquasec.com/blog/snap-trap-the-hidden-dangers-within-ubuntus-package-suggestion-system/
 > https://old.reddit.com/r/netsec/comments/1aqmq5l/snap_trap_the_hidden_dangers_within_ubuntus/
 

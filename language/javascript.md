@@ -220,6 +220,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://news.ycombinator.com/item?id=39706035
+
 https://million.dev/blog/million-3.en-US
 > https://news.ycombinator.com/item?id=39231488
 

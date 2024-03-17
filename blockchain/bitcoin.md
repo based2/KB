@@ -21,6 +21,9 @@ https://www.schneier.com/blog/archives/2021/03/illegal-content-and-the-blockchai
 https://www.bleepingcomputer.com/news/security/btccom-lost-3-million-worth-of-cryptocurrency-in-cyberattack/
 
 # News
+https://mjg59.dreamwidth.org/69507.html
+> https://news.ycombinator.com/item?id=39701848
+
 https://news.ycombinator.com/item?id=39484878
 
 https://news.ycombinator.com/item?id=39480407

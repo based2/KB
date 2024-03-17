@@ -25,6 +25,8 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://news.ycombinator.com/item?id=39701543
+
 https://news.ycombinator.com/item?id=39630457 bsd unix
 
 https://news.ycombinator.com/item?id=39575262

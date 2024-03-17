@@ -44,6 +44,12 @@ https://lwn.net/Articles/846272/ Malware in open-source web extensions
 https://addons.mozilla.org/en/firefox/addon/explain-and-send-screenshots/
 
 #
+https://github.com/lavague-ai/LaVague Open-source Large Action Model to automate Selenium browsing
+> https://news.ycombinator.com/item?id=39698546
+
+https://news.ycombinator.com/item?id=39706004
+
+#
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
