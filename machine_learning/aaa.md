@@ -309,6 +309,8 @@ https://www.courtlistener.com/docket/68117049/the-new-york-times-company-v-micro
 
 https://news.ycombinator.com/item?id=38896259
 
+https://www.bleepingcomputer.com/news/technology/investment-advisers-pay-400k-to-settle-ai-washing-charges/
+
 # History
 https://news.ycombinator.com/item?id=28343118
 

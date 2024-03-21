@@ -458,6 +458,8 @@ https://news.ycombinator.com/item?id=38840596
 SourceForge nobody Apache HTTPD configuration
 
 # New versions
+https://news.ycombinator.com/item?id=39779447
+
 https://about.gitlab.com/releases/2023/04/22/gitlab-15-11-released/
 
 https://about.gitlab.com/releases/2023/03/22/gitlab-15-10-released/
@@ -487,6 +489,12 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/
+> https://news.ycombinator.com/item?id=39749238
+
+https://github.com/plankanban/planka
+> https://news.ycombinator.com/item?id=39742114
+
 https://thenewstack.io/what-does-a-platform-engineer-do-and-do-you-need-one/
 
 https://news.ycombinator.com/item?id=39482146

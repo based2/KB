@@ -256,6 +256,8 @@ https://aneventapart.com/news/post/designing-intrinsic-layouts-aea-video
 https://vigilance.fr/vulnerability/PostCSS-Cross-Site-Scripting-42915
 
 # News
+https://news.ycombinator.com/item?id=39778570
+
 https://news.ycombinator.com/item?id=39657483
 
 https://news.ycombinator.com/item?id=39584654 print

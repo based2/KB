@@ -71,3 +71,6 @@ https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c
 
 https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c
 > https://news.ycombinator.com/item?id=38904574
+
+https://rxdb.info/articles/websockets-sse-polling-webrtc-webtransport.html
+> https://news.ycombinator.com/item?id=39745993

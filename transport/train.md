@@ -39,6 +39,8 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://news.ycombinator.com/item?id=39782524
+
 https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/
 > https://news.ycombinator.com/item?id=39214047
 

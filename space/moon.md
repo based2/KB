@@ -29,6 +29,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 https://news.ycombinator.com/item?id=36889610
 
 # News
+https://news.ycombinator.com/item?id=39780722
+
 https://news.ycombinator.com/item?id=39474909
 
 https://www.nature.com/articles/s43247-023-01060-5

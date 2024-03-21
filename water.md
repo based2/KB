@@ -183,3 +183,5 @@ https://nautil.us/the-dubious-economics-of-deep-sea-mining-309597/
 > https://news.ycombinator.com/item?id=38890238
 
 https://news.ycombinator.com/item?id=39110434
+
+https://news.ycombinator.com/item?id=39768048

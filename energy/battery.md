@@ -7,6 +7,8 @@ https://news.harvard.edu/gazette/story/2021/05/researchers-design-long-lasting-s
 https://cleantechnica.com/2021/05/17/australian-aluminum-ion-battery-promises-60x-increase-in-charging-speed/
 
 # News
+https://news.ycombinator.com/item?id=39764992
+
 https://news.ycombinator.com/item?id=39502165
 
 https://heatmap.news/technology/antora-rondo-energy-thermal-batteries

@@ -65,6 +65,8 @@ https://github.com/google/re2
 https://github.com/google/re2j
 
 # News
+https://news.ycombinator.com/item?id=39763750
+
 https://news.ycombinator.com/item?id=39484305
 
 https://github.com/BurntSushi/rsc-regexp

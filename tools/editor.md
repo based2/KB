@@ -372,6 +372,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://news.ycombinator.com/item?id=39764818
+
 https://lapce.dev/
 > https://news.ycombinator.com/item?id=39421090
 

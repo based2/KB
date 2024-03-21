@@ -26,6 +26,8 @@ https://eclecticlight.co/2021/08/14/how-to-compare-two-pdf-documents/
 > https://news.ycombinator.com/item?id=28179746
 
 # News
+https://news.ycombinator.com/item?id=39769503
+
 https://blog.trailofbits.com/2024/01/31/introducing-differ-a-new-tool-for-testing-and-validating-transformed-programs/
 > https://news.ycombinator.com/item?id=39205784
 

@@ -52,3 +52,6 @@ https://docs.gitlab.com/ee/architecture/blueprints/activity_pub/
 > https://news.ycombinator.com/item?id=39201453
 
 https://news.ycombinator.com/item?id=39471116
+
+https://wedistribute.org/2024/03/activitypub-nomadic-identity/
+> https://news.ycombinator.com/item?id=39745072

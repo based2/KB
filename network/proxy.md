@@ -26,6 +26,8 @@ https://github.com/ekzhang/bore rust
 https://iq.thc.org/tunnel-via-cloudflare-to-any-tcp-service
 > https://news.ycombinator.com/item?id=36007310
 
+https://news.ycombinator.com/item?id=39754786
+
 # App
 https://openreplay.com/
 

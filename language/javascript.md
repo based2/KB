@@ -390,6 +390,8 @@ https://blog.alexeykarpov.com/clean-architecture-in-frontend
 
 https://analogjs.org/
 
+https://news.ycombinator.com/item?id=39777267
+
 https://blog.angular.io/angular-v16-is-here-4d7a28ec680d
 > https://news.ycombinator.com/item?id=35807125
 

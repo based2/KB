@@ -81,6 +81,8 @@ https://www.zdnet.fr/blogs/l-esprit-libre/non-respect-de-la-licence-gpl-orange-c
 https://news.ycombinator.com/item?id=39503266
 
 # Incident
+https://news.ycombinator.com/item?id=39781055
+
 https://blog.tidelift.com/will-the-new-judicial-ruling-in-the-vizio-lawsuit-strengthen-the-gpl
 > https://news.ycombinator.com/item?id=39075136
 

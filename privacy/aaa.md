@@ -107,6 +107,8 @@ https://www.numerama.com/politique/1511774-le-gouvernement-envisage-de-prolonger
 https://linuxfr.org/users/oinska/journaux/ou-il-est-question-de-donnees-personnelles-bis
 
 # News
+https://news.ycombinator.com/item?id=39769562
+
 https://news.ycombinator.com/item?id=39709991
 
 https://news.ycombinator.com/item?id=39623619

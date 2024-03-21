@@ -81,6 +81,8 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://www.infosecurity-magazine.com/news/nist-vulnerability-database/
+
 https://blog.talosintelligence.com/how-cvss-4-0-changes-vulnerability-severity/
 
 https://news.ycombinator.com/item?id=39406088

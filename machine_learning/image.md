@@ -393,6 +393,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://news.ycombinator.com/item?id=39759906
+
 https://news.ycombinator.com/item?id=39509937
 
 https://appleinsider.com/articles/24/02/07/apple-throws-its-hat-into-the-ai-generated-image-ring

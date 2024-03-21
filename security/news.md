@@ -1,3 +1,14 @@
+https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-245a
+
+https://unsaflok.com/
+
+https://news.ycombinator.com/item?id=39779291
+
+https://news.ycombinator.com/item?id=39776745
+
+https://gofetch.fail/
+> https://news.ycombinator.com/item?id=39779195
+
 https://www.bleepingcomputer.com/news/security/new-acoustic-attack-determines-keystrokes-from-typing-patterns/
 
 https://news.ycombinator.com/item?id=39674041

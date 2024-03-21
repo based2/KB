@@ -1,3 +1,6 @@
+https://vanhunteradams.com/Pico/Bootloader/Boot_sequence.html
+> https://news.ycombinator.com/item?id=39746625
+
 https://blog.system76.com/post/major-updates-for-system76-open-firmware-june-2023
 > https://news.ycombinator.com/item?id=36166649
 

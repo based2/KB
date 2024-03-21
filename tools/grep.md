@@ -69,3 +69,5 @@ https://github.com/ast-grep/ast-grep
 
 https://ugrep.com/
 > https://news.ycombinator.com/item?id=38819262
+
+https://news.ycombinator.com/item?id=39770908

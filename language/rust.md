@@ -507,7 +507,12 @@ https://github.com/eleijonmarck/do-not-compile-this-code
 https://seclists.org/oss-sec/2023/q1/13 CVE-2022-46176: Cargo does not check SSH host keys
 > https://news.ycombinator.com/item?id=34336906
 
+https://rustsec.org/advisories/CVE-2018-1000810.html
+> https://news.ycombinator.com/item?id=39781766
+
 # News
+https://news.ycombinator.com/item?id=39771053
+
 https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/
 
 https://news.ycombinator.com/item?id=39398251
