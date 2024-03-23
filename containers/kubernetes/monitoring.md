@@ -41,4 +41,6 @@ https://4sysops.com/archives/static-pods-in-kubernetes/
 
 https://cilium.io/
 
+https://news.ycombinator.com/item?id=39759627
+
 

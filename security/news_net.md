@@ -28,6 +28,10 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://cispa.de/en/loop-dos UDP
+> https://docs.google.com/document/d/1KByZzrdwQhrXGPPCf9tUzERZyRzg0xOpGbWoDURZxTI/edit#heading=h.edovh0fxvs07
+> https://www.bleepingcomputer.com/news/security/new-loop-dos-attack-may-impact-up-to-300-000-online-systems/
+
 https://www.bleepingcomputer.com/news/security/ivanti-fixes-critical-standalone-sentry-bug-reported-by-nato/
 
 https://www.bleepingcomputer.com/news/security/qnap-warns-of-critical-auth-bypass-flaw-in-its-nas-devices/

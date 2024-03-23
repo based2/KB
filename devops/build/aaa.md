@@ -6,6 +6,8 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://news.ycombinator.com/item?id=39784784
+
 https://text.causal.agency/001-make.txt
 > https://news.ycombinator.com/item?id=38774165
 

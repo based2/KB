@@ -1,3 +1,5 @@
+https://www.zscaler.com/blogs/security-research/tweaks-stealer-targets-roblox-users-through-youtube-and-discord
+
 https://www.bleepingcomputer.com/news/security/apex-legends-players-worried-about-rce-flaw-after-algs-hacks/
 
 https://www.theregister.com/2024/02/23/intel_core_13th_crash/

@@ -103,6 +103,8 @@ https://diffusion-policy.cs.columbia.edu/
 > https://news.ycombinator.com/item?id=38637917
 
 # News
+https://news.ycombinator.com/item?id=39793912
+
 https://news.ycombinator.com/item?id=39720188
 
 https://news.ycombinator.com/item?id=39483482

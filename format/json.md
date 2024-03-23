@@ -235,6 +235,8 @@ https://wundergraph.com/blog/astjson_high_performance_json_transformations_in_go
 
 https://news.ycombinator.com/item?id=39670922
 
+https://news.ycombinator.com/item?id=39782356 jq
+
 
 
 

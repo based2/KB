@@ -13,7 +13,8 @@ https://github.com/BerriAI/litellm/blob/main/cookbook/proxy-server/readme.md
 https://news.ycombinator.com/item?id=37180017
 
 # Test
-https://news.ycombinator.com/item?id=39780114
+https://docs.ragas.io/en/stable/
+> https://news.ycombinator.com/item?id=39780114
 
 #
 https://news.ycombinator.com/item?id=39673296

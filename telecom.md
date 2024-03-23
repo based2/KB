@@ -144,6 +144,10 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://news.ycombinator.com/item?id=39792182
+
+https://news.ycombinator.com/item?id=39793905
+
 https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/
 
 https://www.bleepingcomputer.com/news/security/sim-swappers-hijacking-phone-numbers-in-esim-attacks/
