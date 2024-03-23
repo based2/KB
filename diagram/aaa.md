@@ -53,6 +53,8 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://news.ycombinator.com/item?id=39798115
+
 https://news.ycombinator.com/item?id=39491889
 
 https://pikchr.org/home/doc/trunk/homepage.md

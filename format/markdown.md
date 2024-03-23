@@ -95,3 +95,5 @@ https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-gra
 > > https://github.com/jgm/djot https://djot.net/
 
 https://news.ycombinator.com/item?id=39531600
+
+https://github.com/Textualize/frogmouth terminal python

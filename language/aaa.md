@@ -80,6 +80,8 @@ https://github.com/seq-lang/seq
 > https://news.ycombinator.com/item?id=28537179
 
 # Exotic
+https://news.ycombinator.com/item?id=39798542
+
 ## APL
 https://www.dyalog.com/uploads/documents/MasteringDyalogAPL.pdf
 > https://news.ycombinator.com/item?id=30453919

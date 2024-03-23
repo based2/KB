@@ -182,6 +182,8 @@ https://elixir-lang.org/blog/2023/12/22/elixir-v1-16-0-released/
 
 https://news.ycombinator.com/item?id=39286986
 
+https://news.ycombinator.com/item?id=39797889
+
 ## Phoenix
 https://www.poeticoding.com/how-phoenix-liveview-works/
 > https://news.ycombinator.com/item?id=27629016

@@ -85,6 +85,8 @@ https://lobste.rs/s/wjeffb/byline_vim_tailwind_css_editor
 https://www.tints.dev/
 > https://news.ycombinator.com/item?id=39227831
 
+https://news.ycombinator.com/item?id=39761364
+
 # Bootstrap
 http://www.prepbootstrap.com/bootstrap-template/bootstrap-editable-grid
 > https://news.ycombinator.com/item?id=9670916

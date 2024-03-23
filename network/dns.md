@@ -127,6 +127,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://github.com/ClickHouse/reversedns.space/
+
 https://www.netcraft.com/blog/cloudflare-loses-22-of-its-domains-in-freenom-tk-shutdown/
 > https://news.ycombinator.com/item?id=39725303
 

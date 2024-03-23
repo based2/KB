@@ -86,6 +86,8 @@ https://github.com/falcosecurity/falcosidekick
 https://github.com/draios/sysdig-inspect
 
 # News
+https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane
+
 https://k8slanparty.com/
 
 https://blog.doyensec.com/2024/01/23/k8s-scheduling-secure-design.html

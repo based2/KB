@@ -222,6 +222,8 @@ https://tokio.rs/blog/2023-01-03-announcing-turmoil
 
 https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing-distributed-systems/
 
+https://news.ycombinator.com/item?id=39759344
+
 # concurrencyngs
 
 # News

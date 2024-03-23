@@ -527,6 +527,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=39797176
+
 https://news.ycombinator.com/item?id=39709912
 
 https://news.ycombinator.com/item?id=39638569
