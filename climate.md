@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://ieep.eu/news/more-than-half-of-all-co2-emissions-since-1751-emitted-in-the-last-30-years/
+
 https://news.ycombinator.com/item?id=39543034
 
 https://www.bbc.com/news/world-asia-68166298

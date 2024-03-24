@@ -24,3 +24,8 @@ https://news.ycombinator.com/item?id=39413215
 
 https://news.ycombinator.com/item?id=39658610
 
+https://github.com/OpenDevin/OpenDevin?tab=readme-ov-file
+> https://news.ycombinator.com/item?id=39803648
+
+https://news.ycombinator.com/item?id=39799296
+

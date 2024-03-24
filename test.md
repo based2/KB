@@ -28,6 +28,8 @@ https://stepci.com/
 > https://news.ycombinator.com/item?id=33151474
 
 #
+https://www.eno-writer.com/008-deterministic-simulation-testing-for-a-word-processor/
+
 https://news.ycombinator.com/item?id=39740835
 
 https://jtway.co/optimize-your-chrome-options-for-testing-to-get-x1-25-impact-4f19f071bf45

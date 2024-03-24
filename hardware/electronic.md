@@ -46,6 +46,9 @@ https://github.com/TUDSSL/BFree
 https://verik.io/docs/overview/ 
 
 #
+https://praveshkoirala.com/2024/03/07/solving-the-nerd-sniping-problem-when-electronics-meets-heat/
+> https://news.ycombinator.com/item?id=39804829
+
 https://news.ycombinator.com/item?id=39771983
 
 https://news.ycombinator.com/item?id=39636469

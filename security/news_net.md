@@ -28,6 +28,11 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://www.mobile-hacker.com/2024/03/22/bluetooth-vulnerability-allows-unauthorized-user-to-record-and-play-audio-on-bluetooth-speakers/
+> https://old.reddit.com/r/netsec/comments/1bkul5t/bluetooth_vulnerability_allows_unauthorized_user/
+
+https://www.orangecyberdefense.com/global/blog/research/residential-proxies
+
 https://www.theregister.com/2024/03/22/china_f5_connectwise_unc5174/
 
 https://cispa.de/en/loop-dos UDP

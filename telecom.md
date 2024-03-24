@@ -244,6 +244,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=39800234
+
 https://news.ycombinator.com/item?id=39770249
 
 https://news.ycombinator.com/item?id=39735300

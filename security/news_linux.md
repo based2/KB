@@ -16,6 +16,9 @@ https://news.ycombinator.com/item?id=39660990
 https://pboyd.io/posts/securing-a-linux-vm/
 
 # Tools
+https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html
+> https://news.ycombinator.com/item?id=39804214
+
 https://github.com/queer/boxxy puts bad Linux applications in a box with only their files.
 > https://news.ycombinator.com/item?id=34730520
 

@@ -17,6 +17,8 @@ https://github.com/ax/apk.sh/releases
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_12.html
+
 https://www.bleepingcomputer.com/news/security/more-android-apps-riddled-with-malware-spotted-on-google-play/
 
 https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/

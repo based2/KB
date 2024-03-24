@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://oimo.io/works/marimo/
+> https://news.ycombinator.com/item?id=39803174
+
 https://news.ycombinator.com/item?id=39635691
 
 https://news.ycombinator.com/item?id=39671212

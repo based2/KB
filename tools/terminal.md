@@ -45,6 +45,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://xd1.dev/2024/03/hyprland-crash-course
+>
+
 https://github.com/Victormeriqui/Consol3
 > https://news.ycombinator.com/item?id=39488529
 

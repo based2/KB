@@ -194,6 +194,9 @@ https://news.ycombinator.com/item?id=39042093
 https://developer.chrome.com/blog/supercharge-web-ai-testing
 > https://news.ycombinator.com/item?id=39017607
 
+https://ai-sandbox.list.lu/llm-leaderboard/
+> https://news.ycombinator.com/item?id=39800837
+
 # Meta
 https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589

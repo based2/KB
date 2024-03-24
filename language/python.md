@@ -355,6 +355,9 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://stealthrocket.tech/blog/distributed-coroutines-in-python/
+> https://news.ycombinator.com/item?id=39755653
+
 https://news.ycombinator.com/item?id=39776199 htmx
 
 https://github.com/fpgmaas/deptry/releases/tag/0.14.0 detect unused Python dependencies up to 10 times faster

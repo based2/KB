@@ -393,6 +393,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://ai.meta.com/blog/segment-anything-foundation-model-image-segmentation/
+
 https://news.ycombinator.com/item?id=39759906
 
 https://news.ycombinator.com/item?id=39509937

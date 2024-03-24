@@ -49,6 +49,10 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://semiengineering.com/x-ray-inspection-in-the-semiconductor-industry/
+
+https://news.ycombinator.com/item?id=39801963
+
 https://news.ycombinator.com/item?id=39763458
 
 https://news.ycombinator.com/item?id=39654445

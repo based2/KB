@@ -362,6 +362,13 @@ https://news.ycombinator.com/item?id=32788281
 https://news.ycombinator.com/item?id=33031724
 
 # News
+https://programming-journal.org/2024/8/11/ Reactive Programming without Functions
+> https://news.ycombinator.com/item?id=39805846
+
+https://ryelang.org/
+> https://github.com/refaktor/rye
+> https://news.ycombinator.com/item?id=39774881
+
 https://github.com/mighty-gerbils/gerbil-persist/blob/master/persist.md
 > https://news.ycombinator.com/item?id=39615228
 

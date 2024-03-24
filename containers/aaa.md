@@ -44,6 +44,12 @@ https://github.com/google/cadvisor
 https://testcontainers.com/
 > https://news.ycombinator.com/item?id=39531536
 
+# Dev env
+https://containers.dev/
+> https://github.com/lapce/lapdev
+> > https://docs.lap.dev/administration/architecture
+> > https://news.ycombinator.com/item?id=39801399
+
 # Hypervisors
 ## KVM
 http://nieh.net/pubs/ieeesp2021_kvm.pdf

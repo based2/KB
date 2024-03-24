@@ -1,3 +1,6 @@
+https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-28916
+> https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/ Microsoft Xbox Gaming Services
+
 https://www.zscaler.com/blogs/security-research/tweaks-stealer-targets-roblox-users-through-youtube-and-discord
 
 https://www.bleepingcomputer.com/news/security/apex-legends-players-worried-about-rce-flaw-after-algs-hacks/

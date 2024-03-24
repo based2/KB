@@ -216,6 +216,9 @@ https://github.com/collabora/WhisperSpeech
 https://news.ycombinator.com/item?id=39720049
 
 # News
+https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech
+> https://news.ycombinator.com/item?id=39804138
+
 https://www.suno.ai/
 
 https://google-research.github.io/seanet/musiclm/examples/

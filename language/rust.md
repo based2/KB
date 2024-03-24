@@ -511,6 +511,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://ntex.rs/
+> https://news.ycombinator.com/item?id=39801435
+
 https://news.ycombinator.com/item?id=39771053
 
 https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/

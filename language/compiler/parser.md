@@ -52,3 +52,7 @@ https://dubroy.com/blog/visualizing-packrat-parsing/
 
 https://markkarpov.com/tutorial/megaparsec.html
 >
+
+https://dl.acm.org/doi/pdf/10.1145/3591264 Interval Parsing Grammars for File Format Parsing (2023) [pdf], specify a formal grammar for binary file formats
+> https://news.ycombinator.com/item?id=39802783
+> > https://dogma-lang.org/ human-friendly metalanguage for describing data formats in documentation using the familiar patterns of Backus-Naur Form
