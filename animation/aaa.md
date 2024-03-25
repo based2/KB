@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://txstc55.github.io/ugly-avatar/
+> https://news.ycombinator.com/item?id=39813560
+
 https://oimo.io/works/marimo/
 > https://news.ycombinator.com/item?id=39803174
 

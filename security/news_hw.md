@@ -10,6 +10,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://comsec.ethz.ch/research/dram/zenhammer/
+> https://news.ycombinator.com/item?id=39819599
+
 https://www.radgametools.com/oodleintel.htm
 > https://news.ycombinator.com/item?id=39478551
 

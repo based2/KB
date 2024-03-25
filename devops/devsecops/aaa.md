@@ -62,6 +62,8 @@ https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 https://news.ycombinator.com/item?id=38471475
 
 #
+https://www.bleepingcomputer.com/news/security/hackers-poison-source-code-from-largest-discord-bot-platform/
+
 https://thenewstack.io/python-users-bibclip-is-after-your-bitcoin-wallet-via-pypi/
 
 https://old.reddit.com/r/netsec/comments/1bfjqc8/opening_pandoras_box_supply_chain_insider_threats/

@@ -120,6 +120,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/TracecatHQ/tracecat
+> https://news.ycombinator.com/item?id=39819458
+
 https://github.com/Textualize/toolong
 
 https://www.wsj.com/articles/cisco-closes-28-billion-acquisition-of-splunk-betting-big-on-ai-836b6560

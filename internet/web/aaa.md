@@ -37,6 +37,8 @@ https://www.izzy.co/blogs/a-glitch-in-the-seo-matrix.html
 
 https://www.animalz.co/blog/seo-and-chatgpt/
 
+https://news.ycombinator.com/item?id=39816836
+
 ## robot.txt
 https://www.robotstxt.org/
 > https://news.ycombinator.com/item?id=26807738

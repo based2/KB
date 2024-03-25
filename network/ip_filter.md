@@ -4369,6 +4369,8 @@ block from any to 46.30.215.59
 # Denmark https://red.flag.domains/posts/2024-01-24/ https://red.flag.domains/posts/2024-01-22/
 block from any to 46.30.215.63
 # https://www.abuseipdb.com/check/
+block from any to 46.36.17.215
+# https://www.abuseipdb.com/check/
 block from any to 46.36.23.69
 # Russia https://www.abuseipdb.com/check/
 block from any to 46.38.55.67
@@ -4424,7 +4426,7 @@ block from any to 46.105.158.45
 # https://www.abuseipdb.com/check/
 block from any to 46.105.210.113
 block from any to 46.137.139.15
-# Iran
+# Iran https://www.abuseipdb.com/check/
 block from any to 46.148.40.0/24
 # https://www.abuseipdb.com/check/
 block from any to 46.148.40.148
@@ -5013,6 +5015,8 @@ block from any to 51.81.69.0/24
 block from any to 51.81.69.69
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
 block from any to 51.81.69.127
+# https://www.abuseipdb.com/check/
+block from any to 51.81.77.246
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 51.81.90.181
 # BianLian https://threatfox.abuse.ch/browse/malware/win.bianlian/
@@ -5023,6 +5027,12 @@ block from any to 51.81.237.25
 block from any to 51.81.131.161
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 51.81.237.25
+# https://tehtris.com/fr/blog/notre-selection-des-alertes-de-nos-honeypots-bulletin-9-mai-2023/
+block from any to 51.83.70.228
+# abuse.ch TF
+block from any to 51.83.99.132
+# https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
+block from any to 51.89.50.153
 # France https://www.abuseipdb.com/check/
 block from any to 51.91.75.210
 # France https://www.abuseipdb.com/check/
@@ -5411,6 +5421,10 @@ block from any to 54.86.130.105
 block from any to 54.88.105.125
 # A.ch TF
 block from any to 54.89.165.37
+# US https://red.flag.domains/posts/2024-01-22/
+block from any to 54.90.160.0/24
+# US https://red.flag.domains/posts/2024-01-22/
+block from any to 54.90.160.10
 # US https://red.flag.domains/posts/2024-01-22/ 2024-01-19
 block from any to 54.90.160.108
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
@@ -6312,6 +6326,8 @@ block from any to 74.48.100.75
 block from any to 74.48.127.28
 # https://threatfox.abuse.ch/browse/malware/win.deimos/
 block from any to 74.48.220.34
+# US https://www.abuseipdb.com/check/
+block from any to 74.50.76.34
 # https://red.flag.domains/posts/
 block from any to 74.50.87.28
 # https://red.flag.domains/posts/2024-02-27/ registrar: Sarek Oy
@@ -6665,6 +6681,8 @@ block from any to 79.124.62.62
 block from any to 79.124.62.78
 # https://www.abuseipdb.com/check/
 block from any to 79.124.62.82
+# UK https://www.abuseipdb.com/check/
+block from any to 79.124.62.86
 # Russia https://www.abuseipdb.com/check/
 block from any to 79.172.8.22
 # Belgium https://www.abuseipdb.com/check/
@@ -6736,6 +6754,8 @@ block from any to 79.137.248.105
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 79.143.87.166
 # Spain https://www.abuseipdb.com/check/
+block from any to 79.143.92.103
+# Spain https://www.abuseipdb.com/check/
 block from any to 79.153.43.166
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 79.174.94.173
@@ -6767,7 +6787,9 @@ block from any to 80.66.77.52
 block from any to 80.66.77.56
 # Poland .ru https://www.abuseipdb.com/check/
 block from any to 80.66.83.0/24
-# Poland https://www.abuseipdb.com/check/
+# Poland .ru https://www.abuseipdb.com/check/
+block from any to 80.66.83.49
+# Poland .ru https://www.abuseipdb.com/check/
 block from any to 80.66.83.171
 # Poland https://www.abuseipdb.com/check/
 block from any to 80.66.83.200
@@ -7105,7 +7127,7 @@ block from any to 83.239.99.110
 # Russia https://www.abuseipdb.com/check/
 block from any to 83.239.130.2
 block from any to 84.16.242.147
-# DFA Lithuania https://red.flag.domains/posts/ /2024-03-08 registrar: Hostinger operations UAB univ-caen[.fr] 2024-03-06/ registrar: Hostinger operations UAB jacquemus-store[.fr] 2024-03-02 registrar: Hostinger operations UAB wesco-france[.fr] 2024-02-27 registrar: Hostinger operations UAB 2024-02-25 registrar: Hostinger operations UAB 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
+# DFA Lithuania https://red.flag.domains/posts/ 2024-03-17 registrar: Hostinger operations UAB leboncoi-n[.fr] 2024-03-08 registrar: Hostinger operations UAB univ-caen[.fr] 2024-03-06/ registrar: Hostinger operations UAB jacquemus-store[.fr] 2024-03-02 registrar: Hostinger operations UAB wesco-france[.fr] 2024-02-27 registrar: Hostinger operations UAB 2024-02-25 registrar: Hostinger operations UAB 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
 block from any to 84.32.84.32
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 84.32.131.51
@@ -7194,7 +7216,7 @@ block from any to 85.163.46.109
 block from any to 85.185.201.10
 # https://tracker.viriback.com/index.php?q=Meduza
 block from any to 85.192.40.131
-# https://threatfox.abuse.ch/browse/malware/apk.hydra/
+# https://threatfox.abuse.ch/browse/malware/apk.hydra/ https://malpulse.com/blog/223/ Meduza
 block from any to 85.192.63.0/24
 # https://www.abuseipdb.com/check/ https://malpulse.com/blog/223/ Meduza
 block from any to 85.192.63.29
@@ -7351,6 +7373,8 @@ block from any to 87.98.150.35
 block from any to 87.98.177.182
 # ERMAC https://threatfox.abuse.ch/browse/malware/apk.ermac/
 block from any to 87.98.185.14
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ shop.amazon-aws(.)fr
+block from any to 87.98.228.243
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ lascebrassalen(.)com
 block from any to 87.98.231.4
 # France https://www.abuseipdb.com/check/
@@ -7489,7 +7513,7 @@ block from any to 88.204.200.110
 block from any to 88.210.9.117
 # Russia https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
 block from any to 88.212.202.52
-# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+# UK https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ https://www.abuseipdb.com/check/
 block from any to 88.214.25.0/24
 # UK https://www.abuseipdb.com/check/
 block from any to 88.214.25.36
@@ -7539,7 +7563,7 @@ block from any to 89.22.232.145
 block from any to 89.22.233.149
 # Netherlands https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
 block from any to 89.22.239.240
-# Russia https://github.com/Cisco-Talos/IOCs/blob/main/2023/10/qakbot-affiliated-actors-distribute-ransom.txt https://threatfox.abuse.ch/browse/malware/win.dcrat/
+# Russia https://github.com/Cisco-Talos/IOCs/blob/main/2023/10/qakbot-affiliated-actors-distribute-ransom.txt https://threatfox.abuse.ch/browse/malware/win.dcrat/ https://github.com/Cisco-Talos/IOCs/blob/main/2023/10/qakbot-affiliated-actors-distribute-ransom.txt
 block from any to 89.23.96.0/24
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 89.23.96.177
@@ -7844,6 +7868,8 @@ block from any to 91.92.247.169
 block from any to 91.92.247.196
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.247.204
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 91.92.247.219
 # RedLine Stealer https://threatfox.abuse.ch/browse/malware/win.redline_stealer/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 91.92.248.0/24
 # Netherlands https://www.abuseipdb.com/check/
@@ -8393,6 +8419,8 @@ block from any to 92.123.236.0/24
 block from any to 92.123.237.0/24
 block from any to 92.123.239.0/24
 # France https://www.abuseipdb.com/check/
+block from any to 92.154.82.110
+# France https://www.abuseipdb.com/check/
 block from any to 92.154.95.236
 # France https://www.abuseipdb.com/check/
 block from any to 92.158.158.212
@@ -8717,6 +8745,10 @@ block from any to 94.156.65.150
 block from any to 94.156.65.101
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.65.150
+# AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
+block from any to 94.156.66.0/24
+# US https://www.abuseipdb.com/check/
+block from any to 94.156.66.17
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 94.156.66.169
 # https://red.flag.domains/posts/2024-02-28/ registrar: Hosting Concepts B.V. d/b/a Openprovider https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -9548,6 +9580,8 @@ block from any to 103.167.61.132
 block from any to 103.167.89.4
 # https://www.abuseipdb.com/check/
 block from any to 103.167.158.235
+# Malaysia https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-spikedwine-wineloader castechtools[.]com
+block from any to 103.169.90.0/24
 # https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-spikedwine-wineloader castechtools[.]com
 block from any to 103.169.90.155
 # Malaysia https://www.abuseipdb.com/check/
@@ -9689,6 +9723,8 @@ block from any to 103.252.12.242
 block from any to 103.253.27.172
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 103.253.73.222
+# https://threatfox.abuse.ch/browse/malware/elf.xorddos/ bb.markerbio(.)com bb.myserv012(.)com
+block from any to 103.254.75.120
 # Pakistan https://www.abuseipdb.com/check/
 block from any to 103.255.67.81
 # https://www.abuseipdb.com/check/
@@ -9741,6 +9777,12 @@ block from any to 104.18.131.236
 block from any to 104.21.0.137
 # https://red.flag.domains/posts/2024-02-25/ registrar: OVH
 block from any to 104.21.0.157
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 98q5e.ructin(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.1.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 98q5e.ructin(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.1.150
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 4m2swl.7e2r(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.1.254
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
 block from any to 104.21.2.0/24
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
@@ -9761,6 +9803,8 @@ block from any to 104.21.6.24
 block from any to 104.21.6.239
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.8.130
+# https://threatfox.abuse.ch/browse/malware/unknown/ linnisgood(.)site
+block from any to 104.21.8.246
 # US https://red.flag.domains/posts/2024-01-10/ https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.11.0/24
 # US https://red.flag.domains/posts/2024-01-10/
@@ -9777,12 +9821,20 @@ block from any to 104.21.12.129
 block from any to 104.21.12.153
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.12.231
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv n9zph.lw8opi(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.13.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 0q5e0.nemen9(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.13.41
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.13.124
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv n9zph.lw8opi(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.13.138
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ irannihon(.)com
 block from any to 104.21.14.168
 # DNS https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html assets.watchasync[.]com
 block from any to 104.21.15.235
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 8000n.uqin(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.17.54
 # DNS https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/ oast[.]com https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.18.0/24
 # https://tracker.viriback.com/index.php?q=Lokibot
@@ -9796,18 +9848,44 @@ block from any to 104.21.19.65
 block from any to 104.21.19.106
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.20.215
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 8uecv.gnornamb(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.21.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 8uecv.gnornamb(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.21.84
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 4343w.jgu0(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.21.175
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv explore.atlester(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.21.193
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ 585196cm.n9shteam1(.)top
 block from any to 104.21.22.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv pmd8ot6xhw.3qjpc(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.22.47
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ 585196cm.n9shteam1(.)top
 block from any to 104.21.22.205
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv beacon.diremsto(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.23.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv beacon.diremsto(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.23.81
 # US https://red.flag.domains/posts/2024-01-22/
 block from any to 104.21.23.85
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv buneji.fiernmar(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.24.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv buneji.fiernmar(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.24.72
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 104.21.24.179
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv codecrafterspro(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.25.0/24
 # DFA US https://red.flag.domains/posts/2024-02-13/
 block from any to 104.21.25.53
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv codecrafterspro(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.25.137
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv gz238.uatimin(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.25.180
 # DFA https://red.flag.domains/posts/2023-02-26/ registrar: SAS Ligne Web Services - LWS
 block from any to 104.21.26.249
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv p1v12.17nor(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.35.250
 # https://tracker.viriback.com/index.php?q=Mars
 block from any to 104.21.27.0/24
 block from any to 104.21.27.55
@@ -9815,6 +9893,10 @@ block from any to 104.21.27.55
 block from any to 104.21.27.108
 # https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.28.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv xrs.chenebystie(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.28.4
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv galume.aricente(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.28.16
 # https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
 block from any to 104.21.28.80
 # https://tracker.viriback.com/index.php?q=Lokibot
@@ -9825,14 +9907,20 @@ block from any to 104.21.31.0/24
 block from any to 104.21.31.15
 # DFA https://red.flag.domains/posts/2023-02-22/ registrar: 1API GmbH
 block from any to 104.21.31.61
-# https://malpulse.com/ Unam
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 25rw2.canweal(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.31.74
+# https://malpulse.com/ Unam https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 104.21.32.0/24
 # https://malpulse.com/ Unam
 block from any to 104.21.32.118
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 104.21.32.209
 # https://tracker.viriback.com/index.php?q=Lokibot
+block from any to 104.21.33.0/24
+# https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.33.209
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv zemj4f.ymarir(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.34.243
 # DFA https://red.flag.domains/posts/2023-02-23/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 104.21.36.0/24
 # https://red.flag.domains/posts/
@@ -9841,11 +9929,16 @@ block from any to 104.21.36.37
 block from any to 104.21.36.198
 # US cloudflare.com DNS https://red.flag.domains/posts/2024-03-16/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 104.21.37.94
+# https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.38.0/24
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.38.80
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.38.86
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv wasogo.shantowd(.)com ww.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.40.150
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv kjlvo.ningeona(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.42.114
 # DNS https://red.flag.domains/posts/2024-03-14/ registrar: GRANSY s.r.o. loakechaussure[.fr]
 block from any to 104.21.43.0/24
 # https://red.flag.domains/posts/
@@ -9868,13 +9961,21 @@ block from any to 104.21.46.100
 block from any to 104.21.46.149
 # DFA https://red.flag.domains/posts/2024-02-03/
 block from any to 104.21.47.80
+# DFA https://red.flag.domains/posts/2024-02-03/
+block from any to 104.21.48.0/24
 # https://red.flag.domains/posts/2024-02-28/
 block from any to 104.21.48.124
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 43rw98nop8.m1p8z(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.49.144
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 9c43r.theq0(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.50.0/24
 # https://red.flag.domains/posts/2024-02-21/ registrar: GRANSY s.r.o.
 block from any to 104.21.50.72
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 9c43r.theq0(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.50.193
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.51.81
-# https://threatfox.abuse.ch/browse/malware/win.lokipws/
+# https://threatfox.abuse.ch/browse/malware/win.lokipws/ https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
 block from any to 104.21.52.0/24
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
 block from any to 104.21.52.80
@@ -9882,10 +9983,18 @@ block from any to 104.21.52.80
 block from any to 104.21.52.88
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 104.21.55.19
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv zaqaxu.dthiterp(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.56.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv zaqaxu.dthiterp(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.56.21
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv xva.tjlpkcia(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.56.184
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 104.21.56.244
 # DFA https://red.flag.domains/posts/2023-11-19/ registrar: Realtime Register B.V.
 block from any to 104.21.59.213
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv q908q.refec7(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.59.223
 # DNS https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html l.js-assets[.]cloudDNS https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html l.js-assets[.]cloud https://www.abuseipdb.com/check/104.21.60.31
 block from any to 104.21.60.31
 # DNS https://red.flag.domains/posts/2024-03-01/ registrar: GRANSY s.r.o. youngla-france[.fr] 2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
@@ -9894,14 +10003,22 @@ block from any to 104.21.61.0/24
 block from any to 104.21.61.31
 # DNS https://red.flag.domains/posts/2024-03-01/ registrar: GRANSY s.r.o. youngla-france[.fr]
 block from any to 104.21.61.110
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv x12y.restrice.ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.61.125
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 104.21.64.0/24
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 104.21.64.42
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv roriku.orankfix(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.64.167
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv fisaca.trodeckh(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.64.190
 # DNS https://red.flag.domains/posts/2024-03-06/ registrar: Hosting Concepts B.V. d/b/a Openprovider uni-qlofrance[.fr]
 block from any to 104.21.64.195
 # US https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.66.75
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv r298y.sem01(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.67.45
 # DNS https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html js.schema-forms[.]org
 block from any to 104.21.67.177
 # https://red.flag.domains/posts/2024-03-06/ registrar: GRANSY s.r.o. shimanochaussures[.fr]
@@ -9914,12 +10031,28 @@ block from any to 104.21.69.108
 block from any to 104.21.69.158
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware https://red.flag.domains/posts/2024-01-31/
 block from any to 104.21.71.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tlger-surveillance(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.71.7
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 104.21.71.21
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv oo99v.coqqwx(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.71.88
 # DFA https://red.flag.domains/posts/2024-01-31/
 block from any to 104.21.71.240
+# DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ healthcares(.)life https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv
+block from any to 104.21.72.0/24
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ healthcares(.)life
 block from any to 104.21.72.45
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv l846d.ferver8(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.72.247
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tycoongroup(.)ws https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.73.207
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 6j312.rchan0(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.74.201
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 5me78.methw(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.75.200
+#https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv bloggcenter(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.77.197
 # https://red.flag.domains/posts/2024-02-26/ registrar: IONOS SE
 block from any to 104.21.77.220
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ 926388cm.n9shteam3(.)top
@@ -9930,8 +10063,12 @@ block from any to 104.21.81.4
 block from any to 104.21.82.86
 # https://red.flag.domains/posts/
 block from any to 104.21.83.19
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tnyr.moporins(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.84.241
 # DNS https://red.flag.domains/posts/2024-03-14/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com session-choruspro[.fr]
 block from any to 104.21.86.61
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 77p3e.rimesh3(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 104.21.88.247
 # DNS https://red.flag.domains/posts/2024-03-02/ registrar: Hosting Concepts B.V. d/b/a Openprovider pumafr[.fr]
 block from any to 104.21.89.199
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -10197,6 +10334,8 @@ block from any to 104.239.108.183
 block from any to 104.243.27.95
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 104.243.46.129
+# https://www.abuseipdb.com/check/
+block from any to 104.244.73.43
 # https://www.abuseipdb.com/check/
 block from any to 104.244.75.98
 # https://www.abuseipdb.com/check/
@@ -12696,7 +12835,7 @@ block from any to 141.147.176.160
 block from any to 141.164.48.193
 # abuse.ch TF
 block from any to 141.164.174.223
-# https://www.virustotal.com/gui/ip-address/141.193.213.10/details@:x
+# https://www.virustotal.com/gui/ip-address/141.193.213.10
 block from any to 141.193.213.10
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ gradecam(.)com https://www.virustotal.com/gui/ip-address/141.193.213.11
 block from any to 141.193.213.11
@@ -12969,6 +13108,8 @@ block from any to 146.88.241.40
 block from any to 146.88.241.80
 # https://www.abuseipdb.com/check/
 block from any to 146.88.241.203
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 0q5e0.nemen9(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 146.112.61.108
 # Singapore https://www.abuseipdb.com/check/
 block from any to 146.190.98.165
 # https://www.abuseipdb.com/check/
@@ -12991,7 +13132,7 @@ block from any to 146.190.72.135
 block from any to 146.190.129.190
 # https://www.abuseipdb.com/check/146.190.228.94
 block from any to 146.190.228.94
-#  Georgia https://www.abuseipdb.com/check/
+# Georgia https://www.abuseipdb.com/check/
 block from any to 146.255.254.114
 # abuse.ch TF
 block from any to 146.235.217.116
@@ -13992,6 +14133,8 @@ block from any to 161.35.44.205
 block from any to 161.35.71.130
 # https://www.abuseipdb.com/check/
 block from any to 161.35.156.118
+# https://www.abuseipdb.com/check/
+block from any to 161.35.159.158
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 161.35.172.122
 # https://www.abuseipdb.com/check/
@@ -14139,6 +14282,8 @@ block from any to 162.142.125.253
 block from any to 162.142.125.254
 # US https://www.abuseipdb.com/check/
 block from any to 162.142.125.238
+# https://www.bleepingcomputer.com/news/security/hackers-poison-source-code-from-largest-discord-bot-platform/
+block from any to 162.148.100.217
 # https://github.com/eset/malware-ioc/tree/master/evasive_panda
 block from any to 162.158.48.0/24
 # Denmark https://www.abuseipdb.com/check/
@@ -15032,6 +15177,8 @@ block from any to 172.59.193.252
 block from any to 172.64.32.165
 # US https://www.abuseipdb.com/check/
 block from any to 172.64.33.64
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv kjlvo.ningeona(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.64.80.1
 # https://www.abuseipdb.com/check/172.65.251.78
 block from any to 172.65.251.78
 # https://www.abuseipdb.com/check/172.67.73.179
@@ -15042,12 +15189,22 @@ block from any to 172.67.74.252
 block from any to 172.67.75.122
 # DFA https://www.bitdefender.com/blog/labs/investigating-worldwide-sms-scams-and-tens-of-millions-of-dollars-in-fraud/
 block from any to 172.67.83.132
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 4m2swl.7e2r(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.128.112
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tlger-surveillance(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.141.67
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ 926388cm.n9shteam3(.)top
 block from any to 172.67.145.174
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ irannihon(.)com
 block from any to 172.67.160.19
 # DNS https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/ oast[.]com
 block from any to 172.67.180.67
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv gz238.uatimin(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.134.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv codecrafterspro(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.134.71
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv gz238.uatimin(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.134.114
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 172.67.138.233
 # https://red.flag.domains/posts/2024-02-23/ registrar: IONOS SE
@@ -15066,6 +15223,8 @@ block from any to 172.67.132.0/24
 block from any to 172.67.132.44
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.132.61
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 0q5e0.nemen9(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.132.126
 # DNS https://red.flag.domains/posts/2024-03-16/ registrar: IONOS SE espace-renouvellement-enligne[.fr]
 block from any to 172.67.133.224
 # https://red.flag.domains/posts/2024-02-28/ registrar: Hosting Concepts B.V. d/b/a Openprovider
@@ -15090,10 +15249,28 @@ block from any to 172.67.152.0/24
 block from any to 172.67.152.79
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
 block from any to 172.67.152.136
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv roriku.orankfix(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.152.245
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv wasogo.shantowd(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.153.15
+# DNS https://red.flag.domains/posts/2024-03-11/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com dossiers-antai[.fr]
+block from any to 172.67.154.0/24
 # DNS https://red.flag.domains/posts/2024-03-11/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com dossiers-antai[.fr]
 block from any to 172.67.154.150
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 77p3e.rimesh3(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.154.176
 # DNS https://red.flag.domains/posts/2024-03-06/ registrar: Hosting Concepts B.V. d/b/a Openprovider uni-qlofrance[.fr]
 block from any to 172.67.154.218
+# DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
+block from any to 172.67.155.0/24
+# DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
+block from any to 172.67.155.35
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv xva.tjlpkcia(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.155.72
+# DNS https://www.govcert.lu/en/phishing/2024/02/20240219-1/ s.newslettescreationslines(.)eu
+block from any to 172.67.155.111
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv l846d.ferver8(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.155.235
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.157.94
 # https://red.flag.domains/posts/2024-02-21/ registrar: GRANSY s.r.o.
@@ -15103,6 +15280,10 @@ block from any to 172.67.159.0/24
 block from any to 172.67.159.162
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 172.67.159.202
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv kjlvo.ningeona(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.161.167
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 43rw98nop8.m1p8z(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.163.169
 # DNS registrar: Hosting Concepts B.V. d/b/a Openprovider pumafr[.fr] https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.164.0/24
 # https://tracker.viriback.com/index.php?q=Lokibot
@@ -15123,6 +15304,12 @@ block from any to 172.67.168.0/24
 block from any to 172.67.168.137
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
 block from any to 172.67.170.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv xrs.chenebystie(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.170.29
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv galume.aricente(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.170.41
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv oo99v.coqqwx(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.170.75
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 172.67.170.81
 # https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
@@ -15135,21 +15322,33 @@ block from any to 172.67.172.97
 block from any to 172.67.175.21
 # DFA https://red.flag.domains/posts/2023-02-22/ registrar: 1API GmbH
 block from any to 172.67.175.55
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 25rw2.canweal(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.175.68
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 172.67.175.238
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv zaqaxu.dthiterp(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.175.251
 # DNS https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html js.schema-forms[.]org
 block from any to 172.67.179.4
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.180.247
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv p1v12.17nor(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/ https://red.flag.domains/posts/
+block from any to 172.67.181.0/24
 # https://red.flag.domains/posts/
 block from any to 172.67.181.9
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 5me78.methw(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.181.83
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv p1v12.17nor(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.181.196
 # https://red.flag.domains/posts/
 block from any to 172.67.184.0/24
 # DFA https://red.flag.domains/posts/2023-11-19/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.67.184.21
 # https://red.flag.domains/posts/
 block from any to 172.67.184.125
-1# https://red.flag.domains/posts/
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv q908q.refec7(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.184.152
+# https://red.flag.domains/posts/
 block from any to 172.67.184.170
 # https://red.flag.domains/posts/
 block from any to 172.67.184.181
@@ -15163,10 +15362,16 @@ block from any to 172.67.186.6
 block from any to 172.67.186.90
 # DNS https://red.flag.domains/posts/2024-03-14/ registrar: GRANSY s.r.o. loakechaussure[.fr]
 block from any to 172.67.186.224
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv fisaca.trodeckh(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.187.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv fisaca.trodeckh(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.187.96
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.188.40
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.190.82
+#  https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tycoongroup(.)ws https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.192.39
 # US https://red.flag.domains/posts/2024-01-10/
 block from any to 172.67.192.220
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
@@ -15179,16 +15384,34 @@ block from any to 172.67.194.35
 block from any to 172.67.194.231
 # DFA g.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider www.
 block from any to 172.67.196.235
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 8uecv.gnornamb(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.197.17
 # https://red.flag.domains/posts/2024-03-06/ registrar: GRANSY s.r.o. shimanochaussures[.fr]
 block from any to 172.67.199.0/24
 # DFA https://red.flag.domains/posts/2023-02-23/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 172.67.199.19
 # https://red.flag.domains/posts/2024-03-06/ registrar: GRANSY s.r.o. shimanochaussures[.fr]
 block from any to 172.67.199.51
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv tnyr.moporins(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.199.103
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 4343w.jgu0(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.199.169
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv explore.atlester(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.200.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv explore.atlester(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.200.15
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv n9zph.lw8opi(.)com  https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.200.94
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv pmd8ot6xhw.3qjpc(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.202.0/24
 # DNS https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html l.js-assets[.]cloud
 block from any to 172.67.202.30
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv pmd8ot6xhw.3qjpc(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.202.238
 # US cloudflare.com DNS https://red.flag.domains/posts/2024-03-16/ registrar: KEY-SYSTEMS GmbH auth-succes[.fr]
 block from any to 172.67.206.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 6j312.rchan0(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.206.58
 # US cloudflare.com DNS https://red.flag.domains/posts/2024-03-16/ registrar: KEY-SYSTEMS GmbH auth-succes[.fr]
 block from any to 172.67.206.218
 # DNS https://threatfox.abuse.ch/browse/malware/unknown/ 585196cm.n9shteam1(.)top
@@ -15209,26 +15432,42 @@ block from any to 172.67.209.84
 block from any to 172.67.209.96
 # https://www.mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation
 block from any to 172.67.209.167
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv beacon.diremsto(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.209.207
 # US https://red.flag.domains/posts/2024-01-22/
 block from any to 172.67.209.219
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv x12y.restrice(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.210.131
 # DNS https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html
 block from any to 172.67.220.140
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv bloggcenter(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.211.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv bloggcenter(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.211.110
 # https://red.flag.domains/posts/2024-02-26/ registrar: AMEN / Agence des Médias Numériques
 block from any to 172.67.211.235
 # https://tracker.viriback.com/index.php?q=Lokibot https://malpulse.com/blog/5/ CobaltStrike
 block from any to 172.67.212.0/24
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.212.135
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv r298y.sem01(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.212.206
 # https://malpulse.com/blog/5/ CobaltStrike
 block from any to 172.67.212.220
 # DNS https://red.flag.domains/posts/2024-03-02/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com espaceclientscompte[.fr]
 block from any to 172.67.213.147
 # DNS https://red.flag.domains/posts/2024-03-14/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com session-choruspro[.fr]
 block from any to 172.67.215.167
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv buneji.fiernmar(.)com https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.217.93
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 172.67.219.223
+# DNS https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html
+block from any to 172.67.220.140
 # DFA US https://red.flag.domains/posts/ 2024-02-13 registrar: 1API GmbH  2024-01-31 https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.222.0/24
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv 8000n.uqin(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 172.67.222.84
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 172.67.222.152
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: Hosting Concepts B.V. d/b/a Openprovider
@@ -17572,13 +17811,31 @@ block from any to 188.54.123.236
 block from any to 188.59.178.11
 # https://www.abuseipdb.com/check/
 block from any to 188.86.113.88
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv zaqaxu.dthiterp(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 188.114.96.0/24
 # Brazil DFA https://www.virustotal.com/gui/ip-address/188.114.96.2 https://www.abuseipdb.com/check/188.114.97.22 2024-03-01 registrar: SAS Ligne Web Services - LWS billetterie-f1[.fr] 2024-02-18 registrar: EPAG Domainservices GmbH 2024-02-15 registrar: Hostinger operations UAB 2024-01-30 https://red.flag.domains/posts/2024-01-11/ 2023-02-10 registrar: SAS Ligne Web Services - LWS https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware https://www.bitdefender.com/blog/labs/investigating-worldwide-sms-scams-and-tens-of-millions-of-dollars-in-fraud/ https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf 2023-11-25 registrar: Hosting Concepts B.V. d/b/a Openprovider https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/ dnslog[.]store
 block from any to 188.114.96.2
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv x12y.restrice(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 188.114.96.5
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv zaqaxu.dthiterp(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 188.114.96.8
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv x12y.restrice(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 188.114.96.10
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv x12y.restrice(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 188.114.96.12
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 188.114.96.14
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv zaqaxu.dthiterp(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 188.114.97.0/24
 # Brazil DFA https://www.virustotal.com/gui/ip-address/188.114.97.2 https://www.abuseipdb.com/check/188.114.97.2 https://red.flag.domains/posts/ 2024-03-02 registrar: Hosting Concepts B.V. d/b/a Openprovider pumapascher[.fr] 2024-02-18 registrar: EPAG Domainservices GmbH 2024-02-15 registrar: Hostinger operations UAB 2024-02-03/ 2024-01-30 https://red.flag.domains/posts/2024-01-23/ 22 11 2023-02-10 registrar: SAS Ligne Web Services - LWS https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware https://www.bitdefender.com/blog/labs/investigating-worldwide-sms-scams-and-tens-of-millions-of-dollars-in-fraud/ https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf 2023-11-25 registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 188.114.97.2
-# Brazil https://www.abuseipdb.com/check/188.114.97.12
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv x12y.restrice(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 188.114.97.5
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv zaqaxu.dthiterp(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 188.114.97.8
+# https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv x12y.restrice(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
+block from any to 188.114.97.10
+# Brazil https://www.abuseipdb.com/check/188.114.97.12 https://github.com/SEKOIA-IO/Community/blob/main/IOCs/tycoon2fa/tycoon2fa_iocs_20240325.csv x12y.restrice(.)ru https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/
 block from any to 188.114.97.12
 # Brazil DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
 block from any to 188.114.97.14
@@ -17781,7 +18038,7 @@ block from any to 190.135.235.219
 block from any to 190.145.81.37
 # Colombia https://www.abuseipdb.com/check/
 block from any to 190.146.5.153
-# https://www.abuseipdb.com/check/ 
+# https://www.abuseipdb.com/check/
 block from any to 190.149.6.86
 # https://www.abuseipdb.com/check/
 block from any to 190.153.108.69
@@ -18584,7 +18841,7 @@ block from any to 194.26.192.77
 # https://www.abuseipdb.com/check/
 block from any to 194.26.192.215
 # https://www.abuseipdb.com/check/
-block from any to 194.26.29.16
+block from any to 194.31.135.146
 # DNS https://red.flag.domains/posts/2024-03-08/ registrar: OVH colis-supportclient[.fr]
 block from any to 194.32.76.179
 # France https://www.abuseipdb.com/check/ https://tracker.viriback.com/index.php?q=Neptune
@@ -19483,6 +19740,8 @@ block from any to 201.130.86.202
 block from any to 201.131.212.19
 # https://www.abuseipdb.com/check/
 block from any to 201.141.27.188
+# Mexico https://www.abuseipdb.com/check/
+block from any to 201.145.60.64
 # https://www.abuseipdb.com/check/
 block from any to 201.148.20.53
 # https://www.abuseipdb.com/check/
@@ -19616,6 +19875,8 @@ block from any to 202.185.12.124
 block from any to 202.185.181.42
 # https://www.abuseipdb.com/check/
 block from any to 202.238.19.139
+# https://www.abuseipdb.com/check/
+block from any to 203.12.203.114
 # https://www.abuseipdb.com/check/
 block from any to 203.23.199.89
 # https://www.abuseipdb.com/check/
@@ -20576,6 +20837,8 @@ block from any to 220.130.253.179
 block from any to 220.132.3.242
 # China https://www.abuseipdb.com/check/
 block from any to 220.132.160.92
+# Taiwan https://www.abuseipdb.com/check/
+block from any to 220.132.212.25
 # Taiwan https://www.abuseipdb.com/check/
 block from any to 220.134.67.103
 # Taiwan https://www.abuseipdb.com/check/
