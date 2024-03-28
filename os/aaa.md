@@ -25,6 +25,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://www.qubes-os.org/news/2024/03/26/qubes-os-4-2-1-has-been-released/
+> https://news.ycombinator.com/item?id=39833245
+
 https://news.ycombinator.com/item?id=39804204
 
 https://news.ycombinator.com/item?id=39701543

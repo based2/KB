@@ -144,6 +144,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://news.ycombinator.com/item?id=39838725
+
 https://news.ycombinator.com/item?id=39792182
 
 https://news.ycombinator.com/item?id=39793905

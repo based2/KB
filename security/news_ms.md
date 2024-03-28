@@ -1,6 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.bleepingcomputer.com/news/security/cisa-tags-microsoft-sharepoint-rce-bug-as-actively-exploited/
+
+https://labs.guard.io/cve-2024-21388-microsoft-edges-marketing-api-exploited-for-covert-extension-installation-879fe5ad35ca
+
+https://www.bleepingcomputer.com/news/security/germany-warns-of-17k-vulnerable-microsoft-exchange-servers-exposed-online/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-fix-for-windows-server-crashes/
 
 https://www.akamai.com/blog/security-research/abusing-dhcp-administrators-group-for-privilege-escalation-in-windows-domains

@@ -1,3 +1,6 @@
+https://www.politico.eu/article/europol-internal-agency-eu-police-agency-engulfed-in-clean-up-over-missing-files/
+> https://news.ycombinator.com/item?id=39837498
+
 https://web.mit.edu/6.857/OldStuff/Fall03/ref/Shamir-HowToShareASecret.pdf Rivest
 > https://news.ycombinator.com/item?id=31817716
 

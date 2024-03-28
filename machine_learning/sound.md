@@ -216,6 +216,9 @@ https://github.com/collabora/WhisperSpeech
 https://news.ycombinator.com/item?id=39720049
 
 # News
+https://github.com/DoMusic/Hybrid-Net Real-time audio source separation, generate lyrics, chords, beat
+> https://news.ycombinator.com/item?id=39827127
+
 https://newsroom.ucla.edu/releases/speaking-without-vocal-cords-ucla-engineering-wearable-tech
 > https://news.ycombinator.com/item?id=39804138
 

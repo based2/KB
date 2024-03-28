@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=39841027
+
 https://www.theguardian.com/science/2024/feb/17/japan-to-launch-worlds-first-wooden-satellite-to-combat-space-pollution
 
 https://skyandtelescope.org/astronomy-news/how-venus-ended-up-with-a-mini-moon-named-zoozve/

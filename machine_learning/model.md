@@ -197,6 +197,8 @@ https://developer.chrome.com/blog/supercharge-web-ai-testing
 https://ai-sandbox.list.lu/llm-leaderboard/
 > https://news.ycombinator.com/item?id=39800837
 
+https://news.ycombinator.com/item?id=39842116
+
 # Meta
 https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589
@@ -210,7 +212,18 @@ https://lilianweng.github.io/posts/2024-02-05-human-data-quality/
 
 https://news.ycombinator.com/item?id=39713634
 
+https://news.ycombinator.com/item?id=39852118
+
 # News
+https://github.com/xai-org/grok-1
+
+https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/
+> https://news.ycombinator.com/item?id=39853958
+
+https://news.ycombinator.com/item?id=39821196
+
+https://news.ycombinator.com/item?id=39838104
+
 https://news.ycombinator.com/item?id=39742921
 
 https://news.ycombinator.com/item?id=39748603

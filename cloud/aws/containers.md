@@ -9,3 +9,5 @@ https://www.lastweekinaws.com/blog/17-more-ways-to-run-containers-on-aws/
 https://aws.amazon.com/en/about-aws/whats-new/2022/09/aws-fargate-increases-compute-memory-resource-configurations-4x/
 
 https://aws.amazon.com/blogs/containers/aws-lambda-for-the-containers-developer/
+
+https://www.checklyhq.com/blog/ipv6-masquerading-for-egress-on-microk8s-on-ec2/

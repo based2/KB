@@ -68,3 +68,6 @@ https://alexharri.com/blog/vector-networks figma
 > https://news.ycombinator.com/item?id=39241825
 
 https://github.com/harsha-simhadri/big-ann-benchmarks/blob/main/neurips23/ongoing_leaderboard/leaderboard.md
+
+https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors
+> https://news.ycombinator.com/item?id=39823512

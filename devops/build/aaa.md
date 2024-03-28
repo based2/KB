@@ -6,6 +6,8 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://github.com/jgrahamc/gmsl/blob/main/changelog.md
+
 https://news.ycombinator.com/item?id=39784784
 
 https://text.causal.agency/001-make.txt

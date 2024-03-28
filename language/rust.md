@@ -471,6 +471,9 @@ https://blog.waleedkhan.name/port-python-to-rust/
 
 https://immunant.com/blog/2020/01/quake3/
 
+# UI
+https://news.ycombinator.com/item?id=39837045
+
 # OS
 
 ## Linux kernel
@@ -511,6 +514,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://dioxuslabs.com/blog/release-050/
+> https://news.ycombinator.com/item?id=39852167
+
 https://ntex.rs/
 > https://news.ycombinator.com/item?id=39801435
 

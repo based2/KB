@@ -62,6 +62,8 @@ https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 https://news.ycombinator.com/item?id=38471475
 
 #
+https://blog.phylum.io/typosquatting-campaign-targets-python-developers/
+
 https://www.bleepingcomputer.com/news/security/hackers-poison-source-code-from-largest-discord-bot-platform/
 
 https://thenewstack.io/python-users-bibclip-is-after-your-bitcoin-wallet-via-pypi/

@@ -81,6 +81,8 @@ https://pkg.go.dev/vuln/
 https://github.com/Orange-Cyberdefense/CVE-repository
 
 # News
+https://www.theregister.com/2024/03/27/surge_in_enterprise_zero_days/
+
 https://www.infosecurity-magazine.com/news/nist-vulnerability-database/
 
 https://blog.talosintelligence.com/how-cvss-4-0-changes-vulnerability-severity/

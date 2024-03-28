@@ -200,6 +200,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # i
+https://labs.guard.io/subdomailing-thousands-of-hijacked-major-brand-subdomains-found-bombarding-users-with-millions-a5e5fb892935
+> https://guard.io/subdomailing
+
 https://media.ccc.de/v/37c3-11782-smtp_smuggling_spoofing_e-mails_worldwide SMTP Smuggling – Spoofing E-Mails Worldwide
 > https://sec-consult.com/blog/detail/smtp-smuggling-spoofing-e-mails-worldwide/
 > > https://www.cisco.com/c/en/us/support/docs/security/email-security-appliance-c690x/221532-response-to-cisco-secure-email-smtp-smug.html

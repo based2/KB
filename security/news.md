@@ -1,3 +1,7 @@
+https://www.theregister.com/2024/03/28/japan_nk_arrests/
+
+https://www.theregister.com/2024/03/28/stonebraker_dbos/
+
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa20-245a
 
 https://unsaflok.com/

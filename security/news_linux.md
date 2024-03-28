@@ -39,6 +39,11 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 > https://news.ycombinator.com/item?id=39165342
 
 # News
+https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt
+
+https://pwning.tech/nftables/
+> https://news.ycombinator.com/item?id=39828424
+
 https://www.bleepingcomputer.com/news/linux/kde-advises-extreme-caution-after-theme-wipes-linux-users-files/
 
 https://www.vusec.net/projects/ghostrace/

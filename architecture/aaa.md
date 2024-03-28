@@ -281,6 +281,9 @@ https://www.informit.com/articles/article.aspx?p=3171761
 https://www.rfc-editor.org/rfc/rfc7807 Problem Details for HTTP APIs
 > https://news.ycombinator.com/item?id=35364224
 
+https://blog.trl.sn/blog/typespec-for-openapi/
+> https://news.ycombinator.com/item?id=39833321
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966

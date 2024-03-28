@@ -33,6 +33,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=39850972
+
 https://0x44.cc/radio/2024/03/13/reversing-a-car-key-fob-signal.html
 
 https://news.ycombinator.com/item?id=39616417

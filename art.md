@@ -48,6 +48,9 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://lostpixels.io/writings/building-interactive-plotter-art
+> https://news.ycombinator.com/item?id=39841449
+
 https://schollz.com/tinker/primitives/
 > https://news.ycombinator.com/item?id=38979370
 

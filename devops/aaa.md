@@ -114,6 +114,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.theregister.com/2024/03/28/jetbrains_fixes_26_security_problems/
+
 https://www.errno.fr/bruteforcing_CVE-2024-23897.html jenkins
 
 https://blog.securelayer7.net/arbitrary-file-read-in-jenkins/
