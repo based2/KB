@@ -39,6 +39,21 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 > https://news.ycombinator.com/item?id=39165342
 
 # News
+https://xz.fail/
+
+https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094
+> https://www.bleepingcomputer.com/news/security/new-xz-backdoor-scanner-detects-implant-in-any-linux-binary/
+
+https://www.openwall.com/lists/oss-security/2024/03/29/4 Backdoor in upstream xz/liblzma leading to SSH server compromise
+> https://news.ycombinator.com/item?id=39865810
+
+https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/7530
+> https://news.ycombinator.com/item?id=39865954
+
+https://www.bleepingcomputer.com/news/security/decade-old-linux-wall-bug-helps-make-fake-sudo-prompts-steal-passwords/
+
+https://news.ycombinator.com/item?id=39866653
+
 https://people.rit.edu/sjf5462/6831711781/wall_2_27_2024.txt
 
 https://pwning.tech/nftables/

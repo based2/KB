@@ -367,6 +367,10 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://thenewstack.io/ovhcloud-unveils-roadmap-to-take-on-hyperscalers-from-europe/
+
+https://news.ycombinator.com/item?id=39836495
+
 https://news.ycombinator.com/item?id=39804052
 
 https://news.ycombinator.com/item?id=39547940

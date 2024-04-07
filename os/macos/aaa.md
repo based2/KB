@@ -141,6 +141,8 @@ https://blog.bejarano.io/hardening-macos/
 
 https://apple.stackexchange.com/questions/268512/how-to-setup-the-adaptive-firewall
 
+https://superuser.com/questions/872225/how-to-use-new-keyword-dummynet-anchor-in-pf-conf-of-mac-os-x
+
 https://www.netify.ai/resources/applications/apple-updates
 
 https://github.com/drduh/macOS-Security-and-Privacy-Guide

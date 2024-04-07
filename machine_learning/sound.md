@@ -216,6 +216,8 @@ https://github.com/collabora/WhisperSpeech
 https://news.ycombinator.com/item?id=39720049
 
 # News
+https://news.ycombinator.com/item?id=39861578
+
 https://github.com/DoMusic/Hybrid-Net Real-time audio source separation, generate lyrics, chords, beat
 > https://news.ycombinator.com/item?id=39827127
 

@@ -20,3 +20,5 @@ https://github.com/jqnatividad/qsv
 
 https://github.com/YS-L/csvlens
 > https://news.ycombinator.com/item?id=38889820
+
+https://news.ycombinator.com/item?id=39867412

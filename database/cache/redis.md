@@ -42,3 +42,8 @@ https://philbooth.me/blog/four-ways-to-shoot-yourself-in-the-foot-with-redis
 
 https://github.com/mozilla/sccache
 > https://news.ycombinator.com/item?id=38732717
+
+https://news.ycombinator.com/item?id=39858144
+
+https://thenewstack.io/linux-foundation-forks-the-open-source-redis-as-valkey/
+

@@ -1,3 +1,11 @@
+https://www.bleepingcomputer.com/news/security/shopping-platform-pandabuy-data-leak-impacts-13-million-users/
+
+https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification.html#
+
+https://www.bleepingcomputer.com/news/security/india-rescues-250-citizens-enslaved-by-cambodian-cybercrime-gang/
+
+https://news.ycombinator.com/item?id=39844439
+
 https://www.theregister.com/2024/03/28/japan_nk_arrests/
 
 https://www.theregister.com/2024/03/28/stonebraker_dbos/

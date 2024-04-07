@@ -389,6 +389,8 @@ https://lobste.rs/s/9jc7qb/hackers_can_read_private_ai_assistant
 https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data
 
 # Incident
+https://www.bleepingcomputer.com/news/security/surveylama-data-breach-exposes-info-of-44-million-users/
+
 https://borncity.com/win/2024/03/23/stop-disable-the-scanning-of-documents-by-adobe-ai-solutions/
 
 https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/
@@ -529,6 +531,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=39858219
+
 https://news.ycombinator.com/item?id=39852219
 
 https://news.ycombinator.com/item?id=39841618

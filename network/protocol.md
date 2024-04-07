@@ -12,6 +12,9 @@ https://twobithistory.org/2021/03/08/arpanet-protocols.html
 > https://news.ycombinator.com/item?id=34637863
 
 # News
+https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/
+> https://news.ycombinator.com/item?id=39962349
+
 https://news.ycombinator.com/item?id=39589282
 
 https://quic.video/blog/never-use-datagrams/

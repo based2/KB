@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=39959946
+
 https://danlark.org/2023/06/06/csinc-the-arm-instruction-you-didnt-know-you-wanted/
 > https://news.ycombinator.com/item?id=36223283
 

@@ -231,6 +231,8 @@ https://github.com/michelp/metagration
 
 https://www.crunchydata.com/blog/postgres-migration-pitstop-collations
 
+https://news.ycombinator.com/item?id=39860769
+
 # HA
 https://dzone.com/articles/managing-high-availability-in-postgresql-part-i
 

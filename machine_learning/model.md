@@ -215,6 +215,10 @@ https://news.ycombinator.com/item?id=39713634
 https://news.ycombinator.com/item?id=39852118
 
 # News
+https://news.ycombinator.com/item?id=39959790
+
+https://news.ycombinator.com/item?id=39849644
+
 https://github.com/xai-org/grok-1
 
 https://www.maginative.com/article/ai21-labs-unveils-jamba-the-first-production-grade-mamba-based-ai-model/

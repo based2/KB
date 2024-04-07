@@ -62,6 +62,9 @@ https://h0mbre.github.io/kCTF_Data_Only_Exploit/#
 https://vigilance.fr/vulnerabilite/runc-elevation-de-privileges-via-libcontainer-rootfs-linux-go-40882
 
 # News
+https://en.wikipedia.org/wiki/FRRouting
+> https://linuxfr.org/news/frr-dans-cloonix-dans-podman network
+
 https://lobste.rs/s/akowgz/pack_new_container_format_for_compressed
 
 https://news.ycombinator.com/item?id=39793805

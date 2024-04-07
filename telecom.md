@@ -144,6 +144,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://www.bleepingcomputer.com/news/security/google-fixes-two-pixel-zero-day-flaws-exploited-by-forensics-firms/
+
 https://news.ycombinator.com/item?id=39838725
 
 https://news.ycombinator.com/item?id=39792182
@@ -246,6 +248,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=39864107
+
 https://news.ycombinator.com/item?id=39800234
 
 https://news.ycombinator.com/item?id=39770249

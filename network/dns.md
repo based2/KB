@@ -84,6 +84,11 @@ https://sec-consult.com/blog/detail/taking-over-a-country-kaminsky-style/
 
 https://decoded.avast.io/threatintel/opening-a-new-front-against-dns-based-threats/
 
+https://ironsides.martincarlisle.com/ICRST2013.pdf
+
+https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html
+> https://news.ycombinator.com/item?id=39960125
+
 # Incident
 https://www.bleepingcomputer.com/news/security/savvy-seahorse-gang-uses-dns-cname-records-to-power-investor-scams/
 

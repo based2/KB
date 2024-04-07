@@ -16,3 +16,5 @@ https://news.ycombinator.com/item?id=39392104
 https://news.ycombinator.com/item?id=39575264
 
 https://news.ycombinator.com/item?id=39602093
+
+https://blog.research.google/2024/03/autobnn-probabilistic-time-series.html?m=1

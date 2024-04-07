@@ -28,6 +28,12 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://www.bleepingcomputer.com/news/security/hosting-firms-vmware-esxi-servers-hit-by-new-sexi-ransomware/
+
+https://www.bleepingcomputer.com/news/security/new-http-2-dos-attack-can-crash-web-servers-with-a-single-connection/
+
+https://www.bleepingcomputer.com/news/security/over-92-000-exposed-d-link-nas-devices-have-a-backdoor-account/
+
 https://www.mobile-hacker.com/2024/03/22/bluetooth-vulnerability-allows-unauthorized-user-to-record-and-play-audio-on-bluetooth-speakers/
 > https://old.reddit.com/r/netsec/comments/1bkul5t/bluetooth_vulnerability_allows_unauthorized_user/
 
