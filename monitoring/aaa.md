@@ -120,6 +120,8 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/grafana/loki/releases/tag/v3.0.0
+
 https://news.ycombinator.com/item?id=39835488 DNS
 
 https://github.com/TracecatHQ/tracecat

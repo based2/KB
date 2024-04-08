@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://zengm.com/facesjs/
+> https://news.ycombinator.com/item?id=39954422
+
 https://txstc55.github.io/ugly-avatar/
 > https://news.ycombinator.com/item?id=39813560
 

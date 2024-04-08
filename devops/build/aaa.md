@@ -6,6 +6,9 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://www.microsoft.com/en-us/research/uploads/prod/2020/04/build-systems-jfp.pdf
+> https://news.ycombinator.com/item?id=39968887
+
 https://github.com/jgrahamc/gmsl/blob/main/changelog.md
 
 https://news.ycombinator.com/item?id=39784784

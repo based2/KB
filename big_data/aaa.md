@@ -316,6 +316,8 @@ https://news.ycombinator.com/item?id=38310502 bi
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=39964635
+
 https://ubix-linux.sourceforge.io/
 
 https://news.ycombinator.com/item?id=39771878 R

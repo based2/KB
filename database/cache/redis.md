@@ -47,3 +47,5 @@ https://news.ycombinator.com/item?id=39858144
 
 https://thenewstack.io/linux-foundation-forks-the-open-source-redis-as-valkey/
 
+https://news.ycombinator.com/item?id=39950955
+

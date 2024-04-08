@@ -214,7 +214,14 @@ https://news.ycombinator.com/item?id=39713634
 
 https://news.ycombinator.com/item?id=39852118
 
+https://news.ycombinator.com/item?id=39972800
+
 # News
+https://news.ycombinator.com/item?id=39946763
+
+https://github.com/karpathy/llm.c
+> https://news.ycombinator.com/item?id=39973467
+
 https://news.ycombinator.com/item?id=39959790
 
 https://news.ycombinator.com/item?id=39849644

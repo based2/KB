@@ -53,6 +53,10 @@ https://dundalek.com/grammkit/
 https://news.ycombinator.com/item?id=35224439
 
 #
+https://news.ycombinator.com/item?id=39955944 erd
+
+https://arxiv.org/abs/2404.02679
+
 https://news.ycombinator.com/item?id=39798115
 
 https://news.ycombinator.com/item?id=39491889

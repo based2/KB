@@ -26,6 +26,8 @@ https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
   
 # News
+https://news.ycombinator.com/item?id=39966869
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-again-bothers-chrome-users-with-bing-popup-ads-in-windows/
 
 https://news.ycombinator.com/item?id=39620060

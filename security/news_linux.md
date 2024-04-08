@@ -44,6 +44,12 @@ https://xz.fail/
 https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094
 > https://www.bleepingcomputer.com/news/security/new-xz-backdoor-scanner-detects-implant-in-any-linux-binary/
 
+https://news.ycombinator.com/item?id=39956455
+
+https://old.reddit.com/r/netsec/comments/1bt8vx9/xzbot_exploit_demo_for_the_xz_backdoor_cve20243094/
+
+https://old.reddit.com/r/netsec/comments/1bquxnm/osssecurity_backdoor_in_upstream_xzliblzma/
+
 https://www.openwall.com/lists/oss-security/2024/03/29/4 Backdoor in upstream xz/liblzma leading to SSH server compromise
 > https://news.ycombinator.com/item?id=39865810
 

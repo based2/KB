@@ -35,6 +35,8 @@ https://arstechnica.com/security/2024/01/71-million-passwords-for-facebook-coinb
 > https://news.ycombinator.com/item?id=39041106
 
 # News
+https://news.ycombinator.com/item?id=39969255
+
 https://news.ycombinator.com/item?id=39329383
 
 https://www.wired.com/story/stopped-using-passwords-passkeys/

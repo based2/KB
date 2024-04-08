@@ -135,6 +135,8 @@ https://sequoia-pgp.org/blog/2022/03/24/202203-octopus-1.2.2/
 https://resend.com/blog/email-authentication-a-developers-guide
 > https://news.ycombinator.com/item?id=37263708
 
+https://lutrasecurity.com/en/articles/kobold-letters/
+
 ## DKIM
 D0. https://datatracker.ietf.org/wg/dkim/documents/ DomainKeys Identified Mail (DKIM) Signatures
 > Errata: Updated by rfc8301, rfc8463, rfc8553, rfc8616

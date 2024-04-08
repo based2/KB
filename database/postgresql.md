@@ -294,6 +294,8 @@ https://github.com/CrunchyData/postgres-operator
 
 https://github.com/justinclift/docker-pgautoupgrade
 
+https://news.ycombinator.com/item?id=39960537 open-sourced the in-memory PostgreSQL I built at work for E2E tests
+
 ## K8s
 https://stackgres.io/
 > https://news.ycombinator.com/item?id=28865432
@@ -340,6 +342,11 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://leontrolski.github.io/pglockpy.html
+
+https://tembo.io/blog/managed-postgres-rust
+> https://news.ycombinator.com/item?id=39967199
+
 https://github.com/Florents-Tselai/pgJQ
 
 https://news.ycombinator.com/item?id=39741956

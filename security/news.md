@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=39952954
+
+https://news.ycombinator.com/item?id=39954149
+
+https://www.bleepingcomputer.com/news/security/notepad-plus-plus-wants-your-help-in-parasite-website-shutdown/
+
 https://www.bleepingcomputer.com/news/security/shopping-platform-pandabuy-data-leak-impacts-13-million-users/
 
 https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification.html#

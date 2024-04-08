@@ -1,5 +1,7 @@
 https://en.wikipedia.org/wiki/Kerberos_(protocol)
 
+https://www.imperialviolet.org/2024/04/07/letskerberos.html
+
 https://www.intrinsec.com/kerberos_opsec_part_1_kerberoasting/
 
 https://attl4s.github.io/assets/pdf/You_do_(not)_Understand_Kerberos_Delegation.pdf

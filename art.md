@@ -48,6 +48,8 @@ https://david.li/paint/
 > https://news.ycombinator.com/item?id=27577460
 
 # News
+https://thewalrus.ca/norval-morrisseau/
+
 https://lostpixels.io/writings/building-interactive-plotter-art
 > https://news.ycombinator.com/item?id=39841449
 

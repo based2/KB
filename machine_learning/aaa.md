@@ -531,6 +531,14 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=39966152
+
+https://news.ycombinator.com/item?id=39961982
+
+https://news.ycombinator.com/item?id=39959228
+
+https://news.ycombinator.com/item?id=39952736
+
 https://news.ycombinator.com/item?id=39858219
 
 https://news.ycombinator.com/item?id=39852219

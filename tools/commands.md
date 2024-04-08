@@ -53,6 +53,8 @@ https://drew.shoes/posts/sup/ net send win
 > https://news.ycombinator.com/item?id=34157636
 
 # News
+https://news.ycombinator.com/item?id=39958302
+
 https://news.ycombinator.com/item?id=39833403 sudo
 
 https://news.ycombinator.com/item?id=39772533
