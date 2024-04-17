@@ -135,6 +135,10 @@ https://www.zdnet.com/article/google-rolls-out-a-unified-security-vulnerability-
 
 # Events
 ## 2024
+BatBadBut
+
+xz backdoor
+
 KeyTrap DNSSEC vulnerability
 
 PixieFall

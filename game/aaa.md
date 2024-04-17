@@ -33,6 +33,10 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 https://news.ycombinator.com/item?id=38612164 role
 
 # News
+https://news.ycombinator.com/item?id=40006697
+
+https://news.ycombinator.com/item?id=39972586
+
 https://news.ycombinator.com/item?id=39773641
 
 https://github.com/gorisanson/pikachu-volleyball

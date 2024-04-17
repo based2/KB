@@ -210,6 +210,8 @@ https://without.boats/blog/a-four-year-plan/
 
 https://hegdenu.net/posts/debugging-tokio-instrumentation/
 
+https://news.ycombinator.com/item?id=39981945
+
 # Type - effect
 https://without.boats/blog/the-problem-of-effects/
 > https://news.ycombinator.com/item?id=28326106
@@ -498,6 +500,8 @@ https://twitter.com/graydon_pub/status/1492634815748739077
 > https://news.ycombinator.com/item?id=30321747
 
 # Incident
+https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/ windows
+
 https://blog.phylum.io/rust-malware-staged-on-crates-io/
 > https://news.ycombinator.com/item?id=37259786
 
@@ -514,6 +518,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=39988676
+
 https://dioxuslabs.com/blog/release-050/
 > https://news.ycombinator.com/item?id=39852167
 

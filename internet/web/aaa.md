@@ -190,6 +190,8 @@ https://buddypond.com
 https://github.com/Demindiro/agreper
 
 # News
+https://news.ycombinator.com/item?id=40003743
+
 https://news.ycombinator.com/item?id=38779443 CGI
 
 https://defector.com/the-last-page-of-the-internet

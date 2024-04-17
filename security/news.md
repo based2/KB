@@ -1,4 +1,12 @@
-https://news.ycombinator.com/item?id=39952954
+https://lobste.rs/s/wfq06v/zksnarks_zkstarks_novel_verifiable
+
+https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/
+
+https://news.ycombinator.com/item?id=39980750
+
+https://news.ycombinator.com/item?id=39991173
+
+ttps://news.ycombinator.com/item?id=39952954
 
 https://news.ycombinator.com/item?id=39954149
 

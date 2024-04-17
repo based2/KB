@@ -132,6 +132,10 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=40026552
+
+https://news.ycombinator.com/item?id=39997127
+
 https://news.ycombinator.com/item?id=39968103
 
 https://github.com/ClickHouse/reversedns.space/

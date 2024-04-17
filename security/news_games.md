@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=39977862
+
 https://old.reddit.com/r/netsec/comments/1bwkwut/galactical_bug_hunting_how_we_discovered_new/
 
 https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-28916

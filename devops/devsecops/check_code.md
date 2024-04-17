@@ -7,3 +7,5 @@ https://pypi.org/project/pip-audit/
 https://github.com/NASA-SW-VnV/ikos/discussions/253
 
 https://www.shellcheck.net/
+
+https://news.ycombinator.com/item?id=40001194 python

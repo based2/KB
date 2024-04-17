@@ -45,6 +45,8 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://news.ycombinator.com/item?id=39975887
+
 https://news.ycombinator.com/item?id=39966918
 
 https://xd1.dev/2024/03/hyprland-crash-course

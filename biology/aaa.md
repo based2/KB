@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=39348902
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://news.ycombinator.com/item?id=39974646
+
 https://news.ycombinator.com/item?id=39777229
 
 https://news.ycombinator.com/item?id=39709912

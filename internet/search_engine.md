@@ -44,6 +44,10 @@ https://beta.sayhello.so/
 
 https://news.ycombinator.com/item?id=38637652
 
+https://news.ycombinator.com/item?id=39993976
+
+https://news.ycombinator.com/item?id=39996743
+
 # Images
 https://github.com/emnh/PixelArtSearch/blob/master/README.md
 > https://news.ycombinator.com/item?id=26738006
@@ -95,6 +99,10 @@ https://github.com/benbusby/whoogle-search
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://news.ycombinator.com/item?id=40004741
+
+https://news.ycombinator.com/item?id=40004741
+
 https://news.ycombinator.com/item?id=39948044
 
 https://news.ycombinator.com/item?id=39799752

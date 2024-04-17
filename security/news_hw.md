@@ -10,6 +10,12 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://news.ycombinator.com/item?id=40016468
+
+https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/
+
+https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-impacts-linux-systems-on-intel-cpus/
+
 https://comsec.ethz.ch/research/dram/zenhammer/
 > https://news.ycombinator.com/item?id=39819599
 

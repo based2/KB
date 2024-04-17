@@ -115,6 +115,8 @@ https://news.ycombinator.com/item?id=34387681 Barracuda VPN on Linux permanently
 https://www.fortinet.com/blog/psirt-blogs/analysis-of-fg-ir-22-398-fortios-heap-based-buffer-overflow-in-sslvpnd
 
 # News
+https://news.ycombinator.com/item?id=40010047
+
 https://news.ycombinator.com/item?id=39953207
 
 https://news.ycombinator.com/item?id=39718389
@@ -132,7 +134,6 @@ https://www.microsoft.com/en-us/research/project/post-quantum-crypto-vpn/
 https://windscribe.com/vpnmap
 
 https://www.netmaker.io/
->
 
 https://blog.torproject.org/releasing-mullvad-browser/
 > https://news.ycombinator.com/item?id=37159744

@@ -105,6 +105,10 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=40011100
+
+https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html
+
 https://news.ycombinator.com/item?id=39769225
 
 https://news.ycombinator.com/item?id=39701785

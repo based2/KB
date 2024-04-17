@@ -176,6 +176,9 @@ https://news.ycombinator.com/item?id=39486717
 https://news.ycombinator.com/item?id=39534856
 
 # News
+https://github.com/auchenberg/volkswagen
+> https://news.ycombinator.com/item?id=39979609
+
 https://testing.googleblog.com/2024/02/increase-test-fidelity-by-avoiding-mocks.html
 > https://old.reddit.com/r/programming/comments/1b6b6rg/increase_test_fidelity_by_avoiding_mocks/
 

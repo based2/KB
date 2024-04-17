@@ -73,6 +73,8 @@ https://queue.acm.org/detail.cfm?id=3501713
 https://news.ycombinator.com/item?id=38496827
 
 # News
+https://news.ycombinator.com/item?id=40016413
+
 https://geraldonit.com/2024/01/31/1-billion-row-challenge-in-sql-and-oracle-database/
 
 https://news.ycombinator.com/item?id=39475467

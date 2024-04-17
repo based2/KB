@@ -199,6 +199,8 @@ https://ai-sandbox.list.lu/llm-leaderboard/
 
 https://news.ycombinator.com/item?id=39842116
 
+https://github.com/Giskard-AI/giskard
+
 # Meta
 https://blog.j11y.io/2023-11-22_multifaceted/
 > https://news.ycombinator.com/item?id=38501589
@@ -217,6 +219,22 @@ https://news.ycombinator.com/item?id=39852118
 https://news.ycombinator.com/item?id=39972800
 
 # News
+https://news.ycombinator.com/item?id=40024765
+
+https://news.ycombinator.com/item?id=40014558
+
+https://news.ycombinator.com/item?id=39993626
+
+https://news.ycombinator.com/item?id=39986095
+
+https://news.ycombinator.com/item?id=40004887
+
+https://news.ycombinator.com/item?id=39977862
+
+https://news.ycombinator.com/item?id=39974374
+
+https://news.ycombinator.com/item?id=39993626
+
 https://news.ycombinator.com/item?id=39946763
 
 https://github.com/karpathy/llm.c

@@ -38,11 +38,21 @@ https://github.com/secureblue/secureblue fedora
 https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac6029309e4f
 > https://news.ycombinator.com/item?id=39165342
 
+https://news.ycombinator.com/item?id=40014724
+
 # News
 https://xz.fail/
 
 https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094
 > https://www.bleepingcomputer.com/news/security/new-xz-backdoor-scanner-detects-implant-in-any-linux-binary/
+
+https://gist.github.com/christoofar/880b4bcf3018f4681bb71bfdf1c16a6a
+
+https://news.ycombinator.com/item?id=40007985
+
+https://news.ycombinator.com/item?id=40018925
+
+https://news.ycombinator.com/item?id=40017310
 
 https://news.ycombinator.com/item?id=39956455
 

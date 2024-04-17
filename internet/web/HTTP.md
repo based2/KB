@@ -205,6 +205,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://news.ycombinator.com/item?id=39996521
+
 https://potato.cheap/
 > https://news.ycombinator.com/item?id=38681437
 

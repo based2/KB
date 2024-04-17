@@ -28,6 +28,8 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/
+
 https://www.bleepingcomputer.com/news/security/hosting-firms-vmware-esxi-servers-hit-by-new-sexi-ransomware/
 
 https://www.bleepingcomputer.com/news/security/new-http-2-dos-attack-can-crash-web-servers-with-a-single-connection/

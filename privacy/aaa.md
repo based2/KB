@@ -107,6 +107,10 @@ https://www.numerama.com/politique/1511774-le-gouvernement-envisage-de-prolonger
 https://linuxfr.org/users/oinska/journaux/ou-il-est-question-de-donnees-personnelles-bis
 
 # News
+https://news.ycombinator.com/item?id=40017199
+
+https://news.ycombinator.com/item?id=40006508
+
 https://www.iccl.ie/digital-data/europes-hidden-security-crisis/
 > https://linuxfr.org/news/les-encheres-en-temps-reel-un-danger-pour-la-vie-privee-mais-aussi-pour-la-securite-europeenne
 

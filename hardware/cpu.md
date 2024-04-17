@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=40011464
+
+https://news.ycombinator.com/item?id=39978577
+
 https://www.tomshardware.com/pc-components/cpus/half-of-russian-made-chips-are-defective-baikal-struggles-to-meet-russias-demand
 
 https://www.reuters.com/world/china/china-blocks-use-intel-amd-chips-government-computers-ft-reports-2024-03-24/

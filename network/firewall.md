@@ -49,6 +49,10 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 #
+https://news.ycombinator.com/item?id=40016985
+
+https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-firewall-zero-day-used-in-attacks/
+
 https://news.ycombinator.com/item?id=39638150
 
 https://www.theregister.com/2024/02/09/a_look_at_fortinet_week/
@@ -74,6 +78,8 @@ CVE-2023-28771 CVE-2023-33009 CVE-2023-33010 Zyxel
 https://vulncheck.ai/blog/new-cve-2022-1388
 
 # News
+https://news.ycombinator.com/item?id=40007120
+
 https://ahelwer.ca/post/2018-02-13-z3-firewall/
 > https://github.com/Z3Prover/FirewallChecker
 

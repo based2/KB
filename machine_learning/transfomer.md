@@ -20,6 +20,8 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://news.ycombinator.com/item?id=40001193
+
 https://news.ycombinator.com/item?id=39955677
 
 https://arxiv.org/abs/2404.02258 Mixture-of-Depths: Dynamically allocating compute in transformers

@@ -233,6 +233,8 @@ https://code-held.com/2022/07/28/microservices/
 
 https://news.ycombinator.com/item?id=38404905
 
+https://news.ycombinator.com/item?id=40010606
+
 # Serverless - functions
 
 # APIs

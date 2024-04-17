@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=39976225
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-deprecation-of-1024-bit-rsa-keys-in-windows/
 
 https://drgn.readthedocs.io/en/latest/case_studies/dm_crypt_key.html

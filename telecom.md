@@ -144,6 +144,8 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/
+
 https://www.bleepingcomputer.com/news/security/google-fixes-two-pixel-zero-day-flaws-exploited-by-forensics-firms/
 
 https://news.ycombinator.com/item?id=39838725

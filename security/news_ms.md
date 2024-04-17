@@ -1,6 +1,13 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/
+> https://news.ycombinator.com/item?id=39983661
+
+https://news.ycombinator.com/item?id=39988415
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2024-patch-tuesday-fixes-150-security-flaws-67-rces/
+
 https://www.bleepingcomputer.com/news/security/microsoft-still-unsure-how-hackers-stole-msa-key-in-2023-exchange-attack/
 
 https://www.bleepingcomputer.com/news/security/cisa-tags-microsoft-sharepoint-rce-bug-as-actively-exploited/

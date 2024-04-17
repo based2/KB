@@ -86,6 +86,9 @@ https://www.i-programmer.info/news/84-database/14855-a-deep-dive-into-postgresql
 https://blog.crunchydata.com/blog/postgres-indexes-for-newbies
 > https://news.ycombinator.com/item?id=30001964
 
+https://github.com/supabase/index_advisor
+> https://news.ycombinator.com/item?id=40028111
+
 ## Analysis
 https://blog.crunchydata.com/blog/get-started-with-explain-analyze
 
@@ -342,6 +345,8 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://news.ycombinator.com/item?id=39965028
+
 https://leontrolski.github.io/pglockpy.html
 
 https://tembo.io/blog/managed-postgres-rust
