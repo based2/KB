@@ -58,6 +58,10 @@ https://www.beren.io/2022-08-06-The-scale-of-the-brain-vs-machine-learning/
 > https://news.ycombinator.com/item?id=38731743
 
 # News
+https://news.ycombinator.com/item?id=40080911
+
+https://pieeg.com/products/
+
 https://news.ycombinator.com/item?id=39219953
 
 https://news.ycombinator.com/item?id=39142149

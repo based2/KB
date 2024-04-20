@@ -212,3 +212,6 @@ https://www.unite.ai/disney-combines-cgi-with-neural-rendering-to-tackle-the-unc
 
 https://ternaus.blog/story/2021/12/15/Albumentations.html
 > https://albumentations.ai/
+
+https://www.microsoft.com/en-us/research/project/vasa-1/
+> https://news.ycombinator.com/item?id=40071858

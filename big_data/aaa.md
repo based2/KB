@@ -312,6 +312,8 @@ https://writings.stephenwolfram.com/2023/06/introducing-chat-notebooks-integrati
 
 https://news.ycombinator.com/item?id=38310502 bi
 
+https://news.ycombinator.com/item?id=40078894 visu
+
 #
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 

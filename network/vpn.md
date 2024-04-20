@@ -91,6 +91,8 @@ https://www.reuters.com/technology/expressvpn-employees-complain-about-ex-spys-t
 https://www.ic3.gov/Media/News/2021/211117-2.pdf fatpipe vpn
 
 # I
+https://www.bleepingcomputer.com/news/security/cisco-discloses-root-escalation-flaw-with-public-exploit-code/
+
 https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement?hl=en
 > https://www.bleepingcomputer.com/news/security/new-ivanti-rce-flaw-may-impact-16-000-exposed-vpn-gateways/
 

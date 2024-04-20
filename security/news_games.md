@@ -1,3 +1,8 @@
+https://github.com/spawnmason/randar-explanation/blob/master/README.md Randar: A Minecraft exploit that uses LLL lattice reduction to crack server RNG
+> https://news.ycombinator.com/item?id=40067857
+
+https://www.bitdefender.com/blog/hotforsecurity/apex-legends-hacker-confirms-that-developers-fixed-the-game/
+
 https://news.ycombinator.com/item?id=39977862
 
 https://old.reddit.com/r/netsec/comments/1bwkwut/galactical_bug_hunting_how_we_discovered_new/

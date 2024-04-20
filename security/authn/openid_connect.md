@@ -26,6 +26,8 @@ https://vigilance.fr/vulnerability/Keycloak-Cross-Site-Scripting-via-OIDC-Redire
 https://vigilance.fr/vulnerabilite/mod-auth-openidc-redirection-via-Logout-Parameter-40178
 
 #
+https://news.ycombinator.com/item?id=40054263
+
 https://blog.digger.dev/how-open-id-connect-works-illustrated/
 > https://news.ycombinator.com/item?id=38868610
 

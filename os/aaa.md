@@ -25,6 +25,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract Lions OS: secure – fast – adaptable
+> https://news.ycombinator.com/item?id=40072731
+
 https://www.qubes-os.org/news/2024/03/26/qubes-os-4-2-1-has-been-released/
 > https://news.ycombinator.com/item?id=39833245
 

@@ -3538,7 +3538,7 @@ block from any to 45.95.169.103
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 45.95.169.135
 # DNS https://red.flag.domains/posts/2024-03-17/ registrar: KEY-SYSTEMS GmbH espace-ameli[.fr]
-block from any to 45.95.232.0/2
+block from any to 45.95.232.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 45.112.205.126
 # https://github.com/eset/malware-ioc/tree/master/evasive_panda

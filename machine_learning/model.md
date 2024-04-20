@@ -46,6 +46,9 @@ https://nightshade.cs.uchicago.edu/whatis.html
 > https://glaze.cs.uchicago.edu/what-is-glaze.html
 
 # llama Facebook - Forbids commercial use, weights required
+https://llama.meta.com/llama3/ v3
+> https://news.ycombinator.com/item?id=40077533
+
 https://ai.meta.com/llama/ v2
 > https://news.ycombinator.com/item?id=36774627
 
@@ -218,7 +221,19 @@ https://news.ycombinator.com/item?id=39852118
 
 https://news.ycombinator.com/item?id=39972800
 
+https://news.ycombinator.com/item?id=40054901
+
+https://news.ycombinator.com/item?id=40068170
+
 # News
+https://news.ycombinator.com/item?id=40064736 Mixtral 8x22B
+
+https://news.ycombinator.com/item?id=40067677
+
+https://news.ycombinator.com/item?id=40083109
+
+https://news.ycombinator.com/item?id=40092710
+
 https://news.ycombinator.com/item?id=40024765
 
 https://news.ycombinator.com/item?id=40014558

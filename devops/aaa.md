@@ -114,6 +114,12 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.mcafee.com/blogs/other-blogs/mcafee-labs/redline-stealer-a-novel-approach/
+> https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/
+
+# https://viz.greynoise.io/tags/palo-alto-pan-os-cve-2024-3400-rce-attempt?days=10
+# https://threatfox.abuse.ch/browse/malware/win.lumma/ productivelookewr(.)shop
+
 https://www.theregister.com/2024/03/28/jetbrains_fixes_26_security_problems/
 
 https://www.errno.fr/bruteforcing_CVE-2024-23897.html jenkins

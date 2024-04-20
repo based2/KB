@@ -86,3 +86,5 @@ https://webrtcforthecurious.com/
 > https://news.ycombinator.com/item?id=38875542
 
 https://datatracker.ietf.org/wg/moq/about/ Media over Quic
+
+https://news.ycombinator.com/item?id=40083641

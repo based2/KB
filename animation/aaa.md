@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://news.ycombinator.com/item?id=40086793
+
 https://zengm.com/facesjs/
 > https://news.ycombinator.com/item?id=39954422
 

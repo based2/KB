@@ -44,6 +44,9 @@ https://github.com/simonepri/geo-maps
 https://maplibre.org/
 > https://news.ycombinator.com/item?id=27605656
 
+https://www.dbreunig.com/2024/04/18/a-poi-database-in-one-line.html
+> https://news.ycombinator.com/item?id=40080794
+
 # index
 https://h3geo.org/ Hexagonal hierarchical geospatial indexing system
 > https://news.ycombinator.com/item?id=28540393

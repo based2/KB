@@ -2,6 +2,9 @@ https://www.mlyearning.org/
 
 https://mlu-explain.github.io/
 
+https://jalammar.github.io/illustrated-word2vec/
+> https://news.ycombinator.com/item?id=40075813
+
 https://www.enisa.europa.eu/news/artificial-intelligence-how-to-make-machine-learning-cyber-secure
 
 https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles
@@ -327,6 +330,8 @@ https://news.ycombinator.com/item?id=36347229
 https://matt.might.net/articles/hello-perceptron/
 > https://news.ycombinator.com/item?id=36350655
 
+https://news.ycombinator.com/item?id=40069298
+
 # Detextion
 https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
@@ -533,6 +538,14 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=40078380
+
+https://news.ycombinator.com/item?id=40071843 Elixir
+
+https://news.ycombinator.com/item?id=40097974
+
+https://news.ycombinator.com/item?id=40093159
+
 https://news.ycombinator.com/item?id=39966152
 
 https://news.ycombinator.com/item?id=39961982

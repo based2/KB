@@ -1,3 +1,6 @@
+https://github.com/facebookexperimental/hermit
+> https://news.ycombinator.com/item?id=40076848
+
 https://lobste.rs/s/wfq06v/zksnarks_zkstarks_novel_verifiable
 
 https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/

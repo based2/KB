@@ -199,6 +199,9 @@ https://ruoyusun.com/2022/01/28/game-pref.html
 https://arxiv.org/abs/2301.08941
 > https://news.ycombinator.com/item?id=34500973
 
+https://github.com/plasma-umass/coz
+> https://news.ycombinator.com/item?id=40083869
+
 # Microservice
 https://microservices.io/patterns/
 > https://news.ycombinator.com/item?id=16014278

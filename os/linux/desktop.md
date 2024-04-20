@@ -26,6 +26,8 @@ https://github.com/codic12/worm nim x11
 
 https://leftwm.org/
 
+https://news.ycombinator.com/item?id=40063908
+
 # X11
 https://x11cp.org/
 > https://news.ycombinator.com/item?id=34124992

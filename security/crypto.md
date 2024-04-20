@@ -193,6 +193,9 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://blog.cryptographyengineering.com/2024/04/16/a-quick-post-on-chens-algorithm/
+> https://news.ycombinator.com/item?id=40056640
+
 https://news.ycombinator.com/item?id=39796349
 
 https://news.ycombinator.com/item?id=39672583

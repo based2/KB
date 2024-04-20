@@ -20,6 +20,8 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://news.ycombinator.com/item?id=40096113
+
 https://news.ycombinator.com/item?id=39265756
 
 https://news.ycombinator.com/item?id=39027543

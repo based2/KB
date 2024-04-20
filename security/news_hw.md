@@ -10,6 +10,8 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://news.ycombinator.com/item?id=40096253 Do not buy a Hisense TV (or at least keep them offline)
+
 https://news.ycombinator.com/item?id=40016468
 
 https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/

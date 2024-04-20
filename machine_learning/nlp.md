@@ -9,6 +9,8 @@ https://github.com/winkjs/wink-nlp
 > https://news.ycombinator.com/item?id=33734147
 
 # News
+https://massimo-nazaria.github.io/nlp.html bash
+
 https://lena-voita.github.io/nlp_course.html
 
 https://nlpnewsletter.substack.com/p/nlp-research-in-the-era-of-llms

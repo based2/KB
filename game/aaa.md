@@ -18,6 +18,8 @@ https://en.wikipedia.org/wiki/RenderWare
 
 https://jvm-gaming.org/
 
+https://en.wikipedia.org/wiki/Metal_Slug
+
 # ML
 https://news.ycombinator.com/item?id=38307889
 
@@ -32,7 +34,16 @@ https://news.ycombinator.com/item?id=38407521 diplomacy
 
 https://news.ycombinator.com/item?id=38612164 role
 
+https://talktomehuman.com/
+> https://news.ycombinator.com/item?id=40091379
+
 # News
+https://news.ycombinator.com/item?id=40092627
+
+https://news.ycombinator.com/item?id=40088751
+
+https://news.ycombinator.com/item?id=40076345
+
 https://news.ycombinator.com/item?id=40006697
 
 https://news.ycombinator.com/item?id=39972586

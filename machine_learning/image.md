@@ -393,6 +393,11 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://news.ycombinator.com/item?id=40081194
+
+https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html
+> https://news.ycombinator.com/item?id=40061605
+
 https://news.ycombinator.com/item?id=39972036
 
 https://ai.meta.com/blog/segment-anything-foundation-model-image-segmentation/

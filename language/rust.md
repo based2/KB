@@ -518,6 +518,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=40081314
+
 https://news.ycombinator.com/item?id=39988676
 
 https://dioxuslabs.com/blog/release-050/

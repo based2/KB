@@ -17,6 +17,8 @@ https://docs.ragas.io/en/stable/
 > https://news.ycombinator.com/item?id=39780114
 
 #
+https://news.ycombinator.com/item?id=40093257
+
 https://news.ycombinator.com/item?id=39957081
 
 https://news.ycombinator.com/item?id=39673296
