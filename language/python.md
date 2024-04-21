@@ -328,6 +328,8 @@ https://fly.io/blog/standout-features-in-django-4-2/
 
 https://news.ycombinator.com/item?id=39732932
 
+https://news.ycombinator.com/item?id=40054531
+
 # Interop
 https://news.ycombinator.com/item?id=35651791 go
 

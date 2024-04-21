@@ -314,10 +314,16 @@ https://news.ycombinator.com/item?id=38310502 bi
 
 https://news.ycombinator.com/item?id=40078894 visu
 
+https://news.ycombinator.com/item?id=40099344
+
+https://news.ycombinator.com/item?id=40100824
+
 #
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://news.ycombinator.com/item?id=40103323
+
 https://news.ycombinator.com/item?id=39964635
 
 https://ubix-linux.sourceforge.io/

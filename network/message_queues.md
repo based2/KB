@@ -116,6 +116,8 @@ https://news.ycombinator.com/item?id=39315833
 https://hatchet.run/
 > https://news.ycombinator.com/item?id=39643136 dag
 
+https://news.ycombinator.com/item?id=40077233
+
 # MQTT
 https://github.com/eclipse/mosquitto C Python
 > https://news.ycombinator.com/item?id=28695346

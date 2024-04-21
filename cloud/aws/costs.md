@@ -51,3 +51,6 @@ https://aws.amazon.com/blogs/containers/amazon-eks-extended-support-for-kubernet
 
 https://tuananh.net/2024/01/21/cloud-cost-optimization-at-scale-part-1/
 > https://news.ycombinator.com/item?id=39091416
+
+https://www.fairwinds.com/blog/understanding-aws-end-of-service-life-is-a-key-finops-responsibility
+> https://news.ycombinator.com/item?id=40075316

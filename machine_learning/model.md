@@ -225,7 +225,17 @@ https://news.ycombinator.com/item?id=40054901
 
 https://news.ycombinator.com/item?id=40068170
 
+https://news.ycombinator.com/item?id=40099252
+
 # News
+https://news.ycombinator.com/item?id=40101692
+
+https://news.ycombinator.com/item?id=40067489
+
+https://news.ycombinator.com/item?id=40090774
+
+https://news.ycombinator.com/item?id=40092710
+
 https://news.ycombinator.com/item?id=40064736 Mixtral 8x22B
 
 https://news.ycombinator.com/item?id=40067677

@@ -133,3 +133,6 @@ https://odigos.io/blog/ebpf-instrumentation-faster-than-manual
 
 https://who.ldelossa.is/posts/ebpf-networking-technique-packet-redirection/
 > https://news.ycombinator.com/item?id=38720057
+
+http://arighi.blogspot.com/2018/12/linux-easy-keylogger-with-ebpf.html
+> https://news.ycombinator.com/item?id=40059648

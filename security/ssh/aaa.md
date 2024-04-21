@@ -130,6 +130,9 @@ https://github.com/MegaManSec/SSH-Snake
 > https://old.reddit.com/r/netsec/comments/18yoezv/sshsnake_automated_selfpropagating/
 
 # Incident
+https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html
+> https://news.ycombinator.com/item?id=40044665
+
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksAbruptlyDown
 > https://news.ycombinator.com/item?id=39488081
 
@@ -169,6 +172,8 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://news.ycombinator.com/item?id=40060901
+
 https://tinyssh.org/
 > https://news.ycombinator.com/item?id=39806139
 

@@ -50,6 +50,9 @@ https://martinfowler.com/articles/art-agile-foreword.html
 https://safedelusion.com/
 > https://news.ycombinator.com/item?id=33384577
 
+https://scaledagileframework.com/
+> https://news.ycombinator.com/item?id=40107916
+
 ## Scrum
 https://scrumguides.org/
 

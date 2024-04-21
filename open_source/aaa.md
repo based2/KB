@@ -257,6 +257,9 @@ src: https://www.zdnet.fr/blogs/l-esprit-libre/education-nationale-12-projets-nu
 https://libregraphicsmag.com/index.html
 
 # News
+https://mjtsai.com/blog/2024/04/19/vlc-vs-the-app-stores/
+> https://news.ycombinator.com/item?id=40098867
+
 https://news.ycombinator.com/item?id=39951587
 
 https://news.ycombinator.com/item?id=39518925

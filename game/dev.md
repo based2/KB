@@ -159,6 +159,8 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://news.ycombinator.com/item?id=40101007
+
 https://seriot.ch/projects/pschess.html
 
 https://www.lexaloffle.com/picotron.php

@@ -5,6 +5,8 @@ https://mlu-explain.github.io/
 https://jalammar.github.io/illustrated-word2vec/
 > https://news.ycombinator.com/item?id=40075813
 
+https://arxiv.org/abs/2108.02497 How to avoid machine learning pitfalls
+
 https://www.enisa.europa.eu/news/artificial-intelligence-how-to-make-machine-learning-cyber-secure
 
 https://www.fda.gov/medical-devices/software-medical-device-samd/good-machine-learning-practice-medical-device-development-guiding-principles
@@ -393,6 +395,9 @@ https://lobste.rs/s/9jc7qb/hackers_can_read_private_ai_assistant
 
 https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-access-to-accounts-on-third-party-websites-and-sensitive-data
 
+https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3741371/nsa-publishes-guidance-for-strengthening-ai-system-security/
+> https://news.ycombinator.com/item?id=40054811
+
 # Incident
 https://news.ycombinator.com/item?id=40001971
 
@@ -538,6 +543,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://github.com/neurallambda/awesome-reasoning
+
 https://news.ycombinator.com/item?id=40078380
 
 https://news.ycombinator.com/item?id=40071843 Elixir

@@ -1,3 +1,14 @@
+https://news.ycombinator.com/item?id=40101846
+
+https://news.ycombinator.com/item?id=40062987
+
+https://news.ycombinator.com/item?id=40101911
+
+https://www.theregister.com/2024/04/21/microsoft_national_security_risk/
+> https://news.ycombinator.com/item?id=40106639
+
+https://news.ycombinator.com/item?id=40106730
+
 https://github.com/facebookexperimental/hermit
 > https://news.ycombinator.com/item?id=40076848
 

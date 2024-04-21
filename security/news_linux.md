@@ -41,6 +41,10 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 https://news.ycombinator.com/item?id=40014724
 
 # News
+https://news.ycombinator.com/item?id=40053453
+
+https://news.ycombinator.com/item?id=40103188
+
 https://xz.fail/
 
 https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094

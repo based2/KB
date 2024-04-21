@@ -243,6 +243,8 @@ https://en.wikipedia.org/wiki/PostGIS
 https://organicmaps.app/
 
 # News
+https://news.ycombinator.com/item?id=40104774
+
 https://map.safecast.org/ Safecast Open Radiation and Air Quality Map
 > https://news.ycombinator.com/item?id=39803871
 

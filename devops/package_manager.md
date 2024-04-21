@@ -74,6 +74,8 @@ https://github.com/CuBeRJAN/nix-problems
 https://changelog.com/posts/nixos-fatal-flaw
 > https://news.ycombinator.com/item?id=38656382
 
+https://news.ycombinator.com/item?id=40057667
+
 #
 https://news.ycombinator.com/item?id=38255923
 

@@ -249,6 +249,11 @@ https://files.catbox.moe/p860p2.png
 > https://news.ycombinator.com/item?id=34730559
 
 # News
+https://blog.thunderbird.net/2024/04/adventures-in-rust-bringing-exchange-support-to-thunderbird/
+> https://news.ycombinator.com/item?id=40095870
+
+https://news.ycombinator.com/item?id=40101885
+
 https://github.com/postalserver/postal
 
 https://news.ycombinator.com/item?id=39446282

@@ -76,6 +76,8 @@ http://argonaut.io/doc/quickstart/ scala
 https://github.com/AykutSarac/jsoncrack.com
 
 # News
+https://news.ycombinator.com/item?id=40098606
+
 https://jsonlines.org/
 > https://news.ycombinator.com/item?id=39498129
 

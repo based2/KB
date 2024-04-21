@@ -86,6 +86,8 @@ https://news.ycombinator.com/item?id=39163181
 https://news.ycombinator.com/item?id=39391688
 
 # News
+https://news.ycombinator.com/item?id=40084964
+
 https://adaptivecards.io/
 > https://news.ycombinator.com/item?id=39294372
 

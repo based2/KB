@@ -74,6 +74,8 @@ https://cblgh.org/trustnet/
 > https://news.ycombinator.com/item?id=38590144
 
 # Incident
+https://news.ycombinator.com/item?id=40084667
+
 https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/
 
 https://news.ycombinator.com/item?id=39604590
