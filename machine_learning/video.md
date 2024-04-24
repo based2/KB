@@ -215,3 +215,6 @@ https://ternaus.blog/story/2021/12/15/Albumentations.html
 
 https://www.microsoft.com/en-us/research/project/vasa-1/
 > https://news.ycombinator.com/item?id=40071858
+
+https://videogigagan.github.io/
+> https://news.ycombinator.com/item?id=40130803

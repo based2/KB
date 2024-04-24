@@ -6,3 +6,6 @@ https://easylang.dev/apps/tutorial_mcarlo.html
 
 https://rls.sites.oasis.unc.edu/s890/evtclass.pdf
 > https://news.ycombinator.com/item?id=39089303
+
+https://www.elegantexperiments.net/en/post/length-and-thickness-of-bamboo-internodes-a-beautiful-curve/
+> https://news.ycombinator.com/item?id=40136130

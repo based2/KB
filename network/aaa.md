@@ -144,6 +144,9 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev
+> https://news.ycombinator.com/item?id=40141967
+
 https://gnet.host/
 > https://news.ycombinator.com/item?id=39707828
 

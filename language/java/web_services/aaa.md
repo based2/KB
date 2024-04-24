@@ -16,6 +16,9 @@ https://hazelcast.com/blog/contract-first-development-using-restassured-and-open
 
 https://openapi.tools/
 
+https://www.stainlessapi.com/blog/announcing-the-stainless-sdk-generator
+> https://news.ycombinator.com/item?id=40146505
+
 https://news.ycombinator.com/item?id=38012032
 
 https://github.com/OpenAPITools/openapi-generator
