@@ -26,6 +26,9 @@ https://www.ovh.com/blog/how-pci-express-works-and-why-you-should-care-gpu/
 https://www.cnx-software.com/2021/09/07/intel-nuc-p14e-laptop-element-features-intel-nuc-11-compute-element/
 > https://news.ycombinator.com/item?id=28447913
 
+# UPS
+https://news.ycombinator.com/item?id=40186960
+
 # Screen
 https://shop.boox.com/products/mira
 > https://news.ycombinator.com/item?id=29428285
@@ -88,6 +91,9 @@ https://www.xythobuz.de/trackball_v1.html
 https://github.com/albertz/mouse-scroll-wheel-acceleration-userspace
 > https://news.ycombinator.com/item?id=35586008
 
+https://0110.be/posts/Making_a_flute_controlled_mouse
+> https://news.ycombinator.com/item?id=40184659
+
 # Screen
 https://blog.coscreen.co/blog/coscreen-v5-0-a-new-way-to-share-your-screen/
 > https://news.ycombinator.com/item?id=35387160
@@ -111,6 +117,16 @@ https://thechipletter.substack.com/p/cash-canadians-and-cpus-intels-lost
 https://community.cadence.com/cadence_blogs_8/b/breakfast-bytes/posts/cmos
 
 # News
+https://github.com/hackclub/blot
+> https://news.ycombinator.com/item?id=40180475
+
+https://news.ycombinator.com/item?id=40156133
+
+https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/optimizing-your-programs-for-arm-platforms
+> https://news.ycombinator.com/item?id=40168406
+
+https://news.ycombinator.com/item?id=40154024
+
 https://news.ycombinator.com/item?id=40156275
 
 https://news.ycombinator.com/item?id=39765718

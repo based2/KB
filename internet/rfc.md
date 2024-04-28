@@ -52,3 +52,5 @@ https://www.ietf.org/rfc/std/std80.txt ASCII format for Network Interchange
 
 https://www.rfc-editor.org/rfc/rfc9518.html
 > https://news.ycombinator.com/item?id=38814367
+
+https://news.ycombinator.com/item?id=40184916

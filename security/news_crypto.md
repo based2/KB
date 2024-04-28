@@ -1,3 +1,5 @@
+https://www.bleepingcomputer.com/news/security/google-chromes-new-post-quantum-cryptography-may-break-tls-connections/
+
 https://news.ycombinator.com/item?id=39976225
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-deprecation-of-1024-bit-rsa-keys-in-windows/

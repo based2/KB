@@ -47,6 +47,10 @@ https://news.ycombinator.com/item?id=40053453
 
 https://news.ycombinator.com/item?id=40103188
 
+https://news.ycombinator.com/item?id=40161334
+
+https://www.akamai.com/blog/security-research/critical-linux-backdoor-xz-utils-discovered-what-to-know
+
 https://xz.fail/
 
 https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094

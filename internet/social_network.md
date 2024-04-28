@@ -74,6 +74,10 @@ https://cblgh.org/trustnet/
 > https://news.ycombinator.com/item?id=38590144
 
 # Incident
+https://www.bleepingcomputer.com/news/technology/telegram-is-down-with-connecting-error/
+
+https://www.bleepingcomputer.com/news/technology/reddit-down-in-major-outage-blocking-access-to-web-mobile-apps/
+
 https://news.ycombinator.com/item?id=40084667
 
 https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/
@@ -121,6 +125,8 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://news.ycombinator.com/item?id=40166653
+
 https://news.ycombinator.com/item?id=40167226
 
 https://news.ycombinator.com/item?id=40077690

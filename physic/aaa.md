@@ -95,6 +95,8 @@ https://arxiv.org/abs/2203.13180 Mounting evidence for a 95 GeV Higgs boson
 > https://news.ycombinator.com/item?id=30807022
 
 # News
+https://news.ycombinator.com/item?id=40161421
+
 https://onlinelibrary.wiley.com/doi/10.1002/qute.202300230
 > https://news.ycombinator.com/item?id=39173150
 

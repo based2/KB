@@ -96,6 +96,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://quantumai.google/
+> https://news.ycombinator.com/item?id=40185883
+
 https://www.quantamagazine.org/never-repeating-tiles-can-safeguard-quantum-information-20240223/
 > https://news.ycombinator.com/item?id=39489660
 

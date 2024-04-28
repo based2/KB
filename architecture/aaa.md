@@ -289,6 +289,8 @@ https://www.rfc-editor.org/rfc/rfc7807 Problem Details for HTTP APIs
 https://blog.trl.sn/blog/typespec-for-openapi/
 > https://news.ycombinator.com/item?id=39833321
 
+https://news.ycombinator.com/item?id=40161794
+
 # Books
 https://github.com/mhadidg/software-architecture-books
 > https://news.ycombinator.com/item?id=27683966
@@ -304,6 +306,9 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://github.com/SAWARATSUKI/ServiceLogos
+> https://news.ycombinator.com/item?id=40180389
+
 https://news.ycombinator.com/item?id=39554874
 
 https://two-wrongs.com/software-design-tree-and-program-families.html

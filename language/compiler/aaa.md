@@ -30,6 +30,9 @@ https://gcc.gnu.org/wiki/DontUseInlineAsm
 https://en.wikipedia.org/wiki/SIMD
 
 #
+https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/
+> https://news.ycombinator.com/item?id=40177687
+
 https://compilers.iecc.com/crenshaw/
 > https://news.ycombinator.com/item?id=38773049
 

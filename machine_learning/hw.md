@@ -7,6 +7,9 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://cpldcpu.wordpress.com/2024/04/24/implementing-neural-networks-on-the-10-cent-risc-v-mcu-without-multiplier/
+> https://news.ycombinator.com/item?id=40167271
+
 https://news.ycombinator.com/item?id=40024146
 
 https://news.ycombinator.com/item?id=40010819

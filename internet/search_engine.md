@@ -96,9 +96,15 @@ https://github.com/benbusby/whoogle-search
 > https://news.ycombinator.com/item?id=28326180
 
 #
+https://news.ycombinator.com/item?id=40155489
+
+https://news.ycombinator.com/item?id=40175395
+
 https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/
 
 # News
+https://news.ycombinator.com/item?id=40165994
+
 https://news.ycombinator.com/item?id=40179220
 
 https://news.ycombinator.com/item?id=40004741

@@ -174,6 +174,8 @@ https://news.ycombinator.com/item?id=38774792 rss xpath
 
 https://news.ycombinator.com/item?id=39104504
 
+https://news.ycombinator.com/item?id=40176738
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 

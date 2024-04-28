@@ -218,6 +218,12 @@ https://news.ycombinator.com/item?id=39720049
 https://news.ycombinator.com/item?id=39998149
 
 # News
+https://news.ycombinator.com/item?id=40174921
+
+https://news.ycombinator.com/item?id=40166690
+
+https://www.seangoedecke.com/animal-call-audio-recognition/
+
 https://news.ycombinator.com/item?id=39992817
 
 https://news.ycombinator.com/item?id=39861578

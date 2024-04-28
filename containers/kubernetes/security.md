@@ -86,6 +86,8 @@ https://github.com/falcosecurity/falcosidekick
 https://github.com/draios/sysdig-inspect
 
 # News
+https://www.akamai.com/blog/security-research/kubernetes-local-volumes-command-injection-vulnerability-rce-system-privileges
+
 https://leebriggs.co.uk/blog/2024/03/23/why-public-k8s-controlplane
 
 https://k8slanparty.com/

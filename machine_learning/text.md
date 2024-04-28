@@ -72,6 +72,10 @@ https://github.com/Deeptechia/geppetto
 https://news.ycombinator.com/item?id=39579446
 
 # News
+https://news.ycombinator.com/item?id=40164309
+
+https://news.ycombinator.com/item?id=40174943
+
 https://explainextended.com/2023/12/31/happy-new-year-15/
 > https://news.ycombinator.com/item?id=39488668
 

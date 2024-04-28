@@ -149,7 +149,18 @@ https://github.com/4silvertooth/QwikTape
 https://github.com/fellerts/procal
 > https://news.ycombinator.com/item?id=35020767
 
+# ML
+https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-paradise-of-computerunderstandable-math-and-science
+> https://mizar.org/language/
+> https://github.com/flyspeck/flyspeck
+> https://www.leancop.de/
+> https://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html
+
 # News
+https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-paradise-of-computerunderstandable-math-and-science
+
+https://news.ycombinator.com/item?id=40186146
+
 https://news.ycombinator.com/item?id=40143669
 
 https://news.ycombinator.com/item?id=40062590

@@ -6,6 +6,8 @@ https://makefiletutorial.com/
 > https://news.ycombinator.com/item?id=30413366
 
 #
+https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AutoconfValuableFeatures
+
 https://news.ycombinator.com/item?id=40141175 go
 
 https://www.microsoft.com/en-us/research/uploads/prod/2020/04/build-systems-jfp.pdf

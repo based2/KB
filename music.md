@@ -143,6 +143,8 @@ https://github.com/PolyMeilex/Neothesia
 https://github.com/vlcoo/P3synth
 > https://news.ycombinator.com/item?id=34831423
 
+https://news.ycombinator.com/item?id=40164310
+
 #
 https://powersnail.com/ScoreInUrl/
 

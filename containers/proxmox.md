@@ -20,3 +20,6 @@ https://gabrielsimmer.com/blog/messing-with-proxmox
 https://blog.stephane-robert.info/docs/virtualiser/type1/proxmox/ansible/
 
 https://www.servethehome.com/intel-x553-networking-and-proxmox-ve-8-1-3/
+
+https://linuxfr.org/news/proxmox-virtual-environment-8-2-avec-assistant-d-import-vmware-disponible
+> https://www.proxmox.com/en/about/press-releases/proxmox-virtual-environment-8-2

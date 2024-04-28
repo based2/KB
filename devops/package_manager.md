@@ -79,6 +79,10 @@ https://news.ycombinator.com/item?id=40057667
 https://news.ycombinator.com/item?id=40158558
 
 #
+https://news.ycombinator.com/item?id=40186036
+> https://mise.jdx.dev/
+> > https://news.ycombinator.com/item?id=40186768
+
 https://news.ycombinator.com/item?id=38255923
 
 https://www.slice.zone/blog/nix-in-practice

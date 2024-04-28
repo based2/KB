@@ -318,10 +318,17 @@ https://news.ycombinator.com/item?id=40099344
 
 https://news.ycombinator.com/item?id=40100824
 
+https://github.com/databonsai/databonsai Data Bonsai: a Python package to clean your data with LLMs
+> https://news.ycombinator.com/item?id=40184372
+
+https://pysheets.app/
+
 #
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://github.com/crugroup/spade
+
 https://news.ycombinator.com/item?id=40103323
 
 https://news.ycombinator.com/item?id=39964635

@@ -543,6 +543,10 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=40160577
+
+https://arxiv.org/abs/2212.10114
+
 https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/
 > https://news.ycombinator.com/item?id=40181612
 

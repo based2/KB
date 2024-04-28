@@ -1,5 +1,7 @@
 https://opensource.org/licenses
 
+https://github.com/caniszczyk/rugpulls.dev
+
 https://resources.whitesourcesoftware.com/blog-whitesource/open-source-licenses-explained
 
 https://en.wikipedia.org/wiki/Copyleft

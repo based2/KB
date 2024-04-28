@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.akamai.com/blog/security-research/critical-vulnerability-create-uri-remote-code-execution
+
 https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/
 > https://news.ycombinator.com/item?id=39983661
 

@@ -159,6 +159,9 @@ https://zachholman.com/posts/only-90s-developers/
 > https://news.ycombinator.com/item?id=29296003
 
 # News
+https://jakearchibald.com/2024/attributes-vs-properties/
+> https://news.ycombinator.com/item?id=40152682
+
 https://news.ycombinator.com/item?id=40177906
 
 https://v2-0v2-0.htmx.org/posts/2024-03-15-htmx-2-0-0-beta1-is-released/

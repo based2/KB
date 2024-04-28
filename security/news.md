@@ -1,3 +1,11 @@
+https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/
+
+https://news.ycombinator.com/item?id=40147994
+
+https://news.ycombinator.com/item?id=40149952
+
+https://news.ycombinator.com/item?id=40187129
+
 https://news.ycombinator.com/item?id=40146615
 
 https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/

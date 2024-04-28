@@ -180,6 +180,9 @@ https://typeclasses.substack.com/p/the-centrality-of-affine-traversal
 https://mmapped.blog/posts/25-domain-types.html
 > https://news.ycombinator.com/item?id=39521568
 
+https://www.inner-product.com/posts/direct-style-effects/
+> https://news.ycombinator.com/item?id=40156508
+
 #
 https://arl.human.cornell.edu/linked%20docs/Alexander_A_Pattern_Language.pdf
 > https://news.ycombinator.com/item?id=27458721

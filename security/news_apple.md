@@ -10,6 +10,8 @@ https://objective-see.org/products/blockblock.html
 https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
 
 #
+https://news.ycombinator.com/item?id=40177617
+
 https://news.ycombinator.com/item?id=40002987
 
 https://www.bleepingcomputer.com/news/security/new-darcula-phishing-service-targets-iphone-users-via-imessage/

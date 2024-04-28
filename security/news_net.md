@@ -28,6 +28,13 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://sec.okta.com/blockanonymizers
+
+https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices
+>
+> https://news.ycombinator.com/item?id=40185986
+
+
 https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/
 
 https://www.bleepingcomputer.com/news/security/hosting-firms-vmware-esxi-servers-hit-by-new-sexi-ransomware/

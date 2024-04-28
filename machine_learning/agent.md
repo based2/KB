@@ -32,3 +32,5 @@ https://news.ycombinator.com/item?id=39799296
 https://news.ycombinator.com/item?id=39955725
 
 https://news.ycombinator.com/item?id=39984209
+
+https://news.ycombinator.com/item?id=40185797

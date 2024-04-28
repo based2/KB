@@ -13,6 +13,9 @@
 
 vimtutor command
 
+https://m4xshen.dev/posts/vim-command-workflow/
+> https://news.ycombinator.com/item?id=40179194
+
 https://thevaluable.dev/vim-advanced/
 
 https://people.csail.mit.edu/vgod/vim/vim-cheat-sheet-en.png
@@ -309,6 +312,8 @@ https://news.ycombinator.com/item?id=39330281
 
 https://news.ycombinator.com/item?id=39397942
 
+https://news.ycombinator.com/item?id=40156205
+
 # IDE
 ## Eclipse
 https://www.eclipse.org/downloads/
@@ -372,6 +377,9 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://zed.dev/blog/zed-decoded-rope-sumtree
+> https://news.ycombinator.com/item?id=40187971
+
 https://news.ycombinator.com/item?id=40089460
 
 https://news.ycombinator.com/item?id=39854182

@@ -227,7 +227,15 @@ https://news.ycombinator.com/item?id=40068170
 
 https://news.ycombinator.com/item?id=40099252
 
+https://news.ycombinator.com/item?id=40179232
+
 # News
+https://linuxfr.org/users/aboulle/journaux/introduction-pratique-aux-grands-modeles-de-langage-llm
+
+https://arxiv.org/abs/2402.12354
+
+https://news.ycombinator.com/item?id=40163684
+
 https://news.ycombinator.com/item?id=40158945`
 
 https://news.ycombinator.com/item?id=40167884

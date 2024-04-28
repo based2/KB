@@ -26,6 +26,8 @@ https://outage.sr.ht/
 > > https://news.ycombinator.com/item?id=38939532
 
 # News
+https://linuxfr.org/news/codeberg-la-forge-en-devenir-pour-les-projets-libres
+
 https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z3gqcJUoA1n9HaHKufZs5FCSGazv5
 > https://news.ycombinator.com/item?id=39600810
 
