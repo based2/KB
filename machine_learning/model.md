@@ -228,6 +228,14 @@ https://news.ycombinator.com/item?id=40068170
 https://news.ycombinator.com/item?id=40099252
 
 # News
+https://news.ycombinator.com/item?id=40158945`
+
+https://news.ycombinator.com/item?id=40167884
+
+https://news.ycombinator.com/item?id=40163882 apple
+
+https://news.ycombinator.com/item?id=40178754
+
 https://news.ycombinator.com/item?id=40140002
 
 https://replicate.com/snowflake/snowflake-arctic-instruct 128x3B MoE, largest open source model

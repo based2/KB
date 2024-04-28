@@ -107,6 +107,8 @@ https://ngneat.github.io/elf/
 > https://news.ycombinator.com/item?id=28863244
 
 # News
+https://news.ycombinator.com/item?id=40163777
+
 https://news.ycombinator.com/item?id=40146751
 
 https://devblogs.microsoft.com/typescript/announcing-typescript-5-4/

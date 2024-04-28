@@ -76,6 +76,8 @@ https://changelog.com/posts/nixos-fatal-flaw
 
 https://news.ycombinator.com/item?id=40057667
 
+https://news.ycombinator.com/item?id=40158558
+
 #
 https://news.ycombinator.com/item?id=38255923
 

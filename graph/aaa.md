@@ -115,6 +115,8 @@ http://math.uchicago.edu/~may/REU2019/REUPapers/Oh,Stephanie.pdf THE  TOPOLOGY  
 https://en.wikipedia.org/wiki/Cayley_graph
 
 # News
+https://news.ycombinator.com/item?id=40153162
+
 https://research.google/blog/solving-the-minimum-cut-problem-for-undirected-graphs/
 > https://news.ycombinator.com/item?id=40064027
 

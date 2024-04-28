@@ -29,6 +29,8 @@ https://attivissimo.blogspot.com/2021/08/expert-help-needed-to-decode-rare-piece
 https://news.ycombinator.com/item?id=36889610
 
 # News
+https://news.ycombinator.com/item?id=40158751
+
 https://www.sciencealert.com/its-official-scientists-finally-confirmed-whats-inside-the-moon
 
 https://news.ycombinator.com/item?id=39780722

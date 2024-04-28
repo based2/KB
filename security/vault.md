@@ -150,6 +150,10 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://github.com/openbao/openbao
+
+https://news.ycombinator.com/item?id=40149608
+
 https://github.com/candiddev/rot open source command line (CLI) tool for managing cryptographic values
 
 https://news.ycombinator.com/item?id=39665004

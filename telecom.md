@@ -250,6 +250,10 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=40173914
+
+https://news.ycombinator.com/item?id=40161697
+
 https://news.ycombinator.com/item?id=40075402
 
 https://news.ycombinator.com/item?id=39864107

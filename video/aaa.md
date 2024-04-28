@@ -126,6 +126,8 @@ https://news.ycombinator.com/item?id=39512912
 https://news.ycombinator.com/item?id=39593256
 
 # News
+https://news.ycombinator.com/item?id=40174516
+
 https://news.ycombinator.com/item?id=39800779
 
 https://news.ycombinator.com/item?id=39801088

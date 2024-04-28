@@ -73,6 +73,10 @@ http://harelba.github.io/q/
 https://thenewstack.io/techniques-for-using-llms-to-improve-sql-queries/
 
 # News
+https://news.ycombinator.com/item?id=40163104
+
+https://news.ycombinator.com/item?id=40156867
+
 https://news.ycombinator.com/item?id=39753749
 
 https://pql.dev/ Pql, a pipelined query language that compiles to SQL (written in Go)

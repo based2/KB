@@ -71,3 +71,6 @@ https://github.com/harsha-simhadri/big-ann-benchmarks/blob/main/neurips23/ongoin
 
 https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors
 > https://news.ycombinator.com/item?id=39823512
+
+https://swirlaiconnect.com/blog/using-vectors-without-a-vector-database
+> https://lobste.rs/s/nuylte/using_vectors_without_vector_database

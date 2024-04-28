@@ -80,6 +80,8 @@ block from any to 1.157.109.217
 block from any to 1.63.226.147
 # China https://www.abuseipdb.com/check/
 block from any to 1.116.38.108
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 1.117.72.174
 # https://www.abuseipdb.com/check/
 block from any to 1.117.87.94
 # China https://www.abuseipdb.com/check/
@@ -218,10 +220,20 @@ block from any to 2.57.122.26
 block from any to 2.57.122.88
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 2.57.149.78
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 2.58.15.126
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 2.58.56.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 2.58.56.43
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 2.58.56.66
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 2.58.56.90
+# https://tracker.viriback.com/index.php?q=HookBot
+block from any to 2.58.56.99
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 2.58.56.220
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 2.58.56.221
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
@@ -255,6 +267,8 @@ block from any to 2.176.206.42
 block from any to 2.176.220.97
 # Iran https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 2.176.234.36
+# Iran https://www.abuseipdb.com/check/
+block from any to 2.176.255.126
 # Iran https://www.abuseipdb.com/check/
 block from any to 2.177.81.205
 # Iran https://www.abuseipdb.com/check/
@@ -307,6 +321,8 @@ block from any to 3.33.152.147
 block from any to 3.33.182.244
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ faneuilhallmarketplace(.)com
 block from any to 3.33.204.45
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 3.34.122.177
 # abuse.ch TF
 block from any to 3.35.8.177
 # https://malpulse.com/blog/175/ Havoc
@@ -353,6 +369,8 @@ block from any to 3.106.130.174
 block from any to 3.110.177.34
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 3.121.139.82
+# https://threatfox.abuse.ch/browse/malware/win.njrat/
+block from any to 3.124.67.191
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 3.124.142.205
 # DNS https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ office365(.)press
@@ -482,6 +500,8 @@ block from any to 5.15.236.59
 block from any to 5.18.249.109
 # Russia https://www.abuseipdb.com/check/
 block from any to 5.23.100.14
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 5.183.95.95
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 5.249.165.126
 # Israel https://www.abuseipdb.com/check/
@@ -498,6 +518,8 @@ block from any to 5.34.192.200
 block from any to 5.34.198.105
 # https://www.abuseipdb.com/check/
 block from any to 5.34.201.105
+# https://brute.fail/top.txt
+block from any to 5.35.98.0/24
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 5.39.30.110
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
@@ -556,10 +578,16 @@ block from any to 5.42.86.47
 block from any to 5.42.92.25
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 5.42.92.73
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 5.42.106.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 5.42.106.136
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 5.42.106.164
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 5.45.65.46
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 5.45.104.176
 # abuse.ch TF
 block from any to 5.51.198.41
 # Ukraine https://www.abuseipdb.com/check/
@@ -603,6 +631,10 @@ block from any to 5.101.1.60
 block from any to 5.101.4.196
 # https://www.abuseipdb.com/
 block from any to 5.101.157.79
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 5.107.178.22
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 5.107.204.204
 # DFA SPAM France ovh.com
 block from any to 5.135.142.104
 # https://www.abuseipdb.com/
@@ -679,6 +711,8 @@ block from any to 5.181.80.126
 block from any to 5.181.80.130
 # https://blog.xlab.qianxin.com/mirai-tbot-en/
 block from any to 5.181.80.140
+#https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 5.181.236.131
 # https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 5.182.86.8
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -709,6 +743,10 @@ block from any to 5.188.230.159
 block from any to 5.194.147.107
 # A.ch TF
 block from any to 5.196.46.249
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 5.196.95.34
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 5.197.214.158
 # A.ch TF
 block from any to 5.180.114.190
 # https://www.abuseipdb.com/check/5.180.181.217
@@ -761,16 +799,26 @@ block from any to 5.255.99.59
 block from any to 5.255.117.112
 # BianLian - https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 5.230.67.144
+# https://threatfox.abuse.ch/browse/malware/win.icedid/
+block from any to 5.230.68.74
 # abuse.ch TF
 block from any to 5.230.74.102
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 5.230.229.207
+# https://www.abuseipdb.com/
+block from any to 5.238.254.56
+# Iran https://www.abuseipdb.com/
+block from any to 5.239.201.228
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 5.252.74.133
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 5.252.176.25
 # RecordBreaker https://threatfox.abuse.ch/browse/malware/win.recordbreaker/
 block from any to 5.252.177.220
+# ShadowPad https://threatfox.abuse.ch/browse/malware/win.shadowpad/
+block from any to 5.252.178.189
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 5.253.40.118
 # https://threatfox.abuse.ch/browse/malware/win.brute_ratel_c4/
 block from any to 5.253.43.96
 # https://www.abuseipdb.com/
@@ -783,10 +831,22 @@ block from any to 5.252.177.220
 block from any to 5.252.178.189
 # https://securelist.com/stripedfly-perennially-flying-under-the-radar/110903/
 block from any to 5.255.86.125
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 5.255.97.126
+# https://www.cisa.gov/sites/default/files/2023-11/aa23-319a-stopransomware-rhysida-ransomware_1.pdf
+block from any to 5.255.99.59
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 5.255.100.26
 # https://threatfox.abuse.ch/browse/malware/win.unidentified_111/
 block from any to 5.255.115.172
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/ https://threatfox.abuse.ch/browse/malware/win.venom/
+block from any to 5.255.117.0/24
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 5.255.117.32
+# https://threatfox.abuse.ch/browse/malware/win.venom/
+block from any to 5.255.117.112
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 5.255.124.150
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
 block from any to 5.255.255.0/24
 # https://www.abuseipdb.com/
@@ -797,6 +857,8 @@ block from any to 5.255.255.77
 block from any to 8.129.212.192
 # China https://www.abuseipdb.com/
 block from any to 8.130.26.80
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 8.130.34.85
 # China https://www.abuseipdb.com/
 block from any to 8.130.75.177
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -860,6 +922,8 @@ block from any to 8.210.101.116
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 8.212.49.198
 # https://tracker.viriback.com/index.php?q=Supershell
+block from any to 8.212.183.234
+# https://tracker.viriback.com/index.php?q=Supershell
 block from any to 8.213.208.58
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 8.213.212.170
@@ -877,6 +941,8 @@ block from any to 8.218.21.138
 block from any to 8.218.67.52
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 8.218.80.239
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 8.218.138.77
 # https://tracker.viriback.com/index.php?q=Unam
 block from any to 8.218.175.2
 # https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement?hl=en
@@ -931,6 +997,8 @@ block from any to 13.32.27.7
 block from any to 13.36.225.33
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 13.37.127.130
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 13.38.235.203
 # A.ch TF
 block from any to 13.39.25.217
 # https://red.flag.domains/posts/2023-11-25/ registrar: GANDI
@@ -989,6 +1057,8 @@ block from any to 13.128.180.220
 block from any to 13.201.220.120
 # abuse.ch TF
 block from any to 13.211.68.91
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 13.213.45.189
 # https://www.abuseipdb.com/check/
 block from any to 13.214.254.5
 # BianLian https://threatfox.abuse.ch/browse/malware/win.bianlian/
@@ -1063,6 +1133,8 @@ block from any to 14.153.87.199
 block from any to 14.171.224.182
 # Vietnam https://www.abuseipdb.com/check/
 block from any to 14.177.234.204
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 14.178.208.233
 # https://www.abuseipdb.com/check/
 block from any to 14.162.145.33
 # Vietnam https://www.abuseipdb.com/check/
@@ -1086,15 +1158,27 @@ block from any to 14.207.125.181
 # https://threatfox.abuse.ch/browse/malware/win.wannacryptor/
 block from any to 14.224.174.212
 # Vietnam https://www.abuseipdb.com/check/
+block from any to 14.225.20.33
+# Vietnam https://www.abuseipdb.com/check/
 block from any to 14.225.203.64
-# abuse.ch TF
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/coralraider-targets-socialmedia-accounts.txt
+block from any to 14.225.210.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/coralraider-targets-socialmedia-accounts.txt
+block from any to 14.225.210.97
+# abuse.ch TF https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/coralraider-targets-socialmedia-accounts.txt
 block from any to 14.225.210.98
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/coralraider-targets-socialmedia-accounts.txt
+block from any to 14.225.210.209
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/coralraider-targets-socialmedia-accounts.txt
+block from any to 14.225.210.222
 # Vietnam https://www.abuseipdb.com/check/
 block from any to 14.225.212.138
 # Vietnam https://www.abuseipdb.com/check/
 block from any to 14.225.255.139
 # https://www.abuseipdb.com/check/
 block from any to 14.238.12.150
+# https://brute.fail/top.txt
+block from any to 14.238.26.0/24
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 14.239.3.253
 # https://www.abuseipdb.com/check/
@@ -1209,6 +1293,8 @@ block from any to 18.163.74.152
 block from any to 18.164.52.98
 # https://unit42.paloaltonetworks.com/malicious-apks-steal-pii-from-chinese-users/
 block from any to 18.166.72.58
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 18.166.176.116
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 18.166.249.66
 block from any to 18.166.250.135
@@ -1349,6 +1435,8 @@ block from any to 20.107.243.137
 block from any to 20.114.22.115
 # US https://www.abuseipdb.com/check/
 block from any to 20.115.53.100
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 20.115.56.254
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 20.117.106.245
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -1501,10 +1589,14 @@ block from any to 23.93.176.11
 block from any to 23.94.0.113
 # https://www.abuseipdb.com/check/
 block from any to 23.94.62.181
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 23.94.66.43
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 23.94.87.135
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 23.94.104.16
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 23.94.120.119
 # https://www.abuseipdb.com/check/
 block from any to 23.94.190.5
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -1547,12 +1639,20 @@ block from any to 23.129.64.0/24
 block from any to 23.129.64.225
 # US https://www.abuseipdb.com/check/
 block from any to 23.129.64.228
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 23.137.249.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 23.137.249.185
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 23.137.249.227
 # https://threatfox.abuse.ch/browse/malware/js.fakeupdates/
 block from any to 23.137.253.76
 # US https://www.abuseipdb.com/check/
 block from any to 23.146.184.196
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/prometei-botnet-improves.txt
 block from any to 23.148.145.237
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 23.155.24.6
 # https://viz.greynoise.io/tags/palo-alto-pan-os-cve-2024-3400-rce-attempt?days=10
 block from any to 23.158.104.193
 # A.ch TF
@@ -1599,10 +1699,18 @@ block from any to 23.227.38.72
 block from any to 23.227.38.73
 # https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 23.227.196.15
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 23.227.202.0/24
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 23.227.202.28
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 23.227.202.153
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 23.227.203.241
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 23.229.31.21
+# US https://www.abuseipdb.com
+block from any to 23.231.223.2
 # a.ch TF
 block from any to 23.234.231.99
 # US https://blog.xlab.qianxin.com/bigpanzi-exposed-hidden-cyber-threat-behind-your-stb/
@@ -1625,6 +1733,8 @@ block from any to 23.251.108.98
 block from any to 23.251.108.100
 # Hong Kong https://www.abuseipdb.com/check/
 block from any to 23.254.109.85
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 23.254.144.29
 # https://viz.greynoise.io/tags/palo-alto-pan-os-cve-2024-3400-rce-attempt?days=10
 block from any to 23.254.217.106
 # https://www.elastic.co/security-labs/elastic-catches-dprk-passing-out-kandykorn
@@ -1744,6 +1854,8 @@ block from any to 27.124.34.10
 block from any to 27.124.34.14
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 27.124.34.16
+# https://threatfox.abuse.ch/browse/malware/win.krbanker/
+block from any to 27.124.46.73
 # https://www.abuseipdb.com/check/
 block from any to 27.128.114.182
 # https://www.abuseipdb.com/check/
@@ -1819,6 +1931,8 @@ block from any to 31.41.244.156
 block from any to 31.41.244.158
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 31.42.177.114
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 31.42.185.190
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 31.42.186.231
 # https://blog.lumen.com/the-darkside-of-themoon/ https://github.com/blacklotuslabs/IOCs/blob/main/Moon_Faceless_IOCs.txt
@@ -1845,8 +1959,12 @@ block from any to 31.129.22.29
 block from any to 31.129.22.65
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 31.129.22.96
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 31.129.98.0/24
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 31.129.98.219
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 31.129.98.188
 # https://threatfox.abuse.ch/browse/malware/apk.ermac/
 block from any to 31.129.99.52
 # https://www.abuseipdb.com/check/
@@ -1886,6 +2004,8 @@ block from any to 31.156.119.149
 block from any to 31.163.192.152
 # Kazakhstan https://www.abuseipdb.com/check/
 block from any to 31.169.19.178
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 31.170.162.81
 # https://www.abuseipdb.com/check/
 block from any to 31.171.155.68
 # Russia https://www.abuseipdb.com/check/
@@ -2576,6 +2696,8 @@ block from any to 35.220.202.191
 block from any to 35.220.254.76
 # Japan https://www.abuseipdb.com/check/
 block from any to 35.221.117.199
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 35.224.58.250
 # US https://red.flag.domains/posts/2024-01-17/
 block from any to 35.226.162.111
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -2913,6 +3035,8 @@ block from any to 38.46.8.69
 block from any to 38.47.101.176
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 38.47.103.245
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 38.47.107.44
 # https://www.abuseipdb.com/check/38.50.10.106
 block from any to 38.50.10.106
 # https://www.abuseipdb.com/check/38.50.41.35
@@ -2921,8 +3045,90 @@ block from any to 38.50.41.35
 block from any to 38.54.31.241
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 38.54.63.253
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 38.60.217.159
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 38.60.218.153
 # abuse.ch TF
 block from any to 38.60.221.150
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.192.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.192.37
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.193.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.194.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.195.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.196.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.197.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.198.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.199.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.200.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.201.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.202.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.203.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.204.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.205.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.206.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.207.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.208.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.209.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.210.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.211.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.212.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.213.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.214.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.215.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.216.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.217.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.218.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.219.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.219.69
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.194.164
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.195.78
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.199.188
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.200.15
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.205.204
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.62.214.109
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 38.62.230.181
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 38.62.236.0/24
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 38.62.236.152
 # BianLian https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 38.62.236.182
 # https://tracker.viriback.com/index.php?q=Risepro
@@ -2940,24 +3146,107 @@ block from any to 38.147.172.0/24
 block from any to 38.147.172.183
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 38.147.172.234
+block from any to 38.153.100.15
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.153.115.85
 # Argentina https://www.abuseipdb.com/check/
 block from any to 38.159.75.128
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 38.165.8.185
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.32.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.33.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.34.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.35.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.36.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.37.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.38.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.41.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.42.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.43.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.44.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.45.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.46.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.47.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.48.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.49.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.50.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.51.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.52.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.52.74
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.52.144
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.52.209
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.53.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.53.179
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.54.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.55.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.55.69
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.58.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.58.45
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.59.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.60.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.61.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.62.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.174.63.0/24
 # abuse.ch TF
 block from any to 38.180.6.129
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 38.180.41.251
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 38.180.45.153
 # https://www.abuseipdb.com/check/38.180.58.99
 block from any to 38.180.58.99
 # abuse.ch TF
 block from any to 38.180.91.62
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 38.180.92.22
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 38.180.106.167
 # DFA Netherlands https://red.flag.domains/posts/2024-02-17/ registrar: One.com A/S
 block from any to 38.180.114.162
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 38.180.120.2
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 38.180.121.8
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 38.180.128.159
 # abuse.ch TF
 block from any to 38.181.2.11
+# https://threatfox.abuse.ch/browse/malware/win.krbanker/
+block from any to 38.181.20.8
 # abuse.ch TF
 block from any to 38.181.25.204
 # abuse.ch TF
@@ -2968,8 +3257,12 @@ block from any to 38.181.35.0/24
 block from any to 38.181.35.91
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 38.181.35.233
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 38.181.70.3
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 38.181.78.247
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 38.207.148.123
 # Hong Kong https://www.abuseipdb.com/check/
 block from any to 38.207.178.93
 # https://www.abuseipdb.com/check/
@@ -2980,8 +3273,12 @@ block from any to 38.242.21.22
 block from any to 38.242.195.48
 # Meterpreter https://threatfox.abuse.ch/browse/
 block from any to 38.242.201.250
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 38.252.156.12
 # abuse.ch TF
 block from any to 38.255.125.230
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 39.37.189.106
 # Pakistan https://www.abuseipdb.com/check/
 block from any to 39.38.166.198
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
@@ -2998,12 +3295,16 @@ block from any to 39.62.16.103
 block from any to 39.83.115.21
 # China https://www.abuseipdb.com/check/
 block from any to 39.98.46.215
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 39.98.157.4
 # China https://www.abuseipdb.com/check/
 block from any to 39.98.218.14
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 39.99.225.218
 # China https://www.abuseipdb.com/check/
 block from any to 39.100.80.172
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 39.100.90.3
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 39.101.70.82
 # China https://www.abuseipdb.com/check/
@@ -3017,8 +3318,10 @@ block from any to 39.104.20.145
 # A.ch TF
 block from any to 39.104.226.130
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 39.104.230.184
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 39.105.101.138
-# A.ch TF
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 39.105.191.1
 # China https://www.abuseipdb.com/check/
 block from any to 39.105.120.190
@@ -3187,6 +3490,8 @@ block from any to 41.96.177.159
 block from any to 41.96.215.51
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 41.98.4.60
+# https://threatfox.abuse.ch/browse/malware/win.qakbot/
+block from any to 41.98.13.101
 # https://threatfox.abuse.ch/browse/
 block from any to 41.98.245.251
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
@@ -3285,8 +3590,12 @@ block from any to 42.51.32.54
 block from any to 42.51.33.212
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 42.51.37.127
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 42.51.45.0/24
 # China https://www.abuseipdb.com/check/
 block from any to 42.51.45.234
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 42.51.45.241
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 42.51.216.61
 # China https://www.abuseipdb.com/check/
@@ -3305,6 +3614,10 @@ block from any to 42.92.121.146
 block from any to 42.93.222.20
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 42.96.2.220
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 42.96.5.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 42.96.5.32
 # https://www.bleepingcomputer.com/news/security/france-says-russian-state-hackers-breached-numerous-critical-networks/
 block from any to 42.98.5.225
 # China https://www.abuseipdb.com/check/
@@ -3385,6 +3698,8 @@ block from any to 43.130.60.49
 block from any to 43.130.245.71
 # Japan https://www.abuseipdb.com/check/
 block from any to 43.130.249.142
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 43.131.5.229
 # Germany https://www.abuseipdb.com/check/
 block from any to 43.131.6.80
 # https://www.abuseipdb.com/check/
@@ -3407,6 +3722,8 @@ block from any to 43.131.226.215
 block from any to 43.131.227.179
 # https://www.abuseipdb.com/check/43.131.234.93
 block from any to 43.131.234.93
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 43.132.130.145
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 43.132.212.200
 # Korea https://www.abuseipdb.com/check/
@@ -3577,6 +3894,8 @@ block from any to 43.138.166.76
 block from any to 43.138.179.199
 # China https://www.abuseipdb.com/check/
 block from any to 43.138.185.98
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 43.138.222.123
 # China https://www.abuseipdb.com/check/
 block from any to 43.139.47.78
 # https://www.abuseipdb.com/check/
@@ -3595,6 +3914,8 @@ block from any to 43.139.177.244
 block from any to 43.139.189.26
 # https://www.abuseipdb.com/check/
 block from any to 43.139.210.99
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 43.139.235.226
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 43.140.194.203
 # https://www.abuseipdb.com/check/
@@ -4071,10 +4392,14 @@ block from any to 45.13.226.59
 block from any to 45.15.18.40
 # RedLine Stealer https://threatfox.abuse.ch/browse/malware/win.redline_stealer/
 block from any to 45.15.156.0/24
+# https://tracker.viriback.com/index.php?q=Risepro
+block from any to 45.15.156.9
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 45.15.156.24
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 45.15.156.33
+# https://threatfox.abuse.ch/browse/malware/win.venom/
+block from any to 45.15.156.173
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 45.15.157.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -4113,6 +4438,8 @@ block from any to 45.32.99.50
 block from any to 45.32.111.233
 # https://www.cert.ssi.gouv.fr/uploads/CERTFR-2023-CTI-007.pdf
 block from any to 45.32.132.182
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 45.32.156.218
 # https://github.com/blacklotuslabs/IOCs/blob/main/KVbotnet_IOCs.txt
 block from any to 45.32.174.131
 # A.ch TF
@@ -4169,6 +4496,10 @@ block from any to 45.55.0.31
 block from any to 45.55.65.92
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 45.55.128.82
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 45.55.132.52
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 45.55.199.36
 # US https://www.abuseipdb.com/check/
 block from any to 45.55.232.250
 # DFA https://www.bitdefender.com/blog/labs/investigating-worldwide-sms-scams-and-tens-of-millions-of-dollars-in-fraud/ https://red.flag.domains/posts/2023-11-25/ registrar: EPAG Domainservices GmbH
@@ -4179,6 +4510,8 @@ block from any to 45.56.89.214
 block from any to 45.56.96.163
 # US https://www.abuseipdb.com/check/
 block from any to 45.56.96.168
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 45.58.52.17
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 45.61.128.235
 # https://www.mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/YoroTrooper.txt
@@ -4221,10 +4554,16 @@ block from any to 45.61.188.87
 block from any to 45.63.60.39
 # US https://github.com/eset/malware-ioc/tree/master/gref
 block from any to 45.63.89.238
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 45.63.121.237
 # https://www.abuseipdb.com/check/
 block from any to 45.64.96.123
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 45.63.119.131
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 45.63.120.203
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 45.63.121.237
 # https://www.abuseipdb.com/check/
 block from any to 45.66.229.0/24
 # https://www.abuseipdb.com/check/
@@ -4233,6 +4572,8 @@ block from any to 45.66.229.30
 block from any to 45.66.229.77
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 45.66.230.0/24
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 45.66.230.32
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 45.66.230.237
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
@@ -4243,12 +4584,16 @@ block from any to 45.66.230.240
 block from any to 45.66.248.0/24
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 45.66.248.84
-# BianLian https://threatfox.abuse.ch/browse/
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 45.66.248.135
 # https://www.abuseipdb.com/check/
 block from any to 45.67.149.13
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 45.67.228.91
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 45.67.230.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 45.67.230.75
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms
 block from any to 45.67.230.91
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -4270,6 +4615,8 @@ block from any to 45.76.71.236
 block from any to 45.76.87.78
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 45.76.92.144
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 45.76.118.87
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/c/earth-krahang-exploits-intergovernmental-trust-to-launch-cross-government-attacks/ioc_earth_krahang.txt
 block from any to 45.76.157.92
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -4286,6 +4633,12 @@ block from any to 45.76.232.247
 block from any to 45.76.254.236
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 45.77.11.52
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 45.77.40.77
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 45.77.52.253
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 45.77.54.14
 # UK https://www.abuseipdb.com/check/
 block from any to 45.77.58.206
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ shywolfsanctuary(.)org
@@ -4332,20 +4685,30 @@ block from any to 45.80.158.69
 block from any to 45.81.23.25
 # SPAM
 block from any to 45.81.231.220
-# Russia https://www.abuseipdb.com/check/
+# Russia https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus https://www.abuseipdb.com/check/
 block from any to 45.82.152.138
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 45.83.31.204
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.83.104.137
 # https://www.abuseipdb.com/check/
 block from any to 45.83.220.184
 # https://www.abuseipdb.com/check/
 block from any to 45.84.36.24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.84.120.170
 # https://red.flag.domains/posts/2024-04-04/ information-retard-redistrubution[.fr] (registrar: IONOS SE
 block from any to 45.86.86.0/24
 # https://threatfox.abuse.ch/browse/malware/win.unidentified_111/
 block from any to 45.86.86.29
 # https://red.flag.domains/posts/2024-04-04/ information-retard-redistrubution[.fr] (registrar: IONOS SE
 block from any to 45.86.86.249
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 45.86.163.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 45.86.163.224
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 45.86.163.244
 # Iceland https://www.abuseipdb.com/check/
 block from any to 45.86.201.19
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -4360,7 +4723,7 @@ block from any to 45.88.90.39
 block from any to 45.88.90.52
 # Germany https://www.abuseipdb.com/check/
 block from any to 45.88.90.74
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 45.88.90.80
 # Germany https://www.abuseipdb.com/check/
 block from any to 45.88.90.136
@@ -4416,6 +4779,8 @@ block from any to 45.90.97.248
 block from any to 45.91.82.127
 # Sweden https://www.abuseipdb.com/check/
 block from any to 45.91.171.169
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.92.1.74
 # https://threatfox.abuse.ch/browse/malware/win.sectop_rat/
 block from any to 45.92.179.244
 # Russia https://www.abuseipdb.com/check/
@@ -4466,6 +4831,8 @@ block from any to 45.95.169.102
 block from any to 45.95.169.103
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 45.95.169.135
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.95.169.230
 # DNS https://red.flag.domains/posts/2024-03-17/ registrar: KEY-SYSTEMS GmbH espace-ameli[.fr]
 block from any to 45.95.232.0/24
 # https://red.flag.domains/posts/2024-04-07/ espace-aidesante[.fr] (registrar: KEY-SYSTEMS GmbH
@@ -4482,6 +4849,8 @@ block from any to 45.112.205.126
 block from any to 45.113.1.0/24
 # Taiwan https://www.abuseipdb.com/check/
 block from any to 45.113.159.103
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 45.116.79.9
 # https://www.abuseipdb.com/check/
 block from any to 45.119.80.3
 # https://www.abuseipdb.com/check/
@@ -4500,10 +4869,16 @@ block from any to 45.120.177.17
 block from any to 45.120.177.167
 # Taiwan https://www.abuseipdb.com/check/
 block from any to 45.121.48.3
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 45.121.50.136
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 45.121.51.2
 # https://www.blognone.com/node/137757 https://unit42.paloaltonetworks.com/stately-taurus-targets-philippines-government-cyberespionage/
 block from any to 45.121.146.0/24
 # https://unit42.paloaltonetworks.com/stately-taurus-targets-philippines-government-cyberespionage/
 block from any to 45.121.146.113
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 45.121.147.117
 # India https://www.abuseipdb.com/check/
 block from any to 45.122.123.84
 # Lithuania https://www.abuseipdb.com/check/
@@ -4540,12 +4915,20 @@ block from any to 45.128.96.167
 block from any to 45.128.96.194
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 45.128.96.200
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 45.128.133.21
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns
+block from any to 45.128.134.0/24
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 45.128.134.189
 # France https://www.abuseipdb.com/check/
 block from any to 45.128.134.197
-# Netherlands
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 45.128.232.0/24
 # https://www.abuseipdb.com/check/45.128.232.15
 block from any to 45.128.232.15
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 45.128.232.26
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 45.128.232.51
 # Netherlands https://www.abuseipdb.com/check/
@@ -4608,7 +4991,9 @@ block from any to 45.129.199.200
 block from any to 45.129.199.222
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 45.129.199.228
-# https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.130.20.250
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/ https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 45.130.22.219
 # https://www.abuseipdb.com/check/
 block from any to 45.130.146.133
@@ -4657,14 +5042,20 @@ block from any to 45.137.198.64
 block from any to 45.137.201.9
 # DFA https://red.flag.domains/posts/2024-02-15/ registrar: OVH https://tracker.viriback.com/index.php?q=Meduza
 block from any to 45.138.16.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.138.16.42
 # https://tracker.viriback.com/index.php?q=Meduza
 block from any to 45.138.16.132
 # https://www.abuseipdb.com/check/
 block from any to 45.138.16.144
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 45.138.16.166
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.138.16.203
 # DFA https://red.flag.domains/posts/2024-02-15/ registrar: OVH
 block from any to 45.138.16.220
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.138.16.240
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 45.138.74.160
 # https://tracker.viriback.com/index.php?q=Meduza
@@ -4683,6 +5074,8 @@ block from any to 45.139.104.60
 block from any to 45.139.104.76
 # DNS https://red.flag.domains/posts/2024-03-04/ registrar: AMEN / Agence des Médias Numériques maladie-assr[.fr]
 block from any to 45.139.104.81
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.139.122.176
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 45.140.146.74
 # https://red.flag.domains/posts/2024-04-15/ ameli-assurance[.fr] (registrar: AMEN / Agence des Médias Numériques
@@ -4739,6 +5132,16 @@ block from any to 45.141.87.109
 block from any to 45.141.156.211
 # https://threatfox.abuse.ch/browse/malware/win.venom/ https://malpulse.com/blog/223/ Meduza
 block from any to 45.141.215.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.141.215.21
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.141.215.81
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.141.215.97
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.141.215.110
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.141.215.169
 # https://malpulse.com/blog/223/ Meduza
 block from any to 45.141.215.173
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -4751,6 +5154,8 @@ block from any to 45.142.182.0/24
 block from any to 45.142.182.95
 # https://blog.xlab.qianxin.com/mirai-tbot-en/
 block from any to 45.142.182.96
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 45.142.212.16
 # UK https://www.abuseipdb.com/check/
 block from any to 45.143.9.0/24
 # UK https://www.abuseipdb.com/check/
@@ -4831,6 +5236,8 @@ block from any to 45.148.121.172
 block from any to 45.148.244.175
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms
 block from any to 45.150.64.39
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 45.151.44.159
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 45.152.65.230
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
@@ -4844,7 +5251,11 @@ block from any to 45.152.66.244
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 45.150.67.23
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 45.152.85.0/24
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 45.152.85.10
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 45.152.85.15
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 45.153.240.0/24
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -4945,6 +5356,8 @@ block from any to 45.156.129.2
 block from any to 45.156.129.3
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.129.7
+# Belgium https://www.abuseipdb.com/check/
+block from any to 45.156.129.8
 # Belgium https://www.abuseipdb.com/check/
 block from any to 45.156.129.13
 # Belgium https://www.abuseipdb.com/check/
@@ -5103,6 +5516,8 @@ block from any to 45.175.157.53
 block from any to 45.176.5.28
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 45.178.6.2
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.180.3.53
 # https://www.abuseipdb.com/check/
 block from any to 45.180.196.65
 # Colombia https://www.abuseipdb.com/check/
@@ -5146,6 +5561,8 @@ block from any to 45.231.62.111
 block from any to 45.231.62.112
 # https://www.abuseipdb.com/check/
 block from any to 45.231.62.113
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 45.232.200.61
 # Brazil https://www.abuseipdb.com/check/
 block from any to 45.234.212.217
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -5345,7 +5762,7 @@ block from any to 46.98.117.137
 block from any to 46.98.146.158
 # Serbia https://www.abuseipdb.com/check/
 block from any to 46.99.251.244
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 46.101.4.16
 # UK https://www.abuseipdb.com/check/
 block from any to 46.101.5.100
@@ -5419,6 +5836,8 @@ block from any to 46.148.40.174
 block from any to 46.148.40.190
 # Iran https://www.abuseipdb.com/check/
 block from any to 46.148.40.175
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 46.149.76.101
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 46.149.77.191
 # Saudi Arabia https://www.abuseipdb.com/check/
@@ -5429,6 +5848,8 @@ block from any to 46.153.174.111
 block from any to 46.161.40.164
 # https://www.abuseipdb.com/check/
 block from any to 46.161.54.57
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 46.166.139.111
 # DFA Netherlands nforce.com registrar: TLD Registrar Solutions Ltd www. https://red.flag.domains/posts/2023-01-28/
 block from any to 46.166.189.98
 #  https://www.abuseipdb.com/check/46.174.191.30
@@ -5620,6 +6041,8 @@ block from any to 47.96.7.111
 block from any to 47.96.68.247
 # https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
 block from any to 47.96.69.71
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 47.96.72.192
 # China https://www.abuseipdb.com/check/
 block from any to 47.96.130.15
 # https://tracker.viriback.com/index.php?q=Supershell
@@ -5666,6 +6089,8 @@ block from any to 47.106.144.129
 block from any to 47.107.67.137
 # Cobalt Strike - https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 47.108.175.149
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 47.108.204.218
 # China https://www.abuseipdb.com/check/
 block from any to 47.108.205.88
 # https://tracker.viriback.com/index.php?q=Supershell
@@ -5894,6 +6319,8 @@ block from any to 49.117.38.9
 block from any to 49.146.64.5
 # https://www.abuseipdb.com/check/
 block from any to 49.146.159.7
+# https://www.abuseipdb.com/check/
+block from any to 49.156.33.172
 # India https://www.abuseipdb.com/check/
 block from any to 49.156.148.93
 # https://www.abuseipdb.com/check/
@@ -5910,6 +6337,8 @@ block from any to 49.232.26.35
 block from any to 49.232.191.68
 # https://www.abuseipdb.com/check/49.232.145.205
 block from any to 49.232.145.205
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 49.232.208.22
 # China https://www.abuseipdb.com/check/
 block from any to 49.232.214.57
 # China https://www.abuseipdb.com/check/
@@ -5942,6 +6371,8 @@ block from any to 50.7.61.28
 block from any to 50.27.151.187
 # US https://blog.xlab.qianxin.com/bigpanzi-exposed-hidden-cyber-threat-behind-your-stb/
 block from any to 50.30.37.108
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 50.31.177.66
 # US https://www.abuseipdb.com/check/
 block from any to 50.46.11.137
 # US https://www.abuseipdb.com/check/
@@ -5972,6 +6403,8 @@ block from any to 50.255.126.65
 block from any to 51.12.240.24
 # DFA SPAM Netherlands
 block from any to 51.15.25.185
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 51.15.59.15
 block from any to 51.15.69.169
 # https://www.abuseipdb.com/check/
 block from any to 51.15.71.187
@@ -5988,7 +6421,11 @@ block from any to 51.15.133.92
 block from any to 51.15.140.0/24
 # https://www.abuseipdb.com/check/51.15.140.163
 block from any to 51.15.140.163
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 51.15.145.37
 block from any to 51.15.168.198
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 51.15.235.86
 block from any to 51.17.65.55
 # https://www.abuseipdb.com/check/
 block from any to 51.15.140.163
@@ -6098,6 +6535,8 @@ block from any to 51.79.171.174
 block from any to 51.79.196.122
 # Quasar RAT https://threatfox.abuse.ch/browse/malware/win.quasar_rat/
 block from any to 51.79.197.146
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/coralraider-targets-socialmedia-accounts.txt
+block from any to 51.79.208.192
 # abuse.ch TF
 block from any to 51.79.230.42
 # abuse.ch TF
@@ -6136,6 +6575,8 @@ block from any to 51.83.70.228
 block from any to 51.83.99.132
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
 block from any to 51.89.50.153
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 51.89.153.112
 # https://www.abuseipdb.com/check/
 block from any to 51.89.179.2
 # France https://www.abuseipdb.com/check/
@@ -6187,10 +6628,14 @@ block from any to 51.142.10.24
 block from any to 51.154.225.5
 # https://red.flag.domains/posts/2024-04-09/ chorus-facture[.fr] (registrar: SCALEWAY
 block from any to 51.158.76.187
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 51.158.96.140
 # France https://www.abuseipdb.com/check/
 block from any to 51.158.103.0
 # France https://www.abuseipdb.com/check/
 block from any to 51.158.103.135
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 51.158.115.62
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 51.158.205.47
 # https://www.abuseipdb.com/check/
@@ -6265,8 +6710,12 @@ block from any to 51.195.83.133
 block from any to 51.195.83.136
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 51.195.83.140
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 51.195.91.0/24
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 51.195.91.31
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 51.195.91.124
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 51.195.94.0/24
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -6277,6 +6726,8 @@ block from any to 51.195.94.209
 block from any to 51.195.97.127
 # https://www.abuseipdb.com/check/
 block from any to 51.195.111.249
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 51.195.115.244
 # https://www.abuseipdb.com/check/51.195.135.3?page=3#report
 block from any to 51.195.135.3
 # https://www.abuseipdb.com/check/
@@ -6470,6 +6921,8 @@ block from any to 52.223.52.2
 block from any to 52.253.105.171
 # https://www.abuseipdb.com/check/
 block from any to 54.36.112.44
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus OVH
+block from any to 54.36.113.159
 # A.ch TF
 block from any to 54.36.127.183
 # https://www.abuseipdb.com/check/54.36.149.36
@@ -6633,6 +7086,8 @@ block from any to 57.128.141.12
 block from any to 57.129.0.118
 # abuse.ch TF
 block from any to 57.129.0.118
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 57.151.90.74
 # https://www.abuseipdb.com/check/
 block from any to 58.18.64.54
 # China https://www.abuseipdb.com/check/
@@ -6695,6 +7150,8 @@ block from any to 58.216.181.148
 block from any to 58.221.62.191
 # China https://www.abuseipdb.com/check/
 block from any to 58.222.95.106
+# China https://www.abuseipdb.com/check/
+block from any to 58.244.45.174
 # Korea https://www.abuseipdb.com/check/
 block from any to 59.2.23.148
 # https://www.abuseipdb.com/check/
@@ -6713,6 +7170,8 @@ block from any to 59.36.78.66
 block from any to 59.36.170.136
 # https://www.abuseipdb.com/check/
 block from any to 59.37.169.32
+# China https://www.abuseipdb.com/check/
+block from any to 59.42.37.106
 # China https://www.abuseipdb.com/check/
 block from any to 59.42.105.254
 # China https://www.abuseipdb.com/check/
@@ -6821,6 +7280,12 @@ block from any to 60.199.224.2
 block from any to 60.199.224.55
 # abuse.ch TF
 block from any to 60.204.157.150
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 60.204.208.32
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 60.204.217.11
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 60.204.232.46
 # abuse.ch TF
 block from any to 60.204.249.156
 # China https://www.abuseipdb.com/check/
@@ -6986,9 +7451,11 @@ block from any to 62.99.74.172
 # Russia https://www.abuseipdb.com/check/
 block from any to 62.105.137.105
 block from any to 62.108.40.129
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 62.109.2.162
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 62.109.5.0/24
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 62.109.5.21
 # A.ch TF
 block from any to 62.109.5.118
@@ -7032,6 +7499,8 @@ block from any to 62.142.125.249
 block from any to 62.149.158.252
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 62.182.80.97
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 62.182.84.172
 # Russia https://www.abuseipdb.com/check/
 block from any to 62.204.41.0/24
 # Russia https://www.abuseipdb.com/check/
@@ -7075,6 +7544,8 @@ block from any to 62.216.207.94
 block from any to 62.219.172.50
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 62.233.50.185
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 62.233.57.237
 # https://www.abuseipdb.com/check/
 block from any to 62.233.65.90
 # China https://www.abuseipdb.com/check/
@@ -7110,6 +7581,8 @@ block from any to 63.250.56.6
 block from any to 63.251.106.21
 # US https://www.abuseipdb.com/check/
 block from any to 63.251.140.245
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 64.7.198.249
 # US https://www.abuseipdb.com/check/
 block from any to 64.19.222.131
 # US https://www.abuseipdb.com/check/
@@ -7124,6 +7597,8 @@ block from any to 64.23.185.215
 block from any to 64.23.187.222
 # US https://www.abuseipdb.com/check/
 block from any to 64.23.193.113
+# https://threatfox.abuse.ch/browse/malware/unknown/ Mythic
+block from any to 64.23.196.210
 # France https://www.abuseipdb.com/check/
 block from any to 64.31.63.0/24
 # France https://www.abuseipdb.com/check/
@@ -7174,6 +7649,16 @@ block from any to 64.95.11.61
 block from any to 64.112.75.2
 # US https://www.abuseipdb.com/check/
 block from any to 64.124.8.46
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 64.145.76.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 64.145.76.140
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 64.145.76.117
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 64.145.93.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 64.145.44.0/24
 # https://www.abuseipdb.com/check/
 block from any to 64.147.83.35
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -7182,6 +7667,8 @@ block from any to 64.156.192.19
 block from any to 64.176.40.100
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 64.176.194.7
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 64.176.226.203
 # https://www.abuseipdb.com/check/
 block from any to 64.225.3.199
 # https://www.abuseipdb.com/check/
@@ -7232,6 +7719,8 @@ block from any to 64.227.97.195
 block from any to 64.227.133.222
 # https://www.zscaler.com/blogs/security-research/peek-apt36-s-updated-arsenal
 block from any to 64.227.138.127
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 64.227.140.244
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 64.227.147.74
 # India https://www.abuseipdb.com/check/
@@ -7289,6 +7778,8 @@ block from any to 65.30.127.54
 block from any to 65.49.1.0/24
 # https://www.abuseipdb.com/check/
 block from any to 65.49.1.23
+# US https://www.abuseipdb.com/check/
+block from any to 65.49.1.38
 # https://www.abuseipdb.com/check/
 block from any to 65.49.1.50
 # https://www.abuseipdb.com/check/
@@ -7382,6 +7873,8 @@ block from any to 66.70.225.192
 # DFA https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 66.84.17.22
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 66.85.27.144
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 66.85.173.32
 # abuse.ch TF
 block from any to 66.94.120.244
@@ -7403,6 +7896,8 @@ block from any to 66.181.182.61
 block from any to 66.187.4.175
 # US https://www.abuseipdb.com/check/
 block from any to 66.228.47.37
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 66.235.168.222
 # https://tehtris.com/fr/blog/notre-selection-des-alertes-de-nos-honeypots-bulletin-9-mai-2023/
 block from any to 66.240.236.116
 # Korea https://www.abuseipdb.com/check/
@@ -7473,6 +7968,12 @@ block from any to 68.183.3.170
 block from any to 68.183.10.68
 # US https://www.abuseipdb.com/check/
 block from any to 68.235.43.151
+block from any to 69.16.147.0/24
+block from any to 69.16.147.15
+block from any to 69.16.147.156
+block from any to 69.16.157.0/24
+block from any to 69.16.157.11
+block from any to 69.16.147.27
 block from any to 69.16.160.0/24
 block from any to 69.16.161.0/24
 block from any to 69.16.162.0/24
@@ -7518,7 +8019,7 @@ block from any to 70.31.125.60
 block from any to 70.31.125.101
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 70.31.125.206
-# DNS https://red.flag.domains/posts/2024-03-07/ registrar: KEY-SYSTEMS GmbH caissededepot[.fr] fr-comptes[.fr] groupement-vracnco[.fr] information-cnp[.fr] registrar: EPAG Domainservices GmbH g7paris[.fr]
+# DNS https://red.flag.domains/posts/2024-04-13 acces-sg[.fr] (registrar: KEY-SYSTEMS GmbH alloicne[.fr] (registrar: KEY-SYSTEMS GmbH ameli0[.fr] (registrar: KEY-SYSTEMS GmbH ants-paiement-antai[.fr] (registrar: KEY-SYSTEMS GmbH demarchespasseport[.fr] (registrar: KEY-SYSTEMS GmbH gls-colis[.fr] (registrar: KEY-SYSTEMS GmbH leparisizn[.fr] (registrar: KEY-SYSTEMS GmbH 2024-04-13 monfranceconnect[.fr] (registrar: KEY-SYSTEMS GmbH nietflix[.fr] (registrar: KEY-SYSTEMS GmbH offrelg[.fr] (registrar: KEY-SYSTEMS GmbH  2024-03-07/ registrar: KEY-SYSTEMS GmbH caissededepot[.fr] fr-comptes[.fr] groupement-vracnco[.fr] information-cnp[.fr] registrar: EPAG Domainservices GmbH g7paris[.fr]
 block from any to 70.32.1.32
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/01/new-zardoor-backdoor.txt
 block from any to 70.34.194.185
@@ -7576,6 +8077,8 @@ block from any to 71.19.250.242
 block from any to 71.19.250.244
 # Canada https://blog.xlab.qianxin.com/bigpanzi-exposed-hidden-cyber-threat-behind-your-stb/
 block from any to 71.19.252.13
+# US https://www.abuseipdb.com/check/
+block from any to 71.31.198.75
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 71.88.241.194
 # https://www.abuseipdb.com/check/
@@ -7755,12 +8258,18 @@ block from any to 77.91.74.226
 block from any to 77.91.84.249
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 77.91.85.231
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 77.91.86.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 77.91.86.95
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 77.91.86.197
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 77.91.87.207
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 77.91.123.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 77.91.123.52
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 77.91.123.105
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
@@ -7817,6 +8326,10 @@ block from any to 77.90.185.191
 block from any to 77.91.68.247
 # https://www.abuseipdb.com/check/
 block from any to 77.91.74.226
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 77.95.113.180
+# Russia https://www.abuseipdb.com/check/
+block from any to 77.93.115.75
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/ ttps://threatfox.abuse.ch/browse/malware/win.stealc/
 block from any to 77.105.132.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -7843,18 +8356,32 @@ block from any to 77.111.241.70
 block from any to 77.111.241.72
 # https://www.abuseipdb.com/check/
 block from any to 77.125.87.113
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 77.220.196.253
+# https://tracker.viriback.com/index.php?q=Meduza
+block from any to 77.221.148.13
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 77.221.151.0/24
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 77.221.151.10
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 77.221.151.12
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 77.221.154.236
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 77.221.156.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 77.221.156.22
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 77.221.156.212
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.222.109.193
+# https://www.abuseipdb.com/check/
+block from any to 77.125.87.113
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.232.39.226
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 77.232.40.96
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.232.128.152
 # https://www.abuseipdb.com/check/
@@ -7864,6 +8391,10 @@ block from any to 77.237.11.59
 block from any to 77.238.180.0/24
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 77.238.231.212
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 77.238.235.75
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 77.238.249.17
 # Russia https://www.abuseipdb.com/check/
 block from any to 77.239.215.13
 # Russia https://www.abuseipdb.com/check/
@@ -7888,6 +8419,8 @@ block from any to 78.18.235.102
 block from any to 78.24.180.93
 # US https://www.abuseipdb.com/check/
 block from any to 78.24.205.142
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 78.24.217.201
 # Russia https://www.abuseipdb.com/check/
 block from any to 78.29.45.22
 # Iran https://www.abuseipdb.com/check/
@@ -7931,6 +8464,8 @@ block from any to 78.46.230.48
 block from any to 78.47.218.106
 # https://threatfox.abuse.ch/browse/malware/win.vidar/
 block from any to 78.47.233.159
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 78.109.156.70
 # https://www.abuseipdb.com/check/
 block from any to 78.109.200.208
 # Belgium https://www.abuseipdb.com/check/
@@ -7976,12 +8511,18 @@ block from any to 78.135.100.157
 block from any to 78.138.58.31
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 78.141.224.44
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 78.141.232.174
 # US https://decoded.avast.io/threatresearch/decrypted-homuwitch-ransomware/
 block from any to 78.142.0.42
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 78.142.18.109
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 78.142.18.219
 # https://threatfox.abuse.ch/browse/malware/win.darkgate/
 block from any to 78.142.18.222
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 78.142.18.219
 # Ukraine https://www.abuseipdb.com/check/
 block from any to 78.152.183.78
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/ https://tracker.viriback.com/index.php?q=Risepro
@@ -8088,6 +8629,9 @@ block from any to 79.124.62.82
 block from any to 79.124.62.86
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/
 block from any to 79.124.76.237
+block from any to 79.125.114.92
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 79.133.51.234
 # Russia https://www.abuseipdb.com/check/
 block from any to 79.172.8.22
 # Belgium https://www.abuseipdb.com/check/
@@ -8120,14 +8664,20 @@ block from any to 79.137.198.0/24
 block from any to 79.137.198.67
 # https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 79.137.198.170
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 79.137.198.213
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 79.137.199.1
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/ https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 79.137.202.0/24
+# https://tracker.viriback.com/index.php?q=Meduza
+block from any to 79.137.202.60
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 79.137.202.68
 # https://www.abuseipdb.com/check/
 block from any to 79.137.202.88
+# https://tracker.viriback.com/index.php?q=Meduza
+block from any to 79.137.202.152
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 79.137.202.236
 # Germany https://threatfox.abuse.ch/browse/malware/apk.hydra/
@@ -8148,7 +8698,7 @@ block from any to 79.137.206.33
 block from any to 79.137.206.65
 # Germany https://decoded.avast.io/threatresearch/decrypted-homuwitch-ransomware/ https://decoded.avast.io/threatresearch/decrypted-homuwitch-ransomware/ https://threatfox.abuse.ch/browse/malware/win.dcrat/ https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 79.137.207.0/24
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 79.137.207.33
 # https://tracker.viriback.com/index.php?q=Meduza
 block from any to 79.137.207.35
@@ -8220,8 +8770,10 @@ block from any to 80.66.83.171
 block from any to 80.66.83.200
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 80.66.89.102
-# https://www.abuseipdb.com/check/80.67.172.162
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt https://www.abuseipdb.com/check/80.67.172.162
 block from any to 80.67.172.162
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 80.71.149.154
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/tinyturla-ng.txt
 block from any to 80.74.128.22
 # Swiss https://www.abuseipdb.com/check/
@@ -8286,6 +8838,8 @@ block from any to 80.94.93.223
 block from any to 80.94.95.0/24
 # Moldova https://www.abuseipdb.com/check/
 block from any to 80.94.95.181
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 80.94.95.200
 # UK https://www.abuseipdb.com/check/
 block from any to 80.94.95.225
 # UK https://www.abuseipdb.com/check/
@@ -8304,6 +8858,10 @@ block from any to 80.179.114.175
 block from any to 80.186.144.129
 # Iran https://www.abuseipdb.com/check/
 block from any to 80.191.243.211
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 80.209.238.116
+# Iran https://www.abuseipdb.com/check/
+block from any to 80.210.32.153
 # https://threatfox.abuse.ch/browse/malware/win.darkcomet/
 block from any to 80.253.246.0/24
 # A.ch TF
@@ -8330,6 +8888,8 @@ block from any to 80.244.11.164
 block from any to 80.244.11.191
 # Israel https://www.abuseipdb.com/check/
 block from any to 80.244.168.40
+# https://threatfox.abuse.ch/browse/malware/win.darkcomet/
+block from any to 80.253.246.0/24
 # Czechia https://red.flag.domains/posts/2024-01-23/
 block from any to 81.0.237.69
 block from any to 81.4.101.191
@@ -8389,6 +8949,8 @@ block from any to 81.70.104.85
 block from any to 81.70.153.38
 # https://www.abuseipdb.com/check/
 block from any to 81.71.98.103
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 81.71.127.160
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 81.71.140.170
 # https://www.abuseipdb.com/check/
@@ -8487,14 +9049,22 @@ block from any to 82.120.216.108
 block from any to 82.146.40.165
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 82.146.60.218
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 82.146.62.51
 # https://www.abuseipdb.com/check/
 block from any to 82.147.84.248
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 82.147.85.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 82.147.85.159
 # https://tracker.viriback.com/index.php?q=Unam
 block from any to 82.147.85.242
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 82.151.35.237
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 82.153.64.23
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 82.153.138.48
 # abuse.ch TF
 block from any to 82.153.138.180
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -8549,6 +9119,8 @@ block from any to 82.207.8.202
 block from any to 82.221.136.24
 # https://red.flag.domains/posts/2024-02-22/ registrar: TLD Registrar Solutions Ltd
 block from any to 82.221.128.183
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 82.221.131.5
 # A.ch TF
 block from any to 83.22.228.184
 # Spain https://www.abuseipdb.com/check/
@@ -8571,6 +9143,8 @@ block from any to 83.110.223.45
 block from any to 83.111.121.102
 # Thailand https://www.abuseipdb.com/check/
 block from any to 83.118.111.5
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 83.136.232.33
 # https://www.abuseipdb.com/check/
 block from any to 83.149.46.156
 # DNS https://red.flag.domains/posts/2024-03-06/ registrar: Infomaniak Network SA dgfip-financesgouv[.fr]
@@ -8618,6 +9192,8 @@ block from any to 83.239.130.2
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 83.242.63.186
 block from any to 84.16.242.147
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 84.16.249.34
 # DFA Lithuania https://red.flag.domains/posts/ 2024-04-23 cnilfrance[.fr] (registrar: Hostinger operations UAB 2024-04-19 uni-brest[.fr] (registrar: Hostinger operations UAB segre-leclerc[.fr] (registrar: Hostinger operations UAB 2024-04-18 xn--achatpermisfranais-mvb[.fr] (registrar: Hostinger operations UAB 2024-04-16 controle-prime[.fr] (registrar: Hostinger operations UAB 2024-03-17 registrar: Hostinger operations UAB leboncoi-n[.fr] 2024-03-08 registrar: Hostinger operations UAB univ-caen[.fr] 2024-03-06/ registrar: Hostinger operations UAB jacquemus-store[.fr] 2024-03-02 registrar: Hostinger operations UAB wesco-france[.fr] 2024-02-27 registrar: Hostinger operations UAB 2024-02-25 registrar: Hostinger operations UAB 2024-02-21 registrar: Hostinger operations UAB 2024-02-17 registrar: Hostinger operations UAB 2024-02-16 registrar: Hostinger operations UAB 2024-02-15 registrar: Hostinger operations UAB 2024-02-09 registrar: Hostinger operations UAB 2024-01-24 10 2023-02-23 registrar: Realtime Register B.V. 2023-02-19 registrar: Realtime Register B.V.
 block from any to 84.32.84.32
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
@@ -8643,7 +9219,15 @@ block from any to 84.54.51.35
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 84.54.51.37
 # Netherlands https://www.abuseipdb.com/check/
+block from any to 84.54.51.40
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 84.54.51.41
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 84.54.51.61
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 84.54.51.68
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 84.54.51.69
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 84.54.51.75
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
@@ -8680,6 +9264,8 @@ block from any to 84.96.22.0/24
 block from any to 84.96.22.9
 # France https://www.abuseipdb.com/check/
 block from any to 84.96.22.36
+# https://threatfox.abuse.ch/browse/malware/win.njrat/
+block from any to 83.196.78.85
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 84.201.167.175
 # Chaos RAT AlphaC2 Mangusta
@@ -8692,10 +9278,16 @@ block from any to 84.227.184.56
 block from any to 84.238.92.245
 # Iran https://www.abuseipdb.com/check
 block from any to 84.241.25.75
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 84.247.50.246
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 84.247.165.51
 # Germany https://www.abuseipdb.com/check/
 block from any to 84.247.170.72
 # Germany https://www.abuseipdb.com/check/
 block from any to 84.247.179.88
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 85.13.119.42
 # DFA https://red.flag.domains/posts/2024-02-09/ AMEN / Agence des Médias Numériques
 block from any to 85.13.155.128
 # Germany https://www.abuseipdb.com/check/
@@ -8704,6 +9296,8 @@ block from any to 85.14.245.225
 block from any to 85.17.80.16
 # https://misp.cert.ssi.gouv.fr/feed-misp/61236bfb-37d8-4a71-a68e-2dbf0abe1822.json
 block from any to 85.25.246.169
+# Russia https://www.abuseipdb.com/check
+block from any to 85.30.198.182
 # Russia https://www.abuseipdb.com/check
 block from any to 85.30.248.213
 block from any to 85.31.231.49
@@ -8715,6 +9309,8 @@ block from any to 85.73.189.207
 block from any to 85.75.168.129
 # US https://www.abuseipdb.com/check/
 block from any to 85.81.30.26
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 85.93.218.204
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 85.105.91.170
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
@@ -8759,7 +9355,9 @@ block from any to 85.208.136.0/24
 block from any to 85.208.136.13
 # Moldova https://www.abuseipdb.com/check/
 block from any to 85.208.136.245
-# Russia https://www.abuseipdb.com/check/
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 85.208.139.73
+# Russia https://threatfox.abuse.ch/browse/malware/win.sectop_rat/ https://www.abuseipdb.com/check/
 block from any to 85.209.11.0/24
 # https://www.abuseipdb.com/check/
 block from any to 85.209.11.25
@@ -8777,6 +9375,8 @@ block from any to 85.209.11.98
 block from any to 85.209.11.226
 # https://www.abuseipdb.com/check/
 block from any to 85.209.11.107
+# https://threatfox.abuse.ch/browse/malware/win.sectop_rat/
+block from any to 85.209.11.243
 # Russia https://www.abuseipdb.com/check/
 block from any to 85.209.11.254
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -8845,6 +9445,8 @@ block from any to 85.234.37.64
 block from any to 85.239.33.68
 # https://threatfox.abuse.ch/browse/malware/elf.bashlite/
 block from any to 85.239.34.72
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 85.239.52.71
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 85.239.237.148
 # https://www.abuseipdb.com/check/
@@ -8859,6 +9461,10 @@ block from any to 86.38.225.105
 block from any to 86.38.225.106
 # https://threatfox.abuse.ch/browse/malware/win.pikabot/
 block from any to 86.38.225.108
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 86.38.247.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 86.38.247.37
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 86.38.247.112
 # United Arab Emirates https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
@@ -8869,6 +9475,8 @@ block from any to 86.104.40.254
 block from any to 86.106.20.179
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 86.106.87.158
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 86.107.43.82
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 86.107.199.30
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -8929,7 +9537,11 @@ block from any to 87.98.231.4
 block from any to 87.98.246.158
 # Russia https://www.abuseipdb.com/check/
 block from any to 87.103.208.30
-# https://threatfox.abuse.ch/browse/malware/win.darkcomet/ https://threatfox.abuse.ch/browse/malware/apk.ermac/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 87.118.110.27
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 87.118.116.90
+# https://brute.fail/top.txt https://threatfox.abuse.ch/browse/malware/win.darkcomet/ https://threatfox.abuse.ch/browse/malware/apk.ermac/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 87.120.84.0/24
 # https://threatfox.abuse.ch/browse/malware/apk.ermac/
 block from any to 87.120.84.22
@@ -8946,17 +9558,23 @@ block from any to 87.120.84.131
 # US https://www.abuseipdb.com/check/
 block from any to 87.120.84.132
 # US https://www.abuseipdb.com/check/
-block from any to  87.120.84.133
+block from any to 87.120.84.133
 # US https://www.abuseipdb.com/check/
 block from any to 87.120.84.160
 # US https://www.abuseipdb.com/check/
 block from any to 87.120.84.162
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 87.120.84.167
 # US https://www.abuseipdb.com/check/
 block from any to 87.120.84.178
 # https://threatfox.abuse.ch/browse/malware/win.darkcomet/
 block from any to 87.120.84.188
 # US https://www.abuseipdb.com/check/
 block from any to 87.120.84.191
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 87.120.88.13
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 87.120.254.132
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 87.121.58.103
 # Netherlands https://www.abuseipdb.com/check/
@@ -8987,6 +9605,8 @@ block from any to 87.219.167.0/24
 block from any to 87.219.167.27
 # https://tehtris.com/fr/blog/notre-selection-des-alertes-de-nos-honeypots-bulletin-8-avril-2023/
 block from any to 87.219.167.66
+# https://brute.fail/top.txt
+block from any to 87.236.136.0/24
 # UK https://www.abuseipdb.com/check/
 block from any to 87.236.176.0/24
 # https://www.abuseipdb.com/check/
@@ -9119,6 +9739,8 @@ block from any to 88.214.25.0/24
 block from any to 88.214.25.36
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 88.214.25.235
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 88.214.25.249
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 88.214.25.254
 # Seychelles Trojan.MAC.RustDoor https://www.bitdefender.com/blog/labs/new-macos-backdoor-written-in-rust-shows-possible-link-with-windows-ransomware-group/
@@ -9191,6 +9813,16 @@ block from any to 89.38.98.72
 block from any to 89.38.225.243
 # Lithuania https://www.abuseipdb.com/check/
 block from any to 89.40.5.210
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 89.44.198.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 89.44.198.16
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 89.44.198.189
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 89.44.198.196
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 89.58.41.251
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 89.88.69.115
 # Italy https://www.abuseipdb.com/check/
@@ -9211,6 +9843,8 @@ block from any to 89.117.27.226
 block from any to 89.136.139.224
 # Slovenia https://www.abuseipdb.com/check/
 block from any to 89.142.88.1
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 89.147.110.214
 # Azerbaijan https://www.abuseipdb.com/check/
 block from any to 89.147.232.217
 # https://www.abuseipdb.com/check/
@@ -9254,6 +9888,8 @@ block from any to 89.208.103.0/24
 block from any to 89.208.103.50
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 89.208.103.55
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 89.208.103.64
 # https://threatfox.abuse.ch/browse/malware/win.meduza/ https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 89.208.105.0/24
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
@@ -9390,6 +10026,8 @@ block from any to 91.92.240.245
 block from any to 91.92.241.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 91.92.241.23
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 91.92.241.30
 # Netherlands https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 91.92.241.39
 # Netherlands https://www.abuseipdb.com/check/
@@ -9434,7 +10072,7 @@ block from any to 91.92.242.227
 block from any to 91.92.242.243
 # Netherlands https://tracker.viriback.com/index.php?q=HookBot https://threatfox.abuse.ch/browse/malware/win.agent_tesla/ https://www.abuseipdb.com/check/
 block from any to 91.92.243.0/24
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 91.92.243.79
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.243.97
@@ -9464,6 +10102,8 @@ block from any to 91.92.244.25
 block from any to 91.92.244.26
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.244.52
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 91.92.244.58
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 91.92.244.67
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -9497,6 +10137,8 @@ block from any to 91.92.245.112
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.245.119
 # Netherlands https://www.abuseipdb.com/check/
+block from any to 91.92.245.247
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.245.249
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.245.250
@@ -9522,6 +10164,8 @@ block from any to 91.92.247.11
 block from any to 91.92.247.12
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 91.92.247.34
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 91.92.247.112
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.247.151
 # https://www.abuseipdb.com/check/
@@ -9529,17 +10173,23 @@ block from any to 91.92.247.169
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.247.196
 # Netherlands https://www.abuseipdb.com/check/
+block from any to 91.92.247.212
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.247.219
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.247.204
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.247.219
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 91.92.247.254
 # Netherlands RedLine Stealer https://threatfox.abuse.ch/browse/malware/win.redline_stealer/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 91.92.248.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 91.92.248.39
 # abuse.ch TF
 block from any to 91.92.248.48
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 91.92.248.125
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.248.134
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -9578,10 +10228,14 @@ block from any to 91.92.249.232
 block from any to 91.92.250.185
 # Netherlands https://red.flag.domains/posts/2024-01-11/ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 91.92.250.0/24
+#
+block from any to 91.92.250.96
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.250.99
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 91.92.250.101
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 91.92.250.167
 # Netherlands https://tracker.viriback.com/index.php?q=Neptune https://tracker.viriback.com/index.php?q=Amadey https://threatfox.abuse.ch/browse/malware/apk.ermac/ https://threatfox.abuse.ch/browse/malware/win.amadey/ https://threatfox.abuse.ch/browse/malware/win.remcos/ https://threatfox.abuse.ch/browse/malware/win.venom/ https://threatfox.abuse.ch/browse/malware/elf.bashlite/
 block from any to 91.92.251.0/24
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
@@ -9674,6 +10328,8 @@ block from any to 91.92.253.3
 block from any to 91.92.253.13
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 91.92.253.14
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 91.92.253.115
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 91.92.253.177
 # https://threatfox.abuse.ch/browse/tag/Havoc/
@@ -9734,6 +10390,8 @@ block from any to 91.92.255.61
 block from any to 91.92.255.83
 # https://threatfox.abuse.ch/browse/malware/apk.ermac/
 block from any to 91.92.255.136
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 91.92.255.137
 # https://www.abuseipdb.com/check/
 block from any to 91.92.255.186
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -9796,6 +10454,10 @@ block from any to 91.121.123.60
 block from any to 91.193.18.120
 # https://www.abuseipdb.com/check/
 block from any to 91.219.164.69
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 91.219.236.101
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 91.219.239.166
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/crambus-middle-east-government
 block from any to 91.132.92.90
 # UK https://blog.xlab.qianxin.com/rimasuta-new-variant-switches-to-chacha20-encryption-en/
@@ -9828,6 +10490,8 @@ block from any to 91.148.190.174
 block from any to 91.149.238.71
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 91.151.88.209
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 91.151.95.157
 # https://www.abuseipdb.com/check/
 block from any to 91.151.128.225
 # https://www.abuseipdb.com/check/
@@ -9836,6 +10500,8 @@ block from any to 91.161.14.130
 block from any to 91.109.178.8
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ wildundhund(.)de
 block from any to 91.184.36.253
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 91.188.254.6
 # UK https://www.abuseipdb.com/check/
 block from any to 91.191.209.0/24
 # UK https://www.abuseipdb.com/check/
@@ -9854,8 +10520,12 @@ block from any to 91.196.70.49
 block from any to 91.198.65.221
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 91.201.40.221
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 91.202.233.0/24
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 91.202.233.133
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 91.202.233.174
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 91.202.233.190
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
@@ -9864,6 +10534,8 @@ block from any to 91.203.134.122
 block from any to 91.204.139.118
 # https://www.abuseipdb.com/check/
 block from any to 91.204.226.108
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 91.206.26.26
 # https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
 block from any to 91.206.178.10
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -9872,6 +10544,8 @@ block from any to 91.207.102.163
 block from any to 91.208.127.168
 # https://red.flag.domains/posts/2024-04-05/ xn--renouvellement-complmentaire-sant-u6cn[.fr] (registrar: IONOS SE
 block from any to 91.208.184.222
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 91.210.59.57
 # https://threatfox.abuse.ch/browse/malware/win.darkcomet/
 block from any to 91.210.106.47
 # Russia https://www.abuseipdb.com/check/
@@ -9920,7 +10594,7 @@ block from any to 91.215.85.55
 block from any to 91.215.85.23
 # A.ch TF
 block from any to 91.215.85.66
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 91.215.85.131
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 91.215.85.203
@@ -10043,6 +10717,10 @@ block from any to 92.63.15.0/24
 block from any to 92.63.15.56
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
 block from any to 92.63.29.137
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 92.63.96.171
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 92.63.192.108
 # https://blog.lumen.com/the-darkside-of-themoon/ https://github.com/blacklotuslabs/IOCs/blob/main/Moon_Faceless_IOCs.txt
 block from any to 92.63.197.0/24
 # https://blog.lumen.com/the-darkside-of-themoon/ https://github.com/blacklotuslabs/IOCs/blob/main/Moon_Faceless_IOCs.txt
@@ -10120,6 +10798,8 @@ block from any to 92.118.39.98
 block from any to 92.118.39.118
 # Romania https://www.abuseipdb.com/check
 block from any to 92.118.39.119
+# Belgium https://www.abuseipdb.com/check
+block from any to 92.118.39.120
 # https://www.abuseipdb.com/check
 block from any to 92.118.39.153
 # Belgium https://www.abuseipdb.com/check
@@ -10152,6 +10832,8 @@ block from any to 92.158.158.212
 block from any to 92.204.134.38
 # https://www.abuseipdb.com/check
 block from any to 92.204.217.7
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 92.205.31.137
 # France https://www.abuseipdb.com/check/
 block from any to 92.205.108.83
 # https://red.flag.domains/posts/
@@ -10176,6 +10858,8 @@ block from any to 92.222.217.243
 block from any to 92.234.197.200
 # Russia https://www.abuseipdb.com/check/
 block from any to 92.241.100.126
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 92.243.64.130
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 92.251.131.147
 # https://www.abuseipdb.com/check/92.255.195.59
@@ -10194,15 +10878,19 @@ block from any to 93.51.177.66
 block from any to 93.63.158.147
 # Italy https://www.abuseipdb.com/check/
 block from any to 93.71.9.21
+# https://threatfox.abuse.ch/browse/malware/win.asyncrat/
+block from any to 93.71.184.63
 # https://www.abuseipdb.com/check/
 block from any to 93.87.123.208
 # Russia https://www.abuseipdb.com/check/
 block from any to 93.90.41.12
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 93.90.74.31
 # Germany https://www.abuseipdb.com/check/
 block from any to 93.93.246.3
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 93.95.228.81
-# Iceland https://www.abuseipdb.com/check/
+# Iceland https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt https://www.abuseipdb.com/check/
 block from any to 93.95.230.54
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 93.95.231.17
@@ -10222,6 +10910,8 @@ block from any to 93.122.157.85
 block from any to 93.123.39.0/24
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 93.123.39.16
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 93.123.39.57
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 93.123.39.73
 # Bulgaria https://www.abuseipdb.com/check/
@@ -10246,11 +10936,15 @@ block from any to 93.123.39.102
 block from any to 93.123.39.103
 # https://www.abuseipdb.com/check/
 block from any to 93.123.39.116
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 93.123.39.127
 # https://red.flag.domains/posts/
 block from any to 93.123.39.129
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 93.123.39.164
-# https://threatfox.abuse.ch/browse/malware/elf.moobot/ https://threatfox.abuse.ch/browse/malware/elf.bashlite/ https://threatfox.abuse.ch/browse/malware/elf.mirai/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 93.123.39.201
+# https://threatfox.abuse.ch/browse/malware/elf.moobot/ https://threatfox.abuse.ch/browse/malware/elf.moobot/ https://threatfox.abuse.ch/browse/malware/elf.bashlite/ https://threatfox.abuse.ch/browse/malware/elf.mirai/ https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 93.123.85.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 93.123.85.34
@@ -10295,6 +10989,8 @@ block from any to 93.123.85.80
 block from any to 93.123.85.86
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 93.123.85.174
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 93.127.202.69
 # https://www.abuseipdb.com/check/
 block from any to 93.148.111.18
 # A.ch TF
@@ -10311,6 +11007,8 @@ block from any to 93.172.169.224
 block from any to 93.174.95.106
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 93.177.100.138
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 93.177.102.47
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 93.183.95.223
 # https://www.virustotal.com/gui/ip-address/93.184.221.240
@@ -10369,6 +11067,8 @@ block from any to 94.98.194.203
 block from any to 94.99.45.196
 # https://red.flag.domains/posts/
 block from any to 94.100.132.71
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 94.102.51.15
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.102.57.152
 # Netherlands
@@ -10405,6 +11105,8 @@ block from any to 94.103.188.167
 block from any to 94.125.53.242
 # Sweden https://www.abuseipdb.com/check/
 block from any to 94.136.94.95
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 94.136.168.124
 # HookBot https://tracker.viriback.com/
 block from any to 94.177.106.44
 # https://www.abuseipdb.com/check/
@@ -10414,13 +11116,19 @@ block from any to 94.130.0.79
 block from any to 94.130.130.51
 block from any to 94.130.183.73
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms
+block from any to 94.131.3.0/24
+# https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms
 block from any to 94.131.3.160
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms
 block from any to 94.131.98.4
 # https://threatfox.abuse.ch/browse/malware/win.netsupportmanager_rat/
 block from any to 94.131.101.153
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 94.131.102.241
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 94.131.105.192
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 94.131.107.85
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/07/malicious-campaigns-target-entities-in-ukraine-poland.txt https://github.com/Cisco-Talos/IOCs/blob/main/2023/07/malicious-campaigns-target-entities-in-ukraine-poland.txt
 block from any to 94.131.108.109
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms
@@ -10437,7 +11145,9 @@ block from any to 94.142.138.1
 block from any to 94.142.138.254
 # https://www.abuseipdb.com/check/
 block from any to 94.142.142.157
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 94.142.244.16
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 94.154.34.137
 # https://red.flag.domains/posts/2024-04-16/ laposte-fr[.fr] (registrar: Sarek Oy
 block from any to 94.154.172.72
@@ -10445,6 +11155,22 @@ block from any to 94.154.172.72
 block from any to 94.198.50.195
 # Bulgaria https://threatfox.abuse.ch/browse/malware/elf.moobot/ https://www.abuseipdb.com/check/ https://threatfox.abuse.ch/browse/malware/elf.moobot/ https://red.flag.domains/posts/ 2024-03-02 registrar: AMEN / Agence des Médias Numériques chrono-colis[.fr] chronopost-envoiecolis[.fr] 2024-02-26 registrar: AMEN / Agence des Médias Numériques
 block from any to 94.156.8.0/24
+# https://threatfox.abuse.ch/browse/malware/win.cloudeye/
+block from any to 94.156.8.104
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 94.156.8.125
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 94.156.8.227
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 94.156.64.148
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 94.156.71.15
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 94.156.79.50
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 94.156.79.186
+# https://threatfox.abuse.ch/browse/malware/win.venom/
+block from any to 94.156.128.246
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 94.156.8.2
 # Germany https://www.abuseipdb.com/check/
@@ -10509,6 +11235,10 @@ block from any to 94.156.10.121
 block from any to 94.156.10.254
 # Netherlands https://tracker.viriback.com/index.php?q=Neptune https://www.abuseipdb.com/check/  https://threatfox.abuse.ch/browse/malware/win.asyncrat/ https://threatfox.abuse.ch/browse/malware/win.venom/ https://tracker.viriback.com/index.php?q=Risepro
 block from any to 94.156.64.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 94.156.64.27
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 94.156.64.41
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.64.73
 # Netherlands https://www.abuseipdb.com/check/
@@ -10525,6 +11255,10 @@ block from any to 94.156.64.120
 block from any to 94.156.64.121
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 94.156.64.122
+# https://tracker.viriback.com/index.php?q=HookBot
+block from any to 94.156.64.149
+# https://tracker.viriback.com/index.php?q=HookBot
+block from any to 94.156.64.152
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 94.156.64.193
 # Netherlands https://www.abuseipdb.com/check/
@@ -10535,7 +11269,9 @@ block from any to 94.156.64.207
 block from any to 94.156.64.216
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 94.156.64.237
-# Netherlands DNS https://red.flag.domains/posts/2024-02-18/ registrar: Hosting Concepts B.V. d/b/a Openprovider
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 94.156.64.241
+# Netherlands DNS https://red.flag.domains/posts/2024-02-18/ registrar: Hosting Concepts B.V. d/b/a Openprovider https://threatfox.abuse.ch/browse/malware/win.azorult/
 block from any to 94.156.65.0/24
 # Netherlands DNS https://red.flag.domains/posts/2024-02-18/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 94.156.65.0/24
@@ -10603,12 +11339,16 @@ block from any to 94.156.67.174
 block from any to 94.156.69.186
 # https://threatfox.abuse.ch/browse/malware/win.ave_maria/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/ https://blog.xlab.qianxin.com/mirai-tbot-en/
 block from any to 94.156.68.0/24
-# https://threatfox.abuse.ch/browse/malware/win.venom/
-block from any to 94.156.68.178
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 94.156.68.8
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.68.28
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 94.156.68.80
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 94.156.68.120
+# https://threatfox.abuse.ch/browse/malware/win.venom/
+block from any to 94.156.68.178
 # https://threatfox.abuse.ch/browse/malware/win.ave_maria/
 block from any to 94.156.68.226
 # https://blog.xlab.qianxin.com/mirai-tbot-en/
@@ -10617,6 +11357,8 @@ block from any to 94.156.68.148
 block from any to 94.156.68.150
 # https://blog.xlab.qianxin.com/mirai-tbot-en/
 block from any to 94.156.68.152
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 94.156.68.180
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.69.0/24
 # Netherlands https://www.abuseipdb.com/check/
@@ -10635,7 +11377,7 @@ block from any to 94.156.71.4
 block from any to 94.156.71.5
 # Netherlands
 block from any to 94.156.71.6
-# Netherlands
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.7
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.8
@@ -10712,7 +11454,11 @@ block from any to 94.156.71.201
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.223
 # Netherlands https://www.abuseipdb.com/check/
+block from any to 94.156.71.224
+# Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.225
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 94.156.71.226
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.156.71.232
 # Netherlands https://www.abuseipdb.com/check/
@@ -10771,8 +11517,12 @@ block from any to 94.228.162.82
 block from any to 94.228.163.98
 # Sweden https://www.abuseipdb.com/check/
 block from any to 94.228.165.82
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 94.228.169.68
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 94.228.169.198
+# https://threatfox.abuse.ch/browse/malware/win.icedid/
+block from any to 94.232.41.106
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 94.232.42.170
 # Netherlands https://www.abuseipdb.com/check/
@@ -10785,6 +11535,8 @@ block from any to 94.237.46.6
 block from any to 94.232.47.87
 # Germany https://www.abuseipdb.com/check/
 block from any to 94.237.83.87
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 92.246.84.133
 # Armenia https://tracker.viriback.com/index.php?q=Meduza https://tracker.viriback.com/index.php?q=Risepro
 block from any to 92.246.136.0/24
 # https://tracker.viriback.com/index.php?q=Meduza
@@ -10803,6 +11555,8 @@ block from any to 92.246.139.121
 block from any to 94.249.3.0
 # Bosnia and Herzegovina https://www.abuseipdb.com/check/
 block from any to 94.250.77.226
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 94.250.249.104
 # Turkey https://www.abuseipdb.com/check/95.9.191.195
 block from any to 95.9.191.195
 # Spain https://www.abuseipdb.com/check/
@@ -10847,6 +11601,11 @@ block from any to 95.142.179.157
 block from any to 95.155.36.152
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 95.164.3.243
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 95.164.19.0/24
+block from any to 95.164.19.16
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 95.164.19.54
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 95.164.22.41
 # Norway https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms
@@ -10855,14 +11614,22 @@ block from any to 95.164.38.99
 block from any to 95.164.46.199
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 95.165.99.74
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 95.164.117.2
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 95.169.196.22
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 95.179.144.16
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 95.179.187.111
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 95.179.189.177
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 95.179.200.130
 # Italy https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/
 block from any to 95.213.194.163
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 95.216.22.35
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 95.216.41.236
 # Finland https://krebsonsecurity.com/2023/09/whos-behind-the-8base-ransomware-website/
@@ -10903,6 +11670,8 @@ block from any to 95.217.240.44
 block from any to 95.217.241.187
 # https://threatfox.abuse.ch/browse/malware/win.vidar/
 block from any to 95.217.243.137
+# https://threatfox.abuse.ch/browse/malware/win.vidar/
+block from any to 95.217.246.168
 # Germany https://www.abuseipdb.com/check/
 block from any to 95.223.82.253
 # https://www.abuseipdb.com/check/
@@ -10973,6 +11742,8 @@ block from any to 95.214.27.112
 block from any to 95.214.27.118
 # https://www.abuseipdb.com/check
 block from any to 95.214.27.140
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 95.214.27.244
 # https://www.abuseipdb.com/check/95.229.66.163
 block from any to 95.229.66.163
 # US https://www.abuseipdb.com/check/
@@ -11009,6 +11780,8 @@ block from any to 96.29.129.60
 block from any to 96.30.196.207
 # https://www.abuseipdb.com/check/
 block from any to 96.43.137.18
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 96.44.159.46
 # BianLian https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 96.44.166.186
 # Canada https://www.abuseipdb.com/check/
@@ -11111,6 +11884,8 @@ block from any to 101.32.168.130
 block from any to 101.32.244.107
 # Korea https://www.abuseipdb.com/check/
 block from any to 101.33.79.22
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 101.33.192.242
 # https://www.abuseipdb.com/check/
 block from any to 101.33.204.201
 # https://www.abuseipdb.com/check/
@@ -11129,6 +11904,8 @@ block from any to 101.35.198.120
 block from any to 101.36.97.187
 # HK https://www.abuseipdb.com/check/
 block from any to 101.36.107.65
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 101.37.13.119
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 101.37.14.112
 # https://www.abuseipdb.com/check/
@@ -11198,6 +11975,10 @@ block from any to 101.99.75.183
 # Malaysia https://github.com/blacklotuslabs/IOCs/blob/main/ZuoRAT_IoCs.txt
 block from any to 101.99.91.10
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
+block from any to 101.99.92.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ apk
+block from any to 101.99.92.10
+# https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 101.99.92.169
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 101.99.94.224
@@ -11211,10 +11992,14 @@ block from any to 101.113.39.48
 block from any to 101.126.66.68
 # China https://www.abuseipdb.com/check/
 block from any to 101.132.42.220
+# https://threatfox.abuse.ch/browse/malware/unknown/ Supershell
+block from any to 101.200.121.56
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 101.200.214.198
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 101.201.46.105
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 101.201.54.74
 # China https://www.abuseipdb.com/check/
 block from any to 101.201.78.145
 # China https://www.abuseipdb.com/check/
@@ -11251,6 +12036,8 @@ block from any to 102.165.56.50
 block from any to 101.202.25.147
 # Kenya https://www.abuseipdb.com/check/
 block from any to 102.213.49.3
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 102.217.157.201
 # Kenya https://www.abuseipdb.com/check/
 block from any to 102.220.22.246
 # Kenya
@@ -11263,6 +12050,8 @@ block from any to 102.244.184.0/24
 block from any to 103.2.232.82
 # Bangladesh https://www.abuseipdb.com/check/
 block from any to 103.4.145.50
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.6.198.97
 # China https://www.abuseipdb.com/check/
 block from any to 103.10.87.52
 # India https://www.abuseipdb.com/check/
@@ -11275,6 +12064,10 @@ block from any to 103.13.28.40
 block from any to 103.13.211.211
 # India https://www.abuseipdb.com/check/
 block from any to 103.16.46.194
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.16.198.18
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 103.20.222.218
 # https://publicwww.com/websites/%22hostpdf.co%22/ https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/
 block from any to 103.21.221.99
 # https://www.abuseipdb.com/check/
@@ -11289,6 +12082,8 @@ block from any to 103.27.35.214
 block from any to 103.27.109.33
 # https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement?hl=en
 block from any to 103.27.110.83
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 103.27.132.69
 # https://github.com/eset/malware-ioc/tree/master/gref
 block from any to 103.27.186.0/24
 # https://github.com/eset/malware-ioc/tree/master/gref
@@ -11299,6 +12094,8 @@ block from any to 103.27.186.195
 block from any to 103.28.32.56
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 103.28.33.96
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.28.36.106
 # https://www.abuseipdb.com/check/
 block from any to 103.28.53.50
 # https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html https://publicwww.com/websites/%22var+e+%3D+d%5B%27create%27+%2B+%27Element%27%5D%28%27scr%27+%2B+%27ipt%27%29%3B+e%5B%27src%27%5D+%3D+%27https%3A%2F%2Fhost.cloudsonicwave.com%22/
@@ -11313,6 +12110,16 @@ block from any to 103.31.226.155
 block from any to 103.35.189.93
 # https://www.abuseipdb.com/check/
 block from any to 103.36.84.194
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.36.180.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.36.180.42
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.36.180.172
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.36.180.183
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.36.180.189
 # India https://www.abuseipdb.com/check/
 block from any to 103.38.183.42
 # India https://www.abuseipdb.com/check/
@@ -11351,12 +12158,16 @@ block from any to 103.45.246.0/24
 block from any to 103.45.246.23
 # Sweden https://www.abuseipdb.com/check/
 block from any to 103.45.246.42
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 103.47.82.210
 # https://www.abuseipdb.com/check/
 block from any to 103.47.184.2
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 103.47.195.200
 # Mystic Stealer https://threatfox.abuse.ch/browse/malware/win.mystic_stealer/
 block from any to 103.49.68.42
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 103.51.140.101
 # https://www.abuseipdb.com/check/
 block from any to 103.52.145.98
 # https://www.abuseipdb.com/check/
@@ -11410,6 +12221,8 @@ block from any to 103.74.106.117
 block from any to 103.74.172.161
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 103.74.192.103
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.76.181.174
 # India https://www.abuseipdb.com/check/
 block from any to 103.76.213.229
 # Pakistan https://www.abuseipdb.com/check/
@@ -11434,6 +12247,8 @@ block from any to 103.82.26.41
 block from any to 103.82.97.230
 # A.ch TF
 block from any to 103.82.134.190
+# https://threatfox.abuse.ch/browse/malware/win.havoc/
+block from any to 103.82.195.234
 # https://www.abuseipdb.com/check/
 block from any to 103.82.243.76
 # https://www.abuseipdb.com/check/
@@ -11454,6 +12269,8 @@ block from any to 103.91.136.18
 block from any to 103.92.101.115
 # India https://www.abuseipdb.com/check/
 block from any to 103.93.9.232
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 103.95.196.149
 # Vietnam https://www.abuseipdb.com/check/
 block from any to 103.95.198.199
 # India https://www.abuseipdb.com/check/
@@ -11484,8 +12301,12 @@ block from any to 103.109.180.112
 block from any to 103.109.183.133
 # https://www.abuseipdb.com/check/
 block from any to 103.110.12.114
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 103.110.33.164
 # https://red.flag.domains/posts/2024-04-19/ hubspot[.pm] (registrar: Sarek Oy
 block from any to 103.113.70.134
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 103.131.57.59
 # India https://www.abuseipdb.com/check/
 block from any to 103.134.164.197
 # Vietnam https://www.abuseipdb.com/check/
@@ -11504,10 +12325,16 @@ block from any to 103.114.104.158
 block from any to 103.114.106.29
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 103.114.163.214
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 103.114.200.230
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
 block from any to 103.116.52.207
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 103.119.3.230
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 103.119.174.37
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 103.125.218.198
 # https://www.abuseipdb.com/check/
 block from any to 103.130.145.236
 # https://red.flag.domains/posts/2024-04-23/ appleconnect[.fr] (registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
@@ -11522,6 +12349,8 @@ block from any to 103.134.2.189
 block from any to 103.134.164.197
 # https://www.abuseipdb.com/check/
 block from any to 103.136.42.221
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 103.136.150.94
 # Singapore https://www.abuseipdb.com/check/
 block from any to 103.136.221.141
 # https://www.abuseipdb.com/check/
@@ -11560,6 +12389,8 @@ block from any to 103.144.245.15
 block from any to 103.145.87.4
 # Indonesia https://www.abuseipdb.com/check/
 block from any to 103.145.142.44
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 103.145.191.100
 # A.ch TF
 block from any to 103.145.191.118
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -11569,7 +12400,11 @@ block from any to 103.146.16.52
 # A.ch TF
 block from any to 103.146.50.208
 # https://tracker.viriback.com/index.php?q=Supershell
+block from any to 103.146.179.0/24
+# https://tracker.viriback.com/index.php?q=Supershell
 block from any to 103.146.179.82
+# https://threatfox.abuse.ch/browse/malware/unknown/ Supershell
+block from any to 103.146.179.123
 # https://www.abuseipdb.com/check/
 block from any to 103.147.62.157
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -11670,6 +12505,12 @@ block from any to 103.173.226.118
 block from any to 103.174.73.85
 # https://thedfirreport.com/2023/12/18/lets-opendir-some-presents-an-analysis-of-a-persistent-actors-activity/
 block from any to 103.174.104.51
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.175.51.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.175.51.137
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.175.51.183
 # A.ch TF
 block from any to 103.178.235.88
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
@@ -11733,10 +12574,36 @@ block from any to 103.203.57.7
 block from any to 103.203.57.13
 # https://www.abuseipdb.com/check/
 block from any to 103.207.37.102
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.252.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.252.16
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.252.34
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.252.95
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.254.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.254.11
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.254.112
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.254.137
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.255.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.255.80
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.255.92
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 103.209.255.109
 # https://github.com/eset/malware-ioc/tree/master/evasive_panda
 block from any to 103.210.33.0/24
 # India https://www.abuseipdb.com/check/
 block from any to 103.211.57.101
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 103.212.81.116
 # https://github.com/eset/malware-ioc/tree/master/evasive_panda
 block from any to 103.212.145.0/24
 # Singapore https://www.abuseipdb.com/check/
@@ -11783,6 +12650,8 @@ block from any to 103.224.212.211
 block from any to 103.224.212.213
 # Vietnam https://www.abuseipdb.com/check/
 block from any to 103.228.37.94
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 103.228.126.17
 # India https://www.abuseipdb.com/check/
 block from any to 103.228.149.245
 # India https://www.abuseipdb.com/check/
@@ -11809,8 +12678,12 @@ block from any to 103.235.16.57
 block from any to 103.237.86.195
 # Bangladesh https://www.abuseipdb.com/check/
 block from any to 103.245.109.37
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/ https://threatfox.abuse.ch/browse/malware/win.venom/
+block from any to 103.245.236.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 103.245.236.118
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 103.245.236.188
 # Malaysia https://www.blognone.com/node/137757 https://csirt-cti.net/2024/02/01/stately-taurus-continued-new-information-on-cyberespionage-attacks-against-myanmar-military-junta/
 block from any to 103.249.84.137
 # Indonesia https://www.abuseipdb.com/check/
@@ -11849,7 +12722,7 @@ block from any to 103.248.94.0/24
 block from any to 103.248.120.6
 # Philippines https://www.abuseipdb.com/check/
 block from any to 103.250.196.10
-# https://www.abuseipdb.com/check/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt https://www.abuseipdb.com/check/
 block from any to 103.251.167.20
 # https://www.abuseipdb.com/check/104.16.83.81
 block from any to 104.16.83.81
@@ -12107,6 +12980,8 @@ block from any to 104.21.45.96
 block from any to 104.21.45.114
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.46.0/24
+# https://threatfox.abuse.ch/browse/malware/win.lokipws/
+block from any to 104.21.46.21
 # https://tracker.viriback.com/index.php?q=Lokibot
 block from any to 104.21.46.100
 # https://www.abuseipdb.com/check/104.21.46.149
@@ -12358,6 +13233,8 @@ block from any to 104.129.20.71
 # Cobalt Strike https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 104.129.182.226
 # US https://www.abuseipdb.com/check/
+block from any to 104.131.144.8
+# US https://www.abuseipdb.com/check/
 block from any to 104.131.186.218
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 104.131.187.5
@@ -12429,6 +13306,8 @@ block from any to 104.156.155.0/24
 block from any to 104.156.155.5
 # https://www.abuseipdb.com/check/
 block from any to 104.156.155.36
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 104.156.232.22
 # https://github.com/blacklotuslabs/IOCs/blob/main/KVbotnet_IOCs.txt
 block from any to 104.156.246.150
 # https://www.abuseipdb.com/check/
@@ -12515,12 +13394,16 @@ block from any to 104.200.29.15
 block from any to 104.200.67.3
 # https://blog.lumen.com/the-darkside-of-themoon/ https://github.com/blacklotuslabs/IOCs/blob/main/Moon_Faceless_IOCs.txt
 block from any to 104.200.72.0/24
-# A.ch TF
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 104.200.72.22
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 104.200.72.113
 # https://blog.lumen.com/the-darkside-of-themoon/ https://github.com/blacklotuslabs/IOCs/blob/main/Moon_Faceless_IOCs.txt
 block from any to 104.200.72.120
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 104.209.128.50
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 104.214.168.71
 # https://www.abuseipdb.com/check/
 block from any to 104.223.43.123
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
@@ -12579,6 +13462,8 @@ block from any to 104.237.252.0/24
 block from any to 104.237.252.14
 # Loki Password Stealer (PWS) https://threatfox.abuse.ch/browse/malware/win.lokipws/
 block from any to 104.237.252.65
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 104.238.35.20
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/ https://threatfox.abuse.ch/browse/tag/Havoc/
 block from any to 104.238.60.0/24
 # https://threatfox.abuse.ch/browse/tag/Havoc/
@@ -12595,14 +13480,24 @@ block from any to 104.243.27.95
 block from any to 104.243.37.110
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 104.243.46.129
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.244.72.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 104.244.72.108
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.244.72.115
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.244.73.0/24
 # https://www.abuseipdb.com/check/
 block from any to 104.244.73.43
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.244.73.193
 # https://www.abuseipdb.com/check/
 block from any to 104.244.75.98
 # https://www.abuseipdb.com/check/
 block from any to 104.244.77.158
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 104.244.77.192
 # https://www.abuseipdb.com/check/
 block from any to 104.244.75.98
 # https://www.abuseipdb.com/check/
@@ -12723,6 +13618,10 @@ block from any to 106.12.174.99
 block from any to 106.13.198.93
 # https://www.abuseipdb.com/check/
 block from any to 106.13.213.186
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 106.14.75.240
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 106.14.143.151
 # China https://www.abuseipdb.com/check/
 block from any to 106.37.178.165
 # China https://www.abuseipdb.com/check/
@@ -12771,6 +13670,8 @@ block from any to 106.53.186.12
 block from any to 106.54.143.222
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 106.54.207.116
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 106.54.222.22
 # https://www.abuseipdb.com/check/
 block from any to 106.54.227.134
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -12889,6 +13790,8 @@ block from any to 106.241.54.211
 block from any to 106.247.227.42
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 107.148.1.128
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 107.148.19.88
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 107.148.37.67
 # https://threatfox.abuse.ch/browse/malware/win.rhadamanthys/
@@ -12899,12 +13802,32 @@ block from any to 107.167.92.76
 block from any to 107.167.93.99
 # DFA https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
 block from any to 107.178.223.183
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.1.9
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.4.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.4.12
 # https://viriback.com/2022-c2-tracker-recap-in-graphics/
 block from any to 107.189.4.253
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.7.144
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.8.0/24
 # https://www.abuseipdb.com/check/
 block from any to 107.189.8.5
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.8.133
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.8.181
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.11.111
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.13.254
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 107.189.14.144
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.30.69
 # DNS b[.]9-9-8[.]com https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
 block from any to 107.189.31.172
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -12943,6 +13866,8 @@ block from any to 107.170.192.25
 block from any to 107.170.208.31
 # US https://www.abuseipdb.com/check/
 block from any to 107.170.225.0/24
+# US https://www.abuseipdb.com/check/
+block from any to 107.170.225.14
 # https://www.abuseipdb.com/check/
 block from any to 107.170.225.15
 # US https://www.abuseipdb.com/check/
@@ -13043,6 +13968,8 @@ block from any to 107.170.253.35
 block from any to 107.170.253.36
 # US https://www.abuseipdb.com/check/
 block from any to 107.170.255.30
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 107.172.16.208
 # abuse.ch
 block from any to 107.172.25.67
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -13051,6 +13978,10 @@ block from any to 107.172.133.197
 block from any to 107.172.157.239
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 107.172.209.239
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 107.173.140.111
+# https://threatfox.abuse.ch/browse/malware/unknown/ Supershell
+block from any to 107.173.201.151
 # abuse.ch
 block from any to 107.174.245.122
 # abuse.ch
@@ -13090,6 +14021,8 @@ block from any to 107.189.5.33
 block from any to 107.189.8.5
 # https://www.abuseipdb.com/check/
 block from any to 107.189.30.69
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 107.189.30.236
 # https://www.abuseipdb.com/check/
 block from any to 107.189.31.127
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -13172,6 +14105,22 @@ block from any to 109.13.212.72
 block from any to 109.49.145.31
 # https://www.abuseipdb.com/check/
 block from any to 109.63.183.107
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.70.100.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.70.100.2
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.70.100.3
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.70.100.4
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.70.100.66
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.70.100.70
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.70.100.71
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.70.148.39
 # Russia https://www.abuseipdb.com/check/
 block from any to 109.72.73.135
 # https://www.abuseipdb.com/check/
@@ -13182,10 +14131,14 @@ block from any to 109.86.69.82
 block from any to 109.92.246.62
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 109.104.152.24
+# https://threatfox.abuse.ch/browse/malware/win.metastealer/
+block from any to 109.107.157.17
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/ https://tracker.viriback.com/index.php?q=Meduza
 block from any to 109.107.181.0/24
 # abuse.ch
 block from any to 109.107.181.33
+# https://tracker.viriback.com/index.php?q=Meduza
+block from any to 109.107.181.48
 # https://tracker.viriback.com/index.php?q=Meduza
 block from any to 109.107.181.83
 # https://threatfox.abuse.ch/browse/malware/elf.moobot/
@@ -13200,6 +14153,8 @@ block from any to 109.107.182.28
 block from any to 109.107.182.145
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 109.107.182.163
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 109.107.182.168
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 109.107.182.205
 # https://www.abuseipdb.com/check/
@@ -13208,8 +14163,16 @@ block from any to 109.107.183.195
 block from any to 109.107.190.226
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 109.120.176.38
+# https://threatfox.abuse.ch/browse/malware/win.meduza/
+block from any to 109.120.177.0/24
+# https://threatfox.abuse.ch/browse/malware/win.meduza/
+block from any to 109.120.177.64
 # https://tracker.viriback.com/index.php?q=Meduza
 block from any to 109.120.177.177
+# https://tracker.viriback.com/index.php?q=Meduza https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 109.120.178.0/24
+# https://tracker.viriback.com/index.php?q=Meduza
+block from any to 109.120.178.115
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 109.120.178.253
 # https://threatfox.abuse.ch/browse/malware/unknown/
@@ -13232,10 +14195,14 @@ block from any to 109.167.197.20
 block from any to 109.169.5.210
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 109.172.45.197
+# https://threatfox.abuse.ch/browse/malware/win.stealc/
+block from any to 109.172.112.246
 # https://misp.cert.ssi.gouv.fr/feed-misp/62167543-c4e0-4f39-a23e-c09f0abe1822.json
 block from any to 109.192.30.125
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 109.199.120.42
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.200.236.38
 # US https://www.abuseipdb.com/check/
 block from any to 109.205.213.0/24
 # UK https://www.abuseipdb.com/check/
@@ -13266,6 +14233,8 @@ block from any to 109.233.21.109
 block from any to 109.234.30.94
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 109.234.34.210
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 109.234.161.104
 # France odns.fr https://red.flag.domains/posts/2024-02-17/ registrar: SCALEWAY
 block from any to 109.234.165.0/24
 # France odns.fr https://red.flag.domains/posts/2024-02-17/ registrar: SCALEWAY
@@ -13332,6 +14301,8 @@ block from any to 110.40.38.0/24
 block from any to 110.40.38.3
 # China https://www.abuseipdb.com/check
 block from any to 110.40.38.55
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 110.40.139.46
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 110.40.229.65
 # https://www.abuseipdb.com/check/110.39.51.118
@@ -13353,6 +14324,8 @@ block from any to 110.42.185.232
 block from any to 110.42.200.114
 # https://www.abuseipdb.com/check/110.42.217.88
 block from any to 110.42.217.88
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 110.47.250.103
 # Japan https://www.abuseipdb.com/check
 block from any to 110.67.139.85
 # China https://www.abuseipdb.com/check/
@@ -13481,6 +14454,8 @@ block from any to 111.173.116.170
 block from any to 111.178.83.89
 # China https://www.abuseipdb.com/check/
 block from any to 111.179.95.152
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 111.180.192.60
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 111.180.204.0/24
 # China https://www.abuseipdb.com/check/
@@ -13606,8 +14581,12 @@ block from any to 112.185.218.250
 block from any to 112.192.20.25
 # A.ch TF
 block from any to 112.196.45.11
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 112.206.48.41
 # https://www.abuseipdb.com/check/
 block from any to 112.216.21.219
+# Korea https://www.abuseipdb.com/check/
+block from any to 112.216.190.234
 # China https://www.abuseipdb.com/check/
 block from any to 112.248.82.141
 # https://threatfox.abuse.ch/browse/malware/elf.mozi/
@@ -13802,6 +14781,8 @@ block from any to 114.217.51.183
 block from any to 115.23.206.148
 # China https://www.abuseipdb.com/check/
 block from any to 115.55.72.118
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 115.73.123.52
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 115.74.20.156
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -13884,8 +14865,26 @@ block from any to 116.30.231.144
 block from any to 116.49.240.20
 # Philippines https://www.abuseipdb.com/check/
 block from any to 116.50.242.238
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 116.62.197.217
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 116.90.73.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 116.90.73.4
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 116.90.73.8
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 116.90.73.16
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 116.90.74.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 116.90.74.197
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 116.90.74.215
 # China https://www.abuseipdb.com/check/
 block from any to 116.95.80.122
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 116.98.1.141
 # https://www.abuseipdb.com/check/
 block from any to 116.98.173.178
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -13930,6 +14929,8 @@ block from any to 116.203.15.0/24
 block from any to 116.203.15.18
 # https://www.abuseipdb.com/check/
 block from any to 116.203.15.153
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 116.203.56.238
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 116.203.69.241
 # A.ch TF
@@ -13938,6 +14939,8 @@ block from any to 116.203.123.207
 block from any to 116.203.134.227
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 116.203.143.98
+# https://threatfox.abuse.ch/browse/malware/win.vidar/
+block from any to 116.203.167.106
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 116.203.236.141
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
@@ -13964,6 +14967,8 @@ block from any to 116.204.110.99
 block from any to 116.204.182.53
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 116.204.211.132
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 116.205.185.98
 # https://www.abuseipdb.com/check/
 block from any to 116.206.59.44
 # https://www.abuseipdb.com/check/116.206.124.109
@@ -13994,6 +14999,8 @@ block from any to 117.2.91.112
 block from any to 117.2.142.24
 # Vietnam https://www.abuseipdb.com/check/
 block from any to 117.4.137.29
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 117.5.152.201
 # China https://www.abuseipdb.com/check/
 block from any to 117.14.114.38
 # https://www.abuseipdb.com/check/117.18.15.29
@@ -14160,6 +15167,8 @@ block from any to 118.81.87.233
 block from any to 118.89.125.171
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/c/earth-krahang-exploits-intergovernmental-trust-to-launch-cross-government-attacks/ioc_earth_krahang.txt
 block from any to 118.99.6.202
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 118.100.156.227
 # https://www.abuseipdb.com/check/
 block from any to 118.101.192.62
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -14291,6 +15300,8 @@ block from any to 119.45.227.37
 block from any to 119.54.93.131
 # https://www.abuseipdb.com/check/
 block from any to 119.73.99.50
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 119.91.45.113
 # China https://www.abuseipdb.com/check/
 block from any to 119.91.147.96
 # https://www.abuseipdb.com/check/119.91.212.215
@@ -14303,6 +15314,8 @@ block from any to 119.96.192.219
 block from any to 119.100.39.59
 # China https://www.abuseipdb.com/check/
 block from any to 119.100.232.30
+# China https://www.abuseipdb.com/check/
+block from any to 119.147.211.178
 # China https://www.abuseipdb.com/check/
 block from any to 119.147.212.2
 # India https://www.abuseipdb.com/check/
@@ -14335,6 +15348,8 @@ block from any to 120.26.168.141
 block from any to 120.26.196.41
 # China https://www.abuseipdb.com/check/
 block from any to 120.26.213.67
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 120.26.224.87
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 120.26.243.135
 # China https://www.abuseipdb.com/check/
@@ -14429,12 +15444,16 @@ block from any to 121.36.33.53
 block from any to 121.36.61.185
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 121.36.198.85
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 121.37.174.139
 # abuse.ch TF
 block from any to 121.37.210.39
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 121.37.215.238
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 121.37.222.182
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 121.37.230.155
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 121.37.250.168
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -14515,6 +15534,8 @@ block from any to 121.204.251.56
 block from any to 121.225.149.200
 # China https://www.abuseipdb.com/check/
 block from any to 121.226.140.161
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 121.227.168.69
 # China https://www.abuseipdb.com/check/
 block from any to 121.236.187.214
 # https://www.abuseipdb.com/check/
@@ -14669,6 +15690,8 @@ block from any to 123.56.214.38
 block from any to 123.57.3.221
 # China https://www.abuseipdb.com/check/
 block from any to 123.57.39.117
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 123.57.137.235
 # China https://www.abuseipdb.com/check/
 block from any to 123.57.147.214
 # China https://www.abuseipdb.com/check/
@@ -14707,6 +15730,10 @@ block from any to 123.163.114.235
 block from any to 123.166.66.69
 # China https://www.abuseipdb.com/check/
 block from any to 123.173.81.221
+# China https://www.abuseipdb.com/check/
+block from any to 123.178.210.68
+# China https://www.abuseipdb.com/check/
+block from any to 123.179.65.118
 # China https://www.abuseipdb.com/check/
 block from any to 123.182.151.47
 # China https://www.abuseipdb.com/check/
@@ -14881,6 +15908,10 @@ block from any to 124.222.105.210
 block from any to 124.222.147.8
 # https://www.abuseipdb.com/check/
 block from any to 124.222.172.108
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 124.222.173.133
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 124.223.9.21
 # China https://www.abuseipdb.com/check/
 block from any to 124.223.163.19
 # https://www.abuseipdb.com/check/
@@ -14965,6 +15996,8 @@ block from any to 125.228.52.125
 block from any to 125.252.82.209
 # Japan https://www.abuseipdb.com/check/
 block from any to 126.41.243.68
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 126.227.76.24
 # h  block from any to 128.0.0.0/2
 # Russia https://www.abuseipdb.com/check/
 block from any to 128.1.43.38
@@ -15000,6 +16033,8 @@ block from any to 128.14.209.38
 block from any to 128.14.209.42
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 128.14.226.110
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 128.14.237.229
 # https://github.com/eset/malware-ioc/tree/master/evasive_panda
 block from any to 128.61.64.0/24
 block from any to 128.65.195.82
@@ -15155,6 +16190,10 @@ block from any to 131.186.56.94
 block from any to 132.145.115.97
 # https://www.abuseipdb.com/check/
 block from any to 132.145.208.65
+# abuse.ch TF
+block from any to 131.186.56.94
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 131.196.252.148
 # https://www.abuseipdb.com/check/
 block from any to 132.248.65.8
 # US https://www.abuseipdb.com/check/
@@ -15189,6 +16228,8 @@ block from any to 134.35.5.133
 block from any to 134.122.2.155
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 134.122.75.115
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 134.122.109.15
 # https://threatfox.abuse.ch/browse/malware/vbs.vbrevshell/
 block from any to 134.122.132.0/24
 # https://threatfox.abuse.ch/browse/malware/vbs.vbrevshell/
@@ -15297,6 +16338,8 @@ block from any to 136.144.41.76
 block from any to 136.158.95.102
 # Philippines https://www.abuseipdb.com/check/
 block from any to 136.158.103.188
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 136.158.126.30
 # Philippines https://www.abuseipdb.com/check/
 block from any to 136.158.220.2
 # Philippines https://www.abuseipdb.com/check/
@@ -15364,6 +16407,8 @@ block from any to 137.184.177.151
 block from any to 137.184.180.150
 # US https://www.abuseipdb.com/check/
 block from any to 137.184.226.250
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 137.184.228.202
 # https://www.abuseipdb.com/check/
 block from any to 137.184.230.3
 # US https://www.abuseipdb.com/check/
@@ -15488,6 +16533,14 @@ block from any to 138.197.183.245
 #block from any to 138.199.26.0/24
 # https://www.abuseipdb.com/check/138.199.38.57
 block from any to 138.199.38.57
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 138.199.58.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 138.199.58.204
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 138.199.58.208
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 138.199.58.212
 # win.ducktail abuse.ch TF
 block from any to 138.201.8.186
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/ipfs-abuse.txt
@@ -15496,6 +16549,8 @@ block from any to 138.201.103.170
 block from any to 138.201.176.60
 # https://www.abuseipdb.com/check/
 block from any to 138.219.151.128
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 138.219.238.152
 # abuse.ch TF
 block from any to 139.9.36.241
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -15553,14 +16608,18 @@ block from any to 139.59.230.191
 block from any to 139.84.137.249
 # abuse.ch TF
 block from any to 139.84.162.47
+# abuse.ch TF
+block from any to 139.84.228.75
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/01/new-zardoor-backdoor.txt
 block from any to 139.84.229.192
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/01/new-zardoor-backdoor.txt
 block from any to 139.84.232.245
-# abuse.ch TF
-block from any to 139.84.228.75
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 139.84.234.159
 # abuse.ch TF
 block from any to 139.84.235.8
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/coralraider-targets-socialmedia-accounts.txt
+block from any to 139.99.23.9
 # https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus OVH
 block from any to 139.99.64.79
 # https://threatfox.abuse.ch/browse/malware/win.agent_tesla/
@@ -15579,6 +16638,8 @@ block from any to 139.144.96.150
 block from any to 139.144.212.80
 # US https://www.abuseipdb.com/check/
 block from any to 139.144.239.185
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 139.159.241.73
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 139.199.2.99
 # China https://www.abuseipdb.com/check/
@@ -15587,10 +16648,14 @@ block from any to 139.199.154.89
 block from any to 139.219.4.166
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 139.162.21.6
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 139.162.135.12
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 139.162.136.99
 # https://blog.sekoia.io/calisto-doxxing-sekoia-io-findings-concurs-to-reuters-investigation-on-fsb-related-andrey-korinets/
 block from any to 139.162.145.184
+# Germany https://www.abuseipdb.com/check/
+block from any to 139.162.157.229
 # Germany https://www.abuseipdb.com/check/
 block from any to 139.162.190.203
 # https://www.abuseipdb.com/check/
@@ -15617,7 +16682,7 @@ block from any to 139.180.191.240
 block from any to 139.180.194.228
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 139.180.199.124
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 139.180.218.26
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 139.196.191.50
@@ -15629,17 +16694,23 @@ block from any to 139.198.104.138
 block from any to 139.198.153.50
 # https://www.abuseipdb.com/check/139.198.170.142
 block from any to 139.198.170.142
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 139.199.2.99
+# China https://www.abuseipdb.com/check/
+block from any to 139.199.154.89
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 139.217.83.230
 # https://threatfox.abuse.ch/browse/malware/py.responder/
 block from any to 139.218.246.83
+# https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/emotet-switches-to-onenote.txt
+block from any to 139.219.4.166
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 139.227.33.78
 block from any to 140.60.144.0/24
 # Dod
 block from any to 140.60.144.191
-# github, was CnC ASYNCRAT https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?Name=Trojan:MSIL/Asyncrat htttps://www.virustotal.com/gui/ip-address/140.82.121.3 https://www.abuseipdb.com/check/140.82.121.3
-# block from any to 140.82.121.3
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 140.82.20.246
 # https://github.com/Cisco-Talos/IOCs/blob/main/2024/01/new-zardoor-backdoor.txt
 block from any to 140.82.33.130
 # https://www.abuseipdb.com/check/
@@ -15707,6 +16778,8 @@ block from any to 141.94.206.116
 block from any to 141.94.244.50
 # A.ch TF
 block from any to 141.94.246.124
+# https://threatfox.abuse.ch/browse/malware/win.remcos/
+block from any to 141.95.84.40
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 141.95.103.204
 # A.ch TF
@@ -15725,7 +16798,7 @@ block from any to 141.98.6.95
 block from any to 141.98.6.96
 # https://threatfox.abuse.ch/browse/malware/win.agent_tesla/
 block from any to 141.98.6.154
-# https://tracker.viriback.com/index.php?q=Lokibot
+# https://threatfox.abuse.ch/browse/malware/win.lokipws/
 block from any to 141.98.6.249
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 141.98.6.253
@@ -15813,6 +16886,8 @@ block from any to 141.164.174.223
 block from any to 141.193.213.10
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/ gradecam(.)com https://www.virustotal.com/gui/ip-address/141.193.213.11
 block from any to 141.193.213.11
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 141.195.112.200
 # A.ch TF
 block from any to 141.255.145.242
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -15831,6 +16906,8 @@ block from any to 142.11.201.124
 block from any to 142.11.211.144
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 142.11.214.73
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 142.11.236.34
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 142.11.237.226
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -15853,6 +16930,8 @@ block from any to 142.93.72.33
 block from any to 142.93.74.100
 # https://tehtris.com/fr/blog/notre-selection-des-alertes-de-nos-honeypots-bulletin-9-mai-2023/
 block from any to 142.93.115.5
+# Netherlands https://www.abuseipdb.com/check/
+block from any to 142.93.142.33
 # abuse.ch TF
 block from any to 142.93.143.86
 # https://www.abuseipdb.com/check/
@@ -15944,6 +17023,8 @@ block from any to 143.198.10.175
 block from any to 143.198.30.16
 # Canada https://www.abuseipdb.com/check/
 block from any to 143.198.46.19
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 143.198.54.223
 # US https://www.abuseipdb.com/check/
 block from any to 143.198.59.197
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
@@ -15973,6 +17054,8 @@ block from any to 143.244.57.0/24
 # https://www.virustotal.com/gui/url/33bbcf7530419ac61f185990e7bd98ab19dfa586ecb4962ef0c4dc114cec573a
 block from any to 143.204.98.29
 block from any to 143.204.102.0/24
+# US
+block from any to 143.244.56.0/24
 # US
 block from any to 143.244.56.0/24
 # https://www.virustotal.com/gui/ip-address/143.244.56.51/details
@@ -16012,8 +17095,12 @@ block from any to 144.91.93.153
 block from any to 144.91.105.183
 # UK https://www.abuseipdb.com/check/
 block from any to 144.126.192.64
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 144.172.79.92
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ shehasgone(.)com meyer-when.dpvnzorwtl(.)com
 block from any to 144.208.127.15
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 144.217.80.80
 # A.ch TF
 block from any to 144.217.254.230
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ https://tracker.viriback.com/index.php?q=Lucifer
@@ -16026,6 +17113,8 @@ block from any to 145.14.145.234
 block from any to 145.14.156.183
 # US https://www.abuseipdb.com/check/
 block from any to 145.40.77.191
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 145.40.126.81
 # Saudi Arabia https://www.abuseipdb.com/check/
 block from any to 145.82.6.145
 # Netherlands https://www.abuseipdb.com/check/
@@ -16054,6 +17143,12 @@ block from any to 146.0.228.66
 block from any to 146.4.21.94
 # https://threatfox.abuse.ch/browse/malware/win.icedid/
 block from any to 146.19.143.84
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 146.19.191.0/24
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 146.19.191.85
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 146.19.191.108
 # https://threatfox.abuse.ch/browse/malware/win.blacknet_rat/
 block from any to 146.19.191.190
 # https://www.mandiant.com/resources/blog/investigating-ivanti-zero-day-exploitation
@@ -16106,8 +17201,12 @@ block from any to 146.59.251.223
 block from any to 146.70.18.94
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 146.70.44.156
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 146.70.61.147
 # Switzerland https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
 block from any to 146.70.71.13
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 146.70.80.94
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 146.70.87.4
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
@@ -16124,6 +17223,8 @@ block from any to 146.70.124.102
 block from any to 146.70.158.210
 # https://threatfox.abuse.ch/browse/malware/win.medusa/
 block from any to 146.70.161.13
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 146.70.192.174
 # https://www.abuseipdb.com/check/
 block from any to 146.70.197.51
 # Japan https://www.abuseipdb.com/check/
@@ -16146,6 +17247,8 @@ block from any to 146.112.61.1
 block from any to 146.112.61.108
 # US https://www.abuseipdb.com/check/
 block from any to 146.190.48.172
+# https://brute.fail/top.txt
+block from any to 146.190.80.0/24
 # Singapore https://www.abuseipdb.com/check/
 block from any to 146.190.98.165
 # https://www.abuseipdb.com/check/
@@ -16212,6 +17315,8 @@ block from any to 147.45.47.116
 block from any to 147.45.68.67
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 147.45.69.114
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 147.45.70.100
 # https://threatfox.abuse.ch/browse/malware/win.meduza/
 block from any to 147.45.75.185
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -16222,6 +17327,8 @@ block from any to 147.50.240.224
 block from any to 147.78.47.0/24
 # Belgium https://www.abuseipdb.com/check/
 block from any to 147.78.47.51
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 147.78.47.184
 # Belgium https://www.abuseipdb.com/check/
 block from any to 147.78.47.250
 # Belgium https://www.abuseipdb.com/check/
@@ -16236,8 +17343,14 @@ block from any to 147.78.47.250
 block from any to 147.78.47.252
 # Risepro https://tracker.viriback.com/
 block from any to 147.45.47.96
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 147.78.103.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 147.78.103.54
 # https://tracker.viriback.com/index.php?q=GlorySprout
 block from any to 147.78.103.197
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 147.78.103.240
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 147.124.212.0/24
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -16268,6 +17381,8 @@ block from any to 147.182.187.234
 block from any to 147.182.190.27
 # https://www.abuseipdb.com/check/
 block from any to 147.182.194.177
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 147.182.199.146
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
 block from any to 147.185.221.0/24
 # https://threatfox.abuse.ch/browse/malware/win.njrat/
@@ -16288,6 +17403,8 @@ block from any to 147.189.169.67
 block from any to 147.189.172.2
 # US https://www.abuseipdb.com/check/
 block from any to 147.203.255.20
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 147.235.222.226
 # Singapore https://www.abuseipdb.com/check/
 block from any to 148.66.147.20
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -16329,6 +17446,10 @@ block from any to 149.28.26.2
 block from any to 149.28.119.73
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/c/earth-krahang-exploits-intergovernmental-trust-to-launch-cross-government-attacks/ioc_earth_krahang.txt tfirstdaily(.)store
 block from any to 149.28.148.26
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 149.28.166.244
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 149.28.194.95
 # abuse.ch TF
 block from any to 149.13.5.179
 # US https://blog.lumen.com/routers-roasting-on-an-open-firewall-the-kv-botnet-investigation/
@@ -16350,6 +17471,8 @@ block from any to 149.50.96.22
 block from any to 149.50.96.45
 # Poland https://www.abuseipdb.com/check/
 block from any to 149.50.96.91
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 149.56.22.133
 # Canada https://www.abuseipdb.com/check/
 block from any to 149.56.47.111
 # abuse.ch TF
@@ -16360,6 +17483,8 @@ block from any to 149.56.131.140
 block from any to 149.56.252.31
 # US https://www.abuseipdb.com/check/
 block from any to 149.76.83.153
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 149.88.27.212
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 149.88.73.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -16368,6 +17493,8 @@ block from any to 149.88.73.37
 block from any to 149.88.73.111
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 149.88.73.123
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 149.88.78.227
 # France https://red.flag.domains/posts/2024-01-17/
 block from any to 149.100.144.20
 # France https://red.flag.domains/posts/ 2024-02-02 2024-01-20
@@ -16497,6 +17624,8 @@ block from any to 151.80.91.214
 block from any to 151.80.91.216
 # https://www.abuseipdb.com/check/
 block from any to 151.80.91.218
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 151.80.148.159
 # https://www.abuseipdb.com/check/
 block from any to 151.80.149.86
 # abuse.ch TF
@@ -16532,7 +17661,17 @@ block from any to 151.192.198.209
 # Singapore https://www.abuseipdb.com/check/
 block from any to 151.235.189.134
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 151.236.16.0/24
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 151.236.16.11
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 151.236.16.48
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 151.236.16.211
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 151.236.16.232
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 151.236.26.171
 # https://red.flag.domains/posts/2024-04-05/ assurancemaladie-renouvellement[.fr] (registrar: INSTRA CORPORATION PTY LTD
 block from any to 151.236.33.45
 # https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/crambus-middle-east-government
@@ -16545,6 +17684,8 @@ block from any to 151.236.25.0/24
 block from any to 151.236.25.10
 # Poland https://blog.xlab.qianxin.com/rimasuta-new-variant-switches-to-chacha20-encryption-en/
 block from any to 151.236.25.126
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 151.236.26.171
 # https://viz.greynoise.io/tags/palo-alto-pan-os-cve-2024-3400-rce-attempt?days=10
 block from any to 151.236.29.58
 # Bulgaria https://www.abuseipdb.com/check/
@@ -16617,8 +17758,12 @@ block from any to 152.32.247.41
 block from any to 152.42.136.33
 # A.ch TF
 block from any to 152.67.212.185
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 152.70.83.47
 # https://www.abuseipdb.com/check/
 block from any to 152.70.217.117
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 152.89.147.154
 # https://threatfox.abuse.ch/browse/malware/win.rhadamanthys/
 block from any to 152.89.196.174
 # Russia https://www.abuseipdb.com/check/
@@ -16737,6 +17882,8 @@ block from any to 154.8.160.93
 block from any to 154.8.199.209
 # https://threatfox.abuse.ch/browse/
 block from any to 154.9.249.116
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 154.9.255.11
 # https://tracker.viriback.com/index.php?q=Supershell https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 154.12.28.204
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -16747,6 +17894,12 @@ block from any to 154.12.84.88
 block from any to 154.12.85.5
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 154.19.84.98
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 154.22.235.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 154.22.235.13
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 154.22.235.17
 block from any to 154.22.168.0/24
 # https://www.abuseipdb.com/check/
 block from any to 154.22.168.91
@@ -16806,6 +17959,8 @@ block from any to 154.31.183.187
 block from any to 154.38.172.60
 # HK https://www.abuseipdb.com/
 block from any to 154.38.230.9
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 154.39.142.47
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 154.39.152.134
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -16816,10 +17971,20 @@ block from any to 154.39.250.85
 block from any to 154.39.250.234
 # abuse.ch TF
 block from any to 154.40.43.130
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 154.40.47.121
 # https://www.bleepingcomputer.com/news/security/news-farm-impersonates-60-plus-major-outlets-bbc-cnn-cnbc-guardian/
 block from any to 154.41.240.115
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 154.47.29.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 154.47.29.72
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 154.47.29.89
 # https://github.com/eset/malware-ioc/tree/master/operation_texonto
 block from any to 154.49.137.16
+# https://threatfox.abuse.ch/browse/malware/win.asyncrat/
+block from any to 154.53.42.53
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/11/Cisco-iOS-XE-IOCs.txt
 block from any to 154.53.56.231
 # DNS https://red.flag.domains/posts/2024-04-19/ controledescoupons[.fr] (registrar: Hostinger operations UAB
@@ -16840,6 +18005,8 @@ block from any to 154.60.203.194
 block from any to 154.61.74.33
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 154.61.77.210
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 154.61.80.57
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 154.62.175.113
 # https://www.abuseipdb.com/check/
@@ -16888,6 +18055,8 @@ block from any to 154.182.91.196
 block from any to 154.195.152.232
 # https://www.abuseipdb.com/check/
 block from any to 154.197.124.61
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 154.201.73.20
 # https://github.com/eset/malware-ioc/tree/master/gref
 block from any to 154.202.59.169
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -16980,10 +18149,16 @@ block from any to 154.219.164.220
 block from any to 154.219.164.221
 # Hong Kong  https://www.abuseipdb.com/check/
 block from any to 154.221.29.94
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 154.223.16.34
 # abuse.ch TF
 block from any to 154.223.17.134
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 154.223.20.0/24
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 154.223.20.108
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 154.223.20.226
 # abuse.ch TF
 block from any to 154.246.105.39
 # abuse.ch TF
@@ -17032,6 +18207,14 @@ block from any to 155.248.243.251
 block from any to 156.0.255.33
 # Hong Kong https://www.abuseipdb.com/check/
 block from any to 156.59.99.66
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 156.59.215.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 156.59.215.68
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 156.59.215.93
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 156.59.233.0/24
 # https://github.com/eset/malware-ioc/tree/master/gref
 block from any to 156.67.73.71
 # https://www.cisa.gov/sites/default/files/2023-11/aa23-319a-stopransomware-rhysida-ransomware_1.pdf
@@ -17129,6 +18312,8 @@ block from any to 156.236.72.163
 block from any to 156.236.74.13
 # Hong Kong https://www.abuseipdb.com/check/
 block from any to 156.241.188.80
+# https://threatfox.abuse.ch/browse/malware/unknown/ SilverFox
+block from any to 156.248.54.11
 # DFA https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
 block from any to 156.250.5.59
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -17151,6 +18336,8 @@ block from any to 157.90.232.2
 block from any to 157.90.239.70
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 157.90.241.140
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 157.97.89.241
 # US https://www.abuseipdb.com/check/
 block from any to 157.97.121.158
 # https://red.flag.domains/posts/2024-03-06/ registrar: PDR Ltd. d/b/a PublicDomainRegistry.com regularisation-primes[.fr]
@@ -17183,6 +18370,8 @@ block from any to 157.230.113.181
 block from any to 157.230.175.190
 # https://www.abuseipdb.com/check/
 block from any to 157.230.185.11
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 157.230.222.248
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 157.230.239.44
 # Singapore https://www.abuseipdb.com/check/
@@ -17243,6 +18432,8 @@ block from any to 158.101.74.227
 block from any to 158.101.233.67
 # https://threatfox.abuse.ch/browse/tag/Havoc/
 block from any to 158.160.65.88
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 158.160.87.195
 # https://www.abuseipdb.com/check/
 block from any to 158.160.118.66
 # https://www.abuseipdb.com/check/
@@ -17429,7 +18620,7 @@ block from any to 159.203.165.156
 block from any to 159.203.159.95
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 159.203.167.57
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 159.203.174.80
 # US https://www.abuseipdb.com/check/
 block from any to 159.203.192.0/24
@@ -17489,6 +18680,8 @@ block from any to 160.155.229.139
 block from any to 160.174.129.232
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
 block from any to 160.176.66.130
+# https://threatfox.abuse.ch/browse/malware/win.njrat/
+block from any to 160.176.159.27
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 160.178.109.226
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
@@ -17539,6 +18732,8 @@ block from any to 161.129.40.95
 block from any to 161.132.41.71
 # Peru https://www.abuseipdb.com/check/
 block from any to 161.132.108.74
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 162.0.225.166
 # DNS https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html cdn.wt-api[.]top cdn.jsdevlvr[.]info spf.js-min[.]site js.abc-cdn[.]online
 block from any to 162.0.228.112
 # DFA https://red.flag.domains/posts/2023-11-21/ registrar: 1API GmbH
@@ -17547,6 +18742,8 @@ block from any to 162.0.235.58
 block from any to 162.14.81.137
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 162.14.107.61
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 162.14.107.218
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/12/operation_blacksmith.txt
 block from any to 162.19.71.175
 # France https://www.abuseipdb.com/check/
@@ -17775,6 +18972,8 @@ block from any to 162.216.149.100
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.149.106
 # US https://www.abuseipdb.com/check/
+block from any to 162.216.149.108
+# US https://www.abuseipdb.com/check/
 block from any to 162.216.149.109
 # US https://www.abuseipdb.com/check/
 block from any to 162.216.149.111
@@ -17922,9 +19121,9 @@ block from any to 162.216.150.238
 block from any to 162.216.150.247
 # US https://www.abuseipdb.com/check/
 block from any to 162.221.192.58
-# https://www.abuseipdb.com/check/
+# US https://www.abuseipdb.com/check/
 block from any to 162.221.197.0/24
-# https://www.abuseipdb.com/check/
+# US https://www.abuseipdb.com/check/
 block from any to 162.221.197.22
 # https://www.abuseipdb.com/check/
 block from any to 162.221.197.210
@@ -17938,6 +19137,8 @@ block from any to 162.241.5.39
 block from any to 162.241.141.162
 # https://threatfox.abuse.ch/browse/malware/js.gootloader/ overbeekphotos(.)com
 block from any to 162.241.231.85
+# US https://www.abuseipdb.com/check/
+block from any to 162.243.142.20
 # US https://www.abuseipdb.com/check/
 block from any to 162.243.128.49
 # US https://www.abuseipdb.com/check/
@@ -18059,7 +19260,15 @@ block from any to 162.244.80.14
 # A.ch TF
 block from any to 162.244.210.198
 # US https://blog.xlab.qianxin.com/rimasuta-new-variant-switches-to-chacha20-encryption-en/
+block from any to 162.252.175.0/24
+# US https://blog.xlab.qianxin.com/rimasuta-new-variant-switches-to-chacha20-encryption-en/
 block from any to 162.252.175.0
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 162.252.175.153
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 162.252.175.170
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 162.252.175.240
 # https://malpulse.com/ MarioLoader
 block from any to 162.254.33.252
 # DFA https://red.flag.domains/posts/2024-02-14/ registrar: 1API GmbH
@@ -18088,6 +19297,8 @@ block from any to 163.5.169.2
 block from any to 163.47.36.34
 # https://www.abuseipdb.com/check/
 block from any to 163.47.39.68
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 163.47.148.22
 # https://www.abuseipdb.com/check/
 block from any to 163.123.142.146
 # https://threatfox.abuse.ch/browse/malware/elf.darknexus/
@@ -18118,6 +19329,8 @@ block from any to 163.172.108.69
 block from any to 163.172.175.22
 # France https://www.abuseipdb.com/check/
 block from any to 163.172.194.81
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 163.177.79.82
 # https://threatfox.abuse.ch/browse/malware/win.deimos/
 block from any to 163.181.39.67
 # https://threatfox.abuse.ch/browse/malware/win.deimos/
@@ -18146,6 +19359,8 @@ block from any to 164.92.117.179
 block from any to 164.92.138.127
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 164.92.150.142
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 164.92.159.114
 # Germany https://www.abuseipdb.com/check/
 block from any to 164.92.160.177
 # A.ch TF
@@ -18160,6 +19375,8 @@ block from any to 164.132.228.29
 block from any to 164.132.235.17
 # A.ch TF
 block from any to 164.152.19.24
+# https://brute.fail/top.txt
+block from any to 164.152.26.0/24
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 164.155.128.124
 # Kenya https://www.abuseipdb.com/check/
@@ -18387,6 +19604,8 @@ block from any to 167.88.168.0/24
 block from any to 167.88.168.132
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 167.88.168.158
+# https://threatfox.abuse.ch/browse/malware/win.sliver/
+block from any to 167.88.172.78
 # US https://www.abuseipdb.com/check/
 block from any to 167.94.138.0/24
 # US https://www.abuseipdb.com/check/
@@ -18411,6 +19630,8 @@ block from any to 167.71.72.119
 block from any to 167.71.86.38
 # https://tehtris.com/fr/blog/notre-selection-des-alertes-de-nos-honeypots-bulletin-9-mai-2023/
 block from any to 167.71.141.138
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 167.71.169.160
 # US https://www.abuseipdb.com/check/
 block from any to 167.71.181.0/24
 # US https://www.abuseipdb.com/check/
@@ -18601,6 +19822,8 @@ block from any to 168.1.110.152
 block from any to 168.63.18.168
 # Brazil https://www.abuseipdb.com/check/
 block from any to 168.75.109.12
+# Kenya https://www.abuseipdb.com/check/
+block from any to 168.76.20.229
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 168.76.120.0/24
 # https://tracker.viriback.com/index.php?q=Supershell
@@ -18610,9 +19833,17 @@ block from any to 168.76.120.84
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 168.76.120.85
 # https://tracker.viriback.com/index.php?q=Supershell
+block from any to 168.76.120.114
+# https://tracker.viriback.com/index.php?q=Supershell
 block from any to 168.76.120.115
 # https://tracker.viriback.com/index.php?q=Supershell
+block from any to 168.76.120.122
+# https://tracker.viriback.com/index.php?q=Supershell
 block from any to 168.76.120.123
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 168.76.120.124
+# https://tracker.viriback.com/index.php?q=Supershell
+block from any to 168.76.120.125
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 168.76.120.126
 # https://threatfox.abuse.ch/browse/malware/win.deimos/
@@ -18627,6 +19858,8 @@ block from any to 168.119.8.175
 block from any to 168.119.96.5
 # Germany https://www.abuseipdb.com/check/
 block from any to 168.119.99.137
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 168.119.225.154
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 168.119.234.111
 # abuse.ch TF
@@ -18647,6 +19880,8 @@ block from any to 168.194.168.8
 block from any to 168.197.50.195
 # https://www.bleepingcomputer.com/news/security/france-says-russian-state-hackers-breached-numerous-critical-networks/
 block from any to 168.205.200.55
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 168.228.151.48
 # https://www.abuseipdb.com/check/
 block from any to 168.232.79.91
 # Chile https://www.abuseipdb.com/check/
@@ -18663,8 +19898,12 @@ block from any to 169.149.229.0/24
 block from any to 169.149.231.0/24
 # Kenya https://www.abuseipdb.com/check/
 block from any to 169.239.129.19
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 169.239.167.186
 # Nigeria https://www.abuseipdb.com/check/
 block from any to 169.255.236.28
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 170.0.169.122
 # https://www.abuseipdb.com/check/
 block from any to 170.0.235.253
 # https://red.flag.domains/posts/2024-02-25/ registrar: GRANSY s.r.o.
@@ -18696,6 +19935,8 @@ block from any to 170.64.161.233
 block from any to 170.64.166.144
 # Australia https://www.abuseipdb.com/check/
 block from any to 170.64.176.46
+# https://brute.fail/top.txt
+block from any to 170.64.185.0/24
 # https://www.abuseipdb.com/check/170.64.185.247
 block from any to 170.64.185.247
 # Australia https://www.abuseipdb.com/check/
@@ -18728,12 +19969,16 @@ block from any to 170.64.220.104
 block from any to 170.81.229.192
 # Brazil https://www.abuseipdb.com/check/
 block from any to 170.82.133.44
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 170.82.183.48
 # Venezuela https://www.abuseipdb.com/check/
 block from any to 170.83.79.0/24
 # https://www.abuseipdb.com/check/
 block from any to 170.83.79.28
 # Venezuela https://www.abuseipdb.com/check/
 block from any to 170.83.79.31
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 170.83.180.232
 # Brazil https://www.abuseipdb.com/check/
 block from any to 170.84.69.83
 # US https://www.abuseipdb.com/check/
@@ -18752,6 +19997,12 @@ block from any to 170.130.55.139
 block from any to 170.130.165.132
 # US https://www.abuseipdb.com/check/
 block from any to 170.130.187.6
+# Chile https://www.abuseipdb.com/check/
+block from any to 170.239.85.228
+# Argentina https://www.abuseipdb.com/check/
+block from any to 170.239.128.7
+# Brazil https://www.abuseipdb.com/check/
+block from any to 170.239.225.63
 # DNS https://red.flag.domains/posts/ 2024-04-13 chronopst-suivi[.fr] (registrar: KEY-SYSTEMS GmbH cilclade[.fr] (registrar: KEY-SYSTEMS GmbH comptes-fr[.fr] (registrar: KEY-SYSTEMS GmbH demandes-simplifiees[.fr] (registrar: KEY-SYSTEMS GmbH digitposte[.fr] (registrar: KEY-SYSTEMS GmbH hokaone-soldes[.fr] (registrar: KEY-SYSTEMS GmbH ildefrance-mobilites[.fr] (registrar: KEY-SYSTEMS GmbH infraction-routiere[.fr] (registrar: KEY-SYSTEMS GmbH mondilarelay[.fr] (registrar: KEY-SYSTEMS GmbH naxitis[.fr] (registrar: KEY-SYSTEMS GmbH 2024-03-07 registrar: KEY-SYSTEMS GmbH amazond[.fr] comptes-fr[.fr] contact-sante[.fr] hokachaussurefrance[.fr] leb0ncoin[.fr] (registrar: KEY-SYSTEMS GmbH lebonc0in[.fr] (registrar: KEY-SYSTEMS GmbH 2024-04-04 carrfeour[.fr] (registrar: KEY-SYSTEMS GmbH)
 block from any to 170.178.183.18
 # https://www.abuseipdb.com/check/
@@ -18789,6 +20040,8 @@ block from any to 171.22.30.0/24
 block from any to 171.22.30.147
 # https://viriback.com/2022-c2-tracker-recap-in-graphics/
 block from any to 171.22.30.164
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 171.25.193.80
 # China https://www.abuseipdb.com/check/
 block from any to 171.36.7.96
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -18799,6 +20052,8 @@ block from any to 171.41.198.240
 block from any to 171.41.251.198
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 171.80.216.99
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 171.103.74.75
 # https://www.abuseipdb.com/check/
 block from any to 171.120.157.140
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
@@ -18807,6 +20062,8 @@ block from any to 171.228.211.109
 block from any to 171.232.3.175
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 171.232.6.144
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 171.234.219.251
 # Chile https://www.abuseipdb.com/check/
 block from any to 170.239.85.228
 # Argentina https://www.abuseipdb.com/check/
@@ -19302,6 +20559,8 @@ block from any to 172.94.9.23
 block from any to 172.94.73.162
 # https://www.abuseipdb.com/check/
 block from any to 172.94.87.71
+# https://threatfox.abuse.ch/browse/malware/win.remcos/
+block from any to 172.94.101.172
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 172.94.105.163
 # A.ch TF
@@ -19314,6 +20573,10 @@ block from any to 172.96.137.224
 block from any to 172.96.191.158
 # https://threatfox.abuse.ch/browse/malware/win.deimos/
 block from any to 172.104.53.129
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 172.104.124.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 172.104.124.26
 # https://www.mandiant.com/resources/blog/initial-access-brokers-exploit-f5-screenconnect
 block from any to 172.104.124.74
 # Germany https://www.abuseipdb.com/check/
@@ -19336,6 +20599,12 @@ block from any to 172.105.14.104
 block from any to 172.105.16.34
 # https://threatfox.abuse.ch/browse/tag/Havoc/
 block from any to 172.105.62.186
+# Germany https://www.abuseipdb.com/check/
+block from any to 172.105.67.74
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 172.105.90.154
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 172.105.94.93
 # US https://www.abuseipdb.com/check/
 block from any to 172.105.158.219
 # https://www.abuseipdb.com/check/
@@ -19378,6 +20647,8 @@ block from any to 172.174.139.159
 block from any to 172.174.178.165
 # https://threatfox.abuse.ch/browse/malware/win.havoc/
 block from any to 172.178.112.227
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 172.187.180.204
 # https://threatfox.abuse.ch/browse/malware/win.nanocore/
 block from any to 172.187.200.225
 # https://tracker.viriback.com/index.php?q=HookBot
@@ -19397,6 +20668,10 @@ block from any to 172.214.139.124
 # https://www.abuseipdb.com/check
 block from any to 172.217.16.35
 block from any to 172.217.18.0/24
+# US https://www.abuseipdb.com/check
+block from any to 172.217.20.174
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/coralraider-targets-socialmedia-accounts.txt doc-0s-44-docstext[.]googleusercontent[.]com doc-10-44-docstext[.]googleusercontent[.]com
+block from any to 172.217.20.193
 block from any to 172.217.20.196
 block from any to 172.217.18.0/24
 # dev chrome
@@ -19437,16 +20712,20 @@ block from any to 172.233.48.224
 block from any to 172.233.153.107
 # https://www.abuseipdb.com/check/
 block from any to 172.233.207.109
-# https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/
+# https://unit42.paloaltonetworks.com/cve-2024-3400/ https://www.volexity.com/blog/2024/04/12/zero-day-exploitation-of-unauthenticated-remote-code-execution-vulnerability-in-globalprotect-cve-2024-3400/
 block from any to 172.233.228.93
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 172.233.240.86
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 172.233.245.241
 # US https://red.flag.domains/posts/ 2024-02-16 registrar: 1API GmbH 2024-01-17
 block from any to 172.234.25.151
 # https://www.abuseipdb.com/check/
 block from any to 172.234.44.4
 # India https://www.abuseipdb.com/check/
 block from any to 172.235.29.35
+# https://threatfox.abuse.ch/browse/malware/unknown/ Supershell
+block from any to 172.234.92.6
 # AsynRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 172.234.95.198
 # India https://www.abuseipdb.com/check/
@@ -19504,6 +20783,10 @@ block from any to 173.44.141.234
 block from any to 173.181.133.181
 # https://www.abuseipdb.com/check/173.181.133.181
 block from any to 173.181.133.181
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.195.15.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.195.15.215
 # https://malpulse.com/ Unam
 block from any to 173.208.240.131
 # Germany https://www.abuseipdb.com/check/
@@ -19530,14 +20813,39 @@ block from any to 173.234.105.106
 block from any to 173.239.224.160
 # US https://www.abuseipdb.com/check/
 block from any to 173.245.58.165
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.245.202.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.245.203.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.245.206.143
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.245.209.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.245.211.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.245.211.19
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.245.217.0/24
 # US https://www.abuseipdb.com/check/
 block from any to 173.245.59.64
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 173.248.141.247
+# https://threatfox.abuse.ch/browse/malware/win.venom/
+block from any to 173.249.52.60
 # https://tracker.viriback.com/index.php?q=Lucifer alltorq-net.oncallservices(.)ca https://tracker.viriback.com/index.php?q=Lucifer
 block from any to 173.254.28.195
+block from any to 173.255.170.0/24
+block from any to 173.255.171.0/24
+block from any to 173.255.172.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 173.255.172.157
+block from any to 173.255.173.0/24
+block from any to 173.255.174.0/24
 # DFA https://www.bitdefender.com/blog/labs/investigating-worldwide-sms-scams-and-tens-of-millions-of-dollars-in-fraud/ https://red.flag.domains/posts/2023-11-25/ registrar: EPAG Domainservices GmbH)
 block from any to 173.255.194.134
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 173.255.223.159
 # US https://www.abuseipdb.com/check/
 block from any to 173.255.226.218
 # DFA https://www.mandiant.com/resources/blog/unc4990-evolution-usb-malware
@@ -19638,6 +20946,8 @@ block from any to 175.139.195.82
 block from any to 175.139.233.141
 # https://www.abuseipdb.com/check/
 block from any to 175.139.236.193
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 175.143.161.146
 # China https://www.abuseipdb.com/check/
 block from any to 175.153.193.34
 # China https://www.abuseipdb.com/check/
@@ -19688,6 +20998,8 @@ block from any to 176.32.35.104
 block from any to 176.36.58.20
 # Venom RAT https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 176.40.9.245
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 176.97.210.211
 # A.ch TF
 block from any to 176.10.111.99
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -19740,6 +21052,8 @@ block from any to 176.113.115.188
 block from any to 176.113.115.253
 # Russia https://www.abuseipdb.com/check/
 block from any to 176.116.171.99
+# Russia https://www.abuseipdb.com/check/
+block from any to 176.118.214.126
 # https://red.flag.domains/posts/2024-02-27/ registrar: Hosting Concepts B.V. d/b/a Openprovider
 block from any to 176.123.0.55
 # https://red.flag.domains/posts/
@@ -19770,6 +21084,10 @@ block from any to 176.123.10.57
 block from any to 176.123.10.52
 # Moldova https://www.abuseipdb.com/check/
 block from any to 176.123.10.213
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 176.123.169.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 176.123.169.32
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 176.123.169.110
 # Russia https://www.abuseipdb.com/check/
@@ -19780,6 +21098,8 @@ block from any to 176.214.94.229
 block from any to 176.215.199.70
 # A.ch TF
 block from any to 176.223.133.62
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 176.31.18.153
 # abuse.ch TF
 block from any to 176.31.163.140
 # https://threatfox.abuse.ch/browse/malware/win.darkcomet/
@@ -19906,6 +21226,8 @@ block from any to 177.36.130.87
 block from any to 177.36.130.88
 # https://www.abuseipdb.com/check/
 block from any to 177.36.130.89
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 177.37.43.158
 # Brazil https://www.abuseipdb.com/check/
 block from any to 177.43.63.98
 # https://www.abuseipdb.com/check/
@@ -19918,18 +21240,24 @@ block from any to 177.54.38.161
 block from any to 177.54.130.84
 # https://www.abuseipdb.com/check/
 block from any to 177.54.158.22
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 177.54.177.183
 # Brazil https://www.abuseipdb.com/check/
 block from any to 177.67.232.158
 # https://www.abuseipdb.com/check/
 block from any to 177.67.244.35
 # https://www.abuseipdb.com/check/
 block from any to 177.67.244.36
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 177.72.228.164
 # https://github.com/Cisco-Talos/IOCs/blob/main/2023/03/prometei-botnet-improves.txt
 block from any to 177.73.237.55
 # Brazil https://www.abuseipdb.com/check/
 block from any to 177.86.125.167
 # https://www.abuseipdb.com/check/
 block from any to 177.86.189.230
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 177.87.33.69
 # Peru https://www.abuseipdb.com/check/
 block from any to 177.91.250.189
 # Brazil https://www.abuseipdb.com/check/
@@ -19954,6 +21282,8 @@ block from any to 177.138.248.251
 block from any to 177.145.20.48
 # https://www.abuseipdb.com/check/
 block from any to 177.170.15.112
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 177.182.179.149
 # Brazil https://www.abuseipdb.com/check/
 block from any to 177.185.137.56
 # Brazil https://www.abuseipdb.com/check/
@@ -19966,10 +21296,14 @@ block from any to 177.200.161.97
 block from any to 172.217.16.35
 # https://www.abuseipdb.com/check/
 block from any to 177.222.177.198
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 177.222.210.209
 # Mexico https://www.abuseipdb.com/check/
 block from any to 177.229.67.231
 # Mexico https://www.abuseipdb.com/check/
 block from any to 177.229.135.46
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 177.240.168.91
 # Germany https://www.abuseipdb.com/check
 block from any to 178.10.201.192
 # France hostinger.com DFA https://red.flag.domains/posts/2024-02-03/
@@ -20018,6 +21352,8 @@ block from any to 178.54.78.190
 block from any to 178.57.101.14
 # US https://www.abuseipdb.com/check/
 block from any to 178.62.5.103
+# https://threatfox.abuse.ch/browse/malware/py.responder/
+block from any to 178.62.55.204
 # https://www.abuseipdb.com/check/
 block from any to 178.62.78.139
 # UK https://www.abuseipdb.com/check/
@@ -20116,6 +21452,10 @@ block from any to 178.149.149.64
 block from any to 178.154.209.177
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 178.168.70.101
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 178.175.140.75
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 178.175.142.26
 # https://www.abuseipdb.com/check/
 block from any to 178.176.250.39
 # https://www.abuseipdb.com/check/
@@ -20134,6 +21474,8 @@ block from any to 178.208.94.213
 block from any to 178.216.165.187
 # https://www.abuseipdb.com/check/
 block from any to 178.217.173.54
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 178.218.144.51
 # https://www.abuseipdb.com/check/
 block from any to 178.218.196.54
 # https://www.abuseipdb.com/check/178.219.122.106
@@ -20159,6 +21501,8 @@ block from any to 178.252.136.130
 block from any to 178.252.184.58
 # https://www.abuseipdb.com/check/
 block from any to 178.254.10.204
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 179.8.98.157
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 179.13.3.18
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -20193,10 +21537,14 @@ block from any to 179.43.142.109
 block from any to 179.43.148.58
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 179.43.158.171
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 179.43.159.0/24
 # Swiss https://www.abuseipdb.com/check/
 block from any to 179.43.159.194
 # https://www.abuseipdb.com/check/179.43.159.195
 block from any to 179.43.159.195
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 179.43.159.196
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 179.43.160.205
 # https://tracker.viriback.com/index.php?q=Neptune
@@ -20225,12 +21573,18 @@ block from any to 179.53.164.173
 block from any to 179.58.193.172
 # Bolivia https://www.abuseipdb.com/check/
 block from any to 179.59.174.196
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 179.60.149.241
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/12/breaking_the_silence_truebot_activity.txt
 block from any to 179.60.150.53
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 179.61.12.110
 # https://www.abuseipdb.com/check/
 block from any to 179.63.48.50
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 179.100.74.227
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 179.109.154.69
 # https://www.abuseipdb.com/check/
 block from any to 179.125.166.201
 # https://www.abuseipdb.com/check/
@@ -20241,6 +21595,8 @@ block from any to 179.173.15.241
 block from any to 179.182.65.128
 # Brazil https://www.abuseipdb.com/check/
 block from any to 179.188.38.142
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 179.250.244.196
 # China https://www.abuseipdb.com/check/
 block from any to 180.76.36.75
 # https://www.abuseipdb.com/check/
@@ -20257,7 +21613,7 @@ block from any to 180.95.238.59
 block from any to 180.97.215.218
 # China https://www.abuseipdb.com/check/
 block from any to 180.97.220.14
-# China
+# China https://www.abuseipdb.com/check/ https://brute.fail/top.txt
 block from any to 180.101.88.0/24
 # China https://www.abuseipdb.com/check/
 block from any to 180.101.88.196
@@ -20317,6 +21673,8 @@ block from any to 180.184.35.67
 block from any to 180.184.74.125
 # A.ch TF
 block from any to 180.184.74.164
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 180.190.40.75
 # https://www.abuseipdb.com/check/
 block from any to 180.214.239.225
 # https://www.abuseipdb.com/check/180.218.6.191
@@ -20327,6 +21685,8 @@ block from any to 181.0.22.234
 block from any to 181.4.236.221
 # Argentina https://www.abuseipdb.com/check/
 block from any to 181.16.93.119
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 181.26.73.118
 # https://www.abuseipdb.com/check/
 block from any to 181.40.114.182
 # A.ch TF
@@ -20348,11 +21708,13 @@ block from any to 181.93.191.196
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 181.114.56.146
 # https://www.abuseipdb.com/check/
-block from any to  181.114.232.98
+block from any to 181.114.232.98
 # Bolivia https://www.abuseipdb.com/check/
 block from any to 181.115.145.34
 # https://www.abuseipdb.com/check/
 block from any to 181.115.167.189
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 181.117.13.179
 # AsyncRAT https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 181.131.219.252
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
@@ -20365,6 +21727,8 @@ block from any to 181.141.40.47
 block from any to 181.143.127.50
 # https://www.abuseipdb.com/check/
 block from any to 181.164.250.45
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 181.191.1.200
 # Panama https://www.abuseipdb.com/check/
 block from any to 181.197.56.17
 # Venezuela https://www.abuseipdb.com/check/
@@ -20381,6 +21745,8 @@ block from any to 181.210.94.200
 block from any to 181.210.160.58
 # A.ch TF
 block from any to 181.214.240.107
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 181.214.147.25
 # https://www.abuseipdb.com/check/
 block from any to 181.169.107.107
 # Argentina https://www.abuseipdb.com/check/
@@ -20672,6 +22038,8 @@ block from any to 184.170.243.50
 block from any to 185.3.134.49
 # https://www.abuseipdb.com/check/
 block from any to 185.6.11.146
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.7.33.146
 # Russia https://www.abuseipdb.com/check/
 block from any to 185.10.128.240
 # https://malpulse.com/blog/175/ Havoc https://threatfox.abuse.ch/browse/malware/win.bianlian/
@@ -20697,7 +22065,7 @@ block from any to 185.14.30.10
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 185.14.249.24
 # Netherlands https://www.abuseipdb.com/check/
-block from any to 185.15.58.0/24
+#block from any to 185.15.58.0/24
 # fr wikipedia Netherlands https://www.abuseipdb.com/check/
 #block from any to 185.15.58.224
 # text-lb.drmrs.wikimedia.org
@@ -20726,6 +22094,8 @@ block from any to 185.17.121.188
 block from any to 185.20.187.89
 # abuse.ch TF
 block from any to 185.22.155.92
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/victimology-using-three-information-stealers.txt
+block from any to 185.23.108.220
 # https://tracker.viriback.com/index.php?q=Supershell
 block from any to 185.23.182.196
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -20757,6 +22127,8 @@ block from any to 185.29.121.226
 block from any to 185.29.121.232
 # Russia https://www.abuseipdb.com/check/
 block from any to 185.34.22.229
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.34.33.2
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 185.36.19.42
 # Lithuania https://www.abuseipdb.com/check/
@@ -20769,6 +22141,8 @@ block from any to 185.36.81.57
 block from any to 185.36.81.158
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 185.38.142.19
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 185.43.4.238
 # https://www.abuseipdb.com/check/
 block from any to 185.43.220.37
 # https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf
@@ -20781,6 +22155,8 @@ block from any to 185.45.192.24
 block from any to 185.46.18.99
 # https://www.abuseipdb.com/check/
 block from any to 185.47.172.136
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 185.49.70.105
 # abuse.ch TF
 block from any to 185.51.173.2
 # https://cloud.google.com/blog/topics/threat-intelligence/ivanti-post-exploitation-lateral-movement?hl=en
@@ -20815,7 +22191,7 @@ block from any to 185.53.178.54
 block from any to 185.54.178.117
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/12/breaking_the_silence_truebot_activity.txt
 block from any to 185.55.243.110
-# https://www.abuseipdb.com/check/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt https://www.abuseipdb.com/check/
 block from any to 185.56.83.83
 # FB spider https://www.abuseipdb.com/check/185.60.219.3
 block from any to 185.60.219.2
@@ -20838,6 +22214,8 @@ block from any to 185.65.134.175
 block from any to 185.65.205.158
 # https://red.flag.domains/posts/2024-04-07/ snappass[.fr] (registrar: IONOS SE
 block from any to 185.66.143.45
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.67.82.114
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 185.70.186.0/24
 # https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
@@ -20950,8 +22328,17 @@ block from any to 185.98.138.128
 block from any to 185.99.134.22
 # https://www.abuseipdb.com/check/
 block from any to 185.100.52.216
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.100.87.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.100.87.41
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.100.87.174
 # Norway https://www.abuseipdb.com/check/
 block from any to 185.101.33.168
+block from any to 185.103.99.0/24
+block from any to 185.103.99.84
+block from any to 185.103.99.111
 # https://threatfox.abuse.ch/browse/malware/win.aurora_stealer/
 block from any to 185.106.93.0/24
 # https://threatfox.abuse.ch/browse/malware/osx.amos/
@@ -21037,10 +22424,18 @@ block from any to 185.107.56.193
 # https://www.virustotal.com/gui/url/fa558b5ed8e8551d3b5236442ae59db9d79be5a8ed420f8758a7f209c10227ca/details https://www.abuseipdb.com/check/185.107.56.194
 block from any to 185.107.56.194
 block from any to 185.107.56.195
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 185.108.105.110
+block from any to 185.108.106.0/24
+block from any to 185.108.107.0/24
 # Ukraine https://www.abuseipdb.com/check/
 block from any to 185.109.53.7
 # UK https://www.abuseipdb.com/check/
 block from any to 185.111.156.139
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 185.112.83.0/24
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 185.112.83.15
 # Russia https://www.abuseipdb.com/check/
 block from any to 185.112.83.16
 # https://red.flag.domains/posts/2024-04-08/ sg-mise-a-jour[.fr] (registrar: Hosting Concepts B.V. d/b/a Openprovider)
@@ -21053,6 +22448,8 @@ block from any to 185.113.8.156
 block from any to 185.114.175.11
 # Germany https://www.abuseipdb.com/check/
 block from any to 185.117.0.30
+# https://threatfox.abuse.ch/browse/malware/elf.mirai/
+block from any to 185.117.3.187
 # Russia https://www.abuseipdb.com/check/
 block from any to 185.122.204.0/24
 # https://www.abuseipdb.com/check/
@@ -21063,6 +22460,14 @@ block from any to 185.122.204.98
 block from any to 185.122.204.103
 # Russia https://www.abuseipdb.com/check/
 block from any to 185.123.49.181
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 185.123.101.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 185.123.101.77
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 185.123.101.250
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 185.125.50.198
 # A.ch TF
 block from any to 185.125.56.177
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
@@ -21071,10 +22476,16 @@ block from any to 185.125.231.175
 block from any to 185.126.219.203
 # DNS https://github.com/avast/ioc/blob/master/FakeUpdate/ClearFake_11_2023.txt my[.]hoqer[.]com
 block from any to 185.126.219.204
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.129.62.62
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.129.62.63
 # Azerbaijan https://www.abuseipdb.com/check/
 block from any to 185.129.93.100
 # Iran https://www.abuseipdb.com/check/
 block from any to 185.129.197.24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.130.44.59
 # A.ch TF
 block from any to 185.130.44.125
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/ https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -21111,6 +22522,8 @@ block from any to 185.139.228.190
 block from any to 185.141.34.18
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 185.141.61.74
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.141.147.129
 # https://www.abuseipdb.com/check/
 block from any to 185.142.66.244
 # https://www.abuseipdb.com/check/
@@ -21124,6 +22537,18 @@ block from any to 185.143.223.47
 block from any to 185.143.223.61
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
 block from any to 185.147.15.22
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.147.101.184
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.147.212.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.147.212.140
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.147.213.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.147.214.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.147.215.0/24
 # Austria https://www.abuseipdb.com/check/
 block from any to 185.148.159.3
 # https://github.com/Cisco-Talos/IOCs/blob/main/2022/11/Emotet_contacted_ips.txt
@@ -21213,12 +22638,18 @@ block from any to 185.165.191.26
 block from any to 185.166.39.91
 # Ukraine https://www.abuseipdb.com/check/
 block from any to 185.166.217.8
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 185.167.60.85
 # UK https://www.abuseipdb.com/check/
 block from any to 185.169.4.105
 # DNS https://red.flag.domains/posts/2024-03-17/ registrar: SAS Ligne Web Services - LWS support-transport[.fr]
 block from any to 185.170.214.173
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 185.173.38.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 185.173.38.38
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 185.173.38.173
 # https://threatfox.abuse.ch/browse/malware/win.phoenix_keylogger/ ph-explorer(.)com
 block from any to 185.178.208.134
 # https://viriback.com/2022-c2-tracker-recap-in-graphics/
@@ -21287,6 +22718,8 @@ block from any to 185.180.143.180
 block from any to 185.180.143.188
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 185.181.10.240
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.183.159.40
 # https://threatfox.abuse.ch/browse/malware/apk.hook/
 block from any to 185.185.71.5
 # Iran https://www.abuseipdb.com/check/
@@ -21343,6 +22776,8 @@ block from any to 185.196.10.155
 block from any to 185.196.10.212
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/ https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 185.196.11.0/24
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 185.196.11.148
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 185.196.11.177
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
@@ -21375,10 +22810,16 @@ block from any to 185.172.128.0/24
 block from any to 185.172.128.31
 # A.ch TF
 block from any to 185.172.128.52
+# https://threatfox.abuse.ch/browse/malware/win.stealc/
+block from any to 185.172.128.62
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 185.172.128.65
+# https://threatfox.abuse.ch/browse/malware/win.stealc/
+block from any to 185.172.128.76
 # A.ch TF
 block from any to 185.172.128.79
+# https://threatfox.abuse.ch/browse/malware/win.stealc/
+block from any to 185.172.128.111
 # https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 185.172.128.123
 # https://threatfox.abuse.ch/browse/malware/osx.amos/
@@ -21528,16 +22969,26 @@ block from any to 185.233.19.199
 block from any to 185.233.19.253
 # Ukraine https://www.abuseipdb.com/check/
 block from any to 185.233.37.14
-# Russia https://www.abuseipdb.com/check/
+# Russia https://threatfox.abuse.ch/browse/malware/win.bianlian/ https://www.abuseipdb.com/check/
 block from any to 185.234.216.0/24
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 185.234.216.209
 # Russia https://www.abuseipdb.com/check/
 block from any to 185.234.216.103
 # Russia https://www.abuseipdb.com/check/
 block from any to 185.234.216.109
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 185.234.216.209
 # Germany https://www.abuseipdb.com/check/
 block from any to 185.244.167.101
 # https://threatfox.abuse.ch/browse/malware/apk.hydra/
 block from any to 185.244.180.159
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns
+block from any to 185.244.210.0/24
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 185.244.210.65
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 185.244.210.120
 # https://threatfox.abuse.ch/browse/malware/win.dcrat# https://threatfox.abuse.ch/browse/malware/win.dcrat//
 block from any to 185.246.67.26
 # Sweden w1n.nl registrar: SCALEWAY https://red.flag.domains/posts/2023-01-30/ https://www.abuseipdb.com/check/
@@ -21548,6 +22999,12 @@ block from any to 185.246.128.25
 block from any to 185.246.128.133
 # https://blog.lumen.com/the-darkside-of-themoon/ https://github.com/blacklotuslabs/IOCs/blob/main/Moon_Faceless_IOCs.txt
 block from any to 185.246.128.181
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.246.188.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.246.188.67
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.246.188.74
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 185.246.222.15
 # https://www.abuseipdb.com/check/
@@ -21595,6 +23052,8 @@ block from any to 185.216.26.142
 block from any to 185.216.68.97
 # Bulgaria https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/ DNS hostpdf[.]co https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/ https://publicwww.com/websites/%22hostpdf.co%22/
 block from any to 185.216.70.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 185.216.70.67
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 185.216.70.75
 # DNS hostpdf[.]co https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/ https://publicwww.com/websites/%22hostpdf.co%22/
@@ -21603,6 +23062,10 @@ block from any to 185.216.70.94
 block from any to 185.216.70.138
 # https://red.flag.domains/posts/2024-02-27/ registrar: OVH
 block from any to 185.216.70.145
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 185.216.70.210
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 185.216.70.211
 # Bulgaria https://www.abuseipdb.com/check/
 block from any to 185.216.70.228
 # Bulgaria https://www.abuseipdb.com/check/
@@ -21649,30 +23112,208 @@ block from any to 185.217.197.52
 block from any to 185.219.177.105
 # Germany https://www.abuseipdb.com/check/ TOR 185.220.100.240
 block from any to 185.220.100.0/24
-# https://www.abuseipdb.com/check/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.240
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 185.220.100.241
-# https://www.abuseipdb.com/check/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.242
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.243
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.244
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.245
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.246
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 185.220.100.247
-# https://www.abuseipdb.com/check/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.248
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.250
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 185.220.100.251
-# Netherlands
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.252
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.253
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.254
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.100.255
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 185.220.101.0/24
-# Netherlands https://www.abuseipdb.com/check/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.5
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.8
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.10
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.11
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.14
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.15
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.16
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.18
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.27
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.28
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.30
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.32
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.33
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.34
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 185.220.101.35
-# Germany https://www.abuseipdb.com/check/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.36
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.38
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.39
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.40
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.41
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.42
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.43
+# Germany https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt https://www.abuseipdb.com/check/
 block from any to 185.220.101.44
+# Germany https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt https://www.abuseipdb.com/check/
+block from any to 185.220.101.46
+# Germany https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt https://www.abuseipdb.com/check/
+block from any to 185.220.101.48
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.50
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.51
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.52
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.53
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.54
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.55
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.56
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.57
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.59
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.60
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.61
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.62
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.64
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.67
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.75
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.76
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.77
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.83
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.84
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.99
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.101
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.105
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.108
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.128
 # https://www.abuseipdb.com/check/
 block from any to 185.220.101.131
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.132
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.133
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.134
 # https://www.abuseipdb.com/check/
 block from any to 185.220.101.135
-# https://www.abuseipdb.com/check/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 185.220.101.137
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.138
 # https://www.abuseipdb.com/check/
 block from any to 185.220.101.139
 # https://www.abuseipdb.com/check/
 block from any to 185.220.101.141
 # https://www.abuseipdb.com/check/
 block from any to 185.220.101.142
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.143
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.145
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.148
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.149
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.152
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.155
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.157
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.158
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.161
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.163
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.162
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.168
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.169
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.170
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.171
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.173
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.174
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.176
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.177
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.179
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.180
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.182
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.184
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.185
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.187
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.220.101.190
 block from any to 185.220.102.0/24
 # https://www.abuseipdb.com/check/
 block from any to 185.220.102.242
@@ -21726,6 +23367,8 @@ block from any to 185.225.70.160
 block from any to 185.225.200.120
 # Belgium https://www.abuseipdb.com/check/
 block from any to 185.226.106.34
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 185.227.111.17
 # https://www.abuseipdb.com/check/
 block from any to 185.227.136.16
 # https://www.abuseipdb.com/check/
@@ -21760,6 +23403,8 @@ block from any to 185.233.19.253
 block from any to 185.233.36.48
 # Ukraine https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 185.233.186.152
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.235.146.29
 # Netherlands https://misp.cert.ssi.gouv.fr/feed-misp/5eeb995f-c570-4242-94c6-79870aba047c.json
 block from any to 185.236.76.216
 # https://threatfox.abuse.ch/browse/malware/win.socks5_systemz# https://threatfox.abuse.ch/browse/malware/win.socks5_systemz//
@@ -21782,6 +23427,8 @@ block from any to 185.239.227.14
 block from any to 185.241.208.0/24
 # https://threatfox.abuse.ch/browse/malware/win.remcos/
 block from any to 185.241.208.113
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.241.208.115
 # https://www.abuseipdb.com/check/
 block from any to 185.241.208.182
 # Netherlands https://www.abuseipdb.com/check/
@@ -21807,7 +23454,17 @@ block from any to 185.243.5.44
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 185.243.41.201
 # Netherlands https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
+block from any to 185.243.112.0/24
+# Netherlands https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
 block from any to 185.243.112.60
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 185.243.112.245
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.243.218.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.243.218.61
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 185.243.218.110
 # Norway https://www.abuseipdb.com/check/
 block from any to 185.243.218.204
 # https://www.abuseipdb.com/check/
@@ -21843,6 +23500,8 @@ block from any to 186.4.158.7
 block from any to 186.4.174.138
 # aip
 block from any to 186.10.125.209
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 186.10.155.73
 # https://www.abuseipdb.com/check/
 block from any to 186.18.25.29
 # Argentina https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
@@ -21914,12 +23573,16 @@ block from any to 186.210.24.191
 block from any to 186.215.65.122
 # Brazil https://www.abuseipdb.com/check/
 block from any to 186.215.89.146
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 186.216.253.75
 # Brazil https://www.abuseipdb.com/check/
 block from any to 186.220.66.244
 # https://www.abuseipdb.com/check/
 block from any to 186.225.145.38
 # Brazil https://www.abuseipdb.com/check/
 block from any to 186.226.56.54
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 186.227.225.188
 # https://www.abuseipdb.com/check/
 block from any to 186.233.119.15
 block from any to 186.237.209.0/24
@@ -21942,6 +23605,8 @@ block from any to 186.240.15.129
 block from any to 186.247.246.58
 # https://www.abuseipdb.com/check/
 block from any to 186.248.197.77
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 186.249.159.122
 # Brazil https://www.abuseipdb.com/check/
 block from any to 186.250.157.69
 # Brazil https://www.abuseipdb.com/check/
@@ -21960,6 +23625,8 @@ block from any to 187.24.12.179
 block from any to 187.24.64.252
 # Brazil https://www.abuseipdb.com/check/
 block from any to 187.32.48.59
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 187.45.187.42
 # Brazil https://www.abuseipdb.com/check/
 block from any to 187.49.21.153
 # https://www.abuseipdb.com/check/
@@ -22044,6 +23711,8 @@ block from any to 187.212.246.38
 block from any to 187.213.203.252
 # Mexico https://www.abuseipdb.com/check/
 block from any to 187.217.183.149
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 187.220.34.97
 # Mexico https://www.abuseipdb.com/check/
 block from any to 187.224.46.30
 # https://www.abuseipdb.com/check/187.235.56.126
@@ -22060,6 +23729,8 @@ block from any to 187.251.245.111
 block from any to 188.6.251.210
 # Italy https://www.abuseipdb.com/check/
 block from any to 188.15.137.81
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 188.17.180.17
 # Russia https://www.abuseipdb.com/check/
 block from any to 188.18.49.50
 # https://www.abuseipdb.com/check/188.32.89.145
@@ -22138,9 +23809,13 @@ block from any to 188.114.97.14
 block from any to 188.119.113.105
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 188.120.229.213
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 188.120.239.6
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 188.120.240.143
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 188.120.241.126
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 188.120.248.175
 # https://threatfox.abuse.ch/browse/malware/unknown/
 block from any to 188.120.250.67
@@ -22172,6 +23847,8 @@ block from any to 188.166.71.161
 block from any to 188.166.84.29
 # Netherlands https://www.abuseipdb.com/check/
 block from any to 188.166.105.120
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 188.166.138.176
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 188.166.146.133
 # https://www.abuseipdb.com/check/
@@ -22197,6 +23874,8 @@ block from any to 188.166.38.208
 block from any to 188.166.38.211
 # abuse.ch TF
 block from any to 188.166.39.71
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 188.68.49.235
 # https://github.com/avast/ioc/blob/master/FakeUpdate/ClearFake_11_2023.txt pnt.info[.pl
 block from any to 188.68.240.143
 # https://misp.cert.ssi.gouv.fr/feed-misp/6181159d-d7e0-422f-b7f5-26cc0abe1822.json
@@ -22257,6 +23936,8 @@ block from any to 189.89.15.37
 block from any to 189.89.55.24
 # Brazil https://www.abuseipdb.com/check/
 block from any to 189.112.8.204
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 189.113.240.45
 # https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 189.121.150.254
 # Mexico https://www.abuseipdb.com/check/
@@ -22269,6 +23950,8 @@ block from any to 189.139.197.41
 block from any to 189.152.202.202
 # Mexico https://www.abuseipdb.com/check/
 block from any to 189.153.101.10
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 189.158.218.177
 # Mexico https://www.abuseipdb.com/check/
 block from any to 189.174.111.71
 # https://threatfox.abuse.ch/browse/malware/win.qakbot/
@@ -22305,6 +23988,8 @@ block from any to 190.13.130.84
 block from any to 190.16.52.53
 # https://www.abuseipdb.com/check/
 block from any to 190.18.103.201
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 190.22.211.204
 # Chile https://www.abuseipdb.com/check/
 block from any to 190.25.104.151
 # https://www.abuseipdb.com/check/
@@ -22335,6 +24020,8 @@ block from any to 190.80.24.115
 block from any to 190.89.45.74
 # Honduras https://www.abuseipdb.com/check/
 block from any to 190.92.74.181
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 190.92.158.4
 # US https://www.abuseipdb.com/check/
 block from any to 190.92.176.9
 # Bolivia https://www.abuseipdb.com/check/
@@ -22373,6 +24060,8 @@ block from any to 190.146.5.153
 block from any to 190.149.6.86
 # https://www.abuseipdb.com/check/
 block from any to 190.153.108.69
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 190.160.235.45
 # Dominican Republic https://www.abuseipdb.com/check/
 block from any to 190.166.28.199
 # https://www.abuseipdb.com/check/
@@ -22391,7 +24080,9 @@ block from any to 190.184.201.138
 block from any to 190.186.172.230
 # Argentina https://www.abuseipdb.com/check/
 block from any to 190.191.217.179
-# https://www.abuseipdb.com/check/190.206.22.221
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 190.196.224.22
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 190.206.22.221
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 190.211.254.154
@@ -22423,6 +24114,8 @@ block from any to 191.88.249.10
 block from any to 191.88.249.121
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 191.88.250.232
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 191.92.120.173
 # https://www.zscaler.com/blogs/security-research/janelarat-repurposed-bx-rat-variant-targeting-latam-fintech
 block from any to 191.96.79.24
 # US https://www.abuseipdb.com/check/
@@ -22493,10 +24186,58 @@ block from any to 192.0.101.246
 block from any to 192.3.109.131
 # US https://www.abuseipdb.com/check/
 block from any to 192.3.116.142
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 192.36.57.181
 # Netherlands
 block from any to 192.42.116.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.17
 # https://www.abuseipdb.com/check/
 block from any to 192.42.116.28
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.173
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.176
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.180
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.183
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.184
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.191
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.192
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.193
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.194
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.196
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.197
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.201
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.203
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.204
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.209
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.210
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.211
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.212
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.213
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.215
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.216
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.42.116.218
 # US https://www.abuseipdb.com/check/
 block from any to 192.42.173.30
 # Netherlands https://www.abuseipdb.com/check/
@@ -22511,6 +24252,8 @@ block from any to 192.46.211.230
 block from any to 192.53.123.224
 # US https://www.abuseipdb.com/check/
 block from any to 192.53.126.23
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 192.64.86.243
 # SPAM
 block from any to 192.64.119.252
 # US https://www.abuseipdb.com/check/
@@ -22570,7 +24313,7 @@ block from any to 192.166.123.50
 block from any to 192.169.6.122
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 192.169.7.83
-# DNS https://threatfox.abuse.ch/browse/malware/win.asyncrat/ merthamurc.duckdns(.)org
+# DNS https://threatfox.abuse.ch/browse/malware/win.asyncrat/ merthamurc.duckdns(.)org https://threatfox.abuse.ch/browse/malware/win.nanocore/
 block from any to 192.169.69.26
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/tinyturla-ng.txt
 block from any to 192.169.157.217
@@ -22759,6 +24502,8 @@ block from any to 192.162.103.168
 # block from any to 192.168.1.39
 # Private IP https://blog.lumen.com/zuorat-hijacks-soho-routers-to-silently-stalk-networks/
 # block from any to 192.168.100.30
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+# block from any to 192.168.183.131
 # US DFA https://red.flag.domains/posts/2024-01-23/
 block from any to 192.185.41.36
 # https://www.abuseipdb.com/check/
@@ -22767,6 +24512,11 @@ block from any to 192.186.143.122
 block from any to 192.187.111.222
 # US https://blog.xlab.qianxin.com/bigpanzi-exposed-hidden-cyber-threat-behind-your-stb/
 block from any to 192.200.112.10
+block from any to 192.200.149.0/24
+block from any to 192.200.158.0/24
+block from any to 192.200.158.161
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 192.210.137.35
 # https://www.abuseipdb.com/check/
 block from any to 192.210.197.29
 # https://threatfox.abuse.ch/browse/malware/unknown/
@@ -22904,6 +24654,12 @@ block from any to 192.243.61.227
 # UK abuse.ch TF
 block from any to 192.248.151.140
 # DFA https://red.flag.domains/posts/2024-02-18/ registrar: OVH
+block from any to 192.250.227.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.250.227.18
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 192.250.227.18
+# DFA https://red.flag.domains/posts/2024-02-18/ registrar: OVH
 block from any to 192.250.227.23
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 192.250.225.3
@@ -22937,6 +24693,8 @@ block from any to 193.27.90.187
 block from any to 193.29.13.167
 # https://www.abuseipdb.com/check
 block from any to 193.29.107.99
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 193.31.28.13
 # France https://www.abuseipdb.com/check
 block from any to 193.32.126.148
 # Netherlands https://www.abuseipdb.com/check
@@ -22959,10 +24717,14 @@ block from any to 193.34.212.17
 block from any to 193.34.212.163
 # Germany https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 193.35.18.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 193.35.18.77
 # Germany https://www.abuseipdb.com/check
 block from any to 193.35.18.90
 # Germany https://www.abuseipdb.com/check
 block from any to 193.35.18.102
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 193.35.18.105
 # https://threatfox.abuse.ch/browse/malware/elf.mirai/
 block from any to 193.35.18.127
 # UK https://blog.lumen.com/routers-roasting-on-an-open-firewall-the-kv-botnet-investigation/ https://github.com/blacklotuslabs/IOCs/blob/main/KVbotnet_IOCs.txt
@@ -22995,8 +24757,16 @@ block from any to 193.43.134.113
 block from any to 193.46.238.181
 # UK https://www.abuseipdb.com/check/
 block from any to 193.46.255.17
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 193.47.61.75
 # UK https://www.abuseipdb.com/check/
 block from any to 193.57.40.49
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 193.57.41.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 193.57.41.184
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 193.57.41.185
 # https://red.flag.domains/posts/2024-04-20/ achatpermisfrancais[.fr] (registrar: SAS Ligne Web Services - LWS
 block from any to 193.58.105.128
 # France abuse.ch TF
@@ -23049,6 +24819,8 @@ block from any to 193.123.72.201
 block from any to 193.119.100.0/24
 # UAE https://www.abuseipdb.com/check/
 block from any to 193.123.72.201
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 193.124.113.33
 # https://threatfox.abuse.ch/browse/malware/win.venom/ https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 193.124.205.0/24
 # https://threatfox.abuse.ch/browse/malware/win.venom/
@@ -23057,6 +24829,8 @@ block from any to 193.124.205.20
 block from any to 193.124.205.80
 # WhiteSnake Stealer https://threatfox.abuse.ch/browse/malware/win.whitesnake/
 block from any to 193.142.58.127
+# https://tracker.viriback.com/index.php?q=Risepro
+block from any to 193.142.146.101
 # Seychelles https://www.abuseipdb.com/check/
 block from any to 193.142.147.248
 # https://red.flag.domains/posts/2024-02-26/ registrar: KEY-SYSTEMS GmbH https://tracker.viriback.com/index.php?q=Matanbuchus
@@ -23069,6 +24843,8 @@ block from any to 193.143.1.70
 block from any to 193.143.1.86
 # https://red.flag.domains/posts/2024-04-17/ espacesante-enligne[.fr] (registrar: One.com A/S majoration-enligne[.fr] (registrar: One.com A/S
 block from any to 193.143.1.97
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 193.143.1.161
 # https://tracker.viriback.com/index.php?q=Matanbuchus
 block from any to 193.143.1.196
 # https://tracker.viriback.com/index.php?q=Matanbuchus
@@ -23125,6 +24901,8 @@ block from any to 193.163.125.165
 block from any to 193.163.125.173
 # https://www.abuseipdb.com/check/
 block from any to 193.163.125.199
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 193.163.170.149
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 193.163.170.166
 # Russia https://decoded.avast.io/threatresearch/decrypted-homuwitch-ransomware/
@@ -23205,6 +24983,8 @@ block from any to 193.222.96.199
 block from any to 193.222.96.213
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 193.222.96.234
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 193.227.134.120
 # Georgia https://www.abuseipdb.com/check/
 block from any to 193.228.126.84
 block from any to 193.229.221.95
@@ -23224,6 +25004,8 @@ block from any to 193.233.132.10
 block from any to 193.233.132.11
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 193.233.132.32
+# https://tracker.viriback.com/index.php?q=Risepro
+block from any to 193.233.132.47
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 193.233.132.48
 # https://threatfox.abuse.ch/browse/malware/win.amadey/
@@ -23285,6 +25067,8 @@ block from any to 193.233.132.195
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 193.233.132.217
 # https://tracker.viriback.com/index.php?q=Risepro
+block from any to 193.233.132.222
+# https://tracker.viriback.com/index.php?q=Risepro
 block from any to 193.233.132.223
 # https://tracker.viriback.com/index.php?q=Risepro
 block from any to 193.233.132.224
@@ -23292,6 +25076,8 @@ block from any to 193.233.132.224
 block from any to 193.233.132.226
 # https://threatfox.abuse.ch/browse/malware/win.stealc/
 block from any to 193.233.132.241
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 193.233.133.109
 # DNS https://red.flag.domains/posts/ 2024-03-17/ registrar: One.com A/S sms-sante-renouvellement[.fr] 2024-03-11/ registrar: Hosting Concepts B.V. d/b/a Openprovider dossiers-gouv-paiements[.fr]
 block from any to 193.233.203.0/24
 # DNS https://red.flag.domains/posts/2024-03-11/ registrar: Hosting Concepts B.V. d/b/a Openprovider dossiers-gouv-paiements[.fr]
@@ -23316,6 +25102,8 @@ block from any to 193.233.255.0/24
 block from any to 193.233.255.34
 # A.ch TF
 block from any to 193.233.255.91
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 193.233.255.105
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 193.233.255.228
 # https://misp.cert.ssi.gouv.fr/feed-misp/61236bfb-37d8-4a71-a68e-2dbf0abe1822.json
@@ -23324,6 +25112,8 @@ block from any to 193.239.84.133
 block from any to 193.239.86.163
 # DNS https://threatfox.abuse.ch/browse/malware/js.gootloader/
 block from any to 193.239.187.108
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 193.239.232.230
 # Russia https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 193.242.176.251
 # https://threatfox.abuse.ch/browse/malware/win.socks5_systemz/
@@ -23337,6 +25127,8 @@ block from any to 193.254.228.224
 block from any to 193.252.133.0/24
 # Kazakhstan https://www.abuseipdb.com/check/
 block from any to 194.0.127.102
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 194.4.49.6
 # Russia https://misp.cert.ssi.gouv.fr/feed-misp/60f6ea57-5534-4866-9677-44650abe1822.json
 block from any to 194.5.79.21
 # Russia https://www.abuseipdb.com/check/
@@ -23386,6 +25178,8 @@ block from any to 194.26.135.132
 # Russia https://www.abuseipdb.com/check/
 block from any to 194.26.135.133
 # Russia https://www.abuseipdb.com/check/
+block from any to 194.26.135.154
+# Russia https://www.abuseipdb.com/check/
 block from any to 194.26.135.157
 # Russia https://www.abuseipdb.com/check/
 block from any to 194.26.135.154
@@ -23403,7 +25197,7 @@ block from any to 194.26.192.0/24
 block from any to 194.26.192.34
 # Netherlands https://red.flag.domains/posts/2024-01-19/ https://red.flag.domains/posts/2024-01-18/
 block from any to 194.26.192.42
-# Netherlands https://www.abuseipdb.com/check/
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
 block from any to 194.26.192.77
 # https://www.abuseipdb.com/check/
 block from any to 194.26.192.215
@@ -23411,6 +25205,8 @@ block from any to 194.26.192.215
 block from any to 194.31.135.146
 # DNS https://red.flag.domains/posts/2024-03-08/ registrar: OVH colis-supportclient[.fr]
 block from any to 194.32.76.179
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 194.32.78.183
 # France https://www.abuseipdb.com/check/ https://tracker.viriback.com/index.php?q=Risepro https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 194.33.191.0/24
 # France https://www.abuseipdb.com/check/
@@ -23526,6 +25322,8 @@ block from any to 194.87.71.43
 block from any to 194.87.93.199
 # https://www.abuseipdb.com/check/
 block from any to 194.87.216.33
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 194.87.236.115
 # https://www.abuseipdb.com/check/
 block from any to 194.104.11.128
 # Ukraine https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
@@ -23612,7 +25410,7 @@ block from any to 194.169.175.38
 block from any to 194.169.175.43
 # UK https://www.abuseipdb.com/check/
 block from any to 194.169.175.106
-# UK https://www.abuseipdb.com/check/
+# US https://www.abuseipdb.com/check/
 block from any to 194.169.175.107
 # https://threatfox.abuse.ch/browse/malware/osx.amos/
 block from any to 194.169.175.117
@@ -23715,6 +25513,8 @@ block from any to 195.123.222.172
 block from any to 195.123.245.79
 # https://www.abuseipdb.com/check/
 block from any to 195.133.23.90
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 195.133.88.120
 # Ukraine https://www.abuseipdb.com/check/
 block from any to 195.140.227.163
 # Austria https://www.abuseipdb.com/check/
@@ -23747,6 +25547,8 @@ block from any to 195.201.179.80
 block from any to 195.206.181.169
 # https://tracker.viriback.com/index.php?q=Amadey
 block from any to 195.211.124.144
+# Russia https://www.abuseipdb.com/check/
+block from any to 195.218.138.146
 # https://www.abuseipdb.com/check/
 block from any to 195.218.254.102
 # https://www.abuseipdb.com/check/
@@ -24439,6 +26241,8 @@ block from any to 198.252.107.164
 block from any to 198.255.88.146
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 199.19.225.177
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/coralraider-targets-socialmedia-accounts.txt
+block from any to 199.34.27.196
 # DFA US https://red.flag.domains/posts/ 2024-02-17 registrar: KEY-SYSTEMS GmbH  2024-02-04
 block from any to 199.34.228.0/24
 # DFA US https://www.bitdefender.com/blog/labs/investigating-worldwide-sms-scams-and-tens-of-millions-of-dollars-in-fraud/ https://www.virustotal.com/gui/ip-address/199.36.158.100 https://www.abuseipdb.com/check/199.36.158.100
@@ -24465,12 +26269,14 @@ block from any to 199.45.155.32
 block from any to 199.45.155.35
 # https://misp.cert.ssi.gouv.fr/feed-misp/5e396a1e-68e4-4db5-8810-ca350aba047c.json
 block from any to 198.50.168.67
-# DFA US bodis.com registrar: SONEXO B.V https://red.flag.domains/posts/ 2023-02-10/ registrar: SONEXO B.V 2023-01-27 2024-01-19 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a https://www.abuseipdb.com/check/199.59.243.225
+# DFA https://red.flag.domains/posts/ 2024-04-14 bnpparibois[.fr] (registrar: XNS Registrar B.V. 2024-04-07 lidentite-numerique[.fr] (registrar: 1API GmbH) 2023-02-10/ registrar: SONEXO B.V 2024-01-19 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a
 block from any to 199.59.243.225
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 #block from any to 199.60.103.228
 # https://www.zscaler.com/blogs/security-research/technical-analysis-hijackloader www.4sync[.]com
 block from any to 199.101.134.238
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 199.119.206.28
 # https://threatfox.abuse.ch/browse/malware/win.venom/
 block from any to 199.127.60.151
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
@@ -24533,6 +26339,8 @@ block from any to 200.75.4.248
 block from any to 200.75.183.178
 # https://www.abuseipdb.com/check/
 block from any to 200.76.53.187
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 200.86.96.116
 # Dominican Republic https://www.abuseipdb.com/check/
 block from any to 200.88.217.196
 # Mexico https://www.abuseipdb.com/check/
@@ -24543,6 +26351,8 @@ block from any to 200.98.162.184
 block from any to 200.100.255.30
 # Panama https://www.abuseipdb.com/check/
 block from any to 200.107.207.17
+# https://www.abuseipdb.com/check/
+block from any to 200.111.103.70
 # https://www.abuseipdb.com/check/
 block from any to 200.115.97.27
 # Colombia https://www.abuseipdb.com/check/
@@ -24557,6 +26367,16 @@ block from any to 200.162.134.82
 block from any to 200.189.192.3
 # Brazil https://www.abuseipdb.com/check/
 block from any to 200.222.29.141
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 200.234.232.196
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 200.236.194.132
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 201.4.88.135
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 201.9.14.21
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 201.15.122.85
 # https://www.abuseipdb.com/check/
 block from any to 201.18.18.172
 # https://www.abuseipdb.com/check/
@@ -24643,8 +26463,10 @@ block from any to 201.181.244.3
 block from any to 201.181.244.35
 # https://www.abuseipdb.com/check/
 block from any to 201.182.8.151
-#  https://www.abuseipdb.com/check/
+# https://www.abuseipdb.com/check/
 block from any to 201.182.249.195
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 201.189.187.234
 block from any to 201.202.13.0/24
 # https://www.abuseipdb.com/check/
 block from any to 201.202.13.159
@@ -24666,6 +26488,8 @@ block from any to 201.217.143.51
 block from any to 201.219.204.73
 # https://www.abuseipdb.com/check/
 block from any to 201.221.109.75
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 201.221.196.21
 # Argentina https://www.abuseipdb.com/check/
 block from any to 201.231.202.240
 # https://www.abuseipdb.com/check/
@@ -24782,6 +26606,8 @@ block from any to 203.33.206.80
 block from any to 203.55.81.0
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
 block from any to 203.86.255.47
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 203.96.177.103
 # https://www.abuseipdb.com/check/203.98.76.172
 block from any to 203.98.76.172
 # https://www.abuseipdb.com/check/
@@ -24824,6 +26650,8 @@ block from any to 203.155.221.253
 block from any to 203.159.80.211
 # https://viz.greynoise.io/tags/palo-alto-pan-os-cve-2024-3400-rce-attempt?days=10
 block from any to 203.160.72.245
+# https://unit42.paloaltonetworks.com/cve-2024-3400/
+block from any to 203.160.86.91
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
 block from any to 203.160.86.236
 # Vietnam https://www.abuseipdb.com/check/
@@ -24840,6 +26668,8 @@ block from any to 203.209.209.89
 block from any to 203.210.85.208
 # India https://www.abuseipdb.com/check/
 block from any to 203.212.232.86
+# https://www.abuseipdb.com/check/
+block from any to 203.240.224.26
 # Korea https://www.abuseipdb.com/check/
 block from any to 203.243.52.172
 # DFA https://misp.cert.ssi.gouv.fr/feed-misp/6021536f-a808-4b9c-8136-d7460aba047c.json
@@ -24944,6 +26774,8 @@ block from any to 205.210.31.250
 block from any to 205.234.144.252
 # A.ch TF
 block from any to 205.234.181.204
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 205.234.232.196
 # https://sektorcert.dk/wp-content/uploads/2023/11/SektorCERT-The-attack-against-Danish-critical-infrastructure-TLP-CLEAR.pdf
 block from any to 205.147.101.170
 block from any to 205.210.31.0/24
@@ -25019,7 +26851,7 @@ block from any to 206.189.156.69
 block from any to 206.189.204.129
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 206.189.236.78
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 206.189.246.137
 # US https://www.abuseipdb.com/check/
 block from any to 206.198.149.172
@@ -25053,6 +26885,8 @@ block from any to 207.148.46.218
 block from any to 207.148.66.150
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/c/earth-krahang-exploits-intergovernmental-trust-to-launch-cross-government-attacks/ioc_earth_krahang.txt
 block from any to 207.148.69.1
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 207.148.74.250
 # https://www.trendmicro.com/content/dam/trendmicro/global/en/research/24/c/earth-krahang-exploits-intergovernmental-trust-to-launch-cross-government-attacks/ioc_earth_krahang.txt
 block from any to 207.148.75.122
 # https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
@@ -25132,6 +26966,23 @@ block from any to 209.38.216.114
 block from any to 209.38.229.174
 # https://www.abuseipdb.com/check/
 block from any to 209.59.140.170
+block from any to 209.107.204.0/24
+block from any to 209.107.210.0/24
+block from any to 209.107.216.0/24
+block from any to 209.107.216.47
+block from any to 209.127.24.52
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 209.127.186.0/24
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 209.127.186.195
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 209.127.186.233
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 209.127.186.195
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 209.127.186.233
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 209.127.186.234
 # Belgium https://www.abuseipdb.com/check/
 block from any to 209.85.128.54
 # DFA liquidweb.com registrar: AMEN / Agence des Médias Numériques https://red.flag.domains/posts/2023-01-26/
@@ -25144,6 +26995,8 @@ block from any to 209.126.11.251
 block from any to 209.126.116.211
 # https://misp.cert.ssi.gouv.fr/feed-misp/602ceed3-9144-4262-a1a5-30fd0aba047c.json
 block from any to 209.141.34.91
+# https://brute.fail/top.txt
+block from any to 209.141.35.0/24
 # https://www.cadosecurity.com/spinning-yarn-a-new-linux-malware-campaign-targets-docker-apache-hadoop-redis-and-confluence/
 block from any to 209.141.37.110
 # US https://www.abuseipdb.com/check/
@@ -25265,14 +27118,14 @@ block from any to 211.232.48.65
 block from any to 211.233.24.7
 # https://www.abuseipdb.com/check/
 block from any to 211.243.43.30
-# France https://www.abuseipdb.com/check/
-block from any to 212.27.47.122
 # https://www.abuseipdb.com/check/
 block from any to 212.12.31.69
 # Saudi Arabia https://www.abuseipdb.com/check/
 block from any to 212.12.171.58
 # https://www.abuseipdb.com/check/
 block from any to 212.13.186.180
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 212.21.66.6
 # France https://www.abuseipdb.com/check/
 block from any to 212.27.47.122
 # https://red.flag.domains/posts/2024-04-18/ gicgouv[.fr] (registrar: KEY-SYSTEMS GmbH
@@ -25342,6 +27195,10 @@ block from any to 212.103.208.182
 block from any to 212.109.193.246
 # https://www.abuseipdb.com/check/
 block from any to 212.109.199.237
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 212.109.220.144
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+block from any to 212.109.221.128
 # https://threatfox.abuse.ch/browse/malware/win.sliver/
 block from any to 212.113.106.100
 # https://threatfox.abuse.ch/browse/malware/win.meduza/ https://threatfox.abuse.ch/browse/malware/apk.hydra/
@@ -25374,17 +27231,21 @@ block from any to 212.145.210.150
 block from any to 212.164.232.163
 # https://threatfox.abuse.ch/browse/malware/win.dcrat/
 block from any to 212.192.12.222
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 212.193.2.48
 # https://threatfox.abuse.ch/browse/malware/win.asyncrat/
 block from any to 212.193.11.40
 # https://blogapp.bitdefender.com/labs/content/files/2023/07/Bitdefender-PR-WhitePaper-RatNitro-dex14210-en_EN.pdf
 block from any to 212.193.30.14
 # Russia https://www.abuseipdb.com/check/
 block from any to 212.193.62.180
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 212.199.198.194
 # https://misp.cert.ssi.gouv.fr/feed-misp/62167543-c4e0-4f39-a23e-c09f0abe1822.json
 block from any to 212.202.147.10
 # https://threatfox.abuse.ch/browse/malware/unknown/ https://tracker.viriback.com/index.php?q=HookBot
 block from any to 212.224.88.0/24
-# https://threatfox.abuse.ch/browse/malware/unknown/
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
 block from any to 212.224.88.151
 # https://tracker.viriback.com/index.php?q=HookBot
 block from any to 212.224.88.253
@@ -25392,6 +27253,8 @@ block from any to 212.224.88.253
 block from any to 212.234.179.113
 # Iraq https://www.abuseipdb.com/check/
 block from any to 212.237.125.91
+# https://threatfox.abuse.ch/browse/malware/win.cobalt_strike/
+block from any to 213.1.229.142
 # France https://www.abuseipdb.com/check/
 block from any to 213.5.130.57
 # Turkey https://www.abuseipdb.com/check/
@@ -25410,6 +27273,10 @@ block from any to 213.59.249.19
 block from any to 213.60.255.181
 # https://www.abuseipdb.com/check/
 block from any to 213.87.195.88
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 213.94.35.208
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 213.94.49.246
 # Russia https://www.abuseipdb.com/check/
 block from any to 213.109.202.0/24
 # Russia https://www.abuseipdb.com/check/
@@ -25432,6 +27299,14 @@ block from any to 213.145.228.111
 block from any to 213.153.132.26
 # https://www.abuseipdb.com/check/
 block from any to 213.153.251.36
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 213.156.138.0/24
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 213.156.138.68
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 213.156.138.77
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 213.156.138.78
 # https://red.flag.domains/posts/2024-04-01/ remboursement-shotgun-live[.fr] (registrar: AMEN / Agence des Médias Numériques
 block from any to 213.158.93.16
 # Belgium https://red.flag.domains/posts/ 2024-02-12 registrar: AMEN / Agence des Médias Numériques 2024-02-09 registrar: AMEN / Agence des Médias Numériques 2024-01-13 19
@@ -25598,14 +27473,47 @@ block from any to 216.128.136.231
 block from any to 216.128.179.235
 # Canada https://blog.lumen.com/routers-roasting-on-an-open-firewall-the-kv-botnet-investigation/ https://www.bleepingcomputer.com/news/security/stealthy-kv-botnet-hijacks-soho-routers-and-vpn-devices/
 block from any to 216.128.180.232
+block from any to 216.131.79.124
+block from any to 216.131.82.0/24
+block from any to 216.131.82.34
+block from any to 216.131.82.59
+block from any to 216.131.84.81
+block from any to 216.131.86.0/24
+block from any to 216.131.86.153
+block from any to 216.131.86.169
+block from any to 216.131.87.0/24
+block from any to 216.131.87.34
+block from any to 216.131.87.41
+block from any to 216.131.88.0/24
+block from any to 216.131.88.83
+block from any to 216.131.88.195
+block from any to 216.131.89.0/24
+block from any to 216.131.89.20
+block from any to 216.131.89.39
+block from any to 216.131.104.0/24
+block from any to 216.131.104.131
+block from any to 216.131.105.0/24
+block from any to 216.131.106.145
+block from any to 216.131.109.40
+block from any to 216.131.116.0/24
+block from any to 216.131.116.16
+block from any to 216.131.116.124
+block from any to 216.131.117.14
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 216.146.26.94
+block from any to 216.151.180.21
+block from any to 216.151.184.180
+block from any to 216.151.191.23
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 216.155.157.136
 # US https://www.abuseipdb.com/check/
 block from any to 216.158.238.179
 # https://www.abuseipdb.com/check/216
 block from any to 216.168.111.138
 # US https://www.abuseipdb.com/check/216
 block from any to 216.182.106.149
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 216.189.159.197
 # US https://www.abuseipdb.com/check/
 block from any to 216.198.1.60
 # Nanocore RAT https://threatfox.abuse.ch/browse/
@@ -25618,22 +27526,43 @@ block from any to 216.218.206.55
 block from any to 216.218.206.92
 # US
 block from any to 216.218.206.0/24
+# https://threatfox.abuse.ch/browse/malware/unknown/ SilverFox
+block from any to 216.224.125.193
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 216.238.66.251
+block from any to 216.238.70.224
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 216.238.71.49
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 216.238.72.201
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 216.238.74.95
 # Mexico https://www.abuseipdb.com/check/
 block from any to 216.238.76.219
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 216.238.81.149
 # https://threatfox.abuse.ch/browse/malware/win.bianlian/
 block from any to 216.238.83.84
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 216.238.85.220
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 216.238.86.24
 # https://www.abuseipdb.com/check/
 block from any to 216.218.206.100
 # US https://www.abuseipdb.com/check/
 block from any to 216.218.206.115
+# https://www.cyber.gc.ca/en/news-events/cyber-activity-impacting-cisco-asa-vpns https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices.txt
+block from any to 216.238.75.155
 # A.ch TF
 block from any to 216.238.78.129
 # A.ch TF
 block from any to 216.238.79.12
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 216.239.32.0/24
+block from any to 216.239.32.8
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
 block from any to 216.239.32.53
+block from any to 216.239.32.67
 # US https://www.abuseipdb.com/check/
 block from any to 216.239.32.109
 # DNS https://github.com/Cisco-Talos/IOCs/blob/main/2024/02/google-cloud-run-abuse.txt
@@ -25654,6 +27583,8 @@ block from any to 216.239.38.53
 block from any to 216.241.2.162
 # https://www.abuseipdb.com/check/216
 block from any to 216.244.203.68
+# https://github.com/Cisco-Talos/IOCs/blob/main/2024/04/large-scale-brute-force-activity-targeting-vpns-ssh-services-with-commonly-used-login-credentials.txt
+block from any to 216.246.46.178
 # https://www.abuseipdb.com/check/
 block from any to 217.10.40.45
 # https://threatfox.abuse.ch/browse/malware/elf.bashlite/
@@ -25708,6 +27639,8 @@ block from any to 217.113.194.106
 block from any to 217.113.194.122
 # https://www.abuseipdb.com/check/
 block from any to 217.113.194.245
+# https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/
+block from any to 217.114.43.149
 # Italy https://www.abuseipdb.com/check/
 block from any to 217.133.205.199
 # Xtreme RAT https://threatfox.abuse.ch/browse/
@@ -25841,6 +27774,8 @@ block from any to 217.195.203.43
 # https://threatfox.abuse.ch/browse/malware/win.risepro/
 block from any to 217.195.207.156
 # https://tracker.viriback.com/index.php?q=Meduza
+block from any to 217.196.98.138
+# https://tracker.viriback.com/index.php?q=Meduza
 block from any to 217.197.107.145
 # Sweden https://www.abuseipdb.com/check/
 block from any to 217.215.28.96
@@ -25874,7 +27809,7 @@ block from any to 218.78.63.36
 block from any to 218.90.123.106
 # China https://www.abuseipdb.com/check/
 block from any to 218.90.213.170
-# China https://tehtris.com/fr/blog/notre-selection-des-alertes-de-nos-honeypots-bulletin-9-mai-2023/
+# China https://brute.fail/top.txt https://tehtris.com/fr/blog/notre-selection-des-alertes-de-nos-honeypots-bulletin-9-mai-2023/
 block from any to 218.92.0.0/24
 # China https://www.abuseipdb.com/check/
 block from any to 218.92.0.22
@@ -26002,6 +27937,8 @@ block from any to 220.69.33.144
 block from any to 220.70.124.246
 # Korea https://www.abuseipdb.com/check/
 block from any to 220.72.182.252
+# https://threatfox.abuse.ch/browse/malware/win.bianlian/
+block from any to 220.77.118.115
 # https://www.abuseipdb.com/check/220.79.186.109
 block from any to 220.79.186.109
 # Korea https://www.abuseipdb.com/check/
@@ -26086,6 +28023,8 @@ block from any to 220.181.1.163
 block from any to 220.185.84.16
 # Canada https://www.abuseipdb.com/check/
 block from any to 220.197.51.172
+# China https://www.abuseipdb.com/check/
+block from any to 220.202.112.167
 # https://www.abuseipdb.com/check/
 block from any to 220.228.152.176
 # https://unit42.paloaltonetworks.com/threat-brief-ivanti-cve-2023-46805-cve-2024-21887/
@@ -26284,6 +28223,8 @@ block from any to 222.222.147.2
 block from any to 222.231.36.76
 # Korea https://www.abuseipdb.com/check/
 block from any to 222.237.36.143
+# https://threatfox.abuse.ch/browse/malware/win.venom/
+block from any to 222.239.35.173
 # https://www.abuseipdb.com/check/
 block from any to 222.241.208.156
 # China https://www.abuseipdb.com/check/

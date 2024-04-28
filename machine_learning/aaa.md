@@ -543,6 +543,9 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://swe-to-mle.pages.dev/posts/einsum-for-tensor-manipulation/
+> https://news.ycombinator.com/item?id=40181612
+
 https://news.ycombinator.com/item?id=40139398
 
 https://github.com/neurallambda/awesome-reasoning

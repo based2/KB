@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=40148012
+
 https://nautil.us/the-part-time-climate-scientist-542351/
 > https://news.ycombinator.com/item?id=40066904
 

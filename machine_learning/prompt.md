@@ -97,3 +97,4 @@ https://mitenmit.github.io/gpt/
 
 https://news.ycombinator.com/item?id=39374249
 
+https://news.ycombinator.com/item?id=40172340

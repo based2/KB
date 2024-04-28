@@ -195,6 +195,9 @@ https://www.scylladb.com/2022/10/12/a-new-scylladb-go-driver-faster-than-gocql-a
 https://questdb.io/blog/inner-workings-distributed-databases/
 > https://news.ycombinator.com/item?id=35602983
 
+https://www.amazon.science/publications/amazon-memorydb-a-fast-and-durable-memory-first-cloud-database
+> https://news.ycombinator.com/item?id=40158794
+
 # Test
 https://fsantanna.github.io/structured-concurrency.html
 > https://news.ycombinator.com/item?id=30754854

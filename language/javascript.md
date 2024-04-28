@@ -220,6 +220,8 @@ https://typeofnan.dev/what-the-useevent-react-a-is-and-isnt/
 https://github.com/brimdata/react-arborist
 
 ### News
+https://news.ycombinator.com/item?id=40166116
+
 https://news.ycombinator.com/item?id=39706035
 
 https://million.dev/blog/million-3.en-US
@@ -601,6 +603,8 @@ https://nodejs.org/en/blog/announcements/nodejs16-eol/ Changing the End-of-Life 
 
 https://codesandbox.io/blog/announcing-sandpack-2
 > https://news.ycombinator.com/item?id=34824635
+
+https://news.ycombinator.com/item?id=40148716
 
 ## NPM
 

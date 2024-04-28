@@ -32,6 +32,8 @@ https://everydayastronaut.com/soviet-rocket-engines/
 > https://news.ycombinator.com/item?id=29359038
 
 # News
+https://news.ycombinator.com/item?id=40180749
+
 https://news.ycombinator.com/item?id=40066921
 
 https://news.ycombinator.com/item?id=39841027

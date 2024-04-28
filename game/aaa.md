@@ -37,7 +37,14 @@ https://news.ycombinator.com/item?id=38612164 role
 https://talktomehuman.com/
 > https://news.ycombinator.com/item?id=40091379
 
+# https://threatfox.abuse.ch/browse/malware/unknown/ Hookbot Pegasus
+
+
 # News
+https://news.ycombinator.com/item?id=40182868
+
+https://news.ycombinator.com/item?id=40154024
+
 https://news.ycombinator.com/item?id=40092627
 
 https://news.ycombinator.com/item?id=40088751

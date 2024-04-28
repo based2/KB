@@ -332,6 +332,8 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://news.ycombinator.com/item?id=40149095
+
 https://www.reuters.com/technology/cloud-software-company-hashicorp-exploring-potential-sale-bloomberg-news-reports-2024-03-15/
 > https://news.ycombinator.com/item?id=39733515
 

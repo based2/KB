@@ -30,6 +30,10 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.coinfeeds.io/daily/el-salvador-s-bitcoin-wallet-faces-security-breaches
+
+https://news.ycombinator.com/item?id=40148012
+
 https://news.ycombinator.com/item?id=39446617
 
 https://www.bitdefender.com/blog/labs/stream-jacking-2-0-deep-fakes-power-account-takeovers-on-youtube-to-maximize-crypto-doubling-scams/

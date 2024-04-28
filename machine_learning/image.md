@@ -395,6 +395,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://news.ycombinator.com/item?id=40160728
+
 https://news.ycombinator.com/item?id=40081194
 
 https://yosefk.com/blog/the-state-of-ai-for-hand-drawn-animation-inbetweening.html

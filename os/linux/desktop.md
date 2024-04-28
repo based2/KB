@@ -46,6 +46,8 @@ https://magcius.github.io/xplain/article/x-basics.html
 
 https://news.ycombinator.com/item?id=39612957
 
+https://news.ycombinator.com/item?id=40175731
+
 # Audio
 
 # Printer
@@ -107,6 +109,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=40155336
+
 https://news.ycombinator.com/item?id=40011100
 
 https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html

@@ -206,6 +206,8 @@ https://cryptpad.cz/
 > https://github.com/xwiki-labs/cryptpad
 > > https://news.ycombinator.com/item?id=29921947
 
+https://news.ycombinator.com/item?id=40171216
+
 # Media center
 https://kodi.tv/
 > https://news.ycombinator.com/item?id=28488668

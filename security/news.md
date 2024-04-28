@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=40146615
+
+https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices/
+> https://news.ycombinator.com/item?id=40181896
+
 https://news.ycombinator.com/item?id=40133680
 
 https://news.ycombinator.com/item?id=40101846

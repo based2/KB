@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=40176739
+
 https://hugo.blog/2024/03/11/vision-pro/
 > https://news.ycombinator.com/item?id=39711725
 

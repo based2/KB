@@ -27,6 +27,9 @@ https://wiki.alopex.li/TernaryComputer
 https://louis-dr.github.io/ternalu3.html
 
 # News
+https://cliffle.com/blog/hubris-reply-fault/
+> https://news.ycombinator.com/item?id=40178652
+
 https://trustworthy.systems/publications/papers/Heiser_24:eo.abstract Lions OS: secure – fast – adaptable
 > https://news.ycombinator.com/item?id=40072731
 

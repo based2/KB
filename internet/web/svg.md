@@ -99,3 +99,5 @@ https://prideout.net/blog/svg_knots/
 
 https://github.com/berthubert/trifecta/issues/38
 > https://news.ycombinator.com/item?id=39079943
+
+https://news.ycombinator.com/item?id=40180821
