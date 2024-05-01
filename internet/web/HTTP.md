@@ -205,6 +205,8 @@ https://github.com/httptoolkit/httptoolkit-server
 https://github.com/mockoon/mockoon
 
 # News
+https://news.ycombinator.com/item?id=40199274
+
 https://news.ycombinator.com/item?id=40095257
 
 https://github.com/1buran/rHttp REPL

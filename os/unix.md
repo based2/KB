@@ -90,3 +90,5 @@ https://tavianator.com/2018/spawn_of_satan.html
 
 https://www.tech-insider.org/unix/research/1992/0622.html
 > https://news.ycombinator.com/item?id=36817482
+
+https://news.ycombinator.com/item?id=40206825 posix

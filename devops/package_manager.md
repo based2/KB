@@ -96,6 +96,8 @@ https://www.jetpack.io/blog/introducing-nixhub/
 rpm -qpR
 
 # Incident
+https://jfrog.com/blog/attacks-on-docker-with-millions-of-malicious-repositories-spread-malware-and-phishing-scams/
+
 https://old.reddit.com/r/netsec/comments/19a9634/npm_package_found_delivering_rat_through_signed/
 
 https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/

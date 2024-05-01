@@ -86,6 +86,9 @@ https://news.ycombinator.com/item?id=39163181
 https://news.ycombinator.com/item?id=39391688
 
 # News
+http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html
+> https://news.ycombinator.com/item?id=40196333
+
 https://news.ycombinator.com/item?id=40084964
 
 https://adaptivecards.io/

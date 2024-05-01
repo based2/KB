@@ -543,6 +543,16 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=40212490
+
+https://arxiv.org/abs/2404.19737
+> https://news.ycombinator.com/item?id=40220851
+
+https://news.ycombinator.com/item?id=40222051
+
+https://github.com/KindXiaoming/pykan Kolmogorov-Arnold Networks
+> https://news.ycombinator.com/item?id=40219205
+
 https://news.ycombinator.com/item?id=40160577
 
 https://arxiv.org/abs/2212.10114

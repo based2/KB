@@ -122,6 +122,9 @@ https://www.dsecbypass.com/en/centreon-map-vulnerability/
 https://www.sonarsource.com/blog/cacti-unauthenticated-remote-code-execution/ CVE-2022-46169
 
 # News
+https://github.com/rcoh/angle-grinder
+> https://news.ycombinator.com/item?id=40195557
+
 https://news.ycombinator.com/item?id=40158266
 
 https://github.com/grafana/loki/releases/tag/v3.0.0

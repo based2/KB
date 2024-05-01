@@ -89,6 +89,9 @@ https://twitter.com/vponamariov/status/1421014957110579203
 > https://news.ycombinator.com/item?id=28006728
 
 # News
+https://uxdesign.cc/how-do-you-accidentally-run-for-president-of-iceland-0d71a4785a1e
+> https://news.ycombinator.com/item?id=40199713
+
 https://news.ycombinator.com/item?id=39301034
 
 https://justcreative.com/why-do-everyones-logo-fonts-look-the-same/

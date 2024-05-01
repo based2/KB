@@ -161,3 +161,5 @@ https://news.ycombinator.com/item?id=39592702
 https://news.ycombinator.com/item?id=39607753
 
 https://tmedicci.github.io/articles/2024/03/20/nuttx-on-demand_paging.html
+
+https://news.ycombinator.com/item?id=40194123

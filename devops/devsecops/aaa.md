@@ -62,6 +62,8 @@ https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 https://news.ycombinator.com/item?id=38471475
 
 #
+https://blog.phylum.io/how-malicious-python-code-gains-execution/
+
 https://news.ycombinator.com/item?id=40176908
 
 https://recurse.social/@dylnuge/112224580867240812

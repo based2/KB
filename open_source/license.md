@@ -82,6 +82,9 @@ https://www.zdnet.fr/blogs/l-esprit-libre/non-respect-de-la-licence-gpl-orange-c
 
 https://news.ycombinator.com/item?id=39503266
 
+https://www.theregister.com/2024/04/30/bruce_perens_post_open_license/
+> https://news.ycombinator.com/item?id=40212746
+
 # Incident
 https://news.ycombinator.com/item?id=39781055
 

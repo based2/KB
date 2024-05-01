@@ -1,6 +1,12 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://news.ycombinator.com/item?id=40228212
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-updates-cause-ntlm-auth-failures/
+
+https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/
+
 https://www.akamai.com/blog/security-research/critical-vulnerability-create-uri-remote-code-execution
 
 https://flatt.tech/research/posts/batbadbut-you-cant-securely-execute-commands-on-windows/

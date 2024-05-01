@@ -15,6 +15,8 @@ https://news.ycombinator.com/item?id=39660990
 
 https://pboyd.io/posts/securing-a-linux-vm/
 
+https://news.ycombinator.com/item?id=40194842
+
 # Tools
 https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html
 > https://news.ycombinator.com/item?id=39804214
@@ -52,6 +54,8 @@ https://news.ycombinator.com/item?id=40161334
 https://www.akamai.com/blog/security-research/critical-linux-backdoor-xz-utils-discovered-what-to-know
 
 https://xz.fail/
+
+https://news.ycombinator.com/item?id=40207261
 
 https://www.cisa.gov/news-events/alerts/2024/03/29/reported-supply-chain-compromise-affecting-xz-utils-data-compression-library-cve-2024-3094
 > https://www.bleepingcomputer.com/news/security/new-xz-backdoor-scanner-detects-implant-in-any-linux-binary/

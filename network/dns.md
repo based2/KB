@@ -89,6 +89,8 @@ https://ironsides.martincarlisle.com/ICRST2013.pdf
 https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.html
 > https://news.ycombinator.com/item?id=39960125
 
+https://objective-see.org/products/utilities.html#DNSMonitor macos
+
 # Incident
 https://www.bleepingcomputer.com/news/security/savvy-seahorse-gang-uses-dns-cname-records-to-power-investor-scams/
 

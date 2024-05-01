@@ -230,6 +230,14 @@ https://news.ycombinator.com/item?id=40099252
 https://news.ycombinator.com/item?id=40179232
 
 # News
+https://symbl.ai/developers/blog/emotional-intelligence-in-llms-evaluating-the-nebula-llm-on-eq-bench-and-the-judgemark-task/
+
+https://news.ycombinator.com/item?id=40215100
+
+https://news.ycombinator.com/item?id=40199715
+
+https://news.ycombinator.com/item?id=40215767
+
 https://linuxfr.org/users/aboulle/journaux/introduction-pratique-aux-grands-modeles-de-langage-llm
 
 https://arxiv.org/abs/2402.12354

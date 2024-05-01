@@ -1,3 +1,9 @@
+https://news.ycombinator.com/item?id=40214863
+
+https://www.csoonline.com/article/2096365/marriott-admits-it-falsely-claimed-for-five-years-it-was-using-encryption-during-2018-breach.html
+
+https://news.ycombinator.com/item?id=40210672
+
 https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/
 
 https://news.ycombinator.com/item?id=40147994

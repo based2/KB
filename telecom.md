@@ -144,6 +144,13 @@ https://www.dslreports.com/forum/wisp
 https://startyourownisp.com/
 
 # I
+https://news.ycombinator.com/item?id=40215803
+
+https://news.ycombinator.com/item?id=40223921
+
+https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf
+> https://news.ycombinator.com/item?id=40225228
+
 https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/
 
 https://www.bleepingcomputer.com/news/security/google-fixes-two-pixel-zero-day-flaws-exploited-by-forensics-firms/
@@ -250,6 +257,12 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://tedium.co/2024/04/27/mobile-phone-imei-number-history/
+> https://news.ycombinator.com/item?id=40202203
+
+https://arstechnica.com/space/2024/04/the-two-largest-geostationary-satellite-operators-will-become-one/
+> https://news.ycombinator.com/item?id=40222273
+
 https://news.ycombinator.com/item?id=40173914
 
 https://news.ycombinator.com/item?id=40161697

@@ -34,3 +34,6 @@ https://news.ycombinator.com/item?id=39955725
 https://news.ycombinator.com/item?id=39984209
 
 https://news.ycombinator.com/item?id=40185797
+
+https://github.com/kingjulio8238/memary Open-Source Longterm Memory for Autonomous Agents
+> https://news.ycombinator.com/item?id=40196879

@@ -146,6 +146,9 @@ https://github.com/vlcoo/P3synth
 https://news.ycombinator.com/item?id=40164310
 
 #
+https://cruncher.ch/blog/printing-music-with-css-grid/
+> https://news.ycombinator.com/item?id=40216057
+
 https://powersnail.com/ScoreInUrl/
 
 https://wavacity.com/

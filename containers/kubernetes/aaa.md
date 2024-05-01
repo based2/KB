@@ -101,6 +101,10 @@ https://www.armosec.io/blog/cve-2022-0185-kubernetes-users/
 > https://pwning.systems/posts/escaping-containers-for-fun/
 
 # News
+https://otterize.com/blog/iam-automation-for-eks-and-ack
+
+https://news.ycombinator.com/item?id=40213365
+
 https://news.ycombinator.com/item?id=40005949
 
 https://news.ycombinator.com/item?id=39779523

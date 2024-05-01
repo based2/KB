@@ -497,6 +497,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://www.cloudbees.com/blog/state-of-cicd-report-the-devops-performance-paradox-a-call-to-arms
+
 https://news.ycombinator.com/item?id=40156698
 
 https://old.reddit.com/r/RedditEng/comments/1bdtrjq/wrangling_2000_git_repos_at_reddit/
