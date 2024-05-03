@@ -76,6 +76,9 @@ http://argonaut.io/doc/quickstart/ scala
 https://github.com/AykutSarac/jsoncrack.com
 
 # News
+https://bump.sh/blog/how-to-use-json-path
+> https://news.ycombinator.com/item?id=40245637
+
 https://news.ycombinator.com/item?id=40098606
 
 https://jsonlines.org/

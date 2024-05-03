@@ -109,6 +109,8 @@ http://www.bizzley.com/
 > https://news.ycombinator.com/item?id=32800976
 
 # Releases
+https://news.ycombinator.com/item?id=40232896
+
 https://news.ycombinator.com/item?id=39412940
 
 https://godotengine.org/article/godot-4-2-arrives-in-style/

@@ -74,3 +74,6 @@ https://blog.pgvecto.rs/my-binary-vector-search-is-better-than-your-fp32-vectors
 
 https://swirlaiconnect.com/blog/using-vectors-without-a-vector-database
 > https://lobste.rs/s/nuylte/using_vectors_without_vector_database
+
+https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html
+> https://news.ycombinator.com/item?id=40243168

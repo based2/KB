@@ -55,6 +55,8 @@ https://www.gosecure.net/blog/2022/02/14/current-mfa-fatigue-attack-campaign-tar
 > https://news.ycombinator.com/item?id=30363537
 
 # News
+https://www.bleepingcomputer.com/news/software/bitwarden-launches-new-mfa-authenticator-app-for-ios-android/
+
 https://jpmens.net/2024/02/23/totp-codes-in-the-terminal/
 
 https://github.com/ory/kratos/releases/tag/v1.1.0

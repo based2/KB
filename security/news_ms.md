@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.bleepingcomputer.com/news/microsoft/microsoft-wont-fix-windows-0x80070643-errors-manual-fix-required/
+
 https://news.ycombinator.com/item?id=40228212
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-updates-cause-ntlm-auth-failures/

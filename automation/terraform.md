@@ -332,6 +332,9 @@ https://alex.kaskaso.li/post/terraform-plan-rce
 > https://www.reddit.com/r/netsec/comments/nbj5m7/terraform_plan_rce/
 
 # News
+https://leanercloud.beehiiv.com/p/current-opentofu-contributors-vs-pledged-ftes
+> https://news.ycombinator.com/item?id=40252620
+
 https://news.ycombinator.com/item?id=40212617 OpenTofu 1.7.0 is out with State Encryption, Dynamic Provider-defined Functions
 
 https://news.ycombinator.com/item?id=40149095

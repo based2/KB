@@ -72,6 +72,8 @@ https://github.com/Deeptechia/geppetto
 https://news.ycombinator.com/item?id=39579446
 
 # News
+https://news.ycombinator.com/item?id=40246445
+
 https://news.ycombinator.com/item?id=40217699
 
 https://news.ycombinator.com/item?id=40164309

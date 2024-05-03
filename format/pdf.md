@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://github.com/Stirling-Tools/Stirling-PDF
+> https://news.ycombinator.com/item?id=40242639
+
 https://news.ycombinator.com/item?id=40096113
 
 https://news.ycombinator.com/item?id=39265756

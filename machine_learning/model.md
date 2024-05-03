@@ -229,7 +229,14 @@ https://news.ycombinator.com/item?id=40099252
 
 https://news.ycombinator.com/item?id=40179232
 
+https://news.ycombinator.com/item?id=40242939
+
 # News
+https://twitter.com/karpathy/status/1786461447654125625
+
+https://eureka-research.github.io/dr-eureka/
+> https://news.ycombinator.com/item?id=40249696
+
 https://symbl.ai/developers/blog/emotional-intelligence-in-llms-evaluating-the-nebula-llm-on-eq-bench-and-the-judgemark-task/
 
 https://news.ycombinator.com/item?id=40215100

@@ -17,6 +17,12 @@ https://github.com/ax/apk.sh/releases
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://www.microsoft.com/en-us/security/blog/2024/05/01/dirty-stream-attack-discovering-and-mitigating-a-common-vulnerability-pattern-in-android-apps/
+> https://www.bleepingcomputer.com/news/security/microsoft-warns-of-dirty-stream-attack-impacting-android-apps/
+
+https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android
+> https://news.ycombinator.com/item?id=40247604
+
 https://arstechnica.com/gadgets/2024/04/google-says-its-fixing-a-nasty-android-tv-account-security-loophole/
 
 https://chromereleases.googleblog.com/2024/03/stable-channel-update-for-desktop_12.html
