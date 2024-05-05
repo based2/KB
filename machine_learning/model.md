@@ -229,9 +229,20 @@ https://news.ycombinator.com/item?id=40099252
 
 https://news.ycombinator.com/item?id=40179232
 
-https://news.ycombinator.com/item?id=40242939
+https://news.ycombinator.com/item?id=40242939 Refusal in LLMs is mediated by a single direction
+
+https://news.ycombinator.com/item?id=40256173 The Matrix: A Bayesian learning model for LLMs
+
+https://arxiv.org/abs/2402.16671 StructLM: Towards Building Generalist Models for Structured Knowledge Grounding
+
+https://news.ycombinator.com/item?id=40249696
 
 # News
+https://huggingface.co/gradientai/Llama-3-70B-Instruct-Gradient-1048k
+> https://news.ycombinator.com/item?id=40260879
+
+https://news.ycombinator.com/item?id=40256173
+
 https://twitter.com/karpathy/status/1786461447654125625
 
 https://eureka-research.github.io/dr-eureka/

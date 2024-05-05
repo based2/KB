@@ -54,6 +54,9 @@ https://news.ycombinator.com/item?id=39498281
 
 https://news.ycombinator.com/item?id=39638676
 
+https://hackersearch.net/
+> https://news.ycombinator.com/item?id=40238509 A semantic search engine for Hacker News, RAG
+
 # Slashdot
 # Reddit
 
@@ -72,6 +75,9 @@ https://www.telnetbbsguide.com/
 # tools
 https://cblgh.org/trustnet/
 > https://news.ycombinator.com/item?id=38590144
+
+# Legal
+https://news.ycombinator.com/item?id=40246642
 
 # Incident
 https://www.bleepingcomputer.com/news/technology/telegram-is-down-with-connecting-error/

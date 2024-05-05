@@ -64,6 +64,9 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://yuanchuan.dev/time-based-css-animations
+> https://news.ycombinator.com/item?id=40262236
+
 https://news.ycombinator.com/item?id=40156330
 
 https://news.ycombinator.com/item?id=40086793

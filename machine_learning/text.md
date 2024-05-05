@@ -71,7 +71,13 @@ https://github.com/Deeptechia/geppetto
 
 https://news.ycombinator.com/item?id=39579446
 
+https://news.ycombinator.com/item?id=40252569 Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU
+
 # News
+https://news.ycombinator.com/item?id=40255649
+
+https://news.ycombinator.com/item?id=40245261 Drink Me: (Ab)Using a LLM to Compress Text
+
 https://news.ycombinator.com/item?id=40246445
 
 https://news.ycombinator.com/item?id=40217699

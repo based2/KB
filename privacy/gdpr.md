@@ -78,6 +78,8 @@ https://privacybot.io/
 https://github.com/nightfallai/pii-leak-prevention-guide
 
 # News
+https://news.ycombinator.com/item?id=40246171
+
 https://news.ycombinator.com/item?id=39286390
 
 https://news.ycombinator.com/item?id=38443292

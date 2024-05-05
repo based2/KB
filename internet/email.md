@@ -202,6 +202,9 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # i
+https://www.bleepingcomputer.com/news/security/nsa-warns-of-north-korean-hackers-exploiting-weak-dmarc-email-policies/
+> "p=none" -> "v=DMARC1; p=quarantine;" or "v=DMARC1; p=reject;", rua' to receive aggregate reports about the DMARC results for email messages purportedly from the organization's domain,"
+
 https://labs.guard.io/subdomailing-thousands-of-hijacked-major-brand-subdomains-found-bombarding-users-with-millions-a5e5fb892935
 > https://guard.io/subdomailing
 

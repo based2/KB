@@ -124,6 +124,9 @@ https://www.da.vidbuchanan.co.uk/blog/colliding-secure-hashes.html
 https://research.nccgroup.com/2023/03/22/breaking-pedersen-hashes-in-practice/
 
 # News
+https://github.com/skeeto/hash-prospector Automated integer hash function discovery
+> https://news.ycombinator.com/item?id=40261681
+
 https://news.ycombinator.com/item?id=39836046
 
 https://news.ycombinator.com/item?id=39626867

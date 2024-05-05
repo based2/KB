@@ -33,3 +33,6 @@ https://www.quantamagazine.org/how-to-build-a-big-prime-number-20230713/
 
 https://grossack.site/2023/11/08/37-median.html
 > https://news.ycombinator.com/item?id=38242946
+
+https://glitchcomet.com/articles/1024-bit-primes/
+> https://news.ycombinator.com/item?id=40250519

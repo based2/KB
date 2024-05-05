@@ -28,6 +28,11 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://arstechnica.com/information-technology/2024/05/counterfeit-cisco-gear-ended-up-in-us-military-bases-used-in-combat-operations/
+> https://news.ycombinator.com/item?id=40259337
+
+https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-four-critical-rce-flaws-in-arubaos/
+
 https://sec.okta.com/blockanonymizers
 
 https://blog.talosintelligence.com/arcanedoor-new-espionage-focused-campaign-found-targeting-perimeter-network-devices

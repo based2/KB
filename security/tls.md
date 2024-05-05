@@ -12,6 +12,8 @@ List TLS versions supported:
 https://smallstep.com/blog/if-openssl-were-a-gui/
 > https://news.ycombinator.com/item?id=31697636
 
+https://news.ycombinator.com/item?id=40241417
+
 https://www.openssl.org/blog/blog/2023/11/17/ossl-32-postponed/
 
 https://www.openssl.org/blog/blog/2023/06/15/1.1.1-EOL-Reminder/

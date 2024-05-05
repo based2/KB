@@ -35,6 +35,8 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://www.rain-alarm.com/
+
 https://news.ycombinator.com/item?id=39702457
 
 https://news.ycombinator.com/item?id=39346361

@@ -14,6 +14,8 @@ https://headrush.typepad.com/
 
 https://blog.willgrant.org/2022/06/27/classify-interactions-obvious-easy-possible.html
 
+https://www.nngroup.com/articles/content-design-systems/ Content Standards in Design Systems
+
 # Font
 
 https://github.blog/2022-12-02-introducing-mona-sans-and-hubot-sans/

@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=40237491
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-incorrect-bitlocker-encryption-errors/
 
 https://www.bleepingcomputer.com/news/security/google-chromes-new-post-quantum-cryptography-may-break-tls-connections/

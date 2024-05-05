@@ -36,3 +36,6 @@ https://github.com/ritz078/transform
 
 https://benhoyt.com/writings/markov-chain/
 > https://news.ycombinator.com/item?id=38829772
+
+http://axisofeval.blogspot.com/2024/05/delimited-generators.html JS
+> https://news.ycombinator.com/item?id=40236923

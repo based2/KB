@@ -7,6 +7,12 @@ Telsa
 https://news.ycombinator.com/item?id=38334663
 
 #
+https://arxiv.org/abs/2404.16158 The Feasibility of Implementing Large-Scale Transformers on Multi-FPGA Platforms
+
+https://news.ycombinator.com/item?id=40262206
+
+https://news.ycombinator.com/item?id=40261965 SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency
+
 https://cpldcpu.wordpress.com/2024/04/24/implementing-neural-networks-on-the-10-cent-risc-v-mcu-without-multiplier/
 > https://news.ycombinator.com/item?id=40167271
 

@@ -35,6 +35,10 @@ https://arxiv.org/abs/2201.11633 Tick-Tock: The Imminent Merger of a Supermassiv
 https://www.grainger.com/know-how/inspiration/kh-yerkes-observatory-restoring-worlds-largest-refracting-telescope
 > https://news.ycombinator.com/item?id=36891873
 
+https://news.ycombinator.com/item?id=40261001
+
+https://news.ycombinator.com/item?id=40257843
+
 ### Black hole
 https://news.stanford.edu/2021/07/28/first-detection-light-behind-black-hole/
 > https://news.ycombinator.com/item?id=27989875

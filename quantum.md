@@ -96,6 +96,9 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://charmingscience.com/stunning-image-shows-atoms-transforming-into-quantum-waves-just-as-schrodinger-predicted/
+> https://news.ycombinator.com/item?id=40240732
+
 https://quantumai.google/
 > https://news.ycombinator.com/item?id=40185883
 

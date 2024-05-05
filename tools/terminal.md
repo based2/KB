@@ -45,6 +45,13 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/lsd-rs/lsd
+
+https://news.ycombinator.com/item?id=40255611
+
+https://github.com/rivo/tview go tui
+> https://news.ycombinator.com/item?id=40250318
+
 https://www.sadiqpk.org/projects/multi-keyterm.html
 
 https://news.ycombinator.com/item?id=39975887

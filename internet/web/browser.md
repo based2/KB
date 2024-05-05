@@ -53,6 +53,12 @@ https://news.ycombinator.com/item?id=39706004
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://news.ycombinator.com/item?id=40261359 TIL: You can open man or info pages in Firefox by man:<page> or info:<page>
+
+https://news.ycombinator.com/item?id=40249944
+
+https://news.ycombinator.com/item?id=40260035
+
 https://news.ycombinator.com/item?id=40245463
 
 https://news.ycombinator.com/item?id=40211456

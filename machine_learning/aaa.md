@@ -316,6 +316,8 @@ https://news.ycombinator.com/item?id=38896259
 
 https://www.bleepingcomputer.com/news/technology/investment-advisers-pay-400k-to-settle-ai-washing-charges/
 
+https://www.theregister.com/2024/05/03/uk_lords_llm_copyright/?td=rt-3a
+
 # History
 https://news.ycombinator.com/item?id=28343118
 
@@ -543,6 +545,10 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://thepalindrome.org/p/an-introduction-to-vectorization
+
+https://news.ycombinator.com/item?id=40244165
+
 https://news.ycombinator.com/item?id=40212490
 
 https://arxiv.org/abs/2404.19737

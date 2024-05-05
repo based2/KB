@@ -91,6 +91,9 @@ https://security.googleblog.com/2024/03/google-public-dnss-approach-to-fight.htm
 
 https://objective-see.org/products/utilities.html#DNSMonitor macos
 
+https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dns-like-never-before-heres-how/
+> https://news.ycombinator.com/item?id=40254688
+
 # Incident
 https://www.bleepingcomputer.com/news/security/savvy-seahorse-gang-uses-dns-cname-records-to-power-investor-scams/
 

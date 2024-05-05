@@ -5,6 +5,9 @@ https://opencontainers.org/
 # Formats
 
 #
+https://man.exherbolinux.org/syd-oci.1.html
+> https://news.ycombinator.com/item?id=40262274
+
 https://github.com/google/gvisor
 
 https://github.com/ublue-os/bazzite SteamOS-like OCI image for desktop, living room, and handheld PCs

@@ -37,3 +37,8 @@ https://news.ycombinator.com/item?id=40185797
 
 https://github.com/kingjulio8238/memary Open-Source Longterm Memory for Autonomous Agents
 > https://news.ycombinator.com/item?id=40196879
+
+https://news.ycombinator.com/item?id=40241544
+
+https://github.com/npi-ai/npi Open Source project for enhancing AI Agents in taking action
+> https://news.ycombinator.com/item?id=40237305

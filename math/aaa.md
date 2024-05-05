@@ -156,6 +156,8 @@ https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-parad
 > https://www.leancop.de/
 > https://wwwlehre.dhbw-stuttgart.de/~sschulz/E/E.html
 
+https://news.ycombinator.com/item?id=40241310
+
 # News
 https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-paradise-of-computerunderstandable-math-and-science
 

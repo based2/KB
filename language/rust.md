@@ -518,6 +518,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://news.ycombinator.com/item?id=40254259
+
 https://github.com/xlmnxp/blue-recorder
 > https://news.ycombinator.com/item?id=40247528
 

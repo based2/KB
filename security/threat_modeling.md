@@ -47,3 +47,5 @@ https://news.ycombinator.com/item?id=39482246
 https://claroty.com/team82/research/threat-modeling-industrial-environments-using-virtual-factories-part-1
 
 https://cyber.gouv.fr/la-methode-ebios-risk-manager
+
+https://github.com/RedDrip7/APT_Digital_Weapon

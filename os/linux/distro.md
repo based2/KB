@@ -98,6 +98,10 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=40263479
+
+https://www.theregister.com/2024/05/03/rhel_94_centos_7/
+
 https://news.ycombinator.com/item?id=40196845
 
 https://news.ycombinator.com/item?id=40227011

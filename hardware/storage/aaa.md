@@ -65,6 +65,9 @@ https://www.tomshardware.com/news/fake-samsung-980-pro
 > https://news.ycombinator.com/item?id=35222843
 
 # News
+https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html
+> https://news.ycombinator.com/item?id=40237984
+
 https://news.ycombinator.com/item?id=40222175
 
 https://news.ycombinator.com/item?id=40199967

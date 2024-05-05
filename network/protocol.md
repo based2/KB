@@ -12,6 +12,8 @@ https://twobithistory.org/2021/03/08/arpanet-protocols.html
 > https://news.ycombinator.com/item?id=34637863
 
 # News
+https://www.trickster.dev/post/understanding-socks-protocol/
+
 https://news.ycombinator.com/item?id=40095657
 
 https://nate.mecca1.net/posts/2024-01-30_microblogging-protocols/

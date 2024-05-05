@@ -371,6 +371,9 @@ https://www.fastly.com/blog/summary-of-june-8-outage CDN AWS Cloudfront
 https://www.itpro.com/security/30060/100gb-of-secret-nsa-data-found-on-unsecured-aws-s3-bucket
 
 # News
+https://aws.amazon.com/en/blogs/mt/migrate-vmware-virtual-machines-to-amazon-ec2-with-the-aws-application-migration-service-replication-agent/
+> https://www.theregister.com/2024/05/03/vmc_on_aws_changes/
+
 https://news.ycombinator.com/item?id=40219172
 
 https://news.ycombinator.com/item?id=40098405

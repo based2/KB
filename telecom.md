@@ -257,6 +257,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://asia.nikkei.com/Business/Technology/Japan-ministry-asks-Line-Yahoo-operator-to-shed-Naver-influence
+
 https://tedium.co/2024/04/27/mobile-phone-imei-number-history/
 > https://news.ycombinator.com/item?id=40202203
 

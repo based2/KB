@@ -24,6 +24,8 @@ https://news.ycombinator.com/item?id=40181306
 
 https://news.ycombinator.com/item?id=40197544
 
+https://news.ycombinator.com/item?id=40237546
+
 #
 https://github.com/baalimago/clai
 

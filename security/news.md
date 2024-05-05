@@ -1,3 +1,12 @@
+https://theconversation.com/taiwan-is-experiencing-millions-of-cyberattacks-every-day-the-world-should-be-paying-attention-225677
+
+https://www.theregister.com/2024/05/03/china_gov_web_vuln/
+
+https://news.ycombinator.com/item?id=40261985
+
+https://informnapalm.org/en/alabugaleaks-part-2-kaspersky-lab-and-neural-networks-for-russian-military-drones/
+> https://news.ycombinator.com/item?id=40258487
+
 https://news.ycombinator.com/item?id=40214863
 
 https://www.csoonline.com/article/2096365/marriott-admits-it-falsely-claimed-for-five-years-it-was-using-encryption-during-2018-breach.html

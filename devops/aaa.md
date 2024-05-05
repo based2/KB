@@ -114,6 +114,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://news.ycombinator.com/item?id=40237116
+
 https://www.mcafee.com/blogs/other-blogs/mcafee-labs/redline-stealer-a-novel-approach/
 > https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/
 
@@ -497,6 +499,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://devclass.com/2024/05/03/spotify-previews-portal-for-backstage-as-developer-portal-with-easy-setup-plus-premium-plugins-for-all-users/
+
 https://www.cloudbees.com/blog/state-of-cicd-report-the-devops-performance-paradox-a-call-to-arms
 
 https://news.ycombinator.com/item?id=40156698

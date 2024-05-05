@@ -81,6 +81,8 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://durdraw.org/
+
 https://textart.sh/
 > https://news.ycombinator.com/item?id=39063596
 
