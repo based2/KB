@@ -237,7 +237,11 @@ https://arxiv.org/abs/2402.16671 StructLM: Towards Building Generalist Models fo
 
 https://news.ycombinator.com/item?id=40249696
 
+https://news.ycombinator.com/item?id=40264352
+
 # News
+https://news.ycombinator.com/item?id=40266791 Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens
+
 https://huggingface.co/gradientai/Llama-3-70B-Instruct-Gradient-1048k
 > https://news.ycombinator.com/item?id=40260879
 

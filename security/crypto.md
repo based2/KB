@@ -193,6 +193,8 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://ayende.com/blog/200993-C/deniable-encryption
+
 https://news.ycombinator.com/item?id=40247254
 
 https://news.ycombinator.com/item?id=40237745

@@ -31,6 +31,8 @@ https://github.com/tinystacks/precloud
 https://skylightcyber.com/2023/02/09/a-salt-attacking-saltstack/
 
 # News
+https://jack-vanlightly.com/blog/2024/3/26/the-sisyphean-struggle-and-the-new-era-of-data-infrastructure
+
 https://news.ycombinator.com/item?id=40213803
 
 https://news.ycombinator.com/item?id=40211655
