@@ -58,3 +58,5 @@ https://dl.acm.org/doi/pdf/10.1145/3591264 Interval Parsing Grammars for File Fo
 > > https://dogma-lang.org/ human-friendly metalanguage for describing data formats in documentation using the familiar patterns of Backus-Naur Form
 
 https://news.ycombinator.com/item?id=40071898
+
+https://news.ycombinator.com/item?id=40276112

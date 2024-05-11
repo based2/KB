@@ -193,6 +193,9 @@ https://news.ycombinator.com/item?id=38610253
 https://en.wikipedia.org/wiki/Forward_secrecy
 
 # News
+https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex
+> https://news.ycombinator.com/item?id=40316788
+
 https://ayende.com/blog/200993-C/deniable-encryption
 
 https://news.ycombinator.com/item?id=40247254

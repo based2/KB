@@ -1,3 +1,5 @@
+https://lobste.rs/s/yalkax/are_redis_acl_password_protections_weak
+
 https://news.ycombinator.com/item?id=40237491
 
 https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-incorrect-bitlocker-encryption-errors/

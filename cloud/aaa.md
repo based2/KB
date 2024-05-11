@@ -170,6 +170,9 @@ https://freeman.vc/notes/aws-vs-gcp-reliability-is-wildly-different
 > https://news.ycombinator.com/item?id=32931096
 
 # Incidents
+https://www.theguardian.com/australia-news/article/2024/may/09/unisuper-google-cloud-issue-account-access
+> https://news.ycombinator.com/item?id=40304666
+
 https://news.ycombinator.com/item?id=40011490
 
 https://eprint.iacr.org/2024/546 Share with Care: Breaking E2EE in Nextcloud

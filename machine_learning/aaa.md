@@ -545,6 +545,12 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=40310228
+
+https://news.ycombinator.com/item?id=40307832
+
+https://news.ycombinator.com/item?id=40325876
+
 https://thepalindrome.org/p/an-introduction-to-vectorization
 
 https://news.ycombinator.com/item?id=40244165

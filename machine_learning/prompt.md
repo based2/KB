@@ -100,3 +100,5 @@ https://news.ycombinator.com/item?id=39374249
 https://news.ycombinator.com/item?id=40172340
 
 https://news.ycombinator.com/item?id=40250550
+
+https://news.ycombinator.com/item?id=40300126

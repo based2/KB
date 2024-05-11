@@ -112,6 +112,9 @@ https://corecursive.com/066-sqlite-with-richard-hipp/
 https://vigilance.fr/vulnerability/SQLite-buffer-overflow-via-sqlite3session-c-43187
 
 # News
+https://sqlite.org/forum/forumpost/e18c43fc797fcdb7?t=h Experience with SQLite as a Store of Files and Images
+> https://news.ycombinator.com/item?id=40317485
+
 https://antonz.org/sqlite-strict-tables/
 
 https://news.ycombinator.com/item?id=40206752

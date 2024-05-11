@@ -33,6 +33,8 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://news.ycombinator.com/item?id=40314913
+
 https://news.ycombinator.com/item?id=40234871
 
 https://pretalx.sysmocom.de/osmodevcon2024/talk/BBZBGM/ Digital Telecommunication in HF band - WWWAN - World-Wide Wireless Area Network

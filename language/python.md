@@ -143,6 +143,8 @@ https://fly.io/blog/running-tasks-concurrently-in-django-asynchronous-views/
 https://charlesleifer.com/blog/asyncio/
 > https://news.ycombinator.com/item?id=36277089
 
+https://news.ycombinator.com/item?id=40287341
+
 # Profiler
 
 https://github.com/bloomberg/memray

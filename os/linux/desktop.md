@@ -109,6 +109,8 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://news.ycombinator.com/item?id=40313798 Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications
+
 https://news.ycombinator.com/item?id=40217859
 
 https://news.ycombinator.com/item?id=40178048

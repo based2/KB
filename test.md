@@ -178,6 +178,9 @@ https://news.ycombinator.com/item?id=39486717
 https://news.ycombinator.com/item?id=39534856
 
 # News
+https://jam.dev/
+> https://news.ycombinator.com/item?id=40318542
+
 https://news.ycombinator.com/item?id=40082409
 
 https://github.com/auchenberg/volkswagen

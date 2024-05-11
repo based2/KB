@@ -77,6 +77,9 @@ https://web.archive.org/web/20201112034702/http://sekrit.de/webdocs/c/beginners-
 https://news.ycombinator.com/item?id=38708010
 
 # News
+https://github.com/Hirrolot/datatype99
+> https://news.ycombinator.com/item?id=40307098
+
 http://www.cprover.org/cbmc/
 > https://news.ycombinator.com/item?id=40257601
 

@@ -132,6 +132,7 @@ https://github.com/MegaManSec/SSH-Snake
 # Incident
 https://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/vuln-p521-bias.html
 > https://news.ycombinator.com/item?id=40044665
+> > https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-manually-mitigate-putty-ssh-client-bug/
 
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHBruteForceAttacksAbruptlyDown
 > https://news.ycombinator.com/item?id=39488081
@@ -172,6 +173,8 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://lobste.rs/s/kkblar/use_cases_for_i_option_sshd
+
 https://news.ycombinator.com/item?id=40060901
 
 https://tinyssh.org/

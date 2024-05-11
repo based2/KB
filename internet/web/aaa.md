@@ -176,6 +176,9 @@ https://news.ycombinator.com/item?id=39104504
 
 https://news.ycombinator.com/item?id=40176738
 
+## ML
+https://news.ycombinator.com/item?id=40290596
+
 # Desktop
 https://github.com/DustinBrett/daedalOS Desktop environment in the browser
 

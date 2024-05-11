@@ -150,6 +150,8 @@ https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-had-interna
 https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/
 
 # News
+https://news.ycombinator.com/item?id=40320166
+
 https://news.ycombinator.com/item?id=40172194
 
 https://github.com/openbao/openbao

@@ -253,6 +253,8 @@ https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
 # News
+https://news.ycombinator.com/item?id=40309759
+
 https://teropa.info/harmonics-explorer/
 > https://news.ycombinator.com/item?id=39174549
 

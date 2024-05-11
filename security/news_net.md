@@ -28,6 +28,10 @@ https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
 #
+https://www.bleepingcomputer.com/news/security/new-big-ip-next-central-manager-bugs-allow-device-takeover/
+
+https://www.theregister.com/2024/05/09/vmware_security_advisory_change/
+
 https://arstechnica.com/information-technology/2024/05/counterfeit-cisco-gear-ended-up-in-us-military-bases-used-in-combat-operations/
 > https://news.ycombinator.com/item?id=40259337
 

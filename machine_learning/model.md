@@ -239,7 +239,11 @@ https://news.ycombinator.com/item?id=40249696
 
 https://news.ycombinator.com/item?id=40264352
 
+https://news.ycombinator.com/item?id=40302201
+
 # News
+https://news.ycombinator.com/item?id=40314977
+
 https://news.ycombinator.com/item?id=40266791 Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens
 
 https://huggingface.co/gradientai/Llama-3-70B-Instruct-Gradient-1048k

@@ -80,6 +80,10 @@ https://cblgh.org/trustnet/
 https://news.ycombinator.com/item?id=40246642
 
 # Incident
+https://news.ycombinator.com/item?id=40279823
+
+https://news.ycombinator.com/item?id=40301508
+
 https://www.bleepingcomputer.com/news/technology/telegram-is-down-with-connecting-error/
 
 https://www.bleepingcomputer.com/news/technology/reddit-down-in-major-outage-blocking-access-to-web-mobile-apps/

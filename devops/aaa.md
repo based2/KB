@@ -104,6 +104,9 @@ https://github.com/davidbullado/blog/blob/main/we-need-a-new-versioning-notation
 https://reprog.wordpress.com/2023/12/27/semantic-versioning-is-a-terrible-mistake/
 > https://lobste.rs/s/qi7tel/semantic_versioning_is_terrible_mistake
 
+https://github.com/ScottArbeit/Grace
+> https://news.ycombinator.com/item?id=40272439
+
 # History
 https://gitlab.com/-/snippets/1846041 Blue-Green deployment
 
@@ -499,6 +502,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://news.ycombinator.com/item?id=40284839
+
 https://devclass.com/2024/05/03/spotify-previews-portal-for-backstage-as-developer-portal-with-easy-setup-plus-premium-plugins-for-all-users/
 
 https://www.cloudbees.com/blog/state-of-cicd-report-the-devops-performance-paradox-a-call-to-arms

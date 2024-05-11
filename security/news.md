@@ -1,3 +1,7 @@
+https://www.bleepingcomputer.com/news/security/google-fixes-fifth-chrome-zero-day-vulnerability-exploited-in-attacks-in-2024/
+
+https://news.ycombinator.com/item?id=40317484
+
 https://theconversation.com/taiwan-is-experiencing-millions-of-cyberattacks-every-day-the-world-should-be-paying-attention-225677
 
 https://www.theregister.com/2024/05/03/china_gov_web_vuln/
@@ -1705,6 +1709,7 @@ https://news.ycombinator.com/item?id=33827088
 
 https://knightcolumbia.org/blog/why-were-suing-nso-group?_preview_=7bd805e6dc
 > https://news.ycombinator.com/item?id=33824217
+> > https://news.ycombinator.com/item?id=40319462
 
 https://news.ycombinator.com/item?id=33818183 Launch HN: JumpWire (YC W22) – Easily encrypt customer data in your databases
 

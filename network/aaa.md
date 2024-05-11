@@ -108,6 +108,8 @@ https://cyberhost.uk/the-hidden-macos-speedtest-tool-networkquality/
 https://flent.org/
 > https://news.ycombinator.com/item?id=39156405
 
+https://news.ycombinator.com/item?id=40303336
+
 # Visu
 https://medium.com/brim-securitys-knowledge-funnel/visualizing-ip-traffic-with-brim-zeek-and-networkx-3844a4c25a2f
 
@@ -144,6 +146,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://news.ycombinator.com/item?id=40310896
+
 https://news.ycombinator.com/item?id=40149446
 
 https://blog.benjojo.co.uk/post/sn2010-linux-hacking-switchdev

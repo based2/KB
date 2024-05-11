@@ -518,6 +518,8 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://lobste.rs/s/hyr87e/rust_rfc_3503_frontmatter
+
 https://news.ycombinator.com/item?id=40254259
 
 https://github.com/xlmnxp/blue-recorder
