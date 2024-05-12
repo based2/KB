@@ -49,6 +49,10 @@ https://docs.vyos.io/en/latest/configexamples/index.html
 https://github.com/Place1/wg-access-server
 
 #
+https://news.ycombinator.com/item?id=40326615
+
+https://news.ycombinator.com/item?id=40319635
+
 https://news.ycombinator.com/item?id=40016985
 
 https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-firewall-zero-day-used-in-attacks/

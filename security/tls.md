@@ -191,6 +191,8 @@ https://blog.trailofbits.com/2023/01/12/wolfssl-vulnerabilities-tlspuffin-fuzzin
 > https://news.ycombinator.com/item?id=34358516
 
 # News
+https://news.ycombinator.com/item?id=40333169
+
 https://news.ycombinator.com/item?id=39799342
 
 https://letsencrypt.org/2024/03/14/introducing-sunlight.html a Certificate Transparency log implementation

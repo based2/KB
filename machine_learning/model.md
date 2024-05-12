@@ -241,6 +241,8 @@ https://news.ycombinator.com/item?id=40264352
 
 https://news.ycombinator.com/item?id=40302201
 
+https://news.ycombinator.com/item?id=40331850 data-to-paper - autonomous stepwise LLM-driven research
+
 # News
 https://news.ycombinator.com/item?id=40314977
 

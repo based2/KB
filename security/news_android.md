@@ -17,6 +17,8 @@ https://github.com/ax/apk.sh/releases
 https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/
 
 #
+https://www.microsoft.com/en-us/security/blog/2024/05/01/dirty-stream-attack-discovering-and-mitigating-a-common-vulnerability-pattern-in-android-apps/
+
 https://developer.android.com/privacy-and-security/risks/untrustworthy-contentprovider-provided-filename
 
 https://news.ycombinator.com/item?id=40235193 Recovering the master key from RAM to break Android's file-based encryption (2021)

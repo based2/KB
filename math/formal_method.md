@@ -112,6 +112,8 @@ https://github.com/stateright/stateright
 http://deploy-eprints.ecs.soton.ac.uk/401/1/Journal.pdf Extending Event-B with Discrete Timing Properties
 
 # News
+https://news.ycombinator.com/item?id=40326492
+
 https://www.minizinc.org/ Constraint modeling language, MPLv2
 > https://news.ycombinator.com/item?id=36817628
 
