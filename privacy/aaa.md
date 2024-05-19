@@ -106,6 +106,10 @@ https://www.numerama.com/politique/1511774-le-gouvernement-envisage-de-prolonger
 
 https://linuxfr.org/users/oinska/journaux/ou-il-est-question-de-donnees-personnelles-bis
 
+SNCF: age date
+
+Olympic game: QR code
+
 # News
 https://news.ycombinator.com/item?id=40256908
 

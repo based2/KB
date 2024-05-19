@@ -24,6 +24,9 @@ https://www.liftaircraft.com/
 https://www.flightreader.com/ dji
 > https://news.ycombinator.com/item?id=35859281
 
+https://www.navalnews.com/naval-news/2024/05/china-builds-worlds-first-dedicated-drone-carrier/
+> https://news.ycombinator.com/item?id=40397015
+
 https://petapixel.com/2023/02/16/researchers-turn-dead-birds-into-drones-that-could-spy-on-people/
 
 https://newatlas.com/drones/undefined-ion-propulsion-drone/

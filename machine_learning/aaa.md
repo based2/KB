@@ -400,6 +400,9 @@ https://salt.security/blog/security-flaws-within-chatgpt-extensions-allowed-acce
 https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3741371/nsa-publishes-guidance-for-strengthening-ai-system-security/
 > https://news.ycombinator.com/item?id=40054811
 
+https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf
+> https://news.ycombinator.com/item?id=40400438
+
 # Incident
 https://news.ycombinator.com/item?id=40001971
 

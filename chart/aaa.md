@@ -6,3 +6,6 @@ https://github.com/dkogan/feedgnuplot  General purpose pipe-oriented plotting to
 
 https://penrose.cs.cmu.edu/blog/v3
 >
+
+https://blog.datawrapper.de/dualaxis/ The case against dual axis charts (and what to use instead) (2018)
+> https://news.ycombinator.com/item?id=40391614

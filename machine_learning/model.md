@@ -243,7 +243,14 @@ https://news.ycombinator.com/item?id=40302201
 
 https://news.ycombinator.com/item?id=40331850 data-to-paper - autonomous stepwise LLM-driven research
 
+https://news.ycombinator.com/item?id=40388655 	HMT: Hierarchical Memory Transformer for Long Context Language Processing
+
 # News
+https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
+> https://news.ycombinator.com/item?id=40392208
+
+https://news.ycombinator.com/item?id=40378499
+
 https://news.ycombinator.com/item?id=40314977
 
 https://news.ycombinator.com/item?id=40266791 Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens

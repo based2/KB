@@ -306,6 +306,8 @@ https://blog.frankdejonge.nl/the-different-types-of-events-in-event-driven-syste
 > https://news.ycombinator.com/item?id=30396873
 
 # News
+https://news.ycombinator.com/item?id=40404440
+
 https://github.com/SAWARATSUKI/ServiceLogos
 > https://news.ycombinator.com/item?id=40180389
 

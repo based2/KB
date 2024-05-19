@@ -39,6 +39,9 @@ https://badcyber.com/dieselgate-but-for-trains-some-heavyweight-hardware-hacking
 > https://news.ycombinator.com/item?id=38567687
 
 # News
+https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html
+> https://news.ycombinator.com/item?id=40383263
+
 https://news.ycombinator.com/item?id=39782524
 
 https://www.wired.com/story/fiber-optics-bring-you-internet-now-theyre-also-listening-to-trains/

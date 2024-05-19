@@ -377,6 +377,8 @@ https://www.tatatap.com/
 https://en.wikipedia.org/wiki/MORE_(application)
 
 # News
+https://news.ycombinator.com/item?id=40395234
+
 https://www.phoronix.com/news/Nano-8.0-Released
 
 https://zed.dev/blog/zed-decoded-rope-sumtree

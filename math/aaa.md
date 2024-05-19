@@ -159,6 +159,10 @@ https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-parad
 https://news.ycombinator.com/item?id=40241310
 
 # News
+https://news.ycombinator.com/item?id=40389094
+
+https://news.ycombinator.com/item?id=40403715
+
 https://news.ycombinator.com/item?id=40329388
 
 https://news.ycombinator.com/item?id=40326305
