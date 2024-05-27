@@ -161,6 +161,10 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://lobste.rs/s/5rmn4y/fixing_iterative_damping_interpolation
+
+https://news.ycombinator.com/item?id=40398420
+
 https://www.redblobgames.com/blog/2024-04-27-flow-field-pathfinding/
 
 https://news.ycombinator.com/item?id=40172033

@@ -137,6 +137,8 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://news.ycombinator.com/item?id=40401161
+
 https://news.ycombinator.com/item?id=40187881
 
 https://news.ycombinator.com/item?id=40077793 dnsmasq

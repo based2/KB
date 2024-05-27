@@ -36,6 +36,11 @@ https://tuxrun.org/
 https://lwn.net/Articles/824380/
 > https://news.ycombinator.com/item?id=34391142
 
+# Glibc
+https://github.com/corsix/polyfill-glibc/
+> https://lobste.rs/s/azasse/polyfill_glibc_patch_linux_executables
+
+
 #
 https://vigilance.fr/vulnerability/Linux-kernel-information-disclosure-via-Io-uring-Over-Sockets-43199
 

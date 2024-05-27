@@ -42,3 +42,6 @@ https://news.ycombinator.com/item?id=40241544
 
 https://github.com/npi-ai/npi Open Source project for enhancing AI Agents in taking action
 > https://news.ycombinator.com/item?id=40237305
+
+https://github.com/metaskills/experts
+> https://news.ycombinator.com/item?id=40395107

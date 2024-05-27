@@ -518,6 +518,9 @@ https://rustsec.org/advisories/CVE-2018-1000810.html
 > https://news.ycombinator.com/item?id=39781766
 
 # News
+https://graydon2.dreamwidth.org/312681.html
+> https://news.ycombinator.com/item?id=40375341
+
 https://rust-exercises.com/
 > https://news.ycombinator.com/item?id=40385536
 

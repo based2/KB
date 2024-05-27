@@ -1,3 +1,11 @@
+https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/
+> https://news.ycombinator.com/item?id=40397637
+
+https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/
+> https://news.ycombinator.com/item?id=40397737
+
+https://news.ycombinator.com/item?id=40402343
+
 https://www.bleepingcomputer.com/news/security/google-fixes-fifth-chrome-zero-day-vulnerability-exploited-in-attacks-in-2024/
 
 https://news.ycombinator.com/item?id=40317484

@@ -202,6 +202,10 @@ https://liw.fi/rethinking-email/
 > https://news.ycombinator.com/item?id=29448204
 
 # i
+https://news.ycombinator.com/item?id=40369119
+
+https://news.ycombinator.com/item?id=40389753
+
 https://www.bleepingcomputer.com/news/security/nsa-warns-of-north-korean-hackers-exploiting-weak-dmarc-email-policies/
 > "p=none" -> "v=DMARC1; p=quarantine;" or "v=DMARC1; p=reject;", rua' to receive aggregate reports about the DMARC results for email messages purportedly from the organization's domain,"
 

@@ -98,6 +98,8 @@ https://neptuneos.com/en/about-neptune.html
 https://www.netrunner.com/ KDE Plasma on Debian stable
 
 # News
+https://news.ycombinator.com/item?id=40404423 Katy – 68000 Linux on a Solderless Breadboard
+
 https://news.ycombinator.com/item?id=40316704
 
 https://news.ycombinator.com/item?id=40263479

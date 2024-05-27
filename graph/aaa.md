@@ -94,6 +94,12 @@ https://jena.apache.org/tutorials/sparql.html
 # dag
 https://news.ycombinator.com/item?id=38645180
 
+Apache Airflow
+
+# ML
+https://columns.ai/chatgpt
+> https://news.ycombinator.com/item?id=40405380
+
 # Algo
 https://www.quantamagazine.org/a-new-algorithm-for-graph-crossings-hiding-in-plain-sight-20200915/?s=feedly
 > https://news.ycombinator.com/item?id=27294401

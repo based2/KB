@@ -102,3 +102,6 @@ https://news.ycombinator.com/item?id=40172340
 https://news.ycombinator.com/item?id=40250550
 
 https://news.ycombinator.com/item?id=40300126
+
+https://thenameless.net/astral-kit/anthropic-peit-00
+> https://news.ycombinator.com/item?id=40395057

@@ -227,6 +227,9 @@ https://blog.redplanetlabs.com/2023/10/24/how-rama-is-tested-a-primer-on-testing
 
 https://news.ycombinator.com/item?id=39759344
 
+https://jepsen.io/analyses/datomic-pro-1.0.7075
+> https://news.ycombinator.com/item?id=40369467
+
 # concurrencyngs
 
 # News

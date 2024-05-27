@@ -1,6 +1,8 @@
 https://github.com/MicrosoftDocs/windows-itpro-docs/issues/5429 TPM 2019https://www.descope.com/blog/post/noauth
 
 #
+https://www.theregister.com/2024/04/03/cisa_microsoft_exchange_online_china_report/
+
 https://www.bleepingcomputer.com/news/microsoft/microsoft-wont-fix-windows-0x80070643-errors-manual-fix-required/
 
 https://news.ycombinator.com/item?id=40228212

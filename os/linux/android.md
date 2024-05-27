@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=40369668
+
 https://news.ycombinator.com/item?id=40217453
 
 https://www.androidauthority.com/android-15-storage-health-3435507/

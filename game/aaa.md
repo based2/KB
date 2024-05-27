@@ -38,6 +38,9 @@ https://talktomehuman.com/
 > https://news.ycombinator.com/item?id=40091379
 
 # News
+https://www.filfre.net/2024/05/riven/
+> https://news.ycombinator.com/item?id=40404054
+
 https://www.zachtronics.com/tis-100/
 > https://news.ycombinator.com/item?id=40154024
 

@@ -246,6 +246,11 @@ https://news.ycombinator.com/item?id=40331850 data-to-paper - autonomous stepwis
 https://news.ycombinator.com/item?id=40388655 	HMT: Hierarchical Memory Transformer for Long Context Language Processing
 
 # News
+https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/
+> https://news.ycombinator.com/item?id=40405443
+
+https://news.ycombinator.com/item?id=40372315 Qualcomm's Oryon LLVM Patches 
+
 https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
 > https://news.ycombinator.com/item?id=40392208
 
