@@ -318,6 +318,8 @@ https://www.bleepingcomputer.com/news/technology/investment-advisers-pay-400k-to
 
 https://www.theregister.com/2024/05/03/uk_lords_llm_copyright/?td=rt-3a
 
+https://news.ycombinator.com/item?id=40515620
+
 # History
 https://news.ycombinator.com/item?id=28343118
 

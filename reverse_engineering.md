@@ -49,6 +49,8 @@ https://github.com/albertan017/LLM4Decompile
 > https://news.ycombinator.com/item?id=39733275
 
 #
+https://news.ycombinator.com/item?id=40508777
+
 https://zeus.ugent.be/blog/23-24/esp32-reverse-engineering-continued/
 
 https://news.ycombinator.com/item?id=40063803

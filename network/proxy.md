@@ -35,6 +35,8 @@ https://github.com/flipt-io/reverst go
 https://openreplay.com/
 
 # News
+https://news.ycombinator.com/item?id=40514367
+
 https://smudge.ai/blog/ratelimit-algorithms
 > https://news.ycombinator.com/item?id=40384421
 

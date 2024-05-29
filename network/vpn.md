@@ -41,6 +41,10 @@ https://blog.mozilla.org/en/mozilla/news/mozilla-vpn-completes-independent-secur
 > https://news.ycombinator.com/item?id=28382585
 
 # Incident
+https://krebsonsecurity.com/2024/05/treasury-sanctions-creators-of-911-s5-proxy-botnet/
+
+https://www.bleepingcomputer.com/news/security/check-point-releases-emergency-fix-for-vpn-zero-day-exploited-in-attacks/
+
 https://www.leviathansecurity.com/blog/tunnelvision
 > https://news.ycombinator.com/item?id=40279632
 

@@ -58,6 +58,9 @@ https://www.slim.ai/
 > https://thenewstack.io/building-and-securing-containers-with-slim-ai/
 
 # News
+https://mistral.ai/news/codestral/
+> https://news.ycombinator.com/item?id=40512250
+
 https://news.ycombinator.com/item?id=40397555
 
 https://news.ycombinator.com/item?id=40257420 StarCoder2-Instruct: Transparent Self-Alignment for Code Generation

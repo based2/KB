@@ -32,6 +32,12 @@ https://news.ycombinator.com/item?id=40237546
 https://news.ycombinator.com/item?id=40302382
 
 #
+https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0
+> https://news.ycombinator.com/item?id=40504212
+
+https://github.com/karpathy/llm.c/discussions/481 Reproducing GPT-2 (124M) in llm.c in 90 minutes for $20
+> https://news.ycombinator.com/item?id=40502090
+
 https://github.com/baalimago/clai
 
 https://news.ycombinator.com/item?id=40144235

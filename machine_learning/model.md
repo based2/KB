@@ -243,9 +243,18 @@ https://news.ycombinator.com/item?id=40302201
 
 https://news.ycombinator.com/item?id=40331850 data-to-paper - autonomous stepwise LLM-driven research
 
-https://news.ycombinator.com/item?id=40388655 	HMT: Hierarchical Memory Transformer for Long Context Language Processing
+https://news.ycombinator.com/item?id=40388655 HMT: Hierarchical Memory Transformer for Long Context Language Processing
+
+https://news.ycombinator.com/item?id=40508390
+
+https://news.ycombinator.com/item?id=40507184
 
 # News
+https://news.ycombinator.com/item?id=40505099
+
+https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor
+> https://news.ycombinator.com/item?id=40511307
+
 https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/
 > https://news.ycombinator.com/item?id=40405443
 

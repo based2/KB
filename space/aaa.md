@@ -23,6 +23,9 @@ https://hackaday.com/2021/09/10/gnu-radio-decodes-voyager-data/
 https://destevez.net/2021/12/more-data-from-voyager-1/
 > https://news.ycombinator.com/item?id=29444698
 
+# Legal
+https://news.ycombinator.com/item?id=40499157
+
 # History
 ## Apollo
 http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html

@@ -79,3 +79,6 @@ https://catfox.life/2024/01/05/systemd-through-the-eyes-of-a-musl-distribution-m
 > https://news.ycombinator.com/item?id=38889156
 
 https://fosdem.org/2024/schedule/event/fosdem-2024-1987-systemd-boot-systemd-stub-ukis/
+
+https://uyha.github.io/technical/dbus-systemd.html
+> https://news.ycombinator.com/item?id=40496894

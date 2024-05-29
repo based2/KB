@@ -53,6 +53,8 @@ https://www.athene-center.de/fileadmin/content/PDF/Keytrap_2401.pdf
 > > https://www.bleepingcomputer.com/news/security/keytrap-attack-internet-access-disrupted-with-one-dns-packet/
 > https://lwn.net/Articles/962924/#Comments
 
+https://blog.apnic.net/2024/05/28/calling-time-on-dnssec/
+
 # DNS over TLS
 
 https://labs.ripe.net/Members/trinh_viet_doan/measuring-dns-over-tls-from-the-edge-adoption-reliability-and-response-times
@@ -137,6 +139,9 @@ https://news.ycombinator.com/item?id=31054067 Hurricane Electric Emergency DNS M
 https://dnsrepo.noc.org/
 
 # News
+https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/
+> https://news.ycombinator.com/item?id=40513775
+
 https://news.ycombinator.com/item?id=40401161
 
 https://news.ycombinator.com/item?id=40187881
