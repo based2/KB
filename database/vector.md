@@ -77,3 +77,6 @@ https://swirlaiconnect.com/blog/using-vectors-without-a-vector-database
 
 https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html
 > https://news.ycombinator.com/item?id=40243168
+
+https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/
+> https://news.ycombinator.com/item?id=40514266
