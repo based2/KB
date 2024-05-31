@@ -395,6 +395,8 @@ https://palette.fm/
 > https://news.ycombinator.com/item?id=33261494
 
 # News
+https://news.ycombinator.com/item?id=40531165
+
 https://arxiv.org/abs/2405.07425 Sakuga-42M Dataset: Scaling Up Cartoon Research
 > https://news.ycombinator.com/item?id=40389711
 

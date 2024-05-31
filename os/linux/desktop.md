@@ -109,6 +109,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide
+> https://news.ycombinator.com/item?id=40533319
+
 https://news.ycombinator.com/item?id=40313798 Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications
 
 https://news.ycombinator.com/item?id=40217859

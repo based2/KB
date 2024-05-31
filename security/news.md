@@ -1,3 +1,7 @@
+https://news.ycombinator.com/item?id=40535436
+
+https://www.bleepingcomputer.com/news/security/snowflake-account-hacks-linked-to-santander-ticketmaster-breaches/
+
 https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/
 > https://news.ycombinator.com/item?id=40397637
 

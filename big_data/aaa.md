@@ -333,6 +333,9 @@ https://nvd.nist.gov/vuln/detail/CVE-2024-27322 -> R Core version 4.4.0
 https://www.theverge.com/2023/10/21/23926585/microsoft-excel-misreading-dates-human-genes-conversion-fixed
 
 # News
+https://github.com/apache/datafusion-comet spark
+> https://news.ycombinator.com/item?id=40537523
+
 https://news.ycombinator.com/item?id=40501561 R
 
 https://blog.twingdata.com/p/building-a-data-pipeline-using-snowflake

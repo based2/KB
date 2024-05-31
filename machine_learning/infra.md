@@ -28,6 +28,9 @@ https://news.ycombinator.com/item?id=40197544
 
 https://news.ycombinator.com/item?id=40237546
 
+https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search
+> https://news.ycombinator.com/item?id=40524759
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 
