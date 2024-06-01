@@ -38,6 +38,8 @@ https://talktomehuman.com/
 > https://news.ycombinator.com/item?id=40091379
 
 # News
+https://news.ycombinator.com/item?id=40522744
+
 https://www.filfre.net/2024/05/riven/
 > https://news.ycombinator.com/item?id=40404054
 

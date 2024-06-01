@@ -20,6 +20,8 @@ https://xenova.github.io/transformers.js/
 > https://news.ycombinator.com/item?id=35189794
 
 #
+https://news.ycombinator.com/item?id=40544117 Transformers Represent Belief State Geometry in Their Residual Stream
+
 https://news.ycombinator.com/item?id=40495149 Grokked Transformers Are Implicit Reasoners
 
 https://news.ycombinator.com/item?id=40329675

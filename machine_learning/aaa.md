@@ -406,6 +406,9 @@ https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/internat
 > https://news.ycombinator.com/item?id=40400438
 
 # Incident
+https://huggingface.co/blog/space-secrets-disclosure
+> https://news.ycombinator.com/item?id=40544875
+
 https://news.ycombinator.com/item?id=40001971
 
 https://www.bleepingcomputer.com/news/security/surveylama-data-breach-exposes-info-of-44-million-users/

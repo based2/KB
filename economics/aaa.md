@@ -88,6 +88,9 @@ https://www.bloomberg.com/news/articles/2023-04-17/apple-goldman-debut-savings-a
 > https://news.ycombinator.com/item?id=35603168
 
 ## Trading
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311
+> https://korben.info/gpt-4-defie-analystes-financiers-prediction-benefices.html
+
 https://github.com/avhz/RustQuant
 > https://news.ycombinator.com/item?id=39226251
 

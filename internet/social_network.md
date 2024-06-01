@@ -135,6 +135,9 @@ https://privacy.twitter.com/en/blog/2022/an-issue-affecting-some-anonymous-accou
 > https://news.ycombinator.com/item?id=32399949
  
 # News
+https://www.science.org/content/article/tiny-number-supersharers-spread-vast-majority-fake-news
+> https://news.ycombinator.com/item?id=40542321
+
 https://news.ycombinator.com/item?id=40202024
 
 https://news.ycombinator.com/item?id=40166653

@@ -5,6 +5,9 @@ https://www.theverge.com/2023/3/28/23659191/amazon-sidewalk-network-coverage
 # sec
 https://www.scmagazine.com/news/mozi-botnet-goes-dark-in-mysterious-circumstances
 
+# I
+https://security.humanativaspa.it/multiple-vulnerabilities-in-eclipse-threadx/
+
 #
 https://news.ycombinator.com/item?id=40262115
 

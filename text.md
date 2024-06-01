@@ -145,6 +145,8 @@ https://www.ctrl.blog/entry/text-wrap-balance.html
 > https://news.ycombinator.com/item?id=28887008
 
 # News
+https://news.ycombinator.com/item?id=40530719
+
 https://news.ycombinator.com/item?id=40254384
 
 https://news.ycombinator.com/item?id=39614816

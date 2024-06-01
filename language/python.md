@@ -359,6 +359,8 @@ https://status.python.org/incidents/qy2t9mjjcc7g
 > https://news.ycombinator.com/item?id=36015078
 
 # News
+https://rustpython.github.io/
+
 https://news.ycombinator.com/item?id=40168242
 
 https://news.ycombinator.com/item?id=40142603

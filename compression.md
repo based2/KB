@@ -37,6 +37,8 @@ https://www.lodsb.com/reversing-lz91-from-commander-keen
 https://linuxfr.org/news/ffv1-un-format-video-sans-perte-et-libre-normalise-a-l-ietf
 
 #
+https://sdushantha.medium.com/ansi-escape-injection-vulnerability-in-winrar-a2cbfac4b983
+
 CVE-2023-38831 .rar
 
 https://vigilance.fr/vulnerabilite/zstd-buffer-overflow-via-util-c-40907

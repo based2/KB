@@ -1,3 +1,5 @@
+https://margin.re/2024/05/dalvik-disassembly/
+
 https://news.ycombinator.com/item?id=40369668
 
 https://news.ycombinator.com/item?id=40217453

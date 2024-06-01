@@ -146,6 +146,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://kittenlabs.de/blog/2024/05/17/25gbit/s-on-macos-ios/
+
 https://news.ycombinator.com/item?id=40396005
 
 https://news.ycombinator.com/item?id=40310896

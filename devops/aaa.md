@@ -504,6 +504,8 @@ https://about.gitlab.com/releases/2021/08/22/gitlab-14-2-released/
 https://about.gitlab.com/releases/2021/06/22/gitlab-14-0-released/
 
 # News
+https://github.com/dlvhdr/gh-dash
+
 https://news.ycombinator.com/item?id=40531258
 
 https://news.ycombinator.com/item?id=40284839

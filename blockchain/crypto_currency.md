@@ -30,6 +30,8 @@ https://news.ycombinator.com/item?id=31366660
 https://cryptosec.info/exchange-hacks/
 
 # News
+https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/
+
 https://www.coinfeeds.io/daily/el-salvador-s-bitcoin-wallet-faces-security-breaches
 
 https://news.ycombinator.com/item?id=40148012

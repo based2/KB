@@ -53,6 +53,8 @@ https://news.ycombinator.com/item?id=39706004
 https://vigilance.fr/vulnerability/W3M-buffer-overflow-via-Backspace-Handling-43212
 
 # News
+https://floorp.app/en/
+
 https://lobste.rs/s/npvdod/firefox_bookmark_keywords_for_faster
 
 https://news.ycombinator.com/item?id=40399923

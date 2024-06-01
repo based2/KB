@@ -218,6 +218,8 @@ https://news.ycombinator.com/item?id=39720049
 https://news.ycombinator.com/item?id=39998149
 
 # News
+https://betterdictation.com/
+
 https://news.ycombinator.com/item?id=40321901
 
 https://news.ycombinator.com/item?id=40174921

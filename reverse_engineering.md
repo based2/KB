@@ -32,6 +32,8 @@ https://imhex.werwolv.net/
 
 https://github.com/ant4g0nist/decompiler
 
+https://github.com/uxmal/reko
+
 https://frida.re/news/2023/06/23/frida-16-1-0-released/
 > https://www.reddit.com/r/netsec/comments/14m1ikl/frida_1610_is_out_w_a_brand_new_backend_that/
 

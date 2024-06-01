@@ -1,3 +1,9 @@
+https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/
+> https://news.ycombinator.com/item?id=40515480
+
+https://citizenlab.ca/2024/05/pegasus-russian-belarusian-speaking-opposition-media-europe/
+> https://news.ycombinator.com/item?id=40535912
+
 https://news.ycombinator.com/item?id=40535436
 
 https://www.bleepingcomputer.com/news/security/snowflake-account-hacks-linked-to-santander-ticketmaster-breaches/

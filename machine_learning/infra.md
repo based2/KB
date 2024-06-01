@@ -1,5 +1,9 @@
 https://www.alteryx.com
 
+https://ollama.com
+
+https://www.raycast.com/massimiliano_pasquini/raycast-ollama
+
 # k8s
 
 https://www.kubeflow.org/
@@ -35,6 +39,12 @@ https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-an
 https://news.ycombinator.com/item?id=40302382
 
 #
+https://unsloth.ai/ Finetune Llama 3 & Mistral LLMs > less memory
+
+https://github.com/floneum/floneum alfa, rust
+
+https://mistral.ai/news/la-plateforme/
+
 https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0
 > https://news.ycombinator.com/item?id=40504212
 

@@ -15,6 +15,8 @@ https://www.semianalysis.com/p/google-we-have-no-moat-and-neither
 https://github.com/simonw/llm
 > https://llm.datasette.io/en/stable/index.html
 
+https://medium.com/@saverio3107/arena-elo-rating-system-5655e16fead5
+
 # Test
 https://github.com/mr-gpt/deepeval
 > https://news.ycombinator.com/item?id=37157323
@@ -250,6 +252,8 @@ https://news.ycombinator.com/item?id=40508390
 https://news.ycombinator.com/item?id=40507184
 
 # News
+https://news.ycombinator.com/item?id=40549021
+
 https://news.ycombinator.com/item?id=40505099
 
 https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor

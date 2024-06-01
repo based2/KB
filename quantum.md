@@ -96,6 +96,10 @@ https://www.rigetti.com/merger-announcement
 > https://news.ycombinator.com/item?id=28772402
 
 # News
+https://alice-bob.com/
+
+https://fr.wikipedia.org/wiki/Supr%C3%A9matie_quantique
+
 https://charmingscience.com/stunning-image-shows-atoms-transforming-into-quantum-waves-just-as-schrodinger-predicted/
 > https://news.ycombinator.com/item?id=40240732
 

@@ -27,6 +27,8 @@ https://github.com/acriba/heimdall rust
 https://engineering.purdue.edu/kak/compsec/
 > https://news.ycombinator.com/item?id=39214193
 
+https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019
+
 #
 https://medium.com/mitre-engenuity/infiltrating-defenses-abusing-vmware-in-mitres-cyber-intrusion-4ea647b83f5b
 

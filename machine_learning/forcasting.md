@@ -21,3 +21,5 @@ https://blog.research.google/2024/03/autobnn-probabilistic-time-series.html?m=1
 
 https://github.com/Nixtla/nixtla
 > https://news.ycombinator.com/item?id=40301592
+
+https://docs.nixtla.io/

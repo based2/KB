@@ -233,6 +233,8 @@ https://jepsen.io/analyses/datomic-pro-1.0.7075
 # concurrencyngs
 
 # News
+https://news.ycombinator.com/item?id=40527220
+
 https://blog.dtornow.com/the-cap-theorem.-the-bad-the-bad-the-ugly/
 > https://news.ycombinator.com/item?id=39625651
 

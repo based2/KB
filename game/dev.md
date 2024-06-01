@@ -161,6 +161,10 @@ https://bevyengine.org/news/bevy-0-6/
 > https://news.ycombinator.com/item?id=29854416
 
 # News
+https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html
+
+https://www.city-game-studio.com/
+
 https://news.ycombinator.com/item?id=40518203
 
 https://lobste.rs/s/5rmn4y/fixing_iterative_damping_interpolation
