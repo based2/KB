@@ -48,6 +48,8 @@ https://bugzilla.redhat.com/show_bug.cgi?id=2208553 xfs metadata corruption afte
 > https://news.ycombinator.com/item?id=36082788
 
 # News
+https://news.ycombinator.com/item?id=40555913
+
 https://news.ycombinator.com/item?id=40315400
 
 https://sigma-star.at/blog/2023/07/embedded-go-prog/

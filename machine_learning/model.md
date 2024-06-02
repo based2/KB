@@ -252,6 +252,10 @@ https://news.ycombinator.com/item?id=40508390
 https://news.ycombinator.com/item?id=40507184
 
 # News
+https://news.ycombinator.com/item?id=40534293
+
+https://news.ycombinator.com/item?id=40459543
+
 https://news.ycombinator.com/item?id=40549021
 
 https://news.ycombinator.com/item?id=40505099

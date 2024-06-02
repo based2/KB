@@ -111,6 +111,8 @@ SNCF: age date
 Olympic game: QR code
 
 # News
+https://variety.com/2023/digital/news/active-listening-marketers-smartphones-ad-targeting-cox-media-group-1235841007/
+
 https://foundation.mozilla.org/fr/privacynotincluded/categories/cars/
 
 https://chickadee.codes/cdn.html

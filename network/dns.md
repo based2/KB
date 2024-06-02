@@ -97,6 +97,8 @@ https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dn
 > https://news.ycombinator.com/item?id=40254688
 
 # Incident
+https://news.ycombinator.com/item?id=40457313
+
 https://www.bleepingcomputer.com/news/security/savvy-seahorse-gang-uses-dns-cname-records-to-power-investor-scams/
 
 https://www.netspi.com/blog/technical/network-penetration-testing/exploiting-adidns/

@@ -39,6 +39,9 @@ https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-an
 https://news.ycombinator.com/item?id=40302382
 
 #
+https://github.com/distantmagic/paddler Open-source load balancer for llama.cpp
+> https://news.ycombinator.com/item?id=40550059
+
 https://unsloth.ai/ Finetune Llama 3 & Mistral LLMs > less memory
 
 https://github.com/floneum/floneum alfa, rust

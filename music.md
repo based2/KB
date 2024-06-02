@@ -252,6 +252,10 @@ https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8
 https://github.com/jcard0na/haxo-hw
 > https://news.ycombinator.com/item?id=33682813
 
+#
+https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html Python notebooks for fundamentals of music processing
+> https://news.ycombinator.com/item?id=40550830
+
 # News
 https://news.ycombinator.com/item?id=40309759
 

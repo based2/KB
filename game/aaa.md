@@ -37,6 +37,8 @@ https://news.ycombinator.com/item?id=38612164 role
 https://talktomehuman.com/
 > https://news.ycombinator.com/item?id=40091379
 
+https://news.ycombinator.com/item?id=40426382
+
 # News
 https://news.ycombinator.com/item?id=40522744
 

@@ -24,6 +24,10 @@ https://github.com/wenlng/go-captcha
 
 https://consentomatic.au.dk/
 > https://github.com/cavi-au/Consent-O-Matic
+
+https://www.amiunique.org/
+
+https://addons.mozilla.org/fr/firefox/addon/lightbeam-chikl/
   
 # News
 https://news.ycombinator.com/item?id=40225905

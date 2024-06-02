@@ -80,3 +80,6 @@ https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html
 
 https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/
 > https://news.ycombinator.com/item?id=40514266
+
+https://milvus.io/blog/introducing-milvus-lite.md
+> https://news.ycombinator.com/item?id=40522400

@@ -277,6 +277,9 @@ https://www.techemails.com/p/bill-gates-im-literally-losing-sleep-over-java
 https://www.synacktiv.com/sites/default/files/2023-03/Synacktiv-Grails-Spring-Security-CVE-2022-41923.pdf
 
 # News
+https://www.youtube.com/watch?v=bKwzONOGLxs Java Language Update – a look at where the language is going by Brian Goetz
+> https://news.ycombinator.com/item?id=40527014
+
 https://news.ycombinator.com/item?id=40506340
 
 https://news.ycombinator.com/item?id=40211994

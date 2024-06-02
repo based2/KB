@@ -252,6 +252,9 @@ https://tapoueh.org/blog/2021/12/postgres-ha-roles-are-dynamic
 https://github.com/vitabaks/postgresql_cluster
 > https://news.ycombinator.com/item?id=36426128
 
+https://xata.io/blog/geo-distributed-postgres
+> https://news.ycombinator.com/item?id=40542940
+
 # Restoration
 https://www.highgo.ca/2023/05/09/various-restoration-techniques-using-postgresql-point-in-time-recovery/
 

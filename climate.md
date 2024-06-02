@@ -71,6 +71,8 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://news.ycombinator.com/item?id=40553526
+
 https://news.ycombinator.com/item?id=40322842
 
 https://news.ycombinator.com/item?id=40249876
