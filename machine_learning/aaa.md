@@ -553,6 +553,10 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://interconnected.org/home/2024/05/31/camera
+
+https://stratechery.com/2024/mkbhds-for-everything/
+
 https://news.ycombinator.com/item?id=40310228
 
 https://news.ycombinator.com/item?id=40307832

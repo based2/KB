@@ -18,6 +18,9 @@ https://www.reuters.com/business/autos-transportation/tesla-opens-charging-netwo
 > https://news.ycombinator.com/item?id=29078287
 
 # News
+https://apnews.com/article/toyota-certification-cheating-japan-automakers-scandal-26585a96df2a32f7d67a4011a0a98772
+> https://news.ycombinator.com/item?id=40563180
+
 https://news.ycombinator.com/item?id=40243630
 
 https://news.ycombinator.com/item?id=40084130

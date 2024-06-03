@@ -1,5 +1,8 @@
 https://ophysics.com/index.html
 
+https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations
+> https://news.ycombinator.com/item?id=40557134
+
 https://news.ycombinator.com/item?id=39374020
 
 https://nicf.net/articles/physics-for-mathematicians/

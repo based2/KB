@@ -158,6 +158,9 @@ https://slideslive.com/38909911/no-one-shall-drive-us-from-the-semantic-ai-parad
 
 https://news.ycombinator.com/item?id=40241310
 
+https://ogma.framer.website/ Ogma: Interpretable Symbolic General Problem-Solving Model
+> https://news.ycombinator.com/item?id=40563763
+
 # News
 https://news.ycombinator.com/item?id=40401343
 

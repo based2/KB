@@ -251,6 +251,9 @@ https://news.ycombinator.com/item?id=40508390
 
 https://news.ycombinator.com/item?id=40507184
 
+https://tridao.me/blog/2024/mamba2-part1-model/
+> https://news.ycombinator.com/item?id=40564067
+
 # News
 https://news.ycombinator.com/item?id=40534293
 

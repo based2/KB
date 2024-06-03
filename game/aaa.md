@@ -40,6 +40,10 @@ https://talktomehuman.com/
 https://news.ycombinator.com/item?id=40426382
 
 # News
+https://news.ycombinator.com/item?id=40552377
+
+https://github.com/muxcraftserver/MuxSystem
+
 https://news.ycombinator.com/item?id=40522744
 
 https://www.filfre.net/2024/05/riven/

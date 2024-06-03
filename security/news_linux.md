@@ -43,6 +43,9 @@ https://github.com/sudo-project/sudo/commit/7873f8334c8d31031f8cfa83bd97ac602930
 https://news.ycombinator.com/item?id=40014724
 
 # News
+https://opensourcewatch.beehiiv.com/p/nasty-linux-bug-cve20241086-loose
+> https://news.ycombinator.com/item?id=40564561
+
 https://pwning.tech/nftables/
 
 https://tukaani.org/xz/#_stable

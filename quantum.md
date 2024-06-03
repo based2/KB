@@ -45,6 +45,9 @@ https://spectrum.ieee.org/quantum-programming-language-twist
 # Algorithms
 
 # Physics
+https://news.columbia.edu/news/coldest-lab-new-york-has-new-quantum-offering
+> https://news.ycombinator.com/item?id=40563744
+
 https://www.nature.com/articles/s41467-022-28462-x All-optical dissipative discrete time crystals
 
 https://phys.org/news/2022-01-ultrathin-materials-pave-personal-sized-quantum.html
