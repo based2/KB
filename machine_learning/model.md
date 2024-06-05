@@ -254,7 +254,15 @@ https://news.ycombinator.com/item?id=40507184
 https://tridao.me/blog/2024/mamba2-part1-model/
 > https://news.ycombinator.com/item?id=40564067
 
+https://arxiv.org/abs/2406.02061
+> https://news.ycombinator.com/item?id=40585039
+
 # News
+https://news.ycombinator.com/item?id=40564404
+
+https://github.com/NX-AI/xlstm
+> https://news.ycombinator.com/item?id=40572288
+
 https://news.ycombinator.com/item?id=40534293
 
 https://news.ycombinator.com/item?id=40459543

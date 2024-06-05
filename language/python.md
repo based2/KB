@@ -288,6 +288,8 @@ https://github.com/PySimpleGUI/PySimpleGUI
 
 https://news.ycombinator.com/item?id=39441677
 
+https://news.ycombinator.com/item?id=40567327
+
 # Infra
 https://bluebanquise.com/
 

@@ -10,6 +10,10 @@ https://objective-see.org/products/blockblock.html
 https://www.bitdefender.com/blog/labs/fragments-of-cross-platform-backdoor-hint-at-larger-mac-os-attack/
 
 #
+https://news.ycombinator.com/item?id=40581723
+
+https://news.ycombinator.com/item?id=40579660
+
 https://securitylabs.datadoghq.com/articles/malicious-pypi-package-targeting-highly-specific-macos-machines/
 
 https://news.ycombinator.com/item?id=40485053

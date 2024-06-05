@@ -23,3 +23,6 @@ https://github.com/Nixtla/nixtla
 > https://news.ycombinator.com/item?id=40301592
 
 https://docs.nixtla.io/
+
+https://www.nature.com/articles/d41586-024-01677-2 	Superfast Microsoft AI is first to predict air pollution for the whole world
+> https://news.ycombinator.com/item?id=40584498

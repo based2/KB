@@ -33,6 +33,9 @@ https://smsgte.org/ug-sending-messages
 https://blog.sigplan.org/2021/12/14/circuit-scaling-for-analog-computing/
 
 # News
+https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles
+> https://news.ycombinator.com/item?id=40578705
+
 https://news.ycombinator.com/item?id=40541559
 
 https://news.ycombinator.com/item?id=40492054

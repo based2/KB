@@ -1,3 +1,8 @@
+https://news.ycombinator.com/item?id=40585893
+
+https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop
+> https://news.ycombinator.com/item?id=40571088
+
 https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/
 > https://news.ycombinator.com/item?id=40515480
 

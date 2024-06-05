@@ -162,6 +162,9 @@ https://ogma.framer.website/ Ogma: Interpretable Symbolic General Problem-Solvin
 > https://news.ycombinator.com/item?id=40563763
 
 # News
+https://mathstodon.xyz/@tao/112557248794707738 A breakthrough towards the Riemann hypothesis
+> https://news.ycombinator.com/item?id=40571995
+
 https://news.ycombinator.com/item?id=40401343
 
 https://news.ycombinator.com/item?id=40389094

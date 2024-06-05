@@ -218,6 +218,9 @@ https://news.ycombinator.com/item?id=39720049
 https://news.ycombinator.com/item?id=39998149
 
 # News
+https://stability.ai/news/introducing-stable-audio-open
+> https://news.ycombinator.com/item?id=40587685
+
 https://betterdictation.com/
 
 https://news.ycombinator.com/item?id=40321901

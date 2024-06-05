@@ -21,6 +21,8 @@ https://99percentinvisible.org/episode/the-real-book/
 https://www.lowvolumedrumming.org/descending-toms/ drum
 > https://news.ycombinator.com/item?id=26930361
 
+https://news.ycombinator.com/item?id=40582035
+
 https://github.com/LingDong-/legumes A sheet music to polylines renderer
 
 https://ianring.com/musictheory/scales/

@@ -406,6 +406,11 @@ https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/internat
 > https://news.ycombinator.com/item?id=40400438
 
 # Incident
+https://news.ycombinator.com/item?id=40573097
+
+https://www.theregister.com/2024/06/04/openai_chatgpt_outage/
+> https://news.ycombinator.com/item?id=40576356
+
 https://huggingface.co/blog/space-secrets-disclosure
 > https://news.ycombinator.com/item?id=40544875
 
@@ -553,6 +558,8 @@ https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
 # News
+https://news.ycombinator.com/item?id=40585212
+
 https://interconnected.org/home/2024/05/31/camera
 
 https://stratechery.com/2024/mkbhds-for-everything/
