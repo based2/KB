@@ -35,10 +35,16 @@ https://news.ycombinator.com/item?id=40237546
 https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search
 > https://news.ycombinator.com/item?id=40524759
 
+https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/
+> https://news.ycombinator.com/item?id=40616121
+
 ## Meta
 https://news.ycombinator.com/item?id=40302382
 
 #
+https://austinhenley.com/blog/codeaid.html
+> https://news.ycombinator.com/item?id=40609916
+
 https://github.com/distantmagic/paddler Open-source load balancer for llama.cpp
 > https://news.ycombinator.com/item?id=40550059
 

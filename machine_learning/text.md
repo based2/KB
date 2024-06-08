@@ -74,6 +74,8 @@ https://news.ycombinator.com/item?id=39579446
 https://news.ycombinator.com/item?id=40252569 Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU
 
 # News
+https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/
+
 https://news.ycombinator.com/item?id=40321635
 
 https://news.ycombinator.com/item?id=40292486

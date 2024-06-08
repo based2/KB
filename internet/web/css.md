@@ -141,6 +141,9 @@ https://web.dev/patterns/layout/
 > https://news.ycombinator.com/item?id=29254391
 
 #
+https://ishadeed.com/article/css-cap-unit/
+> https://news.ycombinator.com/item?id=40590402
+
 https://chasem.co/2024/05/css-animations/
 > https://news.ycombinator.com/item?id=40493424
 

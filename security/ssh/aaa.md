@@ -173,6 +173,9 @@ https://github.com/libgit2/libgit2/security/advisories/GHSA-8643-3wh5-rmjq
 https://packetstormsecurity.com/files/167475/kitty07608-overflow.txt
 
 # News
+https://undeadly.org/cgi?action=article;sid=20240607042157
+> https://news.ycombinator.com/item?id=40610621
+
 https://lobste.rs/s/kkblar/use_cases_for_i_option_sshd
 
 https://news.ycombinator.com/item?id=40060901

@@ -170,6 +170,10 @@ https://cacm.acm.org/opinion/articles/252174-the-10-best-practices-for-remote-so
 https://github.com/tuvtran/project-based-learning
 
 # News
+https://news.ycombinator.com/item?id=40612721
+
+https://news.ycombinator.com/item?id=40612285
+
 https://news.ycombinator.com/item?id=40525064
 
 https://news.ycombinator.com/item?id=40397743

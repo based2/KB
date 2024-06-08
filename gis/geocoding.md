@@ -20,6 +20,8 @@ https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encodin
 
 https://blog.opencagedata.com/post/dont-believe-chatgpt
 
+https://news.ycombinator.com/item?id=40608615
+
 # Reverse
 https://github.com/thampiman/reverse-geocoder
 > https://news.ycombinator.com/item?id=9281222

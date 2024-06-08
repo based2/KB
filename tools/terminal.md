@@ -45,6 +45,9 @@ https://github.com/piccolomo/plotext python
 > https://news.ycombinator.com/item?id=27719759
 
 # News
+https://github.com/hackerb9/lsix
+> https://news.ycombinator.com/item?id=40598629
+
 https://news.ycombinator.com/item?id=40444392
 
 https://chrisbuilds.github.io/terminaltexteffects/showroom/

@@ -40,6 +40,8 @@ https://talktomehuman.com/
 https://news.ycombinator.com/item?id=40426382
 
 # News
+https://news.ycombinator.com/item?id=40607266
+
 https://news.ycombinator.com/item?id=40552377
 
 https://github.com/muxcraftserver/MuxSystem

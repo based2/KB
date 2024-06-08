@@ -99,3 +99,5 @@ https://news.ycombinator.com/item?id=39531600
 https://github.com/Textualize/frogmouth terminal python
 
 https://news.ycombinator.com/item?id=40055103
+
+https://news.ycombinator.com/item?id=40608941

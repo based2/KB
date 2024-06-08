@@ -10,6 +10,10 @@ https://tellusim.com/compute-raster/
 https://news.ycombinator.com/item?id=29058681 Ask HN: Will there ever be a vendor agnostic GPU interface?
 
 # News
+https://news.ycombinator.com/item?id=40613854
+
+https://www.theguardian.com/technology/article/2024/jun/02/ai-hardware-firm-nvidia-unveils-next-gen-products-at-taiwan-tech-expo
+
 https://gitlab.com/corectrl/corectrl
 
 https://github.com/HigherOrderCO/Bend Bend: a high-level language that runs on GPUs (via HVM2)

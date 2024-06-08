@@ -109,6 +109,9 @@ https://wiki.debian.org/Packaging/Intro
 > https://wiki.debian.org/HowToPackageForDebian
 
 # News
+https://omakub.org/
+> https://news.ycombinator.com/item?id=40591112
+
 https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide
 > https://news.ycombinator.com/item?id=40533319
 

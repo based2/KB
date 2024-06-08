@@ -20,6 +20,9 @@ https://tabula.technology/
 > > https://excalibur-py.readthedocs.io/en/master/
 
 #
+https://github.com/latex3/tagging-project/discussions/72
+> https://news.ycombinator.com/item?id=40587934
+
 https://github.com/Stirling-Tools/Stirling-PDF
 
 https://news.ycombinator.com/item?id=40242639

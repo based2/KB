@@ -64,6 +64,8 @@ https://ptsjs.org/
 https://dynamicsjs.com/
 
 # News
+https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/
+
 https://news.ycombinator.com/item?id=40378791
 
 https://news.ycombinator.com/item?id=40401060

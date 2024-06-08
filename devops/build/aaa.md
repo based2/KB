@@ -8,6 +8,8 @@ https://makefiletutorial.com/
 #
 https://news.ycombinator.com/item?id=40588508
 
+https://news.ycombinator.com/item?id=40588508
+
 https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AutoconfValuableFeatures
 
 https://news.ycombinator.com/item?id=40141175 go

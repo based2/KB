@@ -406,6 +406,9 @@ https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/internat
 > https://news.ycombinator.com/item?id=40400438
 
 # Incident
+https://www.wired.com/story/microsoft-recall-off-default-security-concerns/
+> https://news.ycombinator.com/item?id=40610435
+
 https://news.ycombinator.com/item?id=40573097
 
 https://www.theregister.com/2024/06/04/openai_chatgpt_outage/
@@ -557,7 +560,14 @@ https://status.openai.com/#
 https://arxiv.org/abs/1903.01003
 > https://news.ycombinator.com/item?id=35489342
 
+https://www.youtube.com/watch?v=-PFIkkwWdnM Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem
+
 # News
+https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/
+> https://news.ycombinator.com/item?id=40601116
+
+https://news.ycombinator.com/item?id=40610794
+
 https://news.ycombinator.com/item?id=40585212
 
 https://interconnected.org/home/2024/05/31/camera

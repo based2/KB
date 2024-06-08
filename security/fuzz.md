@@ -14,6 +14,8 @@ https://thevaluable.dev/practical-guide-fzf-example/
 https://blog.trailofbits.com/2024/02/09/master-fuzzing-with-our-new-testing-handbook-chapter/
 
 #
+https://0xbigshaq.github.io/2024/05/24/njs-vr-bugs/
+
 https://news.ycombinator.com/item?id=39849071
 
 https://github.com/nstarke/bootfuzz

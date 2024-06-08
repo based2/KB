@@ -35,6 +35,12 @@ weatherspark .no
 https://www.weatherspark.com
 
 # News
+https://www.weather.gov/iln/cwop
+> https://news.ycombinator.com/item?id=40589172
+
+https://github.com/blixt/sol-mate-eink
+> https://news.ycombinator.com/item?id=40607889
+
 https://www.rain-alarm.com/
 
 https://news.ycombinator.com/item?id=39702457

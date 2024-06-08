@@ -7,6 +7,8 @@ https://startyourownisp.com/
 
 https://blog.3g4g.co.uk/2015/01/voice-over-wifi-vowifi-technical-details.html
 
+https://www.wikipedia.org/wiki/Qualcomm
+
 # ISP
 https://github.com/rchac/LibreQoS
 
@@ -257,6 +259,8 @@ https://news.ycombinator.com/item?id=34570065
 https://news.ycombinator.com/item?id=34665023
 
 # News
+https://news.ycombinator.com/item?id=40614310
+
 https://news.ycombinator.com/item?id=40527743
 
 https://asia.nikkei.com/Business/Technology/Japan-ministry-asks-Line-Yahoo-operator-to-shed-Naver-influence

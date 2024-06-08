@@ -348,6 +348,9 @@ https://vigilance.fr/vulnerabilite/PostgreSQL-acces-en-lecture-et-ecriture-via-R
 https://www.postgresql.org/about/news/postgresql-143-137-1211-1116-and-1021-released-2449/ CVE-2022-1552: Autovacuum, REINDEX, and others omit "security restricted operation" sandbox
 
 # News
+https://github.com/sushrut141/pg_analytica Speed up queries by exporting tables to columnar format
+> https://news.ycombinator.com/item?id=40617877
+
 https://blog.peerdb.io/simple-postgres-to-clickhouse-replication-featuring-minio
 
 http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html

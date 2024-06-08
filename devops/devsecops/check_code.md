@@ -9,3 +9,6 @@ https://github.com/NASA-SW-VnV/ikos/discussions/253
 https://www.shellcheck.net/
 
 https://news.ycombinator.com/item?id=40001194 python
+
+https://github.com/batfish/batfish
+> https://news.ycombinator.com/item?id=40612934

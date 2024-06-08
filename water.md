@@ -193,3 +193,6 @@ https://news.ycombinator.com/item?id=40326128
 https://news.ycombinator.com/item?id=40297748
 
 https://news.ycombinator.com/item?id=40321230
+
+https://brr.fyi/posts/south-pole-water-infrastructure
+> https://news.ycombinator.com/item?id=40615530

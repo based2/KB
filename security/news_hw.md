@@ -10,6 +10,9 @@ https://www.allaboutcircuits.com/news/sifive-gives-its-worldguard-security-model
 https://news.ycombinator.com/item?id=39165342
 
 #
+https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html
+> https://news.ycombinator.com/item?id=40593540
+
 https://news.ycombinator.com/item?id=40527578
 
 https://news.ycombinator.com/item?id=40485235

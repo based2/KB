@@ -71,6 +71,11 @@ https://en-roads.climateinteractive.org/scenario.html?v=21.6.0
 https://www.terraformation.com/
 
 # News
+https://github.com/sosy-lab/cpu-energy-meter
+> https://news.ycombinator.com/item?id=40604596
+
+https://www.washingtonpost.com/weather/2024/06/03/west-california-heat-records-climate/
+
 https://news.ycombinator.com/item?id=40553526
 
 https://news.ycombinator.com/item?id=40322842

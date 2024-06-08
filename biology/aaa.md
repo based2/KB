@@ -50,6 +50,8 @@ https://news.ycombinator.com/item?id=39348902
 https://www.annualreviews.org/doi/full/10.1146/annurev-micro-033020-020648
 
 # News
+https://news.ycombinator.com/item?id=40603696
+
 https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/
 > https://news.ycombinator.com/item?id=40245769
 

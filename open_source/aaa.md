@@ -199,9 +199,6 @@ https://livekit.io/
 https://github.com/toger5/TheBoard
 > https://news.ycombinator.com/item?id=28017327
 
-https://fosscord.com/ alpha
-> https://news.ycombinator.com/item?id=27720391
-
 https://cryptpad.cz/
 > https://github.com/xwiki-labs/cryptpad
 > > https://news.ycombinator.com/item?id=29921947

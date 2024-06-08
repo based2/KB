@@ -1,3 +1,7 @@
+https://blog.cloudflare.com/dutch-political-websites-hit-by-cyber-attacks-as-eu-voting-starts
+
+https://news.ycombinator.com/item?id=40601356
+
 https://news.ycombinator.com/item?id=40585893
 
 https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop

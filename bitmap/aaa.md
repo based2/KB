@@ -81,6 +81,9 @@ https://nabla.typearture.com/
 https://sebastien-gabriel.com/designers-guide-to-dpi/
 
 # News
+https://meatfighter.com/ascii-silhouettify/
+> https://news.ycombinator.com/item?id=40610641
+
 https://durdraw.org/
 
 https://textart.sh/

@@ -66,6 +66,8 @@ https://aws.amazon.com/en/service-terms/ 42.10
 > https://aws.amazon.com/en/service-terms/historical/2020-03-23/
 
 # Incident
+https://securitylabs.datadoghq.com/articles/non-production-endpoints-as-an-attack-surface-in-aws/
+
 https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce
 > https://news.ycombinator.com/item?id=40227736
 

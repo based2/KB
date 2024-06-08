@@ -257,7 +257,18 @@ https://tridao.me/blog/2024/mamba2-part1-model/
 https://arxiv.org/abs/2406.02061
 > https://news.ycombinator.com/item?id=40585039
 
+https://news.ycombinator.com/item?id=40608413
+
+https://arxiv.org/abs/2404.09562 σ-GPTs: A new approach to autoregressive models
+> https://news.ycombinator.com/item?id=40608413
+
 # News
+https://news.ycombinator.com/item?id=40588517
+
+https://news.ycombinator.com/item?id=40599018
+
+https://linuxfr.org/users/jobpilot/journaux/llm-auto-heberges-ou-non-mon-experience
+
 https://news.ycombinator.com/item?id=40564404
 
 https://github.com/NX-AI/xlstm

@@ -62,6 +62,8 @@ https://www.leanix.net/en/download/mitigate-cves-with-a-service-catalog
 https://news.ycombinator.com/item?id=38471475
 
 #
+https://news.ycombinator.com/item?id=40606756
+
 https://github.com/DataDog/guarddog
 
 https://blog.phylum.io/how-malicious-python-code-gains-execution/

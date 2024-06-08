@@ -83,6 +83,8 @@ https://github.com/pixpark/gpupixel/tree/main
 
 https://linuxfr.org/news/transformer-une-photo-en-bd-avec-le-filtre-comicbook-de-g-mic
 
+https://linuxfr.org/news/creatures-ou-ia-consultez-manipulez-annotez-les-images-des-bibliotheques-musees-grace-a-iiif
+
 # Photography
 https://ansel.photos/en/
 > https://news.ycombinator.com/item?id=38390914
