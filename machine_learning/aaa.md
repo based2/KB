@@ -338,6 +338,8 @@ https://matt.might.net/articles/hello-perceptron/
 
 https://news.ycombinator.com/item?id=40069298
 
+https://news.ycombinator.com/item?id=40625823
+
 # Detextion
 https://gonzoknows.com/posts/GPTZero-Case-Study/
 > https://news.ycombinator.com/item?id=34858307
@@ -563,6 +565,9 @@ https://arxiv.org/abs/1903.01003
 https://www.youtube.com/watch?v=-PFIkkwWdnM Kolmogorov-Arnold Networks: MLP vs KAN, Math, B-Splines, Universal Approximation Theorem
 
 # News
+https://link.springer.com/article/10.1007/s10676-024-09775-5
+> https://news.ycombinator.com/item?id=40626692
+
 https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/
 > https://news.ycombinator.com/item?id=40601116
 

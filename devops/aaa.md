@@ -117,6 +117,8 @@ https://github.com/reposaur/reposaur Allows users and organizations to execute p
 https://opensourcesecurity.io/2022/09/06/why-has-software-supply-chain-security-exploded/
 
 # Incidents
+https://www.bleepingcomputer.com/news/security/malicious-visual-studio-code-extensions-with-millions-of-installs-discovered/
+
 https://news.ycombinator.com/item?id=40615653
 
 https://jira.atlassian.com/browse/CONFSERVER-95832

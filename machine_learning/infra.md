@@ -42,6 +42,9 @@ https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-
 https://news.ycombinator.com/item?id=40302382
 
 #
+https://github.com/SilasMarvin/lsp-ai open-source language server serving as back end for AI code assistance
+> https://news.ycombinator.com/item?id=40617082
+
 https://austinhenley.com/blog/codeaid.html
 > https://news.ycombinator.com/item?id=40609916
 

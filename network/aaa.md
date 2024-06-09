@@ -146,6 +146,8 @@ https://netbox.readthedocs.io/en/stable/
 https://www.it-connect.fr/le-nat-et-le-pat-pour-les-debutants/
 
 # News
+https://spj.science.org/doi/10.34133/cbsystems.0092 Finite-Time Topology Identification of Delayed Complex Dynamical Networks
+
 https://news.ycombinator.com/item?id=40586757
 
 https://news.ycombinator.com/item?id=40553267

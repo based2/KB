@@ -59,3 +59,5 @@ https://www.theregister.com/2024/02/23/linux_built_for_a_vm/
 https://news.ycombinator.com/item?id=40162699
 
 https://news.ycombinator.com/item?id=40182251
+
+https://codesandbox.io/blog/how-we-scale-our-microvm-infrastructure-using-low-latency-memory-decompression

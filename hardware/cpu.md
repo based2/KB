@@ -1,3 +1,5 @@
+https://news.ycombinator.com/item?id=40626058
+
 https://news.ycombinator.com/item?id=40011464
 
 https://news.ycombinator.com/item?id=39978577

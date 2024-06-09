@@ -105,6 +105,9 @@ https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023
 
 https://news.ycombinator.com/item?id=39627624
 
+https://www.theregister.com/2024/06/07/sorbs_closed/
+> https://news.ycombinator.com/item?id=40624439
+
 # Security
 
 https://mailvelope.com/en

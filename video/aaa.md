@@ -126,6 +126,8 @@ https://news.ycombinator.com/item?id=39512912
 https://news.ycombinator.com/item?id=39593256
 
 # News
+https://news.ycombinator.com/item?id=40624645
+
 https://news.ycombinator.com/item?id=40562458
 
 https://www.downloadhelper.net/
